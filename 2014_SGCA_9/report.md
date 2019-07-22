@@ -16,7 +16,7 @@
 
 _Revenue Law_ – _Property Tax_ – _Occupier_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2013] 1 SLR 1053.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2013] 1 SLR 1053</span>.] 
 
 24 January 2014 Judgment reserved. 
 
@@ -51,7 +51,7 @@ present appeal. [note: 9]
 
 **Decision below** 
 
-6       The Judge found that the Units were not “unoccupied” during the fitting-out period, and that no vacancy refund was due to the Appellant. Based on a review of legislative history and parliamentary debates surrounding s 8 of the Act, he concluded that its legislative purpose was “clearly to alleviate the financial burden of property owners who failed to obtain tenants for their properties” (see _BFC Development LLP v Comptroller of Property Tax_ [2013] 1 SLR 1053 (“the Judgment”) at [18]). As such, it would be inconsistent with legislative intention to construe the word “unoccupied” such that owners who had already secured tenants could be eligible for the vacancy refund. The Judge rejected the Appellant’s reliance on a number of English cases for an alternative definition of “occupation” which was rooted in “enjoyment of the property”. He opined that these cases were decided in a different legislative context as in England property tax is levied on occupiers of property, whereas in Singapore it is imposed on owners of property regardless of whether the property is occupied or used. 
+6       The Judge found that the Units were not “unoccupied” during the fitting-out period, and that no vacancy refund was due to the Appellant. Based on a review of legislative history and parliamentary debates surrounding s 8 of the Act, he concluded that its legislative purpose was “clearly to alleviate the financial burden of property owners who failed to obtain tenants for their properties” (see _BFC Development LLP v Comptroller of Property Tax_ <span class="citation">[2013] 1 SLR 1053</span> (“the Judgment”) at [18]). As such, it would be inconsistent with legislative intention to construe the word “unoccupied” such that owners who had already secured tenants could be eligible for the vacancy refund. The Judge rejected the Appellant’s reliance on a number of English cases for an alternative definition of “occupation” which was rooted in “enjoyment of the property”. He opined that these cases were decided in a different legislative context as in England property tax is levied on occupiers of property, whereas in Singapore it is imposed on owners of property regardless of whether the property is occupied or used. 
 
 7       The Judge further rejected the Appellant’s argument that there was no need for _all_ four conditions for refund stipulated in s 8(4) of the Act to be fulfilled throughout the entire Claim Period and that vacancy refund could still be sought after a tenant had been found so long as no rent was payable in respect of such Claim Period. The Judge opined that the condition at s 8(4)( _b_ ) of the Act presupposed that _no tenant had been found_ for the Units. In this case, the conditions at s 8(4)( _b_ ) ceased to be fulfilled once tenants had been found for the Units (see the Judgment at [19]-[20]). 
 
@@ -93,7 +93,7 @@ to obtain a tenant, or demanding a reasonable rent. [note: 14]
 
 **Legislative history and Parliamentary intention** 
 
-14     As this court recently reiterated in _Dorsey James Michael v World Sport Group Pte Ltd_ [2013] 3 SLR 354 (at [16]), the purposive approach mandated by s 9A of the Interpretation Act (Cap 1, 2002 Rev Ed) (“Interpretation Act”) takes precedence over common law principles of statutory interpretation. Section 9A of the Interpretation Act provides as follows: 
+14     As this court recently reiterated in _Dorsey James Michael v World Sport Group Pte Ltd_ <span class="citation">[2013] 3 SLR 354</span> (at [16]), the purposive approach mandated by s 9A of the Interpretation Act (Cap 1, 2002 Rev Ed) (“Interpretation Act”) takes precedence over common law principles of statutory interpretation. Section 9A of the Interpretation Act provides as follows: 
 
  9A.-(1) In the interpretation of a provision of a written law, an interpretation that would promote the purpose or object underlying the written law (whether that purpose or object is expressly stated in the written law or not) shall be preferred to an interpretation that would not promote that purpose or object. 
 

@@ -16,7 +16,7 @@
 
 _Equity_ – _proprietary estoppel_ – _Remedying the equity_ 
 
-[LawNet Editorial Note: Civil Appeal No 76 of 2012 was partially allowed and Civil Appeal No 78 of 2012 was dismissed by the Court of Appeal on 18 January 2013. See [2013] SGCA 6.] 
+[LawNet Editorial Note: Civil Appeal No 76 of 2012 was partially allowed and Civil Appeal No 78 of 2012 was dismissed by the Court of Appeal on 18 January 2013. See <span class="citation">[2013] SGCA 6</span>.] 
 
 15 May 2012 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Equity_ – _proprietary estoppel_ – _Remedying the equity_
 
 **Introduction** 
 
-1       This present appeal and cross appeal arose out of the Assistant Registrar’s assessment of damages pursuant to my decision in _Lim Chin San Contractors Pte Ltd v Shiok Skim Seng_ [2010] SGHC 243 (“the Judgment”). In the Judgment, I found that the Defendant had made out a claim for proprietary estoppel and directed that the quantum of compensation is to be assessed by a Registrar. Also, in the Judgment, I specifically directed that the parties are to be at liberty to clarify the terms of the orders I made, and to apply for any ancillary orders so as to give effect to my judgment. I note that neither party had done so. They proceeded to argue the quantum of compensation before the Assistant Registrar on their respective assumptions and both now appeal against the assessment below. 
+1       This present appeal and cross appeal arose out of the Assistant Registrar’s assessment of damages pursuant to my decision in _Lim Chin San Contractors Pte Ltd v Shiok Skim Seng_ <span class="citation">[2010] SGHC 243</span> (“the Judgment”). In the Judgment, I found that the Defendant had made out a claim for proprietary estoppel and directed that the quantum of compensation is to be assessed by a Registrar. Also, in the Judgment, I specifically directed that the parties are to be at liberty to clarify the terms of the orders I made, and to apply for any ancillary orders so as to give effect to my judgment. I note that neither party had done so. They proceeded to argue the quantum of compensation before the Assistant Registrar on their respective assumptions and both now appeal against the assessment below. 
 
 2       All the necessary findings of fact are set out in the Judgment and need not be repeated here for the purposes of this appeal against the assessment below. 
 
@@ -56,7 +56,7 @@ _Equity_ – _proprietary estoppel_ – _Remedying the equity_
 
 quantifying the compensation, no single approach is determinative. The court could even arrive at an intermediate figure taking into account the different bases: _Clayton v Green_ (1979) NZRL 139 at 140. 
 
-9       The issue of whether the court should address the claimant’s expectations or the losses or detriment the claimant sustained as a result of his reliance upon the representation was addressed by Sundaresh Menon JC in _Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd_ [2007] 1 SLR(R) 292 (“ _Hong Leong_ ”). After undertaking a comprehensive survey of the existing authorities, Menon JC concluded (at [247]-[249]): 
+9       The issue of whether the court should address the claimant’s expectations or the losses or detriment the claimant sustained as a result of his reliance upon the representation was addressed by Sundaresh Menon JC in _Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd_ <span class="citation">[2007] 1 SLR(R) 292</span> (“ _Hong Leong_ ”). After undertaking a comprehensive survey of the existing authorities, Menon JC concluded (at [247]-[249]): 
 
  247 The approach taken in Jennings v Rice towards fashioning an adequate but proportionate remedy is consistent with that taken in particular by Mason CJ in the Australian High Court decision in Commonwealth of Australia v Verwayen (1990) 170 CLR 394. Mason CJ noted as follows at 413: 
 

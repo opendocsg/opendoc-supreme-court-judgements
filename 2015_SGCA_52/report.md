@@ -22,7 +22,7 @@ _Family Law_ – _Matrimonial assets_ – _Division_
 
 1       This was the husband’s appeal in relation to the questions of division of matrimonial assets and maintenance of the wife following the grant of an interim judgment for divorce. The judge below (“the Judge”) had ordered that (i) the matrimonial home and the sale proceeds of a Malaysian property, which were the only assets up for division, be given entirely to the wife, and (ii) the husband pay the wife maintenance in the sum of $4,000 a month. The husband was dissatisfied on both counts. 
 
-2       Having heard parties, we allowed the appeal in part. We affirmed the Judge’s order that the husband pay the wife maintenance in the sum of $4,000 a month but ordered that the assets be divided instead, in the proportions of 75% to the wife and 25% to the husband. We now explain in greater detail our decision to allow the appeal in relation to the division of matrimonial assets. We do so with a view to reaffirm the principles and approach set out in this court’s recent decision of _ANJ v ANK_ [2015] 4 SLR 1043 (“ _ANJ v ANK_ ”). 
+2       Having heard parties, we allowed the appeal in part. We affirmed the Judge’s order that the husband pay the wife maintenance in the sum of $4,000 a month but ordered that the assets be divided instead, in the proportions of 75% to the wife and 25% to the husband. We now explain in greater detail our decision to allow the appeal in relation to the division of matrimonial assets. We do so with a view to reaffirm the principles and approach set out in this court’s recent decision of _ANJ v ANK_ <span class="citation">[2015] 4 SLR 1043</span> (“ _ANJ v ANK_ ”). 
 
 **Background facts** 
 

@@ -394,7 +394,7 @@ director of Furong Corpbond. [note: 103]
 
 54     In support of the argument that the injunction order was brought for a collateral purpose (allegedly to bring the first defendant to his knees) and therefore ought to be discharged, counsel for the first defendant cited _Art Trend Ltd v Blue Dolphin (Pte) Ltd and others_ [1981–1982] SLR(R) 633 and _Bouvier, Yves Charles Edgar and another v Accent Delight International Ltd and another and_ 
 
-_another appeal_ [2015] 5 SLR 558. [note: 104] 
+_another appeal_ <span class="citation">[2015] 5 SLR 558</span>. [note: 104] 
 
 55     It was submitted that the sequence of events outlined in the first defendant’s affidavit revealed that the true aim of the injunction was to ensure that Furong and the first defendant did not have ready access to funds necessary to finance the investigations into the wrongdoings of the first 
 
@@ -441,11 +441,11 @@ purchased the Furong Bonds. [note: 118] In fact, he met the first plaintiff for 
 
 Property]” was proved to be untrue. [note: 119] 
 
-62     The first defendant cited _Meespierson NV v Industrial and Commercial Bank of Vietnam_ [1998] 1 SLR(R) 287 to contend that a Mareva injunction should not be used to obtain security for a plaintiff’s claim unless there was a real risk of the defendant dissipating his assets in order to avoid 
+62     The first defendant cited _Meespierson NV v Industrial and Commercial Bank of Vietnam_ <span class="citation">[1998] 1 SLR(R) 287</span> to contend that a Mareva injunction should not be used to obtain security for a plaintiff’s claim unless there was a real risk of the defendant dissipating his assets in order to avoid 
 
 satisfying any judgment which the plaintiff might eventually obtain. [note: 120] “There must be some ‘solid evidence’ to substantiate the alleged risk” ( _per_ Chao Hick Tin JA in _Guan Chong Cocoa_ 
 
-_Manufacturer Sdn Bhd v Pratiwi Shipping SA_ [2003] 1 SLR(R) 157 at [18]). [note: 121] Indeed, the Court of Appeal in _Choy Chee Keen Collin v Public Utilities Board_ [1996] 3 SLR(R) 812 at [24] held it 
+_Manufacturer Sdn Bhd v Pratiwi Shipping SA_ <span class="citation">[2003] 1 SLR(R) 157</span> at [18]). [note: 121] Indeed, the Court of Appeal in _Choy Chee Keen Collin v Public Utilities Board_ <span class="citation">[1996] 3 SLR(R) 812</span> at [24] held it 
 
 was an abuse of process to use a Mareva injunction to obtain security for a claim. [note: 122] 
 

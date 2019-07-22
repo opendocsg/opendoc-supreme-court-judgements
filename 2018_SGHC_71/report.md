@@ -65,7 +65,7 @@ bag containing S$13,000. [note: 11]
 
 **The Charge** 
 
-7       The Prosecution brought the Charge against the accused in respect of the Five Bundles. The elements of the offence of trafficking in a controlled drug under s 5(1)( _a_ ) of the MDA were: (i) possession of a controlled drug, (ii) knowledge of the nature of the drug, (iii) proof that possession of the drug was for the purpose of trafficking which was not authorised ( _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ [2014] 3 SLR 721 at [59]). In the course of the trial, an ancillary hearing was also held to determine the admissibility of some of the accused’s statements for reasons that will be elaborated below. 
+7       The Prosecution brought the Charge against the accused in respect of the Five Bundles. The elements of the offence of trafficking in a controlled drug under s 5(1)( _a_ ) of the MDA were: (i) possession of a controlled drug, (ii) knowledge of the nature of the drug, (iii) proof that possession of the drug was for the purpose of trafficking which was not authorised ( _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ <span class="citation">[2014] 3 SLR 721</span> at [59]). In the course of the trial, an ancillary hearing was also held to determine the admissibility of some of the accused’s statements for reasons that will be elaborated below. 
 
 8       A pillar of the Prosecution’s case was the accused’s statements (“P78”–“P84”) [note: 14] recorded under s 22 of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”) (“Long 
 
@@ -258,7 +258,7 @@ JB”. [note: 96] It was hence unsurprising to me that the accused performed poo
 
 30     At this juncture, I noted that the Defence submitted that the cultural limitations of the GSS were not squarely put to Dr Frumkin in cross-examination, and that this was in contravention of the 
 
-rule in _Browne v Dunn_ (1893) 6 R 67 (“ _Browne v Dunn_ ”). [note: 97] I disagreed, and was careful to rely only on evidence that had been put to the witnesses. As noted in _Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd_ [2007] 1 SLR(R) 292 at [42], the rule was one of fairness, and was not a “rigid, technical rule”. And it was clear from the Prosecution’s cross-examination of Dr Frumkin that the cultural limitations of the tests that he had administered to the accused were squarely put in 
+rule in _Browne v Dunn_ (1893) 6 R 67 (“ _Browne v Dunn_ ”). [note: 97] I disagreed, and was careful to rely only on evidence that had been put to the witnesses. As noted in _Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd_ <span class="citation">[2007] 1 SLR(R) 292</span> at [42], the rule was one of fairness, and was not a “rigid, technical rule”. And it was clear from the Prosecution’s cross-examination of Dr Frumkin that the cultural limitations of the tests that he had administered to the accused were squarely put in 
 
 issue. [note: 98] Accordingly, I did not think that the Defence’s reliance on the rule in _Browne v Dunn_ brought it very far in this respect. 
 
@@ -365,7 +365,7 @@ control of his impulses. To quote Dr Sarkar: [note: 125]
 
 42     Having established that the accused was neither suffering from an intellectual disability nor interrogative suggestibility, I move on to examine whether there was any inducement or oppression that rendered his Long Statements inadmissible. 
 
-43     The test for whether a statement was admissible had two parts. First, whether the confession was made as a consequence of any TIP. Second, did the accused make the confession in circumstances that led him to reasonably suppose that he would gain some advantage for himself or avoid some evil of a temporal nature? Further, there was an objective and subjective component in determining whether there was any TIP ( _Sharom bin Ahmad and another v Public Prosecutor_ [2000] 2 SLR(R) 541 at [46]): 
+43     The test for whether a statement was admissible had two parts. First, whether the confession was made as a consequence of any TIP. Second, did the accused make the confession in circumstances that led him to reasonably suppose that he would gain some advantage for himself or avoid some evil of a temporal nature? Further, there was an objective and subjective component in determining whether there was any TIP ( _Sharom bin Ahmad and another v Public Prosecutor_ <span class="citation">[2000] 2 SLR(R) 541</span> at [46]): 
 
  The question of whether a statement is voluntary is essentially a question of fact and the test of voluntariness is both objective and subjective. The query of whether there is an inducement, threat or promise is objectively determined while the question of whether such inducement, threat or promise has operated on the mind of the accused must be subjectively answered from the perspective of the particular accused... 
 
@@ -394,7 +394,7 @@ submitted, [note: 133] the accused’s allegation was intrinsically illogical. N
 
 unable to satisfactorily give a reason why Hisham would have exonerated him, [note: 134] there was no logic behind having Hisham brought forward _after_ the accused had already confessed to committing the offence. 
 
-47     I also did not find that the allegations of oppression were made out. As held in _Tey Tsun Hang v Public Prosecutor_ [2014] 2 SLR 1189 (“ _Tey Tsun Hang_ ”) at [113]: 
+47     I also did not find that the allegations of oppression were made out. As held in _Tey Tsun Hang v Public Prosecutor_ <span class="citation">[2014] 2 SLR 1189</span> (“ _Tey Tsun Hang_ ”) at [113]: 
 
  The litmus test for oppression is whether the investigation was, by its nature, duration or other attendant circumstances, such as to affect the accused’s mind and will such that he speaks when he otherwise would have remained silent. 
 
@@ -417,7 +417,7 @@ Five Bundles, and claimed that he had fabricated those facts. [note: 138] But th
 
 52     As a start, I noted the Defence’s argument that best practices were not followed when the Long Statements were recorded, with neither Mr Ramanathan nor IO Basheer taking down any notes of the exact questions posed to the accused (see _Azman bin Mohamed Sanwan v Public Prosecutor_ 
 
-[2012] SGCA 19 at [25]). [note: 139] This was regrettable and was not to be condoned. It also meant that the court had to scrutinise the evidence more carefully before coming to a conclusion. In my judgment, after assessing Mr Ramanathan’s testimony and also considering his 40 years’ experience as a court interpreter, I was prepared to say that Mr Ramanathan would have raised any irregularities to 
+<span class="citation">[2012] SGCA 19</span> at [25]). [note: 139] This was regrettable and was not to be condoned. It also meant that the court had to scrutinise the evidence more carefully before coming to a conclusion. In my judgment, after assessing Mr Ramanathan’s testimony and also considering his 40 years’ experience as a court interpreter, I was prepared to say that Mr Ramanathan would have raised any irregularities to 
 
 the court’s attention. [note: 140] 
 

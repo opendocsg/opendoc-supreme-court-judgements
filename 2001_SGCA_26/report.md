@@ -48,9 +48,9 @@
 
 ## convey portion of shares beneficially belonging to father 
 
-## death of Kheng. The judgment was upheld on appeal by the Court of Appeal ([1993] 3 SLR 148) and 
+## death of Kheng. The judgment was upheld on appeal by the Court of Appeal (<span class="citation">[1993] 3 SLR 148</span>) and 
 
-## finally by the Privy Council ([1996] 2 SLR 297). 
+## finally by the Privy Council (<span class="citation">[1996] 2 SLR 297</span>). 
 
 ## The issue in the present appeal concerns only the one lot of 27 Overseas Union Bank (OUB) shares. 
 
@@ -145,7 +145,7 @@
 
 ### Dao Heng Bank Ltd & Anor [1975] AC 581, Ng Chee Chong v Toh Kouw [1999] 4 
 
-### SLR 45, Ching Mun Fong v Liu Cho Chit [2000] 1 SLR 51, Greenhalgh v Mallard 
+### SLR 45, Ching Mun Fong v Liu Cho Chit <span class="citation">[2000] 1 SLR 51</span>, Greenhalgh v Mallard 
 
 ### [1947] 2 All ER 255 at 257 followed. 
 
@@ -248,7 +248,7 @@
 
 ### weakened, and thus is readily rebutted by comparatively slight evidence (see 36-37 ) Teo Siew Har v 
 
-### Lee Kuan Yew [1999] 4 SLR 560, Pettitt v Pettitt [1970] AC 777 followed, Shephard v Cartwright 
+### Lee Kuan Yew <span class="citation">[1999] 4 SLR 560</span>, Pettitt v Pettitt [1970] AC 777 followed, Shephard v Cartwright 
 
 ### [1955] AC 431 and McGrath v Wallis [1995] 2 FLR 114 referred. 
 
@@ -259,7 +259,7 @@
 
 ### Ching Mun Fong v Liu Cho Chit 
 
-### [2000] 1 SLR 51 (folld) 
+### <span class="citation">[2000] 1 SLR 51</span> (folld) 
 
 ### Greenhalgh v Mallard 
 
@@ -279,7 +279,7 @@
 
 ### Ng Chee Chong v Toh Kouw 
 
-### [1999] 4 SLR 45 (folld) 
+### <span class="citation">[1999] 4 SLR 45</span> (folld) 
 
 ### Pettitt v Pettitt 
 
@@ -295,7 +295,7 @@
 
 ### Teo Siew Har v Lee Kuan Yew 
 
-### [1999] 4 SLR 560 (folld) 
+### <span class="citation">[1999] 4 SLR 560</span> (folld) 
 
 ### Yat Tung Investment Co Ltd v Dao Heng Bank Ltd & Anor 
 
@@ -312,7 +312,7 @@
 
 1\. This is an appeal by the plaintiff (Tng) against a decision of Amerjeet Singh JC, dismissing the plaintiffs claim in relation to a lot of 27 Overseas Union Bank (OUB) shares, hereinafter referred to as "the 27 shares". The learned judge was of the view that the plaintiff was barred from bringing the present Originating Summons (OS) on the ground of _res judicata_ in the wider sense. 
 
-2\. The circumstances giving rise to the plea of _res judicata_ are primarily based on a judgment (unreported) given by the High Court in the consolidated action (S 1401/73 and S 2457/81), which judgment was upheld on appeal by this Court ([1993] 3 SLR 148 ) and finally by the Privy Council ([1996] 2 SLR 297). 
+2\. The circumstances giving rise to the plea of _res judicata_ are primarily based on a judgment (unreported) given by the High Court in the consolidated action (S 1401/73 and S 2457/81), which judgment was upheld on appeal by this Court (<span class="citation">[1993] 3 SLR 148</span> ) and finally by the Privy Council (<span class="citation">[1996] 2 SLR 297</span>). 
 
 **Essential facts** 
 
@@ -504,7 +504,7 @@ The defendant to the OS is Tng, in his personal capacity. For ease of reference,
 
 ### of process. 
 
-24\. The two senses of _res judicata_ expounded by Wigram V-C was accepted by the Privy Council in the Hong Kong case _Yat Tung Investment Co Ltd v Dao Heng Bank Ltd & Anor_ [1975] AC 581 and by this court in _Ng Chee Chong v Toh Kouw_ [1999] 4 SLR 45 and _Ching Mun Fong v Liu Cho Chit_ [2000] 1 SLR 51. In _Yat Tung Investment_ , Lord Kilbrandon in referring to the extended sense of _res judicata_ , adopted very much the same language as that of Wigram V-C:- 
+24\. The two senses of _res judicata_ expounded by Wigram V-C was accepted by the Privy Council in the Hong Kong case _Yat Tung Investment Co Ltd v Dao Heng Bank Ltd & Anor_ [1975] AC 581 and by this court in _Ng Chee Chong v Toh Kouw_ <span class="citation">[1999] 4 SLR 45</span> and _Ching Mun Fong v Liu Cho Chit_ <span class="citation">[2000] 1 SLR 51</span>. In _Yat Tung Investment_ , Lord Kilbrandon in referring to the extended sense of _res judicata_ , adopted very much the same language as that of Wigram V-C:- 
 
 ### where a given matter becomes the subject of litigation in, and of adjudication 
 
@@ -566,7 +566,7 @@ Nam acted in breach of trust when he transferred the 27 shares to Tng, the 27 sh
 
 **Presumption of Advancement** 
 
-36\. We ought to mention that Tng has also made an argument based on the presumption of advancement in view of the fact that there is no documentary proof of a gift. This presumption is essentially an evidential rule, based on relationship (e.g., husband and wife, father and son), to rebut the opposing presumption of a resulting trust where a transfer of property is made by one person to another without consideration. In _Teo Siew Har v Lee Kuan Yew_ [1999] 4 SLR 560, this Court, after considering _Pettitt v Pettitt_ [1970] AC 777, observed that, in the context of husband and wife, the application of this presumption has diminished in recent years in line with changing social norms. It also noted that the current approach is to treat the presumption "as an evidential instrument of last resort where there is no direct evidence as to the intention of the parties rather than as an oft-applied rule of the thumb". 
+36\. We ought to mention that Tng has also made an argument based on the presumption of advancement in view of the fact that there is no documentary proof of a gift. This presumption is essentially an evidential rule, based on relationship (e.g., husband and wife, father and son), to rebut the opposing presumption of a resulting trust where a transfer of property is made by one person to another without consideration. In _Teo Siew Har v Lee Kuan Yew_ <span class="citation">[1999] 4 SLR 560</span>, this Court, after considering _Pettitt v Pettitt_ [1970] AC 777, observed that, in the context of husband and wife, the application of this presumption has diminished in recent years in line with changing social norms. It also noted that the current approach is to treat the presumption "as an evidential instrument of last resort where there is no direct evidence as to the intention of the parties rather than as an oft-applied rule of the thumb". 
 
 37\. An interesting question is whether the current approach towards the presumption in the context of husband and wife should also be applied to the context of father and son. We note that in _Shephard v Cartwright_ [1955] AC 431, a case where shares acquired by a father was registered in the name of a child, Viscount Simonds said that:- 
 

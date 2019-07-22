@@ -16,7 +16,7 @@
 
 _Criminal law_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 40.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 40</span>.] 
 
 22 February 2011 
 
@@ -24,7 +24,7 @@ _Criminal law_
 
 **Introduction** 
 
-1       The 1st Appellant, Mdm Pang Siew Fum (“Pang”), a 56-year old Malaysian, and the 2nd Appellant, Mr Cheong Chun Yin (“Cheong”), a 27-year old Malaysian, were both convicted of trafficking in not less than 2,726 grams of diamorphine (“heroin”), and sentenced to death by Choo Han Teck J (“the Judge”) in _Public Prosecutor v Pang Siew Fum and another_ [2010] SGHC 40 (“the Judgment”). Both of them appealed against their convictions and sentences. We heard and dismissed the appeals on 21 October 2010. We now give our reasons. 
+1       The 1st Appellant, Mdm Pang Siew Fum (“Pang”), a 56-year old Malaysian, and the 2nd Appellant, Mr Cheong Chun Yin (“Cheong”), a 27-year old Malaysian, were both convicted of trafficking in not less than 2,726 grams of diamorphine (“heroin”), and sentenced to death by Choo Han Teck J (“the Judge”) in _Public Prosecutor v Pang Siew Fum and another_ <span class="citation">[2010] SGHC 40</span> (“the Judgment”). Both of them appealed against their convictions and sentences. We heard and dismissed the appeals on 21 October 2010. We now give our reasons. 
 
 2       Pang initially faced another charge of trafficking in not less than 5,054 grams of diamorphine, but the prosecution only proceeded with the first charge at the trial. 
 
@@ -183,11 +183,11 @@ The punishment for trafficking in more than 15 grams of diamorphine under the Se
 
  (2) Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug. 
 
-47     The question of the meaning and scope of the presumptions provided for in these two subsections was raised in _Tan Kiam Peng v PP_ [2008] 1 SLR(R) 1 at [62] (“ _Tan Kiam Peng_ ”), where this court endorsed the following observations made by Yong Pung How CJ in _Van Damme Johannes v PP_ [1993] 3 SLR(R) 694 at [9]: 
+47     The question of the meaning and scope of the presumptions provided for in these two subsections was raised in _Tan Kiam Peng v PP_ <span class="citation">[2008] 1 SLR(R) 1</span> at [62] (“ _Tan Kiam Peng_ ”), where this court endorsed the following observations made by Yong Pung How CJ in _Van Damme Johannes v PP_ <span class="citation">[1993] 3 SLR(R) 694</span> at [9]: 
 
  ‘Possession’ and ‘knowledge’ are distinct and dealt with under s 18(1) and s 18(2) respectively. The initial onus was on the prosecution to prove possession of anything containing a controlled drug (in this case, the suitcase), after which the appellant was presumed (i) to have the drug in his possession and (ii) to know the nature of the controlled drug. The onus was then on the appellant to rebut the two presumptions on a balance of probabilities... 
 
-48     In relation to the application of s 18(1), it was not disputed that Pang and Cheong were in possession of A1 and were thus presumed to be in possession of the drugs contained in A1 at one point or another. This in turn triggered the presumption under s 18(2) that they had knowledge of the nature of the drugs in their possession. In order to rebut either or both presumptions, they must prove, on a balance of probabilities, that they had no knowledge of the existence of the package or the nature of the drugs in the package. As this court stated in _Iwuchukwu Amara Tochi v PP_ [2006] 2 SLR(R) 503 at [9]: 
+48     In relation to the application of s 18(1), it was not disputed that Pang and Cheong were in possession of A1 and were thus presumed to be in possession of the drugs contained in A1 at one point or another. This in turn triggered the presumption under s 18(2) that they had knowledge of the nature of the drugs in their possession. In order to rebut either or both presumptions, they must prove, on a balance of probabilities, that they had no knowledge of the existence of the package or the nature of the drugs in the package. As this court stated in _Iwuchukwu Amara Tochi v PP_ <span class="citation">[2006] 2 SLR(R) 503</span> at [9]: 
 
  Rebutting the statutory presumption is a matter of fact , and is no different from any other factfinding exercise save that the law requires that a person rebutting a statutory presumption does so on a balance of probabilities. It is not sufficient for him merely to raise a reasonable doubt 
 
@@ -199,7 +199,7 @@ This passage was reaffirmed by this court in _Tan Kiam Peng_ at [128].
 
 **Issues on appeal** 
 
-50     In _Tan Meng Jee v PP_ [1996] 2 SLR(R) 178, this court held (at [13]) that in order for the prosecution to establish a case against an accused under s 5(1)(a) of the MDA, it must prove: 
+50     In _Tan Meng Jee v PP_ <span class="citation">[1996] 2 SLR(R) 178</span>, this court held (at [13]) that in order for the prosecution to establish a case against an accused under s 5(1)(a) of the MDA, it must prove: 
 
  (a) that the accused has possession of the controlled drug; (b) that he has done the act of trafficking in one of its forms as found in s 2 of the Act; and (c) that the accused had knowledge of the nature of that which he was in possession of. 
 
@@ -305,7 +305,7 @@ compartment”. Thus, there was nothing for her to ask or check.
 
 **_Pang’s lack of response when the luggage was cut open_** 
 
-65     Pang showed no reaction when the luggage was cut open and the powdery substance was exposed. Although this particular issue was not dealt with by the Judge in his Judgment, it is worth noting that in _PP v Leong Soy Yip and Anor_ [2009] SGHC 221, the court gave weight to the accused persons’ lack of response when the packets in their possession were opened up to reveal a white powdery substance instead of the Erimin/Dormicum pills they had claimed to have carried. The weight of such evidence depends on the factual circumstances. We acknowledge that how an arrested person would react in a similar situation would very well depend on his personality as well as his perception as to whether he was expected to respond. 
+65     Pang showed no reaction when the luggage was cut open and the powdery substance was exposed. Although this particular issue was not dealt with by the Judge in his Judgment, it is worth noting that in _PP v Leong Soy Yip and Anor_ <span class="citation">[2009] SGHC 221</span>, the court gave weight to the accused persons’ lack of response when the packets in their possession were opened up to reveal a white powdery substance instead of the Erimin/Dormicum pills they had claimed to have carried. The weight of such evidence depends on the factual circumstances. We acknowledge that how an arrested person would react in a similar situation would very well depend on his personality as well as his perception as to whether he was expected to respond. 
 
 66     We noted that when Pang was cross-examined on her lack of a reaction, Pang responded by asking what type of reaction was expected of her. The relevant part of the cross-examination is reproduced below: 
 
@@ -348,14 +348,14 @@ In so answering, she had failed to give her version of the facts – namely, tha
 
 Pang accepted that these statements had been given voluntarily and her counsel did not object to the admission of the same at the trial. 
 
-71     It is noteworthy that the veracity of these three statements was not challenged. It is trite law that the Court may draw adverse inferences from an accused person’s omission to mention his/her defence on arrest – including the fact that such silence arose from a realisation of guilt. In _Lee Lye Hoe_ v _PP_ [2000] SGCA 55, this court made the following observations (at [50]) with regard to the appellant’s failure to give an explanation as to how she had come to be in possession of a large amount of opium: 
+71     It is noteworthy that the veracity of these three statements was not challenged. It is trite law that the Court may draw adverse inferences from an accused person’s omission to mention his/her defence on arrest – including the fact that such silence arose from a realisation of guilt. In _Lee Lye Hoe_ v _PP_ <span class="citation">[2000] SGCA 55</span>, this court made the following observations (at [50]) with regard to the appellant’s failure to give an explanation as to how she had come to be in possession of a large amount of opium: 
 
  It is telling that when W/Insp Jenny Tan questioned her in the flat, the appellant remained silent when asked why she had brought the opium into her house. She claimed to have been confused and frightened and that it did not occur to her to exculpate herself in any way nor did she wish to implicate anyone. Subsequently however, when her investigation statements were taken, the 
 
 
  appellant again failed to tell the whole truth about Henry Tan's involvement with the drugs as well as his earlier dealings with her family, preferring instead to fudge his identity. Bearing in mind the fact that the opium had been found in the appellant's bedroom and that she had admitted having brought them into her flat from outside, one would have expected the appellant to have attempted to explain and exonerate herself in the face of the extremely compelling evidence against her. The many instances of her failure to do so, when taken collectively, clearly fortified the inference that the appellant was in some way involved with the opium.[emphasis added] 
 
-72     In _Lai Chaw Won v PP_ [1999] SGCA 29, the accused was convicted of trafficking heroin. In his conditioned statement, he failed to mention his defence that he thought that he was carrying Viagra. This court held that the trial judge was correct to have drawn an adverse inference from the accused’s omission and held at [40]: 
+72     In _Lai Chaw Won v PP_ <span class="citation">[1999] SGCA 29</span>, the accused was convicted of trafficking heroin. In his conditioned statement, he failed to mention his defence that he thought that he was carrying Viagra. This court held that the trial judge was correct to have drawn an adverse inference from the accused’s omission and held at [40]: 
 
  Likewise, it did nothing for the appellant’s credibility that he did not, in any of the statements to the police, tell them that he thought that the goods were Viagra or sex stimulants. Counsel’s assertion that the judge erred in drawing an adverse inference against the appellant and had not adequately considered the appellant’s reasons for not stating his belief therefore contained no merit. The judge had clearly considered the appellant’s reasons but had found them insufficient and unbelievable. The appellant said that he was suffering from an inferiority complex at the time and that since the investigating officer were laughing at him for saying that he did not know that the drugs were heroin, he thought that it was no point stating his belief that the drugs were Viagra. As pointed out by the trial judge, someone facing a capital charge would hardly be likely to let his inferiority complex get in the way of attempting to clear his name. As such, the learned judge quite justifiably drew the conclusion that the appellant’s alleged misapprehension about the goods and the specifics of the matter were concocted after he had had enough time to think about the matter. This is so even in the light of the appellant’s s 122(6) statement in which he denied knowing that the goods were heroin. The appellant could only support this bare assertion after he had more time to think about things.[emphasis added] 
 
@@ -374,7 +374,7 @@ Pang accepted that these statements had been given voluntarily and her counsel d
 
 77     Pang also lied about her meeting with the Malay man on 16 June 2008. Initially, she claimed that the Malay man was alone when she met him at Merlin Tower. However, she subsequently admitted that this was not true as Teng Mor was also present at the said meeting although he was using crutches and both his legs were bandaged. Notably, Pang did not provide a reason as to why she had initially lied about Teng Mor not being present at this meeting, at which she had received important instructions from Teng Mor. 
 
-78     Pang’s propensity to lie about material issues with no proper explanation strengthened the Prosecution’s case that she had fabricated her defence that she had thought that the luggage bag contained precious stones instead of drugs. Pang’s lack of credibility also lends much weight to the Prosecution’s assertion that she knew that she was trafficking drugs. The effect of an accused person telling lies was alluded to in _Public Prosecutor v Chee Cheong Hin Constance_ [2006] 2 SLR(R) 24, where Rajah J said at [92]: 
+78     Pang’s propensity to lie about material issues with no proper explanation strengthened the Prosecution’s case that she had fabricated her defence that she had thought that the luggage bag contained precious stones instead of drugs. Pang’s lack of credibility also lends much weight to the Prosecution’s assertion that she knew that she was trafficking drugs. The effect of an accused person telling lies was alluded to in _Public Prosecutor v Chee Cheong Hin Constance_ <span class="citation">[2006] 2 SLR(R) 24</span>, where Rajah J said at [92]: 
 
  ...The telling of lies cannot invariably be equated with guilt. Only when lies are clearly demonstrated to be a conscious attempt to conceal guilt can they then be employed to support other evidence adduced by the Prosecution; they cannot however by themselves make out the Prosecution's case: R v Strudwick and Merry (1994) 99 Cr App R 326 at 331, per Farquharson LJ: 
 

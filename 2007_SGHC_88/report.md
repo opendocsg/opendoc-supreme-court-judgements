@@ -203,7 +203,7 @@ Courts as to what would be an appropriate amount.
 
  [emphasis added] 
 
-46     For completeness, I should add that the same approach appears to be implicitly (though not explicitly) followed in domestic jurisprudence as well: see, in this respect, _Ong & Co Pte Ltd v Ngu Tieng Ung_ [1999] 4 SLR 379 at [13]. 
+46     For completeness, I should add that the same approach appears to be implicitly (though not explicitly) followed in domestic jurisprudence as well: see, in this respect, _Ong & Co Pte Ltd v Ngu Tieng Ung_ <span class="citation">[1999] 4 SLR 379</span> at [13]. 
 
 47     It should be stressed that unlike most conventional requests for interim payments, the applicant in the matter before me sought to be awarded a specific amount, namely $100,000. In the circumstances therefore, there was no necessity for me to undertake a detailed analysis of what would be the minimum amount that the applicant was likely to receive at the conclusion of a full substantive hearing in relation to the matter – instead, it would be imminently logical that if I were to find that such minimum amount that she was likely to obtain would amount to more than $100,000, the sum requested for by the applicant should, as a matter of course, invariably be ordered. 
 

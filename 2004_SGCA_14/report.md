@@ -22,7 +22,7 @@ _Civil Procedure_ – _Costs_ – _Security_ – _Plaintiff ordinarily resident 
 
 **Chao Hick Tin JA (delivering the judgment of the court):** 
 
-1       This was an appeal against a decision of the High Court (reported at [2004] 1 SLR 1) refusing the application of the defendant-appellant, Jurong Town Corporation (“JTC”), for the plaintiffrespondent, Wishing Star Limited (“WSL”), to furnish security for costs in the sum of $400,000 in respect of the action. We dismissed the appeal. For the purposes of the appeal, JTC also sought, by way of a motion, the admission of certain fresh evidence. We disallowed that too. We now give our reasons. 
+1       This was an appeal against a decision of the High Court (reported at <span class="citation">[2004] 1 SLR 1</span>) refusing the application of the defendant-appellant, Jurong Town Corporation (“JTC”), for the plaintiffrespondent, Wishing Star Limited (“WSL”), to furnish security for costs in the sum of $400,000 in respect of the action. We dismissed the appeal. For the purposes of the appeal, JTC also sought, by way of a motion, the admission of certain fresh evidence. We disallowed that too. We now give our reasons. 
 
 **The background** 
 

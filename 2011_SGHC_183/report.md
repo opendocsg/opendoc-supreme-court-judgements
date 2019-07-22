@@ -16,7 +16,7 @@
 
 _Criminal Law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 3 of 2011 was allowed by the Court of Appeal on 28 November 2011. See [2012] SGCA 10.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 3 of 2011 was allowed by the Court of Appeal on 28 November 2011. See <span class="citation">[2012] SGCA 10</span>.] 
 
 4 August 2011 
 
@@ -190,7 +190,7 @@ The sentence of 22 years, two years above the minimum and eight years below the 
 
 20     Counsel had submitted that it was proper “to consider the two importation offences as a single 
 
-transaction for sentencing purposes”. [note: 7] He was referring to the “one transaction rule”. This rule is that where two or more offences are committed in the course of a single transaction, all sentences in respect of these offences should be concurrent rather than consecutive – _Kanagasuntharam v Public Prosecutor_ [1991] 2 SLR(R) 874 (“ _Kanagasuntharam_ ”), per Yong Pung How CJ at [8]. However, Yong CJ noted that difficulty may arise over what constitutes one transaction, and he also observed that the rule is not absolute, and that its application is subject to the facts of the case and the circumstances of the offence. 
+transaction for sentencing purposes”. [note: 7] He was referring to the “one transaction rule”. This rule is that where two or more offences are committed in the course of a single transaction, all sentences in respect of these offences should be concurrent rather than consecutive – _Kanagasuntharam v Public Prosecutor_ <span class="citation">[1991] 2 SLR(R) 874</span> (“ _Kanagasuntharam_ ”), per Yong Pung How CJ at [8]. However, Yong CJ noted that difficulty may arise over what constitutes one transaction, and he also observed that the rule is not absolute, and that its application is subject to the facts of the case and the circumstances of the offence. 
 
 21     Does the one transaction rule apply to the two importation offences in the present case? The accused was importing methamphamine which belonged to him as a principal and he was also importing diamorphine which did not belong to him as an agent of Eric for payment. He was going to retain the methamphamine, but the diamorphine was to be collected from him. While he had committed the two offences at the same time and at the same place, it cannot be said that the two offences were parts of one transaction. 
 
@@ -209,7 +209,7 @@ transaction for sentencing purposes”. [note: 7] He was referring to the “one
 
  [emphasis added] 
 
-and this principle was approved in _Kanagasuntharam_ and _Jeffery bin Abdullah v Public Prosecutor_ [2009] 3 SLR(R) 414 (“ _Jeffery bin Abdullah_ ”). 
+and this principle was approved in _Kanagasuntharam_ and _Jeffery bin Abdullah v Public Prosecutor_ <span class="citation">[2009] 3 SLR(R) 414</span> (“ _Jeffery bin Abdullah_ ”). 
 
 27     The effective sentence of 27 years is not substantially above the normal level of sentences for offences of importing or trafficking in large quantities of drugs shown in the record of sentences compiled by the prosecution. The sentence is also not a crushing sentence on the accused who is 30 years old and with no health problems except gout and high blood pressure. If he behaves himself in prison and obtains remission in his sentence for good behaviour, he may serve 18 years, and could be released when he is 48 years old. 
 

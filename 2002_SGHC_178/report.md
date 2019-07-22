@@ -162,7 +162,7 @@ _Close of the prosecution case_
 
 29\. Lastly, for Isnin, he had the keys to the apartment, his fingerprint was on the false ceiling board on the master bedroom toilet where 23 packets of heroin were concealed, and he admitted to packing drugs in the apartment before and on the day of his arrest. 
 
-30\. I found that a reasonable inference can be drawn that the three of them were in possession of the drugs in the apartment for the purpose of trafficking. That was sufficient to establish a _prima facie_ case for the accused to be called on to enter their defences – see _Tan Chuan Ten v PP_ [1997] 2 SLR 348 at para 25. 
+30\. I found that a reasonable inference can be drawn that the three of them were in possession of the drugs in the apartment for the purpose of trafficking. That was sufficient to establish a _prima facie_ case for the accused to be called on to enter their defences – see _Tan Chuan Ten v PP_ <span class="citation">[1997] 2 SLR 348</span> at para 25. 
 
 _Azman’s defence_ 
 

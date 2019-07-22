@@ -66,7 +66,7 @@ attention until 2 February 2000 as Mr Nishide can be said to be representing the
 13\. Even if the Defendants had initially omitted to give one month’s salary in lieu of notice, the extent of the Plaintiff’s damages would be the amount which she would have received until her employment was lawfully terminated, see _Alexander Proudfoot Productivity Services Co Singapore Pte Ltd v Sim_ 
 
 
-_Hua Ngee Alvin_ [1993] 1 SLR 494 and _Latham v Credit Suisse Boston_ [2000] 2 SLR 693. This would have been the one month’s salary in lieu of notice. 
+_Hua Ngee Alvin_ <span class="citation">[1993] 1 SLR 494</span> and _Latham v Credit Suisse Boston_ <span class="citation">[2000] 2 SLR 693</span>. This would have been the one month’s salary in lieu of notice. 
 
 14\. The issue about the rules of natural justice is not relevant as such rules do not apply to a termination of employment in accordance with the terms of a contract, even if, for the sake or argument, they apply to a dismissal under ordinary contracts of employment where there is no prescribed procedure for a dismissal. 
 

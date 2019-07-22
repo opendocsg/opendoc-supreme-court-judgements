@@ -76,7 +76,7 @@ made a payment in excess of his own share of liability: _Davies v Evan Humphreys
 
  If a view is taken of the cases, it will appear that the bottom of contribution is a fixed principle of justice, and is not founded on contract ... In the particular case of sureties, it is admitted that one surety may compel another to contribute to the debt for which they are jointly bound. On what principle? Can it be because they are jointly bound? What if they are jointly and severally bound? What if severally bound by the same or different instruments? In every one of those cases sureties have a common interest and a common burthen. They are bound as effectively quoad contribution, as if bound in one instrument, with this difference only that the sums in each instrument ascertain the proportions, whereas if they were all joined in the same engagement they must all contribute equally.” 
 
-17     In _Teo Song Kwang v Vijayasundram Jeyabalan_ [2005] SGHC 60, Tan Lee Meng J held at [40]: 
+17     In _Teo Song Kwang v Vijayasundram Jeyabalan_ <span class="citation">[2005] SGHC 60</span>, Tan Lee Meng J held at [40]: 
 
  It is trite law that a creditor is entitled to sue any of the guarantors of the sum loaned. It is also a well-established rule founded upon natural justice and equitable principles that if one guarantor is asked to pay a sum, his co-guarantors are liable to contribute their share of the amount paid if they benefit from such a payment to the creditor. In Craythorne v Swinburne (1807) 14 Ves 160; 33 ER 482, Lord Eldon LC explained that the equitable principle of contribution enabled a guarantor to assume the burden of suretyship on the faith of an implied promise of contribution from his co-sureties. 
 

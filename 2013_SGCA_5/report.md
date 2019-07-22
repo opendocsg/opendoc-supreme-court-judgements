@@ -14,7 +14,7 @@
 
 _Contempt of Court_ – _Criminal Contempt_
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2012] 2 SLR 645 .]
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2012] 2 SLR 645</span> .]
 
 17 January 2013 Judgment reserved.
 
@@ -22,7 +22,7 @@ _Contempt of Court_ – _Criminal Contempt_
 
 **Introduction**
 
-1       This appeal concerns an alleged breach by the appellant, Mr Anthony Sabastian Aurol (“Aurol”), of an interim sealing order made by an Assistant Registrar (“the AR”). Upon the application of the respondent, Sembcorp Marine Ltd (“SCM”), in Originating Summons No 465 of 2011 (“OS 465 of 2011”) for an order of committal against Aurol for contempt of court, Aurol was found guilty by the High Court and sentenced to five days’ imprisonment. The decision of the High Court Judge (“the Judge”) finding Aurol guilty of contempt is reported in _Sembcorp Marine Ltd v Aurol Anthony Sabastian_ [2012] 2 SLR 645.
+1       This appeal concerns an alleged breach by the appellant, Mr Anthony Sabastian Aurol (“Aurol”), of an interim sealing order made by an Assistant Registrar (“the AR”). Upon the application of the respondent, Sembcorp Marine Ltd (“SCM”), in Originating Summons No 465 of 2011 (“OS 465 of 2011”) for an order of committal against Aurol for contempt of court, Aurol was found guilty by the High Court and sentenced to five days’ imprisonment. The decision of the High Court Judge (“the Judge”) finding Aurol guilty of contempt is reported in _Sembcorp Marine Ltd v Aurol Anthony Sabastian_ <span class="citation">[2012] 2 SLR 645</span>.
 
 2       The present appeal is brought by Aurol against his conviction and sentence. It was heard together with Civil Appeal No 66 of 2012 (“CA 66 of 2012”), which was Aurol’s appeal against the refusal of the High Court to grant him leave to adduce further evidence at a very late stage in the proceedings below. Following brief oral arguments before us, we dismissed CA 66 of 2012.
 
@@ -218,15 +218,15 @@ prosecutions and proceedings. Section 11(1) of the CPC 2010 states:
 
  The Attorney-General shall have power, exercisable at his discretion, to institute, conduct or discontinue any proceedings for any offence.
 
-33     Notably, Art 35(8) of the Constitution does not circumscribe the power of the AG only to criminal proceedings initiated under any written law: it is thus intended to govern _all_ criminal proceedings, whether initiated pursuant to a statute or under the common law. Art 35(8) of the Constitution has been judicially interpreted in many cases, and most notably in _Law Society of Singapore v Tan Guat Neo Phyllis_ [2008] 2 SLR(R) 239 (“ _Phyllis Tan_ ”) at [145] to mean the following:
+33     Notably, Art 35(8) of the Constitution does not circumscribe the power of the AG only to criminal proceedings initiated under any written law: it is thus intended to govern _all_ criminal proceedings, whether initiated pursuant to a statute or under the common law. Art 35(8) of the Constitution has been judicially interpreted in many cases, and most notably in _Law Society of Singapore v Tan Guat Neo Phyllis_ <span class="citation">[2008] 2 SLR(R) 239</span> (“ _Phyllis Tan_ ”) at [145] to mean the following:
 
  In relation to public prosecutions, Art 35(8) makes it clear that the institution, conduct or discontinuance of any criminal proceedings is a matter for only the Attorney-General to decide. This means that except for unconstitutionality, the Attorney-General has an unfettered discretion as to when and how he exercises his prosecutorial powers. ... [emphasis in original in italics; emphasis added in bold italics]
 
-34     Insofar as it is a matter of the AG’s power and discretion, the position is clear. There is no doubt that the AG has the power to institute and conduct prosecutions and proceedings for criminal contempt and this is reflected in the many cases where the AG has done so before our courts. But, it has also been held that Art 35(8) of the Constitution does not prevent other persons from commencing private prosecutions in the permitted circumstances. In _Public Prosecutor v Norzian bin Bintat_ [1995] 3 SLR(R) 105 at [19], the High Court held:
+34     Insofar as it is a matter of the AG’s power and discretion, the position is clear. There is no doubt that the AG has the power to institute and conduct prosecutions and proceedings for criminal contempt and this is reflected in the many cases where the AG has done so before our courts. But, it has also been held that Art 35(8) of the Constitution does not prevent other persons from commencing private prosecutions in the permitted circumstances. In _Public Prosecutor v Norzian bin Bintat_ <span class="citation">[1995] 3 SLR(R) 105</span> at [19], the High Court held:
 
  It is not disputed that in certain circumstances an aggrieved person may commence a private prosecution for certain offences without the consent of the Attorney-General. Thus, it is uncontroversial that the Attorney-General does not have the sole discretion to institute or conduct criminal proceedings ...
 
-35     Similarly, in _Attorney-General v Tee Kok Boon_ [2008] 2 SLR(R) 412 at [68], the High Court held that:
+35     Similarly, in _Attorney-General v Tee Kok Boon_ <span class="citation">[2008] 2 SLR(R) 412</span> at [68], the High Court held that:
 
  Article 35 deals with the office of the Attorney-General and matters incidental thereto such as the appointment of the Attorney-General, his duties and powers. I am of the view that while Art 35(8) states his power to institute proceedings for any offence, it does not preclude others from
 
@@ -251,7 +251,7 @@ prosecutions and proceedings. Section 11(1) of the CPC 2010 states:
 
  13. Where a prosecution is conducted by a person other than the Public Prosecutor, the Solicitor-General, a Deputy Public Prosecutor or an Assistant Public Prosecutor, the Public Prosecutor may, if he thinks fit, take over the conduct of the prosecution at any stage of the proceedings and continue or discontinue the prosecution.
 
-38     The rationale for this was explained in _Cheng William v Loo Ngee Long Edmund_ [2001] 2 SLR(R) 626 as follows at [16]:
+38     The rationale for this was explained in _Cheng William v Loo Ngee Long Edmund_ <span class="citation">[2001] 2 SLR(R) 626</span> as follows at [16]:
 
  ... It would seem that these provisions squarely contemplate the risks particular to private prosecutions, where the complainant may allow his "private passions and prejudices to creep into the conduct" of a criminal appeal (Ponniah v Lim [1960] MLJ 152 ). A private prosecution is a prosecution by a private individual which, if successful, relies on the state machinery to mete out the sentence imposed. In addition, a criminal offence is based on the notion of a wrong committed against society or social values. It follows that a private prosecution should not defeat the interests of state and society (such interests in this context being determined by the Public Prosecutor). [emphasis added]
 
@@ -319,7 +319,7 @@ guardian of the public interest _vis-à-vis_ the institution and conduct of _all
 
 56     The AG’s disinclination to commence proceedings for criminal contempt will not necessarily be determinative of the court’s decision in relation to either the granting of leave under O 52 r 2(1) of the Rules of Court, or the eventual making of an order for committal. The court will determine each case on its merits, although it will also take the AG’s views into consideration. As the Court held in _Phyllis Tan_ at [146]:
 
- ... The prosecutorial power cannot circumscribe the judicial power. On the contrary, it is the judicial power that may circumscribe the prosecutorial power in two ways: First, the court may declare the wrongful exercise of the prosecutorial power as unconstitutional. ... Secondly, it is an established principle that when an accused is brought before a court, the proceedings thereafter are subject to the control of the court: see Goh Cheng Chuan v PP [1990] 1 SLR(R) 660, Ridgeway at 32-33 and Looseley at [16]-[17]. Within the limits of its judicial and statutory powers, the court may deal with the case as it thinks fit in accordance with the law.
+ ... The prosecutorial power cannot circumscribe the judicial power. On the contrary, it is the judicial power that may circumscribe the prosecutorial power in two ways: First, the court may declare the wrongful exercise of the prosecutorial power as unconstitutional. ... Secondly, it is an established principle that when an accused is brought before a court, the proceedings thereafter are subject to the control of the court: see Goh Cheng Chuan v PP <span class="citation">[1990] 1 SLR(R) 660</span>, Ridgeway at 32-33 and Looseley at [16]-[17]. Within the limits of its judicial and statutory powers, the court may deal with the case as it thinks fit in accordance with the law.
 
 _Inherent jurisdiction of the court to punish for contempt_
 
@@ -355,7 +355,7 @@ rule should not be instituted other than with the consent of the AG (see _Arlidg
 
 64     In our judgment, on this issue, the position is largely similar in Singapore. While we recognise that both the AG, in his role as the Public Prosecutor and guardian of the public interest, and the party aggrieved by the breach, have an interest in bringing proceedings for contempt, in exercising its powers to punish for contempt, the court, in the final analysis, acts within its inherent jurisdiction and on its own authority in the administration of justice. This is a necessary corollary of the judicial power that is vested in the court pursuant to Art 93 of the Constitution.
 
-65     In exercising such powers, the court is not seeking to vindicate its own dignity or the selfesteem of judges but to safeguard the integrity of legal proceedings for the benefit of those seeking recourse before the courts; and so, ultimately, for the benefit of the public in whose interest it is that legal proceedings, civil or criminal, should be fairly tried and justly determined (see _Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and others_ [2007] 2 SLR(R) 518 (“ _Karaha Bodas_ ”) at [23]). In the words of Lord Morris of Borth-y-Gest in _Times Newspapers_ at 302:
+65     In exercising such powers, the court is not seeking to vindicate its own dignity or the selfesteem of judges but to safeguard the integrity of legal proceedings for the benefit of those seeking recourse before the courts; and so, ultimately, for the benefit of the public in whose interest it is that legal proceedings, civil or criminal, should be fairly tried and justly determined (see _Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and others_ <span class="citation">[2007] 2 SLR(R) 518</span> (“ _Karaha Bodas_ ”) at [23]). In the words of Lord Morris of Borth-y-Gest in _Times Newspapers_ at 302:
 
  In an ordered community courts are established for the pacific settlement of disputes and for the maintenance of law and order. In the general interests of the community it is imperative that the authority of the courts should not be imperilled and that recourse to them should not be subject to unjustifiable interference. When such unjustifiable interference is suppressed it is not because those charged with the responsibilities of administering justice are concerned for their own dignity: it is because the very structure of ordered life is at risk if the recognised courts of the land are so flouted and their authority wanes and is supplanted. [emphasis added]
 
@@ -524,7 +524,7 @@ We agree.
 
  I think the true view is that expressed by Lord Parker C.J. in Reg. v Duffy, Ex parte Nash [1960] 2 Q.B. 188, 200, that there must be “a real risk, as opposed to a remote possibility.”That is an application of the ordinary de minimis principle. There is no contempt if the possibility of influence is remote. If there is some but only a small likelihood, that may influence the court to refrain from inflicting any punishment. If there is a serious risk some action may be necessary. ...
 
-93     The foregoing words of Lord Reid were cited with approval by this Court in _Shadrake Alan v Attorney-General_ [2011] 3 SLR 778, where it was held at [30] that:
+93     The foregoing words of Lord Reid were cited with approval by this Court in _Shadrake Alan v Attorney-General_ <span class="citation">[2011] 3 SLR 778</span>, where it was held at [30] that:
 
  We would add that, even if the Judge had indeed held the view that “a small likelihood” of risk constituted a real risk (a view which we disagree with for the reason stated in [28] above), such a “small likelihood” of risk would merely be a “technical” contempt that may not even attract any sanction at all (see Lord Reid's view in Times Newspapers at 299, and also Shadrake 1 at [77]). Such a situation would be a highly borderline or marginal case of contempt and, viewed from the perspective of substance and even practical principle, might not even merit the initiation of contempt proceedings by the Respondent in the first place.
 
@@ -571,9 +571,9 @@ interim sealing order was directed at Wong’s 4th affidavit or Wong’s 5th aff
 103    We have allowed the appeal and now turn to the question of costs. The power to award costs is fundamentally and essentially one that is discretionary. Even though the general principle is for costs to follow the event, the overriding concern of the court must be to exercise its discretion to
 
 
-achieve the fairest allocation of costs (see _Singapore Court Practice 2009_ (Jeffrey Pinsler SC gen ed) (LexisNexis, 2009) at para 59/3/2, _Soon Peng Yam and another (trustees of the Chinese Swimming Club) v Maimon bte Ahmad_ [1995] 1 SLR(R) 279 and _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ [2009] 4 SLR(R) 155).
+achieve the fairest allocation of costs (see _Singapore Court Practice 2009_ (Jeffrey Pinsler SC gen ed) (LexisNexis, 2009) at para 59/3/2, _Soon Peng Yam and another (trustees of the Chinese Swimming Club) v Maimon bte Ahmad_ <span class="citation">[1995] 1 SLR(R) 279</span> and _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ <span class="citation">[2009] 4 SLR(R) 155</span>).
 
-104    The court has a very wide discretion in determining what the fairest allocation of costs is and in this regard it is not confined to considering the particular outcome of the litigation. In _Lee Seng Choon Ronnie v Singapore Island Country Club_ [1993] 1 SLR(R) 557 (“ _Ronnie Lee_ ”), the appellant succeeded in his appeal and was found to be entitled to a declaration that the decision to delete his name from the register of members of the club was null and void and that he remained at all times a member. Nonetheless, he was denied the costs of the appeal as well as the costs below. The Court in _Ronnie Lee_ explained at [31] and [32] that, in doing so, it was reflecting its disapproval of the appellant’s conduct in failing to pay relatively small amounts of his club’s bills under the pretext of frequently travelling abroad or the unauthorised signing of chits by his son, which the Court said was inexcusable and revealed a cavalier attitude and disregard of the club’s rules. The Court further observed at [31] that:
+104    The court has a very wide discretion in determining what the fairest allocation of costs is and in this regard it is not confined to considering the particular outcome of the litigation. In _Lee Seng Choon Ronnie v Singapore Island Country Club_ <span class="citation">[1993] 1 SLR(R) 557</span> (“ _Ronnie Lee_ ”), the appellant succeeded in his appeal and was found to be entitled to a declaration that the decision to delete his name from the register of members of the club was null and void and that he remained at all times a member. Nonetheless, he was denied the costs of the appeal as well as the costs below. The Court in _Ronnie Lee_ explained at [31] and [32] that, in doing so, it was reflecting its disapproval of the appellant’s conduct in failing to pay relatively small amounts of his club’s bills under the pretext of frequently travelling abroad or the unauthorised signing of chits by his son, which the Court said was inexcusable and revealed a cavalier attitude and disregard of the club’s rules. The Court further observed at [31] that:
 
  His [the appellant’s] denial of having received the notices sent to him by the club and yet being able to produce to the court the third and final reminder [effectively the second notice under r 47(e)] claiming it was a file copy obtained for him by an unnamed friend, when the club did not keep copies of the second and subsequent reminders, was deplorable.
 

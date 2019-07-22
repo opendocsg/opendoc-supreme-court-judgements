@@ -16,7 +16,7 @@
 
 _Banking_ – _Performance Bonds_ – _Unconscionability_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 143 of 2011 was dismissed by the Court of Appeal on 7 February 2012. See [2012] SGCA 28.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 143 of 2011 was dismissed by the Court of Appeal on 7 February 2012. See <span class="citation">[2012] SGCA 28</span>.] 
 
 9 January 2012 
 
@@ -239,13 +239,13 @@ delay in clearing Powergrid testing [note: 37] and disputes over which party was
 
 _Applicable law_ 
 
-30     The law as to when the court may restrain a call on a performance bond was set out in the case of _JBE Properties Pte Ltd v Gammon Pte Ltd_ [2011] 2 SLR 47, where the Court of Appeal stated: 
+30     The law as to when the court may restrain a call on a performance bond was set out in the case of _JBE Properties Pte Ltd v Gammon Pte Ltd_ <span class="citation">[2011] 2 SLR 47</span>, where the Court of Appeal stated: 
 
- It is now well established that, under our law, apart from fraud (which is the traditional ground for restraining a call on a performance bond), unconscionability is a separate and independent ground for the court to grant an interim injunction restraining a beneficiary from making a call on a performance bond (see, inter alia, Bocotra Construction Pte Ltd v AG [1995] 2 SLR(R) 262 at [53] and GHL Pte Ltd v Unitrack Building Construction Pte Ltd [1999] 3 SLR(R) 44 at [16] and [20]; see also the GD at [6]-[7]). This is wider than the English position, which requires fraud to be clearly proved before a call on a performance bond can be restrained. 
+ It is now well established that, under our law, apart from fraud (which is the traditional ground for restraining a call on a performance bond), unconscionability is a separate and independent ground for the court to grant an interim injunction restraining a beneficiary from making a call on a performance bond (see, inter alia, Bocotra Construction Pte Ltd v AG <span class="citation">[1995] 2 SLR(R) 262</span> at [53] and GHL Pte Ltd v Unitrack Building Construction Pte Ltd <span class="citation">[1999] 3 SLR(R) 44</span> at [16] and [20]; see also the GD at [6]-[7]). This is wider than the English position, which requires fraud to be clearly proved before a call on a performance bond can be restrained. 
 
  [emphasis added] 
 
-31     In the recent case of _Astrata (Singapore) Pte Ltd v Tridex Technologies Pte Ltd_ [2011] 1 SLR 449, Philip Pillai J surveyed the leading cases on the law on applications to restrain calls on performance bonds. The judge distilled the following principles from the cases (at [73]): 
+31     In the recent case of _Astrata (Singapore) Pte Ltd v Tridex Technologies Pte Ltd_ <span class="citation">[2011] 1 SLR 449</span>, Philip Pillai J surveyed the leading cases on the law on applications to restrain calls on performance bonds. The judge distilled the following principles from the cases (at [73]): 
 
  (a) Whether there is unconscionability depends on the facts of each case. There is no predetermined categorisation. 
 
@@ -317,7 +317,7 @@ of the completion date. Counsel for the 1 st defendant, in the hearing before me
 
 consider them in coming to the conclusion that the 1st defendant acted unconscionably. 
 
-38     I also kept in mind the oft repeated warning that the courts should guard against unnecessarily interfering with contractual arrangements freely entered into by the parties: _Eltraco International Pte Ltd v CGH Development Pte Ltd_ [2000] 3 SLR(R) 198, _Anwar Siraj and anor v Teo Hee Lai Building Construction Pte Ltd_ [2003] 1 SLR(R) 394 at [16]. Having considered this, I was of the view that the parties did not enter into a contract where the completion date could be, without good reason, unexpectedly pushed back by the Architect after having been previously confirmed by him. 
+38     I also kept in mind the oft repeated warning that the courts should guard against unnecessarily interfering with contractual arrangements freely entered into by the parties: _Eltraco International Pte Ltd v CGH Development Pte Ltd_ <span class="citation">[2000] 3 SLR(R) 198</span>, _Anwar Siraj and anor v Teo Hee Lai Building Construction Pte Ltd_ <span class="citation">[2003] 1 SLR(R) 394</span> at [16]. Having considered this, I was of the view that the parties did not enter into a contract where the completion date could be, without good reason, unexpectedly pushed back by the Architect after having been previously confirmed by him. 
 
 39     Despite the other allusions to collusion between the Architect and the 1st Defendant, it was the unexplained reference to 19 July as the practical completion date by the Architect in the email and the subsequent use of 4 April as the completion date that was decisive in my decision that the 
 

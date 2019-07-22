@@ -270,7 +270,7 @@ tantamount to interfering with the judges order as I have concluded that the Ord
 
 68\. The short answer to that was that the circumstances before me did give rise to res judicata and issue estoppel. 
 
-69\. The two cases which Ms Lim cited to support her argument were Bradford & Bingley Building Society v Seddon (Hancock and others, t/a Hancocks (a firm), third parties) [1999] 4 All ER 217 and Ching Mun Fong (executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit & another [2000] 1 SLR 517. 
+69\. The two cases which Ms Lim cited to support her argument were Bradford & Bingley Building Society v Seddon (Hancock and others, t/a Hancocks (a firm), third parties) [1999] 4 All ER 217 and Ching Mun Fong (executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit & another <span class="citation">[2000] 1 SLR 517</span>. 
 
 70\. However the facts in those two cases and in the case before me were different. In those two cases, the party who was relying on res judicata or issue estoppel was not a party in the earlier proceedings. 
 

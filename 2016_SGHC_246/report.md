@@ -20,7 +20,7 @@ _Building and construction law_ – _Sub-contracts_ – _Compensation for delays
 
 _Building and construction law_ – _Terms_ – _Implied terms_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 63 of 2016 was allowed in part by the Court of Appeal on 18 September 2017. See [2017] SGCA 53.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 63 of 2016 was allowed in part by the Court of Appeal on 18 September 2017. See <span class="citation">[2017] SGCA 53</span>.] 
 
 29 November 2016 
 
@@ -544,7 +544,7 @@ reason it did not sign and return the acknowledgment page of the letter of accep
 
 80     The central difficulty with Newcon’s case on the letter of acceptance is that CAA’s response to it was silence. The well-established contractual rule is that silence in response to an offer does not constitute acceptance of that offer because it is equivocal: _Felthouse v Bindley_ (1862) 142 ER 1037; _Re Selectmove Ltd_ [1995] 1 WLR 474. 
 
-81     To overcome this difficulty on the law, Newcon relies on _Midlink Development Pte Ltd v The Stansfield Group Pte Ltd_ [2004] 4 SLR(R) 258 (“ _Midlink_ ”). In _Midlink_ , V K Rajah JC (as he then was) accepted that silence is ordinarily equivocal and therefore incapable of constituting acceptance. He observed, however, that it is rare for an offeree to respond to an offer with _complete_ silence, at least in the context of a typical bilateral commercial contract. It is therefore a question of fact in every such case whether the offeree’s response was complete silence and, even if so, whether the effect of the silence, objectively ascertained against the factual background, supports the existence of a contract. I accept this proposition to be correct. 
+81     To overcome this difficulty on the law, Newcon relies on _Midlink Development Pte Ltd v The Stansfield Group Pte Ltd_ <span class="citation">[2004] 4 SLR(R) 258</span> (“ _Midlink_ ”). In _Midlink_ , V K Rajah JC (as he then was) accepted that silence is ordinarily equivocal and therefore incapable of constituting acceptance. He observed, however, that it is rare for an offeree to respond to an offer with _complete_ silence, at least in the context of a typical bilateral commercial contract. It is therefore a question of fact in every such case whether the offeree’s response was complete silence and, even if so, whether the effect of the silence, objectively ascertained against the factual background, supports the existence of a contract. I accept this proposition to be correct. 
 
 82     Newcon submits that CAA is bound by the letter of acceptance because its response to it was not complete silence. CAA in fact acted on the letter of acceptance by adopting the casting sequence set out in cl 7.10 (see [21] above). That conduct prevents CAA’s failure to accept the 
 
@@ -629,7 +629,7 @@ implied into the parties’ contract in fact. [note: 66] For this aspect of its 
 
 3       SLR(R) 518 (“ _Ng Giap Hon_ ”). [note: 67] 
 
-100    Newcon also submits that both terms are terms implied into the parties’ contract in law. For this aspect of its submission, Newcon relies on the Court of Appeal’s decisions in _Chua Choon Cheng and others v Allgreen Properties Ltd and another appeal_ [2009] 3 SLR(R) 724 (“ _Chua Choon Cheng_ ”) and _Jurong Engineering Ltd v Paccan Building Technology Pte Ltd_ [1999] 2 SLR(R) 849 (“ _Jurong_ 
+100    Newcon also submits that both terms are terms implied into the parties’ contract in law. For this aspect of its submission, Newcon relies on the Court of Appeal’s decisions in _Chua Choon Cheng and others v Allgreen Properties Ltd and another appeal_ <span class="citation">[2009] 3 SLR(R) 724</span> (“ _Chua Choon Cheng_ ”) and _Jurong Engineering Ltd v Paccan Building Technology Pte Ltd_ <span class="citation">[1999] 2 SLR(R) 849</span> (“ _Jurong_ 
 
 _Engineering_ ”). [note: 68] 
 
@@ -639,7 +639,7 @@ _Engineering_ ”). [note: 68]
 
 _Terms implied in fact_ 
 
-103    In _Ng Giap Hon_ , the Court of Appeal discussed (at [34] to [40]) the principles on which terms will be implied in fact into a contract, as set out in the cases of _Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ [2006] 1 SLR(R) 927 and _Jet Holding Ltd and others v Cooper Cameron (Singapore) Pte Ltd and another and other appeals_ [2006] 3 SLR(R) 769. These principles are now well-established, even if their application is not always without difficulty. 
+103    In _Ng Giap Hon_ , the Court of Appeal discussed (at [34] to [40]) the principles on which terms will be implied in fact into a contract, as set out in the cases of _Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 927</span> and _Jet Holding Ltd and others v Cooper Cameron (Singapore) Pte Ltd and another and other appeals_ <span class="citation">[2006] 3 SLR(R) 769</span>. These principles are now well-established, even if their application is not always without difficulty. 
 
 104    In determining whether a contract contains an implied term in fact, the court is concerned only with analysing the specific facts of the specific case before it. That analysis will seek to identify and advance the intention of the actual contracting parties, ascertained objectively. 
 
@@ -654,7 +654,7 @@ LJ in _Shirlaw v Southern Foundries (1926) Limited_ [1939] 2 KB 206 at 227.
 
  Prima facie that which in any contract is left to be implied and need not be expressed is something so obvious that it goes without saying; so that, if, while the parties were making their bargain, an officious bystander were to suggest some express provision for it in their agreement, they would testily suppress him with a common ‘Oh, of course!’ 
 
-108    The business efficacy test and the officious bystander test are complementary: _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp_ ”) at [90]. Thus, the business efficacy test identifies a gap in a contract and the officious bystander test fills the gap with a term reflecting the parties’ presumed intention: _Sembcorp_ at [91]. 
+108    The business efficacy test and the officious bystander test are complementary: _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp_ ”) at [90]. Thus, the business efficacy test identifies a gap in a contract and the officious bystander test fills the gap with a term reflecting the parties’ presumed intention: _Sembcorp_ at [91]. 
 
 1       0 9 _Sembcorp_ outlines (at [101]) a three-step process for ascertaining whether a contract contains a particular implied term in fact: 
 
@@ -926,7 +926,7 @@ timeline. [note: 74]
 
 166    CAA submits that the consequence of these acts of prevention was that time for CAA’s completion of the works was set at large, relying on _Chua Tian Chu and another v Chin Bay Ching and_ 
 
-_another_ [2011] SGHC 126. [note: 82] Further, Newcon’s acts of prevention extinguished its right to 
+_another_ <span class="citation">[2011] SGHC 126</span>. [note: 82] Further, Newcon’s acts of prevention extinguished its right to 
 
 terminate the contract based on the delay in completion. [note: 83] 
 
@@ -1015,7 +1015,7 @@ the implied term of due diligence and expedition. [note: 98]
 
 187    I accept Newcon’s submission. I begin with cl 2 of the letter of intent. Clause 2 states that the main contract period lasts 15 months, from 1 November 2012 to 31 January 2014, and requires CAA to follow progress on site, including any revisions to the construction schedule, in producing and delivering slabs. 
 
-188    Clause 2 is in my view a condition of the contract. Whether a term is a condition is, of course, to be determined by ascertaining the objective intentions of the parties on the contract’s proper construction in light of all the surrounding circumstances: _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ [2008] 1 SLR(R) 663 (“ _Man Financial_ ”) at [174]. The commercial purpose of the contract was for CAA to deliver slabs to Newcon for installation, on time and in sequence. Both parties knew that timely delivery of the slabs was necessary to ensure that Newcon could adhere to the main contract timeline set out in the construction schedule. This was exactly the subject of cl 2. CAA’s eventual breach of cl 2 resulted precisely in the anticipated consequence – _ie_ , delays in Newcon’s performance and completion of the main contract, and Newcon’s liability to pay liquidated damages to JTC in the amount of $407,000. 
+188    Clause 2 is in my view a condition of the contract. Whether a term is a condition is, of course, to be determined by ascertaining the objective intentions of the parties on the contract’s proper construction in light of all the surrounding circumstances: _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ <span class="citation">[2008] 1 SLR(R) 663</span> (“ _Man Financial_ ”) at [174]. The commercial purpose of the contract was for CAA to deliver slabs to Newcon for installation, on time and in sequence. Both parties knew that timely delivery of the slabs was necessary to ensure that Newcon could adhere to the main contract timeline set out in the construction schedule. This was exactly the subject of cl 2. CAA’s eventual breach of cl 2 resulted precisely in the anticipated consequence – _ie_ , delays in Newcon’s performance and completion of the main contract, and Newcon’s liability to pay liquidated damages to JTC in the amount of $407,000. 
 
 189    The commercial purpose of the contract similarly drives me to conclude that the implied term of due diligence and expedition was a condition of the contract. 
 
@@ -1060,7 +1060,7 @@ of its claim was wholly insufficient. Further, I do not accept that CAA would no
 
 196    The remaining component of CAA’s claim is the sum of $28,050 for rental of lifting equipment and I-beams. According to CAA, Newcon failed to return the equipment after 16 May 2013. CAA therefore claims a “rental fee” of $150 per day from 16 May 2013 up to the date of commencement of this action. 
 
-197    CAA’s claim lacks a cause of action. The obvious cause of action would be a claim for damages in tort for wrongful detention of property (see, _eg_ , _ACES System Development Pte Ltd v Yenty Lily (trading as Access International Services)_ [2013] 4 SLR 1317). But CAA relies neither on tort nor on contract for Newcon’s liability to pay this “rental fee”. Indeed, during oral closing submissions, counsel for CAA could not articulate a legal basis for the claim. 
+197    CAA’s claim lacks a cause of action. The obvious cause of action would be a claim for damages in tort for wrongful detention of property (see, _eg_ , _ACES System Development Pte Ltd v Yenty Lily (trading as Access International Services)_ <span class="citation">[2013] 4 SLR 1317</span>). But CAA relies neither on tort nor on contract for Newcon’s liability to pay this “rental fee”. Indeed, during oral closing submissions, counsel for CAA could not articulate a legal basis for the claim. 
 
 198    Even on quantum, CAA does not explain how it arrives at the figure of $150 per day. CAA makes no attempt to demonstrate, for instance, that this was the market rent for these items at the material time. The figure appears to be entirely arbitrary. 
 

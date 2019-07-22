@@ -18,7 +18,7 @@ _Tort_ – _Negligence_ – _Contributory negligence_ – _Apportionment of resp
 
 (delivering the grounds of decision of the court): The respondents, as owners of the cables, claimed damages from the owners of the Teng He which was at the relevant time in the same ownership as the Tai He, arising out of and in connection with the damage done by the Tai He when she severed submerged cables towed by the respondents` vessel Nordic Explorer in the Bo Hai Gulf, on 18 September 1998 at approximately 1605 hours. 
 
-In a judgment delivered on 31 March 2000, GP Selvam J held that the appellants were liable for 60% of the damage claimed, while the respondents were liable for the remaining 40%. [See [2000] 3 SLR 114.] The appellants appealed. Before us, they argued that their liability should be nil, or, at the very least, reduced to account for the respondents` negligence in failing to keep proper watch or give due warning of the submerged seismic cables. It was their case that the respondents` conduct or failure to act constituted the greater cause for the damage. 
+In a judgment delivered on 31 March 2000, GP Selvam J held that the appellants were liable for 60% of the damage claimed, while the respondents were liable for the remaining 40%. [See <span class="citation">[2000] 3 SLR 114</span>.] The appellants appealed. Before us, they argued that their liability should be nil, or, at the very least, reduced to account for the respondents` negligence in failing to keep proper watch or give due warning of the submerged seismic cables. It was their case that the respondents` conduct or failure to act constituted the greater cause for the damage. 
 
 **_Background to the case_** 
 

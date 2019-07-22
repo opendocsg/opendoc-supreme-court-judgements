@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Misuse of Drugs Act_ 
 
-[LawNet Editorial Note: The appeal to this decision (and to the decision in [2013] SGHC 222) in Criminal Appeal No 4 of 2015 was dismissed by the Court of Appeal on 1 October 2015. See [2016] SGCA 11.] 
+[LawNet Editorial Note: The appeal to this decision (and to the decision in <span class="citation">[2013] SGHC 222</span>) in Criminal Appeal No 4 of 2015 was dismissed by the Court of Appeal on 1 October 2015. See <span class="citation">[2016] SGCA 11</span>.] 
 
 27 August 2013 Judgment reserved 
 

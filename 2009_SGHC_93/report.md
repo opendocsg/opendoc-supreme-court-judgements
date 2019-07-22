@@ -284,7 +284,7 @@ E.Conclusion
 
  A contractor undertaking a design responsibility warrants (as a question of fact rather than of law) that, where the purpose of the required construction has been adequately communicated to and accepted by him, the design will be fit for that purpose. 
 
- iii. MCST Plan No 1166 v Chubb Singapore Pte Ltd [1999] 3 SLR 540 at paragraph 60: 
+ iii. MCST Plan No 1166 v Chubb Singapore Pte Ltd <span class="citation">[1999] 3 SLR 540</span> at paragraph 60: 
 
  It is settled law that according to the principles of the common law, in a pure contract for work and materials the following warranties will be implied into it: 
 
@@ -305,7 +305,7 @@ E.Conclusion
 7       The obligations of a contractor who undertakes both the design and construction of particular works are well settled: 
 
 
- iv. Gema Metal Ceilings v Iwatani Techno Construction [2000] SGHC 37 the Court found at [69] that the plaintiffs were responsible to the defendants not only for the supply of materials but also design (of the metal ceiling system for the Kuala Lumpur International Airport) and held at [70] that: 
+ iv. Gema Metal Ceilings v Iwatani Techno Construction <span class="citation">[2000] SGHC 37</span> the Court found at [69] that the plaintiffs were responsible to the defendants not only for the supply of materials but also design (of the metal ceiling system for the Kuala Lumpur International Airport) and held at [70] that: 
 
  The plaintiffs were aware of the requirements and specifications of the KLIA Project, and must be taken to have agreed to design a ceiling system which met those requirements. 
 

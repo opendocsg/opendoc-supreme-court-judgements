@@ -55,12 +55,12 @@ _Civil Procedure_ – _Extension of time_
 
 **My decision** 
 
-15     In _Australian Timber Products Pte Ltd v Koh Brothers Building & Civil Engineering Contractor (Pte) Ltd_ [2004] SGHC 243, the Court held that the filing of a stay application does not automatically bring all timelines in the Rules of Court (Cap 322, 1997 Rev. Ed.) to a standstill. Therefore, the filing of a stay application does not stop time for service of the defence from running. This principle was approved by the Court of Appeal in _Carona Holdings Pte Ltd and Others v Go Go Delicacy Pte Ltd_ [2008] SGCA 34 at [25] [“ _Carona_ ”]. 
+15     In _Australian Timber Products Pte Ltd v Koh Brothers Building & Civil Engineering Contractor (Pte) Ltd_ <span class="citation">[2004] SGHC 243</span>, the Court held that the filing of a stay application does not automatically bring all timelines in the Rules of Court (Cap 322, 1997 Rev. Ed.) to a standstill. Therefore, the filing of a stay application does not stop time for service of the defence from running. This principle was approved by the Court of Appeal in _Carona Holdings Pte Ltd and Others v Go Go Delicacy Pte Ltd_ <span class="citation">[2008] SGCA 34</span> at [25] [“ _Carona_ ”]. 
 
 
 16     On the facts of this case, the plaintiffs had refused to consent to a deferment of filing of the defence pending the stay application. Therefore, it was necessary for the defendants to apply for an extension of time under Order 3 r 4 of the Rules of Court. 
 
-17     In _Yeoh Poh San v Won Siok Wan_ [2002] 4 SLR 95 [“ _Yeoh Poh San_ ”], the defendant had applied for a stay on the grounds of _forum non conveniens_. The Assistant Registrar dismissed the application and the defendant appealed. No defence was filed. Before the appeal was heard, the plaintiff applied for summary judgment in default of defence. The defendant applied for an extension of time until after the hearing of the appeal to serve her defence. Woo JC held that once an application for an extension of time to file a defence pending the outcome of an appeal is made, the extension should generally be granted so as not to render the appeal nugatory. He made the following observation (at [18]): 
+17     In _Yeoh Poh San v Won Siok Wan_ <span class="citation">[2002] 4 SLR 95</span> [“ _Yeoh Poh San_ ”], the defendant had applied for a stay on the grounds of _forum non conveniens_. The Assistant Registrar dismissed the application and the defendant appealed. No defence was filed. Before the appeal was heard, the plaintiff applied for summary judgment in default of defence. The defendant applied for an extension of time until after the hearing of the appeal to serve her defence. Woo JC held that once an application for an extension of time to file a defence pending the outcome of an appeal is made, the extension should generally be granted so as not to render the appeal nugatory. He made the following observation (at [18]): 
 
  The very reason why a plaintiff’s solicitor does not, and should not, insist on the filing of the defence before the original stay application is heard is equally applicable to an appeal, ie to require the filing of the defence will defeat the very purpose of the stay application, or, as the case may be, the appeal. 
 
@@ -81,7 +81,7 @@ _Civil Procedure_ – _Extension of time_
 23     Indeed, the effect of the extension of time to file the defence until the appeal is heard may 
 
 
-impede the progress of the case and therefore cause some prejudice to the plaintiffs. However, until all avenues of appeal in relation to a stay application are exhausted, our courts are not properly seized of the matter. In _The Jarguh Sawit_ [1998] 1 SLR 648 at [30], Karthigesu JA made the following observations on the issue of jurisdiction: 
+impede the progress of the case and therefore cause some prejudice to the plaintiffs. However, until all avenues of appeal in relation to a stay application are exhausted, our courts are not properly seized of the matter. In _The Jarguh Sawit_ <span class="citation">[1998] 1 SLR 648</span> at [30], Karthigesu JA made the following observations on the issue of jurisdiction: 
 
  Firstly, whether or not a court has jurisdiction is, of necessity, a question logically prior to the substantive dispute of the parties. Unless and until a court is properly seized, it cannot adjudicate on the matter. If the appellants were right to characterise a dispute over jurisdiction as a substantive issue, and that they were entitled to raise it as a substantive defence, then they would in effect be arguing this at trial: “Our case is that this court has no jurisdiction to decide substantive issues; could you then please give a ruling on a substantive issue?” The defect in logic is self-apparent. Thus, our law provides that a party disputing jurisdiction may appear before the court to argue the question of jurisdiction (which we hold to be a procedural issue) without thereby submitting to the court’s jurisdiction to determine substantive issues. 
 
@@ -89,13 +89,13 @@ impede the progress of the case and therefore cause some prejudice to the plaint
 
 25     The plaintiffs submitted that if RA 375/2007/R was allowed they would not treat the filing of the defence as a relevant consideration when the defendants’ appeal to the Court of Appeal against the dismissal of the stay application was heard. In my opinion, this amounted to a compromise position where the defendant would be required to file a defence provided the plaintiff undertook not to treat the filing of the defence as a step in the proceedings. 
 
-26     However, such compromise orders are not desirable. This appears from the following passage of the Court of Appeal’s judgment in _Samsung Corp v Chinese Chamber Realty Pte Ltd and Others_ [2004] 1 SLR 382 at [24]: 
+26     However, such compromise orders are not desirable. This appears from the following passage of the Court of Appeal’s judgment in _Samsung Corp v Chinese Chamber Realty Pte Ltd and Others_ <span class="citation">[2004] 1 SLR 382</span> at [24]: 
 
  The order made by the judge is also a “compromise” order. On the one hand, it requires the defendant to file his Defence, which is clearly inconsistent with the rule laid down in s 6(1) of the Arbitration Act that a defendant who applies for a stay on the ground of there being an arbitration clause must not take any step in the proceeding and, on the other hand, it provides that a Defence so filed by the defendant would not be taken to mean that the defendant had taken a step in the proceeding. But should the court go to the extent of performing what appears to be a “gymnastic” exercise in order to achieve a result, which as a matter of principle, is far from logical? 
 
 27     Additionally, in _Carona_ , the Court of Appeal quoted _Yeoh Poh San_ to explain the rationale behind the undesirability of compromise orders. At [21], the Court of Appeal stated: 
 
- The rationale behind this is immediately apparent. As Woo Bih Li JC took pains to clarify in Yeoh Poh San v Won Siok Wan [2002] 4 SLR 91 (“Yeoh Poh San”) at [24]–[29], compromise orders are not desirable for four primary reasons: 
+ The rationale behind this is immediately apparent. As Woo Bih Li JC took pains to clarify in Yeoh Poh San v Won Siok Wan <span class="citation">[2002] 4 SLR 91</span> (“Yeoh Poh San”) at [24]–[29], compromise orders are not desirable for four primary reasons: 
 
  (a) no such compromise orders are granted before the original stay application is heard and the position ought to be the same for appeals on stay applications; 
 

@@ -152,11 +152,11 @@ steeped in tradition. His mother had regular prayer meetings in Singapore and th
 
 diseases that the dec eased c ould have been suffering from were often assoc iated with mental instability inc luding depression and irritability. Her own doc tor reported in 1998 that she was "feeling unstable". Dr Lim added an opinion that the dec eased was prone to mental instability due to her thyroid illness but, upon objec tion by the Prosec ution, Defenc e Counsel agreed that that opinion should be deleted. 
 
-23\. Finally, the Ac c used pleaded for lenienc y and c ompassion to be shown by the Court. It was submitted, on the authority of _PP v Tan Kei Loon Allan [1999] 2 SLR 288_ that life imprisonment was not an appropriate sentenc e in this c ase. 
+23\. Finally, the Ac c used pleaded for lenienc y and c ompassion to be shown by the Court. It was submitted, on the authority of _PP v Tan Kei Loon Allan <span class="citation">[1999] 2 SLR 288</span>_ that life imprisonment was not an appropriate sentenc e in this c ase. 
 
 **The Prosecution’s Response** 
 
-24\. The Prosec ution objec ted to the admissibility of the psyc hiatric report insofar as it related to the dec eased as Dr Lim was attempting to do a psyc hologic al autopsy on her state of mind. Two authorities were c ited to support the objec tion against admissibility – _R v Gilfoyle [2001] 2 Cr App Rep 57_ and _Teh Thiam Huat v PP [1996] 3 SLR 621._ In any event, the Prosec ution argued, the autopsy report dated 30 Sep 2001 on the dec eased indic ated that her thyroid appeared normal. 
+24\. The Prosec ution objec ted to the admissibility of the psyc hiatric report insofar as it related to the dec eased as Dr Lim was attempting to do a psyc hologic al autopsy on her state of mind. Two authorities were c ited to support the objec tion against admissibility – _R v Gilfoyle [2001] 2 Cr App Rep 57_ and _Teh Thiam Huat v PP <span class="citation">[1996] 3 SLR 621</span>._ In any event, the Prosec ution argued, the autopsy report dated 30 Sep 2001 on the dec eased indic ated that her thyroid appeared normal. 
 
 **The Sentence** 
 

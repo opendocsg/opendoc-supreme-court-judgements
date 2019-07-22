@@ -92,7 +92,7 @@ principal and accrued interest. [note: 11] The Wife asked for an equal division 
 
 [note: 13] To decide on this narrow point of what would be a just and equitable division of the 
 
-Matrimonial Home, I need only turn to the Court of Appeal decision of _ANJ v ANK_ [2015] 4 SLR 1043, where the Court of Appeal laid down the following approach (at [17] and [22]): 
+Matrimonial Home, I need only turn to the Court of Appeal decision of _ANJ v ANK_ <span class="citation">[2015] 4 SLR 1043</span>, where the Court of Appeal laid down the following approach (at [17] and [22]): 
 
  17 It is now axiomatic that the court’s power to divide matrimonial assets must be exercised in broad strokes, with the court determining what is just and equitable in the circumstances of each case. The philosophy underlying what is known as the “broad-brush approach” is that mutual respect must be accorded for spousal contributions, whether in the economic or homemaking spheres, as both roles are equally fundamental to the well-being of a marital partnership. ... 
 
@@ -113,7 +113,7 @@ The court therefore has to first determine the ratio of the parties’ direct co
 
  Total $986,104.79 $55, 
 
-to spousal contributions whether in the economic or homemaking sphere (see _NK v NL_ [2007] 3 SLR(R) 743 at [20]). Further adjustments may also be made to ensure that the final division is just and equitable considering all the circumstances of the case. 
+to spousal contributions whether in the economic or homemaking sphere (see _NK v NL_ <span class="citation">[2007] 3 SLR(R) 743</span> at [20]). Further adjustments may also be made to ensure that the final division is just and equitable considering all the circumstances of the case. 
 
 14     I note that completion of the purchase of the Matrimonial Home for the price of $1m was 
 

@@ -78,7 +78,7 @@
 
 ## illegality since it was not raised by them during proceedings in Taiwan. They relied on the decision of 
 
-## the Court of Appeal in Hong Pian Tee v Les Placements Germain Gauthier Inc [2002] 2 SLR 81 where 
+## the Court of Appeal in Hong Pian Tee v Les Placements Germain Gauthier Inc <span class="citation">[2002] 2 SLR 81</span> where 
 
 ## it had been stressed that the enforcement forum should not act as an appellate tribunal with respect 
 
@@ -103,7 +103,7 @@
 
 ### present case does not put the plaintiff here in a better position. Hong Pian Tee v Les Placements 
 
-### Germain Gauthier Inc [2002] 2 SLR 81 followed (see 44-46) 
+### Germain Gauthier Inc <span class="citation">[2002] 2 SLR 81</span> followed (see 44-46) 
 
 ### Cases(s) referred to 
 
@@ -121,7 +121,7 @@
 
 ### Hong Pian Tee v Les Placements Germain Gauthier Inc 
 
-### [2002] 2 SLR 81 (folld) 
+### <span class="citation">[2002] 2 SLR 81</span> (folld) 
 
 ### Legislation referred to 
 
@@ -146,7 +146,7 @@
 
 7\. On 11 December 2001, both the application for security for costs and for summary judgment were adjourned to 22 January 2002. 
 
-8\. On 22 January 2002, the applications were adjourned to 29 January 2002 pending the decision of the Singapore Court of Appeal in Civil Appeal No 600101 of 2001 _Hong Pian Tee v Les Placements Germain Gauthier Inc (‘Hong’s_ case). The judgment of the Court of Appeal is reported in [2002] 1 SLR 81. 
+8\. On 22 January 2002, the applications were adjourned to 29 January 2002 pending the decision of the Singapore Court of Appeal in Civil Appeal No 600101 of 2001 _Hong Pian Tee v Les Placements Germain Gauthier Inc (‘Hong’s_ case). The judgment of the Court of Appeal is reported in <span class="citation">[2002] 1 SLR 81</span>. 
 
 9\. On 28 January 2002, Ken Ken applied to strike out Wu Shun’s claim in the Singapore action. Ken Ken relied on two grounds: 
 

@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ 
 
-[LawNet Editorial Note: The appeals to this decision in Criminal Appeals Nos 33, 34 and 35 of 2016 were dismissed by the Court of Appeal on 5 March 2018. See [2018] SGCA 13.] 
+[LawNet Editorial Note: The appeals to this decision in Criminal Appeals Nos 33, 34 and 35 of 2016 were dismissed by the Court of Appeal on 5 March 2018. See <span class="citation">[2018] SGCA 13</span>.] 
 
 20 October 2016 Judgment reserved. 
 

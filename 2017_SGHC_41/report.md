@@ -409,7 +409,7 @@ plaintiff unilaterally excluded openings. [note: 90]
 
 “base[d] on progressive on-site measurements”. [note: 91] Ms Lee also testified that progress 
 
-payments were based on these measurements. [note: 92] The parties therefore “by the course of dealing, put their own interpretation on their contract, and cannot be allowed to go back on it” ( _China Construction (South Pacific) Development Co Pte Ltd v Spandeck Engineering (S) Pte Ltd_ [2005] SGHC 86 at [46], citing _Amalgamated Investment & Property Co Ltd v Texas Commerce International Bank_ 
+payments were based on these measurements. [note: 92] The parties therefore “by the course of dealing, put their own interpretation on their contract, and cannot be allowed to go back on it” ( _China Construction (South Pacific) Development Co Pte Ltd v Spandeck Engineering (S) Pte Ltd_ <span class="citation">[2005] SGHC 86</span> at [46], citing _Amalgamated Investment & Property Co Ltd v Texas Commerce International Bank_ 
 
 _Ltd_ [1982] QB 84 at 120-121). [note: 93] It would be unjust to allow the plaintiff to go back on its 
 
@@ -426,13 +426,13 @@ always contractually subject to final re-measurement. This is so for the followi
  (c) The defendant has failed to show that the difference between the interim measurements and the final measurements was due to the omission of the openings in the final measurements. The evidence in fact shows that for certain items, the amount calculated after final remeasurement is higher than the amount certified on the interim certificates. If the openings were consistently included during the interim measurements and were excluded only in the final measurements, the final amounts after re-measurement could not have been more than the interim amounts; and 
 
 
- (d) The wall finishes subcontract is a re-measurement contract. This is not disputed by both parties. Hence, the interim certificates are subject to re-measurement ( LW Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd [2011] 4 SLR 477 at [44]). [note: 96] They are of no consequence to the final amounts due under the wall finishes subcontract. 
+ (d) The wall finishes subcontract is a re-measurement contract. This is not disputed by both parties. Hence, the interim certificates are subject to re-measurement ( LW Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd <span class="citation">[2011] 4 SLR 477</span> at [44]). [note: 96] They are of no consequence to the final amounts due under the wall finishes subcontract. 
 
 **_My decision_** 
 
 56     I find that the plaintiff is not bound by its interim certificates and is not estopped from relying on the re-measurement clause in the wall finishes subcontract ( _ie_ , cl 22). 
 
-57     The Court of Appeal set out the requirements for estoppel by convention in _MAE Engineering Ltd v Fire-Stop Marketing Services Pte Ltd_ [2005] 1 SLR(R) 379 at [45]. The requirements are (i) that there must be a course of dealing between the two parties in a contractual relationship; (ii) that the course of dealing must be such that both parties must have proceeded on the basis of an agreed interpretation of the contract; and (iii) that it must be unjust to allow one party to go back on the agreed interpretation. 
+57     The Court of Appeal set out the requirements for estoppel by convention in _MAE Engineering Ltd v Fire-Stop Marketing Services Pte Ltd_ <span class="citation">[2005] 1 SLR(R) 379</span> at [45]. The requirements are (i) that there must be a course of dealing between the two parties in a contractual relationship; (ii) that the course of dealing must be such that both parties must have proceeded on the basis of an agreed interpretation of the contract; and (iii) that it must be unjust to allow one party to go back on the agreed interpretation. 
 
 58     In my view, the parties’ course of dealing does not suggest that they proceeded on the understanding that the interim certificates would be final measurements, not subject to remeasurement. This is especially the case because the wall finishes subcontract, as previously mentioned above at [39], is expressly a re-measurement contract. 
 
@@ -451,7 +451,7 @@ is “different from the interim progress measurements” because it “is taken
 61     In any case, the defendant’s reliance on an estoppel to found a counterclaim for payment from the plaintiff amounts in substance to using estoppel as a cause of action, _ie_ , a sword instead of a shield. That is because this is a re-measurement contract. The defendant is therefore not merely using the estoppel argument to resist repaying to the plaintiff what the plaintiff characterises as an overpayment. The defendant is using the argument to justify its entitlement to receive the payments in the first place. 
 
 
-62     Singapore law has not yet accepted the view that an estoppel can be used as a cause of action ( _Rudhra Minerals Pte Ltd v MRI Trading Pte Ltd (formerly known as CWT Integrated Services Pte Ltd)_ [2013] 4 SLR 1023 at [50]). The Court of Appeal in _Sea-Land Service Inc v Cheong Fook Chee Vincent_ [1994] 3 SLR(R) 250 stated at [23] that “[i]t is trite law that promissory estoppel can only be used as a shield and not as a sword to enforce any rights”. What is true of promissory estoppel is equally true of estoppel by convention. The position taken by the defendant would allow assumptions to be enforced as promises, and even then without consideration. That would subvert the entire law of contract. 
+62     Singapore law has not yet accepted the view that an estoppel can be used as a cause of action ( _Rudhra Minerals Pte Ltd v MRI Trading Pte Ltd (formerly known as CWT Integrated Services Pte Ltd)_ <span class="citation">[2013] 4 SLR 1023</span> at [50]). The Court of Appeal in _Sea-Land Service Inc v Cheong Fook Chee Vincent_ <span class="citation">[1994] 3 SLR(R) 250</span> stated at [23] that “[i]t is trite law that promissory estoppel can only be used as a shield and not as a sword to enforce any rights”. What is true of promissory estoppel is equally true of estoppel by convention. The position taken by the defendant would allow assumptions to be enforced as promises, and even then without consideration. That would subvert the entire law of contract. 
 
 63     Insofar as the defendant is relying on estoppel to justify work done based on measurements that include the dimensions of the openings against the backdrop of a re-measurement contract, it is using the doctrine of estoppel as a sword. This is something the defendant cannot do. 
 
@@ -694,7 +694,7 @@ accepted that the variation works in Variation Order No. 2 were in fact carried 
 
 subcontract. [note: 176] 
 
-95     The defendant argues that the present factual situation is similar to the case of _Hi-Amp Engineering Pte Ltd v Technicdelta Electrical Engineering Pte Ltd_ [2003] SGHC 316 (“ _Hi-Amp_ 
+95     The defendant argues that the present factual situation is similar to the case of _Hi-Amp Engineering Pte Ltd v Technicdelta Electrical Engineering Pte Ltd_ <span class="citation">[2003] SGHC 316</span> (“ _Hi-Amp_ 
 
 _Engineering_ ”). [note: 177] As in _Hi-Amp Engineering_ , almost all the variations were underpinned by some form of written instructions or directions from the defendant to the plaintiff (see _Hi-Amp Engineering_ at [103]). Because the High Court granted the variation claim in _Hi-Amp Engineering_ , the defendant submits that the same should be done for the present case. 
 
@@ -731,7 +731,7 @@ subcontract. [note: 185]
 
 joinery subcontract. [note: 186] It is therefore clear that the contractual conditions agreed between the plaintiff and defendant for a successful variation claim are not satisfied. 
 
-102    The case of _Hi-Amp Engineering_ is distinguishable. In that case, MPH Rubin J held that the main contract was not capable of being read back-to-back with the subcontract. He doubted (at [98]) that the subcontractor had even seen the main contract before entering into the subcontract (see also _GIB Automation Pte Ltd v Deluge Fire Protection (SEA) Pte Ltd_ [2007] 2 SLR(R) 918 at [47]). For the reasons mentioned above at [44], I have found that it is likely that the wall finishes subcontract was signed in January 2013 but dated December 2012. Clause 17 of both subcontracts expressly states that the main contract and the subcontracts are to be on a “back-to-back” basis (see above at [7]). The subcontract in _Hi-Amp Engineering_ did not contain a clause requiring authorisation and approval from the main contractor before variation claims could be made. 
+102    The case of _Hi-Amp Engineering_ is distinguishable. In that case, MPH Rubin J held that the main contract was not capable of being read back-to-back with the subcontract. He doubted (at [98]) that the subcontractor had even seen the main contract before entering into the subcontract (see also _GIB Automation Pte Ltd v Deluge Fire Protection (SEA) Pte Ltd_ <span class="citation">[2007] 2 SLR(R) 918</span> at [47]). For the reasons mentioned above at [44], I have found that it is likely that the wall finishes subcontract was signed in January 2013 but dated December 2012. Clause 17 of both subcontracts expressly states that the main contract and the subcontracts are to be on a “back-to-back” basis (see above at [7]). The subcontract in _Hi-Amp Engineering_ did not contain a clause requiring authorisation and approval from the main contractor before variation claims could be made. 
 
 103    The defendant asserts in paragraph 9 of its Defence and Counterclaim that the plaintiff had, by its conduct and actions in respect of these variations, waived strict compliance with cl 17 (referred 
 
@@ -739,7 +739,7 @@ to above at [101]). [note: 187] This argument was not pursued in the defendant�
 
 secured the benefit of the variations _ex gratia_. [note: 189] That may be true, and that may be unjust, but it does not advance the contractual right to payment which the defendant asserts as the sole basis for its counterclaim. 
 
-104    The defendant has not pleaded and did not submit that an alternative basis for its counterclaim was a _quantum meruit_. I cannot award compensation to the defendant on a cause of action which it has not pleaded ( _Ong Seow Pheng and others v Lotus Development Corp and another_ [1997] 2 SLR(R) 113 at [41]). 
+104    The defendant has not pleaded and did not submit that an alternative basis for its counterclaim was a _quantum meruit_. I cannot award compensation to the defendant on a cause of action which it has not pleaded ( _Ong Seow Pheng and others v Lotus Development Corp and another_ <span class="citation">[1997] 2 SLR(R) 113</span> at [41]). 
 
 105    Thus, in the absence of any attempt by the defendant to make good in its submissions its case on waiver, and in the absence of a pleaded counterclaim seeking a _quantum meruit_ in the law of 
 
@@ -795,7 +795,7 @@ for inviting me to draw a factual inference about the basis on which the plainti
 
  (c) Damages for the expenses incurred by the defendant in extending the employment of Mr Lim. 
 
-112    There are considerable difficulties in law in the counterclaim for costs and expenses arising from the adjudication applications and the resulting litigation succeeding. In _Maryani Sadeli v Arjun Permanand Samtani and another and other appeals_ [2015] 1 SLR 496, the Court of Appeal held at [20] that “[t]he general rule on the recovery of costs of previous legal proceedings as damages in subsequent proceedings is clear: such costs which were unrecovered previously _cannot_ be recovered in a subsequent claim for damages, at least in so far as it involves a _same-party_ case.” [emphasis in original] 
+112    There are considerable difficulties in law in the counterclaim for costs and expenses arising from the adjudication applications and the resulting litigation succeeding. In _Maryani Sadeli v Arjun Permanand Samtani and another and other appeals_ <span class="citation">[2015] 1 SLR 496</span>, the Court of Appeal held at [20] that “[t]he general rule on the recovery of costs of previous legal proceedings as damages in subsequent proceedings is clear: such costs which were unrecovered previously _cannot_ be recovered in a subsequent claim for damages, at least in so far as it involves a _same-party_ case.” [emphasis in original] 
 
 113    Quite apart from the legal difficulties in claiming costs as damages and quite apart from the fact that the defendant has asserted no cause of action which would it allow it to do so, the fact that the plaintiff’s position in the adjudication has been vindicated at trial indicates that the plaintiff was justified in resisting the adjudication proceedings. If that is correct, the defendant’s claim for the costs incurred in the adjudication and the associated litigation cannot succeed on the facts. 
 

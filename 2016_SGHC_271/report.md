@@ -16,7 +16,7 @@
 
 _Tort_ – _Negligence_ – _Special damages_ – _Medical expenses_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 26 of 2017 was allowed by the Court of Appeal on 17 January 2018. See [2018] SGCA 22.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 26 of 2017 was allowed by the Court of Appeal on 17 January 2018. See <span class="citation">[2018] SGCA 22</span>.] 
 
 7 December 2016 
 
@@ -51,7 +51,7 @@ the negligence of a tortfeasor. In summary, Mr Yuen’s arguments were as follow
 
  d. the evidence before the court showed that there would be no double recovery by the appellant. 
 
-7       Noting that a recent decision of the High Court in _Sun Delong v Teo Poh Sun_ [2016] SGHC 129 (“ _Sun Delong_ ”) had been adverted to but distinguished by the District Judge, Mr Yuen sought to argue that the District Judge was not entitled to decline to follow this case which was binding on her. Mr Yuen sought to rely on the court’s _ratio_ in _Sun Delong_ where Choo Han Teck J had held that the injured plaintiff-employee was entitled to claim his medical expenses as special damages even though his ex-employer had paid those expenses upfront. Choo J stipulated a condition that the plaintiff was to reimburse his ex-employer. 
+7       Noting that a recent decision of the High Court in _Sun Delong v Teo Poh Sun_ <span class="citation">[2016] SGHC 129</span> (“ _Sun Delong_ ”) had been adverted to but distinguished by the District Judge, Mr Yuen sought to argue that the District Judge was not entitled to decline to follow this case which was binding on her. Mr Yuen sought to rely on the court’s _ratio_ in _Sun Delong_ where Choo Han Teck J had held that the injured plaintiff-employee was entitled to claim his medical expenses as special damages even though his ex-employer had paid those expenses upfront. Choo J stipulated a condition that the plaintiff was to reimburse his ex-employer. 
 
 8       Mr Yuen argued that there was nothing in the EFMA that precluded the injured foreign worker from claiming his medical expenses from the tortfeasor. Mr Yuen submitted that he had a “right to recover these monies from the negligent tortfeasor” and denying him that right would mean that he 
 
@@ -70,7 +70,7 @@ District Judge was correct in her finding, for the following key reasons: [note:
 
  c. To allow the employer to circumvent its statutory liability or the clear statutory scheme (like allowing it to pretend that the medical expenses were loans to the employee for which the employee is liable to reimburse to the employer) would be to allow it to act in breach of the law and is void, unenforceable and illegal. 
 
-10     Mr Rai supported the District Judge’s reference to another High Court case for guidance, namely the decision of _Lee Chiang Theng v Public Prosecutor_ [2012] 1 SLR 751 (“ _Lee Chiang Theng_ ”) where the scope of employers’ duties under the EFMA was discussed by V K Rajah JA (as he then was). Mr Rai submitted that the District Judge was correct in distinguishing _Sun Delong_ on the basis that no reference to _Lee Chiang Theng_ was apparently made by the parties in their submissions before Choo J. 
+10     Mr Rai supported the District Judge’s reference to another High Court case for guidance, namely the decision of _Lee Chiang Theng v Public Prosecutor_ <span class="citation">[2012] 1 SLR 751</span> (“ _Lee Chiang Theng_ ”) where the scope of employers’ duties under the EFMA was discussed by V K Rajah JA (as he then was). Mr Rai submitted that the District Judge was correct in distinguishing _Sun Delong_ on the basis that no reference to _Lee Chiang Theng_ was apparently made by the parties in their submissions before Choo J. 
 
 11     Mr Rai therefore submitted that to allow recovery in the present case would be to allow the employer to infringe the provisions of the EFMA, delegate his otherwise personal and non-delegable duty and a scenario of double recovery in the event that the employer had claimed or may claim from the mandatory insurance that he had taken out. The appellant was, in any event, under no legal liability to repay KPW as there was no valid cause of action to support any claim by KPW to be reimbursed or indemnified for paying the appellant’s medical expenses. 
 

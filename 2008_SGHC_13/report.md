@@ -185,12 +185,12 @@ action apart from giving vague answers that it had given feedback to the Hong Ko
 
 The plaintiffs in the present case sought to put their claim into the third or the fourth class. 
 
-34     The court below had placed the plaintiff’s claim in the second class whereas I was of the view that it should go into the third class, adopting the position taken by the appellate court in _Cheng Poh Construction Pte Ltd v First City Builders Pte Ltd_ [2003] 2 SLR 170 at [17] and [18]. I should add that the pronouncements of Bingham LJ are also encapsulated in our own White Book ( _Singapore Civil_ 
+34     The court below had placed the plaintiff’s claim in the second class whereas I was of the view that it should go into the third class, adopting the position taken by the appellate court in _Cheng Poh Construction Pte Ltd v First City Builders Pte Ltd_ <span class="citation">[2003] 2 SLR 170</span> at [17] and [18]. I should add that the pronouncements of Bingham LJ are also encapsulated in our own White Book ( _Singapore Civil_ 
 
 
 _Procedure 2007_ , Sweet & Maxwell) at pp 144 and 145 in the commentary at O14/4/10 headed “Setoff and Counterclaim”. 
 
-35     Counsel for the plaintiff submitted, and which I accepted, that the court should adopt the robust approach advocated in _Hua Khian Ceramics Tiles Supplies Pte Ltd v Torie Construction Pte Ltd_ [1992] 1 SLR 884 to decide whether the plaintiff should be granted summary judgment in the light of the defendant’s alleged counterclaim. Having closely examined the merits of the counterclaim and whether it operated as a set-off to the plaintiff’s claim, it was my view that the defendant’s case did not fall under either the first or the second class (see [33] above) such as to merit unconditional leave to defend. 
+35     Counsel for the plaintiff submitted, and which I accepted, that the court should adopt the robust approach advocated in _Hua Khian Ceramics Tiles Supplies Pte Ltd v Torie Construction Pte Ltd_ <span class="citation">[1992] 1 SLR 884</span> to decide whether the plaintiff should be granted summary judgment in the light of the defendant’s alleged counterclaim. Having closely examined the merits of the counterclaim and whether it operated as a set-off to the plaintiff’s claim, it was my view that the defendant’s case did not fall under either the first or the second class (see [33] above) such as to merit unconditional leave to defend. 
 
 36     Consequently, I granted the plaintiff judgment on its outstanding invoices as it should not be put to the trouble and expense of proving a claim that the defendant had never disputed before this suit was commenced. A stay was granted to enable the defendant to proceed to trial on its counterclaim even though I entertained grave doubts on its merits. 
 

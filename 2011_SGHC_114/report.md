@@ -75,7 +75,7 @@ I shall refer to these grounds as grounds (a), (b) and (c) and consider each in 
 
 9       The plaintiff’s argument was that as the debt was incurred outside Singapore, and that no judgment or award obtained on the debt which is enforceable by execution in Singapore, the statutory demand should be set aside. 
 
-10     Section 61(1)( _d_ ) was enacted for a specific purpose. Its introduction into s 61(1) was recounted by the Court of Appeal in _AmBank (M) Bhd v Yong Kim Yoong Raymond_ [2009] 2 SLR(R) 659 (“ _AmBank v Yong_ ”) and I will not repeat the complete narration of its gestation. To put it very briefly, it started at the proceedings of the Select Committee on the Bankruptcy Bill. The Select 
+10     Section 61(1)( _d_ ) was enacted for a specific purpose. Its introduction into s 61(1) was recounted by the Court of Appeal in _AmBank (M) Bhd v Yong Kim Yoong Raymond_ <span class="citation">[2009] 2 SLR(R) 659</span> (“ _AmBank v Yong_ ”) and I will not repeat the complete narration of its gestation. To put it very briefly, it started at the proceedings of the Select Committee on the Bankruptcy Bill. The Select 
 
 
 Committee received a submission from an associate professor of law who expressed concern over the extra-territorial application of the criminal provisions in the BA. The Select Committee agreed with the concern and revised the proposed provisions to exclude debts incurred outside Singapore unless they are incorporated in judgments or awards which are enforceable in Singapore. 

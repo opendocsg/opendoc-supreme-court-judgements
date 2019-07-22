@@ -76,7 +76,7 @@ ought to be decided by the High Court. [note: 2] The issues of public interest a
 
 20     To recapitulate, the defendants had filed SUM 979/2016 to strike out TMTA’s claim pursuant to O 18 r 19 and/or the inherent jurisdiction of the court on the ground that the claim was frivolous and vexatious and/or an abuse of the process of the court. AR Lim dismissed the application, and the defendants did not appeal against that decision. The defendants had relied on the Open Offer to support their application. 
 
-21     AR Lim was aware that the defendants had made two earlier applications. One was for the determination of certain questions of law pertaining to the Act and the second was to strike out TMTA’s claim under O 18 r 19 and/or the inherent jurisdiction of the court. After certain decisions by an Assistant Registrar, appeals were filed and eventually heard by Prakash J. At that time, Prakash J declined to strike out the claim because the claim raised issues of public importance and ought not to be summarily determined. Secondly, there were a number of important factual findings that had to be made before certain questions raised could be answered (see _TMT Asia Ltd v BHP Billiton Marketing AG (Singapore Branch) and another_ [2015] 2 SLR 540). 
+21     AR Lim was aware that the defendants had made two earlier applications. One was for the determination of certain questions of law pertaining to the Act and the second was to strike out TMTA’s claim under O 18 r 19 and/or the inherent jurisdiction of the court. After certain decisions by an Assistant Registrar, appeals were filed and eventually heard by Prakash J. At that time, Prakash J declined to strike out the claim because the claim raised issues of public importance and ought not to be summarily determined. Secondly, there were a number of important factual findings that had to be made before certain questions raised could be answered (see _TMT Asia Ltd v BHP Billiton Marketing AG (Singapore Branch) and another_ <span class="citation">[2015] 2 SLR 540</span>). 
 
 22     There was one critical difference between the application before Prakash J and that before AR 
 
@@ -99,7 +99,7 @@ Lim. At the time of the hearing before Prakash J, the defendants had not yet mad
 
 26     The defendants submitted that there were new developments since AR Lim’s decision. In particular, the Act had been amended to address some of the issues pertaining to the Act which would have arisen in the trial of the claim. However, they accepted that the amendments would not have retrospective effect. Instead, their point was that these issues would no longer arise in respect of future conduct. 
 
-27     They also submitted that a decision which was in substance interlocutory should not prevent the later ventilation of the same issue, relying on _Transpac Capital Pte Ltd v Lam Soon (Thailand) Co Ltd_ [1999] 3 SLR(R) 454 (“ _Transpac Capital_ ”). 
+27     They also submitted that a decision which was in substance interlocutory should not prevent the later ventilation of the same issue, relying on _Transpac Capital Pte Ltd v Lam Soon (Thailand) Co Ltd_ <span class="citation">[1999] 3 SLR(R) 454</span> (“ _Transpac Capital_ ”). 
 
 28     I was of the view that _Transpac Capital_ was not authority for the proposition that an application decided on an interlocutory basis could, as a general rule, be made and heard again. The facts and issues in that case were different and did not assist the defendants. I need not elaborate on them here. 
 

@@ -68,19 +68,19 @@ _Principles governing the exercise of the revisionary jurisdiction_
 
 6       The High Court’s power of criminal revision is provided for in s 23 of the Supreme Court of Judicature Act (Cap 322) and sections 266 to 270 of the Criminal Procedure Code ("CPC") (Cap 68). The principles governing the exercise of this jurisdiction were summarised in _Ma Teresa Bebango Bedico v PP_ Criminal Revision 9 of 2001: 
 
- The starting point was that this power is to be exercised sparingly. In Teo Hee Heng v PP [2000] 3 SLR 168, the court said: 
+ The starting point was that this power is to be exercised sparingly. In Teo Hee Heng v PP <span class="citation">[2000] 3 SLR 168</span>, the court said: 
 
  It is certainly not the purpose of a criminal revision to become a convenient form of "backdoor appeal" against conviction for accused persons who had pleaded guilty to their charges. 
 
- The threshold then is the requirement of "serious injustice", which was laid down in Ang Poh Chuan v PP [1996] 1 SLR 326: 
+ The threshold then is the requirement of "serious injustice", which was laid down in Ang Poh Chuan v PP <span class="citation">[1996] 1 SLR 326</span>: 
 
  [V]arious phrases may be used to identify the circumstances which would attract the exercise of the revisionary jurisdiction, but they all share the common denominator that there must be some serious injustice ... there cannot be a precise definition of what would constitute such serious injustice for that would... unduly circumscribe what must be a wide discretion vested in the court... But generally it must be shown that there is something palpably wrong in the decision that strikes at its basis as an exercise of judicial power by the court below. ( emphasis added ) 
 
- I n Glenn Knight Jeyasingam v PP [1999] 3 SLR 362, the court clarified the relationship between CPC s 266(1) and the requirement of "serious injustice". Not only must there have been some error, illegality, impropriety or irregularity, it must also have caused serious injustice: 
+ I n Glenn Knight Jeyasingam v PP <span class="citation">[1999] 3 SLR 362</span>, the court clarified the relationship between CPC s 266(1) and the requirement of "serious injustice". Not only must there have been some error, illegality, impropriety or irregularity, it must also have caused serious injustice: 
 
  The court’s immediate duty is to satisfy itself as to the correctness, legality or propriety of any order passed and as to the regularity of any proceedings of that subordinate court. However, this is not sufficient to require the intervention of the courts on revision. The irregularity or otherwise from the record of proceedings must have resulted in grave and serious injustice ... ( emphasis added ) 
 
- ... The court [in Mok Swee Kok v PP [1994] 3 SLR 140] held that the High Court should exercise its revisionary powers "only where it is manifestly plain that the offence charged is nowhere disclosed in the statement of facts tendered (emphasis added)". 
+ ... The court [in Mok Swee Kok v PP <span class="citation">[1994] 3 SLR 140</span>] held that the High Court should exercise its revisionary powers "only where it is manifestly plain that the offence charged is nowhere disclosed in the statement of facts tendered (emphasis added)". 
 
 
 _The plea of guilt_ 
@@ -93,7 +93,7 @@ _The plea of guilt_
 
  Provided that before a plea of guilty is recorded the court shall ascertain that the accused understands the nature and consequences of his plea and intends to admit without qualification the offence alleged against him... ( emphasis added ) 
 
-The contents of s 180(1)(b) are included in the safeguards set out by the court in _Ganesun s/o Kannan v Public Prosecutor_ [1996] 3 SLR 560: 
+The contents of s 180(1)(b) are included in the safeguards set out by the court in _Ganesun s/o Kannan v Public Prosecutor_ <span class="citation">[1996] 3 SLR 560</span>: 
 
  In Lee Weng Tuck v PP , the Supreme Court of Kuala Lumpur ruled that a plea of guilty must be valid and unequivocal, and in order to determine the validity of a plea of guilty, the following safeguards should be observed. First, the court must ensure that it is the accused himself who wishes to plead guilty. Thus in R v Tan Thian Chai [1932] MLJ 74, Whitley J held that an accused person should plead guilty or claim to be tried by his own mouth and not through his counsel. 
 

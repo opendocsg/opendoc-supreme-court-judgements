@@ -64,7 +64,7 @@ view, appropriate to avail to them as part of a range of solutions, this solutio
 
 **Condition for security for costs to be furnished** 
 
-13     HKL had sought the provision of security for the entire sum claimed. I note that the court has an unfettered discretion to impose terms and conditions upon granting a stay of proceedings in favour of arbitration under s 6(2) of the International Arbitration Act (Cap 143A, 2002 Rev Ed), although this discretionary power has to be exercised judiciously (see _The “Duden”_ [2008] 4 SLR(R) 984 at [12] to [16]). 
+13     HKL had sought the provision of security for the entire sum claimed. I note that the court has an unfettered discretion to impose terms and conditions upon granting a stay of proceedings in favour of arbitration under s 6(2) of the International Arbitration Act (Cap 143A, 2002 Rev Ed), although this discretionary power has to be exercised judiciously (see _The “Duden”_ <span class="citation">[2008] 4 SLR(R) 984</span> at [12] to [16]). 
 
 14     In the exercise of my discretion, I saw it fit to impose a condition for Rizq Singapore to furnish security for costs leading up to the arbitration. I was persuaded to impose this condition by what HKL characterises as the dubious financial circumstances of Rizq Singapore. Notably, Rizq Singapore’s registered address is the address of a shopping mall in which Rizq Singapore has no physical presence. Rizq Singapore’s other address stated in its letterhead turned out to be the address of a laundromat. 
 

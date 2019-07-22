@@ -80,7 +80,7 @@ _Immigration_ – _criminal offences_
 
 **_The DJ’s decision_** 
 
-10     The DJ imposed what, in effect, was a nine-month term of imprisonment on the Appellant. His reasons for doing so are contained in his judgment which is reported as _Public Prosecutor v Mehra Radhika_ [2014] SGDC 206 (the “Judgment”). These may be summarised as follows: 
+10     The DJ imposed what, in effect, was a nine-month term of imprisonment on the Appellant. His reasons for doing so are contained in his judgment which is reported as _Public Prosecutor v Mehra Radhika_ <span class="citation">[2014] SGDC 206</span> (the “Judgment”). These may be summarised as follows: 
 
  (a) Section 57C of the Act was enacted in December 2012 because Parliament recognised that targeted legislation aimed at marriages of convenience was needed in order to safeguard the security and integrity of our borders and to maintain law and order. 
 
@@ -177,7 +177,7 @@ _Legislative intention behind s 57C of the Act_
 
 27     Legislative intention is relevant to and influences sentencing in various ways. As a generally operative background factor, if Parliament has increased the punishment for an offence on the basis that the mischief in question was becoming more serious and needed to be arrested, as was the case in _Oramulu_ , the courts would not be acting in concert with the legislative intent if they fail to have regard to this in developing the appropriate sentencing framework or if they nonetheless err on the side of leniency in sentencing. 
 
-28     Legislative intention is also relevant in the assessment of the appropriateness of a sentence for an offence that has a statutorily prescribed range of sentences. In _Angliss Singapore Pte Ltd v Public Prosecutor_ [2006] 4 SLR(R) 653, V K Rajah J (as he then was), when meting out a sentence that was close to the statutory maximum, observed thus (at [87]): 
+28     Legislative intention is also relevant in the assessment of the appropriateness of a sentence for an offence that has a statutorily prescribed range of sentences. In _Angliss Singapore Pte Ltd v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 653</span>, V K Rajah J (as he then was), when meting out a sentence that was close to the statutory maximum, observed thus (at [87]): 
 
  If a particular criminal provision prescribes a maximum sentence that seems unduly light or lenient in relation to the potential seriousness of offences that fall under it, meting out a near-maximum sentence is not warranted unless it is demonstrated by the prosecution that that particular offence figures among the worst type of cases falling within that prohibition. Thus, there must be a sense that the sentence is proportionate not only to the culpability of the offender but also in the context of the legislative scheme. [emphasis in original in italics; emphasis added in bold italics] 
 
@@ -211,7 +211,7 @@ _Circumstances of the commission of the offence_
 
 38     If the arranger has taken active steps to prevent the detection of the offence or has put in place measures designed to deceive an inquisitive third party into thinking that the marriage is legitimate, that could be an aggravating factor that warrants a more severe sentence. 
 
-39     This is a function of the amount of planning that has gone into the commission of the offence (see _Public Prosecutor v Fernando Payagala Waduge Malitha Kumar_ [2007] 2 SLR(R) 334 at [42]). However, it is important to recognise that evidence of planning, on its own, does not always justify a harsher sentence. 
+39     This is a function of the amount of planning that has gone into the commission of the offence (see _Public Prosecutor v Fernando Payagala Waduge Malitha Kumar_ <span class="citation">[2007] 2 SLR(R) 334</span> at [42]). However, it is important to recognise that evidence of planning, on its own, does not always justify a harsher sentence. 
 
 40     Rather, planning is typically considered an aggravating factor when it points to the existence of a _considered_ intention to perpetrate the offence which in turn justifies a harsher sentence. Intention, in the context of sentencing, is important. At one end of the spectrum are offences which have been planned with deliberation; on the other end are those which are the result of a “spur of the moment” decision (see Andrew Ashworth, _Sentencing and Criminal Justice_ (Cambridge University Press, 5th Ed, 2010) (“ _Sentencing and Criminal Justice_ ”) at p 148). 
 
@@ -248,7 +248,7 @@ _Role and motivation of the arranger_
 
 51     For this reason, there is enhanced culpability where the arranger is motivated by any form of financial gain or benefit, and this should be accompanied with a harsher sentence. As a general proposition, the greater the reward received, the greater the punishment ought to be. 
 
-52     In addition, where there is an element of financial reward, a fine should be imposed in addition to any term of imprisonment. In _Poh Boon Kiat v Public Prosecutor_ [2014] SGHC 186, in relation to vice offences, I observed (at [102]) that fines should be imposed in such cases to annul or negate any financial advantage that might have been obtained through the commission of the offence. 
+52     In addition, where there is an element of financial reward, a fine should be imposed in addition to any term of imprisonment. In _Poh Boon Kiat v Public Prosecutor_ <span class="citation">[2014] SGHC 186</span>, in relation to vice offences, I observed (at [102]) that fines should be imposed in such cases to annul or negate any financial advantage that might have been obtained through the commission of the offence. 
 
 (3) Recruiting other accomplices 
 
@@ -321,7 +321,7 @@ _Sentencing precedents_
 
 70     For completeness, I should comment on the sentencing precedents briefly because the DJ placed considerable reliance on the sentence of nine months’ imprisonment that was imposed on Peer Ali as well as the other sentencing precedents provided by the Prosecution. 
 
-71     As regards Peer Ali, although he was party to the same transaction as the Appellant, the principle of parity of sentencing ought not to be applied blindly, without regard to the degree of culpability of each individual offender in committing the offending acts. I emphasised this recently in _Public Prosecutor v Marzuki bin Ahmad and another appeal_ [2014] SGHC 166 at [45]. 
+71     As regards Peer Ali, although he was party to the same transaction as the Appellant, the principle of parity of sentencing ought not to be applied blindly, without regard to the degree of culpability of each individual offender in committing the offending acts. I emphasised this recently in _Public Prosecutor v Marzuki bin Ahmad and another appeal_ <span class="citation">[2014] SGHC 166</span> at [45]. 
 
 72     To the extent that Ms Chionh pressed me to apply the principle of parity in this case, I disagreed that this was appropriate in the present circumstances. What distinguished Peer Ali from the Appellant was that Peer Ali’s participation in the criminal endeavour was driven purely by monetary gain which, at least relative to the Appellant’s motivation, reflected a greater degree of culpability. As mentioned above at [51] to [52], a harsher sentence is warranted where monetary profit is the motivation for the offence. 
 
@@ -334,7 +334,7 @@ _Sentencing precedents_
 
 Statement of Facts to have so profited. However, as the decisions in the latter two cases are unreported, and no judgment of the district court is available, it would be inappropriate for me to rely on the decisions in those cases. 
 
-76     The only case amongst the six that is reported is _Public Prosecutor v Tay Szu Khee_ [2014] SGDC 52 where the arranger was sentenced to nine months’ imprisonment. There, the arranger who recruited one other person (aside from the “spouse”) was involved in the operational aspects of the arrangement and made a profit of $2,000 from his crime. In my view, applying the sentencing considerations that I have set out above, the fact that the offender in that case committed the offence solely for profit distinguished that case from the present. 
+76     The only case amongst the six that is reported is _Public Prosecutor v Tay Szu Khee_ <span class="citation">[2014] SGDC 52</span> where the arranger was sentenced to nine months’ imprisonment. There, the arranger who recruited one other person (aside from the “spouse”) was involved in the operational aspects of the arrangement and made a profit of $2,000 from his crime. In my view, applying the sentencing considerations that I have set out above, the fact that the offender in that case committed the offence solely for profit distinguished that case from the present. 
 
 **Conclusion** 
 

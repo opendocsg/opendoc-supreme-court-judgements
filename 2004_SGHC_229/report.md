@@ -87,11 +87,11 @@ _(v) Loss of consciousness_
 13     In respect of this part of the claim, counsel for the plaintiff in his closing submissions sought an award for loss of future earnings or in the alternative loss of earning capacity. I agreed with counsel for the defendant that the claim for loss of future earnings was never pleaded at any stage prior to the closing submissions. In particular, it was noteworthy that the plaintiff in his own affidavit only sought to claim for loss of earning capacity. The cross-examination had proceeded on that basis. As such, there was no reason to allow the plaintiff to switch horses mid-race. In any case, I 
 
 
-did not think that this was a proper case for an award for loss of future earnings as there was simply insufficient data to determine with any accuracy an award for loss of future earnings which must be a real assessable loss provable by evidence: see _Chang Ah Lek and Others v Lim Ah Koon_ [1999] 1 SLR 82 at 25 and _Teo Sing Keng and Another v Sim Ban Kiat_ [1994] 1 SLR 634 at 646. 
+did not think that this was a proper case for an award for loss of future earnings as there was simply insufficient data to determine with any accuracy an award for loss of future earnings which must be a real assessable loss provable by evidence: see _Chang Ah Lek and Others v Lim Ah Koon_ <span class="citation">[1999] 1 SLR 82</span> at 25 and _Teo Sing Keng and Another v Sim Ban Kiat_ <span class="citation">[1994] 1 SLR 634</span> at 646. 
 
 14     On the evidence, I should mention that it was not sufficient to rely on a National University of Singapore Graduate Employment Survey 2003 as proof of the plaintiff’s earnings. All that the survey showed was the average salary of a mechanical engineer, who graduated in mid-2003 and worked in the private sector. There was no correlation between that hypothetical salary and what the plaintiff would have earned, but for the accident. 
 
-15     I turned then to examine the loss of earning capacity. I was guided by the words of Goh Joon Seng J, who in delivering the decision of the Court of Appeal in _Teo Sing Keng and Another v Sim Ban Kiat_ [1994] 1 SLR 634 stated at [40] that: 
+15     I turned then to examine the loss of earning capacity. I was guided by the words of Goh Joon Seng J, who in delivering the decision of the Court of Appeal in _Teo Sing Keng and Another v Sim Ban Kiat_ <span class="citation">[1994] 1 SLR 634</span> stated at [40] that: 
 
  An award for loss of earning capacity, as opposed to an award for loss of earnings, is generally made in the following cases: 
 
@@ -141,7 +141,7 @@ ability to work. On this, Dr Pillay stated that while the plaintiff would have n
 
 (3) and (4). I disallowed item (3) on the simple basis that the plaintiff could not explain what this claim was for. It is hornbook law that special damages can only be recovered if they are strictly proved. There was hence no basis for the Court to make this award. Secondly, I disallowed item (4) 
 
-- the plaintiff’s brother’s air ticket from Malaysia to Singapore. I reached this decision on the basis of the Court of Appeal decision in _Teng Ching Sin & Another v Leong Kwong Sun_ [1994] 1 SLR 758 which stated that transport expenses incurred by family members in visiting an injured plaintiff should not be recoverable without evidence that those visits were important and necessary in the plaintiff’s recovery. No evidence of this nature was adduced. Hence, I did not think it would be fair to allow the plaintiff to claim for his brother’s flight back from Malaysia with him. 
+- the plaintiff’s brother’s air ticket from Malaysia to Singapore. I reached this decision on the basis of the Court of Appeal decision in _Teng Ching Sin & Another v Leong Kwong Sun_ <span class="citation">[1994] 1 SLR 758</span> which stated that transport expenses incurred by family members in visiting an injured plaintiff should not be recoverable without evidence that those visits were important and necessary in the plaintiff’s recovery. No evidence of this nature was adduced. Hence, I did not think it would be fair to allow the plaintiff to claim for his brother’s flight back from Malaysia with him. 
 
 25     I should mention that in relation to item (1) – the medical expenses amounting to $15,120.05, while I had ordered this amount be awarded to the plaintiff, I had further directed the Public Trustee pay out this money only after resolving whether the insurer were entitled to the money under the doctrine of subrogation. 
 

@@ -803,7 +803,7 @@ Each issue will now be addressed.
 
 **_Was there an unlawful act conspiracy between the defendants to deprive Chenet of the Shares?_** 
 
-142    The tort of conspiracy has two limbs: lawful and unlawful act conspiracy. In the present case Chenet is relying only on unlawful act conspiracy. The elements of this tort are well-established (see _Quah Kay Tee v Ong and Co Pte Ltd_ [1996] 3 SLR(R) 637 at [45]): 
+142    The tort of conspiracy has two limbs: lawful and unlawful act conspiracy. In the present case Chenet is relying only on unlawful act conspiracy. The elements of this tort are well-established (see _Quah Kay Tee v Ong and Co Pte Ltd_ <span class="citation">[1996] 3 SLR(R) 637</span> at [45]): 
 
  (a) an agreement or combination between two or more people; 
 
@@ -955,7 +955,7 @@ provide an additional reason for the court to order costs on an indemnity basis.
 
 referring to a tort of abuse of civil process. [note: 143] He also asserted that this is a recognised tort in Singapore. Reference was then made to Bullen & Leake & Jacob’s, _Precedents of Pleadings_ (Sweet 
 
-& Maxwell, 13th Ed, 1990) and to the case of _Eng Hui Cheh David v Opera Gallery Pte Ltd_ [2009] SGHC 121 (“ _Eng Hui Cheh_ ”) at [131] to support that proposition. 
+& Maxwell, 13th Ed, 1990) and to the case of _Eng Hui Cheh David v Opera Gallery Pte Ltd_ <span class="citation">[2009] SGHC 121</span> (“ _Eng Hui Cheh_ ”) at [131] to support that proposition. 
 
 180    However, the textbook which Mr Singh relied on states, at p 644, that for such a tort, the plaintiff must prove special damage. In the present case, Allene did not even plead any special damage. 
 

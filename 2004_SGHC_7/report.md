@@ -26,9 +26,9 @@ _Civil Procedure_ – _Striking out_ – _Whether the plaintiff's claim is hopel
 
 4       On 9 May 2003, Sutanto obtained default judgment against Suriani. 
 
-5       The circumstances under which a court will strike out a claim under O 18 r 19 of the Rules of Court (Cap 322, R 5, 1997 Rev Ed) have been discussed in many authorities (see _The Osprey_ [2000] 1 SLR 281; _Tan Eng Khiam v Ultra Realty Pte Ltd_ [1991] SLR 798). As this is a summary process, the legal position is that the power should only be used in “plain and obvious cases” where the claim is simply unarguable. 
+5       The circumstances under which a court will strike out a claim under O 18 r 19 of the Rules of Court (Cap 322, R 5, 1997 Rev Ed) have been discussed in many authorities (see _The Osprey_ <span class="citation">[2000] 1 SLR 281</span>; _Tan Eng Khiam v Ultra Realty Pte Ltd_ [1991] SLR 798). As this is a summary process, the legal position is that the power should only be used in “plain and obvious cases” where the claim is simply unarguable. 
 
-6       On the striking out of an action as disclosing no reasonable cause of action, the Court of Appeal in _Gabriel Peter & Partners v Wee Chong Jin_ [1998] 1 SLR 374 held that as long as the statement of claim disclosed some cause of action, or raised some question fit to be decided at trial, the action should not be struck out. The fact that a case is weak and is not likely to succeed is not a 
+6       On the striking out of an action as disclosing no reasonable cause of action, the Court of Appeal in _Gabriel Peter & Partners v Wee Chong Jin_ <span class="citation">[1998] 1 SLR 374</span> held that as long as the statement of claim disclosed some cause of action, or raised some question fit to be decided at trial, the action should not be struck out. The fact that a case is weak and is not likely to succeed is not a 
 
 
 ground for striking out. As for the words “frivolous and vexatious”, they have been interpreted to mean actions which are “obviously unsustainable” or “wrong” (see _Singapore Court Practice 2003_ (LexisNexis, 2003) at 538). 

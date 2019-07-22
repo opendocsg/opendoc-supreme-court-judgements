@@ -53,13 +53,13 @@ In addition, the Assistant Registrar also awarded Pillay special damages of $35,
 
 Two terms in this provision required particular attention, namely, “amount or value of the subject matter” and “trial”. 
 
-8       There are two previous decisions of this court which had in some way helped to elucidate the two terms. In _Spandeck Engineering (S) Pte Ltd v Yong Qiang Construction_ [1999] 4 SLR 401, it was held that the word “trial” should be construed purposively and on that basis it meant:
+8       There are two previous decisions of this court which had in some way helped to elucidate the two terms. In _Spandeck Engineering (S) Pte Ltd v Yong Qiang Construction_ <span class="citation">[1999] 4 SLR 401</span>, it was held that the word “trial” should be construed purposively and on that basis it meant:
 
  “... a hearing, whether in open court or in chambers, in which the judge determines the matter in issue before him, whether it be an issue of fact or law.” 
 
 There, the court rejected the argument that a “trial” meant only a hearing before a court at which evidence was adduced, arguments were canvassed and questions of fact and/or law were finally decided. Various anomalies that could arise if such a narrow interpretation were to be given to the word “trial” were also referred to. 
 
-9       In _Tan Chiang Brother’s Marble (S) Pte Ltd v Permasteelisa Pacific Holdings Ltd_ [2002] 2 SLR 225, the court held that the term “at the trial” could not be interpreted to mean “at the appeal” without doing violence to its plain meaning. 
+9       In _Tan Chiang Brother’s Marble (S) Pte Ltd v Permasteelisa Pacific Holdings Ltd_ <span class="citation">[2002] 2 SLR 225</span>, the court held that the term “at the trial” could not be interpreted to mean “at the appeal” without doing violence to its plain meaning. 
 
 10     Pillay accepted the rulings in these two cases. What his counsel argued was that, in the context of our present case, the “trial” took place before the Assistant Registrar. Unlike _Spandeck Engineering_ and _Tan Chiang Brother’s Marble_ , where the claims were for liquidated sums, here the claim was essentially for general damages; the amount was unspecified. In the circumstances, the only possible point of reference was the amount awarded by the Assistant Registrar, which in total (even inclusive of the special damages in foreign currencies) fell far short of the sum of $250,000. When the matter went on “appeal” to the judge-in-chambers, the Judge increased the general damages by $130,000 and this enhanced amount is the sum which Teo wishes to take up to the Court of Appeal. Thus, the subject matter of the hearing before the judge-in-chambers was in respect of the increased amount of $130,000. As this sum was less than $250,000, leave of court was required. 
 

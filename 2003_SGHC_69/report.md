@@ -46,7 +46,7 @@ which, according to the former, was intended to set out, among other things, the
 
 **Elements of the tort of deceit** 
 
-13\. The law on fraudulent misrepresentation and the tort of deceit was considered at length by the Court of Appeal in _Panatron Pte Ltd v Lee Cheow Lee_ [2001] 3 SLR 405. LP Thean JA, who delivered the judgment of the Court, said as follows at p 409: 
+13\. The law on fraudulent misrepresentation and the tort of deceit was considered at length by the Court of Appeal in _Panatron Pte Ltd v Lee Cheow Lee_ <span class="citation">[2001] 3 SLR 405</span>. LP Thean JA, who delivered the judgment of the Court, said as follows at p 409: 
 
  The law as re gards fraudule nt re pre se ntation is cle ar. ... [I]t has be e n se ttle d that a pe rson can be he ld liable in tort to anothe r, if he know ingly or re ckle ssly make s a false state me nt to that othe r w ith the inte nt that it w ould be acte d upon, and that othe r doe s act upon it and suffe rs damage. This came to be know n as the tort of de ce it. In Derry v Peek , ... the tort w as furthe r de ve lope d. It w as he ld that in an action of de ce it the plaintiff must prove actual fraud. This fraud is prove d only w he n it is show n that a false re pre se ntation has be e n made know ingly, or w ithout be lie f in its truth, or re ckle ssly, w ithout caring w he the r it be true or false. 
 
@@ -98,7 +98,7 @@ order. It must not be overlooked that the negotiations for the purchase of the e
 
 **Contributory negligence** 
 
-24\. I now turn to Rosalind’s assertion that Elvin should have checked the position for himself before paying for the Tokyo Leasing equipment. I agree with her but it does not lie in the mouth of a person who is guilty of fraudulent misrepresentation to complain about the representee’s contributory negligence. In _Panatron Pte Ltd v Lee Cheow Lee_ [2001] 3 SLR 405, 412, LP Thean JA, who delivered the judgment of the Court of Appeal, said as follows: 
+24\. I now turn to Rosalind’s assertion that Elvin should have checked the position for himself before paying for the Tokyo Leasing equipment. I agree with her but it does not lie in the mouth of a person who is guilty of fraudulent misrepresentation to complain about the representee’s contributory negligence. In _Panatron Pte Ltd v Lee Cheow Lee_ <span class="citation">[2001] 3 SLR 405</span>, 412, LP Thean JA, who delivered the judgment of the Court of Appeal, said as follows: 
 
  [T]he law is cle ar. All that is re quire d is re liance in the se nse that the victims w e re induce d by the re pre se ntations. Once this is prove d, it is no de fe nce that the y acte d incautiously and faile d to take those ste ps to ve rify the truth of re pre se ntations w hich a prude nt man w ould have take n: Central Rly Co of Venezuela v Kisch (1867) LR 2 HL 99. 
 

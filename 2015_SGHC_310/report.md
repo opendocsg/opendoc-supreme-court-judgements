@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Offences_ – _Murder_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 39 of 2015 and the application in Criminal Motion No 14 of 2016 were dismissed, while the application in Criminal Motion No 17 of 2016 was allowed, by the Court of Appeal on 3 February 2017. See [2017] SGCA 9.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 39 of 2015 and the application in Criminal Motion No 14 of 2016 were dismissed, while the application in Criminal Motion No 17 of 2016 was allowed, by the Court of Appeal on 3 February 2017. See <span class="citation">[2017] SGCA 9</span>.] 
 
 4 December 2015 
 

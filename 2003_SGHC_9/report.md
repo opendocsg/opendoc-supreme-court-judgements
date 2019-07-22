@@ -408,7 +408,7 @@ that it was submitted by the prosecution that the evidence of the victim taken t
 
  ... ... the legal position is this. There is no rule of law or of practice which makes it obligatory that the evidence of the prosecutrix should be corroborated before a conviction for rape could be entered. The only rule that demands corroboration in such a case is a rule of prudence; and even this rule of prudence hardened into a rule only because decided cases had a tendency to treat the victim of a rape (of any sexual or unnatural offence, for that matter) as an accomplice, which, in several case, the victim is not. And what this rule of prudence requires is that this should be present to the mind of the judge. If, in the circumstances of a particular case, the judge thinks that he can dispense with corroboration and the uncorroborated testimony of the victim can be safely believed, even this rule of prudence may be dispensed with. And merely for the reason that there is no corroboration for the evidence of the victim of an outrageous act, such evidence should not be rejected, if it appears from the circumstances that the victim is speaking the truth. Otherwise, many a crime of such nature can never be brought to justice. 
 
-80     The law in Singapore is re-stated by Yong Pung How CJ first in Tang Kin Seng v Public Prosecutor [1997] 1 SLR 46. After reviewing a large body of learning and decided cases, Yong Pung How CJ commented at page 58: 
+80     The law in Singapore is re-stated by Yong Pung How CJ first in Tang Kin Seng v Public Prosecutor <span class="citation">[1997] 1 SLR 46</span>. After reviewing a large body of learning and decided cases, Yong Pung How CJ commented at page 58: 
 
  ... In Singapore, there is no jury trial. There is no legal requirement that a judge must warn himself expressly of the danger of convicting on the uncorroborated evidence of a complainant in a case involving sexual offences. There is, however, authority to the effect that it is dangerous to convict on the words of the complainant alone unless her evidence is unusually compelling. There is therefore no reason for the courts here to be bogged down by legal technicalities as to whether or not there is corroboration and what is or is not, legally speaking, corroboration. 
 
@@ -418,14 +418,14 @@ that it was submitted by the prosecution that the evidence of the victim taken t
 
  There is nothing technical in the idea of corroboration. When in the ordinary affairs of life one is doubtful whether or not to believe a particular statement one naturally looks to see whether it fits in with other statements or circumstances relating to the particular matter; the better it fits in, the more one is inclined to believe it. The doubted statement is corroborated to a greater or lesser extent by the other statements or circumstances with which it fits in. 
 
-82     Later in Kwan Peng Hong v Public Prosecutor [2000] 4 SLR 96 at 104, Yong Pung How CJ defined the phrase ‘usually compelling’. He said: 
+82     Later in Kwan Peng Hong v Public Prosecutor <span class="citation">[2000] 4 SLR 96</span> at 104, Yong Pung How CJ defined the phrase ‘usually compelling’. He said: 
 
-... I made clear in Tang Kin Seng that in Singapore there is no legal requirement for a judge to warn himself expressly of the danger of convicting on the uncorroborated evidence of a complainant in a case involving a sexual offence. But I also took great care to make clear that it is dangerous to convict on the words of the complainant alone unless her evidence is unusually compelling or convincing (Tang Kin Seng v PP [1997] 1 SLR 46 at 58, Teo Keng Pong v PP [1996] 3 SLR 329 at 340 and Soh Yang Tick v PP [1998] 2 SLR 42 at 50). In short, the court is to be extremely cautious in 
+... I made clear in Tang Kin Seng that in Singapore there is no legal requirement for a judge to warn himself expressly of the danger of convicting on the uncorroborated evidence of a complainant in a case involving a sexual offence. But I also took great care to make clear that it is dangerous to convict on the words of the complainant alone unless her evidence is unusually compelling or convincing (Tang Kin Seng v PP <span class="citation">[1997] 1 SLR 46</span> at 58, Teo Keng Pong v PP <span class="citation">[1996] 3 SLR 329</span> at 340 and Soh Yang Tick v PP <span class="citation">[1998] 2 SLR 42</span> at 50). In short, the court is to be extremely cautious in 
 
 
 relying on the sole evidence of the complainant for a conviction. The phrase ‘unusually compelling or convincing’ simply means that the complainant’s evidence was so convincing that the prosecution’s case was proven beyond reasonable doubt, solely on the basis of that evidence. 
 
-83     What about the evidence of a child witness? Can the court convict a person on the uncorroborated evidence of a child witness alone? This question was addressed by Yong Pung How CJ in Lee Kwang Peng v Public Prosecutor [1997] 3 SLR 278 and he said at pages 295 and 296: 
+83     What about the evidence of a child witness? Can the court convict a person on the uncorroborated evidence of a child witness alone? This question was addressed by Yong Pung How CJ in Lee Kwang Peng v Public Prosecutor <span class="citation">[1997] 3 SLR 278</span> and he said at pages 295 and 296: 
 
  Corroboration 
 
@@ -494,7 +494,7 @@ regard, I accepted her evidence that she never had sex with anyone before and th
 
 102    Before concluding, I must briefly deal with the first information report made by the victim on 16 March 2002. 
 
-103    In my view, despite the feature that the police report made by her on 16 March 2002 happened to mention only one offence of rape, the said feature did not lend itself to the inference that the other incidents did not take place. In Tan Pin Seng v Public Prosecutor [1998] 1 SLR 418 (G-I) at page 428, Yong Pung How CJ made the following comments in relation to the first information report: 
+103    In my view, despite the feature that the police report made by her on 16 March 2002 happened to mention only one offence of rape, the said feature did not lend itself to the inference that the other incidents did not take place. In Tan Pin Seng v Public Prosecutor <span class="citation">[1998] 1 SLR 418</span> (G-I) at page 428, Yong Pung How CJ made the following comments in relation to the first information report: 
 
  It is a misconception to regard the first information report or police report as a document which should 
 

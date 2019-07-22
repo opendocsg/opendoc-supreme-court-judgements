@@ -30,7 +30,7 @@ _Revenue Law_ – _Property tax_ – _Valuation list_ – _Common property of sh
 
 **Background** 
 
-1       This is an appeal by the Management Corporation Strata Title Plan Nos 1298 and 1304 (“the MCST” or “the appellant”) against the decision of Woo Bih Li J, upholding the inclusion, in the Valuation List and the assessment of property tax, of seven areas in the common property (“the Spaces”) of Centrepoint Shopping Centre (“the shopping complex”). As the MCST had licensed various parties to use the Spaces, the Chief Assessor had included the Spaces in the Valuation List and the Comptroller of Property Tax (“the Comptroller”) had issued notices of assessment in respect of each of them. Details of the numbers and usage are as stated in the judgment below ([2006] 1 SLR 465) at [1] and are as follows: 
+1       This is an appeal by the Management Corporation Strata Title Plan Nos 1298 and 1304 (“the MCST” or “the appellant”) against the decision of Woo Bih Li J, upholding the inclusion, in the Valuation List and the assessment of property tax, of seven areas in the common property (“the Spaces”) of Centrepoint Shopping Centre (“the shopping complex”). As the MCST had licensed various parties to use the Spaces, the Chief Assessor had included the Spaces in the Valuation List and the Comptroller of Property Tax (“the Comptroller”) had issued notices of assessment in respect of each of them. Details of the numbers and usage are as stated in the judgment below (<span class="citation">[2006] 1 SLR 465</span>) at [1] and are as follows: 
 
  Details of the numbers and usage are stated below: 
 

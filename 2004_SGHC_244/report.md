@@ -22,7 +22,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Forms of punishment_ �
 
 **MPH Rubin J:** 
 
-1       On 24 September 2004, I convicted Sundarti Supriyanto, the accused in this case, on a reduced charge of culpable homicide not amounting to murder, punishable under s 304(a) of the Penal Code (Cap 224, 1985 Rev Ed) (“PC”) ([2004] SGHC 212). After hearing submissions from the Prosecution and the Defence, I sentenced the accused to life imprisonment. I now give my reasons. 
+1       On 24 September 2004, I convicted Sundarti Supriyanto, the accused in this case, on a reduced charge of culpable homicide not amounting to murder, punishable under s 304(a) of the Penal Code (Cap 224, 1985 Rev Ed) (“PC”) (<span class="citation">[2004] SGHC 212</span>). After hearing submissions from the Prosecution and the Defence, I sentenced the accused to life imprisonment. I now give my reasons. 
 
 2       After the court had found the accused guilty and convicted her, the Prosecution applied for five charges (one amended since), which were stood down at the beginning of the trial, to be taken into consideration in sentencing the accused, if she consented as much. The charges averred that the accused committed the offences of: 
 
@@ -51,11 +51,11 @@ I informed the accused that her agreement to take the charges into consideration
 
 **The Prosecution’s submission on sentence** 
 
-5       The Prosecution submitted that the prescribed punishment under s 304(a) PC is imprisonment for life, or imprisonment for a term which may extend to ten years, and the offender shall also be liable to be fined or caned. In respect of case precedents, the Prosecution submitted that there is no fixed benchmark sentence for cases of culpable homicide not amounting to murder under s 304(a) PC. In this respect, the Prosecution relied on the case of _PP v Tan Kei Loon Allan_ [1999] 2 SLR 288, where it was observed at [33]: 
+5       The Prosecution submitted that the prescribed punishment under s 304(a) PC is imprisonment for life, or imprisonment for a term which may extend to ten years, and the offender shall also be liable to be fined or caned. In respect of case precedents, the Prosecution submitted that there is no fixed benchmark sentence for cases of culpable homicide not amounting to murder under s 304(a) PC. In this respect, the Prosecution relied on the case of _PP v Tan Kei Loon Allan_ <span class="citation">[1999] 2 SLR 288</span>, where it was observed at [33]: 
 
  We were of the view that it is not desirable, unlike simple rape, to set a benchmark for culpable homicide. The range of circumstances in which such offences are committed is extremely varied ... 
 
-6       The Prosecution further submitted that in _PP v Kwan Cin Cheng_ [1998] 2 SLR 345, the appellant had succeeded in his defence of grave and sudden provocation and was convicted on a charge under s 304(a) PC. At trial, he was sentenced to ten years’ imprisonment, but on appeal, the sentence was enhanced to life imprisonment. The Prosecution also relied on a slew of cases where the courts have meted out sentences of life imprisonment in cases of culpable homicide under s 304(a) PC, including _PP v Ng Kwok Soon_ [2002] 3 SLR 199, _PP v Muhamad Hasik bin Sahar_ [2002] 3 SLR 149 and _PP v Saminathan s/o Subramaniam_ [2002] SGHC 259. The Prosecution then urged the court to consider the nature of the accused’s attack on the deceased, and submitted that 
+6       The Prosecution further submitted that in _PP v Kwan Cin Cheng_ <span class="citation">[1998] 2 SLR 345</span>, the appellant had succeeded in his defence of grave and sudden provocation and was convicted on a charge under s 304(a) PC. At trial, he was sentenced to ten years’ imprisonment, but on appeal, the sentence was enhanced to life imprisonment. The Prosecution also relied on a slew of cases where the courts have meted out sentences of life imprisonment in cases of culpable homicide under s 304(a) PC, including _PP v Ng Kwok Soon_ <span class="citation">[2002] 3 SLR 199</span>, _PP v Muhamad Hasik bin Sahar_ <span class="citation">[2002] 3 SLR 149</span> and _PP v Saminathan s/o Subramaniam_ <span class="citation">[2002] SGHC 259</span>. The Prosecution then urged the court to consider the nature of the accused’s attack on the deceased, and submitted that 
 
 
 the sentence of life imprisonment was warranted in this case. 

@@ -20,7 +20,7 @@ _Contract_ – _Contractual terms_ – _Rules of construction_ – _Indemnity cl
 
 Chan Sek Keong CJ: 
 
-1       This is an appeal by CST Cleaning & Trading Pte Ltd (“the Contractor”) against the judgment of the district judge (“the District Judge”) in District Court Suit No 1111 of 2005 (“the DC Suit”) in which he ordered the Contractor to pay to the National Parks Board (“the Board”) the sum of $114,270. with interest and costs pursuant to the terms of an indemnity given by the Contractor to the Board (see _National Parks Board v CST Cleaning & Trading Pte Ltd_ [2008] SGDC 7). 
+1       This is an appeal by CST Cleaning & Trading Pte Ltd (“the Contractor”) against the judgment of the district judge (“the District Judge”) in District Court Suit No 1111 of 2005 (“the DC Suit”) in which he ordered the Contractor to pay to the National Parks Board (“the Board”) the sum of $114,270. with interest and costs pursuant to the terms of an indemnity given by the Contractor to the Board (see _National Parks Board v CST Cleaning & Trading Pte Ltd_ <span class="citation">[2008] SGDC 7</span>). 
 
 **The background facts** 
 
@@ -33,7 +33,7 @@ Chan Sek Keong CJ:
 
 5       Liew’s claim against the Contractor in vicarious liability for the Subcontractor’s acts was dismissed on the ground that the Subcontractor was an independent contractor of the Contractor. 
 
-6       Pursuant to the judgment in the MC Suit, the Board paid Liew the entire amount of damages awarded to Liew amounting to $98,161.39 for which the Board was wholly liable by virtue of it having been found jointly liable with the Subcontractor (see _Oli Mohamed v Murphy_ [1969-1971] SLR 270 at 272, [10] and _Wong Jin Fah v L & M Prestressing Pte Ltd_ [2001] 4 SLR 529). The Board also paid the Contractor the sum of $16,109.13, being 50% of the taxed costs and court fees pursuant to the judgment in the MC Suit. The total loss thus suffered by the Board amounted to $114,270.52. 
+6       Pursuant to the judgment in the MC Suit, the Board paid Liew the entire amount of damages awarded to Liew amounting to $98,161.39 for which the Board was wholly liable by virtue of it having been found jointly liable with the Subcontractor (see _Oli Mohamed v Murphy_ [1969-1971] SLR 270 at 272, [10] and _Wong Jin Fah v L & M Prestressing Pte Ltd_ <span class="citation">[2001] 4 SLR 529</span>). The Board also paid the Contractor the sum of $16,109.13, being 50% of the taxed costs and court fees pursuant to the judgment in the MC Suit. The total loss thus suffered by the Board amounted to $114,270.52. 
 
 **The DC Suit** 
 
@@ -109,11 +109,11 @@ The provisions of the 1935 Act have been substantially re-enacted in ss 15 to 17
 
  contractual provisions should prima facie be construed against the party who was responsible for the preparation of the contract and/or who is to benefit from the provision. ... The relevant principle is simply one which involves construing exemption and indemnity provisions as applying to a party’s own negligence, only if that intent is made clear in the contract; this principle is equally capable of application whether the clause is mutual or unilateral. 
 
-23     This principle as applied to the construction of indemnity clauses (which I shall refer to as “the ‘inherently improbable’ principle of construction”) was accepted by our Court of Appeal in _Marina Centre Holdings Pte Ltd v Pars Carpet Gallery Pte Ltd_ [1997] 3 SLR 625, a case concerning an exemption clause. L P Thean JA said at [37]: 
+23     This principle as applied to the construction of indemnity clauses (which I shall refer to as “the ‘inherently improbable’ principle of construction”) was accepted by our Court of Appeal in _Marina Centre Holdings Pte Ltd v Pars Carpet Gallery Pte Ltd_ <span class="citation">[1997] 3 SLR 625</span>, a case concerning an exemption clause. L P Thean JA said at [37]: 
 
  The underlying reason for this approach [the “inherently improbable” principle of construction] is that the court starts with a presumption that parties to a contract do not normally agree to accept the consequences of each other’s negligence, ie by way of an exemption clause, much less to shoulder responsibility for them, ie by way of an indemnity clause , and will not be taken to have intended to do anything so improbable, unless the contract does not admit of any other reasonable construction. ... [emphasis added] 
 
-T h e _contra proferentem_ rule of interpretation is also an established rule of interpretation of exemption clauses under our law (see _Tay Eng Chuan v Ace Insurance Ltd_ [2008] SGCA 26) and applies equally to the interpretation of indemnity clauses. 
+T h e _contra proferentem_ rule of interpretation is also an established rule of interpretation of exemption clauses under our law (see _Tay Eng Chuan v Ace Insurance Ltd_ <span class="citation">[2008] SGCA 26</span>) and applies equally to the interpretation of indemnity clauses. 
 
 **This court’s approach** 
 

@@ -22,7 +22,7 @@ _Courts and jurisdiction_ – _jurisdiction_ – _judicial review_
 
 _Constitutional interpretation_ – _constitutional provisions_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 97 of 2012 was dismissed by the Court of Appeal on 5 July 2013. See [2013] SGCA 39.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 97 of 2012 was dismissed by the Court of Appeal on 5 July 2013. See <span class="citation">[2013] SGCA 39</span>.] 
 
 1 August 2012 Judgment reserved. 
 
@@ -74,7 +74,7 @@ p 587.
 
  A Mandatory Order enjoining the Prime Minister to advise the President to issue a Writ of Election mandating by-elections in Hougang SMC pursuant to Article 49(1) of the Constitution of the Republic of Singapore (1985 Rev Ed, 1999 Reprint) and section 24(1) of the Parliamentary Elections Act (Cap 218, 2011 Rev Ed) and to tender such advice within three months or within such reasonable time as the Honourable Court deems fit. 
 
-9       After hearing both counsel in chambers on the issue of whether leave to proceed should be granted, I reserved my decision. On 3 April 2012, I granted leave for the applicant to proceed to the second stage. The grounds of the decision to grant leave are set out in _Vellama d/o Marie Muthu v Attorney-General_ [2012] 2 SLR 1033 (“the Leave Judgment”). The Attorney-General’s counsel (“AG’s counsel”) appealed against the grant of leave but subsequently withdrew the appeal on 16 May 2012. The applicant then filed Summons No 2639 of 2012 on 29 May 2012 to seek the same reliefs. 
+9       After hearing both counsel in chambers on the issue of whether leave to proceed should be granted, I reserved my decision. On 3 April 2012, I granted leave for the applicant to proceed to the second stage. The grounds of the decision to grant leave are set out in _Vellama d/o Marie Muthu v Attorney-General_ <span class="citation">[2012] 2 SLR 1033</span> (“the Leave Judgment”). The Attorney-General’s counsel (“AG’s counsel”) appealed against the grant of leave but subsequently withdrew the appeal on 16 May 2012. The applicant then filed Summons No 2639 of 2012 on 29 May 2012 to seek the same reliefs. 
 
 10     After leave was granted on 3 April 2012 for the applicant to proceed, the following events occurred (“ subsequent events”): 
 
@@ -220,7 +220,7 @@ _Nature of declaratory relief_
 
  The Court will not generally decide academical or hypothetical questions ( Tindall v. Wright , [1922] W.N. 124; Re Barnato , [1949] Ch. 258 C.A.). Nor can a person against whom no claim has been made obtain a declaration that no such claim exists ( Re Clay , [1919] 1 Ch. 66, C.A.). But a declaration will be granted even though such relief has been rendered virtually unnecessary by the lapse of time for the action to come on for trial, if at the time when the action was brought, it raised substantial issues, for in such case the question is not purely academic ( Gibson v. Union of Shop, Distributive and Allied Workers [1968] 1 W.L.R. 1187; [1968] 2 All E.R. 252). 
 
-27     In Singapore, the requirements that must be satisfied before the court will grant a declaration were set out by the Court of Appeal in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd and anor appeal_ [2006] 1 SLR(R) 112 (“ _Karaha Bodas_ ”) at [14]: 
+27     In Singapore, the requirements that must be satisfied before the court will grant a declaration were set out by the Court of Appeal in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd and anor appeal_ <span class="citation">[2006] 1 SLR(R) 112</span> (“ _Karaha Bodas_ ”) at [14]: 
 
  [T]he following are the requirements that must be satisfied before the court grants such relief: 
 
@@ -263,11 +263,11 @@ _Background to Order 53 of the Rules of Court in Singapore_
 
  [emphasis added in bold italics] 
 
-29     The position in Singapore remains similar to the pre-1977 English Rules of Supreme Court. The Singapore Rules of Court prior to 1 May 2011 did not allow an applicant to seek declaratory relief in proceedings commenced under Order 53. In _Yong Vui Kong v Attorney-General_ [2011] 2 SLR 1189 (“ _Yong Vui Kong_ ”), the applicant applied for Prohibiting Orders as well as for declarations under Order 53. In the Court of Appeal judgment delivered on 4 April 2011, Chan Sek Keong CJ held at [25]: 
+29     The position in Singapore remains similar to the pre-1977 English Rules of Supreme Court. The Singapore Rules of Court prior to 1 May 2011 did not allow an applicant to seek declaratory relief in proceedings commenced under Order 53. In _Yong Vui Kong v Attorney-General_ <span class="citation">[2011] 2 SLR 1189</span> (“ _Yong Vui Kong_ ”), the applicant applied for Prohibiting Orders as well as for declarations under Order 53. In the Court of Appeal judgment delivered on 4 April 2011, Chan Sek Keong CJ held at [25]: 
 
  The Declaratory Relief Issue 
 
- 25 I shall begin my analysis with the Discretionary Relief Issue since it can be given short shrift in view of existing case law on the type of relief available in proceedings brought under O 53 of the Rules of Court (see, eg, Chan Hiang Leng Colin v Minister for Information and the Arts [1996] 1 SLR(R) 294 at [5]-[6] and Re Application by Dow Jones (Asia) Inc [1987] SLR(R) 627 at [14]). The case authorities show clearly that declaratory relief is not a remedy provided for under O 53 of the Rules of Court, and, thus, the court has no power to grant such relief in proceedings commenced under this Order. Mr Ravi has not convinced us that his argument to the contrary is correct. 
+ 25 I shall begin my analysis with the Discretionary Relief Issue since it can be given short shrift in view of existing case law on the type of relief available in proceedings brought under O 53 of the Rules of Court (see, eg, Chan Hiang Leng Colin v Minister for Information and the Arts <span class="citation">[1996] 1 SLR(R) 294</span> at [5]-[6] and Re Application by Dow Jones (Asia) Inc [1987] SLR(R) 627 at [14]). The case authorities show clearly that declaratory relief is not a remedy provided for under O 53 of the Rules of Court, and, thus, the court has no power to grant such relief in proceedings commenced under this Order. Mr Ravi has not convinced us that his argument to the contrary is correct. 
 
 
  (a) 
@@ -346,7 +346,7 @@ _Postscript on the Procedural Issue_
 
 39     The procedural rules to give effect to section 3(h) of the Civil Law Act exist under Order 28 rule 8 of the Rules of Court. This would preserve the applicant’s originally reserved right to apply for declarations under Order 15 rule 16 without the procedural constraints of Order 53. 
 
-40     In the light of the above uncertainties brought to light in this application, there is a case for further law reform of Order 53 to streamline and consolidate the judicial review remedies (including declarations in addition to and in lieu of prerogative orders) and the separate mechanism for public law declarations: see generally observations of Woo Bih Li J in _Yip Kok Seng v Traditional Chinese Medicine Practitioners Board_ [2010] 4 SLR 990 at [16]; the Law Commission Report on Remedies in Administrative Law (Law Com No 73 of 1976); and the amendments to the equivalent of Order 53 of the English Rules of Supreme Court since 1977 (see [28] above). 
+40     In the light of the above uncertainties brought to light in this application, there is a case for further law reform of Order 53 to streamline and consolidate the judicial review remedies (including declarations in addition to and in lieu of prerogative orders) and the separate mechanism for public law declarations: see generally observations of Woo Bih Li J in _Yip Kok Seng v Traditional Chinese Medicine Practitioners Board_ <span class="citation">[2010] 4 SLR 990</span> at [16]; the Law Commission Report on Remedies in Administrative Law (Law Com No 73 of 1976); and the amendments to the equivalent of Order 53 of the English Rules of Supreme Court since 1977 (see [28] above). 
 
 41     Having disposed of the Procedural Issue, I shall now turn to examine the Substantive Issue. 
 

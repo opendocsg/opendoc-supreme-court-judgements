@@ -6,7 +6,7 @@
 
 **Case Number** :OS No 1258 of 2000 **Decision Date** :22 June 2001 **Tribunal/Court** :High Court **Coram** :S Rajendran J **Counsel Name(s)** :— **Parties** :— 
 
-[LawNet Admin Note: The citation for this case has been reassigned to [2001] SGHC 149 on 18 June 2010.] Copyright © Government of Singapore. 
+[LawNet Admin Note: The citation for this case has been reassigned to <span class="citation">[2001] SGHC 149</span> on 18 June 2010.] Copyright © Government of Singapore. 
 
 
 Source: [link](https://www.singaporelawwatch.sg/Portals/0/Docs/Judgments/[2001] SGHC 148.pdf)

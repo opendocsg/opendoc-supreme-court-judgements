@@ -208,7 +208,7 @@ The 1995 Regulations were revoked in 2008 and were replaced by the Workplace Saf
 
 41     The provisions in the 1995 Regulations set out in [38] certainly do not apply to this case as the evidence before this court was that the premises were not a shipyard of Keppel but those of the second defendant. Further, there was no evidence that the plaintiff was working on a ship at the material time. 
 
-42     The second defendant’s defence in [11] that s 60(1)(a) of the Workplace Act precludes the plaintiff from suing is a misreading of the provision. What the subsection means is, a contravention of the Act does not automatically confer a right of action on a workman _per se_. A breach of the statutory provision must be the cause of his injury before a plaintiff can rely on the breach to found his cause of action (see _Mohd bin Sapri v Soil-Build (Pte) Ltd and another appeal_ [1996] 2 SLR 505). Hence, s 60 of the Workplace Act goes on to say:
+42     The second defendant’s defence in [11] that s 60(1)(a) of the Workplace Act precludes the plaintiff from suing is a misreading of the provision. What the subsection means is, a contravention of the Act does not automatically confer a right of action on a workman _per se_. A breach of the statutory provision must be the cause of his injury before a plaintiff can rely on the breach to found his cause of action (see _Mohd bin Sapri v Soil-Build (Pte) Ltd and another appeal_ <span class="citation">[1996] 2 SLR 505</span>). Hence, s 60 of the Workplace Act goes on to say:
 
  (2) Subsection (1) shall not affect the extent (if any) to which a breach of duty imposed under any written law is actionable. 
 
@@ -216,7 +216,7 @@ The 1995 Regulations were revoked in 2008 and were replaced by the Workplace Saf
 
 **_The law_** 
 
-44     In Singapore the common law on occupier’s liability applies and the duty of care owed by an occupier (the second defendant) to the invitee (the plaintiff) is set out in _Industrial Commercial Bank v Tan Swa Eng and another appeal_ [1995] 2 SLR 716 which in turn is derived from the English position spelt out by Willes J in _Indermaur v Dames_ (1866) LR 1 CP 274 and which is as follows: 
+44     In Singapore the common law on occupier’s liability applies and the duty of care owed by an occupier (the second defendant) to the invitee (the plaintiff) is set out in _Industrial Commercial Bank v Tan Swa Eng and another appeal_ <span class="citation">[1995] 2 SLR 716</span> which in turn is derived from the English position spelt out by Willes J in _Indermaur v Dames_ (1866) LR 1 CP 274 and which is as follows: 
 
  And with respect to such a visitor [invitee] at least, we consider it is settled law, that he, using reasonable care on his part for his own safety, is entitled to expect that the occupier shall on his part use reasonable care to prevent damage from unusual danger which he knows or ought to know; and that, where there is evidence of neglect, the question whether such reasonable care has been taken, by notice, lighting, guarding or otherwise, and whether there was contributory negligence in the sufferer, must be determined by a jury as a matter of fact. 
 
@@ -225,7 +225,7 @@ English cases after 1 January 1958 are no longer applicable due to the enactment
 45     At common law, the duty to an invitee is confined to the physical condition of the premises while the duty to take reasonable care to prevent damage from unusual danger applies not only to 
 
 
-the structural condition of the premises but also “to the use which the occupier (or whoever has control so far as material) of the premises permits a third party to make of the premises” (per L Wright in _Glasgow Corp v Muir_ [1943] AC 448 at 462). It was held by the Court of Appeal at [20] in _Awang bin Dollah v Shun Shing Construction & Engineering Co Ltd_ [1997] 3 SLR 677 that a main contractor owed a duty of care to a workman as if he was the workman’s “employer”, notwithstanding that the workman was not employed by him but by a subcontractor if he (the main contractor) exercised or had the right of control over the workman in respect of the work which the workman was engaged to perform. 
+the structural condition of the premises but also “to the use which the occupier (or whoever has control so far as material) of the premises permits a third party to make of the premises” (per L Wright in _Glasgow Corp v Muir_ [1943] AC 448 at 462). It was held by the Court of Appeal at [20] in _Awang bin Dollah v Shun Shing Construction & Engineering Co Ltd_ <span class="citation">[1997] 3 SLR 677</span> that a main contractor owed a duty of care to a workman as if he was the workman’s “employer”, notwithstanding that the workman was not employed by him but by a subcontractor if he (the main contractor) exercised or had the right of control over the workman in respect of the work which the workman was engaged to perform. 
 
 **The findings** 
 

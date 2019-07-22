@@ -16,7 +16,7 @@
 
 _Deeds and Other Instruments_ – _Deed_ – _Avoidance_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 7 of 2016 was allowed by the Court of Appeal on 29 November 2016. See [2016] SGCA 66.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 7 of 2016 was allowed by the Court of Appeal on 29 November 2016. See <span class="citation">[2016] SGCA 66</span>.] 
 
 24 December 2015 Judgment reserved. 
 
@@ -202,9 +202,9 @@ testimony as a result.
 
 55     It is indisputable that both Rajan and Mr Cheo signed D1 and D2. Mr Cheo’s signature could logically only have been procured by Rajan. Though the Defendant did not make the submission, her case must be that Rajan procured Mr Cheo to “blind sign” D1 and D2 as regards the Signatures at the request of Rajan when he attended Mr Cheo’s office. I had said earlier that it was difficult to accept why Mr Cheo would have acceded to the request (see [48] – [49] above). But if he did, and that must be the Defendant’s case, Rajan’s evidence would have been absolutely critical to establish that Mr Cheo signed D1 and D2 without witnessing the Defendant append her signatures to the documents. It is therefore inexplicable that the Defendant did not call Rajan to testify to this effect. The rather convoluted effort to establish through Mr Yap a fact on which there was direct and relevant evidence readily available raises the question of the inference that I should draw from Rajan’s absence as a witness. I will address this issue later in this judgment (see [67] – [76] below). 
 
-56     The bar to proving forgery is high (see the judgment of the Court of Appeal in _Yogambikai Nagarajah v Indian Overseas Bank and another appeal_ [1997] 2 SLR(R) 774 (“ _Yogambikai_ ”) (see also _Bayerische Landesbank Girozentrale v Khaw Hock Seang_ [2003] SGHC 42 at [14] applying _Yogambikai_ ). 
+56     The bar to proving forgery is high (see the judgment of the Court of Appeal in _Yogambikai Nagarajah v Indian Overseas Bank and another appeal_ <span class="citation">[1997] 2 SLR(R) 774</span> (“ _Yogambikai_ ”) (see also _Bayerische Landesbank Girozentrale v Khaw Hock Seang_ <span class="citation">[2003] SGHC 42</span> at [14] applying _Yogambikai_ ). 
 
-57     The Court of Appeal in _R Mahendran and another v R Arumuganathan_ [1999] 2 SLR(R) 166 
+57     The Court of Appeal in _R Mahendran and another v R Arumuganathan_ <span class="citation">[1999] 2 SLR(R) 166</span> 
 
 
 stated the approach to be adopted in assessing the opinions of handwriting experts (at [16]): 
@@ -226,7 +226,7 @@ stated the approach to be adopted in assessing the opinions of handwriting exper
 62     I am not convinced that Mr Yap’s view fell within the realm of expert testimony. While Mr Yap might be an expert on handwriting analysis, there is nothing in his qualifications or experience which suggests that his competence as an expert extended to the area of neuromuscular programming or psychology, which are fields of learning he purports to draw from in offering the opinion that it was very unlikely the Defendant could have markedly departed from the Specimen Signatures even if she was attempting to fake her signature. In this regard, I must caution that the qualifications of an expert witness have to be taken into account in ascertaining whether he is competent to testify on 
 
 
-each precise area of inquiry he purports to give expert evidence on. This point has been noted by the Court of Appeal in _Pacific Recreation Pte Ltd v S Y Technology Inc and another appeal_ [2008] 2 SLR(R) 491 at [67] in the following manner: 
+each precise area of inquiry he purports to give expert evidence on. This point has been noted by the Court of Appeal in _Pacific Recreation Pte Ltd v S Y Technology Inc and another appeal_ <span class="citation">[2008] 2 SLR(R) 491</span> at [67] in the following manner: 
 
  ... In addition, the expert’s report should state the precise manner, and not merely the general area of inquiry, in which the witness would be of use to the court. As stated in Said Ajami v Comptroller of Customs [1954] 1 WLR 1405 at 1408: 
 
@@ -259,7 +259,7 @@ doubt.
 
 72     The Plaintiff invited me to draw an adverse inference against the Defendant under illustration ( _g_ ) of s 116 of the Evidence Act (Cap 97, 1997 Rev Ed) (“s 116(g)”) for her failure to call Rajan as a witness. 
 
-73     In _Cheong Ghim Fah and another v Murugian s/o Rangasamy_ [2004] 1 SLR(R) 628 (“ _Cheong Ghim Fah_ ”) at [42] – [43], the court outlined the circumstances when an adverse inference might be drawn under s 116(g). _Cheong Ghim Fah_ was approved by the Court of Appeal in _Thio Keng Poon v Thio Syn Pyn and others and another appeal_ [2010] 3 SLR 143 at [44]. For an adverse inference to be drawn, the court must be first satisfied of the availability and materiality of the evidence in question (see _Cheong Ghim Fah_ at [39]). That is a bridge which has been crossed here as regards Rajan. The court in _Cheong Ghim Fah_ (at [43]) then approved the principles set out in the English decision of _Wisniewski v Central Manchester Health Authority_ [1998] 5 PIQR P324. It would be helpful to set out those principles: 
+73     In _Cheong Ghim Fah and another v Murugian s/o Rangasamy_ <span class="citation">[2004] 1 SLR(R) 628</span> (“ _Cheong Ghim Fah_ ”) at [42] – [43], the court outlined the circumstances when an adverse inference might be drawn under s 116(g). _Cheong Ghim Fah_ was approved by the Court of Appeal in _Thio Keng Poon v Thio Syn Pyn and others and another appeal_ <span class="citation">[2010] 3 SLR 143</span> at [44]. For an adverse inference to be drawn, the court must be first satisfied of the availability and materiality of the evidence in question (see _Cheong Ghim Fah_ at [39]). That is a bridge which has been crossed here as regards Rajan. The court in _Cheong Ghim Fah_ (at [43]) then approved the principles set out in the English decision of _Wisniewski v Central Manchester Health Authority_ [1998] 5 PIQR P324. It would be helpful to set out those principles: 
 
  (a) In certain circumstances a court may be entitled to draw adverse inferences from the absence or silence of a witness who might be expected to have material evidence to give on an issue in an action. 
 

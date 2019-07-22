@@ -157,7 +157,7 @@ smaller packets and had delivered diamorphine to various people and collected mo
 
 11     The Defence **_did not_** object to the admission of the Collateral Evidence, which it initially sought to rely on for the purposes of showing that the accused was a mere courier under s 33B(2)( _a_ ) of the 
 
-Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”) (“mere courier”) (see [20] below). [note: 50] Nevertheless, given the “thorny difficulties” that could arise out of the Collateral Evidence (see _Rosman bin Abdullah v Public Prosecutor_ [2017] 1 SLR 10 (“ _Rosman_ ”) at [32]), the Prosecution and the Defence were invited to evaluate the relevant and potential issues. Both parties then made a considered decision to confine their submissions only to evidence relating to the 83 Packets (from the 
+Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”) (“mere courier”) (see [20] below). [note: 50] Nevertheless, given the “thorny difficulties” that could arise out of the Collateral Evidence (see _Rosman bin Abdullah v Public Prosecutor_ <span class="citation">[2017] 1 SLR 10</span> (“ _Rosman_ ”) at [32]), the Prosecution and the Defence were invited to evaluate the relevant and potential issues. Both parties then made a considered decision to confine their submissions only to evidence relating to the 83 Packets (from the 
 
 Third Batch). [note: 51] Given that all parties had decided not to rely on the Collateral Evidence, I directed my mind solely to the evidence in relation to the 83 Packets and disregarded the Collateral Evidence and its “possible effect(s)”: see _Rosman_ at [33]. So much for the evidence and the parties’ position relating to the issue of whether the accused was a mere courier. As for the evidence to be utilised for the purpose of the conviction, it was common ground that the evidence was to be restricted to the evidence relating to the 83 Packets. 
 
@@ -176,7 +176,7 @@ Third Batch). [note: 51] Given that all parties had decided not to rely on the C
 
  (I) 
 
-**_purpose of trafficking_** which was not authorised: [note: 52] see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ [2014] 3 SLR 721 at [59]. 
+**_purpose of trafficking_** which was not authorised: [note: 52] see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ <span class="citation">[2014] 3 SLR 721</span> at [59]. 
 
 13     First, the element of possession was established beyond contest. The 83 Packets were recovered from the Sin Ming Unit which the accused had rented, and the accused admitted that he 
 
@@ -190,7 +190,7 @@ repacked into the 83 Packets was heroin [note: 55] because the people who passed
 
 him so. [note: 56] Although the accused was unaware that heroin was a street name for diamorphine, [note: 57] I agreed with the Prosecution that this was not an obstacle to a finding of knowledge on the 
 
-accused’s part: [note: 58] see _Nagaenthran a/l K Dharmalingam v Public Prosecutor_ [2011] 4 SLR 1156 at [23]–[24]. 
+accused’s part: [note: 58] see _Nagaenthran a/l K Dharmalingam v Public Prosecutor_ <span class="citation">[2011] 4 SLR 1156</span> at [23]–[24]. 
 
 15     Third, the accused had undoubtedly possessed the 83 Packets for the purpose of trafficking without authorisation. The lack of authorisation was not (and could not be) challenged by the 
 
@@ -268,15 +268,15 @@ the MDA (“Courier Exception”). [note: 68] In other words, the principal find
  ( b ) the Public Prosecutor certifies to any court that, in his determination, the person has substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities within or outside Singapore. 
 
 
-22     In short, there were two requirements that had to be satisfied before the accused could avoid the death sentence. First, the accused had to show on a balance of probabilities that he fell within the Courier Exception because his involvement was restricted to the acts set out under s 33B(2)( _a_ ). Second, the Public Prosecutor must certify under s 33B(2)( _b_ ) that he had substantively assisted the CNB in disrupting drug trafficking activities (“Certificate of Substantive Assistance”). Both requirements must be satisfied, and the issue of whether an offender was a mere courier under s 33B(2)( _a_ ) was distinct from whether he had rendered substantive assistance to the CNB: see _Public Prosecutor v Christeen d/o Jayamany and another_ [2015] SGHC 126 (“ _Christeen_ ”) at [46]. 
+22     In short, there were two requirements that had to be satisfied before the accused could avoid the death sentence. First, the accused had to show on a balance of probabilities that he fell within the Courier Exception because his involvement was restricted to the acts set out under s 33B(2)( _a_ ). Second, the Public Prosecutor must certify under s 33B(2)( _b_ ) that he had substantively assisted the CNB in disrupting drug trafficking activities (“Certificate of Substantive Assistance”). Both requirements must be satisfied, and the issue of whether an offender was a mere courier under s 33B(2)( _a_ ) was distinct from whether he had rendered substantive assistance to the CNB: see _Public Prosecutor v Christeen d/o Jayamany and another_ <span class="citation">[2015] SGHC 126</span> (“ _Christeen_ ”) at [46]. 
 
-23     I begin by first setting out the law on the Courier Exception. In _Public Prosecutor v Chum Tat Suan and another_ [2015] 1 SLR 834 (“ _Chum Tat Suan_ ”) at [63]–[66], the Court of Appeal noted that Parliament intended for the Courier Exception to apply only in **_very narrow circumstances_** where the offender’s involvement was limited to “transporting, sending or delivering the drugs”. Hence, acts such as packing of drugs would bring the offender out of the Courier Exception. The Court of Appeal explained as follows at [68]: 
+23     I begin by first setting out the law on the Courier Exception. In _Public Prosecutor v Chum Tat Suan and another_ <span class="citation">[2015] 1 SLR 834</span> (“ _Chum Tat Suan_ ”) at [63]–[66], the Court of Appeal noted that Parliament intended for the Courier Exception to apply only in **_very narrow circumstances_** where the offender’s involvement was limited to “transporting, sending or delivering the drugs”. Hence, acts such as packing of drugs would bring the offender out of the Courier Exception. The Court of Appeal explained as follows at [68]: 
 
  ... packing is not a necessary element of moving an object from one point to another. Simply put, a courier is someone who receives the drugs and transmits them in exactly the same form in which they were received without any alteration or adulteration. 
 
  [emphasis added] 
 
-Ultimately, however, “whether an offender [was] a courier necessarily involve[d] a highly fact-specific inquiry”: see _Public Prosecutor v Ranjit Singh Gill Menjeet Singh and another_ [2017] 3 SLR 66 (“ _Ranjit Singh_ ”) at [58]. 
+Ultimately, however, “whether an offender [was] a courier necessarily involve[d] a highly fact-specific inquiry”: see _Public Prosecutor v Ranjit Singh Gill Menjeet Singh and another_ <span class="citation">[2017] 3 SLR 66</span> (“ _Ranjit Singh_ ”) at [58]. 
 
 24     In this regard, I was referred to _Christeen_ , which provided invaluable guidance at [68]–[73] on the key factors to consider when determining whether an offender was a mere courier. These nonexhaustive factors could be distilled as follows: 
 

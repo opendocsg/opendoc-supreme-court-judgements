@@ -86,7 +86,7 @@ The term `harbour` in s 57(1)(d) is in turn defined in s 2 of the Ac t as meanin
 
  to give food or shelter , and includes the act of assisting a person in any way to evade apprehension. [Emphasis mine.] 
 
-In **Lee Boon Leong Joseph v PP** [1997] 1 SLR 445 , I held that giving `shelter` means providing some form of habitation to the immigration offender. Before the presumption in s 57(7) c an the triggered therefore, the prosec ution has to show that the ac c used provided a plac e of habitation to the offenders with the intention or knowledge that they would inhabit that plac e and that they in fac t did so. I reiterated this view in the subsequent c ase of **Lim Dee Chew v PP** [1997] 3 SLR 956 , in whic h I held that harbouring required a positive ac t of providing shelter or food. I stated further, at p 
+In **Lee Boon Leong Joseph v PP** <span class="citation">[1997] 1 SLR 445</span> , I held that giving `shelter` means providing some form of habitation to the immigration offender. Before the presumption in s 57(7) c an the triggered therefore, the prosec ution has to show that the ac c used provided a plac e of habitation to the offenders with the intention or knowledge that they would inhabit that plac e and that they in fac t did so. I reiterated this view in the subsequent c ase of **Lim Dee Chew v PP** <span class="citation">[1997] 3 SLR 956</span> , in whic h I held that harbouring required a positive ac t of providing shelter or food. I stated further, at p 
 
 
 965    of that c ase, that: 

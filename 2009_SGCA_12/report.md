@@ -20,7 +20,7 @@ _Contract_ – _Breach_ – _Construction of contracts_ – _Whether clauses wer
 
 Andrew Phang Boon Leong JA (delivering the grounds of decision of the court): 
 
-1       This was an appeal against the decision of the High Court in Suit No 401 of 2007 (see _Lim Quee Choo v Tan Jin Sin_ [2008] SGHC 133 (“the GD”)). We allowed the appeal and now give the detailed grounds for our decision. 
+1       This was an appeal against the decision of the High Court in Suit No 401 of 2007 (see _Lim Quee Choo v Tan Jin Sin_ <span class="citation">[2008] SGHC 133</span> (“the GD”)). We allowed the appeal and now give the detailed grounds for our decision. 
 
 **The Agreement and the Undertaking** 
 
@@ -155,7 +155,7 @@ We pause to note, parenthetically, that the contiguous concept of _divisible_ ob
 
 **_Was clause 1 of the Agreement independent of (or related to) clauses 2 and 3 of the same?_** 
 
-20     After carefully considering the Agreement as set in its _context_ (and see the decision of this court in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR 1029) as well as having regard to the principles set out above (at [17]), we arrived at the conclusion that cl 1 of the Agreement must be read together with (and _not_ independent of) cll 2 and 3 of the same as this was, in both substance as well as form, the bargain entered into between the parties. In the circumstances, it was imperative to give effect to the legitimate expectations of the parties which arose from such a bargain (in this regard see the decision of this court in _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ [2000] 3 SLR 405 at [40] as well as Lord Steyn, “Contract Law: Fulfilling the Reasonable Expectations of Honest Men” (1997) 113 LQR 433). 
+20     After carefully considering the Agreement as set in its _context_ (and see the decision of this court in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR 1029</span>) as well as having regard to the principles set out above (at [17]), we arrived at the conclusion that cl 1 of the Agreement must be read together with (and _not_ independent of) cll 2 and 3 of the same as this was, in both substance as well as form, the bargain entered into between the parties. In the circumstances, it was imperative to give effect to the legitimate expectations of the parties which arose from such a bargain (in this regard see the decision of this court in _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">[2000] 3 SLR 405</span> at [40] as well as Lord Steyn, “Contract Law: Fulfilling the Reasonable Expectations of Honest Men” (1997) 113 LQR 433). 
 
 21     The bargain between the parties was simply this: Pursuant to cl 3 of the Agreement, the appellants had promised to transfer all their shares to the respondent if the judgment debtors did not fulfil their obligation pursuant to cl 2 of the Agreement by fully satisfying the respondent’s judgment against them by the stipulated date ( _viz_ , 19 April 2005). If the respondent’s construction as set out above was to be preferred, then that would have been an end to the matter because the judgment debtors had not fulfilled their obligation pursuant to cl 2 of the Agreement, thus triggering (so the respondent argued) the appellants’ obligation (pursuant to cl 3 of the Agreement) to transfer all their shares to the respondent. 
 

@@ -221,7 +221,7 @@ _The Defendant’s lack of knowledge as to the Plaintiff’s mistaken belief_
 49     As to why the Plaintiff’s claim is bound to fail to the extent the Plaintiff relies on the 
 
 
-Defendant’s conduct as the basis for a representation that OW Singapore was its agent, I begin with the decision of the Court of Appeal in _Yongnam Development Pte Ltd v Somerset Development Pte Ltd_ [2004] SGCA 35 (“ **_Yongnam_** ”). 
+Defendant’s conduct as the basis for a representation that OW Singapore was its agent, I begin with the decision of the Court of Appeal in _Yongnam Development Pte Ltd v Somerset Development Pte Ltd_ <span class="citation">[2004] SGCA 35</span> (“ **_Yongnam_** ”). 
 
 50     In _Yongnam_ , the Court cited with apparent approval the English decision of _Willmott v Barber_ (1880) 15 Ch 96, in which Fry J set out five prerequisites for “acquiescence to constitute estoppel”. The following passage from the judgment of Fry J was one noted by the Court of Appeal in _Yongnam_ : 
 
@@ -364,7 +364,7 @@ question from the Plaintiff in order to resell this to OW China. [note: 2]
 
  (ii) any other ship of which, at the time when the action is brought, the relevant person is the beneficial owner as respects all the shares in it. 
 
-88     The Court of Appeal in _The Bunga Melati 5_ [2012] SGCA 46 held at [112] of its judgment that in order to invoke admiralty jurisdiction, a plaintiff must, _inter alia_ , 
+88     The Court of Appeal in _The Bunga Melati 5_ <span class="citation">[2012] SGCA 46</span> held at [112] of its judgment that in order to invoke admiralty jurisdiction, a plaintiff must, _inter alia_ , 
 
  ... 
 
@@ -418,7 +418,7 @@ question from the Plaintiff in order to resell this to OW China. [note: 2]
 
 material facts to support the claim could not be said to have been fully disclosed). [note: 4] 
 
-98     Another case which appears to support this approach is _The Eagle Prestige_ [2010] SGHC 93. At [75] of that judgment, Belinda Ang J noted that in _The Vasiliy Golovnin_ [2008] 4 SLR(R) 994, the Court of Appeal had approved of the proposition that: 
+98     Another case which appears to support this approach is _The Eagle Prestige_ <span class="citation">[2010] SGHC 93</span>. At [75] of that judgment, Belinda Ang J noted that in _The Vasiliy Golovnin_ <span class="citation">[2008] 4 SLR(R) 994</span>, the Court of Appeal had approved of the proposition that: 
 
  ... at the interlocutory stage save for frivolous claims , the in rem plaintiff need not establish at the outset that he has a cause of action sustainable in law, and neither the existence of a good defence to a claim would negate the court’s admiralty jurisdiction. 
 
@@ -447,7 +447,7 @@ on _an ex parte_ application for a warrant of arrest, to make full and frank dis
 
 106    It is well established that a plaintiff who applies for a warrant of arrest against a vessel is under a duty to disclose to the court hearing the application all matters within his knowledge which might be material even if they are prejudicial to the plaintiff’s claim: see _The Vasiliy Golovnin_ at [83]. 
 
-107    The test of whether a fact is material or not is an objective one and based solely on relevance: see _The Vasiliy Golovnin_ at [87]. A failure to discharge the duty of full and frank disclosure can be an independent ground for setting aside an arrest: see _The AA V_ [1999] 3 SLR(R) 664 at [47]. 
+107    The test of whether a fact is material or not is an objective one and based solely on relevance: see _The Vasiliy Golovnin_ at [87]. A failure to discharge the duty of full and frank disclosure can be an independent ground for setting aside an arrest: see _The AA V_ <span class="citation">[1999] 3 SLR(R) 664</span> at [47]. 
 
 108    In considering whether a plaintiff has discharged his duty to give full and frank disclosure, the court must not only be satisfied that the material facts have been disclosed (the content and scope of disclosure), but also that the disclosure has been _sufficient_ (the threshold of disclosure). 
 
@@ -532,7 +532,7 @@ the arrest application before it can be found that the fact in question has been
 
 **_Disclosure of the fact that arrest was sought in aid of arbitration_** 
 
-123    Separately, the Defendant submitted that the Warrant of Arrest should be set aside as the Plaintiff failed to disclose to the AR that the Warrant of Arrest was being sought in aid of arbitration. In support of this submission, counsel for the Defendant cited the decision of the Court of Appeal in _The Vasiliy Golovnin_ [2008] SGCA 39, wherein it was held that: 
+123    Separately, the Defendant submitted that the Warrant of Arrest should be set aside as the Plaintiff failed to disclose to the AR that the Warrant of Arrest was being sought in aid of arbitration. In support of this submission, counsel for the Defendant cited the decision of the Court of Appeal in _The Vasiliy Golovnin_ <span class="citation">[2008] SGCA 39</span>, wherein it was held that: 
 
  It is necessary for a party who intends to rely on an arbitration agreement to disclose this to the court in an ex parte application... If the arbitration is consensual, the court hearing the application for warrant of arrest must be alerted to the fact that the proceedings are being brought only to assist the arbitration proceedings. This fact must be disclosed so that if the court grants the arrest, it can also consider whether to stay the arrest or make other appropriate directions pending the award by the arbitral tribunal pursuant to s 7 of the IAA. Care has to be also taken by the court not to directly or even indirectly pronounce on the merits of the matter or trespass onto the jurisdiction of the arbitral tribunal in any other way. If the validity of the arbitration agreement is or will likely be disputed, the court’s attention must also be drawn to this fact. The court’s determination of the application can then be appropriately calibrated to take these potential developments into consideration. 
 

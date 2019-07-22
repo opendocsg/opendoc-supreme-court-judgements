@@ -64,7 +64,7 @@ tender by the plaintiff was unacceptable in any event. As to the use of the NDC 
 
  c. third, the duty of fidelity to an employee does not require the employee to subjugate his own interests to those of his employer. 
 
-(see _Smile Inc Dental Surgeons Pte Ltd v Lui Andrew Stewart_ [2012] 4 SLR 308 at [65] and _Scintronix Corp Ltd (formerly known as TTL Holdings Ltd) v Ho Kang Peng and another_ [2013] 2 SLR 633 at [94]). The crux of the dispute lay in whether, on the facts, the first defendant was in breach of her duty of fidelity as an employee. 
+(see _Smile Inc Dental Surgeons Pte Ltd v Lui Andrew Stewart_ <span class="citation">[2012] 4 SLR 308</span> at [65] and _Scintronix Corp Ltd (formerly known as TTL Holdings Ltd) v Ho Kang Peng and another_ <span class="citation">[2013] 2 SLR 633</span> at [94]). The crux of the dispute lay in whether, on the facts, the first defendant was in breach of her duty of fidelity as an employee. 
 
 13     Although counsel for the plaintiff repeatedly alleged that the first defendant had used confidential information, I am of the view that the evidence was insufficient to prove that she was in breach of any duty of confidentiality – which is not the same thing as the use of confidential information. It is important in this case that the prices that the plaintiff submitted to the NDC were not confidential since every patient who purchased the plaintiff’s products would have known what the prices were. The terms of the tender were set by the NDC so that nothing that the plaintiff provided was crucial. The plaintiff was not the only party tendering and the second defendant would not have known who else might have been competing with him. 
 

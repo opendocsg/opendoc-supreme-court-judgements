@@ -20,7 +20,7 @@ _Companies_ – _memorandum and articles of association_
 
 _Contract_ – _implied terms_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal Nos 149 and 150 of 2014 was allowed in part by the Court of Appeal on 13 August 2015. See [2015] SGCA 40.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal Nos 149 and 150 of 2014 was allowed in part by the Court of Appeal on 13 August 2015. See <span class="citation">[2015] SGCA 40</span>.] 
 
 10 October 2014 
 
@@ -352,7 +352,7 @@ It should be noted that the old Art 73 is in _pari materia_ with reg 55 of Table
 
 electing a new one in its place. The shareholders cannot usurp the powers which are vested in the directors by the company’s articles: _John Shaw_ at 134. 
 
-81     The second line of authority states that the members in general meeting can control the board of directors by passing an ordinary resolution, provided the resolution is not inconsistent with the Companies Act or the articles of the company: see for example _Marshall’s Valve Gear Co Ltd v Manning Wardle & Co Ltd_ [1909] 1 Ch 267; and _Credit Development Pte Ltd v IMO Pte Ltd_ [1993] 1 SLR(R) 68 (“ _Credit Development_ ”). 
+81     The second line of authority states that the members in general meeting can control the board of directors by passing an ordinary resolution, provided the resolution is not inconsistent with the Companies Act or the articles of the company: see for example _Marshall’s Valve Gear Co Ltd v Manning Wardle & Co Ltd_ [1909] 1 Ch 267; and _Credit Development Pte Ltd v IMO Pte Ltd_ <span class="citation">[1993] 1 SLR(R) 68</span> (“ _Credit Development_ ”). 
 
 82     In _Credit Development_ , the issue was whether the shareholders had the power to pass resolutions to appoint accountants and solicitors to investigate the affairs of the company (in this case, the company’s articles contained a provision that was identical to the old Art 73). Lim Tiong Qwee JC held that this was a matter of interpreting the company’s articles. On this basis he found that the shareholders did have such a power. He observed (at [22]): 
 
@@ -364,7 +364,7 @@ electing a new one in its place. The shareholders cannot usurp the powers which 
 
  4.7.1 We recommend the adoption of the statutory restatement of the distribution of powers between directors and general meeting in the following model used in s. 198A of the Australian Corporations Act 2001: “(1) The business of a company is to be managed by or under the direction of the directors. (2) The directors may exercise all the powers of the company except any powers that this Act or the company’s constitution (if any) requires the company to exercise in general meeting.” This will override article 73 of Table A, Fourth Schedule, CA which provides that management powers are also subject to “such regulations, being not inconsistent with the aforesaid Regulations or provisions, as may be prescribed by the company in general meeting.” 
 
- 4.7.2 In the Singapore decision of Credit Development v IMO [1993] 2 SLR 370, on a construction of article 73 of Table A, Fourth Schedule, CA, it was held that an ordinary resolution of shareholders in a general meeting may exercise some of the powers given to the directors. The holding in Credit Development takes a different approach from UK and Australian cases (now clearly backed by the slightly different articles they have and also provisions like s. 198A, Australian Corporations Act 2001) which give management more autonomy. While the decision in Credit Development is useful in those exceptional cases where the majority shareholder does not control the board, it may not be necessary with the re-statement of directors’ duties that has been recommended, and in particular, the re-emphasis on the duty of directors to exercise their powers for proper purposes. 
+ 4.7.2 In the Singapore decision of Credit Development v IMO <span class="citation">[1993] 2 SLR 370</span>, on a construction of article 73 of Table A, Fourth Schedule, CA, it was held that an ordinary resolution of shareholders in a general meeting may exercise some of the powers given to the directors. The holding in Credit Development takes a different approach from UK and Australian cases (now clearly backed by the slightly different articles they have and also provisions like s. 198A, Australian Corporations Act 2001) which give management more autonomy. While the decision in Credit Development is useful in those exceptional cases where the majority shareholder does not control the board, it may not be necessary with the re-statement of directors’ duties that has been recommended, and in particular, the re-emphasis on the duty of directors to exercise their powers for proper purposes. 
 
 
  [emphasis added in italics and bold italics] 
@@ -621,7 +621,7 @@ _The EGM’s power to authorise HT to unilaterally sign cheques_
 
 _Implied Term Argument_ 
 
-157    Mr Thio submitted that the Implied Term formed part of the SSD (and by extension, the TYC Deed) because the Implied Term satisfied the three-step framework described by the Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp Marine_ ”). 
+157    Mr Thio submitted that the Implied Term formed part of the SSD (and by extension, the TYC Deed) because the Implied Term satisfied the three-step framework described by the Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp Marine_ ”). 
 
 158    Under this three-step framework, a term would be implied _in fact_ in an agreement if: 
 
@@ -637,7 +637,7 @@ _Implied Term Argument_
 
 159    The first step begins with the question of whether there was a gap in the SSD. 
 
-160    To me, this was straightforward: the party coming to court merely has to tell the court what it perceives the gap to be, and why the gap is a “true” gap, that is, the parties did not at all contemplate the issue which is now sought to be addressed by way of an implied term (see _Sembcorp Marine_ at [94]–[96]). Vinodh Coomaraswamy J’s approach in _Tan Chin Yew Joseph v Saxo Capital Markets Pte Ltd_ [2013] SGHC 274 at [51] demonstrates correctly how the first step ought to be applied. 
+160    To me, this was straightforward: the party coming to court merely has to tell the court what it perceives the gap to be, and why the gap is a “true” gap, that is, the parties did not at all contemplate the issue which is now sought to be addressed by way of an implied term (see _Sembcorp Marine_ at [94]–[96]). Vinodh Coomaraswamy J’s approach in _Tan Chin Yew Joseph v Saxo Capital Markets Pte Ltd_ <span class="citation">[2013] SGHC 274</span> at [51] demonstrates correctly how the first step ought to be applied. 
 
 161    Mr Thio argued that the gap in the SSD is that neither the Payment Clause nor any other term in the SSD provides what should happen if either HT or JC paralysed TYC by withholding approval to the making of payments by TYC. To fully appreciate this argument, it is necessary to explain the 
 
@@ -705,7 +705,7 @@ implication of terms into a contract.
  (a) A director shall “act bona fide to promote or advance the interests of the company”: Ho 
 
 
- Kang Peng v Scintronix Corp Ltd (formerly known as TTL Holdings Ltd) [2014] 3 SLR 329 (“ Scintronix ”) at [35]. A corollary of this obligation is that the director must be “genuinely acting to promote the company’s interest”; whether or not this is objectively the case is a matter within the court’s purview ( Scintronix at [38]). 
+ Kang Peng v Scintronix Corp Ltd (formerly known as TTL Holdings Ltd) <span class="citation">[2014] 3 SLR 329</span> (“ Scintronix ”) at [35]. A corollary of this obligation is that the director must be “genuinely acting to promote the company’s interest”; whether or not this is objectively the case is a matter within the court’s purview ( Scintronix at [38]). 
 
  (b) A director shall not be dishonest , even if he subjectively thought that being dishonest – by bribing to win business contracts, to take the most extreme example – was in the interest of the company. The Court of Appeal in Scintronix flatly rejected (at [40]) the suggestion that a director who created a sham contract and made unauthorised and irregular payments out of the company’s funds for the purpose of securing business for the company can be said to be acting genuinely in the interests of the company. The rationale, the court explained, was that profit maximisation “by any means” can never be in the interests of the company. 
 
@@ -806,7 +806,7 @@ freely agreed to give another party an unfettered discretion to make decisions t
 
 222    No submission was pressed on JC’s refusal to approve payment of the TSMP Fees and the Express Co Fees, and rightly so, because it was manifestly clear that her refusal to approve the two payments stemmed from her honest belief that the EGM had not been validly convened and consequently, TSMP was not properly appointed (see [50] above). 
 
-223    The courts have been slow in interfering with commercial decisions of directors which have been made honestly even if they turn out, on hindsight, to be financially detrimental ( _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ [1994] 3 SLR(R) 1064 at [30]). Part of the reason for this wide margin of deference is that “it is theoretically possible for a board of directors to make a decision which is commercially ludicrous and yet act perfectly honestly” (see _Walter Woon_ at para 8.36). 
+223    The courts have been slow in interfering with commercial decisions of directors which have been made honestly even if they turn out, on hindsight, to be financially detrimental ( _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ <span class="citation">[1994] 3 SLR(R) 1064</span> at [30]). Part of the reason for this wide margin of deference is that “it is theoretically possible for a board of directors to make a decision which is commercially ludicrous and yet act perfectly honestly” (see _Walter Woon_ at para 8.36). 
 
 224    As Lord Greene MR said in _In re Smith and Fawcett Ltd_ [1942] Ch 304 at 306 (which was cited with approval by the Court of Appeal in _Scintronix_ at [37]), directors “must exercise their discretion _bona fide_ in what they consider – not what a court may consider – is in the interests of the company”. What matters, therefore, is the directors’ intention, not the consequences of the directors’ decision, however detrimental. The consequences may, however, sometimes be a useful indicator of intention. 
 
@@ -834,7 +834,7 @@ that KPMG ought to have checked with her on the accuracy of the parameters befor
 
 233    I would make a final observation. The dispute over payment here did not relate to a supply of basic consumables, but to the provision of professional services. A dispute over the quality of professional services rendered generally involves a greater measure of subjective judgment; and the client receiving such services should be given some latitude if it genuinely believes that there was a deficiency in the quality of services for which payment should be withheld. 
 
-234    In these circumstances, I did not think that JC’s stance was one which “no director could honestly believe to be taken in the interests of the company” (see _Cheam Tat Pang and another v Public Prosecutor_ [1996] 1 SLR(R) 161 at [80]). I considered this margin of deference that should be afforded to directors. I also considered the fact that she had reached out to KPMG to lodge her dissatisfaction (see [229] above). While I thought that JC was perhaps not the easiest of clients ( _qua_ director of TYC) to deal with, I found that she did approach the issue of payment of the KPMG Fees with an honest, _bona fide_ belief that KPMG ought not to be paid (then or perhaps at all) because it had not discharged fully or properly its obligations under the terms of the engagement. 
+234    In these circumstances, I did not think that JC’s stance was one which “no director could honestly believe to be taken in the interests of the company” (see _Cheam Tat Pang and another v Public Prosecutor_ <span class="citation">[1996] 1 SLR(R) 161</span> at [80]). I considered this margin of deference that should be afforded to directors. I also considered the fact that she had reached out to KPMG to lodge her dissatisfaction (see [229] above). While I thought that JC was perhaps not the easiest of clients ( _qua_ director of TYC) to deal with, I found that she did approach the issue of payment of the KPMG Fees with an honest, _bona fide_ belief that KPMG ought not to be paid (then or perhaps at all) because it had not discharged fully or properly its obligations under the terms of the engagement. 
 
 _Fiduciary Duty Argument_ 
 

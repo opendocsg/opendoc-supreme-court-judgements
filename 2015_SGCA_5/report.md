@@ -18,7 +18,7 @@ _Civil Proc edure_ – _Offer to settle_
 
 _Contrac t_ – _Formation_ 
 
-[ **LawNet Editorial Note** : The decision from which this appeal arose is reported at [2014] 2 SLR 1285 .] 
+[ **LawNet Editorial Note** : The decision from which this appeal arose is reported at <span class="citation">[2014] 2 SLR 1285</span> .] 
 
 23 January 2015 Judgment reserved. 
 
@@ -26,7 +26,7 @@ _Contrac t_ – _Formation_
 
 **Introduction** 
 
-1       This is an appeal brought by the Appellant, Ong & Ong Pte Ltd, against the decision of the High Court judge (“the Judge”) in _Ong & Ong Pte Ltd v Fairview Developments Pte Ltd_ [2014] 2 SLR 1285 (“the GD”) where the Judge held that a settlement agreement had come into being when the Respondent accepted the offer to settle (“the OTS”) made by the Appellant under O 22A of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) (“the Rules of Court”). The reason being that at the time the Respondent accepted the OTS, it had not lapsed contrary to what the Appellant asserted. 
+1       This is an appeal brought by the Appellant, Ong & Ong Pte Ltd, against the decision of the High Court judge (“the Judge”) in _Ong & Ong Pte Ltd v Fairview Developments Pte Ltd_ <span class="citation">[2014] 2 SLR 1285</span> (“the GD”) where the Judge held that a settlement agreement had come into being when the Respondent accepted the offer to settle (“the OTS”) made by the Appellant under O 22A of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) (“the Rules of Court”). The reason being that at the time the Respondent accepted the OTS, it had not lapsed contrary to what the Appellant asserted. 
 
 2       The Respondent contends that a valid settlement was reached on the following terms: [note: 1] 
 
@@ -125,7 +125,7 @@ OTS was “no longer capable of being accepted”. [note: 7]
 
 12     Thereafter, on 4 October 2013, the Respondent instituted the present proceedings seeking a declaration from the court that its acceptance of the OTS was valid. 
 
-13     The Court of Appeal eventually released its grounds of decision for the appeal on 20 January 2014 in _Fairview Developments Pte Ltd v Ong & Ong Pte Ltd and another appeal_ [2014] 2 SLR 318 (“ _Ong & Ong (CA)_ ”). 
+13     The Court of Appeal eventually released its grounds of decision for the appeal on 20 January 2014 in _Fairview Developments Pte Ltd v Ong & Ong Pte Ltd and another appeal_ <span class="citation">[2014] 2 SLR 318</span> (“ _Ong & Ong (CA)_ ”). 
 
 **The O 22A offer to settle regime** 
 
@@ -133,14 +133,14 @@ OTS was “no longer capable of being accepted”. [note: 7]
 
 15     The regime under O 22A is not unique to Singapore. Similar regimes are also found in other common law jurisdictions such as British Columbia, Ontario, New South Wales and Victoria. The GD (at [23]–[51]) helpfully traced the origin of O 22A and also provided a comparative analysis of the regimes in those jurisdictions which we do not propose to rehash here at length. 
 
-16     The purpose of O 22A, which this court in _The “Enduranc e 1”_ [1998] 3 SLR(R) 970 at [41] cited with approval from the Ontario Court of Appeal decision in _Data General (Canada) Ltd v Molnar Systems Group Inc_ (1991) 85 DLR (4th) 392, is to: 
+16     The purpose of O 22A, which this court in _The “Enduranc e 1”_ <span class="citation">[1998] 3 SLR(R) 970</span> at [41] cited with approval from the Ontario Court of Appeal decision in _Data General (Canada) Ltd v Molnar Systems Group Inc_ (1991) 85 DLR (4th) 392, is to: 
 
  ... encourage the termination of litigation by agreement of the parties – more speedily and less expensively than by judgment of the court at the end of the trial. The impetus to settle is a mechanism which enables a plaintiff to make a serious offer respecting his or her estimate of the value of the claim which will require the defendant to give early (that is, when the offer is served) and careful consideration of the merits of the case. 
 
 
 17     This statement of the Ontario Court of Appeal was made, like the present case, in the context where the plaintiff was the offeror and the defendant the offeree. Having regard to the nature of the scheme under O 22A, it should not really matter where the roles are reversed. The reason why the offeree would need to give careful consideration to the offer to settle is that there is an attendant risk of having to pay indemnity costs if a reasonable offer is not speedily accepted. This is what the New South Wales Court of Appeal in _Maitland Hospital v Fisher (No 2)_ (1992) 27 NSWLR 721 meant when it held that legislating cost consequences was to facilitate the proper compromise of litigation by equal measures of “carrot” and “stick”. The “carrot” being the promise of indemnity costs to the offeror in the event the offeree does not accept a reasonable offer. The “stick” being the threat to the offeree of having to pay indemnity costs in such a situation. 
 
-18     The policy behind the O 22A regime was reiterated by this court in _Singapore Airlines Ltd v Tan Shwu Leng_ [2001] 3 SLR(R) 439 at [38] in these terms: 
+18     The policy behind the O 22A regime was reiterated by this court in _Singapore Airlines Ltd v Tan Shwu Leng_ <span class="citation">[2001] 3 SLR(R) 439</span> at [38] in these terms: 
 
  The scheme of things under O 22A is verily to encourage the plaintiffs to be realistic in their assessment of what they are entitled to and on the part of the defendants, to make reasonable offers, on pain of having to bear the costs on the indemnity basis if they should persist in their exaggerated claims or maintain their unreasonable position (in respect of an offer from the plaintiff). The order seeks to promote responsible conduct on the part of both parties. It discourages obstinacy. The wide discretion given to the court in r 12 is to enable the court to take all pertinent facts and circumstances into account and arrive at an order on costs which is fair and just. ... 
 
@@ -213,7 +213,7 @@ if the OTS was held to remain valid and it did not accept the OTS. The court sho
 
  (c) in any event, such cost consequences should not be conflated with the interpretation of the terms of the OTS. 
 
-31     In addition, the Appellant also makes two further submissions not raised in the court below. The first is that the dismissal of the counterclaim was a fundamental change in circumstances which caused the OTS to lapse. This is a principle of contract law derived from the cases of _Financ ings Ltd v Stimson_ [1962] 1 WLR 1184 (“ _Financ ings v Stimson_ ”) and _Dysart Timbers Ltd v Nielsen_ [2009] 3 NZLR 160 (“ _Dysart Timbers_ ”); common law contractual principles can be applied to the OTS regime insofar as they are not inconsistent with the express provisions in O 22A: see _Chia Kim Huay (litigation representative of the estate of Chua Chye Hee, dec eased) v Saw Shu Mawa Min Min and another_ [2012] 4 SLR 1096 at [1]–[2] (“ _Chia Kim Huay_ ”). 
+31     In addition, the Appellant also makes two further submissions not raised in the court below. The first is that the dismissal of the counterclaim was a fundamental change in circumstances which caused the OTS to lapse. This is a principle of contract law derived from the cases of _Financ ings Ltd v Stimson_ [1962] 1 WLR 1184 (“ _Financ ings v Stimson_ ”) and _Dysart Timbers Ltd v Nielsen_ [2009] 3 NZLR 160 (“ _Dysart Timbers_ ”); common law contractual principles can be applied to the OTS regime insofar as they are not inconsistent with the express provisions in O 22A: see _Chia Kim Huay (litigation representative of the estate of Chua Chye Hee, dec eased) v Saw Shu Mawa Min Min and another_ <span class="citation">[2012] 4 SLR 1096</span> at [1]–[2] (“ _Chia Kim Huay_ ”). 
 
 32     Second, submitting in the alternative, the Appellant contends that there is an implied term that the OTS would lapse at the point when either the claim or the counterclaim has been fully and finally disposed of. 
 
@@ -265,7 +265,7 @@ that the OTS was validly accepted on the terms stated in the NOA (see above at [
 
 **_Should contractual principles of offer and acceptance apply generally to the offer to settle regime under O 22A?_** 
 
-44     The High Court decisions of _Chia Kim Huay_ and _S & E Tec h Pte Ltd v Western Elec tric Pac ific Pte Ltd and another_ [2006] 2 SLR(R) 7 appear to answer the question in the affirmative unless a particular contractual principle was expressly excluded by O 22A. We pause to observe that in both these decisions, the courts did not sufficiently explore why an application of contractual principles should be the default position, and why such principles should only be displaced where expressly stipulated for in the rules. 
+44     The High Court decisions of _Chia Kim Huay_ and _S & E Tec h Pte Ltd v Western Elec tric Pac ific Pte Ltd and another_ <span class="citation">[2006] 2 SLR(R) 7</span> appear to answer the question in the affirmative unless a particular contractual principle was expressly excluded by O 22A. We pause to observe that in both these decisions, the courts did not sufficiently explore why an application of contractual principles should be the default position, and why such principles should only be displaced where expressly stipulated for in the rules. 
 
 45     In this regard, two sets of provisions in O 22A are especially significant. The first is O 22A r 3 which provides: 
 
@@ -396,7 +396,7 @@ in terms that appeared to refer to Action 526, even though there was no Action 5
 
 71     The Appellant relies on the cases of _Financ ings v Stimson_ and _Dysart Timbers_ to contend that because of a very significant change of circumstances, it should not be held bound to the OTS. In _Dysart Timbers_ , the New Zealand Supreme Court held that a fundamental change in circumstances occurring between the time the offer was made and the time the offer was purportedly accepted would cause an offer to lapse. In that case, Dysart Timbers brought proceedings against the Nielsens to enforce a guarantee and successfully obtained judgment. The Nielsens applied for leave to appeal to the Supreme Court, and thereafter made a contractual offer to settle on the basis that they would pay a sum of money to Dysart Timbers lower than the judgment sum but withdraw the leave application. Dysart Timbers purported to accept the offer, but in the meantime, the Supreme Court granted the leave application. The Nielsens then disputed that the offer was still open for acceptance. The Supreme Court eventually held that a fundamental change in circumstances could cause an offer to lapse, but the granting of the leave application in this case was not a fundamental enough change. 
 
-72     We note that the High Court in _Norwest Holdings Pte Ltd (in liquidation) v Newport Mining Ltd_ [2010] 3 SLR 956 (“ _Norwest Holdings_ ”) considered (in _obiter_ ) that the approach taken in both _Financ ings v Stimson_ and _Dysart Timbers_ should not be followed (at [67] and [70]): 
+72     We note that the High Court in _Norwest Holdings Pte Ltd (in liquidation) v Newport Mining Ltd_ <span class="citation">[2010] 3 SLR 956</span> (“ _Norwest Holdings_ ”) considered (in _obiter_ ) that the approach taken in both _Financ ings v Stimson_ and _Dysart Timbers_ should not be followed (at [67] and [70]): 
 
  67 In my judgment, the usual objective approach to offer and acceptance, or the doctrine of common mistake, is more than adequate to provide a principled approach to changes in circumstances occurring after an offer was made and before the offer is purported to be accepted. If the change of circumstances is known to the parties, it becomes part of the context in which they deal with each other, and the question then is whether the offeror's original intention to make an offer had, on an objective view, changed in light of the change of circumstances. If, as here, the change is unknown to the parties, then the doctrine of common mistake should apply, subject to its other requirements being met. ... 
 
@@ -404,7 +404,7 @@ in terms that appeared to refer to Action 526, even though there was no Action 5
 
  70 ... It also seemed to me, for the reasons given above, that adopting an overly expansive approach to the lapse of offers would have the effect of undermining the objective approach to offer and acceptance, as well as the doctrine of common mistake. For these reasons, I would have declined to follow both Financ ings and Dysart Timbers , had it been necessary for me to decide the point. ... 
 
-The Court of Appeal in _Norwest Holdings Pte Ltd (in liquidation) v Newport Mining Ltd and another appeal_ [2011] 4 SLR 617 dismissed the appeal, but declined to express an opinion on the views of the High Court. 
+The Court of Appeal in _Norwest Holdings Pte Ltd (in liquidation) v Newport Mining Ltd and another appeal_ <span class="citation">[2011] 4 SLR 617</span> dismissed the appeal, but declined to express an opinion on the views of the High Court. 
 
 73     The learned authors of _Law of Contrac t in Singapore_ (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) at paras 03.096–03.098, however, have questioned whether the High Court’s reasoning in _Norwest Holdings_ was entirely appropriate. The view of the authors is that in a situation where the change in circumstances had only become known after the offer was made but before that offer was accepted, it was not possible to take into account the circumstances in construing the offer, nor was it possible for common mistake to apply. Therefore, there seems to be room for the application of the doctrine of fundamental change in circumstances _per Dysart Timbers_. 
 
@@ -421,12 +421,12 @@ The Court of Appeal in _Norwest Holdings Pte Ltd (in liquidation) v Newport Mini
 
 **_The question of unfair conduct_** 
 
-78     We have (at [66] above) referred to the case of _Blac kwell v Dixon_. There, the Ontario court, exercising its discretion under rule 49.09 of the Rules of Civil Procedure (Ont) which is _in pari materia_ to our O 22A r 8, declined to enforce the accepted offer of $400,000. Instead, the court entered judgment for the lower amount of $390,000. The court applied the principle that where sharp practice was involved in “exploiting an opponent and colleague’s known mistake in an offer of settlement” the settlement reached would not be enforced. There is no equivalent principle established in our case law, but in _Chwee Kin Keong and others v Digilandmall.c om Pte Ltd_ [2005] 1 SLR(R) 502 the Court of Appeal declined to enforce contracts for purchase of printers where there was “sharp practice” or “unconscionable conduct” (see [77]). 
+78     We have (at [66] above) referred to the case of _Blac kwell v Dixon_. There, the Ontario court, exercising its discretion under rule 49.09 of the Rules of Civil Procedure (Ont) which is _in pari materia_ to our O 22A r 8, declined to enforce the accepted offer of $400,000. Instead, the court entered judgment for the lower amount of $390,000. The court applied the principle that where sharp practice was involved in “exploiting an opponent and colleague’s known mistake in an offer of settlement” the settlement reached would not be enforced. There is no equivalent principle established in our case law, but in _Chwee Kin Keong and others v Digilandmall.c om Pte Ltd_ <span class="citation">[2005] 1 SLR(R) 502</span> the Court of Appeal declined to enforce contracts for purchase of printers where there was “sharp practice” or “unconscionable conduct” (see [77]). 
 
 79     In the present case, while on the face of it, it might be said that the immediate acceptance of the OTS by the Respondent after the Court of Appeal allowed the Appellant’s appeal in _Ong & Ong (CA)_ might constitute a “snapping up” of sorts, this was a very different situation from _Blac kwell v Dixon_. In that case, the plaintiffs’ counsel _knew_ that the defendants only meant to settle at $390, but exploited the error in the offer to settle document to seek enforcement at $400,000. Here, even if the Respondent could be said to have guessed or even known that the Appellant would probably want to withdraw the OTS after its appeal was allowed, there was no exploitation of any error. While it may be said that the Appellant made an “error” by not withdrawing the OTS once the counterclaim was dismissed, there was no evidence that the Appellant had intended to withdraw the OTS. The Appellant would have known that one of the outcomes of the appeal would be that its claims in the Suit could be allowed in full. That was what it was arguing for. So what actually happened could not be said to have been unexpected. In any event, under O 22A, the offeror needs to give one day’s 
 
 
-notice before it may serve a notice of withdrawal in Form 34 on the offeree: see also _Tanner Sheridan Wayne v NRG Engineering Pte Ltd_ [2014] 1 SLR 475. Therefore, even if the Appellant had wanted to withdraw the offer the moment it knew that it had succeeded in the appeal, the Respondent would still have the one day to accept the OTS because it could not have been withdrawn before then. The Respondent’s acceptance of the OTS immediately after the CA Liability Decision could not be regarded as exploitative or unfair. 
+notice before it may serve a notice of withdrawal in Form 34 on the offeree: see also _Tanner Sheridan Wayne v NRG Engineering Pte Ltd_ <span class="citation">[2014] 1 SLR 475</span>. Therefore, even if the Appellant had wanted to withdraw the offer the moment it knew that it had succeeded in the appeal, the Respondent would still have the one day to accept the OTS because it could not have been withdrawn before then. The Respondent’s acceptance of the OTS immediately after the CA Liability Decision could not be regarded as exploitative or unfair. 
 
 **_Whether permitting enforcement of the OTS would be unjust_** 
 

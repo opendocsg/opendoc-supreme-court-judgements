@@ -182,7 +182,7 @@ Sante’s allegation of groundless threat. [note: 29]
 
 31     Once these three elements are proven, the plaintiff is entitled to apply for relief unless the defendant is able to demonstrate that the acts in respect of which proceedings were threatened constitute (or if done would constitute) an infringement of the registered trade mark concerned. The parties dispute whether s 35(3) of the TMA can even be invoked in the present case and I will address this dispute in due course. 
 
-32     The Court of Appeal in the recent decision of _Lee Tat Cheng v Maka GPS Technologies Pte Ltd_ [2018] 1 SLR 856 (“ _Lee Tat Cheng_ ”) at [104]–[109] confirmed that in the context of groundless threat proceedings relating to patent infringement, the Court retains the discretion to determine whether or not to grant relief and if so, what sort of relief should be granted. The plaintiff would not be “aggrieved” if the plaintiff is unable to demonstrate that: (a) the plaintiff has suffered any loss as a result of the defendant’s threats; or (b) it is appropriate for the court to intervene by granting a declaration (to the effect that the threats are unjustified) or an injunction (to restrain the defendant from continuing the threats), even if the defendant’s threat were found to be groundless. 
+32     The Court of Appeal in the recent decision of _Lee Tat Cheng v Maka GPS Technologies Pte Ltd_ <span class="citation">[2018] 1 SLR 856</span> (“ _Lee Tat Cheng_ ”) at [104]–[109] confirmed that in the context of groundless threat proceedings relating to patent infringement, the Court retains the discretion to determine whether or not to grant relief and if so, what sort of relief should be granted. The plaintiff would not be “aggrieved” if the plaintiff is unable to demonstrate that: (a) the plaintiff has suffered any loss as a result of the defendant’s threats; or (b) it is appropriate for the court to intervene by granting a declaration (to the effect that the threats are unjustified) or an injunction (to restrain the defendant from continuing the threats), even if the defendant’s threat were found to be groundless. 
 
 33     Section 77 of the Patents Act (Cap 221, 2005 Rev Ed), which lays down the applicable test for groundless threat in the patent context, is structured and worded similarly to s 35 of the TMA. Moreover, the policy tensions underlying all groundless threat provisions are similar (see _Lee Tat Cheng_ at [104]). Therefore, I am of the view that a similar discretion exists under s 35 of the TMA. 
 
@@ -313,7 +313,7 @@ amended, however, the amendments are immaterial to the present proceedings. I fi
 64     The vast majority of groundless threat claims arise in the context of intellectual property infringement claims, with the groundless threat action arising as a counterclaim. While this case initially proceeded on this orthodox trajectory, subsequent events have put the court in the unusual 
 
 
-position of deciding on a groundless threat claim without corresponding infringement proceedings (see [27] above). This has particular significance when considering s 35(3) of the TMA, as the question of justification is usually resolved concurrently in light of the decision on the trade mark infringement issue (See for example _Allergan, Inc and another v Ferlandz Nutra Pte Ltd_ [2016] 4 SLR 919 at [165]). 
+position of deciding on a groundless threat claim without corresponding infringement proceedings (see [27] above). This has particular significance when considering s 35(3) of the TMA, as the question of justification is usually resolved concurrently in light of the decision on the trade mark infringement issue (See for example _Allergan, Inc and another v Ferlandz Nutra Pte Ltd_ <span class="citation">[2016] 4 SLR 919</span> at [165]). 
 
 65     Sante has seized on this unusual state of affairs to make two preliminary objections pertaining to the applicability of s 35(3) of the TMA in the present case: 
 
@@ -579,7 +579,7 @@ products, and these products were put on the market with the consent of Dr Babor
 
 109    The operative words “use of the trade mark in relation to goods” are ambiguous as to whether this includes a situation where the trade mark is used to advertise that trade marked goods are used in the provision of services. 
 
-110    The legislative history and policy tensions behind the enactment of s 29 of the TMA was recently considered in the case of _Samsonite IP Holdings Sarl v An Sheng Trading Pte Ltd_ [2017] 4 SLR 99 (“ _Samsonite IP Holdings_ ”). It appears that s 29 of the TMA was enacted primarily to deal with the issue of parallel imports (see _Samsonite IP Holdings_ at [55], [56] and [70]–[79]). 
+110    The legislative history and policy tensions behind the enactment of s 29 of the TMA was recently considered in the case of _Samsonite IP Holdings Sarl v An Sheng Trading Pte Ltd_ <span class="citation">[2017] 4 SLR 99</span> (“ _Samsonite IP Holdings_ ”). It appears that s 29 of the TMA was enacted primarily to deal with the issue of parallel imports (see _Samsonite IP Holdings_ at [55], [56] and [70]–[79]). 
 
 111    The court in _Samsonite IP Holdings_ defined parallel imports at [1] as follows: 
 

@@ -49,7 +49,7 @@ accordingly.
 
 **The law** 
 
-11     Legal joint tenants who have contributed unequally to the payment of the purchase price will be presumed to hold the property as beneficial tenants in common in proportion to their contributions: _Lau Siew Kim v Yeo Guan Chye Terence_ [2008] 2 SLR(R) 108 at [83] (“ _Lau Siew Kim_ ”). Each party’s share of the beneficial interest is to be ascertained at the time of acquisition of the property: _Lau Siew Kim_ at [112]; _Chan Yuen Lan v See Fong Mun_ [2014] 3 SLR 1048 at [53] (“ _Chan Yuen Lan_ ”). 
+11     Legal joint tenants who have contributed unequally to the payment of the purchase price will be presumed to hold the property as beneficial tenants in common in proportion to their contributions: _Lau Siew Kim v Yeo Guan Chye Terence_ <span class="citation">[2008] 2 SLR(R) 108</span> at [83] (“ _Lau Siew Kim_ ”). Each party’s share of the beneficial interest is to be ascertained at the time of acquisition of the property: _Lau Siew Kim_ at [112]; _Chan Yuen Lan v See Fong Mun_ <span class="citation">[2014] 3 SLR 1048</span> at [53] (“ _Chan Yuen Lan_ ”). 
 
 12     Only direct contributions towards the purchase price are relevant. In the case of monies borrowed by a mortgagor to pay for the property, the mortgagor (by reason of having assumed liability to pay the loan) is treated as having provided the proportion of the purchase price attributable to the monies so borrowed. The actual payments of mortgage instalments are not regarded as direct contributions unless the payments are made on the basis of an agreement made when the mortgage is taken out: _Lau Siew Kim_ at [115]—[116]. 
 

@@ -144,7 +144,7 @@ written submissions: [note: 7]
 
 30     Clause 4 of the Parameters for Independent Valuer expressly provides that GTCF, as the valuer 
 
-appointed pursuant to those parameters, is to be a “valuer acting as an expert”. [note: 8] If that is the correct position, GTCF’s report can be attacked only on grounds of fraud or partiality but not by reason of a breach of the fair hearing rule. In _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd_ [2006] 1 SLR(R) 634 (“ _Evergreat_ ”), V K Rajah J (as he then was) said: 
+appointed pursuant to those parameters, is to be a “valuer acting as an expert”. [note: 8] If that is the correct position, GTCF’s report can be attacked only on grounds of fraud or partiality but not by reason of a breach of the fair hearing rule. In _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 634</span> (“ _Evergreat_ ”), V K Rajah J (as he then was) said: 
 
  34 Both arbitration and expert awards, however, have the same fundamental and common foundation – contract law. The law upholds and recognises such agreements and the consequential awards because of the sanctity it accords to contractual arrangements. I can do no better than to echo the observations of Lord Mustill in Channel Tunnel Group Ltd v Balfour Beatty Construction Ltd [1993] AC 334 at 353: 
 
@@ -159,7 +159,7 @@ appointed pursuant to those parameters, is to be a “valuer acting as an expert
 
  36 There are two fundamental aspects or facets of natural justice that generally apply to dispute resolution. The first is that a decision maker should be disinterested in the outcome. The second is due process; both parties have the right to be heard on all the issues that are to be determined. This second facet of natural justice does not apply to an expert’s determination. This is the single most significant distinction between expert determination and litigation/arbitration. 
 
-Rajah J reiterated these points in _Geowin Construction Pte Ltd (in liquidation) v Management Corporation Strata Title Plan No 1256_ [2007] 1 SLR(R) 1004 (“ _Geowin_ ”) (at [7]). 
+Rajah J reiterated these points in _Geowin Construction Pte Ltd (in liquidation) v Management Corporation Strata Title Plan No 1256_ <span class="citation">[2007] 1 SLR(R) 1004</span> (“ _Geowin_ ”) (at [7]). 
 
 32     The plaintiff relies on _Evergreat_ to argue that, notwithstanding the express provision in the Parameters for Independent Valuer, the substance of GTCF’s contractual duties mean that it was valuing the plaintiff’s shares in a quasi-arbitral function. The plaintiff points to cl 5 of GTCF’s letter of engagement which it argues sets out procedural duties which GTCF was obliged to follow in the valuation process. Thus, the plaintiff argues, GTCF did not have complete discretion over the rules of procedure as an expert ordinarily would. 
 
@@ -251,7 +251,7 @@ hearing. There was absolutely no such basis.
 
 57     The plaintiff next argues that even if actual bias is not made out, the facts relied on to show actual bias are sufficient to show apparent bias. For this alternative reason, she says, the report should not bind her. 
 
-58     Whether an expert determination can be set aside on the ground of apparent bias is not clear. In _Poh Cheng Chew v K P Koh & Partners Pte Ltd and another_ [2014] 2 SLR 573 (“ _Poh Cheng Chew_ ”) Lionel Yee JC set aside an expert’s decision because he found actual bias on the part of the expert and opined that it was not clear whether apparent bias would have sufficed: 
+58     Whether an expert determination can be set aside on the ground of apparent bias is not clear. In _Poh Cheng Chew v K P Koh & Partners Pte Ltd and another_ <span class="citation">[2014] 2 SLR 573</span> (“ _Poh Cheng Chew_ ”) Lionel Yee JC set aside an expert’s decision because he found actual bias on the part of the expert and opined that it was not clear whether apparent bias would have sufficed: 
 
  58 Since one of the grounds of challenge raised by the Defendants is that of bias and partiality, I should say a few words about the applicable test for partiality in the context of an expert determination. In England, the test is one of actual bias and not apparent bias: see Macro v Thompson (No 3) [1997] 2 BCLC 36 (“ Macro v Thompson ”) at 65; Bernhard Schulte GmbH & Co KG v Nile Holdings Ltd [2004] EWHC 977 (Comm) at [98]; John Kendall, Clive Freedman & James 
 
@@ -264,7 +264,7 @@ hearing. There was absolutely no such basis.
 
 59     In this particular case, it is similarly not necessary for me to take a position on whether apparent bias is a ground for setting aside an expert determination. Even on the assumption that apparent bias is a ground, I find that the plaintiff has failed to establish apparent bias. 
 
-60     Counsel for the plaintiff, in oral submissions, cites _Re Shankar Alan s/o Anant Kulkarni_ [2007] 1 SLR(R) 85 for the test of apparent bias. The test favoured in that case was the reasonable suspicion test, _ie_ , whether a reasonable member of the public could harbour a reasonable suspicion of bias. I make a further assumption that that is the appropriate test for apparent bias to be applied to an expert determination. I have already explained why all of the grounds set forth by the plaintiff are insufficient to establish actual bias (see [48]–[56]). For much the same reasons, I find that none of the facts on which the plaintiff relies would lead a reasonable person to harbour a reasonable suspicion of bias. 
+60     Counsel for the plaintiff, in oral submissions, cites _Re Shankar Alan s/o Anant Kulkarni_ <span class="citation">[2007] 1 SLR(R) 85</span> for the test of apparent bias. The test favoured in that case was the reasonable suspicion test, _ie_ , whether a reasonable member of the public could harbour a reasonable suspicion of bias. I make a further assumption that that is the appropriate test for apparent bias to be applied to an expert determination. I have already explained why all of the grounds set forth by the plaintiff are insufficient to establish actual bias (see [48]–[56]). For much the same reasons, I find that none of the facts on which the plaintiff relies would lead a reasonable person to harbour a reasonable suspicion of bias. 
 
 61     I have explained that GTCF’s failure to reply to the plaintiff’s email of 30 September 2014 asking GTCF to confirm that it would not take into account the first defendant’s representations of 23 September 2014 could amount to evidence of actual bias only if there were some basis on which to say that the refusal was deliberate or wilful, intended to prejudice the plaintiff or assist the defendants. There is absolutely no basis on which a reasonable member of the public could harbour a reasonable suspicion that that was the case. 
 
@@ -291,16 +291,16 @@ hearing. There was absolutely no such basis.
 
 **Manifest error** 
 
-70     The plaintiff’s final objection to the report was that it is marred by manifest error. The plaintiff relies on the case of _Tan Yeow Khoon and another v Tan Yeow Tat and others_ [2003] 3 SLR(R) 486 
+70     The plaintiff’s final objection to the report was that it is marred by manifest error. The plaintiff relies on the case of _Tan Yeow Khoon and another v Tan Yeow Tat and others_ <span class="citation">[2003] 3 SLR(R) 486</span> 
 
 
-(at [12]) (affirmed in _Quek Kwee Kee Victoria (in her personal capacity and as executor of the estate of Quek Kiat Siong, deceased) and another v Quek Khuay_ Chuah [2014] 4 SLR 1 (“ _Victoria Quek_ ”) at [33]) as authority for the proposition that an expert’s decision will be set aside if there is manifest error. 
+(at [12]) (affirmed in _Quek Kwee Kee Victoria (in her personal capacity and as executor of the estate of Quek Kiat Siong, deceased) and another v Quek Khuay_ Chuah <span class="citation">[2014] 4 SLR 1</span> (“ _Victoria Quek_ ”) at [33]) as authority for the proposition that an expert’s decision will be set aside if there is manifest error. 
 
 71     In _Geowin_ , Rajah J explained that the phrase manifest error is “no more than a convenient shorthand reference to a patent error on the ‘face’ of the award or decision” (at [16]; see also _Victoria Quek_ at [33]). Rajah J said (at [19]): 
 
  I respectfully concur with Lord Denning MR’s view in Campbell v Edwards ([16] supra) that the only errors that can be corrected by the court are those that appear on the “ face ” of the award or report (see at [17] above). In the context of a speaking award, the court should not stray beyond the actual report or award in considering how or why the decision was reached. The underlying evidence ought not to be re-examined or referred to as this would be tantamount to an appellate hearing and to that extent contrary to what the parties had solemnly agreed to. The right of review should be confined to correcting apparent mistakes that appear on the face of the report or award (eg apparent mathematical miscalculations) and to determining whether the expert has complied with his terms of appointment. If an expert answers the right question in the wrong way his decision will nevertheless be binding. 
 
-72     In _The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ [2009] 2 SLR 385, Chan Seng Onn J took a less strict approach to manifest error, opining that there was no absolute rule precluding reference to matters beyond the face of the award or decision to establish manifest error. Chan J said: 
+72     In _The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ <span class="citation">[2009] 2 SLR 385</span>, Chan Seng Onn J took a less strict approach to manifest error, opining that there was no absolute rule precluding reference to matters beyond the face of the award or decision to establish manifest error. Chan J said: 
 
  88 On the facts of this case, fortunately the IA gave a reasoned determination and even included the relevant important documentary evidence as part of his written determination which then enabled me to see more clearly and better understand, both from the IA’s reasoned determination and the attached documentary evidence forming part of his written determination, as to where and how the manifest errors as contended by OIC could have arisen. 
 

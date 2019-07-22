@@ -88,7 +88,7 @@ report.
 
 **The prosecution's submissions on sentence** 
 
-28\. Relying on judicial guidelines enunciated in _Chia Kim Heng Frederick v PP_ [1992] 1 SLR 361, _Lim Hock Hin Kelvin v PP_ [1998] 1 SLR 801, _Tay Kim Kuan v PP_ [2001] 3 SLR 567, _PP v Soh Lip Yong_ [1999] 4 SLR 281 and _Adam bin Darsin v PP_ [2001] 2 SLR 412, the Prosecution urged me to impose a sentence that would "send a clear warning to all potential offenders that sexual assaults on children and young persons will not be tolerated and will be accorded the gravest punishment the law sanctions". The Prosecution also submitted that the Accused already had a sexually transmitted disease on 15 May 2002 (the date he sought medical attention) and most probably knew he had it by the time he raped LL for the fourth time on 11 May 2002. 
+28\. Relying on judicial guidelines enunciated in _Chia Kim Heng Frederick v PP_ <span class="citation">[1992] 1 SLR 361</span>, _Lim Hock Hin Kelvin v PP_ <span class="citation">[1998] 1 SLR 801</span>, _Tay Kim Kuan v PP_ <span class="citation">[2001] 3 SLR 567</span>, _PP v Soh Lip Yong_ <span class="citation">[1999] 4 SLR 281</span> and _Adam bin Darsin v PP_ <span class="citation">[2001] 2 SLR 412</span>, the Prosecution urged me to impose a sentence that would "send a clear warning to all potential offenders that sexual assaults on children and young persons will not be tolerated and will be accorded the gravest punishment the law sanctions". The Prosecution also submitted that the Accused already had a sexually transmitted disease on 15 May 2002 (the date he sought medical attention) and most probably knew he had it by the time he raped LL for the fourth time on 11 May 2002. 
 
 **The mitigation plea** 
 

@@ -18,7 +18,7 @@ _Criminal Law_ – _Offences_ – _Rape_
 
 _Criminal Procedure and Sentencing_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2015] SGHC 224.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2015] SGHC 224</span>.] 
 
 14 October 2016 Judgment reserved. 
 
@@ -206,7 +206,7 @@ happened. [note: 46] The Victim was then conveyed to the hospital. [note: 47]
 
 **The decision in the court below** 
 
-17     The trial took place in the High Court from 18 to 22 May 2015 and 25 to 27 May 2015. As mentioned, the Judge convicted Haliffie of rape under s 375(1) of the Penal Code and sentenced him to 10 years’ imprisonment and six strokes of the cane. The Judge also convicted him of robbery and sentenced him to three years’ imprisonment and 12 strokes of the cane for the robbery. The total sentence was therefore 13 years’ imprisonment and 18 strokes of the cane. The High Court’s decision is reported as _Public Prosecutor v Haliffie Bin Mamat_ [2015] SGHC 224 (“the GD”). 
+17     The trial took place in the High Court from 18 to 22 May 2015 and 25 to 27 May 2015. As mentioned, the Judge convicted Haliffie of rape under s 375(1) of the Penal Code and sentenced him to 10 years’ imprisonment and six strokes of the cane. The Judge also convicted him of robbery and sentenced him to three years’ imprisonment and 12 strokes of the cane for the robbery. The total sentence was therefore 13 years’ imprisonment and 18 strokes of the cane. The High Court’s decision is reported as _Public Prosecutor v Haliffie Bin Mamat_ <span class="citation">[2015] SGHC 224</span> (“the GD”). 
 
 **_Conviction_** 
 
@@ -227,7 +227,7 @@ happened. [note: 46] The Victim was then conveyed to the hospital. [note: 47]
 
 **_Sentence_** 
 
-20     Before the High Court, both the Prosecution and the defence submitted that the appropriate sentence for the robbery charge was three years’ imprisonment and 12 strokes of the cane. That was the sentence given for the robbery charge. For the rape charge, the Judge sentenced Haliffie to the benchmark sentence of ten years’ imprisonment and six strokes of the cane for Category 1 rape (see _Public Prosecutor v NF_ [2006] 4 SLR(R) 849 (“ _PP v NF_ ”) at [17] and [24]). In arriving at this sentence, the Judge took into account the following (the GD at [40], [41] and [49]): 
+20     Before the High Court, both the Prosecution and the defence submitted that the appropriate sentence for the robbery charge was three years’ imprisonment and 12 strokes of the cane. That was the sentence given for the robbery charge. For the rape charge, the Judge sentenced Haliffie to the benchmark sentence of ten years’ imprisonment and six strokes of the cane for Category 1 rape (see _Public Prosecutor v NF_ <span class="citation">[2006] 4 SLR(R) 849</span> (“ _PP v NF_ ”) at [17] and [24]). In arriving at this sentence, the Judge took into account the following (the GD at [40], [41] and [49]): 
 
  (a) The aggravating factors: Haliffie was in full control when he raped the Victim; Haliffie lured the Victim into his car on a false pretence, subjected her to unprotected sex, and threw her out of the car. 
 
@@ -260,7 +260,7 @@ happened. [note: 46] The Victim was then conveyed to the hospital. [note: 47]
 
  (f) The court gave excessive weight to the cautioned statement given by Haliffie on 7 May 2013 and erred in finding that the cautioned statement amounted to a confession. [note: 53] 
 
-23     On sentence, the defence submits that the global imprisonment term of 13 years’ imprisonment and 18 strokes of the cane is manifestly excessive in light of the fact that Haliffie’s culpability is much lower than the offender in _Public Prosecutor v Tan Jun Hui_ [2013] SGHC 94 (“ _PP v Tan Jun Hui_ ”), who 
+23     On sentence, the defence submits that the global imprisonment term of 13 years’ imprisonment and 18 strokes of the cane is manifestly excessive in light of the fact that Haliffie’s culpability is much lower than the offender in _Public Prosecutor v Tan Jun Hui_ <span class="citation">[2013] SGHC 94</span> (“ _PP v Tan Jun Hui_ ”), who 
 
 was sentenced to 14 years’ imprisonment and 24 strokes of the cane. [note: 54] 
 
@@ -287,28 +287,28 @@ was sentenced to 14 years’ imprisonment and 24 strokes of the cane. [note: 54]
 
 **_Applicable legal principles_** 
 
-27     We first consider how the courts have determined the question of burden of proof where a conviction is based solely on the bare words of the complainant. In _AOF v Public Prosecutor_ [2012] 3 SLR 34 (“ _AOF_ ”) at [111], this court held: 
+27     We first consider how the courts have determined the question of burden of proof where a conviction is based solely on the bare words of the complainant. In _AOF v Public Prosecutor_ <span class="citation">[2012] 3 SLR 34</span> (“ _AOF_ ”) at [111], this court held: 
 
  It is well-established that in a case where no other evidence is available, a complainant’s testimony can constitute proof beyond reasonable doubt (see s 136 of the Evidence Act (Cap 97, 1997 Rev Ed) (“EA”)) – but only when it is so “unusually convincing” as to overcome any doubts that might arise from the lack of corroboration ... 
 
-28     In _Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ [2008] 1 SLR(R) 601 (“ _Liton_ ”) at [38], this court held that to be “unusually convincing”, the witness’s testimony must be “so convincing that the Prosecution’s case was proven beyond reasonable doubt, solely on the basis of the evidence”. Elaborating further at [39], the court held that a complainant’s testimony would be unusually convincing if the testimony, “when weighed against the overall backdrop of the available facts and circumstances, contains that ring of truth which leaves the court satisfied that no reasonable doubt exists in favour of the accused”. As this court held in _AOF_ at [115], the relevant considerations in determining whether a witness is unusually convincing are his or her demeanour, as well as the internal and external consistencies found in the witness’ testimony. 
+28     In _Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">[2008] 1 SLR(R) 601</span> (“ _Liton_ ”) at [38], this court held that to be “unusually convincing”, the witness’s testimony must be “so convincing that the Prosecution’s case was proven beyond reasonable doubt, solely on the basis of the evidence”. Elaborating further at [39], the court held that a complainant’s testimony would be unusually convincing if the testimony, “when weighed against the overall backdrop of the available facts and circumstances, contains that ring of truth which leaves the court satisfied that no reasonable doubt exists in favour of the accused”. As this court held in _AOF_ at [115], the relevant considerations in determining whether a witness is unusually convincing are his or her demeanour, as well as the internal and external consistencies found in the witness’ testimony. 
 
-29     It should be noted that the “unusually convincing” standard does not introduce a new burden of proof. It “does nothing... to change the ultimate rule that the Prosecution must prove its case beyond a reasonable doubt, but it does suggest how the evidential Gordian knot may be untied if proof is to be found solely from the complainant’s testimony against the accused” ( _XP v Public Prosecutor_ [2008] 4 SLR(R) 686 at [31], cited in _AOF_ at [113]). 
+29     It should be noted that the “unusually convincing” standard does not introduce a new burden of proof. It “does nothing... to change the ultimate rule that the Prosecution must prove its case beyond a reasonable doubt, but it does suggest how the evidential Gordian knot may be untied if proof is to be found solely from the complainant’s testimony against the accused” ( _XP v Public Prosecutor_ <span class="citation">[2008] 4 SLR(R) 686</span> at [31], cited in _AOF_ at [113]). 
 
 30     Where the complainant’s evidence is not unusually convincing, “an accused’s conviction is unsafe unless there is some corroboration of the complainant’s story” ( _AOF_ at [173]). In _Liton_ at [42] and [43], this court discussed the meaning of “corroborative evidence”: 
 
  42 As to what can amount to corroborative evidence, the Evidence Act (Cap 97, 1997 Rev Ed) did not, at its inception, provide a definition of corroboration and still does not do so. However, by virtue of s 2(2), the common law is imported into the Evidence Act unless it is inconsistent with the Act’s tenor and provisions. There is thus legal justification for the judicial adoption of the common law definition of corroboration laid down in the oft-cited English decision of R v Baskerville [1916] 2 KB 658 at 667, ie , independent evidence implicating the accused in a material particular. 
 
- 43 However, it is clear that the Baskerville standard (as set out in the preceding paragraph) does not apply in its strict form in Singapore since Yong CJ, in Tang Kin Seng [ v Public Prosecutor [1996] 3 SLR(R) 444], advocated a liberal approach in determining whether a particular piece of evidence can amount to corroboration. ... 
+ 43 However, it is clear that the Baskerville standard (as set out in the preceding paragraph) does not apply in its strict form in Singapore since Yong CJ, in Tang Kin Seng [ v Public Prosecutor <span class="citation">[1996] 3 SLR(R) 444</span>], advocated a liberal approach in determining whether a particular piece of evidence can amount to corroboration. ... 
 
 This more “liberal approach” to corroboration treats subsequent complaints made by the complainant herself as corroboration provided that “the statement [implicating] the [accused] was made at the 
 
 
 first reasonable opportunity after the commission of the offence” ( _Public Prosecutor v Mardai_ [1950] MLJ 33 at 33, cited in _AOF_ at [173]). 
 
-31     It should be emphasised, however, that the above principles are intended to guide _trial judges_ in their determination of an accused’s guilt. The role of the _appellate court_ is not to re-assess the evidence in the same way a trial judge would. Instead, the principles governing appellate intervention are as follows (see _ADF v Public Prosecutor_ [2010] 1 SLR 874 (“ _ADF_ ”) at [16]): 
+31     It should be emphasised, however, that the above principles are intended to guide _trial judges_ in their determination of an accused’s guilt. The role of the _appellate court_ is not to re-assess the evidence in the same way a trial judge would. Instead, the principles governing appellate intervention are as follows (see _ADF v Public Prosecutor_ <span class="citation">[2010] 1 SLR 874</span> (“ _ADF_ ”) at [16]): 
 
- (a) Where the finding of fact hinges on the trial judge’s assessment of the credibility and veracity of witnesses based on the demeanour of the witness, the appellate court will interfere only if the finding of fact can be shown to be plainly wrong or against the weight of evidence: see PP v Mohammed Liton Mohammed Syeed Mallik [2008] 1 SLR(R) 601 at [32] and Yap Giau Beng Terence v PP [1998] 2 SLR(R) 855 (“ Yap Giau Beng Terrence ”) at [24]. An appellate court may also intervene, if, after taking into account all the advantages available to the trial judge, it concludes that the verdict is wrong in law and therefore unreasonable: Jagatheesan s/o Krishnasamy v PP [2006] 4 SLR(R) 45 (“ Jagatheesan ”) at [43]. 
+ (a) Where the finding of fact hinges on the trial judge’s assessment of the credibility and veracity of witnesses based on the demeanour of the witness, the appellate court will interfere only if the finding of fact can be shown to be plainly wrong or against the weight of evidence: see PP v Mohammed Liton Mohammed Syeed Mallik <span class="citation">[2008] 1 SLR(R) 601</span> at [32] and Yap Giau Beng Terence v PP <span class="citation">[1998] 2 SLR(R) 855</span> (“ Yap Giau Beng Terrence ”) at [24]. An appellate court may also intervene, if, after taking into account all the advantages available to the trial judge, it concludes that the verdict is wrong in law and therefore unreasonable: Jagatheesan s/o Krishnasamy v PP <span class="citation">[2006] 4 SLR(R) 45</span> (“ Jagatheesan ”) at [43]. 
 
  (b) Where the finding of fact by the trial judge is based on the inferences drawn from the internal consistency (or lack thereof) in the content of witnesses’ testimony or the external consistency between the content of their testimony and the extrinsic evidence, an appellate court is in as good a position as the trial court to assess the veracity of the witness’s evidence. The real tests are how consistent the story is within itself, how it stands the test of cross-examination, and how it fits in with the rest of the evidence and the circumstances of the case: see Jagatheesan at [40]. If a decision is inconsistent with the material objective evidence on record, appellate intervention will usually be warranted. 
 
@@ -456,7 +456,7 @@ and was critical to the conviction. The following charge was read to Haliffie tw
 
 54     Four days later, on 11 May 2013, Haliffie’s long statement was recorded. That was the first time he clearly suggested to the police that the sexual intercourse was consensual and gave the account described at [8]–[11] above. 
 
-55     We start by considering Haliffie’s account in the interview in the early morning on 7 May 2013. The statement more or less consists of a factual narration of the events that took place. The defence submits that the interview notes create reasonable doubt as to whether the cautioned statement given on the same day is a confession, and also that the Prosecution was in breach of its disclosure obligations pursuant to _Muhammad bin Kadar v Public Prosecutor_ [2011] 3 SLR 1205 (“ _Kadar_ ”) by failing to disclose the said notes. Specifically, the defence submits that: 
+55     We start by considering Haliffie’s account in the interview in the early morning on 7 May 2013. The statement more or less consists of a factual narration of the events that took place. The defence submits that the interview notes create reasonable doubt as to whether the cautioned statement given on the same day is a confession, and also that the Prosecution was in breach of its disclosure obligations pursuant to _Muhammad bin Kadar v Public Prosecutor_ <span class="citation">[2011] 3 SLR 1205</span> (“ _Kadar_ ”) by failing to disclose the said notes. Specifically, the defence submits that: 
 
  (a) Haliffie admits to robbery but not rape in the interview, lending supporting to the defence’s theory that the “mistake” he admitted to in the cautioned statement was the robbery, rather than the rape. 
 
@@ -535,7 +535,7 @@ appropriate sentence for the rape charge is _7 years’ imprisonment and 6 strok
 
 strokes of the cane) should be recalibrated in light of the totality principle so that it would not be substantially above the benchmark sentence of ten years’ imprisonment for the most serious offence 
 
-committed. [note: 82] Further, the defence submits that Haliffie’s culpability is lower than the offenders in _PP v Tan Jun Hui_ , _Sivakumar s/o Selvarajah v Public Prosecutor_ [2014] 2 SLR 1142 (“ _Selvarajah_ ”) and _Public Prosecutor v Neo Wei Siong_ (CC 16 of 2013, unreported). Finally, the defence also highlights the fact that Haliffie was under a great deal of distress over his family’s financial position, he has no antecedents, he is unlikely to re-offend and he has suffered the break-up of his marriage 
+committed. [note: 82] Further, the defence submits that Haliffie’s culpability is lower than the offenders in _PP v Tan Jun Hui_ , _Sivakumar s/o Selvarajah v Public Prosecutor_ <span class="citation">[2014] 2 SLR 1142</span> (“ _Selvarajah_ ”) and _Public Prosecutor v Neo Wei Siong_ (CC 16 of 2013, unreported). Finally, the defence also highlights the fact that Haliffie was under a great deal of distress over his family’s financial position, he has no antecedents, he is unlikely to re-offend and he has suffered the break-up of his marriage 
 
 and has to be separated from his young son. [note: 83] 
 
@@ -570,7 +570,7 @@ _12 years’ imprisonment and six strokes of the cane_. [note: 84] These are the
 
  (d) the sentence was manifestly excessive or manifestly inadequate, as the case may be. 
 
-72     In this regard, it has been held that a sentence is only manifestly excessive or inadequate if it “requires substantial alterations rather than minute corrections to remedy the injustice” ( _Public Prosecutor v Siew Boon Loong_ [2005] 1 SLR(R) 611 at [22], _ADF_ at [18]). 
+72     In this regard, it has been held that a sentence is only manifestly excessive or inadequate if it “requires substantial alterations rather than minute corrections to remedy the injustice” ( _Public Prosecutor v Siew Boon Loong_ <span class="citation">[2005] 1 SLR(R) 611</span> at [22], _ADF_ at [18]). 
 
 **_Clarifying the sentencing principles and benchmark sentences for rape_** 
 
@@ -597,7 +597,7 @@ imprisonment term of ten years and not less than six strokes of the cane as a st
 
 _Totality principle_ 
 
-76     We now consider the application of the totality principle in this context. In _Mohamed Shouffee bin Adam v Public Prosecutor_ [2014] 2 SLR 998 (“ _Shouffee_ ”) at [47], the High Court held that the totality principle “is a principle of limitation and is a manifestation of the requirement of proportionality”. It consists of two limbs ( _Shouffee_ at [54] and [57]): 
+76     We now consider the application of the totality principle in this context. In _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">[2014] 2 SLR 998</span> (“ _Shouffee_ ”) at [47], the High Court held that the totality principle “is a principle of limitation and is a manifestation of the requirement of proportionality”. It consists of two limbs ( _Shouffee_ at [54] and [57]): 
 
  54 The first limb of the totality principle examines whether “the aggregate sentence is substantially above the normal level of sentences for the most serious of the individual offences committed” [emphasis added]. This calls for a comparison between the total sentence on the one hand and a yardstick on the other hand (see Law Aik Meng at [57]) ... 
 
@@ -643,7 +643,7 @@ for Category 1 rape should be 14 years’ imprisonment. [note: 94] It is not cle
 We would add that we do not consider the fact that Haliffie was distressed by his family’s financial 
 
 
-position at the time of the offence, nor the fact that he will be apart from his family given the long term of imprisonment, to be mitigating factors. As was observed in _Public Prosecutor v Goh Lee Yin and another appeal_ [2008] 1 SLR(R) 824 at [155] in the context of sentencing mentally-ill offenders, “[f]anciful claims that are related to the vicissitudes of life will be rejected”. Further, it is also wellestablished that “[l]ittle if any weight can be attached to the fact that the family will suffer if the accused is imprisoned for a substantial period of time” ( _PP v NF_ at [60]). It must follow from this that any concern over the accused’s own suffering as a result of his separation from his family must be of little mitigating value. 
+position at the time of the offence, nor the fact that he will be apart from his family given the long term of imprisonment, to be mitigating factors. As was observed in _Public Prosecutor v Goh Lee Yin and another appeal_ <span class="citation">[2008] 1 SLR(R) 824</span> at [155] in the context of sentencing mentally-ill offenders, “[f]anciful claims that are related to the vicissitudes of life will be rejected”. Further, it is also wellestablished that “[l]ittle if any weight can be attached to the fact that the family will suffer if the accused is imprisoned for a substantial period of time” ( _PP v NF_ at [60]). It must follow from this that any concern over the accused’s own suffering as a result of his separation from his family must be of little mitigating value. 
 
 **_Sentencing precedents_** 
 
@@ -678,7 +678,7 @@ impersonated a police officer, which was an aggravating factor absent here, the 
 
 91     In the result, we dismiss the three appeals before us. 
 
-[note: 1] (^) _PP v Haliffie Bin Mamat_ [2015] SGHC 224 (“the GD”) at [50] 
+[note: 1] (^) _PP v Haliffie Bin Mamat_ <span class="citation">[2015] SGHC 224</span> (“the GD”) at [50] 
 
 
 [note: 2] (^) ROP vol 3b at p968, para 4 [note: 3] (^) ROP vol 3b at p968-969, para 5-6; [note: 4] (^) ROP vol 3 at p21, paras 10-11 [note: 5] (^) ROP vol 3 at p22, para 13 [note: 6] (^) ROP vol 3b at p970, para 16; ROP vol 3 at p22-23, para 14 [note: 7] (^) ROP vol 3b at p971, paras 18-19; ROP vol 3 at p23, para 16 [note: 8] (^) ROP vol 3b at p971, para 19-20; ROP vol 3 at p23, para 16-17 [note: 9] (^) ROP vol 3 at p19-20, paras 5-7 [note: 10] (^) ROP vol 3 at p20, para 7 [note: 11] (^) ROP vol 3 at p20, para 8 [note: 12] (^) ROP vol 3 at p21, para 9 [note: 13] (^) ROP vol 3 at p21, para 10 [note: 14] (^) ROP vol 3 at p21, para 11 [note: 15] (^) ROP vol 3 at p22, para 12 [note: 16] (^) ROP vol 3 at p22, para 12 [note: 17] (^) ROP vol 3 at p22, para 13 [note: 18] (^) ROP vol 3 at p29 [note: 19] (^) ROP vol 3 at p22, para 13 [note: 20] (^) ROP vol 3 at p22, para 13 [note: 21] (^) ROP vol 3 at p22, para 14 [note: 22] (^) ROP vol 3 at p23, para 16 [note: 23] (^) ROP vol 3 at p22-23, para 14 [note: 24] (^) ROP vol 3 at p23, para 16 

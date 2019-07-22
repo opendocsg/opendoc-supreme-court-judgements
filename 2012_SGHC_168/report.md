@@ -16,7 +16,7 @@
 
 _Administrative Law_ – _Judicial Review_ 
 
-[LawNet Editorial Note: The application in Civil Appeal No 81 of 2012/Q (Summons No 3702 of 2012/Y) was dismissed by the Court of Appeal on 15 October 2012. See [2013] SGCA 24.] 
+[LawNet Editorial Note: The application in Civil Appeal No 81 of 2012/Q (Summons No 3702 of 2012/Y) was dismissed by the Court of Appeal on 15 October 2012. See <span class="citation">[2013] SGCA 24</span>.] 
 
 24 August 2012 
 

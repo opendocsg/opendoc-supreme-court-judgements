@@ -105,7 +105,7 @@ Kan Ting Chiu J (delivering the judgment of the court):
 
 of 2000 
 
- These are proceedings in Singapore reported at [2000] 2 SLR 479 and [2000] 3 SLR 696. 
+ These are proceedings in Singapore reported at <span class="citation">[2000] 2 SLR 479</span> and <span class="citation">[2000] 3 SLR 696</span>. 
 
  The main issue in these proceedings was whether the 1988 will was valid for the purpose of creating or evidencing a trust in the assets of the estate of MHR. It was common ground that the will was not properly executed because it was not properly witnessed, and was not a valid will. 
 
@@ -144,7 +144,7 @@ of 2000
 
  In this action, the appellant sought an order that the deed be set aside on the ground of duress and/or undue influence while the respondent counter-claimed for the specific performance of the deed. 
 
-**The trial judge’s decision ([2006] SGHC 98)** 
+**The trial judge’s decision (<span class="citation">[2006] SGHC 98</span>)** 
 
 7       The trial judge found on the facts that: 
 

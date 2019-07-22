@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Murder re-sentencing_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 6 of 2013 was allowed by the Court of Appeal on 14 January 2015. See [2015] SGCA 1.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 6 of 2013 was allowed by the Court of Appeal on 14 January 2015. See <span class="citation">[2015] SGCA 1</span>.] 
 
 18 November 2013 
 
@@ -35,9 +35,9 @@ _Criminal Law_ – _Statutory offences_ – _Murder re-sentencing_
 4       The co-accused, Galing, faced a similar charge and both the convicted person and Galing were tried together. On 30 July 2010, Kan J convicted both of them of them of murder committed in furtherance of their common intention and sentenced them to receive the then mandatory death penalty. Kan J accepted that the convicted person’s offence fell within s 300( _c_ ) of the Penal Code. 
 
 
-His judgment appears at _Public Prosecutor v Galing Anak Kujat and another_ [2010] SGHC 212 (“Kan J’s judgment”). 
+His judgment appears at _Public Prosecutor v Galing Anak Kujat and another_ <span class="citation">[2010] SGHC 212</span> (“Kan J’s judgment”). 
 
-5       Both Galing and the convicted person appealed against Kan J’s decision. On 24 May 2011, the Court of Appeal affirmed the decision against the convicted person. Galing’s appeal was allowed by the Court of Appeal which substituted his conviction for murder with an offence of robbery with hurt committed in furtherance of a common intention under s 394 read with s 34 of the Penal Code (see _Kho Jabing and another v Public Prosecutor_ [2011] 3 SLR 634 at [38] – “the Court of Appeal’s judgment”). Galing’s case was remitted to Kan J for sentencing in respect of the substituted offence and he was subsequently sentenced to imprisonment for 18 years and 6 months and to receive 19 strokes of the cane. 
+5       Both Galing and the convicted person appealed against Kan J’s decision. On 24 May 2011, the Court of Appeal affirmed the decision against the convicted person. Galing’s appeal was allowed by the Court of Appeal which substituted his conviction for murder with an offence of robbery with hurt committed in furtherance of a common intention under s 394 read with s 34 of the Penal Code (see _Kho Jabing and another v Public Prosecutor_ <span class="citation">[2011] 3 SLR 634</span> at [38] – “the Court of Appeal’s judgment”). Galing’s case was remitted to Kan J for sentencing in respect of the substituted offence and he was subsequently sentenced to imprisonment for 18 years and 6 months and to receive 19 strokes of the cane. 
 
 6       On 30 April 2013, the Court of Appeal confirmed that the convicted person was convicted under s 300( _c_ ) of the Penal Code. It allowed his application for his case to be remitted to the High Court for re-sentencing under s 4(5)( _f_ ) of the PCAA. The relevant sections of the PCAA are as follow: 
 
@@ -82,11 +82,11 @@ His judgment appears at _Public Prosecutor v Galing Anak Kujat and another_ [201
 
 **The prosecution’s submissions** 
 
-12     When the law provides a maximum sentence for an offence, that maximum sentence is reserved for the worst type of cases. This expression should be understood to be marking out a range and an offence may be within it notwithstanding the fact that it could have been worse than it was (see _Sim Gek Yong v Public Prosecutor_ [1995] 1 SLR(R) 185 at [12]). 
+12     When the law provides a maximum sentence for an offence, that maximum sentence is reserved for the worst type of cases. This expression should be understood to be marking out a range and an offence may be within it notwithstanding the fact that it could have been worse than it was (see _Sim Gek Yong v Public Prosecutor_ <span class="citation">[1995] 1 SLR(R) 185</span> at [12]). 
 
 13     Where the law provides for a limited choice of the death penalty or of life imprisonment, neither of the options should be considered the default position. Instead, all the facts and circumstances must be taken into consideration in order to determine if the accused person ought to suffer the death penalty ( _Sia Ah Kew and others v Public Prosecutor_ [1974 – 1976] SLR(R) 54). In that case, which involved kidnapping for ransom, the Court of Appeal opined that the maximum sentence would be appropriate where the manner of the kidnapping or the acts or conduct of the kidnappers were such as to outrage the feelings of the community. The Court of Appeal also held that it would be wrong to take the view that the alternative sentence of life imprisonment should be imposed only when there were some very exceptional circumstances which did not justify the imposition of the death penalty. 
 
-14     The views in _Sia Ah Kew and others v Public Prosecutor_ were endorsed by the Court of Appeal in _Panya Martmontree and others v Public Prosecutor_ [1995] 2 SLR(R) 806. This was a case of gangrobbery with murder under s 396 of the Penal Code (Cap 224, 1985 Rev Ed) which provided that: 
+14     The views in _Sia Ah Kew and others v Public Prosecutor_ were endorsed by the Court of Appeal in _Panya Martmontree and others v Public Prosecutor_ <span class="citation">[1995] 2 SLR(R) 806</span>. This was a case of gangrobbery with murder under s 396 of the Penal Code (Cap 224, 1985 Rev Ed) which provided that: 
 
 
  If any one of 5 or more persons who are conjointly committing gang-robbery, commits murder in so committing gang-robbery, every one of those persons shall be punished with death or imprisonment for life, and if he is not sentenced to death, shall also be punished with caning with not less than 12 strokes. 
@@ -126,7 +126,7 @@ testified that the convicted person and Galing attacked him and the deceased ste
 
 21     The prosecution also produced statistics that showed that in the ten years since 2003, there were 25 cases of fatal assault committed in the course of robbery. Out of these 25 cases, 15 involved groups of at least two or more assailants. In 2008, the year in which the present offence took place, there were four cases of fatal assault during robbery by young foreign workers below the age of 30, like the convicted person here. The prosecution argued that “the confidence which society has in the safety and security of Singapore can only be upheld by ensuring that those who contemplate such atrocious actions know that those who show no mercy to their victims will receive no mercy from the law”. 
 
-22     A deterrent sentence would be appropriate where the offence was committed with premeditation and planning. Examples of particular circumstances of an offence which may attract general deterrence include offences committed by two or more persons and those which, in addition to harming their immediate victims, also have the wider-felt impact of triggering unease and offending the sensibilities of the general public (see _Public Prosecutor v Law Aik Meng_ [2007] 2 SLR(R) 814 at [25]). 
+22     A deterrent sentence would be appropriate where the offence was committed with premeditation and planning. Examples of particular circumstances of an offence which may attract general deterrence include offences committed by two or more persons and those which, in addition to harming their immediate victims, also have the wider-felt impact of triggering unease and offending the sensibilities of the general public (see _Public Prosecutor v Law Aik Meng_ <span class="citation">[2007] 2 SLR(R) 814</span> at [25]). 
 
 23     The deceased was 40 years old at the time of his demise. He was from a rural village in China and had come to Singapore to earn a living as a construction worker. His untimely death would doubtlessly bring indescribable grief to his family in China. 
 

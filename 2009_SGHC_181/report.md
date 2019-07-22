@@ -153,7 +153,7 @@ employers in the car sales industry will not hire the plaintiff because she walk
 
 **_The Distinction between Loss of Earnings and Loss of Earning Capacity_** 
 
-30     The difference between loss of future earnings and loss of future earning capacity was explained by Scarman LJ in _Smith v Manchester Corp_ (1974) 17 KIR 1. This dictum was accepted by the Singapore Court of Appeal in the case of _Chang Ah Lek v Lim Ah Koon_ [1999] 1 SLR 82. Scarman LJ stated that: 
+30     The difference between loss of future earnings and loss of future earning capacity was explained by Scarman LJ in _Smith v Manchester Corp_ (1974) 17 KIR 1. This dictum was accepted by the Singapore Court of Appeal in the case of _Chang Ah Lek v Lim Ah Koon_ <span class="citation">[1999] 1 SLR 82</span>. Scarman LJ stated that: 
 
 
  Loss of future earnings or future earning capacity is usually compounded of two elements. The first is when a victim of an accident finds that he or she can, as a result of the accident, no longer earn his or her pre-accident rate of earnings. In such a case there is an existing reduction in earning capacity which can be calculated as an annual sum. It is then perfectly possible to form a view as to the working life of the plaintiff and, taking the usual contingencies into account, to apply to that annual sum of loss of earnings a figure which is considered to be the appropriate number of years’ purchase in order to reach a capital figure. 
@@ -162,7 +162,7 @@ employers in the car sales industry will not hire the plaintiff because she walk
 
  The second element in this type of loss is the weakening of the plaintiff’s competitive position in the open labour market: that is to say, should the plaintiff lose her current employment, what are her chances of obtaining comparable employment in the open labour market? The evidence here is plain — that, in the event (which one hopes will never materialise) of her losing her employment with Manchester Corporation she, with a stiff shoulder and a disabled right arm, is going to have to compete in the domestic labour market with women who are physically fully able. This represents a serious weakening of her competitive position in the one market into which she can go to obtain employment. It is for that reason that it is quite wrong to describe this weakness as a ‘possible’ loss of earning capacity: it is an existing loss: she is already weakened to that extent, though fortunately she is protected for the time being against suffering any financial damage because she does not, at present, have to go into the labour market. 
 
-31     In the case of _Teo Sing Keng v Sim Bian Kiat_ [1994] 1 SLR 634, Yong Pung How CJ, delivering the judgment of the Court of Appeal, gave the following guidelines on when an award for loss of earning capacity is more appropriate than an award for loss of future earnings (at [36]–[37] and [40]): 
+31     In the case of _Teo Sing Keng v Sim Bian Kiat_ <span class="citation">[1994] 1 SLR 634</span>, Yong Pung How CJ, delivering the judgment of the Court of Appeal, gave the following guidelines on when an award for loss of earning capacity is more appropriate than an award for loss of future earnings (at [36]–[37] and [40]): 
 
 
  Although loss of earnings and loss of earning capacity have sometimes been used interchangeably, they are separate heads of damage. Lord Denning MR in Fairley v John Thompson (Design & Contracting Division) Ltd at p 42 alluded to this difference: 
@@ -215,10 +215,10 @@ _The Appropriate Multiplicand in the Present Case_
 
 **_Multiplier_** 
 
-41     I agreed with the multiplier of 15 years used by the AR in the present case. The plaintiff was 27 years old at the time of the accident and 29 at the time of the assessment. A similar multiplier has been adopted in previous cases involving plaintiffs of similar age. In _Teo Seng Kiat v Goh Hwa Teck_ [2003] 1 SLR 333 G P Selvam J allowed a multiplier of 18 for a 28-year-old plaintiff. In _Suriaty Bte Mohamed Sabit & Anor v Ng Soon Sai_ [1996] SGHC 187 Goh Joon Seng J used a multiplier of 15 for a plaintiff who was aged 25 at the time of the accident and 28 at the time of assessment. In _Delgro Corp Ltd & Anor v Chia Siew Kiong_ [1999] 4 SLR 745, Warren LH Khoo J commented that a multiplier of 
+41     I agreed with the multiplier of 15 years used by the AR in the present case. The plaintiff was 27 years old at the time of the accident and 29 at the time of the assessment. A similar multiplier has been adopted in previous cases involving plaintiffs of similar age. In _Teo Seng Kiat v Goh Hwa Teck_ <span class="citation">[2003] 1 SLR 333</span> G P Selvam J allowed a multiplier of 18 for a 28-year-old plaintiff. In _Suriaty Bte Mohamed Sabit & Anor v Ng Soon Sai_ <span class="citation">[1996] SGHC 187</span> Goh Joon Seng J used a multiplier of 15 for a plaintiff who was aged 25 at the time of the accident and 28 at the time of assessment. In _Delgro Corp Ltd & Anor v Chia Siew Kiong_ <span class="citation">[1999] 4 SLR 745</span>, Warren LH Khoo J commented that a multiplier of 
 
 
-12     for a plaintiff aged 36 was ‘quite conservative’. In _Fu Yik Min v Khoo Kim Thong_ [2004] SGDC 110 the district court judge applied a multiplier of 14 in a case involving a 28 year old plaintiff. 
+12     for a plaintiff aged 36 was ‘quite conservative’. In _Fu Yik Min v Khoo Kim Thong_ <span class="citation">[2004] SGDC 110</span> the district court judge applied a multiplier of 14 in a case involving a 28 year old plaintiff. 
 
 42     Therefore, I held that the multiplicand of $3,233 should be adopted for the first seven and a half years, and a reduced multiplicand of $2,533 should be adopted for the next seven and a half years. Thus, the total award for the plaintiff’s loss of earnings was reduced from $581,940 to $518,940 ($3,233 x 12 x 7.5 + $2,533 x 12 x 7.5). 
 

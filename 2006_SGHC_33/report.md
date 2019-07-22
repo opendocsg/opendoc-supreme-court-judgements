@@ -157,11 +157,11 @@ The plaintiff’s counsel confirmed as much when he said (at p 63 of the transcr
 
 This was, of course, a departure from the plaintiff’s pleadings where at paras 4 and 7 of the statement of claim the plaintiff made clear that where the agreement was made by conduct, the conduct consisted of _past dealings_ between the parties during the trial period between January and October 1997. Despite objection from the three defendants’ counsel that the plaintiff had departed from its pleaded case, no application was made to amend the pleadings. 
 
-24     It is clear that “[a] court may not make a finding or give a decision on facts not pleaded and a finding or decision so made will be set aside”: _per_ GP Selvam JC (as he then was) in _Multi-Pak Singapore Pte Ltd v Intraco Ltd_ [1992] 2 SLR 793 at 800, [24]. In _Blay v Pollard and Morris_ [1930] 1 KB 628 at 634, Scrutton LJ stated: 
+24     It is clear that “[a] court may not make a finding or give a decision on facts not pleaded and a finding or decision so made will be set aside”: _per_ GP Selvam JC (as he then was) in _Multi-Pak Singapore Pte Ltd v Intraco Ltd_ <span class="citation">[1992] 2 SLR 793</span> at 800, [24]. In _Blay v Pollard and Morris_ [1930] 1 KB 628 at 634, Scrutton LJ stated: 
 
  Cases must be decided on the issues on the record; and if it is desired to raise other issues they must be placed on the record by amendment. In the present case the issue on which the judge decided was raised by himself without amending the pleadings, and in my opinion he was not entitled to take such a course. 
 
-The above statement was cited with approval by the Court of Appeal in _The Ohm Mariana_ [1993] 2 SLR 698 at 715, [51]. And in _Ong Seow Pheng v Lotus Development Corp_ [1997] 3 SLR 137 at [40], the Court of Appeal refused to hold the appellants liable as joint tortfeasors in the absence of a plea to that effect. The court reiterated the fundamental principle that the court cannot make a finding based on facts which have not been pleaded. 
+The above statement was cited with approval by the Court of Appeal in _The Ohm Mariana_ <span class="citation">[1993] 2 SLR 698</span> at 715, [51]. And in _Ong Seow Pheng v Lotus Development Corp_ <span class="citation">[1997] 3 SLR 137</span> at [40], the Court of Appeal refused to hold the appellants liable as joint tortfeasors in the absence of a plea to that effect. The court reiterated the fundamental principle that the court cannot make a finding based on facts which have not been pleaded. 
 
 25     It was also not open to the plaintiff to contend that the unsigned draft Business Agent Contract formed part of the agreement between the plaintiff and the first defendant on the basis that the terms thereof had been accepted by subsequent conduct. 
 
@@ -293,7 +293,7 @@ Thus, even if there was a mercantile agency relationship, there was no proof tha
 
 60     In regard to both types of conspiracy, no evidence was led to prove any agreement. In fact, nowhere in the affidavits of evidence-in-chief filed on behalf of the plaintiff is there any mention of the conspiracy claim. 
 
-61     In _Seagate Technology (S) Pte Ltd v Heng Eng Li_ [1994] 1 SLR 534 at 549, [54] Goh Phai Cheng JC in the Singapore High Court, said: 
+61     In _Seagate Technology (S) Pte Ltd v Heng Eng Li_ <span class="citation">[1994] 1 SLR 534</span> at 549, [54] Goh Phai Cheng JC in the Singapore High Court, said: 
 
  [T]he starting point in a claim in conspiracy is an agreement or understanding between two or more persons to carry out an act or acts. The existence of such an agreement must be proved before [the court needs] to consider the predominant purpose for which the act or acts are carried out and the means by which such acts are carried out. ... The burden of proving the existence of an agreement ... is on the [plaintiff] and ... a high degree of proof is needed. 
 
@@ -305,7 +305,7 @@ On appeal to the Court of Appeal, the learned judicial commissioner’s decision
 
 64     The particulars in the statement of claim as to conspiracy to use unlawful means allege the involvement of only the first three defendants. 
 
-65     Counsel for the plaintiff sought to rely on _Belmont Finance Corporation v Williams Furniture Ltd (No 2)_ [1980] 1 All ER 393 (“ _Belmont Finance_ ”) for the proposition that a company, being a legal person, is capable in law of conspiring with its directors. Counsel for the Defendants, on the other hand, cited _Chong Hon Kuan Ivan v Levy Maurice (No 2)_ [2004] 4 SLR 801 (“ _Chong Hon Kuan Ivan_ ”) for the proposition that a director cannot be liable in tort for conspiracy with the company if he acted _bona fide_ within the scope of his authority. 
+65     Counsel for the plaintiff sought to rely on _Belmont Finance Corporation v Williams Furniture Ltd (No 2)_ [1980] 1 All ER 393 (“ _Belmont Finance_ ”) for the proposition that a company, being a legal person, is capable in law of conspiring with its directors. Counsel for the Defendants, on the other hand, cited _Chong Hon Kuan Ivan v Levy Maurice (No 2)_ <span class="citation">[2004] 4 SLR 801</span> (“ _Chong Hon Kuan Ivan_ ”) for the proposition that a director cannot be liable in tort for conspiracy with the company if he acted _bona fide_ within the scope of his authority. 
 
 66     In the latter case, the plaintiff was employed as the managing director and chief executive officer of a company for a term of five years with a provision for renewal for another five. As a result of disputes arising, a board meeting of the company was held in which one of the directors proposed a resolution to terminate the plaintiff’s employment with the company. The resolution was passed. The plaintiff then commenced an action against the directors and certain others for conspiracy to induce and for inducing the company to terminate his employment in breach of the employment contract. Woo Bih Li J held, following _Said v Butt_ [1920] 3 KB 497, that the directors could not be 
 

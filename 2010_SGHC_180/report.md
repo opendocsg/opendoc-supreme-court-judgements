@@ -345,7 +345,7 @@ mistake was to assume that the 2nd and 3 rd Defendants were of the same mind and
 
 the 2 nd Defendant in his AEIC dated 17 March 2010. 
 
-22     It is clear from the authorities, including _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029, that contracts are not made in a vacuum. Contracts like the one under consideration, not drafted by lawyers nor falling within the class of recognised commercial documents, are those where the court has often to ascertain the intention of the parties in arriving at the terms of the agreement by construing it against the relevant and clear contextual background. It is clear that this very briefly expressed Contract of ‘general principles’ did not contain the entire terms of the agreement reached between the parties. The context in which the Contract came into existence assumes some importance when it comes to construing what the parties intended by the words used. It was not a contract to which the parol evidence rule applies. Moreover no such difficulty over the parol evidence rule could arise here because the terms were extremely brief and, as noted above, this Contract did not contain the entire agreement reached 
+22     It is clear from the authorities, including _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span>, that contracts are not made in a vacuum. Contracts like the one under consideration, not drafted by lawyers nor falling within the class of recognised commercial documents, are those where the court has often to ascertain the intention of the parties in arriving at the terms of the agreement by construing it against the relevant and clear contextual background. It is clear that this very briefly expressed Contract of ‘general principles’ did not contain the entire terms of the agreement reached between the parties. The context in which the Contract came into existence assumes some importance when it comes to construing what the parties intended by the words used. It was not a contract to which the parol evidence rule applies. Moreover no such difficulty over the parol evidence rule could arise here because the terms were extremely brief and, as noted above, this Contract did not contain the entire agreement reached 
 
 
 between the parties. Applying these principles, it was clear that the Contract provided for the following: 
@@ -629,14 +629,14 @@ them stretching from 1999 to 2009 in the Subordinate Courts. The 2nd Defendant s
 
 48     It is well established that the corporate veil can be lifted to make company’s directors, the 2 nd 
 
-and 3rd Directors, liable if they had engaged in a “sham transaction” with the Plaintiff. (see _Singapore Tourism Board v Children's Media Ltd and others_ [2008] 3 SLR(R) 981 at [98]). 
+and 3rd Directors, liable if they had engaged in a “sham transaction” with the Plaintiff. (see _Singapore Tourism Board v Children's Media Ltd and others_ <span class="citation">[2008] 3 SLR(R) 981</span> at [98]). 
 
 49     In _Snook v London and West Riding Investments Ltd_ [1967] 2 QB 786, Lord Justice Diplock considered the legal concept involved in describing a transaction as a ‘sham’ at p 802: 
 
  As regards the contention of the plaintiff that the transactions between himself, Auto Finance and the defendants were a “sham”, it is, I think, necessary to consider what, if any, legal concept is involved in the use of this popular and pejorative word. I apprehend that, if it has any meaning in law, it means acts done or documents executed by the parties to the “sham” which are intended by them to give to third parties or to the court the appearance of creating between the parties legal rights and obligations different from the actual legal rights and obligations (if any) which the parties intend to create. But one thing, I think, is clear in legal principle, morality and the authorities (see Yorkshire Railway Wagon Co v Maclure (1882) 21 Ch D 309 and Stoneleigh Finance Limited v Phillips [1965] 2 QB 537), that for acts or documents to be a “sham”, with whatever legal consequences follow from this, all the parties thereto must have a common intention that the acts or documents are not to create the legal rights and obligations which they give the appearance of creating. 
 
 
-50     This case and _The Rialto, Yukong Line Ltd of Korea v Rendsburg Investments Corporation_ (No. 2) [1998] 1 Lloyd’s Rep 322 were accepted and endorsed by Justice Judith Prakash in _Win Line (UK) v Masterpart (Singapore) Pte Ltd and another_ [1999] 2 SLR(R) 24 at [38]. In the present case, 
+50     This case and _The Rialto, Yukong Line Ltd of Korea v Rendsburg Investments Corporation_ (No. 2) [1998] 1 Lloyd’s Rep 322 were accepted and endorsed by Justice Judith Prakash in _Win Line (UK) v Masterpart (Singapore) Pte Ltd and another_ <span class="citation">[1999] 2 SLR(R) 24</span> at [38]. In the present case, 
 
 the 2nd Defendant is an accountant by training and certainly knows the legal effect of a company and 
 
@@ -721,12 +721,12 @@ payments for investment plans and coaching obligations, which the 2nd and 3 rd D
 
 activities. In this sense, the 2nd and 3 rd defendants conspired with the 1 st Defendant to fraudulently enter into a contract with the Plaintiff and then to cynically breach the Contract. 
 
-54     In _Quah Kay Tee v Ong and Co Pte Ltd_ [1996] 3 SLR(R) 637, the Court of Appeal stated at [45]: 
+54     In _Quah Kay Tee v Ong and Co Pte Ltd_ <span class="citation">[1996] 3 SLR(R) 637</span>, the Court of Appeal stated at [45]: 
 
  The tort of conspiracy comprises two types: conspiracy by unlawful means and conspiracy by lawful means. A conspiracy by unlawful means is constituted when two or more persons combine to commit an unlawful act with the intention of injuring or damaging the plaintiff, and the act is carried out and the intention achieved. In a conspiracy by lawful means, there need not be an unlawful act committed by the conspirators. But there is the additional requirement of proving a "predominant purpose" by all the conspirators to cause injury or damage to the plaintiff, and the act is carried out and the purpose achieved. 
 
 
-In _Nagase Singapore Pte Ltd v Ching Hai Huat_ [2008] 1 SLR(R) 80, Prakash J held that as a matter of law that there can be a conspiracy between a company and its controlling director to damage a third party by unlawful means even where the director is the company’s moving spirit. I respectfully agree with this statement of the law. 
+In _Nagase Singapore Pte Ltd v Ching Hai Huat_ <span class="citation">[2008] 1 SLR(R) 80</span>, Prakash J held that as a matter of law that there can be a conspiracy between a company and its controlling director to damage a third party by unlawful means even where the director is the company’s moving spirit. I respectfully agree with this statement of the law. 
 
 55     Here, it was clear that the 1 st, 2nd and 3 rd defendants were involved in a conspiracy to 
 
@@ -746,7 +746,7 @@ _Torts_ , (Sweet & Maxwell, 19th Ed, 2006), at p 1623 para 25-128, states as fol
 
 **Points of Practice and Procedure** 
 
-57     Our Rules of Court (Cap 322, R5, 2006 Rev Ed)(“RSC”) currently stipulate that a company must be represented by a solicitor in court: see O 5 r 6(2) – Except as expressly provided by or under any written law, a body corporate may not begin or carry on any such proceedings otherwise than by a solicitor, and Ord 12 r.1(2) – Except as is expressly provided in any written law, a defendant to such an action who is a body corporate may not enter an appearance in the action or defend it otherwise than by a solicitor. However English cases like _Arbuthnot Leasing International v Havelet Leasing_ [1992] 1 WLR 455, at 461-463 and _Lea Tool & Moulding Industries (In Liquidation) v CGU International Insurance_ [2000] 3 SLR(R) 745 suggest that this is not an immutable rule of procedure. The former case states that there can be exceptional cases and the basis of making an exception is the court’s inherent power to regulate its own procedure. In that case, Scott J gave an example for an exception 
+57     Our Rules of Court (Cap 322, R5, 2006 Rev Ed)(“RSC”) currently stipulate that a company must be represented by a solicitor in court: see O 5 r 6(2) – Except as expressly provided by or under any written law, a body corporate may not begin or carry on any such proceedings otherwise than by a solicitor, and Ord 12 r.1(2) – Except as is expressly provided in any written law, a defendant to such an action who is a body corporate may not enter an appearance in the action or defend it otherwise than by a solicitor. However English cases like _Arbuthnot Leasing International v Havelet Leasing_ [1992] 1 WLR 455, at 461-463 and _Lea Tool & Moulding Industries (In Liquidation) v CGU International Insurance_ <span class="citation">[2000] 3 SLR(R) 745</span> suggest that this is not an immutable rule of procedure. The former case states that there can be exceptional cases and the basis of making an exception is the court’s inherent power to regulate its own procedure. In that case, Scott J gave an example for an exception 
 
 - where a Mareva injunction has been taken out against a company freezing its assets and because the company is not then in a financial position to appoint solicitors, a director may be allowed to join the proceedings to discharge or vary the Mareva injunction. In the latter case, Lai J ruled that a 
 

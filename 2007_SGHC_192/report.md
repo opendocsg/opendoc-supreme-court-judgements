@@ -275,7 +275,7 @@ but went on to state that:
 
 31     Justice is not served by releasing the first defendant from the common understanding as the poorly-drafted clause was not intended to vary the common understanding. The situation is analogous to an estoppel by convention, and the clause should be construed and applied consistently with the common understanding of the parties. 
 
-32     The first defendant also challenged the validity of the clause on another ground, that it is void for being in wrongful restraint of trade. The law on wrongful restraint of trade against former employees is quite well settled. As stated in _Buckman Laboratories (Asia) Pte Ltd v Lee Wei Hoong_ [1999] 3 SLR 333 at [21]: 
+32     The first defendant also challenged the validity of the clause on another ground, that it is void for being in wrongful restraint of trade. The law on wrongful restraint of trade against former employees is quite well settled. As stated in _Buckman Laboratories (Asia) Pte Ltd v Lee Wei Hoong_ <span class="citation">[1999] 3 SLR 333</span> at [21]: 
 
  It is well-known that an employer who wishes to enforce a restraint of trade provision in a contract with an ex-employee must show that it was intended to protect the employer’s legitimate interests and that it was reasonable in all the circumstances. In ascertaining the validity of such a clause, the first step is to determine what those interests are and the second is to consider whether the clause as drafted is no wider than is necessary to protect such 
 

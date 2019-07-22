@@ -18,7 +18,7 @@ _Administrative Law_ – _Disciplinary Tribunals_
 
 _Administrative Law_ – _Natural Justice_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2015] 3 SLR 541.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2015] 3 SLR 541</span>.] 
 
 17 February 2016 
 
@@ -136,7 +136,7 @@ The rest of the statement stated that Sim had been a useful member of the Club, 
 
 19     Dissatisfied with MC2’s decision, Sim and his wife commenced court proceedings on 20 February 2014 in OS 144/2014 for a declaration that the 8/10/2013 Decision was made in breach of the rules of natural justice, in that MC2 had prejudged the complaint against Sim as evidenced by their 25/7/ Letters. 
 
-20     As summarised by the Judge (at [29]–[31] of the judgment below, reported as _Sim Yong Teng and another v Singapore Swimming Club_ [2015] 3 SLR 541 (the “Judgment”)), the appellants advanced three arguments before him: 
+20     As summarised by the Judge (at [29]–[31] of the judgment below, reported as _Sim Yong Teng and another v Singapore Swimming Club_ <span class="citation">[2015] 3 SLR 541</span> (the “Judgment”)), the appellants advanced three arguments before him: 
 
  (a) that moral turpitude involved “conduct that shocks the public conscious [ sic ] as being inherently base, vile, or depraved, contrary to the rules of morality and the duties owed between man and man, either one’s fellow man or society in general”; that the insider trading offence for which he was convicted was a strict liability offence and that his mitigation showed that his offence was due to a genuine oversight, absent any evil intent, and not for dishonest financial gain; that accordingly his conviction involved no moral turpitude; 
 
@@ -173,9 +173,9 @@ The rest of the statement stated that Sim had been a useful member of the Club, 
 
  (f) the suspension of Sim’s membership would affect his wife’s membership of the Club. 
 
-23     Before deciding these issues, the Judge discussed the principles of natural justice applicable to social clubs by reference to _Kay Swee Pin v Singapore Island Country Club_ [2008] 2 SLR(R) 802 (“ _Kay Swee Pin_ ”) and other cases. 
+23     Before deciding these issues, the Judge discussed the principles of natural justice applicable to social clubs by reference to _Kay Swee Pin v Singapore Island Country Club_ <span class="citation">[2008] 2 SLR(R) 802</span> (“ _Kay Swee Pin_ ”) and other cases. 
 
-24     The Judge pointed out that in the present case, unlike in the cases of _Kay Swee Pin_ and _Khong Kin Hoong Lawrence v Singapore Polo Club_ [2014] 3 SLR 241 (“ _Lawrence Khong_ ”), MC2 was not sitting as a disciplinary committee under rule 13 of the Club Rules. The facts involving Sim’s conviction for insider trading had already been ascertained and the only questions were: (1) whether the conviction carried an element of moral turpitude; and (2) whether, in the opinion of MC2, Sim’s continued membership of the Club would place the Club in disrepute or embarrass it. In his view, these were inferences to be drawn from known or decided facts rather than findings of disputed facts _per se_. 
+24     The Judge pointed out that in the present case, unlike in the cases of _Kay Swee Pin_ and _Khong Kin Hoong Lawrence v Singapore Polo Club_ <span class="citation">[2014] 3 SLR 241</span> (“ _Lawrence Khong_ ”), MC2 was not sitting as a disciplinary committee under rule 13 of the Club Rules. The facts involving Sim’s conviction for insider trading had already been ascertained and the only questions were: (1) whether the conviction carried an element of moral turpitude; and (2) whether, in the opinion of MC2, Sim’s continued membership of the Club would place the Club in disrepute or embarrass it. In his view, these were inferences to be drawn from known or decided facts rather than findings of disputed facts _per se_. 
 
 25     The Judge also observed that when the management committee made a positive determination of these two required elements under rule 15(d)(i), it had no discretion but to suspend the membership of the offending member under rule 15(d)(i) and to grant a grace period of six months for that member to transfer the membership to some other person. The Judge held that the six months’ grace period to sell the membership would not “result in a severe reduction in the economic value of the membership” (Judgment at [47]). At the most, Sim would suffer a loss of the social value that came with the membership of the Club. Therefore, while the rules of natural justice were applicable to a determination made under Rule 15(d)(i), they were not to be applied with the same rigour as they were in _Kay Swee Pin_ and _Lawrence Khong_. 
 
@@ -194,7 +194,7 @@ The rest of the statement stated that Sim had been a useful member of the Club, 
 
  ... The rule of necessity gives expression to the principle that the rules of natural justice cannot be invoked to frustrate the intended operation of a statute which sets up a tribunal and requires it to perform the statutory functions entrusted to it. Or, to put the matter another way, the statutory requirement that the tribunal perform the functions assigned to it must prevail over and displace the application of the rules of natural justice. Those rules may be excluded by statute. ... 
 
-28     The Judge noted that the principle of necessity was held to be inapplicable in _Lawrence Khong_ for various fact-specific reasons (Judgment at [50]); see also [83] below). He also noted that in _Chiam See Tong v Singapore Democratic Party_ [1993] 3 SLR(R) 774 (“ _Chiam See Tong_ ”), Warren L H Khoo J applied the principle of necessity to enable the central executive committee (“CEC”) of the Singapore Democratic Party (“SDP”) to sit as a disciplinary committee despite the plaintiff’s allegations of bias against nine members of the CEC. _Chiam See Tong_ is further discussed below (at [76]–[80]). 
+28     The Judge noted that the principle of necessity was held to be inapplicable in _Lawrence Khong_ for various fact-specific reasons (Judgment at [50]); see also [83] below). He also noted that in _Chiam See Tong v Singapore Democratic Party_ <span class="citation">[1993] 3 SLR(R) 774</span> (“ _Chiam See Tong_ ”), Warren L H Khoo J applied the principle of necessity to enable the central executive committee (“CEC”) of the Singapore Democratic Party (“SDP”) to sit as a disciplinary committee despite the plaintiff’s allegations of bias against nine members of the CEC. _Chiam See Tong_ is further discussed below (at [76]–[80]). 
 
 29     Following the decisions in _Chiam See Tong_ and _Lawrence Kong_ , the Judge held that the principle of necessity was applicable to social bodies such as the Club, and that the principle was not restricted to tribunals exercising statutory functions (although the threshold to invoke it was high). In the Judgment (at [53]–[56]), the Judge held: 
 
@@ -236,7 +236,7 @@ The rest of the statement stated that Sim had been a useful member of the Club, 
 
 **_The test for apparent bias_** 
 
-33     The Judge next discussed the test for apparent bias as applied by our courts in _Re Shankar Alan s/o Anant Kulkarni_ [2007] 1 SLR(R) 85 (“ _Shankar_ ”), _Lawrence Khong, Tang Kin Hwa v Traditional Chinese Medicine Practitioners Board_ [2005] 4 SLR(R) 604 (“ _Tang Kin Hwa_ ”), _Tang Liang Hong v Lee Kuan Yew_ [1997] 3 SLR(R) 576, _Lim Mey Lee Susan v Singapore Medical Council_ [2011] 4 SLR 156 and _De Souza Lionel Jerome v Attorney-General_ [1992] 3 SLR(R) 552. He also considered the decisions of courts in other jurisdictions in _Regina (on the application of PD) v West Midlands and North West Mental Health Review Tribunal_ [2004] EWCA Civ 311, _Regina v Bow Street Metropolitan Stipendiary Magistrate and others, ex parte Pinochet Ugarte (No 2)_ [2000] 1 AC 119 (“ _Pinoc het (No 2)_ ”), _Gillies v Secretary of State for Work and Pensions_ [2006] 1 WLR 781 and _Locabail (UK) Ltd v Bayfield Properties and another_ [2000] QB 451 (“ _Locabail_ ”). 
+33     The Judge next discussed the test for apparent bias as applied by our courts in _Re Shankar Alan s/o Anant Kulkarni_ <span class="citation">[2007] 1 SLR(R) 85</span> (“ _Shankar_ ”), _Lawrence Khong, Tang Kin Hwa v Traditional Chinese Medicine Practitioners Board_ <span class="citation">[2005] 4 SLR(R) 604</span> (“ _Tang Kin Hwa_ ”), _Tang Liang Hong v Lee Kuan Yew_ <span class="citation">[1997] 3 SLR(R) 576</span>, _Lim Mey Lee Susan v Singapore Medical Council_ <span class="citation">[2011] 4 SLR 156</span> and _De Souza Lionel Jerome v Attorney-General_ <span class="citation">[1992] 3 SLR(R) 552</span>. He also considered the decisions of courts in other jurisdictions in _Regina (on the application of PD) v West Midlands and North West Mental Health Review Tribunal_ [2004] EWCA Civ 311, _Regina v Bow Street Metropolitan Stipendiary Magistrate and others, ex parte Pinochet Ugarte (No 2)_ [2000] 1 AC 119 (“ _Pinoc het (No 2)_ ”), _Gillies v Secretary of State for Work and Pensions_ [2006] 1 WLR 781 and _Locabail (UK) Ltd v Bayfield Properties and another_ [2000] QB 451 (“ _Locabail_ ”). 
 
 34     After referring to these decisions, the Judge held that the applicable test was that, without referring to _Porter v Magill_ [2002] 2 AC 357 (“ _Porter v Magill_ ”), set out in that decision. (Judgment at [71]): 
 
@@ -260,7 +260,7 @@ The rest of the statement stated that Sim had been a useful member of the Club, 
 38     On this issue, the Judge stated that since a court was slow to disturb the findings of a 
 
 
-disciplinary tribunal as it did not sit on appeal from the decision of that tribunal (citing _Kay Swee Pin_ at [2], and _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ [2012] 1 SLR 506), there was no basis for him to disturb MC2’s finding that Sim’s insider trading conviction involved moral turpitude. 
+disciplinary tribunal as it did not sit on appeal from the decision of that tribunal (citing _Kay Swee Pin_ at [2], and _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ <span class="citation">[2012] 1 SLR 506</span>), there was no basis for him to disturb MC2’s finding that Sim’s insider trading conviction involved moral turpitude. 
 
 **_Issue (5) – Should the Court disturb MC2’s opinion that Sim’s continued membership would bring disrepute to and embarrass the Club_** 
 
@@ -320,7 +320,7 @@ disciplinary tribunal as it did not sit on appeal from the decision of that trib
 **_Actual and apparent bias_** 
 
 
-45     The rules of natural justice include the rule against bias. In _Yong Vui Kong v Attorney-General_ [2011] 2 SLR 1189, it was held (at [90]): 
+45     The rules of natural justice include the rule against bias. In _Yong Vui Kong v Attorney-General_ <span class="citation">[2011] 2 SLR 1189</span>, it was held (at [90]): 
 
  90 ... the word “bias” should be understood as denoting both actual bias and apparent bias since the legal objection to apparent bias applies a fortiori to actual bias, especially bias that amounts to a predetermination of the relevant matter to be decided. ... 
 
@@ -604,7 +604,7 @@ In contrast, reconstituting the panel in a private body is always feasible by ch
 
 101    The Club submitted the appellants were not entitled to aggravated damages, but damages for mental distress could be awarded for breach of contract, but that the appellants have failed to adduce any evidence of mental distress to justify an award of damages for this head of claim. 
 
-102    In our view, the appellants are not entitled to claim aggravated damages for breach of contract. Contractual damages are compensatory in nature. In _Kay Swee Pin v Singapore Island Country Club_ [2008] SGHC 143 (“ _Kay Swee Pin (AD)_ ”), which also involved the wrongful suspension of club membership, the Assistant Registrar provided an admirable analysis of the applicable principles of law in holding that Madam Kay was entitled to (a) damages for deprivation of her rights, and privileges as a member (including the loss of use of the facilities of the SICC); (b) damages for the humiliation, embarrassment, anguish and mental distress caused by the wrongful suspension; but not to (c) aggravated, exemplary and punitive damages. We endorse his analysis of the law. 
+102    In our view, the appellants are not entitled to claim aggravated damages for breach of contract. Contractual damages are compensatory in nature. In _Kay Swee Pin v Singapore Island Country Club_ <span class="citation">[2008] SGHC 143</span> (“ _Kay Swee Pin (AD)_ ”), which also involved the wrongful suspension of club membership, the Assistant Registrar provided an admirable analysis of the applicable principles of law in holding that Madam Kay was entitled to (a) damages for deprivation of her rights, and privileges as a member (including the loss of use of the facilities of the SICC); (b) damages for the humiliation, embarrassment, anguish and mental distress caused by the wrongful suspension; but not to (c) aggravated, exemplary and punitive damages. We endorse his analysis of the law. 
 
 
 103    We accordingly hold that the appellants are entitled only to general damages, if any, relating the temporary loss of membership rights and privileges and mental distress, and direct that such damages be assessed by the Registrar or any Assistant Registrar. 

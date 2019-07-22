@@ -22,7 +22,7 @@ _Family Law_ – _Maintenance_ – _Wife_ – _Maintenance of former wife_ – _
 
 **Lai Kew Chai J:** 
 
-1       This appeal turned on the principles governing the determination of the quantum of maintenance for a former wife. I heard the wife’s appeal against the decision of the district judge of the Family and Juvenile Courts ordering the husband to pay her lump sum maintenance of $40, (see [2004] SGDC 248). At the conclusion of the hearing of the appeal, I allowed the appeal and ordered the husband to pay the wife maintenance at $3,500 per month for three years and thereafter at $2,500 per month. I further ordered that the husband had the option to elect, in writing within two weeks from the date of the order, to pay the wife lump sump maintenance of $216,000 by two instalments, payable on 15 January 2005 and 15 January 2006. 
+1       This appeal turned on the principles governing the determination of the quantum of maintenance for a former wife. I heard the wife’s appeal against the decision of the district judge of the Family and Juvenile Courts ordering the husband to pay her lump sum maintenance of $40, (see <span class="citation">[2004] SGDC 248</span>). At the conclusion of the hearing of the appeal, I allowed the appeal and ordered the husband to pay the wife maintenance at $3,500 per month for three years and thereafter at $2,500 per month. I further ordered that the husband had the option to elect, in writing within two weeks from the date of the order, to pay the wife lump sump maintenance of $216,000 by two instalments, payable on 15 January 2005 and 15 January 2006. 
 
 2       I now set out the material facts and the reasons for the decisions I made. 
 

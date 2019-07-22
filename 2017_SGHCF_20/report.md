@@ -35,7 +35,7 @@ _Civil Procedure_ – _Appeals_ – _Extension of Time_
 4       The principles for granting an extension of time are not in dispute. As stated by the Court of 
 
 
-Appeal in _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ [2008] 1 SLR(R) 757 (“ _Lee Hsien Loong_ ”) at [18] (cited recently in _Werner Samuel Vuillemin v Oversea-Chinese Banking Corp Ltd_ [2017] 3 SLR 501 at [15]), four factors are to be considered: 
+Appeal in _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ <span class="citation">[2008] 1 SLR(R) 757</span> (“ _Lee Hsien Loong_ ”) at [18] (cited recently in _Werner Samuel Vuillemin v Oversea-Chinese Banking Corp Ltd_ <span class="citation">[2017] 3 SLR 501</span> at [15]), four factors are to be considered: 
 
  (a) the length of the delay; 
 
@@ -53,7 +53,7 @@ Appeal in _Lee Hsien Loong v Singapore Democratic Party and others and another s
 
 **_Chances of appeal succeeding_** 
 
-7       In considering the merits of the appeal, the court may adopt a very low standard. _Lee Hsien Loong_ at [19] enjoined the court to consider whether the appeal is “hopeless”, citing _Aberdeen Asset Management Asia Ltd v Fraser & Neave Ltd_ [2001] 3 SLR(R) 355 at [43]: 
+7       In considering the merits of the appeal, the court may adopt a very low standard. _Lee Hsien Loong_ at [19] enjoined the court to consider whether the appeal is “hopeless”, citing _Aberdeen Asset Management Asia Ltd v Fraser & Neave Ltd_ <span class="citation">[2001] 3 SLR(R) 355</span> at [43]: 
 
  As to the question of merits, it is not for the court at this stage to go into a full-scale examination of the issues involved. Neither is it necessary for the applicant to show that he will succeed in the appeal. The threshold is lower: the test is, is the appeal hopeless? ... Unless one can say that there are no prospects of the applicant succeeding on the appeal, this is a factor which ought to be considered to be neutral rather than against him. 
 
@@ -148,11 +148,11 @@ _Assessment of the length of delay_
 
 21     I did not agree that the length of the delay should be calculated with reference to 8 August 
 
-2016\. I accept that in _Falmac Ltd v Cheng Ji Lai Charlie and another matter_ [2014] 4 SLR 202, the Court of Appeal took the length of delay as the time between the last day for filing a notice of appeal and the day on which the applicant filed an originating summons seeking an extension of time (at [18]). In the present case, the originating summons filed on 8 August 2016 is not the same originating summons that was before me on 30 March 2017. Although the applicant _filed_ OSN 20/2016 on 8 August 2016, he failed to _serve_ OSN 20/2016 on the correct address. Consequently, the respondent did not receive notice of the application for an extension of time to appeal. When granted leave to amend and re-serve OSN 20/2016 on payment of $600 in costs to the respondent, the applicant neglected to pay the costs. OSN 20/2016 was then struck out. Rather than complying with the costs order in order to restore the OSN, the applicant waited until 2 November 2016 to file a new OSN. 
+2016\. I accept that in _Falmac Ltd v Cheng Ji Lai Charlie and another matter_ <span class="citation">[2014] 4 SLR 202</span>, the Court of Appeal took the length of delay as the time between the last day for filing a notice of appeal and the day on which the applicant filed an originating summons seeking an extension of time (at [18]). In the present case, the originating summons filed on 8 August 2016 is not the same originating summons that was before me on 30 March 2017. Although the applicant _filed_ OSN 20/2016 on 8 August 2016, he failed to _serve_ OSN 20/2016 on the correct address. Consequently, the respondent did not receive notice of the application for an extension of time to appeal. When granted leave to amend and re-serve OSN 20/2016 on payment of $600 in costs to the respondent, the applicant neglected to pay the costs. OSN 20/2016 was then struck out. Rather than complying with the costs order in order to restore the OSN, the applicant waited until 2 November 2016 to file a new OSN. 
 
 22     The length of delay in this case was, at the very least, the time between the last day for filing a notice of appeal, 29 July 2016, and the day on which the applicant filed the _present_ application, 2 November 2016. This was a period of about three months, which was far in excess of the two-week appeal window provided in r 825 of the Family Justice Rules 2014 (S 813/2014). 
 
-23     It should be noted that even a delay of 49 days has been held by the Court of Appeal to be “[b]y any standard ... very substantial” ( _AD v AE_ [2004] 2 SLR(R) 505 at [11]). In light of this, the delay of over three months in this case was a factor which militated in favour of dismissing the application for an extension of time. 
+23     It should be noted that even a delay of 49 days has been held by the Court of Appeal to be “[b]y any standard ... very substantial” ( _AD v AE_ <span class="citation">[2004] 2 SLR(R) 505</span> at [11]). In light of this, the delay of over three months in this case was a factor which militated in favour of dismissing the application for an extension of time. 
 
 **_Reasons for delay_** 
 
@@ -194,7 +194,7 @@ Mr Singh’s secretary that she had no instructions on the execution of the tran
 
 Further, the transfer documents were only sent to Ms Sharma at 12.10pm on 10 April 2017. [note: 12] Ms Sharma refused to accept them. Mr Singh followed up with two letters to the court, first at 1. pm and then at 9.19 pm, requesting further arguments (“the 10 April Letters”) 
 
-32     In the letter sent to the court on 10 April 2017 at 9.19 pm, Mr Singh stated that he had misinterpreted my orders on 6 April 2017. It seems he had the mistaken impression that he had a total of eight days to sign and return _both_ the transfer documents as well as the mortgage-in-escrow, rather than one day to sign and return the transfer documents and eight days to sign and return the mortgage-in-escrow. Case law is clear, however, that a mistake by a solicitor is insufficient reason to justify granting an extension of time to file a notice of appeal (see _Kunal Gobind Lalchandani v Konduri Prakash Murthy_ [2005] SGHC 94 at [35] citing _Denko-HLB Sdn Bhd v Fagerdala Singapore Pte Ltd_ [2002] 3 SLR 357 at [13]–[14]). More importantly, I found it difficult to accept Mr Singh’s explanation. On 6 April 2017, he clearly communicated that he understood the orders, which were explained and repeated to him. The claims about his alleged confusion were made only by way of letter, without the support of an affidavit. Moreover, the account given in the 10 April Letters was inconsistent with what Mr Singh told the court at the hearing on 18 April 2017 in several ways: First, Mr Singh stated in the 10 April Letters that “on 7 April 2017 [his] client was only able to come to our office to execute 
+32     In the letter sent to the court on 10 April 2017 at 9.19 pm, Mr Singh stated that he had misinterpreted my orders on 6 April 2017. It seems he had the mistaken impression that he had a total of eight days to sign and return _both_ the transfer documents as well as the mortgage-in-escrow, rather than one day to sign and return the transfer documents and eight days to sign and return the mortgage-in-escrow. Case law is clear, however, that a mistake by a solicitor is insufficient reason to justify granting an extension of time to file a notice of appeal (see _Kunal Gobind Lalchandani v Konduri Prakash Murthy_ <span class="citation">[2005] SGHC 94</span> at [35] citing _Denko-HLB Sdn Bhd v Fagerdala Singapore Pte Ltd_ <span class="citation">[2002] 3 SLR 357</span> at [13]–[14]). More importantly, I found it difficult to accept Mr Singh’s explanation. On 6 April 2017, he clearly communicated that he understood the orders, which were explained and repeated to him. The claims about his alleged confusion were made only by way of letter, without the support of an affidavit. Moreover, the account given in the 10 April Letters was inconsistent with what Mr Singh told the court at the hearing on 18 April 2017 in several ways: First, Mr Singh stated in the 10 April Letters that “on 7 April 2017 [his] client was only able to come to our office to execute 
 
 the Transfer [documents] after 6pm”. Before me he claimed that his “client only came at 4pm”. [note: 13] Secondly, Mr Singh stated in the 10 April Letters that his office attempted to deliver the signed 
 
@@ -210,7 +210,7 @@ and appeals thereon” and that the respondent “has been compensated in terms 
 
 **Conclusion** 
 
-35     The Court of Appeal’s guidance in _Sun Jin Engineering Pte Ltd v Hwang Jae Woo_ [2011] 2 SLR 196 at [30] is instructive: 
+35     The Court of Appeal’s guidance in _Sun Jin Engineering Pte Ltd v Hwang Jae Woo_ <span class="citation">[2011] 2 SLR 196</span> at [30] is instructive: 
 
  In our view, what the aforesaid authorities show is that in each case, the court, in deciding 
 

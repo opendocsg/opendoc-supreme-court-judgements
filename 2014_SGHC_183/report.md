@@ -287,7 +287,7 @@ negotiation and amendment by the solicitors of both parties, [note: 54] and the 
 
 49     There was, however, a problem in these clauses. Under the express contractual framework, the time for completion was contingent on the grant of HDB’s approval but the OTP did not specify any time limit for such approval to be obtained, or a long stop date for the determination of the contract. It put no obligation on the Purchaser to pursue the relevant approvals beyond the submission of the applications. The end result was that if the Purchaser had simply sat on his hands after making the applications, and the relevant authorities remained silent, the OTP could continue indefinitely. I note that cl 15 of the Conditions of Sale allowed for the parties to issue a Notice to Complete but that, again, may only be given after the completion date. The parties would find themselves in limbo. 
 
-50     The question then is whether the court should intervene, and if so, how. I am guided by the Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp Marine_ ”), which laid down a three-step test for implication of terms in fact (at [101]): 
+50     The question then is whether the court should intervene, and if so, how. I am guided by the Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp Marine_ ”), which laid down a three-step test for implication of terms in fact (at [101]): 
 
  (a) The first step is to ascertain how the gap in the contract arises. Implication will be considered only if the court discerns that the gap arose because the parties did not contemplate the gap. 
 
@@ -314,7 +314,7 @@ during the drafting and signing of the OTP. [note: 55] I disagreed. I was disapp
 
 ordinary meaning of the language of cl 12a”. [note: 56] It did not seem to me that this was a plain reading of the clause at all. 
 
-56     Nevertheless, the Purchaser could hardly have disputed that it did have this obligation, based on the authority of _Tan Soo Leng David v Wee, Satku & Kumar Pte Ltd and another_ [1997] 3 SLR(R) 257 (“ _Tan Soo Leng David (HC)_ ”). It was stated by Judith Prakash J at [61]: 
+56     Nevertheless, the Purchaser could hardly have disputed that it did have this obligation, based on the authority of _Tan Soo Leng David v Wee, Satku & Kumar Pte Ltd and another_ <span class="citation">[1997] 3 SLR(R) 257</span> (“ _Tan Soo Leng David (HC)_ ”). It was stated by Judith Prakash J at [61]: 
 
  61 It is established law that where a contractual provision provides that performance by one party is subject to the consent of a third party, the first party cannot say that having asked for such consent thereafter the matter is completely out of his hands so that if the consent is not forthcoming he is released from further performance. Rather, as the Court of Appeal put it in this case, to avail himself of the right to rescind, such party has a duty to show that he has taken all reasonable steps to obtain the consent of the third party or that it was useless for him to pursue the matter with the third party after the initial withholding of consent because it would have been quite impossible for him to obtain the consent of the third party. ... 
 
@@ -360,7 +360,7 @@ intention of the parties, he would not have waited to highlight this fact. [note
 
 66     Before I turn to consider whether the Purchaser had in fact taken all reasonable steps to obtain HDB’s approval, I have to first consider whether HDB had actually refused to give its written approval. If not, then the Purchaser’s purported notice to rescind on 25 September 2012 would have no effect. The Purchaser argued that HDB had done so by its email to KW on 24 September 2012 when Mr Leong informed KW that, since NEA’s consent has not been obtained, HDB was unable to grant in-principle approval. This email was in response to KW’s email dated 21 September 2012 where KW had asked Mr Leong, _in light of NEA’s rejection_ , to confirm the status of the Purchaser’s application for HDB’s approval. 
 
-67     In a strict sense, Mr Leong did “refuse”, but not every “refusal” by the authority would entail a sufficient refusal for the purposes of cl 12(a) of the OTP. In _Group Exklusiv Pte Ltd v Diethelm Singapore Pte Ltd_ [2003] 4 SLR(R) 582 (“ _Group Exklusiv_ ”), Choo Han Teck J considered the effect of the following clause: 
+67     In a strict sense, Mr Leong did “refuse”, but not every “refusal” by the authority would entail a sufficient refusal for the purposes of cl 12(a) of the OTP. In _Group Exklusiv Pte Ltd v Diethelm Singapore Pte Ltd_ <span class="citation">[2003] 4 SLR(R) 582</span> (“ _Group Exklusiv_ ”), Choo Han Teck J considered the effect of the following clause: 
 
  (e) If the consent of HDB, LTA and other relevant authorities in respect of the sale and purchase and the change of use and the erection of the private access road is not obtained or refused by the date falling one (1) month before the date fixed for completion, the sale and purchase may, at either party’s option, be rescinded, whereupon all monies (including but not limited to the deposit and goods and services tax, if any) paid by the Purchaser herein shall be refunded to the Purchaser without any interest or compensation. [Emphasis added] 
 
@@ -381,7 +381,7 @@ approval). [note: 62]
 
 _The applicable law_ 
 
-72     In _KS Energy Services Ltd v BR Energy (M) Sdn Bhd_ [2014] 2 SLR 905 (“ _KS Energy_ ”), the Court of Appeal considered the effect of an “all reasonable endeavours” obligation, albeit in the context of a n _express_ contractual provision. It held that the test for whether an “all reasonable endeavours” obligation had been fulfilled would ordinarily be the same as the test for determining whether a “best endeavours” obligation has been fulfilled (at [62]). This was the test laid down in _Travista Development Pte Ltd v Tan Kim Swee Augustine_ [2008] 2 SLR(R) 474, which was restated by the Court of appeal in _KS Energy_ as follows (at [47]): 
+72     In _KS Energy Services Ltd v BR Energy (M) Sdn Bhd_ <span class="citation">[2014] 2 SLR 905</span> (“ _KS Energy_ ”), the Court of Appeal considered the effect of an “all reasonable endeavours” obligation, albeit in the context of a n _express_ contractual provision. It held that the test for whether an “all reasonable endeavours” obligation had been fulfilled would ordinarily be the same as the test for determining whether a “best endeavours” obligation has been fulfilled (at [62]). This was the test laid down in _Travista Development Pte Ltd v Tan Kim Swee Augustine_ <span class="citation">[2008] 2 SLR(R) 474</span>, which was restated by the Court of appeal in _KS Energy_ as follows (at [47]): 
 
  47 Travista lays down the following propositions regarding a “best endeavours” obligation: 
 
@@ -522,7 +522,7 @@ success on appeal, I think it was incumbent on the Purchaser to try.
 
 97     Even though it had prayed for a variety of declaratory orders, the Vendor did not address this point in its closing submissions at all. They only made some arguments in their rebuttal submissions in response to the Purchaser’s closing submissions. 
 
-98     With respect to the 1st to 4th Declaratory Orders, it was accepted by the Court of Appeal in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd_ [2006] 1 SLR(R) 112 at [14] that “any person whose interests might be affected by the declaration should be before the court”. Undoubtedly, NEA was such an interested party. The Vendor could have joined NEA as a defendant in the counterclaim but it did not do so. The Vendor did not even call anyone from NEA as a witness. 
+98     With respect to the 1st to 4th Declaratory Orders, it was accepted by the Court of Appeal in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd_ <span class="citation">[2006] 1 SLR(R) 112</span> at [14] that “any person whose interests might be affected by the declaration should be before the court”. Undoubtedly, NEA was such an interested party. The Vendor could have joined NEA as a defendant in the counterclaim but it did not do so. The Vendor did not even call anyone from NEA as a witness. 
 
 99     The Vendor relied on the passage in _London Passenger Transport Board v Moscrop_ [1942] AC 332 at 345 which stated that “ _except in very special circumstances_ , all persons interested should be made parties, whether by representation orders or otherwise, before a declaration by its terms 
 
@@ -534,7 +534,7 @@ Moreover, the 1st, 3rd and 4th Declaratory Orders were inconsistent with my find
 
 101    As for the 5th Declaratory Order, I declined to grant such an order because it assumed that NEA’s letter dated 23 November 2012 approved the Purchaser’s intended use of the Property, which has not been established. 
 
-102    Finally, as for the 6th and 7th Declaratory Orders, I declined to grant those orders. The power to grant a declaration is discretionary, and where the court feels that a declaration will serve no useful purpose, no declaration will be granted (see _Latham Scott v Credit Suisse First Boston_ [2000] 2 SLR(R) 30 at [74]). I was of the view that this was the case. 
+102    Finally, as for the 6th and 7th Declaratory Orders, I declined to grant those orders. The power to grant a declaration is discretionary, and where the court feels that a declaration will serve no useful purpose, no declaration will be granted (see _Latham Scott v Credit Suisse First Boston_ <span class="citation">[2000] 2 SLR(R) 30</span> at [74]). I was of the view that this was the case. 
 
 **_Specific performance_** 
 
@@ -574,13 +574,13 @@ appeal (although this issue is quite different from the question of whether it w
 
 **_Forfeiture of the Deposit_** 
 
-115    Finally, there was the question of the Deposit. This was quite separate from the question of damages – the Vendor is not required to prove loss before it may be entitled to forfeit the Deposit. In _Lee Chee Wei v Tan Hor Peow Victor and others and another appeal_ [2007] 3 SLR(R) 537 (“ _Lee Chee Wei_ ”), the Court of Appeal summarised the law relating to deposits at [83] and [84]: 
+115    Finally, there was the question of the Deposit. This was quite separate from the question of damages – the Vendor is not required to prove loss before it may be entitled to forfeit the Deposit. In _Lee Chee Wei v Tan Hor Peow Victor and others and another appeal_ <span class="citation">[2007] 3 SLR(R) 537</span> (“ _Lee Chee Wei_ ”), the Court of Appeal summarised the law relating to deposits at [83] and [84]: 
 
- 83 The law relating to deposits in a sale and purchase contract and its recoverability has been considered in some depth in Triangle Auto Pte Ltd v Zheng Zi Construction Pte Ltd [2000] 3 SLR(R) 594 which held (at [9]) as follows: 
+ 83 The law relating to deposits in a sale and purchase contract and its recoverability has been considered in some depth in Triangle Auto Pte Ltd v Zheng Zi Construction Pte Ltd <span class="citation">[2000] 3 SLR(R) 594</span> which held (at [9]) as follows: 
 
  ... A deposit in a sale and purchase contract, if nothing more is said about it, is a security for damages for breach of contract. If the seller has not suffered any damage he must return it to the depositor. If, however, the contract provides that the deposit is to be forfeited to the seller upon breach by the purchaser, and provided the amount of deposit is customary or moderate, the seller is entitled to retain it even if he suffered no loss. ... 
 
- 84 The invariable judicial approach to forfeitable deposits at common law is that the deposit will be forfeited to the payee upon the discharge of the contract on the default of the payer, irrespective of whether it would have been deemed part-payment had the contract been completed. The payer cannot insist on abandoning the contract and yet expect to recover the deposit as this would enable him to take advantage of his own wrong ( Howe v Smith (1884) 27 Ch D 89 at 98). An advance payment, on the other hand, does not fall within the category of forfeitable deposits and is neither designed nor intended to secure performance ( Lim Lay Bee v Allgreen Properties Ltd [1998] 3 SLR(R) 1028 (" Lim Lay Bee ")). This is underscored by the premise that the vendor is already amply protected by the recovery of damages he has sustained ( Dies v British and International Mining and Finance Corporation Limited [1939] 1 KB 724). 
+ 84 The invariable judicial approach to forfeitable deposits at common law is that the deposit will be forfeited to the payee upon the discharge of the contract on the default of the payer, irrespective of whether it would have been deemed part-payment had the contract been completed. The payer cannot insist on abandoning the contract and yet expect to recover the deposit as this would enable him to take advantage of his own wrong ( Howe v Smith (1884) 27 Ch D 89 at 98). An advance payment, on the other hand, does not fall within the category of forfeitable deposits and is neither designed nor intended to secure performance ( Lim Lay Bee v Allgreen Properties Ltd <span class="citation">[1998] 3 SLR(R) 1028</span> (" Lim Lay Bee ")). This is underscored by the premise that the vendor is already amply protected by the recovery of damages he has sustained ( Dies v British and International Mining and Finance Corporation Limited [1939] 1 KB 724). 
 
  [emphasis added in bold] 
 
@@ -595,7 +595,7 @@ appeal (although this issue is quite different from the question of whether it w
 
 119    On 8 August 2014, after delivering my oral judgment, I directed counsel to give me written submissions on the issue of costs. After considering the matter, I now give my decision. I do not think that the Vendor should get its full costs even though it succeeded on the main claim, as they failed on a substantial part of the counterclaim, which they had not pursued with diligence. I award the Vendor 70% of its costs, to be taxed if not agreed. 
 
-120    The Vendor also asked for a costs order against Cheong personally. The overarching rule that governs the exercise of the court’s discretion in ordering costs against a non-party is that it must, in all circumstances of the case, be just to do so (see _Goh Eileen née Chia and another v Goh Mei Ling Yvonne and another_ [2014] SGHC 141 at [8]). I am of the view that it would be inappropriate for me to do so, and I decline to so order. 
+120    The Vendor also asked for a costs order against Cheong personally. The overarching rule that governs the exercise of the court’s discretion in ordering costs against a non-party is that it must, in all circumstances of the case, be just to do so (see _Goh Eileen née Chia and another v Goh Mei Ling Yvonne and another_ <span class="citation">[2014] SGHC 141</span> at [8]). I am of the view that it would be inappropriate for me to do so, and I decline to so order. 
 
 [note: 1] (^) Cheong’s AEIC, para 1. [note: 2] (^) Cheong’s Supplementary AEIC, para 4. [note: 3] (^) NE, 15 Apr 2014, p 61 lines 2–4; see DB, p 4. [note: 4] (^) Cheong’s Supplementary AEIC, para 6. [note: 5] (^) AB 58. [note: 6] (^) AB 76. [note: 7] (^) Cheong’s Supplementary AEIC, p 41. [note: 8] (^) Cheong’s AEIC, para 41; AB 89–90. [note: 9] (^) NE, 15 Apr 2014, p 84, lines 9–15. [note: 10] (^) NE, 15 Apr 2014, p 86, lines 1–11. [note: 11] (^) AB 93 [note: 12] (^) Jason’s AEIC, p 14. [note: 13] (^) Jason’s AEIC, para 8. [note: 14] (^) Cheong’s Supplementary AEIC, p 41. [note: 15] (^) Cheong’s Supplementary AEIC, p 43. 
 

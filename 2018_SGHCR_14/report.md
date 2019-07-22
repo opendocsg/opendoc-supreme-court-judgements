@@ -78,7 +78,7 @@ _Trusts_ – _Constructive Trusts_
 
 **_Parties’ Arguments_** 
 
-15     Counsel for the Plaintiff, Ms Lee Ping (“Ms Lee”), submitted that the documents sought were irrelevant to the OS. The key authority she relied on was the High Court decision of _Lai Hoon Woon (executor and trustee of the estate of Lai Thai Lok, deceased) v Lai Foong Sin and another_ [2016] SGHC 113 (“ _Lai Hoon Woon_ ”). In particular, she cited the following observations of the court ( _Lai Hoon_ 
+15     Counsel for the Plaintiff, Ms Lee Ping (“Ms Lee”), submitted that the documents sought were irrelevant to the OS. The key authority she relied on was the High Court decision of _Lai Hoon Woon (executor and trustee of the estate of Lai Thai Lok, deceased) v Lai Foong Sin and another_ <span class="citation">[2016] SGHC 113</span> (“ _Lai Hoon Woon_ ”). In particular, she cited the following observations of the court ( _Lai Hoon_ 
 
 
 _Woon_ at [95]): 
@@ -93,7 +93,7 @@ _Woon_ at [95]):
 
 17     When queried as to why the Plaintiff had adduced considerable amounts of evidence of her financial contributions to the Property, Ms Lee explained that this was by way of “background information” only. 
 
-18     Counsel for the Defendants, Mr Alexander Yeo (“Mr Yeo”), disagreed with Ms Lee’s submissions. He pointed out that in the very passage cited by Ms Lee, the court had clearly recognised that financial contributions were relevant for determining the common intention of the parties. He also added that courts have, on various occasions, considered the sources of funds used for the purchase of property in determining whether a common intention constructive trust arose on the facts, although he acknowledged that these decisions did not relate directly to discovery obligations: see, _eg_ , _Wong Meng Cheong and another v Ling Ai Wah and another_ [2012] 1 SLR 549 and _Ng So Hang v Wong Sang Woo_ [2018] SGHC 162 (“ _Ng So Hang_ ”). 
+18     Counsel for the Defendants, Mr Alexander Yeo (“Mr Yeo”), disagreed with Ms Lee’s submissions. He pointed out that in the very passage cited by Ms Lee, the court had clearly recognised that financial contributions were relevant for determining the common intention of the parties. He also added that courts have, on various occasions, considered the sources of funds used for the purchase of property in determining whether a common intention constructive trust arose on the facts, although he acknowledged that these decisions did not relate directly to discovery obligations: see, _eg_ , _Wong Meng Cheong and another v Ling Ai Wah and another_ <span class="citation">[2012] 1 SLR 549</span> and _Ng So Hang v Wong Sang Woo_ <span class="citation">[2018] SGHC 162</span> (“ _Ng So Hang_ ”). 
 
 19     On the facts of the present case, Mr Yeo submitted that the Plaintiff’s true position was that the alleged common intention was demonstrated by her financial contributions to the Property, as evident from paragraph 1.3.10 of the Plaintiff’s OS Affidavit: 
 
@@ -114,7 +114,7 @@ _Woon_ at [95]):
 
 22     In determining the first issue, it was necessary to examine briefly the law on common intention constructive trusts. In essence, a person acquires a beneficial interest in a property pursuant to a common intention constructive trust when he relies, to his detriment, on a common intention that the beneficial interest in that property is to be shared. Such common intention may arise from _express_ discussion, be _inferred_ from evidence of that person’s financial contributions to the purchase price of the property, or exceptionally, be _implied_ by other relevant conduct of that person: see, _eg_ , _Lai Hoon Woon_ at [95]. 
 
-23     Where parties claim, in the absence of an express trust, beneficial interests in a property that differ from the legal interest, common intention constructive trust analysis must be considered in the context of the analytical framework for approaching such situations, as set out in _Chan Yuen Lan v See Fong Mun_ [2014] 3 SLR 1048 (“ _Chan Yuen Lan_ ”) at [160]: 
+23     Where parties claim, in the absence of an express trust, beneficial interests in a property that differ from the legal interest, common intention constructive trust analysis must be considered in the context of the analytical framework for approaching such situations, as set out in _Chan Yuen Lan v See Fong Mun_ <span class="citation">[2014] 3 SLR 1048</span> (“ _Chan Yuen Lan_ ”) at [160]: 
 
  160 In view of our discussion above, a property dispute involving parties who have contributed unequal amounts towards the purchase price of a property and who have not executed a declaration of trust as to how the beneficial interest in the property is to be apportioned can be broadly analysed using the following steps in relation to the available evidence: 
 

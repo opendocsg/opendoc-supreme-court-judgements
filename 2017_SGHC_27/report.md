@@ -32,7 +32,7 @@ _Damages_ – _Interest_
 
 **Introduction** 
 
-1       In _Main-line Corporation v United Overseas Bank and another_ [2016] SGHC 285 (“the judgment on damages”), I delivered my decision for the Assessment Hearing and directed (at [94] of that decision) the parties to file and serve written submissions regarding the appropriate interest and costs orders. Pursuant to my directions, the parties filed and served their respective written submissions. As some clarification was required on the Offers to Settle (“OTS”) made by UOB and by FCC as well as on the computation of interest, I asked the parties to attend before me in chambers on 7 February 2017 for a short hearing on these points. 
+1       In _Main-line Corporation v United Overseas Bank and another_ <span class="citation">[2016] SGHC 285</span> (“the judgment on damages”), I delivered my decision for the Assessment Hearing and directed (at [94] of that decision) the parties to file and serve written submissions regarding the appropriate interest and costs orders. Pursuant to my directions, the parties filed and served their respective written submissions. As some clarification was required on the Offers to Settle (“OTS”) made by UOB and by FCC as well as on the computation of interest, I asked the parties to attend before me in chambers on 7 February 2017 for a short hearing on these points. 
 
 **Offers to settle** 
 
@@ -142,7 +142,7 @@ account notwithstanding the fact that it was subsequently withdrawn. [note: 20]
 
 **_Decision_** 
 
-14     It was undisputed that the period that any costs orders would relate to the period that starts on 31 October 2007, the date of the Court of Appeal’s judgment in _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd and another appeal_ [2008] 1 SLR(R) 335. 
+14     It was undisputed that the period that any costs orders would relate to the period that starts on 31 October 2007, the date of the Court of Appeal’s judgment in _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd and another appeal_ <span class="citation">[2008] 1 SLR(R) 335</span>. 
 
 15     Under O 22A r 9(3) of the ROC, where an offer to settle is made by a defendant and — 
 

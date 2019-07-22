@@ -202,13 +202,13 @@ _Identification of the appellant_
 
 -In order to corroborate the testimony of a witness, any former statement made by such witness, whether written or verbal, on oath, or in ordinary conversation, relating to the same fact at or about the time when the fact took place, or before any authority legally competent to investigate the fact, may be proved. 
 
-Applying _Tang Kin Seng v Public Prosecutor_ [1997] 1 SLR 46, the judge was of the view that Yana's statement was only valuable as evidence of consistency. 
+Applying _Tang Kin Seng v Public Prosecutor_ <span class="citation">[1997] 1 SLR 46</span>, the judge was of the view that Yana's statement was only valuable as evidence of consistency. 
 
 _Reliability of Dino's evidence_ 
 
 21     Counsel for the defence argued that Dino's evidence was unreliable for two reasons. First, Dino was an accomplice. Thus, his evidence should be treated with caution in accordance with illustration (b) of s116 of the Evidence Act. Secondly, Dino's evidence was inconsistent. In court, Dino stated that he saw the appellant having sexual intercourse with Nana on three occasions on the morning of 14 July 1999. However, he stated in his statement to the police on 7 August 1999 that he did not know if the appellant had had sexual intercourse with Nana. Due to this inconsistency, counsel for the defence applied to impeach Dino's credit during the trial. 
 
-22     The judge held that the fact that Dino was an accomplice did not render his evidence unreliable. As stated in _Chai Chien Wei Kelvin v Public Prosecutor_ [1999] 1 SLR 25, the presumption under illustration (b) to s 116 of the Evidence Act was not 
+22     The judge held that the fact that Dino was an accomplice did not render his evidence unreliable. As stated in _Chai Chien Wei Kelvin v Public Prosecutor_ <span class="citation">[1999] 1 SLR 25</span>, the presumption under illustration (b) to s 116 of the Evidence Act was not 
 
 
 mandatory but permissive. If the court, after examining the circumstances of the case, did not see an attempt by the accomplice to minimise his own involvement or exaggerate that of the accused there was no reason to regard his evidence as being unreliable. In this case, there was no reason for Dino to falsely implicate the appellant. Dino had pleaded guilty and had been convicted and sentenced. Far from implicating the appellant, Dino had tried to exclude references to the appellant in his statement of facts in the charge against him. In spite of that, Dino could not avoid making reference to the fact that the appellant had had sexual intercourse with Nana in the statement of facts. He also had no choice but to give evidence when required by the prosecution to do so. Accordingly, the judge did not think that Dino had reason to falsely implicate the appellant. 

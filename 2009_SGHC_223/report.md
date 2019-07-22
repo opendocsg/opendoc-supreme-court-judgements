@@ -154,7 +154,7 @@ The sec ond plaintiff filed an affidavit whic h set out the c irc umstanc es in 
 
 **Section 216A** 
 
-11     Sec tion 216A rec eived the attention of the Court of Appeal in _Pang Yong Hock v PKS Contracts Services Pte Ltd_ [2004] 3 SLR 1 (“ _Pang Yong Hock_ ”). The Court referred to earlier dec isions of the High Court in _Teo Gek Luang v Ng Ai Tiong_ [1999] 1 SLR 434 (“ _Teo Gek Luang_ ”) and _Agus Irawan v Toh Teck Chye_ [2002] 2 SLR 198 (“ _Agus Irawan_ ”) with approval. In _Teo Gek Luang_ , Lai Kew Chai J held at [15] that when an applic ation under s 216A was made: 
+11     Sec tion 216A rec eived the attention of the Court of Appeal in _Pang Yong Hock v PKS Contracts Services Pte Ltd_ <span class="citation">[2004] 3 SLR 1</span> (“ _Pang Yong Hock_ ”). The Court referred to earlier dec isions of the High Court in _Teo Gek Luang v Ng Ai Tiong_ <span class="citation">[1999] 1 SLR 434</span> (“ _Teo Gek Luang_ ”) and _Agus Irawan v Toh Teck Chye_ <span class="citation">[2002] 2 SLR 198</span> (“ _Agus Irawan_ ”) with approval. In _Teo Gek Luang_ , Lai Kew Chai J held at [15] that when an applic ation under s 216A was made: 
 
  [T]he c ourt at the leave stage was not c alled upon to adjudic ate on the disputes of fac ts and inferenc es, relying merely on affidavit evidenc e. Those matters would be for trial. The c ourt had to see if there was prima fac ie merit to it. 
 

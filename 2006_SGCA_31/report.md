@@ -28,7 +28,7 @@ _Words and Phrases_ – _"Lot"_ – _Whether strata lot must be separately asses
 
 **Lai Siu Chiu J (delivering the grounds of decision of the court):** 
 
-1       This was an appeal by Aspinden Holdings Limited (“the Appellant”) against the decision of Andrew Ang J (“the judge”) holding, _inter alia_ , that the Chief Assessor and Comptroller of Property Tax (“the Respondents”) were entitled to amalgamate the Appellant’s property tax accounts and thereby reduce the amount of property tax rebates which the Appellant was otherwise entitled to (see [2006] SGHC 72). We dismissed the appeal and now set out our reasons. 
+1       This was an appeal by Aspinden Holdings Limited (“the Appellant”) against the decision of Andrew Ang J (“the judge”) holding, _inter alia_ , that the Chief Assessor and Comptroller of Property Tax (“the Respondents”) were entitled to amalgamate the Appellant’s property tax accounts and thereby reduce the amount of property tax rebates which the Appellant was otherwise entitled to (see <span class="citation">[2006] SGHC 72</span>). We dismissed the appeal and now set out our reasons. 
 
 **The facts** 
 

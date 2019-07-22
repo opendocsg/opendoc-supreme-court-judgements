@@ -88,7 +88,7 @@ Name Charge Sentence
 
 Samad (one of the scouts) & s 147 3 years + 6 strokes 
 
-17     The defence relied on the principles enunciated in _PP v Tan Kei Loon Allan_ [1999] 2 SLR 288 which I shall elaborate on later. 
+17     The defence relied on the principles enunciated in _PP v Tan Kei Loon Allan_ <span class="citation">[1999] 2 SLR 288</span> which I shall elaborate on later. 
 
 18     The prosecution submitted the following as aggravating factors: 
 
@@ -117,7 +117,7 @@ In my view, this statement was taken out of context by the prosecution. That was
 
 22     Ultimately, the prosecution relied heavily on the sentence meted out to one of the Accused’s accomplices Muhamad Hasik Bin Sahar (“Hasik”). As mentioned above, he received a sentence of life imprisonment and 16 strokes of the cane whereas others received much less. However, the others were not charged under s 304(a) as was Hasik and the Accused before me. 
 
-23     The prosecution submitted that the Accused’s role was more aggravating than Hasik’s because the Accused had used a knife whereas Hasik did not. I would add that in the judgment of Tay Yong Kwang JC (as he then was), the judge recognised that Hasik’s culpability might have been lower than that of Syamsul, Sharul and the Accused (see [2002] 3 SLR 149 at p 156, para 8). 
+23     The prosecution submitted that the Accused’s role was more aggravating than Hasik’s because the Accused had used a knife whereas Hasik did not. I would add that in the judgment of Tay Yong Kwang JC (as he then was), the judge recognised that Hasik’s culpability might have been lower than that of Syamsul, Sharul and the Accused (see <span class="citation">[2002] 3 SLR 149</span> at p 156, para 8). 
 
 24     I found the views expressed by the Court of Appeal in _PP v Tan Kei Loon Allan_ very helpful. In that case, the accused was also charged under s 304(a) of the Penal Code. The background facts were that the accused was a member of a secret society. He and other members of their secret society were assaulted at Bugis Junction by members of another secret society, the Sio Gi Ho Secret Society. Being outnumbered, they dispersed and later agreed to reconvene at Parklane Shopping Centre the same night. The accused bought 2 knives. He kept one and handed the other to one of his gang members. At Parklane Shopping Centre, some gang members of the accused’s secret society confronted the deceased and asked him what gang he belonged to. The deceased replied he was a member of the Sio Gi Ho Secret Society. Thereupon three members of the accused’s gang assaulted the deceased while one stood guard and warned the deceased’s two friends not to interfere. Two other members of the accused’s gang then arrived at the scene and joined in the assault. The deceased fell to the ground and covered his head. At this point, the accused, armed with a knife, came running and called to the others to clear a way for him. He rushed in and stabbed the deceased once in his lower back. This inflicted a deep wound which caused the deceased’s death en route to hospital. There was no evidence that the deceased had participated in the earlier attack on the accused and his friends at Bugis Junction. 
 
@@ -200,7 +200,7 @@ Date Offence Sentence
 
  consecutive with DAC10831/ 
 
-30     As regards the prosecution’s submission that the Accused had progressed from non-violent offences to the present one, I was of the view that this should not mean that he should be treated akin to one who had a previous conviction for a violent offence. Accordingly, his antecedents should have no bearing on the case before me, see _Roslan bin Abdul Rahman v PP_ [1999] 2 SLR 211. 
+30     As regards the prosecution’s submission that the Accused had progressed from non-violent offences to the present one, I was of the view that this should not mean that he should be treated akin to one who had a previous conviction for a violent offence. Accordingly, his antecedents should have no bearing on the case before me, see _Roslan bin Abdul Rahman v PP_ <span class="citation">[1999] 2 SLR 211</span>. 
 
 31     In the circumstances, I was of the view that life imprisonment would not be appropriate and I sentenced the Accused to the next highest punishment of ten years with 16 strokes of the cane. 
 

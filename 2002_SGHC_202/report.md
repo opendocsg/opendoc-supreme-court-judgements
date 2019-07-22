@@ -80,9 +80,9 @@ started business from early 2001.
 
 18\. The Plaintiffs’ application is to attach assets belonging to the Defendants within and outside the jurisdiction. 
 
-19\. In _SSAB Oxelosund AB v Xendral Trading Pte Ltd_ [1992] 1 SLR 600, the defendants successfully set aside the ex-parte order prohibiting the defendants, their servants or agents from disposing the hull proceeds following the sinking of the vessel "PROTEKTOR" with her cargo on board in severe weather. Lai Siu Chiu JC (as she then was) held that a worldwide mareva injunction order is a draconian measure to be ordered only in exceptional circumstances. See also _Wallace Kevin James v Merrill Lynch International Bank Ltd_ [1998] 1 SLR 785 at 793 and _Republic of Haiti & Ors v Duvalier & Ors_ [1990] 1QB 202 at 215. The situation must be so exceptional as to "cry out" as a matter of justice to the plaintiffs for an order covering foreign assets of the defendants before judgment: Kerr LJ in _Babanaft International Co SA v Bassatne_ [1990] Ch 13 at 33 
+19\. In _SSAB Oxelosund AB v Xendral Trading Pte Ltd_ <span class="citation">[1992] 1 SLR 600</span>, the defendants successfully set aside the ex-parte order prohibiting the defendants, their servants or agents from disposing the hull proceeds following the sinking of the vessel "PROTEKTOR" with her cargo on board in severe weather. Lai Siu Chiu JC (as she then was) held that a worldwide mareva injunction order is a draconian measure to be ordered only in exceptional circumstances. See also _Wallace Kevin James v Merrill Lynch International Bank Ltd_ <span class="citation">[1998] 1 SLR 785</span> at 793 and _Republic of Haiti & Ors v Duvalier & Ors_ [1990] 1QB 202 at 215. The situation must be so exceptional as to "cry out" as a matter of justice to the plaintiffs for an order covering foreign assets of the defendants before judgment: Kerr LJ in _Babanaft International Co SA v Bassatne_ [1990] Ch 13 at 33 
 
-20\. In my view, the facts in evidence relied upon by the Plaintiffs do not even satisfy the test for a mareva injunction of assets within Singapore let alone an order to attach assets outside the jurisdiction where a more stringent test is demanded. A plaintiff seeking to freeze assets within the jurisdiction must as a pre-condition to the grant of the injunction adduce "solid evidence" of a risk of dissipation: _Choy Chee Keen Collin v Public Utilities Board_ [1997] 1 SLR 604; _Petromar Energy Resources Pte Ltd v Glencore International AG_ [1999] 2 SLR 609. 
+20\. In my view, the facts in evidence relied upon by the Plaintiffs do not even satisfy the test for a mareva injunction of assets within Singapore let alone an order to attach assets outside the jurisdiction where a more stringent test is demanded. A plaintiff seeking to freeze assets within the jurisdiction must as a pre-condition to the grant of the injunction adduce "solid evidence" of a risk of dissipation: _Choy Chee Keen Collin v Public Utilities Board_ <span class="citation">[1997] 1 SLR 604</span>; _Petromar Energy Resources Pte Ltd v Glencore International AG_ <span class="citation">[1999] 2 SLR 609</span>. 
 
 21\. I was not persuaded by the Plaintiffs that on the affidavit evidence taken as a whole the 
 
@@ -93,7 +93,7 @@ behaviour of the Defendants was such as to seek to frustrate, or was in a way de
 
 23\. Lai Siu Chiu JC (as she then was) in _SSAB Oxelosund AB v Xendral Trading Pte Ltd_ at p 607 observed that one-ship company "is a norm rather than an exception in the shipowing industry". 
 
-24\. Again, Amarjeet JC In _The Skaw Prince_ [1994] 3 SLR 379 at p 386 said: 
+24\. Again, Amarjeet JC In _The Skaw Prince_ <span class="citation">[1994] 3 SLR 379</span> at p 386 said: 
 
  "It is well known that businesses engaged in shipping set up a n d utilize one-ship companies within their corporate structure for the purpose of limiting liability. The device has been around and recognized by the courts as a legitimate one .." 
 

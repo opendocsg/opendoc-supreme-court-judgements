@@ -20,7 +20,7 @@ _Damages_ – _Assessment_
 
 _Equity_ – _Satisfaction_ 
 
-[LawNet Editorial Note: The appeal from this decision in Civil Appeal No 93 of 2017 was allowed by the Court of Appeal on 15 August 2018. See [2018] SGCA 48.] 
+[LawNet Editorial Note: The appeal from this decision in Civil Appeal No 93 of 2017 was allowed by the Court of Appeal on 15 August 2018. See <span class="citation">[2018] SGCA 48</span>.] 
 
 16 August 2017 
 
@@ -40,7 +40,7 @@ order below; and awarded $5,000 to the Plaintiff as costs of the appeal. [note: 
 
 **Background** 
 
-4       The factual matrix of the main suit (“the Suit”) is set out in my judgment in respect of an earlier Registrar’s Appeal: see _Low Heng Leon Andy v Low Kian Beng Lawrence (administrator of the estate of Tan Ah Kng, deceased)_ [2013] 3 SLR 710 at [2]–[6]. The key facts for these grounds of decision are as follows. 
+4       The factual matrix of the main suit (“the Suit”) is set out in my judgment in respect of an earlier Registrar’s Appeal: see _Low Heng Leon Andy v Low Kian Beng Lawrence (administrator of the estate of Tan Ah Kng, deceased)_ <span class="citation">[2013] 3 SLR 710</span> at [2]–[6]. The key facts for these grounds of decision are as follows. 
 
 **_The key facts_** 
 
@@ -127,11 +127,11 @@ _Southwell v Blackburn_ [2014] EWCA Civ 1347 (“ _Southwell_ ”). [note: 21]
 
 **My decision** 
 
-15     It is settled law that, in an appeal to a judge in chambers against an assistant registrar’s decision on an assessment of damages, the judge exercises confirmatory rather than appellate jurisdiction. The judge may decide the matter afresh, albeit that due weight should be given to the decision below: see _Tan Boon Heng v Lau Pang Cheng David_ [2013] 4 SLR 718 at [16] and [46(a)]. 
+15     It is settled law that, in an appeal to a judge in chambers against an assistant registrar’s decision on an assessment of damages, the judge exercises confirmatory rather than appellate jurisdiction. The judge may decide the matter afresh, albeit that due weight should be given to the decision below: see _Tan Boon Heng v Lau Pang Cheng David_ <span class="citation">[2013] 4 SLR 718</span> at [16] and [46(a)]. 
 
 **_The law_** 
 
-16     In _Lim Chin San Contractors Pte Ltd v Shiok Kim Seng (trading as IKO Precision Toolings) and another appeal_ [2013] 2 SLR 279 (“ _Lim Chin San_ ”), the Court of Appeal (“the CA”) set out the governing principles for assessing equitable compensation, in relation to a claim in proprietary estoppel, at [42] as follows: 
+16     In _Lim Chin San Contractors Pte Ltd v Shiok Kim Seng (trading as IKO Precision Toolings) and another appeal_ <span class="citation">[2013] 2 SLR 279</span> (“ _Lim Chin San_ ”), the Court of Appeal (“the CA”) set out the governing principles for assessing equitable compensation, in relation to a claim in proprietary estoppel, at [42] as follows: 
 
  (a) Upon the equity arising, its value and how it should be satisfied are matters for the court’s discretion. 
 

@@ -16,7 +16,7 @@
 
 _Companies_ – _Members_ – _Derivative action_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 113 of 2014 and Summons No 293 of 2015 was dismissed by the Court of Appeal on 25 November 2015. See [2016] SGCA 17.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 113 of 2014 and Summons No 293 of 2015 was dismissed by the Court of Appeal on 25 November 2015. See <span class="citation">[2016] SGCA 17</span>.] 
 
 29 May 2015 
 
@@ -336,7 +336,7 @@ Petroships is trying to do is to help Wealthplus recover its assets. [note: 42] 
 _The allocation of the legal and evidential burdens_ 
 
 
-66     The burden of proof on the issue of good faith under s 216A(3)( _b_ ) lies on the applicant: _Ang Thiam Swee v Low Hian Chor_ [2013] 2 SLR 340 (“ _Ang Thiam Swee_ ”) at [23]. There is no presumption that an applicant under s 216A is acting in good faith which the respondent must then rebut ( _cf Agus Irawan v Toh Teck Cheng_ [2002] 1 SLR(R) 471 (“ _Agus Irawan_ ”) at [9]). 
+66     The burden of proof on the issue of good faith under s 216A(3)( _b_ ) lies on the applicant: _Ang Thiam Swee v Low Hian Chor_ <span class="citation">[2013] 2 SLR 340</span> (“ _Ang Thiam Swee_ ”) at [23]. There is no presumption that an applicant under s 216A is acting in good faith which the respondent must then rebut ( _cf Agus Irawan v Toh Teck Cheng_ <span class="citation">[2002] 1 SLR(R) 471</span> (“ _Agus Irawan_ ”) at [9]). 
 
 67     The burden of proof referred to in _Ang Thiam Swee_ is the legal burden. The applicant therefore bears the burden, after all the evidence is in, of satisfying the court on the balance of probabilities that it is acting in good faith. Wigmore calls this the risk of non-persuasion. Even if the applicant goes far enough to leave the court in perfect equipoise on the issue of good faith, the applicant has failed to persuade the court and therefore loses on that issue. 
 
@@ -355,7 +355,7 @@ _An applicant’s approach to good faith_
 
 company. That is because the latter test, if satisfied, is often a circumstance from which the former can be inferred. Note that it is the _inquiries_ which overlap. The concepts themselves and the statutory tests employing them are distinct. 
 
-73     It is because the inquiries overlap that a court is entitled – but not of course bound – to infer that an applicant is acting in good faith if it finds that the applicant’s derivative action is “a legitimate claim which the directors are unreasonably reluctant to pursue with the appropriate vigour or at all”: see _Pang Yong Hock and another v PKS Contracts Services Pte Ltd_ [2004] 3 SLR(R) 1 (“ _Pang Yong Hock_ ”) at [20]. By the same token, a court is entitled – though again not bound – to infer that an applicant lacks good faith if it finds the derivative action to be frivolous or vexatious: _Ang Thiam Swee_ at [55]. 
+73     It is because the inquiries overlap that a court is entitled – but not of course bound – to infer that an applicant is acting in good faith if it finds that the applicant’s derivative action is “a legitimate claim which the directors are unreasonably reluctant to pursue with the appropriate vigour or at all”: see _Pang Yong Hock and another v PKS Contracts Services Pte Ltd_ <span class="citation">[2004] 3 SLR(R) 1</span> (“ _Pang Yong Hock_ ”) at [20]. By the same token, a court is entitled – though again not bound – to infer that an applicant lacks good faith if it finds the derivative action to be frivolous or vexatious: _Ang Thiam Swee_ at [55]. 
 
 74     The result of all of this is that an applicant who meet its evidential burden on the “ _prima facie_ interests of the company” test in s 216A(3)( _c_ ) also meets in a practical sense, albeit incidentally, its evidential burden on the “good faith” test in s 216A(3)( _b_ ). 
 
@@ -419,7 +419,7 @@ The two non-exhaustive factors which appear in the first proposition above are d
 
 identical facts and depends on the same evidence as Petroships’ fourth action. [note: 43] The derivative action is therefore an abuse of the process of the court in the sense that it would either: (i) involve the process of the court being used for some ulterior or improper purpose or in an improper way rather than being used fairly or honestly; or (ii) because the derivative action would be the fifth in a string of multiple or successive proceedings which cause or are likely to cause the respondents 
 
-improper vexation or oppression. [note: 44] This submission relies on the second and fourth category of abuse of the process of the court identified in _Chee Siok Chin and others v Minister for Home Affairs and another_ [2006] 1 SLR(R) 582 at [34]. 
+improper vexation or oppression. [note: 44] This submission relies on the second and fourth category of abuse of the process of the court identified in _Chee Siok Chin and others v Minister for Home Affairs and another_ <span class="citation">[2006] 1 SLR(R) 582</span> at [34]. 
 
 86     In the alternative, the respondents submit that the extended doctrine of _res judicata_ renders 
 

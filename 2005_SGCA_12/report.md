@@ -24,7 +24,7 @@ _Contract_ – _Breach of contract_ – _Developer of condominium no longer owne
 
 **Chao Hick Tin JA (delivering the judgment of the court):** 
 
-1       This is an appeal against certain rulings given by Judith Prakash J in _Prosperland Pte Ltd v Civic Construction Pte Ltd_ [2004] 4 SLR 129, in relation to a number of preliminary points of law which arose from the action instituted by the respondent against the appellants and one other party. 
+1       This is an appeal against certain rulings given by Judith Prakash J in _Prosperland Pte Ltd v Civic Construction Pte Ltd_ <span class="citation">[2004] 4 SLR 129</span>, in relation to a number of preliminary points of law which arose from the action instituted by the respondent against the appellants and one other party. 
 
 2       The respondent (“Prosperland”), the plaintiff in the action below, was the developer of a condominium at 7 Claymore Road, Singapore (“the condominium”). The first defendant, Civic Construction Pte Ltd (“Civic”), was the main contractor for the construction of the condominium. The second and third defendants, Mr Chia Kok Leong (“Chia”) and D Exodus Architects & Planners Pte (“Exodus”), the appellants herein, were the architects engaged in the design and supervision of the project, with Chia being the person in charge of the project. 
 
@@ -163,7 +163,7 @@ the exception in _Dunlop v Lambert_.
 
 **The appellants’ argument** 
 
-32     The appellants have argued, following the decisions of this court in _RSP Architects Planners & Engineers v Ocean Front Pte Ltd_ [1996] 1 SLR 113 (“ _Ocean Front_ ”) and _RSP Architects Planners & Engineers (Raglan Squire & Partners FE) v MCST Plan No 1075_ [1999] 2 SLR 449 (“ _Eastern Lagoon_ ”), that the MCST in this case would have a direct cause of action in tort against the contractors and professional advisors, and that under neither the narrow ground nor the broad ground was Prosperland entitled to substantial damages. They argued that there was no legal black hole warranting the law granting to a party like Prosperland a cause of action to sue for substantial damages. If there was any breach of duty, the MCST, the real party to suffer the loss, should be the one to sue in tort for the loss. 
+32     The appellants have argued, following the decisions of this court in _RSP Architects Planners & Engineers v Ocean Front Pte Ltd_ <span class="citation">[1996] 1 SLR 113</span> (“ _Ocean Front_ ”) and _RSP Architects Planners & Engineers (Raglan Squire & Partners FE) v MCST Plan No 1075_ <span class="citation">[1999] 2 SLR 449</span> (“ _Eastern Lagoon_ ”), that the MCST in this case would have a direct cause of action in tort against the contractors and professional advisors, and that under neither the narrow ground nor the broad ground was Prosperland entitled to substantial damages. They argued that there was no legal black hole warranting the law granting to a party like Prosperland a cause of action to sue for substantial damages. If there was any breach of duty, the MCST, the real party to suffer the loss, should be the one to sue in tort for the loss. 
 
 **_The narrow ground_** 
 

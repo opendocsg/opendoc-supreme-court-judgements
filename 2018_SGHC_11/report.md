@@ -162,7 +162,7 @@ go against the policy of finality of settlement agreements. [note: 22]
 17     The requirements for illegitimate economic duress were summarised by Quentin Loh J in _E C Investment Holding Pte Ltd v Ridout Residence Pte Ltd and another (Orion Oil Ltd and another,_ 
 
 
-_interveners)_ [2011] 2 SLR 232 (“ _E C Investment_ ”) [note: 23] after reviewing the relevant authorities (at [48] and [51]): 
+_interveners)_ <span class="citation">[2011] 2 SLR 232</span> (“ _E C Investment_ ”) [note: 23] after reviewing the relevant authorities (at [48] and [51]): 
 
  (a) There must be pressure amounting to compulsion of the will of the victim. 
 
@@ -505,7 +505,7 @@ entered into, they are significant in that the Defendants’ attitude was not th
 
 64     Finally, I shall address a case that the Plaintiff cited, _Real Estate Consortium Pte Ltd v East_ 
 
-_Coast Properties Pte Ltd and another_ [2011] 2 SLR 758 (“ _Real Estate Consortium_ ”). [note: 81] This case is highly relevant as the factual matrix is very similar to the present case. The dispute in _Real Estate Consortium_ arose from a convertible bond agreement entered into by the plaintiff and the two defendants. The defendants were unable to repay the principal amount and the parties entered into negotiations. After the negotiations the parties entered into a settlement agreement. The defendants delivered four post-dated cheques for the amounts owed pursuant to a payment schedule in the settlement agreement, but the defendants defaulted on three of those cheques. At the trial, the defendants argued that they entered into the settlement agreement under illegitimate economic duress as they were concerned with the threat of legal proceedings allegedly made by the plaintiff. 
+_Coast Properties Pte Ltd and another_ <span class="citation">[2011] 2 SLR 758</span> (“ _Real Estate Consortium_ ”). [note: 81] This case is highly relevant as the factual matrix is very similar to the present case. The dispute in _Real Estate Consortium_ arose from a convertible bond agreement entered into by the plaintiff and the two defendants. The defendants were unable to repay the principal amount and the parties entered into negotiations. After the negotiations the parties entered into a settlement agreement. The defendants delivered four post-dated cheques for the amounts owed pursuant to a payment schedule in the settlement agreement, but the defendants defaulted on three of those cheques. At the trial, the defendants argued that they entered into the settlement agreement under illegitimate economic duress as they were concerned with the threat of legal proceedings allegedly made by the plaintiff. 
 
 65     Andrew Ang J found that there was not an iota of evidence of illegitimate economic duress for the following reasons ( _Real Estate Consortium_ at [44]–[50]): 
 

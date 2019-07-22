@@ -18,7 +18,7 @@ _Contract_
 
 _Conflict of Laws_ 
 
-[LawNet Editorial Note: The appeal to this dec ision in Civil Appeal No 66 of 2011 was dismissed by the Court of Appeal on 24 Oc tober 2011. See [2012] SGCA 20.] 
+[LawNet Editorial Note: The appeal to this dec ision in Civil Appeal No 66 of 2011 was dismissed by the Court of Appeal on 24 Oc tober 2011. See <span class="citation">[2012] SGCA 20</span>.] 
 
 24 May 2011 
 
@@ -208,9 +208,9 @@ a c opy of the TA and told him that he would either agree to it or be fired. Mr 
 
 39     In the c irc umstanc es, I was of the view that the plaintiffs were entitled to the dec larations sought in prayers 1 and 2. 
 
-40     As for prayer 4 about an anti-suit injunc tion, Mr Tan referred to various authorities and in partic ular, _John Reginald Stott Kirkham and others v Trane US Inc and others_ [2009] 4 SLR(R) 428 to support Mr Ashloc k’s position that an anti-suit injunc tion ought not to be granted against Mr Ashloc k even if I were to rule on the interpretation of c l 14 in the plaintiffs’ favour. He stressed that the Americ an Ac tion was not vexatious or oppressive to the plaintiffs. In that c ase, the Court of Appeal stated at [28] and [29]: 
+40     As for prayer 4 about an anti-suit injunc tion, Mr Tan referred to various authorities and in partic ular, _John Reginald Stott Kirkham and others v Trane US Inc and others_ <span class="citation">[2009] 4 SLR(R) 428</span> to support Mr Ashloc k’s position that an anti-suit injunc tion ought not to be granted against Mr Ashloc k even if I were to rule on the interpretation of c l 14 in the plaintiffs’ favour. He stressed that the Americ an Ac tion was not vexatious or oppressive to the plaintiffs. In that c ase, the Court of Appeal stated at [28] and [29]: 
 
- 28 In Evergreen International SA v Volkswagen Group Singapore Pte Ltd [2004] 2 SLR(R) 457 (" Evergreen International SA "), Belinda Ang Saw Ean J ("Ang J") stated that she had to c onsider t he following elements in determining whether an anti-suit injunc tion ought to be granted in the c ase (at [16]): 
+ 28 In Evergreen International SA v Volkswagen Group Singapore Pte Ltd <span class="citation">[2004] 2 SLR(R) 457</span> (" Evergreen International SA "), Belinda Ang Saw Ean J ("Ang J") stated that she had to c onsider t he following elements in determining whether an anti-suit injunc tion ought to be granted in the c ase (at [16]): 
 
  (a) whether the defendants are amenable to the jurisdic tion of the Singapore c ourt; 
 
@@ -223,7 +223,7 @@ a c opy of the TA and told him that he would either agree to it or be fired. Mr 
 
  (d) the alleged injustic e to the defendants as an injunc tion would deprive the defendants of the advantages sought in the foreign proc eedings. 
 
- 29 In our view, this is as good a list as any with only one qualific ation, whic h would c onstitute a fifth element whether the institution of the foreign proc eedings is in breac h of any agreement between the parties (see South Carolina Insurance Co v Assurantie Maatschappij "De Zeven Provincien" NV [1987] AC 24). Where there is suc h an agreement, the c ourt may not feel diffident about granting an anti-suit injunc tion as it would only be enforc ing a c ontrac tual promise and the question of international c omity is not as relevant (see The Angelic Grace [1995] 1 Lloyd's Rep 87 at 96 and WSG Nimbus Pte Ltd v Board of Control for Cricket in Sri Lanka [2002] 1 SLR(R) 1088 at [91]). However, as far as the present c ase was c onc erned, this element did not c ome into play as there was no suc h agreement between the parties. That said, we will now examined eac h of these elements in relation to the fac ts and c irc umstanc es of the present c ase, although one c ould say that the third and fourth elements are really quite c losely related, being two sides of the same c oin. 
+ 29 In our view, this is as good a list as any with only one qualific ation, whic h would c onstitute a fifth element whether the institution of the foreign proc eedings is in breac h of any agreement between the parties (see South Carolina Insurance Co v Assurantie Maatschappij "De Zeven Provincien" NV [1987] AC 24). Where there is suc h an agreement, the c ourt may not feel diffident about granting an anti-suit injunc tion as it would only be enforc ing a c ontrac tual promise and the question of international c omity is not as relevant (see The Angelic Grace [1995] 1 Lloyd's Rep 87 at 96 and WSG Nimbus Pte Ltd v Board of Control for Cricket in Sri Lanka <span class="citation">[2002] 1 SLR(R) 1088</span> at [91]). However, as far as the present c ase was c onc erned, this element did not c ome into play as there was no suc h agreement between the parties. That said, we will now examined eac h of these elements in relation to the fac ts and c irc umstanc es of the present c ase, although one c ould say that the third and fourth elements are really quite c losely related, being two sides of the same c oin. 
 
 41     In the present c ase, Mr Ashloc k had agreed under c l 14 not to pursue any future c laim against the first defendant and its affiliated c ompanies. This was a c onsequenc e of the full and final settlement of all his c laims (see [36] above). Moreover, the c ases whic h Mr Tan relied on were c ases in whic h the c ourt was asked to grant an interloc utory anti-suit injunc tion to restrain a party from proc eeding with a foreign ac tion pending the outc ome of the proc eedings in the jurisdic tion from whic h the injunc tion was sought. In the c ase before me, the plaintiffs were not seeking an interloc utory anti-suit injunc tion but a permanent one on the premise that the c ourt would be able to and would make a finding in their favour on the interpretation of c l 14. 
 

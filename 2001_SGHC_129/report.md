@@ -303,14 +303,14 @@ complainants:
 
 as instances where the IC had acted in breach of the rules of fair hearing/duty to act fairly. 
 
-In the case of **Seet Melvin v Law Society of Singapore** [1995] 2 SLR 323 , the Court of Appeal had expressed its views on the concept of fairness in relation to a complainant appearing before an IC. The court, after referring to the decision of Chan Sek Keong JC on this point in **Yusuf Jumabhoy v Law Society of Singapore** [1988] SLR 236 [1988] 1 MLJ 491 , pointed out that `As a general rule, 
+In the case of **Seet Melvin v Law Society of Singapore** <span class="citation">[1995] 2 SLR 323</span> , the Court of Appeal had expressed its views on the concept of fairness in relation to a complainant appearing before an IC. The court, after referring to the decision of Chan Sek Keong JC on this point in **Yusuf Jumabhoy v Law Society of Singapore** [1988] SLR 236 [1988] 1 MLJ 491 , pointed out that `As a general rule, 
 
 
 the complainant is not entitled to a right of hearing at IC proceedings`. The court then went on to say (at p 341): 
 
  ... the procedure for the actual conduct of the inquiry is not regulated by the LPA. The IC is free to determine and regulate its own procedures. In Jumabhoy s case, even if a right of hearing had been afforded to Teo, it did not mean that the complainant would have correspondingly acquired such a right as a necessary consequence. 
 
- Unlike Thangaveloo, against whom the complaint was directed, the appellant [the complainant in that case] was unable to point to any statutory right to be heard at the inquiry. Instead, the appellant contended that, on a general principle of natural justice or fairness, the IC had failed in its duties. In essence, the appellants grievance was that he did not have any right of reply to Thangaveloos explanations. It must be noted, however, that the inquiry process is not adversarial but inquisitorial. The IC was only required to determine whether there was a prima facie case which would merit formal investigation. The requirements of natural justice must depend on the particular circumstances of each case and the subject-matter under consideration (per Wee Chong Jin CJ in Law Society of Singapore v Chan Chow Wang [1975] 1 MLJ 59 , at p 67). The IC sits to conduct an inquiry; it does not either condemn or criticize. As held by this court in Whitehouse Holdings Pte Ltd v Law Society of Singapore [1994] 2 SLR 476 : 
+ Unlike Thangaveloo, against whom the complaint was directed, the appellant [the complainant in that case] was unable to point to any statutory right to be heard at the inquiry. Instead, the appellant contended that, on a general principle of natural justice or fairness, the IC had failed in its duties. In essence, the appellants grievance was that he did not have any right of reply to Thangaveloos explanations. It must be noted, however, that the inquiry process is not adversarial but inquisitorial. The IC was only required to determine whether there was a prima facie case which would merit formal investigation. The requirements of natural justice must depend on the particular circumstances of each case and the subject-matter under consideration (per Wee Chong Jin CJ in Law Society of Singapore v Chan Chow Wang [1975] 1 MLJ 59 , at p 67). The IC sits to conduct an inquiry; it does not either condemn or criticize. As held by this court in Whitehouse Holdings Pte Ltd v Law Society of Singapore <span class="citation">[1994] 2 SLR 476</span> : 
 
  The role of the Inquiry Committee is merely to investigate the complaint. It does not have to make any conclusions on misconduct or whether an offence was committed but simply to consider whether or not there is a prima facie case for formal investigation. 
 
@@ -458,7 +458,7 @@ of the IC not to inquire into the additional complaint. In the context of the su
 
 Pereira, the following passage in the decision of the Court of Appeal in **Whitehouse Holdings v Law** 
 
-**Society of Singapore** [1994] 2 SLR 476 at 484G would be relevant: 
+**Society of Singapore** <span class="citation">[1994] 2 SLR 476</span> at 484G would be relevant: 
 
  ... we are unable to agree that the Council by merely accepting and adopting the report had not made a determination. We cannot see any objection to this practice. The Council need not supplement the reasons given by the inquiry committee in its report, when the Council in effect is in agreement with and accepts the findings of the inquiry committee and makes a determination consistent with that in the report. The Council had clearly determined that no formal investigation was necessary and that there was therefore no ambiguity 
 

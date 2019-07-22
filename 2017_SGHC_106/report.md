@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ – _Illegally importing controlled drugs_ 
 
-[LawNet Editorial Note: The appeal in Criminal Appeal No 18 of 2017 was allowed by the Court of Appeal on 27 May 2019. See [2019] SGCA 38.] 
+[LawNet Editorial Note: The appeal in Criminal Appeal No 18 of 2017 was allowed by the Court of Appeal on 27 May 2019. See <span class="citation">[2019] SGCA 38</span>.] 
 
 11 May 2017 
 
@@ -214,13 +214,13 @@ not rebutted the presumption of knowledge in s 18(2) MDA. The prosecution submit
 
 25     On the facts, there was no dispute that the Accused was in possession of the luggage bag containing the methamphetamine, and was thereby presumed to have the drug in his possession under s 18(1) MDA, and was in turn presumed under s 18(2) MDA to have known that the drug was methamphetamine. He was therefore presumed to have knowledge of the drug, that being presumed knowledge. However the presumptions are not absolute, and may be rebutted by the Accused on a balance of probabilities. If he fails to rebut the presumption, then he would be guilty on the basis of his presumed knowledge, but if he succeeds in rebutting the presumption, and in the absence of proof of actual knowledge, he would be acquitted. 
 
-26     Against that background, the prosecution’s attempt to rely on wilful blindness to counter the Accused’s effort to rebut the presumption is misconceived, and suggests that wilful blindness was not fully understood. In _Nagaenthran a/l K Dharmalingam v PP_ (“ _Nagaenthran_ ”) [2011] 4 SLR 1156, wilful blindness was explained in clear and plain terms (at [30]): 
+26     Against that background, the prosecution’s attempt to rely on wilful blindness to counter the Accused’s effort to rebut the presumption is misconceived, and suggests that wilful blindness was not fully understood. In _Nagaenthran a/l K Dharmalingam v PP_ (“ _Nagaenthran_ ”) <span class="citation">[2011] 4 SLR 1156</span>, wilful blindness was explained in clear and plain terms (at [30]): 
 
  ... Wilful blindness (or “Nelsonian blindness”) is merely “lawyer-speak” for actual knowledge that is inferred from the circumstances of the case. It is an indirect way to prove actual knowledge ; ie. actual knowledge is proved because the inference of knowledge is irresistible and is the only rational inference available on the facts ... 
 
  [emphasis in original in italics; emphasis added in bold italics] 
 
-and in _Tan Kiam Peng v PP_ (“ _Tan Kiam Peng_ ”) [2008] 1 SLR(R) 1 it was explained (at [127]) that: 
+and in _Tan Kiam Peng v PP_ (“ _Tan Kiam Peng_ ”) <span class="citation">[2008] 1 SLR(R) 1</span> it was explained (at [127]) that: 
 
  ... wilful blindness necessarily entails an element of deliberate action inasmuch as to the extent that the person concerned has a clear suspicion that something is amiss but then embarks on a deliberate decision not to make further inquiries in order to avoid confirming what the actual situation is ... 
 
@@ -243,7 +243,7 @@ knowledge. Where the prosecution’s case is founded on presumed knowledge, it s
 
 On issue (a), as the Accused’s possession of the methamphetamine is presumed to be in his possession by virtue of his possession of the luggage bag, the Accused’s knowledge of the nature of those drugs is also presumed. This is acknowledged in the Accused’s closing submissions (at paragraphs 14 to 18). The critical issue is issue (b), whether the presumption that he knew he was carrying methamphetamine is rebutted. 
 
-30     When the presumption in s 18(2) MDA comes into operation, an accused person who seeks to rebut it has the burden of showing on the balance of probabilities that he does not have knowledge of the nature of the drug. It was submitted on the authority of _Dinesh Pillai a/l K Raja Retnam v PP_ [2012] 2 SLR 903 (at [18]) that the burden on the accused person is to prove that he “did not know or _could not reasonably be expected to have known_ ” the nature of drug. The phrase in italics merits examination. As only knowledge of the nature of the drug is presumed, the presumption would be rebutted by the person’s absence of the knowledge. The fact that the person could not reasonably be expected to have the knowledge may lend support to his claim that he has no knowledge, but it does not, on its own, rebut the presumption. 
+30     When the presumption in s 18(2) MDA comes into operation, an accused person who seeks to rebut it has the burden of showing on the balance of probabilities that he does not have knowledge of the nature of the drug. It was submitted on the authority of _Dinesh Pillai a/l K Raja Retnam v PP_ <span class="citation">[2012] 2 SLR 903</span> (at [18]) that the burden on the accused person is to prove that he “did not know or _could not reasonably be expected to have known_ ” the nature of drug. The phrase in italics merits examination. As only knowledge of the nature of the drug is presumed, the presumption would be rebutted by the person’s absence of the knowledge. The fact that the person could not reasonably be expected to have the knowledge may lend support to his claim that he has no knowledge, but it does not, on its own, rebut the presumption. 
 
 31     In a situation where the presumption applies, it is not enough for an accused person to point out that there is no evidence of his knowledge, because he is already presumed to have the knowledge. To rebut the presumption, he has to show positively that he has no knowledge, in effect, to prove the negative. He can point to circumstances which support his lack of knowledge, and he can give evidence and call others to give evidence that he did not have the knowledge. To be effective, the circumstances put forward should be strong and the evidence should be credible. 
 

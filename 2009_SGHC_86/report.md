@@ -135,7 +135,7 @@ par value of each share in the second defendant to calculate the approximate val
 **The law on interpretation of contracts** 
 
 
-14     The applicable canons of interpretation were stated by the Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR 1029 to be as follows (at [131]): 
+14     The applicable canons of interpretation were stated by the Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR 1029</span> to be as follows (at [131]): 
 
  131 As for the exact interpretation that should be assigned to the provisions of the contract, the court will draw upon all the usual canons and techniques of contractual interpretation (for an overview thereof, see Lewison ... at ch 7) in arriving at it, for instance, the contra proferentum rule, the rule that specific provisions will be given greater weight than general provisions, etc. It will undoubtedly be beneficial to the business and legal communities if we set out how these canons of construction relate to the contextual approach that is to be adopted under proviso ( f ) to s 94. To this end, we find the following summary of principles in McMeel ... at paras 1.124 to 1.133 helpful and endorse its application in Singapore (it should be noted that McMeel uses the terms “interpretation” and “construction” interchangeably in the passage below): 
 
@@ -178,7 +178,7 @@ par value of each share in the second defendant to calculate the approximate val
 
  [T]he courts must remain mindful of the fact that in the end, commercial parties should have as much control over interpretative method as they do over other terms of the contract. 
 
- In this regard, the potential impact of what are commonly called “entire agreement clauses” should be noted (see Lee Chee Wei v Tan Hor Peow Victor [2007] 3 SLR 537 at [25] and [41]). 
+ In this regard, the potential impact of what are commonly called “entire agreement clauses” should be noted (see Lee Chee Wei v Tan Hor Peow Victor <span class="citation">[2007] 3 SLR 537</span> at [25] and [41]). 
 
  [emphasis in original] 
 

@@ -147,7 +147,7 @@ constructive notice for not having taken steps to satisfy itself that the agreem
 19     Even if I were to believe this account (which I do not), it would, in my view, be an 
 
 
-exaggeration to castigate the father’s conduct as undue influence. As Prakash J in _Rajabali Jumabhoy v Ameerali R Jumabhoy_ [1997] 3 SLR 802 at 855, [189], stated: 
+exaggeration to castigate the father’s conduct as undue influence. As Prakash J in _Rajabali Jumabhoy v Ameerali R Jumabhoy_ <span class="citation">[1997] 3 SLR 802</span> at 855, [189], stated: 
 
  It is not enough to set aside a contract that one party tried to influence the other to enter it. There must be something wrong in the way that the influence was exercised, ie some unfair or improper conduct, some coercion or some form of misleading. 
 
@@ -197,7 +197,7 @@ This statement of the law was unexceptionable. However, immediately thereafter, 
 
 Apparently, it is this latter portion of Lord Denning’s judgment which the defendants pin their hopes on. Without doubt, their argument centres on the allegedly poor timing of the auction. 
 
-30     However, as Selvam J pointed out in _The Bank of East Asia Ltd v Tan Chin Mong Holdings (S) Pte Ltd_ [2001] 2 SLR 193, Lord Denning’s proposition (that the duty of the mortgagee in the context of a mortgagee sale was but a particular application of the general duty of care to your neighbour which was stated by Lord Atkin in _Donoghue v Stevenson_ [1932] AC 562) has been widely criticised. In particular, Selvam J referred to _China and South Sea Bank Ltd v Tan Soon Gin (alias George Tan)_ [1990] 1 AC 536 at 543–544, where Lord Templeman, in delivering the judgment of the Privy Council, had this to say: 
+30     However, as Selvam J pointed out in _The Bank of East Asia Ltd v Tan Chin Mong Holdings (S) Pte Ltd_ <span class="citation">[2001] 2 SLR 193</span>, Lord Denning’s proposition (that the duty of the mortgagee in the context of a mortgagee sale was but a particular application of the general duty of care to your neighbour which was stated by Lord Atkin in _Donoghue v Stevenson_ [1932] AC 562) has been widely criticised. In particular, Selvam J referred to _China and South Sea Bank Ltd v Tan Soon Gin (alias George Tan)_ [1990] 1 AC 536 at 543–544, where Lord Templeman, in delivering the judgment of the Privy Council, had this to say: 
 
  [T]he tort of negligence has not yet subsumed all torts and does not supplant the principles of equity or contradict contractual promises or complement the remedy of judicial review of supplement statutory rights. 
 

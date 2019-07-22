@@ -236,7 +236,7 @@ the rape abetment charge, with the custodial sentences to run concurrently. He w
 
 50\. I will deal more specifically with the sentence on Velu. Like the other accused persons, he had no antecedents. He pleaded in mitigation that he has been working in Singapore for six years and had not committed any offences. His father has passed away and his mother, sisters, wife and children in India depend on his financial support. 
 
-51\. Taking these matters into account, and bearing in mind that he had claimed trial to the charge, as well as the sentencing guidelines set down in _Chia Kim Heng Frederick v PP_ [1992] 1 SLR 361, as well as the sentences passed on his co-accused, I sentenced him to 12 years imprisonment and six strokes of the cane. 
+51\. Taking these matters into account, and bearing in mind that he had claimed trial to the charge, as well as the sentencing guidelines set down in _Chia Kim Heng Frederick v PP_ <span class="citation">[1992] 1 SLR 361</span>, as well as the sentences passed on his co-accused, I sentenced him to 12 years imprisonment and six strokes of the cane. 
 
  Notes of Evidence page 181 
 

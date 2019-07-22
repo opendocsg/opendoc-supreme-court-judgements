@@ -62,7 +62,7 @@ Subordinate Courts. Pursuant to the complaints, the district judge ordered the s
 
 **Principles governing revision** 
 
-12     The principles governing revision were set out in the case of _Ang Poh Chuan v PP_ [1996] 1 SLR 326, where I held at 330, [17] that “there must be some serious injustice” and “generally it must be shown that there is something palpably wrong in the decision that strikes at its basis as an exercise of judicial power by the court below”. Similarly, I made it clear in _Mohamed Hiraz Hassim v PP_ [2005] 1 SLR 622 at [11] that “the court’s powers of revision are exercised sparingly, and only if the court is satisfied that some serious injustice has been caused which warrants the exercise of its powers of revision”. 
+12     The principles governing revision were set out in the case of _Ang Poh Chuan v PP_ <span class="citation">[1996] 1 SLR 326</span>, where I held at 330, [17] that “there must be some serious injustice” and “generally it must be shown that there is something palpably wrong in the decision that strikes at its basis as an exercise of judicial power by the court below”. Similarly, I made it clear in _Mohamed Hiraz Hassim v PP_ <span class="citation">[2005] 1 SLR 622</span> at [11] that “the court’s powers of revision are exercised sparingly, and only if the court is satisfied that some serious injustice has been caused which warrants the exercise of its powers of revision”. 
 
 13     Therefore, the onus was on the petitioners to satisfy the court that some serious injustice had been caused that warranted the exercise of the court’s powers of revision. 
 
@@ -114,14 +114,14 @@ However, I was similarly of the view that the petitioners’ alleged contempt of
 
 25     The petitioners further claimed that s 136(9) of the Copyright Act permitted only the search and seizure of infringing items, but not of documents that merely evidenced the infringement. However, I found the above claim by the petitioners to be misconceived and wrong in law. 
 
-26     The petitioners placed great emphasis on the decision in _Lance Court Furnishings Pte Ltd v PP_ [1993] 3 SLR 969 (“ _Lance Court_ ”), where Kan Ting Chiu JC (as he then was) held, at 977, [33], that documents evidencing infringement without forming part of the infringement did not come under the ambit of s 136(9) of the Copyright Act (Cap 63, 1988 Rev Ed) (“the 1988 Act”), and hence were not seizable under a warrant issued under that provision: 
+26     The petitioners placed great emphasis on the decision in _Lance Court Furnishings Pte Ltd v PP_ <span class="citation">[1993] 3 SLR 969</span> (“ _Lance Court_ ”), where Kan Ting Chiu JC (as he then was) held, at 977, [33], that documents evidencing infringement without forming part of the infringement did not come under the ambit of s 136(9) of the Copyright Act (Cap 63, 1988 Rev Ed) (“the 1988 Act”), and hence were not seizable under a warrant issued under that provision: 
 
  The scope of the warrants also came under criticism. The warrants authorized the seizure of not only the infringing fabrics, but also ‘documents relating to the infringement of Anju/Woodridge Inc’s copyright’. Section 136(9) empowers a magistrate to order the seizure of infringing copies of any matter in which copyright subsists and the plates and contrivances used or intended to be 
 
 
  used in the making of such infringing copies but not documents. Documents may be seized if they are in themselves the copyright infringement, eg pirated copies of literary works. Documents evidencing infringement without forming part of the infringement, eg production, sale or stock records, do not come under the ambit of s 136(9) and should not be seizable under a warrant issued under that provision. [emphasis added] 
 
-27     The petitioners also sought to rely on my decision in _SM Summit Holdings Ltd v PP_ [1997] 3 SLR 922 (“ _SM Summit_ ”), where I held at [82] that search warrants under s 136(9) of the 1988 Act did not allow for the seizure of documents even when such documents were directly connected with the infringing articles: 
+27     The petitioners also sought to rely on my decision in _SM Summit Holdings Ltd v PP_ <span class="citation">[1997] 3 SLR 922</span> (“ _SM Summit_ ”), where I held at [82] that search warrants under s 136(9) of the 1988 Act did not allow for the seizure of documents even when such documents were directly connected with the infringing articles: 
 
  As such, the dicta of Kan JC in Lance Court was correct. The same must apply in the case of s 136(9) of the Copyright Act which covers only the infringing copies of the work or subjectmatter in which copyright subsists. Any search warrant for documents in relation to the copyright offence can only be sought for under s 61 [Criminal Procedure Code], which requires a higher burden to be placed on the applicants. [emphasis added] 
 
@@ -158,7 +158,7 @@ However, I was similarly of the view that the petitioners’ alleged contempt of
 
 34     A “document” is defined in s 3(1) of the Evidence Act (Cap 97, 1997 Rev Ed) as “any matter expressed or described upon any substance by means of letters, figures or marks or by more than one of those means intended to be used or which may be used for the purpose of recording that matter”. Similarly, “document” is defined in s 378(3) of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) (“CPC”) as including “in addition to a document in writing ... any disc, tape, sound-track, or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom”. Section 136(12) of the Copyright Act defines “document” as “anything in which information of any description is recorded”. 
 
-35     I was of the view that the above definitions of the word “document” are all broad enough to encompass information recorded in an electronic medium or recording device, such as a hard disk drive installed in a desktop computer or server computer. Similarly, in _Roy S Selvarajah v PP_ [1998] 3 SLR 517, I held at [44] that computer database records with the Data Processing Centre of 
+35     I was of the view that the above definitions of the word “document” are all broad enough to encompass information recorded in an electronic medium or recording device, such as a hard disk drive installed in a desktop computer or server computer. Similarly, in _Roy S Selvarajah v PP_ <span class="citation">[1998] 3 SLR 517</span>, I held at [44] that computer database records with the Data Processing Centre of 
 
 
 the Immigration Department were admissible as documents within the meaning of s 380 of the CPC. 

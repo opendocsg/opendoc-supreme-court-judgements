@@ -35,7 +35,7 @@ _Companies_
 5       MSL’s refusal led to the present proceedings commenced by Pacrim on 10 February 2004 ( _ie_ , Originating Summons No 165 of 2004 (“OS”)) against the first defendant, MSL’s company secretary, and MSL (the second defendant) for the orders that MSL register the transfers of the 50m shares and for damages to be assessed. The OS was heard and dismissed by the High Court at first instance on 
 
 
-3 August 2004 (see _Pacrim Investments Pte Ltd v Tan Mui Keow Claire and another_ [2005] 1 SLR(R) 141). On 18 April 2004, Pacrim filed a notice of appeal against the High Court’s decision. 
+3 August 2004 (see _Pacrim Investments Pte Ltd v Tan Mui Keow Claire and another_ <span class="citation">[2005] 1 SLR(R) 141</span>). On 18 April 2004, Pacrim filed a notice of appeal against the High Court’s decision. 
 
 6       While the appeal was pending, MSL was placed under judicial management on 22 April 2005. Subsequently, in 2007, a scheme of arrangement (“the Scheme”) was proposed for MSL. The purpose 
 
@@ -68,7 +68,7 @@ his affidavit dated 22 February 2010, “it did not make sense to incur addition
 
 pursuing the appeal] in the event that there is no value in the shares.” [note: 5] 
 
-10     After MSL emerged from judicial management, the appeal was finally heard on 22 February 2008 and the Court of Appeal allowed Pacrim’s appeal (see _Pacrim Investments Pte Ltd v Tan Mui Keow Claire and another_ [2008] 2 SLR(R) 898 (“ _Pacrim Investments Pte Ltd_ ”)). Accordingly, the requisite number of MSL shares (being 5m shares, following restructuring and amalgamation of 10 shares to one 
+10     After MSL emerged from judicial management, the appeal was finally heard on 22 February 2008 and the Court of Appeal allowed Pacrim’s appeal (see _Pacrim Investments Pte Ltd v Tan Mui Keow Claire and another_ <span class="citation">[2008] 2 SLR(R) 898</span> (“ _Pacrim Investments Pte Ltd_ ”)). Accordingly, the requisite number of MSL shares (being 5m shares, following restructuring and amalgamation of 10 shares to one 
 
 as a result of the Scheme [note: 6] ) was transferred to Pacrim. Pacrim sold these shares between May and December 2008 and received a net sale proceeds of approximately $214,285. According to Pacrim, if the transfer of the initial 50m shares had been registered in 2003 when they were first submitted for registration and sold, the sale proceeds would have been around the region of 
 
@@ -87,7 +87,7 @@ the meaning of Section 210 of the Companies Act (Cap 50)” [note: 8]. Counsel f
 14     MSL’s position in turn was that Pacrim was for all intents and purposes a Scheme Creditor as Pacrim had a claim that was pending appeal when MSL entered into judicial management and/or when the Scheme was introduced, and such a claim was in respect of MSL’s failure to register the share transfers in 2003 (which was prior to the making of the judicial management order (see [8] above)). Counsel for MSL, Mr Andre Maniam SC, suggested that since the Court of Appeal in the recent case of 
 
 
-_The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ [2008] 3 SLR(R) 121 (“ _Oriental_ ”) had endorsed the Australian approach that a scheme becomes an order of court once approved by the court, the “focus” should properly be on the terms of the Scheme and the issue properly framed 
+_The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 121</span> (“ _Oriental_ ”) had endorsed the Australian approach that a scheme becomes an order of court once approved by the court, the “focus” should properly be on the terms of the Scheme and the issue properly framed 
 
 should be whether Pacrim was a “Scheme Creditor” as defined in the Scheme [note: 9]. However, he submitted (with reference to authorities that I will deal with below), disagreeing with Ms Chong, that, in any event, Pacrim was a creditor within s 210 of the Act. 
 
@@ -122,7 +122,7 @@ should be whether Pacrim was a “Scheme Creditor” as defined in the Scheme [n
 
 19     The section (and in fact the Act) is, however, silent on the meaning of “creditor”. Counsel for both parties have informed me that “creditor” in s 210 has yet to be interpreted by the local courts. 
 
-20     It is beyond trite in Singapore that a purposive approach should be taken for statutory construction (see s 9A of the Interpretation Act (Cap 1, 2002 Rev Ed); see also, for instance, the Court of Appeal decision of _Chief Assessor and another v First DCS Pte Ltd_ [2008] 2 SLR(R) 724 at [10]) and, in the present case, due consideration should be given to the legislative history and purpose of s 210 in construing the meaning of “creditor” (see _Oriental_ at [30]). 
+20     It is beyond trite in Singapore that a purposive approach should be taken for statutory construction (see s 9A of the Interpretation Act (Cap 1, 2002 Rev Ed); see also, for instance, the Court of Appeal decision of _Chief Assessor and another v First DCS Pte Ltd_ <span class="citation">[2008] 2 SLR(R) 724</span> at [10]) and, in the present case, due consideration should be given to the legislative history and purpose of s 210 in construing the meaning of “creditor” (see _Oriental_ at [30]). 
 
 **_Legislative history and purpose of s 210_** 
 
@@ -206,7 +206,7 @@ clearly to provable claims in the context of winding up. For instance, the passa
 
 judicial determination which dismissed a plaintiff’s appeal against a liquidator’s rejection of his proof of debt amounted to a judicial decision that the alleged debt or claim was not admissible as a debt payable by or a claim against the company. She further pointed out that neither MSL nor the Scheme Manager treated Pacrim as a creditor as they did not send the Scheme documents to Pacrim. Although Pacrim was kept posted by MSL on the Scheme, she contended that even if Pacrim had filed a proof of debt, the Scheme Manager would in all likelihood have rejected it. 
 
-34     Mr Maniam, on the other hand, argued that there was an obvious and material difference between a case where proceedings are pending and one where there is a final, non-appealable judgment; a distinction that he submitted was recognised by the Singapore High Court in _Re Baring Futures (Singapore) Pte Ltd (in compulsory liquidation) and another action_ [2002] 1 SLR(R) 191 (“ _Re Baring Futures_ ”) and _Bank of India v Rai Bahadur Singh and another_ [1993] 2 SLR(R) 1 (“ _Bank of_ 
+34     Mr Maniam, on the other hand, argued that there was an obvious and material difference between a case where proceedings are pending and one where there is a final, non-appealable judgment; a distinction that he submitted was recognised by the Singapore High Court in _Re Baring Futures (Singapore) Pte Ltd (in compulsory liquidation) and another action_ <span class="citation">[2002] 1 SLR(R) 191</span> (“ _Re Baring Futures_ ”) and _Bank of India v Rai Bahadur Singh and another_ <span class="citation">[1993] 2 SLR(R) 1</span> (“ _Bank of_ 
 
 _India_ ”) [note: 12]. He thus argued that although Pacrim’s claim had been dismissed at first instance, the High Court’s judgment was not a final non-appealable judgment since Pacrim had exercised its statutory right of appeal and that appeal was kept alive and pending. Mr Maniam further referred, in the main, to two cases to argue that Pacrim should be rightly recognised as a creditor (in particular, a _contingent_ creditor) at the material time: 
 
@@ -236,7 +236,7 @@ based on the successful outcome thereof [note: 17]. For the former case, althoug
 
 39     Ms Chong further argued that a contingent creditor would denote “a person towards whom under an _existing_ obligation, the company may or will become subject to a present liability on the happening of some future event or at some future date” [emphasis added] ( _per_ Pennycuick J’s judgment in _In re William Hockley Ltd_ [1962] 1 WLR 555 at 558, cited with approval by the Singapore 
 
-High Court in _Re People’s Parkway Development Pte Ltd_ [1991] 2 SLR(R) 567 at [10]) [note: 18]. Quite clearly, MSL was not under any existing liability at the time of the Scheme to Pacrim. It followed that Pacrim could not have been a contingent creditor. 
+High Court in _Re People’s Parkway Development Pte Ltd_ <span class="citation">[1991] 2 SLR(R) 567</span> at [10]) [note: 18]. Quite clearly, MSL was not under any existing liability at the time of the Scheme to Pacrim. It followed that Pacrim could not have been a contingent creditor. 
 
 40     Although she accepted that Pacrim had notice of the Scheme all along, Ms Chong submitted that it would have been futile for Pacrim to have done anything given that the Scheme Manager would have rejected any proof put in by Pacrim as its claim had already been dismissed by the High Court. She postulated that a challenge of the Scheme Manager’s determination in court would likewise 
 

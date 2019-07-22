@@ -57,7 +57,7 @@ in total to a sum exceeding $1000.
 
 **Appeal against conviction** 
 
-12     The prosecution’s case was based primarily on Chua’s evidence. As such, this appeal turned solely on whether the trial judge erred in accepting Chua’s version of events. It is settled law that an appellate court will not overturn findings of fact unless they can be shown to be against the weight of evidence. As I said in _PP v Azman Abdullah_ [1998] 2 SLR 704 at p 21, 
+12     The prosecution’s case was based primarily on Chua’s evidence. As such, this appeal turned solely on whether the trial judge erred in accepting Chua’s version of events. It is settled law that an appellate court will not overturn findings of fact unless they can be shown to be against the weight of evidence. As I said in _PP v Azman Abdullah_ <span class="citation">[1998] 2 SLR 704</span> at p 21, 
 
  An appellate court, if it wishes to reverse the trial judge’s decision, must not merely entertain doubts whether the decision is right but must be convinced that it is wrong. 
 
@@ -74,7 +74,7 @@ However, when questioned about this, Mdm Loo in her examination-in-chief stated:
 
  It is possible that one of the persons who came to demand payment did mention that my husband should make payment in Yishun. 
 
-14     In her grounds of judgement, the district judge considered this discrepancy between Chua and Loo’s evidence to be immaterial and found that it did not affect the veracity of Chua’s evidence. The district judge was fully entitled to come to such a conclusion. As I held in _Sundara Moorthy Lankatharan v PP_ [1997] 3 SLR 464, there is no rule of law that the testimony of a witness must be believed in its entirety or not at all. So long as the inconsistencies were minor in nature, or related to minor issues, it did not undermine the evidence in respect of key issues. 
+14     In her grounds of judgement, the district judge considered this discrepancy between Chua and Loo’s evidence to be immaterial and found that it did not affect the veracity of Chua’s evidence. The district judge was fully entitled to come to such a conclusion. As I held in _Sundara Moorthy Lankatharan v PP_ <span class="citation">[1997] 3 SLR 464</span>, there is no rule of law that the testimony of a witness must be believed in its entirety or not at all. So long as the inconsistencies were minor in nature, or related to minor issues, it did not undermine the evidence in respect of key issues. 
 
 15     Here, the main issue was Chua’s identification of Tay as the man he had liaised with in relation to the loan. The propriety of the identification parade was not in dispute. As such, the main question was whether Chua was telling the truth. In assessing Chua’s credibility, the district judge noted that there was no motive for him to lie in order to frame Tay. If it was indeed a set-up, there would have been no need to mention the third person ‘Ah Kau’. Furthermore, Chua was not the person who made the initial police report. It was his wife who made a complaint to the police and she did not know Chua’s whereabouts at the time. Chua only came forward a month later when the security personnel at his work place informed him that he was being sought by the police. 
 

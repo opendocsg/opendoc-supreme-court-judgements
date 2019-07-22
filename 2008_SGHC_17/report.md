@@ -45,7 +45,7 @@ Tay Yong Kwang J:
 
 6 April 2005 the plaintiff wrote to inform the defendant of her intention to appeal against Tan J’s dec ision and requested that payment of taxed c osts ordered against her in earlier proc eedings be held in abeyanc e. 
 
-11 April 2005 the defendant served a statutory demand on the plaintiff for payment of c osts ordered against her by the Court of Appeal in the earlier proc eedings (see [2001] SGCA 10). 
+11 April 2005 the defendant served a statutory demand on the plaintiff for payment of c osts ordered against her by the Court of Appeal in the earlier proc eedings (see <span class="citation">[2001] SGCA 10</span>). 
 
 29 April 2005 the plaintiff applied in OSB No. 38 of 2005 to set aside or to stay the statutory demand (“the bankruptc y proc eedings”). 
 
@@ -53,7 +53,7 @@ Tay Yong Kwang J:
 
 14 June 2005 the plaintiff appealed against the dismissal of her applic ation in the bankruptc y proc eedings. 
 
-25 July 2005 Tan J dismissed her appeal (see [2005] SGHC 182). 
+25 July 2005 Tan J dismissed her appeal (see <span class="citation">[2005] SGHC 182</span>). 
 
 24 August 2005 the plaintiff appealed to the Court of Appeal (in CA No. 87 of 2005) against Tan J’s dec isions made on 5 April 2005 in the present ac tion and on 25 July 2005 in the bankruptc y proc eedings. The defendant objec ted and applied to set aside the notic e of appeal in respec t of the present ac tion. 
 
@@ -84,14 +84,14 @@ Tay Yong Kwang J:
 
  (8) Where an ac tion, a c ause or a matter has been disc ontinued under paragraph (5) or (6), the Court may, on applic ation, reinstate the ac tion, c ause or matter, and allow it to proc eed on suc h terms as it thinks just. 
 
-6       In _Moguntia-Est Epices SA v Sea-Hawk Freight Pte Ltd_ [2003] 4 SLR 429, Judith Prakash J said 
+6       In _Moguntia-Est Epices SA v Sea-Hawk Freight Pte Ltd_ <span class="citation">[2003] 4 SLR 429</span>, Judith Prakash J said 
 
 
 (at [20]): 
 
  In our c ase, the trigger date is the date of the last step in the ac tion as it appears in the c ourt rec ords (and this may be a step taken by the plaintiff or by the defendant) and the guillotine date is the day before the anniversary of the trigger date. 
 
-I n _Attorney-General v Tan Wee Beng_ [2002] SGHC 261, an AR observed (at [25]) that the words “step or proc eeding ... that appears from the rec ords maintained by the Court” in O 21 r 2(6) c onnote an ac tion vested with the formality of the c ourt adjudic ation proc ess and that suc h a step or proc eeding must therefore involve doc uments whic h are filed in c ourt and therefore exc ludes c orrespondenc e with the c ourt and c orrespondenc e between the parties. I agree with this observation but would opine that a letter to a judge requesting further arguments in c ases where suc h a proc ess is required by law would also fall within the ambit of “step or proc eeding”. This is logic al bec ause suc h a letter is a nec essary step prec eding an appeal and is part of the litigation proc ess to drive the c ase to its c onc lusion. 
+I n _Attorney-General v Tan Wee Beng_ <span class="citation">[2002] SGHC 261</span>, an AR observed (at [25]) that the words “step or proc eeding ... that appears from the rec ords maintained by the Court” in O 21 r 2(6) c onnote an ac tion vested with the formality of the c ourt adjudic ation proc ess and that suc h a step or proc eeding must therefore involve doc uments whic h are filed in c ourt and therefore exc ludes c orrespondenc e with the c ourt and c orrespondenc e between the parties. I agree with this observation but would opine that a letter to a judge requesting further arguments in c ases where suc h a proc ess is required by law would also fall within the ambit of “step or proc eeding”. This is logic al bec ause suc h a letter is a nec essary step prec eding an appeal and is part of the litigation proc ess to drive the c ase to its c onc lusion. 
 
 7       The plaintiff submitted that the issue before me was whether any step was taken by her between 8 February 2006 and 8 February 2007 (when the amended Statement of Claim was filed). She said that after the Court of Appeal allowed the defendant’s applic ation on 24 Oc tober 2005, she wrote a letter dated 31 Oc tober 2005 to request further arguments as the substantive issues had not been argued and that she would be enlisting an expert in administrative law from the Fac ulty of Law of the National University of Singapore to assist her with the arguments. She was informed by the registry on 7 November 2005 that the Court of Appeal did not wish to hear further arguments. She then took steps to file the appeal papers in respec t of her appeal in the bankruptc y proc eedings. 
 

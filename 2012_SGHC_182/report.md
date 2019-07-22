@@ -37,7 +37,7 @@ _Damages_ – _computation_ – _time_
 4       On 10 October 2008, the defendant’s relationship manager, one Cynthia Chin Mei Lin (“Cynthia Chin”), made three telephone calls to the plaintiff. The contents of each of the three telephone calls 
 
 
-were set out in an earlier Court of Appeal judgment in this case (see _Lam Chi Kin David v Deutsche Bank AG_ [2011] 1 SLR 800 (“the Court of Appeal Judgment”) at [11] and [12]): 
+were set out in an earlier Court of Appeal judgment in this case (see _Lam Chi Kin David v Deutsche Bank AG_ <span class="citation">[2011] 1 SLR 800</span> (“the Court of Appeal Judgment”) at [11] and [12]): 
 
  11 The said letter was faxed to the [plaintiff] at about 11.15am (reflecting the [plaintiff]’s collateral position with the [defendant] at around that time). At 4.32pm, the [defendant]’s relationship manager, Ms Cynthia Chin Mei Lin (“Ms Chin”) telephoned the [plaintiff]. During this conversation, Ms Chin told the [plaintiff] that the [defendant] would not close out his account immediately, but only that he should give a commitment to remit additional funds (to his account) to cover the negative equity by 13 October 2008. Ms Chin also estimated that the loss which the [defendant] would suffer if all of his FX contracts were closed out on that day would be about USD1m. 
 

@@ -110,7 +110,7 @@ application to preserve the action was served on it. There is therefore no issue
 
 24     In response to counsel for the company’s arguments from fairness briefly set out in the preceding paragraph, counsel for the creditor argued that the judicial manager ought to have ensured that the proceedings begun under s 227T ought to have been brought to fruition, even if it involved a request for an extension of the judicial management order (as to which see s 227B(8)). Counsel for the company, however, argued that the company could not be kept waiting if it was preferable to put it under liquidation instead (which, in the present situation, has happened). 
 
-25     Counsel for the company did, however, argue that the cause of action resided with the company and that this was supported indirectly by the Singapore High Court decision of _Cendekia Candranegara Tjiang v Yin Kum Choy_ [2002] 4 SLR 48 (“the _Cendekia_ case”). 
+25     Counsel for the company did, however, argue that the cause of action resided with the company and that this was supported indirectly by the Singapore High Court decision of _Cendekia Candranegara Tjiang v Yin Kum Choy_ <span class="citation">[2002] 4 SLR 48</span> (“the _Cendekia_ case”). 
 
 **_Comparative analysis of legislation in other jurisdictions_** 
 

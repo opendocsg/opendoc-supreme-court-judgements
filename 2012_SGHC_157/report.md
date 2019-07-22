@@ -135,7 +135,7 @@ Law International, 2005 2nd Ed) (“the Guide”) at p 320 that:
 
 21     First, DSEA referred to _American Diagnostica Inc v Gradipore Ltd_ [1998] 44 NSWLR 312 (“ _Diagnostica_ ”) for the proposition that it was insufficient to exclude a right of appeal by saying that an arbitration award should be final, conclusive and binding. 
 
-22     Second, DSEA also referred to _Holland Leedon Pte Ltd v Metalform Asia Pte Ltd_ [2011] 1 SLR 517 (“ _Holland Leedon_ ”) to show how the High Court had granted leave to appeal even though the contractual provision there appeared to exclude the right of appeal under s 49(1) of the AA. 
+22     Second, DSEA also referred to _Holland Leedon Pte Ltd v Metalform Asia Pte Ltd_ <span class="citation">[2011] 1 SLR 517</span> (“ _Holland Leedon_ ”) to show how the High Court had granted leave to appeal even though the contractual provision there appeared to exclude the right of appeal under s 49(1) of the AA. 
 
 23     I did not think that _Diagnostica_ assisted DSEA. Article 28(6) stated more than that an award would be binding and final and conclusive. 
 

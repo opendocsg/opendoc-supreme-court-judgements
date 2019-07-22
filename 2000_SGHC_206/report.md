@@ -131,9 +131,9 @@ In **Cuckmere Brick Co Ltd & Anor v Mutual Finance Ltd** [1971] Ch 949[1971] 2 A
 
  ... a mortgagee in exercising his power of sale does owe a duty to take reasonable precaution to obtain the true market value of the mortgaged property at the date on which he decides to sell it. No doubt in deciding whether he has fallen short of that duty, the facts must be looked at broadly and he will not be adjudged to be in default unless he is plainly on the wrong side of the line. 
 
-The principle in **_Cuckmere_** `s case has been cited and approved in many local cases ( **Good Property Land Development Pte Ltd v Societe Generale** [1989] SLR 229 [1989] 2 MLJ 14 and **Lee Nyet Khiong v Lee Nyet Yun Janet** [1997] 2 SLR 713 ). 
+The principle in **_Cuckmere_** `s case has been cited and approved in many local cases ( **Good Property Land Development Pte Ltd v Societe Generale** [1989] SLR 229 [1989] 2 MLJ 14 and **Lee Nyet Khiong v Lee Nyet Yun Janet** <span class="citation">[1997] 2 SLR 713</span> ). 
 
-Salmon LJ in **_Cuckmere_** `s case also stated that a mortgagee is not a trustee of the power of sale for the mortgagor. If the mortgagee`s interests conflict with those of the mortgagor, the mortgagee is entitled to give preference to his own interest. Where the mortgagee`s interest is not at risk, the mortgagee is not entitled to act in a manner that sacrifices the interests of the mortgagor ( **Forsyth & Anor v Blundell & Anor** [1972-73] 129 CLR 477, cited with approval by the Singapore Court of Appeal in **How Seen Ghee v Development Bank of Singapore Ltd** [1994] 1 SLR 526. 
+Salmon LJ in **_Cuckmere_** `s case also stated that a mortgagee is not a trustee of the power of sale for the mortgagor. If the mortgagee`s interests conflict with those of the mortgagor, the mortgagee is entitled to give preference to his own interest. Where the mortgagee`s interest is not at risk, the mortgagee is not entitled to act in a manner that sacrifices the interests of the mortgagor ( **Forsyth & Anor v Blundell & Anor** [1972-73] 129 CLR 477, cited with approval by the Singapore Court of Appeal in **How Seen Ghee v Development Bank of Singapore Ltd** <span class="citation">[1994] 1 SLR 526</span>. 
 
 **_Sale by private treaty_** 
 

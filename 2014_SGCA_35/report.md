@@ -16,7 +16,7 @@
 
 _Contract_ – _Frustration_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2013] SGHC 127.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2013] SGHC 127</span>.] 
 
 30 May 2014 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Contract_ – _Frustration_
 
 **Introduction** 
 
-1       This is an appeal against the decision of the judge (“the Judge”) in _Alliance Concrete Singapore Pte Ltd v Sato Kogyo (S) Pte Ltd_ [2013] SGHC 127 (“the Judgment”). This constitutes yet another case in the long series of “sand ban” cases which have come before the Singapore courts. The Appellant is Alliance Concrete Singapore Pte Ltd (“ACS”), a supplier of ready-mixed concrete (“RMC”). The Respondent is Sato Kogyo (S) Pte Ltd (“SK”), a contractor in the construction industry. The main issues to be decided in this appeal are whether ACS was discharged from its contractual obligation to supply RMC to SK by way of the doctrine of frustration and whether ACS was in breach of the relevant contracts. 
+1       This is an appeal against the decision of the judge (“the Judge”) in _Alliance Concrete Singapore Pte Ltd v Sato Kogyo (S) Pte Ltd_ <span class="citation">[2013] SGHC 127</span> (“the Judgment”). This constitutes yet another case in the long series of “sand ban” cases which have come before the Singapore courts. The Appellant is Alliance Concrete Singapore Pte Ltd (“ACS”), a supplier of ready-mixed concrete (“RMC”). The Respondent is Sato Kogyo (S) Pte Ltd (“SK”), a contractor in the construction industry. The main issues to be decided in this appeal are whether ACS was discharged from its contractual obligation to supply RMC to SK by way of the doctrine of frustration and whether ACS was in breach of the relevant contracts. 
 
 **The background** 
 
@@ -158,7 +158,7 @@ _The doctrine of frustration_
 
  ... Frustration of a contract takes place when there supervenes an event (without default of either party and for which the contract makes no sufficient provision) which so significantly changes the nature (not merely the expense or onerousness) of the outstanding contractual rights and/or obligations from what the parties could reasonably have contemplated at the time of its execution that it would be unjust to hold them to the literal sense of its stipulations in the new circumstances; in such case the law declares both parties to be discharged from further performance. 
 
-36     The “radical change in obligation” test has been accepted in Singapore by this court: see, for example, _Chiang Hong Pte Ltd v Lim Poh Neo (trading as Tai San Plastic Factory)_ [1983-1984] SLR(R) 346 at [21]; _Glahe International Expo AG v ACS Computer Pte Ltd and another appeal_ [1999] 1 SLR(R) 945 at [27]; and _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd_ [2007] 4 SLR(R) 413 (“ _RDC Concrete_ ”) at [59]. 
+36     The “radical change in obligation” test has been accepted in Singapore by this court: see, for example, _Chiang Hong Pte Ltd v Lim Poh Neo (trading as Tai San Plastic Factory)_ [1983-1984] SLR(R) 346 at [21]; _Glahe International Expo AG v ACS Computer Pte Ltd and another appeal_ <span class="citation">[1999] 1 SLR(R) 945</span> at [27]; and _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd_ <span class="citation">[2007] 4 SLR(R) 413</span> (“ _RDC Concrete_ ”) at [59]. 
 
 37     The “radical change in obligation” test involves a multi-factorial approach, as articulated by Rix LJ (with whom Wall and Hooper LJJ agreed) in the English Court of Appeal decision of _Edwinton Commercial Corporation and another v Tsavliris Russ (Worldwide Salvage & Towage) Ltd (The “Sea Angel”)_ [2007] 2 Lloyd’s Rep 517 (at [111]): 
 
@@ -171,7 +171,7 @@ _The doctrine of frustration_
 
  courts of a wide-ranging discretion to re-write the parties’ bargain in the name of “fairness and reasonableness”. 
 
-39     In the circumstances (and in order to ensure that the doctrine of frustration operates only in truly exceptional situations), the courts have been careful to apply the doctrine strictly. So, for example, a mere increase in cost _per se_ will not result in a frustrating event, although it might if that increase is astronomical (see, for example, the decision of this court in _Holcim (Singapore) Pte Ltd v Precise Development Pte Ltd and another application_ [2011] 2 SLR 106 at [53]). 
+39     In the circumstances (and in order to ensure that the doctrine of frustration operates only in truly exceptional situations), the courts have been careful to apply the doctrine strictly. So, for example, a mere increase in cost _per se_ will not result in a frustrating event, although it might if that increase is astronomical (see, for example, the decision of this court in _Holcim (Singapore) Pte Ltd v Precise Development Pte Ltd and another application_ <span class="citation">[2011] 2 SLR 106</span> at [53]). 
 
 40     This leads to another closely related point: given the fact that the doctrine of frustration is an _exception_ and must be strictly applied, the _precise facts_ become of the first importance. Indeed, even on a more general level, the precise facts are always important – if nothing else, because the general rules and principles of law are never applied in the abstract. They are only relevant and practical in so far as they are _applied_ to the relevant _facts_ of the case at hand. 
 
@@ -179,7 +179,7 @@ _The mechanics of discharge in frustration and breach_
 
 41     One other important point _is particularly relevant to the issues as framed before this court in the present appeal_ : although both the doctrine of frustration and the doctrine of breach relate to the _discharge_ of the contract concerned, the mechanics of discharge are not quite the same. Under the doctrine of _frustration_ , the contract is discharged with respect to _all_ the contracting parties because of a (frustrating) event that has occurred _externally_ ( _ie_ , through no fault of any of the parties). As already noted above, such discharge is therefore _automatic_ (coming about by _operation of law_ ). 
 
-42     In the doctrine of discharge by _breach_ , however, the contract is discharged at the _election of_ the _innocent party_ because of a breach of contract by the _other party_. It is, of course, true that _not every_ breach will entitle the innocent party to elect to treat the contract as discharged. The circumstances (in law) where this will be permitted have been laid down by this court in previous decisions (see, for example, _RDC Concrete_ at [90]–[113] and Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David [2008] 1 SLR(R) 663 (“ _Man Financial_ ”) at [153]–[158]), and this will be elaborated upon briefly below (at [58]–[59]). 
+42     In the doctrine of discharge by _breach_ , however, the contract is discharged at the _election of_ the _innocent party_ because of a breach of contract by the _other party_. It is, of course, true that _not every_ breach will entitle the innocent party to elect to treat the contract as discharged. The circumstances (in law) where this will be permitted have been laid down by this court in previous decisions (see, for example, _RDC Concrete_ at [90]–[113] and Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David <span class="citation">[2008] 1 SLR(R) 663</span> (“ _Man Financial_ ”) at [153]–[158]), and this will be elaborated upon briefly below (at [58]–[59]). 
 
 **_Application to the present appeal_** 
 
@@ -253,7 +253,7 @@ that source is not specified as a term in the contract, and strict performance o
 
  [emphasis in original] 
 
-59     The test for renunciation was stated by this court in _San International Pte Ltd (formerly known as San Ho Huat Construction Pte Ltd) v Keppel Engineering Pte Ltd_ [1998] 3 SLR(R) 447 at [20] in the following terms: 
+59     The test for renunciation was stated by this court in _San International Pte Ltd (formerly known as San Ho Huat Construction Pte Ltd) v Keppel Engineering Pte Ltd_ <span class="citation">[1998] 3 SLR(R) 447</span> at [20] in the following terms: 
 
  ... A renunciation of contract occurs when one party by words or conduct evinces an intention not to perform or expressly declares that he is or will be unable to perform his obligations in some material respect. Short of an express refusal or declaration the test is to ascertain whether the action or actions of the party in default are such as to lead a reasonable person to conclude that he no longer intends to be bound by its provisions. The party in default may intend in fact to fulfil the contract but may be determined to do so only in a manner substantially inconsistent with his obligations, or may refuse to perform the contract unless the other party complies with certain conditions not required by its terms[.] ... [emphasis in original] 
 
@@ -338,7 +338,7 @@ Therefore, we find that ACS did not have other sources of sand to supply RMC to 
 
 72     First, ACS’s operations director, Mr Lincoln Lim, gave evidence that the whole market knew that Indonesia was the only source of sand. Ms Jean Lau of the BCA also stated in her affidavit of evidence-in-chief that the BCA was aware that importers mainly imported sand from Indonesia. SK does not seem (correctly, in our view) to be challenging this. Instead, SK’s main contention was that it was not fundamental to the fulfilment of the Contracts that sand from Indonesia be used to manufacture RMC because what mattered was whether the sand met the requisite technical specifications. 
 
-73     In this vein, we observe that previous cases dealing with the Sand Ban have similarly observed that at the relevant time, Indonesia was the primary, if not the sole, source of concreting sand used in Singapore (see, for example, the High Court decision of _NCC International AB v Alliance Concrete Singapore Pte Ltd_ [2007] SGHC 64 at [5]; affirmed on appeal in _NCC International AB v Alliance Concrete Singapore Pte Ltd_ [2008] 2 SLR(R) 565 at [8]). The High Court in _Holcim (Singapore) Pte Ltd v Kwan Yong Construction Pte Ltd_ [2009] 2 SLR(R) 193 (“ _Kwan Yong_ ”), which involved a case of a RMC supplier who was successful in showing frustration of the supply contract due to the Sand Ban, also stated (at [5]) that “[a]ll sand used in the building industry had been sourced from Indonesia” (the appeal from the decision of the High Court in _Kwan Yong_ was dismissed by this court on 20 May 2009, although, agreeing with the trial judge’s reasoning, no written grounds of decision were issued (see the Editorial Note at [2009] 2 SLR(R) 193 at 197). 
+73     In this vein, we observe that previous cases dealing with the Sand Ban have similarly observed that at the relevant time, Indonesia was the primary, if not the sole, source of concreting sand used in Singapore (see, for example, the High Court decision of _NCC International AB v Alliance Concrete Singapore Pte Ltd_ <span class="citation">[2007] SGHC 64</span> at [5]; affirmed on appeal in _NCC International AB v Alliance Concrete Singapore Pte Ltd_ <span class="citation">[2008] 2 SLR(R) 565</span> at [8]). The High Court in _Holcim (Singapore) Pte Ltd v Kwan Yong Construction Pte Ltd_ <span class="citation">[2009] 2 SLR(R) 193</span> (“ _Kwan Yong_ ”), which involved a case of a RMC supplier who was successful in showing frustration of the supply contract due to the Sand Ban, also stated (at [5]) that “[a]ll sand used in the building industry had been sourced from Indonesia” (the appeal from the decision of the High Court in _Kwan Yong_ was dismissed by this court on 20 May 2009, although, agreeing with the trial judge’s reasoning, no written grounds of decision were issued (see the Editorial Note at <span class="citation">[2009] 2 SLR(R) 193</span> at 197). 
 
 74     Secondly, SK’s client for the Boon Lay Project, the LTA, preferred Indonesian sand to be used for the RMC. This was acknowledged by SK’s project manager for the Boon Lay Project, Mr Ishii Yoichiro (“Mr Yoichiro”), in his cross-examination: 
 
@@ -528,7 +528,7 @@ Therefore, we find that ACS did not have other sources of sand to supply RMC to 
 
 induced frustration and the reasonableness of the parties’ conduct in relation to the BCA Stockpile, which mainly arose only after the operative date of frustration. Nevertheless, we will examine this issue briefly for the sake of completeness. 
 
-85     In our view, SK has not discharged the burden of showing that ACS acted unreasonably; and neither has ACS shown that SK acted unreasonably. In the circumstances, it seemed to us that neither party had proved its case on this particular issue ( _cf_ the concept of “not proved” in s 3 of the Evidence Act as well as the observations of this court in _Loo Chay Sit v Estate of Loo Chay Loo, deceased_ [2010] 1 SLR 286 at [16]–[23]). 
+85     In our view, SK has not discharged the burden of showing that ACS acted unreasonably; and neither has ACS shown that SK acted unreasonably. In the circumstances, it seemed to us that neither party had proved its case on this particular issue ( _cf_ the concept of “not proved” in s 3 of the Evidence Act as well as the observations of this court in _Loo Chay Sit v Estate of Loo Chay Loo, deceased_ <span class="citation">[2010] 1 SLR 286</span> at [16]–[23]). 
 
 86     As noted above at [6], although the BCA did release sand from the BCA Stockpile, only main contractors with ongoing projects then were entitled to draw down sand from the BCA Stockpile. RMC suppliers were not entitled to draw down sand from the stockpile. Hence, ACS could not obtain sand from the BCA Stockpile directly, and had to rely on SK to apply to BCA for drawing down sand from the stockpile, and then deliver the sand to ACS. According to SK, from February to May 2007, it obtained the BCA’s approval for the release of about 7,980 tonnes of sand, out of which about 3,824 tonnes were delivered to ACS. 
 

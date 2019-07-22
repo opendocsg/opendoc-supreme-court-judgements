@@ -63,7 +63,7 @@ turn advanced to the Company for the construction and maintenance of the product
 
 **_The Liquidators’ submissions_** 
 
-13     Counsel for the Liquidators relies primarily on the authority of _Ng Wei Teck Michael and others v Oversea-Chinese Banking Corp Ltd_ [1998] 1 SLR(R) 778 (“ _Michael Ng_ ”), a decision of the Court of Appeal, as establishing that, upon the winding up of a company, a statutory trust arises to preserve the assets of the company for _pari passu_ distribution among the unsecured creditors, who are in the nature of a _cestui que trust_ with beneficial interests extending to all of the company’s property. 
+13     Counsel for the Liquidators relies primarily on the authority of _Ng Wei Teck Michael and others v Oversea-Chinese Banking Corp Ltd_ <span class="citation">[1998] 1 SLR(R) 778</span> (“ _Michael Ng_ ”), a decision of the Court of Appeal, as establishing that, upon the winding up of a company, a statutory trust arises to preserve the assets of the company for _pari passu_ distribution among the unsecured creditors, who are in the nature of a _cestui que trust_ with beneficial interests extending to all of the company’s property. 
 
 
 Consequently, the unsecured creditors of the Company had the necessary “interest in land” for the purpose of lodging a caveat under s 115 of the LTA in respect of the Property. 
@@ -103,7 +103,7 @@ matter.
 
 **_Power Knight’s interest_** 
 
-19     The nature of Power Knight’s interest in the Property must be determined from the Building Agreements and the Debenture. Although JTC never granted the Company a lease under the Building Agreements, an agreement for a lease creates an equitable lease: _Golden Village Multiplex Pte Ltd v Marina Centre Holdings Pte Ltd_ [2002] 1 SLR(R) 169 (per LP Thean JA at [12] and [15]). Under the terms of the Debenture, the Company charged its equitable leasehold interest to Power Knight as security, and this security interest was perfected when Power Knight registered the Debenture under s 131 of the CA on 9 June 2008. The material portion of s 131 reads: 
+19     The nature of Power Knight’s interest in the Property must be determined from the Building Agreements and the Debenture. Although JTC never granted the Company a lease under the Building Agreements, an agreement for a lease creates an equitable lease: _Golden Village Multiplex Pte Ltd v Marina Centre Holdings Pte Ltd_ <span class="citation">[2002] 1 SLR(R) 169</span> (per LP Thean JA at [12] and [15]). Under the terms of the Debenture, the Company charged its equitable leasehold interest to Power Knight as security, and this security interest was perfected when Power Knight registered the Debenture under s 131 of the CA on 9 June 2008. The material portion of s 131 reads: 
 
  Registration of charges 
 
@@ -203,7 +203,7 @@ this case) and cannot be avoided, the subject matter of the charge is _not_ free
 
 45     As is clear from the judgment of LP Thean JA quoted in [36] above, the Court of Appeal in _Michael Ng_ endorsed the concept of a statutory trust for essentially the same reasons as those given by Lord Diplock in _Ayerst_. 
 
-46     Although it is occasionally suggested that _Ayerst_ only decided that a company was divested of “beneficial ownership” of its assets for the purposes of interpreting a specific provision of the UK’s Finance Act 1954 (c 44) (see, for example, _Low Gim Har v Low Gim Siah_ [1992] 1 SLR(R) 970, per Chan Sek Keong J at [23] – [26]), I do not, with respect, think it is possible to limit _Ayerst_ in this manner. 
+46     Although it is occasionally suggested that _Ayerst_ only decided that a company was divested of “beneficial ownership” of its assets for the purposes of interpreting a specific provision of the UK’s Finance Act 1954 (c 44) (see, for example, _Low Gim Har v Low Gim Siah_ <span class="citation">[1992] 1 SLR(R) 970</span>, per Chan Sek Keong J at [23] – [26]), I do not, with respect, think it is possible to limit _Ayerst_ in this manner. 
 
 47     First, Lord Diplock himself in _Ayerst_ , at 179 – 181, relied on and endorsed earlier authorities (which predated the earliest Finance Act) which had recognised the existence of the statutory trust as a matter of common law. Second, _Ayerst_ has been repeatedly cited as establishing, without qualification, that upon the winding up of a company, a statutory trust is established over the company’s assets: _Buchler v Talbot_ (per Lord Hoffmann at [28]), _Wight v Eckhardt Marine GmbH_ [2004] 1 AC 147 (per Lord Hoffmann at [22]) and _Cambridge Gas Transport Corp v Official Committee of Unsecured Creditors of Navigator Holdings Plc_ [2007] 1 AC 508 (per Lord Hoffmann at [14]). Finally, exactly the same criticism may be employed against other landmark cases which, while ostensibly concerned with interpreting specific points of revenue law, have always been taken as representing the common law: for example, _Commissioner of Stamp Duties (Queensland) v Hugh_ 
 

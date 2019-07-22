@@ -49,7 +49,7 @@ _Civil Procedure_ – _Experts_ – _Setting aside expert's decision_ – _Parti
 
 **Differences between an arbitrator and an expert** 
 
-7       I had in _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd_ [2006] 1 SLR 634 (“ _Evergreat_ ”) at [27] to [29] reviewed the legal principles to be applied in defining an expert’s role and responsibilities: 
+7       I had in _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd_ <span class="citation">[2006] 1 SLR 634</span> (“ _Evergreat_ ”) at [27] to [29] reviewed the legal principles to be applied in defining an expert’s role and responsibilities: 
 
  27 ... The starting point for the modern statement on the law relating to experts is to be found in Campbell v Edwards [1976] 1 WLR 403, where Lord Denning MR opined at 407: 
 
@@ -79,7 +79,7 @@ And at [34] to [37]:
  37 I should further add that there is nothing wrong or contrary to public policy in allowing an expert to resolve all disputes in a matter; regardless of whether such issues are legal or factual. An expert’s role need not be confined to giving opinions on matters that are not in dispute. While experts have historically acted mainly in valuations and “look and sniff” evaluations, the sphere has now evolved to include other areas of dispute resolution. Granting that references to experts are commonly found in construction documents, there is no reason as a matter of policy why parties cannot by contract extend this practice to other disputes. This is part of a wider trend for an expeditious, economical and user-friendly alternative to litigation and arbitration. Expert determination is particularly suitable for resolving technical issues and/or disputes. The court’s jurisdiction is not completely excluded or ousted by such an arrangement. Its jurisdiction to police the contract to ensure that the expert has not exceeded his remit continues to prevail. Like the ubiquitous “conclusive evidence” clauses, “expert” clauses will be 
 
 
- upheld on the basis that they are contractual arrangements; see Standard Chartered Bank v Neocorp International Ltd [2005] 2 SLR 345 at [19] where it was stated: 
+ upheld on the basis that they are contractual arrangements; see Standard Chartered Bank v Neocorp International Ltd <span class="citation">[2005] 2 SLR 345</span> at [19] where it was stated: 
 
  The real foundation for the legal efficacy of such a clause is contract. It can be cogently argued that if parties expressly agree on the modalities for determining a matter, such an agreement should be upheld in the absence of any relevant public policy considerations. Indeed, this is the very basis on which the court recognises and gives effect to arbitration agreements, conclusive certificates of engineers and architects found in construction contracts and experts’ decisions, amongst others. 
 
@@ -127,16 +127,16 @@ I must emphasise that it is common ground in these proceedings that the Expert h
 
 **Manifest Error** 
 
-15     In asserting that the existence of a “manifest error” is a legitimate basis for judicial intervention into an expert’s decision, the defendant heavily leans on dicta by the Court of Appeal in _Riduan bin Yusof v Khng Thia Huat and Another_ [2005] 2 SLR 188 at [35]: 
+15     In asserting that the existence of a “manifest error” is a legitimate basis for judicial intervention into an expert’s decision, the defendant heavily leans on dicta by the Court of Appeal in _Riduan bin Yusof v Khng Thia Huat and Another_ <span class="citation">[2005] 2 SLR 188</span> at [35]: 
 
- 35 We are mindful that an appellant must show a “manifest error” in order to challenge the findings of a nominated valuer. In Tan Yeow Khoon v Tan Yeow Tat [2003] 3 SLR 486 (affirmed on appeal), Choo Han Teck J held at [12]: 
+ 35 We are mindful that an appellant must show a “manifest error” in order to challenge the findings of a nominated valuer. In Tan Yeow Khoon v Tan Yeow Tat <span class="citation">[2003] 3 SLR 486</span> (affirmed on appeal), Choo Han Teck J held at [12]: 
 
  [W]here the parties had agreed to accept a price that their nominated valuer had determined so that litigation could thereby be avoided, they were bound by that valuation even if the valuer was wrong. The only possible exception is where there is a manifest error that justly requires judicial intervention. [emphasis added] 
 
 16     However, Choo J’s reference to _manifest error_ as the only possible exception justifying judicial intervention into an expert’s decision does not constitute any part of the judicial lexicon embraced by other common law courts in a similar context. The term “manifest error” is usually expressly 
 
 
-incorporated in conclusive evidence clauses to allow challenges to be made when there are plain and obvious errors in what the certificate purports to represent. It is therefore necessary to examine the context in which Choo J adverted to the term “manifest error” in _Tan Yeow Khoon v Tan Yeow Tat_ [2003] 3 SLR 486. The relevant paragraph in his judgment at [12] reads as follows: 
+incorporated in conclusive evidence clauses to allow challenges to be made when there are plain and obvious errors in what the certificate purports to represent. It is therefore necessary to examine the context in which Choo J adverted to the term “manifest error” in _Tan Yeow Khoon v Tan Yeow Tat_ <span class="citation">[2003] 3 SLR 486</span>. The relevant paragraph in his judgment at [12] reads as follows: 
 
  Jones v Sherwood Computer Services plc [1992] 1 WLR 277 and Baber v Kenwood Manufacturing Co Ltd [1978] 1 Lloyd’s Rep 175 , are inapplicable on the facts of the present case in the manner that Mr Chew so bravely put them forward. I do not disagree with the fundamental principle enunciated in these two cases, and which was in fact an affirmation of Campbell v Edwards [1976] 1 Lloyd’s Rep 522. In the latter case, the court was of the view that where the parties had agreed to accept a price that their nominated valuer had determined so that litigation could thereby be avoided, they were bound by that valuation even if the valuer was wrong. The only possible exception is where there is a manifest error that justly requires judicial intervention. There is no such error in the present case. 
 

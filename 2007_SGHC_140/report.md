@@ -101,7 +101,7 @@ _Civil Procedure_ – _Contempt of court_ – _Civil contempt_ – _Time frame f
 
  Exc ept with the leave of the Court hearing an applic ation for an order of c ommittal, no grounds shall be relied upon at the hearing exc ept the grounds set out in the statement under Rule 2. 
 
-9       The DJ disagreed with the wife’s argument that c ontempt proc eedings c ould apply only to orders that required the alleged c ontemnor to do a positive ac t within a spec ified period. It was submitted by the wife that the anc illary order of 24 January 2005 did not require suc h a positive ac t (suc h as returning the c hild to the husband) to be done and all that the said order stated was that c are and c ontrol was given to the husband. The DJ held that what was required to establish c ontempt was a deliberate ac t breac hing an order of c ourt (c iting _OCM Opportunities Fund II, LP and others v Burhan Uray (alias Wong Ming Kiong) and others (No. 2)_ [2005] 3 SLR 60) and that the standard of proof in suc h proc eedings was proof beyond a reasonable doubt. Further, she held, the wife’s submissions ignored the fac t that the anc illary order of 24 January 2005 required her to surrender the c hild’s passport and birth c ertific ate to the husband. 
+9       The DJ disagreed with the wife’s argument that c ontempt proc eedings c ould apply only to orders that required the alleged c ontemnor to do a positive ac t within a spec ified period. It was submitted by the wife that the anc illary order of 24 January 2005 did not require suc h a positive ac t (suc h as returning the c hild to the husband) to be done and all that the said order stated was that c are and c ontrol was given to the husband. The DJ held that what was required to establish c ontempt was a deliberate ac t breac hing an order of c ourt (c iting _OCM Opportunities Fund II, LP and others v Burhan Uray (alias Wong Ming Kiong) and others (No. 2)_ <span class="citation">[2005] 3 SLR 60</span>) and that the standard of proof in suc h proc eedings was proof beyond a reasonable doubt. Further, she held, the wife’s submissions ignored the fac t that the anc illary order of 24 January 2005 required her to surrender the c hild’s passport and birth c ertific ate to the husband. 
 
 10     The DJ noted that the wife’s defenc e was her relianc e on the order of 9 Marc h 2006 made by Deputy Registrar Regina Ow, that pending the outc ome of Summons No. 3432 of 2006, the c hild was to be returned to the wife forthwith with ac c ess granted to the husband along the same terms as those set out by DJ Shobha Nair on 22 August 2005. The wife maintained that she had no intention of breac hing the anc illary order of 24 January 2005 as she believed or was told that she had c ustody, c are and c ontrol of the c hild by virtue of the order of 9 Marc h 2006. 
 
@@ -166,7 +166,7 @@ This, the husband submitted, was nothing more than an exc use to avoid c omplyin
 
  ... 
 
-21     I reiterate here the purpose and princ iples of c ontempt of c ourt proc eedings as enunc iated by the Court of Appeal in _Pertamina Energy Trading Ltd v Karaha Bodas_ [2007] 2 SLR 518: 
+21     I reiterate here the purpose and princ iples of c ontempt of c ourt proc eedings as enunc iated by the Court of Appeal in _Pertamina Energy Trading Ltd v Karaha Bodas_ <span class="citation">[2007] 2 SLR 518</span>: 
 
  22 It is imperative to note, at the outset, that the doc trine of c ontempt of c ourt is not intended, in any manner or fashion whatsoever, to protec t the dignity of the judges as suc h; its purpose is more objec tive and is (more importantly) rooted in the public interest. 
 
@@ -184,7 +184,7 @@ This, the husband submitted, was nothing more than an exc use to avoid c omplyin
 
  It is no defenc e to c ontempt proc eedings to allege that the order should not have been made, or has been disc harged. An order of the c ourt must be obeyed while it stands, and a breac h is still c ontempt even if, at a later stage, the order is in fac t disc harged. The same principle applies if the original order was wrongly made; the defendant’s remedy is to apply for its immediate discharge while keeping to its terms. 
 
-22     More rec ently (after the hearing of the present appeal), V K Rajah JA in _You Xin v PP_ [2007] SGHC 120 at [14] said: 
+22     More rec ently (after the hearing of the present appeal), V K Rajah JA in _You Xin v PP_ <span class="citation">[2007] SGHC 120</span> at [14] said: 
 
  It is settled law that a single, paramount and broad princ iple underlines the law of c ontempt. It was noted by Sir John Donaldson MR in Attorney-General v Newspaper Publishing Plc [1988] Ch 333 ... that “[t]he law of c ontempt is based upon the broadest of princ iples, namely that the c ourts c annot and will not permit interferenc e with the due administration of justic e”. It is important to note that it is justic e itself that is flouted by c ontempt of c ourt, not the individual c ourt or judge who is attempting to administer it. The overriding objec t of c ontempt of c ourt is not merely to protec t the dignity of the c ourts but essentially to protec t the administration of justic e. To that extent the term c ontempt of c ourt is in reality a misnomer. 
 

@@ -26,7 +26,7 @@ Andrew Phang Boon Leong JA (delivering the judgment of the court):
 
 **Introduction** 
 
-1       This is an appeal against the decision of the High Court judge (“the Judge”) in which he disallowed, in part, the appellant’s application to amend her statement of claim (see _Murakami Takako v Wiryadi Louis Maria_ [2008] 3 SLR 198 (“the GD”)). These proceedings are yet another chapter in the long history of litigation between the parties, the background of which we have previously set out in _Murakami Takako v Wiryadi Louise Maria_ [2007] 4 SLR 565 (“ _Murakami Takako_ ”) at [3]–[5]. 
+1       This is an appeal against the decision of the High Court judge (“the Judge”) in which he disallowed, in part, the appellant’s application to amend her statement of claim (see _Murakami Takako v Wiryadi Louis Maria_ <span class="citation">[2008] 3 SLR 198</span> (“the GD”)). These proceedings are yet another chapter in the long history of litigation between the parties, the background of which we have previously set out in _Murakami Takako v Wiryadi Louise Maria_ <span class="citation">[2007] 4 SLR 565</span> (“ _Murakami Takako_ ”) at [3]–[5]. 
 
 2       In these proceedings, the appellant, acting on behalf of the estate of her late father, Takashi Murakami Suroso (“the Testator”), applied to include certain amendments which would expand her claim to include the following: 
 
@@ -57,7 +57,7 @@ Andrew Phang Boon Leong JA (delivering the judgment of the court):
 
 8       It is important to note − particularly in the context of the present proceedings and for reasons that will become apparent in the course of this judgment − that the _Moçambique_ rule is one of _subject-matter jurisdiction_. 
 
-9       It is equally important to note that the _Moçambique_ rule and the personal equities exception are part of Singapore law (see the decision of this court in _Eng Liat Kiang v Eng Bak Hern_ [1995] 3 SLR 97 (“ _Eng Liat Kiang_ ”) at 100–103, [11]–[19], where the _Moçambique_ rule was assumed 
+9       It is equally important to note that the _Moçambique_ rule and the personal equities exception are part of Singapore law (see the decision of this court in _Eng Liat Kiang v Eng Bak Hern_ <span class="citation">[1995] 3 SLR 97</span> (“ _Eng Liat Kiang_ ”) at 100–103, [11]–[19], where the _Moçambique_ rule was assumed 
 
 
 to be (as also noted in the preceding paragraph) one relating to _jurisdiction_ ). The court, therefore, generally has no jurisdiction over claims to foreign immovable properties except for, _inter alia_ , claims in equity with respect to equitable obligations. In this case, the Claims lie in equity; they are trust claims. It follows that the personal equities exception _prima facie_ applies and the court has jurisdiction over the Claims. The crux of this appeal is therefore twofold, namely: 
@@ -154,7 +154,7 @@ Indeed, this interpretation of _Lightning_ underlies the analysis by another wri
 
 25     The next issue that arises for our consideration is whether, although our courts do have jurisdiction over the Claims, we ought nevertheless to decline to exercise jurisdiction on the basis of _forum non conveniens_. We have previously stated that the relevant test in this regard is to determine whether there is a clearly or distinctly more appropriate forum than Singapore which meets the ends of justice, having regard to the interests of the parties (see the decision of this court in _Murakami Takako_ ([1] _supra_ ) at [49]). 
 
-26     It has been firmly established that the principles laid down in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _Spiliada_ ”) apply (see, for example, the decisions of this court in _Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia_ [1992] 2 SLR 776, _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ [1998] 1 SLR 253, _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Limited_ [2001] 2 SLR 49, _Rickshaw Investments Ltd v Nicolai Baron von Uexkull_ [2007] 1 SLR 377 (“ _Rickshaw_ ”) at [12] and _CIMB Bank Bhd v Dresdner Kleinwort Ltd_ [2008] SGCA 36 
+26     It has been firmly established that the principles laid down in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _Spiliada_ ”) apply (see, for example, the decisions of this court in _Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia_ <span class="citation">[1992] 2 SLR 776</span>, _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ <span class="citation">[1998] 1 SLR 253</span>, _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Limited_ <span class="citation">[2001] 2 SLR 49</span>, _Rickshaw Investments Ltd v Nicolai Baron von Uexkull_ <span class="citation">[2007] 1 SLR 377</span> (“ _Rickshaw_ ”) at [12] and _CIMB Bank Bhd v Dresdner Kleinwort Ltd_ <span class="citation">[2008] SGCA 36</span> 
 
 
 (“ _CIMB_ ”) at [25]). The principles set out in _Spiliada_ were recently summarised in _CIMB_ (at [26]) as follows: 

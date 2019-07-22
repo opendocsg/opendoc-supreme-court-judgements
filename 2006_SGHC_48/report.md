@@ -36,7 +36,7 @@ _Words and Phrases_ – _"Shall"_ – _Sections 4(1), 4(3) Road Vehicles (Specia
 
 **The petitioner’s case** 
 
-5       VFS submitted that the court retained the discretion to make a forfeiture order. The court should apply _Toh Teong Seng v PP_ [1995] 2 SLR 273 which interpreted s 20 of the Environmental Public Health Act (Cap 95, 1988 Rev Ed) (“the 1988 EPHA”) which has since been repealed, and held that the court had a discretion to forfeit or release the vehicle. It contended that _Toh Teong Seng v_ 
+5       VFS submitted that the court retained the discretion to make a forfeiture order. The court should apply _Toh Teong Seng v PP_ <span class="citation">[1995] 2 SLR 273</span> which interpreted s 20 of the Environmental Public Health Act (Cap 95, 1988 Rev Ed) (“the 1988 EPHA”) which has since been repealed, and held that the court had a discretion to forfeit or release the vehicle. It contended that _Toh Teong Seng v_ 
 
 
 _PP_ was a case on all fours with the present and s 4 of the Act was materially identical to s 20 of the 1988 EPHA. In particular, VFS submitted that as s 4(3) of the Act referred to the discretion of the “court before which the prosecution with regard to the scheduled offence has been held”, it cannot refer to the instances under ss 4(4) and 4(6) which were instances “without prosecution”. Therefore, s 4(3) effectively referred to forfeiture under s 4(1). I will have occasion to return to this point later. 
@@ -53,9 +53,9 @@ _PP_ was a case on all fours with the present and s 4 of the Act was materially 
 
 **Principles of revision** 
 
-10     As I observed in _Hong Leong Finance Ltd v PP_ [2004] 4 SLR 475 at [14]: 
+10     As I observed in _Hong Leong Finance Ltd v PP_ <span class="citation">[2004] 4 SLR 475</span> at [14]: 
 
- The High Court’s revisionary powers are conferred by s 23 of the Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed) (“SCJA”) and s 268 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) (“CPC”). It is established law that such powers of revision are discretionary and must be exercised sparingly. The test laid down by the courts is whether the failure to exercise revisionary powers will result in serious injustice being done. No precise definition of what constitutes serious injustice is possible. However, it must generally be shown that there was something palpably wrong in the decision by the court below, which strikes at its basis as an exercise of judicial power: see Ang Poh Chuan v PP [1996] 1 SLR 326, followed in Magnum Finance Bhd v PP [1996] 2 SLR 523 and Credit Corporation (M) Bhd v PP [2000] 3 SLR 762. 
+ The High Court’s revisionary powers are conferred by s 23 of the Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed) (“SCJA”) and s 268 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) (“CPC”). It is established law that such powers of revision are discretionary and must be exercised sparingly. The test laid down by the courts is whether the failure to exercise revisionary powers will result in serious injustice being done. No precise definition of what constitutes serious injustice is possible. However, it must generally be shown that there was something palpably wrong in the decision by the court below, which strikes at its basis as an exercise of judicial power: see Ang Poh Chuan v PP <span class="citation">[1996] 1 SLR 326</span>, followed in Magnum Finance Bhd v PP <span class="citation">[1996] 2 SLR 523</span> and Credit Corporation (M) Bhd v PP <span class="citation">[2000] 3 SLR 762</span>. 
 
 11     A wide discretion is vested with the High Court in the exercise of its revisionary powers. It is thus axiomatic that if the trial court had erred in ordering forfeiture to the extent that there was a fundamental error occasioning clear failure of justice, the High Court could exercise revisionary jurisdiction. 
 
@@ -68,7 +68,7 @@ _PP_ was a case on all fours with the present and s 4 of the Act was materially 
 
 14     The issue before me, therefore, was whether it was mandatory or discretionary for the court to order the forfeiture. 
 
-15     The trial judge relied on two reasons to distinguish _Toh Teong Seng v PP_ (see _Volkswagen Financial Services Singapore Ltd v PP_ [2006] SGDC 18). First, the trial judge opined (at [19]) that unlike s 20(5) of the 1988 EPHA which applied to vehicles liable to forfeiture under s 20(4), s 4(3) of the Act was a power of release referable to _the whole of s 4_ of the Act. Owing to this crucial distinction, the power of release within s 4(3) of the Act would not be rendered superfluous if the word “shall” in s 4(1) was used in its mandatory sense. 
+15     The trial judge relied on two reasons to distinguish _Toh Teong Seng v PP_ (see _Volkswagen Financial Services Singapore Ltd v PP_ <span class="citation">[2006] SGDC 18</span>). First, the trial judge opined (at [19]) that unlike s 20(5) of the 1988 EPHA which applied to vehicles liable to forfeiture under s 20(4), s 4(3) of the Act was a power of release referable to _the whole of s 4_ of the Act. Owing to this crucial distinction, the power of release within s 4(3) of the Act would not be rendered superfluous if the word “shall” in s 4(1) was used in its mandatory sense. 
 
 16     Second, the trial judge stated (at [20]) that the forfeiture in _Toh Teong Seng v PP_ was out of all proportion to the minor offences prosecuted under the 1988 EPHA. This rationale was not relevant to the case at hand. The offences listed in the Schedule to the Act are serious ones. 
 
@@ -160,7 +160,7 @@ the Act in question, the 1988 EPHA did not deal solely with forfeiture. The maxi
 
 37     The absence of criminal involvement by the petitioner was irrelevant. I observed in _Credit Corporation (M) Bhd v PP_ ([10] _supra_ ) at [11] that: 
 
- The petitioner claimed that as an innocent party it was unjustifiable that they be penalised. However, I made clear in Public Finance Bhd v PP [1997] 3 SLR 354, PP v Mayban Finance (Singapore) Ltd [1998] 1 SLR 462 and PP v M/s Serve You Motor Services [1996] 1 SLR 669 that, even though the court sympathised with the owners, forfeiture must be ordered once it has been used in the commission of the offence, regardless of whether the petitioner had participated in the criminal offence. The provision is clear and mandatory. The owners would have to be left to their remedies against the offenders. 
+ The petitioner claimed that as an innocent party it was unjustifiable that they be penalised. However, I made clear in Public Finance Bhd v PP <span class="citation">[1997] 3 SLR 354</span>, PP v Mayban Finance (Singapore) Ltd <span class="citation">[1998] 1 SLR 462</span> and PP v M/s Serve You Motor Services <span class="citation">[1996] 1 SLR 669</span> that, even though the court sympathised with the owners, forfeiture must be ordered once it has been used in the commission of the offence, regardless of whether the petitioner had participated in the criminal offence. The provision is clear and mandatory. The owners would have to be left to their remedies against the offenders. 
 
 38     It bears repeating that it is incumbent on finance and hire purchase companies to take extra care when entering into hire purchase agreements for their vehicles. Mandatory forfeiture places the onus on vehicle owners to exercise due diligence to ensure their vehicles do not serve as transportation tools to facilitate criminal activity. The courts have been constantly sending out this clear message in a long line of cases dealing with forfeiture. 
 

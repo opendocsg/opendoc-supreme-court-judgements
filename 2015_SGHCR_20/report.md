@@ -55,7 +55,7 @@ Plaintiff filed the Writ of Summons and Statement of Claim on 10 April 2015. The
 
 5       By way of a Notice of Appeal filed on 29 July 2015, the 1st Defendant appealed against the parts of the Registrar’s decision as mentioned in [4(a)] and [4(b)] above. The appeal, HC/RA 228/2015 (“RA 228”), has been fixed for hearing on 14 September 2015. 
 
-6       As the appeal did not operate as a stay of execution (see s 41 of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed) in general and O 56 r 1(4) of the Rules of Court in particular; and see _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ [1999] 1 SLR(R) 1053 at [13]), 
+6       As the appeal did not operate as a stay of execution (see s 41 of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed) in general and O 56 r 1(4) of the Rules of Court in particular; and see _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ <span class="citation">[1999] 1 SLR(R) 1053</span> at [13]), 
 
 the 1st Defendant took out the present application on 3 August 2015, seeking a stay of execution of the summary judgment pending the determination of RA 228. 
 
@@ -82,9 +82,9 @@ granted pursuant to O 45 r 11 of the Rules of Court, in view that the 1st Defend
 
 **_Merits of the appeal_** 
 
-9       First, the merits of the appeal, which would affect its prospects of success. It is well established that while the existence of strong grounds for appeal is not by itself a reason for granting a stay, the fact that there is little merit in the appeal is a relevant circumstance that a court can take into account in exercising its discretion to grant a stay pending appeal ( _Strandore Invest A/S and others v Soh Kim Wat_ [2010] SGHC 174 (“ _Strandore Invest_ ”) at [10], citing _Lee Kuan Yew v Jeyaretnam Joshua Benjamin_ [1990] 1 SLR(R) 772 and _Denis Matthew Harte v Tan Hun Hoe and another_ [2001] SGHC 19 (“ _Denis Matthew Harte_ ”)). 
+9       First, the merits of the appeal, which would affect its prospects of success. It is well established that while the existence of strong grounds for appeal is not by itself a reason for granting a stay, the fact that there is little merit in the appeal is a relevant circumstance that a court can take into account in exercising its discretion to grant a stay pending appeal ( _Strandore Invest A/S and others v Soh Kim Wat_ <span class="citation">[2010] SGHC 174</span> (“ _Strandore Invest_ ”) at [10], citing _Lee Kuan Yew v Jeyaretnam Joshua Benjamin_ <span class="citation">[1990] 1 SLR(R) 772</span> and _Denis Matthew Harte v Tan Hun Hoe and another_ <span class="citation">[2001] SGHC 19</span> (“ _Denis Matthew Harte_ ”)). 
 
-10     Counsel for the Plaintiff, Mr Leong Kah Wah (“Mr Leong”), argued that going by established legal principles, in particular those set out in _APL Co Pte Ltd v Voss Peer_ [2002] 2 SLR(R) 1119 (“ _APL v Voss Peer_ ”) at [55], a ship-owner should only deliver cargo against the presentation of a bill of lading. As such, he submitted that the present suit was a clear case of conversion and misdelivery, and that the 
+10     Counsel for the Plaintiff, Mr Leong Kah Wah (“Mr Leong”), argued that going by established legal principles, in particular those set out in _APL Co Pte Ltd v Voss Peer_ <span class="citation">[2002] 2 SLR(R) 1119</span> (“ _APL v Voss Peer_ ”) at [55], a ship-owner should only deliver cargo against the presentation of a bill of lading. As such, he submitted that the present suit was a clear case of conversion and misdelivery, and that the 
 
 prospects of a successful appeal were slim. Counsel for the 1st Defendant, Mr Thomas Tan (“Mr 
 
@@ -127,7 +127,7 @@ would appear to follow that there can be little (if any) basis for the 1st Defen
 
 18     Third, the risk of dissipation of assets by the judgment debtor (in this case, the 1st Defendant) should a stay pending appeal be granted. 
 
-19     Mr Leong pointed out that there has been some record of dishonesty on the part of the 1st Defendant. In _PT Sariwiguna Binasentosa v Sindo Damai Shipping Ltd and others_ [2015] SGHC 195, 
+19     Mr Leong pointed out that there has been some record of dishonesty on the part of the 1st Defendant. In _PT Sariwiguna Binasentosa v Sindo Damai Shipping Ltd and others_ <span class="citation">[2015] SGHC 195</span>, 
 
 Choo J made a finding (at [17]) about the 1st Defendant’s dishonesty. While Choo J had emphasised (at [18]) that the finding on dishonesty did not go towards showing an inclination to dissipate assets, 
 
@@ -150,7 +150,7 @@ assets by the 1st Defendant should a conditional stay be granted.
 
 seeking to wind up the 1st Defendant. Pursuant to the statutory demand, the 1st Defendant had (a) until 3 August 2015 to make payment of the judgment sum plus costs, failing which the Plaintiff would proceed “as it deems fit” for recovery of the same; and (b) until 17 August 2015 to make payment, 
 
-failing which the Plaintiff would apply for winding up against the 1st Defendant. Mr Tan submitted that where a judgment creditor pursues a winding up of the judgment debtor, the court may find that there are special circumstances warranting the grant of a stay of execution, since a successful winding up of the judgment debtor would render an appeal nugatory (see _Cathay Theatres Pte Ltd v LKM Investment Holdings Pte Ltd_ [2000] 1 SLR(R) 15 at [14]–[15] and _Strandore Invest_ at [12]). In 
+failing which the Plaintiff would apply for winding up against the 1st Defendant. Mr Tan submitted that where a judgment creditor pursues a winding up of the judgment debtor, the court may find that there are special circumstances warranting the grant of a stay of execution, since a successful winding up of the judgment debtor would render an appeal nugatory (see _Cathay Theatres Pte Ltd v LKM Investment Holdings Pte Ltd_ <span class="citation">[2000] 1 SLR(R) 15</span> at [14]–[15] and _Strandore Invest_ at [12]). In 
 
 the present case, Mr Tan submitted that in the absence of a stay pending appeal, the 1st Defendant 
 
@@ -172,7 +172,7 @@ protected pending appeal. On the contrary, Mr Tan argued that short of a stay of
 
 26     Mr Leong argued that the Plaintiff would suffer prejudice in the event that a stay was granted because it would not be able to immediately enjoy the fruits of a judgment that it had obtained. However, Mr Leong admitted that the Plaintiff would not suffer serious prejudice if (a) a stay was granted on the condition that the Defendant pay the full judgment sum, plus any interest, into court, and (b) RA 228 is indeed heard on 14 September 2015 and promptly decided by the appeal court. 
 
-27     Be that as it may, while prejudice to the parties is a relevant factor to be considered in determining whether a stay should be granted, the “balance of prejudice” is not the touchstone for the granting of a stay. The key touchstone, which is also the common thread that underlies the decided cases on granting of a stay pending appeal (see, _eg_ , _The “Shen Ming Hong 7”_ [2010] SGHC 269 at [12]–[13], as well as the other cases cited in the present grounds of decision), is that a stay is only granted where the appeal, if successful, may be rendered nugatory in the circumstances. In 
+27     Be that as it may, while prejudice to the parties is a relevant factor to be considered in determining whether a stay should be granted, the “balance of prejudice” is not the touchstone for the granting of a stay. The key touchstone, which is also the common thread that underlies the decided cases on granting of a stay pending appeal (see, _eg_ , _The “Shen Ming Hong 7”_ <span class="citation">[2010] SGHC 269</span> at [12]–[13], as well as the other cases cited in the present grounds of decision), is that a stay is only granted where the appeal, if successful, may be rendered nugatory in the circumstances. In 
 
 
 this regard, in _Strandore Invest_ , the court emphasised that the discretion to grant a stay must be exercised judicially, _ie_ , in accordance with well-established principles, and stated three principles in this regard ( _Strandore Invest_ at [7]): 

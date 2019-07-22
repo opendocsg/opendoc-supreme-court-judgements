@@ -76,12 +76,12 @@ the card was not his.
 
 19     If Pritam’s counsel acted against his instructions below, he may have failed to provide adequate professional services. This could eventually result in disciplinary proceedings under s 75B and the Second Schedule to the Legal Profession Act (Cap 161). However, the evidence relating to counsel’s lapse of judgment was otherwise irrelevant to this appeal. The mitigation plea was made only after the judge had found Pritam guilty, and was therefore irrelevant to his appeal against conviction. There was nothing to suggest that the impugned admission had any impact on the sentence imposed, and was thus also irrelevant to his appeal against sentence. 
 
-20     During the appeal, Pritam’s counsel relied on _Chia Kah Boon v PP_ [1999] 4 SLR 72 to argue that fresh evidence may be adduced even if it fails the _Ladd v Marshall_ test, as long as justice so requires. That was undeniably true. However, the case of _Chia Kah Boon_ was very different from the present appeal. In _Chia Kah Boon_ , the evidence did not meet the requirements of _Ladd v Marshall_ because it was obtainable during the trial below. By contrast, the evidence in the present appeal was 
+20     During the appeal, Pritam’s counsel relied on _Chia Kah Boon v PP_ <span class="citation">[1999] 4 SLR 72</span> to argue that fresh evidence may be adduced even if it fails the _Ladd v Marshall_ test, as long as justice so requires. That was undeniably true. However, the case of _Chia Kah Boon_ was very different from the present appeal. In _Chia Kah Boon_ , the evidence did not meet the requirements of _Ladd v Marshall_ because it was obtainable during the trial below. By contrast, the evidence in the present appeal was 
 
 
 simply irrelevant. 
 
-21     The court in _Chia Kah Boon_ emphasised that the exception to _Ladd v Marshall_ was a narrow one which was warranted only by the most extenuating circumstances: see _Chan Chun Yee v PP_ [1998] 3 SLR 638. There were no circumstances here which justified a departure from the rule in _Ladd v Marshall_. Furthermore, it is settled law that irrelevant evidence may not be adduced: s 5 of the Evidence Act (Cap 97). 
+21     The court in _Chia Kah Boon_ emphasised that the exception to _Ladd v Marshall_ was a narrow one which was warranted only by the most extenuating circumstances: see _Chan Chun Yee v PP_ <span class="citation">[1998] 3 SLR 638</span>. There were no circumstances here which justified a departure from the rule in _Ladd v Marshall_. Furthermore, it is settled law that irrelevant evidence may not be adduced: s 5 of the Evidence Act (Cap 97). 
 
 **The appeal** 
 
@@ -99,7 +99,7 @@ _The judge erred in finding that Pritam had been showed the identity card_
 
 25     In her grounds of decision, the judge stated that Sundram had maintained throughout the trial that he had shown the identity card to Pritam, and that the latter had told him to keep it. She thus accepted that Sundram had shown the identity card to Pritam. To bolster her finding, the judge relied on the statements made by Pritam's counsel during mitigation. On appeal, Pritam argued that the judge had erred in making this finding of fact. 
 
-26     It is true that a lower court’s findings of fact should not be lightly disturbed: _Lim Ah Poh v PP_ [1992] 1 SLR 713. However, I found that the evidence in this case did not entitle the judge to conclude that Pritam had been shown the identity card. Throughout the proceedings below, Pritam had adamantly stated that he was not shown the identity card. More importantly, Sundram himself did not maintain that he had shown the identity card to Pritam. His only reference to having done so was in the following exchange during cross-examination: 
+26     It is true that a lower court’s findings of fact should not be lightly disturbed: _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span>. However, I found that the evidence in this case did not entitle the judge to conclude that Pritam had been shown the identity card. Throughout the proceedings below, Pritam had adamantly stated that he was not shown the identity card. More importantly, Sundram himself did not maintain that he had shown the identity card to Pritam. His only reference to having done so was in the following exchange during cross-examination: 
 
  Q: Refer to P3 – Q & A 18 – did Pritam Singh say those last words in Q18 answer – “there won’t be any problem”? 
 
@@ -122,7 +122,7 @@ _The judge erred in finding that Pritam had been showed the identity card_
 
 _The fact that Sundram had verbally informed Pritam of the identity card did not make the conviction unsound_ 
 
-29     The law on abetting the employment of an illegal immigrant by intentional aiding was settled in _Loh Kim Lan & another v PP_ [2001] 1 SLR 552. In that case, the court held that the required _mens rea_ was a dominant intention to assist the employer in committing the offence of employing illegal workers, with knowledge of the circumstances constituting that offence. 
+29     The law on abetting the employment of an illegal immigrant by intentional aiding was settled in _Loh Kim Lan & another v PP_ <span class="citation">[2001] 1 SLR 552</span>. In that case, the court held that the required _mens rea_ was a dominant intention to assist the employer in committing the offence of employing illegal workers, with knowledge of the circumstances constituting that offence. 
 
 30     In the present appeal, Pritam did not dispute that the _actus reus_ of the offence was made out. Instead, he argued that the judge’s error made his conviction unsound as he did not have the requisite _mens rea_. He claimed that there was a “vast difference” between Sundram having shown him the identity card, and Sundram having told him that the card belonged to someone else. This was because the judge stated in her grounds of decision that Pritam must have known of Sundram’s illegal status because the photograph on the identity card bore no resemblance to Sundram himself. 
 
@@ -133,7 +133,7 @@ _The fact that Sundram had verbally informed Pritam of the identity card did not
 33     During oral submissions, Pritam’s counsel argued that the requisite _mens rea_ was a dominant intention to assist the employer, and did not focus on the issue of knowledge. This argument was 
 
 
-misconceived. The case law clearly shows that the requisite _mens rea_ is whether the accused had knowledge of the circumstances constituting the offence. The question of ‘dominant intention’ only arises where there is a dispute over whom the accused had actually abetted. This was seen in _Daw Aye Aye Mu v PP_ [1998] 2 SLR 64, where the High Court held that whether the accused had aided the employer or the illegal immigrant would depend on his dominant intention at the time that he did the act which led to the illegal immigrant’s employment. 
+misconceived. The case law clearly shows that the requisite _mens rea_ is whether the accused had knowledge of the circumstances constituting the offence. The question of ‘dominant intention’ only arises where there is a dispute over whom the accused had actually abetted. This was seen in _Daw Aye Aye Mu v PP_ <span class="citation">[1998] 2 SLR 64</span>, where the High Court held that whether the accused had aided the employer or the illegal immigrant would depend on his dominant intention at the time that he did the act which led to the illegal immigrant’s employment. 
 
 _The judge did not err in calling for the defence_ 
 
@@ -155,11 +155,11 @@ _The judge did not err in calling for the defence_
 
  g Whether he had entered Singapore with a valid passport or visa. 
 
-36     However, I found no merit to the allegation that Sundram was an unreliable witness merely because his evidence was not perfect. His discrepancies related to minor details which were not crucial to this appeal. It was unequivocally stated in _PP v Annamalai Pillai Jayanthi_ [1998] 2 SLR 165 that: 
+36     However, I found no merit to the allegation that Sundram was an unreliable witness merely because his evidence was not perfect. His discrepancies related to minor details which were not crucial to this appeal. It was unequivocally stated in _PP v Annamalai Pillai Jayanthi_ <span class="citation">[1998] 2 SLR 165</span> that: 
 
  Nevertheless, the mere presence of several discrepancies in the prosecutions case cannot, per se, render its case manifestly unreliable. It is incumbent upon the trial judge to consider whether the inconsistencies are sufficiently fundamental to nullify that part of the evidence which supports the charge. [emphasis added] 
 
-37     I found no reason to disturb the judge’s decision to call for the defence. In her grounds of decision, she concluded that Sundram was a truthful witness after she had observed his demeanour in court. Due weight should be accorded to a trial judge’s assessment of a witness’ credibility based on demeanour in court: _Jimina Jacee d/o C D Athananasius v PP_ [2000] 1 SLR 205. 
+37     I found no reason to disturb the judge’s decision to call for the defence. In her grounds of decision, she concluded that Sundram was a truthful witness after she had observed his demeanour in court. Due weight should be accorded to a trial judge’s assessment of a witness’ credibility based on demeanour in court: _Jimina Jacee d/o C D Athananasius v PP_ <span class="citation">[2000] 1 SLR 205</span>. 
 
 38     Despite the inconsistencies in his evidence, Sundram had never wavered on three points: he had told Pritam that he was in possession of a Singapore identity card; he had informed Pritam that the card did not belong to him; and it was Pritam who paid him his salary. If unrebutted, these three points would establish each essential element of the offence. As I agreed with the judge that Sundram was a credible witness, I could not fault her decision to call on Pritam for his defence, as 
 
@@ -168,11 +168,11 @@ required by the principles outlined in _Haw Tua Tau & another v PP_ [1980–81] 
 
 _Pritam remained liable for abetment even though Sukdev was given a discharge not amounting to an acquittal_ 
 
-39     In his submissions, Pritam called it “remarkable” that he was charged for abetting Sukdev in employing Sundram, even though Sukdev was given a discharge not amounting to an acquittal. There was no merit to this assertion. There is no need for the principal to have been convicted prior to the abettor in order that the latter may be found liable for aiding him: _Ong Ah Yeo Yenna v PP_ [1993] 2 SLR 73. After all, the verdicts against an abettor and his principal are not interdependent – the conviction of either party turns on the evidence against him, which may be different from that admitted against the other party: see _Govindarajulu and another v PP_ [1994] 2 SLR 838. 
+39     In his submissions, Pritam called it “remarkable” that he was charged for abetting Sukdev in employing Sundram, even though Sukdev was given a discharge not amounting to an acquittal. There was no merit to this assertion. There is no need for the principal to have been convicted prior to the abettor in order that the latter may be found liable for aiding him: _Ong Ah Yeo Yenna v PP_ <span class="citation">[1993] 2 SLR 73</span>. After all, the verdicts against an abettor and his principal are not interdependent – the conviction of either party turns on the evidence against him, which may be different from that admitted against the other party: see _Govindarajulu and another v PP_ <span class="citation">[1994] 2 SLR 838</span>. 
 
 **The sentence was not manifestly excessive** 
 
-40     There was no reason to disturb the sentence imposed by the judge. The benchmark sentence for cases which go to trial under s 57 of the Immigration Act has been set at 12 months: _Soh Lip Hwa v PP_ [2001] 4 SLR 198. The sentence for abetting an offence is the same as if the abettor was charged for the offence itself: s 109 of the Penal Code. 
+40     There was no reason to disturb the sentence imposed by the judge. The benchmark sentence for cases which go to trial under s 57 of the Immigration Act has been set at 12 months: _Soh Lip Hwa v PP_ <span class="citation">[2001] 4 SLR 198</span>. The sentence for abetting an offence is the same as if the abettor was charged for the offence itself: s 109 of the Penal Code. 
 
 41     Pritam had a previous conviction under s 57 of the Immigration Act, for which he was sentenced to eight months’ imprisonment. As a repeat offender, it could not be said that his sentence of 18 months (a mere six months above the benchmark) was manifestly excessive. 
 

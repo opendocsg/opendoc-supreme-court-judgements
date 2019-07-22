@@ -150,7 +150,7 @@ geographic al name. Ac c ordingly, there was no applic ation then to register th
 
  12(1) Any person c laiming to be the proprietor of a trade mark used or proposed to be used by him who is desirous of registering it shall apply in writing to the Registrar in the presc ribed manner for registration in Part A or B of the register. 
 
-48\. In Tiffany & Co v Fabriques de Tabac Reunies SA [1999] 3 SLR 147, Chief Justic e Yong Pung How, delivering the judgment of the Court of Appeal said, at para 27: 
+48\. In Tiffany & Co v Fabriques de Tabac Reunies SA <span class="citation">[1999] 3 SLR 147</span>, Chief Justic e Yong Pung How, delivering the judgment of the Court of Appeal said, at para 27: 
 
  27. In Cornish on Intellec tual Property (2nd Ed) whic h deals with the English position, the author c omments that while the c onc ept of proprietor c learly extends to a person who bona fide intends to use as well as one already using, it 
 
@@ -252,7 +252,7 @@ Permona was a bona fide proprietor of its mark.
 
 83\. It was therefore not nec essary for me to dec ide on Ms Iyers relianc e on s 76 of the Trade Marks Ac t to establish use of the Opponents CHUNGHWA in Singapore. 
 
-84\. I would add that the c ase of Future Enterprises Pte Ltd v Tong Seng Produc e Pte Ltd [1998] 1 SLR 1012 whic h Mr Teo relied on was not applic able. The fac ts there were different as the c offee produc ts were produc ed in Singapore for export to Russia. 
+84\. I would add that the c ase of Future Enterprises Pte Ltd v Tong Seng Produc e Pte Ltd <span class="citation">[1998] 1 SLR 1012</span> whic h Mr Teo relied on was not applic able. The fac ts there were different as the c offee produc ts were produc ed in Singapore for export to Russia. 
 
 85\. The question then was whether the evidenc e c onsidered as a whole gave rise to some reputation of the Opponents CHUNGHWA in Singapore. 
 

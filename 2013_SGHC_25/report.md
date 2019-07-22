@@ -57,7 +57,7 @@ _Family Law_ – _Maintenance_ – _Wife_
 
 8       Section 112(10)(b) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Charter”) defines the term matrimonial asset as an “asset of any nature acquired during the marriage by one party or both parties to the marriage”. 
 
-9       As observed by the Court of Appeal in _Yeo Chong Lin v Tay Ang Choo Nancy and another appeal_ [2011] 2 SLR 1157 (“ _Yeo_ ”) at [32], there is no “fixed date for the purposes of determining what assets would fall within the pool of matrimonial assets and what would not”. The Court of Appeal in _Yeo_ at [39] then suggested four possible dates which may be adopted as the operative date: 
+9       As observed by the Court of Appeal in _Yeo Chong Lin v Tay Ang Choo Nancy and another appeal_ <span class="citation">[2011] 2 SLR 1157</span> (“ _Yeo_ ”) at [32], there is no “fixed date for the purposes of determining what assets would fall within the pool of matrimonial assets and what would not”. The Court of Appeal in _Yeo_ at [39] then suggested four possible dates which may be adopted as the operative date: 
 
  The date of separation; 
 
@@ -111,9 +111,9 @@ separation and not any later date. Should the operative date be the date on whic
 
  (h) the matters referred to in s 114(1) so far as they are relevant. 
 
-17     The above factors are non-exhaustive and a wide discretion is conferred upon the court in order to achieve a just and equitable division of the matrimonial assets (see _Tan Hwee Lee v Tan Cheng Guan and another appeal and another matter_ [2012] 4 SLR 785 at [41] and _Yeo_ at [76]). 
+17     The above factors are non-exhaustive and a wide discretion is conferred upon the court in order to achieve a just and equitable division of the matrimonial assets (see _Tan Hwee Lee v Tan Cheng Guan and another appeal and another matter_ <span class="citation">[2012] 4 SLR 785</span> at [41] and _Yeo_ at [76]). 
 
-18     A broad brush approach which takes into account both financial and non-financial contributions should be used in achieving a just and equitable division of matrimonial assets ( _Yeo_ at [78]; _NK v NL_ [2007] 3 SLR(R) 743 (“ _NK v NL_ ”)). However, this does not mean that the court will meticulously investigate every minute sum each party has paid or incurred ( _NK v NL_ at [26]; _Yeo_ at [78]). Ultimately, the broad brush approach is “about feel and the court’s sense of justice” ( _Yeo_ at [76] and [81]). 
+18     A broad brush approach which takes into account both financial and non-financial contributions should be used in achieving a just and equitable division of matrimonial assets ( _Yeo_ at [78]; _NK v NL_ <span class="citation">[2007] 3 SLR(R) 743</span> (“ _NK v NL_ ”)). However, this does not mean that the court will meticulously investigate every minute sum each party has paid or incurred ( _NK v NL_ at [26]; _Yeo_ at [78]). Ultimately, the broad brush approach is “about feel and the court’s sense of justice” ( _Yeo_ at [76] and [81]). 
 
 **_Factors in the division of matrimonial assets_** 
 
@@ -123,7 +123,7 @@ _The length of the marriage_
 
 20     The parties had been married for 18 years although the husband moved out after six years of marriage. After the husband moved out, the parties still maintained contact through the husband’s monthly visits to the matrimonial home and his provision of $1,200 in monthly maintenance to his wife. 
 
-21     Previous cases have established that “in a short and childless marriage, the division of matrimonial assets will usually be in accordance with the parties' direct financial contributions as nonfinancial contributions will be minimal” ( _Ong Boon Huat Samuel v Chan Mei Lan Kristine_ [2007] 2 SLR(R) 729 (“ _Ong_ ”) at [28]; _Wang Shi Huah Karen v Wong King Cheung Kevin_ [1992] 2 SLR(R) 172 (“ _Wang_ ”) at [15]). However, I note that the effective length of the marriages in _Ong_ and _Wang_ ( _viz._ 19 months and one year respectively) were significantly shorter than the present case. Accordingly, I gave due consideration to both the financial and non-financial contributions of the parties in the present case. 
+21     Previous cases have established that “in a short and childless marriage, the division of matrimonial assets will usually be in accordance with the parties' direct financial contributions as nonfinancial contributions will be minimal” ( _Ong Boon Huat Samuel v Chan Mei Lan Kristine_ <span class="citation">[2007] 2 SLR(R) 729</span> (“ _Ong_ ”) at [28]; _Wang Shi Huah Karen v Wong King Cheung Kevin_ <span class="citation">[1992] 2 SLR(R) 172</span> (“ _Wang_ ”) at [15]). However, I note that the effective length of the marriages in _Ong_ and _Wang_ ( _viz._ 19 months and one year respectively) were significantly shorter than the present case. Accordingly, I gave due consideration to both the financial and non-financial contributions of the parties in the present case. 
 
 _Financial contributions_ 
 

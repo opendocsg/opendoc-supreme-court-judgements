@@ -275,7 +275,7 @@ _The law on implied terms_
 
  At least, it is true, I think, that if a term were never implied by a Judge unless it could pass that test, he could not be held to be wrong. 
 
-41     In _Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ [2006] 1 SLR(R) 927 at [32] (“ _Forefront_ ”), Andrew Phang Boon Leong J held that both the business efficacy and the officious bystander tests were firmly established in the case law in Singapore. Interestingly, Phang J observed ( _Forefront_ at [36]) that both tests were complementary. The officious bystander test was said to be the practical mode by which the business efficacy test was implemented. In this regard, Phang J approved Scutton LJ’s observation in _Reigate v Union Manufacturing Company (Ramsbottom), Limited_ 
+41     In _Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 927</span> at [32] (“ _Forefront_ ”), Andrew Phang Boon Leong J held that both the business efficacy and the officious bystander tests were firmly established in the case law in Singapore. Interestingly, Phang J observed ( _Forefront_ at [36]) that both tests were complementary. The officious bystander test was said to be the practical mode by which the business efficacy test was implemented. In this regard, Phang J approved Scutton LJ’s observation in _Reigate v Union Manufacturing Company (Ramsbottom), Limited_ 
 
 
 _and Elton Copdyeing Company, Limited_ [1918] 1 KB 592 at 605 where his Lordship held: 
@@ -284,13 +284,13 @@ _and Elton Copdyeing Company, Limited_ [1918] 1 KB 592 at 605 where his Lordship
 
  [emphasis in original] 
 
-The relationship between the tests was further clarified by the Court of Appeal in _Foo Jong Peng and others v Phua Kiah Mai and another_ [2012] 4 SLR 1267 (“ _Foo Jong Peng_ ”). There, the Court said (at [28]): 
+The relationship between the tests was further clarified by the Court of Appeal in _Foo Jong Peng and others v Phua Kiah Mai and another_ <span class="citation">[2012] 4 SLR 1267</span> (“ _Foo Jong Peng_ ”). There, the Court said (at [28]): 
 
  The relationship between the two test is complementary, rather than alternative or cumulative; the officious bystander test is the practical mode by which the business efficacy test is implemented. 
 
  [emphasis in original in italics; emphasis added in underline] 
 
-4       2 _Forefront_ was cited with approval by the Court of Appeal in _Ng Giap Hon v Westcombe Securities_ [2009] 3 SLR(R) 518 (“ _Ng Giap Hon_ ”) at [36]−[37] and _Foo Jong Peng_ at [27]. 
+4       2 _Forefront_ was cited with approval by the Court of Appeal in _Ng Giap Hon v Westcombe Securities_ <span class="citation">[2009] 3 SLR(R) 518</span> (“ _Ng Giap Hon_ ”) at [36]−[37] and _Foo Jong Peng_ at [27]. 
 
 43     Further, it has been said that the term to be implied must be reasonable and equitable: _Young & Marten v McManus Childs Ltd_ [1969] 1 AC 454 at 465. I should however caution that mere reasonableness, or convenience for that matter, is insufficient to justify a term being implied into a contract; it must always be shown that the term is _necessary_ : _Chitty on Contracts_ Vol 1 (Hugh Beale gen ed) (Sweet & Maxwell, 31st Ed, 2012) (“ _Chitty_ ”) at para [13-010]. Moreover, as Phang J noted in _Forefront_ (at [39]), the criterion of necessity is equally applicable to both the business efficacy and officious bystander tests. 
 
@@ -330,7 +330,7 @@ be exercised by the defendant in its sole discretion. Clause 16 also made it cle
 
 51     In this regard, counsel for the defendant referred me to _Edwards Jason Glenn v Australia and_ 
 
-_New Zealand Banking Group Ltd_ [2012] SGHC 61. [note: 37] In that case, Tay Yong Kwang J interpreted a provision in a loan facility (also granted by the defendant in these proceedings) worded in identical terms to cl 16 of the Facility Letter. Tay J accepted the bank’s contention that “clause 16 [was] there _to eliminate ANZ’s foreign exchange risk_ resulting primarily from a depreciation of the currency of the security against the different currency or currencies of the outstanding loan” [emphasis added]. I was of the same view. 
+_New Zealand Banking Group Ltd_ <span class="citation">[2012] SGHC 61</span>. [note: 37] In that case, Tay Yong Kwang J interpreted a provision in a loan facility (also granted by the defendant in these proceedings) worded in identical terms to cl 16 of the Facility Letter. Tay J accepted the bank’s contention that “clause 16 [was] there _to eliminate ANZ’s foreign exchange risk_ resulting primarily from a depreciation of the currency of the security against the different currency or currencies of the outstanding loan” [emphasis added]. I was of the same view. 
 
 52     At trial, the plaintiff purported to demonstrate that its own commercial interests depended on 
 
@@ -388,7 +388,7 @@ thereafter (“the Assumed State of Facts”). [note: 49] Therefore, the plainti
 
 _The law on estoppel by convention_ 
 
-67     The law on estoppel by convention was explained by the Court of Appeal in _MAE Engineering Ltd v Fire-Stop Marketing Services Pte Ltd_ [2005] 1 SLR(R) 379 (“ _MAE Engineering”_ ) at [43]–[44] in the following terms: 
+67     The law on estoppel by convention was explained by the Court of Appeal in _MAE Engineering Ltd v Fire-Stop Marketing Services Pte Ltd_ <span class="citation">[2005] 1 SLR(R) 379</span> (“ _MAE Engineering”_ ) at [43]–[44] in the following terms: 
 
  The locus classicus on the doctrine of estoppel by convention is Amalgamated Investment & Property Co Ltd v Texas Commerce International Bank Ltd [1982] QB 84. There, the conduct of the parties was held to give rise to an estoppel by convention which precluded them from relying on the true construction of the written document, as opposed to what they had erroneously supposed it to mean. Lord Denning MR said (at 122): 
 
@@ -396,9 +396,9 @@ _The law on estoppel by convention_
 
  Estoppel by convention is not found on any representation but on an agreed statement of facts the truth of which has been assumed by the parties to be the basis of the transaction (see also Spencer Bower’s The Law Relating to Estoppel by Representation (4th Ed, 2004) at para VIII.2.1. 
 
-It bears emphasis that estoppel by convention is not confined to cases where the underlying assumption was shared by both parties. It can also arise where the assumption was made by one party and acquiesced to by the other: _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ [2008] 2 SLR(R) 474 at [31]. 
+It bears emphasis that estoppel by convention is not confined to cases where the underlying assumption was shared by both parties. It can also arise where the assumption was made by one party and acquiesced to by the other: _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ <span class="citation">[2008] 2 SLR(R) 474</span> at [31]. 
 
-68     For an estoppel based on convention to arise, the following requirements must be satisfied: _Singapore Island Country Club v Hilborne_ [1996] 3 SLR(R) 418 (“ _Hilborne_ ”) at [27]: 
+68     For an estoppel based on convention to arise, the following requirements must be satisfied: _Singapore Island Country Club v Hilborne_ <span class="citation">[1996] 3 SLR(R) 418</span> (“ _Hilborne_ ”) at [27]: 
 
  (a) there must be a course of dealing between the two parties in a contractual relationship; 
 

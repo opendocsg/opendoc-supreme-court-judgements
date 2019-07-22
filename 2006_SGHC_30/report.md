@@ -59,7 +59,7 @@ Plaintiffs had to fulfil all the conditions in s 4(4) of the High Court (Admiral
 
  (b) Where there is a maritime lien on a ship: s 4(3); or 
 
- (c) Where there is a statutory right of action in rem or statutory lien ( per GP Selvam JC in The Bolbina [1994] 1 SLR 554, at 559) under s 4(4). Section 4(4) was amended on 1 April 2004; the version prior to the amendment—and the pertinent version for the present proceedings— reads as follows: 
+ (c) Where there is a statutory right of action in rem or statutory lien ( per GP Selvam JC in The Bolbina <span class="citation">[1994] 1 SLR 554</span>, at 559) under s 4(4). Section 4(4) was amended on 1 April 2004; the version prior to the amendment—and the pertinent version for the present proceedings— reads as follows: 
 
  In the case of any such claim as is mentioned in section 3 (1) (d) to (q), being a claim arising in connection with a ship, where the person who would be liable on the claim in an action in personam was, when the cause of the action arose, the owner or charterer of, or in possession or in control of, the ship, the admiralty jurisdiction of the High Court may (whether the claim gives rise to a maritime lien on the ship or not) be invoked by an action in rem against — 
 
@@ -107,7 +107,7 @@ _Service of an in rem writ and in personam writ_
 
 17\. _In personam_ admiralty jurisdiction on the other hand latches onto the Defendant personally. Once properly invoked, the Defendant is liable for the full extent of the Plaintiffs’ claim. 
 
-18\. Where the form of the writ is an _in personam_ writ, there is little room for confusion that the admiralty jurisdiction is invoked against the Defendants personally. An _in rem_ writ has both an _in personam_ and an _in rem_ component: ‘the English admiralty action in rem is not a pure action in rem for it contains latent elements of actions in personam’ _per_ GP Selvam JC in _The Bolbina_ [1994] 1 SLR 554, at 557. 
+18\. Where the form of the writ is an _in personam_ writ, there is little room for confusion that the admiralty jurisdiction is invoked against the Defendants personally. An _in rem_ writ has both an _in personam_ and an _in rem_ component: ‘the English admiralty action in rem is not a pure action in rem for it contains latent elements of actions in personam’ _per_ GP Selvam JC in _The Bolbina_ <span class="citation">[1994] 1 SLR 554</span>, at 557. 
 
 19\. Where the writ is an _in rem_ writ, a careful consideration of service is necessary in order to understand how and against what or whom the High Court’s admiralty jurisdiction is invoked. There are three possible scenarios: 
 
@@ -117,7 +117,7 @@ _Service of an in rem writ and in personam writ_
 
  (c) The in rem writ is not served on the ship but the ship owners’ solicitors accepts service or they enter an appearance thereby waiving service. 
 
-20\. The effect of the first two scenarios are amply summarised by LP Thean JA in _The Fierbinti_ [1994] 3 SLR 864, at 870: 
+20\. The effect of the first two scenarios are amply summarised by LP Thean JA in _The Fierbinti_ <span class="citation">[1994] 3 SLR 864</span>, at 870: 
 
  It seems to us that the distinction between service of the writ on the res and deemed service of the writ on the defendant is inevitable in an admiralty action in rem. An action in rem once commenced against the ship is an action against the ship itself and continues as such even though it may also be an action in personam against the owner thereof. If the owner does not enter an appearance and the judgment is obtained, the judgment is enforceable only against the ship and to the extent of the value of the ship. If, however, the owner enters an appearance the action will continue as an action in rem against the ship and an action in personam against the owner, and if judgment is obtained it is enforceable against the ship and also against the owner to the full extent of the judgment: see The Gemma , at pp 291–292; The August 8 , at p 456, and 
 
@@ -160,7 +160,7 @@ _Effect of using the wrong form_
 28\. I turn now to the question of the form of the writ. By taking out an _in rem_ writ, the Plaintiffs attempted to institute an _in rem_ action; but an _in rem_ action has both an _in rem_ and an _in personam_ component. While they may have started out intending to invoke the _in rem_ admiralty jurisdiction of the High Court by taking out an _in rem_ writ, the fact of the matter is that they elected to invoke only the _in personam_ admiralty jurisdiction. The _in rem_ component of the writ was never invoked. The present action was in substance conducted as an _in personam_ action from the moment the writ was served on the Defendants’ solicitors who accepted service of the writ on their behalf and entered appearance. 
 
 
-29\. In _The Ohm Mariana_ [1993] 2 SLR 698, the claim was by the ship managers against the ship owners for disbursements. One of the issue was whether the respondents who were the owners of the ship at the time the action commenced were also the owners of the ship at the time the cause of action arose. The Court of Appeal held that the respondents, although not the registered owners of the ship, were the beneficial owners of the ship at the time the cause of action arose. Since they were the beneficial owners in respect of all the shares of the ship when the action was brought, the statutory right of action _in rem_ was properly invoked. LP Thean J (as he then was) proceeded to consider the legal position where _in rem_ action was instituted in error. At p 712, he opined: 
+29\. In _The Ohm Mariana_ <span class="citation">[1993] 2 SLR 698</span>, the claim was by the ship managers against the ship owners for disbursements. One of the issue was whether the respondents who were the owners of the ship at the time the action commenced were also the owners of the ship at the time the cause of action arose. The Court of Appeal held that the respondents, although not the registered owners of the ship, were the beneficial owners of the ship at the time the cause of action arose. Since they were the beneficial owners in respect of all the shares of the ship when the action was brought, the statutory right of action _in rem_ was properly invoked. LP Thean J (as he then was) proceeded to consider the legal position where _in rem_ action was instituted in error. At p 712, he opined: 
 
  Further, even if the action in rem was instituted in error on the ground that, when the cause of action arose, the respondents were not the owners of Ohm Mariana, that error was not fatal to the appellants’ claim at the trial. As we have held, the claim of the plaintiffs came within para (o) of s 3(1) of the Act, and the court has jurisdiction to hear and determine the claim. The defendants had not, at the initial or any subsequent stage of the proceedings, applied to set aside the writ and the warrant of arrest. They entered an appearance unconditionally and in so doing submitted to the jurisdiction of the court and from then onwards the action continued as an action in rem as well as an action in personam: see The Gemma and The August 8. ... 
 

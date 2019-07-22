@@ -312,7 +312,7 @@ he was present, which was 3 May 2000. This by itself does not cast any reasonabl
 
 66     Various other inconsistencies were raised, all of which were fully dealt with by the trial judge in coming to her decision. I could see no fault in her finding that Donald’s evidence was generally cogent, believable and supported by evidence from other prosecution witnesses. 
 
-67     With regard to the submission in (v), the trial judge had borne in mind provision 116(b) of the Evidence Act (Cap 97) when she scrutinised the Donald’s evidence and explicitly cautioned herself as to this fact. In _Jimina Jacee d/o CD Athananasius v PP_ [2000] 2 SLR 205, I held that s116(b) of the Evidence Act did not mean that an accomplice’s evidence _must_ b e presumed to be unworthy of credit. The correct approach should be: 
+67     With regard to the submission in (v), the trial judge had borne in mind provision 116(b) of the Evidence Act (Cap 97) when she scrutinised the Donald’s evidence and explicitly cautioned herself as to this fact. In _Jimina Jacee d/o CD Athananasius v PP_ <span class="citation">[2000] 2 SLR 205</span>, I held that s116(b) of the Evidence Act did not mean that an accomplice’s evidence _must_ b e presumed to be unworthy of credit. The correct approach should be: 
 
  Whether or not the accomplice’s evidence is reliable will depend on all the circumstance of each case. All that the court is required to do is to scrutinise such evidence carefully [italics added] 
 
@@ -329,11 +329,11 @@ _Agnes’ evidence_
 
 72     With regards to her evidence on the appellant’s instructions, however, Agnes’ was found by the trial judge to be reliable. In respect of both her ordering of the goods and the communications with Donald, the trial judge found that Agnes was clear that she was acting on the appellant’s instructions. This was consistently held to by her despite vigorous cross-examination. 
 
-73     In _PP v Gan Lim Soon_ [1993] 3 SLR 261, the court stated: 
+73     In _PP v Gan Lim Soon_ <span class="citation">[1993] 3 SLR 261</span>, the court stated: 
 
  As with so many cases, where the lapse of time has caused memories to blur and fade, and result in throwing up many discrepancies in evidence, it is vitally important that courts do not lose sight of the wood for the trees. 
 
-In _Ng Kwee Leong v PP_ [1998] 3 SLR 942, I also held that a court can decide to accept one part of a witness’ testimony while rejecting the other. 
+In _Ng Kwee Leong v PP_ <span class="citation">[1998] 3 SLR 942</span>, I also held that a court can decide to accept one part of a witness’ testimony while rejecting the other. 
 
 74     Applying this approach, I found nothing wrong in relying on Agnes’ evidence in part. The actual dates and circumstances of the appellant giving instructions to her are immaterial; what was important was that these instructions were in fact given. On this, Agnes’ evidence was cogent and reliable. The fact that she had copied one of her emails ordering the goods to the appellant lends more weigh to her testimony, as he would surely have suspected something was amiss if he had truly not been involved in the transactions. I found it hard to believe the appellant’s explanation that he had not seen the email. The same approach was adopted by the trial judge, who relied only on the parts of Agnes’ evidence which proved that the goods were ordered on orders from the appellant. She was entitled to do so. 
 
@@ -370,7 +370,7 @@ _Alleged conspiracy_
 
 _Conclusion_ 
 
-85     It is settled law that an appellate court should be slow to disturb a trial judge’s finding of fact. Reference can be made to _PP v Victor Rajoo s/o Pitchay Muthu_ [1995] 3 SLR 417, where the Court of Appeal stated: 
+85     It is settled law that an appellate court should be slow to disturb a trial judge’s finding of fact. Reference can be made to _PP v Victor Rajoo s/o Pitchay Muthu_ <span class="citation">[1995] 3 SLR 417</span>, where the Court of Appeal stated: 
 
  The learned trial judge, who had the benefit of seeing and hearing the 
 

@@ -113,7 +113,7 @@ The Orders granted were to continue until further orders were made.
 **The background** 
 
 
-4       The genesis of the OS is Criminal Motions Nos 71 and 72 of 2016 (collectively “the Criminal Motions”) which were heard by Sundaresh Menon CJ in February 2017, after which he delivered his decision on 13 March 2017 (see _Rajendar Prasad Rai and Another v Public Prosecutor and Another Matter_ [2017] SGHC 49 (“the Judgment”)). 
+4       The genesis of the OS is Criminal Motions Nos 71 and 72 of 2016 (collectively “the Criminal Motions”) which were heard by Sundaresh Menon CJ in February 2017, after which he delivered his decision on 13 March 2017 (see _Rajendar Prasad Rai and Another v Public Prosecutor and Another Matter_ <span class="citation">[2017] SGHC 49</span> (“the Judgment”)). 
 
 5       The Defendant and his wife, GK were the applicants in Criminal Motion No 71 and 72 of 2016 respectively. They had applied for the release of bank accounts and certain immoveable properties that had been seized by the authorities in October 2015 (“the seizure order”) pursuant to ss 35(7) and 370(2) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“the CPC”). The seizure order was made after the Defendant was charged on or about 26 September 2015 with six counts of corruption under s 5( _b_ )(i) (read with s 29) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed) (“the PCA”) for match fixing activities that had taken place in 2013–2014. Section 5( _b_ )(i) of the PCA reads as follows: 
 

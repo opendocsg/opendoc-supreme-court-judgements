@@ -16,7 +16,7 @@
 
 _Criminal law_ – _Offences_ – _Rape_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2013] SGHC 235.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2013] SGHC 235</span>.] 
 
 14 January 2016 Judgment reserved. 
 
@@ -41,7 +41,7 @@ _Criminal law_ – _Offences_ – _Rape_
 
  (f) Charge 10: Digital-anal penetration without consent between the evening of 13 March 2010 and 6.00am on 14 March 2010 under s 376(2)( a ) and punishable under s 376(3) of the Penal Code. 
 
-3       On 1 August 2013, the High Court found the Appellant guilty of all six charges and sentenced him to an aggregate of 22 years in prison and 24 strokes of the cane: see the grounds of decision of the judge (“the Judge”) in _Public Prosecutor v BMD_ [2013] SGHC 235 (“the GD”) (at [3]). 
+3       On 1 August 2013, the High Court found the Appellant guilty of all six charges and sentenced him to an aggregate of 22 years in prison and 24 strokes of the cane: see the grounds of decision of the judge (“the Judge”) in _Public Prosecutor v BMD_ <span class="citation">[2013] SGHC 235</span> (“the GD”) (at [3]). 
 
 4       The Appellant appealed against both conviction and sentence. The Appellant was unrepresented when the appeal was first heard on 12 January 2015. On that date, pursuant to s 8(3) of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed), we ordered that nothing be published that may lead to the identification of the victim. We also granted the Appellant’s application to adjourn the matter to a date to be fixed to obtain counsel. Mr Pradeep Pillai eventually took on the matter. At the subsequent hearing on 10 September 2015, we reserved judgment after hearing the arguments of the parties. We now give our decision. 
 
@@ -183,7 +183,7 @@ _The credibility of the witnesses_
 
 _The victim’s evidence_ 
 
-42     It is trite that where no other evidence is available, a complainant’s testimony can constitute proof beyond reasonable doubt – but only when it is so “unusually convincing” as to overcome any doubts that might arise from the lack of corroboration: see _AOF v Public Prosecutor_ [2012] 3 SLR 34 (“ _AOF_ ”) at [111]. The general rule of practice is that the evidence of child witnesses is not taken at face value (see _Lee Kwang Peng v Public Prosecutor and another appeal_ [1997] 2 SLR(R) 569 (“ _Lee Kwang Peng_ ”) at [62]), the reason being that (per Thomson CJ in _Chao Chong & Ors v Public Prosecutor_ [1960] MLJ 238): 
+42     It is trite that where no other evidence is available, a complainant’s testimony can constitute proof beyond reasonable doubt – but only when it is so “unusually convincing” as to overcome any doubts that might arise from the lack of corroboration: see _AOF v Public Prosecutor_ <span class="citation">[2012] 3 SLR 34</span> (“ _AOF_ ”) at [111]. The general rule of practice is that the evidence of child witnesses is not taken at face value (see _Lee Kwang Peng v Public Prosecutor and another appeal_ <span class="citation">[1997] 2 SLR(R) 569</span> (“ _Lee Kwang Peng_ ”) at [62]), the reason being that (per Thomson CJ in _Chao Chong & Ors v Public Prosecutor_ [1960] MLJ 238): 
 
  ... children at times find it difficult to distinguish between reality and fantasy. They find it difficult after a lapse of time to distinguish between the results of observation and the results of imagination. 
 
@@ -241,7 +241,7 @@ the witness stand. The RoP clearly did not give the full flavour of the proceedi
 
  What is important is the substance as well as the relevance of the evidence, and whether it is supportive or confirmative of the weak evidence which it is meant to corroborate. 
 
-See _AOF_ at [173], citing _Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ [2008] 1 SLR(R) 601 at [43]. 
+See _AOF_ at [173], citing _Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">[2008] 1 SLR(R) 601</span> at [43]. 
 
 57     It is the Appellant’s argument that the police had failed to gather all possible evidence to corroborate the evidence of the victim and to investigate all possible leads to ascertain whether the victim is telling the truth. For instance, the victim had testified that the Appellant had taken photographs of her anus and so the police could have seized the Appellant’s handphone to see if there were any such photographs stored on the handphone; the victim tested positive for two sexually transmissible diseases and so the Appellant could have been tested for the same diseases; and the police could also have done more to try to trace the Indian man who slept with the victim after the alleged offences. While the investigative process could have been more thorough, we accept the Prosecution’s argument that, to an extent, the Appellant’s submission cuts both ways. Just as any evidence that was uncovered could have supported the Appellant’s case, they could also have corroborated the victim’s account. We would add that even if the evidence had resolved in the Appellant’s favour they would not necessarily exonerate the Appellant. What is crucial is that the Judge was aware that there was little in the way of physical evidence that corroborated the victim’s narrative (such as her injuries and even so only to a limited extent), and some evidence that might weigh against the case of the Prosecution (the fact that the Appellant’s DNA was not discovered despite DNA testing). 
 
@@ -252,7 +252,7 @@ _The Appellant’s wife’s evidence_
 59     As already noted above at [23], the Appellant’s wife was a witness for the Prosecution, but her 
 
 
-credit was successfully impeached and the Judge substituted her statements to the police as her evidence pursuant to section 147(3) of the Evidence Act. Admissibility was challenged on the basis that the statements were made involuntarily, and it was initially argued in the Appellant’s written submissions that the Judge erred in admitting the statements without conducting a _voir dire_ (or a “trial-within-a-trial”). This argument is untenable as there is no requirement under s 147 of the Evidence Act for the party seeking to admit the evidence to prove that a witness (as opposed to an accused person) made the statement voluntarily. The issue only goes to the weight to be placed on the statements. It is therefore unnecessary to conduct a _voir dire_ to determine that the statement was made voluntarily before it is admitted for cross-examination or as substantive evidence under s 147 of the Evidence Act: see _Thiruselvam s/o Nagaratnam v Public Prosecutor_ [2001] 1 SLR(R) 362 (at [45]–[47]). That being so, the Appellant’s then-counsel at trial had properly conceded that there was no need to conduct a _voir dire_ , and at the hearing before us Mr Pillai also accepted that no such requirement existed in law. The Judge did not err on this point. 
+credit was successfully impeached and the Judge substituted her statements to the police as her evidence pursuant to section 147(3) of the Evidence Act. Admissibility was challenged on the basis that the statements were made involuntarily, and it was initially argued in the Appellant’s written submissions that the Judge erred in admitting the statements without conducting a _voir dire_ (or a “trial-within-a-trial”). This argument is untenable as there is no requirement under s 147 of the Evidence Act for the party seeking to admit the evidence to prove that a witness (as opposed to an accused person) made the statement voluntarily. The issue only goes to the weight to be placed on the statements. It is therefore unnecessary to conduct a _voir dire_ to determine that the statement was made voluntarily before it is admitted for cross-examination or as substantive evidence under s 147 of the Evidence Act: see _Thiruselvam s/o Nagaratnam v Public Prosecutor_ <span class="citation">[2001] 1 SLR(R) 362</span> (at [45]–[47]). That being so, the Appellant’s then-counsel at trial had properly conceded that there was no need to conduct a _voir dire_ , and at the hearing before us Mr Pillai also accepted that no such requirement existed in law. The Judge did not err on this point. 
 
 60     As for the voluntariness of the statements themselves, the crux of the Appellant’s submissions is that the Appellant’s wife was of a lower intellect herself, and therefore susceptible to robust interrogation by the investigating officer, SI Azman, whom the Appellant described as having “played the role of interrogator, interpreter and recorder”. The Appellant also pointed to the detailed nature of the statements, and argued that it was therefore possible that SI Azman had “led” the wife on certain details. 
 
@@ -279,7 +279,7 @@ _Conclusion on conviction_
 
 68     It remains for us to consider whether the sentences meted out by the Judge against the Appellant are manifestly excessive or otherwise. The Judge had ordered the sentence for Charge 1 (15 years’ imprisonment and 12 strokes of the cane) and Charge 9 (7 years’ imprisonment and 6 strokes of the cane) to run consecutively, with all other imprisonment terms to run concurrently, with effect from 16 March 2010. 
 
-69     The Appellant’s primary case is that the sentences for Charges 1 and 6 are manifestly excessive because they are category 1 rapes and not category 2 rapes as found by the Judge (see the GD at [70]) under the benchmark introduced in _Public Prosecutor v NF_ [2006] 4 SLR(R) 849. To summarise, category 1 rapes are rapes that feature no aggravating or mitigating circumstances while category 2 
+69     The Appellant’s primary case is that the sentences for Charges 1 and 6 are manifestly excessive because they are category 1 rapes and not category 2 rapes as found by the Judge (see the GD at [70]) under the benchmark introduced in _Public Prosecutor v NF_ <span class="citation">[2006] 4 SLR(R) 849</span>. To summarise, category 1 rapes are rapes that feature no aggravating or mitigating circumstances while category 2 
 
 
 rapes are rapes where there had been exploitation of a particularly vulnerable victim. The Appellant says that these cannot be category 2 rapes because the Appellant and the victim were not in a true familial relationship given the minimal contact between the Appellant and the victim prior to the offences. 

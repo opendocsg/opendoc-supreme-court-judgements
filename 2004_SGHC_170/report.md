@@ -22,13 +22,13 @@ _Civil Procedure_ – _Appeals_ – _Leave_ – _Successful plaintiff denied ful
 
 **Background** 
 
-1       In my judgment of 11 June 2004 ([2004] SGHC 123), I declared that the plaintiff, RBG Resources plc (“RBG”), remained the legal and beneficial owner of metals in certain warehouses which had been held for the account of RBG prior to any dealing of the metals between RBG and the second defendant Credit Lyonnais (“CL”), save for one drum of nickel identified as 519-W127 by SGS Testing & Control Services Singapore Pte Ltd. I also ordered that the sale proceeds of RBG’s metal be released to RBG or its solicitors. 
+1       In my judgment of 11 June 2004 (<span class="citation">[2004] SGHC 123</span>), I declared that the plaintiff, RBG Resources plc (“RBG”), remained the legal and beneficial owner of metals in certain warehouses which had been held for the account of RBG prior to any dealing of the metals between RBG and the second defendant Credit Lyonnais (“CL”), save for one drum of nickel identified as 519-W127 by SGS Testing & Control Services Singapore Pte Ltd. I also ordered that the sale proceeds of RBG’s metal be released to RBG or its solicitors. 
 
 2       I further ordered CL to pay damages to RBG for conversion of nickel briquettes which CL had taken delivery of from one of the warehouses, such damages being the net purchase price or prices which CL had obtained for the briquettes as CL had sold the same. 
 
 3       Consequently, CL’s counterclaim for the metals in the warehouses, which also formed the subject matter of RBG’s claim, was dismissed, save for the one drum of nickel identified as 519-W127. CL was consequently entitled to the sale proceeds of that one drum of nickel. 
 
-4       I reserved the question of costs and interest for counsel’s submissions. After hearing submissions, I awarded RBG 70% of the costs of its claim and of CL’s counterclaim. The details of the costs order and my reasons are set out in my further judgment dated 6 August 2004 ([2004] SGHC 167) (“judgment on costs”). I did not award RBG full costs because it was not successful on the issue it raised under s 62(4) of the Sale of Goods Act (Cap 393, 1999 Rev Ed). The s 62(4) issue is elaborated on in my judgment of 11 June 2004. 
+4       I reserved the question of costs and interest for counsel’s submissions. After hearing submissions, I awarded RBG 70% of the costs of its claim and of CL’s counterclaim. The details of the costs order and my reasons are set out in my further judgment dated 6 August 2004 (<span class="citation">[2004] SGHC 167</span>) (“judgment on costs”). I did not award RBG full costs because it was not successful on the issue it raised under s 62(4) of the Sale of Goods Act (Cap 393, 1999 Rev Ed). The s 62(4) issue is elaborated on in my judgment of 11 June 2004. 
 
 5       CL then appealed against my judgment of 11 June 2004 and my judgment on costs. 
 
@@ -39,7 +39,7 @@ have been awarded full costs as it had obtained judgment for all its claims and 
 
 7       However, when parties appeared before me to argue the application, RBG started its arguments on a different ground. RBG said that it intended to file a respondent’s notice in CL’s appeal to argue that my decision should also be supported under s 62(4). If the Court of Appeal were to agree with RBG on the s 62(4) issue, RBG intended to ask that my costs order be varied so that it would then be awarded full costs instead of 70% of the costs. I will refer to the issue about varying my costs order if RBG succeeds on the s 62(4) issue as “the Conditional Issue”. I should also mention that the concept of a respondent’s notice has been done away with and RBG would have to raise the s 62(4) issue in its respondent’s case instead under O 57 r 9A(5) of the Rules of Court (Cap 322, R 5, 2004 Rev Ed). 
 
-8       RBG relied on _Lee Hiok Tng v Lee Hiok Tng_ [2001] 3 SLR 41 to support its contention that it had to apply for leave to appeal in the circumstances, otherwise it would be denied the chance to seek a variation of my costs order should the Court of Appeal determine the s 62(4) issue in its favour. 
+8       RBG relied on _Lee Hiok Tng v Lee Hiok Tng_ <span class="citation">[2001] 3 SLR 41</span> to support its contention that it had to apply for leave to appeal in the circumstances, otherwise it would be denied the chance to seek a variation of my costs order should the Court of Appeal determine the s 62(4) issue in its favour. 
 
 9       RBG also relied on the Application Issue. However, RBG appeared to appreciate that the Application Issue alone would probably not be sufficient to obtain leave to appeal. Costs awards are in the discretion of the trial judge and it is not unusual for a party to be awarded part of the costs of his claim because he has failed on an issue raised by him, even though he has obtained judgment effectively for his full claim. Hence, RBG placed much reliance on the Conditional Issue. 
 

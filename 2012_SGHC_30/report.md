@@ -145,7 +145,7 @@ the action. They filed RA No 234 of 2011 against the decision to dismiss the pla
 
 23     For present purposes, I need focus only on the allegation about an abuse of the process of the court. 
 
-24     In _Chee Siok Chin v Minister for Home Affairs_ [2006] 1 SLR(R) 582 (“ _Chee Siok Chin_ ”), the High Court said: 
+24     In _Chee Siok Chin v Minister for Home Affairs_ <span class="citation">[2006] 1 SLR(R) 582</span> (“ _Chee Siok Chin_ ”), the High Court said: 
 
  34 The instances of abuse of process can therefore be systematically classified into four categories, viz : 
 
@@ -321,7 +321,7 @@ accounts nor were any instructions sought from them.
 
 purchased RSB bonds without instruction and AM then affirmed the purchase after a discussion with a UBS officer. In that discussion, some representations were made by the UBS officer. 
 
-54     However, Mr Kumar submitted that even if it was true that the RSB bonds were purchased without instruction initially and some representations were then made by a UBS officer after which AM affirmed the purchase, the plaintiffs would still be precluded by contractual terms on relying on any such representation. He relied on _Orient Centre Investments Ltd v Societe Generale_ [2007] 3 SLR(R) 566 to support this point. 
+54     However, Mr Kumar submitted that even if it was true that the RSB bonds were purchased without instruction initially and some representations were then made by a UBS officer after which AM affirmed the purchase, the plaintiffs would still be precluded by contractual terms on relying on any such representation. He relied on _Orient Centre Investments Ltd v Societe Generale_ <span class="citation">[2007] 3 SLR(R) 566</span> to support this point. 
 
 55     Mr Kumar’s written submissions set out the relevant contractual terms as follows: 
 
@@ -427,7 +427,7 @@ explained their contradictions and had advanced a false case about absence of in
 
 UBS. In response, the plaintiffs continued to rely on their arguments that they did not understand English and so on. They still relied on the defence of _non est factum_. 
 
-70     However, the Court of Appeal recently issued a timely reminder in _Soon Kok Tiang and others v DBS Bank Ltd and another matter_ [2011] SGCA 55 on 2 November 2011. At [63], Chan Sek Keong CJ said: 
+70     However, the Court of Appeal recently issued a timely reminder in _Soon Kok Tiang and others v DBS Bank Ltd and another matter_ <span class="citation">[2011] SGCA 55</span> on 2 November 2011. At [63], Chan Sek Keong CJ said: 
 
  In view of our decision in this appeal, we think it apposite and timely to remind the general public that under the law of contract, a person who signs a contract which is set out in a language he is not familiar with or whose terms he may not understand is nonetheless bound by the terms of that contract. Illiteracy, whether linguistic, financial or general, does not enable a contracting party to avoid a contract whose terms he has expressly agreed to be bound by. The principle of caveat emptor applies equally to literates and illiterates in such circumstances. 
 

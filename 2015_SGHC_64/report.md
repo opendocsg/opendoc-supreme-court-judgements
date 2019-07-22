@@ -274,7 +274,7 @@ pay the monthly instalments for the debt secured on it. [note: 53]
 
 30     Against that factual backdrop, I now consider how to exercise my power under s 112 of the Women’s Charter (Cap 353, 2009 Rev Ed) to divide the matrimonial assets “in such proportion as the court thinks just and equitable.” 
 
-31     The Court of Appeal in _BCB v BCC_ [2013] 2 SLR 324 has recently and authoritatively surveyed the case law and restated how a judge at first instance is to approach this task. I distil the following principles from that case: 
+31     The Court of Appeal in _BCB v BCC_ <span class="citation">[2013] 2 SLR 324</span> has recently and authoritatively surveyed the case law and restated how a judge at first instance is to approach this task. I distil the following principles from that case: 
 
  It is fundamental to the proper exercise of the power under s 112 of the Women’s Charter that the court use a broad-brush approach (at [7]). 
 
@@ -396,7 +396,7 @@ assessment 2014 shows income from trade of $16,245. [note: 77] He contributes $5
 
  (c) 
 
- First, I take into account that the division of matrimonial assets which I have ordered will leave each spouse with financial resources of well over $1m at his and her disposal. That is more than sufficient for each of them to rehouse themselves and to remain economically independent through their old age. It is legitimate to have regard to the outcome of the division of matrimonial assets in determining whether to order maintenance and if so in what sum: see s 114(1)( a ) of the Women’s Charter and Foo Ah Yan v Chiam Heng Chow [2012] 2 SLR 506 at [26]. 
+ First, I take into account that the division of matrimonial assets which I have ordered will leave each spouse with financial resources of well over $1m at his and her disposal. That is more than sufficient for each of them to rehouse themselves and to remain economically independent through their old age. It is legitimate to have regard to the outcome of the division of matrimonial assets in determining whether to order maintenance and if so in what sum: see s 114(1)( a ) of the Women’s Charter and Foo Ah Yan v Chiam Heng Chow <span class="citation">[2012] 2 SLR 506</span> at [26]. 
 
  Second, and related to the first factor, it does not appear to me that the wife can be said to have a financial need for maintenance within the meaning of s 114(1)( b ), given that she has this substantial sum at her disposal. 
 

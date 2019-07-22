@@ -68,7 +68,7 @@ on stay applications. Secondly, to insist on the filing of a Defence while an ap
 
 11\. Mr Arul stressed that if a Defence or any other step is taken by the Defendant then that would be a submission to the Singapore court’s jurisdiction. His alternative argument was that the Deputy Registrar, in granting the Defendant an extension of time to file the Defence, should have done so on the basis of a broader undertaking from Plaintiffs’ Counsel so as to apply to any other step that the Defendant might take after Defence. 
 
-12\. In paras 26 to 30 of his written submissions, Mr Arul referred to certain passages from the judgment of Karthigesu JA in _The Jarguh Sawit_ [1998] 1 SLR 648. That was a case in which the facts and issues were different from those before me. Nevertheless, certain parts of the judgment of Karthigesu JA are apposite and I cite them below: 
+12\. In paras 26 to 30 of his written submissions, Mr Arul referred to certain passages from the judgment of Karthigesu JA in _The Jarguh Sawit_ <span class="citation">[1998] 1 SLR 648</span>. That was a case in which the facts and issues were different from those before me. Nevertheless, certain parts of the judgment of Karthigesu JA are apposite and I cite them below: 
 
  ‘30 Firstly, whether or not a court has jurisdiction is, of necessity, a question logically prior to the substantive dispute of the parties. Unless and until a court is properly seized, it cannot adjudicate on the matter.... Thus, our law provides that a party disputing jurisdiction may appear before the court to argue the question of jurisdiction (which we hold to be a procedural issue) without thereby submitting to the court’s jurisdiction to determine substantive issues .... 
 

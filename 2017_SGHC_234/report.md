@@ -263,7 +263,7 @@ Chinese court to dismiss it in favour of a foreign court. [note: 42] The court w
 
 50     The defendants took the position that even under common law principles, the same conclusion would be reached – that Chinese courts would have exclusive jurisdiction. In this regard, the defendants relied _inter alia_ on: 
 
- (a) The “substance” test and the “three stage approach” in JIO Minerals FZC and Others v Mineral Enterprises Ltd [2011] 1 SLR 391 (“ JIO Minerals ”); 
+ (a) The “substance” test and the “three stage approach” in JIO Minerals FZC and Others v Mineral Enterprises Ltd <span class="citation">[2011] 1 SLR 391</span> (“ JIO Minerals ”); 
 
 
  (b) The fact that the place of the tort took place in China as the alleged Representations and Further Representations were made in Zhuhai; and 
@@ -280,7 +280,7 @@ Chinese court to dismiss it in favour of a foreign court. [note: 42] The court w
 
  (d) It was merely fortuitous that the receipt of the Representations and the execution of the LOI took place in a meeting in Zhuhai. The location of the meeting was unimportant and was merely a matter of administrative convenience. Correspondence showed that Leon Chen and other officers of ZCC were willing to travel to Singapore for meetings with the plaintiff. Therefore, an inference should be drawn that the parties did not ascribe any special significance to Zhuhai as a meeting location; 
 
- (e) Although Chee received the Representations on 1 August 2016 in Zhuhai, Chee relied on them in Singapore by communicating with the plaintiff’s employees in Singapore and instructing them to pay the US$3m deposit into the first defendant’s bank account (citing UBS AG v Telesto Investments Ltd [2011] 4 SLR 50 in support); 
+ (e) Although Chee received the Representations on 1 August 2016 in Zhuhai, Chee relied on them in Singapore by communicating with the plaintiff’s employees in Singapore and instructing them to pay the US$3m deposit into the first defendant’s bank account (citing UBS AG v Telesto Investments Ltd <span class="citation">[2011] 4 SLR 50</span> in support); 
 
  (f) Upon receiving the Further Representations in Singapore, the plaintiff relied on them and paid the US$2.6m advance payment to the first defendant in Singapore; 
 
@@ -303,7 +303,7 @@ Chinese court to dismiss it in favour of a foreign court. [note: 42] The court w
 
 53     Equally noteworthy (as was pointed out by the first defendant) was the fact that the plaintiff’s claim based on the LOI was not framed in contract but in tort coupled with a claim for equitable relief. Why was that the case? The first defendant surmised it was a deliberate choice as, had the plaintiff relied on the LOI to frame its claim in breach of contract, it would have had great difficulty in overcoming clause 7 (at [23] which provided for the place of performance to be Zhuhai). 
 
-54     The court granted the defendants’ applications as it was clear that based on the two-stage test propounded by the House of Lords in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _Spiliada_ ”) (a case cited by all three parties and which was recently reaffirmed by our Court of Appeal in _Rappo Tania v Accent Delight International Ltd_ [2017] 2 SLR 265) (“ _Accent Delight_ ”) and the three-pronged approach laid out by our Court of Appeal in _JIO Minerals_ , the plaintiff’s claim should more appropriately be heard by the Chinese courts in Zhuhai. 
+54     The court granted the defendants’ applications as it was clear that based on the two-stage test propounded by the House of Lords in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _Spiliada_ ”) (a case cited by all three parties and which was recently reaffirmed by our Court of Appeal in _Rappo Tania v Accent Delight International Ltd_ <span class="citation">[2017] 2 SLR 265</span>) (“ _Accent Delight_ ”) and the three-pronged approach laid out by our Court of Appeal in _JIO Minerals_ , the plaintiff’s claim should more appropriately be heard by the Chinese courts in Zhuhai. 
 
 55     The two-stage test in _Spiliada_ can succinctly be stated as follows: 
 

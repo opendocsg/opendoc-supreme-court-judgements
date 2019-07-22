@@ -16,7 +16,7 @@
 
 _Contract_ – _Termination_ – _Repudiation of contract_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 155 of 2017 was dismissed while the appeal in Civil Appeal No 157 of 2017 was allowed in part by the Court of Appeal on 25 June 2018. See [2018] SGCA 28.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 155 of 2017 was dismissed while the appeal in Civil Appeal No 157 of 2017 was allowed in part by the Court of Appeal on 25 June 2018. See <span class="citation">[2018] SGCA 28</span>.] 
 
 28 July 2017 Judgment reserved. 
 
@@ -246,7 +246,7 @@ Biofuel’s premises in March 2015. [note: 9] According to paras 160 to 165 of D
 
 **The law on repudiation** 
 
-66     In _San International Pte Ltd v Keppel Engineering Pte Ltd_ [1998] 3 SLR(R) 458 (“ _San International_ ”), the Court of Appeal said at [20]: 
+66     In _San International Pte Ltd v Keppel Engineering Pte Ltd_ <span class="citation">[1998] 3 SLR(R) 458</span> (“ _San International_ ”), the Court of Appeal said at [20]: 
 
  The law on repudiatory breach or renunciation can be summarised as follows: A renunciation of contract occurs when one party by words or conduct evinces an intention not to perform or expressly declares that he is or will be unable to perform his obligations in some material respect. 
 
@@ -255,7 +255,7 @@ Biofuel’s premises in March 2015. [note: 9] According to paras 160 to 165 of D
 
  [emphasis in original] 
 
-67     The substance of the above passage has been cited with approval in subsequent cases, for example, _in Alliance Concrete Singapore Pte Ltd v Sato Kogyo (S) Pte Ltd_ [2014] 3 SLR 857 (“ _Alliance Concrete_ ”) at [59] and in _Ng Chee Weng v Lim Jit Ming Bryan and another and another appeal_ [2015] 3 SLR 92 at [66]. 
+67     The substance of the above passage has been cited with approval in subsequent cases, for example, _in Alliance Concrete Singapore Pte Ltd v Sato Kogyo (S) Pte Ltd_ <span class="citation">[2014] 3 SLR 857</span> (“ _Alliance Concrete_ ”) at [59] and in _Ng Chee Weng v Lim Jit Ming Bryan and another and another appeal_ <span class="citation">[2015] 3 SLR 92</span> at [66]. 
 
 68     I note that in _Alliance Concrete_ , the Court of Appeal described, at [58], four situations which entitle an innocent party to elect to treat a contract as discharged as a result of the other party’s breach. Situation 2, as described there, occurs where the party in breach of contract renounces the contract. This renunciation is also referred to as repudiation as stated in _San International_. Situation 3(b), as described in _Alliance Concrete_ , occurs where the breach of a term of the contract deprives the innocent party of substantially the whole benefit of the contract which it was intended to obtain. This situation 3(b) is not the same as Situation 2. I mention this because para 66 of V8’s closing submission referred to a situation which is actually Situation 3(b). However, V8’s pleaded defence at paras 32 and 33 relied on repudiation, _ie_ , Situation 2 and not Situation 3(b). Hence, I will confine my consideration to Situation 2 only. 
 

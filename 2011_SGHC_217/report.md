@@ -138,14 +138,14 @@ money given to her by the son and not the Husband. Throughout the marriage, the 
 
 13     The Wife argued that the Husband had failed in his duty to give full and frank disclosure and urged this court to draw adverse inferences against him. Before proceeding further, it would be useful to lay down the applicable principles on the drawing of adverse inferences. 
 
-14     First, as stated by the Court of Appeal in _BG v BF_ [2007] 3 SLR(R) 233 (“ _BG v BF_ ”) at [52], in 
+14     First, as stated by the Court of Appeal in _BG v BF_ <span class="citation">[2007] 3 SLR(R) 233</span> (“ _BG v BF_ ”) at [52], in 
 
 
 the absence of full and frank disclosure, the court is entitled to draw inferences adverse against the party who failed to do so. This disincentivises parties from withholding information, and allows the court to reach a just and equitable division of the matrimonial assets even if information is withheld. 
 
-15     Second, as stated in _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ [2000] 2 SLR(R) 407 at [50], the drawing of an adverse inference in civil cases should not be used as a mechanism for shoring up glaring deficiencies in the opposite party’s case which on its own, would not meet the requisite burden of proof. There must therefore exist a _prima facie_ case against the person against whom an adverse inference is to be drawn. In addition, it must be shown that the person has particular access to the information he is said to be hiding: _Koh Bee Choo v Choo Chai Kuah_ [2007] SGCA 21. 
+15     Second, as stated in _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">[2000] 2 SLR(R) 407</span> at [50], the drawing of an adverse inference in civil cases should not be used as a mechanism for shoring up glaring deficiencies in the opposite party’s case which on its own, would not meet the requisite burden of proof. There must therefore exist a _prima facie_ case against the person against whom an adverse inference is to be drawn. In addition, it must be shown that the person has particular access to the information he is said to be hiding: _Koh Bee Choo v Choo Chai Kuah_ <span class="citation">[2007] SGCA 21</span>. 
 
-16     Third, having drawn an adverse inference, the court can order a higher proportion of known matrimonial assets to be given to the other spouse, as was done in _NK v NL_ [2007] 3 SLR(R) 743 (“ _NK v NL_ ”) and _BG v BF_. The court can also determine the value of the undeclared assets based on the available information as was done in _Tay Sin Tor v Tan Chay Eng_ [1999] 2 SLR(R) 385. 
+16     Third, having drawn an adverse inference, the court can order a higher proportion of known matrimonial assets to be given to the other spouse, as was done in _NK v NL_ <span class="citation">[2007] 3 SLR(R) 743</span> (“ _NK v NL_ ”) and _BG v BF_. The court can also determine the value of the undeclared assets based on the available information as was done in _Tay Sin Tor v Tan Chay Eng_ <span class="citation">[1999] 2 SLR(R) 385</span>. 
 
 17     In light of these established principles, this court concluded that adverse inferences could and should be drawn against the Husband due to his repeated failure to comply with his duty of full and frank disclosure. 
 
@@ -348,13 +348,13 @@ the absence of full and frank disclosure, the court is entitled to draw inferenc
 
  (h) the matters referred to in section 114(1) so far as they are relevant. 
 
-37     In _Lim Choon Lai v Chew Kim Heng_ [2001] 2 SLR(R) 260, the Court of Appeal stated at [29]: 
+37     In _Lim Choon Lai v Chew Kim Heng_ <span class="citation">[2001] 2 SLR(R) 260</span>, the Court of Appeal stated at [29]: 
 
 Finally, it is paramount that courts do not focus merely on a direct and indirect contributions dichotomy in arriving at a just and equitable division of matrimonial assets. The various factors enumerated by s 112(2) of the Act, which are no less important, must be duly assessed and considered as a whole. At the end of the day, no one factor should be determinative as the court’s mandate is to come to a _just and equitable_ division of the matrimonial assets having regard to _all the circumstances of the case_ ... 
 
-38     In this regard, it is trite law that a party’s direct financial contributions to the acquisition of any particular matrimonial asset can no longer be primarily determinative of how it is divided, and the court is free to give as much weight or more to other non-financial factors: _Yow Mee Lan v Chen Kai Buan_ [2000] 2 SLR(R) at [32]. The importance of giving the _fullest_ effect to non-financial contributions of the spouse concerned has been stressed repeatedly in case law, for example in _Lock Yeng Fun v Chua Hock Chye_ [2007] 3 SLR(R) 520 at [55]. 
+38     In this regard, it is trite law that a party’s direct financial contributions to the acquisition of any particular matrimonial asset can no longer be primarily determinative of how it is divided, and the court is free to give as much weight or more to other non-financial factors: _Yow Mee Lan v Chen Kai Buan_ [2000] 2 SLR(R) at [32]. The importance of giving the _fullest_ effect to non-financial contributions of the spouse concerned has been stressed repeatedly in case law, for example in _Lock Yeng Fun v Chua Hock Chye_ <span class="citation">[2007] 3 SLR(R) 520</span> at [55]. 
 
-39     Finally, the court is to adopt a broad brush approach in deciding what would be a just and equitable division in all the circumstances of a case. This is an exercise largely based on feel and the court’s sense of justice, and the court is not expected to make an exact calculation of each spouse’s contributions, whether financial or non-financial: _Yeo Chong Lin v Tay Ang Choo Nancy_ [2011] 2 SLR 1157 at [78] and [81]. 
+39     Finally, the court is to adopt a broad brush approach in deciding what would be a just and equitable division in all the circumstances of a case. This is an exercise largely based on feel and the court’s sense of justice, and the court is not expected to make an exact calculation of each spouse’s contributions, whether financial or non-financial: _Yeo Chong Lin v Tay Ang Choo Nancy_ <span class="citation">[2011] 2 SLR 1157</span> at [78] and [81]. 
 
 **_Application of the law to the facts_** 
 
@@ -421,7 +421,7 @@ Finally, it is paramount that courts do not focus merely on a direct and indirec
 
 57     As stated in _BG v BF_ , ( _supra_ [14]) the power to order maintenance is exercised in a manner supplementary to the power to divide matrimonial assets, such that the court takes account of each party's share of the assets, and the order for maintenance plays a complementary role to the order for assets. 
 
-58     Finally, one must not lose sight of the rationale behind the law imposing a duty on a former husband to maintain his former wife. Essentially, the aim is to even out any financial inequalities between the spouses, taking into account any economic prejudice suffered by the wife during marriage: _Tan Sue-Ann Melissa v Lim Siang Bok Dennis_ [2004] 3 SLR(R) 376 at [27]. 
+58     Finally, one must not lose sight of the rationale behind the law imposing a duty on a former husband to maintain his former wife. Essentially, the aim is to even out any financial inequalities between the spouses, taking into account any economic prejudice suffered by the wife during marriage: _Tan Sue-Ann Melissa v Lim Siang Bok Dennis_ <span class="citation">[2004] 3 SLR(R) 376</span> at [27]. 
 
 **_Decision on Maintenance_** 
 

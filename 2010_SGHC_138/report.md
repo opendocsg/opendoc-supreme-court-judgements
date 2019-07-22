@@ -111,16 +111,16 @@ paternity of the child. A report was subsequently prepared by HSA.
 
 24     The punishment for each of the four charges which AHB pleaded guilty to is imprisonment for a term which may extend to 20 years and AHB was also liable to fine or to caning. 
 
-25     In _PP v NF_ [2006] 4 SLR(R) 849, V K Rajah J was of the view that the starting point for sentences for familial rape was 15 years’ imprisonment and 12 strokes of the cane. 
+25     In _PP v NF_ <span class="citation">[2006] 4 SLR(R) 849</span>, V K Rajah J was of the view that the starting point for sentences for familial rape was 15 years’ imprisonment and 12 strokes of the cane. 
 
 26     In _PP v Iryan Abdul Karim & Ors_ , Criminal Case No 27/2009, the accused persons claimed trial to charges involving fellatio under the present s 376(1)(a) of the Penal Code (Cap 224, 2008 Rev Ed). Inmates at a prison had allegedly forced the victim to perform fellatio. They were found guilty and each was sentenced to a term of seven years’ imprisonment and three strokes of the cane. 
 
-27     According to the prosecution, prior to s 376(1), offences of fellatio were dealt with under s 377 of the Penal Code (Cap 224, 1985 Rev Ed) which did not include caning as part of the punishment. In _Adam bin Darsin v PP_ [2001] 1 SLR(R) 709, the accused committed acts of fellatio on eight victims. He pleaded guilty to eight charges under s 377. The Court of Appeal sentenced him to five years’ imprisonment on each charge and ordered four of them to run consecutively. 
+27     According to the prosecution, prior to s 376(1), offences of fellatio were dealt with under s 377 of the Penal Code (Cap 224, 1985 Rev Ed) which did not include caning as part of the punishment. In _Adam bin Darsin v PP_ <span class="citation">[2001] 1 SLR(R) 709</span>, the accused committed acts of fellatio on eight victims. He pleaded guilty to eight charges under s 377. The Court of Appeal sentenced him to five years’ imprisonment on each charge and ordered four of them to run consecutively. 
 
 
  Fourth charge 18 years’ imprisonment and 15 strokes of the cane. Fifth charge 18 years’ imprisonment and 15 strokes of the cane. Sixth charge 18 years’ imprisonment and 15 strokes of the cane. 
 
-28     In _PP v Wong Siu Fai_ [2002] 1 SLR(R) 1161, the accused pleaded guilty to a charge under s 377 of performing fellatio on a young boy who was the son of his friend’s landlord. The accused was sentenced to six years’ imprisonment. 
+28     In _PP v Wong Siu Fai_ <span class="citation">[2002] 1 SLR(R) 1161</span>, the accused pleaded guilty to a charge under s 377 of performing fellatio on a young boy who was the son of his friend’s landlord. The accused was sentenced to six years’ imprisonment. 
 
 29     The fact that AHB is the biological father of Y was an aggravating factor for the charge under s 376(1)(a). However, it was not, in itself, an aggravating factor in the context of familial rape as the family relationship is already taken into account in cases of familial rape. 
 

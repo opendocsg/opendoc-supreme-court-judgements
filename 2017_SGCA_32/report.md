@@ -16,7 +16,7 @@
 
 _Arbitration_ – _Stay of proceedings_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2017] 3 SLR 267.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2017] 3 SLR 267</span>.] 
 
 26 April 2017 
 
@@ -26,7 +26,7 @@ _Arbitration_ – _Stay of proceedings_
 
 2       Summons 6171 was heard and dismissed by an assistant registrar (the “AR”) on 21 January 
 
-2016\. The Appellant’s appeal in Registrar’s Appeal No 43 of 2016 (“RA 43”) against the AR’s decision was dismissed by the High Court judge (the “Judge”) on 29 February 2016. The decision of the Judge is reported at _Dyna-Jet Pte Ltd v Wilson Taylor Asia Pacific Pte Ltd_ [2017] 3 SLR 267 (the “GD”). 
+2016\. The Appellant’s appeal in Registrar’s Appeal No 43 of 2016 (“RA 43”) against the AR’s decision was dismissed by the High Court judge (the “Judge”) on 29 February 2016. The decision of the Judge is reported at _Dyna-Jet Pte Ltd v Wilson Taylor Asia Pacific Pte Ltd_ <span class="citation">[2017] 3 SLR 267</span> (the “GD”). 
 
 3       Dissatisfied with the outcome of the proceedings before the AR and the Judge, the Appellant appealed against the decision of the Judge in Civil Appeal No 71 of 2016, which we heard and dismissed on 17 April 2017. We gave some brief reasons for our decision at the time and we now elaborate on those reasons. 
 
@@ -64,7 +64,7 @@ _Arbitration_ – _Stay of proceedings_
 
  (2) The court to which an application has been made in accordance with subsection (1) shall make an order, upon such terms or conditions as it may think fit, staying the proceedings so far as the proceedings relate to the matter, unless it is satisfied that the arbitration agreement is null and void, inoperative or incapable of being performed. 
 
-11     In _Tomolugen Holdings Ltd and another v Silica Investors Ltd and other appeals_ [2016] 1 SLR 373 (“ _Tomolugen_ ”) at [63], we held that s 6 of the IAA required the court to be satisfied that three requirements had been fulfilled, before it granted a stay of the court proceedings said to have been brought in breach of an arbitration agreement: 
+11     In _Tomolugen Holdings Ltd and another v Silica Investors Ltd and other appeals_ <span class="citation">[2016] 1 SLR 373</span> (“ _Tomolugen_ ”) at [63], we held that s 6 of the IAA required the court to be satisfied that three requirements had been fulfilled, before it granted a stay of the court proceedings said to have been brought in breach of an arbitration agreement: 
 
  (a) first, that there is a valid arbitration agreement between the parties to the court proceedings; 
 
@@ -72,7 +72,7 @@ _Arbitration_ – _Stay of proceedings_
 
  (c) third, that the arbitration agreement is not null and void, inoperative, or incapable of being performed. 
 
-12     We also held in _Tomolugen_ at [63] that in considering these matters in the context of an application under s 6 of the IAA, the court should adopt a _prima facie_ standard of review. This is a function of the doctrine of _kompetenz-kompetenz_ , which provides that an arbitral tribunal has jurisdiction to rule on its own jurisdiction, including any objections with respect to the existence or validity of the arbitration agreement, and which requires that the parties refer any relevant objections to the arbitral tribunal in the first instance: see s 21(1) of the IAA and _Sim Chay Koon and others v NTUC Income Insurance Co-operative Ltd_ [2016] 2 SLR 871 at [4]–[5]. 
+12     We also held in _Tomolugen_ at [63] that in considering these matters in the context of an application under s 6 of the IAA, the court should adopt a _prima facie_ standard of review. This is a function of the doctrine of _kompetenz-kompetenz_ , which provides that an arbitral tribunal has jurisdiction to rule on its own jurisdiction, including any objections with respect to the existence or validity of the arbitration agreement, and which requires that the parties refer any relevant objections to the arbitral tribunal in the first instance: see s 21(1) of the IAA and _Sim Chay Koon and others v NTUC Income Insurance Co-operative Ltd_ <span class="citation">[2016] 2 SLR 871</span> at [4]–[5]. 
 
 13     In respect of the first of the three requirements outlined at [11] above, we agreed with the Judge and also the Appellant that the Clause constituted a valid arbitration agreement between the Appellant and the Respondent. It was immaterial for this purpose that the Clause: (a) entitled only the Respondent (but not the Appellant) to compel its counterparty to arbitrate a dispute (the “lack of mutuality” characteristic); and (b) made arbitration of a future dispute entirely optional instead of placing parties under an immediate obligation to arbitrate their disputes (the “optionality” characteristic). On the weight of modern Commonwealth authority, which the Judge considered, neither of these features prevented the court from finding that there was a valid arbitration agreement between the present parties. And before us, neither party contended otherwise. 
 

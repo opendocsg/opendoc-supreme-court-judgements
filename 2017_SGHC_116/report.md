@@ -76,7 +76,7 @@ emphasis added): [note: 12]
 
 7       As made clear from the table above, the cited paragraphs from the Proposed Rejoinder were ringing echoes of the Defence. Therefore, as far as paragraphs 2(a), (b) and (c) of the Proposed Rejoinder were concerned, it was apparent that a rejoinder was unnecessary. Although the Proposed Rejoinder specified the precise VOs in issue ( _ie_ , VOs 1, 2, 3 and 4), this was merely an **_amplification_** of the Defence. I was also of the view that the word “commenced” in paragraph 2(b) of the Proposed Rejoinder added nothing of substance. It could not be seriously disputed that variation works could only be completed or substantially completed if Kee Onn had commenced them. 
 
-8       As noted by the Court of Appeal in _Yeow Chern Lean v Neo Kok Eng and another_ [2009] 3 SLR(R) 1131 at [34], there must be “finality in the pleading process” and “an end at some stage”. Therefore, matters raised in a rejoinder must be “necessary response[s]” to a reply (at [35]). Here, the substance of the dispute had already been pleaded in the Defence. Also, by way of implied joinder of issue under O 18 r 14(2)( _a_ ) of the ROC, Kee Onn was not prejudiced, and not precluded from proving the facts in paragraphs 2(a), (b) and (c) of the Proposed Rejoinder even in the absence of these paragraphs. 
+8       As noted by the Court of Appeal in _Yeow Chern Lean v Neo Kok Eng and another_ <span class="citation">[2009] 3 SLR(R) 1131</span> at [34], there must be “finality in the pleading process” and “an end at some stage”. Therefore, matters raised in a rejoinder must be “necessary response[s]” to a reply (at [35]). Here, the substance of the dispute had already been pleaded in the Defence. Also, by way of implied joinder of issue under O 18 r 14(2)( _a_ ) of the ROC, Kee Onn was not prejudiced, and not precluded from proving the facts in paragraphs 2(a), (b) and (c) of the Proposed Rejoinder even in the absence of these paragraphs. 
 
 9       In my view, the redundancy of paragraphs 2(a), (b) and (c) of the Proposed Rejoinder was too clear for any argument, and it appeared that counsel for Kee Onn was at her wits’ end, and had to 
 
@@ -102,7 +102,7 @@ everything” except for paragraphs 2(d) and (e) of the Proposed Rejoinder. [not
 
  [emphasis added] 
 
-11     Citing _Sharikat Logistics Pte Ltd v Ong Boon Chuan and others_ [2011] SGHC 196, Champion argued that the above paragraphs should not be pleaded because they raise evidence concerning 
+11     Citing _Sharikat Logistics Pte Ltd v Ong Boon Chuan and others_ <span class="citation">[2011] SGHC 196</span>, Champion argued that the above paragraphs should not be pleaded because they raise evidence concerning 
 
 
 some e-mails and “Proforma Invoices”. [note: 16] I agreed with Champion. As O 18 r 7(1) of the ROC mandated, pleadings must only contain facts and “not the evidence by which those facts are to be proved”. I was therefore not impressed by Kee Onn’s argument that these were “new, material facts” [note: 17] necessitating a rejoinder. And even if such evidence could be pleaded, it was unnecessary 

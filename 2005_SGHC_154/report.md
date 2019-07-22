@@ -181,7 +181,7 @@ one would expect such flattened mood to be consistent throughout all the matters
 51     It must be borne in mind that the accused himself had admitted, in his police statements as well as video re-enactment, to chopping and pressing the deceased’s neck, covering her face, and stamping her neck with his foot. Of course, this was prior to the retraction of his admissions on 21 December 2004 when he gave a new account about how it was the three Chinese men who killed 
 
 
-the deceased. But it was the Defence’s own case that this new account of events was either a lie or a result of delusion. In any event, it is settled law that an accused can be convicted on his own confession, even if it was retracted, as long as the court is satisfied that the statement was made voluntarily: _PP v Rozman bin Jusoh_ [1995] 3 SLR 317. In the present case, the voluntariness of the accused’s police statements was never challenged. 
+the deceased. But it was the Defence’s own case that this new account of events was either a lie or a result of delusion. In any event, it is settled law that an accused can be convicted on his own confession, even if it was retracted, as long as the court is satisfied that the statement was made voluntarily: _PP v Rozman bin Jusoh_ <span class="citation">[1995] 3 SLR 317</span>. In the present case, the voluntariness of the accused’s police statements was never challenged. 
 
 52     The forensic evidence supported the Prosecution’s case. The five injuries on the deceased’s face supported the Prosecution’s submission that the accused had smothered the deceased by covering her mouth and nose. While the injuries found might not be entirely on all fours with the accused’s admitted acts in his police statements and video re-enactment, they were largely consistent. In particular, the accused’s chopping actions and his kicking of the deceased were supported by the injuries at the back of the deceased’s head. 
 
@@ -194,7 +194,7 @@ the deceased. But it was the Defence’s own case that this new account of event
 56     After assessing the evidence in totality, I am convinced beyond a reasonable doubt that the accused had caused the death of the deceased. I find that the Prosecution has made out its murder charge under ss 300( _a_ ) and 300( _c_ ) of the Penal Code, subject to the possible defence of diminished responsibility. In reaching such a conclusion, I make no finding with regards to whether the accused 
 
 
-had in fact sexually assaulted the deceased. Discovering the motive of the killing is not essential to a finding that the accused had indeed caused the death of the deceased and had committed murder: _Lau Lee Peng v PP_ [2000] 2 SLR 628. 
+had in fact sexually assaulted the deceased. Discovering the motive of the killing is not essential to a finding that the accused had indeed caused the death of the deceased and had committed murder: _Lau Lee Peng v PP_ <span class="citation">[2000] 2 SLR 628</span>. 
 
 **_Whether the accused is entitled to the defence of diminished responsibility_** 
 
@@ -202,7 +202,7 @@ had in fact sexually assaulted the deceased. Discovering the motive of the killi
 
  Culpable homicide is not murder if the offender was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in causing the death or being a party to causing the death. 
 
-58     In _Tengku Jonaris Badlishah v PP_ [1999] 2 SLR 260, the Court of Appeal held at [35] that in order to establish the defence of diminished responsibility, the Defence must prove, on a balance of probabilities, the following elements: 
+58     In _Tengku Jonaris Badlishah v PP_ <span class="citation">[1999] 2 SLR 260</span>, the Court of Appeal held at [35] that in order to establish the defence of diminished responsibility, the Defence must prove, on a balance of probabilities, the following elements: 
 
  (i) [the accused] was suffering from an abnormality of mind at the time he caused the victim’s death; 
 
@@ -210,7 +210,7 @@ had in fact sexually assaulted the deceased. Discovering the motive of the killi
 
  (iii) his abnormality of mind substantially impaired his mental responsibility for his acts and omissions in causing the death. 
 
-59     In _Regina v Byrne_ [1960] 2 QB 396 at 403–404, the English Court of Criminal Appeal set out the law as follows (accepted by the Court of Appeal in _Zailani bin Ahmad v PP_ [2005] 1 SLR 356 and _Chua Hwa Soon Jimmy v PP_ [1998] 2 SLR 22): 
+59     In _Regina v Byrne_ [1960] 2 QB 396 at 403–404, the English Court of Criminal Appeal set out the law as follows (accepted by the Court of Appeal in _Zailani bin Ahmad v PP_ <span class="citation">[2005] 1 SLR 356</span> and _Chua Hwa Soon Jimmy v PP_ <span class="citation">[1998] 2 SLR 22</span>): 
 
  Whether the accused was at the time of the killing suffering from any “abnormality of mind” in the broad sense which we have indicated above is a question for the jury. On this question medical evidence is no doubt important, but the jury are entitled to take into consideration all the evidence, including the acts or statements of the accused and his demeanour. They are not bound to accept the medical evidence if there is other material before them which, in their good judgment, conflicts with it and outweighs it. 
 
@@ -223,7 +223,7 @@ had in fact sexually assaulted the deceased. Discovering the motive of the killi
 
  [emphasis added] 
 
-60     The Privy Council in _Walton v The Queen_ [1978] AC 788 stated at 793 (approved by the Court of Appeal in _Chua Hwa Soon Jimmy v PP_ and _Zainul Abidin bin Malik v PP_ [1996] 1 SLR 654): 
+60     The Privy Council in _Walton v The Queen_ [1978] AC 788 stated at 793 (approved by the Court of Appeal in _Chua Hwa Soon Jimmy v PP_ and _Zainul Abidin bin Malik v PP_ <span class="citation">[1996] 1 SLR 654</span>): 
 
  [U]pon an issue of diminished responsibility the jury are entitled and indeed bound to consider not only the medical evidence but the evidence upon the whole facts and circumstances of the case. These include the nature of the killing, the conduct of the defendant before, at the time of and after it and any history of mental abnormality. ... [W]hat the jury are essentially seeking to ascertain is whether at the time of the killing the defendant was suffering from a state of mind bordering on but not amounting to insanity. That task is to be approached in a broad common sense way. [emphasis added] 
 

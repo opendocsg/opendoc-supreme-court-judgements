@@ -78,7 +78,7 @@ according to the law of the forum. If the assessment of damages takes place in S
 
 14     There are material differences between the Civil Law Act of Singapore and that of Malaysia where liability and damages are concerned. Given such divergence between the two sets of law, there will be savings in time and costs where a Malaysian court applies the law of its own jurisdiction. 
 
-15     Although the plaintiff will be calling a number of witnesses located in Singapore, the location of witnesses is only one of the factors that ought to be taken into consideration. V K Rajah J (as he then was) in _Peters Roger May v Pinder Lillian Gek Lian_ [2006] 2 SLR 381 (“ _Peters Roger_ ”) has observed at [26]: 
+15     Although the plaintiff will be calling a number of witnesses located in Singapore, the location of witnesses is only one of the factors that ought to be taken into consideration. V K Rajah J (as he then was) in _Peters Roger May v Pinder Lillian Gek Lian_ <span class="citation">[2006] 2 SLR 381</span> (“ _Peters Roger_ ”) has observed at [26]: 
 
  The easy and ready availability of video link nowadays warrants an altogether different, more measured and pragmatic re-assessment of the need for the physical presence of foreign witnesses in stay proceedings. Geographical proximity and physical convenience are no longer compelling factors nudging a decision on forum non conveniens towards the most “witness convenient” jurisdiction from the viewpoint of physical access. ... In other words, the availability and accessibility of video links coupled with its relative affordability have diminished the significance of the “physical convenience” of witnesses as a yardstick in assessing the appropriateness of a forum. ... 
 
@@ -91,7 +91,7 @@ and/or contributed to by the driver of the lorry.
 
 17     While acknowledging that the plaintiff and his family are all Singapore citizens residing here and that the deceased wife worked in Singapore, the second defendant highlights that it is a company incorporated in Malaysia with its assets situated there. Its insurer having conduct of this claim is also a Malaysian company with its assets there. Any judgment obtained by the plaintiff will have to be enforced in Malaysia. 
 
-18     Potential third party proceedings should be given their appropriate weight and where a defendant intends to initiate such proceedings, it is generally convenient, in the interests of justice and in saving court time and costs, for such proceedings to be determined at the same time and in the same court as the main action (per Chan Seng Onn J (“Chan J”) in _Dresdner Kleinwort Ltd v CIMB Bank Bhd_ [2008] SGHC 59). However, Chan J in that case (at [123]) took the view that the issues that would be raised in the third party proceedings would prolong the main action unnecessarily by raising issues that were of no concern to the other parties and would cause it to be more costly and inconvenient overall for all parties involved. 
+18     Potential third party proceedings should be given their appropriate weight and where a defendant intends to initiate such proceedings, it is generally convenient, in the interests of justice and in saving court time and costs, for such proceedings to be determined at the same time and in the same court as the main action (per Chan Seng Onn J (“Chan J”) in _Dresdner Kleinwort Ltd v CIMB Bank Bhd_ <span class="citation">[2008] SGHC 59</span>). However, Chan J in that case (at [123]) took the view that the issues that would be raised in the third party proceedings would prolong the main action unnecessarily by raising issues that were of no concern to the other parties and would cause it to be more costly and inconvenient overall for all parties involved. 
 
 19     The second defendant intends to bring the driver of the lorry in as third party but has held back from doing so pending the determination of the appropriate forum for the plaintiff’s action. The issues in the third party proceedings will be directly related to those in the plaintiff’s action. 
 
@@ -101,7 +101,7 @@ and/or contributed to by the driver of the lorry.
 
 21     At the hearing of the appeal, counsel for the plaintiff sought to introduce two further affidavits filed after the present firm of solicitors took over as solicitors for the plaintiff. One affidavit was by Mr Liew Teck Huat (“Mr Liew”), a solicitor in Niru & Company, the solicitors for the plaintiff and the other was by the plaintiff. As Mr Liew was purporting to give evidence as an expert on Malaysian law without complying with the requirements of O 40A of the Rules of Court, counsel for the second defendant rightly objected to its admissibility. I refused to admit Mr Liew’s affidavit on this ground and since the plaintiff’s affidavit raised nothing new except for one paragraph relying on Mr Liew’s affidavit, I did not admit the second affidavit too. 
 
-22     The Court of Appeal in _Rickshaw Investments Ltd v Nicolai Baron Von Uxekull_ [2007] 1 SLR 377 (“ _Rickshaw_ ”) said (at [14] and [15]): 
+22     The Court of Appeal in _Rickshaw Investments Ltd v Nicolai Baron Von Uxekull_ <span class="citation">[2007] 1 SLR 377</span> (“ _Rickshaw_ ”) said (at [14] and [15]): 
 
  14 ... Under Spiliada , the first issue that must be determined is whether, prima facie , there is some other available forum which is more appropriate for the case to be tried (“Stage One”). At this stage, the legal burden is on the defendant. If the court concludes that there is a more appropriate forum, the court will ordinarily grant a stay unless there are circumstances by reason of which justice requires that a stay should nonetheless not be granted (“Stage Two”). 
 
@@ -162,7 +162,7 @@ of proceedings on the ground of _forum non conveniens_.
 
  (e) there are no exceptional circumstances warranting a dismissal of its application for extension of time. 
 
-The second defendant relied on the High Court decisions in _Yeoh Poh San & Anor v Won Siok Wan_ [2002] 4 SLR 91 and _Australian Timber Products Pte Ltd v Koh Brothers Building & Engineering Contractor (Pte) Ltd_ [2005] 1 SLR 168 and the recent Court of Appeal decision in _Carona Holdings Pte Ltd v Go Go Delicacy Pte Ltd_ [2008] SGCA 34. Counsel for the second defendant also admitted quite candidly that one of the reasons for seeking an extension of time is the fact that the first defendant still could not be located. 
+The second defendant relied on the High Court decisions in _Yeoh Poh San & Anor v Won Siok Wan_ <span class="citation">[2002] 4 SLR 91</span> and _Australian Timber Products Pte Ltd v Koh Brothers Building & Engineering Contractor (Pte) Ltd_ <span class="citation">[2005] 1 SLR 168</span> and the recent Court of Appeal decision in _Carona Holdings Pte Ltd v Go Go Delicacy Pte Ltd_ <span class="citation">[2008] SGCA 34</span>. Counsel for the second defendant also admitted quite candidly that one of the reasons for seeking an extension of time is the fact that the first defendant still could not be located. 
 
 33     The plaintiff argued that no extension of time should be granted: 
 

@@ -115,9 +115,9 @@ _Orders made by the respective Courts_
 
 23     The words in O 24 r 6(5) give statutory effect to the _Norwich Pharmacal_ order, which is traditionally sought when it is necessary to obtain information for the purpose of ascertaining the identity of a potential defendant so that proceedings may be commenced against him. See _Singapore Court Practice 2014 at 24/6/5 and 24/6/_. 
 
-24     In addition, the Court also retains its inherent jurisdiction to order disclosure from a non-party. This was recognised by Sundaesh Menon JC (as he then was) in _UMCI Ltd v Tokio Marine & Fire Insurance Co (Singapore) Pte Ltd and others_ [2006] 4 SLR(R) 95 (“ _Tokio Marine_ ”), where he observed at [91] that the Court’s jurisdiction to order the discovery of documentary samples from non-parties under O 24 r 6(5) overlaps with a _Norwich Pharmacal_ order which may be made under the Court’s inherent jurisdiction. This was an acknowledgement that the Court had concurrent jurisdiction under O 24 r 6(5) and its inherent jurisdiction to order discovery against a non-party. 
+24     In addition, the Court also retains its inherent jurisdiction to order disclosure from a non-party. This was recognised by Sundaesh Menon JC (as he then was) in _UMCI Ltd v Tokio Marine & Fire Insurance Co (Singapore) Pte Ltd and others_ <span class="citation">[2006] 4 SLR(R) 95</span> (“ _Tokio Marine_ ”), where he observed at [91] that the Court’s jurisdiction to order the discovery of documentary samples from non-parties under O 24 r 6(5) overlaps with a _Norwich Pharmacal_ order which may be made under the Court’s inherent jurisdiction. This was an acknowledgement that the Court had concurrent jurisdiction under O 24 r 6(5) and its inherent jurisdiction to order discovery against a non-party. 
 
-25     Before examining the law and facts to determine whether the documents sought by the plaintiffs should be granted, it is timely at this point to note the Court of Appeal’s caution regarding pre-action disclosure in _Dorsey James Michael v World Sport Group Pte Ltd_ [2014] 2 SLR 208 (“ _Dorsey James”)_ at [27]: 
+25     Before examining the law and facts to determine whether the documents sought by the plaintiffs should be granted, it is timely at this point to note the Court of Appeal’s caution regarding pre-action disclosure in _Dorsey James Michael v World Sport Group Pte Ltd_ <span class="citation">[2014] 2 SLR 208</span> (“ _Dorsey James”)_ at [27]: 
 
  ...The utility and benefits of this procedure, however, must be calibrated against the fact that pre-action disclosure of any sort is quintessentially intrusive in nature – especially when it involves individuals who may ultimately not (or cannot) be parties to the litigation. ... An application has to be confined to what is strictly necessary for disposing fairly of the cause or matter or for saving costs in the pending or potential proceedings. Deep-sea fishing must be discouraged. Most crucially, in the final analysis, the making of any order must be “just” in all the 
 
@@ -319,7 +319,7 @@ Singapore Injunctions.
 
 79     If, the court’s jurisdiction under O 24 r 6(5) does not extend to the discovery orders sought, then I am of the view that the discovery orders sought may be made under the inherent jurisdiction of the Court. 
 
-80     The ambit of the court’s inherent jurisdiction was reviewed by Andrew Phang Boon Leong J (as he then was) in _Wellmix Organics (International) Ptd Ltd v Lau Yu Man_ [2006] 2 SLR(R) 117 (“ _Wellmix_ ”) where he held at [81]: 
+80     The ambit of the court’s inherent jurisdiction was reviewed by Andrew Phang Boon Leong J (as he then was) in _Wellmix Organics (International) Ptd Ltd v Lau Yu Man_ <span class="citation">[2006] 2 SLR(R) 117</span> (“ _Wellmix_ ”) where he held at [81]: 
 
  ...The key criterion justifying invocation of [the court’s inherent jurisdiction] is therefore that of “need” – in order that justice be done and/or that injustice or abuse of process of the court be avoided ... 
 
@@ -338,7 +338,7 @@ Singapore Injunctions.
 
 85     As CS and DB are both banks, they are subject to the duty of banking secrecy under s 47 of the Banking Act. However, disclosure of documents by banks is permitted in the circumstances stated in the Third Schedule of the Banking Act. One of the situations where disclosure is permitted is under paragraph 7 of the Third Schedule where disclosure is necessary to comply with an order of the Supreme Court or Judge thereof pursuant to the powers under Part IV of the Evidence Act. 
 
-86     Part IV of the Evidence Act was enacted for the benefit of bankers and its object is to relieve bankers of the necessity of actually attending court with their books under a subpoena as that would unduly interfere with the business of the banker. See _Wee Soon Kim Anthony v UBS AG_ [2003] 2 SLR(R) 91 (“ _Anthony Wee”_ ) at [17]. 
+86     Part IV of the Evidence Act was enacted for the benefit of bankers and its object is to relieve bankers of the necessity of actually attending court with their books under a subpoena as that would unduly interfere with the business of the banker. See _Wee Soon Kim Anthony v UBS AG_ <span class="citation">[2003] 2 SLR(R) 91</span> (“ _Anthony Wee”_ ) at [17]. 
 
 87     The application for discovery of documents from the respective defendant banks is made pursuant to s 175 of the Evidence Act, which is under Part IV of the Evidence Act. 
 
@@ -408,7 +408,7 @@ _Does the International Arbitration Act prohibit the discovery sought by the pla
 
 101    SE submitted that, under the International Arbitration Act (“IAA”), the Court’s powers to assist/intervene in international arbitrations (including foreign-seated arbitrations) by way of interim measures are found in s12A, IAA and the Court’s powers do not extend to making orders in respect of discovery of documents and interrogatories. As such, SE submitted that under the IAA and the Model Law, the Court has no power to grant discovery/ _Norwich Pharmacal_ / _Bankers Trust_ orders to assist international arbitrations whether seated in Singapore or abroad. 
 
-102    As the Court’s power to intervene in arbitrations are found solely in the IAA and Model law, it is SE’s position that the Court may not grant such orders in aid of the CIETAC arbitration, which is a foreign-seated arbitration under s 175 of the Evidence Act or the Court’s inherent jurisdiction. In _L W Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd and another appeal_ [2013] 1 SLR 125 (“ _L W Infrastructure_ ”), the Court of Appeal made it clear at [35-36] that the Court’s power to intervene in 
+102    As the Court’s power to intervene in arbitrations are found solely in the IAA and Model law, it is SE’s position that the Court may not grant such orders in aid of the CIETAC arbitration, which is a foreign-seated arbitration under s 175 of the Evidence Act or the Court’s inherent jurisdiction. In _L W Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd and another appeal_ <span class="citation">[2013] 1 SLR 125</span> (“ _L W Infrastructure_ ”), the Court of Appeal made it clear at [35-36] that the Court’s power to intervene in 
 
 
 arbitrations are found solely in the IAA/Model Law and not elsewhere: 
@@ -429,7 +429,7 @@ arbitrations are found solely in the IAA/Model Law and not elsewhere:
 
  There is nothing in the Model Law that governs the matter of a party giving sufficient details about itself to enable the other party to know who it is and its whereabouts, and, therefore, the restriction in article 5 does not apply in this case. Nor am I not satisfied that an order requiring a party to supply such details is an “interim measure of protection”. As far as I know, there is no express provision of any law that speaks about the situation here. So I am left with a clean slate, and must decide this matter on the basis of the inherent jurisdiction of this court. [emphasis added] 
 
-105    I agree with the position taken by the plaintiffs. In _Tomolugen Holdings Ltd and another v Silicia Investors Ltd and other appeals_ [2016] 1 SLR 373, the Court of Appeal stated: 
+105    I agree with the position taken by the plaintiffs. In _Tomolugen Holdings Ltd and another v Silicia Investors Ltd and other appeals_ <span class="citation">[2016] 1 SLR 373</span>, the Court of Appeal stated: 
 
  81 ... Because the source of an arbitral tribunal’s power is contractual, its scope is necessarily limited to making orders which will be binding only upon the contracting parties... 
 

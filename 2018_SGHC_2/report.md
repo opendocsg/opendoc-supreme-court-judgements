@@ -65,7 +65,7 @@ deceased. [note: 6] Indeed, I note that up to date of the hearing of the appeal,
 
 10     The Assistant Commissioner summarised the issue before him at [4] of the Decision as “whether the [next of kin] needed to obtain Grant of Probate ... or Letter of Authority ... before lodging a claim under WICA”. 
 
-11     In reaching his decision, the Assistant Commissioner took into account the decision of the Court of Appeal in _SGB Starkstrom Pte Ltd v Commissioner of Labour_ [2016] 3 SLR 598 (“ _Starkstrom_ ”) as well as _Teo Gim Tiong v Krishnasamy Pushpavathi (legal representative of the estate of Maran s/o Kannakasabai, deceased)_ [2014] 4 SLR 15 (“ _Maran_ ”). The Assistant Commissioner commented at [6] of the Decision that “[b]oth cases deal with threshold issues and emphasize the need for those acting for claimants who are incapacitated in one way or the other ... [to] be duly authorized in law to do so” [emphasis and internal quotation marks omitted]. The Assistant Commissioner found that both cases were distinguishable for the reasons which he set out in the Decision, and proceeded to dismiss the application. 
+11     In reaching his decision, the Assistant Commissioner took into account the decision of the Court of Appeal in _SGB Starkstrom Pte Ltd v Commissioner of Labour_ <span class="citation">[2016] 3 SLR 598</span> (“ _Starkstrom_ ”) as well as _Teo Gim Tiong v Krishnasamy Pushpavathi (legal representative of the estate of Maran s/o Kannakasabai, deceased)_ <span class="citation">[2014] 4 SLR 15</span> (“ _Maran_ ”). The Assistant Commissioner commented at [6] of the Decision that “[b]oth cases deal with threshold issues and emphasize the need for those acting for claimants who are incapacitated in one way or the other ... [to] be duly authorized in law to do so” [emphasis and internal quotation marks omitted]. The Assistant Commissioner found that both cases were distinguishable for the reasons which he set out in the Decision, and proceeded to dismiss the application. 
 
 **The issue in this appeal** 
 
@@ -88,7 +88,7 @@ Part 5 of the Statement. [note: 9] I shall return to the FAS below.
 
 **_Rationale_** 
 
-15     This can be dealt with briefly as the general points are well-known and summarised in _Kee Yau Chong v S H Interdeco Pte Ltd_ [2014] 1 SLR 189. A few points will suffice. The long title of the statute states that the WICA is “[a]n Act relating to the payment of compensation to employees for injury suffered in the course of their employment.” The WICA has a long history. It has been amended numerous times and dates back to the Workmen’s Compensation Act (Act 25 of 1975) and beyond. 
+15     This can be dealt with briefly as the general points are well-known and summarised in _Kee Yau Chong v S H Interdeco Pte Ltd_ <span class="citation">[2014] 1 SLR 189</span>. A few points will suffice. The long title of the statute states that the WICA is “[a]n Act relating to the payment of compensation to employees for injury suffered in the course of their employment.” The WICA has a long history. It has been amended numerous times and dates back to the Workmen’s Compensation Act (Act 25 of 1975) and beyond. 
 
 16     At the second reading of the Work Injury Compensation (Amendment) Bill 2011 (Bill 18 of 2011) (see _Singapore Parliamentary Debates, Official Report_ (21 November 2011) vol 88), acting Minister of Manpower Tan Chuan-Jin explained the Government’s thinking behind the WICA and the 2011 amendments thus: 
 
@@ -123,7 +123,7 @@ statement by the acting Minister of Manpower that one objective of the 2011 amen
 
 21     Section 2(3) provides that “[a]ny reference to an employee who has been injured shall, unless the context otherwise requires, where the employee is dead, include a reference to his legal personal representative or to his dependants or any of them.” 
 
-22     It is noted that there is no requirement for a dependant to prove “actual dependency”. Further, it bears underscoring that the definition of “dependant” is not the same as the definition of “next of kin” in terms of the persons entitled to claim against the estate of a deceased person on intestacy. For example, an illegitimate child is not entitled to a claim against the estate on intestacy (see Intestate Succession Act (Cap 146, 2013 Rev Ed), ss 6 and 7; _AAG v Estate of AAH, deceased_ [2010] 1 SLR 769 at [39]). 
+22     It is noted that there is no requirement for a dependant to prove “actual dependency”. Further, it bears underscoring that the definition of “dependant” is not the same as the definition of “next of kin” in terms of the persons entitled to claim against the estate of a deceased person on intestacy. For example, an illegitimate child is not entitled to a claim against the estate on intestacy (see Intestate Succession Act (Cap 146, 2013 Rev Ed), ss 6 and 7; _AAG v Estate of AAH, deceased_ <span class="citation">[2010] 1 SLR 769</span> at [39]). 
 
 **_Liability for compensation_** 
 
@@ -289,7 +289,7 @@ _Variation of the order_
 
  (d) whether any other third party has a right to claim against the tortfeasor, for example, for psychiatric injury resulting from being a witness to the accident or because the victim was a valuable employee of a third party and time and expense is incurred in finding a replacement. 
 
-48     The interplay between an estate claim and a dependency claim was discussed in _AOD (a minor suing by his litigation representative) v AOE_ [2016] 1 SLR 217 (“ _AOD_ ”). _AOD_ concerned a young road traffic accident victim who suffered severe injuries resulting in a shortened life expectancy. One issue was whether damages could be given for the loss of earnings across all the years of life which the victim would have had if he had not met with the accident. It was in this context that observations were made on a lost-years claim by a living plaintiff, a deceased plaintiff’s estate, and a dependency claim (see [194], [201], [248], [260] and [261]). 
+48     The interplay between an estate claim and a dependency claim was discussed in _AOD (a minor suing by his litigation representative) v AOE_ <span class="citation">[2016] 1 SLR 217</span> (“ _AOD_ ”). _AOD_ concerned a young road traffic accident victim who suffered severe injuries resulting in a shortened life expectancy. One issue was whether damages could be given for the loss of earnings across all the years of life which the victim would have had if he had not met with the accident. It was in this context that observations were made on a lost-years claim by a living plaintiff, a deceased plaintiff’s estate, and a dependency claim (see [194], [201], [248], [260] and [261]). 
 
 49     The High Court in _AOD_ noted at [181] and [185] that the common law rule that no action could be brought for loss suffered through the killing of another was changed by Parliament through s 10 of the Civil Law Act (Cap 43, 1999 Rev Ed) (“CLA”). After the victim dies, the cause of action survives for the benefit of the deceased’s estate. 
 
@@ -305,7 +305,7 @@ _Variation of the order_
 
 _AOD_ was in fact concerned with the first type of claim. 
 
-52     Turning to a claim for loss of dependency following death, the High Court in _AOD_ at [184] noted Woo Bih Li J’s observation in _Lassiter Ann Masters (suing as the widow and dependant of Lassiter Henry Adolphus, deceased) v To Keng Lam (alias Toh Jeanette)_ [2005] 2 SLR(R) 8 at [12]–[29] that Singapore’s law on fatal accidents and claims for loss of income was originally based on the common law principle that a personal action dies with the person. Because of the injustice that dependants were thought to suffer from losing their sole breadwinner in an accident caused by a defendant’s negligence, the United Kingdom (“the UK”) passed the Fatal Accidents Act 1846 (c 93) (UK) which 
+52     Turning to a claim for loss of dependency following death, the High Court in _AOD_ at [184] noted Woo Bih Li J’s observation in _Lassiter Ann Masters (suing as the widow and dependant of Lassiter Henry Adolphus, deceased) v To Keng Lam (alias Toh Jeanette)_ <span class="citation">[2005] 2 SLR(R) 8</span> at [12]–[29] that Singapore’s law on fatal accidents and claims for loss of income was originally based on the common law principle that a personal action dies with the person. Because of the injustice that dependants were thought to suffer from losing their sole breadwinner in an accident caused by a defendant’s negligence, the United Kingdom (“the UK”) passed the Fatal Accidents Act 1846 (c 93) (UK) which 
 
 
 enabled prescribed classes of dependants to bring an action for loss of dependency against a tortfeasor who caused the death of their relatives (now see s 1 of the Fatal Accidents Act 1976 (c 30) (UK)). The equivalent provision in Singapore is s 20 of the CLA. 

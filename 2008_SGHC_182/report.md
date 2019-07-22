@@ -352,7 +352,7 @@ Award immediately in various countries, he would not have entered into any oral 
 
 _(i) The first suit_ 
 
-82     As a matter of law, an obligation of confidentiality is to be implied in arbitration proceedings due to the private nature of such proceedings. Oft-cited English authorities like _Dolling-Baker v Merrett_ [1990] 1 WLR 1205, _Hassneh Insurance Co of Israel v Steuart J Mew_ [1993] 2 Lloyd’s Law Report 243, _Ali Shipping Corporation v Shipyard Trogir_ [1999] 1 WLR 314 and _AEGIS v European Re_ [2003] 1 WLR 1041as well as the local case _Myanma Yaung Chi Oo Co Ltd v Win Win Nu_ [2003] 2 SLR 547 reinforces the point. In this regard, I prefer the English position to Australia’s where the High Court (see _Esso Australia Resources Ltd v Plowman_ (1995) 128 ALR 391 adopted a contrary interpretation. I therefore reject the defendants’ contention that there would be no room for a duty to be implied in the face of an express provision in the Confidentiality Rule [18]. Nor do I accept their interpretation that once the arbitration had concluded and the Award was issued, the Confidentiality Rule no longer applied. 
+82     As a matter of law, an obligation of confidentiality is to be implied in arbitration proceedings due to the private nature of such proceedings. Oft-cited English authorities like _Dolling-Baker v Merrett_ [1990] 1 WLR 1205, _Hassneh Insurance Co of Israel v Steuart J Mew_ [1993] 2 Lloyd’s Law Report 243, _Ali Shipping Corporation v Shipyard Trogir_ [1999] 1 WLR 314 and _AEGIS v European Re_ [2003] 1 WLR 1041as well as the local case _Myanma Yaung Chi Oo Co Ltd v Win Win Nu_ <span class="citation">[2003] 2 SLR 547</span> reinforces the point. In this regard, I prefer the English position to Australia’s where the High Court (see _Esso Australia Resources Ltd v Plowman_ (1995) 128 ALR 391 adopted a contrary interpretation. I therefore reject the defendants’ contention that there would be no room for a duty to be implied in the face of an express provision in the Confidentiality Rule [18]. Nor do I accept their interpretation that once the arbitration had concluded and the Award was issued, the Confidentiality Rule no longer applied. 
 
 83     The implied rule is not in dispute; it is the exceptions to the duty of confidentiality both under common law and under the Confidentiality Rule that give rise to controversy and which in this case will determine the fate of the first suit. 
 
@@ -463,7 +463,7 @@ _(c)(i) Low’s liability as a guarantor_
 
 Reliance was also placed on _Bruns v Colocotrinis (“The Vasso”)_ [1979] 2 Lloyds Law Report 412 where Robert Goff J applied _Re Kitchin_ as well as _Ards Borough Council v Northern Ireland Bank Limited_ (an unreported 1994 case). 
 
-111    The defendants countered the above submission by relying on a local case _Oversea-Chinese Banking Corp Ltd v Ang Thian Soo_ [2006] 4 SLR 156 where Choo Han Teck J while applying the principles in _Re Kitchin_ declined to follow it. The case of _Compania Sudamericana De Fletes SA v African Continental Bank Ltd (“The Rosarino”)_ [1973] 1 Lloyd’s Law Report 21 was cited as another 
+111    The defendants countered the above submission by relying on a local case _Oversea-Chinese Banking Corp Ltd v Ang Thian Soo_ <span class="citation">[2006] 4 SLR 156</span> where Choo Han Teck J while applying the principles in _Re Kitchin_ declined to follow it. The case of _Compania Sudamericana De Fletes SA v African Continental Bank Ltd (“The Rosarino”)_ [1973] 1 Lloyd’s Law Report 21 was cited as another 
 
 
 authority where _Re Kitchin_ was not followed. 
@@ -563,14 +563,14 @@ We are only concerned with the third category since (i) and (ii) would obviously
 
 126    The plaintiffs on the other hand argued that Low and PTJS were only guarantors, and not privies, of ICP. It was pointed out that there was no mention of the Guarantee in the arbitration which was also not with or against Low/PTJS. Kristle could have but did not, invite the two guarantors to participate in the arbitration and must live with the consequences of its omission. 
 
-127    The plaintiffs submitted that the court in _Tohru Motobayashi v Official Receiver & Anor_ [2000] 4 SLR 529 held that privity was not established merely by having some interest in the outcome of the litigation. It was also Low’s testimony (at N/E 147 in re-examination) that his staff members Loo Wai Hoon and Jaspal Singh also attended to the arbitration and instructed ICP’s lawyers. Further, the defendants’ authority _House of Spring Gardens v Waite_ could be clearly distinguished on its facts. Finally, s 19B of The IAA did not apply as neither Low nor PTJS were making any claims or claiming through or under ICP. 
+127    The plaintiffs submitted that the court in _Tohru Motobayashi v Official Receiver & Anor_ <span class="citation">[2000] 4 SLR 529</span> held that privity was not established merely by having some interest in the outcome of the litigation. It was also Low’s testimony (at N/E 147 in re-examination) that his staff members Loo Wai Hoon and Jaspal Singh also attended to the arbitration and instructed ICP’s lawyers. Further, the defendants’ authority _House of Spring Gardens v Waite_ could be clearly distinguished on its facts. Finally, s 19B of The IAA did not apply as neither Low nor PTJS were making any claims or claiming through or under ICP. 
 
 128    Section 19B (1) of The IAA states: 
 
  An award made by the arbitral tribunal pursuant to an arbitration agreement is final and binding on the parties and on any persons claiming through or under them and may be relied upon by any of the parties by way of defence, set-off or otherwise in any proceedings in any court of competent jurisdiction. 
 
 
-129    As for issue estoppel, the plaintiffs argued it did not arise as the second suit had new issues that were not raised in the arbitration proceedings. Citing _Lee Tat Development Pte Ltd v Management Corporation of Grange Heights Strata Title No. 301 (No.2)_ [2005] 3 SLR 157 (“ _Lee Tat_ ”), the plaintiffs argued that there had to be a final and conclusive judgment on the merits by a court of competent jurisdiction and an identity between the parties to the two actions that were being compared before there can be issue estoppel. 
+129    As for issue estoppel, the plaintiffs argued it did not arise as the second suit had new issues that were not raised in the arbitration proceedings. Citing _Lee Tat Development Pte Ltd v Management Corporation of Grange Heights Strata Title No. 301 (No.2)_ <span class="citation">[2005] 3 SLR 157</span> (“ _Lee Tat_ ”), the plaintiffs argued that there had to be a final and conclusive judgment on the merits by a court of competent jurisdiction and an identity between the parties to the two actions that were being compared before there can be issue estoppel. 
 
 130    The plaintiffs submitted the following new issues were raised in the second suit and not determined at the arbitration: 
 
@@ -617,7 +617,7 @@ We are only concerned with the third category since (i) and (ii) would obviously
 
 James LJ’s views were endorsed by Robert Goff J who followed _Re Kitchin_ in _The Vasso_ (supra [110]). 
 
-135    It is noteworthy that the facts in both those cases were vastly different from our case, which are much closer to the facts in _Oversea-Chinese Banking Corp Ltd v Ang Thian Soo_ at [111]. There, the defendant was found by the judge (in _Oversea-Chinese Banking Corp Ltd v Infocommcentre Pte Ltd_ [2005] 4 SLR 30) to be the alter ego of the company Infocommcentre Pte Ltd (of which he was 
+135    It is noteworthy that the facts in both those cases were vastly different from our case, which are much closer to the facts in _Oversea-Chinese Banking Corp Ltd v Ang Thian Soo_ at [111]. There, the defendant was found by the judge (in _Oversea-Chinese Banking Corp Ltd v Infocommcentre Pte Ltd_ <span class="citation">[2005] 4 SLR 30</span>) to be the alter ego of the company Infocommcentre Pte Ltd (of which he was 
 
 
 the guarantor) and was an unreliable witness. Choo J followed _Re Kitchin_ and while agreeing that there was a possibility that the defendant might have defences as a guarantor that might not be available or applicable to the company, he could not ignore the connection with the case between the defendant and the company. 

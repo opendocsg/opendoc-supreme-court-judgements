@@ -24,7 +24,7 @@ _Res Judicata_ – _Issue estoppel_ – _Whether plaintiff estopped from raising
 
 **Introduction** 
 
-1       I will adopt the formal facts as set out in the judgment of the Court of Appeal delivered by Goh Joon Seng J in _Lee Tat Development Pte Ltd v Management Corporation of Grange Heights Strata Title No 301_ [1992] 2 SLR 865 at 866 and 867, [1] to [7]. 
+1       I will adopt the formal facts as set out in the judgment of the Court of Appeal delivered by Goh Joon Seng J in _Lee Tat Development Pte Ltd v Management Corporation of Grange Heights Strata Title No 301_ <span class="citation">[1992] 2 SLR 865</span> at 866 and 867, [1] to [7]. 
 
 2       Lee Tat Development Pte Ltd (“Lee Tat”) is the owner of two pieces of adjoining land known as lots 111-32 and 111-33 of Town Sub-division 21. The defendant is the management corporation (“the MCST”) of Grange Heights which is a condominium development on lot 687 of Town Sub-division 
 

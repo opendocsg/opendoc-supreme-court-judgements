@@ -18,7 +18,7 @@ _Contract_ – _Oral Agreement_ – _Misrepresentation_
 
 _Companies_ – _Minority Oppression_ – _Breach of Director’s Duties_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 107 of 2012 (Suit No 184 of 2010) was allowed by the Court of Appeal on 22 July 2013. See [2013] SGCA 41.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 107 of 2012 (Suit No 184 of 2010) was allowed by the Court of Appeal on 22 July 2013. See <span class="citation">[2013] SGCA 41</span>.] 
 
 7 August 2012 
 
@@ -633,7 +633,7 @@ _The alleged oral agreement_
 
  Businessmen do not, any more than the courts, find it easy to say precisely when they have reached agreement, and may continue to negotiate even after they appear to have agreed to the same terms. The court will then look at the entire course of the negotiations to decide whether an apparently unqualified acceptance did in fact conclude the agreement... 
 
-74     This would also appear to be the Singapore position. In _Projection Pte Ltd v The Tai Ping Insurance Co Ltd_ [2001] 1 SLR(R) 798 (“ _Projection_ ”), the Court of Appeal at [15] cited its earlier decision in _Aircharter World Pte Ltd v Kontena Nasional Bhd_ [1999] 2 SLR(R) 440 at [30] for the following proposition: 
+74     This would also appear to be the Singapore position. In _Projection Pte Ltd v The Tai Ping Insurance Co Ltd_ <span class="citation">[2001] 1 SLR(R) 798</span> (“ _Projection_ ”), the Court of Appeal at [15] cited its earlier decision in _Aircharter World Pte Ltd v Kontena Nasional Bhd_ <span class="citation">[1999] 2 SLR(R) 440</span> at [30] for the following proposition: 
 
  ...Under this test, once the parties have to all outward appearances agreed in the same terms on the same subject-matter, then neither can, generally, rely on some unexpressed qualification or reservation to show that he had not in fact agreed to the terms to which he had appeared to agree. Such subjective reservations of one party, therefore, do not prevent the formation of a contract... 
 
@@ -943,7 +943,7 @@ _Misrepresentation_
 89     The first defendant had counterclaimed that he was induced into entering into the oral agreement by certain false representations made by the plaintiff. The first defendant’s counterclaim was based on fraudulent misrepresentation, and in the alternative, s 2 of the Misrepresentation Act. Given that the law on what constitutes an actionable misrepresentation is the same regardless of 
 
 
-whether the claim is based on fraud or on s 2 of the Misrepresentation Act (see _Tan Chin Seng and Ors v Raffles Town Club Pte Ltd_ [2003] 3 SLR(R) 307 (“ _Tan Chin_ Seng”) at [22] and [23]), I turn first to consider whether an actionable misrepresentation had been made out in the present case. 
+whether the claim is based on fraud or on s 2 of the Misrepresentation Act (see _Tan Chin Seng and Ors v Raffles Town Club Pte Ltd_ <span class="citation">[2003] 3 SLR(R) 307</span> (“ _Tan Chin_ Seng”) at [22] and [23]), I turn first to consider whether an actionable misrepresentation had been made out in the present case. 
 
 90     In _Tan Chin Seng_ at [20], the Court of Appeal affirmed the following definition from _Anson’s Law_ 
 
@@ -951,7 +951,7 @@ _of Contract_ (28th Ed, 2002) at p 237 of an actionable misrepresentation:
 
  An operative misrepresentation consists in a false statement of existing or past fact made by one party (the “misrepresentor”) before or at the time of making the contract, which is addressed to the other party (“the misrepresentee”) and which induces the other party to enter into the contract. [emphasis in original] 
 
-91     To succeed on his counterclaim, therefore, the first defendant must first show that a representation of fact was made by the plaintiff that was untrue, that he was induced to act on the representation and that he suffered a loss as a result. In relation to the requirement that the first defendant must have acted on the false statement, the Court of Appeal in _Panatron Pte Ltd and another v Lee Cheow Lee and another_ [2001] 2 SLR(R) 435 (“ _Panatron_ ”) held at [23] that: 
+91     To succeed on his counterclaim, therefore, the first defendant must first show that a representation of fact was made by the plaintiff that was untrue, that he was induced to act on the representation and that he suffered a loss as a result. In relation to the requirement that the first defendant must have acted on the false statement, the Court of Appeal in _Panatron Pte Ltd and another v Lee Cheow Lee and another_ <span class="citation">[2001] 2 SLR(R) 435</span> (“ _Panatron_ ”) held at [23] that: 
 
  The misrepresentations need not be the sole inducement..., so long as they had played a real and substantial part and operated in their minds, no matter how strong or how many were the other matters which played their part in inducing them to act...If inducements in this sense are proved and the other essential elements of the tort are also made out, as is the case here, then liability will follow. 
 
@@ -1001,7 +1001,7 @@ _Was the misrepresentation fraudulent or negligent?_
 
 102    In order for the misrepresentation to be fraudulent, it must be shown that the representation was made with the knowledge that it is false. The representation must be either wilfully false or at least made in the absence of any genuine belief that it is true (see _Panatron_ at [14]). 
 
-103    In _Tang Yoke Keng v Lek Benedict_ [2005] 3 SLR(R) 263 at [13], it was stated that in civil cases where fraud is alleged, the burden is on the claimant to adduce cogent evidence that there was wilful conduct amounting to fraudulent behaviour. 
+103    In _Tang Yoke Keng v Lek Benedict_ <span class="citation">[2005] 3 SLR(R) 263</span> at [13], it was stated that in civil cases where fraud is alleged, the burden is on the claimant to adduce cogent evidence that there was wilful conduct amounting to fraudulent behaviour. 
 
 104    After assessing all the evidence, including those of the expert witnesses as well as Lee’s testimony, I believe that the plaintiff’s conduct was more negligent than fraudulent. In fact, it appeared to me that rather than deliberately misrepresenting the plot ratio of the properties to be 1.4 despite knowing otherwise, the plaintiff had simply chosen to rely on the information contained in the CBRE brochure and URA’s Grant of Outline Permission without taking the trouble to ascertain the basis of that information. 
 

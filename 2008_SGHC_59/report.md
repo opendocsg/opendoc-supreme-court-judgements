@@ -108,9 +108,9 @@ Deutsche Forfait AG (“DF”) and warranted to DF the legal existence of the no
 
 27     The defendant applied for a permanent stay of all further proceedings on the ground that Singapore is not the natural and appropriate forum for the action. 
 
-28     The governing principle for such a stay was recently reiterated by the Court of Appeal in _Rickshaw Investments Ltd and Another v Nicolai Baron von Uexkull_ [2007] 1 SLR 377 (“ _Rickshaw_ ”). The Court of Appeal held: 
+28     The governing principle for such a stay was recently reiterated by the Court of Appeal in _Rickshaw Investments Ltd and Another v Nicolai Baron von Uexkull_ <span class="citation">[2007] 1 SLR 377</span> (“ _Rickshaw_ ”). The Court of Appeal held: 
 
- 12 The governing principle in natural forum cases is that articulated in the seminal House of Lords decision of Spiliada Maritime Corporation v Cansulex Ltd [1987] AC 460 (“ Spiliada ”), which has been approved by the Singapore Court of Appeal on many occasions as being part of our local law (see, for example, the Singapore Court of Appeal decisions of Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia [1992] 2 SLR 776 (“Brinkerhoff”) and PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Limited [2001] 2 SLR 49). 
+ 12 The governing principle in natural forum cases is that articulated in the seminal House of Lords decision of Spiliada Maritime Corporation v Cansulex Ltd [1987] AC 460 (“ Spiliada ”), which has been approved by the Singapore Court of Appeal on many occasions as being part of our local law (see, for example, the Singapore Court of Appeal decisions of Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia <span class="citation">[1992] 2 SLR 776</span> (“Brinkerhoff”) and PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Limited <span class="citation">[2001] 2 SLR 49</span>). 
 
  13 In Brinkerhoff , Chao Hick Tin J (as he then was), delivering the judgment of the court, observed as follows (at 784, [35]): 
 
@@ -131,7 +131,7 @@ Deutsche Forfait AG (“DF”) and warranted to DF the legal existence of the no
 
  (f) if there is another forum which prima facie is clearly more appropriate the court will ordinarily grant a stay unless there are circumstances by reason of which justice requires that a stay should not be granted, and, in this inquiry the court will consider all the circumstances of the case. But the mere fact that the plaintiff has a legitimate personal or juridical advantage in proceeding in England is not decisive; regard must be had to the interests of all the parties and the ends of justice. 
 
-29     In _Peters Roger May v Pinder Lillian Gek Lian_ [2006] 2 SLR 381, VK Rajah J said: 
+29     In _Peters Roger May v Pinder Lillian Gek Lian_ <span class="citation">[2006] 2 SLR 381</span>, VK Rajah J said: 
 
  19 It ought to be noted that, in the final analysis, the real issue is not one of convenience per se but of appropriateness. In evaluating competing considerations the acid test simply is which is the more appropriate forum to hear the matter... 
 
@@ -141,11 +141,11 @@ Deutsche Forfait AG (“DF”) and warranted to DF the legal existence of the no
 
  The object under the words “forum non conveniens” is to find that forum which is the more suitable for the ends of justice, and is preferable, because pursuit of the litigation in that forum is more likely to secure those ends. 
 
-30     Hence the ultimate question that must always be borne in mind in a stay application on the ground of _forum non conveniens_ is to ascertain where the case should suitably be tried having regard to the interest of the parties and the ends of justice: _Q&M Enterprises Sdn Bhd v Poh Kiat_ [2005] 4 SLR 494 at [13]. 
+30     Hence the ultimate question that must always be borne in mind in a stay application on the ground of _forum non conveniens_ is to ascertain where the case should suitably be tried having regard to the interest of the parties and the ends of justice: _Q&M Enterprises Sdn Bhd v Poh Kiat_ <span class="citation">[2005] 4 SLR 494</span> at [13]. 
 
 31     In the present case, the burden rests on the defendant to show that Singapore is not the natural or appropriate forum for the trial of the action and that there is another available forum, which is clearly or distinctly more appropriate than Singapore. For this, I examined the material facts and the issues in dispute to determine the jurisdiction with which the action would have the most real and substantial connection. If at this stage (“first stage”), I do not find that England is clearly or distinctly more appropriate, then I will ordinarily refuse the stay. However, if the defendant is able to show that England is clearly or distinctly the more appropriate forum, then I will ordinarily grant a stay **_unless_** the plaintiff can show circumstances (“unless question”) by reason of which justice requires that a stay should not be granted (“second stage”). 
 
-32     In considering the connecting factors, the court must have regard to the likely issues in dispute: _Yeoh Poh San & Anor v Won Siok Wan_ [2002] SGHC 196. Therefore, connecting factors material and relevant to the issues in dispute must be considered (at the first stage). Depending on the nature of the various causes of action and the defences, the court may give different weights to 
+32     In considering the connecting factors, the court must have regard to the likely issues in dispute: _Yeoh Poh San & Anor v Won Siok Wan_ <span class="citation">[2002] SGHC 196</span>. Therefore, connecting factors material and relevant to the issues in dispute must be considered (at the first stage). Depending on the nature of the various causes of action and the defences, the court may give different weights to 
 
 
 the various connecting factors. However, for determining the “unless question” in the second stage, all relevant circumstances of the case must be taken into account, including any legitimate personal or juridical advantages together with the connecting factors considered earlier in the first stage. Hence, the scope of inquiry during the second stage (if reached) becomes much wider than the first stage. 
@@ -359,7 +359,7 @@ will be calling or cross-examining the witnesses currently in their employ, to p
 
 **_(5) Unjust enrichment and the proper law of the restitutionary obligation_** 
 
-88     In _Kartika Ratna Thahir v PT Pertambangan Minyak dan Gas Bumi Negara (Pertamina)_ [1994] 3 SLR 257 at 270, the Court of Appeal cited the following Rule 230 (then known as Rule 201) in 
+88     In _Kartika Ratna Thahir v PT Pertambangan Minyak dan Gas Bumi Negara (Pertamina)_ <span class="citation">[1994] 3 SLR 257</span> at 270, the Court of Appeal cited the following Rule 230 (then known as Rule 201) in 
 
 Dicey & Morris on The Conflict of Laws (14th Ed, 2006) (“Dicey & Morris”): 
 
@@ -512,11 +512,11 @@ failed or has become unenforceable.
 
 116    I note that the above two cases cited by counsel for the plaintiff do not stand for the proposition that no attention should be paid to the factor of third party proceedings when evaluating the _forum non conveniens_ factors. Depending on the facts and circumstances of each case, the appropriate weight to be given to the potential third party proceedings will vary. 
 
-117    The defendant in my view rightly contends that the contemplated third party actions and their likely impact on the main proceedings are relevant to the consideration of the appropriate forum. Where a defendant intends to initiate third party proceedings which come within the requirements of Order 16 r 1, it is generally convenient, in the interests of justice and in saving court time and costs, for those proceedings to be determined at the same time, and in the same court, as the main proceedings. These considerations according to defendant’s counsel were considered in a number of cases. In _Baring Futures (Singapore) Pte Ltd (in liquidation) v Deloitte & Touche (a firm) & Anor_ [1997] 3 SLR 312, Lai Kew Chai J opined at [2] that: 
+117    The defendant in my view rightly contends that the contemplated third party actions and their likely impact on the main proceedings are relevant to the consideration of the appropriate forum. Where a defendant intends to initiate third party proceedings which come within the requirements of Order 16 r 1, it is generally convenient, in the interests of justice and in saving court time and costs, for those proceedings to be determined at the same time, and in the same court, as the main proceedings. These considerations according to defendant’s counsel were considered in a number of cases. In _Baring Futures (Singapore) Pte Ltd (in liquidation) v Deloitte & Touche (a firm) & Anor_ <span class="citation">[1997] 3 SLR 312</span>, Lai Kew Chai J opined at [2] that: 
 
  ... only by bringing all the principal players together before one forum for adjudication could the responsibility be justly, sensibly and more efficiently ascertained and distributed between those concerned...This approach would avoid the potential disaster of inconsistent verdicts which could be given if similar disputes with overlapping facts involving the same or different parties were litigated before two courts in two different jurisdictions... 
 
-118    Counsel for the defendant also cited _IPCO International Construction Limited v S T Kay & Co & Anor_ [1998] SGHC 198 (“ _IPCO International Construction_ ”), where there were two applications before the court one by the defendants and the other by the third party, to stay the main action and the third party proceedings in Singapore in favour of proceedings already before the Philippines court. The defendants’ solicitors contended that if the court granted the third party a stay, then the main action should also be stayed in favour of the Philippines action. The plaintiffs’ counsel contended that the main action was independent of the third party proceedings which had a life of its own and hence any stay of the third party proceedings should not affect the main action and should not be a valid reason for staying the main action. 
+118    Counsel for the defendant also cited _IPCO International Construction Limited v S T Kay & Co & Anor_ <span class="citation">[1998] SGHC 198</span> (“ _IPCO International Construction_ ”), where there were two applications before the court one by the defendants and the other by the third party, to stay the main action and the third party proceedings in Singapore in favour of proceedings already before the Philippines court. The defendants’ solicitors contended that if the court granted the third party a stay, then the main action should also be stayed in favour of the Philippines action. The plaintiffs’ counsel contended that the main action was independent of the third party proceedings which had a life of its own and hence any stay of the third party proceedings should not affect the main action and should not be a valid reason for staying the main action. 
 
 119    Counsel for the defendant referred me to the following passage where the High Court opined that: 
 
@@ -694,7 +694,7 @@ The English High Court later held at 70 and 75 that:
 
 restitution, which is neither grounded in tort or contract, but on a mistake as a result of a fraud, therefore the Act may not apply. 
 
-153    In _Management Corporation Strata Title No 473 v De Beers Jewellery Pte Ltd_ [2002] 2 SLR 1, the Court of Appeal held at [32]: 
+153    In _Management Corporation Strata Title No 473 v De Beers Jewellery Pte Ltd_ <span class="citation">[2002] 2 SLR 1</span>, the Court of Appeal held at [32]: 
 
  A perusal of the Limitation Act showed that a claim for unjust enrichment which was neither grounded in contract nor tort, and in which equitable relief was not sought, did not fall within the scope of the Act. Hence s 29 was irrelevant, and there was no need for an inquiry as to when the respondent first knew of the mistake, or could with reasonable diligence have known of the mistake. 
 

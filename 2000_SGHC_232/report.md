@@ -111,7 +111,7 @@ subject matter was below $50,000. The district judge then went on to consider th
 
 application. 
 
-The district judge referred to **Lee Kuan Yew v Tang Liang Hong & Anor** [1997] 3 SLR 489 which 
+The district judge referred to **Lee Kuan Yew v Tang Liang Hong & Anor** <span class="citation">[1997] 3 SLR 489</span> which 
 
 was cited by the husband`s counsel. This was a decision of the Court of Appeal. It was an appeal 
 

@@ -24,7 +24,7 @@ _Credit and Sec urity_ – _Mortgage of personal property_ – _Stoc ks and shar
 
 **Chao Hick Tin JA (delivering the judgment of the court):** 
 
-1       This was an appeal against the decision of Woo Bih Li J, who allowed the appeal of the respondent, Deutsche Bank (“DB”), against the decision of the assistant registrar permitting the appellant, Beckkett Pte Ltd (“Beckkett”), to use certain documents disclosed by DB in proceedings in Singapore for the purposes of obtaining an injunction against a third party in Indonesia (see [2005] SGHC 79). We heard the appeal on 25 April 2005 and dismissed it for the reasons that follow. 
+1       This was an appeal against the decision of Woo Bih Li J, who allowed the appeal of the respondent, Deutsche Bank (“DB”), against the decision of the assistant registrar permitting the appellant, Beckkett Pte Ltd (“Beckkett”), to use certain documents disclosed by DB in proceedings in Singapore for the purposes of obtaining an injunction against a third party in Indonesia (see <span class="citation">[2005] SGHC 79</span>). We heard the appeal on 25 April 2005 and dismissed it for the reasons that follow. 
 
 **The background** 
 
@@ -130,7 +130,7 @@ carried three days after Woo J made his ruling. Excerpts of the interview were s
 
 **Principle against self-incrimination** 
 
-31     The principle against self-incrimination is part of the law of this land. In _Lee Thin Tuan v Louis Vuitton_ [1992] 2 SLR 273, this court reiterated the principle against self-incrimination and modified the terms of an order of court requiring the appellant to provide information and documents concerning the receipt and supply of goods bearing the trade marks belonging to the respondent, as complying with that part of the order would “tend to incriminate him and expose him to a criminal charge or charges under the Trade Marks Act (Cap 322) and the Consumer Protection (Trade Descriptions And Safety Requirements) Act (Cap 53)” (at 275, [4]). Another case which applied this principle is _Guc c io Guc c i SpA v Sukhdav Singh_ [1992] 1 SLR 553. 
+31     The principle against self-incrimination is part of the law of this land. In _Lee Thin Tuan v Louis Vuitton_ <span class="citation">[1992] 2 SLR 273</span>, this court reiterated the principle against self-incrimination and modified the terms of an order of court requiring the appellant to provide information and documents concerning the receipt and supply of goods bearing the trade marks belonging to the respondent, as complying with that part of the order would “tend to incriminate him and expose him to a criminal charge or charges under the Trade Marks Act (Cap 322) and the Consumer Protection (Trade Descriptions And Safety Requirements) Act (Cap 53)” (at 275, [4]). Another case which applied this principle is _Guc c io Guc c i SpA v Sukhdav Singh_ <span class="citation">[1992] 1 SLR 553</span>. 
 
 32     In order to plead the privilege of self-incrimination, there “must be grounds to apprehend danger to the [defendant], and those grounds must be reasonable, rather than fanciful”: _per_ Staughton LJ in _Soc iedade Nac ional de Combustiveis de Angola UEE v Lundqvist_ [1991] 2 QB 310 at 
 
@@ -160,7 +160,7 @@ carried three days after Woo J made his ruling. Excerpts of the interview were s
 
  [DB] is under a real apprehension that the release of these documents to [Beckkett] for use in Indonesia would tend to expose [DB] to criminal proceedings in Indonesia. 
 
-39     The present case is different from that in _Hung Ka Ho v A-1 Offic e System Pte Ltd_ [1992] 2 SLR 379, where the defendant’s application to discharge an _ex parte_ Anton Piller order was refused, as no affidavit was filed setting out the basis on which the defendant sought to rely on the privilege against self-incrimination. There, the claim to privilege was made by the defendant’s counsel only in submissions without substantiation and was thus not accepted by the court. 
+39     The present case is different from that in _Hung Ka Ho v A-1 Offic e System Pte Ltd_ <span class="citation">[1992] 2 SLR 379</span>, where the defendant’s application to discharge an _ex parte_ Anton Piller order was refused, as no affidavit was filed setting out the basis on which the defendant sought to rely on the privilege against self-incrimination. There, the claim to privilege was made by the defendant’s counsel only in submissions without substantiation and was thus not accepted by the court. 
 
 40     The case of _Omar v Omar_ ([13] _supra_ ) is different. Besides being a tracing action, no criminal wrongdoing was alleged. So there was no question of any prejudice arising. 
 

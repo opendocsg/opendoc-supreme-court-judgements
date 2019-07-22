@@ -20,7 +20,7 @@ _Companies_ – _Receiver and manager_ – _Appointment_ – _Schemes of arrange
 
 **Kan Ting Chiu J:** 
 
-1       After I heard and disposed of the application on 8 September 2005 ([2005] SGHC 173), I heard further arguments at the request of the litigant-members. 
+1       After I heard and disposed of the application on 8 September 2005 (<span class="citation">[2005] SGHC 173</span>), I heard further arguments at the request of the litigant-members. 
 
 2       At the conclusion of the further hearing on 19 September 2005, I confirmed my orders of 8 September. I will set out the developments following 8 September 2005. 
 

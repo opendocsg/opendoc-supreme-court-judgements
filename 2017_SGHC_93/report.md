@@ -657,11 +657,11 @@ submissions, were as follows: [note: 119]
 
 **_What is a misrepresentation?_** 
 
-67     A misrepresentation consists in a false statement of existing or past fact made by one party before or at the time of making the contract, which is addressed to the other party and which induces the other party to enter into the contract ( _Lim Koon Park and another v Yap Jin Meng Bryan and another_ [2013] 4 SLR 150 (“ _Lim Koon Park_ ”) at [38]). Such falsity exists when the facts as asserted do not correspond with the facts as they exist: Pearlie Koh, “Misrepresentation and Nondisclosure” in _The Law of Contract in Singapore_ (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) at para 11.056. 
+67     A misrepresentation consists in a false statement of existing or past fact made by one party before or at the time of making the contract, which is addressed to the other party and which induces the other party to enter into the contract ( _Lim Koon Park and another v Yap Jin Meng Bryan and another_ <span class="citation">[2013] 4 SLR 150</span> (“ _Lim Koon Park_ ”) at [38]). Such falsity exists when the facts as asserted do not correspond with the facts as they exist: Pearlie Koh, “Misrepresentation and Nondisclosure” in _The Law of Contract in Singapore_ (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) at para 11.056. 
 
-68     Section 2(1) of the Misrepresentation Act (Cap 390, 1994 Rev Ed) does not alter the common law as to what constitutes a misrepresentation ( _Tan Chin Seng and others v Raffles Town Club Pte Ltd_ [2003] 3 SLR(R) 307 at [23]). It does, however, reverse the burden of proof in one aspect, in that the party who made the misrepresentation has to show that he had reasonable grounds to believe that the fact represented was true ( _Lim Koon Park_ at [39]). 
+68     Section 2(1) of the Misrepresentation Act (Cap 390, 1994 Rev Ed) does not alter the common law as to what constitutes a misrepresentation ( _Tan Chin Seng and others v Raffles Town Club Pte Ltd_ <span class="citation">[2003] 3 SLR(R) 307</span> at [23]). It does, however, reverse the burden of proof in one aspect, in that the party who made the misrepresentation has to show that he had reasonable grounds to believe that the fact represented was true ( _Lim Koon Park_ at [39]). 
 
-69     Words, however, are often ambiguous. Depending on the context, a statement may be true in one sense, and yet false in another. In _Trans-World (Aluminium) Ltd v Cornelder China (Singapore)_ [2003] 3 SLR(R) 501 (“ _Trans-world_ ”), the High Court held (at [63(a)]): 
+69     Words, however, are often ambiguous. Depending on the context, a statement may be true in one sense, and yet false in another. In _Trans-World (Aluminium) Ltd v Cornelder China (Singapore)_ <span class="citation">[2003] 3 SLR(R) 501</span> (“ _Trans-world_ ”), the High Court held (at [63(a)]): 
 
  Where there is ambiguity, the representee must do more than show that in its ordinary meaning the representation was false. He has to show in which of the possible senses he understood it, and in that sense it was false. 
 
@@ -670,9 +670,9 @@ submissions, were as follows: [note: 119]
 70     This rule has a very practical justification. If the representee cannot show in which of the 
 
 
-possible senses he understood a statement, it will be impossible to say that the statement is false and that he has been induced by it to alter his position. ( _Chuan Bee Realty Pte Ltd v Teo Chee Yeow Aloysius and another_ [1996] 2 SLR(R) 134 (“ _Chuan Bee_ ”) at [18]). 
+possible senses he understood a statement, it will be impossible to say that the statement is false and that he has been induced by it to alter his position. ( _Chuan Bee Realty Pte Ltd v Teo Chee Yeow Aloysius and another_ <span class="citation">[1996] 2 SLR(R) 134</span> (“ _Chuan Bee_ ”) at [18]). 
 
-71     Further, the specific sense in which a representee understands an ambiguous statement is assessed at the time the statement was made. As observed by Steven Chong J (as he then was) in _Goldrich Venture Pte Ltd and another v Halcyon Offshore Pte Ltd_ [2015] 3 SLR 990 (“ _Goldrich_ ”) (at [119]): 
+71     Further, the specific sense in which a representee understands an ambiguous statement is assessed at the time the statement was made. As observed by Steven Chong J (as he then was) in _Goldrich Venture Pte Ltd and another v Halcyon Offshore Pte Ltd_ <span class="citation">[2015] 3 SLR 990</span> (“ _Goldrich_ ”) (at [119]): 
 
  In both Trans-World as well as the earlier case of Chuan Bee ... the court found that the plaintiffs in each case had failed to plead the specific sense in which they understood the (ambiguous) representation at the time it was made so the claims were dismissed. 
 
@@ -682,7 +682,7 @@ possible senses he understood a statement, it will be impossible to say that the
 
 **_Were the statements made by the Bank actionable misrepresentations?_** 
 
-73     Before examining the statements in question, I must reiterate that what caused the losses on the Plaintiffs’ investments in Fairfield Sentry were the fraudulent deeds of Madoff. This is unlike the slew of litigation in relation to the mis-selling of financial products, the value of which plummeted as a result of the global financial crisis that followed the bursting of the asset bubble in the USA in 2008 (see, _eg_ , _Als Memasa and another v UBS AG_ [2012] 4 SLR 992 (“ _Als Memasa_ ”); _Deutsche Bank AG v Chang Tse Wen and another appeal_ [2013] 4 SLR 886 (“ _Deutsche Bank (CA)_ ”)). Consequently, for the Plaintiffs to succeed in their claim in misrepresentation, they must prove that they were misled by the Bank as to the risk of loss due to managerial fraud, rather than as to the risk of loss due to adverse market movements. In other words, the cause of the losses was managerial fraud and not market risk. It is not sufficient to merely show that the Bank made representations which the Plaintiffs understood to relate to market risk as this would be irrelevant: such representations would in any event not have caused the loss. 
+73     Before examining the statements in question, I must reiterate that what caused the losses on the Plaintiffs’ investments in Fairfield Sentry were the fraudulent deeds of Madoff. This is unlike the slew of litigation in relation to the mis-selling of financial products, the value of which plummeted as a result of the global financial crisis that followed the bursting of the asset bubble in the USA in 2008 (see, _eg_ , _Als Memasa and another v UBS AG_ <span class="citation">[2012] 4 SLR 992</span> (“ _Als Memasa_ ”); _Deutsche Bank AG v Chang Tse Wen and another appeal_ <span class="citation">[2013] 4 SLR 886</span> (“ _Deutsche Bank (CA)_ ”)). Consequently, for the Plaintiffs to succeed in their claim in misrepresentation, they must prove that they were misled by the Bank as to the risk of loss due to managerial fraud, rather than as to the risk of loss due to adverse market movements. In other words, the cause of the losses was managerial fraud and not market risk. It is not sufficient to merely show that the Bank made representations which the Plaintiffs understood to relate to market risk as this would be irrelevant: such representations would in any event not have caused the loss. 
 
 _What did the Plaintiffs understand the statements to mean?_ 
 
@@ -788,7 +788,7 @@ draft AEICs were unreliable, as: [note: 146]
  ... it is not even clear whether the documents in fact reflect Arjun’s statements, let alone which represents Arjun’s last version. Even if we did, we do not know whether Arjun would have stood by it when cross-examined. 
 
 
-88     In this regard, the Bank relied on the decision of the High Court in _Sembcorp Marine Ltd v Aurol Anthony Sabastian_ [2013] 1 SLR 245. In that case, the respondent was convicted of criminal contempt for the breach of an interim sealing order by forwarding sealed documents to a journalist. The respondent then applied to adduce further evidence in the form of a draft affidavit by the journalist. In examining the reliability of the draft affidavit, the High Court observed (at [26]): 
+88     In this regard, the Bank relied on the decision of the High Court in _Sembcorp Marine Ltd v Aurol Anthony Sabastian_ <span class="citation">[2013] 1 SLR 245</span>. In that case, the respondent was convicted of criminal contempt for the breach of an interim sealing order by forwarding sealed documents to a journalist. The respondent then applied to adduce further evidence in the form of a draft affidavit by the journalist. In examining the reliability of the draft affidavit, the High Court observed (at [26]): 
 
  Thirdly and very importantly, the unaffirmed draft affidavit is not evidence I can rely on. I cannot ignore the fact that [the journalist] has consciously chosen not to affirm that draft. It cannot be assumed that if [the journalist] is called to the stand, he will give evidence as to what is stated in the draft. Whilst not pivotal on its own, taken in the context of my observations and reasons above, this becomes a very relevant factor against allowing the application. 
 
@@ -877,7 +877,7 @@ Plaintiffs on their investments. [note: 158]
 
 **_Did the Bank owe the Plaintiffs a duty of care?_** 
 
-106    Although the Plaintiffs’ pleadings suggested that they were relying on both a contractual duty of care and a tortious duty of care, their closing submissions focussed on the latter in relying on _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ [2007] 4 SLR(R) 100 (“ _Spandeck_ ”). I shall thus focus on the tortious duty of care in this judgment. 
+106    Although the Plaintiffs’ pleadings suggested that they were relying on both a contractual duty of care and a tortious duty of care, their closing submissions focussed on the latter in relying on _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ <span class="citation">[2007] 4 SLR(R) 100</span> (“ _Spandeck_ ”). I shall thus focus on the tortious duty of care in this judgment. 
 
 107    The Bank relied on a number of contractual terms to deny that it owed any duty of care to the Plaintiffs. 
 
@@ -933,11 +933,11 @@ Plaintiffs on their investments. [note: 158]
 
 130    The doctrine of contractual estoppel is relatively new in Singapore and gave rise to vigorous arguments from the parties on its application here. 
 
-131    The Plaintiffs accepted that in _Orient Centre Investments Ltd and another v Société Générale_ [2007] 3 SLR(R) 566 (“ _Orient Centre_ ”), the Court of Appeal appeared to have accepted that 
+131    The Plaintiffs accepted that in _Orient Centre Investments Ltd and another v Société Générale_ <span class="citation">[2007] 3 SLR(R) 566</span> (“ _Orient Centre_ ”), the Court of Appeal appeared to have accepted that 
 
 contractual estoppel is part of Singapore law. [note: 159] 
 
-132    However, the Plaintiffs submitted that the Court of Appeal in _Orient Centre_ did not have regard to its earlier decision in _Fook Gee Finance Co Ltd v Liu Cho Chit and another_ [1998] 1 SLR(R) 385 (“ _Fook Gee Finance_ ”) where the analysis precluded contractual estoppel reasoning. 
+132    However, the Plaintiffs submitted that the Court of Appeal in _Orient Centre_ did not have regard to its earlier decision in _Fook Gee Finance Co Ltd v Liu Cho Chit and another_ <span class="citation">[1998] 1 SLR(R) 385</span> (“ _Fook Gee Finance_ ”) where the analysis precluded contractual estoppel reasoning. 
 
 133    On this point, the Bank submitted that the doctrine of contractual estoppel was first developed only in the English case of _Peekay Intermark Ltd v Australia and New Zealand Banking Group Ltd_ [2006] EWCA Civ 386 (“ _Peekay_ ”) which was decided after _Fook Gee Finance_. Therefore, the Singapore Court of Appeal in _Fook Gee Finance_ did not consider or rule on this doctrine. 
 
@@ -950,7 +950,7 @@ transactions. At [29], the Court of Appeal also remarked:
 
  However, in the light of the many allegations made against many financial institutions for “misselling” complex financial products to linguistically and financially illiterate and unwary customers during the financial crisis in 2008, it may be desirable for the courts to reconsider whether financial institutions should be accorded full immunity for such “misconduct” by relying on nonreliance clauses which unsophisticated customers might have been induced or persuaded to sign without truly understanding their potential legal effect on any form of misconduct or negligence on the part of the relevant officers in relation to the investment recommended by them. 
 
-136    I come now to the decision of the High Court in _Deutsche Bank AG v Chang Tse Wen_ [2013] 1 SLR 1310 (“ _Deutsche Bank (HC)_ ”). There the High Court dismissed the bank’s claim against the customer and allowed the customer’s counterclaim against the bank. 
+136    I come now to the decision of the High Court in _Deutsche Bank AG v Chang Tse Wen_ <span class="citation">[2013] 1 SLR 1310</span> (“ _Deutsche Bank (HC)_ ”). There the High Court dismissed the bank’s claim against the customer and allowed the customer’s counterclaim against the bank. 
 
 137    The High Court observed at [136] that the plaintiffs in _Orient Centre_ were financially sophisticated parties and noted the comment made in _Als Memasa_ as to whether the courts should re-consider the entitlement of financial institutions to include non-reliance clauses against unsophisticated customers. Accordingly, the High Court distinguished _Orient Centre_ on the basis that the customer was known to be financially inexperienced. 
 
@@ -1059,7 +1059,7 @@ fraud; and it could not reasonably have known of the fraud either.” [note: 170
 
 _The law_ 
 
-165    The standard of care owed by the Bank to the Plaintiffs in performing due diligence on Fairfield Sentry is determined by reference to the steps a reasonable and competent private bank ought to have taken ( _Deutsche Bank (CA)_ at [72]). This is a common sense inquiry: “whether the reasonably prudent banker, faced with the same circumstances, would regard the course of action taken on the facts justifiable” ( _Yogambikai Nagarajah v Indian Overseas Bank and another appeal_ [1996] 2 SLR(R) 774 (“ _Yogambikai_ ”) _at [62]_ ). 
+165    The standard of care owed by the Bank to the Plaintiffs in performing due diligence on Fairfield Sentry is determined by reference to the steps a reasonable and competent private bank ought to have taken ( _Deutsche Bank (CA)_ at [72]). This is a common sense inquiry: “whether the reasonably prudent banker, faced with the same circumstances, would regard the course of action taken on the facts justifiable” ( _Yogambikai Nagarajah v Indian Overseas Bank and another appeal_ <span class="citation">[1996] 2 SLR(R) 774</span> (“ _Yogambikai_ ”) _at [62]_ ). 
 
 166    The Bank’s obligations must necessarily be informed by the circumstances and prevailing industry standards at the material time ( _ie_ , before Madoff confessed to the fraud in December 2008). 
 
@@ -1278,7 +1278,7 @@ mentioned above. [note: 221]
 his team were “hunting” (to use Casey’s own words) [note: 222] Madoff over many years. Furthermore, as mentioned above at [100], the Plaintiffs themselves no longer say that the Bank would have uncovered the fraud with proper due diligence. 
 
 
-214    Secondly, Casey was not as objective as he should have been. It is trite law that an expert “should neither attempt nor be seen to be an advocate of or for a party’s cause”. An expert’s advocacy is “limited to supporting his independent views and not his client’s cause”: _Vita Health Laboratories Pte Ltd and others v Pang Seng Meng_ [2004] 4 SLR(R) 162 (“ _Vita Health_ ”) at [83]. I 
+214    Secondly, Casey was not as objective as he should have been. It is trite law that an expert “should neither attempt nor be seen to be an advocate of or for a party’s cause”. An expert’s advocacy is “limited to supporting his independent views and not his client’s cause”: _Vita Health Laboratories Pte Ltd and others v Pang Seng Meng_ <span class="citation">[2004] 4 SLR(R) 162</span> (“ _Vita Health_ ”) at [83]. I 
 
 accept the Bank’s submission [note: 223] that Casey had descended into the fray and became an 
 
@@ -1541,7 +1541,7 @@ performing in accordance with its investment objectives. [note: 292]
 
 254    Furthermore, I see no reason in principle why only professionals should be allowed to delegate duties: one would ordinarily think that professionals (whatever the definition of “professionals” may be) should be held to a _higher_ standard than non-professionals. Since professionals may delegate in the appropriate circumstances, I see no reason why non-professionals may not. Thus, it is not necessary for me to go on to decide whether the Bank was a “professional” in the present case. 
 
-255    I note that the Court of Appeal in _TV Media Pte Ltd v De Cruz Andrea Heidi and another appeal_ [2004] 3 SLR(R) 543 held that a defendant was not entitled to place “unquestioning reliance” on a third party to discharge its duty of care (at [71]). In my view, _TV Media_ may be distinguished from the present case. In _TV Media_ , the Court of Appeal rejected an assertion by a distributor of tainted slimming pills that it discharged its duty of care simply by relying on the Health Sciences Authority’s (the “HSA”) approval of the pills. Featuring prominently in its decision, however, was the fact that the distributor knew of a report produced by an independent laboratory raising doubts about the safety of the pills. Further, public policy considerations militated against allowing the distributor to fulfil its duty of care by simply relying on the HSA’s tests (at [66]–[71]): 
+255    I note that the Court of Appeal in _TV Media Pte Ltd v De Cruz Andrea Heidi and another appeal_ <span class="citation">[2004] 3 SLR(R) 543</span> held that a defendant was not entitled to place “unquestioning reliance” on a third party to discharge its duty of care (at [71]). In my view, _TV Media_ may be distinguished from the present case. In _TV Media_ , the Court of Appeal rejected an assertion by a distributor of tainted slimming pills that it discharged its duty of care simply by relying on the Health Sciences Authority’s (the “HSA”) approval of the pills. Featuring prominently in its decision, however, was the fact that the distributor knew of a report produced by an independent laboratory raising doubts about the safety of the pills. Further, public policy considerations militated against allowing the distributor to fulfil its duty of care by simply relying on the HSA’s tests (at [66]–[71]): 
 
  70 ... We also recognise that, as a matter of public policy, it might not be reasonable to expect a government agency to carry out in-depth testing of each of the thousands of products submitted to it. Equally, it might not be economically efficient to place the costs of such testing on the government. Rather, given the large profits [the distributor] hoped to rake in from sales of [the pills], we do not deem it too onerous for [the distributor] to have sought professional advice on the [independent laboratory’s] report. 
 
@@ -1634,7 +1634,7 @@ misrepresentation and due diligence failures”. [note: 314] The Plaintiffs’ c
 
 unjustly enriched through the investment fees it collected from the Plaintiffs. [note: 315] 
 
-273    The elements of unjust enrichment, as recently affirmed by the Court of Appeal in _Singapore Swimming Club v Koh Sin Chong Freddie_ [2016] 3 SLR 845 are (at [90]): 
+273    The elements of unjust enrichment, as recently affirmed by the Court of Appeal in _Singapore Swimming Club v Koh Sin Chong Freddie_ <span class="citation">[2016] 3 SLR 845</span> are (at [90]): 
 
  (a) that a benefit has been received or an enrichment has accrued to the defendant; 
 
@@ -1642,7 +1642,7 @@ unjustly enriched through the investment fees it collected from the Plaintiffs. 
 
  (c) that the defendant’s enrichment is “unjust”. 
 
-274    In _Wee Chiaw Sek Anna v Ng Li-Ann (sole executrix of the estate of Ng Hock Seng, deceased) and another_ [2013] 3 SLR 801 (“ _Anna Wee_ ”), the Court of Appeal clarified (at [134]–[137]) that a claimant must point to a recognised unjust factor underlying the claim in unjust enrichment. The list of recognised factors has been catalogued in academic treatises and was referred to by the Court of Appeal in _Anna Wee_ (at [132]–[133]). The Court of Appeal referred to the following summary by Prof Andrew Burrows in Prof Burrows, _The Law of Restitution_ (Oxford University Press, 3rd Ed, 2011) as follows (at p 86): 
+274    In _Wee Chiaw Sek Anna v Ng Li-Ann (sole executrix of the estate of Ng Hock Seng, deceased) and another_ <span class="citation">[2013] 3 SLR 801</span> (“ _Anna Wee_ ”), the Court of Appeal clarified (at [134]–[137]) that a claimant must point to a recognised unjust factor underlying the claim in unjust enrichment. The list of recognised factors has been catalogued in academic treatises and was referred to by the Court of Appeal in _Anna Wee_ (at [132]–[133]). The Court of Appeal referred to the following summary by Prof Andrew Burrows in Prof Burrows, _The Law of Restitution_ (Oxford University Press, 3rd Ed, 2011) as follows (at p 86): 
 
 
  As regards the cause of action of unjust enrichment, the main unjust factors can be listed as follows: mistake, duress, undue influence, exploitation of weakness, human incapacity, failure of consideration, ignorance, legal compulsion, necessity, illegality and public authority ultra vires exaction and payment. 

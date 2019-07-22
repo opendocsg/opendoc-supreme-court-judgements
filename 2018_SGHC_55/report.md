@@ -28,7 +28,7 @@ _Evidence_ – _Admissibility of evidence_ – _Pre-contractual negotiations_
 
 2       I heard oral arguments on 27 June 2017 and I gave my decision with 16-page brief oral grounds on 27 September 2017, dismissing the Plaintiff’s challenge on the Award. 
 
-3       The Plaintiff then sought leave to appeal against my decision under s 10(4) of the IAA in Summons No 4722 of 2017 (“SUM 4722/2017”). Its main ground for leave was that there was a question of general principle to be decided for the first time, and upon which further argument and a decision of a higher tribunal would be to the public advantage. This question was whether precontractual negotiations were admissible in evidence to construe written agreements – a point left open by the Court of Appeal (see _Xia Zhengyan v Geng Changqing_ [2015] 3 SLR 732 (“ _Xia Zhengyan_ ” _), Sembcorp Marine Ltd v PPL Holdings Pte Ltd_ [2013] 4 SLR 193 (“ _Sembcorp Marine_ ”) and _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 (“ _Zurich Insurance_ ”)). 
+3       The Plaintiff then sought leave to appeal against my decision under s 10(4) of the IAA in Summons No 4722 of 2017 (“SUM 4722/2017”). Its main ground for leave was that there was a question of general principle to be decided for the first time, and upon which further argument and a decision of a higher tribunal would be to the public advantage. This question was whether precontractual negotiations were admissible in evidence to construe written agreements – a point left open by the Court of Appeal (see _Xia Zhengyan v Geng Changqing_ <span class="citation">[2015] 3 SLR 732</span> (“ _Xia Zhengyan_ ” _), Sembcorp Marine Ltd v PPL Holdings Pte Ltd_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp Marine_ ”) and _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> (“ _Zurich Insurance_ ”)). 
 
 4       At the hearing before me on 20 November 2017, I considered, with respect, that both parties’ written submissions did not fully address the issues. Having referred counsel to the Evidence Act (Cap 97, 1997 Rev Ed) (“the EA”), some articles and material facts, the most important being Procedural Order No 1 issued by the Tribunal and the SIAC Rules, counsel asked for an opportunity to look at the same and address them by way of written submissions. I agreed and directed that the parties file 
 
@@ -754,7 +754,7 @@ statements being filed by the Defendant. [note: 38] I have also noted, at [43] a
 
 **_The law_** 
 
-108    It is not disputed that an applicant seeking leave to appeal must demonstrate that there exist questions falling within at least one of the following three limbs ( _Lee Kuan Yew v Tang Liang Hong_ [1997] 2 SLR(R) 862 at [16]): 
+108    It is not disputed that an applicant seeking leave to appeal must demonstrate that there exist questions falling within at least one of the following three limbs ( _Lee Kuan Yew v Tang Liang Hong_ <span class="citation">[1997] 2 SLR(R) 862</span> at [16]): 
 
  (a) prima facie case of error (“the Error Limb”); 
 
@@ -783,7 +783,7 @@ enumerated above: [note: 39]
 
 **_Admissibility of pre-contractual negotiations_** 
 
-113    As to question (a), the Plaintiff submits that the question of whether pre-contractual negotiations are admissible falls within the First Time and Public Importance Limbs. The Plaintiff points out that this question was left open in the Court of Appeal decisions of _Zurich Insurance_ (at [132(d)]), _Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd_ [2015] 5 SLR 1187 (“ _Soup_ 
+113    As to question (a), the Plaintiff submits that the question of whether pre-contractual negotiations are admissible falls within the First Time and Public Importance Limbs. The Plaintiff points out that this question was left open in the Court of Appeal decisions of _Zurich Insurance_ (at [132(d)]), _Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd_ <span class="citation">[2015] 5 SLR 1187</span> (“ _Soup_ 
 
 _Restaurant_ ”) (at [39]–[40]), _Xia Zhengyan_ (at [62], [69]) and _Sembcorp Marine_ (at [75]). [note: 40] It further submits that this is an issue of public importance due to its potential impact on the conduct of pre-contractual negotiations; for example, a rule of permitting general admission of such evidence 
 
@@ -819,7 +819,7 @@ in some way or other affect the material outcome of a given case” (at 172). In
 
 119    I referred counsel to further academic discussions of this issue, see Carol Mulcahy, “What Does It Mean – Contractual Interpretation in International Commercial Arbitration” (2015) 9 Dispute Resolution International 15; Joshua D. H. Karton, “International Commercial Arbitrators’ Approaches to Contractual Interpretation” (2012) International Business Law Journal 383 and also “The Arbitral Role in Contractual Interpretation” (2015) 6(1) Journal of International Dispute Settlement 4; James Spigelman, “The centrality of contractual interpretation: a comparative perspective” (2015) 81(3) Arbitration 234; V K Rajah JA writing extra-judicially in 2010: “Redrawing the Boundaries of Contractual Interpretation” (2010) 22 Singapore Academy of Law Journal 513; and Darius Chan, “Interpreting Contracts under Singapore Law in International Arbitration: HSBC Trustee v Lucky Realty Co” <htttp://arbitrationblog.kluwerarbitration.com/2016/05/25/interpreting-contracts-undersingapore-law-in-international-arbitration-hsbc-trustee-v-lucky-realty-co> (25 May 2016)). 
 
-120    Mr Tan, counsel for the Plaintiff, points to the first instance judgment in _HSBC Trustee (Singapore) Ltd v Lucky Realty Co Pte Ltd_ [2015] 3 SLR 885 (“ _HSBC Trustee (Singapore) Ltd_ ”) where the learned Judge said (at [57]): 
+120    Mr Tan, counsel for the Plaintiff, points to the first instance judgment in _HSBC Trustee (Singapore) Ltd v Lucky Realty Co Pte Ltd_ <span class="citation">[2015] 3 SLR 885</span> (“ _HSBC Trustee (Singapore) Ltd_ ”) where the learned Judge said (at [57]): 
 
  There is only one body of principles applicable to construing contracts in our substantive law of contract. No doubt that body of principles is independent of the law of evidence. But there should also be only one body of principles which determines what evidence that body of contractual principles can operate upon. ... A dispute over how a contract is to be construed must yield the same final judicial determination whether the contract is construed at trial in an action (to which Pt II of the Evidence Act does apply) or whether it is construed on a summary judgment application, on a striking out application, on an originating summons or even in arbitration (to all of which Pt II of the Evidence Act does not apply). 
 

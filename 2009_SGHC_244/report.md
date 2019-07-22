@@ -36,7 +36,7 @@ _Family Law_ – _Women’s charter_ – _divorce_ – _unreasonable behaviour_
 
 4       The parties married on 18 April 2000 in Singapore. In 2001, the Wife relocated to Eli Lilly in Indiana, USA. The Husband remained in Singapore to treat his medical problems. In May 2000, the Husband joined the Wife in Indiana. Later the couple moved to New Jersey. In December 2003, he returned to Singapore as he had signs of depression and agoraphobia. 
 
-5       The bulk of the Wife’s complaints about the Husband arose in the period between December 2003 and May 2006. These complaints include the Husband not being loving and caring towards her, the Husband not treating her with respect, the Husband’s unstable behaviour and violent outbursts, the Husband’s refusal to communicate with her and the Husband’s refusal to seek gainful employment, _etc_. A detailed list of the Wife’s complaints as well as the Husband’s replies is set out in the Grounds of Decision of the District Judge in _Tan Lay Ying Angeline v Teo Hoon Ping_ [2009] SGDC 149 (“GD”). 
+5       The bulk of the Wife’s complaints about the Husband arose in the period between December 2003 and May 2006. These complaints include the Husband not being loving and caring towards her, the Husband not treating her with respect, the Husband’s unstable behaviour and violent outbursts, the Husband’s refusal to communicate with her and the Husband’s refusal to seek gainful employment, _etc_. A detailed list of the Wife’s complaints as well as the Husband’s replies is set out in the Grounds of Decision of the District Judge in _Tan Lay Ying Angeline v Teo Hoon Ping_ <span class="citation">[2009] SGDC 149</span> (“GD”). 
 
 
 6       The Wife returned to Singapore for vacation in December 2004 and December 2005. In April 2006, she returned to Singapore for good. On 29 May 2006, she informed the Husband that she wanted a separation. 
@@ -127,7 +127,7 @@ _Disrespect to the Wife’s friends_
 
  (d) email on Voice Over Internet Protocol (VOIP) to Public Switched Telephone Network (PSTN). 
 
-12     Counsel for the Husband cited the cases of _Re Estate Duty Ordinance, 1929, s 36 The Estate Of TMRM Vengadasalam Chettiar Deceased_ [1940] MLJ 155 (“ _Vengadasalam_ ”) and _Lim Ah Neu v Tan Tiow Jin_ [2007] SGHC 135 as supporting the proposition that the Wife’s evidence should be given less weight because the Husband was not cross-examined on them. 
+12     Counsel for the Husband cited the cases of _Re Estate Duty Ordinance, 1929, s 36 The Estate Of TMRM Vengadasalam Chettiar Deceased_ [1940] MLJ 155 (“ _Vengadasalam_ ”) and _Lim Ah Neu v Tan Tiow Jin_ <span class="citation">[2007] SGHC 135</span> as supporting the proposition that the Wife’s evidence should be given less weight because the Husband was not cross-examined on them. 
 
 13     It seemed to me that counsel for the Husband had misinterpreted the case law regarding the drawing of inferences from a failure to cross-examine. In both the cases cited by counsel, evidence given by a party was given more weight by the court due to the opposing party’s failure to crossexamine him on that evidence. The rationale for this was that since counsel had neglected to conduct the cross-examination, “the only inference that the Court [could] properly draw [was] that learned counsel had no hope of being able to destroy any part of such witness’ evidence”: _Vengadasalam_ at 160. 
 
@@ -194,7 +194,7 @@ person[note: 1]”.
 
 that events from May 2002 to December 2003 cannot be used as reasons for the divorce”. 
 
-28     The principles that govern the appellate review of a trial judge’s assessment of a witness’s credibility were laid down in the case of _PP v Wang Ziyi Able_ [2008] 2 SLR 61. They can be summarised as such: 
+28     The principles that govern the appellate review of a trial judge’s assessment of a witness’s credibility were laid down in the case of _PP v Wang Ziyi Able_ <span class="citation">[2008] 2 SLR 61</span>. They can be summarised as such: 
 
  (a) An appellate court should be slow to overturn the trial judge’s findings of fact, especially where they hinge on the trial judge’s assessment of credibility and veracity of witnesses, unless they can be shown to be plainly wrong or against the weight of the evidence. 
 
@@ -219,7 +219,7 @@ had decided that events from May 2002 to December 2003 could not be relied upon 
 
 35     The Husband claimed that the District judge erred in law when she failed to consider and take into account, the fact that the Husband was suffering from depression and that this affected his actions towards the Wife. The gist of the Husband’s argument was that his behaviour should not be regarded as unreasonable such that the Wife could not be expected to continue living with him because it was caused by his depression. Furthermore, the Husband also contended that he had been acting like this even at the start of the marriage, and there was no reason why the Wife could not put up with him when she was able to do so in the past. 
 
-36     The test for determining whether a spouse has behaved in such way that the other spouse cannot reasonably be expected to live with him or her was laid down in the case of _Wong Siew Boey v Lee Boon Fatt_ [1994] 2 SLR 115 (“ _Wong Siew Boey_ ”). This test requires the court to ask if the plaintiff, with his or her characteristics and personality, with his or her faults and other attributes, good and bad, and having regard to his or her behaviour during the marriage, can reasonably be expected to live with the defendant. 
+36     The test for determining whether a spouse has behaved in such way that the other spouse cannot reasonably be expected to live with him or her was laid down in the case of _Wong Siew Boey v Lee Boon Fatt_ <span class="citation">[1994] 2 SLR 115</span> (“ _Wong Siew Boey_ ”). This test requires the court to ask if the plaintiff, with his or her characteristics and personality, with his or her faults and other attributes, good and bad, and having regard to his or her behaviour during the marriage, can reasonably be expected to live with the defendant. 
 
 37     The test as stated is an objective one that requires the court to take into account the subjective qualities of the plaintiff. There appears to be no local case that has directly addressed the issue of whether the reasons for the defendant having acted as he did should be a factor in determining the reasonableness of his behaviour. 
 

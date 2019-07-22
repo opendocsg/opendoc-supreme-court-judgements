@@ -218,7 +218,7 @@ indicating that PM was replying to a question from SDJ, and this later account w
 
 30     There is no significant difference between the accounts of SDJ and PM. It is evidence that PM and the other members of the inquiry committee did not question HH and JJ. By either account, PM indicated that it was not necessary to question them. The question is whether the plaintiff has reason to feel aggrieved that the inquiry committee did not question JJ and HH. JJ was not mentioned in the letter of complaint and the chronology. In the circumstances, the inquiry committee would not know if he had any role in the events in question. As for HH, it was mentioned in the chronology that she had dealt with WW in the acquisition of the transcripts. There was no mention that she had any dealings with TPC or the respondents, as indeed, she had not. SDJ, on the other hand, was shown to have been actively engaged with TPC and WW over obtaining the transcripts. 
 
-31     It is well established that the inquiry committee was not obliged to hear JJ or HH or anyone from GLLC. The Court of Appeal has made clear in _Seet Melvin v The Law Society of Singapore_ [1995] 2 SLR 323 at 341 that: 
+31     It is well established that the inquiry committee was not obliged to hear JJ or HH or anyone from GLLC. The Court of Appeal has made clear in _Seet Melvin v The Law Society of Singapore_ <span class="citation">[1995] 2 SLR 323</span> at 341 that: 
 
  The concept of fairness in IC proceedings need not extend to affording the complainant a right to an oral hearing. 
 

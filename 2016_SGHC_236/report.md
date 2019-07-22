@@ -30,7 +30,7 @@ _Criminal Procedure and Sentencing_ – _Appeal_ – _Acquittal_
 
  (b) selling the other to his colleague for a sum of $200. 
 
-The appellant was sentenced to ten weeks’ imprisonment for each of the two charges, with both sentences to run concurrently. The trial judge’s grounds of decision are reported as _Public Prosecutor v Jeganathan Ramasamy_ [2016] SGDC 40. 
+The appellant was sentenced to ten weeks’ imprisonment for each of the two charges, with both sentences to run concurrently. The trial judge’s grounds of decision are reported as _Public Prosecutor v Jeganathan Ramasamy_ <span class="citation">[2016] SGDC 40</span>. 
 
 2       Both before the trial judge and on appeal, it is undisputed that the appellant received the Two iPad 2s from NCS Pte Ltd (“NCS”), a vendor of the SCDF, and that he had given one to his daughter and sold the other to his colleague, Mr Eric Yap Wee Teck (“Mr Yap”). At that time, Mr Yap was the 
 

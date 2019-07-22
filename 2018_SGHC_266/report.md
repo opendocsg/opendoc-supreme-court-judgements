@@ -117,13 +117,13 @@ Singapore. [note: 21]
 18     Section 2 of the Interpretation Act (Cap 1, 2002 Rev Ed), states that to import means “to bring or cause to be brought into Singapore by land, sea or air”. There are two elements to the offence of 
 
 
-importing a controlled drug (see _Public Prosecutor v Khor Chong Seng and another_ [2018] SGHC 219 at [44]): 
+importing a controlled drug (see _Public Prosecutor v Khor Chong Seng and another_ <span class="citation">[2018] SGHC 219</span> at [44]): 
 
  (a) the controlled drug was brought into Singapore without authorisation; and 
 
  (b) the accused had the knowledge that the said controlled drug was being brought into Singapore or the intention to bring the said controlled drug into Singapore. 
 
-19     In _Public Prosecutor v Adnan Bin Kadir_ [2013] 3 SLR 1052 at [70], the Court of Appeal confirmed that s 7 of the MDA did not require the Prosecution to prove that the importation of a controlled drug was for the purposes of trafficking. 
+19     In _Public Prosecutor v Adnan Bin Kadir_ <span class="citation">[2013] 3 SLR 1052</span> at [70], the Court of Appeal confirmed that s 7 of the MDA did not require the Prosecution to prove that the importation of a controlled drug was for the purposes of trafficking. 
 
 **The key issue in dispute** 
 
@@ -206,9 +206,9 @@ there was no “knowledge”. [note: 28] I reject this submission.
 
  (2) Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug. 
 
-37     The Defence has conflated two different aspects of knowledge that are relevant for any charge of possession or importation. The first is the accused’s knowledge that he was in control or possession of an object. The second is the accused’s knowledge that the object in question was a controlled drug or contained controlled drugs. The former is a critical part of proving the element of possession (see _Public Prosecutor v Ng Pen Tine and Another_ [2009] SGHC 230 at [103]), whereas the latter is only relevant to the knowledge of the nature of the drug ( _ie_ , part of the second element in the present charge). To raise a reasonable doubt on the former, the Defence could, for example, raise evidence which suggests that the object was slipped into the accused’s bag without his knowledge (see, in the context of rebutting the presumption of possession under s 18(1) of the MDA, _Obeng Comfort v Public Prosecutor_ [2017] 1 SLR 633 (“ _Obeng_ ”) at [35]). However, in the present case, the Defence’s contention is simply that Shah did not know what type of drug was inside A1. This does not pertain to the knowledge that Shah was in control or possession of A1 and its contents, but rather as to whether he knew of the nature of what was inside A1. 
+37     The Defence has conflated two different aspects of knowledge that are relevant for any charge of possession or importation. The first is the accused’s knowledge that he was in control or possession of an object. The second is the accused’s knowledge that the object in question was a controlled drug or contained controlled drugs. The former is a critical part of proving the element of possession (see _Public Prosecutor v Ng Pen Tine and Another_ <span class="citation">[2009] SGHC 230</span> at [103]), whereas the latter is only relevant to the knowledge of the nature of the drug ( _ie_ , part of the second element in the present charge). To raise a reasonable doubt on the former, the Defence could, for example, raise evidence which suggests that the object was slipped into the accused’s bag without his knowledge (see, in the context of rebutting the presumption of possession under s 18(1) of the MDA, _Obeng Comfort v Public Prosecutor_ <span class="citation">[2017] 1 SLR 633</span> (“ _Obeng_ ”) at [35]). However, in the present case, the Defence’s contention is simply that Shah did not know what type of drug was inside A1. This does not pertain to the knowledge that Shah was in control or possession of A1 and its contents, but rather as to whether he knew of the nature of what was inside A1. 
 
-38     If knowledge that the object in question was a controlled drug was required as part of the element of possession, it would render s 18(2) entirely otiose. Section 18(2) of the MDA entitles the court to presume that the accused had knowledge of the nature of the controlled drug. If possession for the purposes of s 18(2) requires proof of knowledge of the nature of the controlled drug, then the provision would require proof of the very fact that it allows the court to presume. It is well established that generally, parliament does not legislate in vain and the court should therefore give significance to every word in an enactment (see _Tan Cheng Bock v Attorney-General_ [2017] 2 SLR 850 at [38]). Hence, I do not think that the Defence’s arguments on this point can be sustained. 
+38     If knowledge that the object in question was a controlled drug was required as part of the element of possession, it would render s 18(2) entirely otiose. Section 18(2) of the MDA entitles the court to presume that the accused had knowledge of the nature of the controlled drug. If possession for the purposes of s 18(2) requires proof of knowledge of the nature of the controlled drug, then the provision would require proof of the very fact that it allows the court to presume. It is well established that generally, parliament does not legislate in vain and the court should therefore give significance to every word in an enactment (see _Tan Cheng Bock v Attorney-General_ <span class="citation">[2017] 2 SLR 850</span> at [38]). Hence, I do not think that the Defence’s arguments on this point can be sustained. 
 
 39     In any event, I note that within the Statement of Agreed Facts, it is stated that: [note: 29] 
 
@@ -227,7 +227,7 @@ within A1 and he did not know what diamorphine looked like. [note: 30]
 
 43     In my view, even taking the Defence’s case at its highest ( _ie_ , assuming that it is proven on a balance of probabilities that Shah only knew that A1 contained controlled drugs but had no knowledge of the precise type of drug within), I find that this is _per se_ insufficient to rebut the presumption of knowledge under s 18(2) of the MDA. I shall explain why this is so. 
 
-44     In _Public Prosecutor v Gobi a/l Avedian_ [2018] SGCA 72 (“ _Gobi_ ”), the Court of Appeal reiterated some key principles in relation to rebutting the presumption under s 18(2) of the MDA at [32] to [35]: 
+44     In _Public Prosecutor v Gobi a/l Avedian_ <span class="citation">[2018] SGCA 72</span> (“ _Gobi_ ”), the Court of Appeal reiterated some key principles in relation to rebutting the presumption under s 18(2) of the MDA at [32] to [35]: 
 
  32 The starting point is what this Court said in Obeng about the effect of s 18(2). The presumption in s 18(2) operates to vest an accused person with knowledge of the nature of the drug which he is in possession of and to rebut this, he must give an account of what he thought it was. Since the respondent was in possession of the drugs found in the motorcycle, the law presumes that he knew the said drugs were diamorphine. 
 

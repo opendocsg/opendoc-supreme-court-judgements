@@ -18,7 +18,7 @@
 
 _Probate and administration_ – _Distribution of assets_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 40 of 2014 was dismissed by the Court of Appeal on 10 September 2015. See [2015] SGCA 48.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 40 of 2014 was dismissed by the Court of Appeal on 10 September 2015. See <span class="citation">[2015] SGCA 48</span>.] 
 
 30 December 2013 Judgment reserved. 
 
@@ -72,7 +72,7 @@ their aliquot shares. Clause 3(ii) reads:
 
  (c) Seah Chiew Tee (daughter) – 100,000 shares 
 
-12     The plaintiff says the defendant and executor could not pay over the liquidation surplus in lieu of the Shares themselves because the plaintiff and Chiew Tee were entitled to the Shares _in specie_ and the liquidation surplus represented a distinct type of property to which they were not entitled. A shareholder in a winding up is not the legal or beneficial owner of the surplus funds in liquidation. He has no proprietary interest in them. Further, this surplus is not a debt or a chose in action but constitutes a type of property distinct from shares. The plaintiff relies on _Re Jiangshan Investment Consortium Ltd (in liquidation)_ [2007] 3 SLR(R) 614 (“ _Re Jiangshan_ ”) at [25] and [29] as authority for this proposition: 
+12     The plaintiff says the defendant and executor could not pay over the liquidation surplus in lieu of the Shares themselves because the plaintiff and Chiew Tee were entitled to the Shares _in specie_ and the liquidation surplus represented a distinct type of property to which they were not entitled. A shareholder in a winding up is not the legal or beneficial owner of the surplus funds in liquidation. He has no proprietary interest in them. Further, this surplus is not a debt or a chose in action but constitutes a type of property distinct from shares. The plaintiff relies on _Re Jiangshan Investment Consortium Ltd (in liquidation)_ <span class="citation">[2007] 3 SLR(R) 614</span> (“ _Re Jiangshan_ ”) at [25] and [29] as authority for this proposition: 
 
  25 There is an Australian decision that discusses the legal nature of a surplus that is held by a liquidator after all the debts of a wound up company have been settled. This decision adopts the principle in the Spence case and provides further support for the proposition that the liquidator in such a situation would not be the debtor of the contributories who are entitled to payment of that surplus and that there is no debt relationship between the two. In Webb v The Federal Commissioner of Taxation (1922) 30 CLR 450, a highly profitable no-liability company went into voluntary liquidation pursuant to a scheme of reconstruction, and a new limited liability company was incorporated. The court was invited, for the purposes of tax assessment to consider whether the shares allotted to the members of the old company were "profit or bonus credited or paid" by the old company to the members within the meaning of the relevant taxation statute. Although the ratio of the case is not relevant for our purposes, the court made observations on whether the nature of a surplus was such that it amounted to a debt between a company and its members. At 479–480 of its judgment, the court said: 
 
@@ -106,7 +106,7 @@ As no court order was ever obtained, no legal title could be or was transferred.
 18     In the hearing before me it was clarified that there was no issue of ademption. Ademption of a 
 
 
-specific gift occurs when the subject matter of a gift is disposed of or destroyed before the will takes effect, or when it ceases to conform to the description by which it is given, or when the nature of the gift has changed its character: see _Low Gim Har v Low Gim Siah_ [1992] 1 SLR(R) 970 (“ _Low Gim Har_ ”) at [58]. The parties accepted that the Shares had not been adeemed because when the Deceased passed away on 2 March 2011, the Shares were still extant, albeit the Company was then in the process of winding up. But this did not destroy the Shares or change their nature or description. 
+specific gift occurs when the subject matter of a gift is disposed of or destroyed before the will takes effect, or when it ceases to conform to the description by which it is given, or when the nature of the gift has changed its character: see _Low Gim Har v Low Gim Siah_ <span class="citation">[1992] 1 SLR(R) 970</span> (“ _Low Gim Har_ ”) at [58]. The parties accepted that the Shares had not been adeemed because when the Deceased passed away on 2 March 2011, the Shares were still extant, albeit the Company was then in the process of winding up. But this did not destroy the Shares or change their nature or description. 
 
 19     On the plaintiff’s substantive claim, the defendant says that the effect of the Company’s winding up was to turn its shareholders into contributories who were entitled to participate in the liquidators’ distribution of the surplus assets of the Company, after its assets have been gathered in and realised and all its debts and other liabilities, including the cost of winding up, have been discharged. 
 

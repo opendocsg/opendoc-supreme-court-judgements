@@ -174,7 +174,7 @@ interim payment “on account of the 1st Defendant’s admissions in respect of 
 
  the Court may, if it thinks fit, and without prejudice to any contentions of the parties as to the nature or character of the sum to be paid by the defendant, order the defendant to make an interim payment of such amount as it thinks just, after taking into account any set-off, crossclaim or counterclaim on which the defendant may be entitled to rely. 
 
-19     The court approaches an application for interim payment in two stages ( _American International Assurance Co Ltd v Wong Cherng Yaw and others_ [2009] 3 SLR(R) 1117 (“ _American International Assurance (HC)_ ”) at [21]). 
+19     The court approaches an application for interim payment in two stages ( _American International Assurance Co Ltd v Wong Cherng Yaw and others_ <span class="citation">[2009] 3 SLR(R) 1117</span> (“ _American International Assurance (HC)_ ”) at [21]). 
 
  (a) At the first stage (“the First Stage”), the court must be satisfied that one of the grounds stated in the sub-paragraphs of O 29 rr 11 or 12 of the Rules of Court is established. If the court is so satisfied, it has the power to grant an order for interim payment. 
 
@@ -209,7 +209,7 @@ _Parties’ Arguments on the First Stage_
 
 24     Mr Wong’s key contention was that because the Plaintiff’s claim against the 1st Defendant was founded on the _breach of trust_ , the Plaintiff could not be considered to have brought a claim for _damages_ under O 29 r 11 of the Rules of Court. As such, the Plaintiff’s reliance on _any_ sub-paragraph 
 
-in that rule was “entirely misplaced” and “[did] not even take off”. [note: 11] Elaborating on this point, Mr Wong argued that there was a significant distinction between “equitable compensation” and common law “damages” – in particular, the latter is not available as a remedy for an equitable wrong (citing _Quality Assurance Management Asia Pte Ltd v Zhang Qing_ [2013] 3 SLR 631 (“ _Quality Assurance Management_ ”) at [32]). This was a “distinction with a difference” and one “of substance”, rather than mere semantics, given that it reflected the different starting points of common law and equity, and the very different purposes between the award of damages and equitable compensation (citing _Quality Assurance Management_ at [37]–[41]). 
+in that rule was “entirely misplaced” and “[did] not even take off”. [note: 11] Elaborating on this point, Mr Wong argued that there was a significant distinction between “equitable compensation” and common law “damages” – in particular, the latter is not available as a remedy for an equitable wrong (citing _Quality Assurance Management Asia Pte Ltd v Zhang Qing_ <span class="citation">[2013] 3 SLR 631</span> (“ _Quality Assurance Management_ ”) at [32]). This was a “distinction with a difference” and one “of substance”, rather than mere semantics, given that it reflected the different starting points of common law and equity, and the very different purposes between the award of damages and equitable compensation (citing _Quality Assurance Management_ at [37]–[41]). 
 
 25     Counsel for the Plaintiff, Mr Low Chai Chong (“Mr Low”), contended that O 29 rr 11 and 12 of 
 
@@ -218,7 +218,7 @@ the Rules of Court were to be considered holistically and ought not to be taken 
 
 exclusively an applicant’s entitlement under each rule. [note: 12] On the basis of _Shearson Lehman Brothers_ , Mr Low submitted that there was no need to determine precisely which sub-paragraph of O 29 rr 11(1) and 12 of the Rules of Court the Application was premised upon. 
 
-26     Mr Low further contended that, in any event, equitable compensation fell within the meaning of “damages”, as may be seen from two Court of Appeal decisions ( _viz_ , _Yong Kheng Leong and another v Panweld Trading Pte Ltd and another_ [2013] 1 SLR 173 at [43] (“... equitable compensation is a claim for damages for breach of a fiduciary duty...”); and _Dynasty Line Ltd (in liquidation) v Sukamto Sia and another and another appeal_ [2016] 5 SLR 505 (“ _Dynasty Line_ ”) at [14] (“... ‘damages’ is strictly speaking mere shorthand for equitable compensation...”)). Mr Low thus argued that it was entirely permissible for the Plaintiff to seek interim payment for equitable compensation under O 29 r 11(1)( _a_ ) and ( _c_ ) of the Rules of Court. 
+26     Mr Low further contended that, in any event, equitable compensation fell within the meaning of “damages”, as may be seen from two Court of Appeal decisions ( _viz_ , _Yong Kheng Leong and another v Panweld Trading Pte Ltd and another_ <span class="citation">[2013] 1 SLR 173</span> at [43] (“... equitable compensation is a claim for damages for breach of a fiduciary duty...”); and _Dynasty Line Ltd (in liquidation) v Sukamto Sia and another and another appeal_ <span class="citation">[2016] 5 SLR 505</span> (“ _Dynasty Line_ ”) at [14] (“... ‘damages’ is strictly speaking mere shorthand for equitable compensation...”)). Mr Low thus argued that it was entirely permissible for the Plaintiff to seek interim payment for equitable compensation under O 29 r 11(1)( _a_ ) and ( _c_ ) of the Rules of Court. 
 
 _Decision on the First Stage_ 
 
@@ -312,7 +312,7 @@ Defendant would not be liable to pay the Plaintiff any money. Mr Wong therefore 
 
  (i) There was no legal set-off because: (A) the debts allegedly owed under the Bad Debts Agreement were not due and payable; (B) the total amount of the Plaintiff’s share of the Trust Shares Sale Proceeds is presently indeterminate in view of the Side Letter; (C) the Plaintiff’s proprietary claim for the Trust Shares Sale Proceeds cannot be set off against a monetary claim for a debt owing under the Bad Debts Agreement (citing Blue Sky One Ltd v Mahan Air [2010] EWHC 631 at [118]); and (D) the Bad Debts were owed by third parties instead of the Plaintiff. 
 
- (ii) There was also no equitable set-off , because only cross-claims which were so closely connected to the main claim that it would be manifestly unjust to allow a claimant to enforce a payment without taking into account the cross-claim would qualify as an equitable set-off (citing Pacific Rim Investments Pte LTd v Lam Seng Tiong [1995] 2 SLR(R) 643 at [35]– [37]). In this regard, the Bad Debts Agreement was an entirely different transaction from the Understanding or the Trust Deed. Furthermore, they served different purposes – the Trust Deed and Understanding governed the Plaintiff’s interest in the Trust Shares, whereas the Bad Debts Agreement governed payments owed by third parties to Acclivis. 
+ (ii) There was also no equitable set-off , because only cross-claims which were so closely connected to the main claim that it would be manifestly unjust to allow a claimant to enforce a payment without taking into account the cross-claim would qualify as an equitable set-off (citing Pacific Rim Investments Pte LTd v Lam Seng Tiong <span class="citation">[1995] 2 SLR(R) 643</span> at [35]– [37]). In this regard, the Bad Debts Agreement was an entirely different transaction from the Understanding or the Trust Deed. Furthermore, they served different purposes – the Trust Deed and Understanding governed the Plaintiff’s interest in the Trust Shares, whereas the Bad Debts Agreement governed payments owed by third parties to Acclivis. 
 
  (b) Second, in any event, the Plaintiff has denied the existence of the Bad Debts Agreement, and the 1st Defendant’s claim in relation to the Bad Debts Agreement was “simply unsustainable” for four reasons: [note: 15] 
 
@@ -374,7 +374,7 @@ investments, in the present case, if the 1st Defendant’s valuation of the Trus
 
 _Parties’ Arguments on the Second Stage_ 
 
-51     Mr Low argued that it would be just to order interim payment in the present case. He pointed out that it was no longer necessary for an applicant to demonstrate any need or prejudice so as to justify an order for interim payment (citing _Main-Line Corporate Holdings Ltd v United Overseas Bank Ltd_ [2010] 2 SLR 986 (“ _Main-Line Corporate Holdings_ ”) at [32]). Therefore, if the Plaintiff was entitled 
+51     Mr Low argued that it would be just to order interim payment in the present case. He pointed out that it was no longer necessary for an applicant to demonstrate any need or prejudice so as to justify an order for interim payment (citing _Main-Line Corporate Holdings Ltd v United Overseas Bank Ltd_ <span class="citation">[2010] 2 SLR 986</span> (“ _Main-Line Corporate Holdings_ ”) at [32]). Therefore, if the Plaintiff was entitled 
 
 to a minimum sum of $3,602,200, the 1st Defendant ought to make such payment without further delay. 
 

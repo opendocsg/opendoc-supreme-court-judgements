@@ -109,7 +109,7 @@ and s 100(1) of the BA provides that:
 
  ( c ) in any other case of an unfair preference which is not a transaction at an undervalue, within the period of 6 months ending with that day. 
 
-20     The trial judge found that Velstra was insolvent, but rejected the plaintiff’s contentions that Azero was an associate of or a person connected with Velstra. In her judgment, [2004] SGHC 251, the judge stated that: 
+20     The trial judge found that Velstra was insolvent, but rejected the plaintiff’s contentions that Azero was an associate of or a person connected with Velstra. In her judgment, <span class="citation">[2004] SGHC 251</span>, the judge stated that: 
 
  94 The plaintiff had pleaded that Snauwaert owed and breached his fiduciary duties as a director. This was not denied by the defendant and hence is not in issue. ... 
 

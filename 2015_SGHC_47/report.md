@@ -18,7 +18,7 @@
 
 _Land_ – _Strata titles_ – _Collective sales_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 52 of 2015 and Summons No 266 of 2015 was allowed by the Court of Appeal on 7 July 2015. See [2015] SGCA 54.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 52 of 2015 and Summons No 266 of 2015 was allowed by the Court of Appeal on 7 July 2015. See <span class="citation">[2015] SGCA 54</span>.] 
 
 13 February 2015 Judgment reserved. 
 
@@ -464,7 +464,7 @@ _1 September 2014_
 
 40     Parties next appeared before me on 1 September 2014. I dismissed Mr Adrian Tan’s striking out application (Summons No 1126 of 2014) for the following reasons: 
 
- (a) First, I did not think this constituted a plain and obvious case that warranted striking out (see Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others [1997] 3 SLR(R) 649 at [18]). 
+ (a) First, I did not think this constituted a plain and obvious case that warranted striking out (see Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others <span class="citation">[1997] 3 SLR(R) 649</span> at [18]). 
 
  (b) Secondly, although it is usual for an OS to be filed together with an affidavit, this is not invariably the case. An application is “made” for the purposes of s 84A(2B) when an OS is filed under O 100 r 2(1) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“RSC”). Order 100 r 3 provides that the OS together with the supporting affidavits must be served on every defendant. No specific time is set for service in O 100, and as such the default rule of six months under O 7 r 5 read with O 6 r 4 must apply. Order 100 r 4 states that where a plaintiff intends to adduce evidence in support of an OS, it does so by affidavit which must be filed and served on every defendant not later than seven days after service of the OS on the last such defendant. OS 982 (Amendment No 1) was served on 17 February 2014 and the supporting affidavit was filed and served the next day, on 18 February 2014. Consequently, the plaintiffs’ filing and service of the affidavits some four months of the filing of the original OS 982 does not invalidate the OS or the application under s 84A(2B) of the Act. 
 
@@ -541,7 +541,7 @@ would be penalised”. [note: 71] Given the dearth of evidence, as well as the f
 
 languages, [note: 72] as required under paragraph 1( _b_ ) of the First Schedule. As Mr Michael Khoo SC pointed out, no one in the Development spoke or read only Malay, and therefore no prejudice was 
 
-caused by the fact that there were no notices in Malay. [note: 73] Where no prejudice is suffered, the court should not allow a “truly technical objection” to frustrate the wishes of the majority (see _Ng Swee Lang and another v Sassoon Samuel Bernard and others_ [2008] 2 SLR(R) 597 (“ _Ng Swee Lang_ ”) at [35]). I also note that under s 84A(7C), the STB “shall not invalidate an application [for a collective sale] by reason only of non-compliance with any requirement in the First, Second or Third Schedule if the [STB] is satisfied that such non-compliance does not prejudice the interest of any person”. I am satisfied that there is no evidence of anyone having been prejudiced by any noncompliance that occurred in this case. 
+caused by the fact that there were no notices in Malay. [note: 73] Where no prejudice is suffered, the court should not allow a “truly technical objection” to frustrate the wishes of the majority (see _Ng Swee Lang and another v Sassoon Samuel Bernard and others_ <span class="citation">[2008] 2 SLR(R) 597</span> (“ _Ng Swee Lang_ ”) at [35]). I also note that under s 84A(7C), the STB “shall not invalidate an application [for a collective sale] by reason only of non-compliance with any requirement in the First, Second or Third Schedule if the [STB] is satisfied that such non-compliance does not prejudice the interest of any person”. I am satisfied that there is no evidence of anyone having been prejudiced by any noncompliance that occurred in this case. 
 
 52     Secondly, the raising of new objections. Most of the objections raised by Mr Adrian Tan’s clients seemed to be engineered _ex post facto_. This was telling from the contrast between their objections to the STB and their position in these proceedings. For instance, in Lim Li Meng Dominic’s 
 
@@ -549,14 +549,14 @@ affidavit, he states that “[f]or those of us who live in Gilstead Court, it is
 
 that “impossibility of replacement” would not amount to a legitimate objection (see ss 84A(7)–(9) of the Act and _Ng Swee Lang_ at [36]). Rather, his objection to the STB centred on the Objectionable Clauses, and this should rightly have been his, and his fellow objectors’, only point of contention before this court (see s 84A(4A) of the Act). 
 
-53     Thirdly, the issues pertaining to DLPL’s offer to make a payment of $135,000. The starting point is that the law does not prohibit such “incentive payments” _per se_ (see _Chua Choon Cheng and others v Allgreen Properties Ltd and another appeal_ [2009] 3 SLR(R) 724 (“ _Allgreen_ ”) at [91]). The CSA and the S&P Agreement, however, did contain express provisions that prohibited such payments. In this sense, the CSC appeared to be heeding the call of the Court of Appeal in _Allgreen_ (at [92]) to provide expressly by contract what the appellants in _Allgreen_ tried, in vain, to have implied into their agreement. I have dealt with this above, and have not found any breach of cl 37 on the facts. I accept DLPL’s submission that what it did was a “sensible and practical solution to bridge the gap among the subsidiary proprietors ... which appeared to be causing the rift among the subsidiary 
+53     Thirdly, the issues pertaining to DLPL’s offer to make a payment of $135,000. The starting point is that the law does not prohibit such “incentive payments” _per se_ (see _Chua Choon Cheng and others v Allgreen Properties Ltd and another appeal_ <span class="citation">[2009] 3 SLR(R) 724</span> (“ _Allgreen_ ”) at [91]). The CSA and the S&P Agreement, however, did contain express provisions that prohibited such payments. In this sense, the CSC appeared to be heeding the call of the Court of Appeal in _Allgreen_ (at [92]) to provide expressly by contract what the appellants in _Allgreen_ tried, in vain, to have implied into their agreement. I have dealt with this above, and have not found any breach of cl 37 on the facts. I accept DLPL’s submission that what it did was a “sensible and practical solution to bridge the gap among the subsidiary proprietors ... which appeared to be causing the rift among the subsidiary 
 
 proprietors, provided that all the subsidiary proprietors agreed”. [note: 75] I was also of the view, with respect, that the claims for damages or alternatively $15,016,800 against DLPL were entirely misplaced, both as a matter of fact and law and that it did not have any place in an OS asking for 
 
 
 approval of a collective sale under s 84A of the Act. 
 
-54     At this juncture, I note that the breach of a term such as cl 37, which a CSC may have chosen to contractually provide for, does not _ipso facto_ translate to an instance of bad faith vitiating the transaction pursuant to s 84A(9)( _a_ )(i) of the Act. The breach of a contractual clause, however, may be one of the circumstances which a court takes into account when determining if the transaction was not in good faith (see _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ [2009] 3 SLR(R) 109 at [131]–[133]). In any case, these issues have since fallen away and I say no more of them. 
+54     At this juncture, I note that the breach of a term such as cl 37, which a CSC may have chosen to contractually provide for, does not _ipso facto_ translate to an instance of bad faith vitiating the transaction pursuant to s 84A(9)( _a_ )(i) of the Act. The breach of a contractual clause, however, may be one of the circumstances which a court takes into account when determining if the transaction was not in good faith (see _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ <span class="citation">[2009] 3 SLR(R) 109</span> at [131]–[133]). In any case, these issues have since fallen away and I say no more of them. 
 
 **_The Objectionable Clauses_** 
 

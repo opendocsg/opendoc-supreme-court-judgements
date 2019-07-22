@@ -53,7 +53,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Benchmark sentences_ �
 
  304A. Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both. 
 
-13     The starting point in dealing with this appeal must be to look at _PP v Gan Lim Soon_ [1993] 3 SLR 216 in which I had stated that: 
+13     The starting point in dealing with this appeal must be to look at _PP v Gan Lim Soon_ <span class="citation">[1993] 3 SLR 216</span> in which I had stated that: 
 
  If death has been caused by a rash act the proper punishment would be imprisonment for a term not exceeding two years. If death has been caused instead by a negligent act, it would be sufficient in most cases to inflict a fine on the accused. 
 
@@ -66,7 +66,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Benchmark sentences_ �
 
 **Distinction between negligence and rashness** 
 
-17     At this juncture, it would be appropriate to deal with the prosecutor’s submission that the trial judge had erred in characterising this case as one akin to negligent driving. I would note that it is undoubtedly correct to state that criminal rashness and criminal negligence involve two different states of mind. This distinction has been emphasised in several decisions and it would be sufficient in this appeal for me to refer to the case of _PP v Teo Poh Leng_ [1992] 1 SLR 15 in which M P H Rubin J stated that: 
+17     At this juncture, it would be appropriate to deal with the prosecutor’s submission that the trial judge had erred in characterising this case as one akin to negligent driving. I would note that it is undoubtedly correct to state that criminal rashness and criminal negligence involve two different states of mind. This distinction has been emphasised in several decisions and it would be sufficient in this appeal for me to refer to the case of _PP v Teo Poh Leng_ <span class="citation">[1992] 1 SLR 15</span> in which M P H Rubin J stated that: 
 
  There is a distinction between a rash act and a negligent act. Criminal negligence is the gross and culpable neglect or failure to exercise that reasonable and proper care and precaution to guard against injury either to the public generally or to an individual in particular, which having regard to all the circumstances out of which the charge has arisen it was the imperative duty of the accused person to have adopted. Negligence is an omission to do something which a reasonable man, guided upon those considerations which ordinarily regulate the conduct of human affairs, would do, or doing something which a prudent and reasonable man would not do. A culpable rashness is acting with the consciousness that the mischievous and illegal consequences may follow, but with the hope that they will not, and often with the belief that the actor has taken sufficient precaution to prevent their happening. The imputability arises from acting despite the consciousness. Culpable negligence is acting without the consciousness, that the illegal and mischievous effect will follow, but in circumstances which show that the actor has not exercised the caution incumbent upon him and if he had he would have had the consciousness. The imputability arises from the neglect of the civic duty of circumspection. As between rashness and negligence, rashness is a graver offence. (emphasis added mine) 
 

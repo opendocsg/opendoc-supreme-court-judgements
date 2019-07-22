@@ -18,13 +18,13 @@ _Civil Procedure_ – _Costs_
 
 _Civil Procedure_ – _Offer to Settle_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 152 of 2016 was dismissed while the appeal in Civil Appeal No 176 of 2016 was allowed by the Court of Appeal on 14 August 2017. See [2017] SGCA 46.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 152 of 2016 was dismissed while the appeal in Civil Appeal No 176 of 2016 was allowed by the Court of Appeal on 14 August 2017. See <span class="citation">[2017] SGCA 46</span>.] 
 
 25 November 2016 Judgment reserved. 
 
 **Lai Siu Chiu SJ:** 
 
-1       The plaintiff’s claim in this suit was dismissed in _Lim Geok Lin Andy v Yap Jin Meng Bryan_ [2016] SGHC 234. Pursuant to my directions in the concluding paragraph of the said judgment dated 21 October 2016, parties filed their submissions on costs. 
+1       The plaintiff’s claim in this suit was dismissed in _Lim Geok Lin Andy v Yap Jin Meng Bryan_ <span class="citation">[2016] SGHC 234</span>. Pursuant to my directions in the concluding paragraph of the said judgment dated 21 October 2016, parties filed their submissions on costs. 
 
 **The defendant’s submissions** 
 
@@ -34,7 +34,7 @@ _Civil Procedure_ – _Offer to Settle_
 
  (b) The plaintiff’s case was clearly without basis and brought for an improper motive. 
 
-In support of his argument, the defendant relied on the decision of this court in _Wong Meng Cheong and another v Ling Ai Wah and another_ [2012] 1 SLR 549 (“ _Wong Meng Cheong_ ”), the decision of the Court of Appeal in _DB Trustees (Hong Kong) Ltd v Consult Asia Pte Ltd and another appeal_ [2010] 3 SLR 542 and the recent decision of Chan Seng Onn J in _Airtrust (Hong Kong) Ltd v PH Hydraulics & Engineering Pte Ltd_ [2016] 5 SLR 103. 
+In support of his argument, the defendant relied on the decision of this court in _Wong Meng Cheong and another v Ling Ai Wah and another_ <span class="citation">[2012] 1 SLR 549</span> (“ _Wong Meng Cheong_ ”), the decision of the Court of Appeal in _DB Trustees (Hong Kong) Ltd v Consult Asia Pte Ltd and another appeal_ <span class="citation">[2010] 3 SLR 542</span> and the recent decision of Chan Seng Onn J in _Airtrust (Hong Kong) Ltd v PH Hydraulics & Engineering Pte Ltd_ <span class="citation">[2016] 5 SLR 103</span>. 
 
 3       The English case of _Three Rivers District Council and Others v The Governor and Co of the Bank of England (No 6)_ [2006] (Comm) EWHC 816 was also cited for the guidance it provided on how the discretion to award indemnity costs ought to be exercised. There, Tomlinson J (at [25]) laid down eight principles to assist the court in determining whether costs on an indemnity basis should be allowed. These are the principles that I find are applicable to the present case: 
 
@@ -57,7 +57,7 @@ In support of his argument, the defendant relied on the decision of this court i
 
 **The plaintiff’s submissions** 
 
-6       The plaintiff argued that he should not have to pay costs to the defendant on an indemnity basis as his conduct was nowhere as reprehensible as that of the plaintiffs in _Wong Meng Cheong_. In the case of _Tan Chin Yew Joseph v Saxo Capital Markets Pte Ltd_ [2013] SGHC 274, which was also cited by the defendant, the court had declined to award indemnity costs to the successful defendant even though it found that the plaintiff’s case there was thin, irreconcilable with contemporaneous documents and mostly an afterthought. This was because the court concluded at [100] that the circumstances of the case was such that the plaintiff’s conduct as a whole did not rise to the level where indemnity costs were appropriate. 
+6       The plaintiff argued that he should not have to pay costs to the defendant on an indemnity basis as his conduct was nowhere as reprehensible as that of the plaintiffs in _Wong Meng Cheong_. In the case of _Tan Chin Yew Joseph v Saxo Capital Markets Pte Ltd_ <span class="citation">[2013] SGHC 274</span>, which was also cited by the defendant, the court had declined to award indemnity costs to the successful defendant even though it found that the plaintiff’s case there was thin, irreconcilable with contemporaneous documents and mostly an afterthought. This was because the court concluded at [100] that the circumstances of the case was such that the plaintiff’s conduct as a whole did not rise to the level where indemnity costs were appropriate. 
 
 7       Consequently, the plaintiff urged this court not to award indemnity costs to the defendant as the plaintiff had acted in good faith, genuinely thought he was entitled to his claim and had no ulterior motive in bringing the action. The plaintiff did not address the defendant’s OTS at all in his submissions. 
 

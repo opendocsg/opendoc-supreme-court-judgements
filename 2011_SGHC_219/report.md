@@ -283,7 +283,7 @@ accepted that bankruptcy and execution would not produce any recovery for the de
 
 **_The locus standi issue_** 
 
-52     It was common ground amongst all parties that in order for the Receiver to seek declaratory relief under O 15 r 16 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) (“Rules of Court”), six requirements laid down by the Singapore Court of Appeal in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd and another appeal_ [2006] 1 SLR(R) 112 (“ _Karaha Bodas_ ”) must be satisfied. The Court of Appeal in _Karaha Bodas_ held (at [14]) that: 
+52     It was common ground amongst all parties that in order for the Receiver to seek declaratory relief under O 15 r 16 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) (“Rules of Court”), six requirements laid down by the Singapore Court of Appeal in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd and another appeal_ <span class="citation">[2006] 1 SLR(R) 112</span> (“ _Karaha Bodas_ ”) must be satisfied. The Court of Appeal in _Karaha Bodas_ held (at [14]) that: 
 
  14 [...] the following are the requirements that must be satisfied before the court grants such relief: 
 
@@ -323,7 +323,7 @@ accepted that bankruptcy and execution would not produce any recovery for the de
 
 issue of a party seeking a declaration of rights concerning _other parties_ as was disapproved by the Court of Appeal in _Karaha Bodas_. 
 
-58     The law of receivership is well settled in Singapore. In _Lee Kuan Yew v Tang Liang Hong and another and other suits_ [1997] 1 SLR(R) 328, Lai Kew Chai J held (at [7]) that: 
+58     The law of receivership is well settled in Singapore. In _Lee Kuan Yew v Tang Liang Hong and another and other suits_ <span class="citation">[1997] 1 SLR(R) 328</span>, Lai Kew Chai J held (at [7]) that: 
 
  7 [...] His main function is the identification, collection and protection or preservation of property which he must hold to abide by the outcome of the action in which he is appointed. A receiver appointed by a court derives his powers from the terms of the order appointing him. If necessary, he may apply to court for further powers and directions. 
 

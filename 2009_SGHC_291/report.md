@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ 
 
-**[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 21 of 2009 was allowed by the Court of Appeal on 15 April 2011. See [2011] SGCA 17.]** 
+**[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 21 of 2009 was allowed by the Court of Appeal on 15 April 2011. See <span class="citation">[2011] SGCA 17</span>.]** 
 
 31 December 2009 
 
@@ -98,11 +98,11 @@ in and out of Singapore between 2007 and 9 August 2008.
 
  Except as authorised by this Act, it shall be an offence for a person to import into or export from Singapore a controlled drug. 
 
-Section 2 of the Interpretation Act (Cap 1), which defines “import” as “to bring or cause to be brought into Singapore by land, sea or air”, applies to the MDA ( _Tse Po Chung Nathan & Anor v PP_ [1993] 1 SLR 961). Under s 18(2) of the MDA, the accused is presumed, until the contrary is proved, to know the nature of the controlled drug (ie diamorphine) as he was in possession of the same at the material time. The accused bears the burden of proving the contrary on a balance of probabilities. 
+Section 2 of the Interpretation Act (Cap 1), which defines “import” as “to bring or cause to be brought into Singapore by land, sea or air”, applies to the MDA ( _Tse Po Chung Nathan & Anor v PP_ <span class="citation">[1993] 1 SLR 961</span>). Under s 18(2) of the MDA, the accused is presumed, until the contrary is proved, to know the nature of the controlled drug (ie diamorphine) as he was in possession of the same at the material time. The accused bears the burden of proving the contrary on a balance of probabilities. 
 
 27     The accused did not dispute the element of importing the drug in question. The only contention concerned his knowledge that he was importing a substance containing diamorphine. 
 
-28     Mere assertions by the accused that he was not aware of the contents of what he was carrying are not sufficient to rebut the presumption in s 18(2) of the MDA. Similarly, where the accused did not check the said contents and took the risk that the goods could turn out to be controlled drugs or those attracting the death penalty, the said presumption is not rebutted. Ignorance is only a defence when there is no reason for suspicion and no right and opportunity for examination (see _Iwuchukwu Amora Toshi & anor v PP_ [2006] 2 SLR 503). The Court of Appeal in _Tan Kiam Peng v PP_ [2008] 1SLR 1 has given a clear exposition on wilful blindness in the context of the MDA and its presumptions. 
+28     Mere assertions by the accused that he was not aware of the contents of what he was carrying are not sufficient to rebut the presumption in s 18(2) of the MDA. Similarly, where the accused did not check the said contents and took the risk that the goods could turn out to be controlled drugs or those attracting the death penalty, the said presumption is not rebutted. Ignorance is only a defence when there is no reason for suspicion and no right and opportunity for examination (see _Iwuchukwu Amora Toshi & anor v PP_ <span class="citation">[2006] 2 SLR 503</span>). The Court of Appeal in _Tan Kiam Peng v PP_ [2008] 1SLR 1 has given a clear exposition on wilful blindness in the context of the MDA and its presumptions. 
 
 29     The accused here was conscious of the fact that he was in possession of controlled drugs. There was ample opportunity for him to take a look inside the unsealed white plastic bag at the four bundles. He claimed that he thought they were the usual stuff that he had been carrying into Singapore for Tony and thus did not even look at the contents of the white plastic bag that Tony handed to him at the petrol station. This in itself could not rebut the presumption of knowledge. It was a risk that he took each time he delivered drugs for Tony that they could include something that attracted the death penalty in law. If he chose to trust Tony in what was in essence an illegal commercial transaction, then he has to bear the risk that Tony could one day play him out. In any event, since he had not opened previous bundles delivered by him (see [23] above), how sure could he be that previous deliveries never included heroin or some other drugs involving the death penalty? 
 

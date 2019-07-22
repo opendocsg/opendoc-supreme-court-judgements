@@ -16,13 +16,13 @@
 
 _Criminal law_ – _Murder_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 7.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 7</span>.] 
 
 13 October 2011 
 
 **Chan Sek Keong CJ (delivering the grounds of decision of the court):** 
 
-1       This was an appeal against the decision of the trial judge (“the Judge”) in _Public Prosecutor v Kamrul Hasan Abdul Quddus_ [2010] SGHC 7 _(“Kamrul”_ ) convicting the appellant, Kamrul Hasan Abdul Quddus (“the Appellant”), of the charge of committing murder by causing the death of one Yulia Afriyanti (“the deceased”). We dismissed the Appellant’s appeal, and now give our reasons. 
+1       This was an appeal against the decision of the trial judge (“the Judge”) in _Public Prosecutor v Kamrul Hasan Abdul Quddus_ <span class="citation">[2010] SGHC 7</span> _(“Kamrul”_ ) convicting the appellant, Kamrul Hasan Abdul Quddus (“the Appellant”), of the charge of committing murder by causing the death of one Yulia Afriyanti (“the deceased”). We dismissed the Appellant’s appeal, and now give our reasons. 
 
 **Facts** 
 
@@ -70,7 +70,7 @@ We found that none of the Appellant’s grounds of appeal had merit, and thus di
 
  The Prosecution makes out a case against the accused by adducing evidence of primary facts. It is to such evidence that the words “if unrebutted” refer. What they mean is that for the purpose of reaching the decision called for by s 188(1) [of the Criminal Procedure Code (Cap 113, 1970 Rev Ed)] the court must act on the presumptions: (a) that all such evidence of primary fact is true, unless it is inherently so incredible that no reasonable person would accept it as being true; and (b) that there will be nothing to displace those inferences as to further facts or to the state of mind of the accused which would reasonably be drawn from the primary facts in the absence of any further explanation. 
 
-12     This test was applied in _Tan Siew Chay and others v Public Prosecutor_ [1993] 1 SLR(R) 267, where this court emphasized at [67] that the same test is to be applied regardless of whether the evidence is direct or circumstantial. The Prosecution’s evidence must be considered in its totality, and “[a]ll that is required at this stage of the proceedings is a minimum evaluation of the evidence as a whole” (see _Public Prosecutor v IC Automation (S) Pte Ltd_ [1996] 2 SLR(R) 799 at [17]). 
+12     This test was applied in _Tan Siew Chay and others v Public Prosecutor_ <span class="citation">[1993] 1 SLR(R) 267</span>, where this court emphasized at [67] that the same test is to be applied regardless of whether the evidence is direct or circumstantial. The Prosecution’s evidence must be considered in its totality, and “[a]ll that is required at this stage of the proceedings is a minimum evaluation of the evidence as a whole” (see _Public Prosecutor v IC Automation (S) Pte Ltd_ <span class="citation">[1996] 2 SLR(R) 799</span> at [17]). 
 
 13     Applying these principles, we were of the view that the Judge was correct in calling for the defence on the basis of the primary facts found by him and summarised at [37] of _Kamrul_ as follows: 
 
@@ -124,7 +124,7 @@ We found that none of the Appellant’s grounds of appeal had merit, and thus di
 
  the court, in determining whether the accused is guilty of the offence charged, may draw such inferences from the refusal as appear proper. 
 
-17     In the present case, there were no eyewitnesses to the deceased’s death. As the person whose DNA was found on the deceased’s corpse in the Unit at the Site and who was the last person to have seen the deceased alive, the Appellant was the best and only person to explain what happened to the deceased on the day of her death. His refusal to testify in his own defence to explain the incriminating evidence against him meant that he could not offer any credible explanation. Hence, the Judge was justified in drawing an adverse inference from the Appellant’s decision to remain silent. The inference was not being used as a makeweight, but rather to reinforce strong circumstantial evidence adduced at the close of the Prosecution’s case. To adopt the words of this court in _Oh Laye Koh v Public Prosecutor_ [1994] SGCA 102 (“ _Oh Laye Koh_ ”) at [15], “[t]he circumstantial evidence stacked up against the [Appellant] ... had been so damning in nature as to demand that he proffered some explanation for the death of the [deceased].” 
+17     In the present case, there were no eyewitnesses to the deceased’s death. As the person whose DNA was found on the deceased’s corpse in the Unit at the Site and who was the last person to have seen the deceased alive, the Appellant was the best and only person to explain what happened to the deceased on the day of her death. His refusal to testify in his own defence to explain the incriminating evidence against him meant that he could not offer any credible explanation. Hence, the Judge was justified in drawing an adverse inference from the Appellant’s decision to remain silent. The inference was not being used as a makeweight, but rather to reinforce strong circumstantial evidence adduced at the close of the Prosecution’s case. To adopt the words of this court in _Oh Laye Koh v Public Prosecutor_ <span class="citation">[1994] SGCA 102</span> (“ _Oh Laye Koh_ ”) at [15], “[t]he circumstantial evidence stacked up against the [Appellant] ... had been so damning in nature as to demand that he proffered some explanation for the death of the [deceased].” 
 
 **Whether the Appellant’s lies satisfied the** **_Lucas_** **test, such that they could be used to corroborate the circumstantial evidence that the Appellant had killed the deceased** 
 
@@ -145,7 +145,7 @@ We found that none of the Appellant’s grounds of appeal had merit, and thus di
 
 For convenience, I will refer to a lie which satisfies the four conditions as a _Lucas_ lie. 
 
-48     In _PP v Yeo Choon Poh_ [1994] 2 SLR 867 (“ _Yeo Choon Poh_ ”), our Court of Appeal endorsed and applied those rules (substituting “the judge” for “the jury”) and explained at 876 that: 
+48     In _PP v Yeo Choon Poh_ <span class="citation">[1994] 2 SLR 867</span> (“ _Yeo Choon Poh_ ”), our Court of Appeal endorsed and applied those rules (substituting “the judge” for “the jury”) and explained at 876 that: 
 
  the mere fact that an accused tells lies should not be taken as evidence of his guilt, but that lies can in certain circumstances amount to corroboration because it indicates a consciousness of guilt. 
 
@@ -153,19 +153,19 @@ For convenience, I will refer to a lie which satisfies the four conditions as a 
 
 50     Corroboration is required or is considered desirable for some forms of evidence, e.g. evidence of victims of sexual offences and children, and evidence on identification. However, any form of evidence can be strengthened by corroboration. 
 
-51     For any lie to be taken as corroborative evidence, the four conditions in _Lucas_ must be met, whether or not corroboration is required. However, there is a statement in _PP v Lau Boon Huat_ [1997] SGHC 148 at [53] that: 
+51     For any lie to be taken as corroborative evidence, the four conditions in _Lucas_ must be met, whether or not corroboration is required. However, there is a statement in _PP v Lau Boon Huat_ <span class="citation">[1997] SGHC 148</span> at [53] that: 
 
  In R v. Lucas, Lord Lane CJ laid down 4 tests to decide whether a lying statement amounted to corroboration. These tests were laid down in a case where corroboration was a special requirement in that the nature of that case made it incumbent to make a special effort to look for corroboration or consider the lack of corroboration. In the present case there is no special requirement for corroboration of the accused's guilt. I have already considered the effect of all the lies of the accused on the rest of his evidence and came to the conclusion that because of the lies he could not be believed and that some of them demolished his own case. The lying statements of the accused did not call for a special consideration. 
 
 This should not be taken to mean that the tests only apply in situations where there is a special requirement for corroboration. The tests have been applied in cases where there were no special requirements for corroboration eg, _Yeo Choon Poh_. Lies which satisfy the tests may amount to corroboration in any sort of case. 
 
-52     When a lie offers corroboration, it does that by corroborating some existing evidence, as was made clear in _PP v Chee Cheong Hin Constance_ [2006] 2 SLR 24 at [92] that: 
+52     When a lie offers corroboration, it does that by corroborating some existing evidence, as was made clear in _PP v Chee Cheong Hin Constance_ <span class="citation">[2006] 2 SLR 24</span> at [92] that: 
 
  An accused’s deliberate lies on material issues can corroborate other evidence against him. 
 
  [emphasis added] 
 
-53     Statements appear in some judgments that lies can corroborate guilt. In _PP_ v _Manogaran s/o R Ramu (No. 2)_ [1997] SGHC 121 at [62], the court held that person’s lie “can amount to corroboration of his guilt”. In _Bala Murugan a/l Krishnan v PP_ [2002] 4 SLR 289, it was ruled at [22] that an accused person’s lies “could be relied on as corroborating evidence of his guilt”. In _Jagatheesan s/o Krishnasamy v PP_ [2006] 4 SLR 45 at [83], it was stated that a “lie may very 
+53     Statements appear in some judgments that lies can corroborate guilt. In _PP_ v _Manogaran s/o R Ramu (No. 2)_ <span class="citation">[1997] SGHC 121</span> at [62], the court held that person’s lie “can amount to corroboration of his guilt”. In _Bala Murugan a/l Krishnan v PP_ <span class="citation">[2002] 4 SLR 289</span>, it was ruled at [22] that an accused person’s lies “could be relied on as corroborating evidence of his guilt”. In _Jagatheesan s/o Krishnasamy v PP_ <span class="citation">[2006] 4 SLR 45</span> at [83], it was stated that a “lie may very 
 
 
  well be used by the Prosecution as corroboration of the [accused] witness’s guilt”. 

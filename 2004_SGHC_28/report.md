@@ -80,7 +80,7 @@ The opinions of the experts could only be one guiding factor as such opinions we
 
 **Loss of future earnings** 
 
-The Defendant submitted that the Plaintiff should be awarded damages for loss of earning capacity rather than for loss of future earnings. I did not agree. In _Teo Sing Keng v Sim Ban Kiat_ [1994] 1 SLR 634, the Court observed as follows: 
+The Defendant submitted that the Plaintiff should be awarded damages for loss of earning capacity rather than for loss of future earnings. I did not agree. In _Teo Sing Keng v Sim Ban Kiat_ <span class="citation">[1994] 1 SLR 634</span>, the Court observed as follows: 
 
 
  An award for loss of earning capacity, as opposed to an award for loss of earnings, is generally made in the following cases: 
@@ -89,7 +89,7 @@ The Defendant submitted that the Plaintiff should be awarded damages for loss of
 
  (2) where there is no available evidence of the Plaintiff’s earnings to enable the Court to properly calculate future earnings, for example, young children who have no earnings on which to base an assessment for loss of future earnings. 
 
-In _Karuppiah Nirmala v Singapore Bus Services Ltd_ [2002] 3 SLR 415, the Court awarded damages for loss of earning capacity instead of loss of future earnings on the ground that “the Plaintiff was not disabled from pursuing her vocation in which she had adequate training and plenty of experience”. 
+In _Karuppiah Nirmala v Singapore Bus Services Ltd_ <span class="citation">[2002] 3 SLR 415</span>, the Court awarded damages for loss of earning capacity instead of loss of future earnings on the ground that “the Plaintiff was not disabled from pursuing her vocation in which she had adequate training and plenty of experience”. 
 
 On the facts of this case, the circumstances identified by the Court of Appeal in _Teo Sing Keng_ were not applicable and the situation of the Plaintiff here was certainly different from that in _Karuppiah Nirmala_. The Plaintiff here was unemployed since the accident, could not undertake the same type of work he was engaging in before the accident and there was ample evidence for the Court to assess what the Plaintiff could have earned if not for the accident. 
 

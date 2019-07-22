@@ -14,7 +14,7 @@
 
 _Civil procedure_ – _Judgments and orders_ – _Garnishee orders_
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 138 of 2017 was dismissed by the Court of Appeal on 26 October 2018. See [2018] SGCA 73.]
+[LawNet Editorial Note: The appeal in Civil Appeal No 138 of 2017 was dismissed by the Court of Appeal on 26 October 2018. See <span class="citation">[2018] SGCA 73</span>.]
 
 17 November 2017
 
@@ -185,9 +185,9 @@ when the nature of the monies being held (whether it is a pre-existing debt) is 
 
 **_The judgment creditor’s arguments_**
 
-34 Counsel for the judgment creditor (“Mr Sithawalla”) had cited The _State-Owned Company Yugoimport SDPR v Westacre Investment Inc and other appeals_ [2016] 5 SLR 372 (“ _Westacre Investment_ ”) to support his argument that a low threshold was required for the judgment creditor to
+34 Counsel for the judgment creditor (“Mr Sithawalla”) had cited The _State-Owned Company Yugoimport SDPR v Westacre Investment Inc and other appeals_ <span class="citation">[2016] 5 SLR 372</span> (“ _Westacre Investment_ ”) to support his argument that a low threshold was required for the judgment creditor to
 
-cross in order to obtain a garnishee order. [^29] Relying on _Payna Chettiar v Low Meng Seng and others_ [1998] 1 SLR(R) 657 (“ _Payna Chettiar_ ”), he argued that the court was not obliged to and should not to look behind a validly issued judgment whether obtained on its merits or by default as a default judgment is no less a judgment and is good and enforceable unless and until it is set aside. [^30]
+cross in order to obtain a garnishee order. [^29] Relying on _Payna Chettiar v Low Meng Seng and others_ <span class="citation">[1998] 1 SLR(R) 657</span> (“ _Payna Chettiar_ ”), he argued that the court was not obliged to and should not to look behind a validly issued judgment whether obtained on its merits or by default as a default judgment is no less a judgment and is good and enforceable unless and until it is set aside. [^30]
 
 35 Consequently, Mr Sithawalla argued that any challenge to the judgment creditor’s claim by Midas should be by way of an application to set aside the Judgment. However, the House of Lords decision in _Employers’ Liability Assurance Corporation, Limited v Sedgwick, Collins & Co_ [1927] AC 95 made it clear that garnishees had no such direct interest in a suit such as to entitle them to apply to
 
@@ -232,7 +232,7 @@ February 2016 showed that he participated in the discussions. [^38]
 
 of Midas which is another legal entity. [^39] Even then, those documents did not state that there was a debt due and accruing from Midas to the judgment debtor.
 
-45 Mr Wong relied on _Teleoptik-Ziroskopi v Westacre Investments Inc_ [2012] 2 SLR 177 to submit that the Court of Appeal held that summary disposal of garnishee proceedings was appropriate only when there was no arguable defence in fact and law which was not the case here.
+45 Mr Wong relied on _Teleoptik-Ziroskopi v Westacre Investments Inc_ <span class="citation">[2012] 2 SLR 177</span> to submit that the Court of Appeal held that summary disposal of garnishee proceedings was appropriate only when there was no arguable defence in fact and law which was not the case here.
 
 
 46 He submitted that the judgment creditor cannot, on the one hand rely on the terms of the Midas Service Contracts for its submissions and yet on the other hand “rubbish” those contracts as lacking credibility. Although the judgmente Contracts creditor itself obtained the Judgment by default,
@@ -266,7 +266,7 @@ with three months’ notice). [^43]
 52 Equally, this court accepts that the burden of proof in garnishee proceedings is as stated in _Westacre Investment_ (see [34]) where the Court of Appeal held at [82];
 
 
- It bears emphasis that a provisional garnishee order is usually obtained by way of an ex parte application. In such circumstances, we consider that the legal burden remains on the judgment creditor to prove the existence of such a debt if this is disputed by the garnishee and the matter proceeds for determination either summarily or at trial. In Zoom Communications Ltd v Broadcast Solutions Pte Ltd [2014] 4 SLR 500 (“ Zoom Communications ”) (at [75]), we held that a plaintiff retains the burden of showing that Singapore is the proper forum at the inter partes stage if the foreign defendant who has been served, after the plaintiff succeeded at the ex parte stage to obtain leave to serve the originating process on a foreign defendant out of jurisdiction, challenges the jurisdiction of the Singapore court. We so held because we considered that in the final analysis, the party applying for the order at the ex parte stage of the proceedings had the same burden and the fact that it obtained the order at that stage does not mean it had discharged that burden. In our judgment the same principle applies in this case.
+ It bears emphasis that a provisional garnishee order is usually obtained by way of an ex parte application. In such circumstances, we consider that the legal burden remains on the judgment creditor to prove the existence of such a debt if this is disputed by the garnishee and the matter proceeds for determination either summarily or at trial. In Zoom Communications Ltd v Broadcast Solutions Pte Ltd <span class="citation">[2014] 4 SLR 500</span> (“ Zoom Communications ”) (at [75]), we held that a plaintiff retains the burden of showing that Singapore is the proper forum at the inter partes stage if the foreign defendant who has been served, after the plaintiff succeeded at the ex parte stage to obtain leave to serve the originating process on a foreign defendant out of jurisdiction, challenges the jurisdiction of the Singapore court. We so held because we considered that in the final analysis, the party applying for the order at the ex parte stage of the proceedings had the same burden and the fact that it obtained the order at that stage does not mean it had discharged that burden. In our judgment the same principle applies in this case.
 
 53 The appellate court continued at [83]:
 

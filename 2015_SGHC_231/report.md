@@ -16,7 +16,7 @@
 
 _Criminal law_ – _statutory offences_ – _Misuse of Drugs Act_ 
 
-[LawNet Editorial Note: The appeals to this decision in Criminal Appeals Nos 21 and 22 of 2015 were dismissed by the Court of Appeal on 12 January 2017. (The application in Criminal Motion No 53 of 2016 was dismissed by the Court of Appeal on 17 August 2016.) See [2017] SGCA 4.] 
+[LawNet Editorial Note: The appeals to this decision in Criminal Appeals Nos 21 and 22 of 2015 were dismissed by the Court of Appeal on 12 January 2017. (The application in Criminal Motion No 53 of 2016 was dismissed by the Court of Appeal on 17 August 2016.) See <span class="citation">[2017] SGCA 4</span>.] 
 
 2 September 2015 
 

@@ -24,7 +24,7 @@ _Criminal procedure and sentencing_ – _Appeal_ – _plea of guilty_
 
 **Introduction** 
 
-1       This is an appeal against the decision of the District Judge in _Public Prosecutor v Tan Kian Tiong_ [2014] SGDC 85 (“the GD”). The appellant pleaded guilty to a charge under the Road Traffic Act (Cap 276, 2004 Rev Ed) (“RTA”) and was sentenced to a fine of $800 and disqualified from holding or obtaining a driving licence for all classes of vehicle for six months (“the disqualification order”) from the date of his conviction. He has appealed against the imposition of the disqualification order only. 
+1       This is an appeal against the decision of the District Judge in _Public Prosecutor v Tan Kian Tiong_ <span class="citation">[2014] SGDC 85</span> (“the GD”). The appellant pleaded guilty to a charge under the Road Traffic Act (Cap 276, 2004 Rev Ed) (“RTA”) and was sentenced to a fine of $800 and disqualified from holding or obtaining a driving licence for all classes of vehicle for six months (“the disqualification order”) from the date of his conviction. He has appealed against the imposition of the disqualification order only. 
 
 2       The facts of this case are straightforward. The charge that the appellant pleaded guilty to is as follows: 
 
@@ -39,7 +39,7 @@ _Criminal procedure and sentencing_ – _Appeal_ – _plea of guilty_
 
 asked for a lighter fine and stated that he needed his driving licence for the purposes of his work. 
 
-5       In deciding on the appropriate sentence, the District Judge observed that the primary sentencing principle in such cases was one of deterrence. She relied on the decision of the High Court in _Heng Jee Tai v PP_ [1997] 1 SLR(R) 149 (“ _Heng Jee Tai_ ”) and the relevant Parliamentary Debates pertaining to the introduction of the offence of using a mobile phone while driving a vehicle. As there was no particular aggravating or mitigating factor, the District Judge imposed a fine of $800 and a disqualification order of six months, noting that this was consistent with sentences ordinarily meted out for this offence. 
+5       In deciding on the appropriate sentence, the District Judge observed that the primary sentencing principle in such cases was one of deterrence. She relied on the decision of the High Court in _Heng Jee Tai v PP_ <span class="citation">[1997] 1 SLR(R) 149</span> (“ _Heng Jee Tai_ ”) and the relevant Parliamentary Debates pertaining to the introduction of the offence of using a mobile phone while driving a vehicle. As there was no particular aggravating or mitigating factor, the District Judge imposed a fine of $800 and a disqualification order of six months, noting that this was consistent with sentences ordinarily meted out for this offence. 
 
 **The appellant’s arguments** 
 
@@ -68,7 +68,7 @@ asked for a lighter fine and stated that he needed his driving licence for the p
 
 **_Should the appellant be allowed to retract his admission of paragraph 3 of the SOF?_** 
 
-10     The law on whether a plea of guilt is qualified is well-established. As explained by then Chief Justice Yong Pung How (“CJ Yong”) in _Toh Lam Seng v Public Prosecutor_ [2003] 2 SLR(R) 346 (“ _Toh Lam Seng_ ”) at [5] (see also _Balasubramanian Palaniappa Vaiyapuri v PP_ [2002] 1 SLR(R) 138 (“ _Balasubramanian_ ”) and _Koh Thian Huat v PP_ [2002] 2 SLR(R) 113), there are three procedural safeguards to be observed before a plea of guilt can be accepted: 
+10     The law on whether a plea of guilt is qualified is well-established. As explained by then Chief Justice Yong Pung How (“CJ Yong”) in _Toh Lam Seng v Public Prosecutor_ <span class="citation">[2003] 2 SLR(R) 346</span> (“ _Toh Lam Seng_ ”) at [5] (see also _Balasubramanian Palaniappa Vaiyapuri v PP_ <span class="citation">[2002] 1 SLR(R) 138</span> (“ _Balasubramanian_ ”) and _Koh Thian Huat v PP_ <span class="citation">[2002] 2 SLR(R) 113</span>), there are three procedural safeguards to be observed before a plea of guilt can be accepted: 
 
  (a) that the accused should plead guilty by his own mouth; 
 

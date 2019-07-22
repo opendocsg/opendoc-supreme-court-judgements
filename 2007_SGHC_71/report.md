@@ -98,7 +98,7 @@ It will be noted from that passage that the situation therein under discussion i
 
 21     I do not think Shanley can put up any possible objections by her employer as an excuse from having to disclose her source any more than she can plead her fear of breach of an undertaking of confidentiality between herself and her source as the justification for her refusal. There is no “newspaper rule” in Singapore. 
 
-22     This is not to say that the court does not have regard to the desirability of preserving confidentiality. Indeed, as Choo Han Teck JC (as he then was) said in _KWL Holdings Ltd v Singapore Press Holdings Ltd_ [2002] 4 SLR 417 at [10]: 
+22     This is not to say that the court does not have regard to the desirability of preserving confidentiality. Indeed, as Choo Han Teck JC (as he then was) said in _KWL Holdings Ltd v Singapore Press Holdings Ltd_ <span class="citation">[2002] 4 SLR 417</span> at [10]: 
 
  What is spoken in confidence ought to be kept in confidence. Confidentiality must, therefore, be observed unless the greater interests of justice demand otherwise. 
 

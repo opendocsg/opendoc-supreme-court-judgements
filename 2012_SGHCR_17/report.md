@@ -75,13 +75,13 @@ _Burden of Proof_
 
 9       It is trite law that the burden of proof lies with the Plaintiff to provide evidence that will support his claim for damages. 
 
-10     In _Cheong Ghim Fah and another v Murugian s/o Rangasamy_ [2004] 1 SLR(R) 628 (“Cheong Ghim Fah”) at [30], V K Rajah JC (as he was then) said: 
+10     In _Cheong Ghim Fah and another v Murugian s/o Rangasamy_ <span class="citation">[2004] 1 SLR(R) 628</span> (“Cheong Ghim Fah”) at [30], V K Rajah JC (as he was then) said: 
 
  It is axiomatic that in negligence cases, as in all other civil cases, the burden of proof lies on the plaintiff to establish facts that will precipitate a decision in his favour. Our courts deal with facts and do not base their decisions on considerations of sympathy. 
 
 11     The only witness called to give evidence on behalf of the Plaintiff was the Plaintiff himself. None of the doctors who examined the Plaintiff were called to give evidence on the Plaintiff’s behalf, though their medical reports were included in the agreed bundle of documents. 
 
-12     In _Jet Holdings Ltd and others v Cooper Cameron (Singapore) Pte Ltd and another and other appeals_ [2006] 3 SLR(R) 769 (“Jet Holdings”) it was held by the Court of Appeal at [44] : 
+12     In _Jet Holdings Ltd and others v Cooper Cameron (Singapore) Pte Ltd and another and other appeals_ <span class="citation">[2006] 3 SLR(R) 769</span> (“Jet Holdings”) it was held by the Court of Appeal at [44] : 
 
  ...However, it must be emphasised that whilst formal proof of the document concerned is dispensed with by an agreed bundle of documents, the truth of their contents will still have to be 
 

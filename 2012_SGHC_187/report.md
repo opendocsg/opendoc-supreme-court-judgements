@@ -90,7 +90,7 @@ I dismissed the application on the basis of grounds (a) and (b) and now set out 
 
  ( i ) an interim injunction or any other interim measure. 
 
-An analysis of the nature of the orders and directions listed in s 12 indicates that they are concerned with procedural matters or protective measures and do not determine the substantive merits of the claim. The substance-procedure distinction was underscored by the Court of Appeal in _PT Asuransi Jasa Indonesia (Persero) v Dexia Bank SA_ [2007] 1 SLR 597 (“ _PT Asuransi_ ”), where the court held (at [66]) that a determination of an arbitral tribunal must be a decision on the substance of the dispute to be an “award” for the purposes of Art 34 of the Model Law. 
+An analysis of the nature of the orders and directions listed in s 12 indicates that they are concerned with procedural matters or protective measures and do not determine the substantive merits of the claim. The substance-procedure distinction was underscored by the Court of Appeal in _PT Asuransi Jasa Indonesia (Persero) v Dexia Bank SA_ <span class="citation">[2007] 1 SLR 597</span> (“ _PT Asuransi_ ”), where the court held (at [66]) that a determination of an arbitral tribunal must be a decision on the substance of the dispute to be an “award” for the purposes of Art 34 of the Model Law. 
 
 13     Certain legal consequences flow from the categorisation of an order or direction of an arbitral tribunal as an “award”. An award is “final and binding on the parties” under s 19B(1) of the IAA. The court may also set aside an award under s 24 of the IAA and Art 34 of the Model Law, and enforce an award under s 19 and the Second Schedule to the IAA. The present application was solely concerned with the setting aside of a decision rendered by the Tribunal. 
 
@@ -168,7 +168,7 @@ nature of an interim injunction and an applicant seeks judicial enforcement, “
 
  [emphasis added] 
 
-29     The interpretation of Art 34(3) of the Model Law was considered by Judith Prakash J in _ABC Co v XYZ Co Ltd_ [2003] 3 SLR(R) 546 at [9]: 
+29     The interpretation of Art 34(3) of the Model Law was considered by Judith Prakash J in _ABC Co v XYZ Co Ltd_ <span class="citation">[2003] 3 SLR(R) 546</span> at [9]: 
 
  ... On the aspect of time, art 34(3) is brief. All it says is that the application may not be made after the lapse of three months from a specified date. Although the words used are “may not” these must be interpreted as “cannot” as it is clear that the intention is to limit the time during which an award may be challenged. This interpretation is supported by material relating to the discussions amongst the drafters of the Model Law. It appears to me that the court would not be able to entertain any application lodged after the expiry of the three-month period as art 34 has been drafted as the all-encompassing, and only, basis for challenging an award in court. It does not provide for any extension of the time period and, as the court derives its jurisdiction to hear the application from the article alone, the absence of such a provision means the court has not been conferred with the power to extend time. 
 

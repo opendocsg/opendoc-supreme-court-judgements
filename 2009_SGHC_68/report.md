@@ -32,7 +32,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Whether sentence manif
 
  (b) possession of 0.41g of diamorphine under s 8( a ) of the MDA, which is also punishable under s 33 of the MDA. 
 
-The appellant pleaded guilty and was sentenced to seven years’ imprisonment and seven strokes of the cane for the first offence and 12 months’ imprisonment for the second offence, the sentences to run concurrently (see _PP v Jeffery Bin Abdullah_ [2008] SGDC 139 (“the GD”)). One other charge was taken into consideration for sentencing purposes, _viz_ , one charge of possession of a Class A controlled drug under s 8( _a_ ) of the MDA, an offence punishable under s 33 of the MDA. 
+The appellant pleaded guilty and was sentenced to seven years’ imprisonment and seven strokes of the cane for the first offence and 12 months’ imprisonment for the second offence, the sentences to run concurrently (see _PP v Jeffery Bin Abdullah_ <span class="citation">[2008] SGDC 139</span> (“the GD”)). One other charge was taken into consideration for sentencing purposes, _viz_ , one charge of possession of a Class A controlled drug under s 8( _a_ ) of the MDA, an offence punishable under s 33 of the MDA. 
 
 2       The main thrust of the appellant’s appeal was that the sentence for the first offence was manifestly excessive as his accomplice, one Sophian bin Abu Talib (“Sophian”), had received a lower sentence of five years and nine months’ imprisonment and six strokes of the cane for the same offence. 
 
@@ -68,25 +68,25 @@ than the sentence meted out to Sophian for the same offence. In any case, I was 
 
  Possession for purpose of trafficking 0.81g of diamorphine. Possession charge taken into consideration. Pleaded guilty. Had drug antecedents. 
 
- Rangasamy Balasubramaniam v PP [2000] SGDC 56 (“ Rangasamy ”) 
+ Rangasamy Balasubramaniam v PP <span class="citation">[2000] SGDC 56</span> (“ Rangasamy ”) 
 
  7 years’ imprisonment and 6 strokes of the cane 
 
  Possession for purpose of trafficking 0.29g of diamorphine. Two charges for failing to report for urine tests taken into consideration. Pleaded guilty. Had drug antecedents. 
 
- Sim Kim Yea v PP [1995] SGDC 2 
+ Sim Kim Yea v PP <span class="citation">[1995] SGDC 2</span> 
 
  8 years’ imprisonment 
 
  Possession for purpose of trafficking 3.36g of diamorphine. Pleaded guilty. Had been admitted to drug rehabilitation centre on five occasions. No caning because offender was female. 
 
- Lur Choo Lai v PP [1992] SGDC 1 
+ Lur Choo Lai v PP <span class="citation">[1992] SGDC 1</span> 
 
  6 years’ imprisonment and 9 strokes of the cane 
 
  Possession for purpose of trafficking 2.45g of diamorphine. Possession charge taken into consideration. Pleaded guilty. First offender. 
 
- Rozie bin Ahmad v PP [2001] SGDC 286 
+ Rozie bin Ahmad v PP <span class="citation">[2001] SGDC 286</span> 
 
  7 years’ imprisonment and 8 strokes of the cane 
 
@@ -103,15 +103,15 @@ than the sentence meted out to Sophian for the same offence. In any case, I was 
 
 those recovered by the CNB, the appellant would have been in possession of more diamorphine than the accused in _Ong Kee Kwok_ (1.29g compared to 0.81g). 
 
-10     The appellant pointed out that the offenders in _Ong Kee Kwok_ and _Rangasamy_ had drug antecedents which warranted the higher sentences imposed in those cases, while he was a first-time offender. However, I noted that there were aggravating factors in his case which were not present in _Ong Kee Kwok_ or _Rangasamy_. One clear example was that the appellant and Sophian had led the CNB and Traffic Police officers on a four-hour-long vehicle chase, and had put up a violent struggle thereafter to resist arrest. The appellant was also more culpable than Sophian in one respect in that he had thrown out the contents of the two packets during the vehicle chase to avoid being found to be in unlawful possession of a higher quantity of diamorphine. Therefore, the fact that his prison sentence was 15 months longer than Sophian’s prison sentence of five years and nine months was justifiable by his greater culpability in relation to the joint trafficking offence. This is not a case of inconsistency in sentencing. Ultimately, the principle that similar sentences must be imposed for similar offences and offenders is subject to the principle that each case must depend on its own facts (see _Teo Kian Leong v PP_ [2002] 1 SLR 147 at [45]). 
+10     The appellant pointed out that the offenders in _Ong Kee Kwok_ and _Rangasamy_ had drug antecedents which warranted the higher sentences imposed in those cases, while he was a first-time offender. However, I noted that there were aggravating factors in his case which were not present in _Ong Kee Kwok_ or _Rangasamy_. One clear example was that the appellant and Sophian had led the CNB and Traffic Police officers on a four-hour-long vehicle chase, and had put up a violent struggle thereafter to resist arrest. The appellant was also more culpable than Sophian in one respect in that he had thrown out the contents of the two packets during the vehicle chase to avoid being found to be in unlawful possession of a higher quantity of diamorphine. Therefore, the fact that his prison sentence was 15 months longer than Sophian’s prison sentence of five years and nine months was justifiable by his greater culpability in relation to the joint trafficking offence. This is not a case of inconsistency in sentencing. Ultimately, the principle that similar sentences must be imposed for similar offences and offenders is subject to the principle that each case must depend on its own facts (see _Teo Kian Leong v PP_ <span class="citation">[2002] 1 SLR 147</span> at [45]). 
 
 **_The appellant’s sentence in the light of his accomplice’s sentence_** 
 
-11     The next question is whether the principle of parity in sentencing was breached in this case and, if so, whether it was justified. In _PP v Ramlee_ [1998] 3 SLR 539, Yong Pung How CJ held that the parity principle should be applied even though the sentences by themselves were not manifestly excessive. Yong CJ stated at [7] that: 
+11     The next question is whether the principle of parity in sentencing was breached in this case and, if so, whether it was justified. In _PP v Ramlee_ <span class="citation">[1998] 3 SLR 539</span>, Yong Pung How CJ held that the parity principle should be applied even though the sentences by themselves were not manifestly excessive. Yong CJ stated at [7] that: 
 
  Where two or more offenders are to be sentenced for participation in the same offence, the sentences passed on them should be the same, unless there is a relevant difference in their responsibility for the offence or their personal circumstances: see Archbold (1998), para 5-153. An offender who has received a sentence that is significantly more severe than has been imposed on his accomplice, and there being no reason for the differentiation, is a ground of appeal if the disparity is serious. This is even where the sentences viewed in isolation are not considered manifestly excessive: see R v Walsh (1980) 2 Cr App R (S) 224. In R v Fawcett (1983) 5 Cr App R (S) 158, Lawton LJ held that the test was whether ‘right-thinking members of the public, with full knowledge of the relevant facts and circumstances, learning of this sentence [would] consider that something had gone wrong with the administration of justice?’ 
 
-12     I agree with this statement of principle. However, where the offenders did not play the same roles in the commission of the crimes and have different degrees of culpability, the parity principle is not applicable (see _Ong Tiong Poh v PP_ [1998] 2 SLR 853 at [29]–[30]). 
+12     I agree with this statement of principle. However, where the offenders did not play the same roles in the commission of the crimes and have different degrees of culpability, the parity principle is not applicable (see _Ong Tiong Poh v PP_ <span class="citation">[1998] 2 SLR 853</span> at [29]–[30]). 
 
 13     In the present case, it is clear that the DJ did direct his mind to the principle of parity of sentences and decided to impose a higher custodial sentence on the appellant because he had played a “much greater and important role” in the commission of the offence than his accomplice (at [10] of the GD). The DJ’s finding of fact was fully supported by paras 5 and 14 of the agreed statement of facts, which state as follows: 
 
@@ -128,11 +128,11 @@ those recovered by the CNB, the appellant would have been in possession of more 
 
 **_The one-transaction rule and the totality principle_** 
 
-15     At this juncture, it is desirable that I articulate a sentencing principle which, in my view, should apply to a case like the present, where an offender is charged with a series of offences arising from the same incident, but which are not regarded as falling within the one-transaction rule. In cases where an offender is convicted of more than one offence at the same trial, two sentencing principles may be involved, namely, the one-transaction rule and the totality principle. The one-transaction rule may be stated shortly: Where two or more offences are committed in the course of a single transaction, all sentences in respect of these offences should be concurrent rather than consecutive (see _Kanagasuntharam v PP_ [1992] 1 SLR 81 (“ _Kanagasuntharam_ ”) at 83, [5]). As for the totality principle, the Court of Appeal in _Kanagasuntharam_ adopted (at 84–85, [13]) the explanation of the principle as stated in D A Thomas, _Principles of Sentencing_ (Heinemann, 2nd Ed, 1979) at pp 57–58 as follows: 
+15     At this juncture, it is desirable that I articulate a sentencing principle which, in my view, should apply to a case like the present, where an offender is charged with a series of offences arising from the same incident, but which are not regarded as falling within the one-transaction rule. In cases where an offender is convicted of more than one offence at the same trial, two sentencing principles may be involved, namely, the one-transaction rule and the totality principle. The one-transaction rule may be stated shortly: Where two or more offences are committed in the course of a single transaction, all sentences in respect of these offences should be concurrent rather than consecutive (see _Kanagasuntharam v PP_ <span class="citation">[1992] 1 SLR 81</span> (“ _Kanagasuntharam_ ”) at 83, [5]). As for the totality principle, the Court of Appeal in _Kanagasuntharam_ adopted (at 84–85, [13]) the explanation of the principle as stated in D A Thomas, _Principles of Sentencing_ (Heinemann, 2nd Ed, 1979) at pp 57–58 as follows: 
 
  [T]he principle has two limbs. A cumulative sentence may offend the totality principle if the aggregate sentence is substantially above the normal level of sentences for the most serious of the individual offences involved, or if its effect is to impose on the offender ‘a crushing sentence’ not in keeping with his record and prospects. 
 
-16     In my view, in cases where an offender is sentenced for several offences arising out of one incident and he appeals against his sentence, the appeal court may apply a third principle of punishment. This principle gives effect to the commonsensical position that, where an offender is convicted of various offences arising from what is essentially _one incident_ , his overall sentence should reflect his role and culpability in the incident as a _whole_. This principle draws from both the onetransaction rule and the totality principle, as all three principles share the same underlying rationale, _viz_ , proportionality in sentencing. In _PP v Law Aik Meng_ [2007] 2 SLR 814, V K Rajah J alluded to this principle at [60]: 
+16     In my view, in cases where an offender is sentenced for several offences arising out of one incident and he appeals against his sentence, the appeal court may apply a third principle of punishment. This principle gives effect to the commonsensical position that, where an offender is convicted of various offences arising from what is essentially _one incident_ , his overall sentence should reflect his role and culpability in the incident as a _whole_. This principle draws from both the onetransaction rule and the totality principle, as all three principles share the same underlying rationale, _viz_ , proportionality in sentencing. In _PP v Law Aik Meng_ <span class="citation">[2007] 2 SLR 814</span>, V K Rajah J alluded to this principle at [60]: 
 
  It is axiomatic that the totality principle, not dissimilarly from its one-transaction counterpart, functions not as an inflexible rule, but rather as a helpful guideline to remind the court that the correlation of the sentence to the gravity of the offender’s conduct and offences is of critical importance. In short, sentences must be restrained by the principle of proportionality. [emphasis added] 
 

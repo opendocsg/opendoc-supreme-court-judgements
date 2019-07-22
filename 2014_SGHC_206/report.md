@@ -147,7 +147,7 @@ Singapore court twice in OS 509/2010 and OS 723/2011. [note: 29] It was argued t
 
 18     Second, in relation to the issue of whether Singapore is the natural forum, the Plaintiffs argued that the dispute essentially involved the shares of a company ( _ie_ , Universal) which was incorporated 
 
-and based in Singapore. [note: 30] The Plaintiffs also referred to the Court of Appeal decision of _JIO Minerals FZC and others v Mineral Enterprises Ltd_ [2011] 1 SLR 391 (“ _JIO Minerals FZC v Mineral Enterprises_ ”), where it was observed that in relation to tort claims, the place of the tort was _prima facie_ the natural forum. On this basis, it was argued that the natural forum must be Singapore as the 
+and based in Singapore. [note: 30] The Plaintiffs also referred to the Court of Appeal decision of _JIO Minerals FZC and others v Mineral Enterprises Ltd_ <span class="citation">[2011] 1 SLR 391</span> (“ _JIO Minerals FZC v Mineral Enterprises_ ”), where it was observed that in relation to tort claims, the place of the tort was _prima facie_ the natural forum. On this basis, it was argued that the natural forum must be Singapore as the 
 
 alleged tort took place in Singapore. [note: 31] The Plaintiffs further submitted that the dispute had no connection with the US except for the fact that the Defendants were companies based in the US. [note: 32] It was also highlighted that the Defendants had invoked the jurisdiction of the Singapore 
 
@@ -221,11 +221,11 @@ The Defendants submitted that none of these factors featured in the present case
 
 26     In response to the Plaintiffs’ argument that the Defendants only commenced the US action due to the concern that any legal proceedings in Singapore would likely be struck out for abuse of process, the Defendants highlighted that the Plaintiffs’ arguments on the doctrine of abuse of process 
 
-had already been considered and dismissed by the court. [note: 51] The Defendants also referred to the High Court decision of _Chee Siok Chin and others v Minister for Home Affairs and another_ [2006] 1 SLR(R) 582, where V K Rajah J (as he then was) considered the various instances where abuse of process was made out. It was submitted that the Plaintiffs’ allegation of abuse of process was wholly 
+had already been considered and dismissed by the court. [note: 51] The Defendants also referred to the High Court decision of _Chee Siok Chin and others v Minister for Home Affairs and another_ <span class="citation">[2006] 1 SLR(R) 582</span>, where V K Rajah J (as he then was) considered the various instances where abuse of process was made out. It was submitted that the Plaintiffs’ allegation of abuse of process was wholly 
 
 devoid of merit as the facts of the present case did not fall within any of those scenarios. [note: 52] 
 
-27     The Defendants also referred to the Court of Appeal decision of _Koh Kay Yew v Inno-Pacific Holdings Ltd_ [1997] 2 SLR(R) 148 (“ _Koh Kay Yew_ ”) where a distinction was drawn between cases where proceedings were only commenced in one jurisdiction and cases where a party had commenced 
+27     The Defendants also referred to the Court of Appeal decision of _Koh Kay Yew v Inno-Pacific Holdings Ltd_ <span class="citation">[1997] 2 SLR(R) 148</span> (“ _Koh Kay Yew_ ”) where a distinction was drawn between cases where proceedings were only commenced in one jurisdiction and cases where a party had commenced 
 
 multiple proceedings and abused different judicial systems. [note: 53] It was observed that the courts should be extremely cautious in granting an injunction in the former case so long as the party who commenced the foreign proceedings was entitled to do so. The Defendants highlighted that they were not seeking to maintain concurrent proceedings in multiple jurisdictions as the proceedings in 
 
@@ -246,7 +246,7 @@ was misconceived in so far as the limitation period was imposed by law. [note: 5
 
 **The decision of the court** 
 
-29     In the Court of Appeal decision of _John Reginald Stott Kirkham and others v Trane US Inc and others_ [2009] 4 SLR(R) 428 (“ _John Reginald v Trane_ ”), it was held that the following elements had to be considered in determining whether an anti-suit injunction should be granted: 
+29     In the Court of Appeal decision of _John Reginald Stott Kirkham and others v Trane US Inc and others_ <span class="citation">[2009] 4 SLR(R) 428</span> (“ _John Reginald v Trane_ ”), it was held that the following elements had to be considered in determining whether an anti-suit injunction should be granted: 
 
  (a) whether the defendants are amenable to the jurisdiction of the Singapore court; 
 

@@ -16,7 +16,7 @@
 
 _Revenue Law_ – _Income Taxation_ – _Deduction_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2012] 1 SLR 185.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2012] 1 SLR 185</span>.] 
 
 16 January 2013 Judgment reserved 
 
@@ -24,7 +24,7 @@ _Revenue Law_ – _Income Taxation_ – _Deduction_
 
 **Introduction** 
 
-1       This is an appeal against the decision of a High Court judge (“the Judge”), holding that the loss suffered by the taxpayer (“the Appellant”) due to misappropriation of its funds by its ex-Managing Director (“the Ex-MD”) does not qualify as a deduction under s 14(1) of the Income Tax Act (Cap 134, 2008 Rev Ed) (“the Act”) (see _AQP v Comptroller of Income Tax_ [2012] 1 SLR 185 (“the Judgment”)). 
+1       This is an appeal against the decision of a High Court judge (“the Judge”), holding that the loss suffered by the taxpayer (“the Appellant”) due to misappropriation of its funds by its ex-Managing Director (“the Ex-MD”) does not qualify as a deduction under s 14(1) of the Income Tax Act (Cap 134, 2008 Rev Ed) (“the Act”) (see _AQP v Comptroller of Income Tax_ <span class="citation">[2012] 1 SLR 185</span> (“the Judgment”)). 
 
 **Facts** 
 
@@ -34,7 +34,7 @@ Mainboard on 2 February 1998. [note: 1] The Ex-MD was the Managing Director of t
 
 funds. [note: 2] In 2001, the Ex-MD was convicted of criminal breach of trust after the District Judge (“the DJ”) found that he had, on various occasions between September 1997 and August 1998, falsely claimed to have paid money to the Appellant’s suppliers and customers, either as deposits for goods or as loans, and then “reimbursed” himself from the Appellant’s funds (see _Public Prosecutor v_ 
 
-_Kwek Chee Tong_ [2001] SGDC 194 (“ _PP v KCT_ ”). [note: 3] 
+_Kwek Chee Tong_ <span class="citation">[2001] SGDC 194</span> (“ _PP v KCT_ ”). [note: 3] 
 
 3       As a result of these misappropriations, the Appellant lost $12,272,917 (“the Loss”). [note: 4] The Appellant made a provision for doubtful debts including the Loss in its statutory accounts for the year ended 31 December 1999 but did not claim a deduction for the Loss in its income tax return for 
 
@@ -202,7 +202,7 @@ Looked at in this light, the “overriding power or control” test is not only 
 
  give its directors unjustified overriding power or control... 
 
-29     Turning to a closely related (albeit intensely _practical_ ) point, we are of the view that the onus of demonstrating to the relevant tax authorities (here, the Respondent) that the employee concerned was not placed in a position of overriding power or control _or_ that, if he or she had been so placed, that a sufficient system of checks and balances _had_ indeed been instituted, _notwithstanding_ the fact defalcations had _still_ been effected by the employee concerned, lies on the taxpayer concerned – bearing in mind, of course, the respective parties’ evidential burdens as well as the legal burden of proof, the latter of which lies throughout with the taxpayer (reference may be made in this regard to the decisions of this court in _Loo Chay Sit v Estate of Loo Chay Loo, deceased_ [2010] 1 SLR 286 (at [14]) and _Zim Integrated Shipping Services Limited and others v Dafni Ignal and others_ [2011] 1 SLR 862 (at [11]–[13])). 
+29     Turning to a closely related (albeit intensely _practical_ ) point, we are of the view that the onus of demonstrating to the relevant tax authorities (here, the Respondent) that the employee concerned was not placed in a position of overriding power or control _or_ that, if he or she had been so placed, that a sufficient system of checks and balances _had_ indeed been instituted, _notwithstanding_ the fact defalcations had _still_ been effected by the employee concerned, lies on the taxpayer concerned – bearing in mind, of course, the respective parties’ evidential burdens as well as the legal burden of proof, the latter of which lies throughout with the taxpayer (reference may be made in this regard to the decisions of this court in _Loo Chay Sit v Estate of Loo Chay Loo, deceased_ <span class="citation">[2010] 1 SLR 286</span> (at [14]) and _Zim Integrated Shipping Services Limited and others v Dafni Ignal and others_ <span class="citation">[2011] 1 SLR 862</span> (at [11]–[13])). 
 
 30     Although there are _also_ at least some _elements_ of _policy_ which _may_ be utilised in order to justify the “overriding power or control” test, we would agree with Mr Singh that references to “policy” (in particular, the purpose of _deterrence_ in the context of the present proceedings) should be minimised, if not eradicated altogether. It may not be a satisfactory approach to have substantive recourse to what are, in the final analysis, policy factors that are more appropriately assessed by _Parliament_ (as opposed to the courts). However, that having been said, in order to _avoid_ a formalistic approach, it is imperative, in our view, _to bear the underlying likely policy considerations in mind_. The “overriding power or control” test (which we have endorsed above) ought to be justified, _in the main_ , by _the ability of the taxpayer to establish sufficient checks and balances in the organisation and whether the failure to do so confers an overriding power or control to the employee who effected the defalcations concerned_. Whilst we do not disagree with the aim of _deterring_ organisations from leaving the powers of their directors and shareholders unchecked (see generally the Judgment at [76]–[78]), this plays – at best – a _relatively minor_ role in _justifying_ the adoption of the “overriding power or control” test. 
 

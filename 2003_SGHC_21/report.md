@@ -104,7 +104,7 @@ be distributed at the same time as the proceeds of sale of the other two (2) ass
 
  and may order the action to be stayed or dismissed or judgment to be entered accordingly, as the case may be. 
 
-18\. Pursuant to O 18 r 19(2), no evidence/affidavit is admissible on an application made under O 18 r 19(1)(a), as it solely relates to issues of law (see Pinsler's _Singapore Court Practice 1999_ at p 899). For an application to succeed under O 18 r 19(1)(a), it must be patently clear on the face of the pleading or endorsement that there is no reasonable cause of action or defence. The Court of Appeal in _Gabriel Peter & Partners v Wee Chong Jin & Ors_ [1998] 1 SLR 374 (at p 384 para 21) stated: 
+18\. Pursuant to O 18 r 19(2), no evidence/affidavit is admissible on an application made under O 18 r 19(1)(a), as it solely relates to issues of law (see Pinsler's _Singapore Court Practice 1999_ at p 899). For an application to succeed under O 18 r 19(1)(a), it must be patently clear on the face of the pleading or endorsement that there is no reasonable cause of action or defence. The Court of Appeal in _Gabriel Peter & Partners v Wee Chong Jin & Ors_ <span class="citation">[1998] 1 SLR 374</span> (at p 384 para 21) stated: 
 
  The guiding principle in determining 'what a reasonable cause of action' is under O 18 r 19(1) (a) was succinctly pronounced by Lord Pearson in Drummond-Jackson v British Medical Association [1970] 1 All ER 1094. A reasonable cause of action, according to his lordship, connotes a cause of action which has some chance of success when only the allegations in the pleading are considered. As long as the statement of claim discloses some cause of action, or raises some question fit to be decided at the trial, the mere fact that the case is weak and is not likely to succeed is no ground for striking it out. Where a statement of claim is defective only in not containing particulars to which the defendant is entitled, the application should be made for particulars under O 18 r 12 and not for an order to strike out the statement. 
 
@@ -125,7 +125,7 @@ was untenable.
 
  This is anchored on the judicial policy to afford a litigant the right to institute a bona fide claim before the courts and to prosecute it in the usual way. Whenever possible the courts will let the plaintiff proceed with the action unless his case is wholly and clearly unarguable. 
 
-or, put in another way, a plaintiff is not to be 'driven from the judgment seat' (per Fletcher-Moulton LJ in _Dyson v Attorney-General_ [1911] 1 KB 410 at p 419). The above principle has also been restated more than once by the Court of Appeal (see _Tan Soo Leng David v Wee, Satku & Kumar Pte Ltd_ [1994] 3 SLR 481). 
+or, put in another way, a plaintiff is not to be 'driven from the judgment seat' (per Fletcher-Moulton LJ in _Dyson v Attorney-General_ [1911] 1 KB 410 at p 419). The above principle has also been restated more than once by the Court of Appeal (see _Tan Soo Leng David v Wee, Satku & Kumar Pte Ltd_ <span class="citation">[1994] 3 SLR 481</span>). 
 
 22\. The words 'frivolous or vexatious' in O 18 r 19(1)(b) of the Rules of Court have been defined to mean cases which are obviously unsustainable or wrong, the words connote purposelessness in relation to the process or a lack of seriousness or truth and a lack of bona fides (see Pinsler's _Supreme Court Practice_ 1999 [ _supra_ ] at pp 915 and 916), 'not calculated to lead to any practical result' ( _Goh Koon Suan v Heng Gek Kiau & Ors_ [1991] 2 MLJ 307 per Yong Pung How CJ at p 311). 
 

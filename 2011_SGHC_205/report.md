@@ -20,7 +20,7 @@
 
 _Criminal Procedure and Sentencing_ – _Confiscation and Forfeiture_ – _Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed)_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 114 and 115 of 2011 were allowed in part by the Court of Appeal on 2 November 2012. See [2012] SGCA 65.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 114 and 115 of 2011 were allowed in part by the Court of Appeal on 2 November 2012. See <span class="citation">[2012] SGCA 65</span>.] 
 
 15 September 2011 
 
@@ -364,7 +364,7 @@ Counsel for Centillion did not go so far as to state whether the POCA definition
 
 53     Counsel for Centillion then argued that as NTL had misappropriated the chips from Centillion, NTL held the proceeds of the sale of the chips and the property acquired with those proceeds as a constructive trustee for the benefit of Centillion. This was an argument based on tracing from property misappropriated from Centillion. Centillion also had an alternative constructive trust argument, namely that NTL had made illegal profits by misappropriating the chips. Centillion therefore asserted that NTL’s illegal profits (and the properties traceable from those profits) were subject to a constructive trust in favour of the company. 
 
-54     Two landmark decisions, _Attorney-General of Hong Kong v Charles Warwick Reid and others_ [1994] 1 AC 324 (“ _AG v Reid_ ”) and _Thahir Kartika Ratna v PT Pertambangan Minyak dan Gas Bumi Negara (Pertamina)_ [1994] 3 SLR(R) 312 (“ _Pertamina_ ”), were cited as authority for Centillion’s contention. Both cases dealt with the question of whether a principal was entitled to assert a beneficial interest in a bribe received by an agent or fiduciary, and in both cases, it was held that the principal was entitled to assert a constructive trust over the bribe (and property traceable from the bribe). 
+54     Two landmark decisions, _Attorney-General of Hong Kong v Charles Warwick Reid and others_ [1994] 1 AC 324 (“ _AG v Reid_ ”) and _Thahir Kartika Ratna v PT Pertambangan Minyak dan Gas Bumi Negara (Pertamina)_ <span class="citation">[1994] 3 SLR(R) 312</span> (“ _Pertamina_ ”), were cited as authority for Centillion’s contention. Both cases dealt with the question of whether a principal was entitled to assert a beneficial interest in a bribe received by an agent or fiduciary, and in both cases, it was held that the principal was entitled to assert a constructive trust over the bribe (and property traceable from the bribe). 
 
 
 55     In particular, Centillion’s counsel set out in its submissions Lord Templeman’s finding in _AG v Reid_ at pp 331B–332A as follows: 
@@ -521,7 +521,7 @@ I declined to issue a certificate under s 10(2) of the CDSA on the amount recove
 
 74     Strenuous submissions were made on behalf of the PP that the PP should not be ordered to pay costs. The thrust of the submissions was, firstly, that the PP was discharging his legal duty when he filed the confiscation proceedings. Secondly, it was submitted that throughout the proceedings the PP had acted reasonably and in good faith. 
 
-75     Although this was not stated expressly, the PP was essentially relying on the principle enunciated in _Baxendale-Walker v Law Society_ [2008] 1 WLR 426 (“ _Baxendale-Walker_ ”), a decision of the English Court of Appeal. _Baxendale-Walker_ was discussed and applied by the Court of Appeal in _Law Society of Singapore v Top Ten Entertainment Pte Ltd_ [2011] 2 SLR 1279 (“ _Top Ten_ ”). 
+75     Although this was not stated expressly, the PP was essentially relying on the principle enunciated in _Baxendale-Walker v Law Society_ [2008] 1 WLR 426 (“ _Baxendale-Walker_ ”), a decision of the English Court of Appeal. _Baxendale-Walker_ was discussed and applied by the Court of Appeal in _Law Society of Singapore v Top Ten Entertainment Pte Ltd_ <span class="citation">[2011] 2 SLR 1279</span> (“ _Top Ten_ ”). 
 
 76     The facts of _Baxendale-Walker_ were as set out in the headnote of the report of the case: 
 

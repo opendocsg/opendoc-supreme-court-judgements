@@ -57,7 +57,7 @@ _Administrative law_ – _remedies_ – _quashing order_
 
 **My decision** 
 
-10     The test for granting leave to apply for a quashing order was summarised by Philip Pillai J in _Lim Mey Lee Susan v Singapore Medical Council_ [2011] SGHC 131 (at [3]). Leave is not granted unless the court is satisfied that: 
+10     The test for granting leave to apply for a quashing order was summarised by Philip Pillai J in _Lim Mey Lee Susan v Singapore Medical Council_ <span class="citation">[2011] SGHC 131</span> (at [3]). Leave is not granted unless the court is satisfied that: 
 
  (a) The matter complained of is susceptible to judicial review; 
 
@@ -134,7 +134,7 @@ see _Regina v Peterborough Magistrates’ Court, ex parte Dowler_ [1997] QB 911 
 
 24     Section 2 of the SCJA defines a “Judge of Appeal” as including “the Chief Justice and a Judge of the High Court sitting as a judge of the Court of Appeal under section 29(3)”. While the Court of Appeal has a different appellate jurisdiction, there appears to be no distinction in the SCJA between the High Court and the Court of Appeal in terms of its status as a superior court. The High Court and the Court of Appeal are treated as a unitary Supreme (and superior) court where Judges of the High Court may sit as a judge of the Court of Appeal under s 29(3) of the SCJA, and Judges of Appeal may sit in the High Court under s 10(3) of the SCJA. 
 
-25     Accepting the Applicant’s proposition that a right of judicial review lies against a High Court decision (whether by way of review by another High Court Judge or by the Court of Appeal) would be tantamount to saying that the superior court of Singapore can exercise supervisory jurisdiction over itself. This makes nonsense of the word “supervisory”. In _Bright Impex v Public Prosecutor_ [1998] 2 SLR(R) 961 (“ _Bright Impex_ ”), it had been ordered by the district judge that the goods the petitioner had acquired be forfeited under s 130(1)( _c_ ) of the Customs Act (Cap 70, 1995 Rev Ed). The petitioner’s appeal was dismissed by the High Court. He then applied to the High Court to exercise its powers of revision under s 266 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) to reverse the forfeiture order. Yong Pung How CJ dismissed the application and held (at [13] and [14]): 
+25     Accepting the Applicant’s proposition that a right of judicial review lies against a High Court decision (whether by way of review by another High Court Judge or by the Court of Appeal) would be tantamount to saying that the superior court of Singapore can exercise supervisory jurisdiction over itself. This makes nonsense of the word “supervisory”. In _Bright Impex v Public Prosecutor_ <span class="citation">[1998] 2 SLR(R) 961</span> (“ _Bright Impex_ ”), it had been ordered by the district judge that the goods the petitioner had acquired be forfeited under s 130(1)( _c_ ) of the Customs Act (Cap 70, 1995 Rev Ed). The petitioner’s appeal was dismissed by the High Court. He then applied to the High Court to exercise its powers of revision under s 266 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) to reverse the forfeiture order. Yong Pung How CJ dismissed the application and held (at [13] and [14]): 
 
  13 ... The general supervisory and revisionary jurisdiction of the High Court as prescribed in s 27(1) of the Supreme Court of Judicature Act [Cap 322] is... limited to jurisdiction over the Subordinate Courts. ... 
 
@@ -145,11 +145,11 @@ see _Regina v Peterborough Magistrates’ Court, ex parte Dowler_ [1997] QB 911 
 
  [emphasis added in italics and bold italics] 
 
-26     Quoting _Bright Impex_ (at [14]) with approval in _Tee Kok Boon v Public Prosecutor_ [2006] 4 SLR(R) 398 (also in the context of criminal revision), Tay Yong Kwang J further elaborated (at [15]): 
+26     Quoting _Bright Impex_ (at [14]) with approval in _Tee Kok Boon v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 398</span> (also in the context of criminal revision), Tay Yong Kwang J further elaborated (at [15]): 
 
  I agree entirely with the above statement which I apply to the factual situation in the present application. Each High Court has co-ordinate jurisdiction and one High Court cannot profess to exercise revisionary or supervisory jurisdiction over another. Even the Court of Appeal does not have powers of judicial review over the High Court. ... 
 
-27     Tay J had applied the same principle in the context of setting aside summary judgment in _Poh Soon Kiat v Hotel Ramada of Nevada (trading as Tropicana Resort & Casino)_ [1999] 2 SLR(R) 756 (“ _Poh Soon Kiat_ ”). Tay J reasoned that if there were conflicting positions taken by the High Court in different cases touching on the same issue, parties would be able to use the guise of setting aside to resurrect cases and persuade a court of coordinate jurisdiction to side with one High Court’s position over another. Tay J found that this would go against the need for orderly administration of justice and finality. He concluded (at [30]): 
+27     Tay J had applied the same principle in the context of setting aside summary judgment in _Poh Soon Kiat v Hotel Ramada of Nevada (trading as Tropicana Resort & Casino)_ <span class="citation">[1999] 2 SLR(R) 756</span> (“ _Poh Soon Kiat_ ”). Tay J reasoned that if there were conflicting positions taken by the High Court in different cases touching on the same issue, parties would be able to use the guise of setting aside to resurrect cases and persuade a court of coordinate jurisdiction to side with one High Court’s position over another. Tay J found that this would go against the need for orderly administration of justice and finality. He concluded (at [30]): 
 
  What I have said applies with even greater force to the contention that the learned judicial commissioner might have made the wrong finding of fact due to the paucity of evidence in the O 14 proceedings. No High Court sits in an appellate, revisionary or supervisory jurisdiction over another High Court. 
 
@@ -166,7 +166,7 @@ _Susceptibility to review of the subject matter_
 31     The _raison d’etre_ of judicial review is different from that of an appeal. While an appeal relates to the merits of the decision, judicial review is an attack on the tribunal’s _manner_ of decision-making 
 
 
-(including whether there has been an abuse of discretion or breach of natural justice, irrationality, Wednesbury unreasonableness or bad faith). Put another way, an appeal asks whether a decision is correct while judicial review asks whether a decision is invalid. V K Rajah J opined in _Wong Keng Leong Rayney v Law Society of Singapore_ [2006] 4 SLR(R) 934 (“ _Rayney Wong_ ”) (at [79]): 
+(including whether there has been an abuse of discretion or breach of natural justice, irrationality, Wednesbury unreasonableness or bad faith). Put another way, an appeal asks whether a decision is correct while judicial review asks whether a decision is invalid. V K Rajah J opined in _Wong Keng Leong Rayney v Law Society of Singapore_ <span class="citation">[2006] 4 SLR(R) 934</span> (“ _Rayney Wong_ ”) (at [79]): 
 
  ... there is a clear distinction between the powers that a superior court exercises in judicial reviews and appeals. While judicial reviews and appeals are two avenues that an unsatisfied party in an inferior tribunal may have recourse to, they are separate and distinct in so far as they are designed to address two different types of wrongs that the tribunal may commit. Judicial review is almost invariably limited to examining, inter alia , whether the tribunal has exceeded its jurisdiction, whether there has been an abuse of discretion or a failure of natural justice, and whether the tribunal has acted irrationally, unreasonably or in bad faith. In other words, it hinges on the legality of the decision. An appeal, on the other hand has a wider scope: an appellate court may in limited circumstances evaluate the substantive merits of the decision arrived at by the tribunal ... the reviewing court cannot substitute its decision for that of the administrative body under review. [emphasis in original] 
 

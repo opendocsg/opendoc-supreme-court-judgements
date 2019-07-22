@@ -24,7 +24,7 @@ Chan Sek Keong CJ:
 
 **Introduction** 
 
-1       This was an appeal by the Public Prosecutor against the decision of the district judge in District Arrest Case No 25056 of 2007 in sentencing the respondent to a fine of $6,000 or two months’ imprisonment in default of payment of the fine (see _PP v Neo Boon Seng_ [2007] SGDC 339). The respondent had pleaded guilty to one charge of dishonestly misappropriating property under s 403 of the Penal Code (Cap 224, 1985 Rev Ed), which states: 
+1       This was an appeal by the Public Prosecutor against the decision of the district judge in District Arrest Case No 25056 of 2007 in sentencing the respondent to a fine of $6,000 or two months’ imprisonment in default of payment of the fine (see _PP v Neo Boon Seng_ <span class="citation">[2007] SGDC 339</span>). The respondent had pleaded guilty to one charge of dishonestly misappropriating property under s 403 of the Penal Code (Cap 224, 1985 Rev Ed), which states: 
 
  Dishonest misappropriation of property. 
 
@@ -51,7 +51,7 @@ At the conclusion of the hearing, I allowed the appeal and substituted the sente
 
 **Applicable legal principles** 
 
-8       In _Tan Koon Swan v PP_ [1986] SLR 126 and _PP v Cheong Hock Lai_ [2004] 3 SLR 203, it was held that an appellate court would only interfere with a trial court’s decision on sentencing in the following situations: 
+8       In _Tan Koon Swan v PP_ [1986] SLR 126 and _PP v Cheong Hock Lai_ <span class="citation">[2004] 3 SLR 203</span>, it was held that an appellate court would only interfere with a trial court’s decision on sentencing in the following situations: 
 
  (a) the sentencing judge had erred in respect of the proper factual basis for sentence; 
 
@@ -64,7 +64,7 @@ At the conclusion of the hearing, I allowed the appeal and substituted the sente
 9       It will suffice for me to elaborate briefly on situations (c) and (d). In regards to situation (c), the phrase “wrong in principle” has been described as being particularly suitable to cover cases where 
 
 
-a trial judge has chosen the wrong type of sentence (John Sprack, _A Practical Approach to Criminal Procedure_ (Oxford University Press, 11th Ed, 2006) at p 496). As for situation (d), in _PP v Siew Boon Loong_ [2005] 1 SLR 611, Yong Pung How CJ described a sentence that was manifestly excessive or inadequate to be as follows (at [22]): 
+a trial judge has chosen the wrong type of sentence (John Sprack, _A Practical Approach to Criminal Procedure_ (Oxford University Press, 11th Ed, 2006) at p 496). As for situation (d), in _PP v Siew Boon Loong_ <span class="citation">[2005] 1 SLR 611</span>, Yong Pung How CJ described a sentence that was manifestly excessive or inadequate to be as follows (at [22]): 
 
  When a sentence is said to be manifestly inadequate, or conversely, manifestly excessive, it means that the sentence is unjustly lenient or severe , as the case may be, and requires substantial alterations rather than minute corrections to remedy the injustice ... [emphasis added] 
 

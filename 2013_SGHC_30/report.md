@@ -63,7 +63,7 @@ _Civil Procedure_ – _Judgments and Orders_ – _Enforcement_
 
 **_The parties’ submissions_** 
 
-10     Relying on _Re Cheah Theam Swee, ex parte Equiticorp Finance Group Ltd and another_ [1996] 1 SLR(R) 24 _(“Re Cheah Theam Swee”)_ , Mr Damodara argued that “execution” should be given a wide meaning so as to achieve consistency between the use of “execution” in s 3(3) of the RECJA and O 
+10     Relying on _Re Cheah Theam Swee, ex parte Equiticorp Finance Group Ltd and another_ <span class="citation">[1996] 1 SLR(R) 24</span> _(“Re Cheah Theam Swee”)_ , Mr Damodara argued that “execution” should be given a wide meaning so as to achieve consistency between the use of “execution” in s 3(3) of the RECJA and O 
 
 67\. [note: 1] Mr Damodara submitted that this wide meaning of “execution” would encompass the enforcement of, or giving effect to, the judgments or orders of a competent court through the use of 
 
@@ -115,7 +115,7 @@ proceedings and writs of seizure and sale. [note: 5]
 
 16     Warren Khoo J also held (at [24]) that the purpose of adding the qualification “ _but in so far only as relates to execution under this section_ ” in s 3(3)(b) of the RECJA was merely to prevent a judgment debtor from attempting to impeach the registered judgment in Singapore rather than before the original court that heard the substantive dispute. In this context, the judge opined that “execution” in s 3(3)(b) of the RECJA has the wide meaning ( _ie_ the meaning as contended by Bakrie) rather than the narrow meaning ( _ie_ the meaning contended by GDAF) since the RECJA does not refer to the various modes of execution of a registered judgment. 
 
-17     However, _Re Cheah Theam Swee_ is not the only local case on that issue. In _Re Cheah Theam Swee_ , Warren Khoo J referred with approval to _Re Loo Choon Beng_ (unreported) and _Re Tan Patrick, ex parte Walter Peak Resorts Ltd (in receivership)_ [1994] 2 SLR(R) 379 (“ _Patrick Tan_ ”), where the court in both cases also had to consider the question whether bankruptcy proceedings could properly be taken out on a Commonwealth judgment in the light of s 3(3) of the RECJA. In fact, Warren Khoo J (at [28]) asserted that the court in the other two cases had reached the same conclusion as he did by a different route and that all these decisions would result in a uniformity of treatment of judgments registered under the RECJA and the Reciprocal Enforcement of Foreign Judgments Act (“REFJA”) (which relates to the recognition and enforcement in Singapore of foreign judgments of certain countries to which the REFJA applied). 
+17     However, _Re Cheah Theam Swee_ is not the only local case on that issue. In _Re Cheah Theam Swee_ , Warren Khoo J referred with approval to _Re Loo Choon Beng_ (unreported) and _Re Tan Patrick, ex parte Walter Peak Resorts Ltd (in receivership)_ <span class="citation">[1994] 2 SLR(R) 379</span> (“ _Patrick Tan_ ”), where the court in both cases also had to consider the question whether bankruptcy proceedings could properly be taken out on a Commonwealth judgment in the light of s 3(3) of the RECJA. In fact, Warren Khoo J (at [28]) asserted that the court in the other two cases had reached the same conclusion as he did by a different route and that all these decisions would result in a uniformity of treatment of judgments registered under the RECJA and the Reciprocal Enforcement of Foreign Judgments Act (“REFJA”) (which relates to the recognition and enforcement in Singapore of foreign judgments of certain countries to which the REFJA applied). 
 
 18     In _Patrick Tan_ , Lai Kew Chai J opined (at [6]) that s 4(2) of the REFJA (Cap 265, 1985 Rev Ed) [note: 6] , assisted in the contextualisation of s 3(3) of the RECJA. This was because the REFJA and 
 
@@ -169,7 +169,7 @@ meaning as “execution” in the RECJA (as interpreted by _Re Cheah Theam Swee_
 
  ... I do not think that normally anyone, whether a lawyer or a layman, would say that a party who applies for an order for the examination of the judgment debtor as to means is executing or enforcing the judgment. 
 
-29     The views expressed by both these learned judges are in line with the local authorities. In _United Overseas Bank Ltd v Thye Nam Loong (S) Pte Ltd and 2 others_ [1994] SGHC 262, KS Rajah JC held: 
+29     The views expressed by both these learned judges are in line with the local authorities. In _United Overseas Bank Ltd v Thye Nam Loong (S) Pte Ltd and 2 others_ <span class="citation">[1994] SGHC 262</span>, KS Rajah JC held: 
 
  The order for examination of judgment debtor... enables the judgment creditor to obtain the necessary information from the judgment debtor in order to enforce a judgment... The judgment debtor may be examined to establish his means and assets, and the appropriate methods to enforce the judgment. Towards this end, the court is empowered to order the judgment debtor or officer to attend before the Registrar, and be orally examined on the questions... 
 

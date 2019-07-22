@@ -129,7 +129,7 @@ provides maintenance of $8,000 per month for the child. [note: 9]
 
 15     The wife also submits that the maintenance order should be backdated to April 2010, the 
 
-commencement date of the divorce. [note: 15] The fact that she did not apply for interim maintenance or a variation of the maintenance order should not prejudice her application. She relies on the case of _AMW v AMZ_ [2011] 3 SLR 955 at [9]–[13], which set out the various considerations in deciding when maintenance should be ordered to start. The lack of an application for an interim maintenance order 
+commencement date of the divorce. [note: 15] The fact that she did not apply for interim maintenance or a variation of the maintenance order should not prejudice her application. She relies on the case of _AMW v AMZ_ <span class="citation">[2011] 3 SLR 955</span> at [9]–[13], which set out the various considerations in deciding when maintenance should be ordered to start. The lack of an application for an interim maintenance order 
 
 or a variation of an existing order was not listed as a relevant consideration. [note: 16] 
 
@@ -158,7 +158,7 @@ maintenance. [note: 17] His reasons are as follows:
 
  (vii) The items such as computer, room upgrade, birthday cake, birthday party and gifts are unnecessary and merely to inflate the child’s expenses. 
 
-17     In my view, the wife’s submissions with respect to the child are on the high side. In previous instances, extravagant requests for maintenance orders have been reduced to more reasonable figures in the light of the circumstances (see _Wong Ser Wan v Ng Cheong Ling_ [2006] 1 SLR(R) 416 and _Pang Rosaline v Chan Kong Chin_ [2009] SGHC 39). On the present facts, the child is only 11 years old and an expenditure of $8,464.43 per month is too extravagant for a young child. Taking into account all the relevant circumstances, I am of the view that a reasonable sum to accord for the child’s expenses is $3,000. As the child’s maintenance is a joint responsibility between both parents, the husband, who is earning significantly more than the wife, shall pay $2,000 per month for the maintenance of the child with effect from the date of this judgment. The maintenance order shall commence from the date of this judgment because the husband has been paying maintenance all this while. 
+17     In my view, the wife’s submissions with respect to the child are on the high side. In previous instances, extravagant requests for maintenance orders have been reduced to more reasonable figures in the light of the circumstances (see _Wong Ser Wan v Ng Cheong Ling_ <span class="citation">[2006] 1 SLR(R) 416</span> and _Pang Rosaline v Chan Kong Chin_ <span class="citation">[2009] SGHC 39</span>). On the present facts, the child is only 11 years old and an expenditure of $8,464.43 per month is too extravagant for a young child. Taking into account all the relevant circumstances, I am of the view that a reasonable sum to accord for the child’s expenses is $3,000. As the child’s maintenance is a joint responsibility between both parents, the husband, who is earning significantly more than the wife, shall pay $2,000 per month for the maintenance of the child with effect from the date of this judgment. The maintenance order shall commence from the date of this judgment because the husband has been paying maintenance all this while. 
 
 **_Maintenance for the wife_** 
 
@@ -195,7 +195,7 @@ are extravagant. [note: 23] Examples of these items include:
 
 _Should lump sum or regular maintenance be granted?_ 
 
-21     In asking for lump sum maintenance, the wife relies on _Lee Puey Hwa v Tay Cheow Seng_ [1991] 2 SLR(R) 196 (“ _Lee Puey Hua_ ”) at [9], where the court noted its power to award lump sum maintenance as an alternative to periodical payments so as to achieve a clean break between the parties. However, I am not in favour of doing so. 
+21     In asking for lump sum maintenance, the wife relies on _Lee Puey Hwa v Tay Cheow Seng_ <span class="citation">[1991] 2 SLR(R) 196</span> (“ _Lee Puey Hua_ ”) at [9], where the court noted its power to award lump sum maintenance as an alternative to periodical payments so as to achieve a clean break between the parties. However, I am not in favour of doing so. 
 
 22     The power to award lump sum maintenance is ultimately a discretionary one dependent on the circumstances of the case. In interpreting the relevant passages of _Lee Puey Hua_ , one must read them in context, which I set out here (at [9]–[10]): 
 
@@ -205,18 +205,18 @@ _Should lump sum or regular maintenance be granted?_
 
  [emphasis added] 
 
-23     Following _Lee Puey Hua_ , the Court of Appeal in _AYM v AYL and another appeal_ [2014] 4 SLR 559 at [18] summarised the case law relating to the grant of lump sum maintenance payments: 
+23     Following _Lee Puey Hua_ , the Court of Appeal in _AYM v AYL and another appeal_ <span class="citation">[2014] 4 SLR 559</span> at [18] summarised the case law relating to the grant of lump sum maintenance payments: 
 
  The following principles concerning lump sum maintenance payments may be extracted from the case law: 
 
- (a) A lump sum payment allows for a clean break in the marriage and should be availed of whenever feasible ( Lee Puey Hwa v Tay Cheow Seng [1991] 2 SLR(R) 196 (“ Lee Puey Hwa ”) at [9]). Such a clean break may help avoid further litigation and acrimony between the parties ( Wan Lai Chong v Quek Seow Kee [2012] 4 SLR 405 (“ Wan Lai Cheng ”) at [88]). 
+ (a) A lump sum payment allows for a clean break in the marriage and should be availed of whenever feasible ( Lee Puey Hwa v Tay Cheow Seng <span class="citation">[1991] 2 SLR(R) 196</span> (“ Lee Puey Hwa ”) at [9]). Such a clean break may help avoid further litigation and acrimony between the parties ( Wan Lai Chong v Quek Seow Kee <span class="citation">[2012] 4 SLR 405</span> (“ Wan Lai Cheng ”) at [88]). 
 
- (b) A lump sum payment should not be ordered if it would cripple the husband financially ( Lee Puey Hwa at [9]; and Neo Mei Lan Helena v Long Melvin Anthony [2002] 2 SLR(R) 616 
+ (b) A lump sum payment should not be ordered if it would cripple the husband financially ( Lee Puey Hwa at [9]; and Neo Mei Lan Helena v Long Melvin Anthony <span class="citation">[2002] 2 SLR(R) 616</span> 
 
 
  (" Neo Mei Lan Helena ")). 
 
- (c) A lump sum payment is appropriate where there is reason to believe that defaults in payments may be likely ( Neo Mei Lan Helena ; and BCS v BCT [2012] SGDC 338). 
+ (c) A lump sum payment is appropriate where there is reason to believe that defaults in payments may be likely ( Neo Mei Lan Helena ; and BCS v BCT <span class="citation">[2012] SGDC 338</span>). 
 
 24     Before proceeding to the facts of this case, I note that there is one other factor which the court has to take into account in deciding whether or not to award lump sum maintenance – the likelihood of the wife remarrying. In Leong Wai Kum, _Elements of Family Law in Singapore_ (LexisNexis, 2nd Ed, 2013) at p 694, the author comments that: 
 
@@ -226,7 +226,7 @@ _Should lump sum or regular maintenance be granted?_
 
  [original emphasis in bold] 
 
-25     As mentioned in [21] above, I am disinclined to grant lump sum maintenance. First, the wife is only 48 years old and there is a chance that she might remarry in the future. It would not make sense to order lump sum maintenance in the circumstances and, in the event that the wife remarries, penalise the husband, who would then be paying maintenance for the period during which the wife is remarried (see [24] above). Second, the husband has been paying maintenance regularly to the wife and the child and there is no evidence that he had ever defaulted (see _Neo Mei Lan Helena v Long Melvin Anthony (Yeo Bee Leong, co-respondent)_ [2002] 2 SLR(R) 616 at [71]). 
+25     As mentioned in [21] above, I am disinclined to grant lump sum maintenance. First, the wife is only 48 years old and there is a chance that she might remarry in the future. It would not make sense to order lump sum maintenance in the circumstances and, in the event that the wife remarries, penalise the husband, who would then be paying maintenance for the period during which the wife is remarried (see [24] above). Second, the husband has been paying maintenance regularly to the wife and the child and there is no evidence that he had ever defaulted (see _Neo Mei Lan Helena v Long Melvin Anthony (Yeo Bee Leong, co-respondent)_ <span class="citation">[2002] 2 SLR(R) 616</span> at [71]). 
 
 26     Accordingly, I award the wife maintenance of $2,500 per month with effect from the date of this judgement. 
 
@@ -459,7 +459,7 @@ cases that indicate a range of 35% to 45% in favour of the wife. [note: 35] The 
 
 maid looked after the child. Thus, the wife should only be given 5% for indirect contributions. [note: 36] 
 
-43     I am of the view that the wife made more indirect contributions than the husband. She is the primary caregiver of the child and also managed the household and finances. I accord her 10% for her indirect contributions as I note that the circumstances of the cases cited by the wife were based on very different facts from this case. The 10% will be added to the direct contributions of the wife in the three matrimonial properties. Applying the broad brush approach (see _Yeo Chong Lin v Tay Ang Choo Nancy and another appeal_ [2011] 2 SLR 1157 at [78]), I apportion the three properties as follows: 
+43     I am of the view that the wife made more indirect contributions than the husband. She is the primary caregiver of the child and also managed the household and finances. I accord her 10% for her indirect contributions as I note that the circumstances of the cases cited by the wife were based on very different facts from this case. The 10% will be added to the direct contributions of the wife in the three matrimonial properties. Applying the broad brush approach (see _Yeo Chong Lin v Tay Ang Choo Nancy and another appeal_ <span class="citation">[2011] 2 SLR 1157</span> at [78]), I apportion the three properties as follows: 
 
 44     I accede to the wife’s request to retain the Holland Close Property as it is in the best interest 
 

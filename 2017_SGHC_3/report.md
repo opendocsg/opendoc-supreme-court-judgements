@@ -136,7 +136,7 @@ quantity reconciliation on the back-charges, it was quite unclear whether the 1s
 
 **The law on unconscionability** 
 
-21     The law on unconscionability as a basis for restraining the calling on a performance bond is settled, and is set out in the Court of Appeal’s decision in _BS Mount Sophia Pte Ltd v Join-Aim Pte Ltd_ [2012] 3 SLR 352 (“ _Mount Sophia_ ”) in the following paragraphs: 
+21     The law on unconscionability as a basis for restraining the calling on a performance bond is settled, and is set out in the Court of Appeal’s decision in _BS Mount Sophia Pte Ltd v Join-Aim Pte Ltd_ <span class="citation">[2012] 3 SLR 352</span> (“ _Mount Sophia_ ”) in the following paragraphs: 
 
  18 It is settled law that unconscionability, as distinct from fraud, is a ground upon which the court can grant an injunction restraining a beneficiary of a performance bond from calling on the bond ... 
 
@@ -153,7 +153,7 @@ quantity reconciliation on the back-charges, it was quite unclear whether the 1s
 
  25 ... the courts should be slow to upset the status quo and disrupt the allocation of risk which the parties had decided upon for themselves in a building contract ... 
 
-22     The Court did not lay down a definition of “unconscionability” because it had explained in _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ [2000] 1 SLR 117 (at [42]) that: 
+22     The Court did not lay down a definition of “unconscionability” because it had explained in _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ <span class="citation">[2000] 1 SLR 117</span> (at [42]) that: 
 
  We do not think it is possible to define “unconscionability” other than to give some very broad indications such as lack of bona fides. What kind of situation would constitute unconscionability would have to depend on the facts of each case. This is a question which the court has to consider on each occasion where its jurisdiction is invoked. There is no pre-determined categorisation. 
 
@@ -199,7 +199,7 @@ quantity reconciliation on the back-charges, it was quite unclear whether the 1s
 
  [emphasis added] 
 
-This has been accepted as good law in Singapore: see, for example, _Tan Soo Leng David v Wee, Satku & Kumar Pte Ltd and another_ [1993] 2 SLR(R) 741. 
+This has been accepted as good law in Singapore: see, for example, _Tan Soo Leng David v Wee, Satku & Kumar Pte Ltd and another_ <span class="citation">[1993] 2 SLR(R) 741</span>. 
 
 29     Counsel for the Plaintiff submitted, firstly, that “the Plaintiff would be denied its primary remedy in the event that its appeal is successful”. However, this is not correct because in the event that the appeal is successful, an interim injunction would be granted and any sum received pursuant to demand will have to be paid back. 
 

@@ -199,7 +199,7 @@ announcing the immediate closure of KK Asia’s factory due to lack of materials
 
 him by Luis met with no response. [note: 29] 
 
-34     In anticipation of RGA’s claims against KK Asia, and mindful that the latter had other creditors, Domenico instructed his lawyers to, and they did, lodge caveats on the Properties (“the Caveats”) on behalf of RGA on 21 September 2015: see _RGA Holdings International Inc v Loh Choon Phing Robin and another_ [2017] 2 SLR 997 (“ _RGA Holdings International_ ”) at [12]. 
+34     In anticipation of RGA’s claims against KK Asia, and mindful that the latter had other creditors, Domenico instructed his lawyers to, and they did, lodge caveats on the Properties (“the Caveats”) on behalf of RGA on 21 September 2015: see _RGA Holdings International Inc v Loh Choon Phing Robin and another_ <span class="citation">[2017] 2 SLR 997</span> (“ _RGA Holdings International_ ”) at [12]. 
 
 35     Between August and September 2015, Domenico arranged for Forest Fibers and/or RGA to make advances totalling US$59,488.38 to KK Asia and/or to third parties on behalf of KK Asia. The 
 
@@ -433,7 +433,7 @@ defences set out in [62] to their other claims. [note: 70] It serves no purpose 
 
 71     At the hearing of Summons 2494, the court was informed by Peter that the sale proceeds of No. 246 were insufficient to pay off all the debts owed by KK Asia. 
 
-72     This court dismissed Summons 2494 (see _Forest Fibers Inc and another v KK Asia Environmental Pte Ltd and others_ [2017] 3 SLR 823) but on appeal by RGA, the Court of Appeal granted an interim injunction to restrain the Lohs from selling No. 248 (see _RGA Holding International_ at [4]). However, the Court of Appeal did not grant RGA’s application for a mandatory injunction to compel the Lohs to pay over to RGA’s solicitors the net sale proceeds of No. 246. 
+72     This court dismissed Summons 2494 (see _Forest Fibers Inc and another v KK Asia Environmental Pte Ltd and others_ <span class="citation">[2017] 3 SLR 823</span>) but on appeal by RGA, the Court of Appeal granted an interim injunction to restrain the Lohs from selling No. 248 (see _RGA Holding International_ at [4]). However, the Court of Appeal did not grant RGA’s application for a mandatory injunction to compel the Lohs to pay over to RGA’s solicitors the net sale proceeds of No. 246. 
 
 **The plaintiffs’ case** 
 
@@ -755,7 +755,7 @@ _(c) Was RGA a party to the SSA and did the Lohs breach the provisions?_
 
  registered holder. 
 
-125    The plaintiffs’ closing submissions (at paras 99 to 105) pointed out that Article 7 itself does not prohibit a trust or make it invalid. It merely states that KK Asia shall not be bound to recognise a trust. The plaintiff added that a valid trust may be formed so long as the intention of the settlor to create the trust is certain, the identity of the trust property is certain and the identity of the beneficiaries is defined with some precision (citing the appellate court’s decision in _Guy Neale v Nine Squares Pty Ltd_ [2015] 1 SLR 1097 at [51]). Here, Domenico had expressly declared he held the shares in KK Asia on trust for RGA. 
+125    The plaintiffs’ closing submissions (at paras 99 to 105) pointed out that Article 7 itself does not prohibit a trust or make it invalid. It merely states that KK Asia shall not be bound to recognise a trust. The plaintiff added that a valid trust may be formed so long as the intention of the settlor to create the trust is certain, the identity of the trust property is certain and the identity of the beneficiaries is defined with some precision (citing the appellate court’s decision in _Guy Neale v Nine Squares Pty Ltd_ <span class="citation">[2015] 1 SLR 1097</span> at [51]). Here, Domenico had expressly declared he held the shares in KK Asia on trust for RGA. 
 
 126    The court notes that Article 7 contains an exception “[e]xcept as required by law” and “except...by law otherwise provided”. I would construe those words to mean that the law can declare there is a valid trust if the situation warrants it. I also accept the plaintiffs’ argument that independent of the trust arrangement between Domenico and RGA and regardless of whether it is recognised, the basis of RGA’s claim is contractual -namely the SSA and it does not hinge on RGA being a shareholder of KK Asia. 
 
@@ -844,13 +844,13 @@ untenable in the light of the Lohs’ clear acknowledgement of receipt of that s
 
 **94.** When the terms of any such contract, grant or other disposition of property, or any matter required by law to be reduced to the form of a document, have been proved according to section 93, no evidence of any oral agreement or statement shall be admitted as between the parties to any such instrument or their representatives in interest for the purpose of contradicting, varying, adding to, or subtracting from its terms... 
 
-The exceptions in ss 94 ( _a_ ) to ( _f_ ) would not apply here so as to displace the application of s 94 itself. The plaintiffs had also cited the guidelines set out by the Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 at [131] to reinforce their point on when extrinsic evidence should be admitted to affect written contracts. 
+The exceptions in ss 94 ( _a_ ) to ( _f_ ) would not apply here so as to displace the application of s 94 itself. The plaintiffs had also cited the guidelines set out by the Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> at [131] to reinforce their point on when extrinsic evidence should be admitted to affect written contracts. 
 
 141    As for the other loan of US$30,000 extended on or about 15 July 2015, Robin’s testimony was not that the loan was not extended but that it came from Gestions RGA, a related company of RGA. It is irrelevant from which source RGA procured the sum from. There was no evidence that Robin objected to the fact that the remittance did not come from RGA and he certainly made no attempts to return the money. 
 
 142    Finally, there are the claims for advances made on behalf of KK Asia to Teguh Jaya for import and other related expenses to obtain the raw materials shipped by Forest Fibers amounting to US$128,058.60 (see [45]). 
 
-143    There is the further sum of US$43,600 that Domenico paid to Teguh Jaya in his attempts to recover Forest Fibers’ raw materials in order to mitigate its loss. The case of _The “Asia Star”_ [2010] 2 SLR 1154 at [24] cited by the plaintiffs is authority for the principle that an aggrieved party who takes reasonable steps to mitigate its loss is entitled to recover expenses reasonably incurred in the course of taking such mitigating measures. 
+143    There is the further sum of US$43,600 that Domenico paid to Teguh Jaya in his attempts to recover Forest Fibers’ raw materials in order to mitigate its loss. The case of _The “Asia Star”_ <span class="citation">[2010] 2 SLR 1154</span> at [24] cited by the plaintiffs is authority for the principle that an aggrieved party who takes reasonable steps to mitigate its loss is entitled to recover expenses reasonably incurred in the course of taking such mitigating measures. 
 
 144    I therefore find that the other items in [35] were all incurred on behalf of KK Asia. The first sum of US$11,461.56 was advanced to Wawasan Aspirasi Packaging at the request of Peter while the second sum of US$14,462 was another advance made at the request of KK Asia’s employee Hwee Qun (via email dated 11 August 2015 (at 2AB1213)) for the spare part purchases and machinery repairs carried out by Genox for KK Asia. I should add that Hwee Qun’s email request was one of the documents which contents the Lohs chose to dispute notwithstanding it emanated from KK Asia. 
 
@@ -859,7 +859,7 @@ The exceptions in ss 94 ( _a_ ) to ( _f_ ) would not apply here so as to displac
 146    Next, I deal with the loans extended to KK Asia. At law, where there are no stipulations as to the time of repayment, a loan is generally repayable at once without any previous demand (see _Chitty on Contracts_ vol 2 (H G Beale gen ed)(Sweet & Maxwell, 32nd Ed, 2015) at p 1429 para 39-266). The 
 
 
-plaintiffs had cited _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 at [101] to submit that a term must be implied that the plaintiffs’ loans were repayable on demand as a matter of business efficacy. The court accepts this proposition of law. Hence, the demands made by Forest Fibers and RGA of KK Asia and the Lohs for repayment of advances made by the plaintiffs were perfectly valid. 
+plaintiffs had cited _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> at [101] to submit that a term must be implied that the plaintiffs’ loans were repayable on demand as a matter of business efficacy. The court accepts this proposition of law. Hence, the demands made by Forest Fibers and RGA of KK Asia and the Lohs for repayment of advances made by the plaintiffs were perfectly valid. 
 
 147    I reiterate that the signatories to the SSA upon which the plaintiffs based their claims were RGA and the Lohs, not Domenico. Consequently, the records of KK Asia filed with the regulatory authorities should be rectified to reflect that RGA and not Domenico is the owner of the shares in the company. 
 

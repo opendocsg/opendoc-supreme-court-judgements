@@ -120,7 +120,7 @@ No mention has been made in the plaintiff’s patent regarding the dimensions of
 
 issue been made available to the public, whether in Singapore or elsewhere, by written or oral description, by use or in any other way. 
 
-16     In deciding the issue of novelty, Lai Kew Chai J in _Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd (No. 2)_ [2005] 3 SLR 389 set out the following guiding principles: 
+16     In deciding the issue of novelty, Lai Kew Chai J in _Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd (No. 2)_ <span class="citation">[2005] 3 SLR 389</span> set out the following guiding principles: 
 
  (a) the issue is determined by asking whether an invention forms part of the state of the art ; 
 
@@ -179,7 +179,7 @@ placed 120º apart, this patent demonstrates pick up heads in relation to the pi
 
  An invention shall be taken to involve an inventive step if it is not obvious to a person skilled in the art, having regard to any matter which forms part of the state of the art by virtue only of section 14(2) and without having regard to section 14(3). 
 
-On this aspect, our Court of Appeal in _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd_ [2008] 1 SLR 335 has again adopted the oft-cited four-step test laid down by the English Court of Appeal in _Windsurfing International Inc v Tabur Marine (Great Britain) Ltd_ [1985] RPC 59 at 73 (see [41] and [44] of our Court of Appeal’s judgment). 
+On this aspect, our Court of Appeal in _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd_ <span class="citation">[2008] 1 SLR 335</span> has again adopted the oft-cited four-step test laid down by the English Court of Appeal in _Windsurfing International Inc v Tabur Marine (Great Britain) Ltd_ [1985] RPC 59 at 73 (see [41] and [44] of our Court of Appeal’s judgment). 
 
 35     On this issue of inventive step, the defendant’s expert notes that the plaintiff’s patent states that in the prior art, inspection, pick up and rotation of the flip chip device had to be done sequentially or in successive steps since the pick up head would block the optical connection line between the camera and the flip chips. The plaintiff’s patent explains that the through opening in the pivoting part allows for such optical connection during rotation of the pivoting part through 90º or 270º. However, in the opinion of the defendant’s expert, the inspection angles of 90º and 270º are merely derived from the number of pick up heads used. The rotary pick up with two heads and a through opening in the ASA Patent and the National Semiconductor Patent would, like the plaintiff’s patent design, be similarly blocked at 0º and 180º. For the Matsushita Patent’s three pick up heads, the blockage would take place at 0º, 120º and 240º but the angles of 90º and 270º would be clear. For the four pick up heads system in the ASA Patent, the blockage takes place at 0º, 90º, 180º and 270º. 
 
@@ -218,7 +218,7 @@ On this aspect, our Court of Appeal in _First Currency Choice Pte Ltd v Main-Lin
 
 prior experience in machine design generally. He has also accepted that the defendant’s expert is much more experienced in this area than he is. 
 
-47     Where commercial success of an invention is concerned, this factor alone is not conclusive. A product that sells well is not necessarily novel or one involving an inventive step. Good advertising, marketing and pricing could also play a part. The converse is also true. As stated in _Main-Line Corporate Holdings Ltd v United Overseas Bank Ltd_ [2007] 1 SLR 1021 at [71]: 
+47     Where commercial success of an invention is concerned, this factor alone is not conclusive. A product that sells well is not necessarily novel or one involving an inventive step. Good advertising, marketing and pricing could also play a part. The converse is also true. As stated in _Main-Line Corporate Holdings Ltd v United Overseas Bank Ltd_ <span class="citation">[2007] 1 SLR 1021</span> at [71]: 
 
  Something that is new and inventive does not automatically become an overnight success or “the next big thing”. Even if it is not, like the plaintiff’s Teh Kor Lak said, “a big deal”, it is nevertheless something new and inventive which, after the invention is known, others may wish they had thought of or wonder why they had never thought of it. Some patents achieve much more commercial success and are more life-changing than (many) others. The fact that the invention has not been widely adopted in the credit card industry is therefore not an adverse reflection on its inventive quality. 
 

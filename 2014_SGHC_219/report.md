@@ -43,7 +43,7 @@ MBS denies these and counterclaims for arrears for the period 19 March 2012 to 1
 
 **388.** –(1) Where a corporation is plaintiff in any action or other legal proceeding the court having jurisdiction may, if it appears by credible testimony that there is reason to believe that the corporation will be unable to pay the costs of the defendant if successful in his defence, require sufficient security to be given for those costs and stay all proceedings until the security is given. 
 
-The inability to pay the defendant’s costs is one of two conditions for the courts to award security for costs. It must also be just to make such an order, having regard to all relevant circumstances ( _Creative Elegance (M) Sdn Bhd v Puay Kim Seng & Anor_ [1999] 1 SLR(R) 112 (“ _Creative Elegance_ ”) at [13]). 
+The inability to pay the defendant’s costs is one of two conditions for the courts to award security for costs. It must also be just to make such an order, having regard to all relevant circumstances ( _Creative Elegance (M) Sdn Bhd v Puay Kim Seng & Anor_ <span class="citation">[1999] 1 SLR(R) 112</span> (“ _Creative Elegance_ ”) at [13]). 
 
 7       I begin by determining if the first condition is satisfied. MBS’s lawyers argue there is reason to believe that Elbow will be unable to pay its (MBS’s) costs as Elbow is in a “poor financial situation”. MBS says that this is evidenced by: (1) Elbow’s own documents; (2) concessions made by Elbow’s Managing Director, Ms Kate McGettigan; and (3) Elbow’s failure to pay arrears due and owing from its lease of the units. 
 
@@ -77,7 +77,7 @@ In any event, Elbow’s lawyers argue that their client’s present financial si
  The fact Elbow needs to rely on third parties to keep it in business is an indication that it may 
 
 
- not have the financial means to pay MBS’s costs if MBS succeeds in its defence ( Frantonios Marine Services Pte Ltd v Kay Swee Tuan [2008] 4 SLR(R) 224 (“ Frantonios ”) at [33]); and 
+ not have the financial means to pay MBS’s costs if MBS succeeds in its defence ( Frantonios Marine Services Pte Ltd v Kay Swee Tuan <span class="citation">[2008] 4 SLR(R) 224</span> (“ Frantonios ”) at [33]); and 
 
  (d) Fourth, while it is true that Elbow has significant assets as seen in its 2012 Annual Report such as trade receivables and equipment, its liabilities exceed its assets (see above: [9(a)]). 
 
@@ -107,7 +107,7 @@ In any event, Elbow’s lawyers argue that their client’s present financial si
 
 12     MBS’s lawyers, in arguing that it is just in the circumstances to order security for costs, submit the following: 
 
- (a) First, “policy reasons” lean in favour of protecting a defendant against an unsatisfied costs order where impecunious corporations are concerned. In this regard, Elbow’s lawyers rely on the decision of the Court of Appeal in Ho Wing On Christopher v ECRC Land Pte Ltd (in liquidation) [2006] 4 SLR(R) 817 (“ Ho Wing On Christopher ”) and that of the High Court in Frantonios (see above: [9(c)]); 
+ (a) First, “policy reasons” lean in favour of protecting a defendant against an unsatisfied costs order where impecunious corporations are concerned. In this regard, Elbow’s lawyers rely on the decision of the Court of Appeal in Ho Wing On Christopher v ECRC Land Pte Ltd (in liquidation) <span class="citation">[2006] 4 SLR(R) 817</span> (“ Ho Wing On Christopher ”) and that of the High Court in Frantonios (see above: [9(c)]); 
 
  (b) Second, the legal costs for this suit are likely to be high. MBS’s lawyers say that the trial is likely to last from six to ten days, large volumes of documents have been prepared, and both parties have hired senior counsel to represent them. Furthermore, Elbow has indicated that it is considering alternative heads of damages, may seek expert opinion on these damages and may amend its Statement of Claim later. MBS’s lawyers say that MBS will have to incur further costs in making consequential amendments and obtaining expert advice on these alternative heads of 
 

@@ -30,7 +30,7 @@ _Family Law_ – _Custody_ – _Care and control_ – _Relocation_
 
 **Decision of the District Court** 
 
-4       The District Judge thought that the Father’s reasons for relocation were not reasonable. She said ([2014] SGDC 411 at [26]–[28]): 
+4       The District Judge thought that the Father’s reasons for relocation were not reasonable. She said (<span class="citation">[2014] SGDC 411</span> at [26]–[28]): 
 
  26 ... All in the month of June, it appears that a decision was made to relocate the family to Spain, a house was found, the Husband signed a three (3) year lease and arrangements for the children to move to a new school were made. The timing and speed of all this leads me to question the Defendant’s motives in making the decision to move and whether he had actually 
 
@@ -53,7 +53,7 @@ _Family Law_ – _Custody_ – _Care and control_ – _Relocation_
 
 _Landmark Court of Appeal decision in Singapore_ 
 
-8       In Singapore, the Court of Appeal in _Re C (an infant)_ [2003] 1 SLR(R) 502 (“ _Re C_ ”), has given these guiding principles in determining relocation issues: 
+8       In Singapore, the Court of Appeal in _Re C (an infant)_ <span class="citation">[2003] 1 SLR(R) 502</span> (“ _Re C_ ”), has given these guiding principles in determining relocation issues: 
 
  22 ... It is the reasonableness of the party having custody to want to take the child out of jurisdiction which will be determinative, and always keeping in mind that the paramount consideration is the welfare of the child. If the motive of the party seeking to take the child out of jurisdiction was to end contact between the child and the other parent, then that would be a very strong factor to refuse the application. Therefore, if it is shown that the move abroad by the person or parent having custody is not unreasonable or done in bad faith, then the court should only disallow the child to be taken out of jurisdiction if it is shown that the interest of the 
 
@@ -64,7 +64,7 @@ _Landmark Court of Appeal decision in Singapore_
 
 _Decisions applying Re C_ 
 
-9       It appears that the recent reported decisions in Singapore on parental child relocation, except for a most recent High Court decision, have allowed the child or children to be relocated. In the majority of the decisions, by applying _Re C_ , the courts seemed to have focused more on the reasonableness of the custodial parent’s reasons for relocation and less on the loss of the relationship with the other parent, resulting in orders allowing relocations. It was only in the most recent High Court decision of _BNT v BNS_ [2014] 4 SLR 859 (“ _BNT v BNS_ ”) that a relocation was not permitted. _BNT v BNS_ serves as an important reminder not to focus on the reasonable wishes of the primary carer to the extent that there is practically a presumption in favour of relocation once it is found that the primary carer’s decision is not unreasonable. 
+9       It appears that the recent reported decisions in Singapore on parental child relocation, except for a most recent High Court decision, have allowed the child or children to be relocated. In the majority of the decisions, by applying _Re C_ , the courts seemed to have focused more on the reasonableness of the custodial parent’s reasons for relocation and less on the loss of the relationship with the other parent, resulting in orders allowing relocations. It was only in the most recent High Court decision of _BNT v BNS_ <span class="citation">[2014] 4 SLR 859</span> (“ _BNT v BNS_ ”) that a relocation was not permitted. _BNT v BNS_ serves as an important reminder not to focus on the reasonable wishes of the primary carer to the extent that there is practically a presumption in favour of relocation once it is found that the primary carer’s decision is not unreasonable. 
 
 10     In _BNT v BNS_ , Judith Prakash J explained the principle in _Re C_ (at [16]– [17]): 
 
@@ -89,13 +89,13 @@ Therefore relocation would have seriously undermined the children’s relationsh
 
 _Examples of important factors used in previous cases_ 
 
-13     In many cases where relocation has been permitted, the relocating parent’s need to relocate seemed rather dire. A number involved a divorced parent who wished to return to his or her premarriage home country. In _Tran Jeannie v Chioy Kok Leong_ [2002] SGDC 22, the mother had brought the children up from birth. She had no extended family in Singapore and her parents were in the US. The Court found that she was financially insecure in Singapore whereas in the US, her parents could provide her and the children a roof, childcare assistance and financial support. The court granted her application to relocate. 
+13     In many cases where relocation has been permitted, the relocating parent’s need to relocate seemed rather dire. A number involved a divorced parent who wished to return to his or her premarriage home country. In _Tran Jeannie v Chioy Kok Leong_ <span class="citation">[2002] SGDC 22</span>, the mother had brought the children up from birth. She had no extended family in Singapore and her parents were in the US. The Court found that she was financially insecure in Singapore whereas in the US, her parents could provide her and the children a roof, childcare assistance and financial support. The court granted her application to relocate. 
 
-14     In _AZB v AYZ_ [2012] 3 SLR 627 (“ _AZB v_ AYZ”), the High Court noted that the primary carermother’s decision to relocate back to Illinois in the US would enable her to get the support she needed, to “be comforted by the nurturing company of her close, supportive and loving family” and that she would find it easier to find a job and retain her independence in the US than in Singapore after divorce. 
+14     In _AZB v AYZ_ <span class="citation">[2012] 3 SLR 627</span> (“ _AZB v_ AYZ”), the High Court noted that the primary carermother’s decision to relocate back to Illinois in the US would enable her to get the support she needed, to “be comforted by the nurturing company of her close, supportive and loving family” and that she would find it easier to find a job and retain her independence in the US than in Singapore after divorce. 
 
-1       5 _ATC v ATD_ [2011] SGDC 254 involved parties who were American citizens, born and raised in America, who married in America with relatives residing in America. The parties moved to Singapore in 2008 and were divorced in 2009. The wife was designated as the children’s “primary residential parent” under their Joint Parenting Agreement. She was granted leave to relocate to the US with the children. 
+1       5 _ATC v ATD_ <span class="citation">[2011] SGDC 254</span> involved parties who were American citizens, born and raised in America, who married in America with relatives residing in America. The parties moved to Singapore in 2008 and were divorced in 2009. The wife was designated as the children’s “primary residential parent” under their Joint Parenting Agreement. She was granted leave to relocate to the US with the children. 
 
-16     Other cases involved remarriage to a new spouse who was already settled in that other country with a stable job and had no connection to Singapore. In _AYD v AYE_ [2012] SGHC 42, the mother had quit her job in Singapore and wished to migrate permanently to the US with her American fiancé. In _BX v BY_ [2003] SGDC 29, the mother sought leave to relocate as her new husband was located in Shanghai. The court held that it was reasonable to take the child with her but ordered that she had to bear the expenses of bringing the child back for access with the other parent. 
+16     Other cases involved remarriage to a new spouse who was already settled in that other country with a stable job and had no connection to Singapore. In _AYD v AYE_ <span class="citation">[2012] SGHC 42</span>, the mother had quit her job in Singapore and wished to migrate permanently to the US with her American fiancé. In _BX v BY_ <span class="citation">[2003] SGDC 29</span>, the mother sought leave to relocate as her new husband was located in Shanghai. The court held that it was reasonable to take the child with her but ordered that she had to bear the expenses of bringing the child back for access with the other parent. 
 
 _Balancing the factors_ 
 

@@ -16,7 +16,7 @@
 
 _Succession and Wills_ – _Testamentary Capacity_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2015] SGHC 205.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2015] SGHC 205</span>.] 
 
 20 April 2016 
 
@@ -24,7 +24,7 @@ _Succession and Wills_ – _Testamentary Capacity_
 
 **Introduction** 
 
-1       This was an appeal against part of the decision of the High Court judge (“the Judge”) in _Lian Kok Hong v Lian Bee Leng and another_ [2015] SGHC 205 which found that the late Lian Seng Peng (“the Testator”) did not know and approve of the contents of his last Will and Testament dated 10 August 2012 (“the August 2012 Will”) when he signed it in the presence of two witnesses. 
+1       This was an appeal against part of the decision of the High Court judge (“the Judge”) in _Lian Kok Hong v Lian Bee Leng and another_ <span class="citation">[2015] SGHC 205</span> which found that the late Lian Seng Peng (“the Testator”) did not know and approve of the contents of his last Will and Testament dated 10 August 2012 (“the August 2012 Will”) when he signed it in the presence of two witnesses. 
 
 2       The dispute between Lian Kok Hong (“the appellant”), who was the plaintiff before the Judge, and Lian Bee Leng and Wee Hui Ying (“the respondents”), who were the defendants, was which of the many wills executed by the Testator during the last few years of his life was his last will. The respondents had initially applied for probate in respect of an earlier will of the Testator dated 18 December 2010 (“the 18 December 2010 Will”). In their counterclaim, the respondents sought a declaration that the 18 December 2010 Will was the Testator’s true last will. The Judge held that the August 2012 Will was invalid and accordingly allowed the respondents’ counterclaim. 
 
@@ -197,7 +197,7 @@ witnessed by a doctor. [note: 5] The appellant did not produce the August 2012 W
 
 **The Judge’s Decision** 
 
-38     Referring to _George Abraham Vadakathu v Jacob George_ [2009] 3 SLR(R) 631 and _Chee Mu Lin Muriel v Chee Ka Lin Caroline (Chee Ping Chian Alexander and another, interveners)_ [2010] 4 SLR 373 (“ _Muriel Chee_ ”), _Banks v Goodfellow_ (1870) LR 5 QB 549 and _Biggins v Biggins_ [2000] All ER(D) 92, the Judge summarised the legal principles applicable to the issues as follows: 
+38     Referring to _George Abraham Vadakathu v Jacob George_ <span class="citation">[2009] 3 SLR(R) 631</span> and _Chee Mu Lin Muriel v Chee Ka Lin Caroline (Chee Ping Chian Alexander and another, interveners)_ <span class="citation">[2010] 4 SLR 373</span> (“ _Muriel Chee_ ”), _Banks v Goodfellow_ (1870) LR 5 QB 549 and _Biggins v Biggins_ [2000] All ER(D) 92, the Judge summarised the legal principles applicable to the issues as follows: 
 
  (a) The propounder of a will bears the legal burden of proving testamentary capacity but testamentary capacity will generally be presumed when the testator was not suffering from any kind of mental disability and the will was duly executed in ordinary circumstances. 
 
@@ -319,7 +319,7 @@ circumstances” need not be restricted to those relating to the preparation and
 
 53     In relation to the submission at [47(b)], the respondents argued that notwithstanding that they had not filed a cross-appeal against the Judge’s findings on these three issues, they were entitled raise them under O 57 r 9A(5) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed). 
 
-54     In response to this argument, the appellant submitted that the respondents were barred from raising issues on which they had not filed cross-appeals, citing the decisions of this Court in _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ [2010] 4 SLR 331 (“ _Peter Lim_ ”) which has since been followed by this Court in _Chiam Heng Hsien (on his own behalf and as partner of Mitre Hotel Proprietors) v Chiam Heng Chow (executor of the estate of Chiam Toh Say, deceased) and others_ [2015] 4 SLR 180 (“ _Mitre Hotel_ ”). 
+54     In response to this argument, the appellant submitted that the respondents were barred from raising issues on which they had not filed cross-appeals, citing the decisions of this Court in _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ <span class="citation">[2010] 4 SLR 331</span> (“ _Peter Lim_ ”) which has since been followed by this Court in _Chiam Heng Hsien (on his own behalf and as partner of Mitre Hotel Proprietors) v Chiam Heng Chow (executor of the estate of Chiam Toh Say, deceased) and others_ <span class="citation">[2015] 4 SLR 180</span> (“ _Mitre Hotel_ ”). 
 
 55     The two issues which this Court had to determine were : 
 
@@ -338,7 +338,7 @@ those findings.
 
 **_Issue (b)_** 
 
-57     With respect to Issue (b), the appellant’s case was that the Judge’s decision on Issue (3) was wrong in so far as it was based on suspicious circumstances that were not related to the preparation and/or execution of a will (“non-related circumstances”). It was argued that the established law in Singapore was that laid down by this Court in _R Mahendran and another v R Arumuganathan_ [1999] 2 SLR(R) 166 (“ _Mahendran_ ”) which held that only related circumstances could be taken into account in determining whether a testator knows and approves the contents of a will he or she has signed. 
+57     With respect to Issue (b), the appellant’s case was that the Judge’s decision on Issue (3) was wrong in so far as it was based on suspicious circumstances that were not related to the preparation and/or execution of a will (“non-related circumstances”). It was argued that the established law in Singapore was that laid down by this Court in _R Mahendran and another v R Arumuganathan_ <span class="citation">[1999] 2 SLR(R) 166</span> (“ _Mahendran_ ”) which held that only related circumstances could be taken into account in determining whether a testator knows and approves the contents of a will he or she has signed. 
 
 58     The appellant cited _W Scott Fulton, Isabella D Fulton and Margaret Fulton v Charles Batty Andrew and Thomas Wilson_ (1874–1875) LR 7 HL 448 at 471 where the House of Lords held that the circumstances to be considered included only those “attending, or are at least relevant to, the preparation and execution of the will itself”. Similarly, in _Mahendran_ , this court at [15] approved a statement in Clark & Martyn, _Theobald on Wills_ (Sweet & Maxwell, 15th Ed, 2001).that circumstances could only raise a suspicion of want of knowledge and approval if they were “circumstances attending, or at least relevant to, the preparation and execution of the will itself.” , that is to say, that any circumstance which had nothing to do with the preparation and execution of the will were to be disregarded. The appellant argued that in so far as this Court stated in _Muriel Chee_ that nonrelated suspicious circumstances were relevant, the statement was obiter and should be overruled. 
 

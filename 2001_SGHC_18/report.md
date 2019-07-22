@@ -537,7 +537,7 @@ _Did Ong use Chu's and Ching's accounts to trade and was it done with the knowle
 
 An affirmative answer to the above question means that neither defendant would be held liable to the plaintiffs. 
 
-58\. Before a finding can be made, it is necessary to look at the relevant clauses in the plaintiffs' application form for the opening of accounts (the form) and the bye-laws of the SES, upon which the plaintiffs base their claims. The defendants on their part relied on the 'know your client' rule (as described by the Chief Justice in _Choo Pit Hong v PP_ [1995] 2 SLR 255) encompassed in Bye-Law 111 cl 7(c). I start with cll 3 and 5 of the plaintiffs' form which state as follows: 
+58\. Before a finding can be made, it is necessary to look at the relevant clauses in the plaintiffs' application form for the opening of accounts (the form) and the bye-laws of the SES, upon which the plaintiffs base their claims. The defendants on their part relied on the 'know your client' rule (as described by the Chief Justice in _Choo Pit Hong v PP_ <span class="citation">[1995] 2 SLR 255</span>) encompassed in Bye-Law 111 cl 7(c). I start with cll 3 and 5 of the plaintiffs' form which state as follows: 
 
 ## 3. I agree to abide by any condition the Company may impose from time to time 
 
@@ -891,7 +891,7 @@ An affirmative answer to the above question means that neither defendant would b
 
 ## namely Ong & Co Pte Ltd v Foo Sae Heng [1990] SLR 186 and RHB-Cathay Securities Pte Ltd v 
 
-## Ibrahim Khan [1999] 3 SLR 464 have no application, being far removed in their factual matrix. I should 
+## Ibrahim Khan <span class="citation">[1999] 3 SLR 464</span> have no application, being far removed in their factual matrix. I should 
 
 ## add that Ong & Co v Foo Sae Heng was a decision which arose out of a Registrars' Appeal on an O 14 
 
@@ -905,7 +905,7 @@ An affirmative answer to the above question means that neither defendant would b
 
 ## The factual matrix in the third case cited by the plaintiffs was also very different. In Tat Lee 
 
-## Securities Pte Ltd v Tsang Tsang Kwong & Anor [2000] 1 SLR 1, the defendants gave their remisier a 
+## Securities Pte Ltd v Tsang Tsang Kwong & Anor <span class="citation">[2000] 1 SLR 1</span>, the defendants gave their remisier a 
 
 ## letter of authority to collect their share scrips from the plaintiffs for the transactions executed on 
 

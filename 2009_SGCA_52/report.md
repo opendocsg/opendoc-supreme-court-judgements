@@ -24,7 +24,7 @@ _Tort_
 
 **Introduction** 
 
-1       This is an appeal by Goh Suan Hee (the defendant in DC Suit No 1070 of 2008/W (“DC Suit 1070”)) against the decision of the judge below (“the Judge”) in _Teo Cher Teck v Goh Suan Hee_ [2009] 1 SLR 749 (“the Judgment”), who reversed the decision of the District Judge (“the DJ”) which ordered a stay of the respondent’s (the plaintiff in DC Suit 1070) action on the ground of _forum non conveniens_. We heard and dismissed the appeal on 18 May 2009. We now give the reasons for our decision. 
+1       This is an appeal by Goh Suan Hee (the defendant in DC Suit No 1070 of 2008/W (“DC Suit 1070”)) against the decision of the judge below (“the Judge”) in _Teo Cher Teck v Goh Suan Hee_ <span class="citation">[2009] 1 SLR 749</span> (“the Judgment”), who reversed the decision of the District Judge (“the DJ”) which ordered a stay of the respondent’s (the plaintiff in DC Suit 1070) action on the ground of _forum non conveniens_. We heard and dismissed the appeal on 18 May 2009. We now give the reasons for our decision. 
 
 **The Background** 
 
@@ -57,16 +57,16 @@ _Tort_
 
 **_General principles on the doctrine of forum non conveniens_** 
 
-6       In deciding whether to stay an action on the basis of _forum non conveniens_ , the question the court will always have to bear in mind is which forum meets the ends of justice. This was emphasised in _Murakami Takako (executrix of the estate of Takashi Murakami Suroso, deceased) v Wiryadi Louise Maria_ [2007] 4 SLR 565 (“ _Murakami_ ”) at [49]: 
+6       In deciding whether to stay an action on the basis of _forum non conveniens_ , the question the court will always have to bear in mind is which forum meets the ends of justice. This was emphasised in _Murakami Takako (executrix of the estate of Takashi Murakami Suroso, deceased) v Wiryadi Louise Maria_ <span class="citation">[2007] 4 SLR 565</span> (“ _Murakami_ ”) at [49]: 
 
  In our view, the relevant test as to which is the more suitable jurisdiction is really a simple and commonsensical one – namely, which is the forum that meets the ends of justice, having regard to the interests of the parties... 
 
-7       It is beyond question that the principles in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _Spiliada_ ”) apply as well (see _Rickshaw Investments Ltd v Nicolai Baron von Uexkull_ [2007] 1 SLR 377 (“ _Rickshaw_ ”) at [12]). The _Spiliada_ principles were summarised in _Rickshaw_ (at [14]) as follows: 
+7       It is beyond question that the principles in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _Spiliada_ ”) apply as well (see _Rickshaw Investments Ltd v Nicolai Baron von Uexkull_ <span class="citation">[2007] 1 SLR 377</span> (“ _Rickshaw_ ”) at [12]). The _Spiliada_ principles were summarised in _Rickshaw_ (at [14]) as follows: 
 
  Under Spiliada , the first issue that must be determined is whether, prima facie , there is some other available forum which is more appropriate for the case to be tried (“Stage One”). At this stage, the legal burden is on the defendant. If the court concludes that there is a more appropriate forum, the court will ordinarily grant a stay unless there are circumstances by reason of which justice requires that a stay should nonetheless not be granted (“Stage Two”). 
 
 
-8       At this first stage of the analysis (“Stage One”), the relevant factors are, _inter alia_ , the general connecting factors, the choice of law and the jurisdiction in which the tort had occurred (see _Rickshaw_ at [15]). The process at Stage One is not a mechanical one and as V K Rajah J explained in _Peters Roger May v Pinder Lillian Gek Lian_ [2006] 2 SLR 381 (“ _Pinder Lillian_ ”) at [20]: 
+8       At this first stage of the analysis (“Stage One”), the relevant factors are, _inter alia_ , the general connecting factors, the choice of law and the jurisdiction in which the tort had occurred (see _Rickshaw_ at [15]). The process at Stage One is not a mechanical one and as V K Rajah J explained in _Peters Roger May v Pinder Lillian Gek Lian_ <span class="citation">[2006] 2 SLR 381</span> (“ _Pinder Lillian_ ”) at [20]: 
 
  A court has to take into account an entire multitude of factors in balancing the competing interests. The weightage accorded to a particular factor varies in different cases and the ultimate appraisal ought to reflect the exigencies dictated by the factual matrix. Copious citations of precedents and dicta are usually of little assistance and may in reality serve to cloud rather than elucidate the applicable principles. 
 
@@ -93,7 +93,7 @@ the appellant that _Chaplin_ can and should be distinguished from the present ca
 
 The unique facts in _Chaplin_ , namely that both the parties were British subjects temporarily serving in Malta, were such that in the choice of law analysis it would have been proper to apply English law. This is not the case here. The appellant is Malaysian while the respondent is Singaporean. There are no special facts which would militate against the application of the _lex loci delicti_. As such, the _lex loci delicti_ which is Malaysian law would apply as the _lex causae_. 
 
-13     On the face of it, this choice of law factor would suggest that Malaysia is the more appropriate forum. However, we note that the law relating to negligence on the roads in Malaysia and Singapore is essentially the same ( _Ismail bin Sukardi v Kamal bin Ikhwan_ [2008] SGHC 191 (“ _Ismail_ ”) at [23]). The parties agree that the primary difference in the law lies only in the quantification of damages (and more shall be said about this later at [14]–[25]). Thus, as far as liability is concerned, in the light of the similarity of the contents of the laws of both jurisdictions, being based on common law principles of reasonable care, this choice of law factor is, in our view, a neutral one. 
+13     On the face of it, this choice of law factor would suggest that Malaysia is the more appropriate forum. However, we note that the law relating to negligence on the roads in Malaysia and Singapore is essentially the same ( _Ismail bin Sukardi v Kamal bin Ikhwan_ <span class="citation">[2008] SGHC 191</span> (“ _Ismail_ ”) at [23]). The parties agree that the primary difference in the law lies only in the quantification of damages (and more shall be said about this later at [14]–[25]). Thus, as far as liability is concerned, in the light of the similarity of the contents of the laws of both jurisdictions, being based on common law principles of reasonable care, this choice of law factor is, in our view, a neutral one. 
 
 **_The quantification of damages_** 
 
@@ -164,7 +164,7 @@ We see one uncertainty in the passage of _Cheshire, North & Fawcett Private Inte
 
 While it may be right that if one had to choose between inconveniencing a tortfeasor and an aggrieved party, it would be better not to further inconvenience the latter, this would mean that the court would be required to characterise one party as the _innocent_ victim and the other as the _blameworthy_ tortfeasor. This exercise in which the strength of the claim and defence has to be evaluated requires one to examine the merits of the case. This opens up a Pandora’s box because, without the benefit of a full trial, parties can argue about the strengths of their respective claims without having to actually prove it. Indeed, the parties in the present case have yet to resolve the issue of liability. 
 
-27     In our opinion, the reference to the strength of the parties’ respective cases is unnecessary and unhelpful to the application of the _Spiliada_ test. Questions pertaining to the merits of the case ought not to be considered at this stage where the court is faced with a question of jurisdiction. The very purpose of the trial is to decide liability, the quantum of damages to be awarded and other substantive issues. It would confuse matters to have the court look into the merits of a case at a stage where the court is faced with the question of determining the appropriate forum. In this connection, this court had said previously in _The Rainbow Joy_ [2005] 3 SLR 719 at [27] that: 
+27     In our opinion, the reference to the strength of the parties’ respective cases is unnecessary and unhelpful to the application of the _Spiliada_ test. Questions pertaining to the merits of the case ought not to be considered at this stage where the court is faced with a question of jurisdiction. The very purpose of the trial is to decide liability, the quantum of damages to be awarded and other substantive issues. It would confuse matters to have the court look into the merits of a case at a stage where the court is faced with the question of determining the appropriate forum. In this connection, this court had said previously in _The Rainbow Joy_ <span class="citation">[2005] 3 SLR 719</span> at [27] that: 
 
  [i]n weighing the balance of convenience under the doctrine of forum non conveniens , the issue of whether there is a defence to the claim is not a relevant consideration as the court should not be required to go into the merits. 
 

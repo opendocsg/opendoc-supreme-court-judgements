@@ -16,7 +16,7 @@
 
 _Family Law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 102 of 2010 was dismissed by the Court of Appeal on 29 November 2011. See [2012] SGCA 30.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 102 of 2010 was dismissed by the Court of Appeal on 29 November 2011. See <span class="citation">[2012] SGCA 30</span>.] 
 
 26 January 2011 
 
@@ -28,7 +28,7 @@ _Family Law_
 
 **Extension of time** 
 
-2       The respondent had a preliminary objection to this application as it was not filed within the 6month time limit from the date of grant of probate (“the grant”) as provided in s 4(1) of the Act, which is the position taken by the English authorities. However in _Soh Siew Yoke v Ching Kwong Yew & ors_ [1991] SGHC 37, Chua J took the position that time runs only from extraction of the grant rather than the date of the grant. Adopting that position, the application would have been made within time. However, even if this position were wrong (as I am inclined to hold), I was satisfied that the circumstances justified an extension of time under s 4(2) of the Act and granted an extension of time to the applicant. 
+2       The respondent had a preliminary objection to this application as it was not filed within the 6month time limit from the date of grant of probate (“the grant”) as provided in s 4(1) of the Act, which is the position taken by the English authorities. However in _Soh Siew Yoke v Ching Kwong Yew & ors_ <span class="citation">[1991] SGHC 37</span>, Chua J took the position that time runs only from extraction of the grant rather than the date of the grant. Adopting that position, the application would have been made within time. However, even if this position were wrong (as I am inclined to hold), I was satisfied that the circumstances justified an extension of time under s 4(2) of the Act and granted an extension of time to the applicant. 
 
 **The facts** 
 
@@ -87,7 +87,7 @@ or in any case, his or her earlier death.
 
  [emphasis added] 
 
-6       In considering an application under s 3(1) of the Act, the court takes into account the provisions made by the testator for the applicant during his lifetime, see _Jeanne Christine Monteiro v Ling Mie Hean & Anor_ [1997] SGHC 296, where Choo JC had stated at [9]: 
+6       In considering an application under s 3(1) of the Act, the court takes into account the provisions made by the testator for the applicant during his lifetime, see _Jeanne Christine Monteiro v Ling Mie Hean & Anor_ <span class="citation">[1997] SGHC 296</span>, where Choo JC had stated at [9]: 
 
  ... In construing whether the testator had made a disposition of his estate without making reasonable provisions for persons entitled to such provisions under s 3 of the Act, the court is entitled, and indeed, ought to consider any inter vivos gift by the testator to such applicants. If a testator had made adequate inter vivos provisions for the persons entitled under s 3(1), the court should not interfere with his right to determine who should have the benefit of his estate. ... 
 

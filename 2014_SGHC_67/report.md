@@ -92,7 +92,7 @@ I shall address each issue in turn.
 
 **_The applicable standard of proof_** 
 
-14     The standard for setting aside a statutory demand is the same as that for resisting an application for summary judgment under O 14 of the Rules of Court (Cap 322, R5, 2006 Rev Ed). If there are, in the words of the court in _Tan Eng Joo v United Overseas Bank Ltd_ [2010] 2 SLR 703 at [3], “triable issues to go to trial”, the statutory demand should be set aside. The role of the court has been clearly defined in _Wong Kwei Cheong v ABN-AMRO Bank NV_ [2002] 2 SLR(R) 31 at [3]: 
+14     The standard for setting aside a statutory demand is the same as that for resisting an application for summary judgment under O 14 of the Rules of Court (Cap 322, R5, 2006 Rev Ed). If there are, in the words of the court in _Tan Eng Joo v United Overseas Bank Ltd_ <span class="citation">[2010] 2 SLR 703</span> at [3], “triable issues to go to trial”, the statutory demand should be set aside. The role of the court has been clearly defined in _Wong Kwei Cheong v ABN-AMRO Bank NV_ <span class="citation">[2002] 2 SLR(R) 31</span> at [3]: 
 
  ... It is not the function of the bankruptcy court, at the hearing of an application to set aside a statutory demand, to conduct a full hearing of the dispute and adjudicate on the merits of the creditor’s claim. That would be the function of the court in its non-bankruptcy jurisdiction should the creditor institute proceedings against the debtor to obtain judgment on the claim contained in the statutory demand. 
 
@@ -107,11 +107,11 @@ I shall address each issue in turn.
 17     Norb’s argument on this issue is that “in consideration of the Guarantee, [Norb] had continued 
 
 
-to provide goods and services to Adlogic”. [note: 14] If I understood Norb’s argument correctly, Norb is submitting that its consideration was a _promise_ to continue supply. Norb referred the court to a number of cases where similar provisions were construed to mean that valid consideration had been provided by the creditor by _promising_ something. In _Overseas Union Bank v Lew Keh Lam_ [1998] 3 SLR(R) 219 at [28], the guarantee in question had the pertinent words: 
+to provide goods and services to Adlogic”. [note: 14] If I understood Norb’s argument correctly, Norb is submitting that its consideration was a _promise_ to continue supply. Norb referred the court to a number of cases where similar provisions were construed to mean that valid consideration had been provided by the creditor by _promising_ something. In _Overseas Union Bank v Lew Keh Lam_ <span class="citation">[1998] 3 SLR(R) 219</span> at [28], the guarantee in question had the pertinent words: 
 
  In consideration of your agreeing at my/our request to make or to continue to make advances or loans or otherwise give credit or other banking facilities or grant any time to or on account of [the company]. 
 
-The court held (at [29]) that the consideration was the bank’s promise to “make or to continue to make advances or loans or otherwise give credit or other banking facilities”. In another case, _Empire International Holdings Ltd v Mok Kwong Yue and another_ [2004] 4 SLR(R) 820 at [10], the preamble to the guarantee provided that the guarantee was given: 
+The court held (at [29]) that the consideration was the bank’s promise to “make or to continue to make advances or loans or otherwise give credit or other banking facilities”. In another case, _Empire International Holdings Ltd v Mok Kwong Yue and another_ <span class="citation">[2004] 4 SLR(R) 820</span> at [10], the preamble to the guarantee provided that the guarantee was given: 
 
  In consideration of Empire agreeing to grant, granting and/or continuing to grant loans or advances and/or otherwise giving or continuing to give credit or other facilities ... and/or providing any other services or facilities from time to time to such extent and for so long as Empire may think fit to ... Subba Mok LLC ... 
 

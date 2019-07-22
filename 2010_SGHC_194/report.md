@@ -74,7 +74,7 @@ Ting told Ross that his budget for 2006 had been exceeded due to the sharp incre
 
  (b) an “implied” representation by the principal in putting the agent in a specific position which carries with it a usual authority to undertake the acts in question (“artificial apparent authority”). 
 
-See _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another suit_ [2009] 4 SLR(R) 788 at [77], citing _Bowstead and Reynolds on Agency_ (Sweet & Maxwell, 18th Ed, 2006) at para 8-018. 
+See _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another suit_ <span class="citation">[2009] 4 SLR(R) 788</span> at [77], citing _Bowstead and Reynolds on Agency_ (Sweet & Maxwell, 18th Ed, 2006) at para 8-018. 
 
 15     There was no evidence that Ting had genuine apparent authority. Whatever representation to Ross that Ting had authority emanated from Ting and not from any other person representing the defendant. The course of dealings between Ting and the plaintiff pertained only to purchase of raw material, and there had never been any contract for loan prior to the one in question. 
 

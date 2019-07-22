@@ -16,7 +16,7 @@
 
 _Intellectual Property_ – _Patents_ – _Infringement_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2017] 3 SLR 771.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2017] 3 SLR 771</span>.] 
 
 5 January 2018 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Intellectual Property_ – _Patents_ – _Infringement_
 
 1       The Respondent was granted a patent (the “Patent”) by the Singapore Registry of Patents in 
 
-1999\. The Respondent commenced infringement proceedings against the Appellant in the High Court and succeeded in its claim. This is the appeal against the High Court’s decision allowing the Respondent’s claim against the Appellant (which was the first defendant in the High Court) for infringement of the Patent and dismissing the Appellant’s counterclaim against the Respondent for making groundless threats of infringement. The Respondent’s claim against the Appellant’s parent company (the second defendant at the trial) was dismissed and that defendant is not involved in the appeal before us. The judgment (the “Judgment”) of the High Court Judge (the “Judge”) is reported at _Towa Corp v ASM Technology Singapore Pte Ltd and another_ [2017] 3 SLR 771. 
+1999\. The Respondent commenced infringement proceedings against the Appellant in the High Court and succeeded in its claim. This is the appeal against the High Court’s decision allowing the Respondent’s claim against the Appellant (which was the first defendant in the High Court) for infringement of the Patent and dismissing the Appellant’s counterclaim against the Respondent for making groundless threats of infringement. The Respondent’s claim against the Appellant’s parent company (the second defendant at the trial) was dismissed and that defendant is not involved in the appeal before us. The judgment (the “Judgment”) of the High Court Judge (the “Judge”) is reported at _Towa Corp v ASM Technology Singapore Pte Ltd and another_ <span class="citation">[2017] 3 SLR 771</span>. 
 
 2       The trial was a bifurcated one. The Judgment and this appeal relate to the issue of liability only. 
 
@@ -243,7 +243,7 @@ questions to be determined in this appeal: [note: 11]
 
  113 .—(1) For the purposes of this Act, an invention for a patent for which an application has been made or for which a patent has been granted shall, unless the context otherwise requires, be taken to be that specified in a claim of the specification of the application or patent, as the case may be, as interpretated by the description and any drawings contained in that specification, and the extent of the protection conferred by a patent or application for a patent shall be determined accordingly. 
 
-35     In construing a patent specification, the claims themselves are the principal determinants. The description and other parts of the specification may assist in the construction but cannot be used to alter the plain meaning of the claims ( _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd_ [2008] 1 SLR(R) 335 at [23]–[24]). Subject to this, a patent specification “should be given a purposive construction rather than a purely literal one derived from applying to it the kind of meticulous verbal analysis in which lawyers are too often tempted by their training to indulge” ( _Bean Innovations Pte Ltd v Flexon (Pte) Ltd_ [2001] 2 SLR(R) 116 (“ _Bean Innovations_ ”) at [62] citing _Catnic Components Limited v Hill & Smith Limited_ [1982] RPC 183 at 243). Such an approach “balances the rights of the patentee and those of third parties” by “combin[ing] a fair protection for the patentee with a reasonable degree of certainty for third parties” ( _FE Global Electronics Pte Ltd and others v Trek Technology (Singapore) Pte Ltd and another appeal_ [2006] 1 SLR(R) 874 (“ _FE Global_ ”) at [14]). 
+35     In construing a patent specification, the claims themselves are the principal determinants. The description and other parts of the specification may assist in the construction but cannot be used to alter the plain meaning of the claims ( _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd_ <span class="citation">[2008] 1 SLR(R) 335</span> at [23]–[24]). Subject to this, a patent specification “should be given a purposive construction rather than a purely literal one derived from applying to it the kind of meticulous verbal analysis in which lawyers are too often tempted by their training to indulge” ( _Bean Innovations Pte Ltd v Flexon (Pte) Ltd_ <span class="citation">[2001] 2 SLR(R) 116</span> (“ _Bean Innovations_ ”) at [62] citing _Catnic Components Limited v Hill & Smith Limited_ [1982] RPC 183 at 243). Such an approach “balances the rights of the patentee and those of third parties” by “combin[ing] a fair protection for the patentee with a reasonable degree of certainty for third parties” ( _FE Global Electronics Pte Ltd and others v Trek Technology (Singapore) Pte Ltd and another appeal_ <span class="citation">[2006] 1 SLR(R) 874</span> (“ _FE Global_ ”) at [14]). 
 
 36     The Appellant contended in its written submissions that the Judge erred in his interpretation of the Patent in three ways: 
 
@@ -412,10 +412,10 @@ skilled in the art of the Patent would possess” and gave few, if any, reasons 
 
 **_Novelty_** 
 
-59     The requirement of novelty is prescribed by s 13(1)(a) of the Patents Act. An invention is novel if it does not form part of the state of the art (s 14(1) of the Patents Act) in that it has not been anticipated by any of the pieces of prior art (Ng-Loy Wee Loon, _Law of Intellectual Property of Singapore_ (Sweet & Maxwell, 2nd Ed, 2014) at para 30.1.25). A piece of prior art anticipates an invention only if the directions therein are so clear that a skilled addressee following those directions must inevitably produce something that would, if the patentee’s patent were valid, infringe the patentee’s claim ( _Mühlbauer AG v Manufacturing Integration Technology Ltd_ [2010] 2 SLR 724 (“ _Mühlbauer_ ”) at [17]). Each piece of prior art can be compared against the invention in the Patent 
+59     The requirement of novelty is prescribed by s 13(1)(a) of the Patents Act. An invention is novel if it does not form part of the state of the art (s 14(1) of the Patents Act) in that it has not been anticipated by any of the pieces of prior art (Ng-Loy Wee Loon, _Law of Intellectual Property of Singapore_ (Sweet & Maxwell, 2nd Ed, 2014) at para 30.1.25). A piece of prior art anticipates an invention only if the directions therein are so clear that a skilled addressee following those directions must inevitably produce something that would, if the patentee’s patent were valid, infringe the patentee’s claim ( _Mühlbauer AG v Manufacturing Integration Technology Ltd_ <span class="citation">[2010] 2 SLR 724</span> (“ _Mühlbauer_ ”) at [17]). Each piece of prior art can be compared against the invention in the Patent 
 
 
-only separately. The party resisting the patent cannot assemble all the pieces of prior art together in a “mosaic” and then compare the invention in question against the “mosaic” ( _Mühlbauer_ at [68]). The burden of proving anticipation rests on the party resisting a patent claim ( _Main-Line Corporate Holdings Ltd v United Overseas Bank Ltd_ [2007] 1 SLR(R) 1021 at [53]). 
+only separately. The party resisting the patent cannot assemble all the pieces of prior art together in a “mosaic” and then compare the invention in question against the “mosaic” ( _Mühlbauer_ at [68]). The burden of proving anticipation rests on the party resisting a patent claim ( _Main-Line Corporate Holdings Ltd v United Overseas Bank Ltd_ <span class="citation">[2007] 1 SLR(R) 1021</span> at [53]). 
 
 60     It is undisputed that there were only three pieces of prior art as at the Priority Date that were 
 

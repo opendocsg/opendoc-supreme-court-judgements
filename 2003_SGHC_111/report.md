@@ -225,7 +225,7 @@ the sale proceeds to setoff what it is owed under the related Trust Receipt. Shw
 
 _(ii) Conversion_ 
 
-54     In order to succeed in conversion, BNP must be able to show its entitlement to possession or delivery as at the time of the conversion. What this means is that BNP must establish that on the various dates, namely 1 May 2000 and 16 June 2000, the bank was in possession of the relevant bills of lading. The Court of Appeal in _The Cherry_ [2003] 1 SLR 471 affirmed this principle overruling the Judge below who held that the right to sue in conversion may be transferred to the claimant from a previous holder of that antecedent right. 
+54     In order to succeed in conversion, BNP must be able to show its entitlement to possession or delivery as at the time of the conversion. What this means is that BNP must establish that on the various dates, namely 1 May 2000 and 16 June 2000, the bank was in possession of the relevant bills of lading. The Court of Appeal in _The Cherry_ <span class="citation">[2003] 1 SLR 471</span> affirmed this principle overruling the Judge below who held that the right to sue in conversion may be transferred to the claimant from a previous holder of that antecedent right. 
 
 55     On the evidence, as at those dates, BNP was holder of the two switch bills that were indorsed before delivery on 14 June 2000. For the rest of the other 36 bills, the cargo was discharged before the pledge was created or before BNP became holder of the bills of lading. BNP therefore can sue in conversion for only two bills, namely SIN(BTM)KAN 25 and SIN(BTM)KAN 26. 
 
@@ -271,7 +271,7 @@ _(ii) Conversion_
 
  “The purpose of the clause was to ensure that the defendants would discharge the cargo even if the bill of lading was not available for presentation, but on terms that they would be protected by a letter of indemnity. It thus contemplated that they would be liable to the holder of the bill of lading if they delivered otherwise than in return for an original bill of lading.” [p274] 
 
-68     Choo Han Teck JC (as he then was) in _The Nordic Freedom_ [2001] 1 SLR 232 considered a clause similar to Clause 16 and came to the same conclusion. 
+68     Choo Han Teck JC (as he then was) in _The Nordic Freedom_ <span class="citation">[2001] 1 SLR 232</span> considered a clause similar to Clause 16 and came to the same conclusion. 
 
 69     Accordingly, Clause 16 and its incorporation in the bills of lading cannot on a proper 
 

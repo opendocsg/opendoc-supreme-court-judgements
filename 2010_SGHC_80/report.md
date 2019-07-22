@@ -136,7 +136,7 @@ $610,506.06 from Front Row for the sums invoiced as Buehler’s salary under the
 
 **_The issues_** 
 
-20     In order to establish that a breach of natural justice had occurred such that the Award may be set aside, Front Row had to satisfy the test set out by Choo Han Teck J in _John Holland Pty Ltd v Toyo Engineering Corp (Japan)_ [2001] 1 SLR(R) 443 and affirmed by the Court of Appeal in _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ [2007] 3 SLR(R) 86 (“ _Soh Beng Tee_ ”). At [29] of _Soh Beng Tee_ , the Court of Appeal said: 
+20     In order to establish that a breach of natural justice had occurred such that the Award may be set aside, Front Row had to satisfy the test set out by Choo Han Teck J in _John Holland Pty Ltd v Toyo Engineering Corp (Japan)_ <span class="citation">[2001] 1 SLR(R) 443</span> and affirmed by the Court of Appeal in _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ <span class="citation">[2007] 3 SLR(R) 86</span> (“ _Soh Beng Tee_ ”). At [29] of _Soh Beng Tee_ , the Court of Appeal said: 
 
 
  a. 
@@ -145,7 +145,7 @@ $610,506.06 from Front Row for the sums invoiced as Buehler’s salary under the
 
  c. 
 
- It has been rightly held in John Holland Pty Ltd v Toyo Engineering Corp (Japan) [2001] 1 SLR(R) 443 (‘ John Holland ’), at [18], that a party challenging an arbitration award as having contravened the rules of natural justice must establish: (a) which rule of natural justice was breached; (b) how it was breached; (c) in what way the breach was connected to the making of the award; and (d) how the breach prejudiced its rights. ... [emphasis added in bold italics] 
+ It has been rightly held in John Holland Pty Ltd v Toyo Engineering Corp (Japan) <span class="citation">[2001] 1 SLR(R) 443</span> (‘ John Holland ’), at [18], that a party challenging an arbitration award as having contravened the rules of natural justice must establish: (a) which rule of natural justice was breached; (b) how it was breached; (c) in what way the breach was connected to the making of the award; and (d) how the breach prejudiced its rights. ... [emphasis added in bold italics] 
 
 21     In summary, the outcome of Front Row’s application turned on five issues: 
 
@@ -331,13 +331,13 @@ There are two fundamental principles of natural justice. These are reflected in 
 
  [emphasis in original in italics; emphasis added in bold italics] 
 
-31     In _Pacific Recreation Pte Ltd v SY Technology Inc_ [2008] 2 SLR(R) 491, the Court of Appeal held that a court or tribunal would be in breach of natural justice if it decided a case on a basis not raised or contemplated by the parties, since the affected party would have been deprived of its opportunity to be heard or to address the issues upon which the case was decided: at [30]. The corollary is plainly also true – that a court or tribunal will be in breach of natural justice if in the course of reaching its decision, it disregarded the submissions and arguments made by the parties on the issues (without considering the merits thereof). Otherwise, the requirement to comply with the maxim _audi alteram partem_ would be hollow and futile, satisfied by the mere formality of allowing a party to say whatever it wanted without the tribunal having to address or even understand and consider whatever had been said. 
+31     In _Pacific Recreation Pte Ltd v SY Technology Inc_ <span class="citation">[2008] 2 SLR(R) 491</span>, the Court of Appeal held that a court or tribunal would be in breach of natural justice if it decided a case on a basis not raised or contemplated by the parties, since the affected party would have been deprived of its opportunity to be heard or to address the issues upon which the case was decided: at [30]. The corollary is plainly also true – that a court or tribunal will be in breach of natural justice if in the course of reaching its decision, it disregarded the submissions and arguments made by the parties on the issues (without considering the merits thereof). Otherwise, the requirement to comply with the maxim _audi alteram partem_ would be hollow and futile, satisfied by the mere formality of allowing a party to say whatever it wanted without the tribunal having to address or even understand and consider whatever had been said. 
 
 32     As the Court of Appeal noted in _Soh Beng Tee_ ([20] _supra_ ) at [65(a)]: 
 
  Parties to arbitration have, in general, a right to be heard effectively on every issue that may be relevant to the resolution of a dispute. ... 
 
-33     This principle is reflected in the decision of the High Court in _Koh Bros Building and Civil Engineering Contractor Pte Ltd v Scotts Development (Saraca) Pte Ltd_ [2002] 2 SLR(R) 1063 at [47], namely, that the basic duty of an arbitrator is to listen to both sides of the argument and give each side an opportunity to submit on all relevant points. 
+33     This principle is reflected in the decision of the High Court in _Koh Bros Building and Civil Engineering Contractor Pte Ltd v Scotts Development (Saraca) Pte Ltd_ <span class="citation">[2002] 2 SLR(R) 1063</span> at [47], namely, that the basic duty of an arbitrator is to listen to both sides of the argument and give each side an opportunity to submit on all relevant points. 
 
 34     In that case, the applicant contractors had applied to the arbitrator for an interim award of the sum claimed. The developers objected on the ground of _res judicata_ and the arbitrator agreed to hear their preliminary objections on that ground to the application for an interim award. At the hearing, the developer’s counsel objected additionally to the application for an interim award on the basis that the matter was not an appropriate one for summary disposal. Counsel for the contractors quite rightly did not address the additional ground at the hearing but focussed on the issue of _res judicata_ since that had been the only issue for which the hearing had been convened. However, the arbitrator evidently agreed with the submissions of the developer’s counsel on the latter ground for, after the hearing, the arbitrator wrote to the parties to notify them that he did not consider it appropriate to hear the application for an interim award. The contractor filed a motion to remove the arbitrator on the basis of his misconduct pursuant to s 17(1) of the Arbitration Act (Cap 10, 1985 Ed) (since repealed). 
 
@@ -445,7 +445,7 @@ That this cannot be right is demonstrated by a line of Australian cases in which
 
  [emphasis added] 
 
-44     All three Australian cases were recently considered by Prakash J in _SEF Construction Pte Ltd v Skoy Connected Pte Ltd_ [2009] SGHC 257 (“ _SEF Construction_ ”). In _SEF Construction_ , the defendant, Skoy, sought payment from the plaintiff, SEF, under a building contract by bringing an adjudication application under the Building and Construction Industry Security of Payment Act (Cap 30B, 2006 Rev Ed) (“the SOP Act”). The adjudicator determined that SEF was to pay Skoy a certain sum of money. 
+44     All three Australian cases were recently considered by Prakash J in _SEF Construction Pte Ltd v Skoy Connected Pte Ltd_ <span class="citation">[2009] SGHC 257</span> (“ _SEF Construction_ ”). In _SEF Construction_ , the defendant, Skoy, sought payment from the plaintiff, SEF, under a building contract by bringing an adjudication application under the Building and Construction Industry Security of Payment Act (Cap 30B, 2006 Rev Ed) (“the SOP Act”). The adjudicator determined that SEF was to pay Skoy a certain sum of money. 
 
 
 SEF sought to set aside this adjudication determination. It contended that although it had relied on four grounds to contend that Skoy’s adjudication application was invalid, the adjudicator had only dealt with two of those four grounds in giving his reasons for his determination. SEF therefore argued, first, (at [28] and [33]) that the adjudicator’s failure to consider duly made submissions amounted to a breach of his duty to consider the same in good faith under s 17(3) of the SOP Act; and second, (at [31] and [48]) that in line with _Timwin, Lanskey_ and _Trysams_ , the adjudicator’s failure to deal with the two issues amounted to a failure to exercise his powers under the SOP Act in good faith and constituted a breach of his duty to comply with the rules of natural justice as prescribed by s 16(3) (c) of the SOP Act. Prakash J found that it would be superfluous to import a duty to act in good faith from administrative law as s 16(3) of the SOP Act was clear about the manner in which the adjudicator had to conduct the arbitration, mandating that he acted independently, impartially and in a timely fashion. Nevertheless, she also said at [58] that: “[w]hat the Australians say in regard to good faith can be applied to the requirements of natural justice as well”. Prakash J then turned to the question whether the adjudicator had breached the rules of natural justice. On the facts, she found that in arriving at his decision, the adjudicator did have regard to the respective submissions and material before him, even though he had omitted to state explicitly his reasons for rejecting the same. Accordingly, there was no breach of natural justice. The following passages from _SEF Construction_ are instructive: 
@@ -473,7 +473,7 @@ SEF sought to set aside this adjudication determination. It contended that altho
 
 47     Not only was I convinced that the Arbitrator’s failure to consider the Representation amounted to a breach of natural justice, I was also convinced that this breach was causally linked to his decision to dismiss Front Row’s counterclaim, thereby prejudicing Front Row’s rights. 
 
-48     In _Soh Beng Tee_ ([20] _supra_ ), applied by the High Court in subsequent cases such as _Dongwoo Mann+Hummel Co Ltd v Mann+Hummel GmbH_ [2008] 3 SLR(R) 871 (“ _Dongwoo_ ”), the Court of Appeal 
+48     In _Soh Beng Tee_ ([20] _supra_ ), applied by the High Court in subsequent cases such as _Dongwoo Mann+Hummel Co Ltd v Mann+Hummel GmbH_ <span class="citation">[2008] 3 SLR(R) 871</span> (“ _Dongwoo_ ”), the Court of Appeal 
 
 
 stated at [73] that: 

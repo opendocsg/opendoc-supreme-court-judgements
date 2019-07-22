@@ -244,7 +244,7 @@ Buckley LJ examined the issue in greater detail at 1054–1055:
 
 50     In the circumstances, I find that Top Ten had exercised its option for the extension of the lease. All that remains to be done is to fix the rent for the extension period, even though the extension period has run out. That does not mean rent for the premises in the state they were in at the commencement of the extended period. It means rent for the premises in the state they would be in if possession of the premises had been handed back to Leivest by Top Ten. 
 
-51     The Court of Appeal made it clear in _Riduan bin Yusof v Khng Thian Huat (No 2)_ [2005] 4 SLR 234 that if a tenant like Top Ten delivers possession of leased premises back to the landlord, it has the right to remove the tenant’s fixtures and return the premises in the state they were in when possession was first given. 
+51     The Court of Appeal made it clear in _Riduan bin Yusof v Khng Thian Huat (No 2)_ <span class="citation">[2005] 4 SLR 234</span> that if a tenant like Top Ten delivers possession of leased premises back to the landlord, it has the right to remove the tenant’s fixtures and return the premises in the state they were in when possession was first given. 
 
 52     The furniture and fittings that came with the lease were listed in the Second Schedule to the 1985 lease. In assessing the rent payable upon the renewal of the lease, account should be taken of the items in the schedule, but Top Ten’s properties and tenant’s fixtures on the premises should be excluded from consideration. 
 

@@ -58,7 +58,7 @@ _Arbitration_
 
 **_Whether the arbitration clause was so defective as to be inoperable_** 
 
-12     In the majority of cases where an arbitration clause, whether independently or as part of a contract, meets the contractual requirements for validity and where the meaning of that clause may be discerned by the court applying the general principles of contractual interpretation, the party seeking to rely on that clause will simply need to persuade the court that the conditions stipulated in that clause have been satisfied in order to succeed. But, in a case where the arbitration clause, although contractually valid, is defective and by this I mean that after applying the general principles of contractual interpretation, or after rectification as the case may be, the court is unable to discern the meaning of that clause either in part or entirely, that clause is said to be pathological. There is no magic in that term. It merely describes the clause as one which is defective (see _Insigma Technology Co Ltd v Alstom Technology Ltd_ [2009] 3 SLR(R) 936 (“ _Insigma_ ”) at [37]). Whether that clause may or may not be upheld depends on the nature and extent of its pathology. 
+12     In the majority of cases where an arbitration clause, whether independently or as part of a contract, meets the contractual requirements for validity and where the meaning of that clause may be discerned by the court applying the general principles of contractual interpretation, the party seeking to rely on that clause will simply need to persuade the court that the conditions stipulated in that clause have been satisfied in order to succeed. But, in a case where the arbitration clause, although contractually valid, is defective and by this I mean that after applying the general principles of contractual interpretation, or after rectification as the case may be, the court is unable to discern the meaning of that clause either in part or entirely, that clause is said to be pathological. There is no magic in that term. It merely describes the clause as one which is defective (see _Insigma Technology Co Ltd v Alstom Technology Ltd_ <span class="citation">[2009] 3 SLR(R) 936</span> (“ _Insigma_ ”) at [37]). Whether that clause may or may not be upheld depends on the nature and extent of its pathology. 
 
 13     When faced with a pathological arbitration clause, the court generally seeks to give effect to that clause, preferring an interpretation which does so over one which does not. As the Court of Appeal in _Insigma_ stated (at [31]): 
 
@@ -138,7 +138,7 @@ But, there being no National Committee of the ICC to administer an ICC arbitrati
 **_Whether a dispute had arisen within the meaning of the arbitration clause_** 
 
 
-32     The approach taken to determining whether a dispute had arisen was comprehensively laid out by the Court of Appeal in _Tjong Very Sumito and others v Antig Investments Pte Ltd_ [2009] 4 SLR(R) 732 (“ _Tjong Very Sumito_ ”). For present purposes, it will suffice to note the following: 
+32     The approach taken to determining whether a dispute had arisen was comprehensively laid out by the Court of Appeal in _Tjong Very Sumito and others v Antig Investments Pte Ltd_ <span class="citation">[2009] 4 SLR(R) 732</span> (“ _Tjong Very Sumito_ ”). For present purposes, it will suffice to note the following: 
 
  (a) The court will not consider whether there is “in fact” a dispute or whether the dispute is genuine (see Tjong Very Sumito at [49]); 
 

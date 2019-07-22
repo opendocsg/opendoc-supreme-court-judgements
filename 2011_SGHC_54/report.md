@@ -24,7 +24,7 @@ _Criminal Law_ – _Prosecution’s burden to prove charge beyond a reasonable d
 
 **Introduction** 
 
-1       The most _fundamental_ feature of our criminal jurisprudence is the time honoured principle which mandates that the Prosecution bears the burden to prove the charge against the accused beyond reasonable doubt. Short of statutory presumptions enacted by Parliament for specific offences, there can be no doubt that this principle must be applied strictly. As aptly observed by VK Rajah J (as he then was) in _Jagatheesan s/o Krishnasamy v Public Prosecutor_ [2006] 4 SLR(R) 45 (“ _Jagatheesan_ ”), a trial judge must always bear in mind that the starting point of the analysis of any criminal case is not neutral. An accused is presumed innocent and this presumption is not displaced until the Prosecution has discharged its burden of proof. 
+1       The most _fundamental_ feature of our criminal jurisprudence is the time honoured principle which mandates that the Prosecution bears the burden to prove the charge against the accused beyond reasonable doubt. Short of statutory presumptions enacted by Parliament for specific offences, there can be no doubt that this principle must be applied strictly. As aptly observed by VK Rajah J (as he then was) in _Jagatheesan s/o Krishnasamy v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 45</span> (“ _Jagatheesan_ ”), a trial judge must always bear in mind that the starting point of the analysis of any criminal case is not neutral. An accused is presumed innocent and this presumption is not displaced until the Prosecution has discharged its burden of proof. 
 
 2       These two appeals have brought to the fore yet again that this fundamental principle of law must be applied unwaveringly to prevent any miscarriage of justice. This case serves as a reminder that the Prosecution’s burden of proof cannot be discharged simply by persuading the trial judge to accept that the Prosecution’s version of the events is more _probable_ than the version offered by the accused without addressing the critical question whether the evidence adduced by the Prosecution has proved the charge beyond reasonable doubt. When this occurs, it may lead to an egregious error in conflating and confusing the crucial difference in the treatment of the burden of proof in a criminal case with that of a civil trial. 
 
@@ -113,7 +113,7 @@ The Court further clarified that (at [61]):
 
  [emphasis added] 
 
-23     The appellants further relied on the Court of Appeal’s decision of _Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ [2008] 1 SLR(R) 601 (“ _Mohammed Liton_ ”). The Court of Appeal, in endorsing (at [34]–[35]) the observations of the trial judge in _Public Proseuctor v Mohammed Liton Mohammed Syeed Mallik_ [2007] SGHC 47, underscored an important reminder that it is not the duty of the trial judge in a criminal case to choose the more probable version amongst two competing version of events: 
+23     The appellants further relied on the Court of Appeal’s decision of _Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">[2008] 1 SLR(R) 601</span> (“ _Mohammed Liton_ ”). The Court of Appeal, in endorsing (at [34]–[35]) the observations of the trial judge in _Public Proseuctor v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">[2007] SGHC 47</span>, underscored an important reminder that it is not the duty of the trial judge in a criminal case to choose the more probable version amongst two competing version of events: 
 
  Unlike civil cases, where the court may choose between two competing stories and accept the one on a balance of probabilities, that is to say, accepting that version because it seemed more plausible than the other, in a criminal case, there is an important norm to be taken into account at all times that where there is a reasonable doubt, that doubt must be resolved in favour of the accused. It is inherent [in] the requirement that the prosecution proves its case beyond reasonable doubt. 
 
@@ -132,9 +132,9 @@ the testimony of PW1 and PW2. In such a case, it is crucial to carefully evaluat
 
 26     In this connection, it is instructive to refer to the seminal decision of _Jagatheesan_ where the court observed (at [44]–[45]): 
 
- There is no absolute prohibition or legal impediment in convicting an accused on the evidence of a single witness: see Yeo Eng Siang v PP [2005] 2 SLR(R) 409 at [25] (although in Tan Wei Yi v PP [2005] 3 SLR(R) 471 (“ Tan Wei Yi ”) at [23] Yong Pung How CJ expressed his reservations in doing so). Indeed, one wholly honest and reliable witness on one side may often prove to be far more significant or compelling and outweigh several witnesses on the other side who may be neither reliable nor independent. 
+ There is no absolute prohibition or legal impediment in convicting an accused on the evidence of a single witness: see Yeo Eng Siang v PP <span class="citation">[2005] 2 SLR(R) 409</span> at [25] (although in Tan Wei Yi v PP <span class="citation">[2005] 3 SLR(R) 471</span> (“ Tan Wei Yi ”) at [23] Yong Pung How CJ expressed his reservations in doing so). Indeed, one wholly honest and reliable witness on one side may often prove to be far more significant or compelling and outweigh several witnesses on the other side who may be neither reliable nor independent. 
 
- The court must nevertheless be mindful of the inherent dangers of such a conviction and subject the evidence at hand to close scrutiny: see Low Lin Lin v PP [2002] 2 SLR(R) 881 at [49]. This is true whether the witness is an accomplice (see Chua Poh Kiat Anthony v PP [1998] 2 SLR(R) 342, or an interested witness (see Kwang Boon Keong Peter v PP [1998] 2 SLR(R) 211). In such situations, a conviction can only be upheld if the testimony is so compelling to the extent that a conviction can be founded entirely and exclusively on it. This means no more than that the witness’s testimony evidence is so compelling that the Prosecution’s case is proved beyond reasonable doubt, solely on the basis of that witness’s testimony: Teo Keng Pong v PP [1996] 2 SLR(R) 890 (“ Teo Keng Pong ”) at [73]. 
+ The court must nevertheless be mindful of the inherent dangers of such a conviction and subject the evidence at hand to close scrutiny: see Low Lin Lin v PP <span class="citation">[2002] 2 SLR(R) 881</span> at [49]. This is true whether the witness is an accomplice (see Chua Poh Kiat Anthony v PP <span class="citation">[1998] 2 SLR(R) 342</span>, or an interested witness (see Kwang Boon Keong Peter v PP <span class="citation">[1998] 2 SLR(R) 211</span>). In such situations, a conviction can only be upheld if the testimony is so compelling to the extent that a conviction can be founded entirely and exclusively on it. This means no more than that the witness’s testimony evidence is so compelling that the Prosecution’s case is proved beyond reasonable doubt, solely on the basis of that witness’s testimony: Teo Keng Pong v PP <span class="citation">[1996] 2 SLR(R) 890</span> (“ Teo Keng Pong ”) at [73]. 
 
 27     With this caveat, I now direct my attention to address the various omissions in the Prosecution’s evidence as raised by the appellants. 
 
@@ -343,7 +343,7 @@ his alleged hip injury to PW4: [note: 16]
 
 _Failure to adduce corroborative evidence of the victims’ injuries_ 
 
-40     There is no evidence to support PW1’s alleged injuries apart from his own assertion accompanied by PW2’s supporting testimony. As highlighted above, PW1’s allegation of injuries runs contrary to the independent evidence given by several police officers. As for PW2’s alleged injury to his hip, the Prosecution submitted during the appeal before me that it was sufficiently corroborated by PW4’s evidence and medical evidence was therefore not required. The Prosecution relied on the following passage from _Sahadevan s/o Gundan v Public Prosecutor_ [2003] 1 SLR(R) 145 (“ _Sahadevan_ ”) (at [32]): 
+40     There is no evidence to support PW1’s alleged injuries apart from his own assertion accompanied by PW2’s supporting testimony. As highlighted above, PW1’s allegation of injuries runs contrary to the independent evidence given by several police officers. As for PW2’s alleged injury to his hip, the Prosecution submitted during the appeal before me that it was sufficiently corroborated by PW4’s evidence and medical evidence was therefore not required. The Prosecution relied on the following passage from _Sahadevan s/o Gundan v Public Prosecutor_ <span class="citation">[2003] 1 SLR(R) 145</span> (“ _Sahadevan_ ”) (at [32]): 
 
  Counsel for the appellant submitted that the district judge had erred in that Sgt Zul's testimony should not have been relied upon as the basis to find that hurt had been caused to Pandi. It was 
 
@@ -412,7 +412,7 @@ From the above, it is clear that there were ample opportunities and avenues for 
 
  the charge against an accused is proven, I was of the view that, taking into account the surrounding circumstances of this case and the need to place a greater scrutiny on Pandi's evidence, the failure to recover the $50 from the appellant considerably weakened the Prosecution's case... 
 
- ...the burden of proof was still on the Prosecution to prove the appellant's guilt beyond a reasonable doubt, however tenuous the defence might have been: see Tan Edmund v PP [1995] 1 SLR(R) 618. In discharging this burden, it was not at all sufficient for the Prosecution to merely point to the inadequacies of the appellant's testimony. 
+ ...the burden of proof was still on the Prosecution to prove the appellant's guilt beyond a reasonable doubt, however tenuous the defence might have been: see Tan Edmund v PP <span class="citation">[1995] 1 SLR(R) 618</span>. In discharging this burden, it was not at all sufficient for the Prosecution to merely point to the inadequacies of the appellant's testimony. 
 
  [emphasis added] 
 
@@ -587,16 +587,16 @@ consistent with an illegitimate trade.
 
  Discrepancies may, in my view, be found in any case for the simple reason that no two persons can describe the same thing in exactly the same way. Sometimes what may appear to be discrepancies are in reality different ways of describing the same thing, or it may happen that the witnesses who are describing the same thing might have seen it in different ways and at different times and that is how discrepancies are likely to arise. These discrepancies may either be minor or serious discrepancies. Absolute truth is I think beyond human perception and conflicting versions of an incident, even by honest and disinterested witnesses, is a common experience. In weighing the testimony of witnesses, human fallibility in observation, retention and recollection are often recognised by the court. 
 
-67     This observation was endorsed in _Public Prosecutor v Singh Kalpanath_ [1995] 3 SLR(R) 158 where the Court gave the following guidance in regarding minor discrepancies (at [60]): 
+67     This observation was endorsed in _Public Prosecutor v Singh Kalpanath_ <span class="citation">[1995] 3 SLR(R) 158</span> where the Court gave the following guidance in regarding minor discrepancies (at [60]): 
 
  Adequate allowance must be accorded to the human fallibility in retention and recollection. It is also common to find varying accounts of the same incident by the same person. No one can describe the same thing exactly in the same way over and over again: see Chean Siong Guat v PP [1969] 2 MLJ 63 
 
-68     Likewise, the Court in _Loh Khoon Hai v Public Prosecutor_ [1996] 1 SLR(R) 958 gave the apt reminder that (at [25]): 
+68     Likewise, the Court in _Loh Khoon Hai v Public Prosecutor_ <span class="citation">[1996] 1 SLR(R) 958</span> gave the apt reminder that (at [25]): 
 
  ...The above discrepancies could be explained and were not material so as to affect the credit of Teh. Bearing in mind that the process of testimony is not a memory test, minor inconsistencies are often inevitable. Moreover, there may appear to be inconsistencies due to the way questions are phrased. The crux is whether the totality of the evidence was believable 
 
 
-69     Furthermore, the Court in _Sim Teck Meng David v Public Prosecutor_ [2004] SGHC 119 made similar observations that: 
+69     Furthermore, the Court in _Sim Teck Meng David v Public Prosecutor_ <span class="citation">[2004] SGHC 119</span> made similar observations that: 
 
  At this juncture, I noted that in most criminal trials, there would occur minor discrepancies between the testimonies of two witnesses. One cannot expect perfectly compatible testimonies. Such expectations would negate the fact that between each witness there lay differences in perception, retention and recollection of events. These are factors that must be taken into account when a court is faced with discrepant testimonies. 
 
@@ -612,7 +612,7 @@ the alleged robbery. [note: 45] In fact PW1 was sure that Jayasekara was drunk b
 
 person is drunk, behaviour is different”. [note: 46] 
 
-73     In addition to the above, the DJ disbelieved the appellants’ case that the victims had operated as pimps, and that the appellants were framed by PW1 and PW2 due to a prior dispute over Nirasha. In particular, the DJ observed that if PW1 had assaulted him and had operated as a pimp as alleged by Jayasekara’s account of events, the “last thing” that PW1 would want would be police involvement. However, it is accepted that even if the Defence’s case was **_disbelieved_** by the trial judge, it remained **_imperative_** for the Prosecution to discharge its burden of proving its own case beyond a reasonable doubt. This was emphasised in the Magistrate’s Appeal decision of _Teo Keng Pong v Public Prosecutor_ [1996] 2 SLR(R) 890 (at [67]): 
+73     In addition to the above, the DJ disbelieved the appellants’ case that the victims had operated as pimps, and that the appellants were framed by PW1 and PW2 due to a prior dispute over Nirasha. In particular, the DJ observed that if PW1 had assaulted him and had operated as a pimp as alleged by Jayasekara’s account of events, the “last thing” that PW1 would want would be police involvement. However, it is accepted that even if the Defence’s case was **_disbelieved_** by the trial judge, it remained **_imperative_** for the Prosecution to discharge its burden of proving its own case beyond a reasonable doubt. This was emphasised in the Magistrate’s Appeal decision of _Teo Keng Pong v Public Prosecutor_ <span class="citation">[1996] 2 SLR(R) 890</span> (at [67]): 
 
  In my view, there was nothing in the grounds of judgment to indicate that the magistrate did not apply the correct burden or standard of proof. No doubt, the magistrate did not use the words 
 
@@ -627,7 +627,7 @@ Indeed, similar observations were made in _Sahadevan_ (at [35]):
 
  [emphasis added] 
 
-It was also observed in _Tan Edmund v Public Prosecutor_ [1995] 1 SLR(R) 618 that (at [15]): 
+It was also observed in _Tan Edmund v Public Prosecutor_ <span class="citation">[1995] 1 SLR(R) 618</span> that (at [15]): 
 
  There is no need to deal in minute detail with the defence of the appellant; for however tenuous that defence might have been, the burden still lay on the Prosecution to prove the appellant's guilt beyond reasonable doubt, and in discharging that burden, it was insufficient for them to point to the inadequacies of the appellant's or their witnesses' testimonies. 
 

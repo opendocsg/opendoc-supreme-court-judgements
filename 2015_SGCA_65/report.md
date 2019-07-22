@@ -20,7 +20,7 @@ _Employment Law-Pay_
 
 _Equity-Equitable Compensation_ 
 
-[LawNet Editorial Note: This was an appeal from the decisions of the High Court in [2015] SGHC 20 and [2015] SGHC 108.] 
+[LawNet Editorial Note: This was an appeal from the decisions of the High Court in <span class="citation">[2015] SGHC 20</span> and <span class="citation">[2015] SGHC 108</span>.] 
 
 30 November 2015 Judgment Reserved 
 
@@ -28,7 +28,7 @@ _Equity-Equitable Compensation_
 
 **Introduction** 
 
-1       The two appeals that are before us concern claims arising from the breaches of duties owed to the plaintiff, Enholco Pte Ltd (“EPL”), by the first defendant, Mr Schonk Antonius Martinus Mattheus (“Mr Mattheus”). EPL claimed, among other things, that Mr Mattheus had diverted business opportunities away from EPL to his own company, the second defendant, International Oil and Gas Consultants Pte Ltd (“IOGC”). The matter was decided by a High Court judge (“the Judge”) whose decisions on liability and on quantum, respectively, are reported as _Enholco Pte Ltd v Schonk Antonius Martinus Mattheus and another_ [2015] SGHC 20 and _Enholco Pte Ltd v Schonk Antonius Martinus Mattheus and another_ [2015] SGHC 108. The Judge found in favour of EPL that Mr Mattheus had breached his duty to his employer in various ways. The Judge allowed some heads of damages claimed by EPL, but not others. The Judge also dismissed Mr Mattheus’ counterclaim for unpaid salaries (“the Salary Counterclaim”). 
+1       The two appeals that are before us concern claims arising from the breaches of duties owed to the plaintiff, Enholco Pte Ltd (“EPL”), by the first defendant, Mr Schonk Antonius Martinus Mattheus (“Mr Mattheus”). EPL claimed, among other things, that Mr Mattheus had diverted business opportunities away from EPL to his own company, the second defendant, International Oil and Gas Consultants Pte Ltd (“IOGC”). The matter was decided by a High Court judge (“the Judge”) whose decisions on liability and on quantum, respectively, are reported as _Enholco Pte Ltd v Schonk Antonius Martinus Mattheus and another_ <span class="citation">[2015] SGHC 20</span> and _Enholco Pte Ltd v Schonk Antonius Martinus Mattheus and another_ <span class="citation">[2015] SGHC 108</span>. The Judge found in favour of EPL that Mr Mattheus had breached his duty to his employer in various ways. The Judge allowed some heads of damages claimed by EPL, but not others. The Judge also dismissed Mr Mattheus’ counterclaim for unpaid salaries (“the Salary Counterclaim”). 
 
 2       Civil Appeal No 47 of 2015 (“CA 47”) is the defendants’ appeal against the Judge’s finding of liability as well as his dismissal of the Salary Counterclaim. Civil Appeal No 106 of 2015 (“CA 106”), on the other hand, is EPL’s appeal against the Judge’s dismissal of certain heads of losses which it claimed it had suffered as a result of Mr Mattheus’ breaches of duties. 
 

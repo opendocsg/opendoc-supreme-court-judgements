@@ -87,7 +87,7 @@ issued another cheque for $10,000 to her in March 2001. When asked, the interven
 
 24     A gift is a gratuitous transfer of the ownership of property. The donor has to display a clear intention to transfer his interest in the object that is being given (see Michael Bridge, _Personal_ 
 
-_Property Law_ , 3rd ed., (Oxford, 2006) at 96). As held in _Yeo Gim Tong Michael v Tianzon Lolita_ [1996] 1 SLR(R) 633 at [11]: 
+_Property Law_ , 3rd ed., (Oxford, 2006) at 96). As held in _Yeo Gim Tong Michael v Tianzon Lolita_ <span class="citation">[1996] 1 SLR(R) 633</span> at [11]: 
 
  Where a gift is made, the donor normally has no intention to claim any interest or share in it and his intention is that the recipient should take the gift absolutely – that must be his intention, at any rate, at the time of the gift. 
 

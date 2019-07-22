@@ -24,7 +24,7 @@ _Administrative Law_ – _Judicial review_ – _costs_
 
 **Introduction** 
 
-1       The judgment on the judicial review application in Originating Summons No 196 of 2012 (“OS 196”) (“the Substantive Application”) and the Applicant’s reserved application for two declarations (“the Reserved Application”) was released on 1 August 2012: _Vellama d/o Marie Muthu v AttorneyGeneral_ [2012] SGHC 155 (“the Final Judgment”). At the initial hearing for leave to proceed with the judicial review application (“the Leave Application”), neither counsel made any submissions on costs and none were then ordered. After the Final Judgment was delivered, both counsel made their submissions on the costs of all the above applications. The following is my judgment on the costs of all these applications. 
+1       The judgment on the judicial review application in Originating Summons No 196 of 2012 (“OS 196”) (“the Substantive Application”) and the Applicant’s reserved application for two declarations (“the Reserved Application”) was released on 1 August 2012: _Vellama d/o Marie Muthu v AttorneyGeneral_ <span class="citation">[2012] SGHC 155</span> (“the Final Judgment”). At the initial hearing for leave to proceed with the judicial review application (“the Leave Application”), neither counsel made any submissions on costs and none were then ordered. After the Final Judgment was delivered, both counsel made their submissions on the costs of all the above applications. The following is my judgment on the costs of all these applications. 
 
 **Background** 
 
@@ -37,7 +37,7 @@ _Administrative Law_ – _Judicial review_ – _costs_
 
 election in Hougang SMC but that he had not decided on the timing. He would decide on the timing after taking into account all relevant factors including local, national and international factors: see _Singapore Parliamentary Debates, Official Report_ (9 March 2012) vol 88 at col 5. 
 
-5       On 3 April 2012, leave was granted to the Applicant to proceed with the Substantive Application. The grounds of decision to grant leave were set out in _Vellama d/o Marie Muthu v Attorney-General_ [2012] 2 SLR 1033 (“the Leave Judgment”). 
+5       On 3 April 2012, leave was granted to the Applicant to proceed with the Substantive Application. The grounds of decision to grant leave were set out in _Vellama d/o Marie Muthu v Attorney-General_ <span class="citation">[2012] 2 SLR 1033</span> (“the Leave Judgment”). 
 
 6       On 9 May 2012, the writ of election calling for a by-election in Hougang SMC was issued by the President, upon the advice of the Prime Minister. The by-election was held on 26 May 2012. 
 
@@ -89,7 +89,7 @@ election in Hougang SMC but that he had not decided on the timing. He would deci
 20     The AG’s counsel raised three arguments. First, he submitted that the general rule enshrined in O 59 r 3(1) that “costs to follow the event” should apply. Second, he submitted that the general rule had not been displaced by any unreasonable conduct on the part of the successful party. Third, he submitted that even if there was a public interest consideration in the common law in other jurisdictions, this dimension did not apply. 
 
 
-21     The Applicant’s counsel did not dispute that the general rule was that costs followed the event. He relied on public interest as a ground for departing from the general rule, citing the Court of Appeal decision in _Law Society of Singapore v Top Ten Entertainment Pte Ltd_ [2011] 2 SLR 1279 (“ _Top Ten_ ”) where it was held (at [15]) that, as a starting point, no costs would be ordered against a regulator performing a public duty in the public interest (the “ _Baxendale-Walker_ principle”). The Applicant’s counsel submitted that the _Baxendale-Walker_ principle should be extended by analogy to the Applicant, who as a private citizen was carrying out her public duty in requesting the court to determine an important constitutional issue concerning parliamentary representation. 
+21     The Applicant’s counsel did not dispute that the general rule was that costs followed the event. He relied on public interest as a ground for departing from the general rule, citing the Court of Appeal decision in _Law Society of Singapore v Top Ten Entertainment Pte Ltd_ <span class="citation">[2011] 2 SLR 1279</span> (“ _Top Ten_ ”) where it was held (at [15]) that, as a starting point, no costs would be ordered against a regulator performing a public duty in the public interest (the “ _Baxendale-Walker_ principle”). The Applicant’s counsel submitted that the _Baxendale-Walker_ principle should be extended by analogy to the Applicant, who as a private citizen was carrying out her public duty in requesting the court to determine an important constitutional issue concerning parliamentary representation. 
 
 22     I do not accept the stretched analogy used by the Applicant’s counsel. There is neither principle nor authority to support the submission by the Applicant’s counsel that the _Baxendale-Walker_ principle ought to be extended in the manner proposed to include private citizens. 
 
@@ -122,11 +122,11 @@ statement and affidavit which are to be served on the AG no later than the day p
 
 28     Where leave is granted, the substantive application proceeds between the applicant and the directly affected non-governmental tribunal or agency. In these cases, the AG is _not_ a party in such substantive application. However, if it is necessary to ensure that all matters in the cause or matter may be effectually and completely determined or adjudicated upon, the court may on its own motion or upon application order that the AG be joined as a party: O 15 r 6(2)(b). 
 
-29     In _Lim Mey Lee Susan v Singapore Medical Council_ [2011] SGHC 131, the applicant had served notice of the _ex parte_ leave application not only on the AG but also on the putative respondent. The putative respondent’s counsel then appeared at the hearing to oppose leave being granted. The court granted leave and awarded costs in the cause: at [19]. 
+29     In _Lim Mey Lee Susan v Singapore Medical Council_ <span class="citation">[2011] SGHC 131</span>, the applicant had served notice of the _ex parte_ leave application not only on the AG but also on the putative respondent. The putative respondent’s counsel then appeared at the hearing to oppose leave being granted. The court granted leave and awarded costs in the cause: at [19]. 
 
-30     In _Yeap Wai Kong v Singapore Exchange Securities Trading Ltd_ [2012] 3 SLR 565, where notice had been served on the AG, the court further directed the Applicant to serve notice on the putative respondent in order to hear their representations at the _ex parte_ leave application hearing. Leave was granted but no cost orders were then sought or made. 
+30     In _Yeap Wai Kong v Singapore Exchange Securities Trading Ltd_ <span class="citation">[2012] 3 SLR 565</span>, where notice had been served on the AG, the court further directed the Applicant to serve notice on the putative respondent in order to hear their representations at the _ex parte_ leave application hearing. Leave was granted but no cost orders were then sought or made. 
 
-31     Where the judicial review application is directed at the Government of Singapore (“the Government”), and the AG attends and opposes the application for leave to proceed with the judicial review application as the Government’s counsel, it is open to both the applicant and the AG to make costs applications and for the court to award costs for the leave application. In _Jeyaretnam Kenneth Andrew v Attorney-General_ [2012] SGHC 210, the application for leave was dismissed with costs ordered against the applicant. Where leave is granted, the corollary principle would be that costs may be applied for by the applicant and the court may in its discretion make a costs order: see O 53 r 1(4). 
+31     Where the judicial review application is directed at the Government of Singapore (“the Government”), and the AG attends and opposes the application for leave to proceed with the judicial review application as the Government’s counsel, it is open to both the applicant and the AG to make costs applications and for the court to award costs for the leave application. In _Jeyaretnam Kenneth Andrew v Attorney-General_ <span class="citation">[2012] SGHC 210</span>, the application for leave was dismissed with costs ordered against the applicant. Where leave is granted, the corollary principle would be that costs may be applied for by the applicant and the court may in its discretion make a costs order: see O 53 r 1(4). 
 
 **_The applicable law_** 
 
@@ -147,7 +147,7 @@ _Costs are in the discretion of the Court_
 
  [emphasis added] 
 
-35     The power to award costs is in the full discretion of the court. Order 59 r 2(2) unequivocally states that “the Court shall have full power to determine by whom and to what extent the costs are to be paid.” This discretionary power is extremely broad: _Re Shankar Alan s/o Anant Kulkarni_ [2007] 2 SLR(R) 95 at [15]. Within this discretionary power, general guidance is provided under O 59 r 3(2) that costs follow the event except where it appears to the court that in the circumstances of the case some other order should be made. The “overriding concern of the court must be to exercise its discretion to achieve the fairest allocation of costs”: _Soon Peng Yam and another_ ( _trustees of the Chinese Swimming Club_ ) _v Maimon bte Ahmad_ [1995] 1 SLR(R) 279 at [31]. 
+35     The power to award costs is in the full discretion of the court. Order 59 r 2(2) unequivocally states that “the Court shall have full power to determine by whom and to what extent the costs are to be paid.” This discretionary power is extremely broad: _Re Shankar Alan s/o Anant Kulkarni_ <span class="citation">[2007] 2 SLR(R) 95</span> at [15]. Within this discretionary power, general guidance is provided under O 59 r 3(2) that costs follow the event except where it appears to the court that in the circumstances of the case some other order should be made. The “overriding concern of the court must be to exercise its discretion to achieve the fairest allocation of costs”: _Soon Peng Yam and another_ ( _trustees of the Chinese Swimming Club_ ) _v Maimon bte Ahmad_ <span class="citation">[1995] 1 SLR(R) 279</span> at [31]. 
 
 36     The underlying common law principles of costs orders in civil and judicial review proceedings was explained in _R v Lord Chancellor_ , _ex parte Child Poverty Action Group_ [1999] 1 WLR 347 (“ _Child Poverty Action Group_ ”) at 355–356 ( _per_ Dyson J): 
 
@@ -162,7 +162,7 @@ _Costs are in the discretion of the Court_
 
  [emphasis added in italics and bold italics] 
 
-37     In Singapore, the general rule that costs follow the event also applies in judicial review proceedings: _Re Siah Mooi Guat_ [1988] 3 MLJ 448; _Teo Soh Lung v Minister for Home Affairs and others_ [1990] 1 SLR(R) 347; and _Chee Siok Chin and others v Minister for Home Affairs_ [2006] 1 SLR(R) 582. It is noteworthy that a successful applicant in judicial review proceedings may be awarded costs, as was the case in _Chng Suan Tze v Minister for Home Affairs and others and other appeals_ [1988] 2 SLR(R) 525. 
+37     In Singapore, the general rule that costs follow the event also applies in judicial review proceedings: _Re Siah Mooi Guat_ [1988] 3 MLJ 448; _Teo Soh Lung v Minister for Home Affairs and others_ <span class="citation">[1990] 1 SLR(R) 347</span>; and _Chee Siok Chin and others v Minister for Home Affairs_ <span class="citation">[2006] 1 SLR(R) 582</span>. It is noteworthy that a successful applicant in judicial review proceedings may be awarded costs, as was the case in _Chng Suan Tze v Minister for Home Affairs and others and other appeals_ <span class="citation">[1988] 2 SLR(R) 525</span>. 
 
 _Public interest_ 
 

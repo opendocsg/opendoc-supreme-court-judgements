@@ -41,7 +41,7 @@ _Civil Procedure_ – _Writ of summons_ – _Whether leave to amend generally en
 
  We must act on the settled rule of practice, which is that amendments are not admissible when they prejudice the rights of the opposite party as existing at the date of such amendments. If an amendment were allowed setting up a cause of action, which, if the writ were issued in respect thereof at the date of the amendment, would be barred by the Statute of Limitations, it would be allowing the plaintiff to take advantage of her former writ to defeat the statute and taking away an existing right from the defendant, a proceeding which, as a general rule, would be, in my opinion, improper and unjust. Under very peculiar circumstances the Court might perhaps have power to allow such an amendment, but certainly as a general rule it will not do so. 
 
-L P Thean JA in _Chan Mui Eng v Chua Chu Huwe_ [1994] 1 SLR 375 concurred with the even stronger view of Scrutton LJ in _Mabro v Eagle, Star and British Dominions Insurance Company, Limited_ [1932] 1 KB 485 at 487 where Scrutton LJ held: 
+L P Thean JA in _Chan Mui Eng v Chua Chu Huwe_ <span class="citation">[1994] 1 SLR 375</span> concurred with the even stronger view of Scrutton LJ in _Mabro v Eagle, Star and British Dominions Insurance Company, Limited_ [1932] 1 KB 485 at 487 where Scrutton LJ held: 
 
  In my experience the Court has always refused to allow a party or a cause of action to be added where, if it were allowed, the defence of the Statute of Limitations would be defeated. The Court has never treated it as just to deprive a defendant of a legal defence. 
 
@@ -111,7 +111,7 @@ L P Thean JA in _Chan Mui Eng v Chua Chu Huwe_ [1994] 1 SLR 375 concurred with t
 
  (5) An amendment may be allowed under paragraph (2) notwithstanding that the effect of the amendment will be to add or substitute a new cause of action if the new cause of action arises out of the same facts or substantially the same facts as a cause of action in respect of which relief has already been claimed in the action by the party applying for leave to make the amendment. 
 
-The way O 20 was to be applied was considered by the Court of Appeal in _Lim Yong Swan v Lim Jee Tee_ [1993] 1 SLR 500. Noting the intention to depart from _Weldon v Neal_ , the court held at 506, [19]: 
+The way O 20 was to be applied was considered by the Court of Appeal in _Lim Yong Swan v Lim Jee Tee_ <span class="citation">[1993] 1 SLR 500</span>. Noting the intention to depart from _Weldon v Neal_ , the court held at 506, [19]: 
 
  For an application to come within any of the paragraphs, there must already be asserted in the writ or the pleading a set of allegations which, in spite of the expiry of the limitation period, reasonably identify the party suing or sued, which is capable of conveying the capacity of the party to sue or which permits the addition or substitution of another cause of action. In other words, the matters of identity, capacity or cause of action are already asserted or implied, from the inception of the writ or the filing of the pleading and it is merely a matter of correction to make explicit what is implicit. 
 

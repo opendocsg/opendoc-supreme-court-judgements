@@ -147,7 +147,7 @@ Regenthill accept that they are obliged in law to allow the MC to inspect the ac
 
  (ii) any notices or other records relating to Regent Park Condominium, other than any such documents which exclusively evidence rights or obligations of the Defendants and which are not capable of being used for the benefit of the Plaintiffs or any of the subsidiary proprietors, other than the Defendants." 
 
-14     Essentially, the point made by Regenthill is that the OS only stated in very vague and broad terms what the MC wanted and did not identify the specific classes of documents which Regenthill are required to deliver. They relied upon the High Court decision in _Engineering Construction Pte Ltd v AG_ [1993] 1 SLR 390. 
+14     Essentially, the point made by Regenthill is that the OS only stated in very vague and broad terms what the MC wanted and did not identify the specific classes of documents which Regenthill are required to deliver. They relied upon the High Court decision in _Engineering Construction Pte Ltd v AG_ <span class="citation">[1993] 1 SLR 390</span>. 
 
 15     It will be seen that under O 7 r 3(1) there are two alternative manners in which a plaintiff in an OS could formulate his case. One is to include a statement as to the question on which the court’s determination is sought (first limb). The other is to set out concisely the relief or remedy claimed, with sufficient particulars to identify the cause or causes of action (second limb). Having regard to the manner in which the present OS is formulated it is clear that it does not fall under the first limb. 
 

@@ -24,7 +24,7 @@ _Contract_
 
 **Introduction** 
 
-1       This is an appeal against the decision of the judge (“the Judge”) in _Straits Advisors Pte Ltd v Behringer Holdings (Pte) Ltd_ [2009] SGHC 86 (“the Judgment”). 
+1       This is an appeal against the decision of the judge (“the Judge”) in _Straits Advisors Pte Ltd v Behringer Holdings (Pte) Ltd_ <span class="citation">[2009] SGHC 86</span> (“the Judgment”). 
 
 **Background and issue on appeal** 
 
@@ -78,7 +78,7 @@ Advisors receives written notification from Behringer of BCL’s decision to pro
 
 **Our decision** 
 
-8       Before addressing the arguments raised on appeal, we must first emphasise that contractual terms must be construed in the light of the _context_ in which they were drafted (see generally the decision of this court in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR 1029). Narrow and technical constructions which are inconsistent with the whole scheme of a given contract and the circumstances in which it was concluded must be eschewed. We would also add that a contextual understanding is especially important in the instant case, where the relevant agreements can, with respect, hardly be said to be models of precise – let alone exemplary – draftsmanship. 
+8       Before addressing the arguments raised on appeal, we must first emphasise that contractual terms must be construed in the light of the _context_ in which they were drafted (see generally the decision of this court in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR 1029</span>). Narrow and technical constructions which are inconsistent with the whole scheme of a given contract and the circumstances in which it was concluded must be eschewed. We would also add that a contextual understanding is especially important in the instant case, where the relevant agreements can, with respect, hardly be said to be models of precise – let alone exemplary – draftsmanship. 
 
 9       It is therefore of the first importance to ascertain what the specific context was at the time the parties entered into the Original Agreements. It would also be equally (if not more) important to ascertain whether, and (if so) to what extent, _that_ context continued when the parties entered into the Consultancy Agreement, which, as mentioned, superseded three of the Original Agreements. 
 

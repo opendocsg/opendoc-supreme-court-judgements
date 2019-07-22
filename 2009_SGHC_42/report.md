@@ -109,7 +109,7 @@ share, as held through Kingley, was 2,384,829 Vita shares.
 
 14     In the circumstances, counsel for the plaintiff, Mr N Sreenivasan (“Mr Sreenivasan”) confirmed that the plaintiff had no objections to SPH’s application to withdraw as a defendant. 
 
-15     With regard to the defendants’ application for a stay of proceedings, Mr Sreenivasan refuted the defendants’ argument that there was a relationship between these proceedings and the SPA. He argued that the plaintiff was not seeking shares in Kingley nor disputing SPH’s title in Kingley shares. As the defendants were not parties to the SPA, the SPA was wholly irrelevant to the present proceedings. In this respect, Mr Sreenivasan relied on the decision of Lai Sui Chiu J in _Go Go Delicacy Pte Ltd v Carona Holdings Pte Ltd_ [2008] 1 SLR 161 (“ _Go Go Delicacy_ ”), where it was held that a court cannot compel non-parties to an agreement (containing an arbitration clause) to arbitrate their dispute. 
+15     With regard to the defendants’ application for a stay of proceedings, Mr Sreenivasan refuted the defendants’ argument that there was a relationship between these proceedings and the SPA. He argued that the plaintiff was not seeking shares in Kingley nor disputing SPH’s title in Kingley shares. As the defendants were not parties to the SPA, the SPA was wholly irrelevant to the present proceedings. In this respect, Mr Sreenivasan relied on the decision of Lai Sui Chiu J in _Go Go Delicacy Pte Ltd v Carona Holdings Pte Ltd_ <span class="citation">[2008] 1 SLR 161</span> (“ _Go Go Delicacy_ ”), where it was held that a court cannot compel non-parties to an agreement (containing an arbitration clause) to arbitrate their dispute. 
 
 16     Furthermore, Mr Sreenivasan also submitted that under the SPA recital (D) of the preamble (“Recital (D)”), where the plaintiff gave up his right of action “against the Company and its subsidiaries, the directors and/or the shareholders of the Company and its subsidiaries”, did not cover Tan nor SPP. That was because Recital (D) only referred to the assignment of the plaintiff’s rights under a particular loan agreement, not a general assignment of all of the plaintiff’s rights against the class of persons mentioned above. In any case, SPP did not fall within the class of persons. 
 
@@ -124,7 +124,7 @@ share, as held through Kingley, was 2,384,829 Vita shares.
 
 19     It is well-established that, generally, non-parties to an arbitration agreement cannot participate in an arbitration conducted pursuant to the agreement. This principle is a natural offspring of the rule in contract that a third party cannot enforce rights arising under a contract to which he is not a party (“the privity rule”). In this respect, Associate Professor Lawrence Boo’s comments in his contribution to the Singapore Academy of Law Annual Review 2003 are apposite. In the chapter entitled “Arbitration” (2003) 4 SAL Ann Rev 48, the learned author wrote as follows (at p 53): 
 
- 3.19 It is axiomatic that only parties to an arbitration agreement may participate in it. ... [The author examines the case of Kiyue Co Ltd v Aquagen International Pte Ltd [2003] 3 SLR 130 (“ Kiyue ”).] 
+ 3.19 It is axiomatic that only parties to an arbitration agreement may participate in it. ... [The author examines the case of Kiyue Co Ltd v Aquagen International Pte Ltd <span class="citation">[2003] 3 SLR 130</span> (“ Kiyue ”).] 
 
  3.23 ... Third parties, who are strangers and uninvolved in the transaction, are certainly not parties to the arbitration. 
 
@@ -136,7 +136,7 @@ share, as held through Kingley, was 2,384,829 Vita shares.
 
  A court cannot compel non-parties to an agreement that contains an arbitration clause to arbitrate their dispute merely because one defendant is a party to that agreement. 
 
-Although that decision was later reversed on appeal, the Court of Appeal approved of Lai J’s statement as quoted above: see _Carona Holdings Pte Ltd v Go Go Delicacy Pte Ltd_ [2008] 4 SLR 460 at [7]. Hence, it remains an undisputed principle of law in Singapore that entities cannot be compelled to arbitrate pursuant to an arbitration agreement to which they were not parties. The corollary is also generally true. Third parties cannot compel arbitration by invoking an arbitration agreement to which they were not parties. 
+Although that decision was later reversed on appeal, the Court of Appeal approved of Lai J’s statement as quoted above: see _Carona Holdings Pte Ltd v Go Go Delicacy Pte Ltd_ <span class="citation">[2008] 4 SLR 460</span> at [7]. Hence, it remains an undisputed principle of law in Singapore that entities cannot be compelled to arbitrate pursuant to an arbitration agreement to which they were not parties. The corollary is also generally true. Third parties cannot compel arbitration by invoking an arbitration agreement to which they were not parties. 
 
 23     However, the privity rule, while strict, is not absolute. This is highlighted in _Halsbury’s Laws of Singapore_ , vol 2 (LexisNexis, 2003 Reissue) (“ _Halsbury’s_ ”), at [20.020], reproduced as follows: 
 
@@ -300,7 +300,7 @@ clearly referring to the 426,000 Dehai Singapore shares he legally owned as of 3
 
 50     It was also contended, on behalf of SPP (but not Tan), that a collateral contract existed between SPP and the plaintiff which settled all disputes in respect of the 490,000 Dehai Singapore shares that the plaintiff transferred to SPP in August 2001. 
 
-51     Traditionally, the existence of a collateral contract has been acknowledged as an exception to the privity rule although, strictly speaking, it is not an exception as such: the collateral contract argument rests on a finding by the court that the third party is not a third party but is a party to the collateral contract on which the claim is based. The nature and legal requirements of a collateral contract were laid down by Belinda Ang Saw Ean JC in _Lemon Grass Pte Ltd v Peranakan Place Complex Pte Ltd_ [2002] 4 SLR 439 (“ _Lemon Grass_ ”). I reproduce the relevant paragraphs, from [116] to [119], as follows: 
+51     Traditionally, the existence of a collateral contract has been acknowledged as an exception to the privity rule although, strictly speaking, it is not an exception as such: the collateral contract argument rests on a finding by the court that the third party is not a third party but is a party to the collateral contract on which the claim is based. The nature and legal requirements of a collateral contract were laid down by Belinda Ang Saw Ean JC in _Lemon Grass Pte Ltd v Peranakan Place Complex Pte Ltd_ <span class="citation">[2002] 4 SLR 439</span> (“ _Lemon Grass_ ”). I reproduce the relevant paragraphs, from [116] to [119], as follows: 
 
  116 A collateral contract is an agreement distinct from the main contract. A court must therefore find all the usual legal requirements of a contract having been fulfilled with respect to the collateral agreement before it can be enforced. 
 

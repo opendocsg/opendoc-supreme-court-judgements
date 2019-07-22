@@ -28,7 +28,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_
 
 3       The second point that concerned me was that the sentence of imprisonment that had been meted out in this case appeared to fall at, if not beyond, the high end of the range of sentences that had been imposed in previous cases involving comparable amounts of smuggled tobacco products. 
 
-4       The final thing that concerned me was that certain key paragraphs ([18]–[20]) of the District Judge’s decision (see _Public Prosecutor v Yap Ah Lai_ [2013] SGDC 383, hereinafter referred to as “the GD”) in which he had set out his reasons for the sentences he imposed were identical to three paragraphs of another decision issued by the same District Judge at about the same time: see [18]– [20] of _PP v Kesavan V Matamuthu_ [2013] SGDC 403 (“ _Kesavan_ ”). _Kesavan_ is a case in which a cigarette smuggler had imported 182.04kg of cigarettes from Malaysia by transporting the cigarettes in a bus; he was similarly sentenced to a total of 24 months’ imprisonment. It was one of the 
+4       The final thing that concerned me was that certain key paragraphs ([18]–[20]) of the District Judge’s decision (see _Public Prosecutor v Yap Ah Lai_ <span class="citation">[2013] SGDC 383</span>, hereinafter referred to as “the GD”) in which he had set out his reasons for the sentences he imposed were identical to three paragraphs of another decision issued by the same District Judge at about the same time: see [18]– [20] of _PP v Kesavan V Matamuthu_ <span class="citation">[2013] SGDC 403</span> (“ _Kesavan_ ”). _Kesavan_ is a case in which a cigarette smuggler had imported 182.04kg of cigarettes from Malaysia by transporting the cigarettes in a bus; he was similarly sentenced to a total of 24 months’ imprisonment. It was one of the 
 
 
 authorities cited to me by the DPP in support of the District Judge’s decision in this case. While there were some similarities between the cases, there were enough differences so that it seemed plausible that, at least as a matter of first impression, they might call for differentiated approaches. 
@@ -66,9 +66,9 @@ authorities cited to me by the DPP in support of the District Judge’s decision
 
 **The appropriate benchmark sentence for an offence under s 128F** 
 
-10     There has not hitherto been any pronouncement of this court setting out the appropriate sentencing benchmarks for such offences as were committed in this case. I refer here specifically to customs offences in relation to excise duty evaded when importing more than 2kg of tobacco products and my subsequent remarks should be read in this context. I accordingly set out some guidelines below. These guidelines may be applied in accordance with the general principle that like cases should be treated alike, but always in a flexible rather than rigid manner and with due regard to the circumstances of each case: see my remarks in _Edwin s/o Suse Nathen v PP_ [2013] 4 SLR 1139 (“ _Edwin s/o Suse Nathen_ ”) at [23]. 
+10     There has not hitherto been any pronouncement of this court setting out the appropriate sentencing benchmarks for such offences as were committed in this case. I refer here specifically to customs offences in relation to excise duty evaded when importing more than 2kg of tobacco products and my subsequent remarks should be read in this context. I accordingly set out some guidelines below. These guidelines may be applied in accordance with the general principle that like cases should be treated alike, but always in a flexible rather than rigid manner and with due regard to the circumstances of each case: see my remarks in _Edwin s/o Suse Nathen v PP_ <span class="citation">[2013] 4 SLR 1139</span> (“ _Edwin s/o Suse Nathen_ ”) at [23]. 
 
-11     In this context, I take this opportunity to reiterate some important points made by Chao Hick Tin JA in _Ong Chee Eng v PP_ [2012] 3 SLR 776 (“ _Ong Chee Eng_ ”): 
+11     In this context, I take this opportunity to reiterate some important points made by Chao Hick Tin JA in _Ong Chee Eng v PP_ <span class="citation">[2012] 3 SLR 776</span> (“ _Ong Chee Eng_ ”): 
 
  (a) A key principle that undergirds our system of criminal justice is that within the range of criminal sanctions prescribed by the law, the punishment should fit the crime and also the criminal: Ong Chee Eng at [23]; 
 
@@ -77,7 +77,7 @@ authorities cited to me by the DPP in support of the District Judge’s decision
 
  (c) Benchmarks help achieve consistency in treating like cases alike, but judges must ensure that an unstinting focus on these guidelines does not lead to unlike cases being treated alike. The courts must remain sensitive to the particular facts of each case that is presented: ibid ; 
 
- (d) Sentencing decisions in previous cases have limited value if they are unreasoned and unreported. The danger in following such unreasoned decisions unthinkingly is that the sentencing judge is wont to lose sight of the particular facts and circumstances that are of the first importance when determining an appropriate sentence: Ong Chee Eng at [33], also citing the decision of Chan Sek Keong CJ in Luong Tri Trang Kathleen v PP [2010] 1 SLR 707 at [21]. 
+ (d) Sentencing decisions in previous cases have limited value if they are unreasoned and unreported. The danger in following such unreasoned decisions unthinkingly is that the sentencing judge is wont to lose sight of the particular facts and circumstances that are of the first importance when determining an appropriate sentence: Ong Chee Eng at [33], also citing the decision of Chan Sek Keong CJ in Luong Tri Trang Kathleen v PP <span class="citation">[2010] 1 SLR 707</span> at [21]. 
 
 12     There may be a very wide range of factual circumstances that might give rise to a charge under s 128F and punishable under s 128L(4) of the Customs Act. Any sentencing benchmark must be capable of being simply yet flexibly applied with due regard to the facts presented. In _Edwin s/o Suse Nathen_ I undertook much the same exercise in relation to the offence of driving while under the influence of drink, and presented a framework in which the sentencing judge first considers the extent to which the concentration of alcohol in the offender’s blood exceeds the prescribed limit and then considers the presence of aggravating or mitigating factors: at [15] and [16]. The essential value of such a framework is to guide the sentencing judge towards an appropriate sentence that is generally consistent with sentences imposed in other like cases; that has due regard to the sentencing range available to the judge; and of critical importance, that has due regard to the particular facts that are presented. 
 
@@ -102,7 +102,7 @@ authorities cited to me by the DPP in support of the District Judge’s decision
 
 excise duty that has been evaded, when subjected to a multiplier of 15 or 20, will result in very large fines that would be beyond the ability of most offenders to pay. In the present case, for instance, the excise duty evaded was assessed at $56,812.80, meaning that the minimum fine for that charge was $852,192 (15 times the duty evaded) while the maximum was $1,136,256 (20 times the duty evaded). 
 
-17     The sentencing judge has the option of imposing either a term of imprisonment or a fine or a combination of these penalties. Where it is evident that the offender will likely not be able to pay the fine, consideration should be given to imposing a sentence of imprisonment: see _Chia Kah Boon v PP_ [1999] 2 SLR(R) 1163 (“ _Chia Kah Boon_ ”) at [15]; and _Low Meng Chay v PP_ [1993] 1 SLR(R) 46 (“ _Low Meng Chay_ ”) at [13]. 
+17     The sentencing judge has the option of imposing either a term of imprisonment or a fine or a combination of these penalties. Where it is evident that the offender will likely not be able to pay the fine, consideration should be given to imposing a sentence of imprisonment: see _Chia Kah Boon v PP_ <span class="citation">[1999] 2 SLR(R) 1163</span> (“ _Chia Kah Boon_ ”) at [15]; and _Low Meng Chay v PP_ <span class="citation">[1993] 1 SLR(R) 46</span> (“ _Low Meng Chay_ ”) at [13]. 
 
 18     Where a fine is imposed, the sentencing judge will in any case stipulate the imprisonment term that is to be imposed in default of payment. However, this is not to be taken as a proxy for the punishment imposed for the original offence. The default sentence of imprisonment is imposed in order to prevent the evasion of the fine. For this reason, it would generally be inappropriate to impose a fine and a term of imprisonment in default if the effect of this will be to punish those who are genuinely unable to pay: see _Low Meng Chay_ at [13]. Hence, reference to the level of fines prescribed for these offences can only be of limited value in calibrating the appropriate sentence of imprisonment where this, rather than a fine, is the primary sentence. 
 
@@ -129,7 +129,7 @@ multiple of 15 times) or $10,950 (based on the maximum multiple of 20 times).
 
 24     The annual loss of revenue through smuggling runs into the millions of dollars: see _Sentencing_ 
 
-_Practice in the Subordinate Courts_ (LexisNexis, 3rd Ed, 2013) (“ _Sentencing Practice_ ”) at p 1597 and _PP v Ng Siong Boon_ [2007] SGDC 249 (“ _Ng Siong Boon_ ”) at [12]. But aside from the loss of revenue, there is a strong public policy interest in keeping the prices of certain items high enough to discourage their consumption. That is why in Singapore excise duties are imposed on such items as tobacco and liquors: see the First Schedule of the Customs (Duties) Order (Cap 70, O 4, 2009 Rev Ed). This is also illustrated by the statement of the Minister for Finance in Parliament when presenting the 2014 Budget speech, indicating why duties on tobacco products (among other such goods) were to be raised ( _Singapore Parliamentary Debates, Official Report_ (21 February 2014) vol 91): 
+_Practice in the Subordinate Courts_ (LexisNexis, 3rd Ed, 2013) (“ _Sentencing Practice_ ”) at p 1597 and _PP v Ng Siong Boon_ <span class="citation">[2007] SGDC 249</span> (“ _Ng Siong Boon_ ”) at [12]. But aside from the loss of revenue, there is a strong public policy interest in keeping the prices of certain items high enough to discourage their consumption. That is why in Singapore excise duties are imposed on such items as tobacco and liquors: see the First Schedule of the Customs (Duties) Order (Cap 70, O 4, 2009 Rev Ed). This is also illustrated by the statement of the Minister for Finance in Parliament when presenting the 2014 Budget speech, indicating why duties on tobacco products (among other such goods) were to be raised ( _Singapore Parliamentary Debates, Official Report_ (21 February 2014) vol 91): 
 
  Next, I will raise duties on betting, tobacco and liquor, in line with our social objective of avoiding excessive consumption or indulgence in these areas. 
 
@@ -148,9 +148,9 @@ deter such conduct. As a result, in most cases involving substantial weights of 
 
 **_The sentencing principles_** 
 
-27     From these twin objectives, it should follow that the primary factor to be considered in sentencing for the offence of smuggling is the quantity of tobacco products that has been illegally imported. The greater this amount, the greater is the injury to the public policy of restricting the consumption of such goods and indeed, the greater is the amount of the putative loss to the revenue. It is therefore appropriate, at least as a starting point, to calibrate the sentence to be imposed by reference to the quantity of tobacco product imported. This is consonant with the general principle in sentencing which is that the punishment must be proportionate to the crime (see _PP v Saiful Rizam bin Assim_ [2014] SGHC 12 at [29] and _Mohamed Shouffee Bin Adam v PP_ [2014] SGHC 34 at [47]–[50]). 
+27     From these twin objectives, it should follow that the primary factor to be considered in sentencing for the offence of smuggling is the quantity of tobacco products that has been illegally imported. The greater this amount, the greater is the injury to the public policy of restricting the consumption of such goods and indeed, the greater is the amount of the putative loss to the revenue. It is therefore appropriate, at least as a starting point, to calibrate the sentence to be imposed by reference to the quantity of tobacco product imported. This is consonant with the general principle in sentencing which is that the punishment must be proportionate to the crime (see _PP v Saiful Rizam bin Assim_ <span class="citation">[2014] SGHC 12</span> at [29] and _Mohamed Shouffee Bin Adam v PP_ <span class="citation">[2014] SGHC 34</span> at [47]–[50]). 
 
-28     In _Moey Keng Kong v PP_ [2001] 2 SLR(R) 867 (“ _Moey Keng Kong_ ”), Yong Pung How CJ (at [10]) identified five factors that he considered were relevant to sentencing for customs offences, as follows: 
+28     In _Moey Keng Kong v PP_ <span class="citation">[2001] 2 SLR(R) 867</span> (“ _Moey Keng Kong_ ”), Yong Pung How CJ (at [10]) identified five factors that he considered were relevant to sentencing for customs offences, as follows: 
 
  ... the amount of duty evaded, the quantity of goods involved, repetition of the offence, whether the offender was acting on his own or was involved in a syndicated operation, and the role of the offender. 
 
@@ -158,7 +158,7 @@ deter such conduct. As a result, in most cases involving substantial weights of 
 
 30     The next factor is the repetition of the offence. While this will generally be relevant in all sentencing decisions, it should be noted that the Customs Act already provides for uplifts of sentences where the offender has committed previous customs offences: see ss 128L(3), 128L(5) and 128L(5A). The application of these sections would provide different starting points for the sentencing exercise. Hence, there might be no need to have separate regard to whether the accused has committed previous _like_ offences if and to the extent that this has already been factored into the charges brought against the accused. However, where the prior offence is not a Customs Act offence or in any case is not an offence that has already been factored into the charge, the fact of the offender’s antecedents should rightly be considered within the rubric of general aggravating factors (see _Sentencing Practice_ at p 141). 
 
-31     The third factor is whether the offender was acting on his own or was involved in a syndicated operation. The fact that an offender commits the offence as part of a syndicate is an established aggravating factor that may justify an enhanced sentence in the interest of general deterrence: _PP v Law Aik Meng_ [2007] 2 SLR(R) 814 at [25]. Having said that, in most cases where substantial weights are involved and require modifications of vehicles, this element will be found. The precedents will therefore often have incorporated some consideration of this factor. 
+31     The third factor is whether the offender was acting on his own or was involved in a syndicated operation. The fact that an offender commits the offence as part of a syndicate is an established aggravating factor that may justify an enhanced sentence in the interest of general deterrence: _PP v Law Aik Meng_ <span class="citation">[2007] 2 SLR(R) 814</span> at [25]. Having said that, in most cases where substantial weights are involved and require modifications of vehicles, this element will be found. The precedents will therefore often have incorporated some consideration of this factor. 
 
 32     As to the final factor, the role of the offender, this too might to some extent be encapsulated in the kind of charge that is preferred. A specified offence under s 128L refers, as I have said, to 
 
@@ -210,7 +210,7 @@ offences set out in s 128D to s 128K. These are, respectively, offences in relat
 
  210 Importation 22 
 
- 4 PP v Kesavan V Matamuthu [2013] SGDC 403 
+ 4 PP v Kesavan V Matamuthu <span class="citation">[2013] SGDC 403</span> 
 
  182.04 Importation 24 
 
@@ -232,19 +232,19 @@ offences set out in s 128D to s 128K. These are, respectively, offences in relat
 
  106 Importation 14 
 
- 10 Goh Buck Koon v PP [2009] SGDC 351 100 Delivery 28 
+ 10 Goh Buck Koon v PP <span class="citation">[2009] SGDC 351</span> 100 Delivery 28 
 
- 11 Lin Lai Fu v PP [2005] SGDC 96 66 Storing 30 
+ 11 Lin Lai Fu v PP <span class="citation">[2005] SGDC 96</span> 66 Storing 30 
 
- 12 Ong Seng Huat v PP [2009] SGDC 44 58 Delivery 24 
+ 12 Ong Seng Huat v PP <span class="citation">[2009] SGDC 44</span> 58 Delivery 24 
 
- 13 R Mahendran A/L Rethinasamy v PP [2001] SGDC 371 
+ 13 R Mahendran A/L Rethinasamy v PP <span class="citation">[2001] SGDC 371</span> 
 
  50 Unloading 18 
 
- 14 Ng Siong Boon v PP [2007] SGDC 249 38.02 Importation 22 
+ 14 Ng Siong Boon v PP <span class="citation">[2007] SGDC 249</span> 38.02 Importation 22 
 
- 15 PP v S Thambiraja s/o Chelladurai [2011] SGDC 253 
+ 15 PP v S Thambiraja s/o Chelladurai <span class="citation">[2011] SGDC 253</span> 
 
  23 Importation 6 
 
@@ -271,13 +271,13 @@ offences set out in s 128D to s 128K. These are, respectively, offences in relat
 
 On this basis, it is evident that I can disregard the cases at S/N 10–13. These are not cases confined to importation. Rather, they are cases in which the offender had taken a more active role in the act of smuggling. 
 
-41     Their facts can be briefly stated to illustrate the point. In _Goh Buck Koon v PP_ [2009] SGDC 351 (S/N 10), the offender actually delivered cigarettes in Singapore using a van on behalf of an unknown Chinese male, in exchange for $400 per delivery. The charge in this case was for an offence under s 128H of the Customs Act. The offender was sentenced to 28 months’ imprisonment. 
+41     Their facts can be briefly stated to illustrate the point. In _Goh Buck Koon v PP_ <span class="citation">[2009] SGDC 351</span> (S/N 10), the offender actually delivered cigarettes in Singapore using a van on behalf of an unknown Chinese male, in exchange for $400 per delivery. The charge in this case was for an offence under s 128H of the Customs Act. The offender was sentenced to 28 months’ imprisonment. 
 
-42     In _Lin Lai Fu v PP_ [2005] SGDC 96 (S/N 11), the offender had stored 66kg of cigarettes of various brands in a room. The offender admitted that he had been asked to store the cigarettes there and to safeguard them. The charge was for the storage of dutiable or prohibited goods under s 130(1) (c) of the pre-amendment Customs Act (Cap 70, 2004 Rev Ed), which is much the same offence as that in s 128I of the amended Customs Act. The offender was sentenced to 30 months imprisonment. 
+42     In _Lin Lai Fu v PP_ <span class="citation">[2005] SGDC 96</span> (S/N 11), the offender had stored 66kg of cigarettes of various brands in a room. The offender admitted that he had been asked to store the cigarettes there and to safeguard them. The charge was for the storage of dutiable or prohibited goods under s 130(1) (c) of the pre-amendment Customs Act (Cap 70, 2004 Rev Ed), which is much the same offence as that in s 128I of the amended Customs Act. The offender was sentenced to 30 months imprisonment. 
 
-43     In _Ong Seng Huat v PP_ [2009] SGDC 44 (S/N 12), the offender had been engaged by a syndicate to collect duty unpaid cigarettes from a rubbish bin in Hougang and to deliver them to various locations in Geylang. He faced one charge under s 128H. This was rather more akin to S/N 10. The offender pleaded guilty and was sentenced to 24 months’ imprisonment. His appeal was withdrawn. 
+43     In _Ong Seng Huat v PP_ <span class="citation">[2009] SGDC 44</span> (S/N 12), the offender had been engaged by a syndicate to collect duty unpaid cigarettes from a rubbish bin in Hougang and to deliver them to various locations in Geylang. He faced one charge under s 128H. This was rather more akin to S/N 10. The offender pleaded guilty and was sentenced to 24 months’ imprisonment. His appeal was withdrawn. 
 
-44     In _R Mahendran A/L Rethinasamy v PP_ [2001] SGDC 371 (S/N 13), the offender was charged with importing 50kg of duty-unpaid cigarettes, an offence under s 130(1)( _a_ ) of the pre-amendment Customs Act, now much the same as s 128H of the present Customs Act. The offender was caught not at the Checkpoint, but at Kranji loop, where he was spotted unloading cartons of cigarettes from the lorry in which he had transported the cigarettes into Singapore to a locally registered car. Although the rubric of the charge was that he was “concerned in importing uncustomed goods”, it appears that there was the additional element of his having taken an active part in the smuggling _as well as_ the loading and unloading of the contraband cigarettes. 
+44     In _R Mahendran A/L Rethinasamy v PP_ <span class="citation">[2001] SGDC 371</span> (S/N 13), the offender was charged with importing 50kg of duty-unpaid cigarettes, an offence under s 130(1)( _a_ ) of the pre-amendment Customs Act, now much the same as s 128H of the present Customs Act. The offender was caught not at the Checkpoint, but at Kranji loop, where he was spotted unloading cartons of cigarettes from the lorry in which he had transported the cigarettes into Singapore to a locally registered car. Although the rubric of the charge was that he was “concerned in importing uncustomed goods”, it appears that there was the additional element of his having taken an active part in the smuggling _as well as_ the loading and unloading of the contraband cigarettes. 
 
 45     I therefore do not think these cases can assist in developing a sentencing framework for cases where the offender’s _sole_ role was to _transport_ contraband cigarettes into Singapore. 
 
@@ -304,16 +304,16 @@ On this basis, it is evident that I can disregard the cases at S/N 10–13. Thes
 
 52     The next pair of cases illustrates the difficulties in sentencing practice in this area as well as the dangers of depending on previous decisions which are unreasoned and as a result, unexplained. In _Mohd Zaky bin Abdul Wahid v PP_ (DAC 25507-8/2013) (S/N 7) the accused was sentenced to 8 months’ imprisonment for importing 171.2kg of tobacco products; while in _Tee Eng Seng v PP_ (S/N 8) the accused was sentenced to a term of imprisonment almost three times as long, of 22 months for importing 1.5kg _less_ than in the former case. The charge sheets and the statement of facts in these cases were not exhibited and on the face of it, I cannot regard these cases as useful precedents. 
 
-53     In _Ng Siong Boon_ [2007] SGDC 249 (S/N 14), the offender was apprehended while passing through the Woodlands Checkpoint. A total of 38kg of duty-unpaid cigarettes were found in his car and he was charged for importation under s 130(1)( _a_ ) of the pre-amendment Customs Act. The District Judge considered that this was a syndicate operation and that a large amount of excise duty had been evaded. The offender was sentenced to 22 months’ imprisonment and his appeal lapsed. 
+53     In _Ng Siong Boon_ <span class="citation">[2007] SGDC 249</span> (S/N 14), the offender was apprehended while passing through the Woodlands Checkpoint. A total of 38kg of duty-unpaid cigarettes were found in his car and he was charged for importation under s 130(1)( _a_ ) of the pre-amendment Customs Act. The District Judge considered that this was a syndicate operation and that a large amount of excise duty had been evaded. The offender was sentenced to 22 months’ imprisonment and his appeal lapsed. 
 
-54     On the other hand, the facts in _PP v S Thambiraja s/o Chelladurai_ [2011] SGDC 253 (“ _Thambiraja_ ”) (S/N 15) are somewhat similar to this appeal save that it involved a smaller quantity: 
+54     On the other hand, the facts in _PP v S Thambiraja s/o Chelladurai_ <span class="citation">[2011] SGDC 253</span> (“ _Thambiraja_ ”) (S/N 15) are somewhat similar to this appeal save that it involved a smaller quantity: 
 
 
 the offender was apprehended at the Woodlands Checkpoint and 23kg of cigarettes were found in his car. However, the District Judge noted that there was no evidence of a criminal syndicate being involved and noted that the offender had done this to pay off loan sharks. She found no mitigating factors other than that he was a first offender and had pleaded guilty. The judge imposed a sentence of six months’ imprisonment in that case. I note this would fall within the sentencing framework I have outlined above. 
 
 55     It is evident from this analysis that there is a need for a framework of the sort I have set out to guide sentencing courts dealing with such offenders. It bears reiterating that the benchmarks I have laid down will require further calibration in each case in order to give effect to the actual circumstances presented including any aggravating and mitigating factors where present. The weight to be accorded to such factors should generally be linked to the rationale of sentencing that applies in relation to this offence but this is not an inflexible rule: see _Edwin s/o Suse Nathen_ at [26]. The duty remains on the sentencing judge always to ensure that the final sentence remains proportionate to the overall criminality of the offender. 
 
-56     I make one further point in relation to these benchmarks. In most cases of smuggling, the offender will be charged with two counts, one for evading excise duty, and the other for evading GST. In my view, where the two charges relate to the same goods, it would generally be inappropriate to order that the sentences be imposed consecutively as this would offend the onetransaction rule: see _Mohamed Shouffee bin Adam v PP_ [2014] SGHC 34 (“ _Mohamed Shouffee_ ”) at [27]. As GST is currently lower than the excise duty, the evasion of GST will generally attract the lesser sentence and so it would follow that the overall sentence will generally be determined by the sentence imposed in respect of the excise duty charge. 
+56     I make one further point in relation to these benchmarks. In most cases of smuggling, the offender will be charged with two counts, one for evading excise duty, and the other for evading GST. In my view, where the two charges relate to the same goods, it would generally be inappropriate to order that the sentences be imposed consecutively as this would offend the onetransaction rule: see _Mohamed Shouffee bin Adam v PP_ <span class="citation">[2014] SGHC 34</span> (“ _Mohamed Shouffee_ ”) at [27]. As GST is currently lower than the excise duty, the evasion of GST will generally attract the lesser sentence and so it would follow that the overall sentence will generally be determined by the sentence imposed in respect of the excise duty charge. 
 
 57     To summarise the foregoing: 
 
@@ -338,7 +338,7 @@ the offender was apprehended at the Woodlands Checkpoint and 23kg of cigarettes 
 
 **My decision** 
 
-58     Appellate intervention is called for only in limited circumstances, for instance, where it can be shown that the sentence is wrong in principle or that the sentencing judge has erred in failing to correctly appreciate the material that is before him: see _PP v UI_ [2008] 4 SLR(R) 500 (“ _PP v UI_ ”) at [12]. 
+58     Appellate intervention is called for only in limited circumstances, for instance, where it can be shown that the sentence is wrong in principle or that the sentencing judge has erred in failing to correctly appreciate the material that is before him: see _PP v UI_ <span class="citation">[2008] 4 SLR(R) 500</span> (“ _PP v UI_ ”) at [12]. 
 
 59     There were three main reasons the District Judge relied on to impose the sentence that he did. These were: 
 
@@ -369,7 +369,7 @@ _The judicial duty to give reasons_
 
  The need for a judge to state the reasons for his decision is no mere technicality, nor does it depend mainly on the rules of court. It is an important part of a judge's duty in every case, when he gives a final judgment at the end of a trial, to state the grounds of his decision, unless there are special reasons, such as urgency, for not doing so. 
 
-67     A duty to give reasons must, in this context, entail the duty to give _sufficient_ reasons that adequately engage with the unique circumstances of each case. In _Thong Ah Fat v PP_ [2012] 1 SLR 676 (“ _Thong Ah Fat_ ”) the Court of Appeal took account of the fact that the requirement to give reasons would increase costs and result in delays but concluded at [30]: 
+67     A duty to give reasons must, in this context, entail the duty to give _sufficient_ reasons that adequately engage with the unique circumstances of each case. In _Thong Ah Fat v PP_ <span class="citation">[2012] 1 SLR 676</span> (“ _Thong Ah Fat_ ”) the Court of Appeal took account of the fact that the requirement to give reasons would increase costs and result in delays but concluded at [30]: 
 
  We think that the correct response to these concerns is to have a standard of explanation which corresponds to the requirements of the case rather than to reject the duty totally. The key is to strike an appropriate balance. While such anxieties do not warrant outright rejection of the duty altogether, they have been taken into account quite rightly in dispensing with reasons in certain cases and matters (see below at [32]–[33]), in accepting the appropriateness of abbreviated oral reasons in some situations, and in adjusting the level of detail required of the statement of reasons to suit the circumstances in other cases. [emphasis in original] 
 
@@ -434,7 +434,7 @@ a very substantial weight of tobacco product which was well above the 2kg limit 
 
 83     No doubt the appellant was undertaking a high-risk, high reward enterprise in which the risk of being caught had eventuated. However, this is inherent in the offence of smuggling. The DPP said that the appellant’s fee of MYR 2,000 was substantially above the payments received by other apprehended smugglers but I cannot see how this can justify a significantly enhanced sentence. The touchstone of smuggling offences is the harm done to the public policy of restricting consumption of certain specified products and also the loss to the state revenue. 
 
-84     Turning to the mitigating factors advanced by the appellant, in my judgment the appellant’s expressed remorse cannot count for very much in this case. He was caught red-handed and this militates against any plea that he was motivated by genuine remorse: see _Angliss Singapore Pte Ltd v PP_ [2006] 4 SLR(R) 653 at [69]. The fact that he lived alone and faced financial hardship may explain why he committed the offences but cannot exculpate or even mitigate his culpability, particularly as these factors have very little to do with mitigating the mischief that his offence has caused: see above at [55]. 
+84     Turning to the mitigating factors advanced by the appellant, in my judgment the appellant’s expressed remorse cannot count for very much in this case. He was caught red-handed and this militates against any plea that he was motivated by genuine remorse: see _Angliss Singapore Pte Ltd v PP_ <span class="citation">[2006] 4 SLR(R) 653</span> at [69]. The fact that he lived alone and faced financial hardship may explain why he committed the offences but cannot exculpate or even mitigate his culpability, particularly as these factors have very little to do with mitigating the mischief that his offence has caused: see above at [55]. 
 
 
 _Old age as a mitigating factor_ 
@@ -443,7 +443,7 @@ _Old age as a mitigating factor_
 
 86     The DPP as I have said relied on the decision of the Court of Appeal in _PP v UI_ at [78] and this passage bears setting out in full: 
 
- In this regard, we would add that, in general, the mature age of the offender does not warrant a moderation of the punishment to be meted out (see Krishan Chand v PP [1995] 1 SLR(R) 737 at [8]). But, where the sentence is a long term of imprisonment, the offender's age is a relevant factor as, unless the Legislature has prescribed a life sentence for the offence, the court should not impose a sentence that effectively amounts to a life sentence. Such a sentence would be regarded as crushing and would breach the totality principle of sentencing. In the present case, the Respondent will, with remission for good behaviour, be released at an age that should give him some time to spend with his family and to fulfil his wish to make amends to the Victim. 
+ In this regard, we would add that, in general, the mature age of the offender does not warrant a moderation of the punishment to be meted out (see Krishan Chand v PP <span class="citation">[1995] 1 SLR(R) 737</span> at [8]). But, where the sentence is a long term of imprisonment, the offender's age is a relevant factor as, unless the Legislature has prescribed a life sentence for the offence, the court should not impose a sentence that effectively amounts to a life sentence. Such a sentence would be regarded as crushing and would breach the totality principle of sentencing. In the present case, the Respondent will, with remission for good behaviour, be released at an age that should give him some time to spend with his family and to fulfil his wish to make amends to the Victim. 
 
 87     I agree and indeed I am bound by this decision. The passage however needs to be unpacked in order to extract the underlying principle. In my judgment, the key emphasis placed by the Court of Appeal was on whether, in all the circumstances of the case, the sentence may be regarded as crushing because of the fact that the aged offender has an abbreviated expectation of his life prospects. This is not a principle limited in its application to cases where the sentence “is a long term of imprisonment” so that the sentence “effectively amounts to a life sentence”. 
 

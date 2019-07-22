@@ -253,7 +253,7 @@ enter into the numerous agreements with Dr Goh and/or Michelle. [note: 7] There 
 66     In the AM application, the plaintiffs’ counsel, Mr Sreenivasan, SC, requested the court to grant 
 
 
-a “Springboard’ injunction, derived from the UK case _Terrapin Ltd v Builders’ Supply Co (Hayes) Ltd and others_ [1960] RPC 128 which decision our courts adverted to in _Jardine Lloyd Thompson Pte Ltd v Howden Insuranc e Brokers (S) Pte Ltd and others_ [2015] 5 SLR 258 (although in that case Choo Han Teck J declined to grant the “Springboard” injunction). 
+a “Springboard’ injunction, derived from the UK case _Terrapin Ltd v Builders’ Supply Co (Hayes) Ltd and others_ [1960] RPC 128 which decision our courts adverted to in _Jardine Lloyd Thompson Pte Ltd v Howden Insuranc e Brokers (S) Pte Ltd and others_ <span class="citation">[2015] 5 SLR 258</span> (although in that case Choo Han Teck J declined to grant the “Springboard” injunction). 
 
 67     Mr Sreenivasan submitted that a “Springboard” injunction was necessary to prevent Quikglow from having a head start and obtaining an unfair advantage over the Company through the misuse of confidential information obtained by Dr Goh and Michelle while they were employees and/or directors of the Company. He said the Company should be entitled to a “Springboard” injunction if it fulfilled the following requirements (culled from _QBE Management Servic es (UK) Ltd v Charles Dymoke and others_ [2012] IRLR 458 at [239]–[247]): 
 

@@ -63,7 +63,7 @@ As such, counsel for CHHKC and Neo contended that since any decision(s) and/or a
 
 **_The plaintiff’s submissions_** 
 
-7       Counsel for Lim relied on the decision of Judith Prakash J in _Nagase Singapore Pte Ltd v Ching Kai Huat_ [2008] 1 SLR 80 (“ _Nagase_ ”) where it was held that, _in law_ , there can be a conspiracy between a company and its controlling director to damage a third party by unlawful means even where the director is the company’s moving spirit. 
+7       Counsel for Lim relied on the decision of Judith Prakash J in _Nagase Singapore Pte Ltd v Ching Kai Huat_ <span class="citation">[2008] 1 SLR 80</span> (“ _Nagase_ ”) where it was held that, _in law_ , there can be a conspiracy between a company and its controlling director to damage a third party by unlawful means even where the director is the company’s moving spirit. 
 
 **The decision of this court** 
 
@@ -71,14 +71,14 @@ As such, counsel for CHHKC and Neo contended that since any decision(s) and/or a
 
 **_The two forms of the tort of conspiracy_** 
 
-9       The Court of Appeal in _Quah Kay Tee v Ong & Co Pte Ltd_ [1997] 1 SLR 390 (“ _Quah Kay Tee_ ”) noted (at [45]) that: 
+9       The Court of Appeal in _Quah Kay Tee v Ong & Co Pte Ltd_ <span class="citation">[1997] 1 SLR 390</span> (“ _Quah Kay Tee_ ”) noted (at [45]) that: 
 
  The tort of conspiracy comprises two types: conspiracy by unlawful means and conspiracy by lawful means. A conspiracy by unlawful means is constituted when two or more persons combine 
 
 
  to commit an unlawful act with the intention of injuring or damaging the plaintiff, and the act is carried out and the intention achieved. In a conspiracy by lawful means, there need not be an unlawful act committed by the conspirators. But there is the additional requirement of proving a ‘predominant purpose’ by all the conspirators to cause injury or damage to the plaintiff, and the act is carried out and the purpose achieved. [emphasis added] 
 
-10     In _Wu Yang Construction Group Ltd v Zhejiang Jinyi Group Co, Ltd_ [2006] 4 SLR 451 ( _“Wu Yang”_ ), Andrew Phang Boon Leong J summarised the nature and rationale underlying these two forms of conspiracy and their similarities and differences (at [75]–[79]): 
+10     In _Wu Yang Construction Group Ltd v Zhejiang Jinyi Group Co, Ltd_ <span class="citation">[2006] 4 SLR 451</span> ( _“Wu Yang”_ ), Andrew Phang Boon Leong J summarised the nature and rationale underlying these two forms of conspiracy and their similarities and differences (at [75]–[79]): 
 
  75 It is apposite to note that the actual principles of law relating to the tort of conspiracy are none too clear. What is clear is that there are, traditionally, two separate and distinct aspects or ways of applying the tort of conspiracy. As might have been surmised, the legal principles with respect to each aspect are somewhat different. 
 
@@ -113,7 +113,7 @@ As such, counsel for CHHKC and Neo contended that since any decision(s) and/or a
 
 **_Nagase_** 
 
-1       3 _Nagase_ was a second judgment arising from a dispute between the parties thereto. In the action resulting in the first judgment (see _Nagase Singapore Pte Ltd v Chin Kai Huat_ [2007] 3 SLR 265) (“the first judgment”), the plaintiff, Nagase Singapore Pte Ltd, alleged a conspiracy between the following parties to overcharge the plaintiff for warehousing services: 
+1       3 _Nagase_ was a second judgment arising from a dispute between the parties thereto. In the action resulting in the first judgment (see _Nagase Singapore Pte Ltd v Chin Kai Huat_ <span class="citation">[2007] 3 SLR 265</span>) (“the first judgment”), the plaintiff, Nagase Singapore Pte Ltd, alleged a conspiracy between the following parties to overcharge the plaintiff for warehousing services: 
 
  (a) its employees, Clement Yip and Mary Ting, (“Yip and Ting”); 
 
@@ -134,7 +134,7 @@ As such, counsel for CHHKC and Neo contended that since any decision(s) and/or a
 
  Now that I have heard full submissions on the point, I am satisfied that, in law, there can be a conspiracy between a company and its controlling director to damage a third party by unlawful means notwithstanding that the director may be the moving spirit of the company, as I have found that [Ching] was. As I stated in the first judgment, since I had found that [Ching] was responsible for the overcharging undertaken by D Logistics, it was unattractive to have to hold that only D Logistics could be legally liable for that wrongful act. That was why I called for further submissions. [emphasis added] 
 
-18     In _Nagase_ , Prakash J relied extensively on the Court of Appeal decision in _Chew Kong Huat v Ricwil (Singapore) Pte Ltd_ [2000] 1 SLR 385 (“the _Ricwil_ case”) and the decision of the Irish Supreme Court in _Taylor v Smyth_ [1991] 1 IR 142 (“ _Taylor_ ”). 
+18     In _Nagase_ , Prakash J relied extensively on the Court of Appeal decision in _Chew Kong Huat v Ricwil (Singapore) Pte Ltd_ <span class="citation">[2000] 1 SLR 385</span> (“the _Ricwil_ case”) and the decision of the Irish Supreme Court in _Taylor v Smyth_ [1991] 1 IR 142 (“ _Taylor_ ”). 
 
 **_The rationale for the court’s holding in Nagase_** 
 
@@ -200,7 +200,7 @@ The Privy Council continued (at 767):
 
 **_The case of Chong Hon Kuan_** 
 
-31     At [10] of _Nagase_ , Prakash J had distinguished Woo Bih Li’s decision in _Chong Hon Kuan Ivan v Levy Maurice (No 2)_ [2004] 4 SLR 801 (“ _Chong Hon Kuan_ ”) because: 
+31     At [10] of _Nagase_ , Prakash J had distinguished Woo Bih Li’s decision in _Chong Hon Kuan Ivan v Levy Maurice (No 2)_ <span class="citation">[2004] 4 SLR 801</span> (“ _Chong Hon Kuan_ ”) because: 
 
  It would be noted that in the Chong Hon Kuan case, the alleged conspiracy was amongst the three directors of Publicis Singapore. Publicis Singapore [ ie , the company] itself was not a party to the conspiracy. Therefore, the case did not discuss the issue of whether a single director and the company which he directed could legally be considered co-conspirators. [emphasis added] 
 
@@ -216,7 +216,7 @@ The Privy Council continued (at 767):
 
 35     Hence, intention or purpose, which relates to the parties’ states of mind with regard to the injury, is relevant to _both_ forms of conspiracy, though the _degree_ of this “intention” or “purpose” is different in each form. Against this backdrop, _Chong Hon Kuan_ can be said to have reduced the proposition in _Said v Butt_ to the following – a claim of conspiracy against an individual director must fail where the director is acting _bona fide_ and within the scope of his authority. Whether the director has acted in a _bona fide_ manner within the scope of his authority must be relevant in evaluating whether such director had the requisite “intention” or “purpose” to injure the plaintiff. Where a director acts _bona fide_ within the scope of his authority but nevertheless causes damage or injury to a plaintiff, it cannot easily be said (with a view to establishing a claim in conspiracy) that he had the requisite intention or purpose to injure or damage the plaintiff. Simply put, why should a director acting _bona fide_ within his authority, and without more, be liable in conspiracy with the company? As Gene Kwek Jin Hee and Kumaralingam Amirthalingam opined in “ _Tort Law_ ” (2007) 8 SAL Ann Rev 410 at p 415, [22.22]: 
 
- [ Nagase ] would not be inconsistent with the principle in Said v Butt [1920] 3 KB 497 and Chong Hon Kuan Ivan v Levy Maurice (No 2) [2004] 4 SLR 801 (which applied Said v Butt ). The essence 
+ [ Nagase ] would not be inconsistent with the principle in Said v Butt [1920] 3 KB 497 and Chong Hon Kuan Ivan v Levy Maurice (No 2) <span class="citation">[2004] 4 SLR 801</span> (which applied Said v Butt ). The essence 
 
 
  of that principle was that a servant of a company could not be held liable for the company’s tort if he had acted bona fide within the scope of his duty in directing the action of the company. In such a case, the assumption would follow that he would not have acted by unlawful means so as to attract liability as a co-conspirator. [emphasis added] 

@@ -169,11 +169,11 @@ The plaintiff purported to terminate the Agreement via a letter sent on 5 June 2
 
  (5) Where a statement is admitted in evidence under subsection (1), the court shall assign such weight as it deems fit to the statement. 
 
-28     The term “statements” within s 32 of the EA is wide enough to encompass AEICs. Additionally, the court in _Wan Lai Ting v Kea Kah Lim_ [2014] 4 SLR 795 (“ _Wan Lai Ting_ ”) examined s 32 of the EA and concluded that the provisions do apply to AEICs (see _Wan Lai Ting_ at [13]–[15]). This position was confirmed by the Court of Appeal in _Cheo Yeoh & Associates LLC and another v AEL and others_ [2015] 4 SLR 325 at [94]–[96], where the court affirmed a trial judge’s decision to admit an AEIC pursuant to s 32. 
+28     The term “statements” within s 32 of the EA is wide enough to encompass AEICs. Additionally, the court in _Wan Lai Ting v Kea Kah Lim_ <span class="citation">[2014] 4 SLR 795</span> (“ _Wan Lai Ting_ ”) examined s 32 of the EA and concluded that the provisions do apply to AEICs (see _Wan Lai Ting_ at [13]–[15]). This position was confirmed by the Court of Appeal in _Cheo Yeoh & Associates LLC and another v AEL and others_ <span class="citation">[2015] 4 SLR 325</span> at [94]–[96], where the court affirmed a trial judge’s decision to admit an AEIC pursuant to s 32. 
 
 29     However, an AEIC of a witness who is absent from trial is not to be admitted as a matter of course. From the wording of s 32 of the EA as set out above, it is clear that there are two requirements before such an AEIC can be admitted pursuant to s 32(1)( _j_ )(iii). First the witness must be outside of Singapore, and second it must not be practicable to secure his attendance: s 32(1) ( _j)_ (iii). Even if these two requirements are met, the court nevertheless can exclude the AEIC if it is not in the interest of justice to admit the AEIC: s 32(3). 
 
-30     The Court of Appeal in _Gimpex Ltd v Unity Holdings Business Ltd and others and another appeal_ [2015] 2 SLR 686 (“ _Gimpex_ ”) examined the requirements of s 32(1)( _j_ )(iii) of the EA in some detail. The court highlighted that the burden of proving the requirements of s 32(1)( _j_ ) lies with the party seeking to rely on that provision (see _Gimpex_ at [97]). The court also stated that “what is ‘practicable’ is open to interpretation and would depend on the circumstances” (see _Gimpex_ at [98]). 
+30     The Court of Appeal in _Gimpex Ltd v Unity Holdings Business Ltd and others and another appeal_ <span class="citation">[2015] 2 SLR 686</span> (“ _Gimpex_ ”) examined the requirements of s 32(1)( _j_ )(iii) of the EA in some detail. The court highlighted that the burden of proving the requirements of s 32(1)( _j_ ) lies with the party seeking to rely on that provision (see _Gimpex_ at [97]). The court also stated that “what is ‘practicable’ is open to interpretation and would depend on the circumstances” (see _Gimpex_ at [98]). 
 
 31     In the present proceedings, the first requirement is not disputed: both parties agree that Abraham is currently living in Australia. However, the parties are disputing whether it is practicable to secure Abraham’s attendance. 
 
@@ -317,7 +317,7 @@ its invoices issued to the plaintiff. [note: 34]
 
 55     The court in _Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ [2006] 1 SLR (R) 927 at [46] has highlighted that in the process of ascertaining the terms of a contract, a holistic approach considering both documentary evidence and witness testimony is to be to undertaken. 
 
-56     In the context of determining the existence of an oral agreement, the court in _ARS v ART and another_ [2015] SGHC 78 (“ _ARS_ ”) at [53] has stated: 
+56     In the context of determining the existence of an oral agreement, the court in _ARS v ART and another_ <span class="citation">[2015] SGHC 78</span> (“ _ARS_ ”) at [53] has stated: 
 
  53 I distil the following guiding principles on the proper approach for determining the existence of an oral agreement as set out in the cases cited above: 
 
@@ -626,7 +626,7 @@ February 2013 that the defendant took issue with the dates. [note: 75]
 
 98     At this juncture, I note that the defendant appears to suggest that there is an implied term in fact with the effect of the Merchantable Products Term. However, beyond asserting that without the Merchantable Products Term “the agreement reached between the parties will not make commercial 
 
-sense”, the defendant does not make any further argument on this point. [note: 76] In particular, I highlight that the defendant has not shown how the requirements for the implication of terms in fact laid down by the Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd_ [2013] 4 SLR 193 
+sense”, the defendant does not make any further argument on this point. [note: 76] In particular, I highlight that the defendant has not shown how the requirements for the implication of terms in fact laid down by the Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd_ <span class="citation">[2013] 4 SLR 193</span> 
 
 
 (“ _Sembcorp Marine_ ”) at [101] have been satisfied. The defendant has also not made any mention in its pleadings or submissions on any implied term in law pursuant to the Sale of Goods Act (Cap 393, 1999 Rev Ed) and hence I will not consider the existence of the Merchantable Products Term on this basis. 
@@ -653,7 +653,7 @@ commission from the retailers. [note: 80] Ramu also acknowledged that the plaint
 
 courier for the defendant in respect of the sales commissions. [note: 81] 
 
-104    In _Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd (formerly known as Soup Restaurant (Causeway Point) Pte Ltd)_ [2015] 5 SLR 1187 (“ _Soup Restaurant_ ”) at [48] the Court of Appeal approved the approach taken by the UK Supreme Court in _Rainy Sky SA v Kookmin Bank_ [2011] 1 WLR 2900, which held that if there are two possible interpretations of a term, the court is entitled to adopt the interpretation that is more consistent with business common sense. This is subject to the caveat that if the evidence demonstrates that the parties objectively intended for a less commercially sensible interpretation to apply, the court cannot disregard this objective intention (see _Soup Restaurant_ at [32]). 
+104    In _Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd (formerly known as Soup Restaurant (Causeway Point) Pte Ltd)_ <span class="citation">[2015] 5 SLR 1187</span> (“ _Soup Restaurant_ ”) at [48] the Court of Appeal approved the approach taken by the UK Supreme Court in _Rainy Sky SA v Kookmin Bank_ [2011] 1 WLR 2900, which held that if there are two possible interpretations of a term, the court is entitled to adopt the interpretation that is more consistent with business common sense. This is subject to the caveat that if the evidence demonstrates that the parties objectively intended for a less commercially sensible interpretation to apply, the court cannot disregard this objective intention (see _Soup Restaurant_ at [32]). 
 
 105    It would be extremely unusual for a courier to deliver money in advance of the actual receipt of the money. No evidence was led to demonstrate that the parties had agreed to terms that would deviate from the normal practice and enter into this unusual arrangement. Hence I find that the parties had objectively intended for the normal practice to apply with respect to the collection of the sales commissions, and the sales commissions were only due upon the plaintiff’s receipt of the same. 
 
@@ -768,7 +768,7 @@ mention that “the purported termination is wrong”. [note: 98] However, this 
 
 several breaches of the Agreement in various paragraph of the Defence, [note: 100] but none of these pertained to the removal of the defendant from Ruby Warehouse. 
 
-123    As highlighted by the Court of Appeal in _V Nithia (co-administratrix of the estate of Ponnusamy Sivapakiam, deceased) v Buthmanaban s/o Vaithilingam and another_ [2015] 5 SLR 1422 (“ _V Nithia_ ”) at [38], the general rule is that parties are bound by their pleadings and the court is precluded from deciding on a matter that parties have decided not to put into issue. One exception to this general rule is where no prejudice is caused to the other party at trial or it would be clearly unjust for the court not to depart from the rule (see _V Nithia_ at [40]). 
+123    As highlighted by the Court of Appeal in _V Nithia (co-administratrix of the estate of Ponnusamy Sivapakiam, deceased) v Buthmanaban s/o Vaithilingam and another_ <span class="citation">[2015] 5 SLR 1422</span> (“ _V Nithia_ ”) at [38], the general rule is that parties are bound by their pleadings and the court is precluded from deciding on a matter that parties have decided not to put into issue. One exception to this general rule is where no prejudice is caused to the other party at trial or it would be clearly unjust for the court not to depart from the rule (see _V Nithia_ at [40]). 
 
 124    The deficiency in pleadings in the present case has caused prejudice to the plaintiff. In this regard, I note that one way the plaintiff could have addressed the defendant’s argument on wrongful 
 
@@ -874,7 +874,7 @@ transfer SKUs to its accounts is reflected in clause 4.3.4 of the 9 April Draft:
 
 clause 4.3.4 does not set any time limit for this registration process to take place. [note: 112] 
 
-148    The lack of a stipulation as to time is not fatal to the plaintiff’s case. This is because where a contract does not specify the time for performance by a party that has undertaken to carry out such performance, an obligation to perform within a reasonable time is implied in law: _Max Master Holdings Ltd and others v Taufik Surya Dharma and others and another suit_ [2016] SGHC 147 at [98]. What is “reasonable” would depend on all the circumstances of the case, and the court is not limited to what the parties contemplated or ought to have foreseen at the time of entry into the contract: _Chitty_ at para 21–021. Hence the crux of the present issue is whether the defendant had performed its obligation within a reasonable time by setting up accounts with retailers in April 2013, and transferring the SKUs in May 2013. 
+148    The lack of a stipulation as to time is not fatal to the plaintiff’s case. This is because where a contract does not specify the time for performance by a party that has undertaken to carry out such performance, an obligation to perform within a reasonable time is implied in law: _Max Master Holdings Ltd and others v Taufik Surya Dharma and others and another suit_ <span class="citation">[2016] SGHC 147</span> at [98]. What is “reasonable” would depend on all the circumstances of the case, and the court is not limited to what the parties contemplated or ought to have foreseen at the time of entry into the contract: _Chitty_ at para 21–021. Hence the crux of the present issue is whether the defendant had performed its obligation within a reasonable time by setting up accounts with retailers in April 2013, and transferring the SKUs in May 2013. 
 
 149    I find that the defendant had not performed the obligation within a reasonable time. The evidence of David, which I accept, is that based on his previous experience with opening new accounts with the retailers in question, it would take typically two to three weeks to open an 
 

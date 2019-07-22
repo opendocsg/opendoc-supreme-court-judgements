@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ – _Illegally importing controlled drugs_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 21 of 2016 was dismissed by the Court of Appeal on 18 January 2017. See [2017] SGCA 25.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 21 of 2016 was dismissed by the Court of Appeal on 18 January 2017. See <span class="citation">[2017] SGCA 25</span>.] 
 
 31 August 2016 
 
@@ -105,15 +105,15 @@ The prosecution drew attention to the fact that in the second case and the fourt
 
 15     The sentence prescribed for the offence he was convicted of (importing 499 grams of cannabis) spans a minimum 20 years imprisonment and 15 strokes and a maximum 30 years or life imprisonment and 15 strokes of the cane. If the prosecution, in proceeding with the principal charge against him, had not reduced the weight of the cannabis from 836 grams which he was actually carrying to 499 grams, he could have faced the death penalty. When the weight was brought down to 499 grams, the Accused did not have to fear being sentenced to death. 
 
-16     The effect of a reduction from the actual weight of drugs and the avoidance of the death penalty on sentencing has been considered judicially. In _PP v Rahmat Bin Abdullah and Another_ [2003] SGHC 206 Choo Han Teck J stated (at [9]) that: 
+16     The effect of a reduction from the actual weight of drugs and the avoidance of the death penalty on sentencing has been considered judicially. In _PP v Rahmat Bin Abdullah and Another_ <span class="citation">[2003] SGHC 206</span> Choo Han Teck J stated (at [9]) that: 
 
  ...it would be relevant to take into account the quantity and weight of the drugs seized, but one must not exceed the relevancy of this factor, and regard the DPP’s decision to amend the charge to a non-capital one as justifying a higher sentence in itself. 
 
-17     Tay Yong Kwang J (as he then was) added clarity to the issue in two recent judgments. In _PP v Kisshahllini a/p Paramesuvaran_ [2016] 3 SLR 261 he stated (at [13]) that: 
+17     Tay Yong Kwang J (as he then was) added clarity to the issue in two recent judgments. In _PP v Kisshahllini a/p Paramesuvaran_ <span class="citation">[2016] 3 SLR 261</span> he stated (at [13]) that: 
 
  The accused had admitted to importing 18.03g of diamorphine. The Prosecution exercised its discretion to proceed on a non-capital charge, which is that of the unauthorised importation of not less than 10g but not more than 15g of diamorphine. Both parties agreed that the total amount of diamorphine that was actually imported was relevant to be sentence. I disagreed with the Defence that the minimum sentence of 20 years imprisonment would be adequate. (emphasis added) 
 
-and in _PP v Nguyen Thi Thanh Hai_ [2016] 3 SLR 347 where the accused person was charged and convicted for importing 249.99 grams of methamphetamine (a weight more than 250 grams would attract the death penalty) when the actual weight of the drug involved was 2,041 grams, Tay J made it clear (at [32]) in passing sentence that: 
+and in _PP v Nguyen Thi Thanh Hai_ <span class="citation">[2016] 3 SLR 347</span> where the accused person was charged and convicted for importing 249.99 grams of methamphetamine (a weight more than 250 grams would attract the death penalty) when the actual weight of the drug involved was 2,041 grams, Tay J made it clear (at [32]) in passing sentence that: 
 
  Given that the actual amount of methamphetamine that the accused admitted to importing far exceeded 250g , a sentence above the minimum of 20 years of imprisonment was warranted. (emphasis added) 
 
@@ -128,11 +128,11 @@ quantity of drugs, the accused cannot be sentenced on the basis of the actual qu
 
  If the accused is found guilty of an offence in any criminal proceedings begun by or on behalf of the Public Prosecutor, the court in determining and passing sentence may, with the consent of the prosecution and the accused, take into consideration any other outstanding offences that the accused admits to have committed. 
 
-20     What effect does having an offence taken into consideration have for the purpose of sentencing for the principal charge? One short answer was provided by Yong Pung How CJ at [19] in _PP v Mok Ping Wuen Maurice_ [1998] 3 SLR(R) 439 (“ _Mok Ping Wuen Maurice_ ”), that: 
+20     What effect does having an offence taken into consideration have for the purpose of sentencing for the principal charge? One short answer was provided by Yong Pung How CJ at [19] in _PP v Mok Ping Wuen Maurice_ <span class="citation">[1998] 3 SLR(R) 439</span> (“ _Mok Ping Wuen Maurice_ ”), that: 
 
  The effect of taking into consideration outstanding charges is to enhance the sentence that would otherwise be awarded. 
 
-21     This proposition has been refined in subsequent judgments. In _Navaseelan Balasingam v PP_ [2007] 1 SLR(R) 767 (“ _Navaseelan_ ”), the accused/appellant had pleaded guilty to ten charges (the principal charges): 
+21     This proposition has been refined in subsequent judgments. In _Navaseelan Balasingam v PP_ <span class="citation">[2007] 1 SLR(R) 767</span> (“ _Navaseelan_ ”), the accused/appellant had pleaded guilty to ten charges (the principal charges): 
 
  (a) five charges under s 4 of the Computer Misuse Act (Cap 50A, 1998 Rev Ed) (“CMA”) for causing automated teller machines to access data held in the central computer systems of a bank, resulting in unauthorised withdrawals from accounts with the bank; and 
 
@@ -140,7 +140,7 @@ quantity of drugs, the accused cannot be sentenced on the basis of the actual qu
 
 22     The accused /appellant also consented to have 258 charges (comprising 129 charges under s 4, CMA and 129 charges under s 379, PC) taken into consideration for the purpose of sentencing. On his appeal against sentence imposed by a District Judge, Tay J exercised his powers of revision and increased the sentence imposed by the District Judge. Tay J noted in his judgment at [17] that “the appellant had admitted many more _similar_ offences and that fact must _aggravate the charges_ proceeded with”. (emphasis added) 
 
-23     In _PP v UI_ [2008] 4 SLR(R) 500, Chan Sek Keong CJ undertook a review on how charges taken into consideration are to be reflected in the sentences imposed for the offences actually proceeded with. He referred to _Mok Ping Wuen Maurice_ and _Navaseelan_ , and surmised at [38] that while there is no hard rule that a court must increase the sentence imposed for offences proceeded with, when offences have been taken into consideration for the purpose of sentencing, a sentencing court would have erred if it “decides not to consider the TIC offences as _aggravating the offences proceeded with_ where it is clear that the (TIC) offences should be so considered”. (emphasis added) 
+23     In _PP v UI_ <span class="citation">[2008] 4 SLR(R) 500</span>, Chan Sek Keong CJ undertook a review on how charges taken into consideration are to be reflected in the sentences imposed for the offences actually proceeded with. He referred to _Mok Ping Wuen Maurice_ and _Navaseelan_ , and surmised at [38] that while there is no hard rule that a court must increase the sentence imposed for offences proceeded with, when offences have been taken into consideration for the purpose of sentencing, a sentencing court would have erred if it “decides not to consider the TIC offences as _aggravating the offences proceeded with_ where it is clear that the (TIC) offences should be so considered”. (emphasis added) 
 
 24     The references were made to similar and aggravated offences because principal charges and charges taken into consideration are not necessarily similar and aggravating. They may be similar and the offences taken into consideration may aggravate the principal offences, as in _Navaseelan_ and the 
 

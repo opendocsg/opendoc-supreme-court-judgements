@@ -93,7 +93,7 @@ investments in unit trusts in Singapore and Malaysia and on Father Joachim Kang�
 
  (c) has special qualifications or experience for the purpose of the case.” 
 
-This has been explained by Yong Pung How CJ in _Re Caplan Jonathan Michael QC_ [1998] 1 SLR 432 (at paragraph 12 of the judgment) as having created the well known three-stage test. 
+This has been explained by Yong Pung How CJ in _Re Caplan Jonathan Michael QC_ <span class="citation">[1998] 1 SLR 432</span> (at paragraph 12 of the judgment) as having created the well known three-stage test. 
 
 25\. Where criminal cases are concerned, Parliament imposed an additional requirement on 1 January 1997 in the form of section 21(2) LPA which states that “the court shall not admit a person under this section in any criminal case unless the court is satisfied that there is a special reason to do so”. In introducing this new provision, the Minister for Law made the following speech in Parliament on 10 October 1996 (see columns 633 and 634 of the Singapore Parliament Report Volume 66): 
 

@@ -108,7 +108,7 @@ then ruled on 2 February 2018 that Chairman Yang should give oral evidence by li
 
  ... 
 
-8       The approach to applications to give evidence by live video link under s 62A of the Evidence Act was considered by the Court of Appeal in _Sonica Industries Ltd v Fu Yu Manufacturing Ltd_ [1999] 3 SLR(R) 119. In that case, the witnesses were outside Singapore, satisfying the requirement under 
+8       The approach to applications to give evidence by live video link under s 62A of the Evidence Act was considered by the Court of Appeal in _Sonica Industries Ltd v Fu Yu Manufacturing Ltd_ <span class="citation">[1999] 3 SLR(R) 119</span>. In that case, the witnesses were outside Singapore, satisfying the requirement under 
 
 
 s 62A(1)( _c_ ) of the Evidence Act. The Court of Appeal then considered the relevant matters under s 62(2) to determine whether to grant leave. It assessed the relevance of the evidence of the two witnesses and, in particular, the efforts which had been made to secure the attendance of one witness, who was located in California. The Court of Appeal held that the witness in California could give relevant evidence, that the plaintiffs had no control over the witness and could only rely on his willingness to help them, and that the plaintiffs had made the necessary attempts to secure the witnesses presence in Singapore for the purpose of the trial but without any success. The Court of Appeal therefore granted the application in respect of that witness whilst declining the application in respect of another witness whose evidence was not material to the issues but related merely to credibility. 

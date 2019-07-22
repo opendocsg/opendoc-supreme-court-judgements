@@ -241,7 +241,7 @@ by two units” ( _ie_ , the Unit and the unit above). [note: 19] Hence, I am of
 
 exclusively by the Respondents”. [note: 20] As I have mentioned earlier, the beams serve no useful purpose to the Respondents. The MCST has not explained how these beams are useful to the Respondents. The beams are key features and provide the essential structure for the safety of the building. 
 
-31     The MCST cited _Management Corporation Strata Title Plan No 958 v Tay Soo Seng_ [1992] 3 SLR(R) 818 (“ _Tay Soo Seng_ ”) in support of the proposition that the affected beams are not part of the common property. The court in that case decided that the glass panel separating the unit from a common corridor was not common property. GP Selvam JC (as he then was) further added at [13] 
+31     The MCST cited _Management Corporation Strata Title Plan No 958 v Tay Soo Seng_ <span class="citation">[1992] 3 SLR(R) 818</span> (“ _Tay Soo Seng_ ”) in support of the proposition that the affected beams are not part of the common property. The court in that case decided that the glass panel separating the unit from a common corridor was not common property. GP Selvam JC (as he then was) further added at [13] 
 
 
 that: 

@@ -81,7 +81,7 @@ Singapore branch which was involved in the transactions which I am about to desc
 
 He submitted that clause 6 was specific about the forum of litigation unlike clause 
 
-17     Mr Gill also submitted (in his para 28) that at best, clause 17 sets out the procedure and time frame within which “... the initial stages in processing a claim (notification of loss or damage) were to be set in motion ...”, relying on _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ [1998] 1 SLR 253. 
+17     Mr Gill also submitted (in his para 28) that at best, clause 17 sets out the procedure and time frame within which “... the initial stages in processing a claim (notification of loss or damage) were to be set in motion ...”, relying on _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ <span class="citation">[1998] 1 SLR 253</span>. 
 
 18     Mr Gill then drew my attention to other cases where the provisions were clear in stipulating the forum for litigation. He also relied on _The Sinar Mas_ [1982] 1 MLJ 279, where, in dealing with an identical sentence as the first sentence of clause 17, Mohamed Azmi J said, at p 279: 
 
@@ -164,7 +164,7 @@ As can be seen, the first and second sentences of clause 6 (of the Hague Rules) 
 
 **Was there a strong cause in favour of not staying UCO’s action in Singapore?** 
 
-37     Mr Gill submitted that even if clause 17 was an exclusive jurisdiction provision, the court was not bound to order a stay where there was strong cause why UCO should not be required to commence action in India. One of the authorities for that proposition was the decision of the Court of Appeal in _The Jian He_ [2000] 1 SLR 8. That proposition was not disputed by Mr Toh. There Chao Hick Tin JA said at para 28: 
+37     Mr Gill submitted that even if clause 17 was an exclusive jurisdiction provision, the court was not bound to order a stay where there was strong cause why UCO should not be required to commence action in India. One of the authorities for that proposition was the decision of the Court of Appeal in _The Jian He_ <span class="citation">[2000] 1 SLR 8</span>. That proposition was not disputed by Mr Toh. There Chao Hick Tin JA said at para 28: 
 
  Strong cause 
 
@@ -218,7 +218,7 @@ As can be seen, the first and second sentences of clause 6 (of the Hague Rules) 
 
 44     I will deal with the second and third arguments of Mr Toh together. As regards the existence of the Indian action commenced by Golden Shore, I accepted Mr Gill’s submission that this was really a self-serving step. Although I was and am not an expert on Indian law, I could not help but wonder how it was possible for Golden Shore to maintain a bona fide claim against the Indian receivers. It was not the Indian receivers who approached Golden Shore to issue the switched bills. Neither did they make any promise or give any assurance to Golden Shore. All they did was to rely on and present the very bills (i.e the switched bills) which Golden Shore’s agent had issued. It did not lie in Golden Shore’s mouth to assert that the Indian receivers were not entitled to delivery of the logs. 
 
-45     Mr Toh had relied on, inter alia, _The Endurance 1_ [2000] 3 SLR 190 where G P Selvam J said at paras 35 and 36: 
+45     Mr Toh had relied on, inter alia, _The Endurance 1_ <span class="citation">[2000] 3 SLR 190</span> where G P Selvam J said at paras 35 and 36: 
 
  35 Clerk & Lindsell on Torts (17th Ed, 1998), in para 13-143 presents this proposition of law: 
 

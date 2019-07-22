@@ -252,7 +252,7 @@ accounts throughout the entire period of their marriage with the exception of a 
 
 **My decision** 
 
-40     In _Yow Mee Lan v Chen Kai Buan_ [2000] 4 SLR 466 (“ _Yow Mee Lan_ ”) at [32], I observed that 
+40     In _Yow Mee Lan v Chen Kai Buan_ <span class="citation">[2000] 4 SLR 466</span> (“ _Yow Mee Lan_ ”) at [32], I observed that 
 
 
 in the light of the legislative changes that had been made to ss 112(1) and 112(2) of the Act, the court’s task was to consider the marriage before it as a whole and also the role played by each of the parties in the physical and emotional care of the family and in their financial dealings in order to arrive at a fair division of the assets. Thus, I said, a party’s financial contributions to the acquisition of any particular matrimonial asset could not be principally determinative of how it was divided and the court was free to give as much weight or more to other non-financial contributions. 

@@ -66,7 +66,7 @@ wanted to appeal or give instructions to appeal.
 
 13     Under the Rules of Court, a notice of appeal must be filed within 14 days of the order – in this case, by 5 October 1999. It is not disputed that the defendant did not file a notice of appeal by 5 October 1999 or at all. 
 
-14     It is common ground that one of the obligations of an advocate and solicitor in carrying out his retainer is to exercise the care and skill of a competent practitioner in the discharge of his duties: _Midland Bank Trust Co Ltd v Hett, Stubbs & Kemp_ [1979] Ch 384 at 403. The Court of Appeal in _Chong Yeo & Partners v Guan Ming Hardware & Engineering Pte Ltd_ [1997] 2 SLR 729 iterated the principle with reference to the advocate and solicitor’s obligation to observe the Rules of Court (at [63]): 
+14     It is common ground that one of the obligations of an advocate and solicitor in carrying out his retainer is to exercise the care and skill of a competent practitioner in the discharge of his duties: _Midland Bank Trust Co Ltd v Hett, Stubbs & Kemp_ [1979] Ch 384 at 403. The Court of Appeal in _Chong Yeo & Partners v Guan Ming Hardware & Engineering Pte Ltd_ <span class="citation">[1997] 2 SLR 729</span> iterated the principle with reference to the advocate and solicitor’s obligation to observe the Rules of Court (at [63]): 
 
  For a breach of that duty of care to have occurred, the appellants must have, on the balance of probabilities, omitted to do a thing which a reasonably competent advocate and solicitor in their position would have done: Godefroy v Dalton [(1830) 6 Bing 460; 130 ER 1357]. Such a reasonably competent advocate and solicitor must comply with all rules of court to protect his client’s interests. 
 

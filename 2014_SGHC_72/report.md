@@ -185,7 +185,7 @@ expressly provided for the claims procedure described at [31] below.
 
 Sub-contract that unlike the standard form contracts or sub-contracts in use in Singapore, there were _no_ express provisions on the _procedure_ to effect any changes in design or quantities, who was to issue the VO given that this was a domestic sub-contract and how payment is to be made therefor, other than that it should be “subject to” or effected by a VO. What form that VO was to take is also not spelt out. 
 
-22     Although our courts have endorsed a contextual approach in interpreting the terms of a written contract: see _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 (“ _Zurich Insurance_ ”) and _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and Anor and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp Marine_ ”), there are no words here that fall to be interpreted in relation to a certain context. 
+22     Although our courts have endorsed a contextual approach in interpreting the terms of a written contract: see _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> (“ _Zurich Insurance_ ”) and _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and Anor and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp Marine_ ”), there are no words here that fall to be interpreted in relation to a certain context. 
 
 23     The Defendant’s submission on this point is therefore erroneous. It is evident, and I so find, that when the Sub-contract was entered into there was no variation claims procedure agreed upon on the face of the contract. As noted above, it is common ground that there are no oral terms being alleged or relied on. 
 
@@ -455,7 +455,7 @@ by the owners): [note: 34]
 
 44     I have already noted above that the Plaintiff proceeded to carry out the variation works in accordance with revised Construction Drawings A-113 (rev b) and A-114 issued by the Architects and subsequently, Architect’s Instruction K77-AI-77 was issued on 20 January 2011 to regularise these Architect’s Instructions to proceed with the provision of the glass curtain wall system in lieu of aluminium cladding for the façade of the office block. 
 
-45     I deal first with the Plaintiff’s contention that a condition precedent must be expressly stated or provided for in a contract and cannot be implied into a contract. I note that the Plaintiff has not provided any authority for this proposition and that further in both _SM Integrated Transware Pte Ltd v Schenker Singapore (Pte) Ltd_ [2005] 2 SLR(R) 651 (at [95]–[101]) and _Asirham Investment Pte Ltd v JSI Shipping (S) Pte Ltd_ [2008] 1 SLR(R) 117 (at [16]), the High Court considered the possibility of implying condition precedents, although in both cases, it was eventually held that no condition 
+45     I deal first with the Plaintiff’s contention that a condition precedent must be expressly stated or provided for in a contract and cannot be implied into a contract. I note that the Plaintiff has not provided any authority for this proposition and that further in both _SM Integrated Transware Pte Ltd v Schenker Singapore (Pte) Ltd_ <span class="citation">[2005] 2 SLR(R) 651</span> (at [95]–[101]) and _Asirham Investment Pte Ltd v JSI Shipping (S) Pte Ltd_ <span class="citation">[2008] 1 SLR(R) 117</span> (at [16]), the High Court considered the possibility of implying condition precedents, although in both cases, it was eventually held that no condition 
 
 
 precedent could be implied in the circumstances. I am of the view therefore that there cannot be a strict rule prohibiting the implication of condition precedents into contract subject to the principles which I set forth below. It must depend on the facts and circumstances of each case. 
@@ -464,7 +464,7 @@ precedent could be implied in the circumstances. I am of the view therefore that
 
  ... the officious bystander test: it is the device that enables the court to define that term which can be said to reflect the parties’ presumed intention vis-à-vis the gap in the contract. While the business efficacy test is helpful to identify the existence of a lacuna , that is to say that for the sake of the efficacy of the contract something more needs to be added into the contract, it does not assist in identifying what that “something more” is with any degree of precision. That is where the officious bystander test serves an instrumental function. 
 
-The Court of Appeal also confirmed in _Sembcorp Marine_ at [82] the position it had taken in earlier cases like _Foo Jong Peng and others v Phua Kiah Mai and another_ [2012] 4 SLR 1267, that the standard for the implication of such terms remains one of _necessity_ not reasonableness. 
+The Court of Appeal also confirmed in _Sembcorp Marine_ at [82] the position it had taken in earlier cases like _Foo Jong Peng and others v Phua Kiah Mai and another_ <span class="citation">[2012] 4 SLR 1267</span>, that the standard for the implication of such terms remains one of _necessity_ not reasonableness. 
 
 47     The Court of Appeal thus held in _Sembcorp Marine_ at [101] that the implication of terms in fact is to be considered using a three-step process: 
 
@@ -481,7 +481,7 @@ drawings and the as-built drawings submitted by the Plaintiff. [note: 35]
 49     Turning to the Defendant’s alternative contention that the claims procedure will be implied in law, I observe that such an implication must not be made lightly since once such term has been implied, such a term will be implied in _all future contracts of that particular type_ : see _Forefront_ 
 
 
-_Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ [2006] 1 SLR(R) 927 (at [42]). Besides its assertion in its defence that the claims procedure ought to be implied in law by virtue of the fact that the Sub-contract was priced at a lump sum, no further arguments were furnished by the Defendant. There is in my view, no reason to imply such a claims procedure in law where such matters would be more appropriately left to the freedom of the contracting parties. 
+_Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 927</span> (at [42]). Besides its assertion in its defence that the claims procedure ought to be implied in law by virtue of the fact that the Sub-contract was priced at a lump sum, no further arguments were furnished by the Defendant. There is in my view, no reason to imply such a claims procedure in law where such matters would be more appropriately left to the freedom of the contracting parties. 
 
 50     I find, therefore, that there was no claims procedure, as alleged by the Defendant, implied into the contract as condition precedent to payment. 
 
@@ -499,7 +499,7 @@ items. Mr Chow’s evidence was clear—the Plaintiff never received WTP’s val
 
 WTP’s valuations of the claims were forwarded to the Plaintiff. [note: 37] Subsequently, he averred 
 
-that there was no need for the Plaintiff to know of WTP’s valuations. [note: 38] No evidence was adduced in support of the Defendant’s allegation in its defence that the Plaintiff was informed of the relevant valuations orally. It is also undisputed that only four payment responses were made to the Plaintiff’s progress claims and none of them were concerned with the material progress claim ( _ie_ , Progress Payment Claim No 11). For the above reasons, I accept that the Plaintiff did not know of WTP’s valuations. As such, it could not have possibly acquiesced to a state of affairs which it was unaware of: see _LS Investment Pte Ltd v Majlis Ugama Islam Singapura_ [1998] 3 SLR(R) 369 at [40]. 
+that there was no need for the Plaintiff to know of WTP’s valuations. [note: 38] No evidence was adduced in support of the Defendant’s allegation in its defence that the Plaintiff was informed of the relevant valuations orally. It is also undisputed that only four payment responses were made to the Plaintiff’s progress claims and none of them were concerned with the material progress claim ( _ie_ , Progress Payment Claim No 11). For the above reasons, I accept that the Plaintiff did not know of WTP’s valuations. As such, it could not have possibly acquiesced to a state of affairs which it was unaware of: see _LS Investment Pte Ltd v Majlis Ugama Islam Singapura_ <span class="citation">[1998] 3 SLR(R) 369</span> at [40]. 
 
 55     In any case, the Defendant has failed to show how it relied on the Plaintiff’s alleged acquiescence to its detriment. In this regard, I note Mr Gan’s admission under cross-examination that the whole of the Plaintiff’s claims were claimed by the Defendant against the Employer in arbitration. [note: 39] The Defendant was not prejudiced thus in the arbitration proceedings. 
 
@@ -547,7 +547,7 @@ attributable to the Plaintiff. The Defendant’s expert, Mr Connors, chose the R
 
 66     In my view, the following facts were highly pertinent: 
 
- (a) Only the Rev 9 Program was in existence when the Sub-contract was entered into. Thus, cl 4 of the Defendant’s Works Order must have been referring to the Rev 9 Program. No evidence was adduced to show that the parties had subsequently agreed to vary the Sub-contract, such that the applicable master program was to be the Rev 11 Program. In this regard, I note that the decision of Lim Chin San Contractors Pte Ltd v Sanchoon Builders Pte Ltd [2005] SGHC 227 which was cited by the Defendant can be distinguished from the present case as the clause there provided that the sub-contractor carry out and complete the works “as may be requested from time to time ” [emphasis added] (see [32] of the judgment). Such words or words to that effect are missing in this subcontract. 
+ (a) Only the Rev 9 Program was in existence when the Sub-contract was entered into. Thus, cl 4 of the Defendant’s Works Order must have been referring to the Rev 9 Program. No evidence was adduced to show that the parties had subsequently agreed to vary the Sub-contract, such that the applicable master program was to be the Rev 11 Program. In this regard, I note that the decision of Lim Chin San Contractors Pte Ltd v Sanchoon Builders Pte Ltd <span class="citation">[2005] SGHC 227</span> which was cited by the Defendant can be distinguished from the present case as the clause there provided that the sub-contractor carry out and complete the works “as may be requested from time to time ” [emphasis added] (see [32] of the judgment). Such words or words to that effect are missing in this subcontract. 
 
  (b) The Rev 9 Program was the only program that had been approved and endorsed by the Architects. Mr Gan himself admitted under cross-examination that the Rev 11 Program had not been approved by the Architects. [note: 46] 
 
@@ -703,7 +703,7 @@ _Breach of the Sale of Goods Act_
 
  (e) durability. 
 
-88     The burden of proof falls on the party alleging that the goods are not of satisfactory quality and satisfactory quality is to be determined by way of a broad-based inquiry directed at whether the reasonable person placed in the situation of the buyer would regard the quality of goods in question as satisfactory: _National Foods Ltd v Pars Ram Brothers (Pte) Ltd_ [2007] 2 SLR(R) 1048 (“ _National Foods Ltd_ ”) at [58]. 
+88     The burden of proof falls on the party alleging that the goods are not of satisfactory quality and satisfactory quality is to be determined by way of a broad-based inquiry directed at whether the reasonable person placed in the situation of the buyer would regard the quality of goods in question as satisfactory: _National Foods Ltd v Pars Ram Brothers (Pte) Ltd_ <span class="citation">[2007] 2 SLR(R) 1048</span> (“ _National Foods Ltd_ ”) at [58]. 
 
 89     I note that there was no evidence adduced before me of the purposes for which the gypsum blocks are commonly supplied. Moreover, such a guideline may not be applicable for goods that have a 
 

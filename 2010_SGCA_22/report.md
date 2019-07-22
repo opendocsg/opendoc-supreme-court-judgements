@@ -16,7 +16,7 @@
 
 _Damages_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2009] SGHC 187.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2009] SGHC 187</span>.] 
 
 27 May 2010 
 
@@ -28,7 +28,7 @@ _Damages_
 
 **Background facts** 
 
-2       The accident in question occurred on 6 December 2003 at about 12.44am at the junction of Paterson Road and Orchard Road. The Appellant had lost control of the car which he was driving. It mounted the pavement and collided with a number of people, including the Respondent who was waiting at the pavement to cross the road. The Respondent, an Australian national aged 26 at that time, was then on vacation in Singapore. On 1 July 2004, the Appellant pleaded guilty to a charge of dangerous driving (see _Public Prosecutor v Chai Kang Wei Samuel_ [2004] SGDC 198). On 15 November 2006, interlocutory judgment for full liability was entered by consent against the Appellant, with damages to be assessed. 
+2       The accident in question occurred on 6 December 2003 at about 12.44am at the junction of Paterson Road and Orchard Road. The Appellant had lost control of the car which he was driving. It mounted the pavement and collided with a number of people, including the Respondent who was waiting at the pavement to cross the road. The Respondent, an Australian national aged 26 at that time, was then on vacation in Singapore. On 1 July 2004, the Appellant pleaded guilty to a charge of dangerous driving (see _Public Prosecutor v Chai Kang Wei Samuel_ <span class="citation">[2004] SGDC 198</span>). On 15 November 2006, interlocutory judgment for full liability was entered by consent against the Appellant, with damages to be assessed. 
 
 3       As a result of the accident, the Respondent sustained a fracture at the base of her skull which resulted in traumatic brain injury. This, in turn, caused, _inter alia_ , muscular weakness on the right side of her body, weakness in her tongue and throat muscles, vocal cord paralysis, amnesia, and cognitive impairments. Other injuries suffered by the Respondent included: 
 
@@ -82,7 +82,7 @@ The extensiveness of the Respondent’s injuries caused her to be on medical lea
 
  AUD$91,804.99 for loss of annual leave. 
 
-Dissatisfied with several components of the damages awarded, both parties appealed. The Appellant, we would mention in particular, sought to have the award for loss of future earnings set aside, as well as to have the quantum awarded for pre-trial loss of earnings, loss of future earning capacity and loss of annual leave reduced. On appeal, the Judge, _inter alia_ , reduced the quantum awarded for pre-trial loss of earnings to AUD$202,061.08, increased the amount awarded for pain, suffering and loss of amenities to $200,000 (an increase of $65,000), and increased the quantum awarded for loss of earning capacity to AUD$50,000. The Judge’s detailed reasons for his decision are set out in _Shaw Linda Gillian v Chai Kang Wei Samuel_ [2009] SGHC 187 (“the Judgment”). 
+Dissatisfied with several components of the damages awarded, both parties appealed. The Appellant, we would mention in particular, sought to have the award for loss of future earnings set aside, as well as to have the quantum awarded for pre-trial loss of earnings, loss of future earning capacity and loss of annual leave reduced. On appeal, the Judge, _inter alia_ , reduced the quantum awarded for pre-trial loss of earnings to AUD$202,061.08, increased the amount awarded for pain, suffering and loss of amenities to $200,000 (an increase of $65,000), and increased the quantum awarded for loss of earning capacity to AUD$50,000. The Judge’s detailed reasons for his decision are set out in _Shaw Linda Gillian v Chai Kang Wei Samuel_ <span class="citation">[2009] SGHC 187</span> (“the Judgment”). 
 
 **Issues on appeal** 
 
@@ -126,7 +126,7 @@ On the facts of that case, the English Court of Appeal found that the plaintiff 
 
 15     Lastly, in _Moeliker v A Reyrolle and Co Ltd_ [1977] 1 All ER 9 (“ _Moeliker_ ”), the English Court of Appeal reaffirmed that a claim for loss of earning capacity arises where a plaintiff is in employment at the time of the trial, but there is a risk that he or she may lose this employment at some time in the future, and may then, as a result of his or her injury, be at a disadvantage in getting another job or an equally well paid job (see 17). In this regard, the English Court of Appeal indicated that the use of a formula ( _ie_ , the multiplicand/multiplier method) would not be appropriate to reflect the abovementioned risk. For such a situation, a global sum award would be the correct option to take. 
 
-16     In so far as the law in Singapore is concerned, this court had the occasion to consider the differences between loss of future earnings and loss of earning capacity in the case of _Teo Sing Keng and anor v Sim Ban Kiat_ [1994] 1 SLR(R) 340 (“ _Teo Sing Keng_ ”), and the principles elucidated in the English cases dealt with in the preceding paragraphs were affirmed. This court concluded (at [40]): 
+16     In so far as the law in Singapore is concerned, this court had the occasion to consider the differences between loss of future earnings and loss of earning capacity in the case of _Teo Sing Keng and anor v Sim Ban Kiat_ <span class="citation">[1994] 1 SLR(R) 340</span> (“ _Teo Sing Keng_ ”), and the principles elucidated in the English cases dealt with in the preceding paragraphs were affirmed. This court concluded (at [40]): 
 
  An award for loss of earning capacity, as opposed to an award for loss of earnings, is generally made in the following cases: 
 
@@ -141,7 +141,7 @@ On the facts of that case, the English Court of Appeal found that the plaintiff 
 
 17     The Appellant took the view that if there was insufficient evidence to establish the Respondent’s loss of future earnings, loss of earning capacity should be awarded instead. In this connection, the Appellant seemed to assume a relationship between the failure to prove loss of future earnings and an award for loss of earning capacity, _viz_ , that an award for loss of earning capacity is an “alternate measure” when a plaintiff lacks sufficient evidence to prove his or her loss of future earnings. 
 
-18     This “alternate measure” view appears to have originated from the case of _Choy Kuo Wen v Soh Chin Seng_ [2008] SGHC 113 (“ _Choy Kup Wen_ ”), where the court, in dealing with the circumstances in which an award for loss of earning capacity would be appropriate, said (at [37]–[39]): 
+18     This “alternate measure” view appears to have originated from the case of _Choy Kuo Wen v Soh Chin Seng_ <span class="citation">[2008] SGHC 113</span> (“ _Choy Kup Wen_ ”), where the court, in dealing with the circumstances in which an award for loss of earning capacity would be appropriate, said (at [37]–[39]): 
 
  37 There is another category of cases where the court have [ sic ] stated that it awards damages for loss of earning capacity as a substitute measure in preference to awarding for loss of future earnings. This is where the evidence of a plaintiff’s loss in future earnings may not be available or ambiguous, making it impossible for a proper calculation of loss of future earnings, on the basis of the multiplicand/multiplier method. 
 
@@ -270,7 +270,7 @@ should not be compensated for her loss of earnings during this period of time si
 
 47     The arguments which the Appellant made in relation to the quantum awarded for pain and suffering for the head injuries suffered were twofold. First, it was wrong for the AR and the Judge to adopt a component approach to assess the damages to be awarded for the head injuries. Second, the increases in the quantum awarded for the structural damage and psychological damage components made by the Judge were unwarranted. 
 
-48     For the first argument, the point made was that the component approach did not have sufficient regard to the fact that the injuries, and resulting disabilities, were all essentially caused by one single injury. It was emphasised that such an approach would lead to a high possibility of overcompensation as a result of sub-itemisation. As we see it, such sub-itemisation was no more than an instrument to aid the court to determine what would be a fair and reasonable quantification for a particular injury or disability having regard to precedents. It enables the court to address the different aspects of pain, suffering and loss of amenities arising out of an injury systematically. The benefits of such an approach were clearly stated in _Tan Yu Min Winston (by his next friend Tan Cheng Tong) v Uni-Fruitveg Pte Ltd_ [2008] 4 SLR(R) 825 (at [25]–[26]): 
+48     For the first argument, the point made was that the component approach did not have sufficient regard to the fact that the injuries, and resulting disabilities, were all essentially caused by one single injury. It was emphasised that such an approach would lead to a high possibility of overcompensation as a result of sub-itemisation. As we see it, such sub-itemisation was no more than an instrument to aid the court to determine what would be a fair and reasonable quantification for a particular injury or disability having regard to precedents. It enables the court to address the different aspects of pain, suffering and loss of amenities arising out of an injury systematically. The benefits of such an approach were clearly stated in _Tan Yu Min Winston (by his next friend Tan Cheng Tong) v Uni-Fruitveg Pte Ltd_ <span class="citation">[2008] 4 SLR(R) 825</span> (at [25]–[26]): 
 
  25 The correct and perhaps more scientific way to look at the head injuries to the brain resulting from an accident is to properly classify them into the following three separate domains: structural, psychological and cognitive: 
 

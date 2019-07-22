@@ -16,7 +16,7 @@
 
 _Criminal law_ – _Statutory offences_ – _Misuse of Drugs Act_ 
 
-[LawNet Editorial Note: The appeals in Criminal Appeals No 38 and 39 of 2017 were allowed by the Court of Appeal on 5 December 2018 by a 2:1 majority. See [2018] SGCA 87.] 
+[LawNet Editorial Note: The appeals in Criminal Appeals No 38 and 39 of 2017 were allowed by the Court of Appeal on 5 December 2018 by a 2:1 majority. See <span class="citation">[2018] SGCA 87</span>.] 
 
 27 September 2017 
 
@@ -469,7 +469,7 @@ that the exhibits had left the control of CNB officers and went in the control o
 
 34     It would take more than to allude to a real possibility of a break of custody by pointing to inconsistencies which do not add up to a break. In this case CNB officers had seized and taken custody of the exhibits, and the same exhibits were sent by them to the HSA for analysis. To support the contention there must something put forward to show that the exhibits have left the custody of the officers, or that unauthorised parties had access to them at some time during that period, or that the exhibits have been interfered with. 
 
-35     As the Court of Appeal in _Lai Kam Loy v PP_ [1993] 3 SLR(R) 143 held at [38] (and reaffirmed in _Satli bin Masot v PP_ [1999] 1 SLR(R) 931 at [15]): 
+35     As the Court of Appeal in _Lai Kam Loy v PP_ <span class="citation">[1993] 3 SLR(R) 143</span> held at [38] (and reaffirmed in _Satli bin Masot v PP_ <span class="citation">[1999] 1 SLR(R) 931</span> at [15]): 
 
  ... it cannot be that in every drug case it lies on the Prosecution to laboriously call every single witness to establish the chain of possession of the seized drugs. The need to do so only arises where a doubt as to the identity of an exhibit has arisen. This may arise for instance where it has been established that there was a shortfall in numbers or a failure to mark the exhibits. 
 

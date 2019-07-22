@@ -22,7 +22,7 @@ _Equity_ – _Estoppel_ – _Estoppel by acquiescence_ – _Whether company esto
 
 **Chao Hick Tin JA (delivering the judgment of the court):** 
 
-1       This appeal is against the decision of S Rajendran J who dismissed the appellant’s claim in contract for specific performance and/or refund of money against the respondent, Somerset Development Pte Ltd, and one other party: see _Yongnam Development Pte Ltd v Springleaves Tower Ltd_ [2004] 1 SLR 348. Somerset Development was previously known as Liang Court Development Pte Ltd (“LC”). For consistency with the judgment below, we will use the abbreviation “LC” to refer to the respondent. 
+1       This appeal is against the decision of S Rajendran J who dismissed the appellant’s claim in contract for specific performance and/or refund of money against the respondent, Somerset Development Pte Ltd, and one other party: see _Yongnam Development Pte Ltd v Springleaves Tower Ltd_ <span class="citation">[2004] 1 SLR 348</span>. Somerset Development was previously known as Liang Court Development Pte Ltd (“LC”). For consistency with the judgment below, we will use the abbreviation “LC” to refer to the respondent. 
 
 **The background** 
 

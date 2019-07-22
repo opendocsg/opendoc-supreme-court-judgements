@@ -74,7 +74,7 @@ The learned judge below held that whether the beneficiary under a performance bo
 
 References were also made by counsel for the appellants to cll 42 and 43 of the contract to contend that the respondents were not entitled to call on the bond as yet. Again, the learned judge did not think that these clauses were applicable; nor should they be construed to modify the terms of the bond. 
 
-The trial judge also rejected the argument that the demand on the bond was unconscionable. The court below applied the decision of this court in **GHL Pte Ltd v Unitrack Building Construction Pte Ltd** [1999] 4 SLR 604 which held that unconscionability is a separate ground, apart from fraud, to restrain a beneficiary from calling or receiving moneys under such a bond. But on the facts he did not think there was anything unconscionable in the appellants calling on the bond, although he was of the view that the call should not exceed $1.6m. 
+The trial judge also rejected the argument that the demand on the bond was unconscionable. The court below applied the decision of this court in **GHL Pte Ltd v Unitrack Building Construction Pte Ltd** <span class="citation">[1999] 4 SLR 604</span> which held that unconscionability is a separate ground, apart from fraud, to restrain a beneficiary from calling or receiving moneys under such a bond. But on the facts he did not think there was anything unconscionable in the appellants calling on the bond, although he was of the view that the call should not exceed $1.6m. 
 
 
 **_Issues on appeal_** 
@@ -171,7 +171,7 @@ We will now quote parts of the grounds of decision of the learned judge below wh
 
 **_The law_** 
 
-The courts in Singapore have in several cases in recent years ruled that, apart from fraud, unconscionability would be a separate ground to restrain a beneficiary of a performance bond from enforcing it. The authorities were reviewed and considered by this court in **GHL Pte Ltd v Unitrack Building Construction Pte Ltd** [1999] 4 SLR 604 , which affirmed those High Court decisions and held that `unconscionability` is a distinct ground upon which a call on a performance bond may be restrained. The decision in **_GHL_** was considered and followed by this court in the later case **Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa** [2000] 1 SLR 657 ( **_Dauphin Offshore_** ). 
+The courts in Singapore have in several cases in recent years ruled that, apart from fraud, unconscionability would be a separate ground to restrain a beneficiary of a performance bond from enforcing it. The authorities were reviewed and considered by this court in **GHL Pte Ltd v Unitrack Building Construction Pte Ltd** <span class="citation">[1999] 4 SLR 604</span> , which affirmed those High Court decisions and held that `unconscionability` is a distinct ground upon which a call on a performance bond may be restrained. The decision in **_GHL_** was considered and followed by this court in the later case **Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa** <span class="citation">[2000] 1 SLR 657</span> ( **_Dauphin Offshore_** ). 
 
 In **_Dauphin Offshore_** this court did not think it possible to define what would constitute `unconscionability`. Lack of bona fide would in most instances indicate such `unconscionability`. The situation in each case would naturally differ one from another. Thus, there we stated (at p 668): 
 

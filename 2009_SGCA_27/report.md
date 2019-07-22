@@ -26,7 +26,7 @@ _Tort_ – _Conversion_ – _Whether claimant had locus standi to bring claim to
 
 **Introduction** 
 
-1       This is an appeal by Yeow Chern Lean (the defendant in Suit No 136 of 2007/L and Suit No 137 of 2007/Q below) against the decision of the trial judge (“the Judge”) in _Neo Kok Eng v Yeow Chern Lean and another suit_ [2008] SGHC 151 (“GD”). The two respondents in this case are Neo Kok Eng (the plaintiff in Suit No 136 of 2007/L) and Chip Hup Hup Kee Construction Pte Ltd (the plaintiff in Suit No 137 of 2007/Q). We shall refer to them as “Neo” and “the Company” respectively. 
+1       This is an appeal by Yeow Chern Lean (the defendant in Suit No 136 of 2007/L and Suit No 137 of 2007/Q below) against the decision of the trial judge (“the Judge”) in _Neo Kok Eng v Yeow Chern Lean and another suit_ <span class="citation">[2008] SGHC 151</span> (“GD”). The two respondents in this case are Neo Kok Eng (the plaintiff in Suit No 136 of 2007/L) and Chip Hup Hup Kee Construction Pte Ltd (the plaintiff in Suit No 137 of 2007/Q). We shall refer to them as “Neo” and “the Company” respectively. 
 
 **Background** 
 
@@ -125,7 +125,7 @@ Lim were loans to the Company.
 29     The applicable test in relation to an appeal against a judge’s decisions on interlocutory applications involving the exercise of judicial discretion is such that the appellate court will only 
 
 
-interfere if: (a) the judge misdirected himself with regard to the principles under which his discretion was exercised; (b) the judge took into account matters which he ought not to have done or failed to take into account matters which he ought to have done; or (c) where his decision was plainly wrong: see _The Vishva Apurva_ [1992] 2 SLR 175 at [16]. 
+interfere if: (a) the judge misdirected himself with regard to the principles under which his discretion was exercised; (b) the judge took into account matters which he ought not to have done or failed to take into account matters which he ought to have done; or (c) where his decision was plainly wrong: see _The Vishva Apurva_ <span class="citation">[1992] 2 SLR 175</span> at [16]. 
 
 **_(i) The discovery order_** 
 
@@ -156,7 +156,7 @@ interfere if: (a) the judge misdirected himself with regard to the principles un
 
 35     These matters raised in the proposed Rejoinder were not a necessary response to the Reply. The appellant was in fact seeking to introduce new issues by way of the Rejoinder and this was certainly not in order. The proper avenue to raise these matters would have been by way of an amendment to the Defence. 
 
-36     However, by the time the appellant realised this, it was too late. The amendment of Defence application was filed _after_ Neo had given his testimony and was cross-examined on it. We agree with the Judge that allowing the amendment of Defence application at that stage would have been unfair and prejudicial to Neo. As was noted in _Sin Leng Industries Pte Ltd v Ong Chai Teck_ [2006] 2 SLR 235 at [23]: 
+36     However, by the time the appellant realised this, it was too late. The amendment of Defence application was filed _after_ Neo had given his testimony and was cross-examined on it. We agree with the Judge that allowing the amendment of Defence application at that stage would have been unfair and prejudicial to Neo. As was noted in _Sin Leng Industries Pte Ltd v Ong Chai Teck_ <span class="citation">[2006] 2 SLR 235</span> at [23]: 
 
  [T]he later an amendment to pleadings is sought, and especially so when it is sought in the middle of a trial, the more difficult it would be to say that justice lies in the direction of allowing the amendment. 
 
@@ -168,7 +168,7 @@ In the absence of countervailing reasons, the Judge did not err in exercising he
 
 **Is Neo the proper party to bring the claim for the cheque proceeds?** 
 
-39     Neo’s claim in conversion, and alternatively, for moneys had and received, in respect of the cheque proceeds cannot succeed unless he can show that he is the proper party to bring the claim. It is settled law that a person has the right to sue for conversion only if he had, at the time of the conversion, either actual possession of, or the immediate right to possess, the goods converted (see _The Cherry_ [2003] 1 SLR 471 at [58] – [59] (“ _The Cherry”_ )). Neo must satisfy this threshold requirement before he can sue for conversion. If we accept Neo’s averment that he issued the cheques as loans to the Company, which we must as that was the position he had taken, he would have given up his immediate right to possession of the cheques after he had passed them over to Lim. This is so as Lim received the cheques as the Company’s agent. Neo himself admitted in crossexamination that he had handed the cheques over to Lim with Lim acting in his capacity as executive director of the Company. As agent of the Company, Lim entered into a loan agreement with Neo on behalf of the Company. As a result, when Neo passed the cheques to Lim, he had relinquished his title to them and received in return, a contractual right to recover the loan amount from the Company. Accordingly, title to the cheques had passed from Neo to the Company. If Lim subsequently 
+39     Neo’s claim in conversion, and alternatively, for moneys had and received, in respect of the cheque proceeds cannot succeed unless he can show that he is the proper party to bring the claim. It is settled law that a person has the right to sue for conversion only if he had, at the time of the conversion, either actual possession of, or the immediate right to possess, the goods converted (see _The Cherry_ <span class="citation">[2003] 1 SLR 471</span> at [58] – [59] (“ _The Cherry”_ )). Neo must satisfy this threshold requirement before he can sue for conversion. If we accept Neo’s averment that he issued the cheques as loans to the Company, which we must as that was the position he had taken, he would have given up his immediate right to possession of the cheques after he had passed them over to Lim. This is so as Lim received the cheques as the Company’s agent. Neo himself admitted in crossexamination that he had handed the cheques over to Lim with Lim acting in his capacity as executive director of the Company. As agent of the Company, Lim entered into a loan agreement with Neo on behalf of the Company. As a result, when Neo passed the cheques to Lim, he had relinquished his title to them and received in return, a contractual right to recover the loan amount from the Company. Accordingly, title to the cheques had passed from Neo to the Company. If Lim subsequently 
 
 
 misappropriated the cheques, then it would be for the Company to bring the claim and not Neo. Neo is not left without a remedy. He would still have a right to sue the Company for repayment of the loan. 
@@ -249,7 +249,7 @@ Since Neo’s claim for conversion is unsustainable, it follows that his claim f
 58     What then were the grounds on which the Company relied upon to justify the summary dismissal of the appellant? The basic contention of the Company in this regard is that the appellant had been dishonest having misappropriated the cheque proceeds. It is a well-established principle that an 
 
 
-employee owes the employer a duty of good faith and fidelity, an aspect of which includes the employee not making use of the employer’s property for his own purposes (see _DM Divers Technics Pte Ltd v Tee Chin Hock_ [2004] 4 SLR 424; see also generally Ravi Chandran, _Employment Law in_ 
+employee owes the employer a duty of good faith and fidelity, an aspect of which includes the employee not making use of the employer’s property for his own purposes (see _DM Divers Technics Pte Ltd v Tee Chin Hock_ <span class="citation">[2004] 4 SLR 424</span>; see also generally Ravi Chandran, _Employment Law in_ 
 
 _Singapore_ (Singapore: LexisNexis, 2008, 2nd Ed) at paras [5.12] [5.14]). If it can be shown that the appellant was dishonest by misappropriating the Company’s property, then there would be a justifiable basis for his summary dismissal. 
 

@@ -289,7 +289,7 @@ hidden inside it. He cut open a second cabbage, and saw that it also contained h
 
 46     By s 2 of the MDA, “traffic” is defined to include “give”, “sell”, “send”, “transport” and “deliver”. 
 
-47     The three elements for a charge of trafficking under s 5(1)( _a_ ) read with s 5(2) of the MDA are: (a) possession of a controlled drug; (b) knowledge of the nature of the drug; and (c) proof that possession of the drug was for the purpose of trafficking which was not authorised ( _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ [2014] 3 SLR 721 at [59]). 
+47     The three elements for a charge of trafficking under s 5(1)( _a_ ) read with s 5(2) of the MDA are: (a) possession of a controlled drug; (b) knowledge of the nature of the drug; and (c) proof that possession of the drug was for the purpose of trafficking which was not authorised ( _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ <span class="citation">[2014] 3 SLR 721</span> at [59]). 
 
 48     In relation to possession and knowledge, these are the relevant rebuttable presumptions in s 18 of the MDA: 
 
@@ -455,7 +455,7 @@ into the food stall to arrest him. Given Jumaat’s conduct, I did not think he 
 
 certificate of substantive assistance from the Public Prosecutor. Section 33B(4) of the MDA also provides that the decision to give or withhold such a certificate is at the sole discretion of the Public Prosecutor. 
 
-93     In _Zainudin bin Mohamed v Public Prosecutor_ [2018] 1 SLR 449 (“ _Zainudin bin Mohamed_ ”) at [34], the Court of Appeal observed that it is the offender who bears the legal burden of proving, on a balance of probabilities, that his involvement in a drug trafficking offence was restricted only to the activities listed under s 33B(2)(a) of the MDA. Further, at [111], the Court of Appeal remarked that the offender’s reasons for carrying out his acts of trafficking are matters uniquely within his knowledge, and it would be difficult for him to convince a court that he is a courier if he chose not to explain his actions at trial. 
+93     In _Zainudin bin Mohamed v Public Prosecutor_ <span class="citation">[2018] 1 SLR 449</span> (“ _Zainudin bin Mohamed_ ”) at [34], the Court of Appeal observed that it is the offender who bears the legal burden of proving, on a balance of probabilities, that his involvement in a drug trafficking offence was restricted only to the activities listed under s 33B(2)(a) of the MDA. Further, at [111], the Court of Appeal remarked that the offender’s reasons for carrying out his acts of trafficking are matters uniquely within his knowledge, and it would be difficult for him to convince a court that he is a courier if he chose not to explain his actions at trial. 
 
 **_Courier exception_** 
 

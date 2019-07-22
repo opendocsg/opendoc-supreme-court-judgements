@@ -170,7 +170,7 @@ The Coroner’s Certificate stated that the cause of death was “consistent wit
 
 **The respective arguments** 
 
-19     An applicant seeking judicial review must meet three conditions for leave to be granted ( _Jeyaretnam Kenneth Andrew v Attorney-General_ [2013] 1 SLR 619 at [5]): 
+19     An applicant seeking judicial review must meet three conditions for leave to be granted ( _Jeyaretnam Kenneth Andrew v Attorney-General_ <span class="citation">[2013] 1 SLR 619</span> at [5]): 
 
  (a) The subject matter must be susceptible to judicial review; 
 
@@ -321,7 +321,7 @@ The applicant further submitted that as there was no full trial, there could not
 According to the respondent, “finding” must relate to the ascertainment of the four matters enumerated in s 27(1)( _a_ ) and ( _b_ ) – identity, how, when and where. 
 
 
-36     The respondent also cited the case of _Biplob Hossain Younus Akan and others v Public Prosecutor and another matter_ [2011] 3 SLR 217 (“ _Biblop_ ”) at [8], where V K Rajah JA held that the court presiding over a case where the accused person pleads guilty has a duty to evaluate the statement of facts with fresh lenses and be alert to situations where there is reason to doubt the contents of the statement of facts or if it is incomplete. In such cases, the court may direct that the statement of facts be amended (if both parties agree) or reject the plea of guilt. In a PG situation, the court does not play a merely perfunctory role. 
+36     The respondent also cited the case of _Biplob Hossain Younus Akan and others v Public Prosecutor and another matter_ <span class="citation">[2011] 3 SLR 217</span> (“ _Biblop_ ”) at [8], where V K Rajah JA held that the court presiding over a case where the accused person pleads guilty has a duty to evaluate the statement of facts with fresh lenses and be alert to situations where there is reason to doubt the contents of the statement of facts or if it is incomplete. In such cases, the court may direct that the statement of facts be amended (if both parties agree) or reject the plea of guilt. In a PG situation, the court does not play a merely perfunctory role. 
 
 37     The statement of facts (see [11] above) clearly stated the identity of the Deceased and how, when and where the Deceased came by his death. Section 39(3) of the Act does not refer to “finding” in the abstract but to a “finding in those proceedings as to the cause of and circumstances connected with the death”, the exact words found in s 27(1). 
 
@@ -331,7 +331,7 @@ According to the respondent, “finding” must relate to the ascertainment of t
 
 **_Did the Coroner act unreasonably in deciding not to resume the inquiry?_** 
 
-40     The applicant also argued that the Coroner failed to take into consideration matters which he ought to have taken into account (in particular, the conditioned statements) in deciding not to resume the inquiry and thus acted unreasonably (see _Associated Provincial Picture Houses Limited v Wednesbury Corporation_ [1948] 1 KB 223, especially at 229). In _Manjit Singh s/o Kirpal Singh and another v Attorney-General_ [2013] 2 SLR 1108 (at [127]), the High Court emphasised that the inquiry is not whether the decision made was sensible or reasonable in the colloquial sense but in the strict technical sense of whether a sensible or reasonable decision-maker could have responded in the same way. 
+40     The applicant also argued that the Coroner failed to take into consideration matters which he ought to have taken into account (in particular, the conditioned statements) in deciding not to resume the inquiry and thus acted unreasonably (see _Associated Provincial Picture Houses Limited v Wednesbury Corporation_ [1948] 1 KB 223, especially at 229). In _Manjit Singh s/o Kirpal Singh and another v Attorney-General_ <span class="citation">[2013] 2 SLR 1108</span> (at [127]), the High Court emphasised that the inquiry is not whether the decision made was sensible or reasonable in the colloquial sense but in the strict technical sense of whether a sensible or reasonable decision-maker could have responded in the same way. 
 
 41     The applicant’s main contention was that the Coroner, at the pre-inquiry review held on 23 July 2013 (see [12] above), should have asked further questions and should not have merely stated that he did not propose to resume the inquiry “having regard to the result of the criminal proceedings” against DSP Lim. 
 

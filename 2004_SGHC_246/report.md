@@ -132,7 +132,7 @@ _The applicable principles_
 
  (c) reliability – it must be apparently credible, although it need not be incontrovertible. 
 
-23     This framework has been adopted and applied in numerous criminal cases such as _Juma’at bin Samad v PP_ [1993] 3 SLR 338, _Chan Chun Yee v PP_ [1998] 3 SLR 638 and _Annis bin Abdullah v PP_ [2004] 2 SLR 93. 
+23     This framework has been adopted and applied in numerous criminal cases such as _Juma’at bin Samad v PP_ <span class="citation">[1993] 3 SLR 338</span>, _Chan Chun Yee v PP_ <span class="citation">[1998] 3 SLR 638</span> and _Annis bin Abdullah v PP_ <span class="citation">[2004] 2 SLR 93</span>. 
 
 _Application of the principles to the present case_ 
 
@@ -160,13 +160,13 @@ counsel, had ruled that Khairu’s evidence in respect of previous acts of smugg
 
 _Reliability_ 
 
-31     It was stated in _Loh Khoon Hai v PP_ [1996] 2 SLR 321 at 326, [17] that the standard to be met under the condition of reliability in _Ladd v Marshall_ was a very high one. The appellant in this case did not meet the requisite standard. The statutory declaration was made in the context of enquiries made regarding Cheng Huay’s corruption charge, in which Muniandy himself was implicated. Muniandy’s expression of contrition at wrongly getting two persons, both of whom were his bosses, into trouble with the law, as well as harming the company financially, thus took on a different cast. It also came at an odd time. By the time he made the statutory declaration, some eight months had passed from the arrest of Khairu and the appellant, and both their trials were already concluded. 
+31     It was stated in _Loh Khoon Hai v PP_ <span class="citation">[1996] 2 SLR 321</span> at 326, [17] that the standard to be met under the condition of reliability in _Ladd v Marshall_ was a very high one. The appellant in this case did not meet the requisite standard. The statutory declaration was made in the context of enquiries made regarding Cheng Huay’s corruption charge, in which Muniandy himself was implicated. Muniandy’s expression of contrition at wrongly getting two persons, both of whom were his bosses, into trouble with the law, as well as harming the company financially, thus took on a different cast. It also came at an odd time. By the time he made the statutory declaration, some eight months had passed from the arrest of Khairu and the appellant, and both their trials were already concluded. 
 
 32     Muniandy in the statutory declaration fully exonerated the appellant, while effectively accusing Khairu of committing perjury when testifying at the appellant’s trial. The grave implications of these one-sided allegations made it essential for Muniandy to be examined and, if necessary, challenged in court. But Muniandy could not be compelled to attend court in Singapore, since he was a Malaysian resident. His accusations and claims were being made from a distance in safety. Despite his declaration that he was prepared to come to court in Singapore and face the consequences, and the appellant’s counsel stating that he would be called as a witness if the motion was allowed, it could not be assumed that he would in fact do so when the time comes. Not only would it be unsafe to accept Muniandy’s evidence as it appears in the statutory declaration, the evidence would be inadmissible hearsay if he did not appear before the Singapore courts. 
 
 _Whether the additional evidence is necessary in the interests of justice_ 
 
-33     In support of this ground, the appellant cited the case of _Chia Kah Boon v PP_ [1999] 4 SLR 72. In that case, I said that where any of the three conditions for adducing additional evidence on appeal was not met, the additional evidence might be allowed in the most extraordinary circumstances, where such additional evidence was necessary in the interests of justice. 
+33     In support of this ground, the appellant cited the case of _Chia Kah Boon v PP_ <span class="citation">[1999] 4 SLR 72</span>. In that case, I said that where any of the three conditions for adducing additional evidence on appeal was not met, the additional evidence might be allowed in the most extraordinary circumstances, where such additional evidence was necessary in the interests of justice. 
 
 34     However, it must be emphasised, as I had stated in _Chan Chun Yee v PP_ ([23] _supra_ ) at [10], that: 
 
@@ -191,12 +191,12 @@ _No case to answer_
 
 39     The role of the trial court at the close of the Prosecution’s case is clear. Following _Haw Tua Tau v PP_ [1980–1981] SLR 73, the trial court has to consider whether there is some evidence before it that is not inherently incredible which, if accepted as accurate, would establish each element of the offence the accused is charged with. Only if such evidence is lacking is the court justified in finding that no case has been made out against the accused that, if unrebutted, would warrant his conviction. 
 
-40     The appellant feebly submitted that the learned judge was wrong to apply the test in _Haw Tua Tau v PP_ at the close of the Prosecution’s case. However, as the Prosecution pointed out, this was an attempt to revisit settled law in Singapore. The Court of Appeal in _Ng Theng Shuang v PP_ [1995] 2 SLR 36 had made it clear that, even at that time, the test in _Haw Tua Tau v PP_ had become too well-entrenched to bear re-examination. The appellant did not come close to forming a coherent argument why _Haw Tua Tau v PP_ should no longer be followed. 
+40     The appellant feebly submitted that the learned judge was wrong to apply the test in _Haw Tua Tau v PP_ at the close of the Prosecution’s case. However, as the Prosecution pointed out, this was an attempt to revisit settled law in Singapore. The Court of Appeal in _Ng Theng Shuang v PP_ <span class="citation">[1995] 2 SLR 36</span> had made it clear that, even at that time, the test in _Haw Tua Tau v PP_ had become too well-entrenched to bear re-examination. The appellant did not come close to forming a coherent argument why _Haw Tua Tau v PP_ should no longer be followed. 
 
-41     The Prosecution’s case relied primarily on Khairu’s testimony. The judge expressly accepted Khairu’s testimony after observing Khairu in court. Not having had the same opportunity to observe the witness, it is established law that the appellate court should be slow to disturb the judge’s finding in this respect: _Lim Ah Poh v PP_ [1992] 1 SLR 713, _Ameer Akbar v Abdul Hamid_ [1997] 1 SLR 113. This 
+41     The Prosecution’s case relied primarily on Khairu’s testimony. The judge expressly accepted Khairu’s testimony after observing Khairu in court. Not having had the same opportunity to observe the witness, it is established law that the appellate court should be slow to disturb the judge’s finding in this respect: _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span>, _Ameer Akbar v Abdul Hamid_ <span class="citation">[1997] 1 SLR 113</span>. This 
 
 
-is especially the case where the findings are based on the trial judge’s assessment of the credibility and veracity of the witness: _Yap Giau Beng Terence v PP_ [1998] 3 SLR 656. 
+is especially the case where the findings are based on the trial judge’s assessment of the credibility and veracity of the witness: _Yap Giau Beng Terence v PP_ <span class="citation">[1998] 3 SLR 656</span>. 
 
 42     There were no grounds for disturbing the judge’s conclusion in this case. Khairu did not embellish or exaggerate his evidence, and did not concoct evidence about matters beyond his knowledge. He did not try to minimise his own culpability in that he was motivated by the commission Gim Hock had promised to pay him. He was forthright in agreeing with the suggestion by defence counsel that he was angry that the appellant and his family did not bail him out, but also made it clear that he did not consequently bear a grudge against and frame the appellant. Khairu’s evidence was not so incredible and unreliable that the judge was wrong to have accepted it. 
 
@@ -206,11 +206,11 @@ is especially the case where the findings are based on the trial judge’s asses
 
 _Adverse inferences against the Prosecution_ 
 
-45     The principles governing the drawing of adverse inferences against the Prosecution pursuant to Illus (g) to s 116 of the Evidence Act are summarised in _Khua Kian Keong v PP_ [2003] 4 SLR 526. The trial court has the discretion whether or not to draw such inferences, and the appellate court has to evaluate if the trial judge had correctly exercised his discretion. It will be appropriate to draw adverse inferences against the Prosecution if the witness not offered is a material one, the Prosecution withheld evidence that it possessed and which was available, and where this was done with an ulterior motive to hinder or hamper the Defence. 
+45     The principles governing the drawing of adverse inferences against the Prosecution pursuant to Illus (g) to s 116 of the Evidence Act are summarised in _Khua Kian Keong v PP_ <span class="citation">[2003] 4 SLR 526</span>. The trial court has the discretion whether or not to draw such inferences, and the appellate court has to evaluate if the trial judge had correctly exercised his discretion. It will be appropriate to draw adverse inferences against the Prosecution if the witness not offered is a material one, the Prosecution withheld evidence that it possessed and which was available, and where this was done with an ulterior motive to hinder or hamper the Defence. 
 
-46     The witnesses the Prosecution allegedly failed to call were obviously Muniandy and Gim Hock. However, both persons were resident in Malaysia and were not compellable as witnesses before the Singapore courts. In _PP v Tan Lay Heong_ [1996] 2 SLR 150, I said that no adverse inferences could be drawn against the Prosecution where a witness was a foreign witness and not compellable to be called. The mere fact that the foreign witness was not before the court to give evidence was not sufficient basis to presume that his evidence would be unfavourable to the Prosecution. 
+46     The witnesses the Prosecution allegedly failed to call were obviously Muniandy and Gim Hock. However, both persons were resident in Malaysia and were not compellable as witnesses before the Singapore courts. In _PP v Tan Lay Heong_ <span class="citation">[1996] 2 SLR 150</span>, I said that no adverse inferences could be drawn against the Prosecution where a witness was a foreign witness and not compellable to be called. The mere fact that the foreign witness was not before the court to give evidence was not sufficient basis to presume that his evidence would be unfavourable to the Prosecution. 
 
-47     In _Chua Keem Long v PP_ [1996] 1 SLR 510, the Defence had argued that an adverse inference should be drawn against the Prosecution for its failure to call a particular witness. There, I 
+47     In _Chua Keem Long v PP_ <span class="citation">[1996] 1 SLR 510</span>, the Defence had argued that an adverse inference should be drawn against the Prosecution for its failure to call a particular witness. There, I 
 
 
 said at [73]: 
@@ -246,7 +246,7 @@ _Sentencing_
 
 56     The appellant submitted that the imposition of terms of imprisonment on all four charges was not warranted in light of the authorities. Also, the terms imposed by the learned judge were manifestly excessive. 
 
-57     In _Moey Keng Kong v PP_ [2001] 4 SLR 211, I set out the factors that were important in 
+57     In _Moey Keng Kong v PP_ <span class="citation">[2001] 4 SLR 211</span>, I set out the factors that were important in 
 
 
 determining the appropriate sentence in cases involving the importation of uncustomed goods, namely: 

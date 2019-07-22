@@ -91,7 +91,7 @@
 
 ### Olivine Electronics Pte Ltd v Seabridge Transport Pte Ltd 
 
-### [1995] 3 SLR 143 (refd) 
+### <span class="citation">[1995] 3 SLR 143</span> (refd) 
 
 ### Skibsaktieselskapet Thor v Tyrer 
 
@@ -351,7 +351,7 @@ properly endorsed, all others shall stand void." The reasoning of _Gaskell_ on t
 
 45     It is of interest to note that in _The Happy Ranger_ [2002] EWCA Civ 694, while the Court of Appeal held that the bill in question was not a "straight" BL, nevertheless two Lord Justices, Tuckey and Rix, expressly made the observation that the views of textbook writers that the production of a straight BL was not necessary for delivery, referring no doubt to _Benjamin_ and _Carver_ , were not necessarily correct. Even the third member of the quorum, Aldous LJ, would appear to agree with that reservation because he adopted the judgment of Tuckey LJ. 
 
-46     The only Singapore case which had the occasion to consider the issue was _Olivine Electronics Pte Ltd v Seabridge Transport Pte_ [1995] 3 SLR 143. There the seller of 320 coloured television sets shipped them on board a vessel. The BL stated the buyer as the consignee and notifying party. The shipowner delivered the goods to the buyer without presentation of the BL. As the seller did not receive payment for the same, he instituted an action for conversion to recover the loss from the defendant shipowner for releasing the goods without the production of the BL. The defendant argued that as this was a straight bill, and not a document of title, and as it was similar to a sea waybill, its production was not needed to obtain delivery. Goh Joon Seng J, applying the _contra proferentum r_ ule, held that it was a term of the contract that delivery must be against the presentation of the BL. Thus it was unnecessary for the court to answer the more general question. However, the judge did remark that the law on the duty on the part of the carrier to deliver only against production of the original BL in a straight consigned BL was still "somewhat open". 
+46     The only Singapore case which had the occasion to consider the issue was _Olivine Electronics Pte Ltd v Seabridge Transport Pte_ <span class="citation">[1995] 3 SLR 143</span>. There the seller of 320 coloured television sets shipped them on board a vessel. The BL stated the buyer as the consignee and notifying party. The shipowner delivered the goods to the buyer without presentation of the BL. As the seller did not receive payment for the same, he instituted an action for conversion to recover the loss from the defendant shipowner for releasing the goods without the production of the BL. The defendant argued that as this was a straight bill, and not a document of title, and as it was similar to a sea waybill, its production was not needed to obtain delivery. Goh Joon Seng J, applying the _contra proferentum r_ ule, held that it was a term of the contract that delivery must be against the presentation of the BL. Thus it was unnecessary for the court to answer the more general question. However, the judge did remark that the law on the duty on the part of the carrier to deliver only against production of the original BL in a straight consigned BL was still "somewhat open". 
 
 **Our Opinion** 
 

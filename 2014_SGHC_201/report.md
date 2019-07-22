@@ -154,7 +154,7 @@ in New Zealand Dollars, to the wife. [note: 13] However, the wife disputed that 
 
 as repayment for the loan. [note: 14] There was therefore some uncertainty, as far as objective evidence went, as to whether the loan had indeed been repaid. 
 
-24     As there was doubt as to which pool of money the husband’s funding for the #04-05 and #0406 Beach Road units could be traced to, bearing in mind that the onus is on the owner of the gifted asset to prove the source of funds (see _Chen Siew Hwee v Low Kee Guan (Wong Yong Yee, corespondent)_ [2006] 4 SLR(R) 605 at [57]–[58]) and having considered all the evidence before me, I found that the #04-05 and #04-06 units should be included in the pool of matrimonial assets. 
+24     As there was doubt as to which pool of money the husband’s funding for the #04-05 and #0406 Beach Road units could be traced to, bearing in mind that the onus is on the owner of the gifted asset to prove the source of funds (see _Chen Siew Hwee v Low Kee Guan (Wong Yong Yee, corespondent)_ <span class="citation">[2006] 4 SLR(R) 605</span> at [57]–[58]) and having considered all the evidence before me, I found that the #04-05 and #04-06 units should be included in the pool of matrimonial assets. 
 
 25     In summary, I agreed with the wife’s identification of the assets in the pool and I found that the following constituted assets in the matrimonial pool: 
 
@@ -199,7 +199,7 @@ policies. [note: 15]
 
 **Maintenance** 
 
-30     The wife sought a lump sum maintenance of S$672,000 (S$3,500 per month x 16 years). She arrived at the figure of 16 years by first calculating a multiplier of 21. This was based on the test cited in _Wan Lai Cheng v Quek Seow Kee and another appeal and another matter_ [2012] 4 SLR 405 at [89]. 
+30     The wife sought a lump sum maintenance of S$672,000 (S$3,500 per month x 16 years). She arrived at the figure of 16 years by first calculating a multiplier of 21. This was based on the test cited in _Wan Lai Cheng v Quek Seow Kee and another appeal and another matter_ <span class="citation">[2012] 4 SLR 405</span> at [89]. 
 
 31     The test could be mathematically represented as follows: (average life expectancy of a woman + usual retirement age of a Singapore male worker) / 2 – wife’s present age. In applying the test, the wife used the average life expectancy of 85 and the average retirement age of 65. Her age was 54. 
 

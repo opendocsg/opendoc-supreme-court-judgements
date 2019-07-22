@@ -137,7 +137,7 @@ _Contract_
 
 **_Estoppel_** 
 
-28     What needed to be considered next was whether or not IFS was, as claimed by APL, estopped from relying on the breach of the two conditions precedent to refuse to disburse funds to APL. In regard to the question of estoppel, it is worth noting that in _Tacplas Property Services Pte Ltd v Lee Peter Michael_ [2000] 1 SLR 637 (“ _Tacplas Property_ ”), Chao Hick Tin JA, who delivered the judgment of the Court of Appeal, stated at [62] as follows: 
+28     What needed to be considered next was whether or not IFS was, as claimed by APL, estopped from relying on the breach of the two conditions precedent to refuse to disburse funds to APL. In regard to the question of estoppel, it is worth noting that in _Tacplas Property Services Pte Ltd v Lee Peter Michael_ <span class="citation">[2000] 1 SLR 637</span> (“ _Tacplas Property_ ”), Chao Hick Tin JA, who delivered the judgment of the Court of Appeal, stated at [62] as follows: 
 
  In order for the appellants to succeed in their claim in estoppel, there must be a clear and unequivocal representation on the part of the respondent that he did not dispute the effect of the agreement.... Although a representation giving rise to such an estoppel need not be express and may be implied, it must, nonetheless be clear and unequivocal. 
 
@@ -224,7 +224,7 @@ _Contract_
 
 36     In _Tacplas Property_ ( _supra_ , at [28] _)_ , Chao Hick Tin JA, who considered the relationship between silence and estoppel, stated at [62] as follows: 
 
- Mere silence and inactivity will not normally suffice, and in the words of Robert Goff LJ in The Leonidas D; Allied Marine Transport Ltd v Cale do Rio Doce Navegacao SA [1985] 1 WLR 925 at p 937 ‘it is difficult to imagine how silence and inaction can be anything but equivocal’ (endorsed by this court in Fook Gee Finance Co Ltd v Liu Cho Chit and another action [1998] 2 SLR 121). 
+ Mere silence and inactivity will not normally suffice, and in the words of Robert Goff LJ in The Leonidas D; Allied Marine Transport Ltd v Cale do Rio Doce Navegacao SA [1985] 1 WLR 925 at p 937 ‘it is difficult to imagine how silence and inaction can be anything but equivocal’ (endorsed by this court in Fook Gee Finance Co Ltd v Liu Cho Chit and another action <span class="citation">[1998] 2 SLR 121</span>). 
 
 37     The position is of course different where there is a duty to disclose. In _Greenwood v Martins Bank Ltd_ [1933] AC 51, an account holder, who sued his bank to recover sums paid on cheques forged by his late wife, knew but did not inform his bank that his wife had been forging his signature for 18 months. As a bank customer had a duty to disclose to the bank forgeries which were known to him, it was not surprising that it was held that the account holder was estopped from recovering from the bank the money paid out under the forged cheques. The circumstances in the present case, where there was an on-going attempt to have a satisfactory audit of APL, were very different and no attempt was made by APL to suggest IFS had a duty to disclose. 
 

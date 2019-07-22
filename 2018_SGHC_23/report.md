@@ -95,7 +95,7 @@ The foregoing will hereinafter be referred to collectively as “the Drugs”.
 13     The Prosecution did _not_ rely on the presumption concerning trafficking under s 17 of the MDA. This was consistent with the position laid down in _Mohd Halmi bin Hamid and another v Public_ 
 
 
-_Prosecutor_ [2006] 1 SLR(R) 548 at [8] and [10] that the presumptions in ss 17 and 18 of the MDA cannot be applied conjunctively. 
+_Prosecutor_ <span class="citation">[2006] 1 SLR(R) 548</span> at [8] and [10] that the presumptions in ss 17 and 18 of the MDA cannot be applied conjunctively. 
 
 **Defence’s Case** 
 
@@ -117,7 +117,7 @@ The Accused therefore asked the court to give no weight to the statements.
 
 **The law** 
 
-16     As laid down by the Court of Appeal in _Raman Selvam s/o Renganathan v Public Prosecutor_ [2004] 1 SLR(R) 550, the conditions necessary for a conviction for an offence under s 5(1)( _a_ ) read with s 5(2) of the MDA are (at [35]): 
+16     As laid down by the Court of Appeal in _Raman Selvam s/o Renganathan v Public Prosecutor_ <span class="citation">[2004] 1 SLR(R) 550</span>, the conditions necessary for a conviction for an offence under s 5(1)( _a_ ) read with s 5(2) of the MDA are (at [35]): 
 
  (a) possession of a controlled drug; 
 
@@ -160,7 +160,7 @@ The Accused therefore asked the court to give no weight to the statements.
 
  (2) Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug. 
 
-To rebut the s 18(2) presumption, the Accused needed to prove on the balance of probability that he did not know or could not reasonably be expected to have known the nature of the Drugs: see _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ [2012] 2 SLR 903 at [18]. 
+To rebut the s 18(2) presumption, the Accused needed to prove on the balance of probability that he did not know or could not reasonably be expected to have known the nature of the Drugs: see _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ <span class="citation">[2012] 2 SLR 903</span> at [18]. 
 
 **_Evidence presented by the Prosecution_** 
 
@@ -234,7 +234,7 @@ The Accused also proffered a similar explanation in respect of those parts of hi
 
 **_Assessment_** 
 
-28     As noted at [26]-[27] above, the Accused’s claim was simply that he did not know what he had received from Boy Jack and Boy Siva. The Accused did not explain what he had thought or believed that he received from Boy Jack and Boy Siva. This is fatal to any attempt to rebut the s 18(2) presumption. As explained by the Court of Appeal in _Obeng Comfort v Public Prosecutor_ [2017] 1 SLR 633 (“ _Obeng Comfort_ ”) at [39]: 
+28     As noted at [26]-[27] above, the Accused’s claim was simply that he did not know what he had received from Boy Jack and Boy Siva. The Accused did not explain what he had thought or believed that he received from Boy Jack and Boy Siva. This is fatal to any attempt to rebut the s 18(2) presumption. As explained by the Court of Appeal in _Obeng Comfort v Public Prosecutor_ <span class="citation">[2017] 1 SLR 633</span> (“ _Obeng Comfort_ ”) at [39]: 
 
  39 In a case where the accused is seeking to rebut the presumption of knowledge under s 18(2) of the MDA, as a matter of common sense and practical application, he should be able to say what he thought or believed he was carrying, particularly when the goods have to be carried across international borders as they could be prohibited goods or goods which are subject to tax. It would not suffice for the accused to claim simply that he did not know what he was carrying save that he did not know or think it was drugs. If such a simplistic claim could rebut the presumption in s 18(2), the presumption would be all bark and no bite. ... 
 
@@ -472,7 +472,7 @@ _Conclusion_
 
 **_The role of “Ocheng”_** 
 
-77     Even though the character “Ocheng” was mentioned several times in the Accused’s statements, he was not called as a witness at trial. I therefore asked for further written submissions on whether I should draw any inference or conclusion from the absence of “Ocheng” as a witness in the light of the Court of Appeal’s remark in _Harven a/l Segar v Public Prosecutor_ [2017] SGCA 16 (“ _Harven Segar_ ”) that: 
+77     Even though the character “Ocheng” was mentioned several times in the Accused’s statements, he was not called as a witness at trial. I therefore asked for further written submissions on whether I should draw any inference or conclusion from the absence of “Ocheng” as a witness in the light of the Court of Appeal’s remark in _Harven a/l Segar v Public Prosecutor_ <span class="citation">[2017] SGCA 16</span> (“ _Harven Segar_ ”) that: 
 
 
  68 Finally, we note that there was no evidence either in the court below or before us from Sulaimi and Mogan. It is clear to us that both of them are material and critical witnesses who would have been able to either corroborate or rebut the Appellant’s defence. At the trial, Investigating Officer Yeo Wee Beng informed the court that both Sulaimi and Mogan had already been arrested by the CNB, convicted and sentenced ... Given that both Sulaimi and Mogan were held in custody at the time of the trial, it is curious that neither the Prosecution nor the Defence called them to testify. The court was thus deprived of the assistance which they could have given. We would only observe that the Prosecution would have known, from the statements which both Mogan and Sulaimi had given to the CNB, what they were likely to say if they were called as witnesses at the trial, while the same could not be said of the Appellant. 

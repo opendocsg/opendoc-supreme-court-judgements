@@ -132,16 +132,16 @@ Upon being informed by the SecondDefendant of the First Defendant’s call on th
 
 22     It was not disputed that the Performance Bond was in the nature of an on-demand performance bond. In calling upon an on-demand performance bond, there is no requirement that the beneficiary ( _ie_ , the First Defendant) establishes any breach on the part of the obligor ( _ie_ , the Plaintiff) of the underlying contract on which the bond is based before the issuer ( _ie_ , the Second Defendant) comes under an obligation to pay out under the bond. 
 
-23     It is also well-established that the court may grant an injunction to restrain a beneficiary from calling on a performance bond on the ground of unconscionability (see the Court of Appeal in _BS Mount Sophia Pte Ltd v Join-Aim Pte Ltd_ [2012] 3 SLR 352 (“ _BS Mount Sophia_ ”)). Unconscionability is 
+23     It is also well-established that the court may grant an injunction to restrain a beneficiary from calling on a performance bond on the ground of unconscionability (see the Court of Appeal in _BS Mount Sophia Pte Ltd v Join-Aim Pte Ltd_ <span class="citation">[2012] 3 SLR 352</span> (“ _BS Mount Sophia_ ”)). Unconscionability is 
 
 
-an amorphous concept that is easily identifiable, but difficult to define. The Court of Appeal in _BS Mount Sophia_ observed that the doctrine is “not a formulaic doctrine with definite elements” (at [41]). Similarly, the Court of Appeal in _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ [2000] 1 SLR(R) 117 noted at [42] that there is no pre-determined categorisation of unconscionable situations. Therefore, what constitutes unconscionability depends on the facts of each case. 
+an amorphous concept that is easily identifiable, but difficult to define. The Court of Appeal in _BS Mount Sophia_ observed that the doctrine is “not a formulaic doctrine with definite elements” (at [41]). Similarly, the Court of Appeal in _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ <span class="citation">[2000] 1 SLR(R) 117</span> noted at [42] that there is no pre-determined categorisation of unconscionable situations. Therefore, what constitutes unconscionability depends on the facts of each case. 
 
-24     That said, the Singapore courts have made observations on the types of conduct which might fall within the ambit of unconscionability. In _Raymond Construction Pte Ltd v Low Yang Tong and another_ [1996] SGHC 136, the High Court stated that (at [5]): 
+24     That said, the Singapore courts have made observations on the types of conduct which might fall within the ambit of unconscionability. In _Raymond Construction Pte Ltd v Low Yang Tong and another_ <span class="citation">[1996] SGHC 136</span>, the High Court stated that (at [5]): 
 
  ... The concept of “unconscionability” to me involves unfairness, as distinct from dishonesty or fraud, or conduct of a kind so reprehensible or lacking in good faith that a court of conscience would either restrain the party or refuse to assist the party. Mere breaches of contract by the party in question ... would not by themselves be unconscionable ... 
 
-25     In relation to the above passage, the Court of Appeal in _Eltraco International Pte Ltd v CGH Development Pte Ltd_ [2000] 3 SLR(R) 198 (“ _Eltraco_ ”), remarked (at [30]): 
+25     In relation to the above passage, the Court of Appeal in _Eltraco International Pte Ltd v CGH Development Pte Ltd_ <span class="citation">[2000] 3 SLR(R) 198</span> (“ _Eltraco_ ”), remarked (at [30]): 
 
  ... Lai Kew Chai J said that the concept of “unconscionability” involves unfairness. We agree. ... In every instance of unconscionability there would be an element of unfairness. But the reverse is not necessarily true. It does not mean that in every instance where there is unfairness it would amount to “unconscionability”. That is a factor, an important factor no doubt in the consideration. It is important that the courts guard against unnecessarily interfering with contractual arrangements freely entered into by the parties. The parties must abide by the deal they have struck. 
 
@@ -156,7 +156,7 @@ The Court of Appeal also noted that the existence of genuine disputes between th
 28     At the outset, it is worth stating that this is not an appeal against the decision to grant the _ex parte_ injunction. In this _inter partes_ application to discharge an existing _ex parte_ injunction, the role 
 
 
-of the court is to determine on the full facts and arguments presented by both parties as to whether the injunction should continue or be discharged, or if a fresh injunction should be issued ( _Tay Long Kee Impex Pte Ltd v Tan Beng Huwah (trading as Sin Kwang Wah)_ [2000] 1 SLR(R) 786 at [19]). The law, as distilled above, is undisputed. Thus, what the Plaintiff must show was a strong _prima facie_ case of unconscionable conduct on the First Defendant’s part such that the First Defendant should continue to be restrained from calling upon the Performance Bond. 
+of the court is to determine on the full facts and arguments presented by both parties as to whether the injunction should continue or be discharged, or if a fresh injunction should be issued ( _Tay Long Kee Impex Pte Ltd v Tan Beng Huwah (trading as Sin Kwang Wah)_ <span class="citation">[2000] 1 SLR(R) 786</span> at [19]). The law, as distilled above, is undisputed. Thus, what the Plaintiff must show was a strong _prima facie_ case of unconscionable conduct on the First Defendant’s part such that the First Defendant should continue to be restrained from calling upon the Performance Bond. 
 
 **_Conduct in the course of the Contract_** 
 

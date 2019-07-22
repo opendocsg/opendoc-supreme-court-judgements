@@ -114,7 +114,7 @@ The events in s 25D are described as “hand down a decision” and “order for
 There was an ambiguity as to whether this precludes an employee from maintaining an action in court 
 
 
-if he has applied for compensation but has subsequently withdrawn it. This was considered in a number of decisions of the Court of Appeal, High Court as well as the District Court. In _Yang Dan v Xian De Lai Shanghai Cuisine Pte Ltd_ [2011] 2 SLR 379 (“ _Yang Dan”_ ), Woo J reviewed those decisions, as well as two English decisions, and concluded that the prohibition in the Old Act does not apply if the employee had withdrawn his application before the commissioner makes an order for compensation ( _Yang Dan_ at [56(c)] and [57]). 
+if he has applied for compensation but has subsequently withdrawn it. This was considered in a number of decisions of the Court of Appeal, High Court as well as the District Court. In _Yang Dan v Xian De Lai Shanghai Cuisine Pte Ltd_ <span class="citation">[2011] 2 SLR 379</span> (“ _Yang Dan”_ ), Woo J reviewed those decisions, as well as two English decisions, and concluded that the prohibition in the Old Act does not apply if the employee had withdrawn his application before the commissioner makes an order for compensation ( _Yang Dan_ at [56(c)] and [57]). 
 
 11     In the second reading speech for the Workmen’s Compensation (Amendment) Bill (No 50 of 2007) on 22 January 2008, the Minister of State for Manpower stated as follows ( _Singapore Parliamentary Debates, Official Report_ (22 January 2008) vol 84 at cols 265-266): 
 

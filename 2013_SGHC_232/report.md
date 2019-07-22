@@ -113,7 +113,7 @@ until proven guilty. [note: 3]
 
 inherent jurisdiction and a wide power to grant bail in the circumstances. [note: 5] 
 
-16     The Applicant relied heavily on the decisions of the High Court in _Mohamed Hisham bin Sapandi v Public Prosecutor_ [2011] 4 SLR 868 (“ _Hisham_ ”) and _Christanto Radius v Public Prosecutor_ [2012] 3 SLR 749 (“ _Christanto_ ”) and a statement made by Mr K Shanmugam, the Minister of Law (“the Minister”) in Parliament on 18 January 2012 on the matter. 
+16     The Applicant relied heavily on the decisions of the High Court in _Mohamed Hisham bin Sapandi v Public Prosecutor_ <span class="citation">[2011] 4 SLR 868</span> (“ _Hisham_ ”) and _Christanto Radius v Public Prosecutor_ <span class="citation">[2012] 3 SLR 749</span> (“ _Christanto_ ”) and a statement made by Mr K Shanmugam, the Minister of Law (“the Minister”) in Parliament on 18 January 2012 on the matter. 
 
 **The Respondent’s contentions** 
 
@@ -146,7 +146,7 @@ to persuade the court to do so. [note: 6]
 
 23     On the other hand, s 354(1) CPC 1985 appeared to suggest that the High Court may grant bail in any circumstance. 
 
-24     In _S Selvamsylvester v Public Prosecutor_ [2005] 4 SLR(R) 409 (“ _Selvam_ ”), Kan Ting Chiu J had to consider whether bail would be offered for all offences including an offence which came within the exception in s 352(1) CPC 1985, _ie_ , an offence punishable with death or imprisonment for life (“the 1985 Exception”). Kan J said at [6] to [10]: 
+24     In _S Selvamsylvester v Public Prosecutor_ <span class="citation">[2005] 4 SLR(R) 409</span> (“ _Selvam_ ”), Kan Ting Chiu J had to consider whether bail would be offered for all offences including an offence which came within the exception in s 352(1) CPC 1985, _ie_ , an offence punishable with death or imprisonment for life (“the 1985 Exception”). Kan J said at [6] to [10]: 
 
  6 There is a school of thought that the words "he shall not be so released" do not create an absolute prohibition, and do not apply to the High Court. This arises from reading s 354(1) of the CPC which states that: 
 
@@ -505,7 +505,7 @@ _The reasons in Christanto_
 112    Choo J’s other reason was that if s 97 excludes fugitives, this would deny such persons bail at the earliest opportunity (see _Christanto_ at [9]). However, this reason assumes that s 97(1) is not circumscribed by s 95(1). If it is, then s 97(1) is still so circumscribed even if it applies to fugitives under the Extradition Act. So, we come back to the Issue which is the larger question. 
 
 
-113    On the Issue, Choo J was influenced by the established principle that an accused person is “innocent until proven guilty”, which is also commonly referred to as the ‘presumption of innocence’. On the other hand, in his earlier decision in _PP v Lim Yong Nam_ [2012] 2 SLR 596 (“ _Lim Yong Nam_ ”), he said at [12]: 
+113    On the Issue, Choo J was influenced by the established principle that an accused person is “innocent until proven guilty”, which is also commonly referred to as the ‘presumption of innocence’. On the other hand, in his earlier decision in _PP v Lim Yong Nam_ <span class="citation">[2012] 2 SLR 596</span> (“ _Lim Yong Nam_ ”), he said at [12]: 
 
  ... A fundamental principle in criminal process is that until a person has been charged, he is presumed to be innocent of any wrongdoing that warrants detention unless the court is satisfied that he is a flight risk in the face of impending or ongoing police investigation. This is not the case here. Extradition proceedings are not a local criminal matter although there may be cases where the person to be extradited would have also committed an offence here. ... 
 
@@ -666,7 +666,7 @@ above arguments could still apply so that consideration of the Minister’s stat
 
 154    On the other hand, it may seem incongruous that if the purpose of a provision is discussed in Parliament many years later and a purpose, whether old or new, is discussed for justifying the provision, the court may not consider that purpose whether under s 9A(3)( _d_ ) or 9A(2)( _b_ )(i). 
 
-155    This is not the only time that a similar question was before our courts. In _Lim Meng Suang v AG_ [2013] 3 SLR 118, Quentin Loh J raised the question at [87] but did not furnish an answer as it was not necessary for him to do so. Likewise, it was not necessary for me to come to a view on the question. The Minister’s statement did not assist the Applicant much because it did not discuss the interaction between s 97(1) and s 95(1) even though his statement was an unqualified endorsement of _Hisham_. 
+155    This is not the only time that a similar question was before our courts. In _Lim Meng Suang v AG_ <span class="citation">[2013] 3 SLR 118</span>, Quentin Loh J raised the question at [87] but did not furnish an answer as it was not necessary for him to do so. Likewise, it was not necessary for me to come to a view on the question. The Minister’s statement did not assist the Applicant much because it did not discuss the interaction between s 97(1) and s 95(1) even though his statement was an unqualified endorsement of _Hisham_. 
 
 156    Accordingly, I was still of the view that the Proposition was not correct. 
 

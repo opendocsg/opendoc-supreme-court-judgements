@@ -16,7 +16,7 @@
 
 _Civil Procedure_ – _Leave to Appeal_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2012] 4 SLR 1076 .] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2012] 4 SLR 1076</span> .] 
 
 14 March 2013 
 
@@ -43,7 +43,7 @@ required under s 34(2)(d), read with the Fifth Schedule, of the SCJA.
 
 **The legislative framework** 
 
-7       Before examining the arguments made by the parties, it may be helpful to lay out the legislative framework for appeals on civil matters. As held by this court in _Blenwel Agencies Pte Ltd v Tan Lee King_ [2008] 2 SLR(R) 529 ( _“Blenwel”_ ), “[t]he Court of Appeal is a creature of statute and, hence, is only seised of the jurisdiction that has been conferred upon it by the relevant provisions in the legislation creating it”. Therefore, as a starting point, we refer to s 29A of the SCJA, which provides that the Court of Appeal has jurisdiction over appeals from “any judgment or order of the High Court in any civil cause or matter”, subject to the provisions of the SCJA or “any other written law regulating the terms and conditions upon which such appeals may be brought”: 
+7       Before examining the arguments made by the parties, it may be helpful to lay out the legislative framework for appeals on civil matters. As held by this court in _Blenwel Agencies Pte Ltd v Tan Lee King_ <span class="citation">[2008] 2 SLR(R) 529</span> ( _“Blenwel”_ ), “[t]he Court of Appeal is a creature of statute and, hence, is only seised of the jurisdiction that has been conferred upon it by the relevant provisions in the legislation creating it”. Therefore, as a starting point, we refer to s 29A of the SCJA, which provides that the Court of Appeal has jurisdiction over appeals from “any judgment or order of the High Court in any civil cause or matter”, subject to the provisions of the SCJA or “any other written law regulating the terms and conditions upon which such appeals may be brought”: 
 
  Jurisdiction of Court of Appeal 
 

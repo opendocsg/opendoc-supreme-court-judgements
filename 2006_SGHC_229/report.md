@@ -182,9 +182,9 @@ duty of care to the plaintiff as alleged or at all.
 
 contract, and held that in those circumstances a duty of care existed. 
 
-27     The plaintiff further submitted that the Court of Appeal in _RSP Architects Planners & Engineers v Ocean Front Pte Ltd (“Ocean Front”)_ [1996] 1 SLR 113 adopted the position taken in _Junior Books_ , when it held that the relevant proximity was established between the developers and the management corporation in that case. 
+27     The plaintiff further submitted that the Court of Appeal in _RSP Architects Planners & Engineers v Ocean Front Pte Ltd (“Ocean Front”)_ <span class="citation">[1996] 1 SLR 113</span> adopted the position taken in _Junior Books_ , when it held that the relevant proximity was established between the developers and the management corporation in that case. 
 
-28     The plaintiff added that the Court of Appeal in another similar case _RSP Architects Planners & Engineers (Raglan Squire & Partners FE) v Management Corporation Strata Title Plan No 1075_ (“Eastern Lagoon”) [1999] 2 SLR 449 extended liability for pure economic loss from a management corporation-developer relationship to the management corporation-building consultant relationship. 
+28     The plaintiff added that the Court of Appeal in another similar case _RSP Architects Planners & Engineers (Raglan Squire & Partners FE) v Management Corporation Strata Title Plan No 1075_ (“Eastern Lagoon”) <span class="citation">[1999] 2 SLR 449</span> extended liability for pure economic loss from a management corporation-developer relationship to the management corporation-building consultant relationship. 
 
 29     In short, the plaintiff’s case was that it depended on the defendant to accurately value and certify the plaintiff’s works. The defendant therefore could not have been exonerated from liability towards the plaintiff for its negligence. 
 
@@ -203,9 +203,9 @@ contract, and held that in those circumstances a duty of care existed.
 
 33     The defendant argued that Woo Bih Li JC’s decision in _Hong Huat Development Co (Pte) Ltd v Hiap Hong & Company Pte Ltd_ (Originating Motion No 12 of 1999, unreported) (“ _Hong Huat_ ”) was not binding and the following observations which he made (at [191]-[195]) were obiter: 
 
- 191 However, the position in Singapore is different. For example, in RSP Architects Planners & Engineers v Ocean Front Pte Ltd [1996] 1 SLR 113, the Court of Appeal decided that a developer does owe a duty of care to a Management Corporation to avoid pure economic loss. The Court of Appeal found that there was a sufficient degree of proximity between the developer and the management corporation in view of various factors. One of the factors was that the developer knew or ought to have known that negligence in the construction of the common property would have to be made good by the management corporation. 
+ 191 However, the position in Singapore is different. For example, in RSP Architects Planners & Engineers v Ocean Front Pte Ltd <span class="citation">[1996] 1 SLR 113</span>, the Court of Appeal decided that a developer does owe a duty of care to a Management Corporation to avoid pure economic loss. The Court of Appeal found that there was a sufficient degree of proximity between the developer and the management corporation in view of various factors. One of the factors was that the developer knew or ought to have known that negligence in the construction of the common property would have to be made good by the management corporation. 
 
- 192 In RSP Architects Planners & Engineers (Raglan Squire & Partners FE) v Management Corporation Strata Title Plan No 1075 & Anor [1999] 2 SLR 449, the Court of Appeal also decided that architects owe a duty of care to a Management Corporation to avoid pure economic loss. Here, the Court of Appeal found that the architects knew that the management corporation would depend on the architects’ care and skill. The element of reliance by the management corporation on the architects was present. 
+ 192 In RSP Architects Planners & Engineers (Raglan Squire & Partners FE) v Management Corporation Strata Title Plan No 1075 & Anor <span class="citation">[1999] 2 SLR 449</span>, the Court of Appeal also decided that architects owe a duty of care to a Management Corporation to avoid pure economic loss. Here, the Court of Appeal found that the architects knew that the management corporation would depend on the architects’ care and skill. The element of reliance by the management corporation on the architects was present. 
 
  193 I think that a strong argument can be made that an architect/certifier does owe a duty of care not only to the owner but also to the contractor to avoid pure economic loss. An architect must know that both intend to rely on his fairness as well as his skill and judgment as a certifier , as was mentioned in Jones v St John’s College LR 6 QB and cited in Kempster , (see paragraph 92 above). See also the judgment of Bowen LJ in Jackson v Barry Railway Co (1893) 1 Ch 238 at p.247 which was cited with approval by the Court of Appeal in Nelson Carlton Construction at p.150 and 153. The architect must also know that if he is negligent in issuing certificates he might cause loss to one of these parties. 
 
@@ -213,7 +213,7 @@ contract, and held that in those circumstances a duty of care existed.
 
  195 I need say no more on this point as it is not necessary for me to decide whether an architect, as certifier, owes a duty of care to the contractor. [emphasis added] 
 
-34     Next, the defendants referred to _Man B&W Diesel S E Asia Pte Ltd v PT Bumi International Tankers_ (“ _PT Bumi_ ”) [2004] 2 SLR 300. The Court of Appeal there recognised that the case involved special circumstances as there was a contract between Malaysian Shipyard and Engineering Sdn Bhd (“MSE”) and the respondent, PT Bumi International Tankers (“Bumi”), containing a limited warranty and several limitation clauses. However, Bumi did not have a direct contractual relationship with the appellant, Man B&W Diesel S E Asia Pte Ltd (“MBS”), or the appellant’s UK parent company, Mirrlees Blackstone Ltd (“MBUK”). It was held that by entering into the main contract with MSE on such limited terms, Bumi committed itself to looking to MSE for redress. As far as Bumi was concerned, it had relied on MSE alone. To then infer a duty of care on MBS and MBUK would run counter to the specific arrangement that Bumi had chosen to make with MSE. The Court also observed that _Ocean Front_ and _Eastern Lagoon_ were cases special on their facts. 
+34     Next, the defendants referred to _Man B&W Diesel S E Asia Pte Ltd v PT Bumi International Tankers_ (“ _PT Bumi_ ”) <span class="citation">[2004] 2 SLR 300</span>. The Court of Appeal there recognised that the case involved special circumstances as there was a contract between Malaysian Shipyard and Engineering Sdn Bhd (“MSE”) and the respondent, PT Bumi International Tankers (“Bumi”), containing a limited warranty and several limitation clauses. However, Bumi did not have a direct contractual relationship with the appellant, Man B&W Diesel S E Asia Pte Ltd (“MBS”), or the appellant’s UK parent company, Mirrlees Blackstone Ltd (“MBUK”). It was held that by entering into the main contract with MSE on such limited terms, Bumi committed itself to looking to MSE for redress. As far as Bumi was concerned, it had relied on MSE alone. To then infer a duty of care on MBS and MBUK would run counter to the specific arrangement that Bumi had chosen to make with MSE. The Court also observed that _Ocean Front_ and _Eastern Lagoon_ were cases special on their facts. 
 
 
 35     To show that there was no proximity of relationship between the plaintiff and the defendant that could give rise to a duty of care, the defendant relied on _Caparo Industries Plc v Dickman_ (“ _Caparo_ ”) [1990] 2 AC 605. It submitted that first, the defendant (as an SO) did not take part in the assessment of the plaintiff’s interim progress claims. Second, the defendant’s duty was to the Employer and it was clear from the contractual structure between the plaintiff and the Employer that “it would not have been foreseeable that the plaintiff would be unable to have any remedies against the Employer for the SO’s negligent under-certification” (see the defendant’s Opening Statement at [51]). 
@@ -226,7 +226,7 @@ _Jackson & Powell on Professional Negligence_ (Sweet & Maxwell: London _,_ 5 th 
 
  As in the case of other professions the standard generally required of an architect in discharging his duties is the reasonable skill, care and diligence of an ordinary competent and skill architect. 
 
-38     The defendant submitted that the standard of care expected of the defendant must be objectively determined as a matter of fact by the court (see _Chong Yeo & Partners & Anor v Guan Ming Hardware & Engineering Pte Ltd_ [1997] 2 SLR 729). 
+38     The defendant submitted that the standard of care expected of the defendant must be objectively determined as a matter of fact by the court (see _Chong Yeo & Partners & Anor v Guan Ming Hardware & Engineering Pte Ltd_ <span class="citation">[1997] 2 SLR 729</span>). 
 
 39     Even if a duty of care was owed to the plaintiff, the defendant argued it had not breached the duty. The defendant contended there was no causal link between the alleged breach of duty and the loss suffered because the plaintiff had not shown how the alleged breach led to its financial woes. 
 
@@ -259,14 +259,14 @@ In conclusion therefore, it is possible to sue for pure economic loss caused by 
 
  Next, having found such degree of proximity, the court next considers whether there is any material factor or policy which precludes such duty from arising. Both on principle and on authority, we do not see why such an approach should not be taken in Ocean Front and in a case such as the one before us. 
 
-46     Other local cases which followed Ocean Front and applied the _Anns_ two-stage test include _Management Corporation Strata Title Plan No 1938 v Goodview Properties Pte Ltd_ [2000] 2 SLR 807 and _Management Corporation Strata Title Plan No 2297 v Seasons Park Ltd_ [2005] 2 SLR 613. 
+46     Other local cases which followed Ocean Front and applied the _Anns_ two-stage test include _Management Corporation Strata Title Plan No 1938 v Goodview Properties Pte Ltd_ <span class="citation">[2000] 2 SLR 807</span> and _Management Corporation Strata Title Plan No 2297 v Seasons Park Ltd_ <span class="citation">[2005] 2 SLR 613</span>. 
 
 47     The second test on a duty of care in relation to pure economic loss is to be found in _Caparo_ ( _supra_ [35]). In a much cited passage (at 617–618) from the case, Lord Bridge of Harwich identified three elements that had to be present in order for the court to determine whether a duty of care was owed in any particular circumstance and if so, what its scope was. The three elements were: foreseeability of damage, a relationship of “proximity” or “neighbourhood” existing between the party 
 
 
 owing the duty and the party to whom it was owed and lastly, that the situation was one in which the court considered it fair, just and reasonable that the law should impose a duty of a given scope upon the one party for the benefit of the other. 
 
-48     Recent Court of Appeal cases which have based the duty of care on the _Caparo_ three-part test include _TV Media Pte Ltd v De Cruz Andrea Heidi and Another Appeal_ [2004] 3 SLR 543, _The "Sunrise Crane"_ [2004] 4 SLR 715 and _PT Bumi_ (supra [34]). 
+48     Recent Court of Appeal cases which have based the duty of care on the _Caparo_ three-part test include _TV Media Pte Ltd v De Cruz Andrea Heidi and Another Appeal_ <span class="citation">[2004] 3 SLR 543</span>, _The "Sunrise Crane"_ <span class="citation">[2004] 4 SLR 715</span> and _PT Bumi_ (supra [34]). 
 
 **_Proximity as the determining factor_** 
 
@@ -595,7 +595,7 @@ works”. The plaintiff added that “in failing, neglecting and/or refusing to 
 
 115    Clearly, the plaintiff was estopped from insisting on a different method of valuation for its progress claims. 
 
-116    The Court of Appeal in _Singapore Island Country Club v Hilborne_ [1997] 1 SLR 248 held (at [27]): 
+116    The Court of Appeal in _Singapore Island Country Club v Hilborne_ <span class="citation">[1997] 1 SLR 248</span> held (at [27]): 
 
  The criteria for establishing an estoppel by convention are: 
 
@@ -680,7 +680,7 @@ In its eagerness to secure the Contract, the plaintiff committed a fatal costing
 
 129    The plaintiff’s claims were consistently higher than KPK’s figures (see 1AB-4329). When Chi was cross-examined, he was unable to produce evidence to substantiate the plaintiff’s higher claims. I cite as an example the frame of Block 701 of the army camp. Chi was asked if he had “any evidence showing that it should be as your claim $1,345,902.70 and not what KPK certify, which is $1,305,000”. He could not point to any document in the agreed bundle to evidence the amount of work that the plaintiff allegedly carried out. He admitted that “there was a problem due to [his] errors in pricing the BQ”. 
 
-130    I should also add that Soundararajah’s testimony (see his affidavit at [44]) that the plaintiff had under-priced the Contract was never challenged. Based on the rule in _Browne v Dunn_ (1893) 6 R 67 that “[a]ny matter upon which it is proposed to contradict the evidence-in-chief given by the witness must normally be put to him so that he may have an opportunity of explaining the contradiction, and failure to do this may be held to imply acceptance of the evidence-in-chief, I find that the plaintiff had indeed under-priced the Contract at the contract price (see also _Arts Niche Cyber Distribution Pte Ltd v PP_ [1999] 4 SLR 111 at [48]). 
+130    I should also add that Soundararajah’s testimony (see his affidavit at [44]) that the plaintiff had under-priced the Contract was never challenged. Based on the rule in _Browne v Dunn_ (1893) 6 R 67 that “[a]ny matter upon which it is proposed to contradict the evidence-in-chief given by the witness must normally be put to him so that he may have an opportunity of explaining the contradiction, and failure to do this may be held to imply acceptance of the evidence-in-chief, I find that the plaintiff had indeed under-priced the Contract at the contract price (see also _Arts Niche Cyber Distribution Pte Ltd v PP_ <span class="citation">[1999] 4 SLR 111</span> at [48]). 
 
 131    I agree that the rule [in _Browne v Dunn_ ] does not mean that every point should be put to a witness, but if the point sought to be made goes to the heart of the matter, then it should be put to 
 

@@ -710,7 +710,7 @@ _M+H was led to focus on the main claim (not the alternative claim)_
 
 117    In my view, it was very clear from the above extracts that at all material times throughout the proceedings, the issue (whether or not the Initial Design was defective) was very much alive and both parties were fully aware of that. Dongwoo knew that it had to address M+H’s contention that the design was not defective. As such, Dongwoo was in no way precluded from fully presenting its case that the Initial Design was defective. No natural justice was breached and Dongwoo was in no way prejudiced in this respect. From the evidence presented and the briefs submitted, the tribunal was entitled to make a finding of fact that Dongwoo had failed to prove that the Initial Design was defective, and that accordingly, there was no breach of the TATLA by M+H. Since there was no further alternative claim or alternative case stated and made known to the tribunal by Dongwoo, the tribunal need not, and should generally also not, go on further to address that further alternative claim or case on its own accord in the arbitration. 
 
-118    It is worth noting what V K Rajah JA had said in _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ [2007] 3 SLR 86 (“ _Soh Beng Tee_ ”) that (at [41]): 
+118    It is worth noting what V K Rajah JA had said in _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ <span class="citation">[2007] 3 SLR 86</span> (“ _Soh Beng Tee_ ”) that (at [41]): 
 
  41 ... if we were to determine that the issue of whether time was at large was not truly alive during the arbitration, that per se would not be sufficient to inexorably lead to the conclusion that the Arbitrator had necessarily failed to adhere to the rules of natural justice in denying Fairmount an occasion to present its contentions on the issue. It is frequently a matter of degree as to how unexpected the impugned decision is, such that it can persuasively be said that the parties were truly deprived of an opportunity to argue it. As helpfully summarised in Sir Michael J Mustill & Stewart C Boyd, The Law and Practice of Commercial Arbitration in England (Butterworths, 2nd Ed, 1989) (“ Commercial Arbitration ”) at p 312: 
 
@@ -799,7 +799,7 @@ Section 24 of the IAA states:
 
  (ii) the award is in conflict with the public policy of this State. 
 
-131    In _PT Asuransi Jasa Indonesia (Persero) v Dexia Bank SA_ [2007] 1 SLR 597 (“ _PT Asuransi Jasa Indonesia (Persero)_ ”), the Court of Appeal explained what would constitute a conflict with public policy (at [57] and [59]): 
+131    In _PT Asuransi Jasa Indonesia (Persero) v Dexia Bank SA_ <span class="citation">[2007] 1 SLR 597</span> (“ _PT Asuransi Jasa Indonesia (Persero)_ ”), the Court of Appeal explained what would constitute a conflict with public policy (at [57] and [59]): 
 
  57 ... The legislative policy under the Act is to minimise curial intervention in international arbitrations. Errors of law or fact made in an arbitral decision, per se , are final and binding on the parties and may not be appealed against or set aside by a court except in the situations prescribed under s 24 of the Act and Art 34 of the Model Law. ... In the present context, errors of law or fact, per se , do not engage the public policy of Singapore under Art 34(2)(b) (ii) of the Model Law when they cannot be set aside under Art 34(2)(a) (iii) of the Model Law. 
 

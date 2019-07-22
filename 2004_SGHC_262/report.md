@@ -118,7 +118,7 @@ manner he did in the first and second letters.
 
 28     It was common ground that as at the date the defendant filed his Defence (12 March 2004), he no longer had any interest in the project although he still held one share in the plaintiff. His interest, if any, was in a monetary claim he then had against Tan for breach of the settlement. Even then, that interest was subsequently extinguished by the assignment to Chuah dated 1 October 2003. 
 
-29     The principles for the granting of a mandatory injunction were laid down sometime ago by our Court of Appeal in _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd_ [1992] 2 SLR 729 (“ _Chuan Hong_ ”). In delivering the judgment of the court, Warren L H Khoo J (adopting the approach taken by Hoffmann J in _Films Rover International Ltd v Cannon Film Sales Ltd_ [1987] 1 WLR 670) held at 743, [88] and [89]: 
+29     The principles for the granting of a mandatory injunction were laid down sometime ago by our Court of Appeal in _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd_ <span class="citation">[1992] 2 SLR 729</span> (“ _Chuan Hong_ ”). In delivering the judgment of the court, Warren L H Khoo J (adopting the approach taken by Hoffmann J in _Films Rover International Ltd v Cannon Film Sales Ltd_ [1987] 1 WLR 670) held at 743, [88] and [89]: 
 
  [A] fundamental principle is that the court should take whichever course appears to carry the lower risk of injustice if it should turn out to have been wrong at trial in the sense of granting relief to a party who fails to establish his rights at the trial, or of failing to grant relief to a party who succeeds at the trial. ... 
 
@@ -133,7 +133,7 @@ _Locabail International Finance Ltd v Agroexport_ [1986] 1 WLR 657 where the Eng
 
  ... the exercise of the discretion to grant a mandatory injunction in interlocutory proceedings should be approached with caution and only granted in a clear case where the court felt a high degree of assurance that at the trial it would appear that the injunction was rightly granted, a fortiori where the grant of the injunction would amount to the grant of the major part of the relief claimed ... 
 
-31     The principles in these English cases had earlier been applied by Chan Sek Keong J in _Heysek v Boyden World Corp_ [1988] SLR 862, where a mandatory injunction was sought by and granted to the defendants on their counterclaim, pending trial. After _Chuan Hong_ , the same principles were subsequently applied by our Court of Appeal in _Singapore Press Holdings Ltd v Brown Noel Trading Pte Ltd_ [1994] 3 SLR 151. 
+31     The principles in these English cases had earlier been applied by Chan Sek Keong J in _Heysek v Boyden World Corp_ [1988] SLR 862, where a mandatory injunction was sought by and granted to the defendants on their counterclaim, pending trial. After _Chuan Hong_ , the same principles were subsequently applied by our Court of Appeal in _Singapore Press Holdings Ltd v Brown Noel Trading Pte Ltd_ <span class="citation">[1994] 3 SLR 151</span>. 
 
 32     Applying to this action the principles culled from the various cases referred to earlier, it seemed to me to be very clear that the interests of justice weighed in favour of granting the injunction to the plaintiff. The injustice suffered by the defendant, if the injunction was granted and the plaintiff later failed at trial, was far less than the risk of injustice to the plaintiff if the mandatory injunction was not granted. 
 

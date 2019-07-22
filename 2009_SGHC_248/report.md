@@ -114,14 +114,14 @@ indicate that Chin was otherwise aware of the trades at DBSV Account.
 
 **_(i) Primary issue of implied/apparent authority_** 
 
-24     The fact that Chin had not signed DBSV’s mandate form authorising Steven Tang or any other person to operate Chin’s DBSV Account is not fatal to the plaintiff’s claim, if implied or apparent authority is established. Actual authority may be implied or inferred from the conduct of the parties and the circumstances. _Banque Nationale de Paris v Tan Nancy & Anor_ [2002] 1 SLR 29. The elements to establish apparent authority are simply stated in _Boustead & Reynolds_ on Agency, 16th Ed art.74: 
+24     The fact that Chin had not signed DBSV’s mandate form authorising Steven Tang or any other person to operate Chin’s DBSV Account is not fatal to the plaintiff’s claim, if implied or apparent authority is established. Actual authority may be implied or inferred from the conduct of the parties and the circumstances. _Banque Nationale de Paris v Tan Nancy & Anor_ <span class="citation">[2002] 1 SLR 29</span>. The elements to establish apparent authority are simply stated in _Boustead & Reynolds_ on Agency, 16th Ed art.74: 
 
 
  Where a person by words or conduct, represents or permits it to be represented that another person has authority to act on his behalf, he is bound by the acts of that other person with respect to anyone dealing with him as an agent on the faith of any such representation, to the same extent as if such other person had the authority that he was represented to have, even though he had no such actual authority. 
 
 **_(ii) Secondary issue of contributory negligence in contract_** 
 
-25     The first defendant has raised, in the event that he is adjudged liable to the plaintiff, a defence of contributory negligence. The availability or otherwise of contributory negligence defence in contractual claims is uncontroversial and succinctly stated by the Court of Appeal in _Jet Holding Ltd & Ors v Cooper Cameron (Singapore) Pte Ltd_ [2006] 3 SLR 769 at [100] as follows: 
+25     The first defendant has raised, in the event that he is adjudged liable to the plaintiff, a defence of contributory negligence. The availability or otherwise of contributory negligence defence in contractual claims is uncontroversial and succinctly stated by the Court of Appeal in _Jet Holding Ltd & Ors v Cooper Cameron (Singapore) Pte Ltd_ <span class="citation">[2006] 3 SLR 769</span> at [100] as follows: 
 
  The Singapore position in this regard is clear: the doctrine of contributory negligence is applicable where the defendant’s liability is the same as his or her liability in the tort of negligence independently of the existence of any contract ... 
 
@@ -169,7 +169,7 @@ and he has conceded that the hospitalisation of the first defendant is irrelevan
 
 38     The plaintiff has prayed for a Bullock or Sanderson Order to be made against the unsuccessful defendant in its Statement of Claim for costs of the successful defendant to be borne by the unsuccessful defendant. 
 
-39     The relevant principles to be considered relating to a Bullock or Sanderson Order have been succinctly set out in _Denis Matthew Harte v Dr Tan Hun Hoe and Gleneagles Hospital Ltd_ [2001] SGHC 19 (“ _Harte v Dr Tan Hun Hoe_ ”) by Chan Seng Onn JC (as he then was) at [11]: 
+39     The relevant principles to be considered relating to a Bullock or Sanderson Order have been succinctly set out in _Denis Matthew Harte v Dr Tan Hun Hoe and Gleneagles Hospital Ltd_ <span class="citation">[2001] SGHC 19</span> (“ _Harte v Dr Tan Hun Hoe_ ”) by Chan Seng Onn JC (as he then was) at [11]: 
 
 
  (a) What facts are reasonably ascertainable by the plaintiff before the decision is made to join the successful defendant (‘D1’); 

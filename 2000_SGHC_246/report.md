@@ -481,7 +481,7 @@ judgment of the High Court in that case as reported in [1989] 3 MLJ 216 as it se
 
 58\. The High Court found that cl 30(6) of the conditions of contract in that case did not prohibit the issue of a final certificate before the end of the defects liability period but it had simply set out the latest period by which the architect was to issue his final certificate. Therefore the final certificate was held to have been valid and the defendant there could not withhold payment thereon to the plaintiffs. 
 
-59\. The facts in _Kum Leng General Contractor v Hytech Builders Pte Ltd_ [1996] 1 SLR 751 are also different from those before me. There the defendants who were the main contractors, had sought to deduct various sums from payments otherwise due to 
+59\. The facts in _Kum Leng General Contractor v Hytech Builders Pte Ltd_ <span class="citation">[1996] 1 SLR 751</span> are also different from those before me. There the defendants who were the main contractors, had sought to deduct various sums from payments otherwise due to 
 
 
 the plaintiffs, who were the sub-contractors. The deductions were on the basis of liquidated damages for delay. However such a claim could only be made on the issuance of an architect’s certificate which had not yet been issued at the time the deductions were made. The certificate was issued about six months after the deductions were made. In these circumstances, the court there held that the plaintiffs were not entitled to make the deductions. 

@@ -74,7 +74,7 @@ _Tort_ – _Misrepresentation_ – _Whether bank's officers had made misrepresen
 5\. The trial ran for 42 days in three tranches. The plaintiff was in the witness box for 30 days, but for the morning sessions only, because of health problems. In the midst of the trial his solicitors Engelin Teh Practice LLC discharged themselves and Chor Pee & Partners were appointed. The plaintiff applied for leave to make substantial amendments to his re-re-amended statement of claim after the change of solicitors, but failed to obtain leave (see _Wee Soon Kim Anthony v UBS AG (No 2)_ 
 
 
-## [2003] 2 SLR 554). 
+## <span class="citation">[2003] 2 SLR 554</span>). 
 
 6\. The plaintiff’s opening statement set out the issues as 
 

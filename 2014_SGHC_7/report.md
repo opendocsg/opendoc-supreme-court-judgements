@@ -229,13 +229,13 @@ this case.
 
 **_Charges taken into consideration_** 
 
-48     In sentencing the accused I shall take into consideration the 11 charges which he had agreed to be taken into consideration for the purpose of sentence. In _Public Prosecutor v UI_ [2008] 4 SLR(R) 500 at [37], the Court of Appeal approved of the following passage made by Sir Igor Judge P in _R v Gary Dean Miles_ [2006] EWCA Crim 256: 
+48     In sentencing the accused I shall take into consideration the 11 charges which he had agreed to be taken into consideration for the purpose of sentence. In _Public Prosecutor v UI_ <span class="citation">[2008] 4 SLR(R) 500</span> at [37], the Court of Appeal approved of the following passage made by Sir Igor Judge P in _R v Gary Dean Miles_ [2006] EWCA Crim 256: 
 
  [T]he way in which the court deals with offences to be taken into consideration depends on context. In some cases the offences taken into consideration will end up by adding nothing or nothing very much to the sentence which the court would otherwise impose. On the other hand, offences taken into consideration may aggravate the sentence and lead to a substantial increase in it. For example, the offences may show a pattern of criminal activity which suggests careful planning or deliberate rather than casual involvement in a crime. They may show an offence or offences committed on bail, after an earlier arrest. They may show a return to crime immediately after the offender has been before the court and given a chance that, by committing the crime, he has immediately rejected. There are many situations where similar issues may arise. 
 
-49     It is, however, acknowledged that charges taken into consideration have the general effect of enhancing punishment, particularly where the charges taken into consideration are similar to the charges proceeded with. This much was stated in _Public Prosecutor v Chow Yee Sze_ [2011] 1 SLR 481 at [34]: 
+49     It is, however, acknowledged that charges taken into consideration have the general effect of enhancing punishment, particularly where the charges taken into consideration are similar to the charges proceeded with. This much was stated in _Public Prosecutor v Chow Yee Sze_ <span class="citation">[2011] 1 SLR 481</span> at [34]: 
 
- Furthermore, three charges ("TIC charges") were to be taken into account for sentencing. Such TIC charges would generally result in an enhanced sentence particularly where the TIC offences and the offences proceeded with are similar in nature as they would show that the offender was recalcitrant (eg, if both sets of offences consist of sexual offences against the same victim ): PP v UI ([1] supra) and PP v Mok Ping Wuen Maurice [1998] 3 SLR(R) 439 at [19]. [emphasis added] 
+ Furthermore, three charges ("TIC charges") were to be taken into account for sentencing. Such TIC charges would generally result in an enhanced sentence particularly where the TIC offences and the offences proceeded with are similar in nature as they would show that the offender was recalcitrant (eg, if both sets of offences consist of sexual offences against the same victim ): PP v UI ([1] supra) and PP v Mok Ping Wuen Maurice <span class="citation">[1998] 3 SLR(R) 439</span> at [19]. [emphasis added] 
 
 **_Sentencing approach in this case_** 
 
@@ -256,14 +256,14 @@ this case.
 
  [emphasis added] 
 
-54     In _Public Prosecutor v Law Aik Meng_ [2007] 2 SLR(R) 814, V K Rajah J (as he then was) mentioned that offenders who abused a position of authority to satisfy their sexual urges would be met with harsh penal consequences (at [24] and [25]): 
+54     In _Public Prosecutor v Law Aik Meng_ <span class="citation">[2007] 2 SLR(R) 814</span>, V K Rajah J (as he then was) mentioned that offenders who abused a position of authority to satisfy their sexual urges would be met with harsh penal consequences (at [24] and [25]): 
 
- 24 General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender: Meeran bin Mydin v PP [1998] 1 SLR(R) 522 at [9] (" Meeran bin Mydin "). Premeditated offences aside, there are many other situations where general deterrence assumes significance and relevance. These may relate to the type and/or circumstances of a particular offence. Some examples of the types of offences, which warrant general deterrence are: 
+ 24 General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender: Meeran bin Mydin v PP <span class="citation">[1998] 1 SLR(R) 522</span> at [9] (" Meeran bin Mydin "). Premeditated offences aside, there are many other situations where general deterrence assumes significance and relevance. These may relate to the type and/or circumstances of a particular offence. Some examples of the types of offences, which warrant general deterrence are: 
 
 
 ## ... 
 
- (b) Offences against vulnerable victims: Offences against vulnerable victims often create deep judicial disquiet and general deterrence must necessarily constitute an important consideration in the sentencing of perpetrators. In PP v NF [2006] 4 SLR(R) 849, at [42], I stated as follows: 
+ (b) Offences against vulnerable victims: Offences against vulnerable victims often create deep judicial disquiet and general deterrence must necessarily constitute an important consideration in the sentencing of perpetrators. In PP v NF <span class="citation">[2006] 4 SLR(R) 849</span>, at [42], I stated as follows: 
 
  [O]ur courts would be grievously remiss if they did not send an unequivocal and uncompromising message to all would-be sex offenders that abusing a relationship or a position of authority in order to gratify sexual impulse will inevitably be met with the harshest penal consequences. In such cases, the sentencing principle of general deterrence must figure prominently and be unmistakably reflected in the sentencing equation. [emphasis added] 
 
@@ -279,7 +279,7 @@ this case.
 
 I have no doubt that the accused’s offences, done over the course of 3 years, would cause public disquiet. 
 
-55     In _Lim Hock Hin Kelvin v Public Prosecutor_ [1998] 1 SLR(R) 37 at [20] the Court of Appeal explained that offences against vulnerable children are particularly serious: 
+55     In _Lim Hock Hin Kelvin v Public Prosecutor_ <span class="citation">[1998] 1 SLR(R) 37</span> at [20] the Court of Appeal explained that offences against vulnerable children are particularly serious: 
 
  However, the starting position must be that where the victims are vulnerable children, the offence becomes much more serious and the punishment meted on such offenders has to reflect the gravity of the offence. The punishment for rape offences is much more serious where the victim is below 14 years and sexual intercourse takes place without her consent. 
 
@@ -294,7 +294,7 @@ _Young victims_
 
 parental duty and sexually abused and exploited her. Before the wife’s marriage to the accused the home was [O]’s safest place in which she could find love, solace and trust. The accused changed this and made home a living hell for [O]. The court in _Public Prosecutor v Law Aik Meng_ stated that offenders of sexual offences against children should be given deterrent sentences. Although the accused did not sexually assault [Y], she was physically abused by him. 
 
-58     In _Public Prosecutor v Raffi Bin Jelan and Another_ [2004] SGHC 120 at [20], V K Rajah JC (as he then was) said: 
+58     In _Public Prosecutor v Raffi Bin Jelan and Another_ <span class="citation">[2004] SGHC 120</span> at [20], V K Rajah JC (as he then was) said: 
 
  Sentencing policy dictates that an offender who commits an offence against a vulnerable victim (this embraces the handicapped, incapacitated, children and the elderly) ought to be more severely dealt with by the court: R v Allen and Bennett (1988) 10 Cr App R (S) 466, R v Boswell (1982) 4 Cr App R (S) 317 
 
@@ -312,9 +312,9 @@ happened barely 6 months into his 3rd marriage to his wife!
 
 61     The irony is that the home became the most unsafe and dangerous place for [O] as the accused would intrude into her privacy when she was asleep or while she was bathing in order to satisfy his sexual exploits. 
 
-62     The following comments made by Chan Sek Keong CJ in _Public Prosecutor v Firdaus bin Abdullah_ [2010] 3 SLR 225 at [19] are particularly apposite: 
+62     The following comments made by Chan Sek Keong CJ in _Public Prosecutor v Firdaus bin Abdullah_ <span class="citation">[2010] 3 SLR 225</span> at [19] are particularly apposite: 
 
- Separately, the gravity of the offence would be increased in cases involving vulnerable victims. Children and young persons are particularly vulnerable because they are unable to fend for themselves and require their parents or guardians to take care of them. Any person entrusted with the care of young children would be harshly dealt with if that trust is betrayed: see Purwanti Parji v PP [2005] 2 SLR(R) 220 at [30] and PP v Teo Chee Seng [2005] 3 SLR(R) 250 at [9]. 
+ Separately, the gravity of the offence would be increased in cases involving vulnerable victims. Children and young persons are particularly vulnerable because they are unable to fend for themselves and require their parents or guardians to take care of them. Any person entrusted with the care of young children would be harshly dealt with if that trust is betrayed: see Purwanti Parji v PP <span class="citation">[2005] 2 SLR(R) 220</span> at [30] and PP v Teo Chee Seng <span class="citation">[2005] 3 SLR(R) 250</span> at [9]. 
 
 
 63     In _Public Prosecutor v UI_ at [32] the court said “those who have charge of children cannot abuse their position to satisfy their urges” In _Public Prosecutor v NF_ [2006] 4 SLR (R) 849 at [42] the court mentioned that “the harshest penal consequences to send an unequivocal and uncompromising message to all would-be sex offenders who abuse the relationship... to gratify sexual impulse” 
@@ -391,7 +391,7 @@ _The rape charges (charges 14 and 15)_
 
  25 The common thread running through category 2 rapes is that there has been exploitation of a particularly vulnerable victim either because the perpetrator is related to the victim in a way that allows him to abuse his position of trust or authority, or the perpetrator exploits a numerical advantage or acts out of hate towards a minority group. 
 
- 26 The leading case in Singapore involving the rape of vulnerable victims is PP v B [1999] 3 SLR(R) 227. In that case, the accused pleaded guilty to 3 counts of raping his daughter pursuant to s 376(1) of the PC. Several aggravating factors were taken into account, including the 
+ 26 The leading case in Singapore involving the rape of vulnerable victims is PP v B <span class="citation">[1999] 3 SLR(R) 227</span>. In that case, the accused pleaded guilty to 3 counts of raping his daughter pursuant to s 376(1) of the PC. Several aggravating factors were taken into account, including the 
 
 
 following: 
@@ -429,9 +429,9 @@ _Category 4 rapes_
 
 80     In _Public Prosecutor v NF_ , the 48-year-old offender raped his 15-year-old daughter once. He also had criminal antecedents for housebreaking, theft and drug offences. He was sentenced to 15 years’ imprisonment and 15 strokes of the cane for the rape charge. 
 
-81     In _Public Prosecutor v YD_ [2009] 1 SLR(R) 261, the 37-year-old offender had claimed trial to 16 charges of statutory rape under s 375(e) of the Penal Code (Cap 224, 1985 Rev Ed) and 26 charges of having carnal intercourse against the order of nature ( _viz_ ., fellatio), offences punishable under s 377 of the Penal Code. The victim was his step-daughter when she was between 11 and 13 years old. He was sentenced to a total sentence of 25 years’ imprisonment and 24 strokes of the cane. 
+81     In _Public Prosecutor v YD_ <span class="citation">[2009] 1 SLR(R) 261</span>, the 37-year-old offender had claimed trial to 16 charges of statutory rape under s 375(e) of the Penal Code (Cap 224, 1985 Rev Ed) and 26 charges of having carnal intercourse against the order of nature ( _viz_ ., fellatio), offences punishable under s 377 of the Penal Code. The victim was his step-daughter when she was between 11 and 13 years old. He was sentenced to a total sentence of 25 years’ imprisonment and 24 strokes of the cane. 
 
-82     In _Public Prosecutor v AHB_ [2010] SGHC 138, the 43-year-old offender faced 2 charges for outrage of modesty under s 354 of the Penal Code (Cap 224, 1985 Rev Ed), 1 charge of carnal intercourse against the order of nature ( _viz_ ., fellatio) punishable under s 377 of the Penal Code, 3 charges of rape, 1 charge for sexual penetration punishable under s 376(3) of the Penal Code and 1 charge for possession of obscene films under s 30(1) of the Films Act (Cap 107, 1998 Rev Ed). The victim of the sexual offences was his biological daughter who was 14 to 16 years old when the offences were committed. She was impregnated. He was given a total sentence of 36 years’ imprisonment and 24 strokes of the cane. 
+82     In _Public Prosecutor v AHB_ <span class="citation">[2010] SGHC 138</span>, the 43-year-old offender faced 2 charges for outrage of modesty under s 354 of the Penal Code (Cap 224, 1985 Rev Ed), 1 charge of carnal intercourse against the order of nature ( _viz_ ., fellatio) punishable under s 377 of the Penal Code, 3 charges of rape, 1 charge for sexual penetration punishable under s 376(3) of the Penal Code and 1 charge for possession of obscene films under s 30(1) of the Films Act (Cap 107, 1998 Rev Ed). The victim of the sexual offences was his biological daughter who was 14 to 16 years old when the offences were committed. She was impregnated. He was given a total sentence of 36 years’ imprisonment and 24 strokes of the cane. 
 
 83     These sentencing precedents on rapes indicate that the courts have been imposing harsh sentences for similar types of cases. 
 
@@ -468,7 +468,7 @@ _Voluntarily causing hurt (6th and 10th charges)_
 
  Subject to subsection (2), if at one trial a person is convicted and sentenced to imprisonment for at least 3 distinct offences, the court before which he is convicted must order the sentences for at least 2 of those offences to run consecutively. 
 
-92     In deciding the number of terms of imprisonment to run consecutively, I have to ensure that the total punishment does not have a crushing effect. In _Maideen Pillai v Public Prosecutor_ [1995] 3 SLR(R) 706 at [11], it is stated: 
+92     In deciding the number of terms of imprisonment to run consecutively, I have to ensure that the total punishment does not have a crushing effect. In _Maideen Pillai v Public Prosecutor_ <span class="citation">[1995] 3 SLR(R) 706</span> at [11], it is stated: 
 
  Of course, the sentencing court will bear in mind at all times the second limb of the totality principle, that is, the need to avoid an aggregate sentence so harsh as to be ‘crushing’ in its 
 
@@ -489,7 +489,7 @@ _Voluntarily causing hurt (6th and 10th charges)_
 
  effect on the offender. Where consecutive sentences are imposed on an offender, the overall punishment should be in proportion to the overall gravity of his criminal conduct, taking into account the circumstances in which he offended and also the pattern of his previous behaviour. 
 
-93     In dealing with multiple terms of imprisonment, I am aware of the case of _Teo Kian Leong v Public Prosecutor_ [2002] 1 SLR(R) 386, where Yong Pung How CJ said that (at [8]): 
+93     In dealing with multiple terms of imprisonment, I am aware of the case of _Teo Kian Leong v Public Prosecutor_ <span class="citation">[2002] 1 SLR(R) 386</span>, where Yong Pung How CJ said that (at [8]): 
 
  No single consideration can conclusively determine the proper sentence and, in arriving at the proper sentence, the court must balance many factors, sometimes rejecting some. One factor that the court should consider is whether the totality of the sentence to be served is proportional to the inherent gravity of all the offences committed by the accused. Hence, while the individual sentence for a particular offence may be perfectly appropriate, the cumulative effect of the sentences may result in a total term of imprisonment that is disproportionate to the overall criminality of the accused. 
 

@@ -16,7 +16,7 @@
 
 _Conflict of Laws_ – _choice of jurisdiction_ – _non-exclusive_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 106 of 2011 was allowed by the Court of Appeal on 24 February 2012. See [2012] SGCA 16.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 106 of 2011 was allowed by the Court of Appeal on 24 February 2012. See <span class="citation">[2012] SGCA 16</span>.] 
 
 4 August 2011 
 

@@ -161,7 +161,7 @@ The earlier letter was written while the working relationship between the partie
 and c ited two c ases, _Reigate v Union Manufacturing Co (Ramsbottom)_ [1918] 1 KB 592 and _Forefront_ 
 
 
-_Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ [2006] 1 SLR(R) 927 in support. 
+_Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 927</span> in support. 
 
 24     The former c ase is authority for the business effic ac y test as explained by Sc rutton LJ at p 605: 
 

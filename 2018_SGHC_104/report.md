@@ -213,7 +213,7 @@ person he called “Odeng”, who he identified as Ramdhan. [note: 30] He mentio
 
  (b) knowledge of the nature of the controlled drug, which may be proved or presumed pursuant to s 18(2) of the MDA. 
 
-31     For a charge of trafficking under s 5(1)(a) read with s 5(2) of the MDA to be made out, the Prosecution must prove the following elements (see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ [2014] 3 SLR 721 (“ _Muhammad Ridzuan_ ”) at [59]): 
+31     For a charge of trafficking under s 5(1)(a) read with s 5(2) of the MDA to be made out, the Prosecution must prove the following elements (see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ <span class="citation">[2014] 3 SLR 721</span> (“ _Muhammad Ridzuan_ ”) at [59]): 
 
  (a) possession of a controlled drug, which may be proved or presumed pursuant to s 18(1) of the MDA; 
 
@@ -443,7 +443,7 @@ $5,300 from a man named Shawn, [note: 83] and these sums were placed inside the 
 
 73     The fact that Crocker could have been dishonest about his level of drug consumption does not render the entirety of his testimony unreliable. It is not inconsistent to suggest that certain portions of an accused’s testimony are reliable and other parts are not. 
 
-74     The fact that Crocker is a co-accused does not automatically discredit his testimony. Illustration (b) states that “the court _may_ presume that the evidence of an accomplice is unworthy of credit and his evidence needs to be treated with caution” [emphasis added]. This illustration is phrased in discretionary terms. Additionally, I note that despite illustration (b), it is open to the court to convict an accused _solely_ on the basis of a co-accused’s testimony, although in such circumstances it may be relevant to consider the incentive that the co-accused might have in giving evidence against the accused (see _Norasharee bin Gous v Public Prosecutor_ [2017] 1 SLR 820 at [59]). In the present case, Ramdhan is not being convicted solely on the basis of Crocker’s testimony. As I have explained (see above at [61]–[71]), Crocker’s evidence is amply corroborated by the objective evidence available. 
+74     The fact that Crocker is a co-accused does not automatically discredit his testimony. Illustration (b) states that “the court _may_ presume that the evidence of an accomplice is unworthy of credit and his evidence needs to be treated with caution” [emphasis added]. This illustration is phrased in discretionary terms. Additionally, I note that despite illustration (b), it is open to the court to convict an accused _solely_ on the basis of a co-accused’s testimony, although in such circumstances it may be relevant to consider the incentive that the co-accused might have in giving evidence against the accused (see _Norasharee bin Gous v Public Prosecutor_ <span class="citation">[2017] 1 SLR 820</span> at [59]). In the present case, Ramdhan is not being convicted solely on the basis of Crocker’s testimony. As I have explained (see above at [61]–[71]), Crocker’s evidence is amply corroborated by the objective evidence available. 
 
 75     In any event, there was no evidence to even suggest that Crocker had a motive to implicate Ramdhan. At trial Crocker fully admitted to possessing drugs for the purposes of reselling to other individuals. His only defence was a consumption defence and identifying the individual who had passed Crocker the drugs was irrelevant to this defence. There was also no evidence that Crocker harboured any animosity towards Ramdhan. 
 
@@ -497,7 +497,7 @@ that Surani admitted that he was also known as “Bujang Hawk” by some of his 
 86     I note that the Prosecution had urged me to draw an adverse inference against Ramdhan pursuant to s 116, illustration (g) of the Evidence Act (Cap 97, 1997 Rev Ed) for failing to call the purported illegal cigarette seller as a witness. Illustration (g) states that the court may presume “that evidence which could be and is not produced would if produced be unfavourable to the person who 
 
 
-withholds it”. I decline to exercise my discretion to draw an adverse inference as the present case does not rise to meet the exceptional circumstances required for such an inference to be drawn against an accused (see _Public Prosecutor v Muhammad Farid bin Mohd Yusop_ [2015] 3 SLR 16 at [47]). Nevertheless, even without the adverse inference, on the strength of the points at [83]–[85] above, I find that Surani was using a mobile phone bearing the number xxx432 at the material time. 
+withholds it”. I decline to exercise my discretion to draw an adverse inference as the present case does not rise to meet the exceptional circumstances required for such an inference to be drawn against an accused (see _Public Prosecutor v Muhammad Farid bin Mohd Yusop_ <span class="citation">[2015] 3 SLR 16</span> at [47]). Nevertheless, even without the adverse inference, on the strength of the points at [83]–[85] above, I find that Surani was using a mobile phone bearing the number xxx432 at the material time. 
 
 87     Second, there was no motive for Crocker to implicate the Surani. In fact, Surani claimed that 
 

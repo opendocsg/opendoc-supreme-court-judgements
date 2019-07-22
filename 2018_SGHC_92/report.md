@@ -32,7 +32,7 @@ _Courts and Jurisdiction_ – _Judges_ – _Recusal_
 
 4       V then filed another application for leave to appeal to the Court of Appeal against that decision of mine. I dismissed that application as well. 
 
-5       I delivered my grounds of decision for both applications on 30 November 2016. It is reported in _Werner Samuel Vuillemin v Oversea-Chinese Banking Corp Ltd_ [2017] 3 SLR 501 (“my previous GD”). 
+5       I delivered my grounds of decision for both applications on 30 November 2016. It is reported in _Werner Samuel Vuillemin v Oversea-Chinese Banking Corp Ltd_ <span class="citation">[2017] 3 SLR 501</span> (“my previous GD”). 
 
 
 6       Prior to hearing the Recusal Summons and RAS 3/2018, I had also heard an appeal by V against the outcome of another application of his (District Court Summons No 131 of 2017) in which he had applied for leave to commence committal proceedings against one Ms Lee, an officer of the Bank, on the basis that she had lied in her affidavit. His application was dismissed by the State Courts. He then filed an appeal (“RAS 9/2017”) which was heard by me. I dismissed his appeal. 
@@ -137,7 +137,7 @@ I will refer to that application as “the Summons for an AP Order”.
 
 45     Fifthly, V argued, at paras 65 to 68 of the Supporting Affidavit for RS, that the Bank itself was aware of this court’s partiality towards it because in respect of V’s appeal to the High Court against the State Court’s decision to dismiss his application for leave to commence committal proceedings, the Bank’s solicitors had requested for the hearing of his appeal to be fixed before me. This was yet another example of the scandalous allegations that V was prepared to make. 
 
-46     It is quite common for one party or both parties to ask for the same judge to hear the next application or appeal arising from the same substantive action. The reason is obvious. The parties do not have to repeat the same background in the same detail as they would have had to if the matter was heard by a different judge. Also, the same judge will be aware of the previous application and outcome and this will reduce the risk of inconsistent decisions or approaches. Furthermore, a system of docketing, which is increasingly adopted by our courts, generally entails that the same judge will hear various interlocutory matters pertaining to the same substantive action. Ironically, V himself had cited _TOW v TOV_ [2017] 3 SLR 725 (“ _TOW_ ”) to support the Recusal Summons but the High Court there also alluded, at [63], to the docketing system which generally entails that the same judge determines various interlocutory applications in the same substantive action. 
+46     It is quite common for one party or both parties to ask for the same judge to hear the next application or appeal arising from the same substantive action. The reason is obvious. The parties do not have to repeat the same background in the same detail as they would have had to if the matter was heard by a different judge. Also, the same judge will be aware of the previous application and outcome and this will reduce the risk of inconsistent decisions or approaches. Furthermore, a system of docketing, which is increasingly adopted by our courts, generally entails that the same judge will hear various interlocutory matters pertaining to the same substantive action. Ironically, V himself had cited _TOW v TOV_ <span class="citation">[2017] 3 SLR 725</span> (“ _TOW_ ”) to support the Recusal Summons but the High Court there also alluded, at [63], to the docketing system which generally entails that the same judge determines various interlocutory applications in the same substantive action. 
 
 47     Therefore, whatever the merits of the docketing system may be, as V was relying on _TOW_ , he should know that the mere fact that one party is asking that the same judge hears the next application or appeal is not evidence that that party is acknowledging the partiality of that judge in its favour. 
 
@@ -200,7 +200,7 @@ the past fixtures. Therefore he had had enough time to prepare and file that app
 
 70     I come now to V’s appeal against DJ Chiah’s decision to dismiss the Summons for an AP Order. 
 
-71     An AP order is a draconian order to be made only when the circumstances warrant it. The following requirements, as set out in _Asian Corporate Services (SEA) Pte Ltd v Eastwest Management Ltd (Singapore Branch)_ [2006] 1 SLR(R) 901 at [14] and cited in _BP Singapore Pte Ltd v Quek Chin Thean and others_ [2011] 2 SLR 541 at [21], must be satisfied before an AP order may be granted: 
+71     An AP order is a draconian order to be made only when the circumstances warrant it. The following requirements, as set out in _Asian Corporate Services (SEA) Pte Ltd v Eastwest Management Ltd (Singapore Branch)_ <span class="citation">[2006] 1 SLR(R) 901</span> at [14] and cited in _BP Singapore Pte Ltd v Quek Chin Thean and others_ <span class="citation">[2011] 2 SLR 541</span> at [21], must be satisfied before an AP order may be granted: 
 
  (a) The plaintiff must have an extremely strong prima facie case. 
 

@@ -18,7 +18,7 @@ _Tort_ – _Misrepresentation_ – _Fraud and deceit_
 
 _Tort_ – _Negligence_ – _Solicitors’ duties_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 8.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 8</span>.] 
 
 9 July 2018 Judgment reserved. 
 
@@ -37,7 +37,7 @@ Tan Lay Pheng (“Mr Tan”) who did the legal work required to effect the trans
 
 4       The parties were not in dispute over the fact of the transfer of the monies and the Apartment. What they disagreed on was the purpose of the transfers. The Yacobs claimed that the monies were transferred to Mr Boediono (a) for the latter to buy a car on Mr Yacob’s behalf and (b) as their contribution towards a joint investment in two condominium apartments known as the Oasis Garden and Parc Mondrian apartments. Mr Boediono asserted that the monies were transferred to repay Mr Yacob’s debt to Mr Kweh. As for the Apartment, the Yacobs claimed that the Boedionoes fraudulently procured its transfer to Mr Kweh. The Yacobs’ claim against Mr Toh and Mr Tan was in negligence. 
 
-5       The Judge in the court below found for the plaintiffs on all the issues: see _Cristian Priwisata Yacob and another v Wibowo Boediono and another and another suit_ [2017] SGHC 8 (the “Judgment”). The essential findings made by the Judge were as follows: 
+5       The Judge in the court below found for the plaintiffs on all the issues: see _Cristian Priwisata Yacob and another v Wibowo Boediono and another and another suit_ <span class="citation">[2017] SGHC 8</span> (the “Judgment”). The essential findings made by the Judge were as follows: 
 
  (a) First, that Mr Yacob did not owe Mr Kweh a debt. The monies transferred by the Yacobs and Mr Suriadinata to Mr Boediono were not to repay any debt but to purchase a car on Mr Yacob’s behalf and as part of the joint investment. 
 
@@ -255,7 +255,7 @@ argument that the damage was too remote because the fraud was superseded by the 
 
 Collectively, these documents prove the debt because, as the note explains, the HSBC cheque could be encashed to satisfy the debt if the Apartment was not transferred to do so. 
 
-52     The Judge did not rely on these two documents because the appellants did not prove their authenticity. In our view, this reasoning was deficient because it wrongly placed the burden of proof on the appellants rather than on the Yacobs. As the appellants correctly point out, the burden of proof is on the party alleging forgery of a particular document to prove it (see this court’s decision in _Alwie Handoyo v Tjong Very Sumito and another and another appeal_ [2013] 4 SLR 308 at [157]). Since the HSBC cheque and the note that accompanied it appeared to have originated from Mdm Susilawaty (it was not disputed that the cheque was from her cheque book), it was for the Yacobs to 
+52     The Judge did not rely on these two documents because the appellants did not prove their authenticity. In our view, this reasoning was deficient because it wrongly placed the burden of proof on the appellants rather than on the Yacobs. As the appellants correctly point out, the burden of proof is on the party alleging forgery of a particular document to prove it (see this court’s decision in _Alwie Handoyo v Tjong Very Sumito and another and another appeal_ <span class="citation">[2013] 4 SLR 308</span> at [157]). Since the HSBC cheque and the note that accompanied it appeared to have originated from Mdm Susilawaty (it was not disputed that the cheque was from her cheque book), it was for the Yacobs to 
 
 
 adduce evidence of forgery. Otherwise the cheque and the note would be taken to be authentic and they would be _prima facie_ evidence that the debt existed. 
@@ -603,7 +603,7 @@ on 20 and 21 June 2011. The Judge rejected the appellants’ contention that the
 
 126    We respectfully disagree with the Judge. We find that the two positions are inconsistent and that it was not open to the Yacobs to maintain both without any reflection on the creditability of their case. 
 
-127    We accept that, theoretically, both positions could be maintained but this would only be possible if Mr Yacob and Mdm Susilawaty were not able to identify the documents that they signed on 20 and 21 June 2011. If they could identify these documents as either the transfer documents or some other documents, then their two factual positions would “offend common sense” (see this court’s decision in _Ng Chee Weng v Lim Jit Ming Bryan and another_ [2012] 1 SLR 457 at [37]). They would in that case be able to say whether their signatures on the documents were obtained from them fraudulently or were not obtained from them at all (and were therefore forged). 
+127    We accept that, theoretically, both positions could be maintained but this would only be possible if Mr Yacob and Mdm Susilawaty were not able to identify the documents that they signed on 20 and 21 June 2011. If they could identify these documents as either the transfer documents or some other documents, then their two factual positions would “offend common sense” (see this court’s decision in _Ng Chee Weng v Lim Jit Ming Bryan and another_ <span class="citation">[2012] 1 SLR 457</span> at [37]). They would in that case be able to say whether their signatures on the documents were obtained from them fraudulently or were not obtained from them at all (and were therefore forged). 
 
 128    In our judgment, the Yacobs could not maintain both positions because by their evidence they identified the documents signed in June 2011 as the transfer documents, although Mdm Susilawaty also contradicted herself by insisting at the same time that the documents signed then related to the Parc Mondrian apartment. In parenthesis we note that the Judge held that documents relating to the joint investment were signed at the June 2011 meetings (see Judgment at [47]–[48], [105]–[107]), a finding that we have no reason to upset. 
 

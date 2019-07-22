@@ -82,7 +82,7 @@ Unasserted Claims”).
 8       The Plaintiff objects to the Defendants putting the validity of the Unasserted Claims in issue. 
 
 
-This is because each claim in a patent stands on its own, and even within a single patent, each individual claim has to be assessed separately (see _Astrazeneca AB v Ranbaxy (Malaysia) Sdn Bhd_ [2012] SGHC 7 at [8] (“ _Ranbaxy_ ”)). As such, given that the Plaintiff has not relied on the Unasserted Claims, it contends that the Defendants should not be allowed to seek invalidation of the Unasserted Claims. 
+This is because each claim in a patent stands on its own, and even within a single patent, each individual claim has to be assessed separately (see _Astrazeneca AB v Ranbaxy (Malaysia) Sdn Bhd_ <span class="citation">[2012] SGHC 7</span> at [8] (“ _Ranbaxy_ ”)). As such, given that the Plaintiff has not relied on the Unasserted Claims, it contends that the Defendants should not be allowed to seek invalidation of the Unasserted Claims. 
 
 9       The Plaintiff therefore brought the present application, seeking a striking out of the following: 
 
@@ -148,7 +148,7 @@ _Parties’ arguments_
 
  (a) First, Ranbaxy ought to be distinguished from the present case. Unlike the claim in Ranbaxy , which concerned a declaration of intended infringement under the Medicines Act, the present case relates to infringement proceedings commenced under the Patents Act. 
 
- (b) Second, the reasoning in Ranbaxy ought to be disregarded, because that case related to a claim under the Medicines Act instead of the Patents Act and, as such, s 82(1) of the Patents Act should not have been applicable at all. In this regard, Ms Leow cited AstraZeneca AB (SE) v Sanofi-Aventis Singapore Pte Ltd [2012] SGHC 16 (“ Sanofi-Aventis ”) at [30] for the proposition that an action brought pursuant to s 12A of the Medicines Act is “incompatible” with a patent infringement action brought under s 67 of the Patents Act. Ms Leow further suggested that the incompatibility between the two legislative regimes was “the fundamental reason” that the court in Ranbaxy found that the defendant was unable to put the validity of the entire patent in issue under s 82(1)( a ) of the Patents Act. 
+ (b) Second, the reasoning in Ranbaxy ought to be disregarded, because that case related to a claim under the Medicines Act instead of the Patents Act and, as such, s 82(1) of the Patents Act should not have been applicable at all. In this regard, Ms Leow cited AstraZeneca AB (SE) v Sanofi-Aventis Singapore Pte Ltd <span class="citation">[2012] SGHC 16</span> (“ Sanofi-Aventis ”) at [30] for the proposition that an action brought pursuant to s 12A of the Medicines Act is “incompatible” with a patent infringement action brought under s 67 of the Patents Act. Ms Leow further suggested that the incompatibility between the two legislative regimes was “the fundamental reason” that the court in Ranbaxy found that the defendant was unable to put the validity of the entire patent in issue under s 82(1)( a ) of the Patents Act. 
 
  (c) Third, unlike the Defendants, the defendant in Ranbaxy could not avail itself of any of the other grounds in s 82 of the Patents Act ( viz , s 82(1)( b ) to ( e ) of the Patents Act). 
 
@@ -181,7 +181,7 @@ _Parties’ arguments_
 
  (b) Second, none of the Plaintiff’s threats complained of had made reference to any specific claims in the Patent. As such, the Defendants are entitled to put the validity of the entire Patent in issue. 
 
- (c) Third, the scope of infringement proceedings is irrelevant to proceedings for groundless threats, because the commencement of proceedings is, in itself, not a “threat” (citing Singsung Pte Ltd v LG 26 Electronics Pte Ltd (trading as S Electrical Trading) [2016] 4 SLR 86 at [134], in the context of the Copyright Act). It follows that the entire Patent can be put in issue regardless of the fact that the Plaintiff has relied only on selected claims in the Patent. 
+ (c) Third, the scope of infringement proceedings is irrelevant to proceedings for groundless threats, because the commencement of proceedings is, in itself, not a “threat” (citing Singsung Pte Ltd v LG 26 Electronics Pte Ltd (trading as S Electrical Trading) <span class="citation">[2016] 4 SLR 86</span> at [134], in the context of the Copyright Act). It follows that the entire Patent can be put in issue regardless of the fact that the Plaintiff has relied only on selected claims in the Patent. 
 
  (d) Fourth, there are precedent cases, such as Siegfried Demel (Trading as Demotec Siegfried Demel) v C & H Jefferson (A Firm) and Another [1999] FSR 204 (“ Siegfried ”), in which the validity of entire patents have been put in issue in groundless threats proceedings. 
 
@@ -229,7 +229,7 @@ _Decision_
 
  (d) If the threatenor seeks to defend himself against the claim for groundless threats, he will have to justify the threats made. In this regard: 
 
- (i) The threatenor will have to prove that the patent has been, or will be, infringed by the acts in respect of which the threats were made. In doing so, he must necessarily specify the claim or claims that he alleges have been, or will be, infringed. If he fails to prove actual or potential infringement of those claims, the aggrieved person succeeds on his claim for groundless threats. For example, in Bean Innovations Pte Ltd and another v Flexon (Pte) Ltd [2001] 2 SLR(R) 116, the patent proprietor sought to defend itself against groundless threats proceedings by relying on only one claim of its patent. It was unable to establish infringement of this specific claim. As such, the aggrieved party succeeded in its claim for groundless threats. 
+ (i) The threatenor will have to prove that the patent has been, or will be, infringed by the acts in respect of which the threats were made. In doing so, he must necessarily specify the claim or claims that he alleges have been, or will be, infringed. If he fails to prove actual or potential infringement of those claims, the aggrieved person succeeds on his claim for groundless threats. For example, in Bean Innovations Pte Ltd and another v Flexon (Pte) Ltd <span class="citation">[2001] 2 SLR(R) 116</span>, the patent proprietor sought to defend itself against groundless threats proceedings by relying on only one claim of its patent. It was unable to establish infringement of this specific claim. As such, the aggrieved party succeeded in its claim for groundless threats. 
 
  (ii) The aggrieved person may seek to prove that the patent is invalid “in a relevant respect”, pursuant to s 77(2)( b ) of the Patents Act. This means that he must seek to invalidate the specific claims that were relied upon by the threatenor in the threatenor’s defence against the claim for groundless threats. 
 
@@ -292,7 +292,7 @@ Maxwell, 2nd Ed, 2009) at paragraph 30.06, where the learned author observed tha
 
 (which concern the validity of the entire patent) are before the Registrar, as well as the attendant risks of inconsistent decisions arising from such a bifurcation. It would generally also help to streamline proceedings within a single forum, and possibly reduce the resources expended in resolving the dispute. 
 
-45     I am fortified in this view by numerous examples of cases where revocation proceedings have been brought by way of a counterclaim and dealt with by the High Court. The examples cited by Ms Leow include _Main-Line Corporate Holdings Ltd v DBS Bank Ltd_ [2012] 4 SLR 147, _Dextra Asia Co Ltd and another v Mariwu Industrial Co (S) Pte Ltd and another suit_ [2006] 2 SLR(R) 154 and _V-Pile Technology (Luxembourg) SA and others v Peck Brothers Construction Pte Ltd_ [1997] 3 SLR(R) 981. It has also been observed in _A Guide to Patent Law in Singapore_ (Alban Kang gen ed) (Sweet & 
+45     I am fortified in this view by numerous examples of cases where revocation proceedings have been brought by way of a counterclaim and dealt with by the High Court. The examples cited by Ms Leow include _Main-Line Corporate Holdings Ltd v DBS Bank Ltd_ <span class="citation">[2012] 4 SLR 147</span>, _Dextra Asia Co Ltd and another v Mariwu Industrial Co (S) Pte Ltd and another suit_ <span class="citation">[2006] 2 SLR(R) 154</span> and _V-Pile Technology (Luxembourg) SA and others v Peck Brothers Construction Pte Ltd_ <span class="citation">[1997] 3 SLR(R) 981</span>. It has also been observed in _A Guide to Patent Law in Singapore_ (Alban Kang gen ed) (Sweet & 
 
 Maxwell, 2nd Ed, 2009) at paragraph 8.2.2, that “more often than not, issues relating to the revocation of a patent are heard in the courts rather than before the Registrar”. 
 

@@ -35,7 +35,7 @@ _Restitution_ – _Prevention of Corruption Act_ – _Employee of company obtain
 **Proceedings in the lower courts** 
 
 
-5       The assistant registrar dismissed the respondent’s application for summary judgment under O 14 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed). On appeal, the judge allowed the appeal and entered final judgment for the respondent in the sum of $292,800 with costs. Her decision is reported at _Carrefour Singapore Pte Ltd v Leong Wai Kay_ [2006] 4 SLR 412. 
+5       The assistant registrar dismissed the respondent’s application for summary judgment under O 14 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed). On appeal, the judge allowed the appeal and entered final judgment for the respondent in the sum of $292,800 with costs. Her decision is reported at _Carrefour Singapore Pte Ltd v Leong Wai Kay_ <span class="citation">[2006] 4 SLR 412</span>. 
 
 6       In finding for the respondent, the judge rejected the appellant’s argument (described in [4] above) on the grounds that it was: (a) contrary to the clear language of s 14(1) of the Act; and (b) misconceived as criminal proceedings were separate and distinct from civil proceedings which were based on a cause of action given by s 14(1). The judge held that the respondent’s right to recover the bribes from the appellant was unaffected by the conviction. 
 
@@ -100,7 +100,7 @@ In expressing approval with the trial judge’s findings, Wan Suleiman FJ in the
 
  I agree with respect that the learned judge was again correct in holding that section 13 should operate independently of the provisions of section 30 which, as he puts it, is payment towards a civil debt. Section 30 is merely reaffirmation of a rule of law in the relation between agent and principal, a remedy which the principal would have even without the enactment of section 30. 
 
-21     The above was sufficient to dispose of the appeal. However, since counsel for the appellant placed great reliance on the decision of the District Court in _PP v Teng Cheow Hing_ [2005] SGDC 38 in support of his appeal, it would be appropriate that we conclude these grounds of decision by stating that we agree with the following statement of the district judge at [25] of his grounds of decision: 
+21     The above was sufficient to dispose of the appeal. However, since counsel for the appellant placed great reliance on the decision of the District Court in _PP v Teng Cheow Hing_ <span class="citation">[2005] SGDC 38</span> in support of his appeal, it would be appropriate that we conclude these grounds of decision by stating that we agree with the following statement of the district judge at [25] of his grounds of decision: 
 
  [I]t is clear that the purpose and object of section 13 [of the Act] is to eliminate the ability of offenders to benefit from their corrupt activities by disgorging the bribes from the culprit who accepted it. That will act [as] a strong deterrent to potential offenders. 
 

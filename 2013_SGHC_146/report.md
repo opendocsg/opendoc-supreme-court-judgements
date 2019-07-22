@@ -205,7 +205,7 @@ _Application of a time bar_
 
  (b) from facts ascertainable by him with the help of appropriate expert advice which it is reasonable for him to seek. 
 
-22     I am of the view that s 6 applies to Dynasty’s claims against Sia and Lee. As noted by the Court of Appeal in _Yong Kheng Leong and another v Panweld Trading Pte Ltd and another_ (“ _Yong Kheng Leong_ ”) [2013] 1 SLR 173 at [69], the effect of s 6(7) is that the entire s 6 applies to all claims for equitable relief, whether these are founded upon contract, tort, a trust or other grounds in equity. Dynasty’s claims are caught by s 6(7) because its claims are essentially for an account of misappropriated property, which is an equitable relief, founded upon allegations of breaches of fiduciary duty owed by Sia and Lee to Dynasty, which are grounded in equity. Section 6(2) expressly imposes a six-year time bar on actions for an account. 
+22     I am of the view that s 6 applies to Dynasty’s claims against Sia and Lee. As noted by the Court of Appeal in _Yong Kheng Leong and another v Panweld Trading Pte Ltd and another_ (“ _Yong Kheng Leong_ ”) <span class="citation">[2013] 1 SLR 173</span> at [69], the effect of s 6(7) is that the entire s 6 applies to all claims for equitable relief, whether these are founded upon contract, tort, a trust or other grounds in equity. Dynasty’s claims are caught by s 6(7) because its claims are essentially for an account of misappropriated property, which is an equitable relief, founded upon allegations of breaches of fiduciary duty owed by Sia and Lee to Dynasty, which are grounded in equity. Section 6(2) expressly imposes a six-year time bar on actions for an account. 
 
 _Exceptions to a time bar_ 
 
@@ -266,17 +266,17 @@ _Dynasty’s case_
 
 _The applicable legal principles_ 
 
-31     It should be noted at the outset that even if Dynasty’s claim is not time-barred, it can still be barred by acquiescence and laches because s 32 of the Limitation Act preserves a defendant’s right to raise such a defence: _Re Estate of Tan Kow Quee_ [2007] 2 SLR(R) 417 at [27]−[31]. Section 32 of the Limitation Act states: 
+31     It should be noted at the outset that even if Dynasty’s claim is not time-barred, it can still be barred by acquiescence and laches because s 32 of the Limitation Act preserves a defendant’s right to raise such a defence: _Re Estate of Tan Kow Quee_ <span class="citation">[2007] 2 SLR(R) 417</span> at [27]−[31]. Section 32 of the Limitation Act states: 
 
  Acquiescence 
 
 **32.** Nothing in this Act shall affect any equitable jurisdiction to refuse relief on the ground of acquiescence, laches or otherwise. 
 
-32     In essence, the doctrine of laches operates as an equitable defence to a claim where there has been a substantial lapse of time coupled with circumstances where it would be practically unjust to give a remedy. A succinct summary of the principle was given in _Cytec Industries Pte Ltd v APP Chemicals International (Mau) Ltd_ [2009] 4 SLR(R) 769 at [46], cited with approval in _eSys Technologies Pte Ltd v nTan Corporate Advisory Pte Ltd_ [2013] SGCA 27 at [37]−[38]: 
+32     In essence, the doctrine of laches operates as an equitable defence to a claim where there has been a substantial lapse of time coupled with circumstances where it would be practically unjust to give a remedy. A succinct summary of the principle was given in _Cytec Industries Pte Ltd v APP Chemicals International (Mau) Ltd_ <span class="citation">[2009] 4 SLR(R) 769</span> at [46], cited with approval in _eSys Technologies Pte Ltd v nTan Corporate Advisory Pte Ltd_ <span class="citation">[2013] SGCA 27</span> at [37]−[38]: 
 
- Laches is a doctrine of equity. It is properly invoked where essentially there has been a substantial lapse of time coupled with circumstances where it would be practically unjust to give a remedy either because the party has by his conduct done that which might fairly be regarded as equivalent to a waiver thereof; or, where by his conduct and neglect he had, though perhaps not waiving that remedy, yet put the other party in a situation in which it would not be reasonable to place him, if the remedy were afterwards to be asserted ( Sukhpreet Kaur Bajaj d/o Manjit Singh v Paramjit Singh Bajaj [2008] SGHC 207 at [23]; Re Estate of Tan Kow Qu ee [2007] 2 SLR(R) 417 at [32]). This is a broad-based inquiry and it would be relevant to consider the length of delay before the claim was brought, the nature of the prejudice said to be suffered by the defendant, as well as any element of unconscionability in allowing the claim to be enforced ( Re Estate of Tan Kow Quee at [38]). 
+ Laches is a doctrine of equity. It is properly invoked where essentially there has been a substantial lapse of time coupled with circumstances where it would be practically unjust to give a remedy either because the party has by his conduct done that which might fairly be regarded as equivalent to a waiver thereof; or, where by his conduct and neglect he had, though perhaps not waiving that remedy, yet put the other party in a situation in which it would not be reasonable to place him, if the remedy were afterwards to be asserted ( Sukhpreet Kaur Bajaj d/o Manjit Singh v Paramjit Singh Bajaj <span class="citation">[2008] SGHC 207</span> at [23]; Re Estate of Tan Kow Qu ee <span class="citation">[2007] 2 SLR(R) 417</span> at [32]). This is a broad-based inquiry and it would be relevant to consider the length of delay before the claim was brought, the nature of the prejudice said to be suffered by the defendant, as well as any element of unconscionability in allowing the claim to be enforced ( Re Estate of Tan Kow Quee at [38]). 
 
-33     As to the defence of acquiescence, I refer to _Tan Yong San v Neo Kok Eng and others_ [2011] SGHC 30 at [112]−[114]: 
+33     As to the defence of acquiescence, I refer to _Tan Yong San v Neo Kok Eng and others_ <span class="citation">[2011] SGHC 30</span> at [112]−[114]: 
 
  112 The defence of acquiescence is described in the following manner in Halsbury’s Laws of England vol 16 (4th Ed Reissue) at para 924, which was cited by the Court of Appeal in Genelabs ( supra ) at [76]: 
 
@@ -331,7 +331,7 @@ _Sia’s and Lee’s case_
 
 _The applicable legal principles on directors’ duties_ 
 
-46     Since Dynasty was incorporated on 18January 1994 under the BVI International Business Companies Act 1984 (“IBCA 1984”), the relevant law to be applied in determining the existence and scope of the directors’ duties is BVI law: _Focus Energy Ltd v Aye Aye Soe_ [2009] 1 SLR(R) 1086 at [31]. The legal system in the BVI is founded on the English legal system. BVI law is not only written in statutes, but also derived from the (English) common law and equitable principles. Section 11 of the West Indies Associated States Supreme Court (Virgin Islands) Act (Cap 80) provides that: 
+46     Since Dynasty was incorporated on 18January 1994 under the BVI International Business Companies Act 1984 (“IBCA 1984”), the relevant law to be applied in determining the existence and scope of the directors’ duties is BVI law: _Focus Energy Ltd v Aye Aye Soe_ <span class="citation">[2009] 1 SLR(R) 1086</span> at [31]. The legal system in the BVI is founded on the English legal system. BVI law is not only written in statutes, but also derived from the (English) common law and equitable principles. Section 11 of the West Indies Associated States Supreme Court (Virgin Islands) Act (Cap 80) provides that: 
 
  The jurisdiction vested in the High Court in civil proceedings, and in probate, divorce, and matrimonial causes, shall be exercised in accordance with the provisions of this Ordinance and any other law in operation in the Territory and rules of court, and where no special provision is therein contained such jurisdiction shall be exercised as nearly as may be in conformity with the law and practice administered for the time being in the High Court of Justice in England. 
 
@@ -514,7 +514,7 @@ _Ability of Dynasty to pay its debts_
 
 75     I agree with the learned author that for an issue estoppel to apply, the decision on the issue must have been necessary for the decision of the foreign court. In HCA 9505, the decision that Dynasty’s case of a collateral agreement “collapsed” was not necessary to the judgment. In that case, the Vendors commenced proceedings against Dynasty for the alleged unpaid balance of the Purchase Price of the Sale Shares, and the court ruled in favour of the Vendors. The finding of whether there existed such a collateral agreement, as pleaded by Sia in that case (see [71] above), was not necessary for the decision in favour of the Vendors because Dynasty and Sia did not pay the alleged balance of the Purchase Price to either Low or the Remanding Vendors. The fact remained that the alleged balance of the Purchase Price was not paid. It was not a case where Sia had paid the alleged balance of the Purchase Price to Low and the Remaining Vendors were claiming against Sia because they did not receive any payment from Low. Therefore, it was not necessary to the decision to determine whether there was indeed such a collateral agreement for the alleged balance of the Purchase Price to be paid only to Low and not to the Remaining Vendors. 
 
-76     Third, the injustice of not allowing the issue to be relitigated outweighs the hardship of Low in having to relitigate the point. I refer in this regard to _Arul Chandran v Chew Chin Aik Victor JP_ [2000] SGHC 111 at [289]−[290] where the judge held: 
+76     Third, the injustice of not allowing the issue to be relitigated outweighs the hardship of Low in having to relitigate the point. I refer in this regard to _Arul Chandran v Chew Chin Aik Victor JP_ <span class="citation">[2000] SGHC 111</span> at [289]−[290] where the judge held: 
 
 289\. Firstly I observe that there are three fairly strict requirements to be satisfied before the estoppel can arise. On occasions, these requirements have been narrowly construed, where for 
 
@@ -622,7 +622,7 @@ _Construction of Lee & Lee’s letter_
 
 The applicable legal principles on contractual interpretation 
 
-92     I refer to the relevant principles on contractual principles stated by the Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 at [131]: 
+92     I refer to the relevant principles on contractual principles stated by the Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> at [131]: 
 
  The aim of construction 
 
@@ -728,7 +728,7 @@ _Was Low the controlling mind and alter ego of Dynasty?_
 The applicable legal principles 
 
 
-102    In arguing that Low was the _alter ego_ of Dynasty, Sia essentially requested for the corporate veil of Dynasty to be lifted to unveil Low as the true controller of Dynasty. Since Dynasty was incorporated under the IBCA 1984, the relevant law to be applied in relation to the issue of separate legal personality as a consequence of incorporation should be BVI law. Foreign law has to be proved as a fact. In this regard both parties had not proven BVI law. As stated above at [46], the legal system in the BVI is founded on the English legal system and BIV law is derived from the English common law, upon which much of Singapore’s company law is based. Therefore, I find that it is not unjust to apply the presumption of similarity of laws. I refer to _D'Oz International Pte Ltd v PSB Corp Pte Ltd and another appeal_ [2010] 3 SLR 267 at [25]: 
+102    In arguing that Low was the _alter ego_ of Dynasty, Sia essentially requested for the corporate veil of Dynasty to be lifted to unveil Low as the true controller of Dynasty. Since Dynasty was incorporated under the IBCA 1984, the relevant law to be applied in relation to the issue of separate legal personality as a consequence of incorporation should be BVI law. Foreign law has to be proved as a fact. In this regard both parties had not proven BVI law. As stated above at [46], the legal system in the BVI is founded on the English legal system and BIV law is derived from the English common law, upon which much of Singapore’s company law is based. Therefore, I find that it is not unjust to apply the presumption of similarity of laws. I refer to _D'Oz International Pte Ltd v PSB Corp Pte Ltd and another appeal_ <span class="citation">[2010] 3 SLR 267</span> at [25]: 
 
  Turning to the second issue which pertains to the presumption of similarity of laws, it is only necessary to observe that the presumption is a rule of convenience which the courts may resort to unless it is unjust and inconvenient to do so. It is a rule that is not free from exceptions. Whether a common law court will presume foreign law to be the same as the lex fori in any case where foreign law is not pleaded or not proved (if pleaded) depends on the circumstances of each case. The question that is ordinarily asked when the presumption is invoked is whether, in the circumstances of the case, it would be unjust to apply it against a party so as to make him liable on a claim subject to foreign law when the claimant has failed to prove what the foreign law is and how liability is established under that foreign law (see Richard Fentiman, Foreign Law in English Courts (Oxford University Press, 1998) at pp 60–64 and 143–153, cited in Tamil Nadu Electricity Board v ST-CMS Electric Company Private Ltd [2008] 1 Lloyd’s Rep 93 at 113). In the New South Wales Court of Appeal case of Damberg v Damberg (2001) 52 NSWLR 492, Heydon JA examined extensively, inter alia, case law from Australia, England, Canada and South Africa, and academic writings on the subject, and concluded that “[t]o state exhaustively when a court would not assume that the unproved provisions of foreign law are identical with those of the lex fori would be a difficult task” (at 522). In the present case, it is just as well that it is not necessary for me to undertake this arduous task. 
 
@@ -755,7 +755,7 @@ of a company has been used to enable a person to evade an existing contractual d
 
  Lipman agreed to sell a house to Jones. For some reason he changed his mind. To avoid having to transfer the house, Lipman set up a company called Alamed Ltd and transferred the house to it. Alamed Ltd was wholly owned and controlled by Lipman. His solicitors then wrote to Jones’ solicitors offering to pay damages for the breach of contract. Jones sought an order of specific performance. The defence was raised that Alamed Ltd was not a party against whom specific performance could be ordered. Russell J declined to accept this. He stated that Alamed Ltd was ‘a creature of [Lipman’s]’, a device and a sham, a mask which he holds before his face in an attempt to avoid the eye of equity’. Both Lipman and the company were ordered to specifically perform the contract to sell the house. 
 
-105    In _Win Line (UK) Ltd v Masterpart (Singapore) Pte Ltd and another_ [1999] 2 SLR(R) 24 at [38]−[39], it was held that the courts would pierce the corporate veil where it was merely a device, facade or sham. In this connection, a sham referred to acts done or executed by parties to the sham that were intended by them to give to third parties the appearance of creating between the participating parties legal rights and obligations which were different from the actual rights and obligations which the participating parties intended to create. 
+105    In _Win Line (UK) Ltd v Masterpart (Singapore) Pte Ltd and another_ <span class="citation">[1999] 2 SLR(R) 24</span> at [38]−[39], it was held that the courts would pierce the corporate veil where it was merely a device, facade or sham. In this connection, a sham referred to acts done or executed by parties to the sham that were intended by them to give to third parties the appearance of creating between the participating parties legal rights and obligations which were different from the actual rights and obligations which the participating parties intended to create. 
 
 My decision 
 
@@ -784,12 +784,12 @@ _The applicable legal principles_
 
  (c) acts performed in furtherance of the agreement; and 
 
- (d) damage suffered by the plaintiff (see Nagase Singapore Pte Ltd v Ching Kai Huat and others [2008] 1 SLR(R) 80 at [23]). 
+ (d) damage suffered by the plaintiff (see Nagase Singapore Pte Ltd v Ching Kai Huat and others <span class="citation">[2008] 1 SLR(R) 80</span> at [23]). 
 
 112    As to the “predominant purpose” of a conspiracy, two points are worth mentioning. First, the focus of the enquiry is the intention of the alleged conspirators, not the natural or resulting consequence of their act: _Crofter Hand Woven Harris Tweed Company, Limited, and others v Veitch_ 
 
 
-_and another_ [1942] AC 435 at 445. Hence, the knowledge of the alleged conspirators that the injury will be caused _per se_ does not suffice to establish a predominant intention to cause injury: _Beckkett Pte Ltd v Deutsche Bank AG and another_ [2008] 2 SLR(R) 189 at [116]. Second, where the alleged conspirators’ actions serve their own commercial purpose, the infliction of loss on the plaintiff will not be the predominant purpose: _Quah Kay Tee v Ong and Co Pte Ltd_ [1996] 3 SLR(R) 637 at [50]. 
+_and another_ [1942] AC 435 at 445. Hence, the knowledge of the alleged conspirators that the injury will be caused _per se_ does not suffice to establish a predominant intention to cause injury: _Beckkett Pte Ltd v Deutsche Bank AG and another_ <span class="citation">[2008] 2 SLR(R) 189</span> at [116]. Second, where the alleged conspirators’ actions serve their own commercial purpose, the infliction of loss on the plaintiff will not be the predominant purpose: _Quah Kay Tee v Ong and Co Pte Ltd_ <span class="citation">[1996] 3 SLR(R) 637</span> at [50]. 
 
 _Was there a conspiracy or agreement between Low and Lau?_ 
 

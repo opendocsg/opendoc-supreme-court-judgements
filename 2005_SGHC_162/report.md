@@ -136,7 +136,7 @@ fact entered into a tenancy agreement at the alleged alternative premises locate
 
 2004\. This plainly contradicted his evidence that he only decided to vacate the premises on receiving the plaintiffs’ solicitors’ letter of 22 March 2004 which threatened to exercise the plaintiffs’ right of re- entry, as he was frightened at the prospect of being locked out of the premises. In the light of his contradictions and inconsistencies, I formed the view that the defendant was an unreliable and untruthful witness. 
 
-43     In reaching my decision, I was aware that in _Sundara Moorthy Lankatharan v PP_ [1997] 3 SLR 464, the learned Yong Pung How CJ said (at [44]): 
+43     In reaching my decision, I was aware that in _Sundara Moorthy Lankatharan v PP_ <span class="citation">[1997] 3 SLR 464</span>, the learned Yong Pung How CJ said (at [44]): 
 
  There is no rule of law that the testimony of a witness must either be believed in its entirety or not at all. A court is fully competent, for good and cogent reasons, to accept one part of the testimony of a witness and to reject the other .... 
 
@@ -154,7 +154,7 @@ In the defendant’s case however, it was unsafe to rely on any part of his test
 
 **_Repudiation of tenancy_** 
 
-45     The question as to whether the contractual principle of repudiation applies to tenancies has been much debated in other common law jurisdictions. While the Court of Appeal in _Klerk-Elias Liza v KT Chan Clinic Pte Ltd_ [1993] 2 SLR 417 applied the principle of repudiation to a tenancy agreement, the issue was only clarified by Warren Khoo J in _Tan Soo Leng David v Lim Thian Chai Charles_ [1998] 2 SLR 923 (“ _Tan Soo Leng David_ ”) who rightly pointed out (at [17]) that the issue emanates from the more fundamental question concerning the nature of a lease. Is it essentially a purchase of rights in real property, or is it no more than a bundle of contractual rights and obligations? 
+45     The question as to whether the contractual principle of repudiation applies to tenancies has been much debated in other common law jurisdictions. While the Court of Appeal in _Klerk-Elias Liza v KT Chan Clinic Pte Ltd_ <span class="citation">[1993] 2 SLR 417</span> applied the principle of repudiation to a tenancy agreement, the issue was only clarified by Warren Khoo J in _Tan Soo Leng David v Lim Thian Chai Charles_ <span class="citation">[1998] 2 SLR 923</span> (“ _Tan Soo Leng David_ ”) who rightly pointed out (at [17]) that the issue emanates from the more fundamental question concerning the nature of a lease. Is it essentially a purchase of rights in real property, or is it no more than a bundle of contractual rights and obligations? 
 
 46     As Khoo J in _Tan Soo Leng David_ concluded (at [28]), whether the rules of contract law apply to a lease depends very much on the nature of the lease in question. He said: 
 
@@ -228,7 +228,7 @@ refused to pay. Further, as mentioned above in [42], I disbelieved the defendant
 
 **_Fraudulent misrepresentation_** 
 
-63     The law on fraudulent misrepresentation was considered by our Court of Appeal in _Panatron Pte Ltd v Lee Cheow Lee_ [2001] 3 SLR 405 at: 
+63     The law on fraudulent misrepresentation was considered by our Court of Appeal in _Panatron Pte Ltd v Lee Cheow Lee_ <span class="citation">[2001] 3 SLR 405</span> at: 
 
  13 The law as regards fraudulent representation is clear. Since the case of Pasley v Freeman (1789) 3 Term Rep 51, it has been settled that a person can be held liable in tort to another, if he knowingly or recklessly makes a false statement to that other with the intent that it would be acted upon, and that other does act upon it and suffers damage. This came to be known as the tort of deceit. In Derry v Peek (1889) 14 App Cas 337 the tort was further developed. It was held that in an action of deceit the plaintiff must prove actual fraud. This fraud is proved only when it is shown that a false representation has been made knowingly, or without belief in its truth, or recklessly, without caring whether it be true or false. 
 

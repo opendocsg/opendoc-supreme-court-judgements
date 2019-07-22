@@ -39,7 +39,7 @@ _Trusts_ – _Resulting Trusts_ – _Presumed Resulting Trusts_
 
 4       It was also directed that the interpleader issues be tried with Jaury in the position of plaintiff. 
 
-5       I hasten to mention at the outset that I declined to rule on the second interpleader issue as it was concerned with the circumstances surrounding the procurement of the mortgage which had no relevance at all to the substance of the interpleader relief sought by UOB in the light of the competing claims to the balance sale proceeds paid into Court. The purpose of interpleader relief is observed in _Australia and New Zealand Banking Group Ltd v Ding Pei Chai and others_ [2004] 3 SLR(R) 489 at [3]: 
+5       I hasten to mention at the outset that I declined to rule on the second interpleader issue as it was concerned with the circumstances surrounding the procurement of the mortgage which had no relevance at all to the substance of the interpleader relief sought by UOB in the light of the competing claims to the balance sale proceeds paid into Court. The purpose of interpleader relief is observed in _Australia and New Zealand Banking Group Ltd v Ding Pei Chai and others_ <span class="citation">[2004] 3 SLR(R) 489</span> at [3]: 
 
  an interpleader issue directed under O 17 of the Rules of Court (Cap 322, R 5 [2006] Rev Ed), is a means for the court to decide the claims as between the persons present at the proceedings in order that the person interpleading may get the relief to which he is entitled (see De La Rue v Hernu, Peron & Stockwell, Limited [1936] 2 KB 164 at 173). 
 
@@ -64,13 +64,13 @@ _Trusts_ – _Resulting Trusts_ – _Presumed Resulting Trusts_
 
 **_The legal principles_** 
 
-11     The type of resulting trust relied upon in these proceedings is what is commonly known as a purchase money resulting trust, and the classic statement of the law on this subject is to be found in the judgment of Eyre CB in _Dyer v Dyer_ (1788) 30 ER 42 at 43. The passage below was cited with approval and followed in _Peh Eng Leng v Pek Eng Leong_ [1996] 1 SLR(R) 939 at [16]: 
+11     The type of resulting trust relied upon in these proceedings is what is commonly known as a purchase money resulting trust, and the classic statement of the law on this subject is to be found in the judgment of Eyre CB in _Dyer v Dyer_ (1788) 30 ER 42 at 43. The passage below was cited with approval and followed in _Peh Eng Leng v Pek Eng Leong_ <span class="citation">[1996] 1 SLR(R) 939</span> at [16]: 
 
  The clear result of all the cases, without a single exception, is, that the trust of a legal estate ... whether taken in the names of the purchasers and others jointly, or in the name of others without that of the purchaser; whether in one name or several; whether jointly or successive, results to the man who advances the purchase-money. This is a general proposition supported by all the cases, and there is nothing to contradict it; .... 
 
 12     It was also noted in _Dyer v Dyer_ that such a resulting trust may be rebutted by circumstances in evidence. 
 
-13     The modern day authority on this species of resulting trust is by Lord Browne-Wilkinson’s observations in _Westdeutsche Landesbank Girozentrale v Islington Borough Council_ [1996] AC 669 at 708, cited with approval by the Court of Appeal in _Lau Siew Kim v Yeo Guan Chye Terence_ [2008] 2 SLR(R) 108 (“ _Lau Siew Kim_ ”) at [34]: 
+13     The modern day authority on this species of resulting trust is by Lord Browne-Wilkinson’s observations in _Westdeutsche Landesbank Girozentrale v Islington Borough Council_ [1996] AC 669 at 708, cited with approval by the Court of Appeal in _Lau Siew Kim v Yeo Guan Chye Terence_ <span class="citation">[2008] 2 SLR(R) 108</span> (“ _Lau Siew Kim_ ”) at [34]: 
 
  Under existing law a resulting trust arises in two sets of circumstances: (A) where A makes a voluntary payment to B or pays (wholly or in part) for the purchase of property which is vested either in B alone or in the joint names of A and B, there is a presumption that A did not intend to make a gift to B: the money or property is held on trust for A (if he is the sole provider of the money) or in the case of a joint purchase by A and B in shares proportionate to their contributions. It is important to stress that this is only a presumption, which presumption is easily rebutted either by the counter-presumption of advancement or by direct evidence of A’s intention to make an outright transfer ... (B) Where A transfers property to B on express trusts, but the trusts declared do not exhaust the whole beneficial interest ... Both types of resulting trust are traditionally regarded as examples of trusts giving effect to the common intention of the parties. A resulting trust is not imposed by law against the intentions of the trustee (as is a constructive trust) but gives effect to his presumed intention. [emphasis in original] 
 
@@ -97,7 +97,7 @@ While local courts have previously expressed approval of the rule originally cit
 
 **_The Burden of Proof_** 
 
-17     The distinction between legal and evidential burdens of proof was restated in _Britestone Pte Ltd v Smith & Associates Far East, Ltd_ [2007] 4 SLR(R) 855 at [58]: 
+17     The distinction between legal and evidential burdens of proof was restated in _Britestone Pte Ltd v Smith & Associates Far East, Ltd_ <span class="citation">[2007] 4 SLR(R) 855</span> at [58]: 
 
  The term “burden of proof” is more properly used with reference to the obligation to prove. There are in fact two kinds of burden in relation to the adduction of evidence. The first, designated the legal burden of proof, is, properly speaking, a burden of proof, for it describes the obligation to persuade the trier of fact that, in view of the evidence, the fact in dispute exists. This obligation never shifts in respect of any fact, and only “shifts” in a matter of loose terminology when a legal presumption operates. The second is a burden of proof only loosely speaking, for it falls short of an obligation to prove that a particular fact exists. It is more accurately designated the evidential burden to produce evidence since, whenever it operates, the failure to adduce some evidence, whether in propounding or rebutting, will mean a failure to engage the question of the existence of a particular fact or to keep this question alive. As such, this burden can and will shift. 
 

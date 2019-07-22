@@ -133,7 +133,7 @@
 
 10     Section 268(1) provides that the High Court, in exercising its powers of revision, can exercise powers similar to those of an appellate court. This includes the power to alter or reverse any order made in the court below: s 256(d). 
 
-11     The principles governing the exercise of the High Court’s revisionary powers were laid down in _Ang Poh Chuan v PP_ [1996] 1 SLR 326 at 330: 
+11     The principles governing the exercise of the High Court’s revisionary powers were laid down in _Ang Poh Chuan v PP_ <span class="citation">[1996] 1 SLR 326</span> at 330: 
 
 ## ... various phrases may be used to identify the circumstances which would attract the exercise of 
 
@@ -148,7 +148,7 @@
 
 **Power to alter or review judgments** 
 
-13     It is established law that generally, a judge is _functus officio_ after sentence is pronounced: _Jabar v Public Prosecutor_ [1995] 1 SLR 617; _Ganesun s/o Kannan v Public Prosecutor_ [1996] 3 SLR 560. However, the power of the subordinate courts to alter or review judgments is also regulated by s 217 of the CPC, which states as follows: 
+13     It is established law that generally, a judge is _functus officio_ after sentence is pronounced: _Jabar v Public Prosecutor_ <span class="citation">[1995] 1 SLR 617</span>; _Ganesun s/o Kannan v Public Prosecutor_ <span class="citation">[1996] 3 SLR 560</span>. However, the power of the subordinate courts to alter or review judgments is also regulated by s 217 of the CPC, which states as follows: 
 
 ## (1) No court other than the High Court, when it has recorded its judgment, shall alter or review 
 
@@ -158,7 +158,7 @@
 
 ## time before the court rises for the day. 
 
-14     I first analysed this provision in detail in _Chiaw Wai Onn v Public Prosecutor_ [1997] 3 SLR 445. The accused in this case had been convicted and sentenced to 12 months’ imprisonment by the district court. On appeal, I affirmed his conviction and enhanced his sentence with a fine of $80,000. However, I revoked this order on the same day when I realised that I had exceeded my jurisdictional limit in imposing the $80,000 fine. Instead, I substituted the fine with a further sentence of six months’ imprisonment, bringing the total to 18 months’ imprisonment. 
+14     I first analysed this provision in detail in _Chiaw Wai Onn v Public Prosecutor_ <span class="citation">[1997] 3 SLR 445</span>. The accused in this case had been convicted and sentenced to 12 months’ imprisonment by the district court. On appeal, I affirmed his conviction and enhanced his sentence with a fine of $80,000. However, I revoked this order on the same day when I realised that I had exceeded my jurisdictional limit in imposing the $80,000 fine. Instead, I substituted the fine with a further sentence of six months’ imprisonment, bringing the total to 18 months’ imprisonment. 
 
 15     The substitution of sentence raised a legal point concerning whether the High Court in its criminal appellate capacity could alter the judgment. In the course of deciding the issue, I considered the interpretation and scope of s 217 of the CPC. 
 
@@ -195,7 +195,7 @@ Act (Cap 133). She pleaded guilty after the charge was read and explained to her
 
 ## A trial judge has a discretion to allow an accused to retract a plea of guilt, which must be 
 
-## exercised judicially and for valid reasons: Ganesun s/o Kannan v PP [1996] 3 SLR 560 at p 563. 
+## exercised judicially and for valid reasons: Ganesun s/o Kannan v PP <span class="citation">[1996] 3 SLR 560</span> at p 563. 
 
 ## But this discretion only exists as long as the court is not functus officio , and the court is functus 
 
@@ -205,7 +205,7 @@ Act (Cap 133). She pleaded guilty after the charge was read and explained to her
 
 ## applied. [Emphasis added.] 
 
-20     Two other instructive cases on the effect of s 217 were _Lim Teck Leng Roland v Public Prosecutor_ [2001] 4 SLR 61 and _Public Prosecutor v Lee Wei Zheng Winston_ [2002] 4 SLR 33. In both, I accepted that s 217(1) lays down a general prohibition against the alteration of judgments by the subordinate courts, while s 217(2) is an exception to this general prohibition, prescribing the limited circumstances in which the subordinate courts can alter or review their judgments. 
+20     Two other instructive cases on the effect of s 217 were _Lim Teck Leng Roland v Public Prosecutor_ <span class="citation">[2001] 4 SLR 61</span> and _Public Prosecutor v Lee Wei Zheng Winston_ <span class="citation">[2002] 4 SLR 33</span>. In both, I accepted that s 217(1) lays down a general prohibition against the alteration of judgments by the subordinate courts, while s 217(2) is an exception to this general prohibition, prescribing the limited circumstances in which the subordinate courts can alter or review their judgments. 
 
 21     Thus, it was clear from the authorities that while the general rule is that the court is _functus officio_ after sentence is pronounced, s 217(2) of the CPC is an exception to this general prohibition against the alteration of judgments. The district judge rejected counsel’s submissions and authorities on the point as they dealt with alterations in sentence, and not a conviction. However, this should not make any difference. There was no reason to restrict “judgment” in s 217 to orders on sentence. 
 
@@ -215,7 +215,7 @@ Act (Cap 133). She pleaded guilty after the charge was read and explained to her
 
 23     Section 217(2) provides for judgments to be altered in two different scenarios. “Clerical errors” can be corrected “at any time”, while “any other mistake” may only be rectified “before the court rises for the day”. It was not contended by the respondent that there was any clerical error in this case. Therefore, for the section to apply, the respondent must show that there was a mistake that came within the scope of the words “any other mistake”, and that these were rectified before the court had risen for the day. 
 
-24     In _Chiaw Wai Onn_ , supra, and _Chuah Gin Synn v Public Prosecutor_ [2003] 2 SLR 179, I held that the court rose for the day only when it ceased to sit for business, when the working day of the court had ended. On the facts of this case, the second order was clearly made before the court had risen for the day. Therefore, the only issue I had to decide was whether there was a mistake within the meaning of s 217(2). 
+24     In _Chiaw Wai Onn_ , supra, and _Chuah Gin Synn v Public Prosecutor_ <span class="citation">[2003] 2 SLR 179</span>, I held that the court rose for the day only when it ceased to sit for business, when the working day of the court had ended. On the facts of this case, the second order was clearly made before the court had risen for the day. Therefore, the only issue I had to decide was whether there was a mistake within the meaning of s 217(2). 
 
 **_“Any other m istake”_** 
 
@@ -303,11 +303,11 @@ been deceived by one Leong into believing that she could lawfully remain in Sing
 
 **_Grounds (C) and (D): Disagreem ent with statem ent of facts and prov ocation_** 
 
-33     These two grounds basically challenged the respondent’s unqualified admission of the statement of facts in court. Again, there was nothing in evidence to support the respondent’s assertion that he had objections which the Korean interpreter did not convey to the district judge. The respondent did not offer any reasons to explain why the interpreter would choose to omit any material facts. The respondent had admitted to the statement of facts without qualification before the district judge. As I noted in _Koh Thian Huat v Public Prosecutor_ [2002] 3 SLR 28 at paragraph 21: 
+33     These two grounds basically challenged the respondent’s unqualified admission of the statement of facts in court. Again, there was nothing in evidence to support the respondent’s assertion that he had objections which the Korean interpreter did not convey to the district judge. The respondent did not offer any reasons to explain why the interpreter would choose to omit any material facts. The respondent had admitted to the statement of facts without qualification before the district judge. As I noted in _Koh Thian Huat v Public Prosecutor_ <span class="citation">[2002] 3 SLR 28</span> at paragraph 21: 
 
 ## As the SOF has now become an integral part of criminal procedure in Singapore ( Mok Swee Kok v PP 
 
-## [1994] 3 SLR 140 at 146), it is my view that, when an accused has unqualifiedly admitted to the 
+## <span class="citation">[1994] 3 SLR 140</span> at 146), it is my view that, when an accused has unqualifiedly admitted to the 
 
 ## contents of the SOF, these facts should not thereafter be readily open to dispute. Permitting 
 
@@ -341,7 +341,7 @@ aspects of his version of facts, the respondent cannot now dispute his unqualifi
 41     The court in _Goh Chee Wee v Public Prosecutor_ , MA 226/2002, DC, an unreported judgment dated 23 September 2002, noted that the benchmark sentence in s 323 offences where serious injury is caused is a term of imprisonment of between three and nine months. The respondent could not point to any compelling mitigating circumstances in this case to justify a more lenient sentence. The fact that he is a professional was no excuse, especially since the victim was his subordinate, whom he was expected to take care of. Also, any potential difficulties caused to his family could not carry much weight, for it is trite law that any 
 
 
-hardship caused to the offender’s family as a result of his imprisonment has little mitigating value, save in very exceptional or extreme circumstances: _Ng Chiew Kiat v Public Prosecutor_ [2000] 1 SLR 370. 
+hardship caused to the offender’s family as a result of his imprisonment has little mitigating value, save in very exceptional or extreme circumstances: _Ng Chiew Kiat v Public Prosecutor_ <span class="citation">[2000] 1 SLR 370</span>. 
 
 42     In these circumstances, the respondent was actually fortunate that the Prosecuting Officer decided to reduce the charge against him from one of causing grievous hurt under s 325 of the Penal Code, for that would have carried a punishment of up to seven years, and also a possible caning. Therefore, I found that the district judge’s first order sentencing the respondent to three months’ imprisonment was entirely appropriate on the facts, and should also be reinstated. 
 

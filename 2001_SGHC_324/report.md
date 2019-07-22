@@ -790,7 +790,7 @@ _Effect of disciplinary action on Captain Tsu_
 
  Inference must be carefully distinguished from conjecture or speculation. There can be no inference unless there are objective facts from which to infer the other facts which it is sought to establish. In some cases the other facts can be inferred with as much practical certainty as if they had been actually observed. In other cases the inference does not go beyond reasonable probability. But if there are no positive proved facts from which the inference can be made, the method of inference fails and what is left is mere speculation or conjecture. 
 
-135\. Lord Wright’s approach was endorsed by the Court of Appeal in _Singapore Airlines Ltd v Fujitsu Microelectronics (Malaysia) Sdn Bhd_ [2001] 1 SLR 241. 
+135\. Lord Wright’s approach was endorsed by the Court of Appeal in _Singapore Airlines Ltd v Fujitsu Microelectronics (Malaysia) Sdn Bhd_ <span class="citation">[2001] 1 SLR 241</span>. 
 
 
 136\. The expert witnesses were sharply divided over the cause of the accident and the veracity of some of the conclusions of the NTSC and the NTSB. In the face of the dissenting views of the experts, many of the arguments advanced by Professor Howe and Captain Galan are not unpersuasive. 
@@ -922,7 +922,7 @@ _Position under the amended Convention_
 
  Even proof of reckless conduct is itself, and alone, not enough. It must be shown that, at the time of the reckless conduct, the servants or agents of the carrier concerned knew that such conduct would cause damage but went ahead regardless. 
 
-161\. In Singapore, the approach adopted in _Goldman v Thai Airways International Ltd_ and _SS Pharmaceutical Co Ltd v Qantas Airways Ltd_ was endorsed by the Court of Appeal in _Singapore Airlines Ltd v Fujitsu Microelectronics (Malaysia) Sdn Bhd_ [2001] 1 SLR 241. Chao Hick Tin JA, who delivered the judgment of the court, said at p 251: 
+161\. In Singapore, the approach adopted in _Goldman v Thai Airways International Ltd_ and _SS Pharmaceutical Co Ltd v Qantas Airways Ltd_ was endorsed by the Court of Appeal in _Singapore Airlines Ltd v Fujitsu Microelectronics (Malaysia) Sdn Bhd_ <span class="citation">[2001] 1 SLR 241</span>. Chao Hick Tin JA, who delivered the judgment of the court, said at p 251: 
 
  In our opinion, it is clear that the knowledge which must be proved is the actual knowledge of the wrongdoer, be it an individual or a group of individuals in a company. The fact that the amended Convention requires proof of recklessness as well as knowledge that damage would probably result, unmistakably indicates that recklessness per se is not sufficient. 
 

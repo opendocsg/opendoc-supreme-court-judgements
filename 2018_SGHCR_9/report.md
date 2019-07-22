@@ -247,9 +247,9 @@ venture agreement and were owed to Kiskadee Bermuda, a party to the joint ventur
 
  (b) subject to subsection (2), the terms purports to confer a benefit on him. 
 
-56     D & E submit that the CRTPA does not have any impact on the arguments made as set out above because they are not relying on any rights accrued under the CRTPA. They point out that a party seeking to rely on a right derived from the CRTPA must expressly state this. See _Tembusu Growth Fund v ACTAtek Inc_ [2017] SGHC 251 at [87] and _Straits Advisors Pte Ltd v Michael Deeb (alias Magdi Salah El-Deeb) and others_ [2014] SGHC 94 at [115]. 
+56     D & E submit that the CRTPA does not have any impact on the arguments made as set out above because they are not relying on any rights accrued under the CRTPA. They point out that a party seeking to rely on a right derived from the CRTPA must expressly state this. See _Tembusu Growth Fund v ACTAtek Inc_ <span class="citation">[2017] SGHC 251</span> at [87] and _Straits Advisors Pte Ltd v Michael Deeb (alias Magdi Salah El-Deeb) and others_ <span class="citation">[2014] SGHC 94</span> at [115]. 
 
-57     D & E submitted that they “arguably could not bring arguments premised on the CRTPA” as D & E enjoyed only an incidental benefit. Where a contract does not expressly allow a third party to enforce a term of the contract, the CRTPA allows such an enforcement only upon satisfaction of a two limb test as per Woo Bih Li J in _Columbia Asia Healthcare Sdn Bhd and another v Hong Hin Kit Edward and another and other suits_ [2014] 3 SLR 87 (“ _Columbia Asia_ ”): 
+57     D & E submitted that they “arguably could not bring arguments premised on the CRTPA” as D & E enjoyed only an incidental benefit. Where a contract does not expressly allow a third party to enforce a term of the contract, the CRTPA allows such an enforcement only upon satisfaction of a two limb test as per Woo Bih Li J in _Columbia Asia Healthcare Sdn Bhd and another v Hong Hin Kit Edward and another and other suits_ <span class="citation">[2014] 3 SLR 87</span> (“ _Columbia Asia_ ”): 
 
  272 The first limb is s2(1)(b). Under this limb, the court has to consider whether the contractual term purports to confer a benefit on the third party. 
 
@@ -299,7 +299,7 @@ for stay of proceedings under section 6 of the IAA has not been satisfied and it
 
 **_The Law_** 
 
-69     In the leading case of _Tomolugen Holdings Ltd and another v Silica Investors Ltd and other appeals_ [2016] 1 SLR 373 (“ _Tomolugen”)_ , the Court of Appeal examined how the courts of Australia, Canada, England and New Zealand addressed the situation where a dispute falls to be resolved in part by arbitration and in part by court proceedings. The Court of Appeal set down these principles which guide the court’s decision whether to grant a case management stay: 
+69     In the leading case of _Tomolugen Holdings Ltd and another v Silica Investors Ltd and other appeals_ <span class="citation">[2016] 1 SLR 373</span> (“ _Tomolugen”)_ , the Court of Appeal examined how the courts of Australia, Canada, England and New Zealand addressed the situation where a dispute falls to be resolved in part by arbitration and in part by court proceedings. The Court of Appeal set down these principles which guide the court’s decision whether to grant a case management stay: 
 
  186 ...The unifying theme amongst the cases is the recognition that the court, as the final arbiter, should take the lead in ensuring the efficient and fair resolution of the dispute as a whole. The precise measures which the court deploys to achieve that end will turn on the facts and the precise contours of the litigation in each case. 
 
@@ -360,7 +360,7 @@ tribunal is upheld in OS XC, then the end result is that there will be a signifi
 
 _Whether a stay of proceedings with conditions should be granted_ 
 
-85     When the D & E’s counsel was queried on the impact of OS XC on this present application for stay of proceedings, it was submitted that a stay can be granted on terms and the stay will be lifted if the terms are not met. D & E say that this is in line with _Gulf Hibiscus Ltd v Rex International Holding Ltd and another_ [2017] SGHC 210 where the Aedit Abdullah JC (as he was then) granted a stay of court proceedings on condition that if the tiered dispute resolution was not triggered within three months or an arbitration not commenced within give months from the date of the judgment, the parties would be at liberty to apply to the court to lift the stay. 
+85     When the D & E’s counsel was queried on the impact of OS XC on this present application for stay of proceedings, it was submitted that a stay can be granted on terms and the stay will be lifted if the terms are not met. D & E say that this is in line with _Gulf Hibiscus Ltd v Rex International Holding Ltd and another_ <span class="citation">[2017] SGHC 210</span> where the Aedit Abdullah JC (as he was then) granted a stay of court proceedings on condition that if the tiered dispute resolution was not triggered within three months or an arbitration not commenced within give months from the date of the judgment, the parties would be at liberty to apply to the court to lift the stay. 
 
 86     I see a number of issues in respect of the proposal for a conditional stay of proceedings in Suit 
 

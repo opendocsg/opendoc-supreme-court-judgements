@@ -86,7 +86,7 @@ the CCTV (closed circuit television) in his office. Although she protested that 
 
 24\. It was against this backdrop that I directed that M’s statements be shown to me for me to ascertain whether M had changed her story. When the prosecutor produced them, I found that M had given an account of events that would amount to attempted rape in her first statement of 15 March. 
 
-25\. If the statements showed that her account of the events changed, I would have directed on the authority of _Yohannan v R_ [1963] MLJ 57 and _Rosli bin Othman v PP_ [2001] 3 SLR 587 that the statements be furnished to the defence so that they may be used to impeach her credit under s 122(2) of the Criminal Procedure Code. 
+25\. If the statements showed that her account of the events changed, I would have directed on the authority of _Yohannan v R_ [1963] MLJ 57 and _Rosli bin Othman v PP_ <span class="citation">[2001] 3 SLR 587</span> that the statements be furnished to the defence so that they may be used to impeach her credit under s 122(2) of the Criminal Procedure Code. 
 
 26\. That left the long delay in the medical examination to be addressed. It was well that in this case, the delay not prejudice the prosecution or the defence, but there should not be a delay like this. 
 

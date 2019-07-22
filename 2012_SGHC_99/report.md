@@ -498,7 +498,7 @@ was an attempt to establish that the plaintiff could have used the larger hook t
 
 _The plaintiff’s case_ 
 
-45     Mr Kalamohan cited _Awang bin Dollah v Shun Shing Construction & Engineering Co Ltd and other appeals_ [1997] 2 SLR(R) 746 (“ _Awang bin Dollah_ ”) at [20] for the proposition that if a main contractor exercised or had the right to exercise control over a workman (employed by its sub-contractor) in respect of the work which he was engaged to perform, the main contractor would owe the workman a duty of care _as if_ it was the workman’s employer. In this regard, Mr Kalamohan drew the court’s attention to the following undisputed facts: 
+45     Mr Kalamohan cited _Awang bin Dollah v Shun Shing Construction & Engineering Co Ltd and other appeals_ <span class="citation">[1997] 2 SLR(R) 746</span> (“ _Awang bin Dollah_ ”) at [20] for the proposition that if a main contractor exercised or had the right to exercise control over a workman (employed by its sub-contractor) in respect of the work which he was engaged to perform, the main contractor would owe the workman a duty of care _as if_ it was the workman’s employer. In this regard, Mr Kalamohan drew the court’s attention to the following undisputed facts: 
 
  (a) At the time of the accident, the plaintiff was the direct employee of Madhavan who had assigned him to work on the Project; 
 
@@ -506,11 +506,11 @@ _The plaintiff’s case_
 
 On TEE’s own case, Liaw and Heng had conducted a safety briefing during which they reminded the workers of the need to adhere to safety precautions. Heng had checked the safety harness of all workers before they were allowed to enter the Ceiling Space. Liaw went up the ladder into the Ceiling Space first, and all other workers followed his lead. Thus, on TEE’s own case it had control or the right to exercise control over the plaintiff in respect of the work he was engaged to do. 
 
-46     Mr Kalamohan submitted that TEE owed certain duties to the plaintiff, relying on _Parno v SC Marine Pte Ltd_ [1999] 3 SLR(R) 377 (“ _Parno_ ”) at [45]: 
+46     Mr Kalamohan submitted that TEE owed certain duties to the plaintiff, relying on _Parno v SC Marine Pte Ltd_ <span class="citation">[1999] 3 SLR(R) 377</span> (“ _Parno_ ”) at [45]: 
 
  The common law duty of employers vis-à-vis their employees is clear. This was laid down in Wilsons and Clyde Coal Co Ltd v English ... where the House of Lords held that the obligation was three-fold – to provide a competent staff of men; adequate material; and a proper system and effective supervision. 
 
-Mr Kalamohan added that this categorisation was not exhaustive and that there was also an established duty on an employer to provide safe premises and access to it, relying on _Chandran a/l Subbiah v Dockers Marine Pte Ltd_ [2010] 1 SLR 786 (“ _Dockers Marine_ ”) at [22]. The plaintiff’s claim was that TEE had (a) failed to provide him with a proper system of work and effective supervision, 
+Mr Kalamohan added that this categorisation was not exhaustive and that there was also an established duty on an employer to provide safe premises and access to it, relying on _Chandran a/l Subbiah v Dockers Marine Pte Ltd_ <span class="citation">[2010] 1 SLR 786</span> (“ _Dockers Marine_ ”) at [22]. The plaintiff’s claim was that TEE had (a) failed to provide him with a proper system of work and effective supervision, 
 
 
 and (b) failed to provide him with a safe place of work. 
@@ -572,14 +572,14 @@ Further, Mr Tan submitted that the plaintiff had not adduced any evidence showin
 
 53     In relation to the point that the working conditions were not inherently dangerous and TEE had not exercised a significant degree of supervision and control over the plaintiff, Mr Tan submitted as follows: 
 
- (a) The working conditions were not inherently dangerous because there were catwalks for workers to walk on. The catwalks were red in colour and were lit by fluorescent lights at regular intervals. The mere fact that the plaintiff was working at a height did not make the workplace inherently dangerous: see Mohd bin Sapri v Soil-Build (Pte) Ltd and another appeal [1996] 2 SLR(R) 223 at [34]. 
+ (a) The working conditions were not inherently dangerous because there were catwalks for workers to walk on. The catwalks were red in colour and were lit by fluorescent lights at regular intervals. The mere fact that the plaintiff was working at a height did not make the workplace inherently dangerous: see Mohd bin Sapri v Soil-Build (Pte) Ltd and another appeal <span class="citation">[1996] 2 SLR(R) 223</span> at [34]. 
 
 
  (b) TEE had not taken it upon itself to micromanage and coordinate Madhavan’s and the plaintiff’s activities. The plaintiff took instructions from and was supervised by Rex or Kannan. 
 
 54     Mr Tan added that it was Rex (or, according to the plaintiff, Kannan) who instructed the plaintiff to use the route which ultimately led to the accident. There was no evidence that TEE knew or approved of this route. 
 
-55     Mr Tan’s second argument was that the plaintiff had not pleaded any specific particulars or material facts in his Statement of Claim to explain how TEE had breached its duty of care. Consequently, he was not entitled to adduce any evidence in support of this cause of action and his claim should be dismissed. In support of this proposition, Mr Tan relied on _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd and others_ [1992] 2 SLR(R) 382, _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd_ [1993] 1 SLR(R) 220 and Jeffrey Pinsler SC gen ed, _Singapore Court Practice 2009_ (LexisNexis, 2009) at pp 360–363. 
+55     Mr Tan’s second argument was that the plaintiff had not pleaded any specific particulars or material facts in his Statement of Claim to explain how TEE had breached its duty of care. Consequently, he was not entitled to adduce any evidence in support of this cause of action and his claim should be dismissed. In support of this proposition, Mr Tan relied on _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd and others_ <span class="citation">[1992] 2 SLR(R) 382</span>, _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd_ <span class="citation">[1993] 1 SLR(R) 220</span> and Jeffrey Pinsler SC gen ed, _Singapore Court Practice 2009_ (LexisNexis, 2009) at pp 360–363. 
 
 56     Mr Tan submitted that TEE had not breached its duty of care to the plaintiff because it had taken the following steps: 
 
@@ -597,7 +597,7 @@ Further, Mr Tan submitted that the plaintiff had not adduced any evidence showin
 
  (g) Reminding the workers’ supervisors to keep a close watch to ensure that the workers took adequate care when working. 
 
-Mr Tan submitted that the standard of care to be applied was that which an ordinary prudent employer would have taken in all the circumstances, relying on _China Construction (South Pacific) Development Co Pte Ltd v Shao Hai_ [2004] 2 SLR(R) 479. Further, he submitted that although evidence of general practice might be of material assistance, it was ultimately for the court to decide what would be required to discharge the standard of reasonable care having regard to the particular circumstances of a case, relying on _Chong Yeo and Partners and another v Guan Ming Hardware and Engineering Pte Ltd_ [1997] 2 SLR(R) 30. Mr Tan observed that TEE should not be required to give instructions to the plaintiff on every aspect of his work and that the plaintiff was expected to be able to carry out some work himself relying on his own experience and judgment, especially for simple tasks, relying on _Chua Ah Beng v C & P Holdings Pte Ltd_ [2001] 1 SLR(R) 844. 
+Mr Tan submitted that the standard of care to be applied was that which an ordinary prudent employer would have taken in all the circumstances, relying on _China Construction (South Pacific) Development Co Pte Ltd v Shao Hai_ <span class="citation">[2004] 2 SLR(R) 479</span>. Further, he submitted that although evidence of general practice might be of material assistance, it was ultimately for the court to decide what would be required to discharge the standard of reasonable care having regard to the particular circumstances of a case, relying on _Chong Yeo and Partners and another v Guan Ming Hardware and Engineering Pte Ltd_ <span class="citation">[1997] 2 SLR(R) 30</span>. Mr Tan observed that TEE should not be required to give instructions to the plaintiff on every aspect of his work and that the plaintiff was expected to be able to carry out some work himself relying on his own experience and judgment, especially for simple tasks, relying on _Chua Ah Beng v C & P Holdings Pte Ltd_ <span class="citation">[2001] 1 SLR(R) 844</span>. 
 
 **_The court’s findings_** 
 
@@ -646,7 +646,7 @@ was not prejudicial to TEE. It was well aware of the case which the plaintiff wa
 
 **_The parties’ arguments_** 
 
-62     Mr Kalamohan argued that it is settled law that an employer who is an occupier of premises where an accident has happened can be liable to his employee in his capacity as an occupier, regardless of whether the employer is also liable under the common law for failing to take reasonable care of the employee’s safety. He cited _Ma HongFei v U-Hin Manufacturing Pte Ltd and another_ [2009] 4 SLR(R) 336 (“ _Ma HongFei_ ”) as authority for this proposition. He then cited _Sim Cheng Soon v BT Engineering Pte Ltd and another_ [2006] 1 SLR(R) 697 for the proposition that an occupier would be liable to an invitee for injuries suffered by him where: 
+62     Mr Kalamohan argued that it is settled law that an employer who is an occupier of premises where an accident has happened can be liable to his employee in his capacity as an occupier, regardless of whether the employer is also liable under the common law for failing to take reasonable care of the employee’s safety. He cited _Ma HongFei v U-Hin Manufacturing Pte Ltd and another_ <span class="citation">[2009] 4 SLR(R) 336</span> (“ _Ma HongFei_ ”) as authority for this proposition. He then cited _Sim Cheng Soon v BT Engineering Pte Ltd and another_ <span class="citation">[2006] 1 SLR(R) 697</span> for the proposition that an occupier would be liable to an invitee for injuries suffered by him where: 
 
  (a) The occupier knew or ought to have known of the danger; and 
 
@@ -802,7 +802,7 @@ are safe and without risks to health to every person within those premises, whet
 
  (2) Subsection (1) shall not affect the extent (if any) to which a breach of duty imposed under any written law is actionable. 
 
-Mr Tan argued that _Ma HongFei_ , which held that s 60(1) did not have the effect of removing a plaintiff’s right of private action in relation to a breach of the Act, was incorrect and should not be followed by this court. In support of this argument, Mr Tan relied on Gary Chan Kok Yew and Lee Pey Woan, _The Law of Torts in Singapore_ (Academy Publishing, 2011) (“ _Chan & Lee_ ”) at pp 332–334, and Ravi Chandran, _The Workplace Safety and Health Act: An Overview_ (2007) 19 SAcLJ 15 (“ _Chandran_ ”) at paras 10 and 11. Mr Tan also submitted that the recent decision in _Tan Juay Pah v Kimly Construction Pte Ltd and others_ [2012] SGCA 17 (“ _Tan Juay Pah_ ”), where the Court of Appeal considered the effect of s 60 of the Act, supported his argument that a breach of the Act did not confer a right of action in civil proceedings. 
+Mr Tan argued that _Ma HongFei_ , which held that s 60(1) did not have the effect of removing a plaintiff’s right of private action in relation to a breach of the Act, was incorrect and should not be followed by this court. In support of this argument, Mr Tan relied on Gary Chan Kok Yew and Lee Pey Woan, _The Law of Torts in Singapore_ (Academy Publishing, 2011) (“ _Chan & Lee_ ”) at pp 332–334, and Ravi Chandran, _The Workplace Safety and Health Act: An Overview_ (2007) 19 SAcLJ 15 (“ _Chandran_ ”) at paras 10 and 11. Mr Tan also submitted that the recent decision in _Tan Juay Pah v Kimly Construction Pte Ltd and others_ <span class="citation">[2012] SGCA 17</span> (“ _Tan Juay Pah_ ”), where the Court of Appeal considered the effect of s 60 of the Act, supported his argument that a breach of the Act did not confer a right of action in civil proceedings. 
 
 69     In any event, Mr Tan submitted that TEE had not breached its duties under ss 11 and 12 of the 
 
@@ -859,7 +859,7 @@ _The plaintiff’s case_
 
 7       6 _Tan Juay Pah_ stands for the proposition that s 60 has no effect on the existence (or otherwise) of an independent or pre-existing private right of action for the breach of a duty imposed by the Act. Where there is an independent or pre-existing private right of action, the right is not taken away by virtue of s 60. 
 
-77     In _Animal Concerns Research & Education Society v Tan Boon Kwee_ [2011] 2 SLR 146 (“ _Animal Concerns_ ”), the Court of Appeal stated as follows: 
+77     In _Animal Concerns Research & Education Society v Tan Boon Kwee_ <span class="citation">[2011] 2 SLR 146</span> (“ _Animal Concerns_ ”), the Court of Appeal stated as follows: 
 
  21 We should highlight at the outset that even if the Appellant's construction of s 10(5) of the Act is correct, s 10(5) is, strictly speaking, not determinative of the Respondent's civil liability to the Appellant in an action for negligence, for it is trite law that there is no common law tort of "careless performance of a statutory duty" (see the House of Lords decision of X (Minors) v Bedfordshire County Council [1995] 2 AC 633 (" X v Bedfordshire CC ") at 732-735). 
 
@@ -924,15 +924,15 @@ Parliamentary intention which, as the Court of Appeal noted in _Animal Concerns_
 **_Contributory negligence of the first defendant_** 
 
 
-83     Mr Tan also submitted that the court had the power to apportion liability between Madhavan and TEE even though the former did not defend the action and judgment in default of appearance had been entered against him. Paras [30] and [31] of _Ng Kim Cheng v Naigai Nitto Singapore Pte Ltd and another_ [1991] 1 SLR(R) 270 (“ _Ng Kim Cheng_ ”) were cited as authority for this proposition. Mr Tan went on to argue that Madhavan had breached his duty to take reasonable care for the plaintiff’s safety and should therefore be held 100% liable to the latter, thereby implying that TEE should not be held liable at all to the plaintiff. 
+83     Mr Tan also submitted that the court had the power to apportion liability between Madhavan and TEE even though the former did not defend the action and judgment in default of appearance had been entered against him. Paras [30] and [31] of _Ng Kim Cheng v Naigai Nitto Singapore Pte Ltd and another_ <span class="citation">[1991] 1 SLR(R) 270</span> (“ _Ng Kim Cheng_ ”) were cited as authority for this proposition. Mr Tan went on to argue that Madhavan had breached his duty to take reasonable care for the plaintiff’s safety and should therefore be held 100% liable to the latter, thereby implying that TEE should not be held liable at all to the plaintiff. 
 
-84     I was of the view that this argument did not assist TEE. In _TV Media Pte Ltd v De Cruz Andrea Heidi and another appeal_ [2004] 3 SLR(R) 543, the Court of Appeal stated as follows: 
+84     I was of the view that this argument did not assist TEE. In _TV Media Pte Ltd v De Cruz Andrea Heidi and another appeal_ <span class="citation">[2004] 3 SLR(R) 543</span>, the Court of Appeal stated as follows: 
 
- 155 The law as to the apportionment of damages between joint tortfeasors is laid out in Dingle v Associated Newspapers Ltd [1961] 2 QB 162, which was adopted by us in Chuang Uming (Pte) Ltd v Setron Ltd [1999] 3 SLR(R) 771. The English Court of Appeal held at 188-189: 
+ 155 The law as to the apportionment of damages between joint tortfeasors is laid out in Dingle v Associated Newspapers Ltd [1961] 2 QB 162, which was adopted by us in Chuang Uming (Pte) Ltd v Setron Ltd <span class="citation">[1999] 3 SLR(R) 771</span>. The English Court of Appeal held at 188-189: 
 
  Where injury has been done to the plaintiff and the injury is indivisible, any tortfeasor whose act has been a proximate cause of the injury must compensate for the whole of it. As between the plaintiff and the defendant it is immaterial that there are others whose acts also have been a cause of the injury and it does not matter whether those others have or have not a good defence. These factors would be relevant in a claim between tortfeasors for contribution, but the plaintiff is not concerned with that; he can obtain judgment for total compensation from anyone whose act has been a cause of his injury. [emphasis added] 
 
- 156 We also find it useful to refer to the case of Wong Jin Fah v L & M Prestressing Pte Ltd [2001] 3 SLR(R) 1 , where the judge held at [92]: 
+ 156 We also find it useful to refer to the case of Wong Jin Fah v L & M Prestressing Pte Ltd <span class="citation">[2001] 3 SLR(R) 1</span> , where the judge held at [92]: 
 
  ... [The] defendants were each a proximate cause of the injury inflicted on the plaintiff. Although they were not acting in concert when the accident happened, their contemporaneous acts of omission caused the indivisible damage to the plaintiff. The defendants left it to the others to take the necessary precautions and, cumulatively, they did nothing at all. Each turned a blind eye to safe working practices and relied on the others. Their faults and breaches indisputably overlapped such that each of them must be held liable to the plaintiff for the whole damage. 
 

@@ -20,7 +20,7 @@ _Civil Procedure_ – _Pleadings_ – _Striking out_
 
 _Contract_ – _Contractual terms_ – _Non-reliance clauses_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2012] SGHC 30.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2012] SGHC 30</span>.] 
 
 15 August 2012 Judgment reserved. 
 
@@ -28,7 +28,7 @@ _Contract_ – _Contractual terms_ – _Non-reliance clauses_
 
 **Introduction** 
 
-1       This is an appeal against the decision of the High Court Judge (“the Judge”) in _ALS Memasa and another v UBS AG_ [2012] SGHC 30 (“the GD”) which affirmed the decision of the Assistant Registrar (“the AR”) to strike out the Appellants’ action in Suit No 935 of 2010 (“S 935/2010”) and to dismiss the Appellants’ application to amend the Statement of Claim (“SOC”) _vide_ Summons No 2942 of 2011 (“SUM 2942/2011”). 
+1       This is an appeal against the decision of the High Court Judge (“the Judge”) in _ALS Memasa and another v UBS AG_ <span class="citation">[2012] SGHC 30</span> (“the GD”) which affirmed the decision of the Assistant Registrar (“the AR”) to strike out the Appellants’ action in Suit No 935 of 2010 (“S 935/2010”) and to dismiss the Appellants’ application to amend the Statement of Claim (“SOC”) _vide_ Summons No 2942 of 2011 (“SUM 2942/2011”). 
 
 **_Background facts_** 
 
@@ -132,7 +132,7 @@ reproduced below: [note: 2]
 
 23     Whether or not there was any misrepresentation as alleged by the Appellants is a factual issue which can only be determined after a full trial when the relevant witnesses have given oral evidence. The trial judge may have to consider a number of factual matters, which might include when and why UBS recommended to the Appellants the investment in the Russian bonds, the global investment climate in relation to the Russian bonds at the material time, whether the Appellants were informed of the purchase of the Russian bonds in writing, and if not, why not; and whether the purchase of the Russian bonds were documented internally, and if not, why not. 
 
-24     Before the Judge, counsel for UBS argued that the Appellants’ claim in relation to all the transactions carried out by UBS, including the purchase of the Russian bonds, was barred by reason of the non-reliance clauses. Before us, counsel for UBS reiterated this argument and referred to _Orient Centre Investments Ltd and another v Société Générale_ [2007] 3 SLR(R) 566 (“ _Orient Centre_ 
+24     Before the Judge, counsel for UBS argued that the Appellants’ claim in relation to all the transactions carried out by UBS, including the purchase of the Russian bonds, was barred by reason of the non-reliance clauses. Before us, counsel for UBS reiterated this argument and referred to _Orient Centre Investments Ltd and another v Société Générale_ <span class="citation">[2007] 3 SLR(R) 566</span> (“ _Orient Centre_ 
 
 
 _Investments_ ”) where this court said at [50]–[51]: 

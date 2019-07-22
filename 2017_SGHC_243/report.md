@@ -16,7 +16,7 @@
 
 _Contract_ – _Misrepresentation_ – _Rescission_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 100 of 2017 was dismissed by the Court of Appeal on 16 April 2018. See [2018] SGCA 36.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 100 of 2017 was dismissed by the Court of Appeal on 16 April 2018. See <span class="citation">[2018] SGCA 36</span>.] 
 
 3 October 2017 
 
@@ -251,9 +251,9 @@ of the business and also have some takeaway business. [note: 41] Clearly, the de
 
 51     However, the defendant submitted that it could not be taken to have affirmed the Lease Agreement unless it had knowledge of the existence, nature and extent of his right to rescind. The question was whether knowledge of the facts giving rise to the right to rescind was sufficient or whether the defendant also had to have knowledge that it had a right in law to choose between affirmation and rescission. 
 
-52     In _Peyman v Lanjani_ [1985] Ch 475 (“ _Peyman_ ”) the English Court of Appeal held (at 487F–G) that the plaintiff “must also know that the law gives him that right [to rescind] yet choose with that knowledge not to exercise it.” _Peyman_ was applied by the Singapore High Court in _The Pacific Vigorous_ [2006] 3 SLR(R) 374 at [23] and in _Wishing Star Ltd v Jurong Town Corp_ [2005] 1 SLR(R) 
+52     In _Peyman v Lanjani_ [1985] Ch 475 (“ _Peyman_ ”) the English Court of Appeal held (at 487F–G) that the plaintiff “must also know that the law gives him that right [to rescind] yet choose with that knowledge not to exercise it.” _Peyman_ was applied by the Singapore High Court in _The Pacific Vigorous_ <span class="citation">[2006] 3 SLR(R) 374</span> at [23] and in _Wishing Star Ltd v Jurong Town Corp_ [2005] 1 SLR(R) 
 
-339\. The Court of Appeal in deciding the appeal in the latter case did not opine affirmatively on the point as the facts of the case showed that the representee possessed knowledge of both facts giving rise to the right to rescind and the right itself: _Jurong Town Corp v Wishing Star Ltd_ [2005] 3 SLR(R) 283 at [164]. See _The Law of Contract in Singapore_ at para 11.150. 
+339\. The Court of Appeal in deciding the appeal in the latter case did not opine affirmatively on the point as the facts of the case showed that the representee possessed knowledge of both facts giving rise to the right to rescind and the right itself: _Jurong Town Corp v Wishing Star Ltd_ <span class="citation">[2005] 3 SLR(R) 283</span> at [164]. See _The Law of Contract in Singapore_ at para 11.150. 
 
 53     Although it appears that _Peyman_ represents the law in England on this issue, it is not without controversy. It has been argued that _Peyman_ was wrongly decided: K R Handley, “Exploring Election” (2006) 122 LQR 82. In that article, Justice Handley reviewed several Australian and English cases which did not support _Peyman_. Justice Handley also questioned the view in _Peyman_ that an elector who affirms without being aware of his right is only bound if there is an estoppel. His Honour reasoned 
 

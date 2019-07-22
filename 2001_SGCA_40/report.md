@@ -250,7 +250,7 @@ put to them.
 
 The Explanation to that Exception provides that "whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact." 
 
-21\. In _PP v Kwan Cin Cheng_ [1998] 2 SLR 345 and _Lau Lee Peng v PP_ [2000] 2 SLR 628, this Court laid down that there are two distinct requirements which must be satisfied before the defence of provocation can be successfully raised. First, is the subjective requirement that the accused was deprived of his self-control by provocation. Second, is the objective requirement that the provocation must have been grave and sudden which involved the application of the reasonable man test. The question involves considering whether an ordinary person of the same sex and age as the accused, sharing such of his characteristics as 
+21\. In _PP v Kwan Cin Cheng_ <span class="citation">[1998] 2 SLR 345</span> and _Lau Lee Peng v PP_ <span class="citation">[2000] 2 SLR 628</span>, this Court laid down that there are two distinct requirements which must be satisfied before the defence of provocation can be successfully raised. First, is the subjective requirement that the accused was deprived of his self-control by provocation. Second, is the objective requirement that the provocation must have been grave and sudden which involved the application of the reasonable man test. The question involves considering whether an ordinary person of the same sex and age as the accused, sharing such of his characteristics as 
 
 
 would affect the gravity of the provocation and placed in the same situation, would have been so provoked as to lose his selfcontrol. 
@@ -333,7 +333,7 @@ would affect the gravity of the provocation and placed in the same situation, wo
 30\. Before we conclude, there is a matter we ought to refer to. The judge below had expressed some concern on the following 
 
 
-passage of this Court in _Lau Lee Peng v PP_ [2000] 2 SLR 628:
+passage of this Court in _Lau Lee Peng v PP_ <span class="citation">[2000] 2 SLR 628</span>:
 
 ## In the light of the discussion in Kwan Cin Cheng , the test of proportionality is 
 

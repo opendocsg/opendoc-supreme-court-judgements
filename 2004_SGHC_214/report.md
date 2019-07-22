@@ -80,7 +80,7 @@ _decree nisi_ in Divorce Petition No 602919 of 2002 (“the divorce proceedings�
 
 **The submissions** 
 
-16     Counsel for the plaintiff relied on S Rajendran J’s decision in _Lim Kaling v Hangchi Valerie_ [2003] 2 SLR 377 (“ _Lim Kaling_ ”) for his argument that the defendant had no legal basis to lodge the Caveat while counsel for the defendant cited Lee Seiu Kin JC’s (unreported) decision in _Chai Mei Leng v Cheng William (No 2)_ [1998] SGHC 381 (“ _Chai Mei Leng_ ”) for the contrary argument. 
+16     Counsel for the plaintiff relied on S Rajendran J’s decision in _Lim Kaling v Hangchi Valerie_ <span class="citation">[2003] 2 SLR 377</span> (“ _Lim Kaling_ ”) for his argument that the defendant had no legal basis to lodge the Caveat while counsel for the defendant cited Lee Seiu Kin JC’s (unreported) decision in _Chai Mei Leng v Cheng William (No 2)_ <span class="citation">[1998] SGHC 381</span> (“ _Chai Mei Leng_ ”) for the contrary argument. 
 
 
 17     It would be appropriate at this juncture therefore to look at the two opposing decisions. Rajendran J had held in _Lim Kaling_ that the defendant wife had no caveatable interest in two properties (a house and an apartment) purchased by the husband before their marriage. 

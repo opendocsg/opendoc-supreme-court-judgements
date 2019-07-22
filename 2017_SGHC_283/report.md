@@ -71,7 +71,7 @@ priority in the event of the Applicant’s winding up. [note: 12]
 
 Scheme. [note: 13] 
 
-9       While the matter was adjourned for deliberation, the Court of Appeal issued its judgment in _SK Engineering & Construction Co Ltd v Conchubar Aromatic Ltd and another appeal_ [2017] SGCA 51 (“ _Conchubar_ ”). Accordingly, I invited all interested parties to make brief submissions on the impact, if any, of that decision on the present proceedings. By agreement, the Applicant and Phillip Asia filed 
+9       While the matter was adjourned for deliberation, the Court of Appeal issued its judgment in _SK Engineering & Construction Co Ltd v Conchubar Aromatic Ltd and another appeal_ <span class="citation">[2017] SGCA 51</span> (“ _Conchubar_ ”). Accordingly, I invited all interested parties to make brief submissions on the impact, if any, of that decision on the present proceedings. By agreement, the Applicant and Phillip Asia filed 
 
 and exchanged further submissions on 11 September 2017. [note: 14] 
 
@@ -86,9 +86,9 @@ owed S$2,355,394 from the Applicant. [note: 15] TAMI is a contingent creditor of
 
 because TAMI had provided a counter indemnity dated 1 January 2015, [note: 16] no equitable set-off is possible between the two debts since the transactions are not related or connected with each 
 
-other: _Pacific Rim Investments Pte Ltd v Lam Seng Tiong and another_ [1995] 2 SLR(R) 643. [note: 17] 
+other: _Pacific Rim Investments Pte Ltd v Lam Seng Tiong and another_ <span class="citation">[1995] 2 SLR(R) 643</span>. [note: 17] 
 
-12     As for whether the Put Option Holders and TAMI should be placed in the same class of creditors as Phillip Asia, the Applicant cites _The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International Ltd and another appeal_ [2012] 2 SLR 213 (“ _TT International_ ”) for the proposition that the court should apply the dissimilarity principle to determine the proper classification of its creditors. Applying that principle, the court considers the most likely scenario aside from the approval of the scheme. If the positions of two groups of creditors under the proposed scheme as compared to under the most likely scenario differ to dissimilar extents, these two groups of creditors would have to be placed in different voting classes. Here, the most likely scenario in the event that the Scheme is not approved would be liquidation. Comparing the situation under the proposed Scheme to the situation in which the Applicant is liquidated, the Put Option Holders, TAMI and Phillip Asia are all favoured or prejudiced to similar extents as each other given that they are all beneficiaries of some form of guarantee given by the Applicant. Thus, they should not be classed 
+12     As for whether the Put Option Holders and TAMI should be placed in the same class of creditors as Phillip Asia, the Applicant cites _The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International Ltd and another appeal_ <span class="citation">[2012] 2 SLR 213</span> (“ _TT International_ ”) for the proposition that the court should apply the dissimilarity principle to determine the proper classification of its creditors. Applying that principle, the court considers the most likely scenario aside from the approval of the scheme. If the positions of two groups of creditors under the proposed scheme as compared to under the most likely scenario differ to dissimilar extents, these two groups of creditors would have to be placed in different voting classes. Here, the most likely scenario in the event that the Scheme is not approved would be liquidation. Comparing the situation under the proposed Scheme to the situation in which the Applicant is liquidated, the Put Option Holders, TAMI and Phillip Asia are all favoured or prejudiced to similar extents as each other given that they are all beneficiaries of some form of guarantee given by the Applicant. Thus, they should not be classed 
 
 separately. [note: 18] 
 
@@ -119,7 +119,7 @@ that offered to the Subscriber. [note: 24]
 
 17     In respect of the Scheme application, Phillip Asia argues that the Applicant has acted in bad faith by failing to disclose material information concerning the Put Option Holders and TAMI: _Re Punj_ 
 
-_Lloyd Pte Ltd and another matter_ [2015] SGHC 321 (“ _Re Punj Lloyd_ ”). [note: 25] The contingent debts owed to the Put Option Holders and TAMI were not included in the Applicant’s unaudited financial statement, which was issued recently in May 2017. The inference to be drawn must be that the Applicant included these contingent liabilities in the proposed Scheme in order to inflate the quantum of liabilities and to reduce Phillip Asia’s portion to below the 25% threshold and preclude any chances of its successful opposition to the proposed Scheme. The Applicant has also failed to respond to Phillip Asia’s request for categories of information and documents in order to clarify the basis for its 
+_Lloyd Pte Ltd and another matter_ <span class="citation">[2015] SGHC 321</span> (“ _Re Punj Lloyd_ ”). [note: 25] The contingent debts owed to the Put Option Holders and TAMI were not included in the Applicant’s unaudited financial statement, which was issued recently in May 2017. The inference to be drawn must be that the Applicant included these contingent liabilities in the proposed Scheme in order to inflate the quantum of liabilities and to reduce Phillip Asia’s portion to below the 25% threshold and preclude any chances of its successful opposition to the proposed Scheme. The Applicant has also failed to respond to Phillip Asia’s request for categories of information and documents in order to clarify the basis for its 
 
 contingent debts. [note: 26] 
 
@@ -207,7 +207,7 @@ _The law_
 
 31     The process under s 210 of the CA for the promulgation of schemes of arrangements may be broken down into four discrete stages. The first stage below was not considered in _TT International_ (at [55]) but given the increased number of applications under s 210(10) of the CA, it is useful to note it as a separate stage: 
 
- (a) The first stage, which may or may not be invoked by the applicant, is an application for a moratorium, to protect the company while preparations are being made for a scheme to be proposed. This is governed by s 210(10) of the CA. The requirements for the granting of a moratorium have been considered in a number of decisions such as Pacific Andes Resources Development Ltd and other matters [2016] SGHC 210. 
+ (a) The first stage, which may or may not be invoked by the applicant, is an application for a moratorium, to protect the company while preparations are being made for a scheme to be proposed. This is governed by s 210(10) of the CA. The requirements for the granting of a moratorium have been considered in a number of decisions such as Pacific Andes Resources Development Ltd and other matters <span class="citation">[2016] SGHC 210</span>. 
 
  (b) The second stage is the application for the court’s leave to convene a creditors’ meeting to consider the scheme, under s 210(1) (hereinafter, “the calling of meeting stage”). 
 
@@ -226,7 +226,7 @@ _The law_
 
  (b) The material information will include issues in relation to the fairness of the classification of creditors for voting (see also Re Punj Lloyd at [29a] and [31]). The guidance from TT International is that proper classification of creditors should be considered at the calling of meeting stage (at [59] and [61]–[62]). 
 
- (c) The court will consider if there is “no realistic prospect” of the scheme receiving the requisite approval: TT International at [64], citing with approval Re Ng Huat Foundations Pte Ltd [2005] SGHC 112 at [9]. Where the opposition is such that the required supermajorities cannot be met, there is no realistic prospect of the scheme receiving the requisite approval. Thus, if there is strong opposition expressed, it would be prudent for the applicant to indicate sufficient support to show that the scheme is at least within striking distance of the supermajorities required. 
+ (c) The court will consider if there is “no realistic prospect” of the scheme receiving the requisite approval: TT International at [64], citing with approval Re Ng Huat Foundations Pte Ltd <span class="citation">[2005] SGHC 112</span> at [9]. Where the opposition is such that the required supermajorities cannot be met, there is no realistic prospect of the scheme receiving the requisite approval. Thus, if there is strong opposition expressed, it would be prudent for the applicant to indicate sufficient support to show that the scheme is at least within striking distance of the supermajorities required. 
 
 33     However, as emphasised in _TT International_ , the court does not consider “the merits and fairness” of the scheme at the calling of meeting stage (at [63]). The court’s consideration is limited to matters going to its jurisdiction or power to subsequently sanction the scheme if it proceeds to the sanction stage. 
 

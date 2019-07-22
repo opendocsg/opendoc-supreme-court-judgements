@@ -108,7 +108,7 @@ recalled that on the day ABC was admitted into hospital, the victim had mentione
 
  (ii) Unlike the 1995 incident, the victim did not mention the 1996 incident to any other person; there was no corroboration. 
 
-19     We accepted that, in acquitting ABC of the fourth charge, the trial judge was making a finding of fact. It is trite law that an appellate court should not upset a finding of fact based on the credibility and veracity of the witnesses whom the trial judge had seen and observed when giving evidence unless it was plainly against the weight of the evidence and unsupportable: see _Lim Ah Poh v PP_ [1992] 1 SLR 713 at 719 and _PP v Sugianto & Anor_ [1994] 2 SLR 1 at 5. 
+19     We accepted that, in acquitting ABC of the fourth charge, the trial judge was making a finding of fact. It is trite law that an appellate court should not upset a finding of fact based on the credibility and veracity of the witnesses whom the trial judge had seen and observed when giving evidence unless it was plainly against the weight of the evidence and unsupportable: see _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span> at 719 and _PP v Sugianto & Anor_ <span class="citation">[1994] 2 SLR 1</span> at 5. 
 
 **First ground** 
 

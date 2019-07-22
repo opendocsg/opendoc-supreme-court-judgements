@@ -532,13 +532,13 @@ and in para 3(2)(ii) they averred:
 
 **Justification** 
 
-71     I go on now to the first of the defences – justification. As stated by Tay Yong Kwang J in _Oei Hong Leong v Ban Song Long David_ [2005] 1 SLR 277 at [94]: 
+71     I go on now to the first of the defences – justification. As stated by Tay Yong Kwang J in _Oei Hong Leong v Ban Song Long David_ <span class="citation">[2005] 1 SLR 277</span> at [94]: 
 
- ... The defence of justification requires a defendant to prove that the words in issue, in their natural and ordinary meaning, were true in substance and in fact. In Sin Heak Hin Pte Ltd v Yuasa Battery Singapore Co Pte Ltd [1995] 3 SLR 590 at 598–599, [31], it was held: 
+ ... The defence of justification requires a defendant to prove that the words in issue, in their natural and ordinary meaning, were true in substance and in fact. In Sin Heak Hin Pte Ltd v Yuasa Battery Singapore Co Pte Ltd <span class="citation">[1995] 3 SLR 590</span> at 598–599, [31], it was held: 
 
  In order to establish the defence of justification, a defendant must prove that the defamatory imputation is true and he must prove the truth of the very imputation complained of. He must also prove the truth of all the material statements in the libel, ie he must justify everything that the libel contains which is injurious to the plaintiff. 
 
- This does not mean the court should engage in a meticulous examination of every word in question or every detail of fact. It suffices that the substance or the gist of the libel has been justified: Aaron v Cheong Yip Seng [1996] 1 SLR 623; s 8 of the Defamation Act. 
+ This does not mean the court should engage in a meticulous examination of every word in question or every detail of fact. It suffices that the substance or the gist of the libel has been justified: Aaron v Cheong Yip Seng <span class="citation">[1996] 1 SLR 623</span>; s 8 of the Defamation Act. 
 
 _Gatley on Libel and Slander_ (Sweet & Maxwell, 10th Ed, 2004) states to similar effect at para 11.9: 
 
@@ -791,7 +791,7 @@ _Manner and timing of publication of the Offending Words_
  [note: 35] 
 
 
-104    I am of the view that the posting of the Appeal on the website was a disproportionate response: see _Oei Hong Leong v Ban Song Long_ [2005] 3 SLR 608 at 610, holdings 5 and 6 of the headnote. 
+104    I am of the view that the posting of the Appeal on the website was a disproportionate response: see _Oei Hong Leong v Ban Song Long_ <span class="citation">[2005] 3 SLR 608</span> at 610, holdings 5 and 6 of the headnote. 
 
 105    For this reason, I hold that the defendants have failed in their defence of qualified privilege. Nevertheless, given my holding that the defence of justification has been made out, I grant judgment in favour of the defendants. 
 

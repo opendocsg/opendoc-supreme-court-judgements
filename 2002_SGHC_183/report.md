@@ -287,7 +287,7 @@ types, is summarised in **_Halsbury’s Laws of England_** (Vol 19, 4th Ed), rei
 
 29     In Singapore, s 4(9) of the Civil Law Act (Cap 43) is almost identical to that of the UK provisions referred to in the preceding paragraphs. 
 
-30     The Court of Appeal in Singapore approved and adopted the principles expounded in the **_United Scientific Holdings_** case ( _supra_ ) in **_Tian Teck Construction Pte Ltd v Exklusiv Auto Pte Ltd_** [1992] 2 SLR 390. It was held in that case that time would not be considered to be of the essence unless: (a) the parties expressly stipulate that conditions as to time must be strictly complied with; or 
+30     The Court of Appeal in Singapore approved and adopted the principles expounded in the **_United Scientific Holdings_** case ( _supra_ ) in **_Tian Teck Construction Pte Ltd v Exklusiv Auto Pte Ltd_** <span class="citation">[1992] 2 SLR 390</span>. It was held in that case that time would not be considered to be of the essence unless: (a) the parties expressly stipulate that conditions as to time must be strictly complied with; or 
 
 
 (b) the nature of the subject matter of the contract or the surrounding circumstances showed that time should be considered to be of the essence; or (c) a party who had been subject to unreasonable delay, gave notice to the party in default, making time of the essence. 
@@ -300,7 +300,7 @@ types, is summarised in **_Halsbury’s Laws of England_** (Vol 19, 4th Ed), rei
 
 33     The next issue for determination was whether the phrase ‘subject to the tenancy agreement’ appearing in the memorandum, rendered it unenforceable and not binding. 
 
-34     Counsel for the defendants argued that the phrase adverted to cannot in law give rise to the construction that the memorandum was binding and enforceable. I now propose to deal with some of the learning referred to and relied on by counsel on the construction of the phrase, ‘subject to the tenancy agreement’, which seemed to take centre stage in the dispute between the parties: Significant amongst them were: **_Winn v Bull_** (1877) 7 Ch D. 29; **_Raingold v Bromley_** [1931] 2 Ch D 307; **_Spottiswoode, Ballantyne and Company Limited v Doreen Appliances Limited_** [1942] 2 KB 32 (CA); and **_Thomson Plaza (Pte) Ltd v Liquidators of Yaohan Department Store Singapore Pte Ltd (in liquidation)_** [2001] 3 SLR 437. 
+34     Counsel for the defendants argued that the phrase adverted to cannot in law give rise to the construction that the memorandum was binding and enforceable. I now propose to deal with some of the learning referred to and relied on by counsel on the construction of the phrase, ‘subject to the tenancy agreement’, which seemed to take centre stage in the dispute between the parties: Significant amongst them were: **_Winn v Bull_** (1877) 7 Ch D. 29; **_Raingold v Bromley_** [1931] 2 Ch D 307; **_Spottiswoode, Ballantyne and Company Limited v Doreen Appliances Limited_** [1942] 2 KB 32 (CA); and **_Thomson Plaza (Pte) Ltd v Liquidators of Yaohan Department Store Singapore Pte Ltd (in liquidation)_** <span class="citation">[2001] 3 SLR 437</span>. 
 
 35     In **_Winn v Bull_** ( _supra_ ), the defendant agreed to take a lease of a house for a certain time at a certain rent, "subject to the preparation and approval of a formal contract." In holding that there was no enforceable contract, Jessel MR said at page 31: 
 
@@ -332,7 +332,7 @@ before commencement of the tenancy, a formal Lease of the same form as the speci
 
 45     In **_Crossley v Maycock_** (1874) LR 18 Eq 180 at page 181, Jessel MR, observed: ‘If there is a simple acceptance of an offer to purchase, accompanied by a statement that the acceptor desires that the arrangement should be put into more formal terms, the mere reference to such a proposal will not prevent the Court from enforcing the final agreement so arrived at. But if the agreement is made subject to certain conditions then specified or specified by the party making it, or his solicitor, then until those conditions are accepted there is no final agreement such as the court will enforce.’ 
 
-46     Reference now ought to be made to two Singapore decisions which in my view seemed to possess features somewhat similar to the question at hand: **_Klerk-Elias Liza v KT Chan Clinic Pte Ltd_** [1993] 2 SLR 417 (CA) and **_Climax Manufacturing Co Ltd v Colles Paragon Converters (S) Pte Ltd_** [2000] 1 SLR 245. 
+46     Reference now ought to be made to two Singapore decisions which in my view seemed to possess features somewhat similar to the question at hand: **_Klerk-Elias Liza v KT Chan Clinic Pte Ltd_** <span class="citation">[1993] 2 SLR 417</span> (CA) and **_Climax Manufacturing Co Ltd v Colles Paragon Converters (S) Pte Ltd_** <span class="citation">[2000] 1 SLR 245</span>. 
 
 47     In **_Klerk-Elias Liza_** the facts as appear in the headnotes of the report are as follows. 
 

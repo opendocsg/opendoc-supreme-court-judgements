@@ -72,7 +72,7 @@ served on her. However, on 24 December 2005, Rustal obtained an order from the L
 
 14     As has been mentioned, the banks have appealed against the assistant registrar’s decision and for the purpose of the hearing of the appeal, they sought to admit a second affidavit by Mr DoeBruce, who had already filed an earlier affidavit that had been considered in the hearing below. 
 
-15     A judge hearing an appeal against a decision of an assistant registrar has the discretion whether to admit new evidence for the purpose of the hearing of the appeal. In _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ [1999] 2 SLR 233, the Court of Appeal noted (at [38]) as follows: 
+15     A judge hearing an appeal against a decision of an assistant registrar has the discretion whether to admit new evidence for the purpose of the hearing of the appeal. In _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ <span class="citation">[1999] 2 SLR 233</span>, the Court of Appeal noted (at [38]) as follows: 
 
  A judge-in-chambers who hears an appeal from the registrar is entitled to treat the matter as though it came before him for the first time. The judge-in-chambers in effect exercises confirmatory jurisdiction. The judge’s discretion is in no way fettered by the decision below, and he is free to allow the admission of fresh evidence in the absence of contrary reasons. On appeal to the Court of Appeal, case law has established that the Court of Appeal will not interfere with the discretion of the judge unless satisfied that the judge’s discretion has been wrongly exercised. 
 

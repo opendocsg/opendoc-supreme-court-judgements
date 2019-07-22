@@ -20,7 +20,7 @@ _Partnership_ – _Partners_ inter se – _Ac c ounts_
 
 **Justin Yeo AR:** 
 
-1       This court is called upon to take accounts arising out of the decision of Belinda Ang J (“the Judge”) in _Ang Tin Gee v Pang Tec k Guan_ [2011] SGHC 259 (“ _Ang Tin Gee_ ”). 
+1       This court is called upon to take accounts arising out of the decision of Belinda Ang J (“the Judge”) in _Ang Tin Gee v Pang Tec k Guan_ <span class="citation">[2011] SGHC 259</span> (“ _Ang Tin Gee_ ”). 
 
 **Background to this matter** 
 
@@ -304,7 +304,7 @@ of accounts. [note: 17]
 
 34     Relying on the above, Mr Lai argued that the inquiry court did not have the jurisdiction to revisit findings made by the Judge. He also emphasised that “the inquiry court does not sit as the Court of 
 
-Appeal”. [note: 23] In this regard, Mr Lai cited the recent Court of Appeal decision of _Lim Chin San Contrac tors Pte Ltd v Shiok Kim Seng (trading as IKO Prec ision Toolings) and another appeal_ [2013] SGCA 6 (“ _Lim Chin San_ ”) as well as an earlier authority _Lim Tec k Cheng v Wyno Marine Pte Ltd (in liquidation)_ [1999] SGCA 74 (“ _Lim Tec k Cheng_ ”). 
+Appeal”. [note: 23] In this regard, Mr Lai cited the recent Court of Appeal decision of _Lim Chin San Contrac tors Pte Ltd v Shiok Kim Seng (trading as IKO Prec ision Toolings) and another appeal_ <span class="citation">[2013] SGCA 6</span> (“ _Lim Chin San_ ”) as well as an earlier authority _Lim Tec k Cheng v Wyno Marine Pte Ltd (in liquidation)_ <span class="citation">[1999] SGCA 74</span> (“ _Lim Tec k Cheng_ ”). 
 
 _The law_ 
 
@@ -315,15 +315,15 @@ _The law_
 
 LexisNexis, 5th Ed, 2009) at para 1166). The rationale is straightforward: it is not in the interests of justice that there should either be a re-trial of a case potentially resulting in conflicting judicial decisions, or that there should be collateral challenges to judicial decisions. Indeed, there is a danger, not only of unfairness of the parties concerned, but also the broader problem of bringing the administration of justice into disrepute. The doctrine of _res judic ata_ has been used to address these problems. 
 
-36     In _Goh Nellie v Goh Lian Tec k_ [2007] 1 SLR(R) 453 (“ _Goh Nellie_ ”), Menon JC (as he then was) provided a thorough and instructive exposition on the doctrine of _res judic ata_ and its three conceptually distinct principles ( _viz_ , “cause of action estoppel”, “issue estoppel” and “abuse of process”). In the present case, the relevant _res judic ata_ principle is that of issue estoppel. 
+36     In _Goh Nellie v Goh Lian Tec k_ <span class="citation">[2007] 1 SLR(R) 453</span> (“ _Goh Nellie_ ”), Menon JC (as he then was) provided a thorough and instructive exposition on the doctrine of _res judic ata_ and its three conceptually distinct principles ( _viz_ , “cause of action estoppel”, “issue estoppel” and “abuse of process”). In the present case, the relevant _res judic ata_ principle is that of issue estoppel. 
 
 (2) Issue estoppel 
 
-37     Issue estoppel prevents the re-litigation of an issue which the court has already determined on the merits in previous proceedings between the same parties ( _Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co Ltd and another and another appeal_ [2009] 2 SLR(R) 814 (“ _Wing Joo Loong_ ”) at [165]). In _Goh Nellie_ at [18], Menon JC adopted the elaboration provided by Diplock LJ (as he then was) in _Thoday v Thoday_ [1964] P 181: 
+37     Issue estoppel prevents the re-litigation of an issue which the court has already determined on the merits in previous proceedings between the same parties ( _Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co Ltd and another and another appeal_ <span class="citation">[2009] 2 SLR(R) 814</span> (“ _Wing Joo Loong_ ”) at [165]). In _Goh Nellie_ at [18], Menon JC adopted the elaboration provided by Diplock LJ (as he then was) in _Thoday v Thoday_ [1964] P 181: 
 
  ‘[I]ssue estoppel,’ is an extension of the same rule of public policy. ... If in litigation upon one such cause of action any of such separate issues as to whether a particular condition has been fulfilled is determined by a court of competent jurisdiction, either upon evidence or upon admission by a party to the litigation, neither party can, in subsequent litigation between one another upon any cause of action which depends upon the fulfilment of the identical condition, assert that the condition was fulfilled if the court has in the first litigation determined that it was not, or deny that it was fulfilled if the court in the first litigation determined that it was. 
 
-38     In _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ [2005] 3 SLR(R) 157 at [14] (also cited in _Wing Joo Loong_ at [165]), the Court of Appeal held that four requirements must be fulfilled before issue estoppel may be established: 
+38     In _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ <span class="citation">[2005] 3 SLR(R) 157</span> at [14] (also cited in _Wing Joo Loong_ at [165]), the Court of Appeal held that four requirements must be fulfilled before issue estoppel may be established: 
 
  (a) First, there must be a final and conclusive judgment on the merits of the issue which is said to be the subject of an estoppel (“Requirement (A)”); 
 
@@ -340,7 +340,7 @@ LexisNexis, 5th Ed, 2009) at para 1166). The rationale is straightforward: it is
 40     Requirement (A) provides that there must be a final and conclusive judgment on the merits of the issue which is said to be the subject of an estoppel. This principle applies also to subsequent proceedings in the same suit, such as in the present case. In _Manganmal Jhamatmal Lalwani v NE_ 
 
 
-_Vic kerama_ [1999] 3 SLR(R) 149 (“ _Manganmal_ ”), Rajendran J followed Diplock LJ’s approach in _Fidelitas Shipping Co Ltd v V/O Exportc hleb_ [1966] 1 QB 630 (“ _Fidelitas_ ”) at 642C-D, _viz_ that: 
+_Vic kerama_ <span class="citation">[1999] 3 SLR(R) 149</span> (“ _Manganmal_ ”), Rajendran J followed Diplock LJ’s approach in _Fidelitas Shipping Co Ltd v V/O Exportc hleb_ [1966] 1 QB 630 (“ _Fidelitas_ ”) at 642C-D, _viz_ that: 
 
  [w]here the issue separately determined is not decisive of the suit, the judgment upon that issue is an interlocutory judgment and the suit continues. Yet I take it to be too clear to need citation of authority that the parties to the suit are bound by the determination of the issue. They cannot subsequently in the same suit advance argument or adduce further evidence directed to showing that the issue was wrongly determined. [emphasis added] 
 
@@ -365,9 +365,9 @@ _Vic kerama_ [1999] 3 SLR(R) 149 (“ _Manganmal_ ”), Rajendran J followed Dip
 
 44     Two Court of Appeal decisions, _viz_ the decisions of _Lim Chin San_ and _Lim Tec k Cheng_ , deal expressly with the proposition that the assessing court and/or the inquiry court in a bifurcated trial is bound, by the principle of issue estoppel, from re-visiting findings of the court. Each of these decisions will be analysed in turn. 
 
-45     In _Lim Chin San_ , the Court of Appeal was concerned with a situation where the High Court had made a finding at the liability stage but subsequently departed from its decision at the assessment stage. In brief, in the initial liability decision of _Lim Chin San Contrac tors Pte Ltd v Shiok Kim Seng_ [2011] 1 SLR 433 (“ _Lim Chin San (Liability)_ ”), the High Court found that a proprietary estoppel arose on the facts and that an award of damages would be appropriate, leaving the quantum of the equitable compensation to be assessed by the assessing court. As neither party appealed against _Lim Chin San (Liability)_ , it was no longer open to any party to challenge the High Court’s finding that an equity had arisen in favour of one of the parties ( _Lim Chin San_ at [14]). At the assessment stage, the High Court departed from the reliance-based approach it had ordered in _Lim Chin San (Liability)_ , instead opting to assess damages based on reliance losses (for the money spent by the respondent) and expectation losses (for the appellant’s failure to sell certain premises to the respondent). 
+45     In _Lim Chin San_ , the Court of Appeal was concerned with a situation where the High Court had made a finding at the liability stage but subsequently departed from its decision at the assessment stage. In brief, in the initial liability decision of _Lim Chin San Contrac tors Pte Ltd v Shiok Kim Seng_ <span class="citation">[2011] 1 SLR 433</span> (“ _Lim Chin San (Liability)_ ”), the High Court found that a proprietary estoppel arose on the facts and that an award of damages would be appropriate, leaving the quantum of the equitable compensation to be assessed by the assessing court. As neither party appealed against _Lim Chin San (Liability)_ , it was no longer open to any party to challenge the High Court’s finding that an equity had arisen in favour of one of the parties ( _Lim Chin San_ at [14]). At the assessment stage, the High Court departed from the reliance-based approach it had ordered in _Lim Chin San (Liability)_ , instead opting to assess damages based on reliance losses (for the money spent by the respondent) and expectation losses (for the appellant’s failure to sell certain premises to the respondent). 
 
-46     The Court of Appeal in _Lim Chin San_ reiterated, at [22], the High Court decision of _Ho Yew Weng Alan James v Poh Eng Wah Mark t/a SG Vehic les Trading_ [1997] SGHC 179, which states as follows: 
+46     The Court of Appeal in _Lim Chin San_ reiterated, at [22], the High Court decision of _Ho Yew Weng Alan James v Poh Eng Wah Mark t/a SG Vehic les Trading_ <span class="citation">[1997] SGHC 179</span>, which states as follows: 
 
  ... The registrar must assess the damages in ac c ordanc e with the terms of the judgment. He c annot disregard the judgment and the assessment of damages is not an oc c asion for him to set it aside or vary it in any way. ... [emphasis added] 
 
@@ -455,7 +455,7 @@ Judge. This, I emphasise, is no justification for revisiting the Judge’s decis
 
  dismissed the counterclaim on overpayments for goods bought from Japco. It would clearly be a contradiction of the Judge’s decision if this court should find, on the very same evidence, that OCS had overpaid Japco. Having not appealed against the dismissal of the counterclaim on overpayment, which the Defendant clearly could have done if he was dissatisfied with the said dismissal, he cannot now be heard to petition the inquiry court to effectively overrule the Judge’s decision on the counterclaim. 
 
-58     For completeness, I wish to address Mr Yeo’s comment that he could not have appealed against the Judge’s decision because the Defendant accepted the decision in _Ang Tin Gee_ ( _viz_ , that accounts had to be taken). Although Mr Yeo neither pushed this point any further nor cited any authority for his submission, he may be alluding to the principle that appeals are against orders, not reasoned judgments. In _Lee Kuan Yew v Tang Liang Hong & Anor_ [1997] 2 SLR(R) 862 (“ _Lee Kuan Yew_ ”), the Court of Appeal noted (at [24]-[25]): 
+58     For completeness, I wish to address Mr Yeo’s comment that he could not have appealed against the Judge’s decision because the Defendant accepted the decision in _Ang Tin Gee_ ( _viz_ , that accounts had to be taken). Although Mr Yeo neither pushed this point any further nor cited any authority for his submission, he may be alluding to the principle that appeals are against orders, not reasoned judgments. In _Lee Kuan Yew v Tang Liang Hong & Anor_ <span class="citation">[1997] 2 SLR(R) 862</span> (“ _Lee Kuan Yew_ ”), the Court of Appeal noted (at [24]-[25]): 
 
  24 The argument was flawed because it is a well-established principle that an appeal lies against the order (that is, the outcome) made by the judge, and not the reasons he gives for his decision: see Lake v Lake [1955] P 336. Therefore, if the outcome is accepted by the parties but not the reasons, there can be no appeal against the order. This is so even if the reasons in support of that outcome are absurd. So, if a judge had allowed the deletion because he did not like the colour of Tang's hair, Tang could not appeal against the substantive order to delete if he did not dispute the outcome, however ridiculous the reasons might be. 
 
@@ -465,7 +465,7 @@ Judge. This, I emphasise, is no justification for revisiting the Judge’s decis
 
 59     The _Lee Kuan Yew_ case was cited in _Singapore Civil Proc edure 2013_ vol 1 (G P Selvam gen ed) (Sweet & Maxwell Asia, 2013) (“ _Singapore Civil Proc edure_ ”) at para 57/1/7: 
 
- Appeals are against orders, not reasoned judgments – Appeal lies against the order made by the judge, not against the reasons he gave for his decision ( Lake v. Lake [1955] [1955] P.336; [1955] 2 All E.R. 538, CA; Lee Kuan Yew v Tang Liang Hong & Anor [1997] 2 SLR(R) 862, CA). Thus a party who has succeeded in obtaining, or, as the case may be, resisting, all relief sought cannot appeal even though he disagrees with the reasons which the judge has given for deciding all points in his favour. On the other hand, if a party has succeeded in obtaining, or resisting, only part of the relief sought, he can, of course, appeal against the order to the extent that he was unsuccessful. 
+ Appeals are against orders, not reasoned judgments – Appeal lies against the order made by the judge, not against the reasons he gave for his decision ( Lake v. Lake [1955] [1955] P.336; [1955] 2 All E.R. 538, CA; Lee Kuan Yew v Tang Liang Hong & Anor <span class="citation">[1997] 2 SLR(R) 862</span>, CA). Thus a party who has succeeded in obtaining, or, as the case may be, resisting, all relief sought cannot appeal even though he disagrees with the reasons which the judge has given for deciding all points in his favour. On the other hand, if a party has succeeded in obtaining, or resisting, only part of the relief sought, he can, of course, appeal against the order to the extent that he was unsuccessful. 
 
 60     However, I did not think that the _Lee Kuan Yew_ decision and the extract from _Singapore Civil Proc edure_ further Mr Yeo’s case, for the following three reasons: 
 

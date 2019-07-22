@@ -14,7 +14,7 @@
 
 _Family Law_
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 98.]
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 98</span>.]
 
 16 January 2012
 
@@ -22,7 +22,7 @@ _Family Law_
 
 **Introduction**
 
-1       This was an appeal against the decision of the judge (“the Judge”) in _Nalini d/o Ramachandran v Saseedaran Nair s/o Krishnan_ [2010] SGHC 98 that:
+1       This was an appeal against the decision of the judge (“the Judge”) in _Nalini d/o Ramachandran v Saseedaran Nair s/o Krishnan_ <span class="citation">[2010] SGHC 98</span> that:
 
 >(a) the appellant, Saseedaran Nair s/o Krishnan (now known as K Saseedaran Nair) (“the Husband”), was not solely entitled to the payout of $172,740.30 (“the HPIS Payout”) under the Home Protection Insurance Scheme (“HPIS”); and
 

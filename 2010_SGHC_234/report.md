@@ -22,7 +22,7 @@ _Damages_
 
 **Introduction** 
 
-1       On 27 May 2008, Lai Siu Chiu J (“Lai J”) gave interlocutory judgment in favour of the plaintiff against the three defendants in this action. Her written judgment is reported in [2008] 3 SLR(R) 981 (“the High Court Judgment”). Lai J ordered damages to the plaintiff to be assessed by the Registrar. All three defendants appealed and the Court of Appeal dismissed the appeal on 14 November 2008. The written judgment of the Court of Appeal is reported in [2009] 1 SLR(R) 524 (“the CA Judgment”). As the facts are amply set out in both judgments, I will not repeat them here. 
+1       On 27 May 2008, Lai Siu Chiu J (“Lai J”) gave interlocutory judgment in favour of the plaintiff against the three defendants in this action. Her written judgment is reported in <span class="citation">[2008] 3 SLR(R) 981</span> (“the High Court Judgment”). Lai J ordered damages to the plaintiff to be assessed by the Registrar. All three defendants appealed and the Court of Appeal dismissed the appeal on 14 November 2008. The written judgment of the Court of Appeal is reported in <span class="citation">[2009] 1 SLR(R) 524</span> (“the CA Judgment”). As the facts are amply set out in both judgments, I will not repeat them here. 
 
 2       The assistant registrar (“the AR”), in notice of assessment no 47 of 2009, heard evidence on damages and made the following orders: 
 

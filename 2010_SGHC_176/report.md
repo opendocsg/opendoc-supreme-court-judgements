@@ -115,7 +115,7 @@ The amount repaid came to a total of $89,100. There is some dispute between the 
 
  (d) Whether the Company had paid for the DBS service charge. 
 
-At the hearing before the DJ, counsel for both parties agreed that the defence under the Moneylenders Act was _res judicata_ as there had been no appeal against the decision of DJ Chew on this issue; _Ho Soo Fong v Ng Chuan Hwa and others_ [2010] SGDC 8 (“the GD”) at [5]. 
+At the hearing before the DJ, counsel for both parties agreed that the defence under the Moneylenders Act was _res judicata_ as there had been no appeal against the decision of DJ Chew on this issue; _Ho Soo Fong v Ng Chuan Hwa and others_ <span class="citation">[2010] SGDC 8</span> (“the GD”) at [5]. 
 
 15     The second respondent and the Company defended the appellant’s claim on the following grounds: 
 

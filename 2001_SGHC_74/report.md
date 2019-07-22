@@ -361,7 +361,7 @@ proceedings. Finally, s 157(1) provides:
 
  Notwithstanding anything in this Ac t, no purc haser who has bec ome a proprietor shall be subjec t to ac tion for the rec overy of land or of money on the plea that his vendor, or any predec essor in title, may have ac ted in bad faith. 
 
-In **Sum Keong Realty v Syed Jafaralsadeg Alhadad** [1996] 3 SLR 55 at 61, Chao Hick Tin J held 
+In **Sum Keong Realty v Syed Jafaralsadeg Alhadad** <span class="citation">[1996] 3 SLR 55</span> at 61, Chao Hick Tin J held 
 
 that in the light of s 25(2) of the Land Titles Act, it was clear that a caution stated on a qualified 
 
@@ -377,7 +377,7 @@ administrative act in which the Registrar had no discretion. It is therefore of 
 
 such entry has been made in the present case before me. 
 
-**Balwant Singh v Double L & T** [1996] 2 SLR 726 was a case involving the same property as the one 
+**Balwant Singh v Double L & T** <span class="citation">[1996] 2 SLR 726</span> was a case involving the same property as the one 
 
 in the present case. In that case, Balwant Singh had been in adverse possession of a triangular plot 
 
@@ -422,7 +422,7 @@ and the law on adverse possession of both common law land and registered land as
 
  (3) Nothing in this Ac t affec ts the operation of the Limitation Ac t with respec t to the right of a person in adverse possession of land c omprised in a qualified c ertific ate of title where the possession c ommenc ed before the land was brought under the provisions of this Ac t and that right has been protec ted by c aveat. 
 
- Sec tion 42(2) is the prec ursor of s 50 of the new LTA. In Wong Kok Chin v Mah Ten Kui Joseph [1992] 2 SLR 161 , Chan Sek Keong J (as he then was) in delivering the judgment of this c ourt dealt c omprehensively with the provisions 
+ Sec tion 42(2) is the prec ursor of s 50 of the new LTA. In Wong Kok Chin v Mah Ten Kui Joseph <span class="citation">[1992] 2 SLR 161</span> , Chan Sek Keong J (as he then was) in delivering the judgment of this c ourt dealt c omprehensively with the provisions 
 
 
 of the repealed LTA. There the adverse possessor`s oc c upation of the enc roac hed land began in 1969. On 23 August 1974, the land, of whic h the enc roac hed land was a part, was brought under the provisions of the repealed LTA then applic able and a qualified c ertific ate of title issued. On 23 June 1988, the registered proprietor of the land lodged a notic e of reassertion of ownership. On 27 June 1988, the adverse possessor lodged a c aveat c laiming an interest as an adverse possessor of the enc roac hed land. It was held that the adverse possessor`s c laim fell within s 42(3) in that he had five years` adverse possession before the land bec ame registered land. This was an inc hoate interest whic h c rystallised into an indefeasible title by Dec ember 1981 and the registered proprietor`s title was thereby extinguished long before he lodged his reassertion of ownership. At p 172 Chan Sek Keong J stated: 
@@ -563,7 +563,7 @@ At the end of the analysis, the Court of Appeal concluded (at p 735):
 
  Consistent with this view is Wong Kok Chin s c ase and also Tan Eng Khiam v Ultra Realty Pte Ltd [1991] 3 MLJ 234 whic h dealt with a similar c laim as that of Balwants under the repealed LTA. It was held there that where the adverse possessor had c ompleted the requisite period of 12 years possession before the land was brought under the repealed Ac t and a qualified c ertific ate of title issued, the adverse possessors interest would still subsist. This is bec ause where there had been 12 years of adverse possession before the land bec ame registered land, the rights of the doc umentary owner would already have been extinguished before the c onversion to registered land. Ac c ordingly s 50 of the new LTA would not apply to defeat the adverse possessors ac c rued c laim. The adverse possessors c laim in those c irc umstanc es were preserved by s 177(3) of the 1993 LTA. 
 
-In **Shell Eastern Petroleum v Goh Chor Cheok** [2000] 1 SLR 45 , in or about 1961, when developers 
+In **Shell Eastern Petroleum v Goh Chor Cheok** <span class="citation">[2000] 1 SLR 45</span> , in or about 1961, when developers 
 
 built a block of flats on land adjoining the plaintiffs` land, they built a retaining wall which, it was 
 
@@ -591,7 +591,7 @@ Warren Khoo J dismissed the plaintiffs` claim. On the question of the failure to
 
 judge referred to the judgment of the Court of Appeal delivered by Chan Sek Keong J in **Wong Kok** 
 
-**Chin v Mah Ten Kui Joseph** [1992] 2 SLR 161 : 
+**Chin v Mah Ten Kui Joseph** <span class="citation">[1992] 2 SLR 161</span> : 
 
  11 The relevant provisions of s 20 read as follows: 
 
@@ -679,7 +679,7 @@ subsec tion, it lapses `in favour of any purc haser` ...
 
  35 It is my c onc lusion, therefore, that the defendants adverse title, whic h had matured long before the land was brought under the provisions of the Land Titles Ac t, remains valid notwithstanding the fac t that they never lodged any c aveat while the land was subjec t to qualified title and notwithstanding that the plaintiffs title has sinc e bec ome unqualified as a result of the c anc ellation of the c aution. The defendants title, however, stands on an extremely prec arious footing. It is exposed to the risk of being over-reac hed by a purc haser from the plaintiffs, as it has not been notified on the register. That is a c onsequenc e to whic h all persons who have an interest in registered land whic h is not within the exc eptions in s 46 or whic h has not been notified on the register, are exposed. Whether the defendants c an still protec t their interest by lodging a c aveat in ac c ordanc e with the general provisions of s 115 is not a matter before me. 
 
-Similarly, in **Chuan Hong Auto v Shell Eastern Petroleum** [1996] 1 SLR 415 , the Court of Appeal 
+Similarly, in **Chuan Hong Auto v Shell Eastern Petroleum** <span class="citation">[1996] 1 SLR 415</span> , the Court of Appeal 
 
 held that the automatic lapsing of the caution did not affect the interest of equitable lessees of the 
 

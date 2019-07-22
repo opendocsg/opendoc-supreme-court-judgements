@@ -239,7 +239,7 @@ application, acceptance and cancellation) to the Pricing Statement [note: 15] (�
 
 24     The plaintiffs’ position is that the phrase “Terms and Conditions set out in DBS High Notes 5 Pricing Statement in particular Appendix A” should be construed as incorporating the entire Pricing Statement into the terms and conditions of the HN5 contract. This is because there is nothing in the phrase to indicate that only those sections of the Pricing Statement with the words “Terms and Conditions” in their title are so incorporated – the phrase may just as plausibly mean that the terms and conditions of the HN5 contract are “set out” by the entire Pricing Statement. 
 
-25     The parties’ dispute, therefore, concerns the interpretation of the phrase “Terms and Conditions set out in DBS High Notes 5 Pricing Statement”. In _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 (“ _Zurich Insurance_ ”) the Court of Appeal endorsed, at [114], the contextual approach set out by Lord Hoffmann in _Investors Compensation Scheme Ltd v West Bromwich Building Society_ [1998] 1 WLR 896 (“ _Investors_ Compensation”) at 912913, (see also [56] of _Zurich Insurance_ ): 
+25     The parties’ dispute, therefore, concerns the interpretation of the phrase “Terms and Conditions set out in DBS High Notes 5 Pricing Statement”. In _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> (“ _Zurich Insurance_ ”) the Court of Appeal endorsed, at [114], the contextual approach set out by Lord Hoffmann in _Investors Compensation Scheme Ltd v West Bromwich Building Society_ [1998] 1 WLR 896 (“ _Investors_ Compensation”) at 912913, (see also [56] of _Zurich Insurance_ ): 
 
  (1) Interpretation is the ascertainment of the meaning which the document would convey to a reasonable person having all the background knowledge which would reasonably have been available to the parties in the situation in which they were at the time of the contract. 
 
@@ -403,7 +403,7 @@ Although the word “equal” is used in this case, this has to be seen in the c
 
  ... Two conditions must be satisfied: first, there must be a clear mistake on the face of the instrument; secondly, it must be clear what correction ought to be made in order to cure the mistake. If those conditions are satisfied, then the correction is made as a matter of construction ... 
 
-This was endorsed and applied by Belinda Ang J in _Ng Swee Hua v Auston International Group Ltd and another_ [2008] SGHC 241, at [33]-[35], and more recently by the House of Lords in _Chartbrook Ltd and another v Persimmon Homes Ltd and another_ [2009] 1 AC 1101. 
+This was endorsed and applied by Belinda Ang J in _Ng Swee Hua v Auston International Group Ltd and another_ <span class="citation">[2008] SGHC 241</span>, at [33]-[35], and more recently by the House of Lords in _Chartbrook Ltd and another v Persimmon Homes Ltd and another_ [2009] 1 AC 1101. 
 
 48     I find that there is ample basis for correcting the Fourth CERA Description by the removal of the “1 –” in the formula. To the extent that the Fourth CERA Description contradicts the Third CERA Description, this would eliminate that contradiction. 
 

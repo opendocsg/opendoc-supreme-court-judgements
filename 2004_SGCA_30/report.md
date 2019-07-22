@@ -35,7 +35,7 @@ _Arbitration_ – _Conduct of arbitration_ – _Rules_ – _Clause in contract p
 
 5       B&V objected to the application of the SIAC Domestic Rules, and contended that the Arbitration Rules of the SIAC (“the SIAC Rules”) should apply to the proceedings. Jurong then took out an originating summons for the court to decide, on a true construction of the Clause, which set of rules should apply. The parties have, pending the resolution of this dispute, proceeded with the arbitration on the basis that the SIAC Domestic Rules should apply. 
 
-6       The judge below decided that the SIAC Domestic Rules applied to the arbitration between the parties: see _Jurong Engineering Ltd v Black & Veatch Singapore Pte Ltd_ [2004] 1 SLR 333. B&V appealed against this decision and after hearing submissions, we dismissed the appeal with costs. We set out below our reasons. 
+6       The judge below decided that the SIAC Domestic Rules applied to the arbitration between the parties: see _Jurong Engineering Ltd v Black & Veatch Singapore Pte Ltd_ <span class="citation">[2004] 1 SLR 333</span>. B&V appealed against this decision and after hearing submissions, we dismissed the appeal with costs. We set out below our reasons. 
 
 **The SIAC Rules and the SIAC Domestic Rules** 
 

@@ -85,7 +85,7 @@ judge. NTUC Income’s application to amend the defence was not allowed by the t
 
  Another factor that the judge must weigh in the balance is the pressure on the courts caused by the great increase in litigation and the consequent necessity that, in the interests of the whole community, legal business should be conducted efficiently. We can no longer afford to show the same indulgence towards the negligent conduct of litigation as was perhaps possible in a more leisured age. 
 
-18     Lord Griffiths’ approach has been endorsed in a number of local cases, including _Sin Leng Industries Pte Ltd v Ong Chai Teck_ [2006] 2 SLR 235, _Lam Soon Oil and Soap Manufacturing Sdn Bhd v Whang Tar Choung_ [2002] 2 SLR 395 and _Hong Leong Finance Ltd v Famco (S) Pte Ltd_ [1992] 2 SLR 1108. 
+18     Lord Griffiths’ approach has been endorsed in a number of local cases, including _Sin Leng Industries Pte Ltd v Ong Chai Teck_ <span class="citation">[2006] 2 SLR 235</span>, _Lam Soon Oil and Soap Manufacturing Sdn Bhd v Whang Tar Choung_ <span class="citation">[2002] 2 SLR 395</span> and _Hong Leong Finance Ltd v Famco (S) Pte Ltd_ <span class="citation">[1992] 2 SLR 1108</span>. 
 
 19     For the reasons given by the district judge, I agree that the application to amend the defence on the first day of the trial should not be allowed. 
 

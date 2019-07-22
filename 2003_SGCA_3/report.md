@@ -107,7 +107,7 @@ _"Litigation: Evidence and Procedure"_ (16th Edn), at p. 732, stated (at ¶21 of
 
  (iv) there was no intent to convert since Natsyn subsequently made partial payments. 
 
-22     It is clear that conversion may be committed in many ways, the most obvious being to wrongfully take possession, dispose of, or destroy the goods belonging to or in the possession of another. In all cases, the essential element is that of dealing with the goods of another person in such a manner as to constitute an unjustifiable denial of his rights in them or the assertion of rights inconsistent therewith. It is settled law that for a plaintiff to be entitled to sue for conversion he must have actual possession or an immediate right to possession of the goods in question: see _Siew Kong Engineering Works (sued as a firm) v Lian Yit Engineering Sdn Bhd & Anor_ [1993] 2 SLR 505, and _Winfield &_ 
+22     It is clear that conversion may be committed in many ways, the most obvious being to wrongfully take possession, dispose of, or destroy the goods belonging to or in the possession of another. In all cases, the essential element is that of dealing with the goods of another person in such a manner as to constitute an unjustifiable denial of his rights in them or the assertion of rights inconsistent therewith. It is settled law that for a plaintiff to be entitled to sue for conversion he must have actual possession or an immediate right to possession of the goods in question: see _Siew Kong Engineering Works (sued as a firm) v Lian Yit Engineering Sdn Bhd & Anor_ <span class="citation">[1993] 2 SLR 505</span>, and _Winfield &_ 
 
 _Jolowicz on Tort (15th Edition)_ at 597. This was the very point which the Bansals argued that CBI had not established. 
 

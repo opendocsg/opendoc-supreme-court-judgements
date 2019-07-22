@@ -24,7 +24,7 @@ _Criminal Law_ – _Companies_
 
 2       Phang Wah (“Phang”) and Jackie Hoo Choon Cheat (“Hoo”) were charged with one charge under s 340(5) read with s 340(1) of the Companies Act (Cap 50, 2006 Rev Ed) (the “s 340 charge”) as well as with eight charges under ss 409 read with 109 of the Penal Code (Cap 224, 1985 Rev Ed) (the “s 409 charges”). Phang and his wife, Neo Kuon Huay (“Neo”), were tried for six charges under s 477A read with s 109 of the Penal Code (the “s 477A charges”). Where appropriate, Phang, Hoo and Neo are referred to as the “appellants”. 
 
-3       After a joint trial, District Judge Jasvender Kaur (“the DJ”) convicted all three appellants on their respective charges (see _Public Prosecutor v Phang Wah and others_ [2010] SGDC 505 (“ _Phang Wah (DC)_ ”). The DJ sentenced Phang to a total of 9 years’ imprisonment and to pay an aggregate fine of $60,000. She sentenced Hoo to a total of 7 years’ imprisonment and imposed on Neo an aggregate fine of $60,000. Phang and Hoo appealed against their convictions and the sentences imposed while Neo appealed only against her conviction. The Prosecution cross-appealed against the sentences imposed on all three appellants. 
+3       After a joint trial, District Judge Jasvender Kaur (“the DJ”) convicted all three appellants on their respective charges (see _Public Prosecutor v Phang Wah and others_ <span class="citation">[2010] SGDC 505</span> (“ _Phang Wah (DC)_ ”). The DJ sentenced Phang to a total of 9 years’ imprisonment and to pay an aggregate fine of $60,000. She sentenced Hoo to a total of 7 years’ imprisonment and imposed on Neo an aggregate fine of $60,000. Phang and Hoo appealed against their convictions and the sentences imposed while Neo appealed only against her conviction. The Prosecution cross-appealed against the sentences imposed on all three appellants. 
 
 **Background Facts** 
 
@@ -112,7 +112,7 @@ when in fact Sunshine Empire did not operate any substantive profit generating b
 
  (d) Whether the sentences imposed were manifestly excessive (as contended by Phang and Hoo) or manifestly inadequate (as submitted by the prosecution). 
 
-21     It is not in dispute that an appellate court customarily exercises great caution in evaluating factual findings and will not interfere with a trial judge’s findings unless they are plainly wrong ( _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR(R) 1 at [22]). If an appellate court wishes to reverse the trial judge’s decision, it must not merely entertain doubts whether the decision is right but must be convinced that it is wrong ( _ibid_ ). Bearing this in mind, I turn now to analyse the first issue. 
+21     It is not in dispute that an appellate court customarily exercises great caution in evaluating factual findings and will not interfere with a trial judge’s findings unless they are plainly wrong ( _Tan Kiam Peng v Public Prosecutor_ <span class="citation">[2008] 1 SLR(R) 1</span> at [22]). If an appellate court wishes to reverse the trial judge’s decision, it must not merely entertain doubts whether the decision is right but must be convinced that it is wrong ( _ibid_ ). Bearing this in mind, I turn now to analyse the first issue. 
 
 **Section 340 charge** 
 
@@ -263,7 +263,7 @@ affixation of tinsels and other decorations (by way of mall points and EM-Call t
 
  Explanation. – An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy, or with the aid which constitutes the abetment. 
 
-48     In order to constitute the offence of criminal breach of trust, the accused person must be entrusted with the property and must have dishonestly misappropriated it ( _Tan Tze Chye v Public Prosecutor_ [1997] 1 SLR(R) 876 (“ _Tan Tze Chye_ ”) at [36], cited in _Goh Kah Heng v Public Prosecutor_ [2010] 4 SLR 258 at [44]). To “misappropriate” means “to set apart or assign to the wrong person or wrong use” ( _Tan Tze Chye_ at [37]). 
+48     In order to constitute the offence of criminal breach of trust, the accused person must be entrusted with the property and must have dishonestly misappropriated it ( _Tan Tze Chye v Public Prosecutor_ <span class="citation">[1997] 1 SLR(R) 876</span> (“ _Tan Tze Chye_ ”) at [36], cited in _Goh Kah Heng v Public Prosecutor_ <span class="citation">[2010] 4 SLR 258</span> at [44]). To “misappropriate” means “to set apart or assign to the wrong person or wrong use” ( _Tan Tze Chye_ at [37]). 
 
 49     Sections 23 and 24 of the Penal Code provide the following definitions: 
 
@@ -371,7 +371,7 @@ would have to be “declared $0 income”. [note: 1]
 
 261\. No judgment, sentence or order of a District Court or Magistrate’s Court shall be reversed or set aside unless it is shown to the satisfaction of the High Court that the judgment, acquittal, sentence or order was either wrong in law or against the weight of the evidence, or, in the case of a sentence, manifestly excessive or inadequate in the circumstances of the case. 
 
-64     In _Public Prosecutor v Kwong Kok Hing_ [2008] 2 SLR(R) 684 (“ _Kwong Kok Hing_ ”) at [14], the Court of Appeal held that an appellate court will only interfere with a sentence if: 
+64     In _Public Prosecutor v Kwong Kok Hing_ <span class="citation">[2008] 2 SLR(R) 684</span> (“ _Kwong Kok Hing_ ”) at [14], the Court of Appeal held that an appellate court will only interfere with a sentence if: 
 
 
  (a) The trial judge had made the wrong decision as to the proper factual matrix for sentence; 
@@ -380,7 +380,7 @@ would have to be “declared $0 income”. [note: 1]
 
  (c) The sentence was wrong in principle; 
 
- (d) The sentence was manifestly excessive, or manifestly inadequate. A “manifestly inadequate” sentence is one which is “unjustly lenient... and requires substantial alterations rather than minute corrections to remedy the injustice” ( Kwong Kok Hing at [15], citing Public Prosecutor v Siew Boon Loong [2005] 1 SLR(R) 611 at [22]). 
+ (d) The sentence was manifestly excessive, or manifestly inadequate. A “manifestly inadequate” sentence is one which is “unjustly lenient... and requires substantial alterations rather than minute corrections to remedy the injustice” ( Kwong Kok Hing at [15], citing Public Prosecutor v Siew Boon Loong <span class="citation">[2005] 1 SLR(R) 611</span> at [22]). 
 
 65     With these principles in mind, I turn now to consider whether the sentences ordered by the DJ ought to be varied in type, reduced or enhanced, as the case maybe. 
 

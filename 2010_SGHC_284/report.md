@@ -34,7 +34,7 @@ _Conflict of Laws_
 
  (b) That Beckkett be restrained from commencing or continuing any further or other proceedings of any nature in Indonesia or anywhere else in the world against the Bank, its agent and/or employees, in relation to the Bank’s sale in Indonesia of the Pledged Shares (see [7] below) on 21 November 2001. 
 
-3       The application was heard before Assistant Registrar David Lee (the “AR”) over several days. On 12 February 2010, the AR released a long and carefully considered judgment ([2010] SGHC 55) giving his reasons for the following findings (at [122] – [126]): 
+3       The application was heard before Assistant Registrar David Lee (the “AR”) over several days. On 12 February 2010, the AR released a long and carefully considered judgment (<span class="citation">[2010] SGHC 55</span>) giving his reasons for the following findings (at [122] – [126]): 
 
 
  (a) That the legal proceedings in Singapore and Indonesia were duplicative. 
@@ -55,7 +55,7 @@ _Conflict of Laws_
 
 **_Course of the litigation in Singapore_** 
 
-5       The facts giving rise to the original law suit are a matter of public record. They are set out at length in the judgment of the court of first instance, _Beckkett Pte Ltd v Deutsche Bank AG and another_ [2008] 2 SLR(R) 189 and that of the Court of Appeal, _Beckkett Pte Ltd v Deutsche Bank AG and another and another appeal_ [2009] 3 SLR(R) 452. I will summarise them as briefly as possible (relying a great deal on the AR’s account). 
+5       The facts giving rise to the original law suit are a matter of public record. They are set out at length in the judgment of the court of first instance, _Beckkett Pte Ltd v Deutsche Bank AG and another_ <span class="citation">[2008] 2 SLR(R) 189</span> and that of the Court of Appeal, _Beckkett Pte Ltd v Deutsche Bank AG and another and another appeal_ <span class="citation">[2009] 3 SLR(R) 452</span>. I will summarise them as briefly as possible (relying a great deal on the AR’s account). 
 
 6       Beckkett is a Singapore company. It and its subsidiary, PT Swabara Mining and Energy (“SME”), owned shares in PT Asminco Bara Utama (“Asminco”) which in turn owned shares in PT Adaro Indonesia (“Adaro”) which owned a coal mine in Kalimantan. SME, Asminco and Adaro are Indonesian companies. 
 
@@ -159,7 +159,7 @@ I am not going to repeat the arguments that the parties made before the AR in re
 
  (d) Looking at the conduct of the parties as a whole, while there may be have been some delay on the part of the Bank in bringing the application for an anti-suit injunction, that delay did not imbue the application with the lack of bona fides. It was not such a significant delay as to enable the court to reasonably impute a level of mischief or bad faith to the Bank. 
 
-26     Next, the AR dealt with the legal requirements for an anti-suit injunction. He based his analysis on the framework set out in _John Reginald Stott Kirkham and others v Trane US Inc and others_ [2009] 4 SLR(R) 428 (“ _Kirkham_ ”) in relation to the principles to be applied when considering whether to grant an anti-suit injunction. Using this framework, he found: 
+26     Next, the AR dealt with the legal requirements for an anti-suit injunction. He based his analysis on the framework set out in _John Reginald Stott Kirkham and others v Trane US Inc and others_ <span class="citation">[2009] 4 SLR(R) 428</span> (“ _Kirkham_ ”) in relation to the principles to be applied when considering whether to grant an anti-suit injunction. Using this framework, he found: 
 
  (a) That the parties were amenable to the Singapore courts’ jurisdiction since they had been actively engaged in this litigation before the courts for no less than five years. 
 
@@ -187,9 +187,9 @@ I am not going to repeat the arguments that the parties made before the AR in re
 
 are concurrent and duplicate proceedings. I have no reservations about the correctness of that finding. 
 
-29     The authorities show that if duplicate proceedings are conducted concurrently in two different courts or two different jurisdictions by a plaintiff, that plaintiff bears the burden of justifying the continuance of the concurrent proceedings. See _Australian Commercial Research and Development Ltd v ANZ McCaughan Merchant Bank Ltd_ [1989] 3 All ER 65 at 70 and _Yusen Air & Sea Service (S) Pte Ltd v KLM Royal Dutch Airlines_ [1999] 2 SLR(R) 955 (“ _Yusen_ ”) at [27]. In this case, the AR has found that Beckkett was not able to justify the continuance of both the Singapore and the Indonesian proceedings. That finding stands and I have no quarrel with it. 
+29     The authorities show that if duplicate proceedings are conducted concurrently in two different courts or two different jurisdictions by a plaintiff, that plaintiff bears the burden of justifying the continuance of the concurrent proceedings. See _Australian Commercial Research and Development Ltd v ANZ McCaughan Merchant Bank Ltd_ [1989] 3 All ER 65 at 70 and _Yusen Air & Sea Service (S) Pte Ltd v KLM Royal Dutch Airlines_ <span class="citation">[1999] 2 SLR(R) 955</span> (“ _Yusen_ ”) at [27]. In this case, the AR has found that Beckkett was not able to justify the continuance of both the Singapore and the Indonesian proceedings. That finding stands and I have no quarrel with it. 
 
-30     In _Multi-Code Electronics Industries (M) Bhd and another v Toh Chun Toh Gordon and others_ [2009] 1 SLR(R) 1000, Chan Seng Onn J endorsed the legal principles contained in para 933 of _Halsbury’s Laws of England_ vol 37 (Butterworths LexisNexis, 4th Ed Reissue, 2001) as to the options available to the court when there are concurrent and vexatious proceedings in two different jurisdictions. These are: 
+30     In _Multi-Code Electronics Industries (M) Bhd and another v Toh Chun Toh Gordon and others_ <span class="citation">[2009] 1 SLR(R) 1000</span>, Chan Seng Onn J endorsed the legal principles contained in para 933 of _Halsbury’s Laws of England_ vol 37 (Butterworths LexisNexis, 4th Ed Reissue, 2001) as to the options available to the court when there are concurrent and vexatious proceedings in two different jurisdictions. These are: 
 
  (a) to require the plaintiff to elect which set of proceedings he wishes to continue; or 
 
@@ -271,7 +271,7 @@ taking action in Indonesia. In my view, it was an abuse of the process of the Si
 
  considerations of comity grow in importance the longer the foreign suit continues and the more the parties and the judge have engaged in its conduct and management. 
 
-45     Given the advanced stage of the Indonesian action, considerations of comity take on importance. However, those considerations must be weighed against the public policy of the Singapore legal system. In the case of _Q & M Enterprises Sdn Bhd v Poh Kiat_ [2005] 4 SLR(R) 494, Andrew Phang JC stated at [25]: 
+45     Given the advanced stage of the Indonesian action, considerations of comity take on importance. However, those considerations must be weighed against the public policy of the Singapore legal system. In the case of _Q & M Enterprises Sdn Bhd v Poh Kiat_ <span class="citation">[2005] 4 SLR(R) 494</span>, Andrew Phang JC stated at [25]: 
 
  The importance of international comity cannot be underestimated. The domestic courts of each country must constantly remind themselves of this point ... Nevertheless, it ought to be emphasised that the signal importance of the domestic legal system cannot be gainsaid either. Extreme positions on either side of the legal spectrum ought to be avoided. For example, international comity ought not to be accorded if to do so would offend the public policy of the domestic legal system (here, of Singapore). However, that having been said, legal parochialism must also be eschewed. (emphasis in original) 
 

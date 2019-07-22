@@ -174,7 +174,7 @@
 
 8\. He argued that the OS under s 96 of the LPA was provided by statute and did not come within the meaning of a cause of action in the contractual sense under O 15 r 6(2). 
 
-9\. As for the case of _Law Society of Singapore v Disciplinary Committee_ [2000] 4 SLR 413, a decision by Lim Teong Qwee JC, as he then was, Mr Wee pointed out that that was not a case whereby the solicitors concerned applied to be heard under O 15 r 6(2) but that the right to be heard by the solicitors concerned was under the rules of natural justice applicable to all judicial or quasi-judicial proceedings. He accepted that under such rules, the Solicitors would have a right to be heard at the hearing of the OS. 
+9\. As for the case of _Law Society of Singapore v Disciplinary Committee_ <span class="citation">[2000] 4 SLR 413</span>, a decision by Lim Teong Qwee JC, as he then was, Mr Wee pointed out that that was not a case whereby the solicitors concerned applied to be heard under O 15 r 6(2) but that the right to be heard by the solicitors concerned was under the rules of natural justice applicable to all judicial or quasi-judicial proceedings. He accepted that under such rules, the Solicitors would have a right to be heard at the hearing of the OS. 
 
 10\. Mr Wee also argued that it would be impossible if every solicitor is permitted to intervene in an application made under s 96 of the LPA. 
 

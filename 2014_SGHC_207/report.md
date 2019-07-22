@@ -20,7 +20,7 @@ _Contract_ – _mistake_ – _non est factum_
 
 _Evidence_ – _proof of evidence_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 112 of 2014 was allowed by the Court of Appeal on 28 July 2015. See [2015] SGCA 36.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 112 of 2014 was allowed by the Court of Appeal on 28 July 2015. See <span class="citation">[2015] SGCA 36</span>.] 
 
 17 October 2014 
 
@@ -200,7 +200,7 @@ _The applicable provision in the Limitation Act_
 
 49     I did not agree with Mr Sahagar’s submission that s 6 of the Limitation Act did not apply because the Plaintiffs’ claim was an action to recover land (which under s 9 has a 12-year limitation period) or, alternatively, a claim to any share of Father’s estate (which under s 23 has no limitation period). 
 
-50     First, s 9 of the Limitation Act applies to cases involving a cause of action for the recovery of land that is premised on an existing proprietary right. For example, Steven Chong J in the High Court case of _Teh Siew Hua v Tan Kim Chiong_ [2010] 4 SLR 123 noted at [40] that s 9 is concerned with an action by a person with legal title to the land against an adverse possessor. In another High Court case, _Tay Tuan Kiat and another v Pritnam Singh Brar_ [1985-1986] SLR(R) 763, L P Thean J considered a claim for an order to demolish an existing retaining wall and to build a new wall in its place but in a different location, as falling within s 9 because it gave the plaintiff possession of a portion of property that had been encroached upon. 
+50     First, s 9 of the Limitation Act applies to cases involving a cause of action for the recovery of land that is premised on an existing proprietary right. For example, Steven Chong J in the High Court case of _Teh Siew Hua v Tan Kim Chiong_ <span class="citation">[2010] 4 SLR 123</span> noted at [40] that s 9 is concerned with an action by a person with legal title to the land against an adverse possessor. In another High Court case, _Tay Tuan Kiat and another v Pritnam Singh Brar_ [1985-1986] SLR(R) 763, L P Thean J considered a claim for an order to demolish an existing retaining wall and to build a new wall in its place but in a different location, as falling within s 9 because it gave the plaintiff possession of a portion of property that had been encroached upon. 
 
 51     A breach of an agreement over the administration and division of an estate is not a cause of action for the recovery of land premised on an existing proprietary right. 
 
@@ -234,7 +234,7 @@ _Further reasons against time-bar_
 
 2013 was therefore well within the limitation period. 
 
-61     It is a prerequisite of s 29(1)( _b_ ) of the Limitation Act that the “right of action is concealed by the fraud of [the defendant]”. In other words, at the minimum, the Plaintiffs had to show that Dawood had “knowingly or recklessly committed a wrongdoing in secret without telling [the Plaintiffs]” (see _Bank of America National Trust and Savings Association v Herman Iskandar_ [1998] 1 SLR(R) 848 (“ _Bank of America_ ”) at [73]–[75] which was cited with approval by the Court of Appeal in _Chua Teck Chew Robert v Goh Eng Wah_ [2009] 4 SLR(R) 716 (“ _Goh Eng Wah_ ”) at [27]). 
+61     It is a prerequisite of s 29(1)( _b_ ) of the Limitation Act that the “right of action is concealed by the fraud of [the defendant]”. In other words, at the minimum, the Plaintiffs had to show that Dawood had “knowingly or recklessly committed a wrongdoing in secret without telling [the Plaintiffs]” (see _Bank of America National Trust and Savings Association v Herman Iskandar_ <span class="citation">[1998] 1 SLR(R) 848</span> (“ _Bank of America_ ”) at [73]–[75] which was cited with approval by the Court of Appeal in _Chua Teck Chew Robert v Goh Eng Wah_ <span class="citation">[2009] 4 SLR(R) 716</span> (“ _Goh Eng Wah_ ”) at [27]). 
 
 62     To address this issue, it was necessary to descend into the facts. Unlike most of the other pleas of limitation periods which are typically disposed of as a preliminary issue by way of a summary judgment application (see Andrew McGee, _Limitation Periods_ (Sweet & Maxwell, 2005) (“ _McGee_ ”) at para 21.007), the specific issue of the postponement of the limitation period because of fraud and concealment is, in some cases, unsuitable for preliminary determination. This is because the question of fraud and concealment, which further brings into question the plaintiff’s diligence in discovering the fraud or concealment, often turns on the proving of a myriad of facts which are hotly contested: see for _eg_ , _Bank America_ and _Goh Eng Wah_. 
 
@@ -345,7 +345,7 @@ simultaneously accepted the offer by the others to do the same. Aysha said she c
 
 lying and everything thereon could not be believed), or conversely, the Plaintiffs were all present on 27 February 2004 (which meant that the Plaintiffs were all lying about signing single signature pages at home, with the corollary that Dawood and the Solicitors were telling the truth). 
 
-99     Although I am cognisant of the firm rule of evidence that the evidence of a witness ought not to be rejected completely simply because the witness was unreliable or untrue in some parts, recently emphasised by the Court of Appeal in _Alwie Handoyo v Tjong Very Sumito and another and another appeal_ [2013] 4 SLR 308 at [59]–[61], both sides had organised their case and mustered their evidence on an all-or-nothing basis – the entire case theory put forward by either side on the circumstances surrounding the signing of the Deed of Renunciation of Beneficial Interest had to be accepted or rejected in full. There was no room for any middle ground. 
+99     Although I am cognisant of the firm rule of evidence that the evidence of a witness ought not to be rejected completely simply because the witness was unreliable or untrue in some parts, recently emphasised by the Court of Appeal in _Alwie Handoyo v Tjong Very Sumito and another and another appeal_ <span class="citation">[2013] 4 SLR 308</span> at [59]–[61], both sides had organised their case and mustered their evidence on an all-or-nothing basis – the entire case theory put forward by either side on the circumstances surrounding the signing of the Deed of Renunciation of Beneficial Interest had to be accepted or rejected in full. There was no room for any middle ground. 
 
 100    In my judgment, for the following reasons, I found Dawood, Mr Singh and Ms Kaur’s combined testimony that the Plaintiffs were all present in the Solicitors’ office on 27 February 2004 to be more credible. 
 
@@ -530,7 +530,7 @@ the Deed of Renunciation of Beneficial Interest, a substantially more important 
 
 _Dawood’s 2004 Agreement_ 
 
-153    Notwithstanding my decision on the Plaintiffs’ 2004 Agreement, as mentioned right at the very outset, I did not accept Dawood’s version of events in 2004, either. Mr Zhulkarnain acknowledged, in his submissions, that it was open to me to reject both the Plaintiffs’ and Dawood’s characterisation of the events. Mr Zhulkarnain referred to _Loo Chay Sit v Estate of Loo Chay Loo, deceased_ [2010] 1 SLR 286 in which the Court of Appeal said (at [21]): 
+153    Notwithstanding my decision on the Plaintiffs’ 2004 Agreement, as mentioned right at the very outset, I did not accept Dawood’s version of events in 2004, either. Mr Zhulkarnain acknowledged, in his submissions, that it was open to me to reject both the Plaintiffs’ and Dawood’s characterisation of the events. Mr Zhulkarnain referred to _Loo Chay Sit v Estate of Loo Chay Loo, deceased_ <span class="citation">[2010] 1 SLR 286</span> in which the Court of Appeal said (at [21]): 
 
  ... The insufficiency of the evidence adduced to prove the fact asserted could also be a result of the adduction of evidence by the opposing party which undermines that assertion. For instance, a party may be seeking to prove the existence of a particular fact and has adduced evidence in support of it. The opposing party, however, may be able to adduce some evidence as to the nonexistence of that fact. Such evidence may not be sufficient on its own for the court to conclude that, on a balance of probabilities, the fact does not exist so as to be “disproved”. Such evidence may, nevertheless, sufficiently undermine the case of the party asserting the fact so as to cause doubt as to its existence with the result that the party is unable to discharge his burden of proving the fact. As a result, the fact concerned is “ not proved ”. [emphasis in original] 
 
@@ -576,7 +576,7 @@ and that this agreement was Dawood’s 2004 Agreement. The rule that he who asse
 
 169    Section 128 of the Land Titles Act permits compensation to any party who sustains pecuniary loss that is attributable to a person who had lodged a caveat wrongfully, vexatiously or without reasonable cause. 
 
-170    In _Ho Soo Fong and another v Standard Chartered Bank_ [2007] 2 SLR(R) 181, the Court of Appeal held (at [35]) that “without reasonable cause” is present where the caveator has no honest belief based on reasonable grounds that he has a caveatable interest. A “caveatable interest” simply means an interest in land which, because it is recognised by the law as such, can be availed protection by way of a caveat. Hence, only persons who have an interest in land (as defined by s 4(1) of the Land Titles Act) may lodge a caveat over that land: see _Aamna Taseer v Shaan Taseer and others_ [2012] 2 SLR 348 at [3]. 
+170    In _Ho Soo Fong and another v Standard Chartered Bank_ <span class="citation">[2007] 2 SLR(R) 181</span>, the Court of Appeal held (at [35]) that “without reasonable cause” is present where the caveator has no honest belief based on reasonable grounds that he has a caveatable interest. A “caveatable interest” simply means an interest in land which, because it is recognised by the law as such, can be availed protection by way of a caveat. Hence, only persons who have an interest in land (as defined by s 4(1) of the Land Titles Act) may lodge a caveat over that land: see _Aamna Taseer v Shaan Taseer and others_ <span class="citation">[2012] 2 SLR 348</span> at [3]. 
 
 171    On the basis of my decision that there was no Plaintiffs’ 2004 Agreement, the Plaintiff Siblings could not claim to have any interest in the Property arising from Dawood’s breach of the Plaintiff’s 2004 Agreement. They could not even have held an honest belief that they had a caveatable interest from the very beginning because, on the Plaintiffs’ own case, the terms of the Plaintiffs’ 2004 Agreement was for the Property to be registered in Mother’s sole name. 
 

@@ -341,11 +341,11 @@ must be considered together with any other relevant matter.
 
 **_The appropriate damages_** 
 
-81     The plaintiff tendered written submissions on damages, setting out most, if not all, of the awards made to the plaintiff as the Prime Minister and the Senior Minister and to Mr Goh as the Prime Minister. Counsel specifically drew attention to the advice given by the Court of Appeal in _Tang Liang Hong v Lee Kuan Yew_ [1998] 1 SLR 97 where L P Thean JA, in delivering the judgment of the court, noted at [158]: 
+81     The plaintiff tendered written submissions on damages, setting out most, if not all, of the awards made to the plaintiff as the Prime Minister and the Senior Minister and to Mr Goh as the Prime Minister. Counsel specifically drew attention to the advice given by the Court of Appeal in _Tang Liang Hong v Lee Kuan Yew_ <span class="citation">[1998] 1 SLR 97</span> where L P Thean JA, in delivering the judgment of the court, noted at [158]: 
 
  [T]here appears to be a trend of such damages rising steadily and significantly over the past few years, and in a few recent cases, each successive award appeared to overtop the preceding one. Such a trend should be discouraged; otherwise, damages for defamation would mount and eventually become extremely high, ranking almost with the grossly exorbitant awards so often made by juries in other jurisdictions. 
 
-82     Subsequently, the Court of Appeal delivered another judgment in _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ [1998] 3 SLR 337 (the decision of the High Court from which some facts stated herein are taken is reported in [1998] 1 SLR 547), which is particularly relevant for consideration. I shall refer to this case as _Goh v Jeyaretnam_. 
+82     Subsequently, the Court of Appeal delivered another judgment in _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ <span class="citation">[1998] 3 SLR 337</span> (the decision of the High Court from which some facts stated herein are taken is reported in <span class="citation">[1998] 1 SLR 547</span>), which is particularly relevant for consideration. I shall refer to this case as _Goh v Jeyaretnam_. 
 
 83     In that case, the plaintiff was then the Prime Minister. The defendant, Mr Jeyaretnam, was standing as an opposition candidate in parliamentary elections together with Mr Tang Liang Hong (“Mr Tang”). In the course of the campaign, Mr Goh declared that Mr Tang was unsuited to be a Member of Parliament as he was anti-Christian and was a Chinese chauvinist. Mr Tang was indignant at these remarks and he made two police reports. 
 

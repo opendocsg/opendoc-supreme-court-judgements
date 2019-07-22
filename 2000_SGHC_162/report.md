@@ -341,7 +341,7 @@ the Appeals Board. She promptly appealed to the Minister for Law by a letter dat
 
 38     Mr Singh’s detailed reply to the concerns addressed by Senior State Counsel had a persuasive ring to it – not to mention the force of logic and well structured propositions of law. Presently, he invited my attention to a test enunciated by the Singapore 
 
-## Court of Appeal in Chan Hiang Leng Colin v Minister for Information and the Arts [1996] 1 SLR 609 (CA) at 616 where it was 
+## Court of Appeal in Chan Hiang Leng Colin v Minister for Information and the Arts <span class="citation">[1996] 1 SLR 609</span> (CA) at 616 where it was 
 
 stated by Karthigesu JA: 
 

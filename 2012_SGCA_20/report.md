@@ -18,7 +18,7 @@ _Contract_
 
 _Conflict of Laws_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2011] SGHC 130.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2011] SGHC 130</span>.] 
 
 19 March 2012 
 
@@ -26,7 +26,7 @@ _Conflict of Laws_
 
 **Introduction** 
 
-1       This was an appeal against the decision of the High Court judge (“the Judge”) in Originating Summons No 118 of 2011 (“the Singapore Action”): see _SetClear Pte Ltd and others v Ashlock William Grover_ [2011] SGHC 130 (“the GD”) where he ruled in favour of the plaintiffs on the construction of an agreement and in consequence thereof he issued an anti-suit injunction against the defendant. In the Singapore Action, William Grover Ashlock (“the Appellant”) was the defendant while SetClear Pte Ltd, CLSA Limited, SetClear Inc, Credit Agricole Securities (USA) Inc (Formerly known as Caylon 
+1       This was an appeal against the decision of the High Court judge (“the Judge”) in Originating Summons No 118 of 2011 (“the Singapore Action”): see _SetClear Pte Ltd and others v Ashlock William Grover_ <span class="citation">[2011] SGHC 130</span> (“the GD”) where he ruled in favour of the plaintiffs on the construction of an agreement and in consequence thereof he issued an anti-suit injunction against the defendant. In the Singapore Action, William Grover Ashlock (“the Appellant”) was the defendant while SetClear Pte Ltd, CLSA Limited, SetClear Inc, Credit Agricole Securities (USA) Inc (Formerly known as Caylon 
 
 Securities (USA) Inc) and IX Net Holding Limited (individually the “1st Respondent”, “2nd Respondent”, 
 
@@ -364,7 +364,7 @@ _The grant of the anti-suit injunction following the Judge’s construction of c
 
 32     Following from the above, it seemed to us entirely logical for the Judge, after holding that cl 14 did preclude the Appellant from claiming against the Respondents for the founder benefits, to proceed to grant the anti-suit injunction in the present case. 
 
-33     At [40] of the GD, the Judge applied his mind to the principles applicable to the grant of antisuit injunctions, having regard to the case of _John Reginald Stott Kirkham and others v Trane US Inc and others_ [2009] 4 SLR(R) 428 (“ _John Reginald Stott Kirkham_ ”) and other cases cited therein. The fact that the Judge was conscious of those principles can be found in [42] of the GD where some considerations, reminiscent of those highlighted in what may be considered the _locus classicus_ on anti-suit injunctions ( _ie_ , _Société Nationale Industrielle Aérospatiale v Lee Kui Jak_ [1987] AC 871), could be detected: 
+33     At [40] of the GD, the Judge applied his mind to the principles applicable to the grant of antisuit injunctions, having regard to the case of _John Reginald Stott Kirkham and others v Trane US Inc and others_ <span class="citation">[2009] 4 SLR(R) 428</span> (“ _John Reginald Stott Kirkham_ ”) and other cases cited therein. The fact that the Judge was conscious of those principles can be found in [42] of the GD where some considerations, reminiscent of those highlighted in what may be considered the _locus classicus_ on anti-suit injunctions ( _ie_ , _Société Nationale Industrielle Aérospatiale v Lee Kui Jak_ [1987] AC 871), could be detected: 
 
  42 I agreed with [counsel for the Respondents] that if I were to interpret cl 14 in the [Respondents’] favour, then an anti-suit injunction ought, generally speaking, to be granted to enforce my ruling since [the Appellant] had submitted to the jurisdiction of the Singapore courts. Indeed he is currently working in Singapore. The general rule is subject to [the Appellant] showing a special or exceptional reason why the injunction should not be granted. No such reason was shown. All [counsel for the Appellant] could say was that the American Action was at an advanced stage but that was no reason to allow [the Appellant] to continue with it once a final ruling was given by a competent court whose jurisdiction he had submitted to. In the light of my ruling on the interpretation of cl 14, the American Action against the [Respondents] was both in breach of cl 14 and vexatious and oppressive. 
 
@@ -419,9 +419,9 @@ _the foreign proceedings are in breach of contract. The relevant principles in t
 
 36     Having regard to the foregoing and the reasons given by the Judge at [41]-[42] of the GD, we did not see anything to suggest that the Judge had erred in his decision to grant the anti-suit injunction after deciding on the underlying merits of the Singapore Action. 
 
-37     For completeness, we wish to add that even assuming that the principles governing the grant of _interlocutory_ anti-suit injunctions were to be applied _unmodified_ in the present case, the grant of the anti-suit injunction would be justified. The general principles governing the grant of _interlocutory_ anti-suit injunctions are set out at [35] above and will not be repeated here. As far as local authorities are concerned, the position has been established by this Court in _John Reginald Stott Kirkham_ at [28]-[29] where the approach taken by the High Court in _Evergreen International SA v Volkswagen Group Singapore Pte Ltd_ [2004] 2 SLR(R) 457 at [16] (“ _Evergreen International SA_ ”) was approved: 
+37     For completeness, we wish to add that even assuming that the principles governing the grant of _interlocutory_ anti-suit injunctions were to be applied _unmodified_ in the present case, the grant of the anti-suit injunction would be justified. The general principles governing the grant of _interlocutory_ anti-suit injunctions are set out at [35] above and will not be repeated here. As far as local authorities are concerned, the position has been established by this Court in _John Reginald Stott Kirkham_ at [28]-[29] where the approach taken by the High Court in _Evergreen International SA v Volkswagen Group Singapore Pte Ltd_ <span class="citation">[2004] 2 SLR(R) 457</span> at [16] (“ _Evergreen International SA_ ”) was approved: 
 
- 28 In Evergreen International SA v Volkswagen Group Singapore Pte Ltd [2004] 2 SLR(R) 457 (" Evergreen International SA "), Belinda Ang Saw Ean J ("Ang J") stated that she had to consider the following elements in determining whether an anti-suit injunction ought to be granted in the case (at [16]): 
+ 28 In Evergreen International SA v Volkswagen Group Singapore Pte Ltd <span class="citation">[2004] 2 SLR(R) 457</span> (" Evergreen International SA "), Belinda Ang Saw Ean J ("Ang J") stated that she had to consider the following elements in determining whether an anti-suit injunction ought to be granted in the case (at [16]): 
 
  (a) whether the defendants are amenable to the jurisdiction of the Singapore court; 
 
@@ -432,7 +432,7 @@ _the foreign proceedings are in breach of contract. The relevant principles in t
 
  (d) the alleged injustice to the defendants as an injunction would deprive the defendants of the advantages sought in the foreign proceedings. 
 
- 29 In our view, this is as good a list as any with only one qualification, which would constitute a fifth element whether the institution of the foreign proceedings is in breach of any agreement between the parties (see South Carolina Insurance Co v Assurantie Maatschappij "De Zeven Provincien" NV [1987] AC 24). Where there is such an agreement, the court may not feel diffident about granting an anti-suit injunction as it would only be enforcing a contractual promise and the question of international comity is not as relevant (see The Angelic Grace [1995] 1 Lloyd's Rep 87 at 96 and WSG Nimbus Pte Ltd v Board of Control for Cricket in Sri Lanka [2002] 1 SLR(R) 1088 at [91]). However, as far as the present case was concerned, this element did not come into play as there was no such agreement between the parties. That said, we will now examined each of these elements in relation to the facts and circumstances of the present case, although one could say that the third and fourth elements are really quite closely related, being two sides of the same coin. 
+ 29 In our view, this is as good a list as any with only one qualification, which would constitute a fifth element whether the institution of the foreign proceedings is in breach of any agreement between the parties (see South Carolina Insurance Co v Assurantie Maatschappij "De Zeven Provincien" NV [1987] AC 24). Where there is such an agreement, the court may not feel diffident about granting an anti-suit injunction as it would only be enforcing a contractual promise and the question of international comity is not as relevant (see The Angelic Grace [1995] 1 Lloyd's Rep 87 at 96 and WSG Nimbus Pte Ltd v Board of Control for Cricket in Sri Lanka <span class="citation">[2002] 1 SLR(R) 1088</span> at [91]). However, as far as the present case was concerned, this element did not come into play as there was no such agreement between the parties. That said, we will now examined each of these elements in relation to the facts and circumstances of the present case, although one could say that the third and fourth elements are really quite closely related, being two sides of the same coin. 
 
 38     In line with the approach elaborated in _John Reginald Stott Kirkham_ quoted above, we also saw a preponderance of factors which weighed in favour of granting an anti-suit injunction in our present case. These factors were: 
 
@@ -449,7 +449,7 @@ _the foreign proceedings are in breach of contract. The relevant principles in t
 
  American Action; and 
 
- (f) An anti-suit injunction in the present case would not, strictly-speaking, offend against the notion of international comity because the injunction would effectively be no more than an in personam order made against the Appellant following his breach of a specific contractual promise encapsulated in cl 14: see Bank of America National Trust and Savings Association v Djoni Widjaja [1994] 2 SLR(R) 898 at [11] and [24] and The Angelic Grace [1995] 1 Ll Rep 87 quoted in [35] above. 
+ (f) An anti-suit injunction in the present case would not, strictly-speaking, offend against the notion of international comity because the injunction would effectively be no more than an in personam order made against the Appellant following his breach of a specific contractual promise encapsulated in cl 14: see Bank of America National Trust and Savings Association v Djoni Widjaja <span class="citation">[1994] 2 SLR(R) 898</span> at [11] and [24] and The Angelic Grace [1995] 1 Ll Rep 87 quoted in [35] above. 
 
 **Conclusion** 
 
@@ -458,7 +458,7 @@ _the foreign proceedings are in breach of contract. The relevant principles in t
 [note: 1] (^) Appellant’s Core Bundle Vol II, pp 8-9. [note: 2] (^) Appellant’s Core Bundle Vol II, p 27. [note: 3] (^) Appellant’s Core Bundle Vol II, p 30. [note: 4] (^) Appellant’s Core Bundle Vol II, p 11 para 32. [note: 5] (^) Respondent’s Case, p 11 para 11. [note: 6] (^) Appellant’s Core Bundle Vol II, pp 50-3. [note: 7] (^) Appellant’s Core Bundle Vol II, p 54. [note: 8] (^) Ibid. [note: 9] (^) Respondent’s Core Bundle, pp 1 and 3. [note: 10] (^) Respondent’s Core Bundle, p 1. [note: 11] (^) Respondent’s Core Bundle, p 3. [note: 12] (^) Appellant’s Core Bundle Vol II, p 62. [note: 13] (^) ROA Vol II, pp 5-7. [note: 14] (^) Appellant’s Core Bundle Vol I, pp 4-5. [note: 15] (^) ORC 2282/2011 (Order Made In Chambers), Order 3. [note: 16] (^) Appellant’s Skeletal Submissions, [9]. [note: 17] (^) Appellant’s Case, pp 22-3. 
 
 
-[note: 18] (^) Appellant’s Core Bundle Vol II, p 50. [note: 19] (^) Appellant’s Core Bundle Vol II, p 53. [note: 20] (^) Appellant’s Case, pp 30-2. [note: 21] (^) Respondents’ Case, p 41. [note: 22] (^) Respondents’ Case, pp 40-1. [note: 23] (^) Respondents’ Case, p 50. [note: 24] (^) On meaning of “amenable” to a jurisdiction, see _Koh Kay Yew v Inno-Pacific Holdings Ltd_ [1997] 2 SLR(R) 148 at [17]. [note: 25] (^) Respondents’ Case, p 76. [note: 26] (^) Ibid. [note: 27] (^) Ibid. [note: 28] (^) Appellant’s Case, pp 49-51. Copyright © Government of Singapore. 
+[note: 18] (^) Appellant’s Core Bundle Vol II, p 50. [note: 19] (^) Appellant’s Core Bundle Vol II, p 53. [note: 20] (^) Appellant’s Case, pp 30-2. [note: 21] (^) Respondents’ Case, p 41. [note: 22] (^) Respondents’ Case, pp 40-1. [note: 23] (^) Respondents’ Case, p 50. [note: 24] (^) On meaning of “amenable” to a jurisdiction, see _Koh Kay Yew v Inno-Pacific Holdings Ltd_ <span class="citation">[1997] 2 SLR(R) 148</span> at [17]. [note: 25] (^) Respondents’ Case, p 76. [note: 26] (^) Ibid. [note: 27] (^) Ibid. [note: 28] (^) Appellant’s Case, pp 49-51. Copyright © Government of Singapore. 
 
 
 Source: [link](https://www.singaporelawwatch.sg/Portals/0/Docs/Judgments/[2012] SGCA 20.pdf)

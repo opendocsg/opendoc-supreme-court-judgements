@@ -73,7 +73,7 @@ veil and make the 2nd defendant personally liable for the outstanding sums arisi
 
 8       On the issue of delay, O18 r 19(1) of the Rules states that “The Court may _at any stage_ of the proceedings order to be struck out or amended any pleading...” [emphasis added]. 
 
-9       While an application to strike out a pleading should be made as soon as possible, a late application is not doomed to failure (see _Tapematic SpA v Wirana Pte Ltd and another [2002] 1 SLR(R) 44 at [66], approved in Orient Centre Investments Ltd and another v Societe Generale [2007] 3 SLR(R) 566 (“Orient Centre”) at [61])._ 
+9       While an application to strike out a pleading should be made as soon as possible, a late application is not doomed to failure (see _Tapematic SpA v Wirana Pte Ltd and another <span class="citation">[2002] 1 SLR(R) 44</span> at [66], approved in Orient Centre Investments Ltd and another v Societe Generale <span class="citation">[2007] 3 SLR(R) 566</span> (“Orient Centre”) at [61])._ 
 
 10     Although the Writ of Summons was filed on 17 May 2012, due to various interlocutory applications, pleadings only closed on 14 December 2012. Parties filed their list of documents on 7 February 2013. As parties have just completed discovery, I am of the view that proceedings are still at an early stage and there are no grounds to hold that this application should not be allowed due to delay. 
 
@@ -88,7 +88,7 @@ Bearing this in mind, it was reasonable for the 2nd defendant to assess the case
 seek specific discovery from the 2nd defendant, the 2nd defendant is using this application to avoid providing discovery and so this is a proceeding “ _where the process of the court is not being fairly or honestly used but is employed instead for some ulterior or improper purpose or in an improper way_ ”. The plaintiff is relying on the second category of proceedings that would amount to abuse stated in 
 
 
-_Chee Siok Chin v Minister for Home Affairs [2006] 1 SLR(R) 582 approved at [71] of NCC International AB v Alliance Concrete Singapore Pte Ltd [2008] 2 SLR(R) 565]._ 
+_Chee Siok Chin v Minister for Home Affairs <span class="citation">[2006] 1 SLR(R) 582</span> approved at [71] of NCC International AB v Alliance Concrete Singapore Pte Ltd <span class="citation">[2008] 2 SLR(R) 565</span>]._ 
 
 14     While the timing of this application does appear to support the plaintiff’s argument, I find that, the timing of the application by itself, would be insufficient to elevate this application to one which is an abuse of process. This is especially since a striking out application may be filed at any time and I 
 
@@ -100,13 +100,13 @@ disclosure of the 2nd defendant’s documents.
 
 **_No reasonable cause of action – O18 r19 (a) of the Rules_** 
 
-16     The law relating to O18 r19(a) is well established. See _Ng Chee Weng v Lim Jit Ming Bryan [2012] 1 SLR 457_ (“ _Ng Chee Weng_ ”) where the Court of Appeal held at [112]: 
+16     The law relating to O18 r19(a) is well established. See _Ng Chee Weng v Lim Jit Ming Bryan <span class="citation">[2012] 1 SLR 457</span>_ (“ _Ng Chee Weng_ ”) where the Court of Appeal held at [112]: 
 
  ...The pleading itself must fail to make out a reasonable cause of action without reference to other evidence before it can be struck out under limb (a).... 
 
 17     The Court of Appeal in _Ng Chee Weng_ also held at [110]: 
 
- ...The draconian power of the court to strike out a claim at the interlocutory stage under limb (a) of O 18 r 19(1) can only be exercised when it is patently clear that there is no reasonable cause of action on the fact of the pleadings. The mere fact that a case is weak and not likely to succeed is not a valid ground for striking out a claim under this ground. In the Singapore High Court decision of Active Timber Agencies Pte Ltd v Allen & Gledhill [1995] 3 SLR(R) 334 , Rubin J held (at [13]) that: 
+ ...The draconian power of the court to strike out a claim at the interlocutory stage under limb (a) of O 18 r 19(1) can only be exercised when it is patently clear that there is no reasonable cause of action on the fact of the pleadings. The mere fact that a case is weak and not likely to succeed is not a valid ground for striking out a claim under this ground. In the Singapore High Court decision of Active Timber Agencies Pte Ltd v Allen & Gledhill <span class="citation">[1995] 3 SLR(R) 334</span> , Rubin J held (at [13]) that: 
 
  ...a reasonable cause of action means a cause of action with some prospect of success when only the allegations in the pleadings are considered....Another principle enunciated by the courts over the years underpins the proposition that so long as the statement of claim or the particulars disclose some cause of action or raise some question to be decided by a judge..., the mere fact that the case is weak and not likely to succeed, is no ground for striking it out... 
 
@@ -123,7 +123,7 @@ _Alter ego_
 20     The separate legal personality of a company was established in the case of _Aron Solomon (Pauper) v A Salomon and Company, Limited ]1897] AC 22_ and is an accepted principle of law. However, the corporate veil may be pierced if the company is no more than an alter ego of its director. 
 
 
-21     The key question to be asked is this: is the company carrying on the business of its controller? This is inevitably a question of fact. However, what is clear is that evidence of sole shareholding and control of the company without more will not move the court to intervene. Further, the mere fact that the director used the pronoun “I” when referring to the company’s actions is not sufficient to show that the director was the controller of the company. [See _NEC Asia Pte Ltd v Picket & Rail Asia Pacific Pte Ltd [2011] 2 SLR 565 (“NEC Asia”) at [31] and [36]_ ]. 
+21     The key question to be asked is this: is the company carrying on the business of its controller? This is inevitably a question of fact. However, what is clear is that evidence of sole shareholding and control of the company without more will not move the court to intervene. Further, the mere fact that the director used the pronoun “I” when referring to the company’s actions is not sufficient to show that the director was the controller of the company. [See _NEC Asia Pte Ltd v Picket & Rail Asia Pacific Pte Ltd <span class="citation">[2011] 2 SLR 565</span> (“NEC Asia”) at [31] and [36]_ ]. 
 
 22     In the Statement of Claim, the plaintiff relies on the following to establish his case that the 1st 
 
@@ -215,13 +215,13 @@ claim against the 2nd defendant should be struck out.
 
 **_Amendment_** 
 
-33     In making my decision to strike out the claim against the 2nd defendant, I am aware of the proposition that a court should not strike out a case if the defect or deficiency could be cured by way of amendment. See _Ching Mun Fong v Liu Cho Chit [2000] 1 SLR(R) 53 (“Ching Mun Fong”)_. 
+33     In making my decision to strike out the claim against the 2nd defendant, I am aware of the proposition that a court should not strike out a case if the defect or deficiency could be cured by way of amendment. See _Ching Mun Fong v Liu Cho Chit <span class="citation">[2000] 1 SLR(R) 53</span> (“Ching Mun Fong”)_. 
 
 34     The plaintiff has submitted that, even if the pleadings are insufficient, the 2nd defendant has not sought any particulars and amendments to the pleading may be made, if necessary. First, it is not 
 
 for the 2nd defendants to seek particulars to remedy and shore up the plaintiff’s inadequate pleadings. It is for the plaintiff to ensure that his pleadings are adequate to show that there is a reasonable 
 
-cause of action. Second, despite the vigorous attack on the pleadings by the 2nd defendant during the course of submissions before me, the plaintiff has not indicated that any amendments to the pleadings are required and stand by their pleading. Therefore, the proposition in _Ching Mun Fong_ has no application here. See _Kim Hok Yung v Cooperative Centrale Raiffeisen-Boerenleenbank BA_ [2000] 2 SLR(R) 455 at [18]. 
+cause of action. Second, despite the vigorous attack on the pleadings by the 2nd defendant during the course of submissions before me, the plaintiff has not indicated that any amendments to the pleadings are required and stand by their pleading. Therefore, the proposition in _Ching Mun Fong_ has no application here. See _Kim Hok Yung v Cooperative Centrale Raiffeisen-Boerenleenbank BA_ <span class="citation">[2000] 2 SLR(R) 455</span> at [18]. 
 
 **Conclusion** 
 

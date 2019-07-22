@@ -43,7 +43,7 @@ share in the equity of the company. The 4th Defendant, Pey Ciew Chang (“D4”)
 
 6       The close relationship between the Plaintiff and Articon was not denied. The Plaintiff had a 35% shareholding in Articon and another 16.6% were held by D4. D4 was a director of Articon from 1983 to 1999. 
 
-7       In Civil Appeal no. 50 of 2000 reported in [2000] 4 SLR 548, the Court of Appeal allowed Capital Realty’s appeal for the repayment of an outstanding loan in the sum of $500,000. The appellate court found that the various payments made by Capital Realty were loans to the Plaintiff and judgment was entered against the Plaintiff. The Plaintiff defaulted on the judgment and Capital Realty on 13 February 2001 petitioned for the company to be wound up. The Plaintiff was wound up by Order of Court on 23 March 2001. 
+7       In Civil Appeal no. 50 of 2000 reported in <span class="citation">[2000] 4 SLR 548</span>, the Court of Appeal allowed Capital Realty’s appeal for the repayment of an outstanding loan in the sum of $500,000. The appellate court found that the various payments made by Capital Realty were loans to the Plaintiff and judgment was entered against the Plaintiff. The Plaintiff defaulted on the judgment and Capital Realty on 13 February 2001 petitioned for the company to be wound up. The Plaintiff was wound up by Order of Court on 23 March 2001. 
 
 8       The Plaintiff was named as main contractor in contemporaneous documents such as letters from the quantity surveyor and the architect. Chao JA delivering the judgment of the Court of Appeal made the following observations at 558: “The documentary evidence further showed that during the course of the [Tanglin Hill] project, the respondents [Chip Thye] and Articon did not draw a clear distinction between themselves. Letters addressed to one would be responded to by the other. Payments for invoices directed at the respondents [Chip Thye] would be settled by Articon and vice versa.” It was noted in the report that although D1 was not a director of Articon, nevertheless he was a cheque signatory to the bank account of Articon. 
 
@@ -60,7 +60,7 @@ share in the equity of the company. The 4th Defendant, Pey Ciew Chang (“D4”)
 
 individual shareholders. 
 
-13     When a company is insolvent, the interests of the creditors become the dominant factor in what constitutes the “benefit of the company as a whole.” See _West Mercia Safetywear Limited (In Liq.) v Dodd_ [1988] BCLC 250 which was followed and applied by Tay Yong Kwang JC (as he then was) in _Tong Tien See Construction Pte Ltd (in liquidation) v Tong Tien See & Ors_ [2002] 3 SLR 76. 
+13     When a company is insolvent, the interests of the creditors become the dominant factor in what constitutes the “benefit of the company as a whole.” See _West Mercia Safetywear Limited (In Liq.) v Dodd_ [1988] BCLC 250 which was followed and applied by Tay Yong Kwang JC (as he then was) in _Tong Tien See Construction Pte Ltd (in liquidation) v Tong Tien See & Ors_ <span class="citation">[2002] 3 SLR 76</span>. 
 
 14     Dillon LJ in _West Mercia_ approved the speech of Street CJ in _Kinsela v Russell Kinsela Pty Ltd (in liq)_ [1986] ACLR 395 at 401, where Street CJ said: 
 

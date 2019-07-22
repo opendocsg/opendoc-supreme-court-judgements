@@ -79,11 +79,11 @@ bought empty sachets to contain the drugs for trafficking. At about 12 p.m., bot
 
 20     The grounds of appeal were substantially the same as those canvassed at the trial below. There were two main issues. First, whether Yeo lied in his statements to the CNB about the ownership of the drugs. Secondly, whether the judge erred in failing to properly consider the evidence which supports Yeos defence that Tan owned half of the drugs. Yeo did not appeal against the judges finding that the defence of consumption was not made out. 
 
-21     The issues raised in this appeal solely revolved around questions of fact which were more appropriately decided by the trial judge. The principles governing an appellate courts decision to overturn findings of fact made by the trial judge are clear. In _PP v Ng Ai Tiong_ [2000] 1 SLR 454, Yong Pung How CJ set out the following: 
+21     The issues raised in this appeal solely revolved around questions of fact which were more appropriately decided by the trial judge. The principles governing an appellate courts decision to overturn findings of fact made by the trial judge are clear. In _PP v Ng Ai Tiong_ <span class="citation">[2000] 1 SLR 454</span>, Yong Pung How CJ set out the following: 
 
  It is trite law that an appellate court will generally be reluctant to overturn the trial judges findings of fact, especially where they turn on the trial judges assessment of the credibility and veracity of witnesses. 
 
-Thus, we would dismiss this appeal unless Yeo showed that the judges findings were _clearly wrong_. (see also _Yap Giau Beng Terence v PP_ [1998] 3 SLR 656 and _Tan Hung Yeoh v PP_ [1999] 3 SLR 93). 
+Thus, we would dismiss this appeal unless Yeo showed that the judges findings were _clearly wrong_. (see also _Yap Giau Beng Terence v PP_ <span class="citation">[1998] 3 SLR 656</span> and _Tan Hung Yeoh v PP_ <span class="citation">[1999] 3 SLR 93</span>). 
 
 **The veracity of the statements made at the CNB** 
 

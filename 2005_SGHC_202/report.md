@@ -86,7 +86,7 @@ was orally agreed that, pending the execution and implementation of the Settleme
 23     In relation to the expenses allegedly incurred, there was simply no evidence to show whether they had been incurred by the respondent, by FTMS, by both the respondent and FTMS or by some third party. Only claims pertaining to the respondent would be relevant to the winding-up proceedings. The respondent’s claims about wasted expenses were nothing more than bare assertions. In any event, it could not be the case that all expenses incurred were to be attributed to 
 
 
-the petitioner because the petitioner could not possibly be the only foreign university that the respondent had collaborated with. The respondent was also not entitled to claim both loss of profits and expenses incurred at the same time ( _Hong Fok Realty Pte Ltd v Bima Investment Pte Ltd_ [1993] 1 SLR 73 at 86, [59]). 
+the petitioner because the petitioner could not possibly be the only foreign university that the respondent had collaborated with. The respondent was also not entitled to claim both loss of profits and expenses incurred at the same time ( _Hong Fok Realty Pte Ltd v Bima Investment Pte Ltd_ <span class="citation">[1993] 1 SLR 73</span> at 86, [59]). 
 
 24     If the respondent’s claims against the petitioner were genuine ones, it would not only have raised them at the appropriate time and at the earliest opportunity, especially soon after the statutory demand was served, but it would also be certain of its claims. Instead, the respondent engaged in “flip-flopping” by amending its Statement of Claim quite substantially and has given notice of further amendments to be made. 
 

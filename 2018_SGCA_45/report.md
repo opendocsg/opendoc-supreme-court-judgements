@@ -16,7 +16,7 @@
 
 _Criminal procedure and sentencing_ – _Appeal_ – _Application for adjournment_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 228.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 228</span>.] 
 
 2 August 2018 
 
@@ -24,7 +24,7 @@ _Criminal procedure and sentencing_ – _Appeal_ – _Application for adjournmen
 
 **Introduction** 
 
-1       Hamzah bin Ibrahim and Tika Pesik, the appellants in Criminal Appeals Nos 26 and 29 of 2017 respectively, were convicted by the High Court of trafficking in 26.29g of diamorphine under s 5(1)( _a_ ) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) after a joint trial. Both appellants were sentenced to death (see _Public Prosecutor v Muhammad Farid bin Sudi and others_ [2017] SGHC 228). Tika Pesik (hereafter “the second appellant”) appeals against both her conviction and sentence, while Hamzah bin Ibrahim appeals against his sentence only. Both appeals were fixed for hearing on the morning of 2 August 2018. 
+1       Hamzah bin Ibrahim and Tika Pesik, the appellants in Criminal Appeals Nos 26 and 29 of 2017 respectively, were convicted by the High Court of trafficking in 26.29g of diamorphine under s 5(1)( _a_ ) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) after a joint trial. Both appellants were sentenced to death (see _Public Prosecutor v Muhammad Farid bin Sudi and others_ <span class="citation">[2017] SGHC 228</span>). Tika Pesik (hereafter “the second appellant”) appeals against both her conviction and sentence, while Hamzah bin Ibrahim appeals against his sentence only. Both appeals were fixed for hearing on the morning of 2 August 2018. 
 
 2       Mr Amarick Gill (“Mr Gill”), who represents the second appellant, wrote to the court on 31 July 2018 requesting an adjournment for a period of between six and eight weeks so that he might engage the services of a Malay language interpreter to interpret the parties’ submissions and court documents to his client. Given that the appeal was only two days away, we directed that he should make any application for an adjournment at the hearing of the appeal itself. 
 

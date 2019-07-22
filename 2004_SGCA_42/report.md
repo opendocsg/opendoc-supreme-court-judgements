@@ -1,6 +1,6 @@
 # The "Sunrise Crane"
 
-## [2004] SGCA 42
+## <span class="citation">[2004] SGCA 42</span>
 
 **Case Number** :CA 141/2003
 
@@ -28,7 +28,7 @@ _Tort_ – _Negligence_ – _Remedies_ – _Contract with third party_ – _Whet
 
 **Chao Hick Tin JA (delivering the judgment of the majority):**
 
-1       This was an appeal against the decision of Belinda Ang Saw Ean J allowing the respondent’s claim in tort arising from the loss of a small steel tanker belonging to the respondent (reported at [2004] 1 SLR 300). The appellant’s defence of limitation of liability under s 136 of the Merchant Shipping Act (Cap 179, 1996 Rev Ed) was also rejected. We heard the appeal on 28 July 2004 and by a majority, with Judith Prakash J being undecided, dismissed the appeal on both liability and quantum. We now give our reasons.
+1       This was an appeal against the decision of Belinda Ang Saw Ean J allowing the respondent’s claim in tort arising from the loss of a small steel tanker belonging to the respondent (reported at <span class="citation">[2004] 1 SLR 300</span>). The appellant’s defence of limitation of liability under s 136 of the Merchant Shipping Act (Cap 179, 1996 Rev Ed) was also rejected. We heard the appeal on 28 July 2004 and by a majority, with Judith Prakash J being undecided, dismissed the appeal on both liability and quantum. We now give our reasons.
 
 2       The main substantive question that arose for consideration at the appeal was whether, in the given circumstances, a duty of care was owed by the appellant to the respondent.
 
@@ -144,7 +144,7 @@ He then went on to hold (also at 187) that:
 
 **_Man B&W Diesel S E Asia Pte Ltd v PT Bumi International Tankers_**
 
-31     The appellant placed considerable reliance on the views expressed by this court in _Man B&W Diesel S E Asia Pte Ltd v PT Bumi International Tankers_ [2004] 2 SLR 300 (“ _Bumi_ ”) where it stated (at [34]):
+31     The appellant placed considerable reliance on the views expressed by this court in _Man B&W Diesel S E Asia Pte Ltd v PT Bumi International Tankers_ <span class="citation">[2004] 2 SLR 300</span> (“ _Bumi_ ”) where it stated (at [34]):
 
  We also acknowledge that the Donoghue principle is not a statutory definition. Its application has not remained static. It is evolving. It offers an avenue of redress for losses suffered by a person
 
@@ -153,7 +153,7 @@ He then went on to hold (also at 187) that:
 
 32     It is, however, also important to note what the court there stated in the next sentence:
 
- While we would not say that for every subsequent case to fall within the scope of the decision in Ocean Front [ ie , RSP Architects Planners & Engineers v Ocean Front Pte Ltd [1996] 1 SLR 113], the facts must be identical or the same, extreme caution must be exercised in extending the Donoghue principle, or the decision in Ocean Front , to new situations, particularly to a scenario which is essentially contractual.
+ While we would not say that for every subsequent case to fall within the scope of the decision in Ocean Front [ ie , RSP Architects Planners & Engineers v Ocean Front Pte Ltd <span class="citation">[1996] 1 SLR 113</span>], the facts must be identical or the same, extreme caution must be exercised in extending the Donoghue principle, or the decision in Ocean Front , to new situations, particularly to a scenario which is essentially contractual.
 
 33     The remarks quoted above of this court were made in relation to its decision in the _Ocean Front_. In _Ocean Front_ , this court broke new ground when it held that the developer of a condominium was liable in tort for non-personal injury losses suffered by the management corporation of the development. In coming to that conclusion, the court took into account, _inter alia_ , the scheme of things laid down in the Land Titles (Strata) Act (Cap 158, 1988 Rev Ed) and the role of the management corporation in a condominium development. It was in that statutory context that the court found that the developer owed a duty of care to the management corporation even though there was no actual privity of contract between the two.
 
@@ -170,7 +170,7 @@ He then went on to hold (also at 187) that:
 
 37     Thus, the approach taken in _Bumi_ can have no application to the present action which came very much within the traditional mould of a claim in negligence where direct property damage was caused. The only question was whether the owner of the _Sunrise Crane_ had fulfilled its duty of care by merely engaging Pink Energy to remove the cargo and telling Pink Energy of the nature of the cargo. For the reasons given in [29] and [30] above, we did not think so.
 
-38     While it is true that in _Mohd bin Sapri v Soil-Build (Pte) Ltd_ [1996] 2 SLR 505 (“ _Soil-Build_ ”), a personal injury case, this court adopted the threefold test propounded in _Caparo_ , a case involving economic loss, it should not therefore follow that both types of cases stood exactly on the same footing. While the applicable test may be the same, the question whether in a given situation a duty of care arises, and the scope of the duty, must necessarily depend on all the circumstances. Here, again, we would reiterate what Lord Roskill said in _Caparo_ quoted in [26] above.
+38     While it is true that in _Mohd bin Sapri v Soil-Build (Pte) Ltd_ <span class="citation">[1996] 2 SLR 505</span> (“ _Soil-Build_ ”), a personal injury case, this court adopted the threefold test propounded in _Caparo_ , a case involving economic loss, it should not therefore follow that both types of cases stood exactly on the same footing. While the applicable test may be the same, the question whether in a given situation a duty of care arises, and the scope of the duty, must necessarily depend on all the circumstances. Here, again, we would reiterate what Lord Roskill said in _Caparo_ quoted in [26] above.
 
 39     In _Soil-Build_ , this court held that the owner and main contractor were not liable to a worker of a sub-contractor who was injured in the course of work. There was nothing inherently dangerous in what the worker was to do. The injured worker fell from a height because of an unsafe method of work which he and his fellow workers had adopted.
 
@@ -239,7 +239,7 @@ Yong Pung How Chao Hick Tin Chief Justice Judge of Appeal
 
 # The “Sunrise Crane”
 
-### [2004] SGCA 42
+### <span class="citation">[2004] SGCA 42</span>
 
 Court of Appeal — Civil Appeal No 141 of 2003 Yong Pung How CJ, Chao Hick Tin JA and Judith Prakash J 28 July 2004; 26 August 2004
 
@@ -303,17 +303,17 @@ appellant. She also found that there was no evidence of what Mr Kashiwagi did at
 
  are but labels or phrases descriptive of the very different factual situations which can exist in particular cases and which must be carefully examined in each case before it can be pragmatically determined whether a duty of care exists and, if so, what is the scope and extent of that duty.
 
-_Caparo_ was a case involving economic loss but its principles were applied by this court in _Mohd bin Sapri v Soil-Build (Pte) Ltd_ [1996] 2 SLR 505 (“ _Mohd Sapri_ ”), a claim for physical injury, to explain why a specialist contractor on a building site owed no duty to a worker employed by an independent subcontractor to provide him with proper equipment and to supervise his use of such equipment.
+_Caparo_ was a case involving economic loss but its principles were applied by this court in _Mohd bin Sapri v Soil-Build (Pte) Ltd_ <span class="citation">[1996] 2 SLR 505</span> (“ _Mohd Sapri_ ”), a claim for physical injury, to explain why a specialist contractor on a building site owed no duty to a worker employed by an independent subcontractor to provide him with proper equipment and to supervise his use of such equipment.
 
-65     This court has had further occasion to consider the principles regarding the imposition of a duty of care in a series of cases starting in 1996 and ending just a few months ago. It appeared at first that of the three elements mentioned in _Caparo_ , that of proximity was pre-eminent and could be used as the main determinant of the existence of a duty of care. The first of these cases was _RSP Architects Planners & Engineers v Ocean Front Pte Ltd_ [1996] 1 SLR 113 (“ _Ocean Front_ ”). There the court conducted a wide-ranging review of the authorities both in England (including _Caparo_ ) and in Australia and concluded at 139, [68] and [69] ( _per_ L P Thean JA):
+65     This court has had further occasion to consider the principles regarding the imposition of a duty of care in a series of cases starting in 1996 and ending just a few months ago. It appeared at first that of the three elements mentioned in _Caparo_ , that of proximity was pre-eminent and could be used as the main determinant of the existence of a duty of care. The first of these cases was _RSP Architects Planners & Engineers v Ocean Front Pte Ltd_ <span class="citation">[1996] 1 SLR 113</span> (“ _Ocean Front_ ”). There the court conducted a wide-ranging review of the authorities both in England (including _Caparo_ ) and in Australia and concluded at 139, [68] and [69] ( _per_ L P Thean JA):
 
  Whatever language is used the court is basically involved in a delicate balancing exercise in which consideration is given to all the conflicting claims of the plaintiffs and the defendants as viewed in a wider context of society. ...
 
  But the approach of the court has been to examine a particular circumstance to determine whether there exists that degree of proximity between the plaintiff and the defendant as would give rise to a duty of care by the latter to the former with respect to the damage sustained by the former. Such proximity is the ‘determinant’ of the duty of care and also the scope of such duty.
 
-The court then went on to adopt a two-step test. The first step was to determine whether the necessary degree of proximity existed between the plaintiff and the defendant so as to give rise to a duty of care by the defendant to the plaintiff and to determine that duty. The second step was, having found such degree of proximity, to consider whether there was any material factor or policy which precluded such a duty from arising. The emphasis on proximity as being the main ingredient in the determination of the duty of care was reiterated in _RSP Architects Planners & Engineers v MCST Plan No 1075_ [1999] 2 SLR 449 (see the discussion at [15]–[32]) where the main issue was whether _Ocean Front_ had been correctly decided. Both these cases were cases that involved the recognition of a duty of care on the part of builders and architects to avoid causing economic loss to persons who purchased the buildings built or designed by them.
+The court then went on to adopt a two-step test. The first step was to determine whether the necessary degree of proximity existed between the plaintiff and the defendant so as to give rise to a duty of care by the defendant to the plaintiff and to determine that duty. The second step was, having found such degree of proximity, to consider whether there was any material factor or policy which precluded such a duty from arising. The emphasis on proximity as being the main ingredient in the determination of the duty of care was reiterated in _RSP Architects Planners & Engineers v MCST Plan No 1075_ <span class="citation">[1999] 2 SLR 449</span> (see the discussion at [15]–[32]) where the main issue was whether _Ocean Front_ had been correctly decided. Both these cases were cases that involved the recognition of a duty of care on the part of builders and architects to avoid causing economic loss to persons who purchased the buildings built or designed by them.
 
-66     In the latest case on the issue, _Man B&W Diesel S E Asia v PT Bumi International Tankers_ [2004] 2 SLR 300 (the “ _Bumi_ ” case), this court declined to extend the duty not to cause economic loss to the situation of a builder of an engine _vis-à-vis_ the owner of the ship in which that engine was installed when there was no contract between the engine builder and the shipowner. Chao Hick Tin JA, who delivered the court’s decision, reconsidered previous authorities including _Ocean Front_. Whilst not disavowing the two-step test applied there, he drew attention to other factors that had been important in _Ocean Front_ and stated (at [31]):
+66     In the latest case on the issue, _Man B&W Diesel S E Asia v PT Bumi International Tankers_ <span class="citation">[2004] 2 SLR 300</span> (the “ _Bumi_ ” case), this court declined to extend the duty not to cause economic loss to the situation of a builder of an engine _vis-à-vis_ the owner of the ship in which that engine was installed when there was no contract between the engine builder and the shipowner. Chao Hick Tin JA, who delivered the court’s decision, reconsidered previous authorities including _Ocean Front_. Whilst not disavowing the two-step test applied there, he drew attention to other factors that had been important in _Ocean Front_ and stated (at [31]):
 
  The court also indicated that there was no single rule or set of rules for determining whether a duty of care arises in a particular circumstance, and the scope of that duty. It said that in determining whether a duty of care existed, and the scope of such duty, all the relevant circumstances would have to be examined. This approach was similar to that enunciated by
 

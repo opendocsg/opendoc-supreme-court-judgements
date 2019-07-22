@@ -275,9 +275,9 @@ There is support for this proposition, albeit on a narrower basis that a ship`s 
 
 facie evidence of its ownership, see the judgment of GP Selvam JC (as he then was) in **The Opal 3 ex** 
 
-**Kuchino** [1992] 2 SLR 585. 
+**Kuchino** <span class="citation">[1992] 2 SLR 585</span>. 
 
-The learned judge developed on this in his judgment in **The Kapitan Temkin** [1998] 3 SLR 254. Some 
+The learned judge developed on this in his judgment in **The Kapitan Temkin** <span class="citation">[1998] 3 SLR 254</span>. Some 
 
 of the essential facts in the case are similar to the facts here. The plaintiffs claimed as charterers of 
 

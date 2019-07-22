@@ -16,7 +16,7 @@
 
 _Companies_ – _Members_ – _Derivative action_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2016] 2 SLR 622.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2016] 2 SLR 622</span>.] 
 
 11 January 2017 
 
@@ -24,7 +24,7 @@ _Companies_ – _Members_ – _Derivative action_
 
 **Introduction** 
 
-1       This was an appeal against the decision of the High Court judge (“the Judge”) in _Chong Chin Fook v Solomon Alliance Management Pte Ltd and others_ [2016] 2 SLR 622 (“the GD”). The Judge refused to grant the Appellant leave pursuant to s 216A of the Companies Act (Cap 50, 2006 Rev Ed) (“s 216A”) to allow him to control the conduct of proceedings, on behalf of a company, Solomon Alliance Management Pte Ltd (“the Company”), in an _on-going_ suit involving the Company. We allowed the appeal and now give the detailed grounds for our decision. 
+1       This was an appeal against the decision of the High Court judge (“the Judge”) in _Chong Chin Fook v Solomon Alliance Management Pte Ltd and others_ <span class="citation">[2016] 2 SLR 622</span> (“the GD”). The Judge refused to grant the Appellant leave pursuant to s 216A of the Companies Act (Cap 50, 2006 Rev Ed) (“s 216A”) to allow him to control the conduct of proceedings, on behalf of a company, Solomon Alliance Management Pte Ltd (“the Company”), in an _on-going_ suit involving the Company. We allowed the appeal and now give the detailed grounds for our decision. 
 
 2       The central motif that underlay our decision can be summarised in one phrase – conflict of interest. Indeed, as will be evident from our analysis, this particular case was rife with conflicts of interest on the part of the directors of the Company (both past and the present, only remaining director). There was, likewise, the danger of a separate set of conflicts of interest which would arise on the part of the Appellant had we permitted him to take control of the conduct of the said proceedings, on behalf of the Company, without let or hindrance. 
 
@@ -196,9 +196,9 @@ application. JL had resigned on 29 February 2016 and had ample opportunity befor
 
 53     To recapitulate, the Judge was not satisfied that the Appellant was acting in good faith because the cumulative effect of the communications between the Appellant and ET, specifically the strong language used in the 27 February email in which instructions were given for the Company to commence Suit 215, demonstrated that the Appellant wanted to pursue matters against Pang in a manner that showed a clouding of judgment sufficient to demonstrate a disregard of the interests of the Company. 
 
-54     With respect, we did not agree with the conclusion arrived at by the Judge as we were satisfied that the Appellant _had_ demonstrated that he was acting in good faith. As we observed at the outset of these grounds (above at [3]), proceedings pursuant to s 216A generally involve a fractious atmosphere, usually because of allegations of misconduct levelled by one party against the other. Similar observations have been made in decisions of this court (see, for example, _Pang Yong Hock and another v PKS Contracts Services Pte Ltd_ [2004] 3 SLR(R) 1 (“ _Pang Yong Hock_ ”) at [20]). In _Pang Yong Hock_ , it was held that questionable motivations of the applicant _per se_ might not amount to bad faith. Instead, bad faith may be established where the questionable motivations constituted a personal purpose which indicated that the company’s interests would not be served (see _ibid_ ). 
+54     With respect, we did not agree with the conclusion arrived at by the Judge as we were satisfied that the Appellant _had_ demonstrated that he was acting in good faith. As we observed at the outset of these grounds (above at [3]), proceedings pursuant to s 216A generally involve a fractious atmosphere, usually because of allegations of misconduct levelled by one party against the other. Similar observations have been made in decisions of this court (see, for example, _Pang Yong Hock and another v PKS Contracts Services Pte Ltd_ <span class="citation">[2004] 3 SLR(R) 1</span> (“ _Pang Yong Hock_ ”) at [20]). In _Pang Yong Hock_ , it was held that questionable motivations of the applicant _per se_ might not amount to bad faith. Instead, bad faith may be established where the questionable motivations constituted a personal purpose which indicated that the company’s interests would not be served (see _ibid_ ). 
 
-55     In _Ang Thiam Swee v Low Hian Chor_ [2013] 2 SLR 340 (“ _Ang Thiam Swee_ ”), this court comprehensively surveyed the requirement of good faith in an application brought under s 216A, explaining as follows (at [16]–[17]): 
+55     In _Ang Thiam Swee v Low Hian Chor_ <span class="citation">[2013] 2 SLR 340</span> (“ _Ang Thiam Swee_ ”), this court comprehensively surveyed the requirement of good faith in an application brought under s 216A, explaining as follows (at [16]–[17]): 
 
  16 ... that good faith is dependent less on the motives which trigger the application for leave to bring a statutory derivative action, and more on the purpose of the proposed derivative action, which must have an obvious nexus with the company’s benefit or interests. ... 
 

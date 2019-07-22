@@ -16,7 +16,7 @@
 
 _Civil Procedure_ – _Summary Judgment_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 108 of 2014 and Summons No 4987 of 2014 was dismissed by the Court of Appeal on 25 November 2014. See [2014] SGCA 63.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 108 of 2014 and Summons No 4987 of 2014 was dismissed by the Court of Appeal on 25 November 2014. See <span class="citation">[2014] SGCA 63</span>.] 
 
 9 July 2014 
 
@@ -80,7 +80,7 @@ The third defendant had, earlier in December 2006, entered into an agreement wit
 
 5       Shortly after, on 19 December 2008, TGS terminated the Seismic Agreement. The effect was that the Vessel was largely laid-up for the remainder of the three-year time charter period. The plaintiff took the view that, pursuant to cl 17(a) of the time charter, the third defendant was (notwithstanding the assignment to NGS) still liable to pay the outstanding charter fees. The plaintiff calculated the outstanding fees owing from the third defendant to the first defendant to have been US$29,411,379.57, inclusive of late interest. 
 
-6       In November 2009, the plaintiff, on behalf of the first defendant, commenced arbitration proceedings against the third defendant for the recovery of the outstanding fees (“BGP Arbitration”). The second defendant opposed this, and on 7 January 2010, applied to the High Court (Originating Summons 22 of 2010) to effectively restrain the BGP Arbitration. Justice Lai Siu Chiu found that the case turned on the interpretation of cll 8.1.1 and 8.1.2 of the Agreement (see _Morten Innhaug v Sinwa SS (HK) Co Ltd and others_ [2011] SGHC 20 at [36]). She held that the matter of the assignment and memorandum of understanding did not fall strictly within either cl 8.1.1 or 8.1.2, and as such cl 8.1.3 came into play. The parties were obliged to come to a unanimous decision on the matter. If the parties could not agree, pursuant to cl 16.2, they were to proceed to arbitration. As such, she dismissed the second defendant’s application. 
+6       In November 2009, the plaintiff, on behalf of the first defendant, commenced arbitration proceedings against the third defendant for the recovery of the outstanding fees (“BGP Arbitration”). The second defendant opposed this, and on 7 January 2010, applied to the High Court (Originating Summons 22 of 2010) to effectively restrain the BGP Arbitration. Justice Lai Siu Chiu found that the case turned on the interpretation of cll 8.1.1 and 8.1.2 of the Agreement (see _Morten Innhaug v Sinwa SS (HK) Co Ltd and others_ <span class="citation">[2011] SGHC 20</span> at [36]). She held that the matter of the assignment and memorandum of understanding did not fall strictly within either cl 8.1.1 or 8.1.2, and as such cl 8.1.3 came into play. The parties were obliged to come to a unanimous decision on the matter. If the parties could not agree, pursuant to cl 16.2, they were to proceed to arbitration. As such, she dismissed the second defendant’s application. 
 
 7       Shortly after the decision of Justice Lai Siu Chiu, the third defendant applied to the High Court (Originating Summons 650 of 2011) seeking an order that the appointed arbitrator (in the BGP Arbitration) did not have jurisdiction to act as the plaintiff did not have the requisite authority to commence the arbitration proceedings. The High Court held in favour of the third defendant and 
 

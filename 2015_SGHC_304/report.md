@@ -43,7 +43,7 @@ _Contempt of Court_ – _sentencing_
 
  (g) the failure to reimburse the plaintiff’s repair expenses for his car. 
 
-3       As a consequence of my findings at [2] above, the plaintiff had established beyond a reasonable doubt that the defendants were guilty of contempt of court. My written judgment finding the defendants guilty of contempt of court can be found at _Ho Seow Wan v Ho Poey Wee and others_ [2015] SGHC 235 (“the 7 September 2015 Judgment”). The defined terms used herein unless stated otherwise bear the same meaning as set out in the 7 September 2015 Judgment. 
+3       As a consequence of my findings at [2] above, the plaintiff had established beyond a reasonable doubt that the defendants were guilty of contempt of court. My written judgment finding the defendants guilty of contempt of court can be found at _Ho Seow Wan v Ho Poey Wee and others_ <span class="citation">[2015] SGHC 235</span> (“the 7 September 2015 Judgment”). The defined terms used herein unless stated otherwise bear the same meaning as set out in the 7 September 2015 Judgment. 
 
 4       I then invited the parties to submit on the appropriate sentences for the 1st and 2nd defendants respectively. 
 
@@ -67,7 +67,7 @@ _Contempt of Court_ – _sentencing_
 
 **A deterrent fine is appropriate instead of a custodial term** 
 
-9       The plaintiff submitted that a custodial sentence should be imposed on the defendants in light of their unashamed and persistent breaches of the 1 August 2012 Order through the acts listed at [2] above. In this regard, the plaintiff relied on, _inter alia_ , the decision of the High Court in _Sembcorp Marine Ltd v Aurol Anthony Sabastian_ [2013] 1 SLR 245 (“ _Sembcorp v Aurol_ ”). 
+9       The plaintiff submitted that a custodial sentence should be imposed on the defendants in light of their unashamed and persistent breaches of the 1 August 2012 Order through the acts listed at [2] above. In this regard, the plaintiff relied on, _inter alia_ , the decision of the High Court in _Sembcorp Marine Ltd v Aurol Anthony Sabastian_ <span class="citation">[2013] 1 SLR 245</span> (“ _Sembcorp v Aurol_ ”). 
 
 10     After reviewing the case law in Singapore, Quentin Loh J set out in _Sembcorp v Aurol_ at [68] the factors that are relevant in the exercise of a court’s sentencing discretion for contempt of court. The following factors are used as a guide to determine whether a fine or a custodial sentence should be imposed: 
 
@@ -88,7 +88,7 @@ _Contempt of Court_ – _sentencing_
 
  (h) whether others were procured to commit the contemptuous act. 
 
-11     The above list of factors, while useful, is not exhaustive. The court would have to also determine which of the factors are relevant to the case at hand and the weight that should be assigned to each factor. I must nevertheless issue a salutary warning that a custodial sentence is not the starting point in committal. As stated in _Lee Shieh-Peen Clement v Ho Chin Nguang and others_ [2010] 4 SLR 801 at [45], “committal to prison is normally a measure of last resort”. 
+11     The above list of factors, while useful, is not exhaustive. The court would have to also determine which of the factors are relevant to the case at hand and the weight that should be assigned to each factor. I must nevertheless issue a salutary warning that a custodial sentence is not the starting point in committal. As stated in _Lee Shieh-Peen Clement v Ho Chin Nguang and others_ <span class="citation">[2010] 4 SLR 801</span> at [45], “committal to prison is normally a measure of last resort”. 
 
 12     The present case had both aggravating and mitigating factors which had to be considered. On the one hand, it was clear that the defendants were aware of the ambit of the 1 August 2012 Order and committed the contemptuous acts deliberately. As directors of Guan Ho, they were also in a position of responsibility and influence and a higher standard of care was expected of them. 
 

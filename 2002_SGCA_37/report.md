@@ -177,7 +177,7 @@ a formal notice from a person, signed as the secretary of the company, stating t
 
 37     We do not propose to deal with the effect of resolution (G) but will confine ourselves only to the _Turquand_ rule. It is precisely for such a situation that the _Turquand_ rule comes to the aid of third parties who had relied in good faith on such a document from the company. DBS had no notice of any irregularity or impropriety in the appointment of Andrew Chua as the new Company Secretary. Neither did DBS know that only one director passed the resolution to appoint Andrew Chua as the Company Secretary. The letter of 17 October 1997 from NYP did not even mention the irregularity in the appointment of the Company Secretary. In addition, a copy of Form 49 was furnished to DBS. 
 
-38     In this regard, the following observations of this Court in _Yogambikai Nagarajah v Indian Overseas Bank_ [1997] 1 SLR 258, delivered by Lai Kew Chai J, are on point (at 273 and 275):
+38     In this regard, the following observations of this Court in _Yogambikai Nagarajah v Indian Overseas Bank_ <span class="citation">[1997] 1 SLR 258</span>, delivered by Lai Kew Chai J, are on point (at 273 and 275):
 
  The relationship between the bank and the deposit account holder is premised on the debtorcreditor relationship. It carries with it the obligation on the part of the bank to honour the customer’s mandate as regards the payment of money from that account. The bank’s duty to 
 

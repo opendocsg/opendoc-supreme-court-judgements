@@ -977,7 +977,7 @@ powers referred to, by their terms purport to enable the defendant to deal with 
 
  A It could be so. 
 
-98     Defence counsel in his submission relied on the provisions of s 112 of the Evidence Act which reads: "When the question is whether any person is owner of anything of which he is shown to be in possession, the burden of proving that he is not the owner is on the person who affirms that he is not the owner." He argued that since the defendant was the person who was in possession of the block of Apollo shares the burden was on the plaintiff to prove that the defendant was not the owner of the shares. He relied in this regard on the case of **_Pan-Electric Industries Ltd (In Liquidation) v Sim Lim Finance Ltd & Ors_** [1993] 3 SLR 242. 
+98     Defence counsel in his submission relied on the provisions of s 112 of the Evidence Act which reads: "When the question is whether any person is owner of anything of which he is shown to be in possession, the burden of proving that he is not the owner is on the person who affirms that he is not the owner." He argued that since the defendant was the person who was in possession of the block of Apollo shares the burden was on the plaintiff to prove that the defendant was not the owner of the shares. He relied in this regard on the case of **_Pan-Electric Industries Ltd (In Liquidation) v Sim Lim Finance Ltd & Ors_** <span class="citation">[1993] 3 SLR 242</span>. 
 
 99     The facts as well as the decision made in the **_Pan Electric_** case, as they appear in the headnotes, are as follows: 
 

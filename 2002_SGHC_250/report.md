@@ -89,11 +89,11 @@
 
 _Pacific Century Regional Developments Ltd v Estate of Seow Khoon Seng_ 
 
-[1997] 3 SLR 761 (not flld) 
+<span class="citation">[1997] 3 SLR 761</span> (not flld) 
 
 _Lim Bio Hiong Roger v City Developments Ltd_ 
 
-[2000] 1 SLR 289 (not flld) 
+<span class="citation">[2000] 1 SLR 289</span> (not flld) 
 
 ## Judgment Cur Adv Vult 
 
@@ -226,7 +226,7 @@ the Statement of Accounting Standards (‘SAS’). However, he could only say th
 
 40\. Likewise, although PUI had accepted the figure of $2.5 million as the value of the Property for the purpose of stamping forms for the transfer of shares to it, this did not mean that PUI had agreed to adopt $2.5 million as the value of the Property for the purpose of the Completion Accounts. It appears to me that, whatever the reason, when the SSA was signed and when the 16 May 2001 Completion Accounts were being prepared, no one gave a thought to using the $2.5 million figure for the Completion Accounts, until August 2001. 
 
-41\. Mr Beh then placed much reliance on the case of _Pacific Century Regional Developments Ltd v Estate of Seow Khoon Seng_ [1997] 3 SLR 761. In that case, Pacific Century Regional Developments Ltd (‘PCRD’) agreed to acquire 3,510,000 shares from one Seow Khoon Seng, who had passed away, in a company called Pioneer Die Casting Co Ltd (‘Pioneer Die Casting’). One of the objectives of the agreement was the listing of Pioneer Die Casting within three years from the date of the agreement. Under clause 6.3.1 of the agreement, the deceased would have the option of re-acquiring the shares if the objective of listing failed. The relevant provision required the valuation of the shares to be based on the NTA or PE of Pioneer Die Casting, whichever was the higher. Clause 6.3.2 of the agreement in that case provided: 
+41\. Mr Beh then placed much reliance on the case of _Pacific Century Regional Developments Ltd v Estate of Seow Khoon Seng_ <span class="citation">[1997] 3 SLR 761</span>. In that case, Pacific Century Regional Developments Ltd (‘PCRD’) agreed to acquire 3,510,000 shares from one Seow Khoon Seng, who had passed away, in a company called Pioneer Die Casting Co Ltd (‘Pioneer Die Casting’). One of the objectives of the agreement was the listing of Pioneer Die Casting within three years from the date of the agreement. Under clause 6.3.1 of the agreement, the deceased would have the option of re-acquiring the shares if the objective of listing failed. The relevant provision required the valuation of the shares to be based on the NTA or PE of Pioneer Die Casting, whichever was the higher. Clause 6.3.2 of the agreement in that case provided: 
 
  ‘(a) ‘NTA’ means the net tangible asset value of the company as at the end of the financial year immediately preceding the exercise date based on the audited financial statements of the company in accordance with generally accepted accounting principles and practices in Singapore as determined by the auditors of the company who shall decide as experts and not as arbitrators, and whose determination shall be final and conclusive.’ 
 
@@ -310,7 +310,7 @@ Property at $1.85 million. I will mention Mr Xavier’s main arguments only.
 
 71\. Mr Wong’s reason for including the eaves area as floor area appeared to be that the eaves area was concreted and was used as part of the building. It could be used to store goods (NE 87). On the other hand, the evidence of Ms Sim was that floor areas given in comparables do not include the area below the eaves (NE 228). She was not challenged on this. I do not accept Mr Wong’s reason as a good reason. The area below the eaves was almost as much exposed to weather as the area outside of the eaves. The fact that the floor of the eaves area was concreted was of minimal value as he himself accepted (NE 88). 
 
-72\. However, Mr Beh submitted that on the authority of _Lim Bio Hiong Roger v City Developments_ Ltd [2000] 1 SLR 289, the eaves area should be treated as part of the floor area for the purpose of valuation. In my view, that case did not assist Mr Beh because it did not concern the valuation of a property and also did not concern the eaves area. I accept Mr Xavier’s submission that Mr Wong had used the eaves area as an attempt to justify the total floor area he had reported in 1990. 
+72\. However, Mr Beh submitted that on the authority of _Lim Bio Hiong Roger v City Developments_ Ltd <span class="citation">[2000] 1 SLR 289</span>, the eaves area should be treated as part of the floor area for the purpose of valuation. In my view, that case did not assist Mr Beh because it did not concern the valuation of a property and also did not concern the eaves area. I accept Mr Xavier’s submission that Mr Wong had used the eaves area as an attempt to justify the total floor area he had reported in 1990. 
 
 73\. It also seems to me that Mr Wong had done his 3 January 2001 valuation rather casually. That is why he did not attach a list of comparables to that valuation. That is also why there were errors in the list of comparables he tendered eventually and errors again in his revised list. He must have known that his 3 January 2001 valuation was in respect of the transfer of two shares only and hence did not put in as much effort as he might otherwise have done had he been instructed to do a valuation for Nam Kee’s accounts. 
 

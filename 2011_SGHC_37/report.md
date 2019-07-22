@@ -239,7 +239,7 @@ This submission took liberties with the Order which was that the parties were to
 
 33     The defendants submitted in their written submissions that: 
 
- The Singapore Court of Appeal in Lee Tat Development Pte Ltd v MCST Plan No. 301 [2009] 1 SLR(R) 875, held that – 
+ The Singapore Court of Appeal in Lee Tat Development Pte Ltd v MCST Plan No. 301 <span class="citation">[2009] 1 SLR(R) 875</span>, held that – 
 
  In Arnold v National Westminister Bank plc [1991] 2 AC 93 (“ Arnold ”), the House of Lords recognized an exception to the doctrine of res judicata, that is, where the Court itself had made such an egregious mistake that grave injustice to one or more parties would result if the Court’s erroneous decision were to form the basis of an estoppel against the aggrieved party or parties (“the Arnold exception”). The Singapore Courts should likewise recognize this 
 

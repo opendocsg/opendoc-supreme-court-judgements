@@ -18,7 +18,7 @@
 
 _Conflict of laws_ – _Natural forum_ – _Stay of proceedings_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2016] SGHC 218.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2016] SGHC 218</span>.] 
 
 21 March 2017 
 
@@ -28,9 +28,9 @@ _Conflict of laws_ – _Natural forum_ – _Stay of proceedings_
 
 **The appeals and applications before us** 
 
-2       The grounds of the Judge’s decision can be found in _Kioumji & Eslim Law Firm and another v Rotary Engineering Ltd and others_ [2016] SGHC 218 (“the GD”). Civil Appeal No 90 of 2016 (“CA 90/2016”) is an appeal by the defendants against the Judge’s decision not to grant a stay. Civil Appeal No 167 of 2016 (“CA 167/2016”) was filed by the plaintiffs and is a cross-appeal against the part of the Judge’s decision which stated that if Saudi Arabia had been shown to be the clearly more appropriate forum, the Judge would have seen no reason to refuse to grant a stay. Before us as well are two applications by the defendants for the admission of fresh evidence, Summons No 102 of 2016 (“SUM 102/2016”) and Summons No 7 of 2017 (“SUM 7/2017”). 
+2       The grounds of the Judge’s decision can be found in _Kioumji & Eslim Law Firm and another v Rotary Engineering Ltd and others_ <span class="citation">[2016] SGHC 218</span> (“the GD”). Civil Appeal No 90 of 2016 (“CA 90/2016”) is an appeal by the defendants against the Judge’s decision not to grant a stay. Civil Appeal No 167 of 2016 (“CA 167/2016”) was filed by the plaintiffs and is a cross-appeal against the part of the Judge’s decision which stated that if Saudi Arabia had been shown to be the clearly more appropriate forum, the Judge would have seen no reason to refuse to grant a stay. Before us as well are two applications by the defendants for the admission of fresh evidence, Summons No 102 of 2016 (“SUM 102/2016”) and Summons No 7 of 2017 (“SUM 7/2017”). 
 
-3       For the avoidance of doubt, we note that the plaintiffs need not have filed a cross-appeal in CA 167/2016, but could instead have challenged that aspect of the Judge’s decision as part of their arguments concerning CA 90/2016, pursuant to O 57 r 9A(5) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed): see our recent decision in _L Capital Jones Ltd and another v Maniach Pte Ltd_ [2017] 1 SLR 312 at [65]. Of course, this would not have been apparent to the parties at the time given that 
+3       For the avoidance of doubt, we note that the plaintiffs need not have filed a cross-appeal in CA 167/2016, but could instead have challenged that aspect of the Judge’s decision as part of their arguments concerning CA 90/2016, pursuant to O 57 r 9A(5) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed): see our recent decision in _L Capital Jones Ltd and another v Maniach Pte Ltd_ <span class="citation">[2017] 1 SLR 312</span> at [65]. Of course, this would not have been apparent to the parties at the time given that 
 
 
 that decision, which clarified an uncertainty in the law, was handed down only after the cross-appeal had been filed. 
@@ -77,7 +77,7 @@ that REL had decided not to enter into a joint venture with them. REL then refus
 
 stage, that some other forum was clearly more appropriate (GD at [57]). In our judgment, the Judge was not wrong in that where the defendant has crossed the threshold of the first stage, it would be at least unusual for the stay to nonetheless be refused. This is implicit in Lord Goff of Chievely’s classic statement in _Spiliada_ that with the first stage fulfilled, the court “will _ordinarily_ grant a stay unless there are circumstances by reason of which _justice requires_ that a stay should nevertheless not be granted” [emphasis added] (at 478). The short point is that it must be shown that there is a real and material risk of injustice if the stay were granted and the parties were forced to go into another forum. Whether one chooses to describe such circumstances as “exceptional” or merely unusual is of little practical consequence to the analysis. 
 
-16     We make one further observation on the applicable approach for appellate intervention in a case such as this. As we pointed out in the course of the arguments, this is a case involving the exercise of a discretion. There is no basis for an appellate court to intervene unless it is satisfied that the first instance court erred in principle, took into account irrelevant matters, failed to take into account relevant matters, or made a decision that was plainly wrong: _JIO Minerals FZC and others v Mineral Enterprises Ltd_ [2011] 1 SLR 391 at [60]. Against the backdrop of those observations, we turn to the case before us. 
+16     We make one further observation on the applicable approach for appellate intervention in a case such as this. As we pointed out in the course of the arguments, this is a case involving the exercise of a discretion. There is no basis for an appellate court to intervene unless it is satisfied that the first instance court erred in principle, took into account irrelevant matters, failed to take into account relevant matters, or made a decision that was plainly wrong: _JIO Minerals FZC and others v Mineral Enterprises Ltd_ <span class="citation">[2011] 1 SLR 391</span> at [60]. Against the backdrop of those observations, we turn to the case before us. 
 
 **_The first stage of the_** **Spiliada** **_test_** 
 

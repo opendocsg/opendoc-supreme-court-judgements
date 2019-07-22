@@ -20,7 +20,7 @@ _Building and Construction Law_ – _Statutes and Regulations_
 
 **Aedit Abdullah JC:** 
 
-1       On 25 May 2015, I issued a judgment (reported as _Lau Fook Hoong Adam v GTH Engineering & Construction Pte Ltd_ [2015] SGHC 141) (“the Original Judgment”) in favour of the defendant, dismissing the plaintiff’s application for, _inter alia_ , a declaration that an adjudication application is null and void or that the adjudicator lacked jurisdiction to adjudicate the matter. This judgment supplements the Original Judgment and I adopt the definitions which I have used in the latter. 
+1       On 25 May 2015, I issued a judgment (reported as _Lau Fook Hoong Adam v GTH Engineering & Construction Pte Ltd_ <span class="citation">[2015] SGHC 141</span>) (“the Original Judgment”) in favour of the defendant, dismissing the plaintiff’s application for, _inter alia_ , a declaration that an adjudication application is null and void or that the adjudicator lacked jurisdiction to adjudicate the matter. This judgment supplements the Original Judgment and I adopt the definitions which I have used in the latter. 
 
 2       After I issued the Original Judgment on 25 May 2015, the plaintiff applied to tender further submissions in the light of that judgment. I allowed further submissions to be tendered. In short, the plaintiff makes two points: 
 
@@ -37,7 +37,7 @@ I shall deal with each point in turn.
 
 saying that his application to challenge the adjudication application and the jurisdiction of the adjudicator was filed prior to the issuance of the adjudication determination by the adjudicator. 
 
-4       The plaintiff’s reason for mounting the application prior to issuance of the adjudication determination is premised upon the following passage in the Court of Appeal decision of _Lee Wee Lick Terence (alias Li Weili Terence) v Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) and another appeal_ [2013] 1 SLR 401 (“ _Chua Say Eng_ ”) (at [36]) 
+4       The plaintiff’s reason for mounting the application prior to issuance of the adjudication determination is premised upon the following passage in the Court of Appeal decision of _Lee Wee Lick Terence (alias Li Weili Terence) v Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) and another appeal_ <span class="citation">[2013] 1 SLR 401</span> (“ _Chua Say Eng_ ”) (at [36]) 
 
  In our view, if the respondent’s objection to the jurisdiction or power of the adjudicator to conduct the adjudication is based on an invalid appointment, such a jurisdictional issue should be raised immediately with the court and not before the adjudicator. The reason is that since the objection is against the adjudicator’s jurisdiction as an adjudicator, he has no power to decide if he has jurisdiction or not. He cannot decide his own competency to act as an adjudicator when such competency is being challenged by the respondent. An adjudicator who decides the issue may face one or other of the following consequences. If he accepts the respondent’s objection and dismisses the payment claim, the claimant may commence court proceedings against him to compel him to adjudicate the payment claim. If he dismisses the respondent’s objection and makes an award, the respondent could still raise the same objection in enforcement proceedings with respect to his award. Accordingly, the adjudicator should proceed with the adjudication and leave the issue to the court to decide. [emphasis added] 
 
@@ -58,7 +58,7 @@ adjudication determination and avoid putting up the statutorily required securit
 
 **Miscellaneous** 
 
-10     Counsel for the Defendant in the course of the further oral arguments referred to the recent decision of the Court of Appeal in _Citiwall Safety Glass Pte Ltd v Mansource Interior Pte Ltd_ [2015] 1 SLR 797 to support the proposition that a challenge to jurisdiction should be made through s 27 SOPA and O 95. I was of the view though that that case was primarily concerned with the characterisation of the nature of the High Court’s jurisdiction and powers in a s 27 challenge. It was therefore not a controlling authority on the issue in this case. 
+10     Counsel for the Defendant in the course of the further oral arguments referred to the recent decision of the Court of Appeal in _Citiwall Safety Glass Pte Ltd v Mansource Interior Pte Ltd_ <span class="citation">[2015] 1 SLR 797</span> to support the proposition that a challenge to jurisdiction should be made through s 27 SOPA and O 95. I was of the view though that that case was primarily concerned with the characterisation of the nature of the High Court’s jurisdiction and powers in a s 27 challenge. It was therefore not a controlling authority on the issue in this case. 
 
 **Conclusion** 
 

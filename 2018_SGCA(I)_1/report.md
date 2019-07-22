@@ -18,7 +18,7 @@ _Credit and Security_ – _Mortgage of Personal Property_ – _Stocks and Shares
 
 _Contract_ – _Breach_ – _Causation of Loss_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2017] 5 SLR 1.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2017] 5 SLR 1</span>.] 
 
 6 March 2018 Judgment reserved. 
 
@@ -36,7 +36,7 @@ _Contract_ – _Breach_ – _Causation of Loss_
 
 3       On 16 November 2015 the parties entered two agreements. The first was a Stock Secured Financing Agreement (“the Loan Agreement”). The lender was Qilin World Capital Ltd (“Qilin”). It is incorporated in the British Virgin Islands. The Loan was advanced on 2 December 2015. The borrower was CPIT Investments Ltd (“CPIT”). The sum lent was HK$31.25 million (“the Loan”). 
 
-4       The Loan was secured on 25 million shares (“the Pledged Shares”). The expression “Pledged Shares” is a misnomer. The process of pledging applies to choses in possession (see _Chase Manhattan Bank NA v Wong Tui Sun and others_ [1992] 3 SLR(R) 436 at [24]). A share is a chose in action, not a chose in possession. While share certificates, which were once common, can be treated as choses in 
+4       The Loan was secured on 25 million shares (“the Pledged Shares”). The expression “Pledged Shares” is a misnomer. The process of pledging applies to choses in possession (see _Chase Manhattan Bank NA v Wong Tui Sun and others_ <span class="citation">[1992] 3 SLR(R) 436</span> at [24]). A share is a chose in action, not a chose in possession. While share certificates, which were once common, can be treated as choses in 
 
 
 possession, there is no evidence that there were any share certificates involved here. By “Pledged Shares” the parties meant “shares used as security for the Loan”. The Pledged Shares were shares in Millennium Pacific Group Holdings Ltd (“Millennium”). CPIT also owned 1.27 billion shares in Millennium which were not used as security for the Loan. 
@@ -226,7 +226,7 @@ price of the Collateral of more than thirty-five (35%) percent for three (3) con
 
 in advance. CPIT was only told on 4 December 2015 that the Pledged Shares had been transferred from Prominence Account 20 to Qilin’s Haitong account. Upon learning of the 2 December Transaction, Mr Chu of CPIT contacted Ms Suen, who had been acting for Qilin. Ms Suen told Mr Chu that Qilin was entitled to transfer the Shares as it had an account with Haitong. Mr Chu also contacted Prominence, which confirmed the transactions (Judgment at [25]). CPIT took no action on the information. 
 
-40     The lawfulness of the 2 December Transaction turns on the question: Was the 2 December Transaction a disposal of the Pledged Shares (which would have been a breach of cl 5(f), second sentence, unless there had been a default)? Or was it a transfer of the Pledged Shares (which would have been permissible under the first sentence of cl 5(f))? In submissions below, CPIT cited the remarks of Chan Sek Keong CJ in _Pacrim Investments Ltd v Tan Mui Keow Claire_ [2008] 2 SLR(R) 898 (“ _Pacrim_ ”) at [16], where Chan CJ noted that, in the context of a contractual restriction on the transfer of shares, the meaning of terms such as “sell”, “assign” and “dispose of” depends on the context, the intention of the parties, and the purpose for which the restriction was agreed to or imposed (Judgment at [62]). That approach was correctly accepted by the Judge (Judgment at [68]). His construction of cl 5(f) distinguished between, on one hand, “transferring” and “assigning” – which would be subject to the rights and interest of CPIT (Judgment at [73]) – and the right to dispose of the shares on the other hand (Judgment at [76]). For the purposes of the Loan Agreement, a “disposal”, as opposed to a mere “transfer”, is a transaction which would not be subject to CPIT’s rights and interest. In other words, a disposal would be a conveyance of full unrestricted ownership which would destroy CPIT’s interest. 
+40     The lawfulness of the 2 December Transaction turns on the question: Was the 2 December Transaction a disposal of the Pledged Shares (which would have been a breach of cl 5(f), second sentence, unless there had been a default)? Or was it a transfer of the Pledged Shares (which would have been permissible under the first sentence of cl 5(f))? In submissions below, CPIT cited the remarks of Chan Sek Keong CJ in _Pacrim Investments Ltd v Tan Mui Keow Claire_ <span class="citation">[2008] 2 SLR(R) 898</span> (“ _Pacrim_ ”) at [16], where Chan CJ noted that, in the context of a contractual restriction on the transfer of shares, the meaning of terms such as “sell”, “assign” and “dispose of” depends on the context, the intention of the parties, and the purpose for which the restriction was agreed to or imposed (Judgment at [62]). That approach was correctly accepted by the Judge (Judgment at [68]). His construction of cl 5(f) distinguished between, on one hand, “transferring” and “assigning” – which would be subject to the rights and interest of CPIT (Judgment at [73]) – and the right to dispose of the shares on the other hand (Judgment at [76]). For the purposes of the Loan Agreement, a “disposal”, as opposed to a mere “transfer”, is a transaction which would not be subject to CPIT’s rights and interest. In other words, a disposal would be a conveyance of full unrestricted ownership which would destroy CPIT’s interest. 
 
 41     It is therefore crucial, in analysing the nature of the 2 December Transaction, to decide what the intention of Qilin was. Was Qilin’s intention to acquire full legal and beneficial title to the Pledged Shares, thereby destroying CPIT’s beneficial rights and interest? It is Qilin’s intention that is crucial to the question: Was the 2 December Transaction a disposal of the Pledged Shares or a transfer? 
 
@@ -312,7 +312,7 @@ He continued (Judgment at [285]):
 
 “overinflated” must inevitably decline. 
 
-63     CPIT began by accepting that the relevant test for causation of damage in the law of contract is whether the breach was an “effective” or “dominant” cause: _Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric_ [2007] 3 SLR(R) 782 at [60] per VK Rajah JA. But it was also said in that case that the courts have avoided laying down formal tests for causation and have instead relied on common sense (at [62]). And, it may be added, it is not necessary that the “effective” cause be _the sole_ cause. 
+63     CPIT began by accepting that the relevant test for causation of damage in the law of contract is whether the breach was an “effective” or “dominant” cause: _Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric_ <span class="citation">[2007] 3 SLR(R) 782</span> at [60] per VK Rajah JA. But it was also said in that case that the courts have avoided laying down formal tests for causation and have instead relied on common sense (at [62]). And, it may be added, it is not necessary that the “effective” cause be _the sole_ cause. 
 
 _Common sense_ 
 

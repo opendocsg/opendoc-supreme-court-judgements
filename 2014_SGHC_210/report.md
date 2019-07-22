@@ -182,7 +182,7 @@ granted as: [note: 24]
  (d) Eleven had not adduced any evidence to show that it would suffer substantial justice if the action was stayed pending the outcome of the Berlin appeal. [note: 25] 
 
 
-20     Boxsentry submitted that a limited stay had been granted before, for example, in _Chan Chin Cheung v Chan Fatt Cheung and others_ [2010] 1 SLR 1192 (“ _Chan Chin Cheung_ ”). In _Chan Chin Cheung_ , the Court of Appeal had granted a limited stay pending the outcome of the Malaysian proceedings as it would (at [46]): 
+20     Boxsentry submitted that a limited stay had been granted before, for example, in _Chan Chin Cheung v Chan Fatt Cheung and others_ <span class="citation">[2010] 1 SLR 1192</span> (“ _Chan Chin Cheung_ ”). In _Chan Chin Cheung_ , the Court of Appeal had granted a limited stay pending the outcome of the Malaysian proceedings as it would (at [46]): 
 
  (a) minimise the risk of conflicting judgments; 
 
@@ -196,15 +196,15 @@ Therefore on the strength of _Chan Chin Cheung_ , Boxsentry submitted that a lim
 
 21     Boxsentry also submitted that neither the place where the legal action was first commenced nor the stage of any foreign proceedings was of any relevance to the stay application. 
 
-22     First, in _UBS AG v Telesto Investments Ltd and others and another matter_ [2011] 4 SLR 503 at [133], the High Court held that the order in which the claims were brought in the competing 
+22     First, in _UBS AG v Telesto Investments Ltd and others and another matter_ <span class="citation">[2011] 4 SLR 503</span> at [133], the High Court held that the order in which the claims were brought in the competing 
 
 jurisdictions was not to be given significant weight. [note: 26] It also did not matter whether the action was started locally first or in a foreign country: _Rickshaw Investments Ltd v Nicolai Baron von_ 
 
-_Uexkull_ [2007] 1 SLR(R) 377 at [88]. [note: 27] Therefore, the fact that it had commenced the Berlin restrain action _only_ after the present action was commenced was not important. The policy reason behind this was clear: a party should not be stopped from pursuing its claim in the appropriate forum 
+_Uexkull_ <span class="citation">[2007] 1 SLR(R) 377</span> at [88]. [note: 27] Therefore, the fact that it had commenced the Berlin restrain action _only_ after the present action was commenced was not important. The policy reason behind this was clear: a party should not be stopped from pursuing its claim in the appropriate forum 
 
 just because an action had been commenced in another forum. [note: 28] 
 
-23     Second, whether the foreign proceedings were at a beginning or advanced stage was an irrelevant consideration. This was apparent from Belinda Ang Saw Ean J’s judgment in _The Reecon Wolf_ [2012] 2 SLR 289, in which a stay of proceedings in Singapore had been granted even though the Malaysian proceedings which were concurrent were not very advanced: at [47]. 
+23     Second, whether the foreign proceedings were at a beginning or advanced stage was an irrelevant consideration. This was apparent from Belinda Ang Saw Ean J’s judgment in _The Reecon Wolf_ <span class="citation">[2012] 2 SLR 289</span>, in which a stay of proceedings in Singapore had been granted even though the Malaysian proceedings which were concurrent were not very advanced: at [47]. 
 
 _Boxsentry’s case premised on the court’s inherent jurisdiction_ 
 
@@ -444,7 +444,7 @@ _Boxsentry’s interests vs Eleven’s interests_
 
  (1) For the avoidance of doubt it is hereby declared that nothing in these Rules shall be deemed to limit or affect the inherent powers of the Court to make any order as may be necessary to prevent injustice or to prevent an abuse of the process of the Court. 
 
-61     I was again of the view that it would be unfair to grant the stay under the court’s inherent jurisdiction. As observed by Asst Prof Goh Yihan in his article “The Inherent Jurisdiction and Inherent Powers of the Singapore Courts: Rethinking the Limits of their Exercise” [2011] SJLS 178 at p 207, the inherent jurisdiction of the court is meant to ensure that the court has the proper authority to deal effectively with an abuse of its process or the compromise of justice through written law. This is also the position in _Heng Joo See v Ho Pol Ling_ [1993] 2 SLR(R) 763 where Punch Coomaraswamy J held at [24]–[25] that: 
+61     I was again of the view that it would be unfair to grant the stay under the court’s inherent jurisdiction. As observed by Asst Prof Goh Yihan in his article “The Inherent Jurisdiction and Inherent Powers of the Singapore Courts: Rethinking the Limits of their Exercise” [2011] SJLS 178 at p 207, the inherent jurisdiction of the court is meant to ensure that the court has the proper authority to deal effectively with an abuse of its process or the compromise of justice through written law. This is also the position in _Heng Joo See v Ho Pol Ling_ <span class="citation">[1993] 2 SLR(R) 763</span> where Punch Coomaraswamy J held at [24]–[25] that: 
 
  24 Master Jacob describes the inherent [power] “as being the reserve or fund of powers, a residual source of powers, which the court may draw upon as necessary whenever it is just or equitable to do so, and in particular to ensure the observance of the due process of law, to prevent improper vexation or oppression, to do justice between the parties and to secure a fair trial between them”. 
 
@@ -503,7 +503,7 @@ _Triable issues were present_
 
 case. [note: 54] 
 
-71     For the above two reasons, Boxsentry submitted that the present case was distinguishable from _Hong Pian Tee v Les Placements Germain Gauthier Inc_ [2002] 1 SLR(R) 515 (“ _Hong Pian Tee_ ”) and _Bellezza Club Japan Co Ltd v Matsumura Akihiko and others_ [2010] 3 SLR 342 (“ _Bellezza_ ”) as those 
+71     For the above two reasons, Boxsentry submitted that the present case was distinguishable from _Hong Pian Tee v Les Placements Germain Gauthier Inc_ <span class="citation">[2002] 1 SLR(R) 515</span> (“ _Hong Pian Tee_ ”) and _Bellezza Club Japan Co Ltd v Matsumura Akihiko and others_ <span class="citation">[2010] 3 SLR 342</span> (“ _Bellezza_ ”) as those 
 
 
 cases did not deal with the enforcement of default judgments. [note: 55] Those were also the reasons why Eleven could not assert that the matter ought not to be re-litigated since it had never been 
@@ -631,7 +631,7 @@ eXpurgate’s software had no merit for the following reasons: [note: 74]
 
 _The burden of proof for a summary judgement_ 
 
-88     The parties agreed that the burden of proof was on Eleven to prove on a _prima facie_ basis before the court would grant it a summary judgment in the enforcement of the foreign judgment. Boxsentry only had to show that it had a fair or reasonable chance that there was a real or _bona fide_ defence: _Associated Development Pte Ltd v Loong Sie Kiong Gerald_ [2009] 4 SLR(R) 389 at [22]. Thus Boxsentry had to show that there was a triable issue or the need for certain apposite issues to be determined at trial: _Tulip Furniture Enterprise Pte Ltd v Roberto Building Material Pte Ltd_ [1997] SGHC 114 at [7]. 
+88     The parties agreed that the burden of proof was on Eleven to prove on a _prima facie_ basis before the court would grant it a summary judgment in the enforcement of the foreign judgment. Boxsentry only had to show that it had a fair or reasonable chance that there was a real or _bona fide_ defence: _Associated Development Pte Ltd v Loong Sie Kiong Gerald_ <span class="citation">[2009] 4 SLR(R) 389</span> at [22]. Thus Boxsentry had to show that there was a triable issue or the need for certain apposite issues to be determined at trial: _Tulip Furniture Enterprise Pte Ltd v Roberto Building Material Pte Ltd_ <span class="citation">[1997] SGHC 114</span> at [7]. 
 
 89     In the context of the enforcement of foreign judgments at common law, it is trite law that the foreign judgment must be final and conclusive on the merits of the case. _Hong Pian Tee_ set this out well at [12]: 
 

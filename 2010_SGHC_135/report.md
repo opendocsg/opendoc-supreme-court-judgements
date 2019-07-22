@@ -176,7 +176,7 @@ _de novo_. Thus, it must be provided in the diet and this is especially importan
 
 21     The Applicant submitted that in “rehearing” the Appeal, this court is entitled to revisit the totality of the evidence tendered before the Tribunal below. In other words, the Applicant pitched its case as such: an appeal from the Patents Registrars to the High Court under O 87A r 13(2) ROC is analogous to that of an appeal from a tribunal to the High Court under O 55 r 2(1) ROC. 
 
-22     Following this logic, when hearing the Appeal, this court is not fettered by any principle limiting its discretion and is free to come to conclusions which differ from the conclusions of the Tribunal. As t he Court of Appeal in _Teo Chee Yeow Aloysius and another v Tan Harry and another_ [2004] 3 SLR(R) 588 at [15] (“ _Teo Chee Yeow_ ”) held: 
+22     Following this logic, when hearing the Appeal, this court is not fettered by any principle limiting its discretion and is free to come to conclusions which differ from the conclusions of the Tribunal. As t he Court of Appeal in _Teo Chee Yeow Aloysius and another v Tan Harry and another_ <span class="citation">[2004] 3 SLR(R) 588</span> at [15] (“ _Teo Chee Yeow_ ”) held: 
 
  [W]hen a judge in chambers hears an appeal from a decision of the Registrar, the judge is not exercising an appellate jurisdiction but a confirmatory jurisdiction. In such an appeal, there is a rehearing and the judge is entitled to exercise an unfettered discretion of his own. 
 
@@ -186,7 +186,7 @@ _de novo_. Thus, it must be provided in the diet and this is especially importan
 
  An appeal from a decision of the High Court to the Court of Appeal. 
 
-In the case of (b) above, it was held that the Court of Appeal could only upset a decision of the High Court if it was shown that the latter had erred on a matter of principle, had taken irrelevant considerations into account or that the decision was plainly wrong (see _The Vishva Apurva_ [1992] 1 SLR(R) 912). 
+In the case of (b) above, it was held that the Court of Appeal could only upset a decision of the High Court if it was shown that the latter had erred on a matter of principle, had taken irrelevant considerations into account or that the decision was plainly wrong (see _The Vishva Apurva_ <span class="citation">[1992] 1 SLR(R) 912</span>). 
 
 24     Thus, the Applicant’s stance was that the nature of the Appeal was akin to one under O 55 r 2(1) ROC in which the _Ladd v Marshall_ principles were not of assistance. 
 
@@ -328,13 +328,13 @@ Notably, Laddie J in _Hunt-Wesson Inc’s case_ granted leave to the opponent to
 
 **_Nature of appeal under O 87A is akin to that under O 57 ROC_** 
 
-40     The Respondent cited _Future Enterprises Pte Ltd v McDonald’s Corp_ [2007] 2 SLR(R) 845 (“ _Future Enterprises_ ”) which alluded to the general reluctance on the part of the appellate court in disturbing a finding made by the Registrar of Trade Marks. 
+40     The Respondent cited _Future Enterprises Pte Ltd v McDonald’s Corp_ <span class="citation">[2007] 2 SLR(R) 845</span> (“ _Future Enterprises_ ”) which alluded to the general reluctance on the part of the appellate court in disturbing a finding made by the Registrar of Trade Marks. 
 
 4       1 _Future Enterprises_ was an appeal against a decision of the Principal Assistant Registrar of Trade Marks (“PAR”) who allowed McDonald’s opposition to the appellant’s application to register the trademark “MacCoffee”. The PAR’s findings of visual, aural and conceptual similarities were upheld by the Court of Appeal (at [5]) which endorsed the approach in _S C Prodal 94 SRL v Spiritis International NV_ [2003] EWHC 2756 (Ch) where Laddie J said: 
 
  It is not the duty of this court to overturn a decision of the Trade Mark Registry simply because it comes to a conclusion that it might have decided the case differently had it, that is to say the High Court, been the court of first instance. It has to be demonstrated that the decision at first instance was wrong in a material way; that is to say that there must be some significant departure from a proper assessment of the law or the facts. 
 
-42     Woo Bih Li J in the case of _Ozone Community Corp v Advance Magazine Publishers Inc_ [2010] SGHC 16 (“ _Ozone Community Corp_ ”) at [32] noted that _Future Enterprises_ did not consider the effect of O 87 r 4 ROC which states: 
+42     Woo Bih Li J in the case of _Ozone Community Corp v Advance Magazine Publishers Inc_ <span class="citation">[2010] SGHC 16</span> (“ _Ozone Community Corp_ ”) at [32] noted that _Future Enterprises_ did not consider the effect of O 87 r 4 ROC which states: 
 
 
  (a) 
@@ -349,26 +349,26 @@ Notably, Laddie J in _Hunt-Wesson Inc’s case_ granted leave to the opponent to
 
 O 87 r 4(2) ROC is the parallel rule for the application ( _ie_ , patent proceedings) under O 87A r 13(2) ROC. 
 
-43     Woo J in _Ozone Community Corp_ conducted a review of recent Singapore High Court decisions that attempted to address what a “rehearing” entailed in the context of an appellate review of a decision made before a tribunal, namely, _MediaCorp News Pte Ltd v Astro All Asia Networks Plc_ [2009] 4 SLR(R) 496 (“ _MediaCorp_ ”) and _Valentino Globe BV v Pacific Rim Industries Inc_ [2009] 4 SLR(R) 577 (“ _Valentino_ ”). 
+43     Woo J in _Ozone Community Corp_ conducted a review of recent Singapore High Court decisions that attempted to address what a “rehearing” entailed in the context of an appellate review of a decision made before a tribunal, namely, _MediaCorp News Pte Ltd v Astro All Asia Networks Plc_ <span class="citation">[2009] 4 SLR(R) 496</span> (“ _MediaCorp_ ”) and _Valentino Globe BV v Pacific Rim Industries Inc_ <span class="citation">[2009] 4 SLR(R) 577</span> (“ _Valentino_ ”). 
 
 _Nature of ‘Rehearing’ under O 87 and O 87A ROC_ 
 
 4       4 _MediaCorp_ was an appeal by MediaCorp pursuant to s 8(2)( _b_ ) and s 8(3) of the Trade Marks Act to oppose the registration of the “Astro Mark” in respect of specified Class 16 goods and Class 35 services. Lee Seiu Kin J considered the standard of review applicable to the proceedings and noted that the earlier Court of Appeal case of _Future Enterprises_ did not consider the effect of what “rehearing” entailed under O 87 r 4 ROC. Lee J noted at [26]: 
 
- Nevertheless, the fact that such proceedings are “by way of rehearing” does not necessarily mean that the appeal court’s decision is unfettered. An appeal from the High Court to the Court of Appeal is similarly by way of rehearing under O 57 r 3(1) of the ROC. However, the Court of Appeal will be slow to upset an exercise of discretion by the trial judge ( Golden Shore Transportation Pte Ltd v UCO Bank [2004] 1 SLR(R) 6 at [44]). 
+ Nevertheless, the fact that such proceedings are “by way of rehearing” does not necessarily mean that the appeal court’s decision is unfettered. An appeal from the High Court to the Court of Appeal is similarly by way of rehearing under O 57 r 3(1) of the ROC. However, the Court of Appeal will be slow to upset an exercise of discretion by the trial judge ( Golden Shore Transportation Pte Ltd v UCO Bank <span class="citation">[2004] 1 SLR(R) 6</span> at [44]). 
 
 45     In referring to a “rehearing” in the context of an appeal from the High Court to the Court of Appeal, Lee J at [26] distinguished between two instances: 
 
- A finding of facts where the Court of Appeal is “generally reluctant to interfere because the trial judge is in a better position to assess the veracity and credibility of the witnesses” ( Seah Ting Soon v Indonesian Tractors Co Pte Ltd [2001] 1 SLR(R) 53 at [22]) 
+ A finding of facts where the Court of Appeal is “generally reluctant to interfere because the trial judge is in a better position to assess the veracity and credibility of the witnesses” ( Seah Ting Soon v Indonesian Tractors Co Pte Ltd <span class="citation">[2001] 1 SLR(R) 53</span> at [22]) 
 
- A perception of facts and evaluation of facts where in respect of the latter “an appellate court is in as good a position as the trial court to make an evaluation from primary facts” ( Ho Soo Fong v Standard Chartered Bank [2007] 2 SLR(R) 181 at [20]). 
+ A perception of facts and evaluation of facts where in respect of the latter “an appellate court is in as good a position as the trial court to make an evaluation from primary facts” ( Ho Soo Fong v Standard Chartered Bank <span class="citation">[2007] 2 SLR(R) 181</span> at [20]). 
 
 Thus, Lee J referred to _Future Enterprises_ as authority that the law pertaining to trade marks infringement was unique in that the final analysis was “more a matter of feel than science”, _ie_ , akin to a matter of subjective assessment of facts. 
 
 46     The effect of O 87 r 4(2) ROC was also reviewed by Chan Seng Onn J in _Valentino_ (affirmed in Civil Appeal No. 46 of 2009). However, neither _Future Enterprises_ nor _MediaCorp_ was referred to in _Valentino_. Chan J said at [10] to [11]: 
 
 
- 10 On O 55 which governs appeals to the High Court from any court, tribunal or person, para 55/1/2 of Singapore Civil Procedure notes that O 55 r 2(1) stipulates that the appeal is by way of rehearing. Order 55, it suggests, confers upon the Court wider powers than those so conferred under O 53 which deals with, inter alia , judicial review. Hence, O 55 r 6(5) provides that the appellate court can make any order which should have been made by the tribunal. The appellate court is thus not confined to merely determining whether the decision below was compliant with rules of natural justice or reached honestly ( Ling Uk Choon v Public Accountants Board [2004] 3 SLR(R) 517 at [32]). 
+ 10 On O 55 which governs appeals to the High Court from any court, tribunal or person, para 55/1/2 of Singapore Civil Procedure notes that O 55 r 2(1) stipulates that the appeal is by way of rehearing. Order 55, it suggests, confers upon the Court wider powers than those so conferred under O 53 which deals with, inter alia , judicial review. Hence, O 55 r 6(5) provides that the appellate court can make any order which should have been made by the tribunal. The appellate court is thus not confined to merely determining whether the decision below was compliant with rules of natural justice or reached honestly ( Ling Uk Choon v Public Accountants Board <span class="citation">[2004] 3 SLR(R) 517</span> at [32]). 
 
  11 “By way of rehearing” in my view means that the Court is not constrained to determine only whether the tribunal’s decision was proper and/or contained manifest errors of fact and law. If it wishes to, the Court in its discretion may consider the entire ream of evidence before it and venture beyond determining the propriety of the tribunal’s decision or inquiring into whether there had been manifest errors of fact or law. However, I do not think that it places an irrevocable burden upon the Courts to hear the matter anew so that the substantive merits fall to be determined afresh. As para 57/3/1 of Singapore Civil Procedure observes with regard to the phrase “by way of rehearing”, albeit in relation to appeals to the Court of Appeal: 
 
@@ -422,7 +422,7 @@ _to the Patents Act_ (6th Edition) at [97.08].
 
 57     The Respondent further submitted that Singapore cases on civil jurisprudence supported its position that _Ladd v Marshall_ principles applied in the case. 
 
-58     The Court of Appeal in _WBG Network (S) Pte Ltd v Sunny Daisy Ltd_ [2007] 1 SLR(R) 1133 (“ _WBG case_ ” ) clarified its earlier decision in _Lassiter Ann Masters v To Keng Lam_ [2004] 2 SLR(R) 392 (“ _Lassiter’s case_ ”) which distinguished between the standard to be applied in appeals where: 
+58     The Court of Appeal in _WBG Network (S) Pte Ltd v Sunny Daisy Ltd_ <span class="citation">[2007] 1 SLR(R) 1133</span> (“ _WBG case_ ” ) clarified its earlier decision in _Lassiter Ann Masters v To Keng Lam_ <span class="citation">[2004] 2 SLR(R) 392</span> (“ _Lassiter’s case_ ”) which distinguished between the standard to be applied in appeals where: 
 
  There were the characteristics of a full trial or where oral evidence had been recorded ( eg , in proceedings of inquiries or in an assessment of damages); and 
 
@@ -430,7 +430,7 @@ _to the Patents Act_ (6th Edition) at [97.08].
 
 59     The Court of Appeal in the _WBG case_ at [8] recognised that, strictly speaking, _Ladd v Marshall_ applied to appeals from the High Court to the Court of Appeal and not to appeals from the Registrar to a judge in chambers. However, the concern in _Lassiter’s case_ as raised by Chao Hick Tin JA was that a liberal use of wide discretion by a judge in chambers to admit fresh evidence would defeat the very rationale underlying the delegation of matters to the Registrar, _ie_ , to help save judicial time. Such an objective would be lost and could lead to abuse if either party was entitled to freely adduce evidence for the judge at a later hearing. 
 
-60     Furthermore, as Prakash J reasoned in _Ang Leng Hock v Leo Ee Ah_ [2004] 2 SLR(R) 361 at [15] (affirmed by _WBG case_ at [11]): 
+60     Furthermore, as Prakash J reasoned in _Ang Leng Hock v Leo Ee Ah_ <span class="citation">[2004] 2 SLR(R) 361</span> at [15] (affirmed by _WBG case_ at [11]): 
 
  I think that there is a distinction to be drawn between the adduction of further evidence before the judge in chambers on an appeal from the registrar against a decision on an interlocutory application like an O 14 application, and one that is against a final decision, albeit by a registrar, which has been taken after a full trial on the merits in that discovery has taken place, documents and affidavits of evidence-in-chief have been filed, viva voce evidence has been given and the parties have had the opportunity of cross-examining each other’s witnesses. In the first case the original evidence would have been only documentary. Any prejudice that might have arisen from allowing further documentary evidence by way of affidavit could have been dealt with easily by giving the other party a right of reply. The second situation is very different. In that case, both parties would have (or should have) prepared for the hearing before the registrar in the same manner as for a trial in the High Court and would have engaged in the discovery exercise and in the cross-examination of witnesses. To allow further evidence to be freely adduced before the judge on appeal could easily lead to abuse of process... 
 

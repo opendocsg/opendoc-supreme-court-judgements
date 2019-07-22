@@ -20,7 +20,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Mentally disordered of
 
 **V K Rajah J:** 
 
-1       This judgment is to be read in conjunction with my decision in _PP v Chee Cheong Hin Constance_ [2006] SGHC 9. 
+1       This judgment is to be read in conjunction with my decision in _PP v Chee Cheong Hin Constance_ <span class="citation">[2006] SGHC 9</span>. 
 
 2       I had on 24 January 2006 found the accused guilty of having committed the following offences: 
 
@@ -34,7 +34,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Mentally disordered of
 
 4       Given the gravity of the offence the accused has committed, the issue that arises is whether the appropriate sentence to mete out is a term of life imprisonment or ten years’ imprisonment. Section 304( _a_ ) of the Penal Code neither envisages nor permits any other sentencing option for such exceedingly heinous offending acts. 
 
-5       The Court of Appeal in _Neo Man Lee v PP_ [1991] SLR 146 and _Purwanti Parji v PP_ [2005] 2 SLR 220 at [19] approved and applied the following three broad criteria that could warrant the imposition of a term of life imprisonment as enunciated by the English Court of Appeal in _R v Hodgson_ (1968) 52 Cr App R 113 at 114 (“the _Hodgson_ criteria”): 
+5       The Court of Appeal in _Neo Man Lee v PP_ [1991] SLR 146 and _Purwanti Parji v PP_ <span class="citation">[2005] 2 SLR 220</span> at [19] approved and applied the following three broad criteria that could warrant the imposition of a term of life imprisonment as enunciated by the English Court of Appeal in _R v Hodgson_ (1968) 52 Cr App R 113 at 114 (“the _Hodgson_ criteria”): 
 
  (1) where the offence or offences are in themselves grave enough to require a very long 
 
@@ -68,11 +68,11 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Mentally disordered of
 
 I note that Dr Phang did not venture to suggest the period for which the accused should receive medical treatment in order to retard or arrest her illness. 
 
-12     Mr Anandan has also helpfully drawn to my attention the observations of the learned Chief Justice Yong Pung How in _Ng So Kuen Connie v PP_ at [2003] 3 SLR 178 at [58]: 
+12     Mr Anandan has also helpfully drawn to my attention the observations of the learned Chief Justice Yong Pung How in _Ng So Kuen Connie v PP_ at <span class="citation">[2003] 3 SLR 178</span> at [58]: 
 
  [T]he element of general deterrence can and should be given considerably less weight if the offender was suffering from a mental disorder at the time of the commission of the offence. This is particularly so if there is a causal link between the mental disorder and the commission of the offence. In addition to the need for a causal link, other factors such as the seriousness of the mental condition, the likelihood of the appellant repeating the offence and the severity of the crime, are factors which have to be taken into account by the sentencing judge. In my view, general deterrence will not be enhanced by meting out an imprisonment term to a patient suffering from a serious mental disorder which led to the commission of the offence. [emphasis added] 
 
-13     I accept the force and logic of these percipient observations. The issue of general deterrence cannot be a real consideration in a case like this since there is a very real and palpable causal link between the illness and the two offences. The principal sentencing considerations in this case should to that extent relate to and address the rehabilitation of the accused and the protection of the public. Given the singular gravity of the offences involved in the present case, however, there is no doubt that a lengthy custodial sentence is imperative, unlike the case of the accused in _Goh Lee Yin v PP_ [2006] 1 SLR 530, who was a kleptomaniac with exceptionally strong family support. 
+13     I accept the force and logic of these percipient observations. The issue of general deterrence cannot be a real consideration in a case like this since there is a very real and palpable causal link between the illness and the two offences. The principal sentencing considerations in this case should to that extent relate to and address the rehabilitation of the accused and the protection of the public. Given the singular gravity of the offences involved in the present case, however, there is no doubt that a lengthy custodial sentence is imperative, unlike the case of the accused in _Goh Lee Yin v PP_ <span class="citation">[2006] 1 SLR 530</span>, who was a kleptomaniac with exceptionally strong family support. 
 
 14     The accused’s conduct is nothing short of deeply disturbing However, it must now be acknowledged in the light of the medical evidence that it was fuelled and triggered by her illness. 
 
@@ -89,7 +89,7 @@ I note that Dr Phang did not venture to suggest the period for which the accused
 
 19     A prison-appointed psychiatrist has now confirmed that with regular medication and adequate supervision the symptoms the accused now suffers from will abate. The accused’s three sisters have each sworn affidavits, severally undertaking to assume responsibility for the accused’s future medical care and supervision upon her release from incarceration. Upon her release from prison, the accused will live with one of her sisters on a permanent basis. The sisters will personally ensure that the accused is brought regularly for medical appointments and attend to her financial needs as well as seek employment for her. Given their backgrounds and emphatic assertions, I am satisfied that her sisters are responsible persons who will live up to their commitment to ensure and preserve her future welfare and well-being. In such circumstances where a satisfactory support mechanism to secure the accused’s rehabilitation and future medical treatment prevails, the risk of the accused’s illness once again conflagrating into violence is fairly remote. I am inclined to quantify this risk in a manner that precludes the need for permanent incarceration. 
 
-20     I am also constrained in this regard to take into account the Court of Appeal’s observations in _PP v Tan Kei Loon Allan_ [1999] 2 SLR 288 at [40]: 
+20     I am also constrained in this regard to take into account the Court of Appeal’s observations in _PP v Tan Kei Loon Allan_ <span class="citation">[1999] 2 SLR 288</span> at [40]: 
 
  In a situation in which the court is desirous of a sentence greater than ten years, but feels that a sentence of life imprisonment is excessive, we have no choice but to come down, however reluctantly, on the side of leniency. Otherwise, the punishment imposed would significantly exceed the offender’s culpability. It would, in our view, be wrong to adopt an approach in which the court would prefer an excessive sentence to an inadequate one. [emphasis added] 
 

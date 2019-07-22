@@ -88,7 +88,7 @@ and the Explanation thereto states:
 
  [Emphasis added] 
 
-14     Section 54B was incorporated into the SCA in 2005. Even before that provision was enacted, the question of transferring an action from the Subordinate Courts to the High Court to aid enforcement had been considered in _Cheong Ghim Fah v Murugian s/o Rangasamy (No 2)_ [2004] 3 SLR 193, wherein V K Rajah JC stated at [15]: 
+14     Section 54B was incorporated into the SCA in 2005. Even before that provision was enacted, the question of transferring an action from the Subordinate Courts to the High Court to aid enforcement had been considered in _Cheong Ghim Fah v Murugian s/o Rangasamy (No 2)_ <span class="citation">[2004] 3 SLR 193</span>, wherein V K Rajah JC stated at [15]: 
 
  ... It seems clear to me that if a subordinate court judgment cannot be enforced as a foreign 
 

@@ -218,7 +218,7 @@ Authority of Singapore. According to the relevant government website, such a pas
 
 45     Ling’s response was as follows. First, he said that the transcript which LTAT was relying on was of a hearing on 20 February 2013. That was more than one year before 27 November 2015. He alleged that he is ordinarily resident in Kuala Lumpur, Kuching and Sibu in Malaysia. Also, Ling has been providing his Malaysian addresses in various documents pertaining to the writ in Malaysia and the bankruptcy application in Singapore. 
 
-46     Secondly, any information allegedly conveyed to Haron by Ling’s wife, domestic helper and security guard about Ling’s ordinary residence or place of residence was hearsay evidence and should be disregarded. This argument was based on the proposition enunciated in _Tjong Very Sumito v Chan Sing En_ [2011] 2 SLR 360 (“ _Tjong_ ”) by the High Court at [11] that, “It is the state of mind of the “propositus” that is paramount in determining ordinary residence”. 
+46     Secondly, any information allegedly conveyed to Haron by Ling’s wife, domestic helper and security guard about Ling’s ordinary residence or place of residence was hearsay evidence and should be disregarded. This argument was based on the proposition enunciated in _Tjong Very Sumito v Chan Sing En_ <span class="citation">[2011] 2 SLR 360</span> (“ _Tjong_ ”) by the High Court at [11] that, “It is the state of mind of the “propositus” that is paramount in determining ordinary residence”. 
 
 47     Thirdly, Ling alleged that he resides separately from his wife whom he has separated from since 
 

@@ -16,7 +16,7 @@
 
 _Companies Winding Up_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2015] SGHC 142.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2015] SGHC 142</span>.] 
 
 27 November 2015 
 
@@ -24,7 +24,7 @@ _Companies Winding Up_
 
 1       A winding-up order was made against the appellant company. The order was made on the basis of the appellant’s deemed insolvency, a statutory demand for payment having been made without being honoured. The underlying debt is not disputed; the only dispute as to quantum concerns the computation of additional charges and costs which have accrued since the issuance of the statutory demand. 
 
-2       In this appeal, the appellant challenges the winding up order that was made below by a High Court judge (“the Judge”) whose decision is published as _United Overseas Bank Ltd v Bombay Talkies (S) Pte Ltd_ [2015] SGHC 142. The main argument canvassed by the appellant’s counsel, Mr Madan Assomull, centred on whether the debt had been compounded to the reasonable satisfaction of the respondent by dint of an arrangement that was entered into between the parties for monthly instalments to be paid to the respondent (“the Repayment Agreement”). 
+2       In this appeal, the appellant challenges the winding up order that was made below by a High Court judge (“the Judge”) whose decision is published as _United Overseas Bank Ltd v Bombay Talkies (S) Pte Ltd_ <span class="citation">[2015] SGHC 142</span>. The main argument canvassed by the appellant’s counsel, Mr Madan Assomull, centred on whether the debt had been compounded to the reasonable satisfaction of the respondent by dint of an arrangement that was entered into between the parties for monthly instalments to be paid to the respondent (“the Repayment Agreement”). 
 
 3       The statutory demand was issued on 21 February 2014 and served on the appellant on 24 February 2014. The Repayment Agreement was set out in a letter from the respondent’s solicitors to the appellant’s solicitors dated 30 April 2014. 
 

@@ -646,7 +646,7 @@ inducement or threat but whether the accused person perceived the statements and
 
 ## interview appeared to have propelled the recording process into the realm of oppression alluded to by Chao Hick Tin JA in Yeo 
 
-## Swee How v Public Prosecutor [1997] 2 SLR 390 at 400E-H where he observed that cross-examination could render a statement 
+## Swee How v Public Prosecutor <span class="citation">[1997] 2 SLR 390</span> at 400E-H where he observed that cross-examination could render a statement 
 
 inadmissible if it amounted to oppression. The learned DPPs comment in his supplementary submission that there may be occasions when the prosecutions own evidence per se may indicate some element of involuntariness, was apt and applied to the situation at hand squarely. 
 
@@ -1829,7 +1829,7 @@ before doing some window shopping. Just about this time, the telephone in his ro
 
 184    Before dealing with the submissions made in respect of the guilt or innocence of the second accused, reference should be 
 
-## made to what the Court of Appeal said in Vinit Sopon & Ors v Public Prosecutors [1994] 2 SLR 226, where Yong Pung How CJ, 
+## made to what the Court of Appeal said in Vinit Sopon & Ors v Public Prosecutors <span class="citation">[1994] 2 SLR 226</span>, where Yong Pung How CJ, 
 
 in delivering the judgment of the Singapore Court of Criminal Appeal, said at page 241E-G: 
 
@@ -1862,7 +1862,7 @@ in delivering the judgment of the Singapore Court of Criminal Appeal, said at pa
 
 ## crime. 
 
-## 185 In relation to abetment by conspiracy, in Lai Kam Loy & Ors v Public Prosecutor [1994] 1 SLR 787, Yong Pung How CJ 
+## 185 In relation to abetment by conspiracy, in Lai Kam Loy & Ors v Public Prosecutor <span class="citation">[1994] 1 SLR 787</span>, Yong Pung How CJ 
 
 commented at 795: 
 
@@ -1904,7 +1904,7 @@ commented at 795:
 
 ## must have conspired with one or more of the others. 
 
-## 186 In Public Prosecutor v Sugianto & Anor [1994] 2 SLR 1, the Court of Appeal reiterated at page 16: 
+## 186 In Public Prosecutor v Sugianto & Anor <span class="citation">[1994] 2 SLR 1</span>, the Court of Appeal reiterated at page 16: 
 
 ## The essential ingredient of a conspiracy is agreement. (See the judgment of the 
 
@@ -2082,7 +2082,7 @@ highly technically placed and if you open them (page 37 of the transcripts) and 
 
 200    However, it would be instructive at this stage to call to mind the applicable principles enunciated by the Court of Appeal in like situations. 
 
-## 201 In Sim Teck Ho v Public Prosecutor [2000] 4 SLR 39 at 43, it was held by the Court of Appeal (per Yong Pung How CJ) that: 
+## 201 In Sim Teck Ho v Public Prosecutor <span class="citation">[2000] 4 SLR 39</span> at 43, it was held by the Court of Appeal (per Yong Pung How CJ) that: 
 
 ## Therefore, in order to prove possession, the prosecution must prove that there is 
 
@@ -2098,7 +2098,7 @@ highly technically placed and if you open them (page 37 of the transcripts) and 
 
 ## been wilfully blind to the reality. In this regard, Yong Pung How CJ, in delivering the opinion of the Court of Appeal in Chou 
 
-## Kooi Pang & Anor v Public Prosecutor [1998] 3 SLR 593 at 599 observed: 
+## Kooi Pang & Anor v Public Prosecutor <span class="citation">[1998] 3 SLR 593</span> at 599 observed: 
 
 ## Ignorance can only be a defence where there was no reason for suspicion. In 
 
@@ -2112,7 +2112,7 @@ highly technically placed and if you open them (page 37 of the transcripts) and 
 
 ## bag was delivered to the second appellant amounted to wilful blindness to the 
 
-## obvious truth of the matter: PP v Hla Win [1995] 2 SLR 424. 
+## obvious truth of the matter: PP v Hla Win <span class="citation">[1995] 2 SLR 424</span>. 
 
 ## 204 Now some first principles: In Tan Ah Tee & Anor v Public Prosecutor [1978-1979] SLR 211, the Singapore Court of Criminal 
 
@@ -2208,7 +2208,7 @@ scoundrel.
 
 210    There was an attempt by the prosecution to assail his credibility. This was on account of certain inconsistencies in his evidence on some dates mentioned by him in his statements as well as in his testimony. Chief amongst them was the date on which Naseem Khan made the first offer to him to visit Singapore. The third accused said it was on 15 March 2000. But his passport entries showed that he was in Uganda at that time and had not arrived in Pakistan until 25 March 2000. The prosecution opened fire with all its guns blazing on this. But the forgotten fact was that he had previously, well before he was confronted with his passport entry, told the court that this meeting with Naseem Khan took place on the very day he returned from Uganda and the said offer was made to him when members of his family gathered around him upon his return at his residence. In my evaluation, the said discrepancy should not be viewed as a deliberate lie on his part but was caused due to his inability to recall the correct date. In any event, even if it was a lie, which I did not think it was, it was not of that category of a lie 
 
-## bespoken in R v Lucas [1981] QB 720 or Public Prosecutor v Yeo Choon Poh [1994] 2 SLR 867, being a deliberate lie, related to a 
+## bespoken in R v Lucas [1981] QB 720 or Public Prosecutor v Yeo Choon Poh <span class="citation">[1994] 2 SLR 867</span>, being a deliberate lie, related to a 
 
 material issue, motivated by a realisation of guilt and fear of truth. In this regard, it behoved the court to bear in mind the advice 
 
@@ -2224,13 +2224,13 @@ given out of a realization of guilt and fear of truth relating to a material iss
 
 214    The learned DPP in his submission urged the court to draw an adverse inference against the third accused for his failure to mention in his cautioned statement that he had brought the suitcases from Pakistan to return them to their owner Hash. This was a curious submission so to speak. First of all, the court noted that the prosecution was singularly shy in not tendering this cautioned statement during the prosecutions case for reasons well known to it. Having elected so, it did not fall for the prosecution to argue later that the third accused should have mentioned the particulars alluded to in his cautioned statement. 
 
-## 215 Secondly, the case cited by the prosecution Roshdi v Public Prosecutor [1994] 3 SLR 282 highlights the aspect that a 
+## 215 Secondly, the case cited by the prosecution Roshdi v Public Prosecutor <span class="citation">[1994] 3 SLR 282</span> highlights the aspect that a 
 
 cautioned statement recorded under s 122(6) of the CPC does not require the accused person to minutely detail the defence he would be relying on at the trial. At any rate, looking at the cautioned statement in its true perspective, it was my opinion that the third accused had stated his position sufficiently. In any event, in the statement (exh P-50) made by him on 10 April 2000 two days after his cautioned statement he had adequately adumbrated his defence. In the circumstances, the invitation by the prosecution to draw an adverse inference against the third accused pursuant to s 122(3) of the CPC was found by me to be 
 
 ## entirely unprepossessing. In this, I am fortified by a view expressed by the Singapore Court of Appeal in Public Prosecutor v 
 
-## Abdul Naser bin Amer Hamsah [1997] 1 SLR 73 where the court observed that no adverse inference could be drawn when the 
+## Abdul Naser bin Amer Hamsah <span class="citation">[1997] 1 SLR 73</span> where the court observed that no adverse inference could be drawn when the 
 
 
 defence was disclosed in an investigation statement recorded. 
@@ -2263,7 +2263,7 @@ _absolved_. (Thomas Fuller 1654-1734). The foregoing sayings are no mere aphoris
 
 ## doubt in due course set out my reasons in this connection in writing. However, 
 
-## within the parameters laid out in Goh Lai Wak v PP [1994] 1 SLR 748, I must say 
+## within the parameters laid out in Goh Lai Wak v PP <span class="citation">[1994] 1 SLR 748</span>, I must say 
 
 ## that the case against the third accused was by and large anchored amongst 
 

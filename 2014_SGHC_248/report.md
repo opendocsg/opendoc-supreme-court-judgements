@@ -94,7 +94,7 @@ assets or just to the Aston Mansion? This has a significant bearing on the quant
 
 _The Court should not give effect to the DOS_ 
 
-11     The husband’s position is that the court should give no weight to the DOS and should divide the matrimonial assets according to the well-established principles of asset division under the WC. He relies on Belinda Ang Saw Ean J’s judgment in _Wong Kien Keong v Khoo Hoon Eng_ [2014] 1 SLR 1342 (“ _Wong Kien Keong_ ”) at [18] and [31] that: 
+11     The husband’s position is that the court should give no weight to the DOS and should divide the matrimonial assets according to the well-established principles of asset division under the WC. He relies on Belinda Ang Saw Ean J’s judgment in _Wong Kien Keong v Khoo Hoon Eng_ <span class="citation">[2014] 1 SLR 1342</span> (“ _Wong Kien Keong_ ”) at [18] and [31] that: 
 
  ... [T]he court has the overriding power to scrutinise the terms of both prenuptial and postnuptial agreements (including deeds of separation) and will do so in accordance with the principles of justice, fairness and equity to both parties ... 
 
@@ -102,7 +102,7 @@ _The Court should not give effect to the DOS_
 
  How much weight the court accords to a marital agreement depends on the division under the agreement as well as the facts of the case, which means that not only the terms but also the parties’ conduct surrounding the making and the execution of the agreement would be scrutinised. In addition, the court will look at the marital agreement in light of the other factors set out in section 112(2). ... 
 
-12     Furthermore, in _AQS v AQR_ [2012] SGCA 3, Chao Hick Tin JA noted at [35] that the parties’ agreement made in contemplation of divorce could not be decisive. The husband submits that the 
+12     Furthermore, in _AQS v AQR_ <span class="citation">[2012] SGCA 3</span>, Chao Hick Tin JA noted at [35] that the parties’ agreement made in contemplation of divorce could not be decisive. The husband submits that the 
 
 DOS should not be given weight because: [note: 12] 
 
@@ -123,7 +123,7 @@ Additionally, the husband alleges that the wife had “mentally overpower[ed]”
 move out of Aston Mansion prematurely in breach of cl 1(ii) of the DOS. [note: 16] 
 
 
-13     The husband also alleges that he was not legally advised as to his rights to a just and equitable division of the matrimonial assets. Therefore he erroneously believed that he had no rights to the matrimonial property. He tried to distinguished this case from _Surindar Singh s/o Jaswant Singh v Sita Jaswant Kaur_ [2014] 3 SLR 1284 (“ _Surindar_ ”) in which the Court of Appeal upheld the deed of separation of the spouses who separately had independent legal advice and had entered into the settlement agreement pursuant to a mediation session. In this case, the husband alleged that he had 
+13     The husband also alleges that he was not legally advised as to his rights to a just and equitable division of the matrimonial assets. Therefore he erroneously believed that he had no rights to the matrimonial property. He tried to distinguished this case from _Surindar Singh s/o Jaswant Singh v Sita Jaswant Kaur_ <span class="citation">[2014] 3 SLR 1284</span> (“ _Surindar_ ”) in which the Court of Appeal upheld the deed of separation of the spouses who separately had independent legal advice and had entered into the settlement agreement pursuant to a mediation session. In this case, the husband alleged that he had 
 
 not signed the DOS willingly. He signed it as the wife had threatened and pestered him. [note: 17] Therefore the court should not place any weight on the DOS. Instead the court should decide the 
 
@@ -131,7 +131,7 @@ matter afresh, considering other factors under s 112(2) of the WC. [note: 18]
 
 _The court should divide the matrimonial assets with regard to the s 112(2) WC factors_ 
 
-14     Since the husband argues that the DOS should not be given weight, the division of matrimonial assets should take on a broad-brush basis (see _NI v NJ_ [2007] 1 SLR(R) 75 (“ _NI v NJ_ ”)) pursuant to the factors listed in s 112(2) of the WC. This includes taking into consideration the extent of the 
+14     Since the husband argues that the DOS should not be given weight, the division of matrimonial assets should take on a broad-brush basis (see _NI v NJ_ <span class="citation">[2007] 1 SLR(R) 75</span> (“ _NI v NJ_ ”)) pursuant to the factors listed in s 112(2) of the WC. This includes taking into consideration the extent of the 
 
 direct and indirect contributions of the parties. [note: 19] In this analysis, the court should also consider that the marriage was a short one with no children. Since the law typically awards a low 
 
@@ -461,7 +461,7 @@ _The broad brush approach_
 
 59     It is pertinent to set out the characteristics of the marriage for the purpose of dividing the other matrimonial asset of the parties. This was a marriage of about seven years. However I disagree with the parties when they characterised the marriage first as one in which the wife was a homemaker and second as a childless one. 
 
-60     First, the wife was not a homemaker. In _Matrimonial Asset Division_ , it is clear that the author’s classification was based on whether the wife was a _full-time homemaker_ or was not one. Similarly, the cases which were classified as “Marriage under 10 years – Working couple with children”, _viz TV v TW_ [2007] SGHC 113, _ALJ v ALK_ [2010] SGHC 255 and _YG v YH_ [2008] SGHC 166 show that all the wives were working _to some extent_ , even if their financial earning power was far less than the husband. Given that the wife was working for four years out of a seven year marriage, it is my view that the wife would be more appropriately treated as a working mother with a child in a short marriage of under 10 years and not a homemaker (see para 94 of _Matrimonial Asset Division_ ). 
+60     First, the wife was not a homemaker. In _Matrimonial Asset Division_ , it is clear that the author’s classification was based on whether the wife was a _full-time homemaker_ or was not one. Similarly, the cases which were classified as “Marriage under 10 years – Working couple with children”, _viz TV v TW_ <span class="citation">[2007] SGHC 113</span>, _ALJ v ALK_ <span class="citation">[2010] SGHC 255</span> and _YG v YH_ <span class="citation">[2008] SGHC 166</span> show that all the wives were working _to some extent_ , even if their financial earning power was far less than the husband. Given that the wife was working for four years out of a seven year marriage, it is my view that the wife would be more appropriately treated as a working mother with a child in a short marriage of under 10 years and not a homemaker (see para 94 of _Matrimonial Asset Division_ ). 
 
 61     Second, the parties also made submissions on the common basis that the marriage was a childless one. This is erroneous as the wife has a child from her previous marriage and he stayed with them. The child thus fell within the definition of s 92 of the WC, which sets out the definition of a “child of the marriage” as follows: 
 
@@ -482,7 +482,7 @@ _The broad brush approach_
 
  (i) In the case of TV v TW , supra, the wife in a 4 year marriage with 3 young children contributed to 50% of the family expenses, working as a music teacher. The husband had a “chequered employment history” (per Woo Bih Li J, at para. 41). The court added up the assets in each party’s name to see by how much the husband’s exceeded the wife’s, and gave the wife a portion of the excess because of her greater non-financial contribution. The wife received 15% of the sale proceeds of one property, when her contribution was 4.3%, and 12% of husband’s CPF monies which were in excess of hers. The low award could be partly because the wife had a share in a property in Australia and also one in Singapore purchased before marriage, which were not up for division. 
 
- (ii) In ALJ v ALK [2010] SGHC 255, the wife in a 3 year marriage with 2 young children received 8% of the matrimonial assets (consisting of the husband’s savings of US$45, over 3 years of marriage). The wife worked as a property agent during the marriage, but did not contribute anything to the matrimonial assets. ... 
+ (ii) In ALJ v ALK <span class="citation">[2010] SGHC 255</span>, the wife in a 3 year marriage with 2 young children received 8% of the matrimonial assets (consisting of the husband’s savings of US$45, over 3 years of marriage). The wife worked as a property agent during the marriage, but did not contribute anything to the matrimonial assets. ... 
 
  (iii) In YG v YH , supra, the wife in an 8 year marriage was awarded 55% of the pool of matrimonial assets. The court found the wife’s direct financial contributions to be 54%, her indirect financial contributions to be 25%, and her indirect non-financial contributions to be 65%. It appears that the court more or less followed the parties’ direct financial contributions in making the award. 
 
@@ -581,7 +581,7 @@ firm. [note: 63] Currently, she works as a revenue director earning $6,750 per m
 
 73     The tone of the email suggests that the wife was still clinging on to the hope of saving her marriage as of 24 January 2011. In that light, while the husband and the wife disagree on the extent to which the wife accommodated his three children from his ex-marriage and the role she played in getting his new job, I also find that the wife’s case is more probable and it is likely that she had provided _some_ degree of support to the husband when he was in the process of getting his new job, managed the household and was the primary caregiver of her son. Recognition should be given to those efforts. 
 
-74     In dividing the assets, I also bear in mind the large sums received by the wife from the husband during the course of their marriage and the fact that the husband’s direct contribution to the matrimonial assets was far greater than the wife’s direct contribution. I also note that she had obtained a sizeable chunk of the matrimonial assets as a result of the DOS. In this regard, _ACU v ACR_ [2011] 1 SLR 1235 (“ _ACU_ ”) is helpful as it contains very similar facts to the case at hand. 
+74     In dividing the assets, I also bear in mind the large sums received by the wife from the husband during the course of their marriage and the fact that the husband’s direct contribution to the matrimonial assets was far greater than the wife’s direct contribution. I also note that she had obtained a sizeable chunk of the matrimonial assets as a result of the DOS. In this regard, _ACU v ACR_ <span class="citation">[2011] 1 SLR 1235</span> (“ _ACU_ ”) is helpful as it contains very similar facts to the case at hand. 
 
 75     That case concerned a marriage of seven years between a Singaporean male and a Chinese wife. Where matrimonial asset division was concerned, the wife’s case was that she had been a housewife studying part-time while the husband worked full-time. The husband’s case was that he had transferred significant sums of money to the wife’s family in China and paid substantial amounts to finance her education. As there was cogent evidence from the husband evidencing the money transfers (at [67]), Woo Bih Li J held that the wife had received substantial monetary benefit from the marriage and spent a substantial amount of her time studying. She was not making a full-time contribution to the household and neither had she sacrificed her career for the household. In the circumstances, Woo J rejected her claim for 40% of the matrimonial flat. Instead, the flat was ordered 
 

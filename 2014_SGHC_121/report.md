@@ -26,7 +26,7 @@ _Criminal Law_ – _Statutory Offences_ – _Misuse of Drugs Act_
 
 2       The Appellant filed a notice of appeal against the conviction. However, in his petition of appeal, he stated that he was dissatisfied with the DJ’s judgment on the ground that “the sentence is unreasonable”. As these documents were filed by him before he had legal representation, I shall treat the appeal as one against both conviction and sentence. 
 
-3       The dispute concerned how the variance of the results of urine tests conducted under s 31(4) ( _b_ ) of the MDA should be calculated. I heard the parties on 16 May 2014. A similar issue arose in another matter (Originating Summons No 991 of 2013 (“ _Zheng Jianxing v AG_ ” – grounds of decision have been issued in that case at [2014] SGHC 120) that was scheduled for hearing on 26 May 2014. Mr S K Kumar, the Appellant’s counsel here, is also counsel for the applicant in _Zheng Jianxing v AG._ I therefore reserved judgment in this appeal pending the determination of _Zheng Jianxing v AG_. The parties attended before me again on 26 May 2014 immediately after the hearing in _Zheng Jianxing v AG_. At that hearing, I dismissed the appeal against conviction and sentence. I now set out the grounds for my decision. 
+3       The dispute concerned how the variance of the results of urine tests conducted under s 31(4) ( _b_ ) of the MDA should be calculated. I heard the parties on 16 May 2014. A similar issue arose in another matter (Originating Summons No 991 of 2013 (“ _Zheng Jianxing v AG_ ” – grounds of decision have been issued in that case at <span class="citation">[2014] SGHC 120</span>) that was scheduled for hearing on 26 May 2014. Mr S K Kumar, the Appellant’s counsel here, is also counsel for the applicant in _Zheng Jianxing v AG._ I therefore reserved judgment in this appeal pending the determination of _Zheng Jianxing v AG_. The parties attended before me again on 26 May 2014 immediately after the hearing in _Zheng Jianxing v AG_. At that hearing, I dismissed the appeal against conviction and sentence. I now set out the grounds for my decision. 
 
 **Undisputed Facts** 
 
@@ -165,7 +165,7 @@ mandatory minimum sentence prescribed by the MDA for the Appellant’s offence i
 
 **Appeal against Sentence** 
 
-22     The Court of Appeal stated in _Public Prosecutor v Kwong Kok Hing_ [2008] 2 SLR(R) 684 at [13] 
+22     The Court of Appeal stated in _Public Prosecutor v Kwong Kok Hing_ <span class="citation">[2008] 2 SLR(R) 684</span> at [13] 
 
 - [16] that sentencing is a complex discretionary process and an appellate court should only interfere with a sentence meted out by the trial judge where it is satisfied that: 
 

@@ -53,7 +53,7 @@ Rev Ed) (“the SOP Act”), the plaintiff paid into court as security the sum o
 
  After the commencement of the winding up no action or proceeding shall be proceeded with or commenced against the company except by leave of the Court and subject to such terms as the Court imposes. 
 
-12     The rationale behind the provision is well established. In _Korea Asset Management Corp v Daewoo Singapore Ptd Ltd (in liquidation)_ [2004] 1 SLR(R) 671 (“ _Korea Asset Management_ ”), VK Rajah JC set it out clearly as follows: 
+12     The rationale behind the provision is well established. In _Korea Asset Management Corp v Daewoo Singapore Ptd Ltd (in liquidation)_ <span class="citation">[2004] 1 SLR(R) 671</span> (“ _Korea Asset Management_ ”), VK Rajah JC set it out clearly as follows: 
 
  36 ... [the purpose of s 299(2)] is to prevent the company from being further burdened by expenses incurred in defending unnecessary litigation. The main focus of a company and its 
 
@@ -64,7 +64,7 @@ Rev Ed) (“the SOP Act”), the plaintiff paid into court as security the sum o
 
  [emphasis added] 
 
-13     More recently, in _LaserResearch (S) Pte Ltd (in liquidation) v Internech Systems Pte Ltd and another matter_ [2011] 1 SLR 382 (“ _LaserResearch_ ”), Belinda Ang J highlighted the purpose and function of s 299(2) of the Companies Act in quoting the following passage from _Woon’s Corporations Law_ (LexisNexis, Looseleaf Ed, 1994, Issue 34 (March 2010 release)) at [12]: 
+13     More recently, in _LaserResearch (S) Pte Ltd (in liquidation) v Internech Systems Pte Ltd and another matter_ <span class="citation">[2011] 1 SLR 382</span> (“ _LaserResearch_ ”), Belinda Ang J highlighted the purpose and function of s 299(2) of the Companies Act in quoting the following passage from _Woon’s Corporations Law_ (LexisNexis, Looseleaf Ed, 1994, Issue 34 (March 2010 release)) at [12]: 
 
  The purpose of s 299(2) ... is to preserve the limited assets of the company in the best way for distribution among all the persons who have claims upon them. As the fund is limited, it ought not to be diminished because of costs incurred due to actions against the company ... The policy in winding up is that all claims should generally be disposed of by the cheap summary procedure of proving a debt in the winding up rather than by dissipating the assets in a multiplicity of suits. 
 
@@ -110,7 +110,7 @@ defendant.
 
 23     The plaintiff argued that it had legitimate reasons for wanting to proceed with the claims in Suit 112 outside the insolvency scheme. 
 
-24     The plaintiff referred me to the case of _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ [2013] 3 SLR 380 (“ _W Y Steel Construction_ ”), in which the court recognised the need to protect the interests of an initially unsuccessful claimant who has paid monies into court pursuant to an adjudication determination in order to achieve effective justice. In circumstances where the initially successful party is in financial distress such that any monies paid to it is not likely to be recoverable by the time the parties’ rights are finally determined, the court may be inclined to grant a stay of enforcement of the adjudication determination, taking into account relevant factors such as whether the failure to make payment had contributed to such distress and whether the claimant was already in distress when the parties entered into their contract: see _W Y Steel Construction_ at [64] and [70]. 
+24     The plaintiff referred me to the case of _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ <span class="citation">[2013] 3 SLR 380</span> (“ _W Y Steel Construction_ ”), in which the court recognised the need to protect the interests of an initially unsuccessful claimant who has paid monies into court pursuant to an adjudication determination in order to achieve effective justice. In circumstances where the initially successful party is in financial distress such that any monies paid to it is not likely to be recoverable by the time the parties’ rights are finally determined, the court may be inclined to grant a stay of enforcement of the adjudication determination, taking into account relevant factors such as whether the failure to make payment had contributed to such distress and whether the claimant was already in distress when the parties entered into their contract: see _W Y Steel Construction_ at [64] and [70]. 
 
 25     In the present case, the plaintiff had filed SUM 634 in OS 1160 for the enforcement of the adjudication determination to be stayed in the event that it was granted. Its position, as I understood it, was that if the $1.1m paid into court were released to the liquidator, there was the real risk that the sum cannot be recovered by the time the issues are substantively determined at trial and its interests would be prejudiced (see [21] above). Given the principle in _W Y Steel Construction_ and the defendant’s present state of insolvency, the plaintiff argued that it was likely for the court hearing OS 1160 to grant the stay. The result would be that the monies paid into court would remain locked in indefinitely until Suit 112 is heard and parties’ rights are finally determined. The plaintiff would then find itself right back where it started — in order to access the monies paid into court, it would have to seek leave to proceed with Suit 112. 
 

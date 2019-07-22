@@ -16,7 +16,7 @@
 
 _Contract_ – _Remedies_ – _Remoteness of damage_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2012] 3 SLR 428.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2012] 3 SLR 428</span>.] 
 
 6 February 2013 
 
@@ -53,7 +53,7 @@ On its part, WI agreed to supply 18 for at least two years. WI also agreed to �
 
 7       At the assessment of damages, OOTB claimed “reliance damages” amounting to $779,812.30. These were expenses that OOTB said it had incurred in reliance upon the Contract and which had been wasted as a consequence of WI’s breach. The bulk of the expenses claimed by OOTB were advertising costs. The Assistant Registrar (“the AR”) assessed OOTB’s damages in the sum of $655,280.70. The AR made some adjustments to the value of the two largest components of OOTB’s claims: firstly, the use of some advertising credits that belonged to OOTB and which it had used to promote 18 (“the ActMedia expenses”) and secondly, the redemption of a prize it had won for an advertising campaign that it had earlier conducted for an entirely unrelated line of products (“the Clear Channel expenses”). 
 
-8       WI appealed and OOTB cross appealed against the AR’s decision. The High Court judge (“the Judge”) who heard the two Registrar’s Appeals allowed WI’s appeal in part and held that OOTB had not adequately proven its loss in respect of the ActMedia expenses and the Clear Channel expenses. The Judge held in _Out of the Box Pte Ltd v Wanin Industries Pte Ltd_ [2012] 3 SLR 428 at [9] that: 
+8       WI appealed and OOTB cross appealed against the AR’s decision. The High Court judge (“the Judge”) who heard the two Registrar’s Appeals allowed WI’s appeal in part and held that OOTB had not adequately proven its loss in respect of the ActMedia expenses and the Clear Channel expenses. The Judge held in _Out of the Box Pte Ltd v Wanin Industries Pte Ltd_ <span class="citation">[2012] 3 SLR 428</span> at [9] that: 
 
  9 There was no evidence that the value of the relevant services was commensurate with their “sticker” price. This was because the latter could have an element of arbitrariness depending on the balance of the advertising credits remaining at the time that they were used (which [OOTB] had to utilise fully or else allow to lapse). Notwithstanding that uncertainty, it is [OOTB’s] responsibility to provide some means of gauging the extent of its loss. [OOTB] must satisfy the court both as to the fact of damage and as to its amount, or else be awarded nominal damages at most. Furthermore, it is for [OOTB] to prove that the expenses claimed would be recouped on 
 
@@ -142,7 +142,7 @@ the rule in _Hadley v Baxendale_ , the limit is defined in terms of the conseque
 
  (d) having regard to the knowledge that may properly be attributed to the defendant at the time of the contract, what would have been foreseeable at that time to the reasonable person in his position to be the not unlikely consequences of his breach. 
 
-22     The rationale behind the principle of remoteness of damage in contract and the application of the rule in _Hadley v Baxendale_ was discussed in some detail by this Court in _Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd and another_ [2008] 2 SLR(R) 623 (“ _Robertson Quay_ ”), where we affirmed the continued applicability of the rule in _Hadley v Baxendale_ (as restated in _Victoria Laundry_ ) in Singapore. In _Robertson Quay_ , after an extensive review of the authorities, we observed (at [70]) that although the rule in _Hadley v Baxendale_ was not without its difficulties, it had served well in providing a guiding set of principles for the courts. In that same case, we also affirmed our earlier observations in _Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric_ [2007] 3 SLR(R) 782 (“ _Sunny Metal_ ”) as follows: 
+22     The rationale behind the principle of remoteness of damage in contract and the application of the rule in _Hadley v Baxendale_ was discussed in some detail by this Court in _Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd and another_ <span class="citation">[2008] 2 SLR(R) 623</span> (“ _Robertson Quay_ ”), where we affirmed the continued applicability of the rule in _Hadley v Baxendale_ (as restated in _Victoria Laundry_ ) in Singapore. In _Robertson Quay_ , after an extensive review of the authorities, we observed (at [70]) that although the rule in _Hadley v Baxendale_ was not without its difficulties, it had served well in providing a guiding set of principles for the courts. In that same case, we also affirmed our earlier observations in _Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric_ <span class="citation">[2007] 3 SLR(R) 782</span> (“ _Sunny Metal_ ”) as follows: 
 
  70 ... [T]he concept of remoteness is essentially a necessary limitation imposed by the law to protect the contract-breaker from infinite damages since “the consequences of an act theoretically ... can ... stretch into infinity”. The question of remoteness is ultimately an inquiry in which [quoting from Sunny Metal at [56]]: 
 
@@ -165,7 +165,7 @@ the rule in _Hadley v Baxendale_ , the limit is defined in terms of the conseque
 
  [emphasis added] 
 
-26     These passages leave no room for doubt that Lord Hoffmann viewed the proper approach to the question of remoteness of damage as a question of interpreting the contract. This Court had the opportunity to consider the House of Lords’ decision in _The Achilleas (HL)_ in its subsequent decision in _MFM Restaurants Pte Ltd and another v Fish & Co Restaurants Pte Ltd and another appeal_ [2011] 1 SLR 150 (“ _MFM Restaurants_ ”). After once again undertaking an extensive review of existing case law and academic commentaries, we rejected Lord Hoffmann’s new approach towards remoteness of damage in contract, at least to the extent it deviated from the rule in _Hadley v Baxendale_ , concluding 
+26     These passages leave no room for doubt that Lord Hoffmann viewed the proper approach to the question of remoteness of damage as a question of interpreting the contract. This Court had the opportunity to consider the House of Lords’ decision in _The Achilleas (HL)_ in its subsequent decision in _MFM Restaurants Pte Ltd and another v Fish & Co Restaurants Pte Ltd and another appeal_ <span class="citation">[2011] 1 SLR 150</span> (“ _MFM Restaurants_ ”). After once again undertaking an extensive review of existing case law and academic commentaries, we rejected Lord Hoffmann’s new approach towards remoteness of damage in contract, at least to the extent it deviated from the rule in _Hadley v Baxendale_ , concluding 
 
 
 as follows at [140]: 

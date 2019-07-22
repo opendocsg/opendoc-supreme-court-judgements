@@ -76,7 +76,7 @@ _Trusts_ – _Express trusts_ – _Resulting Trusts_
 
  [emphasis in original] 
 
-20     Lord Browne-Wilkinson’s view was endorsed by the Court of Appeal in _Lau Siew Kim v Yeo Guan Chye Terence_ [2008] 2 SLR 108. 
+20     Lord Browne-Wilkinson’s view was endorsed by the Court of Appeal in _Lau Siew Kim v Yeo Guan Chye Terence_ <span class="citation">[2008] 2 SLR 108</span>. 
 
 21     Lee claimed that there was a resulting trust in his favour because he had financed the setting up and operation of Transcrane. In his AEIC filed on 5 January 2009, he stated at [24] as follows: 
 

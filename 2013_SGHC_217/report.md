@@ -89,13 +89,13 @@ Plaintiff applied for a Mareva injunction in OS 681/2013.
  (6) In every case, the High Court or a Judge thereof shall make an order under subsection (2) only if or to the extent that the arbitral tribunal, and any arbitral or other institution or person vested by the parties with power in that regard, has no power or is unable for the time being to act effectively. 
 
 
-The powers conferred under s 12A of the IAA include the power to grant a Mareva injunction ( _Maldives Airports Co Ltd v GMR Malé International Airport Pte Ltd_ [2013] 2 SLR 449 at [34]). 
+The powers conferred under s 12A of the IAA include the power to grant a Mareva injunction ( _Maldives Airports Co Ltd v GMR Malé International Airport Pte Ltd_ <span class="citation">[2013] 2 SLR 449</span> at [34]). 
 
 15     At the hearing of the _ex parte_ application, the Plaintiff had submitted that the requirements of appropriateness (s 12A(3) of the IAA), urgency (s 12A(4) of the IAA) and the inability of the arbitral tribunal to act effectively for the time being (s 12A(6) of the IAA) were satisfied. The Defendant made no submissions to the contrary at the hearing of SUM 4122/2013. I was satisfied that the requirements under s 12A of the IAA were fulfilled and need say no more about them. 
 
 **_The law on Mareva injunctions_** 
 
-16     To obtain a Mareva injunction, an applicant must show that it has a good arguable case and that there is a real risk of dissipation of assets: _Guan Chong Cocoa Manufacturer Sdn Bhd v Pratiwi Shipping SA_ [2003] 1 SLR(R) 157 (“ _Guan Chong Cocoa_ ”) at [17]. While there is no need to show an _intention_ to dissipate assets, a mere assertion that there is a risk of dissipation will not suffice ( _Guan Chong Cocoa_ at [18]): 
+16     To obtain a Mareva injunction, an applicant must show that it has a good arguable case and that there is a real risk of dissipation of assets: _Guan Chong Cocoa Manufacturer Sdn Bhd v Pratiwi Shipping SA_ <span class="citation">[2003] 1 SLR(R) 157</span> (“ _Guan Chong Cocoa_ ”) at [17]. While there is no need to show an _intention_ to dissipate assets, a mere assertion that there is a risk of dissipation will not suffice ( _Guan Chong Cocoa_ at [18]): 
 
  18 ... There must be some “solid evidence” to substantiate the alleged risk. In the words of Mustill J in The Niedersachsen , whose judgment was upheld on appeal, (at 406): 
 
@@ -105,7 +105,7 @@ The powers conferred under s 12A of the IAA include the power to grant a Mareva 
 
 17     It should be noted that the Defendant did not argue that the Plaintiff did not have a good arguable case. It centred on the second requirement of a real risk of dissipation of assets, which will be addressed below. 
 
-18     With regard to the court’s role in an application for the discharge of an _ex parte_ Mareva injunction, the Court of Appeal in _Tay Long Kee Impex Pte Ltd v Tan Beng Huwah (trading as Sin Kwang Wah)_ [2000] 1 SLR(R) 786 (“ _Tay Long Kee Impex_ ”) has laid down the following principles: 
+18     With regard to the court’s role in an application for the discharge of an _ex parte_ Mareva injunction, the Court of Appeal in _Tay Long Kee Impex Pte Ltd v Tan Beng Huwah (trading as Sin Kwang Wah)_ <span class="citation">[2000] 1 SLR(R) 786</span> (“ _Tay Long Kee Impex_ ”) has laid down the following principles: 
 
  (a) An applicant for an ex parte interlocutory injunction has a duty to make full and frank disclosure. The duty to disclose applies not only to material facts known to the applicant but also such additional facts which he would have known if he had made proper inquiries. The extent of the inquiries which an applicant should make would have to depend on the facts and circumstances prevailing in that particular case (at [21]). 
 
@@ -192,7 +192,7 @@ _The alleged breach of the Plaintiff’s duty of full and frank disclosure_
 39     On the full facts and arguments presented, I was of the opinion that the injunction granted in OS 681/2013 should be continued. Although it was easy for Mr Chia to quibble about the language in Banyahyati’s affidavit, not every suggestion of inaccuracy would necessarily result in the discharge of an injunction; a _locus poenitentiae_ may sometimes be afforded (see the observations in _Brink’s-MAT_ 
 
 
-at 193 as endorsed by the Court of Appeal in _Tay Long Kee Impex_ at [27]). Ultimately, the Defendant’s complaints had no bearing on the decision-making process or the outcome of the application. It is apposite to cite the following observations of the Court of Appeal in _The “Vasiliy Golovnin”_ [2008] 4 SLR(R) 994 (at [88]): 
+at 193 as endorsed by the Court of Appeal in _Tay Long Kee Impex_ at [27]). Ultimately, the Defendant’s complaints had no bearing on the decision-making process or the outcome of the application. It is apposite to cite the following observations of the Court of Appeal in _The “Vasiliy Golovnin”_ <span class="citation">[2008] 4 SLR(R) 994</span> (at [88]): 
 
  That said, we think it necessary to add, that parties should not meticulously attempt to dissect the factual matrix in painstaking efforts to “invent” missing material facts. We note that, unfortunately, all too often, in setting aside applications, much unnecessary time is unhelpfully expended in dubiously making out a case of the alleged failure of a claimant to place all the material facts before the court. In many instances, these complaints amount to no more than factual peccadilloes that have no material bearing on the decision-making process or the outcome of the original application. This should be discouraged. What is material is, in the final analysis, essentially a matter of common sense. ... [emphasis in original] 
 

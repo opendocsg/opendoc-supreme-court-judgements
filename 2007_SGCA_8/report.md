@@ -22,7 +22,7 @@ _Credit and Security_ – _Money and moneylenders_ – _Illegal money-lending_ �
 
 Chan Sek Keong CJ (delivering the grounds of decision of the court): 
 
-1       This was an appeal against the decision of Kan Ting Chiu J in _Pankaj s/o Dhirajlal v Donald McArthy Trading Pte Ltd_ [2006] 4 SLR 79 (“ _Pankaj_ ”), who decided against the appellants in their application under O 33 rr 2 and 3(2) of the Rules of Court (Cap 322, R 5, 2004 Rev Ed) for three issues of law to be determined as preliminary issues (“the preliminary issues”). These issues were as follows: 
+1       This was an appeal against the decision of Kan Ting Chiu J in _Pankaj s/o Dhirajlal v Donald McArthy Trading Pte Ltd_ <span class="citation">[2006] 4 SLR 79</span> (“ _Pankaj_ ”), who decided against the appellants in their application under O 33 rr 2 and 3(2) of the Rules of Court (Cap 322, R 5, 2004 Rev Ed) for three issues of law to be determined as preliminary issues (“the preliminary issues”). These issues were as follows: 
 
  (a) Whether the respondent was a moneylender within the terms of the Moneylenders Act (Cap 188, 1985 Rev Ed) (“MLA”); 
 
@@ -66,7 +66,7 @@ These expressions of legislative purpose have been reiterated whenever the MLA h
 
  [emphasis added] 
 
-7       In a similar vein, this court in _Lorrain Esme Osman v Elders Finance Asia Ltd_ [1992] 1 SLR 369 at 378, [39] endorsed Farwell J’s observations in _Litchfield v Dreyfus_ [1906] 1 KB 584 at 590 with respect to the Money-lenders Act 1900 (c 51) (UK), stating that what he said was equally true of the MLA. Farwell J had said that: 
+7       In a similar vein, this court in _Lorrain Esme Osman v Elders Finance Asia Ltd_ <span class="citation">[1992] 1 SLR 369</span> at 378, [39] endorsed Farwell J’s observations in _Litchfield v Dreyfus_ [1906] 1 KB 584 at 590 with respect to the Money-lenders Act 1900 (c 51) (UK), stating that what he said was equally true of the MLA. Farwell J had said that: 
 
  The Act [referring to the English Act] was intended to apply only to persons who are really carrying on the business of money-lending as a business, not to persons who lend money as an incident of another business or to a few old friends by way of friendship. This particular Act was supposed to be required to save the foolish from the extortion of a certain class of the community who are called money-lenders as an offensive term. 
 
@@ -74,7 +74,7 @@ These expressions of legislative purpose have been reiterated whenever the MLA h
 
  ... Much of the evidence given to the Committee, and to its successor appointed in 1898, was concerned with such victims of the rapacious moneylender as the widow forced to borrow on a bill of sale of her household effects, and the young son of the aristocracy who in the course of sowing his wild oats ran up large debts, at exorbitant interest, which his family [was] later blackmailed into paying to avoid the publicity of court proceedings. 
 
-9       The thrust of these comments is clear. The statutory provisions of the MLA, as V K Rajah J observed in _City Hardware Pte Ltd v Kenrich Electronics Pte Ltd_ [2005] 1 SLR 733 (“ _City Hardware_ ”) at [27],“have the salutary objective of proscribing rapacious conduct by unlicensed and unprincipled 
+9       The thrust of these comments is clear. The statutory provisions of the MLA, as V K Rajah J observed in _City Hardware Pte Ltd v Kenrich Electronics Pte Ltd_ <span class="citation">[2005] 1 SLR 733</span> (“ _City Hardware_ ”) at [27],“have the salutary objective of proscribing rapacious conduct by unlicensed and unprincipled 
 
 
 moneylenders” who prey on individuals who turn to them out of financial destitution. The provisions of the MLA are not intended to apply to transactions made at arm’s length between commercial entities. It has never been the objective of the MLA to prohibit or impede legitimate commercial intercourse between commercial persons. Indeed, Rajah J pointed out that the courts should not adopt an overextensive application of the MLA even though its provisions may be _literally_ construed to cover most commercial situations, as that would not advance the _legislative purpose_ of the Act. In _City Hardware_ at [22], Rajah J said that: 
@@ -106,7 +106,7 @@ In elaboration, Rajah J noted at [24] that what constitutes lending must remain 
 
 **_Nature of the Agreement_** 
 
-13     In this appeal, it was clear to us that the Agreement was _ex facie_ a loan or rental of credit facilities. There was no loan of money but a loan or rental of credit facilities, specifically L/C facilities, which the respondent had obtained from his bankers. Before us, counsel for the appellants argued that several characteristics of the Agreement rendered the transactions effected thereunder as loans of money. Counsel also argued that _Nissho Iwai International (Singapore) Pte Ltd v Kohinoor Impex Pte Ltd_ [1995] 3 SLR 268 (“ _Nissho Iwai_ ”) and _City Hardware_ , both of which decided that similar transactions were not loans of money, could be distinguished from the facts of the present appeal. In effect, counsel argued that the Agreement was in substance a moneylending arrangement although in form, it was a loan or rental of L/C facilities. 
+13     In this appeal, it was clear to us that the Agreement was _ex facie_ a loan or rental of credit facilities. There was no loan of money but a loan or rental of credit facilities, specifically L/C facilities, which the respondent had obtained from his bankers. Before us, counsel for the appellants argued that several characteristics of the Agreement rendered the transactions effected thereunder as loans of money. Counsel also argued that _Nissho Iwai International (Singapore) Pte Ltd v Kohinoor Impex Pte Ltd_ <span class="citation">[1995] 3 SLR 268</span> (“ _Nissho Iwai_ ”) and _City Hardware_ , both of which decided that similar transactions were not loans of money, could be distinguished from the facts of the present appeal. In effect, counsel argued that the Agreement was in substance a moneylending arrangement although in form, it was a loan or rental of L/C facilities. 
 
 14     This argument required consideration, as the mere fact that a financing arrangement was made at arm’s length between two commercial entities does not, _by itself,_ preclude it from being characterised as a moneylending arrangement. It is a question of substance and not of form, although the form of the transaction would _prima facie_ reflect the substance of the transaction. In theory, as Rajah J noted in _City Hardware_ at [22], if the parties had wilfully attempted to structure a transaction so as to evade the application of the MLA, the court could construe the transaction as being a loan of money. 
 
@@ -117,11 +117,11 @@ _Commission and interest_
 
 time made the transaction a usurious transaction. It was also pointed out to us that of the amount claimed by the respondent for the period between December 1999 and December 2003, the principal sum that was “lent” to the first appellant amounted to US$361,459.66, and this was almost equivalent to the interest charged, which amounted to US$239,441. 
 
-16     We rejected this argument as the respondent’s charges took into account the risk of his exposure to his banks for the principal amounts drawn down under the L/C facilities. It seemed to us that this method of charging borrowers of L/C facilities is a common commercial practice in Singapore. In _Tan Sim Lay v Lim Kiat Seng_ [1996] 2 SLR 769, Choo Han Teck JC (as he then was) had no hesitation in concluding that this was not tantamount to moneylending (at 777, [23]): 
+16     We rejected this argument as the respondent’s charges took into account the risk of his exposure to his banks for the principal amounts drawn down under the L/C facilities. It seemed to us that this method of charging borrowers of L/C facilities is a common commercial practice in Singapore. In _Tan Sim Lay v Lim Kiat Seng_ <span class="citation">[1996] 2 SLR 769</span>, Choo Han Teck JC (as he then was) had no hesitation in concluding that this was not tantamount to moneylending (at 777, [23]): 
 
  There is implicit in Lord Devlin’s judgment [in Chow Yoong Hong ] that such transactions at least have the colour of a genuine commercial transaction other than pure moneylending. The defence there failed because the evidence adduced was inadequate to convince the court that the transactions were not only truly what they appeared. Similar transactions may well include the extension by one party for the use of another the credit facilities at the disposal of the former in consideration of payment of a commission. Such transactions per se may not be moneylending. In the present case, money was actually advanced which were [ sic ] to be repaid with interest fixed at an exorbitant rate. [emphasis added] 
 
-Similarly, in _Whole Rife Investments Limited v ACI Engineering (S) Pte Ltd_ [1998] SGHC 308, Tay Yong Kwang JC (as he then was) held at [50] that: 
+Similarly, in _Whole Rife Investments Limited v ACI Engineering (S) Pte Ltd_ <span class="citation">[1998] SGHC 308</span>, Tay Yong Kwang JC (as he then was) held at [50] that: 
 
  The transactions in question did not infringe the Moneylenders Act, which related only to pure money transactions and not to transactions which were essentially concerned with the granting of credit facilities even though interest may have been charged for delayed payment or pursuant to an agreement (per Syed Othman F.J. in Gillespie Bros & Co v Ngui Mui Khin & Anor [1980] 1 MLJ 87, at page 88). [emphasis added] 
 

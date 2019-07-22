@@ -49,7 +49,7 @@ _Civil Procedure_ – _Appeals_ – _Notice_ – _Application to amend Notice of
 
 **Reasons** 
 
-7       Projector cited the decision of the Court of Appeal in _Leong Mei Chuan v Chan Teck Hock David_ [2001] 2 SLR 17. The headnote of that case summarises the facts of the application there as follows: 
+7       Projector cited the decision of the Court of Appeal in _Leong Mei Chuan v Chan Teck Hock David_ <span class="citation">[2001] 2 SLR 17</span>. The headnote of that case summarises the facts of the application there as follows: 
 
  The appellant wife appealed to a High Court judge-in-chambers against certain orders made by the district judge on matters ancillary to divorce proceedings between her and the respondent husband. Subsequent to the filing of the appeal, the appellant applied for leave to amend the notice of appeal to include a prayer for an order concerning certain matrimonial property, specifically, stock options that had vested in the respondent but that had not yet been exercised. This prayer was not included in the original notice of appeal. The judge approximating the application to an application to extend time for the filing of the notice of appeal, applied stringent standards and rejected the application. The appellant appealed to the Court of Appeal. 
 

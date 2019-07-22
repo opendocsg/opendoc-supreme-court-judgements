@@ -97,7 +97,7 @@ stamp the DOs with the following remarks:
 
 14     In awarding judgment to Fire-Stop, the judge below rejected the argument put forward by MAE that the ordinary meaning of the words in the pre-contract document (see [5] and [6] _supra)_ and in the sub-contract itself indicated that payment should be based on the area of the uncladded duct. 
 
-15     The judge disagreed with MAE’s interpretation and held that the figure 5,000m² was _meaningless_ since it was only an estimate and the precise area of the uncladded duct was never known. In finding that Fire-Stop was entitled to be paid on the basis of the area of the cladded duct, the judge observed (in [23] of the judgment ([2004] SGHC 116): 
+15     The judge disagreed with MAE’s interpretation and held that the figure 5,000m² was _meaningless_ since it was only an estimate and the precise area of the uncladded duct was never known. In finding that Fire-Stop was entitled to be paid on the basis of the area of the cladded duct, the judge observed (in [23] of the judgment (<span class="citation">[2004] SGHC 116</span>): 
 
  On the evidence, it is even too late to measure the amount of cladding, as most of it has been covered or is not accessible without a disproportionate breaking-up of the premises. The term [5,000m^2 ] was merely a description of the nature of work and it was not meant to define the quantity of work, for which there would be re-measurement as work progressed. The unit rates worked out seemed within commercial range. I do not think that any supplier and installer of such cladding would quote a lump sum for a contract over which the quantity is not known. 
 
@@ -109,7 +109,7 @@ He accordingly awarded judgment to Fire-Stop on its claim and dismissed MAE’s 
 
 **_The meaning of the figures 5,000m² and $400,_** 
 
-17     The principles applicable to the construction of contracts are well established. The object of the construction exercise is to determine the mutual intention of the parties as expressed in the words of the document (see _Estate of Seow Khoon Seng v Pacific Century Regional Developments Ltd_ [1997] 1 SLR 509 at [23]). The task of ascertaining the intention of the parties must be approached objectively; the question is not what one or the other of the parties meant or understood by the words used, but the meaning the document would convey to a reasonable person having all the background knowledge which would reasonably have been available to the parties at the time of the contract (see also _Chitty on Contracts_ vol 1 (28th Ed, 1999) para 12-043; _Investors Compensation Scheme Ltd v West Bromwich Building Society_ [1998] 1 WLR 896 at 912). The words used by the parties should be construed in their ordinary and natural meaning, unless the context requires otherwise (see _Lim Bio Hiong Roger v City Developments Ltd_ [2000] 1 SLR 289 at [26]). 
+17     The principles applicable to the construction of contracts are well established. The object of the construction exercise is to determine the mutual intention of the parties as expressed in the words of the document (see _Estate of Seow Khoon Seng v Pacific Century Regional Developments Ltd_ <span class="citation">[1997] 1 SLR 509</span> at [23]). The task of ascertaining the intention of the parties must be approached objectively; the question is not what one or the other of the parties meant or understood by the words used, but the meaning the document would convey to a reasonable person having all the background knowledge which would reasonably have been available to the parties at the time of the contract (see also _Chitty on Contracts_ vol 1 (28th Ed, 1999) para 12-043; _Investors Compensation Scheme Ltd v West Bromwich Building Society_ [1998] 1 WLR 896 at 912). The words used by the parties should be construed in their ordinary and natural meaning, unless the context requires otherwise (see _Lim Bio Hiong Roger v City Developments Ltd_ <span class="citation">[2000] 1 SLR 289</span> at [26]). 
 
 18     Counsel for MAE submitted that on a true and proper construction of the sub-contract, payment ought to have been calculated on the basis of the area of the _uncladded_ ACMV duct. The preamble clearly stated: 
 
@@ -126,7 +126,7 @@ Clause 1.1 reiterated:
 
  A: Yes. 
 
-20     The trial judge had ascribed no significance to the figure _5,000m²._ Counsel for MAE disagreed, pointing out that the figures _5,000m²_ and _$400,000_ were terms in the sub-contract and should be construed together. He submitted that the two figures explained the basis for the revised rate, _viz_ , _how_ the parties intended to ascertain the final contract price, not _what_ was the final contract price. Every contract should be construed as a whole and no words should be ignored, omitted or glossed over. Counsel relied for this proposition on _Citicorp Investment Bank (Singapore_ ) _Ltd v Wee Ah Kee_ [1997] 2 SLR 759 at [72], following the appellate court’s earlier decision in _Wong Kai Chung v Automobile Association of Singapore_ [1993] 2 SLR 577 at 582, [10]. 
+20     The trial judge had ascribed no significance to the figure _5,000m²._ Counsel for MAE disagreed, pointing out that the figures _5,000m²_ and _$400,000_ were terms in the sub-contract and should be construed together. He submitted that the two figures explained the basis for the revised rate, _viz_ , _how_ the parties intended to ascertain the final contract price, not _what_ was the final contract price. Every contract should be construed as a whole and no words should be ignored, omitted or glossed over. Counsel relied for this proposition on _Citicorp Investment Bank (Singapore_ ) _Ltd v Wee Ah Kee_ <span class="citation">[1997] 2 SLR 759</span> at [72], following the appellate court’s earlier decision in _Wong Kai Chung v Automobile Association of Singapore_ <span class="citation">[1993] 2 SLR 577</span> at 582, [10]. 
 
 21     We agreed that the fact that the quoted area of 5,000m² was only an estimate did not necessarily mean that it carried no weight whatsoever. The area of 5,000m², taken together with the lump sum price of $400,000, was the only indication of the basis of payment in the entire subcontract. Its inclusion could hardly be dismissed as superfluous or _meaningless_. Since the parties had explicitly agreed that MAE would pay Fire-Stop $400,000 for cladding 5,000m² of the uncladded duct, this would suggest that the revised rate should apply to the uncladded duct. 
 
@@ -139,7 +139,7 @@ Clause 1.1 reiterated:
 ## [2] 
 
 
-_Tangen_ [1976] 1 WLR 989 at 995–996 (approved by the Court of Appeal in _Mt Elizabeth Hospital Ltd v Allan Ng Clinic for Women_ [1994] 3 SLR 639 at 652, [35]): 
+_Tangen_ [1976] 1 WLR 989 at 995–996 (approved by the Court of Appeal in _Mt Elizabeth Hospital Ltd v Allan Ng Clinic for Women_ <span class="citation">[1994] 3 SLR 639</span> at 652, [35]): 
 
  No contracts are made in a vacuum: there is always a setting in which they have to be placed. The nature of what is legitimate to have regard to is usually described as “the surrounding circumstances” but this phrase is imprecise: it can be illustrated but hardly defined. In a commercial contract it is certainly right that the court should know the commercial purpose of the contract and this in turn presupposes knowledge of the genesis of the transaction, the background, the context, the market in which the parties are operating. 
 
@@ -241,7 +241,7 @@ Hence, once the sub-contract was signed, the parol evidence rule excluded extrin
 
 44     Estoppel by convention is not founded on any representation but on an agreed statement of facts the truth of which has been assumed by the parties to be the basis of the transaction (see also Spencer Bower’s _The Law Relating to Estoppel by Representation_ (4th Ed, 2004) at para VIII.2.1. 
 
-45     In _Singapore Island Country Club v Hilborne_ [1997] 1 SLR 248, the Court of Appeal laid down the following criteria for estoppel by convention (at [27]): 
+45     In _Singapore Island Country Club v Hilborne_ <span class="citation">[1997] 1 SLR 248</span>, the Court of Appeal laid down the following criteria for estoppel by convention (at [27]): 
 
  (i) that there must be a course of dealing between the two parties in a contractual relationship; 
 

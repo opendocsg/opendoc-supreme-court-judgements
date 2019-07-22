@@ -270,7 +270,7 @@ they should not be unduly penalised for honest mistakes. The shortcomings in doc
 
 **Analysis** 
 
-73     I start the analysis with the finding that Crispian Tan was not a witness of truth and his evidence cannot therefore be accepted at face value. In my judgment in suit 739 ([2008] SGHC 211), I found that Crispian Tan was not a forthright and truthful witness. That finding is equally applicable here. Crispian Tan had acted dishonestly in connection with all three machines including the Heidelberg 4C. By his own admission, he was a thief. While admitting he had stolen the machines from 
+73     I start the analysis with the finding that Crispian Tan was not a witness of truth and his evidence cannot therefore be accepted at face value. In my judgment in suit 739 (<span class="citation">[2008] SGHC 211</span>), I found that Crispian Tan was not a forthright and truthful witness. That finding is equally applicable here. Crispian Tan had acted dishonestly in connection with all three machines including the Heidelberg 4C. By his own admission, he was a thief. While admitting he had stolen the machines from 
 
 
 the plaintiff, he was not remorseful enough to disclose fully whom he had dealt with in this regard and who had helped him. He only identified Mr Mani, a person who was out of the jurisdiction and the reach of the court. In his evidence, it was clear that he had been untruthful on several occasions. Particular examples of this are given in the following paragraphs. 

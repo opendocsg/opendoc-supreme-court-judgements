@@ -147,13 +147,13 @@ These allegations became the issues to be determined. In addition, there was the
 
 **The law** 
 
-33     There was no dispute on the applicable legal principles. In Singapore, the leading authority on medical negligence is the Court of Appeal decision in _Khoo James and another v Gunapathy d/o Muniandy and another appeal_ [2002] 1 SLR(R) 1024 (“ _Khoo_ ”). There, the Court of Appeal reiterated that the test is as stated in _Bolam v Friern Hospital Management Committee_ [1957] 1 WLR 582 (“ _Bolam_ ”). As McNair J in _Bolam_ put it at 587: 
+33     There was no dispute on the applicable legal principles. In Singapore, the leading authority on medical negligence is the Court of Appeal decision in _Khoo James and another v Gunapathy d/o Muniandy and another appeal_ <span class="citation">[2002] 1 SLR(R) 1024</span> (“ _Khoo_ ”). There, the Court of Appeal reiterated that the test is as stated in _Bolam v Friern Hospital Management Committee_ [1957] 1 WLR 582 (“ _Bolam_ ”). As McNair J in _Bolam_ put it at 587: 
 
  ... [A doctor] is not guilty of negligence if he has acted in accordance with a practice accepted as proper by a responsible body of medical men skilled in that particular act ... Putting it the other way round, a [doctor] is not negligent, if he is acting in accordance with such a practice, merely because there is a body of opinion who would take a contrary view. ... 
 
 34     The Court of Appeal in _Khoo_ also accepted that this test was supplemented by the House of Lords decision in _Bolitho v City and Hackney Health Authority_ [1998] AC 232 (“ _Bolitho_ ”) in that a court was not bound to find for a defendant doctor simply because a body of experts testified in his favour. An expert view had to satisfy the “threshold test of logic” (see _Khoo_ at [63]). 
 
-35     The Singapore courts have not followed a suggestion, said to be from English courts, that a different approach applies to medical advice as opposed to diagnosis and medical treatment (see _D’Conceicao Jeanie Doris (administratrix of the estate of Milakov Steven, deceased) v Tong Ming Chuan_ [2011] SGHC 193 (“ _D’Conceicao_ ”) and _Tong Seok May Joanne v Yau Hok Man Gordon_ [2013] 2 SLR 18). 
+35     The Singapore courts have not followed a suggestion, said to be from English courts, that a different approach applies to medical advice as opposed to diagnosis and medical treatment (see _D’Conceicao Jeanie Doris (administratrix of the estate of Milakov Steven, deceased) v Tong Ming Chuan_ <span class="citation">[2011] SGHC 193</span> (“ _D’Conceicao_ ”) and _Tong Seok May Joanne v Yau Hok Man Gordon_ <span class="citation">[2013] 2 SLR 18</span>). 
 
 36     Recently, the United Kingdom Supreme Court did apply a different approach from _Bolam_ and _Bolitho_ , based on patient or personal autonomy, for advice from a medical practitioner (see _Montgomery v Lanarkshire Health Board (General Medical Council intervening)_ [2015] 2 WLR 768). 
 

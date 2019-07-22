@@ -95,7 +95,7 @@ _Pain & Suffering and Loss of Amenity_
 
 _Future loss of earnings_ 
 
-21     The plaintiff was born on 18 July 1958. That would make him 44 years old at the time of the assessment. In _Wee Sia Tian v Kong Thik Boon_ [1996] 3 SLR 513 the plaintiff was a c arpenter aged 48 at the time of the hearing. Prakash J affirmed the assistant registrar’s using a multiplier of eight. In the c irc umstanc es, I will apply a multiplier of nine in the present c ase. 
+21     The plaintiff was born on 18 July 1958. That would make him 44 years old at the time of the assessment. In _Wee Sia Tian v Kong Thik Boon_ <span class="citation">[1996] 3 SLR 513</span> the plaintiff was a c arpenter aged 48 at the time of the hearing. Prakash J affirmed the assistant registrar’s using a multiplier of eight. In the c irc umstanc es, I will apply a multiplier of nine in the present c ase. 
 
 22     I have used a multiplic and of 1500 RMB for the period of 26 July 2002 to 4 Marc h 2003 for pre-trial loss of earnings after taking into ac c ount the plaintiff’s duty to mitigate by seeking alternative employment. For loss of future earnings, I use the same multiplic and of 1500 RMB per month. 
 
@@ -105,7 +105,7 @@ _Future medical expenses_
 
 24     Dr Thiagarajan opined that the plaintiff may require tenolysis (release of sc ar tissue) and the total c ost of this surgery is estimated by Dr Thiagarajan at $8000 to $10,000. This is the c ost of having the operation in Singapore. The plaintiff’s c ounsel c onc eded that sinc e he was c laiming for future surgery he would not be c laiming for the future c ost of oc c upational therapy. 
 
-25     The plaintiff testified that there are equivalent medic al fac ilities in Da Lian, China but no figure was given as to how muc h suc h surgery would c ost. In _Xu Jin Long v Nian Chuan Construction Pte Ltd_ [2001] 4 SLR 214 where no figures for the equivalent c ost of medic al treatment in China were available, Choo JC (as he then was) applied a 50% disc ount. I would thus award an amount of $ to c ater for the c ost of this future surgery after disc ounting for the probability that it might not be required. 
+25     The plaintiff testified that there are equivalent medic al fac ilities in Da Lian, China but no figure was given as to how muc h suc h surgery would c ost. In _Xu Jin Long v Nian Chuan Construction Pte Ltd_ <span class="citation">[2001] 4 SLR 214</span> where no figures for the equivalent c ost of medic al treatment in China were available, Choo JC (as he then was) applied a 50% disc ount. I would thus award an amount of $ to c ater for the c ost of this future surgery after disc ounting for the probability that it might not be required. 
 
 _Conclusion_ 
 

@@ -37,21 +37,21 @@ application and set aside the default judgment with costs fixed at $1,500. At th
 
  (1) there was no default as the defendant had already tendered payment; and 
 
- (2) on the basis of the decision of Lai Siu Chiu J in Lock Han Chng Jonathan v Goh Jessiline [2007] 3 SLR 51 (“Jonathan Lock’s case”), the PDRC was not a court. 
+ (2) on the basis of the decision of Lai Siu Chiu J in Lock Han Chng Jonathan v Goh Jessiline <span class="citation">[2007] 3 SLR 51</span> (“Jonathan Lock’s case”), the PDRC was not a court. 
 
 DJ Leong refused leave to the plaintiff to appeal. Accordingly, the plaintiff, through Ms Tan, applied for leave to appeal to the High Court. 
 
 4       The application for leave to appeal was heard by me on 27 September 2007. Ms Tan insisted that there was an important point of law to be argued because she was of the view that Lai J’s decision in Jonathan Lock’s case should not be followed, and that since DJ Leong’s decision was based on that decision, it should be reversed and the default judgment restored. The notes of the hearing before DJ Leong were brief and can be conveniently set out: 
 
-P/C: Applying to set aside default judgment. Applying at two levels, the triggering event did not occur as client, based on Plaintiff’s affidavit, had gone to make payment which the Plaintiff returned. Secondly, refers to [2007] SGHC 58. As settlement was made at PDRC, it is not Court order but a contractual agreement on which Plaintiff can sue. Cannot enter judgment based on it. 
+P/C: Applying to set aside default judgment. Applying at two levels, the triggering event did not occur as client, based on Plaintiff’s affidavit, had gone to make payment which the Plaintiff returned. Secondly, refers to <span class="citation">[2007] SGHC 58</span>. As settlement was made at PDRC, it is not Court order but a contractual agreement on which Plaintiff can sue. Cannot enter judgment based on it. 
 
-P/C: Triggering event had occurred. Refers to affidavit of Ms Au. Mr Ng had confirmed no need for joint statement. There was clear breach of order entitling us to enter default judgment. He wanted to make payment in cash in front of Settlement Judge and wanted Judge to record settlement. Judge asked him to make payment to us separately. Since then, no payment made. As for [2007] SGHC 58, need time to read it. 
+P/C: Triggering event had occurred. Refers to affidavit of Ms Au. Mr Ng had confirmed no need for joint statement. There was clear breach of order entitling us to enter default judgment. He wanted to make payment in cash in front of Settlement Judge and wanted Judge to record settlement. Judge asked him to make payment to us separately. Since then, no payment made. As for <span class="citation">[2007] SGHC 58</span>, need time to read it. 
 
 Court: Allow time for Plaintiff to do so. 
 
-P/C: In view of [2007] SGHC 59, it would be binding. 
+P/C: In view of <span class="citation">[2007] SGHC 59</span>, it would be binding. 
 
-Court: Appeal allowed. Judgment set aside in view of High Court decision in [2007] SGHC 58. Order of DR dismissing application with costs set aside. Costs to Defendant here and below fixed at$1500. No order on summons 8320/2007. 
+Court: Appeal allowed. Judgment set aside in view of High Court decision in <span class="citation">[2007] SGHC 58</span>. Order of DR dismissing application with costs set aside. Costs to Defendant here and below fixed at$1500. No order on summons 8320/2007. 
 
 5       Ms Tan concentrated a large part of her arguments before me on the correctness of Jonathan Lock’s case. Ms Tan and Mr Ng also tendered written submissions. Mr Ng pointed out that Ms Tan had accepted payment of $1,500 being the amount less costs of $1,500, awarded but that she did so without prejudice to her application for leave to appeal. Ms Tan submitted that her clients had already paid her $30,000 in costs and should thus be allowed to enforce the default judgment. I was of the view that the Jonathan Lock case was not material to Ms Tan’s application for leave and, if at all, that case was not in her client’s favour. It was my opinion that DJ Leong’s decision should not be overturned and this matter should not proceed any further. The plaintiff was wrong to have entered default judgment on an _ex parte_ basis. The defendant had tendered payment twice. That was once more than sufficient. I therefore refused leave to appeal. 
 

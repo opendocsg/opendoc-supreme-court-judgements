@@ -799,7 +799,7 @@ _(i) duty of care_
 
 ## Elman [1940] AC 282. Ridehalgh v Horsefield was followed by our Court of Appeal in Tang Liang Hong 
 
-## v Lee Kuan Yew & Anor [1998] 1 SLR 97. 
+## v Lee Kuan Yew & Anor <span class="citation">[1998] 1 SLR 97</span>. 
 
 ## 80. In Ridehalgh v Horsefield , the Court of Appeal considered Order 62 r 11 of the 1986 Rules of the 
 
@@ -941,7 +941,7 @@ _(i) duty of care_
 
 ## which their counsel may not be aware of. 
 
-## 85. In PT BII Finance Centre v Eunike Juwita & Anor [2000] 3 SLR 233, the plaintiffs, who are an 
+## 85. In PT BII Finance Centre v Eunike Juwita & Anor <span class="citation">[2000] 3 SLR 233</span>, the plaintiffs, who are an 
 
 ## Indonesian finance company, represented by Mr Ponniah, sued the second defendant law firm (who 
 
@@ -1004,7 +1004,7 @@ _(i) duty of care_
 ## 87. Mr Tan drew my attention to yet another case where Mr Ponniah had sued a law firm without 
 
 
-## basis, namely Active Timber Agencies Pte Ltd v Allen & Gledhill [1996] 1 SLR 478. The plaintiffs, a 
+## basis, namely Active Timber Agencies Pte Ltd v Allen & Gledhill <span class="citation">[1996] 1 SLR 478</span>. The plaintiffs, a 
 
 ## Singapore registered company which was controlled by one Tiang Ming Sing (Tiang) had entered into 
 

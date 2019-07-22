@@ -20,7 +20,7 @@ _Contract_ – _Formation_
 
 _Contract_ – _Breach_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 233 of 2017 was allowed by the Court of Appeal on 23 January 2019. See [2019] SGCA 7.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 233 of 2017 was allowed by the Court of Appeal on 23 January 2019. See <span class="citation">[2019] SGCA 7</span>.] 
 
 22 November 2017 Judgment reserved. 
 
@@ -283,7 +283,7 @@ examination. [note: 60] The fact that Mison was ready to return the €1m Deposi
 
 pursued this point in submissions. [note: 61] In any case, I find, in view of the Deposit Invoice and Mison’s evidence (see [43]–[44] above), that there is no such express term. 
 
-48     I also find that there is no such implied term. In _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp Marine_ ”), Sundaresh Menon CJ (“Menon CJ”), in delivering the judgment of the Court of Appeal (“the CA”), laid down the following three-stage test for the implication of terms at [101]: 
+48     I also find that there is no such implied term. In _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp Marine_ ”), Sundaresh Menon CJ (“Menon CJ”), in delivering the judgment of the Court of Appeal (“the CA”), laid down the following three-stage test for the implication of terms at [101]: 
 
  (a) The first step is to ascertain how the gap in the contract arises. Implication will be considered only if the court discerns that the gap arose because the parties did not contemplate the gap. 
 
@@ -298,11 +298,11 @@ In my view, the term that the plaintiff contends for does not meet the second st
 49     Secondly, in my view, the plaintiff’s reliance on the general rule that a pre-contractual deposit is _prima facie_ recoverable, if the prospective contract in anticipation of which it was made does not come into existence (see [33] above), is misplaced. For the reasons given at [58]–[60(b)] below, I 
 
 
-agree that the €1m Deposit was a pre-contractual deposit in the sense that it was made before Cip contracted to purchase either of the Azimut 100 yachts. But I do not think that it was a precontractual deposit in the sense that it was paid on the basis that such a contract would subsequently come into existence; such that, if no contract was eventually made, the basis of the payment would have failed and the €1m Deposit would be recoverable. Pre-contractual deposits are generally understood in this latter sense: see Charles Mitchell, Paul Mitchell & Stephen Watterson, _Goff & Jones: The Law of Unjust Enrichment_ (Sweet & Maxwell, 9th Ed, 2016) at para 14–06. However, not all pre-contractual deposits are of this nature. In _United Artists Singapore Theatres Pte Ltd and another v Parkway Properties Pte Ltd and another_ [2003] 1 SLR(R) 791, Belinda Ang JC (as she then was), having stated the general rule, recognised this point at [76]: 
+agree that the €1m Deposit was a pre-contractual deposit in the sense that it was made before Cip contracted to purchase either of the Azimut 100 yachts. But I do not think that it was a precontractual deposit in the sense that it was paid on the basis that such a contract would subsequently come into existence; such that, if no contract was eventually made, the basis of the payment would have failed and the €1m Deposit would be recoverable. Pre-contractual deposits are generally understood in this latter sense: see Charles Mitchell, Paul Mitchell & Stephen Watterson, _Goff & Jones: The Law of Unjust Enrichment_ (Sweet & Maxwell, 9th Ed, 2016) at para 14–06. However, not all pre-contractual deposits are of this nature. In _United Artists Singapore Theatres Pte Ltd and another v Parkway Properties Pte Ltd and another_ <span class="citation">[2003] 1 SLR(R) 791</span>, Belinda Ang JC (as she then was), having stated the general rule, recognised this point at [76]: 
 
  As to whether a payee is entitled to retain a pre-contract payment depends in each case upon the construction of the document or correspondence under which that payment is made. ... [emphasis added] 
 
-In _Supercars Lorinser Pte Ltd and another v Benzline Auto Pte Ltd_ [2016] SGHC 281, Aedit Abdullah JC (as he then was) observed as follows at [38]–[41]: 
+In _Supercars Lorinser Pte Ltd and another v Benzline Auto Pte Ltd_ <span class="citation">[2016] SGHC 281</span>, Aedit Abdullah JC (as he then was) observed as follows at [38]–[41]: 
 
  38 ... But a payment in the form of a deposit, may also be paid before a contract is concluded. This would usually serve to indicate earnestness or seriousness. Such a deposit may be repayable if the basis on which it was paid does fail ... 
 
@@ -351,11 +351,11 @@ Agreement for the following reasons: [note: 63]
 
  (c) the defendant gave Cip the quotations for the Azimut 100 yachts, which were stated to be subject to the T&C. 
 
-52     However, I do not accept this submission. In _R1 International Pte Ltd v Lonstroff AG_ [2015] 1 SLR 521, Menon CJ, delivering the CA’s grounds of decision, made the following observations on the incorporation of terms into contracts at [51]: 
+52     However, I do not accept this submission. In _R1 International Pte Ltd v Lonstroff AG_ <span class="citation">[2015] 1 SLR 521</span>, Menon CJ, delivering the CA’s grounds of decision, made the following observations on the incorporation of terms into contracts at [51]: 
 
  First, the law adopts an objective approach towards questions of contractual formation and the incorporation of terms. Put another way, the question of ... whether the terms of the second Contract Note had been incorporated into the Second Supply Contract turned on ascertaining the parties’ objective intentions gleaned from their correspondence and conduct in light of the relevant background as disclosed by the evidence. The relevant background includes the industry in which the parties are in, the character of the document which contains the terms in question as well as the course of dealings between the parties ... [emphasis added] 
 
-As authority for the final italicised proposition in the extract above, the CA cited _ABB Holdings Pte Ltd and others v Sher Hock Guan Charles_ [2009] 4 SLR(R) 111, where Prakash J (as she then was) stated the following proposition at [24]: 
+As authority for the final italicised proposition in the extract above, the CA cited _ABB Holdings Pte Ltd and others v Sher Hock Guan Charles_ <span class="citation">[2009] 4 SLR(R) 111</span>, where Prakash J (as she then was) stated the following proposition at [24]: 
 
  ... (c) where it is a matter of inferring the contractual intention, the “ character of the document ” and the relevant part of it and whether it is “ apt to form part of the contract ” are central to 
 

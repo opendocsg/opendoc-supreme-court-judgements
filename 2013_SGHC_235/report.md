@@ -232,7 +232,7 @@ guilty as charged and convicted him on all six charges.
 
 69     The punishment prescribed for rape is imprisonment for up to 20 years with discretionary fine or caning. The same punishment is provided for the other offences of sexual assault by penetration. The prosecution therefore submitted that there should be no difference in sentences for penile-vagina and for penile-anal penetration. 
 
-70     Where the charges of rape were concerned, the prosecution argued that this case involved “Category 2 rape” as defined in _PP v NF_ [2006] 4 SLR(R) 849 (at [25] to [36]). The following matters were highlighted as aggravating factors in this case: 
+70     Where the charges of rape were concerned, the prosecution argued that this case involved “Category 2 rape” as defined in _PP v NF_ <span class="citation">[2006] 4 SLR(R) 849</span> (at [25] to [36]). The following matters were highlighted as aggravating factors in this case: 
 
  (a) rape and sexual assault within the family; 
 

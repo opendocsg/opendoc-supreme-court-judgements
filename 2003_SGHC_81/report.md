@@ -523,7 +523,7 @@
 
 ## when it goes into liquidation and this view was accepted by Chan Sek Keong J (as he then was) in 
 
-## Low Gim Har v Low Gim Siah [1992] 2 SLR 593 in the context of revenue legislation but not 
+## Low Gim Har v Low Gim Siah <span class="citation">[1992] 2 SLR 593</span> in the context of revenue legislation but not 
 
 ## necessarily in other contexts. This was because the facts in Low Gim Har did not involve revenue 
 
@@ -655,7 +655,7 @@
 
 ## mechanisms do at times attract different results. Likewise for other revenue legislation. 
 
-## 70 For example, in Andermatt Investments Pte Ltd v Comptroller of Income Tax [1995] 3 SLR 451, 
+## 70 For example, in Andermatt Investments Pte Ltd v Comptroller of Income Tax <span class="citation">[1995] 3 SLR 451</span>, 
 
 ## the appellant taxpayer had obtained a $6m overdraft secured by a mortgage on a Hillview property 
 

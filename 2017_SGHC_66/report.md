@@ -18,7 +18,7 @@ _Civil procedure_ – _Stay of execution_
 
 _Credit and security_ – _Guarantees and indemnities_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 29 of 2017 was dismissed by the Court of Appeal on 23 October 2017. See [2017] SGCA 62.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 29 of 2017 was dismissed by the Court of Appeal on 23 October 2017. See <span class="citation">[2017] SGCA 62</span>.] 
 
 31 March 2017 
 
@@ -81,7 +81,7 @@ unconscionably as it was merely exercising its contractual rights. As such, orde
 
 **The parties’ cases** 
 
-18     For his main argument, Mr Pereira relied on _Hong Leong Finance Ltd v Tan Gian Huay and another_ [1999] 1 SLR(R) 755 (“ _Hong Leong Finance_ ”) for the proposition that while the court did not have any jurisdiction to decline an order for possession sought by a mortgagee, it had jurisdiction to grant a stay of execution of an order for possession ( _Hong Leong Finance_ at [16]). To this end, a relevant factor was whether there was a reasonable prospect of the debt being satisfied in full or the mortgagee being otherwise satisfied ( _Hong Leong Finance_ at [10]-[12]). 
+18     For his main argument, Mr Pereira relied on _Hong Leong Finance Ltd v Tan Gian Huay and another_ <span class="citation">[1999] 1 SLR(R) 755</span> (“ _Hong Leong Finance_ ”) for the proposition that while the court did not have any jurisdiction to decline an order for possession sought by a mortgagee, it had jurisdiction to grant a stay of execution of an order for possession ( _Hong Leong Finance_ at [16]). To this end, a relevant factor was whether there was a reasonable prospect of the debt being satisfied in full or the mortgagee being otherwise satisfied ( _Hong Leong Finance_ at [10]-[12]). 
 
 19     In the present case, Mr Pereira contended that “new circumstances” indicated a reasonable prospect that the Company would be able to satisfy its debt in full. Specifically, there had been new offers to acquire the Company, and JTC was willing to widen the scope of authorised use of the Company’s premises. Mr Pereira was thus confident that the Company would be able to secure LOGOS’ offer or other comparable offers. In this regard, a draft term sheet between the Company and LOGOS for the purchase of 49% of the Company’s shares for $9.7m dated “January 2017” was produced. There was also interest in the purchase of the Company’s diving system for US$3m, as evidenced by a letter from Meds Offshore Group Sdn Bhd to Mr Pereira dated 1 February 2017. Both documents were exhibited in the Further Affidavit. With the funds from the sales of its shares and equipment, Mr Pereira expressed confidence that the Company would be able to discharge its debt to UOB. 
 
@@ -92,7 +92,7 @@ unconscionably as it was merely exercising its contractual rights. As such, orde
 
 as of 3 January 2017 exceeded $9m. Second, in the event that the court granted a further stay of execution, the prejudice against UOB would be negligible compared to that suffered by Mr Pereira and his daughter in losing their family home. 
 
-22     In response, counsel for UOB submitted that the application for stay of execution was without merit for three main reasons. First, as the creditor, UOB was fully entitled to elect whether to enforce its claim against the Company as the principal debtor, or against Mr Pereira as the guarantor: _Chan Siew Lee Jannie v Australia and New Zealand Banking Group Ltd_ [2016] 3 SLR 239 (“ _Chan Siew Lee Jannie_ ”). UOB should not be compelled to proceed against the Company, and to that extent, the Company’s prospect of being able to satisfy its debt in the future was immaterial. As for _Hong Leong Finance_ , it was argued that the case was not applicable to guarantees, and was also distinguishable on its facts. 
+22     In response, counsel for UOB submitted that the application for stay of execution was without merit for three main reasons. First, as the creditor, UOB was fully entitled to elect whether to enforce its claim against the Company as the principal debtor, or against Mr Pereira as the guarantor: _Chan Siew Lee Jannie v Australia and New Zealand Banking Group Ltd_ <span class="citation">[2016] 3 SLR 239</span> (“ _Chan Siew Lee Jannie_ ”). UOB should not be compelled to proceed against the Company, and to that extent, the Company’s prospect of being able to satisfy its debt in the future was immaterial. As for _Hong Leong Finance_ , it was argued that the case was not applicable to guarantees, and was also distinguishable on its facts. 
 
 23     Secondly, the “new circumstances” raised by Mr Pereira were merely speculative. LOGOS had never made a formal offer to acquire the Company, and Mr Pereira was only able to produce the draft term sheet between LOGOS and the Company, which was merely for the purpose of discussion. Further, JTC had not unequivocally and formally agreed to expand the authorised use of the Company’s premises, and had only stated that it would “consider” to do so. Given that the Company had other creditors, the sum to be received from any potential sale might still be insufficient for the Company to discharge its debt to UOB. The fact that UOB supported the continued JM of the Company did not serve to indicate that there was a reasonable prospect of the Company satisfying its debt in full. 
 

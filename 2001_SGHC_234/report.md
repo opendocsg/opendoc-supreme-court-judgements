@@ -43,7 +43,7 @@ I shall first deal with the issue of whether I could lawfully substitute my own 
 
  (2) A clerical error may be rectified at any time and any other mistake may be rectified at any time before the court rises for the day. 
 
-I ruled in **Chiaw Wai Onn v PP** [1997] 3 SLR 445 at 460, that s 217 did not attempt any substantive enactment with regard to the High Court. The phrase `other than the High Court` could be interpreted to suggest that s 217 allowed the High Court to alter or review its judgment. However, to regard so would mean that the High Court would never be functus officio since, in theory, there would be nothing to prevent a third judgment or a fourth judgment to supplement an earlier judgment. This would go against the universal principle of law that, when a matter has been finally disposed of by a court, the court is, in the absence of a direct statutory provision, functus officio and cannot entertain a fresh prayer for the same relief unless and until the previous order of final disposal has been set aside. 
+I ruled in **Chiaw Wai Onn v PP** <span class="citation">[1997] 3 SLR 445</span> at 460, that s 217 did not attempt any substantive enactment with regard to the High Court. The phrase `other than the High Court` could be interpreted to suggest that s 217 allowed the High Court to alter or review its judgment. However, to regard so would mean that the High Court would never be functus officio since, in theory, there would be nothing to prevent a third judgment or a fourth judgment to supplement an earlier judgment. This would go against the universal principle of law that, when a matter has been finally disposed of by a court, the court is, in the absence of a direct statutory provision, functus officio and cannot entertain a fresh prayer for the same relief unless and until the previous order of final disposal has been set aside. 
 
 This provision, and its equivalent, has spawned different interpretations. The previous s 369 of the Code of Criminal Procedure of India provided as follows: 
 
@@ -75,11 +75,11 @@ This was significant, as Spenser-Wilkinson J, I think quite rightly, decided not
 
 imprisonment to take effect from the date of his arrest. The appellant appealed against the order, contending that the two sentences should run concurrently. Mohamed Azmi SCJ ruled that s 278 of the Criminal Procedure Code of Malaysia did not empower the trial judge to substitute his judgment two and a half months after it was recorded and delivered. As the judgment he gave was equivocal and capable of two interpretations, the basic principle of criminal justice should apply in that the construction more favourable to the appellant should be adopted rather than the substituted order subsequently made by the trial judge. 
 
-However, in **Wong Hong Toy v PP** [1994] 2 SLR 396 at 408E, a decision of the Court of Criminal Appeal, the learned Wee Chong Jin CJ disagreed with these authorities and instead, said: 
+However, in **Wong Hong Toy v PP** <span class="citation">[1994] 2 SLR 396</span> at 408E, a decision of the Court of Criminal Appeal, the learned Wee Chong Jin CJ disagreed with these authorities and instead, said: 
 
  A plain reading of [s 217] shows that the High Court can alter or review its judgment. There is no reason to compel a restrictive interpretation, especially since we are concerned with a superior court of record, which is also the highest court of trial in criminal cases. We must give effect to the plain meaning of the words in the section. To ignore the words other than the High Court would be to render them otiose. In our opinion, [s 217] gives sanction to Lai Kew Chai J to alter the fine. It was necessary for him to do so to correct a mistake as to the maximum fine that could be imposed. 
 
-In **Chiaw Wai Onn v PP** [1997] 3 SLR 445 at 460, I agreed with the approach taken by Petheram CJ in **_Re Gibbons_** and Spenser-Wilkinson J in **_PP v Heng You Nang_** and Mohamed Azmi SCJ in **_Ooi Sim Yim v PP_** (supra). With respect and great deference, I departed from Wee Chong Jin CJ`s reasoning in **_Wong Hong Toy_**. 
+In **Chiaw Wai Onn v PP** <span class="citation">[1997] 3 SLR 445</span> at 460, I agreed with the approach taken by Petheram CJ in **_Re Gibbons_** and Spenser-Wilkinson J in **_PP v Heng You Nang_** and Mohamed Azmi SCJ in **_Ooi Sim Yim v PP_** (supra). With respect and great deference, I departed from Wee Chong Jin CJ`s reasoning in **_Wong Hong Toy_**. 
 
 I took the opportunity in **_Chiaw Wai Onn v PP_** (supra) to say at [para ]68: 
 

@@ -18,7 +18,7 @@
 
 _Personal Property_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 182 of 2010 was partially allowed by the Court of Appeal on 28 February 2011. See [2011] SGCA 15.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 182 of 2010 was partially allowed by the Court of Appeal on 28 February 2011. See <span class="citation">[2011] SGCA 15</span>.] 
 
 8 October 2010 
 

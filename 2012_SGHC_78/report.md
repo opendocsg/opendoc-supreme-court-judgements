@@ -16,7 +16,7 @@
 
 _Criminal Procedure and Sentencing_ 
 
-[LawNet Editorial Note: The respondent’s application in Civil Appeal No 167 of 2012/M (Summons No 71 of 2013) to strike out CA 167/2012 was dismissed by the Court of Appeal on 25 February 2013. See [2013] SGCA 31.] 
+[LawNet Editorial Note: The respondent’s application in Civil Appeal No 167 of 2012/M (Summons No 71 of 2013) to strike out CA 167/2012 was dismissed by the Court of Appeal on 25 February 2013. See <span class="citation">[2013] SGCA 31</span>.] 
 
 11 April 2012 
 

@@ -185,7 +185,7 @@ accepted that at the time the appellant took out the Policy it was not told spec
 
 **Whether the Damage was** **_covered_** **under Section I** 
 
-24     At the outset, it should be stated that an all-risks policy does not literally cover all risks. As the Court of Appeal pointed out in _Siang Hoa Goldsmith Pte Ltd v The Wing On Fire & Marine Insurance Co Ltd_ [1998] 2 SLR 777 at 783, 784: 
+24     At the outset, it should be stated that an all-risks policy does not literally cover all risks. As the Court of Appeal pointed out in _Siang Hoa Goldsmith Pte Ltd v The Wing On Fire & Marine Insurance Co Ltd_ <span class="citation">[1998] 2 SLR 777</span> at 783, 784: 
 
 20\. ... whilst there was no dispute that the policy was an all risks policy ... this did not in fact mean that all possible risks, both foreseeable and unforeseeable, were covered under the policy.     We found useful guidance in _The Law of Insurance_ by Malcolm Clarke (2nd Ed, 1994), where the author stated, at p 388: 
 

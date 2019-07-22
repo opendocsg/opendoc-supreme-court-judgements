@@ -128,14 +128,14 @@ insisted on seeing these invoices. However, according to Lee, SI Tan neither too
 
  (c) rejecting the testimonies of the defence witnesses. 
 
-27     Before I dealt with each of these arguments, I noted that the law with regard to when an appellate court will interfere with or overturn the findings of fact of a trial judge can be found in the case of _Lim Ah Poh v PP_ [1992] 1 SLR 713 at 719, [32]: 
+27     Before I dealt with each of these arguments, I noted that the law with regard to when an appellate court will interfere with or overturn the findings of fact of a trial judge can be found in the case of _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span> at 719, [32]: 
 
  An appellate court will not disturb findings of fact unless they are clearly reached against the weight of the evidence. In examining the evidence, an appellate court has always to bear in mind that it has neither seen nor heard the witnesses and has to pay due regard to the trial judges’ 
 
 
  findings and their reasons therefor. 
 
-Additionally, I observed that, for this appeal to succeed, it must be shown that district judge’s findings of fact were either “plainly wrong” or “reached against the weight of evidence”: _Teo Kian Leng v PP_ [2002] 1 SLR 147 at [24]. I then turned to the issues raised in the present appeal. 
+Additionally, I observed that, for this appeal to succeed, it must be shown that district judge’s findings of fact were either “plainly wrong” or “reached against the weight of evidence”: _Teo Kian Leng v PP_ <span class="citation">[2002] 1 SLR 147</span> at [24]. I then turned to the issues raised in the present appeal. 
 
 **Appeal against conviction** 
 
@@ -172,7 +172,7 @@ this regard.
 
 36     Further, I also observed that the district judge found that there were discrepancies between Hu’s and SI Tan’s testimonies, but held that these discrepancies were minor. The district judge explained that it was not clear that both Hu and SI Tan were referring to the same incident in their respective testimonies. The district judge also observed that the incidents were not exclusive, in that Hu could have picked out seven cards at a shop, and could also have provided descriptions of 14 cards. I agreed with the district judge’s observations. Ultimately, the gist of the evidence was that Hu was able to pick out or provide descriptions of all the cards, despite the minor discrepancies between Hu’s and SI Tan’s testimonies. 
 
-37     At this juncture, I noted that in most criminal trials, there would occur minor discrepancies between the testimonies of two witnesses. One cannot expect perfectly compatible testimonies. Such expectations would negate the fact that between each witness there lay differences in perception, retention and recollection of events. These are factors that must be taken into account when a court is faced with discrepant testimonies. In this respect, I recollected my holdings in _Ng Kwee Leong v PP_ [1998] 3 SLR 942 and _Sundara Moorthy Lankatharan v PP_ [1997] 3 SLR 464. The discrepancies in this case were minor and inconsequential. 
+37     At this juncture, I noted that in most criminal trials, there would occur minor discrepancies between the testimonies of two witnesses. One cannot expect perfectly compatible testimonies. Such expectations would negate the fact that between each witness there lay differences in perception, retention and recollection of events. These are factors that must be taken into account when a court is faced with discrepant testimonies. In this respect, I recollected my holdings in _Ng Kwee Leong v PP_ <span class="citation">[1998] 3 SLR 942</span> and _Sundara Moorthy Lankatharan v PP_ <span class="citation">[1997] 3 SLR 464</span>. The discrepancies in this case were minor and inconsequential. 
 
 **_Whether the district judge erred in rejecting the appellant’s evidence_** 
 

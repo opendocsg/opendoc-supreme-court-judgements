@@ -69,7 +69,7 @@ In his submissions before me, counsel for the defendants contended that two grou
 
 (2) the sub-sales by the plaintiffs, or at least four out of five of them, came only after the sales contract was entered into by the parties here. These subsequent sub-sales could not have been in the defendants` contemplation so as to expose them for liability when the plaintiffs had to abort the sub-sales since being unable to know deals which would come after their contract, the defendants did not assume any such risk when they entered into the contract with the plaintiffs. 
 
-Taking the second point first, the defendants relied on the case of **Teck Tai Hardware (S) Pte Ltd v Corten Furniture Pte Ltd** [1998] 2 SLR 244 and in particular the following observation by Justice Lai Kew Chai (at [para ] 20): 
+Taking the second point first, the defendants relied on the case of **Teck Tai Hardware (S) Pte Ltd v Corten Furniture Pte Ltd** <span class="citation">[1998] 2 SLR 244</span> and in particular the following observation by Justice Lai Kew Chai (at [para ] 20): 
 
  Further, if the sub-sale is formed after the sale contract in question, any consequential losses suffered by a buyer in respect of the sub-sale contract by reason of the sellers breach of the sale contract cannot be recovered from the seller because such loss could not have been within the contemplation of the parties at the time of the sale contract. 
 

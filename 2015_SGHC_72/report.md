@@ -68,7 +68,7 @@ Subsequently, c ounsel for the Wife, Ms Loh Wai Mooi (“Ms Loh”), indic ated 
 
 **The Division of the Matrimonial Property** 
 
-14     The primary approac h in division of property under s 112 of the Women’s Charter (Cap 353, 2009 Rev Ed) (“Women’s Charter”) is a broad-brush one, taking into ac c ount both direc t and indirec t c ontributions: _BCB v BCC_ [2013] 2 SLR 324 _(“BCB_ ”) and _NK v NL_ [2007] 3 SLR(R) 743 (“ _NK v NL_ ”). Though _BCB_ was not c ited in argument, that c ase reiterated princ iples laid down in other c ases. As noted in _BCB_ (at [10]): 
+14     The primary approac h in division of property under s 112 of the Women’s Charter (Cap 353, 2009 Rev Ed) (“Women’s Charter”) is a broad-brush one, taking into ac c ount both direc t and indirec t c ontributions: _BCB v BCC_ <span class="citation">[2013] 2 SLR 324</span> _(“BCB_ ”) and _NK v NL_ <span class="citation">[2007] 3 SLR(R) 743</span> (“ _NK v NL_ ”). Though _BCB_ was not c ited in argument, that c ase reiterated princ iples laid down in other c ases. As noted in _BCB_ (at [10]): 
 
  The broad-brush approac h is partic ularly apposite bec ause, in the nature of things, an approac h that is rooted in the forensic searc h for the ac tual financ ial c ontributions of the parties towards the ac quisition of the assets will inevitably fail to adequately value the indirec t c ontributions made towards the other expenses that are inc urred in the c ourse of raising a family and will also be a heavily fac t-c entric exerc ise. ... 
 
@@ -284,7 +284,7 @@ _Various indirect financial contributions_
 
  a NZ$457,000 gift from the Husband’s father to him. 
 
-51     I ac c ept the arguments of the Wife that there was little evidenc e of these, and that in any event, even if proven, the presumption would be that any gift is to the Husband would be a gift to the parties equally: _ANZ v AOA_ [2014] SGHC 243 at [14]. As for the gift to the c hildren, this would not be matrimonial property, even if I ac c epted that the gift was made. 
+51     I ac c ept the arguments of the Wife that there was little evidenc e of these, and that in any event, even if proven, the presumption would be that any gift is to the Husband would be a gift to the parties equally: _ANZ v AOA_ <span class="citation">[2014] SGHC 243</span> at [14]. As for the gift to the c hildren, this would not be matrimonial property, even if I ac c epted that the gift was made. 
 
 _Non-financial contributions_ 
 
@@ -310,7 +310,7 @@ business. There was little quantific ation of the amount that she c ontributed t
 59     I ac c ept the submissions of the Wife that the division of assets should proc eed on the basis of 
 
 
-a presumption against the Husband of both the sc ope of the matrimonial pool and its value. In _Koh Bee Choo v Choo Chai Huah_ [2007] SGCA 21, the Court of Appeal noted (at [27]) that for an adverse inferenc e to be drawn, there should be: 
+a presumption against the Husband of both the sc ope of the matrimonial pool and its value. In _Koh Bee Choo v Choo Chai Huah_ <span class="citation">[2007] SGCA 21</span>, the Court of Appeal noted (at [27]) that for an adverse inferenc e to be drawn, there should be: 
 
  (a) a substratum of evidenc e that establishes a prima facie c ase against the other party; and 
 
@@ -326,7 +326,7 @@ In the present c ase, I am satisfied that the Wife has raised a _prima facie_ c 
 
  (c ) there may be other assets that have not been disc losed. 
 
-61     In prac tic al terms, the c onsequenc e that follows is that the c ourt may give a higher proportion of known assets where full disc losure has not been given. A broad-brush approac h giving an additional uplift to represent the undisc losed assets is permissible: _Yeo Chong Lin v Tay Ang Choo Nancy and another appeal_ [2011] 2 SLR 1157 at [66]. That c ase however also rec ognised that a higher proportion of the known assets may be given to c ompensate for the failure to disc lose. This was done in _NK v NL_. 
+61     In prac tic al terms, the c onsequenc e that follows is that the c ourt may give a higher proportion of known assets where full disc losure has not been given. A broad-brush approac h giving an additional uplift to represent the undisc losed assets is permissible: _Yeo Chong Lin v Tay Ang Choo Nancy and another appeal_ <span class="citation">[2011] 2 SLR 1157</span> at [66]. That c ase however also rec ognised that a higher proportion of the known assets may be given to c ompensate for the failure to disc lose. This was done in _NK v NL_. 
 
 62     In the present c ase, given the unc ertainties, I am of the view that the more appropriate solution would be to provide the Wife a higher proportion of the known assets. As will be seen subsequently, this results in the Wife having the whole of the asc ertained assets, whic h are primarily the assets in her hands. Though depending on the unknown true value of some of the asset this may ultimately award her more than 42% stric tly speaking, I am satisfied that the approac h adopted is sound given the state of the evidenc e before me. 
 
@@ -364,7 +364,7 @@ _Allocation to the Husband_
 
 **Maintenance of the Wife** 
 
-70     The Wife c laimed maintenanc e of $1,000 per month, for eight years, giving a total of $96,000. The basis of this was a disc ount on the usual formula applied in c ases suc h as _Wan Lai Cheng v Quek Seow Kee and another appeal and another matter_ [2012] 4 SLR 405. It was c ontended that the Husband has the means to support the Wife, whose inc ome is relatively low, with proc eeds of about $3,000 from the rental of the matrimonial home, and about $7,500 per month from her work in China. She also has a very small amount c oming in as royalties. Though there was no direc t evidenc e of the Husband’s means, the Wife argued that the c ourt should infer that he has a substantial inc ome, given his interests in the United States, New Zealand, and his various business ac tivities. 
+70     The Wife c laimed maintenanc e of $1,000 per month, for eight years, giving a total of $96,000. The basis of this was a disc ount on the usual formula applied in c ases suc h as _Wan Lai Cheng v Quek Seow Kee and another appeal and another matter_ <span class="citation">[2012] 4 SLR 405</span>. It was c ontended that the Husband has the means to support the Wife, whose inc ome is relatively low, with proc eeds of about $3,000 from the rental of the matrimonial home, and about $7,500 per month from her work in China. She also has a very small amount c oming in as royalties. Though there was no direc t evidenc e of the Husband’s means, the Wife argued that the c ourt should infer that he has a substantial inc ome, given his interests in the United States, New Zealand, and his various business ac tivities. 
 
 71     The Husband c ontended that no maintenanc e should be given to the Wife. He also stated that she should be satisfied with his offer that she keeps [F] Company. 
 

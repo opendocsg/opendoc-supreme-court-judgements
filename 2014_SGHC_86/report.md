@@ -103,7 +103,7 @@ presented ... after such a long time”. [note: 9]
 
 21     Section 6(1)( _a_ ) of the Act states that an action founded in tort “shall not be brought after the expiration of 6 years from the date on which the cause of action accrued”. Section 6(1)( _a_ ) appears to overlap with s 24A(3)( _a_ ) of the Act. Section 24A applies specifically to an action for negligence. Section 24A(3)( _a_ ) of the Act states that “[a]n action to which [s 24A] applies ... shall not be brought after the expiration of the period of ... 6 years from the date on which the cause of action accrued”. 
 
-22     It has come to my attention that in _Lian Kok Hong v Ow Wah Foong and another_ [2008] 4 SLR(R) 165 (“ _Lian Kok Hong_ ”), the Court of Appeal held (at [14]) that “s 24A carves out certain exceptions to s 6(1)( _a_ ) and, as such, the two cannot apply concurrently”. 
+22     It has come to my attention that in _Lian Kok Hong v Ow Wah Foong and another_ <span class="citation">[2008] 4 SLR(R) 165</span> (“ _Lian Kok Hong_ ”), the Court of Appeal held (at [14]) that “s 24A carves out certain exceptions to s 6(1)( _a_ ) and, as such, the two cannot apply concurrently”. 
 
 23     The MCST’s claim against Boustead was in negligence. The applicable provision is s 24A(3)( _a_ ) of the Act. I will refer to s 24A(3)( _a_ ) of the Act, rather than s 6(1)( _a_ ). This does not make a difference to the MCST’s argument, as both provisions stipulate the same commencement date and the same limitation period. 
 
@@ -188,7 +188,7 @@ dated 28 [ _sic_ ] September 2008 from [Boustead] ... to [GBI Realty].” [note:
 
 44     Furthermore, the argument on fraud was also characterised by broad allegations unsupported by any documentation. In particular, the letter dated 28 September 2008 was not even mentioned in the affidavits for the MCST. 
 
-45     The MCST’s argument on fraud was clearly unmeritorious. Section 29(1)( _b_ ) of the Act requires “conceal[ment] by the fraud of [the defendant]”. Case authority has interpreted fraudulent concealment under s 29(1)( _b_ ) of the Act to include “unconscionability in the form of a _deliberate act of concealment_ of a right of action by the wrongdoer” [emphasis added] ( _Chua Teck Chew Robert v Goh Eng Wah_ [2009] 4 SLR(R) 716 at [27]). This is wider than fraud or deceit at common law. 
+45     The MCST’s argument on fraud was clearly unmeritorious. Section 29(1)( _b_ ) of the Act requires “conceal[ment] by the fraud of [the defendant]”. Case authority has interpreted fraudulent concealment under s 29(1)( _b_ ) of the Act to include “unconscionability in the form of a _deliberate act of concealment_ of a right of action by the wrongdoer” [emphasis added] ( _Chua Teck Chew Robert v Goh Eng Wah_ <span class="citation">[2009] 4 SLR(R) 716</span> at [27]). This is wider than fraud or deceit at common law. 
 
 46     However, Boustead did not conceal the MCST’s right of action. The MCST’s position was that GBI Realty and Boustead, through their inspections and attempts at rectifying the defects, led the MCST to believe the problem could be easily resolved. That position was untenable. 
 

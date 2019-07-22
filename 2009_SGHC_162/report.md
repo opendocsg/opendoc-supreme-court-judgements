@@ -51,7 +51,7 @@ of Court is not applicable to proceedings relating to the winding up of companie
 
 **Case law on the operation of the Companies (Winding Up) Rules and the Rules of Court** 
 
-9       Both parties cited the cases of _Kuah Kok Kim v Chong Lee Leong Seng Co (Pte) Ltd_ [1991] SLR 122 and _Tohru Motobayashi v Official Receiver & Anor_ [2000] 4 SLR 529. 
+9       Both parties cited the cases of _Kuah Kok Kim v Chong Lee Leong Seng Co (Pte) Ltd_ [1991] SLR 122 and _Tohru Motobayashi v Official Receiver & Anor_ <span class="citation">[2000] 4 SLR 529</span>. 
 
 10     In _Kuah Kok Kim_ , the Court of Appeal held that although the Companies (Winding Up) Rules 1969 and the Rules of the Supreme Court 1970 were mutually exclusive in their operational effect, this did not prevent the operation of O 2, r 1(1) to cure a formal defect. In this case, the petitioners had commenced a section 216 Companies Act minority oppression action by way of a winding up petition under the Companies (Winding Up) Rules 1969, instead of an originating _petition_ under the Rules of the Supreme Court 1970. An application was made under 0 18, r 19 of the Rules of Court and the courts’ inherent jurisdiction to strike out the proceedings. The Court of Appeal held that the mode of commencement of the proceedings by way of a petition was correct but that the title of the petition as a winding up petition was an irregularity which could be cured by re-titling the petition as an originating petition. There was nothing else that was wrong with the petition as a matter of form. The Court of Appeal therefore ordered that the title of the petition and all subsequent cause papers be amended accordingly. 
 
@@ -194,7 +194,7 @@ There is a pending application by the Plaintiff for consolidation of some or all
 36     The Plaintiff’s argument is that the obligation to give discovery is not a mutual obligation where the discovery is sought of documents referred to in pleadings or affidavits. I am minded to agree with this submission. For discovery applications under O 24, rr 1, 5, and 6, the court is permitted to decline to make an order for discovery if it is “satisfied that discovery is not necessary, _or not necessary at that stage of the cause of matter_ ” (emphasis mine). It is possible to defer discovery of a document on the basis that disclosure at that stage of the proceedings is not 
 
 
-necessary but to leave it open for a subsequent discovery request to be made at a later stage of the proceedings: see Jeffrey Pinsler, _Singapore Court Practice 2006_ , at page 689 citing _Trek Technology v FE Global Electronics_ [2003] 3 SLR 685. 
+necessary but to leave it open for a subsequent discovery request to be made at a later stage of the proceedings: see Jeffrey Pinsler, _Singapore Court Practice 2006_ , at page 689 citing _Trek Technology v FE Global Electronics_ <span class="citation">[2003] 3 SLR 685</span>. 
 
 37     In an application for production of documents for inspection under O 24, r 13, there is no temporal dimension to the test of necessity. In other words, if production is necessary then the document has to be produced for inspection. Even if I empathised with counsel for Defendants’ submissions that the present application seeks to “steal a march” on the Plaintiff, I do not think that O 24, r 13 gives me the flexibility to defer an order for production to a later stage of the proceedings once I find that it is necessary. 
 

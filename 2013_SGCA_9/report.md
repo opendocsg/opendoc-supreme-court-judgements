@@ -20,7 +20,7 @@ _Trusts_ – _Resulting Trusts_
 
 _Tort_ – _Harassment_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2012] 4 SLR 89.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2012] 4 SLR 89</span>.] 
 
 24 January 2013 
 
@@ -28,7 +28,7 @@ _Tort_ – _Harassment_
 
 **Introduction** 
 
-1       This appeal was brought against part of the decision made by the High Court judge (“the Judge”) in Suit No 589 of 2009 (“the Action”). The appellant, who was the first plaintiff in the Action (hereinafter referred to as “Sarah”), pleaded three heads of claim in the Action. The first head of claim was against the respondent (the first defendant in the Action and hereinafter referred to as “Andy”) and the second defendant in the Action (hereinafter referred to as “Tik”) for a sum of $608,700 allegedly given by Sarah to Andy to hold on trust for her for the purposes of investing in land and property in China (“the Trust Claim”). The second head of claim was against Andy in respect of a sum of $50,000 which was allegedly given by Sarah to Andy after being intimidated and/or harassed by the latter (“the Blackmail Claim”). The third head of claim was brought by Sarah and her elder sister, Tee Yok Lee (the second plaintiff in the Action and hereinafter referred to as “Ivy”), against Tik for breach of a distribution contract to sell the “POLICE” brand of apparel (“the POLICE Claim”). The Judge dismissed the Trust Claim and the Blackmail Claim, but allowed the POLICE Claim (see _Tee Yok Kiat and another v Pang Min Seng and another_ [2012] SGHC 85 (“the Judgment”)). It was against the dismissal of the first two claims that the present appeal was brought by Sarah. Although Tik was also a party to the Trust Claim, she was not brought in as a party to the appeal. 
+1       This appeal was brought against part of the decision made by the High Court judge (“the Judge”) in Suit No 589 of 2009 (“the Action”). The appellant, who was the first plaintiff in the Action (hereinafter referred to as “Sarah”), pleaded three heads of claim in the Action. The first head of claim was against the respondent (the first defendant in the Action and hereinafter referred to as “Andy”) and the second defendant in the Action (hereinafter referred to as “Tik”) for a sum of $608,700 allegedly given by Sarah to Andy to hold on trust for her for the purposes of investing in land and property in China (“the Trust Claim”). The second head of claim was against Andy in respect of a sum of $50,000 which was allegedly given by Sarah to Andy after being intimidated and/or harassed by the latter (“the Blackmail Claim”). The third head of claim was brought by Sarah and her elder sister, Tee Yok Lee (the second plaintiff in the Action and hereinafter referred to as “Ivy”), against Tik for breach of a distribution contract to sell the “POLICE” brand of apparel (“the POLICE Claim”). The Judge dismissed the Trust Claim and the Blackmail Claim, but allowed the POLICE Claim (see _Tee Yok Kiat and another v Pang Min Seng and another_ <span class="citation">[2012] SGHC 85</span> (“the Judgment”)). It was against the dismissal of the first two claims that the present appeal was brought by Sarah. Although Tik was also a party to the Trust Claim, she was not brought in as a party to the appeal. 
 
 2       At this juncture, we would pause to mention that Sarah was only represented on the first day of the trial, although she was represented before the trial commenced, and also in the making of the written closing submissions. Andy was unrepresented throughout the proceedings. So for all intents and purposes, the case was presented by a lay person and the defence was also conducted by a lay person. 
 
@@ -120,7 +120,7 @@ _Andy’s pleaded case_
 
 **Summons No 4377 of 2012** 
 
-17     As a preliminary matter, Andy’s counsel, Mr Uthayasurian Sidambaram (“Mr Uthayasurian”), filed Summons No 4377 of 2012 (“SUM 4377”) for leave to be heard pursuant to O 57 r 9A of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) as the Respondent’s Case was filed out of time. In considering whether to grant such leave, the court will weigh the following factors in the balance: (a) the length of the delay; (b) the reasons for the delay; (c) the chances of success should an extension of time be granted; and (d) the degree of prejudice caused to the appellant if an extension of time is granted (see _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ [2008] 1 SLR(R) 757 (“ _Lee Hsien Loong v SDP_ ”)). 
+17     As a preliminary matter, Andy’s counsel, Mr Uthayasurian Sidambaram (“Mr Uthayasurian”), filed Summons No 4377 of 2012 (“SUM 4377”) for leave to be heard pursuant to O 57 r 9A of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) as the Respondent’s Case was filed out of time. In considering whether to grant such leave, the court will weigh the following factors in the balance: (a) the length of the delay; (b) the reasons for the delay; (c) the chances of success should an extension of time be granted; and (d) the degree of prejudice caused to the appellant if an extension of time is granted (see _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ <span class="citation">[2008] 1 SLR(R) 757</span> (“ _Lee Hsien Loong v SDP_ ”)). 
 
 18     The Appellant’s Case was filed and served on Andy in person on 23 July 2012. The deadline for the filing of the Respondent’s Case was therefore 23 August 2012. The Respondent’s Case was filed five days late on 28 August 2012, and was served on Sarah’s solicitors six days late on 29 August 
 
@@ -260,7 +260,7 @@ her AEIC already alluded to this three-year arrangement between herself and Andy
 
 **_The tort of intimidation_** 
 
-34     To prove the tort of intimidation, Sarah had to prove that: (a) there was a threat by Andy to use unlawful means (such as violence or a tort or a breach of contract) to compel her to obey his wishes; and (b) she was so threatened that she complied with Andy’s demand rather than risk the threat being carried into execution (see _Goh Chok Tong v Chee Soon Juan_ [2003] 3 SLR(R) 32 at [49]). 
+34     To prove the tort of intimidation, Sarah had to prove that: (a) there was a threat by Andy to use unlawful means (such as violence or a tort or a breach of contract) to compel her to obey his wishes; and (b) she was so threatened that she complied with Andy’s demand rather than risk the threat being carried into execution (see _Goh Chok Tong v Chee Soon Juan_ <span class="citation">[2003] 3 SLR(R) 32</span> at [49]). 
 
 35     In the week leading up to the giving of the Blackmail Money on 23 January 2009, Sarah sent 
 
@@ -322,7 +322,7 @@ produce her call listings [note: 24] from October 2008 to January 2009, which co
 
 **_The tort of harassment_** 
 
-39     Although it was not strictly necessary for us to consider Sarah’s alternative cause of action under the tort of harassment in the light of our finding that her claim based on the tort of intimidation had been made out, we would nonetheless make some brief observations on this point. The existence of the tort of harassment was extensively explored by the High Court in _Malcomson Nicholas Hugh Bertram and another v Mehta Naresh Kumar_ [2001] 3 SLR(R) 379 at [31]–[57]. None of the parties questioned the existence of this tort in our law. For the tort of harassment to be made out, Sarah had to prove that: (a) Andy’s course of conduct, whether by words or action and whether directly or through third parties, was sufficiently repetitive in nature as would cause worry, emotional distress or annoyance to her; and (b) Andy ought reasonably to have known that his conduct would have such an effect on her. 
+39     Although it was not strictly necessary for us to consider Sarah’s alternative cause of action under the tort of harassment in the light of our finding that her claim based on the tort of intimidation had been made out, we would nonetheless make some brief observations on this point. The existence of the tort of harassment was extensively explored by the High Court in _Malcomson Nicholas Hugh Bertram and another v Mehta Naresh Kumar_ <span class="citation">[2001] 3 SLR(R) 379</span> at [31]–[57]. None of the parties questioned the existence of this tort in our law. For the tort of harassment to be made out, Sarah had to prove that: (a) Andy’s course of conduct, whether by words or action and whether directly or through third parties, was sufficiently repetitive in nature as would cause worry, emotional distress or annoyance to her; and (b) Andy ought reasonably to have known that his conduct would have such an effect on her. 
 
 40     At [76]–[83] of the Judgement, the Judge dismissed the Blackmail Claim under both the tort of 
 

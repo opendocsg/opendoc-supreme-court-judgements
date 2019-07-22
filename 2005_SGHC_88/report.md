@@ -34,12 +34,12 @@ _Employment Law_ – _Workman claiming compensation for injury under Act subsequ
 
 3       After the action was deemed to have been discontinued, the applicant applied to the Commissioner to proceed with his claim but the Commissioner declined. 
 
-4       The Commissioner referred to _Chua Ah Beng v The Commissioner for Labour_ [2002] 4 SLR 854 (“ _Chua Ah Beng_ ”) and held that the applicant’s claim was deemed to have been withdrawn when the applicant commenced his writ action. The Commissioner explained: 
+4       The Commissioner referred to _Chua Ah Beng v The Commissioner for Labour_ <span class="citation">[2002] 4 SLR 854</span> (“ _Chua Ah Beng_ ”) and held that the applicant’s claim was deemed to have been withdrawn when the applicant commenced his writ action. The Commissioner explained: 
 
 15\. [I]n the case of _Chua Ah Beng_ ... the claimant ... has exhausted all his remedies under common law. The claimant then wanted to return to the claim under the Act. [Tay Yong     Kwang JC] rejected the attempt on the basis that section 33(2)(a) of [the Act] clearly prohibits concurrent proceedings. Tay JC held that the only logical solution was to hold that the claimant was deemed to have withdrawn his claim under the Act when he informed the Commissioner that he was going to commence an action in Court. 
 
 
-16\. I am of the view that this case warrants the same decision as that in _Chua Ah Beng_.     Tay JC, in ruling on section 33(1) in _Chua Ah Beng_ , held that a claimant may make a claim under the Act if he discontinues his action before it has been determined by in [ _sic_ ] any court. This is [the] logical converse of the situation in _Ying Tai Plastic_. Unfortunately, the common law action in this case determined as a failed action after it was deemed to be discontinued due to delay by the claimant. In **Tan Kim Seng v Ibrahim Victor Adam** [2004] 1 SLR 181, the Court of Appeal, in considering the purpose of O.21 R. 2(6) which governs the deemed discontinuance provision, held that the provision is to ensure that expeditious prosecution of the action by the Plaintiff or face the prospect of the action being deemed discontinued. 
+16\. I am of the view that this case warrants the same decision as that in _Chua Ah Beng_.     Tay JC, in ruling on section 33(1) in _Chua Ah Beng_ , held that a claimant may make a claim under the Act if he discontinues his action before it has been determined by in [ _sic_ ] any court. This is [the] logical converse of the situation in _Ying Tai Plastic_. Unfortunately, the common law action in this case determined as a failed action after it was deemed to be discontinued due to delay by the claimant. In **Tan Kim Seng v Ibrahim Victor Adam** <span class="citation">[2004] 1 SLR 181</span>, the Court of Appeal, in considering the purpose of O.21 R. 2(6) which governs the deemed discontinuance provision, held that the provision is to ensure that expeditious prosecution of the action by the Plaintiff or face the prospect of the action being deemed discontinued. 
 
 17\. In these circumstances, I find that the claimant is not able to return to his claim under the Act given that his common law action has been determined to be a failure. Since section 33(2)(a) of the Act makes it clear that there can be no concurrent proceedings, applying     Tay JC’s reasoning in _Chua Ah Beng_ , I find that the claim under the Act is deemed to be withdrawn. 
 
@@ -78,7 +78,7 @@ _Employment Law_ – _Workman claiming compensation for injury under Act subsequ
 
  ( a ) if he has applied to the Commissioner for compensation under the provisions of this Act; ... 
 
-See _Chua Ah Beng_ at [31] sub-para (5) and _Rahenah bte L Mande v Baxter Healthcare Pte Ltd_ [2002] SGHC 320 (“ _Rahenah_ “), where Judith Prakash J held at [16] that on a proper reading of the Court of Appeal’s decision in _Ying Tai Plastic & Metal Manufacturing (S) Pte Ltd v Zahrin bin Rabu_ [1982–1983] SLR 117, the effect of s 33(2)( _a_ ) is that: 
+See _Chua Ah Beng_ at [31] sub-para (5) and _Rahenah bte L Mande v Baxter Healthcare Pte Ltd_ <span class="citation">[2002] SGHC 320</span> (“ _Rahenah_ “), where Judith Prakash J held at [16] that on a proper reading of the Court of Appeal’s decision in _Ying Tai Plastic & Metal Manufacturing (S) Pte Ltd v Zahrin bin Rabu_ [1982–1983] SLR 117, the effect of s 33(2)( _a_ ) is that: 
 
  [A]n injured employee deprives himself of the ability to exercise his right to sue his employer at common law for the period that the application remains alive. If he changes his mind about his 
 

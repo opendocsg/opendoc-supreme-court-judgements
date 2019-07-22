@@ -123,7 +123,7 @@ Sartini to follow her there to show Sartini the state of the toilet. When they r
 
  The policy of the legislature is that, in the case of certain minor offences, where the interests of the public are not vitally affected , the complainant should be permitted to come to terms with the party against whom he complains. [emphasis added] 
 
-24     In _PP v Norzian bin Bintat_ [1995] 3 SLR 462, I laid down several general principles with regard to the composition of offences. It was held at p 475: 
+24     In _PP v Norzian bin Bintat_ <span class="citation">[1995] 3 SLR 462</span>, I laid down several general principles with regard to the composition of offences. It was held at p 475: 
 
 
 [I]n the absence of aggravating factors, the courts should lean towards the granting of consent in cases where the public interest does not figure strongly. 
@@ -165,7 +165,7 @@ Sartini to follow her there to show Sartini the state of the toilet. When they r
 
 **_Whether the Court should lean in favour of granting consent_** 
 
-31     Having established that Parliament did not expressly retain the right of composition in cases of maid abuse, I also could not agree with the appellant’s counsel’s argument that the courts should lean in favour of granting consent for composition even in cases of maid abuse. Such a stance would be contrary to a steady body of case law from this Court. Emphasis had been consistently placed on the strong element of public interest involved when a foreign domestic maid is hurt or abused. Most recently, in _PP v Chong Siew Chin_ [2002] 1 SLR 117, I stated at paragraph 40: 
+31     Having established that Parliament did not expressly retain the right of composition in cases of maid abuse, I also could not agree with the appellant’s counsel’s argument that the courts should lean in favour of granting consent for composition even in cases of maid abuse. Such a stance would be contrary to a steady body of case law from this Court. Emphasis had been consistently placed on the strong element of public interest involved when a foreign domestic maid is hurt or abused. Most recently, in _PP v Chong Siew Chin_ <span class="citation">[2002] 1 SLR 117</span>, I stated at paragraph 40: 
 
  The object of legislation providing for enhanced punishment for certain offences against maids in Singapore stemmed from the recognition that maids require additional protection because of their special circumstances. As noted by the Minister for Home Affairs in Parliament in April 1998, full time domestic maids are usually female and are totally dependent on their employers for food and lodging. Having travelled long distances to work in Singapore, many of them are totally deprived of their support network of family and friends. 
 
@@ -203,7 +203,7 @@ conceivable way can a society be said to be gracious if accused persons in the p
 
 **_The magistrate’s failure to provide grounds for refusing to consent_** 
 
-40     In _Kee Leong Bee & Anor v PP_ [1999] 3 SLR 190, this Court held at paragraph 21: 
+40     In _Kee Leong Bee & Anor v PP_ <span class="citation">[1999] 3 SLR 190</span>, this Court held at paragraph 21: 
 
  Where an order involves a discretion of the court, the appellate court will not interfere with the exercise of the discretion unless it was exercised on demonstrably wrong principles or without any grounds , or if the judge had ignored some relevant provision of law; see Lim Seng Gin v R [1956] MLJ 76 and R v Lim Kian Soo [1950] MLJ 181. [emphasis added] 
 
@@ -245,7 +245,7 @@ between the parties. Therefore, at first glance, it appeared that the magistrate
 
 170\. —(1) If in one series of acts so connected together as to form the same transaction more offences than one are committed by the same person, he may be charged with and tried at one trial for every such offence. 
 
-50     The error made by counsel for the appellant was the same one made by Choor Singh J in _Harry Lee Wee v PP_ [1980] 2 MLJ 56. In that case, the appellant faced eight charges of obtaining restitution in consideration of the concealment of the offence of criminal breach of trust by his assistant. Choor Singh J held that the prosecution could have chosen to bring only one charge against the defendant by reason of s 71 of the Penal Code. In criticising this judgment, I made the following observation in _Zeng Guoyuan v PP (No 2)_ [1997] 3 SLR 883 at paragraph 15: 
+50     The error made by counsel for the appellant was the same one made by Choor Singh J in _Harry Lee Wee v PP_ [1980] 2 MLJ 56. In that case, the appellant faced eight charges of obtaining restitution in consideration of the concealment of the offence of criminal breach of trust by his assistant. Choor Singh J held that the prosecution could have chosen to bring only one charge against the defendant by reason of s 71 of the Penal Code. In criticising this judgment, I made the following observation in _Zeng Guoyuan v PP (No 2)_ <span class="citation">[1997] 3 SLR 883</span> at paragraph 15: 
 
  Furthermore, the judgment is curious on various counts. First, Choor Singh J makes the mistake of confusing the question of joinder of charges on the one hand with that of punishment on the other. Section 71 of the Penal Code, as explained earlier, has no bearing on the joinder of charges. [emphasis added] 
 
@@ -294,9 +294,9 @@ Professor Andrew Ashworth opined, at p 131 of his book, _Sentencing and Criminal
 63     Turning to the sentences in recent similar cases, I also found that the sentence meted out was not manifestly excessive. In _Tan Yok Hong v PP_ (MA 67 of 1999), the accused pleaded guilty to slapping her maid and was sentenced to two weeks’ imprisonment. Where the accused person claimed trial (as the appellant did on the facts of this case), the courts have been less lenient. In _Farida_ 
 
 
-_Begam d/o Mohd Artham v PP_ [2001] 4 SLR 610, the accused assaulted her maid with a broom handle and caused extensive bruises. On appeal, I enhanced her sentence from three months’ to nine months’ imprisonment. 
+_Begam d/o Mohd Artham v PP_ <span class="citation">[2001] 4 SLR 610</span>, the accused assaulted her maid with a broom handle and caused extensive bruises. On appeal, I enhanced her sentence from three months’ to nine months’ imprisonment. 
 
-64     A case which is similar to the facts of the present appeal is _PP v Chong Siew Chin_ [2002] 1 SLR 117 where I allowed the prosecution’s appeal against sentence and substituted the fine of $1,500 for each of the three charges (of slapping the face of the maid) with an imprisonment term of six weeks for all three charges. In that appeal, I also ordered two of the sentences to run consecutively, bringing the total to three months’ imprisonment. Here, the injuries inflicted by the appellant were slightly more aggravated because the appellant was found guilty of using instruments such as a bamboo pole to hit Sartini’s arm, a high-heeled shoe to hit her head and keys to scratch her face. Consequently, the higher sentence of a total of four months’ imprisonment was justified. 
+64     A case which is similar to the facts of the present appeal is _PP v Chong Siew Chin_ <span class="citation">[2002] 1 SLR 117</span> where I allowed the prosecution’s appeal against sentence and substituted the fine of $1,500 for each of the three charges (of slapping the face of the maid) with an imprisonment term of six weeks for all three charges. In that appeal, I also ordered two of the sentences to run consecutively, bringing the total to three months’ imprisonment. Here, the injuries inflicted by the appellant were slightly more aggravated because the appellant was found guilty of using instruments such as a bamboo pole to hit Sartini’s arm, a high-heeled shoe to hit her head and keys to scratch her face. Consequently, the higher sentence of a total of four months’ imprisonment was justified. 
 
 65     In referring to these cases, I was conscious of the fact that in each of those cases, the accused person was charged and convicted under s 323 read with s 73 of the Penal Code. Nevertheless, I found the sentences meted out in those cases to be relevant because the aggravating factors were similar bearing in mind the authority the accused person wielded over the maid and the vulnerability of the maid in each case. Also, the need for general deterrence is just as strong even though s 73 of the Penal Code did not apply. As I observed in _Farida Begam d/o Mohd Artham v PP_ , maid abusers have certain misconceptions which must be corrected: a maid sells her services; she does not sell her person. A maid’s abased social status does not make her any less of a human being. It is certainly not a licence for persons in the position of the appellant to vent their frustration and anger on the maid. The need to correct these misconceptions is not diminished by the fact that the perpetrator was not the maid’s de jure employer, but her de facto employer. Thus, I found that the sentence was not manifestly excessive and I dismissed the appeal against sentence. 
 
@@ -304,7 +304,7 @@ _Begam d/o Mohd Artham v PP_ [2001] 4 SLR 610, the accused assaulted her maid wi
 
 66     At the hearing of the appeal, counsel for the appellant conveyed the appellant’s request to have the sentence reduced to one month so that she may be released from prison in time to see her daughter graduate from kindergarten in November. 
 
-67     I saw absolutely no merit in this request. It is trite law that hardship to the accused person’s family if the accused is sent to prison carries little weight as a mitigating factor today: see for example _Lai Oei Mui Jenny v PP_ [1993] 3 SLR 305 and _Ng Chiew Kiat v PP_ [2000] 1 SLR 370. This is particularly so if the imprisonment term is short. If the appellant had been truly concerned about being there for her daughter, she should have thought twice before hitting her maid. More importantly, I would have set a dangerous precedent if I had acceded to her most unusual request. It would be tantamount to reducing the imprisonment term of a convicted person on the fortuitous ground that he or she had a child who is graduating from school. That simply cannot be the case. The absurdity of the appellant’s request was self-evident. 
+67     I saw absolutely no merit in this request. It is trite law that hardship to the accused person’s family if the accused is sent to prison carries little weight as a mitigating factor today: see for example _Lai Oei Mui Jenny v PP_ <span class="citation">[1993] 3 SLR 305</span> and _Ng Chiew Kiat v PP_ <span class="citation">[2000] 1 SLR 370</span>. This is particularly so if the imprisonment term is short. If the appellant had been truly concerned about being there for her daughter, she should have thought twice before hitting her maid. More importantly, I would have set a dangerous precedent if I had acceded to her most unusual request. It would be tantamount to reducing the imprisonment term of a convicted person on the fortuitous ground that he or she had a child who is graduating from school. That simply cannot be the case. The absurdity of the appellant’s request was self-evident. 
 
 **Conclusion** 
 

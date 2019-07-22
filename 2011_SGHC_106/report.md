@@ -70,7 +70,7 @@ Labour ( _Proceedings of the Second Legislative Council of the Colony of Singapo
 
  Then comes the question, Do the words “arising out of and in the course of the employment” qualify the word “accident” or the word “injury” or the compound expression “injury by accident”? I rather think the latter view is the correct one. 
 
-11     The consequence of s 3(6) is that, as the judge in _NTUC Income Insurance Co-operative Ltd and another v Next of kin of Narayasamy s/o Ramasamy, deceased_ [2006] SGHC 162 (at [20]) (“the _NTUC Income_ case”) observed, s 3(1) requires the employee to prove three conditions: 
+11     The consequence of s 3(6) is that, as the judge in _NTUC Income Insurance Co-operative Ltd and another v Next of kin of Narayasamy s/o Ramasamy, deceased_ <span class="citation">[2006] SGHC 162</span> (at [20]) (“the _NTUC Income_ case”) observed, s 3(1) requires the employee to prove three conditions: 
 
  (a) he has suffered a personal injury; 
 
@@ -114,7 +114,7 @@ Act 1925 (at 800 and 807). The second was an English Court of Appeal decision in
 
  (2A) No appeal shall lie against any order unless a substantial question of law is involved in the appeal and the amount in dispute is not less than $1,000. 
 
-20     As Kan Ting Chiu J observed in _Karuppiah Ravichandran v GDS Engineering Pte Ltd and another_ [2009] 3 SLR(R) 1028, s 29(2A) reflects the policy that decisions of the Commissioner are not to be examined as though they are decisions of a court of law. The purpose of the Act must be kept in mind. As the Minister said ( _Singapore Parliamentary Debates_ , _Official Report_ (22 January 2008) volume 84 at column 259): 
+20     As Kan Ting Chiu J observed in _Karuppiah Ravichandran v GDS Engineering Pte Ltd and another_ <span class="citation">[2009] 3 SLR(R) 1028</span>, s 29(2A) reflects the policy that decisions of the Commissioner are not to be examined as though they are decisions of a court of law. The purpose of the Act must be kept in mind. As the Minister said ( _Singapore Parliamentary Debates_ , _Official Report_ (22 January 2008) volume 84 at column 259): 
 
  Workmen’s Compensation Act or WCA provides a simpler and quicker way to settle compensation claims by avoiding protracted legal proceedings. 
 

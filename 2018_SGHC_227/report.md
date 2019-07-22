@@ -30,7 +30,7 @@ _Insolvency Law_ – _Bankruptcy_ – _Voluntary scheme of arrangement_
 
 **_Background to the application_** 
 
-2       The bac kground to this matter has been extensively set out in _Re Aathar Ah Kong Andrew_ [2018] SGHC 124, a dec ision by Valerie Thean J where the approval whic h the c reditors of the applic ant had given to a voluntary arrangement proposed by the applic ant was revoked. I will only set out the fac ts insofar as they are relevant to the Registrar’s Appeal that was heard by me. 
+2       The bac kground to this matter has been extensively set out in _Re Aathar Ah Kong Andrew_ <span class="citation">[2018] SGHC 124</span>, a dec ision by Valerie Thean J where the approval whic h the c reditors of the applic ant had given to a voluntary arrangement proposed by the applic ant was revoked. I will only set out the fac ts insofar as they are relevant to the Registrar’s Appeal that was heard by me. 
 
 3       The applic ant desc ribed himself as an investor in several businesses and markets over many years. His primary investments were in private equity, bonds and listed stoc ks in sec tors suc h as 
 
@@ -64,7 +64,7 @@ whether the threshold had been c rossed, the nominee ac c orded no value to c er
 
 11     Four c reditors, who had objec ted to the voluntary arrangement, then filed applic ations under s 54 of the Ac t to set aside the c reditors’ approval of the voluntary arrangement. These were (i) CIMB Sec urities (Singapore) Pte Ltd (“CIMB”); (ii) Citibank; (iii) KGI Sec urities (Singapore) Pte Ltd (“KGI”); and (iv) OUE Lippo Healthc are Limited (“OUELH”), formerly known as International Healthway Corporation Ltd. 
 
-12     The applic ations were heard in the first instanc e by Valerie Thean J on 14 Marc h 2018. After hearing parties, Thean J held that s 54(1)( _b_ ) of the Ac t was satisfied in that there were material irregularities in the c onduc t of the c reditors’ meeting, arising from the nominee’s dec isions and the applic ant’s lac k of disc losure. The judge ac c ordingly set aside the approval for the voluntary arrangement at the hearing and direc ted that no further c reditors’ meetings be held. As mentioned earlier, the grounds of Thean J’s dec ision are in _Re Aathar Ah Kong Andrew_ [2018] SGHC 124. 
+12     The applic ations were heard in the first instanc e by Valerie Thean J on 14 Marc h 2018. After hearing parties, Thean J held that s 54(1)( _b_ ) of the Ac t was satisfied in that there were material irregularities in the c onduc t of the c reditors’ meeting, arising from the nominee’s dec isions and the applic ant’s lac k of disc losure. The judge ac c ordingly set aside the approval for the voluntary arrangement at the hearing and direc ted that no further c reditors’ meetings be held. As mentioned earlier, the grounds of Thean J’s dec ision are in _Re Aathar Ah Kong Andrew_ <span class="citation">[2018] SGHC 124</span>. 
 
 13     The applic ant appealed against Thean J’s dec ision. He felt it nec essary to file a total of four appeals – Civil Appeal Nos 60 to 63 of 2018 – bec ause eac h of the c reditors named at [11] above had filed a separate applic ation to set aside the c reditors’ approval, all of whic h had been allowed. Following this, the applic ant then filed the applic ation seeking an extension of the interim order made on 11 July 2017 until the determination of his four appeals by the Court of Appeal. The extension sought was pursuant to s 45(4) of the Ac t. 
 

@@ -16,7 +16,7 @@
 
 _Companies_ – _Winding up_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 44 of 2018 was dismissed while the appeal in Civil Appeal No 45 of 2018 was allowed by the Court of Appeal on 29 January 2019. See [2019] SGCA 18 .] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 44 of 2018 was dismissed while the appeal in Civil Appeal No 45 of 2018 was allowed by the Court of Appeal on 29 January 2019. See <span class="citation">[2019] SGCA 18</span> .] 
 
 18 April 2018 
 
@@ -96,7 +96,7 @@ hold one share. [note: 20] The directors are WKY and one Tan Hang Song. [note: 2
 
  ( i ) the Court is of opinion that it is just and equitable that the company be wound up; 
 
-13     It was common ground between parties that unfairness forms the foundation of the Court’s exercise of its jurisdiction; a company may not be wound up “just because a minority shareholder feels aggrieved or wishes to exit at will”: see _Sim Yong Kim v Evenstar Investments Pte Ltd_ [2006] 3 SLR(R) 827 (“ _Evenstar_ ”) at [31]. 
+13     It was common ground between parties that unfairness forms the foundation of the Court’s exercise of its jurisdiction; a company may not be wound up “just because a minority shareholder feels aggrieved or wishes to exit at will”: see _Sim Yong Kim v Evenstar Investments Pte Ltd_ <span class="citation">[2006] 3 SLR(R) 827</span> (“ _Evenstar_ ”) at [31]. 
 
 14     In each case, Ms Ma brought an Originating Summons to wind up the Companies and did not seek to cross-examine any witnesses. She was of the view that the documents were sufficient to establish her case, which may be analysed in three broad strands. The first, and main, set of contentions may be termed the “family company arguments”: that there was a relationship of trust and confidence between the Wong brothers which extended to WKN’s family as well as WKY’s and 
 
@@ -125,7 +125,7 @@ liquidator be appointed. [note: 29]
 18     In addition, the contributories pointed out that the Articles of Association of both Double Ace and Faxlink contain exit mechanisms. Even where unfairness has been established, _Ting Shwu Ping_ 
 
 
-_(administrator of the estate of Chng Koon Seng, deceased) v Scanone Pte Ltd and another appeal_ [2017] 1 SLR 95 (“ _Ting Shwu Ping_ ”) mandated that the Court must consider whether the presence of an option for Ms Ma to be bought out at fair value would negate any such unfairness. For Trillion, although the articles did not contain an exit mechanism, WKY offered to purchase Ms Ma’s shares at fair value; and the contributories argued this made it unreasonable for Ms Ma to apply for a winding 
+_(administrator of the estate of Chng Koon Seng, deceased) v Scanone Pte Ltd and another appeal_ <span class="citation">[2017] 1 SLR 95</span> (“ _Ting Shwu Ping_ ”) mandated that the Court must consider whether the presence of an option for Ms Ma to be bought out at fair value would negate any such unfairness. For Trillion, although the articles did not contain an exit mechanism, WKY offered to purchase Ms Ma’s shares at fair value; and the contributories argued this made it unreasonable for Ms Ma to apply for a winding 
 
 up. [note: 30] 
 
@@ -156,7 +156,7 @@ that Ms Ma’s shares be bought out under the new s 254(2A) of the Companies Act
 
 Lord Wilberforce observed that parallels can be drawn with the law of partnership, “which has developed the conceptions of probity, good faith and mutual confidence”. Thus, references to “quasipartnerships” can be found in cases where the Court’s just and equitable jurisdiction was invoked. 
 
-23     The Court of Appeal in _Chow Kwok Chuen v Chow Kwok Chi and another_ [2008] 4 SLR(R) 362 (“ _Chow Kwok Chuen_ ”) held at [17] that the concept of “just and equitable” is “a dynamic one” which should not be circumscribed in scope by reference to case law, and identified at [18] the following situations which could also constitute sufficient factual bases to establish just and equitable causes: 
+23     The Court of Appeal in _Chow Kwok Chuen v Chow Kwok Chi and another_ <span class="citation">[2008] 4 SLR(R) 362</span> (“ _Chow Kwok Chuen_ ”) held at [17] that the concept of “just and equitable” is “a dynamic one” which should not be circumscribed in scope by reference to case law, and identified at [18] the following situations which could also constitute sufficient factual bases to establish just and equitable causes: 
 
  (a) where the main object of the company cannot be achieved or has been departed from; 
 
@@ -193,7 +193,7 @@ his partner, one Mr Chan. After Mr Chng’s death, Mdm Ting and Mr Chan could no
 
 30     In my judgment, this analysis informs the approach that must be taken here. The relationship of trust and confidence existed only between the Wong brothers. It did not extend to Ms Ma’s family. It is therefore irrelevant that there was no longer any trust and confidence between the extended families. 
 
-31     _Chow Kwok Chuen_ and _Lin Choo Mee v Tat Leong Development (Pte) Ltd and Others and Other Matters_ [2015] SGHC 99 (“ _Lin Choo Mee_ ”), relied upon by Ms Ma, were of no assistance to her case. _Chow Kwok Chuen_ involved three brothers who were co-directors of three family companies set up by their late father. In _Lin Choo Mee_ , the plaintiff, who applied to wind up three family companies on the just and equitable ground, was similarly a director of the three defendant companies and was “always meant to have a management role” in them. Thus, these two cases involved plaintiffs who had been actively running the companies sought to be wound up. 
+31     _Chow Kwok Chuen_ and _Lin Choo Mee v Tat Leong Development (Pte) Ltd and Others and Other Matters_ <span class="citation">[2015] SGHC 99</span> (“ _Lin Choo Mee_ ”), relied upon by Ms Ma, were of no assistance to her case. _Chow Kwok Chuen_ involved three brothers who were co-directors of three family companies set up by their late father. In _Lin Choo Mee_ , the plaintiff, who applied to wind up three family companies on the just and equitable ground, was similarly a director of the three defendant companies and was “always meant to have a management role” in them. Thus, these two cases involved plaintiffs who had been actively running the companies sought to be wound up. 
 
 32     In contrast, prior to WKN’s death, aside from WKN, no member of his family had at any time been a shareholder of the Companies; neither had any member of WKN’s family been involved in the 
 
@@ -228,7 +228,7 @@ _Effect of finding that there is no quasi-partnership_
 
 **_The mismanagement contentions_** 
 
-37     As highlighted by _Chow Kwok Chuen_ , carrying on business in a fraudulent manner may found good ground for intervention. It was not disputed that shareholders who rely on this ground must prove a “lack of probity” in the directors’ conduct: _Loch v John Blackwood, Limited_ [1924] AC 783, applied in _Summit Co (S) Pte Ltd v Pacific Biosciences Pte Ltd_ [2007] 1 SLR(R) 46 (“ _Summit_ ”) at [37]. Mere suspicion or assertion of impropriety will not pass muster: _Summit_ at [37]. 
+37     As highlighted by _Chow Kwok Chuen_ , carrying on business in a fraudulent manner may found good ground for intervention. It was not disputed that shareholders who rely on this ground must prove a “lack of probity” in the directors’ conduct: _Loch v John Blackwood, Limited_ [1924] AC 783, applied in _Summit Co (S) Pte Ltd v Pacific Biosciences Pte Ltd_ <span class="citation">[2007] 1 SLR(R) 46</span> (“ _Summit_ ”) at [37]. Mere suspicion or assertion of impropriety will not pass muster: _Summit_ at [37]. 
 
 38     What was disputed here was whether there was any lack of probity on the part of the directors of the Companies. Ms Ma made various contentions of mismanagement, which I detail below. For 
 
@@ -399,7 +399,7 @@ Lord Hoffmann listed (at 1107D–1108B) various criteria to determine if an offe
 
 65     The contributories pointed out that an _en bloc_ sale of Shenton House was imminent, and a premature winding up would in all likelihood lead to a lower sale price than the $750,000 and $2,162,282.70 envisaged for the properties. Absent mismanagement, such a result would unduly 
 
-prejudice WKY, a creditor of these two companies. [note: 86] The beneficiaries of the estate might also lose the opportunity to fully realise their share of the Companies’ assets, as a market valuation will likely be higher than a liquidator-actuated sale of the assets. It was not necessary for me to decide this point in view of my findings above. In _Ting Shwu Ping_ at [42], the Court of Appeal held that the conditions for winding up must first be satisfied before a remedy under s 254(2A) of the Companies Act may be ordered. The same point was reiterated in _Perennial (Capitol) Pte Ltd and another v Capitol Investment Holdings Pte Ltd and other appeals_ [2018] SGCA 11 at [58]. 
+prejudice WKY, a creditor of these two companies. [note: 86] The beneficiaries of the estate might also lose the opportunity to fully realise their share of the Companies’ assets, as a market valuation will likely be higher than a liquidator-actuated sale of the assets. It was not necessary for me to decide this point in view of my findings above. In _Ting Shwu Ping_ at [42], the Court of Appeal held that the conditions for winding up must first be satisfied before a remedy under s 254(2A) of the Companies Act may be ordered. The same point was reiterated in _Perennial (Capitol) Pte Ltd and another v Capitol Investment Holdings Pte Ltd and other appeals_ <span class="citation">[2018] SGCA 11</span> at [58]. 
 
 **Conclusion** 
 

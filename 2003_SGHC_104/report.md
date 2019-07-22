@@ -114,7 +114,7 @@ _Contract_ – _Loans_ – _Whether the plaintiff extended a loan to the defenda
 
  In particular, at no point during the course of any one of these loans did the Plaintiff aver in her Statement of Claim to any condition of repayment i.e. whether at the time of each of these loans any condition of repayment was communicated, made or agreed between the parties. 
 
-19     Counsel placed strong reliance on the decision in _Tay Ivy v Tay Joyce_ [1992] 1 SLR 893 for his submission that 
+19     Counsel placed strong reliance on the decision in _Tay Ivy v Tay Joyce_ <span class="citation">[1992] 1 SLR 893</span> for his submission that 
 
 ## [14] 
 

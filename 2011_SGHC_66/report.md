@@ -159,7 +159,7 @@ It is to be noted that:
 
 **The law** 
 
-16     The principles which apply to applications for extension of time in appeals are well established. They have been set out in several cases, and it suffices to refer to the decision of the Court of Appeal in _AD v AE_ [2004] 2 SLR(R) 505 which dealt with an application to serve a Notice of Appeal out of time. The Court held that such an application was to be dealt with on the same basis as an application to extend time to file a notice of appeal, and went on to state that it is settled law that in determining whether to grant an extension of time, four factors are to be considered: 
+16     The principles which apply to applications for extension of time in appeals are well established. They have been set out in several cases, and it suffices to refer to the decision of the Court of Appeal in _AD v AE_ <span class="citation">[2004] 2 SLR(R) 505</span> which dealt with an application to serve a Notice of Appeal out of time. The Court held that such an application was to be dealt with on the same basis as an application to extend time to file a notice of appeal, and went on to state that it is settled law that in determining whether to grant an extension of time, four factors are to be considered: 
 
  (a) the length of the delay; 
 

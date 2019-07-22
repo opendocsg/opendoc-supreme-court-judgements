@@ -41,7 +41,7 @@ The DPP submitted that the original sentence should be reinstated. The DPP furth
 
  (1) The power of the subordinate courts to alter judgments, including sentences, is governed by s 217 of the CPC. While s 217(1) lays down a general prohibition against alteration of judgments by the subordinate courts, s 217(2) provides that clerical errors may be rectified at any time and ‘any other mistake’ may be rectified before the court rises for the day. In the present case, there was no clerical error or other mistake in the original judgment. Therefore the district judge had no power to alter the original sentence of caning (see 6-7). 
 
- (2) The revisionary powers of the High Court are conferred by s 23 of the Supreme Court of Judicature Act (Cap 322, 1999 Ed) and s 268 of the CPC. It is established law that such powers of revision must be exercised sparingly (see 11); Ang Poh Chuan v PP [1996] 1 SLR 326 followed. 
+ (2) The revisionary powers of the High Court are conferred by s 23 of the Supreme Court of Judicature Act (Cap 322, 1999 Ed) and s 268 of the CPC. It is established law that such powers of revision must be exercised sparingly (see 11); Ang Poh Chuan v PP <span class="citation">[1996] 1 SLR 326</span> followed. 
 
  (3) There was sufficient injustice to warrant the exercise of the court’s revisionary powers as the district judge had exceeded his powers in amending the original sentence. In addition, serious injustice stemmed from the fact that the amended sentence was not commensurate with the culpability of the respondent and violated the principle of parity. The respondent had received a sentence which was considerably lighter than that given to two of his accomplices even though all three were charged under s 148 of the PC (see 12-18). 
 
@@ -53,7 +53,7 @@ The DPP submitted that the original sentence should be reinstated. The DPP furth
 
 _Chiaw Wai Onn v PP_ 
 
-[1997] 3 SLR 445 (refd) _Ang Poh Chuan v PP_ [1996] 1 SLR 326 (folld) _Akalu Ahir v Ramdeo Ram AIR_ 1973 A 2145 (refd) _PP v Nyu Tiong Lam_ [1996] 1 SLR 273 (refd) _Liow Eng Giap v PP_ [1971] 1 MLJ 10 (refd) _PP v Ramlee and another action_ [1998] 3 SLR 539 (refd) _Liaw Kwai Wah & Anor v PP_ [1987] 2 MLJ 69 (refd) 
+<span class="citation">[1997] 3 SLR 445</span> (refd) _Ang Poh Chuan v PP_ <span class="citation">[1996] 1 SLR 326</span> (folld) _Akalu Ahir v Ramdeo Ram AIR_ 1973 A 2145 (refd) _PP v Nyu Tiong Lam_ <span class="citation">[1996] 1 SLR 273</span> (refd) _Liow Eng Giap v PP_ [1971] 1 MLJ 10 (refd) _PP v Ramlee and another action_ <span class="citation">[1998] 3 SLR 539</span> (refd) _Liaw Kwai Wah & Anor v PP_ [1987] 2 MLJ 69 (refd) 
 
 **Legislation referred to** 
 
@@ -82,7 +82,7 @@ This was an application for criminal revision at the instance of a district judg
 
  (2) A clerical error may be rectified at any time and any other mistake may be rectified at any time before the court rises for the day. 
 
-6       In _Chiaw Wai Onn v PP_ [1997] 3 SLR 445, the High Court took the view that s 217(1) lays down a general prohibition against alteration of judgments by the subordinate courts. The High Court interpreted s 217(2) as an excepting proviso to the prohibition in s 217(1), prescribing the limited circumstances in which the subordinate courts can alter or review judgments. 
+6       In _Chiaw Wai Onn v PP_ <span class="citation">[1997] 3 SLR 445</span>, the High Court took the view that s 217(1) lays down a general prohibition against alteration of judgments by the subordinate courts. The High Court interpreted s 217(2) as an excepting proviso to the prohibition in s 217(1), prescribing the limited circumstances in which the subordinate courts can alter or review judgments. 
 
 
 7       In the present case, it is clear that there was no ‘clerical error’ or ‘any other mistake’ in the original judgment. While the district judge had been led to believe that the respondent had received a harsher sentence than Tan under s 148 of the PC, there was in fact, no mistake in the respondent’s original sentence as Tan had been charged under a reduced charge, namely s 147 of the PC. Therefore, the district judge had no power to alter the original sentence of caning. 
@@ -97,7 +97,7 @@ This was an application for criminal revision at the instance of a district judg
 
 10     Section 268(1) of the CPC provides that the High Court, in exercising its powers of revision, can exercise powers similar to those of an appellate court. As the DPP submitted, the High Court, in the exercise of its powers of revision, has, _inter alia_ , the power under s 256(b)(iii) to ‘alter the nature of the sentence’. 
 
-11     It is established law that such powers of revision must be exercised sparingly. The principles governing revision were laid down in _Ang Poh Chuan v PP_ [1996] 1 SLR 326, where it was held that: 
+11     It is established law that such powers of revision must be exercised sparingly. The principles governing revision were laid down in _Ang Poh Chuan v PP_ <span class="citation">[1996] 1 SLR 326</span>, where it was held that: 
 
  ...various phrases may be used to identify the circumstances which would attract the exercise of the revisionary jurisdiction, but they all share the common denominator that there must be some serious injustice. Of course there cannot be a precise definition of what would constitute such serious injustice for that would in any event unduly circumscribe what must be a wide discretion vested in the court, the exercise of which would depend largely on the particular facts. But generally it must be shown that there is something palpably wrong in the decision that strikes at its basis as an exercise of judicial power by the court below. 
 
@@ -110,11 +110,11 @@ This was an application for criminal revision at the instance of a district judg
 14     I am of the opinion that it is precisely in a case such as this, where the subordinate court 
 
 
-has amended a sentence in a manner which is contrary to law, that the Court should exercise its revisionary jurisdiction. Indeed, the High Court has previously granted applications for criminal revision where a judge exceeded his powers: _PP v Nyu Tiong Lam_ [1996] 1 SLR 273. 
+has amended a sentence in a manner which is contrary to law, that the Court should exercise its revisionary jurisdiction. Indeed, the High Court has previously granted applications for criminal revision where a judge exceeded his powers: _PP v Nyu Tiong Lam_ <span class="citation">[1996] 1 SLR 273</span>. 
 
 15     In addition, there was serious injustice as the amended sentence was not commensurate with the culpability of the respondent and violated the principle of parity. 
 
-16     The principle of parity is well-established in local sentencing law. In _Liow Eng Giap v PP_ [1971] 1 MLJ 10, Choor Singh J stated that, ‘where there are no differentiating factors...public interest demands that there should be some consistency in the imposition of sentences on accused persons committing the same or similar offences.’ More recently, in _PP v Ramlee and another action_ [1998] 3 SLR 539, the High Court cited _Archbold_ (1998), para 5-153, with approval, noting that ‘where two or more offenders are to be sentenced for participation in the same offence, the sentences passed on them should be the same, unless there is a relevant difference in their responsibility or their personal circumstances.’ 
+16     The principle of parity is well-established in local sentencing law. In _Liow Eng Giap v PP_ [1971] 1 MLJ 10, Choor Singh J stated that, ‘where there are no differentiating factors...public interest demands that there should be some consistency in the imposition of sentences on accused persons committing the same or similar offences.’ More recently, in _PP v Ramlee and another action_ <span class="citation">[1998] 3 SLR 539</span>, the High Court cited _Archbold_ (1998), para 5-153, with approval, noting that ‘where two or more offenders are to be sentenced for participation in the same offence, the sentences passed on them should be the same, unless there is a relevant difference in their responsibility or their personal circumstances.’ 
 
 17     In this case, the extent of the respondent’s involvement in the offence was similar to that of two other accomplices, Wu Jin Chang (‘Wu’) and Tan Guan Da (‘Guan’), both of whom received sentences of 36 months’ imprisonment and six strokes of the cane. 
 

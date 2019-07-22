@@ -217,15 +217,15 @@ as he was scared of being arrested. [note: 50] He did not call any witnesses in 
  (2) Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug. 
 
 
-25     In order for the accused to rebut this presumption, he has to show on a balance of probabilities that he did not know the nature of the controlled drug referred to in the charge: _Nagaenthran a/l K Dharmalingam v Public Prosecutor_ [2011] 4 SLR 1156 (“ _Nagaenthran_ ”) at [23]. This requires the court to evaluate the evidence to ascertain whether there was wilful blindness on the part of the accused. Thus, I shall first deal with the law on wilful blindness. 
+25     In order for the accused to rebut this presumption, he has to show on a balance of probabilities that he did not know the nature of the controlled drug referred to in the charge: _Nagaenthran a/l K Dharmalingam v Public Prosecutor_ <span class="citation">[2011] 4 SLR 1156</span> (“ _Nagaenthran_ ”) at [23]. This requires the court to evaluate the evidence to ascertain whether there was wilful blindness on the part of the accused. Thus, I shall first deal with the law on wilful blindness. 
 
 **_The law on wilful blindness_** 
 
-26     In _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR(R) 1 (“ _Tan Kiam Peng_ ”), the court held that wilful blindness is equivalent to actual knowledge at law (at [104]): 
+26     In _Tan Kiam Peng v Public Prosecutor_ <span class="citation">[2008] 1 SLR(R) 1</span> (“ _Tan Kiam Peng_ ”), the court held that wilful blindness is equivalent to actual knowledge at law (at [104]): 
 
  ... This is entirely understandable as well as logical and practical simply because the court cannot read a person’s mind (see per Yong CJ in Koo Pui Fong , supra , as well as per Lord Esher MR in Brunton at [109] below). As we have just mentioned, a clear admission is going to be extremely rare. The proof of an actual situation of actual knowledge is, in the circumstances, going to be equally rare. This is a fortiori the case in so far as offences under the Act are concerned. Accused persons are hardly likely to admit to possessing actual knowledge and can (indeed, will) easily disavow such knowledge even if it existed, given the surreptitious nature inherent in drug offences as well as the draconian penalties that are imposed on conviction. In any event, as we have already noted, wilful blindness has, in any event, always been treated, in law, as actual knowledge. ... [emphasis added] 
 
-Wilful blindness is also a fact-sensitive enquiry. It should be premised on a strong factual basis and has to meet a high threshold: _Khor Soon Lee v Public Prosecutor_ [2011] 3 SLR 201 at [20]. 
+Wilful blindness is also a fact-sensitive enquiry. It should be premised on a strong factual basis and has to meet a high threshold: _Khor Soon Lee v Public Prosecutor_ <span class="citation">[2011] 3 SLR 201</span> at [20]. 
 
 _What are the suspicious circumstances that give rise to a duty to inquire?_ 
 
@@ -250,15 +250,15 @@ _What are the suspicious circumstances that give rise to a duty to inquire?_
 
  The requirement of a “deliberate” decision not to make further inquiries shows that it is those who choose to avoid knowledge in order to escape punishment that are brought within the concept of wilful blindness. ... 
 
-31     Therefore, in order to ascertain whether the accused is wilfully blind, it is critical to inquire whether the accused by his conduct had chosen not to make enquiry to deliberately avoid knowledge and elude punishment. In the words of Yong Pung How CJ in _Chiaw Wai Onn v Public Prosecutor_ [1997] 2 SLR(R) 233 at [45]: 
+31     Therefore, in order to ascertain whether the accused is wilfully blind, it is critical to inquire whether the accused by his conduct had chosen not to make enquiry to deliberately avoid knowledge and elude punishment. In the words of Yong Pung How CJ in _Chiaw Wai Onn v Public Prosecutor_ <span class="citation">[1997] 2 SLR(R) 233</span> at [45]: 
 
  [W]here the facts obviously point to one result, and the accused must have appreciated it but shuts his eyes to the truth, then together with the other evidence adduced, this can form a very compelling part of the evidence to infer the requisite guilty knowledge. Thus, if a man says to himself, “Despite all that I have seen and heard, I refuse to accept what my brain tells me is obvious”, it is an absurdity to say that he does not have the relevant knowledge simply because he chooses to practise Nelsonian blindness and delude himself. [emphasis added] 
 
 _Is the accused’s wilful blindness assessed on an objective or subjective standard?_ 
 
-32     What must a person be taken to know before a duty to inquire will arise? The reasonable person in the circumstances “would have suspicions and would have made enquiries or take other steps to allay his suspicions. There must be suspicion and intention; carelessness or thoughtlessness will not suffice”: _Public Prosecutor v Azman bin Mohamed Sanwan_ [2010] SGHC 196 at [147]. 
+32     What must a person be taken to know before a duty to inquire will arise? The reasonable person in the circumstances “would have suspicions and would have made enquiries or take other steps to allay his suspicions. There must be suspicion and intention; carelessness or thoughtlessness will not suffice”: _Public Prosecutor v Azman bin Mohamed Sanwan_ <span class="citation">[2010] SGHC 196</span> at [147]. 
 
-33     In _Public Prosecutor v Sng Chun Heng and another_ [2011] 3 SLR 437 at [75], the court held that the assessment of wilful blindness has to be on the basis of a person who has “average intelligence and honesty”. However, the level of knowledge which the accused had is also relevant and is subjective as the Court of Appeal held in _Nagaenthran_ at [30]: 
+33     In _Public Prosecutor v Sng Chun Heng and another_ <span class="citation">[2011] 3 SLR 437</span> at [75], the court held that the assessment of wilful blindness has to be on the basis of a person who has “average intelligence and honesty”. However, the level of knowledge which the accused had is also relevant and is subjective as the Court of Appeal held in _Nagaenthran_ at [30]: 
 
  ... [Wilful blindness] is a subjective concept, in that the extent of knowledge in question is the knowledge of the accused and not that which might be postulated of a hypothetical person in the position of the accused (although this last-mentioned point may not be an irrelevant consideration) ( ibid ). ... 
 
@@ -416,7 +416,7 @@ his arrest. [note: 77] The accused’s statement is reproduced as follows: [note
 
 59     In the course of the accused’s cross-examination, the Prosecution enquired about his previous deliveries for Prabha which were referred to in his examination-in-chief. The Defence objected to the line of questioning on the basis that it was similar fact evidence and therefore prejudicial to the accused. I overruled the objection and my reasons are as follows. 
 
-60     The purpose for which the evidence is sought to be admitted is important. The Court of Appeal in _Tan Meng Jee v Public Prosecutor_ [1996] 2 SLR(R) 178 explained at [37]–[42] when similar facts evidence can be used and held that: 
+60     The purpose for which the evidence is sought to be admitted is important. The Court of Appeal in _Tan Meng Jee v Public Prosecutor_ <span class="citation">[1996] 2 SLR(R) 178</span> explained at [37]–[42] when similar facts evidence can be used and held that: 
 
  37 It is important to establish the purpose for which the evidence was relied upon in order that we can discern its relevance under the Evidence Act and, therefore, its admissibility. ... 
 
@@ -434,7 +434,7 @@ his arrest. [note: 77] The accused’s statement is reproduced as follows: [note
 
  [emphasis added] 
 
-61     Similar fact evidence was admitted in _Ng Beng Siang and Others v Public Prosecutor_ [2003] SGCA 17 (“ _Ng Beng Siang_ ”) where the probative value of admitting the evidence outweighed its prejudicial value against the accused. The Court of Appeal held at [40]–[42] that: 
+61     Similar fact evidence was admitted in _Ng Beng Siang and Others v Public Prosecutor_ <span class="citation">[2003] SGCA 17</span> (“ _Ng Beng Siang_ ”) where the probative value of admitting the evidence outweighed its prejudicial value against the accused. The Court of Appeal held at [40]–[42] that: 
 
  41 In our judgment, it was clear that the previous incident had more probative value than its prejudicial effect for two reasons. First, the defence of Ng to the present charge was that he did not know the bundles contained drugs. Thus evidence on the previous occasion where Ng did a 
 

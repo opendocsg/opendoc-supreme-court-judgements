@@ -20,7 +20,7 @@ _Contract_ – _Illegality and Public Policy_ – _Statutory Illegality_
 
 _Contract_ – _Illegality and Public Policy_ – _Illegality under International and Foreign Law_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2014] 1 SLR 24.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2014] 1 SLR 24</span>.] 
 
 19 May 2014 
 
@@ -87,7 +87,7 @@ Singapore.
 
 **Decision Below** 
 
-23     The grounds for the Judge’s decision are found in _Belfield International (Hong Kong) Ltd v Sheagar s/o T M Veloo_ [2013] SGHC 206. The Judge rejected all the Appellant’s defences and entered judgment for the Respondent. 
+23     The grounds for the Judge’s decision are found in _Belfield International (Hong Kong) Ltd v Sheagar s/o T M Veloo_ <span class="citation">[2013] SGHC 206</span>. The Judge rejected all the Appellant’s defences and entered judgment for the Respondent. 
 
 24     As regards the Appellant’s defence of unenforceability under the MLA, the Judge held that the Respondent was an “excluded moneylender” under s 2 of the MLA. The Judge did not accept that the 
 
@@ -114,14 +114,14 @@ Second Loan was a personal loan to the Appellant that had been disguised as a co
 
 28     The MLA was introduced into our statute books in 1936 as the Moneylenders Ordinance (Cap 193, 1936 Ed). Broadly speaking, it was modelled upon the English Moneylenders Acts of 1900 (63 & 64 Vict, c 51) (UK) and 1927 (17 & 18 Geo. 5, c 21) (UK) (respectively “the English Moneylenders Act of 1900” and “the English Moneylenders Act of 1927”). The object of the law is well known. In _Litchfield v Dreyfus_ [1906] 1 KB 584 _(“Litchfield”)_ , Farwell J observed that the English legislation was intended “to save the foolish from the extortion of a certain class of the community who are called money-lenders as an offensive term” (at 590). 
 
-29     Farwell J’s observation was echoed nearly a century later by V K Rajah J (as he then was) in _City Hardware Pte Ltd v Kenrich Electronics Pte Ltd_ [2005] 1 SLR(R) 733 (“ _City Hardware_ ”) at [19] and [47]: see also _Lorrain Esme Osman v Elders Finance Asia Ltd_ [1992] 1 SLR(R) 50 at [39]; _Donald McArthy Trading Pte Ltd and others v Pankaj s/o Dhirajlal_ (trading as TopBottom Impex) [2007] 2 SLR(R) 321 (“ _Donald McArthy_ ”) at [7]. In _City Hardware_ , Rajah J described the MLA as (at [47]): 
+29     Farwell J’s observation was echoed nearly a century later by V K Rajah J (as he then was) in _City Hardware Pte Ltd v Kenrich Electronics Pte Ltd_ <span class="citation">[2005] 1 SLR(R) 733</span> (“ _City Hardware_ ”) at [19] and [47]: see also _Lorrain Esme Osman v Elders Finance Asia Ltd_ <span class="citation">[1992] 1 SLR(R) 50</span> at [39]; _Donald McArthy Trading Pte Ltd and others v Pankaj s/o Dhirajlal_ (trading as TopBottom Impex) <span class="citation">[2007] 2 SLR(R) 321</span> (“ _Donald McArthy_ ”) at [7]. In _City Hardware_ , Rajah J described the MLA as (at [47]): 
 
  ... a scheme of social legislation designed to regulate rapacious and predatory conduct by unscrupulous unlicensed moneylenders... 
 
 30     It is settled law that the MLA prohibits the _business_ of moneylending rather than the act of lending money: see _City Hardware_ at [23] and _E C Investment Holding Pte Ltd v Ridout Residence Pte_ 
 
 
-_Ltd and another (Orion Oil Ltd and another, interveners)_ [2011] 2 SLR 232 _(“E C Investment”)_ at [135]. In this regard, the primary prohibition against the carrying on of the business of moneylending is provided by s 5 of the MLA which reads: 
+_Ltd and another (Orion Oil Ltd and another, interveners)_ <span class="citation">[2011] 2 SLR 232</span> _(“E C Investment”)_ at [135]. In this regard, the primary prohibition against the carrying on of the business of moneylending is provided by s 5 of the MLA which reads: 
 
 **5.** —(1) No person _shall carry on or hold himself out in any way as carrying on the business of moneylending_ in Singapore, whether as principal or as agent, unless — 
 
@@ -205,11 +205,11 @@ s 14(2) of the MLA.
 
 41     In the present case, the parties did not specifically address us on the issue of the burden of proof under s 3 of the MLA. Instead, the proceedings in both the court below and on appeal continued on the footing that it was for the lender to prove that he was an “excluded moneylender”. Given the importance of this issue, as well as the lack of local authority on it, we ought to clarify the approach to be taken, though in the final analysis, as will become evident, nothing turns on this. 
 
-42     The case law in Singapore has not provided a clear answer to this question. In _Mak Chik Lun and others v Loh Kim Her and others and another action_ [2003] 4 SLR(R) 338 Belinda Ang J appeared to suggest that the lender bears the burden of proving that he is an “excluded moneylender”. Ang J said (at [11]): 
+42     The case law in Singapore has not provided a clear answer to this question. In _Mak Chik Lun and others v Loh Kim Her and others and another action_ <span class="citation">[2003] 4 SLR(R) 338</span> Belinda Ang J appeared to suggest that the lender bears the burden of proving that he is an “excluded moneylender”. Ang J said (at [11]): 
 
  To prove that a person is in the business of moneylending, the easiest way is to show that the rebuttable presumption in s 3 of the Act is applicable to the facts of the case. If the borrower can show that a person lends a sum of money in consideration of a larger sum being repaid, the person is presumed to be a moneylender. Once a prima facie presumption is raised, it is for the lender to rebut the presumption by showing that it does not apply. He has to bring himself within one of the exceptions in s 2 or show that he is not a moneylender within the terms of the definition in s 2... [emphasis added] 
 
-43     By “the exceptions in s 2” Ang J was referring to the exceptions to the definition of “moneylender” _before_ the concept of an “excluded moneylender” was introduced in 2008. Ang J’s approach was followed by Lee Seiu Kin J in _Agus Anwar v Orion Oil Ltd_ [2010] SGHC 6 at [4] and more recently by Tan Siong Thye JC in _Lena Leowardi v Yeap Cheen Soo_ [2014] SGHC 44 at [51]. Apart from these cases, there is a dearth of local authority on the question of who bears the burden of proving that the lender is an excluded moneylender. We thus turn to consider authorities from England and Australia. 
+43     By “the exceptions in s 2” Ang J was referring to the exceptions to the definition of “moneylender” _before_ the concept of an “excluded moneylender” was introduced in 2008. Ang J’s approach was followed by Lee Seiu Kin J in _Agus Anwar v Orion Oil Ltd_ <span class="citation">[2010] SGHC 6</span> at [4] and more recently by Tan Siong Thye JC in _Lena Leowardi v Yeap Cheen Soo_ <span class="citation">[2014] SGHC 44</span> at [51]. Apart from these cases, there is a dearth of local authority on the question of who bears the burden of proving that the lender is an excluded moneylender. We thus turn to consider authorities from England and Australia. 
 
 44     In England, it is settled law that although the borrower bears the burden of proving that the lender is carrying on the business of moneylending, if the lender wishes to contend that he falls within one of the _exceptions_ to the definition of “moneylender” then he bears the burden of proving this: Ian Stratton and Ian Blackshaw, _The Law Relating to Moneylenders_ (Butterworths, 1991) at p 2. This was unanimously held to be the position by the English Court of Appeal in _United Dominions_. Lord Denning MR, who delivered the leading judgment, gave two reasons for this conclusion. 
 
@@ -498,7 +498,7 @@ to the questions asked by the Appellant’s counsel at the trial in relation to 
 
 101    On the one hand, O 2 r 1 recognises the need for some indulgence to be shown to a party who is in default of the Rules. If undue emphasis is placed on compliance with procedural requirements, there may be cases in which substantive justice may be undermined. However, the due administration of justice also requires that objections to an irregular step be made without undue delay. A party who is aware of an irregularity should not sit by and do nothing before raising an objection late in the day. 
 
-102    It is clear that O 2 r 1 clearly does not confer upon a party an unlimited right to breach the Rules in cases where his opponent does not object. In _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ [2008] 1 SLR(R) 757 at [35], we observed that _prima facie_ , the Rules are meant to be complied with. We reiterate that principle here. Although non-compliance with the Rules does not render a nullity, any step that might have been taken, it nonetheless is _irregular_ and the party in breach is generally obliged to take steps to regularise the position. 
+102    It is clear that O 2 r 1 clearly does not confer upon a party an unlimited right to breach the Rules in cases where his opponent does not object. In _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ <span class="citation">[2008] 1 SLR(R) 757</span> at [35], we observed that _prima facie_ , the Rules are meant to be complied with. We reiterate that principle here. Although non-compliance with the Rules does not render a nullity, any step that might have been taken, it nonetheless is _irregular_ and the party in breach is generally obliged to take steps to regularise the position. 
 
 103    There is thus plainly a tension between the need to ensure compliance with the Rules and the need to ensure that objections are made in a timely manner. The question then relates to how a balance can and ought to be struck. This was the issue before the House of Lords in _Roebuck v Mungovin_ [1994] 2 AC 224 (“ _Roebuck_ ”). 
 
@@ -517,7 +517,7 @@ to the questions asked by the Appellant’s counsel at the trial in relation to 
 
  upon terms) depending upon the balance between the harm done to the defendant by the plaintiff’s delay and the expense or other detriment incurred by the plaintiff by reason of the defendant’s representation. Such a discretion is not materially different from that which the court would be exercising if it had an unfettered discretion whether or not to strike out a claim. Therefore the introduction into the law of striking out of concepts of waiver, acquiescence or estoppel is merely confusing. [emphasis added] 
 
-109    We agree with these observations. For one thing, they cohere with the views which we expressed in _Mercurine Pte Ltd v Canberra Developments Pte Ltd_ [2008] 4 SLR(R) 907. In discussing the principles to be applied in the setting aside of an irregularly obtained default judgment where a defendant had been guilty of undue delay, we said (at [76]): 
+109    We agree with these observations. For one thing, they cohere with the views which we expressed in _Mercurine Pte Ltd v Canberra Developments Pte Ltd_ <span class="citation">[2008] 4 SLR(R) 907</span>. In discussing the principles to be applied in the setting aside of an irregularly obtained default judgment where a defendant had been guilty of undue delay, we said (at [76]): 
 
  [W]here the procedural injustice occasioned to the defendant is not egregious, the court will generally be less inclined to adhere strictly to the ex debito justitiae rule, especially if the defendant has taken a fresh step in the proceedings after becoming aware of the irregular default judgment... With regard to the defendant’s undue delay...,we would reiterate that such delay, although potentially prejudicial to the defendant’s chances of having the irregular default judgment set aside, is not invariably fatal ... 
 
@@ -525,7 +525,7 @@ to the questions asked by the Appellant’s counsel at the trial in relation to 
 
 110    As a matter of principle, the concepts of waiver and estoppel are not easily applied in the context of a breach of the Rules. This is because waiver and estoppel are usually invoked to preclude one party from enforcing his legal rights. As we have observed, apart from one party’s right to object, there is the other party’s failure to comply with the Rules. 
 
-111    This was also the view we took in _Pertamina Energy Trading Limited v Credit Suisse_ [2006] 4 SLR(R) 273, where the respondent sought to raise an unpleaded matter on appeal. It argued that the appellant was estopped from objecting to this matter being raised on appeal as it did not object in the court below. The respondent also argued that it suffered detriment because it was denied the opportunity to amend its pleadings earlier. In dismissing that argument, we held (at [85]) that: 
+111    This was also the view we took in _Pertamina Energy Trading Limited v Credit Suisse_ <span class="citation">[2006] 4 SLR(R) 273</span>, where the respondent sought to raise an unpleaded matter on appeal. It argued that the appellant was estopped from objecting to this matter being raised on appeal as it did not object in the court below. The respondent also argued that it suffered detriment because it was denied the opportunity to amend its pleadings earlier. In dismissing that argument, we held (at [85]) that: 
 
  First and foremost, the respondent omitted to plead this point in its defence. It is futile to argue, as counsel for the respondent has attempted to, that the appellant had failed to raise this point in the court below therefore denying it (the respondent) the opportunity to amend its pleadings. The onus remains on the respondent (or any party for that matter) to plead its case fully and properly. ... [emphasis in original omitted, emphasis added in italics] 
 
@@ -540,7 +540,7 @@ reasons for that delay.
 
 115    In these circumstances, Ms Foo made an oral application for leave to amend the pleadings at the hearing. Ms Foo said the proposed amendment would not prejudice the Respondent as all the relevant evidence was already before this Court. Furthermore, Ms Foo said that the Respondent fully knew of the Appellant’s case on appeal and would not be taken by surprise. 
 
-116    We do not doubt that a court has a wide power to allow amendments to pleadings at any stage of the proceedings, including on appeal. As we held in _Wright Norman and another v OverseasChinese Banking Corp Ltd_ [1993] 3 SLR(R) 640 at [6]: 
+116    We do not doubt that a court has a wide power to allow amendments to pleadings at any stage of the proceedings, including on appeal. As we held in _Wright Norman and another v OverseasChinese Banking Corp Ltd_ <span class="citation">[1993] 3 SLR(R) 640</span> at [6]: 
 
  It is trite law that an amendment which would enable the real issues between the parties to be tried should be allowed subject to penalties on costs and adjournment, if necessary, unless the amendment would cause injustice or injury to the opposing party which could not be compensated by costs or otherwise... 
 
@@ -548,7 +548,7 @@ reasons for that delay.
 
 118    We also accept that in making an application for amendment, delay alone would not prevent the amendment being allowed. Yet, we must emphasise that where such an application is made late in the day, especially after the trial of the matter has been concluded, it will usually be the case that the prejudice to the other party would be greater. This is because he may have been deprived of the opportunity to seek discovery, adduce evidence, or cross-examine, on the unpleaded issues. 
 
-119    Furthermore, in such cases, courts must also ensure that the party seeking to amend is not being given a second bite of the cherry: _Review Publishing Co Ltd & Anor v Lee Hsien Loong and another appeal_ [2010] 1 SLR 52 at [113]. This in turn is consonant with the function of an appellate court which is to correct errors made at first instance and not to afford parties a re-hearing of their dispute on an entirely new basis. 
+119    Furthermore, in such cases, courts must also ensure that the party seeking to amend is not being given a second bite of the cherry: _Review Publishing Co Ltd & Anor v Lee Hsien Loong and another appeal_ <span class="citation">[2010] 1 SLR 52</span> at [113]. This in turn is consonant with the function of an appellate court which is to correct errors made at first instance and not to afford parties a re-hearing of their dispute on an entirely new basis. 
 
 120    Applying these principles to the case before this Court, we disagreed with Ms Foo’s submission that the amendment sought would not prejudice the Respondent. First, the evidence adduced at trial on the other loans was very limited. Had these loans been pleaded, all the documents and facts relating to those loans would have been discovered and placed before the court. In the absence of those documents, it was not for us to speculate as to what they would have revealed. 
 
@@ -567,7 +567,7 @@ as to the other loans or as to why it had not registered its business. Moreover,
 
  ..an English contract should and will be held invalid on account of illegality if the real object and intention of the parties necessitates them joining in an endeavour to perform in a foreign and friendly country some act which is illegal by the law of such country notwithstanding the fact that there may be, in a certain event, alternative modes or places of performing which permit the contract to be performed legally. [emphasis added] 
 
-This principle was accepted by us in _Peh Teck Quee v Bayerische Landesbank Giroztrale_ [1999] 3 SLR(R) 842 at [45]. 
+This principle was accepted by us in _Peh Teck Quee v Bayerische Landesbank Giroztrale_ <span class="citation">[1999] 3 SLR(R) 842</span> at [45]. 
 
 125    Ms Foo argued that as the Respondent was a Hong Kong registered company, it was subject to the provisions of the HKMLO. She further argued that the Respondent was carrying on the business of moneylending in Hong Kong. Therefore, the Second Loan, being a loan granted in the course of that business, was unenforceable under the HKMLO. Ultimately, it was her case that because the Respondent had contravened Hong Kong law in granting the Loans, this Court should refuse enforcement of them under the principle of international comity as laid down in _Foster_. 
 
@@ -588,7 +588,7 @@ In Hunter J’s view therefore, the HKMLO would not have applied to the loan agr
 
 130    The Appellant did not adduce any cogent evidence to the effect that the HKMLO did have extra-territorial effect or that _Calvary_ had been wrongly decided. At trial, the Appellant’s expert on Hong Kong law was Mr Barry Hoy (“Mr Hoy”). In his expert report, Mr Hoy did not deal with the issue of extra-territoriality at all although it had been a live issue in these proceedings. When asked about this during examination in chief, Mr Hoy appeared to suggest that the HKMLO could have extraterritorial effect because in _Calvary_ , Hunter J had said that the HKMLO was directed “primarily” at domestic transactions. Mr Hoy did not cite any other case in support of his proposition. 
 
-131    Mr Hoy’s evidence on this point was not satisfactory. It is helpful here to reiterate the following principles enunciated by this Court in _Pacific Recreation Pte Ltd v S Y Technology Inc and other appeal_ [2008] 2 SLR(R) 491 at [85]–[87] as regards the admissibility of expert evidence to prove foreign law. In summary, these include the following: 
+131    Mr Hoy’s evidence on this point was not satisfactory. It is helpful here to reiterate the following principles enunciated by this Court in _Pacific Recreation Pte Ltd v S Y Technology Inc and other appeal_ <span class="citation">[2008] 2 SLR(R) 491</span> at [85]–[87] as regards the admissibility of expert evidence to prove foreign law. In summary, these include the following: 
 
  (a) The expert cannot merely present his conclusion on what the foreign law is without also presenting the underlying evidence and the analytical process by which he reached his conclusion; 
 

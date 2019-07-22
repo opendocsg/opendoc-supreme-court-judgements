@@ -100,7 +100,7 @@ second, that the terms of the alleged compromise agreement were too uncertain to
 
 _The applicable law_ 
 
-13     The law on compromise is well established and was comprehensively detailed in the recent case of _Gay Choon Ing v Loh Sze Ti Terence Peter_ [2009] 2 SLR(R) 332 at [47]–[72]. Essentially, the general principles of contract law apply equally to the law of compromise. Thus, a compromise will only arise if the following requirements are fulfilled (per Andrew Phang JA at [46]–[47]): 
+13     The law on compromise is well established and was comprehensively detailed in the recent case of _Gay Choon Ing v Loh Sze Ti Terence Peter_ <span class="citation">[2009] 2 SLR(R) 332</span> at [47]–[72]. Essentially, the general principles of contract law apply equally to the law of compromise. Thus, a compromise will only arise if the following requirements are fulfilled (per Andrew Phang JA at [46]–[47]): 
 
  ( 1 ) consensus ad idem or an identifiable agreement that is complete and certain (the preferred identifying tool of choice being the traditional “offer and acceptance” model); 
 
@@ -109,7 +109,7 @@ _The applicable law_
 
  (3) an intention to create legal relations. 
 
-To ascertain if an agreement has been reached, the court is to consider the whole course of the negotiations between both parties, in accordance with the concepts of offer and acceptance (per Phang JA at [63]). This is an objective inquiry as emphasised in _Aircharter World Pte Ltd v Kontena Nasional Bhd_ [1999] 2 SLR(R) 440 at [30], _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ [2000] 2 SLR(R) 407 at [40] and _Chia Ee Lin Evelyn v Teh Guek Ngor Engelin née Tan_ [2004] 4 SLR(R) 330 at [43]. 
+To ascertain if an agreement has been reached, the court is to consider the whole course of the negotiations between both parties, in accordance with the concepts of offer and acceptance (per Phang JA at [63]). This is an objective inquiry as emphasised in _Aircharter World Pte Ltd v Kontena Nasional Bhd_ <span class="citation">[1999] 2 SLR(R) 440</span> at [30], _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">[2000] 2 SLR(R) 407</span> at [40] and _Chia Ee Lin Evelyn v Teh Guek Ngor Engelin née Tan_ <span class="citation">[2004] 4 SLR(R) 330</span> at [43]. 
 
 14     Of the above three requirements, the only one in issue in this case was whether there was an identifiable agreement that was both complete and certain. 
 

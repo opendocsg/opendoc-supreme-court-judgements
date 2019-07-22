@@ -16,7 +16,7 @@
 
 _Evidenc e_ – _Proof of evidenc e_ – _Onus of proof_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 74 of 2015 was allowed by the Court of Appeal on 5 January 2016. See [2015] SGCA 71.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 74 of 2015 was allowed by the Court of Appeal on 5 January 2016. See <span class="citation">[2015] SGCA 71</span>.] 
 
 21 May 2015 Judgment reserved. 
 
@@ -55,7 +55,7 @@ After crediting for some part payments which were not in dispute, the outstandin
 
 8       The Plaintiff contended that the Defendant failed to call material witnesses, and no statement of account was produced by them. On the other hand, the Plaintiff had adduced what evidence it could. It was further argued that the payments made by the Defendant could not have related to the invoices in question. On the evidence, such payment would have been collected by the Defendant from the customers, with onward payment to the Plaintiff. The Defendant had on the evidence paid the Plaintiff before money was received from the customers. 
 
-9       The Plaintiff maintained that while it had the overall burden of proof, the Defendant had to show that payments were made. The case of _Ma Ong Kee v Cham Poh Meng and another suit_ [2013] SGHC 144 (“ _Ma Ong Kee_ ”), discussing _Wee Yue Chew v Su Sh-Hsyu_ [2008] SLR(R) 212 (“ _Wee Yue Chew_ ”), showed that in the present situation the Defendant bore the burden of proving discharge of payment. Even if this was incorrect, the Plaintiff had made out a _prima fac ie_ case that payment had not been made, so the evidential burden had shifted to the Defendant, and remained undischarged. 
+9       The Plaintiff maintained that while it had the overall burden of proof, the Defendant had to show that payments were made. The case of _Ma Ong Kee v Cham Poh Meng and another suit_ <span class="citation">[2013] SGHC 144</span> (“ _Ma Ong Kee_ ”), discussing _Wee Yue Chew v Su Sh-Hsyu_ [2008] SLR(R) 212 (“ _Wee Yue Chew_ ”), showed that in the present situation the Defendant bore the burden of proving discharge of payment. Even if this was incorrect, the Plaintiff had made out a _prima fac ie_ case that payment had not been made, so the evidential burden had shifted to the Defendant, and remained undischarged. 
 
 **The Defendant’s case** 
 
@@ -84,9 +84,9 @@ noted in those produced by Ernst & Young LLP, which gave qualified reports. Even
 
 **_Burden of proof of purpose of payment received_** 
 
-13     The burden of proof was argued at some length by the Plaintiff. The Plaintiff relied on cases in which it was held that the burden of proof of discharge or repayment was on the part of the defendant: _Ma Ong Kee_ which cited _Wee Yue Chew_. The latter case was considered in _Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (trading as Rabobank International), Singapore Branc h v Motorola Elec tronic s Pte Ltd_ [2011] 2 SLR 63 (“ _Cooperatieve Centrale_ ”) where the Court of Appeal noted (at [31]): 
+13     The burden of proof was argued at some length by the Plaintiff. The Plaintiff relied on cases in which it was held that the burden of proof of discharge or repayment was on the part of the defendant: _Ma Ong Kee_ which cited _Wee Yue Chew_. The latter case was considered in _Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (trading as Rabobank International), Singapore Branc h v Motorola Elec tronic s Pte Ltd_ <span class="citation">[2011] 2 SLR 63</span> (“ _Cooperatieve Centrale_ ”) where the Court of Appeal noted (at [31]): 
 
- In civil trials, the pleadings are central in determining the occurrence of the burden of proof, because the pleadings state the material facts establishing the legal elements of a claim or a defence: Pinsler, Evidenc e and the Litigation Proc ess (LexisNexis, 3rd Ed, 2010) at para 12.33; Phipson on Evidenc e (Hodge M Malek gen ed) (Sweet & Maxwell, 17th ed, 2009) (" Phipson ") at para 6-06. The legal burden of proving a pleaded defence rests on the proponent of the defence, unless the defence is a bare denial of the claim: Currie v Dempsey [1967] 2 NSWR 532 at 539, followed by the Singapore High Court in Wee Yue Chew v Su Sh-Hsyu [2008] 3 SLR(R) 212 at [3]. This rule is consistent with the general principle underlying ss 103 and 105 of the Evidence Act, viz , that he who asserts must prove. As stated by Lord Maugham in Joseph Constantine 
+ In civil trials, the pleadings are central in determining the occurrence of the burden of proof, because the pleadings state the material facts establishing the legal elements of a claim or a defence: Pinsler, Evidenc e and the Litigation Proc ess (LexisNexis, 3rd Ed, 2010) at para 12.33; Phipson on Evidenc e (Hodge M Malek gen ed) (Sweet & Maxwell, 17th ed, 2009) (" Phipson ") at para 6-06. The legal burden of proving a pleaded defence rests on the proponent of the defence, unless the defence is a bare denial of the claim: Currie v Dempsey [1967] 2 NSWR 532 at 539, followed by the Singapore High Court in Wee Yue Chew v Su Sh-Hsyu <span class="citation">[2008] 3 SLR(R) 212</span> at [3]. This rule is consistent with the general principle underlying ss 103 and 105 of the Evidence Act, viz , that he who asserts must prove. As stated by Lord Maugham in Joseph Constantine 
 
 
  Steamship Line, Limited v Imperial Smelting Corporation, Limited [1942] AC 154 (" Constantine ") at 174: 

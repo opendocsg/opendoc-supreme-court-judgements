@@ -18,7 +18,7 @@
 
 _Contract_ – _Contractual terms_ – _Interpretation_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 22.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 22</span>.] 
 
 29 November 2017 
 
@@ -60,7 +60,7 @@ Polimet’s default – and also whether the default interest of 2% per month un
 
 **The decision below** 
 
-13     The matter was heard before a Judicial Commissioner (“the Judge”) who dealt with various issues in her judgment (which can be found at _CIFG Special Assets Capital I Ltd v Polimet Pte Ltd and others (Chris Chia Woon Liat and another, third parties)_ [2017] SGHC 22) but what is material for present purposes is the construction she placed on cl 12.1 of the CBSAs (which is the indemnity clause) and in particular, whether on its true construction it had the effect of enabling CIFG to claim the entirety of its losses arising from Polimet’s default against each of the Initial Shareholders on a joint and several basis. 
+13     The matter was heard before a Judicial Commissioner (“the Judge”) who dealt with various issues in her judgment (which can be found at _CIFG Special Assets Capital I Ltd v Polimet Pte Ltd and others (Chris Chia Woon Liat and another, third parties)_ <span class="citation">[2017] SGHC 22</span>) but what is material for present purposes is the construction she placed on cl 12.1 of the CBSAs (which is the indemnity clause) and in particular, whether on its true construction it had the effect of enabling CIFG to claim the entirety of its losses arising from Polimet’s default against each of the Initial Shareholders on a joint and several basis. 
 
 14     The Judge found that the clause was not so wide and for the reasons which follow, we agree with her though we differ somewhat in our reasoning and also in the construction we place on that provision. In relation to cl 12.1, the Judge first found that it appeared to be an unlimited and general indemnity which, on its face, would cover Polimet’s default (at [79]). But the Judge found it odd that there was no reference to the possibility of Polimet’s default in cl 12.1, especially since Polimet was one of the indemnifiers under cl 12.1 and its default would have been the most important category of potential breach (at [84]). The Judge further noted that there were other clauses on repayment – in particular cl 11 which sets out the procedure on an event of default – and which specifically confined the class of persons who would be liable and the documents under which they would be liable in such circumstances (at [85]). These were inconsistent with placing such a wide construction on cl 12.1. She therefore found that there was at least ambiguity on the face of the provision (at [87]). 
 
@@ -81,13 +81,13 @@ Polimet’s default – and also whether the default interest of 2% per month un
 
 contracts. These are well established in several decisions of this court and before us in the course of the oral arguments there was no real disagreement as to these. Stated briefly, these principles are as follow: 
 
- (a) The starting point is that one looks to the text that the parties have used (see Lucky Realty Co Pte Ltd v HSBC Trustee (Singapore)Ltd [2016] 1 SLR 1069 at [2]); 
+ (a) The starting point is that one looks to the text that the parties have used (see Lucky Realty Co Pte Ltd v HSBC Trustee (Singapore)Ltd <span class="citation">[2016] 1 SLR 1069</span> at [2]); 
 
- (b) At the same time, it is permissible to have regard to the relevant context as long as the relevant contextual points are clear, obvious and known to both parties (see Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd [2008] 3 SLR(R) 1029 at [125], [128] and [129]); 
+ (b) At the same time, it is permissible to have regard to the relevant context as long as the relevant contextual points are clear, obvious and known to both parties (see Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd <span class="citation">[2008] 3 SLR(R) 1029</span> at [125], [128] and [129]); 
 
- (c) The reason the court has regard to the relevant context is that it places the court in “the best possible position to ascertain the parties’ objective intentions by interpreting the expressions used by [them] in their proper context” (see Sembcorp Marine Ltd v PPL Holdings Pte Ltd [2013] 4 SLR 193 at [72]); and 
+ (c) The reason the court has regard to the relevant context is that it places the court in “the best possible position to ascertain the parties’ objective intentions by interpreting the expressions used by [them] in their proper context” (see Sembcorp Marine Ltd v PPL Holdings Pte Ltd <span class="citation">[2013] 4 SLR 193</span> at [72]); and 
 
- (d) In general, the meaning ascribed to the terms of the contract must be one which the expressions used by the parties can reasonably bear (see eg , Yap Son On v Ding Pei Zhen [2017] 1 SLR 219 at [31]). 
+ (d) In general, the meaning ascribed to the terms of the contract must be one which the expressions used by the parties can reasonably bear (see eg , Yap Son On v Ding Pei Zhen <span class="citation">[2017] 1 SLR 219</span> at [31]). 
 
 20     In that light we turn to the text of cl 12.1, which provides: 
 
@@ -108,7 +108,7 @@ this momentarily but we pause here to observe that such breadth would make it ab
 
 23     In our judgment the relevant context in this case includes the following in particular: 
 
- (a) The entirety of the document and the way the contract as a whole was drafted. In the different but somewhat analogous context of the interpretation of statutes, we have similarly had regard to the entirety of the statute in question in discerning the correct interpretation of a particular provision (see, eg , Tan Cheng Bock v Attorney-General [2017] 2 SLR 850 at [35] and [54(b)]). In our judgment it is no less relevant to do the same when dealing with the construction of a contract. 
+ (a) The entirety of the document and the way the contract as a whole was drafted. In the different but somewhat analogous context of the interpretation of statutes, we have similarly had regard to the entirety of the statute in question in discerning the correct interpretation of a particular provision (see, eg , Tan Cheng Bock v Attorney-General <span class="citation">[2017] 2 SLR 850</span> at [35] and [54(b)]). In our judgment it is no less relevant to do the same when dealing with the construction of a contract. 
 
  (b) The entirety of the commercial documents that were entered into as part of this transaction. This is no more than an extension of the first point. 
 

@@ -124,7 +124,7 @@ Section 336(1) of the Criminal Procedure Code (Cap 68) further provides:
 
 Since the provisions refer to `any proceedings for any offence` and `criminal prosecutions and proceedings under this Code` without qualification, they apply to private prosecutions as well. It would seem that these provisions squarely contemplate the risks particular to private prosecutions, where the complainant may allow his `private passions and prejudices to creep into the conduct` of a criminal appeal ( **Ponniah v Lim** [1960] MLJ 152 ). A private prosecution is a prosecution by a private individual which, if successful, relies on the state machinery to mete out the sentence imposed. In addition, a criminal offence is based on the notion of a wrong committed against society or social values. It follows that a private prosecution should not defeat the interests of state and society (such interests in this context being determined by the Public Prosecutor). 
 
-The case law on this subject is also clear. **Hawa bte Haji Mohamed Hussain v Miranda** [1988] SLR 720 [1988] 3 MLJ 397 and **Jasbir Kaur v Mukhtiar Singh** [1999] 2 SLR 349 involved straightforward applications of art 35(8) and s 336(1). 
+The case law on this subject is also clear. **Hawa bte Haji Mohamed Hussain v Miranda** [1988] SLR 720 [1988] 3 MLJ 397 and **Jasbir Kaur v Mukhtiar Singh** <span class="citation">[1999] 2 SLR 349</span> involved straightforward applications of art 35(8) and s 336(1). 
 
 **_Conclusion_** 
 

@@ -127,7 +127,7 @@ Counsel has not made good the point that the foreign c urrenc y whic h was the s
 Borrowing is really the other side of the same transac tion as lending and I think to borrow money (or foreign c urrenc y) is to enter into a c ontrac t with a lender whereby the lender pays or agrees to pay a sum of money (or foreign c urrenc y) to the borrower or to another person by the authority of the 
 
 
-borrower in c onsideration of a promise by the borrower to repay on demand or at some future time. See **Nissho Iwai International (Singapore) Pte Ltd v Kohinoor Impex Pte Ltd & Anor** [1995] 3 SLR 268 at p 272 and the authorities c ited. 
+borrower in c onsideration of a promise by the borrower to repay on demand or at some future time. See **Nissho Iwai International (Singapore) Pte Ltd v Kohinoor Impex Pte Ltd & Anor** <span class="citation">[1995] 3 SLR 268</span> at p 272 and the authorities c ited. 
 
 The bank`s loan c onfirmation statement was c learly issued in Singapore where it c arried on banking business. The bank did not c arry on banking business in Malaysia. It c onfirmed payment by a London bank and the bank awaited the c ustomer`s advic e. I think it means that payment by the London bank would be made to a payee or ac c ount on the c ustomer`s advic e. Counsel did not say that this evidenc ed a borrowing having taken plac e in Malaysia but I should have thought that what this evidenc ed was a borrowing that took plac e in Singapore. 
 
@@ -166,7 +166,7 @@ Again I assume for the purpose of this appeal that the bank was `a person reside
 
 Breac h of Bretton Woods Agreement Ac t (Cap 27) 
 
-Counsel referred to the Bretton Woods Agreement and said that the effec t of the performanc e of the c ontrac tual arrangements between the parties was that Japanese Yen and Great Britain Pounds were exc hanged for Malaysian Ringgit. She was unable to point to any provision in the c ontrac tual arrangements whic h involved any exc hange of any c urrenc y for Malaysian Ringgit but on the materials before me there was no exc hange c ontrac t. See **Singapore Finance Ltd v Soetanto & Ors** [1992] 2 SLR 407. Counsel has not shown how an exc hange c ontrac t would arise. 
+Counsel referred to the Bretton Woods Agreement and said that the effec t of the performanc e of the c ontrac tual arrangements between the parties was that Japanese Yen and Great Britain Pounds were exc hanged for Malaysian Ringgit. She was unable to point to any provision in the c ontrac tual arrangements whic h involved any exc hange of any c urrenc y for Malaysian Ringgit but on the materials before me there was no exc hange c ontrac t. See **Singapore Finance Ltd v Soetanto & Ors** <span class="citation">[1992] 2 SLR 407</span>. Counsel has not shown how an exc hange c ontrac t would arise. 
 
 Breac h of Malaysian Code on Take-overs and Mergers 
 

@@ -16,7 +16,7 @@
 
 _Contempt of Court_ – _civil contempt_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 5 of 2013 was dismissed by the Court of Appeal on 14 January 2016. See [2015] SGCA 70.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 5 of 2013 was dismissed by the Court of Appeal on 14 January 2016. See <span class="citation">[2015] SGCA 70</span>.] 
 
 7 September 2015 Judgment reserved. 
 
@@ -95,7 +95,7 @@ the plaintiff _greater_ powers than he had prior to the 16 February 2012 Resolut
 
  (7) Without prejudice to its powers under Order 62, Rule 5, the Court may dispense with service of a copy of an order under this Rule if it thinks it just to do so. 
 
-13     As noted by the court in _OCM Opportunities Fund II, LP and others v Burhan Uray (alias Wong Ming Kiong) and others_ [2005] 3 SLR(R) 60 (“ _OCM Opportunities_ ”) at [23], O 45 r 7(7) gives the court “unfettered discretion to dispense with personal service and the discretion can be exercised whenever the court thinks it is just to do so”. Therefore, the criteria in O 45 r 7(6) are useful but not exhaustive circumstances under which the court may exercise its discretion to dispense with service. In deciding whether to dispense with personal service, the court ultimately has to assess all the circumstances of the case and in particular, the state of the defendant’s knowledge of the terms of the order at the material time. In essence, the court is concerned with whether the defendant was already aware of or ought to be aware of the terms of the court’s order at the time he failed to comply with it so as to determine whether he had deliberately disobeyed or defied the court’s order and whether enforcement by way of committal should be allowed to follow. 
+13     As noted by the court in _OCM Opportunities Fund II, LP and others v Burhan Uray (alias Wong Ming Kiong) and others_ <span class="citation">[2005] 3 SLR(R) 60</span> (“ _OCM Opportunities_ ”) at [23], O 45 r 7(7) gives the court “unfettered discretion to dispense with personal service and the discretion can be exercised whenever the court thinks it is just to do so”. Therefore, the criteria in O 45 r 7(6) are useful but not exhaustive circumstances under which the court may exercise its discretion to dispense with service. In deciding whether to dispense with personal service, the court ultimately has to assess all the circumstances of the case and in particular, the state of the defendant’s knowledge of the terms of the order at the material time. In essence, the court is concerned with whether the defendant was already aware of or ought to be aware of the terms of the court’s order at the time he failed to comply with it so as to determine whether he had deliberately disobeyed or defied the court’s order and whether enforcement by way of committal should be allowed to follow. 
 
 14     In _OCM Opportunities_ , the court had to decide whether it should exercise its discretion to dispense with personal service of an order for cross-examination, a peremptory order, a permanent injunction and a penal notice in a mareva injunction. The court observed at [25] that the defendants in that case “would be hard-pressed to deny that they were unaware of what was required of them under the Mareva injunction and the consequences of non-compliance” given the applications taken 
 
@@ -181,7 +181,7 @@ then counsel that the 1 August 2012 Order would so apply on 2 August 2012: [note
 
  A. Seriously, it's not an excuse or anything, your Honour, if we really never follow strictly to the order, I don't know why. But at that time we are busy trying to get jobs. There are a lot of works. And when he come back, there's a lot of disruptions. There is also -as far as action wise, we have granted him, and there is a lot of confusion there. 
 
-contempt; however, motive of disobedience is relevant in determining mitigating circumstances for the purposes of punishment for contempt: see _Summit Holdings Ltd and another v Business Software Alliance_ [1999] 2 SLR(R) 592 at [52] and [53] and _OCM Opportunities_ at [27]. 
+contempt; however, motive of disobedience is relevant in determining mitigating circumstances for the purposes of punishment for contempt: see _Summit Holdings Ltd and another v Business Software Alliance_ <span class="citation">[1999] 2 SLR(R) 592</span> at [52] and [53] and _OCM Opportunities_ at [27]. 
 
 **The failure to pass a resolution** 
 

@@ -115,7 +115,7 @@ employed to work for TEII. The plaintiff learnt of this when it discovered offer
 
 _Direct relevance_ 
 
-20     It was held in _Dante Yap Go v Bank Austria Creditanstaff AG_ [2007] SGHC 69 (“ _Dante Yap”_ ) at [28] that a party seeking documents on the basis that it is directly relevant has to demonstrate a nexus between the pleaded causes of action and the documents they wish to discover. As was observed by Sundaresh Menon JC (as he then was) in _UMCI Ltd v Tokio Marine & Fire Insurance Co (Singapore) Pte Ltd and Others_ [2006] 4 SLR 95 at [71] in respect of _Tan Chin Seng & Ors v Raffles Town Club Pte Ltd_ [2002] 3 SLR 345 (“ _Tan Chin Seng_ ”): 
+20     It was held in _Dante Yap Go v Bank Austria Creditanstaff AG_ <span class="citation">[2007] SGHC 69</span> (“ _Dante Yap”_ ) at [28] that a party seeking documents on the basis that it is directly relevant has to demonstrate a nexus between the pleaded causes of action and the documents they wish to discover. As was observed by Sundaresh Menon JC (as he then was) in _UMCI Ltd v Tokio Marine & Fire Insurance Co (Singapore) Pte Ltd and Others_ <span class="citation">[2006] 4 SLR 95</span> at [71] in respect of _Tan Chin Seng & Ors v Raffles Town Club Pte Ltd_ <span class="citation">[2002] 3 SLR 345</span> (“ _Tan Chin Seng_ ”): 
 
  [Tan Chin Seng] affirms the importance of considering the relevance of documents sought in discovery by reference to the pleaded issues. Where discovery is sought in relation to an issue not raised in the pleadings, then it may well constitute a fishing exercise. 
 
@@ -138,7 +138,7 @@ employed in the same capacity in both The Enablers and TEII and/or SC, then it w
 
 **_The applicable law_** 
 
-2       5 _The Management Corporation Strata Title Plan No 689 v DTZ Debenham Tie Leung (SEA) Pte Ltd and Anor_ [2008] SGHC 98 (“ _DTZ_ ”) stated that there are two elements, jurisdiction and discretion, that have to be satisfied before an order for specific discovery is made under O 24 r 5. As stated by _DTZ_ at [26]: 
+2       5 _The Management Corporation Strata Title Plan No 689 v DTZ Debenham Tie Leung (SEA) Pte Ltd and Anor_ <span class="citation">[2008] SGHC 98</span> (“ _DTZ_ ”) stated that there are two elements, jurisdiction and discretion, that have to be satisfied before an order for specific discovery is made under O 24 r 5. As stated by _DTZ_ at [26]: 
 
  The distinction between jurisdiction and discretion is also supported by a plain reading of O 24 r 5(1) of the Rules. This provides, inter alia , that “... the court may ... on the application of any party to a cause or matter... make [the order for discovery]” [emphasis added]. As Prof Pinsler SC notes in Singapore Court Practice 2006 (LexisNexis, 2006) at para 24/5/2, the party seeking discovery does not become automatically entitled to it on the fulfilment of the conditions in rr 5 and 7 as the court has a discretion over and above the conditions to ensure that discovery and its extent are fully justified. Hence the word “may” in r 5(1). As such, the fulfilment of the conditions is a condition precedent to the court possessing the jurisdiction to order discovery; however, even after the conditions are fulfilled and the court is thereby imbued with jurisdiction, it still retains a discretion to refuse discovery uninhibited by the express wording of the Rules. 
 

@@ -245,7 +245,7 @@ and reliance was also placed on r 3(1) that:
 
  The ex parte application for leave to apply for an order of mandamus, prohibition and certiorari under O 53 r 1 of our Rules of Court is intended to be a means of filtering out groundless or hopeless cases at an early stage, and its aim is to prevent a wasteful use of judicial time and to protect public bodies from harassment (whether intentional or otherwise) that might arise from a need to delay implementing decisions, where the legality of such decisions is being challenged. 
 
- (per LP Thean JA in Public Service Commission v Lai Swee Lin Linda [2001] 1 SLR 644, at paragraph 23) 
+ (per LP Thean JA in Public Service Commission v Lai Swee Lin Linda <span class="citation">[2001] 1 SLR 644</span>, at paragraph 23) 
 
  This is not an appropriate case to grant leave to apply for certiorari as this application is clearly groundless. 
 

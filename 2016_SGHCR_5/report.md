@@ -133,7 +133,7 @@ _Proof of loss_
 
 17     I agree, however, with the submission of Defendant’s counsel, Mr Low Chai Chong, that the Plaintiff has not proven this head of loss. None of the factors relied upon by the Plaintiff objectively show that the Plaintiff had suffered a loss of business reputation and goodwill. 
 
-18     There is no evidence before me of a disparity in quality between the parties’ respective product and service offered. In _Mopi Pte Ltd v Central Mercantile Corp (S) Ltd_ [2005] SGHC 183, Choo Han 
+18     There is no evidence before me of a disparity in quality between the parties’ respective product and service offered. In _Mopi Pte Ltd v Central Mercantile Corp (S) Ltd_ <span class="citation">[2005] SGHC 183</span>, Choo Han 
 
 
 Teck J held (at [8]) that damages for loss of reputation arising from passing off and trade mark infringements is not synonymous with damages for differences in quality; “surer evidence” of the nature of the quality that is alleged to be inferior is required. Hence, even if the Plaintiff’s facilities may be more accredited than the Defendant’s, that is not proof of disparity of their respective product and service, much less evidence of the degree of inferiority that translates to $100,000 in business reputation and goodwill. 
@@ -150,7 +150,7 @@ Teck J held (at [8]) that damages for loss of reputation arising from passing of
 
 (2) Costs of investigations 
 
-24     Ms Ho and Mr Low were in agreement that as a matter of law, an award of special damages for the costs of investigation is permissible. _John While Springs (S) Pte Ltd and another v Goh Sai Chuah Justin and others_ [2004] SGHC 76 (“ _John While Springs_ ”) was cited as authority. The disagreement was over the question of proof. 
+24     Ms Ho and Mr Low were in agreement that as a matter of law, an award of special damages for the costs of investigation is permissible. _John While Springs (S) Pte Ltd and another v Goh Sai Chuah Justin and others_ <span class="citation">[2004] SGHC 76</span> (“ _John While Springs_ ”) was cited as authority. The disagreement was over the question of proof. 
 
 25     Ms Ho submits that the Plaintiff should be compensated for the time costs for seven of its employees who were diverted from their ordinary work to investigating the infringements. The Plaintiff is not claiming time costs for other employees who were involved peripherally. Mr Low’s main quibble with Mr Yee’s figures in his affidavit is principally one of provenance. For instance, there is no breakdown of the time spent by each employee and the value of each employee’s hour at work. Mr Low also pointed out that there is no evidence of the underlying source documents used to compute 
 
@@ -388,7 +388,7 @@ have awarded would probably be no greater than $10,000, as the various infringem
 
 78     In this regard, I take my bearings from Ms Labastida who testified that the Forms could, broadly speaking, be produced by a developer in India within a day for not more than US$30 per page. In the light of these prevalent and affordable alternatives, anything more than $10,000 for a licence would have been economically unattractive and unviable to the Defendant. Perhaps that is why the Plaintiff elected to pursue its more significant loss of profit claim instead of a far more direct albeit modest licence fee claim. 
 
-79     There is nevertheless a point of principle on the topic of licence fee that merits clarification. Mr Low bases his submission that the Plaintiff is entitled only to a licence fee and not damages for loss of business reputation, goodwill and profit on [47] of the Court of Appeal’s decision in _Ong Seow Pheng and others v Lotus Development Corp and another_ [1997] 2 SLR(R) 113 (“ _Ong Seow Pheng_ ”) which states that: 
+79     There is nevertheless a point of principle on the topic of licence fee that merits clarification. Mr Low bases his submission that the Plaintiff is entitled only to a licence fee and not damages for loss of business reputation, goodwill and profit on [47] of the Court of Appeal’s decision in _Ong Seow Pheng and others v Lotus Development Corp and another_ <span class="citation">[1997] 2 SLR(R) 113</span> (“ _Ong Seow Pheng_ ”) which states that: 
 
  (a) where the infringement has caused a diminution in the capital value of the copyright, the measure of damages is the depreciation caused by the infringement to the value of the copyright as a chose in action; 
 
@@ -428,7 +428,7 @@ _Account of profit for copyright infringements_
 
 89     It is no answer to say, as Dr Munjal did, that he was “assisted by a colleague in marketing”, or that Maverick was responsible for the execution of the design of the websites. Whoever in the Defendant’s employment had contributed to, sight of, or approved the website designs and content, it is indisputable that the Defendant was not the sort of innocent infringer which s 119(3) of the Copyright Act was conceived to protect. 
 
-90     In _Global Yellow Pages Ltd v Promedia Directories Pte Ltd_ [2016] 2 SLR 165, George Wei J held that the defendant was not an innocent infringer but knew what it was doing, as evidenced by the fact that it “photocopied the entirety of the listings in the Business Listings and scanned them into a temporary database” (at [386]). I find likewise. Given the nature of the materials copied, particularly those that are not disputed, the Defendant must have been well aware of what it was doing. 
+90     In _Global Yellow Pages Ltd v Promedia Directories Pte Ltd_ <span class="citation">[2016] 2 SLR 165</span>, George Wei J held that the defendant was not an innocent infringer but knew what it was doing, as evidenced by the fact that it “photocopied the entirety of the listings in the Business Listings and scanned them into a temporary database” (at [386]). I find likewise. Given the nature of the materials copied, particularly those that are not disputed, the Defendant must have been well aware of what it was doing. 
 
 91     Accordingly, it was not appropriate for me to order an account of profit under s 119(3) of the Copyright Act. 
 
@@ -461,15 +461,15 @@ provision does _not_ go further to state that a finding of flagrant infringement
 
 95     Copyright infringements are flagrant when: 
 
- (a) there is a display of calculated disregard of the plaintiff’s rights (see the summary judgment stage of proceedings in Ong Seow Pheng which is reported as [1993] 3 SLR(R) 56 at [35]); and Prior v Landsdowne Press Pty Ltd [1977] VR 65 at 70); 
+ (a) there is a display of calculated disregard of the plaintiff’s rights (see the summary judgment stage of proceedings in Ong Seow Pheng which is reported as <span class="citation">[1993] 3 SLR(R) 56</span> at [35]); and Prior v Landsdowne Press Pty Ltd [1977] VR 65 at 70); 
 
- (b) the defendants’ infringing operation was carried out on a large scale and the defendants were fully aware that they were violating intellectual property rights (see the High Court inquiry in Ong Seow Pheng (reported as [1996] 2 SLR(R) 514 at [41]–[45])); 
+ (b) the defendants’ infringing operation was carried out on a large scale and the defendants were fully aware that they were violating intellectual property rights (see the High Court inquiry in Ong Seow Pheng (reported as <span class="citation">[1996] 2 SLR(R) 514</span> at [41]–[45])); 
 
  (c) the defendant used works for its own benefit despite knowing that those works belonged to the plaintiff or was at least wilfully blind to that fact, irrespective of whether the defendant knew that the use of the works would amount to an infringement (see Futuretronics at [20]); 
 
  (d) the defendant had taken steps to appropriate without authorisation the plaintiff’s works from the plaintiff’s control (see Joseph Bailey v Namol Pty Limited [1994] FCA 1401 at [46]); and 
 
- (e) the infringing scheme involved falsification of documents, misleading advertisement calculated to convey an impression of authenticity, and a network of seemingly independent companies designed to abuse the law relating to companies (in New Line Productions, Inc and another v Aglow Video Pte Ltd and others and other suits [2005] 3 SLR(R) 660 (“ New Line ”) at [111]); 
+ (e) the infringing scheme involved falsification of documents, misleading advertisement calculated to convey an impression of authenticity, and a network of seemingly independent companies designed to abuse the law relating to companies (in New Line Productions, Inc and another v Aglow Video Pte Ltd and others and other suits <span class="citation">[2005] 3 SLR(R) 660</span> (“ New Line ”) at [111]); 
 
  (f) the quantity of infringing items is large, the nature of the infringement was deliberate, and the purpose was clearly commercial and calculated (see Louis Vuitton , albeit in the context of trade mark infringement); and 
 
@@ -515,7 +515,7 @@ _Whether exemplary damages may be awarded for copyright, trade mark infringement
 
 (1) Generally 
 
-107    A good starting point is the recent decision of Belinda Ang Saw Ean J in _Li Siu Lun v Looi Kok Poh and another_ [2015] 4 SLR 667. There, pursuant to his claim under the tort of conspiracy by unlawful means, the plaintiff sought, amongst other heads of damages, exemplary damages by reference to the second defendant’s reprehensible conduct. The plaintiff claimed that the second defendant had amended the plaintiff’s medical reports despite being aware that the plaintiff was contemplating legal proceedings against the first defendant and was likely to have used the medical records in court as corroborative evidence. 
+107    A good starting point is the recent decision of Belinda Ang Saw Ean J in _Li Siu Lun v Looi Kok Poh and another_ <span class="citation">[2015] 4 SLR 667</span>. There, pursuant to his claim under the tort of conspiracy by unlawful means, the plaintiff sought, amongst other heads of damages, exemplary damages by reference to the second defendant’s reprehensible conduct. The plaintiff claimed that the second defendant had amended the plaintiff’s medical reports despite being aware that the plaintiff was contemplating legal proceedings against the first defendant and was likely to have used the medical records in court as corroborative evidence. 
 
 108    Ang J observed, albeit tentatively, that Singapore law permits an award of exemplary damages in three narrow categories of cases, namely where (a) there is oppressive, arbitrary or unconstitutional action by servants of the government, (b) there is wrongful conduct which has been 
 

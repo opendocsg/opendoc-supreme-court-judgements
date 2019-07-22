@@ -18,7 +18,7 @@
 
 _Building and Construction Law_ – _Statutes and regulations_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 44 of 2011 was dismissed and the appeal in Civil Appeal No 46 of 2011 was allowed by the Court of Appeal on 2 November 2012. See [2012] SGCA 63.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 44 of 2011 was dismissed and the appeal in Civil Appeal No 46 of 2011 was allowed by the Court of Appeal on 2 November 2012. See <span class="citation">[2012] SGCA 63</span>.] 
 
 29 April 2011 
 
@@ -45,7 +45,7 @@ proceeded to litigate their dispute in court. Both the plaintiff and the defenda
 
 **Brief factual background** 
 
-5       The AR has set out the facts in detail at [3] to [9] of his decision (see _Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) v Lee Wee Lick Terence @ Li Weili Terence_ [2010] SGHC 333) (“the AR’s decision”). I will limit my account here to the salient facts. 
+5       The AR has set out the facts in detail at [3] to [9] of his decision (see _Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) v Lee Wee Lick Terence @ Li Weili Terence_ <span class="citation">[2010] SGHC 333</span>) (“the AR’s decision”). I will limit my account here to the salient facts. 
 
 6       The plaintiff is in the business of building and renovation works. The defendant is a private individual who engaged the plaintiff in August 2008 as the main contractor for the conversion of his two-storey house at 1 Pasir Ris Heights into a three-storey house. Relations soured and the defendant purported to terminate his contract with the plaintiff by way of a letter dated 21 April 
 
@@ -76,7 +76,7 @@ review the Adjudicator’s decision on the said issues.
 
 _The earlier cases_ 
 
-11     Following Judith Prakash J’s (“Prakash J’s”) decision in _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ [2010] 1 SLR 658 (“ _Chip Hup_ ”), it would appear that the two issues do not pertain to whether an adjudicator has properly assumed jurisdiction and thus should not be considered by the court. Prakash J held the following at [54]: 
+11     Following Judith Prakash J’s (“Prakash J’s”) decision in _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ <span class="citation">[2010] 1 SLR 658</span> (“ _Chip Hup_ ”), it would appear that the two issues do not pertain to whether an adjudicator has properly assumed jurisdiction and thus should not be considered by the court. Prakash J held the following at [54]: 
 
  54 I was unable to accept the respondent's argument that the jurisdiction of the Adjudicator was determined according to whether the claimant had followed the requirements of the SOP Act in connection with the form and content of the payment claim and the time at which it had to be served, or not. I took the view that the Adjudicator's jurisdiction, in the sense of his power to hear and determine the adjudication, could not depend on such adventitious elements. It appeared to me that, as the claimant submitted, the Adjudicator's jurisdiction arose from his appointment by an authorised nominating body under s 14(1) of the SOP Act and from his acceptance of such appointment. Whether the payment claim was in proper order or not would not have an impact on the Adjudicator's jurisdiction , though of course if it was not in order, the Adjudicator would be able to throw out the claim on that basis. Once an appointment had been made and confirmed to the parties by the authorised nominating body under s 14(3), jurisdiction would have been conferred on the Adjudicator in relation to that particular adjudication application. 
 
@@ -90,7 +90,7 @@ At [55], the judge made reference to two New South Wales Supreme Court decisions
 
 12     Therefore, according to Prakash J, an adjudicator obtains jurisdiction to hear and determine an adjudication application as soon as he accepts the appointment made by the SMC. Applying that to the case before me, it appears that as an adjudicator’s jurisdiction does not stem from a “properly completed and served payment claim”, this court should not be reviewing the Adjudicator’s decision on the two issues raised in this appeal. 
 
-13     About two months after her decision in _Chip Hup_ , Prakash J set out her views in _SEF Construction Pte Ltd v Skoy Connected Pte Ltd_ [2010] 1 SLR 733 (“ _SEF Construction_ ”) on the court’s role when asked to set aside an adjudication determination or a judgment arising from the same. She said at [42]: 
+13     About two months after her decision in _Chip Hup_ , Prakash J set out her views in _SEF Construction Pte Ltd v Skoy Connected Pte Ltd_ <span class="citation">[2010] 1 SLR 733</span> (“ _SEF Construction_ ”) on the court’s role when asked to set aside an adjudication determination or a judgment arising from the same. She said at [42]: 
 
  42 Accordingly, instead of reviewing the merits (in any direct or indirect fashion), it is my view 
 
@@ -160,7 +160,7 @@ As for more detailed statutory requirements of the NSW Act such as “section 13
 
  [emphasis added] 
 
-17     Prakash J next decided the case of _AM Associates (Singapore) Pte Ltd v Laguna National Golf and Country Club Ltd_ [2009] SGHC 260 (“ _AM Associates_ ”), in which she applied her holdings in _SEF_ 
+17     Prakash J next decided the case of _AM Associates (Singapore) Pte Ltd v Laguna National Golf and Country Club Ltd_ <span class="citation">[2009] SGHC 260</span> (“ _AM Associates_ ”), in which she applied her holdings in _SEF_ 
 
 
  (a) 
@@ -181,7 +181,7 @@ _Construction_. The respondent in the adjudication proceedings there applied to 
 
 _Sungdo Engineering_ 
 
-18     Shortly after the _AM Associates_ decision, Lee Seiu Kin J (“Lee J”) decided the case of _Sungdo Engineering & Construction (S) Pte Ltd v Italcor Pte Ltd_ [2010] 3 SLR 459 (“ _Sungdo Engineering_ ”). An appeal was filed against Lee J’s decision but was subsequently withdrawn. There, the respondent in the adjudication proceedings applied to set aside the adjudication order on the basis that the letter which the claimant purported to be a payment claim (“the 2008 Letter”) did not in fact constitute a payment claim under the SOPA. Lee J found notable the conclusion of the 2008 Letter (see _Sungdo Engineering_ at [27]): 
+18     Shortly after the _AM Associates_ decision, Lee Seiu Kin J (“Lee J”) decided the case of _Sungdo Engineering & Construction (S) Pte Ltd v Italcor Pte Ltd_ <span class="citation">[2010] 3 SLR 459</span> (“ _Sungdo Engineering_ ”). An appeal was filed against Lee J’s decision but was subsequently withdrawn. There, the respondent in the adjudication proceedings applied to set aside the adjudication order on the basis that the letter which the claimant purported to be a payment claim (“the 2008 Letter”) did not in fact constitute a payment claim under the SOPA. Lee J found notable the conclusion of the 2008 Letter (see _Sungdo Engineering_ at [27]): 
 
  Please therefore let us have your payment. 
 
@@ -436,7 +436,7 @@ contended for. The first was Chow Kok Fong, _Security of Payments and Constructi
 
  [emphasis added] 
 
-44     In clarification of Dr Philip Chan’s (“Dr Chan’s”) position, the defendant tendered a paper entitled “Statutory adjudication and the standard building contract in Singapore – Is the Final Payment referable to statutory adjudication?”, which was submitted to COBRA 2008 (the construction and building research conference of the Royal Institution of Chartered Surveyors held in September 2008). That paper discussed the first case that went up to the High Court challenging the validity of an adjudicator’s determination, _Tiong Seng Contractors (Pte) Ltd v Chuan Lim Construction Pte Ltd_ [2007] 4 SLR(R) 364 (“ _Tiong Seng Contractors_ ”). In the concluding section at page 11 of the paper, Dr Chan raised certain queries that he felt ought to have been raised in respect of that case, the first of which I set out here: 
+44     In clarification of Dr Philip Chan’s (“Dr Chan’s”) position, the defendant tendered a paper entitled “Statutory adjudication and the standard building contract in Singapore – Is the Final Payment referable to statutory adjudication?”, which was submitted to COBRA 2008 (the construction and building research conference of the Royal Institution of Chartered Surveyors held in September 2008). That paper discussed the first case that went up to the High Court challenging the validity of an adjudicator’s determination, _Tiong Seng Contractors (Pte) Ltd v Chuan Lim Construction Pte Ltd_ <span class="citation">[2007] 4 SLR(R) 364</span> (“ _Tiong Seng Contractors_ ”). In the concluding section at page 11 of the paper, Dr Chan raised certain queries that he felt ought to have been raised in respect of that case, the first of which I set out here: 
 
  First, as each payment claim has a limitation period to serve , is it possible to validly serve a payment claim based on Progress Claim 10 dated one month after the Final Claim and which represents the unpaid amount claimed in the Final Claim. It is humbly submitted that without further scrutiny of other points, a payment claim based on more than a month old Final Claim would have been time barred. 
 

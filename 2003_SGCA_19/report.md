@@ -181,7 +181,7 @@ APP group. APP contended that without these guarantees, "IBRA would be left with
 
 **Decision of the court** 
 
-31     Although some of APP’s arguments against the making of a judicial management order lacked substance, the fact that the trial judge had carefully considered the pros and cons of making such an order cannot be overlooked. We are mindful of the fact that we ought not interfere with the exercise of the trial judge’s exercise of her discretion with respect to the appointment of a judicial manager unless there are compelling reasons for us to do so. In accordance with the principles enunciated by this court in _The Vishva Apurva_ [1992] 2 SLR 175, an appellate court will interfere with a trial judge’s exercise of discretion only on the following three grounds: 
+31     Although some of APP’s arguments against the making of a judicial management order lacked substance, the fact that the trial judge had carefully considered the pros and cons of making such an order cannot be overlooked. We are mindful of the fact that we ought not interfere with the exercise of the trial judge’s exercise of her discretion with respect to the appointment of a judicial manager unless there are compelling reasons for us to do so. In accordance with the principles enunciated by this court in _The Vishva Apurva_ <span class="citation">[1992] 2 SLR 175</span>, an appellate court will interfere with a trial judge’s exercise of discretion only on the following three grounds: 
 
  (i) if she has misdirected herself with regard to the principles in accordance with which her discretion has to be exercised; 
 

@@ -33,7 +33,7 @@ _Revenue Law_ – _Income taxation_ – _Jurisdiction_ – _Whether gains from e
 5       The taxpayer appealed against the Comptroller’s assessment to the Income Tax Board of Review, which dismissed the appeal. On further appeal to the High Court, Choo Han Teck J (“the judge”) allowed the appeal, taking the view that the taxpayer’s gains from the exercise of the stock 
 
 
-options were not taxable in Singapore (see _HY v Comptroller of Income Tax_ [2005] 4 SLR 315). 
+options were not taxable in Singapore (see _HY v Comptroller of Income Tax_ <span class="citation">[2005] 4 SLR 315</span>). 
 
 **The decision below** 
 
@@ -241,7 +241,7 @@ It was common ground that the gains derived by the taxpayer from the exercise of
 
 **Section 10(5)** 
 
-40     From the arguments of the taxpayer, the first issue that requires determination is the construction of the expression, “right is obtained ... by reason of any employment”, in s 10(5). Following from the basic premise that tax laws, and I would say of any other law, shall _prima facie_ only have territorial effect, the judge below, Choo Han Teck J, came to the view that the term “any employment” in the provision had therefore to mean employment in Singapore and that for a stock option to fall within the provision, the option must have been granted to an employee by his employer when the former is employed in Singapore. He explained (at [7] of his judgment reported at [2005] 4 SLR 315): 
+40     From the arguments of the taxpayer, the first issue that requires determination is the construction of the expression, “right is obtained ... by reason of any employment”, in s 10(5). Following from the basic premise that tax laws, and I would say of any other law, shall _prima facie_ only have territorial effect, the judge below, Choo Han Teck J, came to the view that the term “any employment” in the provision had therefore to mean employment in Singapore and that for a stock option to fall within the provision, the option must have been granted to an employee by his employer when the former is employed in Singapore. He explained (at [7] of his judgment reported at <span class="citation">[2005] 4 SLR 315</span>): 
 
  [Section]10(5) ... imposed a tax liability in respect of gains derived from the exercise of a right obtained by reason of an employment held by him. No country or place was specified or excluded, and thus, the only country of relevance is Singapore because tax laws are territorial. 
 

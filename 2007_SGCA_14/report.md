@@ -57,7 +57,7 @@ At the time of the acquisition, the period for application was six months. The p
 
 **The decision below** 
 
-9       The appellant’s application came on for hearing before Andrew Phang Boon Leong J (as he then was) and his judgment is reported in [2006] 3 SLR 507. Phang J dismissed the application. On appeal before us, the parties essentially repeated the arguments made before him. 
+9       The appellant’s application came on for hearing before Andrew Phang Boon Leong J (as he then was) and his judgment is reported in <span class="citation">[2006] 3 SLR 507</span>. Phang J dismissed the application. On appeal before us, the parties essentially repeated the arguments made before him. 
 
 **The issues** 
 
@@ -122,7 +122,7 @@ the appellant is actively engaged in property development through its related co
 
 **The merits** 
 
-24     Phang J went on to decide on the merits of the application. He started by identifying the standard of proof to be satisfied to obtain leave. He referred to _Chan Hiang Leng Colin v Minister for Information and the Arts_ [1996] 1 SLR 609 (“ _Colin Chan_ ’s case”), and concluded that there was a very low threshold for an applicant to meet. 
+24     Phang J went on to decide on the merits of the application. He started by identifying the standard of proof to be satisfied to obtain leave. He referred to _Chan Hiang Leng Colin v Minister for Information and the Arts_ <span class="citation">[1996] 1 SLR 609</span> (“ _Colin Chan_ ’s case”), and concluded that there was a very low threshold for an applicant to meet. 
 
 25     He then focused his attention on s 5(3) of the Act which states that a declaration “shall be conclusive evidence that the land is needed for the purpose specified”. 
 

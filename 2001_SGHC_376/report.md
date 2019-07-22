@@ -205,7 +205,7 @@ reduced. That had an effect on him as he thought that he might escape hanging. H
 
 ### THE DECISION OF THE COURT IN THE TRIAL WITHIN A TRIAL 
 
-55     Where voluntariness of a statement is challenged, the burden is on the Prosecution to prove beyond reasonable doubt that the statement was made voluntarily and not on the defence to prove on a balance of probabilities that it was not made voluntarily. However, the Prosecution does not need to remove every lurking shadow of influence or remnants of fear (see the Court of Appeal’s decision in _Gulam bin Notan & Anor v PP_ [1999] 2 SLR 181). 
+55     Where voluntariness of a statement is challenged, the burden is on the Prosecution to prove beyond reasonable doubt that the statement was made voluntarily and not on the defence to prove on a balance of probabilities that it was not made voluntarily. However, the Prosecution does not need to remove every lurking shadow of influence or remnants of fear (see the Court of Appeal’s decision in _Gulam bin Notan & Anor v PP_ <span class="citation">[1999] 2 SLR 181</span>). 
 
 56     I had no doubt that the Investigating Officer and the interpreter were telling the truth about the recording of the statements from the Second Accused on 9 May 2001 and on 15 May 2001. The interpreter had no interest in ensuring that any statement was recorded. She said what she could remember and was candid about the fact that she could not recall whether the Second Accused was handcuffed or not during the two recording sessions. There was no particular reason why the Investigating Officer should insist on recording a statement on those two days if the Second Accused was unwell then. Indeed, it would be foolhardy for the Investigating Officer to do so on 15 May 2001 knowing that the Second Accused had already informed someone at the CID lockup that he was unwell after the recording session on 9 May 2001. If the Second Accused was unwell in any way before the recording on those two days, it was strange that he did not tell the officers at the CID lockup before he was brought to meet the Investigating Officer. 
 
@@ -398,7 +398,7 @@ undercover officers to hurry as the car was stopped at the roadside. He added th
 
 114    The totality of the evidence put it beyond reasonable doubt that the Second Accused was deeply involved in the cannabis deal and had played a key role in it after the initial introduction by the First Accused. 
 
-115    The First Accused’s statements and oral testimony clearly amounted to confessions of his guilt. Pursuant to Section 30 of the Evidence Act, as expounded by _Chin Seow Noi & Ors v PP_ [1994] 1 SLR 135, they could be used as the basis for convicting the Second Accused. However, there was ample evidence in any event to support his conviction apart from the First Accused’s confessions. 
+115    The First Accused’s statements and oral testimony clearly amounted to confessions of his guilt. Pursuant to Section 30 of the Evidence Act, as expounded by _Chin Seow Noi & Ors v PP_ <span class="citation">[1994] 1 SLR 135</span>, they could be used as the basis for convicting the Second Accused. However, there was ample evidence in any event to support his conviction apart from the First Accused’s confessions. 
 
 116    I therefore found both Accused persons guilty as charged and convicted them accordingly. As the amount of cannabis involved exceeded 500 grammes, I passed the mandatory death sentence on both of them. 
 

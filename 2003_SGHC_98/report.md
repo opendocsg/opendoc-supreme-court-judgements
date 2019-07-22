@@ -173,7 +173,7 @@ doctrine, I turn to _Chitty on Contracts_ vol 1 (28th ed at p 411 para 7-002) wh
 
 There is a further classification of undue influence, one at law and the other in equity; we are concerned with the latter classification for this case. 
 
-48     Counsel for the Bank had relied on some local authorities in his closing submissions. The first was _Rajabali Jumabhoy & Ors v Ameerdali R Jumabhoy & Ors_ [1997] 3 SLR 802. There Prakash J held (at p 854 para 184): 
+48     Counsel for the Bank had relied on some local authorities in his closing submissions. The first was _Rajabali Jumabhoy & Ors v Ameerdali R Jumabhoy & Ors_ <span class="citation">[1997] 3 SLR 802</span>. There Prakash J held (at p 854 para 184): 
 
  The doctrine of undue influence allows a person to avoid a transaction he has entered into on the ground that in entering it he was not exercising an independent will because of the undue influence asserted on him by another person. There are two (2) categories of undue influence, namely, presumed and actual undue influence. To succeed under he 'presumed undue influence' category, the following elements need to be proved: 
 
@@ -183,7 +183,7 @@ There is a further classification of undue influence, one at law and the other i
 
  Upon proof of the above elements, the burden shifts to the defendant to prove that no undue influence had been exercised. The presumption can only be rebutted by showing that the ascendant party did not abuse his position and that the subservient party understood what he was doing and was in a position to exercise a free judgment based on full information. 
 
-49     The second case relied on by the Bank was _Pelican Engineering Pte Ltd v Lim Wee Chuan & Anor_ [2001] 1 SLR 105 where Goh Joon Seng J (at p 112 para 32) adopted the meaning of undue influence applied by LP Thean JA in _Lim Geok Hian v Lim Guan Chin_ [1994] 1 SLR 203 (at p 216): 
+49     The second case relied on by the Bank was _Pelican Engineering Pte Ltd v Lim Wee Chuan & Anor_ <span class="citation">[2001] 1 SLR 105</span> where Goh Joon Seng J (at p 112 para 32) adopted the meaning of undue influence applied by LP Thean JA in _Lim Geok Hian v Lim Guan Chin_ <span class="citation">[1994] 1 SLR 203</span> (at p 216): 
 
  Undue influence is the unconscientious use of one's power or authority, over another to acquire a benefit or to achieve a purpose. Allcard v Skinner (1887) 36 Ch D 145 established that cases of undue influence fall into two categories: first, cases where actual influence has been proved to have been exercised, and, second, cases where, by virtue of a particular relationship between the parties, the court presumes that undue influence has been exercised unless the contrary is proved. 
 

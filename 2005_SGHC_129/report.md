@@ -81,7 +81,7 @@ at her hairdresser’s saloon, she noticed fluid dripping from her left cheek. S
 
 achieving the objects of the legislature”. 
 
-16     In this regard it is pertinent to note that while costs in normal court proceedings are always a matter in the discretion of the trial judge, an appellate tribunal is nevertheless entitled to interfere with a costs order if it is manifestly wrong or was exercised on wrong principles: see _Tullio v Maoro_ [1994] 2 SLR 489 at 496, [22]. 
+16     In this regard it is pertinent to note that while costs in normal court proceedings are always a matter in the discretion of the trial judge, an appellate tribunal is nevertheless entitled to interfere with a costs order if it is manifestly wrong or was exercised on wrong principles: see _Tullio v Maoro_ <span class="citation">[1994] 2 SLR 489</span> at 496, [22]. 
 
 17     Another established rule on costs is that costs should always follow the event unless the circumstances of the case warrant some other order: see _Elgindata Ltd (No 2)_ [1992] 1 WLR 1207 at 1214 (“ _Elgindata_ ”). In _Tullio v Maoro_ this court set aside that part of the trial judge’s order which deprived the successful appellant of half his costs. There, this court noted (at 496, [23]) that the judge below had “disregarded the principle that a successful party who had acted neither improperly nor unreasonably ought not to be deprived of any part of his costs”. 
 

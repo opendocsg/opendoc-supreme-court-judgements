@@ -37,7 +37,7 @@ _Civil Procedure_
 
  (c) 
 
-counsels referred to _Moguntia-Est Epices SA v Sea-Hawk Freight Pte Ltd_ [2003] 4 SLR(R) 429 in which Judith Prakash J expressed some views as to how the court should exercise its discretion in granting a party leave to reinstate the matter. The three factors stated in that judgment (at [21]) were as follows — 
+counsels referred to _Moguntia-Est Epices SA v Sea-Hawk Freight Pte Ltd_ <span class="citation">[2003] 4 SLR(R) 429</span> in which Judith Prakash J expressed some views as to how the court should exercise its discretion in granting a party leave to reinstate the matter. The three factors stated in that judgment (at [21]) were as follows — 
 
  Has the plaintiff satisfied the court that he is innocent of any significant failure to conduct the case with expedition prior to the trigger date having regard to the particular features of the case. If he has not, then reinstatement should be refused; 
 

@@ -185,11 +185,11 @@ through the events from the time of the arrival of the second defendant and Elam
 
 **_Whether the words complained of bore the meaning the plaintiffs alleged_** 
 
-29     In _Aaron v Cheong Yip Seng_ [1996] 1 SLR 623 at 683, [41], the Court of Appeal held: 
+29     In _Aaron v Cheong Yip Seng_ <span class="citation">[1996] 1 SLR 623</span> at 683, [41], the Court of Appeal held: 
 
  In considering the natural and ordinary meaning of the words the proper approach is to consider what meaning the words would convey to an ordinary reasonable person who is neither unduly naïve or suspicious, using his general knowledge and common sense. Such a meaning is not confined to the literal or strict meaning of the words but includes any inferences which can reasonably be drawn by such person: see Rubber Improvement Ltd v Daily Telegraph Ltd [1964] AC 234 at p 258; and Jones v Skelton [1963] 3 All ER 952 at p 958. 
 
-30     The ordinary reasonable person contemplated is an ordinary reasonable person who heard the words in the context when they are published, not one who only read the words set out in the pleadings. In _Jeyaretnam Joshua Benjamin v Lee Kuan Yew_ [1992] 2 SLR 310 at 318–319, [19], the Court of Appeal explained: 
+30     The ordinary reasonable person contemplated is an ordinary reasonable person who heard the words in the context when they are published, not one who only read the words set out in the pleadings. In _Jeyaretnam Joshua Benjamin v Lee Kuan Yew_ <span class="citation">[1992] 2 SLR 310</span> at 318–319, [19], the Court of Appeal explained: 
 
 ## [5] 
 
@@ -245,12 +245,12 @@ through the events from the time of the arrival of the second defendant and Elam
 
 43     I ordered that damages be assessed by the Registrar. I also decided that the plaintiffs were not entitled to the aggravated damages they sought. 
 
-44     When I made the order I was mindful of the view I expressed previously in _Lee Kuan Yew v Chee Soon Juan (No 2)_ [2005] 1 SLR 552 and _Goh Chok Tong v Chee Soon Juan (No 2)_ [2005] 1 SLR 573. The senior assistant registrar who heard those cases entered interlocutory judgment for the respective plaintiffs and ordered that “damages (including aggravated damages) to be assessed by a Judge in Open Court”, and I stated that inasmuch as the assessment process must necessarily include the determination whether aggravated damages are to be ordered, that decision should be left to the person who assesses the damages. I should have amplified on that and put the 
+44     When I made the order I was mindful of the view I expressed previously in _Lee Kuan Yew v Chee Soon Juan (No 2)_ <span class="citation">[2005] 1 SLR 552</span> and _Goh Chok Tong v Chee Soon Juan (No 2)_ <span class="citation">[2005] 1 SLR 573</span>. The senior assistant registrar who heard those cases entered interlocutory judgment for the respective plaintiffs and ordered that “damages (including aggravated damages) to be assessed by a Judge in Open Court”, and I stated that inasmuch as the assessment process must necessarily include the determination whether aggravated damages are to be ordered, that decision should be left to the person who assesses the damages. I should have amplified on that and put the 
 
 ## [6] 
 
 
-proper context to it, as it appeared to be inconsistent with my judgment in another defamation ac t ion, _Macquarie Corporate Telecommunications Pte Ltd v Phoenix Commications Pte Ltd_ [2004] 1 SLR 463 (“ _Macquarie_ ”) where I entered judgment for the plaintiffs with aggravated damages to be assessed. 
+proper context to it, as it appeared to be inconsistent with my judgment in another defamation ac t ion, _Macquarie Corporate Telecommunications Pte Ltd v Phoenix Commications Pte Ltd_ <span class="citation">[2004] 1 SLR 463</span> (“ _Macquarie_ ”) where I entered judgment for the plaintiffs with aggravated damages to be assessed. 
 
 45     In those two cases against Chee Soon Juan, the matters came up before the senior assistant registrar on the plaintiffs’ applications for summary judgment. The issue before him was whether there was any triable issue that could be raised on the issue of liability. The evidence was led by affidavits, with no cross-examination. Against that backdrop, there was little before the senior assistant registrar which could assist him in determining whether aggravated damages should be awarded, and he should have left that to the court that was to assess damages. 
 

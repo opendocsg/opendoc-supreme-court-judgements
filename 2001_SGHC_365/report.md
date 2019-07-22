@@ -49,7 +49,7 @@ The reference to perjury was also in relation to the same affidavit complained o
 
 The letter of complaint referred to various falsehoods in Ms Sin`s affidavit as Falsehoods [num ]1 to [num ]4. 
 
-The Council of the Law Society considered Mr Wee`s complaint and came to the conclusion that on the authority of **Tang Liang Hong v Lee Kuan Yew** [1998] 1 SLR 97 , no information of misconduct was disclosed in the letter of complaint and the Council accordingly would not take any further action on the complaint. 
+The Council of the Law Society considered Mr Wee`s complaint and came to the conclusion that on the authority of **Tang Liang Hong v Lee Kuan Yew** <span class="citation">[1998] 1 SLR 97</span> , no information of misconduct was disclosed in the letter of complaint and the Council accordingly would not take any further action on the complaint. 
 
 Mr Wee was not satisfied and after an exchange of correspondence with the Law Society, he filed OS 37/2000 against the Law Society where he sought various declaratory and other reliefs. 
 
@@ -177,9 +177,9 @@ Mr Wee submitted that the Council had merely rubber-stamped the report of the IC
 
 Mr Wee did not submit any authority for the proposition that the Council must assign reasons when it adopts a report from an inquiry committee. 
 
-There was authority to the contrary. In **Whitehouse Holdings v Law Society of Singapore** [1994] 1 SLR 315 , the High Court was of the view that there was no relevant determination by the Council on the basis that it had not deliberated on the matter at all when it merely accepted and adopted the report of the inquiry committee there. 
+There was authority to the contrary. In **Whitehouse Holdings v Law Society of Singapore** <span class="citation">[1994] 1 SLR 315</span> , the High Court was of the view that there was no relevant determination by the Council on the basis that it had not deliberated on the matter at all when it merely accepted and adopted the report of the inquiry committee there. 
 
-However, the Court of Appeal disagreed with this decision (see [1994] 2 SLR 476). 
+However, the Court of Appeal disagreed with this decision (see <span class="citation">[1994] 2 SLR 476</span>). 
 
 At p 484G, Chief Justice Yong Pung How, delivering the judgment of the Court of Appeal, said: 
 
@@ -192,7 +192,7 @@ Mr Wee`s second point was that once the IC found that para 5 of Ms Sin`s second 
 
 I did not agree that the role of an inquiry committee was as restricted as Mr Wee was advocating. 
 
-In **Subbiah Pillai v Wong Meng Meng** [2001] 1 SLR 59 , Choo Han Teck JC said, at [para ]16: 
+In **Subbiah Pillai v Wong Meng Meng** <span class="citation">[2001] 1 SLR 59</span> , Choo Han Teck JC said, at [para ]16: 
 
  It is against that background that we must examine the work of the inquiry committee. Its primary role is that of the investigator, a role that is sometimes not fully appreciated because of the slightly misleading description attached to the function of the disciplinary committee (the conduct of a formal investigation) when, in fact, by that stage the bulk of the investigative work ought to have been completed by the inquiry committee although the prosecuting counsel for the Law Society may still wish to verify or augment various aspects of the Law Societys case before the disciplinary committee. The inquiry committees role is not merely to uncover only such evidence as is sufficient to pass on to the disciplinary committee for further investigation. The inquiry committee is expected to investigate as fully as it can before presenting its report to the Council. It can scarcely justify making any of the recommendations which the Act empowers it to make unless it had conducted a thorough inquiry into the facts ... [Emphasis is added.] 
 
@@ -200,7 +200,7 @@ In the case of **_Whitehouse Holdings_** , Yong Pung How CJ said (supra at p 486
 
  The role of the inquiry committee is merely to investigate the complaint. It does not have to make any conclusions on misconduct or whether an offence was committed but simply to consider whether or not there is a prima facie case for a formal investigation. 
 
-This passage was cited with approval by Chao Hick Tin JA in **Subbiah Pillai v Wong Meng Meng** [2001] 3 SLR 544 (see [para ]33 of the judgment). In [para ]32, Chao JA also said: 
+This passage was cited with approval by Chao Hick Tin JA in **Subbiah Pillai v Wong Meng Meng** <span class="citation">[2001] 3 SLR 544</span> (see [para ]33 of the judgment). In [para ]32, Chao JA also said: 
 
  Under the Act, the function of the IC is only to inquire into complaints, to eliminate frivolous complaints and to ensure that only complaints which have been prima facie established will proceed to be heard formally and determined by the DC. 
 
@@ -213,11 +213,11 @@ An inquiry committee cannot determine if a prima facie case has been made out if
 
 Mr Wee also relied on another case. In para 73 of his written submission, he said: 
 
- In the unreported Civil Court of Appeal No 600018 Wee Soon Kim v The Law Society & Davinder Singh/Hri Kumar [see [2001] 4 SLR 25] the court approving the decision in Subbiah Pillai v Wong Meng Meng [see [2001] 3 SLR 544] held: The proceeding before the IC is to ensure that clearly frivolous complaints should not be allowed to go further. But is not the mandate of the IC to come to a firm view as to the merits where there is conflict as to the facts. That would be the task of the DC. Thus the entire scheme is one where the primary consideration is the protection of the public. An adverse decision by a judge in such an OS application does not mean that the solicitors rights are affected: no definitive decision has been taken. All it means is that the solicitor must explain formally (with the support of witnesses if any) before the DC. [Emphasis is Mr Wees.] 
+ In the unreported Civil Court of Appeal No 600018 Wee Soon Kim v The Law Society & Davinder Singh/Hri Kumar [see <span class="citation">[2001] 4 SLR 25</span>] the court approving the decision in Subbiah Pillai v Wong Meng Meng [see <span class="citation">[2001] 3 SLR 544</span>] held: The proceeding before the IC is to ensure that clearly frivolous complaints should not be allowed to go further. But is not the mandate of the IC to come to a firm view as to the merits where there is conflict as to the facts. That would be the task of the DC. Thus the entire scheme is one where the primary consideration is the protection of the public. An adverse decision by a judge in such an OS application does not mean that the solicitors rights are affected: no definitive decision has been taken. All it means is that the solicitor must explain formally (with the support of witnesses if any) before the DC. [Emphasis is Mr Wees.] 
 
-Mr Wee was citing from parts of [para ]16 and 17 of the judgment in CA 600018/2001 (see [2001] 4 SLR 25) and putting those parts together. 
+Mr Wee was citing from parts of [para ]16 and 17 of the judgment in CA 600018/2001 (see <span class="citation">[2001] 4 SLR 25</span>) and putting those parts together. 
 
-However, it must be borne in mind that in CA 600018/2001 (see [2001] 4 SLR 25), the issue was whether the solicitors had a right to intervene and be heard by the High Court hearing an application under s 96 of the LPA. 
+However, it must be borne in mind that in CA 600018/2001 (see <span class="citation">[2001] 4 SLR 25</span>), the issue was whether the solicitors had a right to intervene and be heard by the High Court hearing an application under s 96 of the LPA. 
 
 I was of the view that there was nothing in the judgment there that detracted from what the Court of Appeal had said in **_Subbiah Pillai v Wong Meng Meng_** in CA 143/2000. 
 
@@ -271,7 +271,7 @@ In one of the relatively recent local cases, **Wee Soon Kim Anthony v Law Societ
 
  A thesis has been propounded on the other side more extravagant, and certainly more impossible of fulfilment; that is, that an advocate is bound to convince himself, by something like an original investigation, that his client is in the right before he undertakes the duty of acting for him. I think such a contention ridiculous, impossible of performance, and calculated to lead to great injustice. If an advocate were to reject a story because it seemed improbable to him, he would be usurping the office of the judge, by which I mean the judicial function, whether that function is performed by a single man, or by the composite arrangement of judge and jury which finds favour with us. Very little experience of courts of justice would convince any one that improbable stories are very often true notwithstanding their improbability. 
 
-The decision of Chan JC was reiterated by LP Thean JA with approval in an even more recent case, ie **Tang Liang Hong v Lee Kuan Yew** [1998] 1 SLR 97. 
+The decision of Chan JC was reiterated by LP Thean JA with approval in an even more recent case, ie **Tang Liang Hong v Lee Kuan Yew** <span class="citation">[1998] 1 SLR 97</span>. 
 
 Thean JA also said, at [para ]74: 
 
@@ -327,18 +327,18 @@ Chan JC went on to say that the then s 87(5) was not intended to confer any righ
 
 He added that there was nothing in the then s 87(5) to say that if the advocate and solicitor were to request an oral hearing, he would be automatically entitled to one. 
 
-In **Seet Melvin v Law Society of Singapore** [1995] 2 SLR 323 , Chief Justice Yong Pung How, delivering the judgment of the Court of Appeal, said, at p 341: 
+In **Seet Melvin v Law Society of Singapore** <span class="citation">[1995] 2 SLR 323</span> , Chief Justice Yong Pung How, delivering the judgment of the Court of Appeal, said, at p 341: 
 
  The concept of fairness in IC proceedings need not extend to affording the complainant a right to an oral hearing. Natural justice does not dictate that the appellant be given a right to fire a final salvo in reply, as it were, once Thangaveloo has furnished his explanations, bearing in mind the fact that the IC 
 
 
  proceedings are neither adversarial nor accusatorial. All that natural justice requires is that the person or body charged with making the decision should act fairly. In the circumstances, and having regard to the role of the IC, we were of the view that the allegations as to breaches of natural justice were not tenable. 
 
-In **_Subbiah Pillai v Wong Meng Meng_** , Choo Han Teck JC said ([2001] 1 SLR 59 at [para ]17): 
+In **_Subbiah Pillai v Wong Meng Meng_** , Choo Han Teck JC said (<span class="citation">[2001] 1 SLR 59</span> at [para ]17): 
 
  It would, however, be unreasonable for a person under investigation to expect that he can, as a matter of right, cling to his investigator throughout every step of the investigation; to be present each time a question is put by the committee to the complainant and his witnesses ... To this end, the committee ought to be given the latitude of deciding how best it wishes to conduct the interview of witnesses provided that the persons whom it interviews are disclosed to the solicitor concerned, and the information provided by them are put to the solicitor for him to explain if necessary. 
 
-In the appeal from Choo JC`s decision in CA 143/2000, Chao Hick Tin JA said ([2001] 3 SLR 544 at [para ]28 and 30): 
+In the appeal from Choo JC`s decision in CA 143/2000, Chao Hick Tin JA said (<span class="citation">[2001] 3 SLR 544</span> at [para ]28 and 30): 
 
  Requirements of natural justice 
 

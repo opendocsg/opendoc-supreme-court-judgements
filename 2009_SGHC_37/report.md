@@ -28,7 +28,7 @@ Chan Sek Keong CJ:
 
 **Introduction** 
 
-1       This was an appeal by Raffles Money Change Pte Ltd (“the Appellant”) against the decision of the District Judge (“the DJ”) in District Court Suit No 1465 of 2006 (see _Raffles Money Change Pte Ltd v Skandinaviska Enskilda Banken AB (Publ)_ [2008] SGDC 70 (“the GD”)). The DJ had dismissed the Appellant’s claim against Skandinaviska Enskilda Banken AB (Publ) (“the Respondent”) for repayment of €39,982.71 which the Appellant claimed had been wrongfully debited against its account by the Respondent. 
+1       This was an appeal by Raffles Money Change Pte Ltd (“the Appellant”) against the decision of the District Judge (“the DJ”) in District Court Suit No 1465 of 2006 (see _Raffles Money Change Pte Ltd v Skandinaviska Enskilda Banken AB (Publ)_ <span class="citation">[2008] SGDC 70</span> (“the GD”)). The DJ had dismissed the Appellant’s claim against Skandinaviska Enskilda Banken AB (Publ) (“the Respondent”) for repayment of €39,982.71 which the Appellant claimed had been wrongfully debited against its account by the Respondent. 
 
 **Facts of the case** 
 

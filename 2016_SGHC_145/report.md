@@ -22,7 +22,7 @@ _Professions_ – _Medical profession and practice_ – _Professional conduct_
 
 **Introduction** 
 
-1       It is an understatement of the highest order to state that doctors are part of the bedrock of our society. This is so not least because they care for people by helping to heal them, _regardless of_ their situation or station in life. And even in the direst of circumstances, for example, when physical death is at the patient’s doorstep, their kindness and assistance is no less (and may be even more) important. That is why all of us look up to doctors and respect them for the high calling that is rightfully theirs to claim. And that calling is of course embodied in the Hippocratic Oath. As this court observed in _Lim Mey Lee Susan v Singapore Medical Council_ [2013] 3 SLR 900 (“ _Lim Mey Lee Susan_ ”) (at [39]−[40]): 
+1       It is an understatement of the highest order to state that doctors are part of the bedrock of our society. This is so not least because they care for people by helping to heal them, _regardless of_ their situation or station in life. And even in the direst of circumstances, for example, when physical death is at the patient’s doorstep, their kindness and assistance is no less (and may be even more) important. That is why all of us look up to doctors and respect them for the high calling that is rightfully theirs to claim. And that calling is of course embodied in the Hippocratic Oath. As this court observed in _Lim Mey Lee Susan v Singapore Medical Council_ <span class="citation">[2013] 3 SLR 900</span> (“ _Lim Mey Lee Susan_ ”) (at [39]−[40]): 
 
  39 Turning to the medical profession , the idea that the practice of medicine is, above all, a calling of the highest order is a historical cornerstone of the medical profession. It can be traced through the millennia – through countless doctors who have taken, in one form or another, a version of what has oft been hailed as one of the world’s first ethical codes, the Hippocratic Oath (and see also, in this regard, the general definition of a “profession” in the [ Oxford English Dictionary ] ([30] supra ) referred to above at [30]). In Singapore, this oath currently takes the form of the Singapore Medical Council Physician’s Pledge (presently found in the Second Schedule to, read with reg 16(2) of, the Medical Registration Regulations 2010 (S 733/2010)), which is taken by every doctor upon being admitted as a fully registered medical practitioner and which reads as follows: 
 
@@ -47,7 +47,7 @@ _Professions_ – _Medical profession and practice_ – _Professional conduct_
 
  [emphasis added in italics and bold italics] 
 
- As also articulated by this court in Low Cze Hong v Singapore Medical Council [2008] 3 SLR(R) 612 (“ Low Cze Hong ”) at [36]: 
+ As also articulated by this court in Low Cze Hong v Singapore Medical Council <span class="citation">[2008] 3 SLR(R) 612</span> (“ Low Cze Hong ”) at [36]: 
 
  ... The importance of maintaining the highest level of professionalism and ethical conduct has been duly acknowledged by the [Singapore Medical Council] in the Introduction section of the [Singapore Medical Council] Ethical Code (at p 1): 
 
@@ -121,7 +121,7 @@ by Dr Wong. Dr Wong issued the Patient with a MC that backdated the coverage of 
 
 the Patient “a duration of hospitalisation leave that was insufficient for a patient who was recovering from a distal fracture for which surgery was necessary and a metacarpal fracture that was being treated conservatively”; and (2) “certified [the Patient] to be fit to perform light duties ... [when] he was at the material time” recovering from the aforementioned. 
 
-17     To give context on the way the case was advanced before the DT, we highlight at the outset that this court in _Low Cze Hong v Singapore Medical Council_ [2008] 3 SLR(R) 612 (“ _Low Cze Hong_ ”) (at [37]) accepted that “professional misconduct”, which the MRA sanctions against, “can be made out in at least two situations”: 
+17     To give context on the way the case was advanced before the DT, we highlight at the outset that this court in _Low Cze Hong v Singapore Medical Council_ <span class="citation">[2008] 3 SLR(R) 612</span> (“ _Low Cze Hong_ ”) (at [37]) accepted that “professional misconduct”, which the MRA sanctions against, “can be made out in at least two situations”: 
 
  (a) where there is an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency (“the first limb”); or 
 
@@ -221,7 +221,7 @@ worker, would not be adequately rested if he was not supervised. We pause to hig
 
 **_The scope of review by the High Court_** 
 
-39     As noted by Sundaresh Menon CJ in _Ang Pek San Lawrence v Singapore Medical Council_ [2015] 1 SLR 436 (“ _Ang Pek San Lawrence_ ”) (at [32], referring to _Low Cze Hong_ (at [39]–[40])), under s 55(11) of the MRA (previously s 46(8) of the Medical Registration Act (Cap 174, 2004 Rev Ed)), the High Court would have to make the following findings before it can intervene in the decision of a DT: 
+39     As noted by Sundaresh Menon CJ in _Ang Pek San Lawrence v Singapore Medical Council_ <span class="citation">[2015] 1 SLR 436</span> (“ _Ang Pek San Lawrence_ ”) (at [32], referring to _Low Cze Hong_ (at [39]–[40])), under s 55(11) of the MRA (previously s 46(8) of the Medical Registration Act (Cap 174, 2004 Rev Ed)), the High Court would have to make the following findings before it can intervene in the decision of a DT: 
 
  (a) there is something clearly wrong either: 
 
@@ -231,7 +231,7 @@ worker, would not be adequately rested if he was not supervised. We pause to hig
 
  (b) the findings of the DT are sufficiently out of tune with the evidence to indicate with reasonable certainty that the evidence has been misread. 
 
-40     As we noted in _Gobinathan Devathasan v Singapore Medical Council_ [2010] 2 SLR 926 (“ _Gobinathan_ ”) (at [29]), in assessing the decision of a DT, the court should be mindful that a DT has had the benefit of hearing oral evidence and is “a specialist tribunal with its own professional expertise and understands what the medical profession expects of its members”. For this reason, the court should accord an appropriate degree of respect to a DT’s decision and be slow to overturn its findings. However, a DT’s decision would, nevertheless, have to be reached reasonably and in accordance with the law and the facts, which are established in each case based on the relevant evidence. To that extent, the High Court should not give undue deference to the views of a DT and thereby render its own powers nugatory (see _Low Cze Hong_ (at [42]) recently approved in _Ang Pek San Lawrence_ (at [33])). 
+40     As we noted in _Gobinathan Devathasan v Singapore Medical Council_ <span class="citation">[2010] 2 SLR 926</span> (“ _Gobinathan_ ”) (at [29]), in assessing the decision of a DT, the court should be mindful that a DT has had the benefit of hearing oral evidence and is “a specialist tribunal with its own professional expertise and understands what the medical profession expects of its members”. For this reason, the court should accord an appropriate degree of respect to a DT’s decision and be slow to overturn its findings. However, a DT’s decision would, nevertheless, have to be reached reasonably and in accordance with the law and the facts, which are established in each case based on the relevant evidence. To that extent, the High Court should not give undue deference to the views of a DT and thereby render its own powers nugatory (see _Low Cze Hong_ (at [42]) recently approved in _Ang Pek San Lawrence_ (at [33])). 
 
 **_Professional misconduct_** 
 
@@ -259,7 +259,7 @@ a professional respect” under the Medical Practitioners Act 1938 (NSW). Kirby 
 
 47     It is after pulling together these analytical strands in the Commonwealth authorities that the court in _Low Cze Hong_ (at [37]) accepted that professional misconduct “can be made out in **_at least_** two situations”, _viz_ , the first limb and second limb [emphasis added]. 
 
-48     We highlight that, in relation to each of the two limbs in _Low Cze Hong_ , the burden of proof is on the SMC, and the DT had to satisfy itself that this burden had been discharged beyond a reasonable doubt (see also _Lee Kim Kwong v Singapore Medical Council_ [2014] 4 SLR 113 (“ _Lee Kim Kwong_ ”) (at [12] and [42]) as well as _Gobinathan_ (at [61]–[62])). 
+48     We highlight that, in relation to each of the two limbs in _Low Cze Hong_ , the burden of proof is on the SMC, and the DT had to satisfy itself that this burden had been discharged beyond a reasonable doubt (see also _Lee Kim Kwong v Singapore Medical Council_ <span class="citation">[2014] 4 SLR 113</span> (“ _Lee Kim Kwong_ ”) (at [12] and [42]) as well as _Gobinathan_ (at [61]–[62])). 
 
 49     As emphasised by this court in _Ang Pek San Lawrence_ (at [39]), the DT had to make the following findings before it can hold that the SMC has proven the charge against the allegedly errant doctor: 
 
@@ -633,7 +633,7 @@ evidence to suggest that he looked at the Work Permit expiry date to decide on t
 
  However, that is not to say that cases under the first limb, ie , those that involve an intentional or deliberate departure from medically-accepted standards, will invariably attract heavier sanctions than cases under the second limb, which involve serious negligence. For instance, an intentional departure from medically-approved standards may be motivated by a genuine but mistaken concern for a patient’s interests .... On the other hand, serious negligence may demonstrate precisely a lack of such concern for the patient’s interests. Where this is so, negligent wrongdoing may be deserving of greater punishment than intentional wrongdoing. Put simply, the precise fact situation would be of the first importance. [emphasis in bold italics added; emphasis in italics in original]. 
 
-114    This court had the occasion to reconsider the “inexplicably lenient” sentencing precedents in relation to one aspect of professional misconduct, _viz_ , improper certification of death, in _Singapore Medical Council v Kwan Kah Yee_ [2015] 5 SLR 201 (“ _Kwan Kah Yee_ ”). In that case, the SMC appealed against the sentence imposed on the respondent, a doctor who had certified the death of two of his patients allegedly on the back of an X-ray and clinical records respectively. Both the X-ray and clinical records were found to not exist. The respondent pleaded guilty to charges of improperly 
+114    This court had the occasion to reconsider the “inexplicably lenient” sentencing precedents in relation to one aspect of professional misconduct, _viz_ , improper certification of death, in _Singapore Medical Council v Kwan Kah Yee_ <span class="citation">[2015] 5 SLR 201</span> (“ _Kwan Kah Yee_ ”). In that case, the SMC appealed against the sentence imposed on the respondent, a doctor who had certified the death of two of his patients allegedly on the back of an X-ray and clinical records respectively. Both the X-ray and clinical records were found to not exist. The respondent pleaded guilty to charges of improperly 
 
 
 certifying the death of his patients. The respondent was sentenced to three months’ suspension for each charge. In the appeal, this court observed as follows (at [34]): 

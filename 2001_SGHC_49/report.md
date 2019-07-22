@@ -108,7 +108,7 @@ _The law_
 
 ## contrary is proved. 
 
-11     Therefore, under ss 6(a) and 8 of the PCA, what the prosecution had to prove were the following elements ( _Yuen Chun Yii v PP_ [1997] 3 SLR 57 at 68 and _Chew Chew Sun v PP_ [1975] 2 MLJ 58 at 59): 
+11     Therefore, under ss 6(a) and 8 of the PCA, what the prosecution had to prove were the following elements ( _Yuen Chun Yii v PP_ <span class="citation">[1997] 3 SLR 57</span> at 68 and _Chew Chew Sun v PP_ [1975] 2 MLJ 58 at 59): 
 
 ## (i) a gratification was paid or given to or received by Teo; 
 
@@ -162,7 +162,7 @@ so. In such circumstances, I had no hesitation in drawing an adverse inference a
 
 28     As for Teo, it was evident that he was not an honest witness either and inconsistencies emerged at different points in his evidence. As a matter of fact, he was impeached as a witness during the course of the trial below. Three of the crew members, namely Isa, Rahman and Tay, were also impeached as witnesses. 
 
-29     Although the credit of the various witnesses had been impeached, this did not mean that all their evidence should be disregarded. The judge recognised the principle that the court must carefully scrutinise the whole of the evidence to determine which aspect might be true and which should be disregarded: _Chng Gim Huat v PP_ [2000] 3 SLR 262; _Kwang Boon Keong Peter v PP_ [1998] 2 SLR 592; _PP v Mohammed Faizal Shah_ [1998] 1 SLR 333; and _PP v Somwang Phatthanasaeng_ [1992] 1 SLR 138. 
+29     Although the credit of the various witnesses had been impeached, this did not mean that all their evidence should be disregarded. The judge recognised the principle that the court must carefully scrutinise the whole of the evidence to determine which aspect might be true and which should be disregarded: _Chng Gim Huat v PP_ <span class="citation">[2000] 3 SLR 262</span>; _Kwang Boon Keong Peter v PP_ <span class="citation">[1998] 2 SLR 592</span>; _PP v Mohammed Faizal Shah_ <span class="citation">[1998] 1 SLR 333</span>; and _PP v Somwang Phatthanasaeng_ <span class="citation">[1992] 1 SLR 138</span>. 
 
 30     I found that the judge had evaluated carefully the evidence put forward by both the prosecution and the defence and had correctly treated the evidence of the witnesses with utmost caution in arriving at the finding that Teo had indeed accepted the money from Tan. It was within the discretion of the judge to prefer the evidence of certain witnesses over others based on her evaluation of the evidence in totality and on her observation of the demeanour of the witnesses. In my mind, defence counsel had not shown on appeal how the judge had erred in arriving at this finding of fact. 
 

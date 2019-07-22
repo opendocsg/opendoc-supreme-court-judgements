@@ -353,7 +353,7 @@ contradicted his on many of the material points even though she appeared relucta
 
 **_Sentencing_** 
 
-118\. On sentencing, I took into account the guidelines in _Chia Kim Heng Frederick v PP_ [1992] 1 SLR 361, but I bore in mind that the charge in that case was under s 376(1) of the Penal Code which attracts a lighter sentence than one under s 376(2)(a). Under s 376(2)(a), the minimum imprisonment is not less than eight years and not more than 20 years with caning of not less than 12 strokes. 
+118\. On sentencing, I took into account the guidelines in _Chia Kim Heng Frederick v PP_ <span class="citation">[1992] 1 SLR 361</span>, but I bore in mind that the charge in that case was under s 376(1) of the Penal Code which attracts a lighter sentence than one under s 376(2)(a). Under s 376(2)(a), the minimum imprisonment is not less than eight years and not more than 20 years with caning of not less than 12 strokes. 
 
 119\. The Accused had a series of past convictions for offences including robbery, criminal intimidation and living on the earnings of a prostitute. Although he made himself out to be a protector of young girls, he was in fact a predator. He manipulated B and deceived the Victim. He did not plead guilty and during the trial, he continued with his strategy of deception to avoid conviction. He showed no remorse. 
 

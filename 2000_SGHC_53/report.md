@@ -968,7 +968,7 @@ _Equitable Remedies 4th Edition, 1990_ ).
 
  (2) in consequence of the above, it is unjust to grant the relief sought. (see Spry , supra). 
 
-215    In _Syed Ali Redha Alsagoff v Syed Salim Alhadad_ [1996] 3 SLR 410, Warren Khoo J said: 
+215    In _Syed Ali Redha Alsagoff v Syed Salim Alhadad_ <span class="citation">[1996] 3 SLR 410</span>, Warren Khoo J said: 
 
  "The twin essential requirements for a case of acquiescence in the circumstances of this case are knowledge, actual or constructive, of the wrongful acts of the defendants in relation to the plaintiff’s property and a conscious omission to stop them or prevent them from taking place or a knowing condonation of them." 
 
@@ -977,7 +977,7 @@ _Equitable Remedies 4th Edition, 1990_ ).
 
  "Laches is essentially an equitable defence in answer to a claim in equity. Here, the claim by the plaintiff as the administrator de bonis non is a claim to assert rights at law of the estate over the property. It seems to me that the defence of laches has no place in this context. It seems to me that this is a case where the maxim equity follows the law aptly applies." 
 
-217    The above views found favour with the Court of Appeal on appeal in _Scan Electronics (S) Pte Ltd v Syed Ali Redha Alsagoff_ [1997] 2 SLR 13. At paragraph 19 of the judgment, the Court of Appeal said this in relation to the arguments on laches and acquiescence: 
+217    The above views found favour with the Court of Appeal on appeal in _Scan Electronics (S) Pte Ltd v Syed Ali Redha Alsagoff_ <span class="citation">[1997] 2 SLR 13</span>. At paragraph 19 of the judgment, the Court of Appeal said this in relation to the arguments on laches and acquiescence: 
 
  "The learned judge dealt with this question at pp 422 and 423 of the report of his judgment. We entirely agree with what he said." 
 
@@ -987,7 +987,7 @@ However, at paragraph 20 of the judgment, the Court of Appeal appears not to hav
 
 The Court of Appeal went on to agree with the learned trial judge’s views that there was no factual foundation for laches or acquiescence to stand on in any case. 
 
-218    The Plaintiffs say that the defence of laches is not applicable where a statutory limitation period has been prescribed. However, Section 32 of the Limitation Act and the decision in _British and Malayan Trustees Ltd v Sindo Realty Pte Ltd_ [1998] 2 SLR 495 go against such a contention. Lai Siu Chiu J in that case held that such an argument was clearly misconceived because of the said Section 32 which provides: 
+218    The Plaintiffs say that the defence of laches is not applicable where a statutory limitation period has been prescribed. However, Section 32 of the Limitation Act and the decision in _British and Malayan Trustees Ltd v Sindo Realty Pte Ltd_ <span class="citation">[1998] 2 SLR 495</span> go against such a contention. Lai Siu Chiu J in that case held that such an argument was clearly misconceived because of the said Section 32 which provides: 
 
  "Nothing in this Act shall affect any equitable jurisdiction to refuse relief on the ground of acquiescence, laches or otherwise." 
 

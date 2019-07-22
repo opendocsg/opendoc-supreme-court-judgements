@@ -82,7 +82,7 @@ and seeking the prohibition of the registration of any instrument without the pl
 
 11     The starting point is whether Special Condition 3 created an interest that can be protected by a caveat, or in short, a caveatable interest. The interest created by the condition is a right of first refusal. The plaintiff company has no absolute right to buy the flat from the first defendant. It only obliged the first defendant to offer the flat to the plaintiff company at the agreed price if and when he decides to sell it. 
 
-12     There was until lately no clear pronouncement whether such an interest is a caveatable interest. However, the position has been made clear by Andrew Phang Boon Leong J (as he then was) in _Ho Seek Yueng Novel and another v J & V Development Pte Ltd_ [2006] 2 SLR 742, where he held 
+12     There was until lately no clear pronouncement whether such an interest is a caveatable interest. However, the position has been made clear by Andrew Phang Boon Leong J (as he then was) in _Ho Seek Yueng Novel and another v J & V Development Pte Ltd_ <span class="citation">[2006] 2 SLR 742</span>, where he held 
 
 
 that a right of first refusal is an interest in land for the purpose of lodging a caveat under the LTA. 
@@ -93,7 +93,7 @@ that a right of first refusal is an interest in land for the purpose of lodging 
 
 company. _Walter Woon on Company Law_ (3rd Ed Sweet & Maxwell Asia 2005) states at p 80 that a resolution of the board of directors of a company acting within its sphere of competence may be taken to be the company’s decision. 
 
-15     This point was made with greater clarity by the Court of Appeal in _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin & Ors_ [1998] 1 SLR 374 at [25] and [27]: 
+15     This point was made with greater clarity by the Court of Appeal in _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin & Ors_ <span class="citation">[1998] 1 SLR 374</span> at [25] and [27]: 
 
  25 It is a fundamental concept in company law that the company acts through its organs. The two organs of the company are the board of directors and the members of the company in general meeting. The acts of the two organs are deemed to be acts by the company itself. The decisions of the members are expressed through resolutions passed in general meeting. Similarly, decisions of the board of directors are reflected in the resolutions of the board. A board resolution is passed by a simple majority of the directors present at the board meeting. Another basic concept is the separation of the company’s powers between the two organs. Generally, the managerial powers are vested in the board. The memorandum and articles of association can, of course, expressly provide for managerial decisions to be made by the general meeting instead. When the organs of the company act within their scope of powers, they act as the company, not just on behalf of the company. There is no question of agency involved. Their acts are the acts of the company. 
 

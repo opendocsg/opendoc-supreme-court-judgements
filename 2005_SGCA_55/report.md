@@ -30,7 +30,7 @@ _Patents and Inventions_ – _Validity_ – _Whether combination of prior art am
 
 **Tan Lee Meng J (delivering the judgment of the court):** 
 
-1       The appellants in Civil Appeal No 70 of 2005, FE Global Electronics Pte Ltd (“Global”), Electec Pte Ltd (“Electec”) and M-Systems Flash Disk Pioneers Ltd (“M-Systems”) and the appellant in Civil Appeal No 69 of 2005, Ritronics Components (S’pore) Pte Ltd (“Ritronics”), appealed against Lai Kew Chai J’s decision (reported at [2005] 3 SLR 389) that they had infringed Singapore patent No 87504 (WO 01/61692), which was granted to the respondent, Trek Technology (Singapore) Pte Ltd (“Trek”), and were therefore liable in damages for the infringement. We dismissed the appeal and now give the reasons for our decision. 
+1       The appellants in Civil Appeal No 70 of 2005, FE Global Electronics Pte Ltd (“Global”), Electec Pte Ltd (“Electec”) and M-Systems Flash Disk Pioneers Ltd (“M-Systems”) and the appellant in Civil Appeal No 69 of 2005, Ritronics Components (S’pore) Pte Ltd (“Ritronics”), appealed against Lai Kew Chai J’s decision (reported at <span class="citation">[2005] 3 SLR 389</span>) that they had infringed Singapore patent No 87504 (WO 01/61692), which was granted to the respondent, Trek Technology (Singapore) Pte Ltd (“Trek”), and were therefore liable in damages for the infringement. We dismissed the appeal and now give the reasons for our decision. 
 
 **Background** 
 
@@ -259,7 +259,7 @@ more prior art into the litigation and by doing so, they had shifted the targets
 46     Having looked at the device, some may view the invention as a simple one but simplicity has 
 
 
-never been a bar to inventiveness and it has been reiterated often enough that _ex post facto_ analysis can often be unfair to inventors (see, for instance, the decision of this court in _Peng Lian Trading Co v Contour Optik Inc_ [2003] 2 SLR 560 at [28]). 
+never been a bar to inventiveness and it has been reiterated often enough that _ex post facto_ analysis can often be unfair to inventors (see, for instance, the decision of this court in _Peng Lian Trading Co v Contour Optik Inc_ <span class="citation">[2003] 2 SLR 560</span> at [28]). 
 
 47     It is trite that the commercial success of a new product may be taken into account when considering its inventiveness. The ThumbDrive device was warmly welcomed when it was launched and its subsequent commercial success speaks volumes. Indeed, the number of clone storage devices following the introduction of the ThumbDrive device is rather telling. 
 

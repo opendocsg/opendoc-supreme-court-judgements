@@ -57,7 +57,7 @@ application that Wonda furnish $50,000 as security for costs.
 
  Where a corporation is plaintiff in any action or other legal proceeding the court having jurisdiction in the matter may, if it appears by credible testimony that there is a reason to believe that the company will be unable to pay the costs of the defendant if successful in his defence, require sufficient security to be given for those costs and stay all proceedings until the security is given. 
 
-10     In _Creative Elegance (M) Sdn Bhd v Puay Kim Seng_ [1999] 1 SLR(R) 112 (“ _Creative Elegance_ ”), the Court of Appeal referred to O 23 r 1(1)(a) of the Rules and s 388 of the Act and pointed out: 
+10     In _Creative Elegance (M) Sdn Bhd v Puay Kim Seng_ <span class="citation">[1999] 1 SLR(R) 112</span> (“ _Creative Elegance_ ”), the Court of Appeal referred to O 23 r 1(1)(a) of the Rules and s 388 of the Act and pointed out: 
 
  There is, of course, a difference in the wordings of the two provisions, but the difference lies in the condition to be satisfied before the respective provisions can be invoked. Under O 23 r 1(1) ( a ) the condition which has to be satisfied before the court proceeds to exercise its discretion is: if it appears to the court that the plaintiff is ordinarily resident out of the jurisdiction. On the other hand, under s 388 the condition is as follows: if it appears by credible testimony that there is reason to believe that the plaintiff company will be unable to pay the costs of the defendant if successful in his defence. Once the condition under the respective provision is satisfied, the court’s discretion is invoked, and in exercise of that discretion the court decides whether or not to order security for costs against the plaintiff. 
 
@@ -70,7 +70,7 @@ application that Wonda furnish $50,000 as security for costs.
 
 12     It follows that Greenlam’s application must be considered in the context of O 23 r 1(1)( _a_ ) of the Rules although it is worth noting that in _Creative Elegance_ , the Court of Appeal added (at [13]) that “whether the discretion is one under O 23 r 1(1)( _a_ ) or under s 388 the same principles are applicable: the court considers all the circumstances and decides whether it is just to order the plaintiff to provide security for costs and the extent of such security”. 
 
-13     It does not follow that a foreign plaintiff without an address or assets in the jurisdiction will be ordered to furnish security for costs. The fact that the plaintiff is ordinarily out of the jurisdiction merely means that the court’s discretion to order security for costs is invoked. In _Jurong Town Corp v Wishing Star_ [2004] 2 SLR(R) 427 (“ _Wishing Star_ ”), Chao Hick Tin JA explained at [14]: 
+13     It does not follow that a foreign plaintiff without an address or assets in the jurisdiction will be ordered to furnish security for costs. The fact that the plaintiff is ordinarily out of the jurisdiction merely means that the court’s discretion to order security for costs is invoked. In _Jurong Town Corp v Wishing Star_ <span class="citation">[2004] 2 SLR(R) 427</span> (“ _Wishing Star_ ”), Chao Hick Tin JA explained at [14]: 
 
  It is settled law that it is not an inflexible or rigid rule that a plaintiff resident abroad should provide security for costs. The court has a complete discretion in the matter: see Keary Developments Ltd v Tarmac Construction Ltd [1995] 3 All ER 534. It seems to us that under r 1(1)(a), once the pre-condition, namely, being “ordinarily resident out of the jurisdiction”, is satisfied, the court will consider all the circumstances to determine whether it is just that security should be ordered. There is no presumption in favour of, or against, a grant. The ultimate decision is in the discretion of the court, after balancing the competing factors. No objective criteria can ever be laid down as to the weight any particular factor should be accorded. It would depend on the fact situation. Where the court is of the view that the circumstances are evenly balanced it would ordinarily be just to order security against a foreign plaintiff. 
 
@@ -82,7 +82,7 @@ application that Wonda furnish $50,000 as security for costs.
 
  This is the second occasion recently ... in which the parties have sought to investigate in considerable detail the likelihood or otherwise of success in the action. I do not think that is a right course to adopt on an application for security for costs. The decision is necessarily made at a n interlocutory stage on inadequate material and without any hearing of the evidence. A detailed examination of the possibilities of success or failure merely blows the case up into a large interlocutory hearing involving great expenditure of both money and time. 
 
-16     A similar approach was adopted in _Omar Ali bin Mohd v Syed Jafaralsadeg bin Abdulkadir Alhadad_ [1995] 2 SLR(R) 407. 
+16     A similar approach was adopted in _Omar Ali bin Mohd v Syed Jafaralsadeg bin Abdulkadir Alhadad_ <span class="citation">[1995] 2 SLR(R) 407</span>. 
 
 17     In the present case, there is a likelihood of Wonda’s claim succeeding. After all, Greenlam had acknowledged a number of the shortcomings and defects in its shipments to Wonda and had suggested a number of ways to iron out the problems. 
 

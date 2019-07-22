@@ -282,7 +282,7 @@ main agreement; it states:
 
 70     Consequently, V4X was in no position after 30 September 2006 to offer a renewal of the sublease to the plaintiff. That did not mean as the first defendant’s witnesses sought to argue, that the inability of V4X to renew the main agreement under cl 4(d) of the main agreement meant that it was not liable to the plaintiff for the failure to renew the sublease. Common sense if not the law dictates that if the inability of V4X to renew the sublease was due to its breach of the main agreement, it would be liable to the plaintiff if the plaintiff had given a valid notice of renewal (which I have held in [61] it did). I accept the plaintiff’s closing submission that the defendants cannot take advantage of their own wrong to avoid their legal obligations to the plaintiff (see _Alghussein Establishment And Eton College_ [1988] 1 WLR 587 followed in _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte_ 
 
-_Ltd_ [2006] 1 SLR 634 at [51] and see also _Chitty on Contracts_ vol 1 (Sweet & Maxwell, 30th Ed, 2008 at para 1-031 p 27). 
+_Ltd_ <span class="citation">[2006] 1 SLR 634</span> at [51] and see also _Chitty on Contracts_ vol 1 (Sweet & Maxwell, 30th Ed, 2008 at para 1-031 p 27). 
 
 71     I turn next to the first defendant’s secondary defence on the renewal notice – that it was not valid because the increased rent of $6,500 had not been agreed. The short answer to this argument is that the first defendant cannot maintain this defence in the light of the Company’s solicitors’ letter dated 12 February 2007 which relevant text set out in [33], clearly stated that the plaintiff had agreed to the revised rent of $6,500. 
 

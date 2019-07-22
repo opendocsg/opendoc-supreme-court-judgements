@@ -22,7 +22,7 @@ Chan Sek Keong CJ:
 
 **Introduction** 
 
-1       This was an appeal by Ho Kiang Fah (“the appellant”) against the decision of the district judge (“the DJ”) in _Eileen Toh Buan v Ho Kiang Fah_ [2008] SGDC 191, in which the DJ: 
+1       This was an appeal by Ho Kiang Fah (“the appellant”) against the decision of the district judge (“the DJ”) in _Eileen Toh Buan v Ho Kiang Fah_ <span class="citation">[2008] SGDC 191</span>, in which the DJ: 
 
  (a) granted a dissolution of the marriage between the appellant and his wife, Eileen Toh Buan (“the respondent”), based on the respondent’s claim that the marriage had broken down irretrievably in that the parties had lived apart for a continuous period of at least four years immediately preceding the filing of the divorce suit (see s 95(3)( e ) of the Women’s Charter (Cap 353, 1997 Rev Ed)); and 
 

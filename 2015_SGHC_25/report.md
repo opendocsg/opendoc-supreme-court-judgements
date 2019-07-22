@@ -18,13 +18,13 @@ _Building and Construction Law_ – _statutes and regulations_ – _building con
 
 _Statutory Interpretation_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 44 of 2015 was allowed by the Court of Appeal on 8 July 2016. See [2016] SGCA 42.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 44 of 2015 was allowed by the Court of Appeal on 8 July 2016. See <span class="citation">[2016] SGCA 42</span>.] 
 
 30 January 2015 
 
 **Hoo Sheau Peng JC:** 
 
-1       This is an appeal by the appellant, Kori Construction (S) Pte Ltd (“Kori”), against the decision of the District Judge below (in _Nam Hong Construction & Engineering Pte Ltd v Kori Construction (S) Pte Ltd_ [2014] SGDC 271 (“the Judgment”)) on a preliminary question of law which turned on the interpretation of the definition of “structural steelwork” as a type of “specialist building works” within s 2 of the Building Control Act (Cap 29, 1999 Rev Ed) (“BCA”). “Specialist building works” are regulated under the licensing regime within Part VA of the BCA. 
+1       This is an appeal by the appellant, Kori Construction (S) Pte Ltd (“Kori”), against the decision of the District Judge below (in _Nam Hong Construction & Engineering Pte Ltd v Kori Construction (S) Pte Ltd_ <span class="citation">[2014] SGDC 271</span> (“the Judgment”)) on a preliminary question of law which turned on the interpretation of the definition of “structural steelwork” as a type of “specialist building works” within s 2 of the Building Control Act (Cap 29, 1999 Rev Ed) (“BCA”). “Specialist building works” are regulated under the licensing regime within Part VA of the BCA. 
 
 2       I heard parties on 24 November 2014, and reserved the matter for decision. On 12 January 2015, I allowed the appeal. I now set out the detailed grounds for my decision. 
 
@@ -88,7 +88,7 @@ amount of $147,538.39 due under the 11th invoice.
 
 **Kori’s case** 
 
-14     Before me, Mr Twang, counsel for Kori, argued that Sub-paragraph ( _d_ ) should be construed disjunctively. In support of this argument, Mr Twang relied on the case of _Lim Lye Hiang v Official Assignee_ [2012] 1 SLR 228 (“ _Lim Lye Hiang_ ”). There, the Court of Appeal read the two limbs of s 78(1) of the Bankruptcy Act (Cap 20, 2009 Rev Ed) (“Bankruptcy Act”) disjunctively even though the word “and” was used to connect both limbs. The relevant provision reads as follows: 
+14     Before me, Mr Twang, counsel for Kori, argued that Sub-paragraph ( _d_ ) should be construed disjunctively. In support of this argument, Mr Twang relied on the case of _Lim Lye Hiang v Official Assignee_ <span class="citation">[2012] 1 SLR 228</span> (“ _Lim Lye Hiang_ ”). There, the Court of Appeal read the two limbs of s 78(1) of the Bankruptcy Act (Cap 20, 2009 Rev Ed) (“Bankruptcy Act”) disjunctively even though the word “and” was used to connect both limbs. The relevant provision reads as follows: 
 
 **78.** —(1) The property of the bankrupt divisible among his creditors (referred to in this Act as the 
 
@@ -132,12 +132,12 @@ should be read conjunctively.
 
 25     Here, I would highlight that sub-para ( _c_ ) is also likely to be read disjunctively. “Site investigation work” under sub-para ( _c_ ) comprises different activities such as field investigations, logging and geological mapping. It is clear to me that not all these activities have to be done for one to have carried out “site investigation work”. 
 
-26     What then of the interpretation of Sub-paragraph ( _d_ )? I noted that s 9A of the Interpretation Act (Cap 1, 2002 Rev Ed) (“Interpretation Act”) required me to interpret the BCA in a manner which would promote its purpose or object. In _Dorsey James Michael v World Sport Group Pte Ltd_ [2013] 3 SLR 354 at [18], the Court of Appeal held that s 9A of the Interpretation Act mandates a purposive approach to be taken in statutory interpretation. The purposive approach is paramount, and takes 
+26     What then of the interpretation of Sub-paragraph ( _d_ )? I noted that s 9A of the Interpretation Act (Cap 1, 2002 Rev Ed) (“Interpretation Act”) required me to interpret the BCA in a manner which would promote its purpose or object. In _Dorsey James Michael v World Sport Group Pte Ltd_ <span class="citation">[2013] 3 SLR 354</span> at [18], the Court of Appeal held that s 9A of the Interpretation Act mandates a purposive approach to be taken in statutory interpretation. The purposive approach is paramount, and takes 
 
 
 precedence over any other common law principle of statutory interpretation, including the principle advanced by Nam Hong that penal statutes should be construed strictly. 
 
-27     The remarks of V K Rajah JA, as he then was, in _Public Prosecutor v Low Kok Heng_ [2007] 4 SLR(R) 183 at [57] are apposite: 
+27     The remarks of V K Rajah JA, as he then was, in _Public Prosecutor v Low Kok Heng_ <span class="citation">[2007] 4 SLR(R) 183</span> at [57] are apposite: 
 
  ... s 9A of the Interpretation Act mandates that a purposive approach be adopted in the construction of all statutory provisions, and allows extrinsic material to be referred to, even where, on a plain reading, the words of a statute are clear and unambiguous. The purposive approach takes precedence over all other common law principles of interpretation. However, construction of a statutory provision pursuant to the purposive approach stipulated by s 9A is constrained by the parameters set by the literal text of the provision. ... The general position in Singapore with respect to the construction of written law should be the same whether the provision is a penal or civil one. Purposive interpretation in accordance with s 9A(1) of the Interpretation Act is the paramount principle of interpretation even with respect to penal statutes; it is only in cases where penal provisions remaining ambiguous notwithstanding all attempts at purposive interpretation that the common law strict construction rule may be invoked. [emphasis in italics in original; emphasis in bold added] 
 

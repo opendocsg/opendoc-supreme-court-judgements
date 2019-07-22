@@ -47,7 +47,7 @@ consideration of the transfer arising from the Maintenance Order”, the necessa
 
 **Decision** 
 
-8       The power to set aside or vary a consent order on the division of assets under s 112(4) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Charter”) is to be exercised narrowly. An applicant must prove one of the vitiating factors, or that the order was or has become unworkable: see _AYM v AYL_ [2013] 1 SLR 924 (“ _AYM_ ”) at [22]–[23]; _BMI v BMJ and another matter_ [2018] 1 SLR 43 at [3]– [5]; _Lee Min Jai v Chua Cheow Koon_ [2005] 1 SLR(R) 548 at [5]. While it is possible that unworkability may be due to a fundamental misunderstanding, it must be a fundamental misunderstanding on the face of the order: _AYM_ at [29]. 
+8       The power to set aside or vary a consent order on the division of assets under s 112(4) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Charter”) is to be exercised narrowly. An applicant must prove one of the vitiating factors, or that the order was or has become unworkable: see _AYM v AYL_ <span class="citation">[2013] 1 SLR 924</span> (“ _AYM_ ”) at [22]–[23]; _BMI v BMJ and another matter_ <span class="citation">[2018] 1 SLR 43</span> at [3]– [5]; _Lee Min Jai v Chua Cheow Koon_ <span class="citation">[2005] 1 SLR(R) 548</span> at [5]. While it is possible that unworkability may be due to a fundamental misunderstanding, it must be a fundamental misunderstanding on the face of the order: _AYM_ at [29]. 
 
 **_Whether the AM Orders should be set aside_** 
 

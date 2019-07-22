@@ -22,9 +22,9 @@ _Contrac t_ – _Remedies_ – _Damages_
 
 _Contrac t_ – _Privity of Contrac t_ – _Contrac ts (Rights of Third Parties) Ac t_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 68 of 2014 was dismissed and the appeal in Civil Appeal No 69 of 2014 was allowed by the Court of Appeal on 22 January 2015. See [2015] SGCA 3 .] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 68 of 2014 was dismissed and the appeal in Civil Appeal No 69 of 2014 was allowed by the Court of Appeal on 22 January 2015. See <span class="citation">[2015] SGCA 3</span> .] 
 
-The supplementary judgment to this main judgment is reported at [2014] 3 SLR 164.] 
+The supplementary judgment to this main judgment is reported at <span class="citation">[2014] 3 SLR 164</span>.] 
 
 10 April 2014 Judgment reserved. 
 
@@ -575,7 +575,7 @@ Charge on the land title certificate. [note: 58]
 
 the Hongs would have had to do under the SSA was to discharge the Goldman Sachs Indebtedness. They would not have had to remove the GSAF charge, as the latter too would not constitute an encumbrance once the underlying debt was paid off. The unsustainability of the argument is obvious. 
 
-107    The Hongs cited a Court of Appeal authority, _Huang Ching Hwee v Heng Kay Pah and Anor_ [1992] 3 SLR(R) 452 (“ _Huang Ching Hwee_ ”), for the proposition that “the continued entry of MEC’s name on the register was not a defect of title ... because neither MEC nor any other third party had 
+107    The Hongs cited a Court of Appeal authority, _Huang Ching Hwee v Heng Kay Pah and Anor_ <span class="citation">[1992] 3 SLR(R) 452</span> (“ _Huang Ching Hwee_ ”), for the proposition that “the continued entry of MEC’s name on the register was not a defect of title ... because neither MEC nor any other third party had 
 
 any subsisting rights over the Land” [note: 59]. In my view, this case is irrelevant in the present context. In _Huang Ching Hwee_ , the court considered whether there was an implied term under a contract for sale of land that the vendor has a duty to disclose latent defects of title. The court there held that a potential statutory liability (in contrast to one where notice had already been issued by the relevant authority) arising from unauthorised alterations to the property was not a defect of title. The issue in the present proceedings is a different one altogether. There was nothing in that case suggesting that the MEC Charge was not an encumbrance. In any event the definition of “Encumbrance” in the SSA is clearly against the Hongs. The MEC Charge was an encumbrance whether or not it was disclosed to Columbia. 
 
@@ -631,7 +631,7 @@ _The appropriate measure of damages_
 
 119    Columbia sought two forms of relief. The first was for damages to be assessed for “the diminution in value of [PTNM] and/or the Sale Shares and/or receiving title to the Land that is encumbered”. The second was for an indemnity for “[c]osts, including legal costs, of taking the necessary measures to remove the Encumbrance on the Land so as to obtain a good and marketable title to the Land”. The first was a claim for the diminution in value of the Sale Shares. The second was for the costs of cure: the moneys expended in removing the MEC Charge from the Land. 
 
-120    Columbia alleged that PTNM incurred costs, including legal costs, to remove the MEC Charge from the land title in the sum of US$391,251. Subsequently, in a chambers hearing on 6 February 2013, Mr Kumar, counsel for Columbia, indicated that the claim for costs incurred to remove the MEC Charge was an alternative claim to that for damages for receiving an encumbered title. Clearly, the measure of damages must be calculated _either_ on the basis of the costs of cure _or_ the diminution in value, and the plaintiffs are not entitled to claim for both at the same time: see _Metalform Asia Pte Ltd v Ser Kim Koi and another (Holland Leedon Pte Ltd (in liquidation), third party)_ [2009] 1 SLR(R) 369 (“ _Metalform Asia_ ”) at [14]. 
+120    Columbia alleged that PTNM incurred costs, including legal costs, to remove the MEC Charge from the land title in the sum of US$391,251. Subsequently, in a chambers hearing on 6 February 2013, Mr Kumar, counsel for Columbia, indicated that the claim for costs incurred to remove the MEC Charge was an alternative claim to that for damages for receiving an encumbered title. Clearly, the measure of damages must be calculated _either_ on the basis of the costs of cure _or_ the diminution in value, and the plaintiffs are not entitled to claim for both at the same time: see _Metalform Asia Pte Ltd v Ser Kim Koi and another (Holland Leedon Pte Ltd (in liquidation), third party)_ <span class="citation">[2009] 1 SLR(R) 369</span> (“ _Metalform Asia_ ”) at [14]. 
 
 121    In closing submissions, Mr Kumar argued that the more appropriate measure of damages would be the diminution in the value of the Sale Shares. The argument was that the MEC Charge would have decreased the value of the Land. This reduction in value of the Land, one of PTNM’s main assets, would, in turn, have led to a diminution in value in UMPL’s shares. It is not surprising that Columbia attempted to quantify its damages in this manner. Columbia’s expert, James Searby, had filed a report assessing such a diminution in value at S$1.52m. This amount far exceeds the costs of cure, which Columbia alleged was US$391,251. 
 
@@ -733,7 +733,7 @@ _Whether dec laratory relief should be granted_
 141    The test for declaratory relief was elucidated by the Court of Appeal in _Karaha Bodas Co LLC v_ 
 
 
-_Pertamina Energy Trading Ltd_ [2006] 1 SLR(R) 112 (“ _Karaha Bodas_ ”) at [14]: 
+_Pertamina Energy Trading Ltd_ <span class="citation">[2006] 1 SLR(R) 112</span> (“ _Karaha Bodas_ ”) at [14]: 
 
  ... the following are the requirements that must be satisfied before the court grants [declaratory] relief: 
 
@@ -913,7 +913,7 @@ The struck-through portions are those that the Hongs were seeking to expunge thr
 
 31, 2008”. [note: 81] 
 
-179    The law on rectification of contractual terms for mistake is set out in two High Court cases. In _Maxz Universal Development Group Pte Ltd v Shen Yixuan_ [2009] SGHC 164, Lee Seiu Kin J stated at [22] that rectification of a contract is an exercise of the court’s equitable jurisdiction when contracting parties mistakenly draw up terms which militate against what they actually intended. The court then laid out general principles applicable to rectification: 
+179    The law on rectification of contractual terms for mistake is set out in two High Court cases. In _Maxz Universal Development Group Pte Ltd v Shen Yixuan_ <span class="citation">[2009] SGHC 164</span>, Lee Seiu Kin J stated at [22] that rectification of a contract is an exercise of the court’s equitable jurisdiction when contracting parties mistakenly draw up terms which militate against what they actually intended. The court then laid out general principles applicable to rectification: 
 
  (a) There must be an “outward expression of accord” in relation to the particular provision. It is not necessary to show that there was a binding agreement prior to the execution of the written document, but it must be shown that parties had a continuing intention with regard to that provision down to the execution of the written contract – see Josc elyne v Nissen [1970] 2 QB 86. 
 
@@ -923,7 +923,7 @@ The struck-through portions are those that the Hongs were seeking to expunge thr
 
  (d) There must be a literal disparity between the terms of the prior agreement and those of the document which it is sought to rectify. ... 
 
-180    In _Pender Development Pte Ltd and another v Chesney Real Estate Group LLP_ [2009] 3 SLR(R) 1063, Andrew Ang J emphasised at [20] that “[t]he degree of probability to be established in rectification proceedings [is] a high one, similar to that of “convincing proof””. 
+180    In _Pender Development Pte Ltd and another v Chesney Real Estate Group LLP_ <span class="citation">[2009] 3 SLR(R) 1063</span>, Andrew Ang J emphasised at [20] that “[t]he degree of probability to be established in rectification proceedings [is] a high one, similar to that of “convincing proof””. 
 
 181    The extent of the rectification, coupled with the high threshold necessary for rectification, made the task the Hongs faced an uphill one. The Hongs had to show “convincing proof” that the common intention of the parties at the time of contracting was that all of the tax warranties given by the Vendors’ were to lapse on 31 December 2008. 
 
@@ -1147,7 +1147,7 @@ misrepresentation. [note: 107]
 
 (4) Whether Columbia was estopped from alleging that the revenue was inflated by the underdeclared and under-paid tax 
 
-233    I come now to the Hongs’ second argument on estoppel. Three elements have to be satisfied for estoppel by representation to be made out (see _Chng Bee Kheng and another (exec utrixes and trustees of the estate of Foc k Poh Kum, dec eased) v Chng Eng Chye_ [2013] 2 SLR(R) 715 at [97]). First, there must have been a representation of fact. Second, there must have been reliance on the representation by the representee. Third, the representee must have suffered a detriment as a result of the reliance. 
+233    I come now to the Hongs’ second argument on estoppel. Three elements have to be satisfied for estoppel by representation to be made out (see _Chng Bee Kheng and another (exec utrixes and trustees of the estate of Foc k Poh Kum, dec eased) v Chng Eng Chye_ <span class="citation">[2013] 2 SLR(R) 715</span> at [97]). First, there must have been a representation of fact. Second, there must have been reliance on the representation by the representee. Third, the representee must have suffered a detriment as a result of the reliance. 
 
 234    I find that Columbia did not unequivocally represent by words or conduct that it would not allege that PTNM’s taxes were under-declared or under-paid, for five reasons. 
 
@@ -1170,7 +1170,7 @@ to be calculated according to the following formula: [overstatement of EBITDA] x
 
 (1) The law 
 
-241    It is well-established that damages for breach of a warranty in a contract are to be assessed on the basis of what would be required to put a plaintiff in the position he would have been in, had there been no breach of the warranty. Belinda Ang J in _Holland Leedon Pte Ltd v Metalform Asia Pte Ltd_ [2012] 3 SLR 377 (“ _Holland Leedon_ ”) noted (at [54]) that this may be assessed in one of two ways: with reference to the diminution in value (the difference between the market value of the business warranted and the actual value of the business) or the costs of cure. 
+241    It is well-established that damages for breach of a warranty in a contract are to be assessed on the basis of what would be required to put a plaintiff in the position he would have been in, had there been no breach of the warranty. Belinda Ang J in _Holland Leedon Pte Ltd v Metalform Asia Pte Ltd_ <span class="citation">[2012] 3 SLR 377</span> (“ _Holland Leedon_ ”) noted (at [54]) that this may be assessed in one of two ways: with reference to the diminution in value (the difference between the market value of the business warranted and the actual value of the business) or the costs of cure. 
 
 242    The facts of _Holland Leedon_ are instructive. That case involved an appeal to the High Court against a summary determination of issues of law before an arbitrator. There, the respondent purchased the business and specified assets of the appellant under a sale and purchase agreement. Several warranties in the sale and purchase agreement pertaining to the business were breached. This resulted in the incurrence of additional costs which led to a decrease in the EBITDA of the business. The respondent argued that the diminution in value was the difference between the EBITDA if the warranties had been true, multiplied by a multiplier of 7, which was the contractually stipulated mechanism for calculating the purchase price. The court agreed with the arbitrator that it was not conceptually wrong for damages to be assessed by reference to the diminution in value, which was calculated by recurring costs multiplied by 7. The court nonetheless held that the suitability of such a formula was to be determined by the arbitrator based on the evidence adduced at the hearing of the merits, as it was a _fac tual determination_. 
 
@@ -1183,7 +1183,7 @@ to be calculated according to the following formula: [overstatement of EBITDA] x
 
 They do not say that Columbia’s formula should always be used. To the contrary, _Holland Leedon_ and _Senate_ make it clear that the inquiry is fact-specific. 
 
-246    Columbia had obtained expert evidence on valuation from James Searby, whereas the Hongs did not obtain any expert evidence on the point. This does not mean that the court must accept James Searby’s evidence without question (see the observations of V K Rajah JA in _Sakthivel Punithavathi v PP_ [2007] 2 SLR(R) 983 at [76]). Indeed, Columbia did not push its argument that far. I now turn to the facts relevant to the appropriate measure of damages. 
+246    Columbia had obtained expert evidence on valuation from James Searby, whereas the Hongs did not obtain any expert evidence on the point. This does not mean that the court must accept James Searby’s evidence without question (see the observations of V K Rajah JA in _Sakthivel Punithavathi v PP_ <span class="citation">[2007] 2 SLR(R) 983</span> at [76]). Indeed, Columbia did not push its argument that far. I now turn to the facts relevant to the appropriate measure of damages. 
 
 (2) The facts and evidence 
 
@@ -1270,7 +1270,7 @@ was joining Columbia in making such a claim as a matter of caution, in case Colu
 
 268    PTNM submitted that because s 3.4.1 of the SSA required the Vendors to settle PTNM’s liabilities with money received under the SSA, the SSA clearly purported to confer a benefit on PTNM. 
 
-269    PTNM relied on _CLAAS Medic al Centre Pte Ltd v Ng Boon Ching_ [2010] 2 SLR 386 (“ _CLAAS_ ”) at [28]. It submitted that a provision to indemnify a third party has been held to confer a benefit on the third party for the purposes of s 2(1)( _b_ ) of the CRTPA. 
+269    PTNM relied on _CLAAS Medic al Centre Pte Ltd v Ng Boon Ching_ <span class="citation">[2010] 2 SLR 386</span> (“ _CLAAS_ ”) at [28]. It submitted that a provision to indemnify a third party has been held to confer a benefit on the third party for the purposes of s 2(1)( _b_ ) of the CRTPA. 
 
 270    However, there is an important difference between the facts in _CLAAS_ and in the present case. I n _CLAAS_ , the provision in question expressly stated that liquidated damages for a breach were payable to the third party. In the present case, there is no such provision. The indemnity is given to Columbia and it does not state that payment is to be made to PTNM. 
 

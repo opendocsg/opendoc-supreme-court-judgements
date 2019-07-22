@@ -57,7 +57,7 @@ _Legal Profession_ – _Professional Costs_
 
 ## 8 05.2.09 $2,141. 
 
-4       As a number of the above invoic es have been paid and/or were delivered more than 12 months prior to the OS, an order for taxation c an only be justified if “spec ial c irc umstanc es” c an be shown to exist. In this c ontext, in dec iding whether to order taxation of suc h invoic es, I was mindful to strike a balanc e “between the need, on the one hand, to protec t the c lient and... on the other hand, to protec t the solic itor against late ambush being laid on a tec hnic al point by a c lient who seeks only to evade paying his debt.” ‒ per Ward LJ in _Ralph Hume Garry (a firm) v Gwillim_ [2003] 1 WLR 510 at [32(4)] (“ _Ralph Hume Garry”)_ , whic h was c ited with approval in _Ho Cheng Lay v Low Yong Sen_ [2009] 3 SLR(R) 206 at [16]. 
+4       As a number of the above invoic es have been paid and/or were delivered more than 12 months prior to the OS, an order for taxation c an only be justified if “spec ial c irc umstanc es” c an be shown to exist. In this c ontext, in dec iding whether to order taxation of suc h invoic es, I was mindful to strike a balanc e “between the need, on the one hand, to protec t the c lient and... on the other hand, to protec t the solic itor against late ambush being laid on a tec hnic al point by a c lient who seeks only to evade paying his debt.” ‒ per Ward LJ in _Ralph Hume Garry (a firm) v Gwillim_ [2003] 1 WLR 510 at [32(4)] (“ _Ralph Hume Garry”)_ , whic h was c ited with approval in _Ho Cheng Lay v Low Yong Sen_ <span class="citation">[2009] 3 SLR(R) 206</span> at [16]. 
 
 **Conduct of Suit No 630 of 1999** 
 

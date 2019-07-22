@@ -32,7 +32,7 @@ _Trusts_ – _Quistclose trusts_
 
 _Trusts_ – _Resulting trusts_ – _Presumed resulting trust_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 97 and 99 of 2014 were allowed in part by the Court of Appeal on 13 July 2016. See [2016] SGCA 45 .] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 97 and 99 of 2014 were allowed in part by the Court of Appeal on 13 July 2016. See <span class="citation">[2016] SGCA 45</span> .] 
 
 10 July 2015 
 
@@ -240,7 +240,7 @@ therefore owed the plaintiffs no fiduciary duties arising from their trusteeship
 
 **_Fourth issue_** 
 
-40     The plaintiffs seek an account on the basis of wilful default rather than on the common or standard basis. The underlying principle is whether “the past conduct of the trustees [is] such as to give rise to a reasonable _prima facie_ inference that other breaches of trust not yet known to the plaintiffs or the court have occurred”: _Re Tebbs_ [1976] 1 All ER 858 at 863 and _Russell v Russell_ (1891) 17 VLR 729. These two decisions were cited in _Glazier v Australian Men’s Health (No 2)_ [2001] NSWSC 6 (“ _Glazier_ ”) at [41] which was in turn cited in _Ng Foong Yin v Koh Thong Sam_ [2013] 3 SLR 455 (“ _Ng Foong Yin_ ”). 
+40     The plaintiffs seek an account on the basis of wilful default rather than on the common or standard basis. The underlying principle is whether “the past conduct of the trustees [is] such as to give rise to a reasonable _prima facie_ inference that other breaches of trust not yet known to the plaintiffs or the court have occurred”: _Re Tebbs_ [1976] 1 All ER 858 at 863 and _Russell v Russell_ (1891) 17 VLR 729. These two decisions were cited in _Glazier v Australian Men’s Health (No 2)_ [2001] NSWSC 6 (“ _Glazier_ ”) at [41] which was in turn cited in _Ng Foong Yin v Koh Thong Sam_ <span class="citation">[2013] 3 SLR 455</span> (“ _Ng Foong Yin_ ”). 
 
 
 41     To secure such an order, therefore, the plaintiffs must prove at least one example of wilful default on the part of the fiduciary or trustee: _Re Tebbs_ [1976] 1 All ER 858 at 862; _Sleight v Lawson_ (1857) 3 K & J 292 at 299, 69 ER 1119 at 1122 (Page-Wood V-C); _Cooper v Carter_ (1852) 2 De G M & G 292, 42 ER 884; _Re Symons_ (1882) 21 Ch D 757; _Russell v Russell_ (1891) 17 VLR 729; _Glazier_ at [41], which was in turn cited in _Ng Foong Yin_. 

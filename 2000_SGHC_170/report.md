@@ -49,7 +49,7 @@ However, for some inexplicable reason, the petitioner was not so informed, altho
 
 **_Mandatory forfeiture under s 49(6) Immigration Act when two conditions are met_** 
 
-The petition resembled closely the case of **Public Finance Bhd v PP** [1997] 3 SLR 354. In **_Public Finance Bhd_** , in interpreting s 49(6) Immigration Act, I pointed out that once the two conditions under s 49(6) are met, forfeiture of the vehicle is mandatory. The two conditions are: 
+The petition resembled closely the case of **Public Finance Bhd v PP** <span class="citation">[1997] 3 SLR 354</span>. In **_Public Finance Bhd_** , in interpreting s 49(6) Immigration Act, I pointed out that once the two conditions under s 49(6) are met, forfeiture of the vehicle is mandatory. The two conditions are: 
 
 (a) commission of the offence; and 
 
@@ -63,14 +63,14 @@ Indeed, it is within the relevant authorities` discretion to make a forfeiture a
 
 **_Absence of criminal involvement by the petitioner is irrelevant_** 
 
-The petitioner claimed that as an innocent party it was unjustifiable that they be penalised. However, I made clear in **Public Finance Bhd v PP** [1997] 3 SLR 354 , **PP v Mayban Finance (Singapore) Ltd** [1998] 1 SLR 462 and **PP v M/s Serve You Motor Services** [1996] 1 SLR 669 that, even though the court sympathised with the owners, forfeiture must be ordered once it has been used in the commission of the offence, regardless of whether the petitioner had participated in the criminal offence. The provision is clear and mandatory. The owners would have to be left to their remedies against the offenders. 
+The petitioner claimed that as an innocent party it was unjustifiable that they be penalised. However, I made clear in **Public Finance Bhd v PP** <span class="citation">[1997] 3 SLR 354</span> , **PP v Mayban Finance (Singapore) Ltd** <span class="citation">[1998] 1 SLR 462</span> and **PP v M/s Serve You Motor Services** <span class="citation">[1996] 1 SLR 669</span> that, even though the court sympathised with the owners, forfeiture must be ordered once it has been used in the commission of the offence, regardless of whether the petitioner had participated in the criminal offence. The provision is clear and mandatory. The owners would have to be left to their remedies against the offenders. 
 
 Counsel for the petitioner submitted that s 49(6) Immigration Act should be given an interpretation that would promote the purpose or objective underlying it, rather than a literal interpretation that would not promote the purpose or objective. 
 
 Section 9A of the Interpretation Act stipulates that an interpretation that would promote the purpose 
 
 
-underlying the written law shall be preferred to one that would not so promote the purpose. The court may refer to the Hansard. A purposive approach to statutory interpretation could be taken even if a provision was not ambiguous or inconsistent: **Planmarine AG v Maritime and Port Authority of Singapore** [1999] 2 SLR 1 (CA). 
+underlying the written law shall be preferred to one that would not so promote the purpose. The court may refer to the Hansard. A purposive approach to statutory interpretation could be taken even if a provision was not ambiguous or inconsistent: **Planmarine AG v Maritime and Port Authority of Singapore** <span class="citation">[1999] 2 SLR 1</span> (CA). 
 
 However, a purposive interpretation of s 49(6) Immigration Act would still yield a similar mandatory result. 
 
@@ -95,7 +95,7 @@ In fact, as s 49(6) Immigration Act is exhaustive, the petitioner was not even e
 Counsel for the petitioner rightly pointed out that neither the petitioner nor the hirer could have foreseen that the vehicle would be stolen and used for human smuggling. Neither could they in the circumstances do anything more to prevent the theft and, later, its forfeiture. Therefore, counsel submitted that the petitioner suffered `injustice and undue hardship`. 
 
 
-I said in **Ang Poh Chuan v Public Prosecutor** [1996] 1 SLR 326 that, although it is a wide discretion vested with the court, there must be some serious injustice, in other words, something palpably wrong in the decision that strikes at the basis as an excuse of an exercise of judicial power by the district court, for the High Court to exercise criminal revision. 
+I said in **Ang Poh Chuan v Public Prosecutor** <span class="citation">[1996] 1 SLR 326</span> that, although it is a wide discretion vested with the court, there must be some serious injustice, in other words, something palpably wrong in the decision that strikes at the basis as an excuse of an exercise of judicial power by the district court, for the High Court to exercise criminal revision. 
 
 I also made clear in **_Ang Poh Chuan_** that hardship caused by forfeiture alone could not attract criminal revision. Injustice could be established only if it was shown that forfeiture ought not to have been ordered. 
 

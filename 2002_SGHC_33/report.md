@@ -88,7 +88,7 @@ Putiyan to engage any worker but he contradicted himself on this point (Record o
 
  ‘employ’ means to engage or to use the service of any person and to pay such person for services rendered or work done or to remunerate such person on a piece rate or on a commission basis. 
 
- In PP v Heng Siak Kwang [1996] 2 SLR 274 , I had occasion to consider this definition. In the course of that judgment, I said at p 280: 
+ In PP v Heng Siak Kwang <span class="citation">[1996] 2 SLR 274</span> , I had occasion to consider this definition. In the course of that judgment, I said at p 280: 
 
  The manner of remuneration and control over the workers would often be of great significance 
 
@@ -97,7 +97,7 @@ Putiyan to engage any worker but he contradicted himself on this point (Record o
 
  to employ, it is a strong indication that the foreman was a sub-contractor if the foreman was allowed to keep the excess. This suggests that it was the foreman who employed the workers. If the employer decided how much to pay each worker and merely used the foreman as a conduit, then it might well be the case that the foreman was not a sub-contractor even if he might have physically recruited the workers ... What was, however, reasonably clear in the present case, was that in order for the respondent to have said to have employed the workers, there must be a contract of some sort between him and the workers. 
 
- The manner of remuneration and the degree of control of the workers are therefore two significant considerations in determining the existence of any employment relationship for the purposes of the Act. ... It is further important to recognise that the inquiry is always one into the substance of the relationship and not its form (see PP v Baby Yap [1993] 3 SLR 633 (emphasis mine) 
+ The manner of remuneration and the degree of control of the workers are therefore two significant considerations in determining the existence of any employment relationship for the purposes of the Act. ... It is further important to recognise that the inquiry is always one into the substance of the relationship and not its form (see PP v Baby Yap <span class="citation">[1993] 3 SLR 633</span> (emphasis mine) 
 
 95\. Whilst the cases which promulgated these principles were criminal cases involving charges under the Immigration Act, Cap 133, these principles are equally applicable in the present case since it is the existence or lack thereof of any employer-employee relationship between the Respondent and CW2 that needs to be established.’ 
 

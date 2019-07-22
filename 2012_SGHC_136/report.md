@@ -16,7 +16,7 @@
 
 _Contract_ – _Contractual terms_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 84 of 2012 was allowed by the Court of Appeal on 25 March 2013. See [2013] SGCA 27.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 84 of 2012 was allowed by the Court of Appeal on 25 March 2013. See <span class="citation">[2013] SGCA 27</span>.] 
 
 29 June 2012 Judgment reserved. 
 
@@ -199,14 +199,14 @@ regardless of whether the “officious bystander” test or the “business effi
 
 **_The law on implied terms_** 
 
-27     Whether or not the plaintiff is entitled to an Account would depend on whether a relevant term can be implied in the Engagement Letter. The Court of Appeal succinctly summarised the law on implied terms in _Chua Choon Cheng and others v Allgreen Properties Ltd and another appeal_ [2009] 3 SLR(R) 724 (“ _Chua Choon Cheng_ ”) (at [63]): 
+27     Whether or not the plaintiff is entitled to an Account would depend on whether a relevant term can be implied in the Engagement Letter. The Court of Appeal succinctly summarised the law on implied terms in _Chua Choon Cheng and others v Allgreen Properties Ltd and another appeal_ <span class="citation">[2009] 3 SLR(R) 724</span> (“ _Chua Choon Cheng_ ”) (at [63]): 
 
- It is settled law that “a court will not lightly imply a term into a contract” [emphasis original]: Jet Holding Ltd v Cooper Cameron (Singapore) Pte Ltd [2006] 3 SLR(R) 769 at [107]. The rule of thumb is that the more detailed or complex a contract is, the less likely it is that the court will imply a term into that contract. The touchstone for implying a term into a contract is always “necessity and not merely reasonableness”: Hiap Hong & Co Pte Ltd v Hong Huat Development Co (Pte) Ltd [2001] 1 SLR(R) 458 at [19]. The learned authors of Chitty on Contracts , vol 1 (Beale gen ed) (Sweet & Maxwell, 30th Ed, 2008) (“ Chitty on Contracts ”) at para 13-004 note that both the officious bystander and business efficacy test ”[depended] on the presumed common intention of the parties”, which has to be objectively ascertained. In Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd [2006] 1 SLR(R) 927 (“ Forefront ”) at [36], Andrew Phang Boon Leong J (as he then was), after a detailed analysis of the historical origins of these tests, concluded that the two tests are but different facets of the same coin; “the ‘officious 
+ It is settled law that “a court will not lightly imply a term into a contract” [emphasis original]: Jet Holding Ltd v Cooper Cameron (Singapore) Pte Ltd <span class="citation">[2006] 3 SLR(R) 769</span> at [107]. The rule of thumb is that the more detailed or complex a contract is, the less likely it is that the court will imply a term into that contract. The touchstone for implying a term into a contract is always “necessity and not merely reasonableness”: Hiap Hong & Co Pte Ltd v Hong Huat Development Co (Pte) Ltd <span class="citation">[2001] 1 SLR(R) 458</span> at [19]. The learned authors of Chitty on Contracts , vol 1 (Beale gen ed) (Sweet & Maxwell, 30th Ed, 2008) (“ Chitty on Contracts ”) at para 13-004 note that both the officious bystander and business efficacy test ”[depended] on the presumed common intention of the parties”, which has to be objectively ascertained. In Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd <span class="citation">[2006] 1 SLR(R) 927</span> (“ Forefront ”) at [36], Andrew Phang Boon Leong J (as he then was), after a detailed analysis of the historical origins of these tests, concluded that the two tests are but different facets of the same coin; “the ‘officious 
 
 
  bystander’ test is t he practical mode by which the ‘business efficacy’ test is implemented” [emphasis in original]. We agree. 
 
-28     The threshold consideration of whether or not a term is necessary to be implied, alluded to by the Court of Appeal in _Chua Choon Cheng_ was discussed by Chao Hick Tin JA in _Hiap Hong & Co Pte Ltd v Hong Huat Development Co (Pte) Ltd_ [2001] 1 SLR(R) 458 (“ _Hiap Hong & Co Pte Ltd_ ”) (at [19] – [20]): 
+28     The threshold consideration of whether or not a term is necessary to be implied, alluded to by the Court of Appeal in _Chua Choon Cheng_ was discussed by Chao Hick Tin JA in _Hiap Hong & Co Pte Ltd v Hong Huat Development Co (Pte) Ltd_ <span class="citation">[2001] 1 SLR(R) 458</span> (“ _Hiap Hong & Co Pte Ltd_ ”) (at [19] – [20]): 
 
  19 Be that as it may, in considering the question of implied terms, it must be borne in mind that the touchstone is necessity and not merely reasonableness. In the words of Scrutton LJ in In re Comptoir Commercial Anversois and Power, Son & Co’s Arbitration [1920] 1 KB 868 at 899–900: 
 
@@ -214,7 +214,7 @@ regardless of whether the “officious bystander” test or the “business effi
 
  20 Of course, a term to be implied must always be equitable and reasonable. The court will imply a term if from the language of the contract and the surrounding circumstances an inference should be made that the parties must have intended the stipulation in question. 
 
-29     It is well established that two tests may be applied in considering whether or not a term may be implied into a contract. They are commonly known as the “officious bystander” and “business efficacy” tests, and were summarised by Andrew Phang Boon Leong J in _Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ [2006] 1 SLR(R) 927 (at [29] – [32]): 
+29     It is well established that two tests may be applied in considering whether or not a term may be implied into a contract. They are commonly known as the “officious bystander” and “business efficacy” tests, and were summarised by Andrew Phang Boon Leong J in _Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 927</span> (at [29] – [32]): 
 
  29 It has always been acknowledged that particular terms might be implied into particular contracts. However, in order not to undermine the concept of freedom of contract itself, terms would be implied only rarely – in exceptional cases where, as one famous case put it, it was necessary to give “ business efficacy ” to the contract (see per Bowen LJ (as then was) in the English Court of Appeal decision in The Moorcock (1889) 14 PD 64). In the words of Bowen LJ himself (at 68): 
 
@@ -531,7 +531,7 @@ _Was VAF payable on the Teledata deal?_
 
 **_The law on contractual interpretation_** 
 
-62     The Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 (“ _Zurich Insurance_ ”) endorsed the contextual approach to contractual interpretation ( _Zurich Insurance_ at [121]). Such an approach permits reference to extrinsic evidence even if the term involved is not ambiguous ( _Zurich Insurance_ at [114] – [120] and [132(c)]). There are two conditions precedent to the use of such extrinsic evidence: first, that the evidence must be “relevant [and] reasonably available to all the contracting parties”; second, that it must “relate to a clear or obvious context” ( _Zurich Insurance_ at [132(d)], see also [125] and [128] – [129]). 
+62     The Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> (“ _Zurich Insurance_ ”) endorsed the contextual approach to contractual interpretation ( _Zurich Insurance_ at [121]). Such an approach permits reference to extrinsic evidence even if the term involved is not ambiguous ( _Zurich Insurance_ at [114] – [120] and [132(c)]). There are two conditions precedent to the use of such extrinsic evidence: first, that the evidence must be “relevant [and] reasonably available to all the contracting parties”; second, that it must “relate to a clear or obvious context” ( _Zurich Insurance_ at [132(d)], see also [125] and [128] – [129]). 
 
 **_The decision_** 
 
@@ -820,7 +820,7 @@ defendant to VAF. In resolving this issue, the parties’ intentions – as evin
 
  I disagree... 
 
-93     I found Vikas to be an untruthful witness whose evidence could not be believed. I say this because he had been caught lying in many other instances besides the incidents referred to at [799] and [86] above. As an example, I refer to another portion of his testimony where Vikas alleged that Nicky had told him that Nicky had lied in affidavits filed by the defendant on behalf of Asia Pulp & Paper Company Ltd (“APP”) in Originating Petition No 2 of 2002 (see _Deutsche Bank AG & Another v Asia Pulp & Paper Company Ltd_ [2002] SGHC 257). I had pointed out to Vikas that I dealt with that matter and had dismissed the bank plaintiffs’ application to appoint judicial managers for APP. I did not recall Nicky filing any false affidavits in that case. The only affidavit he filed was to give his opinion that putting APP into judicial management was not in the interests of APP’s creditors. 
+93     I found Vikas to be an untruthful witness whose evidence could not be believed. I say this because he had been caught lying in many other instances besides the incidents referred to at [799] and [86] above. As an example, I refer to another portion of his testimony where Vikas alleged that Nicky had told him that Nicky had lied in affidavits filed by the defendant on behalf of Asia Pulp & Paper Company Ltd (“APP”) in Originating Petition No 2 of 2002 (see _Deutsche Bank AG & Another v Asia Pulp & Paper Company Ltd_ <span class="citation">[2002] SGHC 257</span>). I had pointed out to Vikas that I dealt with that matter and had dismissed the bank plaintiffs’ application to appoint judicial managers for APP. I did not recall Nicky filing any false affidavits in that case. The only affidavit he filed was to give his opinion that putting APP into judicial management was not in the interests of APP’s creditors. 
 
 94     In contrast to Vikas’ many inconsistencies, Nicky gave his evidence in a clear and forthright manner and without hesitation or contradictions. 
 

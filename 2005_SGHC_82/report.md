@@ -245,7 +245,7 @@ Section 46(3)( _e_ ) of the BEA could not apply as there was no waiver of presen
 
 **_Compromise and/or accord and satisfaction_** 
 
-53     Mr Quek also submitted that the settlement agreement and the agreement with Ivy were in the nature of a compromise and/or accord and satisfaction so as to preclude the plaintiff from suing the second defendant. He relied on _Info-communications Development Authority of Singapore v Singapore Telecommunications Ltd (No 2)_ [2002] 3 SLR 488. I did not give these defences serious consideration as the principal parties to the two agreements, _viz_ the first defendant, Ivy and Ivy’s husband, did not testify. Consequently, the oral testimony presented was hearsay and the documentary evidence produced in court had no probative value. 
+53     Mr Quek also submitted that the settlement agreement and the agreement with Ivy were in the nature of a compromise and/or accord and satisfaction so as to preclude the plaintiff from suing the second defendant. He relied on _Info-communications Development Authority of Singapore v Singapore Telecommunications Ltd (No 2)_ <span class="citation">[2002] 3 SLR 488</span>. I did not give these defences serious consideration as the principal parties to the two agreements, _viz_ the first defendant, Ivy and Ivy’s husband, did not testify. Consequently, the oral testimony presented was hearsay and the documentary evidence produced in court had no probative value. 
 
 **The decision** 
 

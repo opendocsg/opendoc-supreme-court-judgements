@@ -66,7 +66,7 @@ published an online periodical relating to parenting issues (“the Defendants�
 
 **_Passing off_** 
 
-11     In order to establish passing off, the Plaintiff had to establish the “classical trinity” of goodwill, misrepresentation and damage: _Novelty Pte Ltd v Amanresorts Ltd and another_ [2009] 3 SLR(R) 216 (“ _Amanresorts_ ”) at [37]. Specifically, it had to prove that: 
+11     In order to establish passing off, the Plaintiff had to establish the “classical trinity” of goodwill, misrepresentation and damage: _Novelty Pte Ltd v Amanresorts Ltd and another_ <span class="citation">[2009] 3 SLR(R) 216</span> (“ _Amanresorts_ ”) at [37]. Specifically, it had to prove that: 
 
  (a) it possessed goodwill in Singapore in its magazine business with which the Motherhood Marks were associated; 
 
@@ -97,17 +97,17 @@ _Misrepresentation_
 
 (1) Should the Motherhood Marks receive a lesser degree of protection? 
 
-18     It is well-established that a descriptive mark will generally receive a lesser degree of protection, such that small differences may be sufficient to enable a defendant to avoid liability: _The Singapore Professional Golfers’ Association v Chen Eng Waye and others_ [2013] 2 SLR 495 (“ _SPGA_ ”) at [55]. The Defendants argued that this general rule applied here. They cited five cases where the courts had refused to grant relief in passing off or trademark infringement claims where the plaintiff’s mark consisted of or included a descriptive term: 
+18     It is well-established that a descriptive mark will generally receive a lesser degree of protection, such that small differences may be sufficient to enable a defendant to avoid liability: _The Singapore Professional Golfers’ Association v Chen Eng Waye and others_ <span class="citation">[2013] 2 SLR 495</span> (“ _SPGA_ ”) at [55]. The Defendants argued that this general rule applied here. They cited five cases where the courts had refused to grant relief in passing off or trademark infringement claims where the plaintiff’s mark consisted of or included a descriptive term: 
 
- (a) In Super Coffeemix Manufacturing Ltd v Unico Trading Pte Ltd and another and another appeal [2000] 2 SLR(R) 214, the Court of Appeal held that “SUPER COFFEEMIX” was sufficiently different from “INDOCAFE Coffeemix”, when applied to instant coffee mixes. 
+ (a) In Super Coffeemix Manufacturing Ltd v Unico Trading Pte Ltd and another and another appeal <span class="citation">[2000] 2 SLR(R) 214</span>, the Court of Appeal held that “SUPER COFFEEMIX” was sufficiently different from “INDOCAFE Coffeemix”, when applied to instant coffee mixes. 
 
- (b) In Lifestyle 1.99 Pte Ltd v S$1.99 Pte Ltd (trading as ONE.99 SHOP) [2000] 1 SLR(R) 687 (“ Lifestyle 1.99 ”), the Court of Appeal held that “Lifestyle 1.99” was not confusingly similar to “ONE.99 Shop”, when applied to shops that sold goods at a fixed price of $1.99. 
+ (b) In Lifestyle 1.99 Pte Ltd v S$1.99 Pte Ltd (trading as ONE.99 SHOP) <span class="citation">[2000] 1 SLR(R) 687</span> (“ Lifestyle 1.99 ”), the Court of Appeal held that “Lifestyle 1.99” was not confusingly similar to “ONE.99 Shop”, when applied to shops that sold goods at a fixed price of $1.99. 
 
- (c) In Doctor's Associates Inc v Lim Eng Wah (trading as SUBWAY NICHE) [2012] 3 SLR 193, the High Court held that there was no likelihood of confusion between “SUBWAY” and “Subway niche” when applied to shops that sold sandwiches. 
+ (c) In Doctor's Associates Inc v Lim Eng Wah (trading as SUBWAY NICHE) <span class="citation">[2012] 3 SLR 193</span>, the High Court held that there was no likelihood of confusion between “SUBWAY” and “Subway niche” when applied to shops that sold sandwiches. 
 
- (d) In The Polo/Lauren Co, LP v Shop In Department Store Pte Ltd [2006] 2 SLR(R) 690, the Court of Appeal held that “POLO” and “POLO PACIFIC” were not similar, nor were they likely to cause confusion, when applied to clothing, handbags and shoes. 
+ (d) In The Polo/Lauren Co, LP v Shop In Department Store Pte Ltd <span class="citation">[2006] 2 SLR(R) 690</span>, the Court of Appeal held that “POLO” and “POLO PACIFIC” were not similar, nor were they likely to cause confusion, when applied to clothing, handbags and shoes. 
 
- (e) In Ozone Community Corp v Advance Magazine Publishers Inc [2010] 2 SLR 459, the High Court held that “GLAMOUR” (when applied to a fashion magazine) and “HYSTERIC GLAMOUR” (when applied to fashion apparel and accessories) were visually and aurally dissimilar, and were 
+ (e) In Ozone Community Corp v Advance Magazine Publishers Inc <span class="citation">[2010] 2 SLR 459</span>, the High Court held that “GLAMOUR” (when applied to a fashion magazine) and “HYSTERIC GLAMOUR” (when applied to fashion apparel and accessories) were visually and aurally dissimilar, and were 
 
 
  unlikely to cause confusion. 

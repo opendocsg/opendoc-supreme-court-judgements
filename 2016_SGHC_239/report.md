@@ -18,13 +18,13 @@ _Contract_ – _Contractual terms_
 
 _Copyright_ – _Ownership_ 
 
-[LawNet Editorial Note: This is the supplemental judgment to [2016] SGHC 207.] 
+[LawNet Editorial Note: This is the supplemental judgment to <span class="citation">[2016] SGHC 207</span>.] 
 
 21 October 2016 
 
 **Tay Yong Kwang JA:** 
 
-54     The parties were scheduled to attend before me on 21 October 2016 because the Plaintiffs had filed an application in Summons No 4885/2016, seeking leave to appeal to the Court of Appeal against the orders made in Summons No 5810/2015 (see [6] above). [LawNet Editorial Note: See [6] of _Lee Wei Ling and another v Attorney-General_ [2016] SGHC 207.] However, on 19 October 2016, the Plaintiffs’ solicitors wrote to inform the Court that they wished to withdraw Summons No 4885/ with no order as to costs and that the Attorney General had no objections to this request. Both parties also agreed to dispense with attendance in Court, subject to the directions of the Court. As both parties had filed their written submissions on costs of the proceedings by then, I asked the parties to attend as scheduled so that I could deal with the outstanding issues relating to costs. 
+54     The parties were scheduled to attend before me on 21 October 2016 because the Plaintiffs had filed an application in Summons No 4885/2016, seeking leave to appeal to the Court of Appeal against the orders made in Summons No 5810/2015 (see [6] above). [LawNet Editorial Note: See [6] of _Lee Wei Ling and another v Attorney-General_ <span class="citation">[2016] SGHC 207</span>.] However, on 19 October 2016, the Plaintiffs’ solicitors wrote to inform the Court that they wished to withdraw Summons No 4885/ with no order as to costs and that the Attorney General had no objections to this request. Both parties also agreed to dispense with attendance in Court, subject to the directions of the Court. As both parties had filed their written submissions on costs of the proceedings by then, I asked the parties to attend as scheduled so that I could deal with the outstanding issues relating to costs. 
 
 55     On 21 October 2016, before me, the parties confirmed the above stated position. I therefore ordered that, by consent, the Plaintiffs’ application in SUM 4885/2016 be withdrawn with no order as to costs. 
 

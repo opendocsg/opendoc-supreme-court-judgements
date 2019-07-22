@@ -18,7 +18,7 @@ _Companies_ – _Winding up_
 
 _Credit and Security_ – _Money and moneylenders_ – _Interest_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 109 of 2017 was dismissed by the Court of Appeal on 2 August 2018. See [2018] SGCA 76.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 109 of 2017 was dismissed by the Court of Appeal on 2 August 2018. See <span class="citation">[2018] SGCA 76</span>.] 
 
 30 August 2017 
 
@@ -173,7 +173,7 @@ applicable to the Company. At the first hearing before me, the parties ( _ie_ , 
 
 35     I will now refer to various cases which MWA relied on in respect of the exercise of the court’s power under s 315 Companies Act. 
 
-36     MWA relied on the Court of Appeal decision in _Ho Wing On Christopher and others v ECRC Land Pte Ltd (in liquidation)_ [2006] 4 SLR(R) 817 at [46] to submit that the court exercises supervisory jurisdiction over a liquidator under s 315. I note that the Court of Appeal also said that the court is conferred a broad power to supervise all aspects of a liquidator’s conduct. 
+36     MWA relied on the Court of Appeal decision in _Ho Wing On Christopher and others v ECRC Land Pte Ltd (in liquidation)_ <span class="citation">[2006] 4 SLR(R) 817</span> at [46] to submit that the court exercises supervisory jurisdiction over a liquidator under s 315. I note that the Court of Appeal also said that the court is conferred a broad power to supervise all aspects of a liquidator’s conduct. 
 
 37     In _Leon v York-O-Matic, Ltd and Others_ [1966] 1 WLR 1450 (“ _Leon_ ”), Plowman J said at 1454 that “the court will not interfere unless the trustee is doing that which is so utterly unreasonable and absurd that no reasonable man would so act”. That proposition also applied to the conduct of a liquidator. 
 
@@ -183,9 +183,9 @@ applicable to the Company. At the first hearing before me, the parties ( _ie_ , 
 
 39     Even then, I note that Plowman J did go on to consider the transaction in question before him and was not persuaded that an interlocutory injunction should be granted. He was not satisfied that a case had been made that an intended sale by a liquidator was at an undervalue. 
 
-40     In _Re Mohamed Yunus Valibhoy, ex parte Bank of Credit and Commerce Hong Kong Ltd_ [1994] 3 SLR(R) 504 (“ _Valibhoy_ ”), the High Court cited _Leon_ and _Dodwell_ with approval at [32]. 
+40     In _Re Mohamed Yunus Valibhoy, ex parte Bank of Credit and Commerce Hong Kong Ltd_ <span class="citation">[1994] 3 SLR(R) 504</span> (“ _Valibhoy_ ”), the High Court cited _Leon_ and _Dodwell_ with approval at [32]. 
 
-41     In _Low Hua Kin v Kumagai-Zenecon Construction Pte Ltd (in liquidation) and another_ [2000] 2 SLR(R) 689, the provisional liquidators of a company had sold certain shares _en bloc_. This sale was subsequently challenged in court. The Court of Appeal said at [48]: 
+41     In _Low Hua Kin v Kumagai-Zenecon Construction Pte Ltd (in liquidation) and another_ <span class="citation">[2000] 2 SLR(R) 689</span>, the provisional liquidators of a company had sold certain shares _en bloc_. This sale was subsequently challenged in court. The Court of Appeal said at [48]: 
 
  In our view, the propriety or reasonableness of the provisional liquidators’ action in disposing of all the shares en bloc should not be judged with the benefit of hindsight, but in the context of the circumstances then prevailing. These circumstances have been discussed above and it is unnecessary to rehearse them here. Suffice here to say that in those circumstances, the 
 
@@ -231,7 +231,7 @@ the view that a bare discontinuance does not have such an effect.
 
 55     There was a dearth of local authorities on the point. Two were brought to my attention. 
 
-56     In _Kua Hui Li v Prosper Credit Pte Ltd_ [2014] 3 SLR 1007 (“ _Kua_ ”), the plaintiff and her husband were joint tenants of the property. In matrimonial proceedings between the plaintiff and her husband, the husband agreed to transfer his rights, title and interest to the plaintiff with no payment from her. The agreement was followed by an order of court which was based on the agreement. The agreement and the order were both made on 6 November 2012. 
+56     In _Kua Hui Li v Prosper Credit Pte Ltd_ <span class="citation">[2014] 3 SLR 1007</span> (“ _Kua_ ”), the plaintiff and her husband were joint tenants of the property. In matrimonial proceedings between the plaintiff and her husband, the husband agreed to transfer his rights, title and interest to the plaintiff with no payment from her. The agreement was followed by an order of court which was based on the agreement. The agreement and the order were both made on 6 November 2012. 
 
 57     On 30 January 2013, a moneylender approved a loan to the husband for $5,000. This was due to be paid on 27 February 2013. On 4 February 2013, the moneylender approved a second loan to the husband for $3,000. This was due to be paid on 3 April 2013. The plaintiff was not aware of the loans. 
 
@@ -267,13 +267,13 @@ the view that a bare discontinuance does not have such an effect.
 
 71     The Magistrate was of the view that 24% per annum was not excessive (at [51]). 
 
-72     The Magistrate also took guidance from the decision of the Court of Appeal in _Hong Leong Finance Ltd v Tan Gin Huay and another_ [1999] 1 SLR(R) 755 (“ _Hong Leong Finance_ ”). There, the finance company had imposed 18% per annum as default interest. The High Court disallowed this as it was a penalty. The Court of Appeal considered that rate manifestly extravagant. It was out of proportion to the greatest loss that could be proved. 
+72     The Magistrate also took guidance from the decision of the Court of Appeal in _Hong Leong Finance Ltd v Tan Gin Huay and another_ <span class="citation">[1999] 1 SLR(R) 755</span> (“ _Hong Leong Finance_ ”). There, the finance company had imposed 18% per annum as default interest. The High Court disallowed this as it was a penalty. The Court of Appeal considered that rate manifestly extravagant. It was out of proportion to the greatest loss that could be proved. 
 
 73     The loan in that case was secured, as noted by the Magistrate. However, I noted that _Hong Leong Finance_ did not involve the MLA. Hence, I was of the view that it might not be appropriate to use it as a guide. Indeed, the Opposing Creditors did not rely on _Hong Leong Finance_ to support their submissions. 
 
 74     As for the Magistrate’s consideration of interest rates charged by banks and credit card companies, it was not disputed that the interest rates charged by MWA in this case were much higher than those charged by banks. 
 
-75     After my decision on 19 May 2017, the parties appeared before me again on 28 July 2017 in respect of the intended appeals by each of the Opposing Creditors. The question arose whether they required leave of court to appeal to the Court of Appeal. I decided that no leave was required. I also mentioned that even if leave had been required, I would have granted leave. In the course of submissions, counsel for MWA and also counsel for the liquidators mentioned the case of _Ang Ai Tee v Resource Credit Pte Ltd_ [2017] SGHC 159 for the proposition that under s 23 MLA, there are two issues to consider: 
+75     After my decision on 19 May 2017, the parties appeared before me again on 28 July 2017 in respect of the intended appeals by each of the Opposing Creditors. The question arose whether they required leave of court to appeal to the Court of Appeal. I decided that no leave was required. I also mentioned that even if leave had been required, I would have granted leave. In the course of submissions, counsel for MWA and also counsel for the liquidators mentioned the case of _Ang Ai Tee v Resource Credit Pte Ltd_ <span class="citation">[2017] SGHC 159</span> for the proposition that under s 23 MLA, there are two issues to consider: 
 
  (a) whether the interest rate is excessive; and 
 

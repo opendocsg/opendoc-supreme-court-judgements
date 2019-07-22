@@ -74,7 +74,7 @@ of the 2nd Defendant, Cardiff and/or Hillcrest for the present actions (the “I
 
 13     He further argued that the reason no penal sanctions have been visited on the Defendants following their compliance with the orders made in SUM 1595 and SUM 853 was because the documents produced and particulars pleaded were not as significant in scale as in the current application. It was also argued that at the time they were determined, the Labuan Court had not made the Labuan Order. 
 
-14     The Defendants argue that Section 149 and the Labuan Order were relevant because the Singapore Courts have held that foreign court orders must, as a matter of comity, be recognised, respected and given weight to, citing _The Reecon Wolf_ [2012] 2 SLR 289 (“ _The Reecon Wolf_ ”) at [21]. 
+14     The Defendants argue that Section 149 and the Labuan Order were relevant because the Singapore Courts have held that foreign court orders must, as a matter of comity, be recognised, respected and given weight to, citing _The Reecon Wolf_ <span class="citation">[2012] 2 SLR 289</span> (“ _The Reecon Wolf_ ”) at [21]. 
 
 15     The Defendants argued that the Singapore had no jurisdiction under Section 149 to order production of documents because the Labuan Court had decided that only the High Court of Malaysia and the High Court of Sabah and Sarawak were Courts of competent jurisdiction for the purpose of Section 149. 
 
@@ -134,7 +134,7 @@ of the 2nd Defendant, Cardiff and/or Hillcrest for the present actions (the “I
 
 36     It was on these categories that Mr Singh then proceeded to give his expert’s opinion. It was very telling that at paragraph 9 of his opinion Mr Singh stated he was instructed by the Defendants’ Singapore solicitors that the Requested Documents consisted of, among other things, the categories of documents set out at paragraph 53 of the Defendants’ written submissions. He then goes on to state that the documents in two categories fall within the ambit of the Labuan Order and that the last category of documents would fall within the ambit of Section 149 without stating providing any the reasoning for his conclusion. It would appear that Mr Singh expects the Court to simply take him at his word. 
 
-37     In _BNY Corporate Trustee Services Ltd v Celestial Nutrifoods Ltd_ [2014] 4 SLR 331 (“ _Celestial_ ”), the honourable Justice Prakash dealt with a similar situation. In _Celestial_ , the former auditors were resisting providing documents pursuant to section 285 of the Companies Act (Cap 50), one of the arguments put forth by the auditors’ solicitors was that to provide the documents would be to breach the State Secrets Law in China. However, Justice Prakash noted that the auditor’s experts had not actually shown what state secrets were contained in the documents or how revealing them would be 
+37     In _BNY Corporate Trustee Services Ltd v Celestial Nutrifoods Ltd_ <span class="citation">[2014] 4 SLR 331</span> (“ _Celestial_ ”), the honourable Justice Prakash dealt with a similar situation. In _Celestial_ , the former auditors were resisting providing documents pursuant to section 285 of the Companies Act (Cap 50), one of the arguments put forth by the auditors’ solicitors was that to provide the documents would be to breach the State Secrets Law in China. However, Justice Prakash noted that the auditor’s experts had not actually shown what state secrets were contained in the documents or how revealing them would be 
 
 
 against PRC law. 
@@ -143,7 +143,7 @@ against PRC law.
 
 39     I would further question if Mr Singh is an appropriate person to give expert evidence and is in a position to be able to offer an entirely independent view given that he is at the same time the Defendants’ solicitors in the Labuan proceedings. 
 
-40     It is trite that an expert’s duty to the Court is enshrined in O 40A r 2 of the Rules of Court (See _Pacific Recreation Pte Ltd v S Y Technology Inc_ [2008] 2 SLR(R) 491 at [69]). The reason for this is stated by the Court in _Vita Health Laboratories Pte Ltd v Pang Seng Meng_ [2004] 4 SLR(R) 162 at [82] 
+40     It is trite that an expert’s duty to the Court is enshrined in O 40A r 2 of the Rules of Court (See _Pacific Recreation Pte Ltd v S Y Technology Inc_ <span class="citation">[2008] 2 SLR(R) 491</span> at [69]). The reason for this is stated by the Court in _Vita Health Laboratories Pte Ltd v Pang Seng Meng_ <span class="citation">[2004] 4 SLR(R) 162</span> at [82] 
 
  “while an advocate may be as biased as he chooses to be in pressing his client’s cause, an expert cannot adopt such a stance. An advocate is expected to articulate his client’s views and cause without necessarily interposing his own views. An expert, on the other hand, should not evolve into a spokesperson for his client. Any opinions expressed must have a genuine foundation.” 
 
@@ -172,7 +172,7 @@ made before SUM 853 was determined and no consequences have been visited on the 
 
  'Comity' in the legal sense is neither a matter of absolute obligation, on the one hand, nor of mere courtesy and good will, upon the other. But it is the recognition which one nation allows within its territory to the legislative, executive or judicial acts of another nation, having due regard both to international duty and convenience, and to the rights of its own citizens or of other persons who are under the protection of its laws ...” 
 
-48     The learned Judge, citing Andrew Phang JC (as he then was) in _Q & M Enterprises Sdn Bhd v Poh Kiat_ [2005] 4 SLR(R) 494 at [25], highlighted that “ _if giving accord to international comity offends the public policy of the domestic legal system (for example, Singapore), naturally the interest of the latter will prevail_ ”. 
+48     The learned Judge, citing Andrew Phang JC (as he then was) in _Q & M Enterprises Sdn Bhd v Poh Kiat_ <span class="citation">[2005] 4 SLR(R) 494</span> at [25], highlighted that “ _if giving accord to international comity offends the public policy of the domestic legal system (for example, Singapore), naturally the interest of the latter will prevail_ ”. 
 
 49     Comity is not a magical word that once uttered would immediately cause the Singapore Court to bow to the decision of a foreign court. It is a balancing exercise where the Court has to consider on one hand the decision of a court of foreign jurisdiction and the other hand the interests in the proceedings over which it has jurisdiction. The question is whether comity is being weighed against simply something that is the convenience of a party or public policy. 
 

@@ -109,7 +109,7 @@ take reasonable steps to comply with its obligations under cl 11.4 SA. [note: 4]
 
 23     As for the implied term of quiet enjoyment, I am of the view that in substance, the SA was a tenancy agreement. It was drawn up as a service agreement because of the way the Defendant had originally described the services it rendered to the Plaintiff to JTC. Once the air was cleared, JTC said that it should be a sub-letting agreement in accordance with the true nature of the agreement. There was no dispute that there was an implied term of quiet enjoyment for the Plaintiff under the SA in the circumstances. 
 
-24     In the circumstances, it is not necessary for me to discuss the principles in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 on implied terms. 
+24     In the circumstances, it is not necessary for me to discuss the principles in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> on implied terms. 
 
 **Whether any implied term was breached** 
 
@@ -202,7 +202,7 @@ the Defendant withdrew this request. [note: 16]
 
 47     The Plaintiff submitted that the meeting was not on a “without prejudice” basis and that the transcript of the recording was admissible in evidence. 
 
-48     In _Sin Lian Heng Construction Pte Ltd v Singapore Telecommunications Ltd_ [2007] 2 SLR(R) 433, Sundaresh Menon JC, as he then was, said at [13], that there are two prerequisites before the “without prejudice” privilege can be invoked. The first is that the communication must be an “admission”. The second is that there must in fact be a dispute which the parties are trying to settle. He elaborated that the privilege does not apply if, for example, the discussion was to discuss repayment of an admitted liability rather than to negotiate and compromise a disputed liability, citing _Bradford v Bingley plc v Rashid_ [2006] 4 All ER 705 at [73]. 
+48     In _Sin Lian Heng Construction Pte Ltd v Singapore Telecommunications Ltd_ <span class="citation">[2007] 2 SLR(R) 433</span>, Sundaresh Menon JC, as he then was, said at [13], that there are two prerequisites before the “without prejudice” privilege can be invoked. The first is that the communication must be an “admission”. The second is that there must in fact be a dispute which the parties are trying to settle. He elaborated that the privilege does not apply if, for example, the discussion was to discuss repayment of an admitted liability rather than to negotiate and compromise a disputed liability, citing _Bradford v Bingley plc v Rashid_ [2006] 4 All ER 705 at [73]. 
 
 49     In the case before me, there was no dispute that the maximum service charge payable by the Plaintiff for the new term was $0.902 psf. The Defendant was simply trying to get the Plaintiff to agree to pay more in that meeting as well as in earlier discussions. It seems to me that this is similar to the situation where a debtor does not dispute a debt but is asking for more time to pay. Accordingly, there was no dispute which the parties were trying to compromise. 
 
@@ -265,7 +265,7 @@ elected to terminate and move out of 51, then it might in principle be entitled 
 
 67     Secondly, and more importantly, there was no danger that if the Plaintiff moved out of 51, the Defendant would have insisted on the Plaintiff moving back to 51. As the Plaintiff had asserted, the maximum agreed rate it was to pay for the renewed term was way below the market rate. The Defendant would have only been too pleased if the Plaintiff chose to move out without sufficient legal ground to do so as the Defendant would then have been able to offer 51 at a higher rate to others. 
 
-68     The Plaintiff relied on _Banco de Portugal v Waterlow & Sons Ltd_ [1932] 1 AC 452 and _The “Asia Star”_ [2010] 2 SLR 1154 for the proposition that the court should adopt a generous approach in assessing the conduct of the aggrieved party in mitigation and that such conduct should not be weighed on fine scales. That proposition was not disputed. It was the application of the law to the facts that was in question. 
+68     The Plaintiff relied on _Banco de Portugal v Waterlow & Sons Ltd_ [1932] 1 AC 452 and _The “Asia Star”_ <span class="citation">[2010] 2 SLR 1154</span> for the proposition that the court should adopt a generous approach in assessing the conduct of the aggrieved party in mitigation and that such conduct should not be weighed on fine scales. That proposition was not disputed. It was the application of the law to the facts that was in question. 
 
 69     Furthermore, in _The “Asia Star”_ , the Court of Appeal also stated at [75] and [76] that the notion of fairness ordinarily requires the aggrieved party who has to incur substantial expenses to mitigate to notify the defaulting party of the proposed course of action it was intending to undertake so as to give the defaulting party an opportunity to take a certain course of action, unless there was “grave urgency” in taking the proposed course of action that rendered such communication impractical. That was a case involving a charter party. 
 

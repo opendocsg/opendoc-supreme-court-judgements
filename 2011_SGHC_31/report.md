@@ -16,7 +16,7 @@
 
 _Revenue Law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 29 of 2011 was allowed in part by the Court of Appeal on 9 January 2012. See [2012] SGCA 1.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 29 of 2011 was allowed in part by the Court of Appeal on 9 January 2012. See <span class="citation">[2012] SGCA 1</span>.] 
 
 11 February 2011 Judgment reserved. 
 

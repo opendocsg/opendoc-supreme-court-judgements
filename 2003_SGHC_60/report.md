@@ -233,7 +233,7 @@ car and took it.
 
 **Submission of the Defence** 
 
-42     Ms Goh Siok Leng, Counsel for the defence, accepted that there was a presumption, under s 17 of the Act, that the accused was in possession of the drugs for the purpose of trafficking. She submitted that this presumption could be rebutted on a balance of probabilities, citing _Lu Lai Heng v PP_ [1994] 2 SLR 251. 
+42     Ms Goh Siok Leng, Counsel for the defence, accepted that there was a presumption, under s 17 of the Act, that the accused was in possession of the drugs for the purpose of trafficking. She submitted that this presumption could be rebutted on a balance of probabilities, citing _Lu Lai Heng v PP_ <span class="citation">[1994] 2 SLR 251</span>. 
 
 43     She submitted that as the accused was merely collecting the sling bag from Ah Chwee, there was no reason for her to suspect that there may be drugs in it. She relied on the accused’s evidence that the accused had said nothing was in the sling bag when she was questioned. When a packet from the sling bag was shown to the accused and she was asked whether it was hers, the accused had replied it was not. As for the accused’ scribble of a signature in the pocket book of SI See, the accused had said the contents were not explained to her. W/Cpl Tay Sie Siz also did not read the pocket book of SI See when she signed it. Accordingly, her testimony could not be relied upon regarding whether the statement recorded by SI See was accurate. 
 
@@ -254,11 +254,11 @@ Ms Goh submitted that it was not put to the accused that such evidence was untru
 
 46     As for the accused’s cautioned statements and her long statement given over five occasions, Ms Goh relied on the accused’s explanation as to how she was frightened and thought that she would not be believed if she asserted that all the drugs did not belong to her. 
 
-47     Ms Goh cited _Somwang Phattanasaeng v PP_ [1992] 1 SLR 850 for the proposition that: 
+47     Ms Goh cited _Somwang Phattanasaeng v PP_ <span class="citation">[1992] 1 SLR 850</span> for the proposition that: 
 
  A previous statement made by an accused, which has been used to impeach his credit, is only admissible for that limited purpose, and not as substantive evidence of the content thereof. 
 
-48     Ms Goh also cited _PP v Hla Win_ [1995] 2 SLR 424 for the proposition that: 
+48     Ms Goh also cited _PP v Hla Win_ <span class="citation">[1995] 2 SLR 424</span> for the proposition that: 
 
  It was not the law that by reason of the [accused’s] knowledge of the illicit nature of the contents of his bag, his evidence that he did not know the contents were drugs could not and should never be believed. 
 
@@ -411,7 +411,7 @@ b) _A green pouch containing an ‘Erimin 5’ tablet_.
 
 52     As for apportionment, Mr Yim submitted that since the accused was not taking the position that some of the heroin was for her own consumption, there was no need to engage in an exercise to identify which part of the heroin was for the accused’s consumption and which was not. 
 
-53     As regards the self-confessed lies of the accused in a long statement, Mr Yim submitted that they amounted to corroboration of her guilt citing _PP v Yeo Choon Poh_ [1994] 2 SLR 867 which adopted the criteria in _R v Lucas (Ruth)_ [1981] QB 720, namely: 
+53     As regards the self-confessed lies of the accused in a long statement, Mr Yim submitted that they amounted to corroboration of her guilt citing _PP v Yeo Choon Poh_ <span class="citation">[1994] 2 SLR 867</span> which adopted the criteria in _R v Lucas (Ruth)_ [1981] QB 720, namely: 
 
  (a) The lie must be deliberate 
 
@@ -432,9 +432,9 @@ b) _A green pouch containing an ‘Erimin 5’ tablet_.
 
 Penang and concluded that there was a serious break in the chain of evidence relating to the identity of the exhibits. In doing so, the Supreme Court posed various questions as reflected in Ms Goh’s submission. It then cited the decision of the Federal Court in _Su Ah Ping v PP_ [1980] 1 MLJ 75 to state that the law is clear in that “it is unnecessary to call evidence to ensure there is no break in the chain of evidence”. However, it went on to say that where a doubt as to the identity of an exhibit arose, a failure to adduce evidence to provide the necessary link in the chain of evidence would be fatal to the prosecution case. 
 
-57     In _Abdul Rashid v PP_ [1994] 1 SLR 119, Chief Justice Yong Pung How, delivering the judgment of the Court of Appeal said (at p 127 of the report) that the prosecution bore the burden of proving beyond reasonable doubt that the package seized by CNB officers from the first appellant’s car was the substance eventually analysed. He also said that where there was a break in the chain of possession and a doubt arose as to the identity of the exhibits, then the prosecution had not discharged its burden, citing _Su’s_ case and _Teoh_ ’s _case._ 
+57     In _Abdul Rashid v PP_ <span class="citation">[1994] 1 SLR 119</span>, Chief Justice Yong Pung How, delivering the judgment of the Court of Appeal said (at p 127 of the report) that the prosecution bore the burden of proving beyond reasonable doubt that the package seized by CNB officers from the first appellant’s car was the substance eventually analysed. He also said that where there was a break in the chain of possession and a doubt arose as to the identity of the exhibits, then the prosecution had not discharged its burden, citing _Su’s_ case and _Teoh_ ’s _case._ 
 
-58     However, in _Lai Kam Loy & Others v PP_ [1994] 1 SLR 787, Yong CJ elaborated (at p 796 of the report): 
+58     However, in _Lai Kam Loy & Others v PP_ <span class="citation">[1994] 1 SLR 787</span>, Yong CJ elaborated (at p 796 of the report): 
 
  Chain of possession 
 
@@ -446,7 +446,7 @@ Penang and concluded that there was a serious break in the chain of evidence rel
 
  We accept the proposition of law in Teoh ’s case, but when questions of this nature are raised, the guiding principle is provided by the words ‘where a doubt as to the identity of an exhibit arises’. In other words, it cannot be that in every drug case it lies on the prosecution to laboriously call every single witness to establish the chain of possession of the seized drugs. The need to do so only arises where a doubt as to the identity of an exhibit has arisen. This may arise for instance where it has been established that there was a shortfall in numbers or a failure to mark the exhibits. ... 
 
-59     In _Satli bin Masot v PP_ [1999] 2 SLR 637, Yong CJ, again delivering the judgment of the Court of Appeal, said: 
+59     In _Satli bin Masot v PP_ <span class="citation">[1999] 2 SLR 637</span>, Yong CJ, again delivering the judgment of the Court of Appeal, said: 
 
  The appeal 
 
@@ -461,7 +461,7 @@ Penang and concluded that there was a serious break in the chain of evidence rel
 
  For this reason it is desirable for a police officer who picked up an object that is easily marked such as a gun, to mark it well, in case it may be needed later on as an exhibit. There are, however, objects such as blood samples and the like that cannot be easily marked; it is only in the case of such objects that it may be necessary to call everybody who has handled it then only if there is doubt as to identity. [Our emphasis.] 
 
- 15 As we have pointed out in the case of Lai Kam Loy & Ors v PP [1994] 1 SLR 787, the guiding principle is ‘whether a doubt as to the identity of the exhibit has arisen’. ... 
+ 15 As we have pointed out in the case of Lai Kam Loy & Ors v PP <span class="citation">[1994] 1 SLR 787</span>, the guiding principle is ‘whether a doubt as to the identity of the exhibit has arisen’. ... 
 
  16 Applying the above principles to our case, we respectfully agreed with the trial judge that no doubt had arisen as to the identity of the drug exhibit analysed by Dr Lee. Although Insp Goh could not point out during cross examination whether it was S/Sgt Tai or Sgt Phao who in fact carried the drug exhibits from the flat to the CNB staff car, and although this point was further not clarified at trial by calling two officers as witnesses, we were of the view that this at most only raised a doubt as to who actually carried the drug exhibits during the transfer from the flat to CNB staff car. However, what Lai Kim Loy ’s case requires is that there must be a doubt as to the identity of the exhibits before it is necessary for the prosecution to adduce further evidence to ensure that there was no break in the chain of evidence. Whether such a doubt exists must be judged in light of all relevant circumstances surrounding the transportation of the drugs from the flat to the car. The relevant circumstances here, according to Insp Goh’s testimony, were that although she did not carry the drug exhibits from the flat to the CNB staff car herself, she was certain that one of the male officers accompanying her (viz S/Sgt Tai or Sgt Phao) did so. In fact all three of them walked to the staff car together, during which time, Insp Goh had the drug exhibits within her view throughout. In the circumstances, the drug exhibits could be said to have been in her de facto possession (be it actual or constructive) during the relevant time. Since we had no reason to disbelieve Insp Goh, there was clearly no doubt that the drugs that were placed in the boot of the CNB staff car by either of S/Sgt Tai or Sgt Phao were the very drugs that were seized from the flat. The drug exhibits were accounted for at all times while they were being transported down to the CNB staff car. Calling S/Sgt Tai and Sgt Phao at trial so as to establish the identity of the actual carrier of the drug exhibits would in the circumstances have been totally unnecessary since Insp Goh’s testimony in the circumstances had already sufficiently established the continuity of the chain of evidence during the relevant time. The appellant’s contention that a break in the chain of evidence occurred during the transportation of the drug exhibits from the flat to the car was, in our view, clearly without merit. 
 
@@ -570,7 +570,7 @@ contained 120 sachets of heroin and these were for the purpose of trafficking.
 
 98     As regards the point whether an accused’s previous statements should be restricted to impeaching his credit alone, this point is not relevant to the facts before me. If, as I have found, the oral testimony of the accused before me was not credible, whether because of her statements and/or other evidence, then she would have failed to discharge the presumption against her. There was no need to go on and consider whether her statements or her lies from her oral testimony would also corroborate other evidence to establish that she was in fact trafficking in drugs. 
 
-99     However, as Ms Goh had relied on a passage from the case of _Somwang_ for the proposition that an accused’s previous statements should be restricted to impeaching his credit alone, and not as substantive evidence of the content thereof, I should mention that in _Ukthunthod v PP_ [1994] 1 SLR 225, L P Thean JA said that that passage from _Somwang_ was orbiter dictum and, secondly, that s 147(3) of the Evidence Act was not cited to and considered in _Somwang_. Section 147(3) states: 
+99     However, as Ms Goh had relied on a passage from the case of _Somwang_ for the proposition that an accused’s previous statements should be restricted to impeaching his credit alone, and not as substantive evidence of the content thereof, I should mention that in _Ukthunthod v PP_ <span class="citation">[1994] 1 SLR 225</span>, L P Thean JA said that that passage from _Somwang_ was orbiter dictum and, secondly, that s 147(3) of the Evidence Act was not cited to and considered in _Somwang_. Section 147(3) states: 
 
  (3) Where in any proceedings a previous inconsistent or contradictory statement made by a person called as a witness in those proceedings is proved by virtue of this section, that statement shall by virtue of this subsection be admissible as evidence of any fact stated therein of which direct oral evidence by him would be admissible. 
 

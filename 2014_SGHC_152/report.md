@@ -206,7 +206,7 @@ Since the Defendant had failed to transfer the above shares, the Plaintiff argue
 24     Moreover, it is trite that a contract should be interpreted in a holistic manner having regard to 
 
 
-the document as a whole: _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 at [131]. The interpretation of clause 1 contended for by the Plaintiff was simply inconsistent with the rest of the Agreement: 
+the document as a whole: _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> at [131]. The interpretation of clause 1 contended for by the Plaintiff was simply inconsistent with the rest of the Agreement: 
 
  (a) First, clause 4 only provided a timeline for the transfer of the shares in the Company to the Plaintiff; no provision was made for the transfer of the shares in the Franchisees. 
 
@@ -276,7 +276,7 @@ If the parties’ intention was for the shares in the Franchisees to be transfer
 28     Since the Plaintiff was claiming that the Defendant had made these misrepresentations 
 
 
-fraudulently, the Plaintiff had to establish that ( _Panatron Pte Ltd and another v Lee Cheow Lee and another_ [2001] 2 SLR(R) 435 at [14]): 
+fraudulently, the Plaintiff had to establish that ( _Panatron Pte Ltd and another v Lee Cheow Lee and another_ <span class="citation">[2001] 2 SLR(R) 435</span> at [14]): 
 
  (a) there was a representation of fact made by words or conduct by the Defendant; 
 
@@ -336,7 +336,7 @@ _Statements (h)–(j)_
 
  with three private nurseries” as two numbered items under a heading titled “Franchised schools”. There was no elaboration in the Report on what the scope of the purported “collaboration” was or what the dates of the collaboration were. Thus, while I accepted that statement (h) was rather misleading, in my opinion it was far too vague to constitute a statement of fact that the Plaintiff could have relied on in entering into the Agreement. 
 
- (b) For statement (i), this was a statement as to the Defendant’s future intention, and for it to be actionable as a misrepresentation, the Plaintiff must show that the Defendant had no honest belief in the statement: Deutsche Bank AG v Chang Tse Wen and another appeal [2013] 4 SLR 886 at [83]. But the fact that the Defendant’s expansion proposals were shoddy and lacking in details did not mean that they were a sham. The Plaintiff had failed to provide any evidence to show that the Defendant did not have the genuine intention to carry out her plans at the time statement (i) was made. While the Defendant might have been overly optimistic in her projections and targets, that does not mean that she had committed misrepresentations in communicating her business plans to the Plaintiff. 
+ (b) For statement (i), this was a statement as to the Defendant’s future intention, and for it to be actionable as a misrepresentation, the Plaintiff must show that the Defendant had no honest belief in the statement: Deutsche Bank AG v Chang Tse Wen and another appeal <span class="citation">[2013] 4 SLR 886</span> at [83]. But the fact that the Defendant’s expansion proposals were shoddy and lacking in details did not mean that they were a sham. The Plaintiff had failed to provide any evidence to show that the Defendant did not have the genuine intention to carry out her plans at the time statement (i) was made. While the Defendant might have been overly optimistic in her projections and targets, that does not mean that she had committed misrepresentations in communicating her business plans to the Plaintiff. 
 
  (c) For statement (j), I accepted the Defendant’s evidence that she had inadvertently misused the Chinese term for “patent” and that she had in fact meant “trademark”. Therefore, the misrepresentation was not deliberate and did not amount to fraud. Further, the Plaintiff could not have been induced by this misrepresentation into entering the Agreement because she had seen the box containing the abacus used in the “Monkey Abacus” system, and it was obvious from the box that it was a Taiwanese product. The writing on the box was in Traditional Chinese, which is used in Taiwan but not China or Singapore. This distinction would have been obvious to the Plaintiff who came from China. In addition, the box clearly stated on its side that the abacus was patented by Taiwan Abacus Publishing House, and not the Company. 
 

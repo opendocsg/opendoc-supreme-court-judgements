@@ -20,13 +20,13 @@ _CRIMINAL PROCEDURE AND SENTENCING_ – _Criminal references_
 
 _CRIMINAL PROCEDURE AND SENTENCING_ – _Habeas corpus_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2012] 4 SLR 845.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2012] 4 SLR 845</span>.] 
 
 15 July 2013 
 
 **V K Rajah JA (delivering the grounds of decision of the court):** 
 
-1       These are four related criminal motions filed by two parties – Hia Soo Gan Benson (“Hia”) and Lim Kow Seng (“Seng”) – who had been committed to be extradited to the United States of America (“US”) to stand trial. Hia and Seng (collectively, “the Parties”) had earlier applied to the High Court for an order for review of detention pursuant to s 417 of the Criminal Procedure Code 2010 (Act No 15 of 2012) (“CPC 2010”) but their applications were dismissed by the High Court judge (“the Judge”) in _Wong Yuh Lan v Public Prosecutor and other matters_ [2012] 4 SLR 845 (“the Judgment”). The criminal motions filed before us pertain to two preliminary issues: firstly, whether this Court has jurisdiction to hear an appeal against the Judgment; and secondly, whether leave to refer alleged questions of law of public interest under s 397(1) of CPC 2010 to this Court should be granted. 
+1       These are four related criminal motions filed by two parties – Hia Soo Gan Benson (“Hia”) and Lim Kow Seng (“Seng”) – who had been committed to be extradited to the United States of America (“US”) to stand trial. Hia and Seng (collectively, “the Parties”) had earlier applied to the High Court for an order for review of detention pursuant to s 417 of the Criminal Procedure Code 2010 (Act No 15 of 2012) (“CPC 2010”) but their applications were dismissed by the High Court judge (“the Judge”) in _Wong Yuh Lan v Public Prosecutor and other matters_ <span class="citation">[2012] 4 SLR 845</span> (“the Judgment”). The criminal motions filed before us pertain to two preliminary issues: firstly, whether this Court has jurisdiction to hear an appeal against the Judgment; and secondly, whether leave to refer alleged questions of law of public interest under s 397(1) of CPC 2010 to this Court should be granted. 
 
 2       We heard the Parties and the Prosecution on 6 November 2012. After considering their submissions, we dismissed all four criminal motions on 9 November 2012 on the basis that the Court of Appeal has no jurisdiction to hear an appeal against the Judgment and leave should not be granted for the Parties’ questions of law to be referred to the Court of Appeal under s 397(1) of CPC 2010. The Parties therefore remained to be extradited to the US. We now set out the detailed reasons for our decision. 
 
@@ -41,7 +41,7 @@ America (Extradition) Order in Council, 1935 (Cap 103, OR 1) which contains the 
 
 5       As against the Parties (see above at [1]), AGC sought their committal only in respect of Count Eight, also pursuant to Title 18 United States Code Section 371. In Count Eight, the Parties were accused of being part of a separate scheme to cause antennae which were classified as “defense articles” under US law to be exported without a licence. Between July and September 2007, batches of antennae were shipped from the US to Hong Kong. The US accused the Parties of conspiring _via_ e-mail with individuals based in the US to procure the antennae in violation of US export regulations. 
 
-6       At the committal proceeding in the Subordinate Courts (in _In the Matter of Wong Yuh Lan, Lim Yong Nam, Lim Kow Seng & Hia Soo Gan Benson_ [2012] SGDC 34), the District Judge (“DJ”) committed the Applicants to custody on 10 February 2012 to await the warrant of the Minister for their surrender. In response, the Applicants filed originating summonses pursuant to O 54 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) (“the ROC”) in the High Court requesting for an order for review of detention (previously known as a writ of _habeas corpus_ ) to be issued forthwith or for directions that a summons for the order for review of detention be issued. Order 54 r 2 of the ROC states: 
+6       At the committal proceeding in the Subordinate Courts (in _In the Matter of Wong Yuh Lan, Lim Yong Nam, Lim Kow Seng & Hia Soo Gan Benson_ <span class="citation">[2012] SGDC 34</span>), the District Judge (“DJ”) committed the Applicants to custody on 10 February 2012 to await the warrant of the Minister for their surrender. In response, the Applicants filed originating summonses pursuant to O 54 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) (“the ROC”) in the High Court requesting for an order for review of detention (previously known as a writ of _habeas corpus_ ) to be issued forthwith or for directions that a summons for the order for review of detention be issued. Order 54 r 2 of the ROC states: 
 
  Power of Court to whom ex parte application made (O. 54, r. 2) 
 
@@ -289,7 +289,7 @@ _The High Court hearing the application for an order for review of detention was
 
  The criminal jurisdiction of the Court of Appeal shall consist of appeals against any decision made by the High Court in the exercise of its original criminal jurisdiction , subject nevertheless to the provisions of this Act or any other written law regulating the terms and conditions upon which such appeals may be brought. [emphasis added] 
 
-35     Seng sought to persuade us that because his _application_ to review the legality of his detention before the Judge _originated in the High Court_ , the High Court should therefore be deemed as having “original criminal jurisdiction”. In our view, Seng’s understanding of the phrase “original criminal jurisdiction” was mistaken. In _Kiew Ah Cheng David v Public Prosecutor_ [2007] 1 SLR(R) 1188 (“ _David Kiew_ ”) at [3], this Court explained that: 
+35     Seng sought to persuade us that because his _application_ to review the legality of his detention before the Judge _originated in the High Court_ , the High Court should therefore be deemed as having “original criminal jurisdiction”. In our view, Seng’s understanding of the phrase “original criminal jurisdiction” was mistaken. In _Kiew Ah Cheng David v Public Prosecutor_ <span class="citation">[2007] 1 SLR(R) 1188</span> (“ _David Kiew_ ”) at [3], this Court explained that: 
 
  ... The distinction between an original and an appellate jurisdiction is not one that normally requires extensive elaboration. A court exercises original jurisdiction in all proceedings at first instance. A court exercises an appellate jurisdiction when it conducts proceedings arising from any decision of a court in the exercise of its original jurisdiction ... Original jurisdiction is a legal term and the word "original" here does not refer only to a matter that originated from that court and had not arisen before any previous one. [emphasis added] 
 
@@ -308,7 +308,7 @@ _Section 422 of CPC 2010 prohibited an appeal by the Parties against the Judge�
 
 422\. No appeal shall lie from an order directing or refusing to direct the issue of an order for review of detention or from an order made under section 418 but the High Court or Judge of the High Court may at any time adjourn the hearing for the decision of a Court consisting of 3 or more Judges. 
 
-38     The predecessor of s 422 of CPC 2010 has been interpreted by the High Court in two instances as barring an applicant who was refused an order for review of detention in the High Court from appealing to the Court of Appeal (see _Salwant Singh s/o Amer Singh v Public Prosecutor_ [2008] SGHC 164 at [15] and _Salwant Singh s/o Amer Singh v Public Prosecutor_ [2009] 3 SLR(R) 105 at [14]). In _Tan Yock Lin_ at ch XIX para 151, the learned author also appears to share a similar understanding of the predecessor of s 422 of CPC 2010 ( _ie_ , s 335 of CPC 1985): 
+38     The predecessor of s 422 of CPC 2010 has been interpreted by the High Court in two instances as barring an applicant who was refused an order for review of detention in the High Court from appealing to the Court of Appeal (see _Salwant Singh s/o Amer Singh v Public Prosecutor_ <span class="citation">[2008] SGHC 164</span> at [15] and _Salwant Singh s/o Amer Singh v Public Prosecutor_ <span class="citation">[2009] 3 SLR(R) 105</span> at [14]). In _Tan Yock Lin_ at ch XIX para 151, the learned author also appears to share a similar understanding of the predecessor of s 422 of CPC 2010 ( _ie_ , s 335 of CPC 1985): 
 
  In Singapore, the Court of Appeal’s ordinary appellate jurisdiction is to hear appeals against any decision made by the High Court in exercise of the High Court’s original criminal jurisdiction. If a case begins in the lower courts, there can be no further appeal to the Court of Appeal, unless the case is first transferred to the High Court to continue thereafter as a High Court case. 
 
@@ -471,7 +471,7 @@ have to go through to interpret the two statutes in Seng’s favour.
 
  (3) An application under subsection (1) ... shall be made within one month, or such longer time as the Court of Appeal may permit, of the determination of the matter to which it relates... 
 
-63     In _Bachoo Mohan Singh v Public Prosecutor and other applications_ [2010] 1 SLR 966 (“ _Bachoo Mohan Singh_ ”) at [29], this Court held that there are four requirements which have to be met before leave for a criminal reference will be granted: 
+63     In _Bachoo Mohan Singh v Public Prosecutor and other applications_ <span class="citation">[2010] 1 SLR 966</span> (“ _Bachoo Mohan Singh_ ”) at [29], this Court held that there are four requirements which have to be met before leave for a criminal reference will be granted: 
 
  (a) there must be a question of law; 
 
@@ -550,7 +550,7 @@ _The questions raised by Seng in CM 99/_
 
 arguments in support of them as well. [note: 5] 
 
-78     In _Phang Wah v Public Prosecutor and another matter_ [2012] SGCA 60, this Court had reminded all “potential applicants [that they would] do well to avoid ... “back door” appeals by recourse to s 397 [of CPC 2010]” (at [37]). Seng’s unjustifiably late and last minute attempt to refer a long list of questions – many of which were fundamentally mistaken – to this Court struck us as a desperate attempt at a “back door” appeal should his primary case in CM 79/2012 fail. We therefore declined to exercise our discretion to extend time in s 397(3) of CPC 2010 in Seng’s favour and dismissed CM 99/2012 accordingly. 
+78     In _Phang Wah v Public Prosecutor and another matter_ <span class="citation">[2012] SGCA 60</span>, this Court had reminded all “potential applicants [that they would] do well to avoid ... “back door” appeals by recourse to s 397 [of CPC 2010]” (at [37]). Seng’s unjustifiably late and last minute attempt to refer a long list of questions – many of which were fundamentally mistaken – to this Court struck us as a desperate attempt at a “back door” appeal should his primary case in CM 79/2012 fail. We therefore declined to exercise our discretion to extend time in s 397(3) of CPC 2010 in Seng’s favour and dismissed CM 99/2012 accordingly. 
 
 
 _Conclusion on Issue 2_ 

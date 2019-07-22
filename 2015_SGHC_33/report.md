@@ -18,7 +18,7 @@ _Criminal Law_ – _Statutory Offences_ – _Misuse of Drugs Act_
 
 _Criminal Procedure and Sentencing_ – _Sentencing_ – _Principles_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 2 of 2015 was dismissed by the Court of Appeal on 26 January 2016. See [2016] SGCA 6.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 2 of 2015 was dismissed by the Court of Appeal on 26 January 2016. See <span class="citation">[2016] SGCA 6</span>.] 
 
 3 February 2015 
 

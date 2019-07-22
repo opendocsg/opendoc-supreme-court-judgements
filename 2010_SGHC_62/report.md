@@ -174,7 +174,7 @@ _Incorporated_ 197 F 3d, 752 (5th Cir, 1999) at 757. Counsel for SSGC urged me t
 
 _Administrative Law_ (Oxford University Press, 9 th ed, 2004), pp 349 – 365. This presumption of rationality, however, finds no purchase in the context of private arbitrations, where parties have contractually agreed to abide by the decision of the arbitral tribunal. Parties must therefore be held to that agreement, in the absence of any of the specific grounds for challenging an award set out by Parliament in the Act. The ability to challenge an award for unreasonableness or irrationality is not a ground set out in the Act. 
 
-19     It is settled law that in Singapore, the Act provides the exclusive means by which a disappointed party to the arbitration may challenge the eventual award: _PT Asuransi Jasa Indonesia (Persero) v Dexia Bank SA_ [2007] SLR(R) 513 (“ _PT Asuransi_ ”) at [54] [55] and [57] and _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ [2007] 3 SLR(R) 86 at [60] [66]. 
+19     It is settled law that in Singapore, the Act provides the exclusive means by which a disappointed party to the arbitration may challenge the eventual award: _PT Asuransi Jasa Indonesia (Persero) v Dexia Bank SA_ [2007] SLR(R) 513 (“ _PT Asuransi_ ”) at [54] [55] and [57] and _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ <span class="citation">[2007] 3 SLR(R) 86</span> at [60] [66]. 
 
 20     As Alan Redfern and Martin Hunter, _Law and Practice of International Commercial Arbitration_ 
 
@@ -195,7 +195,7 @@ outrageous or irrational. The position of the courts in the United States was ad
 
 **The statutory provisions** 
 
-24     As I explained in _ABC Co v XYZ Co Ltd_ [2003] 3 SLR(R) 546 at [3], art 34, Sch 1 of the Act deals with the recourse that a party to an arbitration has when he is not satisfied with an arbitral award. Article 34(1) makes it clear that recourse to a court against an arbitral award may be made _only_ by an application for setting aside in accordance with para (2) and para (3) of the article. 
+24     As I explained in _ABC Co v XYZ Co Ltd_ <span class="citation">[2003] 3 SLR(R) 546</span> at [3], art 34, Sch 1 of the Act deals with the recourse that a party to an arbitration has when he is not satisfied with an arbitral award. Article 34(1) makes it clear that recourse to a court against an arbitral award may be made _only_ by an application for setting aside in accordance with para (2) and para (3) of the article. 
 
 25     The provisions which SSGC relied on read: 
 
@@ -278,7 +278,7 @@ possible and rational interpretation of the Agreement. Consequently, SSGC submit
 
 **_The law_** 
 
-44     As I stated in _VV v VW_ [2008] 2 SLR(R) 929 at [17], assertions of breach of public policy cannot be vague and generalised. It is incumbent on a party seeking to challenge an award on this ground to identify the public policy which the award allegedly breaches and to show which part of the award conflicts with that public policy: _John Holland Pty Ltd (formerly known as John Holland Construction & Engineering Pty Ltd) v Toyo Engineering Corp (Japan)_ [2001] 1 SLR(R) 443 at [25]. 
+44     As I stated in _VV v VW_ <span class="citation">[2008] 2 SLR(R) 929</span> at [17], assertions of breach of public policy cannot be vague and generalised. It is incumbent on a party seeking to challenge an award on this ground to identify the public policy which the award allegedly breaches and to show which part of the award conflicts with that public policy: _John Holland Pty Ltd (formerly known as John Holland Construction & Engineering Pty Ltd) v Toyo Engineering Corp (Japan)_ <span class="citation">[2001] 1 SLR(R) 443</span> at [25]. 
 
 45     No particular public policy of Singapore was identified by SSGC as having been embarrassed by the Award, and in my judgment, the public policy argument failed on this threshold point. Indeed, even on the assumption that SSGC’s criticisms of the Award were well-founded, it is difficult to see what particular public policy could be so identified. 
 

@@ -16,7 +16,7 @@
 
 _Criminal Law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 26 of 2010 was dismissed by the Court of Appeal on 06 July 2011. See [2011] SGCA 38.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 26 of 2010 was dismissed by the Court of Appeal on 06 July 2011. See <span class="citation">[2011] SGCA 38</span>.] 
 
 3 January 2011 
 

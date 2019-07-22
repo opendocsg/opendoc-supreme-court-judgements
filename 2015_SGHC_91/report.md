@@ -18,19 +18,19 @@ _Criminal procedure and sentencing_ – _Sentencing_
 
 _Criminal procedure and sentencing_ – _Revision of proceedings_ 
 
-[ **LawNet Editorial Note** : This supplementary judgment (together with the main judgment in [2015] SGHC 79) is reported at [2015] 3 SLR 375.] 
+[ **LawNet Editorial Note** : This supplementary judgment (together with the main judgment in <span class="citation">[2015] SGHC 79</span>) is reported at <span class="citation">[2015] 3 SLR 375</span>.] 
 
 6 April 2015 
 
 **Tay Yong Kwang J:** 
 
-72     These grounds of decision are a continuation of my judgment in _Tjong Mark Edward v Public Prosecutor and another appeal_ [2015] SGHC 79 and I adopt the definitions which I have used there. 
+72     These grounds of decision are a continuation of my judgment in _Tjong Mark Edward v Public Prosecutor and another appeal_ <span class="citation">[2015] SGHC 79</span> and I adopt the definitions which I have used there. 
 
 **The appeal against sentence for the first charge** 
 
 73     On 24 March 2015, I dismissed Tjong’s appeal against sentence for the first charge. I now set out my reasons. 
 
-74     In an appeal against sentence, appellate intervention is warranted if the sentence is manifestly excessive or inadequate, wrong in law or against the weight of the evidence (s 394 of the CPC). It was stated in _Public Prosecutor v UI_ [2008] 4 SLR(R) 500 that intervention on the latter two grounds require the DJ to have: 
+74     In an appeal against sentence, appellate intervention is warranted if the sentence is manifestly excessive or inadequate, wrong in law or against the weight of the evidence (s 394 of the CPC). It was stated in _Public Prosecutor v UI_ <span class="citation">[2008] 4 SLR(R) 500</span> that intervention on the latter two grounds require the DJ to have: 
 
  (a) erred with respect to the proper factual basis for sentencing; 
 
@@ -38,10 +38,10 @@ _Criminal procedure and sentencing_ – _Revision of proceedings_
 
  (c) applied a wrong principle in sentencing. 
 
-75     In corruption cases, deterrence features strongly as a sentencing consideration. Even in private sector corruption cases, there is no presumption of a non-custodial sentence ( _Public Prosecutor v Ang Seng Thor_ [2011] 4 SLR 217 (“ _Ang Seng Thor_ ”) at [33(c)] and [39] _per_ V K Rajah JA). In determining whether the custodial threshold is crossed, the following factors can be distilled from _Ang Seng Thor_ at [33(d)] and [42] and from the judgment of Sundaresh Menon CJ in _Public Prosecutor v Marzuki bin_ 
+75     In corruption cases, deterrence features strongly as a sentencing consideration. Even in private sector corruption cases, there is no presumption of a non-custodial sentence ( _Public Prosecutor v Ang Seng Thor_ <span class="citation">[2011] 4 SLR 217</span> (“ _Ang Seng Thor_ ”) at [33(c)] and [39] _per_ V K Rajah JA). In determining whether the custodial threshold is crossed, the following factors can be distilled from _Ang Seng Thor_ at [33(d)] and [42] and from the judgment of Sundaresh Menon CJ in _Public Prosecutor v Marzuki bin_ 
 
 
-_Ahmad and another appeal_ [2014] 4 SLR 623 (“ _Marzuki_ ”) at [28]: 
+_Ahmad and another appeal_ <span class="citation">[2014] 4 SLR 623</span> (“ _Marzuki_ ”) at [28]: 
 
  (a) the seniority of the accused, the nature of the duty owed to the principal or the level of control enjoyed by the accused; 
 
@@ -63,12 +63,12 @@ _Ahmad and another appeal_ [2014] 4 SLR 623 (“ _Marzuki_ ”) at [28]:
 
 79     I agreed with the DJ that Tjong was in a position of influence. At the material time, he was a business development director in charge of the South Asia region. Tjong’s recommendation was accepted by STE’s president unhesitatingly as he was trusted by STE to manage and promote its interest in Bangladesh. 
 
-80     I shall now turn to two of the precedents that the Prosecution cited. In _Public Prosecutor v Rajagopal v Chandrachagaran_ (DAC 47221 of 2013), the accused, an operations manager, pleaded guilty to one count of receiving $39,479.40 for recommending a supplier for the procurement of equipment. He was sentenced to two months’ imprisonment. In _Tang See Meng v Public Prosecutor_ ([2001] SGDC 161; MA 62 of 2001), the accused, a contracts manager, received gratification ranging from $10,000 to $40,000 (and totalling $140,000) on five occasions over eight months for recommending that certain work be sub-contracted to one firm. Following a trial, he was convicted on 
+80     I shall now turn to two of the precedents that the Prosecution cited. In _Public Prosecutor v Rajagopal v Chandrachagaran_ (DAC 47221 of 2013), the accused, an operations manager, pleaded guilty to one count of receiving $39,479.40 for recommending a supplier for the procurement of equipment. He was sentenced to two months’ imprisonment. In _Tang See Meng v Public Prosecutor_ (<span class="citation">[2001] SGDC 161</span>; MA 62 of 2001), the accused, a contracts manager, received gratification ranging from $10,000 to $40,000 (and totalling $140,000) on five occasions over eight months for recommending that certain work be sub-contracted to one firm. Following a trial, he was convicted on 
 
 
 all five charges and sentenced to three months’ imprisonment per charge (the total sentence was six months’ imprisonment). No specific mitigating or aggravating circumstances were mentioned. 
 
-81     Mr Nathan submitted that the DJ failed to place enough weight on the “strikingly similar” case of Public _Prosecutor v Subramaniam s/o Muneyandi_ [2003] SGDC 259 (“ _Subramaniam_ ”). There, the accused, a commercial manager, was convicted after trial on two charges under s 6(a) of the PCA for obtaining two loans of $20,000 and $30,000 for recommending that ST Marine’s ship piping jobs be awarded to Omega. He was sentenced to a global fine of $25,000. It was submitted that the facts in _Subramaniam_ were even more aggravating since the accused there actively sought the loans from Omega’s operations director. However, as I have reasoned above, Tjong was not a passive party. There are also two more distinguishing factors. First, Tjong was in a position of greater influence since he was STE’s sole presence in Bangladesh and his recommendations were trusted by the approving panel. In contrast, the accused in _Subramaniam_ was not directly involved in selecting subcontractors for piping jobs. Second, the accused there repaid $10,000 of the gratification while 
+81     Mr Nathan submitted that the DJ failed to place enough weight on the “strikingly similar” case of Public _Prosecutor v Subramaniam s/o Muneyandi_ <span class="citation">[2003] SGDC 259</span> (“ _Subramaniam_ ”). There, the accused, a commercial manager, was convicted after trial on two charges under s 6(a) of the PCA for obtaining two loans of $20,000 and $30,000 for recommending that ST Marine’s ship piping jobs be awarded to Omega. He was sentenced to a global fine of $25,000. It was submitted that the facts in _Subramaniam_ were even more aggravating since the accused there actively sought the loans from Omega’s operations director. However, as I have reasoned above, Tjong was not a passive party. There are also two more distinguishing factors. First, Tjong was in a position of greater influence since he was STE’s sole presence in Bangladesh and his recommendations were trusted by the approving panel. In contrast, the accused in _Subramaniam_ was not directly involved in selecting subcontractors for piping jobs. Second, the accused there repaid $10,000 of the gratification while 
 
 Tjong, who denies having taken any money from Mujibur, has naturally not repaid anything. [note: 1] 
 
@@ -82,12 +82,12 @@ Tjong, who denies having taken any money from Mujibur, has naturally not repaid 
 
 85     Mr Nathan submitted that there were only two differences between the two charges, namely, the quantum of the gratification and the fact that there was no deliberate concealment insofar as the sum of $30,000 was not disguised to be for another purpose. He submitted that an appropriate sentence for the second charge was between four and six weeks’ imprisonment and that both imprisonment terms should run concurrently based on the one-transaction principle. He also opposed the Prosecution’s application for criminal revision. 
 
-86     I will first deal with the Prosecution’s argument regarding criminal revision. First, as Mr Nathan pointed out, I could not exercise my powers of revision in respect of the sentence for the first charge since I had already dismissed the appeal against sentence. I held in _Tee Kok Boon v Public Prosecutor_ [2006] 4 SLR(R) 398 that the High Court cannot revise a decision of a subordinate court which had been upheld on appeal by the High Court. Second, in any event, in asking for a global sentence of five 
+86     I will first deal with the Prosecution’s argument regarding criminal revision. First, as Mr Nathan pointed out, I could not exercise my powers of revision in respect of the sentence for the first charge since I had already dismissed the appeal against sentence. I held in _Tee Kok Boon v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 398</span> that the High Court cannot revise a decision of a subordinate court which had been upheld on appeal by the High Court. Second, in any event, in asking for a global sentence of five 
 
 
 to seven months’ imprisonment and for a criminal revision to normalise the sentences, the Prosecution was in effect seeking to enhance the sentence for the first charge. Considering that the Prosecution 
 
-had asked for a sentence of two to three months’ imprisonment in the court below, [note: 2] this application amounted to a rethinking about the sentence. Criminal revisions may not be used as a backdoor appeal against sentence (s 400(2) of the CPC; _Public Prosecutor v Muhammad Noor Indra bin Hamzah_ [2009] 4 SLR(R) 1007 at [5]–[7] _per_ Lee Seiu Kin J). The proper procedure would have been to lodge an appeal against sentence for the first charge on the ground that the DJ was wrong in acquitting Tjong on the second charge (and therefore wrong with respect to the factual basis for his sentence). Third, I did not see any serious injustice here calling for the exercise of the court’s revisionary powers. Accordingly, I declined to exercise such powers. 
+had asked for a sentence of two to three months’ imprisonment in the court below, [note: 2] this application amounted to a rethinking about the sentence. Criminal revisions may not be used as a backdoor appeal against sentence (s 400(2) of the CPC; _Public Prosecutor v Muhammad Noor Indra bin Hamzah_ <span class="citation">[2009] 4 SLR(R) 1007</span> at [5]–[7] _per_ Lee Seiu Kin J). The proper procedure would have been to lodge an appeal against sentence for the first charge on the ground that the DJ was wrong in acquitting Tjong on the second charge (and therefore wrong with respect to the factual basis for his sentence). Third, I did not see any serious injustice here calling for the exercise of the court’s revisionary powers. Accordingly, I declined to exercise such powers. 
 
 87     I will now deal with the sentence for the second charge. At the outset, I accepted that these two charges were part of the same transaction, _ie_ , that Tjong received two cheques for a total of $87,386.67 on the same day and for one act of corruption (even though he deposited and encashed the cheques on different occasions). In my view, a single charge of corruption which particularised the two amounts and the two occasions would still have been valid if the prosecution had chosen to proceed thus. This is not to say that it was wrong to have preferred two charges in the way it was done before the District Court. At [54] of the GD, the DJ said that the basis for the sentence he imposed was that Tjong had received $57,386.67. This sentence was appealed by Tjong but not by the Prosecution. Now that Tjong has been convicted on both charges, I have to consider what the appropriate global sentence should be, bearing in mind Tjong’s overall criminality. 
 

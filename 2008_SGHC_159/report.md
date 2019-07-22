@@ -208,7 +208,7 @@ _Consistency with natural justice_
 
  I remember to have heard it observed by a very learned man upon such an occasion, that even God himself did not pass sentence upon Adam, before he was called upon to make his defence. ‘Adam, says God, where art thou? Hast thou not eaten of the tree, whereof I commanded thee that thou shouldst not eat?’ And the same question was put to Eve also. 
 
-45     The point has been reiterated by the Court of Appeal in the recent case of _Kay Swee Pin v Singapore Island Country Club_ [2008] 2 SLR 802 at [7]: 
+45     The point has been reiterated by the Court of Appeal in the recent case of _Kay Swee Pin v Singapore Island Country Club_ <span class="citation">[2008] 2 SLR 802</span> at [7]: 
 
  A duty to act fairly involves a duty to act impartially. Procedural fairness requires that the decision-maker should not be biased or prejudiced in a way that precludes a genuine and fair consideration being given to the arguments or evidence presented by the parties: Halsbury’s at para 10.050. It is also a cardinal principle of natural justice that no man shall be condemned 
 

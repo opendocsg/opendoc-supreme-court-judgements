@@ -232,7 +232,7 @@ procedure” [note: 23] ) provided in the contract to allow parties to settle on
 
 (ii) _No c lear wording to exc lude or restric t remedies_ 
 
-41     As a general rule, the law requires clear words be used in the contract to exclude or restrict remedies ( _Singapore Telec ommunic ations Ltd v Starhub Cable Vision Ltd_ [2006] 2 SLR(R) 195 at [52]). In my view, the wording of paragraph 8 of Schedule 2 falls short of this threshold requirement. As a matter of construction, the meaning of “final and binding” in the context of the Completion Statement is limited in scope and does not have the effect of precluding MA from claiming expectation damages for breach of warranties. Considerably clearer words would have to be used before it can be concluded that MA had relinquished its right to claim damages based on diminution in value. 
+41     As a general rule, the law requires clear words be used in the contract to exclude or restrict remedies ( _Singapore Telec ommunic ations Ltd v Starhub Cable Vision Ltd_ <span class="citation">[2006] 2 SLR(R) 195</span> at [52]). In my view, the wording of paragraph 8 of Schedule 2 falls short of this threshold requirement. As a matter of construction, the meaning of “final and binding” in the context of the Completion Statement is limited in scope and does not have the effect of precluding MA from claiming expectation damages for breach of warranties. Considerably clearer words would have to be used before it can be concluded that MA had relinquished its right to claim damages based on diminution in value. 
 
 42     As this court is dealing with a commercial document, the SPA and in particular, paragraph 8 of Schedule 2 has to be construed so as to give it a commercial and reasonable operation. It would not make commercial sense for HL to give warranties in the SPA if MA could have no recourse at all in the event of breach. It should also be noted that Clause 8.4.3 of the SPA expressly allows claims for breach of warranty (that presumably would give rise to a diminution in value) provided notice is given of the breach before 30 September 2006. Again, by Clauses 6.1 to 6.3, HL acknowledges that MA in entering the SPA relies on the warranties given in the SPA, and that the warranties continue to be true and accurate right through to completion of the transaction. Claims for breach of warranty would undoubtedly take the form of damages subject to Clauses 8.2 and 8.3 which set the minimum and maximum amount of damages in respect of HL’s liability for breach of warranty. 
 
@@ -384,7 +384,7 @@ multiplier to the difference between the warranted profit and the actual profit.
 
  [emphasis added in bold italics] 
 
-72     These principles have been affirmed in _Yip Holdings Pte Ltd v Asia Link Marine Industries Pte Ltd_ [2012] 1 SLR 131 at [15] and _Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd_ [2008] 2 SLR(R) 623 at [27]-[28] and [30]-[31]. 
+72     These principles have been affirmed in _Yip Holdings Pte Ltd v Asia Link Marine Industries Pte Ltd_ <span class="citation">[2012] 1 SLR 131</span> at [15] and _Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd_ <span class="citation">[2008] 2 SLR(R) 623</span> at [27]-[28] and [30]-[31]. 
 
 73     Even if compensatory damages have not been proven to a satisfactory degree – for instance, where the court is not in a position to determine the value of the loss in a principled way because of the lack of evidence – nominal damages would be awarded. 
 

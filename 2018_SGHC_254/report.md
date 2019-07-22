@@ -227,7 +227,7 @@ _Second difference: the renovations contemplated_
 
 room and the balcony and were not carried out on the cantilevered part of the balcony. [note: 45] 
 
-32     The defendant is right not to take this point. What constitutes a “balcony” within the meaning of a by-law depends on the context: _Chong Ken Ban (alias Chong Johnson) and another v Management Corporation Strata Title Plan No 1395_ [2004] 3 SLR(R) 138 at [17]. The purpose of bylaw 3.0( _n_ )(iii) is to ensure uniformity in the external appearance of The Arcadia. The sliding doors between the living room and the balcony, although set well back from the external wall of the balcony, remain visible to external observers. Those sliding doors form part of The Arcadia’s external appearance. Renovations to those sliding doors – no less than renovations to the cantilevered part of the balcony – have the potential to affect the external appearance of The Arcadia. Given its purpose, by-law 3.0( _n_ )(iii) must therefore encompass renovations anywhere on the balcony from the external wall of the balcony right back to the balcony’s shared boundary with the living room. 
+32     The defendant is right not to take this point. What constitutes a “balcony” within the meaning of a by-law depends on the context: _Chong Ken Ban (alias Chong Johnson) and another v Management Corporation Strata Title Plan No 1395_ <span class="citation">[2004] 3 SLR(R) 138</span> at [17]. The purpose of bylaw 3.0( _n_ )(iii) is to ensure uniformity in the external appearance of The Arcadia. The sliding doors between the living room and the balcony, although set well back from the external wall of the balcony, remain visible to external observers. Those sliding doors form part of The Arcadia’s external appearance. Renovations to those sliding doors – no less than renovations to the cantilevered part of the balcony – have the potential to affect the external appearance of The Arcadia. Given its purpose, by-law 3.0( _n_ )(iii) must therefore encompass renovations anywhere on the balcony from the external wall of the balcony right back to the balcony’s shared boundary with the living room. 
 
 _Third difference: when the plaintiff can withhold consent_ 
 
@@ -432,7 +432,7 @@ _Conclusion on the 11 June letter_
 74     Determining whether renovations affect the appearance of a building is a factual exercise, undertaken by comparing the façade presented by the flat in question with the façade presented by 
 
 
-other similar flats and by all of the flats as a whole: _Management Corporation Strata Title Plan No 1786 v Huang Hsiang Shui_ [2006] SGDC 20 at [112]. Thus, for instance, a feature permanently affixed to a balcony and which does result in the balcony looking different from its original state does affect the overall appearance of the building: _Management Corporation Strata Title Plan No 1378 v Chen Ee Yueh Rachel_ [1993] 3 SLR(R) 630 (“ _Chen Ee Yueh Rachel_ ”) at [17]. 
+other similar flats and by all of the flats as a whole: _Management Corporation Strata Title Plan No 1786 v Huang Hsiang Shui_ <span class="citation">[2006] SGDC 20</span> at [112]. Thus, for instance, a feature permanently affixed to a balcony and which does result in the balcony looking different from its original state does affect the overall appearance of the building: _Management Corporation Strata Title Plan No 1378 v Chen Ee Yueh Rachel_ <span class="citation">[1993] 3 SLR(R) 630</span> (“ _Chen Ee Yueh Rachel_ ”) at [17]. 
 
 75     Whether an improvement effected to a particular flat affects the façade of its building is not to be ascertained as a theoretical exercise but from the viewpoint of a reasonable observer who looks at the building from a position which is practically possible or likely. As Derrington J stated in _Re J Saunders_ (1993) NSW Titles Cases 80-019: 
 
@@ -511,7 +511,7 @@ type, height and quantity of plants that can be grown in planter boxes on balcon
 
 colour and inclination of awnings. [note: 58] The plaintiff has quite reasonably taken the position that any renovations which affect the aesthetic uniformity of The Arcadia’s façade “may also impact on 
 
-[the] good image [and] prestige of an upscale and prestigious estate in [The Arcadia]”. [note: 59] A lack of uniformity may, in the long term, have a detrimental effect on the value of the flats in a development (see _Management Corporation Strata Title Plan No 1786 v Huang Hsiang Shui_ [2006] SGDC 20 at [221] and _Strata Title in Singapore and Malaysia_ at para 10.96). 
+[the] good image [and] prestige of an upscale and prestigious estate in [The Arcadia]”. [note: 59] A lack of uniformity may, in the long term, have a detrimental effect on the value of the flats in a development (see _Management Corporation Strata Title Plan No 1786 v Huang Hsiang Shui_ <span class="citation">[2006] SGDC 20</span> at [221] and _Strata Title in Singapore and Malaysia_ at para 10.96). 
 
 92     Because s 37(4)( _a_ ) of the Act was not satisfied, the plaintiff was not empowered to authorise the Works under s 37(4) of the Act. The result is that any oral approval which the condominium manager may have given to Mr Joseph Ngo before the defendant’s renovations commenced was not authorisation within the meaning of s 37(4). The defendant is therefore in breach of s 37(3) of the Act in addition to being in breach of the by-laws. 
 
@@ -521,7 +521,7 @@ colour and inclination of awnings. [note: 58] The plaintiff has quite reasonably
 
 **_The claim under s 37(3) of the Act_** 
 
-94     The defendant cannot rely on estoppel by convention as a defence to the plaintiff’s claim for breach of s 37(3) of the Act. That is because the doctrine of estoppel by convention can be raised only against a contractual claim and not against a statutory claim: _Management Corporation Strata Title Plan No 473 v De Beers Jewellery Pte Ltd_ [2002] 1 SLR(R) 418 (“ _De Beers_ ”) at [44]. 
+94     The defendant cannot rely on estoppel by convention as a defence to the plaintiff’s claim for breach of s 37(3) of the Act. That is because the doctrine of estoppel by convention can be raised only against a contractual claim and not against a statutory claim: _Management Corporation Strata Title Plan No 473 v De Beers Jewellery Pte Ltd_ <span class="citation">[2002] 1 SLR(R) 418</span> (“ _De Beers_ ”) at [44]. 
 
 95     Although s 37(3) imposes an obligation on a subsidiary proprietor, it makes no provision for the consequence which follows if a subsidiary proprietor fails to comply with that obligation. In particular, the Act does not provide that a management corporation can obtain a mandatory injunction from the court (as opposed to an order from the Strata Titles Board under s 101(1)) requiring the subsidiary proprietor to remove improvements carried out in breach of s 37(3) and reinstate his strata title lot to its original condition. Both counsel accept, however, that I have the power by accretion of judicial 
 
@@ -538,7 +538,7 @@ decision to grant a mandatory injunction to remedy a breach of s 37 of the Act. 
 
 by-laws. 
 
-99     The defendant will establish an estoppel by convention if she can show the following elements ( _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ [2008] 2 SLR(R) 474 at [31]): 
+99     The defendant will establish an estoppel by convention if she can show the following elements ( _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ <span class="citation">[2008] 2 SLR(R) 474</span> at [31]): 
 
  (a) the parties have acted on an assumed and incorrect state of fact or law in their course of dealing; 
 
@@ -546,7 +546,7 @@ by-laws.
 
  (c) it must be unjust or unconscionable to allow the parties (or one of them) to go back on that assumption. 
 
-If an estoppel by convention is established, the courts will grant such remedy as the equity of the case demands: _Quah Poh Hoe Peter v Probo Pacific Leasing Pte Ltd_ [1992] 3 SLR(R) 400 at [22], citing _Amalgamated Investment & Property Co Ltd (in liquidation) v Texas Commerce International Bank Ltd_ [1982] QB 84 at 122. 
+If an estoppel by convention is established, the courts will grant such remedy as the equity of the case demands: _Quah Poh Hoe Peter v Probo Pacific Leasing Pte Ltd_ <span class="citation">[1992] 3 SLR(R) 400</span> at [22], citing _Amalgamated Investment & Property Co Ltd (in liquidation) v Texas Commerce International Bank Ltd_ [1982] QB 84 at 122. 
 
 100    The defendant has failed to establish that an estoppel by convention has arisen which 
 
@@ -608,7 +608,7 @@ windows without prior written approval, contrary to the estate’s by-laws. The 
 
 113    First, it remains the case that the plaintiff is in breach of both s 37(3) of the Act and of the contract with the plaintiff embodied in the plaintiff’s by-laws. It may be true that the defendant’s breach does not arise from fault on her part. But lack of fault is no defence to either the statutory claim or the contractual claim. Withholding a mandatory injunction on grounds of lack of fault would elevate absence of fault into a substantive defence. That would undermine the entire scheme of the Act and of the statutory contract constituted by the by-laws. 
 
-114    Second, on the defendant’s side of the balance, the only hardship which granting a mandatory injunction would impose on her is the financial hardship of the cost of reinstating the balcony. Financial hardship is insufficient hardship in itself for a court to withhold the remedy of a mandatory injunction where a breach is established: _The Management Corporation Strata Title Plan No. 681 v Tan Yew Huat_ [2015] SGDC 118 at [29(a)]. 
+114    Second, on the defendant’s side of the balance, the only hardship which granting a mandatory injunction would impose on her is the financial hardship of the cost of reinstating the balcony. Financial hardship is insufficient hardship in itself for a court to withhold the remedy of a mandatory injunction where a breach is established: _The Management Corporation Strata Title Plan No. 681 v Tan Yew Huat_ <span class="citation">[2015] SGDC 118</span> at [29(a)]. 
 
 115    Third, on the plaintiff’s side of the balance, I have found that the variance in the façade presented by the defendant’s balcony is not _de minimis_ and does detract from the aesthetics and the uniformity of the façade of The Arcadia as a whole. I accept that aesthetic uniformity is of paramount concern to the subsidiary proprietors in The Arcadia. They have manifested this concern generally through the plaintiff’s by-laws (see [91] above). They have also manifested this concern specifically in the context of this case by the unanimous resolution passed at the 32nd Annual General Meeting in 2017 (see [18] above). They have followed through on the resolution with every one of the five strata title lots which have caused a variance in the façade. The plaintiff is not pursuing the defendant capriciously or arbitrarily. It has a legitimate interest in doing so and is treating the affected subsidiary proprietors equally. 
 

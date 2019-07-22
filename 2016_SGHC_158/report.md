@@ -40,7 +40,7 @@ _Civil Procedure_ – _Discovery of documents_ – _Application_
 9       The plaintiffs appealed for an order to reverse AR Fang’s orders. The real question is why were the plaintiffs before AR Fang and now before me so convinced that the documents were relevant and discoverable? The crux of the plaintiffs’ claim in this appeal is that the defendants (either all or some of them) represented that they will raise funds in the sum of US$50m towards the “exploration and development of the Libyan concession” and that the documents requested were necessary and relevant in showing that. 
 
 
-10     With regard to the first category of documents, I note that both parties accept the confidential nature of arbitral awards but recognise that there may be exceptions to such a bar of confidentiality. For instance, such confidentiality would not apply to a party in litigation seeking discovery of documents generated in an arbitration if a court considers it relevant and necessary for the fair disposal of the case ( _AAY v AAZ_ [2011] 1 SLR 1093 at [53]). In that respect, the plaintiffs rely on 
+10     With regard to the first category of documents, I note that both parties accept the confidential nature of arbitral awards but recognise that there may be exceptions to such a bar of confidentiality. For instance, such confidentiality would not apply to a party in litigation seeking discovery of documents generated in an arbitration if a court considers it relevant and necessary for the fair disposal of the case ( _AAY v AAZ_ <span class="citation">[2011] 1 SLR 1093</span> at [53]). In that respect, the plaintiffs rely on 
 
 Raymond Pribadi’s (“Pribadi”) 15th affidavit deposing that “the arbitration tribunal had held that the 
 

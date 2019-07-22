@@ -49,7 +49,7 @@ The respondent claimed that registration of the MacCoffee mark would be contrary
 
  there exists a likelihood of confusion on the part of the public. 
 
-6       The parties had been engaged in litigation before, represented by the same firms of solicitors here. In 1994 and 1995, the appellant applied for registration of its MacCoffee and eagle device for instant coffee mix, its MacNoodles and eagle device for instant noodles, its MacChocolate and eagle device for instant cocoa mix and its MacTea and eagle device for instant tea mix. The MacCoffee and eagle device was registered without opposition. However, the other three marks were opposed by the respondent. The respondent’s opposition failed before a PAR and in the High Court and eventually in the Court of Appeal (see _McDonald’s Corp v Future Enterprises Pte Ltd_ [2005] 1 SLR 177) (“ _the MacTea opposition_ ”). In the present opposition, the equivalent of s 8(2)( _b_ ) of the TMA 1998 under the previous Trade Marks Act (Cap 332, 1992 Rev Ed) (s 23 thereof) was not pursued before the Court of Appeal. 
+6       The parties had been engaged in litigation before, represented by the same firms of solicitors here. In 1994 and 1995, the appellant applied for registration of its MacCoffee and eagle device for instant coffee mix, its MacNoodles and eagle device for instant noodles, its MacChocolate and eagle device for instant cocoa mix and its MacTea and eagle device for instant tea mix. The MacCoffee and eagle device was registered without opposition. However, the other three marks were opposed by the respondent. The respondent’s opposition failed before a PAR and in the High Court and eventually in the Court of Appeal (see _McDonald’s Corp v Future Enterprises Pte Ltd_ <span class="citation">[2005] 1 SLR 177</span>) (“ _the MacTea opposition_ ”). In the present opposition, the equivalent of s 8(2)( _b_ ) of the TMA 1998 under the previous Trade Marks Act (Cap 332, 1992 Rev Ed) (s 23 thereof) was not pursued before the Court of Appeal. 
 
 7       The issues before me are: 
 
@@ -61,7 +61,7 @@ The respondent claimed that registration of the MacCoffee mark would be contrary
 
 **Whether the marks are similar** 
 
-8       When comparing trade marks, one considers their visual, aural and conceptual similarities (see: Andrew Ang J in _Richemont International SA v Goldlion Enterprise (Singapore) Pte Ltd_ [2006] 1 SLR 401 at [8], citing _Lloyd Schuhfabrik Meyer & Co GmbH v Klijsen Handel BV_ [2000] FSR 77 at 84). One judges them by their look and their sound (see: _In the Matter of an Application by the Pianotist Company Ld for the Registration of a Trade Mark_ (1906) 23 RPC 774 (“the _Pianotist_ case”)). 
+8       When comparing trade marks, one considers their visual, aural and conceptual similarities (see: Andrew Ang J in _Richemont International SA v Goldlion Enterprise (Singapore) Pte Ltd_ <span class="citation">[2006] 1 SLR 401</span> at [8], citing _Lloyd Schuhfabrik Meyer & Co GmbH v Klijsen Handel BV_ [2000] FSR 77 at 84). One judges them by their look and their sound (see: _In the Matter of an Application by the Pianotist Company Ld for the Registration of a Trade Mark_ (1906) 23 RPC 774 (“the _Pianotist_ case”)). 
 
 9       In assessing the visual similarity between the two marks, the PAR said (at [46] and [47] of her grounds of decision ( _Future Enterprises Pte Ltd v McDonald’s Corp_ [2005] SGIPOS 21)): 
 
@@ -91,7 +91,7 @@ The respondent claimed that registration of the MacCoffee mark would be contrary
 
 14     The concept between the two marks is similar. Whether they relate to the beverage or the place where such beverage is sold and consumed, the idea of coffee is evoked in the minds of the public. 
 
-15     Looking at the three hallmarks of similarity, I agree with the PAR that the two marks in issue are similar. It is true that the courts are wary of allowing companies to monopolise words that are either purely descriptive or used in everyday parlance (see: _The Polo/Lauren Co, LP v Shop-In Department Store Pte Ltd_ [2006] 2 SLR 690 at [11]). However, the analysis here is not about the common words “café” and “coffee”. We are here concerned about two words invented by the injection of a prefix to them and which, by themselves, have no known meaning in the English language. 
+15     Looking at the three hallmarks of similarity, I agree with the PAR that the two marks in issue are similar. It is true that the courts are wary of allowing companies to monopolise words that are either purely descriptive or used in everyday parlance (see: _The Polo/Lauren Co, LP v Shop-In Department Store Pte Ltd_ <span class="citation">[2006] 2 SLR 690</span> at [11]). However, the analysis here is not about the common words “café” and “coffee”. We are here concerned about two words invented by the injection of a prefix to them and which, by themselves, have no known meaning in the English language. 
 
 **Whether the goods of both parties are similar** 
 

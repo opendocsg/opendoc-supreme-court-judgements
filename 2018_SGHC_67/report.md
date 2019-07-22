@@ -310,7 +310,7 @@ position he had taken in the long statements which he provided to CNB. [note: 82
 
 **_The case against Kay Yong_** 
 
-37     Bearing in mind that the presumptions in ss 17 and 18 of the MDA could not be applied conjunctively ( _Tang Hai Liang v Public Prosecutor_ [2011] SGCA 38 at [18]–[19], the Prosecution advanced two alternative cases for making out the offence of possession for the purpose of trafficking against Kay Yong. 
+37     Bearing in mind that the presumptions in ss 17 and 18 of the MDA could not be applied conjunctively ( _Tang Hai Liang v Public Prosecutor_ <span class="citation">[2011] SGCA 38</span> at [18]–[19], the Prosecution advanced two alternative cases for making out the offence of possession for the purpose of trafficking against Kay Yong. 
 
 _The primary case_ 
 
@@ -394,7 +394,7 @@ for the offence of possession for the purpose of trafficking.
 
 48     In response to the Prosecution’s primary case, the Defence argued that, without relying on the presumption in s 18(1) of the MDA, the Prosecution could not establish that Kay Yong was in 
 
-possession of the drugs. [note: 101] In this regard, the Defence cited _Tan Kiam Peng v PP_ [2008] 1 SLR(R) 1 (“ _Tan Kiam Peng_ ”) for the proposition that a person is not in possession of a thing if he or she believes it “to be something of a wholly different nature” (at [50]). The Defence submitted that, since Kay Yong had met with Mazlan expecting to repay a debt and to receive a debt book, Kay Yong believed that the Plastic Bag contained a debt book. The most that could be said was that he may have suspected that the Plastic Bag contained drugs, but suspicion was insufficient to establish the 
+possession of the drugs. [note: 101] In this regard, the Defence cited _Tan Kiam Peng v PP_ <span class="citation">[2008] 1 SLR(R) 1</span> (“ _Tan Kiam Peng_ ”) for the proposition that a person is not in possession of a thing if he or she believes it “to be something of a wholly different nature” (at [50]). The Defence submitted that, since Kay Yong had met with Mazlan expecting to repay a debt and to receive a debt book, Kay Yong believed that the Plastic Bag contained a debt book. The most that could be said was that he may have suspected that the Plastic Bag contained drugs, but suspicion was insufficient to establish the 
 
 mental element of possession. [note: 102] For similar reasons, the Defence argued that Kay Yong also did not have the requisite knowledge of the nature of the drugs. It was further submitted that even on the Prosecution’s _alternative_ case – which relied on the presumptions in ss 18(1) and 18(2) of the MDA, Kay Yong had raised sufficient evidence to rebut the presumptions of possession and knowledge on a balance of probabilities. 
 
@@ -433,7 +433,7 @@ constituting “trafficking” within the definition in s 2 of the MDA. [note: 1
 
 **_The law on possession of a controlled drug for the purpose of trafficking_** 
 
-54     In _Masoud Rahimi bin Mehrzad v PP and another appeal_ [2017] 1 SLR 257 at [28], the Court of Appeal noted that the elements of the offence of possession of a controlled drug for the purpose of trafficking are as follows: 
+54     In _Masoud Rahimi bin Mehrzad v PP and another appeal_ <span class="citation">[2017] 1 SLR 257</span> at [28], the Court of Appeal noted that the elements of the offence of possession of a controlled drug for the purpose of trafficking are as follows: 
 
  (a) Possession of a controlled drug – which may be proved or presumed pursuant to s 18(1) of the MDA. 
 
@@ -441,7 +441,7 @@ constituting “trafficking” within the definition in s 2 of the MDA. [note: 1
 
  (c) Proof that possession of the drug was for the purpose of trafficking which was not authorised. 
 
-55     The final element of the offence – _ie_ , that the accused must have possessed the drugs for the purpose of trafficking – may also be established pursuant to the presumption concerning trafficking in s 17 of the MDA (“the presumption concerning trafficking”). I note that the quantity of diamorphine in issue was 18.71g, which is clearly in excess of the 2g of diamorphine required to raise the presumption concerning trafficking in s 17(c) of the MDA. However, as the Prosecution readily acknowledged (see [37] above), whether the Prosecution could avail itself of the presumption concerning trafficking was subject to the rule that the Prosecution may not rely on both the presumptions in ss 17 and 18 of the MDA conjunctively ( _Tang Hai Liang v PP_ [2011] SGCA 38 at [18]– [19]). 
+55     The final element of the offence – _ie_ , that the accused must have possessed the drugs for the purpose of trafficking – may also be established pursuant to the presumption concerning trafficking in s 17 of the MDA (“the presumption concerning trafficking”). I note that the quantity of diamorphine in issue was 18.71g, which is clearly in excess of the 2g of diamorphine required to raise the presumption concerning trafficking in s 17(c) of the MDA. However, as the Prosecution readily acknowledged (see [37] above), whether the Prosecution could avail itself of the presumption concerning trafficking was subject to the rule that the Prosecution may not rely on both the presumptions in ss 17 and 18 of the MDA conjunctively ( _Tang Hai Liang v PP_ <span class="citation">[2011] SGCA 38</span> at [18]– [19]). 
 
 **_Was Kay Yong in possession of the drugs?_** 
 
@@ -449,10 +449,10 @@ _Actual possession_
 
 56     I first address the Prosecution’s primary case, which was that the evidence was sufficient to prove that Kay Yong was in possession of the drugs without relying on the presumption in s 18 of the MDA. 
 
-57     As noted by the Court of Appeal in _Hishamrudin bin Mohd v PP_ [2017] SGCA 41(“ _Hishamrudin_ ”) 
+57     As noted by the Court of Appeal in _Hishamrudin bin Mohd v PP_ <span class="citation">[2017] SGCA 41</span>(“ _Hishamrudin_ ”) 
 
 
-at [18], two elements must be satisfied in order to prove actual possession: (a) that the accused person had physical control over the controlled drugs; and (b) that the accused person knew of the nature of the controlled drugs. Knowledge of “the nature of the controlled drugs” in this context refers to knowledge that the items _were controlled drugs_ , and not knowledge of the _specific nature_ of the drug in question ( _Hishamrudin_ at [18], citing _Fun Seong Cheng v PP_ [1997] 2 SLR 796 at [53]– [56] and _Tan Kiam Peng v PP_ [2008] 1 SLR(R) 1 at [87]). It is trite that if the Prosecution does not avail itself of the presumption of possession in s 18(1) of the MDA, it must prove the elements of possession beyond reasonable doubt (see for instance _Hishamrudin_ at [16]). 
+at [18], two elements must be satisfied in order to prove actual possession: (a) that the accused person had physical control over the controlled drugs; and (b) that the accused person knew of the nature of the controlled drugs. Knowledge of “the nature of the controlled drugs” in this context refers to knowledge that the items _were controlled drugs_ , and not knowledge of the _specific nature_ of the drug in question ( _Hishamrudin_ at [18], citing _Fun Seong Cheng v PP_ <span class="citation">[1997] 2 SLR 796</span> at [53]– [56] and _Tan Kiam Peng v PP_ <span class="citation">[2008] 1 SLR(R) 1</span> at [87]). It is trite that if the Prosecution does not avail itself of the presumption of possession in s 18(1) of the MDA, it must prove the elements of possession beyond reasonable doubt (see for instance _Hishamrudin_ at [16]). 
 
 58     The Defence did not dispute, and I was satisfied, that Kay Yong was in physical control of the 
 
@@ -464,13 +464,13 @@ Plastic Bag as he fled from the CNB officers, [note: 115] releasing it only afte
 
 59     The key question concerned the second element of possession – _ie_ , whether the Prosecution had proven beyond a reasonable doubt that Kay Yong knew that the contents of the Plastic Bag consisted of controlled drugs. Having weighed the evidence, I was of the view that this question should be answered in the affirmative. 
 
-60     The Court of Appeal recently made the following observations in _Harven a/l Segar v PP_ [2017] 1 SLR 771 (“ _Harven_ ”) at [17]: 
+60     The Court of Appeal recently made the following observations in _Harven a/l Segar v PP_ <span class="citation">[2017] 1 SLR 771</span> (“ _Harven_ ”) at [17]: 
 
  In every instance where an accused claims that he did not know that what he was carrying contained drugs, the court will have to carefully scrutinise all the pertinent facts – this being a highly fact-sensitive inquiry – in determining whether he has discharged the burden of rebutting the presumption of knowledge, including ( inter alia ) his background, how he received the drugs, how they were packed and how he handled or dealt with them. Ultimately, what the court is concerned with is the credibility and veracity of the accused’s account and how believable that account is. 
 
 61     The above remarks were clearly made in a different context where the Court of Appeal was concerned with whether or not the accused had managed to rebut the _presumption of knowledge_ under s 18(2) of the MDA. Nevertheless, I consider that the same principles are applicable where the Prosecution seeks to prove that the accused had _actual_ knowledge that an item in his physical control was a controlled drug, and the accused claims that he did not know that what he was carrying contained a controlled drug. That is, the court must “scrutinise all the pertinent facts”, including the accused’s background and how he received the drugs, to assess “the credibility and veracity of the accused’s account”. These principles are applicable to my assessment of whether the evidence was sufficient to prove beyond reasonable doubt that Kay Yong knew that the Plastic Bag he was carrying contained a controlled drug. 
 
-62     Proof beyond reasonable doubt does not require the Prosecution to meet a standard of absolute certainty ( _Mohammed Ali bin Johari v PP_ [2008] 5 SLR(R) 1058 (“ _Mohammed Ali Bin Johari_ ”) at [84], citing _Jagatheesan s/o Krishnasamy v PP_ [2006] 4 SLR(R) 45). However, the evidence must be such that it excludes “material” or “real” doubts. “Merely fanciful” doubts or “fanciful or remote possibilities” may be disregarded ( _Mohammed Ali Bin Johari_ at [82] and [83]). 
+62     Proof beyond reasonable doubt does not require the Prosecution to meet a standard of absolute certainty ( _Mohammed Ali bin Johari v PP_ <span class="citation">[2008] 5 SLR(R) 1058</span> (“ _Mohammed Ali Bin Johari_ ”) at [84], citing _Jagatheesan s/o Krishnasamy v PP_ <span class="citation">[2006] 4 SLR(R) 45</span>). However, the evidence must be such that it excludes “material” or “real” doubts. “Merely fanciful” doubts or “fanciful or remote possibilities” may be disregarded ( _Mohammed Ali Bin Johari_ at [82] and [83]). 
 
 63     I was essentially faced with two different narratives. The first narrative was the Prosecution’s 
 
@@ -481,25 +481,25 @@ Plastic Bag as he fled from the CNB officers, [note: 115] releasing it only afte
 
  Purity 
 
- 1 PP v Pandian a/l Subramaniam [2017] SGHC 55 
+ 1 PP v Pandian a/l Subramaniam <span class="citation">[2017] SGHC 55</span> 
 
  1,152.10g 40.53g 3.52% 
 
- 2 PP v Abdul Wahid bin Ismail [2017] SGHC 87 1343.40g 46.64g 3.47% 
+ 2 PP v Abdul Wahid bin Ismail <span class="citation">[2017] SGHC 87</span> 1343.40g 46.64g 3.47% 
 
- 3 PP v Suhaimi bin Said [2017] SGHC 86 1747.04g 45.58g 2.61% 
+ 3 PP v Suhaimi bin Said <span class="citation">[2017] SGHC 86</span> 1747.04g 45.58g 2.61% 
 
- 4 PP v Ng Peng Chong and another [2017] SGHC 99 
+ 4 PP v Ng Peng Chong and another <span class="citation">[2017] SGHC 99</span> 
 
  902.80g 21.58g 2.39% 
 
- 5 PP v Zamri Bin Mohd Tahir [2017] SGHC 79 1835.50g 40.37g 2.20% 
+ 5 PP v Zamri Bin Mohd Tahir <span class="citation">[2017] SGHC 79</span> 1835.50g 40.37g 2.20% 
 
- 6 PP v Abd Helmi bin Ab Halim [2017] SGHC 134 
+ 6 PP v Abd Helmi bin Ab Halim <span class="citation">[2017] SGHC 134</span> 
 
  452.00g 16.56g 3.66% 
 
- 7 PP v Pannir Selvam Pranthaman [2017] SGHC 144 
+ 7 PP v Pannir Selvam Pranthaman <span class="citation">[2017] SGHC 144</span> 
 
  1833.20g 51.84g 2.83% 
 
@@ -518,7 +518,7 @@ were the subject of the charge. [note: 117] It was suggested that the drugs foun
 given that over 400g of granular substance only yielded 18.71g of diamorphine. [note: 118] I was not persuaded by this. No evidence was led concerning the purity of the heroin concerned relative to what is normally available in Singapore. I took judicial notice of the fact that heroin is normally sold as a mixture of diamorphine and other substances. The purity of the heroin found in Kay Yong’s possession was about 4.07%. From the table below of reported recent cases involving heroin, such a level of purity is not at all incongruous with the norm: 
 
 
- 8 PP v Dominic Martin Fernandez and another [2017] SGHC 226 
+ 8 PP v Dominic Martin Fernandez and another <span class="citation">[2017] SGHC 226</span> 
 
  906.40g 35.41g 3.91% 
 
@@ -609,7 +609,7 @@ _Presumed possession and knowledge_
 
 83     Although it was not necessary, in light of my findings on actual possession, to consider the question of the presumption in s 18(1)( _a_ ) of the MDA on the Prosecution’s alternative case, for completeness, I should state that the presumption of possession clearly did arise in the present case, and was not successfully rebutted. 
 
-84     Under s 18(1)( _a_ ) of the MDA, a person who is proved to have had in his possession, custody or control “anything containing a controlled drug” is presumed to have had that drug in his possession until the contrary is proved. As noted by the Court of Appeal in _Obeng Comfort v PP_ [2017] 1 SLR 633 (“ _Obeng Comfort”_ ) at [34], in order to raise the presumption of possession under s 18(1) of the MDA, two elements must be satisfied: (a) the “container containing a controlled drug” must exist; and (b) the accused must have had possession, control or custody of such container. The accused need not know that the item is a controlled drug ( _Obeng Comfort_ at [34]). Once the accused is proved or presumed to have had a controlled drug in his possession, he is then presumed to know the _nature_ of that drug under s 18(2) of the MDA – which refers to the nature of the specific controlled drug found in his possession ( _Obeng Comfort_ at [35], citing _Nagaenthran a/l K Dharmalingam v PP_ [2011] 4 SLR 1156 (“ _Nagaenthran_ ”) at [23]–[24]). 
+84     Under s 18(1)( _a_ ) of the MDA, a person who is proved to have had in his possession, custody or control “anything containing a controlled drug” is presumed to have had that drug in his possession until the contrary is proved. As noted by the Court of Appeal in _Obeng Comfort v PP_ <span class="citation">[2017] 1 SLR 633</span> (“ _Obeng Comfort”_ ) at [34], in order to raise the presumption of possession under s 18(1) of the MDA, two elements must be satisfied: (a) the “container containing a controlled drug” must exist; and (b) the accused must have had possession, control or custody of such container. The accused need not know that the item is a controlled drug ( _Obeng Comfort_ at [34]). Once the accused is proved or presumed to have had a controlled drug in his possession, he is then presumed to know the _nature_ of that drug under s 18(2) of the MDA – which refers to the nature of the specific controlled drug found in his possession ( _Obeng Comfort_ at [35], citing _Nagaenthran a/l K Dharmalingam v PP_ <span class="citation">[2011] 4 SLR 1156</span> (“ _Nagaenthran_ ”) at [23]–[24]). 
 
 85     There was no doubt that the Plastic Bag was a “container containing a controlled drug” and that it was within Kay Yong’s possession, custody and control (for the reasons stated at [58] above, concerning Kay Yong’s physical control of the Plastic Bag). For the same reasons stated at [65]–[80] above, the presumption of possession was not rebutted. Thus, on the Prosecution’s alternative case, Kay Yong would be presumed to be in possession of the drugs and to have knowledge of their specific nature. 
 
@@ -640,13 +640,13 @@ for the purpose of trafficking. [note: 137] Having found that Kay Yong had _orde
 
 91     For the reasons that follow, I was of the view that Kay Yong had failed to rebut the presumption concerning trafficking. 
 
-92     As noted by the Court of Appeal in _Muhammad bin Abdullah v PP and another appeal_ [2017] 1 SLR 427 (“ _Muhammad bin Abdullah_ ”) at [29], where an accused relies on the defence of own consumption to rebut the presumption of possession for the purpose of trafficking, the court considers the overall circumstances of the case. The factors which the courts have taken into account include: 
+92     As noted by the Court of Appeal in _Muhammad bin Abdullah v PP and another appeal_ <span class="citation">[2017] 1 SLR 427</span> (“ _Muhammad bin Abdullah_ ”) at [29], where an accused relies on the defence of own consumption to rebut the presumption of possession for the purpose of trafficking, the court considers the overall circumstances of the case. The factors which the courts have taken into account include: 
 
- (a) Evidence concerning the accused’s rate of consumption and the number of days the supply is meant for ( Jusri bin Mohamed Hussain v PP [1996] 2 SLR(R) 706 at [62]–[63]). 
+ (a) Evidence concerning the accused’s rate of consumption and the number of days the supply is meant for ( Jusri bin Mohamed Hussain v PP <span class="citation">[1996] 2 SLR(R) 706</span> at [62]–[63]). 
 
- (b) The frequency of supply available to the accused ( PP v Muhammad bin Abdullah [2015] SGHC 231 (“ Muhammad bin Abdullah HC ”) at [19]). 
+ (b) The frequency of supply available to the accused ( PP v Muhammad bin Abdullah <span class="citation">[2015] SGHC 231</span> (“ Muhammad bin Abdullah HC ”) at [19]). 
 
- (c) Whether the accused had the financial means to purchase the drugs for himself ( Muhammad bin Abdullah at [31] citing PP v Kwek Seow Hock [2009] SGHC 202 at [73]). 
+ (c) Whether the accused had the financial means to purchase the drugs for himself ( Muhammad bin Abdullah at [31] citing PP v Kwek Seow Hock <span class="citation">[2009] SGHC 202</span> at [73]). 
 
 93     It was clear that Kay Yong _was_ consuming heroin at the time of the offence. The IMH psychiatrist who examined Kay Yong, Dr Ng Lin Chieh, diagnosed him as suffering from Severe Opioid 
 
@@ -692,7 +692,7 @@ that he would have retained for his own consumption. While in oral evidence he s
 
 101    Accordingly, I convicted Mazlan on the charge. The only issue was whether or not Mazlan was eligible to be sentenced under s 33B(1)( _a_ ) of the MDA, which affords the court the discretion to impose the sentence of life imprisonment and caning in lieu of the death penalty. 
 
-102    Both the requirements in s 33B(2)( _a_ ) and s 33B(2)( _b_ ) must be satisfied in order for an accused to be eligible to be sentenced under s 33B(1)( _a_ ) of the MDA ( _PP v Christeen d/o Jayamany and another_ [2015] SGHC 126 (“ _Christeen_ ”) at [46]). 
+102    Both the requirements in s 33B(2)( _a_ ) and s 33B(2)( _b_ ) must be satisfied in order for an accused to be eligible to be sentenced under s 33B(1)( _a_ ) of the MDA ( _PP v Christeen d/o Jayamany and another_ <span class="citation">[2015] SGHC 126</span> (“ _Christeen_ ”) at [46]). 
 
 103    Under s 33B(2)( _a_ ) of the MDA, Mazlan would have to prove on a balance of probabilities that his involvement in the offence under s 5(1) of the MDA was restricted to transporting, sending or delivering a controlled drug – in other words, that he was a mere courier. The factors relevant to the analysis of whether an accused is a mere courier were summarised by Tay Yong Kwang J in _Christeen_ at [68]: 
 

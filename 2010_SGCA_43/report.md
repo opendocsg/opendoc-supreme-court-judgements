@@ -20,7 +20,7 @@ _Copyright_ – _Infringement_
 
 _Words and Phrases_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2010] 2 SLR 152.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2010] 2 SLR 152</span>.] 
 
 1 December 2010 Judgment reserved. 
 
@@ -55,7 +55,7 @@ _Words and Phrases_
 
  Correspondent’s Diary 
 
-relevant provisions of the Copyright Act (Cap 63, 2006 Rev Ed). His detailed reasons can be found in _RecordTV Pte Ltd v MediaCorp TV Singapore Pte Ltd and others_ [2010] 2 SLR 152 (“the Judgment”). 
+relevant provisions of the Copyright Act (Cap 63, 2006 Rev Ed). His detailed reasons can be found in _RecordTV Pte Ltd v MediaCorp TV Singapore Pte Ltd and others_ <span class="citation">[2010] 2 SLR 152</span> (“the Judgment”). 
 
 **The facts** 
 
@@ -318,7 +318,7 @@ We now turn to the Third Issue, namely, whether RecordTV authorised “the doing
 
 _The concept of authorisation liability_ 
 
-43     The concept of authorisation liability in s 103(1) extends the rights of copyright owners to cover acts of persons which are related, in some way, to an infringement of copyright. In _Ong Seow Pheng and others v Lotus Development Corp and another_ [1997] 2 SLR(R) 113 (“ _Ong Seow Pheng_ ”), this court held (at [27]) that the word “authorise” meant to grant or purport to grant, whether expressly or impliedly, to a third person the right to do the act complained of, regardless of whether the intention was that the grantee should do the act on his own account or only on account of the grantor. The court also said (which we reaffirm) that authorisation could only emanate from someone having or purporting to have authority to grant the right to do the act complained of; an act was not authorised by a person who merely enabled, possibly assisted or even encouraged another to do that act, but who did not actually have or who did not purport to have any authority which he could grant to justify the doing of that act (see _Ong Seow Pheng_ at [28]). 
+43     The concept of authorisation liability in s 103(1) extends the rights of copyright owners to cover acts of persons which are related, in some way, to an infringement of copyright. In _Ong Seow Pheng and others v Lotus Development Corp and another_ <span class="citation">[1997] 2 SLR(R) 113</span> (“ _Ong Seow Pheng_ ”), this court held (at [27]) that the word “authorise” meant to grant or purport to grant, whether expressly or impliedly, to a third person the right to do the act complained of, regardless of whether the intention was that the grantee should do the act on his own account or only on account of the grantor. The court also said (which we reaffirm) that authorisation could only emanate from someone having or purporting to have authority to grant the right to do the act complained of; an act was not authorised by a person who merely enabled, possibly assisted or even encouraged another to do that act, but who did not actually have or who did not purport to have any authority which he could grant to justify the doing of that act (see _Ong Seow Pheng_ at [28]). 
 
 44     Furthermore, in order for the authorisation of the doing of an act to be a tort, the act authorised must be an act restricted by the copyright. As Hoffmann LJ said at 660 of _ABKCO Music & Records Inc v Music Collection International Limited and Another_ [1995] RPC 657 (“ _ABKCO_ ”): 
 

@@ -22,7 +22,7 @@ _Arbitration_ – _Agreement_ – _Validity of arbitration agreement_ – _Wheth
 
 **Introduction** 
 
-1       This was an appeal against the decision of the High Court in Originating Summons No 13 of 2008 on the novel and important legal issue of whether an arbitration agreement may validly provide for _one_ arbitral institution to administer an arbitration under the rules of _another_ arbitral institution (see _Insigma Technology Co Ltd v Alstom Technology Ltd_ [2009] 1 SLR 23 (“the Judgment”)). 
+1       This was an appeal against the decision of the High Court in Originating Summons No 13 of 2008 on the novel and important legal issue of whether an arbitration agreement may validly provide for _one_ arbitral institution to administer an arbitration under the rules of _another_ arbitral institution (see _Insigma Technology Co Ltd v Alstom Technology Ltd_ <span class="citation">[2009] 1 SLR 23</span> (“the Judgment”)). 
 
 2       In those proceedings, Insigma Technology Co Limited (“Insigma”) had applied to set aside the decision of the arbitral tribunal (“the Tribunal”) constituted by the Singapore International Arbitration Centre (“SIAC”) (see [20] below) in Arbitration No 087 of 2006 (“the Decision”), that it had jurisdiction to hear the arbitration between Alstom Technology Limited (“Alstom”) and Insigma, on the grounds that the Tribunal lacked such jurisdiction and that the arbitration agreement between the parties was inoperative for uncertainty. The High Court dismissed Insigma’s application, leading to this appeal. At the end of the hearing before us, we dismissed the appeal and awarded indemnity costs against Insigma. We now give our reasons for doing so. 
 
@@ -134,7 +134,7 @@ On 10 December 2007, the Tribunal rendered the Decision.
 
  (a) In view of the “strong international public policy ... in favour of the arbitration of international commercial disputes” (at [87] of the Decision), the Tribunal must make every reasonable effort to give effect to the Arbitration Agreement. 
 
- (b) The Arbitration Agreement was not contrary to the law as “the rules of an arbitral institution can be legally divorced from the administration of an arbitration by that institution” (at [104]) (citing Bovis Lend Lease Pte Ltd v Jay-Tech Marine & Projects Pte Ltd [2005] SGHC 91 (“ Bovis Lend Lease ”)). 
+ (b) The Arbitration Agreement was not contrary to the law as “the rules of an arbitral institution can be legally divorced from the administration of an arbitration by that institution” (at [104]) (citing Bovis Lend Lease Pte Ltd v Jay-Tech Marine & Projects Pte Ltd <span class="citation">[2005] SGHC 91</span> (“ Bovis Lend Lease ”)). 
 
  (c) The Arbitration Agreement was not inoperable due to a lack of capacity on the part of the SIAC to administer an arbitration conducted under the ICC Rules, and the SIAC was capable of administering the arbitration in accordance with the Arbitration Agreement, performing mutatis mutandis the functions assigned by the ICC Rules to the ICC by the various institutions it had 
 

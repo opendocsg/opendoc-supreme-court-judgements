@@ -16,7 +16,7 @@
 
 _FAMILY LAW_ – _Ancillary Matters_ – _Maintenance of former wife_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 58 of 2011 was allowed by the Court of Appeal on 18 January 2012. See [2012] SGCA 15.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 58 of 2011 was allowed by the Court of Appeal on 18 January 2012. See <span class="citation">[2012] SGCA 15</span>.] 
 
 12 September 2011 
 
@@ -72,7 +72,7 @@ ordered by the court, it should be no more than $21,160 [note: 1] on a lump sum 
 
  (a) At most, the defendant should only be required to provide the plaintiff with maintenance to rent a room. The defendant submitted that an average room rental in a Housing Development Board (“HDB”) flat is about $575 per month. [note: 2] 
 
- (b) Given that the defendant has since retired, the decision in Yow Mee Lan v Chen Kai Buan [2000] 2 SLR(R) 659 where Prakash J at [97] held that “the wife cannot expect to be maintained at the same standard after the husband retires”, and that any maintenance should be halved after the husband’s retirement, should be followed such that, in this case, the maintenance should be half of the monthly room rental, ie , $287.50 which the defendant rounded up to $ per month. 
+ (b) Given that the defendant has since retired, the decision in Yow Mee Lan v Chen Kai Buan <span class="citation">[2000] 2 SLR(R) 659</span> where Prakash J at [97] held that “the wife cannot expect to be maintained at the same standard after the husband retires”, and that any maintenance should be halved after the husband’s retirement, should be followed such that, in this case, the maintenance should be half of the monthly room rental, ie , $287.50 which the defendant rounded up to $ per month. 
 
  (c) Given that the average life expectancy of an average Singaporean male was about 79 years, the appropriate multiplicand should, at best, be seven years since the defendant was already 72 years old when the application was first filed by the plaintiff. This would translate to a sum of $25,200 ($300x12x7). The defendant suggested a 20% discount for lump sum payment which works out to be $20,160 and not $21,160 as submitted by Mr Moey. 
 
@@ -114,7 +114,7 @@ the plaintiff in her 2nd affidavit filed on 26 August 2009 (“Plaintiff’s 2nd
 
 **_Absence of proof of maintenance during the marriage_** 
 
-16     In assessing maintenance, the court shall endeavour to place the parties so far as it is practicable and, having regard to their conduct, just to do so, in the financial position in which they would have been if the marriage had not broken down and each had properly discharged his or her financial obligations and responsibilities towards the other. As Lai Kew Chai J aptly observed in _Quek Lee Tiam (mw) v Ho Kim Swee (alias Ho Kian Guan)_ [1995] SGHC 23 (“ _Quek Lee Tiam_ ”) at [18] (albeit in the context of s 108(2) of the Women’s Charter (Cap 353, 1985 Ed) [which is the predecessor of s 114(2) of the Women’s Charter]): 
+16     In assessing maintenance, the court shall endeavour to place the parties so far as it is practicable and, having regard to their conduct, just to do so, in the financial position in which they would have been if the marriage had not broken down and each had properly discharged his or her financial obligations and responsibilities towards the other. As Lai Kew Chai J aptly observed in _Quek Lee Tiam (mw) v Ho Kim Swee (alias Ho Kian Guan)_ <span class="citation">[1995] SGHC 23</span> (“ _Quek Lee Tiam_ ”) at [18] (albeit in the context of s 108(2) of the Women’s Charter (Cap 353, 1985 Ed) [which is the predecessor of s 114(2) of the Women’s Charter]): 
 
  In the light of its statutory context, the principle is confined to the preservation of her financial position in terms of her maintenance. She should therefore be financially provided so that she can continue to live at a level as she did immediately before the breakdown of the marriage. 
 

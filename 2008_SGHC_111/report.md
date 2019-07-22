@@ -250,7 +250,7 @@ the light meters when readings were taken.
 
 53     The plaintiff’s claim was based on contract (as a paying guest of the Hotel) and in tort (as an invitee of the defendant who owed her a duty of care since she was an occupier of the Hotel). There can be no dispute that the defendant’s obligations to the plaintiff as their contractual entrant was to take reasonable care to ensure that the Hotel’s premises were safe for her and the purposes of its other guests. In their submissions, the defendant argued, relying on Michael F Rutters’ textbook _Occupier’s Liability in Singapore and Malaysia_ (Butterworths: Singapore, 1985) at 114, that the standard of care owed to contractual entrants and the standard of care owed to invitees were similar. 
 
-54     As for occupiers’ liability, the law is succinctly set out in _Industrial Commercial Bank v Tan Swa Eng_ [1995] 2 SLR 716, where the presiding judge in the appellate court, Lai Kew Chai J, said (at 719): 
+54     As for occupiers’ liability, the law is succinctly set out in _Industrial Commercial Bank v Tan Swa Eng_ <span class="citation">[1995] 2 SLR 716</span>, where the presiding judge in the appellate court, Lai Kew Chai J, said (at 719): 
 
  At common law, a person is an invitee if he is on private or public premises for a business purpose of material benefit to the occupier. This is usually referred to as a ‘common interest’ as the invitee himself more often than not also has an economic interest in being on the premises. Bank customers such as Song and Sit at the material time were undoubtedly invitees on the bank’s premises and would have been there with the bank’s consent. 
 

@@ -111,7 +111,7 @@ of 2012 (collectively, the “Setting Aside RAs”) respectively against the AR�
 
 be adjourned pending Woo J’s decision. The Registrar acceded to the request and adjourned the 4th EJD Hearing to 6 November 2012. 
 
-17     On 31 October 2012, Woo J dismissed the Setting Aside RAs (see _Global Distressed Alpha Fund I Limited Partnership v PT Bakrie Investindo_ [2013] 2 SLR 228 released on 16 January 2013). On 5 November 2012, the Defendant filed Civil Appeal No 144 of 2012 and Civil Appeal No 145 of 2012 (“the Setting Aside Appeals”) against Woo J’s decision in the Setting Aside RAs. 
+17     On 31 October 2012, Woo J dismissed the Setting Aside RAs (see _Global Distressed Alpha Fund I Limited Partnership v PT Bakrie Investindo_ <span class="citation">[2013] 2 SLR 228</span> released on 16 January 2013). On 5 November 2012, the Defendant filed Civil Appeal No 144 of 2012 and Civil Appeal No 145 of 2012 (“the Setting Aside Appeals”) against Woo J’s decision in the Setting Aside RAs. 
 
 18     On 5 November 2012, Mr Damodara wrote to the Registrar requesting that the 4th EJD Hearing which was adjourned to 6 November 2012 be further adjourned pending the determination of the Setting Aside Appeals. The Plaintiff objected to this adjournment as there was no stay of the EJD Order. On 6 November 2012, the Registrar replied disallowing the request and indicated that the EJD 
 
@@ -135,7 +135,7 @@ adjournment, so the 5th EJD Hearing on 6 December 2012 was to proceed as fixed.
 
 (“the 6thEJD Hearing”). 
 
-21     On 17 December 2012, Tay Yong Kwang J heard the Stay RA and dismissed it (see _Global Distressed Alpha Fund I Limited Partnership v PT Bakrie Investindo_ [2013] SGHC 30). On 3 January 
+21     On 17 December 2012, Tay Yong Kwang J heard the Stay RA and dismissed it (see _Global Distressed Alpha Fund I Limited Partnership v PT Bakrie Investindo_ <span class="citation">[2013] SGHC 30</span>). On 3 January 
 
 
 2013, the Defendant filed Civil Appeal No 1 of 2013 (“the Stay Appeal”) against Tay J’s decision. 
@@ -173,7 +173,7 @@ re-fixed the EJD to 20 March 2013 (“the 9th EJD Hearing”).
 
 **The Issues** 
 
-33     As a preliminary point, it should be noted that the action against Kurniawan was clearly an action for _civil_ and not criminal contempt since he was personally bound by the EJD Order and the application by the Plaintiff was directed at securing Kurniawan’s compliance with the EJD Order (see _Aurol Anthony Sabastian v Sembcorp Marine Ltd_ [2013] 2 SLR 246 at [29]). For the purposes of establishing civil contempt, it would be sufficient if there was a deliberate breach of an order. Kurniawan’s reasons for his disobedience was not relevant in establishing liability; it was only relevant at the later sentencing stage (see _OCM Opportunities Fund II, LP and others v Burhan Uray (alias Wong Ming Kiong) and others_ [2005] 3 SLR(R) 60 (“ _OCM Opportunities_ ”) at [27] and _Summit Holdings Ltd and another v Business Software Alliance_ [1999] 2 SLR(R) 592 at [52] and [53]). 
+33     As a preliminary point, it should be noted that the action against Kurniawan was clearly an action for _civil_ and not criminal contempt since he was personally bound by the EJD Order and the application by the Plaintiff was directed at securing Kurniawan’s compliance with the EJD Order (see _Aurol Anthony Sabastian v Sembcorp Marine Ltd_ <span class="citation">[2013] 2 SLR 246</span> at [29]). For the purposes of establishing civil contempt, it would be sufficient if there was a deliberate breach of an order. Kurniawan’s reasons for his disobedience was not relevant in establishing liability; it was only relevant at the later sentencing stage (see _OCM Opportunities Fund II, LP and others v Burhan Uray (alias Wong Ming Kiong) and others_ <span class="citation">[2005] 3 SLR(R) 60</span> (“ _OCM Opportunities_ ”) at [27] and _Summit Holdings Ltd and another v Business Software Alliance_ <span class="citation">[1999] 2 SLR(R) 592</span> at [52] and [53]). 
 
 34     The issues decided in the substantive committal application were therefore as follows: 
 
@@ -257,7 +257,7 @@ Kurniawan was guilty of contempt of the Singapore court. I now turn to the issue
 
 **Sentencing** 
 
-54     When a contemnor has been found guilty of contempt of court, committal to prison is usually a measure of last resort (see _Sembcorp Marine Ltd v Aurol Anthony Sabastian_ [2013] 1 SLR 245 (“ _Sembcorp_ ”) at [47], _Lee Shieh-Peen Clement and another v Ho Chin Nguang and others_ [2010] 4 SLR 801 at [45] and _Monex Group (Singapore) Pte Ltd v E-Clearing (Singapore) Pte Ltd_ [2012] 4 SLR 1169 at [40]). I agreed with Quentin Loh J’s views at [68] of _Sembcorp_ that the following factors are relevant in sentencing a contemnor: 
+54     When a contemnor has been found guilty of contempt of court, committal to prison is usually a measure of last resort (see _Sembcorp Marine Ltd v Aurol Anthony Sabastian_ <span class="citation">[2013] 1 SLR 245</span> (“ _Sembcorp_ ”) at [47], _Lee Shieh-Peen Clement and another v Ho Chin Nguang and others_ <span class="citation">[2010] 4 SLR 801</span> at [45] and _Monex Group (Singapore) Pte Ltd v E-Clearing (Singapore) Pte Ltd_ <span class="citation">[2012] 4 SLR 1169</span> at [40]). I agreed with Quentin Loh J’s views at [68] of _Sembcorp_ that the following factors are relevant in sentencing a contemnor: 
 
  (a) The attitude behind the contemptuous behaviour; 
 

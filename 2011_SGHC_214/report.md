@@ -532,7 +532,7 @@ bus-stop after you took his handphone and wallet?
 
 23     The Prosecution submitted that there wass enough evidence to show that Ellarry shared a common intention with Fabian to inflict a s 300( _c_ ) injury on the deceased in order to rob him. 
 
-24     At the third tranche of the trial on 18 April 2011, the Prosecution made an application under s 399 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) for the court to allow the two accused persons to be further cross-examined in light of the decision in _Daniel Vijay s/o Katherasan and others v Public Prosecutor_ [2010] 4 SLR 1119 (“ _Daniel Vijay_ ”), a case concerning s 34 common intention. 
+24     At the third tranche of the trial on 18 April 2011, the Prosecution made an application under s 399 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) for the court to allow the two accused persons to be further cross-examined in light of the decision in _Daniel Vijay s/o Katherasan and others v Public Prosecutor_ <span class="citation">[2010] 4 SLR 1119</span> (“ _Daniel Vijay_ ”), a case concerning s 34 common intention. 
 
 25     The Prosecution submitted that because the cross-examination of the two accused persons took place before the decision in _Daniel Vijay_ was released, further cross-examination of the two accused persons was necessary for a just decision of the case in relation to Ellarry. The Defence objected to the Prosecution’s application, stating that the accused persons would suffer prejudice and that the Prosecution was trying to have “two bites of the cherry”. 
 
@@ -563,7 +563,7 @@ bus-stop after you took his handphone and wallet?
 
 31     Thus, the Defence submitted that when Fabian struck the deceased, he did not have the _mens rea_ for an offence under s 300 of the Penal Code. 
 
-32     Indeed, the Defence contended, on the authority of _Public Prosecutor v AFR_ [2010] SGHC 82 (“ _AFR_ ”), that there must be a subjective inquiry into the question of intention, _ie_ , whether Fabian had the intention to cause the bodily injury that was actually found to be present on the deceased. The Defence further suggested that Fabian’s profile (age, education and intelligence) should be taken into account in determining whether he could have formed the requisite intention. 
+32     Indeed, the Defence contended, on the authority of _Public Prosecutor v AFR_ <span class="citation">[2010] SGHC 82</span> (“ _AFR_ ”), that there must be a subjective inquiry into the question of intention, _ie_ , whether Fabian had the intention to cause the bodily injury that was actually found to be present on the deceased. The Defence further suggested that Fabian’s profile (age, education and intelligence) should be taken into account in determining whether he could have formed the requisite intention. 
 
 _Defence of diminished responsibility_ 
 
@@ -616,7 +616,7 @@ _The law_
 
  Fourthly, it must be proved that the injury of the type just described made up of the three elements above is sufficient to cause death in the ordinary course of nature. This part of the enquiry is purely objective and inferential and has nothing to do with the intention of the offender. 
 
-38     This analysis has been affirmed by the Court of Appeal in _Public Prosecutor v Lim Poh Lye_ [2005] 4 SLR(R) 582 (“ _Lim Poh Lye_ ”) and most recently in _Public Prosecutor v Kho Jabing and Anor_ [2011] SGCA 24 (“ _Kho Jabing_ ”). 
+38     This analysis has been affirmed by the Court of Appeal in _Public Prosecutor v Lim Poh Lye_ <span class="citation">[2005] 4 SLR(R) 582</span> (“ _Lim Poh Lye_ ”) and most recently in _Public Prosecutor v Kho Jabing and Anor_ <span class="citation">[2011] SGCA 24</span> (“ _Kho Jabing_ ”). 
 
 _Analysis of the evidence_ 
 
@@ -679,7 +679,7 @@ the intention of inflicting those fatal injuries to the head (see Question 18 of
 
 and natural consequences” of the accused person’s acts and thus “well within the contemplation of any normal person” and those which were not. 
 
-52     For the first category of injuries, the law would, in the absence of evidence that would indicate to the contrary, “infer an intention ... to cause the fatal injuries as such injuries would be the ordinary and natural consequences of that act and well within the contemplation of any normal person” (see _AFR_ at [36]). This was the category of injuries which caused the deaths of the deceased persons in the cases of _Public Prosecutor v Visuvanathan_ [1977-78] SLR(R) 27 (“ _Visuvanathan_ ”), _Tan Joo Cheng v Public Prosecutor_ [1992] 1 SLR(R) 219 (“ _Tan Joo Cheng_ ”), _Tan Cheow Bock v Public Prosecutor_ [1991] 2 SLR(R) 608 (“ _Tan Cheow Bock_ ”), _Tan Chee Wee v Public Prosecutor_ [2004] 1 SLR(R) 479 (“ _Tan Chee Wee_ ”) and _Lim Poh Lye_. 
+52     For the first category of injuries, the law would, in the absence of evidence that would indicate to the contrary, “infer an intention ... to cause the fatal injuries as such injuries would be the ordinary and natural consequences of that act and well within the contemplation of any normal person” (see _AFR_ at [36]). This was the category of injuries which caused the deaths of the deceased persons in the cases of _Public Prosecutor v Visuvanathan_ [1977-78] SLR(R) 27 (“ _Visuvanathan_ ”), _Tan Joo Cheng v Public Prosecutor_ <span class="citation">[1992] 1 SLR(R) 219</span> (“ _Tan Joo Cheng_ ”), _Tan Cheow Bock v Public Prosecutor_ <span class="citation">[1991] 2 SLR(R) 608</span> (“ _Tan Cheow Bock_ ”), _Tan Chee Wee v Public Prosecutor_ <span class="citation">[2004] 1 SLR(R) 479</span> (“ _Tan Chee Wee_ ”) and _Lim Poh Lye_. 
 
 53     At [36] of _AFR_ , Lee Seiu Kin J explained that: 
 
@@ -714,9 +714,9 @@ _Defence of diminished responsibility_
 
  Culpable homicide is not murder if the offender was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent cause or induced by injury) as substantially impaired his mental responsibility for his acts or omissions in causing death or being party to causing the death. 
 
-63     In _Ong Pang Siew v Public Prosecutor_ [2011] SGCA 37 (“ _Ong Pang Siew_ ”), the Court of Appeal stated (at [58]) the criteria for establishing the defence of diminished responsibility: 
+63     In _Ong Pang Siew v Public Prosecutor_ <span class="citation">[2011] SGCA 37</span> (“ _Ong Pang Siew_ ”), the Court of Appeal stated (at [58]) the criteria for establishing the defence of diminished responsibility: 
 
- It is trite law that the appellant bears the burden of proving the defence of diminished responsibility on a balance of probabilities: see Chua Hwa Soon Jimmy v PP [1998] 1 SLR(R) 601 (at [8]) (“ Jimmy Chua ”). In Took Leng How v PP [2006] 2 SLR(R) 70, this court reiterated (at [46]) the three-limb test which an accused has to satisfy to establish the defence of diminished responsibility: 
+ It is trite law that the appellant bears the burden of proving the defence of diminished responsibility on a balance of probabilities: see Chua Hwa Soon Jimmy v PP <span class="citation">[1998] 1 SLR(R) 601</span> (at [8]) (“ Jimmy Chua ”). In Took Leng How v PP <span class="citation">[2006] 2 SLR(R) 70</span>, this court reiterated (at [46]) the three-limb test which an accused has to satisfy to establish the defence of diminished responsibility: 
 
  the accused was suffering from an abnormality of mind at the time he caused the victim’s death; 
 
@@ -733,7 +733,7 @@ _Defence of diminished responsibility_
 
  ‘Abnormality of mind’ ... means a state of mind so different from that of ordinary human beings that the reasonable man would term it abnormal. It appears to us wide enough to cover the mind’s activities in all its aspects, not only the perception of physical acts and matters, and the ability to form a rational judgment as to whether an act is right or wrong, but also the ability to exercise will power to control physical acts in accordance with that rational judgment. 
 
-This judicial elaboration of “abnormality of mind” has been cited by our Court of Appeal in _Zailani bin Ahmad v Public Prosecutor_ [2005] 1 SLR(R) 356 (“ _Zailani bin Ahmad_ ”) at 374 and _Took Leng How v Public Prosecutor_ [2006] 2 SLR(R) 70 (“ _Took Leng How_ ”) at 86. 
+This judicial elaboration of “abnormality of mind” has been cited by our Court of Appeal in _Zailani bin Ahmad v Public Prosecutor_ <span class="citation">[2005] 1 SLR(R) 356</span> (“ _Zailani bin Ahmad_ ”) at 374 and _Took Leng How v Public Prosecutor_ <span class="citation">[2006] 2 SLR(R) 70</span> (“ _Took Leng How_ ”) at 86. 
 
 65     The Defence adduced no evidence to prove on a balance of probabilities that Fabian was suffering from an abnormality of mind at the time he caused the death of the deceased. Initially, Defence witness, Dr Tommy Tan, speculated that Fabian might have mild mental retardation but he 
 
@@ -758,7 +758,7 @@ _The law_
 
  When a criminal act is done by several persons, in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if the act were done by him alone. 
 
-70     The recent Court of Appeal decisions of _Daniel Vijay_ , _Kho Jabing_ and _Muhammad bin Kadar and another v Public Prosecutor_ [2011] SGCA 32 (“ _Muhammad bin Kadar_ ”) have clarified the law on the interpretation and application of s 34. 
+70     The recent Court of Appeal decisions of _Daniel Vijay_ , _Kho Jabing_ and _Muhammad bin Kadar and another v Public Prosecutor_ <span class="citation">[2011] SGCA 32</span> (“ _Muhammad bin Kadar_ ”) have clarified the law on the interpretation and application of s 34. 
 
 71     It is apposite at this juncture to lay out the present state of the law on s 34 as summarised in _Kho Jabing_ at [32] and [33]: 
 

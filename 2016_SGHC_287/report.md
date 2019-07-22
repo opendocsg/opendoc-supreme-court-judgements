@@ -30,10 +30,10 @@ _Insolvency law_ – _Cross-border insolvency_ – _Recognition of foreign insol
 
 **The Application** 
 
-4       The applic ants c ited a number of dec isions in support of their applic ation, inc luding _Beluga Chartering GmbH (in liquidation) and others v Beluga Projects (Singapore) Pte Ltd (in liquidation) and another (deugro (Singapore) Pte Ltd, non-party_ ) [2014] 2 SLR 815, _Re Lee Wah Bank Ltd_ [1958] 2 MC 
+4       The applic ants c ited a number of dec isions in support of their applic ation, inc luding _Beluga Chartering GmbH (in liquidation) and others v Beluga Projects (Singapore) Pte Ltd (in liquidation) and another (deugro (Singapore) Pte Ltd, non-party_ ) <span class="citation">[2014] 2 SLR 815</span>, _Re Lee Wah Bank Ltd_ [1958] 2 MC 
 
 
-81, _Re Cosimo Borelli_ Originating Summons No 762 of 2010, and _Re Opti-Medix Ltd (in liquidation) and another matter_ [2016] 4 SLR 312 (“ _Re Opti-Medix_ ”). 
+81, _Re Cosimo Borelli_ Originating Summons No 762 of 2010, and _Re Opti-Medix Ltd (in liquidation) and another matter_ <span class="citation">[2016] 4 SLR 312</span> (“ _Re Opti-Medix_ ”). 
 
 5       Here, rec ognition was sought by liquidators appointed in the plac e of inc orporation; no question in relation to the identific ation of the c ommon law c entre of main interest (“COMI”) thus arose. That COMI would have been Hong Kong in any event as the ac tivities and management of the c ompany were c entred in that territory. No prejudic e would appear to arise in respec t of Singapore persons or entities, as indic ated by the supporting affidavit of the Singapore solic itors for the applic ants: c ause book searc hes turned up empty and advertisements, whic h were plac ed in loc al papers inviting c reditors to c ontac t the solic itors, rec eived no response. As I earlier stated in _Re Opti-Medix_ (at [28]), suc h a supporting affidavit from the Singapore solic itors would be given due weight – c ertainly more than mere assertions from the foreign liquidators – and was thus useful and desirable in applic ations of this nature. 
 

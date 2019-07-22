@@ -86,13 +86,13 @@ Staples Ltd (‘BRS’) for and on behalf of Home. This plea was repeated in par
 
  ‘Counsel for Geo W McKnight naturally founded on this evidence and on the rule that a party is not to be allowed to contradict his preliminary act. Yet the court is not bound by the pleadings of parties and must proceed upon the evidence which it deems to be most accurate and trustworthy, and Mr Justice Pilcher has found that there is no evidence more accurate and trustworthy than the letter written by the master of the Geo W McKnight to her owners...’ [Emphasis added.] 
 
-18\. This passage was cited with approval by K S Rajah JC in Thai Kenaf Co Ltd v Keck Seng (S) Pte Ltd [1993] 1 SLR 92 at p 105. 
+18\. This passage was cited with approval by K S Rajah JC in Thai Kenaf Co Ltd v Keck Seng (S) Pte Ltd <span class="citation">[1993] 1 SLR 92</span> at p 105. 
 
 19\. Mr Liew also relied on K.E.P. Mohamed Ali v K.E.P. Mohamed Ismail [1981] 2 MLJ 10. In that case, Rajah Azlan Shah CJ said, at p 11 and 12: 
 
  ‘.... Since the material facts and circumstances were not pleaded in the statement of claim, it should have been pleaded in the reply. Be that as it may, this aspect of the case has been satisfactorily presented and developed in the proceedings before the High Court and we think there are materials on the record from which a decision to that effect could be arrived at. As one of the objects of modern pleadings is to prevent surprise, we cannot for one moment think that the defendant was taken by surprise. To condemn a party on a ground of which no material facts have been pleaded may be as great a denial of justice as to condemn him on a ground on which his evidence has been improperly excluded.’ 
 
-20\. Mr P Jeya Putra, Counsel for Home, in turn cited The Ohm Mariana [1993] 2 SLR 698. In that case, L P Thean J, delivering the judgment of the Court of Appeal, said at p 714 to 715: 
+20\. Mr P Jeya Putra, Counsel for Home, in turn cited The Ohm Mariana <span class="citation">[1993] 2 SLR 698</span>. In that case, L P Thean J, delivering the judgment of the Court of Appeal, said at p 714 to 715: 
 
  ‘There is yet another objection to the finding made by the learned judicial commissioner. On the pleadings no issue was raised whether the management agreement had been tampered with or fabricated and also no issue was raised as to malice in the arrest of the vessel based on the tampering or fabrication of the management agreement. The learned judicial commissioner, as stated above, found malice on the ground that the appellants had fabricated the first four pages of the management agreement. 
 
@@ -137,7 +137,7 @@ More recently, Lord Edmund-Davis in Farrell v Secretary of State, at p 180 said:
 28\. Thirdly, the Sentence (in the reinsurance slip) cannot possibly incorporate Article XVIII of the XOL contract because the latter was not in existence as at the date of the reinsurance slip. The XOL contract is dated 18 August 1981 whereas the insurance slip is dated 24 March 1981. 
 
 
-29\. Fourthly, the reinsurance slip was not the correct document to be construed as it had been replaced by the policy of reinsurance dated 14 September 1981. In Overseas Union Insurance Ltd v Turegum Insurance Co [2001] 3 SLR 330, Judith Prakash J provided a very useful account as to how such contracts come about. She said, at p 350 to 351: 
+29\. Fourthly, the reinsurance slip was not the correct document to be construed as it had been replaced by the policy of reinsurance dated 14 September 1981. In Overseas Union Insurance Ltd v Turegum Insurance Co <span class="citation">[2001] 3 SLR 330</span>, Judith Prakash J provided a very useful account as to how such contracts come about. She said, at p 350 to 351: 
 
  ‘THE BACKGROUND 
 

@@ -16,9 +16,9 @@
 
 _Civil Procedure_ 
 
-**[LawNet Editorial Note: The decision from which this appeal arose is reported at [2009] 2 SLR(R) 647 .]** 
+**[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2009] 2 SLR(R) 647</span> .]** 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2009] 2 SLR(R) 647 .] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2009] 2 SLR(R) 647</span> .] 
 
 10 March 2010 
 
@@ -26,7 +26,7 @@ _Civil Procedure_
 
 **Introduction** 
 
-1       This appeal arose from the decision of a High Court judge (“the Judge”) in Originating Summons No 556 of 2008 (see _Ng Chan Teng v Keppel Singmarine Dockyard Pte Ltd_ [2009] 2 SLR(R) 647 (“the GD”)). The Judge had allowed an application by the plaintiff/respondent, Ng Chan Teng, made pursuant to s 54B of the Subordinate Courts Act (Cap 321, 2007 Rev Ed) (“SCA”) read with s 18 and para 10 of the First Schedule of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed), to transfer his action against the appellant, Keppel Singmarine Dockyard Pte Ltd, from the District Court to the High Court. 
+1       This appeal arose from the decision of a High Court judge (“the Judge”) in Originating Summons No 556 of 2008 (see _Ng Chan Teng v Keppel Singmarine Dockyard Pte Ltd_ <span class="citation">[2009] 2 SLR(R) 647</span> (“the GD”)). The Judge had allowed an application by the plaintiff/respondent, Ng Chan Teng, made pursuant to s 54B of the Subordinate Courts Act (Cap 321, 2007 Rev Ed) (“SCA”) read with s 18 and para 10 of the First Schedule of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed), to transfer his action against the appellant, Keppel Singmarine Dockyard Pte Ltd, from the District Court to the High Court. 
 
 2       Section 54B of the SCA reads as follows: 
 
@@ -47,9 +47,9 @@ _Civil Procedure_
 
 5       Despite the fact that the respondent’s former solicitors had quantified the total damages claimed by the respondent to be in the region of $725,000, a sum which far exceeded the jurisdictional limit of the District Court (which was capped at $250,000: see s 2 of the SCA), no steps were taken by them to transfer the matter from the District Court to the High Court. Then, without ever directly addressing the issue of the District Court’s jurisdiction for the quantum being claimed, on 7 May 2004, the parties entered a consent interlocutory judgment and agreed to a 70%:30% split in liability (in favour of the respondent), with damages to be assessed. 
 
-6       On 25 May 2006, the respondent appointed his present solicitors. They immediately recognised that his claim exceeded the District Court’s jurisdictional limit. However, in the light of the Court of Appeal’s decision in _Ricky Charles s/o Gabriel Thanabalan v Chua Boon Yeow_ [2003] 1 SLR(R) 511 (“ _Ricky Charle_ s”), they did not apply to transfer the action to the High Court. We will elaborate on this point below at [8]. 
+6       On 25 May 2006, the respondent appointed his present solicitors. They immediately recognised that his claim exceeded the District Court’s jurisdictional limit. However, in the light of the Court of Appeal’s decision in _Ricky Charles s/o Gabriel Thanabalan v Chua Boon Yeow_ <span class="citation">[2003] 1 SLR(R) 511</span> (“ _Ricky Charle_ s”), they did not apply to transfer the action to the High Court. We will elaborate on this point below at [8]. 
 
-7       Nevertheless, on 5 April 2007, the respondent brought an application before the District Court, pursuant to O 14 r 12 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed), to determine whether the deduction for contributory negligence was to be made from the District Court limit or from the actual damages assessed. This issue was eventually resolved by this court on 20 February 2008: see _Keppel Singmarine Dockyard Pte Ltd v Ng Chan Teng_ [2008] 2 SLR(R) 839 (“ _Keppel Singmarine Dockyard_ ”). 
+7       Nevertheless, on 5 April 2007, the respondent brought an application before the District Court, pursuant to O 14 r 12 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed), to determine whether the deduction for contributory negligence was to be made from the District Court limit or from the actual damages assessed. This issue was eventually resolved by this court on 20 February 2008: see _Keppel Singmarine Dockyard Pte Ltd v Ng Chan Teng_ <span class="citation">[2008] 2 SLR(R) 839</span> (“ _Keppel Singmarine Dockyard_ ”). 
 
 **_The decision in Keppel Singmarine Dockyard_** 
 

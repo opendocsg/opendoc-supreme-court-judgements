@@ -104,14 +104,14 @@ The total claim of $34,700 was reduced by $9,652.50 to $25,047.50 before apporti
 
  (15) A respondent who fails to file his Case within the time specified in paragraph (2) may be heard only with the leave of the High Court and on such terms and conditions as the High Court may impose. 
 
-11     Counsel for the first respondent, Mr Kurubalan, did not file Tay’s case but only filed his skeletal submissions which were served on counsel for Hin Hup on 13 February 2006. In submitting that the court should not allow his opponent to submit Tay’s case orally, Mr Madan Assomull, counsel for Hin Hup, relied on _Glahe International Expo AG v ACS Computer Pte Ltd_ [1999] 2 SLR 620 at [18] where the Court of Appeal said: 
+11     Counsel for the first respondent, Mr Kurubalan, did not file Tay’s case but only filed his skeletal submissions which were served on counsel for Hin Hup on 13 February 2006. In submitting that the court should not allow his opponent to submit Tay’s case orally, Mr Madan Assomull, counsel for Hin Hup, relied on _Glahe International Expo AG v ACS Computer Pte Ltd_ <span class="citation">[1999] 2 SLR 620</span> at [18] where the Court of Appeal said: 
 
  No respondent’s case was filed on behalf of ACS in this appeal, notwithstanding that they were legally represented. Their counsel was before us, and at the commencement of the hearing no 
 
 
  application was made by him pursuant to O 57 r 9A (17) of Rules of Court for leave to be heard. In view of his unexplained silence, we enquired of him why no respondent’s case was filed on behalf of ACS and whether he would be applying for leave to be heard. To our utter astonishment, he replied nonchalantly that there was no need to file a respondent’s case for ACS, as he expected the appeal to be disposed of without him being called to reply and that after hearing the arguments advanced on behalf of Glahe, if necessary, he would apply for leave to be heard ... It was wholly presumptuous of him to expect that the court would grant him leave to be heard. There was no question of granting him such leave in this appeal. Regrettably, we heard this appeal unassisted by counsel for ACS. [emphasis added] 
 
-12     In addition, Mr Assomull referred the court to a passage in another Court of Appeal decision in _Tan Boon Hai v Lee Ah Fong_ [2002] 1 SLR 10 at [8]: 
+12     In addition, Mr Assomull referred the court to a passage in another Court of Appeal decision in _Tan Boon Hai v Lee Ah Fong_ <span class="citation">[2002] 1 SLR 10</span> at [8]: 
 
  The 17 defendants, the respondents in this appeal, did not file the respondents’ case , as they were required to do under the rules. However, through their counsel they put in a written ‘skeletal submission’ and intended to obtain leave of the court, by an oral application, to argue against the appeal before us. Counsel for the appellant objected to this course of conduct on the part of the respondents. In response, counsel for the respondents explained that the reason for not filing the respondents’ case was that the respondents wished to save further costs and expenses in the litigation, and applied orally for leave to make submission before us in this appeal. We did not find such explanation acceptable, and accordingly we refused leave to counsel for the respondents to make any submission on behalf of the respondents in resisting the appeal. We also refused to consider the written skeletal submission filed in court. [emphasis added] 
 
@@ -121,9 +121,9 @@ The total claim of $34,700 was reduced by $9,652.50 to $25,047.50 before apporti
 
 14     I turn now to the first issue. Mr Assomull stated that in the second judgment, the magistrate referred to the application in the OS for leave to appeal. He submitted that the magistrate’s role as a judge was _functus officio_ after 25 February 2005 when the order of court for the first judgment was extracted. The offending parts of the second judgment ([6] _supra_ ) were [4], [39], [62], [79], [80] and [87] where the magistrate made copious reference to the OS and to the affidavit filed on behalf of Hin Hup in support of the application. Further, the magistrate varied her order for costs from $5,000 in the first judgment to $6,000 in the second judgment. Which judgment and which order for costs should prevail? 
 
-15     The court in _Tan Yeow Hiang Kenneth v Tan Chor Chuan_ [2006] 1 SLR 557 at [8] clarified the principle of finality of judgments as follows: 
+15     The court in _Tan Yeow Hiang Kenneth v Tan Chor Chuan_ <span class="citation">[2006] 1 SLR 557</span> at [8] clarified the principle of finality of judgments as follows: 
 
- As the order of court had been extracted, the court was functus officio and could not allow what would in effect be a variation of the order as distinct from a clarification. The distinction between the two is brought out in Wee Soon Kim Anthony v UBS AG [2005] SGCA 3, where the Court of Appeal held at [69] as follows: 
+ As the order of court had been extracted, the court was functus officio and could not allow what would in effect be a variation of the order as distinct from a clarification. The distinction between the two is brought out in Wee Soon Kim Anthony v UBS AG <span class="citation">[2005] SGCA 3</span>, where the Court of Appeal held at [69] as follows: 
 
  It is absurd to suggest that when clarification is given, the court is functus officio , which was the stand taken by Mr Wee. In giving the clarification, the court is not making a new or additional order but merely clarifying what was already ordered. It is in the inherent 
 
@@ -175,7 +175,7 @@ concocted the accident, and how the 1st defendant has staged or concocted the ac
 
  Case law makes it very clear that when an allegation as serious and as prejudicial as fraud is being raised, the burden is on the party asserting the fraud to not only prove this, but also to provide sufficient particulars of the fraud. 
 
-22     The Court of Appeal in _Development Bank of Singapore Ltd v Bok Chee Seng Construction Pte Ltd_ [2002] 3 SLR 547 held at [24]: 
+22     The Court of Appeal in _Development Bank of Singapore Ltd v Bok Chee Seng Construction Pte Ltd_ <span class="citation">[2002] 3 SLR 547</span> held at [24]: 
 
  It is settled law that only material facts need to be pleaded, not propositions or inferences of law. This is illustrated and enunciated eloquently in three cases by Lord Denning. In Karsales (Harrow) v Wallis [1956] 2 All ER 866 Lord Denning stated (at p 869): 
 
@@ -378,7 +378,7 @@ Based on the above notes of evidence, there was no denial by Poh of the previous
 
 37     In relation to s 15 of the Act, “It may be submitted, as a matter of principle, that a “series” connotes a recurring pattern which would ordinarily require proof of more than one other similar act. It is seldom that a systematic course of conduct would be held established on the basis of the accused’s behaviour on the occasion referred to in the charge and one other act.” (see: Gamini Lakshman Peiris, _The Law of Evidence in Sri Lanka_ (Lake House Investments, 1974) at p 94). 
 
-38     The Court of Appeal in _Tan Meng Jee v PP_ [1996] 2 SLR 422 followed the balancing test propounded in _Director of Public Prosecutions v Boardman_ [1975] AC 421 (“ _Boardman_ ”). Under the _Boardman_ test, the probative value of the similar fact evidence had to outweigh its prejudicial effect before that evidence can be relevant. In _Tan Meng Jee v PP,_ the appellate court held (at 432, [41]): 
+38     The Court of Appeal in _Tan Meng Jee v PP_ <span class="citation">[1996] 2 SLR 422</span> followed the balancing test propounded in _Director of Public Prosecutions v Boardman_ [1975] AC 421 (“ _Boardman_ ”). Under the _Boardman_ test, the probative value of the similar fact evidence had to outweigh its prejudicial effect before that evidence can be relevant. In _Tan Meng Jee v PP,_ the appellate court held (at 432, [41]): 
 
 
  The underlying rationale for the rule excluding similar fact evidence is that to allow it in every instance is to risk the conviction of an accused not on the evidence relating to the facts but because of past behaviour or disposition towards crime. Such evidence without doubt has a prejudicial effect against the accused. However, at times, similar facts can be so probative of guilt that to ignore it via the imposition of a blanket prohibition would unduly impair the interests of justice. [emphasis added by Hin Hup in its submissions below]. 
@@ -465,11 +465,11 @@ Ratanlal & Dhirajlal, _The Law of Evidence_ (Wadhwa and Company, 22nd Ed, 2006) 
 
  [emphasis added] 
 
-46     Andrew Phang J (as he then was) clarified the burden of proof of fraud in a recent case, _Chua Kwee Chen, Lim Kah Nee and Lim Chah In v Koh Choon Chin_ [2006] 3 SLR 469 at [39]: 
+46     Andrew Phang J (as he then was) clarified the burden of proof of fraud in a recent case, _Chua Kwee Chen, Lim Kah Nee and Lim Chah In v Koh Choon Chin_ <span class="citation">[2006] 3 SLR 469</span> at [39]: 
 
  In summary, the standard of proof in civil proceedings where fraud and/or dishonesty is alleged is the civil standard of proof on a balance of probabilities. However, where such an allegation is made (as in the present proceedings), more evidence is required than would be the situation in an ordinary civil case. Such an inquiry lies, therefore and in the final analysis, in the sphere of practical application (rather than theoretical speculation). In this regard, a distinction ought not, in my view, to be drawn between civil fraud and criminal fraud. [emphasis in original] 
 
-47     Lai Kew Chai J made a similar observation in _Sumitomo Bank Ltd v Kartika Ratna Thahir_ [1993] 1 SLR 735 at 776 which was affirmed by the Court of Appeal (see [1994] 3 SLR 257): 
+47     Lai Kew Chai J made a similar observation in _Sumitomo Bank Ltd v Kartika Ratna Thahir_ <span class="citation">[1993] 1 SLR 735</span> at 776 which was affirmed by the Court of Appeal (see <span class="citation">[1994] 3 SLR 257</span>): 
 
  ... that a part of Pertamina’s allegations involve allegations of a fraudulent or criminal nature and that as a matter of the law of evidence it is necessary for Pertamina to prove their case to a high standard, which is higher than the standard in a non-fraud case ... The circumstantial evidence must be so compelling and convincing that bearing in mind the high standard of proof one is nevertheless satisfied that an inference of fraud is justified. It will therefore be necessary to consider the evidence, if any. [emphasis added] 
 
@@ -478,7 +478,7 @@ Ratanlal & Dhirajlal, _The Law of Evidence_ (Wadhwa and Company, 22nd Ed, 2006) 
 49     It is trite law that “the appellate court will be slow to disturb the trial judge’s findings of fact, particularly since the latter would have had the opportunity of observing the witnesses first-hand and 
 
 
-is therefore presumed to have a much clearer view of the credibility and demeanour of the witnesses concerned” ( _Tang Kin Hwa v Traditional Chinese Medicine Practitioners Board_ [2005] 4 SLR 604 at [9]) unless the findings of fact are plainly wrong ( _Arts Niche Cyber Distribution Pte Ltd v PP_ [1999] 4 SLR 111 at [30]). This was a case however where the findings of the court below went against the weight of the evidence adduced and required intervention by an appellate court. 
+is therefore presumed to have a much clearer view of the credibility and demeanour of the witnesses concerned” ( _Tang Kin Hwa v Traditional Chinese Medicine Practitioners Board_ <span class="citation">[2005] 4 SLR 604</span> at [9]) unless the findings of fact are plainly wrong ( _Arts Niche Cyber Distribution Pte Ltd v PP_ <span class="citation">[1999] 4 SLR 111</span> at [30]). This was a case however where the findings of the court below went against the weight of the evidence adduced and required intervention by an appellate court. 
 
 **The decision** 
 
@@ -511,7 +511,7 @@ while Poh’s accident report states:
 
  A master is not responsible for a wrongful act done by his servant unless it is done in the course of his employment. It is deemed to be so done if it is either: (1) a wrongful act authorised by the master, or (2) a wrongful and unauthorised mode of doing some act authorised by the master. ... [I]t is clear that the master is responsible for acts actually authorised by him: for liability would exist in this case, even if the relation between the parties was merely one of agency, and not one of service at all. But a master, as opposed to the employer of an independent contractor, is liable even for acts which he has not authorised, provided they are so connected with acts which he has authorised that they may rightly be regarded as modes – although improper modes – of doing them. In other words, a master is responsible not merely for what he authorises his servant to do, but also for the way in which he does it. ... On the other hand, if the unauthorised and wrongful act of the servant is not so connected with the authorised act as to be a mode of doing it, but is an independent act, the master is not responsible: for in such a case the servant is not acting in the course of his employment, but has gone outside of it. [emphasis added] 
 
-58     I accepted the magistrate’s view that the principle of vicarious liability for an agent’s _fraudulent_ conduct (adopted by Karthigesu J in _Blue Nile Co Ltd v Emery Customs Brokers (S) Pte Ltd_ [1992] 1 SLR 296) is that stated in _Lloyd v Grace, Smith & Co_ [1912] AC 716, _viz_ , for an employer to be vicariously liable for the fraud of the employee, it was not necessary that the act be done for the benefit of the employer. An employer would still be liable for the fraud of his employee if the employee had the authority to act as he did, and if the fraudulent act could be regarded as a manner (however wrongful and dishonest) of performing the tasks for which he was engaged. 
+58     I accepted the magistrate’s view that the principle of vicarious liability for an agent’s _fraudulent_ conduct (adopted by Karthigesu J in _Blue Nile Co Ltd v Emery Customs Brokers (S) Pte Ltd_ <span class="citation">[1992] 1 SLR 296</span>) is that stated in _Lloyd v Grace, Smith & Co_ [1912] AC 716, _viz_ , for an employer to be vicariously liable for the fraud of the employee, it was not necessary that the act be done for the benefit of the employer. An employer would still be liable for the fraud of his employee if the employee had the authority to act as he did, and if the fraudulent act could be regarded as a manner (however wrongful and dishonest) of performing the tasks for which he was engaged. 
 
 59     However, Poh’s deliberate act of causing an accident by colliding into the concrete mixer while driving the bus was not an act that Hin Hup could be said to have expressly or impliedly authorised; Poh was not doing an authorised act in an unlawful manner for which his employer should or would be held responsible. Since Poh’s conduct was undoubtedly fraudulent, it must follow that Hin Hup was not vicariously liable for his acts. 
 

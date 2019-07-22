@@ -266,7 +266,7 @@ Nothing was said about the lack of approval or authorisation.
 
 she received from the subsidiary companies. Nevertheless they complained without elaboration that she was instrumental in the use of the three subsidiary companies as a shield against creditors and shareholders. 
 
-60     Counsel referred to the decision of the Court of Appeal in _Caltong (Australia) Pty Ltd v Tong Tien See Construction Pte Ltd_ [2002] 3 SLR 241 and submitted that for the plaintiffs to prove dishonest assistance by the third and eighth defendants, they need to establish that 
+60     Counsel referred to the decision of the Court of Appeal in _Caltong (Australia) Pty Ltd v Tong Tien See Construction Pte Ltd_ <span class="citation">[2002] 3 SLR 241</span> and submitted that for the plaintiffs to prove dishonest assistance by the third and eighth defendants, they need to establish that 
 
  (1) the assets of the plaintiffs had been disposed of in breach of fiduciary duties, 
 

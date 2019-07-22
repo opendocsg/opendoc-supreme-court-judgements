@@ -162,7 +162,7 @@ from the said liquidator that the plaintiff had not filed a proof of debt nor re
 
 **7.** On the hearing of an application for an order under Rule 1, 5 or 6, the Court may, if satisfied that discovery is not necessary, or not necessary at that stage of the cause or matter, dismiss or, as the case may be, adjourn the application and shall in any case refuse to make such an order if and so far as it is of opinion that discovery is not necessary either for disposing fairly of the cause or matter or for saving costs. 
 
-36     In _Kuah Kok Kim v Ernst & Young_ [1997] 1 SLR 169, the Court of Appeal said, at [50], [59] and [60]: 
+36     In _Kuah Kok Kim v Ernst & Young_ <span class="citation">[1997] 1 SLR 169</span>, the Court of Appeal said, at [50], [59] and [60]: 
 
  50 Thus, there must be some grounds for seeking pre-action discovery, bearing in mind that the provision should not be used for fishing expeditions, and that the normal course is to get ‘ordinary discovery’ after commencement of proceedings. 
 
@@ -172,7 +172,7 @@ from the said liquidator that the plaintiff had not filed a proof of debt nor re
 
  60 It is precisely because the appellants feel that they have a claim that they are seeking pre-action discovery to determine whether the documents would ground their cause of action. As Denning MR said in Dunning , the object of pre-action discovery would be defeated if the appellants had to show in advance that they had already got a good cause of action before they saw the documents. 
 
-37     In _Bayerische Hypound Vereinsbank AG v Asia Pacific Breweries (Singapore) Pte Ltd_ [2004] 4 SLR 39, Belinda Ang Saw Ean J, after concluding that it was inappropriate to make an order for pre-action discovery at the stage of the proceedings in that case, went on to say, at [29] and [37]: 
+37     In _Bayerische Hypound Vereinsbank AG v Asia Pacific Breweries (Singapore) Pte Ltd_ <span class="citation">[2004] 4 SLR 39</span>, Belinda Ang Saw Ean J, after concluding that it was inappropriate to make an order for pre-action discovery at the stage of the proceedings in that case, went on to say, at [29] and [37]: 
 
  29 ... Even if the documents (or some of them or some parts of them) are relevant, I am not satisfied on the material before me that disclosure in the sense of producing the documents or any of them is in the least necessary for disposing fairly of the issues in the intended actions or for saving costs. 
 
@@ -181,7 +181,7 @@ from the said liquidator that the plaintiff had not filed a proof of debt nor re
 
  37 ... The ultimate test is whether discovery is necessary for disposing fairly of the proceedings or for saving costs. An assertion that the documents are relevant will not be good enough. Equally, an assertion that the documents are necessary because they are relevant will not be enough. Obviously, if a document is not relevant, it cannot be necessary for disposing of the cause or matter. On the other hand, documents may be relevant to a case without being necessary to it. The word used in O 24 r 7 is “necessary” and not “desirable” or “relevant”. It is the common experience of lawyers and the court that often many documents are produced because they are relevant, but only very few of them are of use. 
 
-38     Applying the principles set out in O 24 rr 6 and 7, as expounded by the cases cited above, it seems to me that necessity must therefore be considered in the light of the purpose for which preaction discovery is sought. Here, the plaintiff is trying to ascertain whether it has a cause of action against the defendant by lifting the corporate veil to uncover the real charterers of the vessel. It believes it would be able to do so because Lee Seiu Kin JC has said in _Gerhard Hendrik Gispen v Ling Lee Soon_ [2001] SGHC 350 at [125]: 
+38     Applying the principles set out in O 24 rr 6 and 7, as expounded by the cases cited above, it seems to me that necessity must therefore be considered in the light of the purpose for which preaction discovery is sought. Here, the plaintiff is trying to ascertain whether it has a cause of action against the defendant by lifting the corporate veil to uncover the real charterers of the vessel. It believes it would be able to do so because Lee Seiu Kin JC has said in _Gerhard Hendrik Gispen v Ling Lee Soon_ <span class="citation">[2001] SGHC 350</span> at [125]: 
 
  It can be seen from the last two cases that where a company is a cloak or sham to avoid the legal obligations of a party to the Plaintiff, the court will lift the veil of incorporation. 
 

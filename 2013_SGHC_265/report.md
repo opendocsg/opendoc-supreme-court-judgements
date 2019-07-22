@@ -222,7 +222,7 @@ the share of profits that the plaintiff would have been entitled to.
 
 48     However, the signed agreement was ultimately between the plaintiff and the third party. The agreement explicitly provided for a right to demand the return of the plaintiff’s capital contribution three months later, with the partnership arranging for payment based on the market price of the plaintiff’s share (see clause 18 at [15] above). The plaintiff was thus relying on collateral oral representations dissonant with the written agreement. As an experienced businessman, one would have expected the plaintiff to exercise some care and ensure that the oral representations made by the defendant were documented somewhere, either in the same written agreement or in a separate document signed by both the plaintiff and the defendant. 
 
-49     In any case, the plaintiff pleaded that the defendant intentionally deceived him (see [3] above). The plaintiff did not plead negligent or innocent misrepresentation. In _Chua Kwee Chen and others (as Westlake Eating House) and another v Koh Choon Chin_ [2006] 3 SLR(R) 469, Andrew Phang J (as he then was) held (at [39]) that: 
+49     In any case, the plaintiff pleaded that the defendant intentionally deceived him (see [3] above). The plaintiff did not plead negligent or innocent misrepresentation. In _Chua Kwee Chen and others (as Westlake Eating House) and another v Koh Choon Chin_ <span class="citation">[2006] 3 SLR(R) 469</span>, Andrew Phang J (as he then was) held (at [39]) that: 
 
  In summary, the standard of proof in civil proceedings where fraud and/or dishonesty is alleged is the civil standard of proof on a balance of probabilities. However, where such an allegation is made (as in the present proceedings), more evidence is required than would be the situation in an ordinary civil case. 
 
@@ -233,7 +233,7 @@ the share of profits that the plaintiff would have been entitled to.
 
 **Is the plaintiff entitled to restitution of the monies advanced to the defendant?** 
 
-52     The following elements must be satisfied for a claim in unjust enrichment to succeed (see eg _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another appeal_ [2011] 3 SLR 540 at [110]): 
+52     The following elements must be satisfied for a claim in unjust enrichment to succeed (see eg _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another appeal_ <span class="citation">[2011] 3 SLR 540</span> at [110]): 
 
  (a) the defendant has received a benefit ( ie , he has been enriched); 
 
@@ -254,7 +254,7 @@ the share of profits that the plaintiff would have been entitled to.
 Ministerial receipt was also recognised in the High Court case of _Skandinaviska Enskilda Banken AB_ 
 
 
-_(Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another suit_ [2009] 4 SLR(R) 788 (at [332] – [336]). 
+_(Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another suit_ <span class="citation">[2009] 4 SLR(R) 788</span> (at [332] – [336]). 
 
 55     I acknowledge that the evidence from all parties was unsatisfactory in some aspects. For instance, why was the plaintiff dealing in cash when such a large amount was involved? Why did the plaintiff go to Vietnam with someone who also could not read English to sign a relatively lengthy legal document with the third party and to do so without raising any questions? The defendant’s account of how Tony Au and he went to Vietnam by air to hand the money to the third party on two separate occasions also raised several questions: 
 

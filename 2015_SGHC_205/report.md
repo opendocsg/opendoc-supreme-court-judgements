@@ -18,7 +18,7 @@ _Succession and Wills_ – _formation of wills_ – _requirements for formal val
 
 _Succession and Wills_ – _testamentary capacity_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 155 of 2015 was allowed by the Court of Appeal on 7 March 2016. See [2016] SGCA 24.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 155 of 2015 was allowed by the Court of Appeal on 7 March 2016. See <span class="citation">[2016] SGCA 24</span>.] 
 
 5 August 2015 Judgment reserved. 
 
@@ -173,7 +173,7 @@ plaintiff’s siblings to find out about this intention as he was afraid Mdm Soh
 
 39     The legal principles which guide the way in which this case must be decided are uncontroversial. They are reflected in a number of local cases. The following is a summary of the relevant principles which will be explored in more detail during the discussion of the issues, if necessary. 
 
-40     The propounder of a will bears the legal burden of proving that the testator had testamentary capacity (see _George Abraham Vadakathu v Jacob George_ [2009] 3 SLR(R) 631 (“ _Vadakathu_ ”) at [37]. However, testamentary capacity will generally be presumed when the testator was not suffering from any kind of mental disability and the Will was duly executed in ordinary circumstances. This was affirmed by the Court of Appeal in the case of _Chee Mu Lin Muriel v Chee Ka Lin Caroline_ [2010] 4 SLR 373 (“ _Muriel Chee_ ”). 
+40     The propounder of a will bears the legal burden of proving that the testator had testamentary capacity (see _George Abraham Vadakathu v Jacob George_ <span class="citation">[2009] 3 SLR(R) 631</span> (“ _Vadakathu_ ”) at [37]. However, testamentary capacity will generally be presumed when the testator was not suffering from any kind of mental disability and the Will was duly executed in ordinary circumstances. This was affirmed by the Court of Appeal in the case of _Chee Mu Lin Muriel v Chee Ka Lin Caroline_ <span class="citation">[2010] 4 SLR 373</span> (“ _Muriel Chee_ ”). 
 
 41     If the court finds that the testator suffered from a mental disability, the court must still decide if the existence of mental illness meant that the testator lacked testamentary capacity or whether despite the illness, the testator was lucid when the Will was executed ( _Muriel Chee_ at [41]). 
 
@@ -191,7 +191,7 @@ plaintiff’s siblings to find out about this intention as he was afraid Mdm Soh
 
  (d) he must be free from an abnormal state of mind ( eg , delusions) that might distort feelings or judgments relevant to making the will. 
 
-45     In the case of a will where an allegation of undue influence on the testator is made, undue influence cannot be presumed and actual undue influence must be proved (see _Biggins v Biggins_ [2000] All ER(D) 92 and _Williams on Probate_ at para 13-48). _Williams on Probate_ also states that undue influence is not bad influence but coercion, and therefore persuasion and advice do not amount to undue influence as long as the free volition of the testator to accept or reject the same is not impugned (see para 13-49). In _Rajaratnam Kumar (alias Rajaratnam Vairamuthu) v Estate of Rajaratnam Saravana Muthu (deceased) and another suit_ [2010] 4 SLR 93, Tan Lee Meng J set out 
+45     In the case of a will where an allegation of undue influence on the testator is made, undue influence cannot be presumed and actual undue influence must be proved (see _Biggins v Biggins_ [2000] All ER(D) 92 and _Williams on Probate_ at para 13-48). _Williams on Probate_ also states that undue influence is not bad influence but coercion, and therefore persuasion and advice do not amount to undue influence as long as the free volition of the testator to accept or reject the same is not impugned (see para 13-49). In _Rajaratnam Kumar (alias Rajaratnam Vairamuthu) v Estate of Rajaratnam Saravana Muthu (deceased) and another suit_ <span class="citation">[2010] 4 SLR 93</span>, Tan Lee Meng J set out 
 
 
 what constitutes undue influence in testamentary dispositions as follows: 
@@ -246,7 +246,7 @@ _The rationality of the August 2012 Will_
 54     The plaintiff submits that the test for rationality is better characterised as one of irrationality. That is, the court should not measure the August 2012 Will against an assessment of how the 
 
 
-Testator would have disposed of his assets based on the available evidence. Instead, the enquiry should focus on whether the terms of the will are “so odd or inexplicable that it should cast doubt on the testamentary capacity of the testator”. The defendants do not contend otherwise, citing Andrew Ang J in _Ng Bee Keong v Ng Choon Huay_ [2013] SGHC 107 at [50] in which it was stated that “[t]he presumption of testamentary capacity will _not_ arise where the terms of the Will are _prima facie_ irrational” [emphasis in original]. 
+Testator would have disposed of his assets based on the available evidence. Instead, the enquiry should focus on whether the terms of the will are “so odd or inexplicable that it should cast doubt on the testamentary capacity of the testator”. The defendants do not contend otherwise, citing Andrew Ang J in _Ng Bee Keong v Ng Choon Huay_ <span class="citation">[2013] SGHC 107</span> at [50] in which it was stated that “[t]he presumption of testamentary capacity will _not_ arise where the terms of the Will are _prima facie_ irrational” [emphasis in original]. 
 
 55     The defendants identified the following features of the August 2012 Will which they submit are irrational: 
 

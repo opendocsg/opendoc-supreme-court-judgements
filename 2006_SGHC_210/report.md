@@ -157,7 +157,7 @@ immediately after it is obtained. Section 3(2)(e) of the RECJA provides that a j
 
 **Whether it is just and convenient to register the judgment** 
 
-21 “Just and convenient” is not a term of precision. However, it has received the benefit of judicial construction. The Court of Appeal in _Yong Tet Miaw v MBf Finance Bhd_ [1992] 2 SLR 761 recognised that those words in s 3(1) of the RECJA do not give an untrammelled discretion to the courts, and adopted the construction of Fletcher Moulton LJ in _Edwards & Co v Picard_ [1909] 2 KB 903 of the term “just or convenient” in s 25(8) of the Judicature Act 1873 to be similar to “where it is practicable and the interests of justice require of it”. 
+21 “Just and convenient” is not a term of precision. However, it has received the benefit of judicial construction. The Court of Appeal in _Yong Tet Miaw v MBf Finance Bhd_ <span class="citation">[1992] 2 SLR 761</span> recognised that those words in s 3(1) of the RECJA do not give an untrammelled discretion to the courts, and adopted the construction of Fletcher Moulton LJ in _Edwards & Co v Picard_ [1909] 2 KB 903 of the term “just or convenient” in s 25(8) of the Judicature Act 1873 to be similar to “where it is practicable and the interests of justice require of it”. 
 
 22     Two cases relating to the late registration of foreign judgments were cited by counsel. One was the Privy Council decision in _Quinn v Pres-T-Con Ltd_ [1986] 1 WLR 1216 (“ _Quinn_ ”). In this case, a judgment was obtained from the High Court of England on 22 October 1975 arising from a fatal industrial accident. 
 
@@ -324,7 +324,7 @@ and arrived at the conclusion, at 343-4 that:
 
 67     It does not appear to be the purport of those words. Section 3(3) refers to the effect of registration. Section 3(3)(a) deals with the registered judgment. It states that the registered judgment shall, from the date of registration, have the same force and effect as a judgment of the registering court. Section 3(3)(b) deals with the powers of the registering court. It states that the registering court’s powers shall be the same as those it has over its own judgments, but only insofar as they relate to execution. This is entirely in keeping with the purpose and effect of registration. The registering court does not require and does not have other powers, _e.g._ the powers to vary or set aside the registered judgment, though it has the power to set aside the registration of the judgment. 
 
-68     What is stated in the foregoing paragraph is not new. Warren L H Khoo J discussed the effect of s 3(3)(b) of the RECJA in _Re Cheah Theam Swee_ [1996] 2 SLR 76 at 83-84 and concluded that: 
+68     What is stated in the foregoing paragraph is not new. Warren L H Khoo J discussed the effect of s 3(3)(b) of the RECJA in _Re Cheah Theam Swee_ <span class="citation">[1996] 2 SLR 76</span> at 83-84 and concluded that: 
 
  The purpose of para (b) of sub-s (3), it seems to me, is that once a judgment has passed the hurdles set out in sub-ss (1) and (2), and has been registered, it must be given effect according to its terms. No proceedings to impeach its validity are to be allowed. In other words the judgment debtor is not permitted to go behind the judgment any more. 
 

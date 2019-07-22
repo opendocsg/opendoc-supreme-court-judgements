@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Offences_ – _Rape_ – _Adverse Inference_ 
 
-[LawNet Editorial Note: The application in Criminal Motion No 24 of 2017 was allowed in part by the Court of Appeal on 14 February 2018. See [2018] SGCA 10.] 
+[LawNet Editorial Note: The application in Criminal Motion No 24 of 2017 was allowed in part by the Court of Appeal on 14 February 2018. See <span class="citation">[2018] SGCA 10</span>.] 
 
 12 April 2017 
 
@@ -234,14 +234,14 @@ This shows that an adverse inference may be drawn against the defendant for fail
 
 37     In the closing submissions, the prosecution correctly concluded that the case “rests primarily 
 
-on the credibility of the girl and the accused”. [note: 39] For such cases, the Court of Appeal had made clear in _AOF v PP_ [2012] 3 SLR 4 that 
+on the credibility of the girl and the accused”. [note: 39] For such cases, the Court of Appeal had made clear in _AOF v PP_ <span class="citation">[2012] 3 SLR 4</span> that 
 
  111 It is well-established that in a case where no other evidence is available, a complainant’s testimony can constitute proof beyond reasonable doubt (see s 136 of the Evidence Act (Cap 97, 1997 Rev Ed)(“EA”)) – but only when it is so “unusually convincing” as to overcome any doubts that might arise from the lack of corroboration (see generally the decision of court in PP v 
 
 
-_Mohammed Liton Mohammed Syeed Mallik_ [2008] 1 SLR(R) 601 at [37]-[44] (“ _Liton_ ”) and the Singapore High Court decision of _XP v PP_ [2008] 4 SLR(R) 686 at [27]-[36] (“ _XP_ ”)). 
+_Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">[2008] 1 SLR(R) 601</span> at [37]-[44] (“ _Liton_ ”) and the Singapore High Court decision of _XP v PP_ <span class="citation">[2008] 4 SLR(R) 686</span> at [27]-[36] (“ _XP_ ”)). 
 
-112    The need for “fine-tooth comb” scrutiny in so far as allegations of sexual abuse are concerned is particularly acute, “given both the ease with which allegations of sexual assault may be fabricated and the concomitant difficulty of rebutting such allegations” (see the Singapore High Court decision of _Chng Yew Chin v PP_ [2006] 4 SLR(R) 124 at [33], cited with approval in _Liton_ at [37]-[38]). 
+112    The need for “fine-tooth comb” scrutiny in so far as allegations of sexual abuse are concerned is particularly acute, “given both the ease with which allegations of sexual assault may be fabricated and the concomitant difficulty of rebutting such allegations” (see the Singapore High Court decision of _Chng Yew Chin v PP_ <span class="citation">[2006] 4 SLR(R) 124</span> at [33], cited with approval in _Liton_ at [37]-[38]). 
 
 113    In _XP_ , V K Rajah JA observed (at [31]) that the requirement that the alleged victim’s evidence ought to be “unusually convincing”: 
 
@@ -249,7 +249,7 @@ _Mohammed Liton Mohammed Syeed Mallik_ [2008] 1 SLR(R) 601 at [37]-[44] (“ _Li
 
 114    Apart from stating that its role is that of a cognitive aid, Rajah JA further elaborated on what “unusually convincing” entails (see _XP_ at [29]-[35]). Rajah JA’s pronouncements can be distilled into the following propositions: 
 
- (a) First, subsequent repeated complaints by the complainant cannot, in and of themselves, constitute corroborative evidence so as to dispense with the requirement for “unusually convincing” testimony. As Yong Pung How CJ noted in the Singapore High Court decision of Khoo Kwoon Hain v PP [1995] 2 SLR(R) 591 (“ Khoo Kwoon Hain ”) at [51]” 
+ (a) First, subsequent repeated complaints by the complainant cannot, in and of themselves, constitute corroborative evidence so as to dispense with the requirement for “unusually convincing” testimony. As Yong Pung How CJ noted in the Singapore High Court decision of Khoo Kwoon Hain v PP <span class="citation">[1995] 2 SLR(R) 591</span> (“ Khoo Kwoon Hain ”) at [51]” 
 
  If the complainant’s evidence is not ‘unusually convincing’, I cannot see how the fact that she repeated it several times can add much to its weight. 
 
@@ -266,17 +266,17 @@ _Mohammed Liton Mohammed Syeed Mallik_ [2008] 1 SLR(R) 601 at [37]-[44] (“ _Li
 
  external consistency of the witness’s testimony. However, this is not to say that a witness’s credibility is necessarily determined solely in terms of his or her demeanour. As Rajah JA observed in XP ([111] supra at [71]-[72]): 
 
- I freely and readily acknowledge that a trial judge is usually much better placed than an appellate judge to assess a witness’s credibility, having observed the witness testifying and being cross-examined on the stand. However, demeanour is not invariably determinative; contrary evidence by other witnesses must be given due weight, and if the witness fails to recall or satisfactorily explain material facts and assertions, his credible demeanour cannot overcome such deficiencies. As I explained in PP v Wang Ziyi Able [2008] 2 SLR(R) 61 at [92]-[96], an appellate judge is as competent as any trial judge to draw necessary inferences of fact not supported by the primary or objective evidence on record from the circumstances of the case. 
+ I freely and readily acknowledge that a trial judge is usually much better placed than an appellate judge to assess a witness’s credibility, having observed the witness testifying and being cross-examined on the stand. However, demeanour is not invariably determinative; contrary evidence by other witnesses must be given due weight, and if the witness fails to recall or satisfactorily explain material facts and assertions, his credible demeanour cannot overcome such deficiencies. As I explained in PP v Wang Ziyi Able <span class="citation">[2008] 2 SLR(R) 61</span> at [92]-[96], an appellate judge is as competent as any trial judge to draw necessary inferences of fact not supported by the primary or objective evidence on record from the circumstances of the case. 
 
- While an appellate court should be more restrained when dealing with the trial judge’s assessment of a witness’s credibility, there is a difference between an assessment of a witness’s credibility based on his demeanour, and one based on inferences drawn from the internal consistency in the content of the witness’s testimony or the external consistency between the content of the witness’ evidence and the extrinsic evidence. In the latter two situations, the trial judge’s advantage in having studied the witness is not critical because the appellate court has access to the same material and is accordingly in an equal position to assess the veracity of the witness’s evidence (see Jagatheesan s/o Krishnasamy v PP [2006] 4 SLR(R) 45 (‘ Jagatheesan ’) at [40], citing PP v Choo Thiam Hock [1994] 2 SLR(R) 702 at[11]). 
+ While an appellate court should be more restrained when dealing with the trial judge’s assessment of a witness’s credibility, there is a difference between an assessment of a witness’s credibility based on his demeanour, and one based on inferences drawn from the internal consistency in the content of the witness’s testimony or the external consistency between the content of the witness’ evidence and the extrinsic evidence. In the latter two situations, the trial judge’s advantage in having studied the witness is not critical because the appellate court has access to the same material and is accordingly in an equal position to assess the veracity of the witness’s evidence (see Jagatheesan s/o Krishnasamy v PP <span class="citation">[2006] 4 SLR(R) 45</span> (‘ Jagatheesan ’) at [40], citing PP v Choo Thiam Hock <span class="citation">[1994] 2 SLR(R) 702</span> at[11]). 
 
  [emphasis added in italics and bold italics] 
 
-38     Touching on the same concern, Yong Pung How CJ cautioned in _Kwan Peng Hong v PP_ [2012] 2 SLR(R) 824 that 
+38     Touching on the same concern, Yong Pung How CJ cautioned in _Kwan Peng Hong v PP_ <span class="citation">[2012] 2 SLR(R) 824</span> that 
 
  32 ... although the ease of making an allegation and the difficulty of refutation are not just confined to sexual cases, they are generally of more concern in sexual cases. It is in the nature of sexual offences, that often all the court has before it are words of the complainant against the denials of the accused. ... 
 
- 33 ... it is dangerous to convict on the words of the complainant alone unless her evidence is unusually compelling or convincing ( Tang Kin Seng v PP ([28] supra at [43]), Teo Keng Pong v PP ([24] supra at [72] and Soh Yang Tick v PP [1998] 1 SLR(R) 209 at [43]). In short, the court is to be extremely cautious in relying on the sole evidence of the complainant for a conviction. The phrase “unusually compelling or convincing” simply means that the complainant’s evidence was so convincing that the Prosecution’s case was proven beyond reasonable doubt, solely on the basis of that evidence. 
+ 33 ... it is dangerous to convict on the words of the complainant alone unless her evidence is unusually compelling or convincing ( Tang Kin Seng v PP ([28] supra at [43]), Teo Keng Pong v PP ([24] supra at [72] and Soh Yang Tick v PP <span class="citation">[1998] 1 SLR(R) 209</span> at [43]). In short, the court is to be extremely cautious in relying on the sole evidence of the complainant for a conviction. The phrase “unusually compelling or convincing” simply means that the complainant’s evidence was so convincing that the Prosecution’s case was proven beyond reasonable doubt, solely on the basis of that evidence. 
 
 39     Strictly speaking, the girl’s evidence did not stand alone. There was the evidence of her mother, brother, sister and boyfriend, who she told about the accused’s actions. The corroborative effect of such evidence is stated in s 159 of the Evidence Act that 
 
@@ -285,7 +285,7 @@ _Mohammed Liton Mohammed Syeed Mallik_ [2008] 1 SLR(R) 601 at [37]-[44] (“ _Li
 
  (Emphasis added) 
 
-40     However this provision must be applied with caution as Yong CJ had pointed out _in Khoo Kwan Hain v PP_ [1995] 2 SLR(R) 591 
+40     However this provision must be applied with caution as Yong CJ had pointed out _in Khoo Kwan Hain v PP_ <span class="citation">[1995] 2 SLR(R) 591</span> 
 
  49 ... although s 159 has the effect of elevating a recent complaint to corroboration, the court should nevertheless bear in mind the fact that corroboration by virtue of s 159 alone is not corroboration by independent evidence. It would be dangerous to equate this form of corroboration with corroboration in the normal sense of the word. ... 
 
@@ -293,7 +293,7 @@ The focus on a complaint made “at or about the time when the fact took place�
 
 41     Someone so abused and humiliated would be expected to seek help and redress when she breaks her silence. In her case, however, she was still reluctant to make a police report. Furthermore, when she did speak, what she said was contradictory and inconsistent, with allegation of touching (and no rape) to the mother, and rape (and no digital penetration) to the brother, sister and boyfriend. With the passage of time, the girl should not have difficulty to recount accurately the forms of abuse she was put through. 
 
-42     Reverting to her evidence regarding the prime mover, it was apparent that her description of the prime mover’s cabin and the accused’s frequent use of the prime mover was contradicted by the evidence of Mr Sim. The Court of Appeal in _Heng Aik Ren Thomas v PP_ [1998] 3 SLR(R) 142 advised that 
+42     Reverting to her evidence regarding the prime mover, it was apparent that her description of the prime mover’s cabin and the accused’s frequent use of the prime mover was contradicted by the evidence of Mr Sim. The Court of Appeal in _Heng Aik Ren Thomas v PP_ <span class="citation">[1998] 3 SLR(R) 142</span> advised that 
 
  35 Where the quality of the identification evidence is poor, the judge should ask ... (I)s there is any other evidence which goes to support the correctness of the identification. If the judge is unable to find other supporting evidence for the identification evidence, he should then be mindful that a conviction which relies on such poor identification evidence would be unsafe.... 
 

@@ -34,10 +34,10 @@ _Family Law—Division of Matrimonial Assets_
 
 **_Legal principles_** 
 
-3       I had recently set out the legal principles applicable to the determination of the division of matrimonial assets in _TDS v TDT_ [2015] SGHCF 7 at [4]–[8]. The Court of Appeal in _ANJ v ANK_ [2015] 4 SLR 1043 (“ _ANJ_ ”) has given guidance on the court’s approach in the exercise of its power in s 112 
+3       I had recently set out the legal principles applicable to the determination of the division of matrimonial assets in _TDS v TDT_ [2015] SGHCF 7 at [4]–[8]. The Court of Appeal in _ANJ v ANK_ <span class="citation">[2015] 4 SLR 1043</span> (“ _ANJ_ ”) has given guidance on the court’s approach in the exercise of its power in s 112 
 
 
-of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Women’s Charter”). Like other milestone Court of Appeal decisions on the division of assets such as _Lock Yeng Fun v Chua Hock Chye_ [2007] 3 SLR(R) 520 and _NK v NL_ [2007] 3 SLR(R) 743 (“ _NK v NL_ ”), _ANJ_ reiterated the importance of giving sufficient recognition to the direct financial contributions and indirect contributions of _both_ parties to the marriage. 
+of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Women’s Charter”). Like other milestone Court of Appeal decisions on the division of assets such as _Lock Yeng Fun v Chua Hock Chye_ <span class="citation">[2007] 3 SLR(R) 520</span> and _NK v NL_ <span class="citation">[2007] 3 SLR(R) 743</span> (“ _NK v NL_ ”), _ANJ_ reiterated the importance of giving sufficient recognition to the direct financial contributions and indirect contributions of _both_ parties to the marriage. 
 
 4       The court’s power to order the division of the parties’ matrimonial assets is conferred by s 112 of the Women’s Charter. The first task of the court is to identify the parties’ matrimonial assets. The net value of each asset is then obtained, after which the total net value of the pool of matrimonial assets can be reached. The court then aims to reach a just and equitable division of the matrimonial assets in the light of all the circumstances of the case, particularly the factors enumerated in s 112(2). Finally, the court decides on the most practical and fair way for each party to obtain the portion of assets determined to be their just and equitable share. 
 
@@ -60,9 +60,9 @@ of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Women’s Charter”). L
 9       The law imposes on parties a duty of full and frank disclosure of their assets, the breach of which entitles the court to draw inferences adverse to the party in breach. Upon drawing an adverse inference, the court may give a value to what it considers to be “undisclosed assets” or to give a higher percentage of the disclosed assets to the other party. The Court of Appeal in _Yeo Chong Lin v_ 
 
 
-_Tay Ang Choo Nancy and another appeal_ [2011] 2 SLR 1157 held at [64]–[66]: 
+_Tay Ang Choo Nancy and another appeal_ <span class="citation">[2011] 2 SLR 1157</span> held at [64]–[66]: 
 
- 64 ...The Judge took a broad brush approach in adding 10% more as representing the Husband's undisclosed assets. The Judge seemed to be following the mode suggested by the High Court in Lau Loon Seng v Sia Peck Eng [1999] 2 SLR(R) 688, where it was held that when quantifying "undisclosed assets", the court should make a finding of the value of the undisclosed assets on the available evidence and it would be for the other party to prove that such a value is unreasonable. This approach was reiterated in Tay Sin Tor v Tan Chay Eng [1999] 2 SLR(R) 385 (“ Tay Sin Tor ”). 
+ 64 ...The Judge took a broad brush approach in adding 10% more as representing the Husband's undisclosed assets. The Judge seemed to be following the mode suggested by the High Court in Lau Loon Seng v Sia Peck Eng <span class="citation">[1999] 2 SLR(R) 688</span>, where it was held that when quantifying "undisclosed assets", the court should make a finding of the value of the undisclosed assets on the available evidence and it would be for the other party to prove that such a value is unreasonable. This approach was reiterated in Tay Sin Tor v Tan Chay Eng <span class="citation">[1999] 2 SLR(R) 385</span> (“ Tay Sin Tor ”). 
 
  65 In [ NK v NL ], this court had the occasion to consider the approach adopted in Tay Sin Tor and held that while that approach was sound, it was but one of at least two alternatives. Much would depend on the fact-situation of each case. This court also cautioned against "unnecessary speculation" with regard to the specific values of the undeclared assets ( NK v NL at [61])... 
 

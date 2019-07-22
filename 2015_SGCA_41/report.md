@@ -16,7 +16,7 @@
 
 _Courts and Jurisdiction_ – _Duty to provide reasons_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2015] 1 SLR 708.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2015] 1 SLR 708</span>.] 
 
 13 August 2015 
 
@@ -24,7 +24,7 @@ _Courts and Jurisdiction_ – _Duty to provide reasons_
 
 **Introduction** 
 
-1       This appeal raised the question as to the duty of the court to provide reasons for its decisions. Ms Ten Leu Jiun Jeanne-Marie (“the Appellant”) brought the appeal against the decision of Tan Siong Thye J (“the Judge”) in _Ten Leu Jiun Jeanne-Marie v National University of Singapore_ [2015] 1 SLR 708 (“the GD”). 
+1       This appeal raised the question as to the duty of the court to provide reasons for its decisions. Ms Ten Leu Jiun Jeanne-Marie (“the Appellant”) brought the appeal against the decision of Tan Siong Thye J (“the Judge”) in _Ten Leu Jiun Jeanne-Marie v National University of Singapore_ <span class="citation">[2015] 1 SLR 708</span> (“the GD”). 
 
 2       Both the proceedings before the High Court and this court stemmed from Originating Summons No 699 of 2014 (“OS 699/2014”), the Appellant’s application that “[w]ritten Grounds of Decision shall be provided in respect of interlocutory hearings before this Honourable Court”. 
 
@@ -175,7 +175,7 @@ request. After hearing the parties, the Judge dismissed the application, stating
 
  (c) Third, the Appellant’s argument that “written grounds would benefit the local jurisprudence” had its limits. It was the quality – not the quantity – of judgments that ultimately mattered. The discovery proceedings in this case involved largely routine matters that turned primarily on facts. There were no unique points of law. Any contribution to the local jurisprudence would have hence been of minimal significance (at [37]–[38]). 
 
- (d) Fourth, the Appellant’s argument that written grounds would save judicial time and resources, again, had its limits. Her reliance on Thong Ah Fat v Public Prosecutor [2012] 1 SLR 676 (“ Thong Ah Fat ”) was misconceived as the facts there were materially different. In this case, the AR had already applied the test of relevance and necessity and adequately explained why the plaintiff had failed to satisfy the threshold test (at [39]–[41]). Also, the Judge allowed the Appellant to be present at the hearing of both SUM 5875/2013 and OS 699/2014; thus she would have heard the reasons uttered by the Judge for his decision (at [47]–[50]). Furthermore, the Judge noted (at [53]) the following upon his analysis of Thong Ah Fat : 
+ (d) Fourth, the Appellant’s argument that written grounds would save judicial time and resources, again, had its limits. Her reliance on Thong Ah Fat v Public Prosecutor <span class="citation">[2012] 1 SLR 676</span> (“ Thong Ah Fat ”) was misconceived as the facts there were materially different. In this case, the AR had already applied the test of relevance and necessity and adequately explained why the plaintiff had failed to satisfy the threshold test (at [39]–[41]). Also, the Judge allowed the Appellant to be present at the hearing of both SUM 5875/2013 and OS 699/2014; thus she would have heard the reasons uttered by the Judge for his decision (at [47]–[50]). Furthermore, the Judge noted (at [53]) the following upon his analysis of Thong Ah Fat : 
 
  ... First, although there is a general duty to give reasons for a decision, this duty does not extend to all cases especially the less significant ones. Second, the duty to give reasons does not equate to a duty to provide written decisions. ... [emphasis in original] 
 
@@ -280,7 +280,7 @@ _Order 38A_
 
  in a hearing where an audio recording system is not used, the notes of hearing recorded in such manner as the Registrar or the Court may determine. 
 
-44     The Rules of Court regulate procedure and practice (see s 80(1) of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed) and _Au Wai Pang v Attorney-General and another matter_ [2014] 3 SLR 357 at [34]). 
+44     The Rules of Court regulate procedure and practice (see s 80(1) of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed) and _Au Wai Pang v Attorney-General and another matter_ <span class="citation">[2014] 3 SLR 357</span> at [34]). 
 
 45     What O 38A – or specifically O 38A r 1(1)( _b_ ) – purports to regulate is _how_ the notes of hearing are to be recorded. It does not prescribe _what_ the notes of hearing should contain, let alone delineate any particular “minimum content”. This much is clear from the wording of the rule itself, as well as paragraph 21(2) of the Supreme Court Practice Directions (updated on 15 April 2015) which reads: 
 

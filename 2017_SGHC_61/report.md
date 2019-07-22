@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ 
 
-[LawNet Editorial Note: The appeal in Criminal Appeal No 17 of 2017 was allowed by the Court of Appeal on 1 August 2018 to the extent that the matter was ordered to be retried before another High Court judge. See [2018] SGCA 59.] 
+[LawNet Editorial Note: The appeal in Criminal Appeal No 17 of 2017 was allowed by the Court of Appeal on 1 August 2018 to the extent that the matter was ordered to be retried before another High Court judge. See <span class="citation">[2018] SGCA 59</span>.] 
 
 7 April 2017 Judgment reserved. 
 

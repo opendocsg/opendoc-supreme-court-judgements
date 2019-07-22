@@ -163,7 +163,7 @@ On the defendants` side, the following gave evidence:
 
 **_Were the signatures forgeries?_** 
 
-In **Yogambikai Nagarajah v Indian Overseas Bank** [1997] 1 SLR 258 , the Court of Appeal held that the burden of proving the forgery was on the party alleging the forgery (see [para ] 39 of the report). 
+In **Yogambikai Nagarajah v Indian Overseas Bank** <span class="citation">[1997] 1 SLR 258</span> , the Court of Appeal held that the burden of proving the forgery was on the party alleging the forgery (see [para ] 39 of the report). 
 
 As regards the standard of proof, the Court of Appeal held, after citing a number of authorities, that where the allegation is as serious and grave as fraud or forgery, the standard of proof is more onerous than the ordinary civil standard (see [para ] 44 of the report). 
 
@@ -565,7 +565,7 @@ Accordingly I do not agree that Lim Poh Leong`s knowledge should be attributed t
 
 It was submitted (although not pleaded) that Lim Poh Leong should have informed the defendants` branches about the third party`s dishonesty or take steps to protect the account or offer advice to the plaintiffs about protecting the account. 
 
-Plaintiffs` counsel relied on the following passages from the judgment of the Court of Appeal in **Yogambikai Nagarajah v Indian Overseas Bank** [1997] 1 SLR 258 (at p 273): 
+Plaintiffs` counsel relied on the following passages from the judgment of the Court of Appeal in **Yogambikai Nagarajah v Indian Overseas Bank** <span class="citation">[1997] 1 SLR 258</span> (at p 273): 
 
  The relationship between the bank and the deposit account holder is premised on the debtor-creditor relationship. It carries with it the obligation on the part of the bank to honour the customers mandate as regards the payment of money from that account. The banks duty to pay on the demand of an account holder however coexists with a duty to take reasonable care in all the circumstances as agent of the account holder. The duty to take reasonable care in the discharge of its obligation under the contract between banker and customer includes withholding payment where there has been fraudulent conduct resulting in wrongful loss by a party ...The question in every case, including the present, is whether the bank behaved reasonably in view of all the circumstances and discharged its duty of care. 
 
@@ -1170,7 +1170,7 @@ The Court of Appeal of New South Wales in **_Metlej_** also appeared inclined to
 
 The High Court in Australia has apparently not yet decided whether to follow **_Tai Hing_** or not. 
 
-In Singapore, the limited duties enunciated in **_Tai Hing_** were mentioned with approval by the High Court in **Consmat Singapore (Pte) Ltd v Bank of America National Trust & Savings Association** [1992] 2 SLR 828 at p 831. However the observations of the High Court were obiter as this point was 
+In Singapore, the limited duties enunciated in **_Tai Hing_** were mentioned with approval by the High Court in **Consmat Singapore (Pte) Ltd v Bank of America National Trust & Savings Association** <span class="citation">[1992] 2 SLR 828</span> at p 831. However the observations of the High Court were obiter as this point was 
 
 
 apparently not argued. The issue in that case was whether a particular provision in a general agreement relieved the bank from liability for its payment made under 15 forged cheques and the bank there appears to have accepted the limited duties enunciated in **_Tai Hing_** , apart from express agreement to the contrary. 
@@ -1230,7 +1230,7 @@ Furthermore, the argument that a certain principle has stood the test of time sh
 For example, at one time, the principle that there is no duty to avoid pure economic loss appeared to hold sway in the United Kingdom as well as in Singapore. 
 
 
-That principle has been changed somewhat in Singapore since the Court of Appeal`s decisions in **RSP Architects Planners & Engineers v Ocean Front Pte Ltd** [1996] 1 SLR 113 and in **RSP Architects Planners & Engineers (Raglan Squire & Partners FE) v MCST Plan No 1075 & Anor** [1999] 2 SLR 449. 
+That principle has been changed somewhat in Singapore since the Court of Appeal`s decisions in **RSP Architects Planners & Engineers v Ocean Front Pte Ltd** <span class="citation">[1996] 1 SLR 113</span> and in **RSP Architects Planners & Engineers (Raglan Squire & Partners FE) v MCST Plan No 1075 & Anor** <span class="citation">[1999] 2 SLR 449</span>. 
 
 In addition, the facts in cases like **_Walpole_** (New Zealand Court of Appeal) and **_Canadian Pacific Hotels Ltd v Bank of Montreal_** (Supreme Court of Canada) which favour the same limited duties as were stated in **_Tai Hing_** involved the examination of bank statements, just like the facts in **_Tai Hing_**. The case before me does not involve such examination and are quite different. 
 

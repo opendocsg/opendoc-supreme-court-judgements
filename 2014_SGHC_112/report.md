@@ -22,7 +22,7 @@ _Civil Procedure_ – _Costs_ – _Principles_
 
 **Choo Han Teck J:** 
 
-1       This case concerns costs. Parties appeared before me in 2013. In my judgment, dated 13 November 2013 ( _BMG v BMH_ [2013] SGHC 244), I stated (at [10]) that I would hear submissions on costs at a later date if parties were unable to agree. As is evident, no agreement was reached. 
+1       This case concerns costs. Parties appeared before me in 2013. In my judgment, dated 13 November 2013 ( _BMG v BMH_ <span class="citation">[2013] SGHC 244</span>), I stated (at [10]) that I would hear submissions on costs at a later date if parties were unable to agree. As is evident, no agreement was reached. 
 
 2       Before me, counsel for the plaintiff/wife, Mr Yim, argued that the plaintiff should be entitled to costs plus disbursements, in the following manner: 
 

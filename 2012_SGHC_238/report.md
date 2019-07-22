@@ -18,7 +18,7 @@ _Criminal law_ – _offences_ – _murder_
 
 _Criminal law_ – _special exceptions_ – _diminished responsibility_ 
 
-[LawNet Editorial Note: The Prosecution's appeal to this decision in Criminal Appeal No 12 of 2012 was allowed and the accused's cross-appeal in Criminal Appeal No 4 of 2012 was dismissed by the Court of Appeal on 28 November 2014. See [2014] SGCA 58 .] 
+[LawNet Editorial Note: The Prosecution's appeal to this decision in Criminal Appeal No 12 of 2012 was allowed and the accused's cross-appeal in Criminal Appeal No 4 of 2012 was dismissed by the Court of Appeal on 28 November 2014. See <span class="citation">[2014] SGCA 58</span> .] 
 
 30 November 2012 Judgment reserved. 
 
@@ -279,12 +279,12 @@ Long Statement recorded on 29 September 2008, Wang described how he packed his b
 
 **The defence of diminished responsibility** 
 
-55     It is well-established that the defence of diminished responsibility has three limbs. The Court of Appeal in _Ong Pang Siew v Public Prosecutor_ [2011] 1 SLR 606 (“ _Ong Pang Siew_ ”) restated at [58] the 
+55     It is well-established that the defence of diminished responsibility has three limbs. The Court of Appeal in _Ong Pang Siew v Public Prosecutor_ <span class="citation">[2011] 1 SLR 606</span> (“ _Ong Pang Siew_ ”) restated at [58] the 
 
 
 three-limb test which an accused must satisfy in order to establish the defence of diminished responsibility: 
 
- 58 It is trite law that the appellant bears the burden of proving the defence of diminished responsibility on a balance of probabilities: see Chua Hwa Soon Jimmy v PP [1998] 1 SLR(R) 601 (at [8]) (“ Jimmy Chua ”). In Took Leng How v PP [2006] 2 SLR(R) 70, this court reiterated (at [46]) the three-limb test which an accused has to satisfy to establish the defence of diminished responsibility: 
+ 58 It is trite law that the appellant bears the burden of proving the defence of diminished responsibility on a balance of probabilities: see Chua Hwa Soon Jimmy v PP <span class="citation">[1998] 1 SLR(R) 601</span> (at [8]) (“ Jimmy Chua ”). In Took Leng How v PP <span class="citation">[2006] 2 SLR(R) 70</span>, this court reiterated (at [46]) the three-limb test which an accused has to satisfy to establish the defence of diminished responsibility: 
 
  (a) the accused was suffering from an abnormality of mind at the time he caused the victim’s death; 
 
@@ -292,13 +292,13 @@ three-limb test which an accused must satisfy in order to establish the defence 
 
  (c) the abnormality of mind substantially impaired the accused’s mental responsibility for his acts and omissions in causing the death. 
 
-56     The Prosecution called Dr Kenneth Gerard Koh Wun Wu (“Dr Koh”) as its psychiatric expert witness, whereas the Defence called Dr Tommy Tan Kay Seng (“Dr Tan”) to provide expert evidence. Both experts agreed that Wang was suffering from adjustment disorder. In fact, both experts were of the opinion that Wang satisfied both limbs (a) and (b) of the defence of diminished responsibility as set out in _Ong Pang Siew_ at [58]; specifically that Wang was suffering from an abnormality of mind at the time that he caused the victims’ deaths which arose from a condition of arrested or retarded development of mind or any inherent causes. In this case, both experts also agreed that the abnormality of mind arose from inherent causes and not from any arrested or retarded development of Wang’s mind. Given the agreement, my role is limited to evaluating whether the experts’ conclusion in this regard flew in the face of proven extrinsic facts: see _Khoo James and another v Gunapathy d/o Muniandy_ and another appeal [2002] 2 SLR(R) 414 (at [65]), and [72] below. Since I am satisfied that it does not, I find that Wang has satisfied limbs (a) and (b) of the defence of diminished responsibility for all three murder charges. 
+56     The Prosecution called Dr Kenneth Gerard Koh Wun Wu (“Dr Koh”) as its psychiatric expert witness, whereas the Defence called Dr Tommy Tan Kay Seng (“Dr Tan”) to provide expert evidence. Both experts agreed that Wang was suffering from adjustment disorder. In fact, both experts were of the opinion that Wang satisfied both limbs (a) and (b) of the defence of diminished responsibility as set out in _Ong Pang Siew_ at [58]; specifically that Wang was suffering from an abnormality of mind at the time that he caused the victims’ deaths which arose from a condition of arrested or retarded development of mind or any inherent causes. In this case, both experts also agreed that the abnormality of mind arose from inherent causes and not from any arrested or retarded development of Wang’s mind. Given the agreement, my role is limited to evaluating whether the experts’ conclusion in this regard flew in the face of proven extrinsic facts: see _Khoo James and another v Gunapathy d/o Muniandy_ and another appeal <span class="citation">[2002] 2 SLR(R) 414</span> (at [65]), and [72] below. Since I am satisfied that it does not, I find that Wang has satisfied limbs (a) and (b) of the defence of diminished responsibility for all three murder charges. 
 
 **_Limb (c) of the defence of diminished responsibility_** 
 
-57     I shall turn next to limb (c) of the defence, which requires me to make a finding as to whether the abnormality of mind substantially impaired Wang’s mental responsibility for his acts. The threestage test for the defence of diminished responsibility is essentially a composite one: see _G Krishnasamy Naidu v Public Prosecutor_ [2006] 4 SLR(R) 874 at [6]. The Prosecution submitted and I agree that not every accused person who satisfies limbs (a) and (b) would automatically satisfy limb (c); otherwise, limb (c) would be rendered wholly otiose. Therefore, it is necessary for the Defence to prove on a balance of probabilities that Wang’s mental responsibility was impaired at the material time, and the impairment was substantial. 
+57     I shall turn next to limb (c) of the defence, which requires me to make a finding as to whether the abnormality of mind substantially impaired Wang’s mental responsibility for his acts. The threestage test for the defence of diminished responsibility is essentially a composite one: see _G Krishnasamy Naidu v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 874</span> at [6]. The Prosecution submitted and I agree that not every accused person who satisfies limbs (a) and (b) would automatically satisfy limb (c); otherwise, limb (c) would be rendered wholly otiose. Therefore, it is necessary for the Defence to prove on a balance of probabilities that Wang’s mental responsibility was impaired at the material time, and the impairment was substantial. 
 
-58     Choo Han Teck J in _Public Prosecutor v Juminem and another_ [2005] 4 SLR(R) 536 (“ _Juminem_ ”) noted (at [30]) that the phrase “substantially impairs his mental responsibility” in the defence of diminish responsibility had has no precise definition, and endorsed Ashworth J’s common-sense definition of “substantial” in _Regina v Lloyd_ [1967] 1 QB 175 at 178: 
+58     Choo Han Teck J in _Public Prosecutor v Juminem and another_ <span class="citation">[2005] 4 SLR(R) 536</span> (“ _Juminem_ ”) noted (at [30]) that the phrase “substantially impairs his mental responsibility” in the defence of diminish responsibility had has no precise definition, and endorsed Ashworth J’s common-sense definition of “substantial” in _Regina v Lloyd_ [1967] 1 QB 175 at 178: 
 
  30 Reverting to the question whether there was a substantial impairment of the first accused person’s mental responsibility, I would begin with the reminder that the term “substantially impairs his mental responsibility” is couched in “popular language, (not that of the M’Naughten Rules )” as 
 
@@ -313,7 +313,7 @@ three-limb test which an accused must satisfy in order to establish the defence 
 
 59     Choo J’s definition in _Juminem_ was endorsed by the Court of Appeal in _Ong Pang Siew_ at [64], where the court also emphasized that the question of whether or not the impairment was substantial was ultimately a question of fact to be decided by the court based on all the circumstances of the case: 
 
- 64 What in fact amounts to a substantial impairment of mental responsibility is largely a question of commonsense to be decided by the trial judge as the finder of fact. As a working guide, substantial does not require a total impairment; neither is it trivial nor minimal: see Juminem (at [30]) applying Regina v Lloyd [1967] 1 QB 175 (at 178). As stated above, while medical evidence would be important in determining the presence and/or extent of impairment, whether an accused’s mental responsibility was substantially impaired is ultimately a question to be decided by the court based on all the evidence before it : see Zailani bin Ahmad v PP [2005] 1 SLR(R) 356 (at [52]). ... 
+ 64 What in fact amounts to a substantial impairment of mental responsibility is largely a question of commonsense to be decided by the trial judge as the finder of fact. As a working guide, substantial does not require a total impairment; neither is it trivial nor minimal: see Juminem (at [30]) applying Regina v Lloyd [1967] 1 QB 175 (at 178). As stated above, while medical evidence would be important in determining the presence and/or extent of impairment, whether an accused’s mental responsibility was substantially impaired is ultimately a question to be decided by the court based on all the evidence before it : see Zailani bin Ahmad v PP <span class="citation">[2005] 1 SLR(R) 356</span> (at [52]). ... 
 
  [emphasis added in bold italics] 
 
@@ -466,14 +466,14 @@ November 2008: [note: 9]
 
 **Evaluation of the psychiatric experts’ evidence** 
 
-72     The principles governing a trial judge’s evaluation of conflicting expert testimony were stated by V K Rajah JA in _Sakthivel Punithavathi v Public Prosecutor_ [2007] 2 SLR(R) 983 at [75]–[77]: 
+72     The principles governing a trial judge’s evaluation of conflicting expert testimony were stated by V K Rajah JA in _Sakthivel Punithavathi v Public Prosecutor_ <span class="citation">[2007] 2 SLR(R) 983</span> at [75]–[77]: 
 
  7 5 Where there is conflicting evidence between experts it will not be the sheer number of experts articulating a particular opinion or view that matters, but rather the consistency and logic of the preferred evidence that is paramount. Generally speaking, the court should also scrutinise the credentials and relevant experience of the experts in their professed and acknowledged areas of expertise. ... 
 
- 76 What is axiomatic is that a judge is not entitled to substitute his own views for those of an uncontradicted expert’s: Saeng-Un Udom v PP [2001] 2 SLR(R) 1. Be that as it may, a court must not on the other hand unquestioningly accept unchallenged evidence. Evidence must invariably 
+ 76 What is axiomatic is that a judge is not entitled to substitute his own views for those of an uncontradicted expert’s: Saeng-Un Udom v PP <span class="citation">[2001] 2 SLR(R) 1</span>. Be that as it may, a court must not on the other hand unquestioningly accept unchallenged evidence. Evidence must invariably 
 
 
- be sifted, weighed and evaluated in the context of the factual matrix and in particular, the objective facts. An expert’s opinion “should not fly in the face of proven extrinsic facts relevant to the matter” per Yong Pung How CJ in Khoo James v Gunapathy d/o Muniandy [2002] 2 SLR(R) 414 at [65]. In reality, substantially the same rules apply to the evaluation of expert testimony as they would to other categories of witness testimony. Content credibility, evidence of partiality, coherence and a need to analyse the evidence in the context of established facts remain vital considerations; demeanour, however, more often than not recedes into the background as a yardstick. 
+ be sifted, weighed and evaluated in the context of the factual matrix and in particular, the objective facts. An expert’s opinion “should not fly in the face of proven extrinsic facts relevant to the matter” per Yong Pung How CJ in Khoo James v Gunapathy d/o Muniandy <span class="citation">[2002] 2 SLR(R) 414</span> at [65]. In reality, substantially the same rules apply to the evaluation of expert testimony as they would to other categories of witness testimony. Content credibility, evidence of partiality, coherence and a need to analyse the evidence in the context of established facts remain vital considerations; demeanour, however, more often than not recedes into the background as a yardstick. 
 
  77 ... If, in the final analysis, the court is unable to settle on a preferred view the matter must be determined on the basis of the burden of proof; has a reasonable doubt been raised? It would, however, be a legal heresy to suggest that a reasonable doubt is inexorably raised in all cases where experts differ. What nevertheless may plausibly be suggested is that genuine and irreconcilable differences between experts of comparable standing and credibility can create a reasonable doubt. 
 

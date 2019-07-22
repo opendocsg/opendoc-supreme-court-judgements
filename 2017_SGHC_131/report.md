@@ -187,7 +187,7 @@ _Present applications in OS240 and OS_
 
 **_Whether [X] has a beneficial interest by virtue of a gift, common intention constructive trust or presumption of advancement_** 
 
-26     The main issue in these originating summonses is whether [X] has a beneficial interest by virtue of a gift, common intention constructive trust or presumption of advancement. The relevant approach and principles were set out by V K Rajah JA (delivering the judgment of the Court of Appeal) in _Chan Yuen Lan v See Fong Mun_ [2014] 3 SLR 1048 (“ _Chan Yuen Lan_ ”), as follows: 
+26     The main issue in these originating summonses is whether [X] has a beneficial interest by virtue of a gift, common intention constructive trust or presumption of advancement. The relevant approach and principles were set out by V K Rajah JA (delivering the judgment of the Court of Appeal) in _Chan Yuen Lan v See Fong Mun_ <span class="citation">[2014] 3 SLR 1048</span> (“ _Chan Yuen Lan_ ”), as follows: 
 
  160 In view of our discussion above, a property dispute involving parties who have contributed unequal amounts towards the purchase price of a property and who have not executed a declaration of trust as to how the beneficial interest in the property is to be apportioned can be broadly analysed using the following steps in relation to the available evidence: 
 
@@ -219,7 +219,7 @@ _Whether there is sufficient evidence of [X]’s direct financial contributions_
 _Whether the presumption of advancement applies_ 
 
 
-31     In _Lau Siew Kim v Yeo Guan Chye Terence and another_ [2008] 2 SLR(R) 108, V K Rajah JA (delivering the judgment of the Court of Appeal) made some seminal observations regarding the presumption of advancement in the spousal context: 
+31     In _Lau Siew Kim v Yeo Guan Chye Terence and another_ <span class="citation">[2008] 2 SLR(R) 108</span>, V K Rajah JA (delivering the judgment of the Court of Appeal) made some seminal observations regarding the presumption of advancement in the spousal context: 
 
  Spousal relationships 
 
@@ -255,7 +255,7 @@ example, _Rider v Kidder_ (1805) 10 Ves 360; 32 ER 884, _Soar v Foster_ (1858) 4
 
 In the same case, Lord Upjohn acknowledged at 813 that the presumptions of resulting trust and advancement “have been criticised as being out of touch with the realities of today”, but he nevertheless remained optimistic that “when properly understood and properly applied to the circumstances of today”, the presumptions “remain as useful as ever in solving questions of title”. Nevertheless, he appeared to have regarded the ready rebuttal of the presumptions by “comparatively slight evidence” as the proper application of these presumptions then (at 814). 
 
-76     Locally, the Court of Appeal recently considered the presumption of advancement in some detail in _Low Gim Siah v Low Geok Khim_ [2007] 1 SLR(R) 795 (“ _Low Gim Siah_ ”). Chan Sek Keong CJ, in delivering the judgment of the court, accepted that **the presumption of advancement was generally of varying strength in different circumstances** ; he opined at [33] that: 
+76     Locally, the Court of Appeal recently considered the presumption of advancement in some detail in _Low Gim Siah v Low Geok Khim_ <span class="citation">[2007] 1 SLR(R) 795</span> (“ _Low Gim Siah_ ”). Chan Sek Keong CJ, in delivering the judgment of the court, accepted that **the presumption of advancement was generally of varying strength in different circumstances** ; he opined at [33] that: 
 
  [T]he amount of evidence required to rebut the presumption would depend on the strength of the presumption, ie , how readily the court would be prepared to make the presumption. ... 
 
@@ -429,7 +429,7 @@ interest in the Property. [note: 72]
 
 58     In my view, these arguments have little force. 
 
-59     The mere fact of joint tenancy (and the attendant fact of the right of survivorship) does little to prove the parties’ intention as to the beneficial ownership of the property. At best, it does not overtly contradict [X]’s claim that [Y] intended for her and her children to be able to live in the Property should anything happen to him. Where joint tenants have made unequal contributions to the purchase price of the property, they are presumed to beneficially own a share of the property proportionate to their respective contributions to its purchase price ( _Lau Siew Kim_ at [83]; _Neo Hui Ling v Ang Ah Sew_ [2012] 2 SLR 831 at [14]–[15]). The strongest argument that [X] can make here is probably that no consideration actually passed from [X] to [Y], although the consideration stated in the instrument of transfer was $400,000. However, this fact does not strongly suggest that [Y] intended to gift to [X] a share in the Property at least in the proportion of $400,000 to its then market value. 
+59     The mere fact of joint tenancy (and the attendant fact of the right of survivorship) does little to prove the parties’ intention as to the beneficial ownership of the property. At best, it does not overtly contradict [X]’s claim that [Y] intended for her and her children to be able to live in the Property should anything happen to him. Where joint tenants have made unequal contributions to the purchase price of the property, they are presumed to beneficially own a share of the property proportionate to their respective contributions to its purchase price ( _Lau Siew Kim_ at [83]; _Neo Hui Ling v Ang Ah Sew_ <span class="citation">[2012] 2 SLR 831</span> at [14]–[15]). The strongest argument that [X] can make here is probably that no consideration actually passed from [X] to [Y], although the consideration stated in the instrument of transfer was $400,000. However, this fact does not strongly suggest that [Y] intended to gift to [X] a share in the Property at least in the proportion of $400,000 to its then market value. 
 
 60 [X]’s comparison of the Property to Pasadena property also suffers from a crucial flaw — it is distinguishable on the basis of the times when the properties were acquired. The Pasadena property was acquired in 2004, _ie_ , after the parties registered their marriage in 1999. According to both expert affidavits before me, under California law, community property is all property acquired by a married person _during marriage while domiciled in California_. This means that the Pasadena property would have been community property on the assumption that [X] and [Y] were validly married. On the other hand, the Property was acquired in 1997, _ie_ , before [X] and [Y] even started dating. The parties 
 

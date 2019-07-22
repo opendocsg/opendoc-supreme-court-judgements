@@ -58,7 +58,7 @@ defendant’s solicitors offered on a “without prejudice” basis to pay the p
 
 **The decision** 
 
-15     As was stated by the district judge in her grounds of decision (“GD”) at [2008] SGDC 227, the issue is whether the doctrine of _res judicata_ in the extended sense propounded by Wigram VC in _Henderson v Henderson_ [1843-1860] All ER 378, applied so as to bar the plaintiff from making his claim under the invoices. In allowing the Appeal, I had disagreed with the district judge who held that it did not. 
+15     As was stated by the district judge in her grounds of decision (“GD”) at <span class="citation">[2008] SGDC 227</span>, the issue is whether the doctrine of _res judicata_ in the extended sense propounded by Wigram VC in _Henderson v Henderson_ [1843-1860] All ER 378, applied so as to bar the plaintiff from making his claim under the invoices. In allowing the Appeal, I had disagreed with the district judge who held that it did not. 
 
 16     I will not repeat all the other facts extracted from the AEICs which were set out in the GD of the court below. Neither is there a need to refer _in extenso_ to all the cases cited by the court below as I am in full agreement with the applicability of those cases. 
 
@@ -107,11 +107,11 @@ _The law_
  ..An important purpose of the rule is to protect a defendant against the harassment necessarily involved in repeated actions concerning the same subject matter. A second action is not the less harassing because the defendant has been driven or thought it prudent to settle the first; often, indeed, that outcome would make a second action the more harassing. 
 
 
-27     The court below had also cited _Goh Nellie v Goh Lian Teck_ [2007] 1 SLR 453 and quoted the following extract from Sundaresh Menon JC’s decision (at [41]): 
+27     The court below had also cited _Goh Nellie v Goh Lian Teck_ <span class="citation">[2007] 1 SLR 453</span> and quoted the following extract from Sundaresh Menon JC’s decision (at [41]): 
 
  In my judgment, the relevant principle is that where the issue has in fact been directly covered by the earlier decision, it will be caught either by cause of action estoppel or issue estoppel. As one moves further away from what was directly covered by the earlier decision, then the relevant doctrine becomes the defence of abuse of process rather than issue estoppel. Thus, where the issue ought to have been raised and was not, it might nonetheless amount to an abuse of process subsequently to litigate that same issue; see Henderson v Henderson [1843-60] ALL ER Rep 378 (“ Henderson ”) which was followed in Hendrawan Setiadi. 
 
-28     Earlier, the same view was expressed by our Court of Appeal in _Lee Hiok Tng (personal capacity) v Lee Hiok Tng (representative capacity)_ [2001] 3 SLR 41 where Chao Hick Tin JA, at [25] after citing Wigram V-C’s dictum in _Henderson v Henderson_ (see _supra_ [23]) said: 
+28     Earlier, the same view was expressed by our Court of Appeal in _Lee Hiok Tng (personal capacity) v Lee Hiok Tng (representative capacity)_ <span class="citation">[2001] 3 SLR 41</span> where Chao Hick Tin JA, at [25] after citing Wigram V-C’s dictum in _Henderson v Henderson_ (see _supra_ [23]) said: 
 
  It is clear that the true basis for the extended sense of the doctrine of res judicata is to be found in the concept of abuse of process of the court. It is not in the public interest that in relation to a single matter there could be multiplicity of proceedings. 
 

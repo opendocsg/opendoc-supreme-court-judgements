@@ -20,7 +20,7 @@ _Companies_ – _Directors_ – _Remuneration_ – _Whether directors' remunerat
 
 **Lai Kew Chai J (delivering the judgment of the court):** 
 
-1       In our judgment dated 30 March 2004 ([2004] SGCA 12), we allowed the appellants’ appeal in part and ordered, _inter alia_ , that: 
+1       In our judgment dated 30 March 2004 (<span class="citation">[2004] SGCA 12</span>), we allowed the appellants’ appeal in part and ordered, _inter alia_ , that: 
 
  (a) the payments received by the second respondent, Kong Siew Seng (“Siew”), and the third respondent, Ng Phuay Khoon (“Phuay”), from the first appellant, Huap Huat Rubber Company Sdn Bhd (“HHR”), on or after 1 January 1998, were to be refunded by Siew and Phuay to HHR; and 
 

@@ -16,7 +16,7 @@
 
 _Civil Procedure_ – _Disclosure of documents_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 20.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 20</span>.] 
 
 5 October 2017 
 
@@ -28,7 +28,7 @@ _Civil Procedure_ – _Disclosure of documents_
 
 2       Separately, and (significantly, in our view) without informing Dr Goh, LSI commenced Originating Summons No 509 of 2016 (“OS 509/2016”) against OCBC, seeking disclosure of documents relating to the Account to discover if the Sale Price remained in the Account or had been transferred to any third parties. If the Sale Price had been transferred to third parties, LSI could then seek recovery by asserting a proprietary claim to the Sale Price. 
 
-3       When Dr Goh found out about OS 509/2016, he successfully applied to be added as a defendant to the proceedings. Dr Goh argued against the order sought by LSI, while OCBC took the position that it would abide by any orders made by the court. The High Court judge (“the Judge”) allowed LSI’s application in OS 509/2016 (see _Liberty Sky Investments Ltd v Oversea-Chinese Banking Corp Ltd and another_ [2017] SGHC 20 (“the GD”)). The present appeal was Dr Goh’s appeal against this decision. We allowed the appeal and now give the detailed grounds for our decision. 
+3       When Dr Goh found out about OS 509/2016, he successfully applied to be added as a defendant to the proceedings. Dr Goh argued against the order sought by LSI, while OCBC took the position that it would abide by any orders made by the court. The High Court judge (“the Judge”) allowed LSI’s application in OS 509/2016 (see _Liberty Sky Investments Ltd v Oversea-Chinese Banking Corp Ltd and another_ <span class="citation">[2017] SGHC 20</span> (“the GD”)). The present appeal was Dr Goh’s appeal against this decision. We allowed the appeal and now give the detailed grounds for our decision. 
 
 **Facts** 
 
@@ -66,7 +66,7 @@ _same day_ , Dr Goh _only_ had notice of _the first_ (which is not surprising si
 
 **The decision below** 
 
-13     The Judge held that the applicable test for the grant of the order sought by LSI was the test laid down by this court in _Dorsey James Michael v World Sport Group Pte Ltd_ [2014] 2 SLR 208 (“ _Dorsey James_ ” and “the _Dorsey James_ test”), which the Judge summarised as follows (see the GD at [20]): 
+13     The Judge held that the applicable test for the grant of the order sought by LSI was the test laid down by this court in _Dorsey James Michael v World Sport Group Pte Ltd_ <span class="citation">[2014] 2 SLR 208</span> (“ _Dorsey James_ ” and “the _Dorsey James_ test”), which the Judge summarised as follows (see the GD at [20]): 
 
  First, the person from whom discovery is sought must have had been involved in the wrongdoing, though the involvement may have been completely innocent. Second, the applicant must be able to show a reasonable prima facie case of wrongdoing against the person whose information or identity is sought of. Third, the applicant must show that the disclosure sought is necessary to enable him to take action, or at least that it is just and convenient in the interests of justice to make the order sought. Two significant considerations in the last factor are whether there exists an alternative and more appropriate method to obtain the information and whether the order is proportionate in the circumstances. [references omitted] 
 
@@ -99,7 +99,7 @@ _same day_ , Dr Goh _only_ had notice of _the first_ (which is not surprising si
 
 **_Introduction_** 
 
-23     As noted at [17]–[19] above, the issue of the applicable test was a matter hotly disputed on appeal. One key area of controversy was whether LSI had to show (in the context of the present case) a reasonable _prima facie_ case of fraud, or had to show _compelling_ evidence of fraud. A similar issue was also raised before the High Court in _Success Elegant Trading Ltd v La Dolce Vita Fine Dining Co Ltd and others and another appeal_ [2016] 4 SLR 1392 (“ _La Dolce Vita_ ”). 
+23     As noted at [17]–[19] above, the issue of the applicable test was a matter hotly disputed on appeal. One key area of controversy was whether LSI had to show (in the context of the present case) a reasonable _prima facie_ case of fraud, or had to show _compelling_ evidence of fraud. A similar issue was also raised before the High Court in _Success Elegant Trading Ltd v La Dolce Vita Fine Dining Co Ltd and others and another appeal_ <span class="citation">[2016] 4 SLR 1392</span> (“ _La Dolce Vita_ ”). 
 
 
 2       4 _La Dolce Vita_ involved two similar applications by the plaintiffs for disclosure of the second defendant’s banking documents from two of the second defendant’s banks. Each bank was named as the first defendant in each application. The plaintiffs there alleged that the second defendant had made various fraudulent misrepresentations which induced the plaintiffs into acquiring shares in that business. In that context, parties contested whether the plaintiffs needed only to show a reasonable case of wrongdoing to make out a _prima facie_ case of fraud, or had to show a “strong _prima facie_ case of fraud” ( _La Dolce Vita_ at [36] and [40]–[41]). Ultimately, the High Court left this point open, as the court found that there was “sufficiently strong and cogent evidence to establish a _prima facie_ case of fraud” on the basis of, _inter alia_ , several expert reports that indicated that the business’s financial and accounting information had been subjected to fraudulent manipulation and overstatement (at [54] and [59]–[65]). 
@@ -220,7 +220,7 @@ following guidance provided by the Lord Chief Justice Cockburn in an extra-judic
 
  My noble and learned friend Lord Brougham ... said that an advocate should be fearless in carrying out the interests of his client, but I couple that with this qualification and this restriction, that the arms which he wields are to be the arms of the warrior and not of the assassin. It is his duty to strive to accomplish the interests of his clients per fas and not per nefas. It is his duty to the utmost of his power to seek to reconcile the interests he is bound to maintain and the duty it is incumbent upon him to discharge with the eternal and immutable interests of truth and justice. [emphasis added] 
 
-63     First delivered in 1864, these apt and excellent observations by Cockburn CJ have since been endorsed by the Singapore courts in a number of cases (see, for example, _Shaw & Shaw Ltd v Lim Hock Kim (No 2)_ [1958] MLJ 129 at 130–131; _Public Trustee and another v By Products Traders Pte Ltd and others_ [2005] 3 SLR(R) 449 at [31]; _Law Society of Singapore v Ahmad Khalis bin Abdul Ghani_ [2006] 4 SLR(R) 308 at [40]; and _Law Society of Singapore v Mahadevan Lukshumayeh and others_ [2008] 4 SLR(R) 116 at [77]). It remains relevant, and all advocates would do well to pay heed to such sage advice. 
+63     First delivered in 1864, these apt and excellent observations by Cockburn CJ have since been endorsed by the Singapore courts in a number of cases (see, for example, _Shaw & Shaw Ltd v Lim Hock Kim (No 2)_ [1958] MLJ 129 at 130–131; _Public Trustee and another v By Products Traders Pte Ltd and others_ <span class="citation">[2005] 3 SLR(R) 449</span> at [31]; _Law Society of Singapore v Ahmad Khalis bin Abdul Ghani_ <span class="citation">[2006] 4 SLR(R) 308</span> at [40]; and _Law Society of Singapore v Mahadevan Lukshumayeh and others_ <span class="citation">[2008] 4 SLR(R) 116</span> at [77]). It remains relevant, and all advocates would do well to pay heed to such sage advice. 
 
  Copyright © Government of Singapore. 
 

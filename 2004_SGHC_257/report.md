@@ -65,7 +65,7 @@ deposited into the defendant’s Bank of America account bearing number 00333-27
 
  (3) Where the right of any party to a specific fund is in dispute in a cause or matter, the Court may, on the application of a party to the cause or matter, order the fund to be paid into Court or otherwise secured. 
 
-13\. This order was interpreted in the Court of Appeal decision in _Bocotra Construction Pte Ltd and others v Attorney General_ [1995] 2 SLR 523. While the case dealt with the interpretation of Rule 18(g) of the Arbitration Rules of the Singapore International Arbitration Centre, the Court of Appeal opined that O 29 r 2(1) should be interpreted in the same manner. Delivering the judgment of the Court of Appeal, Karthigesu JA held, at [51], that: 
+13\. This order was interpreted in the Court of Appeal decision in _Bocotra Construction Pte Ltd and others v Attorney General_ <span class="citation">[1995] 2 SLR 523</span>. While the case dealt with the interpretation of Rule 18(g) of the Arbitration Rules of the Singapore International Arbitration Centre, the Court of Appeal opined that O 29 r 2(1) should be interpreted in the same manner. Delivering the judgment of the Court of Appeal, Karthigesu JA held, at [51], that: 
 
 
  51 The arbitrator evidently thought that he was empowered to order the preservation of the proceeds of payment under the guarantee. May LJ reasoned convincingly in Potton Homes that such proceeds cannot be frozen under O 29 r 2(1), as they were not the subject matter of litigation in specie. The same reasoning would apply to r 18(g), which, contrary to what the appellants suggested, is indeed closely analogous to O 29 r 2(1) RSC. We are of the opinion that r 18(g), like O 29 r 2(1) RSC, can only apply to enable the preservation of physical items which form the subject matter of arbitration in specie or are otherwise relevant thereto. The preservation of these items should be essential to rights of parties being determined under the arbitration. Whether the ‘property’ was characterized as the right to call (ie a chose in action) or the proceeds of payment, we do not find the appellants’ submissions persuasive. In the premises, we agree with the reasoning of the learned judge, who correctly held that r 18(g) applies only to physical items and not choses in action. ... [Emphasis added.] 
@@ -82,7 +82,7 @@ Kershaw, _Commercial Litigation: Pre-Emptive Remedies_ (3rd Ed, 1997) paragraph 
 
 In my view, this commentary is no more than a paraphrase of the wording of O 29 r 2(3). It does not help in determining what qualifies as a specific fund. 
 
-16\. Counsel for the plaintiff also relied on the case of _Lee Sai Poh and others v Vejayakumar and another_ [1997] 3 SLR 612, where CR Rajah JC granted a Mareva injunction over moneys in a Maybank account. The learned Judicial Commissioner opined, at [19], that: 
+16\. Counsel for the plaintiff also relied on the case of _Lee Sai Poh and others v Vejayakumar and another_ <span class="citation">[1997] 3 SLR 612</span>, where CR Rajah JC granted a Mareva injunction over moneys in a Maybank account. The learned Judicial Commissioner opined, at [19], that: 
 
  19 As the moneys ... could be traced to the moneys ... in the first defendant’s account with Maybank, the third plaintiff has a genuine proprietary claim to these moneys, which moneys can be readily identified. The injunction granted herein should therefore be taken to operate also as an injunction for the interim preservation of property under O 28 of the Rules of Court [1996]. I therefore dismissed the second defendant’s application to discharge the interim injunction. 
 
@@ -120,7 +120,7 @@ account and $1,143,000 into the other. The former account was used as collateral
 
 _Precedents_ (2nd Ed, 1993), paragraphs 4.7.1 and 4.7.2, at pp 75–76. 
 
-25\. The principles governing the grant of an interim injunction were set out in the Court of Appeal decision in _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd_ [1992] 2 SLR 729, where Warren Khoo J held, at [88], that: 
+25\. The principles governing the grant of an interim injunction were set out in the Court of Appeal decision in _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd_ <span class="citation">[1992] 2 SLR 729</span>, where Warren Khoo J held, at [88], that: 
 
  ... a fundamental principle is that the court should take whichever course appears to carry the lower risk of injustice if it should turn out to have been wrong at trial in the sense of granting relief to a party who fails to establish his rights at the trial, or of failing to grant relief to a party who succeeds at the trial. 
 

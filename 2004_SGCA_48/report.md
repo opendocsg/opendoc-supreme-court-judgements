@@ -28,7 +28,7 @@ _Words and Phrases_ – _Meaning of "indemnify for ... costs and expenses"_ – 
 
 **Chao Hick Tin JA (delivering the judgment of the court):** 
 
-1       This was an appeal by a director of a company against a decision of the High Court refusing his claim for remuneration: see _Scotts Investments (Singapore) Pte Ltd v Jumabhoy Ameerali_ [2004] SGHC 20. We heard the appeal on 25 August 2004 and dismissed it with costs. We now give our reasons. 
+1       This was an appeal by a director of a company against a decision of the High Court refusing his claim for remuneration: see _Scotts Investments (Singapore) Pte Ltd v Jumabhoy Ameerali_ <span class="citation">[2004] SGHC 20</span>. We heard the appeal on 25 August 2004 and dismissed it with costs. We now give our reasons. 
 
 **The background** 
 

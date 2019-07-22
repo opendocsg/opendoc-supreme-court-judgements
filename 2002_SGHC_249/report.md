@@ -74,7 +74,7 @@ due to his low education and the poor state of his mental and physical health. H
 
 18     His previous convictions were rather long ago and did not involve offences of violence. He used no weapon in the attack on his father. He was not a habitual drinker of alcohol – he could scarcely afford to do so. 
 
-19     Among the many cases cited was **_PP v Jamal anak Nyalau_** **[2002] 3 SLR 66** where the 3 accused persons there were convicted of an offence under section 304 (b) Penal Code and sentenced to imprisonment of 6 years and 6 months each. There, the 3 accused persons had attacked a helpless victim without provocation. They had no previous conviction and had pleaded guilty at the first opportunity. No weapons were used. It was argued that there was some provocation by the father in the present case. Further the victim here was not outnumbered. I was therefore urged to imprison the accused for no more than 6 years. 
+19     Among the many cases cited was **_PP v Jamal anak Nyalau_** **<span class="citation">[2002] 3 SLR 66</span>** where the 3 accused persons there were convicted of an offence under section 304 (b) Penal Code and sentenced to imprisonment of 6 years and 6 months each. There, the 3 accused persons had attacked a helpless victim without provocation. They had no previous conviction and had pleaded guilty at the first opportunity. No weapons were used. It was argued that there was some provocation by the father in the present case. Further the victim here was not outnumbered. I was therefore urged to imprison the accused for no more than 6 years. 
 
 **THE DECISION OF THE COURT** 
 

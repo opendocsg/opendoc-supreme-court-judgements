@@ -149,9 +149,9 @@ land. The Appellant notes that but for the 1965 amendment, this option might not
 
  [emphasis added] 
 
-21     In _Chief Assessor and another v First DCS Pte Ltd_ [2008] 2 SLR(R) 724 (“ _First DCS_ ”), the Court of Appeal explained (at [10]) the effect of s 9A(1) of the Interpretation Act as follows: 
+21     In _Chief Assessor and another v First DCS Pte Ltd_ <span class="citation">[2008] 2 SLR(R) 724</span> (“ _First DCS_ ”), the Court of Appeal explained (at [10]) the effect of s 9A(1) of the Interpretation Act as follows: 
 
- 10 When construing statutory provisions, it is important to consider the purpose for which Parliament enacted the provision in question. It would be incorrect to read the provision as if it existed in a vacuum. Indeed, by virtue of s 9A of the Interpretation Act (Cap 1, 2002 Rev Ed), the courts must prefer an interpretation which supports the intended purpose of a provision over an interpretation that does not. The effect of that section is to make the purposive approach the paramount rule of construction in our jurisprudence: PP v Low Kok Heng [2007] 4 SLR(R) 183. 
+ 10 When construing statutory provisions, it is important to consider the purpose for which Parliament enacted the provision in question. It would be incorrect to read the provision as if it existed in a vacuum. Indeed, by virtue of s 9A of the Interpretation Act (Cap 1, 2002 Rev Ed), the courts must prefer an interpretation which supports the intended purpose of a provision over an interpretation that does not. The effect of that section is to make the purposive approach the paramount rule of construction in our jurisprudence: PP v Low Kok Heng <span class="citation">[2007] 4 SLR(R) 183</span>. 
 
 Bearing this principle in mind, I will now consider s 2(3)( _b_ ) of the Act in detail, beginning with its legislative history. 
 
@@ -386,7 +386,7 @@ principles of valuation should apply. In particular, the “principle of reality
 
 period would only last for a few years. Further and in any event, the Respondent’s notion of “market value” assumes that the market would value the Property at a particular value _ignoring the committed sales_. Without statutory authorisation, this would not be in line with the _rebus sic stantibus_ principle. 
 
-60     The Respondent’s third argument (see [18] above) is based on its administrative practice. The simple answer to this argument as the Appellant submitted, is that practice is not law: see _Comptroller of Income Tax v GE Pacific Pte Ltd_ [1994] 2 SLR(R) 948 at [35]; and _ACC v Comptroller of Income Tax_ [2011] 1 SLR 1217 at [41]. 
+60     The Respondent’s third argument (see [18] above) is based on its administrative practice. The simple answer to this argument as the Appellant submitted, is that practice is not law: see _Comptroller of Income Tax v GE Pacific Pte Ltd_ <span class="citation">[1994] 2 SLR(R) 948</span> at [35]; and _ACC v Comptroller of Income Tax_ <span class="citation">[2011] 1 SLR 1217</span> at [41]. 
 
 61     The Respondent’s fourth argument (see [19] above) is that because property tax is a tax on a property, the Respondent should not have regard to the arrangements made by the owner of a property in respect of its sale of units. With respect, I am unable to follow this argument; as a matter of logic the incidence of a liability and the method of calculating the quantum of that liability (which is dependent on the annual value) are conceptually distinct. 
 

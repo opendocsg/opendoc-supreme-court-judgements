@@ -177,7 +177,7 @@ Commissioner Quentin Loh (“JC Loh”) on 1 October 2009. Even if she was not b
 
 9       AML raised one other point. She asserted that based on an affidavit filed by the plaintiffs themselves for the accounting, the eventual amount to be paid to them (after taking into account the Debt) would be no more than $1,545,129.24, which was less than $1,740,755.87. The amount claimed by the plaintiffs was therefore erroneous. However, AML was not offering to pay the $1,545,179.24. 
 
-10     It is a well-established principle that a creditor may initiate or continue with bankruptcy proceedings, even if the sum demanded is excessive, so long as there is a sum due to the creditor which exceeds the minimum sum requirement to proceed with such proceedings (see _Tan Siew Ling v United Overseas Bank Ltd_ [2010] SGHC 43 and _Goh Chin Soon and anor v Vickers Capital Ltd_ [2000] 3 SLR(R) 977). 
+10     It is a well-established principle that a creditor may initiate or continue with bankruptcy proceedings, even if the sum demanded is excessive, so long as there is a sum due to the creditor which exceeds the minimum sum requirement to proceed with such proceedings (see _Tan Siew Ling v United Overseas Bank Ltd_ <span class="citation">[2010] SGHC 43</span> and _Goh Chin Soon and anor v Vickers Capital Ltd_ <span class="citation">[2000] 3 SLR(R) 977</span>). 
 
 11     In the circumstances, I dismissed AML’s appeal. 
 

@@ -22,7 +22,7 @@ _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ – _Illegally
 
 **Kan Ting Chiu SJ:** 
 
-1       These grounds of decision are supplemental to the first grounds of decision that I issued on 11 May 2017 (see _Public Prosecutor v Muhammad Nur Sallehin bin Kamaruzaman_ [2017] SGHC 107). At that time the Accused, Muhammad Nur Sallehin bin Kamaruzaman, had only appealed against the sentence of life imprisonment and 15 strokes of the cane imposed on him. He subsequently amended his appeal to appeal extended to his conviction as well, and these supplemental grounds will deal with the conviction. 
+1       These grounds of decision are supplemental to the first grounds of decision that I issued on 11 May 2017 (see _Public Prosecutor v Muhammad Nur Sallehin bin Kamaruzaman_ <span class="citation">[2017] SGHC 107</span>). At that time the Accused, Muhammad Nur Sallehin bin Kamaruzaman, had only appealed against the sentence of life imprisonment and 15 strokes of the cane imposed on him. He subsequently amended his appeal to appeal extended to his conviction as well, and these supplemental grounds will deal with the conviction. 
 
 2       The Accused was convicted on a charge that he: 
 

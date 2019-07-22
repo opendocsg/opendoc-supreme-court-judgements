@@ -164,7 +164,7 @@ York issued its decision in _Shipping Corporation of India v Jaldhi Pte Ltd_. 58
 
 22     It is well settled and not in dispute that the burden of proof is on the plaintiff to satisfy all the jurisdictional requirements laid down in s 4(4) of the HCAJA in order to successfully invoke the admiralty jurisdiction against the _Catur Samudra_ : see _The Maritime Trader_ [1981] 2 Lloyd’s Rep 153 (“ _The Maritime Trader_ ”) at 157 and _The Andres Bonifacio_ [1991] 2 MLJ 371 (“ _The Andres Bonifacio”)_. 
 
-23     It is also trite that the plaintiff must satisfy the burden of proof on a balance of probabilities: see _The Aventicum_ [1978] 1 Lloyd’s Rep 184 at 190 and _The Alexandrea_ [2002] 3 SLR 56 at [18]. Equally, it is not in dispute that the question of admiralty jurisdiction must be decided based on the affidavit evidence before the court and should not be tried as an issue (save for exceptional circumstances which do not apply here): 
+23     It is also trite that the plaintiff must satisfy the burden of proof on a balance of probabilities: see _The Aventicum_ [1978] 1 Lloyd’s Rep 184 at 190 and _The Alexandrea_ <span class="citation">[2002] 3 SLR 56</span> at [18]. Equally, it is not in dispute that the question of admiralty jurisdiction must be decided based on the affidavit evidence before the court and should not be tried as an issue (save for exceptional circumstances which do not apply here): 
 
 
  (a) 
@@ -179,7 +179,7 @@ York issued its decision in _Shipping Corporation of India v Jaldhi Pte Ltd_. 58
 
 - per Goff L J in _The I Congresco_ [1977] 1 Lloyd’s Rep 536 at 559. 
 
-24     In order to invoke the admiralty jurisdiction of the High Court against the _Catur Samudra_ , four conditions under s 4(4) of the HCAJA must first be satisfied (see _The Permina 108_ [1977] 1 MLJ 43 at 45 and _The Inai Selasih_ [2005] 4 SLR 1 at [6]). These conditions are: 
+24     In order to invoke the admiralty jurisdiction of the High Court against the _Catur Samudra_ , four conditions under s 4(4) of the HCAJA must first be satisfied (see _The Permina 108_ [1977] 1 MLJ 43 at 45 and _The Inai Selasih_ <span class="citation">[2005] 4 SLR 1</span> at [6]). These conditions are: 
 
  The claim is mentioned in section 3 (1) (d) to (q); 
 
@@ -199,7 +199,7 @@ York issued its decision in _Shipping Corporation of India v Jaldhi Pte Ltd_. 58
 
 26     Counsel for the plaintiff advanced the following arguments that the claim under the guarantee falls within the scope of s 3(1)( _h_ ) of the HCAJA: 
 
- (a) The provisions of the HCAJA including s 3(1)( h ) are to be given a “broad and liberal construction.” – The Antonis P Lemos [1985] AC 711 (“ The Antonis P Lemos”) , The Indriani [1996] 1 SLR 305 (“ The Indriani “) and The Mara [2000] 4 SLR 156 (“ The Mara “) were cited in support. 
+ (a) The provisions of the HCAJA including s 3(1)( h ) are to be given a “broad and liberal construction.” – The Antonis P Lemos [1985] AC 711 (“ The Antonis P Lemos”) , The Indriani <span class="citation">[1996] 1 SLR 305</span> (“ The Indriani “) and The Mara <span class="citation">[2000] 4 SLR 156</span> (“ The Mara “) were cited in support. 
 
  (b) The guarantee issued by HIT would constitute an agreement relating to the charterparty of the Mahakam as the provision of the guarantee was stated to be a condition precedent to the 
 
@@ -338,7 +338,7 @@ were held to be outside s 3(1)( _h_ ) of the HCAJA, typically the vessels were n
 
 54     Implicit in the plaintiff’s confirmation is their acknowledgment that the materials which they were relying on do not justify the lifting of the corporate veil. It is plainly inconsistent and incongruous for the plaintiff to rely on the same materials to show that HIT was in possession or in control of the _Mahakam_ having accepted that Heritage was the bareboat charterers of the _Mahakam_ at all material times. As earlier observed, the plaintiff has commenced London arbitration proceedings against Heritage for the outstanding charterhire under the Bareboat C/P. 
 
-55     The establishment of one-ship companies within a group of companies is a well-known and legitimate practice in the shipping industry: see _The Evpo Agnic_ [1988] 2 Lloyd’s Rep 411 at 415 (“ _The Evpo Agnic”_ ). There have been numerous unsuccessful attempts to lift the corporate veil in the context of one-ship companies with common shareholdings and/or directors: see _The Evpo Agnic_ , _The Maritime Trader_ , _The Neptune_ [1986] HKLR 345, _The Andres Bonifacio_ , _T h e Interippu_ [1990] SGHC 131 (“ _The Interippu_ ”) and _The Skaw Prince_ [1994] 3 SLR 379. The court may be minded t o lift the corporate veil if there are exceptional circumstances which indicate the presence of a façade or sham set up to deceive or to perpetrate a fraud: see _The Aventicum_ , _The Saudi Prince_ [1982] 2 Lloyd’s Rep 255 and _Win Line (UK) Ltd v Masterpart (Singapore) Pte Ltd_ [2000] 2 SLR 98 at 116−117. 
+55     The establishment of one-ship companies within a group of companies is a well-known and legitimate practice in the shipping industry: see _The Evpo Agnic_ [1988] 2 Lloyd’s Rep 411 at 415 (“ _The Evpo Agnic”_ ). There have been numerous unsuccessful attempts to lift the corporate veil in the context of one-ship companies with common shareholdings and/or directors: see _The Evpo Agnic_ , _The Maritime Trader_ , _The Neptune_ [1986] HKLR 345, _The Andres Bonifacio_ , _T h e Interippu_ <span class="citation">[1990] SGHC 131</span> (“ _The Interippu_ ”) and _The Skaw Prince_ <span class="citation">[1994] 3 SLR 379</span>. The court may be minded t o lift the corporate veil if there are exceptional circumstances which indicate the presence of a façade or sham set up to deceive or to perpetrate a fraud: see _The Aventicum_ , _The Saudi Prince_ [1982] 2 Lloyd’s Rep 255 and _Win Line (UK) Ltd v Masterpart (Singapore) Pte Ltd_ <span class="citation">[2000] 2 SLR 98</span> at 116−117. 
 
 
  (a) 
@@ -359,7 +359,7 @@ were held to be outside s 3(1)( _h_ ) of the HCAJA, typically the vessels were n
 
  person in possession or in control 
 
-58     These different entities concern parties with substantive as opposed to nominal or formal interest in relation to the ship: see _The Ohm Mariana_ [1993] 2 SLR 698 at 710 (“ _The Ohm Mariana_ ”). 
+58     These different entities concern parties with substantive as opposed to nominal or formal interest in relation to the ship: see _The Ohm Mariana_ <span class="citation">[1993] 2 SLR 698</span> at 710 (“ _The Ohm Mariana_ ”). 
 
 59     Under Singapore law, an owner refers to the beneficial owner who is vested with the right of sale: see _The Ohm Mariana_. It is not restricted only to the registered owners as was found to be the case in _The Evpo Agnic_. Charterer would include voyage, time, demise or even slot charterers. Each of these charterers would have legally enforceable rights in relation to the employment of the ship. By the same token, a named charterer under a sham charterparty is not a charterer within the meaning of s 4(4)( _b_ ) of the HCAJA as the sham charterparty does not give rise to any legally enforceable rights _qua_ charterer: see _The Inai Selasih_. 
 

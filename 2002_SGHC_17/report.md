@@ -37,7 +37,7 @@ By this originating motion filed on 11 January 2002, Mr Stuart Littlemore QC ("M
 
  of the case. 
 
-4       The requirements of s 21 were clearly set out by Yong Pung How CJ in _Re Caplan Jonathan Michael QC_ (No 2) [1998] 1 SLR 440 at [para 11]: 
+4       The requirements of s 21 were clearly set out by Yong Pung How CJ in _Re Caplan Jonathan Michael QC_ (No 2) <span class="citation">[1998] 1 SLR 440</span> at [para 11]: 
 
  At the first stage, the applicant must demonstrate that the case in which he seeks to appear contains issues of law and/or fact of sufficient difficulty and complexity to require elucidation and/or argument by a Queen’s Counsel. Such difficulty or complexity is not of itself a guarantee of admission, for the decision t o admit is still a matter for the court’s discretion. At the second stage, therefore, the applicant must persuade the court that the circumstances of the particular case warrant the court exercising its discretion in favour of his admission. Finally, he has to satisfy the court of his suitability for admission. 
 

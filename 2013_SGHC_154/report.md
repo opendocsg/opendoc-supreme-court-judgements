@@ -165,7 +165,7 @@ _AEICs_
 
 23     However the principle of open justice does not require access to AEICs prior to their being admitted in court. As elaborated above, the principle of open justice is engaged only when such AEICs are admitted in evidence and therefore before a court whose proceedings are amenable to public scrutiny. This would address the Defendant’s concern that it would be manifestly unjust to other individuals under the Defendant’s employment who were not party to S939/2011 but who might be concerned in the alleged LIBOR manipulation, for the press to have access to the case file in S939/2011 and to infer wrongdoings on their part while the investigations were still ongoing when in truth they may not even be culpable at all (see [6] above). 
 
-24     There is another consideration bearing on this point. Statements made in the course of judicial proceedings are absolutely privileged. In _Hong Lam Marine Pte Ltd and Another v Koh Chye Heng_ [1998] SGHC 65, the court accepted the following statement from Philip Lewis, _Gatley on Libel and Slander_ (Sweet & Maxwell, 8th Ed, 1981) (at [21]): 
+24     There is another consideration bearing on this point. Statements made in the course of judicial proceedings are absolutely privileged. In _Hong Lam Marine Pte Ltd and Another v Koh Chye Heng_ <span class="citation">[1998] SGHC 65</span>, the court accepted the following statement from Philip Lewis, _Gatley on Libel and Slander_ (Sweet & Maxwell, 8th Ed, 1981) (at [21]): 
 
  21 Gatley on Libel and Slander (8th Edition) contains the following passages in the chapter on 'Absolute Privilege': 
 

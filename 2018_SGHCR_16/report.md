@@ -59,13 +59,13 @@ _Civil Proc edure_ – _Costs_ – _Taxation_
 
  (f) where money or property is involved, its amount or value. 
 
-7       In _Lin Jian Wei and another v Lim Eng Hoc k Peter_ [2011] 3 SLR 1052 at [78], the Court of Appeal stated that “the approach that should be adopted in taxation is that the Court should first assess the relative complexity of the matter, the work supposedly done against what was reasonably required in the prevailing circumstances, the reasonableness and proportionality of the resulting aggregate costs. In this exercise, all the Appendix 1 considerations are relevant. In the general scheme of things, no single consideration ordinarily ought to take precedence. In every matter, this calls for careful judgment by reference to existing precedents and guidelines.” 
+7       In _Lin Jian Wei and another v Lim Eng Hoc k Peter_ <span class="citation">[2011] 3 SLR 1052</span> at [78], the Court of Appeal stated that “the approach that should be adopted in taxation is that the Court should first assess the relative complexity of the matter, the work supposedly done against what was reasonably required in the prevailing circumstances, the reasonableness and proportionality of the resulting aggregate costs. In this exercise, all the Appendix 1 considerations are relevant. In the general scheme of things, no single consideration ordinarily ought to take precedence. In every matter, this calls for careful judgment by reference to existing precedents and guidelines.” 
 
 8       It is also pertinent to note the interplay between reasonableness, proportionality and necessity as set out by the CA at [56]: 
 
  “We think that costs that are plainly disproportionate to, inter alia, the value of the claim cannot be said to have been reasonably incurred. Thus, in assessing whether costs incurred are reasonable, it needs to be shown that the costs incurred were not just reasonable and necessary for the disposal of the matter, but also, in the entire context of that matter, proportionately incurred.” 
 
-9       In _Shorvon Simon v Singapore Medic al Counc il_ [2006] 1 SLR(R) 182 at [20], the CA stated that the Court “ought to ascertain the amount of costs allowed for similar cases” and that “a departure from the norm invariably warrants justification by reference to the reasons necessitating the exercise 
+9       In _Shorvon Simon v Singapore Medic al Counc il_ <span class="citation">[2006] 1 SLR(R) 182</span> at [20], the CA stated that the Court “ought to ascertain the amount of costs allowed for similar cases” and that “a departure from the norm invariably warrants justification by reference to the reasons necessitating the exercise 
 
 
 of such judicial discretion.” 

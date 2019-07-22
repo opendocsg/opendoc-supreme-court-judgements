@@ -16,7 +16,7 @@
 
 _Financial and Securities Markets_ – _Insider Trading_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 123 of 2010 was dismissed by the Court of Appeal on 1 March 2011. See [2012] SGCA 12.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 123 of 2010 was dismissed by the Court of Appeal on 1 March 2011. See <span class="citation">[2012] SGCA 12</span>.] 
 
 27 May 2010 Judgment reserved. 
 

@@ -51,7 +51,7 @@ _Evidence_ – _Sexual offences_ – _Child victim_ – _Whether delay in making
 
 3       The Defence pointed out that under s 159(2) CPC it is where the charge involves criminal breach of trust or dishonest misappropriation of money that the charge may state the dates between which the offence is alleged to have been committed and this too is subject to a proviso that the time included between the first and last of such dates shall not exceed one year. 
 
-4       The Defence also relied on some cases but I need mention three only, _ie_ , _R v Mohamed Ali_ [1933] MLJ 74 (“ _Mohamed Ali_ ”), _PP v Yap Kok Meng_ [1974] 1 MLJ 108 (“ _Yap Kok Meng_ ”) and _Lim Chuan Huat v PP_ [2002] 1 SLR 105 (“ _Lim Chuan Huat_ ”). The Defence submitted that the charges severely compromised the Accused who might otherwise be able to raise an alibi defence. 
+4       The Defence also relied on some cases but I need mention three only, _ie_ , _R v Mohamed Ali_ [1933] MLJ 74 (“ _Mohamed Ali_ ”), _PP v Yap Kok Meng_ [1974] 1 MLJ 108 (“ _Yap Kok Meng_ ”) and _Lim Chuan Huat v PP_ <span class="citation">[2002] 1 SLR 105</span> (“ _Lim Chuan Huat_ ”). The Defence submitted that the charges severely compromised the Accused who might otherwise be able to raise an alibi defence. 
 
 5       The Prosecution submitted that I should also take into account s 160 CPC, besides s 159. Section 160 states: 
 
@@ -768,15 +768,15 @@ not yet settled in his mind the fabricated evidence he was going to give on thes
 
 161    In the circumstances, I was of the view that M had not framed the Accused. I was also of the view that the Accused did take V to the Tampines flat in 1998 and 1999. However, it did not necessarily follow that V was telling the truth about the sexual abuse. There was a delay of about five to six years before V had mentioned the abuse first to H on 8 August 2003. 
 
-162    The Defence relied on a statement by Yong CJ in _DT v PP_ [2001] 3 SLR 587; [2001] SGHC 193 at [62] that “it is not usual human behaviour for a victim not to make a quick complaint to her family or friends”. 
+162    The Defence relied on a statement by Yong CJ in _DT v PP_ <span class="citation">[2001] 3 SLR 587</span>; <span class="citation">[2001] SGHC 193</span> at [62] that “it is not usual human behaviour for a victim not to make a quick complaint to her family or friends”. 
 
-163    I noted that that statement was actually first made in _Tang Kin Seng v PP_ [1997] 1 SLR 46 (“ _Tang Kin Seng_ ”) when Yong CJ said at [79]: 
+163    I noted that that statement was actually first made in _Tang Kin Seng v PP_ <span class="citation">[1997] 1 SLR 46</span> (“ _Tang Kin Seng_ ”) when Yong CJ said at [79]: 
 
  The evidential value of a prompt complaint often lay not in the fact that making it renders the victim’s testimony more credible. The evidential value of a previous complaint is that the failure to make one renders the victim’s evidence less credible. The reason is simply common human experience. It is not usual human behaviour for a victim not to make a quick complaint. However, as in all cases where common human experience is used as a yardstick, there may be very good reasons why the victim’s actions depart from it. It would then be an error not to have regard to the explanation proferred. All these merely illustrate the fallacy of adhering to a fixed formula. 
 
 164    In that case, the victim was a maid of 27 years of age. There was no issue about any delay in her reporting of the offence there. The passage which the Defence had relied on was said in the context of whether a previous complaint could constitute corroboration. 
 
-165    The statement was reiterated by Yong CJ in _Tan Pin Seng v PP_ [1998] 1 SLR 418 (“ _Tan Pin Seng_ ”). The victim in that case was 22 years of age. There was a delay of five days in making a police report. The accused person had contended that an adverse inference should be drawn against 
+165    The statement was reiterated by Yong CJ in _Tan Pin Seng v PP_ <span class="citation">[1998] 1 SLR 418</span> (“ _Tan Pin Seng_ ”). The victim in that case was 22 years of age. There was a delay of five days in making a police report. The accused person had contended that an adverse inference should be drawn against 
 
 
 the victim for failing to make a prompt police report and had relied on the passage from _Tang Kin Seng_ which I have cited above. Yong CJ said at [29]: 

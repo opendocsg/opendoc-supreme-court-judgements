@@ -26,7 +26,7 @@ _Credit and Security_ – _Performance bond_ – _Construction of terms of bond_
 
 1       This was an appeal against the decision of the judge in Originating Summons No 326 of 2005 (“the OS”) in setting aside an injunction which the District Court had granted to the appellant, Econ Piling Pte Ltd (“Econ”), to restrain the first respondent, Aviva General Insurance Pte Ltd (“Aviva”), from making payment to the second respondent, Jurong Town Corporation (“JTC”), under a performance bond. 
 
-2       On JTC’s appeal against the granting of the injunction, the High Court set aside the injunction. Econ appealed against the decision of the High Court ([2006] SGHC 76). 
+2       On JTC’s appeal against the granting of the injunction, the High Court set aside the injunction. Econ appealed against the decision of the High Court (<span class="citation">[2006] SGHC 76</span>). 
 
 3       Aviva, although named as the defendant in the OS and the first respondent here, was not a key party to either of the proceedings. Neither did it file a case in this appeal. Aviva’s counsel informed the court that his client would abide by the court’s decision. 
 

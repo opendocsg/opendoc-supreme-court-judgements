@@ -22,7 +22,7 @@ _Partnership_ – _Partners inter se_ – _Accounts_ – _Business of partnershi
 
 **Tay Yong Kwang J:** 
 
-1       This is an appeal by the first defendant against the findings of an assistant registrar made in an inquiry into accounts directed by Woo Bih Li JC (as he then was, henceforth “Woo J”). The following facts are derived substantially from Woo J’s judgment dated 11 November 2002 ([2003] 1 SLR 839). 
+1       This is an appeal by the first defendant against the findings of an assistant registrar made in an inquiry into accounts directed by Woo Bih Li JC (as he then was, henceforth “Woo J”). The following facts are derived substantially from Woo J’s judgment dated 11 November 2002 (<span class="citation">[2003] 1 SLR 839</span>). 
 
 **The factual background** 
 

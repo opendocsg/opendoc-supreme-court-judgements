@@ -156,7 +156,7 @@ intellectual ability in relation to his memory, and also had to cope with emotio
 
 34     Mr Lim in his closing submissions did submit an alternative figure of some S$3 million (which I have referred to above); and further added that if the court were minded to assume that the plaintiff would be able to obtain a job as an Engineering Assistant after his graduation, then the appropriate figure should be some S$2,794,624 taking a multiplier of 16 years, and after deducting an estimated annual income of S$28,691.00 as a Senior Engineering Assistant. 
 
-35     In Chang Ah Lek & Ors v Lim Ah Koon [1999] 1 SLR 82, the Court of Appeal quoted with approval a passage from Scarman LJ`s judgment in Smith v Manchester Corporation (1974) 17 KIR 1, which is now recognised as the classic statement in this arena: 
+35     In Chang Ah Lek & Ors v Lim Ah Koon <span class="citation">[1999] 1 SLR 82</span>, the Court of Appeal quoted with approval a passage from Scarman LJ`s judgment in Smith v Manchester Corporation (1974) 17 KIR 1, which is now recognised as the classic statement in this arena: 
 
  Loss of future earnings or future earning capacity is usually compounded of two elements. The first is when a victim of an accident finds that he or she can, as a result of the accident, no longer earn his or her pre-accident rate of earnings. In such a case there is an existing reduction in earning capacity which can be calculated as an annual sum. It is then perfectly possible to form a view as to the working life of the plaintiff and, taking the usual contingencies into 
 

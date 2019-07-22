@@ -65,7 +65,7 @@ skills; the Shareholders Agreements governing the relationship between the Plain
 
 10     It was contended firstly that the primary factors to be considered in the present case was the applicable law to the dispute and the nature of the dispute. 
 
-11     It could not be shown in respect of a minority oppression action that another forum is competent to resolve the dispute and is clearly the more appropriate forum as such a minority oppression action is based on a Singapore statute giving specific rights to shareholders, and the company is a Singapore company subject to that statute: _Transtech Electronics Pte Ltd v Choe Jerry and Ors_ [1998] 1 SLR(R) 1014 (“ _Transtech_ ”). A similar position was reached in _Re Nasbulk_ BVIHCM (COM) 65/2012 at first instance in the British Virgin Islands (“ _Nasbulk_ ”). The East Caribbean Court of Appeal (“ECCA”) in _Nasbulk_ at the appeal stage, _Nanjing Ocean (BVI) Co Ltd v Gao Chunhe and anor_ BVIHCAP 2013/0005 (“ _Nanjing Ocean_ ”) reached a different conclusion but should not be followed. 
+11     It could not be shown in respect of a minority oppression action that another forum is competent to resolve the dispute and is clearly the more appropriate forum as such a minority oppression action is based on a Singapore statute giving specific rights to shareholders, and the company is a Singapore company subject to that statute: _Transtech Electronics Pte Ltd v Choe Jerry and Ors_ <span class="citation">[1998] 1 SLR(R) 1014</span> (“ _Transtech_ ”). A similar position was reached in _Re Nasbulk_ BVIHCM (COM) 65/2012 at first instance in the British Virgin Islands (“ _Nasbulk_ ”). The East Caribbean Court of Appeal (“ECCA”) in _Nasbulk_ at the appeal stage, _Nanjing Ocean (BVI) Co Ltd v Gao Chunhe and anor_ BVIHCAP 2013/0005 (“ _Nanjing Ocean_ ”) reached a different conclusion but should not be followed. 
 
 12     In contrast to Singapore, the PRC is not the more appropriate forum. The Shareholders 
 
@@ -98,7 +98,7 @@ consideration. This matrix supplied factors that went to both the 1 st and 2nd s
 
 19     Even if I was wrong on the analysis for the first stage, at the 2nd stage analysis, the question of the specific remedy or juridical advantage available to the plaintiffs would not be available to him in the PRC and it would cause injustice for him to be deprived of it. 
 
-20     I should note that the Defendants did not seek to set aside the Plaintiff’s service out of the jurisdiction on the basis that Singapore was not the appropriate forum. There would be a difference in burden in respect of a challenge to service out under Order 11 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) as the Plaintiff would have had to show that Singapore was the more appropriate forum, with the Defendants then showing that it would be unjust to allow service out: _Siemens AG v Holdrich Investment Ltd_ [2010] 3 SLR 1007. In the end though, nothing turned on this as I was satisfied that in any case Singapore was the appropriate forum. 
+20     I should note that the Defendants did not seek to set aside the Plaintiff’s service out of the jurisdiction on the basis that Singapore was not the appropriate forum. There would be a difference in burden in respect of a challenge to service out under Order 11 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) as the Plaintiff would have had to show that Singapore was the more appropriate forum, with the Defendants then showing that it would be unjust to allow service out: _Siemens AG v Holdrich Investment Ltd_ <span class="citation">[2010] 3 SLR 1007</span>. In the end though, nothing turned on this as I was satisfied that in any case Singapore was the appropriate forum. 
 
 **Analysis** 
 
@@ -155,7 +155,7 @@ companies, the 1 st and 2nd Defendants cannot in these proceedings ask the court
 
 _The Witnesses_ 
 
-34     The 1st and 2 nd Defendants argued that most witnesses would be in the PRC, and conversant primarily in Mandarin. Against that, the Plaintiff argued that it was likely that the presence of witnesses would not be crucial. I was of the view that even if witnesses from the PRC were needed, this could be easily addressed in various ways. Singapore courts are used to having foreign witnesses testifying in languages other than English; where necessary such witnesses can testify from overseas: _Peter Roger May v Pinder Lillian Gek Lian_ [2006] 2 SLR (R) 381. The location of documents is even less of an issue in cases generally: _John Reginald Stott Kirkham and Ors v Trane US Inc and Ors_ [2009] 4 SLR(R) 428. 
+34     The 1st and 2 nd Defendants argued that most witnesses would be in the PRC, and conversant primarily in Mandarin. Against that, the Plaintiff argued that it was likely that the presence of witnesses would not be crucial. I was of the view that even if witnesses from the PRC were needed, this could be easily addressed in various ways. Singapore courts are used to having foreign witnesses testifying in languages other than English; where necessary such witnesses can testify from overseas: _Peter Roger May v Pinder Lillian Gek Lian_ [2006] 2 SLR (R) 381. The location of documents is even less of an issue in cases generally: _John Reginald Stott Kirkham and Ors v Trane US Inc and Ors_ <span class="citation">[2009] 4 SLR(R) 428</span>. 
 
 _Proceedings in the PRC_ 
 
@@ -189,7 +189,7 @@ asserted by the Plaintiff; the various other factors in the present case were ei
 
 **_The 2nd stage of the Spiliada test_** 
 
-41     The unavailability of remedies in the PRC relating to a s 216 action would be significant. I note that the fact that local remedies may not be available abroad would not generally be sufficient to show the loss of a juridical advantage – there must be a substantive element rather than just a difference in quantum or degree: see _Spiliada_ and _Goh Suan Huee v Teo Cher Teck_ [2010] 1 SLR 367 (“ _Goh Suan Hee_ ”). 
+41     The unavailability of remedies in the PRC relating to a s 216 action would be significant. I note that the fact that local remedies may not be available abroad would not generally be sufficient to show the loss of a juridical advantage – there must be a substantive element rather than just a difference in quantum or degree: see _Spiliada_ and _Goh Suan Huee v Teo Cher Teck_ <span class="citation">[2010] 1 SLR 367</span> (“ _Goh Suan Hee_ ”). 
 
 42     Despite the evidence of the defendants’ expert that the same or similar remedies would be available in Chinese proceedings, I accept the Plaintiff's expert’s evidence that these would not. There is no directly equivalent provision to s 216. It was pointed out that the precedents cited by the Defendant’s expert were not on point and did not show the existence of a minority oppression action. 
 

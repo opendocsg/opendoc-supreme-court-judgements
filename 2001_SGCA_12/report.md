@@ -16,7 +16,7 @@
 
 _Banking_ – _Letters of credit_ – _Whether deferred payment credit or negotiation credit_ – _Examination of terms of letter of credit according to applicable UCP rules and where ambiguity exists_ 
 
-(delivering the judgment of the court): This is an appeal against a decision of the High Court as to the construction of a letter of credit (LC). The High Court granted the respondents judgment for their claim of US$1,333,466.64, being the sum due under the LC. [See [2000] 4 SLR 254. 
+(delivering the judgment of the court): This is an appeal against a decision of the High Court as to the construction of a letter of credit (LC). The High Court granted the respondents judgment for their claim of US$1,333,466.64, being the sum due under the LC. [See <span class="citation">[2000] 4 SLR 254</span>. 
 
 An alternative basis of the respondents` claim is as a holder in due course of two drafts drawn against the appellants under the LC. In view of its decision on the main issue, the High Court did not go on to consider this question. 
 
@@ -169,7 +169,7 @@ applicant, the beneficiary or any third party, provided that the negotiating ban
 
 In the court below, the judge held that the LC, on a true construction, was a negotiation credit. In reaching the conclusion, she took the approach that one must look at the LC document as a whole and not at isolated phrases therein. To her, the most important provision was the availability clause appearing at the top of the LC: `Available against presentation of drafts at 180 days from the date of negotiation by deferred payment`. This coupled with the fact that the LC provided for the presentation of drafts to obtain payment, and drafts were themselves negotiable instruments, strongly indicated that the credit was a negotiation credit. To her, the words `deferred payment` in the availability clause was mere surplusage, indicating that the drafts would not be payable at sight but only after 180 days from negotiation. 
 
-The judge also found support for that interpretation from special conditions 4 and 7 where references to negotiation were made, and in particular condition 7 which provided that `negotiation under reserve/guarantee not acceptable without prior reference to (CAI).` She was not impressed with the argument that the credit could not be a negotiation credit because of the absence of an undertaking to engage with drawers, that the drafts drawn and negotiated in uniformity with the credit, would be duly honoured at maturity. She distinguished **Sinotani Pacific Pte Ltd v Agricultural Bank of China** [1999] 4 SLR 34 on the basis that the dispute there was between the beneficiary and the issuing bank and did not concern the question of negotiation. 
+The judge also found support for that interpretation from special conditions 4 and 7 where references to negotiation were made, and in particular condition 7 which provided that `negotiation under reserve/guarantee not acceptable without prior reference to (CAI).` She was not impressed with the argument that the credit could not be a negotiation credit because of the absence of an undertaking to engage with drawers, that the drafts drawn and negotiated in uniformity with the credit, would be duly honoured at maturity. She distinguished **Sinotani Pacific Pte Ltd v Agricultural Bank of China** <span class="citation">[1999] 4 SLR 34</span> on the basis that the dispute there was between the beneficiary and the issuing bank and did not concern the question of negotiation. 
 
 **_The appeal_** 
 

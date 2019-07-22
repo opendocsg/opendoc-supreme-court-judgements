@@ -81,7 +81,7 @@ strangulation”. In his view, the scalp bruising appeared to be the result of a
 
 mind that physical violence in any form is alien and wholly impermissible in the context of their relationship. 
 
-22     The court has repeatedly made it patently clear that employers who mistreat their foreign domestic workers will be severely excoriated, with such malfeasance entailing nothing less than severe deterrent sentences. In this context, Yong Pung How CJ emphatically stated in _Farida Begam d/o Mohd Artham v PP_ [2001] 4 SLR 610 at [26]: 
+22     The court has repeatedly made it patently clear that employers who mistreat their foreign domestic workers will be severely excoriated, with such malfeasance entailing nothing less than severe deterrent sentences. In this context, Yong Pung How CJ emphatically stated in _Farida Begam d/o Mohd Artham v PP_ <span class="citation">[2001] 4 SLR 610</span> at [26]: 
 
  In imposing custodial sentences, the courts in cases like Wong Suet Peng v PP (MA 170/2000) and Chung Poh Chee v PP (MA 71/2000) have recognised the need for deterrence and the importance of public policy in this area. 
 
@@ -114,7 +114,7 @@ mind that physical violence in any form is alien and wholly impermissible in the
 
  [emphasis added] 
 
-32     Counsel also instructively referred me to the Court of Appeal decision in _PP v Tan Kei Loon Allan_ [1999] 2 SLR 288 where it was observed at [37] and [40]: 
+32     Counsel also instructively referred me to the Court of Appeal decision in _PP v Tan Kei Loon Allan_ <span class="citation">[1999] 2 SLR 288</span> where it was observed at [37] and [40]: 
 
  [W]e are of the view that the courts must now exercise caution before committing a young offender to life imprisonment. Contrary to traditional reasoning, in similar cases involving a youthful offender on the one hand and an older offender in the other, the youthful offender sentenced to life imprisonment would now be subject to a longer period of incarceration than an older offender, assuming they both lived to the same age. 
 
@@ -135,7 +135,7 @@ mind that physical violence in any form is alien and wholly impermissible in the
 
 **Sentencing considerations** 
 
-37     The two principle sentencing considerations of particular relevance to the present factual matrix are _retribution_ and _deterrence_ ; see _PP v Chaw Aiang Wah_ [2004] SGHC 164 at [18]. 
+37     The two principle sentencing considerations of particular relevance to the present factual matrix are _retribution_ and _deterrence_ ; see _PP v Chaw Aiang Wah_ <span class="citation">[2004] SGHC 164</span> at [18]. 
 
 38     Without condescending into the particulars of counsel’s variegated catalogue of abuses allegedly inflicted by the deceased on the accused, it must emphatically be stated that this callous and heinous crime cannot by any stretch of imagination be justified or condoned on the pretext of “maid abuse”. I am prepared, however, to accept that there is some basis to assert that the deceased was at times unnecessarily severe with the accused. The fact that the accused did not make similar assertions of abusive behaviour against any other member of the household also lends some support to this assertion. The accused’s anger and hatred were focused solely and unremittingly on the deceased. 
 

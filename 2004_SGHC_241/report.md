@@ -39,7 +39,7 @@ was $991,355.53. After deducting previous payments totalling $855,816.89 and agr
 
 5       For the purpose of the assessment, CHS adduced the evidence of one Mr Chng Heng Cheong, a chartered quantity surveyor. Mr Chng gave an expert report on the value of the work done by CHS based on the documents in the case. He was not involved in the construction at all. He used various methods to value CHS’s work. His opinion came under attack because the methods adopted by Mr Chng were considered to be inconsistent with the indications that I had given previously in my judgment as to how the work done by CHS was to be assessed. 
 
-6       I had said in my judgment delivered on 11 June 2002 ([2002] SGHC 124) at [111]: 
+6       I had said in my judgment delivered on 11 June 2002 (<span class="citation">[2002] SGHC 124</span>) at [111]: 
 
  It appears therefore that the damages sustained by Vatten by the plaintiffs’ breach of contract would be the sum of $275,000 less what they would have had to pay CHS had CHS completed the works. These damages cannot be assessed by me since there is insufficient evidence of exactly how much work remained to be done when CHS left the site and what would have been payable for such work. These items will therefore have to go for assessment. As against the damages recoverable from CHS, there will have to be set off what was payable to them for work done up to 5 October 2000. As stated therefore, the assessment will have to include evidence from Hyundai on what was completed as at end of September 2002 and a calculation of what was due to the plaintiffs based on the subcontract rates, as amended, and after deducting the retention amounts and previous payments made and those contra charges which the plaintiffs have accepted. 
 

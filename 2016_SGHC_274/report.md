@@ -159,7 +159,7 @@ other things, the beneficial interest in the Shares. [note: xxxiv] On 6 May 2015
 
 a Deed of Assignment. [note: xxxv] In his defence, the defendant had disputed that the plaintiff had acquired the rights of the Trust pursuant to the Asset and Stock Purchase Agreement and the Deed of Assignment. After the defendant abandoned this defence, it became common ground that the plaintiff succeeded to DVI’s rights against the defendant. 
 
-24     The second defence that the defendant abandoned was that of limitation. The defence of limitation should not have been pleaded in the first place. In 2014, the defendant and Edward Hong obtained an anti-suit injunction restraining the plaintiff and the Trust from suing them in the United States of America for misappropriating the Shares (see _Hong Hin Kay Albert and another v AAHG, LLC and another_ [2014] SGHC 206). The anti-suit injunction was granted on the basis of undertakings by the defendant and Edward Hong that they would not rely on the limitation defence in the event the plaintiff commenced legal proceedings in Singapore within two weeks from the date of the order. The present action was commenced within two weeks of the anti-suit injunction order. The defendant was bound by his undertaking not to rely on the limitation defence in the present case. 
+24     The second defence that the defendant abandoned was that of limitation. The defence of limitation should not have been pleaded in the first place. In 2014, the defendant and Edward Hong obtained an anti-suit injunction restraining the plaintiff and the Trust from suing them in the United States of America for misappropriating the Shares (see _Hong Hin Kay Albert and another v AAHG, LLC and another_ <span class="citation">[2014] SGHC 206</span>). The anti-suit injunction was granted on the basis of undertakings by the defendant and Edward Hong that they would not rely on the limitation defence in the event the plaintiff commenced legal proceedings in Singapore within two weeks from the date of the order. The present action was commenced within two weeks of the anti-suit injunction order. The defendant was bound by his undertaking not to rely on the limitation defence in the present case. 
 
 **Conversion claim** 
 
@@ -256,7 +256,7 @@ would add, for completeness, that the defendant could not rely on the notice giv
 
 **_Whether the plaintiff was estopped_** 
 
-45     The defendant submitted that estoppel by representation can arise where one party keeps silent despite knowing that the other party is acting or proceeding with its course of conduct on the basis of a mistaken belief which the former is said to have acquiesced in: _The “Bunga Melati 5”_ [2016] 2 SLR 1114 at [17]. The defendant also relied on _Tradax Export S.A. v Dorada Compania Naviera S.A. (The “Lutetian”)_ [1982] 2 Lloyd’s Rep 140 at 158 for the proposition that if one party to a contract knows that the other party mistakenly believes he has validly complied with a contractual term, the first party cannot simply keep silent and let the mistaken party continue to labour under the mistake. 
+45     The defendant submitted that estoppel by representation can arise where one party keeps silent despite knowing that the other party is acting or proceeding with its course of conduct on the basis of a mistaken belief which the former is said to have acquiesced in: _The “Bunga Melati 5”_ <span class="citation">[2016] 2 SLR 1114</span> at [17]. The defendant also relied on _Tradax Export S.A. v Dorada Compania Naviera S.A. (The “Lutetian”)_ [1982] 2 Lloyd’s Rep 140 at 158 for the proposition that if one party to a contract knows that the other party mistakenly believes he has validly complied with a contractual term, the first party cannot simply keep silent and let the mistaken party continue to labour under the mistake. 
 
 46     The defendant argued that: 
 
@@ -347,7 +347,7 @@ on its alternative claims for reversionary damage and unjust enrichment. For com
 
 separate cause of action from the claim for conversion and had not been specifically pleaded. [note: xlvii] However, the defendant did not identify specifically what was required to be, but had not been, 
 
-pleaded. I agreed with the defendant that the claim for reversionary damage was a separate “cause of action” in the historical sense as it was a distinct tort from conversion (see _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd and others_ [1992] 2 SLR(R) 382 at [30]–[31]). However, I concluded that it had been sufficiently pleaded as all the essential factual material necessary to support the claim had been pleaded (see _Multistar Holdings Ltd v Geocon Piling & Engineering Pte Ltd_ [2016] 2 SLR 1at [34]). 
+pleaded. I agreed with the defendant that the claim for reversionary damage was a separate “cause of action” in the historical sense as it was a distinct tort from conversion (see _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd and others_ <span class="citation">[1992] 2 SLR(R) 382</span> at [30]–[31]). However, I concluded that it had been sufficiently pleaded as all the essential factual material necessary to support the claim had been pleaded (see _Multistar Holdings Ltd v Geocon Piling & Engineering Pte Ltd_ <span class="citation">[2016] 2 SLR 1</span>at [34]). 
 
 69     In my view, the plaintiff would have been entitled to recover the value of the Shares as damages for its reversionary damage claim. 
 
@@ -364,7 +364,7 @@ pleaded. I agreed with the defendant that the claim for reversionary damage was 
 
  (d) Are there any defences? 
 
-See _Wee Chiew Sek Anna v Ng Li-Ann Genevieve and others_ [2013] 3 SLR 801 (“ _Anna Wee_ ”) at [98]. 
+See _Wee Chiew Sek Anna v Ng Li-Ann Genevieve and others_ <span class="citation">[2013] 3 SLR 801</span> (“ _Anna Wee_ ”) at [98]. 
 
 71     On the facts as I have found them, there was no question that the defendant had been enriched at the plaintiff’s expense. The transfer of the Shares to the defendant (a) deprived DVI of the Shares that it owned and (b) clearly benefitted the defendant. DVI did not consent to the transfer to the defendant. The only question was whether the enrichment of the defendant was unjust. 
 

@@ -20,7 +20,7 @@ _Trade Marks and Trade Names_ – _Revocation_ – _Appeal against High Court de
 
 **Chao Hick Tin JA (delivering the judgment of the court):** 
 
-1       This was an appeal by the appellant against the decision of the High Court (reported at [2005] 4 SLR 76) reversing the decision of the Principal Assistant Registrar of Trade Marks (“PAR”) which revoked a trade mark registered by the respondent on the ground that for the relevant period of five years there had been non-use of the mark by the respondent. We heard and allowed the appeal on 22 November 2005, thus upholding the decision of the PAR to have the trade mark revoked. We now give our reasons. 
+1       This was an appeal by the appellant against the decision of the High Court (reported at <span class="citation">[2005] 4 SLR 76</span>) reversing the decision of the Principal Assistant Registrar of Trade Marks (“PAR”) which revoked a trade mark registered by the respondent on the ground that for the relevant period of five years there had been non-use of the mark by the respondent. We heard and allowed the appeal on 22 November 2005, thus upholding the decision of the PAR to have the trade mark revoked. We now give our reasons. 
 
 **The background** 
 
@@ -91,7 +91,7 @@ Corrales further clarified that the date on the 12 July 2001 invoice should read
 14     The earlier version of this provision of the TMA, _ie_ , s 40(1)( _b_ ) of the Trade Marks Act 
 
 
-(Cap 332, 1992 Rev Ed), used the expression “bona fide use” instead of “genuine use”. The previous expression came under consideration by this court in the case of _Swanfu Trading Pte Ltd v Beyer Electrical Enterprises Pte Ltd_ [1994] 1 SLR 625 and was taken to mean “genuine use” as contrasted to “fictitious”, “pretended” or “colourable”. The use need not be substantial but “the more substantially a registered trade mark is used in a commercial way, the easier it is to see that it is bona fide” (at 632, [32]). 
+(Cap 332, 1992 Rev Ed), used the expression “bona fide use” instead of “genuine use”. The previous expression came under consideration by this court in the case of _Swanfu Trading Pte Ltd v Beyer Electrical Enterprises Pte Ltd_ <span class="citation">[1994] 1 SLR 625</span> and was taken to mean “genuine use” as contrasted to “fictitious”, “pretended” or “colourable”. The use need not be substantial but “the more substantially a registered trade mark is used in a commercial way, the easier it is to see that it is bona fide” (at 632, [32]). 
 
 15     In our opinion, there is no real or practical difference between the two terms, “bona fide” and “genuine”. Therefore, cases decided under the previous provision are equally germane to the construction of what is now s 22(1)( _a_ ). The essential standard of proof required to defeat a revocation application is to show a genuine use of the mark during the relevant five-year period. One single use of the mark could satisfy the test provided that overwhelmingly convincing proof of the act is adduced. Here, we would quote the following passage of Wilberforce J (as he then was) in “ _NODOZ_ ” _Trade Mark_ [1962] RPC 1 at 7, which related to the question as to whether a product despatched by the registered proprietor in the US was received in England: 
 

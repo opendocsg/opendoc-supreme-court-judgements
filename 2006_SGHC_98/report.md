@@ -212,7 +212,7 @@ that the family had reached a settlement. When the lawyer asked the plaintiff wh
 
 In the quotation above, I have referred to the parties in the capacity in which they appeared in this suit. 
 
-55     In October 2002, the defendant sought to enforce the above consent order against the plaintiff in the High Court in Singapore. Choo Han Teck J held (in _Kamla Lal Hiranand v Lal Hiranand_ [2003] 3 SLR 198) that the consent order was not enforceable. On appeal by the defendant, that decision was upheld by the Court of Appeal. 
+55     In October 2002, the defendant sought to enforce the above consent order against the plaintiff in the High Court in Singapore. Choo Han Teck J held (in _Kamla Lal Hiranand v Lal Hiranand_ <span class="citation">[2003] 3 SLR 198</span>) that the consent order was not enforceable. On appeal by the defendant, that decision was upheld by the Court of Appeal. 
 
 56     On 18 December 1999, due to pressure from Srikumar and the family, the plaintiff made a will appointing Srikumar and Srikumar’s wife as executors and trustees and naming the defendant and the three children beneficiaries of his estate. When the plaintiff recovered from his depression, he revoked that will. 
 
@@ -239,14 +239,14 @@ box. The plaintiff said he was not aware that the 1988 will was inside and that 
 
  (d) The partners of the law firm which purportedly drew up the 1988 will had given evidence in the Singapore probate action that the said will was a forgery. 
 
- (e) The Court of Appeal in the Singapore probate action (in Kamla Lal Hiranand v Harilela Padma Hari [2000] 3 SLR 696) referred to “compelling evidence” that the 1988 will was indeed a forgery. 
+ (e) The Court of Appeal in the Singapore probate action (in Kamla Lal Hiranand v Harilela Padma Hari <span class="citation">[2000] 3 SLR 696</span>) referred to “compelling evidence” that the 1988 will was indeed a forgery. 
 
  (f) The High Court in Hong Kong, in proceedings disputing the validity of the 1986 will, referred to the Singapore judgment and concluded that the 1988 will was undoubtedly a forged document. 
 
 
  (g) MHR was a strong and forthright man and would not have kept the 1988 will a secret from his family members and have it hidden with his medicine as suggested by the defendant in the Singapore probate action. He was also an experienced businessman who would have instructed lawyers to draft a proper will instead of the botched-up 1988 will. He was also a very traditional Hindu who believed that only sons inherited from their fathers, certainly not a daughter-in-law or grandchildren. 
 
-63     In the present action, Norris Bishton, Jr, an attorney who has been practising in the US for some 45 years, testified much along the same lines as he did in an affidavit filed in the Singapore probate action (see the decision of the High Court at _Kamla Lal Hiranand v Harilela Padma Hari_ [2000] 2 SLR 479 at [21] and [22]). He concluded that the 1988 will was not drafted by his former law firm in California, that it did not comply with the requirements of California law in respect of wills and it was a forgery. 
+63     In the present action, Norris Bishton, Jr, an attorney who has been practising in the US for some 45 years, testified much along the same lines as he did in an affidavit filed in the Singapore probate action (see the decision of the High Court at _Kamla Lal Hiranand v Harilela Padma Hari_ <span class="citation">[2000] 2 SLR 479</span> at [21] and [22]). He concluded that the 1988 will was not drafted by his former law firm in California, that it did not comply with the requirements of California law in respect of wills and it was a forgery. 
 
 64     Dr Feeney, a psychiatrist, saw the plaintiff in Hong Kong when he was hospitalised between 7 and 10 July for major depression. She then examined him on a daily basis until 17 July 1999 when he appeared to be coping and managed to go to his office briefly on a few occasions. The plaintiff was having 24-hour nursing supervision. When she was going on maternity leave, she passed on the plaintiff’s care to her colleague but the plaintiff did not go for follow-up treatment. In her opinion, 80% of patients who suffered from major depression recovered within one year while the other 20% could suffer recurrent bouts of illness and would require a longer period of treatment. She was of the view that the plaintiff’s condition had developed over a two-year period and that it was linked to his family problems. His major depression impaired his ability to make decisions and to function. He appeared also to have a vulnerable and somewhat childish character which made him prone to being unable to cope with the stress he was under. His actions at times were not rational and he was not fit to sign any legal documents while under the effects of the depression. 
 

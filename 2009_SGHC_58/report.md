@@ -157,7 +157,7 @@ and a fairly major amendment to para 6.
 
 **_The plaintiff’s submissions_** 
 
-18     The plaintiff took the position that, following _Wright Norman v OCBC Ltd_ [1994] 1 SLR 513, the matters that had to be considered by the court in connection with an application for amendment of pleadings were: 
+18     The plaintiff took the position that, following _Wright Norman v OCBC Ltd_ <span class="citation">[1994] 1 SLR 513</span>, the matters that had to be considered by the court in connection with an application for amendment of pleadings were: 
 
  (a) whether the amendment would enable the real issue between the parties to be tried as if so the amendment would be allowed unless matter (b) applied; and 
 

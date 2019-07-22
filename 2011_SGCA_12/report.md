@@ -18,13 +18,13 @@ _Criminal Law_
 
 _Evidence_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2009] SGHC 202.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2009] SGHC 202</span>.] 
 
 7 April 2011 
 
 **Chan Sek Keong CJ (delivering the grounds of decision of the court):** 
 
-1       The appellant in this appeal, Kwek Seow Hock (“the Appellant”), appealed against the judgment of the High Court judge (“the Judge”) in Criminal Case No 8 of 2008. The Judge convicted the Appellant on a charge of trafficking in not less than 25.91g of diamorphine (more commonly known as heroin) without any authorisation – a capital offence that is punishable pursuant to s 5(1)( _a_ ) read with s 33 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“the Act”) (see _Public Prosecutor v Kwek Seow Hock_ [2009] SGHC 202 (“the GD”)). 
+1       The appellant in this appeal, Kwek Seow Hock (“the Appellant”), appealed against the judgment of the High Court judge (“the Judge”) in Criminal Case No 8 of 2008. The Judge convicted the Appellant on a charge of trafficking in not less than 25.91g of diamorphine (more commonly known as heroin) without any authorisation – a capital offence that is punishable pursuant to s 5(1)( _a_ ) read with s 33 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“the Act”) (see _Public Prosecutor v Kwek Seow Hock_ <span class="citation">[2009] SGHC 202</span> (“the GD”)). 
 
 2       After hearing the submissions of the Appellant and the Prosecution, we dismissed this appeal. We now give our reasons. 
 
@@ -100,7 +100,7 @@ In relation to (c) above, the Judge did not draw an adverse inference from the A
 
  (d) The Appellant did not have the financial resources to purchase 23 of the Packets, as he did not have sufficient cash or a real source of income, and, further, there was no evidence to support his claim that he could pay Ah Long in instalments. 
 
-10     The Prosecution also submitted that the Judge was not wrong to have drawn an adverse inference against the Appellant due to his failure to disclose the defence of consumption in his long statements. In this regard, reference was made to the decision of this court in _Lim Lye Huat Benny v Public Prosecution_ [1995] 3 SLR(R) 689 (“ _Lim Lye Huat Benny_ ”). In that case, this court upheld the decision of the trial court to draw an adverse inference against the appellant due to his failure to 
+10     The Prosecution also submitted that the Judge was not wrong to have drawn an adverse inference against the Appellant due to his failure to disclose the defence of consumption in his long statements. In this regard, reference was made to the decision of this court in _Lim Lye Huat Benny v Public Prosecution_ <span class="citation">[1995] 3 SLR(R) 689</span> (“ _Lim Lye Huat Benny_ ”). In that case, this court upheld the decision of the trial court to draw an adverse inference against the appellant due to his failure to 
 
 
 mention his defence or the material aspects of it in his long statement. 
@@ -167,7 +167,7 @@ The case that the Judge referred to, _viz_ , _Lim Lye Huat Benny_ , was a case w
 
 18     Section 121 of the CPC is a straightforward provision. The person under investigation is “bound to state truly the facts and circumstances with which he is acquainted concerning the case”, except that he may decline to state any fact or circumstance which would incriminate him in any way. He is entitled to remain silent in so far as self-incrimination is concerned. In our view, because an accused has such a right against self-incrimination when he makes a long statement under s 121, no adverse inference, in general, may be drawn against him for failing to state any fact or circumstance which may incriminate him in any way. 
 
-19     If, however, the fact or circumstance that is withheld will exculpate the accused from an offence, a court may justifiably infer that it is an afterthought and untrue, unless the court is persuaded that there are good reasons for the omission to mention that exculpatory fact or circumstance. This accords with common sense – if an accused believes he is not guilty of an offence that he might be charged with, he would be expected to disclose why he has such a belief. For a self-confessed trafficker like the Appellant, consumption would be an exculpatory fact. Furthermore, an exculpatory fact or circumstance has more credibility if disclosed to an investigating officer at the earliest opportunity after arrest. Thus, in _Chou Kooi Pang and another v Public Prosecutor_ [1998] 3 SLR(R) 205, this court (without referring to _Lim Lye Huat Benny_ ) held, in regard to one of the appellants, that his “failure to mention a material part of his defence at an earlier stage meant that it was less likely to be believed” (at [30]). 
+19     If, however, the fact or circumstance that is withheld will exculpate the accused from an offence, a court may justifiably infer that it is an afterthought and untrue, unless the court is persuaded that there are good reasons for the omission to mention that exculpatory fact or circumstance. This accords with common sense – if an accused believes he is not guilty of an offence that he might be charged with, he would be expected to disclose why he has such a belief. For a self-confessed trafficker like the Appellant, consumption would be an exculpatory fact. Furthermore, an exculpatory fact or circumstance has more credibility if disclosed to an investigating officer at the earliest opportunity after arrest. Thus, in _Chou Kooi Pang and another v Public Prosecutor_ <span class="citation">[1998] 3 SLR(R) 205</span>, this court (without referring to _Lim Lye Huat Benny_ ) held, in regard to one of the appellants, that his “failure to mention a material part of his defence at an earlier stage meant that it was less likely to be believed” (at [30]). 
 
 20     In the present case, the fact of an intention to retain 23 of the Packets for self-consumption 
 

@@ -82,9 +82,9 @@ and disclosed that the 1st and 3rd plaintiffs had invested in Surf Deposit 02 Tr
 
 **Defendants’ submission of no case to answer** 
 
-20     After the plaintiffs closed their case on Part C of the SOC, the defendants submitted that they had no case to answer. The effect of such a submission is well-known. In _Tan Juay Pah v Kimly Construction Pte Ltd and others_ [2012] 2 SLR 549, the Court of Appeal reiterated (at [37]) that a submission of “no case to answer” by a defendant succeeds if the plaintiff’s evidence, at face value, does not establish a case in law; or (b) the evidence led by the plaintiff is so unsatisfactory or unreliable that his burden of proof has not been discharged. 
+20     After the plaintiffs closed their case on Part C of the SOC, the defendants submitted that they had no case to answer. The effect of such a submission is well-known. In _Tan Juay Pah v Kimly Construction Pte Ltd and others_ <span class="citation">[2012] 2 SLR 549</span>, the Court of Appeal reiterated (at [37]) that a submission of “no case to answer” by a defendant succeeds if the plaintiff’s evidence, at face value, does not establish a case in law; or (b) the evidence led by the plaintiff is so unsatisfactory or unreliable that his burden of proof has not been discharged. 
 
-21     In _Smile Inc Dental Surgeons Pte Ltd v Lui Andrew Stewart_ [2012] 1 SLR 847, Woo Bih Li J summarised (at [34] to [35]) the position on a submission of no case to answer as follows: 
+21     In _Smile Inc Dental Surgeons Pte Ltd v Lui Andrew Stewart_ <span class="citation">[2012] 1 SLR 847</span>, Woo Bih Li J summarised (at [34] to [35]) the position on a submission of no case to answer as follows: 
 
  34 As mentioned above, Dr Lui elected to make a submission of no case to answer and not to call any evidence at the close of the case for Smile. This was on 26 September 2011. The 
 
@@ -97,13 +97,13 @@ and disclosed that the 1st and 3rd plaintiffs had invested in Surf Deposit 02 Tr
 
  principles governing the effect of such a submission are well-established and can be summarised as follows: 
 
- The result of an election by Dr Lui to make a submission of no case to answer is that the court is left with only Smile's version of the story. If there is some prima facie evidence ( ie , evidence which is not unsatisfactory and not unreliable) that supports the essential elements of Smile's claim, the court should accept such evidence: see Bansal Hemant Govindprasad v Central Bank of India [2003] 2 SLR(R) 33 (" Govindprasad ") at [10], [11] and [16]. 
+ The result of an election by Dr Lui to make a submission of no case to answer is that the court is left with only Smile's version of the story. If there is some prima facie evidence ( ie , evidence which is not unsatisfactory and not unreliable) that supports the essential elements of Smile's claim, the court should accept such evidence: see Bansal Hemant Govindprasad v Central Bank of India <span class="citation">[2003] 2 SLR(R) 33</span> (" Govindprasad ") at [10], [11] and [16]. 
 
  Even if there is some prima facie evidence that supports the essential elements of Smile's claim ( ie , if limb (a) has been satisfied), the court must still consider whether that claim has been established in law : see Govindprasad at [11]. 
 
  I should elaborate that Dr Lui's election did not mean that I was obliged to accept every allegation by Smile. For example, if Dr Tan gave evidence on a disputed conversation between Dr Lui and himself, then in the absence of evidence from Dr Lui, I should accept Dr Tan's evidence unless his evidence was itself unsatisfactory or unreliable. The disputed conversation would be a matter within the personal knowledge of Dr Tan and Dr Lui. However, if Dr Tan gave evidence on an allegation pertaining to his own intention which was not disclosed to Dr Lui, then the absence of evidence from Dr Lui on this point was neutral since he would have had no personal knowledge of that intention. In a third example, if Dr Tan gave his personal opinion on what a provision in the Contract meant, the absence of any opinion by way of evidence from Dr Lui was again neutral. Dr Tan's opinion would not be an expert opinion. Dr Lui would still be entitled to advance his case on the interpretation of that provision through submissions from his counsel. 
 
-22     It is also worth noting that in _Relfo Ltd (in liquidation) v Bhimji Velji Jadva Varsani_ [2008] 4 SLR(R) 657 (“ _Relfo_ ”), Judith Prakash J explained (at [20]) that “a _prima facie_ case is determined by assuming that the evidence led by the plaintiff is true, unless it is inherently incredible or out of all common sense or reason”. 
+22     It is also worth noting that in _Relfo Ltd (in liquidation) v Bhimji Velji Jadva Varsani_ <span class="citation">[2008] 4 SLR(R) 657</span> (“ _Relfo_ ”), Judith Prakash J explained (at [20]) that “a _prima facie_ case is determined by assuming that the evidence led by the plaintiff is true, unless it is inherently incredible or out of all common sense or reason”. 
 
 23     It follows that in the present case, the defendants’ submission of no case to answer will succeed if the plaintiffs did not establish a _prima facie_ case in law or if the evidence led by them was so unsatisfactory or unreliable that their burden of proof was not discharged. Needless to say, it does not help a plaintiff’s case if he makes admissions that undermine the foundation of his own case against the defendant. 
 
@@ -111,7 +111,7 @@ and disclosed that the 1st and 3rd plaintiffs had invested in Surf Deposit 02 Tr
 
 24     The plaintiffs’ claim for loss of a chance of succeeding in Suit 212 is based on negligence as well as breach of contract. 
 
-25     In relation to the plaintiffs’ action in tort, it is noteworthy that in _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ [2007] 4 SLR(R) 100, the Court of Appeal stated (at [21]) as follows: 
+25     In relation to the plaintiffs’ action in tort, it is noteworthy that in _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ <span class="citation">[2007] 4 SLR(R) 100</span>, the Court of Appeal stated (at [21]) as follows: 
 
  It is trite law that, in order to succeed in a claim under the tort of negligence, a claimant has to establish that (a) the defendant owes the claimant a duty of care; (b) the defendant has breached that duty of care by acting (or omitting to act) below the standard of care required of it; (c) the defendant's breach has caused the claimant damage; (d) the claimant's losses arising 
 
@@ -120,7 +120,7 @@ and disclosed that the 1st and 3rd plaintiffs had invested in Surf Deposit 02 Tr
 
 26     In the circumstances of the present case, where the defendants have submitted that they had no case to answer, the court will determine whether the plaintiffs had established a _prima facie_ case that the breach, if any, was an effective cause of the striking out of Suit 212. 
 
-27     Similarly, in the case of the plaintiffs’ claim in contract, the court must be satisfied that they established a _prima facie_ case that the losses suffered were caused by the defendants’ breach of contract. In _Asia Hotel Investments Ltd v Starwood Asia Pacific Management Pte Ltd and another_ [2005] 1 SLR(R) 661, the Court of Appeal explained (at [144]): 
+27     Similarly, in the case of the plaintiffs’ claim in contract, the court must be satisfied that they established a _prima facie_ case that the losses suffered were caused by the defendants’ breach of contract. In _Asia Hotel Investments Ltd v Starwood Asia Pacific Management Pte Ltd and another_ <span class="citation">[2005] 1 SLR(R) 661</span>, the Court of Appeal explained (at [144]): 
 
  Breach of a contract per se does not give rise to damages. Loss must be shown to have arisen from the breach and in this case the loss of the chance .... must be shown to have been caused by the breach or, putting it another way, the loss must not be too remote. As the learned authors of Anson's Law of Contract (28th Ed, 2002), state at p 600: 
 

@@ -93,7 +93,7 @@ He argued that the length of the period “between year 2005 and March 2006” c
  (a) at the time of the trial the Boy was eight years old, about to turn nine and at the time of the alleged offence, he was four years old. Yong Pung How CJ has stated in Lee Kwang Peng v 
 
 
- Public Prosecutor and another appeal [1997] 2 SLR(R) 569 (“ Lee Kwang Peng ”) at [62] that – 
+ Public Prosecutor and another appeal <span class="citation">[1997] 2 SLR(R) 569</span> (“ Lee Kwang Peng ”) at [62] that – 
 
  [I]t is a well-established rule of practice in our law that where evidence is given by a child witness, that evidence is not to be accepted at face value without some measure of corroboration. 
 
@@ -117,7 +117,7 @@ He argued that the length of the period “between year 2005 and March 2006” c
 
  [Emphasis added] 
 
- Tang Kin Seng v PP [1996] 3 SLR(R) 444 at [43], and that really is well-settled law, and 
+ Tang Kin Seng v PP <span class="citation">[1996] 3 SLR(R) 444</span> at [43], and that really is well-settled law, and 
 
  (d) the Accused had not made any admissions or confessions throughout the police investigations and had maintained his innocence. 
 
@@ -273,7 +273,7 @@ that the Boy had been touched by the Accused. [note: 16]
 
  [Emphasis added] 
 
-32     There is no specific provision which refers to similar fact evidence in the Evidence Act (Cap 97, 1997 Rev Ed). However, there are provisions, _eg_ ss 11, 14, 15 which allowed for the admission of similar fact evidence in proper cases. The law on the admissibility of similar fact evidence was comprehensively discussed by the Court of Appeal in _Tan Meng Jee v PP_ [1996] 2 SLR(R) 178 (“ _Tan Meng Jee_ ”). In _Tan Meng Jee_ , the Court of Appeal referred to _Director of Public Prosecutions v Boardman_ [1975] AC 421 (“ _Boardman_ ”) where the House of Lords ruled that evidence of criminal acts on the part of an accused other than those with which he was charged became admissible because of their striking similarity to other acts being investigated and because of their resulting probative force. _Boardman_ was understood and applied for a period as authority for the proposition that evidence must have a striking similarity to the facts in issue to be regarded as similar fact evidence. 
+32     There is no specific provision which refers to similar fact evidence in the Evidence Act (Cap 97, 1997 Rev Ed). However, there are provisions, _eg_ ss 11, 14, 15 which allowed for the admission of similar fact evidence in proper cases. The law on the admissibility of similar fact evidence was comprehensively discussed by the Court of Appeal in _Tan Meng Jee v PP_ <span class="citation">[1996] 2 SLR(R) 178</span> (“ _Tan Meng Jee_ ”). In _Tan Meng Jee_ , the Court of Appeal referred to _Director of Public Prosecutions v Boardman_ [1975] AC 421 (“ _Boardman_ ”) where the House of Lords ruled that evidence of criminal acts on the part of an accused other than those with which he was charged became admissible because of their striking similarity to other acts being investigated and because of their resulting probative force. _Boardman_ was understood and applied for a period as authority for the proposition that evidence must have a striking similarity to the facts in issue to be regarded as similar fact evidence. 
 
 33     That position was subsequently refined by the House of Lords in _R v P_ [1991] 3 All ER 337, 
 

@@ -70,7 +70,7 @@ In matters of management, the attitude of the court is that expressed by Lord Wi
 
  assume to act as a kind of supervisory board over decisions within the powers of management honestly arrived at. 
 
-The dicta of Lai Kew Chai J in **Teo Gek Luang v Ng Ai Tiong & Ors** [1999] 1 SLR 434 at p 438 [para ] 14 is to the same effect: 
+The dicta of Lai Kew Chai J in **Teo Gek Luang v Ng Ai Tiong & Ors** <span class="citation">[1999] 1 SLR 434</span> at p 438 [para ] 14 is to the same effect: 
 
  ... Management decisions should generally be left to the Board of Directors. Members generally cannot sue in the name of his company. A minority shareholder could attempt to abuse the new procedure, which would be as undesirable as the tyranny of the majority directors who unreasonably refuse to act. The Canadian appellate court, however, at the same page went on to say that [b]efore granting leave, the court should be satisfied that there is a reasonable basis for the complaint and that the action sought to be instituted is a legitimate or arguable one.  I agreed with this latter formulation and adopted that approach. The same principle was put in another way by Oleary J in Re Marc-Jay Investments [1974] 5 QR (2d) 235, where at p 237 the judge said: I believe it is my function to deny the application if it appears that the intended action is frivolous or vexatious or is bound to be unsuccessful.  
 

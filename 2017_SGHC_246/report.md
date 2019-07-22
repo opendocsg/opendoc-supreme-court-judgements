@@ -675,7 +675,7 @@ failed to furnish these as-built drawings. [note: 73] Thus, I find that the defe
 
 125    The plaintiff further asserts that it is an implied term of the Agreement that the defendant was to provide other drawings and documents for the Works, including final layout drawings, M&E drawings, and documents such as endorsements by licensed personnel engaged by the defendant, which were necessary for the Fitting-Out Deposit to be released (“the Other Documents”). 
 
-126    In _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp Marine_ ”) at [101], Sundaresh Menon CJ, delivering the judgment of the Court of Appeal, laid down a three-stage test for the implication of terms as follows: 
+126    In _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp Marine_ ”) at [101], Sundaresh Menon CJ, delivering the judgment of the Court of Appeal, laid down a three-stage test for the implication of terms as follows: 
 
  ... 
 

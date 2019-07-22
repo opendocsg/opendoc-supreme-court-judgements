@@ -18,7 +18,7 @@ _Civil Procedure_
 
 _Family Law_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2007] 3 SLR(R) 743 .] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2007] 3 SLR(R) 743</span> .] 
 
 1 September 2010 Judgment reserved. 
 
@@ -26,7 +26,7 @@ _Family Law_
 
 **Introduction** 
 
-1       The present proceedings relate to two applications arising from orders we made (“the Court Order”) in _NK v NL_ [2007] 3 SLR(R) 743 (“the main judgment”). 
+1       The present proceedings relate to two applications arising from orders we made (“the Court Order”) in _NK v NL_ <span class="citation">[2007] 3 SLR(R) 743</span> (“the main judgment”). 
 
 **Background** 
 
@@ -86,7 +86,7 @@ follows:
 
  (b) in any case, there were manifest errors in KPMG’s valuation. 
 
-In support of his arguments, counsel for the husband, Mr N Sreenivasan, referred to a number of authorities, _eg_ , _Tan Yeow Khoon and another v Tan Yeow Tat and others_ [2003] 3 SLR(R) 486; _Riduan bin Yusof v Khng Thian Huat and another_ [2005] 2 SLR(R) 188; _Hoban Steven Maurice Dixon and another v Scanlon Graeme John and others_ [2005] 2 SLR(R) 632; _Evergreat Construction Co Pte Ltd v Pressscrete Engineering Pte Ltd_ [2006] 1 SLR(R) 634; and _The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ [2009] 2 SLR(R) 385. The cases cited concerned experts appointed and instructed by parties and are not directly relevant. But, for present purposes, we accept that, by analogy, a court can intervene if a court-appointed valuer does not act in accordance with his terms of reference, or if his valuation is patently or manifestly in error. This is subject to the caveat that the court will be slow to find that the valuation is in error, since by appointing an expert in the first place it has taken the position that the matter is best left to the expert. On this basis, we turn to the first ground advanced by the husband. 
+In support of his arguments, counsel for the husband, Mr N Sreenivasan, referred to a number of authorities, _eg_ , _Tan Yeow Khoon and another v Tan Yeow Tat and others_ <span class="citation">[2003] 3 SLR(R) 486</span>; _Riduan bin Yusof v Khng Thian Huat and another_ <span class="citation">[2005] 2 SLR(R) 188</span>; _Hoban Steven Maurice Dixon and another v Scanlon Graeme John and others_ <span class="citation">[2005] 2 SLR(R) 632</span>; _Evergreat Construction Co Pte Ltd v Pressscrete Engineering Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 634</span>; and _The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ <span class="citation">[2009] 2 SLR(R) 385</span>. The cases cited concerned experts appointed and instructed by parties and are not directly relevant. But, for present purposes, we accept that, by analogy, a court can intervene if a court-appointed valuer does not act in accordance with his terms of reference, or if his valuation is patently or manifestly in error. This is subject to the caveat that the court will be slow to find that the valuation is in error, since by appointing an expert in the first place it has taken the position that the matter is best left to the expert. On this basis, we turn to the first ground advanced by the husband. 
 
 **Was KPMG’s valuation a departure from the terms of the Court Order?** 
 

@@ -137,7 +137,7 @@ Defendant admits that there are sums owing to the Plaintiff, the Defendant has a
 
 17     It is common ground between the parties that an arbitration agreement existed between the parties and that the IAA was applicable to the said arbitration agreement. 
 
-18     That being the case, counsel for the Defendant submitted that Section 6(2) of the IAA mandated a stay of the court proceedings in favour of arbitration. The Defendant relied heavily on the Court of Appeal decision in _Tjong Very Sumito & Ors v. Antig Investments Pte Ltd_ [2009] 4 SLR(R) 732 in support of its position. 
+18     That being the case, counsel for the Defendant submitted that Section 6(2) of the IAA mandated a stay of the court proceedings in favour of arbitration. The Defendant relied heavily on the Court of Appeal decision in _Tjong Very Sumito & Ors v. Antig Investments Pte Ltd_ <span class="citation">[2009] 4 SLR(R) 732</span> in support of its position. 
 
 19     The Plaintiff, on the other hand, took the position that a stay was not warranted in the present proceedings. The Plaintiff’s objections to the Stay Application rested on two key arguments: 
 
@@ -186,7 +186,7 @@ Defendant admits that there are sums owing to the Plaintiff, the Defendant has a
 
 **_Does the Plaintiff’s claim in the present proceedings fall outside the terms of the arbitration agreement?_** 
 
-25     In relation to the first issue, I start with the Court of Appeal decision in _Wong Fook Heng v. Amixco Asia Pte Ltd_ [1992] 1 SLR(R) 654 which stands for the principle that a bill of exchange is a separate contract from the contract pursuant to which the said bill of exchange was furnished. 
+25     In relation to the first issue, I start with the Court of Appeal decision in _Wong Fook Heng v. Amixco Asia Pte Ltd_ <span class="citation">[1992] 1 SLR(R) 654</span> which stands for the principle that a bill of exchange is a separate contract from the contract pursuant to which the said bill of exchange was furnished. 
 
 
 26     In _Wong_ , the appellant granted the respondent an option to purchase certain properties. The option was to expire on 5 June 1981. On 30 May 1981, the respondent gave the appellant a cheque dated 30 May 1981 as payment of the option fee. However, on 1 June 1981, the appellant’s bank informed him that the respondent had stopped payment on the cheque and written confirmation of the respondent’s countermand of the cheque was received by the appellant on 2 June 2013. 
@@ -235,7 +235,7 @@ Defendant admits that there are sums owing to the Plaintiff, the Defendant has a
 
  (d) The arbitration agreement in the Distributorship Agreement was, in my view, wider than that in Nova. 
 
-40     In _Dalian Hualiang Enterprise Group Co Ltd & Anor v. Louis Dreyfus Asia Pte Ltd_ [2005] 4 SLR(R) 646, a case also relating to the grant of a stay under Section 6 of the IAA, the Honourable Justice Woo Bih Li held (at [20]) that the court’s jurisdiction to grant a stay under Section 6(2) of the IAA only arises if the subject matter of the court proceedings is also the subject of the arbitration agreement. The learned Judge further held, at paragraph [25] of the judgment: 
+40     In _Dalian Hualiang Enterprise Group Co Ltd & Anor v. Louis Dreyfus Asia Pte Ltd_ <span class="citation">[2005] 4 SLR(R) 646</span>, a case also relating to the grant of a stay under Section 6 of the IAA, the Honourable Justice Woo Bih Li held (at [20]) that the court’s jurisdiction to grant a stay under Section 6(2) of the IAA only arises if the subject matter of the court proceedings is also the subject of the arbitration agreement. The learned Judge further held, at paragraph [25] of the judgment: 
 
  I was of the view that I had jurisdiction to determine if the matter before the court was the subject of the arbitration agreement between the parties. However, if that issue was arguable in that the outcome was not clear to me, then I should stay the court proceedings. [Emphasis added.] 
 

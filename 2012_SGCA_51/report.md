@@ -18,7 +18,7 @@ _Courts and Jurisdiction_ – _Court of Appeal_ – _Criminal jurisdiction_ – 
 
 _Criminal Procedure and Sentencing_ – _Trials_ – _Witnesses_ – _Whether witnesses allowed to give evidence from overseas through live video link for criminal proceedings in Singapore_ – _Section 364A Criminal Procedure Code (Cap 68, 1985 Rev Ed)_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2012] SGHC 51.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2012] SGHC 51</span>.] 
 
 6 September 2012 
 
@@ -245,7 +245,7 @@ Of particular significance to the present case are subsections (1), (2) and (8) 
 
 26     Given the very limited specific offences for which s 364A allows witnesses in Singapore to testify via video link, as well as the safeguards prescribed by Parliament, we do not see how an argument can validly be made that there is still room for judicial discretion to allow witnesses to do so in relation to an offence which is not one of the specified offences and where the circumstances are not those specified in s 364A. It would amount to the judiciary usurping legislative function if this court extended the circumstances under which evidence by video link may be obtained in a criminal proceeding. 
 
-27     Furthermore, it seemed to us that the norm was that witnesses must be physically present in court to give evidence, as a matter of both practice and law. This was acknowledged by the Court of Appeal in _Sonica Industries Ltd v Fu Yu Manufacturing Ltd_ [1999] 3 SLR(R) 119 (“ _Sonica_ ”) with respect to civil proceedings at [8]: 
+27     Furthermore, it seemed to us that the norm was that witnesses must be physically present in court to give evidence, as a matter of both practice and law. This was acknowledged by the Court of Appeal in _Sonica Industries Ltd v Fu Yu Manufacturing Ltd_ <span class="citation">[1999] 3 SLR(R) 119</span> (“ _Sonica_ ”) with respect to civil proceedings at [8]: 
 
  The general principle is that the evidence of a witness is to be given orally and in person in open court. This principle, subject to a number of exceptions, is found in O 38 r 1 of the Rules of Court which provides: 
 
@@ -283,7 +283,7 @@ We would also observe that the Judge had commented that the difficulties cited a
 several local cases [note: 18] where the courts interpreted and applied s 29A(2) of the SCJA (or its predecessor provisions) and held that the criminal jurisdiction of the Court of Appeal was to hear appeals against orders of finality, _ie_ those resulting in conviction and sentence, or acquittal, and that 
 
 
-the phrase “original criminal jurisdiction” in s 29A(2) (quoted below at [35] ) refers to the trial jurisdiction of the High Court see _Mohamed Razip and others v Public Prosecutor_ [1987] SLR(R) 525 (“ _Mohamed Razip_ ”); _Ang Cheng Hai and others v Public Prosecutor and another appeal_ [1995] 3 SLR(R) 151 (“ _Ang Cheng Hai_ ”); _Microsoft Corp and others v SM Summit Holdings Ltd and another_ [2000] 1 SLR(R) 423 (“ _Microsoft Corp_ ”); _Ng Chye Huey and another v Public Prosecutor_ [2007] 2 SLR(R) 106 (“ _Ng Chye Huey_ ”) and _Bachoo Mohan Singh v Public Prosecutor_ [2010] 1 SLR 966 (“ _Bachoo Mohan Singh_ ”). In all these cases, the Court of Appeal was asked to consider appeals against orders of the High Court made either at the pre-trial stage or in relation to an ongoing trial in the Subordinate Court, and not against an order of conviction, acquittal or sentence _after_ trial at the High Court. In these cases, the Court of Appeal held that those were non-appealable orders and it had no jurisdiction to hear appeals against those orders. 
+the phrase “original criminal jurisdiction” in s 29A(2) (quoted below at [35] ) refers to the trial jurisdiction of the High Court see _Mohamed Razip and others v Public Prosecutor_ [1987] SLR(R) 525 (“ _Mohamed Razip_ ”); _Ang Cheng Hai and others v Public Prosecutor and another appeal_ <span class="citation">[1995] 3 SLR(R) 151</span> (“ _Ang Cheng Hai_ ”); _Microsoft Corp and others v SM Summit Holdings Ltd and another_ <span class="citation">[2000] 1 SLR(R) 423</span> (“ _Microsoft Corp_ ”); _Ng Chye Huey and another v Public Prosecutor_ <span class="citation">[2007] 2 SLR(R) 106</span> (“ _Ng Chye Huey_ ”) and _Bachoo Mohan Singh v Public Prosecutor_ <span class="citation">[2010] 1 SLR 966</span> (“ _Bachoo Mohan Singh_ ”). In all these cases, the Court of Appeal was asked to consider appeals against orders of the High Court made either at the pre-trial stage or in relation to an ongoing trial in the Subordinate Court, and not against an order of conviction, acquittal or sentence _after_ trial at the High Court. In these cases, the Court of Appeal held that those were non-appealable orders and it had no jurisdiction to hear appeals against those orders. 
 
 33     In the light of these authorities, the Respondent argued that since the Criminal Motion was a pre-trial application and the Appellant’s trial had not yet commenced, the Judge’s order dismissing the Criminal Motion was therefore interlocutory in nature and the High Court was thereby not exercising 
 
@@ -291,7 +291,7 @@ any original criminal jurisdiction or trial jurisdiction when it heard the Crimi
 
 **_Our analysis_** 
 
-34     The Court of Appeal is a creature of legislation and its criminal jurisdiction is defined and limited by statute, such that it cannot exercise its powers in matters over which it has no jurisdiction: _Wong Hong Toy and another v Public Prosecutor_ [1985-1986] SLR(R) 371 at [16] (“ _Wong Hong Toy_ ”); _Abdullah bin A Rahman v Public Prosecutor_ [1994] 2 SLR(R) 1017 at [7], [11]; _Lim Choon Chye v Public Prosecutor_ [1994] 2 SLR(R) 1024 at [13]; _Microsoft Corp_ at [17]; _Kiew Ah Cheng David v Public Prosecutor_ [2007] 1 SLR(R) 1188 at [3]; _Ng Chye Huey_ at [17]. 
+34     The Court of Appeal is a creature of legislation and its criminal jurisdiction is defined and limited by statute, such that it cannot exercise its powers in matters over which it has no jurisdiction: _Wong Hong Toy and another v Public Prosecutor_ [1985-1986] SLR(R) 371 at [16] (“ _Wong Hong Toy_ ”); _Abdullah bin A Rahman v Public Prosecutor_ <span class="citation">[1994] 2 SLR(R) 1017</span> at [7], [11]; _Lim Choon Chye v Public Prosecutor_ <span class="citation">[1994] 2 SLR(R) 1024</span> at [13]; _Microsoft Corp_ at [17]; _Kiew Ah Cheng David v Public Prosecutor_ <span class="citation">[2007] 1 SLR(R) 1188</span> at [3]; _Ng Chye Huey_ at [17]. 
 
 35     Section 29A(2) of the SCJA statutorily prescribes the criminal jurisdiction of the Court of Appeal as follows: 
 

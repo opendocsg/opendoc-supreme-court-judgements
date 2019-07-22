@@ -20,7 +20,7 @@
 
 _Criminal Law_ – _Offences_ – _Rape_ 
 
-[LawNet Editorial Note: In the accused's appeal to this decision in Criminal Appeal No 32 of 2016, (a) the appeal against conviction for the offences of rape and sexual assault by penetration was dismissed, (b) the appeal against sentence for the rape charge was dismissed and (c) the appeal against sentence for the digital penetration charge was allowed, by the Court of Appeal on 25 September 2017. See [2017] SGCA 56.] 
+[LawNet Editorial Note: In the accused's appeal to this decision in Criminal Appeal No 32 of 2016, (a) the appeal against conviction for the offences of rape and sexual assault by penetration was dismissed, (b) the appeal against sentence for the rape charge was dismissed and (c) the appeal against sentence for the digital penetration charge was allowed, by the Court of Appeal on 25 September 2017. See <span class="citation">[2017] SGCA 56</span>.] 
 
 18 July 2016 Judgment reserved. 
 
@@ -255,7 +255,7 @@ admitted that he did have sex with the victim but for only a few seconds. [note:
 
 the new questions were not suggested by SSSgt Tay but came from the accused himself. 
 
-55     As for SSSgt Tay’s statement to the accused that he could be released on station bail if the investigation was completed, I was of the view that this statement did not objectively constitute an inducement, threat or promise. In _Chai Chien Wei Kelvin v Public Prosecutor_ [1998] 3 SLR(R) 619, the Court of Appeal was of the view that a call to cooperate was not a threat or inducement (at [55]). Furthermore, I was of the view that SSSgt Tay’s statement did not operate on the mind of the accused to cause him to make the amendments so as to gain an advantage for the purpose of s 258(3) of the CPC. Indeed, the accused did not suggest that that statement alone had caused him to make the amendments. 
+55     As for SSSgt Tay’s statement to the accused that he could be released on station bail if the investigation was completed, I was of the view that this statement did not objectively constitute an inducement, threat or promise. In _Chai Chien Wei Kelvin v Public Prosecutor_ <span class="citation">[1998] 3 SLR(R) 619</span>, the Court of Appeal was of the view that a call to cooperate was not a threat or inducement (at [55]). Furthermore, I was of the view that SSSgt Tay’s statement did not operate on the mind of the accused to cause him to make the amendments so as to gain an advantage for the purpose of s 258(3) of the CPC. Indeed, the accused did not suggest that that statement alone had caused him to make the amendments. 
 
 56     As for the 21 May Statement, I did not accept the accused’s evidence that SSSgt Tay had repeated some of the inducements, threats or promises made on 7 May 2012 for similar reasons. 
 
@@ -317,7 +317,7 @@ be a low chance of a tear. [note: 33]
 
 71     In the circumstances, I am of the view that the absence of a fresh tear at the victim’s hymen, the absence of sperm in her vagina and the negative test for semen at two cuttings from her bikini bottom are neutral. 
 
-72     The Prosecution relied on _AOF v Public Prosecutor_ [2012] 3 SLR 34 to submit that the court should conclude that there was penile penetration on the evidence of the victim alone as her evidence was unusually convincing. I do not find the victim’s evidence on penile penetration to be unusually convincing even though she maintained her evidence at trial. 
+72     The Prosecution relied on _AOF v Public Prosecutor_ <span class="citation">[2012] 3 SLR 34</span> to submit that the court should conclude that there was penile penetration on the evidence of the victim alone as her evidence was unusually convincing. I do not find the victim’s evidence on penile penetration to be unusually convincing even though she maintained her evidence at trial. 
 
 73     First, the victim had informed Dr Nadarajah that the assailant had ejaculated inside her vagina but there was no evidence of sperm in her vagina. 
 

@@ -16,7 +16,7 @@
 
 _Contract_ – _Illegality and public policy_ – _Foreign illegality_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 318.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 318</span>.] 
 
 4 October 2018 
 
@@ -24,7 +24,7 @@ _Contract_ – _Illegality and public policy_ – _Foreign illegality_
 
 **Introduction** 
 
-1       Should this court refuse to enforce a lawful contract on the basis that it is allegedly connected to a contract that is illegal and unenforceable in a friendly and foreign country? This was the question that arose in an appeal against the decision of the High Court judge (“the Judge”) in _EFG Bank AG, Singapore Branch v Teng Wen-Chung_ [2017] SGHC 318 (“the GD”). After considering the parties’ submissions, we dismissed the appeal and now give the detailed grounds for our decision. 
+1       Should this court refuse to enforce a lawful contract on the basis that it is allegedly connected to a contract that is illegal and unenforceable in a friendly and foreign country? This was the question that arose in an appeal against the decision of the High Court judge (“the Judge”) in _EFG Bank AG, Singapore Branch v Teng Wen-Chung_ <span class="citation">[2017] SGHC 318</span> (“the GD”). After considering the parties’ submissions, we dismissed the appeal and now give the detailed grounds for our decision. 
 
 **Background facts** 
 
@@ -92,7 +92,7 @@ was upheld by the English Court of Appeal, Staughton J noted that there are circ
 
 _Examining the_ Euro-Diam _decision_ 
 
-20     Since the decision in _Euro-Diam_ was handed down over three decades ago, the law relating to contractual illegality has developed quite significantly in the local context. Indeed, whilst _Euro-Diam_ has been applied (see, _eg_ , the High Court decision of _Overseas Union Bank Ltd v Chua Kok Kay and another_ [1993] 1 SLR 686) and referred to (see, _eg_ , the decision of this Court in _Station Hotel Co v Malayan Railway Administration_ [1993] 2 SLR(R) 818 at [57]) in Singapore, the _current_ law relating to contractual illegality in the local context is to be found in this Court’s decision in _Ting Siew May v Boon Lay Choo_ [2014] 3 SLR 609 (“ _Ting Siew May_ ”), as well as most recently _Ochroid Trading Ltd and another v Chua Siok Lui (trading as VIE Import & Export) and another_ [2018] 1 SLR 363 (“ _Ochroid Trading_ ”). 
+20     Since the decision in _Euro-Diam_ was handed down over three decades ago, the law relating to contractual illegality has developed quite significantly in the local context. Indeed, whilst _Euro-Diam_ has been applied (see, _eg_ , the High Court decision of _Overseas Union Bank Ltd v Chua Kok Kay and another_ <span class="citation">[1993] 1 SLR 686</span>) and referred to (see, _eg_ , the decision of this Court in _Station Hotel Co v Malayan Railway Administration_ <span class="citation">[1993] 2 SLR(R) 818</span> at [57]) in Singapore, the _current_ law relating to contractual illegality in the local context is to be found in this Court’s decision in _Ting Siew May v Boon Lay Choo_ <span class="citation">[2014] 3 SLR 609</span> (“ _Ting Siew May_ ”), as well as most recently _Ochroid Trading Ltd and another v Chua Siok Lui (trading as VIE Import & Export) and another_ <span class="citation">[2018] 1 SLR 363</span> (“ _Ochroid Trading_ ”). 
 
 21     In the two last-mentioned cases, this Court recognised that, in so far as contracts that were not themselves illegal but that were entered into to achieve an illegal purpose or object are concerned, there are _degrees of illegality_ that militated against a blanket prohibition of such contracts ( _Ting Siew May_ at [46]; _Ochroid Trading_ at [39]). We eschewed an approach employing rigid and inflexible rules, adopting instead a balancing exercise to determine whether the contract in question is enforceable despite the illegal object underlying it ( _Ting Siew May_ at [70]–[71]; _Ochroid Trading_ at [64]). Additionally, in _Ochroid Trading_ , this Court also elaborated (especially at [128], [129] and [139]) upon the concept of “reliance” in the context of contractual illegality and drew a distinction between “reliance” in a formal or procedural sense and “reliance” in a normative or substantive sense (at [128]): 
 

@@ -22,7 +22,7 @@ _Damages_ – _assessment_
 
 _Equity_ – _satisfaction_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2012] 3 SLR 595.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2012] 3 SLR 595</span>.] 
 
 18 January 2013 Judgment reserved. 
 
@@ -30,7 +30,7 @@ _Equity_ – _satisfaction_
 
 **Introduction** 
 
-1       The present cross appeals arise out of an assessment of damages, which had first been heard before the Assistant Registrar (“the AR”). Both parties appealed against the AR’s decision to the High Court Judge (“the Judge”). The Judge’s decision on the assessment of damages appeal was delivered on 31 May 2012 and this included an addendum that he provided after hearing further arguments. That decision is reported as _Lim Chin San Contractors Pte Ltd v Shiok Kim Seng (trading as IKO Precision Toolings)_ [2012] 3 SLR 595 (“the AD Decision”). In the AD Decision, the Judge referred to an earlier judgement that he himself had delivered after hearing the trial of the matter which dealt with the issue of liability. It was pursuant to the earlier judgement that damages came to be assessed. The earlier judgment is reported as _Lim Chin San Contractors Pte Ltd v Shiok Kim Seng (trading as IKO Precision Toolings)_ [2011] 1 SLR 433 (“the Original Decision”). 
+1       The present cross appeals arise out of an assessment of damages, which had first been heard before the Assistant Registrar (“the AR”). Both parties appealed against the AR’s decision to the High Court Judge (“the Judge”). The Judge’s decision on the assessment of damages appeal was delivered on 31 May 2012 and this included an addendum that he provided after hearing further arguments. That decision is reported as _Lim Chin San Contractors Pte Ltd v Shiok Kim Seng (trading as IKO Precision Toolings)_ <span class="citation">[2012] 3 SLR 595</span> (“the AD Decision”). In the AD Decision, the Judge referred to an earlier judgement that he himself had delivered after hearing the trial of the matter which dealt with the issue of liability. It was pursuant to the earlier judgement that damages came to be assessed. The earlier judgment is reported as _Lim Chin San Contractors Pte Ltd v Shiok Kim Seng (trading as IKO Precision Toolings)_ <span class="citation">[2011] 1 SLR 433</span> (“the Original Decision”). 
 
 **Facts** 
 
@@ -152,7 +152,7 @@ In the Second Tenancy Agreement, clause 4(i) provided:
 
 21     Mr Shiok contends that in this case, the Court tasked with assessing the damages was obliged to do so in accordance with the terms of the Original Decision and the directions and principles that were set out therein. For present purposes, those principles have been set out and summarised at [12] and [13] above. This much was uncontroversial. 
 
-22     The fact that an assessing court is obliged to adhere to any principles laid down by the trial court for the assessment has been recognised, for instance, in _Ho Yew Weng Alan James v Poh Eng Wah Mark t/a Sg Vehicles Trading_ [1997] SGHC 179 at [9]: 
+22     The fact that an assessing court is obliged to adhere to any principles laid down by the trial court for the assessment has been recognised, for instance, in _Ho Yew Weng Alan James v Poh Eng Wah Mark t/a Sg Vehicles Trading_ <span class="citation">[1997] SGHC 179</span> at [9]: 
 
  Where judgment is given for damages to be assessed they will be assessed by the registrar unless provision is made by the judgment as to how they are to be assessed. See O 37 r 1(1) [of the Rules of Court (Cap 322, R 5, 2006 Rev Ed)]. The registrar must assess the damages in accordance with the terms of the judgment. He cannot disregard the judgment and the assessment of damages is not an occasion for him to set it aside or vary it in any way. Appeals from his decision and the decision of the district judge are no different in this respect. 
 
@@ -219,7 +219,7 @@ Decision. [note: 1]
 
  (b) The Judge ordered that the equity would be satisfied by a remedy that was fashioned on the basis of an award of damages. This was an order for equitable compensation and would hence always be subject to the equitable rules that govern the assessment of just what compensation would in the event be equitable. 
 
-38     The Judge observed at [3] of the AD Decision that “[o]nce the court determines that a proprietary estoppel claim has been established, the Court is faced with the unusual task of fashioning an appropriate remedy to satisfy the equity”. This much is correct, but it bears emphasis that it is the equity that the Court aims to satisfy, rather than the claimant’s expectations (see _Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd_ [2007] 1 SLR(R) 292 (“ _Hong Leong_ ”) at [244] citing _Jennings v Rice_ [2003] 1 P & CR 100 at 245): 
+38     The Judge observed at [3] of the AD Decision that “[o]nce the court determines that a proprietary estoppel claim has been established, the Court is faced with the unusual task of fashioning an appropriate remedy to satisfy the equity”. This much is correct, but it bears emphasis that it is the equity that the Court aims to satisfy, rather than the claimant’s expectations (see _Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd_ <span class="citation">[2007] 1 SLR(R) 292</span> (“ _Hong Leong_ ”) at [244] citing _Jennings v Rice_ [2003] 1 P & CR 100 at 245): 
 
  The equity does not arise from the claimant’s expectations alone, but from the combination of expectations, detrimental reliance and the unconscionableness of allowing the [representor] to go back on the assurances. 
 

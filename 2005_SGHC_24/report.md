@@ -107,7 +107,7 @@ of the mark-up, was ac c eptable. It is inc ontrovertible that the transac tions
 
 17     The plaintiff has in addition c laimed the sum of $5,203.99 being transportation c harges paid to Confi for the Overseas Trades. 
 
-18     Initially, the defendant disputed neither its liability to make payment nor the quantum c laimed, issuing on the c ontrary, several post-dated c heques in the plaintiff’s favour. Part-payment in the sum of $35,972.43 was made between January 2003 and June 2003. The final part payment of $3,500 was made on 28 June 2003. After failing to rec eive the balanc e of the outstanding amount from the defendant, the plaintiff proc eeded in ac c ordanc e with GBC’s purported mandate to c omplete the Cheque for that amount. The Cheque was then deposited with the plaintiff’s bank for c learanc e, but to no avail. When the Cheque was returned, the plaintiff made a personal c laim against GBC. GBC denied any liability with regard to the Cheque and proc eedings were then initiated by the plaintiff against GBC for failing to honour his liability on the Cheque. I deal with this c laim separately in my judgment in _City Hardware Pte Ltd v Goh Boon Chye_ [2005] SGHC 25. 
+18     Initially, the defendant disputed neither its liability to make payment nor the quantum c laimed, issuing on the c ontrary, several post-dated c heques in the plaintiff’s favour. Part-payment in the sum of $35,972.43 was made between January 2003 and June 2003. The final part payment of $3,500 was made on 28 June 2003. After failing to rec eive the balanc e of the outstanding amount from the defendant, the plaintiff proc eeded in ac c ordanc e with GBC’s purported mandate to c omplete the Cheque for that amount. The Cheque was then deposited with the plaintiff’s bank for c learanc e, but to no avail. When the Cheque was returned, the plaintiff made a personal c laim against GBC. GBC denied any liability with regard to the Cheque and proc eedings were then initiated by the plaintiff against GBC for failing to honour his liability on the Cheque. I deal with this c laim separately in my judgment in _City Hardware Pte Ltd v Goh Boon Chye_ <span class="citation">[2005] SGHC 25</span>. 
 
 
 **The statutory objective of the MLA** 
@@ -116,7 +116,7 @@ of the mark-up, was ac c eptable. It is inc ontrovertible that the transac tions
 
  The Ac t was intended to apply only to persons who are really c arrying on the business of moneylending as a business, not to persons who lend money as an inc ident of another business or to a few old friends by way of friendship. This particular Act was supposed to be required to save the foolish from the extortion of a certain class of the community who are c alled money-lenders as an offensive term. [emphasis added] 
 
-20     The Singapore Court of Appeal in _Lorrain Esme Osman v Elders Finance Asia Ltd_ [1992] 1 SLR 369 at 378, [39] endorsed these observations and stated “what he [Farwell J] said in respec t of the English Money-lenders Ac t 1900 is equally true of the [MLA]”. 
+20     The Singapore Court of Appeal in _Lorrain Esme Osman v Elders Finance Asia Ltd_ <span class="citation">[1992] 1 SLR 369</span> at 378, [39] endorsed these observations and stated “what he [Farwell J] said in respec t of the English Money-lenders Ac t 1900 is equally true of the [MLA]”. 
 
 21     A helpful c onspec tus of the views that the English Selec t Committee took into ac c ount in enac ting the English Money-lenders Ac t 1900 is c ontained in the Crowther Committee’s _Report on Consumer Credit_ (Cmnd 4596, 1971) at para 2.1.22: 
 
@@ -158,7 +158,7 @@ _The Law of Money Lenders in Australia and New Zealand_ (The Law Book Company Li
 
  (d) Frank H Wright (Constructions) Ltd v Frodoor Ltd [1967] 1 All ER 433, where it was held that issuing houses do not c onduc t moneylending. 
 
-28     The Singapore c ourts have also invariably taken a pragmatic approac h in determining whether a transac tion offends both the letter and spirit of the MLA. Lord Devlin’s _dictum_ in _Chow Yoong Hong_ has been c onsistently applied by the c ourts. If transac tions are not loans in nature or in form, the law will be slow to infer or impute a relationship of moneylending. I shall briefly refer to some rec ent dec isions. In _Nissho Iwai International (Singapore) Pte Ltd v Kohinoor Impex Pte Ltd_ [1995] 3 SLR 268 at 273–275, [13] and [18], Lim Teong Qwee JC observed: 
+28     The Singapore c ourts have also invariably taken a pragmatic approac h in determining whether a transac tion offends both the letter and spirit of the MLA. Lord Devlin’s _dictum_ in _Chow Yoong Hong_ has been c onsistently applied by the c ourts. If transac tions are not loans in nature or in form, the law will be slow to infer or impute a relationship of moneylending. I shall briefly refer to some rec ent dec isions. In _Nissho Iwai International (Singapore) Pte Ltd v Kohinoor Impex Pte Ltd_ <span class="citation">[1995] 3 SLR 268</span> at 273–275, [13] and [18], Lim Teong Qwee JC observed: 
 
  In eac h c ase the arrangements must be c onsidered as a whole and the substanc e looked at to see if the transac tions c an be c ategorized as moneylending transac tions and whether any money was lent. 
 
@@ -167,11 +167,11 @@ _The Law of Money Lenders in Australia and New Zealand_ (The Law Book Company Li
  [emphasis added] 
 
 
-29     In _Tan Sim Lay v Lim Kiat Seng_ [1996] 2 SLR 769 at 777, [23], Choo Han Tec k JC (as he then was) had no hesitation in c onc luding that the prac tic e of businessmen who extended their banking fac ilities to assoc iates for a c ommission was not tantamount to moneylending: 
+29     In _Tan Sim Lay v Lim Kiat Seng_ <span class="citation">[1996] 2 SLR 769</span> at 777, [23], Choo Han Tec k JC (as he then was) had no hesitation in c onc luding that the prac tic e of businessmen who extended their banking fac ilities to assoc iates for a c ommission was not tantamount to moneylending: 
 
  There is implic it in Lord Devlin’s judgment that suc h transac tions at least have the c olour of a genuine c ommerc ial transac tion other than pure moneylending. The defenc e there failed bec ause the evidenc e adduc ed was inadequate to c onvinc e the c ourt that the transac tions were not only truly what they appeared. Similar transactions may well include the extension by one party for the use of another the credit facilities at the disposal of the former in consideration of payment of a commission. Such transactions per se may not be moneylending. In the present c ase, money was ac tually advanc ed whic h were [ sic ] to be repaid with interest fixed at an exorbitant rate. [emphasis added] 
 
-30     In _Ding Leng Kong v Mok Kwong Yue_ [2003] 4 SLR 637, Woo Bih Li J had to determine whether c ertain advanc es for equity investment amounted to loans. In determining that the subjec t transac tions did not amount to moneylending, Woo J astutely observed at [56]: 
+30     In _Ding Leng Kong v Mok Kwong Yue_ <span class="citation">[2003] 4 SLR 637</span>, Woo Bih Li J had to determine whether c ertain advanc es for equity investment amounted to loans. In determining that the subjec t transac tions did not amount to moneylending, Woo J astutely observed at [56]: 
 
  While I agree with various pleaded defenc es that Ding had taken advantage of the situation, that does not nec essarily make him a moneylender within the Ac t. Neither does it make Ding’s actions so unconscionable as to deny him the reliefs he seeks. The transactions were at arm’s length between commercially-minded persons. After all, Ding was taking the risk that he might not be repaid even the principal, a risk which has become more real as developments have shown. [emphasis added] 
 

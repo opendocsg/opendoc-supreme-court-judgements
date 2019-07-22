@@ -918,7 +918,7 @@ Why Mr Shu called his letter of 14 September 1999 a "report" is beyond comprehen
 86\. Reference must now be made to CWIs alternative claim. In their statement of claim, CWI pleaded that it was an express or implied term of the contract that SD would pay CWI a reasonable sum for their services. 
 
 
-87\. CWI did not even attempt to prove that there was an express term to the effect that SD would pay them a reasonable sum for their services. As for an implied term, it is clear that a term will only be implied if it is necessary to give business efficacy to the contract and that a term will not be implied if it is inconsistent with the express terms of the contract. (See, for instance, _Lee Siong Kee v Beng Tiong Trading, Import and Export (1988) Pte Ltd_ [2000] 4 SLR 559, 570, a decision of the Court of Appeal, and _Lynch v Thorne_ [1956] 1 WLR 303.) In the present case, the contract between SD and CWI clearly provided for the payment of remuneration only after CWI has resolved SDs problems in the Jiangsu projects. There is thus no room for CWI to claim from SD a reasonable remuneration for their services on the basis of an implied term. 
+87\. CWI did not even attempt to prove that there was an express term to the effect that SD would pay them a reasonable sum for their services. As for an implied term, it is clear that a term will only be implied if it is necessary to give business efficacy to the contract and that a term will not be implied if it is inconsistent with the express terms of the contract. (See, for instance, _Lee Siong Kee v Beng Tiong Trading, Import and Export (1988) Pte Ltd_ <span class="citation">[2000] 4 SLR 559</span>, 570, a decision of the Court of Appeal, and _Lynch v Thorne_ [1956] 1 WLR 303.) In the present case, the contract between SD and CWI clearly provided for the payment of remuneration only after CWI has resolved SDs problems in the Jiangsu projects. There is thus no room for CWI to claim from SD a reasonable remuneration for their services on the basis of an implied term. 
 
 ### F. SECTION 116 OF THE EVIDENCE ACT 
 
@@ -944,7 +944,7 @@ Why Mr Shu called his letter of 14 September 1999 a "report" is beyond comprehen
 
 90\. CWI contended that as Mr Lee played an important role in SDs dealings with Mr Shu, he should have been called as a witness. SD pointed out that by the time CWI instituted the present action, Mr Lee was no longer their employee and that he was very reluctant to give evidence. SD explained that Mr Lees assistance was not required to prove their case because they had other witnesses who could prove that their problems in Jiangsu were not resolved by CWI. It was also pointed out that CWI could have subpoenaed Mr Lee if they thought this to be necessary. 
 
-91\. The circumstances under which an adverse inference may be drawn from a failure to call a witness have been discussed in many cases. In _Chua Keem Long v PP_ [1996] 1 SLR 510, 523-524, Yong Pung How CJ explained: 
+91\. The circumstances under which an adverse inference may be drawn from a failure to call a witness have been discussed in many cases. In _Chua Keem Long v PP_ <span class="citation">[1996] 1 SLR 510</span>, 523-524, Yong Pung How CJ explained: 
 
 ## In determining whether or not that presumption ought to be drawn, the court will 
 
@@ -956,7 +956,7 @@ Why Mr Shu called his letter of 14 September 1999 a "report" is beyond comprehen
 
 ## trial and confusing the issues. 
 
-92\. In _Yeo Choon Huat v PP_ [1998] 1 SLR 217, the Court of Appeal held, in the context of a criminal case, that the prosecutions failure to call a witness does not give rise to a presumption under s 116(g) of the Evidence Act unless it constitutes a withholding of evidence from the court. 
+92\. In _Yeo Choon Huat v PP_ <span class="citation">[1998] 1 SLR 217</span>, the Court of Appeal held, in the context of a criminal case, that the prosecutions failure to call a witness does not give rise to a presumption under s 116(g) of the Evidence Act unless it constitutes a withholding of evidence from the court. 
 
 93\. In the present case, the available documents and witnesses provided ample evidence which made it impossible for CWIs claim to succeed. It is pertinent to note that it is not CWIs case that Mr Lee had altered or had the authority to alter the terms of the agreement between SD and CWI. Taking all the circumstances into account, I hold that the fact that Mr Lee was not called 
 

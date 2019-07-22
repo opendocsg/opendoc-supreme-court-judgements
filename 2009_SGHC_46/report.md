@@ -24,7 +24,7 @@ Tay Yong Kwang J:
 
 **Introduction to the second hearing** 
 
-1       The precursor to this judgment is _PP v Barokah_ [2008] SGHC 22 (“my previous judgment”) which contains the grounds of my decision for sentencing Ms Barokah to life imprisonment on 26 November 2007 upon her plea of guilt to a charge under s 304(a) of the Penal Code (Cap 224, 1985 Rev Ed) (“the first hearing before me”). 
+1       The precursor to this judgment is _PP v Barokah_ <span class="citation">[2008] SGHC 22</span> (“my previous judgment”) which contains the grounds of my decision for sentencing Ms Barokah to life imprisonment on 26 November 2007 upon her plea of guilt to a charge under s 304(a) of the Penal Code (Cap 224, 1985 Rev Ed) (“the first hearing before me”). 
 
 2       Ms Barokah appealed to the Court of Appeal against my previous judgment. At the first hearing before the Court of Appeal on 22 April 2008, her counsel (the same counsel at the first hearing before me and at the present hearing) applied to the Court of Appeal to admit a further psychiatric report dated 6 March 2008 from Dr Nagulendran, the defence psychiatrist. After hearing arguments, the Court of Appeal rejected the application. 
 
@@ -47,7 +47,7 @@ Tay Yong Kwang J:
 
 7       As the conviction of Ms Barokah was not set aside, the facts set out in my previous judgment relating to her conviction still stand and are relevant for the purpose of this second hearing. Further, as my previous judgment dealt with the earlier psychiatric reports and expressed my views on why life imprisonment should be imposed (which I will be referring to in this judgment), I think it is appropriate to attach my previous judgment as an annexure **[Annexure included*]** for easy reference. This judgment should therefore be read in conjunction with my previous judgment which I adopt unless otherwise stated. 
 
-**[*LawNet Admin Note: Annexure ([2008] SGHC 22) is viewable only by LawNet subscribers.]** 
+**[*LawNet Admin Note: Annexure (<span class="citation">[2008] SGHC 22</span>) is viewable only by LawNet subscribers.]** 
 
 **The evidence at the second hearing** 
 
@@ -256,9 +256,9 @@ although I note that Dr Nagulendran qualified his concession by saying that his 
 
 temperament infused with largely self-induced turmoil (i.e. having sexual relationships with different men and then feeling guilty and depressed). She requires life-long follow-up and has a 60% chance of relapse of her major depressive episode. She has shown what she is capable of when depressed, even when she knows she is clearly in the wrong. 
 
-67     Defence counsel reminded me that the burden is on the prosecution to establish that an accused person is likely to remain a future and real danger to the public without medication and permanent incarceration ( _PP v Constance Chee_ [2006] 2 SLR 707 at [16]). He also submitted that considerations of general and specific deterrence have penumbral significance when dealing with accused persons with mental disorders, especially when a causal link is established between the mental disorder and the offence ( _Ng So Kuen Connie v PP_ [2003] 3 SLR 178). 
+67     Defence counsel reminded me that the burden is on the prosecution to establish that an accused person is likely to remain a future and real danger to the public without medication and permanent incarceration ( _PP v Constance Chee_ <span class="citation">[2006] 2 SLR 707</span> at [16]). He also submitted that considerations of general and specific deterrence have penumbral significance when dealing with accused persons with mental disorders, especially when a causal link is established between the mental disorder and the offence ( _Ng So Kuen Connie v PP_ <span class="citation">[2003] 3 SLR 178</span>). 
 
-68     Reference was made to Chan Seng Onn J’s analysis of s 304(a) of the Penal Code in _PP v Aniza bte Essa_ [2008] 3 SLR 832 (“ _Aniza_ ”) (at [41] to [49]) where the accused was sentenced to 9 years’ imprisonment. We should note at this juncture that there is an editorial note to this case stating: 
+68     Reference was made to Chan Seng Onn J’s analysis of s 304(a) of the Penal Code in _PP v Aniza bte Essa_ <span class="citation">[2008] 3 SLR 832</span> (“ _Aniza_ ”) (at [41] to [49]) where the accused was sentenced to 9 years’ imprisonment. We should note at this juncture that there is an editorial note to this case stating: 
 
  The Prosecution’s appeal against this decision in CCA 2 of 2008 was heard by the Court of Appeal (Chan Sek Keong CJ, Andrew Phang Boon Leong and V K Rajah JJA) on 28 July 2008. Judgment was reserved. 
 
@@ -275,7 +275,7 @@ In my view, the maximum punishment in the situation envisaged above would serve 
 
 _post facto_ hypothesis and the truth and accuracy of the input from the subject and others. Some mentally disturbed persons are much more impaired than others. “Nothing is certain in psychiatry” (see [39]). In Ms Barokah’s case, her actions and words showed that she was actively and consciously trying to dissociate herself from the horrendous crime against the unconscious, elderly woman. Her depressive episode was largely self-induced (by her choice to have intimate relationships) and the situation was created by her leaving Wee’s flat that fateful night when she ought not to have done so. The cruel and inhumane killing was totally unjustified in the circumstances here. There should therefore be a strong measure of retribution here in addition to all the other considerations mentioned earlier. 
 
-71     Justice is not only about accused persons. As V K Rajah J (as he then was) said in _PP v Aguilar Guen Garlejo_ [2006] 3 SLR 247 at [57]: 
+71     Justice is not only about accused persons. As V K Rajah J (as he then was) said in _PP v Aguilar Guen Garlejo_ <span class="citation">[2006] 3 SLR 247</span> at [57]: 
 
  While sympathy may be added, justice cannot be subtracted from the sentencing equation. 
 

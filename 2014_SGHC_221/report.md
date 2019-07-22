@@ -246,7 +246,7 @@ The dimensions obtained from SCS6 are fed into the MCG, which generates a job cu
 
 **_The applicable law_** 
 
-64     To succeed in an action for breach of confidence where no contract is involved, three elements have to be proven. They are set out by Megarry J in the seminal case of _Coco v A N Clark (Engineers) Ltd_ [1969] RPC 41 (“ _Coco_ ”) at 47 and have since been cited with approval in a number of Singapore cases: see _X Pte Ltd and another v CDE_ [1992] 2 SLR(R) 575 at [27] and _PH Hydraulics & Engineering Pte Ltd v Intrepid Offshore Construction Pte Ltd and another_ [2012] 4 SLR 36 at [55]: 
+64     To succeed in an action for breach of confidence where no contract is involved, three elements have to be proven. They are set out by Megarry J in the seminal case of _Coco v A N Clark (Engineers) Ltd_ [1969] RPC 41 (“ _Coco_ ”) at 47 and have since been cited with approval in a number of Singapore cases: see _X Pte Ltd and another v CDE_ <span class="citation">[1992] 2 SLR(R) 575</span> at [27] and _PH Hydraulics & Engineering Pte Ltd v Intrepid Offshore Construction Pte Ltd and another_ <span class="citation">[2012] 4 SLR 36</span> at [55]: 
 
  (a) First, the information must possess the necessary quality of confidentiality. 
 
@@ -275,7 +275,7 @@ or not it is confidential to the employer at time of acquisition, and that if th
 
 This is strictly _obiter_ , as the _ratio decidendi_ in the case was that the implied post-employment obligation of confidence owed by the former employees was restricted to information that is invested with a sufficient degree of confidentiality to render it a trade secret or its equivalent; accordingly, the appeal was dismissed because neither the sales information as a whole nor the information about the prices by itself fell within that class of information. 
 
-71     What is of key concern in the present proceedings is the _obiter dictum_ , which seems to suggest that only trade secrets can justifiably be restrained from use post-employment. It was briefly considered by the Court of Appeal in _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ [2008] 1 SLR(R) 663 at [86]: 
+71     What is of key concern in the present proceedings is the _obiter dictum_ , which seems to suggest that only trade secrets can justifiably be restrained from use post-employment. It was briefly considered by the Court of Appeal in _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ <span class="citation">[2008] 1 SLR(R) 663</span> at [86]: 
 
 
  The court in Faccenda Chicken further held ( per Neill LJ at 137) that even the use of an express covenant to protect confidential information falling short of a trade secret after the contract of employment had come to an end was not permitted. Subsequent (and more recent) authorities have cast doubt on this particular proposition ... In Singapore, there has been no detailed analysis of the difference in views just outlined. The answer may well lie in the approach that is adopted. If one is of the view that full rein should be given to the concept of freedom of contract, an express (as opposed to an implied) covenant ought to be held to be sufficient to prevent either the disclosure or use of the confidential information. If, on the other hand, one adopts the view that it is the status of the information concerned that is the critical factor, then the use or disclosure of such information should be allowed after the employment contract comes to an end, as that is when the duty of fidelity owed by the employee to his or her employer simultaneously terminates as well. [emphasis in original] 
@@ -410,7 +410,7 @@ suitable for his business and, having found none, was seeking to make a tool for
 106    There is one other authority relevant to the issue of whom confidential information in a 
 
 
-commissioned work resided with. It is the case of _Invenpro (M) Sdn Bhd v JCS Automation Pte Ltd and another_ [2014] 2 SLR 1045 (“ _Invenpro_ ”). Ma and Li cited this case for its holding that the commissioned party retained the confidential information in the commissioned work. It bucked the trend in the earlier two cases which decided that the confidential information in the commissioned work resided with commissioning party. The differences in the holding, however, appear to arise from different facts than from a controversy in the legal principles. 
+commissioned work resided with. It is the case of _Invenpro (M) Sdn Bhd v JCS Automation Pte Ltd and another_ <span class="citation">[2014] 2 SLR 1045</span> (“ _Invenpro_ ”). Ma and Li cited this case for its holding that the commissioned party retained the confidential information in the commissioned work. It bucked the trend in the earlier two cases which decided that the confidential information in the commissioned work resided with commissioning party. The differences in the holding, however, appear to arise from different facts than from a controversy in the legal principles. 
 
 107    In _Invenpro_ , Komag (the commissioning party and also the defendant) approached Invenpro (the commissioned party and also the plaintiff) to manufacture a batch scrubber for its production line. Invenpro created an improved version of the existing batch scrubber, called “2006 Improved Komag Batch Scrubber”. The defendants were later engaged by Komag to modify its batch scrubber cleaning system and they were alleged to have copied confidential features of the 2006 Improved Komag Batch Scrubber to produce their own batch scrubbers. The rights in relation to the confidential information in these features thus become important as Invenpro would need to, at the threshold, establish that confidential information in the 2006 Improved Komag Batch Scrubber still resided with Invenpro in order to have the _locus standi_ to assert a claim of breach of confidentiality against the defendants. 
 
@@ -1188,7 +1188,7 @@ trying to remove evidence of what they had done. This reinforced the inference t
 
 _The applicable law_ 
 
-236    The elements required to establish a conspiracy by unlawful means are set out in _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ [2014] 1 SLR 860 (“ _EFT Holdings_ ”) 
+236    The elements required to establish a conspiracy by unlawful means are set out in _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ <span class="citation">[2014] 1 SLR 860</span> (“ _EFT Holdings_ ”) 
 
 
 at [112]: 
@@ -1213,7 +1213,7 @@ _All the elements were established with respect to Ting, David, Goh, Ng, Ho and 
 
 240    Having found elements (a) and (d), I turn to analyse elements (b), (c), and (e). 
 
-241    I also found that element (b) had been established by the evidence which showed that the conspirators had intended to injure Clearlab. By taking Clearlab’s confidential information and using them in Aquilus to set up a competing contact lens manufacturing business that directly competed with Clearlab in the same market, the conspirators had intended to injure Clearlab by causing a loss of its profit. In _Chew Kong Huat and others v Ricwil (Singapore) Pte Ltd_ [1999] 3 SLR(R) 1167 the Court of Appeal found at [35] that damage to the plaintiff was a necessary corollary of the profit accruing to the defendant, a direct competitor. In that case, the court had no difficulty finding that there was an intention to injure the plaintiff in those circumstances. 
+241    I also found that element (b) had been established by the evidence which showed that the conspirators had intended to injure Clearlab. By taking Clearlab’s confidential information and using them in Aquilus to set up a competing contact lens manufacturing business that directly competed with Clearlab in the same market, the conspirators had intended to injure Clearlab by causing a loss of its profit. In _Chew Kong Huat and others v Ricwil (Singapore) Pte Ltd_ <span class="citation">[1999] 3 SLR(R) 1167</span> the Court of Appeal found at [35] that damage to the plaintiff was a necessary corollary of the profit accruing to the defendant, a direct competitor. In that case, the court had no difficulty finding that there was an intention to injure the plaintiff in those circumstances. 
 
 242    As for element (c), one of the means employed by the ex-employees, Ho and Aquilus was breach of confidence. While the scope of “unlawful means” for the purposes of conspiracy by unlawful means is yet to be settled (see the remarks of the Court of Appeal in _EFT Holdings_ at [91]–[93]), in _Faccenda Chicken (Ch)_ at 602, Goulding J accepted that a breach of confidence could form the requisite unlawful means for establishing a conspiracy by unlawful means. This is implicit from the way Goulding J proceeded to determine whether the claim of conspiracy can be made out by analysing if the wrongful act ( _ie_ , the abuse of confidential information) by itself was actionable or if there was a sole or predominant purpose to injure the plaintiff. 
 
@@ -1395,7 +1395,7 @@ Group Company”. That was undoubtedly breached by the ex-employees in taking Cl
 
 274    Relatedly, care must be taken to delineate between contractual obligations and fiduciary obligations. Though both curtail what an employee may do, the latter is far more onerous. To quote Lord Wilberforce in _New Zealand Netherlands Society “Oranje” Incorporated v Laurentius Cornelis Kuys and another_ [1973] 1 WLR 1126 at 1130: “A person ... may be in a fiduciary position _quoad_ a part of his activities and not _quoad_ other parts: each transaction, or group of transactions, must be looked at.” It is the improper usage of one’s position as a fiduciary to act contrary to the interests of one’s employer, and not just disloyalty or dishonesty in general by the employee, that constitutes breach of a fiduciary duty. 
 
-275    A rough and ready guide to whether or not the imposition of a fiduciary obligation would be appropriate are the three characteristics identified by Wilson J (dissenting) in _Richard Hugh Frame v Eleanor Margaret Smith and another_ [1987] 2 SCR 99 at [60] which were cited with approval by the Court of Appeal in _Susilawati v American Express Bank Ltd_ [2009] 2 SLR(R) 737 at [41]: 
+275    A rough and ready guide to whether or not the imposition of a fiduciary obligation would be appropriate are the three characteristics identified by Wilson J (dissenting) in _Richard Hugh Frame v Eleanor Margaret Smith and another_ [1987] 2 SCR 99 at [60] which were cited with approval by the Court of Appeal in _Susilawati v American Express Bank Ltd_ <span class="citation">[2009] 2 SLR(R) 737</span> at [41]: 
 
 
  (1) The fiduciary has scope for the exercise of some discretion or power. 
@@ -1528,7 +1528,7 @@ illustration is useful here. If a person comes to know of information as a resul
 
 **Tort of conversion** 
 
-312    The next claim is for the tort of conversion. There were two separate subject matters that were alleged to be converted: (a) the PET casts, and (b) a SolidWorks software licence. As a matter of law, the tort is committed when there is unauthorised dealing with the claimant’s chattel so as to question or deny his title to it: _Tat Seng Machine Movers Pte Ltd v Orix Leasing Singapore Ltd_ [2009] 4 SLR(R) 1101 at [45]. 
+312    The next claim is for the tort of conversion. There were two separate subject matters that were alleged to be converted: (a) the PET casts, and (b) a SolidWorks software licence. As a matter of law, the tort is committed when there is unauthorised dealing with the claimant’s chattel so as to question or deny his title to it: _Tat Seng Machine Movers Pte Ltd v Orix Leasing Singapore Ltd_ <span class="citation">[2009] 4 SLR(R) 1101</span> at [45]. 
 
 313    There is no question that there was an act of conversion with respect to the PET casts. Ting admitted that, after he had left Clearlab and whilst he was working at Aquilus, he had asked Goh to bring the PET casts to Aquilus with a view of using them “for testing the formulation”, and that these 
 

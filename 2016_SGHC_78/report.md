@@ -24,7 +24,7 @@ _Criminal Law_ – _Statutory offences_ – _Penal Code_
 
 **Introduction** 
 
-1       This is an appeal by the Public Prosecutor (“the Prosecution”) against the District Court’s sentence imposed on Osi Maria Elenora Protacio (“the Respondent”) for one charge of committing criminal breach of trust (“CBT”) in respect of cash amounting to $14,089.95 which she was entrusted with dominion over (see the District Judge’s Grounds of Decision (“the GD”) in [2016] SGDC 5). 
+1       This is an appeal by the Public Prosecutor (“the Prosecution”) against the District Court’s sentence imposed on Osi Maria Elenora Protacio (“the Respondent”) for one charge of committing criminal breach of trust (“CBT”) in respect of cash amounting to $14,089.95 which she was entrusted with dominion over (see the District Judge’s Grounds of Decision (“the GD”) in <span class="citation">[2016] SGDC 5</span>). 
 
 2       A fine of $4,000 was imposed on the Respondent for the CBT offence. I am of the view that the sentence is manifestly inadequate in light of sentencing precedents. I allow the appeal accordingly, and order the Respondent’s sentence to be enhanced to 15 weeks’ imprisonment. 
 
@@ -43,7 +43,7 @@ _Criminal Law_ – _Statutory offences_ – _Penal Code_
 
 7       The Prosecution has provided five reported cases with similar facts for my consideration, and a useful summary in tabular form that encapsulates the relevant comparators for sentencing: 
 
-8       The Prosecution is submitting that the sentence in the present case should be enhanced to 4 months’ imprisonment, based on precedents, taking into account the substantial amount misappropriated and the long period over which the misappropriation took place. I am of the view that the District Judge had placed insufficient weight on these two aggravating factors, and too much weight on the mitigating factors such as the Respondent’s clean record, plea of guilt, full restitution and difficult financial circumstances. Only in “rare” and “very exceptional or extreme circumstances” would an accused’s financial hardship be treated as a mitigating factor ( _Lai Oei Mui Jenny v PP_ [1993] 2 SLR(R) 406 at [10]). These are not borne out based on the present facts. One cannot modify a sentence merely because the family will suffer. 
+8       The Prosecution is submitting that the sentence in the present case should be enhanced to 4 months’ imprisonment, based on precedents, taking into account the substantial amount misappropriated and the long period over which the misappropriation took place. I am of the view that the District Judge had placed insufficient weight on these two aggravating factors, and too much weight on the mitigating factors such as the Respondent’s clean record, plea of guilt, full restitution and difficult financial circumstances. Only in “rare” and “very exceptional or extreme circumstances” would an accused’s financial hardship be treated as a mitigating factor ( _Lai Oei Mui Jenny v PP_ <span class="citation">[1993] 2 SLR(R) 406</span> at [10]). These are not borne out based on the present facts. One cannot modify a sentence merely because the family will suffer. 
 
 9       Furthermore, the existing precedents set out above all _also_ involved accused persons who pleaded guilty, made full restitution and had clean records (see Table 1 above). Even after taking into account these mitigating factors, a more appropriate sentence here would be 15 weeks’ imprisonment (which works out to be about 3.44 months’ imprisonment based on 1 month being, on average, the equivalent of 4.36 weeks). A $4,000 fine is a marked and inconsistent departure from the precedents that is unjustified. 
 
@@ -54,7 +54,7 @@ aggravating factors.
 
 **Conclusion** 
 
-11     Both specific and general deterrence are key sentencing considerations where CBT offences are concerned (see _Tan Kim Hock Anthony v PP_ [2014] 2 SLR 795 at [43]). The $4,000 fine imposed for an offence involving a large sum of money is too lenient in light of the precedents, and would also fail to achieve the sentencing objective of deterrence. I therefore allow the Prosecution’s appeal on sentence, and order that the Respondent’s sentence be enhanced to 15 weeks’ imprisonment instead. 
+11     Both specific and general deterrence are key sentencing considerations where CBT offences are concerned (see _Tan Kim Hock Anthony v PP_ <span class="citation">[2014] 2 SLR 795</span> at [43]). The $4,000 fine imposed for an offence involving a large sum of money is too lenient in light of the precedents, and would also fail to achieve the sentencing objective of deterrence. I therefore allow the Prosecution’s appeal on sentence, and order that the Respondent’s sentence be enhanced to 15 weeks’ imprisonment instead. 
 
  Copyright © Government of Singapore. 
 

@@ -32,14 +32,14 @@ _Contract_
 
 **Previous Proceedings** 
 
-3       The genesis of this suit can be traced to 20 January 2000 when the plaintiff commenced judicial review proceedings in Originating Summons No 96 of 2000 to seek orders of _certiorari_ and _mandamus_ against the Public Service Commission for terminating her employment. The Originating Summons culminated in the Court of Appeal decision in Civil Appeal No 69 of 2000 (see _Public Service Commission v Lai Swee Lin Linda_ [2001] 1 SLR(R) 133) which held that the plaintiff’s rights were governed by contract and involved private and not public rights susceptible to judicial review. 
+3       The genesis of this suit can be traced to 20 January 2000 when the plaintiff commenced judicial review proceedings in Originating Summons No 96 of 2000 to seek orders of _certiorari_ and _mandamus_ against the Public Service Commission for terminating her employment. The Originating Summons culminated in the Court of Appeal decision in Civil Appeal No 69 of 2000 (see _Public Service Commission v Lai Swee Lin Linda_ <span class="citation">[2001] 1 SLR(R) 133</span>) which held that the plaintiff’s rights were governed by contract and involved private and not public rights susceptible to judicial review. 
 
 4       The plaintiff then filed the present suit on 17 December 2004 against the government for the alleged wrongful termination of her employment contract. 
 
 5       From January 2005 onwards, the plaintiff and the defendant were embroiled in a number of legal 
 
 
-proceedings relating mostly to procedural issues. Of particular significance was the automatic discontinuance of the present suit due to a failure by the plaintiff to take steps in the proceedings and Justice Belinda Ang’s subsequent decision to allow the plaintiff to reinstate the same. The facts and events surrounding the legal proceedings leading to the plaintiff’s reinstatement of the action are set out in Justice Ang’s decision (see Lai Swee Lin Linda v Attorney-General [2009] SGHC 38) and need not be repeated here. The previous proceedings are now water under the bridge. 
+proceedings relating mostly to procedural issues. Of particular significance was the automatic discontinuance of the present suit due to a failure by the plaintiff to take steps in the proceedings and Justice Belinda Ang’s subsequent decision to allow the plaintiff to reinstate the same. The facts and events surrounding the legal proceedings leading to the plaintiff’s reinstatement of the action are set out in Justice Ang’s decision (see Lai Swee Lin Linda v Attorney-General <span class="citation">[2009] SGHC 38</span>) and need not be repeated here. The previous proceedings are now water under the bridge. 
 
 **_Background_** 
 
@@ -165,13 +165,13 @@ para 86 of the Government IM Section 2B, [note: 19] a n officer who was confirme
 
 38     It is unusual that the plaintiff remained on probation for more than two years. However, given para 20(c) of the Government IM Section 2B (see [21] above), the plaintiff’s two years probation was well within the authority of the LO to impose. 
 
-39     As the plaintiff was a probationary officer at the time of termination, based on para 25(1) of the Government IM Section 2P (at [23] above), the defendant did not need to give the plaintiff any reasons for termination. As long as proper notice had been given, an employer did not have to provide reasons for terminating an employee’s contract of services; _GYC Financial Planning Pte Ltd and another v Prudential Assurance Company Singapore (Pte) Ltd_ [2006] 2 SLR(R) 865 at [28]. 
+39     As the plaintiff was a probationary officer at the time of termination, based on para 25(1) of the Government IM Section 2P (at [23] above), the defendant did not need to give the plaintiff any reasons for termination. As long as proper notice had been given, an employer did not have to provide reasons for terminating an employee’s contract of services; _GYC Financial Planning Pte Ltd and another v Prudential Assurance Company Singapore (Pte) Ltd_ <span class="citation">[2006] 2 SLR(R) 865</span> at [28]. 
 
 40     The plaintiff did not deny that she had been served the termination letter dated 17 December 1998 and had been given one month’s total emoluments. This was proper notice in accordance with the employment contract and in accordance with para 25(1) of the Government IM Section 2P. 
 
 41     The plaintiff complained that she had not been heard on her termination and that was a breach 
 
-of natural justice and her employment contract. [note: 20] However, the plaintiff had not shown to the court how her employment contract gave her a right to be heard and how or why that right was applicable to her as a probationary officer. As was rightly submitted by the defendant, at common law, the principle of the right to be heard has no application on the dismissal of an employee in an employee-employer relationship; _Vasudevan Pillai v The City Council of Singapore_ [1968] 2 MLJ 16 [note: 21] followed in _Arokiasamy Joseph Clement Louis v Singapore Airlines Ltd_ [2004] 2 SLR(R) 233. 
+of natural justice and her employment contract. [note: 20] However, the plaintiff had not shown to the court how her employment contract gave her a right to be heard and how or why that right was applicable to her as a probationary officer. As was rightly submitted by the defendant, at common law, the principle of the right to be heard has no application on the dismissal of an employee in an employee-employer relationship; _Vasudevan Pillai v The City Council of Singapore_ [1968] 2 MLJ 16 [note: 21] followed in _Arokiasamy Joseph Clement Louis v Singapore Airlines Ltd_ <span class="citation">[2004] 2 SLR(R) 233</span>. 
 
 42     For the above reasons, I find that the plaintiff’s termination had been in accordance with the terms of the employment contract. On this basis alone, the plaintiff’s action should be dismissed. 
 

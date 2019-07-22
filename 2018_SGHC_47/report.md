@@ -47,9 +47,9 @@ _Legal Profession_ – _Disciplinary Proceedings_
 
 4       Further, the Respondent’s conduct with regard to the Second Charge is, as the Disciplinary Tribunal pointed out, no mere technical breach and in fact constitutes a serious breach of the Legal Profession (Solicitors’ Accounts) Rules (Cap 161, R 8, 1999 Ed) which are in place in order to protect clients’ monies. 
 
-5       In so far as the sentence to be meted out to the Respondent is concerned, we note the following observations by this court in _Law Society of Singapore v Ismail bin Atan_ [2017] 5 SLR 746 at [20]–[22]: 
+5       In so far as the sentence to be meted out to the Respondent is concerned, we note the following observations by this court in _Law Society of Singapore v Ismail bin Atan_ <span class="citation">[2017] 5 SLR 746</span> at [20]–[22]: 
 
- 20 In Law Society of Singapore v Ravindra Samuel [1999] 1 SLR(R) 266 (“ Ravindra Samuel ”), Yong Pung How CJ held (at [15]) that: 
+ 20 In Law Society of Singapore v Ravindra Samuel <span class="citation">[1999] 1 SLR(R) 266</span> (“ Ravindra Samuel ”), Yong Pung How CJ held (at [15]) that: 
 
  The following principles on disciplinary sentencing may be extracted from the above authorities: 
 
@@ -68,7 +68,7 @@ _Legal Profession_ – _Disciplinary Proceedings_
 
  [emphasis in original] 
 
-6       In the circumstances, we order that the Respondent be struck off the roll of advocates and solicitors. In particular, in relation to the First Charge, we echo this court’s sentiments in _Re Lim Kiap Khee_ [2001] 2 SLR(R) 398 that it is of the utmost importance that a solicitor should abide by his formal undertaking. To deliberately breach such an undertaking, given in a professional capacity, would seriously undermine the integrity of the profession. While there is no evidence that the Respondent gained personally from the breach of the undertaking, he has nevertheless fallen below the required standards of integrity, probity and trustworthiness, and, by his actions, has brought grave dishonour to the profession. 
+6       In the circumstances, we order that the Respondent be struck off the roll of advocates and solicitors. In particular, in relation to the First Charge, we echo this court’s sentiments in _Re Lim Kiap Khee_ <span class="citation">[2001] 2 SLR(R) 398</span> that it is of the utmost importance that a solicitor should abide by his formal undertaking. To deliberately breach such an undertaking, given in a professional capacity, would seriously undermine the integrity of the profession. While there is no evidence that the Respondent gained personally from the breach of the undertaking, he has nevertheless fallen below the required standards of integrity, probity and trustworthiness, and, by his actions, has brought grave dishonour to the profession. 
 
 7       The costs of the present proceedings, fixed at $6,000, are awarded to the Law Society. 
 

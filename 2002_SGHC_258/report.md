@@ -47,15 +47,15 @@ had persisted in their delay despite reminders from Hola to expedite the work (s
 
 _Aurum Building Services (Pte) Ltd v Greatearth Construction Pte Ltd_ 
 
-[1994] 3 SLR 330 (refd) 
+<span class="citation">[1994] 3 SLR 330</span> (refd) 
 
 _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa_ 
 
-[2000] 1 SLR 657 (refd) 
+<span class="citation">[2000] 1 SLR 657</span> (refd) 
 
 _GHL Pte Ltd v Unitrack Building Construction Pte Ltd_ 
 
-[1999] 4 SLR 604 (folld) 
+<span class="citation">[1999] 4 SLR 604</span> (folld) 
 
 _Gilbert-Ash (Northern) Ltd v Modern Engineering (Bristol) Ltd_ 
 
@@ -63,11 +63,11 @@ _Gilbert-Ash (Northern) Ltd v Modern Engineering (Bristol) Ltd_
 
 _Jurong Engineering Ltd v Paccan Building Technology Pte Ltd_ 
 
-[1999] 3 SLR 667 (folld) 
+<span class="citation">[1999] 3 SLR 667</span> (folld) 
 
 _Kum Leng General Contractor v Hytech Builders Pte Ltd_ 
 
-[1996] 1 SLR 571 (refd) 
+<span class="citation">[1996] 1 SLR 571</span> (refd) 
 
 _Lojan Properties Pte Ltd v Tropicon Contractors Pte Ltd_ 
 
@@ -75,11 +75,11 @@ _Lojan Properties Pte Ltd v Tropicon Contractors Pte Ltd_
 
 _OCWS Logistics v Soon Meng Construction Pte Ltd_ 
 
-[1999] 2 SLR 376 (folld) 
+<span class="citation">[1999] 2 SLR 376</span> (folld) 
 
 _Pacific Rim Investments Pte Ltd v Lam Seng Tiong & Anor_ 
 
-[1995] 3 SLR 1 (folld) 
+<span class="citation">[1995] 3 SLR 1</span> (folld) 
 
 _Pembanaan Leow Tuck Chui & Sons Sdn Bhd v Dr Leela’s Medical Centre Sdn Bhd_ 
 
@@ -144,11 +144,11 @@ _The plaintiffs' case_
 
 _Was Hola’s set-off valid?_ 
 
-12\. The law on equitable set-off is clear. The doctrine has its roots in the historical intervention of the courts of equity to allow deductions whenever there were good equitable grounds for directly impeaching the demand which the plaintiff-creditor was seeking to enforce. The only cross-claims that may be deducted therefrom are those that arise out of the same transaction or are so closely connected with the plaintiff’s demands that it would be manifestly unjust to allow him to enforce payment without taking account of the cross-claim. As Chao J noted in _OCWS Logistics v Soon Meng Construction Pte Ltd_ [1999] 2 SLR 376: 
+12\. The law on equitable set-off is clear. The doctrine has its roots in the historical intervention of the courts of equity to allow deductions whenever there were good equitable grounds for directly impeaching the demand which the plaintiff-creditor was seeking to enforce. The only cross-claims that may be deducted therefrom are those that arise out of the same transaction or are so closely connected with the plaintiff’s demands that it would be manifestly unjust to allow him to enforce payment without taking account of the cross-claim. As Chao J noted in _OCWS Logistics v Soon Meng Construction Pte Ltd_ <span class="citation">[1999] 2 SLR 376</span>: 
 
  An unliquidated claim of the defendant for damages could be set-off if it arose from the same transaction as the claim of the plaintiff or was closely connected with the subject matter of the claim: this was equitable set-off, see Hanak v Green [1958] 2 QB 9 and Morgan & Son Ltd v Martin Johnson & Co Ltd [1949] 1 KB 107. 
 
-13\. Similarly, the Court of Appeal in _Pacific Rim Investments Pte Ltd v Lam Seng Tiong & Anor_ [1995] 3 SLR 1 found (at p 14) that: 
+13\. Similarly, the Court of Appeal in _Pacific Rim Investments Pte Ltd v Lam Seng Tiong & Anor_ <span class="citation">[1995] 3 SLR 1</span> found (at p 14) that: 
 
  ...the exercise of equitable set-off is only permitted, if equitable considerations support such an exercise. It arises where there are good equitable grounds for directly impeaching the title to the legal demand which the creditor is seeking to enforce. As Lord Denning MR succinctly said in The Nanfri, at pp 974-975: 
 
@@ -165,9 +165,9 @@ conceded liability for the damaged piles and for rectification costs of 158 pile
 
 _Was Hola’s right of set-off excluded by the Contract?_ 
 
-17\. It is trite law that parties may, by contract, exclude the remedy of equitable set-off. In _Pacific Rim Investments (supra)_ , the Court of Appeal noted that the right to an equitable set-off may be expressly excluded by contract. It would suffice if the contract contained clear words which excluded the right to set off, either expressly or by necessary implication: ( _Kum Leng General Contractor v Hytech Builders Pte Ltd_ [1996] 1 SLR 751 and _Aurum Building Services (Pte) Ltd v Greatearth Construction Pte Ltd_ [1994] 3 SLR 330). 
+17\. It is trite law that parties may, by contract, exclude the remedy of equitable set-off. In _Pacific Rim Investments (supra)_ , the Court of Appeal noted that the right to an equitable set-off may be expressly excluded by contract. It would suffice if the contract contained clear words which excluded the right to set off, either expressly or by necessary implication: ( _Kum Leng General Contractor v Hytech Builders Pte Ltd_ <span class="citation">[1996] 1 SLR 751</span> and _Aurum Building Services (Pte) Ltd v Greatearth Construction Pte Ltd_ <span class="citation">[1994] 3 SLR 330</span>). 
 
-18\. In _Kum Leng General Contractor v Hytech Builders Pte Ltd_ [1996] 1 SLR 751, Rajendran J cited (at p 755) _Gilbert-Ash (Northern) Ltd v Modern Engineering (Bristol) Ltd_ [1974] AC 689 with approval, quoting Diplock LJ: 
+18\. In _Kum Leng General Contractor v Hytech Builders Pte Ltd_ <span class="citation">[1996] 1 SLR 751</span>, Rajendran J cited (at p 755) _Gilbert-Ash (Northern) Ltd v Modern Engineering (Bristol) Ltd_ [1974] AC 689 with approval, quoting Diplock LJ: 
 
  It is, of course, open to parties to a contract for sale of goods or for work and labour or for both to exclude by express agreement a remedy for its breach which would otherwise arise by operation of law or such remedy may be exc luded by usage binding upon the parties...But in construing such a contract one starts with the presumption that neither party intends to abandon any remedies for its breach arising by operation of law, and clear express words must be used in order to rebut this presumption. 
 
@@ -302,7 +302,7 @@ _Damages for the delay in the progress of the plaintiff’s work_
 
 48\. Against this, the first plaintiffs contended that their obligation was only to complete the project by the date of completion provided for in the Contract. Since they had validly terminated the Contract before this date, it would be illogical to speak about them being responsible for the delay in the completion of the project. 
 
-49\. Following the Court of Appeal’s decision in _Jurong Engineering Ltd v Paccan Building Technology Pte Ltd_ [1999] 3 SLR 667, the law on this point is clear. The main contractors in _Jurong Engineering_ terminated the subcontract on the grounds that the subcontractor had failed to proceed with reasonable diligence and had thus breached the agreement between the parties. The court held that ‘reasonable diligence’ could only be determined by pacing the progress of the subcontractor’s work against the subcontract programme. As Goh J opined (at p 668): 
+49\. Following the Court of Appeal’s decision in _Jurong Engineering Ltd v Paccan Building Technology Pte Ltd_ <span class="citation">[1999] 3 SLR 667</span>, the law on this point is clear. The main contractors in _Jurong Engineering_ terminated the subcontract on the grounds that the subcontractor had failed to proceed with reasonable diligence and had thus breached the agreement between the parties. The court held that ‘reasonable diligence’ could only be determined by pacing the progress of the subcontractor’s work against the subcontract programme. As Goh J opined (at p 668): 
 
  If the progress of the subcontract works consistently lagged behind and did not keep pace with the subcontract programme, then the respondents [subcontractors] could not be said to be progressing with reasonable diligence. 
 
@@ -380,13 +380,13 @@ _The performance bond_
 61\. However, it would appear clear from case-law that the claim for payment under the performance bond should be confined to 10% of the revised contract sum, and not 10% of the original contract sum, as argued by Hola. The Court of Appeal's decision in _GHL Pte Ltd v Unitrack Building_ 
 
 
-_Construction Pte Ltd_ [1999] 4 SLR 604 is instructive in this regard. The case established that where the original contract sum has been revised downwards, the sum payable under the performance bond should be based on the revised sum. It was further deemed unconscionable for the holder of the performance bond to demand payment based on the original contract sum. 
+_Construction Pte Ltd_ <span class="citation">[1999] 4 SLR 604</span> is instructive in this regard. The case established that where the original contract sum has been revised downwards, the sum payable under the performance bond should be based on the revised sum. It was further deemed unconscionable for the holder of the performance bond to demand payment based on the original contract sum. 
 
 62\. I accept that the revision of about 20% of the original contract sum in the present case is much lower than the 65% revision in _GHL_. Even so, the principle established in _GHL_ is clear. The revision of the contract sum represents a reduction of the contractor’s responsibility towards the developer. Under such circumstances, the security held by the developer in the form of a performance bond must similarly be reduced. As was noted by Thean JA (at p 617 of the case): 
 
  As between GHL and Unitrack, the latter’s commitment under the contract was considerably reduced and similarly the security for such commitment would, in normal cases, be correspondingly reduced. 
 
-63\. The Court of Appeal in _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa_ [2000] 1 SLR 657 did not think it possible to define, in precise terms, what constitutes _unconscionability_ and stated at para 42 (p 668): 
+63\. The Court of Appeal in _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa_ <span class="citation">[2000] 1 SLR 657</span> did not think it possible to define, in precise terms, what constitutes _unconscionability_ and stated at para 42 (p 668): 
 
  ...What kind of situation would constitute unconscionability would have to depend on the facts of each case...There is no pre-determined categorisation. 
 

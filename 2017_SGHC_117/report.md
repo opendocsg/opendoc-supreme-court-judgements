@@ -47,7 +47,7 @@ damages for alleged breaches of the Agreement, but this claim was struck out by 
 
 8       Under O 15 r 12(1) of the Rules, proceedings may be begun as representative actions without leave of court. This is to be done by an indication of representative capacity on the writ of summons (see O 6 r 2(1)(d) of the Rules). Order 15 r 12(1) of the Rules explicitly requires that the persons have the “same interest” in the proceedings, and the court is given power to order that the action be discontinued as a representative action later on in the proceedings. 
 
-9       The two-stage test for O 15 r 12(1) of the Rules was laid down by the Court of Appeal in _Koh Chong Chiah and others v Treasure Resort Pte Ltd and another_ [2013] 4 SLR 1204 (“ _Koh Chong_ 
+9       The two-stage test for O 15 r 12(1) of the Rules was laid down by the Court of Appeal in _Koh Chong Chiah and others v Treasure Resort Pte Ltd and another_ <span class="citation">[2013] 4 SLR 1204</span> (“ _Koh Chong_ 
 
 
 _Chiah_ ”). First, there is a threshold requirement that the represented plaintiffs and/or defendants have the “same interest” in the proceedings. Second, even if this threshold requirement is satisfied, the court has the discretion to refuse to permit proceedings to continue as a representative action if it finds that representative proceedings are not suitable. Considerations include the possibility of defendants raising different defences, the costs involved, as well as any loss of the defendants’ rights against the represented persons (who are not treated as parties to the proceedings). 

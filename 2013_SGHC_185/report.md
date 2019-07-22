@@ -111,7 +111,7 @@ valid for about another six months.
 
  ... 
 
-18     In _Stewart Ashley James v Public Prosecutor_ [1996] 3 SLR(R) 106, Yong Pung How CJ succinctly pointed out (at [17]) the policy considerations behind the Act: 
+18     In _Stewart Ashley James v Public Prosecutor_ <span class="citation">[1996] 3 SLR(R) 106</span>, Yong Pung How CJ succinctly pointed out (at [17]) the policy considerations behind the Act: 
 
  ... Section 3(2) is primarily concerned with ensuring that persons using the roads take adequate steps to ensure that compensation would be available to persons involved in accidents with them. A contravention of s 3(1) is a serious offence. ... Nonetheless it is clear that a strict prophylactic approach is necessary to ensure that there is adequate provision for compensation. 
 
@@ -144,7 +144,7 @@ The objectives behind the Act are thus twofold: firstly, to ensure that parties 
 
  [emphasis added] 
 
-20     It was common ground that the policy had not been cancelled in accordance with s 9(3)( _c_ ) of the Act. To reiterate, the appellant argued that where insurers fail to comply with s 9(3)( _c_ ) of the Act, they remain liable in respect of third-party risks under the policy due to the operation of s 9(1). There was therefore in force an insurance policy within the meaning of s 3(1) of the Act. The appellant cited the cases of _Lim Cheng Wai v Public Prosecutor_ [1988] 2 SLR(R) 123 (“ _Lim Cheng Wai_ ”) and _Tan Tok Nam v Pan Global Insurance Sdn Bhd_ [2002] 3 MLJ 742 as authorities for this proposition. 
+20     It was common ground that the policy had not been cancelled in accordance with s 9(3)( _c_ ) of the Act. To reiterate, the appellant argued that where insurers fail to comply with s 9(3)( _c_ ) of the Act, they remain liable in respect of third-party risks under the policy due to the operation of s 9(1). There was therefore in force an insurance policy within the meaning of s 3(1) of the Act. The appellant cited the cases of _Lim Cheng Wai v Public Prosecutor_ <span class="citation">[1988] 2 SLR(R) 123</span> (“ _Lim Cheng Wai_ ”) and _Tan Tok Nam v Pan Global Insurance Sdn Bhd_ [2002] 3 MLJ 742 as authorities for this proposition. 
 
 21     The statutory language of s 9(1) of the Act indicates that the subsection only applies to a “liability covered by the terms of the policy”. If a policy does not cover a certain mode of use, then any liability incurred during that mode of use would not be covered by the terms of the policy. The Policy in question here explicitly stated that it did not cover the use of the Vehicle for hire or reward. 
 
@@ -181,11 +181,11 @@ The categories are exhaustive and relate mostly to vehicular characteristics. In
 
 24     The net result was that s 9(1) of the Act did not apply. Liberty Insurance would not have been liable for third-party risks had the Vehicle been used for hire or reward. The act of renting out a vehicle for monetary consideration comes within the ordinary meaning of the phrase “hire or reward”. The Vehicle, when used by Lee during the material period, was not insured for third-party risks within the meaning of s 3(1) of the Act and the appellant therefore committed an offence. 
 
-25     Assuming that s 9(1) did apply, a more fundamental point remains: a third party would only be able to claim due to statutory intervention and would not be able to do so based solely on the contract between the insurer and the insured. In other words, the presence of a statutory ameliorative measure in the form of s 9(1) does not, in any way, affect the position under s 3(1). For the purposes of criminal liability under s 3(1) of the Act, the operation of s 9(1) of the same must be disregarded (that is, the liability of the insurer under the insurance policy only must be considered). This proposition is supported by _Er Kee Jeng v Public Prosecutor_ [2006] 2 SLR(R) 485 (“ _Er Kee Jeng_ ”), where Yong Pung How CJ held (at [50]) that: 
+25     Assuming that s 9(1) did apply, a more fundamental point remains: a third party would only be able to claim due to statutory intervention and would not be able to do so based solely on the contract between the insurer and the insured. In other words, the presence of a statutory ameliorative measure in the form of s 9(1) does not, in any way, affect the position under s 3(1). For the purposes of criminal liability under s 3(1) of the Act, the operation of s 9(1) of the same must be disregarded (that is, the liability of the insurer under the insurance policy only must be considered). This proposition is supported by _Er Kee Jeng v Public Prosecutor_ <span class="citation">[2006] 2 SLR(R) 485</span> (“ _Er Kee Jeng_ ”), where Yong Pung How CJ held (at [50]) that: 
 
  Motorists ought not to be able to rely on their insurer's continued liability under s 9 to avoid liability under s 3(1). 
 
-26     This separation between ss 3(1) and 9(1) is further buttressed by policy considerations. In _Public Prosecutor v Lee Hong Hwee_ [2004] 1 SLR(R) 39, Yong CJ held (at [31]) that: 
+26     This separation between ss 3(1) and 9(1) is further buttressed by policy considerations. In _Public Prosecutor v Lee Hong Hwee_ <span class="citation">[2004] 1 SLR(R) 39</span>, Yong CJ held (at [31]) that: 
 
 
  The preamble to the [Act] reads: 
@@ -200,7 +200,7 @@ S 9(1) of the Act is an ameliorative measure meant to protect _third-party road 
 
 27     This also harks back to the objective of deterrence (see [18] above). Adding to the previous discussion, in _Er Kee Jeng_ , Yong CJ opined (at [39]) that: 
 
- Specifically, s 3(1) was enacted not only to ensure that victims of traffic accidents are not left without any compensation where the motorist is unable to satisfy judgment, but also to deter irresponsible motorists from driving without the appropriate insurance coverage : Chandara Sagaran s/o Rengayah v PP [2003] 2 SLR(R) 79 at [11]. These dual aims of compensation and deterrence would be defeated if motorists were permitted to rely on s 9 to avoid criminal liability under s 3(1). [emphasis added] 
+ Specifically, s 3(1) was enacted not only to ensure that victims of traffic accidents are not left without any compensation where the motorist is unable to satisfy judgment, but also to deter irresponsible motorists from driving without the appropriate insurance coverage : Chandara Sagaran s/o Rengayah v PP <span class="citation">[2003] 2 SLR(R) 79</span> at [11]. These dual aims of compensation and deterrence would be defeated if motorists were permitted to rely on s 9 to avoid criminal liability under s 3(1). [emphasis added] 
 
 I agree. It would be repugnant to the legislative intention of the Act if motorists do not face the criminal consequences of driving without appropriate insurance coverage. This is especially so as lower premiums may be charged to reflect the fact that a vehicle will only be used for social, domestic and pleasure purposes and for the insured’s business and not for hire or reward, as was the case for the Policy here. 
 

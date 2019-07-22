@@ -20,7 +20,7 @@ _Res Judicata_
 
 _Restitution_ – _unjust enrichment_ 
 
-[LawNet Editorial Note: The appeal to this dec ision in Civil Appeal No 9 of 2015 was allowed by the Court of Appeal on 26 April 2016. See [2016] SGCA 28.] 
+[LawNet Editorial Note: The appeal to this dec ision in Civil Appeal No 9 of 2015 was allowed by the Court of Appeal on 26 April 2016. See <span class="citation">[2016] SGCA 28</span>.] 
 
 31     Dec ember 2014 
 
@@ -200,7 +200,7 @@ After this debate, the Annual Report and Ac c ounts were c onfirmed and adopted 
 
 **_The High Court judgment in Suit 33_** 
 
-41     Suit 33 was dismissed by the High Court on 29 Oc tober 2010, with written grounds reported as _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie_ [2010] SGHC 324. By its dec ision, the High Court found that the statements made by the Plaintiff were defamatory of the Suit 33 Plaintiffs based on their natural and ordinary meaning. However, the High Court found that the Plaintiff had justified the gist of the defamatory sting. The parties in Suit 33 filed appeals against those parts of the High Court’s dec ision whic h were adverse to them, the Suit 33 Plaintiffs’ appeal being Civil Appeal No 210 of 2013 and the Plaintiff’s appeal being Civil Appeal No 213 of 2013 (c ollec tively, “the Suit 33 Appeals”). 
+41     Suit 33 was dismissed by the High Court on 29 Oc tober 2010, with written grounds reported as _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie_ <span class="citation">[2010] SGHC 324</span>. By its dec ision, the High Court found that the statements made by the Plaintiff were defamatory of the Suit 33 Plaintiffs based on their natural and ordinary meaning. However, the High Court found that the Plaintiff had justified the gist of the defamatory sting. The parties in Suit 33 filed appeals against those parts of the High Court’s dec ision whic h were adverse to them, the Suit 33 Plaintiffs’ appeal being Civil Appeal No 210 of 2013 and the Plaintiff’s appeal being Civil Appeal No 213 of 2013 (c ollec tively, “the Suit 33 Appeals”). 
 
 **_The 2011 AGM_** 
 
@@ -211,7 +211,7 @@ After this debate, the Annual Report and Ac c ounts were c onfirmed and adopted 
 
 **_The CA Judgment in Suit 33_** 
 
-44     The Court of Appeal’s judgment for the Suit 33 Appeals was delivered on 21 November 2011. Its written grounds c an be found in _Chan Cheng Wah Bernard v Koh Sin Chong Freddie and another appeal_ [2012] 1 SLR 506 (“the CA Judgment”). The Court of Appeal allowed the Suit 33 Plaintiffs’ appeal and dismissed the Plaintiff’s c ross-appeal. The Court of Appeal found that the statements were defamatory and had not been justified. 
+44     The Court of Appeal’s judgment for the Suit 33 Appeals was delivered on 21 November 2011. Its written grounds c an be found in _Chan Cheng Wah Bernard v Koh Sin Chong Freddie and another appeal_ <span class="citation">[2012] 1 SLR 506</span> (“the CA Judgment”). The Court of Appeal allowed the Suit 33 Plaintiffs’ appeal and dismissed the Plaintiff’s c ross-appeal. The Court of Appeal found that the statements were defamatory and had not been justified. 
 
 45     The Court of Appeal then went on to c onsider whether the statements were made on an oc c asion of qualified privilege, even though the issue was not c anvassed in the Suit 33 Appeals. The Court of Appeal found that the statements were made on an oc c asion of qualified privilege, but that this defenc e was defeated by the Plaintiff’s malic e in making the statements. On the issue of malic e, the Court of Appeal observed that: 
 
@@ -360,7 +360,7 @@ These c omprise various sums paid by the Club in respec t of the Plaintiff’s l
 
 63     In analysing this preliminary issue, it is helpful to first c onsider the Club’s legal personality. 
 
-64     The Club is an uninc orporated assoc iation and it is not a legal entity in and of itself. The Club is instead a c reature of the c ontrac t as between its members, and whic h is enc apsulated in the Club’s Rules: see _In re Sick and Funeral Society of St John’s Sunday School, Golcar_ [1973] Ch 51 at 60; _McGuire Graeme and others v Rasmussen John and others_ [1998] 1 SLR(R) 892 at [13]; _Petrie Christopher Harrisson v Jones Alan and others_ [2005] 2 SLR(R) 387 (“ _Petrie Christopher Harrisson_ ”) at [18]. The Club’s Rules govern the relationship between the members and define their rights, duties and liabilities. 
+64     The Club is an uninc orporated assoc iation and it is not a legal entity in and of itself. The Club is instead a c reature of the c ontrac t as between its members, and whic h is enc apsulated in the Club’s Rules: see _In re Sick and Funeral Society of St John’s Sunday School, Golcar_ [1973] Ch 51 at 60; _McGuire Graeme and others v Rasmussen John and others_ <span class="citation">[1998] 1 SLR(R) 892</span> at [13]; _Petrie Christopher Harrisson v Jones Alan and others_ <span class="citation">[2005] 2 SLR(R) 387</span> (“ _Petrie Christopher Harrisson_ ”) at [18]. The Club’s Rules govern the relationship between the members and define their rights, duties and liabilities. 
 
 65     Given the private nature of the c ontrac t between the members, it has been observed that an uninc orporated assoc iation is run by the members for the members, with no outside c ontrol: see David Ashton and Paul W Reid, _Ashton and Reid on Club Law_ (Jordans, 2005) (“ _Ashton and Reid on Club Law_ ”) at para 1-09. However, it is c ommonly the c ase that the general management and the day-today operations of an uninc orporated assoc iation are left to a c ommittee. Taking the example of the present c ase, the MC manages the Club pursuant to Rule 21(a)(i) of the Club’s Rules. Rule 21(j), in turn, defines the MC’s powers in the following terms: 
 
@@ -390,7 +390,7 @@ Information Servic es, 7th Ed, 2000) at para 4.1. In other words, resolutions ar
  [emphasis added] 
 
 
-71     The sec ond dec ision c ited in _Walter Woon on Company Law_ is that of the Singapore High Court i n _Goh Kim Hai Edward v Pacific Can Investment Holdings Ltd_ [1996] 1 SLR(R) 540 (“ _Goh Kim Hai Edward_ ”). The issue in that c ase was whether the plaintiff’s employment c ontrac t with the defendant c ompany had been renewed by a board resolution in the following terms: 
+71     The sec ond dec ision c ited in _Walter Woon on Company Law_ is that of the Singapore High Court i n _Goh Kim Hai Edward v Pacific Can Investment Holdings Ltd_ <span class="citation">[1996] 1 SLR(R) 540</span> (“ _Goh Kim Hai Edward_ ”). The issue in that c ase was whether the plaintiff’s employment c ontrac t with the defendant c ompany had been renewed by a board resolution in the following terms: 
 
  That the employment c ontrac t of the c hairman, Mr Edward Goh, subjec t to the terms and c onditions and amendments as c ontained therein, renewed for another two years be and is hereby c onfirmed and ratified. 
 
@@ -452,7 +452,7 @@ Madeline Cordes _et al, Shackleton on the Law and Practice of Meetings_ (Sweet &
 
 80     Mr Seah raised an alternative submission that the Club is estopped from denying that the Plaintiff is entitled to rely on the Indemnity Resolution. To the extent that Mr Seah sought to rely on the doc trine of estoppel (whether by representation or by c onvention) to buttress his c laim that the Plaintiff has a right to be reimbursed for payments whic h the Plaintiff made personally after the EOGM Resolutions were passed (as opposed to being used as a defenc e to the Club’s c laim for the rec overy of the payments whic h the Club had made), his c ontentions do not hold water. 
 
-81     As I observed earlier, the Plaintiff does not have a c ontrac tual right to be indemnified by the Club. Henc e, to allow him to rely on the doc trine of estoppel in the manner whic h he proposes would be tantamount to the use of the doc trine as a sword in the sense of a free-standing c ause of ac tion and not merely as a shield. So far, the Singapore c ourts have not ac c epted that the doc trine of estoppel may be used in this way (see for example _Sea-Land Service Inc v Cheong Fook Chee Vincent_ [1994] 3 SLR(R) 250 at [23]; _OMG Holdings Pte Ltd v Pos Ad Sdn Bhd_ [2012] 4 SLR 201 at [72]; _Rudhra Minerals Pte Ltd v MRI Trading Pte Ltd (formerly known as CWT Integrated Services Pte Ltd)_ [2013] 4 SLR 1023 at [52]). 
+81     As I observed earlier, the Plaintiff does not have a c ontrac tual right to be indemnified by the Club. Henc e, to allow him to rely on the doc trine of estoppel in the manner whic h he proposes would be tantamount to the use of the doc trine as a sword in the sense of a free-standing c ause of ac tion and not merely as a shield. So far, the Singapore c ourts have not ac c epted that the doc trine of estoppel may be used in this way (see for example _Sea-Land Service Inc v Cheong Fook Chee Vincent_ <span class="citation">[1994] 3 SLR(R) 250</span> at [23]; _OMG Holdings Pte Ltd v Pos Ad Sdn Bhd_ <span class="citation">[2012] 4 SLR 201</span> at [72]; _Rudhra Minerals Pte Ltd v MRI Trading Pte Ltd (formerly known as CWT Integrated Services Pte Ltd)_ <span class="citation">[2013] 4 SLR 1023</span> at [52]). 
 
 **_Payments made by the Club before the EOGM Resolutions were passed_** 
 
@@ -671,9 +671,9 @@ The law on _res judicata_ and issue estoppel
 107    The proc eedings before me c onc erned the sec ond c onc ept of issue estoppel instead. Issue estoppel may arise even if the earlier dec ision did not determine the same c ause of ac tion being sued upon in the later proc eedings; issue estoppel applies so long as the earlier dec ision determined _an issue_ that was an essential step in the reasoning of that earlier dec ision. Should this issue prove to be relevant in later proc eedings between the same parties, further c onsideration of that issue may be 
 
 
-forec losed: _Goh Nellie v Goh Lian Teck and others_ [2007] 1 SLR(R) 453 (“ _Goh Nellie_ ”) at [18]. 
+forec losed: _Goh Nellie v Goh Lian Teck and others_ <span class="citation">[2007] 1 SLR(R) 453</span> (“ _Goh Nellie_ ”) at [18]. 
 
-108    Four requirements must be met before issue estoppel will arise ( _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ [2005] 3 SLR(R) 157 (“ _Lee Tat_ ”) at [14]–[15]): 
+108    Four requirements must be met before issue estoppel will arise ( _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ <span class="citation">[2005] 3 SLR(R) 157</span> (“ _Lee Tat_ ”) at [14]–[15]): 
 
  (a) there must be a final and c onc lusive judgment on the merits; 
 
@@ -1247,7 +1247,7 @@ _The law on unjust enrichment_
 
 207    Before turning to the parties’ arguments in greater detail, I shall first c onsider the princ iples applying to a c laim in unjust enric hment. 
 
-208    In _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased) and another_ [2013] 3 SLR 801 (“ _Anna Wee_ ”), the Court of Appeal rec ognised a c ause of ac tion in restitution based on the doc trine of unjust enric hment. The Court of Appeal held (at [98]) that three elements had to be proven for suc h a c ause of ac tion to be made out: 
+208    In _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased) and another_ <span class="citation">[2013] 3 SLR 801</span> (“ _Anna Wee_ ”), the Court of Appeal rec ognised a c ause of ac tion in restitution based on the doc trine of unjust enric hment. The Court of Appeal held (at [98]) that three elements had to be proven for suc h a c ause of ac tion to be made out: 
 
  (a) a benefit or enric hment ac c ruing to the defendant; 
 
@@ -1259,7 +1259,7 @@ Onc e these three elements are made out, the defendant is _prima facie_ liable t
 
 209    As for the requirement that the defendant’s enric hment must be “unjust”, it should be noted the c ourt does not order restitution based on broad notions of what is fair or just. Instead, the availability of a restitutionary c ause of ac tion will depend on whether a rec ognised “unjust fac tor” at c ommon law exists on the fac ts: _Anna Wee_ at [130] and [134]. It is also apposite to note in this c ontext that the law of unjust enric hment is not premised upon a defendant’s wrongdoing, but rather, the injustic e of depriving a c laimant of a benefit that he has c onferred upon the defendant: _Anna Wee_ at [108]. 
 
-210    To this end, it is not diffic ult to see why mistake is a rec ognised unjust fac tor: _Anna Wee_ at [132]–[133]; _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd_ [2011] 3 SLR 540 at [134]–[138]. As explained in K Mason _et al_ , _Mason & Carter’s Restitution Law in Australia_ (LexisNexis Butterworths, 2nd Ed, 2008) at para 403: 
+210    To this end, it is not diffic ult to see why mistake is a rec ognised unjust fac tor: _Anna Wee_ at [132]–[133]; _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd_ <span class="citation">[2011] 3 SLR 540</span> at [134]–[138]. As explained in K Mason _et al_ , _Mason & Carter’s Restitution Law in Australia_ (LexisNexis Butterworths, 2nd Ed, 2008) at para 403: 
 
  ...The rec eipt of the money benefits the payee. A mistaken payment is unoffic ious, almost by definition. The destruction of the basis upon which payment was made, through negating the payee’s intention to pay in light of the true facts , leaves the payee as the unintended rec ipient of a windfall whose amount c orresponds direc tly to the c ountervailing detriment of the mistaken payer. The payee’s receipt due to the payer’s mistake makes the payee’s enrichment unjust ... [emphasis added] 
 

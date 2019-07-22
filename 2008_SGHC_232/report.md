@@ -120,7 +120,7 @@ Lai Siu Chiu J:
 
 Board except on a point of law. 
 
-21     There was therefore an important question of law to be decided as to whether the proceedings should be tried before the Board. Counsel relied on the following principles extracted from _Lee Kuan Yew v Tan Liang Hong_ [1997] 3 SLR 489 when leave to appeal is sought:
+21     There was therefore an important question of law to be decided as to whether the proceedings should be tried before the Board. Counsel relied on the following principles extracted from _Lee Kuan Yew v Tan Liang Hong_ <span class="citation">[1997] 3 SLR 489</span> when leave to appeal is sought:
 
  (a) there must prima facie be an error of law; 
 
@@ -130,7 +130,7 @@ Board except on a point of law.
 
 **_The defendant’s arguments_** 
 
-22     Counsel for the defendant objected to the OS relying on the same principles in the authority cited by the plaintiffs in [21] and which were reiterated in _Candid Water Cooler Pte Ltd v United Overseas Bank Ltd_ [2006] 3 SLR 216 at [33]. He pointed out that:
+22     Counsel for the defendant objected to the OS relying on the same principles in the authority cited by the plaintiffs in [21] and which were reiterated in _Candid Water Cooler Pte Ltd v United Overseas Bank Ltd_ <span class="citation">[2006] 3 SLR 216</span> at [33]. He pointed out that:
 
  (a) there was no prima facie case of error. The exclusion of the Court must be specifically stated in statute, for the Board to have exclusive jurisdiction to hear such case: 
 
@@ -140,7 +140,7 @@ Board except on a point of law.
 
 **Decision** 
 
-23     I accepted the defendant’s arguments. I noted further that the defendant’s claim (which included a reduction/loss of rent of $600 per month) may not exceed $10,000. Such a small claim did not merit further expenditure of time and costs on the part of the parties nor should the Court of Appeal be troubled over a minor dispute where no serious issues of law were involved ( _Goh Kim Heong and others v AT & J Co Pte Ltd_ [2001] 4 SLR 262). Accordingly, I dismissed the OS with costs to the defendant. 
+23     I accepted the defendant’s arguments. I noted further that the defendant’s claim (which included a reduction/loss of rent of $600 per month) may not exceed $10,000. Such a small claim did not merit further expenditure of time and costs on the part of the parties nor should the Court of Appeal be troubled over a minor dispute where no serious issues of law were involved ( _Goh Kim Heong and others v AT & J Co Pte Ltd_ <span class="citation">[2001] 4 SLR 262</span>). Accordingly, I dismissed the OS with costs to the defendant. 
 
  Copyright © Government of Singapore. 
 

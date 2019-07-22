@@ -16,7 +16,7 @@
 
 _Criminal Procedure and Sentencing_ – _Criminal references_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2014] 2 SLR 307.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2014] 2 SLR 307</span>.] 
 
 28 May 2014 
 
@@ -49,9 +49,9 @@ request was denied.
 
 **Decision Below** 
 
-9       On 14 January 2014, the Judge dismissed CM 70/2013. His judgment is reported as _James Raj s/o Arokiasamy v Public Prosecutor_ [2014] 2 SLR 307 (“the Judgment”). 
+9       On 14 January 2014, the Judge dismissed CM 70/2013. His judgment is reported as _James Raj s/o Arokiasamy v Public Prosecutor_ <span class="citation">[2014] 2 SLR 307</span> (“the Judgment”). 
 
-10     On the first prayer, the Judge declined to grant a declaration that under Art 9(3) of the Constitution, there is an immediate right to counsel upon the request of a person remanded for investigations. He considered himself bound by the decision of the Court of Appeal in _Jasbir Singh and another v Public Prosecutor_ [1994] 1 SLR(R) 782 (“ _Jasbir Singh_ ”), where it was held that an arrested person was not entitled to consult counsel immediately but only within a “reasonable time” of his arrest. 
+10     On the first prayer, the Judge declined to grant a declaration that under Art 9(3) of the Constitution, there is an immediate right to counsel upon the request of a person remanded for investigations. He considered himself bound by the decision of the Court of Appeal in _Jasbir Singh and another v Public Prosecutor_ <span class="citation">[1994] 1 SLR(R) 782</span> (“ _Jasbir Singh_ ”), where it was held that an arrested person was not entitled to consult counsel immediately but only within a “reasonable time” of his arrest. 
 
 11     Notwithstanding this, the Judge considered it appropriate to express some doubt over the interpretation that was placed by the Court of Appeal in _Jasbir Singh_ on the earlier High Court decision of _Lee Mau Seng v Minister for Home Affairs and another_ [1971–1973] SLR(R) 135 (“ _Lee Mau Seng_ ”). The latter decision has widely been understood as authority for the proposition that as a matter of our law, an arrested person’s right to counsel is not one that he may avail himself of immediately but rather only within a reasonable time after his arrest. Nonetheless, the Judge having undertaken an analysis of _Lee Mau Seng_ doubted that the High Court there had contemplated that its holding to the effect that the right to counsel must be granted to an arrested person within a reasonable time after his arrest meant that such a right could be postponed for such period as might reasonably be required by the police to enable them to carry out their investigations. However, it was unquestionably the case that this was precisely how the Court of Appeal in _Jasbir Singh_ had struck the balance between the arrested person’s right to have access to his counsel and the discharge by the police of their 
 
@@ -64,7 +64,7 @@ duty to investigate the matter.
 
 **Our Decision** 
 
-14     It is uncontroversial that the four cumulative conditions specified in s 397(1) of the CPC must be satisfied before leave may be granted to refer a question of law of public interest to the Court of Appeal (see _Mohammad Faizal bin Sabtu and another v Public Prosecutor and another matter_ [2013] 2 SLR 141 (“ _Mohammad Faizal_ ”) at [15]): 
+14     It is uncontroversial that the four cumulative conditions specified in s 397(1) of the CPC must be satisfied before leave may be granted to refer a question of law of public interest to the Court of Appeal (see _Mohammad Faizal bin Sabtu and another v Public Prosecutor and another matter_ <span class="citation">[2013] 2 SLR 141</span> (“ _Mohammad Faizal_ ”) at [15]): 
 
  (a) First, the reference to the Court of Appeal can only be made in relation to a criminal matter decided by the High Court in the exercise of its appellate or revisionary jurisdiction; 
 
@@ -74,7 +74,7 @@ duty to investigate the matter.
 
  (d) Fourth, the determination of that question of law by the High Court must have affected the outcome of the case. 
 
-15     In deciding whether to grant leave to refer questions of law of public interest to the Court of Appeal, the court’s discretion is to be exercised sparingly. Further, we have the discretion to refuse to refer questions of law of public interest stated by an applicant even if all the four conditions are satisfied, although in such circumstances, strong and cogent grounds would have to be shown to exist before we would do so ( _Mah Kiat Seng v Public Prosecutor_ [2011] 3 SLR 859 at [13]). 
+15     In deciding whether to grant leave to refer questions of law of public interest to the Court of Appeal, the court’s discretion is to be exercised sparingly. Further, we have the discretion to refuse to refer questions of law of public interest stated by an applicant even if all the four conditions are satisfied, although in such circumstances, strong and cogent grounds would have to be shown to exist before we would do so ( _Mah Kiat Seng v Public Prosecutor_ <span class="citation">[2011] 3 SLR 859</span> at [13]). 
 
 16     With these general principles in mind, we address the following two issues that arose in the present application: 
 
@@ -114,7 +114,7 @@ not on any basis be able to have _immediate_ access, that moment having already 
 
 27     As stated above, one of the essential requirements in s 397(1) of the CPC for leave to be granted to refer a question of law of public interest to the Court of Appeal is that it must relate to a question of law and that question of law must be one of public interest. In our view, this requirement alone was sufficient to dispose of the criminal motion before us. 
 
-28     It is clear from the authorities that the use of the reference procedure is not appropriate where the question concerns matters of settled law or which can readily be resolved by the application of established principles: see _Wong Sin Yee v Public Prosecutor_ [2001] 2 SLR(R) 63 at [26]; _Bachoo Mohan Singh v Public Prosecutor and other applications_ [2010] 1 SLR 966 at [37]. 
+28     It is clear from the authorities that the use of the reference procedure is not appropriate where the question concerns matters of settled law or which can readily be resolved by the application of established principles: see _Wong Sin Yee v Public Prosecutor_ <span class="citation">[2001] 2 SLR(R) 63</span> at [26]; _Bachoo Mohan Singh v Public Prosecutor and other applications_ <span class="citation">[2010] 1 SLR 966</span> at [37]. 
 
 29     The first question framed by the Applicant was whether there is an immediate right to counsel upon the request of a person remanded for investigations. From the Applicant’s written and oral submissions, it was evident that the basis for seeking to refer this question was to be found in the following observations contained in the Judgment (at [5]–[6]), which seemed to cast some doubt on the correctness of the interpretation placed on the words “a reasonable time” by the Court of Appeal in _Jasbir Singh_ : 
 
@@ -129,7 +129,7 @@ not on any basis be able to have _immediate_ access, that moment having already 
 
 31     In _Jasbir Singh_ , this Court had considered what, at that time, was the only existing Singapore authority on the ambit of the constitutional right of access to counsel, namely the High Court decision in _Lee Mau Seng_. There, it had been held that an arrested person who wished to consult a legal practitioner of his choice was entitled to have this constitutional right granted to him by the authority having custody of him within a reasonable time after his arrest ( _Lee Mau Seng_ at [12]). The Court of Appeal in _Jasbir Singh_ noted that while _Lee Mau Seng_ did not elaborate on what a “reasonable time” would be, it could be surmised that an allowance for police investigations and procedure was intended to be incorporated within the framework of a “reasonable time” ( _Jasbir Singh_ at [48]). The exercise of the right of access to counsel was framed in this way to strike a balance that was considered appropriate to our circumstances between, on the one hand, the arrested person’s undoubted right to legal representation and, on the other hand, the public interest in enabling the police to discharge their duty and carry out investigations effectively and expeditiously ( _Jasbir Singh_ at [46]). 
 
-32     The principles in _Jasbir Singh_ have since been applied in subsequent cases. In _Public Prosecutor v Leong Siew Chor_ [2006] 3 SLR(R) 290 at [87], the High Court reiterated that giving effect to the right of access to counsel entailed balancing the rights of the arrested person against the public interest that crime be effectively investigated. On appeal, the Court of Appeal also applied _Jasbir Singh_ , and observed that the fact that an arrested person had been fully co-operative with the police in the course of investigations was, in itself, no basis for granting access as soon as it was sought (see _Leong Siew Chor v Public Prosecutor_ [2006] SGCA 38 at [9]). Most recently, in _Muhammad bin Kadar and another v Public Prosecutor_ [2011] 3 SLR 1205, we affirmed the decision in _Jasbir Singh_ , observing that there was no legal requirement that the police permit counsel to be present during interviews with the arrested person while investigations were being carried out (at [57]). 
+32     The principles in _Jasbir Singh_ have since been applied in subsequent cases. In _Public Prosecutor v Leong Siew Chor_ <span class="citation">[2006] 3 SLR(R) 290</span> at [87], the High Court reiterated that giving effect to the right of access to counsel entailed balancing the rights of the arrested person against the public interest that crime be effectively investigated. On appeal, the Court of Appeal also applied _Jasbir Singh_ , and observed that the fact that an arrested person had been fully co-operative with the police in the course of investigations was, in itself, no basis for granting access as soon as it was sought (see _Leong Siew Chor v Public Prosecutor_ <span class="citation">[2006] SGCA 38</span> at [9]). Most recently, in _Muhammad bin Kadar and another v Public Prosecutor_ <span class="citation">[2011] 3 SLR 1205</span>, we affirmed the decision in _Jasbir Singh_ , observing that there was no legal requirement that the police permit counsel to be present during interviews with the arrested person while investigations were being carried out (at [57]). 
 
 33     It is evident from these decisions that the first question in fact pertained to a matter of settled law. It was not an open question that had not finally been settled by the apex court or that admitted of continuing difficulty or that called for the discussion or further consideration of alternative views ( _Mohammad Faizal_ at [19], citing with approval the Malaysian Federal Court decision in _A Ragunathan v Pendakwa Raya_ [1982] 1 MLJ 139 at 141). 
 

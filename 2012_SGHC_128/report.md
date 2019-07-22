@@ -133,7 +133,7 @@ Excluding the Shunfu flat and her CPF account, the Wife’s assets amounted to a
 
 18     It was not disputed that the Wife made no direct financial contribution to the purchase of the AMK flat. However, the Wife alleged that the Husband had used the $60,000 which he withdrew from the parties’ joint POSB account and the sale proceeds of the Honda car to part pay the purchase price. The purchase price was not disclosed by the Husband. Further, the Wife argued that the market value of the AMK flat was about $820,000 and not $600,000 as the Husband had declared. 
 
-19     The Husband submitted that the AMK flat did not constitute part of the matrimonial assets under s 112 of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Charter”) because it was bought by him with his own funds after the parties had separated and there were no direct or indirect contributions by the Wife to its acquisition, retention and maintenance. In this regard, he relied on _Lim Ngeok Yuen v Lim Soon Heng Victor_ [2006] SGHC 83 (“ _Lim Ngeok Yuen_ ”) and _Yeo Chong Lin v Tay Ang Choo Nancy and another appeal_ [2011] 2 SLR 1157 (“ _Yeo Chong Lin_ ”). 
+19     The Husband submitted that the AMK flat did not constitute part of the matrimonial assets under s 112 of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Charter”) because it was bought by him with his own funds after the parties had separated and there were no direct or indirect contributions by the Wife to its acquisition, retention and maintenance. In this regard, he relied on _Lim Ngeok Yuen v Lim Soon Heng Victor_ <span class="citation">[2006] SGHC 83</span> (“ _Lim Ngeok Yuen_ ”) and _Yeo Chong Lin v Tay Ang Choo Nancy and another appeal_ <span class="citation">[2011] 2 SLR 1157</span> (“ _Yeo Chong Lin_ ”). 
 
 20     Section 112(10)(b) of the Charter provided as follows: 
 
@@ -146,7 +146,7 @@ Excluding the Shunfu flat and her CPF account, the Wife’s assets amounted to a
 
  but does not include any asset (not being a matrimonial home) that has been acquired by one party at any time by gift or inheritance and that has not been substantially improved during the marriage by the other party or by both parties to the marriage. 
 
-21     Although the AMK flat fell within the definition of “matrimonial asset” in s 112(10)( _b_ ) of the Charter because it was acquired during the marriage, this was a proper case for the court to exercise its discretion to exclude the AMK flat from the pool of matrimonial assets to be divided. In _Lim Ngeok Yuen_ at [45], the court exempted an apartment from division because the wife had bought it three and a half years after the parties had separated and the husband had ceased to make contributions to the family. In _AQT v AQU_ [2011] SGHC 138, I exempted a trust from division because it had been set up by both parties for the benefit of their children. 
+21     Although the AMK flat fell within the definition of “matrimonial asset” in s 112(10)( _b_ ) of the Charter because it was acquired during the marriage, this was a proper case for the court to exercise its discretion to exclude the AMK flat from the pool of matrimonial assets to be divided. In _Lim Ngeok Yuen_ at [45], the court exempted an apartment from division because the wife had bought it three and a half years after the parties had separated and the husband had ceased to make contributions to the family. In _AQT v AQU_ <span class="citation">[2011] SGHC 138</span>, I exempted a trust from division because it had been set up by both parties for the benefit of their children. 
 
 22     In the present case, there was no issue of indirect contribution by the Wife to the AMK flat because it was bought at a time when the marriage had already broken down, shortly before the parties separated. Although the Wife alleged that the Husband had used the sale proceeds of the Honda car and the $60,000 which was withdrawn from their joint POSB account as part of the purchase price of the AMK flat, she did not produce any evidence to support this allegation. Furthermore, there was no evidence of the purchase price of the AMK flat and the quantum of the sale proceeds of the car. In any event, even if this allegation was true, it did not follow that the Wife should be awarded a share in the present market value of the property (about $820,000 based on the Wife’s valuation) as she would consequently benefit from the appreciation in the value of the property which was bought 12 years ago in January 2000. In my view, the more just and equitable solution was to award the Wife a share in the sale proceeds of the car (or its market value as at 18 November 1999) and the monies withdrawn from the joint POSB account rather than a share in the AMK flat. 
 
@@ -181,12 +181,12 @@ Excluding the Shunfu flat and her CPF account, the Wife’s assets amounted to a
 
  (e) the matters referred to in section 114(1) so far as they are relevant. 
 
-30     In _Lim Choon Lai v Chew Kim Heng_ [2001] 2 SLR(R) 260, the Court of Appeal stated at [29]: 
+30     In _Lim Choon Lai v Chew Kim Heng_ <span class="citation">[2001] 2 SLR(R) 260</span>, the Court of Appeal stated at [29]: 
 
  Finally, it is paramount that courts do not focus merely on a direct and indirect contributions dichotomy in arriving at a just and equitable division of matrimonial assets. The various factors enumerated by s 112(2) of the Act, which are no less important, must be duly assessed and considered as a whole. At the end of the day, no one factor should be determinative as the court’s mandate is to come to a just and equitable division of the matrimonial assets having regard to all the circumstances of the case... 
 
 
-31     In this regard, a party’s direct financial contributions to the acquisition of any particular matrimonial asset can no longer be primarily determinative of how it is divided, and the court is free to give as much weight or more to other non-financial factors: _Yow Mee Lan v Chen Kai Buan_ [2000] 2 SLR(R) 659 at [32]. The importance of giving the fullest effect to non-financial contributions has been stressed repeatedly in case law, for example in _Lock Yeng Fun v Chua Hock Chye_ [2007] 3 SLR(R) 520 at [55]. 
+31     In this regard, a party’s direct financial contributions to the acquisition of any particular matrimonial asset can no longer be primarily determinative of how it is divided, and the court is free to give as much weight or more to other non-financial factors: _Yow Mee Lan v Chen Kai Buan_ <span class="citation">[2000] 2 SLR(R) 659</span> at [32]. The importance of giving the fullest effect to non-financial contributions has been stressed repeatedly in case law, for example in _Lock Yeng Fun v Chua Hock Chye_ <span class="citation">[2007] 3 SLR(R) 520</span> at [55]. 
 
 32     The court has to adopt a broad brush approach in deciding what would be a just and equitable division in all the circumstances of a case. This is an exercise largely based on feel and the court’s sense of justice, and the court is not expected to make an exact calculation of each spouse’s contributions, whether financial or non-financial: _Yeo Chong Lin_ (cited at [19] above) at [78] and [81]. 
 
@@ -216,7 +216,7 @@ by the Wife against him in that he had been subjected to physical and verbal abu
 
 given to the Wife in terms of financial contributions although the bulk of the funds came from the Husband’s salary. 
 
-42     In _Chen Siew Hwee v Low Kee Guan (Wong Yong Yee, co-respondent)_ [2006] 4 SLR(R) 605, the wife in a 17-year childless marriage was awarded 35% of the matrimonial assets. Her non-financial contributions included looking after the husband and her in-laws. The husband came from a wealthy family and there was no evidence that the wife had provided any financial support during the marriage. By contrast, the Wife in this case had made significant financial contributions at the outset of the marriage when the parties were poor, and she continued working and contributing (albeit to a lesser extent) even after the Husband had obtained his PhD and was gainfully employed. 
+42     In _Chen Siew Hwee v Low Kee Guan (Wong Yong Yee, co-respondent)_ <span class="citation">[2006] 4 SLR(R) 605</span>, the wife in a 17-year childless marriage was awarded 35% of the matrimonial assets. Her non-financial contributions included looking after the husband and her in-laws. The husband came from a wealthy family and there was no evidence that the wife had provided any financial support during the marriage. By contrast, the Wife in this case had made significant financial contributions at the outset of the marriage when the parties were poor, and she continued working and contributing (albeit to a lesser extent) even after the Husband had obtained his PhD and was gainfully employed. 
 
 43     Adopting a broad brush approach, I was of the view that it was just and equitable that the Wife be awarded 40% of the following assets: 
 
@@ -248,10 +248,10 @@ given to the Wife in terms of financial contributions although the bulk of the f
 
  (f) the contributions made by each of the parties to the marriage to the welfare of the family, including any contribution made by looking after the home or caring for the family. 
 
-45     As stated in _BG v BF_ [2007] 3 SLR(R) 233 at [75], the power to order maintenance is exercised in a manner supplementary to the power to divide matrimonial assets, such that the court takes 
+45     As stated in _BG v BF_ <span class="citation">[2007] 3 SLR(R) 233</span> at [75], the power to order maintenance is exercised in a manner supplementary to the power to divide matrimonial assets, such that the court takes 
 
 
-account of each party's share of the assets, and the order for maintenance plays a complementary role to the order for division of the assets. Essentially, the aim is to even out any financial inequalities between the spouses, taking into account any economic prejudice suffered by the wife during marriage: _Tan Sue-Ann Melissa v Lim Siang Bok Dennis_ [2004] 3 SLR(R) 376 at [27]. 
+account of each party's share of the assets, and the order for maintenance plays a complementary role to the order for division of the assets. Essentially, the aim is to even out any financial inequalities between the spouses, taking into account any economic prejudice suffered by the wife during marriage: _Tan Sue-Ann Melissa v Lim Siang Bok Dennis_ <span class="citation">[2004] 3 SLR(R) 376</span> at [27]. 
 
 **_Decision on maintenance_** 
 

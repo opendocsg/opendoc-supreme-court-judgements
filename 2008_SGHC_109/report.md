@@ -141,9 +141,9 @@ The plaintiff’s response was: “I don’t deny, what you alleged here.” In 
 
 24     Taking into account all of the above, I am of the view that the Amendment did not amount to a waiver of the plaintiff’s obligations under the non-competition clause, and that the latter’s refusal to comply with the said clause was accordingly a breach of the Letter of Agreement. 
 
-25     Is the breach then a repudiatory one that would entitle the defendant to bring an end to the contract? In _Singapore Tourism Board v Children’s Media Limited_ [2008] SGHC 77, the court stated at [32] that: 
+25     Is the breach then a repudiatory one that would entitle the defendant to bring an end to the contract? In _Singapore Tourism Board v Children’s Media Limited_ <span class="citation">[2008] SGHC 77</span>, the court stated at [32] that: 
 
- To constitute repudiation, the threatened breach must be such as to deprive the injured party of a substantial part of the benefit to which he is entitled under the contract. The applicable test is whether the consequences of the breach are such that it will be unfair to the injured party to hold it to the contract and leave it to its remedy in damages as and when a breach occurred ( Highness Electrical Engineering Pte Ltd v Sigma Cable Co (Pte) Ltd [2006] 3 SLR 640 at [8] to [11]). 
+ To constitute repudiation, the threatened breach must be such as to deprive the injured party of a substantial part of the benefit to which he is entitled under the contract. The applicable test is whether the consequences of the breach are such that it will be unfair to the injured party to hold it to the contract and leave it to its remedy in damages as and when a breach occurred ( Highness Electrical Engineering Pte Ltd v Sigma Cable Co (Pte) Ltd <span class="citation">[2006] 3 SLR 640</span> at [8] to [11]). 
 
 26     In similar vein, the following observations by Buckley LJ in _Decro-Wall International SA v Practitioners in Marketing Ltd_ [1971] 1 WLR 361 at 379 are also worth noting: 
 

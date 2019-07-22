@@ -152,7 +152,7 @@ _Legal Profession_ – _Show cause action_ – _Solicitor practising as sole pro
 
 solicitors. As such, no proof of wilful conduct is necessary to establish a breach of the Solicitors’ Accounts Rules (compare with _Cordery on Solicitors_ (LexisNexis Butterworths, 9th Ed, 2005) at para 1402). 
 
-23     This court has also held in _Law Society of Singapore v Lim Yee Kai_ [2001] 1 SLR 721, that any failure to maintain proper accounts would be viewed seriously. L P Thean JA stated at [17] that: 
+23     This court has also held in _Law Society of Singapore v Lim Yee Kai_ <span class="citation">[2001] 1 SLR 721</span>, that any failure to maintain proper accounts would be viewed seriously. L P Thean JA stated at [17] that: 
 
  Where the rules relating to accounts are breached, disciplinary action is warranted under s 71(3) or s 83(2)(j) of the Act. ... [S]uch contravention of the rules by the respondent amounted to grossly improper conduct in the discharge of his professional duty. 
 
@@ -162,7 +162,7 @@ solicitors. As such, no proof of wilful conduct is necessary to establish a brea
 
 **Appropriate penalty** 
 
-26     In _Law Society of Singapore v Ravindra Samuel_ [1999] 1 SLR 696, this court held that the three primary factors that ought to be taken into account in determining the appropriate penalty are: 
+26     In _Law Society of Singapore v Ravindra Samuel_ <span class="citation">[1999] 1 SLR 696</span>, this court held that the three primary factors that ought to be taken into account in determining the appropriate penalty are: 
 
  (a) protection of the public; 
 
@@ -191,7 +191,7 @@ These very factors were also adverted to by Thomson CJ in the case of _In re A S
 
 29     We also note, although this is by no means crucial, that no client or third party has suffered any financial loss as a consequence of her conduct. Nor is there any evidence before us that she professionally mishandled any files during her brief sojourn as a sole practitioner. 
 
-30     To sum it up, while there can be no doubt that the respondent has conducted herself and the affairs of the firm in a wholly inappropriate manner, one must acknowledge in the final analysis the absence of any client or third-party loss and, just as importantly, the absence of any element of dishonesty on the respondent’s part. In _Law Society of Singapore v Prem Singh_ [1999] 4 SLR 157, the respondent was charged with: 
+30     To sum it up, while there can be no doubt that the respondent has conducted herself and the affairs of the firm in a wholly inappropriate manner, one must acknowledge in the final analysis the absence of any client or third-party loss and, just as importantly, the absence of any element of dishonesty on the respondent’s part. In _Law Society of Singapore v Prem Singh_ <span class="citation">[1999] 4 SLR 157</span>, the respondent was charged with: 
 
  (a) failing to deposit his client’s money into a client account as required by r 3 of the then applicable Solicitors’ Account Rules; and 
 

@@ -97,7 +97,7 @@ PROSECUTION’S SUBMISSIONS ON SENTENCE
 
 26\. The Prosecution submits that deterrent sentences should be imposed on both accused persons and that LMH should be punished as severely as Peh by virtue of her position as the natural mother of the victim and the role she played in the offences. The age of the victim when she was first raped, the number of occasions of rape and the indignities suffered by the victim in being forced to engage in a mnage trois with her mother are aggravating factors which the Prosecution says should be borne in mind. 
 
-27\. The Prosecution cites for my guidance the cases of Chia Kim Heng Frederick v PP [1992] 1 SLR 361 , PP v Radhakrishna Gnanasegaran [CC 14 of 1999 – unreported] and PP v Yap Koon Mong [1999] 4 SLR 257 where the rape charges are concerned. 
+27\. The Prosecution cites for my guidance the cases of Chia Kim Heng Frederick v PP <span class="citation">[1992] 1 SLR 361</span> , PP v Radhakrishna Gnanasegaran [CC 14 of 1999 – unreported] and PP v Yap Koon Mong <span class="citation">[1999] 4 SLR 257</span> where the rape charges are concerned. 
 
 PEH’S MITIGATION PLEA 
 

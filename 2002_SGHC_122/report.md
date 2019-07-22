@@ -36,12 +36,12 @@
 
  (c) has special qualifications or experience for the purpose of the case. 
 
-3       The law relating to admission under this provision is settled. The Court of Appeal held in _Price Arthur Leolin v A-G_ [1992] 2 SLR 972 that there is a three-stage test. This w as elaborated in _Re Caplan Jonathan Michael (No 2)_ [1998] 1 SLR 440, w here the Court said at 11: 
+3       The law relating to admission under this provision is settled. The Court of Appeal held in _Price Arthur Leolin v A-G_ <span class="citation">[1992] 2 SLR 972</span> that there is a three-stage test. This w as elaborated in _Re Caplan Jonathan Michael (No 2)_ <span class="citation">[1998] 1 SLR 440</span>, w here the Court said at 11: 
 
 11\. The requirements of [s 21(1)] w ere considered at length by the Court of Appeal in _Price Arthur Leolin v A-G & Ors_ 
 
 
- [1992] 2 SLR 972. In its judgment, the court articulated a three-stage test for admission under s 21(1). At the first stage, the applicant must demonstrate that the case in w hich he seeks to appear contains issues of law and/or fact of sufficient difficulty and complexity to require elucidation and/or argument by a Queens Counsel. Such difficulty or complexity is not of itself a guarantee of admission, for the decision to admit is still a matter for the courts discretion. At the second stage, therefore, the applicant must persuade the court that the circumstances of the particular case w arrant the court exercising its discretion in favour of his admission. Finally, he has to satisfy the court of his suitability for admission. 
+ <span class="citation">[1992] 2 SLR 972</span>. In its judgment, the court articulated a three-stage test for admission under s 21(1). At the first stage, the applicant must demonstrate that the case in w hich he seeks to appear contains issues of law and/or fact of sufficient difficulty and complexity to require elucidation and/or argument by a Queens Counsel. Such difficulty or complexity is not of itself a guarantee of admission, for the decision to admit is still a matter for the courts discretion. At the second stage, therefore, the applicant must persuade the court that the circumstances of the particular case w arrant the court exercising its discretion in favour of his admission. Finally, he has to satisfy the court of his suitability for admission. 
 
 These stages can be summarised as: (i) w hether the case is of sufficient difficulty and complexity; (ii) w hether the circumstances of the case w arrant admission; and (iii) w hether the applicant is a suitable person for admission. 
 
@@ -66,7 +66,7 @@ These stages can be summarised as: (i) w hether the case is of sufficient diffic
 
 6       In respect of the second ground, Tay Yong Kw ang J.C. said at 42 to 43 of his Grounds of Decision: 
 
-42\. The other factor mentioned in the affidavits is "the identity and positions of the Plaintiffs are further pow erful reasons w hy it is proper and necessary for me to engage the services of leading Counsel from outside of Singapore". By this, Dr Chee appears to be implying that no local law yer is able and w illing to act for him. There are presently more than 3000 pra ctising advocates and solicitors and more than 20 of these are Senior Counsel. W hile I need not be convinced of the absolute absence of any local counsel capable of taking on or w illing to take on the cases here (see _Re Caplan Jonathan Michael Q.C. (No 2)_ [1998] 1 SLR 440), no evidence has been proffered on this point to assist me in the balancing exercise. 
+42\. The other factor mentioned in the affidavits is "the identity and positions of the Plaintiffs are further pow erful reasons w hy it is proper and necessary for me to engage the services of leading Counsel from outside of Singapore". By this, Dr Chee appears to be implying that no local law yer is able and w illing to act for him. There are presently more than 3000 pra ctising advocates and solicitors and more than 20 of these are Senior Counsel. W hile I need not be convinced of the absolute absence of any local counsel capable of taking on or w illing to take on the cases here (see _Re Caplan Jonathan Michael Q.C. (No 2)_ <span class="citation">[1998] 1 SLR 440</span>), no evidence has been proffered on this point to assist me in the balancing exercise. 
 
 43\. The applications for admission therefore also fail at the "second stage". 
 

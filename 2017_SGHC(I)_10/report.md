@@ -159,11 +159,11 @@ margin requirements became academic when the date for repayment came on 9 June 2
 
 31     The facility agreements and the personal guarantees provided for choice of Singapore law and agreement on the jurisdiction of the Singapore courts. The proceedings were commenced in the Singapore High Court. On 5 April 2016 it was ordered that they be transferred to the Singapore International Commercial Court. 
 
-32     On 25 May 2016 the Agams filed an application to stay the proceedings on a temporary basis pending the determination of legal proceedings in France. The application was heard on 30 August 2016, and in reasons published on 28 October 2016 was dismissed: see _BNP Paribas Wealth Management v Jacob Agam and another_ [2017] 3 SLR 27 (“Judgment for Stay Application”). There was no appeal from this decision. 
+32     On 25 May 2016 the Agams filed an application to stay the proceedings on a temporary basis pending the determination of legal proceedings in France. The application was heard on 30 August 2016, and in reasons published on 28 October 2016 was dismissed: see _BNP Paribas Wealth Management v Jacob Agam and another_ <span class="citation">[2017] 3 SLR 27</span> (“Judgment for Stay Application”). There was no appeal from this decision. 
 
-33     In February 2016 BNP and BNPWM had executed a merger agreement providing for the “absorption” of the latter by the former, and the universal transfer of BNPWM’s assets and liabilities to BNP and its winding-up without liquidation. The merger was completed in early October 2016. On 27 October 2016 BNP applied to be substituted as plaintiff in place of BNPWM. The application was opposed by the Agams. It was heard on 14 November 2016 and 12 January 2017, and in reasons published on 17 February 2017 the application was granted and substitution was ordered: see _BNP Paribas Wealth Management v Jacob Agam and another_ [2017] 4 SLR 14. 
+33     In February 2016 BNP and BNPWM had executed a merger agreement providing for the “absorption” of the latter by the former, and the universal transfer of BNPWM’s assets and liabilities to BNP and its winding-up without liquidation. The merger was completed in early October 2016. On 27 October 2016 BNP applied to be substituted as plaintiff in place of BNPWM. The application was opposed by the Agams. It was heard on 14 November 2016 and 12 January 2017, and in reasons published on 17 February 2017 the application was granted and substitution was ordered: see _BNP Paribas Wealth Management v Jacob Agam and another_ <span class="citation">[2017] 4 SLR 14</span>. 
 
-34     The Agams appealed, by leave, from this decision. The appeal was heard on 12 May 2017, and at the end of oral argument was dismissed. The Court’s reasons were delivered on 18 May 2017: see _Jacob Agam and another v BNP Paribas SA_ [2017] 2 SLR 1. 
+34     The Agams appealed, by leave, from this decision. The appeal was heard on 12 May 2017, and at the end of oral argument was dismissed. The Court’s reasons were delivered on 18 May 2017: see _Jacob Agam and another v BNP Paribas SA_ <span class="citation">[2017] 2 SLR 1</span>. 
 
 35     The proceedings came on for hearing in August 2017. The Agams were not represented and did not appear. We think it appropriate to record how that came about. 
 
@@ -295,7 +295,7 @@ stay application, only Mr Zikri appeared for the Agams; counsel from Legis Point
 59     With the abandonment of the French law issues, which in part were directed to the liability of SCI Ruth Agam and Det Internationale, there is no issue over the liability of the Agam companies and it does not matter whether the personal guarantees are contracts of guarantee or contracts of indemnity. We think it appropriate nonetheless to express our view on this issue. A principal debtor clause such as cl 2 is generally insufficient to convert a contract of guarantee into a contract of indemnity: see _PT Jaya Sumpiles Indonesia and another_ v _Kristle Trading Ltd and another appeal_ 
 
 
-[2009] 3 SLR(R) 689 at [52]–[56]. Here there is more than a principal debtor clause, see cll 17 and 8(f)–(g), and we consider that the personal guarantees are contracts of indemnity. We note that in the 2016 stay application the Agams accepted that the personal guarantees, on their face, could be enforced as indemnities: see Judgment for Stay Application at [40]. 
+<span class="citation">[2009] 3 SLR(R) 689</span> at [52]–[56]. Here there is more than a principal debtor clause, see cll 17 and 8(f)–(g), and we consider that the personal guarantees are contracts of indemnity. We note that in the 2016 stay application the Agams accepted that the personal guarantees, on their face, could be enforced as indemnities: see Judgment for Stay Application at [40]. 
 
 60     The outstanding indebtednesses of SCI Ruth Agam and Det Internationale fall within the Guaranteed Amounts as defined in cl 1 of the personal guarantees. Written demand was admitted on the pleadings by Jacob, although not by Ruth, and was in any event proved. Subject to the defences abovementioned, Jacob and Ruth are liable for the amounts payable by the companies. 
 
@@ -365,7 +365,7 @@ should be signed, told her in English that she should be signing not writing her
 
 72     Whatever the explanation for the dating, it is not known to us. We have taken into consideration the dating and what appears to have been unwarranted signing by Mr Merimee as witness. We are comfortably satisfied that Mr Cucchi’s evidence of execution by Ruth on 9 June 2010 should be accepted and that, while he could not specifically remember what documents were signed, they included the SCI Ruth Agam and Det Internationale refinancing documents. 
 
-73     A person is generally bound by his signature on a contractual document even if he did not fully understand its terms. The defence of _non est factum_ is a narrow exception to that position, for which there must be a radical difference between what was signed and what was thought to have been signed and the person must show that he took care in signing the document: see _Mahidon Nichiar bte Mohd Ali and others v Dawood Sultan Kamaldin_ [2015] 5 SLR 62 at [119]. In our view, there is no basis for finding that in either of these respects Ruth has the benefit of the defence. 
+73     A person is generally bound by his signature on a contractual document even if he did not fully understand its terms. The defence of _non est factum_ is a narrow exception to that position, for which there must be a radical difference between what was signed and what was thought to have been signed and the person must show that he took care in signing the document: see _Mahidon Nichiar bte Mohd Ali and others v Dawood Sultan Kamaldin_ <span class="citation">[2015] 5 SLR 62</span> at [119]. In our view, there is no basis for finding that in either of these respects Ruth has the benefit of the defence. 
 
 **The account opening issue** 
 
@@ -422,7 +422,7 @@ the backdating to 7 April 2010. We are unable to see how these matters affect Ru
  All payments to be made under the Facility Letter or hereunder shall be made...free and clear of and without any set-off, counterclaim, deduction or withholding whatsoever. 
 
 
-84     Such a provision, if applicable on its proper construction, is recognised and given effect having regard to the legitimate commercial expectations of the claiming party of payment in full without the need to litigate a cross-claim: see _Koh Lin Yee v Terrestrial Pte Ltd and another appeal_ [2015] 2 SLR 497, especially at [67]. Repayment of the SCI Ruth Agam loan is payment to be made under its facility agreement, and is required notwithstanding any claim by SCI Ruth Agam for lost profits. 
+84     Such a provision, if applicable on its proper construction, is recognised and given effect having regard to the legitimate commercial expectations of the claiming party of payment in full without the need to litigate a cross-claim: see _Koh Lin Yee v Terrestrial Pte Ltd and another appeal_ <span class="citation">[2015] 2 SLR 497</span>, especially at [67]. Repayment of the SCI Ruth Agam loan is payment to be made under its facility agreement, and is required notwithstanding any claim by SCI Ruth Agam for lost profits. 
 
 85     But Ruth did not appear at the trial and lead evidence in support of the allegations, and there is no evidence of the joint venture agreement and its termination, of profits the joint venture would have made, or otherwise (on the same assumption) to make out a diminution or extinguishment of BNP’s claim. The defence has not been prosecuted, and quite apart from the “no set-off” provision it cannot be upheld. 
 
@@ -596,7 +596,7 @@ returned duly signed. The last of these instructions could not be more clear, an
 
 126    This provision was pleaded in the Statement of Claim, and costs were claimed on an indemnity basis in reliance upon it. 
 
-127    While the Court has a discretion as to costs which may override a contractual agreement in order to avoid manifest injustice, the contractual agreement of the parties will ordinarily be upheld by ordering costs on an indemnity basis (see _Abani Trading Pte Ltd v BNP Paribas and another appeal_ [2014] 3 SLR 909 at [90]–[95] and cases there considered). BNP is entitled to costs, and in our opinion the costs should be on an indemnity basis. 
+127    While the Court has a discretion as to costs which may override a contractual agreement in order to avoid manifest injustice, the contractual agreement of the parties will ordinarily be upheld by ordering costs on an indemnity basis (see _Abani Trading Pte Ltd v BNP Paribas and another appeal_ <span class="citation">[2014] 3 SLR 909</span> at [90]–[95] and cases there considered). BNP is entitled to costs, and in our opinion the costs should be on an indemnity basis. 
 
 **Orders** 
 

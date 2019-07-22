@@ -47,7 +47,7 @@ thereby denying the validity and existence of the third tenancy.
 
 4       The respondents’ solicitors then served on the appellant a notice of “termination”. The appellant rejected this unilateral termination of occupancy rights and refused to vacate the premises. Further, he denied the respondents any access when they sought to inspect the property. 
 
-5       The respondents then proceeded with a claim against the appellant in the District Court for payment of double rent pursuant to s 28(4) of the Civil Law Act (Cap 43, 1999 Rev Ed) for wrongfully holding over the property from 1 May 2001 to 10 April 2003. Subsequently, the respondents’ claim for double rent increased with the passage of time. After the respondents’ application for summary judgment failed, the proceedings were transferred by consent to the High Court as Suit No 929 of 2003: see _Khng Thian Huat v Riduan bin Yusof_ [2005] 1 SLR 130. 
+5       The respondents then proceeded with a claim against the appellant in the District Court for payment of double rent pursuant to s 28(4) of the Civil Law Act (Cap 43, 1999 Rev Ed) for wrongfully holding over the property from 1 May 2001 to 10 April 2003. Subsequently, the respondents’ claim for double rent increased with the passage of time. After the respondents’ application for summary judgment failed, the proceedings were transferred by consent to the High Court as Suit No 929 of 2003: see _Khng Thian Huat v Riduan bin Yusof_ <span class="citation">[2005] 1 SLR 130</span>. 
 
 **The trial in the High Court** 
 
@@ -153,11 +153,11 @@ G P Selvam JC (as he then was) held at 803, [31]:
 
  This is anchored on the judicial policy to afford a litigant the right to institute a bona fide claim before the courts and to prosecute it in the usual way. Whenever possible the courts will let the plaintiff proceed with the action unless his case is wholly and clearly unarguable. [emphasis added] 
 
-28     Similarly, it was held by the Court of Appeal in _The Tokai Maru_ [1998] 3 SLR 105 at [37] that: “The power to strike out an action for abuse of process is thus to be exercised only in cases of an exceptional nature.” 
+28     Similarly, it was held by the Court of Appeal in _The Tokai Maru_ <span class="citation">[1998] 3 SLR 105</span> at [37] that: “The power to strike out an action for abuse of process is thus to be exercised only in cases of an exceptional nature.” 
 
-29     In _Afro Asia Shipping Co (Pte) Ltd v Haridass Ho & Partners_ [2003] 2 SLR 491 I had defined (at [22]) the words “frivolous or vexatious” under O 18 r 19(1)(b) of the Rules to mean “cases which are obviously unsustainable or wrong, [and where] the words connote purposelessness in relation to the process or a lack of seriousness or truth and a lack of _bona fides_ ”. The definition as held by Yong Pung How CJ in _Goh Koon Suan v Heng Gek Kiau_ [1990] SLR 1251 at [15], also included proceedings where a party “is not acting bona fide and merely wishes to annoy or embarrass his opponent, or when it is not calculated to lead to any practical result”. 
+29     In _Afro Asia Shipping Co (Pte) Ltd v Haridass Ho & Partners_ <span class="citation">[2003] 2 SLR 491</span> I had defined (at [22]) the words “frivolous or vexatious” under O 18 r 19(1)(b) of the Rules to mean “cases which are obviously unsustainable or wrong, [and where] the words connote purposelessness in relation to the process or a lack of seriousness or truth and a lack of _bona fides_ ”. The definition as held by Yong Pung How CJ in _Goh Koon Suan v Heng Gek Kiau_ [1990] SLR 1251 at [15], also included proceedings where a party “is not acting bona fide and merely wishes to annoy or embarrass his opponent, or when it is not calculated to lead to any practical result”. 
 
-30     Similarly, the phrase “abuse of process” under O 18 r 19(1)(d) of the Rules was explained by the Court of Appeal in _Gabriel Peter & Partners v Wee Chong Jin_ [1998] 1 SLR 374 at [22] thus: 
+30     Similarly, the phrase “abuse of process” under O 18 r 19(1)(d) of the Rules was explained by the Court of Appeal in _Gabriel Peter & Partners v Wee Chong Jin_ <span class="citation">[1998] 1 SLR 374</span> at [22] thus: 
 
  It includes considerations of public policy and the interests of justice. This term signifies that the process of the court must be used bona fide and properly and must not be abused. The court will prevent the improper use of its machinery. It will prevent the judicial process from being used as a means of vexation and oppression in the process of litigation. The categories of conduct rendering a claim frivolous, vexatious or an abuse of process are not closed and will depend on all the relevant circumstances of the case. A type of conduct which has been judicially acknowledged as an abuse of process is the bringing of an action for a collateral purpose, as was raised by the respondents. In Lonrho v Fayed (No 5) [1993] 1 WLR 1489, Stuart-Smith LJ stated that, if an action was not brought bona fide for the purpose of obtaining relief but for some other ulterior or collateral purpose, it might be struck out as an abuse of the process of the court. 
 
@@ -170,7 +170,7 @@ G P Selvam JC (as he then was) held at 803, [31]:
 34     The respondents had wrongly equated the court expert’s report with the judge’s order on damages. Even though the judge decided to adopt the findings of court expert, his decision to do so was still separate from the decision of the court expert. 
 
 
-35     We are mindful that an appellant must show a “manifest error” in order to challenge the findings of a nominated valuer. In _Tan Yeow Khoon v Tan Yeow Tat_ [2003] 3 SLR 486 (affirmed on appeal), Choo Han Teck J held at [12]: 
+35     We are mindful that an appellant must show a “manifest error” in order to challenge the findings of a nominated valuer. In _Tan Yeow Khoon v Tan Yeow Tat_ <span class="citation">[2003] 3 SLR 486</span> (affirmed on appeal), Choo Han Teck J held at [12]: 
 
  [W]here the parties had agreed to accept a price that their nominated valuer had determined so that litigation could thereby be avoided, they were bound by that valuation even if the valuer was wrong. The only possible exception is where there is a manifest error that justly requires judicial intervention. [emphasis added] 
 

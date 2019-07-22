@@ -85,7 +85,7 @@ The arguments
 
 ### 58. 
 
-13\. Counsel for the plaintiffs also submitted that the Court has a discretion to order a sale of the property under s 59(1) of the Trustees Act 1985 edition (which is now s 56(1) of the 1999 edition (Cap 337), citing various English cases to support their proposition. They argued that the pre- condition of unanimity by the beneficiaries before a sale can be effected only related to the timing of the sale, not that it was prohibited altogether, relying on _Marlborough (Duke) v Attorney-General (No. 2)_ [1944] Ch 145 and _Rajabali Jumabhoy v Ameerali R Jumabhoy_ [1998] 2 SLR 439. 
+13\. Counsel for the plaintiffs also submitted that the Court has a discretion to order a sale of the property under s 59(1) of the Trustees Act 1985 edition (which is now s 56(1) of the 1999 edition (Cap 337), citing various English cases to support their proposition. They argued that the pre- condition of unanimity by the beneficiaries before a sale can be effected only related to the timing of the sale, not that it was prohibited altogether, relying on _Marlborough (Duke) v Attorney-General (No. 2)_ [1944] Ch 145 and _Rajabali Jumabhoy v Ameerali R Jumabhoy_ <span class="citation">[1998] 2 SLR 439</span>. 
 
 (ii) the defendant's case 
 

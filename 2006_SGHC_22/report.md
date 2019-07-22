@@ -55,7 +55,7 @@ Under s 304( _a_ ) of the Penal Code (Cap 224, 1985 Rev Ed), the court may sente
 
 12     The only antecedent that the accused had was a conviction for theft in September 1992 for which he was fined $800. 
 
-13     On these facts, the Prosecution submitted that the accused ought to be sentenced to imprisonment for life, citing the Court of Appeal’s decision in _Purwanti Parji v PP_ [2005] 2 SLR 220 (“ _Purwanti”_ ). In that decision, the Court of Appeal reiterated the principles stated in _Neo Man Lee v PP_ [1991] SLR 146, where the then Court of Criminal Appeal set out three conditions which would justify a sentence of life imprisonment. They are: 
+13     On these facts, the Prosecution submitted that the accused ought to be sentenced to imprisonment for life, citing the Court of Appeal’s decision in _Purwanti Parji v PP_ <span class="citation">[2005] 2 SLR 220</span> (“ _Purwanti”_ ). In that decision, the Court of Appeal reiterated the principles stated in _Neo Man Lee v PP_ [1991] SLR 146, where the then Court of Criminal Appeal set out three conditions which would justify a sentence of life imprisonment. They are: 
 
 
  (a) The offence or offences are in themselves grave enough to require a very long sentence. 
@@ -87,7 +87,7 @@ also accepted responsibility by pleading guilty and would have to live with the 
 
 20     Although caning is one of the sentencing options in s 304( _a_ ) of the Penal Code where male accused persons are concerned, it is not imposed in cases where the accused persons have been suffering from some mental impairment. I sympathised with the accused because of his unfortunate mental condition and, in the circumstances of this case, did not think he deserved to be caned. I therefore did not order any caning. 
 
-21     In deciding whether to impose imprisonment for life or for a term of up to ten years, the court has to consider the three factors reiterated in _Purwanti_ , which, incidentally, did not involve an accused with mental impairment. In _PP v Kwok Teng Soon_ [2001] 4 SLR 516, a decision affirmed on appeal in Criminal Appeal No 22 of 2001, I expressed the view that the purpose of the three conditions in _Neo Man Lee v PP_ was not to determine how evil a particular accused person could be but to extrapolate from his condition and his actions the likelihood of a relapse and what the probable consequences might be in such an event. 
+21     In deciding whether to impose imprisonment for life or for a term of up to ten years, the court has to consider the three factors reiterated in _Purwanti_ , which, incidentally, did not involve an accused with mental impairment. In _PP v Kwok Teng Soon_ <span class="citation">[2001] 4 SLR 516</span>, a decision affirmed on appeal in Criminal Appeal No 22 of 2001, I expressed the view that the purpose of the three conditions in _Neo Man Lee v PP_ was not to determine how evil a particular accused person could be but to extrapolate from his condition and his actions the likelihood of a relapse and what the probable consequences might be in such an event. 
 
 22     The medical evidence showed that the accused here has been suffering from schizophrenia from 1988 and that he had persistent auditory hallucination and paranoid delusion despite having received medication, the most recent treatment being three weeks before the date of the offence. He would require long-term treatment and would pose a long-term risk both to himself and to others should he be unable to resist the voices in his head again. 
 

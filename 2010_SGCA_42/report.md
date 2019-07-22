@@ -16,7 +16,7 @@
 
 _Contract_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2010] 2 SLR 896.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2010] 2 SLR 896</span>.] 
 
 1 December 2010 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Contract_
 
 **Introduction** 
 
-1       This is an appeal by Lam Chi Kin David (“the appellant”) against the decision of the Judicial Commissioner (“the JC”) in Suit No 834 of 2008 in dismissing his claim against Deutsche Bank AG, Singapore branch (“the respondent”) for damages for breach of contract, and in giving judgment for the respondent for the sum of US$1,135,239.43 for its counterclaim against the appellant for payment of his outstanding liabilities with interest and costs (see _Lam Chi Kin David v Deutsche Bank AG_ [2010] 2 SLR 896 (“the GD”)). 
+1       This is an appeal by Lam Chi Kin David (“the appellant”) against the decision of the Judicial Commissioner (“the JC”) in Suit No 834 of 2008 in dismissing his claim against Deutsche Bank AG, Singapore branch (“the respondent”) for damages for breach of contract, and in giving judgment for the respondent for the sum of US$1,135,239.43 for its counterclaim against the appellant for payment of his outstanding liabilities with interest and costs (see _Lam Chi Kin David v Deutsche Bank AG_ <span class="citation">[2010] 2 SLR 896</span> (“the GD”)). 
 
 2       The material facts are as follows. In November 2007, the appellant became a private banking client of the respondent. He signed the following agreements with the respondent: 
 
@@ -810,7 +810,7 @@ ROA, Vol III (Part C), at pp 1008 to 1009 and p 1011
 46     Finally, in addition to the defence of promissory estoppel, there was, in our view, another ground on which the appellant would have succeeded in his claim against the respondent if he had 
 
 
-pleaded it. In our view, the respondent’s promise of the Grace Period constituted a variation of cl 2.6 of the Master Agreement (see [23] above) as well as cll 5 and 6 under the section “ _Credit, banking and foreign exchange facilities_ ” of the Service Agreement (see [27] above), with respect to each Transaction of the appellant. The law requires consideration to vary the terms of a contract. The appellant provided consideration when he agreed to do, and did, business with the respondent on those terms – by entering into the relevant FX contracts, which gave both a factual and legal benefit to the respondent (see _Ong Chay Tong & Sons (Pte) Ltd v Ong Hoo Eng_ [2009] 1 SLR(R) 305 and _Gay Choon Ing v Loh Sze Ti Terence Peter and another appeal_ [2009] 2 SLR(R) 332). This made the respondent’s promise binding and had the effect of varying the relevant terms of the Agreements relating to margin calls. 
+pleaded it. In our view, the respondent’s promise of the Grace Period constituted a variation of cl 2.6 of the Master Agreement (see [23] above) as well as cll 5 and 6 under the section “ _Credit, banking and foreign exchange facilities_ ” of the Service Agreement (see [27] above), with respect to each Transaction of the appellant. The law requires consideration to vary the terms of a contract. The appellant provided consideration when he agreed to do, and did, business with the respondent on those terms – by entering into the relevant FX contracts, which gave both a factual and legal benefit to the respondent (see _Ong Chay Tong & Sons (Pte) Ltd v Ong Hoo Eng_ <span class="citation">[2009] 1 SLR(R) 305</span> and _Gay Choon Ing v Loh Sze Ti Terence Peter and another appeal_ <span class="citation">[2009] 2 SLR(R) 332</span>). This made the respondent’s promise binding and had the effect of varying the relevant terms of the Agreements relating to margin calls. 
 
 47     In reliance on the respondent’s promise of the Grace Period, the appellant had also transferred very substantial deposits to the Advisory Account to secure the credit facilities he obtained from the respondent to enter into the very substantial FX contracts. At [6] of the GD, the JC found as follows: 
 

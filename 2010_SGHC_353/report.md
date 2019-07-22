@@ -92,7 +92,7 @@ The plaintiff gave evidence that the cheques in (a) and (b) above were issued by
 
 **My decision** 
 
-7       I turn to consider the pivotal issue of whether a resulting trust arises with respect to the Property given the facts before me. If there is on the evidence before me a resulting trust in favour of the plaintiff, then the Property would not form part of their mother’s estate. In _Lau Siew Kim v Yeo Guan Chye Terence_ [2008] 2 SLR(R) 108 (“ _Lau Siew Kim_ ”), the Singapore Court of Appeal recognised that: 
+7       I turn to consider the pivotal issue of whether a resulting trust arises with respect to the Property given the facts before me. If there is on the evidence before me a resulting trust in favour of the plaintiff, then the Property would not form part of their mother’s estate. In _Lau Siew Kim v Yeo Guan Chye Terence_ <span class="citation">[2008] 2 SLR(R) 108</span> (“ _Lau Siew Kim_ ”), the Singapore Court of Appeal recognised that: 
 
  34 Resulting trusts are presumed to arise in two sets of circumstances. These circumstances were appositely summarised by Lord Browne-Wilkinson in [ Westdeutsche Landesbank Girozentrale v Islington London Borough Council [1996] AC 669] at 708 as follows: 
 

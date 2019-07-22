@@ -16,7 +16,7 @@
 
 _Arbitration_ – _Arbitral Tribunal_ – _Jurisdiction_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 139 and 167 of 2015 and the application in Summons No 2 of 2016 were allowed by the Court of Appeal on 29 September 2016. See [2016] SGCA 57.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 139 and 167 of 2015 and the application in Summons No 2 of 2016 were allowed by the Court of Appeal on 29 September 2016. See <span class="citation">[2016] SGCA 57</span>.] 
 
 20 January 2015 Judgment reserved. 
 
@@ -117,7 +117,7 @@ views of the PRC Government on the same. The second letter dated 9 January 2014 
 
 21     The defendant submits that this application only concerns questions of pure international law because it stems from an investment treaty arbitration which operates on an international plane different from typical international commercial arbitrations. It also argues that a decision on the interpretation of the PRC-Laos BIT would potentially have significant consequences for approximately 130 other BITs to which the PRC is party. 
 
-22     In adopting this position, the defendant acknowledges that the courts may well find justiciable a question of international law that in fact bears on the application of domestic law (see the Singapore High Court decision of _Lee Hsien Loong v Review Publishing Co Ltd and another and another suit_ [2007] 2 SLR(R) 453 (“ _Review Publishing_ ”) at [98]). 
+22     In adopting this position, the defendant acknowledges that the courts may well find justiciable a question of international law that in fact bears on the application of domestic law (see the Singapore High Court decision of _Lee Hsien Loong v Review Publishing Co Ltd and another and another suit_ <span class="citation">[2007] 2 SLR(R) 453</span> (“ _Review Publishing_ ”) at [98]). 
 
 23     However, the defendant attempts to distinguish _Review Publishing_ by pointing out that the court there was only concerned with the procedure to be adopted when private litigants wish to serve the process of the Singapore court on defendants residing in Hong Kong under a treaty concluded between Singapore and the PRC. The defendant further submits that Singapore is not a party to the PRC-Laos BIT and the issues here have nothing to do with Singapore domestic law. 
 
@@ -142,7 +142,7 @@ views of the PRC Government on the same. The second letter dated 9 January 2014 
 
 31     Moreover, the issues raised in this application do not concern the exercise of sovereign or legislative prerogative in matters of high policy such as sovereign immunity, deployment of troops overseas, boundary disputes or recognition of foreign governments (see _Review Publishing_ at [100]). I am only concerned with the legitimacy of the plaintiff’s challenge to the Tribunal’s jurisdiction under s 10 of the IAA which in turn involves an interpretation of the PRC-Laos BIT. Mr Yeo, on behalf of the defendant, raises an alternative argument. He argues that even if the issue here is justiciable, the standard of review is a limited one of deference and respect for the Tribunal. 
 
-32     I am unable to agree with Mr Yeo’s submission because the standard of review under s 10 of the IAA and Art 16(3) of the Model Law is generally regarded as _de novo_ (see the recent Court of Appeal decision of _PT First Media TBK (formerly known as PT Broadband Multimedia TBK) v Astro Nusantara International BV and others and another appeal_ [2014] 1 SLR 372 (“ _Astro_ ”)). In that case, the Court of Appeal affirmed at [162]–[163] the _de novo_ standard of judicial review which entailed a fresh examination of the issue of joinder and jurisdiction decided by the arbitral tribunal in its award on preliminary issues. 
+32     I am unable to agree with Mr Yeo’s submission because the standard of review under s 10 of the IAA and Art 16(3) of the Model Law is generally regarded as _de novo_ (see the recent Court of Appeal decision of _PT First Media TBK (formerly known as PT Broadband Multimedia TBK) v Astro Nusantara International BV and others and another appeal_ <span class="citation">[2014] 1 SLR 372</span> (“ _Astro_ ”)). In that case, the Court of Appeal affirmed at [162]–[163] the _de novo_ standard of judicial review which entailed a fresh examination of the issue of joinder and jurisdiction decided by the arbitral tribunal in its award on preliminary issues. 
 
 33     Mr Yeo attempted to distinguish _Astro_ on the basis that the dispute there was a commercial one unlike the present investor-state arbitration which concerned the interpretation of international 
 
@@ -199,7 +199,7 @@ future” [note: 13] :
 43     The _Ladd v Marshall_ principles do not strictly apply in this application. Section 37(4) of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed) states that the Court of Appeal should not receive further evidence, except in relation to an interlocutory order, unless there are “special 
 
 
-grounds” (see also O 57 r 13 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed)). The expression, “special grounds”, has been judicially interpreted to mean the three conditions of _Ladd v Marshall_ (see the Court of Appeal’s decision in _Lassiter Ann Masters v To Keng Lam (alias Toh Jeanette)_ [2004] 2 SLR(R) 392 (“ _Lassiter Ann Masters_ ”) at [22]). I note that there is no equivalent provision for an originating summons commenced in the High Court or, more specifically, in relation to a review by the High Court of a jurisdictional ruling under s 10 of the IAA. 
+grounds” (see also O 57 r 13 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed)). The expression, “special grounds”, has been judicially interpreted to mean the three conditions of _Ladd v Marshall_ (see the Court of Appeal’s decision in _Lassiter Ann Masters v To Keng Lam (alias Toh Jeanette)_ <span class="citation">[2004] 2 SLR(R) 392</span> (“ _Lassiter Ann Masters_ ”) at [22]). I note that there is no equivalent provision for an originating summons commenced in the High Court or, more specifically, in relation to a review by the High Court of a jurisdictional ruling under s 10 of the IAA. 
 
 44     However, a party does not in my view have a full unconditional power to adduce fresh evidence at will. As observed in _Lassiter Ann Masters_ at [26], the court has discretion whether to admit such evidence and reasonable conditions must be set. In exercising this discretion, I thought it appropriate to refer to the three conditions of the _Ladd v Marshall_ test, with a slightly less stringent first condition (see _Lassiter Ann Masters_ at [24]). Applying these conditions, fresh evidence may be admitted if: 
 

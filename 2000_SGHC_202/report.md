@@ -59,21 +59,21 @@ On 12 March 1998, the plaintiff was riding his motor-cycle along Sims Avenue. Th
 
 _Chang_ 
 
-### Ah Lek v Lim Ah Koon [1999] 1 SLR 82 (refd) 
+### Ah Lek v Lim Ah Koon <span class="citation">[1999] 1 SLR 82</span> (refd) 
 
 ### Davis v Powell Duffryn Associated Collieries Ltd [1942] AC 601 (refd) 
 
 ### Flint v Lovell , [1935] 1 KB 354 (refd) 
 
-### Low Swee Tong v Liew Machinery (Pte) Ltd [1993] 3 SLR 89 (refd) 
+### Low Swee Tong v Liew Machinery (Pte) Ltd <span class="citation">[1993] 3 SLR 89</span> (refd) 
 
 ### Moeliker v Reyrolle & Co Ltd [1977] 1 WLR 132 (refd) 
 
 ### Pritchard v Cobden [1987] 2 WLR 627 (refd) 
 
-### Teo Sing Keng v Sim Ban Kiat [1994] 1 SLR 634 (refd) 
+### Teo Sing Keng v Sim Ban Kiat <span class="citation">[1994] 1 SLR 634</span> (refd) 
 
-### Wee Sia Tian v Long Thik Boon [1996] 3 SLR 513 (folld) 
+### Wee Sia Tian v Long Thik Boon <span class="citation">[1996] 3 SLR 513</span> (folld) 
 
 ## Judgment 
 
@@ -157,7 +157,7 @@ _Discriminating loss of earnings and loss of earning capacity_
 
 ### obtaining other employment. See Moeliker v Reyrolle & Co Ltd [1977] 1 WLR 132. Low Swee Tong v Liew Machinery (Pte) 
 
-### Ltd [1993] 3 SLR 89 and Teo Sing Keng v Sim Ban Kiat [1994] 1 SLR 634. A claim under this head is hugely speculative and 
+### Ltd <span class="citation">[1993] 3 SLR 89</span> and Teo Sing Keng v Sim Ban Kiat <span class="citation">[1994] 1 SLR 634</span>. A claim under this head is hugely speculative and 
 
 difficult to assess. Except when clear evidence is adduced a large amount will not be given under this category. In any event, a claim under this head cannot arise where the injured was working before the accident and suffered a permanent total or partial loss of earnings. 
 
@@ -199,7 +199,7 @@ _The Malaysian factor_
 
 13\. It was contended that as the plaintiff was a Malaysian he could not work in Singapore indefinitely. When considering this matter I noted that the plaintiff was not an unskilled labourer confined to work at a construction site. He had acquired a specialised skill for which there would always be a need in Singapore. Additionally, his employer could not find an equally skilled replacement during his absence. The probabilities were that Singapore would hold out a job for him. In this regard I 
 
-### shared the view of Judith Prakash J in Wee Sia Tian v Long Thik Boon [1996] 3 SLR 513 where she took judicial notice of the 
+### shared the view of Judith Prakash J in Wee Sia Tian v Long Thik Boon <span class="citation">[1996] 3 SLR 513</span> where she took judicial notice of the 
 
 fact that a Malaysian construction worker in Singapore would continue to work here for a good length of time. A skilled worker has a better future than a construction worker in Singapore. 
 

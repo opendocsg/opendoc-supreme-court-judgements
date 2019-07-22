@@ -287,7 +287,7 @@ been convicted earlier, he could have been sentenced to reformative training for
 
 44     The prosecution submitted that there were many aggravating factors. The offences were premeditated and had been planned cunningly and carefully. Although the Accused did not rape any of the victims, he was aware that his accomplices planned to rape. He was also present. The victims were brutally attacked and suffered multiple injuries. He had taken an active role in the planning and execution and was the second oldest of the perpetrators. He had embarked on a crime spree. 
 
-45     The prosecution also submitted that I should not regard the Accused as a first time offender. In _Chen Weixiong Jerriek v PP_ [2003] 2 SLR 334 (“ _Jerrick_ ”), Chief Justice Yong Pung How (“Chief Justice Yong”) said at [17]: 
+45     The prosecution also submitted that I should not regard the Accused as a first time offender. In _Chen Weixiong Jerriek v PP_ <span class="citation">[2003] 2 SLR 334</span> (“ _Jerrick_ ”), Chief Justice Yong Pung How (“Chief Justice Yong”) said at [17]: 
 
  ... I am of the view that it is the prerogative of this court to refuse to consider as a first time offender anyone who has been charged with multiple offences, even if he has no prior convictions. 
 
@@ -298,11 +298,11 @@ been convicted earlier, he could have been sentenced to reformative training for
 47     The prosecution also submitted that in view of many aggravating factors, the court should impose a very high deterrent sentence and order the sentences for the three charges, and not only two as stipulated under s 18 CPC, to run consecutively. 
 
 
-48     In _P Shanmugam v PP_ [2000] 2 SLR 673, Chief Justice Yong referred to s 18 CPC and said at [6]: 
+48     In _P Shanmugam v PP_ <span class="citation">[2000] 2 SLR 673</span>, Chief Justice Yong referred to s 18 CPC and said at [6]: 
 
- ... In such a case, the sentencing court is invested with the direction [ sic ] as to which and how many of the sentences ought to run consecutively, and there is no absolute rule precluding the court from making more than two sentences consecutive: Maideen Pillai v PP [1996] 1 SLR 161 at 165... 
+ ... In such a case, the sentencing court is invested with the direction [ sic ] as to which and how many of the sentences ought to run consecutively, and there is no absolute rule precluding the court from making more than two sentences consecutive: Maideen Pillai v PP <span class="citation">[1996] 1 SLR 161</span> at 165... 
 
-49     However, I note that in _Maideen Pillai v PP_ [1996] 1 SLR 161, Chief Justice Yong also added at 165 that: 
+49     However, I note that in _Maideen Pillai v PP_ <span class="citation">[1996] 1 SLR 161</span>, Chief Justice Yong also added at 165 that: 
 
  Of course, a decision to go beyond the stated minimum of two consecutive sentences should be taken only in exceptional cases, after careful consideration of the facts of the case as well as the relevant guiding principles. As also pointed out in Kanagasuntharam v PP , the sentencing court, in exercising its discretion to impose consecutive sentences, has regard to certain common law principles, namely, the one transaction rule and the totality principle. 
 
@@ -310,7 +310,7 @@ been convicted earlier, he could have been sentenced to reformative training for
 
 51     For an offence of gang robbery under s 395, B1 was sentenced to seven years’ imprisonment and 12 strokes of the cane. 
 
-52     In _Robert Anak Imbak v PP_ [2002] SGDC 326, the accused was 18 years of age. He pleaded guilty to a charge of gang robbery under s 395 with another charge of gang robbery being taken into consideration. On the day of the incident, the accused and his accomplices were having drinks at a park when they spotted two men walking towards them. One of the accomplices suggested robbing them. The others agreed and they surrounded and attacked the victims and relieved them of their wallets and handphones. The accused had no antecedents. The District Court did not find the accused’s age to be of substantial mitigating value in itself and sentenced him to seven years’ imprisonment and 12 strokes of the cane. 
+52     In _Robert Anak Imbak v PP_ <span class="citation">[2002] SGDC 326</span>, the accused was 18 years of age. He pleaded guilty to a charge of gang robbery under s 395 with another charge of gang robbery being taken into consideration. On the day of the incident, the accused and his accomplices were having drinks at a park when they spotted two men walking towards them. One of the accomplices suggested robbing them. The others agreed and they surrounded and attacked the victims and relieved them of their wallets and handphones. The accused had no antecedents. The District Court did not find the accused’s age to be of substantial mitigating value in itself and sentenced him to seven years’ imprisonment and 12 strokes of the cane. 
 
 53     In _Ramachandran s/o Arulmani v PP_ (MA 247/2000/01), the accused pleaded guilty to a charge of robbery with common intention under s 392 read with s 34. The victim’s head was covered with a jacket and she was assaulted. She was robbed of cash and valuables amounting to $3,658. The accused there had various antecedents for theft, theft of motor vehicles, desertion, traffic offences and affray. He also pleaded guilty to a charge of corruption which was committed when he offered an accomplice a bribe to refrain from implicating him in the robbery. He said he had been inebriated and was not the initiator of the robbery. He was sentenced to five years’ imprisonment and 12 strokes for 
 

@@ -324,7 +324,7 @@ The general principle is stated in the highly persuasive decision of the House o
 
  The general principle for the assessment of damages is compensatory, ie that the innocent party is to be placed, as far as money can do so, in the same position as if the contract had been performed. Where the contract is one of sale, this principle normally leads to assessment of damages as at the date of the breach a principle recognized and embodied in s 51 of the Sale of Goods Act 1893. But this is not an absolute rule: if to follow it would give rise to injustice, the court has power to fix such other date as may be appropriate in the circumstances. 
 
-The defendants submit that the local position is as follows. In the case of **City Securities Pte Ltd v Associated Management Services Pte Ltd** [1996] 1 SLR 727 , the Court of Appeal followed a decision of the Privy Counsel and at p 733E stated: 
+The defendants submit that the local position is as follows. In the case of **City Securities Pte Ltd v Associated Management Services Pte Ltd** <span class="citation">[1996] 1 SLR 727</span> , the Court of Appeal followed a decision of the Privy Counsel and at p 733E stated: 
 
  In a contract for the sale of shares the measure of damages upon a breach by the purchaser is the difference between the contract price and the market price at the date of the breach, with an obligation on the part of the seller to mitigate the damages by getting the best price he can upon that date: Akas Jamal v Moolla Dawood, Sons & Co [1916] 1 AC 175, at p 179. 
 

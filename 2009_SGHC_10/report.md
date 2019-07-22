@@ -122,9 +122,9 @@ and he went on to elaborate that in deciding whether there is abuse, the judgmen
 
  a broad, merits-based judgment which takes account of the public and private interests involved and also takes account of all the facts of the case, focusing attention on the crucial question whether, in all the circumstances, a party is misusing or abusing the process of the court by seeking to raise before it the issue which could have been raised before. 
 
-This was endorsed by the other Law Lords in that case, and applied in Singapore by the Court of Appeal in _Lai Swee Lin Linda v Attorney-General_ [2006] 2 SLR 563. 
+This was endorsed by the other Law Lords in that case, and applied in Singapore by the Court of Appeal in _Lai Swee Lin Linda v Attorney-General_ <span class="citation">[2006] 2 SLR 563</span>. 
 
-23     In _Goh Nellie v Goh Lian Teck and Others_ [2007] 1 SLR 453 (“ _Nellie Goh_ ”), Sundaresh Menon JC aptly stated at [53], the position to be that: 
+23     In _Goh Nellie v Goh Lian Teck and Others_ <span class="citation">[2007] 1 SLR 453</span> (“ _Nellie Goh_ ”), Sundaresh Menon JC aptly stated at [53], the position to be that: 
 
  a court should determine whether there is an abuse of process by looking at all the circumstances of the case, including whether the later proceedings in substance is nothing more than a collateral attack upon the previous decision; whether there is fresh evidence that might warrant re-litigation; whether there are bona fide reasons why an issue that ought to have been raised in the earlier action was not; and whether there are some other special circumstances that might justify allowing the case to proceed. The absence or existence of these enumerated factors (which are not intended to be exhaustive) is not decisive. In determining whether the ambient circumstances of the case give rise to an abuse of process, the court should not adopt an inflexible or unyielding attitude but should remain guided by the balance to be found in the tension between the demands of ensuring that a litigant who has a genuine claim is allowed to press his case in court and recognising that there is a point beyond which repeated litigation would be unduly oppressive to the defendant. 
 

@@ -168,7 +168,7 @@ unsatisfactory. When Sgt Tan interviewed him, Sgt Tan made a contemporaneous not
 
  [I]gnorance is a defence only when there is no reason for suspicion and no right and opportunity of examination ... 
 
-_- Yeo Choon Huat v PP_ [1998] 1 SLR 217 at [22] and his defence cannot stand. He was therefore found guilty and convicted on the charge he faced. 
+_- Yeo Choon Huat v PP_ <span class="citation">[1998] 1 SLR 217</span> at [22] and his defence cannot stand. He was therefore found guilty and convicted on the charge he faced. 
 
 **The second accused’s defence** 
 

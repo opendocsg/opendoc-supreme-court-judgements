@@ -76,7 +76,7 @@ Mr S K Kumar, rose to make a preliminary objection to the charges. Mr Kumar obje
 
  Where in any proceedings in a subordinate court a question arises as to the interpretation or effect of any provision of the Constitution, the court hearing the proceedings may stay the proceedings on such terms as may be just to await the decision of the question on the reference to the High Court. 
 
-The DJ was of the view that s 56A(1) did not make it mandatory for a subordinate court to refer a case to the High Court whenever a Constitutional question arose. He held that the subordinate court retained the discretion to decide whether it should so refer after considering the merits of the particular case before it. As held in _Chan Hiang Leng Colin and Others v PP_ [1994] 3 SLR 662 at [10], this was to prevent unnecessary stays of proceedings each time a party purported to raise a Constitutional question. The DJ also held that case law had established that a subordinate court could decline to refer a case to the High Court if the issues in question were not new or difficult points of law or were not of sufficient importance (see _Liong Kok Keng v PP_ [1996] 3 SLR 263, _Kok Hoong Tan Dennis and Others v PP_ [1997] 1 SLR 123 and _Ang Cheng Hai & Others v PP_ [1995] SGHC 97). 
+The DJ was of the view that s 56A(1) did not make it mandatory for a subordinate court to refer a case to the High Court whenever a Constitutional question arose. He held that the subordinate court retained the discretion to decide whether it should so refer after considering the merits of the particular case before it. As held in _Chan Hiang Leng Colin and Others v PP_ <span class="citation">[1994] 3 SLR 662</span> at [10], this was to prevent unnecessary stays of proceedings each time a party purported to raise a Constitutional question. The DJ also held that case law had established that a subordinate court could decline to refer a case to the High Court if the issues in question were not new or difficult points of law or were not of sufficient importance (see _Liong Kok Keng v PP_ <span class="citation">[1996] 3 SLR 263</span>, _Kok Hoong Tan Dennis and Others v PP_ <span class="citation">[1997] 1 SLR 123</span> and _Ang Cheng Hai & Others v PP_ <span class="citation">[1995] SGHC 97</span>). 
 
 5       The constitutional question put forward by Mr Kumar was: 
 
@@ -109,7 +109,7 @@ Mr Kumar argued that the Ministerial order classifying Subutex as a controlled d
 
  (ii) Section 33A of the MDA did not require the accused to have abused the same type of drug on a previous occasion before he was liable for enhanced punishment. 
 
- (iii) An accused could be liable for enhanced punishment under legislation targeted at repeat offenders, even if the subsequent offence was defined more widely than the predicate offence on which an accused had previously been convicted. This proposition was supported by Teo Kwee Chuan v PP [1993] 3 SLR 908 (on the Road Traffic Act (Cap 276)) and by PP v Chen Chih Sheng and another [1999] 1 SLR 714 (on the then Employment of Foreign Workers Act (Cap 91A)). 
+ (iii) An accused could be liable for enhanced punishment under legislation targeted at repeat offenders, even if the subsequent offence was defined more widely than the predicate offence on which an accused had previously been convicted. This proposition was supported by Teo Kwee Chuan v PP <span class="citation">[1993] 3 SLR 908</span> (on the Road Traffic Act (Cap 276)) and by PP v Chen Chih Sheng and another <span class="citation">[1999] 1 SLR 714</span> (on the then Employment of Foreign Workers Act (Cap 91A)). 
 
  (iv) Legislative intent to expeditiously and effectively curb Subutex abuse in Singapore would be defeated if s 33A of the MDA did not apply to first-time Subutex abusers. 
 
@@ -136,7 +136,7 @@ Mr Kumar argued that the Ministerial order classifying Subutex as a controlled d
 
 9       A subordinate court has the discretion whether or not to stay proceedings when an application is made before it under s 56A of the SCA. This discretion, properly exercised after judicious consideration of the merits of the application, will prevent unnecessary delay and possible abuse every time a party in the proceedings purports to raise an issue of Constitutional interpretation or effect. To merit a reference under s 56A, the applicant must show that there are new and difficult legal issues involving the Constitution which have not been previously dealt with by the superior courts. It is not sufficient merely to set out a new factual situation because new factual permutations will always arise. Where questions of law have already been decided or principles relating to an Article in the Constitution have been set out by the superior courts, a subordinate court need not stay proceedings under s 56A but should proceed to apply the relevant case law or extrapolate from the principles enunciated to reach a proper conclusion on the facts before it. 
 
-10     There is a strong presumption of constitutional validity of written law. The appellants bear the burden of placing all relevant materials before the court to show that a statutory provision or the exercise of the power under it is arbitrary and unsupportable (see the Court of Appeal’s decision in _PP v Taw Cheng Kong_ [1998] 2 SLR 410 at [60]). The appellants have not adduced evidence to rebut the strong presumption of constitutional validity of the classification of Subutex as a controlled drug and a specified drug. 
+10     There is a strong presumption of constitutional validity of written law. The appellants bear the burden of placing all relevant materials before the court to show that a statutory provision or the exercise of the power under it is arbitrary and unsupportable (see the Court of Appeal’s decision in _PP v Taw Cheng Kong_ <span class="citation">[1998] 2 SLR 410</span> at [60]). The appellants have not adduced evidence to rebut the strong presumption of constitutional validity of the classification of Subutex as a controlled drug and a specified drug. 
 
 11     The decision to classify Subutex in this manner was made after careful consideration of its effects and abuse and with due regard to existing Subutex users to ensure that they had the opportunity to undergo rehabilitative treatment. It was explained in Parliament that it was initially thought that Subutex could be part of the overall scheme to help heroin abusers kick their addiction. When Subutex was introduced here, six countries had already done so. When the Central Narcotics Bureau reported that there was abuse of Subutex, the government tried to arrest the abuse by administrative measures and guidelines issued to the medical profession (which dispensed Subutex). It was only when such measures could not stop the abuse that the decision was taken to make Subutex a controlled drug under the MDA. 
 
@@ -212,7 +212,7 @@ Chan J decided in the circumstances of that case to refer four questions to the 
 
 The court also endorsed the views expressed by Chan J, including the passage cited at [23] above. 
 
-25     Similarly, in _Ng Ai Tiong v PP_ [2000] 2 SLR 358, Yong Pung How CJ, in dismissing an application under s 60 of the SCJA, said (at [8] and [10]): 
+25     Similarly, in _Ng Ai Tiong v PP_ <span class="citation">[2000] 2 SLR 358</span>, Yong Pung How CJ, in dismissing an application under s 60 of the SCJA, said (at [8] and [10]): 
 
  8 ... Although s 60 of the SCJA was repealed and re-enacted by the Supreme Court of Judicature (Amendment) Act 1998 (No 43 of 1998), it is obvious that the essence of s 60(1) has remained unchanged and therefore the principles laid down in the previous authorities should nevertheless remain applicable to the present case. 
 
@@ -222,7 +222,7 @@ The court also endorsed the views expressed by Chan J, including the passage cit
 
 It was also held (at [9] in that case) that the question of law must be one of public interest and not of mere personal importance to the parties alone. 
 
-26     In _Cigar Affair v PP_ [2005] 3 SLR 648 (at [8]), Woo Bih Li J distilled from the case authorities that one of the principles pertaining to s 60 SCJA is: 
+26     In _Cigar Affair v PP_ <span class="citation">[2005] 3 SLR 648</span> (at [8]), Woo Bih Li J distilled from the case authorities that one of the principles pertaining to s 60 SCJA is: 
 
  A question of law does not constitute a question of public interest just because it involves the construction or interpretation of a statutory provision which is likely to apply to other members of the public. 
 

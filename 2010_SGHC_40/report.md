@@ -16,7 +16,7 @@
 
 _Criminal Law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal 4 of 2010 was dismissed by the Court of Appeal on 21 October 2010. See [2011] SGCA 5.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal 4 of 2010 was dismissed by the Court of Appeal on 21 October 2010. See <span class="citation">[2011] SGCA 5</span>.] 
 
 4 February 2010 Judgment reserved. 
 

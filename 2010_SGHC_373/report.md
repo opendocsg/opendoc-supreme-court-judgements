@@ -327,7 +327,7 @@ moneylending unenforceable under the MLA 1985 as the plaintiff was not a license
 
 **_First Issue –Did the issues form the subject matter of a valid and binding compromise agreement?_** 
 
-40     The overarching question in the present matter is whether the issues raised by the defendants were the subject matter of a compromise agreement; and, if so, what was the _consequence_ of compromising those issues. In determining the definition of “compromise”, reference is made to the Court of Appeal decision _Gay Choon Ing v Loh Sze Ti Terence Peter_ and another appeal [2009] 2 SLR(R) 332 (“ _Gay Choon Ing_ ”) where the observations of David Foskett, _The Law and Practice of Compromise_ (Sweet & Maxwell, 6th Ed, 2005) (“ _Foskett_ ”) at para 1-01 were endorsed (at [41]): 
+40     The overarching question in the present matter is whether the issues raised by the defendants were the subject matter of a compromise agreement; and, if so, what was the _consequence_ of compromising those issues. In determining the definition of “compromise”, reference is made to the Court of Appeal decision _Gay Choon Ing v Loh Sze Ti Terence Peter_ and another appeal <span class="citation">[2009] 2 SLR(R) 332</span> (“ _Gay Choon Ing_ ”) where the observations of David Foskett, _The Law and Practice of Compromise_ (Sweet & Maxwell, 6th Ed, 2005) (“ _Foskett_ ”) at para 1-01 were endorsed (at [41]): 
 
  Compromise can be defined as the settlement of dispute by mutual concession , its essential 
 
@@ -338,7 +338,7 @@ The Court of Appeal (at [43]) clarified that a compromise is essentially based o
 
  ... where parties have demonstrated that they intend to dispose of their dispute by reaching an amicable resolution agreeable to both parties, this compromise or settlement will be recognised and given effect to by the courts. 
 
-41     The High Court decision in _Info-communications Development Authority of Singapore v Singapore Telecommunications Ltd_ [2002] 2 SLR(R) 136 was also endorsed by the Court of Appeal at [44], where it was noted that Lai Kew Chai J had cited _Foskett’s_ following observations: 
+41     The High Court decision in _Info-communications Development Authority of Singapore v Singapore Telecommunications Ltd_ <span class="citation">[2002] 2 SLR(R) 136</span> was also endorsed by the Court of Appeal at [44], where it was noted that Lai Kew Chai J had cited _Foskett’s_ following observations: 
 
  A compromise is little more than a species of contract. What distinguishes it from other contracts is the requirement of a dispute or differences between parties which are eventually settled. In Foskett, The Law and Practice of Compromise it is written (at p 5): 
 
@@ -408,13 +408,13 @@ _The argument on economic duress_
 
 In my view, there is not an iota of evidence of any form of illegitimate pressure placed by the plaintiff. 
 
-51     In any event, even if I were to accept the defendants’ allegations that Chan and Sern had threatened the second defendant that the plaintiff would take legal action if the defendants failed to make payment of the principal sum, that alone is insufficient to amount to “illegitimate pressure”. It has been observed in _Chitty on Contracts_ , vol 1 (Sweet & Maxwell, 30th Ed, 2009) at para 7(endorsed in _Shunmugam Jayakumar v Jeyaretnam Joshua Benjamin_ [1996] 2 SLR(R) 658 at [51] (“ _Shunmugam_ ”); also see _Miles v New Zealand Alford Estate Company_ (1886) 32 Ch D 266 and _Jayawickreme v Amarsuriya (since deceased)_ [1918] AC 869) that: 
+51     In any event, even if I were to accept the defendants’ allegations that Chan and Sern had threatened the second defendant that the plaintiff would take legal action if the defendants failed to make payment of the principal sum, that alone is insufficient to amount to “illegitimate pressure”. It has been observed in _Chitty on Contracts_ , vol 1 (Sweet & Maxwell, 30th Ed, 2009) at para 7(endorsed in _Shunmugam Jayakumar v Jeyaretnam Joshua Benjamin_ <span class="citation">[1996] 2 SLR(R) 658</span> at [51] (“ _Shunmugam_ ”); also see _Miles v New Zealand Alford Estate Company_ (1886) 32 Ch D 266 and _Jayawickreme v Amarsuriya (since deceased)_ [1918] AC 869) that: 
 
  Since recourse to law is the remedy for redress provided by the law itself, it is obvious that prima facie a threat to enforce one’s legal rights by instituting civil proceedings cannot be an unlawful or wrongful threat. Consequently a contract which is obtained by means of such a threat must prima facie be valid, and cannot be impeached on grounds of duress. So an ordinary bona fide compromise is clearly a valid contract even though exacted under threats to bring (or defend) legal proceedings. ... Even a threat to bring proceedings where there is no ground of action in law is prima facie not an unlawful threat, at least where the threat is made bona fide , and is not manifestly frivolous or vexatious. 
 
 _The argument on failure of consideration_ 
 
-52     The defendants next argued that there had been a total failure of consideration to form a valid settlement agreement. The argument ignores the fact that the plaintiff could have sued the defendants to enforce its rights under the CBA but refrained from so doing as the parties had entered into the settlement agreement. It is established law that forbearance to sue constitutes sufficient consideration: see the Court of Appeal decisions of _Ang Sin Hock v Khoo Eng Lim_ [2010] 3 SLR 179 at [71]; _Sea-Land Service Inc v Cheong Fook Chee Vincent_ [1994] 3 SLR(R) 250; and the High Court decisions of _Imperial Steel Drum Manufacturers Sdn Bhd v Wong Kin Heng_ [1997] 1 SLR(R) 297; _Hongkong & Shanghai Banking Corp Ltd v Jurong Engineering Ltd_ [2000] 1 SLR(R) 204. 
+52     The defendants next argued that there had been a total failure of consideration to form a valid settlement agreement. The argument ignores the fact that the plaintiff could have sued the defendants to enforce its rights under the CBA but refrained from so doing as the parties had entered into the settlement agreement. It is established law that forbearance to sue constitutes sufficient consideration: see the Court of Appeal decisions of _Ang Sin Hock v Khoo Eng Lim_ <span class="citation">[2010] 3 SLR 179</span> at [71]; _Sea-Land Service Inc v Cheong Fook Chee Vincent_ <span class="citation">[1994] 3 SLR(R) 250</span>; and the High Court decisions of _Imperial Steel Drum Manufacturers Sdn Bhd v Wong Kin Heng_ <span class="citation">[1997] 1 SLR(R) 297</span>; _Hongkong & Shanghai Banking Corp Ltd v Jurong Engineering Ltd_ <span class="citation">[2000] 1 SLR(R) 204</span>. 
 
 **_Second issue – What is the effect of the compromise agreement?_** 
 
@@ -441,7 +441,7 @@ _The argument on failure of consideration_
 
 55     These principles were accepted by the Court of Appeal in _Gay Choon Ing_ ([40] _supra_ ) at [54] and [56]: 
 
- 54 Once an agreement has been established ... that concludes the matter. In the Singapore High Court decision of Tan Kee v The Titular Roman Catholic Archbishop of Singapore [1997] SGHC 281, for example, G P Selvam J observed, as follows (at [31]): 
+ 54 Once an agreement has been established ... that concludes the matter. In the Singapore High Court decision of Tan Kee v The Titular Roman Catholic Archbishop of Singapore <span class="citation">[1997] SGHC 281</span>, for example, G P Selvam J observed, as follows (at [31]): 
 
  A compromise is a settlement agreement arrived at, either in court or out of court, either 
 
@@ -450,13 +450,13 @@ _The argument on failure of consideration_
 
  ... 
 
- 56 Indeed, the objective nature of the entire inquiry has been underscored in many cases. For example, in the decision of this court in Aircharter World Pte Ltd v Kontena Nasional Bhd [1999] 2 SLR(R) 440, M Karthigesu JA noted (at [30]) that: 
+ 56 Indeed, the objective nature of the entire inquiry has been underscored in many cases. For example, in the decision of this court in Aircharter World Pte Ltd v Kontena Nasional Bhd <span class="citation">[1999] 2 SLR(R) 440</span>, M Karthigesu JA noted (at [30]) that: 
 
  Under this test [for determining whether the parties have reached an agreement], once the parties have to all outward appearances agreed in the same terms on the same subjectmatter, then neither can, generally, rely on some unexpressed qualification or reservation to show that he had not in fact agreed to the terms to which he had appeared to agree. Such subjective reservations of one party, therefore, do not prevent the formation of a contract. 
 
  [emphasis in original] 
 
-56     The same view was held in _Lee Kuan Yew v Chee Soon Juan_ [2003] 3 SLR(R) 8 at [25]: 
+56     The same view was held in _Lee Kuan Yew v Chee Soon Juan_ <span class="citation">[2003] 3 SLR(R) 8</span> at [25]: 
 
  The courts are bound to scrutinise with care any attempt by a disputant to renege a contract of compromise on the ground that it is unenforceable for some reason. As the editors of Chitty on Contracts, Vol 1 (28th Ed, 1999) state at para 17-013, ‘[t]here is a manifestly obvious public policy in favour of encouragement and enforcement of compromises of disputes which the parties themselves have agreed to’. The editors further comment at para 23-013 that: 
 
@@ -761,14 +761,14 @@ confused when she gave the answer (under cross-examination that the plaintiff ne
 
 However, there is no need for conjecture. Even assuming that the CBA was drafted by the plaintiff’s lawyer to forestall any allegation that the loan was a moneylending transaction, we would still need to examine the facts to see whether, shorn of the convertibility feature, the transaction indeed breached the MLA 1985. 
 
-77     In this regard, it must be remembered that the objective of the MLA 1985 is not to prohibit legitimate commercial transactions as emphasised in the decision of _City Hardware Pte Ltd v Kenrich Electronics Pte Ltd_ [2005] 1 SLR(R) 733 at [47] (“ _City Hardware_ ”): 
+77     In this regard, it must be remembered that the objective of the MLA 1985 is not to prohibit legitimate commercial transactions as emphasised in the decision of _City Hardware Pte Ltd v Kenrich Electronics Pte Ltd_ <span class="citation">[2005] 1 SLR(R) 733</span> at [47] (“ _City Hardware_ ”): 
 
  The defence of moneylending is often invoked in Singapore by unmeritorious defendants who are desperate to stave off their financial woes. Such defendants should not regard the MLA as a legal panacea. It should be viewed as a scheme of social legislation designed to regulate rapacious and predatory conduct by unscrupulous unlicensed moneylenders. Its pro-consumer protection ethos was never intended to impede legitimate commercial intercourse or to sterilise the flow of money. It is not meant to curtail the legitimate financial activity of commercial entities that are capable 
 
 
  of making considered business decisions. The court has always taken and will continue to take a pragmatic approach in assessing situations when this defence is raised. The MLA is not invariably contravened in transactions where the object of the transaction is to raise money. In the final analysis, the economic objective of an arrangement to provide credit should not be confused with its legal nature. 
 
-78     In any event, given that the plaintiff had indisputably made only one loan, there was insufficient evidence adduced by the defendants to establish a “system and continuity” which one would expect to see in the alleged moneylending business (see _Ang Eng Thong v Lee Kiam Hong_ [1998] SGHC 64 at [21]; _Mak Chik Lun v Loh Kim Her_ [2003] 4 SLR(R) 338 at [11]; and _Agus Anwar v Orion Oil Ltd_ [2010] SGHC 6). Neither is there sufficient evidence, from the mere fact of a one-time loan, to find that the plaintiff was ready and willing to lend money to “all and sundry” (see _Litchfield v Dreyfus_ [1906] 1 KB 584 at 589). That said, there is _nothing in principle_ to prevent a court from finding that even a one-time loan could constitute a moneylending business if there was sufficient evidence to support such a finding. A single loan is sufficient to give rise to a _rebuttable_ presumption that the lender is a _moneylender_ under s 3 of the MLA 1985. Ultimately, whether a person is a moneylender and whether there exists a moneylending business are questions of fact: see _City Hardware_ ([77] _supra_ ) at [24]. The arrangements involved must be considered in totality to determine the substance of the transaction: see _City Hardware_ at [24] and _Nissho Iwai International (Singapore) Pte Ltd v Kohinoor Impex Pte Ltd_ [1995] 2 SLR(R) 170 at [13]. On an overall view, taking into account all the facts and circumstances, I am of the view that there was a genuine commercial purpose for which the CBA was entered into. The defendants’ contention is therefore dismissed. 
+78     In any event, given that the plaintiff had indisputably made only one loan, there was insufficient evidence adduced by the defendants to establish a “system and continuity” which one would expect to see in the alleged moneylending business (see _Ang Eng Thong v Lee Kiam Hong_ <span class="citation">[1998] SGHC 64</span> at [21]; _Mak Chik Lun v Loh Kim Her_ <span class="citation">[2003] 4 SLR(R) 338</span> at [11]; and _Agus Anwar v Orion Oil Ltd_ <span class="citation">[2010] SGHC 6</span>). Neither is there sufficient evidence, from the mere fact of a one-time loan, to find that the plaintiff was ready and willing to lend money to “all and sundry” (see _Litchfield v Dreyfus_ [1906] 1 KB 584 at 589). That said, there is _nothing in principle_ to prevent a court from finding that even a one-time loan could constitute a moneylending business if there was sufficient evidence to support such a finding. A single loan is sufficient to give rise to a _rebuttable_ presumption that the lender is a _moneylender_ under s 3 of the MLA 1985. Ultimately, whether a person is a moneylender and whether there exists a moneylending business are questions of fact: see _City Hardware_ ([77] _supra_ ) at [24]. The arrangements involved must be considered in totality to determine the substance of the transaction: see _City Hardware_ at [24] and _Nissho Iwai International (Singapore) Pte Ltd v Kohinoor Impex Pte Ltd_ <span class="citation">[1995] 2 SLR(R) 170</span> at [13]. On an overall view, taking into account all the facts and circumstances, I am of the view that there was a genuine commercial purpose for which the CBA was entered into. The defendants’ contention is therefore dismissed. 
 
 79     The defendants made a further submission. They argued that the sum of $3m (claimed by the plaintiff as interest) was “exorbitant”. That can be readily dismissed. The plaintiff’s claim for the sum of $3m as “interest” was founded upon cl 18 of the CBA which states as follows: 
 

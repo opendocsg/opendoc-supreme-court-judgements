@@ -447,7 +447,7 @@ A The name together with the narration should make things more – make more cle
  [note: 26] 
 
 
-citing the Court of Appeal judgment in _Caltong (Australia) Pty Ltd and Another v Tong Tien See Construction Pte Ltd (in liquidation) and another appeal_ [2002] 3 SLR 241 at [31]: 
+citing the Court of Appeal judgment in _Caltong (Australia) Pty Ltd and Another v Tong Tien See Construction Pte Ltd (in liquidation) and another appeal_ <span class="citation">[2002] 3 SLR 241</span> at [31]: 
 
  31 To be liable for knowing receipt which would render the recipient a constructive trustee, three elements must be proved, and in the words of Lord Hoffmann in El Ajou v Dollar Land Holdings [1994] 2 All ER 685 at 700; [1994] 1 BCLC 464 at 478: 
 
@@ -455,7 +455,7 @@ citing the Court of Appeal judgment in _Caltong (Australia) Pty Ltd and Another 
 
 and emphasising that as the funds remitted from the accounts of GB and Mr Comboni were never subjected to or impressed with a trust, there can be no question of knowledge of a breach of trust. 
 
-50     However, the defendant acknowledged that the strict requirement does not always apply. The defendant accepted that knowledge of a breach of trust is not a necessity if a remedial constructive trust is found against the defendant. This was explained by the Court of Appeal in _Ching Mun Fong(executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit_ [2001] 3 SLR 10 at [34] that: 
+50     However, the defendant acknowledged that the strict requirement does not always apply. The defendant accepted that knowledge of a breach of trust is not a necessity if a remedial constructive trust is found against the defendant. This was explained by the Court of Appeal in _Ching Mun Fong(executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit_ <span class="citation">[2001] 3 SLR 10</span> at [34] that: 
 
  A remedial constructive trust arises “ where the court imposes a constructive trust de novo on assets which are not subject to any pre-existing trust as a means of granting equitable relief in a case where it considers just that restitution should be made ” (per Slade LJ in Metall und Rohstoff AG v Donaldson Lufkin & Jenrette Inc [1990] 1 QB 391 at 478; [1989] 3 All ER 14 at 56. 
 
@@ -496,7 +496,7 @@ and submitted that:
 
  ... in disregarding its own system of 2 October 2003 requiring the SWIFT messages from all 3rd party remittances to state both the name of the Nigerian customer and the narration specifying the purpose of the payment, the Defendant received tainted 3rd party funds (including 3 remittances from the Plaintiffs) with the knowledge, actual or constructive, that these funds could be the proceeds of fraud perpetrated on the 3rd party remitters. The cases establish that in these circumstances, the Defendant cannot in good conscience retain the Plaintiffs’ monies. 
 
-56     The Court of Appeal in _Rajabali Jumabhoy & Ors v Ameerali R Jumabhoy & Ors_ [1998] 2 SLR 439 discussed the concept of a constructive trust. LP Thean JA in delivering the judgment of the court noted at [107] that: 
+56     The Court of Appeal in _Rajabali Jumabhoy & Ors v Ameerali R Jumabhoy & Ors_ <span class="citation">[1998] 2 SLR 439</span> discussed the concept of a constructive trust. LP Thean JA in delivering the judgment of the court noted at [107] that: 
 
  There is no clear definition of a constructive trust. The learned authors of Snell's Equity (29th Ed) define a constructive trust at p 192 as follow: 
 

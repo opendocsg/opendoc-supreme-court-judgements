@@ -79,11 +79,11 @@ _Appeal against Sentence_
 17     I disagreed. In fact, I felt that a seven year sentence of corrective training would be inadequate for a character like Ravichander. 
 
 
-18     The principal aim of corrective training is, as the name suggests, to reform the prisoner who is sentenced to undergo that regime. Under s 12(1) of the Criminal Procedure Code, the Court must be "satisfied that it is expedient with a view to his reformation and the prevention of crime that the offender should receive training of a corrective character for a substantial period of time". In _Kua Hoon Chua v PP_ [1995] 2 SLR 386 at 389, I said: 
+18     The principal aim of corrective training is, as the name suggests, to reform the prisoner who is sentenced to undergo that regime. Under s 12(1) of the Criminal Procedure Code, the Court must be "satisfied that it is expedient with a view to his reformation and the prevention of crime that the offender should receive training of a corrective character for a substantial period of time". In _Kua Hoon Chua v PP_ <span class="citation">[1995] 2 SLR 386</span> at 389, I said: 
 
  ... the principal aim of corrective training is to turn an offender away from the easy allure of crime by putting him through a regime of discipline and by providing him with certain work skills. 
 
-19     In _PP v Wong Wing Hung_ [1999] 4 SLR 329 at 333, I also made the following remark: 
+19     In _PP v Wong Wing Hung_ <span class="citation">[1999] 4 SLR 329</span> at 333, I also made the following remark: 
 
  ... corrective training is only appropriate and suitable where the offender shows that he is capable of reform and can be corrected, so to speak, and prevented from committing further crime. 
 

@@ -49,7 +49,7 @@ sum of $20,000 to be furnished by An. The Deputy Registrar ordered An to furnish
 
  then, if, having regard to all the circumstances of the case, the Court thinks it just to do so, it may order the plaintiff to give such security for the defendant’s costs of the action or other proceeding as it thinks just. 
 
-9       It was not disputed that An is ordinarily resident out of the jurisdiction. However, it is clear that security for costs need not be ordered merely because a plaintiff is a foreigner with no address or assets within the jurisdiction. In _Jurong Town Corp v Wishing Star Ltd_ [2004] 2 SLR 427, Chao Hick Tin JA, who delivered the judgment of the Court of Appeal explained at [14] as follows: 
+9       It was not disputed that An is ordinarily resident out of the jurisdiction. However, it is clear that security for costs need not be ordered merely because a plaintiff is a foreigner with no address or assets within the jurisdiction. In _Jurong Town Corp v Wishing Star Ltd_ <span class="citation">[2004] 2 SLR 427</span>, Chao Hick Tin JA, who delivered the judgment of the Court of Appeal explained at [14] as follows: 
 
  It is settled law that it is not an inflexible or rigid rule that a plaintiff resident abroad should provide security for costs. The court has a complete discretion in the matter: see Keary Developments Ltd v Tarmac Construction Ltd [1995] 3 All ER 534. It seems to us that under r 1(1)(a), once the pre-condition, namely, being “ordinarily resident out of the jurisdiction”, is satisfied, the court will consider all the circumstances to determine whether it is just that security should be ordered. There is no presumption in favour of, or against, a grant. The ultimate decision is in the discretion of the court, after balancing the competing factors. No objective criteria can ever be laid down as to the weight any particular factor should be accorded. It would depend on the fact situation. Where the court is of the view that the circumstances are evenly balanced it would ordinarily be just to order security against a foreign plaintiff. 
 
@@ -57,7 +57,7 @@ sum of $20,000 to be furnished by An. The Deputy Registrar ordered An to furnish
 
  Under [O 23 r 1(1)(a)] it seems to me that I have an entirely general discretion either to award or refuse security, having regard to all the circumstances of the case. However, it is clear on the authorities that, if other matters are equal, it is normally just to exercise that discretion by ordering security against a non-resident plaintiff. The question is what, in all the circumstances of the case, is the just answer. 
 
-11     In _Omar Ali bin Mohd v Syed Jafaralsadeg bin Abdulkadir Alhadad_ [1995] 3 SLR 388 (“ _Omar Ali_ ”), Chao Hick Tin J stated as follows at [18]: 
+11     In _Omar Ali bin Mohd v Syed Jafaralsadeg bin Abdulkadir Alhadad_ <span class="citation">[1995] 3 SLR 388</span> (“ _Omar Ali_ ”), Chao Hick Tin J stated as follows at [18]: 
 
 
  A major matter for consideration is the likelihood of the plaintiff succeeding. This is not to say that every application for security for costs should be made the occasion for a detailed examination of the merits of the case. Parties should not attempt to go into the merits of the case unless it can be clearly demonstrated one way or another that there is a high degree of probability of success or failure. 

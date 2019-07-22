@@ -78,14 +78,14 @@ and appeared ready to call someone. Out of fear, the victim let him into her fla
 
 **Benchmark sentences for rape** 
 
-19     In _PP v NF_ [2006] 4 SLR(R) 849 (“ _PP v NF_ ”), V K Rajah J (as he then was) considered and adopted the four broad categories of rape elucidated in _R v Keith Billam_ (1986) 8 Cr App R (S) 48 (“ _Billam_ ”) for sentencing purposes. In discussing the _Billam_ classification system, Rajah J opined as follows (at 19]): 
+19     In _PP v NF_ <span class="citation">[2006] 4 SLR(R) 849</span> (“ _PP v NF_ ”), V K Rajah J (as he then was) considered and adopted the four broad categories of rape elucidated in _R v Keith Billam_ (1986) 8 Cr App R (S) 48 (“ _Billam_ ”) for sentencing purposes. In discussing the _Billam_ classification system, Rajah J opined as follows (at 19]): 
 
  These categories were designed and calibrated to ensure both stability and a measure of predictability in sentencing rape offenders by assigning a benchmark sentence to each category. 
 
 
-I n _PP v UI_ [2008] 4 SLR(R) 500, the Court of Appeal endorsed the principles and sentencing benchmarks set out in _PP v NF_. 
+I n _PP v UI_ <span class="citation">[2008] 4 SLR(R) 500</span>, the Court of Appeal endorsed the principles and sentencing benchmarks set out in _PP v NF_. 
 
-20     The four categories were arranged in ascending order of severity. At the lowest end of the spectrum were the “Category 1” rapes, which featured no aggravating or mitigating circumstances. Rajah J affirmed the finding in _Chia Kim Heng Frederick v PP_ [1992] 1 SLR(R) 63 that the starting point for sentencing in such cases was ten years’ imprisonment and not less than six strokes of the cane. 
+20     The four categories were arranged in ascending order of severity. At the lowest end of the spectrum were the “Category 1” rapes, which featured no aggravating or mitigating circumstances. Rajah J affirmed the finding in _Chia Kim Heng Frederick v PP_ <span class="citation">[1992] 1 SLR(R) 63</span> that the starting point for sentencing in such cases was ten years’ imprisonment and not less than six strokes of the cane. 
 
 21     Rajah J set out in some detail at [20] in _PP v NF_ certain aggravating features, which if present, would bring the case within “Category 2”. Rape of a child was identified as one of those in “Category 2” (see (d) at [20] of _PP v NF_ ). Rajah J explained at [25] that the “common thread running through category 2 rapes is that there has been exploitation of a particularly vulnerable victim”. The starting point for “Category 2” rapes was 15 years’ imprisonment and 12 strokes of the cane. 
 
@@ -99,7 +99,7 @@ I n _PP v UI_ [2008] 4 SLR(R) 500, the Court of Appeal endorsed the principles a
 
 **_Plea of guilt and remorse_** 
 
-25     Mr Irving Choh (“Mr Choh”), counsel for the accused, submitted that the accused pleaded guilty at the first opportunity and was cooperative throughout the police investigation. While it is a trite proposition that a timeous plea of guilt indicative of genuine remorse is a mitigating factor, it is equally trite that a plea of guilt does not _ipso facto_ entitle an offender to a discount in his sentence. What needs to be demonstrated is genuine remorse. As held in _Xia Qin Lai v PP_ [1999] 3 SLR(R) 257 (at [26]): 
+25     Mr Irving Choh (“Mr Choh”), counsel for the accused, submitted that the accused pleaded guilty at the first opportunity and was cooperative throughout the police investigation. While it is a trite proposition that a timeous plea of guilt indicative of genuine remorse is a mitigating factor, it is equally trite that a plea of guilt does not _ipso facto_ entitle an offender to a discount in his sentence. What needs to be demonstrated is genuine remorse. As held in _Xia Qin Lai v PP_ <span class="citation">[1999] 3 SLR(R) 257</span> (at [26]): 
 
  there is no mitigation value in a plea of guilt if the offender pleaded guilty in the circumstances knowing that the Prosecution would have no difficulty in proving the charge against him, or if he had been caught red-handed. 
 
@@ -156,7 +156,7 @@ threatened to use his gang connections to cause trouble for the victim and at he
 
 41     Second, the accused had perpetrated other acts of perversity on the victim before raping her. The accused pushed the victim into her bedroom, kissed and groped her. He inserted his fingers on two separate occasions into her vagina and moved them in and out of her vagina causing her pain. That the victim was forced to endure the degradation from these multiple sexual indignities in addition to the rape was another serious aggravating factor to be considered. 
 
-42     Third, the accused raped the victim at her home, in her bedroom and on her bed. In _PP v Robiul Bhoreshuddin Mondal_ [2010] SGHC 10, weight was placed on the fact that the victim had been raped “in the sanctity of her locked room and on the bed on which she rested every night and which she had to continue to use after the [rape]”. Instead of being her haven and sanctuary, the accused had turned her home into a constant reminder of her agony during the rape. 
+42     Third, the accused raped the victim at her home, in her bedroom and on her bed. In _PP v Robiul Bhoreshuddin Mondal_ <span class="citation">[2010] SGHC 10</span>, weight was placed on the fact that the victim had been raped “in the sanctity of her locked room and on the bed on which she rested every night and which she had to continue to use after the [rape]”. Instead of being her haven and sanctuary, the accused had turned her home into a constant reminder of her agony during the rape. 
 
 **The need for general deterrence** 
 

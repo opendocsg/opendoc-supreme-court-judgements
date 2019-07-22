@@ -124,7 +124,7 @@ procedural and substantive aspects of the March 2004 SGM. The defendants in turn
 
 **_The voting issue_** 
 
-18     The relationship between members of an unincorporated members’ club is founded on contract; see also _McGuire (Graeme) v Rasmussen (John)_ [1998] 3 SLR 180 at [13] _per_ Lee Seiu Kin JC (as he then was): 
+18     The relationship between members of an unincorporated members’ club is founded on contract; see also _McGuire (Graeme) v Rasmussen (John)_ <span class="citation">[1998] 3 SLR 180</span> at [13] _per_ Lee Seiu Kin JC (as he then was): 
 
  The terms of the contract in this, as in most cases of this kind, are contained in the constitution or rules. By joining the Club, a member agrees to bind himself vis-à-vis other members in accordance with the Tanglin Club Rules. 
 

@@ -28,7 +28,7 @@ _Land_ – _Interest in land_ – _Whether parties each had equal reversionary i
 
 **Introduction** 
 
-1       This appeal arose from the following orders made by the High Court in June 2004 (see [2004] SGHC 235): 
+1       This appeal arose from the following orders made by the High Court in June 2004 (see <span class="citation">[2004] SGHC 235</span>): 
 
  (a) that Wong Ah Chen alias Woong Kun Chin and Goh Yew Pong alias Wu Yu Peng (who were the respondents in this appeal) be declared the owners of one-half, equal, undivided share of Lot 1031N, Mukim 24; and 
 
@@ -207,7 +207,7 @@ There was no such easement granted to the leaseholders of the lease of the groun
 
  I reject the argument in law because it ‘is an essential characteristic of an easement that the owner of the dominant tenement and the owner of the servient tenement must be different persons. A man cannot have an easement over his own land, because all acts which he does upon his own land are acts done in respect of his rights as owner of the land, and the law does not allow the co-existence of an easement over land with the possession of the land itself: 14 Halsbury’s Laws of England (4th Ed) para 16. 
 
-In 1998, this court repeated that one cannot have an easement over one’s own land and endorsed Grimberg JC’s statement of the law: see _MCST Plan No 549 v Chew Eu Hock Construction Co Pte Ltd_ [1998] 2 SLR 366. 
+In 1998, this court repeated that one cannot have an easement over one’s own land and endorsed Grimberg JC’s statement of the law: see _MCST Plan No 549 v Chew Eu Hock Construction Co Pte Ltd_ <span class="citation">[1998] 2 SLR 366</span>. 
 
 28     The appellants therefore could not by virtue of their reversionary interest in the freehold estate claim a right to immediate possession of the frontage. More to the point, bearing in mind their express grievance, they could not rely on this interest as giving them the right to park their car on the frontage. This brought us to the next issue, which related to the nature and extent of the easement of access granted to the respondents by the lease. 
 

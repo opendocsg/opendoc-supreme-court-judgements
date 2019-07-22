@@ -84,7 +84,7 @@ a beneficiary.
 
 **The Striking Out Application** 
 
-9       It is settled that the failure to establish title to commence legal action provides sufficient grounds for striking out (see _Alliance Entertainment Singapore Pte Ltd v Sim Kay Teck and Another_ [2007] 2 SLR(R) 869). 
+9       It is settled that the failure to establish title to commence legal action provides sufficient grounds for striking out (see _Alliance Entertainment Singapore Pte Ltd v Sim Kay Teck and Another_ <span class="citation">[2007] 2 SLR(R) 869</span>). 
 
 **_Lex fori governs locus standii_** 
 
@@ -150,7 +150,7 @@ a beneficiary.
 
 **_The Law on forum non conveniens_** 
 
-19     The law on _forum non conveniens_ as set out in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _Spiliada_ ”) has been concisely restated in the following manner by the Court of Appeal in C _IMB Bank Bhd v Dresdner Kleinwort Ltd_ [2008] 4 SLR(R) 543 at [26]: 
+19     The law on _forum non conveniens_ as set out in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _Spiliada_ ”) has been concisely restated in the following manner by the Court of Appeal in C _IMB Bank Bhd v Dresdner Kleinwort Ltd_ <span class="citation">[2008] 4 SLR(R) 543</span> at [26]: 
 
  The gist of these principles is that, under the doctrine of forum non conveniens , a stay will only be granted where the court is satisfied that there is some other available and more appropriate forum for the trial of the action. The burden of establishing this rests on the defendant and it is not enough just to show that Singapore is not the natural or appropriate forum. The defendant must also establish that there is another available forum which is clearly or distinctly more appropriate than Singapore. The natural forum is one with which the action has the most real and substantial connection. In this regard, the factors which the court will take into consideration include not only factors affecting convenience or expense (such as the availability of witnesses) but also other factors such as the law governing the transaction and the places where the parties respectively reside or carry on business. If the court concludes, at this stage of the inquiry ("stage one of the Spiliada test"), that there is no other available forum which is clearly more appropriate for the trial of the action, it will ordinarily refuse a stay. If, at this stage, 
 
@@ -163,7 +163,7 @@ a beneficiary.
 
 20     The courts of Egypt are clearly the more appropriate forum for hearing the dispute for, _inter alia_ , the following reasons: 
 
- (a) First, this action concerns shares in an Egyptian entity whose legal status and the incidents therefrom are determined by Egyptian law. The plaintiffs concede that the lex causae is Egyptian law, and it is well established that the applicable law to the dispute is a relevant and significant connecting factor (see Rickshaw Investments Ltd v Nicolai Baron von Uexkull [2007] 1 SLR(R) 377). It is also clear that “the governing law factor becomes a more weighty one if it would involve courts having to apply unfamiliar systems of law” (see Halsbury’s Laws of Singapor e 
+ (a) First, this action concerns shares in an Egyptian entity whose legal status and the incidents therefrom are determined by Egyptian law. The plaintiffs concede that the lex causae is Egyptian law, and it is well established that the applicable law to the dispute is a relevant and significant connecting factor (see Rickshaw Investments Ltd v Nicolai Baron von Uexkull <span class="citation">[2007] 1 SLR(R) 377</span>). It is also clear that “the governing law factor becomes a more weighty one if it would involve courts having to apply unfamiliar systems of law” (see Halsbury’s Laws of Singapor e 
 
 - Conflict of Laws vol 6(2) (LexisNexis, 2009) (“ _Halsbury’s Laws of Singapore_ ”) at para 75.093). Egypt is a civil law jurisdiction and its laws and procedures are significantly different from those in     Singapore. The applicable law is “obviously a more weighty factor in a dispute which turns on questions of interpretation of the law than one which merely involves the application of the law” (see _Halsbury’s Laws of Singapore_ at para 75.093). 
 
@@ -175,7 +175,7 @@ a beneficiary.
 
 **_Stage Two: There is No Personal or Juridical Disadvantage to the Plaintiffs in Granting a Stay_** 
 
-22     The first stage of the _Spiliada_ test being clearly satisfied, I move on to consider the second stage of the _Spiliada_ test, which was succinctly restated by the Court of Appeal in _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Ltd and anothe_ r [2001] 1 SLR(R) 104 at [16]: 
+22     The first stage of the _Spiliada_ test being clearly satisfied, I move on to consider the second stage of the _Spiliada_ test, which was succinctly restated by the Court of Appeal in _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Ltd and anothe_ r <span class="citation">[2001] 1 SLR(R) 104</span> at [16]: 
 
  ... If the court concludes that there is such a more appropriate forum, it will ordinarily grant a 
 
@@ -186,7 +186,7 @@ a beneficiary.
 
 The Court of Appeal also noted that the plaintiff bears the burden of establishing that he will be denied substantial justice if the case is not heard in the forum. 
 
-23     The plaintiffs argue that commencing the action in Egypt would cause a delay which would allow the defendants to delay the release of monies and documents. In _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ [1997] 3 SLR(R) 363, the Court of Appeal ruled that a bare assertion of likely delay would not suffice, and even if the argument was accepted, a delay would not ordinarily merit a stay of proceedings if all that could be shown was inconvenience and not substantial injustice (at [44]–[45]): 
+23     The plaintiffs argue that commencing the action in Egypt would cause a delay which would allow the defendants to delay the release of monies and documents. In _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ <span class="citation">[1997] 3 SLR(R) 363</span>, the Court of Appeal ruled that a bare assertion of likely delay would not suffice, and even if the argument was accepted, a delay would not ordinarily merit a stay of proceedings if all that could be shown was inconvenience and not substantial injustice (at [44]–[45]): 
 
  The respondents also said they might have to put up security for costs, and that a speedier resolution could be had in Singapore. However, no evidence was raised to suggest the likely delay (if any). In the absence of such evidence, we were unable to give credence to the respondents' assertion. Furthermore, even if we were to accept that there would be substantial delay if proceedings were stayed, this consideration, though valid, was not so weighty as to merit a stay of proceedings. 
 
@@ -203,7 +203,7 @@ It should be noted that the plaintiffs remain at liberty to file their requests 
 27     The political uncertainty in the spring of 2011 in Egypt does not appear to have resulted in the cessation of functioning of the Egyptian judicial institutions. The defendants’ counsel advised the 
 
 
-court and the plaintiffs’ counsel did not deny that the Cairo court decided on 9 March 2011 to uphold the decision of the lower court to annul the defendants’ appointment as directors/managers of Al Taleb. In any case, for purposes of taking judicial notice, where is any doubt as to the proper functioning of Egyptian judicial institutions, that doubt should be resolved against the plaintiffs who so assert (see _Zheng Yu Shan v Lian Beng Construction (1988) Pte Ltd_ [2009] 2 SLR(R) 587 at [33]). 
+court and the plaintiffs’ counsel did not deny that the Cairo court decided on 9 March 2011 to uphold the decision of the lower court to annul the defendants’ appointment as directors/managers of Al Taleb. In any case, for purposes of taking judicial notice, where is any doubt as to the proper functioning of Egyptian judicial institutions, that doubt should be resolved against the plaintiffs who so assert (see _Zheng Yu Shan v Lian Beng Construction (1988) Pte Ltd_ <span class="citation">[2009] 2 SLR(R) 587</span> at [33]). 
 
 28     In the light of the above relevant to the _Spiliada_ stage two test, I do not find that it has been established that the plaintiffs would be denied substantial justice to pursue their action before the Egyptian courts. 
 

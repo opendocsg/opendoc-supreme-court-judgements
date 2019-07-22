@@ -108,7 +108,7 @@ give OPM, a holder of 10% of the shares in the Company, control over all payment
 
  (c) this Article shall not exclude any liability for, or remedy in respect of, fraudulent misrepresentation. 
 
-In _Ng Giap Hon v Westcomb Securities Pte Ltd and others_ [2009] 3 SLR(R) 518, the Court of Appeal held at [31] that the presence of such a clause would not, as a general principle, exclude the implication of terms into a contract. Further, at [32], for an entire agreement clause to have this effect, it would need to express such effect in clear and unambiguous language. In my view, there was nothing in Art 24 that precluded implied terms in the Shareholders’ Agreement. 
+In _Ng Giap Hon v Westcomb Securities Pte Ltd and others_ <span class="citation">[2009] 3 SLR(R) 518</span>, the Court of Appeal held at [31] that the presence of such a clause would not, as a general principle, exclude the implication of terms into a contract. Further, at [32], for an entire agreement clause to have this effect, it would need to express such effect in clear and unambiguous language. In my view, there was nothing in Art 24 that precluded implied terms in the Shareholders’ Agreement. 
 
 **Conclusion** 
 

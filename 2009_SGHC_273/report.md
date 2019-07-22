@@ -91,7 +91,7 @@ The above articulation of the rationale underlying the legal acceptance of concl
 9       Clause 58, however, in my view, does not preclude a _legal review_ by the court into the _propriety_ of the demand itself. In this regard, I agree with the views of V K Rajah J in _Standard_ 
 
 
-_Chartered Bank v Neocorp International Ltd_ [2005] 2 SLR 345 (“ _Standard Chartered Bank_ ”), a decision which was not referred to me by either counsel but certainly warrants a mention. One of the issues which faced Rajah J in _Standard Chartered Bank_ was whether the court is precluded by the terms of the conclusive evidence certificate from reviewing the legal basis of the plaintiff’s claim. Rajah J was of the view at [19] that: 
+_Chartered Bank v Neocorp International Ltd_ <span class="citation">[2005] 2 SLR 345</span> (“ _Standard Chartered Bank_ ”), a decision which was not referred to me by either counsel but certainly warrants a mention. One of the issues which faced Rajah J in _Standard Chartered Bank_ was whether the court is precluded by the terms of the conclusive evidence certificate from reviewing the legal basis of the plaintiff’s claim. Rajah J was of the view at [19] that: 
 
  [t]he real foundation for the legal efficacy of such a clause is contract. It can be cogently argued that if parties expressly agree on the modalities for determining a matter, such an agreement should be upheld in the absence of any relevant public policy considerations. Indeed, this is the very basis on which the court recognises and gives effect to arbitration agreements, conclusive certificates of engineers and architects found in construction contracts and experts’ decisions, among others. The High Court of Australia correctly observed in Dobbs’ case at 652 that: 
 
@@ -198,7 +198,7 @@ Notwithstanding clause 9.3 of the OTC Master Agreement, this letter is subject t
 
  Note: This is an important document. You are advised to seek independent legal advice before signing and sign only if you want to be legally bound. By signing, you acknowledge that you fully understand the terms and conditions and the legal implications of this document. 
 
-15     In _Stephan Machinery Singapore Pte Ltd v Oversea-Chinese Banking Corp Ltd_ [2000] 2 SLR 191 (“ _Stephan Machinery_ ”), the court when similarly confronted with a plaintiff who alleged that he did not receive the standard terms of the defendant bank, dismissed the plaintiff’s allegations in the following terms at [4] to [6]: 
+15     In _Stephan Machinery Singapore Pte Ltd v Oversea-Chinese Banking Corp Ltd_ <span class="citation">[2000] 2 SLR 191</span> (“ _Stephan Machinery_ ”), the court when similarly confronted with a plaintiff who alleged that he did not receive the standard terms of the defendant bank, dismissed the plaintiff’s allegations in the following terms at [4] to [6]: 
 
  In the pleadings and at the trial, the plaintiffs took the position that they did not admit that a copy of the Terms and Conditions For Current Account was given to them. Mr Reeg in evidence said he did not recall receiving a copy of the Terms and Conditions For Current Accounts. The first time he saw the document was when his solicitor showed it to him, after the action had commenced... 
 
@@ -239,7 +239,7 @@ The legal basis for the decision in _Stephan Machinery_ , although not explicit,
 
  [Emphasis added] 
 
-18     In _Consmat Singapore (Pte) Ltd v Bank of America National Trust & Savings Association_ [1992] 2 SLR 828 (“ _Consmat_ ”), the court considered the legal effect of a similar contractual clause which obliged a bank’s customer to check its monthly bank statement, and to highlight any discrepancy therein to the bank within a stipulated time frame. In the result, the court held at 835836 that: 
+18     In _Consmat Singapore (Pte) Ltd v Bank of America National Trust & Savings Association_ <span class="citation">[1992] 2 SLR 828</span> (“ _Consmat_ ”), the court considered the legal effect of a similar contractual clause which obliged a bank’s customer to check its monthly bank statement, and to highlight any discrepancy therein to the bank within a stipulated time frame. In the result, the court held at 835836 that: 
 
 
  In respect of such obligations, the provisions of cl 3(c) are clear and unambiguous: they impose upon the customers of the defendant bank express obligations to verify the statements of accounts and the cheques and to notify the bank, within seven days, of ‘discrepancies, omissions, or debits wrongly made to or inaccuracies or incorrect entries’ in the accounts and make those statements ‘unchallengeable by the [customers] after the expiry of a time limit’. 
@@ -275,10 +275,10 @@ The Plaintiff had also adduced tables explaining these purported transactions. F
 
 **Leave to adduce further evidence** 
 
-26     The High Court has the discretion to decide whether to grant leave to adduce further evidence in Registrar’s Appeals (see _Lassiter Ann Masters v To Keng Lam (alias Toh Jeanette)_ [2004] 2 SLR 392 (“ _Lassiter_ ”) at [13]). _Lassiter_ was recently approved by the Court of Appeal decision in _WBG Network_ 
+26     The High Court has the discretion to decide whether to grant leave to adduce further evidence in Registrar’s Appeals (see _Lassiter Ann Masters v To Keng Lam (alias Toh Jeanette)_ <span class="citation">[2004] 2 SLR 392</span> (“ _Lassiter_ ”) at [13]). _Lassiter_ was recently approved by the Court of Appeal decision in _WBG Network_ 
 
 
-_(S) Pte Ltd v Sunny Daisy Ltd_ [2007] 1 SLR 1133 (“ _Sunny Daisy_ ”) which was an appeal against a High Court decision to allow summary judgment against the appellant and to refuse leave to the appellant to adduce further evidence at the hearing of that Registrar’s Appeal. In _Sunny Daisy_ , the Court of Appeal held that the judge hearing a Registrar’s Appeal has a wider discretion when the appeal did not arise from a hearing which bore the characteristics of a trial like an assessment of damages. However, it is pertinent to note that the Court of Appeal cautioned at [14] and [15] as follows: 
+_(S) Pte Ltd v Sunny Daisy Ltd_ <span class="citation">[2007] 1 SLR 1133</span> (“ _Sunny Daisy_ ”) which was an appeal against a High Court decision to allow summary judgment against the appellant and to refuse leave to the appellant to adduce further evidence at the hearing of that Registrar’s Appeal. In _Sunny Daisy_ , the Court of Appeal held that the judge hearing a Registrar’s Appeal has a wider discretion when the appeal did not arise from a hearing which bore the characteristics of a trial like an assessment of damages. However, it is pertinent to note that the Court of Appeal cautioned at [14] and [15] as follows: 
 
  A party wishing to adduce further evidence before the judge in chambers in cases where the hearing at first instance did not possess the characteristics of a trial might still have to persuade the judge hearing the matter that he had overcome all three requirements of Ladd v Marshall if he were to entertain any hope of admitting the further evidence because the judge was entitled, though not obliged, to employ the conditions of Ladd v Marshall to help her decide whether or not to exercise her discretion to admit or reject the further evidence. In such a case, if the appellant could not persuade the judge that the conditions, if applied, would result in his favour, then it would be unlikely that the judge would allow his application to adduce the fresh evidence... 
 

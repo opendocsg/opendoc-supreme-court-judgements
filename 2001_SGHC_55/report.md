@@ -53,11 +53,11 @@ _Benjanin Developments Ltd v Robt Jones (Pacific) Ltd_
 
 _Citicorp Investment Bank v Wee Ah Kee_ 
 
-[1997] 2 SLR 759 (refd) 
+<span class="citation">[1997] 2 SLR 759</span> (refd) 
 
 _Pacific Century Regional Developments v Estate of Seow Khoon Seng_ 
 
-[1997] 3 SLR 761 (refd) 
+<span class="citation">[1997] 3 SLR 761</span> (refd) 
 
 _Reardon Smith Line Ltd v Hansen-Tangen_ 
 
@@ -190,7 +190,7 @@ _The decision_
 
  b. if the terms of the Consent Order are clear and unambiguous, they should be given their plain ordinary meaning without the aid of extrinsic evidence. 
 
-15\. Citing _Chitty_ on _Contracts_ (see 28 ed vol 1 p 604 para 12-043) and _A V Pound & Co v M W Hardy & Co_ [1956] 1 AER 639, counsel for the plaintiff had submitted that the court should resolve any ambiguity by looking at the commercial purpose (of the Consent Order) and the factual matrix (see _Reardon Smith Line Ltd v Hansen-Tangen_ [1976] 1 WLR 989 [infra]) against which it was made; in this regard the whole contract had to be considered. Neither the defendant nor I disagreed with that submission. Indeed, the Court of Appeal in _Pacific Century Regional Developments v Estate of Seow Khoon Seng_ [1997] 3 SLR 761 (cited by counsel for the defendant) adopted that proposition of law. Counsel for the defendant had referred to two (2) other cases namely _Citicorp Investment Bank v Wee Ah Kee_ [1997] 2 SLR 759 and _Benjanin Developments Ltd v Robt Jones (Pacific) Ltd_ [1994] 3 NZLR 189 to resist the OS. Those cases do not detract from or add further to, the proposition of law set out in the _Pacific Century_ case. 
+15\. Citing _Chitty_ on _Contracts_ (see 28 ed vol 1 p 604 para 12-043) and _A V Pound & Co v M W Hardy & Co_ [1956] 1 AER 639, counsel for the plaintiff had submitted that the court should resolve any ambiguity by looking at the commercial purpose (of the Consent Order) and the factual matrix (see _Reardon Smith Line Ltd v Hansen-Tangen_ [1976] 1 WLR 989 [infra]) against which it was made; in this regard the whole contract had to be considered. Neither the defendant nor I disagreed with that submission. Indeed, the Court of Appeal in _Pacific Century Regional Developments v Estate of Seow Khoon Seng_ <span class="citation">[1997] 3 SLR 761</span> (cited by counsel for the defendant) adopted that proposition of law. Counsel for the defendant had referred to two (2) other cases namely _Citicorp Investment Bank v Wee Ah Kee_ <span class="citation">[1997] 2 SLR 759</span> and _Benjanin Developments Ltd v Robt Jones (Pacific) Ltd_ [1994] 3 NZLR 189 to resist the OS. Those cases do not detract from or add further to, the proposition of law set out in the _Pacific Century_ case. 
 
 16\. However, I am of the view that the terms of the Consent Order do not allow room for the application of the above principle of law, even though the learned assistant registrar had opined (on 19 January 2000 when the plaintiff applied 'for directions' to clarify the Consent Order) that cl III (2) was none too clear on what was required of Chang; I see no ambiguity in the terms spelt out in the Consent Order. 
 

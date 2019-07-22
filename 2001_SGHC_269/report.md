@@ -287,7 +287,7 @@ appeal to the High Court), a body of case law has developed on it.
 
 When the Court of Appeal considered s 34 in **Spandeck Engineering (S) v Yong Qiang** 
 
-**Construction** [1999] 4 SLR 401 , it referred to the Minister of Law`s explanation that the threshold 
+**Construction** <span class="citation">[1999] 4 SLR 401</span> , it referred to the Minister of Law`s explanation that the threshold 
 
 amount in s 34(2) was raised from $30,000 to $250,000 to avoid straining limited resources of the 
 
@@ -312,7 +312,7 @@ and this was cited and approved by the Court of Appeal in **Lee Kuan Yew v Tang 
 
 The issue received further consideration in **Abdul Rahman bin Shariff v Abdul Salim bin Syed** 
 
-[1999] 4 SLR 716 , where Tay Yong Kwang JC held at [para ]30: 
+<span class="citation">[1999] 4 SLR 716</span> , where Tay Yong Kwang JC held at [para ]30: 
 
  I should clarify here the words a prima facie case of error used in Anthony Savarimiuthu s case. In another application of this nature heard by me, the applicant there sought to demonstrate a prima facie case of error by referring me to the evidence adduced at the trial and attempting to show that the collision could not have occurred in the way described by the plaintiff there on such evidence. That, in my view, was no more than an attempt to show an erroneous conclusion on the facts of the case for which leave to appeal must be and was denied. If it were otherwise and facts have to be examined in detail in each case to demonstrate the error, the High Court might as well hear the appeal proper. 
 

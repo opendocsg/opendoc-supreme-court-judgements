@@ -16,7 +16,7 @@
 
 _Patents and Inventions_ – _Ownership_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 53.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 53</span>.] 
 
 28 August 2018 Judgment reserved. 
 
@@ -84,7 +84,7 @@ collection of the specimens at the point of care”. [note: 12]
 
 **The Judge’s decision** 
 
-14     The Judge found that both Cicada and NUH were jointly entitled to the ownership of the Patent. His decision is published as _National University Hospital (Singapore) Pte Ltd v Cicada Cube Pte Ltd_ [2017] SGHC 53 (“GD”). First, as a preliminary point, he held that NUH was not prevented by s 47(9) of the Act from applying to the court for the determination of patent entitlement because s 47(9) did not apply to the facts of the case. He interpreted the phrase “the proceedings in which the jurisdiction is invoked” in s 47(9) of the Act to refer to the Reference that NUH brought to the Registrar pursuant to s 47(1), rather than the High Court Proceedings. Therefore, even though the 
+14     The Judge found that both Cicada and NUH were jointly entitled to the ownership of the Patent. His decision is published as _National University Hospital (Singapore) Pte Ltd v Cicada Cube Pte Ltd_ <span class="citation">[2017] SGHC 53</span> (“GD”). First, as a preliminary point, he held that NUH was not prevented by s 47(9) of the Act from applying to the court for the determination of patent entitlement because s 47(9) did not apply to the facts of the case. He interpreted the phrase “the proceedings in which the jurisdiction is invoked” in s 47(9) of the Act to refer to the Reference that NUH brought to the Registrar pursuant to s 47(1), rather than the High Court Proceedings. Therefore, even though the 
 
 
 High Court Proceedings were commenced more than two years after the date of grant of the Patent, the applicable date was the filing of the Reference, which was within two years of the date of grant of the Patent (GD at [44]–[45]). 
@@ -330,7 +330,7 @@ concerning the ownership of the patent (s 19(2)( _b_ ) of the Act), the inventor
 
 **_Inventorship_** 
 
-62     The inventor of a patent is “the actual deviser of the invention”: s 2(1) of the Act. This requires that the person claiming to be the inventor must have formulated or contributed to the formulation of the inventive concept: _Dien Ghin Electronic (S) Pte Ltd v Khek Tai Ting (trading as Soon Heng Digitax)_ (“ _Dien Ghin_ ”) [2011] 3 SLR 227 at [13] (GD at [49]). We thus start with the identification of the inventive concept(s) in the Patent before identifying the persons who contributed to these inventive concept(s). 
+62     The inventor of a patent is “the actual deviser of the invention”: s 2(1) of the Act. This requires that the person claiming to be the inventor must have formulated or contributed to the formulation of the inventive concept: _Dien Ghin Electronic (S) Pte Ltd v Khek Tai Ting (trading as Soon Heng Digitax)_ (“ _Dien Ghin_ ”) <span class="citation">[2011] 3 SLR 227</span> at [13] (GD at [49]). We thus start with the identification of the inventive concept(s) in the Patent before identifying the persons who contributed to these inventive concept(s). 
 
 _The inventive concepts_ 
 
@@ -365,7 +365,7 @@ raised by the UK Patent Office in _Statoil ASA v University of Southampton_ (BL 
 
 69     We agree that the Act envisages that a patent should relate to only one invention or to a single inventive concept and claims should be drafted in this manner. Nevertheless, s 113(2) provides that “where more than one invention is specified in [a] claim, each invention may have a different priority date”. This seems to imply that there can be more than one invention specified in a claim and that each could have a different priority date under s 17. Ultimately, it may be a matter of degree as to whether an invention is really one big concept or is in truth made up of several small but related concepts, with one building upon the other but all working together to solve a perceived problem or to provide a new answer to an existing question. 
 
-70     Second, there is the issue of whether it is legitimate to consider the patent’s claims and/or its specification when identifying the inventive concept(s). The distinction between patent claims and specification was explained by the Court of Appeal in _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd and another appeal_ [2008] 1 SLR(R) 335 at [23]. A patent’s specification, which is a description of the invention disclosed in the patent, conveys to the public what the patentee considers to be his invention. On the other hand, a patent’s claims, which are usually drafted in a more technical manner, contain the specific monopoly that the patentee is obtaining. Infringement actions are heavily dependent on the construction of the claims in a patent. 
+70     Second, there is the issue of whether it is legitimate to consider the patent’s claims and/or its specification when identifying the inventive concept(s). The distinction between patent claims and specification was explained by the Court of Appeal in _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd and another appeal_ <span class="citation">[2008] 1 SLR(R) 335</span> at [23]. A patent’s specification, which is a description of the invention disclosed in the patent, conveys to the public what the patentee considers to be his invention. On the other hand, a patent’s claims, which are usually drafted in a more technical manner, contain the specific monopoly that the patentee is obtaining. Infringement actions are heavily dependent on the construction of the claims in a patent. 
 
 71     Cicada argues that in entitlement proceedings, the invention or inventive concepts should be 
 
@@ -501,7 +501,7 @@ and Service. [note: 36] There was also evidence of a third article being drafted
 
 97     The issue of ownership follows from the determination of inventorship. Having found that Dr Sethi, Dr Ratty and Dr Poo were joint inventors of the Invention in the Patent and considering that Cicada no longer disputes that NUH is entitled to Dr Sethi’s invention by virtue of s 49 of the Act (see [17] and [19] above), we find that Cicada and NUH are entitled to joint ownership of the Patent. 
 
-98     Finally, Cicada submits that NUH is estopped from claiming ownership of the Patent as Cicada had explicitly demanded all intellectual property rights yet NUH did not ever dispute this and instead silently moved forward with the MOU. We reject this argument. To establish estoppel, Cicada must prove that there was a representation of fact by NUH which Cicada relied upon to its detriment: _The Bunga Melati 5_ [2016] 2 SLR 1114 at [12]. On the facts, there was no representation by NUH that it 
+98     Finally, Cicada submits that NUH is estopped from claiming ownership of the Patent as Cicada had explicitly demanded all intellectual property rights yet NUH did not ever dispute this and instead silently moved forward with the MOU. We reject this argument. To establish estoppel, Cicada must prove that there was a representation of fact by NUH which Cicada relied upon to its detriment: _The Bunga Melati 5_ <span class="citation">[2016] 2 SLR 1114</span> at [12]. On the facts, there was no representation by NUH that it 
 
 
 was acquiescing to Cicada's ownership of the rights in ATOMS. On 26 October 2005, a representative from NHG proposed to Dr Ratty that "the IP shall be jointly owned: 50/50" but Dr Ratty counter

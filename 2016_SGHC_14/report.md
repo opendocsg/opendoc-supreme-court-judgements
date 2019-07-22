@@ -53,7 +53,7 @@ _Companies_ – _Derivative action_ – _Whether applicant acted in good faith_ 
 
 7       The plaintiff contended that the requirements under s 216A of the Act were met. Notice to the directors of AYS was given, but no action was taken. 
 
-8       The plaintiff was also acting in good faith. It was _prima facie_ in the interests of the company that the action be commenced. The plaintiff’s objective for the proposed derivative action was to ensure that AYS was not exploited by the first defendant. An obvious connection existed between the plaintiff’s purpose and the interests of the company: _Ang Thiam Swee v Low Hian Chor_ [2013] 2 SLR 340 (“ _Ang Thiam Swee_ ”) at [16]. The breakdown of the relationship between the plaintiff and the first defendant did not show lack of good faith as personal animosity is not sufficient to preclude a s 216A application: _Wong Kai Wah v Wong Kai Yuan and another_ [2014] SGHC 147 at [77]. No personal vendetta or desire to destroy the company existed in the present case. 
+8       The plaintiff was also acting in good faith. It was _prima facie_ in the interests of the company that the action be commenced. The plaintiff’s objective for the proposed derivative action was to ensure that AYS was not exploited by the first defendant. An obvious connection existed between the plaintiff’s purpose and the interests of the company: _Ang Thiam Swee v Low Hian Chor_ <span class="citation">[2013] 2 SLR 340</span> (“ _Ang Thiam Swee_ ”) at [16]. The breakdown of the relationship between the plaintiff and the first defendant did not show lack of good faith as personal animosity is not sufficient to preclude a s 216A application: _Wong Kai Wah v Wong Kai Yuan and another_ <span class="citation">[2014] SGHC 147</span> at [77]. No personal vendetta or desire to destroy the company existed in the present case. 
 
 9       There were various matters of concern, which gave rise to a legitimate and arguable claim by AYS: 
 
@@ -212,7 +212,7 @@ _High interest payments_
 
 privilege as it was the first communication which attempted to reach a compromise or settlement, and that there was no waiver. 
 
-45     I did not find that there was waiver. Such waiver has to be clear, and the plaintiff’s reference in his affidavit to a part of the letter addressing a distinct area from what was sought to be protected by privilege was not, to my mind, waiver of the whole of the contents. The situation in the present case differed significantly from that in _Lim Tjoen Kong v A-B Chew Investments Pte Ltd_ [1991] 2 SLR(R) 168 in which there was substantive detail disclosed to indicate waiver of privilege. 
+45     I did not find that there was waiver. Such waiver has to be clear, and the plaintiff’s reference in his affidavit to a part of the letter addressing a distinct area from what was sought to be protected by privilege was not, to my mind, waiver of the whole of the contents. The situation in the present case differed significantly from that in _Lim Tjoen Kong v A-B Chew Investments Pte Ltd_ <span class="citation">[1991] 2 SLR(R) 168</span> in which there was substantive detail disclosed to indicate waiver of privilege. 
 
 **_Credibility of the first defendant’s expert_** 
 

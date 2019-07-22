@@ -140,7 +140,7 @@ While “import” is not defined in the MDA, it is defined in s 2(1) of the Int
  (2) Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug. 
 
 
-If the prosecution is able to invoke the presumption of knowledge, an accused must prove, on a balance of probabilities, that he did not have knowledge of the nature of the drug: _Obeng Comfort v Public Prosecutor_ [2017] 1 SLR 633 at [37]. 
+If the prosecution is able to invoke the presumption of knowledge, an accused must prove, on a balance of probabilities, that he did not have knowledge of the nature of the drug: _Obeng Comfort v Public Prosecutor_ <span class="citation">[2017] 1 SLR 633</span> at [37]. 
 
 **Decision** 
 
@@ -180,7 +180,7 @@ the fourth long statement (see [13(d)]), the quantum promised was attractive eno
 
 33     By s 33(1) of the MDA, read with its Second Schedule, the punishment prescribed for importing more than 15 grams of diamorphine or 250 grams of methamphetamine under s 7(1) is the death penalty. However, pursuant to s 33B, the court has the discretion not to impose the death penalty. Under s 33B(1)( _a_ ), the court may order life imprisonment and caning of _at least_ 15 strokes if two requirements within s 33B(2) are satisfied. First, the person convicted must prove, on a balance of probabilities, that his involvement in the offence under s 7(1) is restricted to that of a mere courier, as set out in s 33B(2)( _a_ )(i)–(iv). Second, the Public Prosecutor must certify that the person convicted has substantively assisted the CNB in disrupting drug trafficking activities within or outside Singapore. 
 
-34     On the first requirement, the Court of Appeal in _Public Prosecutor v Chum Tat Suan and another_ [2015] 1 SLR 834 at [63], observed that as recognised in the High Court case of _Public Prosecutor v Abdul Haleem bin Abdul Karim and another_ [2013] 3 SLR 734 at [51], the definition of a courier in s 33B(2)( _a_ ) is a narrow one. In that case, the High Court concluded that a courier is one whose involvement is limited to delivering or conveying drugs from point A to point B. 
+34     On the first requirement, the Court of Appeal in _Public Prosecutor v Chum Tat Suan and another_ <span class="citation">[2015] 1 SLR 834</span> at [63], observed that as recognised in the High Court case of _Public Prosecutor v Abdul Haleem bin Abdul Karim and another_ <span class="citation">[2013] 3 SLR 734</span> at [51], the definition of a courier in s 33B(2)( _a_ ) is a narrow one. In that case, the High Court concluded that a courier is one whose involvement is limited to delivering or conveying drugs from point A to point B. 
 
 35     On the evidence before me, the Accused’s role was to collect the drugs at a petrol station in Johor Bahru, bring them into Singapore, and then deliver them in Singapore upon receiving instructions from Ganesan. I found that the Accused had established, on a balance of probabilities, that he was only involved in delivering the drugs, which brought him within the ambit of s 33B(2)( _a_ ) of the MDA. The Prosecution did not dispute this. 
 

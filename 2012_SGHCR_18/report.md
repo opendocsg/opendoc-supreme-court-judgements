@@ -114,12 +114,12 @@ the scope of the arbitration agreement between the parties. [note: 9]
 
 _The choice of the SIAC Rules in the arbitration agreement_ 
 
-14     In _Navigator Investment Services Ltd v Acclaim Insurance Brokers Pte Ltd_ [2010] 1 SLR 25 (“ _Navigator_ ”), the arbitrator clause provided that any dispute was to be resolved “in accordance with the Arbitration Rules of the [SIAC] for the time being in force”. It was undisputed that this was a reference to the SIAC Rules 2007. Rule 32 of the SIAC Rules 2007 provided that: 
+14     In _Navigator Investment Services Ltd v Acclaim Insurance Brokers Pte Ltd_ <span class="citation">[2010] 1 SLR 25</span> (“ _Navigator_ ”), the arbitrator clause provided that any dispute was to be resolved “in accordance with the Arbitration Rules of the [SIAC] for the time being in force”. It was undisputed that this was a reference to the SIAC Rules 2007. Rule 32 of the SIAC Rules 2007 provided that: 
 
  Where the seat of arbitration is Singapore, the law of the arbitration under these Rules [ie, the SIAC Rules 2007] shall be the International Arbitration Act (Chapter 143A, 2002 Ed, Statutes of the Republic of Singapore) [ie, the IAA] or its modification or re-enactment thereof. 
 
 
-15     The Court of Appeal in _Navigator_ was thus faced with the issue of whether the reference to, as well as the incorporation of, the SIAC Rules 2007 was sufficient to bring an arbitration commenced pursuant to the Arbitration Clause within the purview of the IAA (see [34] of _Navigator_ ). Drawing support from the cases of _NCC International AB v Alliance Concrete Pte Ltd_ [2008] 2 SLR(R) 565 and _Smebawang Engineers and Constructors Pte Ltd v Covec (Singapore) Pte Ltd_ [2008] SGHC 229, and in light of the fact that Rule 32 of the SIAC Rules 2007 provided for the _lex arbitri_ to be the IAA, the court found at [35] that: 
+15     The Court of Appeal in _Navigator_ was thus faced with the issue of whether the reference to, as well as the incorporation of, the SIAC Rules 2007 was sufficient to bring an arbitration commenced pursuant to the Arbitration Clause within the purview of the IAA (see [34] of _Navigator_ ). Drawing support from the cases of _NCC International AB v Alliance Concrete Pte Ltd_ <span class="citation">[2008] 2 SLR(R) 565</span> and _Smebawang Engineers and Constructors Pte Ltd v Covec (Singapore) Pte Ltd_ <span class="citation">[2008] SGHC 229</span>, and in light of the fact that Rule 32 of the SIAC Rules 2007 provided for the _lex arbitri_ to be the IAA, the court found at [35] that: 
 
  In our view, if the parties have agreed that the lex arbitri is the IAA, it is difficult to see how the parties can be said not to have agreed that the IAA was to apply within the meaning of s 5(1) of the IAA. 
 
@@ -152,7 +152,7 @@ country, the parties focused their arguments on whether s 5(2)(b)(ii) of the IAA
 
 19     The defendant contended that as the essence of the Agreement is to record the understanding between the parties in relation to the _project_ , which involves the development of land in Washington State in the United States, the subject matter of the dispute is foreign and thus, the IAA ought to apply. On the plaintiff’s part, it contended that the Agreement ought not to be confused with the Joint Development Agreement. Under the former, the main obligation is the payment of $1,350, from the plaintiff to the defendant. This obligation was performed in Singapore not elsewhere and thus, the IAA was not applicable. 
 
-20     In _Mitsui Engineering & Shipbuilding Co Ltd v PSA Corp Ltd and anor_ [2003] 1 SLR(R) 446 (“ _Mitsui_ ”), the High Court made clear at [27] that: 
+20     In _Mitsui Engineering & Shipbuilding Co Ltd v PSA Corp Ltd and anor_ <span class="citation">[2003] 1 SLR(R) 446</span> (“ _Mitsui_ ”), the High Court made clear at [27] that: 
 
  ... s 5(2)(b)(ii) refers to " any place where a substantial part of the obligations of the commercial relationship is to be performed" [emphasis added] and not the place of substantial performance. 
 
@@ -173,7 +173,7 @@ country, the parties focused their arguments on whether s 5(2)(b)(ii) of the IAA
  [Emphasis added] 
 
 
-24     In contractual parlance, Clause 2 makes clear that in-so-far as the obligations of the parties in relation to the project are concerned, this is “subject to contract” and no binding legal obligations can be said to arise _vis-a-vis_ the Project. I would further note, in light of the Court of Appeal decision in _Norwest Holdings Pte Ltd (in liquidation) v Newport Mining Ltd_ [2011] 4 SLR 617, that there is nothing in the factual circumstances which suggests otherwise. 
+24     In contractual parlance, Clause 2 makes clear that in-so-far as the obligations of the parties in relation to the project are concerned, this is “subject to contract” and no binding legal obligations can be said to arise _vis-a-vis_ the Project. I would further note, in light of the Court of Appeal decision in _Norwest Holdings Pte Ltd (in liquidation) v Newport Mining Ltd_ <span class="citation">[2011] 4 SLR 617</span>, that there is nothing in the factual circumstances which suggests otherwise. 
 
 25     Thus, in my view, in determining the obligations of the parties under the Agreement for the purposes of s 5(2)(b)(ii) of the IAA, it is not open to the court to, as the defendant contends, take into account the obligations under the Joint Development Agreement which will implement the project. Put starkly, the Agreement and the Joint Development Agreement are separate contracts, with separate obligations. Furthermore, as the recital and Definition and Interpretation clause of the Agreement reveals, it is envisaged that other parties, on top of the plaintiff and defendant, would enter into the Joint Development Agreement in order to facilitate the implementation of the project. 
 
@@ -193,7 +193,7 @@ country, the parties focused their arguments on whether s 5(2)(b)(ii) of the IAA
 
  make an order, upon such terms as the court thinks fit, staying the proceedings so far as the proceedings relate to that matter. 
 
-29     In the case of _Dalian Hualiang Enterprise Group Co Ltd v Louis Dreyfus Asia Pte Ltd_ [2005] 4 SLR(R) 646 (“ _Dalian_ ”), the High Court held at [74] that under s 6(2) of the AA: 
+29     In the case of _Dalian Hualiang Enterprise Group Co Ltd v Louis Dreyfus Asia Pte Ltd_ <span class="citation">[2005] 4 SLR(R) 646</span> (“ _Dalian_ ”), the High Court held at [74] that under s 6(2) of the AA: 
 
  ...the court may determine if there is in fact a dispute before deciding to order a stay, although the court should not examine the validity of the dispute as though the stay application is an application for summary judgment. Accordingly, as I have said, the position under Singapore domestic Arbitration Act is similar to the pre-1996 position in England. 
 
@@ -233,7 +233,7 @@ July 2012 [note: 10]. TRC are the defendant’s solicitors in the present procee
 
  (c) 
 
-[1998] 1 SLR(R) 401 (“ _Kwan Im Tong_ ”), where the court went on to clarify at [15] that it is the party resisting the stay of proceedings to show that there is no dispute. 
+<span class="citation">[1998] 1 SLR(R) 401</span> (“ _Kwan Im Tong_ ”), where the court went on to clarify at [15] that it is the party resisting the stay of proceedings to show that there is no dispute. 
 
 37     In _Dalian_ , the defendant (“LD”) applying for a stay of the proceedings in favour of arbitration argued that even if there was an admission that it owed the claimed sum to the plaintiffs, it could nevertheless claim a set-off from a running account _vis-a-vis_ a different company by the name of Guangdong Fuhong Edible Oil Co Ltd (“Fuhong”). According to LD, Fuhong was a close trading partner of the plaintiffs and was treated as part of the plaintiffs’ group of companies at all material times in so far as the running account was concerned. 
 
@@ -268,7 +268,7 @@ _The risk of multiplicity of proceedings_
 
 43     The inquiry, however, does not end here. S 6(2)(a) of the AA empowers the court to examine whether there are any “sufficient reason” why the matter should not be referred in accordance with the arbitration agreement. 
 
-44     In _Cars & Cars Pte Ltd v Volkswagen AG and anor_ [2010] 1 SLR 625 (“ _Cars & Cars_ ”) at [48], the High Court noted that while multiplicity of proceedings is not wholly decisive, it is a strong factor for refusing a stay. The court went on to make the following observations at [48]: 
+44     In _Cars & Cars Pte Ltd v Volkswagen AG and anor_ <span class="citation">[2010] 1 SLR 625</span> (“ _Cars & Cars_ ”) at [48], the High Court noted that while multiplicity of proceedings is not wholly decisive, it is a strong factor for refusing a stay. The court went on to make the following observations at [48]: 
 
  The question then is, what grounds could justify granting or refusing a stay where there is risk of multiplicity of proceedings. I would venture to suggest that one such ground is that parties should normally be held to their contractual agreements (see also Taunton-Collins v Cromie [1964] 1 WLR 633 at 637). A risk of multiplicity of proceedings alone will not automatically mean that a stay must be granted or denied, especially when parties have by contractual agreement deliberately arranged their dispute resolution procedures in such a fashion that almost inevitably such risks would materialise. Another ground on which a stay could be granted or denied despite the presence of risk of multiplicity of proceedings is when the needs of justice outweigh the risk of multiplicity. Therefore, in Yee Hong Pte Ltd v Tan Chye Hee Andrew[2005] 4 SLR(R) 398 at [43], the learned judge stayed proceedings in favour of arbitration despite the risk of multiplicity of proceedings because the judge found that "justice would be best served if the three parties proceeded to determine their respective claims, defences and counterclaims if any". 
 

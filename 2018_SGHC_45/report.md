@@ -275,7 +275,7 @@ merely showed that the defendant assisted the Administrators on two occasions, o
 
 **_Claim for dishonest assistance_** 
 
-47     The elements of a claim in dishonest assistance are (a) the existence of a trust, (b) a breach of that trust, (c) assistance rendered by the third party towards the breach and (d) a finding that the assistance rendered was dishonest: _George Raymond Zage III and another v Ho Chi Kwong and another_ [2010] 2 SLR 589 at [20] (“ _George Raymond_ ”). 
+47     The elements of a claim in dishonest assistance are (a) the existence of a trust, (b) a breach of that trust, (c) assistance rendered by the third party towards the breach and (d) a finding that the assistance rendered was dishonest: _George Raymond Zage III and another v Ho Chi Kwong and another_ <span class="citation">[2010] 2 SLR 589</span> at [20] (“ _George Raymond_ ”). 
 
 48     The plaintiffs pleaded that it was to be inferred that the defendant knew and/or dishonestly 
 
@@ -325,7 +325,7 @@ add that it was completely perplexing how the defendant’s trusteeship in respe
 
 **_Claim for knowing receipt_** 
 
-57     The elements required to establish knowing receipt are (a) the disposal of the plaintiff’s assets in breach of fiduciary duty, (b) the beneficial receipt by the defendant of assets which are traceable as representing these assets, and (c) knowledge on the part of the defendant that the assets received are traceable to a breach of fiduciary duty: _George Raymond_ at [23]. The test with respect to knowledge is whether the recipient possessed the state of knowledge that makes it unconscionable for him to retain the benefit of the receipt: _George Raymond_ at [23]. This can be actual knowledge or wilful avoidance of knowledge: _Yong Kheng Leong and another v Panweld Trading Pte Ltd and another_ [2013] 1 SLR 173 at [81]. 
+57     The elements required to establish knowing receipt are (a) the disposal of the plaintiff’s assets in breach of fiduciary duty, (b) the beneficial receipt by the defendant of assets which are traceable as representing these assets, and (c) knowledge on the part of the defendant that the assets received are traceable to a breach of fiduciary duty: _George Raymond_ at [23]. The test with respect to knowledge is whether the recipient possessed the state of knowledge that makes it unconscionable for him to retain the benefit of the receipt: _George Raymond_ at [23]. This can be actual knowledge or wilful avoidance of knowledge: _Yong Kheng Leong and another v Panweld Trading Pte Ltd and another_ <span class="citation">[2013] 1 SLR 173</span> at [81]. 
 
 58     The plaintiffs pleaded that as Syed Mohamed’s son, the defendant received the benefits from 
 
@@ -385,7 +385,7 @@ that this knowledge was apparent and/or to be inferred from the following facts:
 
 68     The defendant’s main submission was that the Beneficiaries’ estates were the proper parties to bring this action and that the plaintiffs were not authorised to act for the Beneficiaries’ estates. 
 
-69     I disagreed with the defendant. A beneficiary is entitled to claim reliefs on behalf of the estate: _Ching Chew Weng Paul v Ching Pui Sim and others_ [2010] 2 SLR 76 at [58]. In this case, whether the plaintiffs were descendants of Shaik Abdulla and consequently beneficiaries under Shaik Abdulla’s will (albeit through the Beneficiaries) were issues that were more appropriate for trial. Further, any pleading inadequacies in this respect may be addressed through appropriate amendments to the statement of claim. 
+69     I disagreed with the defendant. A beneficiary is entitled to claim reliefs on behalf of the estate: _Ching Chew Weng Paul v Ching Pui Sim and others_ <span class="citation">[2010] 2 SLR 76</span> at [58]. In this case, whether the plaintiffs were descendants of Shaik Abdulla and consequently beneficiaries under Shaik Abdulla’s will (albeit through the Beneficiaries) were issues that were more appropriate for trial. Further, any pleading inadequacies in this respect may be addressed through appropriate amendments to the statement of claim. 
 
 **_Limitation_** 
 
@@ -393,7 +393,7 @@ that this knowledge was apparent and/or to be inferred from the following facts:
 
 **_The plaintiffs’ reliance on the discovery process_** 
 
-71     The plaintiffs relied on “ _The Bunga Melati 5_ ” [2012] 4 SLR 546 in which the Court of Appeal cautioned (at [75]) against speculating at an interlocutory stage on the evidence that might or might not surface during trial where the parties have had the benefit of discovery, interrogatory and crossexamination processes. 
+71     The plaintiffs relied on “ _The Bunga Melati 5_ ” <span class="citation">[2012] 4 SLR 546</span> in which the Court of Appeal cautioned (at [75]) against speculating at an interlocutory stage on the evidence that might or might not surface during trial where the parties have had the benefit of discovery, interrogatory and crossexamination processes. 
 
 
 72     In my view, _The Bunga Melati_ did not assist the plaintiffs. In the present case, the plaintiffs did not have a single iota of evidence in support of their allegations that the Administrators failed to pay the rental incomes and/or the sale proceeds in respect of the Properties. They were not even the persons it was alleged that the Administrators had failed to make payment to and there was neither explanation nor evidence as to how they had any knowledge of such failure to make payment. All that the plaintiffs had were their bald assertions. Further, as shown earlier, their claims in respect of 58 and 61 Queen Street were entirely without substance in the light of the unrefuted documentary evidence. 

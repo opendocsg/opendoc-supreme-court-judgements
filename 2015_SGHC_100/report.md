@@ -94,7 +94,7 @@ Vincent, pursuant to which Vincent took Tempcool’s confidential information fo
 
 **_The applicable legal principles_** 
 
-13     The elements for an action in breach of confidence are as follows (see _Coco v A N Clark (Engineers) Ltd_ [1969] RPC 41 (“ _Coco_ ”) and _Invenpro (M) Sdn Bhd v JCS Automation Pte Ltd_ [2014] 2 SLR 1045 (“ _Invenpro_ ”) at [129]): 
+13     The elements for an action in breach of confidence are as follows (see _Coco v A N Clark (Engineers) Ltd_ [1969] RPC 41 (“ _Coco_ ”) and _Invenpro (M) Sdn Bhd v JCS Automation Pte Ltd_ <span class="citation">[2014] 2 SLR 1045</span> (“ _Invenpro_ ”) at [129]): 
 
  (a) First, the information must possess the necessary quality of confidentiality. 
 
@@ -267,7 +267,7 @@ admitted were highly similar. [note: 39]
 
 44     One further point remained. At trial, counsel for the Defendants informed me that the Toko Warisan drawing had not been particularised in the statement of claim before proceeding to cross
 
-examine Anna on the drawing. [note: 40] The case of _Abdul Latif bin Mohammed Tahiar (trading as Canary Agencies) v Saeed Husain s/o Hakim Gulam Mohiudin (trading as United Limousine)_ [2003] 2 SLR(R) 61 stands for the proposition that “parties stand by their pleaded case and any defect in the pleadings cannot be cured by any averments in affidavits” (at [7]). For breach of confidence, the plaintiff must provide all the particulars sought of the allegations in their statement of claim as it is only fair for the defendants to know the information they are alleged to have used (G P Selvam, _Singapore Civil Procedure 2015_ (Sweet & Maxwell, 2015 at Paragraph 18/12/6). I was of the view that the pleading was sufficiently particularised. The confidential information referred to the plans, 
+examine Anna on the drawing. [note: 40] The case of _Abdul Latif bin Mohammed Tahiar (trading as Canary Agencies) v Saeed Husain s/o Hakim Gulam Mohiudin (trading as United Limousine)_ <span class="citation">[2003] 2 SLR(R) 61</span> stands for the proposition that “parties stand by their pleaded case and any defect in the pleadings cannot be cured by any averments in affidavits” (at [7]). For breach of confidence, the plaintiff must provide all the particulars sought of the allegations in their statement of claim as it is only fair for the defendants to know the information they are alleged to have used (G P Selvam, _Singapore Civil Procedure 2015_ (Sweet & Maxwell, 2015 at Paragraph 18/12/6). I was of the view that the pleading was sufficiently particularised. The confidential information referred to the plans, 
 
 drawings and photographs that were discovered when Catherine accessed Vincent’s iPad. [note: 41] Hence, the Defendants would have known from the pleading that they had to answer for the drawings and documents in Vincent’s iPad. That included the Toko Warisan Drawing. 
 
@@ -339,7 +339,7 @@ _The question of detriment_
 
 Save Sdn Bhd letter (see [49] above). Another letter from Ken Ken on 18 March 2014 [note: 54] confirmed that UBZ had not participated in any tender for the Ken Ken Cold Storage Project. 
 
-58     Whether detriment is required depends on the circumstances of the case. See, _eg_ , _Vestwin Trading Pte Ltd v Obegi Melissa_ [2006] 3 SLR(R) 573 at [74]. In any event, detriment need not necessarily result from the use of confidential information to tender for specific projects in competition with Tempcool. The Disputed Drawings, which Woon used to help Tempcool’s customers speak to suppliers and rearrange the shelving configuration, helped Woon and UBZ foster goodwill, which was beneficial to them and detrimental to Tempcool. With the drawings, Woon demonstrated UBZ’s ability to serve Tempcool’s customers well; they had no need to return to Tempcool for postproject help. The Pricing Information, which included the Arneg Quotation and Pricing Summary, was 
+58     Whether detriment is required depends on the circumstances of the case. See, _eg_ , _Vestwin Trading Pte Ltd v Obegi Melissa_ <span class="citation">[2006] 3 SLR(R) 573</span> at [74]. In any event, detriment need not necessarily result from the use of confidential information to tender for specific projects in competition with Tempcool. The Disputed Drawings, which Woon used to help Tempcool’s customers speak to suppliers and rearrange the shelving configuration, helped Woon and UBZ foster goodwill, which was beneficial to them and detrimental to Tempcool. With the drawings, Woon demonstrated UBZ’s ability to serve Tempcool’s customers well; they had no need to return to Tempcool for postproject help. The Pricing Information, which included the Arneg Quotation and Pricing Summary, was 
 
 also detrimental to Tempcool. Even if UBZ could obtain its own Arneg quotations, [note: 55] it was valuable for Woon to know if Arneg quoted the same prices to Tempcool. It went without saying that the Pricing Summary, which showed price mark-ups, allowed UBZ to craft better bids in present or future project tenders. 
 
@@ -378,7 +378,7 @@ archive. [note: 62] At trial, he clarified that he was not saying that the Defen
 
 **Whether Vincent and Woon breached the duty of good faith and fidelity** 
 
-62     It is trite law that there is an implied term that the employee will serve his employer with good faith and fidelity. See, _eg_ , _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ [2008] 1 SLR(R) 663 at [193]. As Vincent was then a Tempcool employee, he had breached his duty of good faith and fidelity in sending the Disputed Drawings and other materials to Woon. This would also include the Filing Labels – notwithstanding that they were not confidential – as the duty requires an employee to act in the interests of the employer. Vincent was not doing that. In serving two masters, Vincent had already breached the duty. It was not unfair to say that Vincent had moonlighted just because he was not given any terms and conditions when he joined Tempcool and was not told that he could not work part-time for extra money. Vincent’s behaviour throughout the entire episode showed that he was no mere freelancer, as the tenor of the iPad messages on 25 April 2013 clearly showed: 
+62     It is trite law that there is an implied term that the employee will serve his employer with good faith and fidelity. See, _eg_ , _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ <span class="citation">[2008] 1 SLR(R) 663</span> at [193]. As Vincent was then a Tempcool employee, he had breached his duty of good faith and fidelity in sending the Disputed Drawings and other materials to Woon. This would also include the Filing Labels – notwithstanding that they were not confidential – as the duty requires an employee to act in the interests of the employer. Vincent was not doing that. In serving two masters, Vincent had already breached the duty. It was not unfair to say that Vincent had moonlighted just because he was not given any terms and conditions when he joined Tempcool and was not told that he could not work part-time for extra money. Vincent’s behaviour throughout the entire episode showed that he was no mere freelancer, as the tenor of the iPad messages on 25 April 2013 clearly showed: 
 
 
  Vincent: He is teaching us how to program and wire up. Try up for one side. Seems like very tedious. 
@@ -417,7 +417,7 @@ contract.
 
 **Whether the Defendants were liable for unlawful conspiracy** 
 
-64     Tempcool had to prove the elements laid out in _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ [2014] 1 SLR 860 (“ _EFT Holdings_ ”) at [112]: 
+64     Tempcool had to prove the elements laid out in _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ <span class="citation">[2014] 1 SLR 860</span> (“ _EFT Holdings_ ”) at [112]: 
 
  (a) there was a combination of persons to do certain acts; 
 

@@ -37,7 +37,7 @@ defendants had raised would fail. The DCA 11 Appellants also argue that, althoug
 3       District Court Appeal No 12 of 2017 (“DCA 12”) is an appeal by the 4th, 6th, 7th, 8th and 9th defendants (“the DCA 12 Appellants”) who were among the counterclaimants below against the DJ’s decision in the DC Suit on the quantum of general and aggravated damages awarded to them. YSL has not appealed against the DJ’s decision. I note in this regard that although QLW is not a party to DCA 11, she has nonetheless chosen to lodge an appeal in DCA 12. The DJ’s grounds of decision are 
 
 
-reported as _Yap Sing Lee v Lim Tat and others_ [2017] SGDC 233 (“the GD”). 
+reported as _Yap Sing Lee v Lim Tat and others_ <span class="citation">[2017] SGDC 233</span> (“the GD”). 
 
 **Facts** 
 
@@ -320,7 +320,7 @@ _Issue (b): Fair comment, qualified privilege and right of reply privilege_
 
 49     Although my finding above is sufficient to dispose of the appeal in DCA 11, for completeness, I go on to consider the remaining defences. With respect, I am of the opinion that these defences should also have applied on the facts. 
 
-50     To succeed in the defence of fair comment, the defendant has to satisfy all of the following criteria (see _Loh Siew Hock and others v Lang Chin Ngau_ [2014] 4 SLR 1117 at [85]): 
+50     To succeed in the defence of fair comment, the defendant has to satisfy all of the following criteria (see _Loh Siew Hock and others v Lang Chin Ngau_ <span class="citation">[2014] 4 SLR 1117</span> at [85]): 
 
  (a) the words complained of are comments; 
 
@@ -412,7 +412,7 @@ DCA 11 Appellants’ part. As observed by Mr Yim SC at the 20th AGM, the MCST wa
 
 **_Legal principles_** 
 
-66     The factors that affect the quantum of damages in defamation are as follows (see _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ [2010] 4 SLR 357 at [7]): 
+66     The factors that affect the quantum of damages in defamation are as follows (see _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ <span class="citation">[2010] 4 SLR 357</span> at [7]): 
 
  (a) the nature and gravity of the defamation; 
 
@@ -428,7 +428,7 @@ DCA 11 Appellants’ part. As observed by Mr Yim SC at the 20th AGM, the MCST wa
 
  (g) the presence of malice. 
 
-67     Where the defendant’s conduct causes additional injury to the plaintiff’s feelings, aggravated damages may be awarded (see _Au Mun Chew (practising as Au & Associates) v Lim Ban Lee_ [1997] 1 SLR(R) 220). The defendant’s conduct that aggravates the injury suffered by the plaintiff may take the following forms (see _The Law of Torts in Singapore_ at para 13.140): 
+67     Where the defendant’s conduct causes additional injury to the plaintiff’s feelings, aggravated damages may be awarded (see _Au Mun Chew (practising as Au & Associates) v Lim Ban Lee_ <span class="citation">[1997] 1 SLR(R) 220</span>). The defendant’s conduct that aggravates the injury suffered by the plaintiff may take the following forms (see _The Law of Torts in Singapore_ at para 13.140): 
 
  (a) allegations of bad behavior during mitigation; 
 
@@ -440,7 +440,7 @@ DCA 11 Appellants’ part. As observed by Mr Yim SC at the 20th AGM, the MCST wa
 
  (e) the malicious and reckless conduct of the defendant. 
 
-68     In _Koh Sin Chong Freddie v Chan Cheng Wah Bernard and others and another appeal_ [2013] 4 SLR 629 at [80], it was held that an appeal court would reject the damages awarded by the judge below in “very special” or “very exceptional” cases, where the judge must be shown to have arrived at his figure either by applying a wrong principle of law or through a misapprehension of facts or for some other reason to have made a wholly erroneous estimate of the damage suffered. 
+68     In _Koh Sin Chong Freddie v Chan Cheng Wah Bernard and others and another appeal_ <span class="citation">[2013] 4 SLR 629</span> at [80], it was held that an appeal court would reject the damages awarded by the judge below in “very special” or “very exceptional” cases, where the judge must be shown to have arrived at his figure either by applying a wrong principle of law or through a misapprehension of facts or for some other reason to have made a wholly erroneous estimate of the damage suffered. 
 
 **_My decision_** 
 
@@ -486,7 +486,7 @@ _The quantum of general and aggravated damages to be awarded_
 
 74     As noted above, the 1st and 2nd Appellants in DCA 12, Ken Tse and Bryant Hwang, were also specifically named in some of YSL’s letters and were thus singled out for attack with those statements. 
 
-75     In assessing the quantum of general damages to be awarded, I was of the view that the nature and gravity of the defamatory statements in YSL’s letters were akin to those present in the case of _Lai Chong Meng v Liew Leong Wan_ [2016] SGDC 252 (“ _Lai Chong Meng_ ”) where the district judge had assessed general damages at $30,000. _Lai Chong Meng_ involved allegations that the plaintiff, who was a member of the Singapore Island Country Club, posted an email regarding two employees of the said country club with a Private Investigator’s report on their private matters attached. The email subsequently went viral. It was also said that the plaintiff’s actions were hypocritical, despicable and mendacious. 
+75     In assessing the quantum of general damages to be awarded, I was of the view that the nature and gravity of the defamatory statements in YSL’s letters were akin to those present in the case of _Lai Chong Meng v Liew Leong Wan_ <span class="citation">[2016] SGDC 252</span> (“ _Lai Chong Meng_ ”) where the district judge had assessed general damages at $30,000. _Lai Chong Meng_ involved allegations that the plaintiff, who was a member of the Singapore Island Country Club, posted an email regarding two employees of the said country club with a Private Investigator’s report on their private matters attached. The email subsequently went viral. It was also said that the plaintiff’s actions were hypocritical, despicable and mendacious. 
 
 76     In the present case, I note also that YSL’s letters were disseminated to all the residents of YAP and were furthermore published over an extended period. He did not apologise or retract the defamatory statements. The vitriolic nature of the language used in YSL’s letters also fortifies my view that the publications were made maliciously against the DCA 12 Appellants with the dominant motive to injure them. 
 

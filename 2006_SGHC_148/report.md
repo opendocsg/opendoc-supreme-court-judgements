@@ -47,7 +47,7 @@ appears that at that point, the respondent no longer considered itself bound by 
 
 Mr Yeo therefore submitted that good sense dictated that the matter should be stayed in the meantime. 
 
-8       Mr Chew Kei-Jin presented the case for the respondent though he was led by Mr Chelva Rajah SC. He submitted in reliance upon some _dicta_ of Lai Kew Chai J in his landmark judgment in _Sumitomo Bank Ltd v Kartika Ratna Thahir_ [1993] 1 SLR 735, that there is no requirement whether as a rule of law or otherwise that every component of an allegation of fraud has to be proved by oral evidence. He indicated that the respondent’s case on fraud was founded largely upon documents. He therefore did not accept Mr Yeo’s suggestion that the matter could not be disposed of within the three days that had been allocated. In any event, he submitted that whatever the outcome of the Petition in the US, it was the intention of the respondent to proceed with this application to set aside the _ex parte_ order on the basis of fraud. 
+8       Mr Chew Kei-Jin presented the case for the respondent though he was led by Mr Chelva Rajah SC. He submitted in reliance upon some _dicta_ of Lai Kew Chai J in his landmark judgment in _Sumitomo Bank Ltd v Kartika Ratna Thahir_ <span class="citation">[1993] 1 SLR 735</span>, that there is no requirement whether as a rule of law or otherwise that every component of an allegation of fraud has to be proved by oral evidence. He indicated that the respondent’s case on fraud was founded largely upon documents. He therefore did not accept Mr Yeo’s suggestion that the matter could not be disposed of within the three days that had been allocated. In any event, he submitted that whatever the outcome of the Petition in the US, it was the intention of the respondent to proceed with this application to set aside the _ex parte_ order on the basis of fraud. 
 
 9       I invited Mr Chew to clarify this since it seemed to me that if the applicant successfully recovered all that it considered was due to it as a result of the enforcement proceedings in the US, it would likely bring an end to these proceedings. Mr Chew’s explanation went to the heart of the 
 
@@ -129,7 +129,7 @@ provisional character of an _ex parte_ order cannot be artificially segmented so
 
  The court is entitled to take into account facts and documents disclosed or discovered in compliance or in pursuance of the interim orders, even though the question of whether the order should have been made in the first place was being raised ... 
 
-32     The decision of the Court of Appeal in _Nikkomann Co Pte Ltd v Yulean Trading Pte Ltd_ [1992] 2 SLR 980 (“ _Nikkomann_ ”) is cited in support of the foregoing proposition in _Singapore Civil Procedure 2003_. In _Nikkomann,_ the Court of Appeal followed _WEA Ltd_ and said as follows at 992, [50]: 
+32     The decision of the Court of Appeal in _Nikkomann Co Pte Ltd v Yulean Trading Pte Ltd_ <span class="citation">[1992] 2 SLR 980</span> (“ _Nikkomann_ ”) is cited in support of the foregoing proposition in _Singapore Civil Procedure 2003_. In _Nikkomann,_ the Court of Appeal followed _WEA Ltd_ and said as follows at 992, [50]: 
 
  At this point, we ought to say that the learned judicial commissioner was also entitled to take into account facts and documents disclosed or discovered in compliance or in pursuance of the 
 

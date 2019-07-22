@@ -530,7 +530,7 @@ second immersions. She did not appear to have suffered from those immersions, an
 
  Fourthly, it must be proved that the injury of the type just described made up of the three elements set out above is sufficient to cause death in the ordinary course of nature. This part of the enquiry is purely objective and inferential and has nothing to do with the intention of the offender. 
 
-This test has been referred to and adopted by our courts in numerous cases. In particular, the Court of Appeal in _Public Prosecutor v Lim Poh Lye and Another_ [2005] 4 SLR 582 gave a careful explanation on the effect and application of this provision. 
+This test has been referred to and adopted by our courts in numerous cases. In particular, the Court of Appeal in _Public Prosecutor v Lim Poh Lye and Another_ <span class="citation">[2005] 4 SLR 582</span> gave a careful explanation on the effect and application of this provision. 
 
 70     Injury is defined in s 44 of the Penal Code to include any bodily harm whatever illegally caused to a person. When the accused immersed Nonoi into the pail of water on the three occasions, he must have known that she would be unable to breathe, or she would inhale water. Her enlarged and waterlogged lungs were consistent with the latter. When water is inhaled into the lungs, that can cause death in the ordinary course of nature. 
 

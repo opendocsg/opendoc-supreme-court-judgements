@@ -16,7 +16,7 @@
 
 _Civil Procedure_ – _Appeals_ – _Leave_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2015] 5 SLR 722 .] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2015] 5 SLR 722</span> .] 
 
 22 January 2016 
 
@@ -93,7 +93,7 @@ strike out the Notice of Appeal on 23 April 2015. The grounds of the application
 
 20     The appellant contended that the respondent’s interpretation of s 34(2)( _b_ ) effectively gave rise to the anomalous result of “substantive cases being denied even one tier of appeal as of right” and also ran contrary to the legislative intent behind s 34 of the SCJA. 
 
-21     The appellant relied on the parliamentary debate concerning the amendments made to s 34 of the SCJA in 2010, where it had been stated that the right of appeal for substantive matters heard at first instance by the High Court remained unchanged and that, in such cases, there was a _right_ of appeal to the Court of Appeal. The appellant also referred to a number of recent pronouncements of the Court of Appeal on the scope of s 34 in the context of interlocutory applications. In particular, the appellant relied on _Dorsey James Michael v World Sport Group Pte Ltd_ [2013] 3 SLR 354 (“ _Dorsey_ ”) and _OpenNet Pte Ltd v Info-communications Development Authority of Singapore_ [2013] 2 SLR 880 (“ _OpenNet_ ”). On the facts of the present case, the appellant submitted that the Judge had disposed of its substantive right to seek leave for taxation, and that it should therefore be accorded 
+21     The appellant relied on the parliamentary debate concerning the amendments made to s 34 of the SCJA in 2010, where it had been stated that the right of appeal for substantive matters heard at first instance by the High Court remained unchanged and that, in such cases, there was a _right_ of appeal to the Court of Appeal. The appellant also referred to a number of recent pronouncements of the Court of Appeal on the scope of s 34 in the context of interlocutory applications. In particular, the appellant relied on _Dorsey James Michael v World Sport Group Pte Ltd_ <span class="citation">[2013] 3 SLR 354</span> (“ _Dorsey_ ”) and _OpenNet Pte Ltd v Info-communications Development Authority of Singapore_ <span class="citation">[2013] 2 SLR 880</span> (“ _OpenNet_ ”). On the facts of the present case, the appellant submitted that the Judge had disposed of its substantive right to seek leave for taxation, and that it should therefore be accorded 
 
 
 one tier of appeal _as of right_. 

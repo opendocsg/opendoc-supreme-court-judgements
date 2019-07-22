@@ -90,7 +90,7 @@ current proceedings seeking an order that the 1st defendant’s decision to reje
 
 13     Since s 15(2)(b) of the Act refers to the “process for the enforcement of a judgment”, it would be necessary to examine what would constitute a “process for the enforcement of a judgment” under the Rules of Court. 
 
-14     The purpose of ordering security of costs was set out by Sir Nicholas Browne-Wilkinson V-C in _Porzelack KG v Porzelack (UK) Ltd_ [1987] 1 All ER 1074 (“Porzelack”) at 1076-1077 (which was adopted by the Court of Appeal in _Creative Elegance (M) Sdn Bhd v Puay Kim Seng and another_ [1999] 1 SLR(R) 112 (“Creative Elegance”) at [22]) as follows: 
+14     The purpose of ordering security of costs was set out by Sir Nicholas Browne-Wilkinson V-C in _Porzelack KG v Porzelack (UK) Ltd_ [1987] 1 All ER 1074 (“Porzelack”) at 1076-1077 (which was adopted by the Court of Appeal in _Creative Elegance (M) Sdn Bhd v Puay Kim Seng and another_ <span class="citation">[1999] 1 SLR(R) 112</span> (“Creative Elegance”) at [22]) as follows: 
 
  The purpose of ordering security for costs against a plaintiff ordinarily resident outside jurisdiction is to ensure that a successful defendant will have a fund available within the jurisdiction of this court against which it can enforce the judgment for costs... 
 
@@ -189,7 +189,7 @@ EWCA Civ 41 at [51], where the English Court of Appeal stated that section 13(2)
 
 30     It is not in dispute that the plaintiff is ordinarily resident out of jurisdiction. Therefore, the threshold requirement in O23 r1(1) has been met. The only remaining issue is whether, having regard to all the circumstances of the case, it would be just to order the plaintiff to provide security for the defendants’ costs. 
 
-31     One of the factors to be considered is the merits of the plaintiff’s claim. In _Creative Elegance_ , the Court of Appeal at [24] referred to _Omar Ali bin Mohd v Syed Jafaralsadeg bin Abdulkadir Alhadad & Ors_ [1995] 2 SLR(R) 407 where Chao Hick Tin J said at [21]: 
+31     One of the factors to be considered is the merits of the plaintiff’s claim. In _Creative Elegance_ , the Court of Appeal at [24] referred to _Omar Ali bin Mohd v Syed Jafaralsadeg bin Abdulkadir Alhadad & Ors_ <span class="citation">[1995] 2 SLR(R) 407</span> where Chao Hick Tin J said at [21]: 
 
  [referring to Porzelack ]...Brown-Wilkinson VC did not think that a hearing for security for costs was an appropriate occasion to investigate in considerable detail the likelihood or otherwise of success in the action. But he recognised that if it could clearly be demonstrated that the plaintiff was likely to succeed, in the sense that there was a high probability of success, then that was a matter that could properly be weighed in the balance. But he deplored any attempt to go into the merits of the case "unless it can be clearly demonstrated one way or another that there is a high degree of probability of success or failure. 
 
@@ -208,7 +208,7 @@ EWCA Civ 41 at [51], where the English Court of Appeal stated that section 13(2)
 
 was rejected. The plaintiff also pointed out that the 2nd defendant had entered into a Member’s Voluntary Winding Up and at that point of time, appeared to have a surplus of USD5,235,863 after paying its debts. The bulk of this has been distributed and there is only a balance of USD20,000 left. 
 
-37     The defendants asserted that the 1st defendant had at all times acted properly in adjudicating the plaintiff’s Proof of Debt. They rely on _Fustar Chemicals Ltd (Hong Kong) v Liquidator of Fustar Chemicals Pte Ltd_ [2009] 4 SLR(R) 458 at [20] where the Court of Appeal held: 
+37     The defendants asserted that the 1st defendant had at all times acted properly in adjudicating the plaintiff’s Proof of Debt. They rely on _Fustar Chemicals Ltd (Hong Kong) v Liquidator of Fustar Chemicals Pte Ltd_ <span class="citation">[2009] 4 SLR(R) 458</span> at [20] where the Court of Appeal held: 
 
  ...The liquidator has to ensure that the assets of the company are only distributed to creditors who have debts that have been genuinely created and remain legally due. He has extensive powers to go behind documents. Even judgments and compromise agreements can be re-evaluate to ensure that the debts are genuine....he is only bound to take extraordinary steps to scrutinise a proof of debt on the basis that it could be a false claim in cases where he has reason to be suspicious about is genuineness or legal validity...[emphasis in the original] 
 

@@ -16,7 +16,7 @@
 
 _Companies_ – _Schemes of arrangement_ – _Company applying to court to extend timelines to hold creditors' meeting to discuss scheme and to advertise notice of creditors' meeting and proposed scheme_ – _Timelines set on two previous occasions_ – _Whether company discharging onus of proof that valid grounds existing for further extension of timelines_ 
 
-1       The Raffles Town Club saga moves on. After the primary dispute had been determined by the Court of Appeal on 23 August 2005 in [2005] 4 SLR 351 and the defendant c ompany, Raffles Town Club Pte Ltd (“the Company”), applied to put forward a sc heme of arrangement to its c reditors, one would have thought that the next steps in the matter would be the presentation of the sc heme proposal, and then the vote thereon. 
+1       The Raffles Town Club saga moves on. After the primary dispute had been determined by the Court of Appeal on 23 August 2005 in <span class="citation">[2005] 4 SLR 351</span> and the defendant c ompany, Raffles Town Club Pte Ltd (“the Company”), applied to put forward a sc heme of arrangement to its c reditors, one would have thought that the next steps in the matter would be the presentation of the sc heme proposal, and then the vote thereon. 
 
 2       That was not to be. First, the plaintiffs, a group of members of the Raffles Town Club (“the Club”), applied for the appointment of a Spec ial Rec eiver and Manager for the Company and a Mareva injunc tion against it. I rejec ted that applic ation, whic h then went up to the Court of Appeal on an expedited appeal and met with the same result. 
 

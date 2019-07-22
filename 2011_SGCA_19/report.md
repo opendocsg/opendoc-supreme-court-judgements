@@ -16,13 +16,13 @@
 
 _Contempt of Court_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2010] 4 SLR 954.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2010] 4 SLR 954</span>.] 
 
 27 April 2011 
 
 **Chan Sek Keong CJ (delivering the grounds of decision of the court):** 
 
-1       This is an appeal against the decision of the High Court judge (“the Judge”) dismissing the Appellant’s application to cite the Respondents for contempt of court (see _PT Makindo (formerly known as PT Makindo TBK) v Aperchance Co Ltd and others_ [2010] 4 SLR 954 (“the GD”)). 
+1       This is an appeal against the decision of the High Court judge (“the Judge”) dismissing the Appellant’s application to cite the Respondents for contempt of court (see _PT Makindo (formerly known as PT Makindo TBK) v Aperchance Co Ltd and others_ <span class="citation">[2010] 4 SLR 954</span> (“the GD”)). 
 
 2       At the conclusion of the hearing, we dismissed the appeal with costs. We now give our reasons. 
 

@@ -173,7 +173,7 @@ I will deal with each ground in turn.
 
  (c) the finding in para 7.28 of the Award that the applicant was estopped from raising the issue of the June 2001 meeting as this was an issue which might have been and should have been brought forward as part of the Previous Arbitration but was not brought forward by the applicant. 
 
-23     The applicant acknowledged in its submissions that in order to set aside the Award on the ground that it was in conflict with the public policy of Singapore, it had, as prescribed by Choo Han Teck J in _John Holland Pty Ltd v Toyo Engineering Corp_ [2001] 2 SLR 262 (“ _John Holland_ ”), to first identify the public policy and then show which part of the Award conflicted with it. In this respect, the applicant submitted that the public policy that was breached by the Award was that set out in s 19B of the Act. This reads: 
+23     The applicant acknowledged in its submissions that in order to set aside the Award on the ground that it was in conflict with the public policy of Singapore, it had, as prescribed by Choo Han Teck J in _John Holland Pty Ltd v Toyo Engineering Corp_ <span class="citation">[2001] 2 SLR 262</span> (“ _John Holland_ ”), to first identify the public policy and then show which part of the Award conflicted with it. In this respect, the applicant submitted that the public policy that was breached by the Award was that set out in s 19B of the Act. This reads: 
 
  (1) An award made by the arbitral tribunal pursuant to an arbitration agreement is final and binding on the parties and on any persons claiming through or under them and may be relied on by any of the parties by way of defence, set-off or otherwise in any proceedings in any court of 
 

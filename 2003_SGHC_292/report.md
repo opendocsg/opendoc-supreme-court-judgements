@@ -202,7 +202,7 @@ consortium of companies were not relevant to the issue of the “ _commercial pu
 
  “... In my opinion, then, evidence of negotiations, or of the parties’ intentions, and a fortiori of [the plaintiff’s] intentions, ought not to be received, and evidence should be restricted to evidence of the factual background known to the parties at or before the date of the contract, including evidence of the “genesis” and objectively the “aim” of the transaction.” 
 
-52     Both the passages from _Prenn v Simmonds_ and Chitty on Contracts were cited with approval by LP Thean JA in _MCST Plan No 1933 v Liang Huat Aluminium Ltd_ [2001] 3 SLR 253 at 259. This basic principle has also been reiterated by the Court of Appeal in _Pacific Century Regional Development Ltd v Canadian Imperial Investment Ptd Ltd_ [2001] 2 SLR 443. 
+52     Both the passages from _Prenn v Simmonds_ and Chitty on Contracts were cited with approval by LP Thean JA in _MCST Plan No 1933 v Liang Huat Aluminium Ltd_ <span class="citation">[2001] 3 SLR 253</span> at 259. This basic principle has also been reiterated by the Court of Appeal in _Pacific Century Regional Development Ltd v Canadian Imperial Investment Ptd Ltd_ <span class="citation">[2001] 2 SLR 443</span>. 
 
 **SIAC’s submissions** 
 

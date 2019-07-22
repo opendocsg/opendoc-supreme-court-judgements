@@ -47,7 +47,7 @@ _Family Law_
 
  (b) 
 
-4       The parties appealed against the 25 May 2005 Order. In her appeal, the mother prayed, _inter alia_ , for lump sum maintenance of $200,000 for the son, and lump sum maintenance of $30,000 for herself. The cross appeals in RAS 720042/2005 and RAS 720043/2005 were dismissed by Justice Tan Lee Meng on 25 January 2006. The neutral citation of DJ Lau’s written Grounds of Decision is _MB v MC_ [2005] SGDC 181. 
+4       The parties appealed against the 25 May 2005 Order. In her appeal, the mother prayed, _inter alia_ , for lump sum maintenance of $200,000 for the son, and lump sum maintenance of $30,000 for herself. The cross appeals in RAS 720042/2005 and RAS 720043/2005 were dismissed by Justice Tan Lee Meng on 25 January 2006. The neutral citation of DJ Lau’s written Grounds of Decision is _MB v MC_ <span class="citation">[2005] SGDC 181</span>. 
 
 5       A few months later, the mother tried to vary the 25 May 2005 Order by filing Summons No 650212/2006 (“the 2006 Summons”). In the 2006 Summons, the mother wanted: 
 
@@ -55,9 +55,9 @@ _Family Law_
 
  [MB] to pay the mother a sum of $1,000 per month, alternatively, a lump sum of $100,000. 
 
-6       The 2006 Summons was dismissed by DJ Khoo Oon Soo on 11 November 2006. The mother’s appeal was dismissed by Tay Yong Kwang J with no order as to costs on 7 March 2007. In his ruling, Tay J cautioned the mother about future costs orders if she persisted in taking out unmeritorious applications and appeals (see _MB v MC_ [2008] SGHC 246 at [7]). 
+6       The 2006 Summons was dismissed by DJ Khoo Oon Soo on 11 November 2006. The mother’s appeal was dismissed by Tay Yong Kwang J with no order as to costs on 7 March 2007. In his ruling, Tay J cautioned the mother about future costs orders if she persisted in taking out unmeritorious applications and appeals (see _MB v MC_ <span class="citation">[2008] SGHC 246</span> at [7]). 
 
-7       The mother filed Summons No 650228/2008 (“the 2008 Summons”) on 24 June 2008. The 2008 Summons was heard by DJ Regina Ow. On this occasion, the mother limited her claim to lump sum maintenance of $250,000 for both her son and herself. DJ Ow dismissed the 2008 Summons. The mother’s appeal was also dismissed by Woo Bih Li J on 14 November 2008. On appeal, it was made known that the lump sum maintenance of $250,000 was for the son only. The neutral citation of Woo J’s written Grounds of Decision is _MB v MC_ [2008] SGHC 246. 
+7       The mother filed Summons No 650228/2008 (“the 2008 Summons”) on 24 June 2008. The 2008 Summons was heard by DJ Regina Ow. On this occasion, the mother limited her claim to lump sum maintenance of $250,000 for both her son and herself. DJ Ow dismissed the 2008 Summons. The mother’s appeal was also dismissed by Woo Bih Li J on 14 November 2008. On appeal, it was made known that the lump sum maintenance of $250,000 was for the son only. The neutral citation of Woo J’s written Grounds of Decision is _MB v MC_ <span class="citation">[2008] SGHC 246</span>. 
 
 8       Several months before the 2008 Summons was taken out, [MB] made a new Will to replace an earlier one executed on 28 February 2001. In his Last Will and Testament dated 9 April 2008 (“the 2008 Will”), [MB] made two specific bequeaths: (a) $10,000 to the son, and (b) $5,000 to the mother. The residue of the estate, after payment of [MB]’s debts, funeral and testamentary expenses, was to be divided between [MB]’s two daughters, [AQA] and [D] in equal shares. 
 
@@ -123,7 +123,7 @@ Provided that no application shall be made to the court by or on behalf of any p
 
  (8) The court in considering for the purposes of subsection (1), whether the disposition of the deceased’s estate effected by the law relating to intestacy, or by the combination of the deceased’s will and that law, makes reasonable provision for the maintenance of a dependant shall not be bound to assume that the law relating to intestacy makes reasonable provision in all 
 
-12     Recently, the Court of Appeal in _AAG v Estate of AAH, deceased_ [2010] 1 SLR 769 at [40] noted that the IFPA must be read in light of the English authorities interpreting the English Inheritance (Family Provision) Act 1938 (“the UK 1938 Act”): 
+12     Recently, the Court of Appeal in _AAG v Estate of AAH, deceased_ <span class="citation">[2010] 1 SLR 769</span> at [40] noted that the IFPA must be read in light of the English authorities interpreting the English Inheritance (Family Provision) Act 1938 (“the UK 1938 Act”): 
 
  We would reiterate that by the Minister stating that Singapore was adopting the IFP (UK) Act 1938 because it had worked well in England, he must necessarily mean that the scheme of things under the Act as interpreted and applied by the courts there. That was Parliamentary intention, and under s 9A of the Interpretation Act, we are obliged to give effect to such intention. 
 
@@ -157,7 +157,7 @@ that the lump sum maintenance of $250,000 was for the son. [note: 4] How the fig
 
  [emphasis added] 
 
-By way of brief background, [MB] owned a property known as [JU] and he sold it in 2005 for $2.7m. It was not matrimonial property, and the mother had no claim against it. As Woo Bih Li J noted his decision in _MB v MC_ [2008] SGHC 246, the [JU] property was already dealt with at the ancillaries, and the in-principle question of lump sum maintenance for the son was already considered by DJ Lau and other judges. 
+By way of brief background, [MB] owned a property known as [JU] and he sold it in 2005 for $2.7m. It was not matrimonial property, and the mother had no claim against it. As Woo Bih Li J noted his decision in _MB v MC_ <span class="citation">[2008] SGHC 246</span>, the [JU] property was already dealt with at the ancillaries, and the in-principle question of lump sum maintenance for the son was already considered by DJ Lau and other judges. 
 
 18     Mr Tan for the defendants reminded that it was therefore no coincidence that the mother asked for $250,000 in the present proceedings. It was exactly the same amount she had sought in her past ancillary applications and appeals. Being without merits, the ancillary applications and/or appeals were dismissed. This similar fact had prompted the defendants to question the real motive behind the present proceedings. Judicial observations showed that the mother had an obsessive approach in bringing proceedings devoid of merits, unarguable, and had refused to take no for an answer. Her conduct was even discredited by Woo J who saw through her ploy to use her child to get lump sum maintenance of $250,000 when the real reason for filing the 2008 Summons was that she wanted a share of the sale proceeds of the [JU] Property. The mother’s gripe had always been that [MB] had given the sale proceeds to his daughters from his first marriage, but nothing to her and the son. In the present application, she repeated the same dissatisfaction and unhappiness. 
 
@@ -261,7 +261,7 @@ his point is related to her contradictions, and hence the veracity of her affida
 
  I cannot work and earn any stable income. My income is 0. My son and I cannot depend on my brother, sister and mother for financial help, but they cannot help me indefinitely. 
 
-Notice of Assessment for the Year of Assessment 2009 was submitted as proof of nil income. The plaintiff’s submissions of 2 August 2010 also noted that the mother was “a recovering cancer patient who is presently 47 years of old and, she herself cannot even work properly to earn a fix and steady income at all.” However, the cancer had been in remission for over 19 years now, and this ought not affect her ability to earn a fix and steady income, for instance, in her last stated occupation as a housing agent with an earning capacity of $2,000-$3,000 per month ( _MB v MC_ [2005] SGDC 181 at [19]-[21]). At the hearing of the ancillaries, DJ Lau had castigated the mother as a manipulative person. At [20], DJ Lau said: 
+Notice of Assessment for the Year of Assessment 2009 was submitted as proof of nil income. The plaintiff’s submissions of 2 August 2010 also noted that the mother was “a recovering cancer patient who is presently 47 years of old and, she herself cannot even work properly to earn a fix and steady income at all.” However, the cancer had been in remission for over 19 years now, and this ought not affect her ability to earn a fix and steady income, for instance, in her last stated occupation as a housing agent with an earning capacity of $2,000-$3,000 per month ( _MB v MC_ <span class="citation">[2005] SGDC 181</span> at [19]-[21]). At the hearing of the ancillaries, DJ Lau had castigated the mother as a manipulative person. At [20], DJ Lau said: 
 
  To my mind, the wife was a manipulative woman who forced the husband to part with large sums of money which were meant for his old age. Thus, it is not inconceivable that the wife had either concealed her true income in 2001 or had drastically reduced her income by deliberate means in order to portray herself as living from hand to mouth and thereby her claim for maintenance for both herself and the child. Indeed, the wife claimed a hefty $300,000 to $500,000 as maintenance for herself and the child at first instance. It is more than mere coincidence that the wife had purportedly suffered a severe financial setback in 2001 which was also the year the husband commenced divorce proceedings against her. In this connection, the wife’s nondisclosure of her income from 2002 onwards is telling. 
 
@@ -286,7 +286,7 @@ which is identical in all material aspects to s 3(3) IFPA, applied a rough and r
 
 _Section 3(6) of IFPA_ 
 
-37     Section 3(6) of the IFPA requires the court to consider any past, present or future capital or income from any source of the dependant, to the conduct of that dependant in relation to the deceased as well as “any other matter or thing which in the circumstances of the case” that the court finds relevant or material in relation to the dependant or persons interested in the estate of the deceased. In _Jeanne Christine Monteiro v Ling Mie Hean & Anor_ [1997] SGHC 296, it was held that the court should consider any _inter vivos_ gift by the testator to the applicant in determining whether to order reasonable provision for maintenance. 
+37     Section 3(6) of the IFPA requires the court to consider any past, present or future capital or income from any source of the dependant, to the conduct of that dependant in relation to the deceased as well as “any other matter or thing which in the circumstances of the case” that the court finds relevant or material in relation to the dependant or persons interested in the estate of the deceased. In _Jeanne Christine Monteiro v Ling Mie Hean & Anor_ <span class="citation">[1997] SGHC 296</span>, it was held that the court should consider any _inter vivos_ gift by the testator to the applicant in determining whether to order reasonable provision for maintenance. 
 
 38     In the present case, the mother admitted to receiving $127,900 from [MB] during the period 
 
@@ -313,7 +313,7 @@ _Section 4: Time Bar_
 
 2009\. Since the six months expired on 10 August 2009, the application was time-barred. 
 
-43     The defendants’ submission was incorrect. _Halsbury’s Laws of Singapore_ (Vol 15, 2006 Reissue) (“ _Halsbury’s_ ”) at [190.320] notes that, “[t]ime only runs from the valid grant of representation.” _Re Freeman_ [1984] 1 WLR 1419 was cited for this proposition. This position is also supported by a local case interpreting s 4 of the IFPA (see _Nirmala Devi d/o Vengadasalam v Danalakshmi Nee Krishnan and Ors_ [1990] SGHC 130). 
+43     The defendants’ submission was incorrect. _Halsbury’s Laws of Singapore_ (Vol 15, 2006 Reissue) (“ _Halsbury’s_ ”) at [190.320] notes that, “[t]ime only runs from the valid grant of representation.” _Re Freeman_ [1984] 1 WLR 1419 was cited for this proposition. This position is also supported by a local case interpreting s 4 of the IFPA (see _Nirmala Devi d/o Vengadasalam v Danalakshmi Nee Krishnan and Ors_ <span class="citation">[1990] SGHC 130</span>). 
 
 44     In the present case, time started to run when the grant of probate was extracted on 6 May 
 

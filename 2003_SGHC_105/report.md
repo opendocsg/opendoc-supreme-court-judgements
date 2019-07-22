@@ -45,17 +45,17 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Date of commencement_ 
 
  ... every sentence of imprisonment to which section 221 or 222 apply shall take effect from the date on which it was passed, unless the court passing the sentence or when there has been an appeal the appellate court otherwise directs. 
 
-Thus, the court’s power to backdate a custodial sentence is purely discretionary: _Sinniah Pillay v PP_ [1992] 1 SLR 225. The backdating of a custodial sentence is an exception to the general rule of sentencing and is never available as of right. 
+Thus, the court’s power to backdate a custodial sentence is purely discretionary: _Sinniah Pillay v PP_ <span class="citation">[1992] 1 SLR 225</span>. The backdating of a custodial sentence is an exception to the general rule of sentencing and is never available as of right. 
 
 **_The court is not obliged to exercise its discretion to backdate_** 
 
-9       It is settled law that the court is not obliged to backdate a sentence of imprisonment in any case. In _Mani Nedumaran v PP_ [1998] 1 SLR 411, the court stated: 
+9       It is settled law that the court is not obliged to backdate a sentence of imprisonment in any case. In _Mani Nedumaran v PP_ <span class="citation">[1998] 1 SLR 411</span>, the court stated: 
 
  [I]t is only fair that a court take into consideration any period spent in remand by an accused when contemplating the exercise of its discretion to backdate ... The above does not mean that a custodial sentence must invariably be backdated to the date when an accused was taken into remand. [Emphasis added] 
 
 Thus, where the court knows that an offender has previously spent time in remand, it should take such a period into account, when it is deciding whether to backdate a custodial sentence. However, this does not oblige the court to backdate a custodial sentence in every case where an offender has already spent time in remand. 
 
-10     The fact that an offender has spent time in remand does not necessarily increase the likelihood that his sentence will be backdated. This is evidenced by the case of _PP v Wong Siu Fai_ [2002] 3 SLR 276, where the offender pleaded guilty to having committed carnal intercourse against the order of nature on a five year old boy. In that case, the court refused to backdate the offender’s custodial sentence because it was of the opinion that “the five months imprisonment already served should be part of the punishment given the circumstances of [the] case.” 
+10     The fact that an offender has spent time in remand does not necessarily increase the likelihood that his sentence will be backdated. This is evidenced by the case of _PP v Wong Siu Fai_ <span class="citation">[2002] 3 SLR 276</span>, where the offender pleaded guilty to having committed carnal intercourse against the order of nature on a five year old boy. In that case, the court refused to backdate the offender’s custodial sentence because it was of the opinion that “the five months imprisonment already served should be part of the punishment given the circumstances of [the] case.” 
 
 11     The sentencing judge is not obliged to launch into an inquiry to find out whether an offender has previously spent any time in remand. The law does not require the court to actively ferret out such information. It is the offender who seeks to rely on the fact that time was previously spent in remand 
 
@@ -82,7 +82,7 @@ The idea that a non-backdated sentence is an “enhanced” sentence has caused 
 
 **_Only periods spent in remand will be taken into consideration for backdating_** 
 
-16     Only the time which an offender has spent in “remand” is relevant for the purpose of backdating a custodial sentence. For example, in _Tang Kin Seng v PP_ [1997] 1 SLR 46, the time which an offender had spent on bail was irrelevant for backdating. In _Cheong Seok Leng v PP_ [1988] SLR 565, the court held that time spent in a drug rehabilitation centre was not relevant for backdating because such centres were not gazetted as prisons. Drug rehabilitation centres have since been gazetted as prisons under the Declaration of Prisons (Consolidation) Notification (Cap 247, Section 3). However, the basic principle remains that only time spent in remand is relevant for the purpose of backdating a custodial sentence. 
+16     Only the time which an offender has spent in “remand” is relevant for the purpose of backdating a custodial sentence. For example, in _Tang Kin Seng v PP_ <span class="citation">[1997] 1 SLR 46</span>, the time which an offender had spent on bail was irrelevant for backdating. In _Cheong Seok Leng v PP_ [1988] SLR 565, the court held that time spent in a drug rehabilitation centre was not relevant for backdating because such centres were not gazetted as prisons. Drug rehabilitation centres have since been gazetted as prisons under the Declaration of Prisons (Consolidation) Notification (Cap 247, Section 3). However, the basic principle remains that only time spent in remand is relevant for the purpose of backdating a custodial sentence. 
 
 17     The court is also entitled to backdate a custodial sentence even if the period spent in remand exceeds the maximum term of imprisonment for that particular offence. In _Mani Nedumaran v PP_ , the court held that there was nothing to prevent the backdating of a one month custodial sentence, even though the offender in that case had already spent four months in remand. 
 
@@ -99,7 +99,7 @@ The idea that a non-backdated sentence is an “enhanced” sentence has caused 
 
 **_No serious injustice has been committed_** 
 
-20     It is settled law that the court will only exercise its revisionary powers when it is necessary to correct a serious injustice which is so palpably wrong that it strikes at the exercise of judicial power by the court below: _Ang Poh Chuan_ [1996] 1 SLR 326. The court’s revisionary jurisdiction is jealously guarded, and must not be misused to commence backdoor appeals: _Koh Thian Huat v PP_ [2002] 3 SLR 28. 
+20     It is settled law that the court will only exercise its revisionary powers when it is necessary to correct a serious injustice which is so palpably wrong that it strikes at the exercise of judicial power by the court below: _Ang Poh Chuan_ <span class="citation">[1996] 1 SLR 326</span>. The court’s revisionary jurisdiction is jealously guarded, and must not be misused to commence backdoor appeals: _Koh Thian Huat v PP_ <span class="citation">[2002] 3 SLR 28</span>. 
 
 21     In his petition for revision, Chua highlighted certain factors in support of his plea for criminal revision. These factors are summarised below: 
 
@@ -128,7 +128,7 @@ usurp such responsibility.
 
 24     It was brought to my attention that the sentence imposed on Chua’s wife was backdated to her date of remand on 15 January 1999. 
 
-25     In my opinion, no injustice was caused by this purported inconsistency. Consistency in sentencing is certainly desirable. However, the court in _PP v Ramlee_ [1998] 3 SLR 539 also stressed that this principle is flexible and takes into account the circumstances of each case. In the persent case, Chua’s wife did not face any trafficking charges, whereas Chua was convicted on two charges of trafficking. Chua’s offences were more severe than his wife’s, and there was no injustice in treating their sentences differently. 
+25     In my opinion, no injustice was caused by this purported inconsistency. Consistency in sentencing is certainly desirable. However, the court in _PP v Ramlee_ <span class="citation">[1998] 3 SLR 539</span> also stressed that this principle is flexible and takes into account the circumstances of each case. In the persent case, Chua’s wife did not face any trafficking charges, whereas Chua was convicted on two charges of trafficking. Chua’s offences were more severe than his wife’s, and there was no injustice in treating their sentences differently. 
 
 **_Time spent in the custody of the CNB is not ‘remand’_** 
 

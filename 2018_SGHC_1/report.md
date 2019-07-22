@@ -18,7 +18,7 @@ _Criminal law_ – _Statutory offences_ – _Misuse of Drugs Act_
 
 _Statutory interpretation_ – _Construction of statute_ 
 
-[LawNet Editorial Note: The appeals in Criminal Appeals Nos 48 and 49 of 2017 were dismissed by the Court of Appeal on 11 September 2018. See [2018] SGCA 62.] 
+[LawNet Editorial Note: The appeals in Criminal Appeals Nos 48 and 49 of 2017 were dismissed by the Court of Appeal on 11 September 2018. See <span class="citation">[2018] SGCA 62</span>.] 
 
 2 January 2018 
 
@@ -108,7 +108,7 @@ to traffic or be in the possession of a controlled drug. [note: 25]
 
 **The Prosecution’s case** 
 
-15     The Prosecution’s primary case was that the respective presumptions of possession and knowledge of the nature of the Drugs under ss 18(1) and 18(2) of the MDA applied and was unrebutted for both Defendants (applying _Obeng Comfort v Public Prosecutor_ [2017] 1 SLR 633 
+15     The Prosecution’s primary case was that the respective presumptions of possession and knowledge of the nature of the Drugs under ss 18(1) and 18(2) of the MDA applied and was unrebutted for both Defendants (applying _Obeng Comfort v Public Prosecutor_ <span class="citation">[2017] 1 SLR 633</span> 
 
 (“ _Obeng Comfort_ ”) at [39]–[40]). [note: 26] Rahmat’s case that he thought he was bringing in food or medicinal products cannot rebut the presumption of knowledge under s 18(2) of the MDA because it 
 
@@ -141,7 +141,7 @@ he thought he was transporting medicinal products. [note: 34]
 
 19     It was argued that the presumption under s 18(2) of the MDA was rebutted. Rahmat did not believe he was carrying anything illegal because he was told by Kanna that it was a medicinal 
 
-product, and he had also checked the items he was carrying. [note: 35] Rahmat had trusted Kanna, who had passed him the items. It was also argued that Rahmat was entitled to trust Kanna in the circumstances. He had known Kanna for about two months, in comparison to the three weeks found sufficient in _Harven a/l Segar v Public Prosecutor_ [2017] 1 SLR 771 (“ _Harven_ ”) to constitute a 
+product, and he had also checked the items he was carrying. [note: 35] Rahmat had trusted Kanna, who had passed him the items. It was also argued that Rahmat was entitled to trust Kanna in the circumstances. He had known Kanna for about two months, in comparison to the three weeks found sufficient in _Harven a/l Segar v Public Prosecutor_ <span class="citation">[2017] 1 SLR 771</span> (“ _Harven_ ”) to constitute a 
 
 relationship of trust. [note: 36] Rahmat had become involved in the incident because he had sought a 
 
@@ -266,7 +266,7 @@ Station Inspector Shafiq Basheer (“IO Shafiq”). [note: 57] It was also said 
 
 **Analysis** 
 
-32     Following the Court of Appeal’s decision in _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ [2014] 3 SLR 721 (“ _Muhammad Ridzuan_ ”), the elements of a charge for trafficking in a controlled drug under s 5(1)( _a_ ) of the MDA are (at [59]): 
+32     Following the Court of Appeal’s decision in _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ <span class="citation">[2014] 3 SLR 721</span> (“ _Muhammad Ridzuan_ ”), the elements of a charge for trafficking in a controlled drug under s 5(1)( _a_ ) of the MDA are (at [59]): 
 
  (a) possession of a controlled drug, which may be proved or presumed pursuant to s 18(1) of the MDA, or deemed pursuant to s 18(4) of the MDA; 
 
@@ -274,7 +274,7 @@ Station Inspector Shafiq Basheer (“IO Shafiq”). [note: 57] It was also said 
 
  (c) proof that the drug had been possessed for the purpose of trafficking which was not authorised – the purpose of trafficking may either be proved or presumed pursuant to s 17 of the MDA. 
 
-33     Since there cannot be a reliance on the presumptions found in both ss 17 and 18 of the MDA (see _Tang Hai Liang v Public Prosecutor_ [2011] SGCA 38 at [18]–[19], citing the Court of Appeal’s earlier decision in _Mohd Halmi bin Hamid and another v Public Prosecutor_ [2006] 1 SLR(R) 548 at [8] and [10]), element (c) must be independently showed when either of the presumptions in s 18 are relied upon. In this regard, there are a number of ways to prove the act of trafficking: see s 2 of the MDA ([29] above). 
+33     Since there cannot be a reliance on the presumptions found in both ss 17 and 18 of the MDA (see _Tang Hai Liang v Public Prosecutor_ <span class="citation">[2011] SGCA 38</span> at [18]–[19], citing the Court of Appeal’s earlier decision in _Mohd Halmi bin Hamid and another v Public Prosecutor_ <span class="citation">[2006] 1 SLR(R) 548</span> at [8] and [10]), element (c) must be independently showed when either of the presumptions in s 18 are relied upon. In this regard, there are a number of ways to prove the act of trafficking: see s 2 of the MDA ([29] above). 
 
 34     In the present case, both the Defendants did not dispute the identity of the Drugs found in the Bundles – the drug analysis, chain of custody, and integrity of the process were all not challenged. As for Rahmat, since he admitted to driving the Car into Singapore with the Bag, possession of the Drugs 
 
@@ -299,9 +299,9 @@ _Section 18(2) presumption_
 
  Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug. 
 
-41     Where the presumption under s 18(2) applies, this has to be rebutted by the accused on the balance of probabilities: see _Muhammad Ridzuan_ at [75] and _Public Prosecutor v Ilechukwu Uchechukwu Chukwudi_ [2015] SGCA 33 (“ _Ilechukwu_ ”) at [30]. 
+41     Where the presumption under s 18(2) applies, this has to be rebutted by the accused on the balance of probabilities: see _Muhammad Ridzuan_ at [75] and _Public Prosecutor v Ilechukwu Uchechukwu Chukwudi_ <span class="citation">[2015] SGCA 33</span> (“ _Ilechukwu_ ”) at [30]. 
 
-42     A rebuttal may be established if the accused shows that “he did not know or could not reasonably be expected to have known the nature of the controlled drug”: see _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ [2012] 2 SLR 903 at [18]. As explained by the Court of Appeal in _Obeng Comfort_ , referring to _Masoud Rahimi bin Mehrzad v Public Prosecutor and another appeal_ [2017] 1 SLR 257: 
+42     A rebuttal may be established if the accused shows that “he did not know or could not reasonably be expected to have known the nature of the controlled drug”: see _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ <span class="citation">[2012] 2 SLR 903</span> at [18]. As explained by the Court of Appeal in _Obeng Comfort_ , referring to _Masoud Rahimi bin Mehrzad v Public Prosecutor and another appeal_ <span class="citation">[2017] 1 SLR 257</span>: 
 
  37 .... The court assesses the accused’s evidence as to his subjective knowledge by comparing it with what an ordinary, reasonable person would have known or done if placed in the same situation that the accused was in. If such an ordinary, reasonable person would surely have known or taken steps to establish the nature of the drug in question, the accused would have to 
 
@@ -326,7 +326,7 @@ _Section 18(2) presumption_
 
 45     I did not accept Rahmat’s reliance on his relationship with Kanna to show that his version should be accepted. Rahmat maintained that he was entitled to rely on what Kanna had told him because of their relationship. He had trusted Kanna, who told him that what he was given to carry into Singapore was medicine. 
 
-46     The threshold drawn in local cases was recently clarified by me in _Public Prosecutor v Saravanan Chandaram_ [2017] SGHC 262 at [47]: 
+46     The threshold drawn in local cases was recently clarified by me in _Public Prosecutor v Saravanan Chandaram_ <span class="citation">[2017] SGHC 262</span> at [47]: 
 
  ... [T]he relationship of trust must be one that is credible on the facts as alleged; where the 
 
@@ -411,7 +411,7 @@ _Actual knowledge_
 
 _Wilful blindness_ 
 
-63     Wilful blindness is a form of actual knowledge: see _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR(R) 1 (“ _Tan Kiam Peng_ ”) at [133]–[134] and _Obeng Comfort_ at [41]. The discussion above also pointed to wilful blindness being made out. Rahmat’s decision not to inquire further, or to check, the contents of the Bag was indicative of a desire not to uncover what he must have already known – he was therefore wilfully blind. 
+63     Wilful blindness is a form of actual knowledge: see _Tan Kiam Peng v Public Prosecutor_ <span class="citation">[2008] 1 SLR(R) 1</span> (“ _Tan Kiam Peng_ ”) at [133]–[134] and _Obeng Comfort_ at [41]. The discussion above also pointed to wilful blindness being made out. Rahmat’s decision not to inquire further, or to check, the contents of the Bag was indicative of a desire not to uncover what he must have already known – he was therefore wilfully blind. 
 
 64     Rahmat had the opportunity to inspect the Bag once he had collected it from Kanna, and to examine what it contained more closely. At trial, Rahmat claimed that he had seen the Bag and felt the contents. Even if that were the case, he ought to have checked the Bag further given the surrounding circumstances ( _eg_ , his shallow relationship with Kanna and the amount of money he was given). His suspicions must have been raised when Kanna, who was not in the business of selling 
 
@@ -565,9 +565,9 @@ _Possession_
 
 arrest. In my judgment, as long as a controlled drug is within a person’s control, he is in possession of it even if it is not on his person. On the facts, Zainal had hidden the Bag near his work area at IKEA. The act of hiding indicates control over the Drugs, and such control is what matters for the element of possession to be made out. 
 
-79     The requirement of physical control was noted by the Court of Appeal in _Sim Teck Ho v Public Prosecutor_ [2000] 2 SLR(R) 959, which bears quoting in some length due to the parallels to the present facts of hiding the Drugs: 
+79     The requirement of physical control was noted by the Court of Appeal in _Sim Teck Ho v Public Prosecutor_ <span class="citation">[2000] 2 SLR(R) 959</span>, which bears quoting in some length due to the parallels to the present facts of hiding the Drugs: 
 
- 11 The key issue in this appeal was whether the trial judge was right in finding that the appellant was in possession of the diamorphine contained in the bag. Numerous cases have established that possession encompasses the element of physical control as well as an element of knowledge. For example, in Fun Seong Cheng v PP [1997] 2 SLR(R) 796, it was said (at [53]–[54]) by M Karthigesu JA, in delivering the judgment of the Court of Appeal: 
+ 11 The key issue in this appeal was whether the trial judge was right in finding that the appellant was in possession of the diamorphine contained in the bag. Numerous cases have established that possession encompasses the element of physical control as well as an element of knowledge. For example, in Fun Seong Cheng v PP <span class="citation">[1997] 2 SLR(R) 796</span>, it was said (at [53]–[54]) by M Karthigesu JA, in delivering the judgment of the Court of Appeal: 
 
  ... Clearly in order to prove that the appellant was in possession, he must have physical control over the drugs. It is a matter of fact whether someone has physical control over an item. ... 
 
@@ -594,7 +594,7 @@ arrest. In my judgment, as long as a controlled drug is within a person’s cont
 
  [emphasis added] 
 
-80     The same focus on control is apparent in the English decision of _Warner v Metropolitan Police Commissioner_ [1969] 2 AC 256 (“ _Warner_ ”), a decision of the House of Lords. Although _Warner_ was concerned with the meaning of “possession” in the context of s 1 of the Drugs (Prevention of Misuse) Act 1964 (c 64) (UK), which has a different statutory regime, it has been locally endorsed by the Court of Appeal for its observations on the general concept of possession (see the Court of Appeal decisions in _Tan Kiam Peng_ at [53] and _Pham Duyen Quyen v Public Prosecutor_ [2017] SGCA 39 at [31], noting the effect of its earlier decision in _Tan Ah Tee and another v Public Prosecutor_ [1979– 1980] SLR(R) 311). 
+80     The same focus on control is apparent in the English decision of _Warner v Metropolitan Police Commissioner_ [1969] 2 AC 256 (“ _Warner_ ”), a decision of the House of Lords. Although _Warner_ was concerned with the meaning of “possession” in the context of s 1 of the Drugs (Prevention of Misuse) Act 1964 (c 64) (UK), which has a different statutory regime, it has been locally endorsed by the Court of Appeal for its observations on the general concept of possession (see the Court of Appeal decisions in _Tan Kiam Peng_ at [53] and _Pham Duyen Quyen v Public Prosecutor_ <span class="citation">[2017] SGCA 39</span> at [31], noting the effect of its earlier decision in _Tan Ah Tee and another v Public Prosecutor_ [1979– 1980] SLR(R) 311). 
 
 81     In particular, Lord Wilberforce in _Warner_ stated at 309F: 
 

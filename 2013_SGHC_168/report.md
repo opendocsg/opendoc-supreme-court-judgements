@@ -18,7 +18,7 @@ _Civil Procedure_ – _Summary judgment_
 
 _Contract_ – _Interpretation_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 86 of 2013 was allowed by the Court of Appeal on 16 January 2014. See [2014] SGCA 19.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 86 of 2013 was allowed by the Court of Appeal on 16 January 2014. See <span class="citation">[2014] SGCA 19</span>.] 
 
 6 September 2013 
 
@@ -97,7 +97,7 @@ full trial.
 
 19     The plaintiffs contended that recourse to O 14 r 12 was inappropriate in the present case as the factual matrix surrounding the Compromise Letter was not only highly relevant to the issue of its construction, but also disputed by the parties. 
 
-20     The plaintiffs’ contentions in this regard were premised on the seminal decision by the Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design and Construction Pte Ltd_ [2008] 3 SLR(R) 1029 (“ _Zurich Insurance_ ”). In _Zurich Insurance_ at [114], the Court held that subject to the requirement of relevance, extrinsic evidence or evidence of the external factual context of a contract was admissible in aid of contractual interpretation. This was so even if the contract was unambiguous on its face. 
+20     The plaintiffs’ contentions in this regard were premised on the seminal decision by the Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design and Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> (“ _Zurich Insurance_ ”). In _Zurich Insurance_ at [114], the Court held that subject to the requirement of relevance, extrinsic evidence or evidence of the external factual context of a contract was admissible in aid of contractual interpretation. This was so even if the contract was unambiguous on its face. 
 
 21     As regards the issue of relevance, the plaintiffs stressed that the Compromise Letter was not a standard form document. Rather, it was consciously prepared by the second defendant and signed after a discussion between the second plaintiff and the second defendant. In the circumstances, I accepted that the factual context surrounding the signing of the Compromise Letter was relevant to the issue of its construction. 
 
@@ -105,9 +105,9 @@ full trial.
 
 23     In contrast, the second plaintiff’s version of the events leading up to the signing of the Compromise Letter was as follows. The second plaintiff said that sometime in October 2009, the second defendant wanted to resign from the Project. This was due to a falling out between the second defendant and HPC. Since the second defendant was engaged by HPC as the architect, professional engineer and project coordinator of the Project at that time, the second plaintiff wanted to confirm that he would make no claim against the first plaintiff for the work the he had done from June to October 2009. In return, the second defendant wanted assurance that no claim would be brought against him by the first plaintiff arising from what he had done or omitted to do from June to October 2009. In this regard, the second plaintiff said that the second defendant knew that the plaintiffs were holding him liable for the damaged sewer. 
 
-24     The issue then was whether this dispute as to the facts made the present case unsuitable for summary determination under O 14 r 12. In my view, it did not. In this regard, I was mindful that ordinarily, summary determination under O 14 r 12 is not appropriate where there are factual disputes affecting the point of construction: see generally _ANB v ANF_ [2011] 2 SLR 1 at [32]; _Re CEP Instruments Pte Ltd (in liquidation)_ [2004] SGHC 206 at [39]. However, this proposition was subject to the following two caveats. 
+24     The issue then was whether this dispute as to the facts made the present case unsuitable for summary determination under O 14 r 12. In my view, it did not. In this regard, I was mindful that ordinarily, summary determination under O 14 r 12 is not appropriate where there are factual disputes affecting the point of construction: see generally _ANB v ANF_ <span class="citation">[2011] 2 SLR 1</span> at [32]; _Re CEP Instruments Pte Ltd (in liquidation)_ <span class="citation">[2004] SGHC 206</span> at [39]. However, this proposition was subject to the following two caveats. 
 
-25     First, there must be a genuine dispute of fact. The court will not decline to make a determination under O 14 r 12 where the position taken by one party is so incredible that it is a sham: _Goh Chok Tong v Chee Soon Juan_ [2003] 3 SLR(R) 32 (“ _Goh Chok Tong_ ”) at [25]; _Republic Airconditioning (S) Pte Ltd v Shinsung Eng Co Ltd (Singapore Branch)_ [2012] 2 SLR 601 at [10]–[11]. 
+25     First, there must be a genuine dispute of fact. The court will not decline to make a determination under O 14 r 12 where the position taken by one party is so incredible that it is a sham: _Goh Chok Tong v Chee Soon Juan_ <span class="citation">[2003] 3 SLR(R) 32</span> (“ _Goh Chok Tong_ ”) at [25]; _Republic Airconditioning (S) Pte Ltd v Shinsung Eng Co Ltd (Singapore Branch)_ <span class="citation">[2012] 2 SLR 601</span> at [10]–[11]. 
 
 
 In this respect, I found the following passage in _Goh Chok Tong_ at [25] to be instructive: 

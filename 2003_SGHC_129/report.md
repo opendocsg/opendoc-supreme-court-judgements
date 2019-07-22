@@ -72,7 +72,7 @@ The Assistant Registrar used a median figure of $6,500 per month as the base fig
 
 16     Ms Ganesan started her submission on loss of future earnings by saying that she did not dispute the Assistant Registrar’s figures provided it was correct for the Assistant Registrar to have adopted a loss of future earnings approach as opposed to a loss of earnings capacity approach. Ms Ganesan submitted that the latter approach would have resulted in a figure of between $25,000 to $30,000 only. 
 
-17     The reason for Ms Ganesan’s submission was that Mdm Tang could still carry on teaching as a tuition teacher, although not as a school teacher. Ms Ganesan relied primarily on the case of _Karuppiah Nirmala v Singapore Bus Services Ltd_ [2002] 3 SLR 415 where Judith Prakash J granted the plaintiff damages for loss of earning capacity rather than on a loss of future earnings basis even though the plaintiff was no longer able to work as a full-time editor. 
+17     The reason for Ms Ganesan’s submission was that Mdm Tang could still carry on teaching as a tuition teacher, although not as a school teacher. Ms Ganesan relied primarily on the case of _Karuppiah Nirmala v Singapore Bus Services Ltd_ <span class="citation">[2002] 3 SLR 415</span> where Judith Prakash J granted the plaintiff damages for loss of earning capacity rather than on a loss of future earnings basis even though the plaintiff was no longer able to work as a full-time editor. 
 
 18     However, it seemed to me that the facts in that case were different from those before me because the plaintiff there had been a full-time editor for one and a half years only out of a total career period of 15 years. Since her accident, she had gone back to what she had been doing before her stint in editing. This is what Prakash J said, at p 422 H to 423 D: 
 
@@ -89,7 +89,7 @@ The Assistant Registrar used a median figure of $6,500 per month as the base fig
 
  [Emphasis added] 
 
-19     I accepted Mr Rao’s submission that, generally, loss of earning capacity was used when a plaintiff is able to continue in his employment without loss of emoluments but would be handicapped by his injury if he should have to seek alternative employment (see the judgment of the Court of Appeal in _Chang Ah Lek & Ors v Lim Ah Koon_ [1999] 1 SLR 82 at para 31). 
+19     I accepted Mr Rao’s submission that, generally, loss of earning capacity was used when a plaintiff is able to continue in his employment without loss of emoluments but would be handicapped by his injury if he should have to seek alternative employment (see the judgment of the Court of Appeal in _Chang Ah Lek & Ors v Lim Ah Koon_ <span class="citation">[1999] 1 SLR 82</span> at para 31). 
 
 20     Furthermore, “Compensation for loss of future earnings is awarded for real assessable loss proved by evidence. Compensation for diminution in earning capacity is awarded as part of general damages”, per Lord Denning MR in _Fairley v John Thompson (Design and Contracting Division) Ltd_ [1973] 2 Lloyd’s Rep 40 at p 42, which was cited with approval by the Court of Appeal in _Chang Ah Lek_ at para 25. The Court of Appeal also noted, at para 32, that the judge below was able “to fix a multiplicand and select the multiplier, from the evidence” and considered this to be another reason why an award based on loss of future earnings was appropriate. In the case before me, the Assistant Registrar was likewise able to do the same. 
 

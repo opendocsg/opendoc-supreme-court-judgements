@@ -231,7 +231,7 @@ On that basis, provided the change in circumstances was known to the third defen
 
 **Were the representations made fraudulently?** 
 
-38     In an action for deceit, it is not enough to establish a false representation. It must also be proved that the representation was made with knowledge that it was false or without belief in its truth. The leading case on point is the House of Lords’ decision in _Derry v Peek_ (1889) 14 AC 337 (followed by our Court of Appeal in _Panatron Pte Ltd v Lee Cheow Lee_ [2001] 3 SLR 405) where Lord Herschell said at 374: 
+38     In an action for deceit, it is not enough to establish a false representation. It must also be proved that the representation was made with knowledge that it was false or without belief in its truth. The leading case on point is the House of Lords’ decision in _Derry v Peek_ (1889) 14 AC 337 (followed by our Court of Appeal in _Panatron Pte Ltd v Lee Cheow Lee_ <span class="citation">[2001] 3 SLR 405</span>) where Lord Herschell said at 374: 
 
  First, in order to sustain an action of deceit, there must be proof of fraud, and nothing short of that will suffice. Secondly, fraud is proved when it is shewn that a false representation has been made (1) knowingly, or (2) without belief in its truth, or (3) recklessly, careless whether it be true or false. Although I have treated the second and third as distinct cases, I think the third is but an instance of the second, for one who makes a statement under such circumstances can have no real belief in the truth of what he states. To prevent a false statement being fraudulent, there must, I think, always be an honest belief in its truth. [emphasis added] 
 
@@ -398,7 +398,7 @@ It is clear that the plaintiff’s risk analysis was focused on the creditworthi
 
 **Whether the plaintiff suffered loss as a consequence of the misrepresentations** 
 
-78     To succeed in its claim, the plaintiff needs to prove that it suffered loss by acting upon the alleged false representations ( _Panatron Pte Ltd v Lee Cheow Lee_ [38] _supra_ ). The plaintiff must satisfy the court that the loss it claims it suffered flowed directly from the alleged fraudulent misrepresentations ( _Vita Health Laboratories Pte Ltd v Pang Seng Meng_ [2004] 4 SLR 162). If it fails to do so and leaves the court in real doubt as to whether it has suffered any loss at all, the court 
+78     To succeed in its claim, the plaintiff needs to prove that it suffered loss by acting upon the alleged false representations ( _Panatron Pte Ltd v Lee Cheow Lee_ [38] _supra_ ). The plaintiff must satisfy the court that the loss it claims it suffered flowed directly from the alleged fraudulent misrepresentations ( _Vita Health Laboratories Pte Ltd v Pang Seng Meng_ <span class="citation">[2004] 4 SLR 162</span>). If it fails to do so and leaves the court in real doubt as to whether it has suffered any loss at all, the court 
 
 
 may be obliged to make no award ( _CEMP Properties (UK) Limited v Dentsply Research and Development Corporation_ [1991] 2 EGLR 202). 
@@ -471,7 +471,7 @@ Lord Browne-Wilkinson elaborated on the situation where it may be appropriate fo
 94     The plaintiff’s action for conspiracy is in respect of a conspiracy by unlawful means. 
 
 
-Conspiracy by unlawful means is constituted when two or more persons combine to commit an unlawful act with the intention of injuring the plaintiff, and the act is carried out and the intention achieved: _Quah Kay Tee v Ong & Company Pte Ltd_ [1997] 1 SLR 390. 
+Conspiracy by unlawful means is constituted when two or more persons combine to commit an unlawful act with the intention of injuring the plaintiff, and the act is carried out and the intention achieved: _Quah Kay Tee v Ong & Company Pte Ltd_ <span class="citation">[1997] 1 SLR 390</span>. 
 
 95     The plaintiff pleaded that the defendants and other persons unknown (or any two or more together) conspired, and conspired to defraud the plaintiff. It contends that the agreement between the conspirators need not be in the nature of an express agreement and that the court may infer an agreement from the overt acts (in this case the alleged fraudulent misrepresentations). 
 

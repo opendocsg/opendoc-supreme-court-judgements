@@ -226,9 +226,9 @@ business with units at the Illuminaire was not disclosed to the Board of Winsta 
 
 _Whether Lynn and Joyce breached their fiduciary duties_ 
 
-45     As a fiduciary, a director is subject to strict obligations of loyalty. As a result, (a) he has to avoid putting himself in a position where his duty to the company conflicts with his own interest (the no-conflict rule), and (b) he cannot profit out of his fiduciary position (the no-profit rule): see Hans Tjio, Pearlie Koh and Lee Pey Woan, _Corporate Law_ (Academy Publishing, 2015) (“ _Corporate Law_ ”) at para 9.050, and _Ho Yew Kong v Sakae Holdings Ltd and other appeals and other matters_ [2018] 2 SLR 333 (“ _Sakae Holdings_ ”) at [135]. 
+45     As a fiduciary, a director is subject to strict obligations of loyalty. As a result, (a) he has to avoid putting himself in a position where his duty to the company conflicts with his own interest (the no-conflict rule), and (b) he cannot profit out of his fiduciary position (the no-profit rule): see Hans Tjio, Pearlie Koh and Lee Pey Woan, _Corporate Law_ (Academy Publishing, 2015) (“ _Corporate Law_ ”) at para 9.050, and _Ho Yew Kong v Sakae Holdings Ltd and other appeals and other matters_ <span class="citation">[2018] 2 SLR 333</span> (“ _Sakae Holdings_ ”) at [135]. 
 
-46     One consequence of the no-profit rule is that a director who receives a business opportunity because of his directorship, cannot divert the opportunity to himself or to an entity in which he has an interest. It is irrelevant that the company is not in a position to take advantage of the opportunity for practical reasons (in contrast to legal restrictions): see _Sakae Holdings Ltd v Gryphon Real Estate Investment Corp Pte Ltd and others (Foo Peow Yong Douglas, third party) and another suit_ [2017] SGHC 73 at [84]. 
+46     One consequence of the no-profit rule is that a director who receives a business opportunity because of his directorship, cannot divert the opportunity to himself or to an entity in which he has an interest. It is irrelevant that the company is not in a position to take advantage of the opportunity for practical reasons (in contrast to legal restrictions): see _Sakae Holdings Ltd v Gryphon Real Estate Investment Corp Pte Ltd and others (Foo Peow Yong Douglas, third party) and another suit_ <span class="citation">[2017] SGHC 73</span> at [84]. 
 
 47     In the present case, in early 2014, Dave Kong was alerted to an opportunity for Global 
 
@@ -867,7 +867,7 @@ under OSPC and not ATAS. [note: 192] This accusation had no legs to stand on. Th
 
 were leased under OSPC. [note: 193] The plaintiffs would have seen Dave Kong’s AEIC before the trial started; they chose not to amend their statement of claim.. 
 
-155    Turning to the claim for dishonest assistance, it is well established that the requisite elements are (a) the existence of a trust, (b) a breach of that trust, (c) assistance rendered by the third party toward the breach, and (d) a finding that the assistance rendered by the third party was dishonest: _George Raymond Zage III and another v Ho Chi Kwong and another_ [2010] 2 SLR 589 (“ _Zage III_ ”) at [20]. 
+155    Turning to the claim for dishonest assistance, it is well established that the requisite elements are (a) the existence of a trust, (b) a breach of that trust, (c) assistance rendered by the third party toward the breach, and (d) a finding that the assistance rendered by the third party was dishonest: _George Raymond Zage III and another v Ho Chi Kwong and another_ <span class="citation">[2010] 2 SLR 589</span> (“ _Zage III_ ”) at [20]. 
 
 156    Dave Kong did not dispute elements (a) and (b). However, he disputed elements (c) and (d), 
 
@@ -970,7 +970,7 @@ and Joyce and her role in the Winsta Group, Connie Ng had to know of Lynn’s an
 
  (e) the plaintiff suffered loss as a result of the conspiracy. 
 
-See, _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ [2014] 1 SLR 860 at [112]. 
+See, _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ <span class="citation">[2014] 1 SLR 860</span> at [112]. 
 
 178    For a claim for conspiracy by lawful means, proof of an independently unlawful act is not 
 
@@ -1014,11 +1014,11 @@ compensation, it is not necessary to show a causal link between the breach and t
 
 189    The UK Supreme Court in _AIB_ explained that the rules applicable to the measurement of loss resulting from a breach of duty depends on the nature of the obligation breached (see [76] and [92]). Foreseeability was held to be irrelevant in assessing the compensation to be paid for breach of fiduciary duty because a breach of fiduciary duty was a wrong in itself, regardless of whether a loss could be foreseen (at [86]). In contrast, foreseeability is relevant in assessing loss resulting from a negligent act because the tort of negligence involves the duty to take reasonable care to guard against a reasonably foreseeable risk (at [92]). 
 
-190    In Singapore, _Brickenden_ was followed by the High Court in _Quality Assurance Management Asia Pte Ltd v Zhang Qing and others_ [2013] 3 SLR 631 (“ _QAM_ ”) and in _Then Khek Koon and another v Arjun Permanand Samtani and another and other suits_ [2014] 1 SLR 245 (“ _Then Khek Koon_ ”). The learned Judge (who presided over both cases) reconciled _Brickenden_ and _Target Holdings_ by limiting _Brickenden_ (but-for causation not required) to cases involving fiduciaries in one of the wellestablished categories of fiduciaries and culpable breaches of core duties of honesty and fidelity, and leaving _Target Holdings_ (but-for causation required) to cases involving fiduciaries in one of the wellestablished categories of fiduciaries and innocent breaches (see _Then Khek Koon_ at [108]). 
+190    In Singapore, _Brickenden_ was followed by the High Court in _Quality Assurance Management Asia Pte Ltd v Zhang Qing and others_ <span class="citation">[2013] 3 SLR 631</span> (“ _QAM_ ”) and in _Then Khek Koon and another v Arjun Permanand Samtani and another and other suits_ <span class="citation">[2014] 1 SLR 245</span> (“ _Then Khek Koon_ ”). The learned Judge (who presided over both cases) reconciled _Brickenden_ and _Target Holdings_ by limiting _Brickenden_ (but-for causation not required) to cases involving fiduciaries in one of the wellestablished categories of fiduciaries and culpable breaches of core duties of honesty and fidelity, and leaving _Target Holdings_ (but-for causation required) to cases involving fiduciaries in one of the wellestablished categories of fiduciaries and innocent breaches (see _Then Khek Koon_ at [108]). 
 
-191    The decision in _Then Khek Koon_ went on appeal. However, the Court of Appeal did not find it necessary to decide this particular issue on the facts although it did note that this area of the law must now be considered in the light of the decision in _AIB_ – see, _Maryani Sadeli v Arjun Permanand Samtani and another and other appeals_ [2015] 1 SLR 496 at [9] and [11]. 
+191    The decision in _Then Khek Koon_ went on appeal. However, the Court of Appeal did not find it necessary to decide this particular issue on the facts although it did note that this area of the law must now be considered in the light of the decision in _AIB_ – see, _Maryani Sadeli v Arjun Permanand Samtani and another and other appeals_ <span class="citation">[2015] 1 SLR 496</span> at [9] and [11]. 
 
-192    The issue came up again in _Beyonics Technology Ltd and another v Goh Chan Peng and others_ [2016] 4 SLR 472 (“ _Beyonics_ ”). In _Beyonics_ , the High Court adopted the propositions in _QAM_ and _Then Khek Koon_ (at [137]). The learned Judge explained _Brickenden_ , _QAM_ and _Then Khek Koon_ as follows 
+192    The issue came up again in _Beyonics Technology Ltd and another v Goh Chan Peng and others_ <span class="citation">[2016] 4 SLR 472</span> (“ _Beyonics_ ”). In _Beyonics_ , the High Court adopted the propositions in _QAM_ and _Then Khek Koon_ (at [137]). The learned Judge explained _Brickenden_ , _QAM_ and _Then Khek Koon_ as follows 
 
 
 (at [136]): 
@@ -1291,7 +1291,7 @@ duty in respect of Illuminaire and Scotts Square.
 
 226    The Sim Family, Dave Kong and OSPC are liable to M Development (as the assignee of the claims by the Winsta Subsidiaries) in the sum of $930,872.55 in respect of Illuminaire. The Sim Family, Dave Kong and ATAS are liable to M Development in the sum of $463,460.40 in respect of Scotts Square. 
 
-227    As for Winsta Holding, the defendants submitted that it was not entitled to claim for losses suffered by the Winsta Subsidiaries. The defendants relied on the Court of Appeal’s decision in _Goh Chan Peng and others v Beyonics Technology Ltd and another and another appeal_ [2017] 2 SLR 592 at [71]–[72] for the proposition that each incorporated entity within a group of companies is a separate legal entity and the rights and assets of a parent company and its subsidiary are treated as belonging to each discrete company. In that case, the Court of Appeal also confirmed that the single economic entity concept was not recognised by Singapore law or by the common law generally. 
+227    As for Winsta Holding, the defendants submitted that it was not entitled to claim for losses suffered by the Winsta Subsidiaries. The defendants relied on the Court of Appeal’s decision in _Goh Chan Peng and others v Beyonics Technology Ltd and another and another appeal_ <span class="citation">[2017] 2 SLR 592</span> at [71]–[72] for the proposition that each incorporated entity within a group of companies is a separate legal entity and the rights and assets of a parent company and its subsidiary are treated as belonging to each discrete company. In that case, the Court of Appeal also confirmed that the single economic entity concept was not recognised by Singapore law or by the common law generally. 
 
 228    I agree with the defendants’ submission. It would seem that the plaintiffs also agree that 
 
@@ -1356,7 +1356,7 @@ claimed that these were caused by the defendants’ wrongdoings.
 
 238    The defendants submitted that this amount could only be recovered by the plaintiffs as part of their costs of the action. The defendants referred me to _Bolton v Mahadeva_ [1972] 1 WLR 1009 at 1014H for the proposition that fees for an expert’s report obtained with a view to being used in evidence if proceedings become necessary, would be recoverable only under an order for costs. 
 
-239    The plaintiffs argued that investigation expenses are recoverable as a pecuniary loss in the tort of conspiracy: _Li Siu Lun v Looi Kok Poh and another_ [2015] 4 SLR 667 (“ _Li Siu Lun_ ”) at [57]–[59]. However, as I have dismissed the plaintiffs’ claim for conspiracy, _Li Siu Lun_ does not help them. 
+239    The plaintiffs argued that investigation expenses are recoverable as a pecuniary loss in the tort of conspiracy: _Li Siu Lun v Looi Kok Poh and another_ <span class="citation">[2015] 4 SLR 667</span> (“ _Li Siu Lun_ ”) at [57]–[59]. However, as I have dismissed the plaintiffs’ claim for conspiracy, _Li Siu Lun_ does not help them. 
 
 240    The plaintiffs’ claim for the sum of $445,641.70 is therefore dismissed. However, the plaintiffs are entitled to recover this sum under an order for costs. In many cases, it probably will not make a difference whether investigation expenses are recovered as damages or under a costs order. 
 

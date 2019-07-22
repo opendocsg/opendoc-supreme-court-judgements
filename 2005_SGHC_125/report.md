@@ -72,7 +72,7 @@ _Criminal Law_ – _Statutory offences_ – _Arms Offences Act 1973 (No 61 of 19
 
  ( b ) when the statement was made by such person in the ordinary course of business, and in particular when it consists of any entry or memorandum made by him in books kept in the ordinary course of business or in the discharge of professional duty, or of an acknowledgment written or signed by him of the receipt of money, goods, securities or property of any kind, or of a document used in commerce, written or signed by him, or of the date of a letter or other document usually dated, written or signed by him; 
 
-13     The admission of the statement is governed by the Evidence Act and the Criminal Procedure Code (Cap 68, 1985 Rev Ed). The case of _Abdul Rahim bin Ali v PP_ [1997] 2 SLR 249 dealt with the effect of ss 122(1) and 122(3) of the Criminal Procedure Code on s 32. Sections 122(1) and 122(3) read: 
+13     The admission of the statement is governed by the Evidence Act and the Criminal Procedure Code (Cap 68, 1985 Rev Ed). The case of _Abdul Rahim bin Ali v PP_ <span class="citation">[1997] 2 SLR 249</span> dealt with the effect of ss 122(1) and 122(3) of the Criminal Procedure Code on s 32. Sections 122(1) and 122(3) read: 
 
  122.—(1) Except as provided in this section, no statement made by any person to a police officer in the course of a police investigation made under this Chapter shall be used in evidence other than a statement that is a written statement admissible under section 141. 
 

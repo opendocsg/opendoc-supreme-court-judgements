@@ -24,7 +24,7 @@ _Tort_ – _Defamation_ – _Injunction_ – _Interlocutory injunctions_ – _Ma
 
 **Chao Hick Tin JA (delivering the judgment of the court):** 
 
-1       This was an appeal against a mandatory injunction and a prohibitory injunction granted by the High Court (see [2005] 1 SLR 328) in an action instituted by the respondent, Merchant Ventures Pte Ltd (“MVP”) against the appellant, Chin Bay Ching (“Chin”) for defamation and malicious falsehood. We heard the appeal on 24 March 2005 and discharged both the injunctions. We now give our reasons. 
+1       This was an appeal against a mandatory injunction and a prohibitory injunction granted by the High Court (see <span class="citation">[2005] 1 SLR 328</span>) in an action instituted by the respondent, Merchant Ventures Pte Ltd (“MVP”) against the appellant, Chin Bay Ching (“Chin”) for defamation and malicious falsehood. We heard the appeal on 24 March 2005 and discharged both the injunctions. We now give our reasons. 
 
 **The background** 
 
@@ -89,7 +89,7 @@ High Court granted the two injunctions prayed for.
 
 **The decision below** 
 
-17     The judge below, in granting the two injunctions, applied the test laid down by this court in two cases, _ie_ , _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd_ [1992] 2 SLR 729 (“ _Chuan Hong_ ”) and _Singapore Press Holdings Ltd v Brown Noel Trading Pte Ltd_ [1994] 3 SLR 151 (“ _Brown Noel_ ”) which adopted the balance of convenience test propounded in the case of _American Cyanamid v Ethicon_ [1975] AC 396 (“ _American Cyanamid_ ”), which was later referred to in Chuan Hong,as the “balance of the risk of doing injustice” test _ie_ , at 743, [88]: 
+17     The judge below, in granting the two injunctions, applied the test laid down by this court in two cases, _ie_ , _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd_ <span class="citation">[1992] 2 SLR 729</span> (“ _Chuan Hong_ ”) and _Singapore Press Holdings Ltd v Brown Noel Trading Pte Ltd_ <span class="citation">[1994] 3 SLR 151</span> (“ _Brown Noel_ ”) which adopted the balance of convenience test propounded in the case of _American Cyanamid v Ethicon_ [1975] AC 396 (“ _American Cyanamid_ ”), which was later referred to in Chuan Hong,as the “balance of the risk of doing injustice” test _ie_ , at 743, [88]: 
 
  [T]he court should take whichever course appears to carry the lower risk of injustice if it should turn out to have been wrong at trial in the sense of granting relief to a party who fails to establish his rights at the trial, or of failing to grant relief to a party who succeeds at the trial. 
 
@@ -105,7 +105,7 @@ and another passage in David Price, _Defamation Law, Procedure & Practice_ (Swee
 
  Most claimants want an apology and retraction first and foremost. However, a court cannot make an order requiring a defendant to publish an apology against his will. Since the majority of claims settle, the claimant may nevertheless be able to negotiate the publication of an apology as a term of settlement. 
 
-20     Chin also referred to the local High Court decision of _Excel Golf Pte Ltd v Allied Domecq Spirits & Wine (Singapore) Ltd_ [2003] 4 SLR 771 and the New South Wales Supreme Court decision in _Summertime Holdings Pty Ltd v Environmental Defender’s Office Ltd_ (1998) 45 NSWLR 291 where Young J stated (at 298) that “the common law does not compel apologies but merely takes the matter of whether an apology is offered or not into account when assessing damages”. 
+20     Chin also referred to the local High Court decision of _Excel Golf Pte Ltd v Allied Domecq Spirits & Wine (Singapore) Ltd_ <span class="citation">[2003] 4 SLR 771</span> and the New South Wales Supreme Court decision in _Summertime Holdings Pty Ltd v Environmental Defender’s Office Ltd_ (1998) 45 NSWLR 291 where Young J stated (at 298) that “the common law does not compel apologies but merely takes the matter of whether an apology is offered or not into account when assessing damages”. 
 
 
 21     In contrast, MVP cited _TV3 Network Ltd v Eveready New Zealand Ltd_ [1993] 3 NZLR 435 (“ _TV3 Network_ ”) where the New Zealand Court of Appeal refused, in an action for malicious falsehood and defamation, to strike out a claim for a mandatory injunction to broadcast corrective advertising even though it was argued that such a relief was untenable. Cooke P said (at 438 and 439): 

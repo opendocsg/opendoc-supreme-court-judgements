@@ -16,7 +16,7 @@
 
 _Civil Procedure_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 12.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 12</span>.] 
 
 9 September 2010 
 
@@ -24,7 +24,7 @@ _Civil Procedure_
 
 **Introduction** 
 
-1       This was an appeal against the decision of the Judge (“the Judge”) in _Lee Shieh-Peen Clement and another v Ho Chin Nguang and others_ [2010] SGHC 12 which held that the Respondents were not in breach of, or in contempt of, a Mareva injunction issued against them. At the conclusion of the hearing we allowed the appeal and held that the Respondents were in breach of the Mareva injunction. We now give our reasons. 
+1       This was an appeal against the decision of the Judge (“the Judge”) in _Lee Shieh-Peen Clement and another v Ho Chin Nguang and others_ <span class="citation">[2010] SGHC 12</span> which held that the Respondents were not in breach of, or in contempt of, a Mareva injunction issued against them. At the conclusion of the hearing we allowed the appeal and held that the Respondents were in breach of the Mareva injunction. We now give our reasons. 
 
 **Background** 
 
@@ -128,22 +128,22 @@ We will now address each of these issues in turn.
 
 **General approach** 
 
-15     Before addressing these arguments, we must emphasize the paramount importance of respecting and obeying orders of court. The proper administration of justice proceeds on the basis that orders of court would and should be observed. At the core of this principle of obeying court orders is the public interest in the administration of justice, including the dispatch of litigation as expeditiously as justice in the case requires. No party should be allowed to disregard orders of court. As Yong Pung How CJ put it in _Re Tan Khee Eng John_ [1997] 1 SLR(R) 870 at [14]: 
+15     Before addressing these arguments, we must emphasize the paramount importance of respecting and obeying orders of court. The proper administration of justice proceeds on the basis that orders of court would and should be observed. At the core of this principle of obeying court orders is the public interest in the administration of justice, including the dispatch of litigation as expeditiously as justice in the case requires. No party should be allowed to disregard orders of court. As Yong Pung How CJ put it in _Re Tan Khee Eng John_ <span class="citation">[1997] 1 SLR(R) 870</span> at [14]: 
 
  We are inviting anarchy in our legal system if we allow lawyers or litigants to pick and choose which orders of court they will comply with , or to dictate to the court how and when proceedings should be conducted. 
 
  [emphasis added] 
 
-16     It is within the purview of the courts to ensure that its orders are not contravened or thwarted (see _Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and others_ [2007] 2 SLR(R) 518). Accordingly, a court will not hesitate to punish any lawyer or litigant who fails to obey its orders or who seeks to undermine the effectiveness of its orders. The courts will jealously guard against any interference by any party which would disturb the proper administration of justice _(see Jasa Keramat Sdn Bhd v Monatech (M) Sdn Bhd_ [2001] 4 MLJ 577 at 592C-G). 
+16     It is within the purview of the courts to ensure that its orders are not contravened or thwarted (see _Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and others_ <span class="citation">[2007] 2 SLR(R) 518</span>). Accordingly, a court will not hesitate to punish any lawyer or litigant who fails to obey its orders or who seeks to undermine the effectiveness of its orders. The courts will jealously guard against any interference by any party which would disturb the proper administration of justice _(see Jasa Keramat Sdn Bhd v Monatech (M) Sdn Bhd_ [2001] 4 MLJ 577 at 592C-G). 
 
-17     The Order which this appeal was concerned with was a Mareva injunction. The object of such an interlocutory order is to prevent a defendant from dissipating his assets and thus rendering nugatory a judgment which might eventually be obtained by the plaintiff against him, when the assets would otherwise have been available to satisfy the judgment. Therefore, the Mareva injunction is an important weapon in the arsenal of the court in dealing with such a situation. In this regard, we must stress that the party against whom a Mareva injunction is issued must obey _both_ the letter and the spirit of the order (see _Pan-United Marine Ltd v Chief Assessor_ [2008] 3 SLR(R) 569 at [42] where the Court of Appeal emphasized the importance of looking at both the letter and the spirit of the law in a 
+17     The Order which this appeal was concerned with was a Mareva injunction. The object of such an interlocutory order is to prevent a defendant from dissipating his assets and thus rendering nugatory a judgment which might eventually be obtained by the plaintiff against him, when the assets would otherwise have been available to satisfy the judgment. Therefore, the Mareva injunction is an important weapon in the arsenal of the court in dealing with such a situation. In this regard, we must stress that the party against whom a Mareva injunction is issued must obey _both_ the letter and the spirit of the order (see _Pan-United Marine Ltd v Chief Assessor_ <span class="citation">[2008] 3 SLR(R) 569</span> at [42] where the Court of Appeal emphasized the importance of looking at both the letter and the spirit of the law in a 
 
 
 different context). If there is any real uncertainty as to the scope of an order the proper thing for a party to do is to seek the assistance of the court or, at the very least, inform the other party of the act that is intended to be carried out. Deliberate concealment or what seems like clever manoeuvres to get round a Mareva injunction will be dealt with accordingly. 
 
 **_Was the monthly allowance received by Ho from PT Mega an asset within the scope of the Order?_** 
 
-18     The Appellants argued that the Judge erred in holding that Ho’s subsequent receipt of the monthly allowance after the due submission of the affidavit of assets did not by its nature constitute an asset for the purposes of the Order. In support of this argument, the Appellants cited the case of _OCM Opportunities Fund II, LP and others v Burhan Uray (alias Wong Ming Kiong) and others_ [2004] 4 SLR(R) 74 (“ _OCM Opportunities Fund_ ”), where Belinda Ang Saw Ean J opined at [57] that: 
+18     The Appellants argued that the Judge erred in holding that Ho’s subsequent receipt of the monthly allowance after the due submission of the affidavit of assets did not by its nature constitute an asset for the purposes of the Order. In support of this argument, the Appellants cited the case of _OCM Opportunities Fund II, LP and others v Burhan Uray (alias Wong Ming Kiong) and others_ <span class="citation">[2004] 4 SLR(R) 74</span> (“ _OCM Opportunities Fund_ ”), where Belinda Ang Saw Ean J opined at [57] that: 
 
  The Mareva jurisdiction extends to all assets, whether tangible assets or mere choses in action, provided that the defendant is the legal or beneficial owner of them: see The Practice and Procedure of the Commercial Court (5th Ed, 2000) at 138. Salary, like fees and commission, is a chose in action and is capable of being caught by an injunction. A monthly salary that is paid into a bank account is caught by an injunction as and when it is paid into the account. 
 
@@ -253,7 +253,7 @@ Judge was wrong to find that there was no additional commercial purpose in getti
 44     The power to punish for contempt summarily is intended to enable the court to deal with conduct which would adversely affect the administration of justice. It is necessary to maintain the 
 
 
-dignity and authority of the court and to ensure a fair trial (see _Summit Holdings Ltd and another v Business Software Alliance_ [1999] 2 SLR(R) 592 at [19]). 
+dignity and authority of the court and to ensure a fair trial (see _Summit Holdings Ltd and another v Business Software Alliance_ <span class="citation">[1999] 2 SLR(R) 592</span> at [19]). 
 
 45     The relevant principles pertaining to an order of committal are stated in _Singapore Court Practice 2009_ (Jeffrey Pinsler gen ed)(LexisNexis, 2009) (“ _Pinsler_ ”) at para 52/1/2 as follows: 
 
@@ -267,11 +267,11 @@ dignity and authority of the court and to ensure a fair trial (see _Summit Holdi
 
 Further, para 52/2/1 of _Pinsler_ reads: 
 
- The importance of these requirements was recently emphasized by KC Vohrah J in Syarikat M Mohamed v Mahindapal Singh [1991] 2 MLJ 112, at 114: ‘... since committal proceedings are quasi-criminal proceedings and the liberty of the subject is involved, the procedural rules applicable must be strictly enforced.’ The point is that the person against whom the committal proceedings are brought ‘needs to know with particularity what charge or charges they are faced with, charges which can land them in prison’ (at 115). The learned judge ruled that as it is the specific purpose of the statement to include these grounds, any omission to do so cannot be made good by setting them out in the affidavit, the purpose of which is to merely verify the statement. ... (See Cartier International BV v Lee Hock Lee [1993] 1 SLR 616 in which the High Court reiterated these requirements.) 
+ The importance of these requirements was recently emphasized by KC Vohrah J in Syarikat M Mohamed v Mahindapal Singh [1991] 2 MLJ 112, at 114: ‘... since committal proceedings are quasi-criminal proceedings and the liberty of the subject is involved, the procedural rules applicable must be strictly enforced.’ The point is that the person against whom the committal proceedings are brought ‘needs to know with particularity what charge or charges they are faced with, charges which can land them in prison’ (at 115). The learned judge ruled that as it is the specific purpose of the statement to include these grounds, any omission to do so cannot be made good by setting them out in the affidavit, the purpose of which is to merely verify the statement. ... (See Cartier International BV v Lee Hock Lee <span class="citation">[1993] 1 SLR 616</span> in which the High Court reiterated these requirements.) 
 
-46     In _P J Holdings Inc v Ariel Singapore Pte Ltd_ [2009] 3 SLR(R) 582 at [7], Choo Han Teck J stated: 
+46     In _P J Holdings Inc v Ariel Singapore Pte Ltd_ <span class="citation">[2009] 3 SLR(R) 582</span> at [7], Choo Han Teck J stated: 
 
- ...Order 45 r 5 (1)( a ) applies only when “a person required by a judgment or order to do an act within a time specified in the judgment or order refuses or neglects to do it.” [emphasis added] ... I n Re Quintin Dick [1926] Ch 992, Romer J held that the term “refuse or neglect” was not equivalent to “fail or omit”, and that the former implied a conscious act of volition whereas the latter did not. In Ng Tai Tuan v Chng Gim Huat Pte Ltd [1990] 2 SLR(R) 231, Chao Hick Tin JC (as he then was) expressed the view that the word “neglect” necessarily implies some element of fault. He cited the case of In re London and Paris Banking Corporation (1874) LR 19 Eq 444 where Sir G Jessel MR said, at p 446: 
+ ...Order 45 r 5 (1)( a ) applies only when “a person required by a judgment or order to do an act within a time specified in the judgment or order refuses or neglects to do it.” [emphasis added] ... I n Re Quintin Dick [1926] Ch 992, Romer J held that the term “refuse or neglect” was not equivalent to “fail or omit”, and that the former implied a conscious act of volition whereas the latter did not. In Ng Tai Tuan v Chng Gim Huat Pte Ltd <span class="citation">[1990] 2 SLR(R) 231</span>, Chao Hick Tin JC (as he then was) expressed the view that the word “neglect” necessarily implies some element of fault. He cited the case of In re London and Paris Banking Corporation (1874) LR 19 Eq 444 where Sir G Jessel MR said, at p 446: 
 
  ... the word ‘neglected’ is not necessarily equivalent to the word ‘omitted’. Negligence is a term which is well known in law. Negligence in paying a debt on demand, as I understand, is 
 

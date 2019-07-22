@@ -68,7 +68,7 @@ came home tired due to jet lag but the wife paid little attention to him. The hu
 
 13     The wife denied she was hot tempered or violent and, that she had removed most of his photographs. If she was uncaring or showed him no affection, she was only doing to him what he did to her. She said she disliked only a couple of his friends in Portugal but had never turned away any of his friends in Singapore. She had nothing against her husband's daughter but she disliked his father as much as the father disliked her. She admitted having 100 pair of shoes in Singapore and 4 pairs in Portugal. 
 
-14     The court below looked at and applied the principles in, _Wong Siew Boey v Lee Boon Fatt_ [1994] 2 SLR 115 (and the English cases cited therein) and concluded that the husband had proved, on a balance of probabilities, that the marriage had broken down irretrievably in that the wife had behaved in a such way that he cannot reasonably be expected to live with her. Consequently, the district judge granted the husband a decree nisi to be made absolute in three (3) months. 
+14     The court below looked at and applied the principles in, _Wong Siew Boey v Lee Boon Fatt_ <span class="citation">[1994] 2 SLR 115</span> (and the English cases cited therein) and concluded that the husband had proved, on a balance of probabilities, that the marriage had broken down irretrievably in that the wife had behaved in a such way that he cannot reasonably be expected to live with her. Consequently, the district judge granted the husband a decree nisi to be made absolute in three (3) months. 
 
 **The Appeal** 
 

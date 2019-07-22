@@ -101,7 +101,7 @@ _Post Traumatic Stress Disorder_
 
 for severe PTSD under the _Guidelines for the Assessment of General Damages in Personal Injury Cases 2010_ (Academy Publishing, 2010) (“the Guidelines”) was between $25,000 and $50,000. As her case of PTSD was even more severe than precedent cases, she should be awarded more than $50,000. Moreover, the Plaintiff submitted that as she had also suffered severe anxiety and panic attack and an extremely severe level of depression, she would be entitled to a separate and additional assessment for this. Under the Guidelines, the range of awards for General Psychiatric Disorders (other than PTSD) was $25,000 to $55,000. Therefore, the Plaintiff submitted that after taking into account these two disorders and the element of overlapping, an award of $80,000 was appropriate. 
 
-20     On the other hand, the Defendant submitted that there was no separate diagnosis by a psychiatrist of severe anxiety and panic attack and depression. Any mention of such an illness was not made by a psychiatrist. Furthermore, relying on _Lee Mui Yeng v Ng Tong Yoo_ [2016] SGHC 46 (“ _Lee Mui Yeng_ ”), the Defendant submitted that it would be incorrect to compartmentalise her psychiatric condition. In that case, the plaintiff was suffering from chronic PTSD and severe major depression disorder (“MDD”). The court considered the PTSD as the primary problem which spawned secondary symptoms of MDD. The court’s award of $40,000 there took into account the MDD as well as the PTSD whereas in the present case before me, the Plaintiff suffered from PTSD only. As her PTSD was more severe than the plaintiff’s in _Lee Mui Yeng_ , the Defendant agreed that the Plaintiff should be entitled to $50,000 but no more. 
+20     On the other hand, the Defendant submitted that there was no separate diagnosis by a psychiatrist of severe anxiety and panic attack and depression. Any mention of such an illness was not made by a psychiatrist. Furthermore, relying on _Lee Mui Yeng v Ng Tong Yoo_ <span class="citation">[2016] SGHC 46</span> (“ _Lee Mui Yeng_ ”), the Defendant submitted that it would be incorrect to compartmentalise her psychiatric condition. In that case, the plaintiff was suffering from chronic PTSD and severe major depression disorder (“MDD”). The court considered the PTSD as the primary problem which spawned secondary symptoms of MDD. The court’s award of $40,000 there took into account the MDD as well as the PTSD whereas in the present case before me, the Plaintiff suffered from PTSD only. As her PTSD was more severe than the plaintiff’s in _Lee Mui Yeng_ , the Defendant agreed that the Plaintiff should be entitled to $50,000 but no more. 
 
 21     I agree that even if there was a diagnosis of severe anxiety, panic attack and extreme depression, this was part of the larger issue of PTSD. 
 
@@ -115,10 +115,10 @@ _Impairment of memory and cognitive injuries_
 
 24     According to a report dated 18 April 2012 by Ms Zena Kang, a consultant psychologist, [note: 3] the Plaintiff’s most significant deficits were in respect of her memory, _ie_ , in the areas of auditory, visual, immediate and delayed memory and also her working memory and visual processing speed. Her verbal and non-verbal reasoning abilities were classified as average. 
 
-25     The Plaintiff relied on _Teo Ai Ling (by her next friend Chua Wee Bee) v Koh Chai Kwang_ [2010] 2 SLR 1037 (“ _Teo Ai Ling_ ”) for the impairment of memory and cognitive injuries. In that case, the plaintiff was granted $40,000 but her cognitive injuries included personality change. The Plaintiff submitted that her impairment of her memory and cognitive functions was more serious than in that case and so she suggested $50,000. 
+25     The Plaintiff relied on _Teo Ai Ling (by her next friend Chua Wee Bee) v Koh Chai Kwang_ <span class="citation">[2010] 2 SLR 1037</span> (“ _Teo Ai Ling_ ”) for the impairment of memory and cognitive injuries. In that case, the plaintiff was granted $40,000 but her cognitive injuries included personality change. The Plaintiff submitted that her impairment of her memory and cognitive functions was more serious than in that case and so she suggested $50,000. 
 
 
-26     The Defendant submitted that the plaintiff in _Teo Ai Ling_ had her award for cognitive injuries increased from $25,000 to $40,000 by the High Court to take into account her personality change. As this was not applicable to the Plaintiff before me, the court should award her only $25,000 in accordance with other precedents for memory and cognitive impediment such as _Er Hung Boon v Law Shyan En_ (DC Suit No 1567 of 1997) $20,000 awarded and _Ting Heng Mee v Sin Sheng Fresh Fruit Pte Ltd_ [2004] SGHC 43 $25,000 awarded. 
+26     The Defendant submitted that the plaintiff in _Teo Ai Ling_ had her award for cognitive injuries increased from $25,000 to $40,000 by the High Court to take into account her personality change. As this was not applicable to the Plaintiff before me, the court should award her only $25,000 in accordance with other precedents for memory and cognitive impediment such as _Er Hung Boon v Law Shyan En_ (DC Suit No 1567 of 1997) $20,000 awarded and _Ting Heng Mee v Sin Sheng Fresh Fruit Pte Ltd_ <span class="citation">[2004] SGHC 43</span> $25,000 awarded. 
 
 27     I note that in the latter case, the plaintiff also had pre and post-accident amnesia. 
 
@@ -136,7 +136,7 @@ _Head injury and benign positional paroxysmal vertigo_
 
 33     Thus, the Defendant submitted that an award of $8,000 for the Plaintiff before me would be generous. 
 
-34     However, there were other precedents. For example, in _Azmi bin Ahmad v Lee Po Hoon_ [2005] SGDC 5, the plaintiff was awarded $10,000 for head injury resulting in headaches, giddiness and mild double vision. 
+34     However, there were other precedents. For example, in _Azmi bin Ahmad v Lee Po Hoon_ <span class="citation">[2005] SGDC 5</span>, the plaintiff was awarded $10,000 for head injury resulting in headaches, giddiness and mild double vision. 
 
 35     I agree with the Defendant that the head injury and vertigo should be considered together. I award the Plaintiff $10,000 for this. 
 
@@ -145,7 +145,7 @@ _Fibromyalgia_
 
 36     The Plaintiff submitted that she was found to have tenderness in all the diagnosis-defining fibromyalgia tender points. The Defendant accepted that the Plaintiff had widespread musculoskeletal pain and this was caused by the physical and emotional trauma she sustained. 
 
-37     The Plaintiff referred to _Krishnasamy Rajendra v Jolly Wee Huat Choon_ [1992] SGHC 189. In that case, the plaintiff had right cervical neuralgia with fibrositis/fibromyalgia over post right neck, right trapezus and right medical scapular region. The High Court awarded him $10,000. As the Plaintiff before me had more widespread fibromyalgia and the precedent was decided in 1992, the Plaintiff claimed $15,000 for this sub-head. The Defendant was of the view that $10,000 was fair as the fibromyalgia was secondary to her PTSD. 
+37     The Plaintiff referred to _Krishnasamy Rajendra v Jolly Wee Huat Choon_ <span class="citation">[1992] SGHC 189</span>. In that case, the plaintiff had right cervical neuralgia with fibrositis/fibromyalgia over post right neck, right trapezus and right medical scapular region. The High Court awarded him $10,000. As the Plaintiff before me had more widespread fibromyalgia and the precedent was decided in 1992, the Plaintiff claimed $15,000 for this sub-head. The Defendant was of the view that $10,000 was fair as the fibromyalgia was secondary to her PTSD. 
 
 38     I am of the view that as the Plaintiff’s fibromyalgia was more widespread than the precedent cited and bearing in mind the lapse of time since the above case, $15,000 is to be awarded to the Plaintiff for this sub-head. 
 
@@ -165,7 +165,7 @@ _Neck and back injuries, abrasions on face, arms and legs and spondylosis_
 
 _Other injuries_ 
 
-45     The Plaintiff claimed separately for a number of other injuries which are found in s/no 7 of Annexure A. She referred to _Shaw Linda Gillian v Chai Kang Wei Samuel_ [2009] SGHC 187 (“ _Shaw_ ”) in which the High Court awarded $40,000 to the plaintiff who had reduced dexterity, muscular strength, tone and co-ordination. The Plaintiff claimed $80,000. The Plaintiff said she had more medical issues which impacted her more severely than the precedent cited. 
+45     The Plaintiff claimed separately for a number of other injuries which are found in s/no 7 of Annexure A. She referred to _Shaw Linda Gillian v Chai Kang Wei Samuel_ <span class="citation">[2009] SGHC 187</span> (“ _Shaw_ ”) in which the High Court awarded $40,000 to the plaintiff who had reduced dexterity, muscular strength, tone and co-ordination. The Plaintiff claimed $80,000. The Plaintiff said she had more medical issues which impacted her more severely than the precedent cited. 
 
 46     The Defendant submitted that there was no evidence that Vitamin D deficiency had caused the Plaintiff pain and suffering. 
 
@@ -362,7 +362,7 @@ _(ii) Multiplicand_
 
 _(iii) Income tax_ 
 
-109    In addition, as I am not inclined to allow any increase, I will balance this by not taking into account any income tax of 2.5% as was done by Tay Yong Kwang J in _Toh Wai Sie and another v Rajendran s/o G Selamuthu_ [2012] SGHC 33. 
+109    In addition, as I am not inclined to allow any increase, I will balance this by not taking into account any income tax of 2.5% as was done by Tay Yong Kwang J in _Toh Wai Sie and another v Rajendran s/o G Selamuthu_ <span class="citation">[2012] SGHC 33</span>. 
 
 
 110    Accordingly, the multiplier is $6,000 per month without any increase in the future and without any deduction for income tax. The total is $6,000 per month x 12 x 15 = $1,080,000. The multiplier and multiplicand are reflected in Annexure E. 
@@ -565,7 +565,7 @@ _(v) Future caregiver expenses for the Plaintiff_
 
 on a quotation she had obtained. I am not persuaded that she cannot enlist the aid of a full-time domestic help. As discussed in the context of pre-trial expenses, the Defendant had agreed that the Plaintiff should be entitled to claim expenses for a full-time domestic help after she is discharged from hospital. 
 
-154    However, neither side provided the court with evidence of an estimate of how much a full-time help would cost. Instead, the Defendant mentioned in its written submission, at paras 184 and 185, the case of _AOD (a minor suing by his litigation representative) v AOE_ [2014] SGHCR 21 (“ _AOD v AOE_ ”) to present the cost of a foreign full-time domestic help. Such was the state of the evidence before me. In that case, the salary was $480 per month and the maid levy was $83.85 per month. The court allowed $80 per month for the cost of the maid’s food, medical bills and lodging by referring to _Kwok Seng Fatt Jeremy v Choy Chee Hau_ [2003] SGHC 308 at [15]. The court also accepted the plaintiff’s claim for contract renewal fee of $300 once in two years, return airfare of $300 which appeared to be for every two years and insurance premium of $321 which also appeared to be for every two years. 
+154    However, neither side provided the court with evidence of an estimate of how much a full-time help would cost. Instead, the Defendant mentioned in its written submission, at paras 184 and 185, the case of _AOD (a minor suing by his litigation representative) v AOE_ [2014] SGHCR 21 (“ _AOD v AOE_ ”) to present the cost of a foreign full-time domestic help. Such was the state of the evidence before me. In that case, the salary was $480 per month and the maid levy was $83.85 per month. The court allowed $80 per month for the cost of the maid’s food, medical bills and lodging by referring to _Kwok Seng Fatt Jeremy v Choy Chee Hau_ <span class="citation">[2003] SGHC 308</span> at [15]. The court also accepted the plaintiff’s claim for contract renewal fee of $300 once in two years, return airfare of $300 which appeared to be for every two years and insurance premium of $321 which also appeared to be for every two years. 
 
 155    The court there also accepted that 30 days respite should be allowed so as to avoid burnout for the domestic help and for this, nursing care had to be provided. This was accepted by both sides in that case. However, as no evidence or submission was made for this aspect in the present case before me, I will disregard it. 
 
@@ -650,7 +650,7 @@ mentioned that the Plaintiff had used an un-motorized wheelchair because she did
 164    The total of the general and special damages, including post-trial general damages, exceeds $8.6 million. The Plaintiff claimed interest at 5.33% per annum for general and special damages from the date of the writ to date of judgment. The Defendant referred to _Quek Yen Fei Kenneth v Yeo_ 
 
 
-_Chye Huat_ [2016] 3 SLR 1106 (“ _Quek Yen Fei_ ”) where Tay J had awarded interest as follows: 
+_Chye Huat_ <span class="citation">[2016] 3 SLR 1106</span> (“ _Quek Yen Fei_ ”) where Tay J had awarded interest as follows: 
 
  (a) 5.33% per annum for general damages for pain and suffering from the date of the writ to the date of judgment; 
 

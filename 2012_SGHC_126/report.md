@@ -297,7 +297,7 @@ _In the absence of clear wording, is either party entitled to adduce additional 
 
  evidence is admissible... to "clear up any other doubt that may arise in applying the document to the case" ... words are sometimes penumbral; the context of the contract breaks down the rigidly-defined boundaries of meaning, introduces hues and shades, and defines the contours and limits of the penumbra. 
 
-This was recently affirmed in _Master Marine AS v Labroy Offshore Ltd and others_ [2012] SGCA 27 at [34]. Extrinsic material is admissible if it is relevant, and reasonably available to all the contracting parties; see _Zurich Insurance_ at [125]. 
+This was recently affirmed in _Master Marine AS v Labroy Offshore Ltd and others_ <span class="citation">[2012] SGCA 27</span> at [34]. Extrinsic material is admissible if it is relevant, and reasonably available to all the contracting parties; see _Zurich Insurance_ at [125]. 
 
 44     This is a classic case of words with a penumbra of meaning. The plaintiff, while averring that the words of the MOU and Employment Letter are clear, still seeks to rely on discussions between VVFL’s representatives and the defendant. Dr Gaikwad accepted in court that cl 5 was generally worded and asserted that he could clarify what it meant on the basis that: 
 

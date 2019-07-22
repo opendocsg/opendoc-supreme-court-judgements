@@ -237,7 +237,7 @@ and as an internal signatory and a junior branch officer. Her duties included ve
 
 _Admissibility of documentary evidence_ 
 
-47     For a document to be admissible as evidence of the truth of its contents, the maker of the document must generally be called as a witness to prove the document’s authenticity and to be cross-examined on its contents: _Jet Holding Ltd and others v Cooper Cameron (Singapore) Pte Ltd and another and other appeals_ [2006] 3 SLR(R) 769. 
+47     For a document to be admissible as evidence of the truth of its contents, the maker of the document must generally be called as a witness to prove the document’s authenticity and to be cross-examined on its contents: _Jet Holding Ltd and others v Cooper Cameron (Singapore) Pte Ltd and another and other appeals_ <span class="citation">[2006] 3 SLR(R) 769</span>. 
 
 48     The defendant’s status as a bank means that this general rule does not apply to its documentary banking records. Under s 171 of the Evidence Act, these documents are admissible in evidence even without calling the maker, provided that the prerequisites in s 172 are met. Section 171 provides as follows: 
 
@@ -249,7 +249,7 @@ _Admissibility of documentary evidence_
 
  “bankers’ books” includes ledgers, day books, cash books, account books and all other books used in the ordinary business of the bank[.] 
 
-The expression “other books” in this definition is very wide. In _Wee Soon Kim Anthony v UBS_ [2003] 2 SLR(R) 91, the Court of Appeal held at [36] that the expression was wide enough to include “[a]ny form of permanent record maintained by a bank in relation to the transactions of a customer” 
+The expression “other books” in this definition is very wide. In _Wee Soon Kim Anthony v UBS_ <span class="citation">[2003] 2 SLR(R) 91</span>, the Court of Appeal held at [36] that the expression was wide enough to include “[a]ny form of permanent record maintained by a bank in relation to the transactions of a customer” 
 
 
 [emphasis in original omitted]. 

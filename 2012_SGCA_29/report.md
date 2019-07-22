@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory Offences_ – _Misuse of Drugs Act_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2011] SGHC 107.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2011] SGHC 107</span>.] 
 
 14 May 2012 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Criminal Law_ – _Statutory Offences_ – _Misuse of Drugs Act_
 
 **Introduction** 
 
-1       These appeals arise out of the decision of the High Court judge (“the Judge”) in _Public Prosecutor v Mas Swan bin Adnan and another_ [2011] SGHC 107 (“the Judgment”), which involved a joint trial of two persons, Mas Swan bin Adnan (“Mas Swan”) and Roshamima binti Roslan 
+1       These appeals arise out of the decision of the High Court judge (“the Judge”) in _Public Prosecutor v Mas Swan bin Adnan and another_ <span class="citation">[2011] SGHC 107</span> (“the Judgment”), which involved a joint trial of two persons, Mas Swan bin Adnan (“Mas Swan”) and Roshamima binti Roslan 
 
 (“Roshamima”), who were jointly charged with the following charge (“the joint charge”): [note: 1] 
 
@@ -208,7 +208,7 @@ _Whether Mas Swan should be convicted of attempted importation of ecstasy_
 
 (1) The law on attempts to commit offences under the MDA 
 
-24     In _Khor Soon Lee v Public Prosecutor_ [2011] 3 SLR 201 (“ _Khor Soon Lee_ ”), this court convicted the appellant of an amended charge of attempting to import Class A controlled drugs (other than diamorphine) in contravention of s 7 read with s 12 of the MDA after acquitting him of a capital charge of importing not less than 27.86g of diamorphine (see the Editorial Note to _Khor Soon Lee_ ). The Prosecution initially relied only on _Khor Soon Lee_ in support of its submission that Mas Swan 
+24     In _Khor Soon Lee v Public Prosecutor_ <span class="citation">[2011] 3 SLR 201</span> (“ _Khor Soon Lee_ ”), this court convicted the appellant of an amended charge of attempting to import Class A controlled drugs (other than diamorphine) in contravention of s 7 read with s 12 of the MDA after acquitting him of a capital charge of importing not less than 27.86g of diamorphine (see the Editorial Note to _Khor Soon Lee_ ). The Prosecution initially relied only on _Khor Soon Lee_ in support of its submission that Mas Swan 
 
 should be convicted of a similar amended charge. [note: 23] At the first hearing of this appeal, we asked the Prosecution to address us on the issue from first principles as this court in _Khor Soon Lee_ did not issue written grounds for its decision to convict the appellant in that case of attempted importation ( _Khor Soon Lee_ dealt only with this court’s reasons for acquitting the appellant of the capital charge of importing diamorphine). 
 
@@ -242,7 +242,7 @@ deleterious drugs (see the Statement of Objects and Reasons accompanying the Del
 
 (B) Case law on s 12 of the MDA 
 
-29     None of the local cases concerning the offence under s 12 of the MDA of attempting to commit offences under the MDA has expounded on the elements of that offence of attempt: see _Public Prosecutor v Goh Ah Lim_ [1989] 2 SLR(R) 217 (attempt to export diamorphine; the accused was arrested at Changi Airport while waiting to board a flight for Australia), _Public Prosecutor v Ho So Mui_ [1993] 1 SLR(R) 57 (attempt to export diamorphine in furtherance of a common intention with another; the accused was arrested in the aircraft), _Goh Joon Tong and another v Public Prosecutor_ [1995] 3 SLR(R) 90 (abetting an attempt to export diamorphine) and _Public Prosecutor v Bryan Yeo Sin Rong and others_ [1998] SGHC 266 (attempt to export controlled drugs; the accused was arrested at the boarding gate at Changi Airport). 
+29     None of the local cases concerning the offence under s 12 of the MDA of attempting to commit offences under the MDA has expounded on the elements of that offence of attempt: see _Public Prosecutor v Goh Ah Lim_ <span class="citation">[1989] 2 SLR(R) 217</span> (attempt to export diamorphine; the accused was arrested at Changi Airport while waiting to board a flight for Australia), _Public Prosecutor v Ho So Mui_ <span class="citation">[1993] 1 SLR(R) 57</span> (attempt to export diamorphine in furtherance of a common intention with another; the accused was arrested in the aircraft), _Goh Joon Tong and another v Public Prosecutor_ <span class="citation">[1995] 3 SLR(R) 90</span> (abetting an attempt to export diamorphine) and _Public Prosecutor v Bryan Yeo Sin Rong and others_ <span class="citation">[1998] SGHC 266</span> (attempt to export controlled drugs; the accused was arrested at the boarding gate at Changi Airport). 
 
 (C) The elements of the general offence of attempt under s 511 of the Penal Code 
 
@@ -269,7 +269,7 @@ deleterious drugs (see the Statement of Objects and Reasons accompanying the Del
 _(I) The mens rea_ 
 
 
-32     The High Court in _Chua Kian Kok v Public Prosecutor_ [1999] 1 SLR(R) 826 (“ _Chua Kian Kok_ ”) held that the _mens rea_ for the general offence of attempt under the then equivalent of s 511 of the Penal Code ( _viz_ , s 511 of the Penal Code (Cap 224, 1985 Rev Ed)) was the intention to commit the primary offence (see _Chua Kian Kok_ at [27]–[28]). The High Court refused to follow English Court of Appeal decisions which held that the _mens rea_ for the general offence of attempt was the same as the _mens rea_ for the primary offence. The High Court gave two reasons for its decision (see _Chua Kian Kok_ at [27]–[28]). First, it took the view that an attempted offence resulted in a lower degree of public harm than a completed offence and, thus, the mental element for the attempted offence should be more stringent (see _Chua Kian Kok_ at [30]–[31]). Second, the High Court was not convinced by the reasoning in the English Court of Appeal decisions because the corresponding English provision ( _viz_ , s 1(1) of the Criminal Attempts Act 1981 (c 47) (UK) (“the UK Criminal Attempts Act 1981”)) seemed to provide that the mental element for the general offence of attempt was, instead, an intent to commit the primary offence (see _Chua Kian Kok_ at [32]). 
+32     The High Court in _Chua Kian Kok v Public Prosecutor_ <span class="citation">[1999] 1 SLR(R) 826</span> (“ _Chua Kian Kok_ ”) held that the _mens rea_ for the general offence of attempt under the then equivalent of s 511 of the Penal Code ( _viz_ , s 511 of the Penal Code (Cap 224, 1985 Rev Ed)) was the intention to commit the primary offence (see _Chua Kian Kok_ at [27]–[28]). The High Court refused to follow English Court of Appeal decisions which held that the _mens rea_ for the general offence of attempt was the same as the _mens rea_ for the primary offence. The High Court gave two reasons for its decision (see _Chua Kian Kok_ at [27]–[28]). First, it took the view that an attempted offence resulted in a lower degree of public harm than a completed offence and, thus, the mental element for the attempted offence should be more stringent (see _Chua Kian Kok_ at [30]–[31]). Second, the High Court was not convinced by the reasoning in the English Court of Appeal decisions because the corresponding English provision ( _viz_ , s 1(1) of the Criminal Attempts Act 1981 (c 47) (UK) (“the UK Criminal Attempts Act 1981”)) seemed to provide that the mental element for the general offence of attempt was, instead, an intent to commit the primary offence (see _Chua Kian Kok_ at [32]). 
 
 33     We agree that the _mens rea_ for the general offence of attempt under s 511 of the Penal Code is the intention to commit the primary offence. As was held in _Chua Kian Kok_ , it would not be appropriate to hold that the _mens rea_ of the primary offence is the required mental element. A more stringent requirement should be imposed for inchoate offences. It should be noted that the Indian courts also take the view that the mental element for the general offence of attempt is the intention to commit the primary offence (see _Ratanlal & Dhirajlal’s The Indian Penal Code_ (LexisNexis Butterworths Wadhwa Nagpur, 33rd Ed, 2010) at pp 1076 and 1079). 
 
@@ -311,7 +311,7 @@ was mistaken as to the legal status of the object that he possessed. [note: 24] 
 
 attempting to handle stolen goods. _Haughton_ has been criticised (see, for example, H L A Hart, “The House of Lords on Attempting the Impossible” (1981) OJLS 149 (“ _Hart_ ”), especially at pp 165–166, and the _1980 Report_ at paras 2.95–2.97). From the perspective of the rationale for punishing attempts ( _viz_ , deterrence and retribution), a person who sets out to commit an offence and does everything possible to commit the offence, but who is (perhaps fortuitously) prevented from committing the offence due to some external circumstance is as culpable as a person who is interrupted from completing the offence (see _Hart_ at p 165 and the _1980 Report_ at para 2.96). _Haughton_ has since been legislatively overruled (see s 1(2) of the UK Criminal Attempts Act 1981). The current position in England is that factually impossible attempts are offences (see _Regina v Shivpuri_ [1987] 1 AC 1). In our view, when Parliament enacted s 12 of the MDA, it must be presumed, in the absence of contrary indication, to have intended to follow the existing common law position on factually impossible attempts. There is nothing in the text or the origins of s 12 of the MDA which suggests that a different approach should be taken in interpreting s 12 (see [25]–[29] above). 
 
-42     We also note that _Chua Kian Kok_ was applied by the court of three judges in _Law Society of Singapore v Bay Puay Joo Lilian_ [2008] 2 SLR(R) 316 (“ _Bay Puay Joo Lilian_ ”). _Bay Puay Joo Lilian_ was part of a line of disciplinary cases involving the entrapment of solicitors involved in touting for conveyancing work. Counsel for the respondent solicitor in that case sought to argue that due cause could not be shown under s 83(2)( _e_ ) of the Legal Profession Act (Cap 161, 2001 Rev Ed) for attempting to procure employment if the employment attempted to be procured was fictitious (see _Bay Puay Joo Lilian_ at [43]). The court of three judges rejected this argument by referring to s 511 of the Penal Code (Cap 224, 1985 Rev Ed) and _Chua Kian Kok_ (see _Bay Puay Joo Lilian_ at [44]). 
+42     We also note that _Chua Kian Kok_ was applied by the court of three judges in _Law Society of Singapore v Bay Puay Joo Lilian_ <span class="citation">[2008] 2 SLR(R) 316</span> (“ _Bay Puay Joo Lilian_ ”). _Bay Puay Joo Lilian_ was part of a line of disciplinary cases involving the entrapment of solicitors involved in touting for conveyancing work. Counsel for the respondent solicitor in that case sought to argue that due cause could not be shown under s 83(2)( _e_ ) of the Legal Profession Act (Cap 161, 2001 Rev Ed) for attempting to procure employment if the employment attempted to be procured was fictitious (see _Bay Puay Joo Lilian_ at [43]). The court of three judges rejected this argument by referring to s 511 of the Penal Code (Cap 224, 1985 Rev Ed) and _Chua Kian Kok_ (see _Bay Puay Joo Lilian_ at [44]). 
 
 (2) Application to the facts 
 
@@ -392,7 +392,7 @@ accompany Roshamima. [note: 39] He claims that he was not aware that Roshamima w
 
 anything illegal in importing ecstasy. [note: 40] 
 
-53     Counsel for Mas Swan has also referred to _Public Prosecutor v Phuthita Somchit and another_ [2011] 3 SLR 719, where the accused, who was acquitted of conspiring to traffic in diamorphine but convicted of attempting to traffic in a Class C controlled drug (the charge was framed in this manner because the accused had intended to traffic in a “not serious drug”, which, in the High Court judge’s view, meant that she must have intended to traffic in a Class C controlled drug at the very least), 
+53     Counsel for Mas Swan has also referred to _Public Prosecutor v Phuthita Somchit and another_ <span class="citation">[2011] 3 SLR 719</span>, where the accused, who was acquitted of conspiring to traffic in diamorphine but convicted of attempting to traffic in a Class C controlled drug (the charge was framed in this manner because the accused had intended to traffic in a “not serious drug”, which, in the High Court judge’s view, meant that she must have intended to traffic in a Class C controlled drug at the very least), 
 
 was sentenced to nine years’ imprisonment. [note: 41] The accused received this sentence even though she knew that trafficking in the type of controlled drugs she was dealing with carried severe penalties. She had also been involved in the packing of the controlled drugs and had received money 
 
@@ -410,7 +410,7 @@ ecstasy. [note: 43]
 
  (b) a maximum of 30 years’ imprisonment and 15 strokes of the cane. 
 
-56     The High Court in _Jeffery bin Abdullah v Public Prosecutor_ [2009] 3 SLR(R) 414 ( _per_ Chan Sek 
+56     The High Court in _Jeffery bin Abdullah v Public Prosecutor_ <span class="citation">[2009] 3 SLR(R) 414</span> ( _per_ Chan Sek 
 
 
  (a) 

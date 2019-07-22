@@ -65,7 +65,7 @@ _Employment Law_ – _Employees’ duties_ – _Post-employment duties_ – _Con
 
 without identifying “the Conference” and “the Conferences”. 
 
-9\. The duty of an employee to protect his employer’s information is discussed by the Court of Appeal in _Faccenda Chicken Ltd v Fowler_ [1986] 3 WLR 288 and by our Court of Appeal in _Tang Siew Choy & Ors v Certact Pte Ltd_ [1993] 3 SLR 44. While he is under his employer, he cannot use or disclose his employer’s confidential information except in the discharge of his duties as employee. After he has left his employment, there is an enduring duty on him not to use or disclose his former employer’s information which “can properly be classed as a trade secret or as material which, while 
+9\. The duty of an employee to protect his employer’s information is discussed by the Court of Appeal in _Faccenda Chicken Ltd v Fowler_ [1986] 3 WLR 288 and by our Court of Appeal in _Tang Siew Choy & Ors v Certact Pte Ltd_ <span class="citation">[1993] 3 SLR 44</span>. While he is under his employer, he cannot use or disclose his employer’s confidential information except in the discharge of his duties as employee. After he has left his employment, there is an enduring duty on him not to use or disclose his former employer’s information which “can properly be classed as a trade secret or as material which, while 
 
  [1] 
 

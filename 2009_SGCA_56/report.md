@@ -61,7 +61,7 @@ As can be seen from these provisions, the IFP (S) Act does not state whether the
 
 **The High Court decision** 
 
-6       The High Court Judge dismissed the appellant’s application, having ruled on the preliminary point that illegitimate children were not entitled to claim maintenance under the IFP (S) Act (see _AAG v Estate of AAH, deceased_ [2009] 2 SLR 1087). His reasoning proceeded essentially as follows: 
+6       The High Court Judge dismissed the appellant’s application, having ruled on the preliminary point that illegitimate children were not entitled to claim maintenance under the IFP (S) Act (see _AAG v Estate of AAH, deceased_ <span class="citation">[2009] 2 SLR 1087</span>). His reasoning proceeded essentially as follows: 
 
 
  (a) The IFP (S) Act was enacted to introduce into Singapore the provisions of the Inheritance (Family Provisions) Act 1938 (c 45) (UK) (“the IFP (UK) Act 1938”). 
@@ -74,7 +74,7 @@ As can be seen from these provisions, the IFP (S) Act does not state whether the
 
 **Principles of interpretation** 
 
-7       It is an established principle of common law that the courts should adopt a purposive approach in the interpretation of a statute: see _Pepper (Inspector of Taxes) v Hart_ [1993] AC 593 at 617 ( _per_ Lord Griffiths). This is now specifically mandated by s 9A(1) of the Interpretation Act which expressly provides that an interpretation that would promote the purpose or object underlying the written law shall be preferred to an interpretation that would not promote that purpose or object. The words of a statute are to be read in their entire context and in their grammatical and ordinary sense, harmoniously with the scheme of the Act, the object of the Act and the intention of Parliament (see _Constitutional Reference No 1 of 1995_ [1995] 2 SLR 201, _per_ Yong Pung How CJ). However, even in applying the purposive approach, the court must bear in mind the parameters set by the literal text of the provision and should assiduously guard against inadvertently re-writing legislation (see _PP v Low Kok Heng_ [2007] 4 SLR 183). 
+7       It is an established principle of common law that the courts should adopt a purposive approach in the interpretation of a statute: see _Pepper (Inspector of Taxes) v Hart_ [1993] AC 593 at 617 ( _per_ Lord Griffiths). This is now specifically mandated by s 9A(1) of the Interpretation Act which expressly provides that an interpretation that would promote the purpose or object underlying the written law shall be preferred to an interpretation that would not promote that purpose or object. The words of a statute are to be read in their entire context and in their grammatical and ordinary sense, harmoniously with the scheme of the Act, the object of the Act and the intention of Parliament (see _Constitutional Reference No 1 of 1995_ <span class="citation">[1995] 2 SLR 201</span>, _per_ Yong Pung How CJ). However, even in applying the purposive approach, the court must bear in mind the parameters set by the literal text of the provision and should assiduously guard against inadvertently re-writing legislation (see _PP v Low Kok Heng_ <span class="citation">[2007] 4 SLR 183</span>). 
 
 **Origin of the IFP (S) Act** 
 

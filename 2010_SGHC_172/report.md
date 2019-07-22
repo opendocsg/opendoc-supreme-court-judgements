@@ -76,7 +76,7 @@ _Limitation of Actions_
 
  [emphasis added] 
 
-10     It has been suggested that an order for the division of matrimonial assets is a “one-off order” and as such, does not allow for variation: Leong Wai Kum, _Principles of Family Law in Singapore_ (Singapore: Butterworths Asia, 1997) at p 910, approved in _Lee Kok Yong v Lee Guek Hua (alias Li Yuehua)_ [2007] SGHC 26 at [16]. Nonetheless, the court can vary such an order if it is appropriate to do so, such as where the court order is unworkable or did not provide for a particular situation or contingency which has arisen subsequent to the order: _Nalini d/o Ramachandran v Saseedaran Nair s/o Krishnan_ [2010] SGHC 98 at [13]. 
+10     It has been suggested that an order for the division of matrimonial assets is a “one-off order” and as such, does not allow for variation: Leong Wai Kum, _Principles of Family Law in Singapore_ (Singapore: Butterworths Asia, 1997) at p 910, approved in _Lee Kok Yong v Lee Guek Hua (alias Li Yuehua)_ <span class="citation">[2007] SGHC 26</span> at [16]. Nonetheless, the court can vary such an order if it is appropriate to do so, such as where the court order is unworkable or did not provide for a particular situation or contingency which has arisen subsequent to the order: _Nalini d/o Ramachandran v Saseedaran Nair s/o Krishnan_ <span class="citation">[2010] SGHC 98</span> at [13]. 
 
 11     The express wording of s 112(4) of the Women’s Charter ([9] above), in particular the operative phrase “ _at any time it thinks fit_ ”, appears to suggest that the power it confers on the court to vary or revoke any previous order cannot be extinguished by the mere lapse of time. Whether this suggestion is correct, however, would depend on further consideration of the provisions of the Act 
 
@@ -94,7 +94,7 @@ since, as McGee, _Limitation Periods_ (London: Sweet & Maxwell, 5th Ed, 2006) (�
 
 14     In my view, the Petitioner’s application was not “an action upon any judgment”, and s 112(4) of the Women’s Charter was therefore not subject to s 6(3) of the Act. 
 
-15     The Act was based on the UK’s Limitation Act 1939 (2 & 3 Geo 6, c 21) (see [50] of the Court of Appeal’s judgment in _Poh Soon Kiat v Desert Palace Inc (trading as Caesars Palace)_ [2010] 1 SLR 1129 (“ _Caesars Palace (CA)_ ”), s 2(4) of which was _in pari materia_ with s 6(3) of the Act, while s 31 read: 
+15     The Act was based on the UK’s Limitation Act 1939 (2 & 3 Geo 6, c 21) (see [50] of the Court of Appeal’s judgment in _Poh Soon Kiat v Desert Palace Inc (trading as Caesars Palace)_ <span class="citation">[2010] 1 SLR 1129</span> (“ _Caesars Palace (CA)_ ”), s 2(4) of which was _in pari materia_ with s 6(3) of the Act, while s 31 read: 
 
  “Action” includes any proceedings in a court of law, including an ecclesiastical court. 
 
@@ -149,7 +149,7 @@ At the same time, Mummery LJ did not regard a winding up petition as a process o
 
 blessing to _W T Lamb & Sons v Rider_ ...” 
 
-28     Second, the interpretation adopted by the English courts has also been accepted by the local courts. In _Tan Kim Seng v Ibrahim Victor Adam_ [2004] 1 SLR(R) 181, our Court of Appeal commented on s 6(3) of the Act and stated at [29] that: 
+28     Second, the interpretation adopted by the English courts has also been accepted by the local courts. In _Tan Kim Seng v Ibrahim Victor Adam_ <span class="citation">[2004] 1 SLR(R) 181</span>, our Court of Appeal commented on s 6(3) of the Act and stated at [29] that: 
 
  ...one must bear in mind the distinction between “execution” and “an action upon any judgment”. In Halsbury's Laws of England, Vol 28 (4th Ed, Reissue, 1997) at para 916, the learned authors stated the following in a footnote, in commenting on the equivalent English provision: 
 
@@ -157,7 +157,7 @@ blessing to _W T Lamb & Sons v Rider_ ...”
 
 Although no citation was provided, it was clear that the passage quoted from _Halsbury’s Laws of England_ was derived from _Lamb_ and _Berliner Industriebank_. 
 
-29     Similar endorsements of the English judgments can be found in [53] of _Caesars Palace (CA)_ (see above at [15]), as well as [63] to [68] of _Desert Palace Inc (trading as Caesars Palace) v Poh Soon Kiat_ [2009] 1 SLR(R) 71 (“ _Caesars Palace (HC)_ ”) (which was not overruled by the Court of Appeal on this point). 
+29     Similar endorsements of the English judgments can be found in [53] of _Caesars Palace (CA)_ (see above at [15]), as well as [63] to [68] of _Desert Palace Inc (trading as Caesars Palace) v Poh Soon Kiat_ <span class="citation">[2009] 1 SLR(R) 71</span> (“ _Caesars Palace (HC)_ ”) (which was not overruled by the Court of Appeal on this point). 
 
 30     On the basis of these authorities, I therefore decided that the Petitioner’s application was not “an action upon any judgment” within s 6(3) of the Act as it was not a “fresh action” brought on a judgment in order to obtain a second judgment, and consequently was not barred after the lapse of 12 (or more) years. 
 

@@ -16,7 +16,7 @@
 
 _Muslim Law_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2009] 3 SLR(R) 439 .] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2009] 3 SLR(R) 439</span> .] 
 
 18 March 2010 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Muslim Law_
 
 **Introduction** 
 
-1       This is an appeal against the decision of the High Court judge (“the Judge”) in Originating Summons No 1749 of 2007 dismissing an application for a declaration that the estate of Obeidillah bin Salim bin Talib, deceased (“the Deceased”) was entitled to a half share in the property at 1 Farrer Road, #10-06, Tulip Garden, Singapore 268817 (the “Property”) (see _Shafeeg bin Salim Talib and another (administrators of the estate of Obeidillah bin Salim bin Talib, deceased) v Fatimah bte Abud bin Talib and others_ [2009] 3 SLR(R) 439 (“GD”)). 
+1       This is an appeal against the decision of the High Court judge (“the Judge”) in Originating Summons No 1749 of 2007 dismissing an application for a declaration that the estate of Obeidillah bin Salim bin Talib, deceased (“the Deceased”) was entitled to a half share in the property at 1 Farrer Road, #10-06, Tulip Garden, Singapore 268817 (the “Property”) (see _Shafeeg bin Salim Talib and another (administrators of the estate of Obeidillah bin Salim bin Talib, deceased) v Fatimah bte Abud bin Talib and others_ <span class="citation">[2009] 3 SLR(R) 439</span> (“GD”)). 
 
 **The background** 
 
@@ -84,7 +84,7 @@ restore the Half Share to the Estate. The 1 st^ Respondent refused, claiming tha
 
  (d) the Deceased was not a Malay person and therefore the expression “Malay” as defined in s 112(3) of the AMLA (a point which the Appellants have not asserted), did not apply to him. 
 
-11     In relation to the Appellants’ case based on the 2007 _Fatwa_ , the Judge held that since the 2007 _Fatwa_ was requested by the Appellants under s 32(1) of the AMLA, and not by the court under s 32(7), he was not bound by the 2007 _Fatwa_ , following the decision in _Saniah bte Ali and others v Abdullah bin Ali_ [1990] 1 SLR(R) 555 (“ _Saniah_ ”) (see [30] below). The Judge also declined to seek a ruling from MUIS on the ground that the issue he had to decide, _ie_ , whether the Half Share belonged to the Estate, was not a question of Muslim law and that s 32(7) would only be applicable where a question of Muslim law fell to be determined. 
+11     In relation to the Appellants’ case based on the 2007 _Fatwa_ , the Judge held that since the 2007 _Fatwa_ was requested by the Appellants under s 32(1) of the AMLA, and not by the court under s 32(7), he was not bound by the 2007 _Fatwa_ , following the decision in _Saniah bte Ali and others v Abdullah bin Ali_ <span class="citation">[1990] 1 SLR(R) 555</span> (“ _Saniah_ ”) (see [30] below). The Judge also declined to seek a ruling from MUIS on the ground that the issue he had to decide, _ie_ , whether the Half Share belonged to the Estate, was not a question of Muslim law and that s 32(7) would only be applicable where a question of Muslim law fell to be determined. 
 
 **Issues raised on appeal** 
 
@@ -119,7 +119,7 @@ correct in his findings on the law.
 
  (d) The right of a Muslim to make gifts inter vivos does not assist the Respondents as the operation of the right of survivorship does not equate to a gift of the Half Share inter vivos. Equally, the Muslim concept o f hibah ruqba does not assist the Respondents because it is a concept under the Hanafi school of Islam which is inapplicable to the Deceased who belonged to the Shafi‛i school of Islam. 
 
- (e) The operation of the right of survivorship also transgresses the well-established rule in faraid that a Muslim may not enhance the share of any of his legal heirs: see Mohamed Ismail bin Ibrahim and another v Mohammad Taha bin Ibrahim [2004] 4 SLR(R) 756 (“ Mohamed Ismail ”). 
+ (e) The operation of the right of survivorship also transgresses the well-established rule in faraid that a Muslim may not enhance the share of any of his legal heirs: see Mohamed Ismail bin Ibrahim and another v Mohammad Taha bin Ibrahim <span class="citation">[2004] 4 SLR(R) 756</span> (“ Mohamed Ismail ”). 
 
  (f) The registration of the Property in the name of the Deceased and that of the 1st Respondent as joint tenants was not, or did not operate as, a gift inter vivos because while the Deceased was alive, both of them held the entire interest in the Property. If there was a gift, it was a gift made only or which took effect only upon the Deceased’s death – just like the gift in Mohamed Ismail which cannot be distinguished from the present case (see [49] below). 
 

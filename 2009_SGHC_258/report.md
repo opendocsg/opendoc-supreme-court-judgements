@@ -114,7 +114,7 @@ couple was childless.[note: 17] There were many other unhappy episodes in the pa
 
  (h) the matters referred to in section 114(1) so far as they are relevant. 
 
-12     Section 112 has been considered in innumerable cases. It is well-established that the court is to exercise its discretion in broad strokes rather than by way of an unrealistic mathematical approach (see _Lock Yeng Fun v Chua Hock Chye_ [2007] 3 SLR 520 at [33]). In exercising its discretion, the court will focus on achieving a fair and reasonable division ( _Id_ .). With these principles in mind, I turn to the present case. 
+12     Section 112 has been considered in innumerable cases. It is well-established that the court is to exercise its discretion in broad strokes rather than by way of an unrealistic mathematical approach (see _Lock Yeng Fun v Chua Hock Chye_ <span class="citation">[2007] 3 SLR 520</span> at [33]). In exercising its discretion, the court will focus on achieving a fair and reasonable division ( _Id_ .). With these principles in mind, I turn to the present case. 
 
 13     The wife wanted the entire share of the Sommerville Park Apartment but failed to provide good 
 

@@ -18,7 +18,7 @@ _Criminal Law_ – _Statutory Offences_ – _Misuse of Drugs Act_
 
 _Evidence_ – _Proof of Evidence_ – _Presumptions_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2009] SGHC 189.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2009] SGHC 189</span>.] 
 
 16 December 2010 
 
@@ -26,7 +26,7 @@ _Evidence_ – _Proof of Evidence_ – _Presumptions_
 
 **Introduction** 
 
-1       The appellant, Tan Chin Hock, was convicted by a High Court judge (“the trial judge”) of having in his possession 64.34g of diamorphine for the purposes of trafficking, an offence under s 5(1)( _a_ ) read with s 5(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“the MDA”) and punishable under s 33 of the MDA (see _Public Prosecutor v Tan Chin Hock_ [2009] SGHC 189 (“the GD”)). 
+1       The appellant, Tan Chin Hock, was convicted by a High Court judge (“the trial judge”) of having in his possession 64.34g of diamorphine for the purposes of trafficking, an offence under s 5(1)( _a_ ) read with s 5(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“the MDA”) and punishable under s 33 of the MDA (see _Public Prosecutor v Tan Chin Hock_ <span class="citation">[2009] SGHC 189</span> (“the GD”)). 
 
 2       The appellant appealed against the trial judge’s decision. At the conclusion of the hearing of the appeal, we dismissed the appeal as there was, in our view, no reasonable doubt that the appellant was guilty of the offence which he was convicted of. We also said that we would give our reasons for dismissing the appeal; we now set out those reasons. 
 
@@ -52,13 +52,13 @@ Substance because: [note: 1]
 6       The appellant’s argument as outlined above was based on certain observations made by the 
 
 
-judge who heard the magistrate’s appeal in _Lim Boon Keong v Public Prosecutor_ [2010] 4 SLR 451 (“ _Lim Boon Keong_ ”). We rejected the argument and dismissed the appeal. 
+judge who heard the magistrate’s appeal in _Lim Boon Keong v Public Prosecutor_ <span class="citation">[2010] 4 SLR 451</span> (“ _Lim Boon Keong_ ”). We rejected the argument and dismissed the appeal. 
 
 **The decision in** **_Lim Boon Keong_** 
 
 7       To better understand the appellant’s case before this court, which (as just mentioned) hinged upon certain _obiter dicta_ of the judge in _Lim Boon Keong_ (“the MA judge”), we shall first discuss that case. 
 
-8       The accused in _Lim Boon Keong_ (“Lim”) was convicted in the District Court of the offence under s 8( _b_ )(ii) of the MDA of unauthorised consumption of a specified drug listed in the Fourth Schedule to the MDA, namely, norketamine (see _Public Prosecutor v Lim Boon Keong_ [2009] SGDC 511). The district judge who heard the trial (“the District Judge”) found that the procedure set out in s 31(4)( _b_ ) of the MDA for testing Lim’s urine sample for the presence of norketamine had been complied with, and, thus, the presumption under s 22 of the MDA (“the s 22 MDA presumption”) that Lim had consumed norketamine was applicable. In convicting Lim, the District Judge admitted in evidence, _inter alia_ , a s 16 MDA certificate signed by Ms Kuan Soo Yan, an analyst employed by HSA at the material time (“Ms Kuan’s s 16 MDA certificate”), as _prima facie_ evidence of the matters stated therein ( _eg_ , the type and the quantity of specified drug found in Lim’s urine sample). 
+8       The accused in _Lim Boon Keong_ (“Lim”) was convicted in the District Court of the offence under s 8( _b_ )(ii) of the MDA of unauthorised consumption of a specified drug listed in the Fourth Schedule to the MDA, namely, norketamine (see _Public Prosecutor v Lim Boon Keong_ <span class="citation">[2009] SGDC 511</span>). The district judge who heard the trial (“the District Judge”) found that the procedure set out in s 31(4)( _b_ ) of the MDA for testing Lim’s urine sample for the presence of norketamine had been complied with, and, thus, the presumption under s 22 of the MDA (“the s 22 MDA presumption”) that Lim had consumed norketamine was applicable. In convicting Lim, the District Judge admitted in evidence, _inter alia_ , a s 16 MDA certificate signed by Ms Kuan Soo Yan, an analyst employed by HSA at the material time (“Ms Kuan’s s 16 MDA certificate”), as _prima facie_ evidence of the matters stated therein ( _eg_ , the type and the quantity of specified drug found in Lim’s urine sample). 
 
 9       On appeal to the High Court, the Prosecution withdrew its reliance on Ms Kuan’s s 16 MDA certificate and the s 22 MDA presumption, with the result that the Prosecution had no evidence against Lim on the offence charged, except for the confession given in his cautioned statement recorded on 20 March 2008 under s 122(6) of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) (“the CPC”). That confession (“the s 122(6) confession”) was as follows: 
 
@@ -223,7 +223,7 @@ However, this is not the law as a s 16 MDA certificate, when admitted in evidenc
 
 55\. Following the Laboratory Manual, solvent checks are performed for each of the instruments by including a vial containing only the specific solvent used (with no sample added) in each run.     This is to ensure that all solvents used in the laboratory are clean and do not contain any illicit drugs, which would be detected by the instrument when the solvent is run during the testing process. ... 
 
-30     Of course, the adoption by HSA of “internationally accepted methodology” [note: 8] does not mean that, in every case, each of the tests conducted by HSA will meet the aforesaid international standards. Whether or not those international standards have been met is essentially a question of fact (see _Public Prosecutor v Ang Soon Huat_ [1990] 2 SLR(R) 246 (“ _Ang Soon Huat_ ”), where the High Court held, _vis-à-vis_ the offence of drug trafficking as set out in s 5 of the Misuse of Drugs Act (Cap 185, 1985 Rev Ed), that the tests devised and conducted in that case did not meet the requirements of the criminal standard of proof). 
+30     Of course, the adoption by HSA of “internationally accepted methodology” [note: 8] does not mean that, in every case, each of the tests conducted by HSA will meet the aforesaid international standards. Whether or not those international standards have been met is essentially a question of fact (see _Public Prosecutor v Ang Soon Huat_ <span class="citation">[1990] 2 SLR(R) 246</span> (“ _Ang Soon Huat_ ”), where the High Court held, _vis-à-vis_ the offence of drug trafficking as set out in s 5 of the Misuse of Drugs Act (Cap 185, 1985 Rev Ed), that the tests devised and conducted in that case did not meet the requirements of the criminal standard of proof). 
 
 31     In the present case, no challenge was mounted against P67–P88 at the trial (see [5] and [24]–[25] above). In our view, having regard to the 12 August 2010 affidavit, we did not think that ordering a retrial so as to allow the Defence to cross-examine PW5 on the matters set out in that affidavit was likely to rebut the matters presumptively proved by P67–P88. There was one other material consideration in the present case which made a successful rebuttal highly improbable, namely: the appellant had confessed that he had indeed trafficked in _64.34g_ of diamorphine as charged. That quantity of diamorphine exceeded by more than four times the statutory threshold set for the imposition of the death sentence _vis-à-vis_ the offence of trafficking in diamorphine, namely, trafficking in any quantity of diamorphine of more than 15g (see the Second Schedule to the MDA; _cf Ang Soon Huat_ , where the difference between the statutory threshold and the amount of diamorphine trafficked as alleged by the Prosecution (which amount was eventually held by the court not to have been proved beyond reasonable doubt) was only in the region of 3.61g to 3.77g). 
 

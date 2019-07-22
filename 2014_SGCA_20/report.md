@@ -20,7 +20,7 @@ _Family Law_ – _Maintenance_ – _Wife_
 
 _Family Law_ – _Maintenance_ – _Child_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2013] SGHC 191.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2013] SGHC 191</span>.] 
 
 11 April 2014 Judgment reserved. 
 
@@ -28,7 +28,7 @@ _Family Law_ – _Maintenance_ – _Child_
 
 **Introduction** 
 
-1       This is an appeal by the husband against the orders made by the High Court judge (“the Judge”) in relation to the division of matrimonial assets and maintenance for the wife and children. The Judge’s grounds of decision may be found at _Thery Patrice Roger v Tan Chye Tee_ [2013] SGHC 191 (“the GD”). 
+1       This is an appeal by the husband against the orders made by the High Court judge (“the Judge”) in relation to the division of matrimonial assets and maintenance for the wife and children. The Judge’s grounds of decision may be found at _Thery Patrice Roger v Tan Chye Tee_ <span class="citation">[2013] SGHC 191</span> (“the GD”). 
 
 **Background** 
 
@@ -94,7 +94,7 @@ property”). As the sale of the Katong Gardens property was only completed afte
 
 _Whether the Judge erred in attributing the sale proceeds of the Katong Gardens property to the parties in equal shares_ 
 
-14     The Judge referred to the Singapore District Court decisions of _Tan Bee Bee v Lim Kim Chin_ [2004] SGDC 67 and _ACM v ACN_ [2009] SGDC 411 and held that equal attribution to the parties of the previous matrimonial home’s sale proceeds was appropriate where the respective contributions of the parties to the previous property were unclear. The Judge thought that this principle was applicable to the facts of the present case because the respective contributions of the parties were unclear. 
+14     The Judge referred to the Singapore District Court decisions of _Tan Bee Bee v Lim Kim Chin_ <span class="citation">[2004] SGDC 67</span> and _ACM v ACN_ <span class="citation">[2009] SGDC 411</span> and held that equal attribution to the parties of the previous matrimonial home’s sale proceeds was appropriate where the respective contributions of the parties to the previous property were unclear. The Judge thought that this principle was applicable to the facts of the present case because the respective contributions of the parties were unclear. 
 
 15     With respect, we are unable to agree. Although there are some gaps in the evidence due to the passage of time, there is nonetheless sufficient evidence to ascertain the parties’ respective contributions to the Katong Gardens property. The husband claims to have been solely responsible for 
 
@@ -160,7 +160,7 @@ commission and fees) and $338,863.48 [note: 20] (the amount due to the parties u
 
 23     First, the determination of the parties’ financial contributions to the Katong Gardens property above is necessary in order to achieve a fair and equitable division of the sale proceeds from the Loyang View property. As mentioned earlier, the wife took three loans from UOB to finance the purchase of the Loyang View property and the sale proceeds from the Katong Gardens property were then used to repay these three loans. It would have been an impossible task to determine the appropriate credit to be given to the parties for the three loans without reference to their contributions to the Katong Gardens property. It would have also been patently inequitable if the wife were credited with the _entire_ quantum of the three loans. Therefore, a consideration of the parties’ contributions to the first matrimonial home is necessary on the present facts. 
 
-24     Secondly, we find it inappropriate to determine the parties’ _non-financial_ contributions to the Katong Gardens property as at the date of the sale of that property because they should be “assessed and applied at the _end_ of the marriage” [emphasis in original], with a full appreciation of the entire context and circumstances of the marriage (see the decision of this court in _AYQ v AYR and another matter_ [2013] 1 SLR 476 at [23]). 
+24     Secondly, we find it inappropriate to determine the parties’ _non-financial_ contributions to the Katong Gardens property as at the date of the sale of that property because they should be “assessed and applied at the _end_ of the marriage” [emphasis in original], with a full appreciation of the entire context and circumstances of the marriage (see the decision of this court in _AYQ v AYR and another matter_ <span class="citation">[2013] 1 SLR 476</span> at [23]). 
 
 _Whether the Judge erred in arriving at a 90:10 division of the sale proceeds of the Loyang View property in favour of the wife_ 
 

@@ -16,7 +16,7 @@
 
 _Family law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 62 of 2011 was allowed by the Court of Appeal on 18 October 2011. See [2012] SGCA 6.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 62 of 2011 was allowed by the Court of Appeal on 18 October 2011. See <span class="citation">[2012] SGCA 6</span>.] 
 
 18 March 2011 Judgment reserved. 
 
@@ -74,7 +74,7 @@ and s 113 provides that:
 
  There is now a clear distinction between a void and a voidable marriage. A void marriage is one which, owing to the presence of an impediment at the time of the ceremony, will be regarded by every court in any case in which the existence of the marriage is in issue as never having taken place and can be so treated by both parties to it without the necessity of any decree annulling it; the decree in the case of a void marriage is in essence a declaration that no marriage had come into existence and any person having sufficient interest in a declaration of nullity can petition for a decree at any time, even after the death of one or both parties. A voidable marriage is one that will be regarded by every court as a valid, subsisting marriage until a decree annulling it has been pronounced by a court of competent jurisdiction, which can be done only at the instigation of one of the parties during the lifetime of both parties. Thus, in the case of a void marriage, no valid marriage ever comes into existence and the parties to it never acquire the status of husband and wife, whereas in the case of a voidable marriage the parties acquire that status and the marriage is valid unless and until annulled during the joint lives of the parties at the instance of one of them. It follows, therefore, that if one party dies without a decree of nullity having been pronounced the voidable marriage cannot thereafter be questioned, but is for ever valid. 
 
-This passage was cited by Judith Prakash J in _Tan Ah Thee and another (administrators of the estate of Tan Kiam Poh (alias Tan Gna Chua), deceased) v Lim Soo Foong_ [2009] 3 SLR(R) 957. 
+This passage was cited by Judith Prakash J in _Tan Ah Thee and another (administrators of the estate of Tan Kiam Poh (alias Tan Gna Chua), deceased) v Lim Soo Foong_ <span class="citation">[2009] 3 SLR(R) 957</span>. 
 
 11     A similar view on void marriages is taken by Professor Leong Wai Kum in her book, _Elements of Family Law in Singapore_ (LexisNexis, 2007) (“ _Elements_ ”) where she stated at p 38: 
 
@@ -130,7 +130,7 @@ The definition of “child” in s 122 does not apply to s 70(1) because s 70(1)
 
 23     The DJ had rejected the claim solely on the basis that the claim was disbarred under the doctrine of _res judicata_ , but the correctness of her decision is questionable. 
 
-24     In her reference to _res judicata_ , the DJ was referring to issue estoppel that prohibits a party from raising an issue which has been determined conclusively. Issue estoppel was discussed and explained by the Court of Appeal in _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ [2005] 3 SLR(R) 157, where it held (at [14] – [15]) that for issue estoppel to arise four conditions must be fulfilled: 
+24     In her reference to _res judicata_ , the DJ was referring to issue estoppel that prohibits a party from raising an issue which has been determined conclusively. Issue estoppel was discussed and explained by the Court of Appeal in _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ <span class="citation">[2005] 3 SLR(R) 157</span>, where it held (at [14] – [15]) that for issue estoppel to arise four conditions must be fulfilled: 
 
 
  (a) there must be a final and conclusive judgment on the merits of the issue which is said to be the subject of the estoppel; 
@@ -141,7 +141,7 @@ The definition of “child” in s 122 does not apply to s 70(1) because s 70(1)
 
  (d) there must be identity of subject matter in the two actions. 
 
-25     The first condition was further explained in _Goh Nellie v Goh Lian Teck and others_ [2007] 1 SLR(R) 453 by Sundaresh Menon JC (at [28]): 
+25     The first condition was further explained in _Goh Nellie v Goh Lian Teck and others_ <span class="citation">[2007] 1 SLR(R) 453</span> by Sundaresh Menon JC (at [28]): 
 
  Finality for the purposes of res judicata simply refers to a declaration or determination of a party's liability and/or his rights or obligations leaving nothing else to be judicially determined: [K R Handley, Spencer Bower, Turner and Handley: The Doctrine of Res Judicata (Butterworths, 3rd Ed, 1996)] at para 154. Whether the decision in question is a final and conclusive judgment on the merits may be ascertained from the intention of the judge as gathered from the relevant documents filed, the order made and the notes of any evidence taken or arguments made. [emphasis added] 
 
@@ -151,7 +151,7 @@ The definition of “child” in s 122 does not apply to s 70(1) because s 70(1)
 
 28     In view of the mixed results, each party should bear its own costs in the appeal. 
 
-[note: 1] (^) [2009] SGDC 489 at [10] [note: 2] (^) [2009] SGDC 489 at [35] [note: 3] (^) [2009] SGDC 489 at [37] [note: 4] (^) [2009] SGDC 489 at [40] Copyright © Government of Singapore. 
+[note: 1] (^) <span class="citation">[2009] SGDC 489</span> at [10] [note: 2] (^) <span class="citation">[2009] SGDC 489</span> at [35] [note: 3] (^) <span class="citation">[2009] SGDC 489</span> at [37] [note: 4] (^) <span class="citation">[2009] SGDC 489</span> at [40] Copyright © Government of Singapore. 
 
 
 Source: [link](https://www.singaporelawwatch.sg/Portals/0/Docs/Judgments/[2011] SGHC 60.pdf)

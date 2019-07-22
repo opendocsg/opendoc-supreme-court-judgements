@@ -18,7 +18,7 @@
 
 _Companies_ – _Schemes of arrangement_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 55 and 56 of 2011 were allowed by the Court of Appeal on 30 November 2011. See [2012] SGCA 7.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 55 and 56 of 2011 were allowed by the Court of Appeal on 30 November 2011. See <span class="citation">[2012] SGCA 7</span>.] 
 
 2 August 2011 Judgment reserved. 
 
@@ -252,7 +252,7 @@ _The purpose, text and scope of s 210 of the Companies Act_
 
  (3) If a majority in number representing three-fourths in value of the creditors or class of creditors or members or class of members present and voting either in person or by proxy at the meeting or the adjourned meeting agrees to any compromise or arrangement, the compromise or arrangement shall, if approved by order of the Court, be binding on all the creditors or class of creditors or on the members or class of members, as the case may be, and also on the company or, in the case of a company in the course of being wound up, on the liquidator and contributories of the company. 
 
-21     The purpose and function of the antecedents of s 210 of the Companies Act have been set out and approved by the Court of Appeal in _The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ [2008] 3 SLR(R) 121 (“ _Oriental Insurance_ ”) at [38] and [40] in the following terms: 
+21     The purpose and function of the antecedents of s 210 of the Companies Act have been set out and approved by the Court of Appeal in _The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 121</span> (“ _Oriental Insurance_ ”) at [38] and [40] in the following terms: 
 
  38 ... In Re Norfolk Island And Byron Bay Whaling Co Ltd (1969) 90 WN (Pt 1) (NSW) 351, Street J summarised the purpose behind the then equivalent of the Australian s 411 as follows (at 354): 
 
@@ -284,7 +284,7 @@ Finally, in _In re T & N Ltd and others_ [2006] 1 WLR 1728 (“ _In re T & N_ �
 
 _Are the plaintiffs “creditors” within the meaning of s 210(3) of the Companies Act?_ 
 
-26     I turn next to consider the meaning of the word “creditors” in s 210(3) of the Companies Act. The word is not defined in the Companies Act. Courts elsewhere have adopted different interpretations of the word. A summary of the relevant case law may be found in _Pacrim Investments Pte Ltd v Tan Mui Keow Claire and another_ [2010] SGHC 134 at [24]–[31] and in _Australian Corporation Law: Principles and Practice_ (Butterworths, Looseleaf Ed, 1991, November 2010 issue) at para 5.1.0035. 
+26     I turn next to consider the meaning of the word “creditors” in s 210(3) of the Companies Act. The word is not defined in the Companies Act. Courts elsewhere have adopted different interpretations of the word. A summary of the relevant case law may be found in _Pacrim Investments Pte Ltd v Tan Mui Keow Claire and another_ <span class="citation">[2010] SGHC 134</span> at [24]–[31] and in _Australian Corporation Law: Principles and Practice_ (Butterworths, Looseleaf Ed, 1991, November 2010 issue) at para 5.1.0035. 
 
 27     On one view, “creditors” may refer to all persons who have claims which may be admitted to proof in the winding up of the company (see _Re Glendale Land Development (in liq)_ (1982) ACLC 562 at 564; followed in _Re Huon Valley Springs Pty Ltd (Receivers and Managers appointed)_ (1986) 10 ACLR 883). Applying this view in the context of the relevant legislation in Singapore, unliquidated tort claimants such as the plaintiffs would not be “creditors” within the meaning of s 210(3) of the Companies Act. This is because s 327(2) of the Companies Act provides that, in the winding up of an insolvent company, the same rules that prevail in relation to bankrupt persons are applicable with regard to, _inter alia_ , the debts that are provable. Reference must then be made to the Bankruptcy Act (Cap 20, 2009 Rev Ed) (“the Bankruptcy Act”) to determine whether unliquidated tort claims may be provable in the winding up of an insolvent company. Section 87(1) of the Bankruptcy Act provides, in effect, that such claims shall not be provable: 
 

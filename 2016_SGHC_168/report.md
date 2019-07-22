@@ -98,18 +98,18 @@ the anastomotic sites of the Whipple Operation”, [note: 8] which the Defendant
 
 **The law on negligence** 
 
-15     The applicable legal principles are not in dispute. In Singapore, the leading authority on medical negligence is _Khoo James and another v Gunapathy d/o Muniandy and another appeal_ [2002] 1 SLR(R) 1024 (“ _Gunapathy_ ”). The test is as stated in _Bolam v Friern Hospital Management Committee_ [1957] 1 WLR 582 (“ _Bolam_ ”) at 587: 
+15     The applicable legal principles are not in dispute. In Singapore, the leading authority on medical negligence is _Khoo James and another v Gunapathy d/o Muniandy and another appeal_ <span class="citation">[2002] 1 SLR(R) 1024</span> (“ _Gunapathy_ ”). The test is as stated in _Bolam v Friern Hospital Management Committee_ [1957] 1 WLR 582 (“ _Bolam_ ”) at 587: 
 
  [A doctor] is not guilty of negligence if he has acted in accordance with a practice accepted as proper by a responsible body of medical men skilled in that particular act ... Putting it the other way round, a [doctor] is not negligent, if he is acting in accordance with such a practice, merely because there is a body of opinion who would take a contrary view. 
 
  [Emphasis added] 
 
-16     The Court of Appeal in _Gunapathy_ added (at [59]) that the _Bolam_ test has been supplemented by the House of Lords decision in _Bolitho v City and Hackney Health Authority_ [1998] AC 232 (“ _Bolitho_ ”). Since _Bolitho_ , a defendant-doctor will not be exonerated simply because a body of experts testifies in his favour. An expert view must satisfy the “threshold test of logic” in order to constitute, in the words of _Bolam_ , “a practice accepted as proper by a responsible body of medical men skilled in that particular act.” The expert must have directed his mind to the comparative risks and benefits of each possible course of action, and reached a “defensible conclusion” after balancing these risks and benefits. The conclusion must be internally consistent on its face, and must not ignore or controvert known medical facts and advances in medical knowledge ( _Gunapathy_ at [63]–[65] and [109]). Further, as Tay Yong Kwang J (as he then was) stated in _D’Conceicao Jeanie Doris (administratrix of the estate of Milakov Steven, deceased) v Tong Ming Chuan_ [2011] SGHC 193 at [109]: 
+16     The Court of Appeal in _Gunapathy_ added (at [59]) that the _Bolam_ test has been supplemented by the House of Lords decision in _Bolitho v City and Hackney Health Authority_ [1998] AC 232 (“ _Bolitho_ ”). Since _Bolitho_ , a defendant-doctor will not be exonerated simply because a body of experts testifies in his favour. An expert view must satisfy the “threshold test of logic” in order to constitute, in the words of _Bolam_ , “a practice accepted as proper by a responsible body of medical men skilled in that particular act.” The expert must have directed his mind to the comparative risks and benefits of each possible course of action, and reached a “defensible conclusion” after balancing these risks and benefits. The conclusion must be internally consistent on its face, and must not ignore or controvert known medical facts and advances in medical knowledge ( _Gunapathy_ at [63]–[65] and [109]). Further, as Tay Yong Kwang J (as he then was) stated in _D’Conceicao Jeanie Doris (administratrix of the estate of Milakov Steven, deceased) v Tong Ming Chuan_ <span class="citation">[2011] SGHC 193</span> at [109]: 
 
 
  The fact that a doctor acknowledges the practice of one group of doctors while stating that he would have opted for a different course does not of itself cause his opinion to become inconsistent. ... an expert can provide evidence of what practices are accepted as proper by a responsible body of medical men by stating his view of what he believes other doctors would have done (even if he would not himself have adopted that course). 
 
-17     An allegation that a doctor was negligent in failing to order a post-operative diagnostic test must be positively proved, and the medical basis for ordering the test must be affirmatively established. A doctor would not be negligent simply because there was no harm in ordering the test ( _Chua Thong Jiang Andrew v Yue Wai Mun and another_ [2015] SGHC 119 at [66]–[69]). 
+17     An allegation that a doctor was negligent in failing to order a post-operative diagnostic test must be positively proved, and the medical basis for ordering the test must be affirmatively established. A doctor would not be negligent simply because there was no harm in ordering the test ( _Chua Thong Jiang Andrew v Yue Wai Mun and another_ <span class="citation">[2015] SGHC 119</span> at [66]–[69]). 
 
 **The parties and their witnesses** 
 
@@ -890,7 +890,7 @@ stabilisation via correction of her acidosis. [note: 241]
 
 121    There is no dispute that Mdm Lee had a Dehiscence on and after 2300hrs on 16 July, if not earlier. The Plaintiff did not challenge the Defendant’s actions on 17 July, save that the diagnosis should have been of a subsisting and not a new Dehiscence. 
 
-122    Every case must be decided on the issues raised by the pleadings, which bind the parties. If other issues are desired to be raised or come to light during the trial, they must be pleaded by way of amendment ( _Deans Property Pte Ltd v Land Estates Apartments Pte Ltd and another_ [1994] 3 SLR(R) 804 at [15]). Although evidence at trial can overcome omissions in a party’s pleadings where the opponent is not taken by surprise ( _Holland Leedon Pte Ltd (in liquidation) v C & P Transport Pte Ltd_ [2013] SGHC 281 at [150]), it may not establish facts radically different from those pleaded that more than simply vary, modify, or develop what has been alleged ( _John G Stein & Co Ltd v O’Hanlon_ [1965] AC 890 at 909). 
+122    Every case must be decided on the issues raised by the pleadings, which bind the parties. If other issues are desired to be raised or come to light during the trial, they must be pleaded by way of amendment ( _Deans Property Pte Ltd v Land Estates Apartments Pte Ltd and another_ <span class="citation">[1994] 3 SLR(R) 804</span> at [15]). Although evidence at trial can overcome omissions in a party’s pleadings where the opponent is not taken by surprise ( _Holland Leedon Pte Ltd (in liquidation) v C & P Transport Pte Ltd_ <span class="citation">[2013] SGHC 281</span> at [150]), it may not establish facts radically different from those pleaded that more than simply vary, modify, or develop what has been alleged ( _John G Stein & Co Ltd v O’Hanlon_ [1965] AC 890 at 909). 
 
 123    I reiterate that the Plaintiff’s pleaded case was that by 17 July, it was too late to have performed an abdominal CT scan on Mdm Lee (see [47] above). Accordingly, the Plaintiff’s submission that, after 17 July, the Defendant should have ordered yet another abdominal CT scan with a view to performing percutaneous drainage on Mdm Lee’s abdomen, was strictly speaking immaterial to his case. However, for completeness, I will address the Plaintiff’s allegations about what the Defendant should have done on and after 17 July. 
 
@@ -1190,7 +1190,7 @@ second laparotomy was performed. [note: 333] Yet, Mdm Lee continued to deteriora
 
 **Causation: hypothetical intermediate events** 
 
-163    Even if there was a negligent omission, no liability lies unless the negligence _caused_ or _materially contributed_ to the injuries suffered ( _Yeo Peng Hock Henry v Pai Lily_ [2001] 3 SLR(R) 555 at [52]). 
+163    Even if there was a negligent omission, no liability lies unless the negligence _caused_ or _materially contributed_ to the injuries suffered ( _Yeo Peng Hock Henry v Pai Lily_ <span class="citation">[2001] 3 SLR(R) 555</span> at [52]). 
 
 164    Given that the Plaintiff did not plead a loss of chance – that the omission of an abdominal CT scan had deprived Mdm Lee of a better chance to live – he bore the burden of proving on a balance of probabilities: 
 

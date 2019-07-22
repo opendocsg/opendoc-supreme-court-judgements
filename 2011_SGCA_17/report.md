@@ -16,7 +16,7 @@
 
 _Criminal Law_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2009] SGHC 291. 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2009] SGHC 291</span>. 
 
 The Court of Appeal, having heard further arguments from the Appellant and the Prosecution on 21 July 2011, convicted the Appellant on an amended charge of attempting to import “Class A” controlled drugs (other than diamorphine) in contravention of s 7 read with s 12 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed). After hearing counsel on the issue of sentence, the Court of Appeal sentenced the Appellant to 18 years' imprisonment and 8 strokes of the cane.] 
 
@@ -26,7 +26,7 @@ The Court of Appeal, having heard further arguments from the Appellant and the P
 
 **Introduction** 
 
-1       The accused, Khor Soon Lee (“the Appellant”), was charged with and convicted of importing 27.86 grams of diamorphine into Singapore (see _Public Prosecutor v Khor Soon Lee_ [2009] SGHC 291 (“the GD”)). He now appeals against his conviction. 
+1       The accused, Khor Soon Lee (“the Appellant”), was charged with and convicted of importing 27.86 grams of diamorphine into Singapore (see _Public Prosecutor v Khor Soon Lee_ <span class="citation">[2009] SGHC 291</span> (“the GD”)). He now appeals against his conviction. 
 
 **Background and facts** 
 
@@ -122,7 +122,7 @@ bundles in the Purple Plastic Bag and the Black Plastic Bag. No inspection was d
 
 Act, bearing in mind the fact that mere assertions of ignorance alone may be insufficient to rebut the presumption. 
 
-16     We pause, however, to also observe, parenthetically, that it is, of course, open to the Prosecution to prove that the accused had actual knowledge on the facts of the case itself, in which case it would then be unnecessary to rely on the presumptions under (in this instance) s 18 of the Act (see _Tan Kiam Peng v PP_ [2008] 1 SLR(R) 1 (“ _Tan Kiam Peng_ ”) at [171]). However, especially in the nature of _this_ offence itself, proving the mental element of actual knowledge would often be an extremely difficult task; hence, the need for the presumptions that have just been referred to. That having been said, we should think that, if the accused is able to rebut, on a balance of probabilities, the relevant presumption(s), it would follow that the Prosecution would _not_ be able to prove that the accused had actual knowledge in the case concerned. Conversely, if there is clear evidence that the accused had actual knowledge on the facts of the case, it would follow that the accused would _not_ be able to rebut, on a balance of probabilities, the relevant presumption(s). Indeed, the Prosecution might not – as alluded to at the outset of the present paragraph – even need to rely on the presumption(s) in order to establish knowledge on the part of the accused. It is important to emphasise that much would, of course, turn on the precise factual matrix concerned. 
+16     We pause, however, to also observe, parenthetically, that it is, of course, open to the Prosecution to prove that the accused had actual knowledge on the facts of the case itself, in which case it would then be unnecessary to rely on the presumptions under (in this instance) s 18 of the Act (see _Tan Kiam Peng v PP_ <span class="citation">[2008] 1 SLR(R) 1</span> (“ _Tan Kiam Peng_ ”) at [171]). However, especially in the nature of _this_ offence itself, proving the mental element of actual knowledge would often be an extremely difficult task; hence, the need for the presumptions that have just been referred to. That having been said, we should think that, if the accused is able to rebut, on a balance of probabilities, the relevant presumption(s), it would follow that the Prosecution would _not_ be able to prove that the accused had actual knowledge in the case concerned. Conversely, if there is clear evidence that the accused had actual knowledge on the facts of the case, it would follow that the accused would _not_ be able to rebut, on a balance of probabilities, the relevant presumption(s). Indeed, the Prosecution might not – as alluded to at the outset of the present paragraph – even need to rely on the presumption(s) in order to establish knowledge on the part of the accused. It is important to emphasise that much would, of course, turn on the precise factual matrix concerned. 
 
 17     In the present appeal, it is clear that no issue of actual knowledge _per se_ has arisen. Indeed, as this court noted in _Tan Kiam Peng_ (at [106]), “the practical reality [is] that a finding of actual knowledge is likely to be rare”. 
 
@@ -205,7 +205,7 @@ assumed that such testimony, if given, would have buttressed the Appellant’s c
 
 **Conclusion** 
 
-30     For the reasons set out above, we allow the appeal on the charge as it stands. We would like to note the exemplary manner in which the Prosecution and Defence had conducted their respective cases in the present appeal and would like to commend them accordingly. In particular, the Prosecution conducted its case in the spirit of its overall mission, which is encapsulated in the following observation of this court in _Bachoo Mohan Singh v Public Prosecutor_ [2010] 1 SLR 966 (at [103]) that “the Prosecution ... [is the] guardian of the people’s rights, _including those of the accused_ ” (emphasis in original). 
+30     For the reasons set out above, we allow the appeal on the charge as it stands. We would like to note the exemplary manner in which the Prosecution and Defence had conducted their respective cases in the present appeal and would like to commend them accordingly. In particular, the Prosecution conducted its case in the spirit of its overall mission, which is encapsulated in the following observation of this court in _Bachoo Mohan Singh v Public Prosecutor_ <span class="citation">[2010] 1 SLR 966</span> (at [103]) that “the Prosecution ... [is the] guardian of the people’s rights, _including those of the accused_ ” (emphasis in original). 
 
 31     Pending submissions from the Prosecution on whether we ought to, _inter alia_ , amend the charge, we will adjourn the matter. The Prosecution has 21 days to let us have its submissions on what courses of action are open to us on the established facts. Counsel for the Appellant will have 21 days thereafter to respond. We will then hear the parties on the issues that have arisen. Until then, the Appellant will continue to be in custody. 
 

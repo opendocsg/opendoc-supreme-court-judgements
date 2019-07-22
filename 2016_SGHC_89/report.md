@@ -205,7 +205,7 @@ floater lurching out. [note: 1] Ohl did not then have an opportunity to consider
 
  (c) That the defendant was negligent in not having properly assessed the risks associated with the assignment and had failed to take adequate precautions to ensure that the plaintiff was not exposed to risk of injury which the defendant knew or ought to have known. 
 
-32     The defendant disagreed with the judge’s finding in (a) above. Applying the test in _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ [2007] 4 SLR(R) 100 (“the _Spandeck_ test”), it contended that the defendant did not owe a duty of care to the plaintiff who by his own 
+32     The defendant disagreed with the judge’s finding in (a) above. Applying the test in _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ <span class="citation">[2007] 4 SLR(R) 100</span> (“the _Spandeck_ test”), it contended that the defendant did not owe a duty of care to the plaintiff who by his own 
 
 admission in court [note: 2] was an independent contractor. The _Spandeck_ test comprised a threshold question of factual foreseeability coupled with a two-stage test comprising (i) proximity and (ii) policy considerations. 
 

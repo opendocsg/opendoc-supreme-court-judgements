@@ -41,7 +41,7 @@ The appellant raised several factors in mitigation in the district court. First,
 
 that he did not have any criminal antecedent. He had also pleaded guilty. Further, he said that, at the time of the offence, he had to work to support his child, who had turned two years old by the time of his conviction. He had also surrendered himself to the authorities and accordingly he pleaded for leniency. 
 
-The trial judge did not accord significant weight to the fact that he was a first offender in view of the observations in **PP v Tan Fook Sum** [1999] 2 SLR 523 and **Xia Qin Lai v PP** [1999] 4 SLR 343 at [para ] 27. As stated in **_PP v Tan Fook Sum_** at [para ] 32: 
+The trial judge did not accord significant weight to the fact that he was a first offender in view of the observations in **PP v Tan Fook Sum** <span class="citation">[1999] 2 SLR 523</span> and **Xia Qin Lai v PP** <span class="citation">[1999] 4 SLR 343</span> at [para ] 27. As stated in **_PP v Tan Fook Sum_** at [para ] 32: 
 
  ... it may be said that the weight to be given [to the fact that the respondent has no previous conviction] would be greater if there were positive evidence as to character rather than the negative inference from the absence of allegations of other convictions. Contrariwise ... being of good character is irrelevant as a mitigating factor but relevant as an aggravating factor in that the offence is so much greater because the offender should have known better. 
 

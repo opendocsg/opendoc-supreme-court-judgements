@@ -37,7 +37,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Carnal intercourse aga
 
 citing two cases. In _Melvani v Public Prosecutor_ [1969-1971] SLR 464, Chief Justice Wee Chong Jin (as he then was) said that “good character is always a circumstance which a court ought to consider in assessing sentence”. In _Siah Ooi Choe v Public Prosecutor_ [1988] SLR 402, L P Thean J (as he then was) had taken into account the background of the appellant’s character and his contribution to society and the country. 
 
-7       Mr Imran Hamid for the prosecution, relied on _Chan Mei Yoong Letticia v Public Prosecutor_ [2002] 2 SLR 465 to submit that good character should not have any effect on sentencing in the case before me. 
+7       Mr Imran Hamid for the prosecution, relied on _Chan Mei Yoong Letticia v Public Prosecutor_ <span class="citation">[2002] 2 SLR 465</span> to submit that good character should not have any effect on sentencing in the case before me. 
 
 8       However, I noted that in _Letticia’s_ case, the offence was one under the Immigration Act (Cap 133). That may be why the impressive testimonial of the good character of the accused there failed to mitigate the benchmark sentence. 
 
@@ -209,7 +209,7 @@ _Testimonial from Chow Yeng Har, a parent of Lim’s student (English translatio
 
 **Sentencing guides and submissions** 
 
-40     On the facts before me, the most helpful case on sentencing under s 377 of the Penal Code was that of _Adam bin Darsin v Public Prosecutor_ [2001] 2 SLR 412. There, the accused was also charged under s 377 for committing fellatio on his victims. He pleaded guilty to eight charges in respect of eight victims, with 15 other similar charges being taken into consideration for the purpose of sentencing. L P Thean JA (as he then was), delivering the judgment of the Court of Appeal, considered three forms of unnatural carnal intercourse under s 377 and was of the view that: 
+40     On the facts before me, the most helpful case on sentencing under s 377 of the Penal Code was that of _Adam bin Darsin v Public Prosecutor_ <span class="citation">[2001] 2 SLR 412</span>. There, the accused was also charged under s 377 for committing fellatio on his victims. He pleaded guilty to eight charges in respect of eight victims, with 15 other similar charges being taken into consideration for the purpose of sentencing. L P Thean JA (as he then was), delivering the judgment of the Court of Appeal, considered three forms of unnatural carnal intercourse under s 377 and was of the view that: 
 
  (a) where an accused committed anal intercourse on a victim, this activity was the most serious as it involved some degree of coercion and violence, 
 
@@ -246,15 +246,15 @@ Thean JA implied that where the accused coerced or cajoled a victim to perform f
 
 46     The ten charges which Lim pleaded guilty to was a mixture of the above acts, but excluding the one stated in para 45(b) above. 
 
-47     Mr Lee sought to distinguish the case of _Adam bin Darsin_ and relied on _Public Prosecutor v Raymond Pok_ [2003] SGHC 18, a decision by Justice Tay Yong Kwang where Tay J sentenced the accused to two years’ imprisonment for each charge under s 377 Penal Code involving fellatio by the victim on the accused there. Mr Lee sought to persuade me that I should use that sentence as a guide because in _Pok’s_ case, the acts were consensual as in the case before me whereas in _Adam’s_ case they were not consensual. 
+47     Mr Lee sought to distinguish the case of _Adam bin Darsin_ and relied on _Public Prosecutor v Raymond Pok_ <span class="citation">[2003] SGHC 18</span>, a decision by Justice Tay Yong Kwang where Tay J sentenced the accused to two years’ imprisonment for each charge under s 377 Penal Code involving fellatio by the victim on the accused there. Mr Lee sought to persuade me that I should use that sentence as a guide because in _Pok’s_ case, the acts were consensual as in the case before me whereas in _Adam’s_ case they were not consensual. 
 
 48     Having said that, Mr Lee conceded that a sentence of two years’ imprisonment would not be appropriate in view of the relationship of trust. He suggested three years’ imprisonment instead and, if three years was too low, he then suggested it should not exceed four years’ per charge under s 377. 
 
-49     For the offences under s 377A, Mr Lee submitted that I should be guided by a sentence of nine months which was the sentence eventually imposed in _Lee Kwang Peng v Public Prosecutor_ [1997] 3 SLR 278 for an outrage of modesty under s 354 Penal Code. Mr Lee submitted that the offences under s 377A were akin to offences under s 354 and the prosecution had proceeded under s 377A instead because consent under that provision was not a defence whereas under s 354, it was. 
+49     For the offences under s 377A, Mr Lee submitted that I should be guided by a sentence of nine months which was the sentence eventually imposed in _Lee Kwang Peng v Public Prosecutor_ <span class="citation">[1997] 3 SLR 278</span> for an outrage of modesty under s 354 Penal Code. Mr Lee submitted that the offences under s 377A were akin to offences under s 354 and the prosecution had proceeded under s 377A instead because consent under that provision was not a defence whereas under s 354, it was. 
 
 50     As regards the question of consecutive sentences, Mr Lee referred to what Thean JA had said in the case of _Adam bin Darsin_ : 
 
- 24 Lastly, in this case, having regard to the nature of the offences committed by the appellant, we were of the opinion that the total term of imprisonment of 40 years imposed by the court below, was a crushing sentence and not in proportion to the overall gravity of the criminal conduct of the appellant. On this point we echo the following observation of Yong Pung How CJ in Maideen Pillai v PP [1996] 1 SLR 161 at p 196: 
+ 24 Lastly, in this case, having regard to the nature of the offences committed by the appellant, we were of the opinion that the total term of imprisonment of 40 years imposed by the court below, was a crushing sentence and not in proportion to the overall gravity of the criminal conduct of the appellant. On this point we echo the following observation of Yong Pung How CJ in Maideen Pillai v PP <span class="citation">[1996] 1 SLR 161</span> at p 196: 
 
  [T]he sentencing court will bear in mind at all times the second limb of the totality principle, that is, the need to avoid an aggregate sentence so harsh as to be ‘crushing’ in its effect on the offender. Where consecutive sentences are imposed on an offender, the overall punishment 
 
@@ -282,7 +282,7 @@ Thean JA implied that where the accused coerced or cajoled a victim to perform f
  The sentence to be passed had to reflect public abhorrence of behaviour of this kind. Without the benefit of a plea of guilty, a sentence of four years’ imprisonment was appropriate. 
 
 
-57     I was of the view that although the facts in _Lim Hock Hin Kelvin v Public Prosecutor_ [1998] 1 SLR 801 were different from those before me, certain statements by Chief Justice Yong Pung How were also apposite. 
+57     I was of the view that although the facts in _Lim Hock Hin Kelvin v Public Prosecutor_ <span class="citation">[1998] 1 SLR 801</span> were different from those before me, certain statements by Chief Justice Yong Pung How were also apposite. 
 
 58     At paras 21, 25(1) and 34, Yong CJ said: 
 

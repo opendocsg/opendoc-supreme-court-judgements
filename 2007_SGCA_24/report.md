@@ -439,7 +439,7 @@ the GKO Notes, as a result of which the plaintiff only recovered US$5,918.06 fro
 
 **_Ground (2) – Authorisation does not mean absence of negligence_** 
 
-54     One of the reasons given by the Judge (see [2006] SGHC 164 at [57]) for striking out the appellants’ claim based on the lack of mandate was that: 
+54     One of the reasons given by the Judge (see <span class="citation">[2006] SGHC 164</span> at [57]) for striking out the appellants’ claim based on the lack of mandate was that: 
 
  If the transactions on the investment account were authorised, the allegation that the Bank was negligent in carrying out the trades cannot stand. Hence, the plea of negligence was struck out. 
 
@@ -468,9 +468,9 @@ Counsel has contended that the Judge erred in law in so holding as the conclusio
 
 60     The appellants’ contention in ground (5) is that SG should not have been allowed to apply to strike out the appellants’ claims with respect to the structured products so late in the day. In our view, the short answer to this argument is that the generality and vagueness of the appellants’ claims were such that SG had to make seven interlocutory applications between 31 January 2005 and 23 January 2006 for discovery and further and better particulars before they could decide whether the appellants had a _prima facie_ case against SG on the materials disclosed in these applications. 
 
-61     In our view, it was not too late for SG to make its striking out application on 1 March 2006: see _Tapematic SpA v Wirana Pte Ltd_ [2002] 4 SLR 953, at 961–962. 
+61     In our view, it was not too late for SG to make its striking out application on 1 March 2006: see _Tapematic SpA v Wirana Pte Ltd_ <span class="citation">[2002] 4 SLR 953</span>, at 961–962. 
 
-62     In ground (6), the appellants contended that SG has not satisfied the threshold requirements of O 18 r 19 of the Rules of Court (Cap 322, R 5 2006 Rev Ed) and that the re-amended statement of claim discloses a reasonable cause of action with respect to the structured products. As stated in the Singapore White Book, _Singapore Civil Procedure_ 2003 (G P Selvam gen ed) (Sweet & Maxwell Asia, 2003) at para 18/19/6, the claim must be obviously unsustainable and it must be impossible, not just improbable, for the claim to succeed, for striking out to be granted. Citing the decision in _Gabriel Peter & Partners v Wee Chong Jin_ [1998] 1 SLR 374, the note also states: 
+62     In ground (6), the appellants contended that SG has not satisfied the threshold requirements of O 18 r 19 of the Rules of Court (Cap 322, R 5 2006 Rev Ed) and that the re-amended statement of claim discloses a reasonable cause of action with respect to the structured products. As stated in the Singapore White Book, _Singapore Civil Procedure_ 2003 (G P Selvam gen ed) (Sweet & Maxwell Asia, 2003) at para 18/19/6, the claim must be obviously unsustainable and it must be impossible, not just improbable, for the claim to succeed, for striking out to be granted. Citing the decision in _Gabriel Peter & Partners v Wee Chong Jin_ <span class="citation">[1998] 1 SLR 374</span>, the note also states: 
 
  It cannot be exercised by a minute and protracted examination of the documents and facts of the case, in order to see whether the plaintiff really has a cause of action ... 
 
@@ -479,11 +479,11 @@ This note seems to support the appellants’ argument. However, the note goes on
 
  Where an application to strike out pleadings involves a prolonged and serious argument, the court should, as a rule decline to proceed with the argument unless it not only harbours doubts about the soundness of the pleading but, in addition, is satisfied that striking out would obviate the necessity for a trial or substantially reduce the burden of preparing for a trial, and therefore, where the court is satisfied, even after substantial argument both at first instance or on appeal, that the defence does not disclose a reasonable ground of defence, it will order it to be struck out. 
 
-63     In our view, the reasoning in this passage applies equally to the striking out of the appellants’ claim in the present action, having regard to the representations and warranties made by the appellants for the benefit of SG and also the fact that the appellants have not been able to show any loss arising from its investments in the structured products. An illustrative case is _Chok Boon Hock v Great Eastern Life Assurance Co Ltd_ [1999] 1 SLR 344, where the judge in dismissing the plaintiff’s statement of claim noted at [26] that: 
+63     In our view, the reasoning in this passage applies equally to the striking out of the appellants’ claim in the present action, having regard to the representations and warranties made by the appellants for the benefit of SG and also the fact that the appellants have not been able to show any loss arising from its investments in the structured products. An illustrative case is _Chok Boon Hock v Great Eastern Life Assurance Co Ltd_ <span class="citation">[1999] 1 SLR 344</span>, where the judge in dismissing the plaintiff’s statement of claim noted at [26] that: 
 
  In the light of the express terms of the agency agreement and the GSM agreement providing for variations to be made by the defendant to the commission structure, the plaintiff’s statement of claim plainly discloses no reasonable cause of action, is vexatious and is an abuse of process of the court 
 
-64     In the present case, we are of the view, to quote the words of Nathan J in _Connell v National Companies and Securities Commission_ 15 ACLR 75 at 79 (also quoted by Choo J in _Kim Hok Yung v Cooperatieve Centrale Raiffeisen-Boerenleenbank BA_ [2000] 4 SLR 508 at [18]), that: 
+64     In the present case, we are of the view, to quote the words of Nathan J in _Connell v National Companies and Securities Commission_ 15 ACLR 75 at 79 (also quoted by Choo J in _Kim Hok Yung v Cooperatieve Centrale Raiffeisen-Boerenleenbank BA_ <span class="citation">[2000] 4 SLR 508</span> at [18]), that: 
 
  The utterly forlorn nature of the [appellants’ claims in relation to the structured products] is apparent on the documents. Nothing could breathe life into [them] ... 
 

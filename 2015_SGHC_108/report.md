@@ -16,13 +16,13 @@
 
 _Damages_ – _Measure of damages_ – _Contract_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeal Nos 47 and 106 of 2015 was allowed in part by the Court of Appeal on 24 November 2015. See [2015] SGCA 65.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeal Nos 47 and 106 of 2015 was allowed in part by the Court of Appeal on 24 November 2015. See <span class="citation">[2015] SGCA 65</span>.] 
 
 28 April 2015 Judgment reserved. 
 
 **Choo Han Teck J:** 
 
-1       Enholco Pte Ltd (“the plaintiff”) is mainly in the business of the sale of spare parts and providing consultancy services in the oil and gas industry. Haank Jan Gerhard (“Gerhard”) is its managing director. Schonk Antonius Martinus Mattheus (“the first defendant”) was an employee of the plaintiff from 1 September 1989 till 24 August 2012. He incorporated International Oil and Gas Consultants (“the second defendant”) on 5 April 2012 and is its sole shareholder and director. Previously in _Enholco Pte Ltd v Schonk, Antonius Martinus Mattheus and Another_ [2015] SGHC 20, I had allowed the plaintiff’s claim and dismissed the defendants’ counterclaims. This judgment deals with the assessment of damages in light of judgment for the plaintiff. 
+1       Enholco Pte Ltd (“the plaintiff”) is mainly in the business of the sale of spare parts and providing consultancy services in the oil and gas industry. Haank Jan Gerhard (“Gerhard”) is its managing director. Schonk Antonius Martinus Mattheus (“the first defendant”) was an employee of the plaintiff from 1 September 1989 till 24 August 2012. He incorporated International Oil and Gas Consultants (“the second defendant”) on 5 April 2012 and is its sole shareholder and director. Previously in _Enholco Pte Ltd v Schonk, Antonius Martinus Mattheus and Another_ <span class="citation">[2015] SGHC 20</span>, I had allowed the plaintiff’s claim and dismissed the defendants’ counterclaims. This judgment deals with the assessment of damages in light of judgment for the plaintiff. 
 
 2       There are some differences between the quantum of damages and nature of relief claimed in the plaintiff’s statement of claim and most recently in the plaintiff’s submissions on damages. It is a fundamental principle of our adversarial system of litigation that each party should be bound by its pleaded case. The purpose behind this principle however, is to allow the other party to be put on notice and have the opportunity to respond to such claims sufficiently. As such, I assessed the damages to be awarded on the basis of the claims and nature of reliefs that have been adduced in evidence at trial and as set out in its statement of claim, but not what was only raised after the trial had concluded. 
 

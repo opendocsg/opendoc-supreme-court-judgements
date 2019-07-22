@@ -112,7 +112,7 @@ and that it was intended to refer to the plaintiff. [note: xv] This was not chal
 
 **The law on a submission of no case to answer** 
 
-15     It is settled law that a submission of no case to answer will succeed if the plaintiff’s evidence, taken at face value, does not establish a case in law, or if the evidence led by the plaintiff is so unsatisfactory or unreliable that it has not discharged its burden of proof: see _Bansal Hemant Govindprasad v Central Bank of India_ [2003] 2 SLR(R) 33 (“ _Bansal_ ”) and _Lena Leowardi v Yeap Cheen Soo_ [2015] 1 SLR 581 (“ _Lena Leowardi_ ”) at [23]. 
+15     It is settled law that a submission of no case to answer will succeed if the plaintiff’s evidence, taken at face value, does not establish a case in law, or if the evidence led by the plaintiff is so unsatisfactory or unreliable that it has not discharged its burden of proof: see _Bansal Hemant Govindprasad v Central Bank of India_ <span class="citation">[2003] 2 SLR(R) 33</span> (“ _Bansal_ ”) and _Lena Leowardi v Yeap Cheen Soo_ <span class="citation">[2015] 1 SLR 581</span> (“ _Lena Leowardi_ ”) at [23]. 
 
 16     Three implications flow from a submission of no case to answer ( _Lena Leowardi_ at [24]): 
 
@@ -156,7 +156,7 @@ there were underlying transactions from which the account stated was derived. [n
 
  (c) An account stated for valuable consideration is also a binding agreement between the parties in which there is an enforceable promise to pay. It is different from a real account stated in that (a) the debts are on one side only, and (b) the consideration is extrinsic, eg , consent to wait for payment or a reduction in the amount of the claim (unlike a real account stated where the consideration is in the discharge of the debts on both sides). As with a real account stated, the plaintiff has to prove the agreement but does not have to prove the underlying debts. The defendant is entitled to show that the agreement is not binding on him on any of the grounds upon which an agreement can be set aside at law. 
 
-See: _Gobind Lalwani v Basco Enterprise Pte Ltd_ [1998] 3 SLR(R) 1019 (“ _Basco_ ”) at [7] – [10]; _Siqueira v Noronha_ [1934] AC 332 at 337 – 338; _Harris and another v Charalambous_ [2013] EWHC 1317 at [15]; _Atkin’s Encyclopaedia of Court Forms in Civil Proceedings_ vol 12(2) (LexisNexis, 2nd Ed, 2013 Issue) (“ _Atkin’s Court Forms_ ”) at paras 70 – 71. 
+See: _Gobind Lalwani v Basco Enterprise Pte Ltd_ <span class="citation">[1998] 3 SLR(R) 1019</span> (“ _Basco_ ”) at [7] – [10]; _Siqueira v Noronha_ [1934] AC 332 at 337 – 338; _Harris and another v Charalambous_ [2013] EWHC 1317 at [15]; _Atkin’s Encyclopaedia of Court Forms in Civil Proceedings_ vol 12(2) (LexisNexis, 2nd Ed, 2013 Issue) (“ _Atkin’s Court Forms_ ”) at paras 70 – 71. 
 
 22     Insofar as the burden of proof is concerned, the general principle remains that the person who asserts the existence of certain facts has the burden of proving that those facts exist. Therefore, 
 
@@ -204,7 +204,7 @@ defendants. [note: xx] I found that although the pleadings could have been clear
 
 32     There was no evidence Saiful and Tran had actual authority to bind WE Bunker. The question then was whether Saiful or Tran or both of them had apparent authority to bind WE Bunker. 
 
-33     Apparent authority arises from representations made by the principal to a third party. Representations may be express or implied from acquiescence or inactivity: _Viknesh Dairy Farm Pte Ltd v Balakrishnan s/o P S Maniam and others_ [2015] SGHC 27 at [55]. The principal’s conduct as a whole must be considered in determining whether it made any representation to the third party: _Sigma Cable Co (Pte) Ltd v NEI Parsons Ltd_ [1992] 2 SLR(R) 403 at [29]. 
+33     Apparent authority arises from representations made by the principal to a third party. Representations may be express or implied from acquiescence or inactivity: _Viknesh Dairy Farm Pte Ltd v Balakrishnan s/o P S Maniam and others_ <span class="citation">[2015] SGHC 27</span> at [55]. The principal’s conduct as a whole must be considered in determining whether it made any representation to the third party: _Sigma Cable Co (Pte) Ltd v NEI Parsons Ltd_ <span class="citation">[1992] 2 SLR(R) 403</span> at [29]. 
 
 34     The defendants submitted that they could not have made any representation to Nguyen that could have given rise to any apparent authority on the part of Saiful and/or Tran. During cross
 
@@ -254,7 +254,7 @@ would have the legal capacity to represent the plaintiff in these proceedings. [
 
 42     In my view, the plaintiff also succeeded in its alternative claim for money had and received. 
 
-43     The underlying basis for a claim for money had and received is subsumed under the rubric of unjust enrichment: _Alwie Handoyo v Tjong Very Sumito and another and another appeal_ [2013] 4 SLR 308 (at [125]). As the Court of Appeal went on to observe, unjust enrichment is the event and restitution the response to that event (at [126]). So to say one has “an action for money had and received” means that one claims restitution of money paid on the ground that there has been unjust enrichment. One such instance of unjust enrichment is “total failure of consideration”. 
+43     The underlying basis for a claim for money had and received is subsumed under the rubric of unjust enrichment: _Alwie Handoyo v Tjong Very Sumito and another and another appeal_ <span class="citation">[2013] 4 SLR 308</span> (at [125]). As the Court of Appeal went on to observe, unjust enrichment is the event and restitution the response to that event (at [126]). So to say one has “an action for money had and received” means that one claims restitution of money paid on the ground that there has been unjust enrichment. One such instance of unjust enrichment is “total failure of consideration”. 
 
 44     As already discussed, the plaintiff has shown a _prima facie_ case that Saiful had apparent authority to bind WE Bunker when he signed the Agreement. The Agreement was therefore evidence of WE Bunker’s admission of the amounts received from the plaintiffs. Taken together with the plaintiff’s evidence that WE Bunker failed to fulfil its obligations in respect of the balance amount of US$1,690,874, the Agreement was _prima facie_ evidence of the plaintiff’s claim for money had and received. The defendants did not challenge whether the failure of consideration was total. 
 
@@ -264,7 +264,7 @@ from parties who were not the plaintiff) and having paid certain amounts to thir
 
 **Conclusion** 
 
-46     A submission of no case to answer is a high-risk strategy. As long as there is “some _prima facie_ evidence that supports the essential limbs of the plaintiff’s claim(s)”, the failure by the defendants to adduce evidence on their own behalf would be fatal: _Lim Swee Khiang and another v Borden Co (Pte) Ltd and others_ [2006] 4 SLR(R) 745 at [6]. In this case, the Agreement was strong evidence of the defendants’ liability to the plaintiff for the judgment sum once a _prima facie_ case was shown that Saiful was clothed with the authority to sign the Agreement and bind WE Bunker. The defendants had 
+46     A submission of no case to answer is a high-risk strategy. As long as there is “some _prima facie_ evidence that supports the essential limbs of the plaintiff’s claim(s)”, the failure by the defendants to adduce evidence on their own behalf would be fatal: _Lim Swee Khiang and another v Borden Co (Pte) Ltd and others_ <span class="citation">[2006] 4 SLR(R) 745</span> at [6]. In this case, the Agreement was strong evidence of the defendants’ liability to the plaintiff for the judgment sum once a _prima facie_ case was shown that Saiful was clothed with the authority to sign the Agreement and bind WE Bunker. The defendants had 
 
 
 to give evidence if they disputed Saiful’s authority. They did not. 
@@ -275,7 +275,7 @@ to give evidence if they disputed Saiful’s authority. They did not.
 
 48     On 1 February 2016, the defendants filed Summons 519 of 2016 for a stay of execution of the judgment. I heard the application on 11 February 2016 and ordered a stay of all execution proceedings on the condition that the defendants paid US$1 million into court within 21 days. The defendants have appealed against my decision granting a conditional stay. 
 
-49     It is trite that while a successful plaintiff should not be deprived of its fruits of litigation, the court should also see that the defendant’s appeal, if successful, is not rendered nugatory. To balance these competing interests, a stay will only be granted where special circumstances so require. This is usually the case where the appellant satisfies the court that if damages and costs are paid, there is no reasonable probability of getting them back in the event the appeal succeeds: _Lee Sian Hee (trading as Lee Sian Hee Pork Trader) v Oh Kheng Soon (trading as Ban Hon Trading Enterprises)_ [1991] 2 SLR(R) 869 at [5]. 
+49     It is trite that while a successful plaintiff should not be deprived of its fruits of litigation, the court should also see that the defendant’s appeal, if successful, is not rendered nugatory. To balance these competing interests, a stay will only be granted where special circumstances so require. This is usually the case where the appellant satisfies the court that if damages and costs are paid, there is no reasonable probability of getting them back in the event the appeal succeeds: _Lee Sian Hee (trading as Lee Sian Hee Pork Trader) v Oh Kheng Soon (trading as Ban Hon Trading Enterprises)_ <span class="citation">[1991] 2 SLR(R) 869</span> at [5]. 
 
 50     The defendants submitted that the judgment should be stayed pending appeal for the following reasons: 
 
@@ -283,9 +283,9 @@ to give evidence if they disputed Saiful’s authority. They did not.
 
  (b) Second, the plaintiff is a foreign company unregistered in Singapore. The defendants argued that they have limited information about the plaintiff and that the plaintiff appears to conduct its business “in a manner that is highly questionable and unreliable”. [note: xxxii] For these reasons, the defendants feared being unable to recover their money in the event of a successful appeal. 
 
-51     The defendants’ first ground leaned in favour of a stay. It has been held that granting a stay against a judgment creditor who is pursuing the winding-up of the judgment debtor ensures that the appeal is not rendered nugatory: _Cathay Theatres Pte Ltd v LKM Investment Holdings Pte Ltd_ [2000] 1 SLR(R) 15 at [15]. 
+51     The defendants’ first ground leaned in favour of a stay. It has been held that granting a stay against a judgment creditor who is pursuing the winding-up of the judgment debtor ensures that the appeal is not rendered nugatory: _Cathay Theatres Pte Ltd v LKM Investment Holdings Pte Ltd_ <span class="citation">[2000] 1 SLR(R) 15</span> at [15]. 
 
-52     However, in my view, the defendants’ second ground was insufficient to warrant a stay. That the judgment creditor is a foreign company, making it inconvenient or expensive to seek recovery outside jurisdiction, is not a special circumstance warranting a stay: _Strandore Invest A/S and others v Soh Kim Wat_ [2010] SGHC 174 at [13]; _Denis Matthew Harte v Tan Hun Hoe and Another_ [2001] SGHC 19 at [64]. The defendants alleged that the plaintiff’s conduct of its business lacked accountability due to the absence of proper record keeping. The defendants’ main contention was that the plaintiff has “displayed an astounding lack of accountability in the manner they conducted their business transactions through their absence of paper documentation of such transactions”. [note: xxxiii] In my view, whilst the plaintiff’s record keeping could have been better, the defendants’ 
+52     However, in my view, the defendants’ second ground was insufficient to warrant a stay. That the judgment creditor is a foreign company, making it inconvenient or expensive to seek recovery outside jurisdiction, is not a special circumstance warranting a stay: _Strandore Invest A/S and others v Soh Kim Wat_ <span class="citation">[2010] SGHC 174</span> at [13]; _Denis Matthew Harte v Tan Hun Hoe and Another_ <span class="citation">[2001] SGHC 19</span> at [64]. The defendants alleged that the plaintiff’s conduct of its business lacked accountability due to the absence of proper record keeping. The defendants’ main contention was that the plaintiff has “displayed an astounding lack of accountability in the manner they conducted their business transactions through their absence of paper documentation of such transactions”. [note: xxxiii] In my view, whilst the plaintiff’s record keeping could have been better, the defendants’ 
 
 description overstated the matter. In any event, I did not agree with the defendants’ submission that this meant that there was a risk that they would be unable to recover their money should the appeal 
 

@@ -28,7 +28,7 @@ _Contract_ – _Remedies_ – _Damages_
 
 **Introduction** 
 
-2       The background and facts surrounding these disputes have been set out in our earlier judgment dated 12 May 2016 for the first tranche of this trial (“Tranche 1”): see _BCBC Singapore Pte Ltd and another v PT Bayan Resources TBK and another_ [2016] 4 SLR 1; [2016] 5 LRC 186 (“the First Judgment”) at [1] – [85]. We will not repeat the same and will only refer to those facts insofar as it is necessary to do so to answer the issues raised in Tranche 2. Unless otherwise specified, we adopt the same abbreviations used in the First Judgment. 
+2       The background and facts surrounding these disputes have been set out in our earlier judgment dated 12 May 2016 for the first tranche of this trial (“Tranche 1”): see _BCBC Singapore Pte Ltd and another v PT Bayan Resources TBK and another_ <span class="citation">[2016] 4 SLR 1</span>; [2016] 5 LRC 186 (“the First Judgment”) at [1] – [85]. We will not repeat the same and will only refer to those facts insofar as it is necessary to do so to answer the issues raised in Tranche 2. Unless otherwise specified, we adopt the same abbreviations used in the First Judgment. 
 
 3       To recapitulate, in the First Judgment, we determined issues which fell into three categories, _viz_ , funding issues, coal supply issues and counterclaim issues (see the First Judgment at [86]). We held, _inter alia_ , as follows: 
 
@@ -924,7 +924,7 @@ minutes to be reissued for execution by both BCBCS and BR. [note: 121]
 
 _The Parties’ Arguments_ 
 
-108    The Plaintiffs submit that there is nothing in cl 3.8(b)(iii) of the JV Deed or in the 2010 CSAs which makes the Defendants’ obligation to supply coal conditional upon continued financing of KSC. [note: 122] They rely on _Lucky Realty Co Pte Ltd v HSBC Trustee (Singapore) Ltd_ [2016] 1 SLR 1069 
+108    The Plaintiffs submit that there is nothing in cl 3.8(b)(iii) of the JV Deed or in the 2010 CSAs which makes the Defendants’ obligation to supply coal conditional upon continued financing of KSC. [note: 122] They rely on _Lucky Realty Co Pte Ltd v HSBC Trustee (Singapore) Ltd_ <span class="citation">[2016] 1 SLR 1069</span> 
 
 (“ _Lucky Realty_ ”) as authority for the proposition that, in interpreting a contract, the text of the contract is the first port of call: see _Lucky Realty_ at [2] and [49]. The Plaintiffs thus submit that BR’s obligations in relation to coal supply were not affected by questions of funding. 
 
@@ -939,7 +939,7 @@ briquettes would be recorded as liabilities and/or credits in KSC’s books. [no
 
 111    The Defendants submit that the obligation under cl 3.9 of the 2010 CSAs was inextricably 
 
-linked to and dependent on KSC’s reciprocal obligation to pay for the coal supplied. [note: 125] In this regard, they rely on J W Carter, _Carter’s Breach of Contract_ (LexisNexis Butterworths, 2011) (“ _Carter’s Breach of Contract_ ”) at paras 1-08 to 1-17 and _Tan Jin Sin and another v Lim Quee Choo_ [2009] 2 SLR(R) 938 (“ _Tan Jin Sin_ ”). The Defendants also submit that a buyer’s obligation to pay and a seller’s obligation to deliver goods are concurrent conditions; in other words, each party’s obligation depends on the other’s readiness and willingness to perform their corresponding obligation. For this submission, the Defendants cite _Morton v Lamb_ (1797) 7 TR 125 (“ _Morton_ ”), _The Aktor_ [2008] All ER (Comm) 784 (“ _The Aktor_ ”) at [67], _Chitty_ at para 13-029 and _The Law of Contract in Singapore_ (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) (“ _The Law of Contract in Singapore_ ”) at para 16.028. The Defendants accordingly aver that Bara and FSP’s obligations to supply coal did not arise unless and until KSC stood ready and willing to perform its corresponding obligation to pay for coal. 
+linked to and dependent on KSC’s reciprocal obligation to pay for the coal supplied. [note: 125] In this regard, they rely on J W Carter, _Carter’s Breach of Contract_ (LexisNexis Butterworths, 2011) (“ _Carter’s Breach of Contract_ ”) at paras 1-08 to 1-17 and _Tan Jin Sin and another v Lim Quee Choo_ <span class="citation">[2009] 2 SLR(R) 938</span> (“ _Tan Jin Sin_ ”). The Defendants also submit that a buyer’s obligation to pay and a seller’s obligation to deliver goods are concurrent conditions; in other words, each party’s obligation depends on the other’s readiness and willingness to perform their corresponding obligation. For this submission, the Defendants cite _Morton v Lamb_ (1797) 7 TR 125 (“ _Morton_ ”), _The Aktor_ [2008] All ER (Comm) 784 (“ _The Aktor_ ”) at [67], _Chitty_ at para 13-029 and _The Law of Contract in Singapore_ (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) (“ _The Law of Contract in Singapore_ ”) at para 16.028. The Defendants accordingly aver that Bara and FSP’s obligations to supply coal did not arise unless and until KSC stood ready and willing to perform its corresponding obligation to pay for coal. 
 
 _Our Decision_ 
 
@@ -1396,13 +1396,13 @@ We address Issues 7(i) to (iii) in turn.
 
 **_Issue 7(i) – The Coal Supply Argument_** 
 
-181    The Plaintiffs argue that cl 3.8(b)(iii) of the JV Deed was a condition of the same. [note: 170] We agree. In _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and another appeal_ [2007] 4 SLR(R) 413 (“ _RDC Concrete_ ”), the CA stated the test for a condition at [97] as follows: 
+181    The Plaintiffs argue that cl 3.8(b)(iii) of the JV Deed was a condition of the same. [note: 170] We agree. In _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and another appeal_ <span class="citation">[2007] 4 SLR(R) 413</span> (“ _RDC Concrete_ ”), the CA stated the test for a condition at [97] as follows: 
 
  In the second situation (Situation 3(a)), the focus is on the nature of the term breached and, in particular, whether the intention of the parties to the contract was to designate that term as one that is so important that any breach, regardless of the actual consequences of such a breach, would entitle the innocent party to terminate the contract (this is, however, not to say that the consequences of breach are irrelevant inasmuch as the parties have, ex hypothesi , envisaged, in advance, and hypothetically, serious consequences that could ensue in the event of the breach of that particular term). In traditional legal terminology, such a term would be termed a “condition”. 
 
  [original emphasis omitted; emphasis added in italics] 
 
-Thus, a condition is a term which parties intended to designate as so important that any breach thereof, regardless of its actual consequences, would entitle the innocent party to terminate the contract. In _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ [2008] 1 SLR(R) 663 (“ _Man Financial_ ”), the CA elaborated on the inquiry into ascertaining whether a contractual term is a condition as follows: 
+Thus, a condition is a term which parties intended to designate as so important that any breach thereof, regardless of its actual consequences, would entitle the innocent party to terminate the contract. In _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ <span class="citation">[2008] 1 SLR(R) 663</span> (“ _Man Financial_ ”), the CA elaborated on the inquiry into ascertaining whether a contractual term is a condition as follows: 
 
  (a) First, the focus is on ascertaining the contracting parties’ intention by construing the contract, including the relevant term, in the light of the surrounding circumstances: see Man Financial at [161] and [174]. 
 
@@ -1787,7 +1787,7 @@ _- this is a joint venture -- we would continue to put the money in, we told the
 
 228    Thirdly, the Defendants submit that any lost profit being claimed by BCBCS would not be its own loss, but that of KSC. They invoke the principle against claims for reflective loss to contend that, as a mere shareholder, BCBCS cannot claim compensation for loss suffered by KSC. 
 
-229    On the reflective loss principle, we were only referred to a single case: _Townsing Henry George v Jenton Overseas Investment Pte Ltd (in liquidation)_ [2007] 2 SLR(R) 597 (“ _Townsing_ ”). There, the CA invited the parties to address it on whether the principle of reflective loss was applicable. Chan Sek Keong CJ (“Chan CJ”), delivering the judgment of the court, took the opportunity to review the case law on claims for reflective loss, noting that it had been accepted as good law in Singapore. Chan CJ also mentioned, at [75], the exception to the reflective loss principle identified by Waller LJ in _Giles v Rhind_ [2003] Ch 618 at [34] (“the _Giles v Rhind_ exception”). Ultimately, however, the CA declined to apply the reflective loss principle. This was on the basis that the issue had not been pleaded or canvassed at first instance; thus, Jenton had not had the opportunity to adduce evidence to establish, _inter alia_ , that the _Giles v Rhind_ exception applied: see _Townsing_ at [85] – [89]. 
+229    On the reflective loss principle, we were only referred to a single case: _Townsing Henry George v Jenton Overseas Investment Pte Ltd (in liquidation)_ <span class="citation">[2007] 2 SLR(R) 597</span> (“ _Townsing_ ”). There, the CA invited the parties to address it on whether the principle of reflective loss was applicable. Chan Sek Keong CJ (“Chan CJ”), delivering the judgment of the court, took the opportunity to review the case law on claims for reflective loss, noting that it had been accepted as good law in Singapore. Chan CJ also mentioned, at [75], the exception to the reflective loss principle identified by Waller LJ in _Giles v Rhind_ [2003] Ch 618 at [34] (“the _Giles v Rhind_ exception”). Ultimately, however, the CA declined to apply the reflective loss principle. This was on the basis that the issue had not been pleaded or canvassed at first instance; thus, Jenton had not had the opportunity to adduce evidence to establish, _inter alia_ , that the _Giles v Rhind_ exception applied: see _Townsing_ at [85] – [89]. 
 
 230    In this case, the Defendants conceded that they did not specifically plead the point on 
 

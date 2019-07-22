@@ -295,13 +295,13 @@ The act of delivering is therefore trafficking.
 
 **_Review of the second accused’s case_** 
 
-28     The charge against him was that he had in his possession the diamorphine for the purpose of trafficking. He admitted that the drugs were in his possession after he had collected them from the first accused. He also admitted that he suspected that the things he had collected were drugs, that he had the opportunity to examine them, but he did not do that. When he deliberately turned a blind eye and overrode his own suspicions, he cannot plead ignorance: see _Ubaka v PP_ [1995] 1 SLR 267. Further to that, under s 18(2) of the Act, as he was proved to have possession of the drugs, he was presumed to know their nature. 
+28     The charge against him was that he had in his possession the diamorphine for the purpose of trafficking. He admitted that the drugs were in his possession after he had collected them from the first accused. He also admitted that he suspected that the things he had collected were drugs, that he had the opportunity to examine them, but he did not do that. When he deliberately turned a blind eye and overrode his own suspicions, he cannot plead ignorance: see _Ubaka v PP_ <span class="citation">[1995] 1 SLR 267</span>. Further to that, under s 18(2) of the Act, as he was proved to have possession of the drugs, he was presumed to know their nature. 
 
 29     Under s 17 of the Act, a person proved to have in his possession more than 2g of diamorphine is presumed to have it in his possession for the purpose of trafficking. 
 
-30     The Prosecution in its closing submissions referred to _Sharom bin Ahmad v PP_ [2000] 3 SLR 565 and stated: 
+30     The Prosecution in its closing submissions referred to _Sharom bin Ahmad v PP_ <span class="citation">[2000] 3 SLR 565</span> and stated: 
 
- In Sharom v PP [2000] 3 SLR 565, the court held that s 18(2) and s 17 of the MDA cannot be used together, that is, if the Prosecution sought to invoke the presumption in s 17 to prove the mens rea of possession for the purpose of trafficking, they would then be prevented from relying on the presumption of possession found in s 18. 
+ In Sharom v PP <span class="citation">[2000] 3 SLR 565</span>, the court held that s 18(2) and s 17 of the MDA cannot be used together, that is, if the Prosecution sought to invoke the presumption in s 17 to prove the mens rea of possession for the purpose of trafficking, they would then be prevented from relying on the presumption of possession found in s 18. 
 
 That was a misreading of the case which actually held that the presumptions in ss 17 and 18(1)( _c_ ) cannot be applied together. 
 
@@ -390,7 +390,7 @@ accused. When he was in court, he changed that, and said that the third accused 
 
 46     The Prosecution conceded in its closing submissions that: 
 
- The primary evidence against the 3rd accused are the statements and oral testimony of the 2nd accused. In Chai Chien Wei Kelvin v PP [1999] 1 SLR 25, the Court of Appeal reiterated its approach towards the confession of a co-accused: 
+ The primary evidence against the 3rd accused are the statements and oral testimony of the 2nd accused. In Chai Chien Wei Kelvin v PP <span class="citation">[1999] 1 SLR 25</span>, the Court of Appeal reiterated its approach towards the confession of a co-accused: 
 
  The position now is that s 30 [of the Evidence Act, Cap 97] allows the conviction of an accused to be sustained solely on the basis of a confession by his co-accused, provided that the evidence emanating from that confession satisfied the court beyond reasonable doubt of the accused’s guilt. 
 

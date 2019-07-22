@@ -43,7 +43,7 @@ _Criminal Law_ – _General exceptions_ – _Mistake of fact_
 
 2       Chinpo was fined S$80,000 on the 1st charge (the “DPRK Regulations Charge”) and S$100, on the 2nd charge (the “MCRBA Charge”). The total fine of S$180,000 has been paid. Chinpo now appeals against its convictions and sentences under both these charges. 
 
-3       The grounds of decision of the District Judge (the “DJ”) are reported at _Public Prosecutor v Chinpo Shipping Company (Private) Limited_ [2016] SGDC 104 (the “GD”). 
+3       The grounds of decision of the District Judge (the “DJ”) are reported at _Public Prosecutor v Chinpo Shipping Company (Private) Limited_ <span class="citation">[2016] SGDC 104</span> (the “GD”). 
 
 **Undisputed Background** 
 
@@ -236,7 +236,7 @@ _United Nations Security Council_ (12 June 2009) (S/PV.6141) [note: 9] at pp 2, 
 
 48     With these considerations in mind, we turn to the nature of Reg 12(b) and whether it creates an offence of strict liability. 
 
-49     As the Court of Appeal observed in _Public Prosecutor v Koh Peng Kiat_ [2016] 1 SLR 753 [note: 10] at [52]–[55], strict liability is a protean concept that is problematic in its application. First, 
+49     As the Court of Appeal observed in _Public Prosecutor v Koh Peng Kiat_ <span class="citation">[2016] 1 SLR 753</span> [note: 10] at [52]–[55], strict liability is a protean concept that is problematic in its application. First, 
 
 different degrees of “strictness” might exist, in terms of the degree to which the Prosecution is spared from its burden of proving a mental element in respect of every physical element of the offence. Second, the physical and mental elements in an offence may overlap because some verbs may imply a state of mind in respect of a physical element of the offence. It may therefore be preferable to characterise the inquiry as one of whether the Prosecution bears the legal burden of proving a mental element on the part of the accused in respect of every physical element of the offence, rather than simply whether the offence is one of “strict liability”. 
 
@@ -305,9 +305,9 @@ _resolution 1874_ (7 February 2014) (S/2014/147) [note: 15] (the “ _2014 Panel
 
 62     On the other hand, Limb 12.2.1 **_qualifies_** the effect (which is described in Limb 12.2.2) of the transfer of assets/resources (as set out in Limb 12.1). The formulation, “may reasonably be used”, in Limb 12.2.1 appears to be unique to the DPRK. However, a helpful analogy may be drawn from the law of criminal negligence. An accused is negligent if “a reasonable man in the same circumstances would have been aware of the likelihood of damage or injury to others resulting from [his] conduct” ( _Ng Keng_ 
 
-_Yong v Public Prosecutor and another appeal_ [2004] 4 SLR(R) 89 [note: 16] at [88]). This is primarily objective standard: that of the reasonable person in the same circumstances as the accused. Where the accused has special knowledge or experience, he will be held to the standard not of the ordinary person on the street, but “the standard of the ordinary skilled man exercising and professing to have 
+_Yong v Public Prosecutor and another appeal_ <span class="citation">[2004] 4 SLR(R) 89</span> [note: 16] at [88]). This is primarily objective standard: that of the reasonable person in the same circumstances as the accused. Where the accused has special knowledge or experience, he will be held to the standard not of the ordinary person on the street, but “the standard of the ordinary skilled man exercising and professing to have 
 
-that special skill” ( _Lim Poh Eng v Public Prosecutor_ [1999] 1 SLR(R) 428 [note: 17] at [29]; David 
+that special skill” ( _Lim Poh Eng v Public Prosecutor_ <span class="citation">[1999] 1 SLR(R) 428</span> [note: 17] at [29]; David 
 
 Ormerod, _Smith and Hogan’s Criminal Law_ (Oxford University Press, 13th Ed, 2011) [note: 18] at para 6.1.2.1). Accordingly, Limb 12.2.1 imposes an _objective_ standard by which the effect of the transfer of assets/resources falls to be assessed. The focus of the inquiry is not whether the accused subjectively appreciated the effect of his act of making the transfer, but whether the assets/resources transferred appear **_reasonably_** able to be **_used_** to contribute to the NRPA of the DPRK. This calls for a _prospective_ inquiry which the court must undertake objectively – from the perspective of a reasonable person with the knowledge and in the circumstances of the accused – to assess whether such a person would have appreciated that the transfer (as set out in Limb 12.1) 
 
@@ -485,7 +485,7 @@ moneys for the purpose of transmitting them to persons resident in another count
 
 100    We agree with the submission of the Prosecution and Ms Tung that s 2(2)( _b_ ) of the MCRBA raises a rebuttable presumption of the carrying on of a remittance business by a person (the “Remitter”) who offers to transmit money on behalf of any person to another person outside Singapore. Such a presumption follows from the natural and ordinary meaning of s 2(2)( _b_ ) of the MCRBA, and we note that Chinpo did not in its written submissions or at the hearing before us advance any argument to the contrary. More importantly, the purpose for which a remittance of moneys is made ( _ie_ , whether it is for the purpose of a “business” of effecting remittances) is a matter that is purely within the knowledge of the Remitter, who is also best-placed to retrieve any documentary evidence relating to the transactions that he has undertaken. Placing the evidentiary burden on him to prove the purpose of the transaction is thus justified. The observations in _Sheagar_ 
 
-_s/o T M Veloo v Belfield International (Hong Kong) Ltd_ [2014] 3 SLR 524 [note: 38] (“ _Sheagar_ ”) at 
+_s/o T M Veloo v Belfield International (Hong Kong) Ltd_ <span class="citation">[2014] 3 SLR 524</span> [note: 38] (“ _Sheagar_ ”) at 
 
 [38]−[39] on the rationale for s 3 of the Moneylenders Act (Cap 188, 2010 Rev Ed) [note: 39] (“MLA”), which deems a person “who lends a sum of money in consideration of a larger sum being repaid” to be carrying on the business of moneylending, apply with equal force here: 
 
@@ -497,7 +497,7 @@ _s/o T M Veloo v Belfield International (Hong Kong) Ltd_ [2014] 3 SLR 524 [note:
 
  [emphasis added] 
 
-101    Just as the MLA prohibits the business of moneylending rather than the act of lending money ( _Sheagar_ at [30]; _Lena Leowardi v Yeap Cheen Soo_ [2015] 1 SLR 581 (“ _Lena Leowardi_ ”) at [27]), what the MCRBA prohibits is the _business_ of accepting moneys for transmission to persons outside Singapore rather than the mere _act_ to that effect. The legislative debates consistently show that the intent of Parliament is to regulate the remittance _industry_ , which comprises persons who offer remittances _as a service in its own right_ rather than simply _as an incident to their core business_. In other words, the focus of s 6 of the MCRBA is payor-Remitter relationships that have as their primary 
+101    Just as the MLA prohibits the business of moneylending rather than the act of lending money ( _Sheagar_ at [30]; _Lena Leowardi v Yeap Cheen Soo_ <span class="citation">[2015] 1 SLR 581</span> (“ _Lena Leowardi_ ”) at [27]), what the MCRBA prohibits is the _business_ of accepting moneys for transmission to persons outside Singapore rather than the mere _act_ to that effect. The legislative debates consistently show that the intent of Parliament is to regulate the remittance _industry_ , which comprises persons who offer remittances _as a service in its own right_ rather than simply _as an incident to their core business_. In other words, the focus of s 6 of the MCRBA is payor-Remitter relationships that have as their primary 
 
 
 purpose the making of remittances: 
@@ -508,7 +508,7 @@ purpose the making of remittances:
 
 102    At common law, the test for the carrying on of a business is that of the undertaking of the relevant transactions with “some degree of system and continuity” ( _Sheagar_ at [38] citing _Chow Yoong Hong v Choong Fah Rubber Manufactory_ [1962] AC 209 at 218 (see extract at [100] above)). Where the transactions are undertaken only incidentally to the provision of other services, the requisite degree of system and continuity to constitute a “business” would generally not be 
 
-established ( _Subramaniam Dhanapakiam v Ghaanthimathi_ [1991] 1 SLR(R) 164 [note: 40] at [10] citing _Litchfield v Dreyfus_ [1906] 1 KB 584 at 590). This is ultimately a question of fact. In _Subramanian_ , a housewife had on multiple occasions lent money to her neighbour, who paid interest on the loans on her own accord at rates decided by herself. Despite the frequency with which the loans had been made, Chan Sek Keong J (as he then was) held that the housewife had not been in the business of moneylending because she had simply lent the moneys as an incident of her relationship with the borrower as friends (at [11]): 
+established ( _Subramaniam Dhanapakiam v Ghaanthimathi_ <span class="citation">[1991] 1 SLR(R) 164</span> [note: 40] at [10] citing _Litchfield v Dreyfus_ [1906] 1 KB 584 at 590). This is ultimately a question of fact. In _Subramanian_ , a housewife had on multiple occasions lent money to her neighbour, who paid interest on the loans on her own accord at rates decided by herself. Despite the frequency with which the loans had been made, Chan Sek Keong J (as he then was) held that the housewife had not been in the business of moneylending because she had simply lent the moneys as an incident of her relationship with the borrower as friends (at [11]): 
 
  ... The loans were friendly loans between two long-time friends. Interest was not demanded but accepted when offered. The interest was not exorbitant and varied in accordance with the generosity of the defendant. The [housewife] did not lend to all and sundry. On these facts, there was no question of the [housewife] being a moneylender as defined in the [MLA]... 
 

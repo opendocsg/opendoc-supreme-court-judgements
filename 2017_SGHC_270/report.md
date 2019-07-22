@@ -47,7 +47,7 @@ _Employment law_ – _Pay_ – _Effect of In-Principle Approval_
 
 **Issues** 
 
-7       It was not disputed by the parties that an appeal to the High Court from the decision of the Commissioner is to be heard by way of rehearing and this court is not constrained to reviewing the decision below for jurisdictional or manifest error or unreasonableness: see O 55 r 2(1) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed); _Valentino Globe BV v Pacific Rim Industries Inc_ [2009] 4 SLR(R) 577 at [10]–[11]. In particular, the court is not bound by any finding of the Commissioner. Accordingly, there were three issues before me: 
+7       It was not disputed by the parties that an appeal to the High Court from the decision of the Commissioner is to be heard by way of rehearing and this court is not constrained to reviewing the decision below for jurisdictional or manifest error or unreasonableness: see O 55 r 2(1) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed); _Valentino Globe BV v Pacific Rim Industries Inc_ <span class="citation">[2009] 4 SLR(R) 577</span> at [10]–[11]. In particular, the court is not bound by any finding of the Commissioner. Accordingly, there were three issues before me: 
 
  (a) Whether the respondent paid the applicant the full salary that he was entitled to between 28 March 2015 and 29 February 2016. 
 
@@ -216,7 +216,7 @@ it is incumbent on employers like the respondent to keep written documentation, 
 
 51     Ms Eio asked for costs on the basis that the applicant had succeeded in his application. Mr Namazie submitted that since Ms Eio took up the case _pro bono_ , there should be no order as to costs. 
 
-52     I saw no reason in principle why the court should not award costs purely because the successful party is represented by counsel acting _pro bono_. Indeed, if costs were ordered on the ordinary basis, it would promote _pro bono_ work. This was also the case in _SATS Construction Pte Ltd v Islam Md Ohidul_ [2016] 3 SLR 1164, where Debbie Ong JC awarded costs to counsel acting _pro bono_ , as “ _pro bono_ and legal aid services are provided to enhance access to justice and it is fair for the providers of such services to be paid for the work they have done by virtue of costs orders” (at [17]). This was precisely the case here. I therefore ordered the respondent to pay costs to the applicant, which I fixed at $8,000 inclusive of disbursements. 
+52     I saw no reason in principle why the court should not award costs purely because the successful party is represented by counsel acting _pro bono_. Indeed, if costs were ordered on the ordinary basis, it would promote _pro bono_ work. This was also the case in _SATS Construction Pte Ltd v Islam Md Ohidul_ <span class="citation">[2016] 3 SLR 1164</span>, where Debbie Ong JC awarded costs to counsel acting _pro bono_ , as “ _pro bono_ and legal aid services are provided to enhance access to justice and it is fair for the providers of such services to be paid for the work they have done by virtue of costs orders” (at [17]). This was precisely the case here. I therefore ordered the respondent to pay costs to the applicant, which I fixed at $8,000 inclusive of disbursements. 
 
  Copyright © Government of Singapore. 
 

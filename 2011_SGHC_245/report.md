@@ -28,7 +28,7 @@ _Civil Procedure_ – _Taxation of Costs_
 
 **Background** 
 
-3       In 2004, Mok Kwong Yue (“the plaintiff”) sued Ding Leng Kong (“the defendant”) to recover sums of money which he alleged he had paid the defendant by reason of a mistake of law. The defendant resisted the claim on several grounds and also mounted a counterclaim. I heard the action and dismissed both the claim and the counterclaim with costs (see [2008] SGHC 65). 
+3       In 2004, Mok Kwong Yue (“the plaintiff”) sued Ding Leng Kong (“the defendant”) to recover sums of money which he alleged he had paid the defendant by reason of a mistake of law. The defendant resisted the claim on several grounds and also mounted a counterclaim. I heard the action and dismissed both the claim and the counterclaim with costs (see <span class="citation">[2008] SGHC 65</span>). 
 
 4       Judgment was delivered in May 2008. In November 2010, the plaintiff presented his bill of costs for the work done in respect of the counterclaim for taxation. Up to that time, the defendant had not presented his own bill of costs for the work done in resisting the claim. In fact, despite repeated assurances that the bill would be filed soon, counsel for the defendant, Mr Muthu Kumaran, did not file the defendant’s bill for taxation until 28 September 2011. Thus, the plaintiff’s bill had to be taxed in the absence of the defendant’s bill. 
 
@@ -148,7 +148,7 @@ they were not, I would adopt them because, as so many eminent judges have stated
 
 30     The bill presented on behalf of Mr Mok was for $80,000 in respect of getting up. The AR allowed only $7,000. The AR took the view that this amount represented the amount by which the getting up costs incurred in relation to the claim had been increased by the presence of the counterclaim. The question is whether she was correct in this assessment. I must therefore turn to a brief analysis of the main decision. 
 
-31     As I stated above, the plaintiff had claimed the return of money paid by mistake. The plaintiff’s case was that he had paid these sums because he thought he had a liability as guarantor for the debts of his companies. Woo J (see _Ding Leng Kong v Mok Kwong Yue & Others_ [2003] 4 SLR(R) 637) had, however, held that he was not a guarantor. Therefore, the plaintiff said, he had been operating under a mistake of law when he made the payments and the moneys should be returned by the defendant. There were three sums involved: $240,000, $519,000 and RM200,000. The plaintiff obtained summary judgment for the first of these amounts and therefore only the second and third amounts claimed were before me when the matters came on for trial. 
+31     As I stated above, the plaintiff had claimed the return of money paid by mistake. The plaintiff’s case was that he had paid these sums because he thought he had a liability as guarantor for the debts of his companies. Woo J (see _Ding Leng Kong v Mok Kwong Yue & Others_ <span class="citation">[2003] 4 SLR(R) 637</span>) had, however, held that he was not a guarantor. Therefore, the plaintiff said, he had been operating under a mistake of law when he made the payments and the moneys should be returned by the defendant. There were three sums involved: $240,000, $519,000 and RM200,000. The plaintiff obtained summary judgment for the first of these amounts and therefore only the second and third amounts claimed were before me when the matters came on for trial. 
 
 32     The defendant raised the following defences: 
 

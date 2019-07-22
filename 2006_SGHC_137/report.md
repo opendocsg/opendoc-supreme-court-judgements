@@ -85,13 +85,13 @@ _Civil Procedure_ – _Interrogatories_ – _Application for leave_ – _Whether
 
 **The submissions** 
 
-21     Before me, the parties relied on two common authorities but for opposing arguments. One authority that counsel cited was _Woh Hup (Pte) Ltd v Lian Teck Construction Pte Ltd_ [2005] SGCA 26 ( _Woh Hup_ ’s case) which was an appeal against my decision (see _Lian Teck Construction Pte Ltd v Woh Hup (Private) Ltd_ [2005] 1 SLR 266) in granting an application for pre-action discovery. 
+21     Before me, the parties relied on two common authorities but for opposing arguments. One authority that counsel cited was _Woh Hup (Pte) Ltd v Lian Teck Construction Pte Ltd_ <span class="citation">[2005] SGCA 26</span> ( _Woh Hup_ ’s case) which was an appeal against my decision (see _Lian Teck Construction Pte Ltd v Woh Hup (Private) Ltd_ <span class="citation">[2005] 1 SLR 266</span>) in granting an application for pre-action discovery. 
 
 22     In _Lian Teck Construction Pte Ltd v Woh Hup (Private) Ltd_ , the defendants had resisted the plaintiff’s application for pre-action discovery (under O 24 r 6(1) of the Rules) on the ground that the parties were bound by an arbitration clause in the letter of award dated 27 July 2002 issued by the defendants to the plaintiff. The defendants’ appeal in _Woh Hup_ ’s case against my decision was dismissed. 
 
-23     In the second common authority cited by counsel, _viz Foo Ko Hing v Foo Chee Heng_ [2002] 2 SLR 361, Tay Yong Kwang J allowed a registrar’s appeal and reversed the order of an assistant registrar in dismissing an application for pre-action interrogatories. 
+23     In the second common authority cited by counsel, _viz Foo Ko Hing v Foo Chee Heng_ <span class="citation">[2002] 2 SLR 361</span>, Tay Yong Kwang J allowed a registrar’s appeal and reversed the order of an assistant registrar in dismissing an application for pre-action interrogatories. 
 
-24     Counsel for the defendant also referred to _Bayerische Hypound Vereinsbank AG v Asia Pacific Breweries (Singapore) Pte Ltd_ [2004] 4 SLR 39 where the defendant succeeded in having the plaintiff’s application for pre-action discovery dismissed by Belinda Ang Saw Ean J. 
+24     Counsel for the defendant also referred to _Bayerische Hypound Vereinsbank AG v Asia Pacific Breweries (Singapore) Pte Ltd_ <span class="citation">[2004] 4 SLR 39</span> where the defendant succeeded in having the plaintiff’s application for pre-action discovery dismissed by Belinda Ang Saw Ean J. 
 
 25     Whilst other cases on similar applications are always useful as guidelines, it should also be borne in mind that the facts in a case may not be identical or similar to the facts in another case so as to warrant a blanket application of the ruling made in the latter to the former. 
 

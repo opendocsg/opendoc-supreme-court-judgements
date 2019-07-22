@@ -18,7 +18,7 @@ _COMPANIES_
 
 _EVIDENCE_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 38.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 38</span>.] 
 
 1 December 2010 Judgment reserved. 
 
@@ -26,7 +26,7 @@ _EVIDENCE_
 
 **Introduction** 
 
-1       These two appeals, Civil Appeal No 24 of 2010 (“CA 24”) and Civil Appeal No 27 of 2010 (“CA 27”), are brought by Chin Siew Seng (“Chin”) against the decision of the trial judge in _Seaspan Agencies Pte Ltd v Chin Siew Seng (Ho Syn Ngan Joanne and another, third parties) and another suit_ [2010] SGHC 38 (“the Judgment”). CA 27 arises out of Suit No 373 of 2008 (“S 373”), in which the trial judge found Chin liable for breach of his director’s duties that were owed to the first respondent in CA 27, Seaspan Agencies Pte Ltd (“Seaspan Agencies”). CA 24 is an appeal against the dismissal of Chin’s claim in Suit 859 of 2008 (“S 859”) against the respondent in CA 24, Quah Hun Kok Francis (“Quah”), for a reasonable price to be assessed for the shares in Seaspan Agencies which Chin had transferred to Quah. 
+1       These two appeals, Civil Appeal No 24 of 2010 (“CA 24”) and Civil Appeal No 27 of 2010 (“CA 27”), are brought by Chin Siew Seng (“Chin”) against the decision of the trial judge in _Seaspan Agencies Pte Ltd v Chin Siew Seng (Ho Syn Ngan Joanne and another, third parties) and another suit_ <span class="citation">[2010] SGHC 38</span> (“the Judgment”). CA 27 arises out of Suit No 373 of 2008 (“S 373”), in which the trial judge found Chin liable for breach of his director’s duties that were owed to the first respondent in CA 27, Seaspan Agencies Pte Ltd (“Seaspan Agencies”). CA 24 is an appeal against the dismissal of Chin’s claim in Suit 859 of 2008 (“S 859”) against the respondent in CA 24, Quah Hun Kok Francis (“Quah”), for a reasonable price to be assessed for the shares in Seaspan Agencies which Chin had transferred to Quah. 
 
 **The facts** 
 
@@ -138,7 +138,7 @@ Singapore bank account. [note: 14] The trial judge found that although it was no
 24     In our view, the trial judge placed far too much emphasis and reliance on her impressions about 
 
 
-the credibility of the witnesses. We recently pointed out in _Ng Chee Chuan v Ng Ai Tee (administratrix of the estate of Yap Yoon Moi, deceased)_ [2009] 2 SLR(R) 918 that a court should be slow to place too much reliance on the perceived credibility of witnesses when there are undisputed facts and/or objective evidence from which the court can draw the appropriate inferences (at [16]): 
+the credibility of the witnesses. We recently pointed out in _Ng Chee Chuan v Ng Ai Tee (administratrix of the estate of Yap Yoon Moi, deceased)_ <span class="citation">[2009] 2 SLR(R) 918</span> that a court should be slow to place too much reliance on the perceived credibility of witnesses when there are undisputed facts and/or objective evidence from which the court can draw the appropriate inferences (at [16]): 
 
  While it is no doubt necessary to ascertain the credibility of witnesses in most cases where the oral evidence of the parties conflict, it is not always appropriate to rely primarily on credibility (determined on the basis of inconsistent testimony) as a basis for drawing factual inferences, especially where the events in question have taken place many years ago and there are undisputed objective facts. Imperfect memories and uncertain recollections should not necessarily be treated as impinging on the credibility of a witness. These are but afflictions which the passage of time will, in varying degrees, bring to bear on all individuals. 
 

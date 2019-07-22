@@ -36,7 +36,7 @@
 
 7\. The accused revealed in the statements that he had done that because he was in need of money. He was not working, and used to earn RM400-500 a month from a prawn farm in Negri Sembilan of which he was a part owner. Heavy rains last year damaged the dam which supplied water to the pond. The prawns died and the farm suffered losses. To compound his problems, his wife was ill for eight months preceding the incident and her medical expenses were about $300-400 a month. 
 
-8\. The prosecution submitted that on the basis of the undisputed facts and the decisions in _Ko Mun Cheung & Anor v PP_ [1992] 2 SLR 87 and _Ng Kwok Chun & Anor v PP_ [1993] 1 SLR 55 that "import" in s 7 bears the same meaning it does in s 2 of the Interpretation Act, which is to bring or cause to be brought into Singapore by land, sea or air, the two offences of importing cannabis and cannabis mixture were established. 
+8\. The prosecution submitted that on the basis of the undisputed facts and the decisions in _Ko Mun Cheung & Anor v PP_ <span class="citation">[1992] 2 SLR 87</span> and _Ng Kwok Chun & Anor v PP_ <span class="citation">[1993] 1 SLR 55</span> that "import" in s 7 bears the same meaning it does in s 2 of the Interpretation Act, which is to bring or cause to be brought into Singapore by land, sea or air, the two offences of importing cannabis and cannabis mixture were established. 
 
 
 9\. In the circumstances, I found the accused guilty on the charges he faced and imposed the mandatory death sentence on him. 

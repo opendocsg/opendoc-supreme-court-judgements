@@ -98,7 +98,7 @@ _Civil Procedure_ – _Pleadings_ – _Striking out_ – _Striking out_ – _App
 
  (a) Freeman & Lockyer v Buckhurst Park Properties [1964] 2 QB 480 
 
- (b) Tribune Investment Trust v Soosan Trading [2000] 3 SLR 405, which approved The Ocean Frost, Armagas Ltd v Mundogas SA [1986] 1 AC 717. 
+ (b) Tribune Investment Trust v Soosan Trading <span class="citation">[2000] 3 SLR 405</span>, which approved The Ocean Frost, Armagas Ltd v Mundogas SA [1986] 1 AC 717. 
 
 
 27\. The act of applying for letters of credit could not be considered as a representation by Wirana that Umar Zen was its agent to make representations about Wirana’s authorised signatory. Also, the letters of credit themselves did not mention Umar Zen. 
@@ -157,7 +157,7 @@ submitted that when Wirana’s application was filed, the affidavits of evidence
 
 43\. Mr Kumar pointed out that the cases relied on by Mr Toh were after full trial. 
 
-44\. He also relied on certain parts of the judgment of Tay Yong Kwang JC in _HSBC v Jurong Engineering_ [2000] 2 SLR 54. 
+44\. He also relied on certain parts of the judgment of Tay Yong Kwang JC in _HSBC v Jurong Engineering_ <span class="citation">[2000] 2 SLR 54</span>. 
 
 45\. In paragraph 63 thereof, Tay JC said: 
 

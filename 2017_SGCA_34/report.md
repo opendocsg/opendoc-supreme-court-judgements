@@ -16,7 +16,7 @@
 
 _Family Law_ – _Matrimonial Assets_ – _Division_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2016] 3 SLR 1172.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2016] 3 SLR 1172</span>.] 
 
 27 April 2017 Judgment reserved. 
 
@@ -99,7 +99,7 @@ We will deal with these issues in turn.
 
 **Operative date of valuation of assets** 
 
-16     The Judge found that it was just and equitable to use the IJ date as the cut-off date both for determining the asset pool and for valuing the matrimonial assets, citing this Court’s guidance in _ARY v ARX and another appeal_ [2016] 2 SLR 686 (“ _ARY v ARX_ ”) at [31] and [34]. Her decision to do so was based on her finding (at [10] of the Judgment) that “[t]he parties had mostly adopted this operative date in submitting their respective values of the assets”, and that this was the date “when the parties’ relationship and their intention to jointly accumulate matrimonial assets had practically ended”. 
+16     The Judge found that it was just and equitable to use the IJ date as the cut-off date both for determining the asset pool and for valuing the matrimonial assets, citing this Court’s guidance in _ARY v ARX and another appeal_ <span class="citation">[2016] 2 SLR 686</span> (“ _ARY v ARX_ ”) at [31] and [34]. Her decision to do so was based on her finding (at [10] of the Judgment) that “[t]he parties had mostly adopted this operative date in submitting their respective values of the assets”, and that this was the date “when the parties’ relationship and their intention to jointly accumulate matrimonial assets had practically ended”. 
 
 **_Parties’ cases on appeal_** 
 
@@ -109,7 +109,7 @@ We will deal with these issues in turn.
 
 **_Our decision_** 
 
-19     In _Yeo Chong Lin v Tay Ang Choo Nancy and another appeal_ [2011] 2 SLR 1157 (“ _Yeo Chong Lin_ ”) at [39], we held that “[o]nce an asset is regarded as a matrimonial asset to be divided, then for the purposes of determining its value, it must be assessed as at the date of the hearing” ( _ie_ , the AM date). In the recent case of _TDT v TDS and another appeal and another matter_ [2016] 4 SLR 145 (“ _TDT v TDS_ ”), whilst observing that the holding in _Yeo Chong Lin_ was not in fact a “hard and fast rule”, we limited the discretion to depart from the AM date as the date of valuation to situations where such departure is “warranted by the facts” (at [50]). 
+19     In _Yeo Chong Lin v Tay Ang Choo Nancy and another appeal_ <span class="citation">[2011] 2 SLR 1157</span> (“ _Yeo Chong Lin_ ”) at [39], we held that “[o]nce an asset is regarded as a matrimonial asset to be divided, then for the purposes of determining its value, it must be assessed as at the date of the hearing” ( _ie_ , the AM date). In the recent case of _TDT v TDS and another appeal and another matter_ <span class="citation">[2016] 4 SLR 145</span> (“ _TDT v TDS_ ”), whilst observing that the holding in _Yeo Chong Lin_ was not in fact a “hard and fast rule”, we limited the discretion to depart from the AM date as the date of valuation to situations where such departure is “warranted by the facts” (at [50]). 
 
 20     We appreciate that _TDT v TDS_ was released after the Judgment and the Judge was not able to take our comments therein into account. Nevertheless, on the facts, we are of the view that the Judge was under the misapprehension that the parties had adopted the IJ date at the operative date of valuation, such that she ascribed values based on the IJ date. 
 
@@ -149,7 +149,7 @@ _The Bayshore property_
 
 31     The question that this case brings to the fore is whether an asset acquired before marriage that is “ordinarily used or enjoyed” during the marriage for one of the domestic purposes listed at the end of s 112(10) but for only a short while, will still be considered a “matrimonial asset” when the marriage ends many years later. Different approaches to this issue have been taken. 
 
-3       2 _BGT v BGU_ [2013] SGHC 50 (“ _BGT v BGU_ ”) was a case where, shortly before the marriage in 1995, the husband bought an apartment unit in his sole name. After the marriage, the parties lived in this apartment until 2001 when they bought a house in their joint names which then became their matrimonial home. The husband, who had all along borne the financial burden of the apartment alone, 
+3       2 _BGT v BGU_ <span class="citation">[2013] SGHC 50</span> (“ _BGT v BGU_ ”) was a case where, shortly before the marriage in 1995, the husband bought an apartment unit in his sole name. After the marriage, the parties lived in this apartment until 2001 when they bought a house in their joint names which then became their matrimonial home. The husband, who had all along borne the financial burden of the apartment alone, 
 
 
 sold the apartment in 2009 a month or so before the wife filed for divorce. The parties disputed whether or not the apartment and, thus, the proceeds of its sale, constituted a matrimonial asset. The judge held that it was not, reasoning (at [28]) that if an asset would only constitute a matrimonial asset when its ordinary use is for the use or enjoyment of the parties or their children, then if such use ceases during the period when the parties are residing together for a reason that has nothing to do with the end of the marriage, that asset would cease to be a matrimonial asset. The court did, however, hold that the sums of money that the husband had expended during the marriage on paying off the mortgage over the apartment constituted matrimonial assets (at [29]). 
@@ -246,7 +246,7 @@ wife alleged that the husband allowed the planning permission obtained on 30 Jul
 
 Our decision 
 
-50     We will first address the wife’s attempt to adduce evidence in the form of E1, E2, and E (referred to above at [46]). We note at the outset that the wife did not seek the leave of the court to adduce further evidence as is required under O 57 r 13(2) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed). We have explained in _Toh Eng Lan v Foong Fook Yue and another appeal_ [1998] 3 SLR(R) 833 (“ _Toh Eng Lan_ ”) at [33]–[35] that it is plainly wrong to seek to adduce further evidence without first asking for the leave of the court to do so. 
+50     We will first address the wife’s attempt to adduce evidence in the form of E1, E2, and E (referred to above at [46]). We note at the outset that the wife did not seek the leave of the court to adduce further evidence as is required under O 57 r 13(2) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed). We have explained in _Toh Eng Lan v Foong Fook Yue and another appeal_ <span class="citation">[1998] 3 SLR(R) 833</span> (“ _Toh Eng Lan_ ”) at [33]–[35] that it is plainly wrong to seek to adduce further evidence without first asking for the leave of the court to do so. 
 
 51     In this case, even if the wife had adopted the proper procedure for adducing further evidence, we would have been disinclined to allow its admission. 
 
@@ -532,7 +532,7 @@ _Taxes_
 
 87     The wife’s main argument on appeal was that she ought to have been given a higher share of the assets of both Groups. She argued that her direct contributions to the Group A assets ought to have been valued at 20% such that she would have been awarded 42.5% of the overall share of Group A assets. This was because the Judge had, incorrectly, failed to accord weight to the wife’s efforts to manage the matrimonial assets but had merely focused on the fact that the wife’s income of $797,317 was used to invest in other properties. In the alternative, even if the Judge did factor in these efforts in managing the matrimonial assets, the wife submitted that the Judge undervalued those efforts by finding that the husband was the main driving force behind the couple’s investments. The wife also argued that the Judge erred in finding that the wife’s direct contribution to Group B was only five percent. She contended that any reduction of the overall ratio should have been to 30% instead of to 20%. 
 
-88     In _Koh Bee Choo v Choo Chai Huah_ [2007] SGCA 21, we noted at [46] that “the division of matrimonial assets involves the sound application of judicial discretion by the judge of first instance rather than any rigid mathematical formulae”. Therefore, an appellate court should not interfere in the orders made by the court below unless it had committed an error of law or principle or failed to appreciate crucial facts. Having reviewed the parties’ arguments, we do not think appellate intervention is warranted in relation to the Judge’s determination of a just and equitable division of the assets in Groups A and B. 
+88     In _Koh Bee Choo v Choo Chai Huah_ <span class="citation">[2007] SGCA 21</span>, we noted at [46] that “the division of matrimonial assets involves the sound application of judicial discretion by the judge of first instance rather than any rigid mathematical formulae”. Therefore, an appellate court should not interfere in the orders made by the court below unless it had committed an error of law or principle or failed to appreciate crucial facts. Having reviewed the parties’ arguments, we do not think appellate intervention is warranted in relation to the Judge’s determination of a just and equitable division of the assets in Groups A and B. 
 
 **_Indirect contributions_** 
 
@@ -564,7 +564,7 @@ It is plain from the Judgment that both the wife’s income and her efforts in m
 
 95     In our judgment, and contrary to the husband’s submissions, these efforts go beyond those of a mere titular director and would not have been adequately captured by the wife’s income of $797,317 from 2007 to 2014. In the round, we are of the view that the uplift to 15% that the Judge accorded to the wife in Group A was reasonable and in line with the broad-brush approach. The uplift is also justified in the light of the fact that the Judge did not order any maintenance for the wife. 
 
-96     As for Group B, the Judge’s decision to apportion an average ratio of 80:20 in the husband’s favour is unimpeachable. We agree with the Judge’s application of our comments in _ANJ v ANK_ [2015] 4 SLR 1043 at [27(b)] that if an extraordinarily large pool of assets was acquired by one party’s exceptional efforts, direct contributions are likely to command greater weight as against indirect contributions. We are of the view that this is the situation in relation to the Group B assets as the assets therein were the product of the husband’s efforts and financial contribution; the wife’s direct contributions were negligible. 
+96     As for Group B, the Judge’s decision to apportion an average ratio of 80:20 in the husband’s favour is unimpeachable. We agree with the Judge’s application of our comments in _ANJ v ANK_ <span class="citation">[2015] 4 SLR 1043</span> at [27(b)] that if an extraordinarily large pool of assets was acquired by one party’s exceptional efforts, direct contributions are likely to command greater weight as against indirect contributions. We are of the view that this is the situation in relation to the Group B assets as the assets therein were the product of the husband’s efforts and financial contribution; the wife’s direct contributions were negligible. 
 
 97     Both parties’ appeals are therefore unsuccessful in relation to direct contributions. 
 

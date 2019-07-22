@@ -94,7 +94,7 @@ _Contract_ – _frustration_ – _leases_
 
 **Whether the Option was frustrated** 
 
-8       Before me, the defendant argued that the Option was frustrated the compulsory acquisition. To support its position, the defendant cited the decision of the Court of Appeal in _Lim Kim Som v Sheriffa Taibah bte Abdul Rahman_ [1994] 1 SLR(R) 233 (“ _Lim Kim Som_ ”). 
+8       Before me, the defendant argued that the Option was frustrated the compulsory acquisition. To support its position, the defendant cited the decision of the Court of Appeal in _Lim Kim Som v Sheriffa Taibah bte Abdul Rahman_ <span class="citation">[1994] 1 SLR(R) 233</span> (“ _Lim Kim Som_ ”). 
 
 9       In my view, _Lim Kim Som_ can be distinguished from the present case on its facts because the option in that case did not contain a provision similar to cl 22 in the present case. The Option had contemplated the situation where the property was compulsorily acquired and therefore cannot be frustrated by such occurrence. Furthermore, on a plain reading of cl 22, it is clear that only the 
 

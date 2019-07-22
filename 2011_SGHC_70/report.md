@@ -20,7 +20,7 @@ _Criminal Law_
 
 **Choo Han Teck J:** 
 
-1       In cases such as this, as with most if not all serious criminal offences, the conduct in question cannot be condoned. The only factor that prevents a long deterrent sentence on the accused is that in this case, as in _PP v Sarle Steepan s/o Kolundu_ [2009] 4 SLR(R) 1143 and _PP v AFR_ [2010] SGHC 230, the act was not pre-meditated and arose from a total failure to control one’s anger. 
+1       In cases such as this, as with most if not all serious criminal offences, the conduct in question cannot be condoned. The only factor that prevents a long deterrent sentence on the accused is that in this case, as in _PP v Sarle Steepan s/o Kolundu_ <span class="citation">[2009] 4 SLR(R) 1143</span> and _PP v AFR_ <span class="citation">[2010] SGHC 230</span>, the act was not pre-meditated and arose from a total failure to control one’s anger. 
 
 2       Nonetheless, the seriousness of the case, and the grief and pain that had been caused to the deceased and his family are major factors in the determination of a fair and appropriate sentence: neither excessively harsh, nor lacking the retributive features in the punishment of serious crimes. 
 

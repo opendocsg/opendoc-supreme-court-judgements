@@ -24,7 +24,7 @@ _Election of Remedies_
 
 **Introduction** 
 
-1       The present matter involves an application by the plaintiffs in _ABB Holdings Pte Ltd and others v. Sher Hock Guan Charles_ [2009] 4 SLR(R) 111 (‘ _ABB Holdings_ ’) for leave to amend its Statement of Claim (Amendment No. 3). Judgment has been granted in _ABB Holdings_ for the second and third plaintiffs to elect between damages to be assessed _or_ an account of the defendant’s profits to be taken. The plaintiffs now seek, by way of an amendment to the statement of claim, to obtain remedies in general damages _and_ restitutionary damages. 
+1       The present matter involves an application by the plaintiffs in _ABB Holdings Pte Ltd and others v. Sher Hock Guan Charles_ <span class="citation">[2009] 4 SLR(R) 111</span> (‘ _ABB Holdings_ ’) for leave to amend its Statement of Claim (Amendment No. 3). Judgment has been granted in _ABB Holdings_ for the second and third plaintiffs to elect between damages to be assessed _or_ an account of the defendant’s profits to be taken. The plaintiffs now seek, by way of an amendment to the statement of claim, to obtain remedies in general damages _and_ restitutionary damages. 
 
 **Factual Background** 
 
@@ -58,7 +58,7 @@ _Election of Remedies_
 **The Issue** 
 
 
-7       I grant leave to amend paragraph 14(d) and (e). The plaintiff has the burden of adducing sufficient evidence for paragraph 14(d) to justify its claim before the assessing registrar. Paragraph 14(e) may require some authority to justify, such as the decision of _John While Springs (S) Pte Ltd and another v. Goh Sai Chuah Justin and Others_ [2004] SGHC 150, but that is a matter to be decided by the assessing registrar. 
+7       I grant leave to amend paragraph 14(d) and (e). The plaintiff has the burden of adducing sufficient evidence for paragraph 14(d) to justify its claim before the assessing registrar. Paragraph 14(e) may require some authority to justify, such as the decision of _John While Springs (S) Pte Ltd and another v. Goh Sai Chuah Justin and Others_ <span class="citation">[2004] SGHC 150</span>, but that is a matter to be decided by the assessing registrar. 
 
 8       The only issue that remains is whether the plaintiffs can amend its statement of claim to seek for restitutionary damages in addition to general damages for the losses it suffered. 
 
@@ -66,26 +66,26 @@ _Election of Remedies_
 
 **_General principles governing the grant of leave for amendment of pleadings_** 
 
-9       The principles that guide the Court in deciding whether to grant leave for amendment of pleadings have been clarified by the Court of Appeal in _Review Publishing Co Ltd v Lee Hsien Loong_ [2010] 1 SLR 52 (‘ _Review Publishing_ ’). The guiding principle is that the amendment should be allowed if it would enable the real question between the parties to be determined. However, it must be just for leave to be granted, having regard to all circumstances of the case and bearing in mind two key factors; whether the amendment would result in prejudice irremediable with costs, and whether the amendment is essentially a ‘second bite at the cherry’. It is apposite to visit the statements of principle laid down in _Review Publishing_ (at [110]-[114]): 
+9       The principles that guide the Court in deciding whether to grant leave for amendment of pleadings have been clarified by the Court of Appeal in _Review Publishing Co Ltd v Lee Hsien Loong_ <span class="citation">[2010] 1 SLR 52</span> (‘ _Review Publishing_ ’). The guiding principle is that the amendment should be allowed if it would enable the real question between the parties to be determined. However, it must be just for leave to be granted, having regard to all circumstances of the case and bearing in mind two key factors; whether the amendment would result in prejudice irremediable with costs, and whether the amendment is essentially a ‘second bite at the cherry’. It is apposite to visit the statements of principle laid down in _Review Publishing_ (at [110]-[114]): 
 
  110 ... O 20 r 5(1) of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) gives the court a wide discretion to allow pleadings to be amended at any stage of the proceedings on such terms as may be just. Order 20 r 5(1) reads: 
 
  Subject to Order 15, Rules 6, 6A, 7 and 8, and this Rule, the Court may at any stage of the proceedings allow the plaintiff to amend his writ, or any party to amend his pleading, on such terms as to costs or otherwise as may be just and in such manner (if any) as it may direct. [emphasis added] 
 
- 111 In Chwee Kin Keong v Digilandmall.com Pte Ltd [2005] 1 SLR(R) 502 ( 'Chwee Kin Keong' ), this court said at [101]: 
+ 111 In Chwee Kin Keong v Digilandmall.com Pte Ltd <span class="citation">[2005] 1 SLR(R) 502</span> ( 'Chwee Kin Keong' ), this court said at [101]: 
 
  Under O 20 r 5(1) of the Rules of Court (Cap 322, R 5, 2004 Rev Ed), the court may grant leave to amend a pleading at any stage of the proceedings. This can be before or during the trial, or after judgment or on appeal. [emphasis added] 
 
  112 Indeed, local case law shows that our courts have allowed amendments to be made to pleadings even: 
 
- (a) at the final stages of a trial after the parties have made their closing submissions (see Chwee Kin Keong at [101]-[103] and Lee Siew Chun v Sourgrapes Packaging Products Trading Pte Ltd [1992] 3 SLR(R) 855 at [91]-[96]); 
+ (a) at the final stages of a trial after the parties have made their closing submissions (see Chwee Kin Keong at [101]-[103] and Lee Siew Chun v Sourgrapes Packaging Products Trading Pte Ltd <span class="citation">[1992] 3 SLR(R) 855</span> at [91]-[96]); 
 
- (b) after summary or interlocutory judgment has been obtained (see Invar Realty Pte Ltd v Kenzo Tange Urtec Inc [1990] 2 SLR(R) 66 at [21]-[22]); and 
+ (b) after summary or interlocutory judgment has been obtained (see Invar Realty Pte Ltd v Kenzo Tange Urtec Inc <span class="citation">[1990] 2 SLR(R) 66</span> at [21]-[22]); and 
 
- (c) pending an appeal or in the course of an appeal itself (see Soon Peng Yam v Maimon bt e Ahmad [1995] 1 SLR(R) 279 at [25]-[30], Asia Business Forum Pte Ltd v Long Ai Sin [2004] 2 SLR(R) 173 ( 'Asia Business Forum' ) at [17] and Susilawati v American Express Bank 
+ (c) pending an appeal or in the course of an appeal itself (see Soon Peng Yam v Maimon bt e Ahmad <span class="citation">[1995] 1 SLR(R) 279</span> at [25]-[30], Asia Business Forum Pte Ltd v Long Ai Sin <span class="citation">[2004] 2 SLR(R) 173</span> ( 'Asia Business Forum' ) at [17] and Susilawati v American Express Bank 
 
 
- Ltd [2009] 2 SLR(R) 737 ('Susilawati') at [56]; see also O 57 r 13(1) of the Rules of Court, which states that 'the Court of Appeal shall have all the powers and duties as to amendment and otherwise of the High Court'). 
+ Ltd <span class="citation">[2009] 2 SLR(R) 737</span> ('Susilawati') at [56]; see also O 57 r 13(1) of the Rules of Court, which states that 'the Court of Appeal shall have all the powers and duties as to amendment and otherwise of the High Court'). 
 
  ... 
 
@@ -183,7 +183,7 @@ plaintiffs did not appeal against Jacob J’s decision. Subsequently, the plaint
 26     In addition to the above, the English Court of Appeal in _Hendrix_ adopted an analysis similar to the awarding of an account of profits in _AG v. Blake_ , it was found that the defendant had deliberately did what it had contracted not to do, and that the claimant had a legitimate interest in preventing the defendant from profiting from the breach. Nevertheless, there remain some differences between the two remedies. The English Court of Appeal in _Hendrix_ awarded restitutionary damages even 
 
 
-though the circumstances were found to be insufficiently ‘exceptional’ to justify an account of profits. Lord Justice Mance described (at para [35]) a claim in restitutionary damages as a “lesser claim” than that of an account of profits, and observed (at para [24]) that Lord Nicholls (in _AG v. Blake_ ) did not apply “the same epithet or qualification” of exceptionality to an award of restitutionary damages. On the contrary, the High Court in _Cheong Lay Yong v. Muthukumaran s/o Varthan and another_ [2010] 3 SLR 16 at [58] stated that restitutionary damages are awarded in exceptional cases. 
+though the circumstances were found to be insufficiently ‘exceptional’ to justify an account of profits. Lord Justice Mance described (at para [35]) a claim in restitutionary damages as a “lesser claim” than that of an account of profits, and observed (at para [24]) that Lord Nicholls (in _AG v. Blake_ ) did not apply “the same epithet or qualification” of exceptionality to an award of restitutionary damages. On the contrary, the High Court in _Cheong Lay Yong v. Muthukumaran s/o Varthan and another_ <span class="citation">[2010] 3 SLR 16</span> at [58] stated that restitutionary damages are awarded in exceptional cases. 
 
 27     In addition, the Court of Appeal’s reference to “compensation” (see [25] above) is consistent with the observation by the Court of Appeal in _World Wide Fund_ (at para [47]) that restitutionary damages are essentially _compensatory_ in nature (in reliance of Lord Hobhouse’s dissenting judgment in _AG v. Blake_ ). These observations must of course be read in light of Lord Nicholls’ observation that ( _AG v. Blake_ at p 283): 
 
@@ -191,7 +191,7 @@ though the circumstances were found to be insufficiently ‘exceptional’ to ju
 
  [emphasis added] 
 
-28     In addition, there is some suggestion that the object of an award in restitutionary damages is _not compensatory_ (thus inclining it towards a closer position to the remedy of an account of profits), from the Court of Appeal decision of _Friis and another v. Casetech Trading Pte Ltd and another_ [2000] 2 SLR(R) 511 where the decision of Steyn LJ’s observations in _Surrey County Council v Bredero Homes Ltd_ [1993] 3 All ER 705 was endorsed with approval: 
+28     In addition, there is some suggestion that the object of an award in restitutionary damages is _not compensatory_ (thus inclining it towards a closer position to the remedy of an account of profits), from the Court of Appeal decision of _Friis and another v. Casetech Trading Pte Ltd and another_ <span class="citation">[2000] 2 SLR(R) 511</span> where the decision of Steyn LJ’s observations in _Surrey County Council v Bredero Homes Ltd_ [1993] 3 All ER 705 was endorsed with approval: 
 
  An award of compensation for breach of contract serves to protect three separate interests. The starting principle is that the aggrieved party ought to be compensated for loss of his positive or expectation interests. In other words, the object is to put the aggrieved party in the same financial position as if the contract had been fully performed. But the law also protects the negative interest of the aggrieved party. If the aggrieved party is unable to establish the value of a loss of bargain he may seek compensation in respect of his reliance losses. The object of such an award is to compensate the aggrieved party for expenses incurred and losses suffered in reliance of the contract. These two complementary principles share one feature. Both are pure compensatory principles ... 
 

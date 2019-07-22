@@ -55,7 +55,7 @@ On the same day at 11.37am, the Plaintiff purported to accept the Defendant’s 
 
  (a) first, this is the correct conclusion when one takes a “deeper, more robust” construction of O 22A r 3(2) read with r 3(3) of the Rules of Court (“the construction argument”); and, 
 
- (b) secondly, this is the holding of the judgment of the High Court in Chia Kim Huay (litigation representative of the estate of Chua Chye Hee, deceased) v Saw Shu Mawa Min Min and another [2012] 4 SLR 1096 (“ Chia Kim Huay ”) at [32] (reproduced below at [25]). 
+ (b) secondly, this is the holding of the judgment of the High Court in Chia Kim Huay (litigation representative of the estate of Chua Chye Hee, deceased) v Saw Shu Mawa Min Min and another <span class="citation">[2012] 4 SLR 1096</span> (“ Chia Kim Huay ”) at [32] (reproduced below at [25]). 
 
 11     In respect of the latter argument, the Plaintiff had argued in the courts below that the 
 
@@ -129,7 +129,7 @@ of the offer” [emphasis added] (see [12] above)) as that used in the title to 
 22     The purpose of an offeror having to give prior notice of the intention to withdraw his offer to settle before he serves the “Notice of Withdrawal of Offer” is so that the offeree has fair warning that 
 
 
-the offer is about to lapse and thus has time to consider whether he should accept the offer (see _Teo Gim Tiong v Krishnasamy Pushpavathi (legal representative of the estate of Maran s/o Kannakasabai, deceased)_ [2013] SGHC 178 at [4]). There is no necessity for implying an additional time period _after_ service of Form 34, even as a matter of policy, for the self-same purpose. 
+the offer is about to lapse and thus has time to consider whether he should accept the offer (see _Teo Gim Tiong v Krishnasamy Pushpavathi (legal representative of the estate of Maran s/o Kannakasabai, deceased)_ <span class="citation">[2013] SGHC 178</span> at [4]). There is no necessity for implying an additional time period _after_ service of Form 34, even as a matter of policy, for the self-same purpose. 
 
 23     I also do not accept the Plaintiff’s reliance on the fact that such “Notice of Withdrawal of Offer” can be served with a covering letter in which it should be stipulated the time period after service before the offer to settle is to be withdrawn (see above at [15]). If this was the intended manner of the regime, as noted above, one would expect that Form 34 (which use is _mandatory_ under O 22A r 3(3)) would prescribe for such information to be included in its body. Mr Chia validly pointed out that it _is_ possible to serve Form 34 electronically, and thus, _without_ a covering letter. 
 
@@ -150,9 +150,9 @@ Mr Rasanathan submits that this statement forms part of the _ratio decidendi_ in
 
 2011, the form was deemed properly served and the offer was accepted. 
 
-27     The issue in _Chia Kim Huay_ did not involve any purported withdrawal of the offer to settle by service of a “Notice of Withdrawal of Offer” in Form 34. The effect of such a “Notice of Withdrawal of Offer” therefore did not feature in so far as the real dispute between the parties was concerned. The High Court in _Chia Kim Huay_ , in making the statement relied upon by Mr Rasanathan, was only setting out the wider legal backdrop against which the issue stood. It did not form the _ratio decidendi_ of the case; it was not “expressly or impliedly treated by the Judge as a necessary step in reaching his conclusion” (see the description of the generally accepted understanding of _ratio decidendi_ in Rupert Cross, _Precedent in English Law_ (Clarendon Press, 3rd Ed, 1977) at p 76, cited by Michael Hwang JC in _Sheriffa Taibah bte Abdul Rahman v Lim Kim Som_ [1992] 1 SLR(R) 375 at [76] and _Indo Commercial Society (Pte) Ltd v Ebrahim and another_ [1992] 2 SLR(R) 667 at [14]). With respect, I decline to follow _Chia Kim Huay_ on its construction of O 22A, r 3(2) read with r 3(3) and Form 34. 
+27     The issue in _Chia Kim Huay_ did not involve any purported withdrawal of the offer to settle by service of a “Notice of Withdrawal of Offer” in Form 34. The effect of such a “Notice of Withdrawal of Offer” therefore did not feature in so far as the real dispute between the parties was concerned. The High Court in _Chia Kim Huay_ , in making the statement relied upon by Mr Rasanathan, was only setting out the wider legal backdrop against which the issue stood. It did not form the _ratio decidendi_ of the case; it was not “expressly or impliedly treated by the Judge as a necessary step in reaching his conclusion” (see the description of the generally accepted understanding of _ratio decidendi_ in Rupert Cross, _Precedent in English Law_ (Clarendon Press, 3rd Ed, 1977) at p 76, cited by Michael Hwang JC in _Sheriffa Taibah bte Abdul Rahman v Lim Kim Som_ <span class="citation">[1992] 1 SLR(R) 375</span> at [76] and _Indo Commercial Society (Pte) Ltd v Ebrahim and another_ <span class="citation">[1992] 2 SLR(R) 667</span> at [14]). With respect, I decline to follow _Chia Kim Huay_ on its construction of O 22A, r 3(2) read with r 3(3) and Form 34. 
 
-28     Mr Chia, on the other hand, relies on the Court of Appeal’s decision in _SBS Transit Ltd (formerly known as Singapore Bus Services Limited) v Koh Swee Ann_ [2004] 3 SLR(R) 365 (“ _SBS Transit_ ”). The Court of Appeal observed (at [20]): 
+28     Mr Chia, on the other hand, relies on the Court of Appeal’s decision in _SBS Transit Ltd (formerly known as Singapore Bus Services Limited) v Koh Swee Ann_ <span class="citation">[2004] 3 SLR(R) 365</span> (“ _SBS Transit_ ”). The Court of Appeal observed (at [20]): 
 
  If the Calderbank letter was an [offer to settle under O22A], then it could only be withdrawn by following the procedure in O 22A r 3, ie , by giving at least one day's prior notice of the intention to withdraw the offer and thereafter serving a notice of withdrawal in Form 38B. [emphasis added in bold italics and underlined bold italics] 
 

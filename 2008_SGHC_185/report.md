@@ -233,7 +233,7 @@ This answer raises other questions. If she thought that it is the usual practice
 
 31     Counsel for the defendant argued firstly, that the letter was not handed to Yu, and secondly, that even if it was, that did not amount to service under Cl 7. He cited two cases. The first was _Holwell Securities Ltd v Hughes_ [1974] 1 W.L.R. 155, where the English Court of Appeal held, in a case of an exercise of an option to purchase a property, that the acceptance must be conveyed to the owner, and that an acceptance effected by posting a letter which went astray and never reached the owner was not a proper acceptance because “acceptance of an offer must be communicated to the offeror” (per Russell LJ at 157). 
 
-32     The second case counsel cited, _Ho Miaw Ling v Singapore Island Country Club_ [1997] 3 SLR 892 (“ _Ho Miaw Ling”_ ) dealt with the issuance of a notice under the rules of the defendant club. In this case, Chao Hick Tin J held at [20]: 
+32     The second case counsel cited, _Ho Miaw Ling v Singapore Island Country Club_ <span class="citation">[1997] 3 SLR 892</span> (“ _Ho Miaw Ling”_ ) dealt with the issuance of a notice under the rules of the defendant club. In this case, Chao Hick Tin J held at [20]: 
 
  The ordinary meaning of a ‘notice’ is an intimation or a warning. A notice is a means of making something known. To give notice must necessarily mean to bring the matter to a person’s knowledge or attention. There must be actual communication. 
 
@@ -269,7 +269,7 @@ This answer raises other questions. If she thought that it is the usual practice
  [note: 20] 
 
 
-43     The scope of the equitable relief is not closed. It is well settled that it is available against the forfeiture of deposit and instalment payments made towards the purchase of land, as well as the contractual right to buy land, see _Pacific Rim Investments Pte Ltd v Lam Seng Tiong & Anor_ [1995] 3 SLR 1 (“ _Pacific Rim_ ” _)_ and the cases discussed therein. In the present case, the interests involved are the right to continued possession of the mortgaged property and the continued legal ownership of the property. These interests are more substantial (or at any rate not less substantial) than payments of deposit and instalment payments, and the right to complete a purchase of land. As the relief applies to the latter interests, it must be available to the former interests. 
+43     The scope of the equitable relief is not closed. It is well settled that it is available against the forfeiture of deposit and instalment payments made towards the purchase of land, as well as the contractual right to buy land, see _Pacific Rim Investments Pte Ltd v Lam Seng Tiong & Anor_ <span class="citation">[1995] 3 SLR 1</span> (“ _Pacific Rim_ ” _)_ and the cases discussed therein. In the present case, the interests involved are the right to continued possession of the mortgaged property and the continued legal ownership of the property. These interests are more substantial (or at any rate not less substantial) than payments of deposit and instalment payments, and the right to complete a purchase of land. As the relief applies to the latter interests, it must be available to the former interests. 
 
 44     The Court of Appeal in _Pacific Rim_ , a case in which relief was sought against the forfeiture of payments made for the purchase of land and for an order of specific performance, ruled (at p 23) after undertaking a review of the authorities, that: 
 

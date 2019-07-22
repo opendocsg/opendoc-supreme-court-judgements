@@ -195,7 +195,7 @@ plaintiff’s excuse of old age, being a much younger man, and yet not only did 
 
 **Applicable law** 
 
-42     The type of resulting trust relevant here is the “presumed intention resulting trust”, sometimes referred to as the “presumed resulting trust” (“PIRT”). The law relating to this type of trust was comprehensively considered and set out in _Lau Siew Kim v Yeo Guan Chye Terence and another_ [2008] 2 SLR(R) 108 (“ _Lau Siew Kim_ ”). 
+42     The type of resulting trust relevant here is the “presumed intention resulting trust”, sometimes referred to as the “presumed resulting trust” (“PIRT”). The law relating to this type of trust was comprehensively considered and set out in _Lau Siew Kim v Yeo Guan Chye Terence and another_ <span class="citation">[2008] 2 SLR(R) 108</span> (“ _Lau Siew Kim_ ”). 
 
 43     This type of resulting trust arises as a consequence of a lack of intention to benefit the recipient. There are two ways that it may arise – first, by means of presumption (unless it can be shown that the transfer was _indeed_ intended to benefit the recipient); and second, independently of the presumption so long as it can be shown that the transfer was not intended to benefit the recipient. 
 
@@ -313,7 +313,7 @@ Conservancy charge and Property tax
 
 68     The plaintiff claims to have paid $10,995.52 in respect of conservancy charges levied on the Property. This was evidenced by records in her bank passbook. 
 
-69     In _Gurnam Kaur d/o Sardora Singh v Harbhajan Singh s/o Jagraj Singh_ [2004] 4 SLR(R) 420, one of the parties claimed that he had contributed to the purchase price of the relevant property in dispute by paying $150 per month for food for the family and paying the electricity and water bills. He added that he gave his mother $40 per month for her expenses. Tan Lee Meng J rejected the assertion that these payments constituted contributions to the acquisition of the property. He said that they had nothing to do with its purchase price (at [7] of the judgment). On the same reasoning, the conservancy charges had nothing to do with the purchase price – they were indirect expenses incurred in relation to the occupation of the Property. They therefore cannot be counted as part of the plaintiff’s contribution. 
+69     In _Gurnam Kaur d/o Sardora Singh v Harbhajan Singh s/o Jagraj Singh_ <span class="citation">[2004] 4 SLR(R) 420</span>, one of the parties claimed that he had contributed to the purchase price of the relevant property in dispute by paying $150 per month for food for the family and paying the electricity and water bills. He added that he gave his mother $40 per month for her expenses. Tan Lee Meng J rejected the assertion that these payments constituted contributions to the acquisition of the property. He said that they had nothing to do with its purchase price (at [7] of the judgment). On the same reasoning, the conservancy charges had nothing to do with the purchase price – they were indirect expenses incurred in relation to the occupation of the Property. They therefore cannot be counted as part of the plaintiff’s contribution. 
 
 70     Property tax payments have, in matrimonial cases, been considered to be part of a party’s contribution to the acquisition of a property. Whilst this precedent may be long established in cases where the courts have to divide matrimonial property between ex-spouses and undertake an exercise 
 

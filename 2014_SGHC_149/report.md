@@ -521,7 +521,7 @@ of sentencing. In this case, there was no direct forensic evidence that Dormicum
 
 was too late to test the victims’ blood. [note: 88] 
 
-99     The way the court should approach circumstantial evidence is set out by V K Rajah J (as he then was) in _Public Prosecutor v Chee Cheong Hin Constance_ [2006] 2 SLR(R) 24 at [85] (cited with approval by the Court of Appeal in _Tan Chor Jin v Public Prosecutor_ [2008] 4 SLR(R) 306 at [34]): 
+99     The way the court should approach circumstantial evidence is set out by V K Rajah J (as he then was) in _Public Prosecutor v Chee Cheong Hin Constance_ <span class="citation">[2006] 2 SLR(R) 24</span> at [85] (cited with approval by the Court of Appeal in _Tan Chor Jin v Public Prosecutor_ <span class="citation">[2008] 4 SLR(R) 306</span> at [34]): 
 
  ... The various links in the interlocking chain of evidence must establish a complete chain that rules out any reasonable likelihood of an accused's innocence. Guilt must be the only rational inference and conclusion to be drawn from the complete chain of evidence. In assessing the circumstances, the court should discount fanciful or speculative possibilities. ... 
 
@@ -564,7 +564,7 @@ and 24 strokes of the cane [note: 90] with at least three sentences to run conse
 
 **_Sentencing principles for rape_** 
 
-105    In Public Prosecutor v NF [2006] 4 SLR(R) 849 (“PP v NF”), V K Rajah J demarcated four categories of rape (at [20] and [21]) as follows: 
+105    In Public Prosecutor v NF <span class="citation">[2006] 4 SLR(R) 849</span> (“PP v NF”), V K Rajah J demarcated four categories of rape (at [20] and [21]) as follows: 
 
  (a) at the lowest end of the spectrum, rape that feature no aggravating or mitigating circumstances (“Category 1 Rape”); 
 
@@ -585,11 +585,11 @@ and 24 strokes of the cane [note: 90] with at least three sentences to run conse
 
  (d) Category 4 Rape: It is not inappropriate to sentence the offender to the maximum sentence of 20 years’ imprisonment and 24 strokes of the cane allowed under s 376 of the Penal Code. 
 
-107    The Court of Appeal in Public Prosecutor v UI [2008] 4 SLR(R) 500 at [27] also endorsed the following list of aggravating factors laid down by Lord Woolf CJ in R v Millberry [2003] 1 WLR 546 at [32] (“the Millberry List”): 
+107    The Court of Appeal in Public Prosecutor v UI <span class="citation">[2008] 4 SLR(R) 500</span> at [27] also endorsed the following list of aggravating factors laid down by Lord Woolf CJ in R v Millberry [2003] 1 WLR 546 at [32] (“the Millberry List”): 
 
  (i) the use of violence over and above the force necessary to commit the rape; (ii) use of a weapon to frighten or injure the victim; (iii) the offence was planned; (iv) an especially serious physical or mental effect on the victim ... [including], for example, a rape resulting in pregnancy, or in the transmission of a life-threatening or serious disease; (v) further degradation of the victim ... (vi) the offender has broken into or otherwise gained access to the place where the victim is living ... (vii) the presence of children when the offence is committed ... (viii) the covert use of a drug to overcome the victim's resistance and/or [to] obliterate his or her memory of the offence; (ix) a history of sexual assaults or violence by the offender against the victim. 
 
-108    In Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik [2008] 1 SLR(R) 601 (“Mohammed Liton”) at [95], the Court of Appeal held that, apart from considering the aggravating and mitigating factors in each case, the court should be guided by three broad principles: 
+108    In Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik <span class="citation">[2008] 1 SLR(R) 601</span> (“Mohammed Liton”) at [95], the Court of Appeal held that, apart from considering the aggravating and mitigating factors in each case, the court should be guided by three broad principles: 
 
  (a) the degree of harm to the victim; 
 
@@ -608,7 +608,7 @@ and 24 strokes of the cane [note: 90] with at least three sentences to run conse
 
 to reduce the likelihood of them reporting to the police. 
 
-112    The fact that he recorded the violation of his unsuspecting victims was another aggravating factor. It was held in the context of “Peeping Tom” offences that the use of modern technology to record a victim in her private moments would warrant a custodial sentence on the basis that such recordings allowed repeated viewings for the offender’s perverted pleasure, as well as the attendant risk that the recordings might be circulated or shown to other persons (see _Public Prosecutor v Tay Beng Guan Albert_ [2000] 2 SLR(R) 778 at [21]–[23]). These policy reasons should apply equally, if not more, in the context of rape. 
+112    The fact that he recorded the violation of his unsuspecting victims was another aggravating factor. It was held in the context of “Peeping Tom” offences that the use of modern technology to record a victim in her private moments would warrant a custodial sentence on the basis that such recordings allowed repeated viewings for the offender’s perverted pleasure, as well as the attendant risk that the recordings might be circulated or shown to other persons (see _Public Prosecutor v Tay Beng Guan Albert_ <span class="citation">[2000] 2 SLR(R) 778</span> at [21]–[23]). These policy reasons should apply equally, if not more, in the context of rape. 
 
 113    A review of the accused’s antecedents also showed that he had previously committed similar offences. In particular, the Prosecution highlighted that in 2003 he was convicted for, _inter alia_ , outraging the modesty of a woman after he spiked her coffee with a sedative called zolpidem. He was given an aggregate sentence of 6 years’ imprisonment. However, he resumed his unlawful ways just 
 
@@ -630,9 +630,9 @@ services. [note: 95]
 
 117    However, a plea of guilt is only a mitigating factor if it is indicative of genuine contriteness. As succinctly stated by the court in _PP v NF_ at [57]: 
 
- ... a plea of guilt does not ipso facto entitle an offender to a discount in his sentence. Whether an early plea of guilt is given any mitigating value depends on whether it is indicative of genuine remorse and a holistic overview of the continuum of relevant circumstances: Angliss Singapore Pte Ltd v PP [2006] 4 SLR(R) 653 at [77]. A court should also carefully examine the conduct of the offender after the commission of the offence in order to determine whether the offender is genuinely contrite. 
+ ... a plea of guilt does not ipso facto entitle an offender to a discount in his sentence. Whether an early plea of guilt is given any mitigating value depends on whether it is indicative of genuine remorse and a holistic overview of the continuum of relevant circumstances: Angliss Singapore Pte Ltd v PP <span class="citation">[2006] 4 SLR(R) 653</span> at [77]. A court should also carefully examine the conduct of the offender after the commission of the offence in order to determine whether the offender is genuinely contrite. 
 
-118    Further, Yong Pung How CJ made these pertinent remarks in _Xia Qin Lai v Public Prosecutor_ [1999] 3 SLR(R) 257 at [26]: 
+118    Further, Yong Pung How CJ made these pertinent remarks in _Xia Qin Lai v Public Prosecutor_ <span class="citation">[1999] 3 SLR(R) 257</span> at [26]: 
 
  ... there is no mitigation value in a plea of guilt if the offender pleaded guilty in circumstances knowing that the Prosecution would have no difficulty in proving the charge against him, or if he had been caught red-handed. ... 
 
@@ -655,7 +655,7 @@ _Lower harm to victims_
 
 122    The accused’s counsel also submitted that since the victims did not know that they had been raped until they were shown the footage of the rape, they did not suffer the same degree of trauma as a conscious victim. 
 
-123    A similar argument was made in the case of _Public Prosecutor v Yong Kou Lin and another_ [1993] SGHC 278. There, the accused found the victim in an unconscious state and raped her. It was submitted that there was therefore no violence or trauma. Kan Ting Chiu JC (as he then was) categorically rejected that submission. The learned judge said that the “knowledge and anguish that she was raped should be no less real or painful for that”. He then sentenced the accused to 10 years’ imprisonment and 4 strokes of the cane. 
+123    A similar argument was made in the case of _Public Prosecutor v Yong Kou Lin and another_ <span class="citation">[1993] SGHC 278</span>. There, the accused found the victim in an unconscious state and raped her. It was submitted that there was therefore no violence or trauma. Kan Ting Chiu JC (as he then was) categorically rejected that submission. The learned judge said that the “knowledge and anguish that she was raped should be no less real or painful for that”. He then sentenced the accused to 10 years’ imprisonment and 4 strokes of the cane. 
 
 124    On the other hand, I am guided by the Court of Appeal in Mohammed Liton that the degree of harm to the victim is something the court must consider. All rape is innately violent. Certainly the physical harm and risk of sexually-transmitted diseases in circumstances where the victim is incognisant is no less than that suffered by a conscious victim. However, it is difficult to deny that a 
 
@@ -676,11 +676,11 @@ the RSVP was unreliable. [note: 101] However, I found that the findings of the e
 
 127    In the present case, as the accused was convicted and sentenced to 4 distinct offences, I was bound to order at least two terms of imprisonment to run consecutively pursuant to s 18 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed). 
 
-128    However, the decisions as to which sentences are to run consecutively and whether the court should order _more_ than two sentences to run consecutively are matters of discretion for the sentencing court. As Sundaresh Menon CJ held in the recent case of _Mohamed Shouffee bin Adam v Public Prosecutor_ [2014] SGHC 34 (“ _Mohamed Shouffee_ ”) at [25], this discretion “must be exercised judiciously and with regard to two principles in particular, namely, the one-transaction rule and the totality principle, as well as a number of ancillary principles”. 
+128    However, the decisions as to which sentences are to run consecutively and whether the court should order _more_ than two sentences to run consecutively are matters of discretion for the sentencing court. As Sundaresh Menon CJ held in the recent case of _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">[2014] SGHC 34</span> (“ _Mohamed Shouffee_ ”) at [25], this discretion “must be exercised judiciously and with regard to two principles in particular, namely, the one-transaction rule and the totality principle, as well as a number of ancillary principles”. 
 
 129    The totality principle, in essence, requires the sentencing court to review the aggregate sentence and consider whether the aggregate is just and appropriate (see _Mohamed Shouffee_ at [52]). If, after such a consideration, the court decides that the aggregate sentence should be reduced, it may either re-calibrate the individual sentences or re-assess which of the sentences should run consecutively ( _Mohamed Shouffee_ at [59]–[63]). 
 
-130    However, V K Rajah JA issued a salutary reminder in ADF v Public Prosecutor and another appeal [2010] 1 SLR 874 at [146] that while the decision to impose more than two consecutive sentences “ought not to be lightly made”, the “the totality principle cannot be unthinkingly invoked to minimise punishment for those who maliciously pursue a deliberate course of criminal behaviour”. He went on to elaborate that: 
+130    However, V K Rajah JA issued a salutary reminder in ADF v Public Prosecutor and another appeal <span class="citation">[2010] 1 SLR 874</span> at [146] that while the decision to impose more than two consecutive sentences “ought not to be lightly made”, the “the totality principle cannot be unthinkingly invoked to minimise punishment for those who maliciously pursue a deliberate course of criminal behaviour”. He went on to elaborate that: 
 
 
  ... In my view, an order for more than two sentences to run consecutively ought to be given serious consideration in dealing with distinct offences when one or more of the following circumstances are present, viz : 

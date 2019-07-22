@@ -245,7 +245,7 @@ _The defendant received the moneys from the True Companies as the plaintiff’s 
 
 29     The directing minds of both the plaintiff and the defendant, ( _ie_ , Hardie and Kong), were involved in the negotiation of both the Written Agreements and undisputedly had _actual knowledge_ of the terms and content of both agreements. Thus, any suggestion by the defendant that its directors were unaware of the terms of the BSA, or that the BSA could not in anyway affect the relationship between the plaintiff and the defendant, was in my view without merit. 
 
-30     In legal terminology, the word “nominee” as utilized in cl 3.3 of the BSA is often used interchangeably with the word “agent” (see _Ching Mun Fong (executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit_ [2001] 1 SLR(R) 856 at [19] – [24]; _Neo Kok Eng v Yeow Chern Lean and Another Suit_ [2008] SGHC 151 at [102] and [103]). The plaintiff therefore submitted that the defendant had collected the Cash Consideration _merely as the plaintiff’s agent_. In refusing to pay over the Outstanding Sum to the plaintiff upon demand, the plaintiff was thus entitled to bring an action in money had and received against the defendant (see Peter Watts and FMB Reynolds, 
+30     In legal terminology, the word “nominee” as utilized in cl 3.3 of the BSA is often used interchangeably with the word “agent” (see _Ching Mun Fong (executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit_ <span class="citation">[2001] 1 SLR(R) 856</span> at [19] – [24]; _Neo Kok Eng v Yeow Chern Lean and Another Suit_ <span class="citation">[2008] SGHC 151</span> at [102] and [103]). The plaintiff therefore submitted that the defendant had collected the Cash Consideration _merely as the plaintiff’s agent_. In refusing to pay over the Outstanding Sum to the plaintiff upon demand, the plaintiff was thus entitled to bring an action in money had and received against the defendant (see Peter Watts and FMB Reynolds, 
 
 _Bowstead and Reynolds on Agency_ (Sweet & Maxwell, 19th Ed, 2010) at para 6-100 (“ _Bowstead and Reynolds_ ”); _Halsbury’s Laws of Singapore_ , vol 15 (2006 Reissue) at [180.241]). 
 
@@ -545,7 +545,7 @@ to bring up the Alleged Agreements in the response letter to the plaintiff dated
 
 _The elements of estoppel by convention_ 
 
-80     It was recently laid down by the Court of Appeal that for estoppel by convention to operate, the following elements must be present ( _Travista Development Pte Ltd v Tan Kim Swee Augustine_ [2008] 2 SLR(R) 474 at [31]): 
+80     It was recently laid down by the Court of Appeal that for estoppel by convention to operate, the following elements must be present ( _Travista Development Pte Ltd v Tan Kim Swee Augustine_ <span class="citation">[2008] 2 SLR(R) 474</span> at [31]): 
 
  (a) The parties must have acted on “an assumed and incorrect state of fact or law” in their course of dealing; 
 

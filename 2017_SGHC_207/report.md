@@ -18,7 +18,7 @@ _Companies_ – _Schemes of arrangement_
 
 _Companies_ – _Receiver and manager_ – _Remuneration of_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 218 of 2017 was dismissed by the Court of Appeal on 19 October 2018. See [2018] SGCA 69.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 218 of 2017 was dismissed by the Court of Appeal on 19 October 2018. See <span class="citation">[2018] SGCA 69</span>.] 
 
 22 August 2017 
 
@@ -26,7 +26,7 @@ _Companies_ – _Receiver and manager_ – _Remuneration of_
 
 **Introduction** 
 
-1       In this case, the plaintiff, a corporate advisory firm, seeks assessment of its professional fees in respect of work done for the defendant company. This assessment is sought pursuant to the orders made by the Court of Appeal in _The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International Ltd and another appeal_ [2012] 4 SLR 1182 (“ _TTI 2012_ ”). 
+1       In this case, the plaintiff, a corporate advisory firm, seeks assessment of its professional fees in respect of work done for the defendant company. This assessment is sought pursuant to the orders made by the Court of Appeal in _The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International Ltd and another appeal_ <span class="citation">[2012] 4 SLR 1182</span> (“ _TTI 2012_ ”). 
 
 **Background** 
 
@@ -100,7 +100,7 @@ Plaintiff (“the VAF Orders”):
 
 Since no agreement on the fees was forthcoming, it is out of the above directions that the present application by the Plaintiff arises. 
 
-10     It bears mention that the Plaintiff sought to set aside the decision in _TTI 2012_ and/or the VAF Orders. The Court of Appeal in _The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International Ltd (nTan Corporate Advisory Pte Ltd and others, other parties) and another appeal_ [2015] 5 SLR 1104 (“ _TTI 2015_ ”) declined to do so, though it noted the possibility of setting aside the Scheme. However, both the MC and the Defendant resisted the setting aside of the Scheme. 
+10     It bears mention that the Plaintiff sought to set aside the decision in _TTI 2012_ and/or the VAF Orders. The Court of Appeal in _The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International Ltd (nTan Corporate Advisory Pte Ltd and others, other parties) and another appeal_ <span class="citation">[2015] 5 SLR 1104</span> (“ _TTI 2015_ ”) declined to do so, though it noted the possibility of setting aside the Scheme. However, both the MC and the Defendant resisted the setting aside of the Scheme. 
 
 11     Up till the present proceedings, in addition to an initial $500,000 non-refundable deposit (“the Deposit”), the Defendant has already paid $10,266,164 to the Plaintiff. This $10,266,164 corresponds to all of the Plaintiff’s billed time costs for the period from 28 October 2008 to 31 May 2011 (“the Billed Time Costs”), save for a sum of $401,150 for April 2009, for which the Plaintiff had initially issued a credit note (“the Credit Note”). 
 
@@ -125,13 +125,13 @@ Since no agreement on the fees was forthcoming, it is out of the above direction
 
  Total $39,645,824.40 + 5% of the Disputed Claims 
 
-14     The Plaintiff argues that the agreement between the parties, _ie_ , the Contract, should be the starting point to determine its fees. The Contract should not be ignored. Both the decisions in _TTI 2012_ and _Re Econ Corp Ltd_ [2004] 2 SLR(R) 264 (“ _Re Econ (No 2)_ ”) did not entail the discarding of an agreement for fees. The fact that the fee is to be assessed does not mean that the Contract should be disregarded – the Court of Appeal in _TTI 2012_ was careful to indicate that it was not interfering with the contractual arrangements. In any event, in _TTI 2015_ , the Court of Appeal noted that _TTI 2012_ was wrong and it did not have the power to unilaterally subject the VAF to taxation or assessment. The Contract remained binding. Similarly, _Re Econ (No 2)_ did not require that the fee arrangement be disregarded. The Defendant itself has acknowledged that the court should have 
+14     The Plaintiff argues that the agreement between the parties, _ie_ , the Contract, should be the starting point to determine its fees. The Contract should not be ignored. Both the decisions in _TTI 2012_ and _Re Econ Corp Ltd_ <span class="citation">[2004] 2 SLR(R) 264</span> (“ _Re Econ (No 2)_ ”) did not entail the discarding of an agreement for fees. The fact that the fee is to be assessed does not mean that the Contract should be disregarded – the Court of Appeal in _TTI 2012_ was careful to indicate that it was not interfering with the contractual arrangements. In any event, in _TTI 2015_ , the Court of Appeal noted that _TTI 2012_ was wrong and it did not have the power to unilaterally subject the VAF to taxation or assessment. The Contract remained binding. Similarly, _Re Econ (No 2)_ did not require that the fee arrangement be disregarded. The Defendant itself has acknowledged that the court should have 
 
 reference to the Contract in terms of an “all-in” amount of $10m. [note: 21] 
 
-15     The Contract was neither set aside nor challenged. This contractual arrangement arose out of extensive negotiations and indicated what was fair, reasonable and adequate remuneration, as mandated in _TTI 2012_. The Defendant has also not disputed these arrangements until the present proceedings. The Defendant could not now be allowed to rewrite the VAF Formula and disregard a valid contract. Sanctity of contract requires the parties to be bound: _Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ [2006] 1 SLR(R) 927 at [24] and _MAE Engineering Ltd v Fire-Stop_ 
+15     The Contract was neither set aside nor challenged. This contractual arrangement arose out of extensive negotiations and indicated what was fair, reasonable and adequate remuneration, as mandated in _TTI 2012_. The Defendant has also not disputed these arrangements until the present proceedings. The Defendant could not now be allowed to rewrite the VAF Formula and disregard a valid contract. Sanctity of contract requires the parties to be bound: _Forefront Medical Technology (Pte) Ltd v Modern-Pak Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 927</span> at [24] and _MAE Engineering Ltd v Fire-Stop_ 
 
-_Marketing Services Pte Ltd_ [2005] 1 SLR(R) 379 at [27]. [note: 22] 
+_Marketing Services Pte Ltd_ <span class="citation">[2005] 1 SLR(R) 379</span> at [27]. [note: 22] 
 
 16     The VAF Formula reflects the direct and tangible benefit derived by the Defendant from the Plaintiff’s work. It provided full certainty. In the negotiations between the parties, the Defendant only took issue with the specific items to be included as part of the components in the VAF Formula but 
 
@@ -158,7 +158,7 @@ the Plaintiff’s services. [note: 27]
 
 the point of value, the Plaintiff submits the following: [note: 28] 
 
- (a) The value is to be assessed on a holistic basis: TTI 2012 at [35]. Aside from the direct benefits, the court should also consider the renewed level of business and investors’ confidence achieved by the Defendant with the Plaintiff’s assistance as well as preservation of the Defendant’s goodwill. This approach was recognised and followed in Liquidators of Dovechem Holdings Pte Ltd v Dovechem Holdings Pte Ltd (in compulsory liquidation) [2015] 4 SLR 955 (“ Dovechem ”) and Kao Chai-Chau Linda v Fong Wai Lyn Carolyn [2016] 1 SLR 21 (“ Linda Kao ”). In this connection, a successful outcome entitles the insolvency practitioner to remuneration beyond incurred time costs. This is the approach taken in the UK through practice directions: see also Mirror Group Newspapers plc v Maxwell (No 2) [1998] 1 BCLC 638. The VAF remunerates the insolvency practitioner for the difference made. [note: 29] 
+ (a) The value is to be assessed on a holistic basis: TTI 2012 at [35]. Aside from the direct benefits, the court should also consider the renewed level of business and investors’ confidence achieved by the Defendant with the Plaintiff’s assistance as well as preservation of the Defendant’s goodwill. This approach was recognised and followed in Liquidators of Dovechem Holdings Pte Ltd v Dovechem Holdings Pte Ltd (in compulsory liquidation) <span class="citation">[2015] 4 SLR 955</span> (“ Dovechem ”) and Kao Chai-Chau Linda v Fong Wai Lyn Carolyn <span class="citation">[2016] 1 SLR 21</span> (“ Linda Kao ”). In this connection, a successful outcome entitles the insolvency practitioner to remuneration beyond incurred time costs. This is the approach taken in the UK through practice directions: see also Mirror Group Newspapers plc v Maxwell (No 2) [1998] 1 BCLC 638. The VAF remunerates the insolvency practitioner for the difference made. [note: 29] 
 
  (b) Value was created for the Defendant. It remains a going concern some six years after the Scheme was sanctioned. The Plaintiff worked with creditors and expended effort on obtaining support for the Scheme. The Plaintiff also assisted in the preparation for court proceedings, creditors’ meetings as well as the implementation of the Scheme. [note: 30] 
 
@@ -344,7 +344,7 @@ million”. [note: 50] However, the Plaintiff argues that this understanding is 
 substantiated and is in fact inconsistent with the terms of the Contract. [note: 51] Having considered the evidence, on a balance of probabilities, I find that there was no such understanding. The Contract is unequivocally _silent_ on this alleged $10m “all-in” understanding. Even though it was entirely open to the Defendant to include an express provision in the Contract to record this alleged 
 
 
-understanding, there is nothing in the negotiations and/or correspondence which evidences this. It is important to bear in mind that the Defendant is a sophisticated commercial entity, listed on the SGX Main Board, and was at all times legally advised. There is simply no excuse for the Defendant not to have included such a material term in the Contract if indeed there was any such understanding. In this vein, the Court of Appeal’s observations in _Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (trading as Rabobank International), Singapore Branch v Motorola Electronics Pte Ltd_ [2011] 2 SLR 63 are apposite: 
+understanding, there is nothing in the negotiations and/or correspondence which evidences this. It is important to bear in mind that the Defendant is a sophisticated commercial entity, listed on the SGX Main Board, and was at all times legally advised. There is simply no excuse for the Defendant not to have included such a material term in the Contract if indeed there was any such understanding. In this vein, the Court of Appeal’s observations in _Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (trading as Rabobank International), Singapore Branch v Motorola Electronics Pte Ltd_ <span class="citation">[2011] 2 SLR 63</span> are apposite: 
 
  57 ...[N]o explanation was offered for the parties’ failure to put the alleged tripartite contractual agreement to set off in writing. ... [O]ne would have expected that sophisticated commercial parties ... would not have agreed to deal with each other without ensuring that their contractual arrangements have been comprehensively evidenced by proper legal documentation ... Here we are not dealing with two individuals, or small entities, which have carried on their business relationship in an informal manner. We are instead talking about large, commercialsavvy parties who have been dealing with one another at arm’s length on the basis of written contracts , and who would, had that been their intention, have surely taken care to enshrine the purported tripartite set-off agreement in writing. ... 
 

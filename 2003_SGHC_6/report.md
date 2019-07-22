@@ -47,7 +47,7 @@ Rejecting Digital’s claim, the arbitrator refused to strike out paragraphs 88(
 
  Where, as in the instant case, the question of law involved is the construction of a ‘one-off’ clause, the application of which to the particular facts of the case is an issue in the arbitration, leave should not normally be given unless it is apparent to the judge upon a mere perusal of the reasoned award itself without the benefit of adversarial argument, that the meaning ascribed to the clause by the arbitrator is obviously wrong. (at p 742) 
 
-That dictum was applied by the House of Lords in the later case of _The Antaios_ [1984] 3 All ER 229 which restated the guidelines to be followed by courts hearing such applications. Our Court of Appeal in _American Home Assurance Co v Hong Lam Marine Pte Ltd_ [1999] 3 SLR 682, endorsed these guidelines. 
+That dictum was applied by the House of Lords in the later case of _The Antaios_ [1984] 3 All ER 229 which restated the guidelines to be followed by courts hearing such applications. Our Court of Appeal in _American Home Assurance Co v Hong Lam Marine Pte Ltd_ <span class="citation">[1999] 3 SLR 682</span>, endorsed these guidelines. 
 
 10     Thus, the principle which I had to apply was that where the construction of a ‘one-off’ contract or clause was in issue, the discretion was to be strictly exercised and leave to appeal normally refused unless the judge was satisfied that the construction given by the arbitrator was obviously wrong. 
 

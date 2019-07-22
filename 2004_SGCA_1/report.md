@@ -136,7 +136,7 @@ _Step Two: The presumption of knowledge of the nature of the drug_
 
 _Step Three: The need to prove that possession was for the purpose of trafficking_ 
 
- Low Kok Wai v PP [1994] 1 SLR 676 is the authority for the following proposition: 
+ Low Kok Wai v PP <span class="citation">[1994] 1 SLR 676</span> is the authority for the following proposition: 
 
 
  By omitting the two words “or presumed” in the 1991 version of s 17 of the MDA, Parliament must have intended that the presumption of trafficking therein was only to apply where a person was proved to be in possession of a controlled drug and not merely presumed to be in possession of a controlled drug. The presumption in the amended provision could not be applied where the fact of possession is not proved independently but presumed by virtue of s 18 of the Act. 
@@ -295,7 +295,7 @@ In light of the evidence above, we were of the view that Tay J was entitled to f
 
 40     It was an uncontested fact that no keys were found on the appellant’s person. Thus, there was only the evidence of Bala that the appellant had possession of the room key. The paramount question to ask was this: Was the trial judge correct to find that the appellant had possession, custody or control of the room key, such as to allow s 18(1)(c) to operate? We were of the view that the trial judge was justified in coming to his conclusion. 
 
-41     In _Nadasan Chandra Secharan v PP_ [1997] 1 SLR 723, the Court of Appeal clarified the law regarding convictions based on circumstantial evidence. Delivering the judgment of the court, the Chief Justice at [85] quoted the case of _Shepherd v R_ (1990) 97 ALR 161 at 165: 
+41     In _Nadasan Chandra Secharan v PP_ <span class="citation">[1997] 1 SLR 723</span>, the Court of Appeal clarified the law regarding convictions based on circumstantial evidence. Delivering the judgment of the court, the Chief Justice at [85] quoted the case of _Shepherd v R_ (1990) 97 ALR 161 at 165: 
 
  ... the prosecution bears the burden of proving all the elements of the crime beyond reasonable doubt. That means that the essential ingredients of each element must be so proved. It does not mean that every fact – every piece of evidence – relied upon to prove an element by inference must itself be proved beyond reasonable doubt ... Indeed, the probative force of a mass of evidence may be cumulative, making it pointless to consider the degree of probability of each item of evidence separately. 
 

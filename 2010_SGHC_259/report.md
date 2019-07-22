@@ -26,7 +26,7 @@ _Criminal Procedure and Sentencing_
 
 **Introduction** 
 
-1       It has frequently been emphasised that for offences where there are established sentencing precedents, “it would not be proper for a trial judge to depart from such precedents without, at the very least, giving cogent reasons as to why they should not be applied in the case before him” ( _Public Prosecutor v UI_ [2008] 4 SLR(R) 500, CA at [17] (“ _PP v UI_ ”); _Public Prosecutor v Hirris anak Martin_ [2010] 2 SLR 976, CA at [13]–[15]). These two appeals, MA149 and MA178 of 2010, were brought by the Prosecution against the sentences imposed by the District Judge (“the DJ”) on the Respondent, Chow Yee Sze, on the principal ground that the DJ had departed from established sentencing benchmarks without sufficient justification. After considering the evidence, I agreed with the Prosecution that the departures by the DJ were indeed unwarranted. I delivered my oral decision on 20 August 2010 in which I increased the sentences handed down by the DJ as follows: 
+1       It has frequently been emphasised that for offences where there are established sentencing precedents, “it would not be proper for a trial judge to depart from such precedents without, at the very least, giving cogent reasons as to why they should not be applied in the case before him” ( _Public Prosecutor v UI_ <span class="citation">[2008] 4 SLR(R) 500</span>, CA at [17] (“ _PP v UI_ ”); _Public Prosecutor v Hirris anak Martin_ <span class="citation">[2010] 2 SLR 976</span>, CA at [13]–[15]). These two appeals, MA149 and MA178 of 2010, were brought by the Prosecution against the sentences imposed by the District Judge (“the DJ”) on the Respondent, Chow Yee Sze, on the principal ground that the DJ had departed from established sentencing benchmarks without sufficient justification. After considering the evidence, I agreed with the Prosecution that the departures by the DJ were indeed unwarranted. I delivered my oral decision on 20 August 2010 in which I increased the sentences handed down by the DJ as follows: 
 
  for MA 149 of 2010, I replaced the fine of $6,000 for DAC 36095/2008 to nine months imprisonment; and 
 
@@ -55,7 +55,7 @@ I now give my reasons for increasing the sentences.
 
 **_The DJ’s decision_** 
 
-5       In _Public Prosecutor v Chow Yee Sze_ [2010] SGDC 223 (“ _GD_ ”), the DJ observed that the following factors are relevant for sentencing: 
+5       In _Public Prosecutor v Chow Yee Sze_ <span class="citation">[2010] SGDC 223</span> (“ _GD_ ”), the DJ observed that the following factors are relevant for sentencing: 
 
  the part of the body molested; 
 
@@ -92,7 +92,7 @@ I now give my reasons for increasing the sentences.
 
  the relationship between the offender and the victim. 
 
-6       Further, the DJ also observed that the factors laid down in _Public Prosecutor v Heng Swee Weng_ [2010] 1 SLR 954 (“ _PP v Heng Swee Weng_ ”) are equally relevant in deciding the appropriate sentence for a conviction under s 354 of the Penal Code, _ie_ : 
+6       Further, the DJ also observed that the factors laid down in _Public Prosecutor v Heng Swee Weng_ <span class="citation">[2010] 1 SLR 954</span> (“ _PP v Heng Swee Weng_ ”) are equally relevant in deciding the appropriate sentence for a conviction under s 354 of the Penal Code, _ie_ : 
 
  was the offence premeditated or committed on the spur of the moment; 
 
@@ -143,9 +143,9 @@ As a matter of principle, these factors are not controversial. The question, as 
 
 **_The sentencing benchmark_** 
 
-9       The well-established sentencing benchmark is _nine months’ imprisonment with caning as a starting point_ for molest or outrage of modesty under s 354 of the Penal Code where “a victim’s private parts or sexual organs [were] intruded” ( _Chandresh Patel v Public Prosecutor_ [1995] 1 CLAS News 323; MA 357/1993 (“ _Chandresh Patel_ ”), per Yong Pung How CJ). The DJ specifically referred to this sentencing benchmark at [7] of his _GD_. Since _Chandresh Patel_ , the nine months’ imprisonment plus caning benchmark has consistently been considered by the courts to be the _correct benchmark_ for s 354 offences over the past 15 years: referred to recently in _PP v Heng Swee Weng_ where a taxidriver who pleaded guilty to hugging his 15-year old passenger was sentenced to eight weeks’ imprisonment; also _Yu Eng Chin v Public Prosecutor_ [2009] SGHC 57 where Choo J referred to the benchmark in _Chandresh Patel_ and did not find the sentences of 12 months and 18 months manifestly excessive. 
+9       The well-established sentencing benchmark is _nine months’ imprisonment with caning as a starting point_ for molest or outrage of modesty under s 354 of the Penal Code where “a victim’s private parts or sexual organs [were] intruded” ( _Chandresh Patel v Public Prosecutor_ [1995] 1 CLAS News 323; MA 357/1993 (“ _Chandresh Patel_ ”), per Yong Pung How CJ). The DJ specifically referred to this sentencing benchmark at [7] of his _GD_. Since _Chandresh Patel_ , the nine months’ imprisonment plus caning benchmark has consistently been considered by the courts to be the _correct benchmark_ for s 354 offences over the past 15 years: referred to recently in _PP v Heng Swee Weng_ where a taxidriver who pleaded guilty to hugging his 15-year old passenger was sentenced to eight weeks’ imprisonment; also _Yu Eng Chin v Public Prosecutor_ <span class="citation">[2009] SGHC 57</span> where Choo J referred to the benchmark in _Chandresh Patel_ and did not find the sentences of 12 months and 18 months manifestly excessive. 
 
-10     A helpful survey of the sentencing precedents for a conviction under s 354 of the Penal Code can be found in the decision of _Public Prosecutor v Ho Ah Hoo Steven_ [2007] SGDC 162 wherein it affirms the general benchmark set by _Chandresh Patel_ (at [86]): 
+10     A helpful survey of the sentencing precedents for a conviction under s 354 of the Penal Code can be found in the decision of _Public Prosecutor v Ho Ah Hoo Steven_ <span class="citation">[2007] SGDC 162</span> wherein it affirms the general benchmark set by _Chandresh Patel_ (at [86]): 
 
  A survey of the sentencing precedents reveals that where the molest involves an interference with the victim’s breasts and moderate force was used, sentences of between 6 to 12 months’ jail have been imposed: 
 
@@ -155,26 +155,26 @@ As a matter of principle, these factors are not controversial. The question, as 
 
  Koh Siew Huat v PP (MA 241/98): 6 months each of two charges of indirect and nonimmediate grabbing and pressing an employee-maid’s breast, and placing hand on her breast; 
 
- Tok Kok How v PP [1995] 1 SLR 735: 9 months for pressing the knuckles onto the victim’s breast, while at the same time repeatedly holding her shoulders tightly, despite protestation, and asking if she was afraid of being raped; [and 3 strokes of the cane] 
+ Tok Kok How v PP <span class="citation">[1995] 1 SLR 735</span>: 9 months for pressing the knuckles onto the victim’s breast, while at the same time repeatedly holding her shoulders tightly, despite protestation, and asking if she was afraid of being raped; [and 3 strokes of the cane] 
 
  PP v Chee Huck Chuan (MA 262/96): 9 months for grabbing the victim from behind and then indirect and non-immediate touching her right breast; 
 
  PP v George Edward Nathan (MA 144/2001): 9 months for indirect and non-immediate touching and caressing the breasts of two women at a bus stop, when offering to help them get up from the floor – both sentences to run consecutively; 
 
- Zeng Guoyuan v PP [1997] 3 SLR 321: 9 months for each of the three charges of massaging the breasts and groin of the victim in the course of an acupressure and acupuncture session; [3 strokes for each charge involving touching of breasts and groin] 
+ Zeng Guoyuan v PP <span class="citation">[1997] 3 SLR 321</span>: 9 months for each of the three charges of massaging the breasts and groin of the victim in the course of an acupressure and acupuncture session; [3 strokes for each charge involving touching of breasts and groin] 
 
- Ng Chiew Kiat [2000] 1 SLR 370: 9 months for each of two charges of caressing the victimmaid’s breasts, vagina, right leg and right hand while she was sleeping, and caressing the victim’s breasts and kissed her lips when she was also sleeping [3 strokes of cane for each 
+ Ng Chiew Kiat <span class="citation">[2000] 1 SLR 370</span>: 9 months for each of two charges of caressing the victimmaid’s breasts, vagina, right leg and right hand while she was sleeping, and caressing the victim’s breasts and kissed her lips when she was also sleeping [3 strokes of cane for each 
 
 
  charge] 
 
-11     It is apparent from the above survey that most of the cases did not involve use of force or coercion and were typically fleeting in nature. Yet each of them was sentenced between six to nine months. The law is clear that the touching of a private part of the body by itself would typically attract a _custodial sentence_ , even if it was a fleeting touch and where no force was used (see _Kwan Peng Hong v Public Prosecutor_ [2000] 2 SLR(R) 824 at [64]): 
+11     It is apparent from the above survey that most of the cases did not involve use of force or coercion and were typically fleeting in nature. Yet each of them was sentenced between six to nine months. The law is clear that the touching of a private part of the body by itself would typically attract a _custodial sentence_ , even if it was a fleeting touch and where no force was used (see _Kwan Peng Hong v Public Prosecutor_ <span class="citation">[2000] 2 SLR(R) 824</span> at [64]): 
 
  Here, it was amply justified for the trial judge to impose a sentence of imprisonment. The appellant had touched the underarm that included a small part at the side of the complainant's right breast. It was a soft touch. It lasted only a few seconds. Although the act of molest was minor and neither force nor coercion was used, the touch was on a private body part of the complainant. In such cases, there must be a sentence of imprisonment. The court must convey the disapprobation with which the court views such offences. The message must be unequivocal. The court will step in to maintain law and order, when individuals feel inclined to give in to certain impulses. And the court will maintain this with robust sanction. A fine will send a wrong signal to the public, at least in terms of deterrence. 
 
  [emphasis added] 
 
-12     A fine would only suffice if the act of molest was a relatively minor one: see _Teo Keng Pong v Public Prosecutor_ [1996] 2 SLR(R) 890 where a tuition teacher with no antecedents was fined $ on each charge for four charges for caressing a student’s thigh and a fifth charge of caressing her thigh and squeezing her back; and _Soh Yang Tick v Public Prosecutor_ [1998] 1 SLR(R) 209 where an employer was fined $2,000 for slapping his secretary’s buttock lightly on the spur of the moment. 
+12     A fine would only suffice if the act of molest was a relatively minor one: see _Teo Keng Pong v Public Prosecutor_ <span class="citation">[1996] 2 SLR(R) 890</span> where a tuition teacher with no antecedents was fined $ on each charge for four charges for caressing a student’s thigh and a fifth charge of caressing her thigh and squeezing her back; and _Soh Yang Tick v Public Prosecutor_ <span class="citation">[1998] 1 SLR(R) 209</span> where an employer was fined $2,000 for slapping his secretary’s buttock lightly on the spur of the moment. 
 
 **_This Court’s decision_** 
 
@@ -195,7 +195,7 @@ As a matter of principle, these factors are not controversial. The question, as 
 
  (d) 
 
- (b) If the punishment prescribed for the offence provides the court with the option of imposing a custodial sentence or a fine, to determine whether the starting benchmark ought to be a custodial sentence given the nature of the offence. For example, under s 354 of the Penal Code where the molestation involved a private part of the victim; or under s 323 of the Penal Code where the victim of assault is a public transport worker ( Wong Hoi Len v Public Prosecutor [2009] 1 SLR(R) 115). 
+ (b) If the punishment prescribed for the offence provides the court with the option of imposing a custodial sentence or a fine, to determine whether the starting benchmark ought to be a custodial sentence given the nature of the offence. For example, under s 354 of the Penal Code where the molestation involved a private part of the victim; or under s 323 of the Penal Code where the victim of assault is a public transport worker ( Wong Hoi Len v Public Prosecutor <span class="citation">[2009] 1 SLR(R) 115</span>). 
 
  (c) Determine whether there are recognised mitigating factors to justify a departure from the established sentencing precedent or to impose the lower end of the range. If none exists or none of any significance, generally the benchmark should be followed. 
 
@@ -203,7 +203,7 @@ As a matter of principle, these factors are not controversial. The question, as 
 
  (e) If there are both mitigating and aggravating factors present in the case, which is not uncommon, both of them should be properly balanced so as to ensure that the overall punishment fits the crime. 
 
-Such an approach will seek to ensure that when a trial judge decides to depart from the relevant sentencing precedents, he directly addresses his mind to the facts of the particular case to provide good and cogent reasons for doing so. Needless to say, such an approach is only intended to be a guideline as the DJ rightly observed ( _GD_ at [16]), since “no two cases can ever be completely identical or symmetrical”. The difference in every case lies in the details. That is precisely the reason why the evidence before the trial judge must be carefully analysed and considered before deciding on the appropriate sentence. To quote Chan Sek Keong CJ in _Luong Thi Trang Hoang Kathleen v Public Prosecutor_ [2010] 1 SLR 707 (at [25]): 
+Such an approach will seek to ensure that when a trial judge decides to depart from the relevant sentencing precedents, he directly addresses his mind to the facts of the particular case to provide good and cogent reasons for doing so. Needless to say, such an approach is only intended to be a guideline as the DJ rightly observed ( _GD_ at [16]), since “no two cases can ever be completely identical or symmetrical”. The difference in every case lies in the details. That is precisely the reason why the evidence before the trial judge must be carefully analysed and considered before deciding on the appropriate sentence. To quote Chan Sek Keong CJ in _Luong Thi Trang Hoang Kathleen v Public Prosecutor_ <span class="citation">[2010] 1 SLR 707</span> (at [25]): 
 
  Judges should not blindly apply any sentencing principle without considering all the circumstances of the case at hand, especially the culpability of the accused in that particular case. It cannot be over emphasised that the court must apply its mind to the facts of each case before it and determine the appropriate sentence accordingly. 
 
@@ -242,10 +242,10 @@ I should add that for this case, the task of the DJ was made easier by the fact 
 
 20     Although the Respondent’s touch of V1’s breast was fleeting, this was simply because V1 had reacted immediately to his invasion of her modesty. From the CCTV recording, it was clear to me that if V1 had not woken up in reaction to his touch of her breast, he would have continued. V1‘s evidence at the trial was that she woke up because she felt something near her heart area. In any event, offences committed under s 354 of the Penal Code typically involve acts that are brief and fleeting because the victim would often react by struggling or escaping. Acts of molest for periods longer than a fleeting moment would usually involve the use of coercion such as force or violence which would be an aggravating factor. Accordingly, the fact that the touch on V1’s breast was fleeting in circumstances peculiar to this case did not justify the imposition of a fine instead of a custodial sentence. 
 
-21     Finally, the fact that he was a first offender is in itself a neutral factor as it is not necessarily positive evidence of good character: _Public Prosecutor v Tan Fook Sum_ [1999] 1 SLR(R) 1022. On the other hand, the presence of antecedents would often lead to an enhanced sentence: _Md Anverdeen_ 
+21     Finally, the fact that he was a first offender is in itself a neutral factor as it is not necessarily positive evidence of good character: _Public Prosecutor v Tan Fook Sum_ <span class="citation">[1999] 1 SLR(R) 1022</span>. On the other hand, the presence of antecedents would often lead to an enhanced sentence: _Md Anverdeen_ 
 
 
-_Basheer Ahmed and Others v Public Prosecutor_ [2004] SGHC 233. 
+_Basheer Ahmed and Others v Public Prosecutor_ <span class="citation">[2004] SGHC 233</span>. 
 
 **_Aggravating factors_** 
 
@@ -303,7 +303,7 @@ the charge. It is pertinent to mention that when the Respondent asked V2 to remo
 
 **_Charges taken into consideration_** 
 
-34     Furthermore, three charges (“TIC charges”) were to be taken into account for sentencing. Such TIC charges would generally result in an _enhanced_ sentence particularly where the TIC offences and the offences proceeded with are similar in nature as they would show that the offender was recalcitrant ( _eg_ if both sets of offences consist of sexual offences against the same victim): _PP v UI_ and _Public Prosecutor v Mok Ping Wuen Maurice_ [1998] 3 SLR(R) 439 at [19]. 
+34     Furthermore, three charges (“TIC charges”) were to be taken into account for sentencing. Such TIC charges would generally result in an _enhanced_ sentence particularly where the TIC offences and the offences proceeded with are similar in nature as they would show that the offender was recalcitrant ( _eg_ if both sets of offences consist of sexual offences against the same victim): _PP v UI_ and _Public Prosecutor v Mok Ping Wuen Maurice_ <span class="citation">[1998] 3 SLR(R) 439</span> at [19]. 
 
 35     Three of the TIC charges were for similar offences committed against V2 over the span of one week. For the second charge, on the same day that the Respondent had caressed V2’s left breast, the Respondent had pinched V2’s buttocks several times. The following day, the Respondent had brushed his hand across V2’s cleavage, which formed the subject of the fourth charge. Six days later, the Respondent pinched V’s buttocks again, which resulted in the fifth charge. 
 

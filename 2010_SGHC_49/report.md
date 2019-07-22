@@ -88,7 +88,7 @@ and threatened to terminate the Tenancy Agreement and cut off the supply of elec
 
 15     I rejected the plaintiff’s arguments for the following reasons: 
 
- (a) First, it is trite law that the proper procedure to set aside a consent order is by commencing new proceedings. The reason for this is that a consent order is treated as a “contract” between the parties to settle the dispute. Once the consent order has been recorded, the old proceedings are spent. Hence, the proper way to set aside the consent order is by commencing fresh proceedings: see Wiltopps (Asia) Ltd v Drew & Napier and another [1999] 1 SLR(R) 252. 
+ (a) First, it is trite law that the proper procedure to set aside a consent order is by commencing new proceedings. The reason for this is that a consent order is treated as a “contract” between the parties to settle the dispute. Once the consent order has been recorded, the old proceedings are spent. Hence, the proper way to set aside the consent order is by commencing fresh proceedings: see Wiltopps (Asia) Ltd v Drew & Napier and another <span class="citation">[1999] 1 SLR(R) 252</span>. 
 
  (b) Secondly, the request for further arguments was, inter alia , to seek my direction to enable the plaintiff to pay the disputed rental into court or to the plaintiff’s solicitors as opposed to the agreed term to pay the arrears and the rental to the defendant. However, plaintiff’s counsel admitted that there was no evidence that the defendant would not be able to repay the rental monies in the event that the Tenancy Agreement turned out to be void. In such circumstances, there was no reason why the plaintiff should be allowed to withhold the payment of the rent to 
 

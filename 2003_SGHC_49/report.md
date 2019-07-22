@@ -35,7 +35,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Section 326 offences_ 
 
 6       The fact that the accused persons did not even know the actual reason for the attack emphasises how senseless their actions were. 
 
-7       In _Shamsul bin Abdullah v Public Prosecutor_ [2002] 4 SLR 176, Chief Justice Yong Pung How cited with approval the following factors from Practitioners Library Sentencing Practice in the Subordinate Courts (2000) as relevant in sentencing under s 326 of the Penal Code: (a) seriousness and permanence of injuries, (b) group action, (c) premeditation, (d) weapon used, (e) vulnerability of victim, (f) whether offender was in a position of authority, (g) racial motivation and (h) prior record of violence. 
+7       In _Shamsul bin Abdullah v Public Prosecutor_ <span class="citation">[2002] 4 SLR 176</span>, Chief Justice Yong Pung How cited with approval the following factors from Practitioners Library Sentencing Practice in the Subordinate Courts (2000) as relevant in sentencing under s 326 of the Penal Code: (a) seriousness and permanence of injuries, (b) group action, (c) premeditation, (d) weapon used, (e) vulnerability of victim, (f) whether offender was in a position of authority, (g) racial motivation and (h) prior record of violence. 
 
 8       I would add that whether an accused pleads guilty or claims trial and whether an accused surrenders himself should also be relevant factors in sentencing. 
 

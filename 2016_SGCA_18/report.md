@@ -16,7 +16,7 @@
 
 _Contract_ – _Remedies_ – _Damages_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2015] SGHC 14.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2015] SGHC 14</span>.] 
 
 21 March 2016 
 
@@ -77,7 +77,7 @@ below [note: 15] :
 
 **The decision below** 
 
-7       The High Court awarded the Appellant the following damages (see _Alvin Nicholas Nathan v Raffles Assets (Singapore) Pte Ltd_ [2015] SGHC 14 (“the Judgment”)): 
+7       The High Court awarded the Appellant the following damages (see _Alvin Nicholas Nathan v Raffles Assets (Singapore) Pte Ltd_ <span class="citation">[2015] SGHC 14</span> (“the Judgment”)): 
 
  (a) $150,000 for wasted costs, ie , the costs the Appellant incurred in renovating the Original Premises, but which was wasted in part because of the premature termination of the Lease 
 
@@ -154,13 +154,13 @@ Appellant’s shortlist of 18 possible properties only included premises which h
 
 16     The Judge held that the Appellant could have mitigated his losses by staying on at the Original Premises until the Current Premises were ready. If he did, he would not have incurred (a) two relocation costs and (b) the increased rent for the Interim Premises prior to the move to the Current Premises. The Appellant however appealed against this finding on the ground, _inter alia_ , that it was not unreasonable for him to have left the Original Premises before the renovations started on 1 March 2012. 
 
-17     It is a well-established principle that “the aggrieved party must take all reasonable steps to mitigate the loss consequent on the defaulting party’s breach, and cannot recover damages for any loss which it could have avoided but failed to avoid due to its own unreasonable action or inaction”: _The “Asia Star”_ [2010] 2 SLR 1154 (“ _Asia Star_ ”) at [24]. The burden, however, is on the defaulting party to show that the aggrieved party had failed to fulfil its duty to mitigate: _Asia Star_ at [24]. 
+17     It is a well-established principle that “the aggrieved party must take all reasonable steps to mitigate the loss consequent on the defaulting party’s breach, and cannot recover damages for any loss which it could have avoided but failed to avoid due to its own unreasonable action or inaction”: _The “Asia Star”_ <span class="citation">[2010] 2 SLR 1154</span> (“ _Asia Star_ ”) at [24]. The burden, however, is on the defaulting party to show that the aggrieved party had failed to fulfil its duty to mitigate: _Asia Star_ at [24]. 
 
 18     In the present case, we found that it was not unreasonable for the Appellant to have moved out of the Original Premises before 1 March 2012 even though the permanent premises he found were not ready. The Appellant cited issues of safety for his handicapped employees, noise, inconvenience, and the lack of parking space to explain why he could not stay on in the Original Premises after renovations thereto commenced. Moreover, it being a standard stipulation in a lease that a tenant is entitled to quiet enjoyment of the premises, in our view, it was reasonable for the Appellant to want to avoid the inconveniences the renovations would have brought about, even if shifting into the Interim Premises would have involved incurring some extra costs. 
 
 19     Further, we took into account the fact that the Respondent had initially demanded that the Appellant vacate the Original Premises by 29 February 2012 and confirmed that it was terminating the 
 
-Lease Agreement prematurely. [note: 29] This clearly constituted a repudiatory breach of the Lease Agreement by _renunciation_ (see Situation 2 in _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and another appeal_ [2007] 4 SLR(R) 413 at [93]), giving the Appellant an immediate right to terminate the contract. By way of a letter dated 17 November 2011, the Appellant exercised his right to accept the 
+Lease Agreement prematurely. [note: 29] This clearly constituted a repudiatory breach of the Lease Agreement by _renunciation_ (see Situation 2 in _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and another appeal_ <span class="citation">[2007] 4 SLR(R) 413</span> at [93]), giving the Appellant an immediate right to terminate the contract. By way of a letter dated 17 November 2011, the Appellant exercised his right to accept the 
 
 Respondent’s repudiatory breach. [note: 30] In the circumstances, we found that the Appellant had acted reasonably on the basis that he had to leave before 29 February 2012 to avoid any allegation that he was affirming the Lease Agreement despite the Respondent’s repudiatory breach, or to avoid over staying on the Original Premises when he had no right to given that the Lease Agreement was effectively terminated from 29 February 2012. It should be noted that in two letters, dated 13 December 2011 and 3 January 2012, the Respondent’s solicitors specifically warned the Appellant that his continued possession of the Original Premises was inconsistent with him accepting the repudiatory 
 
@@ -181,13 +181,13 @@ central air-conditioning. [note: 33] We agreed. That sum should be excluded from
 
 losses (explaining, perhaps, the absence of a cross-appeal) [note: 34] , we found that this was an important point. 
 
-23     When a contract is terminated pursuant to a repudiatory breach and damages are awarded, the court seeks to place the innocent party in the position _he would have been in if the contract had been performed_. In respect of a case where a contract is terminated pursuant to a repudiatory breach, the court held in _Hong Fok Realty Pte Ltd v Bima Investment Pte Ltd and another appeal_ [1992] 2 SLR(R) 834 (“ _Hong Fok v Bima_ ”) at [24]: 
+23     When a contract is terminated pursuant to a repudiatory breach and damages are awarded, the court seeks to place the innocent party in the position _he would have been in if the contract had been performed_. In respect of a case where a contract is terminated pursuant to a repudiatory breach, the court held in _Hong Fok Realty Pte Ltd v Bima Investment Pte Ltd and another appeal_ <span class="citation">[1992] 2 SLR(R) 834</span> (“ _Hong Fok v Bima_ ”) at [24]: 
 
  The object of the award of damages in this type of situation is not to restore the parties to their respective positions as if the contract had not been made , but rather, in recognition of the existence of the contract and the subsequent breach, to compensate the innocent party, as far as money can do so, for the loss, damage and injury which he has suffered as a result of the breach. It is to place the innocent party, so far as money can do so, in the same position as if the contract had been performed. 
 
  [emphasis added] 
 
-24     Following this principle, damages for breach of contract are ordinarily assessed in terms of the claimant’s _expectation loss_ , which refers to the value of the benefit that the claimant would have obtained but for the breach of contract, or, to put it another way, the gains the claimant expected as a result of the full performance of the contract: Andrew Phang Boon Leong, _The Law of Contract in Singapore_ (Academy Publishing, 2012) (“ _The Law of Contract_ ”) at para 21.033. On occasion, damages for breach of contract may be quantified in terms of the claimant’s _reliance loss_ – that is, the costs and expenses the claimant incurred in reliance on the defendant’s contracted-for performance, but which were wasted because of the breach of contract: _The Law of Contract_ at para 21.034. The basis for awarding reliance loss is the assumption that were the contract performed, the claimant would have at least fully recovered the costs and expenditure incurred: _Van Der Horst Engineering Pte Ltd v Rotol Singapore Ltd_ [2006] 2 SLR(R) 586 at [54]–[55]. Indeed, in cases where a claimant enters into a bad bargain and would not have recovered all his costs/expenditure even if the 
+24     Following this principle, damages for breach of contract are ordinarily assessed in terms of the claimant’s _expectation loss_ , which refers to the value of the benefit that the claimant would have obtained but for the breach of contract, or, to put it another way, the gains the claimant expected as a result of the full performance of the contract: Andrew Phang Boon Leong, _The Law of Contract in Singapore_ (Academy Publishing, 2012) (“ _The Law of Contract_ ”) at para 21.033. On occasion, damages for breach of contract may be quantified in terms of the claimant’s _reliance loss_ – that is, the costs and expenses the claimant incurred in reliance on the defendant’s contracted-for performance, but which were wasted because of the breach of contract: _The Law of Contract_ at para 21.034. The basis for awarding reliance loss is the assumption that were the contract performed, the claimant would have at least fully recovered the costs and expenditure incurred: _Van Der Horst Engineering Pte Ltd v Rotol Singapore Ltd_ <span class="citation">[2006] 2 SLR(R) 586</span> at [54]–[55]. Indeed, in cases where a claimant enters into a bad bargain and would not have recovered all his costs/expenditure even if the 
 
 
 contract had been performed, his losses may not be quantified by reference to his reliance expenditure: _C & P Haulage v Middleton_ [1983] 1 WLR 1461 at 1468. Thus, the underlying principle, _even in cases where reliance loss is awarded_ , is to place the innocent party in the position he would have been in _had the contract been performed_. 

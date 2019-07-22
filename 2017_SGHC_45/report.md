@@ -190,7 +190,7 @@ them from his communication with DPL on his two questions. [note: 46]
 
 27     Metropole submits that the adjudicator breached the rules of natural justice on 31 March 2016 when he contacted only DPL’s solicitors to ask the two questions and when he accepted DPL’s solicitors’ answer to those questions without hearing from Metropole. The adjudicator therefore breached (1) the rule of impartiality and (2) the fair hearing rule. An adjudicator has an express 
 
-statutory obligation to comply with both these rules under s 16(3)( _c_ ) of the Act [note: 47] (see also _SEF Construction Pte Ltd v Skoy Connected Pte Ltd_ [2010] 1 SLR 733 (“ _SEF Construction_ ”) at [49]). [note: 48] 
+statutory obligation to comply with both these rules under s 16(3)( _c_ ) of the Act [note: 47] (see also _SEF Construction Pte Ltd v Skoy Connected Pte Ltd_ <span class="citation">[2010] 1 SLR 733</span> (“ _SEF Construction_ ”) at [49]). [note: 48] 
 
 _The rule of impartiality_ 
 
@@ -203,9 +203,9 @@ apparent bias. [note: 49]
 29     According to Metropole, the decision of a “judicial or quasi-judicial body will be set aside if there are circumstances which would give rise to a reasonable suspicion or apprehension in a fair-minded 
 
 
-reasonable person with knowledge of the relevant facts that the tribunal was biased” ( _Re Shankar Alan s/o Anant Kulkarni_ [2007] 1 SLR(R) 85 (“ _Re Shankar Alan_ ”) at [91]). The “reasonable suspicion” test, however, was met if the court was satisfied that a reasonable number of the public could harbour a reasonable suspicion of bias even though the court itself thought there was no real danger of this on the facts ( _Re Shankar Alan_ at [75]). 
+reasonable person with knowledge of the relevant facts that the tribunal was biased” ( _Re Shankar Alan s/o Anant Kulkarni_ <span class="citation">[2007] 1 SLR(R) 85</span> (“ _Re Shankar Alan_ ”) at [91]). The “reasonable suspicion” test, however, was met if the court was satisfied that a reasonable number of the public could harbour a reasonable suspicion of bias even though the court itself thought there was no real danger of this on the facts ( _Re Shankar Alan_ at [75]). 
 
-30     Metropole argues that the mere fact that private communications have taken place between an adjudicator and a party to an adjudication is sufficient to warrant setting aside the determination on the basis of apparent bias ( _Re Singh Kalpanath_ [1992] 1 SLR(R) 595at [90]). The court should not look into whether those representations actually caused prejudice ( _Re Singh Kalpanath_ at [90]). 
+30     Metropole argues that the mere fact that private communications have taken place between an adjudicator and a party to an adjudication is sufficient to warrant setting aside the determination on the basis of apparent bias ( _Re Singh Kalpanath_ <span class="citation">[1992] 1 SLR(R) 595</span>at [90]). The court should not look into whether those representations actually caused prejudice ( _Re Singh Kalpanath_ at [90]). 
 
 31     According to Metropole, the adjudicator’s conduct showed that he was not disinterested and 
 
@@ -267,7 +267,7 @@ _The materiality of the breach_
 reasonably have affected the adjudicator’s determination. 
 
 
-42     Metropole submits that the test for prejudice as applied in the context of arbitration is also applicable to adjudication under the Act. It cites the test laid down in _AMZ v AXX_ [2016] 1 SLR 549 for setting aside an arbitral award for a breach of the rules of natural justice under s 24( _b_ ) of the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“IAA”). In _AMZ v AXX_ , I held at [103] that the test in arbitration as set out by the Court of Appeal in _L W Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd and another appeal_ [2013] 1 SLR 125 is “whether the tribunal could reasonably have arrived at a different result if not for [the] breach”. There is no requirement that the material must necessarily lead to a different result. What matters is that a different result could reasonably have been reached. 
+42     Metropole submits that the test for prejudice as applied in the context of arbitration is also applicable to adjudication under the Act. It cites the test laid down in _AMZ v AXX_ <span class="citation">[2016] 1 SLR 549</span> for setting aside an arbitral award for a breach of the rules of natural justice under s 24( _b_ ) of the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“IAA”). In _AMZ v AXX_ , I held at [103] that the test in arbitration as set out by the Court of Appeal in _L W Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd and another appeal_ <span class="citation">[2013] 1 SLR 125</span> is “whether the tribunal could reasonably have arrived at a different result if not for [the] breach”. There is no requirement that the material must necessarily lead to a different result. What matters is that a different result could reasonably have been reached. 
 
 43     Metropole submits that the adjudicator’s two questions touched quite clearly on the merits of 
 
@@ -348,7 +348,7 @@ adjudication determination in order to earn his adjudication fee. [note: 75]
 
 (2) The fair hearing rule and the materiality of the breach 
 
-57     The _audi alteram partem_ rule requires the adjudicator to receive both parties’ submissions and consider them ( _AM Associates (Singapore) Pte Ltd v Laguna National Golf and Country Club Ltd_ [2009] SGHC 260 (“ _AM Associates_ ”) at [25]). 
+57     The _audi alteram partem_ rule requires the adjudicator to receive both parties’ submissions and consider them ( _AM Associates (Singapore) Pte Ltd v Laguna National Golf and Country Club Ltd_ <span class="citation">[2009] SGHC 260</span> (“ _AM Associates_ ”) at [25]). 
 
 58     In the English case of _Dean and Dyball_ , a claimant sought to enforce an adjudication decision against a respondent by summary judgment. The respondent argued that the adjudicator had breached the rules of natural justice when he conducted separate interviews with the parties and their respective experts. Judge Richard Seymour QC held at [50] that while “there was no reason in law why an adjudicator should not have telephone conversation with one party to an adjudication on his own”, great caution must be exercised. He added at [52] that “if an adjudicator receives a communication about a matter of significance to the substance of the adjudication from one party alone in the absence of the other, he should inform the absent party of the substance of the communication so as to give that party an opportunity to deal with it if it wishes”. Insofar as the party who did not provide the information is concerned, “what is important is that it should be aware of the perception of the tribunal of what it has been told and the potential significance of that information from the tribunal’s point of view” (at [52]). 
 
@@ -362,7 +362,7 @@ having addressed this reason for withholding payment in its payment response. [n
 
 adjudicator even if those errors were not raised in the payment response ( _W Y Steel Construction Pte_ 
 
-_Ltd v Osko Pte Ltd_ [2013] 3 SLR 380 (“ _W Y Steel_ ”) at [51]). [note: 79] Metropole argues that it would 
+_Ltd v Osko Pte Ltd_ <span class="citation">[2013] 3 SLR 380</span> (“ _W Y Steel_ ”) at [51]). [note: 79] Metropole argues that it would 
 
 
 be reasonably clear to any adjudicator that the contingency sum would never come into play because 
@@ -373,7 +373,7 @@ the contract has been terminated. [note: 80]
 
 62     Having found that the adjudicator acted in breach of natural justice, I turn to the issue of materiality and prejudice. In my view, the breach was not sufficiently material as to cause prejudice to Metropole. 
 
-63     The High Court recognised in _Aik Heng Contracts and Services Pte Ltd v Deshin Engineering & Construction Pte Ltd_ [2015] SGHC 293 (“ _Aik Heng_ ”) at [24] that not all breaches of natural justice warrant the setting aside of an adjudication determination. There must be a material breach of natural justice. 
+63     The High Court recognised in _Aik Heng Contracts and Services Pte Ltd v Deshin Engineering & Construction Pte Ltd_ <span class="citation">[2015] SGHC 293</span> (“ _Aik Heng_ ”) at [24] that not all breaches of natural justice warrant the setting aside of an adjudication determination. There must be a material breach of natural justice. 
 
 64     I note that unlike s 24( _b_ ) of the IAA and s 48(1)( _a_ )(vii) of the Arbitration Act (Cap 10 2002 Rev Ed) (“AA”), there is nothing s 16(3)( _c_ ) of the Act – or indeed elsewhere in the Act – which expressly requires a breach of natural justice to occasion prejudice before an adjudication determination can be set aside. 
 
@@ -381,7 +381,7 @@ the contract has been terminated. [note: 80]
 
 66     First, the power to set aside an arbitration award is a statutory power. It is established and regulated entirely by statute. The power to set aside an adjudication determination, on the other hand, is not a statutory power. It is an aspect of the High Court’s supervisory jurisdiction over inferior tribunals at common law: Chow Kok Fong, _Security of Payments and Construction Adjudication_ (LexisNexis, 2nd Ed, 2013) at para 19.9. The Act does not expressly require a breach of natural justice to occasion prejudice before an adjudication determination can be set aside simply because the Act does not create the power to set aside an adjudication determination or define the grounds which have to be established in order to do so. So the place to look for a rule which requires a breach of natural justice to be material or to occasion prejudice in order to justify setting aside an adjudication determination is the common law and not the Act. 
 
-67     Second, an arbitrator’s award has full finality. An adjudicator's determination has only temporary finality. Despite a prior adjudication, the parties remain entirely free to go on to resolve their disputes with full finality (see _JRP & Associates Pte Ltd v Kindly Construction & Services Pte Ltd_ [2015] 3 SLR 575 at [70] and _W Y Steel_ at [22]). That is why there is the latitude on an application to set aside an adjudication determination to assess the consequences of a breach of natural justice in the context of the provisional nature of a determination and the need for speedy disposition of adjudications proceedings ( _Aik Heng_ at [27]). That, to my mind, means that a court hearing an application to set aside an adjudication determination for a breach of the rules of natural justice has less reason to intervene in adjudication than in arbitration, not more. If an adjudicator reaches a determination on a 
+67     Second, an arbitrator’s award has full finality. An adjudicator's determination has only temporary finality. Despite a prior adjudication, the parties remain entirely free to go on to resolve their disputes with full finality (see _JRP & Associates Pte Ltd v Kindly Construction & Services Pte Ltd_ <span class="citation">[2015] 3 SLR 575</span> at [70] and _W Y Steel_ at [22]). That is why there is the latitude on an application to set aside an adjudication determination to assess the consequences of a breach of natural justice in the context of the provisional nature of a determination and the need for speedy disposition of adjudications proceedings ( _Aik Heng_ at [27]). That, to my mind, means that a court hearing an application to set aside an adjudication determination for a breach of the rules of natural justice has less reason to intervene in adjudication than in arbitration, not more. If an adjudicator reaches a determination on a 
 
 
 dispute in breach of the rules of natural justice, and even if that breach could have affected the outcome of the determination, the aggrieved party will nevertheless have occasion in the future to have that dispute resolved with full finality and in compliance with the rules of natural justice. There is even less reason for the court to intervene if the breach of natural justice is immaterial to the outcome of the adjudication or has occasioned the aggrieved party no prejudice. This approach finds support in adjudication cases from England and New South Wales (see for example, _Balfour Beatty Construction Ltd v Lambeth Borough Council_ [2002] EWHC 597 at [29] and _Brodyn Pty Ltd t/as Time Cost and Quality v Davenport & Anor_ [2004] NSWCA 394 at [55]). 
@@ -402,7 +402,7 @@ _The parties’ submissions_
 
 71     Metropole also argues that the adjudicator breached the rules of natural justice (in particular, 
 
-the fair hearing rule) [note: 83] because he disregarded some of the defences which Metropole raised in its adjudication response without considering the merits thereof or making an effort to understand them ( _Front Row Investment Holdings (Singapore) Pte Ltd v Daimler South East Asia Pte Ltd_ [2010] SGHC 80 (“ _Front Row_ ”) at [31]). 
+the fair hearing rule) [note: 83] because he disregarded some of the defences which Metropole raised in its adjudication response without considering the merits thereof or making an effort to understand them ( _Front Row Investment Holdings (Singapore) Pte Ltd v Daimler South East Asia Pte Ltd_ <span class="citation">[2010] SGHC 80</span> (“ _Front Row_ ”) at [31]). 
 
 72     The following is a list of the defences in the adjudication response that the adjudicator 
 
@@ -437,9 +437,9 @@ application and the payment claim ( _APV_ at [97]). [note: 88]
 
 material ( _SEF Construction_ at [58]). [note: 89] The fact that an adjudicator does not feel it necessary to discuss his reasoning and explicitly state his conclusions in relation to some submissions does not necessarily lead to the conclusion that he disregarded those submissions and is therefore in breach of 
 
-the rules of natural justice ( _SEF Construction_ at [60]). [note: 90] DPL further submits that the same position has also been adopted with respect to arbitration ( _TMM Division Maritima SA de CV v Pacific Richfield Marine Pte Ltd_ [2013] 4 SLR 972; _BLB and another v BLC and others_ [2013] 4 SLR 1169). Further, even if there was indeed a breach of natural justice, only material breaches justify setting aside an adjudication determination ( _Aik Heng_ at [24]; _Soh Beng Tee & Co Pte Ltd v Fairmount_ 
+the rules of natural justice ( _SEF Construction_ at [60]). [note: 90] DPL further submits that the same position has also been adopted with respect to arbitration ( _TMM Division Maritima SA de CV v Pacific Richfield Marine Pte Ltd_ <span class="citation">[2013] 4 SLR 972</span>; _BLB and another v BLC and others_ <span class="citation">[2013] 4 SLR 1169</span>). Further, even if there was indeed a breach of natural justice, only material breaches justify setting aside an adjudication determination ( _Aik Heng_ at [24]; _Soh Beng Tee & Co Pte Ltd v Fairmount_ 
 
-_Development Pte Ltd_ [2007] 3 SLR(R) 86 at [65(f)]). [note: 91] 
+_Development Pte Ltd_ <span class="citation">[2007] 3 SLR(R) 86</span> at [65(f)]). [note: 91] 
 
 _The court’s decision_ 
 
@@ -471,7 +471,7 @@ that are to be expected where no externally imposed time pressure applies (see _
 
 81     With respect to the First Defence, the adjudicator recognised at [49] of the adjudication determination that Metropole “had argued that s 5 of the Act clearly stated that payment is only when work is carried out or when goods and services are supplied”. 
 
-82     With respect to the Second Defence, the adjudicator found that Metropole was seeking to raise an additional reason for withholding payment which was not found in the payment response. He was therefore entitled – an indeed obliged – to disregard it by virtue of the bar in s 15(3) of the Act. It cannot then be said that he had breached the rules of natural justice in failing to address the Second Defence (see _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ [2008] SGHC 159 at [55], which was affirmed on appeal in _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ [2010] 1 SLR 658 at [23]). 
+82     With respect to the Second Defence, the adjudicator found that Metropole was seeking to raise an additional reason for withholding payment which was not found in the payment response. He was therefore entitled – an indeed obliged – to disregard it by virtue of the bar in s 15(3) of the Act. It cannot then be said that he had breached the rules of natural justice in failing to address the Second Defence (see _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ <span class="citation">[2008] SGHC 159</span> at [55], which was affirmed on appeal in _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ <span class="citation">[2010] 1 SLR 658</span> at [23]). 
 
 83     Neither can it be said that the Second Defence does no more than raise a patent error. Metropole has not pointed me to any discrepancy in the documents before the adjudicator which would justify characterising the Second Defence as raising a patent error. It is like any other defence which Metropole sought to advance in favour of its case. The adjudicator was correct to apply the s 15(3) bar to it. This argument is therefore entirely without merit. 
 
@@ -506,7 +506,7 @@ payment if he has actually “carried out” any construction work. [note: 96] T
 
 90     Metropole submits that cl 2.3(3) should instead be interpreted as a clause for damages for breach of contract, to compensate DPL for its loss of bargain in the form of the loss of the opportunity to complete the entire project and hence the loss of its entitlement to full fees for 
 
-completed stages of work. [note: 97] While a claimant’s entitlement to payment under the Act is founded on the underlying contract, this entitlement is separate and distinct from his contractual entitlement to be paid ( _Tienrui Design & Construction Pte Ltd v G & Y Trading and Manufacturing Pte Ltd_ [2015] 5 SLR 852 (“ _Tienrui Design_ ”) at [30]). Metropole therefore submits that claims under cl 2.3(3) do not come within the Act. They can be dealt with only in separate dispute resolution 
+completed stages of work. [note: 97] While a claimant’s entitlement to payment under the Act is founded on the underlying contract, this entitlement is separate and distinct from his contractual entitlement to be paid ( _Tienrui Design & Construction Pte Ltd v G & Y Trading and Manufacturing Pte Ltd_ <span class="citation">[2015] 5 SLR 852</span> (“ _Tienrui Design_ ”) at [30]). Metropole therefore submits that claims under cl 2.3(3) do not come within the Act. They can be dealt with only in separate dispute resolution 
 
 proceedings which will determine DPL’s claim with full finality. [note: 98] 
 
@@ -572,7 +572,7 @@ _The parties’ submissions_
 
 of that contract. [note: 115] 
 
-102    Metropole argues that s 4(1) of the Act requires an adjudicator to determine the existence of a written contract between the parties. Section 4(1) expressly states that the Act “shall apply to any contract that is made in writing” and is a position that is supported by local authorities ( _SEF Construction_ at [45]; _RN & Associates Pte Ltd v TPX Builders Pte Ltd_ [2013] 1 SLR 848 at [24]). To satisfy this requirement, all the relevant terms agreed must be recorded in writing ( _RJT Consulting Engineers Ltd v DM Engineering (Northern Ireland) Ltd_ [2002] EWCA Civ 270 at [19]). 
+102    Metropole argues that s 4(1) of the Act requires an adjudicator to determine the existence of a written contract between the parties. Section 4(1) expressly states that the Act “shall apply to any contract that is made in writing” and is a position that is supported by local authorities ( _SEF Construction_ at [45]; _RN & Associates Pte Ltd v TPX Builders Pte Ltd_ <span class="citation">[2013] 1 SLR 848</span> at [24]). To satisfy this requirement, all the relevant terms agreed must be recorded in writing ( _RJT Consulting Engineers Ltd v DM Engineering (Northern Ireland) Ltd_ [2002] EWCA Civ 270 at [19]). 
 
 103    Metropole argues that the adjudicator failed to determine whether a written contract exists between Metropole and DPL. It is crucial that the adjudicator do so because the SIA terms contains a 
 

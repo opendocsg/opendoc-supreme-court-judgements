@@ -51,18 +51,18 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Appeals_ – _Public P
 
 _Theft-in-dwelling_ 
 
-9       In respect of the theft-in-dwelling offence, I noted that this was committed subsequent to, and before any action had been taken against him for, the CBT offences. Nevertheless, the conviction in relation to the theft-in-dwelling offence was a relevant antecedent that could and should be taken into account when considering the sentence for his CBT offences. In _PP v Boon Kiah Kin_ [1993] 3 SLR 639 (“ _Boon Kiah Kin_ ”), I had stated at 647–648, [37] that: 
+9       In respect of the theft-in-dwelling offence, I noted that this was committed subsequent to, and before any action had been taken against him for, the CBT offences. Nevertheless, the conviction in relation to the theft-in-dwelling offence was a relevant antecedent that could and should be taken into account when considering the sentence for his CBT offences. In _PP v Boon Kiah Kin_ <span class="citation">[1993] 3 SLR 639</span> (“ _Boon Kiah Kin_ ”), I had stated at 647–648, [37] that: 
 
  [A]ll earlier offences of similar nature should be put before a sentencer, regardless of whether the 
 
 
  convictions therefor were obtained before or after the commission of the offence for which the defendant is being sentenced. 
 
-In _Sim Yeow Seng v PP_ [1995] 3 SLR 44, I had reiterated the same at 47, [8] that: 
+In _Sim Yeow Seng v PP_ <span class="citation">[1995] 3 SLR 44</span>, I had reiterated the same at 47, [8] that: 
 
  [A] sentencing court should have regard to all of the accused’s antecedents up to the moment of sentencing because these antecedents reveal his character, his attitudes and the likelihood of rehabilitation. So long as previous convictions are shown to exist, therefore, it does not matter whether they were in respect of offences committed before or subsequent to the offence for which the court is considering sentence. 
 
-10     The Prosecution referred me to _Lim Poh Tee v PP_ [2001] 1 SLR 674, where I had stated at [40] that: 
+10     The Prosecution referred me to _Lim Poh Tee v PP_ <span class="citation">[2001] 1 SLR 674</span>, where I had stated at [40] that: 
 
  [The appellant’s] previous conviction for an unrelated offence of corruption committed in 1998 [after the corruption offence for which the court was considering sentence], revealed his propensity to corrupt means of self-enrichment and correspondingly, a need to deter him from gravitating towards such wrong-doing. Accordingly, the district judge was fully entitled to take his previous conviction into account. 
 
@@ -79,7 +79,7 @@ _Juvenile antecedents_
 12     The fact that the respondent had run afoul of the law when he was still a juvenile (as 
 
 
-opposed to an adult) might go some way in dispelling such an impression, though this could not be overstated because the respondent had committed not one, but two, property offences when he was a juvenile. I noted, however, that the respondent’s juvenile antecedents were committed some 11 years ago. In _Leong Mun Kwai v PP_ [1996] 2 SLR 338, I had stated at 342, [19] that: 
+opposed to an adult) might go some way in dispelling such an impression, though this could not be overstated because the respondent had committed not one, but two, property offences when he was a juvenile. I noted, however, that the respondent’s juvenile antecedents were committed some 11 years ago. In _Leong Mun Kwai v PP_ <span class="citation">[1996] 2 SLR 338</span>, I had stated at 342, [19] that: 
 
  [F]or convictions which occurred a long time ago, it would also be relevant to consider the length of time during which the defendant has maintained a blemish-free record. 
 
@@ -112,9 +112,9 @@ In the present case, the respondent claimed, and the Prosecution did not dispute
 
 _Early plea of guilt_ 
 
-19     Credit can be given for a plea of guilt when it tends to show remorse on the part of the accused and also when it saves the court and the Prosecution time and expense: _Sinniah Pillay v PP_ [1992] 1 SLR 225 at 231, [27]. Arguably, this is, _a fortiori_ , the case if such a plea is entered early. In the present case, the respondent had pleaded guilty at the very first opportunity. 
+19     Credit can be given for a plea of guilt when it tends to show remorse on the part of the accused and also when it saves the court and the Prosecution time and expense: _Sinniah Pillay v PP_ <span class="citation">[1992] 1 SLR 225</span> at 231, [27]. Arguably, this is, _a fortiori_ , the case if such a plea is entered early. In the present case, the respondent had pleaded guilty at the very first opportunity. 
 
-20     In _Sim Gek Yong v PP_ [1995] 1 SLR 537, I had stated at 540, [7] that: 
+20     In _Sim Gek Yong v PP_ <span class="citation">[1995] 1 SLR 537</span>, I had stated at 540, [7] that: 
 
  [A] plea of guilt [does] not automatically merit a discount; for ... the element of public interest must be considered by the sentencing court in deciding whether a discount ought to be given for a guilty plea. In certain cases, the circumstances may be such that any mitigating effect afforded by a guilty plea is heavily or even completely outweighed by the need for a deterrent sentence. 
 
@@ -127,7 +127,7 @@ The Prosecution argued that there was a need to pass a sentence that would deter
 
 22     In appeals against sentence, it is frequently submitted that the sentence is “manifestly inadequate” or “manifestly excessive”, as the case may be. When a sentence is said to be manifestly inadequate, or conversely, manifestly excessive, it means that the sentence is unjustly lenient or severe, as the case may be, and requires substantial alterations rather than minute corrections to remedy the injustice: _Liow Chow v PP_ [1939] 1 MLJ 170 at 170–171. An appellate court must reject “the lore of nicely calculated less or more” in matters of sentence: _Liow Chow v PP_ at 171. 
 
-23     In its written submissions, the Prosecution did not quantify exactly what the enhanced sentence should be to justify its contention that the original sentence was manifestly inadequate. Instead, it proffered a range of imprisonment terms from two to six months on the basis of three cited cases. In citing past cases, I should reiterate the caution that I sounded in _Soong Hee Sin v PP_ [2001] 2 SLR 253 at [12] that: 
+23     In its written submissions, the Prosecution did not quantify exactly what the enhanced sentence should be to justify its contention that the original sentence was manifestly inadequate. Instead, it proffered a range of imprisonment terms from two to six months on the basis of three cited cases. In citing past cases, I should reiterate the caution that I sounded in _Soong Hee Sin v PP_ <span class="citation">[2001] 2 SLR 253</span> at [12] that: 
 
  [Any] attempt to reduce the law of sentencing into a rigid and inflexible mathematical formula in which all sentences are deemed capable of being tabulated with absolute scientific precision [will] be highly unrealistic. ... In my view, the regime of sentencing is a matter of law which involves a hotchpotch of such varied and manifold factors that no two cases can ever be completely identical in this regard. While past cases are no doubt helpful and sometimes serve as critical guidelines for the sentencing court, that is also all that they are, ie mere guidelines only. This is especially so with regard to the unreported cases, in which the detailed facts and circumstances are hardly, if ever, disclosed with sufficient clarity to enable any intelligent comparison to be made. At the end of the day, every case which comes before the courts must be looked at on its own facts, each particular accused in his own circumstances, and counsel be kept constantly and keenly apprised of the fact that it is just not possible to categorise cases based simply on mere numerals and decimal points. 
 

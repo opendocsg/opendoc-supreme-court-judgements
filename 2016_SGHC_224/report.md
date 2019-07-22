@@ -339,7 +339,7 @@ when it failed to deliver the Patec Turnkey System to the Plaintiff.
 
 112    The Defendant contends that the Plaintiff failed to act reasonably to mitigate its loss. It argues that the Plaintiff should have agreed to Honeywell’s demand for a 25% discount and that its “complete inaction in mitigating its loss” was the cause of its loss. Accordingly it asserts that the Plaintiff could not recover such loss from the Defendant. 
 
-113    However, none of this was pleaded by the Defendant. Such an assertion had to be pleaded and proved by the Defendant. (See _Jia Min Building Construction Pte Ltd_ v _Ann Lee Pte Ltd_ [2004] 3 SLR(R) 288 at [71]; _The “Rainbow Star”_ [2011] 3 SLR 1 at [56]; and _Yip Holdings Pte Ltd v Asia Link Marine Industries Pte Ltd_ [2012] 1 SLR 131 at [23]). 
+113    However, none of this was pleaded by the Defendant. Such an assertion had to be pleaded and proved by the Defendant. (See _Jia Min Building Construction Pte Ltd_ v _Ann Lee Pte Ltd_ <span class="citation">[2004] 3 SLR(R) 288</span> at [71]; _The “Rainbow Star”_ <span class="citation">[2011] 3 SLR 1</span> at [56]; and _Yip Holdings Pte Ltd v Asia Link Marine Industries Pte Ltd_ <span class="citation">[2012] 1 SLR 131</span> at [23]). 
 
 114    In my view, if the Plaintiff had agreed to give Honeywell a 25% discount, it is not inconceivable that the Defendant might in that situation have argued that the Plaintiff should not have granted the discount but rather should have called Honeywell’s bluff, Honeywell being contractually bound to manufacture and supply copper heat sinks to Intel Corporation with the use of the Patec Turnkey System. That argument would have been persuasive. 
 

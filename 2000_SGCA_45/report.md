@@ -44,7 +44,7 @@ It will be noted that cl 10 can clearly be divided into two parts. The crucial e
 
 are conditions precedent to the performance of the obligations under the contract. 
 
-This important distinction came up for consideration in this court in **Lim Hwee Meng v Citadel Investment Pte Ltd** [1998] 3 SLR 601. There the vendor purported to grant an option to purchase a piece of land to the purchaser. Clause 5 of the option provided as follows: 
+This important distinction came up for consideration in this court in **Lim Hwee Meng v Citadel Investment Pte Ltd** <span class="citation">[1998] 3 SLR 601</span>. There the vendor purported to grant an option to purchase a piece of land to the purchaser. Clause 5 of the option provided as follows: 
 
  The purc hase herein by a c ompany is subjec t to the c ompany obtaining the approval of the Land Dealings Unit or other government approval for the purc hase on or before c ompletion. 
 
@@ -57,7 +57,7 @@ In coming to its decision, the court in **_Lim Hwee Meng_** adopted the approach
  In my opinion, if the parties have reac hed an agreement on all essential matters, then the c lause subjec t to the approval of the c ourt does not mean there is no agreement at all. There is an agreement, but the operation of it is suspended until the c ourt approves it. It is the duty of one party or the other to bring the agreement before the c ourt for approval. If the c ourt approves, it is binding on the parties. If the c ourt does not approve, it is not binding. But, pending the applic ation to the c ourt, it remains a binding agreement whic h neither party c an disavow. Orr LJ has drawn my attention to a useful analogy. Many c ontrac ts for the sale of goods are made subjec t to an export or import lic enc e being obtained. Suc h a c ondition does not mean that there is no c ontrac t at all. It is the duty of the seller of the buyer, as the c ase may be, to take reasonable steps to obtain a lic enc e. If he applies for a lic enc e and gets it, the c ontrac t operates. If he takes all reasonable steps to obtain it and it is refused, he is released from his obligation. If he fails to apply for it or to do what is reasonable to obtain it, he is in breac h and liable to damages. 
 
 
-We may add that this court in **Chip Thye Enterprises Pte Ltd v Development Bank of Singapore Ltd** [1994] 3 SLR 613 , also had the occasion to consider such a `subject to` clause. There the clause in the option for the purchase of land read: 
+We may add that this court in **Chip Thye Enterprises Pte Ltd v Development Bank of Singapore Ltd** <span class="citation">[1994] 3 SLR 613</span> , also had the occasion to consider such a `subject to` clause. There the clause in the option for the purchase of land read: 
 
  The sale and purc hase is subjec t to the purc haser obtaining an extension of the written permission for planning approval for the development of two pairs of semi-detac hed bungalows on the property ... 
 

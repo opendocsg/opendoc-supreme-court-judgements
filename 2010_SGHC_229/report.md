@@ -45,7 +45,7 @@ _Civil Procedure_ – _Pleadings_
 
  Subject to Order 15 Rules 6, 6A, 7 and 8, and this Rule, the Court may at any stage of the proceedings allow the plaintiff to amend his writ, or any party to amend his pleading, on such terms as to costs or otherwise as my be just and in such manner (if any) as it may direct. 
 
-8       Whether an amendment to pleadings should be allowed is a matter of discretion for the trial judge. The approach that courts should take with respect to amendment of pleadings was outlined by the Court of Appeal in _Wright Norman and another v Oversea-Chinese Banking Corp Ltd_ [1993] 3 SLR(R) 640, at [6] as follows: 
+8       Whether an amendment to pleadings should be allowed is a matter of discretion for the trial judge. The approach that courts should take with respect to amendment of pleadings was outlined by the Court of Appeal in _Wright Norman and another v Oversea-Chinese Banking Corp Ltd_ <span class="citation">[1993] 3 SLR(R) 640</span>, at [6] as follows: 
 
  It is trite law that an amendment which would enable the real issues between the parties to be tried should be allowed subject to penalties on costs and adjournment, if necessary, unless the amendment would cause injustice or injury to the opposing party which could not be compensated by costs or otherwise: see Cropper v Smith (1884) 26 Ch D 700; Tildesley v Harper (1878) 10 Ch D 393. This is so even though the omission was caused by carelessness or the application for amendment was made very late in the day: per Brett MR in Clarapede & Co v Commercial Union Association [1883] 32 WR 262 at 263. 
 
@@ -60,7 +60,7 @@ _Civil Procedure_ – _Pleadings_
 
 the end of the trial to give an apparently unsuccessful defendant an opportunity to renew the fight on an entirely different defence.” 
 
-12     _Ketteman_ has been applied in a number of cases in Singapore: see _Sin Leng Industries Pte Ltd v Ong Chai Teck and others_ [2006] 2 SLR(R) 235, Lam Soon Oil and Soap Manufacturing Sdn Bhd and another v Whang Tar Choung and another [2001] 3 SLR(R) 451 and Hong Leong Finance Ltd v Famco (S) Pte Ltd and others [1992] 2 SLR(R) 224. 
+12     _Ketteman_ has been applied in a number of cases in Singapore: see _Sin Leng Industries Pte Ltd v Ong Chai Teck and others_ <span class="citation">[2006] 2 SLR(R) 235</span>, Lam Soon Oil and Soap Manufacturing Sdn Bhd and another v Whang Tar Choung and another <span class="citation">[2001] 3 SLR(R) 451</span> and Hong Leong Finance Ltd v Famco (S) Pte Ltd and others <span class="citation">[1992] 2 SLR(R) 224</span>. 
 
 13     The present case was rather different from the situation envisaged in _Ketteman_. Here, although the trial had been completed, no new evidence was required in relation to the proposed amendment to introduce the defence of consent to the use of an allegedly infringing trade mark. The facts pertaining to the proposed defence of consent were fully stated in Arthur’s affidavit of evidence-inchief (“AEIC”). In his AEIC, Arthur stated that TCS had given his consent to the use of “老大華” by him for the VivoCity Stall when he and his father met TCS on 31 July 2008. Furthermore, Arthur referred to a congratulatory message that had accompanied a pot of flowers sent by TCS to him when he started the VivoCity Stall. He pointed out that TCS’s congratulatory message, which was addressed to “老大華”, had included the words “May your business prosper”. Thus, Arthur asserted that TCS did not mind the use by him of “老大華”. 
 

@@ -43,7 +43,7 @@ _Family Law_ – _Custody_ – _Care and control_ – _Whether the court must in
 
 11     I refer to the appellant’s allegation of “blatant biasness” on the part of the District Judge. This allegation was made in the light of the District Judge giving ‘credit to the father’ for having brought up the son without ‘brainwashing’ him against the mother. Having regard to the careful observations of the son by the District Judge during the interview, and the thoughtful conclusions she made, I must reject the allegation as baseless. 
 
-12     Next, the appellant submitted that the District Judge failed to give effect to the practice of the courts that all things being equal they would lean in favour of the mother being given custody of young infants of tender years: _Soon Peck Wan v Won Che Chye_ [1998] 1 SLR 234 CA. The District Judge pointedly stated that “all things are not equal in this case and the father is the preferred 
+12     Next, the appellant submitted that the District Judge failed to give effect to the practice of the courts that all things being equal they would lean in favour of the mother being given custody of young infants of tender years: _Soon Peck Wan v Won Che Chye_ <span class="citation">[1998] 1 SLR 234</span> CA. The District Judge pointedly stated that “all things are not equal in this case and the father is the preferred 
 
 
 custodian”. Further, the tender years doctrine had no application in this case where the son was soon attaining 7 years of age. 

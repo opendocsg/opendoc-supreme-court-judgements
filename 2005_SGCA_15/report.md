@@ -52,7 +52,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Appellant convicted of
 
 s 5(4)(b) of the first two columns of the Schedule, which provides for the offence of unauthorised trafficking of more than 15g of diamorphine. The punishment for the offence is clearly prescribed in the sixth column as “Death”. 
 
-12     In _Nguyen Tuong Van v PP_ [2005] 1 SLR 103 (“ _Nguyen Tuong Van_ ”), to which the Prosecution referred, this court had emphatically stated, and had put beyond doubt, that the death penalty prescribed in the MDA, in that case for importing more than 15g of diamorphine, is a _mandatory_ sentence. In this regard, the court had expressed at [48]–[53] that: 
+12     In _Nguyen Tuong Van v PP_ <span class="citation">[2005] 1 SLR 103</span> (“ _Nguyen Tuong Van_ ”), to which the Prosecution referred, this court had emphatically stated, and had put beyond doubt, that the death penalty prescribed in the MDA, in that case for importing more than 15g of diamorphine, is a _mandatory_ sentence. In this regard, the court had expressed at [48]–[53] that: 
 
  48 ... If Parliament had intended to confer on the sentencing court a discretion to impose a range of punishments, it could have provided for it. Further, if a range of sentences is prescribed for the import of a range of diamorphine below 15g and not less than 10g, it is illogical to think that Parliament would in respect of any unauthorised import of diamorphine of more than 15g confer a discretion on the sentencing court to impose any sentence up to the maximum sentence of death. 
 

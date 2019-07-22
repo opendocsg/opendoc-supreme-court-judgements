@@ -49,7 +49,7 @@ witnesses as regards the identity and involvement of Lau De”. [note: 2] The Pr
 
  ... [T]he onus is on Cheong to rebut the said presumption. He has sought to do so by reference to the existence of one ‘Lau De’, in attempting to explain his alleged belief that [the luggage bag] contained gold bars. As such, it is for Cheong to adduce concrete information proving the existence of ‘Lau De’ if he wishes to substantiate his defence. In the absence of any such additional information, Cheong is hardly in a position to speculate... what such information would show. [note: 3] 
 
-9       The trial judge found both the Applicant and Pang guilty and convicted them accordingly. He rejected the Applicant’s defence in the following terms in his written grounds ( _Public Prosecutor v Pang Siew Fum and another_ [2010] SGHC 40 at [5]) (“ _Pang Siew Fum_ (HC)”): 
+9       The trial judge found both the Applicant and Pang guilty and convicted them accordingly. He rejected the Applicant’s defence in the following terms in his written grounds ( _Public Prosecutor v Pang Siew Fum and another_ <span class="citation">[2010] SGHC 40</span> at [5]) (“ _Pang Siew Fum_ (HC)”): 
 
  The second accused testified that he was asked by one “Lau De” to help bring gold bars to Singapore. He was handed a bag, supposedly to contain the gold, in a hotel in Myanmar. He checked the bag but did not see any gold and he assumed that the gold must be hidden in the 
 
@@ -58,7 +58,7 @@ witnesses as regards the identity and involvement of Lau De”. [note: 2] The Pr
 
 Following the conviction, the trial judge sentenced both the Applicant and Pang to death on 4 February 2010. 
 
-10     Both the Applicant and Pang appealed against their conviction and sentence. Their appeal was heard and dismissed by the Court of Appeal on 22 February 2011. In its written grounds, the court stated that the Applicant had failed to rebut the presumption of knowledge under s 18(2) of the MDA: _Pang Siew Fum & another v Public Prosecutor_ [2011] SGCA 5 at [83] – [99]. 
+10     Both the Applicant and Pang appealed against their conviction and sentence. Their appeal was heard and dismissed by the Court of Appeal on 22 February 2011. In its written grounds, the court stated that the Applicant had failed to rebut the presumption of knowledge under s 18(2) of the MDA: _Pang Siew Fum & another v Public Prosecutor_ <span class="citation">[2011] SGCA 5</span> at [83] – [99]. 
 
 11     On 14 November 2012, Parliament passed the Misuse of Drugs (Amendment) Act 2012 (Act No. 30 of 2012) (“the Amendment Act”). The Amendment Act introduced a new s 33B into the MDA with effect from 1 January 2013. The following parts of s 33B are relevant to this application: 
 
@@ -126,7 +126,7 @@ outside Singapore. [note: 5] On 9 January 2014, the Applicant filed OS 25/2014.
 
 **When will leave be granted to commence judicial review proceedings?** 
 
-15     An applicant seeking judicial review must meet three conditions for leave to be granted ( _Jeyaretnam Kenneth Andrew v Attorney-General_ [2013] 1 SLR 619 at [5] and affirmed by the Court of Appeal ([2014] 1 SLR 345 at [5])): 
+15     An applicant seeking judicial review must meet three conditions for leave to be granted ( _Jeyaretnam Kenneth Andrew v Attorney-General_ <span class="citation">[2013] 1 SLR 619</span> at [5] and affirmed by the Court of Appeal (<span class="citation">[2014] 1 SLR 345</span> at [5])): 
 
  (a) The subject matter must be susceptible to judicial review; 
 
@@ -242,9 +242,9 @@ question of the Applicant’s guilt. [note: 22] The trial judge therefore did no
 
 35     At the hearing before me, Mr Ravi raised, for the first time, the argument that the PP’s negative substantive assistance determination and the non-certification decision violated Article 12 of the Constitution of the Republic of Singapore (1985 Rev Ed, 1999 Reprint) (“the Constitution”). 
 
-36     In the context of executive actions, the equal protection clause in Article 12 is breached if “there is a deliberate and arbitrary discrimination against a particular person. Arbitrariness implies a lack of any rationality” ( _Public Prosecutor v Ang Soon Huat_ [1990] SLR 915 at [22]). This test was applied by the Court of Appeal in _Eng Foong Ho and others v Attorney-General_ [2009] 2 SLR(R) 542 in determining whether the acquisition by the Collector of Land Revenue of property on which a temple was located and not the properties of a nearby Mission and Church violated Article 12 of the Constitution. 
+36     In the context of executive actions, the equal protection clause in Article 12 is breached if “there is a deliberate and arbitrary discrimination against a particular person. Arbitrariness implies a lack of any rationality” ( _Public Prosecutor v Ang Soon Huat_ [1990] SLR 915 at [22]). This test was applied by the Court of Appeal in _Eng Foong Ho and others v Attorney-General_ <span class="citation">[2009] 2 SLR(R) 542</span> in determining whether the acquisition by the Collector of Land Revenue of property on which a temple was located and not the properties of a nearby Mission and Church violated Article 12 of the Constitution. 
 
-37     In the present case, the Applicant failed to provide any evidence that the PP deliberately and arbitrarily discriminated against him in making the negative substantive assistance determination and the non-certification decision. Therefore, the Applicant had not even established a _prima facie_ case of breach of Article 12 of the Constitution. Although the discretion to issue the certificate of substantive assistance is a power conferred by statute ( _ie_ , s 33B(2)( _b_ ) of the MDA) as opposed to one conferred by the Constitution, in view of the high constitutional office of the Attorney-General as the PP, the courts should proceed on the basis that the PP exercises his power in accordance with law unless shown otherwise ( _ie_ , there is a presumption of constitutionality and/or legality): _Ramalingam Ravinthran v Attorney-General_ [2012] 2 SLR 49 (“ _Ramalingam_ ”) at [45] – [47]. The burden is on the Applicant here to show that there is a _prima facie_ case of a breach of constitutional rights: see _Ramalingam_ at [70]. As stated earlier, he has failed to discharge this burden. 
+37     In the present case, the Applicant failed to provide any evidence that the PP deliberately and arbitrarily discriminated against him in making the negative substantive assistance determination and the non-certification decision. Therefore, the Applicant had not even established a _prima facie_ case of breach of Article 12 of the Constitution. Although the discretion to issue the certificate of substantive assistance is a power conferred by statute ( _ie_ , s 33B(2)( _b_ ) of the MDA) as opposed to one conferred by the Constitution, in view of the high constitutional office of the Attorney-General as the PP, the courts should proceed on the basis that the PP exercises his power in accordance with law unless shown otherwise ( _ie_ , there is a presumption of constitutionality and/or legality): _Ramalingam Ravinthran v Attorney-General_ <span class="citation">[2012] 2 SLR 49</span> (“ _Ramalingam_ ”) at [45] – [47]. The burden is on the Applicant here to show that there is a _prima facie_ case of a breach of constitutional rights: see _Ramalingam_ at [70]. As stated earlier, he has failed to discharge this burden. 
 
 **_Conclusion_** 
 

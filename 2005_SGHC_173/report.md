@@ -20,7 +20,7 @@ _Companies_ – _Schemes of arrangement_ – _Defendant club ordered to pay dama
 
 **Kan Ting Chiu J:** 
 
-1       On 23 August 2005, the Court of Appeal delivered its judgment ([2005] SGCA 40) and awarded $3,000 damages to each of the 4,895 members of the Raffles Town Club who had joined in the action. I shall refer to these 4,895 members as the litigant-members to distinguish them from the approximately 14,000 other members of the Club who did not join in the action. 
+1       On 23 August 2005, the Court of Appeal delivered its judgment (<span class="citation">[2005] SGCA 40</span>) and awarded $3,000 damages to each of the 4,895 members of the Raffles Town Club who had joined in the action. I shall refer to these 4,895 members as the litigant-members to distinguish them from the approximately 14,000 other members of the Club who did not join in the action. 
 
 2       After receiving the judgment, the defendant, Raffles Town Club Pte Ltd (“the Club”), took steps under s 210 of the Companies Act (Cap 50, 1994 Rev Ed) (“the Act”) to put forward a scheme of compromise and arrangement to its creditors. An application was filed to set this in motion. 
 

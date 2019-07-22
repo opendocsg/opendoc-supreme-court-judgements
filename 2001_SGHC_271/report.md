@@ -423,7 +423,7 @@ decide whether she, or her staff, would prepare the accounts for PT NSP. That wa
 
 78\. Accordingly, I was of the view that Nippon SPT was entitled to exercise and did exercise its rights under Clause 15. It had validly terminated Ms Hui's employment. 
 
-79\. Even if Nippon SPT had initially omitted to give one month's salary in lieu of notice, the extent of Ms Hui's damages would be the amount which she would have received until her employment was lawfully terminated, see Alexander Proudfoot Productivity Services Co Singapore Pte Ltd v Sim Hua Ngee Alvin [1993] 1 SLR 494 and Latham v Credit Suisse Boston [2000] 2 SLR 693. This would have been the one month's salary in lieu of notice. 
+79\. Even if Nippon SPT had initially omitted to give one month's salary in lieu of notice, the extent of Ms Hui's damages would be the amount which she would have received until her employment was lawfully terminated, see Alexander Proudfoot Productivity Services Co Singapore Pte Ltd v Sim Hua Ngee Alvin <span class="citation">[1993] 1 SLR 494</span> and Latham v Credit Suisse Boston <span class="citation">[2000] 2 SLR 693</span>. This would have been the one month's salary in lieu of notice. 
 
 
 ### OTHER SUBMISSIONS FOR MS HUI 

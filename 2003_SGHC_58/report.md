@@ -76,7 +76,7 @@ and/or fraudulent in his actions for the purposes of the offence under s 468 rea
 
 _Whether the district judge erred in accepting Evelyn’s and Trevor’s evidence_ 
 
-19     It is trite law that an appellate court should be slow to disturb a trial judge’s finding of fact on the credibility of a witness, especially when they are based on his demeanour during trial: see _Lim Ah Poh v PP_ [1992] 1 SLR 704 _, Ang Jwee Herng v PP_ [2001] 2 SLR 474. 
+19     It is trite law that an appellate court should be slow to disturb a trial judge’s finding of fact on the credibility of a witness, especially when they are based on his demeanour during trial: see _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 704</span> _, Ang Jwee Herng v PP_ <span class="citation">[2001] 2 SLR 474</span>. 
 
 20     The burden on Mr Tan here was a heavy one, and he failed to discharge it. I found Evelyn’s instruction neither illogical nor unreasonable. It is clearly stated on the face of the rebate certificate that the use of the rebates was limited to the registration of a new car in the name of the holder of the certificate. Without an explicit transfer of the rebates by her, it remained her property in law. It was good consideration as payment for her new car since it could help defray the costs of registration which the company had to bear. This, however, surely did not mean that the company was free to deal with it without her consent. 
 

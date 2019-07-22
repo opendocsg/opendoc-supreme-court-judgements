@@ -34,18 +34,18 @@ Section 21 of the Act, states as follows:
 
 The applicant also showed to the court his very impressive credentials. It was obvious that the requirements of special qualifications and experience under s 21(1) of the Act were not in issue. 
 
-In **Re Oliver David Keightley Rideal QC** [1992] 2 SLR 400 at 402D, Chan Sek Keong J (as he then was) very accurately pointed out that the amendment in 1991, Act No 10 of 1991, to s 21 was aimed at specifying some guidelines in the ad hoc admission of Queen`s Counsel. The objective of the amendment was to help develop a strong core of good advocates at the local Bar, by `the imposition of more stringent conditions for the admission of Queen`s Counsel to appear in our courts, but, at the same time, to continue to allow litigants to avail of their services in appropriate cases`. In **Price Arthur Leolin v A-G** [1992] 2 SLR 972 at 975E, I stated that: 
+In **Re Oliver David Keightley Rideal QC** <span class="citation">[1992] 2 SLR 400</span> at 402D, Chan Sek Keong J (as he then was) very accurately pointed out that the amendment in 1991, Act No 10 of 1991, to s 21 was aimed at specifying some guidelines in the ad hoc admission of Queen`s Counsel. The objective of the amendment was to help develop a strong core of good advocates at the local Bar, by `the imposition of more stringent conditions for the admission of Queen`s Counsel to appear in our courts, but, at the same time, to continue to allow litigants to avail of their services in appropriate cases`. In **Price Arthur Leolin v A-G** <span class="citation">[1992] 2 SLR 972</span> at 975E, I stated that: 
 
 
  The objective of the amendment was to help the development of a strong core of good advocates at the local bar by restricting access to Queens Counsel only in the more difficult and complex cases. 
 
 The amendment to s 21 of the Act thus requires the court to take into account two additional requirements: (1) that the case must be of sufficient difficulty and complexity; and (2) the circumstances of the case. 
 
-Again, I took the opportunity to clarify this in **Re Caplan Jonathan Michael QC (No 2)** [1998] 1 SLR 440 at [para ]11: 
+Again, I took the opportunity to clarify this in **Re Caplan Jonathan Michael QC (No 2)** <span class="citation">[1998] 1 SLR 440</span> at [para ]11: 
 
  At the first stage, the applicant must demonstrate that the case in which he seeks to appear contains issues of law and/or fact of sufficient difficulty and complexity to require elucidation and/or argument by a Queens Counsel. Such difficulty or complexity is not of itself a guarantee of admission, for the decision to admit is still a matter for the courts discretion. At the second stage, therefore, the applicant must persuade the court that the circumstances of the particular case warrant the court exercising its discretion in favour of his admission. Finally, he has to satisfy the court of his suitability for admission. 
 
-Our courts have had a decade in dealing with s 21(1) of the Act. As it was quite rightly pointed out by Lai Kew Chai J in **Re Flint Charles John Raffles QC** [2001] 2 SLR 276 at [para ]9, the local Bar has matured and is acquitting itself commendably. Lai J has put this elegantly: 
+Our courts have had a decade in dealing with s 21(1) of the Act. As it was quite rightly pointed out by Lai Kew Chai J in **Re Flint Charles John Raffles QC** <span class="citation">[2001] 2 SLR 276</span> at [para ]9, the local Bar has matured and is acquitting itself commendably. Lai J has put this elegantly: 
 
  There has been forged and carefully nurtured, particularly over the last ten years, a body of Senior Counsel, potential senior counsel and an impressive group of young advocates and solicitors, both in the public service and in the private sector, with excellent academic credentials and a right attitude. The process continues during which opportunities must be judiciously offered and challenges thrown, though never at the expense of justice to any litigant before our courts. 
 
@@ -55,7 +55,7 @@ It is in this context that the court has then to analyse the nature of the suit 
 
 The plaintiffs are the proprietors of three patents of a moulding machine. The patents relate to different parts of a moulding machine for moulding semiconductor lead frames. They are Patent No 35031 for a `Modular Moulding Apparatus`, Patent No 52483 for a `Single Strip Moulding Apparatus with Means for Exerting Pressure`, and Patent No 56503 for a `Press for Encapsulating Electronic Components and Methods for Use of the Press`. The plaintiffs` claim against the defendants was about an allegation that certain mechanical parts of the defendants` IDEALmold infringed their three patents. The plaintiffs asked for an injunction, damages and costs in relation to the alleged infringement. The trial of this matter has been fixed for August 2001. 
 
-As I stated in **Price Arthur Leolin v A-G** [1992] 2 SLR 972 at 975H, the onus is on the applicants to 
+As I stated in **Price Arthur Leolin v A-G** <span class="citation">[1992] 2 SLR 972</span> at 975H, the onus is on the applicants to 
 
 
 show in an affidavit the specific issues for which admission is sought and persuade the court that they are complex and difficult. 
@@ -72,9 +72,9 @@ In the affidavit, the applicant stated three main issues to justify his admissio
 
 **_The first issue_** 
 
-The test to be used to determine novelty and inventive step has been twice ruled on by the Court of Appeal, in both **Merck & Co Inc v Pharmaforte Singapore** [2000] 3 SLR 717 and **Genelabs Diagnostics v Institut Pasteur** [2001] 1 SLR 121. 
+The test to be used to determine novelty and inventive step has been twice ruled on by the Court of Appeal, in both **Merck & Co Inc v Pharmaforte Singapore** <span class="citation">[2000] 3 SLR 717</span> and **Genelabs Diagnostics v Institut Pasteur** <span class="citation">[2001] 1 SLR 121</span>. 
 
-The High Court, in hearing the case, will have to decide the issue in accordance with these decisions. In **Re Price Arthur Leolin QC** [1998] 3 SLR 782 at [para ]16, I made it clear that once there is a precedent binding the High Court, the High Court, in hearing the case, will have to rule in accordance with that precedent. In such circumstances, the first issue posed no complexity. 
+The High Court, in hearing the case, will have to decide the issue in accordance with these decisions. In **Re Price Arthur Leolin QC** <span class="citation">[1998] 3 SLR 782</span> at [para ]16, I made it clear that once there is a precedent binding the High Court, the High Court, in hearing the case, will have to rule in accordance with that precedent. In such circumstances, the first issue posed no complexity. 
 
 **_The second issue_** 
 
@@ -97,7 +97,7 @@ It was thus clear that this case did not pass the first stage of the test.
 
 At the second stage, the court has to balance the need to foster a strong and independent Bar and the individual justice of each case which demands the special skills of a Queen`s Counsel. 
 
-The applicant cited several reasons in his affidavit, the main reason of which was an allegation that the level of patent expertise in Singapore was low. Such a statement was hardly justifiable. I will merely cite a number of patent cases, involving local counsel. **V-Pile Technology (Luxembourg) SA v Peck Bros Construction** [2000] 3 SLR 358 was a case about whether the defendants` machine infringed the plaintiffs` patent. It also touched on whether the invention possessed any inventive step. In **_Merck & Co Inc v Pharmaforte Singapore_** (supra), the issues were whether the lack of utility rendered the invention devoid of novelty, and whether the invention was obvious to a person skilled in the art. The case of **Flexon v Bean Innovations** [2001] 1 SLR 24 touched on the issues of groundless threats of infringement proceedings and the applicability of s 77(4) of the Patents Act, as well as the construction of the claims in specification of the defendants` patent. In **_Genelabs Diagnostics v Institut Pasteur_** (supra), the issues touched on novelty, inventive step, sufficiency of disclosure, infringement and acquiescence. 
+The applicant cited several reasons in his affidavit, the main reason of which was an allegation that the level of patent expertise in Singapore was low. Such a statement was hardly justifiable. I will merely cite a number of patent cases, involving local counsel. **V-Pile Technology (Luxembourg) SA v Peck Bros Construction** <span class="citation">[2000] 3 SLR 358</span> was a case about whether the defendants` machine infringed the plaintiffs` patent. It also touched on whether the invention possessed any inventive step. In **_Merck & Co Inc v Pharmaforte Singapore_** (supra), the issues were whether the lack of utility rendered the invention devoid of novelty, and whether the invention was obvious to a person skilled in the art. The case of **Flexon v Bean Innovations** <span class="citation">[2001] 1 SLR 24</span> touched on the issues of groundless threats of infringement proceedings and the applicability of s 77(4) of the Patents Act, as well as the construction of the claims in specification of the defendants` patent. In **_Genelabs Diagnostics v Institut Pasteur_** (supra), the issues touched on novelty, inventive step, sufficiency of disclosure, infringement and acquiescence. 
 
 Queen`s Counsel should only be admitted for complex and difficult cases where the necessary knowledge and experience is not available from, or cannot be provided by, local counsel. This was not one of those cases. 
 

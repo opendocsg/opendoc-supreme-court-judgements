@@ -96,7 +96,7 @@ made by anyone in this case and neither did the wife apply for the interim judgm
 
 12 “Child” in section 123 is defined as a “child of the marriage” who is below 21 years of age (section 122 read with section 92 of the Women’s Charter). Section 123 therefore obliges the court to consider whether satisfactory arrangements have been made for the welfare of the two children of the husband and the wife in the present case. 
 
-13     The husband contended that the threshold for the court’s satisfaction was not a high one, relying on _ZK v ZL_ [2008] SGDC 376 which held that: 
+13     The husband contended that the threshold for the court’s satisfaction was not a high one, relying on _ZK v ZL_ <span class="citation">[2008] SGDC 376</span> which held that: 
 
  [8] ...all that is required for the test to be met is that arrangements have been made for the welfare of the children and that those arrangements are satisfactory. The function of the court at this stage is quite different from its function in the hearing for ancillary relief. The test at this stage is not whether the arrangements for the children are ideal or the best. The purpose of the provision is to make sure that the welfare of the children is not overlooked before the judgment is made final. 
 

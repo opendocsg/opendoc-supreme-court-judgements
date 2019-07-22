@@ -720,7 +720,7 @@ reproduced above, the editors say (at p 368):
  If and when this takes place, there would be much scope for the protection of privacy, since the tort may, if fully developed, protect against distress, inconvenience and discomfort. The main difficulty against the adoption of the tort of harassment in Singapore is a passage from the decision of Selvam J in Arul Chandran v Gartshore which suggests that mental distress is not actionable. It is submitted that Selvam Js statement that mental distress is not actionable should not preclude the development and acceptance of a tort of intentional harassment in Singapore for several reasons. First, the statement of Selvam J was only an obiter dicta in respect of recovery for mental distress in tort, since the case before Selvam J involved a claim for breach of contract. Secondly, Selvam J relied on old judgments that mental distress was not recoverable. Selvam Js attention was not drawn to the modern cases including those cited in this part of the chapter that support the view that there can be a cause of action based on intentionally causing mental distress. Thirdly, Selvam Js suggestion that such damages should not be recoverable on the basis that they are difficult to quantify is not a good reason to deny a remedy. The courts are adept in quantifying damages ... 
 
 
-The passage in **Arul Chandran v Gartshore** [2000] 2 SLR 446 that the editors are referring to is 
+The passage in **Arul Chandran v Gartshore** <span class="citation">[2000] 2 SLR 446</span> that the editors are referring to is 
 
 probably [para ]13 in which the judge said: 
 

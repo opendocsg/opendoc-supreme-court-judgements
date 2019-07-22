@@ -283,11 +283,11 @@ shares was unenforceable under s 7(2) CLA.[note: 7] This was a reference to an o
 29     Mr Ponniah, counsel for Siew Lay, submitted that s 7(2) CLA was not applicable because her equitable interest in the shares had been converted into cash of $2 million (being the sale proceeds of 
 
 
-the shares). He relied on _Tsu Soo Sin nee Oei Karen v Ng Yee Hoon_ [2008] SGHC 30 (“ _Tsu Soo Sin_ ”) for this argument. 
+the shares). He relied on _Tsu Soo Sin nee Oei Karen v Ng Yee Hoon_ <span class="citation">[2008] SGHC 30</span> (“ _Tsu Soo Sin_ ”) for this argument. 
 
-30     Mr Ponniah also submitted that there was part performance of a consensual family arrangement as to the distribution of Mr Ong’s shares. He submitted that in such a situation, equity would not permit a statute to be used as an instrument of fraud, citing _Re Estate of Tan Kow Quee (alias Tan Kow Kwee)_ [2007] 2 SLR 417 (“ _Estate of Tan Kow Quee_ ”). 
+30     Mr Ponniah also submitted that there was part performance of a consensual family arrangement as to the distribution of Mr Ong’s shares. He submitted that in such a situation, equity would not permit a statute to be used as an instrument of fraud, citing _Re Estate of Tan Kow Quee (alias Tan Kow Kwee)_ <span class="citation">[2007] 2 SLR 417</span> (“ _Estate of Tan Kow Quee_ ”). 
 
-31     Thirdly, Mr Ponniah submitted that as Boon Chuan had received the return of the $2 million on the basis that he would return the money to Siew Lay, Boon Chuan is a constructive trustee of the money. He relied on _Koh Kim Eng v Lim Geok Yian_ [2001] 4 SLR 219 (“ _Koh Kim Eng_ ”) for this argument. 
+31     Thirdly, Mr Ponniah submitted that as Boon Chuan had received the return of the $2 million on the basis that he would return the money to Siew Lay, Boon Chuan is a constructive trustee of the money. He relied on _Koh Kim Eng v Lim Geok Yian_ <span class="citation">[2001] 4 SLR 219</span> (“ _Koh Kim Eng_ ”) for this argument. 
 
 **_My decision_** 
 

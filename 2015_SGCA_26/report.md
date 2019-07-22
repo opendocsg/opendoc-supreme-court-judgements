@@ -29,7 +29,7 @@ _Mental disorders and treatment_ – _Legal c apac ity_
 
 have no interest in the third respondent’s money, and that it is in fact the first and second respondents who seek to manipulate her for financial gain. 
 
-4       The application was heard at first instance by a Senior District Judge in the Family Court (“the SDJ”), who agreed with the appellants and found that the third respondent lacked decision-making capacity. The appellants were duly appointed as the third respondent’s deputies. The SDJ’s written decision was published as [2012] SGDC 489 (“the First Instance GD”). All three respondents appealed and the matter went before the High Court judge below (“the Judge”). In her judgment reported as _Re BKR_ [2013] 4 SLR 1257 (“the Judgment”) the Judge reversed the decision of the SDJ. The appellants now appeal to this court. 
+4       The application was heard at first instance by a Senior District Judge in the Family Court (“the SDJ”), who agreed with the appellants and found that the third respondent lacked decision-making capacity. The appellants were duly appointed as the third respondent’s deputies. The SDJ’s written decision was published as <span class="citation">[2012] SGDC 489</span> (“the First Instance GD”). All three respondents appealed and the matter went before the High Court judge below (“the Judge”). In her judgment reported as _Re BKR_ <span class="citation">[2013] 4 SLR 1257</span> (“the Judgment”) the Judge reversed the decision of the SDJ. The appellants now appeal to this court. 
 
 5       As this is a long judgement, it may be of assistance to the reader if we signposted it by providing a broad outline of how its contents have been organised: 
 

@@ -78,7 +78,7 @@ defendant to seek:
 
 **The decision below** 
 
-12     The plaintiff’s application came on for hearing before a judge. Although the defendant opposed the plaintiff’s application, no affidavit was filed in opposition to it. After hearing counsel and reserving judgment, the judge dismissed the application (see _Cheng-Wong Mei Ling Theresa v Oei Hong Leong_ [2006] 1 SLR 145). 
+12     The plaintiff’s application came on for hearing before a judge. Although the defendant opposed the plaintiff’s application, no affidavit was filed in opposition to it. After hearing counsel and reserving judgment, the judge dismissed the application (see _Cheng-Wong Mei Ling Theresa v Oei Hong Leong_ <span class="citation">[2006] 1 SLR 145</span>). 
 
 13     In her grounds of decision , the judge dealt with the defendant’s counsel’s preliminary objection that the plaintiff did not have _locus standi_ to seek the declaration because she had not completed the purchase of the property, and that only a registered proprietor had the right to do that: 
 
@@ -95,7 +95,7 @@ While we agree that the plaintiff had an equitable interest in the property unde
 
  While there may be doubt in other jurisdictions, in Singapore the view of the courts is clearly that the equitable ownership passes when the contract is enforceable and binding. [emphasis added] 
 
-citing the decisions of the Court of Appeal in _Lee Christina v Lee Eunice_ [1993] 3 SLR 8 and _British Malayan Trustees Ltd v Sindo Realty Pte Ltd_ [1999] 1 SLR 623. 
+citing the decisions of the Court of Appeal in _Lee Christina v Lee Eunice_ <span class="citation">[1993] 3 SLR 8</span> and _British Malayan Trustees Ltd v Sindo Realty Pte Ltd_ <span class="citation">[1999] 1 SLR 623</span>. 
 
 16     In _Lysaght v Edwards_ , Jessel MR had explained at 506–507: 
 
@@ -105,7 +105,7 @@ citing the decisions of the Court of Appeal in _Lee Christina v Lee Eunice_ [199
 
  Now, what is the meaning of the term “valid contract?” “Valid contract” means in every case a contract sufficient in form and in substance, so that there is no ground whatever for setting it aside as between the vendor and purchaser—a contract binding on both parties. 
 
-17     The same proposition (and more) was stated without reference to _Lysaght v Edwards_ by the Court of Appeal in _Chi Liung Holdings Sdn Bhd v AG_ [1994] 2 SLR 354 (“ _Chi Liung Holdings_ ”) at 364, [34]: 
+17     The same proposition (and more) was stated without reference to _Lysaght v Edwards_ by the Court of Appeal in _Chi Liung Holdings Sdn Bhd v AG_ <span class="citation">[1994] 2 SLR 354</span> (“ _Chi Liung Holdings_ ”) at 364, [34]: 
 
  One of [counsel’s] contentions was that a sale of a property is made when a contract for the sale and purchase is entered into and the purchaser becomes the beneficial owner of the property. We accept that general proposition as correct. But it is premised on the availability of specific performance , as equity looks upon as done what has been agreed to be done and the purchaser is deemed the owner in equity as at the date of the contract. If, for any reason, specific performance is not available, the purchaser is not deemed to have been the owner of the property. [emphasis added] 
 
@@ -120,7 +120,7 @@ agreements. The court held that the undertaking was not breached because until t
 
 21     However, it does not follow that whenever an act of a third party is required (such as the Controller’s approval or the court’s declaration), no equitable interest passes until that condition is fulfilled. 
 
-22     It is established law that a condition in a contract for the exclusive benefit of one party may be waived by that party, as illustrated in _Chip Thye Enterprise Pte Ltd v Development Bank of Singapore Ltd_ [1994] 3 SLR 613. Clause 8 in the agreement was intended exclusively for the benefit of the plaintiff. If she did not obtain the declaration, she could rely on the clause and call off the purchase. However, it was within her right to waive that benefit and seek specific performance of the agreement without the declaration. 
+22     It is established law that a condition in a contract for the exclusive benefit of one party may be waived by that party, as illustrated in _Chip Thye Enterprise Pte Ltd v Development Bank of Singapore Ltd_ <span class="citation">[1994] 3 SLR 613</span>. Clause 8 in the agreement was intended exclusively for the benefit of the plaintiff. If she did not obtain the declaration, she could rely on the clause and call off the purchase. However, it was within her right to waive that benefit and seek specific performance of the agreement without the declaration. 
 
 23     On the facts, it is unlikely that there would be a waiver by the plaintiff, but that is not the issue. The question is whether specific performance is available to her, and the answer is it is if she wants it. When the agreement was signed, specific performance was available to the plaintiff, and she had thereby acquired the equitable interest and _locus standi_ to seek the declaration. It may be that if she fails to obtain the declaration, she may not want to complete the purchase, but that does not detract from the fact that specific performance is available to her now. The situation in _Chi Liung Holdings_ is different because the condition specifying qualifying certificates must be obtained for the sale of the properties to be completed was not incorporated for the exclusive benefit of either party. It was a statutory requirement which could not be waived. 
 
@@ -139,7 +139,7 @@ and went on to state at [17] that:
 
  authority must be for development and subdivision although it is not necessary that development and subdivision must take place at the same time. [emphasis in original] 
 
-27     She referred to the decision of this court in _MCST Plan No 549 v Chew Eu Hock Construction Co Pte Ltd_ [1998] 3 SLR 366 where it was stated at [31] that: 
+27     She referred to the decision of this court in _MCST Plan No 549 v Chew Eu Hock Construction Co Pte Ltd_ <span class="citation">[1998] 3 SLR 366</span> where it was stated at [31] that: 
 
  The plain language of s 99(1) does not require an approval of both the development and the subdivision of land to be given at one and the same time, and there is nothing in that provision requiring the contemporaneous approvals for both the processes. In our opinion, there is no reason why s 99(1) should not be applicable merely because the approval for development has been granted before the grant of the approval of subdivision for the land, as was the present case. 
 

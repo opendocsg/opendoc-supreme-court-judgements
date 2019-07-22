@@ -137,12 +137,12 @@ _Contract_ – _offer and acceptance_
 
 30     th Ed, 2008) vol 1, at para 2-027). 
 
-21     In _Projection Pte Ltd v The Tai Ping Insurance Co Ltd_ [2001] 1 SLR(R) 798, the Court of Appeal cited with approval at [16] the following words of Lord Denning MR in Port Sudan Cotton Co v Govindaswamy Chettiar & Sons [1977] 2 Lloyd’s Rep 5 at 10: 
+21     In _Projection Pte Ltd v The Tai Ping Insurance Co Ltd_ <span class="citation">[2001] 1 SLR(R) 798</span>, the Court of Appeal cited with approval at [16] the following words of Lord Denning MR in Port Sudan Cotton Co v Govindaswamy Chettiar & Sons [1977] 2 Lloyd’s Rep 5 at 10: 
 
  ... I do not much like the analysis in the text-books of inquiring whether there was an offer and acceptance, or a counter-offer, and so forth. I prefer to examine the whole of the documents in the case and decide from them whether the parties did reach an agreement upon all material terms in such circumstances that the proper inference is that they agreed to be bound by those terms from that time onwards. 
 
 
-22     The position was reiterated in _Midlink Development Pte Ltd v The Stansfield Group Pte Ltd_ [2004] 4 SLR(R) 258 (“ _Midlink_ ”) by Rajah JC, who said at [48]: 
+22     The position was reiterated in _Midlink Development Pte Ltd v The Stansfield Group Pte Ltd_ <span class="citation">[2004] 4 SLR(R) 258</span> (“ _Midlink_ ”) by Rajah JC, who said at [48]: 
 
  Acceptance in a contractual setting must be ascertained objectively. Acceptance can be signified orally, in writing or by conduct. When there is a history of negotiations and discussions, the court will look at the whole continuum of facts in concluding whether a contract exists. 
 
@@ -152,9 +152,9 @@ _Contract_ – _offer and acceptance_
 
 25     In my view, the payment schedule was an important term of both the Sundercan and Mallart Agreements and there was no mechanism for determining the payment schedule other than by future agreement between the parties. For instance, in regard to the Sundercan Agreement, Rachel stated on 22 October 2008 that if “a changed schedule is needed, we will inform you before we initial so that you can decide if the change is acceptable”. Similarly, in regard to the Mallart Agreement, Rachel wrote “This way we can go ahead immediately after we confirm the old schedule or in the worst case, agree with you on a new one”. This was akin to an agreement to negotiate which, as is clear from the decision of the House of Lords in _Walford v Miles_ [1992] 2 AC 128, is unenforceable because it lacks the necessary certainty. 
 
-26     As for the plaintiffs’ argument that the defendant’s conduct subsequent to 23 October 2008 was consistent with the existence of a concluded contract, it is not entirely clear as to whether the courts can look at conduct subsequent to the time of the formation of the contract to determine whether a contract was concluded. The plaintiffs relied on two cases, namely _Econ Piling Pte Ltd v NCC International AB_ [2008] SGHC 26 (“Econ Piling”) and _Midlink_ to support their proposition but the point was not argued there. The courts there appeared to have assumed that subsequent conduct could be considered to determine the existence of a contract. I would add that estoppel by convention is a different matter. 
+26     As for the plaintiffs’ argument that the defendant’s conduct subsequent to 23 October 2008 was consistent with the existence of a concluded contract, it is not entirely clear as to whether the courts can look at conduct subsequent to the time of the formation of the contract to determine whether a contract was concluded. The plaintiffs relied on two cases, namely _Econ Piling Pte Ltd v NCC International AB_ <span class="citation">[2008] SGHC 26</span> (“Econ Piling”) and _Midlink_ to support their proposition but the point was not argued there. The courts there appeared to have assumed that subsequent conduct could be considered to determine the existence of a contract. I would add that estoppel by convention is a different matter. 
 
-27     Furthermore, in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029, the Court of Appeal observed at [132(d)] as follows: 
+27     Furthermore, in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span>, the Court of Appeal observed at [132(d)] as follows: 
 
  ... However, the principle of objectively ascertaining contractual intention(s) remains paramount. Thus, the extrinsic evidence must always go towards proof of what the parties, from an objective viewpoint, ultimately agreed upon. Further, where extrinsic evidence in the form of prior negotiations and subsequent conduct is concerned, ... there should be no absolute or rigid prohibition against evidence of previous negotiations or subsequent conduct, although, in the normal case, such evidence is likely to be inadmissible for non-compliance with the requirements set out at [125] and [128-129] above. (We should add that the relevance of subsequent conduct remains a controversial and evolving topic that will require more extensive scrutiny by this court at a more appropriate juncture.) 
 

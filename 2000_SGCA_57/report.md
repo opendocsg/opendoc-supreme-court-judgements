@@ -107,7 +107,7 @@ Before us, Beng Tiong did not challenge these findings of the trial judge. Lee, 
 We agreed entirely with the trial judge`s conclusion and reasoning on the issue of repudiation. Assuming that the breaches of the agency agreement by Beng Tiong amounted to a repudiation of the agency agreement, there was no acceptance of such repudiation by Lee. Unless and until the repudiation was accepted, the contract continued to be in existence, for `an unaccepted repudiation is a thing writ in water`: **_Chitty on Contracts_** Vol 1 General Principles (28th Ed, 1999) at para 25
 
 
-012\. This position was adumbrated by this court in **Brown Noel Trading Pte Ltd v Donald & McArthy Pte Ltd** [1997] 1 SLR 1 at [para ] 26, where the court said: 
+012\. This position was adumbrated by this court in **Brown Noel Trading Pte Ltd v Donald & McArthy Pte Ltd** <span class="citation">[1997] 1 SLR 1</span> at [para ] 26, where the court said: 
 
  There was thus a wrongful repudiation of the contract by the defendants. That, however, did not conclude the matter, because the repudiatory breach by the defendants did not automatically terminate the contract. The third party had a right to elect whether or not to accept the repudiation and treat the contract as at an end. They did not exercise their right and accept the repudiation by the defendants, and in consequence the contract was kept alive and remained in force for the benefit of both parties. 
 

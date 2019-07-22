@@ -16,7 +16,7 @@
 
 _Building and construction law_ – _Dispute resolution_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 204 of 2018 was allowed by the Court of Appeal on 26 March 2019. See [2019] SGCA 36.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 204 of 2018 was allowed by the Court of Appeal on 26 March 2019. See <span class="citation">[2019] SGCA 36</span>.] 
 
 27 November 2018 
 
@@ -96,7 +96,7 @@ under that Act. [note: 17]
 
 issued in accordance with the terms of the Conditions of Contract. [note: 18] In addition, PC 73 was to 
 
-be regarded as the final payment claim. [note: 19] In this regard, the developer relied on the _obiter dicta_ remarks of the court in _Lau Fook Hoong Adam v GTH Engineering & Construction Pte Ltd_ [2015] 4 SLR 615 (“ _Lau Fook Hoong_ ”) which it said supported its arguments. 
+be regarded as the final payment claim. [note: 19] In this regard, the developer relied on the _obiter dicta_ remarks of the court in _Lau Fook Hoong Adam v GTH Engineering & Construction Pte Ltd_ <span class="citation">[2015] 4 SLR 615</span> (“ _Lau Fook Hoong_ ”) which it said supported its arguments. 
 
 **_Adjudication application objection_** 
 
@@ -114,7 +114,7 @@ the LOA was signed ( _ie_ , 29 November 2010). [note: 21] Taking the date of the
 
 **_Waiver and estoppel_** 
 
-16     The developer submitted that although it had not issued a payment response to PC 75, it was not precluded from raising arguments concerning the adjudicator’s jurisdiction in these proceedings. It argued that the requirement in _Audi Construction Pte Ltd v Kian Hiap Construction Pte Ltd_ [2018] 1 SLR 317 (“ _Audi Construction_ ”) for a respondent to raise jurisdictional objections in a payment response or otherwise be regarded as having waived its right to object was inapplicable in the present 
+16     The developer submitted that although it had not issued a payment response to PC 75, it was not precluded from raising arguments concerning the adjudicator’s jurisdiction in these proceedings. It argued that the requirement in _Audi Construction Pte Ltd v Kian Hiap Construction Pte Ltd_ <span class="citation">[2018] 1 SLR 317</span> (“ _Audi Construction_ ”) for a respondent to raise jurisdictional objections in a payment response or otherwise be regarded as having waived its right to object was inapplicable in the present 
 
 case. [note: 23] 
 
@@ -316,7 +316,7 @@ and the developer to inform them that PC 73 should not be treated as its final p
 
 question was its “final account” document upon a request for clarification from the quantity surveyor (see _Lau Fook Hoong_ at [8]–[9]). Thus the principle expressed, _obiter_ , in _Lau Fook Hoong_ that no further payment claims should be submitted after the final payment claim as this would defeat the final nature of the final payment claim and accounting process (see _Lau Fook Hoong_ at [48]–[49]) was not applicable in this case as PC 73 was not the final payment claim. I therefore rejected the developer’s submission that PC 75 was invalid as it was issued after the final payment claim and final certificate were issued. 
 
-48     In any event, as PC 75 was essentially a repeat of PC 73 which had not been adjudicated upon, the contractor was also entitled under s 10(4) of the SOPA to submit PC 75 even if PC 73 was deemed the final payment claim. In _Grouteam Pte Ltd v UES Holdings Pte Ltd_ [2016] 5 SLR 1011, the Court of Appeal held that a “payment claim which merely repeated an earlier claim” is permissible under s 10(4) of the SOPA “where a previous payment claim for the same work or goods was not in fact adjudicated on the merits” (at [57]). The Court of Appeal explained that the mechanism under s 10(4) of the SOPA addresses the potential draconian effect from the mandatory requirement under s 10(2) for payment claims to be served in accordance with stipulated timelines (at [56]–[58]). 
+48     In any event, as PC 75 was essentially a repeat of PC 73 which had not been adjudicated upon, the contractor was also entitled under s 10(4) of the SOPA to submit PC 75 even if PC 73 was deemed the final payment claim. In _Grouteam Pte Ltd v UES Holdings Pte Ltd_ <span class="citation">[2016] 5 SLR 1011</span>, the Court of Appeal held that a “payment claim which merely repeated an earlier claim” is permissible under s 10(4) of the SOPA “where a previous payment claim for the same work or goods was not in fact adjudicated on the merits” (at [57]). The Court of Appeal explained that the mechanism under s 10(4) of the SOPA addresses the potential draconian effect from the mandatory requirement under s 10(2) for payment claims to be served in accordance with stipulated timelines (at [56]–[58]). 
 
 49     The developer argued that s 10(4) of the SOPA was applicable in the context of interim payment claims but was not applicable after the final payment claim and/or final certificate had been issued. However I found that the developer’s reading of s 10(4) was not justified by the wording of the section. Under s 10(4), the only restriction on the contractor’s right to submit a repeat claim is that the preceding claim must have been served within six years after the construction work to which the claim relates was carried out. Section 10(4) of the SOPA reads: 
 
@@ -329,7 +329,7 @@ question was its “final account” document upon a request for clarification f
 
 51     The adjudication application objection – being premised on the applicability of the default timelines under the SOPA – presupposes that PC 75 is an invalid payment claim under the Contract but is valid under the SOPA. For the reasons that I have stated at [34]–[39] above, the developer was under an obligation to raise its PC 75 objection early _via_ a payment response. Had the developer informed the contractor that it objected to the validity of PC 75 _under the Contract_ , the contractor could have filed its adjudication application in accordance with the SOPA timelines or during the period of overlap, if any, where both timelines would have been met. 
 
-52     To hold otherwise would allow the developer to reserve its position on PC 75 until the adjudication proceedings and to put forward numerous alternative submissions at the proceedings, both on the validity of the payment claim and the timing of the adjudication application, as was attempted by the developer in the present case. This would put a respondent who does not file a payment response in a more favourable position than one who does so which would defeat the objectives of the SOPA. As the Court of Appeal stated in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ [2013] 3 SLR 380 (at [33]–[34]): 
+52     To hold otherwise would allow the developer to reserve its position on PC 75 until the adjudication proceedings and to put forward numerous alternative submissions at the proceedings, both on the validity of the payment claim and the timing of the adjudication application, as was attempted by the developer in the present case. This would put a respondent who does not file a payment response in a more favourable position than one who does so which would defeat the objectives of the SOPA. As the Court of Appeal stated in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ <span class="citation">[2013] 3 SLR 380</span> (at [33]–[34]): 
 
  33 ... In view of the scheme of the Act, it is clear that WY Steel’s argument – viz , that s 15(3) applies to exclude consideration of matters not contained in a payment response only where a payment response, albeit an incomplete one, has been filed and not otherwise – cannot be right. This reading would ... perversely favour a respondent who did not file a payment response at all over one who did and, thus, would incentivise conduct that defeats the very purposes of the Act. 
 
@@ -362,7 +362,7 @@ claim for additional preliminaries partially, in the amount of $926,355.50. [not
 
 58     While the developer submitted that the adjudicator had no power to award damages for breach of contract, the additional preliminaries were not awarded on this basis, but pursuant to a term of the Contract. The adjudicator was entitled to find that the contractual provision allowed the contractor to make its claim for additional preliminaries from prolongation. 
 
-59     In _Metropole Pte Ltd v Designshop Pte Ltd_ [2017] 4 SLR 277, the court made a similar finding in relation to the adjudicator’s jurisdiction to interpret a term of the parties’ contract. In that case, the respondent argued that the adjudicator exceeded his jurisdiction by allowing the claimant to rely on cl 2.3(3) of the parties’ contract to make its claims. Clause 2.3(3) of the parties’ contract provided that upon termination of the contract, the respondent was to pay the claimant a minimum of twothirds of the fee for a particular stage of work if the claimant had carried out any work at all for that stage. In relation to the respondent’s submission that cl 2.3(3) was a clause for damages for breach of contract which should be dealt with in separate dispute resolution proceedings rather than in adjudication proceedings, the court stated (at [93]–[94]): 
+59     In _Metropole Pte Ltd v Designshop Pte Ltd_ <span class="citation">[2017] 4 SLR 277</span>, the court made a similar finding in relation to the adjudicator’s jurisdiction to interpret a term of the parties’ contract. In that case, the respondent argued that the adjudicator exceeded his jurisdiction by allowing the claimant to rely on cl 2.3(3) of the parties’ contract to make its claims. Clause 2.3(3) of the parties’ contract provided that upon termination of the contract, the respondent was to pay the claimant a minimum of twothirds of the fee for a particular stage of work if the claimant had carried out any work at all for that stage. In relation to the respondent’s submission that cl 2.3(3) was a clause for damages for breach of contract which should be dealt with in separate dispute resolution proceedings rather than in adjudication proceedings, the court stated (at [93]–[94]): 
 
 
  93 ... [T]he manner in which cl 2.3(3) should be interpreted is a matter that falls within the adjudicator’s jurisdiction and is an aspect of the merits of his determination. The adjudicator has interpreted cl 2.3(3) to exclude claims for stages of work for which no work has commenced. He has also found that [the claimant] commenced works for stages E and H but not for stages L, M, and N. He therefore did not allow [the claimant’s] claim for two-thirds of the fees for stages L, M, and N (see adjudication determination at [50]). 

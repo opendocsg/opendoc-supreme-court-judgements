@@ -189,7 +189,7 @@ to the jurisdiction. In my opinion the circumstances do not justify exercising t
 
 favour. 
 
-In **Eng Liat Kiang v Eng Bak Hern** [1995] 3 SLR 97 , the Court of Appeal held that even if the other 
+In **Eng Liat Kiang v Eng Bak Hern** <span class="citation">[1995] 3 SLR 97</span> , the Court of Appeal held that even if the other 
 
 forum were clearly the more appropriate one, the court still had a residual discretion to refuse the 
 

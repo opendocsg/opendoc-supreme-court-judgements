@@ -183,7 +183,7 @@ correspondence referred to).
 
 60\. The legal principles applicable to Liang Huats application are not in dispute. It is common ground that even though a performance bond is payable on demand by the beneficiary thereof, the beneficiary may be restrained from calling for payment and/or receiving payment thereunder if it would be unconscionable for the beneficiary to do so. 
 
-61\. However, the applicant seeking such relief must establish a strong prima facie case of unconscionability, see the Dauphin case [2000] 1 SLR 657 at para 57. 
+61\. However, the applicant seeking such relief must establish a strong prima facie case of unconscionability, see the Dauphin case <span class="citation">[2000] 1 SLR 657</span> at para 57. 
 
 62\. Liang Huats claim for $822,081.47 under various interim certificates was more than matched by Hi-Teks claim for $890,000 as part of the damages for delay, excluding preliminaries during the period of delay. 
 

@@ -24,7 +24,7 @@ Chan Seng Onn J:
 
 1       The plaintiff’s claim was for loss and damage suffered as a result of various breaches by the defendant of a supply contract (“the original contract”) relating to a purchase order HE/PO/03/ from the plaintiff dated 8 December 2003 which the defendant accepted on 16 December 2003. Under the original contract, the defendant would supply to the plaintiff various types of electrical cables for delivery from December 2003 to the end of December 2005. 
 
-2       The plaintiff obtained interlocutory judgment against the defendant on 29 June 2006 after a trial before Tan Lee Meng J: see _Highness Electrical Engineering Pte Ltd v Sigma Cable Co (Pte) Ltd_ [2006] 3 SLR 640. The defendant’s appeal to the Court of Appeal against Tan J’s decision was dismissed on 24 January 2007. The Assistant Registrar, Leong Kwang Ian (“the AR”), assessed the damages and awarded the following amounts: 
+2       The plaintiff obtained interlocutory judgment against the defendant on 29 June 2006 after a trial before Tan Lee Meng J: see _Highness Electrical Engineering Pte Ltd v Sigma Cable Co (Pte) Ltd_ <span class="citation">[2006] 3 SLR 640</span>. The defendant’s appeal to the Court of Appeal against Tan J’s decision was dismissed on 24 January 2007. The Assistant Registrar, Leong Kwang Ian (“the AR”), assessed the damages and awarded the following amounts: 
 
  a. Cables purchased under five Delivery Instructions (“DIs”) to complete works (see [4] below) 
 

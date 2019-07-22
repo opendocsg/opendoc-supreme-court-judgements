@@ -30,7 +30,7 @@ _Bills of Exchange and Other Negotiable Instruments_ – _Presentation for payme
 
 **V K Rajah J:** 
 
-1       This judgment ought to be read in conjunction with my judgment in _City Hardware Pte Ltd v Kenrich Electronics Pte Ltd_ [2005] SGHC 24 (“the Kenrich proceedings”). The plaintiff in these proceedings claims against the defendant on a cheque signed by him. The factual matrix can be stated in a brief compass. 
+1       This judgment ought to be read in conjunction with my judgment in _City Hardware Pte Ltd v Kenrich Electronics Pte Ltd_ <span class="citation">[2005] SGHC 24</span> (“the Kenrich proceedings”). The plaintiff in these proceedings claims against the defendant on a cheque signed by him. The factual matrix can be stated in a brief compass. 
 
 2       In or about March 2000, the defendant visited the plaintiff’s office. To reassure the plaintiff of his personal backing and support for business to be transacted with Kenrich Electronics Pte Ltd (“Kenrich”), the defendant handed the plaintiff’s managing director, Lau Chui Chew (“LCC”), a blank cheque (“the Cheque”) which he had signed. According to LCC, the defendant, who was the managing director of Kenrich, informed him that the plaintiff was entitled to complete the Cheque and present it for payment in the event Kenrich defaulted in its payment obligations to the plaintiff. The plaintiff asserts that it accepted the Cheque as security for outstandings due from Kenrich should Kenrich default on its repayment obligations. 
 

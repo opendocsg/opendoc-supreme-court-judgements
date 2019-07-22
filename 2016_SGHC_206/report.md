@@ -201,22 +201,22 @@ Defendant had made any fraudulent misrepresentations at all. [note: 21]
 
 39     The guiding principles behind each of four grounds for striking out under O 18 r 19(1) are clearly established. I shall briefly set them out below: 
 
- (a) O 18 r 19(1)(a): “it discloses no reasonable cause of action”. This involves an action which does not even have “some chance of success when only the allegations in the pleading are considered”: Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others [1997] 3 SLR(R) 649 (“ Gabriel Peter ”) at [21]. 
+ (a) O 18 r 19(1)(a): “it discloses no reasonable cause of action”. This involves an action which does not even have “some chance of success when only the allegations in the pleading are considered”: Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others <span class="citation">[1997] 3 SLR(R) 649</span> (“ Gabriel Peter ”) at [21]. 
 
  (b) O 18 r 19(1)(b): “it is scandalous, frivolous or vexatious”. 
 
- (i) A matter is “scandalous” where it does not even have a “tendency to show” the truth of any allegation material to the relief sought: Lai Swee Lin Linda v AG [2006] 2 SLR(R) 565 at [67], citing Christie v Christie (1872-1873) LR 8 Ch App 499 at 503. 
+ (i) A matter is “scandalous” where it does not even have a “tendency to show” the truth of any allegation material to the relief sought: Lai Swee Lin Linda v AG <span class="citation">[2006] 2 SLR(R) 565</span> at [67], citing Christie v Christie (1872-1873) LR 8 Ch App 499 at 503. 
 
- (ii) “Frivolous or vexatious” means “obviously unsustainable” or “wrong”. A case that is “plainly and obviously unsustainable” is one which is either legally or factually unsustainable. A case is legally unsustainable if “it may be clear as a matter of law at the outset that even if a party were to succeed in proving all the facts that he offers to prove he will not be entitled to the remedy that he seeks”. A case is factually unsustainable if it is “possible to say with confidence before trial that the factual basis for the claim is fanciful because it is entirely without substance, [for example, if it is] clear beyond question that the statement of facts is contradicted by all the documents or other material on which it is based”: The “Bunga Melati 5” [2012] 4 SLR 546 at [39]. 
+ (ii) “Frivolous or vexatious” means “obviously unsustainable” or “wrong”. A case that is “plainly and obviously unsustainable” is one which is either legally or factually unsustainable. A case is legally unsustainable if “it may be clear as a matter of law at the outset that even if a party were to succeed in proving all the facts that he offers to prove he will not be entitled to the remedy that he seeks”. A case is factually unsustainable if it is “possible to say with confidence before trial that the factual basis for the claim is fanciful because it is entirely without substance, [for example, if it is] clear beyond question that the statement of facts is contradicted by all the documents or other material on which it is based”: The “Bunga Melati 5” <span class="citation">[2012] 4 SLR 546</span> at [39]. 
 
- (iii) O 18 r 19(1)(b) could also apply to a case where the party bringing an action is not acting bona fide and merely wishes to annoy or embarrass his opponent, or where there was a lack of purpose or seriousness in the party’s conduct of proceedings: The “ Osprey ” [1999] 3 SLR(R) 1099 at [8]. 
+ (iii) O 18 r 19(1)(b) could also apply to a case where the party bringing an action is not acting bona fide and merely wishes to annoy or embarrass his opponent, or where there was a lack of purpose or seriousness in the party’s conduct of proceedings: The “ Osprey ” <span class="citation">[1999] 3 SLR(R) 1099</span> at [8]. 
 
  (c) O 18 r 19(1)(c): “it may prejudice, embarrass or delay the fair trial of the action”. Pleadings which could be struck out on this ground include those which are unnecessary, which include improper or irrelevant details, or where allegations unrelated to the issues were made for the purpose of embarrassing or vexing the opposing party: see Jeffrey Pinsler SC, Principles of Civil Procedure (Academy Publishing, 2013) at para 9.008. 
 
 
  (d) O 18 r 19(1)(d): “it is otherwise an abuse of the process of the Court”. An abuse of process of court means using the court machinery as a means of vexation and oppression in the process of litigation. For example, where a claim is brought not for the purposes of relief but for some other collateral or ulterior motive: Gabriel Peter at [22]. 
 
-40     I should state at the outset that I was fully cognisant that the court should only exercise its power to strike out in “plain and obvious cases”. I was therefore careful not to carry out a minute and protracted examination of the documents and the facts of the case in reaching my decision: see _Gabriel Peter_ at [18] and _The “Osprey”_ [1999] 3 SLR(R) 1099 at [6]. 
+40     I should state at the outset that I was fully cognisant that the court should only exercise its power to strike out in “plain and obvious cases”. I was therefore careful not to carry out a minute and protracted examination of the documents and the facts of the case in reaching my decision: see _Gabriel Peter_ at [18] and _The “Osprey”_ <span class="citation">[1999] 3 SLR(R) 1099</span> at [6]. 
 
 **The Decision** 
 

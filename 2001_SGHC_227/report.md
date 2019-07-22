@@ -47,7 +47,7 @@ _Companies_ – _Receiver and manager_ – _Judicial managers_ – _Whether resp
 
  "c. Monetary compensation in respect of unconsumed leave – pursuant to clause 5(d) of the Employment Contract (and the variation of the same) read with clause 6(d), or alternatively at common law, the [appellant] avers that he is entitled to be paid in respect of his remaining unconsumed leave of 79 days up to the date of termination, amounting to S$109,384.62 (not inclusive of the company’s CPF contribution of S$13,126.15 as 12% of the [appellant’s] leave pay)." 
 
-10\. Mr. Ong referred to _Pacific Internet Ltd v Catcha.Com Pte Ltd_ [2000] 3 SLR 26 for the proposition in law that to succeed, the respondents here must show that there is "an answer immediately destructive" of the appellant’s claim. In the _Pacific Internet_ case, reference was made to the _Hunt v Carey Canada Inc,_ Sup Ct Canada, 1990, Lexis 155 in which Wilson J was of the opinion that 
+10\. Mr. Ong referred to _Pacific Internet Ltd v Catcha.Com Pte Ltd_ <span class="citation">[2000] 3 SLR 26</span> for the proposition in law that to succeed, the respondents here must show that there is "an answer immediately destructive" of the appellant’s claim. In the _Pacific Internet_ case, reference was made to the _Hunt v Carey Canada Inc,_ Sup Ct Canada, 1990, Lexis 155 in which Wilson J was of the opinion that 
 
  "the fact that a pleading reveals ‘an arguable, difficult or important point of law’ 
 

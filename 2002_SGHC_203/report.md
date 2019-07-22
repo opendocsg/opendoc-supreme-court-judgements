@@ -153,7 +153,7 @@ appellant and the others then used the toilet.
 
  assembly, or continues in it , is said to be a member of an unlawful assembly [Emphasis added]. 
 
-Sec tion 142 emphasises the point that anyone who voluntarily assoc iates himself with an assembly after he is aware of fac ts rendering that assembly unlawful, is deemed to share the c ommon objec t of that assembly, and henc e bec omes a member of that assembly. This was c onfirmed by _Lim Thian Hor & Anor v PP_ [1996] 2 SLR 258 where I stated the following opinion at p 264: 
+Sec tion 142 emphasises the point that anyone who voluntarily assoc iates himself with an assembly after he is aware of fac ts rendering that assembly unlawful, is deemed to share the c ommon objec t of that assembly, and henc e bec omes a member of that assembly. This was c onfirmed by _Lim Thian Hor & Anor v PP_ <span class="citation">[1996] 2 SLR 258</span> where I stated the following opinion at p 264: 
 
  It is of c ourse well settled law that a mere presenc e in an assembly of persons did not make the ac c used a member of an unlawful assembly, unless there was direc t or c irc umstantial evidenc e to show that the ac c used shared the c ommon objec t of the assembly. In my opinion, however, a person present at the assembly can be said to be a member of the assembly even if no overt act is proved against him. Provided the circumstances are such as to justify an inference that he associated himself with the offending members, it may be inferred that he is a member of such an assembly. In every c ase, this question is one of fac t as to whether he happens to be innoc ent ly present at the plac e of oc c urrenc e or was ac tually a member of the unlawful assembly: see Bishambar v State of Bihar AIR 1971 SC 2381. [Emphasis added] 
 
@@ -172,15 +172,15 @@ _(a) Ridzuan’s credibility_
 
 29     The appellant tried to impeac h Ridzuan’s c redibility by pointing out numerous disc repanc ies in his evidenc e. Before I examine the alleged disc repanc ies, three general princ iples with respec t to impeac hing witnesses’ c redibility shall be reiterated. 
 
-30     First, ‘innoc ent’ disc repanc ies must be distinguished from deliberate lies. I have expressed the following opinion in _Lewis Christina v PP_ [2001] 3 SLR 165 at 170: 
+30     First, ‘innoc ent’ disc repanc ies must be distinguished from deliberate lies. I have expressed the following opinion in _Lewis Christina v PP_ <span class="citation">[2001] 3 SLR 165</span> at 170: 
 
  ... a flawed witness does not equate to an untruthful witness. The trial judge is entitled to determine whic h part of the witness’s testimony remains c redible despite its disc repanc ies. 
 
 Therefore, if the disc repanc ies are innoc ent, the judge is entitled to rely on those parts of the evidenc e whic h are untainted by the disc repanc ies. However, if the witness has deliberately lied to the c ourt, it is c lear that he is not a reliable witness and as a matter of prudenc e the rest of his evidenc e must be sc rutinised with great c are and indeed with suspic ion. To say, however, that bec ause a witness has been proved a liar on one or two points then the whole of his evidenc e "must in law be rejec ted" is to go too far and is wrong: per Thomson CJ in _Khoo Chye Hin v PP_ [1961] MLJ 105 at 107. 
 
-31     Sec ondly, the c redibility of a witness c annot be impeac hed unless there are serious disc repanc ies or material c ontradic tions in his evidenc e: _Mohammed Zairi bin Mohamad Mohtar v PP_ [2002] 1 SLR 344 at 33. ‘Serious disc repanc ies’ or ‘material disc repanc ies’ are those that go to the c rux of the c harge against the appellant: _Kwang Boon Keong Peter v PP_ [1998] 2 SLR 592 at 26. 
+31     Sec ondly, the c redibility of a witness c annot be impeac hed unless there are serious disc repanc ies or material c ontradic tions in his evidenc e: _Mohammed Zairi bin Mohamad Mohtar v PP_ <span class="citation">[2002] 1 SLR 344</span> at 33. ‘Serious disc repanc ies’ or ‘material disc repanc ies’ are those that go to the c rux of the c harge against the appellant: _Kwang Boon Keong Peter v PP_ <span class="citation">[1998] 2 SLR 592</span> at 26. 
 
-32     Thirdly, even if a witness’s c redit is impeac hed, it does not automatic ally lead to a total rejec tion of his evidenc e. The c ourt must c arefully sc rutinise the whole of the evidenc e to determine whic h aspec t might be true and whic h aspec t should be disregarded: _PP v Somwang Phatthanasaeng_ [1992] 1 SLR 138 at 148 _; Kwang Boon Keong Peter v PP_ [1998] 2 SLR 592 at 24; and _Loganatha Venkatesan v PP_ [2000] 3 SLR 677 at 56. 
+32     Thirdly, even if a witness’s c redit is impeac hed, it does not automatic ally lead to a total rejec tion of his evidenc e. The c ourt must c arefully sc rutinise the whole of the evidenc e to determine whic h aspec t might be true and whic h aspec t should be disregarded: _PP v Somwang Phatthanasaeng_ <span class="citation">[1992] 1 SLR 138</span> at 148 _; Kwang Boon Keong Peter v PP_ <span class="citation">[1998] 2 SLR 592</span> at 24; and _Loganatha Venkatesan v PP_ <span class="citation">[2000] 3 SLR 677</span> at 56. 
 
 33     I will now apply the foregoing princ iples to the fac ts of this c ase. The alleged disc repanc ies in this c ase were as follows: 
 
@@ -199,7 +199,7 @@ It was apparent that none of the alleged disc repanc ies were material bec ause 
 
 _(b) Inconsistencies between the evidence of Ridzuan and the other prosecution witnesses_ 
 
-34     In _Ng Kwee Leong v PP_ [1998] 3 SLR 942, inc onsistenc ies between the evidenc e of different witnesses were c lassified into three main c ategories: 
+34     In _Ng Kwee Leong v PP_ <span class="citation">[1998] 3 SLR 942</span>, inc onsistenc ies between the evidenc e of different witnesses were c lassified into three main c ategories: 
 
  (a) The first c ategory is where the disc repanc ies relied on are immaterial disc repanc ies, whic h have no direc t bearing on the fac ts in issue. In suc h instanc es, the trial judge should find that these disc repanc ies do not detrac t from the general verac ity of the witnesses on the material issues and ac c ept their evidenc e on those issues. 
 
@@ -226,7 +226,7 @@ _(b) Inconsistencies between the evidence of Ridzuan and the other prosecution w
 
 _(c) The quality of Ridzuan’s identification evidence was poor and should be rejected by the trial judge_ 
 
-38     The judge followed the guidelines laid down by the Court of Appeal in _Heng Aik Ren Thomas v PP_ [1998] 3 SLR 465 in assessing the weight of identific ation evidenc e. Essentially, there are three stages to the test. 
+38     The judge followed the guidelines laid down by the Court of Appeal in _Heng Aik Ren Thomas v PP_ <span class="citation">[1998] 3 SLR 465</span> in assessing the weight of identific ation evidenc e. Essentially, there are three stages to the test. 
 
 39     The first stage involves the trial judge asking himself whether the c ase against the ac c used depends wholly or substantially on the c orrec tness of the identific ation evidenc e that is alleged by the defenc e as being mistaken. If the first stage is answered in the affirmative, the sec ond question should be whether the identific ation evidenc e is of good quality, taking into ac c ount the c irc umstanc es in whic h the identific ation was made. If the quality of the identific ation evidenc e is poor, the judge should go on to the third stage whic h involves the question of whether there is any other evidenc e that goes to support the c orrec tness of the identific ation. At the third stage, if the judge is unable to find other supporting evidenc e for the identific ation evidenc e, he should be mindful that a c onvic tion based on suc h poor evidenc e would be unsafe. 
 
@@ -235,9 +235,9 @@ _(c) The quality of Ridzuan’s identification evidence was poor and should be r
 
 _(d) Whether Ridzuan’s evidence required corroboration_ 
 
-41     There is no mandatory requirement of independent c orroborating evidenc e before a trial judge c an c onvic t an ac c used based solely on the testimony of a minor: _Lee Kwang Peng v PP_ [1997] 3 SLR 278. It is a matter for the disc retion of the judge as to whether a witness is mature and reliable enough suc h that his testimony is c onsidered reliable without the need for independent c orroborating evidenc e. 
+41     There is no mandatory requirement of independent c orroborating evidenc e before a trial judge c an c onvic t an ac c used based solely on the testimony of a minor: _Lee Kwang Peng v PP_ <span class="citation">[1997] 3 SLR 278</span>. It is a matter for the disc retion of the judge as to whether a witness is mature and reliable enough suc h that his testimony is c onsidered reliable without the need for independent c orroborating evidenc e. 
 
-42     A trial judge who has had the benefit of observing the demeanour and c onduc t of the c hild witness would be in a far better position to dec ide if c orroboration is required in the c irc umstanc es of the c ase. An appellate c ourt would not readily interfere with suc h a finding: _Chen Jian Wei v PP_ [2002] 2 SLR 255 at 34. In the present c ase, the trial judge had spec ific ally c onsidered c arefully whether c orroboration evidenc e was required before c onc luding that none was required. At 60 of his judgment, he stated as follows: 
+42     A trial judge who has had the benefit of observing the demeanour and c onduc t of the c hild witness would be in a far better position to dec ide if c orroboration is required in the c irc umstanc es of the c ase. An appellate c ourt would not readily interfere with suc h a finding: _Chen Jian Wei v PP_ <span class="citation">[2002] 2 SLR 255</span> at 34. In the present c ase, the trial judge had spec ific ally c onsidered c arefully whether c orroboration evidenc e was required before c onc luding that none was required. At 60 of his judgment, he stated as follows: 
 
  ...Ridzuan is a student who had passed his ‘N’ levels and awaiting his ‘O’ level results...he was aware of the implic ations of giving evidenc e on oath. Having heard his testimony and observed his demeanour I was satisfied that he has given a truthful ac c ount of the events as they oc c urred. He was a vic tim of an assault and not a bystander who would have been able to [remember] everything that happened. There were no material disc repanc ies or whimsic al c hanges in his testimony indic ating that he was unaware of the implic ations and c onsequenc es of lying on oath...There was no need for c orroborative evidenc e in view of the totality of the evidenc e. 
 

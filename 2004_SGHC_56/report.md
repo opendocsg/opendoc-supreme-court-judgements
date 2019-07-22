@@ -73,7 +73,7 @@ The plaintiff, who is currently 33 years old, suffered injuries as a result of a
 
 **Loss of Earning Capacity** 
 
-10     It is trite law that an award for loss of earning capacity is made when at the time of the trial, there is a _risk_ that the plaintiff may lose his employment at some time in the future _and_ may then be, as a result of the injury, at a disadvantage in getting another or an equally paid job. See _Teo Sing Keng v Sim Ban Kiat_ [1994] 1 SLR 634. In other words, this award is to compensate the weakening of the plaintiff’s competitive position in the open market in the event that the plaintiff was to lose his current employment. 
+10     It is trite law that an award for loss of earning capacity is made when at the time of the trial, there is a _risk_ that the plaintiff may lose his employment at some time in the future _and_ may then be, as a result of the injury, at a disadvantage in getting another or an equally paid job. See _Teo Sing Keng v Sim Ban Kiat_ <span class="citation">[1994] 1 SLR 634</span>. In other words, this award is to compensate the weakening of the plaintiff’s competitive position in the open market in the event that the plaintiff was to lose his current employment. 
 
 11     In light of this, I found it rather curious that the plaintiff even made a claim under this head as the evidence clearly shows that the risk of the plaintiff losing her current employment was not in issue. In fact, by her own evidence, the plaintiff agreed that she is still able to continue teaching despite her injury and that the risk of her losing her current job as a teacher in the future is 
 

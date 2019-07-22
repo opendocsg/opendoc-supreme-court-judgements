@@ -37,7 +37,7 @@ company, infringed the patent and that the 2nd defendant, Mr Lim Ee Teoh (“Mr 
 
 **The Expert Witnesses** 
 
-6       ASM’s expert witness was Assoc Prof Khong Poh Wah (“A/P Khong”) from the Nanyang Technological University (“NTU”) School of Mechanical and Aerospace Engineering. ASM also called Mr Robert Faber (“Mr Faber”) , a patent lawyer and a partner of _Ostrolenk, Faber, Gerb & Soffen LLP_ , the American intellectual property firm that was responsible for prosecuting ASM’s United States Patent, to testify as an expert witness but he is, by his own admission, not a person skilled in the art. In _Ng Kok Cheng v Chua Say Tiong_ [2001] 3 SLR 487, a case concerning the making of a lock, it was held that a patent attorney, who was called by the defendant as an expert, was not an expert as he was not a person skilled in the art of making locks. Likewise, Mr Faber’s evidence as a patent attorney is not relevant to issues pertaining to the views of a person skilled in the art. 
+6       ASM’s expert witness was Assoc Prof Khong Poh Wah (“A/P Khong”) from the Nanyang Technological University (“NTU”) School of Mechanical and Aerospace Engineering. ASM also called Mr Robert Faber (“Mr Faber”) , a patent lawyer and a partner of _Ostrolenk, Faber, Gerb & Soffen LLP_ , the American intellectual property firm that was responsible for prosecuting ASM’s United States Patent, to testify as an expert witness but he is, by his own admission, not a person skilled in the art. In _Ng Kok Cheng v Chua Say Tiong_ <span class="citation">[2001] 3 SLR 487</span>, a case concerning the making of a lock, it was held that a patent attorney, who was called by the defendant as an expert, was not an expert as he was not a person skilled in the art of making locks. Likewise, Mr Faber’s evidence as a patent attorney is not relevant to issues pertaining to the views of a person skilled in the art. 
 
 7       Aurigin called two expert witnesses to testify. The first was Assoc Prof Tay Meng Leong (“A/P Tay”), who, like A/P Khong, is from the Nanyang Technological University School of Mechanical and Aerospace Engineering. Aurigin’s second expert, Mr Dennis Miller (“Mr Miller”), was, until his retirement in 2006, the senior director and vice-president of Motorola Inc in Illinois. Mr Miller has rather impressive credentials as an inventor and innovator. A mechanical engineer, he holds 11 patents, 5 of which relate to BGA technology. His evidence was most useful to the court. 
 
@@ -140,7 +140,7 @@ _Newness or novelty_
 
  The state of the art in the case of an invention shall be taken to comprise all matter (whether a product, a process, information about either, or anything else) which has at any time before the priority date of that invention been made available to the public (whether in Singapore or elsewhere) by written or oral description, by use or in any other way. 
 
-16     In regard to the issue of novelty, in _Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd (No. 2)_ [2005] 3 SLR 389, Lai Kew Chai J explained as follows: 
+16     In regard to the issue of novelty, in _Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd (No. 2)_ <span class="citation">[2005] 3 SLR 389</span>, Lai Kew Chai J explained as follows: 
 
  (a) the issue is determined by asking whether an invention forms part of the state of the art; 
 
@@ -352,7 +352,7 @@ _Inventiveness_
 38     Although the _Windsurfing_ test has been subject to much scrutiny, it was approved by the Court 
 
 
-of Appeal in _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd_ [2008] 1 SLR 335 (“ _First Currency_ ”). 
+of Appeal in _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd_ <span class="citation">[2008] 1 SLR 335</span> (“ _First Currency_ ”). 
 
 39     It is noteworthy that in _Unilever v Chefaro_ [1994] RPC 567, Jacob J stated at p 580 as follows: 
 

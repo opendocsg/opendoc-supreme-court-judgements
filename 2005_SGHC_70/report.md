@@ -50,7 +50,7 @@ early hours of 5 February 2003, some unknown persons managed to make away with 1
 9       It is settled law that where goods that are on bailment have been lost or destroyed, the burden rests on the bailee to show, on a balance of probabilities, that he discharged his duty of care. 
 
 
-This was reiterated by the Court of Appeal in _Seah Ting Soon v Indonesian Tractors Co Pte Ltd_ [2001] 1 SLR 521. Chao Hick Tin JA, who delivered the judgment of the court, endorsed the following explanation offered by Sachs LJ in _British Road Services, Ltd v Arthur V Crutchley & Co, Ltd_ [1968] 1 All ER 811 at 822 for imposing the burden of proof on the bailee: 
+This was reiterated by the Court of Appeal in _Seah Ting Soon v Indonesian Tractors Co Pte Ltd_ <span class="citation">[2001] 1 SLR 521</span>. Chao Hick Tin JA, who delivered the judgment of the court, endorsed the following explanation offered by Sachs LJ in _British Road Services, Ltd v Arthur V Crutchley & Co, Ltd_ [1968] 1 All ER 811 at 822 for imposing the burden of proof on the bailee: 
 
  The common law has always been vigilant in the interests of bailors whose goods are not returned to them by the bailee for a number of reasons; in so far as that vigilance relates to the onus of proof, one of the reasons stems from the fact that normally it is only the bailee who knows what care was being taken of the goods, and another from the number of temptations to which a bailee may succumb. Those temptations may vary in each generation according to the nature of the transaction and in these days of rising costs include that of the bailee wishing to pay as little for security as he can “get away with”, and the complacency that can arise from the feeling “after all, we are insured”. 
 

@@ -139,7 +139,7 @@ I will deal with each ground of appeal in turn.
 
  (e) 
 
-12     In _Public Prosecutor v Law Aik Meng_ [2007] 2 SLR(R) 814 (“ _Law Aik Meng_ ”), VK Rajah JA identified several types of offences which by their nature warrant general deterrence at [24]: 
+12     In _Public Prosecutor v Law Aik Meng_ <span class="citation">[2007] 2 SLR(R) 814</span> (“ _Law Aik Meng_ ”), VK Rajah JA identified several types of offences which by their nature warrant general deterrence at [24]: 
 
  offences against or relating to public institutions, such as the courts, the police and the civil service; 
 
@@ -214,7 +214,7 @@ factors in turn.
 
 to brutally assault an innocent man who was mistaken as a runner. For the assault, the victims were sentenced to between 1 to 12 months’ imprisonment: see The Straits Times article titled “Three relatives jailed for assault” which was published on 15 February 2011. 
 
-22     Acts of harassment also invariably create an atmosphere of fear in the neighbourhood. This is a regrettable development which must be arrested. As the court rightly pointed out in _Public Prosecutor v Soh Yew Heng_ [2007] SGDC 49 at [15]: 
+22     Acts of harassment also invariably create an atmosphere of fear in the neighbourhood. This is a regrettable development which must be arrested. As the court rightly pointed out in _Public Prosecutor v Soh Yew Heng_ <span class="citation">[2007] SGDC 49</span> at [15]: 
 
  There are costs and harm imposed on society by these acts of harassment. The harassment at the very least creates a breach of the peace and good public order. It fosters an atmosphere of threat and danger because of the damage to property and warning messages scrawled on walls. Residents of our various housing estates are entitled to live in surroundings free from such disturbances... The response of the Courts should therefore be both punitive and deterrent. 
 
@@ -268,7 +268,7 @@ Similarly, in the Second Reading of the 2010 amendment bill, Assoc Prof Ho state
 
 **The need for specific deterrence** 
 
-35     The principle of specific deterrence merits consideration in the present case. The respondent is no stranger to the courts, having been convicted on several occasions for different offences. Although the respondent does not have loansharking or related antecedents, his chequered past is a relevant factor for sentencing as it clearly demonstrates his cavalier disregard for the law: see _Tan Kay Beng v Public Prosecutor_ [2006] 4 SLR(R) 10 at [14]–[16]. 
+35     The principle of specific deterrence merits consideration in the present case. The respondent is no stranger to the courts, having been convicted on several occasions for different offences. Although the respondent does not have loansharking or related antecedents, his chequered past is a relevant factor for sentencing as it clearly demonstrates his cavalier disregard for the law: see _Tan Kay Beng v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 10</span> at [14]–[16]. 
 
 36     Given his long list of antecedents, it would not be an exaggeration to say that the respondent has re-offended almost immediately each time after he underwent punishment for a prior offence. He was given the opportunity of rehabilitation in 2003 when he was ordered to undergo probation for theft and road traffic offences but re-offended in 2004 for similar offences. Even then, he was given another opportunity and was sentenced to reformative training. However, he still did not realise the error of his ways and went on to commit the offence of affray for which he was fined in 2007. The respondent was finally sentenced to 6 months’ imprisonment in 2009 for theft (again), together with even more serious offences (against persons). Soon after his release from prison for those offences, in January 2010, he was convicted and sentenced to 5 months’ imprisonment for road traffic offences. 
 
@@ -333,18 +333,18 @@ kerosene to set fire causes more significant damage to the property and endanger
 
 52     In his mitigation plea, the respondent stated that he committed the offences out of desperation due to his difficult financial circumstances, and in order to avoid harassment to himself and his family. 
 
-53     It is trite that financial difficulties cannot be relied upon in mitigation of an offence save in the most exceptional or extreme of circumstances: see _Lai Oei Mui Jenny v Public Prosecutor_ [1993] 2 SLR(R) 406 at [10]. 
+53     It is trite that financial difficulties cannot be relied upon in mitigation of an offence save in the most exceptional or extreme of circumstances: see _Lai Oei Mui Jenny v Public Prosecutor_ <span class="citation">[1993] 2 SLR(R) 406</span> at [10]. 
 
-54     In keeping with this principle, the courts have generally not accorded any mitigating weight to claims that the offences in question were committed to repay loansharks. For example, in _Public Prosecutor v Ong Ker Seng_ [2001] 3 SLR(R) 134 at [30], the High Court did not attach any mitigating weight to the accused person’s claim that he was driven to commit the offence of obtaining loans without disclosing his undischarged bankrupt status in his desperate bid to repay loansharks who were 
+54     In keeping with this principle, the courts have generally not accorded any mitigating weight to claims that the offences in question were committed to repay loansharks. For example, in _Public Prosecutor v Ong Ker Seng_ <span class="citation">[2001] 3 SLR(R) 134</span> at [30], the High Court did not attach any mitigating weight to the accused person’s claim that he was driven to commit the offence of obtaining loans without disclosing his undischarged bankrupt status in his desperate bid to repay loansharks who were 
 
 
-hounding him. In _Sim Yeow Seng v Public Prosecutor_ [1995] 2 SLR(R) 466 at [10], the High Court similarly rejected the argument that the accused had committed the offence of criminal breach of trust in order to pay off loansharks. 
+hounding him. In _Sim Yeow Seng v Public Prosecutor_ <span class="citation">[1995] 2 SLR(R) 466</span> at [10], the High Court similarly rejected the argument that the accused had committed the offence of criminal breach of trust in order to pay off loansharks. 
 
 5       5 _A fortiori_ , no distinction should be drawn between these cases and the harassment cases. Indeed, debtors-turned-runners who have first-hand experience of what it is like to be hounded by loansharks should know better than to revisit such hardship upon third parties in a bid to escape their own predicament. 
 
 56     In line with Parliament’s aim of curtailing harassment offences, I find that no mitigating weight should be accorded to the argument that the offender only committed harassment to avoid harassment of himself and his family. Many harassment acts are carried out by such debtors-turnedrunners. If the Court were to impose lenient sentences on the basis of sympathy for their conundrum, the inadvertent effect would be to further encourage the continued exploitation of easy prey. 
 
-57     It is clear that the law does not view an accused person’s financial plight as a mitigating factor particularly where the offence was motivated by greed and the lure of easy money. In _Zhao Zhipeng v Public Prosecutor_ [2008] 4 SLR(R) 879, it was stated at [37] that: 
+57     It is clear that the law does not view an accused person’s financial plight as a mitigating factor particularly where the offence was motivated by greed and the lure of easy money. In _Zhao Zhipeng v Public Prosecutor_ <span class="citation">[2008] 4 SLR(R) 879</span>, it was stated at [37] that: 
 
  Persons who act out of pure self-interest and greed will rarely be treated with much sympathy; conversely, those who are motivated by fear will usually be found to be less blameworthy. 
 

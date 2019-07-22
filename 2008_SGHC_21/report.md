@@ -76,7 +76,7 @@ unconverted outstanding loan amount?
 
 **The Law on Interpretation of Documents** 
 
-12     Counsel for SHSL submitted that where the terms of an agreement are clear and unambiguous, they should be given their plain ordinary meaning without the aid of extrinsic evidence. He referred me to the Court of Appeal decision in _Pacific Century Regional Development v Estate of Seow Khoon Seng_ [1997] 3 SLR 761 where Karthigesu JA said at [17]: 
+12     Counsel for SHSL submitted that where the terms of an agreement are clear and unambiguous, they should be given their plain ordinary meaning without the aid of extrinsic evidence. He referred me to the Court of Appeal decision in _Pacific Century Regional Development v Estate of Seow Khoon Seng_ <span class="citation">[1997] 3 SLR 761</span> where Karthigesu JA said at [17]: 
 
 17\. The law on the construction of documents is clear. In the case of a contract, such as the agreement in question which is wholly in writing, the court is required to ascertain the mutual intention of the parties as expressed in the words of the agreement. The law is concerned with the objective appearance, rather than with the actual fact, of agreement. It is not concerned with the actual intentions of the parties, rather it is the court’s task to decide what each party was reasonably entitled to conclude from the conduct of the other. 
 
@@ -93,7 +93,7 @@ unconverted outstanding loan amount?
 
  (5) The “rule” that words should be given their “natural and ordinary meaning” reflects the common sense proposition that we do not easily accept that people have made linguistic mistakes, particularly in formal documents. On the other hand, if one would nevertheless conclude from the background that something must have gone wrong with the language, the law does not require judges to attribute to the parties an intention which they plainly could not have had. Lord Diplock made this point more vigorously when he said in Antaios Compania Naviera S.A. v. Salen Rederierna A.B. [1985] A.C. 191, 201: “if detailed semantic and syntactical analysis of words in a commercial contract is going to lead to a conclusion that flouts business commonsense, it must be made to yield to business commonsense.” 
 
-14     The above principles have been endorsed by the Court of Appeal, most recently in _Sandar Aung v Parkway Hospitals Singapore Pte Ltd (trading as Mount Elizabeth Hospital) and another_ [2007] 2 SLR 891. In _Sandar Aung_ , Phang JA stated that even if the plain language of the contract appears otherwise clear, the construction consequently placed on such language should not be inconsistent with the context in which the contract was entered into if this context is clear or even obvious, since the context and circumstances in which the contract was made would reflect the intention of the parties when they entered into the contract and utilised the (contractual) language 
+14     The above principles have been endorsed by the Court of Appeal, most recently in _Sandar Aung v Parkway Hospitals Singapore Pte Ltd (trading as Mount Elizabeth Hospital) and another_ <span class="citation">[2007] 2 SLR 891</span>. In _Sandar Aung_ , Phang JA stated that even if the plain language of the contract appears otherwise clear, the construction consequently placed on such language should not be inconsistent with the context in which the contract was entered into if this context is clear or even obvious, since the context and circumstances in which the contract was made would reflect the intention of the parties when they entered into the contract and utilised the (contractual) language 
 
 they did. At paragraph 31, quoting from _Chitty on Contracts_ Vol 1 (Sweet & Maxwell, 29th Ed, 2004) at para 12-115, Phang JA stated: 
 
@@ -110,7 +110,7 @@ Phang JA added at [32]:
 
 16     In the Court of Appeal judgment delivered by Neill LJ in _The 'Fina Samco'_ [1995] 2 Lloyd's Rep 344 (at 350) _,_ Neill LJ quoted the words of Lord Reid in _Wickman Tools v Schuler AG_ [1973] Lloyd's Rep 53 at 57 _: "the more unreasonable the result the more unlikely it is that the parties can have intended it, and if they do intend it the more necessary it is that they shall make their intention abundantly clear"._ 
 
-17     In Singapore, in _MAE Engineering Ltd v Fire-Stop Marketing Services Pte Ltd_ [2005] 1 SLR 379 at 388 the Court of Appeal noted that: 
+17     In Singapore, in _MAE Engineering Ltd v Fire-Stop Marketing Services Pte Ltd_ <span class="citation">[2005] 1 SLR 379</span> at 388 the Court of Appeal noted that: 
 
  [T]he perceived 'common sense' of the court cannot be allowed to override the words of the contract where they are clear and unambiguous... the court's task is to ascertain what the parties mean by the words they use in a contract and to enforce it according to its terms; it should not rewrite the contract. 
 

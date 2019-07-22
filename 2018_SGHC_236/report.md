@@ -30,7 +30,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Penalties_ – _Workpl
 
 2       Nurun was charged under s 15(3A) of the Workplace Safety and Health Act (Cap 354A, 2009 Rev Ed) (“WSHA”), for instructing the team of workers under his charge to load the air compressor onto the loading platform when it was unsafe to do so. 
 
-3       Nurun claimed trial to the charge. He was convicted and sentenced to a fine of $15,000. The grounds of decision of the district judge is reported at _Public Prosecutor v Nurun Novi Saydur Rahman_ [2017] SGDC 263 (“the GD”). Nurun now appeals against his conviction and sentence. The Prosecution cross-appeals against the sentence. 
+3       Nurun claimed trial to the charge. He was convicted and sentenced to a fine of $15,000. The grounds of decision of the district judge is reported at _Public Prosecutor v Nurun Novi Saydur Rahman_ <span class="citation">[2017] SGDC 263</span> (“the GD”). Nurun now appeals against his conviction and sentence. The Prosecution cross-appeals against the sentence. 
 
 4       Having considered all the available material as well as the submissions of the parties and Mr 
 
@@ -84,7 +84,7 @@ safely to prevent falls from height at the relevant time. [note: 11]
 
  You ... are charged that you, on 22 January 2014 at around 12 pm, being a Foreman of GS Engineering & Construction Corp ... at a construction worksite located at ... 03 Fusionopolis Way/Ayer Rajah Avenue Singapore, which is a workplace within the meaning of the Workplace Safety and Health Act (Chapter 354A), did in contravention of Section 15(3A) of the said Act, without reasonable cause, perform a negligent act which endangered the safety of others; to wit , you instructed the team of workers under your charge to load an air compressor onto a suspended loading platform when it was unsafe to do so, resulting in the deaths of two workers, [Ratan] and [Rajib], and you have thereby committed an offence under Section 15(3A) of the Workplace Safety and Health Act (Chapter 354A), punishable under the same section of the same Act. 
 
-11     GSE was also charged and convicted of an offence under s 12(1) read with s 20 of the WSHA in relation to the same accident. GSE was eventually sentenced to a fine of $250,000 (see _Public Prosecutor v GS Engineering & Construction Corp_ [2017] 3 SLR 682 (“ _PP v GSE_ ”) at [94]). 
+11     GSE was also charged and convicted of an offence under s 12(1) read with s 20 of the WSHA in relation to the same accident. GSE was eventually sentenced to a fine of $250,000 (see _Public Prosecutor v GS Engineering & Construction Corp_ <span class="citation">[2017] 3 SLR 682</span> (“ _PP v GSE_ ”) at [94]). 
 
 **The decision below** 
 
@@ -111,7 +111,7 @@ safely to prevent falls from height at the relevant time. [note: 11]
 
 17     On the fourth issue, the district judge did not accept Nurun’s allegation that GSE had conspired to prosecute Nurun for the offence, nor did he accept the contention that Kamrul, Kashem and Saiful were all part of a conspiracy to falsely implicate Nurun (see GD at [187]–[188]). 
 
-18     In sentencing the accused, the district judge noted that the Prosecution had submitted for a custodial sentence of at least four weeks’ imprisonment (see GD at [197]). He highlighted that the Prosecution relied on the precedent set out in _Public Prosecutor v Hue An Li_ [2014] 4 SLR 616 (“ _Hue An Li_ ”). The district judge agreed with the Prosecution that the primary sentencing consideration in cases involving s 15(3A) of the WSHA was general deterrence (see GD at [205]). However, he did not think that the precedents for causing death by a negligent act under s 304A(b) of the Penal Code (Cap 224, 2008 Rev Ed), including _Hue An Li_ were applicable (see GD at [208]). Although he assessed that the potential for harm in the present case was high, he found that Nurun’s culpability was lower than GSE, which was found in _PP v GSE_ to be medium to high (see GD at [209]). The district judge agreed with the defence’s submission that no custodial sentence had been imposed in all prior cases under s 15(3A) decided after _Hue An Li_ which involved death. Hence, he concluded that the custodial threshold had not been crossed. Based on the state court precedents cited, he then sentenced Nurun to a fine of $15,000, in default two months’ imprisonment (see GD at [210]–[211]). 
+18     In sentencing the accused, the district judge noted that the Prosecution had submitted for a custodial sentence of at least four weeks’ imprisonment (see GD at [197]). He highlighted that the Prosecution relied on the precedent set out in _Public Prosecutor v Hue An Li_ <span class="citation">[2014] 4 SLR 616</span> (“ _Hue An Li_ ”). The district judge agreed with the Prosecution that the primary sentencing consideration in cases involving s 15(3A) of the WSHA was general deterrence (see GD at [205]). However, he did not think that the precedents for causing death by a negligent act under s 304A(b) of the Penal Code (Cap 224, 2008 Rev Ed), including _Hue An Li_ were applicable (see GD at [208]). Although he assessed that the potential for harm in the present case was high, he found that Nurun’s culpability was lower than GSE, which was found in _PP v GSE_ to be medium to high (see GD at [209]). The district judge agreed with the defence’s submission that no custodial sentence had been imposed in all prior cases under s 15(3A) decided after _Hue An Li_ which involved death. Hence, he concluded that the custodial threshold had not been crossed. Based on the state court precedents cited, he then sentenced Nurun to a fine of $15,000, in default two months’ imprisonment (see GD at [210]–[211]). 
 
 **The appeal against conviction** 
 
@@ -132,7 +132,7 @@ safely to prevent falls from height at the relevant time. [note: 11]
 
  (c) Whether the district judge erred in finding that there was no reasonable cause. 
 
-22     The Court of Appeal in _Haliffie bin Mamat v Public Prosecutor and other appeals_ [2016] 5 SLR 636 (“ _Haliffie_ ”) at [31] has cautioned that the role of the appellate court “is not to re-assess the evidence in the same way a trial judge would”. As highlighted in _Haliffie_ at [32], the appellate court is restricted to considering: 
+22     The Court of Appeal in _Haliffie bin Mamat v Public Prosecutor and other appeals_ <span class="citation">[2016] 5 SLR 636</span> (“ _Haliffie_ ”) at [31] has cautioned that the role of the appellate court “is not to re-assess the evidence in the same way a trial judge would”. As highlighted in _Haliffie_ at [32], the appellate court is restricted to considering: 
 
  (a) whether the assessment of witness credibility is “plainly wrong or against the weight of the evidence”; 
 
@@ -217,7 +217,7 @@ worker. [note: 27]
 
 _The alleged breach of disclosure obligations_ 
 
-36     At this juncture, I highlight that Mr Balchandani also argues that the Prosecution had breached its disclosure obligation (“ _Kadar_ disclosure obligation”) as set out in the cases of _Muhammad bin Kadar and another v Public Prosecutor_ [2011] 3 SLR 1205 (“ _Kadar I_ ”) and _Muhammad bin Kadar and another v Public Prosecutor and another matter_ [2011] 4 SLR 791 (“ _Kadar II_ ”). 
+36     At this juncture, I highlight that Mr Balchandani also argues that the Prosecution had breached its disclosure obligation (“ _Kadar_ disclosure obligation”) as set out in the cases of _Muhammad bin Kadar and another v Public Prosecutor_ <span class="citation">[2011] 3 SLR 1205</span> (“ _Kadar I_ ”) and _Muhammad bin Kadar and another v Public Prosecutor and another matter_ <span class="citation">[2011] 4 SLR 791</span> (“ _Kadar II_ ”). 
 
 37     At the trial below, it emerged during the testimony of the investigation officer for the case, Ms Chew Siew Huang (“IO Chew”), that Rashed had given two statements. The first statement by Rashed was a denial that he had instructed Nurun not to install the loading platform while the second statement by Rashed included an admission that he was the one who had instructed Nurun not to 
 
@@ -225,7 +225,7 @@ install the loading platform. [note: 28] Mr Balchandani hence made an applicatio
 
 judge erred in applying _Kadar I_ and _Kadar II_. [note: 29] 
 
-38     In _Lee Siew Boon Winston v Public Prosecutor_ [2015] 4 SLR 1184 (“ _Winston Lee_ ”) at [158], in the context of a similar argument on appeal that the Prosecution had breached its _Kadar_ disclosure obligation, I examined _Kadar I_ and _Kadar II_ and made the following observation: 
+38     In _Lee Siew Boon Winston v Public Prosecutor_ <span class="citation">[2015] 4 SLR 1184</span> (“ _Winston Lee_ ”) at [158], in the context of a similar argument on appeal that the Prosecution had breached its _Kadar_ disclosure obligation, I examined _Kadar I_ and _Kadar II_ and made the following observation: 
 
  ... First, the material that the Prosecution has to disclose does not include material which is neutral or adverse to the accused. In the words of the CA in Kadar I , “it only includes material that tends to undermine the [p]rosecution’s case or strengthen the [d]efence’s case” ... 
 
@@ -368,7 +368,7 @@ This responsibility is not “diminished or affected” by the acts of another e
 
 60     This is the first time an offence under s 15(3A) of the WSHA has been brought before the High Court. As a result, this appeal raises several fresh issues of law, particularly in relation to sentencing. To assist the court in coming to its decision, Mr Tan was appointed as Young _Amicus Curiae_ to answer the following questions: 
 
- (a) Whether the principles laid down in PP v Hue An Li [2014] 4 SLR 661 (“ Hue An Li ”) apply to an offence under s 15(3A) of the WSHA; 
+ (a) Whether the principles laid down in PP v Hue An Li <span class="citation">[2014] 4 SLR 661</span> (“ Hue An Li ”) apply to an offence under s 15(3A) of the WSHA; 
 
  (b) When the custodial threshold for s 15(3A) of the WSHA offence is crossed; and 
 
@@ -403,7 +403,7 @@ practice ought to be relooked. [note: 48]
 
 67     I am in agreement with the Prosecution and Mr Tan that the existing sentencing practice ought to be reviewed. 
 
-68     The statutory maximum sentence stipulated for an offence signals the gravity with which Parliament views any individual offence. Hence, a sentencing judge ought to take the maximum sentence into account when calibrating the appropriate sentence, and apply his mind to determine precisely where the accused person’s conduct falls within the entire range of punishment devised by Parliament (see _Poh Boon Kiat v Public Prosecutor_ [2014] 4 SLR 892 at [60]). The courts have cautioned against a situation where only a segment of the possible sentencing range has been utilised. This would run the risk of inadvertently usurping the legislative policy in setting down a particular range of sentences (see _Ong Chee Eng v Public Prosecutor_ [2012] 3 SLR 776 at [24]). 
+68     The statutory maximum sentence stipulated for an offence signals the gravity with which Parliament views any individual offence. Hence, a sentencing judge ought to take the maximum sentence into account when calibrating the appropriate sentence, and apply his mind to determine precisely where the accused person’s conduct falls within the entire range of punishment devised by Parliament (see _Poh Boon Kiat v Public Prosecutor_ <span class="citation">[2014] 4 SLR 892</span> at [60]). The courts have cautioned against a situation where only a segment of the possible sentencing range has been utilised. This would run the risk of inadvertently usurping the legislative policy in setting down a particular range of sentences (see _Ong Chee Eng v Public Prosecutor_ <span class="citation">[2012] 3 SLR 776</span> at [24]). 
 
 69     The Prosecution and Mr Tan have helpfully compiled a list of all the sentences that have been passed in the State Courts in relation to offences charged under s 15(3A) of the WSHA that have 
 
@@ -500,7 +500,7 @@ _The relevance of actual harm_
 
 that actual harm should be factored into the calibration of the sentence. [note: 53] This is consistent with the express statements made in Parliament that actual harm ought to be taken into account in sentencing (see [73(c)] above). 
 
-81     This is also consistent with the approach taken in other offences which also criminalise the risk of harm as opposed to actual harm. In _Stansilas Fabian Kester v Public Prosecutor_ [2017] 5 SLR 755 in the context of an offence under s 67 of the Road Traffic Act (Cap 276, 2004 Rev Ed) (“RTA”), the court emphasised at [40] that the fact that an offender had caused property damage, injury or even death would be an aggravating factor, and the weight of the factor would depend on the nature and magnitude of the damage or harm caused and all other relevant circumstances. Notably, s 67 of the RTA criminalises the risk posed to other road users by a driver who is incapable of having full control of his vehicle, instead of criminalising actual harm itself. 
+81     This is also consistent with the approach taken in other offences which also criminalise the risk of harm as opposed to actual harm. In _Stansilas Fabian Kester v Public Prosecutor_ <span class="citation">[2017] 5 SLR 755</span> in the context of an offence under s 67 of the Road Traffic Act (Cap 276, 2004 Rev Ed) (“RTA”), the court emphasised at [40] that the fact that an offender had caused property damage, injury or even death would be an aggravating factor, and the weight of the factor would depend on the nature and magnitude of the damage or harm caused and all other relevant circumstances. Notably, s 67 of the RTA criminalises the risk posed to other road users by a driver who is incapable of having full control of his vehicle, instead of criminalising actual harm itself. 
 
 82     The theoretical underpinning for taking the actual harm caused into account in calibrating a sentence, even where an offender is negligent, is the fact that Singapore courts have endorsed the position that the outcome materiality principle trumps the control principle in the context of criminal negligence. The outcome materiality principle is the “intuitive moral sense that outcomes do matter”, and hence the outcome of any criminal act, _ie_ the actual harm caused, should be taken into account in sentencing (see _Hue An Li_ at [70]). The control principle is the “intuitive moral sense that people should not be morally assessed for what is not their fault” (see _Hue An Li_ at [69]). This tension between the two principles is particularly pronounced in situations where negligence is criminalised, because an offender is generally in less control of the result of his/her negligent act as opposed to situations where criminal acts are committed intentionally. The court in _Hue An Li_ gave three reasons why outcome materiality trumps the control principle in the context of criminal negligence. The first was that the provisions in the Penal Code which criminalise negligent conduct are predicated on outcome materiality (see _Hue An Li_ at [71]). _Hue An Li_ was a case involving causing death through a negligent act under s 304A of the Penal Code (Cap 224, 2008 Rev Ed). The second and third reason was stated as such (see _Hue An Li_ at [73] and [74]): 
 
@@ -613,7 +613,7 @@ threshold is applied under s 15(3) as well. This is to ensure consistency betwee
 
  (d) After deriving the sentence in terms of weeks of imprisonment, the sentencing judge can then consider whether it is appropriate to impose a fine, an imprisonment term or some combination of the two. As a general guide, the custodial threshold is crossed when more than 6 weeks’ imprisonment is appropriate. The notional conversion rate of a $5,000 fine per week of imprisonment is a useful guide where a fine only or a combination of a fine and an imprisonment term is to be imposed. 
 
-100    I highlight that the figures in the table are not completely arbitrary. The term of imprisonment for the upper limit of the most severe bands for both potential for harm and culpability ( _ie_ the top large box at the extreme right), has been adjusted based on a ratio I had previously derived for offences with the same criminal acts but with different _mens rea_ elements in the case of _Abdul Ghani bin Tahir v Public Prosecutor_ [2017] 4 SLR 1153(“ _Abdul Ghani_ ”) at [105]. The ratio derived was 10:5:2 for intentional acts, reckless acts and negligent acts respectively. As such, the notional upper limit for the starting point for wilful acts under s 15(3) of the WSHA is the maximum term of imprisonment of 104 weeks, the notional upper limit for reckless acts under s 15(3) is 52 weeks’ imprisonment and the notional upper limit for negligent acts under s 15(3A) of the WSHA is 20.8 weeks’ imprisonment (see Annex A–1 and Annex A–2). 
+100    I highlight that the figures in the table are not completely arbitrary. The term of imprisonment for the upper limit of the most severe bands for both potential for harm and culpability ( _ie_ the top large box at the extreme right), has been adjusted based on a ratio I had previously derived for offences with the same criminal acts but with different _mens rea_ elements in the case of _Abdul Ghani bin Tahir v Public Prosecutor_ <span class="citation">[2017] 4 SLR 1153</span>(“ _Abdul Ghani_ ”) at [105]. The ratio derived was 10:5:2 for intentional acts, reckless acts and negligent acts respectively. As such, the notional upper limit for the starting point for wilful acts under s 15(3) of the WSHA is the maximum term of imprisonment of 104 weeks, the notional upper limit for reckless acts under s 15(3) is 52 weeks’ imprisonment and the notional upper limit for negligent acts under s 15(3A) of the WSHA is 20.8 weeks’ imprisonment (see Annex A–1 and Annex A–2). 
 
 
 101    For the rest of the figures within the table, I arrive at these figures by finding a ratio between the notional upper limit derived above, and the rest of the points in the grid as shown in the table. With this ratio, and an actual sentence for the notional upper limit corresponding to the respective offences, I could derive actual sentences for all the points in the grid. I derive this ratio by plotting a graph which I reproduce below: 
@@ -714,7 +714,7 @@ _Prospective overruling_
 
 121    Given the fact that Nurun is being sentenced under a new sentencing framework, the question arises as to whether this is a case suitable for prospective overruling. 
 
-122    In _Adri Anton Kalangie v Public Prosecutor_ [2018] 2 SLR 557 at [70], the court clarified the principles relevant in determining the applicability of the doctrine of prospective overruling: 
+122    In _Adri Anton Kalangie v Public Prosecutor_ <span class="citation">[2018] 2 SLR 557</span> at [70], the court clarified the principles relevant in determining the applicability of the doctrine of prospective overruling: 
 
  (a) The appellate courts (namely, the Court of Appeal and the High Court sitting in an appellant capacity) have the discretion to invoke the doctrine of prospective overruling in exceptional cases. 
 

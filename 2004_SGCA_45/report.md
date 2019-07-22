@@ -59,11 +59,11 @@ _Legislation_
 
 _Case law_ 
 
-9       The case of _Star City Pty Ltd v Tan Hong Woon_ [2002] 2 SLR 22 (“ _Star City_ ”) was of particular importance in the course of our deliberations. As this judgment will make frequent reference to _Star City_ , it is appropriate to deal with it in some detail at the outset. 
+9       The case of _Star City Pty Ltd v Tan Hong Woon_ <span class="citation">[2002] 2 SLR 22</span> (“ _Star City_ ”) was of particular importance in the course of our deliberations. As this judgment will make frequent reference to _Star City_ , it is appropriate to deal with it in some detail at the outset. 
 
 10     The facts of _Star City_ are as follows. The plaintiff casino, located in Sydney, had a CCF that worked on largely the same premises as Burswood’s CCF. The defendant in _Star City_ had handed five cheques to the casino in exchange for a chip purchase voucher, which was then changed for gambling chips. The defendant’s cheques were dishonoured for lack of sufficient funds, and the casino sued in the Singapore High Court to recover the money as an unpaid loan made to the defendant. The defendant contended that the transaction was a gaming contract, and that as such, s 5 of the CLA debarred the casino from bringing an action to recover the moneys owed to it. 
 
-11     In the High Court, Tan Lee Meng J dismissed the casino’s claim: _Star City Pty Ltd v Tan Hong Woon_ [2001] 3 SLR 206. He observed that s 5(2) of the CLA barred our courts from adjudicating any action to recover money alleged to have been won upon any wager, regardless of whether the 
+11     In the High Court, Tan Lee Meng J dismissed the casino’s claim: _Star City Pty Ltd v Tan Hong Woon_ <span class="citation">[2001] 3 SLR 206</span>. He observed that s 5(2) of the CLA barred our courts from adjudicating any action to recover money alleged to have been won upon any wager, regardless of whether the 
 
 
 gambling took place in Singapore or abroad. After a detailed consideration of the case law, he decided that the action was one for money won upon a wager. Accordingly, s 5(2) of the CLA relieved the court from having to deal with the casino’s claim. 
@@ -164,7 +164,7 @@ _Arbitration cases_
 
 34     The relevant legislative provision in all these cases was Art V(2)(b) of the New York Convention for the Recognition and Enforcement of Arbitral Awards (“the New York Convention”), which allows the court to refuse enforcement of a foreign arbitral award if “enforcement of the award would be contrary to the public policy of [the forum] country”. 
 
-35     In _Re An Arbitration between Hainan Machinery Import and Export Corporation and Donald & McArthy Pte Ltd_ [1996] 1 SLR 34, our High Court was asked to enforce a foreign arbitration award pursuant to the New York Convention. Judith Prakash J held at 46, [45] that: 
+35     In _Re An Arbitration between Hainan Machinery Import and Export Corporation and Donald & McArthy Pte Ltd_ <span class="citation">[1996] 1 SLR 34</span>, our High Court was asked to enforce a foreign arbitration award pursuant to the New York Convention. Judith Prakash J held at 46, [45] that: 
 
  [T]he principle of comity of nations requires that the awards of foreign arbitration tribunals be given due deference and be enforced unless exceptional circumstances exist. As a nation which itself aspires to be an international arbitration centre, Singapore must recognise foreign awards if it expects its own awards to be recognised abroad. I could see no exceptional circumstances in this case which would justify the court in refusing to enforce the award ... [emphasis added] 
 

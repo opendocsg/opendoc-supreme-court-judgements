@@ -20,7 +20,7 @@ _Professions_ – _Architects_ – _Building contract_ – _Singapore Institute 
 
 - _Nature of certification duties of architects_ – _Duties of employers/owners in terms of certification duties of architects_ 
 
-(delivering the judgment of the court): This is the second appeal, involving the same matter and parties, which has come before this court. The first appeal, which is reported in [2000] 2 SLR 609, concerned the question of leave to appeal against a decision of an arbitrator under a Singapore Institute of Architects (`SIA`) building contract. Pursuant to the leave granted by us in the first appeal, the question of law, which in our view warranted the grant of leave to appeal to the High Court, was formulated to be the following: 
+(delivering the judgment of the court): This is the second appeal, involving the same matter and parties, which has come before this court. The first appeal, which is reported in <span class="citation">[2000] 2 SLR 609</span>, concerned the question of leave to appeal against a decision of an arbitrator under a Singapore Institute of Architects (`SIA`) building contract. Pursuant to the leave granted by us in the first appeal, the question of law, which in our view warranted the grant of leave to appeal to the High Court, was formulated to be the following: 
 
  What is the nature or extent of the term to be implied as regards the duties of (Hong Huat Development Co Pte Ltd) as employers in relation to the certifying functions of the architect under the SIA Conditions? 
 

@@ -74,7 +74,7 @@ learned Plaintiff’s counsel also referred me to Black’s Law Dictionary, 9th 
 
 **Decision of this court** 
 
-10     Singapore law permits foreign judgments to be registered in accordance with the relevant provisions of the law. I agree with the observations of the Singapore High Court in _DHL Global Forwarding (Malaysia) Sdn Bhd v Mactus (Malaysia) Sdn Bhd and others_ [2013] SGHC 170 (“ _DHL Global_ ”) at [4] that _“_ [t]he court’s approach toward registration is a light touch approach. In practice, the default is to permit registration of foreign judgments unless certain formal features are missing.” The statutory provisions applicable in this case are the s 3(2) of the RECJA and Order 67, Rule 9 of the Rules of Court. Order 67, Rule 9 of the Rules of Court provides that: 
+10     Singapore law permits foreign judgments to be registered in accordance with the relevant provisions of the law. I agree with the observations of the Singapore High Court in _DHL Global Forwarding (Malaysia) Sdn Bhd v Mactus (Malaysia) Sdn Bhd and others_ <span class="citation">[2013] SGHC 170</span> (“ _DHL Global_ ”) at [4] that _“_ [t]he court’s approach toward registration is a light touch approach. In practice, the default is to permit registration of foreign judgments unless certain formal features are missing.” The statutory provisions applicable in this case are the s 3(2) of the RECJA and Order 67, Rule 9 of the Rules of Court. Order 67, Rule 9 of the Rules of Court provides that: 
 
  Where the Court hearing an application to set aside the registration of a judgment registered under the [RECJA] is satisfied that the judgment falls within any of the cases in which a judgment may not be ordered to be registered under section 3 (2) of that Act or that it is not just or convenient that the judgment should be enforced in Singapore or that there is some other sufficient reason for setting aside the registration, it may order the registration of the judgment to be set aside on such terms as it thinks fit. [emphasis added] 
 
@@ -130,7 +130,7 @@ learned Plaintiff’s counsel also referred me to Black’s Law Dictionary, 9th 
 
 **_“[N]either carrying on business nor ordinarily resident within the jurisdiction of the original court”_** 
 
-20     In _United Malayan Banking Corp Bhd v Khoo Boo Hor_ [1995] 3 SLR(R) 839 at [9], the Singapore High Court held: 
+20     In _United Malayan Banking Corp Bhd v Khoo Boo Hor_ <span class="citation">[1995] 3 SLR(R) 839</span> at [9], the Singapore High Court held: 
 
  In relation to corporations, residence or presence has little meaning. The equivalent concept is whether a corporation carries on business in the foreign country so as to render itself amenable to the jurisdiction of the foreign court. In the enforcement of foreign judgments at common law, the concept of “carrying on business” is peculiar to corporations. 
 
@@ -142,7 +142,7 @@ The court further observed (at [14]) that “for a corporation to be carrying on
 
 **_“[D]id not voluntarily appear or otherwise submit or agree to submit to the jurisdiction of that court”_** 
 
-23     In _WSG Nimbus Pte Ltd v Board of Control for Cricket in Sri Lanka_ [2002] 1 SLR(R) 1088, the High Court observed that the question in every case is whether the party contesting jurisdiction of the original court “had taken a step in the proceedings which necessarily involved waiving their objection to the jurisdiction”. Actions which amount to submission to the jurisdiction of the foreign court include, _inter alia_ : 
+23     In _WSG Nimbus Pte Ltd v Board of Control for Cricket in Sri Lanka_ <span class="citation">[2002] 1 SLR(R) 1088</span>, the High Court observed that the question in every case is whether the party contesting jurisdiction of the original court “had taken a step in the proceedings which necessarily involved waiving their objection to the jurisdiction”. Actions which amount to submission to the jurisdiction of the foreign court include, _inter alia_ : 
 
  (a) Initiating an action as the plaintiff; 
 
@@ -151,7 +151,7 @@ The court further observed (at [14]) that “for a corporation to be carrying on
 
  (c) Making a counterclaim, cross-action or claim for set-off. 
 
-24     A party may also submit to the jurisdiction of a foreign court by agreement. Once an agreement to submit to the jurisdiction of a foreign court has been established, it does not matter whether the party _in fact_ subsequently enters an appearance: _Burswood Nominees Ltd v Liao Eng Kiat_ [2004] 2 SLR(R) 436. However, an agreement to submit to the jurisdiction of a foreign court must be express and will not be implied: see _Sun-Line (Management) Ltd v Canpotex Shipping Services Ltd_ [19851986] SLR(R) 695 (“ _Sun-Line_ ”) and _United Overseas Bank Ltd v Tjong Tjui Njuk_ [1987] SLR 275. Hence, in _Sun-Line_ , the High Court refused to imply such an agreement from an agreement that the contract in question was to be governed by the law of the foreign country. The following, without more, do not amount to submissions to the jurisdiction of a foreign court by agreement: 
+24     A party may also submit to the jurisdiction of a foreign court by agreement. Once an agreement to submit to the jurisdiction of a foreign court has been established, it does not matter whether the party _in fact_ subsequently enters an appearance: _Burswood Nominees Ltd v Liao Eng Kiat_ <span class="citation">[2004] 2 SLR(R) 436</span>. However, an agreement to submit to the jurisdiction of a foreign court must be express and will not be implied: see _Sun-Line (Management) Ltd v Canpotex Shipping Services Ltd_ [19851986] SLR(R) 695 (“ _Sun-Line_ ”) and _United Overseas Bank Ltd v Tjong Tjui Njuk_ [1987] SLR 275. Hence, in _Sun-Line_ , the High Court refused to imply such an agreement from an agreement that the contract in question was to be governed by the law of the foreign country. The following, without more, do not amount to submissions to the jurisdiction of a foreign court by agreement: 
 
  (a) The fact that the contract in question is made in the foreign country or involves the conduct of business in that country, or the fact that the cause of action arose there; 
 

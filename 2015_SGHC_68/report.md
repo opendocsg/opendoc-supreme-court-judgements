@@ -24,7 +24,7 @@ _Family Law_ – _Guardianship_
 
 1       Two children, whose father (“the Father”) is deceased, are at the centre of this contest between their mother (“the Mother”), on the one hand, and their grandmother (“the Grandmother”) and testamentary guardians (“the Testamentary Guardians”), on the other. 
 
-2       The present application is for leave to appeal to the Court of Appeal against my decision on an appeal arising out of custody, care, control and access orders made by a District Judge (“the Judge”) in originating summonses brought under the Guardianship of Infants Act (Cap 122, 1985 Rev Ed) (“GIA”). The Judge issued his grounds in _JBE v JBF, JBG, JBH, JBI and JBJ_ [2014] SGDC 423 (“the GD”). 
+2       The present application is for leave to appeal to the Court of Appeal against my decision on an appeal arising out of custody, care, control and access orders made by a District Judge (“the Judge”) in originating summonses brought under the Guardianship of Infants Act (Cap 122, 1985 Rev Ed) (“GIA”). The Judge issued his grounds in _JBE v JBF, JBG, JBH, JBI and JBJ_ <span class="citation">[2014] SGDC 423</span> (“the GD”). 
 
 **Background** 
 
@@ -127,7 +127,7 @@ permanent psychological scar” on the Children from which they had yet to recov
 
 _The best interests of the Children_ 
 
-21     Counsel for the Mother contended that the best interests of the Children were served by giving the Mother care and control. Relying on the Court of Appeal decision of _Soon Pec k Wah v Woon Che Chye_ [1997] 3 SLR(R) 430 (“ _Soon Pec k Wah_ ”) at [45] which emphasised the maternal bond between a mother and her child, counsel’s submission was that the Children, as infants, would be better off if they were cared for by their natural mother. 
+21     Counsel for the Mother contended that the best interests of the Children were served by giving the Mother care and control. Relying on the Court of Appeal decision of _Soon Pec k Wah v Woon Che Chye_ <span class="citation">[1997] 3 SLR(R) 430</span> (“ _Soon Pec k Wah_ ”) at [45] which emphasised the maternal bond between a mother and her child, counsel’s submission was that the Children, as infants, would be better off if they were cared for by their natural mother. 
 
 22     The respondents countered with two points. First, _Soon Pec k Wah_ simply stood for the proposition that where all things were equal, the child should not be deprived of his mother’s love and 
 
@@ -138,7 +138,7 @@ nor override the court’s paramount consideration of the welfare of the Childre
 
 23     The short answer to the submission based on _Soon Pec k Wah_ was that it was plain this case was not one where things were equally balanced. On the facts, the Mother did not have, at present, a good relationship with the Children. The Grandmother and Testamentary Guardians, on the other hand, had been the Children’s essential source of comfort and wellbeing since the passing of their Father. 
 
-24     The Mother also relied upon the Court of Appeal decision of _Re C (an infant)_ [2003] 1 SLR(R) 502 (“ _Re C_ ”), where it was observed (at [15]) that a surviving parent had a _prima fac ie_ right to the custody of the child. In this regard, I found it useful to refer to the relevant paragraph in _Re C_. It reads as follows: 
+24     The Mother also relied upon the Court of Appeal decision of _Re C (an infant)_ <span class="citation">[2003] 1 SLR(R) 502</span> (“ _Re C_ ”), where it was observed (at [15]) that a surviving parent had a _prima fac ie_ right to the custody of the child. In this regard, I found it useful to refer to the relevant paragraph in _Re C_. It reads as follows: 
 
  15 We accept the principle advanced that, prima fac ie , a surviving parent should have the right to custody of his child. This follows naturally from the settled rule that both parents of a child have equal rights over the child and if one parent should die, then the surviving parent would ordinarily have the sole right over the child. This is substantially provided in s 6 of the [GIA]. ... 
 
@@ -155,9 +155,9 @@ nor override the court’s paramount consideration of the welfare of the Childre
 
  Harrison [1981] NZ Recent Law 257. Ultimately, the c ourt must dec ide based on the c hild’s best interest. [emphasis added] 
 
-28     In the subsequent Court of Appeal decision of _IW v IX_ [2006] 1 SLR(R) 135 (“ _IW v IX_ ”), the court reiterated that the term “welfare” should be taken in its widest sense and that it is neither possible nor desirable to define it (at [26]). 
+28     In the subsequent Court of Appeal decision of _IW v IX_ <span class="citation">[2006] 1 SLR(R) 135</span> (“ _IW v IX_ ”), the court reiterated that the term “welfare” should be taken in its widest sense and that it is neither possible nor desirable to define it (at [26]). 
 
-29     The recent Court of Appeal decision of _BNS v BNT_ [2015] SGCA 23, which concerned a mother seeking to relocate her children to Canada, highlighted “the golden thread that runs through _all_ proceedings directly affecting the interests of children” (at [19]). This “golden thread” is that “ **_the welfare of the child is paramount and this principle ought to override any other consideration_** ” [emphasis in original]. 
+29     The recent Court of Appeal decision of _BNS v BNT_ <span class="citation">[2015] SGCA 23</span>, which concerned a mother seeking to relocate her children to Canada, highlighted “the golden thread that runs through _all_ proceedings directly affecting the interests of children” (at [19]). This “golden thread” is that “ **_the welfare of the child is paramount and this principle ought to override any other consideration_** ” [emphasis in original]. 
 
 30     _Turning bac k to the fac ts of the present c ase_ , the Grandmother and Testamentary Guardians have a loving relationship with the Children, who have been living in the Grandmother’s house since they were born. These are factors highlighted in _Re C_ as important to a child’s welfare. As for the Mother, the Judge tried various forms of intervention to facilitate the Children’s access with her, referring the matter to different counsellors and counselling centres. Those efforts were in vain. A/P Wong, who had been treating the elder child since July 2013 and had also recently started treating the younger child, indicated in his report of 19 March 2015 that the elder daughter, in particular, had serious psychiatric issues arising from her past interaction with the Mother, which had to be overcome first. My view, formed from my conversation with him regarding the Children, is that the Children require a stable platform in order to move forward with their Mother. In that respect, preserving the _status quo_ and allowing the Children continuity of care with the Grandmother and Testamentary Guardians, would provide the required platform of stability upon which the Children could be encouraged to build a new bond with their Mother. 
 
@@ -174,7 +174,7 @@ nor override the court’s paramount consideration of the welfare of the Childre
 
 _The legal c ontext_ 
 
-35     Under s 34(5) of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed), leave is required for an appeal to the Court of Appeal. In this regard, the principles governing when leave ought to be granted are set out in the Court of Appeal decision of _Lee Kuan Yew v Tang Liang Hong and another_ [1997] 2 SLR(R) 862 (“ _Lee Kuan Yew v Tang Liang Hong_ ”) at [16]. Leave to appeal may be granted where a party can show: (a) a _prima fac ie_ case of error; (b) a question of general principle decided for the first time; or (c) a question of importance upon which further argument and a decision of a higher tribunal would be to the public advantage. 
+35     Under s 34(5) of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed), leave is required for an appeal to the Court of Appeal. In this regard, the principles governing when leave ought to be granted are set out in the Court of Appeal decision of _Lee Kuan Yew v Tang Liang Hong and another_ <span class="citation">[1997] 2 SLR(R) 862</span> (“ _Lee Kuan Yew v Tang Liang Hong_ ”) at [16]. Leave to appeal may be granted where a party can show: (a) a _prima fac ie_ case of error; (b) a question of general principle decided for the first time; or (c) a question of importance upon which further argument and a decision of a higher tribunal would be to the public advantage. 
 
 36     In _IW v IX_ , the Court of Appeal affirmed that the same principles apply in custody cases. 
 

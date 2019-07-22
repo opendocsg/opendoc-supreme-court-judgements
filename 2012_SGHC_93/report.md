@@ -57,7 +57,7 @@ _Words and Phrases_ – _definitions_ – _“child”_ – _whether definition 
 
 6       The plaintiffs’ submissions were made by Mr Gregory Vijayendran (“Mr Vijayendran”) and comprised two parts. The first was to persuade me that there is no obstacle in the Act which prevents me from interpreting “child” to include a step-child. The second part was an attempt to convince me why I should do so. 
 
-7       In the first part of his submissions, Mr Vijayendran stated that the Act does not expressly or impliedly exclude step-children, unlike illegitimate children. According to him, the word “includes” indicates an inclusionary and enlarging definition. It makes clear that the definition includes a matter that otherwise would or might be taken as outside it (see _Dilworth v Commissioner of Stamps_ (1899) AC 99 and _Lui Chang Soong v Public Prosecutor_ [1992] 1 SLR(R) 229). Therefore, there is no restriction on reading “child” to include a step-child. 
+7       In the first part of his submissions, Mr Vijayendran stated that the Act does not expressly or impliedly exclude step-children, unlike illegitimate children. According to him, the word “includes” indicates an inclusionary and enlarging definition. It makes clear that the definition includes a matter that otherwise would or might be taken as outside it (see _Dilworth v Commissioner of Stamps_ (1899) AC 99 and _Lui Chang Soong v Public Prosecutor_ <span class="citation">[1992] 1 SLR(R) 229</span>). Therefore, there is no restriction on reading “child” to include a step-child. 
 
 8       Mr Vijayendran then made four arguments as to why a step-child should be included within the definition of “child”. He submitted, firstly, that this would be in line with Parliament’s intention. In the Parliamentary debates during the second reading of the Intestate Succesion Bill (Singapore 
 
@@ -70,7 +70,7 @@ of step-children. Parliament could not have been oblivious to such stepchildren 
 
 10     Mr Vijayendran’s third and fourth arguments were pre-emptive counter-arguments. A policy reason why step-children should not come under the Act was the possibility of “double-dipping”, where step-children could potentially claim under the estate of their biological as well as their stepparents. In respect of this policy reason, he argued that this possibility did not appear in the records as a matter of concern for Parliament. Citing _Re Leach (deceased)_ [1985] 3 WLR 413 and _Re Callaghan (deceased)_ [1985] Fam 1, he further argued that the double-dipping problem would be mitigated in cases where the step-child was treated as a child of the step-parent and if the deceased step-parent’s estate comprised largely of assets which were derived from the step-child’s biological parent. The fact situation here falls within these two mitigating factors. 
 
-11     Fourth, in _AAG v Estate of AAH, deceased_ [2010] 1 SLR 769 (“ _AAG v AAH”_ ), the Court of Appeal at [37] said that: 
+11     Fourth, in _AAG v Estate of AAH, deceased_ <span class="citation">[2010] 1 SLR 769</span> (“ _AAG v AAH”_ ), the Court of Appeal at [37] said that: 
 
  ... the ordinary literal meaning of “daughter” would appear to have nothing to do with the legal state of legitimacy but with a biological fact. 
 
@@ -123,7 +123,7 @@ This suggests that there has to be a biological connection which, in turn, would
 
 **The decision of the court** 
 
-14     The significance of the word “includes” in a definition may be very different when it is used in the phrase “means ... and includes”. On its own, the word “includes” makes a definition extensive (see _Chin Seow Noi and others v Public Prosecutor_ [1993] 3 SLR(R) 566 at [77]). In contrast, the phrase “means ... and includes” may serve two purposes. The word “includes” can either illustrate the main meaning or it can extend the main meaning beyond its natural import (see _Pan-United Marine Ltd v Chief Assessor_ [2008] 3 SLR 569). 
+14     The significance of the word “includes” in a definition may be very different when it is used in the phrase “means ... and includes”. On its own, the word “includes” makes a definition extensive (see _Chin Seow Noi and others v Public Prosecutor_ <span class="citation">[1993] 3 SLR(R) 566</span> at [77]). In contrast, the phrase “means ... and includes” may serve two purposes. The word “includes” can either illustrate the main meaning or it can extend the main meaning beyond its natural import (see _Pan-United Marine Ltd v Chief Assessor_ <span class="citation">[2008] 3 SLR 569</span>). 
 
 15     With these principles in mind, I turn to s 3 of the Act. In my view, “legitimate child” is the main meaning and “adopted child” is the enlarged definition beyond the natural import of the word “child”. Taken as a whole and in its proper context, the Act requires a legal and biological connection between parent and child and hence the exception for lawfully adopted children who satisfy the legal but not the biological requirement. 
 

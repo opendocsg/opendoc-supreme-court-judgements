@@ -59,10 +59,10 @@ _Criminal Procedure and Sentencing_ – _Confiscation and forfeiture_ – _Wheth
 
 **Principles of revision** 
 
-14     The High Court’s revisionary powers are conferred by s 23 of the Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed) (“SCJA”) and s 268 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) (“CPC”). It is established law that such powers of revision are discretionary and must be exercised sparingly. The test laid down by the courts is whether the failure to exercise revisionary powers will result in serious injustice being done. No precise definition of what constitutes serious injustice is possible. However, it must generally be shown that there was something palpably wrong in the decision by the court below, which strikes at its basis as an exercise of judicial power: see _Ang Poh Chuan v PP_ [1996] 1 SLR 326, followed in _Magnum Finance Bhd v PP_ [1996] 2 SLR 523 and _Credit_ 
+14     The High Court’s revisionary powers are conferred by s 23 of the Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed) (“SCJA”) and s 268 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) (“CPC”). It is established law that such powers of revision are discretionary and must be exercised sparingly. The test laid down by the courts is whether the failure to exercise revisionary powers will result in serious injustice being done. No precise definition of what constitutes serious injustice is possible. However, it must generally be shown that there was something palpably wrong in the decision by the court below, which strikes at its basis as an exercise of judicial power: see _Ang Poh Chuan v PP_ <span class="citation">[1996] 1 SLR 326</span>, followed in _Magnum Finance Bhd v PP_ <span class="citation">[1996] 2 SLR 523</span> and _Credit_ 
 
 
-_Corporation (M) Bhd v PP_ [2000] 3 SLR 762. 
+_Corporation (M) Bhd v PP_ <span class="citation">[2000] 3 SLR 762</span>. 
 
 **Whether the trial court should have exercised its discretion to forfeit** 
 
@@ -82,7 +82,7 @@ _Corporation (M) Bhd v PP_ [2000] 3 SLR 762.
 
 17     The issue before me, therefore, was whether, in the circumstances before the court, the forfeiture order was justified. 
 
-18     I have stated that owners of vehicles ought to be charged to enable them to defend themselves: _Chandra Kumar v PP_ [1995] 3 SLR 123 and _Ang Poh Chuan_ (at [14] _supra_ ). On the other hand, the courts have no duty to conduct an investigation into the ownership of the vehicle before ordering its forfeiture. Furthermore, HLF itself admitted that the Prosecution had no positive statutory duty to inform it of the intended forfeiture. 
+18     I have stated that owners of vehicles ought to be charged to enable them to defend themselves: _Chandra Kumar v PP_ <span class="citation">[1995] 3 SLR 123</span> and _Ang Poh Chuan_ (at [14] _supra_ ). On the other hand, the courts have no duty to conduct an investigation into the ownership of the vehicle before ordering its forfeiture. Furthermore, HLF itself admitted that the Prosecution had no positive statutory duty to inform it of the intended forfeiture. 
 
 1       9 In a case such as this where the offence is serious, the courts’ concern is to prevent the vehicle from being used in the commission of further offences. Moreover, the lack of opportunity to be heard only amounts to hardship on the part of finance companies: _Ang Poh Chuan_ (at [14] _supra_ ). Such hardship does not by itself lead to a finding of injustice upon which a criminal revision must be premised. To show injustice, it would have to be further shown that the trial court had erred in ordering forfeiture. It is to this issue that I now turn. 
 
@@ -90,14 +90,14 @@ _Corporation (M) Bhd v PP_ [2000] 3 SLR 762.
 
 complicity of the petitioner in the offence and the fact that the petitioner could not reasonably have taken any preventive measures regarding the use of the vehicle in the commission of the offence were relevant considerations for the court in exercising its discretion to forfeit. I also accepted that the value of the vehicle was relevant in so far as it should be considered whether forfeiture was proportionate to the gravity of the offence and the maximum punishment that could be imposed. 
 
-21     HLF also relied on the case of _Tanglin Cars Pte Ltd v PP_ [1997] 1 SLR 428, where I had stated that it would also have to be shown that the petitioners were so grossly negligent in the manner they conducted their business that it could be said that they were “tainted with complicity” in having shown reckless disregard for the consequences of the use of their vehicle. 
+21     HLF also relied on the case of _Tanglin Cars Pte Ltd v PP_ <span class="citation">[1997] 1 SLR 428</span>, where I had stated that it would also have to be shown that the petitioners were so grossly negligent in the manner they conducted their business that it could be said that they were “tainted with complicity” in having shown reckless disregard for the consequences of the use of their vehicle. 
 
 22     HLF submitted that it was an innocent party which did not connive or participate in or benefit 
 
 
 from the offence Tan committed. HLF further submitted that it was reasonably prudent in granting the hire purchase facilities to Tan. HLF argued that it had verified the income of Tan and was satisfied that Tan’s debt serving ratio was sufficient for him to service the instalments. The vehicle was a refrigerated motor lorry which HLF believed was to be used for Tan’s legitimate business of supplying frozen food. The hire purchase agreement further provided that the vehicle should not be used contrary to law, and that in the event of such a breach of the agreement, HLF would be entitled to resume possession of the vehicle. 
 
-23     However, this was not the first time that a finance company had argued its innocence before the court. In _PP v Mayban Finance (Singapore) Ltd_ [1998] 1 SLR 462, an order was made to forfeit a lorry under hire purchase which had been used to transport illegal workers. In that case, I stated at [33] and [34] that: 
+23     However, this was not the first time that a finance company had argued its innocence before the court. In _PP v Mayban Finance (Singapore) Ltd_ <span class="citation">[1998] 1 SLR 462</span>, an order was made to forfeit a lorry under hire purchase which had been used to transport illegal workers. In that case, I stated at [33] and [34] that: 
 
  I was aware that this case could have tremendous repercussions on the finance or car rental companies. It is unfortunate that they should be the unwitting victims. In most cases, the finance companies would have no knowledge of the background of the applicant under the hirepurchase agreement. However, the finance and car rental companies could take certain precautions, eg requiring a guarantee from the purchasers of vehicles under hire-purchase agreements. This would increase the cost of persons using such vehicles for their business. However, I am confident that the slight increase in cost should not deter them from doing business. ... 
 

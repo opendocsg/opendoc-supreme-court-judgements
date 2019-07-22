@@ -28,7 +28,7 @@ _Courts and Jurisdiction_ – _Abuse of process_ – _Contractor seeking interim
 
 1       When should the court lend its assistance to prospective or ongoing arbitration proceedings? How should the court exercise its powers in this regard? These issues often bedevil both counsel and the court alike given the present-day prevalence of arbitration agreements. In these grounds of decision, we attempt to elucidate the legal position in the hope that the arbitral community will find it helpful. In particular, we wish to clarify the circumstances in which it may be appropriate for parties to an arbitration agreement to seek the assistance of the courts. 
 
-2       This was an appeal by NCC International AB (“the appellant”) against the refusal of the High Court judge (“the Judge”) to grant an interlocutory mandatory injunction pending arbitration in _NCC International AB v Alliance Concrete Singapore Pte Ltd_ [2007] SGHC 64 (“the GD”). Having carefully considered the submissions of both parties, we dismissed the appeal. We now give the detailed grounds for our decision. 
+2       This was an appeal by NCC International AB (“the appellant”) against the refusal of the High Court judge (“the Judge”) to grant an interlocutory mandatory injunction pending arbitration in _NCC International AB v Alliance Concrete Singapore Pte Ltd_ <span class="citation">[2007] SGHC 64</span> (“the GD”). Having carefully considered the submissions of both parties, we dismissed the appeal. We now give the detailed grounds for our decision. 
 
 **The facts** 
 
@@ -129,7 +129,7 @@ _Arbitral proceedings under the IAA_
 28     Although the courts are conferred the power to grant interim relief in international arbitration 
 
 
-proceedings, they will not exercise this power generously. We broadly agree with Belinda Ang Saw Ean J’s remark in _Front Carriers Ltd v Atlantic & Orient Shipping Corp_ [2006] 3 SLR 854 at [15] that the interim measures of protection in s 12(1) of the IAA “are essentially remedies aimed at assisting in the just and proper conduct of arbitration, or in the preservation of property which is the subject matter of the arbitration”. We arrived at this conclusion based on a contextual reading of ss 12(1) and 12(7) of the IAA, taking into consideration the drafting history as well as the object and purpose of this Act. 
+proceedings, they will not exercise this power generously. We broadly agree with Belinda Ang Saw Ean J’s remark in _Front Carriers Ltd v Atlantic & Orient Shipping Corp_ <span class="citation">[2006] 3 SLR 854</span> at [15] that the interim measures of protection in s 12(1) of the IAA “are essentially remedies aimed at assisting in the just and proper conduct of arbitration, or in the preservation of property which is the subject matter of the arbitration”. We arrived at this conclusion based on a contextual reading of ss 12(1) and 12(7) of the IAA, taking into consideration the drafting history as well as the object and purpose of this Act. 
 
 (1) Contextual interpretation 
 
@@ -347,7 +347,7 @@ On the facts of that case, the learned judge set aside both _ex parte_ orders, h
 
 70     Given the legal principles established above, in view of the facts of the present appeal, the appellant’s conduct amounted to an abuse of the process of the court because the appellant, despite having no genuine intention to commence arbitration, sought the Interim Injunction from the court on the ostensible basis that it intended to commence arbitral proceedings against the respondent (see, in this regard, [12] above). In effect, the appellant was using the curial process to resolve its dispute with the respondent contrary to the arbitration provision in the Concrete Contract. 
 
-71     In _Chee Siok Chin v Minister for Home Affairs_ [2006] 1 SLR 582 (“ _Chee Siok Chin_ ”), the High Court set out (at [34]) four categories of proceedings that would amount to an abuse of process, as follows: 
+71     In _Chee Siok Chin v Minister for Home Affairs_ <span class="citation">[2006] 1 SLR 582</span> (“ _Chee Siok Chin_ ”), the High Court set out (at [34]) four categories of proceedings that would amount to an abuse of process, as follows: 
 
  (a) proceedings which involve a deception on the court, or are fictitious or constitute a 
 
@@ -362,7 +362,7 @@ On the facts of that case, the learned judge set aside both _ex parte_ orders, h
 
  [emphasis in original] 
 
-72     Although _Chee Siok Chin_ concerned an application to strike out proceedings, the court’s pronouncement on what constitutes an abuse of process is equally pertinent in this appeal. It is also important to note that the four categories set out in that case are not closed; new categories may be created, depending on the circumstances of the case (see _Gabriel Peter & Partners v Wee Chong Jin_ [1998] 1 SLR 374 at [22], which was endorsed in _Chee Siok Chin_ at [38]). 
+72     Although _Chee Siok Chin_ concerned an application to strike out proceedings, the court’s pronouncement on what constitutes an abuse of process is equally pertinent in this appeal. It is also important to note that the four categories set out in that case are not closed; new categories may be created, depending on the circumstances of the case (see _Gabriel Peter & Partners v Wee Chong Jin_ <span class="citation">[1998] 1 SLR 374</span> at [22], which was endorsed in _Chee Siok Chin_ at [38]). 
 
 73     In the present appeal, the proceedings fell within the second category stated in _Chee Siok Chin_ (see the list in [71] above). The appellant used the court’s process in an improper way as interim relief should rightly have been sought from an arbitral tribunal, as provided for under cl 80 of the Concrete Contract read with cl 71 of the Main Contract (see _Leviathan Shipping_ ([67] _supra_ )). Yet, instead of either submitting its dispute with the respondent to the Engineer or having recourse to mediation or arbitration, the appellant’s first reaction was to apply to court for _ex parte_ interlocutory relief in the form of the Interim Injunction. 
 
@@ -370,7 +370,7 @@ On the facts of that case, the learned judge set aside both _ex parte_ orders, h
 
 **_The exceptional nature of an interim mandatory injunction_** 
 
-75     In any event, an interim mandatory injunction is a very exceptional discretionary remedy. There is a much higher threshold to be met in order to persuade the court to grant such an injunction as compared to an ordinary prohibitive injunction. Case law has established that the courts will only grant an interim mandatory injunction in clear cases where special circumstances exist (see _Chin Bay Ching v Merchant Ventures Pte Ltd_ [2005] 3 SLR 142 at [37] and _Locabail International Finance Ltd v Agroexport_ [1986] 1 WLR 657 at 663–664). 
+75     In any event, an interim mandatory injunction is a very exceptional discretionary remedy. There is a much higher threshold to be met in order to persuade the court to grant such an injunction as compared to an ordinary prohibitive injunction. Case law has established that the courts will only grant an interim mandatory injunction in clear cases where special circumstances exist (see _Chin Bay Ching v Merchant Ventures Pte Ltd_ <span class="citation">[2005] 3 SLR 142</span> at [37] and _Locabail International Finance Ltd v Agroexport_ [1986] 1 WLR 657 at 663–664). 
 
 76     In the present appeal, there was no reason to grant the Interim Injunction because there was simply no urgency or pressing need which warranted the ordering of such an interlocutory measure. By the time the appeal came before this court, a lengthy period of time had already elapsed since the dispute first arose. In our view, it could plainly be inferred from the appellant’s inaction _visà-vis_ commencing arbitration that the appellant would not suffer inordinate prejudice by waiting for 
 

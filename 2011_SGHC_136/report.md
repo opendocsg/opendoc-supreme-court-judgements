@@ -196,7 +196,7 @@ This is also the position taken in the UK, where s 11(1) of the Trade Marks Act 
 Registry was pleaded. [note: 2] Since the application to the Trade Marks Registry had been withdrawn, there was nothing in the Statement of Claim to show that the Nine Squares Registered Marks were 
 
 
-invalid or could be invalidated even if all the pleadings in the Statement of Claim were proven. Accordingly, the s 55A(2) defence applied as a complete defence such that no valid cause of action could be made out against the defendant. The defendant relied on the rule that a reasonable cause of action is a cause of action which has some chance of success _when only the allegations in the pleadings are considered_ (see _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ [1997] 3 SLR(R) 649 at [21]). 
+invalid or could be invalidated even if all the pleadings in the Statement of Claim were proven. Accordingly, the s 55A(2) defence applied as a complete defence such that no valid cause of action could be made out against the defendant. The defendant relied on the rule that a reasonable cause of action is a cause of action which has some chance of success _when only the allegations in the pleadings are considered_ (see _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ <span class="citation">[1997] 3 SLR(R) 649</span> at [21]). 
 
 21     In my view, it was not plain and obvious that no valid cause of action could be made out even when only the allegations in the Statement of Claim were considered. On the contrary, the plaintiffs had set out clearly in their pleadings that “Nine Squares had no right to apply for the registration of or 
 

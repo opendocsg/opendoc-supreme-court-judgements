@@ -170,7 +170,7 @@ they and their successors would be entitled to remain upon the land indefinitely
 
  (c) A must have incurred expenditure or otherwise have prejudiced himself or acted to his detriment. 
 
-The above principles were reiterated by Sunderesh Menon JC in the recent case of _Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd_ [2007] 1 SLR 292, which was cited by the defendants. 
+The above principles were reiterated by Sunderesh Menon JC in the recent case of _Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd_ <span class="citation">[2007] 1 SLR 292</span>, which was cited by the defendants. 
 
 43     The learned authors of _Snell’s Equity_ went on to consider the extent of and satisfaction of the equity. At para 10-21 to 10-23 at pp 283-285, they said: 
 

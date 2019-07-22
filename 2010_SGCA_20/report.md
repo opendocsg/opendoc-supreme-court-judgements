@@ -26,7 +26,7 @@ _Statutory Interpretation_
 
 _Words and Phrases_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2009] SGHC 4.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2009] SGHC 4</span>.] 
 
 14 May 2010 Judgment reserved. 
 
@@ -34,7 +34,7 @@ _Words and Phrases_
 
 **Introduction** 
 
-1       The appellant, Yong Vui Kong (“the Appellant”), was convicted of trafficking in 47.27g of diamorphine, a controlled drug, and sentenced to death (see _Public Prosecutor v Yong Vui Kong_ [2009] SGHC 4). He appealed against the conviction and the sentence, but later withdrew that appeal. Four days before the sentence was to be carried out, he filed Criminal Motion No 41 of 2009 (“CM 41/2009”) seeking leave to pursue his appeal. This court granted him leave to do so (see _Yong Vui Kong v Public Prosecutor_ [2009] SGCA 64). In the present proceedings, the Appellant’s counsel, Mr M Ravi (“Mr Ravi”), has confirmed that the Appellant is appealing against only his sentence, and not his conviction. 
+1       The appellant, Yong Vui Kong (“the Appellant”), was convicted of trafficking in 47.27g of diamorphine, a controlled drug, and sentenced to death (see _Public Prosecutor v Yong Vui Kong_ <span class="citation">[2009] SGHC 4</span>). He appealed against the conviction and the sentence, but later withdrew that appeal. Four days before the sentence was to be carried out, he filed Criminal Motion No 41 of 2009 (“CM 41/2009”) seeking leave to pursue his appeal. This court granted him leave to do so (see _Yong Vui Kong v Public Prosecutor_ <span class="citation">[2009] SGCA 64</span>). In the present proceedings, the Appellant’s counsel, Mr M Ravi (“Mr Ravi”), has confirmed that the Appellant is appealing against only his sentence, and not his conviction. 
 
 **The issues raised in this appeal** 
 
@@ -43,7 +43,7 @@ _Words and Phrases_
 
 3       In this judgment, the cases to be considered and the legal points to be discussed relate to different revised editions of both the Constitution of the Republic of Singapore and the Misuse of Drugs Act. For simplicity, we shall hereafter refer to the particular revised edition of the statute that is relevant to the case or legal point being discussed as “the Singapore Constitution” ( _vis-à-vis_ the Constitution of the Republic of Singapore) and “the MDA” ( _vis-à-vis_ the Misuse of Drugs Act). 
 
-4       The Appellant is challenging the constitutional validity of s 33 read with the Second Schedule to the MDA (collectively referred to hereafter as “the MDP provisions in the MDA”), under which he was sentenced to suffer the MDP. This challenge against the MDP for drug-related offences is not new. It was made in 1980 before the Privy Council in _Ong Ah Chuan v Public Prosecutor_ [1981] AC 648 (“ _Ong Ah Chuan_ ”) and in 2004 before this court in _Nguyen Tuong Van v Public Prosecutor_ [2005] 1 SLR(R) 103 (“ _Nguyen_ ”). In both cases, it was contended that the MDP prescribed by the MDA for the offence in question ( _viz_ , trafficking in controlled drugs in _Ong Ah Chuan_ and importation of controlled drugs in _Nguyen_ ) was unconstitutional because it infringed Arts 9(1) and 12(1) of the Singapore Constitution. In both cases, the constitutional challenge to the MDP was dismissed. 
+4       The Appellant is challenging the constitutional validity of s 33 read with the Second Schedule to the MDA (collectively referred to hereafter as “the MDP provisions in the MDA”), under which he was sentenced to suffer the MDP. This challenge against the MDP for drug-related offences is not new. It was made in 1980 before the Privy Council in _Ong Ah Chuan v Public Prosecutor_ [1981] AC 648 (“ _Ong Ah Chuan_ ”) and in 2004 before this court in _Nguyen Tuong Van v Public Prosecutor_ <span class="citation">[2005] 1 SLR(R) 103</span> (“ _Nguyen_ ”). In both cases, it was contended that the MDP prescribed by the MDA for the offence in question ( _viz_ , trafficking in controlled drugs in _Ong Ah Chuan_ and importation of controlled drugs in _Nguyen_ ) was unconstitutional because it infringed Arts 9(1) and 12(1) of the Singapore Constitution. In both cases, the constitutional challenge to the MDP was dismissed. 
 
 5       Notwithstanding the decisions in _Ong Ah Chuan_ and _Nguyen_ , both of which affirm the constitutionality of the MDP provisions in the MDA, we gave leave to the Appellant in CM 41/2009 to pursue the present appeal and argue both the general issue and the specific issue delineated at [2] above because Mr Ravi said that he had new arguments based on new materials to show that both _Ong Ah Chuan_ and _Nguyen_ were wrongly decided at the relevant time, and that, today, this court should depart from those decisions and declare the MDP unconstitutional in view of Art 9(1) and/or Art 12(1) of the Singapore Constitution. 
 
@@ -110,7 +110,7 @@ _The decision in_ Ong Ah Chuan
 
 However, beyond what was actually decided in _Ong Ah Chuan_ itself, it is not clear what the Privy Council had in mind _vis-à-vis_ the kind of legislation that would not qualify as “law” for the purposes of Art 9(1). Perhaps, the Privy Council had in mind colourable legislation which purported to enact a “law” as generally understood ( _ie_ , a legislative rule of general application), but which in effect was a legislative judgment, that is to say, legislation directed at securing the conviction of particular known individuals (see _Don John Francis Douglas Liyanage and others v The Queen_ [1967] 1 AC 259 at 291), or legislation of so absurd or arbitrary a nature that it could not possibly have been contemplated by our constitutional framers as being “law” when they crafted the constitutional provisions protecting fundamental liberties ( _ie_ , the provisions now set out in Pt IV of the Singapore Constitution). 
 
-17     In this connection, it is useful to put in context the following statement by Yong Pung How CJ (delivering the judgment of this court) in _Jabar bin Kadermastan v Public Prosecutor_ [1995] 1 SLR(R) 326 (“ _Jabar_ ”) at [52]: 
+17     In this connection, it is useful to put in context the following statement by Yong Pung How CJ (delivering the judgment of this court) in _Jabar bin Kadermastan v Public Prosecutor_ <span class="citation">[1995] 1 SLR(R) 326</span> (“ _Jabar_ ”) at [52]: 
 
  Any law which provides for the deprivation of a person’s life or personal liberty ... is valid and binding so long as it is validly passed by Parliament. The court is not concerned with whether it is also fair, just and reasonable as well. [emphasis added] 
 

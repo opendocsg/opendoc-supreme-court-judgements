@@ -18,7 +18,7 @@ _Criminal Law_ – _Offences_ – _Rape_
 
 _Criminal Law_ – _Offences_ – _Property_ – _Robbery_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 15 of 2015 was allowed by the Court of Appeal on 30 March 2017. See [2017] SGCA 22.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 15 of 2015 was allowed by the Court of Appeal on 30 March 2017. See <span class="citation">[2017] SGCA 22</span>.] 
 
 25 June 2015 
 
@@ -220,9 +220,9 @@ with a total approximate value of S$2,210. All of these items were taken from th
 
 6       The accused had no previous convictions. The prosecution urged the court to impose on the accused an aggregate sentence of 18 years’ imprisonment and the maximum 24 strokes of the cane. This comprised suggested sentences of 13 years’ imprisonment and 12 strokes of the cane for the first charge (rape) and of 5 years’ imprisonment and 12 strokes of the cane for the second charge (robbery with hurt). 
 
-7       The prosecution cited _Public Prosecutor v NF_ [2006] 4 SLR(R) 849 where the offence of rape was set out in four broad categories with suggested benchmark sentences for each category. It was submitted that the present case fell within Category 1 which concerns rapes which feature no aggravating or mitigating circumstances. The benchmark for this category is 10 years’ imprisonment and not less than 6 strokes of the cane. 
+7       The prosecution cited _Public Prosecutor v NF_ <span class="citation">[2006] 4 SLR(R) 849</span> where the offence of rape was set out in four broad categories with suggested benchmark sentences for each category. It was submitted that the present case fell within Category 1 which concerns rapes which feature no aggravating or mitigating circumstances. The benchmark for this category is 10 years’ imprisonment and not less than 6 strokes of the cane. 
 
-8       The Prosecution also referred to the Court of Appeal’s decision in _Public Prosecutor v Mohammed Liton Mohammed Syeed Malik_ [2008] 1 SLR(R) 601 which states that apart from considering the aggravating and mitigating factors in each case, the court should also be guided by three broad principles. These principles are the level of culpability of the offender, the degree of harm to the victim and the level of risk posed by the offender to society. 
+8       The Prosecution also referred to the Court of Appeal’s decision in _Public Prosecutor v Mohammed Liton Mohammed Syeed Malik_ <span class="citation">[2008] 1 SLR(R) 601</span> which states that apart from considering the aggravating and mitigating factors in each case, the court should also be guided by three broad principles. These principles are the level of culpability of the offender, the degree of harm to the victim and the level of risk posed by the offender to society. 
 
 9       The Prosecution submitted that several aggravating factors here justify a sentence which is longer than the benchmark sentence mentioned in [7] above. The accused’s acts in a residential estate would cause public disquiet and shake the collective sense of safety and tranquillity. Further, he committed rape in an aggravated manner. He knocked the victim unconscious and half-dragged her over a distance of some 13 metres. He took photographs of her exposed breasts. When the victim 
 
@@ -237,7 +237,7 @@ regained consciousness, she was in fear as she was unaware of who the assailant 
 
 13     The Prosecution argued that the accused’s mental condition should not be accorded undue weight as a mitigating factor. It did not deprive him of his judgment and decision-making ability. All his acts during the offences showed presence of mind. He removed his slippers to avoid making noise, he knew how to subdue the victim and to bring her to a secluded area, he tried to cover his tracks by wiping her private parts and carrying her to the staircase landing and he knew he had to throw away the victim’s mobile phone’s SIM card to avoid detection. In any case, the severity of his offences far outweighed the mitigation value of his mental condition. 
 
-14     The Prosecution cited _Mohamed Shouffee bin Adam v PP_ [2014] 2 SLR 998 (“ _Shouffee_ ”) in arguing for consecutive imprisonment terms to be imposed. In that case, Menon CJ held that consecutive sentences would not be appropriate if the various offences involve a single invasion of the same legally protected interest. In the present case, the victim’s right to her bodily integrity and her right to property were violated. Indeed, this case fell within the illustration mentioned at [33] of the case cited above: 
+14     The Prosecution cited _Mohamed Shouffee bin Adam v PP_ <span class="citation">[2014] 2 SLR 998</span> (“ _Shouffee_ ”) in arguing for consecutive imprisonment terms to be imposed. In that case, Menon CJ held that consecutive sentences would not be appropriate if the various offences involve a single invasion of the same legally protected interest. In the present case, the victim’s right to her bodily integrity and her right to property were violated. Indeed, this case fell within the illustration mentioned at [33] of the case cited above: 
 
  An illustration will help in making the point. Take the example of a date rapist who rapes his unconscious victim and then makes off with her purse. Notwithstanding the proximity in time and place in which these offences have been committed, it would be wrong to regard both as forming 
 

@@ -167,7 +167,7 @@ allowed to Sogo was $3 million. What Tararone could withdraw from the FD at that
 40     The other point is whether, DBS, having informed Tararone of the termination of the overdraft facilities, was under a duty to further inform Tararone when the bank intended to revive the overdraft account or grant further facilities to Sogo. Tararone put this argument on the basis that a bank must 
 
 
-disclose to a surety "unusual features" relating to a transaction and reliance was placed on Habibullah Mohamed Yousuff v Indian Bank [1999] 3 SLR 650, which was a case where the Court of Appeal granted leave to a guarantor to defend the claim in an Order 14 application. Unlike the situation there, there is nothing unusual for a bank to terminate a facility and later, upon representation, to either revive the facility or offer fresh facilities. Indeed, such a situation clearly falls within the terms of clause 1 of the present charge. The situation in Habibullah Mohamed Yousuff was really quite different. 
+disclose to a surety "unusual features" relating to a transaction and reliance was placed on Habibullah Mohamed Yousuff v Indian Bank <span class="citation">[1999] 3 SLR 650</span>, which was a case where the Court of Appeal granted leave to a guarantor to defend the claim in an Order 14 application. Unlike the situation there, there is nothing unusual for a bank to terminate a facility and later, upon representation, to either revive the facility or offer fresh facilities. Indeed, such a situation clearly falls within the terms of clause 1 of the present charge. The situation in Habibullah Mohamed Yousuff was really quite different. 
 
 **Judgment** 
 

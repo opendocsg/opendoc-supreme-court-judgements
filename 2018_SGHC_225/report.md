@@ -218,7 +218,7 @@ million, on account of their poor financial circumstances. [note: 34]
 28     In an application for summary judgment, the standard that has to be met for the court to grant unconditional leave to defend is that the defendants must show that they have a fair case for defence, or reasonable grounds for setting up a defence, or a fair probability that they have a _bona_ 
 
 
-_fide_ defence: see _Singapore Civil Procedure 2018_ vol 1 (Foo Chee Hock gen ed) (Sweet & Maxwell, 2018) at para 14/4/5. In _Goh Chok Tong v Chee Soon Juan_ [2003] 3 SLR(R) 32, the High Court stated at [25]: 
+_fide_ defence: see _Singapore Civil Procedure 2018_ vol 1 (Foo Chee Hock gen ed) (Sweet & Maxwell, 2018) at para 14/4/5. In _Goh Chok Tong v Chee Soon Juan_ <span class="citation">[2003] 3 SLR(R) 32</span>, the High Court stated at [25]: 
 
  It is a settled principle of law that in an application for summary judgment, the defendant will not be given leave to defend based on mere assertions alone : Banque de Paris et des PaysBas (Suisse) SA v Costa de Naray and Christopher John Walters [1984] 1 Lloyd’s Rep 21 at 23. The court must be convinced that there is a reasonable probability that the defendant has a real or bona fide defence in relation to the issues. In this regard, the standard to be applied was wellarticulated by Laddie J in Microsoft Corporation v Electro-Wide Limited [1997] FSR 580, where he said at 593 to 594 that: 
 
@@ -226,7 +226,7 @@ _fide_ defence: see _Singapore Civil Procedure 2018_ vol 1 (Foo Chee Hock gen ed
 
  [emphasis added in bold] 
 
-29     Where the defendants have succeeded in showing a reasonable probability of a real or _bona fide_ defence which ought to be tried, but that defence is _shadowy_ , the appropriate order to grant should be conditional leave to defend. A defence is shadowy if the defendants’ evidence is _barely sufficient_ to rise to the level of showing a reasonable probability of a _bona fide_ defence: _Wee Cheng Swee Henry v Jo Baby Kartika Polim_ [2015] 4 SLR 250 at [81]. 
+29     Where the defendants have succeeded in showing a reasonable probability of a real or _bona fide_ defence which ought to be tried, but that defence is _shadowy_ , the appropriate order to grant should be conditional leave to defend. A defence is shadowy if the defendants’ evidence is _barely sufficient_ to rise to the level of showing a reasonable probability of a _bona fide_ defence: _Wee Cheng Swee Henry v Jo Baby Kartika Polim_ <span class="citation">[2015] 4 SLR 250</span> at [81]. 
 
 **Decisions below** 
 
@@ -350,11 +350,11 @@ however, point out that that the written agreements which record the Mface Loans
 
 the loans were made by Mface to Astoria exclusively. [note: 45] 
 
-44     As in issue (a) above, I also find it highly improbable that the Mface Loans were actually personal loans made to PST. The Court of Appeal in _Sheagar s/o T M Veloo v Belfield International (Hong Kong) Ltd_ [2014] 3 SLR 524 stated at [81] that: 
+44     As in issue (a) above, I also find it highly improbable that the Mface Loans were actually personal loans made to PST. The Court of Appeal in _Sheagar s/o T M Veloo v Belfield International (Hong Kong) Ltd_ <span class="citation">[2014] 3 SLR 524</span> stated at [81] that: 
 
  [t]he MLA must not be seen by desperate defendants as a “legal panacea” to stave off their financial woes. Accordingly, it was incumbent on the Appellant to place cogent evidence before [the court] to make good its assertion that [the loans] were sham corporate loans. 
 
-Further, the court “would not grant leave to defend if all the defendant provides is a mere assertion, contained in an affidavit, of a given situation which forms the basis of his defence”: _M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_ [2015] 1 SLR 325 at [19]. In the present case, the only evidence that the Plaintiffs have adduced to support their allegation that the Mface Loans were personal loans made to PST are bare, self-serving assertions made in PST’s own affidavit about an alleged oral agreement. This is contrasted with the contemporaneous documentary evidence that the Defendants have adduced _ie_ , the written agreements for the Mface Loans, which state clearly that the loans were between Mface and Astoria (see above at [9]). Even though there was no formal written agreement recording the tenth loan, there was documentary evidence to show that the loan was disbursed to Brilliant Tech Construction Pte Ltd which is also a corporation. 
+Further, the court “would not grant leave to defend if all the defendant provides is a mere assertion, contained in an affidavit, of a given situation which forms the basis of his defence”: _M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_ <span class="citation">[2015] 1 SLR 325</span> at [19]. In the present case, the only evidence that the Plaintiffs have adduced to support their allegation that the Mface Loans were personal loans made to PST are bare, self-serving assertions made in PST’s own affidavit about an alleged oral agreement. This is contrasted with the contemporaneous documentary evidence that the Defendants have adduced _ie_ , the written agreements for the Mface Loans, which state clearly that the loans were between Mface and Astoria (see above at [9]). Even though there was no formal written agreement recording the tenth loan, there was documentary evidence to show that the loan was disbursed to Brilliant Tech Construction Pte Ltd which is also a corporation. 
 
 45     The Defendants argue that pursuant to the oral agreement, the loans would be made to PST and she would be the one to decide how the funds would be subsequently disbursed to the various 
 
@@ -375,7 +375,7 @@ the original pleadings were filed. [note: 48]
 
 only entered into it under duress from the Plaintiffs. The Defendants allege that the seizure of the construction equipment on the premises of the Development was calculated to exert pressure on Astoria, because the Plaintiffs knew that Astoria had already overrun the contractual TOP and was incurring liquidated damages. Therefore, the Defendants were forced to enter into the Settlement Agreement so that the Plaintiffs would discontinue their enforcement proceedings. Otherwise, the TOP of the Development would continue to be delayed and Astoria would continue incurring liquidated damages. 
 
-49     The Plaintiffs cited _E C Investment Holding Pte Ltd v Ridout Residence Pte Ltd and another (Orion Oil Ltd and another, interveners)_ [2011] 2 SLR 232 at [51], where Quentin Loh J stated that the two elements for actionable duress are first, pressure amounting to compulsion of the will of the victim, and second, the illegitimacy of the pressure exerted. First, the Plaintiffs argue that any pressure that they may have exerted was not illegitimate because they were simply exercising their 
+49     The Plaintiffs cited _E C Investment Holding Pte Ltd v Ridout Residence Pte Ltd and another (Orion Oil Ltd and another, interveners)_ <span class="citation">[2011] 2 SLR 232</span> at [51], where Quentin Loh J stated that the two elements for actionable duress are first, pressure amounting to compulsion of the will of the victim, and second, the illegitimacy of the pressure exerted. First, the Plaintiffs argue that any pressure that they may have exerted was not illegitimate because they were simply exercising their 
 
 lawful right to enforce the judgments they had obtained. [note: 49] Second, the seizure of the equipment would not have amounted to a compulsion of the will of the Defendants. The total value of the equipment seized only amounted to a few thousand dollars, and therefore it is inconceivable that the Defendants would have been compelled to enter into the Settlement Agreement for $13.8 million 
 
@@ -454,7 +454,7 @@ circumstances, and the only defendant with any asset of value is Astoria _ie_ , 
 
 accessible assets save for $2,933.63. [note: 58] 
 
-61     The principles governing the variation of conditional leave orders on the basis of a defendant’s financial position are set out in _Chin Tyng Lei v Lim Yoon Ngok_ [2006] SGHC 104, where Lai Siu Chiu J cited with approval at [23] the commentary in _Singapore Civil Procedure 2003_ (Sweet & Maxwell Asia, 2003) as follows: 
+61     The principles governing the variation of conditional leave orders on the basis of a defendant’s financial position are set out in _Chin Tyng Lei v Lim Yoon Ngok_ <span class="citation">[2006] SGHC 104</span>, where Lai Siu Chiu J cited with approval at [23] the commentary in _Singapore Civil Procedure 2003_ (Sweet & Maxwell Asia, 2003) as follows: 
 
  When granting conditional leave to defend, the court is required to consider all the circumstances, which include the financial circumstances of the defendant, and for practical purposes, should not impose a condition, e.g. the payment into court of such a sum of money as would make fulfilment of the condition impossible and that impossibility was known or should have been known by the court by reason of the evidence placed before it; and therefore it would be a wrong exercise of discretion to grant the defendant leave to defend on condition that he should pay into court a sum which he would never be able to pay , for that would be tantamount to giving judgment for the plaintiff, notwithstanding the court’s opinion that there was an issue or [a] question in dispute which ought to be tried ... [emphasis added] 
 

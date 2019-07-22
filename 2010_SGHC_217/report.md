@@ -328,7 +328,7 @@ not repaid them. [note: 88] While the Ngs had agreed to pay for such personal in
 
 29     Hat’s principal defence is that it did not receive good title to Villa 2. The obligation to transfer good title requires the Ngs to deliver Villa 2 free from encumbrances, subject to two qualifications. Hat takes Villa 2 subject to any irremovable defects in title: (a) which are patent; or (b) of which it knew at the time of contracting (see Megarry & Wade, _The Law of Real Property_ (Sweet & Maxwell, 
 
-7       th Ed, 2008) (“ _M&W_ ”) at para 15-074 -075 and the decision of Chao Hick Tin J in _Lie Kee Pong v Chin Chow Yoon_ [1998] 1 SLR(R) 457 at [11] and [17]). There is no dispute that the Ngs were, at the time of entering into the Agreement, obliged to transfer good title to Villa 2 to Hat. Indeed, Colin accepted 
+7       th Ed, 2008) (“ _M&W_ ”) at para 15-074 -075 and the decision of Chao Hick Tin J in _Lie Kee Pong v Chin Chow Yoon_ <span class="citation">[1998] 1 SLR(R) 457</span> at [11] and [17]). There is no dispute that the Ngs were, at the time of entering into the Agreement, obliged to transfer good title to Villa 2 to Hat. Indeed, Colin accepted 
 
 as much during cross-examination and the Ngs do not deny this in their submissions. [note: 89] Furthermore, the duty to deliver Villa 2 free from encumbrances is expressly provided for under cl 2 of the Agreement. However, the Ngs dispute that they were remiss in their obligation to transfer good title to Hat. They highlight that the test for whether good title is transferred was described in 
 
@@ -475,7 +475,7 @@ of promissory estoppel ( _Chitty on Contracts_ (Beale gen ed) (Sweet & Maxwell, 
 
 56     I will now deal with the Ngs’ submissions that Hat was not seeking to receive good title to Villa 2, relying on the e-mails sent between Bolliger and Samuel, especially Samuel’s responses (see above 
 
-at [12] and [14]). [note: 97] I am of the view that these e-mails have little or no evidential value, insofar they are relied on to show that there was no requirement under the Agreement to transfer good title, as they would not have been probative of the objective intentions of the parties since they were not sent or copied to the Ngs at the time of the transaction (see generally _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 at [131]). Similarly, given that these e-mails were not made known to the Ngs, I do not think that it can be relied on to constitute any waiver, estoppel or acceptance by Hat. 
+at [12] and [14]). [note: 97] I am of the view that these e-mails have little or no evidential value, insofar they are relied on to show that there was no requirement under the Agreement to transfer good title, as they would not have been probative of the objective intentions of the parties since they were not sent or copied to the Ngs at the time of the transaction (see generally _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> at [131]). Similarly, given that these e-mails were not made known to the Ngs, I do not think that it can be relied on to constitute any waiver, estoppel or acceptance by Hat. 
 
 **_Who is to complete the transfer of Villa 2 now?_** 
 

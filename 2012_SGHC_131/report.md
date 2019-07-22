@@ -125,7 +125,7 @@ admitted to informing the plaintiff that the defendant required 10,000m^3 of rea
 
 14     The plaintiff contended that the insertion of cl 16, which fixed the price of ready-mixed concrete for the entire duration of the supply agreement, further showed the defendant’s commitment to buying the bulk, if not all, of its ready-mixed concrete requirements for the JP project from the plaintiff. Koh Yen Peng (“Koh”), the manager of the defendant’s tenders and contracts department, confirmed that this clause was unique to the supply agreement, but was unable to explain why it was only inserted into this particular agreement. 
 
-15     It appeared that the only logical explanation for the unique clause must be that the defendant intended to purchase 10,000m³ of ready-mixed concrete from the plaintiff. In _Turner (East Asia) Pte Ltd v Pioneer Concrete (Singapore) Pte Ltd_ [1994] 3 SLR(R) 452 (“ _Turner_ ”) at [15] and [19], the Court of Appeal stated: 
+15     It appeared that the only logical explanation for the unique clause must be that the defendant intended to purchase 10,000m³ of ready-mixed concrete from the plaintiff. In _Turner (East Asia) Pte Ltd v Pioneer Concrete (Singapore) Pte Ltd_ <span class="citation">[1994] 3 SLR(R) 452</span> (“ _Turner_ ”) at [15] and [19], the Court of Appeal stated: 
 
  15 ...the nature and effect of a contract must primarily be sought from the provisions of the contract themselves, having regard at the same time to the circumstances in which the contract came into being. 
 
@@ -144,7 +144,7 @@ admitted to informing the plaintiff that the defendant required 10,000m^3 of rea
 
 17     The plaintiff submitted that _Turner_ showed that the parties intended by cl 16 for the defendant to purchase 10,000m³ of concrete from the plaintiff, and therefore the current case fell into category (c) of the _Percival’s_ case. 
 
-18     In the case of _Chong Ah Kwee and another v Viva Realty Pte Ltd_ [1990] 1 SLR(R) 244 (“ _Chong Ah Kwee_ ”), the High Court remarked at [19]: 
+18     In the case of _Chong Ah Kwee and another v Viva Realty Pte Ltd_ <span class="citation">[1990] 1 SLR(R) 244</span> (“ _Chong Ah Kwee_ ”), the High Court remarked at [19]: 
 
  ...That being the case, it is, in my view, perfectly reasonable to construe the word “estimated”, assuming it is a warranty, to mean that the defendants have estimated the area but that if a mistake is made, the plaintiffs will not be entitled to annul the contract or to compensation unless the estimation has resulted in misdescription which is of a serious/vital nature or affects the value of the flat. 
 
@@ -160,7 +160,7 @@ _(ii) The subletting agreement_
 
 _(iii) Termination of both agreements_ 
 
-22     The plaintiff argued that the current case fell within the fourth category of situations listed in _RDC Concrete Pte Ltd v Seto Kogyo (S) Pte Ltd_ [2007] 4 SLR(R) 413 at [99] where a breach of a term in the contract deprived the innocent party of substantially the whole benefit which it was intended to obtain from a contract. While well aware that the plaintiff would not be able to continue operating the plant if the defendant failed to order ready-mixed concrete from the former, the defendant’s actions clearly showed it had repudiated the supply agreement from March 2010 onwards. As a result, the plaintiff evinced a clear intention to terminate the subletting agreement by writing to the defendant and returning the site to the defendant on 31 May 2010. 
+22     The plaintiff argued that the current case fell within the fourth category of situations listed in _RDC Concrete Pte Ltd v Seto Kogyo (S) Pte Ltd_ <span class="citation">[2007] 4 SLR(R) 413</span> at [99] where a breach of a term in the contract deprived the innocent party of substantially the whole benefit which it was intended to obtain from a contract. While well aware that the plaintiff would not be able to continue operating the plant if the defendant failed to order ready-mixed concrete from the former, the defendant’s actions clearly showed it had repudiated the supply agreement from March 2010 onwards. As a result, the plaintiff evinced a clear intention to terminate the subletting agreement by writing to the defendant and returning the site to the defendant on 31 May 2010. 
 
 23     In summary the plaintiff’s claim against the defendant was as follows: 
 

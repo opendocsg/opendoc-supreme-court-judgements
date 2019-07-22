@@ -217,7 +217,7 @@ were payable.
 22     In dealing with the appeal against the above decision, there is no need for me to expound at length on the legal principles applicable to an application for summary judgment as these are well known. Suffice it to say that in order to obtain judgment, a plaintiff has first to show that he has a _prima facie_ case for judgment. Once he has done that, the burden shifts to the defendant who, in order to obtain leave to defend, must establish that there is a fair or reasonable probability that he 
 
 
-has a real or _bona fide_ defence. (See _Goh Chok Tong v Chee Soon Juan_ [2003] 3 SLR 32). I would also note that where no triable issues of fact can be found but only triable issues of law are brought up, the Supreme Court Practice 1999 at para 14/4/12 states: 
+has a real or _bona fide_ defence. (See _Goh Chok Tong v Chee Soon Juan_ <span class="citation">[2003] 3 SLR 32</span>). I would also note that where no triable issues of fact can be found but only triable issues of law are brought up, the Supreme Court Practice 1999 at para 14/4/12 states: 
 
  Where the court is satisfied that there are no issues of fact between the parties, it would be pointless to give leave to defend on the basis that there is a triable issue of law, and this is so even if the issue of law is complex and highly arguable. 
 
@@ -383,7 +383,7 @@ In this regard, the plaintiffs’ most substantial point was that the Loan Confi
 
 58     I agree with the plaintiffs’ contention that the dates stated by the auditors can be used for the purposes of s 26(2). Although such dates were not the dates on which Mrs Chow confirmed the amount of the debts, such dates must be, at the very least, dates prior to the dates on which Mrs Chow signed the Loan Confirmations. Hence, adopting these dates would not prejudice the defendant and would still be fair to the plaintiffs since it would not be fair to them to ignore the Loan Confirmations altogether simply because the actual date of signing cannot be ascertained. There is no doubt that the Loan Confirmations were signed and therefore they must be given effect to as long as an approximate date of signing date can be inferred. 
 
-59     Next is the argument arising from the fact that the Loan Confirmations were not addressed to or sent to the plaintiffs, the creditors. The defendant asserted that as the Loan Confirmations were obtained by virtue of an order or court for discovery, they did not constitute an acknowledgement of the debts within the meaning of s 26(2), Limitation Act. In this regard, the defendant cited the case of _Chuan & Company Pte Ltd v Ong Soon Huat_ , [2003] 2 SLR 205 (“ _Chuan_ ”). 
+59     Next is the argument arising from the fact that the Loan Confirmations were not addressed to or sent to the plaintiffs, the creditors. The defendant asserted that as the Loan Confirmations were obtained by virtue of an order or court for discovery, they did not constitute an acknowledgement of the debts within the meaning of s 26(2), Limitation Act. In this regard, the defendant cited the case of _Chuan & Company Pte Ltd v Ong Soon Huat_ , <span class="citation">[2003] 2 SLR 205</span> (“ _Chuan_ ”). 
 
 60     Here, s 27(2) of the Limitation Act is apposite: 
 

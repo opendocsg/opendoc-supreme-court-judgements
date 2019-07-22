@@ -176,7 +176,7 @@ Prospaq Group pointed out that the Defendant’s offer was made only on the prev
 
 28     As Prospaq Group’s Judgment Debt and statutory demand post-dated the commencement of CWU 252/2016 by Pan-United Concrete, a threshold question arose as to whether Prospaq Group was entitled to be substituted as plaintiff in CWU 252/2016. This was because r 33(1) of the CWUR provided that only someone with the “right to make _the_ winding up application” could be substituted as a plaintiff. 
 
-29     A similar factual situation arose in _Re People’s Parkway Development Pte Ltd_ [1991] 2 SLR(R) 567 (“ _People’s Parkway_ ”). In that case, the petitioning creditor commenced winding up application against the debtor company on 27 June 1986. The winding up application was adjourned _sine die_ on 30 November 1987 with the consent of the petitioning creditor. On 4 March 1991, the AttorneyGeneral (“AG”) applied to be substituted as the petitioning creditor. The AG’s claim was for outstanding payments under a Government land sale which took place in 1981, for which the AG 
+29     A similar factual situation arose in _Re People’s Parkway Development Pte Ltd_ <span class="citation">[1991] 2 SLR(R) 567</span> (“ _People’s Parkway_ ”). In that case, the petitioning creditor commenced winding up application against the debtor company on 27 June 1986. The winding up application was adjourned _sine die_ on 30 November 1987 with the consent of the petitioning creditor. On 4 March 1991, the AttorneyGeneral (“AG”) applied to be substituted as the petitioning creditor. The AG’s claim was for outstanding payments under a Government land sale which took place in 1981, for which the AG 
 
 
 issued a statutory demand on 2 January 1991. L P Thean J (as he then was) held that: 
@@ -207,7 +207,7 @@ issued a statutory demand on 2 January 1991. L P Thean J (as he then was) held t
 
  it is proved to the satisfaction of the Court that the company is unable to pay its debts; and in determining whether a company is unable to pay its debts the Court shall take into account the contingent and prospective liabilities of the company. 
 
-Under this provision, a company is deemed insolvent if it is either commercially insolvent or balance sheet insolvent ( _Re Great Eastern Hotel (Pte) Ltd_ [1988] 2 SLR(R) 276 at [85]). A company is commercially insolvent if it is unable to meet current demands upon it ( _Re Dayang Construction and Engineering Pte Ltd_ [2002] 2 SLR(R) 197 at [40]; _Malayan Plant (Pte) Ltd v Moscow Narodny Bank Ltd_ [1979-1980] SLR(R) 511 at [12]). The Defendant was commercially insolvent, as evident from its inability to pay off its very substantial and long outstanding debts despite having been afforded more 
+Under this provision, a company is deemed insolvent if it is either commercially insolvent or balance sheet insolvent ( _Re Great Eastern Hotel (Pte) Ltd_ <span class="citation">[1988] 2 SLR(R) 276</span> at [85]). A company is commercially insolvent if it is unable to meet current demands upon it ( _Re Dayang Construction and Engineering Pte Ltd_ <span class="citation">[2002] 2 SLR(R) 197</span> at [40]; _Malayan Plant (Pte) Ltd v Moscow Narodny Bank Ltd_ [1979-1980] SLR(R) 511 at [12]). The Defendant was commercially insolvent, as evident from its inability to pay off its very substantial and long outstanding debts despite having been afforded more 
 
 
 than a year since the commencement of CWU 252/2016 to do so. 
@@ -220,7 +220,7 @@ than a year since the commencement of CWU 252/2016 to do so.
 
  ... the court is averse, except in very special circumstances, to permitting a lengthy adjournment because of the adverse effect on the affairs of the company; the company cannot enter into transactions with certainty that they will stand, because if a winding-up order is made they will probably be invalid. ... The principles that should guide a court in relation to an application for an adjournment are the same as those guiding courts when exercising their discretion to refuse a winding-up order. 
 
-On the latter point, the Court of Appeal held in _BNP Paribas v Jurong Shipyard Pte Ltd_ [2009] 2 SLR(R) 949 (“ _Jurong Shipyard_ ”) at [15] that: 
+On the latter point, the Court of Appeal held in _BNP Paribas v Jurong Shipyard Pte Ltd_ <span class="citation">[2009] 2 SLR(R) 949</span> (“ _Jurong Shipyard_ ”) at [15] that: 
 
  The general rule is that, where a company is unable or deemed to be unable to pay its debts, the creditor is prima facie entitled to a winding-up order ex debito justitiae 
 

@@ -60,7 +60,7 @@ lading from Belawan, Indonesia to Taman, Russia in or about 4th June 2011, susta
 **THE LAW ON INVOKING THE ADMIRALTY JURISDICTION OF THE COURT** 
 
 
-12     The law on invoking the admiralty jurisdiction of the court was set out by Belinda Ang Saw Ean J in _The “Bunga Melati 5”_ [2001] 4 SLR 1017 (“ _Bunga Melati HC_ ”) and subsequently by the Court of Appeal in [2012] 4 SLR 546 (“ _Bunga Melati CA_ ”). 
+12     The law on invoking the admiralty jurisdiction of the court was set out by Belinda Ang Saw Ean J in _The “Bunga Melati 5”_ <span class="citation">[2001] 4 SLR 1017</span> (“ _Bunga Melati HC_ ”) and subsequently by the Court of Appeal in <span class="citation">[2012] 4 SLR 546</span> (“ _Bunga Melati CA_ ”). 
 
 13     Section 4(4) of the HCAJA provides: 
 
@@ -103,11 +103,11 @@ lading from Belawan, Indonesia to Taman, Russia in or about 4th June 2011, susta
 
 17     A preliminary point had been raised as to the law applicable to the interpretation of the HCAJA and the role of foreign law in the interpretation of the HCAJA. 
 
-18     The plaintiff’s counsel in ADM 201 took the position that whether there was a demise charterparty and whether the charter was terminated at the time the action was commenced is to be decided by Singapore law and not Korean law. He relied on _Halcyon Isle_ [1980] 2 MLJ 217 and _The “Andres Bonifacio”_ [1993] 3 SLR(R) 71. 
+18     The plaintiff’s counsel in ADM 201 took the position that whether there was a demise charterparty and whether the charter was terminated at the time the action was commenced is to be decided by Singapore law and not Korean law. He relied on _Halcyon Isle_ [1980] 2 MLJ 217 and _The “Andres Bonifacio”_ <span class="citation">[1993] 3 SLR(R) 71</span>. 
 
 19     It is not in dispute that the issue of whether Singapore has jurisdiction pursuant to s 4(4) of the HCAJA is governed by Singapore law. Therefore, the issue of whether the charterparty in this case is a demise charterparty is to be determined according to Singapore law. All the parties agree that the charter being considered in this case is a demise charterparty. Therefore, this issue is not in dispute. 
 
-20     The next question is whether the termination of the Lease Agreement is to be determined in accordance with the terms of the charterparty, i.e. the Lease Agreement. The Lease Agreement states that it is governed by Korean law. Therefore, Korean law should be applied in determining whether the Lease Agreement has been validly terminated. Support for this position may be found in the decision of the Singapore Court of Appeal in _The Sangwon_ [1999] 3 SLR(R) 919 which applied North Korean law to determine whether the party who would be liable _in personam_ was the beneficial owner of the arrested vessel. 
+20     The next question is whether the termination of the Lease Agreement is to be determined in accordance with the terms of the charterparty, i.e. the Lease Agreement. The Lease Agreement states that it is governed by Korean law. Therefore, Korean law should be applied in determining whether the Lease Agreement has been validly terminated. Support for this position may be found in the decision of the Singapore Court of Appeal in _The Sangwon_ <span class="citation">[1999] 3 SLR(R) 919</span> which applied North Korean law to determine whether the party who would be liable _in personam_ was the beneficial owner of the arrested vessel. 
 
 **_WHO IS THE PERSON WHO WOULD BE LIABLE ON THE CLAIM IN AN ACTION IN PERSONAM (“THE RELEVENT PERSON”)_** 
 
@@ -192,7 +192,7 @@ _(2)_ **_Authorisation_**
 
 40     The NCT issued by HKC stated in paragraph 3 that HKC transfers the “right or status in their possession” to HKA. Sejun Kim on behalf of HKC explained that, in HKC’s mind, the right to terminate the Lease Agreement was included in the “right or status”. This appeared to be also be HKA’s understanding. For the reasons stated above, I am of the view that the NCT did not transfer the right to terminate to HKA and HKA did not have express authority to terminate the Lease Agreement. However, I am of the view that based on the conduct of parties and the facts of the case implied authority may have been given by HKC to HKA. 
 
-41     The Court of Appeal in _Banque Nationale de Paris v Tan Nancy and another_ [2001] 3 SLR(R) 726 (“BNP”) referred at [64] to _Hely-Hutchinson v Brayhead Ltd_ [1968] 1 QB 549 at 583; [1967] 3 All ER 98 at 102, in which Lord Denning MR said: 
+41     The Court of Appeal in _Banque Nationale de Paris v Tan Nancy and another_ <span class="citation">[2001] 3 SLR(R) 726</span> (“BNP”) referred at [64] to _Hely-Hutchinson v Brayhead Ltd_ [1968] 1 QB 549 at 583; [1967] 3 All ER 98 at 102, in which Lord Denning MR said: 
 
  [A]ctual authority may be express or implied. It is express when it is given by express words, such as when a board of directors pass a resolution which authorises two of their number to sign cheques. It is implied when it is inferred from the conduct of the parties and the circumstances of the case, such as when the board of directors appoint one of their number to be managing director. 
 

@@ -155,7 +155,7 @@ on William’s documents as set out above. In any event, the reference to Tan Bo
 
  (iv) Kan J – when he granted judgment against Win in Suit 538/01. 
 
-35     In _Bachoo Mohan Singh v PP_ [2010] 4 SLR 137 (“ _B M Singh_ ”), V K Rajah JA decided, at [137(e)] that: 
+35     In _Bachoo Mohan Singh v PP_ <span class="citation">[2010] 4 SLR 137</span> (“ _B M Singh_ ”), V K Rajah JA decided, at [137(e)] that: 
 
  (e) ... A solicitor is not obliged to verify his client’s instructions with other sources unless there is compelling evidence to indicate that it is dubious. The fact that the opposing parties (or parties allied to them) dispute the varacity of his client’s instructions is not a reason for a solicitor to disbelieve or refuse to act on those instructions, and a solicitor should not be faulted if there are no reasonable means of objectively assessing the veracity of those instructions. 
 

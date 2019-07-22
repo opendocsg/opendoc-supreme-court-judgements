@@ -49,7 +49,7 @@ V K Rajah JA (delivering the grounds of decision of the court):
 
 **Facts** 
 
-4       The essential background facts have been carefully summarised in the High Court’s judgment but are now briefly reprised here for ease of reference (see _Susilawati v American Express Bank Ltd_ [2008] 1 SLR 237 (“the GD”) at [2]–[6]). 
+4       The essential background facts have been carefully summarised in the High Court’s judgment but are now briefly reprised here for ease of reference (see _Susilawati v American Express Bank Ltd_ <span class="citation">[2008] 1 SLR 237</span> (“the GD”) at [2]–[6]). 
 
 5       The appellant is a wealthy Indonesian citizen who was married to a prominent Indonesian businessman until his demise in April 2002. Her late husband controlled a substantial Indonesian conglomerate known as the Gajah Tunggal group. Its business concerns comprise, _inter alia_ , rubber remilling and supply of rubber tyres for vehicles and bicycles, commodities trading, hotels and, at one time, even the largest private commercial bank in Indonesia, known as Bank Dagang Negara Indonesia. 
 
@@ -143,7 +143,7 @@ was relying on the alleged discovery of fresh evidence as the main ground on whi
 
  [F]irst, it must be shown that the evidence could not have been obtained with reasonable diligence for use in the trial; secondly, the evidence must be such that, if given, it would probably have an important influence on the result of the case, although it need not be decisive; thirdly, the evidence must be such as is presumably to be believed, or in other words, it must be apparently credible, although it need not be incontrovertible. 
 
-The _Ladd v Marshall_ test has been cited and followed by this court on a number of occasions: _Cheong Kim Hock v Lin Securities (Pte)_ [1992] 2 SLR 349 (“ _Cheong Kim Hock_ ”) at 355, [21]; _Cheng-Wong Mei Ling Theresa v Oei Hong Leong_ [2006] 2 SLR 637 (“ _Theresa Cheng-Wong_ ”) at [39]; _Sim Cheng Soon v BT Engineering Pte Ltd_ [2006] 3 SLR 551 (“ _Sim Cheng Soon_ ”) at [7]. The three conditions must be cumulatively satisfied: _Su Sh-Hsyu v Wee Yue Chew_ [2007] 3 SLR 673 (“ _Su Sh-Hsyu_ ”) at [15]. 
+The _Ladd v Marshall_ test has been cited and followed by this court on a number of occasions: _Cheong Kim Hock v Lin Securities (Pte)_ <span class="citation">[1992] 2 SLR 349</span> (“ _Cheong Kim Hock_ ”) at 355, [21]; _Cheng-Wong Mei Ling Theresa v Oei Hong Leong_ <span class="citation">[2006] 2 SLR 637</span> (“ _Theresa Cheng-Wong_ ”) at [39]; _Sim Cheng Soon v BT Engineering Pte Ltd_ <span class="citation">[2006] 3 SLR 551</span> (“ _Sim Cheng Soon_ ”) at [7]. The three conditions must be cumulatively satisfied: _Su Sh-Hsyu v Wee Yue Chew_ <span class="citation">[2007] 3 SLR 673</span> (“ _Su Sh-Hsyu_ ”) at [15]. 
 
 25     The respondent conceded that the third condition of the _Ladd v Marshall_ test, _ie_ , that the evidence must be apparently credible though it need not be incontrovertible, was satisfied here. We agreed that since the nature of the evidence took the form of a document, and there was no dispute as to its authenticity, the requirement was indeed fulfilled in this case. 
 
@@ -317,7 +317,7 @@ Wilson J’s summary was accepted in _Hodgkinson v Simms_ [1994] 3 SCR 377 (at 4
 
  The accepted fiduciary relationships are sometimes referred to as relationships of trust and confidence or confidential relations ... viz., trustee and beneficiary, agent and principle, solicitor and client, employee and employer, director and company, and partners. The critical feature of these relationships is that the fiduciary undertakes or agrees to act for or on behalf of or in the interests of another person in the exercise of a power or discretion which will affect the interests of that other person in a legal or practical sense. The relationship between the parties is therefore one which gives the fiduciary a special opportunity to exercise the power or discretion to the detriment of that other person who is accordingly vulnerable to abuse by the fiduciary of his position. [emphasis added] 
 
-Mason J’s analysis in _Hospital Products_ was accepted and followed by G P Selvam J in _KumagaiZenecon Construction Pte Ltd v Low Hua Kin_ [2000] 2 SLR 501 at [15], and this court also found it of assistance in _Friis v Casetech Trading Pte Ltd_ [2000] 3 SLR 590 at [29]. 
+Mason J’s analysis in _Hospital Products_ was accepted and followed by G P Selvam J in _KumagaiZenecon Construction Pte Ltd v Low Hua Kin_ <span class="citation">[2000] 2 SLR 501</span> at [15], and this court also found it of assistance in _Friis v Casetech Trading Pte Ltd_ <span class="citation">[2000] 3 SLR 590</span> at [29]. 
 
 42     It is trite law that if a person occupying a fiduciary position wishes to enter into a transaction which would otherwise amount to a breach of duty, he must, if he is to avoid liability, make full disclosure, to the person to whom the duty is owed, of all relevant facts known to the fiduciary: see R P Meagher, J D Heydon and M J Leeming, _Meagher, Gummow and Lehane’s Equity – Doctrines and Remedies_ , (Butterworths LexisNexis, 4th Ed, 2002) at para 5-115. 
 
@@ -355,7 +355,7 @@ preferable to have concrete documentary evidence that informed consent has indee
 
  [emphasis added] 
 
-Over the years, this principle has been cited and applied in Singapore on a number of occasions: _Attorney-General for the Straits Settlement v Pang Ah Yew_ [1934] MLJ 184; _Cheong Kim Hock_ ([24] _supra_ ); _MCST No 473 v De Beers Jewellery Pte Ltd_ [2002] 2 SLR 1; _Riduan bin Yusof v Khng Thian Huat (No 2)_ [2005] 4 SLR 234; _Panwah Steel Pte Ltd v Koh Brothers Building & Civil Engineering Contractor (Pte) Ltd_ [2006] 4 SLR 571 (“ _Panwah Steel_ ”). 
+Over the years, this principle has been cited and applied in Singapore on a number of occasions: _Attorney-General for the Straits Settlement v Pang Ah Yew_ [1934] MLJ 184; _Cheong Kim Hock_ ([24] _supra_ ); _MCST No 473 v De Beers Jewellery Pte Ltd_ <span class="citation">[2002] 2 SLR 1</span>; _Riduan bin Yusof v Khng Thian Huat (No 2)_ <span class="citation">[2005] 4 SLR 234</span>; _Panwah Steel Pte Ltd v Koh Brothers Building & Civil Engineering Contractor (Pte) Ltd_ <span class="citation">[2006] 4 SLR 571</span> (“ _Panwah Steel_ ”). 
 
 48     In our view, however, Lord Birkenhead LC’s carefully measured caveat in _North Staffordshire Railway Company v Edge_ [1920] AC 254 at 263–264, also merits very close attention and adherence: 
 
@@ -365,7 +365,7 @@ Over the years, this principle has been cited and applied in Singapore on a numb
 
  [emphasis added] 
 
-Part of the preceding passage has been cited with approval by this court in _Feoso (Singapore) Pte Ltd v Faith Maritime Company Limited_ [2003] 3 SLR 556 at [32]. 
+Part of the preceding passage has been cited with approval by this court in _Feoso (Singapore) Pte Ltd v Faith Maritime Company Limited_ <span class="citation">[2003] 3 SLR 556</span> at [32]. 
 
 49     The appellant vigorously submitted that it would be in the interests of justice for the new point to be heard. However, this argument can only be taken so far. As McHugh JA aptly noted in _Holcombe v Coulton_ (1988) 17 NSWLR 71 at 77–78: 
 
@@ -401,7 +401,7 @@ _Swee_ [1967] 1 MLJ 163. The courts will not and should not, for obvious reasons
 
 55     The appellant’s final application was for leave to amend the pleadings. Counsel for the appellant submitted that this was an exceptional case where the court should exercise its discretion to allow an amendment of the pleadings on appeal so that the new point could be argued. In light of our determination of the procedural issue on leave to raise a new point, this matter became moot. Nevertheless, out of deference to counsel’s industry in addressing this issue, we shall also explicate our views on it. In addition, it may be helpful to the wider legal community if we reiterate our views on late amendments to pleadings. 
 
-56     It is settled law that this court has the power to grant leave to a party to amend his pleadings at any time under s 37(2) of the SCJA and O 57 r 13(1) of the ROC: _Asia Business Forum Pte Ltd v Long Ai Sin_ [2004] 2 SLR 173 (“ _Asia Business Forum_ ”) at [9]. 
+56     It is settled law that this court has the power to grant leave to a party to amend his pleadings at any time under s 37(2) of the SCJA and O 57 r 13(1) of the ROC: _Asia Business Forum Pte Ltd v Long Ai Sin_ <span class="citation">[2004] 2 SLR 173</span> (“ _Asia Business Forum_ ”) at [9]. 
 
 57     In _Ketteman v Hansel Properties Ltd_ [1987] AC 189 (“ _Ketteman_ ”), Lord Brandon of Oakbrook, after reviewing the authorities, summarised the applicable principles (at 212) as follows: 
 
@@ -426,7 +426,7 @@ The court went on to explain (at [18]):
 
  Without intending to be exhaustive, and in the context of the present case, it was our view that two key factors should be borne in mind. Firstly, the amendments should not cause any prejudice to the other party. Secondly, the amendments should not give rise to a situation whereby the applicant was effectively asking for a second bite at the cherry. 
 
-59     It is therefore plain that the considerations which permeate the exercise of discretion to grant leave to amend pleadings are very similar to those underpinning the discretion to allow a new point to be raised and argued on appeal. In _Chwee Kin Keong v Digilandmall.com Pte Ltd_ [2004] 2 SLR 594 (“ _Chwee Kin Keong_ ”), the High Court summed up the procedural equation thus at 
+59     It is therefore plain that the considerations which permeate the exercise of discretion to grant leave to amend pleadings are very similar to those underpinning the discretion to allow a new point to be raised and argued on appeal. In _Chwee Kin Keong v Digilandmall.com Pte Ltd_ <span class="citation">[2004] 2 SLR 594</span> (“ _Chwee Kin Keong_ ”), the High Court summed up the procedural equation thus at 
 
 
 ## [85]: 

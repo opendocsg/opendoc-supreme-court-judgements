@@ -65,7 +65,7 @@
 
 **MATERIAL NON-DISCLOSURE** 
 
-19\. Mr Ramayah submitted that Garuda had a duty to make full and frank disclosure in its application for leave under O 69A r 4. He relied on a decision by Kan Ting Chiu J in Transniko Pte Ltd v Communication Technology Sdn Bhd [1996] 1 SLR 580 for this proposition. That was a case for leave to serve a writ out of jurisdiction under O 11. Kan J said, at p 583G, 'The duty on the applicant is onerous, and if he fails to discharge it, the leave granted may be set aside even if the non-disclosure is innocent'. 
+19\. Mr Ramayah submitted that Garuda had a duty to make full and frank disclosure in its application for leave under O 69A r 4. He relied on a decision by Kan Ting Chiu J in Transniko Pte Ltd v Communication Technology Sdn Bhd <span class="citation">[1996] 1 SLR 580</span> for this proposition. That was a case for leave to serve a writ out of jurisdiction under O 11. Kan J said, at p 583G, 'The duty on the applicant is onerous, and if he fails to discharge it, the leave granted may be set aside even if the non-disclosure is innocent'. 
 
 20\. Mr K S Rajah SC and Mr Lawrence Quahe who appeared for Garuda did not dispute the duty to 
 
@@ -122,7 +122,7 @@ Was there material non-disclosure?
 32\. It seemed to be that the guide for a proper case under the Singapore O 11 r 2(2) was that the forum chosen must be the most appropriate forum in which the case can most suitably be tried in the interests of all the parties and for the ends of justice. 
 
 
-33\. As Rajendran J put it succintly in Kishinchand Tiloomal Bhojwani v Sumil Kishninchand Bhojwani [1997] 2 SLR 682 at p 690, O 11 r 2(2) embodies the forum non conveniens rule. 
+33\. As Rajendran J put it succintly in Kishinchand Tiloomal Bhojwani v Sumil Kishninchand Bhojwani <span class="citation">[1997] 2 SLR 682</span> at p 690, O 11 r 2(2) embodies the forum non conveniens rule. 
 
 34\. I was also of the view that case-law as to what constitutes a proper case under O 11 r 2(2) is persuasive as to what constitutes a proper case under O 69A r 4(2) as the requirement of a proper case is identical in both provisions and both provisions deal with the question of service out of jurisdiction. 
 

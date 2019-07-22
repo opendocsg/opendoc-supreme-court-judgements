@@ -22,7 +22,7 @@ _Arbitration_ – _Setting aside_ – _Breach of natural justice_
 
 _Arbitration_ – _Setting aside_ – _Public policy_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 240 of 2017 was allowed by the Court of Appeal on 9 May 2019. See [2019] SGCA 33.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 240 of 2017 was allowed by the Court of Appeal on 9 May 2019. See <span class="citation">[2019] SGCA 33</span>.] 
 
 2 April 2018 
 
@@ -420,7 +420,7 @@ arbitration, required RALL, if dissatisfied, to bring that question to the super
 
  It was observed ... that a party who failed to raise the plea as required under article 16(2) should be precluded from raising such objections not only during the later stages of the arbitral proceedings but also in other contexts, in particular, in setting aside proceedings or enforcement proceedings, subject to certain limits such as public policy, including arbitrability. 
 
-However, that party has _not_ lost its passive remedy of resisting _enforcement_ whether in another jurisdiction or as a domestic international award at the seat: see _PT First Media TBK (formerly known as PT Broadband Multimedia TBK) v Astro Nusantara International BV and others and another appeal_ [2014] 1 SLR 372 (“ _PT First Media (CA)_ ”). 
+However, that party has _not_ lost its passive remedy of resisting _enforcement_ whether in another jurisdiction or as a domestic international award at the seat: see _PT First Media TBK (formerly known as PT Broadband Multimedia TBK) v Astro Nusantara International BV and others and another appeal_ <span class="citation">[2014] 1 SLR 372</span> (“ _PT First Media (CA)_ ”). 
 
 63     The Court of Appeal in its very comprehensive judgment on the active and passive remedies open to a party under the IAA and Model Law stated, albeit _obiter_ , in _PT First Media (CA)_ at [130] and [132] as follows: 
 
@@ -456,7 +456,7 @@ The authors of _Redfern and Hunter_ referred to the English decision of _Thyssen
 67     Secondly, there is authority that an option remains open to a party to choose to leave the arbitral proceedings in protest, in which case the time limits in Art 34 (and therefore by extension, Art 
 
 
-16     as well) do not apply. This can be found in the first instance decision of _Astro Nusantara International BV v PT Ayunda Prima Mitra_ [2013] 1 SLR 636 at [133]: 
+16     as well) do not apply. This can be found in the first instance decision of _Astro Nusantara International BV v PT Ayunda Prima Mitra_ <span class="citation">[2013] 1 SLR 636</span> at [133]: 
 
  If a party chooses the second option of challenge by choosing to leave the arbitral regime in protest and should the tribunal rule against it on the merits, that party, as the losing party, is entitled within the time stipulated in Art 34 to set aside the award under any of the grounds in Art 34. ... One way in which a party may challenge the jurisdiction of a tribunal is simply to step out of the arbitral regime and boycott the proceedings altogether. If this course of action is chosen (and this course is not without risk), then the rules for appeal which would apply to parties within the arbitral regime would no longer apply to the boycotting party. Arguably, the boycotting party would then be able to apply to set aside the award under Art 34(2)(a)(i) on jurisdictional grounds. The jurisdictional award would not be final vis-à-vis the boycotting party, and the opposing party would have ample notice of this from the boycotting party’s absolute refusal to participate. This possibility is hinted at in UNCITRAL Commentary (A/CN 9/264) on Art 16(2) at para 9. 
 
@@ -589,7 +589,7 @@ procure from the Sri Lankan government AGMS’s requested assurances. [note: 93]
 
 92     Importantly, the Tribunal considered this very issue and found that the Master Agreement “clearly show[ed] no sign of illegality or even in the slightest, indicate[d] that such Agreement and/or 
 
-Agreements are contrary to public policy”. [note: 94] This finding of fact is binding on the parties and cannot be reopened by a supervisory court ( _AJU v AJT_ [2011] 4 SLR 739 at [65]). 
+Agreements are contrary to public policy”. [note: 94] This finding of fact is binding on the parties and cannot be reopened by a supervisory court ( _AJU v AJT_ <span class="citation">[2011] 4 SLR 739</span> at [65]). 
 
 93     I find it is also quite telling that both RALL and AGMS are still presently engaged in joint ventures on the maintenance of armouries in the littoral states in the Indian Ocean. Indeed, RALL 
 

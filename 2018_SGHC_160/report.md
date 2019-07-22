@@ -35,7 +35,7 @@ _Companies_ – _Directors_ – _Duties_
 5       Unfortunately, the marriage between the defendant and the third party did not last, with the defendant obtaining an expedited personal protection order against the third party in April 2011 and subsequently filing for divorce in September 2011. Interim judgment for divorce was granted in December 2013, and the parties’ appeals relating to ancillary matters were disposed of in May 2016 
 
 
-(see _TDT v TDS and another appeal_ [2016] 4 SLR 145). This present suit was commenced in July 2011, but was stayed in January 2014 pending the resolution of the parties’ appeals relating to their divorce. 
+(see _TDT v TDS and another appeal_ <span class="citation">[2016] 4 SLR 145</span>). This present suit was commenced in July 2011, but was stayed in January 2014 pending the resolution of the parties’ appeals relating to their divorce. 
 
 6       The present claim arose out of a business opportunity involving a contract with 7-Eleven for the supply of mashed potato machines. The plaintiff had provided maintenance services to 7-Eleven’s mashed potato machines since 2008, when these machines were supplied by Nestlé Singapore together with the powdered ingredients for the mashed potato food product sold at 7-Eleven outlets. In 2009, Nestlé decided to stop supplying the machines and sold all its existing machines to 7-Eleven for a token sum. As such, 7-Eleven had to source for a new supplier to replace its existing machines as each one reached the end of its life cycle. The plaintiff company had some spare parts with which to maintain the existing machines, but it soon became apparent that a more sustainable solution was required. 
 

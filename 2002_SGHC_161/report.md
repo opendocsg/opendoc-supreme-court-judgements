@@ -57,7 +57,7 @@ and whoever commits rape by having sexual intercourse with a woman under 14 year
 
 10\. He also submitted that the accused is not a habitual offender in that there is no history of offences other than the ones he is charged with. The accused is the sole breadwinner. The accused has also co-operated with the police and has pleaded guilty. 
 
-11\. Mr Leong Kwang Lan for the prosecution candidly submitted that as the accused is 63 years of age, he is not liable to be caned in view of s 231 of the Criminal Procedure Code. Furthermore, the court is not at liberty to impose any additional term of imprisonment in lieu of caning: _Er Boon Huai & Anor v PP_ [1991] 1 SLR 232. 
+11\. Mr Leong Kwang Lan for the prosecution candidly submitted that as the accused is 63 years of age, he is not liable to be caned in view of s 231 of the Criminal Procedure Code. Furthermore, the court is not at liberty to impose any additional term of imprisonment in lieu of caning: _Er Boon Huai & Anor v PP_ <span class="citation">[1991] 1 SLR 232</span>. 
 
 12\. However he submitted that the court should take into account all the factors, including the following: 
 

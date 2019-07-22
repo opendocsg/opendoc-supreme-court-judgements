@@ -308,7 +308,7 @@ whether an unconscious plaintiff is entitled to claim for loss of amenities of l
 
 condition, he would not be able to experience pain or the loss. However, in **Au Yeong Wing Loong v** 
 
-**Chew Hai Ban** [1993] 3 SLR 355 , KS Rajah JC did make this comment (at p 361): 
+**Chew Hai Ban** <span class="citation">[1993] 3 SLR 355</span> , KS Rajah JC did make this comment (at p 361): 
 
  Pain and suffering and loss of amenities are usually quantified together and a single award is usually made without indicating how much is awarded under each head, partly because it is difficult to separate them. 
 

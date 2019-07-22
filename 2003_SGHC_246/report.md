@@ -41,7 +41,7 @@ _The background_
 
  In determining for the purpose of subsection (2)(c) whether the debtor is able to pay all his debts, the court shall take into account his contingent and prospective liabilities. 
 
-He further relied on _Re Boey Hong Khim_ [1998] 3 SLR 39 and extracts from the textbook _Law & Practice of Bankruptcy in Singapore and Malaysia_. 
+He further relied on _Re Boey Hong Khim_ <span class="citation">[1998] 3 SLR 39</span> and extracts from the textbook _Law & Practice of Bankruptcy in Singapore and Malaysia_. 
 
 **_The decision_** 
 
@@ -76,7 +76,7 @@ adjourning or dismissing the Petition.
 
  (3) The petitioning creditor could not therefore short-circuit the requirement of proof of inability to pay debts by a bare allegation. This was precisely what the petitioning creditors have done in this case. They have not relied on the debtor's inability to pay the debt...... 
 
-The creditors' appeals against Khoo J's decision were dismissed by the Court of Appeal (see _Medical Equipment Credit Pte Ltd v Sim Kiok Lan Alice & Anor Appeal_ [1999] 1 SLR 70). 
+The creditors' appeals against Khoo J's decision were dismissed by the Court of Appeal (see _Medical Equipment Credit Pte Ltd v Sim Kiok Lan Alice & Anor Appeal_ <span class="citation">[1999] 1 SLR 70</span>). 
 
 13     It was clear from the above headnotes that the Petition of the Bank did not suffer from any of the deficiencies of the petitions presented by the creditors against Dr Boey and his wife in Bankruptcy Nos. 1644 and 1645 of 1997 respectively. The Bank had fully complied with the provisions of the Act in particular, in raising the presumption under s 62(a) that the debtor was unable to pay his debts. The section states: 
 

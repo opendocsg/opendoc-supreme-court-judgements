@@ -121,7 +121,7 @@ the plaintiffs were free to elect the place where service should be effected. Th
 
 31     I therefore held that the default judgment was not an irregular one. Even if the plaintiffs were not entitled to rely on the Memorandum of Appearance and therefore should have entered judgment in default of appearance (after substituted service had been effected as indicated at [6] above) instead of default of defence, I would not rule that the judgment was incurably irregular. I would have ordered that the judgment be amended to one entered under O 13 instead of O 19 of the Rules of Court upon compliance with the requirements of O 13 r 7. 
 
-32     Should the regular default judgment be set aside anyway? The principles upon which the court should exercise its discretion under O 13 r 8, which is in the same terms as O 19 r 9, were declared by our Court of Appeal in _Abdul Gaffer v Chua Kwang Yong_ [1995] 1 SLR 484 at [18] to be as follows: 
+32     Should the regular default judgment be set aside anyway? The principles upon which the court should exercise its discretion under O 13 r 8, which is in the same terms as O 19 r 9, were declared by our Court of Appeal in _Abdul Gaffer v Chua Kwang Yong_ <span class="citation">[1995] 1 SLR 484</span> at [18] to be as follows: 
 
  (a) it is not sufficient to show merely an arguable defence that would justify leave to defend under O 14; it must both have a real prospect of success and carry some degree of conviction; and 
 

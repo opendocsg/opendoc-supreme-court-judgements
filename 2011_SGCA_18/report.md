@@ -22,7 +22,7 @@ _Charities_
 
 _Unincorporated Associations and Trade Unions_
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 187.]
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 187</span>.]
 
 26 April 2011 Judgment reserved.
 

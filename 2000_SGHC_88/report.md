@@ -106,7 +106,7 @@ Paragraph 22 of the statement of c laim states:
 
 This is followed by five paragraphs of partic ulars whic h will be c onsidered in the order in whic h they have been pleaded. 
 
-Mr Kasi referred to **Tan Soo Leng David v Wee, Satku & Kumar Pte Ltd & Anor** [1994] 3 SLR 481 where Karthigesu JA (delivering the judgment of the Court of Appeal) said at p 489: 
+Mr Kasi referred to **Tan Soo Leng David v Wee, Satku & Kumar Pte Ltd & Anor** <span class="citation">[1994] 3 SLR 481</span> where Karthigesu JA (delivering the judgment of the Court of Appeal) said at p 489: 
 
  ... in our view, there was a duty on the [vendors] to show that they had taken all reasonable steps to obtain the [developers] consent or that it was useless for them to pursue the matter with the [developers] after the initial withholding of consent because it would have been quite impossible for them to obtain the [developers] consent. 
 

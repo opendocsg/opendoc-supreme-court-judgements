@@ -22,7 +22,7 @@
 
 **_Cur Adv Vult_** 
 
-1\. The general principles upon which the court awards costs are too well settled to need any repetition. They have been authoritatively laid down by the Court of Appeal in England in _Re Elgindata Ltd (No. 2)_ [1993] 1 All ER 232 and approved and adopted by this Court in _Tullio v Maoro_ [1994] 2 SLR 489, and restated in _Tang Liang Hong v Lee Kuan Yew and anor_ (in Civil Appeal Nos. 63-64, 111-112 and 135 of 1997, 3 December 1997, unreported). See also _Rajabali Jumabhoy & Ors v Ameerali R Jumabhoy and Ors_ [1998] 2 SLR 489. 
+1\. The general principles upon which the court awards costs are too well settled to need any repetition. They have been authoritatively laid down by the Court of Appeal in England in _Re Elgindata Ltd (No. 2)_ [1993] 1 All ER 232 and approved and adopted by this Court in _Tullio v Maoro_ <span class="citation">[1994] 2 SLR 489</span>, and restated in _Tang Liang Hong v Lee Kuan Yew and anor_ (in Civil Appeal Nos. 63-64, 111-112 and 135 of 1997, 3 December 1997, unreported). See also _Rajabali Jumabhoy & Ors v Ameerali R Jumabhoy and Ors_ <span class="citation">[1998] 2 SLR 489</span>. 
 
 2\. We turn first to the costs below. The application before the court was ex parte, but under O 53 r1(3) of the Rules of Court the cause papers were required to be served, and were served, on the Attorney-Generals Chambers. As a result of such service, Mr Jeffrey Chan, senior state counsel, appeared on behalf of the appellant and argued against the orders sought. He was unsuccessful; but before us he was. Following the general principles, costs both here and below should follow the event. The question is whether there were any circumstances which would deprive the appellant of such costs, in whole or in part. 
 

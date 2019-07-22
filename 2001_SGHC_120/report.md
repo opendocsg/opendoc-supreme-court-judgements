@@ -1293,7 +1293,7 @@ Liras (or about US$39 million). This included the sum sent to the Plaintiff to c
 
 ### THE DECISION OF THE COURT 
 
-247    The Plaintiff submitted that the burden on the Defendant proving fraud on the part of Pigozzo was a heavy one and that the Defendant must satisfy a "high standard of proof", relying on the Court of Appeal’s decision in _Yogambikai Nagarajah v Indian Overseas Bank_ [1997] 1 SLR 258. In that case, commenting on arguments that the trial judge there had erred in finding that a signature was not forged, the Court of Appeal agreed with the English authorities cited "which impose a burden of proof more onerous than the ordinary civil standard where what is alleged is as serious and grave as fraud or forgery." 
+247    The Plaintiff submitted that the burden on the Defendant proving fraud on the part of Pigozzo was a heavy one and that the Defendant must satisfy a "high standard of proof", relying on the Court of Appeal’s decision in _Yogambikai Nagarajah v Indian Overseas Bank_ <span class="citation">[1997] 1 SLR 258</span>. In that case, commenting on arguments that the trial judge there had erred in finding that a signature was not forged, the Court of Appeal agreed with the English authorities cited "which impose a burden of proof more onerous than the ordinary civil standard where what is alleged is as serious and grave as fraud or forgery." 
 
 248    More recently however, in dealing with the question of proof of homicide in an insurance claim, the Court of Appeal said: 
 

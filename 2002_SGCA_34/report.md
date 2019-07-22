@@ -111,11 +111,11 @@ this fact to the arresting officer promptly in the first instance. That was not 
 
 20     We entirely agreed as we found his conclusions to be sound. It must also be observed at this stage that direct evidence 
 
-## of a conspiracy will be rarely available. In Public Prosecutor v Sugianto & Anor [1994] 2 SLR 1, the Court of Appeal reiterated 
+## of a conspiracy will be rarely available. In Public Prosecutor v Sugianto & Anor <span class="citation">[1994] 2 SLR 1</span>, the Court of Appeal reiterated 
 
 at page 16: 
 
- ... The essential ingredient of a conspiracy is agreement. (See the judgment of the Court of Appeal in Lai Kam Loy & Ors v PP [1994] 1 SLR 787) From the very nature of a conspiracy, direct evidence will hardly ever be available. It is evident, therefore, that the existence of a conspiracy will have to be inferred from the evidence and all the surrounding circumstances of the case. 
+ ... The essential ingredient of a conspiracy is agreement. (See the judgment of the Court of Appeal in Lai Kam Loy & Ors v PP <span class="citation">[1994] 1 SLR 787</span>) From the very nature of a conspiracy, direct evidence will hardly ever be available. It is evident, therefore, that the existence of a conspiracy will have to be inferred from the evidence and all the surrounding circumstances of the case. 
 
 21     In the appeal before us, the grounds of appeal put forward were exclusively concerned with the trial court’s findings of 
 
@@ -127,15 +127,15 @@ unreported), it is a settled principle of law that since the trial court would h
 
 ## 35; Chia Han Kiat v R [1937] MLJ 261 at 261; Goh Ah San v R [1938] MLJ 95 at 99; In re AB Ltd [1956] MLJ 197 at 200; Tan 
 
-## Choon Huat v Public Prosecutor [1991] 1 SLR 805 at 808; Lim Ah Poh v Public Prosecutor [1992] 1 SLR 713 at 719; Tan Hung 
+## Choon Huat v Public Prosecutor <span class="citation">[1991] 1 SLR 805</span> at 808; Lim Ah Poh v Public Prosecutor <span class="citation">[1992] 1 SLR 713</span> at 719; Tan Hung 
 
-## Yeoh v Public Prosecutor [1999] 3 SLR 93 at 103 and Chng Gim Huat v Public Prosecutor [2000] 3 SLR 262 at 277. 
+## Yeoh v Public Prosecutor <span class="citation">[1999] 3 SLR 93</span> at 103 and Chng Gim Huat v Public Prosecutor <span class="citation">[2000] 3 SLR 262</span> at 277. 
 
 22     We also took the view that the host of inconsistencies coursing through the various versions of events narrated by Bala Murugan could be relied on as corroborating evidence of his guilt. The conditions which must apply before a lie can qualify as 
 
 ## corroboration were laid out in R v Lucas (Ruth) [1981] QB 720 at 724 and approved in Public Prosecutor v Yeo Choon Poh 
 
-[1994] 2 SLR 867 at 876G-H: 
+<span class="citation">[1994] 2 SLR 867</span> at 876G-H: 
 
  The lie ... must first of all be deliberate. Secondly it must relate to a material issue. Thirdly the motive for the lie must be a realisation of guilt and a fear of the truth. Fourthly the statement must be clearly shown to be a lie by [independent] evidence ... 
 
@@ -160,7 +160,7 @@ abetment by intentional aid at page 404:
 
  ... The intention should be to aid the commission of a crime. A mere giving of an aid will not make the act an abetment of an offence, if the person who gave the aid did not know that an offence was being committed or contemplated. The intention should be to aid an offence or to facilitate the commission of an offence ... Nor is mere proof that the crime charged could not have been committed without the intervention of the abettor, enough compliance with the requirement of section 107. It is necessary that the intervention should have been made with the intent to facilitate the commission of the crime. Intentional aiding and therefore active complicity is the gist of the offence of abetment under the third paragraph of section 107. 
 
-## 29 In Tan Siew Chay & Ors v Public Prosecutor [1993] 2 SLR 14, three of the appellants had been charged with abetting 
+## 29 In Tan Siew Chay & Ors v Public Prosecutor <span class="citation">[1993] 2 SLR 14</span>, three of the appellants had been charged with abetting 
 
 one Yee Kim Yeou (who was the fourth appellant) in the commission of an offence of trafficking in a controlled drug, by intentionally aiding the said Yee in transporting six packets of drugs containing not less than 1,693.47g of diamorphine from River View Hotel, Havelock Road, to boarding gate B27 Singapore Changi Airport, an offence under s 5(a) read with s 12 and punishable under s 33 of the Misuse of Drugs Act. In respect of the essential elements which must be established, the Court of Appeal said at page 32-C: 
 
@@ -179,7 +179,7 @@ one Yee Kim Yeou (who was the fourth appellant) in the commission of an offence 
 
 ## complicity on his part in the way explained by the then Court of Criminal Appeal in Tan Siew Chay & 
 
-## Ors v PP [1993] 2 SLR 14. B3 [Lim] was therefore guilty as charged and I convicted him on his charge. 
+## Ors v PP <span class="citation">[1993] 2 SLR 14</span>. B3 [Lim] was therefore guilty as charged and I convicted him on his charge. 
 
 31     We were of the view that the contention that Lim’s conduct and acts on that day lacked the requisite _mens rea_ was untenable and disingenuous. In our determination, Lim clearly seemed to have either shut his eyes to the obvious or as Admiral Nelson did in the famous battle of Copenhagen, by making a conscious decision to place the telescope to his blind eye in order to avoid seeing what he knew he would see if he placed it to his good eye. Such a situation, alluded to by Lord Scott of Foscote 
 
@@ -200,13 +200,13 @@ at page 164:
  [I]t is always open to the tribunal of fact, when knowledge on the part of a defendant is required to be proved, to base a finding of knowledge on evidence that the defendant had deliberately shut his eyes to the obvious or refrained from inquiry because he suspected the truth but did not want to have his suspicion confirmed. 
 
 
-## 34 In Chiaw Wai Onn v Public Prosecutor [1997] 3 SLR 445, Chief Justice Yong Pung How observed at page 455G: 
+## 34 In Chiaw Wai Onn v Public Prosecutor <span class="citation">[1997] 3 SLR 445</span>, Chief Justice Yong Pung How observed at page 455G: 
 
  ... If it could be shown that the appellant had deliberately shut his eyes to the obvious, then it could be inferred from the present circumstances that he had the requisite guilty knowledge. 
 
 35     In the present case, Lim had admitted to having strong suspicions that the trip to Yishun was drugs-related. Given the facts, he had deliberately closed his eyes to the obvious and the claim that he lacked the requisite _mens rea_ could not be accepted. We would add that the claim by Steven Ang that Lim was ‘not aware of this matter’ and that he did not inform Lim of the purpose of his trip that afternoon was considered by us. However, in our view, what mattered was not so much as to what Steven Ang believed or did not do, but what Lim did that day, that was, to transport a known drug dealer who had supplied drugs to him in the past to a destination where a haversack full of drugs was obtained. 
 
-## 36 As pointed out by the Court of Appeal in Thiruselvam s/o Nagaratnam v Public Prosecutor [2001] 2 SLR 125, 
+## 36 As pointed out by the Court of Appeal in Thiruselvam s/o Nagaratnam v Public Prosecutor <span class="citation">[2001] 2 SLR 125</span>, 
 
 exoneration of an accused by a co-accused would not necessarily relieve the accused of his culpability. 
 

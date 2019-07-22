@@ -18,7 +18,7 @@ _CONTRACT_ – _Misrepresentation_
 
 _ADMINSTRATIVE LAW_ – _Natural Justice_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2012] SGHC 159.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2012] SGHC 159</span>.] 
 
 22 July 2013 Judgment reserved. 
 
@@ -26,7 +26,7 @@ _ADMINSTRATIVE LAW_ – _Natural Justice_
 
 **Introduction** 
 
-1       This is an appeal against the decision of a High Court Judge (“the Judge”), and concerns the purchase of two properties situated at 428 and 434 River Valley Road (“the Properties”) (see _Lim Koon Park v Yap Jin Meng Bryan and others_ [2012] SGHC 159, (“the Judgment”)). The parties had sought to leverage on their collective expertise to acquire, redevelop, and eventually resell the Properties for a profit. The dispute centres on an alleged oral profit-sharing agreement, and an alleged misrepresentation made prior to the acquisition of the Properties. 
+1       This is an appeal against the decision of a High Court Judge (“the Judge”), and concerns the purchase of two properties situated at 428 and 434 River Valley Road (“the Properties”) (see _Lim Koon Park v Yap Jin Meng Bryan and others_ <span class="citation">[2012] SGHC 159</span>, (“the Judgment”)). The parties had sought to leverage on their collective expertise to acquire, redevelop, and eventually resell the Properties for a profit. The dispute centres on an alleged oral profit-sharing agreement, and an alleged misrepresentation made prior to the acquisition of the Properties. 
 
 **Undisputed facts** 
 
@@ -179,16 +179,16 @@ plot ratio “from the then 1.4 for the Esso gas station to 2.8 for redevelopmen
 
 **_Threshold for appellate intervention_** 
 
-37     It is well-settled that appellate intervention is narrowly circumscribed: a trial judge’s findings of fact should not ordinarily be disturbed where they hinge on an assessment of witness credibility ( _Tat Seng Machine Movers Pte Ltd v Orix Leasing Singapore Ltd_ [2009] 4 SLR(R) 1101 at [41] and _Yong Kheng Leong and another v Panweld Trading Pte Ltd and another_ [2013] 1 SLR 173 at [18]). 
+37     It is well-settled that appellate intervention is narrowly circumscribed: a trial judge’s findings of fact should not ordinarily be disturbed where they hinge on an assessment of witness credibility ( _Tat Seng Machine Movers Pte Ltd v Orix Leasing Singapore Ltd_ <span class="citation">[2009] 4 SLR(R) 1101</span> at [41] and _Yong Kheng Leong and another v Panweld Trading Pte Ltd and another_ <span class="citation">[2013] 1 SLR 173</span> at [18]). 
 
 
-Nevertheless, appellate intervention is justified where a trial judge’s findings of fact is plainly wrong or against the weight of evidence — for instance, where the inferences drawn by the trial judge are not supported by the primary or objective evidence on record ( _Ng Chee Chuan v Ng Ai Tee (administratrix of the estate of Yap Yoon Moi, deceased)_ [2009] 2 SLR(R) 918 at [12] and [13]). 
+Nevertheless, appellate intervention is justified where a trial judge’s findings of fact is plainly wrong or against the weight of evidence — for instance, where the inferences drawn by the trial judge are not supported by the primary or objective evidence on record ( _Ng Chee Chuan v Ng Ai Tee (administratrix of the estate of Yap Yoon Moi, deceased)_ <span class="citation">[2009] 2 SLR(R) 918</span> at [12] and [13]). 
 
 **_Did Park make an actionable misrepresentation?_** 
 
-38     An operative misrepresentation consists in a false statement of existing or past fact made by one party before or at the time of making the contract, which is addressed to the other party and which induces the other party to enter into the contract ( _Tan Chin Seng and others v Raffles Town Club Pte Ltd_ [2003] 3 SLR(R) 307 (“ _Raffles Town Club”_ ) at [20]). 
+38     An operative misrepresentation consists in a false statement of existing or past fact made by one party before or at the time of making the contract, which is addressed to the other party and which induces the other party to enter into the contract ( _Tan Chin Seng and others v Raffles Town Club Pte Ltd_ <span class="citation">[2003] 3 SLR(R) 307</span> (“ _Raffles Town Club”_ ) at [20]). 
 
-39     S 2(1) of the Misrepresentation Act does not alter the (common) law as to what constitutes a misrepresentation ( _Raffles Town Club_ at [23]). It does, however, reverse the burden of proof, in that the party who made the misrepresentation has to show that he had reasonable grounds to believe that the fact represented was true ( _Ng Buay Hock and another v Tan Keng Huat and another_ [1997] 1 SLR(R) 507 at [28]). 
+39     S 2(1) of the Misrepresentation Act does not alter the (common) law as to what constitutes a misrepresentation ( _Raffles Town Club_ at [23]). It does, however, reverse the burden of proof, in that the party who made the misrepresentation has to show that he had reasonable grounds to believe that the fact represented was true ( _Ng Buay Hock and another v Tan Keng Huat and another_ <span class="citation">[1997] 1 SLR(R) 507</span> at [28]). 
 
 _Erroneous characterisation of the representation_ 
 
@@ -244,7 +244,7 @@ _No reliance_
 
 55     To elaborate: all presumptions are merely propositions in the form of “P implies Q; P is proven to be true, so therefore Q is true”. Stated in another way, presumptions are special forms of _modus ponendo ponens._ 
 
-56     Presumptions of law can be further subdivided into irrebuttable and rebuttable presumptions of law (see also _Lau Siew Kim v Yeo Guan Chye Terence and another_ [2008] 2 SLR(R) 108 at [43] and [44]). An irrebuttable presumption of law is such that if P is proven on a balance of probabilities, then Q is _ipso jure_ proven regardless of the rest of the available evidence. A rebuttable presumption of law is such that if P proven on a balance of probabilities, then Q is established only if there is insufficient countervailing evidence indicating otherwise. In other words, a rebuttable presumption of law reverses the legal burden of proof once the premise P is established. 
+56     Presumptions of law can be further subdivided into irrebuttable and rebuttable presumptions of law (see also _Lau Siew Kim v Yeo Guan Chye Terence and another_ <span class="citation">[2008] 2 SLR(R) 108</span> at [43] and [44]). An irrebuttable presumption of law is such that if P is proven on a balance of probabilities, then Q is _ipso jure_ proven regardless of the rest of the available evidence. A rebuttable presumption of law is such that if P proven on a balance of probabilities, then Q is established only if there is insufficient countervailing evidence indicating otherwise. In other words, a rebuttable presumption of law reverses the legal burden of proof once the premise P is established. 
 
 57     A presumption of fact, contrary to a presumption of law, is a presumption whereby the _modus ponendo ponens_ itself is not an obligatory rule of law. The court has a discretion on whether to apply the presumption to the particular factual matrix. As such, when a court does apply a presumption of fact, it is incumbent on the court to give reasons for the application of the presumption. 
 
@@ -290,7 +290,7 @@ opined that: [note: 8]
 66     At this juncture, we would like to add that the courts scrutinise the objective conduct of the parties in determining if an agreement has been reached. Once the parties have to all outward appearances agreed in the same terms on the same subject-matter, then neither can, generally, rely 
 
 
-on some unexpressed qualification or reservation to show that he had not in fact agreed to the terms to which he had appeared to agree. The subjective reservations of one party cannot prevent the formation of a contract ( _Aircharter World Pte Ltd v Kontena Nasional Bhd_ [1999] 2 SLR(R) 440 at [30]). 
+on some unexpressed qualification or reservation to show that he had not in fact agreed to the terms to which he had appeared to agree. The subjective reservations of one party cannot prevent the formation of a contract ( _Aircharter World Pte Ltd v Kontena Nasional Bhd_ <span class="citation">[1999] 2 SLR(R) 440</span> at [30]). 
 
 67     Curiously, the Judge found that there was an _indicative_ profit-sharing agreement, under which the final proportions of profits would _fluidly vary based on the final sale price of the Properties_ , the holding period of the investment, as well as the return on equity obtained by Bryan. 
 
@@ -335,7 +335,7 @@ On 27 November 2008, Bryan wrote again to Andy, Clarence and Park: [note: 13]
 
  The spirit of the profit share is intact and is not different from the last email exchange. 
 
-75     To reiterate, the test for whether a contract has been concluded is objective in nature. The documentary evidence on record clearly indicates that an agreement had been reached, with profits from the sale of the Properties (a land only sale) to be split in a 2:1:1 ratio between Bryan, Andy and Park respectively, with each party then paying a fee of 2.5% of the total profits to Clarence. That the exact circumstances surrounding the conclusion of the contract are unclear is no impediment to discerning that one was in fact concluded in the course of the parties’ continuing negotiations. The function of the court is to try, as far as practical experience allows, to ensure that the reasonable expectations of honest men are not disappointed ( _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ [2000] 2 SLR(R) 407 at [40]). Bryan’s subsequent reprobation cannot be sanctioned; this Court will not allow the subjective reservations of one party to defeat clear, objective evidence of _consensus ad idem_. 
+75     To reiterate, the test for whether a contract has been concluded is objective in nature. The documentary evidence on record clearly indicates that an agreement had been reached, with profits from the sale of the Properties (a land only sale) to be split in a 2:1:1 ratio between Bryan, Andy and Park respectively, with each party then paying a fee of 2.5% of the total profits to Clarence. That the exact circumstances surrounding the conclusion of the contract are unclear is no impediment to discerning that one was in fact concluded in the course of the parties’ continuing negotiations. The function of the court is to try, as far as practical experience allows, to ensure that the reasonable expectations of honest men are not disappointed ( _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">[2000] 2 SLR(R) 407</span> at [40]). Bryan’s subsequent reprobation cannot be sanctioned; this Court will not allow the subjective reservations of one party to defeat clear, objective evidence of _consensus ad idem_. 
 
 76     We acknowledge that the Judge entertained serious doubts on Park’s credibility. However, even where a trial judge’s evaluation of a witness’s credibility is based on his demeanour, this will not invariably immunise the decision from appellate scrutiny. It is always important to test witnesses’ 
 

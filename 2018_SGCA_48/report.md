@@ -20,7 +20,7 @@ _Damages_ – _Assessment_ – _Assessment of equitable compensation_
 
 _Equity_ – _Satisfaction_ – _Minimalist approach_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 200.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 200</span>.] 
 
 15 August 2018 Judgment reserved. 
 
@@ -28,7 +28,7 @@ _Equity_ – _Satisfaction_ – _Minimalist approach_
 
 **Introduction** 
 
-1       This is an appeal against the decision of the High Court judge (“the Judge”) to allow an appeal by Low Heng Leon Andy (“the Appellant”) against the decision of the assistant registrar (“the AR”) to, among other things, award the Appellant equitable compensation in the sum of $84,000. The AR had assessed this amount to be the appropriate sum to satisfy the Appellant’s equity that had arisen following the Appellant’s successful claim in proprietary estoppel brought against the estate (“the Estate”) of his grandmother, one Tan Ah Kng (“the Deceased”), in Suit No 252 of 2011 (“the Suit”). The Judge increased the damages awarded to $100,000: see _Low Heng Leon Andy v Low Kian Beng Lawrence (administrator of the estate of Tan Ah Kng, deceased)_ [2017] SGHC 200 (“the GD”). However, the Appellant remains dissatisfied with the quantum awarded and now brings this appeal, seeking an even higher sum of equitable compensation. Low Kian Beng Lawrence (“the Respondent”), who was the administrator of the Estate, was unrepresented and absent during the first instance assessment proceedings before the AR, the registrar’s appeal before the Judge, and also during the appeal before us. 
+1       This is an appeal against the decision of the High Court judge (“the Judge”) to allow an appeal by Low Heng Leon Andy (“the Appellant”) against the decision of the assistant registrar (“the AR”) to, among other things, award the Appellant equitable compensation in the sum of $84,000. The AR had assessed this amount to be the appropriate sum to satisfy the Appellant’s equity that had arisen following the Appellant’s successful claim in proprietary estoppel brought against the estate (“the Estate”) of his grandmother, one Tan Ah Kng (“the Deceased”), in Suit No 252 of 2011 (“the Suit”). The Judge increased the damages awarded to $100,000: see _Low Heng Leon Andy v Low Kian Beng Lawrence (administrator of the estate of Tan Ah Kng, deceased)_ <span class="citation">[2017] SGHC 200</span> (“the GD”). However, the Appellant remains dissatisfied with the quantum awarded and now brings this appeal, seeking an even higher sum of equitable compensation. Low Kian Beng Lawrence (“the Respondent”), who was the administrator of the Estate, was unrepresented and absent during the first instance assessment proceedings before the AR, the registrar’s appeal before the Judge, and also during the appeal before us. 
 
 2       For the reasons that follow, we allow the appeal, albeit only to the extent that we increase the equitable compensation awarded to the Appellant to a sum of $140,000. 
 
@@ -83,7 +83,7 @@ end, the Appellant sought a sum of $420,000.
 
 **_The applicable principles_** 
 
-16     In the decision of this Court in _Lim Chin San Contractors Pte Ltd v Shiok Kim Seng (trading as IKO Precision Toolings) and another appeal_ [2013] 2 SLR 279 (“ _Lim Chin San (CA)_ ”), the following principles were set out (at [42]): 
+16     In the decision of this Court in _Lim Chin San Contractors Pte Ltd v Shiok Kim Seng (trading as IKO Precision Toolings) and another appeal_ <span class="citation">[2013] 2 SLR 279</span> (“ _Lim Chin San (CA)_ ”), the following principles were set out (at [42]): 
 
  (a) Upon the equity arising, its value and how it should be satisfied are matters for the court’s discretion. 
 
@@ -97,7 +97,7 @@ end, the Appellant sought a sum of $420,000.
 
  (f) Subject to the above, the court’s aim, having identified the maximum extent of the equity, is to do the minimum required to satisfy it. 
 
- See [ Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd [2007] 1 SLR(R) 292] at [240], [244] to [249] and authorities cited there. 
+ See [ Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd <span class="citation">[2007] 1 SLR(R) 292</span>] at [240], [244] to [249] and authorities cited there. 
 
 17     It is evident from the foregoing statement of principles that the exercise of assessing the appropriate remedy to satisfy the equity that has arisen in a proprietary estoppel claim is an **_intensely fact-specific_** one, with the court’s exercise of its discretion being ultimately guided by the twin lodestars of **_achieving proportionality_** between the expectation, the detriment and the remedy, as well as **_doing the minimum required to satisfy the maximum extent of the equity and do justice between the parties_**. 
 

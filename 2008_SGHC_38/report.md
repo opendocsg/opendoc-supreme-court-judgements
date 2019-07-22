@@ -65,7 +65,7 @@ those in the discontinued suit, and are for contribution from the 1st defendant 
 
 **_Automatic discontinuance_** 
 
-9       The rationale behind the automatic discontinuance rules was discussed in _Tan Kim Seng v Ibrahim Victor Adam_ [2004] 1 SLR 181. The Court of Appeal said at 184-188 that: 
+9       The rationale behind the automatic discontinuance rules was discussed in _Tan Kim Seng v Ibrahim Victor Adam_ <span class="citation">[2004] 1 SLR 181</span>. The Court of Appeal said at 184-188 that: 
 
  In this connection, we think it is crucial to bear in mind the overall scheme of things under the present Rules of Court. It was put by Lim Hui Min [in her article “Automatic Discontinuance under 
 
@@ -95,7 +95,7 @@ those in the discontinued suit, and are for contribution from the 1st defendant 
 
  Where an action, a cause or a matter has been discontinued under paragraph (5) or (6), the Court may, on application, reinstate the action, cause or matter, and allow it to proceed on such terms as it thinks just. (Note: paragraph (6) is the automatic discontinuance O 21 r 2(6) which is set out at [7]. 
 
-13     The applicable guidelines governing reinstatement of a discontinued action were set out by Judith Prakash J in _Moguntia-Est Epices SA v Sea-Hawk Freight Pte Ltd_ [2003] 4 SLR 429 (“ _Moguntia_ ”). In summary, they are as follows: 
+13     The applicable guidelines governing reinstatement of a discontinued action were set out by Judith Prakash J in _Moguntia-Est Epices SA v Sea-Hawk Freight Pte Ltd_ <span class="citation">[2003] 4 SLR 429</span> (“ _Moguntia_ ”). In summary, they are as follows: 
 
  (a) whether the plaintiff is innocent of any significant failure to conduct the case with expedition prior to the trigger date ( i.e. the date of the last step in the action). 
 
@@ -179,7 +179,7 @@ r 19. The main grounds relied on by the 1st defendant are limbs (a), (b) and (d)
 
 **Abuse of process** 
 
-34     Belinda Ang J. in _Kwa Ban Cheong v Kuah Boon Sek and others_ [2003] 3 SLR 644 (“ _Kwa Ban Cheong_ ”) said at [25] and [27] that: 
+34     Belinda Ang J. in _Kwa Ban Cheong v Kuah Boon Sek and others_ <span class="citation">[2003] 3 SLR 644</span> (“ _Kwa Ban Cheong_ ”) said at [25] and [27] that: 
 
  What is required to ascertain whether an action is an abuse of process is a broad, merits-based judgment which takes account of private and public interests and all the facts of the case. 
 
@@ -189,9 +189,9 @@ r 19. The main grounds relied on by the 1st defendant are limbs (a), (b) and (d)
 
 35     The case of _Ansa Teknik (M) Sdn Bhd v Cygal Sdn Bhd_ [1989] 2 MLJ 423 cited to me is one example where even the motive behind the plaintiff’s actions was a circumstance taken into account. There the plaintiffs discontinued their action for a debt after the defendant had been given unconditional leave to defend, and commenced winding up proceedings against the defendants in respect of the same debt. Vohrah J ruled that the plaintiffs had abused the court process by employing the winding up procedure to embarrass the defendants and to circumvent the normal course of going to trial on the debt, which on the evidence showed a _bona fide_ dispute. Accordingly, Vohrah J struck out the winding up petition. 
 
-36     Hence, all relevant facts and circumstances must be considered before the court exercises its discretion to strike out a fresh action commenced after an automatic discontinuance on the ground that it is an abuse of process. The jurisdiction to strike out a statement of claim, whether under the Rules or under the inherent jurisdiction of the court, is only exercised in a plain and obvious case: see _Ching Mun Fong (executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit and another appeal_ [2000] 1 SLR 517 at [12] of the decision of the Court of Appeal. 
+36     Hence, all relevant facts and circumstances must be considered before the court exercises its discretion to strike out a fresh action commenced after an automatic discontinuance on the ground that it is an abuse of process. The jurisdiction to strike out a statement of claim, whether under the Rules or under the inherent jurisdiction of the court, is only exercised in a plain and obvious case: see _Ching Mun Fong (executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit and another appeal_ <span class="citation">[2000] 1 SLR 517</span> at [12] of the decision of the Court of Appeal. 
 
-37     It is trite law that the court’s power to strike out an action is a draconian one, and should not be exercised too readily unless the court is convinced that the plaintiffs’ case is wholly devoid of merit: _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin & Ors_ [1998] 1 SLR 374. The Court of Appeal explained at [22] that: 
+37     It is trite law that the court’s power to strike out an action is a draconian one, and should not be exercised too readily unless the court is convinced that the plaintiffs’ case is wholly devoid of merit: _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin & Ors_ <span class="citation">[1998] 1 SLR 374</span>. The Court of Appeal explained at [22] that: 
 
  The term, ‘abuse of the process of the Court’, in O18 r 19(1)(d), has been given a wide interpretation by the courts. It includes considerations of public policy and the interests of justice. This term signifies that the process of the court must be used bona fide and properly and must not be abused. The court will prevent the improper use of its machinery. It will prevent the judicial process from being used as a means of vexation and oppression in the process of litigation. The categories of conduct rendering a claim frivolous, vexatious or an abuse of process are not closed and will depend on all the relevant circumstances of the case. A type of conduct which has been judicially acknowledged as an abuse of process is the bringing of an action for a collateral purpose, as was raised by the respondents. In Lonrho v Fayed (No 5) [1993] 1 WLR 1489, Stuart-Smith LJ stated that, if an action was not brought bona fide for the purpose of obtaining relief but for some other ulterior or collateral purpose, it might be struck out as an abuse of the process of the court. 
 
@@ -246,11 +246,11 @@ plaintiff’s case are amply borne out by the interlocutory judgments earlier ob
 
 46     Counsel for the plaintiffs cited the following cases to show that the plaintiffs have a right to commence a fresh action unless the discontinuance is done on terms which prohibit the commencement of a fresh action. 
 
-47     In _Tong Guan Food Products Pte Ltd and Others v Teo Cheow Ngoh and Another_ [2004] SGHC 261 Woo Bih Li J observed in dealing with the defendant’s contention that the plaintiff’s second suit was an abuse of process: 
+47     In _Tong Guan Food Products Pte Ltd and Others v Teo Cheow Ngoh and Another_ <span class="citation">[2004] SGHC 261</span> Woo Bih Li J observed in dealing with the defendant’s contention that the plaintiff’s second suit was an abuse of process: 
 
  As regards a point taken by Mr Andy Lem, counsel for EH, that the plaintiffs’ claims are an abuse of process of court because Tong Guan had commenced and discontinued Suit No 609 of 2000 (“Suit 609”) against Mdm Teo for substantially the same reliefs as in the present action, this point is a non-starter. It is the right of a plaintiff to commence a fresh action unless the discontinuance is done on terms which prohibit the commencement of a fresh action. Therefore, while the fact of and circumstances leading to the discontinuance may be used to attack the plaintiff’s credibility, it is not an abuse of process to file a fresh action unless the same is prohibited. There was no suggestion that Suit 609 was discontinued on terms that prohibited a fresh action. 
 
-48     _Hendrawan Setiadi v OCBC Securities Ltd and Others_ [2001] 4 SLR 503 was a case where the plaintiff applied under O 21 r 3 for leave to discontinue the action. Order 21 r 3 states as follows: 
+48     _Hendrawan Setiadi v OCBC Securities Ltd and Others_ <span class="citation">[2001] 4 SLR 503</span> was a case where the plaintiff applied under O 21 r 3 for leave to discontinue the action. Order 21 r 3 states as follows: 
 
  Discontinuance of action, etc., with leave (O. 21, r. 3) 
 
@@ -313,7 +313,7 @@ case of abuse of process. Third, if the plaintiffs are forced to apply for reins
 
  (c) that there are merits in the plaintiffs’ application based primarily on the terms of the guarantee signed by the plaintiffs and the 1st defendant as guarantors for the company’s mortgage to the bank. 
 
-56     Issue estoppel precludes a party from contending the contrary of any precise point which, having once been distinctively put in issue, has been finally determined against him: see _Xiamen International Bank & Ors v Sing Eng (Pte) Ltd_ [1993] 3 SLR 228 at 234. Here the issue of liability has 
+56     Issue estoppel precludes a party from contending the contrary of any precise point which, having once been distinctively put in issue, has been finally determined against him: see _Xiamen International Bank & Ors v Sing Eng (Pte) Ltd_ <span class="citation">[1993] 3 SLR 228</span> at 234. Here the issue of liability has 
 
 been previously determined against the 1st defendant as a result of the two earlier interlocutory judgments on the same or largely the same claims, saving the issue of the quantum of contribution for 
 

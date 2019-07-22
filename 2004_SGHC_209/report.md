@@ -22,7 +22,7 @@ _Civil Procedure_ – _Judgments and orders_ – _Parties unable to agree on ter
 
 **Kan Ting Chiu J:** 
 
-1       After I had delivered my judgment ([2004] SGHC 141) in this action, counsel for the parties informed me that they were unable to agree with the terms of the judgment to be drawn and extracted. 
+1       After I had delivered my judgment (<span class="citation">[2004] SGHC 141</span>) in this action, counsel for the parties informed me that they were unable to agree with the terms of the judgment to be drawn and extracted. 
 
 2       The disagreement arose out of an amendment to prayer (a) of the Statement of Claim made on the first day of the trial. The original prayer was for “[t]he transfer of 10,625,000 UFS shares to the Bank of China for the account of Mr Kang Hwi Wah”. 
 

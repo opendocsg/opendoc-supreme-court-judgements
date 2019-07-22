@@ -93,7 +93,7 @@ However, these duties did not enhance Stratech’s case against Nyam, Wong and G
 
 **The decision below** 
 
-21     The judge below (see [2004] SGHC 168) dismissed Stratech’s claim under cl 8.1 in respect of trade secrets and confidential information. As for Stratech’s claim under cl 9.4, the judge dismissed the claim against Nyam and Wong. However, he found Guthrie liable for inducing Nyam and Wong to breach cl 9.4. The trial judge awarded Stratech nominal damages of $1,000 as he was of the view that Stratech had not suffered any real or substantial damage. 
+21     The judge below (see <span class="citation">[2004] SGHC 168</span>) dismissed Stratech’s claim under cl 8.1 in respect of trade secrets and confidential information. As for Stratech’s claim under cl 9.4, the judge dismissed the claim against Nyam and Wong. However, he found Guthrie liable for inducing Nyam and Wong to breach cl 9.4. The trial judge awarded Stratech nominal damages of $1,000 as he was of the view that Stratech had not suffered any real or substantial damage. 
 
 22     Stratech then appealed in Civil Appeal No 78 of 2004 (“CA 78/2004”), and Guthrie crossappealed in Civil Appeal No 98 of 2004 (“CA 98/2004”), against various aspects of the decision below. After hearing submissions, we dismissed Stratech’s appeal and allowed Guthrie’s cross-appeal. We now set out our reasons. 
 
@@ -134,7 +134,7 @@ However, these duties did not enhance Stratech’s case against Nyam, Wong and G
 
  Ans: The 1st and 2nd Defendant disclosed all the Plaintiffs’ information contained in the 5 computers at LTA as well as confidential information acquired by them in the course of employment. 
 
-28     Instead, Stratech sought to establish its case under cl 8.1 by various arguments. Before we come to those arguments, it is appropriate to refer to _Tang Siew Choy v Certact Pte_ Ltd [1993] 3 SLR 44. 
+28     Instead, Stratech sought to establish its case under cl 8.1 by various arguments. Before we come to those arguments, it is appropriate to refer to _Tang Siew Choy v Certact Pte_ Ltd <span class="citation">[1993] 3 SLR 44</span>. 
 
 29     In that case, the first appellant had joined the Industrial Machine Tools & Chemical Department (“IMTC”) of the respondent, Certact Pte Ltd (“Certact”), as a technical sales executive. In 1986 he was promoted to Sales Manager and Head of IMTC. The second appellant joined Certact on 9 February 1987 as a sales engineer in IMTC. The first and second appellants resigned from Certact on 28 and 27 February 1991 respectively and subsequently joined a company which was 
 
@@ -212,7 +212,7 @@ referred to as Axiom. The second appellant was a director and shareholder of Axi
 
  “If the managing director is right in thinking that there are features in the plaintiffs’ process which can fairly be regarded as trade secrets and which their employees will inevitably carry away with them in their heads, then the proper way for the plaintiffs to protect themselves would be by exacting covenants from their employees restricting their field of activity after they have left their employment, not by asking the court to extend the general equitable doctrine to prevent breaking confidence beyond all reasonable bounds.” 
 
-46     It seemed to us that this passage did not assist Stratech as it was still for Stratech to demonstrate that cl 9.4 was to protect some legitimate interest belonging to it. In _Buckman Laboratories (Asia) Pte Ltd v Lee Wei Hoong_ [1999] 3 SLR 333, Judith Prakash J said at [21]: 
+46     It seemed to us that this passage did not assist Stratech as it was still for Stratech to demonstrate that cl 9.4 was to protect some legitimate interest belonging to it. In _Buckman Laboratories (Asia) Pte Ltd v Lee Wei Hoong_ <span class="citation">[1999] 3 SLR 333</span>, Judith Prakash J said at [21]: 
 
  It is well-known that an employer who wishes to enforce a restraint of trade provision in a contract with an ex-employee must show that it was intended to protect the employer’s legitimate interests and that it was reasonable in all the circumstances. In ascertaining the validity of such a clause, the first step is to determine what those interests are and the second is to consider whether the clause as drafted is no wider than is necessary to protect such interests. The court will not give effect to a clause if its main function is to inhibit competition in business. 
 

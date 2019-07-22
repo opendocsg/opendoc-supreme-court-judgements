@@ -37,7 +37,7 @@ stay of proceedings and granted Mae’s application for summary judgment. This i
 
 **Cases referred to** 
 
-Channel Tunnel Group Ltd & Anor v Balfour Beatty Construction Ltd & Ors [1993] 1 All ER 664 **(refd)** Ellis Mechanical Services Ltd v Wates Construction Ltd [1978] 1 LLR 33 **(folld)** Home and Overseas Insurance Co Ltd v Mentor Insurance Co (UK) Ltd [1990] 1 WLR 153 **(refd)** Kwan Im Tong Chinese Temple v Fong Choon Hung Construction Pte Ltd [1998] 2 SLR 143 **(folld)** Uni-Navigation Pte Ltd v Wei Loong Shipping Pte Ltd [1993] 1 SLR 876 **(folld)** 
+Channel Tunnel Group Ltd & Anor v Balfour Beatty Construction Ltd & Ors [1993] 1 All ER 664 **(refd)** Ellis Mechanical Services Ltd v Wates Construction Ltd [1978] 1 LLR 33 **(folld)** Home and Overseas Insurance Co Ltd v Mentor Insurance Co (UK) Ltd [1990] 1 WLR 153 **(refd)** Kwan Im Tong Chinese Temple v Fong Choon Hung Construction Pte Ltd <span class="citation">[1998] 2 SLR 143</span> **(folld)** Uni-Navigation Pte Ltd v Wei Loong Shipping Pte Ltd <span class="citation">[1993] 1 SLR 876</span> **(folld)** 
 
 Legislation referred to 
 
@@ -93,7 +93,7 @@ Mae, on 24 July 2001, gave notice of arbitration under cl 31. It would be releva
 
 Section 7(2) of the Arbitration Act, in effect puts the burden on the party applying for a stay to satisfy the court that there is sufficient reason why the agreement between the parties to refer any dispute between them to arbitration should not prevail and why the court should, instead, assume jurisdiction. 
 
-10\. The scope of the court’s discretion under s 7(2) of the Arbitration Act was considered by the Court of Appeal in the case of _Kwan Im Tong Chinese Temple v Fong Choon Hung Construction Pte Ltd_ [1998] 2 SLR 143. In that case the trial judge dealing with an application for stay under s 7 of the 
+10\. The scope of the court’s discretion under s 7(2) of the Arbitration Act was considered by the Court of Appeal in the case of _Kwan Im Tong Chinese Temple v Fong Choon Hung Construction Pte Ltd_ <span class="citation">[1998] 2 SLR 143</span>. In that case the trial judge dealing with an application for stay under s 7 of the 
 
 
 Arbitration Act had taken the view that the contractor was prima facie entitled to summary judgment for the amount stated to be due to the contractor under an Interim Certificate and that it was for the employer to show that the employer had a bona fide defence to that claim. In rejecting that approach Karthigesu JA, delivering the decision of the Court of Appeal, said at page 143: 
@@ -127,7 +127,7 @@ Karthigesu JA described these observations as "a timely reminder that the basis 
 
  (Emphasis added.) 
 
-The Court of Appeal also adopted the following approach which Selvam JC (as he then was) took in _Uni-Navigation Pte Ltd v Wei Loong Shipping Pte Ltd_ [1993] 1 SLR 876: 
+The Court of Appeal also adopted the following approach which Selvam JC (as he then was) took in _Uni-Navigation Pte Ltd v Wei Loong Shipping Pte Ltd_ <span class="citation">[1993] 1 SLR 876</span>: 
 
  "The common form arbitration agreement provides for disputes to be decided by arbitrators. In such a case the court should, save in obvious cases, adopt a holistic and commonsense approach to see if there is a dispute. The justification for this approach is that it is important to hold a party to his agreement and avoid double and split hearing of matters. ... If the defendant, therefore, makes out a prima facie case of disputes the courts should not embark on an examination of the validity of the dispute as though it were an application for summary judgment." 
 

@@ -172,7 +172,7 @@ _Leave may be granted for adduction of further evidence pursuant to O 55 r 6(2) 
 
  (c) must be apparently credible, although it need not be incontrovertible. 
 
-31     I do not accept this submission as I do not think that the _Ladd v Marshall_ conditions should be applied strictly to an appeal under O 55 of the ROC. In _Martek Biosciences Corp v Cargill International Trading Pte Ltd_ [2011] 1 SLR 1287 (“ _Martek_ ”), an appeal under O 87A of the ROC against a decision of Registrar of Patents revoking a patent, the Court of Appeal held that: 
+31     I do not accept this submission as I do not think that the _Ladd v Marshall_ conditions should be applied strictly to an appeal under O 55 of the ROC. In _Martek Biosciences Corp v Cargill International Trading Pte Ltd_ <span class="citation">[2011] 1 SLR 1287</span> (“ _Martek_ ”), an appeal under O 87A of the ROC against a decision of Registrar of Patents revoking a patent, the Court of Appeal held that: 
 
  (a) the 3 conditions in Ladd v Marshall give effect to the term “special grounds” in O 57 r 13(2) of the ROC (at [12]); and 
 

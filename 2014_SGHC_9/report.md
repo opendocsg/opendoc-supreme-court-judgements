@@ -62,7 +62,7 @@ September 2013, the liquidators wrote [note: 3] to say they had no objections to
 11     As to the exercise of discretion, the plaintiff cited the cases of _Chimbusco International_ 
 
 
-_Petroleum (Singapore) Pte Ltd v Jalalludin bin Abdullah and other matters_ [2013] 2 SLR 801 and _In re Calgary & Edmonton Land Co Ltd (In Liquidation)_ [1975] 1 WLR 355 (“ _Re Calgary_ ”) as authorities for the proposition that stays have been granted where all the creditors have been paid or provided for, or where a scheme of arrangement has been agreed to by the creditors. 
+_Petroleum (Singapore) Pte Ltd v Jalalludin bin Abdullah and other matters_ <span class="citation">[2013] 2 SLR 801</span> and _In re Calgary & Edmonton Land Co Ltd (In Liquidation)_ [1975] 1 WLR 355 (“ _Re Calgary_ ”) as authorities for the proposition that stays have been granted where all the creditors have been paid or provided for, or where a scheme of arrangement has been agreed to by the creditors. 
 
 12     _Re Calgary_ is a case which had to do with s 256(1) of the UK Companies Act 1948 (c 38) (UK), which is _in pari materia_ with s 279(1) of the Act. Megarry J considered “that the application for a stay must make out a case that carries conviction”, at 358–359; and then went on to discuss in some detail the persons whose interests had to be considered by the court when deciding whether or not to exercise its discretion, at 360: 
 

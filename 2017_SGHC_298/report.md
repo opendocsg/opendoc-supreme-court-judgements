@@ -16,7 +16,7 @@
 
 _Companies_ – _Directors_ – _Appointment_ 
 
-[LawNet Editorial Note: The appeal from this decision in Civil Appeal No 142 of 2017 was allowed by the Court of Appeal on 29 August 2018. See [2018] SGCA 47.] 
+[LawNet Editorial Note: The appeal from this decision in Civil Appeal No 142 of 2017 was allowed by the Court of Appeal on 29 August 2018. See <span class="citation">[2018] SGCA 47</span>.] 
 
 16 November 2017 
 
@@ -53,7 +53,7 @@ _Companies_ – _Directors_ – _Appointment_
 
 10     In November 2013, TWG Tea had a rights issue to raise capital. Wellness did not subscribe to this rights issue. OSIM and Paris together subscribed for the entire rights issue. Consequently, OSIM and Paris, combined, held 69.9% of the shares in TWG Tea while Wellness’ shareholding was diluted to 30.1%. To date, Wellness continues to hold 30.1% of the shares in TWG Tea. 
 
-11     In February 2014, Wellness and Manoj commenced a minority oppression action in S 187/ against OSIM, Paris and the directors of TWG Tea. On 22 April 2016, I dismissed the claims in S 187/2014 – see _The Wellness Group Pte Ltd and another v OSIM International Ltd and others_ [2016] 3 SLR 729. Wellness’ appeal in Civil Appeal No 64 of 2016 was dismissed by the Court of Appeal on 25 October 2016. 
+11     In February 2014, Wellness and Manoj commenced a minority oppression action in S 187/ against OSIM, Paris and the directors of TWG Tea. On 22 April 2016, I dismissed the claims in S 187/2014 – see _The Wellness Group Pte Ltd and another v OSIM International Ltd and others_ <span class="citation">[2016] 3 SLR 729</span>. Wellness’ appeal in Civil Appeal No 64 of 2016 was dismissed by the Court of Appeal on 25 October 2016. 
 
 12     For present purposes, the only relevant finding in S 187/2014 is that there is an implied term in the SHA that the majority shareholder(s) (whoever they may be) would be entitled to appoint two directors to the board of TWG Tea, and the minority shareholder(s) in TWG Tea would be entitled to appoint one director so long as they hold at least 25% of the shares in TWG Tea (“the Implied Term”) (at [121(c)]). The Implied Term addressed the situation where Wellness, whether by itself or with Paris, ceased to be the majority shareholder/s in TWG Tea. In the present case, Wellness has ceased to be the majority shareholders and OSIM together with Paris form the majority shareholders. Since Wellness (as the minority shareholder) holds 30.1% of the shares in TWG Tea, it is entitled to appoint one director to the board of TWG Tea. 
 

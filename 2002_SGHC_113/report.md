@@ -157,7 +157,7 @@ The December 1999 lease
 
 38\. Juraidah bte Jamri, a restaurant hostess at Esmirada also testified to the complaints she had received from customers who found the ground floor toilets rather far from the restaurant after the doorway was sealed. A regular customer, whom she was not able to name and had not seen for a while, had informed her that he would not entertain at the restaurant because visiting the restroom was too much of an inconvenience. Overall, her testimony is inadmissible as it is hearsay evidence. 
 
-39\. A petition was maintained from 25 October to 5 November 2001. The entries in the petition were made during the time Peranakan Place was undergoing renovations. The petition was tendered to prove the truth or validity of views, opinions and comments of customers who found the external access an inconvenience. The use of the petition for such a purpose offends the hearsay rule and the petition is therefore inadmissible: **_Saga Foodstuffs Manufacturing (Pte) Ltd_** [1995] 1 SLR 739 at 740. 
+39\. A petition was maintained from 25 October to 5 November 2001. The entries in the petition were made during the time Peranakan Place was undergoing renovations. The petition was tendered to prove the truth or validity of views, opinions and comments of customers who found the external access an inconvenience. The use of the petition for such a purpose offends the hearsay rule and the petition is therefore inadmissible: **_Saga Foodstuffs Manufacturing (Pte) Ltd_** <span class="citation">[1995] 1 SLR 739</span> at 740. 
 
 40\. As for Justin Quek, his testimony has no evidential value. 
 
@@ -534,7 +534,7 @@ tenants. In terms of duration, this is difficult to accept as the right involves
 
 127\. CJ Yong, delivering the judgment of the Court of Appeal in **_Latham v Credit Suisse First Boston_** [2000] 2SLR 693 at p 701 said: 
 
- "In our judgment, it [s 94(b)] could not operate to admit evidence of the verbal agreement either as a collateral contract or as forming part of the terms of a part oral or part written contract. Section 94(b) only allows the admission of evidence of a collateral contract on matters, which are not inconsistent with the written agreement. Where the alleged terms of the oral agreement are in addition to and therefore inconsistent with the written contract, that evidence is inadmissible: Ng Lay Choo Marion v Lok Lai Oi [1995] 3 SLR 221." 
+ "In our judgment, it [s 94(b)] could not operate to admit evidence of the verbal agreement either as a collateral contract or as forming part of the terms of a part oral or part written contract. Section 94(b) only allows the admission of evidence of a collateral contract on matters, which are not inconsistent with the written agreement. Where the alleged terms of the oral agreement are in addition to and therefore inconsistent with the written contract, that evidence is inadmissible: Ng Lay Choo Marion v Lok Lai Oi <span class="citation">[1995] 3 SLR 221</span>." 
 
 128\. Apart from the two rights [Clause 1(a) and (b)] expressly reserved to the Plaintiffs in the December 1999 lease, all other liberties, rights, easements or advantages are expressly excluded by Clause 1. To that extent, the rights claimed by the Plaintiffs in the collateral contract contradict or are in conflict with the terms of the lease. The collateral agreement is thus not admissible in evidence. 
 

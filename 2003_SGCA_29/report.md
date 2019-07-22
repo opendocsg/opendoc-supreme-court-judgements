@@ -113,7 +113,7 @@ the appellant’s evidence and her earlier statements on the basis that the stat
 
 20     A person who gives a statement while he is unwell may be said to have made it under oppression. Oppression may not strictly speaking come under the rubric “inducement, threat or promise” in s 24A of the Evidence Act and s 122(5) of the Criminal Procedure Code as it may not involve external factors as inducements, threats and promises do. Those two provisions state that confessions and statements are inadmissible if they are obtained through inducement, threat or promise. 
 
-21     Nevertheless it is recognised that oppression can render a statement involuntary and inadmissible. In _Chai Chien Wei Kelvin v PP_ [1999] 1 SLR 25 para 48 this court noted that 
+21     Nevertheless it is recognised that oppression can render a statement involuntary and inadmissible. In _Chai Chien Wei Kelvin v PP_ <span class="citation">[1999] 1 SLR 25</span> para 48 this court noted that 
 
  Oppression is a circumstance which may render a confession involuntary and thus inadmissible ... In R v Priestley (1967) 51 Cr App R 1, Sachs LJ, as he then was, said: 
 
@@ -121,7 +121,7 @@ the appellant’s evidence and her earlier statements on the basis that the stat
 
  In other words, a statement would not be extracted by oppression unless the accused was in such a state that his will was ‘sapped’ and he could not resist making a statement which he would otherwise not have made: PP v Tan Boon Tat [1990] SLR 375. 
 
-22     In _Gulam bin Notan Mohd Shariff Jamalddin v PP_ [1999] 2 SLR 181 para 53, this court confirmed that “the common law concept of involuntariness by oppression in _R v Prager_ (1972) 56 Cr App R 51 has been subsumed under s 24 of the Evidence Act.” In _Prager_ the quoted passage from _Priestley_ was cited and adopted. 
+22     In _Gulam bin Notan Mohd Shariff Jamalddin v PP_ <span class="citation">[1999] 2 SLR 181</span> para 53, this court confirmed that “the common law concept of involuntariness by oppression in _R v Prager_ (1972) 56 Cr App R 51 has been subsumed under s 24 of the Evidence Act.” In _Prager_ the quoted passage from _Priestley_ was cited and adopted. 
 
 23     From these cases it can be seen that a statement made when oppression has sapped the free will to make a voluntary statement is not admissible. 
 

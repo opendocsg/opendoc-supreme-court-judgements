@@ -34,7 +34,7 @@ _Civil procedure_ – _Mareva injunctions_
 
 **No good arguable case** 
 
-4       I am mindful that the threshold at this stage is to examine whether the plaintiff’s case is “more than barely capable of serious argument, but not necessarily one which the judge considers would have a better than 50% chance of success”: _Amixco Asia Pte Ltd v Bank Negara Indonesia 1946_ [1991] 2 SLR(R) 713 at [18]. 
+4       I am mindful that the threshold at this stage is to examine whether the plaintiff’s case is “more than barely capable of serious argument, but not necessarily one which the judge considers would have a better than 50% chance of success”: _Amixco Asia Pte Ltd v Bank Negara Indonesia 1946_ <span class="citation">[1991] 2 SLR(R) 713</span> at [18]. 
 
 
 5       Having considered the arguments and the materials placed before me, in my view, the plaintiff has not been able to demonstrate that it has a good arguable case against the defendant. It is important for the purposes of this analysis to bear in mind that it is the plaintiff’s case that an oral contract was concluded between the parties on 30 March 2015. The plaintiff further submits that this is evidenced by written documents: see the plaintiff’s skeletal submissions dated 28 August 2015 at para 20, Yulia Yancheva’s affidavit dated 15 June 2015 at para 16, and the letter of demand dated 15 May 2015 from the plaintiff’s English solicitors, Arbis Sutherland LLP to the defendant. As such, my factual inquiry in the present case is limited to determining whether, based on the materials before me, the plaintiff has demonstrated a case which is more than capable of a serious argument that a contract was concluded between the parties on 30 March 2015. 
@@ -151,7 +151,7 @@ discharging its burden of proving a real risk of dissipation. However, the court
 
  (c) It is an active trading company with transactions in excess of US$170 million. The fact that it only made a profit of US$164,153 in 2013 does not alter the fact that it is nonetheless an active trading company and not a shadowy company as alleged. 
 
-22     While a lack of probity can and often will be relevant to show that there is a real risk of dissipation of assets, the law is clear that the allegation must be “well-substantiated”. It remains the duty of the court to examine the precise nature of the dishonesty and the strength of the evidence relied upon – see _Bouvier, Yves Charles Edgar and another v Accent Delight International Ltd and another and another appeal_ [2015] SGCA 45 at [94]. In the present case, this ground is a nonstarter for the following reasons: 
+22     While a lack of probity can and often will be relevant to show that there is a real risk of dissipation of assets, the law is clear that the allegation must be “well-substantiated”. It remains the duty of the court to examine the precise nature of the dishonesty and the strength of the evidence relied upon – see _Bouvier, Yves Charles Edgar and another v Accent Delight International Ltd and another and another appeal_ <span class="citation">[2015] SGCA 45</span> at [94]. In the present case, this ground is a nonstarter for the following reasons: 
 
  (a) I have found that the plaintiff has failed to demonstrate that it has a good arguable case to begin with. This finding would effectively eliminate the only ground advanced by the plaintiff to support the existence of a real risk of dissipation. 
 

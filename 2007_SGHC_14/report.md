@@ -32,7 +32,7 @@ _Insolvency Law_ – _Bankruptcy_ – _Discharge_ – _Whether application for a
 
 5       After failing to persuade the Assistant Registrar to agree to discharge him from bankruptcy, the appellant raised his composition offer to his creditors to 25% when the matter came before the High Court. He complained to Choo Han Teck J, who heard the appeal against the Assistant Registrar’s decision, that his creditors were not serious about recovering the debts owed by him to them because their real reason for impeding his discharge from bankruptcy was political in nature. 
 
-6       Choo J dismissed the appeal against the Assistant Registrar’s decision (see [2004] 3 SLR 133) 
+6       Choo J dismissed the appeal against the Assistant Registrar’s decision (see <span class="citation">[2004] 3 SLR 133</span>) 
 
 
 on the following grounds: 
@@ -43,7 +43,7 @@ on the following grounds:
 
  (c) in the circumstances and bearing in mind that only three years had elapsed since the making of the bankruptcy order, an order of discharge would be premature. 
 
-7       The appellant’s appeal against Choo J’s decision was dismissed by the Court of Appeal: see _Jeyaretnam Joshua Benjamin v Indra Krishnan_ [2005] 1 SLR 395. 
+7       The appellant’s appeal against Choo J’s decision was dismissed by the Court of Appeal: see _Jeyaretnam Joshua Benjamin v Indra Krishnan_ <span class="citation">[2005] 1 SLR 395</span>. 
 
 8       In May 2005, the appellant filed his second application to be discharged from bankruptcy. This application was dismissed by the Assistant Registrar, whose decision was affirmed by Andrew Ang J. 
 

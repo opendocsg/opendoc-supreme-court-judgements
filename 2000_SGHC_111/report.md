@@ -1587,7 +1587,7 @@ publication. The defamatory meanings set out above in 6a to 6e, 12 g and 12h wer
 
 **Are the offending words defamatory?** 
 
-107\. Whether the words are defamatory must be determined by an objective test: Do the words tend to lower the plaintiff in the estimation of right-thinking members of society generally? This test set out by Lord Atkin in _Sim v Stretch_ (1936) 52 TLC 669 at p 671 was adopted by the Court of Appeal in Singapore in _Aaron v Cheong Yip Seng_ [1996] 1 SLR 623. 
+107\. Whether the words are defamatory must be determined by an objective test: Do the words tend to lower the plaintiff in the estimation of right-thinking members of society generally? This test set out by Lord Atkin in _Sim v Stretch_ (1936) 52 TLC 669 at p 671 was adopted by the Court of Appeal in Singapore in _Aaron v Cheong Yip Seng_ <span class="citation">[1996] 1 SLR 623</span>. 
 
 108\. Clearly, those words complained of do bring the plaintiff into public odium and contempt, and they do lower him in the estimation of right-thinking members of society generally. Hence, they are defamatory in nature. This cannot be disputed. As those words are capable of several defamatory meanings (inferential meanings included), it is necessary to identify them and 
 
@@ -1977,7 +1977,7 @@ Halsbury Laws of England 4th Edn Vol 28 also states the above in broadly similar
 
 **Burden and Standard of Proof** 
 
-139\. The stings in all the libels can be broadly amalgamated into one: the plaintiff was and is a most vicious and dangerous fraud, and the defendant has to justify that. Being such a serious allegation, the defendant is required to prove it to a high degree of probability. It is obviously not the criminal standard of proof beyond reasonable doubt, but it certainly will not be on a mere balance of probability. The Court of Appeal in _Yogambikai Nagarajah v Indian Overseas Bank_ [1997] 1 SLR 258 said: 
+139\. The stings in all the libels can be broadly amalgamated into one: the plaintiff was and is a most vicious and dangerous fraud, and the defendant has to justify that. Being such a serious allegation, the defendant is required to prove it to a high degree of probability. It is obviously not the criminal standard of proof beyond reasonable doubt, but it certainly will not be on a mere balance of probability. The Court of Appeal in _Yogambikai Nagarajah v Indian Overseas Bank_ <span class="citation">[1997] 1 SLR 258</span> said: 
 
 ## In Hornal v Neuberger Products [1957] 1 QB 247, the Court of Appeal of England 
 
@@ -2070,7 +2070,7 @@ Halsbury Laws of England 4th Edn Vol 28 also states the above in broadly similar
 
 ## no precise mathematical formula which it can apply. 
 
-## In Sumitomo Bank Ltd v Kartika Ratna Thahir [1993] 1 SLR 776, the cases of 
+## In Sumitomo Bank Ltd v Kartika Ratna Thahir <span class="citation">[1993] 1 SLR 776</span>, the cases of 
 
 ## Hornal and Nederlandsche were cited but the following caveat was added: 
 
@@ -4186,7 +4186,7 @@ malice, justifying aggravated damages: Gatley on Libel and Slander 9th Edn. at p
 
 319\. I find this submission to be without merit. I have in the course of my judgment dealt with a number of those reasons and I shall not repeat them here. I will now deal with those that I have not covered. 
 
-320\. The defendant cited the incident on 12 October 1998, where the plaintiff was alleged to have wrongfully represented the workings of Rule 2 (ii) of the Club rules despite being cognisant of JC Lee Seiu Kin’s judgment: see _Graeme McGuire v John Rasmussen_ [1998] 3 SLR 180. Even if that were true, the misrepresentation was made **after** the date of the last publication complained of. Consequently, it is not relevant in mitigation of damage to prove that the plaintiff was viewed at the time of publication as having a poor reputation because the wrongful representation had not yet been made. 
+320\. The defendant cited the incident on 12 October 1998, where the plaintiff was alleged to have wrongfully represented the workings of Rule 2 (ii) of the Club rules despite being cognisant of JC Lee Seiu Kin’s judgment: see _Graeme McGuire v John Rasmussen_ <span class="citation">[1998] 3 SLR 180</span>. Even if that were true, the misrepresentation was made **after** the date of the last publication complained of. Consequently, it is not relevant in mitigation of damage to prove that the plaintiff was viewed at the time of publication as having a poor reputation because the wrongful representation had not yet been made. 
 
 321\. Similarly, his veracity in giving evidence in the present proceedings before me cannot be used to prove his general bad reputation, as it is an event long after the defamatory publications. As for his veracity in giving evidence in Johore, there is no evidence before me that any of the GC members had regarded the plaintiff as a man of poor reputation because they knew of his alleged dishonest conduct before the courts in Johore. 
 
@@ -4195,7 +4195,7 @@ malice, justifying aggravated damages: Gatley on Libel and Slander 9th Edn. at p
 
 on any material facts or on the effect of those terms. 
 
-323\. Despite the fact that the plaintiff has obtained a consent judgment against the 6 GC members for removing him on 31 March 1999 as their vice-president (see the judgment of GP Selvam J reported in _Arul Chandran v Gartshore_ [2000] 2 SLR 446 which was delivered on 10 March 2000), the defendant continued to cite the plaintiff’s removal to show the low esteem that the GC members had of him. The plaintiff’s removal took place well after the defamatory publications. I am not prepared to infer that they must have viewed the plaintiff in a similar light at the time of the publications the year before. 
+323\. Despite the fact that the plaintiff has obtained a consent judgment against the 6 GC members for removing him on 31 March 1999 as their vice-president (see the judgment of GP Selvam J reported in _Arul Chandran v Gartshore_ <span class="citation">[2000] 2 SLR 446</span> which was delivered on 10 March 2000), the defendant continued to cite the plaintiff’s removal to show the low esteem that the GC members had of him. The plaintiff’s removal took place well after the defamatory publications. I am not prepared to infer that they must have viewed the plaintiff in a similar light at the time of the publications the year before. 
 
 324\. In any case, the defendant failed to call any GC member to testify that the GC members had generally viewed the plaintiff as a man with a flawed character and a bad reputation at that time such that the publications by the defendant had not further lowered the plaintiff in their estimation in any way. 
 

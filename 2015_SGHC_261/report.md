@@ -151,7 +151,7 @@ _Adverse inference for failing to call Ms Tay_
 
  ( g ) that evidenc e whic h c ould be and is not produc ed would if produc ed be unfavourable to the person who withholds it; 
 
-34     In _Cheong Ghim Fah and another v Murugian s/o Rangasamy_ [2004] 1 SLR(R) 628 at [42], V K Rajah JC endorsed the following princ iples laid down by the English Court of Appeal in _Wisniewski v Central Manchester Health Authority_ [1998] 5 PIQR 324: 
+34     In _Cheong Ghim Fah and another v Murugian s/o Rangasamy_ <span class="citation">[2004] 1 SLR(R) 628</span> at [42], V K Rajah JC endorsed the following princ iples laid down by the English Court of Appeal in _Wisniewski v Central Manchester Health Authority_ [1998] 5 PIQR 324: 
 
  (1) In c ertain c irc umstanc es a c ourt may be entitled to draw adverse inferenc es from the absenc e or silenc e of a witness who might be expec ted to have material evidenc e to give on an issue in an ac tion. 
 
@@ -214,7 +214,7 @@ Removal of “quantity shall measure nett on as-built drawing”
 
 48     As pleadings form the bac kbone of a litigation, parties are stric tly bound by their pleadings and the c ourt may not dec ide on issues not raised therein: _Kiaw Aik Hang Co Ltd v Tan Tien Choy_ [1964] MLJ 99. Moreover, the defic ienc ies in pleadings may not be made good by affidavit evidenc e or other forms of evidenc e: Jeffrey Pinsler, _Supreme Court Practice 2014_ vol 1 (Lexis Nexis 2014) at para 18/19/4. 
 
-49     More rec ently, in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (at [73]), the Court of Appeal highlighted the signific anc e of proper pleadings where parties attempt to introduc e c ontextual evidenc e to c onstrue a c ontrac t. 
+49     More rec ently, in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (at [73]), the Court of Appeal highlighted the signific anc e of proper pleadings where parties attempt to introduc e c ontextual evidenc e to c onstrue a c ontrac t. 
 
  ... Therefore, to buttress the evidentiary qualific ations to the c ontextual approac h to the c onstruc tion of a c ontrac t, the imposition of four requirements of c ivil proc edure are, in our view, timely and essential: 
 
@@ -234,7 +234,7 @@ _Fixed deduction of 5.77%_
 
  (b) At para 49 of the reply, the plaintiff stated the total quantity of work done to be 27, 943.682 c ubic metres. 
 
-51     The defendant argues that the plaintiff has failed to plead the fundamental basis of its c laim, and that this defic ienc y is fatal to the plaintiff’s c laim. To this end, the defendant c ites the Court of Appeal dec ision in _Romar Positioning Equipment Pte Ltd v Merriwa Nominees Pty Ltd_ [2004] 4 SLR(R) 574 (“ _Romar Positioning_ ”) for the proposition that the reply c annot be used to supplement the statement of c laim. 
+51     The defendant argues that the plaintiff has failed to plead the fundamental basis of its c laim, and that this defic ienc y is fatal to the plaintiff’s c laim. To this end, the defendant c ites the Court of Appeal dec ision in _Romar Positioning Equipment Pte Ltd v Merriwa Nominees Pty Ltd_ <span class="citation">[2004] 4 SLR(R) 574</span> (“ _Romar Positioning_ ”) for the proposition that the reply c annot be used to supplement the statement of c laim. 
 
 52     I do not ac c ept the defendant’s c ontention. Whilst parties may not raise new c laims in the reply, the rule does not go so far as to prevent a party from further partic ularising or supplementing a point that has been raised in a previous pleading. The general rule is that a party may plead any 
 
@@ -253,7 +253,7 @@ matter whic h has arisen at any time, whether before or sinc e the issue of the 
 
 _Fixed deductions of 10% and 18%_ 
 
-56     I am of the view that the plaintiff is not entitled to rely on the deduc tions of 10% and 18% bec ause these perc entages were not inc luded in its pleadings. It is trite that defic ient pleadings may not be c ured by the evidenc e in an affidavit and other form. This point is made abundantly c lear in _Abdul Latif bin Mohammed Tahiar (trading as Canary Agencies) v Saeed Husain s/o Hakim Gulam Mohiudin (trading as United Limousine)_ [2003] 2 SLR(R) 61 MPH Rubin J said (at [7]): 
+56     I am of the view that the plaintiff is not entitled to rely on the deduc tions of 10% and 18% bec ause these perc entages were not inc luded in its pleadings. It is trite that defic ient pleadings may not be c ured by the evidenc e in an affidavit and other form. This point is made abundantly c lear in _Abdul Latif bin Mohammed Tahiar (trading as Canary Agencies) v Saeed Husain s/o Hakim Gulam Mohiudin (trading as United Limousine)_ <span class="citation">[2003] 2 SLR(R) 61</span> MPH Rubin J said (at [7]): 
 
  ... It is a settled princ iple of law that parties stand by their pleaded c ase and any defec t in the pleadings c annot be c ured by any averments in affidavits, let alone an oblique referenc e in c ounsel’s c losing speec h ... 
 
@@ -402,7 +402,7 @@ Dec ision
 
 94     I turn now to examine the merits of the estoppel argument. 
 
-95     To establish an estoppel by c onvention, the following elements must be present ( _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ [2008] 2 SLR(R) 474 at [31]): 
+95     To establish an estoppel by c onvention, the following elements must be present ( _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ <span class="citation">[2008] 2 SLR(R) 474</span> at [31]): 
 
  (a) The parties must have ac ted on “an assumed and inc orrec t state of fact or law ” [emphasis added] ( per Bingham LJ in The Vistafjord [1988] 2 Lloyd’s Rep 343 at 352) in their c ourse of dealing. 
 

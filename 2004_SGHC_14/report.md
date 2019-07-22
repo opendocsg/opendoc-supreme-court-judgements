@@ -97,9 +97,9 @@ _Evidenc e_ – _Princ iples_ – _Findings of fac t by trial judge_
 
 27     In addition to the appellant’s attac ks on the plausibility of Mr Leong’s version of the fac ts, the appellant also submitted that the distric t judge had erred in finding that Mr Leong was a reliable witness and in ac c epting his evidenc e over that of the defenc e. Spec ific ally, the appellant sought to c hallenge the distric t judge’s findings that Mr Leong had entrusted the appellant with $50 to pay into Mrs Leong’s CPF ac c ount and that the appellant had not returned the $50 to Mr Leong. 
 
-28     It is well-settled law that an appellate c ourt will generally not interfere with a trial judge’s findings of fac t unless they are c learly reac hed against the weight of the evidenc e. In examining the evidenc e, an appellate c ourt has always to bear in mind that it has neither seen nor heard the witnesses and has to pay due regard to the trial judges’ findings and their reasons for these findings: _Lim Ah Poh v PP_ [1992] 1 SLR 713 at 719. 
+28     It is well-settled law that an appellate c ourt will generally not interfere with a trial judge’s findings of fac t unless they are c learly reac hed against the weight of the evidenc e. In examining the evidenc e, an appellate c ourt has always to bear in mind that it has neither seen nor heard the witnesses and has to pay due regard to the trial judges’ findings and their reasons for these findings: _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span> at 719. 
 
-29     In _Syed Jafaralsadeg bin Abdul Kadir v PP_ [1998] 3 SLR 788 at [56]–[57], I held that: 
+29     In _Syed Jafaralsadeg bin Abdul Kadir v PP_ <span class="citation">[1998] 3 SLR 788</span> at [56]–[57], I held that: 
 
  It is settled law that, where there is an appeal based on fac t, the c ourt should be slow to overturn the trial judge’s finding of fac t espec ially when the trial judge has made an assessment of the c redibility and verac ity of the witness, unless it c an be shown that his assessment was plainly wrong or against the weight of the evidenc e before him. ... [T]here is an extremely heavy burden c ast onto the appellant to displac e the trial judge’s findings of fac t. The trial judge’s findings will not be overturned unless it c an be shown that the trial judge was horribly wrong in drawing his c onc lusions. 
 

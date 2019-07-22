@@ -16,7 +16,7 @@
 
 _Civil Procedure_ – _Damages_ – _Interest_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 106 of 2017 was allowed in part by the Court of Appeal on 6 April 2018. See [2018] SGCA 17.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 106 of 2017 was allowed in part by the Court of Appeal on 6 April 2018. See <span class="citation">[2018] SGCA 17</span>.] 
 
 7 August 2017 
 
@@ -24,7 +24,7 @@ _Civil Procedure_ – _Damages_ – _Interest_
 
 **Introduction** 
 
-1       This action arose out of a contract between the plaintiff, PT Sandipala Arthaputra (“Sandipala”), and the second defendant, Oxel Systems Pte Ltd (“Oxel”), for the supply of microchips (“chips”) from the first defendant, STMicroelectronics Asia Pacific Pte Ltd (“ST-AP”). In _PT Sandipala Arthraputra v STMicroElectronics Asia Pacific Pte Ltd and others_ [2017] SGHC 102 (“the Judgment”) which sets out the facts of the action in full, I dismissed Sandipala’s claims against the defendants, while allowing Oxel’s counterclaim against Sandipala and the second and third defendants in the counterclaim, Mr Paulus Tannos (“Mr Tannos”) and Ms Catherine Tannos (“Ms Tannos”). 
+1       This action arose out of a contract between the plaintiff, PT Sandipala Arthaputra (“Sandipala”), and the second defendant, Oxel Systems Pte Ltd (“Oxel”), for the supply of microchips (“chips”) from the first defendant, STMicroelectronics Asia Pacific Pte Ltd (“ST-AP”). In _PT Sandipala Arthraputra v STMicroElectronics Asia Pacific Pte Ltd and others_ <span class="citation">[2017] SGHC 102</span> (“the Judgment”) which sets out the facts of the action in full, I dismissed Sandipala’s claims against the defendants, while allowing Oxel’s counterclaim against Sandipala and the second and third defendants in the counterclaim, Mr Paulus Tannos (“Mr Tannos”) and Ms Catherine Tannos (“Ms Tannos”). 
 
 2       Oxel has requested clarifications with regard to [284(c)] of the Judgment, in which I awarded Oxel interest in respect of the other awards it was entitled to. These clarifications relate to details such as the dates from which the awarded sums of interest are to run. All parties attended before me in chambers on 1 August 2017 for a short hearing on this issue, where counsel for Sandipala, Mr Tannos and Ms Tannos confirmed that his clients had no objections to the clarifications proposed by Oxel. Accordingly, I provide the necessary clarifications in this supplemental judgment. 
 

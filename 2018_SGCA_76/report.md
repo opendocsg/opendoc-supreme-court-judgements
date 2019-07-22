@@ -20,7 +20,7 @@ _Credit and Security_ – _Money and moneylenders_ – _Interest_
 
 _Statutory Interpretation_ – _Construction of statute_ – _Interpretation of “excessive”, “unconscionable” and “substantially unfair”_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 216.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 216</span>.] 
 
 13 November 2018 
 
@@ -79,7 +79,7 @@ monies to MWA as a secured creditor out of the D8 Proceeds. In response to the L
 
 **The decision below** 
 
-15     The Judge dismissed SUM 2281 on the grounds that Evan Lim had not established that the MWA Loan Agreement was unconscionable or substantially unfair (see _MWA Capital Pte Ltd v Ivy Lee Realty Pte Ltd (in liquidation)_ [2017] SGHC 216 (“the GD”)). He held that the loan extended by MWA was a business loan, and that the burden was on Evan Lim and LR Properties to prove that the MWA Loan Agreement was unconscionable or substantially unfair under s 23(1) of the MLA (at [91]). They had not, however, succeeded in doing so. Consequently, the Judge allowed the Liquidators’ application in SUM 4766. In so deciding, the Judge left the Interest Rates under the MWA Loan Agreement unchanged. 
+15     The Judge dismissed SUM 2281 on the grounds that Evan Lim had not established that the MWA Loan Agreement was unconscionable or substantially unfair (see _MWA Capital Pte Ltd v Ivy Lee Realty Pte Ltd (in liquidation)_ <span class="citation">[2017] SGHC 216</span> (“the GD”)). He held that the loan extended by MWA was a business loan, and that the burden was on Evan Lim and LR Properties to prove that the MWA Loan Agreement was unconscionable or substantially unfair under s 23(1) of the MLA (at [91]). They had not, however, succeeded in doing so. Consequently, the Judge allowed the Liquidators’ application in SUM 4766. In so deciding, the Judge left the Interest Rates under the MWA Loan Agreement unchanged. 
 
 16     The Judge accepted that s 23(1) of the MLA set out two cumulative requirements which had to be satisfied before the court could reopen a loan transaction, namely: (a) the interest or late interest charged had to be excessive; and (b) the transaction had to be unconscionable or substantially unfair. However, the Judge dealt with requirement (b) alone, having come to the view that it was allencompassing. He explained (at [76] of the GD) that it did not follow from a finding of an excessive interest rate that the loan transaction in question was therefore unconscionable or substantially unfair. With that view in mind, the Judge saw the “real question” before him as whether the MWA Loan Agreement was unconscionable or substantially unfair (see the GD at [77]). We will elaborate on the Judge’s reasoning in the course of explaining our decision on this appeal. 
 
@@ -121,7 +121,7 @@ monies to MWA as a secured creditor out of the D8 Proceeds. In response to the L
 24     Sections 23(5) of the MLA and 327(2) of the Companies Act make it clear that in assessing a proof of debt, a liquidator “may exercise such powers as may be exercised by a court under [s 23]”. The language of s 23(5) of the MLA is prescriptive rather than mandatory. Accordingly, the Liquidators had the _discretion_ to invoke s 23 of the MLA and determine whether the requirements for reopening the MWA Loan Agreement were met, and if so, to decide on the revised terms of the agreement. In this case, the Liquidators decided to affirm the Interest Rates charged under the MWA Loan Agreement without any changes. This necessarily meant that the Liquidators either decided not to invoke their powers pursuant to s 23(5) of the MLA or omitted to consider these powers. On either view, Evan Lim was entitled to rely on s 315 of the Companies Act to challenge the Liquidators’ decision. In other words, where the Jurisdiction Issue was concerned, Evan Lim did have the _locus standi_ to seek the court’s intervention under s 23(1) of the MLA. 
 
 
-25     If the position were otherwise, the Liquidators’ decision would be immune from challenge, and this would render nugatory the court’s exercise of supervisory jurisdiction over “ _all_ aspects of a liquidator’s conduct of the winding up” [emphasis in original] (see _Ho Wing On Christopher and others v ECRC Land Pte Ltd (in liquidation)_ [2006] 4 SLR(R) 817 at [46]). 
+25     If the position were otherwise, the Liquidators’ decision would be immune from challenge, and this would render nugatory the court’s exercise of supervisory jurisdiction over “ _all_ aspects of a liquidator’s conduct of the winding up” [emphasis in original] (see _Ho Wing On Christopher and others v ECRC Land Pte Ltd (in liquidation)_ <span class="citation">[2006] 4 SLR(R) 817</span> at [46]). 
 
 **The Section 23 Issue** 
 
@@ -133,7 +133,7 @@ monies to MWA as a secured creditor out of the D8 Proceeds. In response to the L
 
 28     Evan Lim’s argument before us was that the presence of an excessive interest or default interest rate would in itself also lead to the conclusion that the loan transaction concerned was unconscionable or substantially unfair. The ramification of this argument was that a finding of an excessive interest rate would also satisfy the second limb of s 23(1). We had no difficulty rejecting Evan Lim’s argument. As we pointed out in the preceding paragraph, the court’s powers under s 23(1) will not be invoked if only one of the two limbs of this subsection is satisfied. This follows as a matter of the plain language of the statutory provision. 
 
-29     We now come to two local decisions where the requirements of s 23(1) did not appear to have been fully adhered to. These are the District Court’s decision in _Unilink Credit Pte Ltd v Chong Kuek Leong_ [2013] SGMC 3 (“ _Unilink Credit_ ”) and the High Court’s decision in _Ang Ai Tee v Resource Credit Pte Ltd_ [2017] 5 SLR 402 (“ _Ang Ai Tee_ ”). We begin with _Unilink Credit_. 
+29     We now come to two local decisions where the requirements of s 23(1) did not appear to have been fully adhered to. These are the District Court’s decision in _Unilink Credit Pte Ltd v Chong Kuek Leong_ [2013] SGMC 3 (“ _Unilink Credit_ ”) and the High Court’s decision in _Ang Ai Tee v Resource Credit Pte Ltd_ <span class="citation">[2017] 5 SLR 402</span> (“ _Ang Ai Tee_ ”). We begin with _Unilink Credit_. 
 
 30     In _Unilink Credit_ , Leslie Chew DJ correctly stated that the question of whether the interest rate before the court was excessive and whether the loan transaction concerned was unconscionable or substantially unfair must be assessed with reference to the specific facts of the case. In discussing the interpretation of the two limbs of s 23(1), Chew DJ made the following observations, starting with the interpretation of the word “excessive”: 
 

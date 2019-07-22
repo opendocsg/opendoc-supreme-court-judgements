@@ -75,7 +75,7 @@ At trial, the appellant raised the defence of consumption, claiming that he was 
 
 _Jusri v Mohamed Hussain v PP_ 
 
-[1996] 3 SLR 29 (folld) _Lim Ah Poh v PP_ [1992] 1 SLR 713 (folld) _Low Kok Wai v PP_ [1994] 1 SLR 676 (folld) _Mohamed Bachu Miah v PP_ [1993] 1 SLR 249 (folld) _PP v Hla Win_ [1995] 2 SLR 424 (folld) 
+<span class="citation">[1996] 3 SLR 29</span> (folld) _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span> (folld) _Low Kok Wai v PP_ <span class="citation">[1994] 1 SLR 676</span> (folld) _Mohamed Bachu Miah v PP_ <span class="citation">[1993] 1 SLR 249</span> (folld) _PP v Hla Win_ <span class="citation">[1995] 2 SLR 424</span> (folld) 
 
 **Legislation referred to** 
 
@@ -160,13 +160,13 @@ appellant was a moderate drug addict. A moderate drug addict would consume betwe
 
 14     The figures provided by Dr Choo on the rate of consumption of a severe heroin addict also meant that even if we accepted that the appellant was a severe addict, we could nevertheless not accept his claim of consuming 20 grams of impure substance a day. As was pointed out by the prosecution in the trial below, the purity of the seized heroin meant that 20 grams of substance would yield approximately 1.71 grams of diamorphine, a figure which is over two-and-a-half times the upper limit of a severe addict's rate of consumption. 
 
-15     It is clear from cases such as Lim Ah Poh v PP [1992] 1 SLR 713 and PP v Hla Win [1995] 2 SLR 424 that an appellate court will not disturb findings of fact made by a trial judge unless they are clearly reached against the weight of evidence. In light of the foregoing, we took the view that the judicial commissioner had been entirely correct to reject the consumption defence. 
+15     It is clear from cases such as Lim Ah Poh v PP <span class="citation">[1992] 1 SLR 713</span> and PP v Hla Win <span class="citation">[1995] 2 SLR 424</span> that an appellate court will not disturb findings of fact made by a trial judge unless they are clearly reached against the weight of evidence. In light of the foregoing, we took the view that the judicial commissioner had been entirely correct to reject the consumption defence. 
 
 **The drug-trafficking paraphernalia** 
 
 16     Drug-trafficking paraphernalia is relevant in establishing whether a person is a drug trafficker or not 
 
-- Low Kok Wai v PP [1994] 1 SLR 676. Moreover, it was stated in Jusri bin Mohamed Hussain v PP [1996] 3 SLR 29 that "the more directly the item is connected to drug trafficking, the more weighty evidence of possession by the accused of that item is in suggesting that the drugs found in his possession were for the purpose of trafficking." 
+- Low Kok Wai v PP <span class="citation">[1994] 1 SLR 676</span>. Moreover, it was stated in Jusri bin Mohamed Hussain v PP <span class="citation">[1996] 3 SLR 29</span> that "the more directly the item is connected to drug trafficking, the more weighty evidence of possession by the accused of that item is in suggesting that the drugs found in his possession were for the purpose of trafficking." 
 
 17     The items seized from the appellant's flat indubitably constituted drug-trafficking paraphernalia. The appellant never disputed that the items belonged to him, but instead tried to offer alternative 
 
@@ -175,7 +175,7 @@ explanations for their presence in his home. For example, the appellant had clai
 
 **Other issues** 
 
-18     We noted in passing that the judicial commissioner's refusal to accept the appellant's explanations for the incriminating nature of his long statement was not challenged before us. Mohamed Bachu Miah v PP [1993] 1 SLR 249 establishes that an accused person may be convicted on his own confession even when it is retracted, if the court is satisfied of its truth. The contents of the long statement were sufficient to warrant the dismissal of the appeal. 
+18     We noted in passing that the judicial commissioner's refusal to accept the appellant's explanations for the incriminating nature of his long statement was not challenged before us. Mohamed Bachu Miah v PP <span class="citation">[1993] 1 SLR 249</span> establishes that an accused person may be convicted on his own confession even when it is retracted, if the court is satisfied of its truth. The contents of the long statement were sufficient to warrant the dismissal of the appeal. 
 
 **Conclusion** 
 

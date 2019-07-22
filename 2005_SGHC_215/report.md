@@ -688,7 +688,7 @@ only pay the plaintiff for installation of 7,121 sprinkler heads. In this regard
 
 **Lai Siu Chiu J:** 
 
-124    Pursuant to the direction contained in my Judgment dated 16 November 2005 ([2005] SGHC 215), the parties appeared before me to finalise the figures for both the claim and the counterclaim and to present arguments on costs. 
+124    Pursuant to the direction contained in my Judgment dated 16 November 2005 (<span class="citation">[2005] SGHC 215</span>), the parties appeared before me to finalise the figures for both the claim and the counterclaim and to present arguments on costs. 
 
 125    After hearing the parties, I quantified the judgment sums as follows: 
 

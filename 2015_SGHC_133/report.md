@@ -18,7 +18,7 @@ _Civil Procedure_ – _costs_
 
 _Evidence_ – _hearsay_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 45 of 2015 was allowed by the Court of Appeal on 22 January 2016. See [2016] SGCA 5.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 45 of 2015 was allowed by the Court of Appeal on 22 January 2016. See <span class="citation">[2016] SGCA 5</span>.] 
 
 18 May 2015 
 
@@ -281,7 +281,7 @@ defendants, but this was based on the unproven allegations in the main claim. [n
 
 owned the entire shareholdings of the company. [note: 45] 
 
-25     Both parties cited the case of _DB Trustees (Hong Kong) Ltd v Consult Asia Pte Ltd and another appeal_ [2010] 3 SLR 542 (“DB Trustees”). In that case, the Court of Appeal ordered the sole director of a company to bear the costs of two appeals, which were awarded on an indemnity basis, jointly and severally with the company. In doing so, the court established guidelines as to when non-party costs should be awarded. 
+25     Both parties cited the case of _DB Trustees (Hong Kong) Ltd v Consult Asia Pte Ltd and another appeal_ <span class="citation">[2010] 3 SLR 542</span> (“DB Trustees”). In that case, the Court of Appeal ordered the sole director of a company to bear the costs of two appeals, which were awarded on an indemnity basis, jointly and severally with the company. In doing so, the court established guidelines as to when non-party costs should be awarded. 
 
 26     The overarching rule is for non-party costs to be ordered only when it is just to do so. [note: 46] The concept of what is “just” was rightly recognised to admit a “myriad of possibly relevant considerations” (at [29]). However, the court isolated two particular factors that should almost invariably be present, although they are not indispensable. The first factor is the presence of a close connection between the non-party and the proceedings. One of the multifarious scenarios could be where the non-party “funds or controls the legal proceedings with the intention of ultimately deriving 
 

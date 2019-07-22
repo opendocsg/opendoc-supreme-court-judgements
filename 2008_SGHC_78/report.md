@@ -167,7 +167,7 @@ The DC then passed the following sentence:
 
 23     We note that while the SMC Ethical Code states that professional misconduct is _akin_ , it does not equate it or deem it to be identical, to infamous conduct. That was why it specifically referred to the wide definition used in _Allinson v General Council of Medical Education and Registration_ [1894] 1 QB 750 (“ _Allinson_ ”) which did not contain any reference to moral turpitude, fraud or dishonesty. That said, this continuing reference to “professional misconduct” being somehow sired by the concept of “infamous conduct in a professional respect” is not altogether helpful and should perhaps now be dropped altogether. 
 
-24     It also bears noting that in _Felix_ , Lord Jenkins had understandably given a restrictive definition to the term “infamous conduct in a professional respect” because, as rightly pointed out in _Tan Sek Ho v Singapore Dental Board_ [1999] 4 SLR 757 (“ _Tan Sek Ho_ ”) at [13.5], at that time, a finding of infamous conduct necessarily resulted in the harsh penalty of removal from the medical or dental register of the UK. It will therefore be helpful to now examine how the term “infamous conduct” has been gradually jettisoned. 
+24     It also bears noting that in _Felix_ , Lord Jenkins had understandably given a restrictive definition to the term “infamous conduct in a professional respect” because, as rightly pointed out in _Tan Sek Ho v Singapore Dental Board_ <span class="citation">[1999] 4 SLR 757</span> (“ _Tan Sek Ho_ ”) at [13.5], at that time, a finding of infamous conduct necessarily resulted in the harsh penalty of removal from the medical or dental register of the UK. It will therefore be helpful to now examine how the term “infamous conduct” has been gradually jettisoned. 
 
 25     In 1969, the Medical Act of that year in the UK (c 40) substituted the phrase “infamous conduct in a professional respect” to “serious professional misconduct” and this stipulation was reenacted in the Medical Act 1983 (c 54) (UK). This was accompanied by alternative punishments such as suspensions. 
 
@@ -254,7 +254,7 @@ Counsel in _McKenzie_ (at [64]) also cited a passage from an earlier unreported 
 
  ... grossly improper conduct in the discharge of his professional duty or guilty of such a breach of any usage or rule of conduct made by the Council [of the Law Society] under the provisions of [the LPA] as amounts to improper conduct or practice as an advocate and solicitor[.] 
 
-This court in _Law Society of Singapore v Ahmad Khalis bin Abdul Ghani_ [2006] 4 SLR 308 (“ _Ahmad Khalis_ ”) at [77] cited _Re Marshall David_ [1972-1974] SLR 132 at 138, [23] for the observation that “grossly improper conduct in the discharge of his professional duties” means that the conduct of the lawyer is “dishonourable to him as a man and dishonourable in his profession”. More importantly, the spirit of the LPA provision is to ensure that “the conduct of the [advocate and] solicitor concerned meets the high levels of professionalism expected of practising lawyers” ( _Ahmad Khalis_ at [80]) and it is “of the first importance that the focus be on the maintenance of the highest standards of professional and ethical conduct” (at [75]). 
+This court in _Law Society of Singapore v Ahmad Khalis bin Abdul Ghani_ <span class="citation">[2006] 4 SLR 308</span> (“ _Ahmad Khalis_ ”) at [77] cited _Re Marshall David_ [1972-1974] SLR 132 at 138, [23] for the observation that “grossly improper conduct in the discharge of his professional duties” means that the conduct of the lawyer is “dishonourable to him as a man and dishonourable in his profession”. More importantly, the spirit of the LPA provision is to ensure that “the conduct of the [advocate and] solicitor concerned meets the high levels of professionalism expected of practising lawyers” ( _Ahmad Khalis_ at [80]) and it is “of the first importance that the focus be on the maintenance of the highest standards of professional and ethical conduct” (at [75]). 
 
 36     In the same vein, this approach applies with equal force to the medical profession under the supervision of the SMC. The importance of maintaining the highest level of professionalism and ethical conduct has been duly acknowledged by the SMC in the Introduction section of the SMC Ethical Code (at p 1): 
 
@@ -283,7 +283,7 @@ This court in _Law Society of Singapore v Ahmad Khalis bin Abdul Ghani_ [2006] 4
 
  In any appeal to the High Court against an order referred to in subsection (6), the High Court shall accept as final and conclusive any finding of the Disciplinary Committee relating to any issue of medical ethics or standards of professional conduct unless such finding is in the opinion of the High Court unsafe, unreasonable or contrary to the evidence. [emphasis added] 
 
-40     It is trite that s 46(8) of the Act mirrors the approach under the common law. This court in _Tan Sek Ho_ ([24] _supra_ ) and _Chia Yang Pong v Singapore Medical Council_ [2004] 3 SLR 151 has accepted the approach adopted by Lord Hailsham of St Marylebone LC in _Julius Libman v General Medical Council_ [1972] AC 217. Lord Hailsham explained (at 221) that it would be difficult to displace a finding or an order of a disciplinary committee: 
+40     It is trite that s 46(8) of the Act mirrors the approach under the common law. This court in _Tan Sek Ho_ ([24] _supra_ ) and _Chia Yang Pong v Singapore Medical Council_ <span class="citation">[2004] 3 SLR 151</span> has accepted the approach adopted by Lord Hailsham of St Marylebone LC in _Julius Libman v General Medical Council_ [1972] AC 217. Lord Hailsham explained (at 221) that it would be difficult to displace a finding or an order of a disciplinary committee: 
 
  ... unless it can be shown that something was clearly wrong either (i) in the conduct of the trial or (ii) in the legal principles applied or (iii) unless it can be shown that the findings of the committee were sufficiently out of tune with the evidence to indicate with reasonable certainty that the evidence had been misread. [emphasis added] 
 
@@ -341,7 +341,7 @@ Dr Low: Actually it fails [ _sic_ ] because of extrusion. ...
 
 49     In relation to the failure to refer Toh Seng to another institution, the DC made no finding to the effect that Dr Low had failed to refer Toh Seng to another institution. The precise conclusion reached by the DC (see conclusion (c) set out at [11] above) was that Dr Low was wrong to have rejected other forms of therapy because he was not familiar with those other therapies, or because the alternative therapies were not available in his practice. There was thus no need to plead the allegation that Dr Low had failed to refer Toh Seng elsewhere since that was not an element of the conclusion reached. 
 
-50     In relation to the remaining alleged imperfections to the charges, we were satisfied that Dr Low was not in any way “misled or prejudiced by the allegedly faulty charges” (see _Ahmad Khalis_ ([35] _supra_ ) at [62] citing _Chew Seow Leng v PP_ [2005] SGCA 11 at [24]). 
+50     In relation to the remaining alleged imperfections to the charges, we were satisfied that Dr Low was not in any way “misled or prejudiced by the allegedly faulty charges” (see _Ahmad Khalis_ ([35] _supra_ ) at [62] citing _Chew Seow Leng v PP_ <span class="citation">[2005] SGCA 11</span> at [24]). 
 
 51     Dr Low had attempted to justify why he did not obtain Toh Seng’s medical records right from the outset in his letter dated 8 January 2004 to the Complaints Committee. Dr Low wrote: 
 
@@ -448,7 +448,7 @@ Chairman: ... Can I ask you, in the presence of rubeosis [abnormal blood vessel 
 
 Dr Chew: It would not be a contraindication to cyclophotocoagulation which does not require direct visualization of the ciliary body. It’s put over an anatomical landmark a few millimetres behind the cornea limbus, so consequently, the ciliary body is not usually directly visualized. It’s just placed in about the right position. 
 
-68     At the end of the day, it must be recognised that the DC, as a body made up of medical professionals, had scrupulously evaluated expert opinion from both parties and it was well entitled to prefer the expert evidence rendered by AP Chew over that of Dr Cheah. In _Sakthivel Punithavathi v PP_ [2007] 2 SLR 983, the court outlined the approach which should be adopted by the courts in dealing with conflicting expert evidence (at [75]): 
+68     At the end of the day, it must be recognised that the DC, as a body made up of medical professionals, had scrupulously evaluated expert opinion from both parties and it was well entitled to prefer the expert evidence rendered by AP Chew over that of Dr Cheah. In _Sakthivel Punithavathi v PP_ <span class="citation">[2007] 2 SLR 983</span>, the court outlined the approach which should be adopted by the courts in dealing with conflicting expert evidence (at [75]): 
 
  Generally speaking, the court should also scrutinise the credentials and relevant experience of the experts in their professed and acknowledged areas of expertise. Not all experts are of equal authority and/or reliability. ... [A]n expert with ... relevant clinical experience may often prove to be more credible and reliable on “hands-on” issues ... 
 
@@ -654,7 +654,7 @@ Instead of focusing on offering _viable_ treatment options, Dr Low had to take t
 
 85     Lastly, Dr Low produced on 12 July 2007 a consent form signed by Toh Seng which attested that “I ... have been fully informed of the possible risks of operation or infection”. That consent form was only partially complete – save for his signature, Toh Seng did not fill up his name and National Registration Identity Card number. Counsel for SMC characterised the consent form as one merely of formality and not substance and submitted that even Dr Low had treated the consent form as insignificant since he had failed to produce it when queried by the Complaints Committee on 16 November 2004. Further, a nurse at Dr Low’s clinic, June, had attested to witnessing Toh Seng’s signing of the consent form, but she was not called to give evidence. An adverse inference could be drawn against Dr Low for failing to have done so. 
 
-86     In our view, an analogy with the legal profession is again apposite to elucidate the proper attitude professionals should adopt in applying the relevant professional ethical rules to their daily work. In _Law Society of Singapore v Tan Phuay Khiang_ [2007] 3 SLR 477, this court said (at [100]): 
+86     In our view, an analogy with the legal profession is again apposite to elucidate the proper attitude professionals should adopt in applying the relevant professional ethical rules to their daily work. In _Law Society of Singapore v Tan Phuay Khiang_ <span class="citation">[2007] 3 SLR 477</span>, this court said (at [100]): 
 
  It is also axiomatic that it is the spirit and intent, rather than just the plain letter, of the professional ethical rules that breathe life and legitimacy into the standards that are relevant in assessing whether a lawyer has discharged his professional obligations. Thus, a lawyer who 
 
@@ -665,7 +665,7 @@ Instead of focusing on offering _viable_ treatment options, Dr Low had to take t
 [note: 16] 
 
 
- merely takes cursory steps to explain the nature of the documents may be held liable for breach of his professional duties: Law Society of Singapore v Vardan Vasantha Lakshmi [2007] 1 SLR 240 ... 
+ merely takes cursory steps to explain the nature of the documents may be held liable for breach of his professional duties: Law Society of Singapore v Vardan Vasantha Lakshmi <span class="citation">[2007] 1 SLR 240</span> ... 
 
 Notwithstanding that the SMC Ethical Code does not enjoy statutory force unlike the Legal Profession (Professional Conduct) Rules (Cap 161, R 1, 2000 Rev Ed), the SMC is charged under the Act to regulate the conduct and ethics of the medical profession. To this end, the SMC Ethical Code is an embodiment of the ethical values the SMC strives to inculcate in each member of the medical profession, and, in so doing, raise the overall standards of professional practice and conduct. In this connection, it is imperative for doctors to internalise the ethical responsibilities under the SMC Ethical Code and to duly perform them not just in letter, but in accordance with its spirit and intent. 
 

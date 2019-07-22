@@ -217,7 +217,7 @@ The costs below
 36\. His complaint is that costs should not be ordered because the divorce proceeded on a no-fault 
 
 
-basis, citing in support _Shi Fang v Koh Pee Huat_ [1996] 2 SLR 221 where the Court of Appeal said at pp 237
+basis, citing in support _Shi Fang v Koh Pee Huat_ <span class="citation">[1996] 2 SLR 221</span> where the Court of Appeal said at pp 237
 
  The wife obtained a decree nisi on the ground that the marriage had irretrievably broken down owing to desertion on the part of the husband. Implicit in the grant of such decree to the wife was the finding of fault on the part of the husband as a cause for the divorce. In granting the decree nisi the court ordered, inter alia, that costs be adjourned for further hearing. We can find no reason why the wife should not be allowed the full costs of the hearing of the petition. As the hearing of the ancillary matters was a continuation or part of the hearing of the divorce petition, the wife should be entitled to the costs of such hearing also. The wife was awarded $240,000 as a lump sum maintenance and $10,000 as her share of the matrimonial assets. We cannot see any reason for depriving the wife of her costs of the hearing of the ancillaries. In our judgment, she should be entitled to full costs of the hearing of the petition and the ancillaries below, and we so order. 
 
@@ -236,7 +236,7 @@ basis, citing in support _Shi Fang v Koh Pee Huat_ [1996] 2 SLR 221 where the Co
 40\. In a hearing on ancillary matters, it is for the judge hearing them to decide whether costs should be awarded. The Court of Appeal ruled in _Tham Khai Meng v Nam Wen Jet Bernadette_ 
 
 
-[1997] 2 SLR 27 at p 47 that 
+<span class="citation">[1997] 2 SLR 27</span> at p 47 that 
 
  (T)he hearing of the ancillaries is part of or a continuation of the hearing of the petition. It therefore follows that where a party, whether petitioner or respondent, is awarded costs at the hearing of the petition, the same order as to costs should follow at the hearing of the ancillaries, unless the party to whom the costs were awarded at the hearing of the petition has acted unreasonably at the hearing of the ancillaries or for other good reasons. 
 

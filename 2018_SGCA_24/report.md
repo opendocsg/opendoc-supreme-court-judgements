@@ -16,7 +16,7 @@
 
 _Land_ – _Interest in land_ – _Joint tenancy_ – _Severance_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 136.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 136</span>.] 
 
 15 May 2018 Judgment reserved. 
 
@@ -54,7 +54,7 @@ excess of $8.4m plus interest and costs. Thereafter, both sought to enforce thei
 9       The originating summons was heard over several days before a High Court Judge (“the Judge”). It was assumed by the parties that if the respondent’s WSS was set aside, the appellant’s WSS would be effective on the basis that the joint tenancy had been severed by the Severance Notice. The parties were only alerted to the possibility that severance may not have been effected at all when 
 
 
-the Judge questioned the status of the appellant’s WSS at the hearing on 15 June 2017. The parties then made further submissions on the effect of the Severance Notice on the joint tenant’s interest. In the event, the Judge held that the respondent’s WSS was ineffective in attaching Mdm Leong’s interest in the Property but he also went on to discuss the efficacy of the appellant’s own WSS and concluded that it too was ineffective. The reasons for the Judge’s decision can be found in his judgment identified as _Chan Lung Kien v Chan Shwe Ching_ [2017] SGHC 136 (“the Judgment”). 
+the Judge questioned the status of the appellant’s WSS at the hearing on 15 June 2017. The parties then made further submissions on the effect of the Severance Notice on the joint tenant’s interest. In the event, the Judge held that the respondent’s WSS was ineffective in attaching Mdm Leong’s interest in the Property but he also went on to discuss the efficacy of the appellant’s own WSS and concluded that it too was ineffective. The reasons for the Judge’s decision can be found in his judgment identified as _Chan Lung Kien v Chan Shwe Ching_ <span class="citation">[2017] SGHC 136</span> (“the Judgment”). 
 
 10     The Judge examined two issues in arriving at his decision: 
 
@@ -62,13 +62,13 @@ the Judge questioned the status of the appellant’s WSS at the hearing on 15 Ju
 
  (b) whether the joint tenancy over the Property had been severed by the Severance Notice. 
 
-11     On the first issue, the Judge held that a joint tenant has no distinct and identifiable interest that can be attached under a WSS unless the WSS concomitantly severs the joint tenancy. He noted that it was established law that the mere registration of a WSS over land held under a joint tenancy did not sever the joint tenancy (Judgment at [23] and [31]). In so doing, the Judge upheld the case o f _Malayan Banking Bhd v Focal Finance Ltd_ [1998] 3 SLR(R) 1008 as good law and rejected the reasons given by the judge who granted the respondent’s WSS order for departing from the case. 
+11     On the first issue, the Judge held that a joint tenant has no distinct and identifiable interest that can be attached under a WSS unless the WSS concomitantly severs the joint tenancy. He noted that it was established law that the mere registration of a WSS over land held under a joint tenancy did not sever the joint tenancy (Judgment at [23] and [31]). In so doing, the Judge upheld the case o f _Malayan Banking Bhd v Focal Finance Ltd_ <span class="citation">[1998] 3 SLR(R) 1008</span> as good law and rejected the reasons given by the judge who granted the respondent’s WSS order for departing from the case. 
 
 12     On the second issue, the Judge held that the Severance Notice did not sever the joint tenancy. Thus, the appellant’s WSS was also ineffective in attaching Mdm Leong’s interest in the Property and her share of the sale proceeds had to be paid to her trustee in bankruptcy. In summary, the Judge’s reasons were as follows: 
 
  (a) There was no severance under ss 53(5) and (6) of the LTA (Judgment at [47]). While Mr Lim had served the instrument of declaration by way of the advertisement of the Severance Notice, he had not registered the instrument as required by s 53(6). 
 
- (b) There was no severance by signing and serving the instrument of declaration under s 53(5) of the LTA without the further step of registration (Judgment at [54]–[55]). The doctrine of severance inter partes pursuant to s 53(5) of the LTA, as propounded in Diaz Priscilla v Diaz Angela [1997] 3 SLR(R) 759 (“ Diaz ”), was no longer part of Singapore law after the enactment of s 53(8) of the LTA. 
+ (b) There was no severance by signing and serving the instrument of declaration under s 53(5) of the LTA without the further step of registration (Judgment at [54]–[55]). The doctrine of severance inter partes pursuant to s 53(5) of the LTA, as propounded in Diaz Priscilla v Diaz Angela <span class="citation">[1997] 3 SLR(R) 759</span> (“ Diaz ”), was no longer part of Singapore law after the enactment of s 53(8) of the LTA. 
 
  (c) There was no severance under the common law (Judgment at [60]). Before the English Law of Property Act 1925 (c 20) (UK) (“LPA 1925”) introduced a new mode of severance by serving a written notice on the other joint tenant(s), it was not settled law in England that a joint tenant could sever a joint tenancy by way of a unilateral declaration of intent. Sivakolunthu Kumarasamy v Shanmugam Nagaiah and another [1987] SLR(R) 702 (“ Sivakolunthu ”) was Court of Appeal authority that “it is not the law in Singapore that a unilateral declaration of intention to sever a joint tenancy, when communicated to the other joint tenant, has the effect of severing it into a tenancy in common” (at [14]). 
 
@@ -260,12 +260,12 @@ mortgagee who refused to release it (at [24]). Thus, this court reasoned that, i
 
 62     Assuming for now that _Diaz_ was correctly decided, we acknowledge the difficulty of characterising the right held by the co-owners upon a severance between themselves only (as discussed at [56] above). In our view, however, it is not possible to rationalise _Diaz_ on the basis suggested by Crown (2003) so as to sever the joint tenancy in equity. His contention that service of an instrument under s 53(5) amounts to an act operating on one’s own share actually fits _Diaz_ into the first mode of severance mentioned in _Williams v Hensman_. This is unacceptable. In the first place, why should service of an instrument under s 53(5) amount to an act operating on one’s own share? Under established law, a unilateral declaration, even if communicated or unequivocal or clear, does not operate on a joint tenant’s share at common law as _Sivakolunthu_ has established. Going back to first principles, the act of serving the instrument does not destroy any of the four unities. Secondly, it was not the purpose of the legislation to expand on the first mode of severance: the intention, as clear from the Parliamentary debates, was to provide a completely new mode of severance and Parliament’s intention must be respected. 
 
-6       3 _Diaz_ has given rise to some confusion in the law. This is evident from the case of _Ng Kim Chwee (executor and trustee of the estate of Ng Ham Chau, deceased) v Chua Chiew Hai and others_ [1998] 2 SLR(R) 111 (“ _Ng Chwee Kim_ ”). During her lifetime, Mdm Ng Ham Chau and her husband were 
+6       3 _Diaz_ has given rise to some confusion in the law. This is evident from the case of _Ng Kim Chwee (executor and trustee of the estate of Ng Ham Chau, deceased) v Chua Chiew Hai and others_ <span class="citation">[1998] 2 SLR(R) 111</span> (“ _Ng Chwee Kim_ ”). During her lifetime, Mdm Ng Ham Chau and her husband were 
 
 
 joint tenants of a Housing & Development Board (“HDB”) flat, which was not registered land. Mdm Ng signed an instrument of declaration in the form prescribed under s 53(5) of the LTA on 13 June 1994. This instrument was not a deed as required by s 66A of the CLPA. After her death, which occurred only four days later, her widower sold the flat and retained all the proceeds as sole beneficial owner. Mdm Ng’s estate, asserting that the HDB had been negligent in approving the sale, claimed half the proceeds of sale from the HDB. The High Court found that no severance had been effected because for unregistered land under the CLPA, severance could only be effected by a deed of declaration within the terms of s 66A. The instrument of declaration was not such a deed. The judge further held that the HDB was not liable because, until the proper form of severance was used, HDB was entitled to treat the joint tenancy as subsisting. There can be no quarrel with the correctness of this decision. The complication arises from the judge’s suggestion, citing _Diaz_ , that severance had occurred as between the co-owners (though this was _obiter_ ). He said at [8] and [13]: 
 
- 8 Until such making of the deed, the severance of a joint tenancy of unregistered land affected only co-owners themselves qua co-owners, and third parties are entitled to treat the joint tenancy as subsisting and conduct any dealings they may have in relation to the land on that basis: see Diaz Priscillia v Diaz Angela [1997] 3 SLR(R) 759 and Sivakolunthu Kumarasamy v Shanmugam Nagaiah [1987] SLR(R) 702. 
+ 8 Until such making of the deed, the severance of a joint tenancy of unregistered land affected only co-owners themselves qua co-owners, and third parties are entitled to treat the joint tenancy as subsisting and conduct any dealings they may have in relation to the land on that basis: see Diaz Priscillia v Diaz Angela <span class="citation">[1997] 3 SLR(R) 759</span> and Sivakolunthu Kumarasamy v Shanmugam Nagaiah [1987] SLR(R) 702. 
 
  ... 
 

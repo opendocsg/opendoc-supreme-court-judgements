@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 40 of 2016 was allowed by the Court of Appeal on 12 February 2018. See [2018] SGCA 9.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 40 of 2016 was allowed by the Court of Appeal on 12 February 2018. See <span class="citation">[2018] SGCA 9</span>.] 
 
 8 December 2016 Judgment reserved. 
 
@@ -112,7 +112,7 @@ getting caught would not be serious and he would probably get a prison sentence 
 
 13     Section 2 of the Interpretation Act (Cap 1, 1997 Rev Ed) defines “import” as “to bring or caused to be brought into Singapore by land, sea or air.” 
 
-14     In _Public Prosecutor v Adnan bin Kadir_ [2013] 3 SLR 1052, the Court of Appeal clarified (at [70]) that for a prosecution under s 7 of the MDA, it is not necessary for the Prosecution to prove that the importation was for the purposes of trafficking. An offence under s 7 would be made out as long as the drugs were brought into Singapore. 
+14     In _Public Prosecutor v Adnan bin Kadir_ <span class="citation">[2013] 3 SLR 1052</span>, the Court of Appeal clarified (at [70]) that for a prosecution under s 7 of the MDA, it is not necessary for the Prosecution to prove that the importation was for the purposes of trafficking. An offence under s 7 would be made out as long as the drugs were brought into Singapore. 
 
 15     In relation to the facts of the present case, two statutory presumptions are relevant. First, s 21 of the MDA provides that: 
 
@@ -135,11 +135,11 @@ charge of the motorcycle for the time being when the drugs were found. I therefo
 
 20     The accused gave evidence in his defence. He did not call any other witnesses. Therefore, the success or otherwise of his defence turns largely on assessment of his credibility. 
 
-21     In assessing the credibility of a witness, relevant considerations include his demeanour, the internal consistency of his evidence, and the external consistency of his evidence ( _ie_ , the extent to which it coheres with objective evidence or with the testimony of other witnesses) (see _Farida Begam d/o Mohd Artham v Public Prosecutor_ [2001] 3 SLR(R) 592 at [9]). 
+21     In assessing the credibility of a witness, relevant considerations include his demeanour, the internal consistency of his evidence, and the external consistency of his evidence ( _ie_ , the extent to which it coheres with objective evidence or with the testimony of other witnesses) (see _Farida Begam d/o Mohd Artham v Public Prosecutor_ <span class="citation">[2001] 3 SLR(R) 592</span> at [9]). 
 
 **_The presumption of possession of the drugs_** 
 
-22     The presumption of possession under s 21 of the MDA may be rebutted by the accused proving on the balance of probabilities that he did not know of the existence of the drugs in the motorcycle prior to him crossing into Singapore ( _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ [2012] 2 SLR 903 at [16]). 
+22     The presumption of possession under s 21 of the MDA may be rebutted by the accused proving on the balance of probabilities that he did not know of the existence of the drugs in the motorcycle prior to him crossing into Singapore ( _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ <span class="citation">[2012] 2 SLR 903</span> at [16]). 
 
 23     For the reasons given below, I find that the accused has failed to prove that the trip to Singapore on 24 March 2014 was made solely for the purposes of visiting his girlfriend, Revalthi, and his friend, John, and not for the purposes of delivering drugs. 
 
@@ -177,7 +177,7 @@ genuine intention to take Revalthi out for dinner. When asked during cross-exami
 
 31     For the foregoing reasons, I find that the accused has failed to prove that he had planned to meet Revalthi on the night of 24 March 2014. 
 
-32     I should add that, in arriving at the foregoing conclusion, I gave no weight to the apparent inconsistencies between the accused and Revalthi concerning the dates of various phone calls and planned meetings. The accused’s birthday is on 23 March but Revalthi mistakenly remembered it as 24 March when giving evidence in court. This resulted in a one-day discrepancy between the accused’s and Revalthi’s recollection of some events. As defence counsel rightly pointed out in closing submission, this is one of those discrepancies which fall within V K Rajah J’s _dicta_ in _Jagatheesan s/o Krishnasamy v Public Prosecutor_ [2006] 4 SLR(R) 45 (at [85]) that “minor discrepancies in a witness’s testimony should not be held against the witness in assessing his credibility. This is because human fallibility in observation, retention and recollection is both common and understandable.” 
+32     I should add that, in arriving at the foregoing conclusion, I gave no weight to the apparent inconsistencies between the accused and Revalthi concerning the dates of various phone calls and planned meetings. The accused’s birthday is on 23 March but Revalthi mistakenly remembered it as 24 March when giving evidence in court. This resulted in a one-day discrepancy between the accused’s and Revalthi’s recollection of some events. As defence counsel rightly pointed out in closing submission, this is one of those discrepancies which fall within V K Rajah J’s _dicta_ in _Jagatheesan s/o Krishnasamy v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 45</span> (at [85]) that “minor discrepancies in a witness’s testimony should not be held against the witness in assessing his credibility. This is because human fallibility in observation, retention and recollection is both common and understandable.” 
 
 The evidence concerning John 
 
@@ -507,7 +507,7 @@ These are points which weighed heavily on my mind as I evaluated the evidence. I
 
 62     Although the accused gave evidence that, on the two previous occasions he delivered drugs, the nature of the drugs were “not so serious”, this has no bearing on the present case. It is not the accused’s contention that, because he had carried less serious drugs on previous occasions, he believed on 24 March 2014 that he was carrying drugs of a similar nature. He denies having known that he was carrying drugs at all, and is thus in no position to offer any evidence to rebut the presumption under s 18(2) of the MDA once he fails to rebut the presumption under s 21. 
 
-63     Nonetheless, I would add for completeness that even if the accused were to make such an argument, it could not succeed given the circumstances. The accused’s evidence concerning the two previous occasions he delivered drugs was that he did not know what type of drugs he was carrying, he relied on assurances given by Ganesh that the drugs were “not so serious”, and he did not take any steps himself to find out the nature of the drugs he was asked to deliver. As the court put it in _Public Prosecutor v Lisa Ismaniar_ [2015] SGHC 177 (“ _Lisa Ismaniar_ ”) at [19]: 
+63     Nonetheless, I would add for completeness that even if the accused were to make such an argument, it could not succeed given the circumstances. The accused’s evidence concerning the two previous occasions he delivered drugs was that he did not know what type of drugs he was carrying, he relied on assurances given by Ganesh that the drugs were “not so serious”, and he did not take any steps himself to find out the nature of the drugs he was asked to deliver. As the court put it in _Public Prosecutor v Lisa Ismaniar_ <span class="citation">[2015] SGHC 177</span> (“ _Lisa Ismaniar_ ”) at [19]: 
 
  If it is shown that a person could and ought to have checked but intentionally did not, the inference must be that she either knew what it was or feared what she might find should she check. In either case, she cannot then argue that the legal presumptions have been rebutted. The presumptions can only be rebutted by reasonable evidence that the accused did not know that she was carrying [the drug in question]. 
 

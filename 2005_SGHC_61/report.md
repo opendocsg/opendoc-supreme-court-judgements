@@ -41,7 +41,7 @@ _Tort_ – _Negligence_ – _Breach of duty_ – _Whether solicitor failing to t
 
 **The earlier action** 
 
-4       An earlier action, namely Suit No 1072 of 2001, _Tan Teck Khong & Anor (suing as Committee of the Estate of Pang Jong Wan) v Tan Pian Meng_ [2002] 4 SLR 616 was instituted by the first defendants (who were the plaintiffs in that action) against the second defendant (who was the defendant in that action). In the action, the first defendants alleged that a will was executed by Mdm Pang on 22 October 1997 and a second will, together with the mortgage, was executed by her on 3 November 1999 when she was physically and mentally incapacitated and was under the undue and improper influence of the second defendant. 
+4       An earlier action, namely Suit No 1072 of 2001, _Tan Teck Khong & Anor (suing as Committee of the Estate of Pang Jong Wan) v Tan Pian Meng_ <span class="citation">[2002] 4 SLR 616</span> was instituted by the first defendants (who were the plaintiffs in that action) against the second defendant (who was the defendant in that action). In the action, the first defendants alleged that a will was executed by Mdm Pang on 22 October 1997 and a second will, together with the mortgage, was executed by her on 3 November 1999 when she was physically and mentally incapacitated and was under the undue and improper influence of the second defendant. 
 
 5       The first defendants sought, _inter alia_ , orders that the second defendant repay all moneys he borrowed from KTB to secure the discharge of the mortgage, and declarations that the two wills were null and void and of no effect. 
 

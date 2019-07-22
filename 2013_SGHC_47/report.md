@@ -121,7 +121,7 @@ infringements by the 1st defendant.
 
  (b) the use of the registered trademark in relation to those goods has caused dilution in an unfair manner of the distinctive character of the registered trademark. 
 
-20     The defendants’ case is that the seized goods were manufactured by the Chinese company in China. They did not plead that the said company was a licensee of the plaintiff and indeed it was not. The plaintiff did not manufacture its goods in China. It follows that the seized goods were not obtained from the plaintiff or its licensee. The “exhaustion of rights defence” encapsulated in s 29 TMA (as it was so described in _Pan-West (Pte) Ltd v Grand Bigwin Pte Ltd_ [2003] 4 SLR(R) 755 at [23]) (“ _Pan-West_ ”) which is applicable to parallel imports is therefore not available to the defendants as the seized goods were not parallel imports manufactured with the express or implied consent of the plaintiff. 
+20     The defendants’ case is that the seized goods were manufactured by the Chinese company in China. They did not plead that the said company was a licensee of the plaintiff and indeed it was not. The plaintiff did not manufacture its goods in China. It follows that the seized goods were not obtained from the plaintiff or its licensee. The “exhaustion of rights defence” encapsulated in s 29 TMA (as it was so described in _Pan-West (Pte) Ltd v Grand Bigwin Pte Ltd_ <span class="citation">[2003] 4 SLR(R) 755</span> at [23]) (“ _Pan-West_ ”) which is applicable to parallel imports is therefore not available to the defendants as the seized goods were not parallel imports manufactured with the express or implied consent of the plaintiff. 
 
 21     The defendants’ admission of guilt in respect of the amended charges in the criminal proceedings meant that they acknowledged that at least one nozzle and one plunger of the seized goods were not genuine goods of the plaintiff. The defence in s 29 TMA only applies where one is dealing with the genuine goods of the trademark proprietor ( _Pan-West_ at [24]). 
 
@@ -132,7 +132,7 @@ were diesel tractor engine parts) were not for sale in Singapore but for export 
 
 **_Frivolous or vexatious_** 
 
-23     On the alternative ground for striking out the defence, the plaintiff relied on _Chee Siok Chin and others v Minister of Home Affairs and another_ [2006] 1 SLR(R) 582 (at [33]) (“ _Chee Siok Chin_ ”), where the court said: 
+23     On the alternative ground for striking out the defence, the plaintiff relied on _Chee Siok Chin and others v Minister of Home Affairs and another_ <span class="citation">[2006] 1 SLR(R) 582</span> (at [33]) (“ _Chee Siok Chin_ ”), where the court said: 
 
  Proceedings are frivolous when they are deemed to waste the court’s time, and are determined to be incapable of legally sustainable and reasoned argument. Proceedings are vexatious when they are shown to be without foundation and/or where they cannot possibly succeed and/or where an action is brought only for annoyance or to gain some fanciful advantage. 
 
@@ -209,7 +209,7 @@ defendant is an executive and a shareholder of the 1st defendant. Both the 2nd a
 
 denied being liable for conspiracy and for being joint-tortfeasors with the 1st defendant in that they did not authorize, direct or procure the alleged infringements. 
 
-38     In _TV Media Pte Ltd v De Cruz Andrea Heidi and anot_ her [2004] 3 SLR(R) 543, the Court of Appeal held that proof of the commission of a tort by a company does not automatically prove that the directors who manage its affairs are also guilty of the tort. However, the Court of Appeal added that the law has carved out an exception to this principle. Where directors order an act by the company which amounts to a tort by the company, they may be liable as joint tortfeasors on the basis that they have procured or directed the wrong to be done. Whether a director is so liable depends very much on the factual situation at hand and the level of his involvement is a matter of degree (see _Gabriel Peter & Partners v Wee Chong Jin_ [1997] 3 SLR(R) 649 at [35]). 
+38     In _TV Media Pte Ltd v De Cruz Andrea Heidi and anot_ her <span class="citation">[2004] 3 SLR(R) 543</span>, the Court of Appeal held that proof of the commission of a tort by a company does not automatically prove that the directors who manage its affairs are also guilty of the tort. However, the Court of Appeal added that the law has carved out an exception to this principle. Where directors order an act by the company which amounts to a tort by the company, they may be liable as joint tortfeasors on the basis that they have procured or directed the wrong to be done. Whether a director is so liable depends very much on the factual situation at hand and the level of his involvement is a matter of degree (see _Gabriel Peter & Partners v Wee Chong Jin_ <span class="citation">[1997] 3 SLR(R) 649</span> at [35]). 
 
 39     In _Kerly’s Law of Trade Marks and Trade Names_ (Sweet & Maxwell, 14th Ed, 2005), it is stated (at paragraph 19-140): 
 

@@ -70,7 +70,7 @@ some of his assets and, if the need arose, would approac h his relatives for fin
 
  The c ourt may at any time, for suffic ient reason, make an order staying the proc eedings on a bankruptc y applic ation, either altogether or for a limited time, on suc h terms and c onditions as the c ourt may think just. 
 
-The bank relied on _Lee Kiang Leng Stanley v Lee Han Chew (trading as Joe Li Electrical Supplies)_ [2004] SGHC 151 for the proposition that sec tion 64(1) allows the c ourt to order sec urity for the full amount or part of the judgment debt as a c ondition for staying bankruptc y proc eedings. 
+The bank relied on _Lee Kiang Leng Stanley v Lee Han Chew (trading as Joe Li Electrical Supplies)_ <span class="citation">[2004] SGHC 151</span> for the proposition that sec tion 64(1) allows the c ourt to order sec urity for the full amount or part of the judgment debt as a c ondition for staying bankruptc y proc eedings. 
 
 15     It was just for the AR to order the appellant to furnish sec urity for part of the judgment debt as there was solid evidenc e of a real risk of dissipation of assets by the appellant. The appellant sold the Benc oolen property on 9 Dec ember 2009 for $1.05 million. This took plac e during the c ourse of the trial. The trial was heard on 30 November, 1, 2 and 23 Dec ember 2009. The appellant c laimed that he sold the Benc oolen property to help pay his legal fees. In support of this, he relied solely on a single sentenc e at [6] of his affidavit of 5 November 2009 whic h was filed for his applic ation to vac ate the trial dates. That sentenc e was: 
 

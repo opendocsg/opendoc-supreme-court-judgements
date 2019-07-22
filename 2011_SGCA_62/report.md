@@ -18,7 +18,7 @@ _Civil procedure_ – _pleadings_ – _amendment_
 
 _Civil procedure_ – _pleadings_ – _striking out_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2011] SGHC 120.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2011] SGHC 120</span>.] 
 
 18 November 2011 Judgment reserved. 
 
@@ -26,7 +26,7 @@ _Civil procedure_ – _pleadings_ – _striking out_
 
 **Introduction** 
 
-1       This is an appeal against the judgment of the High Court Judge (“the Judge”) in _Ng Chee Weng v Bryan Lim Jit Ming and another_ [2011] SGHC 120 (“the Judgment”). It concerns an application to amend a Statement of Claim. However, since the case involves both an alleged settlement agreement as well as an original cause of action based on a trust, difficult questions of procedure are raised. 
+1       This is an appeal against the judgment of the High Court Judge (“the Judge”) in _Ng Chee Weng v Bryan Lim Jit Ming and another_ <span class="citation">[2011] SGHC 120</span> (“the Judgment”). It concerns an application to amend a Statement of Claim. However, since the case involves both an alleged settlement agreement as well as an original cause of action based on a trust, difficult questions of procedure are raised. 
 
 **Background history** 
 
@@ -189,7 +189,7 @@ Proposed Amendment.
 
 _The law on the amendment of pleadings_ 
 
-22     The law that governs amendment of pleadings is well-established. This court held in _Wright Norman and another v Oversea-Chinese Banking Corp Ltd_ (“ _Wright Norman_ ”) [1993] 3 SLR(R) 640 (at [6]) that: 
+22     The law that governs amendment of pleadings is well-established. This court held in _Wright Norman and another v Oversea-Chinese Banking Corp Ltd_ (“ _Wright Norman_ ”) <span class="citation">[1993] 3 SLR(R) 640</span> (at [6]) that: 
 
  It is trite law that an amendment which would enable the real issues between the parties to be tried should be allowed subject to penalties on costs and adjournment, if necessary, unless the amendment would cause injustice or injury to the opposing party which could not be compensated for by costs or otherwise ... [emphasis added] 
 
@@ -199,7 +199,7 @@ _The law on the amendment of pleadings_
 
 25     However, the principle in _Cropper_ has been qualified by Lord Griffiths in the House of Lords decision of _Ketteman v Hansel Properties Ltd_ [1987] AC 189 (“ _Ketteman_ ”), where the learned law lord observed that the judge must also consider all the circumstances of the case because “justice cannot always be measured in terms of money”. 
 
-26     The qualification in _Ketteman_ has been repeatedly endorsed in local cases, and most recently in the Singapore High Court decision of _Tang Chay Seng v Tung Yang Wee Arthur_ [2010] 4 SLR 1020, where Tan Lee Meng J held (at [10]–[11]) that: 
+26     The qualification in _Ketteman_ has been repeatedly endorsed in local cases, and most recently in the Singapore High Court decision of _Tang Chay Seng v Tung Yang Wee Arthur_ <span class="citation">[2010] 4 SLR 1020</span>, where Tan Lee Meng J held (at [10]–[11]) that: 
 
  10 It does not always follow that an amendment should be allowed where the other party can be compensated with costs. In Ketteman v Hansel Properties Ltd [1987] AC 189 (“ Ketteman” ) Lord Griffiths, who pointed out, at 220, that “justice cannot always be measured in terms of money” explained as follows: 
 
@@ -208,7 +208,7 @@ _The law on the amendment of pleadings_
  11 The courts have been careful to differentiate between an amendment that merely clarifies an issue in dispute and one that raises a totally different issue at too late a stage. As Lords Griffiths said in Ketteman , at 220, “to allow an amendment before a trial begins is quite different from allowing it at the end of the trial to give an apparently unsuccessful defendant an opportunity to renew the fight on an entirely different defence”. 
 
 
-27     Indeed, in has been stressed in the Singapore High Court decision of _United Overseas Bank Ltd v Ng Huat Foundations Pte Ltd_ [2005] 2 SLR(R) 425 that procedural justice is an important aspect of the holistic ideal and concept of justice itself. It was held in that case (at [5]) that: 
+27     Indeed, in has been stressed in the Singapore High Court decision of _United Overseas Bank Ltd v Ng Huat Foundations Pte Ltd_ <span class="citation">[2005] 2 SLR(R) 425</span> that procedural justice is an important aspect of the holistic ideal and concept of justice itself. It was held in that case (at [5]) that: 
 
  ... the court must be extremely wary of falling into the flawed approach to the effect that “the ends justify the means”. This ought never to be the case. The obsession with achieving a substantively fair and just outcome does not justify the utilisation of any and every means to achieve that objective. There must be fairness in the procedure or manner in which the final outcome is achieved. [emphasis in original] 
 
@@ -247,7 +247,7 @@ The applicable law on alternative pleadings
 
  Whenever alternative cases are alleged, the facts belonging to them respectively ought not to be mixed up, but should be stated separately, so as to show on what facts each alternative relief is claimed. 
 
-35     The above principles were endorsed and qualified by our High Court in _Chong Poh Siew v Chong Poh Heng_ [1994] 3 SLR(R) 188 (“ _Chong Poh Siew_ ”), where M P H Rubin J held (at [61] and [62]) that: 
+35     The above principles were endorsed and qualified by our High Court in _Chong Poh Siew v Chong Poh Heng_ <span class="citation">[1994] 3 SLR(R) 188</span> (“ _Chong Poh Siew_ ”), where M P H Rubin J held (at [61] and [62]) that: 
 
  ... Given the conflicting nature of the interests, I am of the opinion that this alternative plea is simply not available to the plaintiff. It is settled law that a plaintiff may rely on several different rights alternatively though they may be inconsistent ( per Brett LJ in Philipps v Philipps (1878) 4 QBD 127 at 134). ... 
 
@@ -266,7 +266,7 @@ was observed as follows (see _Singapore Court Practice 2009_ (Jeffrey Pinsler ge
 
  Combining various causes of action, pleas and parties 
 
- ... Claims which are inconsistent with each other may be pleaded but should be alleged in the alternative ( Bagot v Easton (1877) 7 Ch D 1). For instance, a claim for fraud might be coupled with an alternative claim for negligence. If the plaintiff pleads fraud solely but is only able to prove negligence, he will not be able to obtain his remedy ( Connecticut Fire Insurance v Kavanagh [1892] AC 473). However, the court may be unwilling to accept an alternative plea if, in the circumstances, this would not be in the interests of justice (see Chong Poh Siew v Chong Poh Heng [1995] 1 SLR 135, at 151). ... 
+ ... Claims which are inconsistent with each other may be pleaded but should be alleged in the alternative ( Bagot v Easton (1877) 7 Ch D 1). For instance, a claim for fraud might be coupled with an alternative claim for negligence. If the plaintiff pleads fraud solely but is only able to prove negligence, he will not be able to obtain his remedy ( Connecticut Fire Insurance v Kavanagh [1892] AC 473). However, the court may be unwilling to accept an alternative plea if, in the circumstances, this would not be in the interests of justice (see Chong Poh Siew v Chong Poh Heng <span class="citation">[1995] 1 SLR 135</span>, at 151). ... 
 
 Conclusion 
 
@@ -309,7 +309,7 @@ _(a) The issue of election_
 
 47     In our view, the question of election does not even arise at this stage. In order to understand why this is so, we must analyse the authorities cited by the Respondent in greater detail. 
 
-48     The Respondent relies, in the main, on three cases: _Lam Fung-ying v Ho Tung-sing and Another_ [1993] 2 HKLR 187 (“ _Lam Fung-ying_ ”); _Deman Construction Corp v 1429036 Ontario Inc._ 64 CLR (3d) 82 (“ _Deman_ ”); and _The “Dilman Fulmar”_ [2004] 1 SLR(R) 140 (“ _Dilman Fulmar_ ”) to support his argument that the need to elect arises at this stage. 
+48     The Respondent relies, in the main, on three cases: _Lam Fung-ying v Ho Tung-sing and Another_ [1993] 2 HKLR 187 (“ _Lam Fung-ying_ ”); _Deman Construction Corp v 1429036 Ontario Inc._ 64 CLR (3d) 82 (“ _Deman_ ”); and _The “Dilman Fulmar”_ <span class="citation">[2004] 1 SLR(R) 140</span> (“ _Dilman Fulmar_ ”) to support his argument that the need to elect arises at this stage. 
 
 49     In a more general vein, the cases relating to settlement agreements can be analysed from two perspectives – first, where the existence of the settlement is not in dispute and, secondly, where (in contrast) the existence of the settlement is in fact in dispute. 
 
@@ -326,7 +326,7 @@ agreement _must necessarily precede_ a determination of whether either party bre
 
 52     At this stage, _neither_ party is put to an election. The need for election _does not arise yet_ because the question of whether or not there is a settlement agreement to breach _has not yet been decided_ by the court. 
 
-53     Rather, the innocent party should apply for the question of whether or not a settlement agreement exists to be tried as a preliminary issue. There is local authority that adopts precisely such a n approach. Judith Prakash J in the Singapore High Court decision of _T2 Networks Pte Ltd v Nasioncom Sdn Bhd_ [2008] 2 SLR(R) 1 found no difficulty in dealing with the issue as to whether or not there was a settlement agreement as a preliminary issue. After Prakash J determined that there was no settlement agreement between the parties, she proceeded to determine the merits of dispute in the original cause of action. All these issues were determined within the same trial. Hence, we are of the view that, in the interests of practicality, a plaintiff is entitled to sue on both the alleged settlement agreement and the original cause of action (by way of alternative pleadings) in the same suit. 
+53     Rather, the innocent party should apply for the question of whether or not a settlement agreement exists to be tried as a preliminary issue. There is local authority that adopts precisely such a n approach. Judith Prakash J in the Singapore High Court decision of _T2 Networks Pte Ltd v Nasioncom Sdn Bhd_ <span class="citation">[2008] 2 SLR(R) 1</span> found no difficulty in dealing with the issue as to whether or not there was a settlement agreement as a preliminary issue. After Prakash J determined that there was no settlement agreement between the parties, she proceeded to determine the merits of dispute in the original cause of action. All these issues were determined within the same trial. Hence, we are of the view that, in the interests of practicality, a plaintiff is entitled to sue on both the alleged settlement agreement and the original cause of action (by way of alternative pleadings) in the same suit. 
 
 54     If the court determines that there was indeed a settlement agreement, and one party is in repudiatory breach of the settlement, the other (innocent) party will then (as alluded to at [50] above) be put to an election as to whether to affirm or to terminate the settlement agreement instead. 
 
@@ -483,7 +483,7 @@ Using “without prejudice” evidence to prove the fact that a settlement agree
 
  [original emphasis in bold, emphasis added in italics] 
 
-95     Indeed, this court held in Quek Kheng Leong Nicky and another v Teo Beng Ngoh and others and another appeal [2009] 4 SLR(R) 181 (at [23] and [24]) that: 
+95     Indeed, this court held in Quek Kheng Leong Nicky and another v Teo Beng Ngoh and others and another appeal <span class="citation">[2009] 4 SLR(R) 181</span> (at [23] and [24]) that: 
 
  23 The rule against the admission of “without prejudice” communications is, however, subject to a number of exceptions. The most important instances were set out by Robert Walker LJ in the English Court of Appeal decision of Unilever Plc v The Procter & Gamble Co [2000] 1 WLR 2436 at 2444-2445 (“ Unilever ”) ... 
 
@@ -568,11 +568,11 @@ Order 18 Rule 19(1)(a)
 
  (b) the Appellant had taken opposite positions on different times with equal conviction. 
 
-110    We respectfully differ from the Judge with regard to this aspect of his decision. The draconian power of the court to strike out a claim at the interlocutory stage under limb (a) of Order 18 Rule 19(1) can only be exercised when it is patently clear that there is no reasonable cause of action on the face of the pleadings. The mere fact that a case is weak and not likely to succeed is not a valid ground for striking out a claim under this ground. In the Singapore High Court decision of _Active Timber Agencies Pte Ltd v Allen & Gledhill_ [1995] 3 SLR(R) 334, M P H Rubin J held (at [13]) that: 
+110    We respectfully differ from the Judge with regard to this aspect of his decision. The draconian power of the court to strike out a claim at the interlocutory stage under limb (a) of Order 18 Rule 19(1) can only be exercised when it is patently clear that there is no reasonable cause of action on the face of the pleadings. The mere fact that a case is weak and not likely to succeed is not a valid ground for striking out a claim under this ground. In the Singapore High Court decision of _Active Timber Agencies Pte Ltd v Allen & Gledhill_ <span class="citation">[1995] 3 SLR(R) 334</span>, M P H Rubin J held (at [13]) that: 
 
  ... On the subject of reasonable cause of action, cases annotated in the Supreme Court Practice 1995 (see para 18/19/11) support the view that a reasonable cause of action means a cause of action with some prospect of success when only the allegations in the pleadings are considered ( per Lord Pearson in Drummond-Jackson v British Medical Association [1970] 1 All ER 1094 (CA)). Another principle enunciated by the courts over the years underpins the proposition that so long as the statement of claim or the particulars disclose some cause of action or raise some question to be decided by a judge or a jury, the mere fact that the case is weak and not likely to succeed, is no ground for striking it out. The central point which seems to emerge in all the decided cases is that the object of the rule is to stop cases which ought not to be launched cases which are obviously unsustainable or patently frivolous or vexatious (see the observations of Lindley LJ in Attorney General of the Duchy of Lancaster v London And North Western Railway Company [1892] 3 Ch 274 at 277). [emphasis added] 
 
-111    The above principles were cited with approval by this court in _The “Tokai Maru”_ [1998] 2 SLR(R) 646. Although that case involved an application to strike out a defence, the principles enunciated by this court are equally applicable to a statement of claim as well. It was held (at [44]) that: 
+111    The above principles were cited with approval by this court in _The “Tokai Maru”_ <span class="citation">[1998] 2 SLR(R) 646</span>. Although that case involved an application to strike out a defence, the principles enunciated by this court are equally applicable to a statement of claim as well. It was held (at [44]) that: 
 
  ...The hearing of the application should not therefore involve a minute examination of the documents or the facts of the case in order to see whether there is a reasonable defence. To do that is to usurp the position of the trial judge and the result is a trial in chambers, on affidavits only, without discovery and without oral evidence tested by cross-examination in the ordinary way (see Wenlock v Moloney [1965] 2 All ER 871). ... [emphasis added] 
 

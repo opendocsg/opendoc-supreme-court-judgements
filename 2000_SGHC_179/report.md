@@ -91,7 +91,7 @@ Section 6(a) of the Act states as follows:
 
  he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both. 
 
-In order to establish the charges under s 6(a) of the Act against the appellant, the burden was on the prosecution to prove the following four elements beyond a reasonable doubt ( **Kwang Boon Keong Peter v PP** [1998] 2 SLR 592 at 613): 
+In order to establish the charges under s 6(a) of the Act against the appellant, the burden was on the prosecution to prove the following four elements beyond a reasonable doubt ( **Kwang Boon Keong Peter v PP** <span class="citation">[1998] 2 SLR 592</span> at 613): 
 
 (i) acceptance of gratification; 
 
@@ -129,7 +129,7 @@ On the face of the evidence, the appellant had shown favour to Chua when he made
 
 Counsel for the appellant argued that enquiring into the status of investigations could not constitute a favour for the purposes of the charges faced by the appellant as such enquiries were common. This contention was rightfully rejected by the district judge on the ground that such inquiries are usually only conducted by persons having an official interest, such as other police officers conducting concurrent investigations, or by persons having a legitimate interest, such as lawyers or next-of-kin, and the appellant did not fall within any of those categories. 
 
-In this regard, it should be noted that it was not necessary for the prosecution to prove that the appellant`s receipt of money from Chua was an inducement for a specific corrupt act or favour. It was sufficient for the prosecution to show that the gratification was given in anticipation of some future corrupt act being performed. It was stated in the recent case of **Hassan bin Ahmad v PP** [2000] 3 SLR 791 at [para ] 20: 
+In this regard, it should be noted that it was not necessary for the prosecution to prove that the appellant`s receipt of money from Chua was an inducement for a specific corrupt act or favour. It was sufficient for the prosecution to show that the gratification was given in anticipation of some future corrupt act being performed. It was stated in the recent case of **Hassan bin Ahmad v PP** <span class="citation">[2000] 3 SLR 791</span> at [para ] 20: 
 
  ... It was therefore not necessary for the prosecution to prove a nexus between each receipt and a particular act; it only sufficed to demonstrate that the payments were not made innocently, but to purchase the recipients servitude. This is the essence of being bought over that the recipient of the gratification be at the beck and call of the payor, prodded into action by his recollection of the payors generosity even when no specific act was demanded at the time of payment. 
 
@@ -144,7 +144,7 @@ It should also be noted that in finding corruption under s 6(a) of the Act, it i
 
 **(b) Whether there was an objectively corrupt element in the transaction** 
 
-Such an objectively corrupt element can be established by ascertaining the appellant`s intention in the light of the factual matrix. Whether a transaction had a corrupt element is an objective inquiry that is essentially based on the ordinary standard of the reasonable man and to be answered only after the court has inferred what the appellant intended when he entered into the transaction: **Chan Wing Seng v PP** [1997] 2 SLR 426 at 433. 
+Such an objectively corrupt element can be established by ascertaining the appellant`s intention in the light of the factual matrix. Whether a transaction had a corrupt element is an objective inquiry that is essentially based on the ordinary standard of the reasonable man and to be answered only after the court has inferred what the appellant intended when he entered into the transaction: **Chan Wing Seng v PP** <span class="citation">[1997] 2 SLR 426</span> at 433. 
 
 The district judge found that the appellant, by placing himself at Chua`s disposal, had not only compromised the integrity of the Police Force but had also contributed to hindering its core process of maintaining law and order. He therefore found that the appellant`s intention in accepting the money from Chua had tainted the receipt of the money with an objectively corrupt element. 
 
@@ -154,7 +154,7 @@ I saw no reason to disturb the district judge`s finding that the appellant`s int
 
 **(c) Whether the appellant accepted the money with a guilty knowledge** 
 
-The guilty knowledge that must be established for a conviction under s 6(a) of the Act refers to whether the appellant knew or realised that what he did was corrupt by the ordinary and objective standard. This is a subjective test: **Chan Wing Seng v PP** [1997] 2 SLR 426 at 434. 
+The guilty knowledge that must be established for a conviction under s 6(a) of the Act refers to whether the appellant knew or realised that what he did was corrupt by the ordinary and objective standard. This is a subjective test: **Chan Wing Seng v PP** <span class="citation">[1997] 2 SLR 426</span> at 434. 
 
 On his finding as to whether the appellant possessed the relevant guilty knowledge, the district judge stated in his judgment: 
 

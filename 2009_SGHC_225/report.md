@@ -66,7 +66,7 @@ already been noted by Ms Chiang.
 
 17     I was of the view that, ideally, Ms Foo should have expressly objected to the reference to the minutes and not assume that Ms Chiang’s reference to a notice of objection was sufficient. Be that as it may, I was of the view that there should be clear evidence of waiver even though the standard of proof on the party relying on waiver in civil cases was on a balance of probabilities. In my view, the evidence did not clearly establish waiver. I would add that Ms Chiang did not raise the argument about waiver in the hearing before AR Lim. That argument was only raised in the course of the hearing before me. This suggested that Ms Chiang herself had not initially thought that there had been a waiver on 17 February 2009 but then decided to advance that argument in the appeal before me. 
 
-18     I would add that Ms Chiang’s reliance on _Tentat Singapore Pte Ltd v Multiple Granite Pte Ltd and others_ [2009] 1 SLR 42 did not assist the plaintiffs because the facts there were different from those before me. 
+18     I would add that Ms Chiang’s reliance on _Tentat Singapore Pte Ltd v Multiple Granite Pte Ltd and others_ <span class="citation">[2009] 1 SLR 42</span> did not assist the plaintiffs because the facts there were different from those before me. 
 
 **Costs** 
 

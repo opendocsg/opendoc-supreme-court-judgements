@@ -285,7 +285,7 @@ Defendants and that these persons be banned from re-election to the MC under Rul
 
 60     I am of the view that the Association’s reliance on the absence of any provision in the Constitution for any “voting by voice, show of hands or by poll” was misplaced. When the Plaintiff complained about the absence of “voting by voice, show of hands or by poll”, he was not complaining about the manner in which a vote was being taken. Rather, he was complaining about the fact that no vote was taken at all. For that purpose, he elaborated that there was no vote by any of the mechanisms he mentioned. 
 
-61     The Association relied on _Vellama d/o Marie Muthu v Attorney-General_ [2012] 4 SLR 698 where the High Court said (at [59]) that “election” in Art 49(1) of the Constitution of the Republic of Singapore could mean either: 
+61     The Association relied on _Vellama d/o Marie Muthu v Attorney-General_ <span class="citation">[2012] 4 SLR 698</span> where the High Court said (at [59]) that “election” in Art 49(1) of the Constitution of the Republic of Singapore could mean either: 
 
  (a) an event, in the sense, “to hold an election”; or 
 

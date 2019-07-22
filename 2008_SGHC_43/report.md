@@ -108,7 +108,7 @@ That did not _ipso facto_ make it party to the alleged conspiracy, or any conspi
 
 **Illegality and enforceability** 
 
-28     Whilst a court must not be deterred from determining a dispute under O 14 r 12 of the Rules of Court when there are complex points of law, determination would be inappropriate when novelty of legal issues is coupled with uncertainty of factual issues: see _Obegi Melissa v Vestwin Trading Pte Ltd_ [2008] SGCA 4 at [40]. In my view, the present case warrants a full trial, not least because of the unsettled state of the law on the question whether and, if so, how illegality affects contracts made between a principal and a briber when bribes had been given to an agent of the principal. 
+28     Whilst a court must not be deterred from determining a dispute under O 14 r 12 of the Rules of Court when there are complex points of law, determination would be inappropriate when novelty of legal issues is coupled with uncertainty of factual issues: see _Obegi Melissa v Vestwin Trading Pte Ltd_ <span class="citation">[2008] SGCA 4</span> at [40]. In my view, the present case warrants a full trial, not least because of the unsettled state of the law on the question whether and, if so, how illegality affects contracts made between a principal and a briber when bribes had been given to an agent of the principal. 
 
 29     Before me, counsel for Sin Yong was prepared to concede that if there had been a finding that Sin Yong was party to the conspiracy which, as explained in [16] above, includes in particular the inflation of invoices with the amount of the bribe, the underlying contracts would be unenforceable since Sin Yong had defrauded UE. That concession, to my mind, was rightly made in the face of _Taylor v Bhail_ [1996] 50 ConLR 70 (“ _Taylor v Bhail_ ”) and _PT International Nickel Indonesia v General Trading Corp (M) Sdn Bhd_ [1975-1977] SLR 226 (“ _PT International_ ”). 
 
@@ -137,7 +137,7 @@ Millett LJ said (at 76–78):
 
 35     It cannot be said, at least at this stage, that the contracts were entered into to defraud UE through the inflation of the prices. That was the precise factual issue in dispute. The making of secret payments to Lee may have had an unlawful purpose but, in contradistinction to the state of the present facts, the contracts sought to be enforced did not. 
 
-36     In response to UE’s submissions, counsel for Sin Yong relied on _American Home Assurance Co v Hong Lam Marine Pte Ltd_ [1999] 3 SLR 682 (“ _American Home Assurance_ ”) and contended that Sin Yong’s cause of action could be established independently of the illegality. Sin Yong’s position was perhaps encapsulated in a statement made by Nelson Enonchong in _Illegal Transactions_ (LLP, 1998): 
+36     In response to UE’s submissions, counsel for Sin Yong relied on _American Home Assurance Co v Hong Lam Marine Pte Ltd_ <span class="citation">[1999] 3 SLR 682</span> (“ _American Home Assurance_ ”) and contended that Sin Yong’s cause of action could be established independently of the illegality. Sin Yong’s position was perhaps encapsulated in a statement made by Nelson Enonchong in _Illegal Transactions_ (LLP, 1998): 
 
  A claim under a lawful contract will not fail by reason of illegality in another contract if the plaintiff can make out his claim without reference to the illegal agreement. 
 
@@ -178,9 +178,9 @@ avoid compliance with certain statutory provisions. The insurers cited _Suntoso 
 
 payments were made to Lee out of duress only after the contracts had been entered into, Sin Yong would have a strong case in arguing that its claim was independent of the illegality. The contracts were procured and discharged by Sin Yong in a perfectly legitimate manner for a legitimate purpose; UE therefore owed a corresponding obligation to make payment. 
 
-47     The point to be made, therefore, is that not only were the legal issues novel, the precise circumstances surrounding the bribery were crucial to the outcome of this dispute. Whenever the question of illegality is raised, the intention of the parties is paramount: _Siew Soon Kim v Lim Eng Beng alias Lim Jia Le_ [2004] SGCA 4 at [39]. It is only after the circumstances of the bribery are established that the court is able to judge whether Sin Yong’s cause of action was independent of the illegality. Accordingly, I had no doubt this was not an appropriate instance for determination under O 14 r 12. 
+47     The point to be made, therefore, is that not only were the legal issues novel, the precise circumstances surrounding the bribery were crucial to the outcome of this dispute. Whenever the question of illegality is raised, the intention of the parties is paramount: _Siew Soon Kim v Lim Eng Beng alias Lim Jia Le_ <span class="citation">[2004] SGCA 4</span> at [39]. It is only after the circumstances of the bribery are established that the court is able to judge whether Sin Yong’s cause of action was independent of the illegality. Accordingly, I had no doubt this was not an appropriate instance for determination under O 14 r 12. 
 
-48     With regard to the application under O 18 r 19 for striking out, Sin Yong’s case did not reek of being “plainly and obviously unsustainable”: see _Tang Liang Hong v Lee Kuan Yew_ [1998] 1 SLR 97. On that basis, I therefore allowed the appeal and set aside the SAR’s order. 
+48     With regard to the application under O 18 r 19 for striking out, Sin Yong’s case did not reek of being “plainly and obviously unsustainable”: see _Tang Liang Hong v Lee Kuan Yew_ <span class="citation">[1998] 1 SLR 97</span>. On that basis, I therefore allowed the appeal and set aside the SAR’s order. 
 
 **Further arguments** 
 

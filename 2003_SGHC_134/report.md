@@ -227,7 +227,7 @@ make it to Chief Financial Officer. He also confirmed that only 1% rise to the r
 79     I now come to assess the damages for pain and suffering. Ivy suffers from, as noted earlier, lower limb paralysis with loss of sexual function, bladder and bowel dysfunction. In _Cheng Chay Choo v Wong Meng Teck_ [Oct 1992] K S Rajah JC awarded $120,000 for a similar below the waist paralysis. I n _Ng Song Leng v Soh Kim Seng Engineering & Trading Pte Ltd_ [1997] [unreported] this court awarded $160,000 to a 29 year old man who had complete paralysis below waist and in addition he had partial paralysis of his upper limbs. I would award Ivy $130,000 for pain and suffering. 
 
 
-80     As for the multiplier, Ivy’s counsel submits it should be higher than 18, relying on _Teo Seng Kiat v Goh Hwa Teck_ [2003] 1 SLR 333. In _Ng Song Leng v Soh Kim Seng Engineering & Trading Pte Ltd_ (supra) I provided 15 years as the multiplier. It seems to me that we have to be careful to hold the line or damages would escalate. The multiplier should be 15 years. 
+80     As for the multiplier, Ivy’s counsel submits it should be higher than 18, relying on _Teo Seng Kiat v Goh Hwa Teck_ <span class="citation">[2003] 1 SLR 333</span>. In _Ng Song Leng v Soh Kim Seng Engineering & Trading Pte Ltd_ (supra) I provided 15 years as the multiplier. It seems to me that we have to be careful to hold the line or damages would escalate. The multiplier should be 15 years. 
 
 81     Ivy is seeking damages of an unspecified amount for future medical complications. There was also no agreement on Ivy’s pre-trial loss of earnings from November 2001 to date of trial, January 
 

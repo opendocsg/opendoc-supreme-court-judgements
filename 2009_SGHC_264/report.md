@@ -41,7 +41,7 @@ that he would be doing anything wrong.
 
 6       The prescribed punishment for an offence under s 21(1)(b) of the Films Act provided for under section 21(1)(ii) of the Films Act is a fine of not less than $500 for each film distributed, up to a maximum of $40,000, or to imprisonment for a term not exceeding six months or to both 
 
-7       In sentencing the appellant, while the DJ took into account the fact that the appellant did not distribute obscene films but only uncertified films, she noted that, pursuant to _PP v Md Hapiz bin Tahir_ [2007] SGDC 40 (“ _Md Hapiz_ ”), the control of film distribution under the Films Act was clearly intended to maintain public order and morality through the mechanism of certifying films. The introduction of the mechanism for certification of films clearly indicated that the Legislature intended that control be exercised in relation to the distribution of films. Accordingly, deterrence would be a relevant sentencing consideration (at [15] of _PP v Rathinam Ramesh_ [2009] SGMC 8 (“the GD”)) for such an offence. 
+7       In sentencing the appellant, while the DJ took into account the fact that the appellant did not distribute obscene films but only uncertified films, she noted that, pursuant to _PP v Md Hapiz bin Tahir_ <span class="citation">[2007] SGDC 40</span> (“ _Md Hapiz_ ”), the control of film distribution under the Films Act was clearly intended to maintain public order and morality through the mechanism of certifying films. The introduction of the mechanism for certification of films clearly indicated that the Legislature intended that control be exercised in relation to the distribution of films. Accordingly, deterrence would be a relevant sentencing consideration (at [15] of _PP v Rathinam Ramesh_ [2009] SGMC 8 (“the GD”)) for such an offence. 
 
 8       While noting that the appellant had pleaded guilty at the earliest opportunity and cooperated with the police, she did not consider relevant the fact that the appellant harboured the mistaken belief that the films did not require a valid certificate as told to him by his Malaysian supplier (at [27] 
 
@@ -58,7 +58,7 @@ that he would be doing anything wrong.
 11     An appellate court does not have unrestricted scope to disturb the sentence imposed by a lower court. It may only interfere in certain specified circumstances. This is because sentencing is invariably a matter of judgment and discretion. Thus the appellate court should accord due deference 
 
 
-to the discretion of the lower court. The principle that an appellate court has only limited scope of intervention has been established in numerous cases. For present purposes, I need only refer to the case of _PP v Cheong Hock Lai_ [2004] 3 SLR 203 at [26] where Yong Pung How CJ pronounced that an appellate court could interfere with the sentence of a lower court if it was satisfied that 
+to the discretion of the lower court. The principle that an appellate court has only limited scope of intervention has been established in numerous cases. For present purposes, I need only refer to the case of _PP v Cheong Hock Lai_ <span class="citation">[2004] 3 SLR 203</span> at [26] where Yong Pung How CJ pronounced that an appellate court could interfere with the sentence of a lower court if it was satisfied that 
 
  (a) the trial judge had made the wrong decision as to the proper factual matrix for sentence; 
 

@@ -92,7 +92,7 @@ Chan Sek Keong CJ:
 
  (a) It was fair and equitable that each party pay its own costs as both parties had some measure of success. 
 
- (b) The OTS should be disregarded as it was ambiguous in that it referred only to the claim and not the counterclaim (citing SBS Transit Ltd v Teo Chye Seng Douglas [2005] SGHC 15). 
+ (b) The OTS should be disregarded as it was ambiguous in that it referred only to the claim and not the counterclaim (citing SBS Transit Ltd v Teo Chye Seng Douglas <span class="citation">[2005] SGHC 15</span>). 
 
  (c) The judgment obtained was more favourable than the OTS by $8.96 (which represented the interest on the judgment sum computed at the rate of 5.33% per annum from the date of filing of the writ and the making of the OTS) as judgment interest in respect of the period before the service of the OTS had to be taken into consideration (see O 22A r 9(4)). 
 
@@ -117,7 +117,7 @@ Chan Sek Keong CJ:
 
  (b) The respondent’s counter-offer on costs had the automatic effect of withdrawing the OTS as provided in para 4 of the OTS. 
 
- (c) The judgment sum was more favourable than the OTS even though the amount in excess was only $8.96 (see Singapore Airlines Ltd v Tan Shwu Leng [2001] 4 SLR 593 (“ Singapore Airlines Ltd ”) at [4]). 
+ (c) The judgment sum was more favourable than the OTS even though the amount in excess was only $8.96 (see Singapore Airlines Ltd v Tan Shwu Leng <span class="citation">[2001] 4 SLR 593</span> (“ Singapore Airlines Ltd ”) at [4]). 
 
 14     On these findings, the Judge held that the OTS did not satisfy the requirements of O 22A r 9(3) ( _b_ ). Nevertheless, he held that the OTS was relevant in the determination of the issue of costs because of O 22A r 12 of the ROC, which provides as follows: 
 
@@ -134,11 +134,11 @@ For this proposition, the Judge referred to the following passages at [36] and [
 
  take all pertinent facts and circumstances into account and arrive at an order on costs which is fair and just. 
 
-15     Applying the test of what is just and fair, the Judge found that the conduct of the appellant was unreasonable (see _Harte Denis Matthew v Tan Hun Hoe_ [2001] SGHC 19 at [35]) and that it had wasted resources, time and costs. The appellant was aware that the respondent had made a counterclaim even before it commenced proceedings. Yet it made the counter-offer only one week before the trial, and after a delay of more than eight months. The Judge was of the view (at [46] of his grounds of decision (“the GD”)) that to order each party to pay its own costs “would have unduly favoured a lackadaisical and irresponsible litigant, and subvert the very spirit behind O.22A, which ‘is to encourage the termination of litigation by agreement of the parties – more speedily and less expensively than by judgment of the court at the end of the trial’: _The “Endurance 1”_ [1999] 1 SLR 661 at [42]”. 
+15     Applying the test of what is just and fair, the Judge found that the conduct of the appellant was unreasonable (see _Harte Denis Matthew v Tan Hun Hoe_ <span class="citation">[2001] SGHC 19</span> at [35]) and that it had wasted resources, time and costs. The appellant was aware that the respondent had made a counterclaim even before it commenced proceedings. Yet it made the counter-offer only one week before the trial, and after a delay of more than eight months. The Judge was of the view (at [46] of his grounds of decision (“the GD”)) that to order each party to pay its own costs “would have unduly favoured a lackadaisical and irresponsible litigant, and subvert the very spirit behind O.22A, which ‘is to encourage the termination of litigation by agreement of the parties – more speedily and less expensively than by judgment of the court at the end of the trial’: _The “Endurance 1”_ <span class="citation">[1999] 1 SLR 661</span> at [42]”. 
 
 16     The Judge also referred to the exceptions, under O 59 r 3(2), to the general rule that costs follow the event. In this respect, he held at [48] of the GD that: 
 
- One such exception is where a party has conducted his case ‘unreasonably or improperly’ – for instance, ‘by omitting to do any thing the doing of which would have been calculated to save costs’. In such circumstances, the court may order that the party bear his own costs so occasioned and to pay the costs so occasioned to the other party: O.59, r.7(1) & (2)(a). Thus, a party who unreasonably fails to resolve issues when he has the opportunity to do so may be penalized in costs: Chan Choy Ling v Chua Che Teck [1995] 3 SLR 667 at [23]. 
+ One such exception is where a party has conducted his case ‘unreasonably or improperly’ – for instance, ‘by omitting to do any thing the doing of which would have been calculated to save costs’. In such circumstances, the court may order that the party bear his own costs so occasioned and to pay the costs so occasioned to the other party: O.59, r.7(1) & (2)(a). Thus, a party who unreasonably fails to resolve issues when he has the opportunity to do so may be penalized in costs: Chan Choy Ling v Chua Che Teck <span class="citation">[1995] 3 SLR 667</span> at [23]. 
 
 17     For those reasons, and applying the exceptions, the Judge decided that the respondent should be awarded indemnity costs from the date of the OTS. 
 

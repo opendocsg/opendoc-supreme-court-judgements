@@ -24,7 +24,7 @@ _Criminal Law_ – _Offences_ – _Murder_ – _Whether deceased's husband or ap
 
  on the 7th day of August 2002, sometime between 6.42 am and 9.42 am, at Block 605 Yishun Street 61 #03-307, Singapore, did commit murder by causing the death of one Saratha d/o Sangeo, female/50 years old, and [he has] thereby committed an offence punishable under Section 302 of the Penal Code, Chapter 224 
 
-and was sentenced to suffer death: see _PP v Mohd Raffiq bin Mohd Aslam_ [2004] SGHC 57. We dismissed his appeal against his conviction, and now explain our decision. 
+and was sentenced to suffer death: see _PP v Mohd Raffiq bin Mohd Aslam_ <span class="citation">[2004] SGHC 57</span>. We dismissed his appeal against his conviction, and now explain our decision. 
 
 2       On 9 August 2002 at 8.15pm, the deceased Saratha d/o Sangeo was found dead lying face down in a pool of blood in the living room of her home at Block 605 Yishun Street 61, #03-307 (“the flat”). 
 

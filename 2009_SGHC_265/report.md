@@ -487,7 +487,7 @@ and the statement was admissible evidenc e that the ac c used told him that ther
 
 65     The ac c used was in possession of the bag c ontaining the c annabis and the c annabis mixture. The prosec ution had proved that after his arrest, he ac knowledged that the bag c ontained _ganja_ , and that he had also told Sundar that the bag c ontained _ganja_ , a term whic h c overs c annabis and c annabis mixture. 
 
-66     The prosec utor argued that independently of the ac c used’s admission and Sundar’s evidenc e, the ac c used must be taken to have knowledge of the c ontents of the bag bec ause he had deliberately kept a blind eye to that, and that was the effec t of ac tual knowledge, as explained in _Tan Kiam Peng v PP_ [2008] 1 SLR 1. 
+66     The prosec utor argued that independently of the ac c used’s admission and Sundar’s evidenc e, the ac c used must be taken to have knowledge of the c ontents of the bag bec ause he had deliberately kept a blind eye to that, and that was the effec t of ac tual knowledge, as explained in _Tan Kiam Peng v PP_ <span class="citation">[2008] 1 SLR 1</span>. 
 
 67     The prosec utor referred to para 41 of the ac c used’s statement of 20 July 2006[note: 52] where he stated: 
 

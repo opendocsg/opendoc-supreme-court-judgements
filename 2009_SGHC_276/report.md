@@ -22,7 +22,7 @@ _Tort_ – _Negligence_
 
 1       This is an appeal by the first defendant (also the “appellant”) against the decision of the district judge issued on 26 June 2009 in which the district judge adjudged the first defendant to be 100% liable for the accident where the first defendant’s car hit the second defendant’s taxi causing it to hit the plaintiff’s car in front of the taxi. 
 
-2       It is conceded by all counsel as trite law that the duty of an appellate court is simply as stated in _Aircharter World Pte Ltd v Kontena Nasional Bhd_ [1999] 3 SLR 1 at [19] (which cited with approval Lord Shaw in _Clarke v Edinburgh_ and _District Tramsways Co 1919 SC_ (HL) 35 at p 36): 
+2       It is conceded by all counsel as trite law that the duty of an appellate court is simply as stated in _Aircharter World Pte Ltd v Kontena Nasional Bhd_ <span class="citation">[1999] 3 SLR 1</span> at [19] (which cited with approval Lord Shaw in _Clarke v Edinburgh_ and _District Tramsways Co 1919 SC_ (HL) 35 at p 36): 
 
  ... In my opinion, the duty of an appellate court in those circumstances is for each judge of it to put to himself, as I now do in this case, the question, Am Iwho sit here without these advantages, sometimes broad and sometimes subtle, which are the privileges of the judge who heard and tried the case in a position, not having those privileges, to come to a clear conclusion that the judge who had them was plainly wrong? If I cannot be satisfied in my own mind that the judge with those privileges was plainly wrong, then it appears to me to be my duty to defer to his judgment. 
 

@@ -267,7 +267,7 @@ If the transaction entered into at an undervalue had been entered into by an ind
 
  The court shall, on such an application, make such order as it thinks fit for restoring the position to what it would have been if that individual had not entered into that transaction. 
 
-In **Re Libra Industries Pte Ltd** [2000] 1 SLR 84 which was decided shortly before this originating 
+In **Re Libra Industries Pte Ltd** <span class="citation">[2000] 1 SLR 84</span> which was decided shortly before this originating 
 
 
 summons came up for hearing the company which was in compulsory liquidation claimed a declaration that certain lease agreements entered into by the company as tenant constituted a transaction at an undervalue and it also claimed a number of other reliefs. Kan Ting Chiu J said at [para ] 52: 

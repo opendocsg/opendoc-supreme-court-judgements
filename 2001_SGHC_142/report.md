@@ -660,7 +660,7 @@ could not be seen unless the leaflet was taken out and turned over. This evidenc
 
 **_The requirements for a passing off cause of action_** 
 
-135\. In _Tessensohn v John Robert Powers School Inc_ [1994] 3 SLR 308, LP Thean JA said at p 315: 
+135\. In _Tessensohn v John Robert Powers School Inc_ <span class="citation">[1994] 3 SLR 308</span>, LP Thean JA said at p 315: 
 
  ‘More recently, Lord Oliver stated in Reckitt & Colman Products v Borden Inc , at p 880: 
 
@@ -675,7 +675,7 @@ could not be seen unless the leaflet was taken out and turned over. This evidenc
 **_Reputation or Goodwill_** 
 
 
-137\. The most generally accepted definition of goodwill is the one formulated by Lord Macnaghten in _IRC v Muller & Co’s Margarine Ltd_ [1901] AC 217. It was not too long ago cited by Justice Prakash in _Future Enterprises Pte Ltd v Tong Seng Produce Pte Ltd_ [1998] 1 SLR 1012 (‘ _Future Enterprises’_ ): 
+137\. The most generally accepted definition of goodwill is the one formulated by Lord Macnaghten in _IRC v Muller & Co’s Margarine Ltd_ [1901] AC 217. It was not too long ago cited by Justice Prakash in _Future Enterprises Pte Ltd v Tong Seng Produce Pte Ltd_ <span class="citation">[1998] 1 SLR 1012</span> (‘ _Future Enterprises’_ ): 
 
  ‘What is goodwill? It is a thing very easy to describe, very difficult to define. It is the benefit and advantage of the good name, reputation and connection of a business. It is the attractive force which brings in custom. It is the one thing which distinguishes an old established business from a new business at its first start. The goodwill of a business must emanate from a particular centre or source. However widely extended or diffused its influence may be, goodwill is worth nothing unless it has power or attraction sufficient to bring customers home to the source from which it emanates. 
 
@@ -695,7 +695,7 @@ could not be seen unless the leaflet was taken out and turned over. This evidenc
 
 142\. I was of the view that it was not necessary for a survey to be adduced or evidence from the trade to be adduced to establish goodwill. This was a matter of evidence and such evidence could be adduced in various ways. 
 
-143\. I was also of the view that trading, however short, may be sufficient to establish goodwill (see the judgment of Justice Selvam in _Alteco Chemical Pte Ltd v Chong Yean Wah_ [2000] 1 SLR 119 at p 131). 
+143\. I was also of the view that trading, however short, may be sufficient to establish goodwill (see the judgment of Justice Selvam in _Alteco Chemical Pte Ltd v Chong Yean Wah_ <span class="citation">[2000] 1 SLR 119</span> at p 131). 
 
 
 144\. Furthermore, actual trading is not necessary to establish goodwill (see _Electro Cad Australia Pty Ltd & ors v Mejati RCS Sdn Bhd & Ors_ [1998] 3 MLJ 422). 

@@ -157,17 +157,17 @@ The appeal
 
 ## brown packets of drugs (B7 to B12) found in his possession were not for trafficking but for his own consumption: Aziz bin 
 
-## Abdul Kadir v Public Prosecutor [1999] 3 SLR 175 at 189; Chia Song Heng v Public Prosecutor [1999] 4 SLR 705 at 706. 
+## Abdul Kadir v Public Prosecutor <span class="citation">[1999] 3 SLR 175</span> at 189; Chia Song Heng v Public Prosecutor <span class="citation">[1999] 4 SLR 705</span> at 706. 
 
 18     To rebut the presumption of trafficking and to establish that a portion of the drugs in his possession was for consumption and not for trafficking, an accused had to adduce credible evidence to show that part of the offending substance was intended for self-consumption and in this regard a mere casual declaration by the accused would not suffice. He would have to, in addition to the history of his addiction and consumption habits, also satisfy the trial court of the rates of his consumption. If all that the accused could conjure up was a bare allegation bereft of details, the trial judge would be well entitled to reject his 
 
 ## evidence as unworthy of belief and an appellate court would be most reluctant to disturb any such finding: Jusri bin Mohamed 
 
-## Hussain v Public Prosecutor [1996] 3 SLR 29 at 39; Fung Choon Kay v Public Prosecutor [1997] 3 SLR 564 at 572. Another 
+## Hussain v Public Prosecutor <span class="citation">[1996] 3 SLR 29</span> at 39; Fung Choon Kay v Public Prosecutor <span class="citation">[1997] 3 SLR 564</span> at 572. Another 
 
 factor which would weigh in the mind of the court is the financial means or the ability of the accused to pay for the drugs: 
 
-## Public Prosecutor v Dahalan bin Ladaewa [1996] 1 SLR 783 at 814. 
+## Public Prosecutor v Dahalan bin Ladaewa <span class="citation">[1996] 1 SLR 783</span> at 814. 
 
 19     Reverting to the appeal before us, we were of the view that the learned trial judge’s evaluation of the evidence and the findings thereon were flawless and beyond reproach. His conclusion that the appellant was financially incapable of retaining the six ‘durians’ using the appellant’s own estimate of current street price amounted to about $16,500 was also unassailable. The cost of the six packets, even allowing a generous discount his supplier "Glass" allegedly promised him or might have allowed him, would still set him back with a figure beyond his reach for he was by his own admission unemployed at the material time. Given the context, the learned trial judge’s conclusion that it would entail an inordinately large sum of money for a person in the accused’s financial circumstances to come by, could not be faulted. The learned trial judge also rejected the explanation of the appellant that he would raise this sum of money from the profits he would obtain by selling the 99 sachets found in the ten envelopes as unworthy of credit owing to the fact that the appellant had not even told his supplier that he would be retaining the said six packets for his use. 
 
@@ -175,7 +175,7 @@ factor which would weigh in the mind of the court is the financial means or the 
 
 ## implausible and therefore rejected. In this connection, we hasten to reiterate what the Court of Appeal observed in Goh Soon 
 
-## Huat v Public Prosecutor [1995] 1 SLR 634 at 640: 
+## Huat v Public Prosecutor <span class="citation">[1995] 1 SLR 634</span> at 640: 
 
 
 ## ... it is not necessary for the appellant to minutely detail all his defences in his s 
@@ -196,13 +196,13 @@ factor which would weigh in the mind of the court is the financial means or the 
 
 ## Farm v Chin Ah Quee 4 SLJ 33 at 35; Chia Han Kiat v R [1937] MLJ 261 at 261; Goh Ah San v R [1938] MLJ 95 at 99; In re AB 
 
-## Ltd [1956] MLJ 197 at 200; Tan Choon Huat v PP [1991] 1 SLR 805 at 808; Tan Hung Yeoh v PP [1999] 3 SLR 93 at 103 and 
+## Ltd [1956] MLJ 197 at 200; Tan Choon Huat v PP <span class="citation">[1991] 1 SLR 805</span> at 808; Tan Hung Yeoh v PP <span class="citation">[1999] 3 SLR 93</span> at 103 and 
 
-## Chng Gim Huat v PP [2000] 3 SLR 262 at 277. 
+## Chng Gim Huat v PP <span class="citation">[2000] 3 SLR 262</span> at 277. 
 
 ## 22 The facts and issues raised in the appeal before us bear some resemblance to the case of Fung Choon Kay v Public 
 
-## Prosecutor [1997] 3 SLR 565, where the Court of Appeal observed at page 571 that: 
+## Prosecutor <span class="citation">[1997] 3 SLR 565</span>, where the Court of Appeal observed at page 571 that: 
 
 ## ... Although the fact that the appellant was an addict lent support to the 
 

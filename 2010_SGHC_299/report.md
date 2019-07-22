@@ -169,7 +169,7 @@ debts in bankruptcy, applies to LLH’s nominated CPF monies. Therefore, LLH’s
 
  [emphasis added] 
 
-A nomination made under s 25(1) of the CPF Act (previously s 26(1) of the Central Provident Fund Act (Cap 36, 1991 Rev Ed)) becomes effective upon the death of the nominating member, and s 15(5) thereafter comes into operation: _The Central Provident Fund Board v Lau Eng Mui_ [1995] 2 SLR(R) 826 at [14]. 
+A nomination made under s 25(1) of the CPF Act (previously s 26(1) of the Central Provident Fund Act (Cap 36, 1991 Rev Ed)) becomes effective upon the death of the nominating member, and s 15(5) thereafter comes into operation: _The Central Provident Fund Board v Lau Eng Mui_ <span class="citation">[1995] 2 SLR(R) 826</span> at [14]. 
 
 17     The entitlement of the nominee to make a withdrawal upon the death of a nominating member arises out of the testamentary effect of a nomination, _ie_ , a nomination is capable of passing property to the nominee upon the death of the nominating member. In _How Yew Hock (Executor of the estate of Yee Sow Thoo, deceased) v Lembaga Kumpulan Wang Simpanan Pekerja_ [1996] 2 MLJ 474, the Malaysian Federal Court considered the issue of whether a nomination made under the Malaysian equivalent of the CPF Act was a testamentary document which had to satisfy the requirements of the Wills Act 1959 (Malaysia).While the issue which arose in that case is different from the present, the Federal Court cited with approval the following passage from Mellows, _The Law of Succession_ 
 
@@ -285,7 +285,7 @@ monies was property divisible among LLH’s creditors, since it was property whi
 
 **Whether LLH’s nominated CPF monies devolved upon LLH before she was discharged from bankruptcy** 
 
-29     Finally, counsel for LLH argues that the case of _Chong Chee Keong v Official Assignee_ [2005] 3 SLR(R) 546 (“ _Chong Chee Keong_ ”), in which Choo Han Teck J held that a dividend in bankruptcy which was paid to the bankrupt after his discharge from bankruptcy was not divisible among the bankrupt’s creditors, should be followed because it is on all fours with the present case. In particular, counsel for LLH relies strongly on the following passage in Choo J’s judgment (at [4]): 
+29     Finally, counsel for LLH argues that the case of _Chong Chee Keong v Official Assignee_ <span class="citation">[2005] 3 SLR(R) 546</span> (“ _Chong Chee Keong_ ”), in which Choo Han Teck J held that a dividend in bankruptcy which was paid to the bankrupt after his discharge from bankruptcy was not divisible among the bankrupt’s creditors, should be followed because it is on all fours with the present case. In particular, counsel for LLH relies strongly on the following passage in Choo J’s judgment (at [4]): 
 
  ... the certificate of discharge is a statutory instrument that wipes the slate clean for the bankrupt so that he might carry on with his life afresh, free of past debts and liabilities. The certificate of discharge is a document that certifies and declares to the world at large that no more debt is owed by the discharged bankrupt. Any residual rights must revert to the discharged bankrupt. That being the case, any money that comes subsequently into the Official Assignee's hands must be turned over to the discharged bankrupt unless the Official Assignee had expressly reserved that money as a condition to the discharge. [emphasis added] 
 

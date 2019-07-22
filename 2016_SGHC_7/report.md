@@ -16,7 +16,7 @@
 
 _Companies—Winding Up_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 12 and 17 of 2016 were dismissed by the Court of Appeal on 29 November 2016. See [2016] SGCA 65.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 12 and 17 of 2016 were dismissed by the Court of Appeal on 29 November 2016. See <span class="citation">[2016] SGCA 65</span>.] 
 
 22 January 2016 Judgment reserved. 
 

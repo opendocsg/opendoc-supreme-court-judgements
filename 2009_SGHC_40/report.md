@@ -93,7 +93,7 @@ Options within six months of termination of his employment deals with rights tha
 
 14     The defendant submitted that r 8.4 does not apply in situations where the Options had not yet vested when the employee left the employment of the defendant or its subsidiaries. That is why r 8. refers to “exercise of any unexercised Options” and not to “unvested Options”. Construing r 8.4 in the manner in which the plaintiff sought to have it construed would mean that the express terms of the 2003 letter would have to be completely ignored. I agreed with this submission. 
 
-15     It is also clearly the law in Singapore that unvested options do not confer any rights of exercise on the holder thereof. In a recent case, _Tan Ging Hoon v MMI Holdings Ltd_ [2008] SGHC 57, one of the issues that arose was whether the plaintiff was entitled to exercise unvested options. It was held that no rights would accrue to an employee or an ex-employee where the share options had not yet vested at the time of termination of employment. 
+15     It is also clearly the law in Singapore that unvested options do not confer any rights of exercise on the holder thereof. In a recent case, _Tan Ging Hoon v MMI Holdings Ltd_ <span class="citation">[2008] SGHC 57</span>, one of the issues that arose was whether the plaintiff was entitled to exercise unvested options. It was held that no rights would accrue to an employee or an ex-employee where the share options had not yet vested at the time of termination of employment. 
 
  Copyright © Government of Singapore. 
 

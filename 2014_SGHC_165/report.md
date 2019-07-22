@@ -241,7 +241,7 @@ t o reject the request. The legal consequence of the events that occurred was th
 
 48     The plaintiff submits that the second fixture was made on or about 17 August 2012 and that it was partly oral and partly in writing. As I have said, the defendant denies that the second fixture was ever concluded. 
 
-49     In cases such as the present one, where parties carry on negotiations with a view to conclude a contract, “the courts look at the whole course of the negotiations between both parties in order to ascertain if an agreement is reached at any given point in time”: _Gay Choon Ing v Loh Sze Ti Terence Peter_ [2009] 2 SLR(R) 332 at [53]. 
+49     In cases such as the present one, where parties carry on negotiations with a view to conclude a contract, “the courts look at the whole course of the negotiations between both parties in order to ascertain if an agreement is reached at any given point in time”: _Gay Choon Ing v Loh Sze Ti Terence Peter_ <span class="citation">[2009] 2 SLR(R) 332</span> at [53]. 
 
 50     As I have mentioned, from 13 August 2012 onwards, the defendant was concerned about the progress of the _Dahua_ and whether it would arrive at Nanwei within the laycan. From that date, the defendant had asked the plaintiff to look for a substitute vessel. The plaintiff itself told FLS on 14 August 2012 that it did not want to extend the laycan of the _Dahua_ to 25 August and that it wanted a substitute vessel. By 16 August, both the plaintiff and FLS had been actively pursuing other options. This was shown in the 1.35pm e-mail on 16 August when the plaintiff informed the defendant 
 

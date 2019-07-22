@@ -80,7 +80,7 @@ twice before, but he was not close to Gobi. [note: 1]
 
 **The decision below** 
 
-15     The Judge convicted the Appellant and sentenced him to death. The grounds for the Judge’s decision are reported a s _Public Prosecutor v Devendran A/L Supramaniam_ [2014] SGHC 140 (“the GD”). His reasons can be stated in brief as follows: 
+15     The Judge convicted the Appellant and sentenced him to death. The grounds for the Judge’s decision are reported a s _Public Prosecutor v Devendran A/L Supramaniam_ <span class="citation">[2014] SGHC 140</span> (“the GD”). His reasons can be stated in brief as follows: 
 
  (a) The actus reus of the offence was made out (the GD at [26]). 
 
@@ -367,7 +367,7 @@ into Singapore for a job interview on the morning of 12 May 2011, [note: 37] and
 
 seeming contradictions, betrayed the true nature of these theories; they were simply afterthoughts. 
 
-55     We find that there is enough on the facts to give rise to suspicion. Yet, the Appellant made a deliberate decision not to investigate or inquire further. He opted to be wilfully blind towards the presence of diamorphine in the motorcycle seat (see _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR(R) 1 at [127]). In the circumstances, there is no basis for us to disturb the finding of the Judge that the Appellant has not discharged the burden, pursuant to s 18(2) of the MDA, of proving that he had no _mens rea_ as to the existence of the drugs which was stuffed in his motorcycle seat. In any event, even reviewing the evidence afresh, we do not think the Appellant has discharged the burden, on a balance of probability, that he had no _mens rea_ as to the diamorphine found hidden in his motorcycle seat. 
+55     We find that there is enough on the facts to give rise to suspicion. Yet, the Appellant made a deliberate decision not to investigate or inquire further. He opted to be wilfully blind towards the presence of diamorphine in the motorcycle seat (see _Tan Kiam Peng v Public Prosecutor_ <span class="citation">[2008] 1 SLR(R) 1</span> at [127]). In the circumstances, there is no basis for us to disturb the finding of the Judge that the Appellant has not discharged the burden, pursuant to s 18(2) of the MDA, of proving that he had no _mens rea_ as to the existence of the drugs which was stuffed in his motorcycle seat. In any event, even reviewing the evidence afresh, we do not think the Appellant has discharged the burden, on a balance of probability, that he had no _mens rea_ as to the diamorphine found hidden in his motorcycle seat. 
 
 **Conclusion** 
 

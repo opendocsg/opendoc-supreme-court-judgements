@@ -16,7 +16,7 @@
 
 _Contract_ – _Misrepresentation_ – _Rescission_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 243.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 243</span>.] 
 
 4 July 2018 
 
@@ -197,7 +197,7 @@ The appellant did not challenge the Judge’s findings in respect of the Represe
 
  (b) Further or in the alternative, the appellant’s election not to exercise its right to rescind and to proceed with the Lease Agreement was conditional upon the respondent agreeing to reduce the rent or otherwise taking all steps to accommodate the change in the appellant’s business model necessitated by the respondent’s misrepresentations. This could be inferred from certain e-mails and the fact that the parties had been in negotiations for a full year. As the respondent had failed to meet these conditions, the appellant’s right of rescission “re-emerged” and was exercised when it vacated the Premises. 
 
- (c) Moreover, its actions could not have amounted to affirmation when it did not know of its right to rescind the Lease Agreement at the material time. The Judge erred in law in holding that only knowledge of the facts was required for election, as cases such as Wishing Star Ltd v Jurong Town Corp [2005] 1 SLR(R) 339 (“ Wishing Star (HC) ”), The Pacific Vigorous [2006] 3 SLR(R) 374 and Peyman stand for the proposition that an election could only be made by someone with full 
+ (c) Moreover, its actions could not have amounted to affirmation when it did not know of its right to rescind the Lease Agreement at the material time. The Judge erred in law in holding that only knowledge of the facts was required for election, as cases such as Wishing Star Ltd v Jurong Town Corp <span class="citation">[2005] 1 SLR(R) 339</span> (“ Wishing Star (HC) ”), The Pacific Vigorous <span class="citation">[2006] 3 SLR(R) 374</span> and Peyman stand for the proposition that an election could only be made by someone with full 
 
 
  knowledge of his legal rights. The Judge also erred in finding on the facts that, in any event, the appellant was aware of its rights when it made its election. 
@@ -208,7 +208,7 @@ The appellant did not challenge the Judge’s findings in respect of the Represe
 
 30     The respondent argued that the appellant had not articulated any compelling reason for the Judge’s findings on any of the issues to be overturned. In particular, it pointed out that the appellant’s continued possession of the Premises and its payment of rent, amongst its other acts, amounted to unequivocal acts of affirmation. Further, the respondent submitted that Tony (as the appellant’s representative) knew of his legal right to rescind the Lease Agreement at the material time, as evidenced by the testimony of the appellant’s witnesses at trial and certain Whatsapp conversations. All this evidence was considered by the Judge. 
 
-31     The respondent also submitted that the Judge was correct in holding that the law does not require a representee to know its legal rights before it affirms a contract. The respondent contended that the judicial pronouncements in the local cases cited by the appellant, such as _Wishing Star (HC)_ and _The Pacific Vigorous_ , were made _obiter_ and without full arguments and that other local cases such as _Goldzone (Asia Pacific) Ltd v Creative Technology Pte Ltd_ [2011] SGHC 103 (“ _Goldzone_ ”) and _Aero-Gate Pte Ltd v Engen Marine Engineering Pte Ltd_ [2013] 4 SLR 409 (“ _Aero-Gate_ ”) generally held that it was sufficient that the representee had full knowledge of the facts when affirming the contract. 
+31     The respondent also submitted that the Judge was correct in holding that the law does not require a representee to know its legal rights before it affirms a contract. The respondent contended that the judicial pronouncements in the local cases cited by the appellant, such as _Wishing Star (HC)_ and _The Pacific Vigorous_ , were made _obiter_ and without full arguments and that other local cases such as _Goldzone (Asia Pacific) Ltd v Creative Technology Pte Ltd_ <span class="citation">[2011] SGHC 103</span> (“ _Goldzone_ ”) and _Aero-Gate Pte Ltd v Engen Marine Engineering Pte Ltd_ <span class="citation">[2013] 4 SLR 409</span> (“ _Aero-Gate_ ”) generally held that it was sufficient that the representee had full knowledge of the facts when affirming the contract. 
 
 **Issues** 
 
@@ -229,7 +229,7 @@ The appellant did not challenge the Judge’s findings in respect of the Represe
 
 **Whether the respondent made the Representations on Operating Hours** 
 
-33     The legal principles relating to the elements of actionable misrepresentation are not disputed by the parties. In the contractual context, the elements are satisfied when a party relies on a false representation in entering into the contract with the representor. A representee who can establish misrepresentation will be entitled, as a general rule, to rescind the contract such that the parties are restored to their pre-contractual positions ( _RBC Properties Pte Ltd v Defu Furniture Pte Ltd_ [2015] 1 SLR 997 at [56]; _The Law of Contract in Singapore_ (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) at paras 11.003 and 11.006). 
+33     The legal principles relating to the elements of actionable misrepresentation are not disputed by the parties. In the contractual context, the elements are satisfied when a party relies on a false representation in entering into the contract with the representor. A representee who can establish misrepresentation will be entitled, as a general rule, to rescind the contract such that the parties are restored to their pre-contractual positions ( _RBC Properties Pte Ltd v Defu Furniture Pte Ltd_ <span class="citation">[2015] 1 SLR 997</span> at [56]; _The Law of Contract in Singapore_ (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) at paras 11.003 and 11.006). 
 
 34     The appellant’s first contention was that the Judge had erred in finding that the respondent had not made the Representations on Operating Hours and that the appellant would not have relied on any such representations even if they had been made. It suffices for us to address this issue briefly as we saw no reason to disturb the Judge’s findings in this regard. 
 
@@ -272,7 +272,7 @@ evidence.
 
 **_Whether there was clear and unequivocal affirmation_** 
 
-42     A binding election requires the injured party to communicate his choice to the other party in clear and unequivocal terms and he will not be bound by a qualified or conditional decision ( _Jurong Town Corp v Wishing Star Ltd_ [2005] 3 SLR(R) 283 (“ _Wishing Star (CA)_ ”) at [171(a)]). The conduct constituting affirmation “must be unequivocal in the sense that it is consistent only with the exercise of one of the two sets of rights and inconsistent with the exercise of the other” ( _Sargent v ASL Developments Ltd_ (1974) 131 CLR 634 (“ _Sargent_ ”) at 646). This Court stated in _Wishing Star (CA)_ at [171(b)] that such conduct can be express or implied. In other words, the appellant must have made a clear and unequivocal election to affirm the Lease Agreement in order for such an election to be binding upon it. 
+42     A binding election requires the injured party to communicate his choice to the other party in clear and unequivocal terms and he will not be bound by a qualified or conditional decision ( _Jurong Town Corp v Wishing Star Ltd_ <span class="citation">[2005] 3 SLR(R) 283</span> (“ _Wishing Star (CA)_ ”) at [171(a)]). The conduct constituting affirmation “must be unequivocal in the sense that it is consistent only with the exercise of one of the two sets of rights and inconsistent with the exercise of the other” ( _Sargent v ASL Developments Ltd_ (1974) 131 CLR 634 (“ _Sargent_ ”) at 646). This Court stated in _Wishing Star (CA)_ at [171(b)] that such conduct can be express or implied. In other words, the appellant must have made a clear and unequivocal election to affirm the Lease Agreement in order for such an election to be binding upon it. 
 
 43     The appellant’s case was that its conduct did not evince clearly and unequivocally an intention 
 
@@ -331,7 +331,7 @@ Although _Wishing Star (HC)_ was overruled on appeal, the Court of Appeal in _Wi
 
 53     The respondent in turn relied on two local High Court cases in support of its case. In _Song Ching Pte Ltd v Amara Hotel Properties Pte Ltd_ (Civil Appeal No 8 of 1991), reported in 3(2) _Mallal’s Digest_ (4th ed, LexisNexis, 2009 Reissue) at 953, it was held that “affirmation of a contract was complete and binding when the representee, with full knowledge of the facts and of the representation, either declares his intention to proceed with the contract or does some act from which such an intention may reasonably be inferred”. In _Goldzone_ , Andrew Ang J noted _obiter_ at [39] that “no election can be said to have been made unless the misled party is broadly aware of the true facts.” 
 
-54     The respondent further cited _Chai Cher Watt (trading as Chuang Aik Engineering Works) v SDL Technologies Pte Ltd and another appeal_ [2012] 1 SLR 152, where this Court did not find it necessary to determine this issue on the facts of the case but remarked nonetheless at [34]: 
+54     The respondent further cited _Chai Cher Watt (trading as Chuang Aik Engineering Works) v SDL Technologies Pte Ltd and another appeal_ <span class="citation">[2012] 1 SLR 152</span>, where this Court did not find it necessary to determine this issue on the facts of the case but remarked nonetheless at [34]: 
 
  ... As to what knowledge is relevant, it would appear that the party waiving his right should at least have knowledge of the facts giving rise to those rights. (Note, however another view espoused in Peyman ... that there must be knowledge of the existence of contractual rights themselves, at least in so far as they are express contractual rights, though this decision has been critiqued by The Hon Mr Justice K R Handley, in Estoppel by Conduct and Election (Thomson/Sweet & Maxwell, 2006), especially at para 14-015)... [emphasis in original] 
 

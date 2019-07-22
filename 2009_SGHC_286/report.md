@@ -102,7 +102,7 @@ _Insolvency Law_ – _Avoidance of transactions_ – _Unfair preferences_
 
 8       Various provisions in the Companies (Application of Bankruptcy Act Provisions) Regulations, 1996 Ed, apply the relevant provisions of the Bankruptcy Act to a company being wound up. They also stipulate that a reference to an associate of an individual who has been adjudged bankrupt shall be read as a reference to a person connected with a company against which a winding-up order has been made. They also stipulate when a company shall be regarded as an associate of another company. 
 
-9       The provisions are rather convoluted but it was settled in _Show Theatres Pte Ltd (in liquidation) v Shaw Theatres Pte Ltd & another_ [2002] 4 SLR 145 (“ _Show Theatres”_ ) that where two companies have a common director or common directors, one company will be treated as connected with another. 
+9       The provisions are rather convoluted but it was settled in _Show Theatres Pte Ltd (in liquidation) v Shaw Theatres Pte Ltd & another_ <span class="citation">[2002] 4 SLR 145</span> (“ _Show Theatres”_ ) that where two companies have a common director or common directors, one company will be treated as connected with another. 
 
 10     In the present case, the directors of the Company at the relevant time were: 
 
@@ -310,9 +310,9 @@ something similar was done, I accepted the Defendant’s explanation. However, i
 
 69     The liquidators also relied on _Show Theatres_ where the Court of Appeal said at [22] that the presumption (of unfair preference) would be rebutted if the payment was made for proper commercial considerations and there were such considerations in the present case. However, it must be remembered that the issue in _Show Theatres_ was whether the recipient of the payment was a person connected with the insolvent paying company. The issue was not whether the statutory presumption, if it applied, had been rebutted on the facts. I was of the view that the reference to proper commercial considerations was not meant to be exhaustive or to be the test in deciding whether the presumption is rebutted in each case. All the relevant facts were to be considered in deciding whether the Company had desired to put the Defendant in a better position by the payment if the Company was wound up. It was not enough to say that the intention or the effect of the payment was to put the Company in a better position. 
 
-70     In _Amrae Benchuan Trading Pte Ltd v Tan Te Teck Gregory_ [2006] 4 SLR 969, Sundaresh Menon JC said at [45] to [52]: 
+70     In _Amrae Benchuan Trading Pte Ltd v Tan Te Teck Gregory_ <span class="citation">[2006] 4 SLR 969</span>, Sundaresh Menon JC said at [45] to [52]: 
 
- 45 Against that background, I turn to the law. I begin with a passage from the judgment of Kan Ting Chiu J in Re Libra Industries Pte Ltd [2000] 1 SLR 84 (“ Re Libra ”). The facts of the case are not material for present purposes but in considering the application of s 329 of the Act to the avoidance of undue preferences, Kan J followed the decision of Millett J in the English case of Re MC Bacon Ltd [1990] BCLC 324. Kan J noted as follows at [36] to [37]: 
+ 45 Against that background, I turn to the law. I begin with a passage from the judgment of Kan Ting Chiu J in Re Libra Industries Pte Ltd <span class="citation">[2000] 1 SLR 84</span> (“ Re Libra ”). The facts of the case are not material for present purposes but in considering the application of s 329 of the Act to the avoidance of undue preferences, Kan J followed the decision of Millett J in the English case of Re MC Bacon Ltd [1990] BCLC 324. Kan J noted as follows at [36] to [37]: 
 
  Section 99 which was enacted in 1995 is similar to s 239 of the Insolvency Act 1986 of the United Kingdom. The provisions introduced changes to the insolvency law of both territories. The changes were discussed in Re MC Bacon Ltd [1990] BCLC 324 by Millett J with admirable clarity. 
 
@@ -348,7 +348,7 @@ something similar was done, I accepted the Defendant’s explanation. However, i
 
  treat all creditors equally for various reasons, eg the degree of goodwill with the creditor, the size of the debt, the need to continue trading with the creditor. This will hold true even when the company is in financial difficulty. In determining whether a payment is voidable for being preferential, Millett J’s observations on the difference between desire and intention are instructive, and the former must be present. 
 
- 50 A very similar approach was taken by Choo Han Teck JC (as he then was) in Soh Gim Chuan v Koh Hai Keong [2002] 4 SLR 212 ... 
+ 50 A very similar approach was taken by Choo Han Teck JC (as he then was) in Soh Gim Chuan v Koh Hai Keong <span class="citation">[2002] 4 SLR 212</span> ... 
 
  51 In my judgment, in the light of the authorities, the following propositions may be advanced when considering whether a transaction may be successfully challenged as an undue preference: 
 

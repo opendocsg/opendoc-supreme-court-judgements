@@ -45,7 +45,7 @@ _Civil Procedure_ – _Stay of Execution_
 
  (d) there were special circumstances that warranted the granting of a stay of execution. 
 
-6       The parties agreed that the principles applicable to an application for a stay of execution were stated in _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ [1999] 1 SLR(R) 1053 as cited in _Strandore Invest A/S and others v Soh Kim Wat_ [2010] SGHC 174 (“ _Strandore_ ”) at [7]: 
+6       The parties agreed that the principles applicable to an application for a stay of execution were stated in _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ <span class="citation">[1999] 1 SLR(R) 1053</span> as cited in _Strandore Invest A/S and others v Soh Kim Wat_ <span class="citation">[2010] SGHC 174</span> (“ _Strandore_ ”) at [7]: 
 
  (a) While the court has the power to grant a stay, and this is entirely at the discretion of the court, the discretion must be exercised judicially, ie , in accordance with well-established principles. 
 
@@ -55,7 +55,7 @@ _Civil Procedure_ – _Stay of Execution_
 
  (d) The third principle follows, and is an elaboration of the second principle, that an appellant must show special circumstances before the court will grant a stay. 
 
-7       The parties also raised the case of _Denis Matthew Harte v Dr Tan Hun Hoe & Another_ [2001] SGHC 19 (“ _Harte_ ”) during the hearing. There, the court took into account the fact that judgment was not a summary one. It had been granted after a trial of 31 days. On the other hand, the first principle reiterated in _Strandore_ is that there is no difference between a judgment granted on a summary basis or after a full trial for the purposes of an application for a stay of execution. I was also of the view that there should be no difference. 
+7       The parties also raised the case of _Denis Matthew Harte v Dr Tan Hun Hoe & Another_ <span class="citation">[2001] SGHC 19</span> (“ _Harte_ ”) during the hearing. There, the court took into account the fact that judgment was not a summary one. It had been granted after a trial of 31 days. On the other hand, the first principle reiterated in _Strandore_ is that there is no difference between a judgment granted on a summary basis or after a full trial for the purposes of an application for a stay of execution. I was also of the view that there should be no difference. 
 
 8       Two other points were also mentioned in _Harte_ and _Strandore_. 
 
@@ -68,7 +68,7 @@ _Civil Procedure_ – _Stay of Execution_
 
 12     The second other point from the two cases is that the fact that a successful litigant is outside Singapore, and it would be inconvenient or expensive to seek recovery outside Singapore is not, of itself, a special circumstance warranting a stay (see _Harte_ at [64]–[65] and _Strandore_ at [13]) although in _Strandore_ , the court did also say, at [12], that this is a factor that has to be taken into consideration. 
 
-13     In _Viet Hai Petroleum Corp v Ng Jun Quan_ [2016] 3 SLR 887 (“ _Viet Hai Petroleum_ ”), the High Court again endorsed the principle in _Harte_ and _Strandore_ that the fact that a judgment creditor is a foreign entity is not a special circumstance warranting a stay. This was reiterated by the Singapore International Commercial Court in _Telemedia Pacific Group Ltd and another v Yuanta Asset Management International Ltd and another_ [2017] 4 SLR 26 at [33] although the court did also say that the combination of non-residence and the absence of any reciprocal enforcement regime may amount to special circumstances warranting the grant of a stay. 
+13     In _Viet Hai Petroleum Corp v Ng Jun Quan_ <span class="citation">[2016] 3 SLR 887</span> (“ _Viet Hai Petroleum_ ”), the High Court again endorsed the principle in _Harte_ and _Strandore_ that the fact that a judgment creditor is a foreign entity is not a special circumstance warranting a stay. This was reiterated by the Singapore International Commercial Court in _Telemedia Pacific Group Ltd and another v Yuanta Asset Management International Ltd and another_ <span class="citation">[2017] 4 SLR 26</span> at [33] although the court did also say that the combination of non-residence and the absence of any reciprocal enforcement regime may amount to special circumstances warranting the grant of a stay. 
 
 14     It seemed to me that too much weight has been placed by an unsuccessful litigant on the bare fact that a successful litigant is outside Singapore. Furthermore, while the absence of any reciprocal enforcement may be taken into account with that bare fact, there are more important considerations. For example, does the successful litigant have huge financial resources with a good reputation? Such facts may suggest that it is more likely than not that it will honour any judgment or order to repay a sum of money without having to be compelled to do so by proceedings in the country where it conducts its business. Another example is the manner in which it had conducted its business and the litigation. Was there any evidence that the successful party was in the habit of making payments late, whether to the other party or to others? Did the successful party act reasonably in the litigation or was it prone to making unsubstantiated allegations or suppressing the truth? 
 
@@ -83,7 +83,7 @@ _Civil Procedure_ – _Stay of Execution_
 19     In _Viet Hai Petroleum_ , the successful plaintiff was agreeable to a stay on condition that the defendants pay a certain sum (comprising more than half of the claim) into court pending an appeal by the defendants to the Court of Appeal. 
 
 
-20     In _Turf Club Auto Emporium Pte Ltd and others v Yeo Boong Hua and others_ [2017] 2 SLR 12 at [199], Sundaresh Menon CJ granted a stay of execution pending an appeal to the Court of Appeal where the appellants had offered to make payment of a sum awarded by the court below to the respondents either into court or to the solicitors of the respondents to be held by them as security for the sum awarded pending the outcome of the appeals. Two reasons were given: 
+20     In _Turf Club Auto Emporium Pte Ltd and others v Yeo Boong Hua and others_ <span class="citation">[2017] 2 SLR 12</span> at [199], Sundaresh Menon CJ granted a stay of execution pending an appeal to the Court of Appeal where the appellants had offered to make payment of a sum awarded by the court below to the respondents either into court or to the solicitors of the respondents to be held by them as security for the sum awarded pending the outcome of the appeals. Two reasons were given: 
 
  (a) The substantive appeals had been heard and judgment would be released in due course; and 
 

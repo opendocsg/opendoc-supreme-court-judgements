@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Sentencing_ 
 
-[LawNet Editorial Note: The appeals to this decision in Criminal Appeals Nos 9 and 11 of 2015 were dismissed by the Court of Appeal on 27 February 2017. See [2017] SGCA 7.] 
+[LawNet Editorial Note: The appeals to this decision in Criminal Appeals Nos 9 and 11 of 2015 were dismissed by the Court of Appeal on 27 February 2017. See <span class="citation">[2017] SGCA 7</span>.] 
 
 20 April 2015 Judgment reserved. 
 
@@ -37,7 +37,7 @@ different even if the more outstanding facts may appear similar. Hence, one accu
 
 6       When Parliament removed the mandatory death penalty for cases in which the accused has no explicit intention to kill, it conferred a discretion to impose a term of life imprisonment (with caning) as an alternative to the death penalty to the court. Judicial discretion is exercised by taking all relevant factors into account. In the case of sentencing in ss 300(b) to (d) cases, the discretion is not one in which the judge can impose life imprisonment just because he is personally not in favour of the death penalty. I do not think that Parliament amended this section to give the courts a discretion that is so broad and absolute. Whether the death penalty should be removed entirely is a question for the legislature and not the courts. The question before me is whether on the facts should the death penalty be imposed, and if so, whether on one or both of the convicted accused. It is a question that must be answered by a consideration of the facts. 
 
-7       Courts that have discretionary powers to impose the death penalty have used various descriptions when they justify their decisions. The Court of Appeal in _Public Prosecutor v Kho Jabing_ [2015] 2 SLR 112 (“ _Kho Jabing”)_ did not find the description “rarest of the rare” that has been used by the Indian Court in _Bachan Singh v The State of Punjab_ (1980) 2 SCC 684 appropriate, because it is of the view that reserving the death penalty only for the “rarest of the rare” or the “worst of the worst” cases “would mean that it is only in the most extreme of circumstances and the narrowest of cases that the death penalty would be imposed” (at [38]). The Court of Appeal in _Kho Jabing_ preferred to use “outrage the feelings of the community” to determine whether the death penalty should be imposed. 
+7       Courts that have discretionary powers to impose the death penalty have used various descriptions when they justify their decisions. The Court of Appeal in _Public Prosecutor v Kho Jabing_ <span class="citation">[2015] 2 SLR 112</span> (“ _Kho Jabing”)_ did not find the description “rarest of the rare” that has been used by the Indian Court in _Bachan Singh v The State of Punjab_ (1980) 2 SCC 684 appropriate, because it is of the view that reserving the death penalty only for the “rarest of the rare” or the “worst of the worst” cases “would mean that it is only in the most extreme of circumstances and the narrowest of cases that the death penalty would be imposed” (at [38]). The Court of Appeal in _Kho Jabing_ preferred to use “outrage the feelings of the community” to determine whether the death penalty should be imposed. 
 
 8       Phrases like “rarest of the rare” and “worst of the worst” are general terms intended to convey the sort of cases that would place the crime at such a high level of opprobrium that would justify the penalty of death since no one can tell which is the worst of the worst until the worst has occurred. 
 

@@ -57,7 +57,7 @@ _The principles to be applied at the close of the prosecution’s case in determ
 
  When the case for the prosecution is concluded the court, if it finds that no case against the accused has been made out which if unrebutted would warrant his conviction, shall record an order of acquittal or, if it does not so find, shall call on the accused to enter on his defence. 
 
-6       It is clear from the above provision that the condition precedent to the judge calling for the defence is the establishment by the prosecution of a case against the accused which, if unrebutted, would warrant the conviction of the accused. In relation to this precondition, Lord Diplock in _Haw Tua Tau v PP_ [1980-1981] SLR 73 at pp 79 and 80 laid down the following principles, which have been adopted in _Tan Siew Chay v PP_ [1993] 2 SLR 14 at 38: 
+6       It is clear from the above provision that the condition precedent to the judge calling for the defence is the establishment by the prosecution of a case against the accused which, if unrebutted, would warrant the conviction of the accused. In relation to this precondition, Lord Diplock in _Haw Tua Tau v PP_ [1980-1981] SLR 73 at pp 79 and 80 laid down the following principles, which have been adopted in _Tan Siew Chay v PP_ <span class="citation">[1993] 2 SLR 14</span> at 38: 
 
  The crucial words [in s 189(1)] are the words ‘if unrebutted’, which make the question that the court has to ask itself a purely hypothetical one. The prosecution makes out a case against the accused by adducing evidence of 
 

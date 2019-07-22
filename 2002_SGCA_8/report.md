@@ -182,7 +182,7 @@ disposing of the equipment at the best achievable price. We accept the following
 
  "It would have been ludicrous and commercially unsound for the respondents to have gone to extremities to pursue and exert their strict legal rights under the Repurchase Agreement in Indonesia as suggested by the Appellants in their Appellants’ Case, when the outcome of any such action against UT would be unpredictable, more costs would have been incurred and more time would have been wasted in such litigation, and there was no guarantee that UT could pay even if the court should take the view that UT were bound to pay a higher repurchase price." 
 
-46\. Before we leave the issue, we would like to refer to three cases cited by the owners to contend that Astra should only be entitled to an award of nominal damages: _Brandeis Goldschmidt & Co Ltd v Western Transportation Ltd_ [1981] 1 QB 864, _Chartered Electronics Industries Pte Ltd v Comtech IT Pte Ltd_ [1998] 3 SLR 502 and _Williams v The Peel River Land & Mineral Co Ltd_ (1887) LT Vol LV 689. 
+46\. Before we leave the issue, we would like to refer to three cases cited by the owners to contend that Astra should only be entitled to an award of nominal damages: _Brandeis Goldschmidt & Co Ltd v Western Transportation Ltd_ [1981] 1 QB 864, _Chartered Electronics Industries Pte Ltd v Comtech IT Pte Ltd_ <span class="citation">[1998] 3 SLR 502</span> and _Williams v The Peel River Land & Mineral Co Ltd_ (1887) LT Vol LV 689. 
 
 47\. We do not think these cases really assist the owners. There is no universal rule for assessing damages for wrongful detention of goods. In each instance, it is a question whether proof of damage is adduced and whether the damage claimed is remote. 
 

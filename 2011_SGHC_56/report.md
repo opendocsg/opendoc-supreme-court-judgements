@@ -51,11 +51,11 @@ _Constitutional Law_ – _Fundamental Liberties_
 
  (a) An action may be struck out under the “no reasonable cause of action” ground as being without legal basis where an aggrieved party is unable to establish locus standi (see Abdul Razak Ahmad v Majlis Bandaraya Johor Bahru [1995] 2 MLJ 287. 
 
- (b) According to Yong Pung How CJ in Goh Koon Suan v Heng Gek Kiau [1990] 2 SLR(R) 705 at [15], an action is clearly vexatious in the following situations: 
+ (b) According to Yong Pung How CJ in Goh Koon Suan v Heng Gek Kiau <span class="citation">[1990] 2 SLR(R) 705</span> at [15], an action is clearly vexatious in the following situations: 
 
  ...when the party bringing it is not acting bona fide , and merely wishes to annoy or embarrass his opponent, or when it is not calculated to lead to any practical result. 
 
- In Chee Siok Chin & Ors v Minister for Home Affairs & Anor [2006] 1 SLR(R) 582 at [33] (“ Chee Siok Chin ”), V K Rajah J elaborated on the “frivolous and vexatious” ground: 
+ In Chee Siok Chin & Ors v Minister for Home Affairs & Anor <span class="citation">[2006] 1 SLR(R) 582</span> at [33] (“ Chee Siok Chin ”), V K Rajah J elaborated on the “frivolous and vexatious” ground: 
 
  Proceedings are frivolous when they are deemed to waste the court’s time, and are determined to be incapable of legally sustainable and reasoned argument. Proceedings are vexatious when they are shown to be without foundation and/or where they cannot possibly succeed and/or where an action is brought only for annoyance or to gain some fanciful advantage. [emphasis in original] 
 
@@ -84,7 +84,7 @@ _Constitutional Law_ – _Fundamental Liberties_
 
  (f) 
 
-should consider the requirements for the granting of declaratory relief. In _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd and another appeal_ [2006] 1 SLR(R) 112 at [14] (“ _Karaha Bodas_ ”), Judith Prakash J summarised them as follows: 
+should consider the requirements for the granting of declaratory relief. In _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd and another appeal_ <span class="citation">[2006] 1 SLR(R) 112</span> at [14] (“ _Karaha Bodas_ ”), Judith Prakash J summarised them as follows: 
 
  ... 
 
@@ -121,7 +121,7 @@ should consider the requirements for the granting of declaratory relief. In _Kar
 9       Tan had argued that where constitutionally guaranteed liberties are at stake, _locus standi_ is established simply by showing sufficient interest rather than substantial interest. In support, his 
 
 
-counsel cited _Chan Hiang Leng Colin & Ors v Minister for Information and the Arts_ [1996] 1 SLR(R) 294 (“ _Colin Chan_ ”). There, Karthigesu JA expounded: 
+counsel cited _Chan Hiang Leng Colin & Ors v Minister for Information and the Arts_ <span class="citation">[1996] 1 SLR(R) 294</span> (“ _Colin Chan_ ”). There, Karthigesu JA expounded: 
 
  13 If a constitutional guarantee is to mean anything, it must mean that any citizen can complain to the courts if there is a violation of it. The fact that the violation would also affect every other citizen should not detract from a citizen’s interest in seeing that his constitutional rights are not violated. A citizen should not have to wait until he is prosecuted before he may assert his constitutional rights. 
 
@@ -135,7 +135,7 @@ counsel cited _Chan Hiang Leng Colin & Ors v Minister for Information and the Ar
 
 than Tan’s counsel. In _Constitutional Law in Malaysia and Singapore_ (LexisNexis, 3rd Ed, 2010) at p 551, they wrote, “Where constitutionallyguaranteed liberties are at stake, _locus standi_ is established without the need to show sufficiency of interest” before making reference to _Colin Chan_. 
 
-11     A more defensible interpretation is that Karthigesu JA was simply treating constitutional rights as being vested in every citizen. He was not articulating a new test that specifically applied to constitutional rights. Instead, he simply preferred applying the “substantial interest” test instead of the “special damage” test that is used for public rights and had ruled that the former was satisfied in _Colin Chan_. This interpretation was supported by the Court of Appeal’s decision in _Eng Foong Ho and Ors v Attorney-General_ [2009] 2 SLR(R) 542 (“ _Eng Foong Ho_ ”). If _Colin Chan_ had articulated a new _locus standi_ requirement for constitutional rights, the Court of Appeal in _Eng Foong Ho_ might have been expected to have made reference to it. That the Court of Appeal did not do so strongly suggests _Colin Chan_ is no authority for Tan’s proposition of a lower test of _locus standi_ for constitutional rights. This is further supported by the Chief Justice’s speech to students from the Singapore Management University (reproduced in the article _Judicial Review – From Angst to Empathy_ (2010) 22 SAcLJ 469 (“SMU Lecture”), where Chan Sek Keong CJ noted at para 33: 
+11     A more defensible interpretation is that Karthigesu JA was simply treating constitutional rights as being vested in every citizen. He was not articulating a new test that specifically applied to constitutional rights. Instead, he simply preferred applying the “substantial interest” test instead of the “special damage” test that is used for public rights and had ruled that the former was satisfied in _Colin Chan_. This interpretation was supported by the Court of Appeal’s decision in _Eng Foong Ho and Ors v Attorney-General_ <span class="citation">[2009] 2 SLR(R) 542</span> (“ _Eng Foong Ho_ ”). If _Colin Chan_ had articulated a new _locus standi_ requirement for constitutional rights, the Court of Appeal in _Eng Foong Ho_ might have been expected to have made reference to it. That the Court of Appeal did not do so strongly suggests _Colin Chan_ is no authority for Tan’s proposition of a lower test of _locus standi_ for constitutional rights. This is further supported by the Chief Justice’s speech to students from the Singapore Management University (reproduced in the article _Judicial Review – From Angst to Empathy_ (2010) 22 SAcLJ 469 (“SMU Lecture”), where Chan Sek Keong CJ noted at para 33: 
 
  ...In Singapore, although the courts appear to have accepted the same ‘sufficient interest’ test to determine whether leave for judicial review should be granted, that is not, in my view, also to say that our courts will apply the test with the same rigour as the UK courts. 
 
@@ -158,20 +158,20 @@ Constitutional rights are not mere rhetoric for a low _locus standi_ test of cit
 
 14     Regardless of which interpretation the court takes of _Colin Chan_ , it will only be applicable if constitutional rights are involved. This necessitates investigating whether Arts 9, 12 and 14 of the Constitution are in issue. 
 
-15     Article 9(1) states: “No person shall be deprived of his life or personal liberty save in accordance with law.” Article 9(1) is engaged only if expansive definitions are made of “life” and “personal liberty”, such that a citizen has the liberty to lead his life as he pleases. However, our courts have eschewed such wide interpretations. For example, Choo Han Teck J in _Lo Pui Sang v Mamata Kapildev Dav and Ors (Horizon Partners Pte Ltd intervener)_ [2008] 4 SLR(R) 754 at [6] (“ _Lo Pui Sang_ ”) said: 
+15     Article 9(1) states: “No person shall be deprived of his life or personal liberty save in accordance with law.” Article 9(1) is engaged only if expansive definitions are made of “life” and “personal liberty”, such that a citizen has the liberty to lead his life as he pleases. However, our courts have eschewed such wide interpretations. For example, Choo Han Teck J in _Lo Pui Sang v Mamata Kapildev Dav and Ors (Horizon Partners Pte Ltd intervener)_ <span class="citation">[2008] 4 SLR(R) 754</span> at [6] (“ _Lo Pui Sang_ ”) said: 
 
  ...I do not think that the phrase ‘personal liberty’ in Art 9 was a reference to a right of personal liberty to contract. It has always been understood to refer only to the personal liberty of the person against unlawful incarceration or detention. 
 
-Therefore, Art 9 of the Constitution has not been triggered. It should be noted that _Lo Pui Sang_ was overturned on appeal to the Court of Appeal. However, the Court of Appeal did not consider the constitutional issues that the High Court had considered, see _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ [2009] 3 SLR(R) 109 at [53]. 
+Therefore, Art 9 of the Constitution has not been triggered. It should be noted that _Lo Pui Sang_ was overturned on appeal to the Court of Appeal. However, the Court of Appeal did not consider the constitutional issues that the High Court had considered, see _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ <span class="citation">[2009] 3 SLR(R) 109</span> at [53]. 
 
 16     Article 12(1) reads: 
 
  All persons are equal before the law and entitled to the equal protection of the law. 
 
-According to the Court of Appeal in _Yong Vui Kong v Public Prosecutor_ [2010] 3 SLR 489 at [109] 
+According to the Court of Appeal in _Yong Vui Kong v Public Prosecutor_ <span class="citation">[2010] 3 SLR 489</span> at [109] 
 
 
-(applying _Nguyen Tuong Van v Public Prosecutor_ [2005] 1 SLR(R) 103 at [70]), s 377A’s differentiating measure would be consistent with Art 12(1) only if: (a) the classification was founded on an intelligible differentia; and (b) the differentia bears a rational relation to the object sought to be achieved by the law in question. On the arguments alone, this court is of the opinion that Tan’s case does engage Art 12(1). Although s 377A is founded on an intelligible differentia (because it applies to sexually-active male homosexuals), it is arguable that there is no social objective that can be furthered by criminalising male but not female homosexual intercourse. Therefore, _Colin Chan_ should apply. 
+(applying _Nguyen Tuong Van v Public Prosecutor_ <span class="citation">[2005] 1 SLR(R) 103</span> at [70]), s 377A’s differentiating measure would be consistent with Art 12(1) only if: (a) the classification was founded on an intelligible differentia; and (b) the differentia bears a rational relation to the object sought to be achieved by the law in question. On the arguments alone, this court is of the opinion that Tan’s case does engage Art 12(1). Although s 377A is founded on an intelligible differentia (because it applies to sexually-active male homosexuals), it is arguable that there is no social objective that can be furthered by criminalising male but not female homosexual intercourse. Therefore, _Colin Chan_ should apply. 
 
 17     Article 14 guarantees a citizen’s freedom of speech, assembly and association. Although Tan referred to Art 14 in his Notice of Appeal, his counsel made no written submissions on this ground. Consequently, there is no necessity to address it here. 
 
@@ -206,7 +206,7 @@ According to the Court of Appeal in _Yong Vui Kong v Public Prosecutor_ [2010] 3
 
 24     It is for the reason that there was no real controversy in issue here that this court affirms the decision made below and upholds the striking-out order. 
 
-25     There was no real controversy here because while there were specific facts involving specific parties, the facts were merely hypothetical. Granted, there were identifiable parties with the “motivation of self-interest” to make the diligent preparation identified by Abdul Hamid CJ as being essential to the adversarial trial. This however is insufficient. In _Salijah bte Ab Latef v Mohd Irwan bin Abdullah Teo_ [1996] 2 SLR(R) 80 at [60], Yong Pung How CJ held: 
+25     There was no real controversy here because while there were specific facts involving specific parties, the facts were merely hypothetical. Granted, there were identifiable parties with the “motivation of self-interest” to make the diligent preparation identified by Abdul Hamid CJ as being essential to the adversarial trial. This however is insufficient. In _Salijah bte Ab Latef v Mohd Irwan bin Abdullah Teo_ <span class="citation">[1996] 2 SLR(R) 80</span> at [60], Yong Pung How CJ held: 
 
  The primary consideration in this appeal is whether there is a real contest of the legal rights. The editors of Zamir and Woolf have identified one rationale for the reluctance of the courts to deal with theoretical issues that it distracts the courts from deciding real, subsisting problems. A stronger reason is that if there is in fact no real issue subsisting, then the matter would not be res judicata , nor the issue merged in judgment. In that event, it would be open for the issue to be reopened again and again. The need for the existence of a contested dispute is to ensure that there is finality in the court's judgments as well. 
 
@@ -231,13 +231,13 @@ According to the Court of Appeal in _Yong Vui Kong v Public Prosecutor_ [2010] 3
 
 **_Applicable law_** 
 
-28     The Court of Appeal in _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin & Ors_ [1997] 3 SLR(R) 649 at [21] emphasised that a high threshold of failure must be met before it would strike out a claim: 
+28     The Court of Appeal in _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin & Ors_ <span class="citation">[1997] 3 SLR(R) 649</span> at [21] emphasised that a high threshold of failure must be met before it would strike out a claim: 
 
  ...As long as the statement of claim discloses some cause of action, or raises some question fit to be decided at the trial, the mere fact that the case is weak and is not likely to succeed is no ground for striking it out... 
 
-29     Similarly, in _The Tokai Maru_ [1998] 2 SLR(R) 646 at [44], the Court of Appeal held: 
+29     Similarly, in _The Tokai Maru_ <span class="citation">[1998] 2 SLR(R) 646</span> at [44], the Court of Appeal held: 
 
- ...A reasonable defence means one which has some chance of success when only the allegations in the pleadings are considered: per Lord Pearson in Drummond-Jackson v British Medical Association [1970] 1 All ER 1094, cited with approval by Rubin J in Active Timber Agencies Pte Ltd v Allen & Gledhill [1995] 3 SLR(R) 334. The hearing of the application should not therefore involve a minute examination of the documents or the facts of the case in order to see whether there is a reasonable defence. To do that is to usurp the position of the trial judge and the result is a trial in chambers, on affidavits only, without discovery and without oral evidence tested by cross-examination in the ordinary way (see Wenlock v Moloney [1965] 2 All ER 871). The mere fact that the defence is weak and not likely to succeed is no ground for striking it out, so long as the pleadings raise some question to be decided by the court (see Attorney-General of The Duchy of Lancaster v London and North Western Railway Co [1892] 3 Ch 274). In short, the defence has to be obviously unsustainable on its face to justify an application to strike out. 
+ ...A reasonable defence means one which has some chance of success when only the allegations in the pleadings are considered: per Lord Pearson in Drummond-Jackson v British Medical Association [1970] 1 All ER 1094, cited with approval by Rubin J in Active Timber Agencies Pte Ltd v Allen & Gledhill <span class="citation">[1995] 3 SLR(R) 334</span>. The hearing of the application should not therefore involve a minute examination of the documents or the facts of the case in order to see whether there is a reasonable defence. To do that is to usurp the position of the trial judge and the result is a trial in chambers, on affidavits only, without discovery and without oral evidence tested by cross-examination in the ordinary way (see Wenlock v Moloney [1965] 2 All ER 871). The mere fact that the defence is weak and not likely to succeed is no ground for striking it out, so long as the pleadings raise some question to be decided by the court (see Attorney-General of The Duchy of Lancaster v London and North Western Railway Co [1892] 3 Ch 274). In short, the defence has to be obviously unsustainable on its face to justify an application to strike out. 
 
 
 **_Legal analysis_** 
@@ -254,7 +254,7 @@ According to the Court of Appeal in _Yong Vui Kong v Public Prosecutor_ [2010] 3
 
 **_Judicial power and jurisdiction_** 
 
-32     To grant declaratory relief, the courts have insisted that the declaration sought must be in relation to a vested right. Judith Prakash J held in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd_ [2006] 1 SLR(R) 112 at [25]: 
+32     To grant declaratory relief, the courts have insisted that the declaration sought must be in relation to a vested right. Judith Prakash J held in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd_ <span class="citation">[2006] 1 SLR(R) 112</span> at [25]: 
 
  ... CPR Part 40.20 is the rule reflecting the English court's power to grant declaratory reliefs. This is a new rule and it replaced the old rule that was in pari materia with our O 15 r 16 which, as it may be recalled, reads: 
 
@@ -265,7 +265,7 @@ According to the Court of Appeal in _Yong Vui Kong v Public Prosecutor_ [2010] 3
 33     Selvam J explained the reason for this requirement in _Singapore Airlines Limited & Anor v The_ 
 
 
-_Inland Revenue Authority of Singapore & the Comptroller of Income Tax_ [1999] 2 SLR(R) 1097 at [23]: 
+_Inland Revenue Authority of Singapore & the Comptroller of Income Tax_ <span class="citation">[1999] 2 SLR(R) 1097</span> at [23]: 
 
  That provision [Rules of Court O 15 r 16] does not mean that declaratory orders can be sought by all and sundry irrespective of whether there was a justiciable issue between the parties. It can be sought only by persons who have a right to enforce against a defendant or by persons who say that he himself is not liable. It is not the function or purpose of the courts to render legal opinion to indirect parties. 
 
@@ -290,7 +290,7 @@ The “appointed day” referred to under s 429(2)( _a_ ) of the CPC 2010 is 2 J
 37     Returning to the issue of whether avoidance of s 56A is an abuse of process, four questions should be considered. The first one is whether s 56A even applies in the first place. In _Ng Chye Huey_ 
 
 
-_and another v Public Prosecutor_ [2007] 2 SLR(R) 106 the court held: 
+_and another v Public Prosecutor_ <span class="citation">[2007] 2 SLR(R) 106</span> the court held: 
 
  17 ...These jurisdictional rules are essential to the orderly conduct of litigation in our courts. Without a sufficiently clear delineation of the respective spheres of dominion of each level of our hierarchy of our courts, chaos would inevitably result as parties seek, willy-nilly and solely for their own advantage, to bring their applications before different levels of court in an instrumental, haphazard and legally unprincipled fashion 
 
@@ -302,13 +302,13 @@ Tan had argued that s 56A did not apply because there were no existing criminal 
 
  Finally, Sir, clause 22 empowers a Subordinate Court to refer any constitutional issue arising in an action before it to the High Court for determination. This is only right because a Subordinate Court is not the appropriate forum to determine such an issue. Provision is made for the Attorney-General to be heard on any such issue. 
 
-Yong Pung How CJ noted in _Chan Hiang Leng Colin and Others v Public Prosecutor_ [1994] 3 SLR(R) 209 at [8]: 
+Yong Pung How CJ noted in _Chan Hiang Leng Colin and Others v Public Prosecutor_ <span class="citation">[1994] 3 SLR(R) 209</span> at [8]: 
 
  A crucial aspect of this case was the fact that the lower court was a Subordinate Court and this court was of course now sitting as an appellate court. The jurisdiction of the District Court was limited, as there was no provision in the Subordinate Courts Act (Cap 321) which was equivalent to para 1 of the First Schedule to the Supreme Court of Judicature Act (Cap 322) ("SCJA") which conferred upon the High Court the power of judicial review. As such, the District Court could not have determined the constitutional issues raised. 
 
 Professor Jayakumar and Yong CJ’s words only go to show why it is necessary to make a constitutional reference – because the Subordinate Courts lack the jurisdiction to adjudicate upon such matters. There was no mention that the reference procedure is exclusive. 
 
-39     Then again, despite there being no clear evidence, it is arguable that a purposive reading of s 56A and its related case-law indicates an exclusive regime. Tay Yong Kwang J ruled in _Johari bin Kanadi and another v Public Prosecutor_ [2008] 3 SLR(R) 422 at [9] that: 
+39     Then again, despite there being no clear evidence, it is arguable that a purposive reading of s 56A and its related case-law indicates an exclusive regime. Tay Yong Kwang J ruled in _Johari bin Kanadi and another v Public Prosecutor_ <span class="citation">[2008] 3 SLR(R) 422</span> at [9] that: 
 
  ...This discretion, properly exercised after judicial consideration of the merits of the application, will prevent unnecessary delay and possible abuse every time a party in the proceedings purports to raise an issue of constitutional interpretation and effect. 
 

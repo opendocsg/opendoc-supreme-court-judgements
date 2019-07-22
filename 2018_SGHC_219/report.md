@@ -288,7 +288,7 @@ _Overview_
 
  7. Except as authorised by this Act, it shall be an offence for a person to import into or export from Singapore a controlled drug. 
 
-44     There are two elements to this offence ( _Ng Kwok Chun and another v Public Prosecutor_ [1992] 3 SLR(R) 256 at [15] and [39]): 
+44     There are two elements to this offence ( _Ng Kwok Chun and another v Public Prosecutor_ <span class="citation">[1992] 3 SLR(R) 256</span> at [15] and [39]): 
 
  (a) the drug was brought into Singapore without prior authorisation; and 
 
@@ -304,7 +304,7 @@ _Knowledge of the nature of the drugs_
 
 **18.** —(2) Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug. 
 
-Under s 18(2) of the MDA, an accused is presumed to know the nature of drugs in his possession. In this regard, the Court of Appeal has stated in _Obeng Comfort v Public Prosecutor_ [2017] 1 SLR 633 at [37]: 
+Under s 18(2) of the MDA, an accused is presumed to know the nature of drugs in his possession. In this regard, the Court of Appeal has stated in _Obeng Comfort v Public Prosecutor_ <span class="citation">[2017] 1 SLR 633</span> at [37]: 
 
  ... The court assesses the accused’s evidence as to his subjective knowledge by comparing it with what an ordinary, reasonable person would have known or done if placed in the same situation that the accused was in. If such an ordinary, reasonable person would surely have known or taken steps to establish the nature of the drug in question, the accused would have to adduce evidence to persuade the court that nevertheless he, for reasons special to himself or to his situation, did not have such knowledge or did not take such steps. It would then be for the court to assess the credibility of the accused’s account on a balance of probabilities. 
 
@@ -325,7 +325,7 @@ helmets contained. [note: 72] Although he claimed that he did not have the oppor
 
 he trusted “Ah De”. [note: 73] However, there was no reason for Khor to trust “Ah De” either, so as to rely on the assurances by “Ah De” (including assurances that he would only be dealing with “soft drugs”). There was no evidence that their relationship had been close. On Khor’s own evidence, the extent of their relationship was that they had “met a few times and had a few chats”. Moreover, prior to embarking on his fourth delivery, Khor had asked “Lao Ban” to remove “Ah De” as a middleman as Khor felt that “Ah De” was “leeching [his] earnings and taking too much from [him]”. 
 
-52     Khor said that his belief that he was carrying only “soft drugs” was also “based on [his] previous three experiences” delivering drugs for “Lao Ban”. In this connection, counsel for Khor referred me to _Khor Soon Lee v Public Prosecutor_ [2011] 3 SLR 201 (“ _Khor Soon Lee_ ”) which involved an appellant who denied knowledge of the nature of the drugs he had imported – a capital amount of diamorphine. In that case, the Court of Appeal held that the appellant had succeeded in rebutting the presumption of knowledge under s 18(2) of the MDA because there had been a consistent pattern of prior deliveries involving only controlled drugs that did not carry the sanction of capital punishment. 
+52     Khor said that his belief that he was carrying only “soft drugs” was also “based on [his] previous three experiences” delivering drugs for “Lao Ban”. In this connection, counsel for Khor referred me to _Khor Soon Lee v Public Prosecutor_ <span class="citation">[2011] 3 SLR 201</span> (“ _Khor Soon Lee_ ”) which involved an appellant who denied knowledge of the nature of the drugs he had imported – a capital amount of diamorphine. In that case, the Court of Appeal held that the appellant had succeeded in rebutting the presumption of knowledge under s 18(2) of the MDA because there had been a consistent pattern of prior deliveries involving only controlled drugs that did not carry the sanction of capital punishment. 
 
 53     However, the specific facts and circumstances of that case were – as the Court of Appeal itself took great pains to stress – “rather unusual” and “finely balanced” (at [29]). There had been a significant number of prior deliveries that involved only Erimin, Ketamine, Ice, and Ecstasy. Further, the appellant had directly asked the drug supplier, one Tony, whether he would be carrying diamorphine as he was afraid of the death penalty, and was assured that there was no diamorphine involved. 
 
@@ -358,7 +358,7 @@ _Knowledge of the quantity of the drugs_
 
 59     Besides denying knowledge that he was carrying diamorphine, Khor also said that he had thought the _quantity_ of drugs involved was not such as to attract the death penalty. In fact, Khor had raised this point in the cautioned statement, and was fairly consistent in taking this position in his statements and at trial. 
 
-60     In this regard, counsel for Khor referred me to _Public Prosecutor v Muhammad Farid bin Mohd Yusop_ [2015] 3 SLR 16 (“ _Muhammad Farid_ ”). In that case, the Court of Appeal upheld the trial judge’s decision that it was reasonable for the respondent to have expected that the weight of the methamphetamine trafficked in was not more than 250g as the three prior deliveries that the respondent had made all involved quantities of less than 250g. He was not wilfully blind in doing so. I did not consider _Muhammad Farid_ to be of any assistance to Khor as the facts of _Muhammad Farid_ are quite different from the facts of the present case. In _Muhammad Farid_ , there was an agreement with the drug supplier that the weight of the drugs for each delivery would not exceed 250g, and the 
+60     In this regard, counsel for Khor referred me to _Public Prosecutor v Muhammad Farid bin Mohd Yusop_ <span class="citation">[2015] 3 SLR 16</span> (“ _Muhammad Farid_ ”). In that case, the Court of Appeal upheld the trial judge’s decision that it was reasonable for the respondent to have expected that the weight of the methamphetamine trafficked in was not more than 250g as the three prior deliveries that the respondent had made all involved quantities of less than 250g. He was not wilfully blind in doing so. I did not consider _Muhammad Farid_ to be of any assistance to Khor as the facts of _Muhammad Farid_ are quite different from the facts of the present case. In _Muhammad Farid_ , there was an agreement with the drug supplier that the weight of the drugs for each delivery would not exceed 250g, and the 
 
 
 respondent had _himself weighed_ the drugs he received to ascertain their gross weight (at [32]). 
@@ -404,9 +404,9 @@ _Overview_
 
  12. Any person who abets the commission of or who attempts to commit or does any act preparatory to, or in furtherance of, the commission of any offence under this Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for that offence. 
 
-66     The elements of the primary offence of possession for the purpose of trafficking are (a) possession of a controlled drug; (b) knowledge of the nature of the drug; (c) proof that possession of the drug was for the purpose of trafficking which was not authorised ( _Muhammad Ridzuan bin Md Ali v Public Prosecutor_ [2014] 3 SLR 721 at [59]). 
+66     The elements of the primary offence of possession for the purpose of trafficking are (a) possession of a controlled drug; (b) knowledge of the nature of the drug; (c) proof that possession of the drug was for the purpose of trafficking which was not authorised ( _Muhammad Ridzuan bin Md Ali v Public Prosecutor_ <span class="citation">[2014] 3 SLR 721</span> at [59]). 
 
-67     The elements of the offence of attempt under s 12 of the MDA are the same as those for the general offence of attempt under s 511 of the Penal Code (Cap 224, 2008 Rev Ed) ( _Public Prosecutor v Mas Swan Bin Adnan and another appeal_ [2012] 3 SLR 527 at [37]). Applying therefore the principles for the general offence of attempt, the _mens rea_ to be proved is the intention to commit the primary offence; _ie_ , intention to possess not less than 18.62g of diamorphine for the purpose of trafficking. The _actus reus_ to be proved is that the accused has undertaken steps toward the commission of the offence such that it might be said that he had “embarked on the crime proper” ( _Chua Kian Kok v Public Prosecutor_ [1999] 1 SLR(R) 826 at [36]). 
+67     The elements of the offence of attempt under s 12 of the MDA are the same as those for the general offence of attempt under s 511 of the Penal Code (Cap 224, 2008 Rev Ed) ( _Public Prosecutor v Mas Swan Bin Adnan and another appeal_ <span class="citation">[2012] 3 SLR 527</span> at [37]). Applying therefore the principles for the general offence of attempt, the _mens rea_ to be proved is the intention to commit the primary offence; _ie_ , intention to possess not less than 18.62g of diamorphine for the purpose of trafficking. The _actus reus_ to be proved is that the accused has undertaken steps toward the commission of the offence such that it might be said that he had “embarked on the crime proper” ( _Chua Kian Kok v Public Prosecutor_ <span class="citation">[1999] 1 SLR(R) 826</span> at [36]). 
 
 68     It was undisputed that Han was not authorised to possess or traffic in any controlled drug. Accordingly, in order to make out the charge the following must be proved beyond a reasonable doubt: 
 

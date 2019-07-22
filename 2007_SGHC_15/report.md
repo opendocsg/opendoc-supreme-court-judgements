@@ -59,7 +59,7 @@ mentioned, Hussin was killed while his pillion rider, Ari, sustained serious inj
 
 12     For the purpose of determining whether Ong is wholly to blame for the accident, his convictions under s 304A for causing Hussin’s death and under s 338 of the Penal Code for causing serious injury to Ari are relevant in the present proceedings in view of s 45A of the Evidence Act (Cap 97, 1999 Rev Ed) (“the Evidence Act”), which reversed the rule in _Hollington v F Hewthorn and Company, Limited_ [1943] 1 KB 587. 
 
-13     Section 45A, which was extensively discussed by Andrew Phang J (as he then was), in _Ong Bee Nah v Won Siew Wan (Yong Tian Choy, Third Party)_ [2005] 2 SLR 455, provides as follows: 
+13     Section 45A, which was extensively discussed by Andrew Phang J (as he then was), in _Ong Bee Nah v Won Siew Wan (Yong Tian Choy, Third Party)_ <span class="citation">[2005] 2 SLR 455</span>, provides as follows: 
 
 
  Relevance of convictions and acquittals: 

@@ -128,7 +128,7 @@ condition that the final amount [was] settled amicably”. [note: 35] Negotiatio
 
 line” was its 8 December 2015 claim to justify its call on the Bond. [note: 38] I therefore set out Sato Kogyo’s claim as of that date in the context of the following table (which I examine below from [10]): [note: 39] 
 
-9       Before turning to the arguments, I pause to recount some principles in law relating to the issue of unconscionability as canvassed in _Eltraco International Pte Ltd v CGH Development Pte Ltd_ [2000] 3 SLR(R) 198 (“ _Eltraco_ ”) and _BS Mount Sophia Pte Ltd v Join-Aim Pte Ltd_ [2012] 3 SLR 352 (“ _Mount Sophia_ ”): 
+9       Before turning to the arguments, I pause to recount some principles in law relating to the issue of unconscionability as canvassed in _Eltraco International Pte Ltd v CGH Development Pte Ltd_ <span class="citation">[2000] 3 SLR(R) 198</span> (“ _Eltraco_ ”) and _BS Mount Sophia Pte Ltd v Join-Aim Pte Ltd_ <span class="citation">[2012] 3 SLR 352</span> (“ _Mount Sophia_ ”): 
 
  (a) First, parties were expected to “abide by the deal they have struck”: see Eltraco at [30]. Hence, courts “should be slow to upset the status quo and disrupt the allocation of risk which the parties had decided upon for themselves” [emphasis added]: see Mount Sophia at [25]. 
 
@@ -194,7 +194,7 @@ Kogyo had unconscionably included items that clearly fell beyond Tactic’s scop
 
 18     Moreover, as noted in _Mount Sophia_ at [37] and [45], the parties’ conduct leading up to a call on a bond and the presence of notice were all relevant considerations. And in the present case, the fact that Sato Kogyo had negotiated with Tactic over this entire period and offered to discount its claim in June 2016 and August 2016 strongly militated against any finding of bad faith (see [8] above). It also could not be said that Tactic was ambushed by Sato Kogyo’s demand on 3 October 2016 given that Sato Kogyo had indicated that it might call on the Bond since May 2014 (see [5] above). 
 
-19     As a parting point, it ought to be emphasised that the Bond was an **_on-demand_** bond (see [3] above) that Sato Kogyo had the right to call on, subject to limited exceptions like fraud and unconscionability. As noted in _York International Pte Ltd v Voltas Ltd_ [2013] 3 SLR 1142 at [32], a performance bond was a mechanism by which parties redistributed the risk of _inter alia_ insolvency. Where the parties had agreed on the allocation of risk, the court should not lightly interfere with the parties’ agreement (see [9(a)] above). This principle applied here where one of the parties was undergoing liquidation, which was the case for Tactic. 
+19     As a parting point, it ought to be emphasised that the Bond was an **_on-demand_** bond (see [3] above) that Sato Kogyo had the right to call on, subject to limited exceptions like fraud and unconscionability. As noted in _York International Pte Ltd v Voltas Ltd_ <span class="citation">[2013] 3 SLR 1142</span> at [32], a performance bond was a mechanism by which parties redistributed the risk of _inter alia_ insolvency. Where the parties had agreed on the allocation of risk, the court should not lightly interfere with the parties’ agreement (see [9(a)] above). This principle applied here where one of the parties was undergoing liquidation, which was the case for Tactic. 
 
 20     Accordingly, I granted Sato Kogyo’s application to set aside the Injunction. [note: 63] I decided 
 

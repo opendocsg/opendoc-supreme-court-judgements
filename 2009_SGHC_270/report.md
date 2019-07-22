@@ -160,7 +160,7 @@ loss so as to be entitled to damages. _McGregor on Damages_ (Sweet & Maxwell, 18
 
  A c laimant c laiming damages must prove his c ase. To justify an award of substantial damages he must satisfy the c ourt both as to the fac t of damage and as to its amount. If he satisfies the c ourt on neither, his ac tion will fail, or at the most he will be awarded nominal damages where a right has been infringed. If the fac t of damage is shown but no evidenc e is given as to its amount so that it is virtually impossible to assess damages, this will generally permit only an award of nominal damages; this situation is illustrated by Dixon v Deveridge and Twyman v Knowles. 
 
-31     The Court of Appeal in _Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd_ [2008] 2 SLR 623 at [27] quoted with approval the same passage in [30] from _McGregor On_ 
+31     The Court of Appeal in _Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd_ <span class="citation">[2008] 2 SLR 623</span> at [27] quoted with approval the same passage in [30] from _McGregor On_ 
 
 _Damages_ , 17th Ed, para 8-001. Andrew Phang JA noted further that: 
 

@@ -96,7 +96,7 @@ controlled drug listed in the First Schedule to the MDA. [note: 21]
 
  431g to 500g 26 to 29 years’ imprisonment 
 
-11     For sentencing, the Prosecution relied principally on the recent Court of Appeal case of _Suventher Shanmugam v Public Prosecutor_ [2017] SGCA 25 (“ _Suventher_ ”) and submitted that the 
+11     For sentencing, the Prosecution relied principally on the recent Court of Appeal case of _Suventher Shanmugam v Public Prosecutor_ <span class="citation">[2017] SGCA 25</span> (“ _Suventher_ ”) and submitted that the 
 
 appropriate sentence should be at least 26 years’ imprisonment and 15 strokes of the cane. [note: 22] The Prosecution highlighted two aggravating factors. First, the accused recruited and paid Nor and 
 

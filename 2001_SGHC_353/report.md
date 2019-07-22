@@ -663,7 +663,7 @@ Mr Kung argued that under s 18(1) of the CLPA the notice from Dennis Singham mus
 
 details of the breach by Honey and this was not done. 
 
-In **Lee Tat Realty v Limco Products Manufacturing** [1999] 1 SLR 263 , Chao Hick Tin J (as he then 
+In **Lee Tat Realty v Limco Products Manufacturing** <span class="citation">[1999] 1 SLR 263</span> , Chao Hick Tin J (as he then 
 
 was) said that a valid notice under s 18(1) of the CLPA must contain sufficient particulars of the 
 

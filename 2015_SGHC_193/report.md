@@ -326,7 +326,7 @@ know or could not reasonably have known that the bundles in his possession conta
 
 25     The Prosecution tendered the certificate of substantive assistance. [note: 43] It agreed that the evidence showed that the accused’s role was that of a courier in the drug delivery. 
 
-26     I agree, on a balance of probabilities, that the accused’s role was that of a courier. His involvement in the offence was restricted to transporting and delivering the drugs. Based on the evidence, his involvement was limited to conveying drugs from point A to point B: see _Public Prosecutor v Abdul Haleem bin Abdul Karim and another_ [2013] 3 SLR 734 (“ _Abdul Haleem_ ”) at [51] and _Public Prosecutor v Chum Tat Suan and another_ [2015] 1 SLR 834 at [63] (“ _Chum Tat Suan_ ”). 
+26     I agree, on a balance of probabilities, that the accused’s role was that of a courier. His involvement in the offence was restricted to transporting and delivering the drugs. Based on the evidence, his involvement was limited to conveying drugs from point A to point B: see _Public Prosecutor v Abdul Haleem bin Abdul Karim and another_ <span class="citation">[2013] 3 SLR 734</span> (“ _Abdul Haleem_ ”) at [51] and _Public Prosecutor v Chum Tat Suan and another_ <span class="citation">[2015] 1 SLR 834</span> at [63] (“ _Chum Tat Suan_ ”). 
 
 27     In _Chum Tat Suan_ , the Court of Appeal held at [68] that acts “necessary for transporting, sending or delivering the drugs cannot include packing, for instance, as packing is not a necessary element of moving an object from one point to another”. Nevertheless, I was satisfied that the accused’s participation in packing the bundles did not disentitle him from claiming to be only a courier. 
 

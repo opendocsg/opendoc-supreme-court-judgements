@@ -106,7 +106,7 @@ _Findings of the Disciplinary Committee_
 **Whether the Disciplinary Committee erred in preferring the Complainants’ evidence** 
 
 
-22     Since the Complainants and Quan clearly had conflicting versions of what happened, the first issue that concerned the Court was whether the Disciplinary Committee had erred in preferring the Complainants’ evidence over that of Quan and his witnesses. In this respect, it is trite law that as regards the credibility of witnesses, a Court which has not had the advantage of observing those witnesses would be slow to disturb the assessment of the judge below, unless he was plainly wrong: see _Clark v Edinburgh & District Tramways Co Ltd_ [1919] SC (HL) 35 _,_ applied by the Singapore Court in _Peh Eng Leng v Pek Eng Leong_ [1996] 2 SLR 305. 
+22     Since the Complainants and Quan clearly had conflicting versions of what happened, the first issue that concerned the Court was whether the Disciplinary Committee had erred in preferring the Complainants’ evidence over that of Quan and his witnesses. In this respect, it is trite law that as regards the credibility of witnesses, a Court which has not had the advantage of observing those witnesses would be slow to disturb the assessment of the judge below, unless he was plainly wrong: see _Clark v Edinburgh & District Tramways Co Ltd_ [1919] SC (HL) 35 _,_ applied by the Singapore Court in _Peh Eng Leng v Pek Eng Leong_ <span class="citation">[1996] 2 SLR 305</span>. 
 
 23     Having due regard to this principle, we were not able to say that the Disciplinary Committee was plainly wrong in accepting the Complainants’ evidence in preference to that of Quan. The Disciplinary Committee was justified in considering that Quan’s supporting witnesses (Corin and Low) were not disinterested witnesses. As such, they were entitled to prefer the Complainants’ version of events and this Court proceeded to determine whether the charges were made out on the basis of those facts. 
 
@@ -176,7 +176,7 @@ $10. As such, the payments fell outside the scope of Rule 7(1)(i). The Court not
 
 **The appropriate penalty** 
 
-34     We then turned to the issue of the appropriate penalty. Under s 83(1) of the Act, the penalty that may be imposed ranges from censure to suspension up to five (5) years to striking-off. The considerations to bear in mind when deciding the appropriate penalty were amply set out in _Law Society of Singapore v Ravindra Samuel_ [1999] 1 SLR 696 where the Court, in deciding whether to opt for suspension or striking-off, made the following observation:
+34     We then turned to the issue of the appropriate penalty. Under s 83(1) of the Act, the penalty that may be imposed ranges from censure to suspension up to five (5) years to striking-off. The considerations to bear in mind when deciding the appropriate penalty were amply set out in _Law Society of Singapore v Ravindra Samuel_ <span class="citation">[1999] 1 SLR 696</span> where the Court, in deciding whether to opt for suspension or striking-off, made the following observation:
 
  (1) where a solicitor has acted dishonestly, the court will order that he be struck off the roll of solicitors; 
 

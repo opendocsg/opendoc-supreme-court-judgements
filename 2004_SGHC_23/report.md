@@ -173,7 +173,7 @@ and contingent liability, the liability to repay the Khatchadourian loan and int
 
 **Whether there was a transaction between the plaintiff and the defendant** 
 
-33     The Court of Appeal in _Mercator & Noordstar NV v Velstra Pte Ltd (in liquidation)_ [2003] 4 SLR 667 dealt with the correct interpretation of “transaction”. By the definition in s 2(1) of the Bankruptcy Act it would include gifts, agreements and arrangements. 
+33     The Court of Appeal in _Mercator & Noordstar NV v Velstra Pte Ltd (in liquidation)_ <span class="citation">[2003] 4 SLR 667</span> dealt with the correct interpretation of “transaction”. By the definition in s 2(1) of the Bankruptcy Act it would include gifts, agreements and arrangements. 
 
 34     The court had to decide whether a simple payment can be a transaction. The decision of Robert Englehart QC in _Re Taylor Sinclair (Capital) Ltd (in liquidation)_ [2001] 2 BCLC 176 was considered. In that case it was held at [20] that: 
 

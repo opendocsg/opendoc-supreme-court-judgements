@@ -150,7 +150,7 @@ His Lordship then concluded (at pp 90-91):
 
 A pertinent EPO case relied upon by the House of Lords in **_Merrell Dow_** was **Availability to the Public Decision G01/92** [1993] EPOR 241 where the Enlarged Board of Appeal held that the composition or internal structure of a product becomes part of the state of the art if it is possible for a skilled person to discover it and reproduce it without undue burden. 
 
-In **Merck & Co Inc v Pharmaforte Singapore Pte Ltd** [2000] 3 SLR 717 , this court, having considered the authorities, concluded that for a prior publication to anticipate the patent it must be established that following the teachings in the prior publication would inevitably lead to the invention covered by the patent. The prior disclosure must not only identify the subject matter of the claim in the later patent, it must do so in a way that enables the skilled man to make or obtain it, a kind of enabling disclosure. 
+In **Merck & Co Inc v Pharmaforte Singapore Pte Ltd** <span class="citation">[2000] 3 SLR 717</span> , this court, having considered the authorities, concluded that for a prior publication to anticipate the patent it must be established that following the teachings in the prior publication would inevitably lead to the invention covered by the patent. The prior disclosure must not only identify the subject matter of the claim in the later patent, it must do so in a way that enables the skilled man to make or obtain it, a kind of enabling disclosure. 
 
 Finally, we would refer to an early case, **Hills v Evans** [1862] 31 LJ Ch 457 at 463, where Lord Westbury LC set out the test to apply to determine whether the disclosure, contained in a prior document, is such as to invalidate a subsequent invention, in these terms: 
 

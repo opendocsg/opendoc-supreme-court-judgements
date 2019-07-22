@@ -28,7 +28,7 @@ _Evidence_ – _Adverse inference_
 
 _Criminal procedure and sentencing_ – _Sentencing_ – _Sexual offences_ 
 
-[LawNet Editorial Note: The appeal in Criminal Appeal No 11 of 2018 was dismissed by the Court of Appeal on 22 February 2019. See [2019] SGCA 12.] 
+[LawNet Editorial Note: The appeal in Criminal Appeal No 11 of 2018 was dismissed by the Court of Appeal on 22 February 2019. See <span class="citation">[2019] SGCA 12</span>.] 
 
 21 May 2018 
 
@@ -111,7 +111,7 @@ event corroborated by other evidence. [note: 17]
 
 was consistent with other evidence, and therefore should be accepted as accurate. [note: 18] There were numerous factors that supported the Victim’s account of the events, including the timing at which these events took place. These included travel records from the Immigration & Checkpoints Authority (“ICA”). Based on the Victim’s date of birth and her testimony of the chronology of events, she was below the age of 14 at the material time of all seven charges. 
 
-12     In relation to the Victim’s failure to resist the Accused’s sexual advances and delay in making the police report, the Prosecution argued that these should not be held against her. Citing the case of _GBR v Public Prosecutor and another appeal_ [2018] 3 SLR 1048 (“ _GBR_ ”) at [20], the Prosecution submitted that victims of sexual crimes should not be straightjacketed in the expectation that they had to react in a particular manner. The Victim’s behaviour had to be considered against her level of maturity and the position of the Accused. In addition, the Victim had given a credible explanation for her inaction in the face of the offences committed by the Accused; in particular, that she had been concerned over the possibility of getting kicked out of the private rope skipping team should she 
+12     In relation to the Victim’s failure to resist the Accused’s sexual advances and delay in making the police report, the Prosecution argued that these should not be held against her. Citing the case of _GBR v Public Prosecutor and another appeal_ <span class="citation">[2018] 3 SLR 1048</span> (“ _GBR_ ”) at [20], the Prosecution submitted that victims of sexual crimes should not be straightjacketed in the expectation that they had to react in a particular manner. The Victim’s behaviour had to be considered against her level of maturity and the position of the Accused. In addition, the Victim had given a credible explanation for her inaction in the face of the offences committed by the Accused; in particular, that she had been concerned over the possibility of getting kicked out of the private rope skipping team should she 
 
 report or resist the Accused’s sexual advances. [note: 19] 
 
@@ -179,7 +179,7 @@ Accused’s flat did not show any evidence of a bedroom with two single beds. [n
 
 21     Further, according to the Defence, little weight should be placed on the Statement as it was given by the Accused under a threat made by DSP Razif to the effect that the Accused would have to stay in the lock-up overnight, that he would be kept locked up and that his children would be sent 
 
-to a foster home. [note: 42] The Accused was also subject to oppressive conditions when he was in the lock-up. The failure of DSP Razif to inform the Accused of his right not to say anything that would expose him to a criminal charge should also lead to the Statement being given little weight. The Defence argued that the Court of Appeal decisions in _Public Prosecutor v Mazlan bin Maidun and another_ [1992] 3 SLR(R) 968 (“ _Mazlan_ ”) and _Lim Thian Lai v Public Prosecutor_ [2006] 1 SLR(R) 319 (“ _Lim Thian Lai_ ”) which held that the recording officer need not inform a suspect or an accused of his 
+to a foster home. [note: 42] The Accused was also subject to oppressive conditions when he was in the lock-up. The failure of DSP Razif to inform the Accused of his right not to say anything that would expose him to a criminal charge should also lead to the Statement being given little weight. The Defence argued that the Court of Appeal decisions in _Public Prosecutor v Mazlan bin Maidun and another_ <span class="citation">[1992] 3 SLR(R) 968</span> (“ _Mazlan_ ”) and _Lim Thian Lai v Public Prosecutor_ <span class="citation">[2006] 1 SLR(R) 319</span> (“ _Lim Thian Lai_ ”) which held that the recording officer need not inform a suspect or an accused of his 
 
 or her legal right to remain silent should be re-examined. [note: 43] 
 
@@ -249,7 +249,7 @@ later, [note: 53] and only confided in two of her former boyfriends and a US rel
 
 because of any inherent improbabilities. 
 
-30     I accepted that victims of sexual offences may not behave in a stereotypical way. Many victims report their sexual abuse early to a family member, friend, the police, or other person in authority. However, there is no general rule requiring victims of sexual offences to report the offences immediately or in a timely fashion. Instead, the explanation for any such delay in reporting is to be considered and assessed by the court on a case-by-case basis (see _DT v Public Prosecutor_ [2001] 2 SLR(R) 583 at [62]; _Tang Kin Seng v Public Prosecutor_ [1996] 3 SLR(R) 444 at [79]). While I accept that an omission to report the offence in a timely fashion, in the absence of other evidence, may in certain circumstances make it difficult to establish a case against the accused beyond reasonable doubt, I emphasise that the effect of any delay in reporting always falls to be assessed on the specific facts of each individual case. 
+30     I accepted that victims of sexual offences may not behave in a stereotypical way. Many victims report their sexual abuse early to a family member, friend, the police, or other person in authority. However, there is no general rule requiring victims of sexual offences to report the offences immediately or in a timely fashion. Instead, the explanation for any such delay in reporting is to be considered and assessed by the court on a case-by-case basis (see _DT v Public Prosecutor_ <span class="citation">[2001] 2 SLR(R) 583</span> at [62]; _Tang Kin Seng v Public Prosecutor_ <span class="citation">[1996] 3 SLR(R) 444</span> at [79]). While I accept that an omission to report the offence in a timely fashion, in the absence of other evidence, may in certain circumstances make it difficult to establish a case against the accused beyond reasonable doubt, I emphasise that the effect of any delay in reporting always falls to be assessed on the specific facts of each individual case. 
 
 31     The Victim’s behaviour in the present case in continuing with her rope skipping training with the Accused until 2010 may at first blush seem odd given that she was the victim of repeated sexual abuse. So was the fact that after one instance of sexual intercourse, she went on to go for training 
 
@@ -272,7 +272,7 @@ her family or the police as she felt ashamed. [note: 57]
 
 _Whether evidence is unusually convincing_ 
 
-35     If the complainant’s evidence is accepted, the next question is then whether the complainant’s evidence in itself is sufficient to convict the accused person of the charges. The complainant’s evidence must be unusually convincing to overcome any doubts that might arise from the lack of corroboration, in order for the accused to be convicted of the offence based on the complainant’s testimony alone (see _AOF v Public Prosecutor_ [2012] 3 SLR 34 (“ _AOF_ ”) at [111]; _Haliffie bin Mamat v Public Prosecutor and other appeals_ [2016] 5 SLR 636 at [27]–[30]; _XP v Public Prosecutor_ [2008] 4 SLR(R) 686 at [31]). In some cases, the complainant’s evidence is unusually convincing. In other instances, the complainant’s evidence is insufficient on its own to bring the case over the threshold. As the Court of Appeal stated in _AOF_ at [115], in determining if a complainant’s testimony is unusually convincing, the demeanour of the witness is to be weighed alongside both the internal and external consistencies found in the witness’s testimony. Ultimately, the sufficiency of the complainant’s testimony to prove the case against the accused beyond reasonable doubt is to be considered, which is an inquiry that is both factual and one which is a question of judgment on the part of the trial judge (see _Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ [2008] 1 SLR(R) 601 at [39]). 
+35     If the complainant’s evidence is accepted, the next question is then whether the complainant’s evidence in itself is sufficient to convict the accused person of the charges. The complainant’s evidence must be unusually convincing to overcome any doubts that might arise from the lack of corroboration, in order for the accused to be convicted of the offence based on the complainant’s testimony alone (see _AOF v Public Prosecutor_ <span class="citation">[2012] 3 SLR 34</span> (“ _AOF_ ”) at [111]; _Haliffie bin Mamat v Public Prosecutor and other appeals_ <span class="citation">[2016] 5 SLR 636</span> at [27]–[30]; _XP v Public Prosecutor_ <span class="citation">[2008] 4 SLR(R) 686</span> at [31]). In some cases, the complainant’s evidence is unusually convincing. In other instances, the complainant’s evidence is insufficient on its own to bring the case over the threshold. As the Court of Appeal stated in _AOF_ at [115], in determining if a complainant’s testimony is unusually convincing, the demeanour of the witness is to be weighed alongside both the internal and external consistencies found in the witness’s testimony. Ultimately, the sufficiency of the complainant’s testimony to prove the case against the accused beyond reasonable doubt is to be considered, which is an inquiry that is both factual and one which is a question of judgment on the part of the trial judge (see _Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">[2008] 1 SLR(R) 601</span> at [39]). 
 
 36     Here, the Victim’s testimony was, on the whole, believable and credible; she maintained her version of events in cross-examination, and I did not find that her evidence was to be doubted in the circumstances, particularly considering the passage of time. Any inconsistency between the Victim’s testimony at trial and the first information report concerning the timeline of events was minor and not material. 
 
@@ -328,24 +328,24 @@ also the first time the Victim had sexual intercourse. [note: 72] Such absence o
 
 _Motive to fabricate_ 
 
-44     The Prosecution argued that there was no motive to fabricate allegations against the Accused on the part of the Victim. In any case, based on _Goh Han Heng v Public Prosecutor_ [2003] 4 SLR(R) 374, there was no requirement for the Prosecution to prove that the Victim had no motive to falsely 
+44     The Prosecution argued that there was no motive to fabricate allegations against the Accused on the part of the Victim. In any case, based on _Goh Han Heng v Public Prosecutor_ <span class="citation">[2003] 4 SLR(R) 374</span>, there was no requirement for the Prosecution to prove that the Victim had no motive to falsely 
 
-implicate the Accused since the Accused had not identified any motive for the Victim to do so. [note: 73] The Defence on the other hand, citing _Khoo Kwoon Hain v Public Prosecutor_ [1995] 2 SLR(R) 591 
+implicate the Accused since the Accused had not identified any motive for the Victim to do so. [note: 73] The Defence on the other hand, citing _Khoo Kwoon Hain v Public Prosecutor_ <span class="citation">[1995] 2 SLR(R) 591</span> 
 
-and _Loo See Mei v Public Prosecutor_ [2004] 2 SLR(R) 27, argued that lack of motive on the part of a victim to fabricate allegations against the accused person is not sufficient to find the accused person 
+and _Loo See Mei v Public Prosecutor_ <span class="citation">[2004] 2 SLR(R) 27</span>, argued that lack of motive on the part of a victim to fabricate allegations against the accused person is not sufficient to find the accused person 
 
 guilty of the charges. [note: 74] In addition, according to the Defence, in order for the Prosecution to make a negative assertion that there was a lack of motive on the part of the Victim to make fabrications of sexual assault against the Accused, the burden fell on the Prosecution to adduce credible evidence to this effect. The Defence thus argued that it did not bear the burden of proving 
 
 that the Victim had some reason to make false allegations against the Accused. [note: 75] 
 
-45     It is useful at this juncture to consider the case law cited by the parties. In _Khoo Kwoon Hain v Public Prosecutor_ [1995] 2 SLR(R) 591, Yong Pung How CJ held at [71] that the burden of proving a lack of motive to falsely implicate the accused is on the Prosecution, and that reliance on the complainant’s word that he or she had no reason to falsely implicate the accused was not a ground to believe the complainant’s testimony due to the circularity of such reasoning. 
+45     It is useful at this juncture to consider the case law cited by the parties. In _Khoo Kwoon Hain v Public Prosecutor_ <span class="citation">[1995] 2 SLR(R) 591</span>, Yong Pung How CJ held at [71] that the burden of proving a lack of motive to falsely implicate the accused is on the Prosecution, and that reliance on the complainant’s word that he or she had no reason to falsely implicate the accused was not a ground to believe the complainant’s testimony due to the circularity of such reasoning. 
 
-46     In _Goh Han Heng v Public Prosecutor_ [2003] 4 SLR(R) 374, Yong Pung How CJ however clarified that while the burden to prove absence of motive laid on the Prosecution, such burden would only arise where the accused was able to show that the complainant had a motive to falsely implicate him. Yong Pung How CJ stated at [33] of the decision: 
+46     In _Goh Han Heng v Public Prosecutor_ <span class="citation">[2003] 4 SLR(R) 374</span>, Yong Pung How CJ however clarified that while the burden to prove absence of motive laid on the Prosecution, such burden would only arise where the accused was able to show that the complainant had a motive to falsely implicate him. Yong Pung How CJ stated at [33] of the decision: 
 
 
  ... [W]here the accused can show that the complainant has a motive to falsely implicate him, then the burden must fall on the Prosecution to disprove that motive. This does not mean that the accused merely needs to allege that the complainant has a motive to falsely implicate him. Instead, the accused must adduce sufficient evidence of this motive so as to raise a reasonable doubt in the Prosecution’s case. Only then would the burden of proof shift to the Prosecution to prove that there was no such motive. To hold otherwise would mean that the Prosecution would have the burden of proving a lack of motive to falsely implicate the accused in literally every case, thereby practically instilling a lack of such a motive as a constituent element of every offence. 
 
-47     Further, in _Loo See Mei v Public Prosecutor_ [2004] 2 SLR(R) 27, Yong Pung How CJ reiterated at [41] that the Prosecution’s burden in proving that there was a lack of motive to fabricate was one of “beyond reasonable doubt” not “beyond all doubt”. 
+47     Further, in _Loo See Mei v Public Prosecutor_ <span class="citation">[2004] 2 SLR(R) 27</span>, Yong Pung How CJ reiterated at [41] that the Prosecution’s burden in proving that there was a lack of motive to fabricate was one of “beyond reasonable doubt” not “beyond all doubt”. 
 
 48     Thus in my judgment, the above line of cases establishes that: 
 
@@ -393,7 +393,7 @@ had been given breaks in between. [note: 83]
 55     The burden lies on the Prosecution to establish beyond reasonable doubt that a statement was given voluntarily and therefore that the statement is not inadmissible pursuant to s 258(3) of the 
 
 
-CPC. In _Chai Chien Wei Kelvin v Public Prosecutor_ [1998] 3 SLR(R) 619, the Court of Appeal held at [53] that the test of voluntariness is partly objective and partly subjective: 
+CPC. In _Chai Chien Wei Kelvin v Public Prosecutor_ <span class="citation">[1998] 3 SLR(R) 619</span>, the Court of Appeal held at [53] that the test of voluntariness is partly objective and partly subjective: 
 
  ... The test of voluntariness is applied in a manner which is partly objective and partly subjective. The objective limb is satisfied if there is a threat, inducement or promise, and the subjective limb when the threat, inducement or promise operates on the mind of the particular accused through hope of escape or fear of punishment connected with the charge ... 
 
@@ -413,7 +413,7 @@ and when the Statement was taken. [note: 89]
 
 58     As regards the allegation of oppression, I found that the police records were relevant, and nothing was adduced to show that these were unreliable. These records showed that the Accused was indeed moved to Cell 1M from the THA before he was brought to his house on 21 May 2014, [note: 90] which would have relieved some of the discomfort experienced in the THA. 
 
-59     In any event, while the THA and the circumstances and duration of detention there created an uncomfortable environment, such discomfort did not lead to the conclusion that there was oppression, or in other words a sapping of the will of the Accused. Some discomfort is to be expected and the question is whether such discomfort was such as to call into question the voluntariness of a statement (see _Yeo See How v Public Prosecutor_ [1996] 2 SLR(R) 277 at [40]; _Tey Hsun Hang v Public Prosecutor_ [2014] 2 SLR 1189 at [114]). From the photographs and other evidence, while the conditions in the THA were sparse, bordering perhaps on spartan, they were not to my mind such as to lead to oppression. There was some space to allow the Accused to rest in the THA, though 
+59     In any event, while the THA and the circumstances and duration of detention there created an uncomfortable environment, such discomfort did not lead to the conclusion that there was oppression, or in other words a sapping of the will of the Accused. Some discomfort is to be expected and the question is whether such discomfort was such as to call into question the voluntariness of a statement (see _Yeo See How v Public Prosecutor_ <span class="citation">[1996] 2 SLR(R) 277</span> at [40]; _Tey Hsun Hang v Public Prosecutor_ <span class="citation">[2014] 2 SLR 1189</span> at [114]). From the photographs and other evidence, while the conditions in the THA were sparse, bordering perhaps on spartan, they were not to my mind such as to lead to oppression. There was some space to allow the Accused to rest in the THA, though 
 
 handcuffed to a metal railing on a bench. [note: 91] It may have been that the Accused was not 
 
@@ -574,11 +574,11 @@ sure. [note: 129] I saw no reason not to accept her testimony on the relevant ti
 
  ... 
 
-83     The court is generally slow to draw an adverse inference against the Prosecution for failing to call certain witness (see _Khua Kian Keong and another v Public Prosecutor_ [2003] 4 SLR(R) 526 at [35]). As Yong Pung How CJ explained in _Chua Keem Long v Public Prosecutor_ [1996] 1 SLR(R) 239 at [77]: 
+83     The court is generally slow to draw an adverse inference against the Prosecution for failing to call certain witness (see _Khua Kian Keong and another v Public Prosecutor_ <span class="citation">[2003] 4 SLR(R) 526</span> at [35]). As Yong Pung How CJ explained in _Chua Keem Long v Public Prosecutor_ <span class="citation">[1996] 1 SLR(R) 239</span> at [77]: 
 
  The discretion conferred upon the Prosecution cannot be fettered by any obligation to call a particular witness. What the Prosecution has to do is to prove its case. It is not obliged to go out of its way to allow the Defence any opportunity to test its evidence. It is not obliged to act for the Defence. ... 
 
-84     Thus, the court may only draw an adverse inference against the Prosecution for not calling a witness where certain conditions are met. In _Khua Kian Keong and another v Public Prosecutor_ [2003] 4 SLR(R) 526, Yong Pung How CJ outlined the relevant conditions at [34] as follows: 
+84     Thus, the court may only draw an adverse inference against the Prosecution for not calling a witness where certain conditions are met. In _Khua Kian Keong and another v Public Prosecutor_ <span class="citation">[2003] 4 SLR(R) 526</span>, Yong Pung How CJ outlined the relevant conditions at [34] as follows: 
 
  (a) The witness not offered was a material one; 
 
@@ -591,7 +591,7 @@ In my judgment, these conditions are equally applicable in determining if an adv
 
 85     For the reasons set out in the following paragraphs, I found that the Victim’s psychiatric report and the Victim’s document were not material and that the Prosecution’s decision not to adduce these documents was not taken with an ulterior motive. 
 
-86     While the burden was on the Prosecution to prove its case beyond a reasonable doubt, and the Prosecution should call witnesses or adduce other evidence to make this out, an adverse inference should only be drawn against a party where some explanation is called for from that party for the omission, in the light of the materiality of the evidence. As the Court of Appeal explained in _Sudha Natrajan v The Bank of East Asia Ltd_ [2017] 1 SLR 141 at [20] (in the context of a civil case), there must be some evidence, even if weak, adduced by the party seeking to draw the inference on the issue in question before the court is entitled to draw an adverse inference, _ie_ , there must be a case to answer on that issue which is then strengthened by drawing the inference. 
+86     While the burden was on the Prosecution to prove its case beyond a reasonable doubt, and the Prosecution should call witnesses or adduce other evidence to make this out, an adverse inference should only be drawn against a party where some explanation is called for from that party for the omission, in the light of the materiality of the evidence. As the Court of Appeal explained in _Sudha Natrajan v The Bank of East Asia Ltd_ <span class="citation">[2017] 1 SLR 141</span> at [20] (in the context of a civil case), there must be some evidence, even if weak, adduced by the party seeking to draw the inference on the issue in question before the court is entitled to draw an adverse inference, _ie_ , there must be a case to answer on that issue which is then strengthened by drawing the inference. 
 
 87     Here, in respect of the psychiatric disposition of the Victim, it was not actually put to the Victim by the Defence that she had made allegations against the Accused because of some delusion or other psychiatric illness. Neither was there anything in the Victim’s evidence that would have attracted some suspicion that she was delusional. Given that it was not part of the Defence’s case that the Victim was delusional, it would not be appropriate for an adverse inference to be drawn for the non-adducing of the Victim’s psychiatric report. Furthermore, unless the subject matter underlying the drawing of the adverse inference (in this case, the Victim’s state of mind) touches on an element of the charge itself, any adverse inference should be drawn only where at least the evidential burden of proving that subject matter falls on the party against whom that inference is to be drawn. In this case, the Defence did not run a case challenging the psychiatric state of the Victim and the psychiatric state of the Victim was therefore not in issue. Thus, the Prosecution did not have a burden to adduce evidence on the Victim’s state of mind in order to prove beyond reasonable doubt that the Victim was not delusional. No adverse inference could be drawn from the fact that the Prosecution did not do so. 
 
@@ -601,7 +601,7 @@ US in 2014 who had advised her to record down the incidents. [note: 130] It was 
 
 89     I should add that the non-calling of two former boyfriends of the Victim and her relative to whom she eventually confided in regarding the events was again immaterial. The inference to be drawn from the non-calling of the witnesses would presumably be that they would contradict her, or undermine her evidence in some way. But there was no indication of this – the absence of their testimony only deprived her of the additional support that she could have perhaps obtained, and even then any such additional support would have been of a low level given that they had heard what she recounted sometime after the events. 
 
-90     I should also note that the fact that the first information report or any police report may not be detailed would not necessarily be a ground for disbelief of the Victim’s testimony. As the court stated in _Tan Pin Seng v Public Prosecutor_ [1997] 3 SLR(R) 494 at [27], the first information report or police report is not meant to contain the entire case for the Prosecution. 
+90     I should also note that the fact that the first information report or any police report may not be detailed would not necessarily be a ground for disbelief of the Victim’s testimony. As the court stated in _Tan Pin Seng v Public Prosecutor_ <span class="citation">[1997] 3 SLR(R) 494</span> at [27], the first information report or police report is not meant to contain the entire case for the Prosecution. 
 
 
 **Findings on guilt** 
@@ -645,7 +645,7 @@ the sentences for the rest of the charges to run concurrently: [note: 131]
 
  (b) 9 years’ imprisonment for each charge of sexual penetration of a minor under 14 years of age comprising the 7th, 11th, 15th, 21st and 25th charges. 
 
-98     For the 22nd and 26th charges of statutory rape for which 14 years’ imprisonment for each charge was said to be appropriate, the Prosecution submitted that based on the sentencing guidelines for rape set by the Court of Appeal in _Ng Kean Meng Terence v Public Prosecutor_ [2017] 2 SLR 449 (“ _Terence Ng_ ”), the present case fell within Band 2 of the sentencing bands prescribed in _Terence Ng_ 
+98     For the 22nd and 26th charges of statutory rape for which 14 years’ imprisonment for each charge was said to be appropriate, the Prosecution submitted that based on the sentencing guidelines for rape set by the Court of Appeal in _Ng Kean Meng Terence v Public Prosecutor_ <span class="citation">[2017] 2 SLR 449</span> (“ _Terence Ng_ ”), the present case fell within Band 2 of the sentencing bands prescribed in _Terence Ng_ 
 
 (at [73]) due to the presence of the following aggravating factors: [note: 132] 
 
@@ -705,7 +705,7 @@ As a coach of the Victim, he was a teacher and mentor of the Victim whom the Vic
 
 107    I was also of the view that the fact that the Accused did not use a condom, thus exposing the Victim to the risk of pregnancy and sexually transmitted diseases, was also an aggravating factor. 
 
-108    The only offender-specific mitigating factors operating here were the advanced age of the Accused and the absence of any prior antecedents. The mitigating value of these factors was low. In relation to the absence of prior antecedents, it is well established that little mitigating weight can be given to the offender’s previous good behaviour or lack of antecedents where serious offences are concerned (see _Public Prosecutor v UI_ [2008] 4 SLR(R) 500 (“ _UI_ ”) at [69]). The advanced age of the Accused was also of little mitigating value as explained in a separate section below. 
+108    The only offender-specific mitigating factors operating here were the advanced age of the Accused and the absence of any prior antecedents. The mitigating value of these factors was low. In relation to the absence of prior antecedents, it is well established that little mitigating weight can be given to the offender’s previous good behaviour or lack of antecedents where serious offences are concerned (see _Public Prosecutor v UI_ <span class="citation">[2008] 4 SLR(R) 500</span> (“ _UI_ ”) at [69]). The advanced age of the Accused was also of little mitigating value as explained in a separate section below. 
 
 109    Having taken into account the offence-specific and offender-specific mitigating and aggravating factors, I was satisfied that a sentence of 14 years’ imprisonment was appropriate for 
 
@@ -713,13 +713,13 @@ the 22nd and 26th charges which were the charges of rape under s 375(1)( _b_ ) r
 
 **_Appropriate sentence for the sexual penetration charges_** 
 
-110    In _Public Prosecutor v BAB_ [2017] 1 SLR 292 (“ _BAB_ ”), the Court of Appeal set out the following sentencing starting points for a s 376A offence of sexual penetration of a minor under 16 as follows (at [65]): 
+110    In _Public Prosecutor v BAB_ <span class="citation">[2017] 1 SLR 292</span> (“ _BAB_ ”), the Court of Appeal set out the following sentencing starting points for a s 376A offence of sexual penetration of a minor under 16 as follows (at [65]): 
 
  (a) For offences punishable under s 376A(2), where there is an element of abuse of trust, the starting point will be a term of imprisonment of three years. 
 
  (b) For offences punishable under s 376A(3) ( ie , where the victim was below the age of 14), where there is an element of abuse of trust, the starting point will be a term of imprisonment of between ten and 12 years. It should also be borne in mind that s 376A(3), unlike s 376A(2) provides for caning as well. 
 
-111    In _Pram Nair v Public Prosecutor_ [2017] 2 SLR 1015 (“ _Pram Nair_ ”), the Court of Appeal set out the following sentencing bands for digital penetration, an offence punishable under s 376 of the Penal Code as follows (at [159]): 
+111    In _Pram Nair v Public Prosecutor_ <span class="citation">[2017] 2 SLR 1015</span> (“ _Pram Nair_ ”), the Court of Appeal set out the following sentencing bands for digital penetration, an offence punishable under s 376 of the Penal Code as follows (at [159]): 
 
  (a) Band 1: seven to ten years’ imprisonment and four strokes of the cane; 
 
@@ -759,7 +759,7 @@ the 22nd and 26th charges which were the charges of rape under s 375(1)( _b_ ) r
 
 121    In _UI_ , the Court of Appeal stated (at [78]) in relation to the relevance of the advanced age of the accused person in sentencing that: 
 
- ... [I]n general, the mature age of the offender does not warrant a moderation of the punishment to be meted out (see Krishan Chand v PP [1995] 1 SLR(R) 737 at [8]). But, where the sentence is a long term of imprisonment, the offender’s age is a relevant factor as, unless the Legislature has prescribed a life sentence for the offence, the court should not impose a sentence that effectively amounts to a life sentence. Such a sentence would be regarded as crushing and would breach the totality principle of sentencing. ... 
+ ... [I]n general, the mature age of the offender does not warrant a moderation of the punishment to be meted out (see Krishan Chand v PP <span class="citation">[1995] 1 SLR(R) 737</span> at [8]). But, where the sentence is a long term of imprisonment, the offender’s age is a relevant factor as, unless the Legislature has prescribed a life sentence for the offence, the court should not impose a sentence that effectively amounts to a life sentence. Such a sentence would be regarded as crushing and would breach the totality principle of sentencing. ... 
 
 122    In my judgment, while a court should generally avoid imposing a sentence that effectively operates as a life sentence, this is not to my mind an absolute rule, and must be measured against 
 

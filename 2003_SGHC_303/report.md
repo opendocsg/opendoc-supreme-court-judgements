@@ -79,11 +79,11 @@ rear of the motorcycle, Derek refused to answer. Both police officers observed t
 
 to the Attorney-General’s Chambers and a stern warning was administered to the assailant. 
 
-22     Given these circumstances, I saw no reason to disturb the judge’s finding that there had been an accident, and that Derek had therefore committed an offence under s 65 of the RTA. This was a finding of fact which hinged on the judge’s assessment of the credibility of the witnesses. It is trite law that an appellate court will be slow to interfere with such a finding: _Yap Giau Beng Terence v PP_ [1998] 3 SLR 656. 
+22     Given these circumstances, I saw no reason to disturb the judge’s finding that there had been an accident, and that Derek had therefore committed an offence under s 65 of the RTA. This was a finding of fact which hinged on the judge’s assessment of the credibility of the witnesses. It is trite law that an appellate court will be slow to interfere with such a finding: _Yap Giau Beng Terence v PP_ <span class="citation">[1998] 3 SLR 656</span>. 
 
 **_The issue of ‘reasonable excuse’_** 
 
-23     On the issue of Derek’s failure to provide a breath specimen for BEA analysis, the judge accepted that a medical condition such as Acute Stress Disorder could in certain situations constitute a reasonable excuse under s 70 of the RTA. He followed the approach taken by this Court in _Madiaalakan s/o Muthusamy v Public Prosecutor_ [2001] 4 SLR 618. However, he held that even if Derek was suffering from a stress disorder at the material time, it did not render him incapable of providing an adequate breath specimen. As such, he had no ‘reasonable excuse’ within the meaning of s 70 of the RTA. 
+23     On the issue of Derek’s failure to provide a breath specimen for BEA analysis, the judge accepted that a medical condition such as Acute Stress Disorder could in certain situations constitute a reasonable excuse under s 70 of the RTA. He followed the approach taken by this Court in _Madiaalakan s/o Muthusamy v Public Prosecutor_ <span class="citation">[2001] 4 SLR 618</span>. However, he held that even if Derek was suffering from a stress disorder at the material time, it did not render him incapable of providing an adequate breath specimen. As such, he had no ‘reasonable excuse’ within the meaning of s 70 of the RTA. 
 
 24     In my opinion, the evidence fully supported the judge’s finding on this point. It was not disputed that Derek was under considerable stress at the time the BEA test was administered. He had been involved in a traffic accident and had been arrested by the police. Moreover, he had soiled his pants and had to endure the stench of his own faeces until he was told to wash up by SSGT Suliah. 
 
@@ -104,7 +104,7 @@ but I just couldn’t do it”. The question of whether an accused has tried his
 
 **_Dr Lim’s expert evidence_** 
 
-30     One question that arose in this case was whether Dr Lim’s expert evidence was supported by basic facts. The judge below held that the court would accept unchallenged expert evidence if it was based on solid grounds and supported by basic facts: _Saeng-Un Udom v PP_ [2001] 3 SLR 1. However, he found that Dr Lim’s expert evidence could not establish a reasonable excuse as it was based on flawed facts provided by Derek himself. He put little weight on Dr Lim’s report, and found that Derek was not suffering from Acute Stress Disorder to the extent that it impaired his ability to perform the BEA test. 
+30     One question that arose in this case was whether Dr Lim’s expert evidence was supported by basic facts. The judge below held that the court would accept unchallenged expert evidence if it was based on solid grounds and supported by basic facts: _Saeng-Un Udom v PP_ <span class="citation">[2001] 3 SLR 1</span>. However, he found that Dr Lim’s expert evidence could not establish a reasonable excuse as it was based on flawed facts provided by Derek himself. He put little weight on Dr Lim’s report, and found that Derek was not suffering from Acute Stress Disorder to the extent that it impaired his ability to perform the BEA test. 
 
 31     On appeal, Derek argued that the judge dismissed Dr Lim’s report too casually. He claimed that the facts could not have been flawed as they were the same facts which he testified to during the trial below. There was absolutely no merit to this argument. The fact that Derek furnished the same version of events during the trial did not make his evidence unimpeachable. 
 

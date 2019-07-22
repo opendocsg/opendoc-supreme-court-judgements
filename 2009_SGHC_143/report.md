@@ -540,7 +540,7 @@ that no minutes were prepared because NUS had orally instructed NUS not to prepa
 
  The Logicrose, The Times, 5 March 1988, Millett J said that it was no part of the function of the court in exercising its discretion under Order 24, rule 16 to punish the party in default. In all ordinary cases that must be so. But I can imagine cases of contumacious conduct, such as the deliberate suppression of a document, which might justify the striking out on the analogy of striking out for want of prosecution under Order 25, rule 1(4) even if a fair trial were still possible. I use the word “contumacious” with the encouragement of my Lord Sir John Megaw, since it expresses the required meaning more accurately than “contumelious”, the word more commonly used and originally, I believe, used by Diplock LJ in this connection. But cases of contumacious conduct in relation to discovery must necessarily be extremely rare. 
 
-113    Then in _Federal Lands Commissioner v Neo Hong Huat_ [1998] SGHC 131 (“ _Neo Hong Huat_ ”), Chan Seng Onn JC expressed the view that it was not necessary to show that the fair trial of the action is impossible where there was deliberate and contumacious disregard of court orders. He said 
+113    Then in _Federal Lands Commissioner v Neo Hong Huat_ <span class="citation">[1998] SGHC 131</span> (“ _Neo Hong Huat_ ”), Chan Seng Onn JC expressed the view that it was not necessary to show that the fair trial of the action is impossible where there was deliberate and contumacious disregard of court orders. He said 
 
 
 at [43]: 
@@ -570,7 +570,7 @@ transpressed, if so, whether a fair trial is achievable and if not what to do ab
 
  [emphasis added] 
 
-119    In _Tan Chor Chuan v Tan Yeow Hiang Kenneth_ [2004] SGHC 259, the plaintiffs had applied to strike out a defence. The plaintiffs’ alternative ground was that the defendants had abused the court’s process by destroying email passing between the defendants themselves and also email passing between the defendants and the Singapore Chess Foundation. Joyce Low Wei Lin AR declined to impose any sanction against the defendants because she found nothing sinister in their explanation for the deletion of the email. Nevertheless, she endorsed Pinsler’s Article in that the court’s inherent power to respond to any pre-action destruction of documents should not be circumscribed by strict adherence to the _McCabe_ test and that the exercise of its power should be governed by the usual touchstones of ‘need’, ‘justice of the case’ and ‘prevention of abuse’. 
+119    In _Tan Chor Chuan v Tan Yeow Hiang Kenneth_ <span class="citation">[2004] SGHC 259</span>, the plaintiffs had applied to strike out a defence. The plaintiffs’ alternative ground was that the defendants had abused the court’s process by destroying email passing between the defendants themselves and also email passing between the defendants and the Singapore Chess Foundation. Joyce Low Wei Lin AR declined to impose any sanction against the defendants because she found nothing sinister in their explanation for the deletion of the email. Nevertheless, she endorsed Pinsler’s Article in that the court’s inherent power to respond to any pre-action destruction of documents should not be circumscribed by strict adherence to the _McCabe_ test and that the exercise of its power should be governed by the usual touchstones of ‘need’, ‘justice of the case’ and ‘prevention of abuse’. 
 
 120    On the other hand, she also said at [22]: 
 
@@ -585,15 +585,15 @@ transpressed, if so, whether a fair trial is achievable and if not what to do ab
 
 striking out will only be ordered if a fair trial is no longer possible. That, of course, is different from the view expressed by Chan JC in _Neo Hong Huat_ (see para 113 above). 
 
-122    Furthermore, in _Alliance Management SA v Pendleton Lane P & anor_ [2008] 4 SLR 1, Ang J accepted at [10] that there is a line of authority which makes it clear that a Singapore court may order a striking out without finding that a fair trial is not possible. She referred to _Soh Lup Chee v Seow Boon Cheng_ [2002] 2 SLR 267 and _Neo Hong Huat_ as well as to _Lee Kuan Yew v Tang Liang Hong_ (No 2) [1997] 2 SLR 853 and _Jeyaretnam Joshua Benjamin v Lee Kuan Yew_ [2001] 4 SLR 1. 
+122    Furthermore, in _Alliance Management SA v Pendleton Lane P & anor_ <span class="citation">[2008] 4 SLR 1</span>, Ang J accepted at [10] that there is a line of authority which makes it clear that a Singapore court may order a striking out without finding that a fair trial is not possible. She referred to _Soh Lup Chee v Seow Boon Cheng_ <span class="citation">[2002] 2 SLR 267</span> and _Neo Hong Huat_ as well as to _Lee Kuan Yew v Tang Liang Hong_ (No 2) <span class="citation">[1997] 2 SLR 853</span> and _Jeyaretnam Joshua Benjamin v Lee Kuan Yew_ <span class="citation">[2001] 4 SLR 1</span>. 
 
 123    Ang J also said at [5] and [6]: 
 
  5 Counsel for the plaintiff, Mr Cavinder Bull SC, referred me to the commentary to that rule in Singapore Court Practice 2006 (Jeffrey Pinsler gen ed) (LexisNexis, 2006) at para 24/16/2 which identifed four instances in which the court may in the exercise of its discretion strike out the pleadings for non-compliance with the Rules of Court or orders of court. They are: 
 
- (a) The defaulting party has deliberately or wilfully failed to comply with an “unless order” (see SMS Pte Ltd v Power & Energy Pte Ltd [1996] 1 SLR 767 at 772, [17]). 
+ (a) The defaulting party has deliberately or wilfully failed to comply with an “unless order” (see SMS Pte Ltd v Power & Energy Pte Ltd <span class="citation">[1996] 1 SLR 767</span> at 772, [17]). 
 
- (b) The defaulting party has failed to comply with successive non-peremptory orders for discovery so that the default is clearly contumacious (see Soh Lup Chee v Seow Boon Cheng [2002] 2 SLR 267 (“ Soh Lup Chee ”). 
+ (b) The defaulting party has failed to comply with successive non-peremptory orders for discovery so that the default is clearly contumacious (see Soh Lup Chee v Seow Boon Cheng <span class="citation">[2002] 2 SLR 267</span> (“ Soh Lup Chee ”). 
 
  (c) The consequence of the failure to comply with a rule of court or order requiring discovery is such that there is a serious or real risk that a fair trial may no longer be possible. 
 

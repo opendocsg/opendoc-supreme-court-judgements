@@ -209,7 +209,7 @@ On the award of general damages made by the judge, Mr Harte contends that the ju
 
 **_Ariffin bin Omar v Goh Beng Kee Ng Hock Chye v Singapore Shuttle Bus Yeap Boon Onn v Neo Hui Nee_** It is true that the judge did not give any reasons for the various sums he awarded under general damages. We agree that there should be a fair measure of consistency between awards for similar injuries/incapacities. Mr Raj Singam for Mr Harte, relied upon the following five cases to show that the overall quantum of $50,000 awarded is too low: 
 
-(1) In **Low Swee Tong v Liew Machinery** [1993] 3 SLR 89 , the High Court awarded $45,000 for impotence. 
+(1) In **Low Swee Tong v Liew Machinery** <span class="citation">[1993] 3 SLR 89</span> , the High Court awarded $45,000 for impotence. 
 
 (2) In (Suit 1603/88), our High Court awarded $55,000 for rupture of urethra and impotence. 
 

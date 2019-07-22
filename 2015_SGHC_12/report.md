@@ -22,7 +22,7 @@
 
 1       On 18 November 2014, I made certain orders to effect the final distribution of the matrimonial property of the plaintiff (whom I shall call “the wife”) and the defendant (whom I shall call “the husband”) consequent upon their divorce pursuant to an interim judgment given on 29 January 2008. The husband was dissatisfied with the orders and filed an appeal on 18 December 2014. 
 
-2       The general background of the parties and history of this litigation are contained in my Judgment dated 21 March 2013 ([2013] SGHC 66) (“2013 Judgment”) and my Grounds of Decision dated 29 August 2014 ([2014] SGHC 170) (“2014 Grounds”). The 2014 Grounds contained the reasons for certain consequential orders that I had made at a hearing on 23 July 2014 (“the July 2014 hearing”) in relation to the following properties: 
+2       The general background of the parties and history of this litigation are contained in my Judgment dated 21 March 2013 (<span class="citation">[2013] SGHC 66</span>) (“2013 Judgment”) and my Grounds of Decision dated 29 August 2014 (<span class="citation">[2014] SGHC 170</span>) (“2014 Grounds”). The 2014 Grounds contained the reasons for certain consequential orders that I had made at a hearing on 23 July 2014 (“the July 2014 hearing”) in relation to the following properties: 
 
  (a) the matrimonial home known as Block 842 Sims Avenue, #14-762, Singapore (“the Sims property”); 
 

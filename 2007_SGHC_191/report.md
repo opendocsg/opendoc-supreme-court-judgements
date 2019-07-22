@@ -217,7 +217,7 @@ The letter from “the worried owner” dated 25 May 2007 was exhibited in Teo�
 
 37     Counsel for BPP, Mr Muthu Arusu, disagreed with the plaintiff’s interpretation of cl 3 of the CSA on the issue of the extent of the obligation on the consenting owners to obtain the order from STB. 
 
-38     Mr Arusu pointed out that contrary to the plaintiffs’ submission that cl 3 of the CSA only required reasonable endeavours to be made by the vendors to obtain STB’s approval for the CSA, _Tan Soo Leng David v Wee, Satku & Kumar Pte Ltd & Anor_ [1998] 2 SLR 83 and _Group Exklusive Pte Ltd v Diethelm Singapore Pte Ltd_ [2003] SGHC 247 stood for the proposition that the vendors were required to use their best efforts to procure STB’s approval to the collective sale. 
+38     Mr Arusu pointed out that contrary to the plaintiffs’ submission that cl 3 of the CSA only required reasonable endeavours to be made by the vendors to obtain STB’s approval for the CSA, _Tan Soo Leng David v Wee, Satku & Kumar Pte Ltd & Anor_ <span class="citation">[1998] 2 SLR 83</span> and _Group Exklusive Pte Ltd v Diethelm Singapore Pte Ltd_ <span class="citation">[2003] SGHC 247</span> stood for the proposition that the vendors were required to use their best efforts to procure STB’s approval to the collective sale. 
 
 
 39     As for cl 13 of the CSA ([32] above) BPP submitted that termination of the CSA hinged upon the occurrence of any of the circumstances set out in the sub-clauses: 

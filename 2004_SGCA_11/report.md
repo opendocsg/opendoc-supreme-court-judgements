@@ -88,7 +88,7 @@ _Arbitration_ – _Award_ – _Recourse against award_ – _Appeal under Arbitra
 
  Whether on the facts set out in his [second] award, there were any grounds upon which the Arbitrator could properly at law have assessed damages in the manner he did? 
 
-United conceded that for leave to be granted, it needed to show that the appeal came within the guidelines laid down by the House of Lords in _Pioneer Shipping Ltd v BTP Tioxide Ltd_ [1982] AC 724 (“ _The Nema_ ”) and in _Antaios Compania Naviera SA v Salen Rederierna AB_ [1985] AC 191 (“ _The Antaios_ ”), which were affirmed by this court in _Hong Huat Development Co (Pte) Ltd v Hiap Hong & Co Pte Ltd_ [2000] 2 SLR 609. 
+United conceded that for leave to be granted, it needed to show that the appeal came within the guidelines laid down by the House of Lords in _Pioneer Shipping Ltd v BTP Tioxide Ltd_ [1982] AC 724 (“ _The Nema_ ”) and in _Antaios Compania Naviera SA v Salen Rederierna AB_ [1985] AC 191 (“ _The Antaios_ ”), which were affirmed by this court in _Hong Huat Development Co (Pte) Ltd v Hiap Hong & Co Pte Ltd_ <span class="citation">[2000] 2 SLR 609</span>. 
 
 11     The _Nema-Antaios_ guidelines for determining whether leave should be granted may be summarised thus: Where the question of law raised is a “one-off” point, leave to appeal should not be given unless it is apparent to the court that the arbitrator was obviously wrong on the face of the record. Where the question does not concern a “one-off” issue, leave to appeal should not be given unless the court considers that a strong _prima facie_ case has been made out that the arbitrator was wrong. 
 
@@ -119,7 +119,7 @@ the assessment of damages. This was a stance she found to be “untenable”. Fu
 
 17     Section 28 of the Act confers upon the High Court a power to grant leave to appeal against an arbitration award if there is a “question of law”, arising from the award, to be determined. As a preliminary point, it is essential to delineate between a “question of law” and an “error of law”, for the former confers jurisdiction on a court to grant leave to appeal against an arbitration award while the latter, in itself, does not. 
 
-18     An opportunity arose for comment in _Ahong Construction (S) Pte Ltd v United Boulevard Pte Ltd_ [2000] 1 SLR 749. In that case, G P Selvam JC (as he then was) stated at [7]: 
+18     An opportunity arose for comment in _Ahong Construction (S) Pte Ltd v United Boulevard Pte Ltd_ <span class="citation">[2000] 1 SLR 749</span>. In that case, G P Selvam JC (as he then was) stated at [7]: 
 
  A question of law means a point of law in controversy which has to be resolved after opposing views and arguments have been considered. It is a matter of substance the determination of which will decide the rights between the parties. ... If the point of law is settled and not something novel and it is contended that the arbitrator made an error in the application of the law there lies no appeal against that error for there is no question of law which calls for an opinion of the court. [emphasis added] 
 
@@ -142,7 +142,7 @@ the Arbitrator had wrongly based his assessment of damages on Northern’s quota
 
  [I]f the decision of the question of construction in the circumstances of the particular case would add significantly to the clarity and certainty of English commercial law it would be proper to give leave ... bearing in mind always that a superabundance of citable judicial decisions arising out of slightly different facts is calculated to hinder rather than to promote clarity in settled principles of commercial law. [emphasis added] 
 
-Where the issue relates to the interpretation of clauses in standard form contracts, this is usually an indication that it is not a “one-off” point. Where it does not involve the construction of the terms of an agreement, the approach set out by this court in _American Home Assurance Co v Hong Lam Marine Pte Ltd_ [1999] 3 SLR 682 at [29] is instructive: 
+Where the issue relates to the interpretation of clauses in standard form contracts, this is usually an indication that it is not a “one-off” point. Where it does not involve the construction of the terms of an agreement, the approach set out by this court in _American Home Assurance Co v Hong Lam Marine Pte Ltd_ <span class="citation">[1999] 3 SLR 682</span> at [29] is instructive: 
 
  Confronted with the problem of characterisation – as to whether a question of construction falls within or without either guideline – the better approach, suggests Thomas [in his Appeals from Arbitration Awards (Lloyd’s of London Press Ltd, 1999)], is not to embark on the exercise by first 
 

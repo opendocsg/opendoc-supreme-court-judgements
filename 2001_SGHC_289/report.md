@@ -16,9 +16,9 @@
 
 **Parties** :Wong Jin Fah — L &M Prestressing Pte Ltd — Liberty Citystate Insurance Pte Ltd (fka Citystate Insurance Pte Ltd; Another 
 
-[LawNet Admin Note: The citation for this case has been reassigned to [2001] 3 SLR(R) 1; 
+[LawNet Admin Note: The citation for this case has been reassigned to <span class="citation">[2001] 3 SLR(R) 1</span>; 
 
-[2001] 4 SLR 529; [2001] SGHC 249 on 15 July 2010.] 
+<span class="citation">[2001] 4 SLR 529</span>; <span class="citation">[2001] SGHC 249</span> on 15 July 2010.] 
 
  Copyright © Government of Singapore. 
 

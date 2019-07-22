@@ -16,7 +16,7 @@
 
 _Land_ 
 
-[LawNet Editorial Note: The decision from which these appeals arose is reported at [2010] 4 SLR 840 .] 
+[LawNet Editorial Note: The decision from which these appeals arose is reported at <span class="citation">[2010] 4 SLR 840</span> .] 
 
 15 July 2011 
 
@@ -239,7 +239,7 @@ failure to procure or transfer title to Villa 2 to Hat. [note: 4]
 
 **_The Mocambique principle_** 
 
-38     As mentioned above (at [2]), the _Mocambique principle_ is that the court does not have jurisdiction to entertain proceedings involving the determination of title to foreign land (see Collins, _Dicey, Morris & Collins on The Conflict of Laws_ (Sweet & Maxwell, 14th Ed, 2006) (" _Dicey & Morris_ ") a t para 23R-021). In _Murakami Takako (executrix of the estate of Takashi Murakami Suroso, deceased) v Wiryadi Louse Maria and others_ [2009] 1 SLR(R) 508, this court reiterated (at [9]) that the _Mocambique_ rule and the personal equities exception to that rule are a part of Singapore law. 
+38     As mentioned above (at [2]), the _Mocambique principle_ is that the court does not have jurisdiction to entertain proceedings involving the determination of title to foreign land (see Collins, _Dicey, Morris & Collins on The Conflict of Laws_ (Sweet & Maxwell, 14th Ed, 2006) (" _Dicey & Morris_ ") a t para 23R-021). In _Murakami Takako (executrix of the estate of Takashi Murakami Suroso, deceased) v Wiryadi Louse Maria and others_ <span class="citation">[2009] 1 SLR(R) 508</span>, this court reiterated (at [9]) that the _Mocambique_ rule and the personal equities exception to that rule are a part of Singapore law. 
 
 39     As regards the personal equities exception, in _Mocambique_ , the court held that “Courts of 
 

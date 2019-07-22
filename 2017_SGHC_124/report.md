@@ -16,7 +16,7 @@
 
 _Contract_ – _Remedies_ – _Damages_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 33 of 2017 was allowed by the Court of Appeal on 27 November 2017. See [2017] SGCA 67.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 33 of 2017 was allowed by the Court of Appeal on 27 November 2017. See <span class="citation">[2017] SGCA 67</span>.] 
 
 26 May 2017 
 
@@ -43,7 +43,7 @@ that “the thrust of [its] claim lies potentially in the Disgorgement of Profit
 
 7       Aries based such a claim on suggestions made by Professor James Edelman (now a judge of the High Court of Australia) in his book _Gain-Based Damages: Contract, Tort, Equity and Intellectual Property_ (Hart Publishing, 2002). In particular, Aries focussed on a suggestion by Mr Edelman that disgorgement of profits was an appropriate relief for wrongs committed deliberately and cynically because the tortfeasor had calculated that his gain would exceed the damage he might be liable for. This was a form of deterrence for tortfeasors where profit was the motive and was appropriate where compensatory damages were not adequate as a deterrence. Such an award would apply even where material gain was not the main motive although Aries’ case rested on profit as ViewQwest’s motive. 
 
-8       However, Aries accepted that in Singapore, it was still unclear whether our courts would grant such a relief. It referred to _Strand Electric and Engineering Co Ltd v Brisford Entertainments Ltd_ [1952] 2 QB 246 (“ _Strand_ ”) which was discussed by the Court of Appeal in _ACES System Development Pte Ltd v Yenty Lily (trading as Access International Services)_ [2013] 4 SLR 1317 (“ _ACES_ ”) and submitted that in _ACES_ , the Court of Appeal said, at [54], that this was a rather thorny area of the law of damages and deferred arriving at a conclusive or definitive view as to what the law ought to be. 
+8       However, Aries accepted that in Singapore, it was still unclear whether our courts would grant such a relief. It referred to _Strand Electric and Engineering Co Ltd v Brisford Entertainments Ltd_ [1952] 2 QB 246 (“ _Strand_ ”) which was discussed by the Court of Appeal in _ACES System Development Pte Ltd v Yenty Lily (trading as Access International Services)_ <span class="citation">[2013] 4 SLR 1317</span> (“ _ACES_ ”) and submitted that in _ACES_ , the Court of Appeal said, at [54], that this was a rather thorny area of the law of damages and deferred arriving at a conclusive or definitive view as to what the law ought to be. 
 
 9       Yet, as ViewQwest submitted, neither _Strand_ nor _ACES_ involved a claim for disgorgement of profits. As the Court of Appeal took pains to reiterate in _ACES_ at [32], the question of a possible award of damages for the profits gained by the tortfeasor was “ _not_ the fact situation in either [ _Strand_ ] or [ _ACES_ ]” [emphasis original]. Rather, the question in each case was whether the plaintiff ought to be granted the loss of hire for certain goods detained by the defendant. In _ACES_ , the Court of Appeal was discussing whether damages awarded in such a claim were awarded pursuant to the user principle analysed as an _exception_ to the general compensation principle, or analysed as an _alternative and distinct_ principle in itself. The court referred to the latter as “the Possible Alternative Analysis”. It was this question which the court referred to at [54] as a rather thorny area of the law of damages. At [58], the Court of Appeal also discussed punitive and aggravated damages and again mentioned the thorny nature of this particular area of the law. Although disgorgement of profits was discussed in _Strand_ and in _ACES_ , this was in passing only. No definitive finding was made on the availability of this form of relief as it was not a live issue before either court. 
 
@@ -79,7 +79,7 @@ ViewQwest to establish an initial interconnection between Fiberail and ViewQwest
 18     ViewQwest finally consented to interlocutory judgment being entered against it for damages to be assessed. Subsequently, upon Aries’ application for the determination of a preliminary issue, I 
 
 
-decided that Aries was not entitled to an account of profits or disgorgement of profits from ViewQwest. Neither was it entitled to exemplary, punitive or aggravated damages, as mentioned above (see also _Aries Telecoms (M) Bhd v ViewQwest Pte Ltd (Fiberail Sdn Bhd, third party)_ [2017] SGHC 83). 
+decided that Aries was not entitled to an account of profits or disgorgement of profits from ViewQwest. Neither was it entitled to exemplary, punitive or aggravated damages, as mentioned above (see also _Aries Telecoms (M) Bhd v ViewQwest Pte Ltd (Fiberail Sdn Bhd, third party)_ <span class="citation">[2017] SGHC 83</span>). 
 
 19     Therefore, this was not a case where Aries was denied an opportunity of presenting its own evidence or an opportunity to cross-examine ViewQwest. It had closed its case in the trial and was in the midst of cross-examining ViewQwest’s Mr Lim. The cross-examination was effected over about one and a half days at the second tranche before interlocutory judgment was entered. 
 
@@ -110,7 +110,7 @@ more specifically at the assessment hearing. For the time being, I accept that V
 
 29     In the circumstances, I concluded that Aries had failed to establish its claim for disgorgement of profits. 
 
-30     As for Aries’ claim for punitive, exemplary or aggravated damages, the first two are actually one and the same claim, _ie_ , punitive damages are also referred to as exemplary damages (see _PH Hydraulics & Engineering Pte Ltd v Airtrust (Hong Kong) Ltd and another appeal_ [2017] SGCA 26 at [63]). 
+30     As for Aries’ claim for punitive, exemplary or aggravated damages, the first two are actually one and the same claim, _ie_ , punitive damages are also referred to as exemplary damages (see _PH Hydraulics & Engineering Pte Ltd v Airtrust (Hong Kong) Ltd and another appeal_ <span class="citation">[2017] SGCA 26</span> at [63]). 
 
 31     Furthermore, Aries did not draw any specific distinction between punitive damages on the one hand and aggravated damages on the other. Its point was that such damages were available when a defendant deliberately detained a plaintiff’s goods even if profit was not a defendant’s motive. Unfortunately for Aries, as it presented its claim for such damages based also on deliberate conduct by ViewQwest, such a claim could not proceed further than its claim for disgorgement of profits and was likewise unsuccessful. 
 

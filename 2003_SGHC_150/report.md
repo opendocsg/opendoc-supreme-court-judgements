@@ -62,7 +62,7 @@ _The office incidents_
 **The finding below** 
 
 
-16     The magistrate found Makanah to be a truthful witness. He rejected the defence’s contention that she had inflicted the injuries on herself to frame the accused. He also found that Choy’s lies concerning his alibi were deliberate and constituted corroborative evidence against him, following the guidelines enunciated in _R v Lucas (Ruth)_ [1981] QB 720 and applied in _PP v Yeo Choon Poh_ [1994] 2 SLR 86. 
+16     The magistrate found Makanah to be a truthful witness. He rejected the defence’s contention that she had inflicted the injuries on herself to frame the accused. He also found that Choy’s lies concerning his alibi were deliberate and constituted corroborative evidence against him, following the guidelines enunciated in _R v Lucas (Ruth)_ [1981] QB 720 and applied in _PP v Yeo Choon Poh_ <span class="citation">[1994] 2 SLR 86</span>. 
 
 17     In addition, the results of Dr Quek’s medical examination were found to be corroborative evidence of Makanah’s account. Accordingly, the magistrate convicted Choy on all five charges. 
 
@@ -72,7 +72,7 @@ _The office incidents_
 
 **The law on appeals** 
 
-19     It is trite law that an appellate court should be slow to disturb a lower court’s findings of fact, and only do so when it is convinced that the finding was wrong: see _Lim Ah Poh v PP_ [1992] 1 SLR 713, _PP v Azman bin Abdullah_ [1998] 2 SLR 704. This is especially where it hinged on the trial judge’s assessment of the credibility and veracity of the witness: _Yap Giau Beng Terence v PP_ [1998] 3 SLR 656. 
+19     It is trite law that an appellate court should be slow to disturb a lower court’s findings of fact, and only do so when it is convinced that the finding was wrong: see _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span>, _PP v Azman bin Abdullah_ <span class="citation">[1998] 2 SLR 704</span>. This is especially where it hinged on the trial judge’s assessment of the credibility and veracity of the witness: _Yap Giau Beng Terence v PP_ <span class="citation">[1998] 3 SLR 656</span>. 
 
 20     In this case, as correctly noted by the magistrate, it was essentially Makanah’s word against Choy’s, with some corroborative medical evidence. The magistrate had decided, based on Makanah’s demeanour in court, that she was a credible witness whose account was supported in some aspects by the medical evidence. The burden on Choy here was a particularly heavy one, which I found that he did not discharge. 
 
@@ -107,7 +107,7 @@ _Makanah’s complaints on the day of the incident_
 
 32     It was in relation to the third and fifth charges where the prosecution case was weakest. There was no evidence of medical injuries on Makanah’s shins or shoulder and also no complaint by her prior to investigations. In essence, the magistrate’s finding that these two charges were made out was based solely on his finding that she was a truthful witness and that her account was to be believed. 
 
-33     Where a conviction is to be based solely on the word of the complainant, the correct approach to be taken was set out by me in _Kwan Peng Hong v PP_ [2000] 4 SLR 96, where I emphasised that extreme caution must be taken in examining the complainant’s evidence. However, I also held that there must be an evidential basis for suggesting that the complainant’s evidence was unreliable. 
+33     Where a conviction is to be based solely on the word of the complainant, the correct approach to be taken was set out by me in _Kwan Peng Hong v PP_ <span class="citation">[2000] 4 SLR 96</span>, where I emphasised that extreme caution must be taken in examining the complainant’s evidence. However, I also held that there must be an evidential basis for suggesting that the complainant’s evidence was unreliable. 
 
 34     While this approach was not explicitly stated by the magistrate in his grounds of decision, it was clear that he had scrutinised in great detail all of the witnesses’ evidence. The defence was also 
 

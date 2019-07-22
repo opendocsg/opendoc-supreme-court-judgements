@@ -14,7 +14,7 @@
 
 _Insolvency law_ – _Bankruptcy_ – _Bankruptcy effects_
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2012] 4 SLR 89.]
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2012] 4 SLR 89</span>.]
 
 18 January 2013
 
@@ -22,7 +22,7 @@ _Insolvency law_ – _Bankruptcy_ – _Bankruptcy effects_
 
 **Introduction**
 
-1       This was an appeal against the decision of the High Court judge (“the Judge”) holding that the disposition of the interest of the appellant’s ex-husband (“the Bankrupt”) in two properties to the appellant (“the Disposition”) pursuant to an interim consent judgment in a divorce suit (“the ICJ”) made between the date of the bankruptcy application against the Bankrupt and the date of the bankruptcy order was void by virtue of s 77(1) of the Bankruptcy Act (Cap 20, 2009 Rev Ed) (“the Act”). The Judge also declined to ratify the Disposition (see _Cheo Sharon Andriesz v Official Assignee of the estate of Andriesz Paul Matthew, a bankrupt_ [2012] 4 SLR 89 (“the GD”)). The properties in question (collectively, “the Properties”) consist of the matrimonial home at No 35 Kew Drive, Singapore 466104 (“the matrimonial property”) and a condominium in Penang (“the Penang property”).
+1       This was an appeal against the decision of the High Court judge (“the Judge”) holding that the disposition of the interest of the appellant’s ex-husband (“the Bankrupt”) in two properties to the appellant (“the Disposition”) pursuant to an interim consent judgment in a divorce suit (“the ICJ”) made between the date of the bankruptcy application against the Bankrupt and the date of the bankruptcy order was void by virtue of s 77(1) of the Bankruptcy Act (Cap 20, 2009 Rev Ed) (“the Act”). The Judge also declined to ratify the Disposition (see _Cheo Sharon Andriesz v Official Assignee of the estate of Andriesz Paul Matthew, a bankrupt_ <span class="citation">[2012] 4 SLR 89</span> (“the GD”)). The properties in question (collectively, “the Properties”) consist of the matrimonial home at No 35 Kew Drive, Singapore 466104 (“the matrimonial property”) and a condominium in Penang (“the Penang property”).
 
 2       We dismissed the appeal, and we now set out the grounds for our decision.
 
@@ -234,7 +234,7 @@ recognition” [^10] that but for s 39 of the MCA 1973, a disposition under a co
 
 31     For the reasons set out above, we dismissed the appeal with costs.
 
-32     This appeal also serves as a reminder that it is prudent for parties to a litigation to conduct the relevant bankruptcy searches before the commencement of proceedings. This applies equally to divorce cases. Indeed, in this last-mentioned regard (reference may also be made to the observations in the Singapore High Court decision of _Lee Hong Choon v Ng Cheo Hwee_ [1995] 1 SLR(R) 92 at [36]– [38]), there is, in our view, merit in considering the promulgation of relevant Practice Directions in both the Family Court as well as the High Court which require the parties in the proceedings at first instance to list both basic information (including the results of bankruptcy searches) as well as any other information which might be relevant to the court in making a consent order pursuant to an application for the same by the parties concerned.
+32     This appeal also serves as a reminder that it is prudent for parties to a litigation to conduct the relevant bankruptcy searches before the commencement of proceedings. This applies equally to divorce cases. Indeed, in this last-mentioned regard (reference may also be made to the observations in the Singapore High Court decision of _Lee Hong Choon v Ng Cheo Hwee_ <span class="citation">[1995] 1 SLR(R) 92</span> at [36]– [38]), there is, in our view, merit in considering the promulgation of relevant Practice Directions in both the Family Court as well as the High Court which require the parties in the proceedings at first instance to list both basic information (including the results of bankruptcy searches) as well as any other information which might be relevant to the court in making a consent order pursuant to an application for the same by the parties concerned.
 
 [^1]: Appellant’s Core Bundle, vol 2 at pp 24–25.
 [^2]: _Id_ at p 32.

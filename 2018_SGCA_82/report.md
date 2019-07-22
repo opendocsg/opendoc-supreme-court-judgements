@@ -63,7 +63,7 @@ March 2018. [note: 4]
 
 **Our decision** 
 
-14     A court faced with an application for extension of time should consider four factors: (a) the length of the delay; (b) the reasons for the delay; (c) the chances of the appeal succeeding if time for appealing were extended; and (d) the prejudice caused to the would-be respondent if an extension of time was in fact granted: see _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ [2008] 1 SLR(R) 757 (“ _Lee Hsien Loong_ ”) at [28]. 
+14     A court faced with an application for extension of time should consider four factors: (a) the length of the delay; (b) the reasons for the delay; (c) the chances of the appeal succeeding if time for appealing were extended; and (d) the prejudice caused to the would-be respondent if an extension of time was in fact granted: see _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ <span class="citation">[2008] 1 SLR(R) 757</span> (“ _Lee Hsien Loong_ ”) at [28]. 
 
 15     On the facts of this case, the primary consideration was whether Mr Ho’s intended appeal against OS 563 was so hopeless that granting an extension of time would really be an exercise in futility and a waste of time and costs. In our view, OS 563 had no chance of success. 
 
@@ -146,7 +146,7 @@ _parte_ proceedings as evidence of the merits of his proposed appeal from OS 563
 
  23 9 September 2015 Court of Appeal hears and dismisses SUM 210 
 
- 24 22 June 2015 Court of Appeal delivers judgment in AGQ v Attorney-General and another appeal [2015] 4 SLR 760, wherein Ho and HPK had taken out suit against the Government of Singapore 
+ 24 22 June 2015 Court of Appeal delivers judgment in AGQ v Attorney-General and another appeal <span class="citation">[2015] 4 SLR 760</span>, wherein Ho and HPK had taken out suit against the Government of Singapore 
 
  25 23 August 2016 Costs Order taxed at $249,600 (with disbursements of $126,414.92) in BC 152/ 
 

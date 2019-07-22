@@ -112,13 +112,13 @@ _The issues_
 
  e Whether the sentence imposed was manifestly excessive. 
 
-21     In dealing with this appeal, the court bore in mind certain well-established principles. Determinations by trial judges often involve an assessment of both the facts and the witnesses demeanour. The relationship between objective evidence and the trial judges findings on the veracity of a witness was set out in _PP v Yeo Choon Poh_ [1994] 2 SLR 867: 
+21     In dealing with this appeal, the court bore in mind certain well-established principles. Determinations by trial judges often involve an assessment of both the facts and the witnesses demeanour. The relationship between objective evidence and the trial judges findings on the veracity of a witness was set out in _PP v Yeo Choon Poh_ <span class="citation">[1994] 2 SLR 867</span>: 
 
  As was held by Spenser-Wilkinson J in Tara Singh & Ors v PP [1949] MLJ 88 at p 89, the principle is that an impression as to the demeanour of the witness ought not to be adopted by a trial judge without testing it against the whole of his evidence. 
 
 In the present case, the judge was careful to state, in relation to every witness, that her conclusions were based on both objective evidence and the witness demeanour. 
 
-22     What then, is the role of the appellate court in relation to the trial judges findings based on fact and those based on demeanour? The starting point was _Yap Giau Beng Terence v PP_ [1998] 3 SLR 656: 
+22     What then, is the role of the appellate court in relation to the trial judges findings based on fact and those based on demeanour? The starting point was _Yap Giau Beng Terence v PP_ <span class="citation">[1998] 3 SLR 656</span>: 
 
  It is trite law that an appellate court should be slow to overturn the trial judges findings of fact, especially where they hinge on the trial judges assessment of the credibility and veracity of witnesses , unless they can be shown to be plainly wrong or against the weight of evidence 
 
@@ -133,7 +133,7 @@ In the present case, the judge was careful to state, in relation to every witnes
 
 _The first issue: identification evidence_ 
 
-24     The starting point was _Heng Aik Ren Thomas v PP_ [1998] 3 SLR 465, which adapted the _Turnbull_ guidelines to the Singapore legal system. In dealing with identification evidence, the principles to be applied were: 
+24     The starting point was _Heng Aik Ren Thomas v PP_ <span class="citation">[1998] 3 SLR 465</span>, which adapted the _Turnbull_ guidelines to the Singapore legal system. In dealing with identification evidence, the principles to be applied were: 
 
  a Does the prosecutions case depend wholly or substantially on the correctness of the identification evidence? 
 
@@ -152,7 +152,7 @@ _The first issue: identification evidence_
  d Any special reasons for the witness to remember the accused: in this case, PW5 was put through a harrowing experience. As was pointed out in PP 
 
 
- v L (a minor) [1999] 3 SLR 219, this was likely t o carve the assailants image indelibly into the victims mind: 
+ v L (a minor) <span class="citation">[1999] 3 SLR 219</span>, this was likely t o carve the assailants image indelibly into the victims mind: 
 
  It seemed to me that it was precisely the fact that she had been molested which would have caused [the witness] to take a really good look at her molester and commit his face to her memory. ( emphasis added ) 
 
@@ -174,7 +174,7 @@ _The second issue: the offence of rioting_
 
  (c) to commit any mischief or criminal trespass, or other offence 
 
-30     The first requirement under this element is that the common object of the assembly was, for example, to commit an offence. _Lim Thian Hor v PP_ [1996] 2 SLR 258 drew a distinction between "common object" and "similar or same object". For the former, "it is essential that the object should be 
+30     The first requirement under this element is that the common object of the assembly was, for example, to commit an offence. _Lim Thian Hor v PP_ <span class="citation">[1996] 2 SLR 258</span> drew a distinction between "common object" and "similar or same object". For the former, "it is essential that the object should be 
 
 
 common to the persons who constitute the assembly and they should be aware of it and concur in it." In the present case, there was no doubt that the group of men knew of and concurred in the plan to cause hurt to PW5. They had gathered at Sim Lim Tower for that purpose. The common object, causing hurt to a person, obviously fell within the definition of an "offence". 
@@ -220,9 +220,9 @@ The fourth issue: the prosecutions failure to call a witness
 
  (g) that evidence which could be and is not produced would if produced by unfavourable to the person who withholds it. 
 
-39     The general principle is that a presumption will only arise if it constitutes a withholding of evidence from the accused or the court ( _Yeo Choon Huat v PP_ [1998] 1 SLR 217). In determining whether evidence has been withheld, the factors which should be considered include: 
+39     The general principle is that a presumption will only arise if it constitutes a withholding of evidence from the accused or the court ( _Yeo Choon Huat v PP_ <span class="citation">[1998] 1 SLR 217</span>). In determining whether evidence has been withheld, the factors which should be considered include: 
 
- a How material was the evidence of the witness who was not produced? ( Chua Keem Long v PP [1996] 1 SLR 510) 
+ a How material was the evidence of the witness who was not produced? ( Chua Keem Long v PP <span class="citation">[1996] 1 SLR 510</span>) 
 
 
  b Did the prosecution intend to hinder or hamper the defence? ( Chua Keem Long v PP ) 
@@ -275,7 +275,7 @@ _Motion to adduce fresh evidence: Criminal Motion 29 of 2001_
 
 Lim Tower, rather than that he _was_ somewhere else. 
 
-49     The third hurdle, too, was not cleared. It was sufficient to refer to _Chung Tuck Kwai v PP_ [1998] 2 SLR 693, which disposed of the matter: 
+49     The third hurdle, too, was not cleared. It was sufficient to refer to _Chung Tuck Kwai v PP_ <span class="citation">[1998] 2 SLR 693</span>, which disposed of the matter: 
 
  At this stage of appeal, the prosecution would not have the opportunity of cross-examining [the witness] to determine his credibility. The additional evidence was of such a nature that it ought not to be accepted as credible without [him] being put to cross-examination. ( emphasis added ) 
 

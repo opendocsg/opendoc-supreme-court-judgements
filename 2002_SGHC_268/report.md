@@ -94,7 +94,7 @@ _Background_
 
 _The bank’s duties_ 
 
-9\. When a creditor sells property it holds as security, the debtor’s interests must be taken into account. A bank which exercises its right of sale under a pledge must take care that the sale is a provident sale, see _The Odessa_ [1916] 1 AC 145, and _Malayan Banking Berhad v Hwang Rose_ [1997] 2 SLR 1. Where there is a guarantor, the duty extends to him as he has an interest in the sale as he is also liable for the debt remaining after the sale, see _Standard Chartered Bank Ltd v Walker_ [1982] 3 All ER 938, _American Express International Banking Corp v Hurley_ [1985] 3 All ER 564, _The Bank of East Asia v Tan Chin Mong Holdings (S) Pte Ltd_ [2001] 2 SLR 193, _Goh Chin Soon v Vickers Capital Ltd_ [2001] SLR 728, and _Bank of Credit and Commerce International Societe Anonyme (Licensed Deposit Takers) v Aboody_ (30 Sept 1987, Queen’s Bench Division, unreported). 
+9\. When a creditor sells property it holds as security, the debtor’s interests must be taken into account. A bank which exercises its right of sale under a pledge must take care that the sale is a provident sale, see _The Odessa_ [1916] 1 AC 145, and _Malayan Banking Berhad v Hwang Rose_ <span class="citation">[1997] 2 SLR 1</span>. Where there is a guarantor, the duty extends to him as he has an interest in the sale as he is also liable for the debt remaining after the sale, see _Standard Chartered Bank Ltd v Walker_ [1982] 3 All ER 938, _American Express International Banking Corp v Hurley_ [1985] 3 All ER 564, _The Bank of East Asia v Tan Chin Mong Holdings (S) Pte Ltd_ <span class="citation">[2001] 2 SLR 193</span>, _Goh Chin Soon v Vickers Capital Ltd_ [2001] SLR 728, and _Bank of Credit and Commerce International Societe Anonyme (Licensed Deposit Takers) v Aboody_ (30 Sept 1987, Queen’s Bench Division, unreported). 
 
 10\. When the bank decided to sell the pledged shares, it owed a duty to the plaintiff as the pledgor of the SME shares and guarantor of Asminco’s borrowing to take reasonable steps in effecting the sale. 
 
@@ -133,7 +133,7 @@ _The law_
 
 12\. The plaintiff’s application was made under Order 24 rule 6 of the Rules of Court. Rule 6 (3) requires that an application for pre- action discovery be supported by an affidavit which must state the grounds for the application, the material facts pertaining to the intended proceedings and whether the person against whom the order is sought is likely to be a party to subsequent proceedings in court. 
 
-13\. The Court of Appeal set out the law governing pre-action discovery under the Rules of the Supreme Court 1990 in _Kuah Kok Kim v Ernst & Young_ [1997] 1 SLR 169. The law is not changed under the Rules of Court. 
+13\. The Court of Appeal set out the law governing pre-action discovery under the Rules of the Supreme Court 1990 in _Kuah Kok Kim v Ernst & Young_ <span class="citation">[1997] 1 SLR 169</span>. The law is not changed under the Rules of Court. 
 
 
 14\. The Court ruled that: 

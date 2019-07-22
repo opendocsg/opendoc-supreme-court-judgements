@@ -18,7 +18,7 @@ _Contract_ – _Breach_
 
 _Commercial Transactions_ – _Sale of Goods_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 351.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 351</span>.] 
 
 2 November 2011 Judgment Reserved 
 
@@ -28,7 +28,7 @@ _Commercial Transactions_ – _Sale of Goods_
 
 1       This appeal and cross-appeal concern a dispute between a paint manufacturer and a painting subcontractor on whether latent defects in the supplied paint led to the serious discolouration of the internal surfaces at various parts of a building project. The subcontractor sued for losses, _ie_ , expenses which it had incurred in repainting the affected surfaces. The manufacturer in turn made a counter-claim for the balance sum due on the paint sold to the subcontractor. 
 
-2       A High Court judge (“the Judge”) dismissed the subcontractor’s claim and allowed the manufacturer’s counterclaim for the sum of $72,676.62; see _Anti-Corrosion Pte Ltd v Berger Paints Singapore Pte Ltd_ [2010] SGHC 351 (“the judgment”). In dismissing the claim by the subcontractor, the Judge found at [19] of the judgment that “the [appellant] has not proven on balance of probability [ _sic_ ] that the defects in [the paint] had caused the discolouration”. Pertinently, at [21] of the judgment, the Judge also determined: 
+2       A High Court judge (“the Judge”) dismissed the subcontractor’s claim and allowed the manufacturer’s counterclaim for the sum of $72,676.62; see _Anti-Corrosion Pte Ltd v Berger Paints Singapore Pte Ltd_ <span class="citation">[2010] SGHC 351</span> (“the judgment”). In dismissing the claim by the subcontractor, the Judge found at [19] of the judgment that “the [appellant] has not proven on balance of probability [ _sic_ ] that the defects in [the paint] had caused the discolouration”. Pertinently, at [21] of the judgment, the Judge also determined: 
 
  ... that if I had to decide on the issue of the warranty, I would have found that [the Respondent]] had warranted all its products used in any of the plaintiff’s projects for a period of 5 years provided that the use was based on a proposed paint system by the defendant. 
 
@@ -214,7 +214,7 @@ the transcript is as follows: [note: 11]
 
 **_The parol evidence rule does not preclude incorporation of Joseph Yong’s representations to Vincent Lim._** 
 
-24     It was undisputed that the tax invoices and delivery orders formed part of the contract. However, an issue that arises is whether Joseph Yong’s oral statements to Vincent Lim that a sealer coat was not required and that a warranty was provided were incorporated into the contract. This in turn raises two further issues. The first is whether consideration of the evidence of these statements falls foul of the parol evidence rule. In our opinion, it does not. In _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 at [112], this court noted: 
+24     It was undisputed that the tax invoices and delivery orders formed part of the contract. However, an issue that arises is whether Joseph Yong’s oral statements to Vincent Lim that a sealer coat was not required and that a warranty was provided were incorporated into the contract. This in turn raises two further issues. The first is whether consideration of the evidence of these statements falls foul of the parol evidence rule. In our opinion, it does not. In _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> at [112], this court noted: 
 
  [T]he parol evidence rule only operates where the contract was intended by the parties to contain all the terms of their agreement. Where the contractual terms are ambiguous on their face, it is likely that the contract does not contain all the terms intended by the parties. Furthermore, in order to ascertain whether the parties intended to embody their entire agreement 
 
@@ -317,7 +317,7 @@ discolouration despite its insistence that it maintained “detailed logs”. [n
 
 **_Test of causation_** 
 
-39     The _but for_ test of causation in tort also applies in ascertaining whether there has been factual causation for the purposes of contract law. In _Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric_ [2007] 3 SLR(R) 782, this court stated (at [63]): 
+39     The _but for_ test of causation in tort also applies in ascertaining whether there has been factual causation for the purposes of contract law. In _Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric_ <span class="citation">[2007] 3 SLR(R) 782</span>, this court stated (at [63]): 
 
  In our view, there is no reason why the “but for” test in tort cannot also be used in contract cases to determine the issue of causation in fact ... Accordingly, we adopted the tortious test for causation in fact in considering the issue of causation in SME’s claims in both tort and contract. [emphasis in original] 
 

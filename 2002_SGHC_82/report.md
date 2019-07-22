@@ -63,7 +63,7 @@ The Defendants’ application and appeal basis and opposition
 
 9\. Before me, Counsel for the Defendants, Mr. Dason, proceeded on the basis of a concession that the Plaintiffs’ claim framed in negligence fell within the scope of s 3(1)(l) of the Act. 
 
-10\. For the reasons explained below, Counsel’s concession is misplaced. I accordingly rejected it. Selvam J in **_The "Ohm Marina"_** [1992] 2 SLR 623 at 630 stated: 
+10\. For the reasons explained below, Counsel’s concession is misplaced. I accordingly rejected it. Selvam J in **_The "Ohm Marina"_** <span class="citation">[1992] 2 SLR 623</span> at 630 stated: 
 
  "The admiralty jurisdiction of the High Court of Singapore is essentially statutory, namely the jurisdiction conferred on the High Court by the High Court (Admiralty Jurisdiction) Act (cap 123) ("the Act"). The Act lays down the conditions, which must be satisfied before a claimant avails himself of the right to institute in rem proceedings against a ship and the powerful right to effect an arrest of the ship. As the in rem jurisdiction is created and limited by statute, the parties cannot confer such jurisdiction by agreement or waiver." 
 
@@ -96,16 +96,16 @@ Jurisdiction and Onus of Proof
 
  (iii) the 2-stage test in s 4(4) of the Act that is to say, satisfy the in personam and in rem test. 
 
-(See: Selvam J in The **_"Opal 3"_** [1992] 2 SLR 585 at 590) 
+(See: Selvam J in The **_"Opal 3"_** <span class="citation">[1992] 2 SLR 585</span> at 590) 
 
 **(i) Section 3 (1) (l)** **_"_** **any claim in respect of goods or materials supplied to a ship for her operation or maintenance"** 
 
 
 20\. The Plaintiffs’ submission is that Court has jurisdiction to hear and determine this claim under s. 3(1)(l) of the Act. 
 
-21\. Mr. Sin contended that the words "in respect of" in par. (l) should be substituted for the words "arising out of". In **_The "Indriani"_** [1996] 1 SLR 305, the words "arising out of" were interpreted widely to mean "connected with". On this wide interpretation, par. (l) would cover the Plaintiffs’ claim in tort even though there was no contractual relationship between the Plaintiffs and the owners of "ALEXANDREA". 
+21\. Mr. Sin contended that the words "in respect of" in par. (l) should be substituted for the words "arising out of". In **_The "Indriani"_** <span class="citation">[1996] 1 SLR 305</span>, the words "arising out of" were interpreted widely to mean "connected with". On this wide interpretation, par. (l) would cover the Plaintiffs’ claim in tort even though there was no contractual relationship between the Plaintiffs and the owners of "ALEXANDREA". 
 
-22\. Such an approach, he stated, would be in keeping with several decisions of the Court of Appeal (such as **_The "Trade Fair"_** [1994] 3 SLR 827"; **_Alexander G Tsavliris & Sons Maritime Co v Keppel Corp Ltd_** [1995] 2 SLR 113) where some provisions of s. 3(1) of the Act were given a wide and liberal construction. Mr. Sin argued for a wider admiralty jurisdiction. 
+22\. Such an approach, he stated, would be in keeping with several decisions of the Court of Appeal (such as **_The "Trade Fair"_** <span class="citation">[1994] 3 SLR 827</span>"; **_Alexander G Tsavliris & Sons Maritime Co v Keppel Corp Ltd_** <span class="citation">[1995] 2 SLR 113</span>) where some provisions of s. 3(1) of the Act were given a wide and liberal construction. Mr. Sin argued for a wider admiralty jurisdiction. 
 
 23\. The Court of Appeal in **_The "Trade Fair"_** construed the word ‘for’ in s. 3(1)(f) of the Act as bearing the wider meaning of ‘arising out of’. Mr. Sin referred to the speech of Lord Brandon in **_The "Antonis P Lemos"_** [1985] 1 Lloyd’s Rep 283 which was relied on by Karthigesu JA in **_The "Trade Fair"._** Karthigesu JA at p 832 of the report observed: 
 

@@ -30,7 +30,7 @@ _Family Law_ – _Matrimonial assets_ – _Division_ – _Indirect contributions
 
 3       The anc illary matters took on a life of their own when the respondent raised allegations that the petitioner had misappropriated substantial sums of money out of the family nest-egg. Taking this into ac c ount the respondent asserted that the gross value of the matrimonial assets exc eeded $1.5m. The matter then c ame before me on 5 July 2006. 
 
-4       The c entral allegation made by the respondent was that a sum of around RM5 million had been ac c umulated over a period of time. He maintained that this was to have been their retirement fund. He further alleged that this sum had been siphoned off by the petitioner over a period of time prior to her leaving the respondent. On the authority of the dec ision of Judith Prakash J in _Yow Mee Lan v Chen Kai Buan_ [2000] 4 SLR 466 (“ _Yow Mee Lan_ ”), the respondent submitted that these amounts should be restored to the pool of matrimonial assets and be taken into ac c ount in the distribution. 
+4       The c entral allegation made by the respondent was that a sum of around RM5 million had been ac c umulated over a period of time. He maintained that this was to have been their retirement fund. He further alleged that this sum had been siphoned off by the petitioner over a period of time prior to her leaving the respondent. On the authority of the dec ision of Judith Prakash J in _Yow Mee Lan v Chen Kai Buan_ <span class="citation">[2000] 4 SLR 466</span> (“ _Yow Mee Lan_ ”), the respondent submitted that these amounts should be restored to the pool of matrimonial assets and be taken into ac c ount in the distribution. 
 
 5       At the hearing before me on 5 July 2006, the respondent was represented by Mr Goh Aik Chew who as it turns out was c ounsel for the petitioner in _Yow Mee Lan_. During the c ourse of the hearing, Mr Goh went through various payments and transac tions involving the petitioner, in some c ases with referenc e to the doc uments. In partic ular, Mr Goh submitted that a number of c heques had been signed by the petitioner and were either made out in her favour or to c ash and these appeared to have been enc ashed or paid into bank ac c ounts some of whic h had not been disc losed by the petitioner. On the basis of Mr Goh’s submissions, it seemed to me that some of the 
 
@@ -153,7 +153,7 @@ c aregiver and the only person doing housekeeping work to the exc lusion of the 
 
 35     Prakash J in _Yow Mee Lan_ also noted that a marriage is not a business but a union where the spouses work together for a c ommon goal. In this c ontext even if they eac h have unequal abilities, this should not result in unequal rewards where they have c onsistently and over a long period made their respec tive c ontributions as best they c ould. 
 
-36     This approac h was subsequently approved by the Court of Appeal in _Lim Choon Lai v Chew Kim Heng_ [2001] 3 SLR 225. (“ _Lim Choon Lai_ ”). 
+36     This approac h was subsequently approved by the Court of Appeal in _Lim Choon Lai v Chew Kim Heng_ <span class="citation">[2001] 3 SLR 225</span>. (“ _Lim Choon Lai_ ”). 
 
 37     Beyond these princ iples, it is useful to have regard to how the c ourts have applied the 
 
@@ -195,7 +195,7 @@ foregoing princ iples to arrive at a just and equitable distribution. In _Yow Me
 
 **Costs** 
 
-44     This brings me finally to the question of c osts. Mr Foong submitted that his c lient was entitled to c osts bec ause the divorc e had been granted on the basis of the respondent’s unreasonable behaviour. Further, he submitted on the authority of _Tham Khai Meng v Nam Wen Jet Bernadette_ [1997] 2 SLR 27 at [49]-[50] that the anc illary matters are part of the hearing of the petition and the same order should follow on the hearing of the anc illaries. Finally, he submitted that muc h time and effort had been expended on the anc illaries by reason of the respondent’s allegations as to the diversion of funds by the petitioner. 
+44     This brings me finally to the question of c osts. Mr Foong submitted that his c lient was entitled to c osts bec ause the divorc e had been granted on the basis of the respondent’s unreasonable behaviour. Further, he submitted on the authority of _Tham Khai Meng v Nam Wen Jet Bernadette_ <span class="citation">[1997] 2 SLR 27</span> at [49]-[50] that the anc illary matters are part of the hearing of the petition and the same order should follow on the hearing of the anc illaries. Finally, he submitted that muc h time and effort had been expended on the anc illaries by reason of the respondent’s allegations as to the diversion of funds by the petitioner. 
 
 
 45     Mr Low on the other hand, submitted that eac h party should bear their own c osts. 

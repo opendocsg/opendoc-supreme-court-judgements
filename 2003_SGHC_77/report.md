@@ -63,7 +63,7 @@ inserted his finger into the anus of the victim. Only the 21st charge, which was
 
 10     The accused’s reason for committing the offences was that he could not control his lust. He thought that by having anal intercourse, this would be less painful because faeces pass through the anus. He claimed to regret what he had done and sought leniency. 
 
-11     Mr Imran Hamid for the prosecution did not press for a deterrent sentence. Mr Hamid submitted that the case before me stood somewhere between the case of _Lim Hock Hin Kelvin v Public Prosecutor_ [1998] 1 SLR 801 and _Adam Bin Darsin v Public Prosecutor_ [2001] 2 SLR 413. 
+11     Mr Imran Hamid for the prosecution did not press for a deterrent sentence. Mr Hamid submitted that the case before me stood somewhere between the case of _Lim Hock Hin Kelvin v Public Prosecutor_ <span class="citation">[1998] 1 SLR 801</span> and _Adam Bin Darsin v Public Prosecutor_ <span class="citation">[2001] 2 SLR 413</span>. 
 
 12     In _Lim Hock Hin Kelvin_ , the accused faced a total of 40 charges and pleaded guilty to ten. The offences comprised anal intercourse and coercing or cajoling the victims to perform fellatio on the accused. The victims were five boys between the age of eight and twelve. The accused there also had previous convictions for similar offences. The High Court sentenced the accused to ten years’ imprisonment on each of the four charges on anal intercourse which the prosecution proceeded with. Each of these sentences were to run consecutively making a total of 40 years. The accused’s appeal against sentence was dismissed. 
 
@@ -82,7 +82,7 @@ inserted his finger into the anus of the victim. Only the 21st charge, which was
 15     For cases under s 354, Yong CJ had also said in _Ng Chiew Kiat v Public Prosecutor_ 
 
 
-[2000] 1 SLR 370 that nine months’ imprisonment and caning is warranted for acts of molest involving intrusion of the victim’s private parts although in _Toh Kok How v Public Prosecutor_ [1995] 1 SLR 735, the accused was also sentenced by Yong CJ to nine months’ imprisonment and three strokes of the cane for using his knuckles to press onto the right breast of the victim. On the other hand, Yong CJ also said in _Ng Chiew Kiat_ that there were offences under s 354 which were relatively minor for which a fine would suffice. Ultimately, the appropriate sentence would depend on the nature of the act of molest as well as the circumstances surrounding the commission of the offence. 
+<span class="citation">[2000] 1 SLR 370</span> that nine months’ imprisonment and caning is warranted for acts of molest involving intrusion of the victim’s private parts although in _Toh Kok How v Public Prosecutor_ <span class="citation">[1995] 1 SLR 735</span>, the accused was also sentenced by Yong CJ to nine months’ imprisonment and three strokes of the cane for using his knuckles to press onto the right breast of the victim. On the other hand, Yong CJ also said in _Ng Chiew Kiat_ that there were offences under s 354 which were relatively minor for which a fine would suffice. Ultimately, the appropriate sentence would depend on the nature of the act of molest as well as the circumstances surrounding the commission of the offence. 
 
 16     I accepted Mr Hamid’s submission that in the case before me, the gravity of the offences and the circumstances surrounding the commission of the offences under s 377 stood somewhere between the case of _Lim Hock Hin Kelvin_ and _Adam Bin Darsin_. 
 

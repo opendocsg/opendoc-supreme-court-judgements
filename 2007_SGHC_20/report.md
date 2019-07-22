@@ -190,10 +190,10 @@ Charge.
 
 **_Had due cause been shown?_** 
 
-24     The first issue we considered was whether due cause had been shown under s 83(2)( _h_ ) of the Act. The scope of this provision has been explained by Yong Pung How CJ in _Law Society of Singapore v Ng Chee Sing_ [2000] 2 SLR 165, where he held at [40] that s 83(2)( _h_ ) was a catch-all provision which could be invoked when the conduct did not fall within any of the other enumerated grounds but 
+24     The first issue we considered was whether due cause had been shown under s 83(2)( _h_ ) of the Act. The scope of this provision has been explained by Yong Pung How CJ in _Law Society of Singapore v Ng Chee Sing_ <span class="citation">[2000] 2 SLR 165</span>, where he held at [40] that s 83(2)( _h_ ) was a catch-all provision which could be invoked when the conduct did not fall within any of the other enumerated grounds but 
 
 
-was nevertheless considered unacceptable. There is no doubt that rude and discourteous behaviour to the Bench is a clear example of unacceptable behaviour that would fall under s 83(2)( _h_ ) of the Act. The importance of courtesy and respect towards judicial authority is so fundamental that these professional values have been prescribed in r 55( _a_ ) of the Legal Profession (Professional Conduct) Rules (Cap 161, R 1, 2000 Rev Ed) (“the Professional Conduct Rules”), which provides that “[a]n advocate and solicitor shall at all times ... act with due courtesy to the Court before which he is appearing”. Recently, in _Public Trustee v By Products Traders Pte Ltd_ [2005] 3 SLR 449, V K Rajah J observed at [33] that the Professional Conduct Rules codified “several time-honoured and established ethical and professional conventions, practices and customs into statutory obligations [that] must now unfailingly and assiduously be observed by all solicitors”. Viewed in this light, breaches of the Professional Conduct Rules have to be dealt with seriously. 
+was nevertheless considered unacceptable. There is no doubt that rude and discourteous behaviour to the Bench is a clear example of unacceptable behaviour that would fall under s 83(2)( _h_ ) of the Act. The importance of courtesy and respect towards judicial authority is so fundamental that these professional values have been prescribed in r 55( _a_ ) of the Legal Profession (Professional Conduct) Rules (Cap 161, R 1, 2000 Rev Ed) (“the Professional Conduct Rules”), which provides that “[a]n advocate and solicitor shall at all times ... act with due courtesy to the Court before which he is appearing”. Recently, in _Public Trustee v By Products Traders Pte Ltd_ <span class="citation">[2005] 3 SLR 449</span>, V K Rajah J observed at [33] that the Professional Conduct Rules codified “several time-honoured and established ethical and professional conventions, practices and customs into statutory obligations [that] must now unfailingly and assiduously be observed by all solicitors”. Viewed in this light, breaches of the Professional Conduct Rules have to be dealt with seriously. 
 
 25     Let us recall the acts of misconduct which the respondent was charged with and to which he had admitted at the hearing before the DC. They were as follows: 
 
@@ -224,7 +224,7 @@ was nevertheless considered unacceptable. There is no doubt that rude and discou
 
 29     Upon due cause being shown, s 83(1) of the Act provides that an advocate and solicitor may either be struck off the roll, suspended from practice for a period not exceeding five years, or censured. 
 
-30     In determining the proper punishment for the relevant professional misconduct, the oft-cited principles underlying disciplinary sentencing should also be borne in mind. In _Law Society of Singapore v Tham Yu Xian Rick_ [1999] 4 SLR 168, Yong Pung How CJ held at [18] that disciplinary action under s 83 of the Act served three functions: 
+30     In determining the proper punishment for the relevant professional misconduct, the oft-cited principles underlying disciplinary sentencing should also be borne in mind. In _Law Society of Singapore v Tham Yu Xian Rick_ <span class="citation">[1999] 4 SLR 168</span>, Yong Pung How CJ held at [18] that disciplinary action under s 83 of the Act served three functions: 
 
  (a) punishment of the errant advocate and solicitor for his misconduct; 
 

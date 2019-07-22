@@ -120,7 +120,7 @@ There is no gainsaying that the dispute between the parties over Interim Certifi
 
 **(b) Whether the plaintiffs’ claim is indisputable so that the court has jurisdiction to decide the claim despite the arbitration agreement in cl 37(1)** 
 
-19     The plaintiffs contended that where the evidence is so clear-cut that the defendant does not have any valid defence at all, the court will not allow a stay. For support, they drew on the dictum of GP Selvam JC (as he then was) in _Uni-Navigation Pte Ltd v Wei Loong Shipping Pte Ltd_ [1993] 1 SLR 876 at 879, where he said: 
+19     The plaintiffs contended that where the evidence is so clear-cut that the defendant does not have any valid defence at all, the court will not allow a stay. For support, they drew on the dictum of GP Selvam JC (as he then was) in _Uni-Navigation Pte Ltd v Wei Loong Shipping Pte Ltd_ <span class="citation">[1993] 1 SLR 876</span> at 879, where he said: 
 
  It therefore follows that where the claim is undisputed or indisputable the court and not the arbitrators have the jurisdiction to decide upon the claim even though the arbitration agreement stipulates for disputes to be referred to arbitration. 
 
@@ -166,7 +166,7 @@ of the Court of Appeal in _Lloyd Brothers v Milward_ (1895), 2 Hudson’s BC (4t
 
 I therefore do not find any of the three cases to be of any assistance to the defendant. 
 
-28     Likewise, I find _Steel Industries Pte Ltd v Deenn Engineering Pte Ltd_ [2003] 3 SLR 377 (“the _Steel Industries_ case”) cited by the defendant to be of no help to the defendant’s case. This was cited by the defendant in support of its contention that the architect had no power under the Contract to issue a certificate for payment once arbitration proceedings had begun as so to do would usurp the function of the arbitrator. 
+28     Likewise, I find _Steel Industries Pte Ltd v Deenn Engineering Pte Ltd_ <span class="citation">[2003] 3 SLR 377</span> (“the _Steel Industries_ case”) cited by the defendant to be of no help to the defendant’s case. This was cited by the defendant in support of its contention that the architect had no power under the Contract to issue a certificate for payment once arbitration proceedings had begun as so to do would usurp the function of the arbitrator. 
 
 29     In that case, the defendants (the main contractors in a redevelopment project) nominated the plaintiffs as sub-contractors. Under the sub-contract, the plaintiffs agreed that they were entitled to seek payment from the defendants only for the sum certified by the architect provided the defendants themselves had been paid or were deemed to have been paid by the employers in the project. The plaintiffs subsequently applied for summary judgment against the defendants for payment under a certain Interim Certificate No 19 issued by the architect. The architect had also issued a certificate of payment (“Certificate of Payment”) certifying that the defendants were deemed to have been paid by the employers in respect of the plaintiffs’ works. The defendants sought a stay of proceedings pending a referral of the matter to arbitration. The assistant registrar ordered a stay of proceedings and dismissed the application for summary judgment. 
 
@@ -246,7 +246,7 @@ The learned judge then concluded that all the revised interim certificates and t
 
 **(d) Whether the arbitrator is** **_functus officio_** **and, if so, whether for that reason the plaintiffs are entitled to bring their action in court** 
 
-45     In law, once the arbitrator has published his award, the arbitration proceedings are concluded. An award is made and published when the arbitrator gives notice to the parties that the award is ready for collection and not when they have notice of the actual contents of the award: _Hong Huat Development Co (Pte) Ltd v Hiap Hong & Co Pte Ltd_ [2000] 2 SLR 609. Thereafter the arbitrator is _functus officio_. As the plaintiffs pointed out, the arbitrator stated as much in his letter of 28 April 2006 to the parties. 
+45     In law, once the arbitrator has published his award, the arbitration proceedings are concluded. An award is made and published when the arbitrator gives notice to the parties that the award is ready for collection and not when they have notice of the actual contents of the award: _Hong Huat Development Co (Pte) Ltd v Hiap Hong & Co Pte Ltd_ <span class="citation">[2000] 2 SLR 609</span>. Thereafter the arbitrator is _functus officio_. As the plaintiffs pointed out, the arbitrator stated as much in his letter of 28 April 2006 to the parties. 
 
 46     Although, owing to the plaintiffs’ refusal to deposit $25,000 with the arbitrator to secure his fees and expenses the plaintiffs’ counterclaim had not been heard, the arbitrator could not be said to be suspended or incomplete. It is quite clear to me that the plaintiffs did not intend to have their counterclaim heard by the arbitrator. However, whilst I would agree with the plaintiffs that the arbitrator for the earlier disputes is _functus officio_ , it does not follow that the present dispute between the parties should bypass arbitration altogether. The agreed procedure in cl 37(1) for referring the dispute to arbitration should be followed with regard to this dispute. As the learned assistant registrar quite rightly pointed out, a new arbitrator can be appointed and fresh arbitration proceedings commenced. 
 
@@ -290,7 +290,7 @@ As may be observed, the provisions of cl 37(11) relevant to this case merely per
 
 Several other holdings of the High Court were reversed by the Court of Appeal which reversal was upheld by the Privy Council. 
 
-Since the amendment of O 14, r 1 of the Rules of Court (Cap 322, R5, 2006 Rev Ed) allowing an application for summary judgment to be made only after a defence has been filed, it has not been possible for such application to be heard together with a stay application. It was held by the Court of Appeal in _Samsung Corp v Chinese Chamber Realty Pte Ltd_ [2004] 1 SLR 382 that the intention behind the amendment must have been that no O 14 application should be made while a stay application was pending. 
+Since the amendment of O 14, r 1 of the Rules of Court (Cap 322, R5, 2006 Rev Ed) allowing an application for summary judgment to be made only after a defence has been filed, it has not been possible for such application to be heard together with a stay application. It was held by the Court of Appeal in _Samsung Corp v Chinese Chamber Realty Pte Ltd_ <span class="citation">[2004] 1 SLR 382</span> that the intention behind the amendment must have been that no O 14 application should be made while a stay application was pending. 
 
  Copyright © Government of Singapore. 
 

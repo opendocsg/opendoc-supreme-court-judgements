@@ -554,7 +554,7 @@ and under her particulars for the tort of misfeasance [note: 67] which she repea
 
 **_The tort of misfeasance in public office_** 
 
-115    In _Lines International Holding (S) Pte Ltd v Singapore Tourist Promotion Board and another_ [1997] 1 SLR(R) 52 at [138], the High Court cited _Judicial Remedies in Public Law_ by Clive Lewis (at Ch 14, pp 59-64) for the proposition that the essence of the tort of misfeasance in public office is an act done by a public officer or public body where: 
+115    In _Lines International Holding (S) Pte Ltd v Singapore Tourist Promotion Board and another_ <span class="citation">[1997] 1 SLR(R) 52</span> at [138], the High Court cited _Judicial Remedies in Public Law_ by Clive Lewis (at Ch 14, pp 59-64) for the proposition that the essence of the tort of misfeasance in public office is an act done by a public officer or public body where: 
 
  (a) the act is done maliciously or with the knowledge that it is ultra vires the power of the public body; 
 
@@ -583,7 +583,7 @@ _Is NUS a public body for the purpose of the tort of misfeasance of a public off
 
 124    Indeed, in that case, the university was contending that it is a statutory body with public functions and hence the plaintiff student ought to have sought judicial review within a three-month period, rather than commence action for breach of contract with a longer limitation period. 
 
-125    The Plaintiff also relied on this court’s decision in _Tey Tsun Hang v Public Prosecutor_ [2014] 2 SLR 1189 at [208] where this court held that NUS is a public body for the purpose of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed) (“PCA”). However, it is quite clear that that finding was for the purpose of PCA only and it did not mean that NUS is a public body in all respects and circumstances. The present dispute between the Plaintiff and NUS arises from the contract between them as set out above. 
+125    The Plaintiff also relied on this court’s decision in _Tey Tsun Hang v Public Prosecutor_ <span class="citation">[2014] 2 SLR 1189</span> at [208] where this court held that NUS is a public body for the purpose of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed) (“PCA”). However, it is quite clear that that finding was for the purpose of PCA only and it did not mean that NUS is a public body in all respects and circumstances. The present dispute between the Plaintiff and NUS arises from the contract between them as set out above. 
 
 126    In any event, it is not necessary to reach a conclusion as to whether NUS is a public body and its officers are holding public office for the purpose of the present action as the Plaintiff was not able to establish that NUS had acted deliberately as I will elaborate below. 
 
@@ -1031,7 +1031,7 @@ case was that NUS had breached the Agreement between them by imposing: [note: 98
 
  (c) the Acceptance requirement. 
 
-270    Relying on the Court of Appeal decision in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp Marine_ ”) and para 35A of the Supreme Court Practice Directions, the Plaintiff submitted that para 4 of the Defence was deficient in specificity. The Court of Appeal said at [73]: 
+270    Relying on the Court of Appeal decision in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp Marine_ ”) and para 35A of the Supreme Court Practice Directions, the Plaintiff submitted that para 4 of the Defence was deficient in specificity. The Court of Appeal said at [73]: 
 
  We hasten to add that although the contextual approach is most frequently engaged in the context of interpretation, this is not to say that the contextual approach is irrelevant when it comes to other aspects of construction such as implication or rectification. Indeed, it is trite that the court must have regard to the context at the time of contracting when considering the issue of implication. Therefore, to buttress the evidentiary qualifications to the contextual approach to the construction of a contract, the imposition of four requirements of civil procedure are, in our view, timely and essential: 
 

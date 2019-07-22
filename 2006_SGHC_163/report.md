@@ -90,7 +90,7 @@ Lerner and Leong asserted, _inter alia_ , that the fourth defendant, Sjenny Zaha
 
  then, if, having regard to all the circumstances of the case, the Court thinks it just to do so, it may order the plaintiff to give such security for the defendant’s costs of the action or other proceeding as it thinks just. 
 
-16     In _Pandian Marimuthu v Guan Leong Construction Pte Ltd_ [2001] 3 SLR 400 at [12], G P Selvam J stated the principles which govern the exercise of the power to order security as follows: 
+16     In _Pandian Marimuthu v Guan Leong Construction Pte Ltd_ <span class="citation">[2001] 3 SLR 400</span> at [12], G P Selvam J stated the principles which govern the exercise of the power to order security as follows: 
 
 
  (1) Security will not be ordered based on the mere fact that the plaintiff is a foreigner with no address or assets within the jurisdiction. The applicant must establish that in all the circumstances of the case it would be just to grant the application. 
@@ -101,7 +101,7 @@ Lerner and Leong asserted, _inter alia_ , that the fourth defendant, Sjenny Zaha
 
  (4) Ultimately the court should, on a broad view, weigh the merits of the claim and defence and decide whether it would be just to order security. 
 
-17     In _Jurong Town Corp v Wishing Star Ltd_ [2004] 2 SLR 427 at [14], Chao Hick Tin JA (as he then was) said: 
+17     In _Jurong Town Corp v Wishing Star Ltd_ <span class="citation">[2004] 2 SLR 427</span> at [14], Chao Hick Tin JA (as he then was) said: 
 
  It is settled law that it is not an inflexible or rigid rule that a plaintiff resident abroad should provide security for costs. The court has a complete discretion in the matter: see Keary Developments Ltd v Tarmac Construction Ltd [1995] 3 All ER 534. It seems to us that under r 1(1)(a), once the pre-condition, namely, being “ordinarily resident out of the jurisdiction”, is satisfied, the court will consider all the circumstances to determine whether it is just that security should be ordered. There is no presumption in favour of, or against, a grant. The ultimate decision is in the discretion of the court, after balancing the competing factors. No objective criteria can ever be laid down as to the weight any particular factor should be accorded. It would depend on the fact situation. Where the court is of the view that the circumstances are evenly balanced it would ordinarily be just to order security against a foreign plaintiff. 
 

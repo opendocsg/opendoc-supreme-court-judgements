@@ -18,19 +18,19 @@ _Criminal procedure and sentencing_ – _criminal references_
 
 _Criminal procedure and sentencing_ – _disclosure_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2015] 4 SLR 1184.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2015] 4 SLR 1184</span>.] 
 
 30 November 2015 
 
 **Sundaresh Menon CJ (delivering the judgment of the court** **_ex tempore_** **):** 
 
-1       On 28 March 2014, the applicant was convicted of two charges of using criminal force on the complainant, a 38-year-old female, with the intention to outrage her modesty, under s 354(1) of the Penal Code (Cap 224, 2008 Rev Ed). He was sentenced to an aggregate term of ten months’ imprisonment. The district judge’s decision is published as _Public Prosecutor v Winston Lee Siew Boon_ [2014] SGDC 308. The applicant appealed against the district judge’s decision, but his appeal against both his conviction and sentence was dismissed by Chan Seng Onn J in _Lee Siew Boon Winston v Public Prosecutor_ [2015] 4 SLR 1184 (“ _Lee Siew Boon Winston_ ”). One issue that arose during the trial and at the appeal was whether the Prosecution had a duty to disclose two statements of the complainant which had been recorded by the investigating officer. 
+1       On 28 March 2014, the applicant was convicted of two charges of using criminal force on the complainant, a 38-year-old female, with the intention to outrage her modesty, under s 354(1) of the Penal Code (Cap 224, 2008 Rev Ed). He was sentenced to an aggregate term of ten months’ imprisonment. The district judge’s decision is published as _Public Prosecutor v Winston Lee Siew Boon_ <span class="citation">[2014] SGDC 308</span>. The applicant appealed against the district judge’s decision, but his appeal against both his conviction and sentence was dismissed by Chan Seng Onn J in _Lee Siew Boon Winston v Public Prosecutor_ <span class="citation">[2015] 4 SLR 1184</span> (“ _Lee Siew Boon Winston_ ”). One issue that arose during the trial and at the appeal was whether the Prosecution had a duty to disclose two statements of the complainant which had been recorded by the investigating officer. 
 
 2       In this criminal motion, the applicant applies for leave to refer the following questions of law to the Court of Appeal pursuant to s 397(1) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed): 
 
  Question 1 
 
- Whether the presumption of legality or regularity of acts done in relation to the exercise of prosecutorial power, expressed by this Honourable Court in Ramalingam Ravinthran v Attorney General [2012] 2 SLR 49 at [46]: 
+ Whether the presumption of legality or regularity of acts done in relation to the exercise of prosecutorial power, expressed by this Honourable Court in Ramalingam Ravinthran v Attorney General <span class="citation">[2012] 2 SLR 49</span> at [46]: 
 
  (a) Applies only to matters where the prosecution exercises constitutional or discretionary powers and not to matters relating to the conduct of a trial by the prosecution, in particular in relation to duties owed to the Court; or whether the presumption 
 
@@ -53,7 +53,7 @@ _Criminal procedure and sentencing_ – _disclosure_
 
 4       At the outset, we should reiterate that in our system of criminal justice, there is only one tier of appeal. In this case, the applicant was convicted after trial; an appeal was subsequently filed and that was dismissed. The applicant has no further right to appeal. What is left is the criminal reference procedure, where one or more questions of law of public interest can be brought to the Court of Appeal, but only with leave. 
 
-5       There are clear limitations on the bringing of a criminal reference, and those limitations have been, and will continue to be, observed scrupulously so that our system of a single tier of appeal does not in substance become a system with two tiers of appeal. As this court observed in _Mohammad Faizal bin Sabtu and another matter v Public Prosecutor and another matter_ [2013] 2 SLR 141 (“ _Mohammad Faizal_ ”) at [21], “[t]o liberally construe s 397 so as to more freely allow a reference to the Court of Appeal would seriously undermine the system of one-tier appeal”. 
+5       There are clear limitations on the bringing of a criminal reference, and those limitations have been, and will continue to be, observed scrupulously so that our system of a single tier of appeal does not in substance become a system with two tiers of appeal. As this court observed in _Mohammad Faizal bin Sabtu and another matter v Public Prosecutor and another matter_ <span class="citation">[2013] 2 SLR 141</span> (“ _Mohammad Faizal_ ”) at [21], “[t]o liberally construe s 397 so as to more freely allow a reference to the Court of Appeal would seriously undermine the system of one-tier appeal”. 
 
 6       The aforementioned limitations are embodied in the four well-established conditions which must be satisfied before leave is granted to bring a criminal reference under s 397(1): 
 
@@ -66,11 +66,11 @@ _Criminal procedure and sentencing_ – _disclosure_
  (d) fourth, the determination of that question of law by the High Court must have affected the outcome of the case. 
 
 
-( _Mohammad Faizal_ at [15], citing _Bachoo Mohan Singh v Public Prosecutor and other applications_ [2010] 1 SLR 966 at [29]) 
+( _Mohammad Faizal_ at [15], citing _Bachoo Mohan Singh v Public Prosecutor and other applications_ <span class="citation">[2010] 1 SLR 966</span> at [29]) 
 
-7       Further, the court retains the discretion to refuse leave even where these conditions are satisfied, although strong and cogent grounds would have to be shown before the court exercises its discretion in this manner ( _Mah Kiat Seng v Public Prosecutor_ [2011] 3 SLR 859 at [13], cited with approval in _James Raj s/o Arokiasamy v Public Prosecutor_ [2014] 3 SLR 750 at [15]). 
+7       Further, the court retains the discretion to refuse leave even where these conditions are satisfied, although strong and cogent grounds would have to be shown before the court exercises its discretion in this manner ( _Mah Kiat Seng v Public Prosecutor_ <span class="citation">[2011] 3 SLR 859</span> at [13], cited with approval in _James Raj s/o Arokiasamy v Public Prosecutor_ <span class="citation">[2014] 3 SLR 750</span> at [15]). 
 
-8       As mentioned, Mr Sreenivasan posed three questions of law which he contended should be answered. The first centres on whether the presumption of legality affirmed by this court in _Ramalingam Ravinthran v Attorney General_ [2012] 2 SLR 49 (“ _Ramalingam_ ”) at [44] applies in the context of what was referred to as the “ _Kadar_ obligation of disclosure” (stemming from the decision of this court in _Muhammad Bin Kadar and another v Public Prosecutor_ [2011] 3 SLR 1205 (“ _Kadar_ ”)). In our judgment, this does not raise a question of law of public interest. The presumption is a rebuttable presumption that stems from the fact that those holding public office are to be taken, in the first instance, to be acting lawfully ( _Ramalingam_ at [45]). Mr Sreenivasan submitted that this does not extend beyond the exercise of prosecutorial discretion to the conduct of a case before the court. But we see no basis to think that this is so. As was noted in _Ramalingam_ : 
+8       As mentioned, Mr Sreenivasan posed three questions of law which he contended should be answered. The first centres on whether the presumption of legality affirmed by this court in _Ramalingam Ravinthran v Attorney General_ <span class="citation">[2012] 2 SLR 49</span> (“ _Ramalingam_ ”) at [44] applies in the context of what was referred to as the “ _Kadar_ obligation of disclosure” (stemming from the decision of this court in _Muhammad Bin Kadar and another v Public Prosecutor_ <span class="citation">[2011] 3 SLR 1205</span> (“ _Kadar_ ”)). In our judgment, this does not raise a question of law of public interest. The presumption is a rebuttable presumption that stems from the fact that those holding public office are to be taken, in the first instance, to be acting lawfully ( _Ramalingam_ at [45]). Mr Sreenivasan submitted that this does not extend beyond the exercise of prosecutorial discretion to the conduct of a case before the court. But we see no basis to think that this is so. As was noted in _Ramalingam_ : 
 
  (a) At [46], the presumption is justified in the case of the Public Prosecutor by virtue of his high constitutional office and hence the courts may presume that when he acts, he is doing so to vindicate the public interest. In our judgment, the underlying rationale for the presumption continues to apply beyond the initial decision to prosecute through to the actual conduct of the case in court. It is true that before the court, those conducting the prosecution are also officers of the court and for any failure in this regard, they may be held to account. But that is not an issue that has arisen in this case; and 
 

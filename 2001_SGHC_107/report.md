@@ -120,7 +120,7 @@ _O 14 r 12(1) of the Rules of Court_
 
 ## or issue therein. 
 
-7\. As for whether a plaintiff in a defamation case may rely on O 14 r 12(1) to have the ordinary meaning of words in an allegedly defamatory document construed, the position is not in doubt. In _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ [1999] 4 SLR 529, 554-555 which concerned an allegation of defamation arising from a press statement, LP Thean JA, who delivered the judgment of the Court of Appeal, said as follows: 
+7\. As for whether a plaintiff in a defamation case may rely on O 14 r 12(1) to have the ordinary meaning of words in an allegedly defamatory document construed, the position is not in doubt. In _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ <span class="citation">[1999] 4 SLR 529</span>, 554-555 which concerned an allegation of defamation arising from a press statement, LP Thean JA, who delivered the judgment of the Court of Appeal, said as follows: 
 
 ## As for the argument that the meaning of the words complained of is not suitable 
 
@@ -156,7 +156,7 @@ _O 14 r 12(1) of the Rules of Court_
 
 8\. Mr Imran Khwaja, the counsel for Aberdeen and Mr Young, contended that the present factual matrix made the application for a construction of the allegedly defamatory words in the letter before the trial inappropriate. He also submitted that if the letter is construed, it will be found that it is not defamatory of the plaintiffs. 
 
-9\. At the outset, it ought to be noted that Mr Fam, Mr Tan and Mr Maclean, unlike F & N, were not specifically referred to in the letter. I thus ruled that whether or not there is a sufficient nexus between Mr Fam, Mr Tan and Mr Maclean and the allegedly defamatory words in the letter is a question which should be determined at the trial. This is because extrinsic evidence would be required to show why they were also defamed in the letter and it is clear from the decision of the Court of Appeal in _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ [1999] 4 SLR 529, 555 that such evidence is not admissible in an 
+9\. At the outset, it ought to be noted that Mr Fam, Mr Tan and Mr Maclean, unlike F & N, were not specifically referred to in the letter. I thus ruled that whether or not there is a sufficient nexus between Mr Fam, Mr Tan and Mr Maclean and the allegedly defamatory words in the letter is a question which should be determined at the trial. This is because extrinsic evidence would be required to show why they were also defamed in the letter and it is clear from the decision of the Court of Appeal in _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ <span class="citation">[1999] 4 SLR 529</span>, 555 that such evidence is not admissible in an 
 
 
 application under O 14 r 12(1). However, in the case of F & N, I saw no reason why there could not be a determination of the natural and ordinary meaning of the allegedly defamatory words in the letter. 
@@ -179,7 +179,7 @@ _Principles for construing allegedly defamatory words_
 
 ## and that is also regarded as part of their natural and ordinary meaning. 
 
-11\. The above passage was endorsed by the Court of Appeal in _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ [1999] 4 SLR 529, 556. 
+11\. The above passage was endorsed by the Court of Appeal in _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ <span class="citation">[1999] 4 SLR 529</span>, 556. 
 
 12\. The principles for determining the natural and ordinary meaning of words are well known. In _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ , LP Thean JA summed up the position at p 555 as follows: 
 

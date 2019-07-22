@@ -74,7 +74,7 @@ _Family law_ – _Matrimonial assets_ – _Division_
 
  a. She had nurtured and taken care of [the Child], and invested time and effort to promote his development and well-being, particularly when he was very young. Her efforts are especially recognised as it is undisputed that the Husband is out of Singapore for half of the week. She also continued this role after she and [the Child] moved out. 
 
- b. I accept that as a working mother, she had to have domestic help to assist in [the Child]’s care while she is working. However, I do not think this substantially reduces her role as [the Child]’s mother. In Tay Yong Kwang J’s words, “Having a maid in the household, or a number of maids for that matter, does not mean abdication of parental responsibility” Lee Chung Meng Joseph v. Krysgman Juliet Angela [2000] 3 SLR(R) 965 at [41]. She would thus also have had to train and supervise the maid for the childcare arrangements and household chores. 
+ b. I accept that as a working mother, she had to have domestic help to assist in [the Child]’s care while she is working. However, I do not think this substantially reduces her role as [the Child]’s mother. In Tay Yong Kwang J’s words, “Having a maid in the household, or a number of maids for that matter, does not mean abdication of parental responsibility” Lee Chung Meng Joseph v. Krysgman Juliet Angela <span class="citation">[2000] 3 SLR(R) 965</span> at [41]. She would thus also have had to train and supervise the maid for the childcare arrangements and household chores. 
 
  c. She had made sacrifices in her career in the first years of the marriage, in order to take better care of [the Child]. This is obvious from the way her salary stagnated in those years, then quickly rose when [the Child] was older and the Wife could [better balance work and her other responsibilities] ( Note: bracketed words added on 26 April 2016 ). 
 
@@ -97,7 +97,7 @@ _Family law_ – _Matrimonial assets_ – _Division_
 10     First, Ms Cheong argues that the DJ erred in finding that the fact that the parties had a domestic helper was immaterial because the Wife would have had to train and supervise the domestic 
 
 
-helper in performing household chores. Ms Cheong submits that both Husband and Wife would have had to manage the helper on a daily basis and cites _ANJ v ANK_ [2015] SGCA 32 (“ _ANJ v ANK_ ”) at [27(c)]) for the proposition that the assistance of a domestic helper would reduce the indirect contributions made by the homemaker. 
+helper in performing household chores. Ms Cheong submits that both Husband and Wife would have had to manage the helper on a daily basis and cites _ANJ v ANK_ <span class="citation">[2015] SGCA 32</span> (“ _ANJ v ANK_ ”) at [27(c)]) for the proposition that the assistance of a domestic helper would reduce the indirect contributions made by the homemaker. 
 
 11     Secondly, Ms Cheong argues that the DJ erred in finding that the Wife had made sacrifices in her career to care for the child. Ms Cheong submits that the Wife’s salary stagnated and rose without any correlation to the Child’s age or the supposed effort put in by the Wife. The Husband also claims that the Wife was ambitious and focused on her career throughout the marriage. In particular, he claims that the Wife would work whenever she could and despite her indications that she would stop working to care for the Child, she did not do so. 
 
@@ -225,7 +225,7 @@ _Indirect non-financial contributions_
 
  ...the engagement of a domestic helper naturally reduces the burden of homemaking and caregiving responsibilities undertaken by the parties, and to that extent, the weight accorded to the parties’ collective indirect contributions. 
 
-Nevertheless, I caveat that the presence of a domestic helper within a household should not be treated as an overriding factor in the determination of the parties’ homemaking and caregiving contributions. Domestic helpers play different roles and provide differing extents of help to the families they assist. In some families, it is also possible that the parties continue to contribute actively as homemaker and caretaker even in the presence of domestic help. This is consistent with the view taken by the Court of Appeal in _AQS v AQR_ [2012] SGCA 3 where it stated at [40] that: 
+Nevertheless, I caveat that the presence of a domestic helper within a household should not be treated as an overriding factor in the determination of the parties’ homemaking and caregiving contributions. Domestic helpers play different roles and provide differing extents of help to the families they assist. In some families, it is also possible that the parties continue to contribute actively as homemaker and caretaker even in the presence of domestic help. This is consistent with the view taken by the Court of Appeal in _AQS v AQR_ <span class="citation">[2012] SGCA 3</span> where it stated at [40] that: 
 
  Having domestic help does not mean the wife made no contribution as a homemaker at all, especially when the parties’ household here included two children. 
 
@@ -280,7 +280,7 @@ Ms Cheong submits for an adverse inference to be drawn against the Wife and asks
 I note that the DJ did not draw any adverse inferences in the GD. 
 
 
-36     The court has the power to draw adverse inference against the party who fails to make full and frank disclosure of the matrimonial assets (see _ANJ v ANK_ at [29]). In order for the court to draw an adverse inference, there must be (see _Chan Tin Sun v Fong Quay Sim_ [2015] 2 SLR 195 at [62]): 
+36     The court has the power to draw adverse inference against the party who fails to make full and frank disclosure of the matrimonial assets (see _ANJ v ANK_ at [29]). In order for the court to draw an adverse inference, there must be (see _Chan Tin Sun v Fong Quay Sim_ <span class="citation">[2015] 2 SLR 195</span> at [62]): 
 
  (a) a substratum of evidence that establishes a prima facie case against the person against whom the inference is to be drawn; and 
 
@@ -319,7 +319,7 @@ records of the joint account. Accordingly, I refuse to draw an adverse inference
 
 **_The Wife’s increased spending habits_** 
 
-41     Before considering the Husband’s contention on the Wife’s increased spending habits, I pause to comment that it is incorrect for the Husband to be seeking to draw an adverse inference on the basis of the Wife’s misconduct in dissipating the assets through her personal expenditures. Instead, the Husband ought to have sought a negative contribution against the Wife for the alleged misconduct (see the Court of Appeal’s approach in _AQS v AQR_ [2012] SGCA 3 cited with approval in _Chan Tin Sun v Fong Quay Sim_ [2015] SGCA 2 at [24]). Nevertheless, even considering the Husband’s case as a properly framed argument, I am of the view that the Husband’s allegations are not proved. 
+41     Before considering the Husband’s contention on the Wife’s increased spending habits, I pause to comment that it is incorrect for the Husband to be seeking to draw an adverse inference on the basis of the Wife’s misconduct in dissipating the assets through her personal expenditures. Instead, the Husband ought to have sought a negative contribution against the Wife for the alleged misconduct (see the Court of Appeal’s approach in _AQS v AQR_ <span class="citation">[2012] SGCA 3</span> cited with approval in _Chan Tin Sun v Fong Quay Sim_ <span class="citation">[2015] SGCA 2</span> at [24]). Nevertheless, even considering the Husband’s case as a properly framed argument, I am of the view that the Husband’s allegations are not proved. 
 
 42     The Husband’s position is that from August 2011 onwards, after legal proceedings commenced, the Wife began a spending spree which drew down significantly on her sole bank accounts that should have rightly been part of the pool of matrimonial assets. The Husband asserts that the Wife’s increased expenditure is linked to the Wife’s new romantic relationship and her loss of desire to preserve the matrimonial assets in the view of an impending divorce. In response, the Wife contends that the Husband failed to show that the increased expenses had been used for the Wife’s personal expenses and that her increases in expenses were due to legitimate reasons. 
 

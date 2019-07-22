@@ -32,7 +32,7 @@
 
 _Civil Procedure_ – _Costs_ – _Taxation_ 
 
-[LawNet Editorial Note: The appeal to this dec ision in Civil Appeal No 154 of 2015 was dismissed by the Court of Appeal on 7 Marc h 2016. See [2016] SGCA 14.] 
+[LawNet Editorial Note: The appeal to this dec ision in Civil Appeal No 154 of 2015 was dismissed by the Court of Appeal on 7 Marc h 2016. See <span class="citation">[2016] SGCA 14</span>.] 
 
 13 May 2015 Judgment reserved. 
 
@@ -81,7 +81,7 @@ _Civil Procedure_ – _Costs_ – _Taxation_
 
 4       The Bills arose from disc iplinary proc eedings against Dr Lim. She was c harged and found guilty on 94 c harges of professional misc onduc t in respec t of one and the same patient. The first 83 c harges were for allegedly invoic ing the patient medic al fees that were far in exc ess of and disproportionate to the servic es rendered by Dr Lim and her medic al team. The remaining 11 c harges were for allegedly invoic ing the patient medic al fees that were far in exc ess of and disproportionate to the servic es rendered as well as falsely representing that suc h fees had been invoic ed by and/or would be payable to c ertain named doc tors, when Dr Lim knew or ought to have known that suc h representation was not true bec ause she had added a signific ant and undisc losed markup to the ac tual fees c harged by those doc tors. 
 
-5       Although the disc iplinary proc eedings against Dr Lim are not the same as the usual c ivil or c riminal proc eedings in the High Court, it is c ommon ground that in taxing the c osts of a party to suc h proc eedings, the c ourt will have regard to all the relevant c irc umstanc es and, in partic ular, to the fac tors stipulated in O 59 Appendix 1 of the Rules of Court (Cap 322, R5, 2014 Rev Ed) (see _Shorvon Simon v Singapore Medical Council_ [2006] 1 SLR(R) 182 (“ _Shorvon_ ”) at [19]). The fac tors stipulated in Appendix 1 of O 59, some of whic h overlap, are: 
+5       Although the disc iplinary proc eedings against Dr Lim are not the same as the usual c ivil or c riminal proc eedings in the High Court, it is c ommon ground that in taxing the c osts of a party to suc h proc eedings, the c ourt will have regard to all the relevant c irc umstanc es and, in partic ular, to the fac tors stipulated in O 59 Appendix 1 of the Rules of Court (Cap 322, R5, 2014 Rev Ed) (see _Shorvon Simon v Singapore Medical Council_ <span class="citation">[2006] 1 SLR(R) 182</span> (“ _Shorvon_ ”) at [19]). The fac tors stipulated in Appendix 1 of O 59, some of whic h overlap, are: 
 
  ( a ) the c omplexity of the item or of the c ause or matter in whic h it arises and the diffic ulty or novelty of the questions involved; 
 
@@ -98,7 +98,7 @@ _Civil Procedure_ – _Costs_ – _Taxation_
 
 6       It was also c ommon ground that the c harges raised issues of importanc e to both the SMC and to Dr Lim espec ially in the light of the quantum involved and the extent of the alleged overc harging. Dr Lim had c harged the patient an aggregate total of $24m. She subsequently offered to withdraw c ertain invoic es or disc ount her fees so that the aggregate would be reduc ed to about $12.6m. Even then, the Court of Three Judges agreed that the $12.6m figure would still be several times more than what she ought to have c harged the patient. 
 
-7       WongPartnership (“WP”) ac t for SMC. WP submitted that there were fundamentally important issues whic h were raised in the disc iplinary proc eedings. As the Court of Three Judges said in _Lim Mey Lee Susan v Singapore Medical Council_ [2013] 3 SLR 900 (“ _Susan Lim_ ”) at [1] and [2]: 
+7       WongPartnership (“WP”) ac t for SMC. WP submitted that there were fundamentally important issues whic h were raised in the disc iplinary proc eedings. As the Court of Three Judges said in _Lim Mey Lee Susan v Singapore Medical Council_ <span class="citation">[2013] 3 SLR 900</span> (“ _Susan Lim_ ”) at [1] and [2]: 
 
  1 ... [T]his appeal raises several related issues of fundamental importanc e. In partic ular, is there an ethical obligation on the part of all doc tors who prac tise medic ine in Singapore to c harge a fair and reasonable fee for their servic es? If so, is suc h an obligation an inherent one, or must it first be embodied within published legislation or rules before it c an be enforc ed? If suc h an ethic al obligation exists, is it inoperative in the face of a binding contract between a doctor and his or her patient (assuming that the c ontrac t in question is not otherwise rendered invalid under the general princ iples of contract law )? These questions raise, in turn, an even more fundamental question – what does it mean to be a professional? More spec ific ally, is a professional bound by ethical obligations whic h trump his or her commercial obligations and interests? If so, should a distinc tion be drawn between lawyers on the one hand and doc tors on the other, given that for lawyers, the answer to the lastmentioned question is in the affirmative, whilst c ounsel for the Appellant has argued that the c ontrary should obtain for his c lient instead? 
 
@@ -114,7 +114,7 @@ _Civil Procedure_ – _Costs_ – _Taxation_
 
  “This is a c ase that involves very c omplex and novel issues of law. It involves very c omplex and intric ate fac ts almost none of whic h have been analysed or presented in c omprehensible form ...” 
 
-10     Even so, the AR was of the view that the fac tual c omplexity of Dr Lim’s matter was not of the level as that in _Pang Ah San v Singapore Medical Council_ [2014] 1 SLR 1094 (“ _Pang Ah San_ ”) or that in 
+10     Even so, the AR was of the view that the fac tual c omplexity of Dr Lim’s matter was not of the level as that in _Pang Ah San v Singapore Medical Council_ <span class="citation">[2014] 1 SLR 1094</span> (“ _Pang Ah San_ ”) or that in 
 
 _Shorvon_. [note: 2] 
 

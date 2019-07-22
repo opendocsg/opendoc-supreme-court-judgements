@@ -20,7 +20,7 @@ _Tort_ – _Negligence_ – _Breach of duty_
 
 _Tort_ – _Negligence_ – _Causation_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 266.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 266</span>.] 
 
 23 July 2018 
 
@@ -30,7 +30,7 @@ _Tort_ – _Negligence_ – _Causation_
 
 1       The suit from which the present appeal arose was instituted by the Singapore Shooting Association (“SSA”) against the Singapore Rifle Association (“SRA”) for, among other things, the recovery of vacant possession of the land and premises at 990 Old Choa Chu Kang Road, Singapore 699814, known as the National Shooting Centre (“the Premises”). SRA counterclaimed against SSA to seek compensation for the losses caused by two floods that occurred at the Premises on 24 December 2014 and 3 May 2015 (respectively, “the 1st Flood” and “the 2nd Flood”), allegedly due to SSA’s negligence in, _inter alia_ , maintaining the condition and ensuring the safety of the Premises. Subsequently, SSA withdrew its claim against SRA, leaving only SRA’s counterclaim to proceed to trial. 
 
-2       The High Court judge (“the Judge”) dismissed SRA’s counterclaim in relation to the 1st Flood on the ground that although SSA had breached its duty to take reasonable care to maintain the condition and ensure the safety of the Premises arising from the renovation works (which included alteration works) carried out there, that breach had not caused the 1st Flood. She allowed, however, SRA’s counterclaim in relation to the 2nd Flood and awarded SRA damages of $4,708. With regard to costs, the Judge held that SRA, despite succeeding in its counterclaim in respect of the 2nd Flood, should pay costs to SSA fixed at $85,600, plus reasonable disbursements, because SRA was unsuccessful in its counterclaim in relation to the 1st Flood, which was the main claim at the trial, and the sum awarded to SRA for its counterclaim in relation to the 2nd Flood was minimal. The decision of the Judge is reported as _Singapore Shooting Association v Singapore Rifle Association_ [2017] SGHC 266 (“the GD”). SRA appealed against that part of the Judge’s decision pertaining to the counterclaim in respect of the 1st Flood and the costs order. 
+2       The High Court judge (“the Judge”) dismissed SRA’s counterclaim in relation to the 1st Flood on the ground that although SSA had breached its duty to take reasonable care to maintain the condition and ensure the safety of the Premises arising from the renovation works (which included alteration works) carried out there, that breach had not caused the 1st Flood. She allowed, however, SRA’s counterclaim in relation to the 2nd Flood and awarded SRA damages of $4,708. With regard to costs, the Judge held that SRA, despite succeeding in its counterclaim in respect of the 2nd Flood, should pay costs to SSA fixed at $85,600, plus reasonable disbursements, because SRA was unsuccessful in its counterclaim in relation to the 1st Flood, which was the main claim at the trial, and the sum awarded to SRA for its counterclaim in relation to the 2nd Flood was minimal. The decision of the Judge is reported as _Singapore Shooting Association v Singapore Rifle Association_ <span class="citation">[2017] SGHC 266</span> (“the GD”). SRA appealed against that part of the Judge’s decision pertaining to the counterclaim in respect of the 1st Flood and the costs order. 
 
 
 3       After hearing the parties’ oral submissions on 8 May 2018, we dismissed SRA’s appeal and held that SSA was not liable in negligence in respect of the 1st Flood. Contrary to the Judge’s holding, SSA could not be said to have _breached_ any duty of care that it owed to SRA. Furthermore, SSA’s actions did not _cause_ the losses that SRA complained of. In these grounds, we explain the reasons for our decision, as well as discuss the law on occupiers’ liability and clarify how that law should be applied in the present case. 
@@ -152,7 +152,7 @@ _Costs_
 
  (a) SSA had succeeded in defending SRA’s “main and largest [counter]claim” in respect of the 1st Flood, while SRA had succeeded only in its counterclaim in respect of the 2nd Flood, which was “much smaller in quantum”. The appropriate costs award should reflect this split outcome. Further, the trial had centred on the evidence relating to the 1st Flood. 
 
- (b) Although the Judge had found in SRA’s favour where the elements of duty and breach in respect of the 1st Flood were concerned, the issue-based approach towards costs, as discussed in Khng Thian Huat and another v Riduan bin Yusof and another [2005] 1 SLR(R) 130, was not a basis for SRA to be awarded costs overall. 
+ (b) Although the Judge had found in SRA’s favour where the elements of duty and breach in respect of the 1st Flood were concerned, the issue-based approach towards costs, as discussed in Khng Thian Huat and another v Riduan bin Yusof and another <span class="citation">[2005] 1 SLR(R) 130</span>, was not a basis for SRA to be awarded costs overall. 
 
  (c) The Judge had not held that SSA had breached its duty of care in the manner argued by SRA. 
 
@@ -187,7 +187,7 @@ _Costs_
 
 **The applicable law** 
 
-22     We begin by setting out the legal principles applicable to this appeal. In _See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others_ [2013] 3 SLR 284 (“ _See Toh_ ”), we held that the law in Singapore on occupiers’ liability could and should be subsumed under the tort of negligence, with the overarching framework set out in _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ [2007] 4 SLR(R) 100 (“ _Spandeck_ ”) for the imposition of a duty of care in negligence claims being applied to determine whether an occupier owed a duty of care to an entrant to his premises (see _See Toh_ at [76] _per_ V K Rajah JA, at [127] _per_ Sundaresh Menon CJ and at [144] _per_ Chao Hick Tin JA (as he then was)). 
+22     We begin by setting out the legal principles applicable to this appeal. In _See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others_ <span class="citation">[2013] 3 SLR 284</span> (“ _See Toh_ ”), we held that the law in Singapore on occupiers’ liability could and should be subsumed under the tort of negligence, with the overarching framework set out in _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ <span class="citation">[2007] 4 SLR(R) 100</span> (“ _Spandeck_ ”) for the imposition of a duty of care in negligence claims being applied to determine whether an occupier owed a duty of care to an entrant to his premises (see _See Toh_ at [76] _per_ V K Rajah JA, at [127] _per_ Sundaresh Menon CJ and at [144] _per_ Chao Hick Tin JA (as he then was)). 
 
 23     The following observations of Rajah JA in _See Toh_ (at [77]–[82]) bear reiterating: 
 

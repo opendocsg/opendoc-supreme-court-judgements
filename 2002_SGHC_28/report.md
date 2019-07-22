@@ -92,7 +92,7 @@ _Special reasons_
 
  ... a mitigating or extenuating circumstance, not amounting in law to a defence to the charge, yet directly connected with the commission of the offence and one which the court ought properly to take into consideration when imposing punishment ... 
 
-15     This passage was quoted and approved by Lord Goddard in _Whittall v Kirby_ [1946] 2 All ER 552 and subsequently followed in local decisions including _PP v Balasubramaniam_ [1992] 1 SLR 822 and _Joseph Roland v PP_ (1996) 1 SLR 179. It is clear that whether the facts of the case amount to ‘special reasons’ is a question of law and should be decided in view of the circumstances surrounding the offender’s commission of the offence. 
+15     This passage was quoted and approved by Lord Goddard in _Whittall v Kirby_ [1946] 2 All ER 552 and subsequently followed in local decisions including _PP v Balasubramaniam_ <span class="citation">[1992] 1 SLR 822</span> and _Joseph Roland v PP_ (1996) 1 SLR 179. It is clear that whether the facts of the case amount to ‘special reasons’ is a question of law and should be decided in view of the circumstances surrounding the offender’s commission of the offence. 
 
 16     In the instant case, the prosecution never disputed the facts alleged by the appellant. As such, I was prepared to accept the appellant’s version of events, in particular, his reason for driving whilst under the influence of drink. He had no reason to doubt Ms Rajee’s determination to carry out her threat to take the lives of her children and herself. With the magnitude of risk, that is, the three lives at stake and the fact that he was the only person who was aware of Ms Rajee’s threats and resolve, the appellant must have felt compelled to take drastic action, including driving in his inebriated state. 
 
@@ -118,7 +118,7 @@ _Discretion_
 24     It is clear that Parliament regards drink driving offences so seriously as to warrant an almost mandatory minimum period of 12 months’ disqualification. However, in order to properly exercise the discretion bestowed by act of Parliament, it is helpful to refer 
 
 
-to _MV Balakrishnan v PP_ [1998] 3 SLR 586 at 590, where I quoted from _Re Kanapathipillai_ [1960] MLJ 243 H: 
+to _MV Balakrishnan v PP_ <span class="citation">[1998] 3 SLR 586</span> at 590, where I quoted from _Re Kanapathipillai_ [1960] MLJ 243 H: 
 
  Magistrates must appreciate that where there is a duty to disqualify a convicted person from holding a licence to drive a motor vehicle ... such duty falls not within the discretion of the convicting court but is imposed by the act of the legislature. This duty is not identified with the maximum punishment to be mitigated according to established principles. The duty is mandatory but the act of the legislature has given a limited discretion to a convicting court, to be exercised judicially, to refrain from implementing the law’s clearly expressed requirement for a reason which is special to the offence but not for a reason special to the offender... 
 

@@ -16,7 +16,7 @@
 
 _Companies_ – _Members_ – _Rights_ – _Derivative Actions_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 11 of 2016 was allowed while the application in Summons No 91 of 2016 was dismissed by the Court of Appeal on 2 November 2016. See [2017] SGCA 5.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 11 of 2016 was allowed while the application in Summons No 91 of 2016 was dismissed by the Court of Appeal on 2 November 2016. See <span class="citation">[2017] SGCA 5</span>.] 
 
 23 February 2016 
 
@@ -105,7 +105,7 @@ displace the 2nd and 3rd Defendants in their conduct of the suit.
 
 22     I was not satisfied that the Plaintiff was acting in good faith. The Defendants argued that the Plaintiff was motivated by a personal vendetta, citing his e-mail instructions to his solicitor from ETL which appeared to show that the Plaintiff wanted to use the lawsuit to get back at Pang, and to cause reputational damage to him and Helen. The Defendants also pointed to the Plaintiff’s failure to give reasons for starting and maintaining Suit 215 as evidencing a lack of good faith. I took this to mean that his failure to provide such reasons was further evidence of a personal vendetta on his part. I did not find that any of these examples cited by the Defendants were on their own sufficient to show a lack of good faith. However, taking them as a whole, and also taking into account the sequence of events leading to the commencement of Suit 215, I was of the view that good faith was lacking on the part of the Plaintiff. 
 
-23     The existence of personal animosity does not by itself preclude good faith, provided the action sought by the applicant benefits the company: see _Ang Thiam Swee v Low Hian Chor_ [2013] 2 SLR 340 (“ _Ang Thiam Swee_ ”), where the Court of Appeal noted, after citing _Pang Yong Hock v PKS Contracts Services Pte Ltd_ [2004] 3 SLR(R) 1 (“ _Pang Yong Hock_ ”), at [13]: 
+23     The existence of personal animosity does not by itself preclude good faith, provided the action sought by the applicant benefits the company: see _Ang Thiam Swee v Low Hian Chor_ <span class="citation">[2013] 2 SLR 340</span> (“ _Ang Thiam Swee_ ”), where the Court of Appeal noted, after citing _Pang Yong Hock v PKS Contracts Services Pte Ltd_ <span class="citation">[2004] 3 SLR(R) 1</span> (“ _Pang Yong Hock_ ”), at [13]: 
 
  ...it is not the questionable motivations of the applicant per se which amount to bad faith; instead, bad faith may be established where these questionable motivations constitute a personal purpose which indicates that the company’s interests will not be served... 
 

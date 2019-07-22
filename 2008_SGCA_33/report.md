@@ -22,7 +22,7 @@ V K Rajah JA (delivering the grounds of decision of the court):
 
 **Introduction** 
 
-1       This is an appeal against the decision of the High Court judge (“the Judge”) in _Lau Yu Man v Wellmix Organics (International) Pte Ltd_ [2007] SGHC 223 (“the second GD”), where he ordered that Wellmix Organics (International) Pte Ltd (“the Company”) be wound up pursuant to s 254(1)( _c_ ) of the Companies Act (Cap 50, 2006 Rev Ed) on the basis that the Company had suspended its business for more than a year. This winding-up order followed hard on the heels of the Judge’s refusal to grant an extension of time to the Company to make good its persistent disregard of the requirements of the Companies Act and the Companies Regulations (Cap 50, Rg 1, 1990 Rev Ed) in accordance with his earlier order in _Lau Yu Man v Wellmix Organics (International) Pte Ltd_ [2007] SGHC 96 (“the first GD”). The appellants vigorously contested the winding-up order on the basis that the Judge failed to assess all the relevant factors in exercising his discretion to wind up the Company, including the consideration that the winding-up application was in itself an abuse of process. 
+1       This is an appeal against the decision of the High Court judge (“the Judge”) in _Lau Yu Man v Wellmix Organics (International) Pte Ltd_ <span class="citation">[2007] SGHC 223</span> (“the second GD”), where he ordered that Wellmix Organics (International) Pte Ltd (“the Company”) be wound up pursuant to s 254(1)( _c_ ) of the Companies Act (Cap 50, 2006 Rev Ed) on the basis that the Company had suspended its business for more than a year. This winding-up order followed hard on the heels of the Judge’s refusal to grant an extension of time to the Company to make good its persistent disregard of the requirements of the Companies Act and the Companies Regulations (Cap 50, Rg 1, 1990 Rev Ed) in accordance with his earlier order in _Lau Yu Man v Wellmix Organics (International) Pte Ltd_ <span class="citation">[2007] SGHC 96</span> (“the first GD”). The appellants vigorously contested the winding-up order on the basis that the Judge failed to assess all the relevant factors in exercising his discretion to wind up the Company, including the consideration that the winding-up application was in itself an abuse of process. 
 
 2       Having carefully considered the submissions of both parties and reviewed the evidence before us, we allowed the appeal. We now give the detailed grounds for our decision. 
 
@@ -99,10 +99,10 @@ not appeal against the Judge’s orders on 5 February 2007 or the findings conta
 
 **_Abuse of process_** 
 
-22     The court has inherent jurisdiction to prevent an abuse of its processes. In _Chee Siok Chin v Minister for Home Affairs_ [2006] 1 SLR 582 at [34] (“ _Chee Siok Chin_ ”) the Singapore High Court set out four categories of the type of proceedings that would amount to an “abuse of process”, one of which was “proceedings where the _process of the court [was] not being fairly or honestly used but_ 
+22     The court has inherent jurisdiction to prevent an abuse of its processes. In _Chee Siok Chin v Minister for Home Affairs_ <span class="citation">[2006] 1 SLR 582</span> at [34] (“ _Chee Siok Chin_ ”) the Singapore High Court set out four categories of the type of proceedings that would amount to an “abuse of process”, one of which was “proceedings where the _process of the court [was] not being fairly or honestly used but_ 
 
 
-_[was] employed for some ulterior or improper purpose or in an improper way_ ” [emphasis in original]. _Chee Siok Chin_ has most recently been followed in _NCC International AB v Alliance Concrete Singapore Pte Ltd_ [2008] 2 SLR 565 at [71]. 
+_[was] employed for some ulterior or improper purpose or in an improper way_ ” [emphasis in original]. _Chee Siok Chin_ has most recently been followed in _NCC International AB v Alliance Concrete Singapore Pte Ltd_ <span class="citation">[2008] 2 SLR 565</span> at [71]. 
 
 23     In the present context, it has also been recognised that a winding-up application brought for a collateral purpose may be summarily dismissed as being an abuse of process. In _Re Mechanised Construction Pte Ltd_ [1989] SLR 533, a winding-up order was sought on the basis that the company was unable to pay its debts. The debt was allegedly owed pursuant to a sales contract whereby the creditor company agreed to supply, fabricate and install structural steelworks for the debtor company in connection with a school construction project. Unfortunately there were delays in completing the works and the debtor company eventually ceased making payments. The debtor company, _inter alia_ , challenged the value placed on the amount of work done and also took issue with the slow progress of the works; on the other hand, the creditor company alleged that it had been given the site late and was not bound by previous timelines. Chao Hick Tin JC found that the application was brought for the improper purpose of enforcing payment of a debt which was _bona fide_ disputed and dismissed the petition as an abuse of process. 
 
@@ -155,7 +155,7 @@ In addition, the court considered that although the company had indeed lost its 
  (c) whether the Company’s claim against the respondent in the Suit was a bona fide claim 
 
 
- (see Pacific Recreation Pte Ltd v S Y Technology Inc [2008] 2 SLR 491 at [17] and [23] where this court explained that a bona fide dispute was one in which there were triable issues). 
+ (see Pacific Recreation Pte Ltd v S Y Technology Inc <span class="citation">[2008] 2 SLR 491</span> at [17] and [23] where this court explained that a bona fide dispute was one in which there were triable issues). 
 
 If the answer to any of the above issues was in the affirmative, that would be good reason for the Judge to prevent the winding-up application from proceeding further or to dismiss it entirely. 
 

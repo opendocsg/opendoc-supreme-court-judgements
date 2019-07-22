@@ -20,7 +20,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Driving while under a 
 
 **Sundaresh Menon CJ:** 
 
-1       This was an appeal brought by Muhammad Saiful bin Ismail (“the appellant”) against the decision of the District Judge (“the DJ”) in _Public Prosecutor v Muhammad Saiful bin Ismail_ [2013] SGDC 313 (“the GD”). The appellant pleaded guilty on 21 August 2013 to the following charges: 
+1       This was an appeal brought by Muhammad Saiful bin Ismail (“the appellant”) against the decision of the District Judge (“the DJ”) in _Public Prosecutor v Muhammad Saiful bin Ismail_ <span class="citation">[2013] SGDC 313</span> (“the GD”). The appellant pleaded guilty on 21 August 2013 to the following charges: 
 
  (a) trafficking 0.26g of methamphetamine, a Class A Controlled Drug, an offence under s 5(1) (a) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“the MDA”) read with s 5(2) of the same Act and punishable under s 33; 
 
@@ -55,7 +55,7 @@ licences for a period of one year with effect from the date of conviction, and f
 
 7       I shall only address the portions of the DJ’s decision which touch on the commencement date for the disqualification order because the appeal does not concern any other aspect. The DJ ordered that the disqualification order should commence on the date of the appellant’s release from prison. The duration of the disqualification order and the date on which it was to commence were explained as follows: 
 
- (a) Driving while subject to a court-ordered disqualification is a serious offence (citing Public Prosecutor v Lee Cheow Loong Charles [2008] 4 SLR(R) 961 (“ Charles Lee ”) at [29] (at [31] of the GD)). The offender puts others at risk of not being able to recover any losses from him in the event of an accident because he would not be covered by insurance. Moreover, it is a “wilful act of disregard” of a court-ordered sanction (at [29] of the GD). 
+ (a) Driving while subject to a court-ordered disqualification is a serious offence (citing Public Prosecutor v Lee Cheow Loong Charles <span class="citation">[2008] 4 SLR(R) 961</span> (“ Charles Lee ”) at [29] (at [31] of the GD)). The offender puts others at risk of not being able to recover any losses from him in the event of an accident because he would not be covered by insurance. Moreover, it is a “wilful act of disregard” of a court-ordered sanction (at [29] of the GD). 
 
  (b) At the time he was stopped, the appellant had been disqualified for more than five and a half years. Assuming that this was the first time that the appellant was riding since the commencement of his disqualification period, he would not have ridden for a considerable period prior to this. By riding without having taken the re-test that is statutorily mandated in such circumstances, he was putting others at real danger of physical harm and injury (at [30] of the GD). 
 
@@ -93,23 +93,23 @@ licences for a period of one year with effect from the date of conviction, and f
 
  Factor 
 
- 1 Public Prosecutor v Chin Thian Seong [2007] SGDC 163 
+ 1 Public Prosecutor v Chin Thian Seong <span class="citation">[2007] SGDC 163</span> 
 
  One year Two years 2 
 
- 2 Public Prosecutor v Koh Yiong Lionel [2007] SGDC 279 
+ 2 Public Prosecutor v Koh Yiong Lionel <span class="citation">[2007] SGDC 279</span> 
 
  15 months Two years 1. 
 
- 3 Public Prosecutor v Loh Teck Lok [2007] SGDC 193 
+ 3 Public Prosecutor v Loh Teck Lok <span class="citation">[2007] SGDC 193</span> 
 
  Four years Six years 1. 
 
- 4 Public Prosecutor v Poh Chee Wee Vincent [2007] SGDC 280 
+ 4 Public Prosecutor v Poh Chee Wee Vincent <span class="citation">[2007] SGDC 280</span> 
 
  30 months Five years 2 
 
- 5 Public Prosecutor v Rennie Siow Chern Hua [2007] SGDC 131 
+ 5 Public Prosecutor v Rennie Siow Chern Hua <span class="citation">[2007] SGDC 131</span> 
 
  18 months Three years 2 
 
@@ -119,23 +119,23 @@ licences for a period of one year with effect from the date of conviction, and f
 
  Factor 
 
- 1 Aquaro Massimo v Public Prosecutor [2012] SGHC 6 
+ 1 Aquaro Massimo v Public Prosecutor <span class="citation">[2012] SGHC 6</span> 
 
  Two years Four years 2 
 
- 2 Fam Shey Yee v Public Prosecutor [2012] 3 SLR 927 
+ 2 Fam Shey Yee v Public Prosecutor <span class="citation">[2012] 3 SLR 927</span> 
 
  18 months Three years 2 
 
- 3 Public Prosecutor v Catherine Peter [2010] SGDC 28 
+ 3 Public Prosecutor v Catherine Peter <span class="citation">[2010] SGDC 28</span> 
 
  Two years Four years 2 
 
- 4 Public Prosecutor v Choo Puay Lan [2010] SGDC 64 
+ 4 Public Prosecutor v Choo Puay Lan <span class="citation">[2010] SGDC 64</span> 
 
  Six months Three years 6 
 
- 5 Public Prosecutor v Giuseppe De Vito [2010] SGDC 340 
+ 5 Public Prosecutor v Giuseppe De Vito <span class="citation">[2010] SGDC 340</span> 
 
  Two years Three years 1. 
 
@@ -148,35 +148,35 @@ I accept these general propositions.
 14     In none of these cases, was any authority cited for the proposition that the further disqualification period should generally be twice that of the previous disqualification. There are also other cases which do not specifically advance the proposition and these are collated in the following table: 
 
 
- 6 Kim Sung Young v Public Prosecutor [2003] SGDC 267 
+ 6 Kim Sung Young v Public Prosecutor <span class="citation">[2003] SGDC 267</span> 
 
  Two years Six years 3 
 
- 7 Public Prosecutor v Lee Chew Loong Charles [2008] 4 SLR(R) 961 
+ 7 Public Prosecutor v Lee Chew Loong Charles <span class="citation">[2008] 4 SLR(R) 961</span> 
 
  18 months Three years 2 
 
- 8 Public Prosecutor v Lian Chee Yeow Michael [2011] SGDC 190 
+ 8 Public Prosecutor v Lian Chee Yeow Michael <span class="citation">[2011] SGDC 190</span> 
 
  Five years Ten years 2 
 
- 9 Public Prosecutor v Lim Keng Chuan [2010] SGDC 233 
+ 9 Public Prosecutor v Lim Keng Chuan <span class="citation">[2010] SGDC 233</span> 
 
  Three years Ten years 3. 
 
- 10 Public Prosecutor v Muhammad Fazil bin Azman [2010] SGDC 168 
+ 10 Public Prosecutor v Muhammad Fazil bin Azman <span class="citation">[2010] SGDC 168</span> 
 
  12 months Three years 3 
 
- 11 Public Prosecutor v Tan Chen Chey [2009] SGDC 485 
+ 11 Public Prosecutor v Tan Chen Chey <span class="citation">[2009] SGDC 485</span> 
 
  15 months Three years 2. 
 
- 12 Public Prosecutor v Tan Thiam Soon [2011] SGDC 228 
+ 12 Public Prosecutor v Tan Thiam Soon <span class="citation">[2011] SGDC 228</span> 
 
  Two years Five years 2. 
 
- 13 Public Prosecutor v Yapp Chong Meng Ronald [2010] SGDC 163; MA 240/2010 (9 Sept 2010, unreported) 
+ 13 Public Prosecutor v Yapp Chong Meng Ronald <span class="citation">[2010] SGDC 163</span>; MA 240/2010 (9 Sept 2010, unreported) 
 
  12 months Three years, reduced to one year on appeal 
 
@@ -188,18 +188,18 @@ I accept these general propositions.
 
 15     It will be evident that in only four of the 19 cases collated in the preceding two tables was a subsequent disqualification order _less_ than twice the duration of the original imposed. An analysis of the four cases suggests that there were extenuating circumstances in three of them which would likely have borne on the sentencing decisions: 
 
- (a) In Public Prosecutor v Yapp Chong Meng Ronald [2010] SGDC 163 (“ PP v Yapp ”), the District Judge noted that the accused needed to help in his wife’s toy delivery business by making two pressing one-off deliveries and had committed the offence towards the end of the original disqualification period. Despite this, the District Judge sentenced the accused to a further disqualification order of three years which was three times the duration of the first order. In MA 240/2010 (9 September 2010, unreported), Lee Seiu Kin J reversed this and held that an order of three years was manifestly excessive and reduced it to one year. It was noteworthy that the convicted person in that case was a first offender, had ridden only on one occasion six days before his disqualification was to end and had served eight weeks’ imprisonment. 
+ (a) In Public Prosecutor v Yapp Chong Meng Ronald <span class="citation">[2010] SGDC 163</span> (“ PP v Yapp ”), the District Judge noted that the accused needed to help in his wife’s toy delivery business by making two pressing one-off deliveries and had committed the offence towards the end of the original disqualification period. Despite this, the District Judge sentenced the accused to a further disqualification order of three years which was three times the duration of the first order. In MA 240/2010 (9 September 2010, unreported), Lee Seiu Kin J reversed this and held that an order of three years was manifestly excessive and reduced it to one year. It was noteworthy that the convicted person in that case was a first offender, had ridden only on one occasion six days before his disqualification was to end and had served eight weeks’ imprisonment. 
 
- (b) In Public Prosecutor v Giuseppe De Vito [2010] SGDC 340 (“ PP v de Vito ”), the accused engaged a full-time driver to transport him in his company car. On the day of the offence, his pregnant wife suddenly fell ill and experienced vaginal bleeding. Her gynaecologist had earlier warned that she had a high chance of miscarriage. Anxious about the prospect of having to rush his wife to get medical aid, the accused drove to a nearby petrol station to refill the nearly empty fuel tank in his car. There he was apprehended by two traffic policemen. 
+ (b) In Public Prosecutor v Giuseppe De Vito <span class="citation">[2010] SGDC 340</span> (“ PP v de Vito ”), the accused engaged a full-time driver to transport him in his company car. On the day of the offence, his pregnant wife suddenly fell ill and experienced vaginal bleeding. Her gynaecologist had earlier warned that she had a high chance of miscarriage. Anxious about the prospect of having to rush his wife to get medical aid, the accused drove to a nearby petrol station to refill the nearly empty fuel tank in his car. There he was apprehended by two traffic policemen. 
 
 
- (c) In Public Prosecutor v Koh Yiong Lionel [2007] SGDC 279, the accused received a call from his father’s helper informing him that his daughter had been crying incessantly for an hour and was perspiring profusely in an air-conditioned room. The accused drove “out of desperation and urgent necessity”. 
+ (c) In Public Prosecutor v Koh Yiong Lionel <span class="citation">[2007] SGDC 279</span>, the accused received a call from his father’s helper informing him that his daughter had been crying incessantly for an hour and was perspiring profusely in an air-conditioned room. The accused drove “out of desperation and urgent necessity”. 
 
-16     However, in _Public Prosecutor v Loh Teck Lok_ [2007] SGDC 193 the District Judge found that the accused drove with “full and actual knowledge” that he was under a disqualification order and that there was no critical need for him to do so. Despite this, the accused was only sentenced to a period 1.5 times that of the original. 
+16     However, in _Public Prosecutor v Loh Teck Lok_ <span class="citation">[2007] SGDC 193</span> the District Judge found that the accused drove with “full and actual knowledge” that he was under a disqualification order and that there was no critical need for him to do so. Despite this, the accused was only sentenced to a period 1.5 times that of the original. 
 
-17     General and specific deterrence are the sentencing considerations at the forefront when dealing with offences under s 43(4) ( _Charles Lee_ at [32]). Deterrence is an important principle that underlies our sentencing jurisprudence and it is directed at keeping crime rates in check ( _Public Prosecutor v Tan Fook Sum_ [1999] 1 SLR(R) 1022 at [18]). General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender ( _Meeran bin Mydin v Public Prosecutor_ [1998] 1 SLR(R) 522 at [9]). It is an especially weighty consideration where premeditation is present ( _Public Prosecutor v Law Aik Meng_ [2007] 2 SLR(R) 814 at [22]); or where it is difficult to detect the crime in question ( _ibid_ at [25(d)]). 
+17     General and specific deterrence are the sentencing considerations at the forefront when dealing with offences under s 43(4) ( _Charles Lee_ at [32]). Deterrence is an important principle that underlies our sentencing jurisprudence and it is directed at keeping crime rates in check ( _Public Prosecutor v Tan Fook Sum_ <span class="citation">[1999] 1 SLR(R) 1022</span> at [18]). General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender ( _Meeran bin Mydin v Public Prosecutor_ <span class="citation">[1998] 1 SLR(R) 522</span> at [9]). It is an especially weighty consideration where premeditation is present ( _Public Prosecutor v Law Aik Meng_ <span class="citation">[2007] 2 SLR(R) 814</span> at [22]); or where it is difficult to detect the crime in question ( _ibid_ at [25(d)]). 
 
-18     The crime of driving while being subject to a disqualification is difficult to detect (see [11(b)] above) and often involves premeditation. A disqualification period that is shorter than the original disqualification period would do little to deter future like-minded offenders. As I observed in _Edwin s/o Suse Nathen v Public Prosecutor_ [2013] SGHC 194 (at [13]) in the context of the offence of drinkdriving, a disqualification order is an important punitive element and this is equally true of offences under s 43(4). 
+18     The crime of driving while being subject to a disqualification is difficult to detect (see [11(b)] above) and often involves premeditation. A disqualification period that is shorter than the original disqualification period would do little to deter future like-minded offenders. As I observed in _Edwin s/o Suse Nathen v Public Prosecutor_ <span class="citation">[2013] SGHC 194</span> (at [13]) in the context of the offence of drinkdriving, a disqualification order is an important punitive element and this is equally true of offences under s 43(4). 
 
 19     A disqualification order also prevents these offenders from driving and endangering themselves as well as other road users. The imposition of another, longer disqualification period would help ensure that such drivers are kept off the roads for a longer period of time. 
 
@@ -207,7 +207,7 @@ I accept these general propositions.
 
 21     I have referred to considerations of proportionality. Proportionality acts as a counterbalance to the principles of deterrence, retribution and prevention in the sentencing matrix. This is reflected in the simple fact that although a lifetime ban from driving would better serve the objectives of deterrence and prevention than a ban of a shorter duration, courts do not routinely impose lifetime bans. 
 
-22     The principle of proportionality has been expressed in several different ways: the sentence must be commensurate with the gravity of the offence, the sentence must fit the crime, and a proportion must be maintained between the offence and the penalty ( _Public Prosecutor v Saiful Rizam bin Assim and other appeals_ [2014] SGHC 12 at [29]). The principle of proportionality militates against the conclusion that in the case of a s 43(4) offence, the disqualification period imposed must invariably and inflexibly be double that of the original. 
+22     The principle of proportionality has been expressed in several different ways: the sentence must be commensurate with the gravity of the offence, the sentence must fit the crime, and a proportion must be maintained between the offence and the penalty ( _Public Prosecutor v Saiful Rizam bin Assim and other appeals_ <span class="citation">[2014] SGHC 12</span> at [29]). The principle of proportionality militates against the conclusion that in the case of a s 43(4) offence, the disqualification period imposed must invariably and inflexibly be double that of the original. 
 
 
 **_Are aggravating and mitigating factors relevant to a strict liability offence?_** 
@@ -218,7 +218,7 @@ I accept these general propositions.
 
 25     There is no doubt that s 43(4) of the RTA is a singly-strict and not a doubly-strict liability offence. This is so because s 43(4) of the RTA explicitly states that an offender is liable on conviction to a fine not exceeding $10,000, _or_ to a term of imprisonment not exceeding three years, _or_ to both. Section 42(1) of the RTA stipulates that a court may (or shall as the case may be) order a person who has been convicted of a motor vehicle-related offence to be disqualified from holding or obtaining a driving licence “for life or for such period as the court may think fit”. Parliament has, by these provisions, explicitly empowered the courts to mete out a range of penalties (in terms of both type and quantity). The only defensible and principled way to decide on the type and severity of the penalty to be imposed in any given case is by having regard to the offender’s level of culpability. Aggravating and mitigating factors demonstrate the increased or decreased culpability of the offender in question and must therefore be taken into account in the sentencing calculus for such offences. 
 
-26     In keeping with this, previous cases have considered the culpability of the offender in deciding on the penalty to be meted out for an offence under s 43(4). I have mentioned three cases (listed at [15] above) where a relatively short disqualification period was imposed because of the decreased culpability of the offenders in those cases. There are also cases where a longer disqualification period was imposed because the offence involved a high degree of culpability. In _Public Prosecutor v Lim Keng Chuan_ [2010] SGDC 233, the convicted person drove his vehicle into a police officer in an attempt to escape. Despite the police officer grabbing the right front door frame of the vehicle after being hit, the convicted person continued to accelerate and dragged the police officer for a distance of approximately one car length. The egregious circumstances of the offence led the District Judge to impose a disqualification order for a period of ten years (a factor of 3.33). 
+26     In keeping with this, previous cases have considered the culpability of the offender in deciding on the penalty to be meted out for an offence under s 43(4). I have mentioned three cases (listed at [15] above) where a relatively short disqualification period was imposed because of the decreased culpability of the offenders in those cases. There are also cases where a longer disqualification period was imposed because the offence involved a high degree of culpability. In _Public Prosecutor v Lim Keng Chuan_ <span class="citation">[2010] SGDC 233</span>, the convicted person drove his vehicle into a police officer in an attempt to escape. Despite the police officer grabbing the right front door frame of the vehicle after being hit, the convicted person continued to accelerate and dragged the police officer for a distance of approximately one car length. The egregious circumstances of the offence led the District Judge to impose a disqualification order for a period of ten years (a factor of 3.33). 
 
 27     I consider some specific types of mitigating and aggravating factors. 
 

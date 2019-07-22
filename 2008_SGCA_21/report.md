@@ -49,7 +49,7 @@ Andrew Phang Boon Leong JA (delivering the judgment of the majority):
 
 9       The appellant appealed at first instance to the Valuation Review Board (“the Board”) against the respondent’s assessment of the annual value of the Property. The appellant disputed, _inter alia_ , the inclusion of the three floating docks in the assessment of the annual value. The appeal was heard by the Board in October 2004. The Board reserved judgment and, on 16 November 2004, the Board dismissed the appeal and confirmed the annual value of $4,586,000 proposed by the respondent (see _Pan United Shipyard Pte Ltd v Chief Assessor_ [2006] SGVRB 1). 
 
-10     Dissatisfied with the Board’s decision on the issue of including the floating docks as being assessable to property tax, the appellant further appealed to the High Court. The High Court heard the appeal on 2 November 2006 and reserved judgment. On 8 February 2007, the High Court judge (“the Judge”) dismissed the appeal and delivered his grounds of decision (see _Pan United Marine Ltd v Chief Assessor_ [2007] 2 SLR 633 (“the GD”)). 
+10     Dissatisfied with the Board’s decision on the issue of including the floating docks as being assessable to property tax, the appellant further appealed to the High Court. The High Court heard the appeal on 2 November 2006 and reserved judgment. On 8 February 2007, the High Court judge (“the Judge”) dismissed the appeal and delivered his grounds of decision (see _Pan United Marine Ltd v Chief Assessor_ <span class="citation">[2007] 2 SLR 633</span> (“the GD”)). 
 
 11     In essence, the Judge found, _inter alia_ , that: 
 
@@ -139,7 +139,7 @@ Accordingly, the floating dry docks must fall within “houses, _buildings_ , la
 25     Such an approach is also not only consistent with, but is (in many ways) buttressed by, the 
 
 
-approach adopted by the Singapore High Court in the leading decision of _Chief Assessor & Comptroller of Property Tax v Van Ommeren Terminal (S) Pte Ltd_ [1993] 3 SLR 489 (“ _Van Ommeren_ ”) (where the legislative history was also referred to briefly). In that case, Chao Hick Tin J was of the view that the definition of “building” in s 2(1) of the Act was _not_ confined only to structures erected on land. The learned judge observed thus (at 492, [11]–[13]): 
+approach adopted by the Singapore High Court in the leading decision of _Chief Assessor & Comptroller of Property Tax v Van Ommeren Terminal (S) Pte Ltd_ <span class="citation">[1993] 3 SLR 489</span> (“ _Van Ommeren_ ”) (where the legislative history was also referred to briefly). In that case, Chao Hick Tin J was of the view that the definition of “building” in s 2(1) of the Act was _not_ confined only to structures erected on land. The learned judge observed thus (at 492, [11]–[13]): 
 
  It is an established canon of construction that when the word ‘means’ is used in a definition that definition is intended to be exhaustive. It is different if the word ‘include’ is used. ... 
 
@@ -549,7 +549,7 @@ hereditament occupied by the ratepayer company. The question that arose was whet
 
 _Local position_ 
 
-113    Against this backdrop, we turn now to the local position. That the classic statement of the law by Blackburn J in _Holland_ is part of our land law is evident from the fact that it was followed by our Court of Appeal in _Gebrueder Buehler AG v Chi Man Kwong Peter_ [1988] SLR 24 and in _People’s Park Chinatown Development Pte Ltd v Schindler Lifts (S) Pte Ltd_ [1993] 1 SLR 591. Chattels which are “annexed” to the land (in the extended sense ascribed thereto in _Holland_ are fixtures and therefore part of the land. 
+113    Against this backdrop, we turn now to the local position. That the classic statement of the law by Blackburn J in _Holland_ is part of our land law is evident from the fact that it was followed by our Court of Appeal in _Gebrueder Buehler AG v Chi Man Kwong Peter_ [1988] SLR 24 and in _People’s Park Chinatown Development Pte Ltd v Schindler Lifts (S) Pte Ltd_ <span class="citation">[1993] 1 SLR 591</span>. Chattels which are “annexed” to the land (in the extended sense ascribed thereto in _Holland_ are fixtures and therefore part of the land. 
 
 114    We now return to _Van Ommeren_ ([25] _supra_ ) for guidance on the term “land” in s 6 of the Act. To recapitulate, the learned judge in that case, despite concluding that the storage tanks and pipes on the subject property in question were buildings, went on to consider if they were _part of the land_. The judge affirmed that the _Holland_ test was decisive in this regard. I turn then to the oft-cited observations of Blackburn J (at 334–336) in _Holland_ ): 
 
@@ -629,7 +629,7 @@ _Purpose behind section 2(2) of the Act_
 
 129    It will be appropriate, at this juncture, to examine the purpose behind s 2(2) of the Act in order to determine whether Parliament intended for s 2(2) of the Act to be interpreted narrowly. In other words, does s 2(2) of the Act require the floating docks to be _solely and exclusively_ used for the purposes therein stated ( _ie_ , for repair) or does it suffice if the floating docks were _primarily_ used for the purposes set out in s 2(2) of the Act? 
 
-130    Until the recent decision in _First DCS Pte Ltd v Chief Assessor_ [2007] 3 SLR 326, there was a dearth of cases dealing with s 2(2) of the Act. One of the issues raised there was whether the district cooling machinery was machinery which qualified under any of the limbs in s 2(2) of the Act. In that case, the court found that water had been “adapted for sale” for the purposes of s 2(2)( _c_ ) and the enhancement in value due to the district cooling machinery was therefore not taken into account for assessment. It was suggested that the rationale behind s 2(2) of the Act is as follows (at [26] to [28]): 
+130    Until the recent decision in _First DCS Pte Ltd v Chief Assessor_ <span class="citation">[2007] 3 SLR 326</span>, there was a dearth of cases dealing with s 2(2) of the Act. One of the issues raised there was whether the district cooling machinery was machinery which qualified under any of the limbs in s 2(2) of the Act. In that case, the court found that water had been “adapted for sale” for the purposes of s 2(2)( _c_ ) and the enhancement in value due to the district cooling machinery was therefore not taken into account for assessment. It was suggested that the rationale behind s 2(2) of the Act is as follows (at [26] to [28]): 
 
  [A]lthough our s 2(2) is similar to s 175 of the UK Factories Act 1961 (c 34) ..., it bears noting that ss 3 and 4 of the UK Rating and Valuation (Apportionment) Act 1928 (c 44) (“the De-rating Act”) also rode on the provisions in the Factories Act. As such, where the premises were a “factory” within the meaning of the Factories Act, the premises ( ie, an industrial hereditament) would be entitled to the benefit of the “de-rating” provisions of the De-rating Act. The object of the De-rating Act was to benefit manufacturers and industrial producers by granting them relief in respect of a portion of the rates. Hence, where the primary use and purpose of the hereditament was non-factory ( eg , as a dwelling house or retail shop or for a distributive wholesale business), one did not de-rate, for the hereditament was not industrial. 
 
@@ -639,7 +639,7 @@ _Purpose behind section 2(2) of the Act_
 
  [emphasis added] 
 
-This was endorsed by the Court of Appeal in _Chief Assessor v First DCS Pte Ltd_ [2008] 2 SLR 724. 
+This was endorsed by the Court of Appeal in _Chief Assessor v First DCS Pte Ltd_ <span class="citation">[2008] 2 SLR 724</span>. 
 
 131    In the light of the above observations, I am of the view that the Judge’s “exclusive function” test does not comport with the purpose behind s 2(2) of the Act. In my judgment, as long as the _primary_ and _dominant_ (as opposed to the _exclusive_ ) function of the floating docks is for the purpose of repair, the floating docks ought to be excluded from assessment. Parliament could not have intended for s 2(2) of the Act to be so narrowly construed as to undermine its intention to encourage investments in manufacturing/processing/industrial machinery. Given that the primary function of the floating docks is to lift the vessel and to hold the same for repair, I find that the floating docks are “machinery” under s 2(2) of the Act. Accordingly (and for this reason additionally), the enhanced 
 

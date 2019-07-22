@@ -190,7 +190,7 @@ the possibility that another jurisdiction could be the more convenient and appro
 
 jurisdiction were exclusive, this application would not be available to the defendants at all. In 
 
-**Bambang Sutrisno v Bali International Finance** [1999] 3 SLR 140 , the Court of Appeal said (at 
+**Bambang Sutrisno v Bali International Finance** <span class="citation">[1999] 3 SLR 140</span> , the Court of Appeal said (at 
 
 [para ]11): 
 
@@ -288,7 +288,7 @@ said as follows (at p 427):
 
  Where the court finds that the agreement is for the non-exclusive jurisdiction of a designated court (whether English or a foreign court), it cannot be argued that institution of proceedings is a breach of contract; and any application for a stay of proceedings in favour of that foreign court will be determined on the basis of Spiliada Maritime Corp. v Cansulex Ltd. But the fact that a court was contractually chosen by the parties will be taken as clear evidence that it is an available forum, and that, in principle at least, it is not open to either party to object to the exercise of its jurisdiction at least on grounds which should have been foreseeable when the agreement was made. 
 
-The Court of Appeal in **PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings)** [2001] 2 SLR 49 
+The Court of Appeal in **PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings)** <span class="citation">[2001] 2 SLR 49</span> 
 
 summarised the principles governing the grant of a stay in the following manner (at [para ]16 and 17): 
 

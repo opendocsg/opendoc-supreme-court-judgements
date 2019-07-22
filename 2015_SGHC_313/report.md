@@ -57,7 +57,7 @@ a similar offence of consumption of morphine. For that earlier offence, by virtu
 
 **_The decision below_** 
 
-11     From the record of proceedings, the District Judge had reviewed the SOF, the Appellant's antecedents and his plea in mitigation, as well as the Prosecution’s position on sentencing. In his grounds of decision (published as _Public Prosecutor v Mohd Fauzi bin Mohamed Mydin_ [2015] SGDC 195), the District Judge highlighted the following matters: 
+11     From the record of proceedings, the District Judge had reviewed the SOF, the Appellant's antecedents and his plea in mitigation, as well as the Prosecution’s position on sentencing. In his grounds of decision (published as _Public Prosecutor v Mohd Fauzi bin Mohamed Mydin_ <span class="citation">[2015] SGDC 195</span>), the District Judge highlighted the following matters: 
 
 
  (a) The Appellant was aware of, and had requested for, the imposition of the mandatory minimum sentence. When the charge was read to the Appellant by the interpreter, the punishment provisions (on the charge sheet) were interpreted to him. In addition, pursuant to s 227(2)( b ) of the CPC, counsel had confirmed that the Appellant understood the nature and consequences of his plea, and that he intended to admit the offence without qualification. In addition, the SOF set out the fact that because of the Appellant’s previous LT-1 conviction, he was liable for enhanced (LT-2) punishment under section 33A(2) of the MDA. Finally, counsel had specifically requested that the court impose the mandatory minimum sentence of seven years and six strokes, and had asked for the sentence to commence from 1 April 2014 (at [16]–[18]). 

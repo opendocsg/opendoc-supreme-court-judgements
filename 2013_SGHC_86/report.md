@@ -190,7 +190,7 @@ own interest by calling on the Performance Bond, [note: 22] an act which was don
 
 **_The relevant legal principles_** 
 
-18     Whatever label the Plaintiff attached to the 1st Defendant’s conduct in making the Call, it is clear that the Plaintiff’s case is founded on unconscionability. The concept of unconscionability in the context of restraining calls on performance bonds, as accepted in Singapore by the Court of Appeal in _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ [2000] 1 SLR(R) 117 (“ _Dauphin Offshore_ ”) at [45], involves: 
+18     Whatever label the Plaintiff attached to the 1st Defendant’s conduct in making the Call, it is clear that the Plaintiff’s case is founded on unconscionability. The concept of unconscionability in the context of restraining calls on performance bonds, as accepted in Singapore by the Court of Appeal in _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ <span class="citation">[2000] 1 SLR(R) 117</span> (“ _Dauphin Offshore_ ”) at [45], involves: 
 
  ... unfairness, as distinct from dishonesty or fraud, or conduct of a kind so reprehensible or lacking in good faith that a court of conscience would either restrain the party or refuse to assist the party. Mere breaches of contract by the party in question ... would not by themselves be unconscionable. ... 
 
@@ -200,7 +200,7 @@ own interest by calling on the Performance Bond, [note: 22] an act which was don
 
  ... (a) in Kvaerner Singapore Pte Ltd v UDL Shipbuilding (Singapore) Pte Ltd ... the beneficiary made a call based on a breach induced by their own default and was not permitted to do so; (b) in Royal Design Studio Pte Ltd v Chang Development Pte Ltd ... an injunction was granted where the beneficiary's call on the bond was based on delays in construction that were caused by the beneficiary's own default in failing to make timely payments on the interim certificates issued by the architect and a considerable sum due to the account party under the joint venture agreement was retained by the beneficiary; (c) in Min Thai Holdings Pte Ltd v Sunlabel Pte Ltd ... the defendant-buyer was restrained from calling on the performance guarantee when the nondelivery of rice was due to floods caused by typhoon and there was a “force majeure” clause in the contract, as the court felt that it was unconscionable, in the circumstances, for the defendant-buyer to receive payment under the performance guarantee. 
 
-In the cases cited above where the call of the bond was considered unconscionable, either the beneficiary of the performance bond had by its own default contributed to the circumstances which founded the call, or both parties were wholly innocent. Evidently, it takes more than a _mere_ default ( _ie_ mere breaches of contract) by the beneficiary to sustain an argument on unconscionability. In this regard, I note the high and strict standard of proof required of the applicant seeking the injunction which has been consistently applied by the Court of Appeal ( _Anwar Siraj and another v Teo Hee Lai Building Construction Pte Ltd_ [2003] 1 SLR(R) 394 at [11] citing _Dauphin Offshore_ at [57]): 
+In the cases cited above where the call of the bond was considered unconscionable, either the beneficiary of the performance bond had by its own default contributed to the circumstances which founded the call, or both parties were wholly innocent. Evidently, it takes more than a _mere_ default ( _ie_ mere breaches of contract) by the beneficiary to sustain an argument on unconscionability. In this regard, I note the high and strict standard of proof required of the applicant seeking the injunction which has been consistently applied by the Court of Appeal ( _Anwar Siraj and another v Teo Hee Lai Building Construction Pte Ltd_ <span class="citation">[2003] 1 SLR(R) 394</span> at [11] citing _Dauphin Offshore_ at [57]): 
 
  ... In Bocotra ... this court stated that “a high degree of strictness applies , as the applicant will be required to establish a clear case of fraud or unconscionability in the interlocutory 
 
@@ -209,13 +209,13 @@ In the cases cited above where the call of the bond was considered unconscionabl
 
  [emphasis in original omitted; emphasis added] 
 
-20     That said, I am cognisant of the severity of calls on performance bonds, and how the court must be mindful of abuse. In _GHL Pte Ltd v Unitrack Building Construction Pte Ltd and another_ [1999] 3 SLR(R) 44, the Court of Appeal said (at [24]): 
+20     That said, I am cognisant of the severity of calls on performance bonds, and how the court must be mindful of abuse. In _GHL Pte Ltd v Unitrack Building Construction Pte Ltd and another_ <span class="citation">[1999] 3 SLR(R) 44</span>, the Court of Appeal said (at [24]): 
 
  We agree that performance bonds are used frequently in the construction industry; that they are provided by and to parties who deal at arm's length; that the use of performance bonds has resulted in substantial benefits to the parties and also in savings; that the courts should give effect to the intention of the parties; and that the law in relation to performance bonds should be placed on “a clear and unambiguous footing” so that they could be accepted by parties whether in Singapore or abroad. But, with respect, these are not the points involved with which we are concerned. We are concerned with abusive calls on the performance bonds. It should not be forgotten that a performance bond can operate as an oppressive instrument, and in the event that a beneficiary calls on the bond in circumstances, where there is prima facie evidence of fraud or unconscionability, the court should step in to intervene at the interlocutory stage until the whole of the circumstances of the case has been investigated. It should also not be forgotten that a performance bond is basically a security for the performance of the main contract, and as such we see no reason, in principle, why it should be so sacrosanct and inviolate as not to be subject to the court's intervention except on the ground of fraud. We agree that a beneficiary under a performance bond should be protected as to the integrity of the security he has in case of non-performance by the party on whose account the performance bond was issued, but a temporary restraining order does not prejudice or adversely affect the security; it merely postpones the realisation of the security until the party concerned is given an opportunity to prove his case ... 
 
  [emphasis added] 
 
-21     Ultimately, the juridical basis for an injunction to restrain a performance bond on the ground of unconscionability lies in equity. The key consideration in ascertaining whether a call on a performance bond should be restrained is achieving a fair balance between the interests of the beneficiary and those of the obligor: _JBE Properties Pte Ltd v Gammon Pte Ltd_ [2011] 2 SLR 47 at [13]. 
+21     Ultimately, the juridical basis for an injunction to restrain a performance bond on the ground of unconscionability lies in equity. The key consideration in ascertaining whether a call on a performance bond should be restrained is achieving a fair balance between the interests of the beneficiary and those of the obligor: _JBE Properties Pte Ltd v Gammon Pte Ltd_ <span class="citation">[2011] 2 SLR 47</span> at [13]. 
 
 **_Application of legal principles_** 
 
@@ -324,7 +324,7 @@ of time for all 16 items in the Claim Report. [note: 31]
 
 subsequently only on the condition that those works would constitute a variation, the 1st Defendant could reasonably have taken the view that it was entitled to terminate the Sub-Contract. Even if the 
 
-1       st Defendant was misapprehended and had wrongfully terminated the Sub-Contract, the law is clear that generally mere breaches of contract by the beneficiary of the performance bond are not, by themselves, unconscionable: _Raymond Construction Pte Ltd v Low Yang Tong_ [1996] SGHC 136 at [5]. 
+1       st Defendant was misapprehended and had wrongfully terminated the Sub-Contract, the law is clear that generally mere breaches of contract by the beneficiary of the performance bond are not, by themselves, unconscionable: _Raymond Construction Pte Ltd v Low Yang Tong_ <span class="citation">[1996] SGHC 136</span> at [5]. 
 
 33     Fourthly, even if I had accepted (which I do not) the Call was indeed a “retaliation” by the 1st 
 
@@ -333,7 +333,7 @@ Defendant following the outcome of the Adjudications, the fact is that the 1st D
 
 the beneficiary _might_ be liable to pay the obligor. I cannot think this is correct. 
 
-34     Finally, I stand guided by the Court of Appeal’s holding in _BS Mount Sophia Pte Ltd v Join-Aim Pte Ltd_ [2012] 3 SLR 352 (“ _BS Mount Sophia_ ”) at [37]: 
+34     Finally, I stand guided by the Court of Appeal’s holding in _BS Mount Sophia Pte Ltd v Join-Aim Pte Ltd_ <span class="citation">[2012] 3 SLR 352</span> (“ _BS Mount Sophia_ ”) at [37]: 
 
  If the beneficiary's call on the bond is motivated by improper purposes , or such a call cannot be justified with clear evidence ; or in any other situation where the beneficiary is less than certain about his entitlement to call on the bond and for what amount , the beneficiary ought to take a step back and re-examine its entitlement and conduct prior to calling on the bond. Unfairness is also an element of unconscionability (see below at [42]-[43]), and the question as to whether or not notice was afforded to the obligor of his alleged breach before the beneficiary's call on the bond would also be a relevant consideration. [emphasis added in italics and bold italics] 
 

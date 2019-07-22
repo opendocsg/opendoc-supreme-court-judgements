@@ -16,9 +16,9 @@
 
 _Land_ 
 
-**[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2009] SGHC 18 .]** 
+**[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2009] SGHC 18</span> .]** 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2009] SGHC 18.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2009] SGHC 18</span>.] 
 
 28 April 2010 
 
@@ -30,7 +30,7 @@ _Land_
 
 2       The Respondents’ counterclaim was made in response to an action by the Appellant for an injunction in Suit No 674 of 2007 to restrain the Respondents from building a gate (“the common gate”) at the entrance of an access road (for convenience, the land that comprises this right of way will be referred to hereafter as “plot A”) where it meets Belmont Road. As shown in the Sketch Plan, plot A leads to, and is part of the land on which is erected 70 Belmont Road. 
 
-3       The High Court Judge (“the Judge”) dismissed the Appellant’s action and allowed the Respondents’ counterclaim (see _Lian Kok Hong v Lee Choi Kheong & Others_ [2009] SGHC 18 (“the GD”)). At the conclusion of oral pleadings before us, we allowed the appeal. We now give our reasons. 
+3       The High Court Judge (“the Judge”) dismissed the Appellant’s action and allowed the Respondents’ counterclaim (see _Lian Kok Hong v Lee Choi Kheong & Others_ <span class="citation">[2009] SGHC 18</span> (“the GD”)). At the conclusion of oral pleadings before us, we allowed the appeal. We now give our reasons. 
 
 **Background facts** 
 
@@ -162,7 +162,7 @@ roadway shown on the plan annexed to an Indenture of Conveyance dated 24th Novem
 
 _Extinguishment of easement by operation of law_ 
 
-30     We next deal with the arguments of counsel for the Appellant on the extinguishment of the right of way over plot B. He referred to the judgment of this court in _Lee Tat Development Pte Ltd v Management Corporation Strata Title Plan No 301_ [2009] 1 SLR(R) 875. Counsel argued that there were good policy reasons for deciding that the right of way had been extinguished by operation of law as the fact that it had not been used at all for more than 35 years, without any protest or action of any sort by the dominant owner, must raise a question mark as to whether the easement continued to accommodate the dominant tenement in the manner as originally intended (see _Re Ellenborough Park_ [1956] Ch 131). 
+30     We next deal with the arguments of counsel for the Appellant on the extinguishment of the right of way over plot B. He referred to the judgment of this court in _Lee Tat Development Pte Ltd v Management Corporation Strata Title Plan No 301_ <span class="citation">[2009] 1 SLR(R) 875</span>. Counsel argued that there were good policy reasons for deciding that the right of way had been extinguished by operation of law as the fact that it had not been used at all for more than 35 years, without any protest or action of any sort by the dominant owner, must raise a question mark as to whether the easement continued to accommodate the dominant tenement in the manner as originally intended (see _Re Ellenborough Park_ [1956] Ch 131). 
 
 
 31     In our view, it is not necessary for us to justify our decision on this ground. We were satisfied that the easement had been abandoned by the time the Appellant purchased 72 Belmont Road in 1994 and certainly by the time the Respondents purchased 70 Belmont Road in 2007. 

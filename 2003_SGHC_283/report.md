@@ -64,7 +64,7 @@ In the predecessor Act, there was only one definition of the word “court”, w
 
 This clause is brought into play by section 18(2) of the same Act, which gives the High Court the powers set out in that schedule. 
 
-9       However, in the case of _Ong Pang Wee and Ors v Chiltern Park Development Pte Ltd_ [2003] 2 SLR 267, the majority of the Court of Appeal, referring to section 18(2) of the Act, held as follows: 
+9       However, in the case of _Ong Pang Wee and Ors v Chiltern Park Development Pte Ltd_ <span class="citation">[2003] 2 SLR 267</span>, the majority of the Court of Appeal, referring to section 18(2) of the Act, held as follows: 
 
  14...When the legislation is read in its entirety it is plain that, as submitted by the developer, the scope of the High Courts power to transfer proceedings from a lower court to itself cannot be determined by looking only at the [Supreme Court of Judicature Act]. In fact it would be wrong to do so as s 18(3) provides that the powers "shall be exercised" in accordance with written law. Parliament had therefore intended the High Court to have regard to other applicable written laws before exercising the power to transfer proceedings to itself and to act in a manner that was "in accordance with" or consistent with those provisions in so doing. In this case, the applicable written law is the [Subordinate Courts Act] and the High Court can only exercise its powers of transfer of proceedings as provided for in this Act. ( Per Judith Prakash J) 
 

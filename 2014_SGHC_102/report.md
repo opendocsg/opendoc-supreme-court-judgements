@@ -285,7 +285,7 @@ the requirements under s 32(1)( _j_ )(iii) of the EA. [note: 56] Section 32(1)( 
 
 42     In order to satisfy s 32(1)( _j_ )(iii) of the EA, evidence must be produced to show the steps that were taken to persuade the maker of the documents whose admission is challenged to testify at the 
 
-trial: _Gimpex Ltd v Unity Holding Business Ltd and others_ [2013] SGHC 224 at [206]. [note: 57] I would add that the party relying on s 32(1)( _j_ )(iii) of the EA must show that it had taken all _reasonable_ steps that may be necessary to persuade the maker to testify at trial. 
+trial: _Gimpex Ltd v Unity Holding Business Ltd and others_ <span class="citation">[2013] SGHC 224</span> at [206]. [note: 57] I would add that the party relying on s 32(1)( _j_ )(iii) of the EA must show that it had taken all _reasonable_ steps that may be necessary to persuade the maker to testify at trial. 
 
 43     I do not accept that the Defendant had taken all reasonable steps to persuade the NKK officers 
 
@@ -308,7 +308,7 @@ attendance of the makers. [note: 65] Therefore the Woodward test records do not 
 
 **_Guidelines and approach to evaluating expert evidence_** 
 
-47     The expert evidence “must invariably be sifted, weighed and evaluated in the context of the factual matrix and in particular, the objective facts”: _Sakthivel Punithavathi v PP_ [2007] 2 SLR(R) 983 (“ _Sakthivel_ ”) at [76]. The weight to be accorded to the expert evidence depends on matters such as “[c]ontent credibility, evidence of partiality, coherence and a need to analyse the evidence in the context of established facts”: _Sakthivel_ at [76]. 
+47     The expert evidence “must invariably be sifted, weighed and evaluated in the context of the factual matrix and in particular, the objective facts”: _Sakthivel Punithavathi v PP_ <span class="citation">[2007] 2 SLR(R) 983</span> (“ _Sakthivel_ ”) at [76]. The weight to be accorded to the expert evidence depends on matters such as “[c]ontent credibility, evidence of partiality, coherence and a need to analyse the evidence in the context of established facts”: _Sakthivel_ at [76]. 
 
 48     Where there is conflicting evidence between experts, the consistency and logic of the evidence is paramount: _Sakthivel_ at [75]. 
 
@@ -350,7 +350,7 @@ out about the need to make such amendments much earlier. [note: 70]
 
 55     The Plaintiff contends that experts ought to inform the other party of their change in views as soon as possible. In this regard, the Plaintiff relies on the Note to Expert Witness in Form 58 of the Subordinate Courts Practice Directions (2013 Ed) (“Form 58”) and _Pacific Recreation Pte Ltd v S Y_ 
 
-_Technology Inc_ [2008] SGCA 1 (“ _Pacific Recreation_ ”). [note: 71] It is clear from the evidence that there was a significant delay between the time that Mr Tennant and Dr Yap realised the need for the 
+_Technology Inc_ <span class="citation">[2008] SGCA 1</span> (“ _Pacific Recreation_ ”). [note: 71] It is clear from the evidence that there was a significant delay between the time that Mr Tennant and Dr Yap realised the need for the 
 
 amendments and the time when they actually made the request. [note: 72] Hence, the Plaintiff argues that little weight should be given to the expert evidence of Mr Tennant and Dr Yap in light of the lack 
 
@@ -362,11 +362,11 @@ there was no surprise or prejudice to the Plaintiff. [note: 74] In addition, the
 
 Plaintiff’s reliance on Form 58 and _Pacific Recreation_. [note: 75] 
 
-57     I accept that Form 58 applies only to expert witnesses in the Subordinate Courts and it is not mandatory, even though it may be good practice, for proceedings in the Supreme Court: _Pacific Recreation_ at [65] and _Ferrero SPA v Sarika Connoisseur Café Pte Ltd_ [2011] SGHC 176 (“ _Ferrero_ ”) at [128]. I also note that there is no equivalent of Form 58 under the Supreme Court Practice Directions (2012 Ed). 
+57     I accept that Form 58 applies only to expert witnesses in the Subordinate Courts and it is not mandatory, even though it may be good practice, for proceedings in the Supreme Court: _Pacific Recreation_ at [65] and _Ferrero SPA v Sarika Connoisseur Café Pte Ltd_ <span class="citation">[2011] SGHC 176</span> (“ _Ferrero_ ”) at [128]. I also note that there is no equivalent of Form 58 under the Supreme Court Practice Directions (2012 Ed). 
 
 58     However, the fact that it is not mandatory to furnish expert witnesses with Form 58 (which _informs_ the expert witnesses of their duties and responsibilities) does not mean that the duties of the expert witness set out in Form 58 would not apply. 
 
-59     I am of the view that it is the duty of an expert to communicate his change of view on a material matter to all parties without delay: _Bajumi Wahab and others v Afro-Asia Shipping Company (Private) Limited and others_ [2001] SGHC 91 at [12], citing _Ikarian Reefer_ [1993] 2 Lloyd’s Rep 68 at 81; _Khoo Bee Keong v Ang Chun Hong and another_ [2005] SGHC 128 at [83]. In fact, it is considered as one of the common law principles concerning the impartiality of expert evidence, which is now embodied in O 40A of the Rules of Court (Cap 322, R 5, 2006 Rev Ed): Jeffery Pinsler, “Expert’s Duty to be Truthful in the Light of the Rules of Court” (2004) 16 SAcLJ 407 at [7]–[8]. 
+59     I am of the view that it is the duty of an expert to communicate his change of view on a material matter to all parties without delay: _Bajumi Wahab and others v Afro-Asia Shipping Company (Private) Limited and others_ <span class="citation">[2001] SGHC 91</span> at [12], citing _Ikarian Reefer_ [1993] 2 Lloyd’s Rep 68 at 81; _Khoo Bee Keong v Ang Chun Hong and another_ <span class="citation">[2005] SGHC 128</span> at [83]. In fact, it is considered as one of the common law principles concerning the impartiality of expert evidence, which is now embodied in O 40A of the Rules of Court (Cap 322, R 5, 2006 Rev Ed): Jeffery Pinsler, “Expert’s Duty to be Truthful in the Light of the Rules of Court” (2004) 16 SAcLJ 407 at [7]–[8]. 
 
 60     Unlike the amendments to Issue 2 and Issue 29 which were clarificatory in nature, the amendments to Issue 4 and Issue 24 represented a change of view on a material matter which ought to have been conveyed to the Plaintiff without delay: 
 
@@ -401,7 +401,7 @@ _facie_ evidence that the Propulsion Units are defective. [note: 86] As such, th
 
 to the Defendant for it to disprove on the balance of probabilities. [note: 87] It is unnecessary for the Plaintiff to prove the specific cause of the defect within the Propulsion Units, _ie_ , to pinpoint the 
 
-specific part or component within the Propulsion Units which is defective. [note: 88] In support of these propositions, the Plaintiff cites _Anti-Corrosion Pte Ltd v Berger Paints Singapore Pte Ltd_ [2012] 1 SLR 427 (“ _Anti-Corrosion_ ”). 
+specific part or component within the Propulsion Units which is defective. [note: 88] In support of these propositions, the Plaintiff cites _Anti-Corrosion Pte Ltd v Berger Paints Singapore Pte Ltd_ <span class="citation">[2012] 1 SLR 427</span> (“ _Anti-Corrosion_ ”). 
 
 65     The Defendant contends that the Plaintiff failed to raise a _prima facie_ case that the Propulsion 
 
@@ -409,7 +409,7 @@ Units were inherently defective and thus, the evidential burden does not shift t
 
 66     In the present case, the legal burden lies with the Plaintiff to prove that the Propulsion Units 
 
-were defective. [note: 91] If the Plaintiff can raise a _prima facie_ case that the Propulsion Units were defective, then the evidential burden shifts to the Defendant to show that the Propulsion Units were not defective: _Britestone Pte Ltd v Smith & Associates Far East, Ltd_ [2007] 4 SLR(R) 855 at [60]; _Anti-Corrosion_ at [37]. 
+were defective. [note: 91] If the Plaintiff can raise a _prima facie_ case that the Propulsion Units were defective, then the evidential burden shifts to the Defendant to show that the Propulsion Units were not defective: _Britestone Pte Ltd v Smith & Associates Far East, Ltd_ <span class="citation">[2007] 4 SLR(R) 855</span> at [60]; _Anti-Corrosion_ at [37]. 
 
 67     In my view, it is sufficient to establish a _prima facie_ case if the Plaintiff can eliminate the other possible causes of the defect, and should the Defendant fail to show that the Propulsion Units are not defective, then the jiggling problem would, more likely than not, have been caused by the defect in 
 
@@ -479,7 +479,7 @@ coincides with the forcing frequency. [note: 109] In other words, the Defence an
 
 and Supplementary AEIC. [note: 110] 
 
-78     It is trite law that the court cannot make a finding based on facts which have not been pleaded: _Ong Seow Pheng v Lotus Development_ [1997] 2 SLR(R) 113 at [41]. Since resonance at the governor linkage was not pleaded in the Defence and Counterclaim as a cause of the jiggling problem, I will not make any finding or decision based on it. In any event, I do not think that it could have been proven on the balance of probabilities in light of the lack of evidence. 
+78     It is trite law that the court cannot make a finding based on facts which have not been pleaded: _Ong Seow Pheng v Lotus Development_ <span class="citation">[1997] 2 SLR(R) 113</span> at [41]. Since resonance at the governor linkage was not pleaded in the Defence and Counterclaim as a cause of the jiggling problem, I will not make any finding or decision based on it. In any event, I do not think that it could have been proven on the balance of probabilities in light of the lack of evidence. 
 
 79     In order to identify the cause of the jiggling problem, the Plaintiff decided to switch the starboard side Propulsion Unit of the CALVIN I with the starboard side propulsion unit from the BERKAH 
 
@@ -597,7 +597,7 @@ I will address each of them in turn.
 
 **_Breach of s 14(2) of the SOGA_** 
 
-96     The standard of “satisfactory quality” is embodied in ss 14(2), (2A), (2B) and (2C) of the SOGA and the combined effect of these provisions had been summarised in _Compact Metals Industries Ltd v PPG Industries (Singapore) Ltd_ [2006] SGHC 242 ( _“Compact Metals_ ”) at [102]. This was affirmed by the Court of Appeal in _National Foods Ltd v Pars Ram Brothers (Pte) Ltd_ [2007] 2 SLR(R) 1048 at [58]. 
+96     The standard of “satisfactory quality” is embodied in ss 14(2), (2A), (2B) and (2C) of the SOGA and the combined effect of these provisions had been summarised in _Compact Metals Industries Ltd v PPG Industries (Singapore) Ltd_ <span class="citation">[2006] SGHC 242</span> ( _“Compact Metals_ ”) at [102]. This was affirmed by the Court of Appeal in _National Foods Ltd v Pars Ram Brothers (Pte) Ltd_ <span class="citation">[2007] 2 SLR(R) 1048</span> at [58]. 
 
 97     The question is whether a reasonable person, placed in the position of the buyer and armed with his knowledge of the transaction and background, would regard the quality of the goods as satisfactory: _Compact Metals_ at [102]; s 14(2A) of the SOGA. The goods must be fit for _all_ the 
 
@@ -626,7 +626,7 @@ was not caused by the Propulsion Units. [note: 183]
 
 **_Recovery of purchase price_** 
 
-102    A buyer is entitled to reject goods which were not of satisfactory quality, subject to the defence of acceptance by use: _Sun Qi v Syscon Pte Ltd_ [2013] SGHC 38 at [27]; _Clegg and another v Olle Andersson (trading as Nordic Marine)_ [2003] 1 All ER (Comm) 721 at [50]. 
+102    A buyer is entitled to reject goods which were not of satisfactory quality, subject to the defence of acceptance by use: _Sun Qi v Syscon Pte Ltd_ <span class="citation">[2013] SGHC 38</span> at [27]; _Clegg and another v Olle Andersson (trading as Nordic Marine)_ [2003] 1 All ER (Comm) 721 at [50]. 
 
 103    I see no reason to say that the Plaintiff cannot reject the Propulsion Units and recover the purchase price paid to the Defendant. In any event, this has not been challenged by the Defendant. [note: 184] 
 
@@ -663,7 +663,7 @@ to postpone the delivery of the Vessels, [note: 188] it is irrelevant that the P
 
 of mitigation”. [note: 189] I reject the Defendant’s argument for three reasons: 
 
- (a) The Defendant had not pleaded this point and is thus not entitled to rely on it. If the Defendant had intended to raise this it would have to be specifically and properly pleaded: Emjay Enterprises Pte Ltd v Skylift Consolidator (Pte) Ltd (Direct Services (HK) Ltd, third party) [2006] 2 SLR(R) 268 at [30] and [34]; Lee Hsien Loong v Singapore Democratic Party and others and another suit [2009] 1 SLR(R) 642 at [14]. 
+ (a) The Defendant had not pleaded this point and is thus not entitled to rely on it. If the Defendant had intended to raise this it would have to be specifically and properly pleaded: Emjay Enterprises Pte Ltd v Skylift Consolidator (Pte) Ltd (Direct Services (HK) Ltd, third party) <span class="citation">[2006] 2 SLR(R) 268</span> at [30] and [34]; Lee Hsien Loong v Singapore Democratic Party and others and another suit <span class="citation">[2009] 1 SLR(R) 642</span> at [14]. 
 
  (b) Further, Swap Test was not an “act of mitigation”. It was not a step taken in mitigation; it was done to find out if the jiggling problem was caused by the Propulsion Units. Instead, what the Defendant ought to have pleaded or said is that the Plaintiff had failed to mitigate when it did not take reasonable steps to avoid or minimise the expenses incurred, eg , by conducting the TVM instead of the Swap Test (see Harvey McGregor, McGregor on Damages , 18th ed (Thomson Reuters (Legal) Limited, 2009) at [7-004]). 
 

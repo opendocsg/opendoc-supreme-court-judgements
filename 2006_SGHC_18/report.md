@@ -105,7 +105,7 @@ _Constitutional Law_ – _Natural justice_ – _Bias_ – _Whether the judge's a
 
 12     I said that if Mr Sim was to confirm that he drafted the Statement of Claim on his own, that would support the plaintiff’s explanation, but if Mr Sim was to say that the Statement of Claim was drafted on the plaintiff’s instructions, that would put a different slant on the matter. 
 
-13     The plaintiff has no basis for complaining that “calling Thomas Sim to testify against me has destroyed all hopes for a fair and impartial trial”. He was not called with the purpose of giving evidence against the plaintiff. The plaintiff set out in his Submissions without demurral my views in my Grounds of Decision ([2003] SGHC 305 at [47]) that: 
+13     The plaintiff has no basis for complaining that “calling Thomas Sim to testify against me has destroyed all hopes for a fair and impartial trial”. He was not called with the purpose of giving evidence against the plaintiff. The plaintiff set out in his Submissions without demurral my views in my Grounds of Decision (<span class="citation">[2003] SGHC 305</span> at [47]) that: 
 
  Mr Sim’s attendance in court was necessary. First, it could provide a better basis for assessing the plaintiff’s contention that the inconsistencies should not be taken against him. Secondly, it was not right for allegations to be made of a solicitor’s competence at drafting and his refusal to carry out a client’s instructions without giving him the opportunity to respond to them. 
 

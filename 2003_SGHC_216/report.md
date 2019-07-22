@@ -115,7 +115,7 @@ who have agreed in writing to sell all the flats and the land in the development
 
  No appeal shall lie to the High Court against an order made by a Board except on a point of law. 
 
-18     Mr Siva Murugaiyan, Counsel for Ms Koh, relied on _MC Strata Title No 958 v Tay Soo Seng_ [1993] 1 SLR 870, where Selvam JC said, at p 875: 
+18     Mr Siva Murugaiyan, Counsel for Ms Koh, relied on _MC Strata Title No 958 v Tay Soo Seng_ <span class="citation">[1993] 1 SLR 870</span>, where Selvam JC said, at p 875: 
 
  The following statement in 1(1) Halsbury’s Laws of England (4th Ed, Reissue) para 70 gives a useful guidance on what constitute errors of law: 
 

@@ -16,7 +16,7 @@
 
 _Tort_ – _Negligence_ – _Contributory negligence_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 175 of 2014 was allowed by the Court of Appeal on 17 March 2016. See [2016] SGCA 16.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 175 of 2014 was allowed by the Court of Appeal on 17 March 2016. See <span class="citation">[2016] SGCA 16</span>.] 
 
 8 October 2014 Judgment Reserved. 
 

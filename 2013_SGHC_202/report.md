@@ -16,7 +16,7 @@
 
 _Tort_ – _Negligence_ – _Duty of care_ – _Solicitor and client_ – _Identity of client_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 138 of 2013 was allowed by the Court of Appeal on 29 May 2014. See [2014] SGCA 34.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 138 of 2013 was allowed by the Court of Appeal on 29 May 2014. See <span class="citation">[2014] SGCA 34</span>.] 
 
 3 October 2013 Judgment reserved 
 

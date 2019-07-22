@@ -20,7 +20,7 @@ _Evidenc e_ – _Witnesses_ – _Corroboration_
 
 _Evidenc e_ – _Witnesses_ – _Impeac hing witness’ c redibility_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 1 of 2016 was dismissed by the Court of Appeal on 3 July 2017. See [2017] SGCA 41.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 1 of 2016 was dismissed by the Court of Appeal on 3 July 2017. See <span class="citation">[2017] SGCA 41</span>.] 
 
 6 April 2016 
 
@@ -262,7 +262,7 @@ him. [note: 40]
 
 _The law on witness c redibility and lies_ 
 
-36     In _Farida Begam d/o Mohd Artham v Public Prosec utor_ [2001] 3 SLR(R) 592, Yong Pung How CJ’s observation at [9] is instructive: 
+36     In _Farida Begam d/o Mohd Artham v Public Prosec utor_ <span class="citation">[2001] 3 SLR(R) 592</span>, Yong Pung How CJ’s observation at [9] is instructive: 
 
  A judge can make a finding on the credibility of a witness based on some or all of the following: 
 
@@ -272,9 +272,9 @@ _The law on witness c redibility and lies_
 
  (c) The external consistency (or lack thereof) between the content of his evidence and extrinsic evidence (for example, the evidence of other witnesses, documentary evidence or exhibits). 
 
-37     When there are minor discrepancies in the testimony of a witness, they should not be held against the witness in assessing his credibility; human fallibility in observation, retention and recollection is recognised and understandable: see _Jagatheesan s/o Krishnasamy v Public Prosec utor_ [2006] 4 SLR(R) 45 (“ _Jagatheesan_ ”) at [82]; _Chean Siong Guat v Public Prosec utor_ [1969] 2 MLJ 63 at 63–64; _Ng Kwee Leong v Public Prosec utor_ [1998] 3 SLR(R) 281 at [17]. Thus, a flawed witness does not equate to an untruthful witness, and the court is perfectly entitled to accept the other parts of a witness’s testimony which are credible and untainted by discrepancies (see _Lewis Christine v Public Prosec utor_ [2001] 2 SLR(R) 131 at [19]; _ADF v Public Prosec utor_ [2010] 1 SLR 874 at [25]). 
+37     When there are minor discrepancies in the testimony of a witness, they should not be held against the witness in assessing his credibility; human fallibility in observation, retention and recollection is recognised and understandable: see _Jagatheesan s/o Krishnasamy v Public Prosec utor_ <span class="citation">[2006] 4 SLR(R) 45</span> (“ _Jagatheesan_ ”) at [82]; _Chean Siong Guat v Public Prosec utor_ [1969] 2 MLJ 63 at 63–64; _Ng Kwee Leong v Public Prosec utor_ <span class="citation">[1998] 3 SLR(R) 281</span> at [17]. Thus, a flawed witness does not equate to an untruthful witness, and the court is perfectly entitled to accept the other parts of a witness’s testimony which are credible and untainted by discrepancies (see _Lewis Christine v Public Prosec utor_ <span class="citation">[2001] 2 SLR(R) 131</span> at [19]; _ADF v Public Prosec utor_ <span class="citation">[2010] 1 SLR 874</span> at [25]). 
 
-38     On the other hand, a “systematic and widespread pattern of many inconsistencies coming together” can destroy the credibility of a witness ( _Public Prosec utor v Yeow Beng Chye_ [2003] SGHC 74 at [27]; _Jagatheesan_ at [83]). In a situation where an accused person lies deliberately in relation to a material issue, the lies may corroborate other existing evidence against the accused. The accused may have intentionally lied, not for innocent reasons, but because he knows that he would be linked to the crime if he is to tell the truth. The Court of Appeal in _Public Prosec utor v Ilec hukwu Uc hec hukwu Chukwudi_ [2015] SGCA 33 (“ _Ilec hukwu_ ”) presented the requirements laid down by the English Court of Appeal in _Regina v Luc as (Ruth)_ [1981] QB 720 at 724 (the “ _Luc as_ test”) as such: 
+38     On the other hand, a “systematic and widespread pattern of many inconsistencies coming together” can destroy the credibility of a witness ( _Public Prosec utor v Yeow Beng Chye_ <span class="citation">[2003] SGHC 74</span> at [27]; _Jagatheesan_ at [83]). In a situation where an accused person lies deliberately in relation to a material issue, the lies may corroborate other existing evidence against the accused. The accused may have intentionally lied, not for innocent reasons, but because he knows that he would be linked to the crime if he is to tell the truth. The Court of Appeal in _Public Prosec utor v Ilec hukwu Uc hec hukwu Chukwudi_ <span class="citation">[2015] SGCA 33</span> (“ _Ilec hukwu_ ”) presented the requirements laid down by the English Court of Appeal in _Regina v Luc as (Ruth)_ [1981] QB 720 at 724 (the “ _Luc as_ test”) as such: 
 
  (a) The lie ... is deliberate; 
 
@@ -284,7 +284,7 @@ _The law on witness c redibility and lies_
 
  (d) The statement must clearly be shown to be a lie by independent evidence. 
 
-39     These requirements were accepted and applied by the Court of Appeal in _Public Prosec utor v Yeo Choon Poh_ [1993] 3 SLR(R) 302 at [33] and _Kamrul Hasan Abdul Quddus v Public Prosec utor_ [2011] SGCA 52 at [18], and recently endorsed again in _Ilec hukwu_ at [60]. A lie (regardless whether told in or out of court) that satisfies the above four conditions can be referred to as a _Luc as_ lie. The _Luc as_ conditions apply whether or not corroboration is required or desirable for certain forms of evidence, e.g. identification evidence, evidence of an accomplice (which was the case in _Luc as_ 
+39     These requirements were accepted and applied by the Court of Appeal in _Public Prosec utor v Yeo Choon Poh_ <span class="citation">[1993] 3 SLR(R) 302</span> at [33] and _Kamrul Hasan Abdul Quddus v Public Prosec utor_ <span class="citation">[2011] SGCA 52</span> at [18], and recently endorsed again in _Ilec hukwu_ at [60]. A lie (regardless whether told in or out of court) that satisfies the above four conditions can be referred to as a _Luc as_ lie. The _Luc as_ conditions apply whether or not corroboration is required or desirable for certain forms of evidence, e.g. identification evidence, evidence of an accomplice (which was the case in _Luc as_ 
 
 
 itself). _Luc as_ lies may amount to corroboration in _all situations_ as any other existing forms of evidence can always be strengthened by corroboration. 
@@ -362,7 +362,7 @@ belonged to the accused. [note: 59]
 
 52     As for the non-capital charge which involved not less than 3.56 grams of diamorphine, I imposed an imprisonment term of six years, with effect from the date of his remand on 9 October 
 
-2010\. I noted that s 322(2) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”) provides that a death sentence must be carried out despite a pending sentence of imprisonment. I also noted that the starting point for first-time offenders (which is broadly proportional to the quantity of diamorphine) as laid down by Sundaresh Menon CJ in his framework for appropriate benchmark sentences for trafficking in diamorphine in _Vasentha d/o Joseph v Public Prosec utor_ [2015] 5 SLR 122 at [47] was 6–7 years’ imprisonment for 3–5 grams of diamorphine trafficked. No caning was imposed as the accused was more than 50 years of age: s 325(1)( _b_ ) of the CPC. The sentence of six years is on the lenient side as I did not adjust the sentence upwards for the fact that the accused would not be liable for caning. 
+2010\. I noted that s 322(2) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”) provides that a death sentence must be carried out despite a pending sentence of imprisonment. I also noted that the starting point for first-time offenders (which is broadly proportional to the quantity of diamorphine) as laid down by Sundaresh Menon CJ in his framework for appropriate benchmark sentences for trafficking in diamorphine in _Vasentha d/o Joseph v Public Prosec utor_ <span class="citation">[2015] 5 SLR 122</span> at [47] was 6–7 years’ imprisonment for 3–5 grams of diamorphine trafficked. No caning was imposed as the accused was more than 50 years of age: s 325(1)( _b_ ) of the CPC. The sentence of six years is on the lenient side as I did not adjust the sentence upwards for the fact that the accused would not be liable for caning. 
 
 53     I also ordered the exhibits to be disposed of after his appeal has been dealt with. 
 

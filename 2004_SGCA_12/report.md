@@ -178,7 +178,7 @@ to reimburse to Panfield the sum of RM3.2m in full settlement of:
 40     The onus clearly lay on the HHR companies to show that the respondents acted in disregard 
 
 
-of the interests of HHR by entering into the written agreement. However, the HHR companies adduced no evidence in this regard. The relevant test is that applied by the Court of Appeal in _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ [1995] 1 SLR 313 at 325, [30]: 
+of the interests of HHR by entering into the written agreement. However, the HHR companies adduced no evidence in this regard. The relevant test is that applied by the Court of Appeal in _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ <span class="citation">[1995] 1 SLR 313</span> at 325, [30]: 
 
  [Whether] an honest and intelligent man in the position of the directors, taking an objective view, could reasonably have concluded that the transactions were in the interests of the [company]. 
 

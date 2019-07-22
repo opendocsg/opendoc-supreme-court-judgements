@@ -18,7 +18,7 @@ _Criminal Law_
 
 _Evidence_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 196.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 196</span>.] 
 
 6 March 2012 Judgment reserved. 
 
@@ -28,7 +28,7 @@ _Evidence_
 
 1       This is an appeal brought by Azman bin Mohamed Sanwan (“the Appellant”) against the decision of a High Court judge (“the Trial Judge”) convicting him of a capital charge brought under the Misuse 
 
-of Drugs Act (Cap 185, 2001 Rev Ed) [note: 1] (“the MDA (2001 Ed)”) while acquitting his two coaccused, namely, Tamil Salvem (“Tamil”) and Balasubramaniam s/o Murugesan (“Bala”), of the same capital charge (see _Public Prosecutor v Azman bin Mohamed Sanwan and others_ [2010] SGHC 196 
+of Drugs Act (Cap 185, 2001 Rev Ed) [note: 1] (“the MDA (2001 Ed)”) while acquitting his two coaccused, namely, Tamil Salvem (“Tamil”) and Balasubramaniam s/o Murugesan (“Bala”), of the same capital charge (see _Public Prosecutor v Azman bin Mohamed Sanwan and others_ <span class="citation">[2010] SGHC 196</span> 
 
 (“the Judgment”)). That charge reads as follows: [note: 2] 
 

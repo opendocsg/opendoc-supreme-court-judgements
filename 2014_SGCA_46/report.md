@@ -20,7 +20,7 @@ _Family Law_ – _Maintenance_ – _Child_
 
 _Family Law_ – _Maintenance_ – _Wife_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2013] SGHC 237 .] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2013] SGHC 237</span> .] 
 
 26 August 2014 Judgment reserved. 
 
@@ -45,13 +45,13 @@ _Family Law_ – _Maintenance_ – _Wife_
 
  (c) a list of other cash assets amounting to about $900,000 would be divided between the parties. 
 
-3       The appeals before us arise from the decision in _AYL v AYM_ [2013] SGHC 237 (“the GD”) concerning the variation of the terms of the Consent Order providing for maintenance payments by the Husband to both the Wife and the Children. 
+3       The appeals before us arise from the decision in _AYL v AYM_ <span class="citation">[2013] SGHC 237</span> (“the GD”) concerning the variation of the terms of the Consent Order providing for maintenance payments by the Husband to both the Wife and the Children. 
 
 4       On 10 July 2014, we heard oral submissions from the parties and adjourned the matter for the parties to furnish us with information regarding the amount of maintenance that had been already paid b y the Husband since the Consent Order was entered into. Having received the information requested, we now deliver our decision. 
 
 **Facts and background to the dispute** 
 
-5       The dispute between the parties has resulted in substantial litigation in both the State Courts and the Supreme Court, and has already come up before the Court of Appeal on one previous occasion. The facts of the case have been set out in detail in a number of decisions (see _AYL v AYM_ [2012] SGHC 64, _AYM v AYL_ [2013] 1 SLR 924, and the GD), and it is unnecessary to canvass them again at length. For present purposes, we set out only the facts that are material to our decision. 
+5       The dispute between the parties has resulted in substantial litigation in both the State Courts and the Supreme Court, and has already come up before the Court of Appeal on one previous occasion. The facts of the case have been set out in detail in a number of decisions (see _AYL v AYM_ <span class="citation">[2012] SGHC 64</span>, _AYM v AYL_ <span class="citation">[2013] 1 SLR 924</span>, and the GD), and it is unnecessary to canvass them again at length. For present purposes, we set out only the facts that are material to our decision. 
 
 6       We begin with the Husband’s financial situation at the time the Consent Order was entered into. The Husband was made redundant at work in or about 2007. He then decided to enter into a business venture with another partner. Together, they incorporated a company which was in the business of providing solutions for the felling, renewal and processing of rubber wood in Indonesia. The Husband’s evidence is that he and his partner each invested $1m in the company while also seeking funding from external investors. The company, however, was never profitable. Despite that, the Husband was paid a substantial monthly salary of $22,438 by the company from September 2009 onwards. As mentioned above, the terms of the Consent Order were recorded on 13 July 2010. 
 
@@ -122,11 +122,11 @@ Although the parties did not cite these provisions in their respective cases or 
 
 18     The following principles concerning lump sum maintenance payments may be extracted from the case law: 
 
- (a) A lump sum payment allows for a clean break in the marriage and should be availed of whenever feasible ( Lee Puey Hwa v Tay Cheow Seng [1991] 2 SLR(R) 196 (“ Lee Puey Hwa ”) at [9]). Such a clean break may help avoid further litigation and acrimony between the parties ( Wan Lai Cheng v Quek Seow Kee and another appeal and another matter [2012] 4 SLR 405 (“ Wan Lai Cheng ”) at [88]). 
+ (a) A lump sum payment allows for a clean break in the marriage and should be availed of whenever feasible ( Lee Puey Hwa v Tay Cheow Seng <span class="citation">[1991] 2 SLR(R) 196</span> (“ Lee Puey Hwa ”) at [9]). Such a clean break may help avoid further litigation and acrimony between the parties ( Wan Lai Cheng v Quek Seow Kee and another appeal and another matter <span class="citation">[2012] 4 SLR 405</span> (“ Wan Lai Cheng ”) at [88]). 
 
- (b) A lump sum payment should not be ordered if it would cripple the husband financially ( Lee Puey Hwa at [9]; and Neo Mei Lan Helena v Long Melvin Anthony [2002] 2 SLR(R) 616 (“ Neo Mei Lan Helena ”)). 
+ (b) A lump sum payment should not be ordered if it would cripple the husband financially ( Lee Puey Hwa at [9]; and Neo Mei Lan Helena v Long Melvin Anthony <span class="citation">[2002] 2 SLR(R) 616</span> (“ Neo Mei Lan Helena ”)). 
 
- (c) A lump sum payment is appropriate where there is reason to believe that defaults in payments may be likely ( Neo Mei Lan Helena ; and BCS v BCT [2012] SGDC 338). 
+ (c) A lump sum payment is appropriate where there is reason to believe that defaults in payments may be likely ( Neo Mei Lan Helena ; and BCS v BCT <span class="citation">[2012] SGDC 338</span>). 
 
 **_Is a clean break desirable?_** 
 
@@ -146,7 +146,7 @@ Although the parties did not cite these provisions in their respective cases or 
 
 _The failure of business venture_ 
 
-23     The cases have established that a material adverse change in the financial circumstances of the Husband, especially where the Wife is reasonably provided for, is a good basis for a downward variation of a maintenance order. This also applies to agreements for maintenance. In _Chua Chwee Thiam v Lim Annie_ [1989] 1 SLR(R) 426, the husband was able to show that his previously strong financial status had deteriorated drastically: his company was placed in receivership, his credit cards were cancelled and he was unable to pay his income tax. On the other hand, the wife was well-off, 
+23     The cases have established that a material adverse change in the financial circumstances of the Husband, especially where the Wife is reasonably provided for, is a good basis for a downward variation of a maintenance order. This also applies to agreements for maintenance. In _Chua Chwee Thiam v Lim Annie_ <span class="citation">[1989] 1 SLR(R) 426</span>, the husband was able to show that his previously strong financial status had deteriorated drastically: his company was placed in receivership, his credit cards were cancelled and he was unable to pay his income tax. On the other hand, the wife was well-off, 
 
 
 owning two properties in prime locations and a luxury car. On that basis, Chan Sek Keong J (as he then was), varied the agreement as to maintenance that the parties had previously entered into. 

@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Drug Trafficking_ 
 
-[LawNet Editorial Note: In Criminal Appeal No 18 of 2011, the first appellant’s appeal was allowed and the second appellant’s appeal was dismissed by the Court of Appeal on 8 March 2013. See [2013] SGCA 20.] 
+[LawNet Editorial Note: In Criminal Appeal No 18 of 2011, the first appellant’s appeal was allowed and the second appellant’s appeal was dismissed by the Court of Appeal on 8 March 2013. See <span class="citation">[2013] SGCA 20</span>.] 
 
 5 October 2011 Judgment reserved. 
 

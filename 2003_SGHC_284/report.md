@@ -200,11 +200,11 @@ Laws of England (4th edition), 2001 Reissue, paragraph 76:
 
  It is simply an enforcement of Parliament’s mandate to the tribunal. If the tribunal is intended on a true construction of the Act to inquire into and finally decide questions within a certain area, the court’s supervisory duty is to see that it makes the authorised inquiry according to natural justice and arrives at a decision whether right or wrong. They will intervene if the tribunal asks itself the wrong questions (that is, questions other than those which Parliament directed it to ask itself). But if it directs itself to the right inquiry, asking the right questions, they will not intervene merely because it has or may have come to the wrong answer, provided that this is an answer that lies within its jurisdiction.” 
 
-58     In the case of _Re Yap Lack Tee George_ [1992] 1 SLR 488, LP Thean J (as he then was), held at page 495E: 
+58     In the case of _Re Yap Lack Tee George_ <span class="citation">[1992] 1 SLR 488</span>, LP Thean J (as he then was), held at page 495E: 
 
  “Plainly, on a close examination of the evidence discussed in the report of the inquiry committee, there was evidence which supported the decision of the staff committee. It cannot be argued that the staff committee had come to a decision so unreasonable that no reasonable committee would ever have come to.” 
 
-59     In the case of _De Souza Lionel Jerome v Attorney-General_ [1993] 1 SLR 882, the State Counsel conceded (at page 900B) that if the evidence taken as a whole is not reasonably capable of supporting the decision of the authorised officer as to his finding, then the decision is ultra vires. The cases of _Leong Kum Fatt v Attorney-General_ and _Edwards v Bairstow_ were referred to. 
+59     In the case of _De Souza Lionel Jerome v Attorney-General_ <span class="citation">[1993] 1 SLR 882</span>, the State Counsel conceded (at page 900B) that if the evidence taken as a whole is not reasonably capable of supporting the decision of the authorised officer as to his finding, then the decision is ultra vires. The cases of _Leong Kum Fatt v Attorney-General_ and _Edwards v Bairstow_ were referred to. 
 
 60     In the Hong Kong High Court case of _Chan Kim Hung v Commissioner of Police_ [2001] 392 HKCU 1, M J Hartmann, J said at paragraph 10: 
 

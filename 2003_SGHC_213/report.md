@@ -58,15 +58,15 @@ _The prosecution’s appeal_
 
 weight to the aggravating factors present in this case. As such, he had failed to mete out a term of preventive detention of sufficient length to ensure that the public would be protected from the respondent. 
 
-12     The prosecution drew parallels between this case and that of _PP v Wong Wing Hung_ [1999] 4 SLR 329, in which I had sentenced the accused to the maximum term of 20 years’ preventive detention. The prosecution submitted that, like the accused in _Wong Wing Hung_ , the respondent was still relatively young (41 at the time of this appeal), having begun his criminal career at 21. He also had a long and varied series of previous convictions. 
+12     The prosecution drew parallels between this case and that of _PP v Wong Wing Hung_ <span class="citation">[1999] 4 SLR 329</span>, in which I had sentenced the accused to the maximum term of 20 years’ preventive detention. The prosecution submitted that, like the accused in _Wong Wing Hung_ , the respondent was still relatively young (41 at the time of this appeal), having begun his criminal career at 21. He also had a long and varied series of previous convictions. 
 
 _The respondent’s appeal_ 
 
 13     The respondent appeared in person before me. Despite this being an appeal against sentence, the respondent’s written grounds of appeal ran the gamut. Very few of his grounds were relevant to the issue of sentencing. In court, he repeated what, in my view, were scandalous and baseless allegations that the prosecution had ‘cleverly hookwinded’ him into pleading guilty. He facetiously claimed to have been running a business which generated a monthly revenue of $260,000, when my review of the evidence showed that Infoseek’s credit card sales brought in only about $6,000 a month. He asked for a new trial and, for the first time in these proceedings, glibly claimed to have an alibi for every one of the 765 charges against him. 
 
-14     I could not, of course, grant the respondent’s request for a new trial. First, this was not the proper forum for such a request. As the respondent had pleaded guilty, the correct procedure should have been an application for revision rather than an appeal against sentence. This I made clear in _Chen Hock Heng Textile Printing Pte Ltd v PP_ [1996] 1 SLR 745 at 749. Second, my review of the evidence did not reveal any error so fundamental that it justified the exercise of this court’s revisionary powers on its own motion under ss 266 and 268 of the Criminal Procedure Code (Cap 68). That being the case, the respondent’s request had to be dismissed. 
+14     I could not, of course, grant the respondent’s request for a new trial. First, this was not the proper forum for such a request. As the respondent had pleaded guilty, the correct procedure should have been an application for revision rather than an appeal against sentence. This I made clear in _Chen Hock Heng Textile Printing Pte Ltd v PP_ <span class="citation">[1996] 1 SLR 745</span> at 749. Second, my review of the evidence did not reveal any error so fundamental that it justified the exercise of this court’s revisionary powers on its own motion under ss 266 and 268 of the Criminal Procedure Code (Cap 68). That being the case, the respondent’s request had to be dismissed. 
 
-15     Before I turn to the substance of the appeal, I pause only to observe that I found no reason at all to fault the district judge’s decision to disallow the respondent’s application to retract his plea. That decision was firmly grounded in the authority of _Ganesun s/o Kannan v PP_ [1996] 3 SLR 560. The district judge found the respondent’s application to be ‘utterly unmeritorious in law and premised on baseless and outrageous allegations,’ which allegations the respondent repeated before me. In the circumstances, I could only construe his request for a new trial as yet another last-ditch attempt by him to escape a sentence of preventive detention. 
+15     Before I turn to the substance of the appeal, I pause only to observe that I found no reason at all to fault the district judge’s decision to disallow the respondent’s application to retract his plea. That decision was firmly grounded in the authority of _Ganesun s/o Kannan v PP_ <span class="citation">[1996] 3 SLR 560</span>. The district judge found the respondent’s application to be ‘utterly unmeritorious in law and premised on baseless and outrageous allegations,’ which allegations the respondent repeated before me. In the circumstances, I could only construe his request for a new trial as yet another last-ditch attempt by him to escape a sentence of preventive detention. 
 
 _The law_ 
 
@@ -81,11 +81,11 @@ _The law_
 
  shall pass, in lieu of any sentence of imprisonment, a sentence of preventive detention of such term of not less than 7 nor more than 20 years as the Court may determine. 
 
-In _Tan Ngin Hai v PP_ [2001] 3 SLR 161 at 163, I held that the real test as to whether a sentence of preventive detention should be imposed is 
+In _Tan Ngin Hai v PP_ <span class="citation">[2001] 3 SLR 161</span> at 163, I held that the real test as to whether a sentence of preventive detention should be imposed is 
 
  whether or not the degree of propensity towards any type of criminal activity at all is such that the offender ought to be taken out of circulation altogether in order that he be not afforded even the slightest opportunity to give sway to his criminal tendencies again. 
 
-This approach was recently applied by the Court of Appeal in _PP v Syed Hamid Bin A Kadir Alhamid_ [2002] 4 SLR 154. 
+This approach was recently applied by the Court of Appeal in _PP v Syed Hamid Bin A Kadir Alhamid_ <span class="citation">[2002] 4 SLR 154</span>. 
 
 _Application to the present facts_ 
 
@@ -95,7 +95,7 @@ _Application to the present facts_
 
 19     In addition, he had been sentenced to three years’ imprisonment and four strokes of the cane in 1986, and five-and-a-half years’ imprisonment and 12 strokes in 1987. He had also accumulated some $6,150 in fines. I was satisfied that there was a real danger that the respondent would reoffend, and that it was expedient for the protection of the public that he should be detained in custody for a substantial period of time. The facts of this appeal clearly satisfied the threshold test in _Tan Ngin Hai v PP_. 
 
-20     I disagreed with only one aspect of the district judge’s reasoning. In coming to his conclusion that the respondent was a suitable candidate for preventive detention, he relied on the New Zealand Court of Appeal decision in _R v Leitch_ [1998] 1 NZLR 420. That case considered s 75(2) of the New Zealand Criminal Justice Act 1985, which provided for the sentence of preventive detention for certain specified offences, including sexual offences. I had, however, held in _PP v Perumal s/o Suppiah_ [2000] 3 SLR 308 at 317 that there were critical differences between the New Zealand provision and our s 12(2). As such, I declined to follow _R v Leitch_. I agreed, however, with the district judge’s conclusion that the respondent should be subjected to a term of preventive detention. 
+20     I disagreed with only one aspect of the district judge’s reasoning. In coming to his conclusion that the respondent was a suitable candidate for preventive detention, he relied on the New Zealand Court of Appeal decision in _R v Leitch_ [1998] 1 NZLR 420. That case considered s 75(2) of the New Zealand Criminal Justice Act 1985, which provided for the sentence of preventive detention for certain specified offences, including sexual offences. I had, however, held in _PP v Perumal s/o Suppiah_ <span class="citation">[2000] 3 SLR 308</span> at 317 that there were critical differences between the New Zealand provision and our s 12(2). As such, I declined to follow _R v Leitch_. I agreed, however, with the district judge’s conclusion that the respondent should be subjected to a term of preventive detention. 
 
 21     The question, then, was how long the respondent should be detained in custody. The district judge was of the opinion that the appropriate period of detention was 12 years. I did not agree. A sentence of 12 years was manifestly inadequate to reflect the length and gravity of the 
 

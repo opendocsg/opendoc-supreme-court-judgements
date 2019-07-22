@@ -463,7 +463,7 @@ This defence is stated generally without the distinction mentioned in para 62 ab
 
 **_Fax dated 9 February 1999 from the Official Receiver to KWP_** 
 
-104\. In _Shimizu Corporation v Lim Tiang Chuan_ [1993] 3 SLR 77, L P Thean J (as he then was) had to consider a clause in identical terms as the Clause 8 before me. He said, at p 85C, that in connection with the insurers defence, it was necessary to refer to their pleadings, to see precisely what they have pleaded. At p 87D, he stated the well-known principle that parties are bound by their pleadings. 
+104\. In _Shimizu Corporation v Lim Tiang Chuan_ <span class="citation">[1993] 3 SLR 77</span>, L P Thean J (as he then was) had to consider a clause in identical terms as the Clause 8 before me. He said, at p 85C, that in connection with the insurers defence, it was necessary to refer to their pleadings, to see precisely what they have pleaded. At p 87D, he stated the well-known principle that parties are bound by their pleadings. 
 
 105\. Paragraphs 12 and 13 of HIs Amended Defence states: 
 
@@ -538,7 +538,7 @@ The decision in _Boshoff_ was followed by the Court of Appeal here in _Federal I
 
 120\. It seems to me that the judgment of Clayden J in _Boshoff_ is authority for the proposition that (a) a claim against an insurer means a demand or an assertion of a particular right, (b) the demand must be for a particular amount and (c) the amount must be fixed by a court or by agreement. 
 
-121\. However, I do not think that in _Federal Insurance Co v Nakano Singapore Pte Ltd_ [1992] 1 SLR 390 ( _Nakano_ ), our Court of Appeal had accepted the second and third elements of the proposition in _Boshoff_. 
+121\. However, I do not think that in _Federal Insurance Co v Nakano Singapore Pte Ltd_ <span class="citation">[1992] 1 SLR 390</span> ( _Nakano_ ), our Court of Appeal had accepted the second and third elements of the proposition in _Boshoff_. 
 
 122\. At p 396 B to D of the law report for _Nakano_ , Chan Sek Keong J (as he then was) said: 
 

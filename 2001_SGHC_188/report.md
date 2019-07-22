@@ -107,7 +107,7 @@ At this juncture, it is apt to provide a brief summary of the law relating to s 
 
 (1) The parties sought to be held liable under s 34 must all have shared a common intention. 
 
-(2) The criminal act that was perpetrated must have been `in furtherance` of that common intention: see **Ong Chee Hoe v PP** [1999] 4 SLR 688. 
+(2) The criminal act that was perpetrated must have been `in furtherance` of that common intention: see **Ong Chee Hoe v PP** <span class="citation">[1999] 4 SLR 688</span>. 
 
 (3) All the parties sought to be held liable under s 34 must have in some way participated in the criminal act. 
 
@@ -116,7 +116,7 @@ Before me, the principal argument raised by Mr Wee on behalf of the appellant wa
 
 argued that the element of participation was not satisfied in the present case. The appellant had no part to play in Wong`s act of submitting the fraudulent 20th progress claim to Yeo Seow Eng. 
 
-Furthermore, Mr Wee argued that it was a requirement that he had to be **_present_** when Wong submitted the 20th progress claim to Yeo Seow Eng. The appellant was not present at Wong`s office when the progress claim was prepared, neither was he present when Wong submitted the claim to Yeo Seow Eng. As such, argued Mr Wee, s 34 could not come into play. In advancing such an argument, the appellant relied on the Singapore Court of Appeal decision in **PP v Gerardine Andrew** [1998] 3 SLR 736. In that case, the court held at [para ]34: 
+Furthermore, Mr Wee argued that it was a requirement that he had to be **_present_** when Wong submitted the 20th progress claim to Yeo Seow Eng. The appellant was not present at Wong`s office when the progress claim was prepared, neither was he present when Wong submitted the claim to Yeo Seow Eng. As such, argued Mr Wee, s 34 could not come into play. In advancing such an argument, the appellant relied on the Singapore Court of Appeal decision in **PP v Gerardine Andrew** <span class="citation">[1998] 3 SLR 736</span>. In that case, the court held at [para ]34: 
 
  Section 34 operates on the basis of joint liability and its essence lies in the doing of a criminal act which furthers the common intention of the participants. The participants are regarded by virtue of this joint liability as principals in the crime. In abetment on the other hand, the actual offence is committed by someone else other than the abettor. The very nature of s 34 demands a closer association with the actual commission of the offence, as compared to abetment where the person is punished for aiding or abetting the principal. There is therefore no requirement that an abettor must be present at the immediate scene of the crime in order for there to be liability for abetment. In our view, to hold that an accused can be liable under s 34 despite being absent when the commission of the offence occurred would render much of the abetment provisions in the Penal Code otiose. It cannot have been the intention for s 34 to take over the provisions of Ch V of the Penal Code which provides for the substantive offence of abetment. In our view, therefore, in order for an accused person to be liable under s 34, there must be a requirement that he was physically present when the commission of the offence took place. [Emphasis is added.] 
 
@@ -144,7 +144,7 @@ Reverting to the facts of the present case, the task now was to isolate what the
 
 With respect, the trial judge`s application of s 34 was erroneous. The `criminal act` in the present case was the deception of Yeo Seow Eng into approving the progress payment of $220,000, this being the offence under s 420 of the Penal Code. The `criminal act` was completed when Yeo Seow Eng was deceived and the 20th progress payment was transferred to Eng Tat`s account. The acts of the appellant, which included paying off the $100,000 to Wong and submitting P10 to the Ministry almost two years later, were performed long after the `criminal act` had crystallised. The appellant`s acts could thus not be considered to be constituent parts of the `criminal act` as defined by s 34. This was not a situation where the `criminal act` consisted of a series of acts, with one of the accomplices doing some of the acts and the other accomplice doing the rest. This was a case where the `criminal act` was done solely by one person only, and that was Wong. 
 
-In this respect, the case of **Edmund Nathan v PP** [1997] 3 SLR 782 , cited by the prosecution, was quite distinguishable. In that case, the appellant solicitor clearly participated in the criminal act, as it was he who prepared the S & P document with the inflated sale price, which document had been instrumental in his client`s act of deceiving the bank. In the present case, the act of deceiving Yeo Seow Eng was executed wholly by Wong, without the appellant having any hand in it. 
+In this respect, the case of **Edmund Nathan v PP** <span class="citation">[1997] 3 SLR 782</span> , cited by the prosecution, was quite distinguishable. In that case, the appellant solicitor clearly participated in the criminal act, as it was he who prepared the S & P document with the inflated sale price, which document had been instrumental in his client`s act of deceiving the bank. In the present case, the act of deceiving Yeo Seow Eng was executed wholly by Wong, without the appellant having any hand in it. 
 
 The end analysis in respect of s 34 was thus as follows: the appellant played no part in the execution of the `criminal act` (the criminal act being the preparation and tendering of the false progress claim and the consequent deception of Yeo Seow Eng). That act was done entirely by Wong. The appellant was not even present at the time of the preparation or submission of the false progress claim to Yeo Seow Eng. That being the case, it could not be said that the appellant `participated` in any way in Wong`s criminal act. The conviction under s 34 therefore could not be sustained. 
 
@@ -207,7 +207,7 @@ The judge further held:
 
 The judge was amply justified in so holding, especially considering the fact that by the time of the trial, Wong had already been convicted and was serving time in prison. Wong had nothing to gain by lying. I therefore saw no reason to disturb the judge`s finding of fact. 
 
-In any case, the surrounding evidence also pointed to the appellant having been privy to an agreement with Wong to cheat the Ministry. In **Er Joo Nguang v PP** [2000] 2 SLR 645 , I remarked at [para ]35: 
+In any case, the surrounding evidence also pointed to the appellant having been privy to an agreement with Wong to cheat the Ministry. In **Er Joo Nguang v PP** <span class="citation">[2000] 2 SLR 645</span> , I remarked at [para ]35: 
 
  So far as proof goes, conspiracy is generally a matter of inference, deduced from certain acts of the accused parties, done in pursuance of an apparent criminal purpose in common between them. Both the surrounding circumstances and the conduct of the parties before and after the alleged commission of the crime will be useful in drawing an inference of conspiracy: see Chai Chien Wei Kelvin v PP (supra). An inference of conspiracy would be justified only if it is inexorable and irresistible, and accounts for all the facts of the case. [Emphasis is added.] 
 
@@ -248,7 +248,7 @@ The power to effect such a substitution is conferred by s 256 of the Criminal Pr
 
  (ii) alter the finding, maintaining the sentence ... 
 
-The nature of the power encapsulated by this provision was explained in the case of **Garmaz s/o Pakhar v PP** [1996] 1 SLR 401 at 412: 
+The nature of the power encapsulated by this provision was explained in the case of **Garmaz s/o Pakhar v PP** <span class="citation">[1996] 1 SLR 401</span> at 412: 
 
  The scope of such power allows the court in appropriate cases, where it finds that the accused did not commit the offence with which he was charged but had committed an offence on which no charge has been preferred against him to alter the finding below and in consequence to substitute a conviction of the 
 
@@ -257,7 +257,7 @@ The nature of the power encapsulated by this provision was explained in the case
 
 An objection raised by Mr Wee was that such a substitution should not be made in this appeal, as it would cause prejudice to the appellant. The offence of abetment by conspiracy, argued Mr Wee, was materially different from a charge involving s 34 of the Penal Code. 
 
-The issue of prejudice in cases such as the present was dealt with in **Jimina Jacee d/o CD Athananasius v PP** [2000] 1 SLR 205. In that case, I held (at 218) that prejudice will generally not arise if substitution of the conviction under one offence for a conviction under another will not affect the substance of the evidence given in the proceedings below, and if the defence advanced in the trial below, if believed, would be a complete answer to the offence as substituted. 
+The issue of prejudice in cases such as the present was dealt with in **Jimina Jacee d/o CD Athananasius v PP** <span class="citation">[2000] 1 SLR 205</span>. In that case, I held (at 218) that prejudice will generally not arise if substitution of the conviction under one offence for a conviction under another will not affect the substance of the evidence given in the proceedings below, and if the defence advanced in the trial below, if believed, would be a complete answer to the offence as substituted. 
 
 In the present case, the appellant`s defence was that he was never party to Wong`s plan to cheat the government, and that there were explanations for his dubious acts subsequent to the payment of the $220,000 to Eng Tat`s account. If this defence were true, it would be a complete answer to a charge of abetment of Wong`s plan by conspiracy. However, the facts of this case showed quite clearly that the defence was unfounded. The trial judge made a clear finding of fact that prior to the submission of the fraudulent 20th progress claim, the appellant and Wong did enter into an agreement to cheat the Ministry. It was therefore my view that the appellant would suffer no prejudice from the proposed substitution. 
 

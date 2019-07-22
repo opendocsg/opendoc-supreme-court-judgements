@@ -57,7 +57,7 @@ breached her employment contract. [note: 1]
 
 8       The right of the company to recover the amount claimed from Ms Loh in these proceedings depends on whether it was entitled to dismiss her summarily on 29 May 2008. 
 
-9       In _Cowie Edward Bruce v Berger International Pte Ltd_ [1999] 1 SLR(R) 739, Warren Khoo J explained at [39]-[40] the right of an employer to summarily dismiss an employee in the following helpful terms: 
+9       In _Cowie Edward Bruce v Berger International Pte Ltd_ <span class="citation">[1999] 1 SLR(R) 739</span>, Warren Khoo J explained at [39]-[40] the right of an employer to summarily dismiss an employee in the following helpful terms: 
 
  In each case, it is a matter of degree whether the act complained of is of the requisite gravity. It has been said that it must be so serious that it strikes at the root of the contract of employment, that it destroys the confidence underlying such a contract: Jackson v Invicta Plastics Ltd [1987] BCLC 329 at 344, per Peter Pain J. 
 

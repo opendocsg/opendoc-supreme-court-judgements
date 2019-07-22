@@ -77,7 +77,7 @@ pursuant to an order for substituted service properly obtained, and the facts an
  (7) Where an order is made under paragraph (4), Rules 7 (4) and 8 (3) and (4) shall apply as if the order had been made under Rule 7 on the application of the plaintiff. 
 
 
-15     It seems to me that even though the default order was made with the leave of the court, it does not detract from the fact that it was a judgment in default of appearance and an _ex parte_ order. An application can be made to set it aside. Another situation in which an order may be set aside is where the person obtaining the order has not complied with the requirements of the Rules of Court and the order has thus been irregularly obtained: see _Ong Cher Keong v Goh Chin Soon Ricky_ [2001] 2 SLR 94 at [44]. 
+15     It seems to me that even though the default order was made with the leave of the court, it does not detract from the fact that it was a judgment in default of appearance and an _ex parte_ order. An application can be made to set it aside. Another situation in which an order may be set aside is where the person obtaining the order has not complied with the requirements of the Rules of Court and the order has thus been irregularly obtained: see _Ong Cher Keong v Goh Chin Soon Ricky_ <span class="citation">[2001] 2 SLR 94</span> at [44]. 
 
 16     At the setting-aside hearing, the undisputed fact is that the defendant died as long ago as 
 

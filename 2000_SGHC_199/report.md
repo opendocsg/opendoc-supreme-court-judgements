@@ -38,7 +38,7 @@ me to go into the background facts, most of which are found in the judgment of t
 
 in **Ching Mun Fong (executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit & Anor** 
 
-[2000] 1 SLR 517. 
+<span class="citation">[2000] 1 SLR 517</span>. 
 
 **_Background_** 
 
@@ -273,7 +273,7 @@ interest in the property. As for Fook Gee`s appeal, the Court of Appeal, like th
 
 no evidence to suggest that the two amounts paid to the defendant in April 1981 were in fact a loan 
 
-from Fook Gee. That appeal was accordingly dismissed. [See [1998] 2 SLR 121.] 
+from Fook Gee. That appeal was accordingly dismissed. [See <span class="citation">[1998] 2 SLR 121</span>.] 
 
 **_Present proceedings and the application to strike out the statement of claim_** 
 
@@ -338,7 +338,7 @@ both appeals.
 
 The plaintiff then appealed to the Court of Appeal. Both her appeals regarding her application to 
 
-amend and against the striking out of the action were allowed. [See [2000] 1 SLR 517.] 
+amend and against the striking out of the action were allowed. [See <span class="citation">[2000] 1 SLR 517</span>.] 
 
 The Court of Appeal found the case of **Gleeson v J Wippell & Co** [1977] 1 WLR 501 instructive and 
 
@@ -452,7 +452,7 @@ of the judgment as reported in **Fook Gee Finance Co Ltd v Liu Cho Chit and anot
 
 2       SLR 121 and [para ] 8 and 9 of the second Court of Appeal judgment which was given in the 
 
-present action before me as reported in **Ching Mun Fong v Liu Cho Chit** [2000] 1 SLR 517 ). 
+present action before me as reported in **Ching Mun Fong v Liu Cho Chit** <span class="citation">[2000] 1 SLR 517</span> ). 
 
 The Court of Appeal did not disturb the other findings of the trial judge in the 1983 and 1984 actions, 
 
@@ -741,7 +741,7 @@ that neither Liu nor his wife had an interest in the property.
 
 I should reiterate that the Court of Appeal`s finding related only to Mdm Lim`s interest in the 
 
-property and not Liu`s (see again [para ] 41 of its judgment reported in [1998] 2 SLR 121). This may 
+property and not Liu`s (see again [para ] 41 of its judgment reported in <span class="citation">[1998] 2 SLR 121</span>). This may 
 
 be because it was not asserted by any one then that Mdm Lim was only a nominee of the defendant. 
 
@@ -1148,7 +1148,7 @@ However I would also mention that the judgment of the House of Lords in **_Westd
 
 In Singapore, the question of a remedial constructive trust was considered briefly by the learned Chief 
 
-Justice in **PP v Intra Group (Holdings) Co Inc** [1999] 1 SLR 803. He said (at [para ] 46): 
+Justice in **PP v Intra Group (Holdings) Co Inc** <span class="citation">[1999] 1 SLR 803</span>. He said (at [para ] 46): 
 
  If it is to be regarded as correct in result but not reasoning, it may well be, if it were to be decided again today, that Sinclair v Brougham might be classified as a remedial constructive trust, a category of trusts not as yet recognised in English or Singapore law, though the possibility that such a doctrine may yet be entertained at some future date was mooted by Lord Browne-Wilkinson in Westdeutsche in his consideration of Chase Manhattan Bank NA v IsraelBritish Bank (London) Ltd [1981] Ch 105[1980] 2 WLR 202, a decision in which a proprietary claim was awarded for a mistake of fact ... 
 
@@ -1374,7 +1374,7 @@ argument about a remedial constructive trust is to circumvent the period of limi
 
 the payment having been made under a mistake. 
 
-In **Scan Electronics (S) Pte Ltd v Syed Ali Redha Alsagoff** [1997] 3 SLR 13 , the Court of Appeal 
+In **Scan Electronics (S) Pte Ltd v Syed Ali Redha Alsagoff** <span class="citation">[1997] 3 SLR 13</span> , the Court of Appeal 
 
 said (at [para ] 20): 
 

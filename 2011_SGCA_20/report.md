@@ -20,7 +20,7 @@ _Contract_ – _Contractual terms_ – _Rules of construction_
 
 _Companies_ – _Reconstruction_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2011] 1 SLR 449.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2011] 1 SLR 449</span>.] 
 
 29 April 2011 Judgment reserved. 
 
@@ -28,7 +28,7 @@ _Companies_ – _Reconstruction_
 
 1       There are before us two appeals and an application for leave to appeal by Astrata (Singapore) Pte Ltd (“Astrata”) against the decisions of the Judge (“the Judge”) in, respectively, Originating Summons No 171 of 2010 (“the Injunction Application”), Originating Summons No 690 of 2010 (“the Declaration Application”) and Summons No 3264 of 2010 (“the Stay Application”). 
 
-2       The respondents in the proceedings before us are Tridex Technologies Pte Ltd (“Tridex”) and Portcullis Escrow Pte Ltd (“PEPL”). The judgment in respect of the two appeals is reported in _Astrata (Singapore) Pte Ltd v Tridex Technologies Pte Ltd and another and other matters_ [2011] 1 SLR 449 (“the Judgment”). The judgment from which the application for leave to appeal is made in Originating Summons No 1082 of 2010 (“the Leave Application”) is reported in _Portcullis Escrow Pte Ltd v Astrata (Singapore) Pte Ltd and another_ [2010] SGHC 302. 
+2       The respondents in the proceedings before us are Tridex Technologies Pte Ltd (“Tridex”) and Portcullis Escrow Pte Ltd (“PEPL”). The judgment in respect of the two appeals is reported in _Astrata (Singapore) Pte Ltd v Tridex Technologies Pte Ltd and another and other matters_ <span class="citation">[2011] 1 SLR 449</span> (“the Judgment”). The judgment from which the application for leave to appeal is made in Originating Summons No 1082 of 2010 (“the Leave Application”) is reported in _Portcullis Escrow Pte Ltd v Astrata (Singapore) Pte Ltd and another_ <span class="citation">[2010] SGHC 302</span>. 
 
 **Background** 
 
@@ -133,7 +133,7 @@ It may be noted that the words in parenthesis “(but not Tridex and Astrata alo
 
  (c) any apparent conflict between them can be reconciled, and resolved by restricting the non-exclusive jurisdiction clause in the Escrow Agreement to seeking curial assistance from the Singapore courts, eg , interim orders, as was the approach of the English courts in the Paul Smith line of cases (see [30] below). Alternatively, the Supply Agreement prevails over the Escrow Agreement as it is the commercial centre of the transaction: see the approach of the court in UBS AG & Anor v HSH Nordbank AG [2010] 1 ALL ER (Comm) 727; 
 
- (d) the decisions in Transocean Offshore International Ventures Ltd v Burgundy Global Exploration Corp [2010] 2 SLR 821 at [21] (“ Transocean ”) and L & M Concrete Specialists Pte Ltd v United Eng Contractors Pte Ltd [2000] 2 SLR(R) 852 are distinguishable on the facts. 
+ (d) the decisions in Transocean Offshore International Ventures Ltd v Burgundy Global Exploration Corp <span class="citation">[2010] 2 SLR 821</span> at [21] (“ Transocean ”) and L & M Concrete Specialists Pte Ltd v United Eng Contractors Pte Ltd <span class="citation">[2000] 2 SLR(R) 852</span> are distinguishable on the facts. 
 
 **_Tridex’s case_** 
 
@@ -184,7 +184,7 @@ dispute were with Tridex (with PEPL interpleading) the same dispute resolution c
 
 30     Astrata has further contended that the non-exclusive jurisdiction clauses (cll 18(b) and 20(c)) of the Escrow Agreement are limited to curial assistance in support of arbitration. We are also unable to accept this argument. Such a construction may be attractive in cases where there are arbitration as well as non-exclusive jurisdiction clauses in the same contract or, perhaps, in related contracts between the same parties, _eg_ , as in the _Paul Smith_ line of cases ( _Paul Smith Ltd v H & S International Holding Inc_ [1991] 2 Lloyd’s Rep 127 QBD (Comm) discussed in _AXA Re v Ace Global Markets Ltd_ [2006] 1 Lloyd’s Rep IR 683 QBD (Comm)) but it has no application in the present case. 
 
-31     In the circumstances, we would give the non-exclusive jurisdiction clauses their ordinary meaning. They have not been displaced by any provision or words in the Escrow Agreement or the Supply Agreement. So construed, and as recognised in case law (see, for instance, _Transocean_ at [16] and _Bambang Sutrisno v Bali International Finance Ltd and others_ [1999] 2 SLR(R) 632 at [11]), the non-exclusive jurisdiction clauses presumptively exclude other means of dispute resolution in favour of the non-exclusive forum. 
+31     In the circumstances, we would give the non-exclusive jurisdiction clauses their ordinary meaning. They have not been displaced by any provision or words in the Escrow Agreement or the Supply Agreement. So construed, and as recognised in case law (see, for instance, _Transocean_ at [16] and _Bambang Sutrisno v Bali International Finance Ltd and others_ <span class="citation">[1999] 2 SLR(R) 632</span> at [11]), the non-exclusive jurisdiction clauses presumptively exclude other means of dispute resolution in favour of the non-exclusive forum. 
 
 32     We would also agree with Tridex’s argument that this conclusion is reinforced by the choice of Singapore law in cl 17 of the Escrow Agreement. When contrasted to the choice of English law in the Supply Agreement, the choice of Singapore law in the Escrow Agreement, which deals only with the Escrow Property, fortifies the presumption in favour of Singapore as the non-exclusive forum in respect of disputes relating only to the Escrow Property. It follows that s 11A of the IAA has no application to the Bilateral Dispute, and it is therefore unnecessary for us to decide whether or not to refer the Bilateral Dispute to arbitration. 
 

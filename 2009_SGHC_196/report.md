@@ -37,7 +37,7 @@ _Civil Procedure_ – _Stay of proceedings_
 
 8       Subsequently, on 9 April 2008 [ABR] commenced divorce proceedings in Singapore. This time round, it was [ABS] who applied to stay the Singapore proceedings on the ground that India is the more appropriate forum. 
 
-9       As for whether an action in Singapore should be stayed on the ground that there is a more appropriate forum, in _Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia_ [1992] 2 SLR 776, Chao Hick Tin J, who delivered the judgment of the Court of Appeal, stated at [35] as follows: 
+9       As for whether an action in Singapore should be stayed on the ground that there is a more appropriate forum, in _Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia_ <span class="citation">[1992] 2 SLR 776</span>, Chao Hick Tin J, who delivered the judgment of the Court of Appeal, stated at [35] as follows: 
 
  Lord Goff, who delivered the judgment of the House in [ Spiliada Maritime Corporation v Cansulex Ltd [1987] AC 460], to which the other four Law Lords agreed, restated the law ... which is summarized in the third cumulative supplement to Dicey & Morris on Conflict of Laws (11th Ed) at para[s] 393-395 as follows: 
 
@@ -49,7 +49,7 @@ _Civil Procedure_ – _Stay of proceedings_
 
  (f) if there is another forum which prima facie is clearly more appropriate the court will ordinarily grant a stay unless there are circumstances by reason of which justice requires that a stay should not be granted, and, in this inquiry, the court will consider all the circumstances of the case. But the mere fact that the plaintiff has a legitimate personal or juridical advantage in proceeding in Englandis not decisive; regard must be had to the interests of all the parties and the ends of justice. 
 
-10     It is also worth noting that in _Peters Roger May v Pinder Lillian Gek Lian_ [2006] 2 SLR 381, V K Rajah J noted at [20] as follows: 
+10     It is also worth noting that in _Peters Roger May v Pinder Lillian Gek Lian_ <span class="citation">[2006] 2 SLR 381</span>, V K Rajah J noted at [20] as follows: 
 
  A court has to take into account an entire multitude of factors in balancing the competing interests. The weightage accorded to a particular factor varies in different cases and the ultimate appraisal ought to reflect the exigencies dictated by the factual matrix. Copious citations of precedents and dicta are usually of little assistance and may in reality serve to cloud rather than elucidate the applicable principles. 
 
@@ -58,13 +58,13 @@ _Civil Procedure_ – _Stay of proceedings_
 
 appropriate forum, is now arguing that Singapore is the more appropriate forum. On the other hand, [ABS], who had taken the position in 2006 that Singapore was the more appropriate forum for her divorce proceedings is now arguing that India is a more appropriate forum than Singapore. 
 
-12 [ABS]’s counsel, Mr Ranjit Singh (“Mr Singh”), urged the court to note that by the time [ABR] had commenced divorce proceedings in Singapore on 9 April 2008, [ABS] had already commenced divorce proceedings in India on 12 November 2007, almost five months earlier. He also pointed out that although both parties are Singapore permanent residents and [ABR] is working in Singapore, they and their only child, [B], are Indian citizens. Furthermore, both [ABS] and [B] now live in India and [B] is presently being educated in India. The amount of maintenance to be awarded to [ABS] and [B] must also be considered in the context of the standard of living in India. Mr Singh submitted that this and issues relating to care and custody of [B] and access to [B] by the parent not having custody are best left to the Indian courts. He referred to _Mala Shukla v Jayant Amritanand Shukla_ [2002] 3 SLR 295, where Woo Bih Li J stated at [55] and [56] as follows: 
+12 [ABS]’s counsel, Mr Ranjit Singh (“Mr Singh”), urged the court to note that by the time [ABR] had commenced divorce proceedings in Singapore on 9 April 2008, [ABS] had already commenced divorce proceedings in India on 12 November 2007, almost five months earlier. He also pointed out that although both parties are Singapore permanent residents and [ABR] is working in Singapore, they and their only child, [B], are Indian citizens. Furthermore, both [ABS] and [B] now live in India and [B] is presently being educated in India. The amount of maintenance to be awarded to [ABS] and [B] must also be considered in the context of the standard of living in India. Mr Singh submitted that this and issues relating to care and custody of [B] and access to [B] by the parent not having custody are best left to the Indian courts. He referred to _Mala Shukla v Jayant Amritanand Shukla_ <span class="citation">[2002] 3 SLR 295</span>, where Woo Bih Li J stated at [55] and [56] as follows: 
 
  [55] As regards custody of and access to the children, they are children of Indian citizens and are residing in India. India is the most appropriate forum to make orders in respect of them. 
 
  [56] Even for maintenance, while a court may wish to consider the previous standard of living of the family in Singapore, it may also want to consider the cost of living at the place where the mother and children are at present residing. 
 
-13     One connection with Singapore is the couple’s HDB flat, which is presently occupied by [ABR]. An Indian court can deal with the division of this matrimonial asset with no difficulty. It is worth noting that in _Low Wing Hong Alvin v Kelso Sharin Leigh_ [2001] 1 SLR 173, Lee Seiu Kin JC rightly noted at [21] that: 
+13     One connection with Singapore is the couple’s HDB flat, which is presently occupied by [ABR]. An Indian court can deal with the division of this matrimonial asset with no difficulty. It is worth noting that in _Low Wing Hong Alvin v Kelso Sharin Leigh_ <span class="citation">[2001] 1 SLR 173</span>, Lee Seiu Kin JC rightly noted at [21] that: 
 
  “It is more important that the same court consider and decide these matters [meaning the divorce and ancillary matters such as custody and access] than to divide the issues to be decided in separate courts simply because the assets are in another jurisdiction”. 
 

@@ -24,7 +24,7 @@ _Contract_ – _Misrepresentation_ – _Fraudulent_ – _Appellant misrepresenti
 
 **V K Rajah JA (delivering the judgment of the court):** 
 
-1       This is an appeal against the judgment of the trial judge (“the Judge”) in Suit No 175 of 2006, _viz_ , _Singapore Tourism Board v Children's Media Ltd_ [2008] 3 SLR 981 (“the Judgment”). In her decision, the Judge awarded interlocutory judgment to the plaintiff (“the respondent”) against the three defendants (“the first appellant”, “the second appellant”, and “the third appellant”, respectively; collectively referred to as “the appellants”). 
+1       This is an appeal against the judgment of the trial judge (“the Judge”) in Suit No 175 of 2006, _viz_ , _Singapore Tourism Board v Children's Media Ltd_ <span class="citation">[2008] 3 SLR 981</span> (“the Judgment”). In her decision, the Judge awarded interlocutory judgment to the plaintiff (“the respondent”) against the three defendants (“the first appellant”, “the second appellant”, and “the third appellant”, respectively; collectively referred to as “the appellants”). 
 
 2       The proceedings had arisen out of the failure on the part of the appellants to stage a mega event known as “Listen Live” (“the Event”) in Singapore, for which the respondent had paid sums totalling $6,155,250. The obligation to stage the Event was contained in three consecutive agreements between the respondent and the first appellant (“the First Agreement”, “the Second Agreement”, and “the Third Agreement”, respectively), each agreement superseding the previous agreement. Together with the execution of the Third Agreement, the respondent and the first appellant agreed to several terms set out in a letter (“the Side Letter”). 
 

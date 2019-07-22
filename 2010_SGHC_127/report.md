@@ -87,7 +87,7 @@ The deleted sentence in the Outline was plainly different from the provisions se
 
 **_b. Whether there was an express agreement as to SVAPF Control_** 
 
-11     The defendants’ main contention was that there was an agreement between SVAPF and SAP for SVAPF Control, and that they were therefore not obliged to issue the SAP Notes until the said control had been documented and executed. This claim was made notwithstanding SVAPF’s and SAP’s assertions that SVAPF Control was not agreed upon and did not exist. In this regard, counsel relied on _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029, to persuade this court to adopt a contextual approach to contractual interpretation. 
+11     The defendants’ main contention was that there was an agreement between SVAPF and SAP for SVAPF Control, and that they were therefore not obliged to issue the SAP Notes until the said control had been documented and executed. This claim was made notwithstanding SVAPF’s and SAP’s assertions that SVAPF Control was not agreed upon and did not exist. In this regard, counsel relied on _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span>, to persuade this court to adopt a contextual approach to contractual interpretation. 
 
 _i. SVAPF’s and SAP’s positions_ 
 
@@ -161,7 +161,7 @@ _vii. The draft DPA_
 
 **_a. Whether SVAPF Control within parties’ contemplation_** 
 
-22     The law on implied terms was discussed in the Court of Appeal judgment in _Ng Giap Hon v Westcomb Securities Pte Ltd_ [2009] 3 SLR(R) 518 (“ _Westcomb_ ”), at [34]–[40]. The question before this court was whether SVAPF Control should be a “term implied in fact”, as opposed to a “term implied in law”. See _Westcomb_ at [31]: 
+22     The law on implied terms was discussed in the Court of Appeal judgment in _Ng Giap Hon v Westcomb Securities Pte Ltd_ <span class="citation">[2009] 3 SLR(R) 518</span> (“ _Westcomb_ ”), at [34]–[40]. The question before this court was whether SVAPF Control should be a “term implied in fact”, as opposed to a “term implied in law”. See _Westcomb_ at [31]: 
 
  First, an implied term, by its very nature (as an implied term), would not , ex hypothesi , have 
 

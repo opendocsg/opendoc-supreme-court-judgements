@@ -161,7 +161,7 @@ three named beneficiaries, and the remaining half to go towards the residuary es
 
 On costs, I order that the estate pays the Respondent’s costs of OS 48/2010 and Summons No 1566 of 2010 to be taxed, if not agreed. 
 
-23     It remains to be said that these proceedings highlight some professional shortcomings, and it is appropriate that I draw attention to the timely reminder by Chan Sek Keong CJ in _Chee Mu Lin Muriel v Chee Ka Lin Caroline_ [2010] SGCA 27 (“ _Chee Muriel”)_ at [60]: 
+23     It remains to be said that these proceedings highlight some professional shortcomings, and it is appropriate that I draw attention to the timely reminder by Chan Sek Keong CJ in _Chee Mu Lin Muriel v Chee Ka Lin Caroline_ <span class="citation">[2010] SGCA 27</span> (“ _Chee Muriel”)_ at [60]: 
 
  ... solicitors who undertake the task of preparing wills and/or witnessing the execution of wills must take the necessary precautions or steps in order to fulfil their duties to their clients. The precautions are not complicated nor are they time consuming. In any case, as solicitors, they must do what is required, however complicated or difficult the task may be. The central task is to ensure that the terms of the will reflect the wishes of the testator. 
 
@@ -170,7 +170,7 @@ On costs, I order that the estate pays the Respondent’s costs of OS 48/2010 an
 
 during the meeting or meetings”. 
 
-25     It is also helpful to close this discourse on the proper discharge of professional responsibilities in drawing up a Will by quoting an apt warning in _Low Ah Cheow and others v Ng Hock Guan_ [2009] 3 SLR(R) 1079 at [73], which was cited in _Chee Muriel_ (at [61]): 
+25     It is also helpful to close this discourse on the proper discharge of professional responsibilities in drawing up a Will by quoting an apt warning in _Low Ah Cheow and others v Ng Hock Guan_ <span class="citation">[2009] 3 SLR(R) 1079</span> at [73], which was cited in _Chee Muriel_ (at [61]): 
 
  The preparation of a will involves serious professional responsibilities, which solicitors must uncompromisingly observe and discharge. Regrettably, it seems to us that, all too often nowadays, solicitors appear to consider the preparation of a will to be no more than a routine exercise in form filling. This is wrong. Before preparing a will, the solicitor concerned ought to have a thorough discussion with the testator on all the possible legal issues and potential complications that might arise in the implementation of the terms of the will. The solicitor ought to painstakingly and accurately document his discussions with and his instructions from the testator. He should also confirm with the testator, prior to the execution of the will, that the contents of the will as drafted accurately express the latter’s intention. A translation, if required, must be thoroughly and competently done. Half measures or the cutting of corners in the discharge of these serious professional responsibilities will not do. 
 

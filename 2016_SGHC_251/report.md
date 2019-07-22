@@ -193,7 +193,7 @@ Master Agreement (“the arbitration agreement”). D3 was not a party to Master
 
 29     On the same day, 18 December 2015, D3 applied for a stay of this suit until the arbitration brought by D1 and D2 against the plaintiff and [TN] (“the SIAC Arbitration”) is finally disposed of. [note: 28] As D3 was not a party to the arbitration agreement, it argued that a stay ought to be 
 
-granted under the court’s inherent jurisdiction to stay the proceedings against D3 for reasons of case management. D3 submitted that a stay should be granted because of the overlap between the court proceedings against it and the SIAC Arbitration. D3 relied on _Tomolugen Holdings Ltd and another v Silica Investors Ltd and other appeals_ [2016] 1 SLR 373 for the proposition that if part of a dispute is sent for arbitration, the court proceedings relating to the rest of the dispute may be stayed where doing so would serve the ends of justice. D3 also confirmed its agreement to join the SIAC Arbitration and to be bound by the SIAC Arbitration if it could not be so joined. 
+granted under the court’s inherent jurisdiction to stay the proceedings against D3 for reasons of case management. D3 submitted that a stay should be granted because of the overlap between the court proceedings against it and the SIAC Arbitration. D3 relied on _Tomolugen Holdings Ltd and another v Silica Investors Ltd and other appeals_ <span class="citation">[2016] 1 SLR 373</span> for the proposition that if part of a dispute is sent for arbitration, the court proceedings relating to the rest of the dispute may be stayed where doing so would serve the ends of justice. D3 also confirmed its agreement to join the SIAC Arbitration and to be bound by the SIAC Arbitration if it could not be so joined. 
 
 30     The plaintiff objected to D3’s application for a stay but also submitted that if a stay were to be granted, the stay should be subject to the plaintiff’s ability to seek leave of court to serve interrogatories. The plaintiff’s position was that it needed to serve interrogatories on the defendants on the use of the Monies so that it could follow, trace and recover the Monies from the third parties to whom the Monies had been paid. 
 
@@ -250,7 +250,7 @@ s 6 of the IAA. [note: 32]
 
  [emphasis added] 
 
-42     The discretion of the court to impose terms and conditions upon a stay in favour of arbitration is unfettered although it must be exercised judiciously: _The “Duden”_ [2008] 4 SLR(R) 984 at [12] and [14]. The court is entitled to impose terms and conditions as appear reasonable or required by the ties of justice: _The “Duden”_ at [15]–[16]; _PT Budi Semestra Satria v Concordia Agritrading Pte Ltd_ [1998] SGHC 127 at [13]. 
+42     The discretion of the court to impose terms and conditions upon a stay in favour of arbitration is unfettered although it must be exercised judiciously: _The “Duden”_ <span class="citation">[2008] 4 SLR(R) 984</span> at [12] and [14]. The court is entitled to impose terms and conditions as appear reasonable or required by the ties of justice: _The “Duden”_ at [15]–[16]; _PT Budi Semestra Satria v Concordia Agritrading Pte Ltd_ <span class="citation">[1998] SGHC 127</span> at [13]. 
 
 43     As stated earlier (see [30] above), the plaintiff’s position was that it needed the answers to the interrogatories so that it could follow, trace and recover the Monies from the third parties to whom the Monies had been paid. The plaintiff submitted that it was necessary for D1 to answer the 
 

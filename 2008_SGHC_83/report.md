@@ -45,7 +45,7 @@ plaintiff’s loss was covered under the policy.
 
 7       The parties were at issue whether the construction of the cradle for the _Paesano_ came within the description of shiprepair. The plaintiff took the position that it did, but the defendant did not recognise that as shiprepair. 
 
-8       In a situation where there is no agreement that a loss is covered by a policy, the burden is on the insured to show that the loss is covered: see Poh Chu Chai’s _Principles of Insurance Law_ (LexisNexis, 6th Ed, 2005) p 665, _Regina Fur Co Ltd v Bossom_ [1958] 2 Lloyd’s Rep 425 (cited by Assoc Prof Poh at p 665 fn7), and _Maratz Ltd v New India Assurance Co Ltd_ [1998] 2 SLR 909 at [23]. 
+8       In a situation where there is no agreement that a loss is covered by a policy, the burden is on the insured to show that the loss is covered: see Poh Chu Chai’s _Principles of Insurance Law_ (LexisNexis, 6th Ed, 2005) p 665, _Regina Fur Co Ltd v Bossom_ [1958] 2 Lloyd’s Rep 425 (cited by Assoc Prof Poh at p 665 fn7), and _Maratz Ltd v New India Assurance Co Ltd_ <span class="citation">[1998] 2 SLR 909</span> at [23]. 
 
 9       Although the policy issued by the defendant was named a shiprepairers legal liability policy, there was no definition of ‘shiprepairer’, or ‘shiprepair’ in the policy. There appears to be no general understanding on the meanings of these terms in the insurance industry. 
 
@@ -177,7 +177,7 @@ not, it would not satisfy Lord Denning’s “all the material knowledge” requ
 
 His statement was endorsed by Bingham J in _Pioneer Concrete (UK) Ltd v National Employers Mutual General Insurance Association Ltd_ [1985] 1 Lloyd’s Rep 274 at 281, which was in turn approved by the Privy Council in _Motor and General Insurance Co Ltd v John Pavy_ [1994] 1 WLR 462 and the English Court of Appeal in _Pilkington United Kingdom Ltd v CGU Insurance plc_ [2005] 1 All ER (Comm) 
 
-283\. Our High Court has come to the same conclusion in _Stork Technology Services Asia Pte Ltd (formerly known as Eastburn Stork Pte Ltd) v First Capital Insurance Ltd_ [2006] 3 SLR 652. 
+283\. Our High Court has come to the same conclusion in _Stork Technology Services Asia Pte Ltd (formerly known as Eastburn Stork Pte Ltd) v First Capital Insurance Ltd_ <span class="citation">[2006] 3 SLR 652</span>. 
 
 37     In the circumstances, the plaintiff’s reliance on the notification given by the owners of the _Paesano_ runs into two difficulties: firstly, that the notification was not shown to have given the defendant all the material knowledge and secondly, that even if it did, it was not given by the plaintiff. The plaintiff had therefore failed to report the loss within the six-month period as required in the exclusion clause. 
 

@@ -64,9 +64,9 @@ the individuals who wished to continue promoting and selling insurance policies 
 
  make an order, upon such terms as the court thinks fit, staying the proceedings so far as the proceedings relate to that matter. 
 
-12     In _Tjong Very Sumito and others v Antig Investments Pte Ltd_ [2009] 4 SLR(R) 732, the Court of Appeal agreed, at [24], in the context of a different Act, _ie_ , s 6 of the International Arbitration Act (Cap 143A, 2002 Rev Ed) that if it was at least arguable that the matter in dispute is the subject of the arbitration agreement, then a stay of proceedings should be ordered. I was of the view that this approach likewise applied to s 6 AA. 
+12     In _Tjong Very Sumito and others v Antig Investments Pte Ltd_ <span class="citation">[2009] 4 SLR(R) 732</span>, the Court of Appeal agreed, at [24], in the context of a different Act, _ie_ , s 6 of the International Arbitration Act (Cap 143A, 2002 Rev Ed) that if it was at least arguable that the matter in dispute is the subject of the arbitration agreement, then a stay of proceedings should be ordered. I was of the view that this approach likewise applied to s 6 AA. 
 
-13     In _Silica Investors Limited v Tomolugen Holdings Limited and others_ [2014] SGHC 101, it was stated at [52] and [56] that: 
+13     In _Silica Investors Limited v Tomolugen Holdings Limited and others_ <span class="citation">[2014] SGHC 101</span>, it was stated at [52] and [56] that: 
 
  52 To determine if a matter falls within the scope of an arbitration clause, the Court must consider whether the factual allegations underlying the claim are within the scope of the arbitration clause, regardless of the legal label assigned to the claim ... 
 

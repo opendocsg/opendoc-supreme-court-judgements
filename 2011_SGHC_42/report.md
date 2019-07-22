@@ -244,7 +244,7 @@ the Trust Deed he had signed.
 
 58     In the circumstances, the express trust in favour of the Plaintiff and his son is null and void. 
 
-59     The Plaintiff’s attempt to claim the sale proceeds (of the McNair Road property) under a resulting trust, must also fail, see _Cheong Yoke Kuen and others v Cheong Kwok Kiong_ [1999] 1 SLR(R) 1126 (“ _Cheong_ ”) at [13] – [19]. As for his claim under a constructive trust, this is not a case of a constructive trust as explained in _Cheong_. 
+59     The Plaintiff’s attempt to claim the sale proceeds (of the McNair Road property) under a resulting trust, must also fail, see _Cheong Yoke Kuen and others v Cheong Kwok Kiong_ <span class="citation">[1999] 1 SLR(R) 1126</span> (“ _Cheong_ ”) at [13] – [19]. As for his claim under a constructive trust, this is not a case of a constructive trust as explained in _Cheong_. 
 
 60     In 2005, the HDA was amended to put the matter beyond doubt by the introduction of s 51(6) which states: 
 
@@ -257,7 +257,7 @@ Prior to the amendment, Mr Mah Bow Tan, the Minister for National Development sa
 
  [emphasis added] 
 
-61     I should mention that para 28 of the closing submission for the Plaintiff referred to a case ( _Ho Seek Yueng Novel v J & V Development Pte Ltd_ [2006] 2 SLR(R) 742) which was in respect of a loan. It appears that Mr Singh also lost his way somewhat or was acting in desperation. In the present action, the Plaintiff’s pleaded claim is not based on a loan. 
+61     I should mention that para 28 of the closing submission for the Plaintiff referred to a case ( _Ho Seek Yueng Novel v J & V Development Pte Ltd_ <span class="citation">[2006] 2 SLR(R) 742</span>) which was in respect of a loan. It appears that Mr Singh also lost his way somewhat or was acting in desperation. In the present action, the Plaintiff’s pleaded claim is not based on a loan. 
 
 **Conclusion** 
 

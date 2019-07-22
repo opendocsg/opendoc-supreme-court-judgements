@@ -61,12 +61,12 @@ _Civil Procedure_ – _Striking out_
 
 and may order the action to be stayed or dismissed or judgment to be entered accordingly, as the case may be. 
 
-8       As the court’s power to strike out an action is rather draconian, an action should not be too readily struck out. In _Gabriel Peter & Partners v Wee Chong Jin_ [1998] 1 SLR 374 (“ _Gabriel Peter_ ”), the Court of Appeal explained at [18] as follows: 
+8       As the court’s power to strike out an action is rather draconian, an action should not be too readily struck out. In _Gabriel Peter & Partners v Wee Chong Jin_ <span class="citation">[1998] 1 SLR 374</span> (“ _Gabriel Peter_ ”), the Court of Appeal explained at [18] as follows: 
 
 
  In general, it is only in plain and obvious cases that the power of striking out should be invoked. ... It should not be exercised by a minute and protracted examination of the documents and facts of the case in order to see if the plaintiff really has a cause of action. The practice of the courts has been that, where an application for striking out involves a lengthy and serious argument, the court should decline to proceed with the argument unless, not only does it have doubts as to the soundness of the pleading but, in addition, it is satisfied that striking out will obviate the necessity for a trial or reduce the burden of preparing for a trial. 
 
-9       In contrast, where a case is hopelessly doomed to fail, it should be struck out. In _Bandung Shipping Pte Ltd v Keppel TatLee Bank Ltd_ [2003] 1 SLR 295, Chao Hick Tin JA noted at [34] that to allow a claim that is hopeless to proceed further for trial would be to compel the defendants to expend time and money in defending a case which obviously had no merit whatsoever. 
+9       In contrast, where a case is hopelessly doomed to fail, it should be struck out. In _Bandung Shipping Pte Ltd v Keppel TatLee Bank Ltd_ <span class="citation">[2003] 1 SLR 295</span>, Chao Hick Tin JA noted at [34] that to allow a claim that is hopeless to proceed further for trial would be to compel the defendants to expend time and money in defending a case which obviously had no merit whatsoever. 
 
 10     In the present case, the company asserted that the respondents’ claims are doomed to fail because they are unfounded and baseless. The company contended that it is not responsible for the forging of the respondents’ signatures in the crew agreements and pointed out that it is illogical for the respondents to mount a claim for wages long after leaving its employment when they had not complained about the matter when they were its employees. 
 

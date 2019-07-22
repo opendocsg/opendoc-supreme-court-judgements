@@ -74,7 +74,7 @@ Muslim law, they had only one marriage relationship. That there is only one marr
 
  [I]t may appear rather irrational to read section 7 of the Women’s Charter to permit a decree of a foreign court to have effect but not one from a court of our own judicial system. From this view, it may be suggested that an order of the Syariah Court concerning a marriage solemnized under the Women’s Charter, after proper consultation, ought to have effect. A Syariah Court’s order should have the same effect as a foreign court’s. 
 
-11     I agree with Prof Leong. There is no reason why the Syariah Court, which was described by Judith Prakash J as a “court of competent jurisdiction” in _Salijah bte Ab Lateh v Mohd Irwan Abdullah_ [1996] 1 SLR 63 at 69, [18], should not be allowed to do what a competent foreign court may in relation to the dissolution of a marriage under the Women’s Charter. 
+11     I agree with Prof Leong. There is no reason why the Syariah Court, which was described by Judith Prakash J as a “court of competent jurisdiction” in _Salijah bte Ab Lateh v Mohd Irwan Abdullah_ <span class="citation">[1996] 1 SLR 63</span> at 69, [18], should not be allowed to do what a competent foreign court may in relation to the dissolution of a marriage under the Women’s Charter. 
 
 12     Admittedly, an argument against allowing the Syariah Court to dissolve a marriage under the Women’s Charter is that Muslim law and the Syariah Court should be kept separate from the civil courts. While much may be said in favour of this view, the position presently being discussed is different because s 7 of the Women’s Charter expressly provides that a marriage under its provisions may be dissolved by, _inter alia_ , an order of a court of competent jurisdiction. 
 

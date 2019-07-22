@@ -248,7 +248,7 @@ for the triplets. [note: 52]
 
 33     The court’s duty under s 112 of the Women’s Charter is to divide the parties’ matrimonial assets “in such proportion as the court thinks just and equitable”. 
 
-34     The Court of Appeal in _BCB v BCC_ [2013] 2 SLR 324 (“ _BCB_ ”) set out the following principles which I bear in mind: 
+34     The Court of Appeal in _BCB v BCC_ <span class="citation">[2013] 2 SLR 324</span> (“ _BCB_ ”) set out the following principles which I bear in mind: 
 
  (a) It is fundamental to the proper exercise of the power under s 112 of the Women’s Charter that the court use a broad-brush approach (at [7]). 
 
@@ -258,7 +258,7 @@ for the triplets. [note: 52]
 
  (d) The modern broad-brush approach ensures that the division arrived at by the court gives effect to the important principle that the court must take fully into account all indirect contributions of every type (at [11]) and made by each spouse (at [12] and [34]). 
 
-35     The Court of Appeal has more recently made more explicitly the break with the previous approach to the division of matrimonial assets. In its very recent decision in _ANJ v ANK_ [2015] SGCA 34 (“ _ANJ_ ”), the Court of Appeal cautioned – once again – against the approach of taking the parties’ direct contributions as the starting point and adding an uplift to account for their respective indirect contributions. Adopting that approach carries the risk both of undervaluing and of overvaluing nonfinancial contributions: _ANJ_ at [19] and [20]. Both outcomes are contrary to the duty under s 112 of the Women’s Charter to arrive at a just and equitable division of the matrimonial assets. 
+35     The Court of Appeal has more recently made more explicitly the break with the previous approach to the division of matrimonial assets. In its very recent decision in _ANJ v ANK_ <span class="citation">[2015] SGCA 34</span> (“ _ANJ_ ”), the Court of Appeal cautioned – once again – against the approach of taking the parties’ direct contributions as the starting point and adding an uplift to account for their respective indirect contributions. Adopting that approach carries the risk both of undervaluing and of overvaluing nonfinancial contributions: _ANJ_ at [19] and [20]. Both outcomes are contrary to the duty under s 112 of the Women’s Charter to arrive at a just and equitable division of the matrimonial assets. 
 
 36     The Court of Appeal suggested instead adopting the following structured four-step approach (at [22] to [29]): 
 
@@ -643,7 +643,7 @@ achievable rate of return in the current investment environment. That annual dis
 110    The statutory moratorium under s 76(1)( _c_ ) of the Bankruptcy Act is no obstacle to these divorce proceedings continuing against the husband or to my dividing the matrimonial assets under s 112 of the Women’s Charter. A wife pursuing divorce proceedings against a husband and seeking a 
 
 
-just and equitable division of the matrimonial assets under s 112 of the Women’s Charter is outside s 76(1)( _c_ ) of the Bankruptcy Act. She is not a creditor of the husband in any sense of the word and is not seeking to pursue any remedy, action or proceeding against the husband in respect of any debt provable in the husband’s bankruptcy. In _JA v JB_ [2005] SGDC 104 (“ _JA v JB_ ”), it was held that the court may hear and determine a wife's application to divide the parties' matrimonial assets under s 112 of the Women’s Charter and award maintenance for her and the children of the marriage notwithstanding the husband's bankruptcy because that application, not being in respect of a debt provable in bankruptcy, is outside the prohibition in s 76(1)( _c_ ) of the Bankruptcy Act. I accept that proposition as correct. 
+just and equitable division of the matrimonial assets under s 112 of the Women’s Charter is outside s 76(1)( _c_ ) of the Bankruptcy Act. She is not a creditor of the husband in any sense of the word and is not seeking to pursue any remedy, action or proceeding against the husband in respect of any debt provable in the husband’s bankruptcy. In _JA v JB_ <span class="citation">[2005] SGDC 104</span> (“ _JA v JB_ ”), it was held that the court may hear and determine a wife's application to divide the parties' matrimonial assets under s 112 of the Women’s Charter and award maintenance for her and the children of the marriage notwithstanding the husband's bankruptcy because that application, not being in respect of a debt provable in bankruptcy, is outside the prohibition in s 76(1)( _c_ ) of the Bankruptcy Act. I accept that proposition as correct. 
 
 1       1 1 _JA v JB_ does not, however, consider the interaction between the statutory vesting of the bankrupt’s property in the Official Assignee under s 76(1)( _a_ ) of the Bankruptcy Act, and the court’s power to divide matrimonial assets under s 112 of the Women’s Charter. This interaction is of some importance. A bankruptcy can be used tactically to obstruct or delay the court exercising its jurisdiction under s 112. Likewise, divorce proceedings can be brought collusively to put the assets of an insolvent or near insolvent spouse beyond the reach of his creditors through a transfer of property sought and made under s 112 of the Women’s Charter. 
 
@@ -712,7 +712,7 @@ between himself and the wife. [note: 108]
 
 **_Custody_** 
 
-130    As the Court of Appeal pointed out in _CX v CY_ (minor: custody and access) [2005] 3 SLR(R) 690 (“ _CX_ ”) at [31], the distinction between “custody” and “care and control” in the context of divorcing parents is that: 
+130    As the Court of Appeal pointed out in _CX v CY_ (minor: custody and access) <span class="citation">[2005] 3 SLR(R) 690</span> (“ _CX_ ”) at [31], the distinction between “custody” and “care and control” in the context of divorcing parents is that: 
 
  ... “care and control” concerns day-to-day decision-making, while residual “custody” concerns the long-term decision-making for the welfare of the child. 
 

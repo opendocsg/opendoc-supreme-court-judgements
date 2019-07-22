@@ -92,7 +92,7 @@ supplying ready-mixed concrete (“RMC”) for five projects (“the Projects”
 
 **Jurisdiction** 
 
-9       It is important to bear in mind that before s 34(1)( _c_ ) (or its predecessor) was enacted, it was clear that the court had jurisdiction to hear further arguments before its order or judgment was extracted, see _Re Harrison’s Share under a Settlement_ (1955) Ch 260 and _Thomson Plaza Pte Ltd v The Liquidators of Yaohan Department Store Pte Ltd_ [2001] 3 SLR 248. 
+9       It is important to bear in mind that before s 34(1)( _c_ ) (or its predecessor) was enacted, it was clear that the court had jurisdiction to hear further arguments before its order or judgment was extracted, see _Re Harrison’s Share under a Settlement_ (1955) Ch 260 and _Thomson Plaza Pte Ltd v The Liquidators of Yaohan Department Store Pte Ltd_ <span class="citation">[2001] 3 SLR 248</span>. 
 
 10     The predecessor of s 34(1)( _c_ ) was first enacted in 1993 as s 34(2) of the 1970 Revised Edition. S 34(1)( _c_ ) states: 
 
@@ -112,7 +112,7 @@ supplying ready-mixed concrete (“RMC”) for five projects (“the Projects”
 
  (b) how the seven day period was to be calculated. 
 
-14     In _Lim Chi Szu Margaret v Risis Pte Ltd_ [2005] SGHC 206, Andrew Phang JC appeared to prefer the view that an interlocutory judgment is final in nature as it finally disposes of the substantive rights of the parties insofar as liability is concerned. I found such a view persuasive but in _Wellmix Organics (International) Pte Ltd v Lau Yu Man_ [2006] 2 SLR 525, the Court of Appeal decided that an interlocutory judgment is indeed interlocutory in nature. That decision was binding on me. I should also mention that the earlier decision of the Court of Appeal in _Ling Kee Ling and anor v Leow Leng Siong and others_ [1996] 2 SLR 438 appeared to favour the view that such a judgment is interlocutory in nature (see [13] and [14] of that judgment). 
+14     In _Lim Chi Szu Margaret v Risis Pte Ltd_ <span class="citation">[2005] SGHC 206</span>, Andrew Phang JC appeared to prefer the view that an interlocutory judgment is final in nature as it finally disposes of the substantive rights of the parties insofar as liability is concerned. I found such a view persuasive but in _Wellmix Organics (International) Pte Ltd v Lau Yu Man_ <span class="citation">[2006] 2 SLR 525</span>, the Court of Appeal decided that an interlocutory judgment is indeed interlocutory in nature. That decision was binding on me. I should also mention that the earlier decision of the Court of Appeal in _Ling Kee Ling and anor v Leow Leng Siong and others_ <span class="citation">[1996] 2 SLR 438</span> appeared to favour the view that such a judgment is interlocutory in nature (see [13] and [14] of that judgment). 
 
 15     As for the calculation of the seven day period, Order 3 rule 2(5) of the Rules of Court (Cap 322, 2006 Rev Ed) provides that: 
 
@@ -137,13 +137,13 @@ supplying ready-mixed concrete (“RMC”) for five projects (“the Projects”
 
 18     So, under s 50, Saturdays and Sundays are included in the calculation of the seven day period stipulated in s 34(1)( _c_ ). Therefore, under s 50, Holcim had to apply for further arguments by 29 May 2008 but it did not do so until 30 May 2008, after 5pm. 
 
-19     In _Thomas & Betts (SE Asia) Pte Ltd v Ou Tin Joon & anor_ [1998] 1 SLR 913, the Court of Appeal decided that s 50 applies to s 34(1)( _c_ ) and not O 3 r 2. With respect, I agreed since the stipulation of the seven day period in question is found in s 34(1)( _c_ ) and not in the current Rules of Court. Previously, O 56 r 2 provided that “[a] party dissatisfied with an interlocutory order made by a Judge in Chambers may within seven days of the making of such order, apply to the Judge for further arguments in Court in accordance with practice directions for the time being issued by the Registrar”. The first part of that provision is no longer applicable under the current O 56 r 2. For completeness, I mention that while the current O 56 r 2 of the Rules of Court refers to practice directions being made in respect of s 34(1)( _c_ ), it is stated expressly to be subject to s 34(1)( _c_ ). 
+19     In _Thomas & Betts (SE Asia) Pte Ltd v Ou Tin Joon & anor_ <span class="citation">[1998] 1 SLR 913</span>, the Court of Appeal decided that s 50 applies to s 34(1)( _c_ ) and not O 3 r 2. With respect, I agreed since the stipulation of the seven day period in question is found in s 34(1)( _c_ ) and not in the current Rules of Court. Previously, O 56 r 2 provided that “[a] party dissatisfied with an interlocutory order made by a Judge in Chambers may within seven days of the making of such order, apply to the Judge for further arguments in Court in accordance with practice directions for the time being issued by the Registrar”. The first part of that provision is no longer applicable under the current O 56 r 2. For completeness, I mention that while the current O 56 r 2 of the Rules of Court refers to practice directions being made in respect of s 34(1)( _c_ ), it is stated expressly to be subject to s 34(1)( _c_ ). 
 
 20     Therefore, if Holcim was pursuing an appeal to the Court of Appeal, it had failed to comply with s 34(1)( _c_ ). 
 
 21     However, in my view, that did not necessarily mean that I had no jurisdiction to hear further arguments. Mr Marican had assumed that since Holcim had not complied with s 34(1)( _c_ ), it must necessarily follow that I had no such jurisdiction. He cited a number of cases to me but those were cases involving an appeal to the Court of Appeal. 
 
-22     Mr Marican also stressed the rationale for s 34(1)( _c_ ) as was espoused in _Singapore Press Holdings Ltd v Brown Noel Trading Pte Ltd & Ors_ [1994] 3 SLR 151 (“ _SPH v Brown Noel_ ”) in p 166: 
+22     Mr Marican also stressed the rationale for s 34(1)( _c_ ) as was espoused in _Singapore Press Holdings Ltd v Brown Noel Trading Pte Ltd & Ors_ <span class="citation">[1994] 3 SLR 151</span> (“ _SPH v Brown Noel_ ”) in p 166: 
 
  The intent and purpose of s 34(1)(c) of the re-enacted Supreme Court of Judicature Act and O 56 r 2 of the Rules of the Supreme Court is to us abundantly clear and free from doubt. It is to 
 
@@ -160,7 +160,7 @@ supplying ready-mixed concrete (“RMC”) for five projects (“the Projects”
 
 26     I was of the view that s 34(1)( _c_ ) only precluded Holcim from proceeding with an appeal to the Court of Appeal, unless Holcim obtained an extension of time to comply with that provision. However, as far as the High Court’s common-law jurisdiction to hear further arguments was concerned, this was still unaffected by s 34(1)( _c_ ). So long as the IJ was not extracted, I had jurisdiction to hear further arguments. 
 
-27     I should also address the case of _Kunal Gobind Lalchandani & anor v Konduri Prakash Murthy_ [2005] SGHC 94. In that case, the High Court rejected a request for further arguments in respect of an interlocutory order as the request was made outside of the seven day period stipulated in s 34(1) ( _c_ ). However, with respect, the High Court in that case appears to have assumed that there was no jurisdiction to hear further arguments just because the request was made outside of the seven days. That decision was not binding on me and, for the reasons I have given, I declined to follow it. 
+27     I should also address the case of _Kunal Gobind Lalchandani & anor v Konduri Prakash Murthy_ <span class="citation">[2005] SGHC 94</span>. In that case, the High Court rejected a request for further arguments in respect of an interlocutory order as the request was made outside of the seven day period stipulated in s 34(1) ( _c_ ). However, with respect, the High Court in that case appears to have assumed that there was no jurisdiction to hear further arguments just because the request was made outside of the seven days. That decision was not binding on me and, for the reasons I have given, I declined to follow it. 
 
 28     There was one more argument I should mention. Mr Marican submitted that by my agreeing to hear further arguments, I had effectively extended the time for Holcim to comply with s 34(1)( _c_ ) 
 

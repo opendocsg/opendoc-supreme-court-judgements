@@ -307,7 +307,7 @@ account received all fees paid to him in respect of his directorships whether lo
 
 income is taken into consideration. As stated earlier, I consider that the husband has not been completely full and frank in his disclosure. If that is indeed so, he would have more resources to fund the lump sum maintenance. 
 
-73     To obtain the multiplier for the lump sum maintenance, the wife relied on the recent decision of _Wan Lai Cheng v Quek Seow Kee and another appeal and another matter_ [2012] SGCA 40 (“ _Wan Lai Cheng_ ”), where the Court of Appeal in dealing with this issue accepted the method of calculating the multiplier set out in _Ong Chen Leng v Tan Sau Poo_ [1993] 2 SLR(R) 545 which as set out at [35] thereof was: 
+73     To obtain the multiplier for the lump sum maintenance, the wife relied on the recent decision of _Wan Lai Cheng v Quek Seow Kee and another appeal and another matter_ <span class="citation">[2012] SGCA 40</span> (“ _Wan Lai Cheng_ ”), where the Court of Appeal in dealing with this issue accepted the method of calculating the multiplier set out in _Ong Chen Leng v Tan Sau Poo_ <span class="citation">[1993] 2 SLR(R) 545</span> which as set out at [35] thereof was: 
 
  ... a period of 17 years as a compromise between the average life expectancy of a woman ( years) and the usual retirement age (65) of a Singapore male worker less the wife’s present age which was 50. 
 

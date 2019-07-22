@@ -41,7 +41,7 @@ _Civil Procedure_
 
  Where an action, a cause or a matter has been discontinued under paragraph (5) or (6), the Court may, on application reinstate the action, cause or matter, and allow it to proceed on such terms as it thinks just. 
 
-10     Judith Prakash J in _Moguntia-Est Epices SA v Sea-Hawk Freight Pte Ltd_ [2004] 4 SLR 429 (“ _Moguntia_ ”) at [21] provided general guidance on the manner in which the court is to exercise its discretion under this rule. Ms Mavis Chionh for the Attorney General recited the guidelines in _Moguntia_ submitting, at the same time, that a plaintiff who seeks reinstatement must discharge the burden of satisfying the court on all three limbs of the applicable test, namely: 
+10     Judith Prakash J in _Moguntia-Est Epices SA v Sea-Hawk Freight Pte Ltd_ <span class="citation">[2004] 4 SLR 429</span> (“ _Moguntia_ ”) at [21] provided general guidance on the manner in which the court is to exercise its discretion under this rule. Ms Mavis Chionh for the Attorney General recited the guidelines in _Moguntia_ submitting, at the same time, that a plaintiff who seeks reinstatement must discharge the burden of satisfying the court on all three limbs of the applicable test, namely: 
 
  (a) Was the plaintiff innocent of any significant failure to conduct the case with expedition prior to the “trigger date”, that is, the date of the last step in the action; 
 

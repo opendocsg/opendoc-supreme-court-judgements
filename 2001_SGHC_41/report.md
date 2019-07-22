@@ -45,7 +45,7 @@
 ## futility". 
 
 
-The appeal against that decision was dismissed. See _[1992] 2 SLR 296_. 
+The appeal against that decision was dismissed. See _<span class="citation">[1992] 2 SLR 296</span>_. 
 
 6\. Mr. Ng submitted that if the matters alleged by Teoh in his originating summons are investigated, and for which he asked for time to do so, it will be seen that Tan came to court with soiled hands and that, Mr. Ng argued, disentitles him to the equitable relief of winding up on a just and equitable ground. In my view, the allegations of misconduct or unjust enrichment by Tan, even if proved, do not detract from the question whether this company ought to remain in existence. Indeed, Teohs own purpose in taking out the originating summons was to wind up the company under s 216 of the Companies Act. Unfortunately, he did not have sufficient proof to proceed and needed time. In these circumstances, I see no reason why the company should be kept on life-support by the court so that Teoh can revert weeks or months later just to terminate it on his terms. I, therefore, ordered the company to be wound up under s 254 of the Companies Act. 
 

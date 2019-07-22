@@ -618,7 +618,7 @@ Of course, Dr Kong had no personal knowledge as to what Mdm Pang’s actions pri
 
 **_THE LAW_** 
 
-162\. In _R Mahendran & Anor v R Arumuganathan_ [1999] 2 SLR 579, Karthigesu JA said: 
+162\. In _R Mahendran & Anor v R Arumuganathan_ <span class="citation">[1999] 2 SLR 579</span>, Karthigesu JA said: 
 
  ‘15. It is a well settled principle of law stated as far back as 1838 by Baron Parke in Barry v Butlin [1838] 2 Moo 480 at 482 and 484; 12 ER 1089 that the legal burden of propounding a will, the onus probandi lies in every case upon the party propounding the will, and he must satisfy the conscience of the court that the instrument so propounded is the last will of a free and capable Testator. ... it is in general discharged by proof of capacity, and the fact of execution, from which the knowledge of and assent to the contents of the instrument are assumed. The proposition is framed by Theobald on Wills (15th Ed) at pp 35 to 38 in these terms: 
 
@@ -672,15 +672,15 @@ _(b) ..._
 
  One form of affirmative proof is to establish that the will was read over by, or to, the testator when he executed it. ... Another form of affirmative proof is to establish that the testator gave instructions for his will and that the will was drafted in accordance with those instructions.’ 
 
-163\. As for undue influence, I refer to the judgment of Justice Goh Joon Seng in _Pelican Engineering Pte Ltd v Lim Wee Chuan_ [2001] 1 SLR 105 where he said: 
+163\. As for undue influence, I refer to the judgment of Justice Goh Joon Seng in _Pelican Engineering Pte Ltd v Lim Wee Chuan_ <span class="citation">[2001] 1 SLR 105</span> where he said: 
 
  ‘My decision 
 
- 32 On what is ‘undue influence’, LP Thean JA in Lim Geok Hian v Lim Guan Chin [1994] 1 SLR 203 at 216 stated: 
+ 32 On what is ‘undue influence’, LP Thean JA in Lim Geok Hian v Lim Guan Chin <span class="citation">[1994] 1 SLR 203</span> at 216 stated: 
 
  Undue influence is the unconscientious use of one’s power or authority over another to acquire a benefit or to achieve a purpose. Allcard v Skinner (1887) 36 Ch D 145 established that cases of undue influence fall into two categories: first, cases where actual influence has been proved to have been exercised, and second, cases where, by virtue of a particular relationship between the parties, t h e court presumes that undue influence has been exercised unless the contrary is proved. 
 
- 33 Judith Prakash J in Rajabali Jumabhoy v Ameerali R Jumabhoy [1997] 3 SLR 802 at 855 stated: 
+ 33 Judith Prakash J in Rajabali Jumabhoy v Ameerali R Jumabhoy <span class="citation">[1997] 3 SLR 802</span> at 855 stated: 
 
  It is not enough to set aside a contract that one party tried to influence the other to enter it. There must be something wrong in the way that the influence was exercised, ie some unfair or improper conduct, some coercion or some form of misleading. 
 

@@ -45,7 +45,7 @@ resident in Australia for tax purposes at the time the Agreement was entered int
 
 7\. Under section 3 of the RECJA, an application may be made and the High Court may, if it is just and convenient for the judgment to be enforced in Singapore, order the judgment to be registered accordingly. There are, however, some restrictions to registration under sub-section (2). 
 
-8\. For a judgment to be registrable under the RECJA, it has to be for a sum of money that is payable. Drawing an analogy from cases where a foreign judgment is enforced locally under common law, the foreign judgment sought to be registered has to be final and conclusive: _Hong Pian Tee v Les Placements Germain Gauthier Inc_ [2001] 3 SLR 418; [2002] SGCA 18. The requirement for final and conclusiveness is also a prerequisite for registration under the RECJA: section 3(2)(e)— 
+8\. For a judgment to be registrable under the RECJA, it has to be for a sum of money that is payable. Drawing an analogy from cases where a foreign judgment is enforced locally under common law, the foreign judgment sought to be registered has to be final and conclusive: _Hong Pian Tee v Les Placements Germain Gauthier Inc_ <span class="citation">[2001] 3 SLR 418</span>; <span class="citation">[2002] SGCA 18</span>. The requirement for final and conclusiveness is also a prerequisite for registration under the RECJA: section 3(2)(e)— 
 
  Restrictions on registration. 
 

@@ -53,7 +53,7 @@ she suffered from an acute attack of asthma, the Commander of Traffic Police dec
 
 **Test for determining whether or not leave should be granted** 
 
-6\. The test for determining whether or not leave should be granted to a person to apply for an order of certiorari was considered by the Court of Appeal in _Public Service Commission v Lai Swee Lin Linda_ [2001] 1 SLR 644, 653. In that case, LP Thean JA, who adopted Lord Diplock’s threshold test in _National Federation of Self Employed and Small Businesses Ltd_ [1982] AC 617, said at p 653: 
+6\. The test for determining whether or not leave should be granted to a person to apply for an order of certiorari was considered by the Court of Appeal in _Public Service Commission v Lai Swee Lin Linda_ <span class="citation">[2001] 1 SLR 644</span>, 653. In that case, LP Thean JA, who adopted Lord Diplock’s threshold test in _National Federation of Self Employed and Small Businesses Ltd_ [1982] AC 617, said at p 653: 
 
  Leave would be granted, if there appears to be a point which might, on further consideration, turn out to be an arguable case in favour of granting to the applicant the relief claimed. 
 
@@ -131,7 +131,7 @@ that his decision to revoke her licence is wrong and pay the costs of these proc
 
 **Conclusion** 
 
-22\. Admittedly, the test for granting leave to an applicant to apply for an order of certiorari involves a very low threshold. All the same, it is pertinent to note that in _Public Service Commission v Lai Swee Lin, Linda_ [2001] 1 SLR 644, 653, LP Thean JA reiterated that the requirement of leave to apply for such an order is intended to be a means of filtering out groundless or hopeless cases at an early stage, and its aim is to prevent a wasteful use of judicial time and to protect public bodies from harassment, whether intentional or otherwise. The present application is clearly one where the granting of leave will waste judicial time and unnecessarily harass the traffic police. As has been mentioned, Ms Kang has the opportunity to present further medical evidence to the traffic police and to take a prescribed medical test to show that she is fit to drive a motor vehicle. Taking all circumstances into account, her application for leave to apply for an order of certiorari is dismissed with costs. 
+22\. Admittedly, the test for granting leave to an applicant to apply for an order of certiorari involves a very low threshold. All the same, it is pertinent to note that in _Public Service Commission v Lai Swee Lin, Linda_ <span class="citation">[2001] 1 SLR 644</span>, 653, LP Thean JA reiterated that the requirement of leave to apply for such an order is intended to be a means of filtering out groundless or hopeless cases at an early stage, and its aim is to prevent a wasteful use of judicial time and to protect public bodies from harassment, whether intentional or otherwise. The present application is clearly one where the granting of leave will waste judicial time and unnecessarily harass the traffic police. As has been mentioned, Ms Kang has the opportunity to present further medical evidence to the traffic police and to take a prescribed medical test to show that she is fit to drive a motor vehicle. Taking all circumstances into account, her application for leave to apply for an order of certiorari is dismissed with costs. 
 
 Sgd: 
 

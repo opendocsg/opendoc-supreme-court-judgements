@@ -34,7 +34,7 @@ _Words and Phrases_ – _'Within the scope of his employment'_ – _art 25 Warsa
 
 **Case(s) referred to** 
 
-Caswell v Powell Duffryn Associated Collieries Ltd [1940] AC 152 Goldman v Thai Airways International Ltd [1983] 3 All ER 693 Horabin v British Overseas Airways Corporation [1952] 2 QBD 1016 Johnson v American Airlines 20 Avi 18, Lloyde v West Midlands Gas Board [1971] 2 All ER 1240 Muhammad Jeffry v PP [1997] 1 SLR 197 Nugent and Killick v Michael Goss Aviation Ltd & Ors [2000] 2 Lloyds’ Rep 222 Singapore Airlines Ltd & Anor v Fujitsu Microelectronics (Malaysia) Sdn Bhd & Ors [2001] 1 SLR 241 Singapore Finance Ltd v Kim Kah Ngam (Spore) Pte Ltd [1984-1985] SLR 381 SS Pharmaceutical Co Ltd & Anor v Qantas Airways Ltd [1991] 1 Lloyds Rep 288 The Popi M [1985] 2 All ER 712 Thomas Cook Group Ltd & Ors v Air Malta Co Ltd [1997] 2 Lloyds Rep 399 
+Caswell v Powell Duffryn Associated Collieries Ltd [1940] AC 152 Goldman v Thai Airways International Ltd [1983] 3 All ER 693 Horabin v British Overseas Airways Corporation [1952] 2 QBD 1016 Johnson v American Airlines 20 Avi 18, Lloyde v West Midlands Gas Board [1971] 2 All ER 1240 Muhammad Jeffry v PP <span class="citation">[1997] 1 SLR 197</span> Nugent and Killick v Michael Goss Aviation Ltd & Ors [2000] 2 Lloyds’ Rep 222 Singapore Airlines Ltd & Anor v Fujitsu Microelectronics (Malaysia) Sdn Bhd & Ors <span class="citation">[2001] 1 SLR 241</span> Singapore Finance Ltd v Kim Kah Ngam (Spore) Pte Ltd [1984-1985] SLR 381 SS Pharmaceutical Co Ltd & Anor v Qantas Airways Ltd [1991] 1 Lloyds Rep 288 The Popi M [1985] 2 All ER 712 Thomas Cook Group Ltd & Ors v Air Malta Co Ltd [1997] 2 Lloyds Rep 399 
 
 **Legislation referred to** 
 
@@ -127,7 +127,7 @@ This is an appeal from the decision of the learned Justice Tan Lee Meng ("the ju
 
 _(1)(a) The experts’ opinions and other inferences_ 
 
-9       The opinions of experts are relevant under s 47 of the Evidence Act (Cap 97). An opinion will, however, only be accepted if it fulfils the criteria enunciated in _Muhammad Jeffry v Public Prosecutor_ [1997] 1 SLR 197: 
+9       The opinions of experts are relevant under s 47 of the Evidence Act (Cap 97). An opinion will, however, only be accepted if it fulfils the criteria enunciated in _Muhammad Jeffry v Public Prosecutor_ <span class="citation">[1997] 1 SLR 197</span>: 
 
  ... the three criteria for the acceptance of expert opinion evidence, i.e. value, impressiveness and reliability. 
 
@@ -363,7 +363,7 @@ Article 25 provides:
 
  ... art. 25 ... suggests a rigorous standard in order to qualify for full recovery from the air carrier. One of two criteria established is intentional damage. That will be rare indeed, particularly in flight, where the lives of many crew and passengers are inevitably at stake. That extreme exception gives a clue, without more, to the high stringency involved also in the alternative ground of exception... So too does the context. For this is an exception from a compensation regime which is obviously meant to be one of general application ... a study of the minutes of the Working Group which developed that [Hague] Protocol shows conclusively that its purpose was to limit even more rigorously the circumstances of escape from the general regime of limited entitlement, when compared to the already strict regime which had obtained under the Warsaw Convention itself. ( emphasis added ) 
 
-The point that the compensation regime provided for in a 22 was meant to be the rule rather than the exception was reinforced by the UK delegation to the Hague conference (quoted in _Singapore Airlines Ltd & Anor v Fujitsu Microelectronics (Malaysia) Sdn Bhd & Ors_ [2001] 1 SLR 241): 
+The point that the compensation regime provided for in a 22 was meant to be the rule rather than the exception was reinforced by the UK delegation to the Hague conference (quoted in _Singapore Airlines Ltd & Anor v Fujitsu Microelectronics (Malaysia) Sdn Bhd & Ors_ <span class="citation">[2001] 1 SLR 241</span>): 
 
  The UK agrees with the view that, as a reasonable limit is set to the operator’s liability in return for giving the claimant a right to secure compensation without the burden of proof of negligence , the Convention should limit very narrowly indeed, that is to those where there is an element of criminal intent, the cases where liability is unlimited. ( emphasis added ) 
 

@@ -20,7 +20,7 @@
 
 _Criminal Law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 25 of 2010 was allowed by the Court of Appeal on 18 April 2012. See [2012] SGCA 26.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 25 of 2010 was allowed by the Court of Appeal on 18 April 2012. See <span class="citation">[2012] SGCA 26</span>.] 
 
 21 December 2010 
 
@@ -203,7 +203,7 @@ was on a personal basis and had nothing to do with the investigations in this ca
 
 **The decision of the court** 
 
-60     As is common in allegations of this nature, the crucial evidence often comes from the alleged victim only and the court must be aware of the dangers of convicting solely on that testimony, bearing in mind the ease with which allegations of sexual assault may be fabricated and the concomitant difficulty of rebutting such allegations (see the Court of Appeal’s decision in _PP v Mohammed Liton Mohammed Syeed Mallik_ [2008] 1 SLR 601). The Court of Appeal in that case (at [39]) also emphasized that the quality of the testimony must be consistent with the high standard of proof beyond a reasonable doubt. Where a reasonable doubt arises in the testimony, it is axiomatic that the accused should be given the benefit of that doubt. 
+60     As is common in allegations of this nature, the crucial evidence often comes from the alleged victim only and the court must be aware of the dangers of convicting solely on that testimony, bearing in mind the ease with which allegations of sexual assault may be fabricated and the concomitant difficulty of rebutting such allegations (see the Court of Appeal’s decision in _PP v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">[2008] 1 SLR 601</span>). The Court of Appeal in that case (at [39]) also emphasized that the quality of the testimony must be consistent with the high standard of proof beyond a reasonable doubt. Where a reasonable doubt arises in the testimony, it is axiomatic that the accused should be given the benefit of that doubt. 
 
 61     Here, C1 was 17 years old at the time of the trial. Although an application was made by the prosecution at the commencement of the trial for her to testify _in camera_ , I decided against it as I was of the view it would be better to hear and observe C1 in open court in the presence of the accused and his family members. I agreed to revisit the application should circumstances warrant it. When the same application was made at C1’s recall for cross-examination during the resumed hearing, I remained of the same view. I had also not noticed anything during the first hearing that would call for a change of position. 
 
@@ -274,7 +274,7 @@ prosecution submitted that the charge under section 377 should carry an imprison
 
 77     In mitigation, defence counsel submitted that the accused was a simple-minded person earning a meagre income and contributing to the family in his own small way. He was said not to be incorrigible. There was no evidence of further drug abuse after 1995. It was also pointed out that there was no evidence of loss of virginity. On this last point, the prosecution countered that C1 had testified that she had never penetrated herself nor allowed anyone else to do so. I accepted that the only one she had sex with during the material time was the accused. 
 
-78     Guided by the pronouncements in _PP v NF_ [2006] 4 SLR 849 and _PP v UI_ [2008] 4 SLR 500, I sentenced the accused as follows: 
+78     Guided by the pronouncements in _PP v NF_ <span class="citation">[2006] 4 SLR 849</span> and _PP v UI_ <span class="citation">[2008] 4 SLR 500</span>, I sentenced the accused as follows: 
 
 I ordered the imprisonment terms for the section 377 charge and two of the section 376(2) charges to run consecutively with effect from 30 April 2009 (date of arrest) with the other two imprisonment terms to run concurrently with them. The total imprisonment term was therefore 29 years with effect from 30 April 2009. The accused is to be subject to a maximum of 24 strokes of the cane. As stated at [3] above, he was granted a discharge amounting to an acquittal on the remaining four charges pursuant to section 177 of the CPC (Cap 68). 
 

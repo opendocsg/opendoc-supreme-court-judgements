@@ -16,7 +16,7 @@
 
 _Civil Procedure_ – _Interim orders_ – _Security for costs_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2011] 2 SLR 360.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2011] 2 SLR 360</span>.] 
 
 15 August 2011 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Civil Procedure_ – _Interim orders_ – _Security for costs_
 
 **Introduction** 
 
-1       This is an appeal against the decision of the High Court judge (“the Judge”) made in _Tjong Very Sumito and others v Chan Sing En and others_ [2011] 2 SLR 360 (“the Judgment”), where the Judge ordered that the appellants (the plaintiffs in Suit No 89 of 2010 (“the main action”)) be required to furnish security for costs in the sum of $35,000 in favour of the first respondent (the first defendant in the main action) and $40,000 in favour of the second and third respondents (the fifth and sixth defendants in the main action respectively). 
+1       This is an appeal against the decision of the High Court judge (“the Judge”) made in _Tjong Very Sumito and others v Chan Sing En and others_ <span class="citation">[2011] 2 SLR 360</span> (“the Judgment”), where the Judge ordered that the appellants (the plaintiffs in Suit No 89 of 2010 (“the main action”)) be required to furnish security for costs in the sum of $35,000 in favour of the first respondent (the first defendant in the main action) and $40,000 in favour of the second and third respondents (the fifth and sixth defendants in the main action respectively). 
 
 **Procedural background** 
 
@@ -168,14 +168,14 @@ It would be seen that this rule creates a two-stage test, consisting of the “j
 
 **_The standard of review_** 
 
-21     On an appeal to the Court of Appeal, if it is shown that the court below had correctly decided the question of whether it had jurisdiction to order security for costs, the only remaining question would then relate to the exercise of the court’s discretion in making the order. In such a situation the appellate court’s review function is limited. This was enunciated by this court in _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ [1999] 1 SLR(R) 1053 at [34] in these terms: 
+21     On an appeal to the Court of Appeal, if it is shown that the court below had correctly decided the question of whether it had jurisdiction to order security for costs, the only remaining question would then relate to the exercise of the court’s discretion in making the order. In such a situation the appellate court’s review function is limited. This was enunciated by this court in _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ <span class="citation">[1999] 1 SLR(R) 1053</span> at [34] in these terms: 
 
  It is trite law that an appeal against the exercise of a judge’s discretion will not be entertained unless it be shown that he exercised his discretion under a mistake of law, in disregard of principle, under a misapprehension as to the facts, or that he took account of irrelevant matters, 
 
 
  or the decision reached was “outside the generous ambit within which a reasonable disagreement is possible”. ... 
 
-This passage was quoted in _Westacre Investments Inc v The State-Owned Company Yugoimport SDPR (also known as Jugoimport-SDPR)_ [2009] 2 SLR(R) 166 at [17], where this court also stated (at [18]) that “the starting presumption would be that the Judge had rightly exercised his discretion.” 
+This passage was quoted in _Westacre Investments Inc v The State-Owned Company Yugoimport SDPR (also known as Jugoimport-SDPR)_ <span class="citation">[2009] 2 SLR(R) 166</span> at [17], where this court also stated (at [18]) that “the starting presumption would be that the Judge had rightly exercised his discretion.” 
 
 **_Multiple ordinary residences_** 
 
@@ -193,7 +193,7 @@ All parties do not dispute the correctness of this basic definition of the term 
 
 23     The position taken by the appellants at this appeal is that a person can only be ordinarily resident in one place at any one time, although he can change his ordinary residence from time to time. We observe that this sits rather curiously with an affidavit deposed by Sumito on 18 August 2010 for the hearing below in which he states, “... I am advised and verily believe that a person can 
 
-be ordinarily resident in more than one country.” [note: 29] With regard to their present position, the appellants relied very much on the case of _Wishing Star Ltd v Jurong Town Corp_ [2004] 1 SLR(R) 1 (“ _Wishing Star_ ”), which also concerned security for costs. There the High Court stated the following (at [3]–[4]): 
+be ordinarily resident in more than one country.” [note: 29] With regard to their present position, the appellants relied very much on the case of _Wishing Star Ltd v Jurong Town Corp_ <span class="citation">[2004] 1 SLR(R) 1</span> (“ _Wishing Star_ ”), which also concerned security for costs. There the High Court stated the following (at [3]–[4]): 
 
 
  3 A branch is but a part of the company. When reference is made to the term “ordinarily resident”, it applies to the company and not to its branches. The question arises as to whether a company can be ordinarily resident in a jurisdiction where its branches are located. Generally speaking, it would do violence to the language to hold that anyone, whether a corporate body or an individual person, may be said to be ordinarily resident in more than one place at a time. A person or a company may always set up more than one residence in as many jurisdictions as they can afford – but a house is not a home. Support for this view can be gleaned from the judgment of the court in Jones v Scottish Accident Co (1886) 17 QBD 421 at 423: 
@@ -273,13 +273,13 @@ _The respondents’ argument: ensuring availability of a fund to facilitate paym
 
 39     To turn to the respondents’ proposed rationale, they argued that the foundation of jurisdiction under O 23 r 1(1)( _a_ ) of the ROC is the need to ensure that a fund exists within the jurisdiction to 
 
-facilitate payment of costs without the risks, expenses and delay of foreign enforcement. [note: 34] In support of this proposition they cited the decision of this court in _Ooi Ching Ling Shirley v Just Gems Inc_ [2002] 2 SLR(R) 738 (“ _Shirley Ooi_ ”) at [27] as follows: 
+facilitate payment of costs without the risks, expenses and delay of foreign enforcement. [note: 34] In support of this proposition they cited the decision of this court in _Ooi Ching Ling Shirley v Just Gems Inc_ <span class="citation">[2002] 2 SLR(R) 738</span> (“ _Shirley Ooi_ ”) at [27] as follows: 
 
  ... The whole point of ordering a foreign plaintiff or appellant to furnish security is to ensure that a fund would be available within the jurisdiction of this court against which the successful defendant or respondent could enforce the judgment for costs: see Porzelack KG v Porzelack (UK) Ltd [1987] 1 WLR 420 at 422. Without such further security there is a real risk that JGI could be left with a costs order which would be unenforceable or only enforceable with great difficulty and expense, plus delay. 
 
-The respondents also relied on a case following _Shirley Ooi_ , namely the High Court decision in _Pacific Integrated Logistics Pte Ltd v Gorman Vernel International Freight Ltd_ [2007] 1 SLR(R) 1017 (“ _Pacific Integrated Logistics_ ”) at [7], where it was stated: 
+The respondents also relied on a case following _Shirley Ooi_ , namely the High Court decision in _Pacific Integrated Logistics Pte Ltd v Gorman Vernel International Freight Ltd_ <span class="citation">[2007] 1 SLR(R) 1017</span> (“ _Pacific Integrated Logistics_ ”) at [7], where it was stated: 
 
- ... The purpose behind O 23 r 1(1)( a ) is not limited to protecting a defendant in the extreme situation where an order of costs would otherwise be a “paper judgment”. On a more nuanced level, it is also aimed at reducing the time and expense involved in enforcing such orders. As stated by our Court of Appeal in Ooi Ching Ling Shirley v Just Gems Inc [2002] 2 SLR(R) 738 at [19], one of the rationales for granting security against a foreign plaintiff is “ the delay or expense that will arise in enforcing the costs order abroad”. [emphasis in original] 
+ ... The purpose behind O 23 r 1(1)( a ) is not limited to protecting a defendant in the extreme situation where an order of costs would otherwise be a “paper judgment”. On a more nuanced level, it is also aimed at reducing the time and expense involved in enforcing such orders. As stated by our Court of Appeal in Ooi Ching Ling Shirley v Just Gems Inc <span class="citation">[2002] 2 SLR(R) 738</span> at [19], one of the rationales for granting security against a foreign plaintiff is “ the delay or expense that will arise in enforcing the costs order abroad”. [emphasis in original] 
 
 To these quotations we would add the following statement of the Federal Court of Australia in _Logue_ at [18]: 
 
@@ -287,7 +287,7 @@ To these quotations we would add the following statement of the Federal Court of
 
 40     We would again caution, as we did above (at [37]), that care should be taken to differentiate between factors relevant to jurisdiction and those relevant to the exercise of discretion. The passages cited from _Shirley Ooi_ (at [27]) and _Pacific Integrated Logistics_ (at [7]) were written in the context of the exercise of the discretion against a foreign plaintiff _after_ jurisdiction had already been established. That said, in this specific instance we find that the rationale stated in those cases is relevant in relation to determining the basis for jurisdiction. This is further supported by the very similar passage in _Logue_ (at [18]), which was written in the context of determining the meaning of the phrase “ordinarily resident outside Australia” for the purposes of finding jurisdiction to order security for costs. 
 
-41     While we recognise that “ease of enforcement” is a rationale for the jurisdiction under O 23 r 1(1)( _a_ ), we must state that it is not a determinative factor in all questions arising under that rule. This caveat was recognised by the Judge at [34] of the Judgment in relation to the exercise of his discretion: we would add that it is equally applicable in relation to the question of jurisdiction. It is established law, for example, that the impecuniosity of a plaintiff who is a natural person cannot of itself found jurisdiction to give security for costs (see _Ho Wing On Christopher and others v ECRC Land Pte Ltd (in liquidation)_ [2006] 4 SLR(R) 817 (“ _Christopher Ho_ ”) at [71]). This is in spite of the fact that enforcement of costs against such a plaintiff may be impossible, to say nothing of risky, expensive or delayed. Therefore, while the inconvenience of enforcing costs against a plaintiff 
+41     While we recognise that “ease of enforcement” is a rationale for the jurisdiction under O 23 r 1(1)( _a_ ), we must state that it is not a determinative factor in all questions arising under that rule. This caveat was recognised by the Judge at [34] of the Judgment in relation to the exercise of his discretion: we would add that it is equally applicable in relation to the question of jurisdiction. It is established law, for example, that the impecuniosity of a plaintiff who is a natural person cannot of itself found jurisdiction to give security for costs (see _Ho Wing On Christopher and others v ECRC Land Pte Ltd (in liquidation)_ <span class="citation">[2006] 4 SLR(R) 817</span> (“ _Christopher Ho_ ”) at [71]). This is in spite of the fact that enforcement of costs against such a plaintiff may be impossible, to say nothing of risky, expensive or delayed. Therefore, while the inconvenience of enforcing costs against a plaintiff 
 
 
 ## 3 
@@ -409,7 +409,7 @@ We see some merit in this contention. As the appellants have not shown that they
 
 61     We now turn to a new argument raised by the appellants which was not raised below, namely that the application for security for costs by the second and third respondents was made so late that most of the costs of discovery had already been incurred. As stated in _Shirley Ooi_ at [20], such a late application may be refused unless there is a satisfactory explanation for the delay. A similar view was also expressed in _Corbett_ at [45], with the qualification that “the significance of the delay is reduced by the absence of relevant prejudice”, although it will remain “one factor to be taken into account in the balancing exercise of determining the justice or injustice of making an order for security”. 
 
-62     However, an important preliminary question arises for consideration in relation to this new point: should this appellate court, in the circumstances of this case, allow this new point to be canvassed? The test for allowing such a new argument was enunciated by this court in _Panwah Steel Pte Ltd v Koh Brothers Building & Civil Engineering Contractor (Pte) Ltd_ [2006] 4 SLR(R) 571 at [15] as follows: 
+62     However, an important preliminary question arises for consideration in relation to this new point: should this appellate court, in the circumstances of this case, allow this new point to be canvassed? The test for allowing such a new argument was enunciated by this court in _Panwah Steel Pte Ltd v Koh Brothers Building & Civil Engineering Contractor (Pte) Ltd_ <span class="citation">[2006] 4 SLR(R) 571</span> at [15] as follows: 
 
  The classic statement of principle is, of course, that of Lord Herschell in the House of Lords decision of The Owners of the Ship “Tasmania” and the Owners of the Freight v Smith and others, The Owners of the Ship “City of Corinth” ( The “Tasmania”) (1890) 15 App Cas 223, as follows (at 225): 
 

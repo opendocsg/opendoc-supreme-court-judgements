@@ -55,14 +55,14 @@ Tay Yong Kwang J:
 
 8       The applicant then filed Criminal Motion No. 20 of 2004 to apply for an order to set aside the decision of the Registrar of the Subordinate Courts who had refused his request for a copy of the notes of the pre-trial conferences held in relation to the cheating charges which were then pending against him. On 10 September 2004, Lai Kew Chai J dismissed this application. The applicant appealed to the Court of Appeal in Criminal Appeal No. 15 of 2004. 
 
-9       On 21 Sept 2004, the Court of Appeal dismissed the applicant’s application in Criminal Motion No. 18 of 2004, taken out pursuant to s 50 of the Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed), for an extension of time to appeal against Lai Siu Chiu J’s decision at [6] above (see the Court of Appeal’s decision in Salwant Singh v PP [2005] 1 SLR 36). The Court of Appeal noted at [22] of that decision that there was no further avenue of appeal available to the applicant in relation to his conviction and sentence. 
+9       On 21 Sept 2004, the Court of Appeal dismissed the applicant’s application in Criminal Motion No. 18 of 2004, taken out pursuant to s 50 of the Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed), for an extension of time to appeal against Lai Siu Chiu J’s decision at [6] above (see the Court of Appeal’s decision in Salwant Singh v PP <span class="citation">[2005] 1 SLR 36</span>). The Court of Appeal noted at [22] of that decision that there was no further avenue of appeal available to the applicant in relation to his conviction and sentence. 
 
-10     On 22 November 2004, the Court of Appeal heard and dismissed Criminal Appeal No. 15 of 2004, which was the appeal against Lai Kew Chai J’s decision at [8] above (see the Court of Appeal’s decision in Salwant Singh s/o Amer Singh v PP (No. 2) [2005] 1 SLR 632). The Court of Appeal reiterated (at [18] of that decision) that: 
+10     On 22 November 2004, the Court of Appeal heard and dismissed Criminal Appeal No. 15 of 2004, which was the appeal against Lai Kew Chai J’s decision at [8] above (see the Court of Appeal’s decision in Salwant Singh s/o Amer Singh v PP (No. 2) <span class="citation">[2005] 1 SLR 632</span>). The Court of Appeal reiterated (at [18] of that decision) that: 
 
  Thus, as far as his conviction and sentence for the cheating charges were concerned, the appellant had exhausted all legal recourse. His applications (including that mentioned in [17] above) were nothing more than attempts to reopen the charges on which he had been convicted and sentenced. We did not think that the court should grant the request in the exercise of its inherent jurisdiction. What he was seeking to do was vexatious, amounting to an abuse of legal process. The process of the court must be used bona fide and properly. The court will prevent 
 
 
- the improper use of its machinery: see Gabriel Peter & Partners v Wee Chong Jin [1998] 1 SLR 374 at [22]. 
+ the improper use of its machinery: see Gabriel Peter & Partners v Wee Chong Jin <span class="citation">[1998] 1 SLR 374</span> at [22]. 
 
 The application mentioned in [17] of the judgment of the Court of Appeal was the application heard and dismissed by Lai Siu Chiu J at [6] above. 
 

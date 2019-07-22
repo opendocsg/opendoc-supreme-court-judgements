@@ -185,7 +185,7 @@ to protect herself in case the plaintiff changed his mind later about giving her
 
 could have used the moneys in her Australian bank accounts. She found that the first defendant had no experience in property transactions apart from her purchase of her own HDB flat. Prior to September 1996, the first defendant had not visited Australia. There was no reason therefore for the second defendant to rely on the first defendant to find her an investment property in Australia. The judge also expressed doubts on Tan’s corroborative evidence which she found to be confusing and contradictory. She regarded Ng as an honest witness. 
 
-64     Consequently, the court below rejected the defendants’ case and held that the plaintiff, not the second defendant, had handed the sum to the first defendant. Although the plaintiff constantly shifted his position on whether he or Hoo Sun or the mother was the source of the $1m, the court believed his testimony on the receipt issue, relying on _Teo Geok Fong v Lim Eng Hock_ [1996] 3 SLR 431 where Yong Pung How CJ at 439, [44] relied on a Malaysian decision ( _PP v Datuk Haji Harun bin Haji Idris (No 2)_ [1977] 1 MLJ 15 at 19) which held: 
+64     Consequently, the court below rejected the defendants’ case and held that the plaintiff, not the second defendant, had handed the sum to the first defendant. Although the plaintiff constantly shifted his position on whether he or Hoo Sun or the mother was the source of the $1m, the court believed his testimony on the receipt issue, relying on _Teo Geok Fong v Lim Eng Hock_ <span class="citation">[1996] 3 SLR 431</span> where Yong Pung How CJ at 439, [44] relied on a Malaysian decision ( _PP v Datuk Haji Harun bin Haji Idris (No 2)_ [1977] 1 MLJ 15 at 19) which held: 
 
  There is no rule of law that the testimony of a witness must either be believed in its entirety or not at all. A court is fully competent, for good and cogent reasons, to accept one part of the testimony of a witness and to reject the other. 
 
@@ -204,7 +204,7 @@ could have used the moneys in her Australian bank accounts. She found that the f
 ## [5] 
 
 
-70     On the question of costs, the court below was of the view that 90% of the hearing was taken up with determining who handed the $1m to the first defendant. She further observed that the issue of ownership of the sum was only raised by counsel for the second defendant on the first day of trial, after voluminous affidavits and documents had been filed. Taking into consideration O 59 r 3(2) of the Rules of Court (Cap 322, R 5, 1997 Rev Ed) and Yong Pung How CJ’s decision in _MCST No 473 v De Beers Jewellery Pte Ltd_ [2002] 2 SLR 1 at [57], she felt no order for costs would be proper, even though the plaintiff’s claim was dismissed. 
+70     On the question of costs, the court below was of the view that 90% of the hearing was taken up with determining who handed the $1m to the first defendant. She further observed that the issue of ownership of the sum was only raised by counsel for the second defendant on the first day of trial, after voluminous affidavits and documents had been filed. Taking into consideration O 59 r 3(2) of the Rules of Court (Cap 322, R 5, 1997 Rev Ed) and Yong Pung How CJ’s decision in _MCST No 473 v De Beers Jewellery Pte Ltd_ <span class="citation">[2002] 2 SLR 1</span> at [57], she felt no order for costs would be proper, even though the plaintiff’s claim was dismissed. 
 
 **The appeals** 
 
@@ -220,7 +220,7 @@ could have used the moneys in her Australian bank accounts. She found that the f
 
 Otherwise, banks would not be able to sue on their customers’ behalf for moneys credited to the accounts of, or paid in error to, other customers or third parties. 
 
-73     Counsel also argued that as a beneficiary of the mother’s estate, the plaintiff had _locus standi_ to sue in his own personal capacity, relying on _Omar Ali bin Mohd v Syed Jafaralsadeg bin Abdulkadir Alhadad_ [1995] 3 SLR 388. 
+73     Counsel also argued that as a beneficiary of the mother’s estate, the plaintiff had _locus standi_ to sue in his own personal capacity, relying on _Omar Ali bin Mohd v Syed Jafaralsadeg bin Abdulkadir Alhadad_ <span class="citation">[1995] 3 SLR 388</span>. 
 
 74     As the court had made a finding that the plaintiff handed the $1m to the first defendant, it was implicit in that finding that the court found the plaintiff’s version of the purpose of the handing over of the money was correct, _viz_ that it would be placed in fixed deposit to earn interest to cover the sons’ expenses. It must follow that the first defendant had no title or right to the money, even more so the second defendant. It was therefore wrong of the court below to dismiss the plaintiff’s claim and allow the defendants to retain the sum when the court had rejected their defences. 
 
@@ -239,13 +239,13 @@ Otherwise, banks would not be able to sue on their customers’ behalf for money
 
 80     Counsel for the second defendant, while aligning himself with the submissions tendered on behalf of the first defendant, ventured further in his submissions to say that the plaintiff’s withdrawal of $1m cash from the joint Bank of China account he held with his sister, amounted to criminal breach of trust under s 405 of the Penal Code (Cap 224, 1985 Rev Ed). The plaintiff’s conduct was illegal and in furtherance of this illegality, he sought the defendants’ assistance to hide the $1m from his siblings. 
 
-81     The plaintiff had passed title in the $1m to the first defendant and the parties were _in pari delicto_. As the scheme to hide the money was illegal, the court should not lend its assistance to help the plaintiff to recover the sum. Counsel cited several cases including _Top Ten Entertainment Pte Ltd v Lucky Red Investments Ltd_ [2004] 4 SLR 559 (which referred in turn to _Tinsley v Milligan_ [1993] 3 All ER 65) in support of this submission. 
+81     The plaintiff had passed title in the $1m to the first defendant and the parties were _in pari delicto_. As the scheme to hide the money was illegal, the court should not lend its assistance to help the plaintiff to recover the sum. Counsel cited several cases including _Top Ten Entertainment Pte Ltd v Lucky Red Investments Ltd_ <span class="citation">[2004] 4 SLR 559</span> (which referred in turn to _Tinsley v Milligan_ [1993] 3 All ER 65) in support of this submission. 
 
 82     Counsel for the second defendant then referred to the Court of Appeal’s decision in _Arumugam v Lim Boon Neo_ [1987] SLR 147 for the principles when an appellate court can substitute its own views for those of the trial judge. There, Wee Chong Jin CJ said (at 151): 
 
  It is settled law that in cases where the credibility or reliability of one or more witnesses has been in dispute and where a decision on these matters has led the trial judge to come to his decision on the case as a whole, an appellate court may interfere with the decision of the judge in limited circumstances. 
 
-The above principle was also applied by the Court of Appeal in _Peh Eng Leng v Pek Eng Leong_ [1996] 2 SLR 305 where Karthigesu JA held (according to the headnote): 
+The above principle was also applied by the Court of Appeal in _Peh Eng Leng v Pek Eng Leong_ <span class="citation">[1996] 2 SLR 305</span> where Karthigesu JA held (according to the headnote): 
 
  As regards a trial judge’s findings of fact, an appellate court should defer to his judgment if it was unable to say with certainty that the trial judge was plainly wrong. In deciding whether the trial judge was plainly wrong, the appellate court would evaluate the quality of the evidence given by the witnesses. This involved testing it against inherent probabilities or against uncontroverted facts, including the conduct of the parties at the relevant time. In this respect, the appellate court was in as good a position as the court of first instance. 
 

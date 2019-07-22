@@ -18,7 +18,7 @@
 
 _Civil Procedure_ – _Pleadings_ – _Amendment_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 28 of 2015 was dismissed by the Court of Appeal on 21 October 2015. See [2016] SGCA 1.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 28 of 2015 was dismissed by the Court of Appeal on 21 October 2015. See <span class="citation">[2016] SGCA 1</span>.] 
 
 4 May 2015 
 
@@ -198,7 +198,7 @@ submission at [52]–[59] below.
 
 **_The law on amending pleadings_** 
 
-45     In the typical case, a party will be allowed to amend its pleadings if the amendments enable the real issues between the parties to be tried and will not cause any prejudice to the opposing party for which it cannot be compensated by costs. As the Court of Appeal said in _Wright Norman and another v Oversea-Chinese Banking Corp Ltd_ [1993] 3 SLR(R) 640 at [6]: 
+45     In the typical case, a party will be allowed to amend its pleadings if the amendments enable the real issues between the parties to be tried and will not cause any prejudice to the opposing party for which it cannot be compensated by costs. As the Court of Appeal said in _Wright Norman and another v Oversea-Chinese Banking Corp Ltd_ <span class="citation">[1993] 3 SLR(R) 640</span> at [6]: 
 
  It is trite law that an amendment which would enable the real issues between the parties to be tried should be allowed subject to penalties on costs and adjournment, if necessary, unless the 
 
@@ -211,7 +211,7 @@ submission at [52]–[59] below.
 
 48     Multistar rejects this submission. 
 
-49     Geocon relies for its submission on _Chwee Kin Keong and others v Digilandmall.com Pte Ltd_ [2004] 2 SLR(R) 594 (“ _Digilandmall.com_ ”). In that case, VK Rajah JC (as he then was) granted a defendant leave to amend its pleadings after the evidential phase had concluded. He held that the lateness of the application was not determinative in itself but was only one factor for the court to consider in exercising its wide discretion to allow amendment. The overarching consideration was whether, in all the circumstances, the amendment operated unfairly to the opposing party. Thus, he said at [84]–[88]: 
+49     Geocon relies for its submission on _Chwee Kin Keong and others v Digilandmall.com Pte Ltd_ <span class="citation">[2004] 2 SLR(R) 594</span> (“ _Digilandmall.com_ ”). In that case, VK Rajah JC (as he then was) granted a defendant leave to amend its pleadings after the evidential phase had concluded. He held that the lateness of the application was not determinative in itself but was only one factor for the court to consider in exercising its wide discretion to allow amendment. The overarching consideration was whether, in all the circumstances, the amendment operated unfairly to the opposing party. Thus, he said at [84]–[88]: 
 
  84 It is axiomatic that a court will generally be cautious if not reluctant to effect any amendments once the hearing has commenced; even more so once the evidential phase of the proceedings has been completed. Lord Griffiths in Ketteman v Hansel Properties Ltd [1987] AC 189 at 220 stated: 
 
@@ -244,7 +244,7 @@ submission at [52]–[59] below.
 
  [emphasis in original] 
 
-50     The Court of Appeal dismissed the plaintiff’s appeal against VK Rajah JC’s decision. In doing so, it applied and therefore implicitly endorsed the principles set out in the passage I have cited (see _Chwee Kin Keong and others v Digilandmall.com Pte Ltd_ [2005] 1 SLR(R) 502 at [101]–[103]). 
+50     The Court of Appeal dismissed the plaintiff’s appeal against VK Rajah JC’s decision. In doing so, it applied and therefore implicitly endorsed the principles set out in the passage I have cited (see _Chwee Kin Keong and others v Digilandmall.com Pte Ltd_ <span class="citation">[2005] 1 SLR(R) 502</span> at [101]–[103]). 
 
 51     I accept that this passage accurately summarises the principles that I must apply to determine Geocon’s application to amend. Applying these principles, I accept Geocon’s submission that allowing these amendments causes no prejudice to Multistar for which it cannot be compensated by costs. I shall explain why I have arrived at this conclusion, taking each category of amendments in turn. 
 
@@ -464,7 +464,7 @@ _Alternative inconsistent case does not offend common sense_
 
 92     It is only the second and third additional alternative claims to which any rational objection can be taken. The objection is that they are premised not on Geocon’s existing case advanced on the reimbursement basis but instead adopt as part of Geocon’s positive case the defence advanced by _Multistar_ that the Multistar/Geocon subcontract is a lump sum contract subject only to variations. The effect of the amendments, Multistar submits, is that Geocon is attempting impermissibly to put forward a new alternative positive case which is inconsistent with its existing positive case. 
 
-93     Multistar’s submission is misconceived. A plaintiff may legitimately plead inconsistent cases in the alternative so long as the inconsistency does not offend common sense. An obvious example which offends common sense is where the pleader asserts two inconsistent versions of the facts in a situation where he knows or must know that one version is false: _Ng Chee Weng v Lim Jit Ming Bryan and another_ [2012] 1 SLR 457 at [37] following _Brailsford v Tobie_ (1888) 10 ALT 194. 
+93     Multistar’s submission is misconceived. A plaintiff may legitimately plead inconsistent cases in the alternative so long as the inconsistency does not offend common sense. An obvious example which offends common sense is where the pleader asserts two inconsistent versions of the facts in a situation where he knows or must know that one version is false: _Ng Chee Weng v Lim Jit Ming Bryan and another_ <span class="citation">[2012] 1 SLR 457</span> at [37] following _Brailsford v Tobie_ (1888) 10 ALT 194. 
 
 94     It does not offend common sense for Geocon to advance a claim on the lump sum basis in the alternative to its existing claim on the reimbursement basis. The point of divergence between the two 
 
@@ -579,20 +579,20 @@ opportunity to present further arguments to me on Geocon’s amendment applicati
 
  (d) If so, is it just to grant the plaintiff leave to make the proposed amendment? 
 
-116    Authority for these four questions, if authority is needed, can be found in the decision of our Court of Appeal in _Lim Yong Swan v Lim Jee Tee and another_ [1992] 3 SLR(R) 940 (“ _Lim Yong Swan_ ”) at [28] and of the English Court of Appeal in _Ballinger v Mercer Ltd and another_ [2014] 1 WLR 3597 (“ _Ballinger_ ”) at [15]. Note, however, that in the former case, it was not necessary for the Court of Appeal to articulate separately the first two questions which I have set out because it was common ground there that the answer to both questions was yes (see _Lim Yong Swan_ at [10]). In the latter case, the fourth question was not separately articulated. It is, however, clearly a distinct question to be addressed before the court grants leave. 
+116    Authority for these four questions, if authority is needed, can be found in the decision of our Court of Appeal in _Lim Yong Swan v Lim Jee Tee and another_ <span class="citation">[1992] 3 SLR(R) 940</span> (“ _Lim Yong Swan_ ”) at [28] and of the English Court of Appeal in _Ballinger v Mercer Ltd and another_ [2014] 1 WLR 3597 (“ _Ballinger_ ”) at [15]. Note, however, that in the former case, it was not necessary for the Court of Appeal to articulate separately the first two questions which I have set out because it was common ground there that the answer to both questions was yes (see _Lim Yong Swan_ at [10]). In the latter case, the fourth question was not separately articulated. It is, however, clearly a distinct question to be addressed before the court grants leave. 
 
 117    The sequence in which the questions have been put at [115] above is not the way in which they usually appear. The usual sequence inverts the first and second questions. But that cannot, as a matter of strict logic, be correct. It is not possible to determine whether a relevant limitation period has expired before identifying the cause of action with respect to which that question is asked. Thus, whether the amendments add or substitute a new cause of action must be determined first. It is only after ascertaining that the amendments do introduce a new cause of action, and only after that new cause of action has been identified, that the question of whether the limitation period applicable to that new cause of action has expired can be posed and answered. 
 
-118    If the answer to either the first or second questions is no rather than yes, r 5(2) is not engaged at all. The amendment application is governed by the general principles under r 5(1). If the answer to the third question is yes, the court is obliged to go on to consider the fourth question. But if the answer to the third question is no, the application to amend must be dismissed. The court has no residual discretion to go on and consider whether it would be just to permit the amendment in these circumstances: _Abdul Gaffer bin Fathil v Chua Kwang Yong_ [1994] 3 SLR(R) 1056 at [11] and [12]; _Chandra v Brooke North (a firm) & Brooke North LLP_ (2013) 151 Con LR 113 (“ _Chandra_ ”) at [98]. To put it another way, the only way in which the court can go on to consider the justice of permitting the amendment is if the answer to the third question is yes. 
+118    If the answer to either the first or second questions is no rather than yes, r 5(2) is not engaged at all. The amendment application is governed by the general principles under r 5(1). If the answer to the third question is yes, the court is obliged to go on to consider the fourth question. But if the answer to the third question is no, the application to amend must be dismissed. The court has no residual discretion to go on and consider whether it would be just to permit the amendment in these circumstances: _Abdul Gaffer bin Fathil v Chua Kwang Yong_ <span class="citation">[1994] 3 SLR(R) 1056</span> at [11] and [12]; _Chandra v Brooke North (a firm) & Brooke North LLP_ (2013) 151 Con LR 113 (“ _Chandra_ ”) at [98]. To put it another way, the only way in which the court can go on to consider the justice of permitting the amendment is if the answer to the third question is yes. 
 
 _Does the amendment add a new cause of action?_ 
 
 119    The first question is whether Geocon’s amendments add or substitute a new cause of action. 
 
 
-GP Selvam JC (as he then was) considered the meaning of “cause of action” as it is used in r 5(5) in _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd and others_ [1992] 2 SLR(R) 382. In that case, the plaintiff commenced suit against a defendant to recover $2.4m as money lent to the defendant or as money held by the defendant on resulting trust for the plaintiff. After the relevant limitation period had expired, the plaintiff sought leave to amend its statement of claim to plead that the defendant had received the $2.4m in breach of s 76 of the Companies Act (Cap 50, 1990 Rev Ed) and was therefore a constructive trustee of that sum. 
+GP Selvam JC (as he then was) considered the meaning of “cause of action” as it is used in r 5(5) in _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd and others_ <span class="citation">[1992] 2 SLR(R) 382</span>. In that case, the plaintiff commenced suit against a defendant to recover $2.4m as money lent to the defendant or as money held by the defendant on resulting trust for the plaintiff. After the relevant limitation period had expired, the plaintiff sought leave to amend its statement of claim to plead that the defendant had received the $2.4m in breach of s 76 of the Companies Act (Cap 50, 1990 Rev Ed) and was therefore a constructive trustee of that sum. 
 
-120    Selvam JC held that “cause of action” referred to the relief or remedy which the plaintiff seeks and not to the factual basis underpinning it. He thus held that the plaintiff’s proposed amendments did indeed seek to add a new cause of action because they relied on a breach of statute or on a constructive trust. Selvam JC went on to determine the remaining questions against the plaintiff and dismissed the plaintiff’s application (see [35]–[36]). The plaintiff’s appeal to the Court of Appeal was also dismissed: _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd_ [1993] 1 SLR(R) 220. 
+120    Selvam JC held that “cause of action” referred to the relief or remedy which the plaintiff seeks and not to the factual basis underpinning it. He thus held that the plaintiff’s proposed amendments did indeed seek to add a new cause of action because they relied on a breach of statute or on a constructive trust. Selvam JC went on to determine the remaining questions against the plaintiff and dismissed the plaintiff’s application (see [35]–[36]). The plaintiff’s appeal to the Court of Appeal was also dismissed: _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd_ <span class="citation">[1993] 1 SLR(R) 220</span>. 
 
 121    Thus, a plaintiff clearly puts forward a new cause of action when its amendment seeks a relief or remedy which carries a different label from that which is sought in its unamended pleading. That is so even if the new relief or remedy is claimed based on the same underlying facts. The inquiry into the facts is properly the subject-matter of the third question. 
 

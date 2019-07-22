@@ -20,7 +20,7 @@ _Evidence_ – _Proof of Evidence_
 
 _Trusts_ – _Express Trusts_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 121 of 2015 was dismissed while the appeals in Civil Appeals Nos 117, 118 and 134 of 2015 were allowed by the Court of Appeal on 31 August 2016. See [2016] SGCA 51.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 121 of 2015 was dismissed while the appeals in Civil Appeals Nos 117, 118 and 134 of 2015 were allowed by the Court of Appeal on 31 August 2016. See <span class="citation">[2016] SGCA 51</span>.] 
 
 27 May 2015 Judgment reserved. 
 
@@ -37,7 +37,7 @@ obtained a Mareva injunction – which remains in force – to freeze Deuteron�
 
 3       But just when the JC thought that its wait was over, the JD applied in June 2005 to set aside the registration of the English judgment. The JD had argued that the English judgment should not be registered in Singapore as it was no longer enforceable in England due to the time period that had elapsed. The application made its way to the Court of Appeal, which on 9 May 2007, directed the JC to refer to the English courts the question of whether the English judgment remained enforceable. Tomlinson J in _Westacre Investments Inc (a company incorporated under the laws of Panama) v The State-Owned Company Yugoimport SDPR (also known as Jugoimport-SDPR)_ [2008] 1 All ER (Comm) 780 answered the question in the affirmative. On 30 December 2008, our Court of Appeal dismissed the JD’s application. 
 
-4       As the garnishee proceedings resumed, three new parties – Teleoptik-Ziroskopi, Zrak-Teslic and Cajevec (“the Other Parties”) – entered the scene to stake a claim to the funds. To that end, affidavits were filed in February and March 2009 by the Other Parties, JD and Deuteron (“the Defendants”), which made a volte-face. Essentially, all the parties were saying that the funds in Deuteron’s bank accounts belonged to the Other Parties instead of the JD. The Defendants each filed summonses for an order that the garnishee proceedings be converted to a writ action and tried. The JC and the Other Parties also filed summonses seeking a summary determination of the question of the ownership of the funds: see _Teleoptik-Ziroskopi and others v Westacre Investments Inc and other appeals_ [2012] 2 SLR 177 at [8] (“ _Teleoptik-Ziroskopi v Westacre_ ”), which helpfully recounts the following case developments in the High Court (at [9]-[11]): 
+4       As the garnishee proceedings resumed, three new parties – Teleoptik-Ziroskopi, Zrak-Teslic and Cajevec (“the Other Parties”) – entered the scene to stake a claim to the funds. To that end, affidavits were filed in February and March 2009 by the Other Parties, JD and Deuteron (“the Defendants”), which made a volte-face. Essentially, all the parties were saying that the funds in Deuteron’s bank accounts belonged to the Other Parties instead of the JD. The Defendants each filed summonses for an order that the garnishee proceedings be converted to a writ action and tried. The JC and the Other Parties also filed summonses seeking a summary determination of the question of the ownership of the funds: see _Teleoptik-Ziroskopi and others v Westacre Investments Inc and other appeals_ <span class="citation">[2012] 2 SLR 177</span> at [8] (“ _Teleoptik-Ziroskopi v Westacre_ ”), which helpfully recounts the following case developments in the High Court (at [9]-[11]): 
 
  (a) On 24 August 2010, the applications to convert the garnishee proceedings to a writ action were dismissed. These orders were confirmed on 8 November 2010. 
 
@@ -159,7 +159,7 @@ positions, and they have in fact, essentially run a joint case for the purpose o
 
 **_The governing law of the four documents_** 
 
-35     The stages to determine the governing law of a contract are laid out in cases such as _Pacific Recreation Pte Ltd v SY Technology Inc_ [2008] 2 SLR(R) 491. At [36], the court held that “the first stage is to examine the contract itself to determine whether it states expressly what the governing law should be. In the absence of an express provision one moves to the second stage which is to see whether the intention of the parties as to the governing law can be inferred from the circumstances. 
+35     The stages to determine the governing law of a contract are laid out in cases such as _Pacific Recreation Pte Ltd v SY Technology Inc_ <span class="citation">[2008] 2 SLR(R) 491</span>. At [36], the court held that “the first stage is to examine the contract itself to determine whether it states expressly what the governing law should be. In the absence of an express provision one moves to the second stage which is to see whether the intention of the parties as to the governing law can be inferred from the circumstances. 
 
 
 If this cannot be done, the third stage is to determine with which system of law the contract has its most close and real connection”. 

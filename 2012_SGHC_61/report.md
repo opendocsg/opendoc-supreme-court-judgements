@@ -312,7 +312,7 @@ Letter clearly did not give ANZ this right. [note: 87] In deploying this argumen
 
 **The law on contractual interpretation** 
 
-33     The interpretation of a contract is an objective exercise. This was made clear by the Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029; [2008] 3 SLR 1029 (“ _Zurich Insurance_ ”), where the court (at [131]) endorsed a summary of principles set out by Gerard McMeel in his book, _The Construction of Contracts: Interpretation, Implication, and Rectification_ (Oxford University Press, 2007) (“ _McMeel_ ”), two of which I find useful to set out as a backdrop for the exercise of construction that this case requires: 
+33     The interpretation of a contract is an objective exercise. This was made clear by the Court of Appeal in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span>; <span class="citation">[2008] 3 SLR 1029</span> (“ _Zurich Insurance_ ”), where the court (at [131]) endorsed a summary of principles set out by Gerard McMeel in his book, _The Construction of Contracts: Interpretation, Implication, and Rectification_ (Oxford University Press, 2007) (“ _McMeel_ ”), two of which I find useful to set out as a backdrop for the exercise of construction that this case requires: 
 
  The aim of construction 
 
@@ -335,7 +335,7 @@ Letter clearly did not give ANZ this right. [note: 87] In deploying this argumen
 
  The tendency should therefore generally speaking be against literalism. What is literalism? It will depend on the context. But an example is given in The Works of William Paley (1838 ed), vol III, p 60. The moral philosophy of Paley influenced thinking on contract in the 19th century. The example is as follows: the tyrant Temures promised the garrison of Sebastia that no blood would be shed if they surrendered to him. They surrendered. He shed no blood. He buried them all alive. This is literalism. If possible it should be resisted in the interpretative process. This approach was affirmed by the decisions of the House in Mannai Investment Co Ltd v Eagle Star Life Assurance Co Ltd [1997] AC 749, 775 e-g, per Lord Hoffmann and in Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896, 913 d-e, per Lord Hoffmann. 
 
-35     The objective nature of the inquiry as set out in the above case was referred to in the Court of Appeal case of _The “Asia Star”_ [2007] 3 SLR(R) 1 (at [36]). I now turn to addressing the parties’ arguments. As will be seen, Edwards’ arguments were essentially in the same vein as the literalism Lord Steyn cautioned against. 
+35     The objective nature of the inquiry as set out in the above case was referred to in the Court of Appeal case of _The “Asia Star”_ <span class="citation">[2007] 3 SLR(R) 1</span> (at [36]). I now turn to addressing the parties’ arguments. As will be seen, Edwards’ arguments were essentially in the same vein as the literalism Lord Steyn cautioned against. 
 
 **Are the terms in the 14 July letter unknown?** 
 
@@ -617,7 +617,7 @@ determination of the loan to security ratio. [note: 119]
 
 65     ANZ argues that the “relevant amount” is the outstanding amount(s) that is not in the currency of the Property / Fund (“Property” and “Fund” as defined in Clause 12 of the 14 July letter) which is the subject of the notional conversion done in Clause 16(a). 
 
-66     In my view, Edwards is correct in characterising Clause 16(a) as a definition clause. However, it is also clear from the opening words of Clause 16(a) ( _viz_ , “For the purposes of this clause...”) that the definition of LVR set out in 16(a) applies to the entire of Clause 16. To understand the meaning of “relevant amount”, one has to look at Clause 16 in its entirety. It is from examining Clause 16 as a whole that I take the view that “relevant amount” refers to the outstanding loan amount denominated in currencies other than the currency the securities are denominated in. I agree with Edwards that based on a _purely literal_ reading of Clause 16(a), there is no use of the term “relevant amount” or any figure that would be seen as a “relevant amount”. However, I do not think that means, in the words of Edwards, that “it is impossible to say what conversions were envisaged” and that the clause is void for uncertainty. I refer to the case of _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ [2008] 2 SLR(R) 474; [2007] SCGA 57, where the Court of Appeal held (at [20]): 
+66     In my view, Edwards is correct in characterising Clause 16(a) as a definition clause. However, it is also clear from the opening words of Clause 16(a) ( _viz_ , “For the purposes of this clause...”) that the definition of LVR set out in 16(a) applies to the entire of Clause 16. To understand the meaning of “relevant amount”, one has to look at Clause 16 in its entirety. It is from examining Clause 16 as a whole that I take the view that “relevant amount” refers to the outstanding loan amount denominated in currencies other than the currency the securities are denominated in. I agree with Edwards that based on a _purely literal_ reading of Clause 16(a), there is no use of the term “relevant amount” or any figure that would be seen as a “relevant amount”. However, I do not think that means, in the words of Edwards, that “it is impossible to say what conversions were envisaged” and that the clause is void for uncertainty. I refer to the case of _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ <span class="citation">[2008] 2 SLR(R) 474</span>; [2007] SCGA 57, where the Court of Appeal held (at [20]): 
 
  The law on documentary construction is clear. It is an established principle of documentary interpretation that a clause must not be considered in isolation, but must instead be considered in the context of the whole document. 
 
@@ -799,7 +799,7 @@ were given to the securities. [note: 151]
 
  Where a contract confers a discretion on one party, and the exercise of that discretion may adversely affect the interests of the other party, it will usually be implicit that the discretion must be exercised honestly and rationally and for the purpose for which it was conferred. 
 
-100    Recently, the High Court has reviewed the authorities and addressed this question as well. In _MGA International Pte Ltd v Wajilam Exports (Singapore) Pte Ltd_ [2010] SGHC 319, the Court stated (at [103]-[106]): 
+100    Recently, the High Court has reviewed the authorities and addressed this question as well. In _MGA International Pte Ltd v Wajilam Exports (Singapore) Pte Ltd_ <span class="citation">[2010] SGHC 319</span>, the Court stated (at [103]-[106]): 
 
  A contractual discretion is not usually as unfettered as Ms Tan would like this court to believe. The authorities on contractual discretion recognise that there is a corresponding expectation that the discretion would be exercised fairly and rationally. Guidance can be drawn from Horkulak v Cantor Fitzgerald International [2005] ICR 402 (“ Horkulak ”), an employment case, on the court’s approach to contractual discretion at [30]: 
 
@@ -894,7 +894,7 @@ the Clauses in favour of the interpretation offered by ANZ. [note: 155] ANZ argu
 
  None that I have. However, it would be run by our treasurer, our markets operation. 
 
-109    The Court of Appeal recently reaffirmed the principles with regard to penalty clauses in _CLAAS Medical Centre Pte Ltd v Ng Boon Ching_ [2010] 2 SLR 386 (at [63]): 
+109    The Court of Appeal recently reaffirmed the principles with regard to penalty clauses in _CLAAS Medical Centre Pte Ltd v Ng Boon Ching_ <span class="citation">[2010] 2 SLR 386</span> (at [63]): 
 
  Where parties stipulate in a contract the sum to be paid in the event of a breach, the contract sum is enforceable if it is a genuine pre-estimate of loss but not if it constitutes a penalty. It is for the party being sued on the agreed sum to show that the term is a penalty. Therefore, the burden is on the Respondent to prove that the term was a penalty. 
 
@@ -912,7 +912,7 @@ the Clauses in favour of the interpretation offered by ANZ. [note: 155] ANZ argu
 
 112    Edwards has no evidence to back up his claim that ANZ did not borrow the AUD that it converted Edwards’ loans into. He simply states that it would not have made sense to do so. With that, he wraps up his argument that ANZ did not incur any cost in funding the AUD conversions. These bare assertions are insufficient to discharge the burden. 
 
-113    In addition, Edwards cites the case of _Hong Leong Finance Ltd v Tan Gin Huay & another_ (“ _Hong Leong Finance_ ”) [1999] 1 SLR(R) 755. He cites paragraphs 26 and 27 which I find to be useful here but I also add the principles that the Court of Appeal set out in paragraphs 24 and 25: 
+113    In addition, Edwards cites the case of _Hong Leong Finance Ltd v Tan Gin Huay & another_ (“ _Hong Leong Finance_ ”) <span class="citation">[1999] 1 SLR(R) 755</span>. He cites paragraphs 26 and 27 which I find to be useful here but I also add the principles that the Court of Appeal set out in paragraphs 24 and 25: 
 
  [24] More relevant to this appeal was the decision of Colman J in Lordsvale Finance plc v Bank of 
 
@@ -944,7 +944,7 @@ Reverting to the case before him the learned judge concluded, at 767:
 
 **Conclusion** 
 
-115    In _Soon Kok Tiang and others v DBS Bank Ltd and another matter_ [2011] SGCA 55, the Court of Appeal observed (at [63]): 
+115    In _Soon Kok Tiang and others v DBS Bank Ltd and another matter_ <span class="citation">[2011] SGCA 55</span>, the Court of Appeal observed (at [63]): 
 
  In view of our decision in this appeal, we think it apposite and timely to remind the general public that under the law of contract, a person who signs a contract which is set out in a language he 
 

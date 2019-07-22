@@ -270,7 +270,7 @@ _The wife’s CPF contributions_
 
  followed by the Casa Merah apartment. 
 
-28     Taking all the circumstances into consideration and applying the broad brush approach which was reaffirmed by the Court of Appeal in _BCB v BCC_ [2013] 2 SLR 324, I was of the view that a twenty percentage point differential in favour of the wife would be just and equitable. I therefore ordered that the two apartments be divided between the wife and the husband in the ratio 60:40. 
+28     Taking all the circumstances into consideration and applying the broad brush approach which was reaffirmed by the Court of Appeal in _BCB v BCC_ <span class="citation">[2013] 2 SLR 324</span>, I was of the view that a twenty percentage point differential in favour of the wife would be just and equitable. I therefore ordered that the two apartments be divided between the wife and the husband in the ratio 60:40. 
 
 **Maintenance for the daughter** 
 
@@ -288,7 +288,7 @@ insurance (US$100 per month [note: 20] ).
 
 33     A key reason for seeking a lump sum maintenance order was the wife’s previous disputes with the husband over the type of school related expenses that the husband should pay for. This is no longer an issue as the husband has agreed to pay half of all expenses as invoiced by the school. 
 
-34     The wife also relied on _AYM v AYL_ [2014] 4 SLR 559 in which the Court of Appeal summarised the principles concerning lump sum maintenance payments as follows (at [18]): 
+34     The wife also relied on _AYM v AYL_ <span class="citation">[2014] 4 SLR 559</span> in which the Court of Appeal summarised the principles concerning lump sum maintenance payments as follows (at [18]): 
 
  (a) A lump sum payment allows for a clean break in the marriage and should be availed of whenever feasible. Such a clean break may help avoid further litigation and acrimony between the parties. 
 
@@ -335,7 +335,7 @@ no income from the company, [note: 28] as well as a letter dated 11 February 201
 
 accountants confirming that he has not received any remuneration to date. [note: 29] These letters notwithstanding, the wife has continued to allege that the husband has not disclosed his income from D Ltd, but has produced no evidence whatsoever to support her allegation. I have therefore disregarded this allegation. 
 
-44     The wife relied on _ACY v ACZ_ [2014] 2 SLR 1320 which involved a marriage of three years, a 
+44     The wife relied on _ACY v ACZ_ <span class="citation">[2014] 2 SLR 1320</span> which involved a marriage of three years, a 
 
 
 wife who was earning some $32,000 a month and a husband who earned at least $48,000 a month. The court said (at [54]): 
@@ -360,7 +360,7 @@ The court awarded the wife a lump sum maintenance of $72,000 based on a multipli
 
  (f) The division of the two apartments which has given the wife a 60% share. Based on the estimated values in mid 2014 and the outstanding mortgages as of January 2015, the total net values of the Casa Merah and Sims Residence apartments would be about $1,610,820. Based on these last available net values, the twenty percentage points differential that the wife has over the husband, translates to $322,164 in value. 
 
-47     I was also mindful of the Court of Appeal’s decision in _Foo Ah Yan v Chiam Heng Chow_ [2012] 2 SLR 506, that s 114(2) of the Women’s Charter (Cap 353, 2009 Rev Ed) is to be applied purposively to achieve a commonsense response to the requirement of justice in each case. 
+47     I was also mindful of the Court of Appeal’s decision in _Foo Ah Yan v Chiam Heng Chow_ <span class="citation">[2012] 2 SLR 506</span>, that s 114(2) of the Women’s Charter (Cap 353, 2009 Rev Ed) is to be applied purposively to achieve a commonsense response to the requirement of justice in each case. 
 
 48     With that principle in mind, I concluded that on the facts of this case, a commonsense response to the requirement of justice was to make no order for maintenance for the wife. 
 

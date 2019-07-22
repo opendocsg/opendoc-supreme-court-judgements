@@ -37,7 +37,7 @@ _Damages_ – _Assessment_
 5       The plaintiff submitted that the adoption of the conventional approach, whereby the court 
 
 
-adopts a fixed multiplicand after “distilling” the figure from the objective evidence is both unfair and unrealistic as it does not take into account promotional prospects which will usually lead to increments in salary. The plaintiff contended that there was cogent and sufficient evidence based on the figures produced by the plaintiff’s expert (“Foong’s report”), Mr Foong Daw Ching (“Mr Foong”), for the court not to adopt the conventional approach in this particular case. The plaintiff argued that the final figure payable to the plaintiff should take into account a discount of 10% for vicissitudes of life, based on _Chai Kang Wei Samuel v Shaw Linda Gillian_ [2010] 3 SLR 587 (“ _Shaw Linda Gillian_ ”) and Great Britain: Government’s Actuary Department, _Actuarial Tables with explanatory notes for use in_ 
+adopts a fixed multiplicand after “distilling” the figure from the objective evidence is both unfair and unrealistic as it does not take into account promotional prospects which will usually lead to increments in salary. The plaintiff contended that there was cogent and sufficient evidence based on the figures produced by the plaintiff’s expert (“Foong’s report”), Mr Foong Daw Ching (“Mr Foong”), for the court not to adopt the conventional approach in this particular case. The plaintiff argued that the final figure payable to the plaintiff should take into account a discount of 10% for vicissitudes of life, based on _Chai Kang Wei Samuel v Shaw Linda Gillian_ <span class="citation">[2010] 3 SLR 587</span> (“ _Shaw Linda Gillian_ ”) and Great Britain: Government’s Actuary Department, _Actuarial Tables with explanatory notes for use in_ 
 
 _Personal Injury and Fatal Accident Cases_ (6th Edition, 2007) (London: TSO, 6th Ed: 2007) (“UK Ogden’s Tables”). Hence, the final figure should be $1,823,034.60. 
 
@@ -57,7 +57,7 @@ _The law_
 
 _Damages: Personal Injuries and Fatal Accidents_ (Singapore: LexisNexis, 2nd Ed: 2005) (“ _Assessment of Damages_ ”) at p 3. 
 
-10     With respect to the assessment of the loss of future earnings, the Court of Appeal in _Lee Wei Kong (by his litigation representative Lee Swee Chit) v Ng Siok Tong_ [2012] 2 SLR 85 held at [29] that: 
+10     With respect to the assessment of the loss of future earnings, the Court of Appeal in _Lee Wei Kong (by his litigation representative Lee Swee Chit) v Ng Siok Tong_ <span class="citation">[2012] 2 SLR 85</span> held at [29] that: 
 
  Ordinarily, an award for LFE is granted where the plaintiff is in employment at the time of trial, but because of his injuries, is unable to earn as much as what he earned prior to the accident. The difference in earnings would form the basis of the multiplicand. 
 
@@ -76,7 +76,7 @@ _Damages: Personal Injuries and Fatal Accidents_ (Singapore: LexisNexis, 2nd Ed:
 
  Loss of future earnings is assessed from the date of the trial to the end of the plaintiff’s prospective working life. The amount claimable is the produce of the multiplicand (in dollars) and multiplier (in years or months). The multiplicand is based on the amount of earnings which the plaintiff would have earned if the tort had not occurred. The court would attempt to make a fair and reasonable assessment of the amount taking into account the plaintiff’s promotion prospects. To determine the multiplier, the court will normally examine the remaining period of the working life of the plaintiff (based on the age of the plaintiff at the time of accident and the normal retirement age) and discount for contingencies as well as the advance payment to the plaintiff. 
 
-13     The issue of whether the conventional approach or actuarial tables should be adopted in order to assess the loss of future earnings have been considered by the Singapore courts in _Lai Wee Lian v Singapore Bus Service (1978) Ltd_ [1983-1984] SLR(R) 388 (“ _Lai Wee Lian_ ”) and _Tay Cheng Yan v Tock Hua Bin and another_ [1992] 1 SLR(R) 779 (“ _Tay Cheng Yan_ ”). In _Lai Wee Lian_ , an appeal to the Privy Council from a decision of the Singapore Court of Appeal, Lord Fraser of Tullybelton held at [27] that: 
+13     The issue of whether the conventional approach or actuarial tables should be adopted in order to assess the loss of future earnings have been considered by the Singapore courts in _Lai Wee Lian v Singapore Bus Service (1978) Ltd_ [1983-1984] SLR(R) 388 (“ _Lai Wee Lian_ ”) and _Tay Cheng Yan v Tock Hua Bin and another_ <span class="citation">[1992] 1 SLR(R) 779</span> (“ _Tay Cheng Yan_ ”). In _Lai Wee Lian_ , an appeal to the Privy Council from a decision of the Singapore Court of Appeal, Lord Fraser of Tullybelton held at [27] that: 
 
  While their Lordships are of opinion [sic] that there is nothing contrary to law in the use of the [actuarial] tables, or of any other accurate aid to calculation, it is apparent that there is a possibility (and more than the possibility) of confusion if the [actuarial] tables are used without their significance being fully appreciated. They enable the loss to be calculated more accurately than is possible by the direct application of a multiplier, and for that reason they may reasonably be preferred to the English system, provided that care is taken to avoid confusion between the two systems. Some judges may prefer to use the [actuarial] tables on the 
 
@@ -191,11 +191,11 @@ There was _no evidence_ from Chia on any progression past the rank of manager. I
 
 23     With respect to the multiplier to be adopted, I took into account the fact that plaintiff was 39 years old when the assessment hearing began and also that the minimum retirement age is 62 as stipulated in s 4(1) of the Retirement and Re-employment Act (Cap 274A, 2000 Rev Ed), even though there are plans to eventually raise the retirement age to 67. I also found the following cases instructive for the determination of the multiplier in this case: 
 
- ( a ) Murugasu Euan v Singapore Airlines Ltd [2004] 3 SLR(R) 463 (“ Murugasu Euan ”) – a multiplier of 12 was used for a plaintiff consultant Ear Nose and Throat (ENT) surgeon aged 40 at the time of the assessment. 
+ ( a ) Murugasu Euan v Singapore Airlines Ltd <span class="citation">[2004] 3 SLR(R) 463</span> (“ Murugasu Euan ”) – a multiplier of 12 was used for a plaintiff consultant Ear Nose and Throat (ENT) surgeon aged 40 at the time of the assessment. 
 
  ( b ) Shaw Linda Gillian – a multiplier of 16 was used for an Australian national who was a physiotherapist. Award was not varied on appeal in the High Court and the Court of Appeal. 
 
- (c) Lee Wei Kong (by his litigation representative Lee Swee Chit) v Ng Siok Tong [2012] 2 SLR 85 – a multiplier of 20 was used for a 22 year old claimant who was about to commence his second and final year at a junior college before the accident. 
+ (c) Lee Wei Kong (by his litigation representative Lee Swee Chit) v Ng Siok Tong <span class="citation">[2012] 2 SLR 85</span> – a multiplier of 20 was used for a 22 year old claimant who was about to commence his second and final year at a junior college before the accident. 
 
 Taking into account the facts of this case and the applicable case law, I find that the appropriate multiplier to be applied in this case is 13. 
 
@@ -222,9 +222,9 @@ Taking into account the facts of this case and the applicable case law, I find t
 
 ## Q : 
 
-24     As pointed out above at [21] to [23], I am also of the view that this is an appropriate case for the multiplier of 13 to be split, with a different multiplicand applied to each multiplier period, especially considering the evidence of Chia on the promotion prospects of the plaintiff. It is trite that such an alternative approach can be applied in the appropriate circumstances, as the cases of _Ho Yiu v Lim Peng Seng_ [2004] SGHC 218 (“ _Ho Yiu_ ”) and _Balanalagirisamy Go w r i Rajeswari and another (administrators of the estate of Radhakrishnan Hari Babu, deceased) v Wong Si Wah_ [2009] 1 SLR(R) 819 illustrate. 
+24     As pointed out above at [21] to [23], I am also of the view that this is an appropriate case for the multiplier of 13 to be split, with a different multiplicand applied to each multiplier period, especially considering the evidence of Chia on the promotion prospects of the plaintiff. It is trite that such an alternative approach can be applied in the appropriate circumstances, as the cases of _Ho Yiu v Lim Peng Seng_ <span class="citation">[2004] SGHC 218</span> (“ _Ho Yiu_ ”) and _Balanalagirisamy Go w r i Rajeswari and another (administrators of the estate of Radhakrishnan Hari Babu, deceased) v Wong Si Wah_ <span class="citation">[2009] 1 SLR(R) 819</span> illustrate. 
 
-25     In arriving at the appropriate multiplicand to be applied to each multiplier period, I also note that there are to be deductions for income tax. In the absence of any submissions by the defendant as to what amount to be deducted should be, I accepted the plaintiff’s submission in his reply submissions that a 2.5% income tax deduction should be adopted, which was based on an average of the income tax deduction in _Ho Yiu_ (3%) and _Toh Wai Sie and another v Rajendran s/o G Selamuthu_ [2012] SGHC 33 (2%). 
+25     In arriving at the appropriate multiplicand to be applied to each multiplier period, I also note that there are to be deductions for income tax. In the absence of any submissions by the defendant as to what amount to be deducted should be, I accepted the plaintiff’s submission in his reply submissions that a 2.5% income tax deduction should be adopted, which was based on an average of the income tax deduction in _Ho Yiu_ (3%) and _Toh Wai Sie and another v Rajendran s/o G Selamuthu_ <span class="citation">[2012] SGHC 33</span> (2%). 
 
 26     I also agree with the defendant that there should be a further deduction in the form of the projected income which the plaintiff can reasonably be expected to earn as he should be able to resume some form of paid work in the future. The evidence of Mr Hong Yun, an occupational therapist at TTSH, was that the plaintiff is able to perform many day to day tasks, such as personal grooming, bathing, dressing and transferring himself from the bed to his wheelchair or vice versa with minimal or no assistance: 
 
@@ -363,7 +363,7 @@ uses the special mattress and hospital bed”. As made clear in Dr Tow’s evide
 
 33     As pointed out by the learned authors of _Assessment of Damages_ at p 38: 
 
- The multiplier [for future expenses] is determined according to circumstances prevailing at the date of the trial. In relation to future medical expenses, the average life expectancy, rather than the retirement age, would be the measure of the period of the loss : Ang Leng Hock v Leo Ee Ah [2004] 2 SLR 361; Ho Yiu v Lim Peng Seng [2004] SGHC 218. 
+ The multiplier [for future expenses] is determined according to circumstances prevailing at the date of the trial. In relation to future medical expenses, the average life expectancy, rather than the retirement age, would be the measure of the period of the loss : Ang Leng Hock v Leo Ee Ah <span class="citation">[2004] 2 SLR 361</span>; Ho Yiu v Lim Peng Seng <span class="citation">[2004] SGHC 218</span>. 
 
  [emphasis in bold added] 
 
@@ -371,12 +371,12 @@ uses the special mattress and hospital bed”. As made clear in Dr Tow’s evide
 
 35     With respect, I cannot agree with the plaintiff. At the hearing before me, the plaintiff applied to amend his Statement of Claim to claim for provisional damages with respect to future medical expenses. I held that the plaintiff should take out a formal application to amend if he was indeed so minded to include a claim for provisional damages at such a late stage in the proceedings. The plaintiff elected not to take out the formal application. I fail to see how the plaintiff’s own decision not to take out a formal application to amend to include a claim for provisional damages, regardless of whether the defendant was agreeable to such a claim, is relevant in determining the appropriate multiplier to be applied. 
 
-36     The Court of Appeal’s decision in _TV Media Pte Ltd v De Cruz Andrea Heidi and another appeal_ [2004] 3 SLR(R) 543 (“ _TV Media_ ”), a case cited by both parties, is instructive on the appropriate multiplier to be applied in the present case. In _TV Media_ , the trial judge had provided for a multiplier of 34 years in relation to the respondent’s medical expenses, which was two-thirds of the expected remaining 51 years of life. The court surveyed the relevant case authorities and lowered the multiplier to 17 years (see [183] to [185]): 
+36     The Court of Appeal’s decision in _TV Media Pte Ltd v De Cruz Andrea Heidi and another appeal_ <span class="citation">[2004] 3 SLR(R) 543</span> (“ _TV Media_ ”), a case cited by both parties, is instructive on the appropriate multiplier to be applied in the present case. In _TV Media_ , the trial judge had provided for a multiplier of 34 years in relation to the respondent’s medical expenses, which was two-thirds of the expected remaining 51 years of life. The court surveyed the relevant case authorities and lowered the multiplier to 17 years (see [183] to [185]): 
 
- 183 The appellants challenged [the trial judge’s award] and asked that a multiplier of 18 years be awarded. They referred us to several High Court cases in which similar multipliers were given. The first of these is a case which we have referred to earlier in this judgment, Lim Yee Ming v Ubin Lagoon Resort Pte Ltd ([175] supra). The judge provided for a multiplier of 15 years for the 26-year-old plaintiff. In the second case, Ng Song Leng v Soh Kim Seng Engineering & Trading Pte Ltd [1997] SGHC 289, the judge awarded the 29-year-old 
+ 183 The appellants challenged [the trial judge’s award] and asked that a multiplier of 18 years be awarded. They referred us to several High Court cases in which similar multipliers were given. The first of these is a case which we have referred to earlier in this judgment, Lim Yee Ming v Ubin Lagoon Resort Pte Ltd ([175] supra). The judge provided for a multiplier of 15 years for the 26-year-old plaintiff. In the second case, Ng Song Leng v Soh Kim Seng Engineering & Trading Pte Ltd <span class="citation">[1997] SGHC 289</span>, the judge awarded the 29-year-old 
 
 
- plaintiff a multiplier of 17 years. In yet another case, Teo Seng Kiat v Goh Hwa Teck [2003] 1 SLR(R) 333, the judge determined that a multiplier of 18 years was appropriate for the plaintiff, who was 28 years old at the time of the accident. We also had regard to the case of Chen Qingrui v Phua Geok Leng ([176] supra), wherein the female plaintiff aged 18 years was awarded a multiplier of 18 years for nursing care. 
+ plaintiff a multiplier of 17 years. In yet another case, Teo Seng Kiat v Goh Hwa Teck <span class="citation">[2003] 1 SLR(R) 333</span>, the judge determined that a multiplier of 18 years was appropriate for the plaintiff, who was 28 years old at the time of the accident. We also had regard to the case of Chen Qingrui v Phua Geok Leng ([176] supra), wherein the female plaintiff aged 18 years was awarded a multiplier of 18 years for nursing care. 
 
  1 8 4 We have not come across a case where a multiplier as high as 34 has been awarded, and Andrea was not able to cite us even one instance of such a case. She attempted to argue that this present case presents a unique factual matrix, thus justifying the award of a particularly high multiplier. We are not in the least convinced by this argument since the injuries suffered by the plaintiffs in the cases mentioned above are, at the very least, comparable to Andrea's. 
 
@@ -487,7 +487,7 @@ to incur between $500,000.00 to $600,000.00 in medical expenses for the remainde
 
 Because of these injuries, the plaintiff has endured various complications and ailments, such as osteomyelitis, skin breakdowns, urinary tract infections, loss of sexual function, low blood pressure and major depressive disorder. 
 
-49     The defendant candidly agreed that the plaintiff’s injuries in this case are very similar to, and in fact may even be more serious, as compared to the injuries sustained by the plaintiff in _Cheng Chay Choo (Spinster) v Wong Meng Tuck and Another_ [1992] SGHC 133 (“ _Cheng Chay Choo_ ”). In that case, the plaintiff was awarded $120,000 for pain and suffering for the following injuries: 
+49     The defendant candidly agreed that the plaintiff’s injuries in this case are very similar to, and in fact may even be more serious, as compared to the injuries sustained by the plaintiff in _Cheng Chay Choo (Spinster) v Wong Meng Tuck and Another_ <span class="citation">[1992] SGHC 133</span> (“ _Cheng Chay Choo_ ”). In that case, the plaintiff was awarded $120,000 for pain and suffering for the following injuries: 
 
  (a) fracture/dislocation of 10th thoracic vertebra with complete paralysis below the waist; 
 
@@ -499,7 +499,7 @@ Because of these injuries, the plaintiff has endured various complications and a
 
  (e) fracture transverse process of L1. 
 
-50     Another relevant case cited by both parties is _Kwok Seng Fatt Jeremy v Choy Chee Hau_ [2003] SGHC 308 (“ _Kwok Seng Fatt_ ”). In _Kwok Seng Fatt_ , the plaintiff was awarded $202,000 for the following injuries: 
+50     Another relevant case cited by both parties is _Kwok Seng Fatt Jeremy v Choy Chee Hau_ <span class="citation">[2003] SGHC 308</span> (“ _Kwok Seng Fatt_ ”). In _Kwok Seng Fatt_ , the plaintiff was awarded $202,000 for the following injuries: 
 
  (a) fracture dislocation of T7 vertebra resulting in paralysis below T6; 
 

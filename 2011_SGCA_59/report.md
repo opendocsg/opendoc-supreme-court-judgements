@@ -16,13 +16,13 @@
 
 _Companies_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2011] 1 SLR 568.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2011] 1 SLR 568</span>.] 
 
 4 November 2011 
 
 **Andrew Phang Boon Leong JA (delivering the grounds of decision of the court):** 
 
-1       This is an appeal against the decision of the trial judge (“the Judge”) in _Tang Kin Fei and others v Chang Benety and others_ [2011] 1 SLR 568 (“the Judgment”), where the Judge validated certain resolutions passed at several inquorate directors’ meetings of a company, PPL Shipyard Pte Ltd (“the Company”), under s 392 of the Companies Act (Cap 50, 2006 Rev Ed). We allowed the appeal and now give the detailed grounds for our decision. 
+1       This is an appeal against the decision of the trial judge (“the Judge”) in _Tang Kin Fei and others v Chang Benety and others_ <span class="citation">[2011] 1 SLR 568</span> (“the Judgment”), where the Judge validated certain resolutions passed at several inquorate directors’ meetings of a company, PPL Shipyard Pte Ltd (“the Company”), under s 392 of the Companies Act (Cap 50, 2006 Rev Ed). We allowed the appeal and now give the detailed grounds for our decision. 
 
 **Facts** 
 
@@ -198,7 +198,7 @@ irregularity, it could not be cured under s 392 as this would lead to substantia
 
 30     The Judge held as follows: 
 
- (a) The absence of a quorum was, by statute, only a procedural irregularity. Both the procedural irregularity and the substance of the resolutions must be considered as part of the holistic approach mentioned in The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd [2008] 3 SLR(R) 121 (“ Oriental Insurance ”); 
+ (a) The absence of a quorum was, by statute, only a procedural irregularity. Both the procedural irregularity and the substance of the resolutions must be considered as part of the holistic approach mentioned in The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd <span class="citation">[2008] 3 SLR(R) 121</span> (“ Oriental Insurance ”); 
 
  (b) Where there is a deadlock in the sense that no quorum can be formed for a board meeting, to allow one party to push ahead with its agenda in the absence of the other party wa s prima facie a substantial injustice. It would be for the proposing party to persuade the court why the resolutions should nevertheless be validated; 
 
@@ -248,7 +248,7 @@ irregularity, it could not be cured under s 392 as this would lead to substantia
 
 37     Considering its history, it appears that s 392 balances the twin considerations that proceedings are not invalidated for minor reasons, and that procedural irregularities do not result in unjust situations that cannot be remedied by the courts. Hence, once a court is satisfied that an irregularity is procedural, the only question is whether it results in substantial injustice that cannot be remedied by an order of court. 
 
-38     As noted above, the Appellants argued that the quorum requirement under Art 98 is an expressly negotiated right that gives them an unchallengeable right to create a deadlock. Thus, the lack of quorum in this instance is a substantive irregularity. They relied on this court’s decision in _Thio Keng Poon v Thio Syn Pyn and others and another appeal_ [2010] 3 SLR 143 (“ _Thio Keng Poon_ ”) and other Australian decisions to support their argument that some irregularities, while meeting the description in s 392(1), are nonetheless characterised as substantive breaches. 
+38     As noted above, the Appellants argued that the quorum requirement under Art 98 is an expressly negotiated right that gives them an unchallengeable right to create a deadlock. Thus, the lack of quorum in this instance is a substantive irregularity. They relied on this court’s decision in _Thio Keng Poon v Thio Syn Pyn and others and another appeal_ <span class="citation">[2010] 3 SLR 143</span> (“ _Thio Keng Poon_ ”) and other Australian decisions to support their argument that some irregularities, while meeting the description in s 392(1), are nonetheless characterised as substantive breaches. 
 
 39     The Respondents countered that it was clear from s 392(1) that a lack of quorum is, without more, a procedural irregularity and there was no reason why s 392(1) should not be given its plain meaning. In addition, they stated that the Adjournment irregularity is covered by s 392(1)(b) and is a procedural step which deals with the process of calling meetings and not the substance of the 
 
@@ -280,7 +280,7 @@ Reference may also be made, in this regard, to R P Austin & I M Ramsay, _Ford’
 42     The irregularity in _Thio Keng Poon_ must be viewed in the context of an irregularity regarding an 
 
 
-attempt to remove a director. This court stated that the failure to serve a notice to resign upon that director, as required by the company’s articles of association, was certainly not of the same genre as the irregularities listed in s 392(1). In contrast, in relation to a lack of quorum _per se_ , the Singapore courts have largely, in view of s 392(1)( _a_ ) (reproduced above at [28] and [33])), regarded this as a procedural irregularity (see, for example, _Sum Hong Kum v Li Pin Furniture Industries Pte Ltd_ [1996] 1 SLR(R) 529 (“ _Sum Hong Kum_ ”) at [35], and _Kwa Ban Cheong v Kuan Boon Sek and others_ [2003] 3 SLR(R) 644 at [22]). This is consistent with the approach in Australia (see, for example, _Re Pembury Pty Ltd_ (1991) 4 ACSR 759 at 761 and _Whitehouse v Capital Radio Network Pty Ltd_ [2004] TASSC 12 at [12]). 
+attempt to remove a director. This court stated that the failure to serve a notice to resign upon that director, as required by the company’s articles of association, was certainly not of the same genre as the irregularities listed in s 392(1). In contrast, in relation to a lack of quorum _per se_ , the Singapore courts have largely, in view of s 392(1)( _a_ ) (reproduced above at [28] and [33])), regarded this as a procedural irregularity (see, for example, _Sum Hong Kum v Li Pin Furniture Industries Pte Ltd_ <span class="citation">[1996] 1 SLR(R) 529</span> (“ _Sum Hong Kum_ ”) at [35], and _Kwa Ban Cheong v Kuan Boon Sek and others_ <span class="citation">[2003] 3 SLR(R) 644</span> at [22]). This is consistent with the approach in Australia (see, for example, _Re Pembury Pty Ltd_ (1991) 4 ACSR 759 at 761 and _Whitehouse v Capital Radio Network Pty Ltd_ [2004] TASSC 12 at [12]). 
 
 43     It follows that the Appellants’ contention that the lack of quorum in the present case must be a _substantive_ irregularity merely because the parties had expressly negotiated for a deadlock right cannot be accepted. In _Sum Hong Kum_ , where deadlock rights were also involved in the context of an inquorate meeting, Warren Khoo J (“Khoo J”) correctly found that in view of s 392(1), the lack of a quorum was without more, a procedural irregularity. We respectfully agree with Khoo J and are of the view that the lack of a quorum in the present case is a procedural irregularity. Consequently, the Adjournment irregularity, which arises from the Quorum irregularity, is also procedural. However, this does not mean that the Appellants’ contention was wholly without merit when viewed from the perspective of substance (as opposed merely to form) inasmuch as the court will _not_ validate a _procedural_ irregularity if to do so would be – or is likely − to cause _substantial injustice_ to any person (see s 392(6)( _c_ ) reproduced above at [28]). Put simply, such an approach would achieve, in _substance_ , the _same_ result which the Appellants had sought in any event provided that they could demonstrate that substantial injustice had indeed been suffered by them. And that is an issue to which our attention now turns. 
 
@@ -297,9 +297,9 @@ attempt to remove a director. This court stated that the failure to serve a noti
 
 ## 1. 
 
-[2007] 1 SLR(R) 940, this court held at [54] that that the determination of substantial injustice under s 392 involved _“a holistic weighing and balancing_ of the _various interests_ of _all_ the relevant parties _”_ [emphasis added]_._ This holding was endorsed in _Oriental Insurance_ at [106]. 
+<span class="citation">[2007] 1 SLR(R) 940</span>, this court held at [54] that that the determination of substantial injustice under s 392 involved _“a holistic weighing and balancing_ of the _various interests_ of _all_ the relevant parties _”_ [emphasis added]_._ This holding was endorsed in _Oriental Insurance_ at [106]. 
 
-47     In _Re Goodwealth_ [1990] 2 SLR(R) 691 (“ _Re Goodwealth Trading Pte Ltd_ ”), a minority shareholder petitioned to wind up the company. In response, the majority shareholder sought to hold a board meeting to appoint solicitors to represent the company in order to strike out the petition. The minority shareholder and director employed the defensive tactic of not attending the board meeting, which resulted in a deadlock. This court held the lack of quorum caused substantial injustice as it resulted in disputed decisions, namely the appointment of solicitors to represent the company, being taken by one of only two shareholder groups in a company to the exclusion and possible disadvantage of the other shareholder. 
+47     In _Re Goodwealth_ <span class="citation">[1990] 2 SLR(R) 691</span> (“ _Re Goodwealth Trading Pte Ltd_ ”), a minority shareholder petitioned to wind up the company. In response, the majority shareholder sought to hold a board meeting to appoint solicitors to represent the company in order to strike out the petition. The minority shareholder and director employed the defensive tactic of not attending the board meeting, which resulted in a deadlock. This court held the lack of quorum caused substantial injustice as it resulted in disputed decisions, namely the appointment of solicitors to represent the company, being taken by one of only two shareholder groups in a company to the exclusion and possible disadvantage of the other shareholder. 
 
 48     It bears noting that the quorum requirement in the present case was not merely an ordinary one specifying a minimum _number_ as such but also one which related, in fact, to the issue of _representation_ on the board of directors. This requirement was to ensure that parties would have their interests represented at board meetings and could thus prevent the Company from making any decision which would prejudice them. The importance of this requirement is evident as it was not only provided for in the articles of association but enshrined in the Shareholders’ Agreement as well. In our view, where such a quorum requirement is breached, there will _prima facie_ be substantial injustice to the side which exercised its deadlock rights. 
 

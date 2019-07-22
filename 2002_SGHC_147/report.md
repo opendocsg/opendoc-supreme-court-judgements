@@ -89,7 +89,7 @@ intention to repatriate Yani back to Indonesia, there was no evidence that Yani 
 
 _The appeal_ 
 
-13\. In this appeal, the bulk of the appellant’s challenges were directed towards the district judge’s findings of fact. The principles governing an appellate court’s role in reviewing a trial judge’s findings of fact are well-settled. In _PP v Azman bin Abdullah_ [1998] 2 SLR 704 at 21, I made the following observations : 
+13\. In this appeal, the bulk of the appellant’s challenges were directed towards the district judge’s findings of fact. The principles governing an appellate court’s role in reviewing a trial judge’s findings of fact are well-settled. In _PP v Azman bin Abdullah_ <span class="citation">[1998] 2 SLR 704</span> at 21, I made the following observations : 
 
  It is well-settled law that in any appeal against a finding of fact, an appellate court will generally defer to the conclusion of the trial judge who has had the opportunity to see and assess the credibility of the witnesses. An appellate court, if it wishes to reverse the trial judge’s decision, must not merely entertain doubts whether the decision is right but must be convinced that it is wrong : see PP v Poh Oh Sim [1990] SLR 1047 [emphasis added]. 
 

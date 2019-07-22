@@ -61,7 +61,7 @@ No leave of court was obtained for the filing of the appeal as it was not requir
 
 10     It is to be observed that the judge referred to the award of $1,660 that the defendant was appealing against rather than the sum the plaintiff had claimed (which was not disclosed in the judgment, and may have exceeded $2,000) in coming to the conclusion that leave to appeal was required. 
 
-11     The second case is a decision of the Court of Appeal in _Augustine v Goh Siam Yong_ [1992] 1 SLR 767. In this case, the plaintiff was awarded damages of $4,780.89 by a deputy registrar of the Subordinate Courts. The matter was brought on appeal by the defendant before a district judge in chambers, who reduced the award to $1,177.50. The plaintiff sought to appeal to the High Court against the reduction, but the defendant contended that the plaintiff had no right of appeal on 
+11     The second case is a decision of the Court of Appeal in _Augustine v Goh Siam Yong_ <span class="citation">[1992] 1 SLR 767</span>. In this case, the plaintiff was awarded damages of $4,780.89 by a deputy registrar of the Subordinate Courts. The matter was brought on appeal by the defendant before a district judge in chambers, who reduced the award to $1,177.50. The plaintiff sought to appeal to the High Court against the reduction, but the defendant contended that the plaintiff had no right of appeal on 
 
 
 the ground, _inter alia_ , that leave was required under s 21 of the Act to appeal as the amount in dispute was less than $2,000. Chan Sek Keong J ruled in favour of the plaintiff. The defendant appealed against that ruling. Yong Pung How CJ, in delivering the decision of the Court of Appeal, dismissed the appeal and explained at 771, [12]: 
@@ -70,7 +70,7 @@ the ground, _inter alia_ , that leave was required under s 21 of the Act to appe
 
 12     It is important to note that the $3,603.39 referred to was neither the sum claimed by the plaintiff nor the sum awarded by the district judge, and was the sum in dispute in the appeal. The plaintiff was seeking to have the district judge’s award of $1,177.50 set aside, and the deputy registrar’s award of $4,780.89 reinstated. To put it simply, he was appealing to get $3,603.39 more than he was awarded by the district judge. 
 
-13     The third relevant decision is _Sethuraman Arumugam v Star Furniture Industries Pte Ltd_ [1999] SGHC 144 where I set out my views on the effect of s 21(1). I stated in [17] and [18]: 
+13     The third relevant decision is _Sethuraman Arumugam v Star Furniture Industries Pte Ltd_ <span class="citation">[1999] SGHC 144</span> where I set out my views on the effect of s 21(1). I stated in [17] and [18]: 
 
  What is the purpose or object of s 21(1)? Minister of Law Professor S Jayakumar during the Second Reading of the Supreme Court of Judicature (Amendment) Bill which led to the amendment [of the threshold limit to $50,000] explained that: 
 
@@ -78,7 +78,7 @@ the ground, _inter alia_ , that leave was required under s 21 of the Act to appe
 
  It can be argued that in keeping with that reason, the threshold limit should apply to the amount in dispute in the appeal , rather than the amount in dispute in the original claim. A strict construction of s 21(1) can lead to anomalous results. When a claim for $30,000 is dismissed, leave to appeal is required before the High Court will hear the appeal because the High Court will be dealing with a dispute involving a claim of $30,000. When $30,000 is allowed on a claim for $60,000, an appeal will also involve a sum of $30,000 whether the plaintiff or defendant appeals, but on a strict construction, no leave is required. As leave is required in the first situation, leave should also be required in the second situation. The object of setting the threshold limit is not promoted when appeals involving sums below the limit are allowed to proceed without leave. [emphasis in original] 
 
-14     In the fourth case, _Abdul Rahman bin Shariff v Abdul Salim bin Syed_ [1999] 4 SLR 716, the plaintiff filed a claim for $50,000 and damages. After the claim was heard before a district judge, judgment was entered for $50,000 and interest at 6% per annum thereon till judgment and costs. The defendant applied for leave to appeal under s 21(1) of the Act (the threshold amount had been increased to $50,000 by that time). After his application was dismissed by a district judge, he applied to the High Court for a declaration that as the amount in dispute in the appeal (being $50,000, interest and costs) exceeded the threshold figure of $50,000, leave was not required. 
+14     In the fourth case, _Abdul Rahman bin Shariff v Abdul Salim bin Syed_ <span class="citation">[1999] 4 SLR 716</span>, the plaintiff filed a claim for $50,000 and damages. After the claim was heard before a district judge, judgment was entered for $50,000 and interest at 6% per annum thereon till judgment and costs. The defendant applied for leave to appeal under s 21(1) of the Act (the threshold amount had been increased to $50,000 by that time). After his application was dismissed by a district judge, he applied to the High Court for a declaration that as the amount in dispute in the appeal (being $50,000, interest and costs) exceeded the threshold figure of $50,000, leave was not required. 
 
 15     Tay Yong Kwang JC (as he was then) ruled in [26]: 
 
@@ -89,7 +89,7 @@ the ground, _inter alia_ , that leave was required under s 21 of the Act to appe
 
 He adopted the same approach as that taken in _Sethuraman Arumugam v Star Furniture Industries Pte Ltd_ in looking at the amount in dispute in the appeal to determine if leave was necessary. 
 
-16     The final case for consideration is _Hua Sheng Tao v Welltech Construction Pte Ltd_ [2003] 2 SLR 137, an industrial accident case. In this case, the plaintiff had filed a claim for $188,872.89. A district judge heard the claim and entered judgment for $35,923.43 against the second defendant. Both the plaintiff and the second defendant appealed against the judgment. The question arose whether they needed leave to appeal under s 21(1). Choo Han Teck J ruled that the plaintiff did not require leave but the defendant needed leave. 
+16     The final case for consideration is _Hua Sheng Tao v Welltech Construction Pte Ltd_ <span class="citation">[2003] 2 SLR 137</span>, an industrial accident case. In this case, the plaintiff had filed a claim for $188,872.89. A district judge heard the claim and entered judgment for $35,923.43 against the second defendant. Both the plaintiff and the second defendant appealed against the judgment. The question arose whether they needed leave to appeal under s 21(1). Choo Han Teck J ruled that the plaintiff did not require leave but the defendant needed leave. 
 
 17     Choo J held at [3]: 
 
@@ -101,7 +101,7 @@ He adopted the same approach as that taken in _Sethuraman Arumugam v Star Furnit
 
 and at [8]: 
 
- It will not be right to take the difference between the amount claimed and the amount awarded to see if the figure exceeds $50,000 because that goes against the plain reading of s 21(1) and is inconsistent with the Court of Appeal’s decision in Tan Chiang Brother’s Marble (S) Pte Ltd v Permasteelisa Pacific Holdings Ltd [2002] 2 SLR 225. Furthermore, on appeal, the entire dispute may have to be re-examined and the amount in dispute that is being re-examined must obviously be the amount in dispute at the trial below. 
+ It will not be right to take the difference between the amount claimed and the amount awarded to see if the figure exceeds $50,000 because that goes against the plain reading of s 21(1) and is inconsistent with the Court of Appeal’s decision in Tan Chiang Brother’s Marble (S) Pte Ltd v Permasteelisa Pacific Holdings Ltd <span class="citation">[2002] 2 SLR 225</span>. Furthermore, on appeal, the entire dispute may have to be re-examined and the amount in dispute that is being re-examined must obviously be the amount in dispute at the trial below. 
 
 The decision in _Tan Chiang Brother’s Marble (S) Pte Ltd v Permasteelisa Pacific Holdings Ltd_ , which will be considered later in this judgment, is that the operative amount is the amount claimed at the trial. 
 
@@ -136,7 +136,7 @@ and ruled that the plaintiff did not require leave to appeal since the statutory
 
  [emphasis added] 
 
-23     The Court rejected the view expressed in _Twin Enterprises v Lim Heng Wah Peter_ [2000] SGHC 288 at [32] that: 
+23     The Court rejected the view expressed in _Twin Enterprises v Lim Heng Wah Peter_ <span class="citation">[2000] SGHC 288</span> at [32] that: 
 
  Although the said section [s 34(2)( a )] bespeaks the value of subject matter at the trial it is also 
 

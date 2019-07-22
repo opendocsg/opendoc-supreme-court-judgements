@@ -175,7 +175,7 @@ That order also required Beng Tiong to pay c osts to various parties. Beng Tiong
 
 Thirteenth Defendant in Beng Tiong’s ac tion. Mr Menon also ac ted for Quresh who is the Sixth Defendant in the same ac tion. Mr Menon said that various persons c laiming to be benefic iaries had purportedly sold their interests in the estate of the Testator to various parties. 
 
-19     Mr Menon submitted that the Consent was invalid for various reasons. I need only deal with his main reason whic h is that the Court of Appeal had dec ided that the Consent had been fatally impinged in _Lee Siong Kee v Beng Tiong Trading Import and Export (1988) Pte Ltd_ [2000] 4 SLR 559. This demonstrated that the 1999 Order was wrongly made. 
+19     Mr Menon submitted that the Consent was invalid for various reasons. I need only deal with his main reason whic h is that the Court of Appeal had dec ided that the Consent had been fatally impinged in _Lee Siong Kee v Beng Tiong Trading Import and Export (1988) Pte Ltd_ <span class="citation">[2000] 4 SLR 559</span>. This demonstrated that the 1999 Order was wrongly made. 
 
 20     Sec ondly, he submitted that Lee JC’s 2002 Order had impliedly over-ruled the 1999 Order sinc e the Public Trustee c ould now sell the Properties free from all enc umbranc es. He submitted that Lee JC’s 2002 Order was c ontrary to the 1999 Order and Beng Tiong had not appealed against Lee JC’s 2002 Order even though it had objec ted to the applic ation for an order empowering the Public Trustee to sell the Properties. 
 

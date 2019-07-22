@@ -174,7 +174,7 @@ court must take into account all relevant matters but has the discretion in weig
 
 16     With regard to the issue of the wife’s maintenance, it was stated in cl 7.2.1 that the wife’s maintenance would be “subject to review” in the event that there is a “material change in the Husband’s financial circumstances”. However, the Deed contemplated a change with respect to the maintenance of the wife only, and not the children. As such, a unilateral reduction of the children’s maintenance would be a breach of the Deed. 
 
-17     It can be said that the mere fact that the parties had executed a Deed did not mean it was the be-all and end-all. In _TQ v TR and another appeal_ [2009] 2 SLR(R) 961 (“ _TQ v TR_ ”), it was held: 
+17     It can be said that the mere fact that the parties had executed a Deed did not mean it was the be-all and end-all. In _TQ v TR and another appeal_ <span class="citation">[2009] 2 SLR(R) 961</span> (“ _TQ v TR_ ”), it was held: 
 
  73 It is clear, in our view, that as the ultimate power resides in the court to order the division of matrimonial assets ‘in such proportions as the court thinks just and equitable ’ ... a prenuptial agreement cannot be construed in such a manner as to detract from this ultimate power. However, this does not mean that such a prenuptial agreement cannot (where relevant ) be utilised to aid the court in exercising its power pursuant to s 112 of the Act. 
 
@@ -308,7 +308,7 @@ as 2002, and the husband would have had knowledge of an imminent buy-out at the 
 
  receive “25% shares in the company”. The second e-mail clarified that “the shares for [the husband were] not share transfers but stock options”. Other than those two brief e-mails, there was no discovery of any e-mail, memorandum, letter or minute evidencing discussions or negotiations between the husband and [K] Asia or [K] Holdings or the latter’s board decision to give the husband the stock option. 
 
-41     The Court of Appeal in _Wee Ah Lian v Teo Siak Weng_ [1992] 1 SLR(R) 347 held that full and frank disclosure was paramount and that, in its absence, the court was entitled to draw inferences adverse to the party who failed to comply. There have been many instances where the court had chosen to disbelieve a party owing to a lack of full and frank disclosure by that party, and demonstrated its readiness to make adverse inferences against the errant party, such as in _Koo Shirley v Mok Kong Chua Kenneth_ [1989] 1 SLR(R) 244, as well as _Tan Siew Eng (alias Tan Siew Eng Irene) v Ng Meng Hin_ [2003] 3 SLR(R) 474, _inter alia_. 
+41     The Court of Appeal in _Wee Ah Lian v Teo Siak Weng_ <span class="citation">[1992] 1 SLR(R) 347</span> held that full and frank disclosure was paramount and that, in its absence, the court was entitled to draw inferences adverse to the party who failed to comply. There have been many instances where the court had chosen to disbelieve a party owing to a lack of full and frank disclosure by that party, and demonstrated its readiness to make adverse inferences against the errant party, such as in _Koo Shirley v Mok Kong Chua Kenneth_ <span class="citation">[1989] 1 SLR(R) 244</span>, as well as _Tan Siew Eng (alias Tan Siew Eng Irene) v Ng Meng Hin_ <span class="citation">[2003] 3 SLR(R) 474</span>, _inter alia_. 
 
 42     The husband had ignored his duty of full and frank disclosure time and again in the proceedings. I did not accept his argument that his failure to disclose his assets, when he filed his AAMs and when asked by the district judge below, was due to his belief that the assets were irrelevant, the stock option having been granted after the execution of the Deed. Clearly, the assets fell within s 112(10) ( _b_ ) of the Act and he ought to have disclosed the existence of the assets while maintaining that they ought to be excluded as matrimonial assets under cl 11 of the Deed. 
 
@@ -337,7 +337,7 @@ as 2002, and the husband would have had knowledge of an imminent buy-out at the 
 
  ... could not have arrived at his advantageous position at [the company] as a ‘key employee’ without the prior concentration of his time, energies, and labor [ sic ] in the computer industry. From the evidence presented it is clear that his concerted effort was aided significantly by the [wife] who helped to further his career ... 
 
-It was even held that the unvested stock options were part of the marital estate and were subject to equitable distribution between the spouses. This reasoning was adopted by our Court of Appeal in _Chan Teck Hock David v Leong Mei Chuan_ [2002] 1 SLR(R) 76. 
+It was even held that the unvested stock options were part of the marital estate and were subject to equitable distribution between the spouses. This reasoning was adopted by our Court of Appeal in _Chan Teck Hock David v Leong Mei Chuan_ <span class="citation">[2002] 1 SLR(R) 76</span>. 
 
 51     The reasoning in _Grich_ is apropos in the present case. The wife was supportive of her husband’s 
 

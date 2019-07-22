@@ -177,7 +177,7 @@ liquidators, [note: 12] the inference must be that they had been sold by the Com
 
  7 Bank of Baroda Standard Chartered Bank (Singapore) Limited 
 
-_voluntary liquidation)) v Chay Fook Yuen (in his capacity as joint and several liquidator of MF Global Singapore Pte Ltd (in creditors’ voluntary liquidation)) and others and other appeals_ [2016] 4 SLR 1248 (“ _Vintage Bullion_ ”) at [64]–[66]. Having decided the substantive issues in Vintage’s favour, the Court of Appeal ordered that costs follow the event such that Vintage’s costs were to be paid out of the liquidation estate. Its reasons were: 
+_voluntary liquidation)) v Chay Fook Yuen (in his capacity as joint and several liquidator of MF Global Singapore Pte Ltd (in creditors’ voluntary liquidation)) and others and other appeals_ <span class="citation">[2016] 4 SLR 1248</span> (“ _Vintage Bullion_ ”) at [64]–[66]. Having decided the substantive issues in Vintage’s favour, the Court of Appeal ordered that costs follow the event such that Vintage’s costs were to be paid out of the liquidation estate. Its reasons were: 
 
  (a) It was inappropriate for Vintage’s costs to be borne out of the disputed subject matter because the proceedings concerned rival claims between the company and its customers rather than the isolated administration of a trust fund; 
 

@@ -20,13 +20,13 @@ _Equity_
 
 _Trusts_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2009] SGHC 87.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2009] SGHC 87</span>.] 
 
 19 August 2010 Judgment reserved. 
 
 **Chan Sek Keong CJ (delivering the judgment of the court):** 
 
-1       These are three related appeals against the decisions of the High Court Judge (“the Judge”) in Suit No 163 of 2008 (“Suit 163/2008”) (see _Koh Joo Ann (alias Koh Choon Teck) v First Grade Agency Pte Ltd_ [2009] SGHC 87 (“the GD”)). Suit 163/2008 concerned the beneficial ownership of a strata unit known as 88 Stevens Road, Stevens Court, #02-02, Singapore 257865 (“the Property”), which is registered in the name of Koh Joo Ann (“Koh”). On 22 August 2007, First Grade Agency Pte Ltd (“First Grade”) lodged a caveat against the Property (“the Caveat”) on the basis that Koh held the Property on trust and that the legal title to the Property was to be transferred by Koh upon demand. In Suit 163/2008, Koh sought, _inter alia_ , the removal of the Caveat and a declaration that Koh is the beneficial owner of the Property (“the Declaration”). First Grade and another company, Inhil Investment Pte Ltd (“Inhil”), counterclaimed for an order for Koh to transfer the Property to a third company, Yeo Siak Hor Pte Ltd (“YSHPL”), or such other nominee as may be nominated. 
+1       These are three related appeals against the decisions of the High Court Judge (“the Judge”) in Suit No 163 of 2008 (“Suit 163/2008”) (see _Koh Joo Ann (alias Koh Choon Teck) v First Grade Agency Pte Ltd_ <span class="citation">[2009] SGHC 87</span> (“the GD”)). Suit 163/2008 concerned the beneficial ownership of a strata unit known as 88 Stevens Road, Stevens Court, #02-02, Singapore 257865 (“the Property”), which is registered in the name of Koh Joo Ann (“Koh”). On 22 August 2007, First Grade Agency Pte Ltd (“First Grade”) lodged a caveat against the Property (“the Caveat”) on the basis that Koh held the Property on trust and that the legal title to the Property was to be transferred by Koh upon demand. In Suit 163/2008, Koh sought, _inter alia_ , the removal of the Caveat and a declaration that Koh is the beneficial owner of the Property (“the Declaration”). First Grade and another company, Inhil Investment Pte Ltd (“Inhil”), counterclaimed for an order for Koh to transfer the Property to a third company, Yeo Siak Hor Pte Ltd (“YSHPL”), or such other nominee as may be nominated. 
 
 2       The appeals before this court are as follows: 
 
@@ -169,22 +169,22 @@ relevant authorities at the material time.
 
  (b) The agreement concluded at the 25 August 2004 Meeting was supported by consideration as Koh had agreed to relinquish the Property in exchange for Tay Juhana procuring Koh’s release as a guarantor for the loans from BNI to the Sambu Group (“ground (b)”). 
 
- (c) The agreement concluded at the 25 August 2004 Meeting would be a cause of action independent of any illegality (referring to Tinsley v Milligan [1994] 1 AC 340, Geoffrey Silverwood (Executor of the Estate of Daisy Silverwood) v Arnold Silverwood, Andrew Silverwood and Gillian Whiteley (1997) 74 P & CR 453 and American Home Assurance Co v Hong Lam Marine Pte Ltd [1999] 2 SLR(R) 992) (“ground (c)”). 
+ (c) The agreement concluded at the 25 August 2004 Meeting would be a cause of action independent of any illegality (referring to Tinsley v Milligan [1994] 1 AC 340, Geoffrey Silverwood (Executor of the Estate of Daisy Silverwood) v Arnold Silverwood, Andrew Silverwood and Gillian Whiteley (1997) 74 P & CR 453 and American Home Assurance Co v Hong Lam Marine Pte Ltd <span class="citation">[1999] 2 SLR(R) 992</span>) (“ground (c)”). 
 
- (d) The Judge was wrong to find that Inhil was a foreign person because Tay Juhana was in control of Inhil as it is only in exceptional circumstances that the corporate veil would be lifted (referring to Thode Gerd Walter v Mintwell Industry Pte Ltd and Others [2009] SGHC 44) (“ground (d)”). 
+ (d) The Judge was wrong to find that Inhil was a foreign person because Tay Juhana was in control of Inhil as it is only in exceptional circumstances that the corporate veil would be lifted (referring to Thode Gerd Walter v Mintwell Industry Pte Ltd and Others <span class="citation">[2009] SGHC 44</span>) (“ground (d)”). 
 
  (e) The Judge was wrong to find that Koh was entitled to the beneficial ownership of the Property for the following reasons (“ground (e)”): 
 
  (i) there was no provision in the RPA to such effect; 
 
- (ii) if the trust over the Property in favour of Tay Juhana was null and void, an automatic resulting trust in favour of Inhil would arise (referring to Re Sick and Funeral Society of St John’s Sunday School, Golcar [1973] 1 Ch 51, Vandervell v Inland Revenue Commissioners [1967] 2 AC 291, Air Jamaica Ltd and Others v Joy Charlton and Others [1999] 1 WLR 1399, Rowan v Dann (1992) 64 P & CR 202, Re Vandervell’s Trust (No 2) [1974] 1 Ch 269, Lau Siew Kim v Yeo Guan Chye Terence and another [2008] 2 SLR(R) 108, and Hurndell v Hozier and another [2008] 2 All ER (D) 285 (Mar)); and 
+ (ii) if the trust over the Property in favour of Tay Juhana was null and void, an automatic resulting trust in favour of Inhil would arise (referring to Re Sick and Funeral Society of St John’s Sunday School, Golcar [1973] 1 Ch 51, Vandervell v Inland Revenue Commissioners [1967] 2 AC 291, Air Jamaica Ltd and Others v Joy Charlton and Others [1999] 1 WLR 1399, Rowan v Dann (1992) 64 P & CR 202, Re Vandervell’s Trust (No 2) [1974] 1 Ch 269, Lau Siew Kim v Yeo Guan Chye Terence and another <span class="citation">[2008] 2 SLR(R) 108</span>, and Hurndell v Hozier and another [2008] 2 All ER (D) 285 (Mar)); and 
 
- (iii) such a resulting trust would not be prohibited by the RPA having regard to the policy behind the RPA; the RPA merely prohibits resulting trusts in favour of a foreign person and at no time was Inhil a foreign person under the RPA (referring to Sitiawah Bee bte Kader v Rosiyah bte Abdullah [1999] 3 SLR(R) 606, Tan Chiu Lian v Neo Liew Eng [2007] 1 SLR(R) 265, Cheong Yuke Kuen and others v Cheong Kwok Kiong [1999] 1 SLR(R) 1126, and Neo Boh Tan v Ng Kim Whatt [2000] SGHC 31). 
+ (iii) such a resulting trust would not be prohibited by the RPA having regard to the policy behind the RPA; the RPA merely prohibits resulting trusts in favour of a foreign person and at no time was Inhil a foreign person under the RPA (referring to Sitiawah Bee bte Kader v Rosiyah bte Abdullah <span class="citation">[1999] 3 SLR(R) 606</span>, Tan Chiu Lian v Neo Liew Eng <span class="citation">[2007] 1 SLR(R) 265</span>, Cheong Yuke Kuen and others v Cheong Kwok Kiong <span class="citation">[1999] 1 SLR(R) 1126</span>, and Neo Boh Tan v Ng Kim Whatt <span class="citation">[2000] SGHC 31</span>). 
 
  (f) It would be contrary to public policy for Koh to obtain a beneficial interest from a failed illegal trust arrangement, to which he was a willing participant (referring to Taylor v Chester (1869) LR 4 QB 309, Nelson and another v Nelson and others (1995) 184 CLR 538 at 554 and 
 
 
- Public Prosecutor v Intra Group (Holdings) Co Inc [1999] 1 SLR(R) 154) (“ground (f)”). 
+ Public Prosecutor v Intra Group (Holdings) Co Inc <span class="citation">[1999] 1 SLR(R) 154</span>) (“ground (f)”). 
 
 17     Our decisions on each of the grounds set out above at [16] are as follows: 
 
@@ -219,7 +219,7 @@ registered in his name and that until First Grade lodged the Caveat against the 
 
 22     The Judge found that Koh was not the beneficial owner of the Property because he had not satisfactorily explained why he did not: (a) have possession of the SSCT, (b) pay the outgoings, (c) have the keys to the Property, (d) use the Property or even rent out the Property, and (e) move Maigawaty into the Property. It followed that if Koh did not own the Property beneficially, someone else did, and, in the Judge’s view, that person was Tay Juhana because he controlled the Sambu Group. 
 
-23     With respect, we cannot agree with this conclusion for a number of reasons. The first is that none of the Appellants gave evidence to contradict the evidence of Koh that Tay Juhana had told Koh that a property in Stevens Court would be given to him. The Appellants who were parties in this action, _viz_ , First Grade and Inhil, rested their allegations on a submission of no case to answer. The law on such a submission is established (see _Lim Swee Kiang and another v Borden Co (Pte) Ltd and others_ [2005] 4 SLR(R) 141 and the authorities cited therein). The Judge found that Koh did not have the beneficial title to the Property because his explanations on what he did not do with the Property were not satisfactory (see the passages set out at [7] above). In our view, even assuming that Koh had the burden of proof (which is not the case here), Koh’s explanations as to why he did not occupy the Property was not incredible. We would further point out: 
+23     With respect, we cannot agree with this conclusion for a number of reasons. The first is that none of the Appellants gave evidence to contradict the evidence of Koh that Tay Juhana had told Koh that a property in Stevens Court would be given to him. The Appellants who were parties in this action, _viz_ , First Grade and Inhil, rested their allegations on a submission of no case to answer. The law on such a submission is established (see _Lim Swee Kiang and another v Borden Co (Pte) Ltd and others_ <span class="citation">[2005] 4 SLR(R) 141</span> and the authorities cited therein). The Judge found that Koh did not have the beneficial title to the Property because his explanations on what he did not do with the Property were not satisfactory (see the passages set out at [7] above). In our view, even assuming that Koh had the burden of proof (which is not the case here), Koh’s explanations as to why he did not occupy the Property was not incredible. We would further point out: 
 
  (a) The Property had been given to Koh and he could have done as he pleased with it. 
 

@@ -259,7 +259,7 @@ Annie was killed. Why should he have the phobia that the Police were bugging his
 
 66\. In the premises, we were satisfied that there was solid evidence to substantiate the charge against Anthony beyond a reasonable doubt. Accordingly, we affirmed the conviction and sentence. 
 
-67\. In passing, we would observe that the present case involved a finding of fact by the trial court that Anthony did instigate Z into killing Annie. It is trite law that an appellate court, which does not have the advantage of hearing the witnesses and observing their demeanour, will not disturb a lower court’s findings of fact unless they are clearly wrong and against the weight of the evidence: see _Lim Ah Poh v PP_ [1992] 1 SLR 713. 
+67\. In passing, we would observe that the present case involved a finding of fact by the trial court that Anthony did instigate Z into killing Annie. It is trite law that an appellate court, which does not have the advantage of hearing the witnesses and observing their demeanour, will not disturb a lower court’s findings of fact unless they are clearly wrong and against the weight of the evidence: see _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span>. 
 
 Sgd: 
 

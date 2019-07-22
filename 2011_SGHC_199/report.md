@@ -219,7 +219,7 @@ Mr Chu prepared the draft option by inserting the material partic ulars in the d
 
 It c an be seen that the sec tion has three requirements. The first is that there is some written evidenc e of the c ontrac t. The sec ond is that the material terms of the c ontrac t are inc luded in the writing. The third is that the writing is signed by the party to be c harged. 
 
-41     It is c ommon ground that s 6(d) is applic able in the present c ase as an option for the purc hase of property c reates in favour of the option holder an equitable interest in the land be sold: see _Joseph Mathew v Singh Chiranjeev_ [2010] 1 SLR(R) 338 (“ _Joseph Mathew_ ”). 
+41     It is c ommon ground that s 6(d) is applic able in the present c ase as an option for the purc hase of property c reates in favour of the option holder an equitable interest in the land be sold: see _Joseph Mathew v Singh Chiranjeev_ <span class="citation">[2010] 1 SLR(R) 338</span> (“ _Joseph Mathew_ ”). 
 
 42     The plaintiff pleads at para 18 of the amended statement of c laim that s 6(d) is satisfied by a c ombination of the following memoranda: 
 

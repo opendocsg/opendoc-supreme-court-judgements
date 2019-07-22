@@ -98,7 +98,7 @@ para 16.63:
 
 or otherwise. [note: 11] 
 
-13     The defendant referred to _Attorney-General v Joo Yee Construction Pte Ltd (in liquidation)_ [1992] 2 SLR(R) 165 (“ _Joo Yee Construction_ ”) where it was held at [14] that: 
+13     The defendant referred to _Attorney-General v Joo Yee Construction Pte Ltd (in liquidation)_ <span class="citation">[1992] 2 SLR(R) 165</span> (“ _Joo Yee Construction_ ”) where it was held at [14] that: 
 
  ... a c ourt will not undertake to dec ide on issues, whic h if dec ided in the appellant's favour, will not gain him “something whic h he would not gain if he lost”, and will not dec ide on issues simply to have a dec ision that will be useful for similar c ases in the future. 
 
@@ -150,7 +150,7 @@ basis for it to apply to set aside the AD. [note: 12] In this regard, the defend
 
  (c ) Ac c ordingly, the plaintiff, being the c laimant in the adjudic ation applic ation, c annot avail himself of s 27(5) to make the present applic ation. 
 
-19     As it turned out, this fac et of the dispute is now moot as the Court of Appeal has held in _Citiwall Safety Glass Pte Ltd v Mansource Interior Pte Ltd_ [2014] SGCA 61 (“ _Citiwall_ ”), a judgment that was handed down on 27 November 2014 _after_ I heard the parties, that a c ourt exerc ises its supervisory jurisdic tion in hearing and determining an applic ation to set aside an adjudic ation determination ( _Citiwall_ at [41]). It is unthinkable that this jurisdic tion is only exerc isable when the respondent makes the applic ation, and in any event, it is plain from s 27(5) that “ _any party to an adjudication_ ” may apply to set aside an adjudic ation determination. 
+19     As it turned out, this fac et of the dispute is now moot as the Court of Appeal has held in _Citiwall Safety Glass Pte Ltd v Mansource Interior Pte Ltd_ <span class="citation">[2014] SGCA 61</span> (“ _Citiwall_ ”), a judgment that was handed down on 27 November 2014 _after_ I heard the parties, that a c ourt exerc ises its supervisory jurisdic tion in hearing and determining an applic ation to set aside an adjudic ation determination ( _Citiwall_ at [41]). It is unthinkable that this jurisdic tion is only exerc isable when the respondent makes the applic ation, and in any event, it is plain from s 27(5) that “ _any party to an adjudication_ ” may apply to set aside an adjudic ation determination. 
 
 20     For c ompleteness, I will also deal with the question whether the plaintiff has to make payment into c ourt as sec urity for the unpaid portion of the Sum pursuant to s 27(5) of the SOPA. The plaintiff had taken the view that it did not need to do so as the “adjudic ated amount” refers to an amount 
 

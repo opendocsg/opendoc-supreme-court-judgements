@@ -85,7 +85,7 @@ Whilst the application is drafted in general terms, before me, counsel for the L
 14     The extent and purpose of s 285 of the Act have been considered on several occasions by the 
 
 
-court. The leading authorities in Singapore are _Liquidator of W&P Piling Pte Ltd v Chew Yin What and others_ [2004] 3 SLR(R) 164 (“ _W&P Piling_ ”) and _Re Lion City Holdings Pte Ltd_ [2003] 3 SLR(R) 493. Foreign judgments on similar legislation which have been found persuasive in Singapore include _Re British & Commonwealth Holdings plc v Spicer and Oppenheim_ [1993] 1 AC 426 (“ _British & Commonwealth_ ”) and _In Re Rolls Razor Ltd (No 2)_ [1970] 1 Ch 576. 
+court. The leading authorities in Singapore are _Liquidator of W&P Piling Pte Ltd v Chew Yin What and others_ <span class="citation">[2004] 3 SLR(R) 164</span> (“ _W&P Piling_ ”) and _Re Lion City Holdings Pte Ltd_ <span class="citation">[2003] 3 SLR(R) 493</span>. Foreign judgments on similar legislation which have been found persuasive in Singapore include _Re British & Commonwealth Holdings plc v Spicer and Oppenheim_ [1993] 1 AC 426 (“ _British & Commonwealth_ ”) and _In Re Rolls Razor Ltd (No 2)_ [1970] 1 Ch 576. 
 
 15     The Singapore courts have adopted an expansive approach towards s 285. As emphasised by V K Rajah JC in _W&P Piling_ , the legislative policy behind s 285 was that the power given by the section should be used to assist the liquidator in accumulating facts, information and knowledge that would enable him to discharge his statutory duties. The judge pointed out that s 285 is couched in extremely generous terms and should not be interpreted in a constricted manner. Whilst it cannot be used for a collateral purpose that affords no benefit to the company, it may be invoked for any proper purpose that would benefit the company and which is within the statutory powers of the liquidator and the scheme of the legislation. 
 
@@ -231,7 +231,7 @@ Ms Hing submits that similar access and work would have been given and performed
 
 **_Is the Liquidator objective?_** 
 
-27     PwC submits that the Liquidator is not exercising his power under s 285 for a proper purpose. Citing _Korea Asset Management Corp v Daewoo Singapore Pte Ltd (in liquidation)_ [2004] 1 SLR(R) 671 (“ _KAMC_ ”), PwC asserts that any liquidator making such an application should be seen to be properly wearing the mantle of objective neutrality untarnished by any special interest, including considerations of his own fee. In this case, the Liquidator does not meet this standard because: 
+27     PwC submits that the Liquidator is not exercising his power under s 285 for a proper purpose. Citing _Korea Asset Management Corp v Daewoo Singapore Pte Ltd (in liquidation)_ <span class="citation">[2004] 1 SLR(R) 671</span> (“ _KAMC_ ”), PwC asserts that any liquidator making such an application should be seen to be properly wearing the mantle of objective neutrality untarnished by any special interest, including considerations of his own fee. In this case, the Liquidator does not meet this standard because: 
 
  (a) he is represented by the same solicitors as acted for BNY in presenting CWU 195; 
 

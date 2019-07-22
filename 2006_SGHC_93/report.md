@@ -148,7 +148,7 @@ _the plaintiff was clearly out of time_. In my view, the plaintiff ought, _by 19
 
 22     Assuming that the present application was not out of time (which I have found is _not_ the case), would the plaintiff have satisfied the relatively low standard of proof for the granting of leave? 
 
-23     The requisite standard of proof has been set out, in the local context, by the Singapore Court of Appeal in _Chan Hiang Leng Colin v Minister for Information and the Arts_ [1996] 1 SLR 609, as follows ( _per_ Karthigesu JA, delivering the judgment of the court at 615–616, [21]–[25]): 
+23     The requisite standard of proof has been set out, in the local context, by the Singapore Court of Appeal in _Chan Hiang Leng Colin v Minister for Information and the Arts_ <span class="citation">[1996] 1 SLR 609</span>, as follows ( _per_ Karthigesu JA, delivering the judgment of the court at 615–616, [21]–[25]): 
 
  21 The next question concerns what test the court is to apply at the application for leave stage. We start with Lord Diplock’s speech in IRC v National Federation of Self-Employed [1981] 2 All ER 93 at p 106: 
 

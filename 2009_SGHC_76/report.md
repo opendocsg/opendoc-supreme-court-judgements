@@ -87,7 +87,7 @@ While it is not clear in this passage whether an application should be made to s
 
 **Setting aside a default judgment** 
 
-16     The law relating to the setting aside of default judgment have been examined at and considered by the Court of Appeal in _Mercurine Pte Ltd v Canberra Development Pte Ltd_ [2008] 4 SLR 907 (“ _Mercurine_ ”). 
+16     The law relating to the setting aside of default judgment have been examined at and considered by the Court of Appeal in _Mercurine Pte Ltd v Canberra Development Pte Ltd_ <span class="citation">[2008] 4 SLR 907</span> (“ _Mercurine_ ”). 
 
 17     In this landmark decision, the Court reviewed the principles applied by the courts of Singapore and other jurisdictions in dealing with applications to set aside default judgments. It then set out the proper bases for setting aside such judgments. 
 
@@ -96,7 +96,7 @@ While it is not clear in this passage whether an application should be made to s
  [I]n deciding whether to set aside a regular default judgment, the question for the court is whether the defendant can establish a prima facie defence in the sense of showing that there are triable or arguable issues. It is ... rather illogical to hold that the test for setting aside a regular default judgment should be any stricter than that for obtaining leave to defend in an O 14 application. 
 
 
-This represents a reversion to the test set out by the House of Lords in _Evans v Bartlam_ [1937] AC 473 in favour of the test set by the English Court of Appeal in _Alpine Bulk Transport Co Inc v Saudi Eagle Shipping Inc; The “Saudi Eagle”_ [1986] 2 Lloyd’s Rep 221 which was accepted and applied in Singapore by the Court of Appeal in _Abdul Gaffer v Chua Kwang Yong_ [1995] 1 SLR 484. 
+This represents a reversion to the test set out by the House of Lords in _Evans v Bartlam_ [1937] AC 473 in favour of the test set by the English Court of Appeal in _Alpine Bulk Transport Co Inc v Saudi Eagle Shipping Inc; The “Saudi Eagle”_ [1986] 2 Lloyd’s Rep 221 which was accepted and applied in Singapore by the Court of Appeal in _Abdul Gaffer v Chua Kwang Yong_ <span class="citation">[1995] 1 SLR 484</span>. 
 
 19     The second basis, set out in [74] is that: 
 

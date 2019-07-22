@@ -301,14 +301,14 @@ them of the Company’s moneys which they had paid themselves by way of dividend
 
  (2) Upon such determination, the Court may dismiss the cause or matter or make such order or judgment as it thinks fit. 
 
-39     As to when an application under O 14 r 12 is appropriate, I refer to _Federal Insurance Co v Nakano Singapore (Pte) Ltd_ [1992] 1 SLR 390 relied on by L & M. There, the appellate court held that questions of construction of documents are suitable for decision as preliminary points but they may not be so if there are also disputes as to the factual matters affecting the point of construction. On the particular facts of that case, the Court of Appeal felt that there would be no savings of time or costs in respect of the trial of the action (and the counterclaim) by deciding the preliminary issue of whether the claim was in fact time barred. 
+39     As to when an application under O 14 r 12 is appropriate, I refer to _Federal Insurance Co v Nakano Singapore (Pte) Ltd_ <span class="citation">[1992] 1 SLR 390</span> relied on by L & M. There, the appellate court held that questions of construction of documents are suitable for decision as preliminary points but they may not be so if there are also disputes as to the factual matters affecting the point of construction. On the particular facts of that case, the Court of Appeal felt that there would be no savings of time or costs in respect of the trial of the action (and the counterclaim) by deciding the preliminary issue of whether the claim was in fact time barred. 
 
 40     In our case, the contributories did not and indeed could not, dispute the chronology of events in relation to the MC Suit and the Suit, leading up to the judgment of L & M as well as the Winding Up Proceedings and winding up order. There were no factual disputes that needed to go to 
 
 
 trial in relation to the chronology of events. 
 
-41     Chee had described the Company’s failure to comply with the “unless order” as intentional and contumelious. L & M referred to the Court of Appeal’s decision in _Syed Mohamed Abdul Muthaliff v Arjan Bhisham Chotrani_ [1999] 1 SLR 750 for the factors to determine when the conduct of a party who failed to comply with an “unless order” would be considered to be intentional and contumelious. The following determinants were some of the holdings in the case: 
+41     Chee had described the Company’s failure to comply with the “unless order” as intentional and contumelious. L & M referred to the Court of Appeal’s decision in _Syed Mohamed Abdul Muthaliff v Arjan Bhisham Chotrani_ <span class="citation">[1999] 1 SLR 750</span> for the factors to determine when the conduct of a party who failed to comply with an “unless order” would be considered to be intentional and contumelious. The following determinants were some of the holdings in the case: 
 
  (a) The onus was on the defaulting party to show why his failure to obey the order did not warrant the striking-out of the claim. The defaulter must establish that there was no intention to ignore the peremptory order and that failure to obey was due to extraneous circumstances; 
 

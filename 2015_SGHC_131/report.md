@@ -16,7 +16,7 @@
 
 _Family Law_ – _Matrimonial Assets_ – _Division_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 64 and 65 of 2015 were allowed in part by the Court of Appeal on 26 November 2015. See [2016] SGCA 2.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 64 and 65 of 2015 were allowed in part by the Court of Appeal on 26 November 2015. See <span class="citation">[2016] SGCA 2</span>.] 
 
 15 May 2015 
 
@@ -208,14 +208,14 @@ The deposits totalled $251,940.00.
 
 **The decision** 
 
-34     As I noted at [5] of this judgment, the Wife explained why she wanted nominal maintenance of $1.00 – to maintain her right in case a need arose for her to apply for maintenance in future. I found this perfectly reasonable. It was wholly unreasonable of the Husband to deny her this right bearing in mind that the Wife may never exercise her right at all. On the other hand, if the Wife did not have at least a nominal maintenance order in her favour, she would be precluded from making any such claim in future (see _Tan Bee Giok v Loh Kum Yong_ [1996] 3 SLR(R) 605). 
+34     As I noted at [5] of this judgment, the Wife explained why she wanted nominal maintenance of $1.00 – to maintain her right in case a need arose for her to apply for maintenance in future. I found this perfectly reasonable. It was wholly unreasonable of the Husband to deny her this right bearing in mind that the Wife may never exercise her right at all. On the other hand, if the Wife did not have at least a nominal maintenance order in her favour, she would be precluded from making any such claim in future (see _Tan Bee Giok v Loh Kum Yong_ <span class="citation">[1996] 3 SLR(R) 605</span>). 
 
 35     As for the lump sum award of $36,000 the court made in favour of the Wife, the award may not have been made if the Husband had been more forthright in his disclosure obligations. It was reasonable to conclude from the manner in which the Husband filed his affidavits and provided 
 
 
 selective documents (before the Wife’s discovery applications) that the Husband would not voluntarily disclose all his assets. Even then, there was a lingering suspicion that the Husband had not fully disclosed his assets. For instance, he could have, but failed, to produce his income tax assessment form for the year of assessment 2014 and/or a letter from his employer on his promotion to Associate Director. At the risk of repetition, the alleged loans (including the renovation loan of $30,000) from his mother were highly suspect as the Husband did not produce one iota of evidence to substantiate any of the large amounts purportedly lent to him. 
 
-36     That being the case, the court had an option – either (i) draw an adverse inference against the Husband or (ii) give a higher percentage of the disclosed assets to the other party (see _Yeo Chong Lin v Tay Ang Choo Nancy_ [2011] 2 SLR 1157 (“ _Yeo Chong Lin v Tay Ang Choo Nancy_ ”) at [64] [66]) adopting _NK v NL_ [2007] 3 SLR (R) 743 at [62]). 
+36     That being the case, the court had an option – either (i) draw an adverse inference against the Husband or (ii) give a higher percentage of the disclosed assets to the other party (see _Yeo Chong Lin v Tay Ang Choo Nancy_ <span class="citation">[2011] 2 SLR 1157</span> (“ _Yeo Chong Lin v Tay Ang Choo Nancy_ ”) at [64] [66]) adopting _NK v NL_ [2007] 3 SLR (R) 743 at [62]). 
 
 37     The Wife wanted $111,539 as her 60% share of the balance sale proceeds of the matrimonial home. The court rejected her claim and awarded her 50% of the matrimonial home. It was just and equitable to divide the sale proceeds equally between the parties as the documentary evidence (particularly the Husband’s emails to the Wife) strongly suggested that the parties contributed equally towards the purchase, the upkeep and the outgoings. It was difficult to accept the parties’ claims that he/she had contributed more in the way of additional expenses on furniture, appliances and/or fixtures, food/provisions etc. Such claims and cross-claims cancelled one another out in any event. 
 

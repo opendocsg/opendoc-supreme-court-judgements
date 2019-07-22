@@ -221,7 +221,7 @@ and the Risk Assessment Summary was that:
 
  When the following conditions are satisfied, a sentence of life imprisonment is in our opinion justified: (1) where the offence or offences are in themselves grave enough to require a very long sentence; (2) where it appears from the nature of the offences or from the defendant’s history that he is a person of unstable character likely to commit such offences in the future; and (3) where if the offences are committed the consequences to others may be specially injurious, as in the case of sexual offences or crimes of violence. 
 
-23     In _Public Prosecutor v Aniza bte Essa_ [2009] 3 SLR(R) 327, the _Hodgson_ criteria and their application to Singapore came under the careful consideration of the Court of Appeal. Chan Sek Keong CJ delivering the judgment of the Court ruled at [34]: 
+23     In _Public Prosecutor v Aniza bte Essa_ <span class="citation">[2009] 3 SLR(R) 327</span>, the _Hodgson_ criteria and their application to Singapore came under the careful consideration of the Court of Appeal. Chan Sek Keong CJ delivering the judgment of the Court ruled at [34]: 
 
  In our view, the answer to whether the Hodgson criteria are appropriate in Singapore is ... in the affirmative. The Hodgson criteria fulfil two important functions. The first is that they provide an alternative ( ie , alternative to the principle that the highest punishment should only be reserved 
 

@@ -26,7 +26,7 @@ _Trade Marks and Trade Names_ – _Rectification of register_ – _Expunging mar
 
 (delivering the judgment of the court): These are two appeals brought against a decision of the High 
 
-Court [reported at [2000] 1 SLR 587] in an action for infringement of trade mark and/or passing off 
+Court [reported at <span class="citation">[2000] 1 SLR 587</span>] in an action for infringement of trade mark and/or passing off 
 
 where the learned trial judge dismissed the action and also dismissed the defendants` counterclaim 
 
@@ -778,9 +778,9 @@ harder to acquire distinctiveness in relation to a descriptive word. The evident
 
 plaintiff in such a case would be higher, but it would not be impossible to establish it: see the 
 
-decisions of this court in **CDL Hotels International Ltd v Pontiac Marina** [1998] 2 SLR 550 and 
+decisions of this court in **CDL Hotels International Ltd v Pontiac Marina** <span class="citation">[1998] 2 SLR 550</span> and 
 
-**Lifestyle 1.99 Pte Ltd v S$1.99 Pte Ltd** [2000] 2 SLR 766 at [para ] 34-46. 
+**Lifestyle 1.99 Pte Ltd v S$1.99 Pte Ltd** <span class="citation">[2000] 2 SLR 766</span> at [para ] 34-46. 
 
 
 PW3`s evidence on this is very telling (NE61-62): 
@@ -884,7 +884,7 @@ s 16 and/or s 20.
 
 Following from his finding that the defendants had not infringed the plaintiffs` mark, the trial judge, 
 
-relying upon **Cheng Kang Pte Ltd v Sze Jishian** [1992] 2 SLR 214 , dismissed the counterclaim on 
+relying upon **Cheng Kang Pte Ltd v Sze Jishian** <span class="citation">[1992] 2 SLR 214</span> , dismissed the counterclaim on 
 
 the technical ground that the defendants were not an `aggrieved` person within the meaning of s 
 

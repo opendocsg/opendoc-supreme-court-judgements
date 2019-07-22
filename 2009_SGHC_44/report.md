@@ -98,7 +98,7 @@ knows it is not true before the agreement is made (see Trietel, _Law of Contract
 
 23     Slade LJ’s statement was accepted and followed by Morritt V-C in _Trustor AB v Smallbone (No 2)_ [2001] 1 WLR 1177 to be the law and the court declined to apply so broad a proposition laid down in _Re a Company_ , citing _Ord v Belhaven Pubs Ltd_ [1998] BCC 607 at 614-615 in support. In that case, Hobhouse LJ expressed the same reservations as Slade LJ. 
 
-24     Two Singapore cases, _Sri Jaya (Sdn) Bhd v RHB Bank Bhd_ [2001] 1 SLR 486 and _Gerhad Hendrick Gispen v Ling Lee Soon Alex_ [2001] SGHC 350 illustrate the reluctance of the Singapore courts to adopt and apply the proposition in _Re a Company_ (see also Halsbury’s Laws of Singapore, ( Reissue), Vol 6, para 70.080). Rajendran J in _Sri Jaya (Sdn) Bhd v RHB Bank Bhd_ at [63] stated that whilst the ambit of exceptions is not closed, the power to lift the corporate veil is to be exercised sparingly. 
+24     Two Singapore cases, _Sri Jaya (Sdn) Bhd v RHB Bank Bhd_ <span class="citation">[2001] 1 SLR 486</span> and _Gerhad Hendrick Gispen v Ling Lee Soon Alex_ <span class="citation">[2001] SGHC 350</span> illustrate the reluctance of the Singapore courts to adopt and apply the proposition in _Re a Company_ (see also Halsbury’s Laws of Singapore, ( Reissue), Vol 6, para 70.080). Rajendran J in _Sri Jaya (Sdn) Bhd v RHB Bank Bhd_ at [63] stated that whilst the ambit of exceptions is not closed, the power to lift the corporate veil is to be exercised sparingly. 
 
  [note: 1] 
 

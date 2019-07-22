@@ -194,7 +194,7 @@ contain a net weight of 27.61 g of diamorphine (“the 27.61 g of diamorphine”
 
 **The elements of the charge** 
 
-23     The Prosecution was required to prove beyond a reasonable doubt the following elements (see _Raman Selvam s/o Renganathan v Public Prosecutor_ [2004] 1 SLR(R) 550 at [35]): 
+23     The Prosecution was required to prove beyond a reasonable doubt the following elements (see _Raman Selvam s/o Renganathan v Public Prosecutor_ <span class="citation">[2004] 1 SLR(R) 550</span> at [35]): 
 
  (a) Possession or custody of the controlled drug; 
 
@@ -452,7 +452,7 @@ _The accused was more likely than not hearing voices_
 
 drugs” and that he was “suffering from schizophrenia”. [note: 92] 
 
-57     On balance, I did not think it necessary to draw an adverse inference. Although the first statement left out a specific detail, it was not quite a complete omission: see _Public Prosecutor v Saridewi bte Djamani and another_ [2018] SGHC 204 at [60]. I gave the accused the benefit of the doubt that certain aspects of his defence was somewhat encapsulated in the allegations of “committing suicide” and “schizophrenia”: see _Yap Giau Beng Terence v Public Prosecutor_ [1998] 2 SLR(R) 855 at [38]. 
+57     On balance, I did not think it necessary to draw an adverse inference. Although the first statement left out a specific detail, it was not quite a complete omission: see _Public Prosecutor v Saridewi bte Djamani and another_ <span class="citation">[2018] SGHC 204</span> at [60]. I gave the accused the benefit of the doubt that certain aspects of his defence was somewhat encapsulated in the allegations of “committing suicide” and “schizophrenia”: see _Yap Giau Beng Terence v Public Prosecutor_ <span class="citation">[1998] 2 SLR(R) 855</span> at [38]. 
 
 
 ## “Q: 
@@ -500,9 +500,9 @@ _The voices the accused was hearing would not amount to hallucinations_
 
  hallucinations” were not hallucinations. [note: 103] 
 
-63     I was faced with conflicting psychiatric opinions. In approaching such evidence, the principles articulated by V K Rajah JA in _Sakthivel Punithavathi v Public Prosecutor_ [2007] 2 SLR(R) 983 at [76] were pertinent: 
+63     I was faced with conflicting psychiatric opinions. In approaching such evidence, the principles articulated by V K Rajah JA in _Sakthivel Punithavathi v Public Prosecutor_ <span class="citation">[2007] 2 SLR(R) 983</span> at [76] were pertinent: 
 
- ...Evidence must invariably be sifted, weighed and evaluated in the context of the factual matrix and in particular, the objective facts. An expert’s opinion “should not fly in the face of proven extrinsic facts relevant to the matter” per Yong Pung How CJ in Khoo James v Gunapathy d/o Muniandy [2002] 2 SLR(R) 414 at [65]...Content credibility, evidence of partiality, coherence and a need to analyse the evidence in the context of established facts remain vital considerations... 
+ ...Evidence must invariably be sifted, weighed and evaluated in the context of the factual matrix and in particular, the objective facts. An expert’s opinion “should not fly in the face of proven extrinsic facts relevant to the matter” per Yong Pung How CJ in Khoo James v Gunapathy d/o Muniandy <span class="citation">[2002] 2 SLR(R) 414</span> at [65]...Content credibility, evidence of partiality, coherence and a need to analyse the evidence in the context of established facts remain vital considerations... 
 
 64     Simply put, the court should scrutinise an expert’s methodology and the objective facts they had based their opinion upon: see _Singapore Finance Ltd v Lim Kah Ngam (S’pore) Pte Ltd (Eugene HL Chan Associates, third party)_ [1983-1984] SLR(R) 403 at [33]. 
 
@@ -859,7 +859,7 @@ _Conflation of the legal standard for a plea of unsoundness of mind_
 111    Insofar as the Defence sought to persuade me that the test for abnormality of the mind should be applied to assess unsoundness of the mind, this appeared to be a conflation of the standards required under the two tests. The Defence referred to the decision in _Rosman bin Abdullah v Public_ 
 
 
-_Prosecutor_ [2017] 1 SLR 10, which at [57] cited _Phua Han Chuan Jeffery v Public Prosecutor_ [2016] 3 SLR 706 (“ _Jeffery Phua_ ”). 
+_Prosecutor_ <span class="citation">[2017] 1 SLR 10</span>, which at [57] cited _Phua Han Chuan Jeffery v Public Prosecutor_ <span class="citation">[2016] 3 SLR 706</span> (“ _Jeffery Phua_ ”). 
 
 112    However, _Jeffery Phua_ (at [16]) stood for the opposite proposition that the Defence submitted for: 
 
@@ -867,7 +867,7 @@ _Prosecutor_ [2017] 1 SLR 10, which at [57] cited _Phua Han Chuan Jeffery v Publ
 
  [Emphasis added.] 
 
-113    As the above makes clear, Choo Han Teck J in _Jeffery Phua_ was concerned with delineating principles applicable _only_ to abnormality of the mind within the meaning of s 33B(3)( _b_ ) of the MDA. I accept, as Choo J had, that in some cases an abnormality of mind may be of such nature or degree as to also encompass unsoundness of mind. However, this did not mean they were co-extensive in all cases. An accused suffering from an abnormality of mind may nevertheless possess the critical faculties to know that what he was doing was wrong: _see Public Prosecutor v Took Leng How_ [2005] 4 SLR(R) 472 at [63]. In any event, what is necessary for the plea of unsoundness of mind to succeed, even for an offence under the MDA, is that the accused was shown to have been incapable of knowing the nature of the act he was committing, or incapable of distinguishing right from wrong. 
+113    As the above makes clear, Choo Han Teck J in _Jeffery Phua_ was concerned with delineating principles applicable _only_ to abnormality of the mind within the meaning of s 33B(3)( _b_ ) of the MDA. I accept, as Choo J had, that in some cases an abnormality of mind may be of such nature or degree as to also encompass unsoundness of mind. However, this did not mean they were co-extensive in all cases. An accused suffering from an abnormality of mind may nevertheless possess the critical faculties to know that what he was doing was wrong: _see Public Prosecutor v Took Leng How_ <span class="citation">[2005] 4 SLR(R) 472</span> at [63]. In any event, what is necessary for the plea of unsoundness of mind to succeed, even for an offence under the MDA, is that the accused was shown to have been incapable of knowing the nature of the act he was committing, or incapable of distinguishing right from wrong. 
 
 114    In this regard, I found that apart from the lack of psychiatric evidence, the accused was in fact aware at the material time that what he was doing was illegal. Indeed, the accused accepted on the stand and in the ASOF, that he had paid the courier in large denominations because of previous 
 

@@ -234,9 +234,9 @@ he were to pass by his house, he would return the loan of $300. But later in his
 
 51\. As a result of these material contradictions, the prosecution sought to admit the previous inconsistent statements under s 147(3) of the Evidence Act as evidence of facts stated therein. I found that these statements were admissible for that purpose. 
 
-52\. The controversies surrounding the ambit of s 147 (3) of the Evidence Act were settled by the Court of Appeal in _Chai Chien Wei Kelvin v Public Prosecutor_ [1999] 1 SLR 25, where Yong Pung How CJ delivering the judgment of the Court of Appeal said at p 58: 
+52\. The controversies surrounding the ambit of s 147 (3) of the Evidence Act were settled by the Court of Appeal in _Chai Chien Wei Kelvin v Public Prosecutor_ <span class="citation">[1999] 1 SLR 25</span>, where Yong Pung How CJ delivering the judgment of the Court of Appeal said at p 58: 
 
- ..Section 157 (c) [of the Evidence Act] provides for the impeachment of a witness’s credit by proof of former inconsistent statements. Section 147 contains the general scheme governing cross-examination on previous inconsistent statements. Section 157 could not be said to bring in only s 147 (1) and (2). This point had already been dealt with in Sng Siew Ngoh [1996] 1 SLR 143 at pp 149-150 as follows: 
+ ..Section 157 (c) [of the Evidence Act] provides for the impeachment of a witness’s credit by proof of former inconsistent statements. Section 147 contains the general scheme governing cross-examination on previous inconsistent statements. Section 157 could not be said to bring in only s 147 (1) and (2). This point had already been dealt with in Sng Siew Ngoh <span class="citation">[1996] 1 SLR 143</span> at pp 149-150 as follows: 
 
  It is clear then that there is a general scheme governing cross-examination on previous statements. Section 157 of the Evidence Act cannot be said to only bring in sub-s (1) [of s 147]. The other subsections also govern the cross-examination of previous statements. They cannot be separated from sub-s (1). Through this reference to s 147, the whole of that section is brought in, including s 147(3). It also has to be noted that s 147 (3) explicitly states that it applies ‘in any proceedings’, and does not purport to be restricted to specific circumstances, which would have to be the case had it been intended that s 147(1) were to operate independently of s 147 (3). 
 
@@ -276,7 +276,7 @@ clients that whatever material facts in the SOF that their clients are admitting
 
 60\. In the SOF, it was stated that Katheraven had used his handphone to contact the accused and request for one kilogram of cannabis. The accused informed him that he would arrange for the supplier to meet him. The accused reminded him that the drugs would cost $2220. When he informed the accused that the payment would only be made after the buyer had inspected the drugs, the accused agreed. The accused thereafter instructed him to meet a man wearing a blue shirt and trousers at the coffee shop at Block 630 Ang Mo Kio Avenue 6 to collect the drugs from him. Katheraven met the supplier, who gave him a block of vegetable matter. This supplier told Katheraven to pay the accused for the drugs. Katheraven then handed over the drugs to Andrew, who posed as a buyer. Katheraven was arrested subsequently. The block of vegetable matter seized was analysed by the Department of Scientific Services to contain 807.6 grams of cannabis and 115 grams of cannabis mixture. 
 
-61\. In my opinion, the SOF was admissible as a previous inconsistent or contradictory statement of Kathevaren and as proof of the substantive facts stated therein under S 147(3) of the Evidence Act in the light of his denial before me of those material facts in the SOF in relation to the accused. In this regard, I would most respectfully quote what the learned Chief Justice Yong Pung How had said after an extensive review of the relevant law in _Public Prosecutor v Liew Kim Choo_ [1997] 3 SLR 699: 
+61\. In my opinion, the SOF was admissible as a previous inconsistent or contradictory statement of Kathevaren and as proof of the substantive facts stated therein under S 147(3) of the Evidence Act in the light of his denial before me of those material facts in the SOF in relation to the accused. In this regard, I would most respectfully quote what the learned Chief Justice Yong Pung How had said after an extensive review of the relevant law in _Public Prosecutor v Liew Kim Choo_ <span class="citation">[1997] 3 SLR 699</span>: 
 
  I therefore took the view that the statement of facts, properly classified as a confession for the purposes of s 17 [of the Evidence Act], was a statement made by PW4. It was a statement on which 
 
@@ -561,7 +561,7 @@ My conclusions
 
 (b) Accused’s lies 
 
-154\.The evidential value of lies was dealt with by the Court of Appeal in _Public Prosecutor v Yeo Choon Poh_ [1994] 2 SLR 867, where the learned Chief Justice delivering the judgment said at p 876: 
+154\.The evidential value of lies was dealt with by the Court of Appeal in _Public Prosecutor v Yeo Choon Poh_ <span class="citation">[1994] 2 SLR 867</span>, where the learned Chief Justice delivering the judgment said at p 876: 
 
  The English Court of Appeal in R v Lucas (Ruth) [1981] QB 720 has held that the mere fact that an accused tells lies should not be taken as evidence of his guilt, but that lies can in certain circumstances amount to corroboration because it indicates a consciousness of guilt. Lord Lane CJ held at p 724 that there were four criteria to satisfy before a lie could amount to corroboration: 
 

@@ -34,9 +34,9 @@ _Family Law_ – _Maintenance_
 
  ... I note that an application for backdated maintenance was not raised at the hearing. I would not have granted such an application either, as the wife had not sought interim maintenance nor made any maintenance application prior to the ancillary matters hearings. There would have been no basis to grant this. 
 
-6       Apparently, another district judge had expressed a similar view in [28] of _ZG v ZH_ [2008] SGDC 293 stating that it is the usual practice of the court not to backdate a maintenance order unless there are good reasons to do so. It was not clear from that decision whether an intention to save the costs of an application for interim maintenance would be considered a good reason. 
+6       Apparently, another district judge had expressed a similar view in [28] of _ZG v ZH_ <span class="citation">[2008] SGDC 293</span> stating that it is the usual practice of the court not to backdate a maintenance order unless there are good reasons to do so. It was not clear from that decision whether an intention to save the costs of an application for interim maintenance would be considered a good reason. 
 
-7       On the other hand, in _TG v TH_ [2007] SGDC 172, a district court did backdate the maintenance to start from the month in which the divorce petition was filed as the wife’s reason for not applying 
+7       On the other hand, in _TG v TH_ <span class="citation">[2007] SGDC 172</span>, a district court did backdate the maintenance to start from the month in which the divorce petition was filed as the wife’s reason for not applying 
 
 
 for interim maintenance was to save costs (see [43] of that decision). Even then, the maintenance which was backdated to the date when the divorce petition was filed was for a smaller sum than the current maintenance ordered in that decision. 

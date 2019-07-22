@@ -169,7 +169,7 @@ also pointed out that there were no physical injuries revealed in the medical re
 
 **_The Accused’s criminal record_** 
 
-15     The Accused’s previous convictions were for offences against property, causing hurt, and drug possession and consumption. There were no convictions for sexual offences or offences against young persons. As V K Rajah J stated in _Public Prosecutor v NF_ [2006] 4 SLR(R) 849 at [69], when he was sentencing an accused person who had previous convictions for housebreaking and theft, and drug trafficking and consumption for rape, previous convictions for dissimilar offences were of no direct relevance for the purpose of sentencing. 
+15     The Accused’s previous convictions were for offences against property, causing hurt, and drug possession and consumption. There were no convictions for sexual offences or offences against young persons. As V K Rajah J stated in _Public Prosecutor v NF_ <span class="citation">[2006] 4 SLR(R) 849</span> at [69], when he was sentencing an accused person who had previous convictions for housebreaking and theft, and drug trafficking and consumption for rape, previous convictions for dissimilar offences were of no direct relevance for the purpose of sentencing. 
 
 **_The Accused eyeing the Victim as a potential target_** 
 
@@ -200,7 +200,7 @@ Thus, the Prosecution’s assertion that the Accused had preyed on the Victim, t
 
 21     As an act constituting an offence under s 5 of the CYPA may also constitute an offence under the old s 377 of the Penal Code which dealt with the offence of carnal intercourse against the order of nature, the factors to be taken into consideration in sentencing for offences under that provision can also apply to offences of sexual abuse under s 5 of the CYPA. 
 
-22     In _Lim Hock Hin Kelvin v Public Prosecutor_ [1998] 1 SLR(R) 37 which dealt with sentencing tariffs for offences under the old ss 377 and 377A, the Court of Appeal ruled that: 
+22     In _Lim Hock Hin Kelvin v Public Prosecutor_ <span class="citation">[1998] 1 SLR(R) 37</span> which dealt with sentencing tariffs for offences under the old ss 377 and 377A, the Court of Appeal ruled that: 
 
  21 In considering the appropriate tariffs for sentences, the gravity of the offence and the circumstances in which the offence was committed had to be taken into account: 
 

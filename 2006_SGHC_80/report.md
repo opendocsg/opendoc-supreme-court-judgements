@@ -103,12 +103,12 @@ that no interest be charged by either party for delay in completion and proposed
 
 24     Coming back to Candid’s argument that there was no approval until the EBS condition was complied with, I was of the view that this argument was fallacious in so far as it was an argument on general principles. A condition may be a condition precedent or a condition subsequent to the formation of a contract or the granting of an approval. If the former, it means that there is no contract or approval until the condition is met. If the latter, it means that there is a contract or an approval but the same is subject to the subsequent compliance with the condition, failing which the contract or the approval ceases or lapses. The mere fact that there is a condition to be complied with does not negate the existence of a contract or an approval. 
 
-25     As for the facts before me, Candid relied on the decision of the Court of Appeal in _See Hup Seng Tin Factory Pte Ltd v Mercury M-Power Industrial Pte Ltd_ [1995] 3 SLR 676 (“ _See Hup Seng Tin_ ”). It is unnecessary for me to elaborate on the facts and the judgment in that case because the point was not argued there. The Court of Appeal appeared to assume in that case that the date of JTC’s approval for the purpose of calculating the contractual completion date was not the date of JTC’s in-principle approval but a date when JTC’s condition in question was met. 
+25     As for the facts before me, Candid relied on the decision of the Court of Appeal in _See Hup Seng Tin Factory Pte Ltd v Mercury M-Power Industrial Pte Ltd_ <span class="citation">[1995] 3 SLR 676</span> (“ _See Hup Seng Tin_ ”). It is unnecessary for me to elaborate on the facts and the judgment in that case because the point was not argued there. The Court of Appeal appeared to assume in that case that the date of JTC’s approval for the purpose of calculating the contractual completion date was not the date of JTC’s in-principle approval but a date when JTC’s condition in question was met. 
 
 26     Conversely, in the subsequent case of _Ken Glass Design Associate Pte Ltd v Wind-Power_ 
 
 
-_Construction Pte Ltd_ [2003] 1 SLR 34, Lee Sieu Kin JC (as he then was) assumed that the in-principle approval of JTC was the date of approval for the purpose of calculating the contractual completion date. 
+_Construction Pte Ltd_ <span class="citation">[2003] 1 SLR 34</span>, Lee Sieu Kin JC (as he then was) assumed that the in-principle approval of JTC was the date of approval for the purpose of calculating the contractual completion date. 
 
 27     On the facts before me, it was unnecessary for me to decide whether the Consent Letter constituted the approval of JTC for the purpose of calculating the contractual completion date. I reiterate that Chor Pee had asked D&N to confirm that the completion date was 19 July 2005 and such confirmation was given. Accordingly, I agreed with Mr Hri Kumar, counsel for UOB, that Candid was estopped from asserting otherwise. Indeed, I was also of the view that the parties had in fact agreed that 19 July 2005 was the completion date. Thus, even if Candid’s current interpretation of cl 2 of the Special Conditions was correct in that the Consent Letter would not have constituted JTC’s approval, Candid would have been bound by its subsequent agreement that 19 July 2005 was the contractual completion date. 
 
@@ -127,7 +127,7 @@ _Construction Pte Ltd_ [2003] 1 SLR 34, Lee Sieu Kin JC (as he then was) assumed
 
 matter in issue was under $250,000. The application was made under s 34(2)( _a_ ) of the Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed) (“the SCJA”). 
 
-33     The grounds on which such leave may be granted have been set out in various cases with some variations which are not important for present purposes. It is sufficient for me to refer to the judgment of Kan Ting Chiu J in _Essar Steel Ltd v Bayerische Landesbank_ [2004] 3 SLR 25 where he considered the various cases, expressed his view that the ground in respect of a _prima facie_ case of error need not be confined to one of law and summarised succinctly the grounds at [27]: 
+33     The grounds on which such leave may be granted have been set out in various cases with some variations which are not important for present purposes. It is sufficient for me to refer to the judgment of Kan Ting Chiu J in _Essar Steel Ltd v Bayerische Landesbank_ <span class="citation">[2004] 3 SLR 25</span> where he considered the various cases, expressed his view that the ground in respect of a _prima facie_ case of error need not be confined to one of law and summarised succinctly the grounds at [27]: 
 
  When I heard the application for leave, I examined it against the tests for granting leave: 
 

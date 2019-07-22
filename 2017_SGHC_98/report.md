@@ -82,7 +82,7 @@ court, the Advisory Committee considered that it should not give guidance withou
 
  (b) the Undertaking does not contain any term which obliges the Defendant to release the said amount to the Plaintiff once the Final Award is issued; 
 
- (c) in this regard, the Undertaking is to be contrasted with the undertaking considered in PT Bumi International Tankers v Man B&W Diesel S E Asia Pte Ltd [2004] 3 SLR(R) 69 (“ PT Bumi ”) which included the phrase “hereby undertake to pay”. 
+ (c) in this regard, the Undertaking is to be contrasted with the undertaking considered in PT Bumi International Tankers v Man B&W Diesel S E Asia Pte Ltd <span class="citation">[2004] 3 SLR(R) 69</span> (“ PT Bumi ”) which included the phrase “hereby undertake to pay”. 
 
 12     The Defendant further submitted that, on its true construction, the Undertaking is an undertaking by the Defendant to hold the $100,000 until the Arbitrator makes an order on how the security for costs should be dealt with. 
 
@@ -126,7 +126,7 @@ Undertaking and the form of undertaking prescribed in the ROC. In my view, each 
 
 **_Principles governing the construction of solicitors’ undertakings_** 
 
-19     Generally, the principles governing the construction of contracts are also applicable to the construction of solicitors’ undertakings. In _People’s Parkway Development Pte Ltd v Ramanathan Yogendran_ [1990] 2 SLR(R) 338 at [12], the High Court construed a solicitor’s undertaking using the principles of contractual interpretation laid down in _Reardon Smith Line v Hansen-Tangen_ [1976] 1 WLR 989 (“ _Reardon Smith Line_ ”). In _Barclays Bank Plc v Weeks Legg & Dean (a firm)_ [1999] 1 QB 309 (“ _Barclays Bank_ ”), the English Court of Appeal applied the first of five principles of contractual interpretation summarised by Lord Hoffmann in _Investors Compensation Scheme Ltd v West Bromwich Building Society_ [1998] 1 WLR 896 (“ _Investors Compensation Scheme_ ”) to the construction of a solicitor’s undertaking, namely: 
+19     Generally, the principles governing the construction of contracts are also applicable to the construction of solicitors’ undertakings. In _People’s Parkway Development Pte Ltd v Ramanathan Yogendran_ <span class="citation">[1990] 2 SLR(R) 338</span> at [12], the High Court construed a solicitor’s undertaking using the principles of contractual interpretation laid down in _Reardon Smith Line v Hansen-Tangen_ [1976] 1 WLR 989 (“ _Reardon Smith Line_ ”). In _Barclays Bank Plc v Weeks Legg & Dean (a firm)_ [1999] 1 QB 309 (“ _Barclays Bank_ ”), the English Court of Appeal applied the first of five principles of contractual interpretation summarised by Lord Hoffmann in _Investors Compensation Scheme Ltd v West Bromwich Building Society_ [1998] 1 WLR 896 (“ _Investors Compensation Scheme_ ”) to the construction of a solicitor’s undertaking, namely: 
 
  Interpretation is the ascertainment of the meaning which the document would convey to a reasonable person having all the background knowledge which would reasonably have been available to the parties in the situation in which they were at the time of the contract. 
 

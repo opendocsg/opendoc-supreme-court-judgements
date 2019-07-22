@@ -134,7 +134,7 @@ defendant are the two leading manufacturers of electrical isolators in Singapore
 20     On the evidence, I find that the registered design is not novel over the prior art. The prior art has been described earlier in this judgment. Further, there is ample evidence to show that the design of the right-angled jack plug is not novel. Such right-angled connectors were on sale in 1986. They were used in two housing estates in 1995 and 1998. Mr Ngo admitted as much. I also take judicial notice of the fact that connectors of all shapes, including right-angled shapes, have been in existence for a very long time, not just in the electrical field but in other fields such as plumbing. The connectors are right-angled to connect two items where a direct or straight connection is not possible. 
 
 
-21     Counsel for the plaintiff submitted that the registered design is to be viewed as a whole together with the jack plug. He relies on [70] of the judgment of the Court of Appeal in _Hunter Manufacturing Pte Ltd v Soundtex Switchgear & Engineering Pte Ltd_ [2000] 1 SLR 401 (“the _Hunter_ case”) which reads: 
+21     Counsel for the plaintiff submitted that the registered design is to be viewed as a whole together with the jack plug. He relies on [70] of the judgment of the Court of Appeal in _Hunter Manufacturing Pte Ltd v Soundtex Switchgear & Engineering Pte Ltd_ <span class="citation">[2000] 1 SLR 401</span> (“the _Hunter_ case”) which reads: 
 
  A registered design includes all its features, those which are novel and those which are not, and must be looked at as a whole, and the comparison exercise conducted must have regard to the design as a whole. 
 

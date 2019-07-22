@@ -78,12 +78,12 @@ Counsel for the PAOC therefore submits that the sentence imposed was appropriate
 
 12     The only issue before me in this appeal is whether the punishment meted out by the PAOC was manifestly excessive given that it is undisputed that the appellant had pleaded guilty to the charges brought forth by ACRA to the disciplinary committee and the PAOC. The present appeal is by way of rehearing and the High Court has broad powers over the decision of the PAOC. The right of appeal to the High Court is provided by s 54(1) of the Accountants Act. Order 55 r 1 and Order 55 r 2 of the Rules of Court (Cap 322, R5, 2014 Rev Ed), which apply to such appeals from disciplinary committees, provide that such an appeal “shall be by way of rehearing”. 
 
-13     The primary focus of a disciplinary committee is to determine the appropriate professional sanction to be imposed on errant professionals in the light of the offences committed. It has the responsibility of upholding the standard and reputation of the profession. The Court of Three Judges in _Law Society of Singapore v Kurubalan s/o Manickam Rengaraju_ [2013] 4 SLR 91 at [48] affirmed the view expressed in _Law Society of Singapore v Tham Yu Xian Rick_ [1999] 3 SLR(R) 68 at [22] that – 
+13     The primary focus of a disciplinary committee is to determine the appropriate professional sanction to be imposed on errant professionals in the light of the offences committed. It has the responsibility of upholding the standard and reputation of the profession. The Court of Three Judges in _Law Society of Singapore v Kurubalan s/o Manickam Rengaraju_ <span class="citation">[2013] 4 SLR 91</span> at [48] affirmed the view expressed in _Law Society of Singapore v Tham Yu Xian Rick_ <span class="citation">[1999] 3 SLR(R) 68</span> at [22] that – 
 
 
  ...because orders made by a disciplinary tribunal are not primarily punitive, considerations which would ordinarily weigh in mitigation of punishment have less effect on the exercise of the disciplinary jurisdiction than on sentences imposed in criminal cases... 
 
-And in _Singapore Medical Council v Kwan Kah Yee_ [2015] 5 SLR 201, in the context of the medical profession, the Court of Three Judges held at [58] that – 
+And in _Singapore Medical Council v Kwan Kah Yee_ <span class="citation">[2015] 5 SLR 201</span>, in the context of the medical profession, the Court of Three Judges held at [58] that – 
 
  ...[disciplinary tribunals] are primarily concerned with the protection of public confidence and the reputation of the profession. For this reason, mitigating circumstances which weigh in favour of an offender in criminal proceedings are viewed in a qualitatively different light where disciplinary proceedings are concerned. 
 

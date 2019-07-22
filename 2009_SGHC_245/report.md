@@ -299,7 +299,7 @@ Section 24(b) of the IAA provides that:
 
 **The Law** 
 
-21     With regard to the interpretation of s 24(b) of the IAA, the Court of Appeal’s decision in _Soh Beng Tee & Co Pte Ltd v Fairmont Development Pte Ltd_ [2007] 3 SLR 86 (“ _Soh Beng Tee_ ”), is especially apposite as it sets out the key principles governing the setting aside of an arbitral award on the basis of a breach of the rules of natural justice. Although the setting aside application in _Soh Beng Tee_ was made pursuant to s 48(1)(a)(vii) of the Arbitration Act (Cap 10, 2002 Rev Ed) (“AA”), the principles enunciated in _Soh Beng Tee_ are equally applicable to the present case since s 48(1)(a) (vii) of the AA is _in pari materia_ with s 24(b) of the IAA. In accepting that the right to be heard is a rule of natural justice, the Court of Appeal set out the following principles at [65]: 
+21     With regard to the interpretation of s 24(b) of the IAA, the Court of Appeal’s decision in _Soh Beng Tee & Co Pte Ltd v Fairmont Development Pte Ltd_ <span class="citation">[2007] 3 SLR 86</span> (“ _Soh Beng Tee_ ”), is especially apposite as it sets out the key principles governing the setting aside of an arbitral award on the basis of a breach of the rules of natural justice. Although the setting aside application in _Soh Beng Tee_ was made pursuant to s 48(1)(a)(vii) of the Arbitration Act (Cap 10, 2002 Rev Ed) (“AA”), the principles enunciated in _Soh Beng Tee_ are equally applicable to the present case since s 48(1)(a) (vii) of the AA is _in pari materia_ with s 24(b) of the IAA. In accepting that the right to be heard is a rule of natural justice, the Court of Appeal set out the following principles at [65]: 
 
  Summary of applicable principles 
 

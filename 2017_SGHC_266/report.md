@@ -22,7 +22,7 @@ _Tort_ – _Negligence_ – _Causation_
 
 _Tort_ – _Occupier’s liability_ – _Duty of care_ 
 
-[LawNet Editorial Note: The appeal from this decision in Civil Appeal No 132 of 2017 was dismissed by the Court of Appeal on 8 May 2018. See [2018] SGCA 42.] 
+[LawNet Editorial Note: The appeal from this decision in Civil Appeal No 132 of 2017 was dismissed by the Court of Appeal on 8 May 2018. See <span class="citation">[2018] SGCA 42</span>.] 
 
 30 October 2017 
 
@@ -96,7 +96,7 @@ recommendations on to the SSA for the SSA to regularise the waterway works at th
 
 **Issues** 
 
-18     The law on occupiers’ liability is subsumed under the tort of negligence ( _See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others_ [2013] 3 SLR 284 (“ _See Toh_ ”) at [76]). The SRA’s counterclaim was analysed under the tort of negligence. The issues before me were: 
+18     The law on occupiers’ liability is subsumed under the tort of negligence ( _See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others_ <span class="citation">[2013] 3 SLR 284</span> (“ _See Toh_ ”) at [76]). The SRA’s counterclaim was analysed under the tort of negligence. The issues before me were: 
 
  (a) whether the SSA owed a duty of care to the SRA; 
 
@@ -281,7 +281,7 @@ addressing the poor soil stabilisation between the time of the 1st Flood and the
 
 60     The SSA submitted that it was entitled to costs because it had succeeded in defending the main claim in respect of the 1st Flood. The SRA had claimed $454,678.28 in damages for the 1st Flood but only $4,708 in damages for the 2nd Flood. 
 
-61     On the other hand, the SRA submitted that it was entitled to costs (including all disbursements incurred for procuring the two experts) because it had obtained judgment against the SSA and succeeded on the issues of duty and breach in respect of the 1st Flood. The SRA relied on _Tullio Planeta v Maoro Andrea G_ [1994] 2 SLR(R) 501 (“ _Tullio_ ”) and the issue-based approach discussed in _Khng Thian Huat and another v Riduan bin Yusof and another_ [2005] 1 SLR(R) 130 (“ _Khng Thian Huat_ ”). The SRA submitted that it had incurred necessary time and expense in establishing the SSA’s duty and breach as well as in calling expert evidence to establish the cause of both floods. It also claimed that the SSA did not succeed on any of its pleaded defences. Thus it urged the court not to split costs between the two floods on a “technical win-loss comparison”. 
+61     On the other hand, the SRA submitted that it was entitled to costs (including all disbursements incurred for procuring the two experts) because it had obtained judgment against the SSA and succeeded on the issues of duty and breach in respect of the 1st Flood. The SRA relied on _Tullio Planeta v Maoro Andrea G_ <span class="citation">[1994] 2 SLR(R) 501</span> (“ _Tullio_ ”) and the issue-based approach discussed in _Khng Thian Huat and another v Riduan bin Yusof and another_ <span class="citation">[2005] 1 SLR(R) 130</span> (“ _Khng Thian Huat_ ”). The SRA submitted that it had incurred necessary time and expense in establishing the SSA’s duty and breach as well as in calling expert evidence to establish the cause of both floods. It also claimed that the SSA did not succeed on any of its pleaded defences. Thus it urged the court not to split costs between the two floods on a “technical win-loss comparison”. 
 
 62     I awarded costs to the SSA fixed at $85,600 plus reasonable disbursements. I applied a daily tariff of $16,000 with 100% applied for the first five days of trial and 80% for the remaining two days of trial. I then deducted one day’s tariff to take into account the award to the SRA in respect of the 2nd Flood and for the SRA’s leading expert evidence on the cause of the 1st Flood, which the SSA initially disputed but later conceded in submissions. A further $4,000 was deducted for costs incurred by the SRA in dealing with the SSA’s dispute over the authenticity of certain invoices. 
 

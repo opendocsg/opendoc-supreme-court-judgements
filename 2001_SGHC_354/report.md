@@ -467,7 +467,7 @@ the Landlord (NE 40 line 9 to NE 41 line 8).
 
 98\. Mr Kung argued that under s 18(1) CLPA the notice from Dennis Singham must give sufficient details of the breach by Honey and this was not done. 
 
-99\. In _Lee Tat Realty Pte Ltd v Limco Products Manufacturing Pte Ltd & Ors_ [1999] 1 SLR 263, Chao Hick Tin J (as he then was) said that a valid notice under s 18(1) CLPA must contain sufficient particulars of the alleged breach. With respect, I agree. 
+99\. In _Lee Tat Realty Pte Ltd v Limco Products Manufacturing Pte Ltd & Ors_ <span class="citation">[1999] 1 SLR 263</span>, Chao Hick Tin J (as he then was) said that a valid notice under s 18(1) CLPA must contain sufficient particulars of the alleged breach. With respect, I agree. 
 
 100\. In the present case before me, the notice from Dennis Singham, which is set out in para 57 above, did set out some particulars of breach i.e the removal of the party wall between the units and the removal of walls to the toilets. 
 

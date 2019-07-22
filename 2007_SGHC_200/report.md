@@ -80,7 +80,7 @@ This ac tion is a c laim by c ertain members of the family of the late Ng Teow Y
 
  (e) Sunny’s son, Ng Jian Wen, is the fourth plaintiff c laiming $300,000 through his parents, Sunny and Mdm Chou Li Lan. 
 
-6       The requirements for the existenc e of a sec ret or half-sec ret trust are stated in _Kamla Lal Hiranand v Harilela Padma Hari_ [2000] 3 SLR 709 at [31] as follows: 
+6       The requirements for the existenc e of a sec ret or half-sec ret trust are stated in _Kamla Lal Hiranand v Harilela Padma Hari_ <span class="citation">[2000] 3 SLR 709</span> at [31] as follows: 
 
  31 The essentials of the existenc e of a sec ret or half-sec ret trust c reated by the operation of equitable princ iples are these: 
 

@@ -30,7 +30,7 @@ _Administrative law_ – _Judicial Review_ – _Leave application under O 53 of 
 
  (b) A Mandatory Order enjoining the Prime Minister to advise the President to issue a Writ of Election mandating by-elections in Hougang SMC pursuant to Article 49(1) of the Constitution of the Republic of Singapore (1985 Rev Ed, 1999 Reprint) and Section 24(1) of the Parliamentary Elections Act (Cap 218, 2011 Rev Ed) and to tender such advice within three months or within such reasonable time as the Honourable Court deems fit (“the Mandatory Order”). 
 
-2       I heard parties in chambers on the issue of leave on 30 March 2012. I directed counsel for the applicant to delete two headings in his Originating Summons No 196 of 2012 (“OS”): _Chng Suan Tze v Minister for Home Affairs and others and other appeals_ [1988] 2 SLR(R) 525 and Article 21 of the Universal Declaration of Human Rights, 10 December 1948, 217A (III) (“UDHR”). Whilst counsel is at liberty to make submissions based on court decisions, the OS title reference to a particular case is unnecessary. The UDHR, not having been enacted as Singapore legislation, is not domestic law to which these proceedings relate. Accordingly such OS title reference is misleading. Counsel for the applicant agreed to do so. 
+2       I heard parties in chambers on the issue of leave on 30 March 2012. I directed counsel for the applicant to delete two headings in his Originating Summons No 196 of 2012 (“OS”): _Chng Suan Tze v Minister for Home Affairs and others and other appeals_ <span class="citation">[1988] 2 SLR(R) 525</span> and Article 21 of the Universal Declaration of Human Rights, 10 December 1948, 217A (III) (“UDHR”). Whilst counsel is at liberty to make submissions based on court decisions, the OS title reference to a particular case is unnecessary. The UDHR, not having been enacted as Singapore legislation, is not domestic law to which these proceedings relate. Accordingly such OS title reference is misleading. Counsel for the applicant agreed to do so. 
 
 3       On 2 April 2012, I granted leave for a substantive judicial review hearing. On 4 April 2012, the Attorney-General (“AG”) appealed against my decision to grant leave. I now state my reasons for granting leave. 
 
@@ -49,7 +49,7 @@ _Administrative law_ – _Judicial Review_ – _Leave application under O 53 of 
 
 **The threshold for O 53 leave applications** 
 
-9       Applications for O 53 prerogative orders require the leave of court. One of the purposes of the requirement of leave is to sieve out groundless applications _in limine_. The Court of Appeal in _Public Service Commission v Lai Swee Lin Linda_ [2001] 1 SLR(R) 133 explained that the requirement of seeking the leave of court (at [23]) was: 
+9       Applications for O 53 prerogative orders require the leave of court. One of the purposes of the requirement of leave is to sieve out groundless applications _in limine_. The Court of Appeal in _Public Service Commission v Lai Swee Lin Linda_ <span class="citation">[2001] 1 SLR(R) 133</span> explained that the requirement of seeking the leave of court (at [23]) was: 
 
  ... intended to be a means of filtering out groundless or hopeless cases at an early stage, and its aim is to prevent a wasteful use of judicial time and to protect public bodies from harassment (whether intentional or otherwise) that might arise from a need to delay implementing decisions, where the legality of such decisions is being challenged. ... 
 
@@ -57,7 +57,7 @@ _Administrative law_ – _Judicial Review_ – _Leave application under O 53 of 
 
 11     It was not disputed for purposes of the leave application that the matter relates to the performance of powers and duties which involve a public element and thus is susceptible to judicial review. It was also not disputed that the applicant has sufficient interest in the matter. 
 
-12     The main issue in dispute in this leave application was whether the material before the court disclosed an arguable or _prima facie_ case in favour of granting leave. I noted what the Court of Appeal in _Chan Hiang Leng Colin and others v Minister for Information and the Arts_ [1996] 1 SLR(R) 294 had to say on the meaning and scope of the phrases ‘a _prima facie_ case of reasonable suspicion’ and ‘what might on further consideration turn out to be an arguable case’ (at [22]): 
+12     The main issue in dispute in this leave application was whether the material before the court disclosed an arguable or _prima facie_ case in favour of granting leave. I noted what the Court of Appeal in _Chan Hiang Leng Colin and others v Minister for Information and the Arts_ <span class="citation">[1996] 1 SLR(R) 294</span> had to say on the meaning and scope of the phrases ‘a _prima facie_ case of reasonable suspicion’ and ‘what might on further consideration turn out to be an arguable case’ (at [22]): 
 
  This pass age appears susceptible to two slightly different interpretations. One is that the court should quickly peruse the material put before it and consid er whether s uch material discloses “what might on further consideration turn out to be an arguable case”. The other is that the 
 
@@ -76,7 +76,7 @@ The Court of Appeal (at [25]) then ruled that:
 
 15     In these proceedings, the AG’s counsel took the position that while leave is not required for a declaration under O 15 r 16, O 53 does not permit the applicant to pray for a declaration until and unless she has first obtained the Court’s leave to apply for a prerogative order, _i_. _e._ , the Mandatory Order. 
 
-16     Counsel for the applicant did not dispute the AG’s counsel’s position, but gave notice that if the court did not grant leave for the Mandatory Order application to be heard, he would immediately be filing an application under O 15 r 16 for the declarations sought here, for which no leave of court is required. In support he relied on V K Rajah J’s observation (as he then was) in _Chee Siok Chin v Minister for Home Affairs_ [2006] 1 SLR(R) 582 at [20]: 
+16     Counsel for the applicant did not dispute the AG’s counsel’s position, but gave notice that if the court did not grant leave for the Mandatory Order application to be heard, he would immediately be filing an application under O 15 r 16 for the declarations sought here, for which no leave of court is required. In support he relied on V K Rajah J’s observation (as he then was) in _Chee Siok Chin v Minister for Home Affairs_ <span class="citation">[2006] 1 SLR(R) 582</span> at [20]: 
 
  ... The court rules are designed essentially to facilitate workflow and not to impede legitimate legal grievances. They are the vassals and vessels and not the masters of substantive justice. ... 
 

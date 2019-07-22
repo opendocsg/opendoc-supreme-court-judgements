@@ -222,7 +222,7 @@ Beckkett asserted that if Deutsche Bank had taken reasonable care in selling the
 
  (c) Deutsche Bank did not sell the Pledged Shares for proper purpose and in good faith. 
 
-35     Beckkett made these complaints on the basis that a mortgagee exercising a power of sale has a duty to act in good faith and to take reasonable care to obtain the true market value or the proper price for the property. It relied on the Court of Appeal’s decision in _Lee Nyet Khiong v Lee Nyet Yun Janet_ [1997] 2 SLR 713 (“ _Lee Nyet Khiong_ ”). 
+35     Beckkett made these complaints on the basis that a mortgagee exercising a power of sale has a duty to act in good faith and to take reasonable care to obtain the true market value or the proper price for the property. It relied on the Court of Appeal’s decision in _Lee Nyet Khiong v Lee Nyet Yun Janet_ <span class="citation">[1997] 2 SLR 713</span> (“ _Lee Nyet Khiong_ ”). 
 
 36     In _Lee Nyet Khiong_ , the appellant made a loan to the respondent, for which the respondent executed a mortgage of her property in favour of the appellant as security. When the respondent failed to repay the loan, the appellant sold the property. The sale by tender was advertised in The Straits Times for one day. The advertisement only described the location, the land area and that it was a freehold property without giving any other particulars. The tender was to close in two weeks. 
 
@@ -237,7 +237,7 @@ Beckkett asserted that if Deutsche Bank had taken reasonable care in selling the
 
  I accordingly conclude, both on principle and authority, that a mortgagee in exercising his power of sale does owe a duty to take reasonable precautions to obtain the true market value of the mortgaged property at the date on which he decides to sell it. 
 
- This view has been endorsed by the Privy Council in Tse Kwong Lam v Wong Chit Sen [1983] 1 WLR 1349, which was an appeal from Hong Kong Court of Appeal, and has also been accepted by this court: see Ng Mui Mui v Indian Overseas Bank Ltd [1986] 1 MLJ 203; [1984-1985] SLR 286, How Seen Ghee v Development Bank of Singapore Ltd [1994] 1 SLR 526 and Malayan Bank Bhd v Hwang Rose & Ors [1997] 2 SLR 1. 
+ This view has been endorsed by the Privy Council in Tse Kwong Lam v Wong Chit Sen [1983] 1 WLR 1349, which was an appeal from Hong Kong Court of Appeal, and has also been accepted by this court: see Ng Mui Mui v Indian Overseas Bank Ltd [1986] 1 MLJ 203; [1984-1985] SLR 286, How Seen Ghee v Development Bank of Singapore Ltd <span class="citation">[1994] 1 SLR 526</span> and Malayan Bank Bhd v Hwang Rose & Ors <span class="citation">[1997] 2 SLR 1</span>. 
 
 38     The Court of Appeal found that the appellant had failed to discharge his duty as mortgagee when he sold the property. The Court stated: 
 
@@ -252,9 +252,9 @@ Beckkett asserted that if Deutsche Bank had taken reasonable care in selling the
 39     Beckkett contended that this duty is not only owed to a mortgagor, but is also owed to a guarantor. This was made clear in _The Bank of East Asia Ltd v Tan Chin Mong Holdings (S) Pte Ltd_ 
 
 
-_and Ors_ [2001] 2 SLR 193 where G P Selvam J stated (at [21]) that “the mortgagee owed the duty not only to the mortgagor but to the surety as well”, and in _Beckkett Pte Ltd v Deutsche Bank Aktiengesellschaft Singapore Branch_ [2003] 1 SLR 321 (at [9]): 
+_and Ors_ <span class="citation">[2001] 2 SLR 193</span> where G P Selvam J stated (at [21]) that “the mortgagee owed the duty not only to the mortgagor but to the surety as well”, and in _Beckkett Pte Ltd v Deutsche Bank Aktiengesellschaft Singapore Branch_ <span class="citation">[2003] 1 SLR 321</span> (at [9]): 
 
- Where there is a guarantor, the duty extends to him as he has an interest in the sale as he is also liable for the debt remaining after the sale, see Standard Chartered Bank Ltd v Walker [1982] 3 All ER 938 [ “Walker” ], American Express International Banking Corp v Hurley [1985] 3 All ER 564 [ “Hurley” ] , The Bank of East Asia Ltd v Tan Chin Mong Holdings (S) Pte Ltd [2001] 2 SLR 193, Goh Chin Soon v Vickers Capital Ltd (formerly known as ST Capital Ltd) [2001] 1 SLR 728 and Bank of Credit and Commerce International SA (Licensed Deposit Takers) v Aboody (30 September 1987, Queen’s Bench Division, unreported). 
+ Where there is a guarantor, the duty extends to him as he has an interest in the sale as he is also liable for the debt remaining after the sale, see Standard Chartered Bank Ltd v Walker [1982] 3 All ER 938 [ “Walker” ], American Express International Banking Corp v Hurley [1985] 3 All ER 564 [ “Hurley” ] , The Bank of East Asia Ltd v Tan Chin Mong Holdings (S) Pte Ltd <span class="citation">[2001] 2 SLR 193</span>, Goh Chin Soon v Vickers Capital Ltd (formerly known as ST Capital Ltd) <span class="citation">[2001] 1 SLR 728</span> and Bank of Credit and Commerce International SA (Licensed Deposit Takers) v Aboody (30 September 1987, Queen’s Bench Division, unreported). 
 
 40     In _Walker_ , a decision of the Court of Appeal of England, Lord Denning MR held at 942: 
 
@@ -799,7 +799,7 @@ and
 
  The root principle which must be adhered to is that each company is a separate legal entity. The property of one is not the property of another. The plaintiff must prove its own financial loss in its own pocket and quantify it. Any other approach is contrary to the decided authorities and the principle in Saloman v A. Saloman & Co Ltd [[1897] AC 22] 
 
-103    The right of a shareholder to claim for loss to him resulting from loss or damage caused to a company has been examined at greater length by the House of Lords in _Johnson v Gore Wood & Co_ [2002] 2 AC 1 (“ _Johnson_ ”). _Johnson_ was in turn discussed by our Court of Appeal in _Townsing Henry George v Jenton Overseas Investment Pte Ltd (in liquidation)_ [2007] 2 SLR 597 (“ _Townsing_ ”) where Chan Sek Keong CJ stated (at [69]): 
+103    The right of a shareholder to claim for loss to him resulting from loss or damage caused to a company has been examined at greater length by the House of Lords in _Johnson v Gore Wood & Co_ [2002] 2 AC 1 (“ _Johnson_ ”). _Johnson_ was in turn discussed by our Court of Appeal in _Townsing Henry George v Jenton Overseas Investment Pte Ltd (in liquidation)_ <span class="citation">[2007] 2 SLR 597</span> (“ _Townsing_ ”) where Chan Sek Keong CJ stated (at [69]): 
 
  The principle of reflective loss has been considered and approved in a number of English cases, such as Gerber Garment Technology Inc v Lectra Systems Ltd [1997] RPC 443 (“ Gerber ”), and was authoritatively discussed in the House of Lords in Johnson v Gore Wood & Co [2002] 2 AC 1 (“ Johnson ”). Whilst there were various nuances between each of the judicial opinions expressed 
 
@@ -862,7 +862,7 @@ and
  [note: 51] 
 
 
-114    The law recognises two types of conspiracy. The Court of Appeal explained in _Quah Kay Tee v Ong & Co Pte Ltd_ [1997] 1 SLR 390 (at [45]) that: 
+114    The law recognises two types of conspiracy. The Court of Appeal explained in _Quah Kay Tee v Ong & Co Pte Ltd_ <span class="citation">[1997] 1 SLR 390</span> (at [45]) that: 
 
  The tort of conspiracy comprises two types: conspiracy by unlawful means and conspiracy by lawful means. A conspiracy by unlawful means is constituted when two or more persons combine to commit an unlawful act with the intention of injuring or damaging the plaintiff, and the act is carried out and the intention achieved. In a conspiracy by lawful means, there need not be an unlawful act committed by the conspirators. But there is the additional requirement of proving a ‘predominant purpose’ by all the conspirators to cause injury or damage to the plaintiff, and the act is carried out and the purpose achieved. 
 

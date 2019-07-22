@@ -16,7 +16,7 @@
 
 _Land_ – _Easements_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 111 of 2014 and Summons No 6264 of 2014 was dismissed by the Court of Appeal on 30 September 2015. See [2015] SGCA 69.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 111 of 2014 and Summons No 6264 of 2014 was dismissed by the Court of Appeal on 30 September 2015. See <span class="citation">[2015] SGCA 69</span>.] 
 
 15 October 2014 
 
@@ -122,7 +122,7 @@ approval to seal up the opening between No 21A and No 23A.
 25     In _Management Corporation Strata Title Plan No 549 v Chew Eu Hock Construction Co Pte Ltd_ 
 
 
-[1998] 2 SLR(R) 934 (“ _Chew Eu Hock Construction_ ”), the Court of Appeal clarified (at [31]) that s 99(1) of the LTA did not require both development and subdivision approvals to be given simultaneously. Hence, the Court of Appeal held that s 99(1) applied in the case before it even though development approval had been granted almost 10 years before subdivision approval. Likewise, in _Cheng-Wong Mei Ling Theresa v Oei Hong Leong_ [2006] 2 SLR(R) 637 (“ _Oei Hong Leong_ ”), the Court of Appeal reiterated (at [47]) that there was no need to show a link between subdivision approval and development approval before an easement could be implied under s 99(1). 
+<span class="citation">[1998] 2 SLR(R) 934</span> (“ _Chew Eu Hock Construction_ ”), the Court of Appeal clarified (at [31]) that s 99(1) of the LTA did not require both development and subdivision approvals to be given simultaneously. Hence, the Court of Appeal held that s 99(1) applied in the case before it even though development approval had been granted almost 10 years before subdivision approval. Likewise, in _Cheng-Wong Mei Ling Theresa v Oei Hong Leong_ <span class="citation">[2006] 2 SLR(R) 637</span> (“ _Oei Hong Leong_ ”), the Court of Appeal reiterated (at [47]) that there was no need to show a link between subdivision approval and development approval before an easement could be implied under s 99(1). 
 
 26     On the facts of the present case, I was satisfied that the approvals the Third Defendant received from the BCA and the URA (see [7] above), for the Addition and Alteration Works to be carried out on the Properties, fell within the meaning of “development approval” under s 99(1). In this regard, I was guided by the broad definition of “development” under the Planning Act (Cap 232, 1998 Rev Ed) which includes the “carrying out of any building, engineering, mining, earthworks or other operations in, on, over or under land”. 
 
@@ -134,7 +134,7 @@ approval to seal up the opening between No 21A and No 23A.
 
 30     The second reason, which is related to the first, was that it was plain from the title documents adduced in evidence that subdivision of the land into the lots upon which the Properties are currently situate had occurred _before_ the Third Defendant became the registered proprietor of the Properties. In particular, I note that when the Certificate of Title for No 21 was registered by the Third Defendants on 4 July 1995, No 21 was already situate on its present lot, that is, Lot No TS 16-882T. The plan of Lot No TS 16-882T dated 6 July 1994 (“the 1994 CP”) that was annexed to the Certificate of Title for No 21 also showed that subdivision of the land on which the Properties are situate had occurred by that time. For completeness, I should note that I was also satisfied that the 1994 CP was likewise not the subdivision plan contemplated in ss 99(1) and 99(1A) of the LTA. 
 
-31     It followed that the Plaintiffs had failed to produce the approved subdivision plan in evidence. In this regard, reference may be made to _Andrew John Hanam v Lam Vui and another_ [2013] 4 SLR 554 (“ _Andrew John Hanam_ ”) where Belinda Ang Saw Ean J expressed the view (at [29]) that: 
+31     It followed that the Plaintiffs had failed to produce the approved subdivision plan in evidence. In this regard, reference may be made to _Andrew John Hanam v Lam Vui and another_ <span class="citation">[2013] 4 SLR 554</span> (“ _Andrew John Hanam_ ”) where Belinda Ang Saw Ean J expressed the view (at [29]) that: 
 
  ...[I]n my view, the subdivision plan must be tendered in evidence if there is to be any reliance on an easement that is “appropriated or set apart” on the subdivision plan ... [emphasis added] 
 

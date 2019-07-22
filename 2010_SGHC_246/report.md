@@ -104,7 +104,7 @@ Hero Key would not be able to enforce its power of sale over the Reliance Shares
 
 33     It seemed to me that this submission reinforced the liquidators’ position. Hero Key was not disputing that the charge was released. However, it refused to give full effect to the release by refusing to execute Form L or to give instructions to Philips Securities to do so. 
 
-34     Hero Key said that it was for the liquidators to take a more conciliatory approach towards it to win its co-operation, citing the case of _Bee See & Tay v Ong Hun Seang_ [1997] 1 SLR(R) 469. 
+34     Hero Key said that it was for the liquidators to take a more conciliatory approach towards it to win its co-operation, citing the case of _Bee See & Tay v Ong Hun Seang_ <span class="citation">[1997] 1 SLR(R) 469</span>. 
 
 35     As for the variation of the 24 August 2009 Order by the 5 February 2010 Order, Hero Key took the position that the variation was permissive only and did not compel Hero Key to execute or procure the execution of Form L. 
 

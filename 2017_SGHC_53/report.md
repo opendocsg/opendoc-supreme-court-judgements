@@ -18,7 +18,7 @@ _Patents and Inventions_ – _ownership_
 
 _Patents and Inventions_ – _employee’s invention_ 
 
-[LawNet Editorial Note: The appeals from this decision in Civil Appeals Nos 138 and 139 of 2016 were dismissed by the Court of Appeal on 28 August 2018. See [2018] SGCA 52.] 
+[LawNet Editorial Note: The appeals from this decision in Civil Appeals Nos 138 and 139 of 2016 were dismissed by the Court of Appeal on 28 August 2018. See <span class="citation">[2018] SGCA 52</span>.] 
 
 14 March 2017 
 
@@ -280,7 +280,7 @@ more than two and a half years before it decided to decline to decide on the ref
 
  (b) the invention was made in the course of the duties of the employee and, at the time of making the invention, because of the nature of his duties and the particular responsibilities arising from the nature of his duties he had a special obligation to further the interests of the employer’s undertaking. 
 
-50     As to who might be considered the inventor of an invention, s 2(1) of the Patents Act provided that an “inventor”, in relation to an invention, meant “the actual deviser of the invention”. In _Dien Ghin Electronic (S) Pte Ltd v Khek Tai Ting (trading as Soon Heng Digitax)_ [2011] 3 SLR 227 (“ _Dien Ghin_ ”), Chan Seng Onn J adopted (at [13]) the following passage in _Yeda Research and Development Co Ltd v Rhone-Poulenc Rorer International Holdings Inc_ [2008] RPC 1 (“ _Yeda_ ”), where Lord Hoffman was interpreting provisions in the UK’s Patents Act which were _in pari materia_ with the relevant provisions in Singapore’s Patents Act: 
+50     As to who might be considered the inventor of an invention, s 2(1) of the Patents Act provided that an “inventor”, in relation to an invention, meant “the actual deviser of the invention”. In _Dien Ghin Electronic (S) Pte Ltd v Khek Tai Ting (trading as Soon Heng Digitax)_ <span class="citation">[2011] 3 SLR 227</span> (“ _Dien Ghin_ ”), Chan Seng Onn J adopted (at [13]) the following passage in _Yeda Research and Development Co Ltd v Rhone-Poulenc Rorer International Holdings Inc_ [2008] RPC 1 (“ _Yeda_ ”), where Lord Hoffman was interpreting provisions in the UK’s Patents Act which were _in pari materia_ with the relevant provisions in Singapore’s Patents Act: 
 
  The word ‘actual’ denotes a contrast with a deemed or pretended deviser of the invention; it means, as Laddie J. said in University of Southampton’s Application [2005] RPC 11 [at] [39], the natural person who ‘came up with the inventive concept’. It is not enough that someone contributed to the claims, because that may include non-patentable integers derived from the prior art: see Henry Brothers (Magherafelt) Limited v Ministry of Defence [1997] RPC 693 at 706; [1999] RPC 442. As Laddie J. said in the University of Southampton case, the ‘contribution must be to the formulation of the inventive concept’... 
 
@@ -324,7 +324,7 @@ Hence, in determining the extent of protection covered in a patent, the claims o
 
  It is not possible to be very specific about how this is to be done. But as a general rule one will start with the specific disclosure of the patent and ask whether that involves the use of information which is really that of the applicant, wholly or in part or as joint owner... [W]hat one is normally looking for is “the heart” of the invention. There may be more than one “heart” but each claim is not to be considered a separate “heart” on its own. 
 
-59     The present case did not involve questions of entitlement over a patent that had not yet been granted. The Patent in this case was granted in 2010. In _Statoil ASA v University of Southampton_ (BL O/204/05), the tribunal observed (at [38]) that in determining what the inventive concept(s) of an invention was, even in a granted patent, the court must look at the information in the specification rather than simply looking at the monopoly claimed, although this did not mean that the court was not to look at the claims at all. In my view, this must be correct. There was a fundamental difference between what was considered an invention on one hand, and what monopoly an inventor chose to obtain on the other hand. In _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd and Another Appeal_ [2008] 1 SLR 335, the Court of Appeal cited (at [23]) the following passage of Laddie J in _Merck & Co Inc v Generics (UK) Ltd_ [2004] RPC 31: 
+59     The present case did not involve questions of entitlement over a patent that had not yet been granted. The Patent in this case was granted in 2010. In _Statoil ASA v University of Southampton_ (BL O/204/05), the tribunal observed (at [38]) that in determining what the inventive concept(s) of an invention was, even in a granted patent, the court must look at the information in the specification rather than simply looking at the monopoly claimed, although this did not mean that the court was not to look at the claims at all. In my view, this must be correct. There was a fundamental difference between what was considered an invention on one hand, and what monopoly an inventor chose to obtain on the other hand. In _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd and Another Appeal_ <span class="citation">[2008] 1 SLR 335</span>, the Court of Appeal cited (at [23]) the following passage of Laddie J in _Merck & Co Inc v Generics (UK) Ltd_ [2004] RPC 31: 
 
  The purpose of a patent is to convey to the public what the patentee considers to be his invention and what monopoly he has chosen to obtain. These are not necessarily the same. The former is primarily to be found in the specification [ ie , the description] and the latter is primarily to be found in the claims. 
 
@@ -553,11 +553,11 @@ I would emphasise that even in the absence of opposition by Cicada, the onus was
 
  (e) Whether the alleged employer contributed to the Central Provident Fund (“CPF”) account of the alleged employee – A person who made and obtained CPF contributions was more likely to be an employee: Employment Law at [1.30]. 
 
- (f) Whether the alleged employee was entitled to leave and holidays – An employee was more likely to be contractually entitled to leave and holidays: Kureoka Enterprise Pte Ltd v Central Provident Fund Board [1992] SGHC 113 (“ Kureoka ”). 
+ (f) Whether the alleged employee was entitled to leave and holidays – An employee was more likely to be contractually entitled to leave and holidays: Kureoka Enterprise Pte Ltd v Central Provident Fund Board <span class="citation">[1992] SGHC 113</span> (“ Kureoka ”). 
 
  (g) Whether the alleged employee was entitled to medical leave – A person who was contractually entitled to medical leave and related benefits was more likely to be an employee: Kureoka. 
 
- (h) Whether the alleged employer had the power to dismiss the alleged employee from his service – If an employer was contractually entitled to terminate the services of a person with notice or salary in lieu of notice, it was more likely that an employment relationship exists: Chew Swee Hiang v Attorney-General and another [1990] 2 SLR(R) 215 at [43]. 
+ (h) Whether the alleged employer had the power to dismiss the alleged employee from his service – If an employer was contractually entitled to terminate the services of a person with notice or salary in lieu of notice, it was more likely that an employment relationship exists: Chew Swee Hiang v Attorney-General and another <span class="citation">[1990] 2 SLR(R) 215</span> at [43]. 
 
 85     As proof that Dr Sethi was its employee at the time that he came up of the Invention, NUH produced a letter dated 6 June 2002 titled “NUH Appointment” and a letter dated 10 June 2005 titled “Renewal of Chiefship Appointment”. Cicada took issue that: 
 

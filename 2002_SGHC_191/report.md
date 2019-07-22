@@ -147,7 +147,7 @@
 
 ### Yap Giau Beng Terence v PP 
 
-### [1998] 3 SLR 656 
+### <span class="citation">[1998] 3 SLR 656</span> 
 
 ### Lim Ah Poh v PP 
 
@@ -155,20 +155,20 @@
 
 ### Teo Keng Pong v PP 
 
-### [1996] 3 SLR 329 
+### <span class="citation">[1996] 3 SLR 329</span> 
 
 ### Sundara Moorthy Lankatharan v PP 
 
-### [1997] 3 SLR 464 
+### <span class="citation">[1997] 3 SLR 464</span> 
 
 
 ### Ng Soo Hin v PP 
 
-### [1994] 1 SLR 105 
+### <span class="citation">[1994] 1 SLR 105</span> 
 
 ### Kwan Peng Hong v Public Prosecutor 
 
-### [2000] 4 SLR 96 
+### <span class="citation">[2000] 4 SLR 96</span> 
 
 ### Dr James Khoo and Others v Gunapathy d/o Muniandy 
 
@@ -209,11 +209,11 @@ he found the door wide open. The metal gate was closed but the wooden door was o
 
 **The decision below and the appeal** 
 
-8       The appellant contends that the District Judge overlooked or misconstrued a total of eight matters in coming to her findings. It is apt here to re-visit the principles governing this Court in the sphere of appellate intervention. In the case of _Yap Giau Beng Terence v PP_ [1998] 3 SLR 656 this Court ruled: 
+8       The appellant contends that the District Judge overlooked or misconstrued a total of eight matters in coming to her findings. It is apt here to re-visit the principles governing this Court in the sphere of appellate intervention. In the case of _Yap Giau Beng Terence v PP_ <span class="citation">[1998] 3 SLR 656</span> this Court ruled: 
 
  It is trite law that an appellate court should be slow to overturn the trial judge’s findings of fact, especially where they hinge on the trial judge’s assessment of the credibility and veracity of the witness, unless they can be shown to be plainly wrong or against the weight of the evidence 
 
-This principle has been articulated in _Lim Ah Poh v PP_ [1992] 1SLR 713 at 719, _Teo Keng Pong v PP_ [1996] 3 SLR 329 at 342, _Ng Soo Hin v PP_ [1994] 1 SLR 105, _Sundara Moorthy Lankatharan v PP_ [1997] 3 SLR 464. The standard required of the District Judge’s scrutiny of the evidence and the witnesses before him is an extremely demanding one, as emphasised by this Court in the case of _Kwan Peng Hong v Public Prosecutor_ [2000] 4 SLR 96. Without such a strict test at the trial stage, it would be a nonsense to have a principle such as that expressed in _Yap Giau Beng Terrance_. Quite to the contrary, the two cases have a similar aim – a strict standard at the trial stage, which once met, should signal the appellate court not to intervene unless, of course, something is seen to be plainly wrong. It is precisely because the trial judge is under such a strict standard that once it is reached, the appellate court tends not to interfere. One of the reasons for the inclination not to interfere is the fact that the appellate court does not have the advantage of observing the demeanour and behaviour of the witnesses. The appellant refers to the case of _Kwan Peng Hong_. They are correct to. But the trial judge has matched the standard required, as laid down in that case by this Court. 
+This principle has been articulated in _Lim Ah Poh v PP_ [1992] 1SLR 713 at 719, _Teo Keng Pong v PP_ <span class="citation">[1996] 3 SLR 329</span> at 342, _Ng Soo Hin v PP_ <span class="citation">[1994] 1 SLR 105</span>, _Sundara Moorthy Lankatharan v PP_ <span class="citation">[1997] 3 SLR 464</span>. The standard required of the District Judge’s scrutiny of the evidence and the witnesses before him is an extremely demanding one, as emphasised by this Court in the case of _Kwan Peng Hong v Public Prosecutor_ <span class="citation">[2000] 4 SLR 96</span>. Without such a strict test at the trial stage, it would be a nonsense to have a principle such as that expressed in _Yap Giau Beng Terrance_. Quite to the contrary, the two cases have a similar aim – a strict standard at the trial stage, which once met, should signal the appellate court not to intervene unless, of course, something is seen to be plainly wrong. It is precisely because the trial judge is under such a strict standard that once it is reached, the appellate court tends not to interfere. One of the reasons for the inclination not to interfere is the fact that the appellate court does not have the advantage of observing the demeanour and behaviour of the witnesses. The appellant refers to the case of _Kwan Peng Hong_. They are correct to. But the trial judge has matched the standard required, as laid down in that case by this Court. 
 
 9       I turn to the matters which the appellant contends were misconstrued or overlooked by the trial judge. 
 

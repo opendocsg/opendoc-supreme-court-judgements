@@ -116,7 +116,7 @@ of “great evidentiary importance”, [note: 26] was a document that reflected 
 
 the Deceased at the time, and which was of “no material bearing”. [note: 27] He stated that the Note was “contradicted by the Sales & Purchase Agreement 2005 which sets out payment for the 40% 
 
-tenancy in common”. [note: 28] We pause to observe, more generally, that it would have been more helpful to this court if the Judge had set out the reasons for his decision in fuller detail. The crucial importance of the duty of the trial court to give reasons for its decision was emphasised by this court in _Thong Ah Fat v PP_ [2011] SGCA 65; in particular, it was observed (at [22]) that: 
+tenancy in common”. [note: 28] We pause to observe, more generally, that it would have been more helpful to this court if the Judge had set out the reasons for his decision in fuller detail. The crucial importance of the duty of the trial court to give reasons for its decision was emphasised by this court in _Thong Ah Fat v PP_ <span class="citation">[2011] SGCA 65</span>; in particular, it was observed (at [22]) that: 
 
  ... the duty to give reasons ensures that the appellate court has the proper material to understand, and do justice to, the decisions taken at first instance: see Coleman at 4 03. The appellate court should not “be left to speculate from collateral observations as to the reasoning upon which a critical decision is made, when the trial judge can and ought directly to reveal it”: see Wright v Australian Broadcasting Commission and Another [1977] 1 NSWLR 697 at 701. 
 

@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act (Cap 185, 2008 Rev Ed)_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2018] SGHC 19.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2018] SGHC 19</span>.] 
 
 15 November 2018 Judgment reserved. 
 

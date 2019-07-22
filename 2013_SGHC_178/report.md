@@ -18,7 +18,7 @@
 
 _Civil Procedure_ – _Offer to Settle_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 132 of 2013 was allowed by the Court of Appeal on 21 May 2014. See [2014] SGCA 38.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 132 of 2013 was allowed by the Court of Appeal on 21 May 2014. See <span class="citation">[2014] SGCA 38</span>.] 
 
 17 September 2013 Judgment reserved 
 

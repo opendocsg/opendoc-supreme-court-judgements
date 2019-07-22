@@ -61,7 +61,7 @@ but of his natural father. This c aused him to be very sad and inquisitive. By t
 
  ‘4 For the removal of doubt it is hereby dec lared that nothing in these Rules shall be deemed to limit or affec t the inherent powers of the Court to make any order as may be nec essary to prevent injustic e or to prevent an abuse of the proc ess of the Court.’ 
 
-She then c ited _Wee Soon Kim Anthony v Law Society of Singapore_ [2001] 4 SLR 25. 
+She then c ited _Wee Soon Kim Anthony v Law Society of Singapore_ <span class="citation">[2001] 4 SLR 25</span>. 
 
 17\. However the fac ts in the c ase she c ited were different and did not involve the question of amending an order that had been made and perfec ted. 
 
@@ -101,7 +101,7 @@ amend an order already made and perfec ted. Rather it is used to persuade a c ou
 24\. My attention was also drawn to a dec ision by Chan Sek Keong J (as he then was) in _Re ABZ_ 
 
 
-_(An infant)_ [1992] 2 SLR 445. In that c ase, the infant was a Chinese and his natural parents were Chinese. However the natural father had died and the mother married a man, Mr Z, of Japanese origin. They adopted the infant with Mr Z’s surname. Subsequently, Mr and Mrs Z were divorc ed and the mother had c ustody of the infant and had no intention of settling in Japan. The infant went to sc hool in Singapore and, ac c ording to the mother, was humiliated by other students bec ause of the Japanese surname. The mother then applied to set aside the adoption order and Mr Z had no objec tion to the applic ation. 
+_(An infant)_ <span class="citation">[1992] 2 SLR 445</span>. In that c ase, the infant was a Chinese and his natural parents were Chinese. However the natural father had died and the mother married a man, Mr Z, of Japanese origin. They adopted the infant with Mr Z’s surname. Subsequently, Mr and Mrs Z were divorc ed and the mother had c ustody of the infant and had no intention of settling in Japan. The infant went to sc hool in Singapore and, ac c ording to the mother, was humiliated by other students bec ause of the Japanese surname. The mother then applied to set aside the adoption order and Mr Z had no objec tion to the applic ation. 
 
 25\. Justic e Chan dec ided this c ould not be done. He went on to say that the infant’s surname c ould be c hanged by a deed poll, but added, at p 445 A/B: 
 

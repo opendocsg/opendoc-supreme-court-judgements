@@ -84,7 +84,7 @@ a canteen stall run by her friend, Mohamad Shaheed (‘Shaheed’). She was a di
 **_The appeal_** 
 
 
-22     The only issue before me was a factual one, whether Selve intended to leave SNS without paying for the "Selar" fish in her possession, thereby committing theft in a building used for the custody of property. As this was an appeal against the findings of fact made by the trial judge, I applied the established principle that an appellate court will not disturb findings of fact unless they are _clearly_ reached against the weight of the evidence : _Lim Ah Poh v PP_ [1992] 1 SLR 713, _Yap Giau Beng Terence v PP_ [1998] 3 SLR 656). 
+22     The only issue before me was a factual one, whether Selve intended to leave SNS without paying for the "Selar" fish in her possession, thereby committing theft in a building used for the custody of property. As this was an appeal against the findings of fact made by the trial judge, I applied the established principle that an appellate court will not disturb findings of fact unless they are _clearly_ reached against the weight of the evidence : _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span>, _Yap Giau Beng Terence v PP_ <span class="citation">[1998] 3 SLR 656</span>). 
 
 23     After a review of the evidence available, I was convinced that the trial judge had ample reasons to support her finding that Selve had not intended to look for a weighing machine outside the store but had wanted to leave the store without paying for the fish. In particular, I noted the following pieces of evidence which pointed irresistibly to the conclusion that Selve was guilty of the charge against her: 
 

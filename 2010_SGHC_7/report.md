@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Offences_ – _Murder_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 1 of 2010 was dismissed by the Court of Appeal on 5 July 2011. See [2011] SGCA 52.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 1 of 2010 was dismissed by the Court of Appeal on 5 July 2011. See <span class="citation">[2011] SGCA 52</span>.] 
 
 8 January 2010 Judgment reserved. 
 
@@ -259,7 +259,7 @@ without explaining why he would pick up a plastic bag and keep it without knowin
 
 35     When the prosecution closed its case, counsel for the accused submitted that there was no case for the accused to answer. 
 
-36     Had the prosecution established a sufficient case? The test is set out by the Court of Appeal in _Tan Siew Chay v PP_ [1993] 2 SLR 14 (“ _Tan Siew Chay_ ”) at 38 that at this stage of the case: 
+36     Had the prosecution established a sufficient case? The test is set out by the Court of Appeal in _Tan Siew Chay v PP_ <span class="citation">[1993] 2 SLR 14</span> (“ _Tan Siew Chay_ ”) at 38 that at this stage of the case: 
 
  In considering whether the prosecution has made out a case against the accused, we have to adopt the approach as laid down by Lord Diplock [in Haw Tua Tau v PP [1980–1981] SLR 73], which we have set out earlier. We assume (a) that the evidence on the primary facts is true, unless the evidence is inherently incredible, and (b) that there will be nothing to displace the inferences as to further facts or the state of mind of the accused which would reasonably be drawn from the primary facts in the absence of any further explanation. The application of limb (b) necessarily involves the court drawing inferences from the primary facts, and in drawing such inferences the court looks at the totality of the evidence and consider what inference, if any, that can reasonably be drawn therefrom. But, in considering any inference to be drawn the court at this stage does not apply the test whether the evidence looked at in its totality would inevitably and inexorably lead to only one inference or inferences for establishing the essential elements of the charge. 
 
@@ -340,7 +340,7 @@ deceased (in either order), removed and kept her watch, bracelet, chain and pend
 
 For convenience, I will refer to a lie which satisfies the four conditions as a _Lucas_ lie. 
 
-48     In _PP v Yeo Choon Poh_ [1994] 2 SLR 867 (“ _Yeo Choon Poh_ ”), our Court of Appeal endorsed and applied those rules (substituting “the judge” for “the jury”) and explained at 876 that: 
+48     In _PP v Yeo Choon Poh_ <span class="citation">[1994] 2 SLR 867</span> (“ _Yeo Choon Poh_ ”), our Court of Appeal endorsed and applied those rules (substituting “the judge” for “the jury”) and explained at 876 that: 
 
  the mere fact that an accused tells lies should not be taken as evidence of his guilt, but that lies can in certain circumstances amount to corroboration because it indicates a consciousness of guilt. 
 
@@ -348,22 +348,22 @@ For convenience, I will refer to a lie which satisfies the four conditions as a 
 
 50     Corroboration is required or is considered desirable for some forms of evidence, e.g. evidence of victims of sexual offences and children, and evidence on identification. However, any form of evidence can be strengthened by corroboration. 
 
-51     For any lie to be taken as corroborative evidence, the four conditions in _Lucas_ must be met, whether or not corroboration is required. However, there is a statement in _PP v Lau Boon Huat_ [1997] SGHC 148 at [53] that: 
+51     For any lie to be taken as corroborative evidence, the four conditions in _Lucas_ must be met, whether or not corroboration is required. However, there is a statement in _PP v Lau Boon Huat_ <span class="citation">[1997] SGHC 148</span> at [53] that: 
 
  In R v. Lucas, Lord Lane CJ laid down 4 tests to decide whether a lying statement amounted to corroboration. These tests were laid down in a case where corroboration was a special requirement in that the nature of that case made it incumbent to make a special effort to look for corroboration or consider the lack of corroboration. In the present case there is no special requirement for corroboration of the accused's guilt. I have already considered the effect of all the lies of the accused on the rest of his evidence and came to the conclusion that because of the lies he could not be believed and that some of them demolished his own case. The lying statements of the accused did not call for a special consideration. 
 
 This should not be taken to mean that the tests only apply in situations where there is a special requirement for corroboration. The tests have been applied in cases where there were no special requirements for corroboration eg, _Yeo Choon Poh_. Lies which satisfy the tests may amount to corroboration in any sort of case. 
 
-52     When a lie offers corroboration, it does that by corroborating some existing evidence, as was made clear in _PP v Chee Cheong Hin Constance_ [2006] 2 SLR 24 at [92] that: 
+52     When a lie offers corroboration, it does that by corroborating some existing evidence, as was made clear in _PP v Chee Cheong Hin Constance_ <span class="citation">[2006] 2 SLR 24</span> at [92] that: 
 
  An accused’s deliberate lies on material issues can corroborate other evidence against him. 
 
  [emphasis added] 
 
-53     Statements appear in some judgments that lies can corroborate guilt. In _PP_ v _Manogaran s/o R Ramu (No.2)_ [1997] SGHC 121 at [62], the court held that person’s lie “can amount to corroboration 
+53     Statements appear in some judgments that lies can corroborate guilt. In _PP_ v _Manogaran s/o R Ramu (No.2)_ <span class="citation">[1997] SGHC 121</span> at [62], the court held that person’s lie “can amount to corroboration 
 
 
-of his guilt”. In _Bala Murugan a/l Krishnan v PP_ [2002] 4 SLR 289, it was ruled at [22] that an accused person’s lies “could be relied on as corroborating evidence of his guilt”. In _Jagatheesan s/o Krishnasamy v PP_ [2006] 4 SLR 45 at [83], it was stated that a “lie may very well be used by the Prosecution as corroboration of the [accused] witness’s guilt”. 
+of his guilt”. In _Bala Murugan a/l Krishnan v PP_ <span class="citation">[2002] 4 SLR 289</span>, it was ruled at [22] that an accused person’s lies “could be relied on as corroborating evidence of his guilt”. In _Jagatheesan s/o Krishnasamy v PP_ <span class="citation">[2006] 4 SLR 45</span> at [83], it was stated that a “lie may very well be used by the Prosecution as corroboration of the [accused] witness’s guilt”. 
 
 54     These statements were not intended to be extensions of or departures from _Lucas_ , which was cited as authority in each case. In all three cases, the court acted on evidence (other than the lies) that the lies corroborated. _Lucas_ is not to be construed to mean that an accused person can be convicted because he had lied. The true effect of _Lucas_ is that a person’s lies may corroborate other evidence against him, and the corroborated evidence may establish his guilt. Lies are not evidence of guilt. 
 

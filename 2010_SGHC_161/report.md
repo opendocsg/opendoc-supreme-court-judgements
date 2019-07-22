@@ -16,7 +16,7 @@
 
 _Contract_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 98 of 2010 was allowed by the Court of Appeal on 10 November 2010. See [2011] SGCA 7.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 98 of 2010 was allowed by the Court of Appeal on 10 November 2010. See <span class="citation">[2011] SGCA 7</span>.] 
 
 25 May 2010 Judgment reserved. 
 

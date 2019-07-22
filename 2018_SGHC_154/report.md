@@ -302,15 +302,15 @@ capacity of the tank but the total volume of diesel used. However, no evidence w
 
 56     As stated at [27] above, the defendant pleaded an alternative claim for rental and utilities charged based on unjust enrichment. In my view, the alternative claim based on unjust enrichment must fail. 
 
-57     There is no freestanding claim in unjust enrichment on the abstract basis that the retention of the benefit is “unjust” – there must be a particular recognised unjust factor or event which gives rise to a claim: _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased) and another_ [2013] 3 SLR 801 (“ _Anna Wee_ ”) at [134]. It is not sufficient simply to assert that the retention of the benefit is unjust: _Anna Wee_ at [136]. Yet, this was precisely all that the defendant pleaded with respect to its alternative claim in unjust enrichment. It was only in its closing submissions that the defendant raised an alleged lack of consent as the unjust factor in support of its unjust enrichment claim. 
+57     There is no freestanding claim in unjust enrichment on the abstract basis that the retention of the benefit is “unjust” – there must be a particular recognised unjust factor or event which gives rise to a claim: _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased) and another_ <span class="citation">[2013] 3 SLR 801</span> (“ _Anna Wee_ ”) at [134]. It is not sufficient simply to assert that the retention of the benefit is unjust: _Anna Wee_ at [136]. Yet, this was precisely all that the defendant pleaded with respect to its alternative claim in unjust enrichment. It was only in its closing submissions that the defendant raised an alleged lack of consent as the unjust factor in support of its unjust enrichment claim. 
 
-58     The defendant referred me to _AAHG, LLC v Hong Hin Kay Albert_ [2017] 3 SLR 636 in which I expressed the view (at [74]) that lack of consent should be recognised as an unjust factor. The Court of Appeal has not ruled on this point. However, what is more important in the present case is that the defendant did not plead lack of consent as the unjust factor that it was relying on. 
+58     The defendant referred me to _AAHG, LLC v Hong Hin Kay Albert_ <span class="citation">[2017] 3 SLR 636</span> in which I expressed the view (at [74]) that lack of consent should be recognised as an unjust factor. The Court of Appeal has not ruled on this point. However, what is more important in the present case is that the defendant did not plead lack of consent as the unjust factor that it was relying on. 
 
 59     In any event, the findings that I have made clearly do not support any lack of consent. 
 
 60     In its closing submissions, the defendant made two other submissions: 
 
- (a) First, the defendant referred to Eng Chiet Shoong and others v Cheong Soh Chin and others and another appeal [2016] 4 SLR 728 (“ Eng Chiet Shoong ”) at [35] for the proposition that a quantum meruit claim exists as part of the law of unjust enrichment and that recovery of compensation for work done where there is no express contract may be made on a quantum 
+ (a) First, the defendant referred to Eng Chiet Shoong and others v Cheong Soh Chin and others and another appeal <span class="citation">[2016] 4 SLR 728</span> (“ Eng Chiet Shoong ”) at [35] for the proposition that a quantum meruit claim exists as part of the law of unjust enrichment and that recovery of compensation for work done where there is no express contract may be made on a quantum 
 
 
  meruit basis. [note: 64] 

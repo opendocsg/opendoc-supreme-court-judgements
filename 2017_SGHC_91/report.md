@@ -16,7 +16,7 @@
 
 _Civil Procedure_ – _Costs_ – _Certificate for costs for more than two solicitors_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 55, 56, 57 and 58 of 2017 were allowed in part by the Court of Appeal on 17 January 2018. See [2018] SGCA 3.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 55, 56, 57 and 58 of 2017 were allowed in part by the Court of Appeal on 17 January 2018. See <span class="citation">[2018] SGCA 3</span>.] 
 
 25 April 2017 
 
@@ -24,7 +24,7 @@ _Civil Procedure_ – _Costs_ – _Certificate for costs for more than two solic
 
 **Introduction** 
 
-1       On 8 February 2017, I delivered my judgment in this action – _Parakou Shipping Pte Ltd (In Liquidation) v Liu Cheng Chan and others_ [2017] SGHC 15 (“the Judgment”). The plaintiff, Parakou Shipping Pte Ltd (In Liquidation), did not succeed in all of its claims against the six defendants; I found each defendant liable for one or more claims. 
+1       On 8 February 2017, I delivered my judgment in this action – _Parakou Shipping Pte Ltd (In Liquidation) v Liu Cheng Chan and others_ <span class="citation">[2017] SGHC 15</span> (“the Judgment”). The plaintiff, Parakou Shipping Pte Ltd (In Liquidation), did not succeed in all of its claims against the six defendants; I found each defendant liable for one or more claims. 
 
 2       On 13 March 2017, I heard the parties on the question of costs in this action and made several orders. The parties subsequently sought clarification regarding disbursements and I clarified my order on 19 April 2017. In summary, I made the following costs orders: 
 

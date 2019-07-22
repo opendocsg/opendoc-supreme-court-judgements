@@ -16,7 +16,7 @@
 
 _Charities_ – _Charitable Trusts_ – _Settlement of Scheme for Administration of Trust_ 
 
-[LawNet Editorial Note: This was a supplementary judgment to the Court of Appeal judgment reported at [2011] 3 SLR 500.] 
+[LawNet Editorial Note: This was a supplementary judgment to the Court of Appeal judgment reported at <span class="citation">[2011] 3 SLR 500</span>.] 
 
 25 July 2012 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Charities_ – _Charitable Trusts_ – _Settlement of Scheme for Administration
 
 **Introduction** 
 
-1       This is a supplementary judgment for Civil Appeal 126 of 2010/J. The appeal was first heard by us on 3 December 2010 and judgment was delivered on 26 April 2011 (see _Khoo Jeffrey and others v Life Bible-Presbyterian Church and others_ [2011] 3 SLR 500 (the “Judgment”)). In the Judgment, we held that two parcels of land, 9 and 9A Gilstead Road as well as 10 Gilstead Road (collectively, the “Premises”), were held on trust for the joint benefit of the Far Eastern Bible College (the “College”), of which Dr Jeffrey Khoo, Dr Quek Suan Yew, Dr Prabhudas Koshy, Dr Tow Siang Yeow, Dr Boaz Boon, Wee Hian Kok, Rev Koa Keng Woo, and Rev Stephen Khoo (“the appellants”) are members, and the Life Bible-Presbyterian Church (the “Church”), the first respondent in this appeal (see the Judgment at [30] and [108]). We also held that the presumed objects of the trust are the objects of the Church and the College as evidenced in their founding constitutions (see the Judgment at [108][109]). 
+1       This is a supplementary judgment for Civil Appeal 126 of 2010/J. The appeal was first heard by us on 3 December 2010 and judgment was delivered on 26 April 2011 (see _Khoo Jeffrey and others v Life Bible-Presbyterian Church and others_ <span class="citation">[2011] 3 SLR 500</span> (the “Judgment”)). In the Judgment, we held that two parcels of land, 9 and 9A Gilstead Road as well as 10 Gilstead Road (collectively, the “Premises”), were held on trust for the joint benefit of the Far Eastern Bible College (the “College”), of which Dr Jeffrey Khoo, Dr Quek Suan Yew, Dr Prabhudas Koshy, Dr Tow Siang Yeow, Dr Boaz Boon, Wee Hian Kok, Rev Koa Keng Woo, and Rev Stephen Khoo (“the appellants”) are members, and the Life Bible-Presbyterian Church (the “Church”), the first respondent in this appeal (see the Judgment at [30] and [108]). We also held that the presumed objects of the trust are the objects of the Church and the College as evidenced in their founding constitutions (see the Judgment at [108][109]). 
 
 2       At [111] of the judgment, we said that we will hear the parties on “the exact orders which are necessary to give effect to the relief claimed by the Appellants” in Suit 278 of 2009, including a scheme (the “Scheme”) as to how the Premises are to be maintained and used by the College and the Church. After an unsuccessful attempt by both parties to mutually agree on the terms of the Scheme, parties appeared before us on 11 April 2012 to make submissions on the terms of the Scheme as well as the course to take to move forward. At that hearing, parties were agreeable to the suggestion of the court that the detailed examination of the question be remitted to a High Court judge for determination. We then directed parties to file their proposed terms of reference for the High Court judge and any objections to the other party’s proposed terms of reference. After considering the parties’ submissions, we now direct that the following shall be the terms of reference 
 
@@ -33,7 +33,7 @@ _Charities_ – _Charitable Trusts_ – _Settlement of Scheme for Administration
 
 **_Background_** 
 
-1       Pursuant to the Court of Appeal’s decision in _Khoo Jeffrey and others v Life Bible-Presbyterian Church and others_ [2011] 3 SLR 500 (the “CA Judgment”), the following properties (hereinafter, collectively referred to as the “Premises”) are impressed with a charitable purpose trust for the joint use and benefit of Life Bible-Presbyterian Church (“LBPC”) and Far Eastern Bible College (“FEBC”): 
+1       Pursuant to the Court of Appeal’s decision in _Khoo Jeffrey and others v Life Bible-Presbyterian Church and others_ <span class="citation">[2011] 3 SLR 500</span> (the “CA Judgment”), the following properties (hereinafter, collectively referred to as the “Premises”) are impressed with a charitable purpose trust for the joint use and benefit of Life Bible-Presbyterian Church (“LBPC”) and Far Eastern Bible College (“FEBC”): 
 
  (a) 9 and 9A Gilstead Road (lot no. TS28-146K with a lot area of 4,851.7 m^2 held under a 99year lease expiring on 31 July 2056); and 
 

@@ -18,7 +18,7 @@ _Civil Proc edure_ – _Jurisdic tion_
 
 _Conflic t of laws_ – _Natural forum_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 87 of 2018 was allowed by the Court of Appeal on 27 September 2018. See [2019] SGCA 11.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 87 of 2018 was allowed by the Court of Appeal on 27 September 2018. See <span class="citation">[2019] SGCA 11</span>.] 
 
 30 July 2018 
 
@@ -128,7 +128,7 @@ lodged the setting aside application. Should the setting aside application be al
 
 21     Jurisdiction over a foreign defendant is established if there is (a) consent; (b) submission; or (c) valid service of the originating process out of jurisdiction. 
 
-22     In relation to (c), the Court of Appeal in _Zoom Communic ations Ltd v Broadc ast Solutions Pte Ltd_ [2014] 4 SLR 500 (“ _Zoom Communic ations_ ”) at [26] stated that a plaintiff must meet three requirements before leave is granted for service out of jurisdiction: 
+22     In relation to (c), the Court of Appeal in _Zoom Communic ations Ltd v Broadc ast Solutions Pte Ltd_ <span class="citation">[2014] 4 SLR 500</span> (“ _Zoom Communic ations_ ”) at [26] stated that a plaintiff must meet three requirements before leave is granted for service out of jurisdiction: 
 
  (a) The claim must come within the scope of one or more of the limbs within O 11 r 1 of the ROC; 
 
@@ -144,7 +144,7 @@ lodged the setting aside application. Should the setting aside application be al
 
 **Whether the claim falls within O 11 r 1 of the Rules of Court** 
 
-25     To prove that a claim falls within O 11 r 1 of the ROC, a plaintiff has to meet the standard of a good arguable case: _Bradley Lomas Elec trolok Ltd v Colt Ventilation East Asia Pte Ltd_ [1999] 3 SLR(R) 1156 at [19]. As set out at [13] above, Shanghai Turbo sought to rely on O 11 r 1( _d_ )(iii), (iv) or ( _r_ ) of the ROC which state: 
+25     To prove that a claim falls within O 11 r 1 of the ROC, a plaintiff has to meet the standard of a good arguable case: _Bradley Lomas Elec trolok Ltd v Colt Ventilation East Asia Pte Ltd_ <span class="citation">[1999] 3 SLR(R) 1156</span> at [19]. As set out at [13] above, Shanghai Turbo sought to rely on O 11 r 1( _d_ )(iii), (iv) or ( _r_ ) of the ROC which state: 
 
  Cases in which service out of Singapore is permissible (O 11 r 1) 
 
@@ -169,7 +169,7 @@ lodged the setting aside application. Should the setting aside application be al
 
 **_Proper law of the Service Agreement_** 
 
-27     To determine the proper law of a contract, it is the law of the forum which is to be applied, _ie_ , Singapore law. Parties were in agreement that the three-stage test in _Pac ific Rec reation Pte Ltd v S Y Tec hnology Inc and another appeal_ [2008] 2 SLR(R) 491 (“ _Pac ific Rec reation_ ”) is applicable. The first stage requires the court to examine the contract in question to determine if it expressly states what the governing law should be. If the first stage yields no result, the second stage then requires the court to ascertain whether the intention of the parties as to the proper law of the contract may be inferred from the surrounding circumstances; failing which, the third stage then directs the court to examine which system of law the contract has the closest and most real connection to, and that system of law would then be taken as the governing law. 
+27     To determine the proper law of a contract, it is the law of the forum which is to be applied, _ie_ , Singapore law. Parties were in agreement that the three-stage test in _Pac ific Rec reation Pte Ltd v S Y Tec hnology Inc and another appeal_ <span class="citation">[2008] 2 SLR(R) 491</span> (“ _Pac ific Rec reation_ ”) is applicable. The first stage requires the court to examine the contract in question to determine if it expressly states what the governing law should be. If the first stage yields no result, the second stage then requires the court to ascertain whether the intention of the parties as to the proper law of the contract may be inferred from the surrounding circumstances; failing which, the third stage then directs the court to examine which system of law the contract has the closest and most real connection to, and that system of law would then be taken as the governing law. 
 
 28     Turning to the first stage, clause 17 of the Service Agreement is titled “Governing Law” and states that the Service Agreement “ _shall be governed by the laws of Singapore/or People’s Republic of China_ ” [emphasis added]. On a plain reading, clause 17 does not purport to select any single proper law to govern the Service Agreement. Rather, it provides for an option between Singapore and Chinese law, without stating the mechanism by which the choice between the two would be made. 
 
@@ -272,14 +272,14 @@ _Conc lusion_
 
 **Whether Singapore is the** **_forum conveniens_** 
 
-55     With that, I turn to the second issue. The legal basis for the requirement that Singapore be the _forum c onveniens_ appears to be premised on O 11 r 2(2) of the ROC which provides that no leave to serve out of jurisdiction will be granted unless it is “made sufficiently to appear to the Court that the case is a proper one for service out of jurisdiction”: _PT Gunung Madu Plantations v Muhammad Jimmy Goh Mashun_ [2018] SGHC 64 at [30]. 
+55     With that, I turn to the second issue. The legal basis for the requirement that Singapore be the _forum c onveniens_ appears to be premised on O 11 r 2(2) of the ROC which provides that no leave to serve out of jurisdiction will be granted unless it is “made sufficiently to appear to the Court that the case is a proper one for service out of jurisdiction”: _PT Gunung Madu Plantations v Muhammad Jimmy Goh Mashun_ <span class="citation">[2018] SGHC 64</span> at [30]. 
 
 56     To establish this requirement, the two-stage test contained in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _The Spiliada_ ”) is to be applied: 
 
  (a) The first stage is to determine by reference to the connecting factors, the natural forum, ie , the forum which has the most real and substantial connection with the dispute. The question is whether there is some other available and more appropriate forum, aside from Singapore, for 
 
 
- the trial of the action. The relevant connecting factors would include locations of the parties, relevant witnesses, facts and evidence and the applicable law to the issues. Such connecting factors may also be grouped into five types, being personal connections, connections to events and transactions, governing law, other proceedings and shape of litigation: JIO Minerals FZC and others v Mineral Enterprises Ltd [2011] 1 SLR 391 (“ JIO Minerals ”) at [41]–[42]. Where the defendant seeks to set aside leave to serve out of jurisdiction, the burden lies on the plaintiff to establish that Singapore is the more appropriate forum: Zoom Communic ations at [71]. 
+ the trial of the action. The relevant connecting factors would include locations of the parties, relevant witnesses, facts and evidence and the applicable law to the issues. Such connecting factors may also be grouped into five types, being personal connections, connections to events and transactions, governing law, other proceedings and shape of litigation: JIO Minerals FZC and others v Mineral Enterprises Ltd <span class="citation">[2011] 1 SLR 391</span> (“ JIO Minerals ”) at [41]–[42]. Where the defendant seeks to set aside leave to serve out of jurisdiction, the burden lies on the plaintiff to establish that Singapore is the more appropriate forum: Zoom Communic ations at [71]. 
 
  (b) As for the second stage, assuming that that Singapore is determined not to be the natural forum, the court is to consider whether there are circumstances by reason of which justice requires that the Singapore court ought to hear the matter. The court is concerned with whether justice to the parties can be delivered in the natural forum, although the court ought not to pass judgment on the competence of the judiciary in a foreign country: see JIO Minerals at [43]. 
 
@@ -312,7 +312,7 @@ _Witnesses_
 
 63     As the alleged misconduct happened in China, many individuals involved in the hostage incident and the events that followed are based in China. Significantly, Shanghai Turbo also mentioned a host of other Chinese entities in the statement of claim, including the local police involved in the hostage incident, the Labour Union, Beijing Full Dimension Power and Changzhou Hengmiao. 
 
-64     In _JIO Minerals_ , the Court of Appeal observed (at [63]) that there were two distinct factors to be considered, namely (a) the convenience in having the case decided in the forum where the witnesses are ordinarily resident; and (b) the compellability of those witnesses. While it was recognised that the witness convenience factor would generally be of less significance today, given the ease of travel and the possible use of technology, the witness compellability factor is an important consideration. In _Ric kshaw Investments Ltd and another v Nic olai Baron von Uexkull_ [2007] 1 SLR(R) 377 at [19], the Court of Appeal observed that: 
+64     In _JIO Minerals_ , the Court of Appeal observed (at [63]) that there were two distinct factors to be considered, namely (a) the convenience in having the case decided in the forum where the witnesses are ordinarily resident; and (b) the compellability of those witnesses. While it was recognised that the witness convenience factor would generally be of less significance today, given the ease of travel and the possible use of technology, the witness compellability factor is an important consideration. In _Ric kshaw Investments Ltd and another v Nic olai Baron von Uexkull_ <span class="citation">[2007] 1 SLR(R) 377</span> at [19], the Court of Appeal observed that: 
 
  ... the importance of the location and the compellability of the witnesses depends on whether the main disputes revolve around questions of fact. If they do and, for example, the judge’s assessment of a witness’s credibility is crucial, then the location of the witnesses takes on greater significance because there would be savings of time and resources if the trial is held in the forum in which the witnesses reside and where they are c learly compellable to testify. [emphasis in the original] 
 
@@ -338,7 +338,7 @@ _Doc uments_
 _Related ac tion in China_ 
 
 
-73     Shortly after the proceedings were commenced, a related action was commenced by CZ3D against Mr Liu, as well as several of the potential witnesses, namely Chen Jianbo, Yin Baoneng, Huang Xia, Shen Liangda, Liu Ning and Pan Haiya, in the People’s Court of Zhonglou District, China, on 1 August 2017 (“the Chinese action”). In this regard, related concurrent foreign proceedings would be a relevant connecting factor which a court is entitled to take into account when determining _forum c onveniens: Virsagi Management (S) Pte Ltd v Welltec h Construc tion Pte Ltd and another appeal_ [2013] 4 SLR 1097 at [40]. 
+73     Shortly after the proceedings were commenced, a related action was commenced by CZ3D against Mr Liu, as well as several of the potential witnesses, namely Chen Jianbo, Yin Baoneng, Huang Xia, Shen Liangda, Liu Ning and Pan Haiya, in the People’s Court of Zhonglou District, China, on 1 August 2017 (“the Chinese action”). In this regard, related concurrent foreign proceedings would be a relevant connecting factor which a court is entitled to take into account when determining _forum c onveniens: Virsagi Management (S) Pte Ltd v Welltec h Construc tion Pte Ltd and another appeal_ <span class="citation">[2013] 4 SLR 1097</span> at [40]. 
 
 74     Having perused the court papers, essentially, the Chinese action arises out of the same events leading to the alleged breach of the Service Agreement, specifically the breach of the delivery up obligation. This was not seriously disputed by Shanghai Turbo. The material difference is that the Chinese action is based on torts allegedly committed by Mr Liu against CZ3D, whereas the present proceedings are based on breaches of the Service Agreement. In that light, there is a risk of inconsistencies in findings made should the matters be dealt with by courts in two different jurisdictions. The existence of the Chinese action commenced by CZ3D after these proceedings were commenced, based on the same factual matrix, is another factor strongly in favour of China, rather than Singapore, as the _forum c onveniens._ 
 
@@ -373,7 +373,7 @@ _Conc lusion_
 
 **Whether there was full and frank disclosure** 
 
-81     The third issue in contention was whether at the _ex parte_ stage, there was full and frank disclosure of the material facts by Shanghai Turbo. In _Manharlal Trikamdas Mody and another v Sumikin Bussan International (HK) Ltd_ [2014] 3 SLR 1161, the High Court stated (at [78]): 
+81     The third issue in contention was whether at the _ex parte_ stage, there was full and frank disclosure of the material facts by Shanghai Turbo. In _Manharlal Trikamdas Mody and another v Sumikin Bussan International (HK) Ltd_ <span class="citation">[2014] 3 SLR 1161</span>, the High Court stated (at [78]): 
 
  ... The duty of disclosure that is owed relates to the facts which are set out in the supporting affidavit bearing in mind that the applicant has to establish a good arguable case. Copies of documents that are referred to in the affidavit should also be exhibited and the affidavit must also set out sufficient facts to demonstrate that Singapore is the forum c onveniens ...Given the ex parte nature of the application, the applicant must place all material facts before the court can be so satisfied. It goes without saying that this includes facts which are unfavourable to the applicant’s case because the duty to make full and frank disclosure is not merely a matter of fairness between the parties to the action but it is a duty that is owed to the court. [emphasis in the original] 
 
@@ -388,7 +388,7 @@ in China. After setting out some background, Chia’s 1st affidavit sought to co
 
 85     Turning to the question whether the claim falls within O 11 r 1 of the ROC, at para 7 of Chia’s 1st affidavit, Mr Chia stated that the Service Agreement is governed by Singapore law as it is explicitly stated in clause 17. Then, at paras 8 and 9, again relying on clause 17, Mr Chia deposed to the fact that there is a term granting non-exclusive jurisdiction to the Singapore courts, and parties have submitted to the jurisdiction of the Singapore courts. It was not specifically highlighted that clause 17 also provided for Chinese governing law, and non-exclusive jurisdiction of the Chinese courts. There was also no disclosure by Shanghai Turbo on the potential difficulties with the validity of clause 17. 
 
-86     In _The Vasiliy Golovnin_ [2008] 4 SLR(R) 994 at [94], it was stated that: 
+86     In _The Vasiliy Golovnin_ <span class="citation">[2008] 4 SLR(R) 994</span> at [94], it was stated that: 
 
  ... Further, all material facts should be fairly stated in the affidavit, and it is not open to a plaintiff to say that it has fulfilled its duty to make full and frank disclosure because the relevant facts can be distilled somewhat from somewhere in the voluminous exhibits filed. In short, in the words of Bingham J in Siporex Trade SA v Comdel Commodities Ltd [1986] 2 Lloyd’s Rep 428 at 437, the applicant “must identify the crucial points for and against the application, and not rely on general statements and the mere exhibiting of numerous doc uments ”. [emphasis in original] 
 

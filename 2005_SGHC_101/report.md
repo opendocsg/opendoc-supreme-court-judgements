@@ -267,7 +267,7 @@ The respondent claimed that thenceforth, all future work done by LCP (including 
 
 **The decision** 
 
-42     This case was unusual in that it was not the solicitor who sought to enforce an agreement on legal fees (as in _Shamsudin bin Embun v PT Seah & Co_ [1986] SLR 510) but the client. A case cited by both parties on the determination of an agreement on legal fees was _Chamberlain v Boodle & King_ [1982] 3 All ER 188 (“the _Chamberlain_ case”) while the respondent cited Prakash J’s (unreported) decision in _SM Integrated Transware Pte Ltd v Schenker Singapore Pte Ltd_ [2005] SGHC 58 when he wrote in for further arguments. 
+42     This case was unusual in that it was not the solicitor who sought to enforce an agreement on legal fees (as in _Shamsudin bin Embun v PT Seah & Co_ [1986] SLR 510) but the client. A case cited by both parties on the determination of an agreement on legal fees was _Chamberlain v Boodle & King_ [1982] 3 All ER 188 (“the _Chamberlain_ case”) while the respondent cited Prakash J’s (unreported) decision in _SM Integrated Transware Pte Ltd v Schenker Singapore Pte Ltd_ <span class="citation">[2005] SGHC 58</span> when he wrote in for further arguments. 
 
 43     The headnote of the _Chamberlain_ case reads as follows: 
 

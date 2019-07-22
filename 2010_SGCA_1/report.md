@@ -16,7 +16,7 @@
 
 _Criminal Procedure and Sentencing_ 
 
-**[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2009] SGHC 185 .]** 
+**[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2009] SGHC 185</span> .]** 
 
 21 January 2010 
 
@@ -28,7 +28,7 @@ _Criminal Procedure and Sentencing_
 
 2       The accused was subsequently charged with 44 counts of multiple sexual assaults perpetrated against the victim. He pleaded guilty to nine of the charges and the remaining 35 charges were taken into account for the purposes of sentencing. 
 
-3       The trial judge (“the Judge”) sentenced the accused to (see _PP v ABJ_ [2009] SGHC 185 at [5]): 
+3       The trial judge (“the Judge”) sentenced the accused to (see _PP v ABJ_ <span class="citation">[2009] SGHC 185</span> at [5]): 
 
  (a) 16 years’ imprisonment for each of the five charges under s 376(2) of the Penal Code (Cap 224, 1985 Rev Ed) (“the Penal Code”) ( viz , the first, second, eighth, 13th and 19th charges (see also below at [12])), which sentences were to run concurrently; 
 
@@ -86,11 +86,11 @@ Indeed, all these findings are consistent with the contents of the Victim Impact
 
 that the accused’s age was not a limiting factor which prevented the court from imposing a heavier sentence on the accused. 
 
-14     The accused acknowledged (in a letter to the court) that he had committed very serious offences and stated that he was very sorry to the victim and to society. He promised to reform himself. He also referred to his medical problems and hoped that he could see his family in China one day. We pause to note, parenthetically, however, that the accused did not own up to his misdeeds of his own volition and that his offences came to light only when they were reported by the victim’s parents to the police (see also the decision of this court in _PP v UI_ [2008] 4 SLR(R) 500 at [73]). 
+14     The accused acknowledged (in a letter to the court) that he had committed very serious offences and stated that he was very sorry to the victim and to society. He promised to reform himself. He also referred to his medical problems and hoped that he could see his family in China one day. We pause to note, parenthetically, however, that the accused did not own up to his misdeeds of his own volition and that his offences came to light only when they were reported by the victim’s parents to the police (see also the decision of this court in _PP v UI_ <span class="citation">[2008] 4 SLR(R) 500</span> at [73]). 
 
 **Our decision** 
 
-15     There is a general – and constant – need to balance societal needs and concerns on the one hand and the needs and concerns of the individual on the other. This is especially the case in the context of the sentencing process. As I observed in _ADF v PP_ [2009] SGCA 57 at [218] and [222]: 
+15     There is a general – and constant – need to balance societal needs and concerns on the one hand and the needs and concerns of the individual on the other. This is especially the case in the context of the sentencing process. As I observed in _ADF v PP_ <span class="citation">[2009] SGCA 57</span> at [218] and [222]: 
 
  218 The sentencing process is not – and ought not to be – a mechanistic one. Still less is a decision on sentencing in a given case arrived at merely by a resort to a prior precedent or precedents unless the facts as well as context in that case are wholly coincident with those in the prior case or cases. This last mentioned situation is, in the nature of things, likely to be rare. The sentencing process is a complex one where the precise factual matrix is all-important and where the court is tasked with the delicate process of balancing a number of important factors centring on both individual (in particular, in relation to the accused) and societal concerns. Indeed, the general aims of sentencing (viz, prevention, retribution, deterrence, rehabilitation and 
 

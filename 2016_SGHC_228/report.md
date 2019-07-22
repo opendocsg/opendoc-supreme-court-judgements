@@ -20,7 +20,7 @@ _Criminal procedure and sentencing_ – _Sentencing_ – _Importation of control
 
 **Lee Seiu Kin J:** 
 
-1       The accused stood trial before me over seven days in May 2016 for an offence under s 7 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“the MDA”) for importation of a controlled drug. On 4 July 2016, after counsel for both parties made their submissions before me, I reserved judgment. On 22 September 2016, I found the accused guilty as charged. The written grounds of decision and full facts of the case are found in _PP v Sibeko Lindiwe Mary-Jane_ [2016] SGHC 199 (“the GD”) released the same day. 
+1       The accused stood trial before me over seven days in May 2016 for an offence under s 7 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“the MDA”) for importation of a controlled drug. On 4 July 2016, after counsel for both parties made their submissions before me, I reserved judgment. On 22 September 2016, I found the accused guilty as charged. The written grounds of decision and full facts of the case are found in _PP v Sibeko Lindiwe Mary-Jane_ <span class="citation">[2016] SGHC 199</span> (“the GD”) released the same day. 
 
 2       Upon conviction, the learned Deputy tendered a certificate by the Public Prosecutor certifying that, in his determination, the accused had substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities within or outside Singapore. With this certificate, the requirement in s 33B(2)( _b_ ) of the MDA was satisfied. 
 

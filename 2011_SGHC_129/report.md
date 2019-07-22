@@ -173,13 +173,13 @@ all such buses. The contract effecting this arrangement was signed by Mr Cheong 
 
 **The law** 
 
-42     To find a contract, there must be an identifiable agreement that is complete and certain, consideration as well as an intention to create legal relations. This basic principle of contract law was reemphasised in _Gay Choon Ing v Loh Sze Ti Terence Peter and another appeal_ [2009] 2 SLR(R) 332 (“ _Gay Choon Ing_ ”). Where the contract is not in writing, the court would have to examine the oral evidence as well as the contemporaneous correspondence and conduct of the parties at the material time to ascertain whether the parties did reach an agreement. In _Projection Pte Ltd v The Tai Ping Insurance Co Ltd_ [2001] 1 SLR(R) 798, the Court of Appeal cited with approval at [16] the following observation of Lord Denning MR in _Port Sudan Cotton Co v Govindaswamy Chettiar & Sons_ [1972] 2 Lloyd’s Rep 5 at 10: 
+42     To find a contract, there must be an identifiable agreement that is complete and certain, consideration as well as an intention to create legal relations. This basic principle of contract law was reemphasised in _Gay Choon Ing v Loh Sze Ti Terence Peter and another appeal_ <span class="citation">[2009] 2 SLR(R) 332</span> (“ _Gay Choon Ing_ ”). Where the contract is not in writing, the court would have to examine the oral evidence as well as the contemporaneous correspondence and conduct of the parties at the material time to ascertain whether the parties did reach an agreement. In _Projection Pte Ltd v The Tai Ping Insurance Co Ltd_ <span class="citation">[2001] 1 SLR(R) 798</span>, the Court of Appeal cited with approval at [16] the following observation of Lord Denning MR in _Port Sudan Cotton Co v Govindaswamy Chettiar & Sons_ [1972] 2 Lloyd’s Rep 5 at 10: 
 
  ... I do not much like the analysis in the text-books of inquiring whether there was an offer and acceptance, or a counter-offer, and so forth. I prefer to examine the whole of the documents in the case and decide from them whether the parties did reach an agreement upon all material terms in such circumstances that the proper inference is that they agreed to be bound by those terms from that time onwards. 
 
 43     The importance of reaching full and final agreement on the terms of the contract cannot be overstressed. In the words of Maugham LJ in _Foley v Classique Coaches Ltd_ [1934] 2 KB 1 at 13, it is “indisputable that unless all the material terms of the contract are agreed there is no binding obligation”. 
 
-44     In _Midlink Development Pte Ltd v Stansfield Group Pte Ltd_ [2004] 4 SLR(R) 258, V K Rajah JC opined at [52] that “the touchstone is whether, in the established matrix of circumstances, the conduct of the parties, objectively ascertained, supports the existence of a contract”. 
+44     In _Midlink Development Pte Ltd v Stansfield Group Pte Ltd_ <span class="citation">[2004] 4 SLR(R) 258</span>, V K Rajah JC opined at [52] that “the touchstone is whether, in the established matrix of circumstances, the conduct of the parties, objectively ascertained, supports the existence of a contract”. 
 
 **Submissions and analysis** 
 

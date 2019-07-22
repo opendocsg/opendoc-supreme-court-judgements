@@ -22,7 +22,7 @@ _Family law_ – _maintenance_ – _wife_
 
 _Family law_ – _maintenance_ – _child_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 186 of 2014 was dismissed by the Court of Appeal on 29 July 2015. See [2015] SGCA 47.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 186 of 2014 was dismissed by the Court of Appeal on 29 July 2015. See <span class="citation">[2015] SGCA 47</span>.] 
 
 20 January 2015 
 
@@ -53,17 +53,17 @@ March 2010. [note: 3] The wife commenced divorce proceedings on 11 November 2010
 
 _The wife’s submissions_ 
 
-6       The wife submitted that the court should grant sole custody to her as it would be in the child’s best interests. This was because the welfare of the child was always of paramount consideration ( _IW v IX_ [2006] 1 SLR(R) 135 at [26]). She further cited _CX v CY (minor: custody and access)_ [2005] 3 SLR(R) 690 where the court held that sole custody orders would be granted in exceptional circumstances (at [38]): 
+6       The wife submitted that the court should grant sole custody to her as it would be in the child’s best interests. This was because the welfare of the child was always of paramount consideration ( _IW v IX_ <span class="citation">[2006] 1 SLR(R) 135</span> at [26]). She further cited _CX v CY (minor: custody and access)_ <span class="citation">[2005] 3 SLR(R) 690</span> where the court held that sole custody orders would be granted in exceptional circumstances (at [38]): 
 
  ... We agree with Assoc Prof Debbie Ong that the exceptional circumstances where sole custody orders are made may be where one parent physically, sexually, or emotionally abuses the child (see Debbie Ong, "Making No Custody Order" ([19] supra ) at p 586), or where the relationship of the parties is such that co-operation is impossible even after the avenues of mediation and counselling have been explored, and the lack of co-operation is harmful to the child (see Debbie Ong, "Parents and Custody Orders" ([27] supra ) at p 222-223). 
 
 7       Pursuant to the above, the wife submitted that the court had granted sole custody orders in the following circumstances: 
 
- ( a ) ARI v ARJ [2011] SGDC 135: The parties had dissolved their marriage in Serbia and both had applied for sole custody of the child. In awarding sole custody to the wife, the court observed that the husband had repeatedly raised unsubstantiated allegations of the wife abusing the child, resulting in a medical social worker, the police and the then Ministry of Community, Youth and Sports getting involved. His actions showed that he was more preoccupied with substantiating his allegations than looking out for the child’s welfare. This had created an atmosphere of repeated upheaval for the child. Despite the wife’s genuine intentions to cooperate with the husband, he was unable to make decisions in the child’s best interests and continued to be hostile and uncooperative to the wife. As such a situation should not be allowed to be perpetuated, the court granted sole custody of the child to the wife. 
+ ( a ) ARI v ARJ <span class="citation">[2011] SGDC 135</span>: The parties had dissolved their marriage in Serbia and both had applied for sole custody of the child. In awarding sole custody to the wife, the court observed that the husband had repeatedly raised unsubstantiated allegations of the wife abusing the child, resulting in a medical social worker, the police and the then Ministry of Community, Youth and Sports getting involved. His actions showed that he was more preoccupied with substantiating his allegations than looking out for the child’s welfare. This had created an atmosphere of repeated upheaval for the child. Despite the wife’s genuine intentions to cooperate with the husband, he was unable to make decisions in the child’s best interests and continued to be hostile and uncooperative to the wife. As such a situation should not be allowed to be perpetuated, the court granted sole custody of the child to the wife. 
 
- ( b ) GK v GL [2005] SGDC 8: In that case, the wife had requested that she be given sole custody of the children as the parties’ relationship was very acrimonious and they were unable to communicate – the husband did not deny the wife’s allegations that he was only able to “spew vulgarities at her over the telephone and refused to inform her of the times he would be taking and returning the children” (at [18]). 
+ ( b ) GK v GL <span class="citation">[2005] SGDC 8</span>: In that case, the wife had requested that she be given sole custody of the children as the parties’ relationship was very acrimonious and they were unable to communicate – the husband did not deny the wife’s allegations that he was only able to “spew vulgarities at her over the telephone and refused to inform her of the times he would be taking and returning the children” (at [18]). 
 
- ( c ) YB v YC [2008] SGDC 279: The wife was granted sole custody as the husband had been extremely litigious without any sincere intention to be genuinely involved in the children’s lives. It had been four years since he had seen his children on a regular basis and yet he was still willing 
+ ( c ) YB v YC <span class="citation">[2008] SGDC 279</span>: The wife was granted sole custody as the husband had been extremely litigious without any sincere intention to be genuinely involved in the children’s lives. It had been four years since he had seen his children on a regular basis and yet he was still willing 
 
 
  to wait till the proceedings were conclusively over before he would exercise his access rights. The judge held that joint custody was not an automatic right and it was only when the parent was sincere and serious about being involved in the children’s lives that the parent would be granted joint custody. 
@@ -82,7 +82,7 @@ to make decisions in the child’s best interests. [note: 7]
 
 _The husband’s submissions_ 
 
-10     The husband admitted to being estranged from the child. However, he submitted that in _ZO v ZP and another appeal_ [2011] SGCA 25 at [12], the Court of Appeal reaffirmed its commitment to granting joint custodies as the norm rather than the exception. In that case, the court refused to grant a sole custody order to the wife. It held that joint parenting was in the best interest of the child and acrimony alone was no basis to grant a sole custody order. On that basis, the husband submitted that a joint custody order should be granted as it was in the best interests of the child to have both parents involved in her life. He would like to be involved in his daughter’s educational progress, her health issues and her likes and dislikes. However, ever since he left the matrimonial home in 2010, he had not received any information about the child. His requests for more information 
+10     The husband admitted to being estranged from the child. However, he submitted that in _ZO v ZP and another appeal_ <span class="citation">[2011] SGCA 25</span> at [12], the Court of Appeal reaffirmed its commitment to granting joint custodies as the norm rather than the exception. In that case, the court refused to grant a sole custody order to the wife. It held that joint parenting was in the best interest of the child and acrimony alone was no basis to grant a sole custody order. On that basis, the husband submitted that a joint custody order should be granted as it was in the best interests of the child to have both parents involved in her life. He would like to be involved in his daughter’s educational progress, her health issues and her likes and dislikes. However, ever since he left the matrimonial home in 2010, he had not received any information about the child. His requests for more information 
 
 and to spend time with the child were rebuffed by the wife. [note: 8] 
 
@@ -148,10 +148,10 @@ by the wife. [note: 18] There must be a proper balance in terms of engaging the 
 
 _The wife’s submissions_ 
 
-21     With respect to access, the wife submitted that in _BG v BF_ [2007] 3 SLR(R) 233 at [13] the Court of Appeal had held that, as far as possible, the child should be allowed to interact with both parents so that he can get as far as possible a normal family life. Therefore, unless there are strong 
+21     With respect to access, the wife submitted that in _BG v BF_ <span class="citation">[2007] 3 SLR(R) 233</span> at [13] the Court of Appeal had held that, as far as possible, the child should be allowed to interact with both parents so that he can get as far as possible a normal family life. Therefore, unless there are strong 
 
 
-reasons to deny access, the non-custodial parent ( _ie_ , the parent without care and control) should always get access to the child. Supervised access would be necessary in certain circumstances (see _BKJ v BKK_ [2013] SGDC 261 at [23]–[25]): 
+reasons to deny access, the non-custodial parent ( _ie_ , the parent without care and control) should always get access to the child. Supervised access would be necessary in certain circumstances (see _BKJ v BKK_ <span class="citation">[2013] SGDC 261</span> at [23]–[25]): 
 
  23 Supervised access will normally only be necessary if there is a risk of abuse or some other kind of danger to the child. There must, however, be a reasonable basis for the allegations of abuse or danger, and a mere unsubstantiated fear or suspicion on is most definitely not a sufficient ground to justify supervised access. 
 
@@ -169,7 +169,7 @@ reasons to deny access, the non-custodial parent ( _ie_ , the parent without car
 
 _The husband’s submission_ 
 
-23     The husband submitted that in _Tay Ah Hoe (m w) v Kwek Lye Seng_ [1996] SGHC 120 (“ _Tay Ah Hoe_ ”), the court had granted the father unsupervised access so that the daughter and the father could establish a proper relationship. In that judgment, it was clear that supervised access would only be granted in very exceptional circumstances: 
+23     The husband submitted that in _Tay Ah Hoe (m w) v Kwek Lye Seng_ <span class="citation">[1996] SGHC 120</span> (“ _Tay Ah Hoe_ ”), the court had granted the father unsupervised access so that the daughter and the father could establish a proper relationship. In that judgment, it was clear that supervised access would only be granted in very exceptional circumstances: 
 
  ... In cases where there is abuse of a child by a parent the offending parent may be denied custody and access, or access may only be permitted under supervision or other conditions for the safety of the child. ... 
 
@@ -332,7 +332,7 @@ The result was that the child became estranged from the husband and the conseque
 
 39     On the issue of maintenance of the wife, the wife submitted that all she wanted was a nominal 
 
-sum of $1 [note: 26] in order to preserve her rights in the event anything untoward happens to her in the future. The wife referred to _Tan Bee Giok v Loh Kum Yong_ [1996] 3 SLR(R) 605 (“ _Tan Bee Giok_ ”) in which the Court of Appeal held that the court could not vary the maintenance order under s 112 of the Women’s Charter (Cap 353, 1985 Rev Ed) (now s 118 of the present WC) if there was no subsisting order for maintenance. The husband submitted that she should get no maintenance. 
+sum of $1 [note: 26] in order to preserve her rights in the event anything untoward happens to her in the future. The wife referred to _Tan Bee Giok v Loh Kum Yong_ <span class="citation">[1996] 3 SLR(R) 605</span> (“ _Tan Bee Giok_ ”) in which the Court of Appeal held that the court could not vary the maintenance order under s 112 of the Women’s Charter (Cap 353, 1985 Rev Ed) (now s 118 of the present WC) if there was no subsisting order for maintenance. The husband submitted that she should get no maintenance. 
 
 40     Given that the wife was earning a good salary and she only wanted nominal maintenance to preserve her right for maintenance in the future should the need arise, I decided for pragmatic reasons that it was not necessary to order nominal maintenance merely to preserve her rights to maintenance in future. To achieve this end, I indicated that this would not preclude her from applying for maintenance in the future should there be a need for her to do so. Thus I made no order as regards her maintenance. I am aware that the Court of Appeal in _Tan Bee Giok_ made the following observations (at [15]): 
 
@@ -365,7 +365,7 @@ made no order for maintenance.
 
 between them and it should amount to $500 each per month. [note: 27] 
 
-43     It is trite that maintenance is ordered in order to meet the reasonable needs of the child and if the child’s lifestyle is overly extravagant, the husband should not be made to bear the costs of it. The husband submitted that it was the case in the present circumstances, relying on on _Wong Ser Wan v Ng Cheong Ling_ [2006] 1 SLR(R) 416 at [101] in support: 
+43     It is trite that maintenance is ordered in order to meet the reasonable needs of the child and if the child’s lifestyle is overly extravagant, the husband should not be made to bear the costs of it. The husband submitted that it was the case in the present circumstances, relying on on _Wong Ser Wan v Ng Cheong Ling_ <span class="citation">[2006] 1 SLR(R) 416</span> at [101] in support: 
 
  101 I have concluded therefore that Ezine has satisfied the requirements of s 69(5)(c) of the Act and that the provision of maintenance is necessary because he was during the relevant period receiving instruction from an educational establishment. I would not award him maintenance despite that, if I was satisfied that the husband was totally unable to pay such maintenance. As I have found earlier, however, the husband does have assets and I think it is right to make him support Ezine's education to a reasonable extent. Also, since Ezine has been out of the Singapore school system since he was sent to boarding school at the age of ten, I do not think the husband can reasonably cavil at Ezine's choosing to study in the US. On the other hand, I consider that Ezine's claim for maintenance was pitched at an extremely high level. He has lived the life of an extremely wealthy young man and his mother does not seem to have put him on any budget but has simply given him whatever funds he has asked for. As a result, he has been able to indulge in a great many expensive pursuits and it would not be correct to ask the husband to foot the bill for all of these. I would also restrict the period for which maintenance is awarded to a period of 45 months being the period during which he could have obtained his degree from Lynn University had he studied there continuously from the time he first enrolled. This 45-month period is calculated from enrolment in September in the year of entry to graduation in May in the fourth year of studies. [emphasis added] 
 
@@ -433,7 +433,7 @@ hand submitted that the division should be 65:35 in his favour. [note: 30]
 
  Percentage 74.72% 25.28% 
 
-48     In _Anthony Patrick Nathan v Chan Siew Chin_ [2011] 4 SLR 1121 at [16], Quentin Loh J explained that the division of matrimonial assets was to be done in the following manner: 
+48     In _Anthony Patrick Nathan v Chan Siew Chin_ <span class="citation">[2011] 4 SLR 1121</span> at [16], Quentin Loh J explained that the division of matrimonial assets was to be done in the following manner: 
 
  (a) first, the value of the pool of matrimonial assets was to be determined; 
 
@@ -578,14 +578,14 @@ _The husband’s submissions_
 
 57     The husband, on the other hand, submitted that in dividing the matrimonial assets, the courts have considered and given weight to the fact that parties had agreed for one party’s income to be used for household expenses with the remaining income and other party’s income used for savings. He cited the following cases in support: 
 
- (a) BHL v BHM [2013] SGHC 92: This case involved a 10-year marriage in which the husband’s case was that the parties had agreed that his income would be used for household expenses while the remaining income and the wife’s income would be used as savings for the family. The parties had a joint account into which the husband’s salary and bonus was deposited. The court was satisfied that the household and family expenses were borne by the husband. 
+ (a) BHL v BHM <span class="citation">[2013] SGHC 92</span>: This case involved a 10-year marriage in which the husband’s case was that the parties had agreed that his income would be used for household expenses while the remaining income and the wife’s income would be used as savings for the family. The parties had a joint account into which the husband’s salary and bonus was deposited. The court was satisfied that the household and family expenses were borne by the husband. 
 
- ( b ) Chan Yeong Keay v Yeo Mei Ling [1994] 2 SLR(R) 133: This case involved a 23-year marriage where the wife was the sole breadwinner and the husband had contributed by taking care of the home and buying household necessities with money that he earned from tuition. The court recognised that the husband had made substantial contributions to the marriage and 
+ ( b ) Chan Yeong Keay v Yeo Mei Ling <span class="citation">[1994] 2 SLR(R) 133</span>: This case involved a 23-year marriage where the wife was the sole breadwinner and the husband had contributed by taking care of the home and buying household necessities with money that he earned from tuition. The court recognised that the husband had made substantial contributions to the marriage and 
 
 
  relieved the wife of having to pay for items that she would otherwise have had to pay for. 
 
- ( c ) BCB v BCC [2013] 2 SLR 324: In this case, the court awarded the husband 40% of the matrimonial assets as he had contributed substantially to the household expenses. 
+ ( c ) BCB v BCC <span class="citation">[2013] 2 SLR 324</span>: In this case, the court awarded the husband 40% of the matrimonial assets as he had contributed substantially to the household expenses. 
 
 58     In the premises, the husband submitted that the court should give weight to the following facts 
 

@@ -41,7 +41,7 @@ _Civil Procedure_
 
  to enable the other side to know with what evidence they ought to be prepared and to prepare for trial. 
 
-Mr Wang then referred to _Sharikat Logistics Pte Ltd v Ong Boon Chuan_ [2011] SGHC 196, a decision of this court and to paragraph 10 of that decision where I held as follows: 
+Mr Wang then referred to _Sharikat Logistics Pte Ltd v Ong Boon Chuan_ <span class="citation">[2011] SGHC 196</span>, a decision of this court and to paragraph 10 of that decision where I held as follows: 
 
  In the first category of particulars sought, the defendants in question referred to the allegations that TG Properties and TG Realty were companies under the control of the first and fourth defendants, and wanted the plaintiff to set out “all facts and circumstances relied upon by the plaintiff in alleging such control”. This is a classic example of unnecessary particularisation. All the defendants need to do is to deny that there is such control or that if there was, to plead that the fact of such control was irrelevant to the case. 
 

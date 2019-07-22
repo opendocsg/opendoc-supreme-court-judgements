@@ -20,7 +20,7 @@ _Companies_ – _Directors_ – _Duties_ – _Breach of fiduciary duties_ – _D
 
 Chan Sek Keong CJ (delivering the judgment of the court): 
 
-1       In this appeal, Ting Sing Ning alias Malcolm Ding (“the appellant”) appeals against the judgment of Choo Han Teck J (“the Judge”) reported at [2007] 1 SLR 369 (“ _Ting Sing Ning_ ”) that the appellant had no _locus standi_ to proceed with the derivative action commenced on behalf of Havilland Ltd (“Havilland”) against three of its directors, namely, the first and second respondents, as well as the fifth defendant. 
+1       In this appeal, Ting Sing Ning alias Malcolm Ding (“the appellant”) appeals against the judgment of Choo Han Teck J (“the Judge”) reported at <span class="citation">[2007] 1 SLR 369</span> (“ _Ting Sing Ning_ ”) that the appellant had no _locus standi_ to proceed with the derivative action commenced on behalf of Havilland Ltd (“Havilland”) against three of its directors, namely, the first and second respondents, as well as the fifth defendant. 
 
 **Background** 
 
@@ -170,7 +170,7 @@ brought, and chose to do nothing about it. Pertinently, Ting admitted in his aff
 
 **_Availability of alternative remedies_** 
 
-25     Counsel for the second respondent has also submitted that this court should not allow this appeal because there are alternative remedies available to the appellant. The first is that Havilland can be wound up as the shareholders had expressed their agreement to such a course of action at Havilland’s annual general meeting held on 31 March 2006. Counsel cited _Pang Yong Hock v PKS Contract Services Pte Ltd_ [2003] SGHC 195 (HC), [2004] 3 SLR 1 (CA) (“ _Pang Yock Hock_ ”) as authority for this proposition. A second alternative available to the appellant is to pursue an oppression action available under s 168A of the Hong Kong Companies Ordinance (Cap 32) (which corresponds to the oppression action encapsulated in s 216 of the Companies Act (Cap 50, 2006 Rev Ed). 
+25     Counsel for the second respondent has also submitted that this court should not allow this appeal because there are alternative remedies available to the appellant. The first is that Havilland can be wound up as the shareholders had expressed their agreement to such a course of action at Havilland’s annual general meeting held on 31 March 2006. Counsel cited _Pang Yong Hock v PKS Contract Services Pte Ltd_ <span class="citation">[2003] SGHC 195</span> (HC), <span class="citation">[2004] 3 SLR 1</span> (CA) (“ _Pang Yock Hock_ ”) as authority for this proposition. A second alternative available to the appellant is to pursue an oppression action available under s 168A of the Hong Kong Companies Ordinance (Cap 32) (which corresponds to the oppression action encapsulated in s 216 of the Companies Act (Cap 50, 2006 Rev Ed). 
 
 _Our decision_ 
 

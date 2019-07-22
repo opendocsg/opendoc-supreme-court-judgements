@@ -463,7 +463,7 @@ business efficacy. As it transpired, both counsel confirmed that these provision
 
 79     Under s 14(3) a condition that the goods are reasonably fit for a particular purpose even if they are not commonly supplied for that purpose will be implied if the goods are sold in the course of a business and the seller is made aware of the particular purpose in question. 
 
-80     There is no dispute that the paint in question was sold by the defendant in the course of its business and so _prima facie_ it would appear that at least the condition specified in s 14(2) is to be implied. To the extent the defendant contended that the terms were inapplicable it was incumbent upon the defendant to show that the terms were not to be implied or that the parties had in fact expressly contracted out of these terms. The applicable principle was articulated by GP Selvam J in _MCST Plan No. 1166 v Chubb Singapore Pte Ltd_ [1999] 3 SLR 540 (“ _Chubb_ ”) where he noted as follows at [65]-[66]: 
+80     There is no dispute that the paint in question was sold by the defendant in the course of its business and so _prima facie_ it would appear that at least the condition specified in s 14(2) is to be implied. To the extent the defendant contended that the terms were inapplicable it was incumbent upon the defendant to show that the terms were not to be implied or that the parties had in fact expressly contracted out of these terms. The applicable principle was articulated by GP Selvam J in _MCST Plan No. 1166 v Chubb Singapore Pte Ltd_ <span class="citation">[1999] 3 SLR 540</span> (“ _Chubb_ ”) where he noted as follows at [65]-[66]: 
 
  Consequences of implication of terms by law 
 
@@ -499,7 +499,7 @@ business efficacy. As it transpired, both counsel confirmed that these provision
 
 85     None of these terms are so inconsistent with the conditions prescribed in s 14(2) or (3) of the Act so as to make it unjust or unreasonable to imply them. On the contrary, they either echo or supplement the rights prescribed by the Act. 
 
-86     Mr Narayanan relied on the decision of Lai Siu Chiu J in _Flairis Technology Corporation Ltd v Gan Huan Kee_ [2002] SGHC 116 (“ _Flairis Technology_ ”) in support of the proposition that where express terms comprehensively cover by contracting parties’ rights and liabilities, there is no room for the imposition of an implied term. In my judgment, _Flairis Technology_ is distinguishable from the present case on at least the following bases: 
+86     Mr Narayanan relied on the decision of Lai Siu Chiu J in _Flairis Technology Corporation Ltd v Gan Huan Kee_ <span class="citation">[2002] SGHC 116</span> (“ _Flairis Technology_ ”) in support of the proposition that where express terms comprehensively cover by contracting parties’ rights and liabilities, there is no room for the imposition of an implied term. In my judgment, _Flairis Technology_ is distinguishable from the present case on at least the following bases: 
 
  (a) that was not a case concerning a commercial sale of goods at all. Rather, Flairis Technology was a case concerning an application for injunctions restraining the defendants from carrying on a competing business and from using confidential information; 
 
@@ -530,7 +530,7 @@ business efficacy. As it transpired, both counsel confirmed that these provision
 
  (c) that the goods will be free from any defect, making their quality unsatisfactory, which would not be apparent on reasonable examination of the sample. 
 
-91     Mr Por submitted that the contract of sale for the Original Paint was a sale by sample because the defendant had supplied a colour sample to the architect who had approved it. He relied upon another decision of GP Selvam J, in _Ceramic Brickworks (S) Pte Ltd v Asia-Tech Construction & Engineering Pte Ltd_ [1996] 1 SLR 200 (“Ceramic Brickworks”) in support of the proposition that a sale based on a sample submitted for the architect’s approval could constitute a sale by sample. 
+91     Mr Por submitted that the contract of sale for the Original Paint was a sale by sample because the defendant had supplied a colour sample to the architect who had approved it. He relied upon another decision of GP Selvam J, in _Ceramic Brickworks (S) Pte Ltd v Asia-Tech Construction & Engineering Pte Ltd_ <span class="citation">[1996] 1 SLR 200</span> (“Ceramic Brickworks”) in support of the proposition that a sale based on a sample submitted for the architect’s approval could constitute a sale by sample. 
 
 92     In my judgment, _Ceramic Brickwords_ is distinguishable from the present case on three bases. First, Selvam J’s primary holding in that case was that the contract there was expressly provided to be a contract for sale by sample. The contract in question included the words “as per sample” which had been inserted by hand. Selvam J noted as follows at 204: 
 

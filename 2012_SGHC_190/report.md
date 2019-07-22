@@ -88,7 +88,7 @@ _Insolvency Law_ – _Winding Up_ – _Liquidator_
 
 13     The real issue therefore boils down to this: what is the relevant date when applying Rule 181 in a creditors’ voluntary liquidation where provisional liquidators have been appointed? The CA, BA and BR offer no express indication as to what the equivalent of “the date of the bankruptcy order” in a creditors’ voluntary liquidation is and there is no decided case on this issue. 
 
-14     Woo Bih Li J identified this problem in _Panorama Development Pte Ltd v Fitzroy Investment Pte Ltd_ [2003] 1 SLR(R) 93 (“ _Panorama Development_ ”) at [21]: 
+14     Woo Bih Li J identified this problem in _Panorama Development Pte Ltd v Fitzroy Investment Pte Ltd_ <span class="citation">[2003] 1 SLR(R) 93</span> (“ _Panorama Development_ ”) at [21]: 
 
  Also, in the context of companies, a determination may sometimes have to be made as to which date is the equivalent of the date of the bankruptcy order made under the applicable Bankruptcy Act (Cap 20, 1996 Rev Ed), i.e. the date of the filing of the winding up petition or the date of the winding up order. 
 
@@ -216,7 +216,7 @@ only when an order is made. Interest may only be calculated on a debt when it be
 
 30     This comparison shows a consistent intention for the bankruptcy order to correspond to the winding up order and the resolution for winding up in the BR and the CWR. 
 
-31     In the context of filing proofs of debt in winding up proceedings, the Singapore courts have determined that the equivalent of a bankruptcy order is not the commencement of winding up but the winding up order. In _Re City Securities Pte_ [1995] 2 SLR(R) 746 (“ _City Securities_ ”), Chao Hick Tin J (as he then was) applied s 40(3) of the Bankruptcy Act (Cap 20, 1985 Rev Ed) (“the 1985 BA”) and held that the cut-off date up to which proofs of debt could be calculated was the date of the order and not the date of presentation of the winding up petition. Section 40(3) of the 1985 BA is materially similar to the current s 87(3) BA. This corresponds, in the present case, to the Resolution Date, and is perfectly consistent with the examination of the BR and CWR at [27]–[30] above. 
+31     In the context of filing proofs of debt in winding up proceedings, the Singapore courts have determined that the equivalent of a bankruptcy order is not the commencement of winding up but the winding up order. In _Re City Securities Pte_ <span class="citation">[1995] 2 SLR(R) 746</span> (“ _City Securities_ ”), Chao Hick Tin J (as he then was) applied s 40(3) of the Bankruptcy Act (Cap 20, 1985 Rev Ed) (“the 1985 BA”) and held that the cut-off date up to which proofs of debt could be calculated was the date of the order and not the date of presentation of the winding up petition. Section 40(3) of the 1985 BA is materially similar to the current s 87(3) BA. This corresponds, in the present case, to the Resolution Date, and is perfectly consistent with the examination of the BR and CWR at [27]–[30] above. 
 
 **_The English and Australian Position_** 
 
@@ -283,7 +283,7 @@ In so holding, the Court of Appeal approved the decision and reasoning of _Re Dy
 
  In the circumstances I would direct that the amounts of proofs in foreign currency be converted into Australian dollars at the rate appropriate on the date upon which the company was placed in liquidation. 
 
-38     _Re Lines Bros_ has been approved by the Singapore High Court in _Re Mohamed Yunus Valibhoy, ex parte Bank of Credit and Commerce Hong Kong Ltd_ [1994] 3 SLR(R) 504 although that case was in the context of the 1985 BA and before the introduction of Rule 181. It is interesting to note that counsel for the banks, Mr V K Rajah (before his elevation to the Bench), submitted (at [35]): 
+38     _Re Lines Bros_ has been approved by the Singapore High Court in _Re Mohamed Yunus Valibhoy, ex parte Bank of Credit and Commerce Hong Kong Ltd_ <span class="citation">[1994] 3 SLR(R) 504</span> although that case was in the context of the 1985 BA and before the introduction of Rule 181. It is interesting to note that counsel for the banks, Mr V K Rajah (before his elevation to the Bench), submitted (at [35]): 
 
  It was/is the practice of the [Official Assignee] to relate the exchange rate to the date of the adjudication and receiving orders were granted or as at the date of the winding up in the case of a company (see Re Lines Bros Ltd (in liquidation) [1983] Ch 1). As for the bankrupt’s argument that the bank should be paid in US currency that being the currency of its claim and no more, Miliangos v George Frank Textiles [1976] AC 443 supported the [Official Assignee’s] decision that the bank should be paid the equivalent in local currency as at the date the adjudication and receiving orders were made. In the case if a winding up, creditors are entitled to their claim for subsequent interest if there are surplus funds available after payment of what was due for principal and interest at the date of the winding up ( In re Humber Ironworks & Shipbuilding Co (1869) LR 4 Ch App 643) and the same applied for bankruptcies where there are surplus funds as the estate has in this case. It is clear and settled law and the [Official Assignee] agrees that the English practice applies to Singapore for liquidations and bankruptcies. 
 
@@ -299,7 +299,7 @@ This argument was supported by the Official Assignee (see [38]) and was not chal
 
 **_Possible Conflict with Relevant Date for Insolvency Set-off_** 
 
-40     In _Good Property Land Development Pte Ltd (in liquidation) v Societe-Generale_ [1996] 1 SLR(R) 884 (“ _Good Property_ ”), the Court of Appeal held that insolvency set-off occurs at the date of 
+40     In _Good Property Land Development Pte Ltd (in liquidation) v Societe-Generale_ <span class="citation">[1996] 1 SLR(R) 884</span> (“ _Good Property_ ”), the Court of Appeal held that insolvency set-off occurs at the date of 
 
 
 commencement of the compulsory winding up of a company as opposed to the date of the winding up order. The Court of Appeal relied on s 255 CA and held (at [14]): 
@@ -312,7 +312,7 @@ There is an apparent anomaly in that insolvency set-off occurs automatically on 
 
  For set-off to be effected, it is necessary to determine whether the claim sought to be set off by a creditor is a provable debt, since only provable debts may be set off and, if so, the value of the claim must also be quantified. But these questions cannot be resolved until the date of the winding up order. It is therefore odd that set-off should be effected at an earlier date. 
 
-It does seem to be putting the cart before the horse to decide on the value of set-off _before_ the debt could be proved in liquidation. Woo Bih Li J in _Panorama Development_ (see [14] above) had his reservations on the Court of Appeal’s reliance (at [40]) on _Arab Banking Corp v United Overseas Bank Ltd_ [1991] 1 SLR(R) 560 and cited Mr Lee Eng Beng’s article with approval (see [55]–[57]). The incongruity of the insolvency set-off date and the relevant date for the conversion of foreign currency was recognised by Oliver J in _Re Dynamics_ but that did not change his view (see 775B-E). 
+It does seem to be putting the cart before the horse to decide on the value of set-off _before_ the debt could be proved in liquidation. Woo Bih Li J in _Panorama Development_ (see [14] above) had his reservations on the Court of Appeal’s reliance (at [40]) on _Arab Banking Corp v United Overseas Bank Ltd_ <span class="citation">[1991] 1 SLR(R) 560</span> and cited Mr Lee Eng Beng’s article with approval (see [55]–[57]). The incongruity of the insolvency set-off date and the relevant date for the conversion of foreign currency was recognised by Oliver J in _Re Dynamics_ but that did not change his view (see 775B-E). 
 
 42     The apparent anomaly created by _Good Property_ can be avoided for present purposes by treating it as a case which dealt with set-off and s 88 BA, unlike the present case which concerns proofs of debt under s 87 BA. As set out above, both case law and the statutory scheme relating to proofs of debt provide that the equivalent of the bankruptcy order in creditors’ voluntary liquidation is the passing of the resolution for winding up. Also, the established position prior to the introduction of Rule 181 was that the date for currency conversion should, by extension, be the date of the winding up resolution. There is no reason to suggest that the law relating to proofs of debts has changed because a different position has been taken in relation to the law on set-offs. I also see, as stated by Oliver J in _Re Dynamics_ (at 775D), that “[t]here is nothing in the set-off cases which compels a quantification of the amount of the set off as at the commencement of the winding up”. 
 

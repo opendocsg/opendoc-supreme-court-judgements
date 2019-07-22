@@ -95,7 +95,7 @@ that he did not wish to hear further arguments. He did not grant the extension o
 
 26     As I did not know the reason or reasons why Justice Lai granted an extension of time, her decision did not assist me. 
 
-27     Coming back to the issue before me, it was for Mr Siraj to persuade me to grant the extension of time. It was not disputed that the same four factors have to be taken into account for an omission to seek further arguments as are applicable to a failure to file a Notice of Appeal on time (see _DenkoHLB Sdn Bhd v Fagerdala Singapore Pte Ltd_ [2002] 3 SLR 357). The four factors are: 
+27     Coming back to the issue before me, it was for Mr Siraj to persuade me to grant the extension of time. It was not disputed that the same four factors have to be taken into account for an omission to seek further arguments as are applicable to a failure to file a Notice of Appeal on time (see _DenkoHLB Sdn Bhd v Fagerdala Singapore Pte Ltd_ <span class="citation">[2002] 3 SLR 357</span>). The four factors are: 
 
  (a) the length of delay; 
 

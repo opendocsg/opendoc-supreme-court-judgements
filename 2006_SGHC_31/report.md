@@ -484,7 +484,7 @@ a question of law that could be dealt with in submissions.
 
  (5) ... 
 
-134    The plaintiff cited a Court of Appeal decision in relation to s 157 of the Companies Act in its closing submissions. In _Kea Holdings Pte Ltd v Gan Boon Hock_ [2000] 3 SLR 129 at [19], Yong Pung How CJ had this to say: 
+134    The plaintiff cited a Court of Appeal decision in relation to s 157 of the Companies Act in its closing submissions. In _Kea Holdings Pte Ltd v Gan Boon Hock_ <span class="citation">[2000] 3 SLR 129</span> at [19], Yong Pung How CJ had this to say: 
 
  Under s 157(4), the duties under s 157(1) are specifically stated not to be in derogation of any 
 
@@ -495,13 +495,13 @@ a question of law that could be dealt with in submissions.
 
  Each company in the group is a separate legal entity and the directors of a particular company are not entitled to sacrifice the interest of that company. This becomes apparent when one considers the case where the particular company has separate creditors. The proper test, I think, in the absence of actual separate consideration, must be whether an intelligent and honest man in the position of a director of the company concerned, could, in the whole of the existing circumstances, have reasonably believed that the transactions were for the benefit of the company. 
 
-Pennycuick J’s test in _Charterbridge Corporation_ was applied by L P Thean JA in the Court of Appeal decision of _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ [1995] 1 SLR 313 (at 324–325, [29]–[30]). 
+Pennycuick J’s test in _Charterbridge Corporation_ was applied by L P Thean JA in the Court of Appeal decision of _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ <span class="citation">[1995] 1 SLR 313</span> (at 324–325, [29]–[30]). 
 
 136    The defendant did not dispute he owed fiduciary duties to NQF. Applying the above test to our facts, I find that the defendant breached his fiduciary duties to the plaintiff in withdrawing NQF’s moneys from the Tauranga account to pay Normandy without the knowledge or consent of the other directors. It did not lie in his mouth to assert that the receivers and managers endorsed his action. Their appointment was pursuant to the NGH charge, not the NQF charge. 
 
 137    Nor can the defendant rely on the Deed of Rectification to justify his action as that document was executed _after_ the moneys had been transferred out of the Tauranga account. The defendant cannot expect this court to believe he was acting in the best interests of NQF and its sole shareholder (the plaintiff) when he spirited off the sale proceeds of NQF to pay Normandy. There was a clear conflict of interest between Normandy on the one side and the Newmans Group on the other. The defendant acted in breach of his statutory duties under s 157(1) of the Companies Act and breached his fiduciary duties at common law. His actions benefited Normandy at the expense of NQF and the plaintiff. 
 
-138    I reject as untrue the submission of his counsel that “[t]he Defendant did what he did in spite of an absence of personal financial benefit because he simply knew that what he was doing was right”. Counsel had also submitted that as a nominee director of Normandy, the defendant was entitled to take into account the interests of Normandy as long as such interest did not conflict with the interests of NGH, the plaintiff or NQF (relying on Chao Hick Tin JA’s judgment in _OverseaChinese Banking Corp Ltd v Justlogin Pte Ltd_ [2004] 2 SLR 675 at [31]). In the light of my finding, this submission is unsustainable. 
+138    I reject as untrue the submission of his counsel that “[t]he Defendant did what he did in spite of an absence of personal financial benefit because he simply knew that what he was doing was right”. Counsel had also submitted that as a nominee director of Normandy, the defendant was entitled to take into account the interests of Normandy as long as such interest did not conflict with the interests of NGH, the plaintiff or NQF (relying on Chao Hick Tin JA’s judgment in _OverseaChinese Banking Corp Ltd v Justlogin Pte Ltd_ <span class="citation">[2004] 2 SLR 675</span> at [31]). In the light of my finding, this submission is unsustainable. 
 
 **_The second issue_** 
 

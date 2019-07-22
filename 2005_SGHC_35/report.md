@@ -24,7 +24,7 @@ _Criminal Procedure and Sentencing_ – _Criminal references_ – _Application f
 
 Yong Pung How CJ: 
 
-1       This was a criminal motion related to my decision in _Ong Beng Leong v PP_ [2005] SGHC 22. On 11 January 2005, I had dismissed the applicant’s appeal against his conviction on ten charges of using false documents with intent to deceive his principal, an offence under s 6(c) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed) (“PCA”). However, I reduced his sentence from six months’ imprisonment to six weeks’ imprisonment, and allowed it to commence on 11 February 2005, after the Lunar New Year. On 1 February 2005, the applicant filed the present motion for his sentence to be stayed pending a possible criminal reference to the Court of Appeal. I dismissed his application and now give my reasons. 
+1       This was a criminal motion related to my decision in _Ong Beng Leong v PP_ <span class="citation">[2005] SGHC 22</span>. On 11 January 2005, I had dismissed the applicant’s appeal against his conviction on ten charges of using false documents with intent to deceive his principal, an offence under s 6(c) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed) (“PCA”). However, I reduced his sentence from six months’ imprisonment to six weeks’ imprisonment, and allowed it to commence on 11 February 2005, after the Lunar New Year. On 1 February 2005, the applicant filed the present motion for his sentence to be stayed pending a possible criminal reference to the Court of Appeal. I dismissed his application and now give my reasons. 
 
 **Application for stay** 
 
@@ -45,7 +45,7 @@ the SCJA, but was merely a request for a stay pending a possible application und
 
  (b) whether the words “or other documents” in s 6(c) refer only to documents inter partes. 
 
-5       The principles governing an application under s 60 of the SCJA are well established: see _Abdul Salam bin Mohamed Salleh v PP (No 2)_ [1990] SLR 301; affirmed in [1991] SLR 235; _Chan Hiang Leng Colin v PP_ [1995] 1 SLR 687; _PP v Bridges Christopher_ [1998] 1 SLR 162. Before an application under s 60 will be allowed, the following requirements must be satisfied: 
+5       The principles governing an application under s 60 of the SCJA are well established: see _Abdul Salam bin Mohamed Salleh v PP (No 2)_ [1990] SLR 301; affirmed in [1991] SLR 235; _Chan Hiang Leng Colin v PP_ <span class="citation">[1995] 1 SLR 687</span>; _PP v Bridges Christopher_ <span class="citation">[1998] 1 SLR 162</span>. Before an application under s 60 will be allowed, the following requirements must be satisfied: 
 
  (a) there must be a question of law; 
 
@@ -55,7 +55,7 @@ the SCJA, but was merely a request for a stay pending a possible application und
 
  (d) the determination of the question by the High Court must have affected the outcome of the case. 
 
-6       Whether a question of law is of public interest depends on the facts and circumstances of each case. Even if the above requirements are met, the court still retains a residual discretion to refuse an application made by any party other than the Public Prosecutor. I have repeatedly stressed that the discretion under s 60 of the SCJA must be exercised sparingly. As I explained in _Ng Ai Tiong v PP_ [2000] 2 SLR 358 at [10]: 
+6       Whether a question of law is of public interest depends on the facts and circumstances of each case. Even if the above requirements are met, the court still retains a residual discretion to refuse an application made by any party other than the Public Prosecutor. I have repeatedly stressed that the discretion under s 60 of the SCJA must be exercised sparingly. As I explained in _Ng Ai Tiong v PP_ <span class="citation">[2000] 2 SLR 358</span> at [10]: 
 
  This is to give recognition and effect to Parliament’s intention for the High Court to be the final appellate court for criminal cases commenced in the subordinate courts. The importance of maintaining finality in such proceedings must not be seen to be easily compromised through the use of such a statutory device. In Abdul Salam bin Mohamed Salleh v PP [1990] SLR 301, 311; [1990] 3 MLJ 275, 280, Chan Sek Keong J [as he then was] had cautioned aptly that: 
 
@@ -70,7 +70,7 @@ the SCJA, but was merely a request for a stay pending a possible application und
 
 **_First question: element of dishonesty_** 
 
-8       In his appeal, the applicant had already canvassed this exact issue before me. Relying on the following remarks of L P Thean J (as he then was) in _Knight v PP_ [1992] 1 SLR 720 at 728, [20], the applicant sought to argue that dishonesty was one of the essential elements of an offence under s 6(c) of the PCA: 
+8       In his appeal, the applicant had already canvassed this exact issue before me. Relying on the following remarks of L P Thean J (as he then was) in _Knight v PP_ <span class="citation">[1992] 1 SLR 720</span> at 728, [20], the applicant sought to argue that dishonesty was one of the essential elements of an offence under s 6(c) of the PCA: 
 
  The charge under s 6(c) of the Act does not imply any corruption at all. The word “corruptly” which is present in paras (a) and (b) of s 6 is absent in para (c). But the offence under s 6(c) does imply an element of dishonesty. In effect, it is an offence of cheating under a different statutory provision. On the facts admitted by the appellant, he could be charged for cheating under s 417 or s 420 of the Code. [emphasis added] 
 

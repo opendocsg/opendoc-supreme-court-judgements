@@ -18,7 +18,7 @@ _Administrative Law_ – _Judicial Review_
 
 _Constitutional Law_ – _Equality before the Law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 131 of 2014 was dismissed by the Court of Appeal on 5 October 2015. See [2015] SGCA 53.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 131 of 2014 was dismissed by the Court of Appeal on 5 October 2015. See <span class="citation">[2015] SGCA 53</span>.] 
 
 12 September 2014 
 
@@ -47,7 +47,7 @@ July 2014, I dismissed this application. The Applicant has appealed to the Court
 
 **_The offence_** 
 
-3       The background facts to the Applicant’s drug trafficking convictions have been set out in both the first instance judgment (see _Public Prosecutor v Abdul Haleem bin Abdul Karim and another_ [2013] 3 SLR 734 (“ _PP v Abdul Haleem_ ”)) and the Court of Appeal’s judgment in respect of the Applicant’s appeal against conviction (see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ [2014] 3 SLR 721 (“ _Muhammad Ridzuan v PP_ ”)). I will therefore set out only such background facts as are necessary for giving the context for this application. 
+3       The background facts to the Applicant’s drug trafficking convictions have been set out in both the first instance judgment (see _Public Prosecutor v Abdul Haleem bin Abdul Karim and another_ <span class="citation">[2013] 3 SLR 734</span> (“ _PP v Abdul Haleem_ ”)) and the Court of Appeal’s judgment in respect of the Applicant’s appeal against conviction (see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ <span class="citation">[2014] 3 SLR 721</span> (“ _Muhammad Ridzuan v PP_ ”)). I will therefore set out only such background facts as are necessary for giving the context for this application. 
 
 4       The Applicant and Abdul Haleem bin Abdul Karim (“Abdul Haleem”) previously worked as bouncers in the same night club. They had known each other for about a year prior to the date of their arrest. Initially, the Applicant befriended one Rosli in Johor Bahru, who wanted to know if the Applicant was interested in trafficking drugs. Subsequently, one Afad, who identified himself as Rosli’s friend, called the Applicant to see if he was interested in purchasing heroin. 
 
@@ -124,7 +124,7 @@ only Abdul Haleem was granted the certificate of substantive assistance by the P
 
 CNB when he had no opportunity to do so to begin with. The Applicant further argued that no fair and 
 
-proper procedure was followed prior to the decision being made by the PP. [note: 6] On this basis, given that the matter involved a person’s life, it was submitted that the PP had acted in bad faith. The Applicant also relied on the High Court decision of _Public Prosecutor v Chum Tat Suan_ [2014] 1 SLR 336 (“ _PP v Chum Tat Suan_ ”) to support his proposition that an accused cannot be expected to 
+proper procedure was followed prior to the decision being made by the PP. [note: 6] On this basis, given that the matter involved a person’s life, it was submitted that the PP had acted in bad faith. The Applicant also relied on the High Court decision of _Public Prosecutor v Chum Tat Suan_ <span class="citation">[2014] 1 SLR 336</span> (“ _PP v Chum Tat Suan_ ”) to support his proposition that an accused cannot be expected to 
 
 provide information to assist the CNB _before_ the end of the trial. [note: 7] It was submitted that the accused should only be expected to assist the CNB _after_ the trial so as not to prejudice his defence at trial. 
 
@@ -138,7 +138,7 @@ activity. [note: 8] On this basis, it was submitted that the unequal treatment o
 
 **_The AG’s arguments_** 
 
-24     At the outset, the AG raised two procedural objections to the orders sought by the Applicant. The Court of Appeal decision of _Vellama d/o Marie Muthu v Attorney-General_ [2013] 4 SLR 1 (“ _Vellama v AG_ ”) was cited by the AG for the proposition that O 53 r 1 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) only requires leave to be obtained in relation to an application for 
+24     At the outset, the AG raised two procedural objections to the orders sought by the Applicant. The Court of Appeal decision of _Vellama d/o Marie Muthu v Attorney-General_ <span class="citation">[2013] 4 SLR 1</span> (“ _Vellama v AG_ ”) was cited by the AG for the proposition that O 53 r 1 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) only requires leave to be obtained in relation to an application for 
 
 _prerogative_ orders. [note: 10] In this regard, an applicant who wishes to obtain a prerogative order _and_ a declaration should first obtain leave to make an application for a prerogative order. After leave has been granted, the applicant may then proceed to apply for a declaration alongside the prerogative order. It was therefore submitted that the inclusion of the prayer for a declaration in the present leave application was procedurally wrong in so far as leave was only required for the mandatory order. 
 
@@ -179,7 +179,7 @@ the accused to provide information that may assist in disrupting drug traffickin
 
 **_The procedural objections_** 
 
-30     The AG’s procedural objection with regard to the inclusion of the prayer for a declaration at this stage of the leave proceedings was broadly similar to that raised in the earlier decision of _Cheong Chun Yin v Attorney-General_ [2014] SGHC 124 (“ _Cheong Chun Yin v AG_ ”). As in that case, the AG cited the Court of Appeal decision of _Vellama v AG_ in support of the proposition that an application for declaratory relief should only be made after leave to apply for the prerogative order has been granted. 
+30     The AG’s procedural objection with regard to the inclusion of the prayer for a declaration at this stage of the leave proceedings was broadly similar to that raised in the earlier decision of _Cheong Chun Yin v Attorney-General_ <span class="citation">[2014] SGHC 124</span> (“ _Cheong Chun Yin v AG_ ”). As in that case, the AG cited the Court of Appeal decision of _Vellama v AG_ in support of the proposition that an application for declaratory relief should only be made after leave to apply for the prerogative order has been granted. 
 
 31     As I observed in _Cheong Chun Yin v AG_ (at [27]), it appears to me that the Court of Appeal in _Vellama v AG_ was merely stating that a party cannot apply for “freestanding declaratory relief” 
 
@@ -194,7 +194,7 @@ pursuant to O 53 given that it is “essentially an order relating to the grant 
 
 **_Leave to commence judicial review proceedings_** 
 
-35     The principles governing the grant of leave to commence judicial review proceedings are well settled. With reference to the Court of Appeal decision of _Jeyaretnam Kenneth Andrew v AttorneyGeneral_ [2014] 1 SLR 345, the three requirements which have to be satisfied before leave can be granted for the court to consider the prerogative orders sought by the applicant are as follows (at [5]): 
+35     The principles governing the grant of leave to commence judicial review proceedings are well settled. With reference to the Court of Appeal decision of _Jeyaretnam Kenneth Andrew v AttorneyGeneral_ <span class="citation">[2014] 1 SLR 345</span>, the three requirements which have to be satisfied before leave can be granted for the court to consider the prerogative orders sought by the applicant are as follows (at [5]): 
 
  (a) the subject matter of the complaint must be susceptible to judicial review; 
 
@@ -215,7 +215,7 @@ pursuant to O 53 given that it is “essentially an order relating to the grant 
 
 In this regard, Parliament has carefully delineated the scope of review to that of bad faith or malice. 
 
-38     Beyond that, in considering the issue of prosecutorial discretion, the Court of Appeal in _Ramalingam Ravinthran v Attorney-General_ [2012] 2 SLR 49 (“ _Ramalingam v AG_ ”) also observed at [41] that: 
+38     Beyond that, in considering the issue of prosecutorial discretion, the Court of Appeal in _Ramalingam Ravinthran v Attorney-General_ <span class="citation">[2012] 2 SLR 49</span> (“ _Ramalingam v AG_ ”) also observed at [41] that: 
 
  ... an exercise of an executive decision-making power , even one with a constitutional status, cannot be allowed to override a fundamental liberty enshrined in the Constitution. 
 
@@ -250,7 +250,7 @@ Constitution. [note: 22] This argument was, however, not developed beyond that. 
 
 Therefore, the fact that the PP only granted Abdul Haleem, and not the Applicant, a certificate of substantive assistance under s 33B(2)( _b_ ) of the MDA would amount to a violation of Art 12 of the Constitution. 
 
-42     For the avoidance of doubt, the Applicant is not challenging the validity or constitutionality of the alternative sentencing regime under s 33B of the MDA. As I observed in _Cheong Chun Yin v AG_ at [36], an executive act may be unconstitutional if it amounts to intentional and arbitrary discrimination (see _Eng Foong Ho and others v Attorney-General_ [2009] 2 SLR(R) 542). In this regard, arbitrariness implies the lack of any rationality (see _Public Prosecutor v Ang Soon Huat_ [1990] 2 SLR(R) 246 at [23]). 
+42     For the avoidance of doubt, the Applicant is not challenging the validity or constitutionality of the alternative sentencing regime under s 33B of the MDA. As I observed in _Cheong Chun Yin v AG_ at [36], an executive act may be unconstitutional if it amounts to intentional and arbitrary discrimination (see _Eng Foong Ho and others v Attorney-General_ <span class="citation">[2009] 2 SLR(R) 542</span>). In this regard, arbitrariness implies the lack of any rationality (see _Public Prosecutor v Ang Soon Huat_ <span class="citation">[1990] 2 SLR(R) 246</span> at [23]). 
 
 43     Apart from that, the Court of Appeal also made the following observations in _Ramalingam v AG_ at [61]: 
 
@@ -348,11 +348,11 @@ the other. Therefore, I am unable to accept the Applicant’s argument that the 
 
 57     At the outset, I note that the Applicant and the AG have different views on what amounts to bad faith. The AG submitted that bad faith may be established in the following circumstances: 
 
- (a) where the power is exercised for an extraneous or improper purpose (see Law Society of Singapore v Tan Guat Neo Phyllis [2008] 2 SLR(R) 239 at [149] and Teng Fuh Holdings Pte Ltd v Collector of Land Revenue [2006] 3 SLR(R) 507); 
+ (a) where the power is exercised for an extraneous or improper purpose (see Law Society of Singapore v Tan Guat Neo Phyllis <span class="citation">[2008] 2 SLR(R) 239</span> at [149] and Teng Fuh Holdings Pte Ltd v Collector of Land Revenue <span class="citation">[2006] 3 SLR(R) 507</span>); 
 
  (b) where there is preconceived bias against the accused person; and 
 
- (c) where the decision is made in a wholly arbitrary or capricious fashion (see Yong Vui Kong v Attorney-General [2011] 2 SLR 1189 at [83]). 
+ (c) where the decision is made in a wholly arbitrary or capricious fashion (see Yong Vui Kong v Attorney-General <span class="citation">[2011] 2 SLR 1189</span> at [83]). 
 
 58     The Applicant disagreed with the AG’s submissions and argued that a different understanding of bad faith ought to be applied to s 33B(4) of the MDA. It was submitted that a distinction ought to be drawn between bad faith and malice. The Applicant argued that in the present context, the concept 
 

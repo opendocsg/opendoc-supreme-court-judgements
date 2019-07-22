@@ -18,7 +18,7 @@ _Admiralty and Shipping_ – _Carriage of Goods by Sea_
 
 _Contract_ – _Remedies_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2014] 4 SLR 574.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2014] 4 SLR 574</span>.] 
 
 31 July 2015 Judgment reserved. 
 
@@ -26,7 +26,7 @@ _Contract_ – _Remedies_
 
 **Introduction** 
 
-1       This is an appeal from the decision of the High Court judge (“the Judge”) in _Paragon Shipping Pte Ltd v Freight Connect (S) Pte Ltd_ [2014] 4 SLR 574 (“the Judgment”), where the respondent, Paragon Shipping Pte Ltd (“the Respondent”), was awarded the total sum of US$81,000, interest and costs. The appellant, Freight Connect (S) Pte Ltd (“the Appellant”), was also ordered to indemnify the Respondent against any sum that the Respondent might be found liable to pay to FLS (Thailand) Co, Ltd (“FLS”), the party it had entered into a charterparty with in order to fulfil its contractual obligations to the Appellant. At the trial below, the Appellant also brought a counterclaim for damages for breach of contract and the tort of wrongful interference with trade. Both counterclaims were dismissed by the Judge. The Appellant has not appealed against the dismissal of its counterclaims. The appeal before us is confined to the Judge’s decision to allow the Respondent’s claims in part. 
+1       This is an appeal from the decision of the High Court judge (“the Judge”) in _Paragon Shipping Pte Ltd v Freight Connect (S) Pte Ltd_ <span class="citation">[2014] 4 SLR 574</span> (“the Judgment”), where the respondent, Paragon Shipping Pte Ltd (“the Respondent”), was awarded the total sum of US$81,000, interest and costs. The appellant, Freight Connect (S) Pte Ltd (“the Appellant”), was also ordered to indemnify the Respondent against any sum that the Respondent might be found liable to pay to FLS (Thailand) Co, Ltd (“FLS”), the party it had entered into a charterparty with in order to fulfil its contractual obligations to the Appellant. At the trial below, the Appellant also brought a counterclaim for damages for breach of contract and the tort of wrongful interference with trade. Both counterclaims were dismissed by the Judge. The Appellant has not appealed against the dismissal of its counterclaims. The appeal before us is confined to the Judge’s decision to allow the Respondent’s claims in part. 
 
 **The facts** 
 
@@ -372,7 +372,7 @@ _The indemnity_
  (c) the decision was inconsistent with the decision of the High Court in Re Sanpete Builders 
 
 
- (S) Pte Ltd [1989] 1 SLR(R) 5 (“ Re Sanpete Builders ”). 
+ (S) Pte Ltd <span class="citation">[1989] 1 SLR(R) 5</span> (“ Re Sanpete Builders ”). 
 
 47     All three grounds can be considered together. Dealing first with ground (c), we are of the view that the High Court decision o f _Re Sanpete Builders_ does not assist the Appellant. That was a decision in winding up proceedings, and the issue before the court was whether the petitioner had a valid claim for a debt ( _ie_ , as a creditor) to support its application. One of the bases on which the defendant company resisted the application was that it had a claim for general unliquidated damages against the petitioner for breach of contract. This was the context in which the defendant company relied on the alternative argument that it was entitled to an indemnity from the petitioner in respect of any liability it may incur to the main contractor, which was already in liquidation at that point in time. This alternative argument was rejected by the court (at [35]) as no evidence had been tendered by the defendant company to show that the liquidator of the main contractor was claiming any _unliquidated_ damages against it on the account of delay in the works. The court also observed that the main contractor could not claim _liquidated_ damages against the defendant company as a matter of law. The question in _Re Sanpete Builders_ was thus whether an assertion by a company against which a winding-up petition had been made that it was entitled to an indemnity from the petitioning creditor was sufficient reason not to wind up the company. It is quite different from the question of whether an indemnity should be granted, which is the question in the present case. 
 

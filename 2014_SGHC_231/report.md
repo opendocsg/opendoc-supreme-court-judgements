@@ -22,7 +22,7 @@ _Criminal procedure and sentencing_ – _sentencing_ – _conviction_
 
 **Introduction** 
 
-1       On 28 October 2014, the accused, Purushothaman a/l Subramaniam, was convicted of importing 75.41g of diamorphine into Singapore under s 7 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”). The full grounds of my decision with respect to his conviction can be found in _Public Prosecutor v Purushothaman a/l Subramaniam_ [2014] SGHC 215. 
+1       On 28 October 2014, the accused, Purushothaman a/l Subramaniam, was convicted of importing 75.41g of diamorphine into Singapore under s 7 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”). The full grounds of my decision with respect to his conviction can be found in _Public Prosecutor v Purushothaman a/l Subramaniam_ <span class="citation">[2014] SGHC 215</span>. 
 
 2       Later, the accused was sentenced to life imprisonment and 15 strokes of the cane. The accused has appealed against my sentence and these are my grounds for the sentence I imposed. 
 

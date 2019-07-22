@@ -39,7 +39,7 @@ _Employment Law_ – _Workman claiming and receiving compensation under Act_ –
 
 4       Kamis’ counsel, Mr Andrew J Hanam, accepted that Kamis could not recover both compensation under the Act and damages under the common law. As Kamis had already received compensation under the Act, he should not be allowed to pursue his action, but Mr Hanam relied on a mistake which Kamis allegedly made. Kamis’ case was that he had thought that the $11,025 he had received was the interim payment and hence he was not aware that it was compensation paid under the Act. 
 
-5       The district judge, Ms Valerie Thean, said that she did not investigate the allegation of mistake as she thought that was unnecessary. In [11] of her grounds of decision ([2005] SGDC 107), she said: 
+5       The district judge, Ms Valerie Thean, said that she did not investigate the allegation of mistake as she thought that was unnecessary. In [11] of her grounds of decision (<span class="citation">[2005] SGDC 107</span>), she said: 
 
  I did not investigate these contentions of mistake as I did not think it necessary. Section 18 of the Act is clear that Mr Kamis cannot be in receipt of money under the Act and yet press his claim in court. ...The relevant caselaw on the Act is also clear that the intent of the Act is to prevent the workman from obtaining compensation both under the Act and pursuant to common law. If indeed Mr Kamis has recovered his compensation by mistake, then he must take any steps open to him under the Act if any, before pressing on with his claim in court. 
 
@@ -123,7 +123,7 @@ who will avail themselves of the Act often do not have a good grasp of the Engli
 
 28     Subsequently, Asia’s solicitors learnt that on 6 September 2004 Kamis had received $11, as compensation. The solicitors wrote on 22 December 2004 to Kamis’ solicitors to seek the return of the $5,000. Kamis said that his solicitors called him to seek his explanation and he then told them that he had thought the $11,025 was an interim payment. 
 
-29     Mr Hanam submitted that because the discussions about the $5,000 interim payment and the correspondence from MOM and QBE about the $11,025 compensation payment occurred around the same time, there was confusion. He submitted that the issue about the mistake could not be summarily decided and the court should not go through a minute and detailed examination of the facts at this stage, relying on _Gabriel Peter & Partners v Wee Chong Jin_ [1998] 1 SLR 374 (“ _Gabriel Peter_ ”). 
+29     Mr Hanam submitted that because the discussions about the $5,000 interim payment and the correspondence from MOM and QBE about the $11,025 compensation payment occurred around the same time, there was confusion. He submitted that the issue about the mistake could not be summarily decided and the court should not go through a minute and detailed examination of the facts at this stage, relying on _Gabriel Peter & Partners v Wee Chong Jin_ <span class="citation">[1998] 1 SLR 374</span> (“ _Gabriel Peter_ ”). 
 
 30     I agreed that the power to strike out should not be exercised by a minute and protracted examination of the facts but it could be exercised in plain and obvious cases as was also acknowledged in _Gabriel Peter_. 
 

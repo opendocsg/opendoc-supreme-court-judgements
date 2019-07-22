@@ -18,7 +18,7 @@ _Civil procedure_ – _Stay of proceedings_
 
 _Conflict of laws_ – _Choice of jurisdiction_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 112 of 2016 was dismissed by the Court of Appeal on 27 March 2017. See [2017] SGCA 49.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 112 of 2016 was dismissed by the Court of Appeal on 27 March 2017. See <span class="citation">[2017] SGCA 49</span>.] 
 
 22 September 2016 
 
@@ -133,7 +133,7 @@ District Court of South Jakarta unless the parties agree otherwise. [note: xv]
 
  (iv) for political, racial, religious or other reasons be unlikely to get a fair trial. 
 
-(See, _Golden Shore Transportation Pte Ltd v UCO Bank and another appeal_ [2004] 1 SLR(R) 6 at [33], applying _Amerco Timbers Pte Ltd v Chatsworth Timber Corp Pte Ltd_ [1977–1978] SLR(R) 112) 
+(See, _Golden Shore Transportation Pte Ltd v UCO Bank and another appeal_ <span class="citation">[2004] 1 SLR(R) 6</span> at [33], applying _Amerco Timbers Pte Ltd v Chatsworth Timber Corp Pte Ltd_ [1977–1978] SLR(R) 112) 
 
 14     In the present case, the plaintiffs are Malaysian companies whilst the defendant is a Singapore company and PTPG and PTSA are Indonesian companies. Suryo Tan is a Singapore citizen although he 
 
@@ -202,7 +202,7 @@ arise only if the defendant and its directors choose to disobey the order made b
 
  (d) If the court concludes that there is some other available forum which prima facie is clearly more appropriate for the trial of the action, it will ordinarily grant a stay unless there are circumstances by reason of which justice requires that a stay should nevertheless be refused. For this second stage (commonly referred to as stage two of the Spiliada test), the legal burden is on the plaintiff to establish the existence of those special circumstances. 
 
-(See, _CIMB Bank Bhd v Dresdner Kleinwort Ltd_ [2008] 4 SLR(R) 543 at [26]) 
+(See, _CIMB Bank Bhd v Dresdner Kleinwort Ltd_ <span class="citation">[2008] 4 SLR(R) 543</span> at [26]) 
 
 29     The defendant relied on the same submissions that it made in connection with the exclusive jurisdiction clause. 
 

@@ -76,7 +76,7 @@
 
 ## been earned, such accretion in value are also held by them upon trust. (see 73 – 75) AG v Reid 
 
-## [1994] 1 AC 324 (refd); Sumitomo Bank Ltd v Kartika Ratna Thahire & Ors [1993] 1 SLR 735 (refd); 
+## [1994] 1 AC 324 (refd); Sumitomo Bank Ltd v Kartika Ratna Thahire & Ors <span class="citation">[1993] 1 SLR 735</span> (refd); 
 
 ## Williams v Barton [1927] 2 Ch 9 (refd). 
 
@@ -91,7 +91,7 @@
 
 ### Royal Brunei Airlines v Tan [1995] 2 AC 378 (refd) 
 
-### Sumitomo Bank Ltd v Kartika Ratna Thahire & Ors [1993] 1 SLR 735 (refd) 
+### Sumitomo Bank Ltd v Kartika Ratna Thahire & Ors <span class="citation">[1993] 1 SLR 735</span> (refd) 
 
 ### Twinsectra Limited v Yardley & others [2002] 2 WLR 802 (refd) 
 
@@ -350,7 +350,7 @@ against Mr Leach for the proportion of the loan which had not been applied in th
 
 **Proprietary & Tracing Claims** 
 
-73     Mitco are asserting proprietary and tracing claims. In the light of my findings, Najib holds the bribes in his accounts or the equivalent of those bribes in the form of the vehicles I have mentioned upon constructive trusts for Mitco: see _AG v Reid_ [1994] 1 AC 324 which followed the High Court of Singapore in _Sumitomo Bank Ltd v Kartika Ratna Thahire & Ors_ [1993] 1 SLR 735 and _Williams v Barton_ [1927] 2 Ch 9. Further, I declare that any of the parties I have found liable are holding any traceable proceeds of sale or equivalents thereof upon constructive trusts for Mitco. If those trust properties had appreciated and interests have been earned, such accretion in value are also held by them upon trusts. I will deem them as good fiduciaries who in equity will do what should be done. They hold them for Mitco. 
+73     Mitco are asserting proprietary and tracing claims. In the light of my findings, Najib holds the bribes in his accounts or the equivalent of those bribes in the form of the vehicles I have mentioned upon constructive trusts for Mitco: see _AG v Reid_ [1994] 1 AC 324 which followed the High Court of Singapore in _Sumitomo Bank Ltd v Kartika Ratna Thahire & Ors_ <span class="citation">[1993] 1 SLR 735</span> and _Williams v Barton_ [1927] 2 Ch 9. Further, I declare that any of the parties I have found liable are holding any traceable proceeds of sale or equivalents thereof upon constructive trusts for Mitco. If those trust properties had appreciated and interests have been earned, such accretion in value are also held by them upon trusts. I will deem them as good fiduciaries who in equity will do what should be done. They hold them for Mitco. 
 
 74     On the evidence, I have no hesitation in declaring that the sum of US$9 million paid into the VTP account (prior to the seizure by the 
 

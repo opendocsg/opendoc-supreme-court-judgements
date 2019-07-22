@@ -106,9 +106,9 @@ the plaintiff was facing financial difficulty, the second defendant had hoped to
 
 **The law** 
 
-24     The leading local authority on this point is _TV Media Pte Ltd v De Cruz Andrea Heidi and another_ [2004] 3 SLR(R) 543 (“ _TV Media Pte Ltd_ ”). In _TV Media Pte Ltd_ at [117] and [118], the Court of Appeal stated: 
+24     The leading local authority on this point is _TV Media Pte Ltd v De Cruz Andrea Heidi and another_ <span class="citation">[2004] 3 SLR(R) 543</span> (“ _TV Media Pte Ltd_ ”). In _TV Media Pte Ltd_ at [117] and [118], the Court of Appeal stated: 
 
- 117 A fundamental tenet of company law is that a company is a separate legal entity from its members or shareholders. As such, the members are not liable to be sued in respect of a breach of the company’s obligations: Salomon v A Solomon and Co, Ltd [1897] AC 22. In an extension of this principle, the courts have held that proof of the commission of a tort by a company does not automatically prove that the directors who manage its affairs are also guilty of the tort: Rainham Chemical Works, Ltd v Belvedere Fish Guano Co Ltd [1921] 2 AC 465, Gabriel Peter & Partners v Wee Chong Jin [1997] 3 SLR(R) 649. 
+ 117 A fundamental tenet of company law is that a company is a separate legal entity from its members or shareholders. As such, the members are not liable to be sued in respect of a breach of the company’s obligations: Salomon v A Solomon and Co, Ltd [1897] AC 22. In an extension of this principle, the courts have held that proof of the commission of a tort by a company does not automatically prove that the directors who manage its affairs are also guilty of the tort: Rainham Chemical Works, Ltd v Belvedere Fish Guano Co Ltd [1921] 2 AC 465, Gabriel Peter & Partners v Wee Chong Jin <span class="citation">[1997] 3 SLR(R) 649</span>. 
 
  118 The law has carved out an exception to this principle. Where directors order an act by the company which amounts to a tort by the company, they may be liable as joint tortfeasors on the basis that they have “procured or directed” the wrong to be done: Performing Right Society, Ltd v Ciryl Theatrical Syndicate, Ltd [1924] 1 KB 1. 
 

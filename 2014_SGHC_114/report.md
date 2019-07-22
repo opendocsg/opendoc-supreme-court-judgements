@@ -34,7 +34,7 @@ while Southern Printing & Publishing Co Pte Ltd (“SPPCPL”) was incorporated 
 
 brochures, musical books and other publications. [note: 2] 
 
-3       The Testator had set up the business together with his ex-wife, Madam Sia Peck Eng. Madam Sia was initially the sole proprietor of the business but the Testator later became sole proprietor in place of his wife. The couple divorced in 1998. All these facts were set out by Kan Ting Chiu J in _Lau Loon Seng v Sia Peck Eng_ [1999] 2 SLR(R) 688 at [2]–[5]. Madam Sia, who is now 80 years old, has 
+3       The Testator had set up the business together with his ex-wife, Madam Sia Peck Eng. Madam Sia was initially the sole proprietor of the business but the Testator later became sole proprietor in place of his wife. The couple divorced in 1998. All these facts were set out by Kan Ting Chiu J in _Lau Loon Seng v Sia Peck Eng_ <span class="citation">[1999] 2 SLR(R) 688</span> at [2]–[5]. Madam Sia, who is now 80 years old, has 
 
 survived him. [note: 3] 
 
@@ -92,11 +92,11 @@ Indeed, as of the time of the hearing, the Grant of Probate has not been extract
 
 12     I did not agree with the Applicant’s contention. I agree with the Respondent and I find that cl 4 was merely an expression of the Testator’s wishes and desires; it was not intended to be valid or enforceable at law. 
 
-13     In _Foo Jee Seng and others v Foo Jhee Tuang and another_ [2012] 4 SLR 339 at [17], the Court of Appeal summarised the principles governing the construction of wills as follows: 
+13     In _Foo Jee Seng and others v Foo Jhee Tuang and another_ <span class="citation">[2012] 4 SLR 339</span> at [17], the Court of Appeal summarised the principles governing the construction of wills as follows: 
 
- It is clear that the overriding aim of the court in construing a will is to seek and give effect to the testamentary intention as expressed by the testator. This intention must predominantly be derived from the wording of the will itself, although the circumstances prevailing at the time the will was executed may be taken into account. Where a strict literal construction of the will would give rise to an effect which is clearly out of sync with the general intention of the testator as derived from the will as a whole, such a reading should give way to a more purposive interpretation. Hence, there exists a presumption that effect should be given to every word of the will, and the court should not discount any part of the will if there can be some meaning that is not contrary to the express intention that could be ascribed to it. As the High Court remarked in Goh Nellie v Goh Lian Teck [2007] 1 SLR(R) 453 (" Nellie Goh ") at [62], "A testator, in other words, does not will in vain". 
+ It is clear that the overriding aim of the court in construing a will is to seek and give effect to the testamentary intention as expressed by the testator. This intention must predominantly be derived from the wording of the will itself, although the circumstances prevailing at the time the will was executed may be taken into account. Where a strict literal construction of the will would give rise to an effect which is clearly out of sync with the general intention of the testator as derived from the will as a whole, such a reading should give way to a more purposive interpretation. Hence, there exists a presumption that effect should be given to every word of the will, and the court should not discount any part of the will if there can be some meaning that is not contrary to the express intention that could be ascribed to it. As the High Court remarked in Goh Nellie v Goh Lian Teck <span class="citation">[2007] 1 SLR(R) 453</span> (" Nellie Goh ") at [62], "A testator, in other words, does not will in vain". 
 
-14     In appropriate circumstances, the court might admit relevant extrinsic evidence in ascertaining the testator’s intention as expressed in the will. In _Low Ah Cheow and others v Ng Hock Guan_ [2009] 3 SLR(R) 1079 (“ _Low Ah Cheow_ ”) at [33], the testator's alleged instructions on the drafting of the will and the manner in which the will was explained to the testator were considered to be relevant admissible extrinsic evidence in that case. 
+14     In appropriate circumstances, the court might admit relevant extrinsic evidence in ascertaining the testator’s intention as expressed in the will. In _Low Ah Cheow and others v Ng Hock Guan_ <span class="citation">[2009] 3 SLR(R) 1079</span> (“ _Low Ah Cheow_ ”) at [33], the testator's alleged instructions on the drafting of the will and the manner in which the will was explained to the testator were considered to be relevant admissible extrinsic evidence in that case. 
 
 15     This was a situation where any evidence from the lawyer who assisted in the drafting and execution of the Will would have been highly relevant. It is undisputed that cl 4 of the Will was ambiguously drafted. The evidence of the lawyer would have very helpful in determining what the Testator really meant. There was some indication that the Applicant was going to speak to the 
 
@@ -146,7 +146,7 @@ to be ineffectual. However, it is also true that testators do often say things w
 
 **_Cl 4 is void for conceptual uncertainty_** 
 
-30     Furthermore, the rest of cl 4 is too conceptually uncertain to be valid. As stated in _Toh Eng Lan v Foong Fook Yue and another appeal_ [1998] 3 SLR(R) 833 at [26]: 
+30     Furthermore, the rest of cl 4 is too conceptually uncertain to be valid. As stated in _Toh Eng Lan v Foong Fook Yue and another appeal_ <span class="citation">[1998] 3 SLR(R) 833</span> at [26]: 
 
  ... Another way of testing the matter would be to ask whether (in the case of a condition 
 

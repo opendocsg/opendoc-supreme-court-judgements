@@ -16,7 +16,7 @@
 
 _Family Law_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2012] SGHC 80.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2012] SGHC 80</span>.] 
 
 5 November 2012 
 
@@ -24,7 +24,7 @@ _Family Law_
 
 **Introduction** 
 
-1       This is an appeal against the decision of the High Court Judge (“the Judge”) in _AYQ v AYR_ [2012] SGHC 80 (“the GD”). 
+1       This is an appeal against the decision of the High Court Judge (“the Judge”) in _AYQ v AYR_ <span class="citation">[2012] SGHC 80</span> (“the GD”). 
 
 2       The Judge dealt with the following issues: the division of matrimonial assets between the parties, the maintenance for the Wife (“the Appellant”), the maintenance for the two children from the marriage (“the Children”), and the custody and care arrangements for the Children. In the present appeal, the Appellant appealed only against the Judge’s orders relating to the division of the pool of matrimonial assets and maintenance for herself and the Children. No appeal was made in so far as the custody and care arrangements were concerned. 
 
@@ -35,7 +35,7 @@ _Family Law_
 
 adopted by the Judge. However, we varied the percentage of indirect contributions by the Appellant which we felt ought to be allotted a 30% weightage in each of the three asset classes. In the circumstances, the Appellant was awarded 49% (instead of 39%) of the net sales proceeds of the matrimonial home, 30% (instead of 5%) of the Respondent’s share of the Australian house sale proceeds, and 40% (instead of 20%) of the other matrimonial assets (the original orders made by the Judge are also reproduced below at [8]). Viewed from an overall perspective, the Appellant’s share of the entire pool of matrimonial assets amounted to 40.96%, whilst the Respondent’s share amounted to 59.03%. We would like to take the opportunity to emphasise once again that the court’s task, pursuant to s 112 of the Women’s Charter (Cap 353, 2009 Rev Ed) (“s 112”), is to arrive at a “just and equitable” division of the entire pool of matrimonial assets. In this regard, we were of the view that the division made in the present case, as reflected by the respective final overall percentages, did in fact achieve such a result when viewed in the round as well. In the circumstances, we also found it appropriate to make no order as to the costs of the appeal (a similar order, incidentally, having also been made by the Judge in the court below). 
 
-5       We now give the detailed grounds for our decision and also take the opportunity to clarify the role of indirect contributions (particularly with regard to “the classification methodology” first referred to by this court in _NK v NL_ [2007] 3 SLR(R) 743 (“ _NK v NL_ ”)). 
+5       We now give the detailed grounds for our decision and also take the opportunity to clarify the role of indirect contributions (particularly with regard to “the classification methodology” first referred to by this court in _NK v NL_ <span class="citation">[2007] 3 SLR(R) 743</span> (“ _NK v NL_ ”)). 
 
 **Brief background** 
 
@@ -139,7 +139,7 @@ _Our decision_
 
 21     We would observe – parenthetically – that, pursuant to “the global assessment methodology”, the role of indirect contributions would, of course, be taken into account and, by the very nature of the methodology itself, only once at that. 
 
-22     Returning to “the classification methodology”, we would emphasise the fact that indirect contributions must be factored into – and its weightage to remain constant in relation to – each class of assets. That there might be some confusion at present not only with regard to the present appeal but also with regard to other cases in which on occasion judges rightly hold that the weightage of indirect contributions ought to remain constant with regard to each class of assets (see, for example, the Singapore High Court decision of _AJR v AJS_ [2010] 4 SLR 617 (at [21])) while on other occasions they appear to treat its weightage as differing as between asset classes (see, for example, the Singapore District Court decision of _BAA v BAB_ [2012] SGDC 193 (at [26])), merely underscores the need for the clarification which we have just made. 
+22     Returning to “the classification methodology”, we would emphasise the fact that indirect contributions must be factored into – and its weightage to remain constant in relation to – each class of assets. That there might be some confusion at present not only with regard to the present appeal but also with regard to other cases in which on occasion judges rightly hold that the weightage of indirect contributions ought to remain constant with regard to each class of assets (see, for example, the Singapore High Court decision of _AJR v AJS_ <span class="citation">[2010] 4 SLR 617</span> (at [21])) while on other occasions they appear to treat its weightage as differing as between asset classes (see, for example, the Singapore District Court decision of _BAA v BAB_ <span class="citation">[2012] SGDC 193</span> (at [26])), merely underscores the need for the clarification which we have just made. 
 
 23     Indeed, by their _very nature_ , indirect contributions are part of the very warp and woof of the _entire_ marriage and must therefore be reflected consistently throughout each class of assets. To hold otherwise would, in our view, be contrary to this approach and would invariably lead to undesirable anomalies. If, as was the case here with regard to the Australian property, the asset concerned was acquired by, for example, a husband very shortly after the marriage, there would, _ex hypothesi_ , be little or no indirect contributions by his wife which could be taken into account when that particular asset is being considered by the court with regard to division between the parties pursuant to s 112. Simply put, the anomaly would be that for matrimonial assets acquired very early on in the marriage, for instance immediately after the marriage, the indirect contributions concerned would more likely than not be given very little weight. In contrast, for matrimonial assets acquired later on during the marriage, the indirect contributions concerned would likely be accorded heftier weight. However, the fallacy in such an approach is the fact that indirect contributions can only be assessed and applied at the _end_ of the marriage and, by their very nature, _relate back and impact the entire marriage to date._ The court’s assessment of a spouse’s indirect contribution should thus be performed with retrospective lenses, looking back and fully appreciating the entire context and circumstances of the marriage. It should not be done in a time-specific manner, _ie_ , assessing the extent of indirect contributions of a spouse as at that specific point in time when a particular matrimonial asset was 
 
@@ -148,7 +148,7 @@ acquired. Further, this assessment should not be done in a blinkered fashion whe
 
 24     The approach towards the role of indirect contributions outlined above with regard (especially) to “the classification methodology” is also consistent with the entire spirit behind this court’s view as to the importance of ensuring that indirect contributions are not undervalued but are (on the contrary) given their appropriate weight in the case at hand. Indeed, as this court observed in _NK v NL_ (at [34]): 
 
- A related point, which is of special importance where one spouse (often the wife) has devoted his or her entire time to the family over a lengthy period of time, is to ensure that indirect contributions are not undervalued. We have dealt with this particular issue recently and reiterate the proposition laid down in that case, as follows (see [ Lock Yeng Fun v Chua Hock Chye [2007] 3 SLR(R) 520] ... at [39]): 
+ A related point, which is of special importance where one spouse (often the wife) has devoted his or her entire time to the family over a lengthy period of time, is to ensure that indirect contributions are not undervalued. We have dealt with this particular issue recently and reiterate the proposition laid down in that case, as follows (see [ Lock Yeng Fun v Chua Hock Chye <span class="citation">[2007] 3 SLR(R) 520</span>] ... at [39]): 
 
  In this regard, we also endorse the following views expressed by Debbie Ong Siew Ling & Valerie Thean, ‘Family Law’, (2005) 6 SAL Ann Rev 259 at para 13.31: 
 

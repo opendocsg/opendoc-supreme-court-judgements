@@ -45,7 +45,7 @@ Section 35 of the SCJA provides that wherever an application may be made either 
 
 **The grounds for granting leave to appeal** 
 
-7       The long-established legal position is that leave to appeal may be granted if the applicant persuades the court that there is (a) a _prima facie_ case of error; (b) a question of general principle decided for the first time; or (c) a question of importance upon which further argument and a decision of a higher tribunal would be to the public advantage. These grounds were set out in the Court of Appeal’s decision in _Lee Kuan Yew v Tang Liang Hong_ [1997] 2 SLR(R) 862 (“ _Lee Kuan Yew_ ”) at [16]. 
+7       The long-established legal position is that leave to appeal may be granted if the applicant persuades the court that there is (a) a _prima facie_ case of error; (b) a question of general principle decided for the first time; or (c) a question of importance upon which further argument and a decision of a higher tribunal would be to the public advantage. These grounds were set out in the Court of Appeal’s decision in _Lee Kuan Yew v Tang Liang Hong_ <span class="citation">[1997] 2 SLR(R) 862</span> (“ _Lee Kuan Yew_ ”) at [16]. 
 
 **The usual grounds do not apply in this case** 
 
@@ -56,7 +56,7 @@ Section 35 of the SCJA provides that wherever an application may be made either 
 
 that further consideration by a bench of three or more Judges at a senior level may be necessary or helpful or advantageous. The position here was different not only because of the number of Judges but also because the constitution of the bench made it plain that in effect the Court of Appeal was sitting albeit as a bench of the High Court. 
 
-10     It was precisely because there were questions of general principle to be decided for the first time, on which a decision by a higher tribunal would be to the public advantage, that three members of the Court of Appeal sat in the High Court to hear this appeal. It was for the same reason that an _amicus curiae_ was appointed. All three Judges who heard this appeal were involved in the first case under the ICAA to reach the Court of Appeal, _BDU v BDT_ [2014] 2 SLR 725. In that matter, I was the High Court Judge who heard the appeal from the District Court’s decision (see _BDU v BDT_ [2013] 3 SLR 535) and Menon CJ and Phang JA were two of the three Judges who heard the appeal from my decision. That matter was drawn out, however, by having to proceed through two tiers of appeal. 
+10     It was precisely because there were questions of general principle to be decided for the first time, on which a decision by a higher tribunal would be to the public advantage, that three members of the Court of Appeal sat in the High Court to hear this appeal. It was for the same reason that an _amicus curiae_ was appointed. All three Judges who heard this appeal were involved in the first case under the ICAA to reach the Court of Appeal, _BDU v BDT_ <span class="citation">[2014] 2 SLR 725</span>. In that matter, I was the High Court Judge who heard the appeal from the District Court’s decision (see _BDU v BDT_ <span class="citation">[2013] 3 SLR 535</span>) and Menon CJ and Phang JA were two of the three Judges who heard the appeal from my decision. That matter was drawn out, however, by having to proceed through two tiers of appeal. 
 
 11     In this case, if the children were found to have been wrongfully removed or retained in Singapore, then the objective of the Hague Convention – to secure the prompt return of such children 
 
@@ -88,7 +88,7 @@ that further consideration by a bench of three or more Judges at a senior level 
 
 differently from a lower court, and thus reaches a different conclusion, its assessment is one made on the facts of the particular case. There is thus no question of general importance which would justify granting leave to appeal in the first place. 
 
-21     This reasoning is supported by the Court of Appeal’s decision in _IW v IX_ [2006] 1 SLR(R) 135. In that case, it was argued that the weight to be given to various factors in deciding whether custody with one parent was in the welfare of a child was a question of general importance which justified the granting of leave to appeal (at [25]). The Court of Appeal rejected this argument, explaining (at [27] to [28]) that the weight to be given to each of the various relevant factors varies from case to case and is essentially an exercise of judgment. Accordingly, the court was not satisfied that it should grant leave to appeal under the second and third grounds of _Lee Kuan Yew_ ([7] _supra_ ). 
+21     This reasoning is supported by the Court of Appeal’s decision in _IW v IX_ <span class="citation">[2006] 1 SLR(R) 135</span>. In that case, it was argued that the weight to be given to various factors in deciding whether custody with one parent was in the welfare of a child was a question of general importance which justified the granting of leave to appeal (at [25]). The Court of Appeal rejected this argument, explaining (at [27] to [28]) that the weight to be given to each of the various relevant factors varies from case to case and is essentially an exercise of judgment. Accordingly, the court was not satisfied that it should grant leave to appeal under the second and third grounds of _Lee Kuan Yew_ ([7] _supra_ ). 
 
 **_Consent_** 
 

@@ -404,7 +404,7 @@ the Additional Assessments and assess the Appellant to additional tax. [note: 50
 
  (2) In any case in which the amount of tax payable, tax to be refunded as a result of the operation of section 46 or notional tax benefit, as determined by the Board (excluding the amount of any costs awarded) exceeds $200, the appellant or the Comptroller may appeal to the High Court from the decision of the Board upon any question of law or of mixed law and fact. 
 
-There is hence no appeal on questions of fact alone ( _HLB v Comptroller of Income Tax_ [1974–1976] SLR(R) 135 at [1]; _NP v Comptroller of Income Tax_ [2007] 4 SLR(R) 599 at [6] (“ _NP v CIT_ ”)). 
+There is hence no appeal on questions of fact alone ( _HLB v Comptroller of Income Tax_ [1974–1976] SLR(R) 135 at [1]; _NP v Comptroller of Income Tax_ <span class="citation">[2007] 4 SLR(R) 599</span> at [6] (“ _NP v CIT_ ”)). 
 
 56     Various formulations have been expressed as to the proper approach in appeals from decisions of the Board. The proper test to apply in appeals under s 81(2) is to ask whether the Board had misdirected itself in law, or had proceeded without sufficient evidence in law to justify its conclusion ( _CBH v Comptroller of Income Tax_ [1981–1982] SLR(R) 273 at [4]). Whilst the findings of fact made by the Board would generally be respected, the court is free to decide whether the conclusion reached by the Board is consonant with the facts found and to reject the Board’s conclusions if the same are unreasonable ( _NP v CIT_ ). To succeed in an appeal under s 81(2), the appellant must show that the Board erred in that no reasonable body of members constituting an Income Tax Board of Review could have reached the findings made by the Board ( _Mount Elizabeth (Pte) Ltd v Comptroller of Income Tax_ [1985–1986] SLR(R) 950 at [17]). These are all encapsulated within the oft-quoted statement of the law by Lord Radcliffe in _Edwards (Inspector of Taxes) v Bairstow and another_ [1956] AC 14 where his Lordship held as follows (at 36): 
 
@@ -456,7 +456,7 @@ and contrivance as factors in determining whether s 33(1) applied because it is 
 
  (b) any arrangement carried out for bona fide commercial reasons and had not as one of its main purposes the avoidance or reduction of tax. 
 
-63     Tax law is a creature of statute and interpretation of particular tax provisions must start from their express words: _JD Ltd v Comptroller of Income Tax_ [2006] 1 SLR(R) 484 at [46] and [56] (“ _JD Ltd_ ”). Looking squarely at the express words of s 33, one would notice that there is a clear two-part structure to s 33: 
+63     Tax law is a creature of statute and interpretation of particular tax provisions must start from their express words: _JD Ltd v Comptroller of Income Tax_ <span class="citation">[2006] 1 SLR(R) 484</span> at [46] and [56] (“ _JD Ltd_ ”). Looking squarely at the express words of s 33, one would notice that there is a clear two-part structure to s 33: 
 
  (a) Section 33(1) sets out three specific circumstances, at least one of which must be fulfilled before the Comptroller may exercise his powers under s 33(1). The purpose or effect of the arrangement in question must be to: 
 

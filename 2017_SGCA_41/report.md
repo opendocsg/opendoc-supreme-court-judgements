@@ -16,9 +16,9 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2016] SGHC 56.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2016] SGHC 56</span>.] 
 
-[LawNet Editorial Note: The application in Criminal Motion No 6 of 2018 was dismissed by the Court of Appeal on 15 March 2018. See [2018] SGCA 15.] 
+[LawNet Editorial Note: The application in Criminal Motion No 6 of 2018 was dismissed by the Court of Appeal on 15 March 2018. See <span class="citation">[2018] SGCA 15</span>.] 
 
 3 July 2017 
 
@@ -68,7 +68,7 @@ gloves, were also found in the luggage bag. [note: 8]
 
 **The decision below** 
 
-10     After a trial that lasted 45 days and spanned five tranches, the trial judge (“the Judge”) found that the “weight of the evidence led by the Prosecution was overwhelmingly against the [Appellant]” and convicted the Appellant on both the charges of drug trafficking ( _Public Prosecutor v Hishamrudin Bin Mohd_ [2016] SGHC 56 (“the GD”) at [46]). 
+10     After a trial that lasted 45 days and spanned five tranches, the trial judge (“the Judge”) found that the “weight of the evidence led by the Prosecution was overwhelmingly against the [Appellant]” and convicted the Appellant on both the charges of drug trafficking ( _Public Prosecutor v Hishamrudin Bin Mohd_ <span class="citation">[2016] SGHC 56</span> (“the GD”) at [46]). 
 
 11     The Judge referred, in particular, to the DNA evidence found on various items that pointed to the Appellant’s guilt. This included the presence of the Appellant’s DNA on the interior and exterior of the plastic bags found in the Car and in the Flat and which contained the drugs, as well as the several drug paraphernalia found in the Flat. The Appellant’s DNA was also found on the heat sealer which had been used to heat-seal the plastic packets containing the drugs found in both the Flat and the Car. The Judge also rejected the Appellant’s allegations that he was framed by officers from the Central Narcotics Bureau (“CNB”), or that the drugs were planted in the Car and in the Flat by various different people whom he had accused, at different points during the trial, of having done that. The Judge viewed these allegations as “a desperate attempt” by the Appellant to distance himself from the drugs found in the Car and in the Flat (the GD at [43] and [47]–[48]). 
 
@@ -109,7 +109,7 @@ could have needed for his own consumption. [note: 13] We therefore do not need t
 
 **_The law on possession of a controlled drug_** 
 
-18     It is established law that to prove that an accused person had actual possession of controlled drugs, two elements must be satisfied:(1) that the accused person had physical control over the controlled drugs; and (2) that the accused person knew of the nature of the controlled drugs. The knowledge as to “nature of the controlled drugs” touches on the person’s knowledge that the items were controlled drugs, not his or her knowledge of the _specific_ nature of the drug (see _Fun Seong Cheng v Public Prosecutor_ [1997] 2 SLR 796 at [53]–[56]; _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR (R) 1 at [87]). 
+18     It is established law that to prove that an accused person had actual possession of controlled drugs, two elements must be satisfied:(1) that the accused person had physical control over the controlled drugs; and (2) that the accused person knew of the nature of the controlled drugs. The knowledge as to “nature of the controlled drugs” touches on the person’s knowledge that the items were controlled drugs, not his or her knowledge of the _specific_ nature of the drug (see _Fun Seong Cheng v Public Prosecutor_ <span class="citation">[1997] 2 SLR 796</span> at [53]–[56]; _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR (R) 1 at [87]). 
 
 19     We note that the presumption of possession under s 21 of the MDA was also invoked in respect of the drugs found in the Appellant’s car as he was the owner of the car. Section 21 of the MDA provides: 
 
@@ -124,7 +124,7 @@ undisputed that he was the owner of the Car. [note: 14]
 
 21     Nevertheless, for completeness, we will also consider whether the Appellant had _actual_ possession of the drugs found in both the Car and the Flat. 
 
-22     We note that the Prosecution did not rely on a possible presumption of possession under s 18(1)( _c_ ) of the MDA with regards to the drugs found in the Flat. Presumably, this was because the Prosecution wished to rely on the presumption concerning trafficking under s 17( _c_ ) of the MDA, and this could only be done if actual possession was proved: _Tang Hai Liang v Public Prosecutor_ [2011] SGCA 38 (“ _Tang_ ”) at [18]–[19], citing this court’s earlier decision in _Mohd Halmi bin Hamid and another v Public Prosecutor_ [2006] 1 SLR(R) 548 at [8] and [10]. We will thus begin by examining whether the Appellant had actual possession of the drugs found in the Flat. 
+22     We note that the Prosecution did not rely on a possible presumption of possession under s 18(1)( _c_ ) of the MDA with regards to the drugs found in the Flat. Presumably, this was because the Prosecution wished to rely on the presumption concerning trafficking under s 17( _c_ ) of the MDA, and this could only be done if actual possession was proved: _Tang Hai Liang v Public Prosecutor_ <span class="citation">[2011] SGCA 38</span> (“ _Tang_ ”) at [18]–[19], citing this court’s earlier decision in _Mohd Halmi bin Hamid and another v Public Prosecutor_ <span class="citation">[2006] 1 SLR(R) 548</span> at [8] and [10]. We will thus begin by examining whether the Appellant had actual possession of the drugs found in the Flat. 
 
 **_Possession of drugs in the Appellant’s Flat_** 
 

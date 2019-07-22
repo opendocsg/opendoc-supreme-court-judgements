@@ -80,7 +80,7 @@ _Criminal Procedure and Sentencing_ – _Revision of proceedings_ – _Plea of g
 
  (c ) reliability – it must be apparently c redible, although it need not be inc ontrovertible. 
 
-17     I adopted this framework in _Juma’at bin Samad v PP_ [1993] 3 SLR 338, and have repeatedly affirmed its authority in c ases suc h as _Chan Chun Yee v PP_ [1998] 3 SLR 638, _Tan Sai Tiang v PP_ [2000] 1 SLR 439 and most rec ently, in _Annis bin Abdullah v PP_ [2004] 2 SLR 93. 
+17     I adopted this framework in _Juma’at bin Samad v PP_ <span class="citation">[1993] 3 SLR 338</span>, and have repeatedly affirmed its authority in c ases suc h as _Chan Chun Yee v PP_ <span class="citation">[1998] 3 SLR 638</span>, _Tan Sai Tiang v PP_ <span class="citation">[2000] 1 SLR 439</span> and most rec ently, in _Annis bin Abdullah v PP_ <span class="citation">[2004] 2 SLR 93</span>. 
 
 
 18     In this c ase, the affidavits that the petitioners sought to adduc e desc ribed their version of what transpired in the c ourt below on 8 and 9 Oc tober 2002. It was apparent that, by the very nature of the evidenc e, the first c ondition was fulfilled, sinc e this evidenc e obviously c ould not have been obtained at the proc eedings below. The sec ond c ondition was also c learly satisfied, as the evidenc e was highly relevant. Lee and Chiong based their c ases for c riminal revision on the main ground that their pleas of guilt below were invalid. In order to asc ertain the legality of their pleas of guilt, and c onsequently, the soundness of their c onvic tions, I had to c onsider evidenc e of the c irc umstanc es in whic h the pleas were taken. 
@@ -93,11 +93,11 @@ _Criminal Procedure and Sentencing_ – _Revision of proceedings_ – _Plea of g
 
 **The criminal revisions** 
 
-22     I laid down the princ iples governing the exerc ise of the High Court’s revisionary powers in _Ang Poh Chuan v PP_ [1996] 1 SLR 326 at 330, [17]: 
+22     I laid down the princ iples governing the exerc ise of the High Court’s revisionary powers in _Ang Poh Chuan v PP_ <span class="citation">[1996] 1 SLR 326</span> at 330, [17]: 
 
  [V]arious phrases may be used to identify the c irc umstanc es whic h would attrac t the exerc ise of the revisionary jurisdic tion, but they all share the c ommon denominator that there must be some serious injustic e. Of c ourse there c annot be a prec ise definition of what would c onstitute suc h serious injustic e for that would in any event unduly c irc umsc ribe what must be a wide disc retion vested in the c ourt, the exerc ise of whic h would depend largely on the partic ular fac ts. But generally it must be shown that there is something palpably wrong in the dec ision that strikes at its basis as an exerc ise of judic ial power by the c ourt below. 
 
-23     Bearing in mind the potential for abuse by ac c used persons who have pleaded guilty, the c ourt will exerc ise its revisionary power sparingly, to ensure that it does not degenerate into a c onvenient form of “bac kdoor appeal”: _Teo Hee Heng v PP_ [2000] 3 SLR 168 at [7]. Not only must there have been some error, illegality, impropriety or irregularity, it must also have resulted in grave and serious injustic e: _Ma Teresa Bebango Bedico v PP_ [2002] 1 SLR 192 at [8], followed in _Lee Eng Hock v PP_ [2002] 1 SLR 364. 
+23     Bearing in mind the potential for abuse by ac c used persons who have pleaded guilty, the c ourt will exerc ise its revisionary power sparingly, to ensure that it does not degenerate into a c onvenient form of “bac kdoor appeal”: _Teo Hee Heng v PP_ <span class="citation">[2000] 3 SLR 168</span> at [7]. Not only must there have been some error, illegality, impropriety or irregularity, it must also have resulted in grave and serious injustic e: _Ma Teresa Bebango Bedico v PP_ <span class="citation">[2002] 1 SLR 192</span> at [8], followed in _Lee Eng Hock v PP_ <span class="citation">[2002] 1 SLR 364</span>. 
 
 **_The petitioners’ case_** 
 
@@ -106,7 +106,7 @@ _Criminal Procedure and Sentencing_ – _Revision of proceedings_ – _Plea of g
 
 **_The pleas of guilt_** 
 
-25     The greater part of the petitioners’ arguments disputed the validity of their pleas of guilt below. The c irc umstanc es under whic h the High Court would exerc ise its revisionary powers in suc h c ases are firmly settled. Sec tion 180(b) of the CPC states that if the ac c used understands the nature and c onsequenc es of his plea and intends to admit without qualific ation the offenc e alleged against him, he may plead guilty to the c harge and the c ourt may c onvic t him on it. In _Ganesun s/o Kannan v PP_ [1996] 3 SLR 560, I adopted the three c ommon law safeguards for a valid plea of guilt as laid down in _Lee Weng Tuck v PP_ [1989] 2 MLJ 143: 
+25     The greater part of the petitioners’ arguments disputed the validity of their pleas of guilt below. The c irc umstanc es under whic h the High Court would exerc ise its revisionary powers in suc h c ases are firmly settled. Sec tion 180(b) of the CPC states that if the ac c used understands the nature and c onsequenc es of his plea and intends to admit without qualific ation the offenc e alleged against him, he may plead guilty to the c harge and the c ourt may c onvic t him on it. In _Ganesun s/o Kannan v PP_ <span class="citation">[1996] 3 SLR 560</span>, I adopted the three c ommon law safeguards for a valid plea of guilt as laid down in _Lee Weng Tuck v PP_ [1989] 2 MLJ 143: 
 
  (a) an ac c used should plead guilty by his own mouth and not through his c ounsel; 
 
@@ -150,7 +150,7 @@ c onc erned with the c ase throughout. The nature and c onsequenc es of the c ha
 
 **_The Agreed SOF_** 
 
-37     Lee and Chiong also argued that the Agreed SOF c ontained errors on the fac e of it, whic h raised serious issues as to its ac c urac y. It is trite law that the c ourt has a legal duty to rec ord a statement of fac ts following an ac c used’s plea of guilt, and to sc rutinise the statement to ensure that all the elements of the c harge are made out. The ac c used need not admit to every fac t alleged in the statement of fac ts, so long as what he does admit c ontains all the essential ingredients of the offenc e he is c harged with: _Mok Swee Kok v PP_ [1994] 3 SLR 140. 
+37     Lee and Chiong also argued that the Agreed SOF c ontained errors on the fac e of it, whic h raised serious issues as to its ac c urac y. It is trite law that the c ourt has a legal duty to rec ord a statement of fac ts following an ac c used’s plea of guilt, and to sc rutinise the statement to ensure that all the elements of the c harge are made out. The ac c used need not admit to every fac t alleged in the statement of fac ts, so long as what he does admit c ontains all the essential ingredients of the offenc e he is c harged with: _Mok Swee Kok v PP_ <span class="citation">[1994] 3 SLR 140</span>. 
 
 38     Here, Lee and Chiong c laimed that the Agreed SOF c ontained evidenc e of a material element of the offenc e that was c ontradic tory. Paragraph 3 of the Agreed SOF states that: 
 
@@ -175,7 +175,7 @@ c onc erned with the c ase throughout. The nature and c onsequenc es of the c ha
 
 **_Delay_** 
 
-46     Even if I ac c epted Lee’s and Chiong’s c ontentions, any injustic e they may have suffered was seriously attenuated by their delay in presenting the petitions. While delay would generally be immaterial in a c ase of injustic e, it may indic ate, in some c irc umstanc es that there was in fac t no injustic e c aused: _Ang Poh Chuan_ , ([22] _supra_ ), followed in _Lim Hean Nerng v Lim Ee Choo_ [1998] 2 SLR 585. In this c ase, Lee and Chiong c ould not offer any c redible explanation for the lateness of their applic ations. Although it was unfortunate that Lee had suffered from poor health sinc e his c onvic tion, this did not adequately explain the delay of more than 17 months. Chiong was still in a position to present their c ase, and their sons Min Kwang and Wei Kwang c ould also have instruc ted c ounsel to file the petitions. 
+46     Even if I ac c epted Lee’s and Chiong’s c ontentions, any injustic e they may have suffered was seriously attenuated by their delay in presenting the petitions. While delay would generally be immaterial in a c ase of injustic e, it may indic ate, in some c irc umstanc es that there was in fac t no injustic e c aused: _Ang Poh Chuan_ , ([22] _supra_ ), followed in _Lim Hean Nerng v Lim Ee Choo_ <span class="citation">[1998] 2 SLR 585</span>. In this c ase, Lee and Chiong c ould not offer any c redible explanation for the lateness of their applic ations. Although it was unfortunate that Lee had suffered from poor health sinc e his c onvic tion, this did not adequately explain the delay of more than 17 months. Chiong was still in a position to present their c ase, and their sons Min Kwang and Wei Kwang c ould also have instruc ted c ounsel to file the petitions. 
 
 47     In fac t, I found it reasonable to infer from the c irc umstanc es that these petitions were filed only as a response to the subsequent 17 Oc tober 2003 c harges against Lee and Chiong, for a c ontinuing offenc e under s 4(3) of the Ac t. They probably began to c onsider petitioning for c riminal revision only after they rec eived the sec ond summons, and were fac ed with the prospec t of a muc h heftier fine. All of this further undermined their c ase that they suffered substantial injustic e in the c ourt below. Their behaviour was c ertainly not c onsistent with that of anyone c arrying the burden of injustic e on their bac ks. 
 
@@ -183,12 +183,12 @@ c onc erned with the c ase throughout. The nature and c onsequenc es of the c ha
 
 48     Sec tion 4(3) of the Ac t provides that “any person who fails to c omply with the requirements of any notic e issued by the Commissioner under subsec tion (1) shall be guilty of an offenc e”. The material elements of the offenc e are: (a) a valid notic e issued by the Commissioner to the owner; and (b) failure to c omply. 
 
-49     As there is no express _mens rea_ requirement, Lee and Chiong c onc eded that the provision c reated a stric t liability offenc e. However, they argued that the defenc e of due diligenc e or reasonable c are should have been available to them, following the princ iples in _M V Balakrishnan v PP_ [1998] SGHC 416; [1998] 1 CLAS 357 and _Tan Cheng Kwee v PP_ [2002] 3 SLR 390. As Mr Tan failed to inform them of this, they allegedly suffered a serious injustic e that must be set right. 
+49     As there is no express _mens rea_ requirement, Lee and Chiong c onc eded that the provision c reated a stric t liability offenc e. However, they argued that the defenc e of due diligenc e or reasonable c are should have been available to them, following the princ iples in _M V Balakrishnan v PP_ <span class="citation">[1998] SGHC 416</span>; [1998] 1 CLAS 357 and _Tan Cheng Kwee v PP_ <span class="citation">[2002] 3 SLR 390</span>. As Mr Tan failed to inform them of this, they allegedly suffered a serious injustic e that must be set right. 
 
 **_Strict liability_** 
 
 
-50     In _Comfort Management Pte Ltd v PP_ [2003] 2 SLR 67, I adopted the approac h established in _Sweet v Parsley_ [1970] AC 132 and _Gammon (Hong Kong) Ltd v Attorney-General of Hong Kong_ [1985] AC 1, to dec ide if the relevant offenc e was one of stric t liability. The following opinion expressed by Lord Sc arman in _Gammon (Hong Kong) Ltd_ (at 14) provides a c onc ise set of guidelines: 
+50     In _Comfort Management Pte Ltd v PP_ <span class="citation">[2003] 2 SLR 67</span>, I adopted the approac h established in _Sweet v Parsley_ [1970] AC 132 and _Gammon (Hong Kong) Ltd v Attorney-General of Hong Kong_ [1985] AC 1, to dec ide if the relevant offenc e was one of stric t liability. The following opinion expressed by Lord Sc arman in _Gammon (Hong Kong) Ltd_ (at 14) provides a c onc ise set of guidelines: 
 
  (1) there is a presumption of law that mens rea is required before a person c an be held guilty of a c riminal offenc e; (2) the presumption is partic ularly strong where the offenc e is “truly c riminal” in c harac ter; (3) the presumption applies to statutory offenc es, and c an be displac ed only if this is c learly or by nec essary implic ation the effec t of the statute; (4) the only situation in whic h the presumption c an be displac ed is where the statute is c onc erned with an issue of soc ial c onc ern, and public safety is suc h an issue; (5) even when a statute is c onc erned with suc h an issue, the presumption of mens rea stands unless it c an be shown that the c reation of stric t liability will be effec tive to promote the objec ts of the statute ... 
 

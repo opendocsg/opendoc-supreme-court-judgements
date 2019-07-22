@@ -83,7 +83,7 @@ basis from the date of the 2 nd offer to settle. It was further submitted that D
 
 8\. In _Mulready v Bell Ltd_ [1953] 2 All ER 215, Lord Goddard stated that a _Bullock_ (or _Sanderson_ ) order would not be appropriate where the plaintiff alleges independent causes of action against different defendants, and the respective breaches of duty are in no way connected. 
 
-9\. In _Mohd bin Sapri v Soil-Build (Pte) Ltd and another appeal_ [1996] 2 SLR 505, Yong Pung How CJ stated at p 521E that: 
+9\. In _Mohd bin Sapri v Soil-Build (Pte) Ltd and another appeal_ <span class="citation">[1996] 2 SLR 505</span>, Yong Pung How CJ stated at p 521E that: 
 
 ## If the plaintiff includes an additional defendant because of his uncertainty of the 
 
@@ -404,7 +404,7 @@ as a conforming offer, or equated to one in terms of its consequences.
 
 ## are to be paid: Order 22 A Rule 9 (5). 
 
-40\. The Court of Appeal in _Tullio v Maoro_ [1994] 2 SLR 489 referred to the headnote in _Re Elgindata Ltd_ [1993] 1 All ER 232 which neatly collated the relevant principles governing the award of costs as follows: 
+40\. The Court of Appeal in _Tullio v Maoro_ <span class="citation">[1994] 2 SLR 489</span> referred to the headnote in _Re Elgindata Ltd_ [1993] 1 All ER 232 which neatly collated the relevant principles governing the award of costs as follows: 
 
 ## The principles on which costs were to be awarded were (i) that costs were in 
 
@@ -878,7 +878,7 @@ relation to his separate claim against the hospital were entirely excluded from 
 
  a. where the only issue in the appeal relates to costs .. 
 
-53\. In _Lee Kuan Yew v Tang Liang Hong & Anor_ [1997] 3 SLR 489, Yong Pung How CJ considered the principles concerning leave to appeal: 
+53\. In _Lee Kuan Yew v Tang Liang Hong & Anor_ <span class="citation">[1997] 3 SLR 489</span>, Yong Pung How CJ considered the principles concerning leave to appeal: 
 
 ## .. there are at least three limbs which can be relied upon when leave to appeal is 
 
@@ -950,7 +950,7 @@ judgment sum paid over is not likely to be recoverable for setting off against t
 
 ## orders. 
 
-61\. The position in Singapore was succinctly laid down by Yong Pung How CJ in _Le e Sian Hee v Oh Kheng Soon_ [1992] 1 SLR 77 at p 78H: 
+61\. The position in Singapore was succinctly laid down by Yong Pung How CJ in _Le e Sian Hee v Oh Kheng Soon_ <span class="citation">[1992] 1 SLR 77</span> at p 78H: 
 
 ## Whilst the court has power to grant a stay, and this is entirely in the discretion 
 
@@ -994,9 +994,9 @@ judgment sum paid over is not likely to be recoverable for setting off against t
 
 ## established case law. 
 
-63\. This was followed in _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ [1999] 2 SLR 233. The court, in every case, will have to examine the facts to see if special circumstances justifying the grant of a stay of execution exists: _Cathay_ 
+63\. This was followed in _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ <span class="citation">[1999] 2 SLR 233</span>. The court, in every case, will have to examine the facts to see if special circumstances justifying the grant of a stay of execution exists: _Cathay_ 
 
-_Theatres Pte Ltd v LKM Investment Holdings Pte Ltd_ [2000] 1 SLR 701 at 705H. Halsbury Laws of England 4th Edn (1976) Vol 17 para 451 at p 270 states that the special circumstances which entitle the court to stay execution of a money judgment are circumstances which go to the enforcement of the judgment and not those which go to its validity or correctness. In other words, the existence of strong grounds for an appeal based on the incorrectness or invalidity of a judgment does not constitute 
+_Theatres Pte Ltd v LKM Investment Holdings Pte Ltd_ <span class="citation">[2000] 1 SLR 701</span> at 705H. Halsbury Laws of England 4th Edn (1976) Vol 17 para 451 at p 270 states that the special circumstances which entitle the court to stay execution of a money judgment are circumstances which go to the enforcement of the judgment and not those which go to its validity or correctness. In other words, the existence of strong grounds for an appeal based on the incorrectness or invalidity of a judgment does not constitute 
 
 
 a special circumstance upon which a stay of execution pending appeal should be granted. (See also _Lee Kuan Yew v Jeyaretnam JB_ [1991] 1 MLJ 83 at p 85.) 

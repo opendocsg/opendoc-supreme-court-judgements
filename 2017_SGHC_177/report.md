@@ -53,7 +53,7 @@ estate. [note: 4]
 
 of intestacy. [note: 6] OS 995/2006 was initially commenced against Mdm Tan as the administratrix of TYT’s estate. Subsequently, it was amended and Mdm Tan and the plaintiff became the defendants in their capacities as administratrix and administrator respectively of Tan Kow Quee’s estate. 
 
-8       OS 995/2006 was dismissed by the High Court on 12 February 2007: see _Re Estate of Tan Kow Quee (alias Tan Kow Kwee)_ [2007] 2 SLR(R) 417 (“ _Re Estate of Tan Kow Quee_ ”). The High Court’s decision was upheld by the Court of Appeal in Civil Appeal No 25 of 2007 (“CA 25/2007”) on 30 August 
+8       OS 995/2006 was dismissed by the High Court on 12 February 2007: see _Re Estate of Tan Kow Quee (alias Tan Kow Kwee)_ <span class="citation">[2007] 2 SLR(R) 417</span> (“ _Re Estate of Tan Kow Quee_ ”). The High Court’s decision was upheld by the Court of Appeal in Civil Appeal No 25 of 2007 (“CA 25/2007”) on 30 August 
 
 2007\. [note: 7] 
 
@@ -190,7 +190,7 @@ April 2008. [note: 22] In that letter, Netto advised Mdm Tan and the plaintiff t
 
 This argument was irrelevant given my finding that there was no such disposition of Mdm Tan’s equitable interest in the Property in the first place. In any event, in my view, the doctrine of part performance did not assist the plaintiff. 
 
-40     Courts have generally taken a pragmatic approach in applying the doctrine of part performance to mitigate against the rigours of the strict requirement of writing, in order to prevent a statute from being used as an instrument of fraud. Equity will only intervene to thwart unconscionable behaviour. See _Ching Chew Weng Paul v Ching Pui Sim and others_ [2010] 2 SLR 76 (“ _Ching Chew Weng_ ”) at [44], citing _Midlink Development Pte Ltd v The Stansfield Group Pte Ltd_ [2004] 4 SLR(R) 258 at [66] and _Re Estate of Tan Kow Quee_ at [15]. 
+40     Courts have generally taken a pragmatic approach in applying the doctrine of part performance to mitigate against the rigours of the strict requirement of writing, in order to prevent a statute from being used as an instrument of fraud. Equity will only intervene to thwart unconscionable behaviour. See _Ching Chew Weng Paul v Ching Pui Sim and others_ <span class="citation">[2010] 2 SLR 76</span> (“ _Ching Chew Weng_ ”) at [44], citing _Midlink Development Pte Ltd v The Stansfield Group Pte Ltd_ <span class="citation">[2004] 4 SLR(R) 258</span> at [66] and _Re Estate of Tan Kow Quee_ at [15]. 
 
 41     In the context of a disposition that has not complied with s 7(2) of the CLA, the inquiry is to determine whether there were acts of part performance which are referable to the disposition and, if so, whether the acts of part performance render it unconscionable to rely on the strict requirements of writing under s 7(2): _Ching Chew Weng_ at [45]. 
 

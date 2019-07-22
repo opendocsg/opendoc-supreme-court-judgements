@@ -373,7 +373,7 @@ seen it fit to obtain a psychiatrist’s report over a relatively trivial issue.
 
 69     I would add that the Wife had stressed that the Husband had subjected the children to no fewer than 23 separate interviews with psychiatrists and a psychologist. On this point, Ms Rajah submitted that the reason for the interviews was because the Husband was concerned about the impact that the divorce proceedings might have on the children. I do not accept this submission. In my view, the interviews would drive home the fact and the pain of the divorce proceedings. 
 
-70     District Judge Lim said in her judgment ( _BF v BG_ [2004] SGDC 115): 
+70     District Judge Lim said in her judgment ( _BF v BG_ <span class="citation">[2004] SGDC 115</span>): 
 
  60 The [psychiatrist’s] report has revealed that the father has shown the younger boy correspondence relating to the access issues. The psychiatrist himself has expressed reservations about the father’s course of conduct in so doing (see page 6 of the psychiatrist’s 1st affidavit). .... 
 
@@ -708,7 +708,7 @@ II. ISSUES ARISING IN THE MAINTENANCE APPEAL
 
 217\. In short the Wife is asking that the provisions of the [Agreement] be enforced throughout. 
 
-81     I will also set out District Judge Khoo’s reasons for his orders on maintenance in his grounds of decision ([2006] SGDC 22) dated 17 February 2006, which were as follows: 
+81     I will also set out District Judge Khoo’s reasons for his orders on maintenance in his grounds of decision (<span class="citation">[2006] SGDC 22</span>) dated 17 February 2006, which were as follows: 
 
  Decision on maintenance 
 
@@ -783,7 +783,7 @@ II. ISSUES ARISING IN THE MAINTENANCE APPEAL
 
 83     Although the heading under the Agreement for the subject of maintenance was “Interim Maintenance Matters”, it was not the Husband’s position that he had agreed to pay the maintenance as set out thereunder only because it was on an interim basis and that he had intended on the final hearing on ancillaries to argue for a lower sum of maintenance. His position was that when he agreed to the maintenance in late December 2002, he was not aware that he would be terminated. It was in or about March 2003 that the new owners of his employer had informed him that he was no longer needed (see again para 179 of Ms Rajah’s written submission). Although he was aware in March 2003, when he signed the Agreement on maintenance and other issues, that he would be leaving his employer, he nevertheless signed the Agreement because under the severance terms he was negotiating he would still receive his salary up to 7 June 2003 and other benefits up to 7 September 2003 (see again para 184 of Ms Rajah’s written submission). The Husband’s position was that the cessation of his employment was a material change in circumstances which justified a reduction of the maintenance he had agreed to pay. 
 
-84     Ms Rajah relied on _Tan Sue-Ann Melissa v Lim Siang Bok Dennis_ [2004] 3 SLR 376 (“ _Tan SueAnn_ ”) for the proposition that a party was not bound by his agreement on maintenance. Indeed s 119 of the Women’s Charter (Cap 353, 1997 Rev Ed) states: 
+84     Ms Rajah relied on _Tan Sue-Ann Melissa v Lim Siang Bok Dennis_ <span class="citation">[2004] 3 SLR 376</span> (“ _Tan SueAnn_ ”) for the proposition that a party was not bound by his agreement on maintenance. Indeed s 119 of the Women’s Charter (Cap 353, 1997 Rev Ed) states: 
 
  Subject to section 116, the court may at any time and from time to time vary the terms of any agreements as to maintenance made between Husband and Wife, whether made before or after 1st June 1981, where it is satisfied that there has been any material change in the circumstances and notwithstanding any provision to the contrary in any such agreement. 
 

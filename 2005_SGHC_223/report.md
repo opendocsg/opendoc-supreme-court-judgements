@@ -207,7 +207,7 @@ I find that the defendants are not liable as occupiers either as there was no co
 
  (c) a proper system and effective supervision. 
 
- (See Parno v SC Marine Pte Ltd [1999] 4 SLR 579 at [45] and [46].) 
+ (See Parno v SC Marine Pte Ltd <span class="citation">[1999] 4 SLR 579</span> at [45] and [46].) 
 
 There was no breach of the duty to provide a safe system of work, due to the stringent safety checks that were put in place by the second defendant. 
 

@@ -93,7 +93,7 @@ _The Frank Pais_
 
 _The Jian He_ 
 
-[2000] 1 SLR 8 (folld) 
+<span class="citation">[2000] 1 SLR 8</span> (folld) 
 
 _The Vishva Prabha_ 
 
@@ -173,7 +173,7 @@ As the appellants principal place of business was and is in Vietnam, they conten
 
  (iv) for political, racial, religious or other reasons be unlikely to get a fair trial." 
 
-11\. It was in relation to factor (d) that the question, whether there was a genuine dispute between the parties, became crucial. It would be difficult for a party to contend that he seriously desires trial in the contractual forum if he was unable to show that there was a real dispute, or putting it another way, that he had a real defence to the claim. In the recent decision of this Court in _The Jian He_ [2000] 1 SLR 8, we reviewed the cases where the courts had refused a stay on the ground that there was no real dispute. There is clearly jurisdiction on the part of the court to make this determination. 
+11\. It was in relation to factor (d) that the question, whether there was a genuine dispute between the parties, became crucial. It would be difficult for a party to contend that he seriously desires trial in the contractual forum if he was unable to show that there was a real dispute, or putting it another way, that he had a real defence to the claim. In the recent decision of this Court in _The Jian He_ <span class="citation">[2000] 1 SLR 8</span>, we reviewed the cases where the courts had refused a stay on the ground that there was no real dispute. There is clearly jurisdiction on the part of the court to make this determination. 
 
 12\. We will now examine the basis upon which the appellants contended that there was a dispute. Counsel for the appellants conceded that the burden was on them. Their point was that notwithstanding the "blank" endorsement, the respondents were not the persons entitled to receive the cargo and thus sue for the loss. For this they relied upon the legal opinion of a Vietnamese Attorney-at-Law, Mr Tran Quang Cuong (Mr Cuong). The basis upon which Mr Cuong arrived at his conclusion was article 84(b) of the Maritime Code of Vietnam, which reads 
 

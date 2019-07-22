@@ -68,7 +68,7 @@ under the other two grounds. Being dissatisfied with Tan J’s decision, the app
 
  [W]here the court is satisfied that there is some other available forum, having competent jurisdiction, which is the appropriate forum for the trial of the action, [ ie ,] in which the case may be tried more suitably for the interests of all the parties and the ends of justice. 
 
-15     The doctrine as expounded in _Spiliada_ has been accepted and applied by this court in several cases, _eg_ , _Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia_ [1992] 2 SLR 776, _Eng Liat Kiang v Eng Bak Hern_ [1995] 3 SLR 97, _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ [1998] 1 SLR 253 and _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Ltd_ [2001] 2 SLR 49 (“ _Hutan Domas_ ”). 
+15     The doctrine as expounded in _Spiliada_ has been accepted and applied by this court in several cases, _eg_ , _Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia_ <span class="citation">[1992] 2 SLR 776</span>, _Eng Liat Kiang v Eng Bak Hern_ <span class="citation">[1995] 3 SLR 97</span>, _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ <span class="citation">[1998] 1 SLR 253</span> and _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Ltd_ <span class="citation">[2001] 2 SLR 49</span> (“ _Hutan Domas_ ”). 
 
 16     In _Hutan Domas_ , this court summarized the procedure which the court should adopt on considering such an application at [16]: 
 
@@ -98,7 +98,7 @@ thereafter sued in New York. In England, such a labour dispute would have to be 
 
 **No defence** 
 
-25     We now move to consider the appellant’s other main argument, which involved several subpoints. The first point was that the court should not have ordered a stay as the respondent would not have any defence to the appellant’s claim. The appellant averred that what remained to be decided was only the question of quantum of damages. In making this argument, the appellant relied on a number of cases involving foreign jurisdiction clauses where this court had refused a stay where the defendant has no defence to the claim _eg_ , _The Jian He_ [2000] 1 SLR 8; _The Hung Vuong-_ [2001] 3 SLR 146; _The Hyundai Fortune_ [2004] 4 SLR 548. The appellant submitted that where an application for a stay was made on the ground of _forum non conveniens_ , the court should more readily refuse a stay. 
+25     We now move to consider the appellant’s other main argument, which involved several subpoints. The first point was that the court should not have ordered a stay as the respondent would not have any defence to the appellant’s claim. The appellant averred that what remained to be decided was only the question of quantum of damages. In making this argument, the appellant relied on a number of cases involving foreign jurisdiction clauses where this court had refused a stay where the defendant has no defence to the claim _eg_ , _The Jian He_ <span class="citation">[2000] 1 SLR 8</span>; _The Hung Vuong-_ <span class="citation">[2001] 3 SLR 146</span>; _The Hyundai Fortune_ <span class="citation">[2004] 4 SLR 548</span>. The appellant submitted that where an application for a stay was made on the ground of _forum non conveniens_ , the court should more readily refuse a stay. 
 
 26     It is settled law that where a party seeks to bring an action in our courts in breach of an exclusive jurisdiction clause, he must show “strong cause” why the court should exercise its discretion in his favour and assist him in breaching his promise to bring the action in the contractual forum: see _Amerco Timbers Pte Ltd v Chatsworth Timber Corp Pte Ltd_ [1975–1977] SLR 258 (“ _Amerco Timbers_ ”). What is “strong cause” and what are the circumstances the courts would take into account were set out in _The El Amria_ [1981] 2 Lloyd’s Rep 119 at 123–124, and adopted by this court and stated in _Amerco Timbers_ at [11] as follows: 
 
@@ -178,7 +178,7 @@ It did not appear to us that Marceau J was there considering a case where the co
 
  Their Lordships do not believe that there is anything to the advantage of the law’s development in searching for a liability in tort where the parties are in a contractual relationship. 
 
-Equally germane are the comments to the same effect of this court in _The Jian He_ [2000] 1 SLR 8 at [25]–[27]. 
+Equally germane are the comments to the same effect of this court in _The Jian He_ <span class="citation">[2000] 1 SLR 8</span> at [25]–[27]. 
 
 **The respondent is not a party to the POEA contract** 
 

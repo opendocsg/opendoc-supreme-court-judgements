@@ -70,7 +70,7 @@ should be overturned and a nominal maintenance be awarded instead [note: 4] ). J
 
  If any person neglects or refuses to maintain his legitimate or illegitimate child unable to maintain itself, a District Court or Magistrate’s Court on due proof thereof may order such person to make a monthly allowance for the maintenance of such child in proportion to his means as to the court seems reasonable. 
 
-9       It is clear from a reading of these two provisions that a person who is the father of an illegitimate child has a duty to maintain it. That duty is now laid down in s 68. While “person” has been changed to “parent”, the duty remains; the parent of an illegitimate child has the duty to maintain it. The Court of Appeal has affirmed in _AAG_ v _Estate of AAH, deceased_ [2010] 1 SLR 769 at [28] that a legal duty to maintain an illegitimate child is imposed on the natural parents by s 68. 
+9       It is clear from a reading of these two provisions that a person who is the father of an illegitimate child has a duty to maintain it. That duty is now laid down in s 68. While “person” has been changed to “parent”, the duty remains; the parent of an illegitimate child has the duty to maintain it. The Court of Appeal has affirmed in _AAG_ v _Estate of AAH, deceased_ <span class="citation">[2010] 1 SLR 769</span> at [28] that a legal duty to maintain an illegitimate child is imposed on the natural parents by s 68. 
 
 10     The Respondent is correct in his submission that the legitimacy or illegitimacy of a child can lead to different legal consequences, as the law takes legitimacy/illegitimacy into account when it deals with the consent for a minor to marry, acquisition of citizenship and intestate inheritance. That is reasonable and unexceptional because these are quite different matters in which different policy considerations come into play. Section 68 must be read in its context and construed on its own, and the Respondent has failed to do that. 
 
@@ -136,11 +136,11 @@ consideration. Section 69(4) makes reference to financial capacity. Sub-section 
 
 20     Two aspects of the District Judge’s decision require a closer look. The first is her taking the parties’ salaries as their financial capacity, which I have referred to in the previous paragraph, and the second is her setting the parties contributions to the child’s support in accordance to the proportion of their respective salaries. The District Judge did not explain why the relative incomes of the parents are used to determine their contributions to the child’s maintenance. 
 
-21     The apportionment of contributions between parents has been dealt with in several cases. In _BNH v BNI_ [2013] SGHC 283 ( _“BNH v BNI”_ ) where the parents were a married couple where the husband earned more than the wife, George Wei JC held at [37]: 
+21     The apportionment of contributions between parents has been dealt with in several cases. In _BNH v BNI_ <span class="citation">[2013] SGHC 283</span> ( _“BNH v BNI”_ ) where the parents were a married couple where the husband earned more than the wife, George Wei JC held at [37]: 
 
  ... Although the Husband earns more than the Wife, given my comments that marriage is an equal partnership between the parties, I am of the view that the cost of maintenance should be equally borne by both parties. ... 
 
-22     The statement in _BNH v BNI_ was brought to the attention of Choo Han Teck J in _AKC v AKD_ [2014] 3 SLR 1374 (“ _AKC v AKD”_ ) who stated at [10]: 
+22     The statement in _BNH v BNI_ was brought to the attention of Choo Han Teck J in _AKC v AKD_ <span class="citation">[2014] 3 SLR 1374</span> (“ _AKC v AKD”_ ) who stated at [10]: 
 
  ... I am of the view that the statement should be read in context ... there should not be a rigid rule to the effect that costs of maintenance of children should be equally borne by both parties. This goes against the express wording of s 69(4) of the Women’s Charter which mandates that the entirety of the circumstances have to be taken into account in assessing reasonable maintenance. 
 
@@ -151,7 +151,7 @@ In this case, Choo J noted that the husband earned significantly less than the w
 24     There is only one case that I know of which explained the use comparative financial capacities 
 
 
-of the parents in the apportionment of contributions. In _XB v XC_ [2008] SGDC 144 ( _“XB v XC”_ ) another District Judge stated: 
+of the parents in the apportionment of contributions. In _XB v XC_ <span class="citation">[2008] SGDC 144</span> ( _“XB v XC”_ ) another District Judge stated: 
 
  33 It is true that parents have equal responsibility under the law over the children, in that the law does not place responsibility for financial provision solely on the shoulders of the father. In that regard, the law does not also prescribe that childrearing is to lie within the province of the mother, notwithstanding the dictates of certain cultural norms. Furthermore, parental responsibility should be equal in that either party should be willing, able and ready to play any parenting role unless one is incapacitated for whatever reason. If one party were thus incapacitated, the other parent should be willing, able and ready to take on the responsibility hitherto held by the incapacitated parent. 
 

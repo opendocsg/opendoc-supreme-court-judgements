@@ -89,7 +89,7 @@ caning, as set out in para 2.
 
 **First offender** 
 
-14     Counsel for the appellant stressed tirelessly before me that the appellant was a ‘first offender’ as the appellant had no antecedents at the time of his conviction. In _PP v Boon Kiah Kin_ [1993] 3 SLR 639, I stated that 
+14     Counsel for the appellant stressed tirelessly before me that the appellant was a ‘first offender’ as the appellant had no antecedents at the time of his conviction. In _PP v Boon Kiah Kin_ <span class="citation">[1993] 3 SLR 639</span>, I stated that 
 
  [A] person who commits but one offence is presumptively less deserving of severity than a person who 
 
@@ -98,7 +98,7 @@ caning, as set out in para 2.
 
 15     The appellant could not be regarded as a ‘first offender’ in any sense of the phrase. While he had no antecedents in the sense of prior convictions, he had pleaded guilty to seven charges of robbery with common intention, robbery with hurt with common intention and voluntarily causing hurt by means of a dangerous weapon. Further, no less than 38 other charges were taken into consideration for the purpose of sentencing – these comprised 32 charges for offences of robbery with common intention and six charges for offences of robbery with hurt with common intention. The only reason the appellant had no prior convictions was because the law had not yet caught up with him for his past misdeeds. 
 
-16     I was mindful that in _PP v Keh See Hua_ [1994] 2 SLR 277, I regarded the appellant in that case as being a ‘first time offender’ even though he faced 19 charges of employing foreign workers without obtaining valid work permits under the Foreign Workers Act (Cap 91A). However, the particular words of s 5(8) of the Foreign Workers Act were such that the court had no choice but to treat that appellant as a first time offender as the 19 charges had been brought against that appellant in a single trial. Section 5(8) provides that: 
+16     I was mindful that in _PP v Keh See Hua_ <span class="citation">[1994] 2 SLR 277</span>, I regarded the appellant in that case as being a ‘first time offender’ even though he faced 19 charges of employing foreign workers without obtaining valid work permits under the Foreign Workers Act (Cap 91A). However, the particular words of s 5(8) of the Foreign Workers Act were such that the court had no choice but to treat that appellant as a first time offender as the 19 charges had been brought against that appellant in a single trial. Section 5(8) provides that: 
 
  For the purpose of this section, all convictions for the contravention of subsection (1) entered against an employer at one and the same trial shall be deemed to be one conviction. 
 
@@ -110,16 +110,16 @@ caning, as set out in para 2.
 
 19     While the voluntary surrender by an offender and a plea of guilt by him in court are factors that can be taken into account in mitigation as evidence of remorse, their relevance and the weight to be placed on them must depend on the circumstances of the case: _Wong Kai Chuen Philip v PP_ [1990] SLR 1011. I see very little mitigating value in a robber pleading guilty after he has been turned over to the police; in this case, the game was up for the appellant as his father had handed him over to the police. 
 
-20     Further, there is always the public interest element to be considered. The Court of Appeal has clearly established in _Fu Foo Tong and Ors v PP_ [1995] 1 SLR 448 that the protection of the public is an important exception to the general rule that an offender who pleads guilty is entitled to a discount of the sentence which would have been imposed on him had he claimed trial and been found guilty. The following passage from Lord Lane’s judgment in _R v Costen_ (1989) 11 Cr App R (S) 182 
+20     Further, there is always the public interest element to be considered. The Court of Appeal has clearly established in _Fu Foo Tong and Ors v PP_ <span class="citation">[1995] 1 SLR 448</span> that the protection of the public is an important exception to the general rule that an offender who pleads guilty is entitled to a discount of the sentence which would have been imposed on him had he claimed trial and been found guilty. The following passage from Lord Lane’s judgment in _R v Costen_ (1989) 11 Cr App R (S) 182 
 
 
 was quoted approvingly by the Court of Appeal in _Fu Foo Tong_ and bears repeating here: 
 
  But there are certain exceptions, likewise well authenticated in the authorities, to that general rule that discount will be allowed for a plea of guilty. The first and most important exception is the protection of the public. Where it is necessary that a long sentence, if necessary the maximum sentence, should be passed in order to protect the public, in those circumstances a plea of guilty may not result in any discount. 
 
-21     It was my view that a long sentence was necessary to protect the public in this case. The appellant was clearly of a violent disposition and had no qualms about venting his frustrations in public in a violent manner at the slightest perceived provocation. The appellant targeted vulnerable victims to rob. As the court noted in _Lim Kim Seng v PP_ [1992] 1 SLR 743, the court must provide protection for persons regarded as easy targets and a deterrent element must be seen in the sentence imposed. I felt that the circumstances were such that any mitigating effect afforded by the guilty plea was entirely outweighed by the clear need for a deterrent sentence and the aggravating factors in this case. 
+21     It was my view that a long sentence was necessary to protect the public in this case. The appellant was clearly of a violent disposition and had no qualms about venting his frustrations in public in a violent manner at the slightest perceived provocation. The appellant targeted vulnerable victims to rob. As the court noted in _Lim Kim Seng v PP_ <span class="citation">[1992] 1 SLR 743</span>, the court must provide protection for persons regarded as easy targets and a deterrent element must be seen in the sentence imposed. I felt that the circumstances were such that any mitigating effect afforded by the guilty plea was entirely outweighed by the clear need for a deterrent sentence and the aggravating factors in this case. 
 
-22     There is a common practice for defence counsel in their mitigation pleas for lighter sentences to state glibly that their clients are remorseful. In view of this, I should add that remorse is only a mitigating factor where there is evidence of genuine compunction or remorse on the part of the offender. In _Soong Hee Sin v PP_ [2001] 2 SLR 253, I noted that restitution made voluntarily before the commencement of criminal proceedings or in its earliest stages carries a higher mitigating value for it shows that the offender is genuinely sorry for his mistake. I also observed that 
+22     There is a common practice for defence counsel in their mitigation pleas for lighter sentences to state glibly that their clients are remorseful. In view of this, I should add that remorse is only a mitigating factor where there is evidence of genuine compunction or remorse on the part of the offender. In _Soong Hee Sin v PP_ <span class="citation">[2001] 2 SLR 253</span>, I noted that restitution made voluntarily before the commencement of criminal proceedings or in its earliest stages carries a higher mitigating value for it shows that the offender is genuinely sorry for his mistake. I also observed that 
 
  On the other hand, where the sole motive for restitution is the hope or expectation of obtaining a lighter punishment, then the fact of restitution must be of little mitigating value...In my view, restitution as a mitigating factor is of decisive significance only when it is made voluntarily for only then would be a display of true moral conscience on the part of the accused...the best test of that genuine moral conscience occurs precisely when an accused is unrepresented for only then can the judge be absolutely certain that any restitution made was truly the result of unadulterated remorse on his part, rather than the contrived action of one previously advised on the law. 
 
@@ -129,7 +129,7 @@ was quoted approvingly by the Court of Appeal in _Fu Foo Tong_ and bears repeati
 
 24     Counsel for the appellant referred me to the FSC report which said that in the opinion of the volunteer counsellor, the appellant had potential to rehabilitate and ‘become a useful person’. 
 
-25     Counsel also cited the case of _PP v Mok Ping Wuen Maurice_ [1999] 1 SLR 138, where I said: 
+25     Counsel also cited the case of _PP v Mok Ping Wuen Maurice_ <span class="citation">[1999] 1 SLR 138</span>, where I said: 
 
  Rehabilitation is the dominant consideration where the offender is 21 years and below. Young offenders are in their formative years and chances of reforming them into law-abiding adults are better. The corrupt influence of a prison environment and the bad effects of labelling and stigmatisation 
 
@@ -142,11 +142,11 @@ was quoted approvingly by the Court of Appeal in _Fu Foo Tong_ and bears repeati
 
 **Whether the sentence was manifestly excessive or crushing** 
 
-28     Counsel for the appellant submitted that the total sentence of nine years and six months and 24 strokes was manifestly excessive given the circumstances of the case. The sentencing court, in exercising its discretion to impose consecutive sentences, must have regard to the one transaction rule and the totality principle: _Kanagasuntharam v PP_ [1992] 1 SLR 81. 
+28     Counsel for the appellant submitted that the total sentence of nine years and six months and 24 strokes was manifestly excessive given the circumstances of the case. The sentencing court, in exercising its discretion to impose consecutive sentences, must have regard to the one transaction rule and the totality principle: _Kanagasuntharam v PP_ <span class="citation">[1992] 1 SLR 81</span>. 
 
 29     The totality principle has two limbs. As I observed in _Kanagasuntharam v PP_ , a cumulative sentence may offend the totality principle if the aggregate sentence is substantially above the normal level of sentences for the most serious of the individual offences involved, or if its effect is to impose on the offender a ‘crushing sentence’ not in keeping with his records and prospects. 
 
-30     In _Maideen Pillai v PP_ [1996] 1 SLR 161, I elaborated on the notion of a ‘crushing sentence’ in the following terms: 
+30     In _Maideen Pillai v PP_ <span class="citation">[1996] 1 SLR 161</span>, I elaborated on the notion of a ‘crushing sentence’ in the following terms: 
 
  [T]he sentencing court will bear in mind at all times the second limb of the totality principle, that is, the need to avoid an aggregate sentence so harsh as to be ‘crushing’ in its effect on the offender. Where consecutive sentences are imposed on an offender, the overall punishment should be in proportion to the overall gravity of his criminal conduct, taking into account the circumstances in which he offended and also the pattern of his previous behaviour. [Emphasis added] 
 

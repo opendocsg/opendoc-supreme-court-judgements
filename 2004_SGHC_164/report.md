@@ -26,7 +26,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Whether deterrent sent
 
 2       It must be clearly understood by those who initiate, contribute or react to such staring incidents that they will find the law in turn “staring” back at them indignantly. Almost invariably, deterrent sentences ought to be meted out in response to such conduct. As in instances of “road rage” there are strong public interest considerations in castigating and discouraging such “face rage”. 
 
-3       In _PP v Lee Seck Hing_ [1992] 2 SLR 745 at 748, [11], a “road rage” case, it was emphatically stated by Yong Pung How CJ: 
+3       In _PP v Lee Seck Hing_ <span class="citation">[1992] 2 SLR 745</span> at 748, [11], a “road rage” case, it was emphatically stated by Yong Pung How CJ: 
 
  Violent crimes are one of the curses of our society against which it is the primary duty of the courts to protect the public. This is especially so on a small island like Singapore , where citizens live in close proximity to each other: our daily lives are unavoidably intertwined to some extent, making the preservation of order and harmony all the more important. [emphasis added] 
 
@@ -68,11 +68,11 @@ his passport, he hurriedly left the flat. Fearing that the police were on their 
 
 **Sentencing considerations** 
 
-18     It is trite law that sentences normally reflect the classical principles of retribution, rehabilitation, deterrence and prevention: _PP v Tan Fook Sum_ [1999] 2 SLR 523 at [14]–[19]. These principles are to be evaluated against the backdrop of public interest and policy. Needless to say, the importance of each of these considerations will vary from case to case. Different facts merit different emphasis as these principles do not invariably complement each other. 
+18     It is trite law that sentences normally reflect the classical principles of retribution, rehabilitation, deterrence and prevention: _PP v Tan Fook Sum_ <span class="citation">[1999] 2 SLR 523</span> at [14]–[19]. These principles are to be evaluated against the backdrop of public interest and policy. Needless to say, the importance of each of these considerations will vary from case to case. Different facts merit different emphasis as these principles do not invariably complement each other. 
 
 19     In so far as deterrence is relevant it may be specifically focused on the offender and or generally serve to signify to the community at large that particular actions are offensive and violently conflict with acceptable norms of civil behaviour and good order. Culprits who resort to violent “selfhelp” to settle scores, real or otherwise, must be prepared to face deterrent sentences in view of the public interest in the prevention of such incidents. 
 
-20     The Prosecution drew my attention to the Court of Appeal decision in _PP v Tan Kei Loon Allan_ [1999] 2 SLR 288 (“ _Allan Tan_ ’s case”). In that case, the accused fatally stabbed the deceased in a secret society gang fight incident in front of Dhoby Ghaut MRT station. The Prosecution relies on the case to fortify its quest for a deterrent sentence, _inter alia_ , for the reason the attack took place in a public place. The Court of Appeal observed at [42]: 
+20     The Prosecution drew my attention to the Court of Appeal decision in _PP v Tan Kei Loon Allan_ <span class="citation">[1999] 2 SLR 288</span> (“ _Allan Tan_ ’s case”). In that case, the accused fatally stabbed the deceased in a secret society gang fight incident in front of Dhoby Ghaut MRT station. The Prosecution relies on the case to fortify its quest for a deterrent sentence, _inter alia_ , for the reason the attack took place in a public place. The Court of Appeal observed at [42]: 
 
  Though the reason why the respondent assaulted the deceased is readily understood, it is not readily justified. The assault was committed, even if on a rival gang member, on a harmless one. It was an assault with a dangerous weapon in a public place. The victim was grossly outnumbered. [emphasis added] 
 

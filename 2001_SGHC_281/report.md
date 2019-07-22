@@ -136,7 +136,7 @@ In **_The Spiliada_** the House of Lords was primarily concerned with issues rel
 
  (f) if there is another forum which prima facie is clearly more appropriate the court will ordinarily grant a stay unless there are circumstances by reason of which justice requires that a stay should not be granted, and, in this inquiry the court will consider all the circumstances of the case. But the mere fact that the plaintiff has a legitimate, personal or juridical advantage in proceeding in England is not decisive; regard must be had to the interests of all the parties and the ends of justice. 
 
-The principles stated in **_The Spiliada_** (supra) have been approved and consistently applied in our jurisdiction (see **Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia** [1992] 2 SLR 776 and **Oriental Insurance Co v Bhavani Stores** [1998] 1 SLR 253 ). 
+The principles stated in **_The Spiliada_** (supra) have been approved and consistently applied in our jurisdiction (see **Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia** <span class="citation">[1992] 2 SLR 776</span> and **Oriental Insurance Co v Bhavani Stores** <span class="citation">[1998] 1 SLR 253</span> ). 
 
 In **_Oriental Insurance Co v Bhavani Stores_** (supra) it was held: 
 
@@ -145,7 +145,7 @@ In **_Oriental Insurance Co v Bhavani Stores_** (supra) it was held:
 
  would ordinarily grant a stay unless there were circumstances by reason of which justice required that a stay should nevertheless not be granted. However, the mere fact that a plaintiff had such a legitimate advantage for proceeding in Singapore was not decisive and the interests of all the parties and the ends of justice had to be taken into consideration. 
 
-Earlier, in **The Vishva Apurva** [1992] 2 SLR 175 , the Singapore Court of Appeal held that: 
+Earlier, in **The Vishva Apurva** <span class="citation">[1992] 2 SLR 175</span> , the Singapore Court of Appeal held that: 
 
  In exercising its discretion, the court should take into account all the circumstances of the case, in particular, the country where the evidence is most readily available, whether the foreign law applies and whether it is different from the local law in any material aspects, which country the parties are connected with, and how closely, whether the defendants genuinely desire trial in the foreign country or are only seeking procedural advantages, and whether the plaintiffs would be prejudiced by having to sue in the foreign court. 
 

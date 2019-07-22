@@ -126,7 +126,7 @@ sold for $37,440 but the rentals paid by the Company to Aim Top eventually amoun
 
  [emphasis added] 
 
-30     The c urrent position the c ourts are inc lined to adopt with regards to the definition of insolvenc y is enunc iated in the c ase of _Chip Thye Enterprises Pte Ltd (in liquidation) v Phay Gi Mo & Ors_ [2004] 1 SLR(R) 434 (“ _Chip Thye”_ ). In _Chip Thye_ , the suit was c ommenc ed by the liquidator against the 
+30     The c urrent position the c ourts are inc lined to adopt with regards to the definition of insolvenc y is enunc iated in the c ase of _Chip Thye Enterprises Pte Ltd (in liquidation) v Phay Gi Mo & Ors_ <span class="citation">[2004] 1 SLR(R) 434</span> (“ _Chip Thye”_ ). In _Chip Thye_ , the suit was c ommenc ed by the liquidator against the 
 
 
 direc tors of the c ompany whic h was a family-owned c ompany engaged in the building c onstruc tion business. Belinda Ang J held that one ought not to look for a single appropriate test for insolvenc y: 
@@ -143,7 +143,7 @@ direc tors of the c ompany whic h was a family-owned c ompany engaged in the bui
 
 33     Despite the fac t that no one single test is c onc lusive as a measure of solvenc y, it is c ommonly ac c epted that the two primary indic ia of a c ompany’s inability to pay debts are the c ash flow test and the balanc e sheet test. For most purposes, it is the present inability to pay debts that is the c ruc ial fac tor. 
 
-34     It is important to bear in mind, however, that the determination of whether a c ompany is insolvent is essentially a question of fac t. This c an be seen from _Tong Tien See Construction Pte Ltd (in liquidation) v Tong Tien See & Ors_ [2002] 3 SLR 76, where Tay Yong Kwang JC (as he then was) held: 
+34     It is important to bear in mind, however, that the determination of whether a c ompany is insolvent is essentially a question of fac t. This c an be seen from _Tong Tien See Construction Pte Ltd (in liquidation) v Tong Tien See & Ors_ <span class="citation">[2002] 3 SLR 76</span>, where Tay Yong Kwang JC (as he then was) held: 
 
  A c ompany is insolvent or unable to pay its debts when it is unable to meet c urrent demands, irrespec tive of whether the c ompany is possessed of assets whic h, if realised, would enable it to disc harge its liabilities in full. Insolvenc y in this c ommerc ial sense is princ ipally a question of fac t whic h may be established in a number of ways. However, proof that a c reditor’s debt has not been paid per se does not establish an inability to pay debts within the meaning of s 254(2)(c ) of the Companies Ac t (Cap 50, 1994 Ed). A temporary lac k of liquidity does [ sic ] not tantamount to insolvenc y. 
 
@@ -179,7 +179,7 @@ direc tors of the c ompany whic h was a family-owned c ompany engaged in the bui
 
  of liability, for all or any of the debts or other liabilities of the c ompany as the Court direc ts. 
 
-42     It was said at first instanc e in _Tang Yoke Kheng v Lek Benedict_ [2004] 4 SLR(R) 788 (“ _Tang Yoke Kheng_ ”), at [12] that in order to suc c eed under this sec tion, the plaintiff would have to prove two elements, namely: 
+42     It was said at first instanc e in _Tang Yoke Kheng v Lek Benedict_ <span class="citation">[2004] 4 SLR(R) 788</span> (“ _Tang Yoke Kheng_ ”), at [12] that in order to suc c eed under this sec tion, the plaintiff would have to prove two elements, namely: 
 
  (a) that the business of the c ompany has been c arried on with intent to defraud the c reditors of the c ompany or of any other person or for any fraudulent purpose; and 
 
@@ -187,7 +187,7 @@ direc tors of the c ompany whic h was a family-owned c ompany engaged in the bui
 
 In addition, “defraud” and “fraudulent purpose” c onnote “ac tual dishonesty involving, ac c ording to c urrent notions of fair trading among c ommerc ial men, real moral blame” (see _In re Patrick and Lyon, Limited_ [1933] Ch 786 at 790). 
 
-43     When the c ase went on appeal ( _Tang Yoke Kheng v Lek Benedict_ [2005] 3 SLR(R) 263), the Court of Appeal held: 
+43     When the c ase went on appeal ( _Tang Yoke Kheng v Lek Benedict_ <span class="citation">[2005] 3 SLR(R) 263</span>), the Court of Appeal held: 
 
  In the c ontext of an allegation of fraud, the objec tive standard of what an honest person would have done in the c irc umstanc es c ould be a useful devic e to test the honest intention of the person c onc erned against all the other evidenc e available, inc luding, and espec ially, the explanation by that person of his deviation from what an honest person would have done in his c irc umstanc es. However, to rely on the objec tive standard as the sole test would be exc eptional as it would require the c ourt to be c onvinc ed that the negative answer given in the fac tual c irc umstanc es was suffic iently indic ative of fraud to warrant a finding of fraud. 
 
@@ -195,7 +195,7 @@ In addition, “defraud” and “fraudulent purpose” c onnote “ac tual dish
 
 It is generally rec ognised, as enunc iated above, that in order to make a finding of fraud, the c ourt requires a greater degree of proof than it would when c oming to a finding on issues of fac t that do not involve fraud. 
 
-44     Additionally, in _Liquidator of Leong Seng Hin Piling Pte Ltd v Chan Ah Lek and others_ [2007] 2 SLR(R) 77, it was held that the standard of honesty was not measured ac c ording to some private standard of a defendant or the objec tive standard of the reasonable man, although it may serve as a guide in the assessment of whether the defendant was dishonest. Rather, the subjec tive intention of the defendant that he had ac ted in good faith c onstituted evidenc e whic h the c ourt evaluated and tested against the weight of other objec tive fac ts available inc luding, if required, the objec tive standard of the reasonable man. 
+44     Additionally, in _Liquidator of Leong Seng Hin Piling Pte Ltd v Chan Ah Lek and others_ <span class="citation">[2007] 2 SLR(R) 77</span>, it was held that the standard of honesty was not measured ac c ording to some private standard of a defendant or the objec tive standard of the reasonable man, although it may serve as a guide in the assessment of whether the defendant was dishonest. Rather, the subjec tive intention of the defendant that he had ac ted in good faith c onstituted evidenc e whic h the c ourt evaluated and tested against the weight of other objec tive fac ts available inc luding, if required, the objec tive standard of the reasonable man. 
 
 **_The law on unfair preference and undervalue transactions_** 
 
@@ -228,7 +228,7 @@ Further, an individual enters into a transac tion with a person at an undervalue
 
 Under s 100(3) of the Bankruptc y Ac t there is a presumption of suc h insolvenc y where, as between the parties to the transac tion, one is an assoc iate of the other. 
 
-48     Sec tion 101 of the Bankruptc y Ac t lays down the c riteria establishing when a person would be c onsidered to be an assoc iate of another person. More spec ific ally, s 101(2) states that a person is an assoc iate of an individual if he is the person’s spouse or relative. Regulation 3 of the Companies (Applic ation of Bankruptc y Ac t Provisions) Regulations (“CABAR”) provides that ss 98 103 of the Bankruptc y Ac t shall be read subjec t to “suc h textual and other modific ation as may be nec essary” for their applic ation to a c ompany being wound up. As suc h, when the situation relates to two c ompanies, the referenc e to ‘individual’ in the Bankruptc y Ac t must be read as referring to a c ompany as a nec essary modific ation c ontemplated by reg 3 (see: _Show Theatres Pte Ltd (in liquidation) v Shaw Theatres Pte Ltd_ [2002] 4 SLR 145). 
+48     Sec tion 101 of the Bankruptc y Ac t lays down the c riteria establishing when a person would be c onsidered to be an assoc iate of another person. More spec ific ally, s 101(2) states that a person is an assoc iate of an individual if he is the person’s spouse or relative. Regulation 3 of the Companies (Applic ation of Bankruptc y Ac t Provisions) Regulations (“CABAR”) provides that ss 98 103 of the Bankruptc y Ac t shall be read subjec t to “suc h textual and other modific ation as may be nec essary” for their applic ation to a c ompany being wound up. As suc h, when the situation relates to two c ompanies, the referenc e to ‘individual’ in the Bankruptc y Ac t must be read as referring to a c ompany as a nec essary modific ation c ontemplated by reg 3 (see: _Show Theatres Pte Ltd (in liquidation) v Shaw Theatres Pte Ltd_ <span class="citation">[2002] 4 SLR 145</span>). 
 
 
 49     It should be noted however, that where the c laim is that of an undervalue transac tion, the party alleging that the transac tion was at an undervalue has to prove this to the c ourt. It is settled law that he who asserts must prove and the burden of proof, on a balanc e of probabilities, of suc h undervalue rests with the liquidators who assert that the transac tion was effec ted at an undervalue. There is no presumption provision as to undervalue as there is as to insolvenc y. 
@@ -253,7 +253,7 @@ Under s 100(3) of the Bankruptc y Ac t there is a presumption of suc h insolvenc
 
  (5) An individual who has given an unfair preferenc e to a person who, at the time the unfair preferenc e was given, was an assoc iate of his (otherwise than by reason only of being his employee) shall be presumed, unless the c ontrary is shown, to have been influenc ed in dec iding to give it by suc h a desire as is mentioned in subsec tion (4). 
 
-51     The relevant period for an unfair preferenc e transac tion would be within two years of the presentation of the winding-up petition and it is for the assoc iate to rebut the presumption. It was also held in [35] of _Re Tiong Polestar Engineering Pte Ltd (formerly known as Polestar Engineering (S) Pte Ltd)_ [2003] 4 SLR(R) 1, that as long as there was an intention on the part of the c ompany to prefer the assoc iate, that would be suffic ient to c onstitute unfair preferenc e even if it was not the main intention of the c ompany. 
+51     The relevant period for an unfair preferenc e transac tion would be within two years of the presentation of the winding-up petition and it is for the assoc iate to rebut the presumption. It was also held in [35] of _Re Tiong Polestar Engineering Pte Ltd (formerly known as Polestar Engineering (S) Pte Ltd)_ <span class="citation">[2003] 4 SLR(R) 1</span>, that as long as there was an intention on the part of the c ompany to prefer the assoc iate, that would be suffic ient to c onstitute unfair preferenc e even if it was not the main intention of the c ompany. 
 
 **Was the Company insolvent on either or both of the specified dates?** 
 

@@ -148,7 +148,7 @@ _- Failure of the appellants to apply to judge for further arguments within seve
 
 ### , dismissing the motion: 
 
-### (1) The Court of Appeal in The Tokai Maru [1998] 3 SLR 105 had drawn a distinction between an 
+### (1) The Court of Appeal in The Tokai Maru <span class="citation">[1998] 3 SLR 105</span> had drawn a distinction between an 
 
 ### application for an extension of time to file a notice of appeal and an application to extend time in 
 
@@ -231,7 +231,7 @@ _- Failure of the appellants to apply to judge for further arguments within seve
 
 ### Aberdeen Asset Management Asia Ltd v Fraser & Neave Ltd 
 
-### [2001] 4 SLR 441 (refd) 
+### <span class="citation">[2001] 4 SLR 441</span> (refd) 
 
 ### Gatti v Shoosmith 
 
@@ -239,7 +239,7 @@ _- Failure of the appellants to apply to judge for further arguments within seve
 
 ### Nomura Regionalisation Venture Fund Ltd v Ethical Investments Ltd 
 
-### [2000] 4 SLR 46 (refd) 
+### <span class="citation">[2000] 4 SLR 46</span> (refd) 
 
 ### Palata Investments Ltd v Burt & Sinfield Ltd 
 
@@ -247,27 +247,27 @@ _- Failure of the appellants to apply to judge for further arguments within seve
 
 ### Pearson v Chen Chien Wen Edwin 
 
-### [1991] 1 SLR 212 (refd) 
+### <span class="citation">[1991] 1 SLR 212</span> (refd) 
 
 ### Seabridge Transport Pte Ltd v Olivine Electronics Pte Ltd 
 
-### [1995] 3 SLR 545 (refd) 
+### <span class="citation">[1995] 3 SLR 545</span> (refd) 
 
 ### Singapore Press Holdings v Brown Noel Trading 
 
-### [1994] 3 SLR 151 (refd) 
+### <span class="citation">[1994] 3 SLR 151</span> (refd) 
 
 ### Tan Chiang Brother’s Marble (S) Pte Ltd v Permasteelista Pacific Holdings Ltd 
 
-### [2002] 2 SLR 225 (refd) 
+### <span class="citation">[2002] 2 SLR 225</span> (refd) 
 
 ### The Tokai Maru 
 
-### [1998] 3 SLR 105 (folld) 
+### <span class="citation">[1998] 3 SLR 105</span> (folld) 
 
 ### Thomson Plaza Pte ltd v The Liquidators of Yaohan Department Store Pte Ltd 
 
-### [2001] 3 SLR 248 (refd) 
+### <span class="citation">[2001] 3 SLR 248</span> (refd) 
 
 ### Legislation referred to 
 
@@ -298,7 +298,7 @@ _[Delivered by Chao Hick Tin JA]_
 
 3       Denko w as the defendant in an action, Suit No. 1241/2001, brought by Fagerdala Singapore Pte Ltd (Fagerdala) for money due on goods sold. Denko applied to have the action stayed on the ground of _forum non conveniens_. The Senior Assistant Registrar (SAR) granted the application and ordered a stay. Fagerdala appealed against that order to the High Court. On 19 February 2002, Lai Siu Chiu J, sitting in chambers, allow ed the appeal and reversed the order of the SAR. The effect of this decision w as that there w ould be no stay of proceedings. 
 
-4       It w as not in dispute that the decision of 19 February 2002 w as an interlocutory order and that under s 34(1)(c), if Denko w ished to appeal, it must first apply for further arguments to the judge w ithin seven days of the order. Pursuant to O 56 r 2, if the judge certified that he did not w ish to hear further arguments, or if he failed to notify the party of his intention w ithin 14 days, he w ould be deemed not to require further arguments and the party could proceed to file his notice of appeal. But if the judge should certify that he w ished to hear further arguments then the order already made w ould be suspended and the judge at the further hearing could make such order as he thought fit: see _Singapore Press Holdings v Brown Noel Trading_ [1994] 3 SLR 151 and _Thomson Plaza Pte Ltd v The Liquidators of Yaohan Department Store Pte Ltd_ [2001] 3 SLR 248. 
+4       It w as not in dispute that the decision of 19 February 2002 w as an interlocutory order and that under s 34(1)(c), if Denko w ished to appeal, it must first apply for further arguments to the judge w ithin seven days of the order. Pursuant to O 56 r 2, if the judge certified that he did not w ish to hear further arguments, or if he failed to notify the party of his intention w ithin 14 days, he w ould be deemed not to require further arguments and the party could proceed to file his notice of appeal. But if the judge should certify that he w ished to hear further arguments then the order already made w ould be suspended and the judge at the further hearing could make such order as he thought fit: see _Singapore Press Holdings v Brown Noel Trading_ <span class="citation">[1994] 3 SLR 151</span> and _Thomson Plaza Pte Ltd v The Liquidators of Yaohan Department Store Pte Ltd_ <span class="citation">[2001] 3 SLR 248</span>. 
 
 5       In the present case, the solicitor for Denko overlooked the requirement of s 34(1)(c) and did not apply for further arguments w ithin the prescribed time. On 11 March 2002 his client instructed him to appeal and only then did he realise that he had failed to comply w ith s 34(1)(c). So on 12 March 2002, Denko’s solicitor applied for further arguments. Fagerdala objected to the application by w ay of a letter dated 14 March 
 
@@ -310,12 +310,12 @@ _[Delivered by Chao Hick Tin JA]_
 
 **Extension of time** 
 
-8       This Court has in numerous cases in the past set out the factors w hich should guide the court in determining w hether to grant an extension of time to enable a party to file and/or to serve a notice of appeal out of time: e.g., _Pearson v Chen Chien Wen Edwin_ [1991] 1 SLR 212; _Nomura Regionalisation Venture_ 
+8       This Court has in numerous cases in the past set out the factors w hich should guide the court in determining w hether to grant an extension of time to enable a party to file and/or to serve a notice of appeal out of time: e.g., _Pearson v Chen Chien Wen Edwin_ <span class="citation">[1991] 1 SLR 212</span>; _Nomura Regionalisation Venture_ 
 
 
-_Fund Ltd v Ethical Investments Ltd_ [2000] 4 SLR 46; _Aberdeen Asset Management Asia Ltd v Fraser & Neave Ltd_ [2001] 4 SLR 441. Obviously, this application by Denko w as not strictly an application to extend time to file and serve a notice of appeal. It w as in relation to a step that w as needed to be taken before an appeal could be lodged. So the question is: should the factors w hich are applicable to an extension of time to file and/or serve a notice of appeal also apply here? 
+_Fund Ltd v Ethical Investments Ltd_ <span class="citation">[2000] 4 SLR 46</span>; _Aberdeen Asset Management Asia Ltd v Fraser & Neave Ltd_ <span class="citation">[2001] 4 SLR 441</span>. Obviously, this application by Denko w as not strictly an application to extend time to file and serve a notice of appeal. It w as in relation to a step that w as needed to be taken before an appeal could be lodged. So the question is: should the factors w hich are applicable to an extension of time to file and/or serve a notice of appeal also apply here? 
 
-9       In this regard, the decision of this Court in _The Tokai Maru_ [1998] 3 SLR 105 is germane. The dispute there concerned late filing of affidavits of evidence-in-chief. The appellants applied to obtain retrospective extension of time for the late filing. The judge below held that as there w as no material before the court w hich satisfactorily explained the delay, he refused to give any extension and instead granted the respondent’s application to have the appellants’ defence struck out. On appeal, this Court ruled that a distinction should be draw n betw een an application for an extension of time to file a notice of appeal and an application to extend time in relation to other matters and that a less stringent approach should be adopted in relation to the latter kind of application. The Court declared the applicable principles to be as follow s (at 113-4):
+9       In this regard, the decision of this Court in _The Tokai Maru_ <span class="citation">[1998] 3 SLR 105</span> is germane. The dispute there concerned late filing of affidavits of evidence-in-chief. The appellants applied to obtain retrospective extension of time for the late filing. The judge below held that as there w as no material before the court w hich satisfactorily explained the delay, he refused to give any extension and instead granted the respondent’s application to have the appellants’ defence struck out. On appeal, this Court ruled that a distinction should be draw n betw een an application for an extension of time to file a notice of appeal and an application to extend time in relation to other matters and that a less stringent approach should be adopted in relation to the latter kind of application. The Court declared the applicable principles to be as follow s (at 113-4):
 
  "The rules of civil procedure guide the courts and litigants tow ards the just resolution of the case and should of course be adhered to. Nonetheless, a litigant should not be deprived of his opportunity to dispute the plaintiff’s claim and have a determination of the issues on the merits as a punishment for a breach of these rules unless the other party has been made to suffer prejudice w hich cannot be compensated for by an appropriate order as to costs. 
 
@@ -405,7 +405,7 @@ Court. It also seems to us that the effect of s 29A(3) is that the Court of Appe
 
 30     There may be a temptation to compare this application by Denko w ith an application for an extension of time to file a notice of appeal, w hich this Court often receives. Tw o factors differentiate the latter application from the former. First, the time limit to file a notice of appeal is not prescribed in the SCJA, but in the Rules of Court (the Rules). Second, the Rules specifically gives a pow er to the High Court as w ell as this Court to extend the time prescribed under the Rules: Order 3 r 4 and Order 57 r 17. Quite apart from the question w hether the Rules may modify w hat is laid dow n in s 34(1)(c), the Rules do not confer such a pow er or jurisdiction upon the Court of Appeal to enlarge the time prescribed by that provision. 
 
-31     But that is not to say that the same application may not come before the Court of Appeal by the more normal route. As w e have mentioned, a dissatisfied party, w ho is out of time, may apply to the judge to extend time (extension application) for that party to make the request for further arguments (s 18(2) read w ith ¶7 of the First Schedule). If the extension application is refused by the judge, that party can then appeal to the Court of Appeal. That should have been the approach w hich Denko should have taken. This appears to have been the approach adopted in _Seabridge Transport Pte Ltd v Olivine Electronics Pte Ltd_ [1995] 3 SLR 545 but w ith one difference. Instead of making the extension application direct to the judge, the appellant made it to the Assistant Registrar and having failed to obtain an extension from the Assistant Registrar, the appellant did not pursue it further. So there w as really no cause for this Court in that case to consider this procedural point. Similarly, there w as also no cause for this Court in that case to express any view w hether it had a separate jurisdiction to entertain an application to extend time prescribed in s 34(1) (c), other than by w ay of an appeal from a refusal to extend time by the court below. 
+31     But that is not to say that the same application may not come before the Court of Appeal by the more normal route. As w e have mentioned, a dissatisfied party, w ho is out of time, may apply to the judge to extend time (extension application) for that party to make the request for further arguments (s 18(2) read w ith ¶7 of the First Schedule). If the extension application is refused by the judge, that party can then appeal to the Court of Appeal. That should have been the approach w hich Denko should have taken. This appears to have been the approach adopted in _Seabridge Transport Pte Ltd v Olivine Electronics Pte Ltd_ <span class="citation">[1995] 3 SLR 545</span> but w ith one difference. Instead of making the extension application direct to the judge, the appellant made it to the Assistant Registrar and having failed to obtain an extension from the Assistant Registrar, the appellant did not pursue it further. So there w as really no cause for this Court in that case to consider this procedural point. Similarly, there w as also no cause for this Court in that case to express any view w hether it had a separate jurisdiction to entertain an application to extend time prescribed in s 34(1) (c), other than by w ay of an appeal from a refusal to extend time by the court below. 
 
 32     For the reasons w e have indicated, it is our opinion that this Court does not have an original jurisdiction to entertain an application to extend time prescribed in s 34(1)(c). Thus, the motion filed by Denko w as not in order. 
 

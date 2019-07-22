@@ -18,7 +18,7 @@ _Civil Procedure_
 
 _Conflict of Laws_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2011] 2 SLR 967.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2011] 2 SLR 967</span>.] 
 
 29 June 2011 
 
@@ -26,7 +26,7 @@ _Conflict of Laws_
 
 **Introduction** 
 
-1       This was an appeal against the decision of the High Court judge (“the Judge”) in _Her Majesty’s Revenue & Customs v Hashu Dhalomal Shahdadpuri and another_ [2011] 2 SLR 967 (“the GD”), in which he: 
+1       This was an appeal against the decision of the High Court judge (“the Judge”) in _Her Majesty’s Revenue & Customs v Hashu Dhalomal Shahdadpuri and another_ <span class="citation">[2011] 2 SLR 967</span> (“the GD”), in which he: 
 
  (a) struck out, pursuant to O 18 r 19 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) (“the Rules”) and the inherent jurisdiction of the court, the claim of the appellant, Her Majesty’s Revenue & Customs (“the Appellant”), against the respondents, Hashu Dhalomal Shahdadpuri and Notandas s/o Premchand Jamnadas Udasi @ Nari Premchand (referred to hereafter as, respectively, “the First Respondent” and “the Second Respondent”, and collectively as “the Respondents”); and 
 
@@ -141,7 +141,7 @@ At the conclusion of the hearing, we allowed the appeal. We now give our reasons
 17     The law on striking out a claim based on the above two grounds is well established. In the case 
 
 
-of striking out under O 18 r 19 of the Rules, it is done only in a plain and obvious case for striking out (see the GD at [36]–[38] and _Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co Ltd and another and another appeal_ [2009] 2 SLR(R) 814 at [171]–[173]). In the case of striking out pursuant to the inherent jurisdiction of the court, this court said in _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ [1997] 3 SLR(R) 649 at [22]: 
+of striking out under O 18 r 19 of the Rules, it is done only in a plain and obvious case for striking out (see the GD at [36]–[38] and _Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co Ltd and another and another appeal_ <span class="citation">[2009] 2 SLR(R) 814</span> at [171]–[173]). In the case of striking out pursuant to the inherent jurisdiction of the court, this court said in _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ <span class="citation">[1997] 3 SLR(R) 649</span> at [22]: 
 
  The term, “abuse of the process of the Court”, in O 18 r 19(1)( d ), has been given a wide interpretation by the courts. It includes considerations of public policy and the interests of justice. This term signifies that the process of the court must be used bona fide and properly and must not be abused. The court will prevent the improper use of its machinery. It will prevent the judicial process from being used as a means of vexation and oppression in the process of litigation. The categories of conduct rendering a claim frivolous, vexatious or an abuse of process are not closed and will depend on all the relevant circumstances of the case. A type of conduct which has been judicially acknowledged as an abuse of process is the bringing of an action for a collateral purpose ... In Lonrho plc v Fayed (No 5) [1993] 1 WLR 1489, Stuart-Smith LJ stated that, if an action was not brought bona fide for the purpose of obtaining relief but for some other ulterior or collateral purpose, it might be struck out as an abuse of the process of the court. [emphasis added] 
 

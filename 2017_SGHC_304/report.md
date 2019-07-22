@@ -16,7 +16,7 @@
 
 _Damages_ – _Assessment_ – _Personal injuries_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 162 of 2017 was allowed in part by the Court of Appeal on 5 November 2018. See [2018] SGCA 74.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 162 of 2017 was allowed in part by the Court of Appeal on 5 November 2018. See <span class="citation">[2018] SGCA 74</span>.] 
 
 24 November 2017 
 
@@ -71,7 +71,7 @@ I awarded the Plaintiff the agreed quantum for the heads of damages listed at An
 
  (j) Surgical scars. 
 
-6       As the injuries sustained were related to different parts of the bodies, I adopted the component approach and awarded separate amounts for each head of damage before totalling them (see _Seah Yit Chen v Singapore Bus Service (1978) Ltd and others_ [1990] 1 SLR(R) 490 at [5]). 
+6       As the injuries sustained were related to different parts of the bodies, I adopted the component approach and awarded separate amounts for each head of damage before totalling them (see _Seah Yit Chen v Singapore Bus Service (1978) Ltd and others_ <span class="citation">[1990] 1 SLR(R) 490</span> at [5]). 
 
 _Severe head injuries_ 
 
@@ -195,7 +195,7 @@ _Surgical scars_
 
  Dr Donald Yeo: Surprising that he’s willing to accept such a job given his current situation and his pervious ability and his training, he used to work as a carpenter and he’s got a fair amount of education. So for him to say, you know, to give up all that and, you know, work as a cleaner and, you know, stick to it... 
 
-_litigation representative Pang Choy Chun) v Yeo Chye Huat and another appeal_ [2017] 2 SLR 229 and pointed out the similarities between the two claimants—in that they both received a relatively low level of education and would likely be engaged in manual work. Second, the Defendant argued that “a manual worker would typically enjoy a shorter working life compared to a white collar worker in view of the physical demands made on a manual worker by the nature of his job”, citing _Neo Kim Seng v Clough Petrose Pte Ltd_ [1996] 2 SLR(R) 413. The Defendant also relied on the case of _Wee Sia Tian v Long Thik Boon_ [1996] 2 SLR(R) 420 (“ _Wee Sia Tian_ ”) in his submission that the Plaintiff’s entitlement to loss of future earnings ought to be based on a working age of up to only 60 years old for a carpenter. Third, the Defendant argued that the Plaintiff had been compensated for his loss of earnings up to his present age of 62 years old by way of pre-trial loss of earnings. 
+_litigation representative Pang Choy Chun) v Yeo Chye Huat and another appeal_ <span class="citation">[2017] 2 SLR 229</span> and pointed out the similarities between the two claimants—in that they both received a relatively low level of education and would likely be engaged in manual work. Second, the Defendant argued that “a manual worker would typically enjoy a shorter working life compared to a white collar worker in view of the physical demands made on a manual worker by the nature of his job”, citing _Neo Kim Seng v Clough Petrose Pte Ltd_ <span class="citation">[1996] 2 SLR(R) 413</span>. The Defendant also relied on the case of _Wee Sia Tian v Long Thik Boon_ <span class="citation">[1996] 2 SLR(R) 420</span> (“ _Wee Sia Tian_ ”) in his submission that the Plaintiff’s entitlement to loss of future earnings ought to be based on a working age of up to only 60 years old for a carpenter. Third, the Defendant argued that the Plaintiff had been compensated for his loss of earnings up to his present age of 62 years old by way of pre-trial loss of earnings. 
 
 34     In my view, the Plaintiff appeared to be a very resilient and independent man. He had suffered severe injuries but did his best to obtain the best recovery physically and psychologically. Although he could no longer work as a carpenter after the accident, a job that he held for the past 20 years, he tried re-entering the workforce as a coffee shop assistant and failing which, accepted his current job as a cleaner. In the words of Dr Donald Yeo: 
 
@@ -208,7 +208,7 @@ _litigation representative Pang Choy Chun) v Yeo Chye Huat and another appeal_ [
 
 **_Loss of earning capacity_** 
 
-37     The Plaintiff claimed $15,000 for loss of earning capacity. The Plaintiff’s position was that he was entitled to compensation for both the loss of earning capacity and loss of future earnings as they compensate different losses, relying on the case of _Chai Kang Wei Samuel v Shaw Linda Gillian_ [2010] 3 SLR 587 (“ _Shaw Linda Gillian”)._ 
+37     The Plaintiff claimed $15,000 for loss of earning capacity. The Plaintiff’s position was that he was entitled to compensation for both the loss of earning capacity and loss of future earnings as they compensate different losses, relying on the case of _Chai Kang Wei Samuel v Shaw Linda Gillian_ <span class="citation">[2010] 3 SLR 587</span> (“ _Shaw Linda Gillian”)._ 
 
 38     The Plaintiff submitted that the two elements set out in _Shaw Linda Gillian_ , namely the risk of losing his present job before the end of his estimated working life and a disadvantage in the open employment market due to injuries, were proved. First, the Plaintiff relied on the medical reports that opined that the Plaintiff will be unable to return to his pre-accident vocation as a carpenter. Second, the Plaintiff argued that he had suffered severe residual disabilities physically and cognitively and will therefore be highly disadvantaged in the open employment market in the future. 
 
@@ -218,7 +218,7 @@ _litigation representative Pang Choy Chun) v Yeo Chye Huat and another appeal_ [
 
 41     As to the quantum to be awarded, the Plaintiff made reference to the sum of $25,000 awarded in _Wee Sia Tian_. The Plaintiff’s position appeared to be that the injuries were of a similar severity but as the victim in _Wee Sia Tian_ was younger (48 years old), a discount of $10,000 should be applied. In response, the Defendant argued that this was a sum “plucked out from the air” and unsupported by evidence. 
 
-42     The award for loss of earning capacity would often involve a degree of speculation. Oftentimes, the court would not know the extent to which the plaintiff will be disadvantaged by the disabilities (see _Clark Jonathan Michael v Lee Khee Chung_ [2010] 1 SLR 209 ( _“Clark Jonathan Michael_ ”)). The approach to be adopted is a “rather rough and ready one which really reflects the amount that the particular court thinks is reasonable in the particular circumstances to compensate the particular plaintiff for the disadvantage he has been put into in the job market by his disabilities.” ( _Clark Jonathan Michael_ at [91]). In the present case, I found the Plaintiff to be a robust worker with determination to find work even after suffering the injuries. He is currently working as a cleaner earning $1,000 a month. The injuries he had suffered continue to affect him at work. For example, I accepted the Plaintiff’s evidence that he continues to suffer from pains in his legs and his back. As his job is physical in nature, I accepted that there is a risk that he may lose his current job due to these injuries and the symptoms that arise from them. However, I was also cognisant of the fact that the current prognosis is positive and the Plaintiff is likely to continue working for the next few years, beyond the statutory retirement age. In my view, a sum of $5,000 would be appropriate. 
+42     The award for loss of earning capacity would often involve a degree of speculation. Oftentimes, the court would not know the extent to which the plaintiff will be disadvantaged by the disabilities (see _Clark Jonathan Michael v Lee Khee Chung_ <span class="citation">[2010] 1 SLR 209</span> ( _“Clark Jonathan Michael_ ”)). The approach to be adopted is a “rather rough and ready one which really reflects the amount that the particular court thinks is reasonable in the particular circumstances to compensate the particular plaintiff for the disadvantage he has been put into in the job market by his disabilities.” ( _Clark Jonathan Michael_ at [91]). In the present case, I found the Plaintiff to be a robust worker with determination to find work even after suffering the injuries. He is currently working as a cleaner earning $1,000 a month. The injuries he had suffered continue to affect him at work. For example, I accepted the Plaintiff’s evidence that he continues to suffer from pains in his legs and his back. As his job is physical in nature, I accepted that there is a risk that he may lose his current job due to these injuries and the symptoms that arise from them. However, I was also cognisant of the fact that the current prognosis is positive and the Plaintiff is likely to continue working for the next few years, beyond the statutory retirement age. In my view, a sum of $5,000 would be appropriate. 
 
 **_Future nursing care_** 
 

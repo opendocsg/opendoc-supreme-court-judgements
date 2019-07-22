@@ -16,7 +16,7 @@
 
 _Damages_ – _Assessment_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2015] 1 SLR 904 .] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2015] 1 SLR 904</span> .] 
 
 21 August 2015 
 
@@ -24,7 +24,7 @@ _Damages_ – _Assessment_
 
 **Introduction** 
 
-1       This was an appeal against the decision of the High Court judge (“the Judge”) reported as _Fairmacs Shipping & Transport Services Pte Ltd v Harikutai Engineering Pte Ltd and another_ [2015] 1 SLR 904 (“the GD”). The case concerned a shipment of river sand that never made its way to the intended buyer, Fairmacs Shipping & Transport Services Pte Ltd (“the Respondent”). The matter first went before the Assistant Registrar (“the AR”) who assessed damages at US$62,950 with interest at 5.33% from the date of the Writ of Summons. The Respondent appealed. After hearing parties, the Judge allowed the appeal, assessing damages at US$141,226 (with the same order as to interest). Marco Polo Shipping Company Pte Ltd (“the Appellant”), the second defendant at the time, appealed to this court. 
+1       This was an appeal against the decision of the High Court judge (“the Judge”) reported as _Fairmacs Shipping & Transport Services Pte Ltd v Harikutai Engineering Pte Ltd and another_ <span class="citation">[2015] 1 SLR 904</span> (“the GD”). The case concerned a shipment of river sand that never made its way to the intended buyer, Fairmacs Shipping & Transport Services Pte Ltd (“the Respondent”). The matter first went before the Assistant Registrar (“the AR”) who assessed damages at US$62,950 with interest at 5.33% from the date of the Writ of Summons. The Respondent appealed. After hearing parties, the Judge allowed the appeal, assessing damages at US$141,226 (with the same order as to interest). Marco Polo Shipping Company Pte Ltd (“the Appellant”), the second defendant at the time, appealed to this court. 
 
 2       Parties appeared before us on 8 July 2015. After hearing their submissions, we allowed the appeal and restored the AR’s award, issuing the following brief grounds (which are elaborated upon in this judgment): 
 
@@ -162,9 +162,9 @@ market was oligopolistic as: (a) unsupported by evidence; and (b) premised on an
 28     Before examining either of the issues set out above (at [25]), we state briefly the applicable 
 
 
-principles. First, at the broadest level of abstraction, the object of an award of damages is to compensate the plaintiff for the damage it has suffered (see the decision of this court in _Chartered Electronics Industries Pte Ltd v Comtech IT Pte Ltd_ [1998] 2 SLR(R) 1010 (“ _Chartered_ ”) at [16]). 
+principles. First, at the broadest level of abstraction, the object of an award of damages is to compensate the plaintiff for the damage it has suffered (see the decision of this court in _Chartered Electronics Industries Pte Ltd v Comtech IT Pte Ltd_ <span class="citation">[1998] 2 SLR(R) 1010</span> (“ _Chartered_ ”) at [16]). 
 
-29     Turning more specifically to the issue at hand, we note there is, understandably, no universal rule for the assessment of damages (see the decision of this court in _The “Pioneer Glory”_ [2002] 1 SLR(R) 232 (“ _The Pioneer Glory_ ”) at [47]). The typical approach, however, is to equate the damages with the value of the goods (see _Chartered_ at [18]), _ie_ , Damages = Value of the Goods. There may be cases where the plaintiff is also allowed to recover consequential losses such as loss of profits and losses incurred by being deprived of the use of the goods ( _Chartered_ at [19]), _ie_ , Damages = Value of the Goods + Consequential Losses. 
+29     Turning more specifically to the issue at hand, we note there is, understandably, no universal rule for the assessment of damages (see the decision of this court in _The “Pioneer Glory”_ <span class="citation">[2002] 1 SLR(R) 232</span> (“ _The Pioneer Glory_ ”) at [47]). The typical approach, however, is to equate the damages with the value of the goods (see _Chartered_ at [18]), _ie_ , Damages = Value of the Goods. There may be cases where the plaintiff is also allowed to recover consequential losses such as loss of profits and losses incurred by being deprived of the use of the goods ( _Chartered_ at [19]), _ie_ , Damages = Value of the Goods + Consequential Losses. 
 
 30     How, then, is the value of the goods determined? Typically, courts look to the market value (see _Chartered_ at [18]). The most commonly cited justification for the market value rule is that it is the best approximate of the loss suffered by the plaintiff who has been deprived of his goods (see _Chartered_ at [18]; Gary Chan Kok Yew and Lee Pey Woan, _The Law of Torts in Singapore_ (Academy Publishing, 2011) (“ _The Law of Torts in Singapore_ ”) at para 11.054; and Harvey McGregor, _McGregor on Damages_ (Sweet & Maxwell, 19th Ed, 2014) (“ _McGregor on Damages_ ”) at para 36-006). The market price is typically determined as at the date of conversion (see _The Law of Torts in Singapore_ at para 11.055), or as in the present case, where goods are converted in transit, at the date of expected delivery (see the decision of the Privy Council (on appeal from the Singapore Court of Appeal) in _The “Jag Shakti”_ [1985-1986] SLR(R) 448 at [13]). Needless to say, to determine a market value, one must first ascertain if a market exists. “Market” has been variously defined, as follows: 
 

@@ -18,7 +18,7 @@ _Insolvency Law_ – _Avoidance of transactions_ – _Transactions at an underva
 
 _Companies_ – _Directors_ – _Duties_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 55, 56, 57 and 58 of 2017 were allowed in part by the Court of Appeal on 17 January 2018. See [2018] SGCA 3.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 55, 56, 57 and 58 of 2017 were allowed in part by the Court of Appeal on 17 January 2018. See <span class="citation">[2018] SGCA 3</span>.] 
 
 8 February 2017 Judgment reserved. 
 
@@ -238,7 +238,7 @@ only elect when judgment is given in its favour. [note: xlii] I should add that 
 
  [Emphasis added] 
 
-34     To find that a director is “accustomed to act” on the instructions of a person not appointed as one – often referred to as a ‘shadow director’ – it is sufficient if there is a “discernible pattern of compliance” with the shadow director’s instructions; occasional departures from the pattern will not affect the finding of shadow directorship: _Raffles Town Club Pte Ltd v Lim Eng Hock Peter and others_ [2010] SGHC 163 (“ _RTC_ ”) at [45]. There is no requirement that the shadow director’s directions or instructions must extend over the whole field of the company’s corporate activities: _Secretary of State for Trade and Industry v Deverell and another_ [2000] 2 WLR 907 at 920. A shadow director is subject to the same fiduciary duties as an appointed director: _RTC_ at [49]. 
+34     To find that a director is “accustomed to act” on the instructions of a person not appointed as one – often referred to as a ‘shadow director’ – it is sufficient if there is a “discernible pattern of compliance” with the shadow director’s instructions; occasional departures from the pattern will not affect the finding of shadow directorship: _Raffles Town Club Pte Ltd v Lim Eng Hock Peter and others_ <span class="citation">[2010] SGHC 163</span> (“ _RTC_ ”) at [45]. There is no requirement that the shadow director’s directions or instructions must extend over the whole field of the company’s corporate activities: _Secretary of State for Trade and Industry v Deverell and another_ [2000] 2 WLR 907 at 920. A shadow director is subject to the same fiduciary duties as an appointed director: _RTC_ at [49]. 
 
 35     In my view, CC Liu remained a shadow director after his resignation from the Parakou board on 31 December 2008. The evidence, viewed in its totality, shows that CC Liu was a key decision maker whose directions continued to be sought even after he ceased to be a director. 
 
@@ -405,7 +405,7 @@ Por kept “rushing” and “pressuring” him to expedite the matter. [note: l
 
 59     I find that the March 2008 Resolution was not a contemporaneous document and that there was in fact no restructuring plan. The Disposal Transactions were not carried out pursuant to the alleged restructuring plan. In my view, the restructuring plan was an afterthought in an attempt to justify the Disposal Transactions. 
 
-60     In coming to my conclusions, I have been mindful of the principle that where fraud or dishonesty is alleged, more evidence is needed than in an ordinary civil case to discharge the standard of proof on a balance of probabilities: _Gimpex Ltd v Unity Holdings Business Ltd and others and another appeal_ [2015] 2 SLR 686 at [184]. In my view, the evidence was more than sufficient in this case. 
+60     In coming to my conclusions, I have been mindful of the principle that where fraud or dishonesty is alleged, more evidence is needed than in an ordinary civil case to discharge the standard of proof on a balance of probabilities: _Gimpex Ltd v Unity Holdings Business Ltd and others and another appeal_ <span class="citation">[2015] 2 SLR 686</span> at [184]. In my view, the evidence was more than sufficient in this case. 
 
 **Whether Parakou was insolvent at the material time** 
 
@@ -414,7 +414,7 @@ Por kept “rushing” and “pressuring” him to expedite the matter. [note: l
 62     Where directors’ duties are concerned, it is axiomatic that directors have a duty to act in the interests of the company. Generally, this refers to the interests of the company as a separate commercial entity which in many cases are very readily identified with the interests of its shareholders as a whole: Hans Tjio, Pearlie Koh and Lee Pey Woan, _Corporate Law_ (Academy Publishing, 2015) (“ _Corporate Law_ ”) at para 09.045. The company’s solvency status is relevant because “when a 
 
 
-company is insolvent, or even in a parlous financial position, directors have a fiduciary duty to take into account the interests of the company’s creditors when making decisions for the company”: _Liquidators of Progen Engineering Pte Ltd v Progen Holdings Ltd_ [2010] 4 SLR 1089 (“ _Progen_ ”) at [48]. The greater the concern over the company’s financial health, the more weight the directors must accord to the interests of creditors over those of the shareholders: _Dynasty Line Ltd (in liquidation) v Sukamto Sia and another and another appeal_ [2014] 3 SLR 277 (“ _Dynasty_ ”) at [34]. 
+company is insolvent, or even in a parlous financial position, directors have a fiduciary duty to take into account the interests of the company’s creditors when making decisions for the company”: _Liquidators of Progen Engineering Pte Ltd v Progen Holdings Ltd_ <span class="citation">[2010] 4 SLR 1089</span> (“ _Progen_ ”) at [48]. The greater the concern over the company’s financial health, the more weight the directors must accord to the interests of creditors over those of the shareholders: _Dynasty Line Ltd (in liquidation) v Sukamto Sia and another and another appeal_ <span class="citation">[2014] 3 SLR 277</span> (“ _Dynasty_ ”) at [34]. 
 
 63     In the case of undervalue transactions, a condition for the statutory remedy is that the company was insolvent when the transactions were carried out or became insolvent in consequence of the transactions: s 329 of the Companies Act read with ss 98 and 100 of the Bankruptcy Act. 
 
@@ -426,7 +426,7 @@ company is insolvent, or even in a parlous financial position, directors have a 
 
 **_Whether Parakou was balance sheet insolvent_** 
 
-67     The test for balance sheet insolvency is whether “there is a deficit after balancing overall liabilities against assets”: _Chip Thye Enterprises Pte Ltd (in liquidation) v Phay Gi Mo and others_ [2004] 1 SLR(R) 434 (“ _Chip Thye_ ”) at [18]. A commercial and not technical approach should be taken in determining balance sheet insolvency; a surplus or deficiency of net assets is indicative but not determinative of solvency: _Chip Thye_ at [19]. 
+67     The test for balance sheet insolvency is whether “there is a deficit after balancing overall liabilities against assets”: _Chip Thye Enterprises Pte Ltd (in liquidation) v Phay Gi Mo and others_ <span class="citation">[2004] 1 SLR(R) 434</span> (“ _Chip Thye_ ”) at [18]. A commercial and not technical approach should be taken in determining balance sheet insolvency; a surplus or deficiency of net assets is indicative but not determinative of solvency: _Chip Thye_ at [19]. 
 
 68     Parakou had a negative equity position on its balance sheet for six years prior to the time of 
 
@@ -451,7 +451,7 @@ Chee in fact accepted that Parakou was balance sheet insolvent. [note: lxxxvii] 
 
 72     In any event, I agree with Reid’s view that removing liabilities from the balance sheet in this 
 
-way would be illogical as it would result in the balance sheet not balancing. [note: lxxxviii] I also note that a similar approach taken by Chee in an earlier case, _Kon Yin Tong and another v Leow Boon Cher and others_ [2011] SGHC 228 (“ _Kon Yin Tong_ ”), was described as “an avant-garde and irregular method of accounting” and rejected by Judith Prakash J (as she then was) (at [69]). 
+way would be illogical as it would result in the balance sheet not balancing. [note: lxxxviii] I also note that a similar approach taken by Chee in an earlier case, _Kon Yin Tong and another v Leow Boon Cher and others_ <span class="citation">[2011] SGHC 228</span> (“ _Kon Yin Tong_ ”), was described as “an avant-garde and irregular method of accounting” and rejected by Judith Prakash J (as she then was) (at [69]). 
 
 73     In my view, it is indisputable that Parakou was balance sheet insolvent at the material times. 
 
@@ -546,16 +546,16 @@ the Galsworthy claim had to be taken into account. [note: cxiii]
 
  (e) The Excess Rent Payments made to or on behalf of PIH. 
 
-91     To obtain the statutory remedy under s 98 of the Bankruptcy Act, the liquidator must show that (a) there was a “transaction” (b) which took place at the “relevant time” (c) when the company was “insolvent”, and (d) which was at an “undervalue”: _Mercator & Noordstar NV v Velstra Pte Ltd (in liquidation)_ [2003] 4 SLR(R) 667 (“ _Mercator_ ”) at [21]. If all four requirements are met, the court shall make “such order as it thinks fit for restoring the position to what it would have been” if the transaction had not been entered into: s 98(2) of the Bankruptcy Act. 
+91     To obtain the statutory remedy under s 98 of the Bankruptcy Act, the liquidator must show that (a) there was a “transaction” (b) which took place at the “relevant time” (c) when the company was “insolvent”, and (d) which was at an “undervalue”: _Mercator & Noordstar NV v Velstra Pte Ltd (in liquidation)_ <span class="citation">[2003] 4 SLR(R) 667</span> (“ _Mercator_ ”) at [21]. If all four requirements are met, the court shall make “such order as it thinks fit for restoring the position to what it would have been” if the transaction had not been entered into: s 98(2) of the Bankruptcy Act. 
 
 92     It is not disputed that the first two requirements have been met. The word “transaction” is not limited to contracts or mutual dealings; it includes unilateral acts such as simple payments: _Mercator_ at [23]–[24]. The “relevant time” for present purposes is the period of five years ending on 14 April 2011 ( _ie_ the date on which the resolution for voluntary winding up was passed) – see s 100(1)( _a_ )(ii) of the Bankruptcy Act read with s 329(2)( _b_ ) of the Companies Act. All five transactions in question took place within the five-year period. 
 
 
-93     In view of my findings that Parakou was balance sheet and cash flow insolvent at the material times, the third requirement is also met. I need only add that under s 100(3) of the Bankruptcy Act, insolvency is presumed if the transaction is with an “associate” as defined in r 5 of the Companies (Application of Bankruptcy Act Regulations) (1996 Rev Ed). It is not disputed that this presumption applies in the present case. In any event, it is clear that the defendants have not rebutted the presumption. Further, under s 100(4) of the Bankruptcy Act, the balance sheet and the cash flow tests are alternative tests; a company is deemed insolvent as long as either test is satisfied (see _Living the Link Pte Ltd (in creditors’ voluntary liquidation) and others v Tan Lay Tin Tina and others_ [2016] 3 SLR 621 (“ _Living the Link_ ”) at [26], citing _Velstra Pte Ltd (in compulsory winding up) v Azero Investments SA_ [2004] SGHC 251 at [89]). Parakou was clearly insolvent at the relevant time. 
+93     In view of my findings that Parakou was balance sheet and cash flow insolvent at the material times, the third requirement is also met. I need only add that under s 100(3) of the Bankruptcy Act, insolvency is presumed if the transaction is with an “associate” as defined in r 5 of the Companies (Application of Bankruptcy Act Regulations) (1996 Rev Ed). It is not disputed that this presumption applies in the present case. In any event, it is clear that the defendants have not rebutted the presumption. Further, under s 100(4) of the Bankruptcy Act, the balance sheet and the cash flow tests are alternative tests; a company is deemed insolvent as long as either test is satisfied (see _Living the Link Pte Ltd (in creditors’ voluntary liquidation) and others v Tan Lay Tin Tina and others_ <span class="citation">[2016] 3 SLR 621</span> (“ _Living the Link_ ”) at [26], citing _Velstra Pte Ltd (in compulsory winding up) v Azero Investments SA_ <span class="citation">[2004] SGHC 251</span> at [89]). Parakou was clearly insolvent at the relevant time. 
 
 94     The only question left is whether the transactions were at an undervalue. Pursuant to s 98(3) ( _a_ ) and ( _c_ ) of the Bankruptcy Act, each of the transactions would be at an undervalue if Parakou entered into it for no consideration or for a consideration the value of which, in money or money’s worth, is significantly less than the value of the consideration provided by Parakou. Value is not to be determined in a vacuum; the question to be asked is “whether there was a bargain of such magnitude that it could not be explained by normal commercial practice”: _Show Theatres Pte Ltd (in liquidation)_ 
 
-_v Shaw Theatres Pte Ltd and another application_ [2002] 1 SLR(R) 578 at [12]. [note: cxiv] There is no need to ascertain the exact monetary value of the consideration received or provided in order to determine whether one is significantly less than the other: _Ailyan v Smith_ [2010] EWHC 24 at [49]. 
+_v Shaw Theatres Pte Ltd and another application_ <span class="citation">[2002] 1 SLR(R) 578</span> at [12]. [note: cxiv] There is no need to ascertain the exact monetary value of the consideration received or provided in order to determine whether one is significantly less than the other: _Ailyan v Smith_ [2010] EWHC 24 at [49]. 
 
 **_Sale of OPL Vessels to PIH_** 
 
@@ -773,9 +773,9 @@ they get nothing in liquidation”. [note: cxxxix]
 
 **_The law_** 
 
-145    To establish dishonest assistance, Parakou has to prove that (a) there was a trust, (b) there was a breach of trust, (c) PIH and PSMPL rendered assistance towards the breach of trust and (d) the assistance rendered by PIH and PSMPL was dishonest: _George Raymond Zage III and another v Ho Chi Kwong and another_ [2010] 2 SLR 589 (“ _GRZ III_ ”) at [20]. Dishonesty is established if the defendant has such knowledge of the irregular shortcomings of the transactions that ordinary honest people would consider him to be in breach of standards of honest conduct if he failed to adequately query them: _GRZ III_ at [22]. 
+145    To establish dishonest assistance, Parakou has to prove that (a) there was a trust, (b) there was a breach of trust, (c) PIH and PSMPL rendered assistance towards the breach of trust and (d) the assistance rendered by PIH and PSMPL was dishonest: _George Raymond Zage III and another v Ho Chi Kwong and another_ <span class="citation">[2010] 2 SLR 589</span> (“ _GRZ III_ ”) at [20]. Dishonesty is established if the defendant has such knowledge of the irregular shortcomings of the transactions that ordinary honest people would consider him to be in breach of standards of honest conduct if he failed to adequately query them: _GRZ III_ at [22]. 
 
-146    As for knowing receipt, the elements are (a) a disposal of the plaintiff’s assets in breach of fiduciary duty, (b) the beneficial receipt of the defendant of assets which are traceable as representing the assets of the plaintiff and (c) knowledge on the part of the defendant that the assets received are traceable to a breach of fiduciary duty: _GRZ III_ at [23], affirming _Caltong (Australia) Pty Ltd (formerly known as Tong Tien See Holding (Australia) Pty Ltd) and another v Tong Tien See Construction Pte Ltd (in liquidation) and another appeal_ [2002] 2 SLR(R) 94 at [31]. The defendant’s state of knowledge must be such as to make it unconscionable for him to retain the benefit of the receipt: _Bank of Credit and Commerce International (Overseas) Ltd and another v Akindele_ [2001] Ch 437 at 455E. 
+146    As for knowing receipt, the elements are (a) a disposal of the plaintiff’s assets in breach of fiduciary duty, (b) the beneficial receipt of the defendant of assets which are traceable as representing the assets of the plaintiff and (c) knowledge on the part of the defendant that the assets received are traceable to a breach of fiduciary duty: _GRZ III_ at [23], affirming _Caltong (Australia) Pty Ltd (formerly known as Tong Tien See Holding (Australia) Pty Ltd) and another v Tong Tien See Construction Pte Ltd (in liquidation) and another appeal_ <span class="citation">[2002] 2 SLR(R) 94</span> at [31]. The defendant’s state of knowledge must be such as to make it unconscionable for him to retain the benefit of the receipt: _Bank of Credit and Commerce International (Overseas) Ltd and another v Akindele_ [2001] Ch 437 at 455E. 
 
 147    Where the defendant is a company, it may be attributed with the state of mind of its directing organ under its constitution, _ie_ its board of directors acting as such or for some purposes the general body of shareholders: _Bilta (UK) Ltd (in liquidation) and others v Nazir and others (No 2)_ [2015] 2 WLR 1168 (“ _Bilta_ ”) at [67]. 
 
@@ -825,7 +825,7 @@ fiduciary duties, Parakou’s claim against PSMPL in respect of the same likewis
 
 **Whether the defendants are liable for unlawful means conspiracy** 
 
-161    Parakou claims that the defendants conspired to injure it and/or to cause it loss by unlawful means. The elements of conspiracy by unlawful means are as follows: (a) a combination of two or more persons to do certain acts, (b) the alleged conspirators had the intention to cause damage or injury to the plaintiff by those acts, (c) the acts were unlawful, (d) the acts were performed in furtherance of the agreement and (e) the plaintiff suffered loss as a result of the conspiracy: _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ [2014] 1 SLR 860 at [112]. 
+161    Parakou claims that the defendants conspired to injure it and/or to cause it loss by unlawful means. The elements of conspiracy by unlawful means are as follows: (a) a combination of two or more persons to do certain acts, (b) the alleged conspirators had the intention to cause damage or injury to the plaintiff by those acts, (c) the acts were unlawful, (d) the acts were performed in furtherance of the agreement and (e) the plaintiff suffered loss as a result of the conspiracy: _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ <span class="citation">[2014] 1 SLR 860</span> at [112]. 
 
 162    As pleaded, Parakou’s conspiracy claim arises in connection with the sale of the OPL Vessels, the PIH Repayments, the PIH Set-Off, the Bonus Payments, and the transfer of the SMAs and 
 

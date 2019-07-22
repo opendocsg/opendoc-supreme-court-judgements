@@ -22,7 +22,7 @@ _Contract_ – _Contractual terms_ – _Rules of construction_ – _Contract wit
 
 Andrew Phang Boon Leong JA (delivering the judgment of the court): 
 
-1       This is an appeal by Sandar Aung (“the appellant”) against the decision of the trial judge (“the Judge”) allowing, _inter alia_ , Parkway Hospitals Singapore Pte Ltd (“the first respondent”) to add Mount Elizabeth Medical Holdings Ltd (“the second respondent”) as a co-plaintiff and giving judgment to the respondents for the sum of $320,083.77 on the basis of an agreement signed by the appellant (see _Parkway Hospitals Singapore Pte Ltd (trading as Mount Elizabeth Hospital) v Sandar Aung_ [2007] 1 SLR 227 (“GD”)). 
+1       This is an appeal by Sandar Aung (“the appellant”) against the decision of the trial judge (“the Judge”) allowing, _inter alia_ , Parkway Hospitals Singapore Pte Ltd (“the first respondent”) to add Mount Elizabeth Medical Holdings Ltd (“the second respondent”) as a co-plaintiff and giving judgment to the respondents for the sum of $320,083.77 on the basis of an agreement signed by the appellant (see _Parkway Hospitals Singapore Pte Ltd (trading as Mount Elizabeth Hospital) v Sandar Aung_ <span class="citation">[2007] 1 SLR 227</span> (“GD”)). 
 
 2       After considering the parties’ arguments on appeal, we have decided to allow the appeal, and set out our reasons for doing so. 
 
@@ -130,7 +130,7 @@ the language in a given contract is inconsistent with what is the obvious contex
  [emphasis added] 
 
 
-32     Significantly, there follow extracts from the judgment of Lord Wilberforce in _Reardon Smith_ , which are in fact included in the reference below (at [34]). It is worthy to note that I had endorsed this common law principle in the recent High Court decision of _China Insurance Co (Singapore) Pte Ltd v Liberty Insurance Pte Ltd_ [2005] 2 SLR 509, albeit by way of _dicta_ (at [51]). We are of the view that the “more modern view” referred to in the above quotation is to be preferred and that, as we have explained above, such a view is also consistent with what would be the practical reality in any event. 
+32     Significantly, there follow extracts from the judgment of Lord Wilberforce in _Reardon Smith_ , which are in fact included in the reference below (at [34]). It is worthy to note that I had endorsed this common law principle in the recent High Court decision of _China Insurance Co (Singapore) Pte Ltd v Liberty Insurance Pte Ltd_ <span class="citation">[2005] 2 SLR 509</span>, albeit by way of _dicta_ (at [51]). We are of the view that the “more modern view” referred to in the above quotation is to be preferred and that, as we have explained above, such a view is also consistent with what would be the practical reality in any event. 
 
 3       3 The established common law principle referred to above is also applicable as it is not inconsistent with the provisions of the Act since, _ex hypothesi_ , the court is not seeking to utilise such material to add to, vary or contradict the terms of the contract itself – courses of action that would be at odds with s 94 of the Act (see also _Chitty on Contracts_ ([31] _supra_ at para 12-117)). In this regard, s 2(2) of the Act is relevant, and reads as follows: 
 

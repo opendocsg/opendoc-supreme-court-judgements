@@ -110,7 +110,7 @@ police.
 25     Having considered all the facts, including all those said by the accused in his mitigation and 
 
 
-bearing in mind the broad principles articulated by the Singapore Court of Appeal in _Chia Kim Heng Frederick v Public Prosecutor_ [1992] 1 SLR 361, I imposed the following sentences: 
+bearing in mind the broad principles articulated by the Singapore Court of Appeal in _Chia Kim Heng Frederick v Public Prosecutor_ <span class="citation">[1992] 1 SLR 361</span>, I imposed the following sentences: 
 
  On the first charge marked A1, a sentence of imprisonment of 9 years and 12 strokes of the cane; 
 

@@ -276,7 +276,7 @@ of Physicians and Surgeons of Ontario’s Policy Statement #3-09, _Third Party R
 
  Physicians must comply with any statutory obligations they may have to provide access to reports, documents or notes. ... 
 
-63     The medical report, having been prepared for the dominant purpose of litigation, is subject to litigation privilege. However, this does not mean that the entire report is subject to privilege. As noted by Andrew Phang JA in _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd_ [2007] 2 SLR 367, at [100]: 
+63     The medical report, having been prepared for the dominant purpose of litigation, is subject to litigation privilege. However, this does not mean that the entire report is subject to privilege. As noted by Andrew Phang JA in _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd_ <span class="citation">[2007] 2 SLR 367</span>, at [100]: 
 
  [I]n situations where part of the document contains privileged material, and the remaining part is unprivileged, and where the unprivileged part is separable from, and is not integral to , the privileged part of the document, then redaction of the privileged parts may be carried out and the rest of the document revealed to the opposing party through the usual discovery process. ... In short, parties should be slow to claim privilege for entire documents where there is only partial or even trifling reference to legal advice or communications leading to the giving or obtaining of legal advice, and/or (and this is of particular importance) where the ostensibly non-privileged parts do not play an integral role in the context of the relevant legal analysis. 
 

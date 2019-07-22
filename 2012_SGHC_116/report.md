@@ -78,7 +78,7 @@ The Accord Agreement would also have to be disclosed.
 
 It should also be noted that the discussions in _Moscow_ pertained to the publication of judgments. 
 
-13     In Singapore, the High Court (per Chan Seng Onn J) had in _AAY v AAZ_ [2011] 1 SLR 1093 (“ _AAY_ ”) affirmed that confidentiality in arbitration is accepted as a general principle. Furthermore, ss 22 and 23 of the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“IAA”) reflect the public policy of keeping arbitrations, and all proceedings related to arbitration, confidential. Sections 22 and 23 of the IAA state: 
+13     In Singapore, the High Court (per Chan Seng Onn J) had in _AAY v AAZ_ <span class="citation">[2011] 1 SLR 1093</span> (“ _AAY_ ”) affirmed that confidentiality in arbitration is accepted as a general principle. Furthermore, ss 22 and 23 of the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“IAA”) reflect the public policy of keeping arbitrations, and all proceedings related to arbitration, confidential. Sections 22 and 23 of the IAA state: 
 
  Proceedings to be heard otherwise than in open court 
 
@@ -125,7 +125,7 @@ It should also be noted that the discussions in _Moscow_ pertained to the public
 
 **_No legitimate public interest_** 
 
-18     It should also be pointed out that many of the relevant authorities dealt with judgments and the need to make judgments dealing with challenges to arbitral awards public. For instance, in _AAY v AAZ_ [2011] 2 SLR 528 (“ _AAY 2_ ”) at [28], the court found that there was legitimate public interest in making the judgment in _AAY_ ([13] _supra_ ) public, albeit with appropriate redaction, as the judgment discussed the latest jurisprudence on the issue of confidentiality in arbitration. The sealing of court documents, however, would not stifle the development of arbitration jurisprudence in Singapore. 
+18     It should also be pointed out that many of the relevant authorities dealt with judgments and the need to make judgments dealing with challenges to arbitral awards public. For instance, in _AAY v AAZ_ <span class="citation">[2011] 2 SLR 528</span> (“ _AAY 2_ ”) at [28], the court found that there was legitimate public interest in making the judgment in _AAY_ ([13] _supra_ ) public, albeit with appropriate redaction, as the judgment discussed the latest jurisprudence on the issue of confidentiality in arbitration. The sealing of court documents, however, would not stifle the development of arbitration jurisprudence in Singapore. 
 
 
 19     Neither is there any legitimate public interest in the subject matter of the dispute. Having examined the affidavit in question, it is evident that the dispute between the parties is purely commercial, with nothing to suggest that there is any countervailing and legitimate public interest weighing in favour of disclosure. Accordingly, there is no reason to compromise the confidentiality of the arbitration and related proceedings which had been bargained for and/or agreed to by the parties. 

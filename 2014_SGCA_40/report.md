@@ -16,7 +16,7 @@
 
 _Arbitration_ – _Recourse against award_ – _Setting aside_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2013] 4 SLR 1169 .] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2013] 4 SLR 1169</span> .] 
 
 30 July 2014 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Arbitration_ – _Recourse against award_ – _Setting aside_
 
 **Introduction** 
 
-1       The present appeal arose out of the decision of the High Court judge (“the Judge”) to set aside part of an arbitral award in _BLB and another v BLC and others_ [2013] 4 SLR 1169 (“the Judgment”) on the ground of a breach of natural justice. 
+1       The present appeal arose out of the decision of the High Court judge (“the Judge”) to set aside part of an arbitral award in _BLB and another v BLC and others_ <span class="citation">[2013] 4 SLR 1169</span> (“the Judgment”) on the ground of a breach of natural justice. 
 
 2       The central question raised in this appeal is a factual one, _ie_ , whether the Judge was correct in finding that the sole arbitrator had not addressed his mind to one of the respondents’ counterclaims (“the Disputed Counterclaim”) and thereby failed to deal with an essential issue in the dispute. 
 
@@ -273,7 +273,7 @@ in paras 15 and 15.1 of the Respondents’ list of issues) instead of considerin
 
 **The relevant legal principles** 
 
-51     It is now axiomatic that there will be minimal curial intervention in arbitral proceedings. As the Judge acknowledged at [67] of the Judgment, citing our decision in _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ [2007] 3 SLR(R) 86 (“ _Soh Beng Tee_ ”) (at [65(c)]), the principle of minimal curial intervention flows from “the need to encourage finality in the arbitral process as well as the deemed acceptance by the parties to an arbitration of the attendant risks of having only a very limited right of recourse to the courts”. 
+51     It is now axiomatic that there will be minimal curial intervention in arbitral proceedings. As the Judge acknowledged at [67] of the Judgment, citing our decision in _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ <span class="citation">[2007] 3 SLR(R) 86</span> (“ _Soh Beng Tee_ ”) (at [65(c)]), the principle of minimal curial intervention flows from “the need to encourage finality in the arbitral process as well as the deemed acceptance by the parties to an arbitration of the attendant risks of having only a very limited right of recourse to the courts”. 
 
 52     A “very limited right of recourse to the courts” is statutorily available where there has been a denial of natural justice – in the context of this appeal, when an arbitrator does not consider one party’s case and thereby fails to deal with an essential issue in the dispute. 
 
@@ -532,7 +532,7 @@ _The relevant principles_
 
  ... It must always be borne in mind that it is not the function of the court to assiduously comb an arbitral award microscopically in attempting to determine if there was any blame or fault in the arbitral process; rather, an award should be read generously such that only meaningful breaches of the rules of natural justice that have actually caused prejudice are ultimately remedied. 
 
-86     The English decisions of _Atkins Limited v The Secretary of State for Transport_ [2013] EWHC 139 (TCC) (“ _Aktins_ ”) and _Zermalt Holdings SA v Nu-Life Upholstery Repairs Ltd_ [1985] 2 EGLR 14 (“ _Zermalt_ ”) (which were referred to by Chan Seng Onn J in the Singapore High Court decision of _TMM Division Maritima SA de CV v Pacific Richfield Marine Pte Ltd_ [2013] 4 SLR 972 at [44] and [45]) are consistent with our local jurisprudence in relation to the “generous approach” which the court ought to take in reviewing arbitral awards for breaches. In short, the court is not required to carry out a hypercritical or excessively syntactical analysis of what the arbitrator has written (see _Atkins_ at [36]). Nor should the court approach an award with a meticulous legal eye endeavouring to pick holes, inconsistencies and faults in awards, with the objective of upsetting or frustrating the process of arbitration. Rather, the award should be read in a reasonable and commercial way, expecting, as is usually the case, that there will be no substantial fault that can be found with it (see, for example, _Zermalt_ at 14). 
+86     The English decisions of _Atkins Limited v The Secretary of State for Transport_ [2013] EWHC 139 (TCC) (“ _Aktins_ ”) and _Zermalt Holdings SA v Nu-Life Upholstery Repairs Ltd_ [1985] 2 EGLR 14 (“ _Zermalt_ ”) (which were referred to by Chan Seng Onn J in the Singapore High Court decision of _TMM Division Maritima SA de CV v Pacific Richfield Marine Pte Ltd_ <span class="citation">[2013] 4 SLR 972</span> at [44] and [45]) are consistent with our local jurisprudence in relation to the “generous approach” which the court ought to take in reviewing arbitral awards for breaches. In short, the court is not required to carry out a hypercritical or excessively syntactical analysis of what the arbitrator has written (see _Atkins_ at [36]). Nor should the court approach an award with a meticulous legal eye endeavouring to pick holes, inconsistencies and faults in awards, with the objective of upsetting or frustrating the process of arbitration. Rather, the award should be read in a reasonable and commercial way, expecting, as is usually the case, that there will be no substantial fault that can be found with it (see, for example, _Zermalt_ at 14). 
 
 _The Respondents’ submissions_ 
 

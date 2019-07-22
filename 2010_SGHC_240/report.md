@@ -346,7 +346,7 @@ never sent to the defendants; it can only be said to have been fabricated as BT 
 
 _The law_ 
 
-57     I turn next to the law on compromise agreements. I can do no better in this regard than to refer to the recent Court of Appeal decision in _Gay Choon Ing v Loh Sze Ti Terenc e Peter_ [2009] 2 SLR(R) 332 (“ _Gay’s_ case”) cited by the defendants. 
+57     I turn next to the law on compromise agreements. I can do no better in this regard than to refer to the recent Court of Appeal decision in _Gay Choon Ing v Loh Sze Ti Terenc e Peter_ <span class="citation">[2009] 2 SLR(R) 332</span> (“ _Gay’s_ case”) cited by the defendants. 
 
 58     In _Gay’s_ case, the Court of Appeal cited Foskett QC’s authoritative textbook (at [41]) on what constituted a valid compromise agreement: 
 

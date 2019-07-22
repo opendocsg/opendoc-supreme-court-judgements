@@ -82,7 +82,7 @@ it was of the view that Nisshin, Eng Keong and Tenet should also be liable to co
 
 13     Coming back to s 17, Nisshin would have been the principal of Khamso under s 17(1) if s 17(5) did not kick in. The first limb of s 17(5) did not kick in as the accident had not occurred at or about the place where Nisshin had undertaken to execute work. Accordingly, Mr Pillai relied on the second limb of s 17 and contended that because the lorry was driven by Nisshin’s employee, the vehicle was a place which was under Nisshin’s control or management. He added that Khamso was being driven back to his quarters at the time of the accident. 
 
-14     Mr Pillai relied on certain observations made by Lai Siu Chiu JC (as she then was) in _QBE (International) Ltd v Julaiha Bee Bee_ [1992] 1 SLR 406 about the mode of transport having to be operated by or on behalf of the employer or by some other person pursuant to arrangements made with the employer. However, as that case involved the interpretation of s 3(2) and not s 17(5), it did not assist Mr Pillai’s submission. 
+14     Mr Pillai relied on certain observations made by Lai Siu Chiu JC (as she then was) in _QBE (International) Ltd v Julaiha Bee Bee_ <span class="citation">[1992] 1 SLR 406</span> about the mode of transport having to be operated by or on behalf of the employer or by some other person pursuant to arrangements made with the employer. However, as that case involved the interpretation of s 3(2) and not s 17(5), it did not assist Mr Pillai’s submission. 
 
 15     Mr Rai, on the other hand, relied on _Andrews v Andrews and Mears_ [1908] 2 KB 567 (“ _Andrews_ ”). The law report at 576 summarises the facts as follows: 
 

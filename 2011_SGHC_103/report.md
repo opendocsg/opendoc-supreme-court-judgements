@@ -144,7 +144,7 @@ _Nature and scope of Goldzone’s relationship with Creative_
 
 **Tort of deceit** 
 
-17     Goldzone sought rescission of the Agreements and damages for misrepresentation under the tort of deceit. The elements necessary to ground an action in deceit were set out in _Panatron Pte Ltd v Lee Cheow Lee_ [2001] 2 SLR(R) 435 (“ _Panatron_ ”) at [14]. Each representation alleged by Goldzone was tested against the following elements: 
+17     Goldzone sought rescission of the Agreements and damages for misrepresentation under the tort of deceit. The elements necessary to ground an action in deceit were set out in _Panatron Pte Ltd v Lee Cheow Lee_ <span class="citation">[2001] 2 SLR(R) 435</span> (“ _Panatron_ ”) at [14]. Each representation alleged by Goldzone was tested against the following elements: 
 
  (a) The representation had to be one of fact made by words or conduct. 
 
@@ -270,7 +270,7 @@ this representation, I found that it did not exist as a pre-contractual represen
 
 45     Furthermore, an oral collateral contract, distinct from the principal contract, must satisfy all the usual legal requirements of a contract, including the following: 
 
- (a) The statement must be promissory in nature or effect rather than representational ( Lemon Grass v Peranakan Place Complex Pte Ltd [2002] 2 SLR(R) 50 (“ Lemon grass ”) at [116]–[117]). 
+ (a) The statement must be promissory in nature or effect rather than representational ( Lemon Grass v Peranakan Place Complex Pte Ltd <span class="citation">[2002] 2 SLR(R) 50</span> (“ Lemon grass ”) at [116]–[117]). 
 
  (b) Certainty of terms. 
 

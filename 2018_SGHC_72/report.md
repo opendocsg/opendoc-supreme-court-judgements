@@ -272,7 +272,7 @@ to them. [note: 88]
 
 35     I found that this was an exercise by the Defence in splitting hairs. As noted by the _amicus_ , Ms Tan Li Jen (“Ms Tan”), it was typical that victims of sexual assault would not be able to verbalise 
 
-every detail of the assaults. [note: 89] In referencing Ms Tan’s expert opinion, I admitted her evidence with respect to rape myths and on rape victims generally, which I relied upon where relevant as discussed in this Grounds of Decision. In doing so, I was cognisant of the recent pronouncement by the Court of Appeal in _Public Prosecutor v Mohd Ariffan bin Mohd Hassan_ [2018] SGCA 10 (in the context of adduction of further evidence on appeal) that a psychological expert’s opinion with respect to the specific victim ought not to be considered where the expert had not personally interviewed the victim and had an incomplete picture of the facts (at [98]). Ms Tan likewise had no opportunity to interview the Victim or her family members and as such I had not relied on her opinion of this specific Victim in my reasoning. 
+every detail of the assaults. [note: 89] In referencing Ms Tan’s expert opinion, I admitted her evidence with respect to rape myths and on rape victims generally, which I relied upon where relevant as discussed in this Grounds of Decision. In doing so, I was cognisant of the recent pronouncement by the Court of Appeal in _Public Prosecutor v Mohd Ariffan bin Mohd Hassan_ <span class="citation">[2018] SGCA 10</span> (in the context of adduction of further evidence on appeal) that a psychological expert’s opinion with respect to the specific victim ought not to be considered where the expert had not personally interviewed the victim and had an incomplete picture of the facts (at [98]). Ms Tan likewise had no opportunity to interview the Victim or her family members and as such I had not relied on her opinion of this specific Victim in my reasoning. 
 
 36     Returning to the issue of corroboration, I found that the Victim would naturally have felt distressed and embarrassed at having to disclose details of the offences to her family members. Whilst the Victim gave inconsistent evidence on the issue of whether she told her family members 
 
@@ -496,7 +496,7 @@ had passed on long before the trial [note: 151] and her mind could have been foc
 
 **Appropriate sentence** 
 
-67     For the offence of rape in C2, following the guidelines set by the Court of Appeal in _Ng Kean Meng Terence v Public Prosecutor_ [2017] 2 SLR 449 (“ _Terence Ng_ ”) at [73], I found that the present case fell within Band 2 of the sentencing bands. Of the offence-specific aggravating factors highlighted by the Prosecution (breach of trust, severe harm to the Victim and deliberate infliction of 
+67     For the offence of rape in C2, following the guidelines set by the Court of Appeal in _Ng Kean Meng Terence v Public Prosecutor_ <span class="citation">[2017] 2 SLR 449</span> (“ _Terence Ng_ ”) at [73], I found that the present case fell within Band 2 of the sentencing bands. Of the offence-specific aggravating factors highlighted by the Prosecution (breach of trust, severe harm to the Victim and deliberate infliction of 
 
 special trauma by the Accused), [note: 152] I found that two factors were present in this case: (1) breach of trust by the Accused _vis-à-vis_ his own mother and (2) harm caused to the Victim ( _Terence Ng_ at [44]). The first offence-specific aggravating factor of breach of trust was not disputed by the 
 
@@ -541,7 +541,7 @@ housebreaking and robbery. [note: 164] Weighing these factors, I found a sentenc
 
 74     For C1, which involved the Accused outraging the Victim’s modesty, for reasons similar to C and for the additional offence-specific aggravating factor of high degree of sexual exploitation 
 
-(placing the Victim’s “hands onto [the Accused’s] bare, exposed penis”), [note: 165] this would also fall within Band 2, leading to a starting point of five to 15 months’ imprisonment ( _Kunasekaran s/o Kalimuthu Somasundara v Public Prosecutor_ [2018] SGHC 09 at [49]). In my judgment, taking into account both the offence-specific and offender-specific factors, a sentence between the mid-point and the high end of the Band, of one year’s imprisonment for C1 was justified. Whilst the Prosecution 
+(placing the Victim’s “hands onto [the Accused’s] bare, exposed penis”), [note: 165] this would also fall within Band 2, leading to a starting point of five to 15 months’ imprisonment ( _Kunasekaran s/o Kalimuthu Somasundara v Public Prosecutor_ <span class="citation">[2018] SGHC 09</span> at [49]). In my judgment, taking into account both the offence-specific and offender-specific factors, a sentence between the mid-point and the high end of the Band, of one year’s imprisonment for C1 was justified. Whilst the Prosecution 
 
 additionally submitted for one stroke of the cane for C1, [note: 166] I did not impose any caning in view of my decision on sentence for C2 and C3. 
 
@@ -549,7 +549,7 @@ additionally submitted for one stroke of the cane for C1, [note: 166] I did not 
 
 guidelines, [note: 167] based on an extrapolation of the sentencing framework laid out in _GBR v Public_ 
 
-_Prosecutor_ [2017] SGHC 296 (“ _GBR_ ”). The Defence had no issue with the proposed guidelines. [note: 168] 
+_Prosecutor_ <span class="citation">[2017] SGHC 296</span> (“ _GBR_ ”). The Defence had no issue with the proposed guidelines. [note: 168] 
 
 
 76     In _GBR_ , See Kee Oon J transposed the sentencing framework from _Terence Ng_ to offences under s 354(2) of the Penal Code (outrage of modesty of a minor under 14 years old), which had a maximum imprisonment term of five years with no mandatory caning (at [26]–[27]). See J’s proposed bands were as follows: 
@@ -572,9 +572,9 @@ I found these guidelines to be appropriate given that they cohered with the sent
 
 Code. [note: 169] 
 
-78     Applying this framework, for reasons similar to C1, this case would fall within Band 2 and a sentence of five years’ imprisonment and six strokes of the cane was justified for C3. Whilst I was mindful of See J’s observation in _GBR_ , that the higher end of the Band 2 framework for a s 354(2) offence was apt for skin-to-skin contact (at [34]), taking into account the strong case for prospective overruling (see _Public Prosecutor v Hue An Li_ [2014] 4 SLR 661 at [126]–[131]), I declined to impose a sentence in the range of six years’ imprisonment for C3 because it would have been significantly higher than the typical cluster of 30 months’ imprisonment that had erstwhile existed for this offence. 
+78     Applying this framework, for reasons similar to C1, this case would fall within Band 2 and a sentence of five years’ imprisonment and six strokes of the cane was justified for C3. Whilst I was mindful of See J’s observation in _GBR_ , that the higher end of the Band 2 framework for a s 354(2) offence was apt for skin-to-skin contact (at [34]), taking into account the strong case for prospective overruling (see _Public Prosecutor v Hue An Li_ <span class="citation">[2014] 4 SLR 661</span> at [126]–[131]), I declined to impose a sentence in the range of six years’ imprisonment for C3 because it would have been significantly higher than the typical cluster of 30 months’ imprisonment that had erstwhile existed for this offence. 
 
-79     Under s 307(1) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed), two of the imprisonment terms in the present case had to run consecutively. In line with the totality principle and the onetransaction rule (see _Mohamed Shouffee bin Adam v Public Prosecutor_ [2014] 2 SLR 998 at [27]–[82]) 
+79     Under s 307(1) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed), two of the imprisonment terms in the present case had to run consecutively. In line with the totality principle and the onetransaction rule (see _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">[2014] 2 SLR 998</span> at [27]–[82]) 
 
 and as was common ground for both parties, [note: 170] I decided to run the imprisonment terms for C1 and C2 consecutively with effect from 4 October 2013, the date on which the accused was remanded. I ordered the imprisonment term for C3 to run concurrently with the other two imprisonment terms in C1 and C2. This resulted in the global sentence of 16 years’ imprisonment and 18 strokes of the cane. 
 

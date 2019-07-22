@@ -22,7 +22,7 @@
 
 _Tort_ – _Negligence_ – _Damages_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 125 of 2015 was allowed in part by the Court of Appeal on 14 July 2016. See [2016] SGCA 44.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 125 of 2015 was allowed in part by the Court of Appeal on 14 July 2016. See <span class="citation">[2016] SGCA 44</span>.] 
 
 19 May 2015 Judgment reserved. 
 

@@ -60,7 +60,7 @@ Mr. Arul pressed on with the review on the grounds that he work done was substan
 
 second bill, though undated, ought to cover at best, till end of December 1999. Hence, the bill of costs should be for work from January 2000 till February 2000 for which a sum of $10,000 would be more than adequate. 
 
-10\. I will first deal with a preliminary point. Parties were uncertain as to how a review of taxation before a judge in chambers ought to be heard. The Court of Appeal in _Tan Boon Hai (on behalf of himself and all other unsuccessful candidates in the Singapore Hainan Hwee Kuan 1999/ Management Committee Elections) v Lee Ah Fong_ [2002] 1 SLR 10 held that 
+10\. I will first deal with a preliminary point. Parties were uncertain as to how a review of taxation before a judge in chambers ought to be heard. The Court of Appeal in _Tan Boon Hai (on behalf of himself and all other unsuccessful candidates in the Singapore Hainan Hwee Kuan 1999/ Management Committee Elections) v Lee Ah Fong_ <span class="citation">[2002] 1 SLR 10</span> held that 
 
  "a judge on hearing an application for review of taxation of costs under O 59 r 36 hears the matter de novo, and is not fettered by the discretion exercised by the registrar in determining the quantum of any item in the bill under review by him. The judge is entitled to exercise the powers and discretion vested in him by the rules and make a completely fresh decision, among other things, substituting his own discretion for that of the registrar and awarding a different figure altogether in place of that awarded by the registrar. Of course, in this exercise the judge should give due weight to the registrar's decision on the quantum that was allowed". Ibid at page 24. 
 

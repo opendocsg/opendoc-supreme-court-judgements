@@ -206,15 +206,15 @@ _Dealing with discrepancies in the witnesses’ testimonies_
 
  If a witness demonstrably tells lies on one or two points then it is clear that he is not a reliable witness and as a matter of prudence the rest of his evidence must be scrutinized with great care and indeed with suspicion. To say, however, that because a witness has been proved a liar on one or two points then the whole of his evidence “must in law be rejected” is to go too far and is wrong. 
 
-36     These remarks were cited with approval by Yong Pung How CJ in _Osman Bin Ramli v Public Prosecutor_ [2002] 2 SLR(R) 959 at [30] as follows: 
+36     These remarks were cited with approval by Yong Pung How CJ in _Osman Bin Ramli v Public Prosecutor_ <span class="citation">[2002] 2 SLR(R) 959</span> at [30] as follows: 
 
- First, “innocent” discrepancies must be distinguished from deliberate lies. I have expressed the following opinion in Lewis Christine v PP [2001] 2 SLR(R) 131 at [19]: 
+ First, “innocent” discrepancies must be distinguished from deliberate lies. I have expressed the following opinion in Lewis Christine v PP <span class="citation">[2001] 2 SLR(R) 131</span> at [19]: 
 
  ... a flawed witness does not equate to an untruthful witness. The trial judge is entitled to determine which part of the witness's testimony remains credible despite its discrepancies. ... 
 
  Therefore, if the discrepancies are innocent, the judge is entitled to rely on those parts of the evidence which are untainted by the discrepancies. However, if the witness has deliberately lied to the court, it is clear that he is not a reliable witness and as a matter of prudence the rest of his evidence must be scrutinised with great care and indeed with suspicion. To say, however, that because a witness has been proved a liar on one or two points then the whole of his evidence “must in law be rejected” is to go too far and is wrong: per Thomson CJ in Khoon Chye Hin v PP [1961] MLJ 105 at 107. 
 
-37     Innocent discrepancies may also arise out of a lapse of time. Here, the direction of Yong CJ in _Public Prosecutor v Gan Lim Soon_ [1993] 2 SLR(R) 67 at [7] is relevant: 
+37     Innocent discrepancies may also arise out of a lapse of time. Here, the direction of Yong CJ in _Public Prosecutor v Gan Lim Soon_ <span class="citation">[1993] 2 SLR(R) 67</span> at [7] is relevant: 
 
  As with so many cases, where the lapse of time has caused memories to blur and fade, and result in throwing up many discrepancies in evidence, it is vitally important that courts do not lose sight of the wood for the trees. District judges and magistrates especially would be well advised to sit back sometimes, and decide what the essentials of the case are and in fact what the case is all about. ... 
 
@@ -775,7 +775,7 @@ _Conclusion on the Second Loan Agreement_
 the spouses”. [note: 114] For this proposition the defendant referred to _Ang Teng Siong v Lee Su Min_ 
 
 
-[2000] 1 SLR(R) 908 (“ _Ang Teng Siong_ ”), _ANZ v AOA_ [2014] SGHC 243, and _TSI v TSJ_ [2016] SGFC 91. These are matrimonial cases and in each of these cases, one of the spouses in the distribution of the matrimonial assets proceedings alleged that the parents gave the property solely to their child and not to both spouses. The court in those cases held that in the absence of clear and credible evidence to the contrary, a parent’s contribution towards the purchase of the child’s matrimonial home is presumed to be for the benefit of both spouses (see _Ang Teng Siong_ at [28]; _ANZ v AOA_ at [14]; _TSI v TSJ_ at [34]). I would note that since this presumption applies only to matrimonial assets and not investment properties, at its highest it would only apply to the Aspen Heights Property and not the Canne Lodge Property, and indeed the defendant’s counsel accepted as much during his oral submissions. 
+<span class="citation">[2000] 1 SLR(R) 908</span> (“ _Ang Teng Siong_ ”), _ANZ v AOA_ <span class="citation">[2014] SGHC 243</span>, and _TSI v TSJ_ [2016] SGFC 91. These are matrimonial cases and in each of these cases, one of the spouses in the distribution of the matrimonial assets proceedings alleged that the parents gave the property solely to their child and not to both spouses. The court in those cases held that in the absence of clear and credible evidence to the contrary, a parent’s contribution towards the purchase of the child’s matrimonial home is presumed to be for the benefit of both spouses (see _Ang Teng Siong_ at [28]; _ANZ v AOA_ at [14]; _TSI v TSJ_ at [34]). I would note that since this presumption applies only to matrimonial assets and not investment properties, at its highest it would only apply to the Aspen Heights Property and not the Canne Lodge Property, and indeed the defendant’s counsel accepted as much during his oral submissions. 
 
 100    This common law presumption does not assist the defendant’s case in relation to the Aspen Heights Property for two reasons. First, the central issue in this case is not about whether the plaintiffs gave the monies to DW2 solely or to the defendant and DW2 jointly for the purchase of the Aspen Heights Property as their matrimonial home. Rather, the pivotal issue in this case pertains to whether the sums in question were loans or gifts. Hence, the presumption does not apply. Second, for the reasons I have given above, I have found that the $300,000 was a loan. Therefore, the presumption is not relevant in this case. 
 

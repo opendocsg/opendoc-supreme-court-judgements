@@ -18,7 +18,7 @@ _Partnership_
 
 _Legal Profession_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2009] 4 SLR(R) 1062 .] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2009] 4 SLR(R) 1062</span> .] 
 
 28 June 2010 Judgment reserved. 
 
@@ -26,7 +26,7 @@ _Legal Profession_
 
 **Introduction** 
 
-1       Civil Appeal No 124 of 2009 (“CA 124”) which is brought by Lim Hsi-Wei Marc (“ML”) and Civil Appeal No 127 of 2009 (“CA 127”) which is brought by Orix Capital Limited (“Orix”) arise from the decision of a High Court judge (“the Judge”) in _Orix Capital Ltd v Personal Representative(s) of the Estate of Lim Chor Pee (deceased) and others_ [2009] 4 SLR(R) 1062 (“the HC Judgment”). 
+1       Civil Appeal No 124 of 2009 (“CA 124”) which is brought by Lim Hsi-Wei Marc (“ML”) and Civil Appeal No 127 of 2009 (“CA 127”) which is brought by Orix Capital Limited (“Orix”) arise from the decision of a High Court judge (“the Judge”) in _Orix Capital Ltd v Personal Representative(s) of the Estate of Lim Chor Pee (deceased) and others_ <span class="citation">[2009] 4 SLR(R) 1062</span> (“the HC Judgment”). 
 
 2       The appeals raise knotty issues with respect to the authority of a partner or sole proprietor to bind his salaried partners, and the extent to which a retired salaried partner may continue to be held responsible for liabilities of a firm. More specifically, an issue arises as to whether a partner or sole proprietor of a law firm has the apparent authority to bind his salaried partners when he borrows a substantial amount of money not just to finance the lease of office equipment but largely for the purpose of easing the firm’s cash flow problems. In the course of determining these issues, we would also have to consider what acts are within the course of the usual business of a law firm. 
 
@@ -366,7 +366,7 @@ However, whether a transaction is “an act for carrying on in the usual way” 
 
 The second and third inquiries are but constituent parts of the second element referred to by Chadwick LJ. 
 
-35     The inquiries above are clearly questions of fact and law. In _Lim Kok Koon v Tan Cheng Yew and another_ [2004] 3 SLR(R) 111 at [34], it was correctly observed: 
+35     The inquiries above are clearly questions of fact and law. In _Lim Kok Koon v Tan Cheng Yew and another_ <span class="citation">[2004] 3 SLR(R) 111</span> at [34], it was correctly observed: 
 
  [W]hether a particular act is done “in the ordinary course of business” of the partnership, is a question of law. If the act is legally capable of being performed within the ordinary course of the partnership business, the next question of whether the act was so performed was a question of fact. 
 
@@ -398,7 +398,7 @@ trading firm involved in the buying and selling of goods require constant invent
 
 42     In relation to the services provided by a law firm, it is generally unusual for a partner to accept an appointment as a trustee (or act as to make himself a constructive trustee) (see _Re Bell’s Indenture_ [1980] 3 All ER 425 at 437). It is also unusual for him to give guarantees, even though the giving of investment advice may in special circumstances be part of the firm’s business (see _Polkinghorne v Holland and Another_ (1934) 51 CLR 143). _Neither is it generally usual for a partner to compromise a debt owing to the firm without receiving payment (see_ Lindley _at para 12-62). As a corollary, it must follow that it is not usual for a partner to settle or compromise a claim that may prejudice his other partners_. Furthermore, while undertakings can also fall within the ambit of a law firm’s business (see _United Bank of Kuwait_ at 1059 and 1063–1064), a mere assurance by a solicitor that his undertaking is given in the usual course of business is not sufficient to bind his partners where, on an objective view, the undertaking had not been given in relation to an underlying transaction of a kind which was part of the usual business of a solicitor (see _Hirst_ at 945). 
 
-43     The party seeking to make the partners of the firm liable under the second limb of s 5 of the PA bears the onus of showing, as a matter of fact, that the act is usual in relation to the kind of business carried on by the firm. However, once a certain act is established as a typical activity of the kind of business carried on by the partnership (such as by reference to the categories above), the burden will then fall on the party asserting otherwise to show that the act is unusual in nature (see _Yeo_ at pp 110–111). Thus, in _Lek Peng Lung v Lee Investments (Pte) Ltd and others_ [1991] 2 SLR(R) 635 at [30]–[31], Warren L H Khoo J took cognisance of the fact that the loan business was a common activity of pawnbrokers before 1989 and the defendants were not able to escape liability by a bare allegation that the particular partner had not been given the authority to undertake that activity. 
+43     The party seeking to make the partners of the firm liable under the second limb of s 5 of the PA bears the onus of showing, as a matter of fact, that the act is usual in relation to the kind of business carried on by the firm. However, once a certain act is established as a typical activity of the kind of business carried on by the partnership (such as by reference to the categories above), the burden will then fall on the party asserting otherwise to show that the act is unusual in nature (see _Yeo_ at pp 110–111). Thus, in _Lek Peng Lung v Lee Investments (Pte) Ltd and others_ <span class="citation">[1991] 2 SLR(R) 635</span> at [30]–[31], Warren L H Khoo J took cognisance of the fact that the loan business was a common activity of pawnbrokers before 1989 and the defendants were not able to escape liability by a bare allegation that the particular partner had not been given the authority to undertake that activity. 
 
 _(B) The manner of the act carried out by the partner_ 
 

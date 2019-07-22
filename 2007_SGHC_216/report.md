@@ -53,7 +53,7 @@ _Land_ – _Strata titles_ – _Strata titles board_ – _Appeal to High Court o
 
 8       It was essential that the Board’s alleged error was one of law because s 98(1) of the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004) (“BMSMA”) provides that no appeal shall lie to the High Court against an order of the Board except on a point of law. 
 
-9       Counsel for the defendants contended that the grounds of appeal set out in the originating summons herein did not disclose any question of law. She cited _Northern Elevator Manufacturing Sdn Bhd v United Engineers (Singapore) Pte Ltd (No 2)_ [2004] 2 SLR 494 (“ _Northern Elevato_ r”) where the Court of Appeal considered the meaning of the expression “question of law” in s 28(2) of the Arbitration Act (Cap 10, 1985 Rev Ed) which read: 
+9       Counsel for the defendants contended that the grounds of appeal set out in the originating summons herein did not disclose any question of law. She cited _Northern Elevator Manufacturing Sdn Bhd v United Engineers (Singapore) Pte Ltd (No 2)_ <span class="citation">[2004] 2 SLR 494</span> (“ _Northern Elevato_ r”) where the Court of Appeal considered the meaning of the expression “question of law” in s 28(2) of the Arbitration Act (Cap 10, 1985 Rev Ed) which read: 
 
  Subject to subsection (3), an appeal shall lie to the court on any question of law arising out of an award made on an arbitration agreement ... 
 
@@ -61,11 +61,11 @@ The court then ruled at [19] that
 
  ... [A] question of law must necessarily be a finding of law which the parties dispute, that requires the guidance of the court to resolve. When an arbitrator does not apply a principle of law correctly, that failure is a mere “error of law” (but more explicitly, an erroneous application of law) which does not entitle an aggrieved party to appeal. 
 
-10     The Court of Appeal, in arriving at the above ruling, cited with approval the following statement by GP Selvam JC in _Ahong Construction (S) Pte Ltd v United Boulevard Pte Ltd_ [2000] 1 SLR 749 (“ _Ahong Construction_ ”) at [7]: 
+10     The Court of Appeal, in arriving at the above ruling, cited with approval the following statement by GP Selvam JC in _Ahong Construction (S) Pte Ltd v United Boulevard Pte Ltd_ <span class="citation">[2000] 1 SLR 749</span> (“ _Ahong Construction_ ”) at [7]: 
 
  A question of law means a point of law in controversy which has to be resolved after opposing views and arguments have been considered. It is [a] matter of substance the determination of which will decide the rights between the parties. The point of law must substantially affect the rights of one or more of the parties to the arbitration. If the point of law is settled and not something novel and it is contended that the arbitrator made an error in the application of the law there lies no appeal against that error for there is no question of law which calls for an opinion of the court. 
 
-11     Counsel for the plaintiff, however, cited an earlier decision by Selvam JC in _MC Strata Title No 958 v Tay Soo Seng_ [1993] 1 SLR 870 (“ _Tay Soo Seng_ ”), a case involving an appeal from a decision of the Board as in the present case where the learned judicial commissioner considered the then s 108(1) of the Land Titles (Strata) Act (Cap 158, 1988 Rev Ed) which read as follows: 
+11     Counsel for the plaintiff, however, cited an earlier decision by Selvam JC in _MC Strata Title No 958 v Tay Soo Seng_ <span class="citation">[1993] 1 SLR 870</span> (“ _Tay Soo Seng_ ”), a case involving an appeal from a decision of the Board as in the present case where the learned judicial commissioner considered the then s 108(1) of the Land Titles (Strata) Act (Cap 158, 1988 Rev Ed) which read as follows: 
 
  No appeal shall lie to the High Court against an order made by a Board except on a point of law. 
 
@@ -76,7 +76,7 @@ Selvam JC quoted with approval the following statement in _Halsbury’s Laws of 
 
  Errors of law include misinterpretation of a statute or any other legal document or a rule of common law; asking oneself and answering the wrong question, taking irrelevant considerations into account or failing to take relevant considerations into account when purporting to apply the law to the facts; admitting inadmissible evidence or rejecting admissible and relevant evidence; exercising a discretion on the basis of incorrect legal principles; giving reasons which disclose faulty legal reasoning or which are inadequate to fulfil an express duty to give reasons; and misdirecting oneself as to the burden of proof. 
 
-This apparent inconsistency was considered in [15] to [27] of my recent decision in _Ng Swee Lang v Sassoon Samuel Bernard_ [2007] SGHC 190. In the interest of expedition, I shall merely refer to the conclusion reached, _viz_ : 
+This apparent inconsistency was considered in [15] to [27] of my recent decision in _Ng Swee Lang v Sassoon Samuel Bernard_ <span class="citation">[2007] SGHC 190</span>. In the interest of expedition, I shall merely refer to the conclusion reached, _viz_ : 
 
  (a) that the Court of Appeal’s ruling in Northern Elevator ([9] supra ) and that of Selvam JC in Ahong Construction ([10] supra ) were given in the context of an application for leave to appeal from an arbitral award and must be understood in that context; and 
 
@@ -113,7 +113,7 @@ This apparent inconsistency was considered in [15] to [27] of my recent decision
 
  A thing is deemed to be done in good faith within the meaning of this Act when it is in fact done honestly, whether it is done negligently or not. 
 
-20     In _Medforth v Blake_ [1999] 3 WLR 922 which was quoted with approval in _Roberto Building Material Pte Ltd v Oversea-Chinese Banking Corp Ltd_ [2003] 2 SLR 237, Sir Richard Scott said at 937– 938: 
+20     In _Medforth v Blake_ [1999] 3 WLR 922 which was quoted with approval in _Roberto Building Material Pte Ltd v Oversea-Chinese Banking Corp Ltd_ <span class="citation">[2003] 2 SLR 237</span>, Sir Richard Scott said at 937– 938: 
 
 
  I do not think that the concept of good faith should be diluted by treating it as capable of being breached by conduct that is not dishonest or otherwise tainted by bad faith. It is sometimes said that recklessness is equivalent to intent. Shutting one’s eyes deliberately to the consequences of what one is doing may make it impossible to deny an intention to bring about those consequences. Thereapart, however, the concepts of negligence on the one hand and fraud or bad faith on the other ought, in my view, to be kept strictly apart. Equity has not always done so. The equitable doctrine of “fraud on a power” has little, if anything, to do with fraud. Lord Herschell in Kennedy v De Trafford [1897] AC 180 gave an explanation of a lack of good faith that would have allowed conduct that was grossly negligent to have qualified notwithstanding that the consequences of the conduct were not intended. In my judgment, the breach of a duty of good faith should, in this area as in all others, require some dishonesty or improper motive, some element of bad faith, to be established. 

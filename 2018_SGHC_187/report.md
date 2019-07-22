@@ -88,7 +88,7 @@ Risk No 2 was relevant to this Application. The sum insured for Risk No 2 was S$
 
 the Warehouse for which the customers had bought separate insurance. Further and/or in the alternative, DNKH took the position that Risk No 2 was ambiguous when read in the context of the Fire Policy and should thus be interpreted in DNKH’s favour. 
 
-10     DNKH relied on _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 (“ _Zurich Insurance_ ”) for the proposition that the construction of a contract must be based on an holistic approach and must be informed by the surrounding circumstances or external context (at [131]). In relation to its primary contention, DNKH first highlighted that the following provision in the Fire Policy clearly showed that the Fire Policy was intended to cover DNKH’s legal liability for destruction or damage of its customers’ goods/stocks (“Customer’s Goods clause”): [note: 3] 
+10     DNKH relied on _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> (“ _Zurich Insurance_ ”) for the proposition that the construction of a contract must be based on an holistic approach and must be informed by the surrounding circumstances or external context (at [131]). In relation to its primary contention, DNKH first highlighted that the following provision in the Fire Policy clearly showed that the Fire Policy was intended to cover DNKH’s legal liability for destruction or damage of its customers’ goods/stocks (“Customer’s Goods clause”): [note: 3] 
 
 ## CUSTOMER’S GOODS 
 
@@ -183,7 +183,7 @@ insurers, Zurich Insurance (Singapore) Pte Ltd, based on an insurance policy bet
 
  16. No action or other proceeding shall be open to objection on the ground that a merely declaratory judgment or order is sought thereby, and the Court may make binding declarations of right whether or not any consequential relief is or could be claimed. 
 
-22     The Court of Appeal in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd and another appeal_ [2006] 1 SLR(R) 112 , in approving of _Salijah bte Ab Latef v Mohd Irwan bin Abdullah Teo_ [1996] 2 SLR(R) 80 (“ _Salijah_ ”), set out at [14] the following requirements that must be satisfied before the court grants declaratory relief: 
+22     The Court of Appeal in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd and another appeal_ <span class="citation">[2006] 1 SLR(R) 112</span> , in approving of _Salijah bte Ab Latef v Mohd Irwan bin Abdullah Teo_ <span class="citation">[1996] 2 SLR(R) 80</span> (“ _Salijah_ ”), set out at [14] the following requirements that must be satisfied before the court grants declaratory relief: 
 
  (a) the court must have the jurisdiction and power to award the remedy; 
 
@@ -197,7 +197,7 @@ insurers, Zurich Insurance (Singapore) Pte Ltd, based on an insurance policy bet
 
  (f) there must be some ambiguity or uncertainty about the issue in respect of which the declaration is asked for so that the court’s determination would have the effect of laying such doubts to rest. 
 
-23     These principles were further distilled by the Court of Appeal in _Tan Eng Hong v AttorneyGeneral_ [2012] 4 SLR 476 to the following three basic propositions (at [72]), which were followed in _Vellama d/o Marie Muthu v Attorney-General_ [2013] 4 SLR 1 (“ _Vellama_ ”) at [16]: 
+23     These principles were further distilled by the Court of Appeal in _Tan Eng Hong v AttorneyGeneral_ <span class="citation">[2012] 4 SLR 476</span> to the following three basic propositions (at [72]), which were followed in _Vellama d/o Marie Muthu v Attorney-General_ <span class="citation">[2013] 4 SLR 1</span> (“ _Vellama_ ”) at [16]: 
 
  (a) the applicant must have a “real interest” in bringing the action (at [19]); 
 

@@ -115,7 +115,7 @@ World and Kallang. Nobes explained that the Gay World and Kallang plants were pr
 
 21     The defendant’s position was that the non-exclusive nature of the contract allowed the plaintiff to engage alternative suppliers at its own expense to supply concrete when the defendant failed to supply as and when required by the plaintiff. As long as the plaintiff obtained 70,000 m³ of concrete from the defendant by the end of the contract period, the defendant was not in breach. In addition the defendant submitted, “supply by the defendant, under the contract, was subject to any scheduling clashes between the plaintiff’s orders and those from the defendant’s other customers.”(NE 78). 
 
-22     In _Nam Kee Asphalt Pte Ltd v Chew Eu Hock Construction Co Pte Ltd_ [2000] SGHC 45, the aggregates contract contained the following terms: 
+22     In _Nam Kee Asphalt Pte Ltd v Chew Eu Hock Construction Co Pte Ltd_ <span class="citation">[2000] SGHC 45</span>, the aggregates contract contained the following terms: 
 
  (a) the Defendants must purchase at least 40,000 tonnes of graded aggregates from the Plaintiffs [the plaintiffs alleged that this was "the minimum quantity clause"]; and 
 
@@ -134,7 +134,7 @@ World and Kallang. Nobes explained that the Gay World and Kallang plants were pr
 
 supply by the defendant at the expense of its other customers. A project plant was not specifically set up to supply the plaintiff with concrete for the project. The defendant fulfilled orders on a “first come first served” basis. This negated the existence of an exclusive contract. Moreover, the plaintiff was at liberty to use Pan United even at times when the defendant was able to supply the concrete. 
 
-26     Consequently, I find that the plaintiff and the defendant did not agree to enter into an exclusive contract. The contract merely stated that the plaintiff had to order 70,000 m³ of the concrete from the defendant within the contract period; the plaintiff was not precluded from ordering more concrete from other suppliers. When Yew stated that the defendant was the sole supplier [11], it meant that the defendant was the sole supplier for up to 70,000 m³ of the concrete for the project. As long as the plaintiff ordered 70,000 m³ of concrete from the defendant during the contract period and the defendant supplied such an amount, both parties fulfilled their contractual obligations. My interpretation of the contract is consistent with the Court of Appeal decision in _Turner (East Asia) Pte Ltd v Pioneer Concrete (Singapore) Pte Ltd_ [1994] 3 SLR 735, a case relied on by both parties in their submissions. In its final submissions [79.12] however, the defendant attempted to make a claim against the plaintiff for the difference between the contract quantity (70,000.m³) and what it actually took (53,473.50 m³) from the defendant, amounting to $320,841, at $6.00 per m³. This claim is without merit in the light of my finding, and was not pleaded in any case. 
+26     Consequently, I find that the plaintiff and the defendant did not agree to enter into an exclusive contract. The contract merely stated that the plaintiff had to order 70,000 m³ of the concrete from the defendant within the contract period; the plaintiff was not precluded from ordering more concrete from other suppliers. When Yew stated that the defendant was the sole supplier [11], it meant that the defendant was the sole supplier for up to 70,000 m³ of the concrete for the project. As long as the plaintiff ordered 70,000 m³ of concrete from the defendant during the contract period and the defendant supplied such an amount, both parties fulfilled their contractual obligations. My interpretation of the contract is consistent with the Court of Appeal decision in _Turner (East Asia) Pte Ltd v Pioneer Concrete (Singapore) Pte Ltd_ <span class="citation">[1994] 3 SLR 735</span>, a case relied on by both parties in their submissions. In its final submissions [79.12] however, the defendant attempted to make a claim against the plaintiff for the difference between the contract quantity (70,000.m³) and what it actually took (53,473.50 m³) from the defendant, amounting to $320,841, at $6.00 per m³. This claim is without merit in the light of my finding, and was not pleaded in any case. 
 
 **_Would the failure of the cube test allow the plaintiff to claim for the price differential from an alternative supplier although the plaintiff did not terminate the contract?_** 
 
@@ -213,13 +213,13 @@ while cl 8 says:
 
 **_Was the price differential a ‘direct cost’ covered under clause 8 of the plaintiff’s letter of intent or, a consequential cost under cl D of Appendix 1A of the defendants’ revised quotation?_** 
 
-47     A recent case that examined the definitions of direct and consequential loss was _Singapore Telecommunications Ltd v Starhub Cable Vision Ltd_ [2006] 2 SLR 195, a case cited by the defendant. In that case, Article 8.5(a) of the agreement in question read: 
+47     A recent case that examined the definitions of direct and consequential loss was _Singapore Telecommunications Ltd v Starhub Cable Vision Ltd_ <span class="citation">[2006] 2 SLR 195</span>, a case cited by the defendant. In that case, Article 8.5(a) of the agreement in question read: 
 
  Notwithstanding any other provisions of this Agreement and regardless of any fault or negligence of [SCV] or [SingTel], neither Party shall be liable to the other for any indirect, incidental, consequential, or special damages (including, without limitation, damages for harm to business, lost revenues, or lost profits) regardless of the form of action or whether such Party had reason to know of such damages... [emphasis added] 
 
 48     The Court of Appeal observed (at [52]): 
 
- The focus on the purpose of the contract and the circumstances in which it was made is particularly apt where exemption clauses are concerned. The general rule should be applied that if a party otherwise liable is to exclude or limit his liability or to rely on an exemption, he must do so in clear words; any ambiguity or lack of clarity must be resolved against that party: per Lord Hobhouse in Homburg Houtimport BV v Agrosin Private Ltd [2004] 1 AC 715 at [144]. The principle that exemption clauses must be construed strictly entails, as this court held in Hong Realty (Pte) Ltd v Chua Keng Mong [1994] 3 SLR 819 (“ Hong Realty ”) at 825, [19], that the application of such clauses must be restricted to the particular circumstances the parties had in mind at the time they entered into the contract. [original emphasis added] 
+ The focus on the purpose of the contract and the circumstances in which it was made is particularly apt where exemption clauses are concerned. The general rule should be applied that if a party otherwise liable is to exclude or limit his liability or to rely on an exemption, he must do so in clear words; any ambiguity or lack of clarity must be resolved against that party: per Lord Hobhouse in Homburg Houtimport BV v Agrosin Private Ltd [2004] 1 AC 715 at [144]. The principle that exemption clauses must be construed strictly entails, as this court held in Hong Realty (Pte) Ltd v Chua Keng Mong <span class="citation">[1994] 3 SLR 819</span> (“ Hong Realty ”) at 825, [19], that the application of such clauses must be restricted to the particular circumstances the parties had in mind at the time they entered into the contract. [original emphasis added] 
 
 49     Although the Court of Appeal held that Article 8.5(a) did not apply because it would be astonishing to attribute to the parties an intention to exclude a liability for tapping, a subject matter which the parties did not consider, the principles relating to direct and consequential loss are equally 
 
@@ -230,7 +230,7 @@ applicable here. The Court of Appeal found (at [59]):
 
  ‘Consequential’ damage or loss usually refers to pecuniary loss consequent on physical damage, such as loss of profit sustained due to fire damage in a factory. ... When used in an exemption clause in a contract, ‘consequential’ refers to damage which is only recoverable under the second head in Hadley v Baxendale , and does not preclude recovery of loss of profits under the first head in that case. 
 
-50     The threshold for the defendant to be liable to the plaintiff for direct loss is imputed knowledge. In _CHS CPO GmbH (in bankruptcy) and Another v Vikas Goel and Others_ [2005] 3 SLR 202, Andrew Phang Boon Leong JC (as he then was) observed at [82]: 
+50     The threshold for the defendant to be liable to the plaintiff for direct loss is imputed knowledge. In _CHS CPO GmbH (in bankruptcy) and Another v Vikas Goel and Others_ <span class="citation">[2005] 3 SLR 202</span>, Andrew Phang Boon Leong JC (as he then was) observed at [82]: 
 
  ...What is of vital legal significance is that in so far as such “natural” or “ordinary” damage is concerned, there is no need for the plaintiff to prove actual knowledge on the part of the defendant: the defendant (in this particular case, the plaintiffs) must be taken to know (under the concept of imputed knowledge) that such damage would ordinarily ensue as a result of the breach of contract concerned. [original emphasis added] 
 
@@ -253,7 +253,7 @@ Andrew Phang JA in _CHS CPO GmbH (in bankruptcy) and Another v Vikas Goel and Ot
 
  [T]he test appears to be: have the facts in question come to the defendant’s knowledge in such circumstances that a reasonable person in the shoes of the defendant would, if he had considered the matter at the time of the making of the contract, have contemplated that, in the event of a breach by him, such facts were to be taken into account when considering his responsibility for loss suffered by the plaintiff as a result of such breach. The answer to that question may vary from case to case ... [emphasis added] 
 
-55     Further, the judge (at [84]) quoted Lai Kew Chai J in _Teck Tai Hardware (S) Pte Ltd v Corten Furniture Pte Ltd_ [1998] 2 SLR 244 at [17]): 
+55     Further, the judge (at [84]) quoted Lai Kew Chai J in _Teck Tai Hardware (S) Pte Ltd v Corten Furniture Pte Ltd_ <span class="citation">[1998] 2 SLR 244</span> at [17]): 
 
  The second rule [ ie , the second limb in Hadley v Baxendale , as to which see [81] above] caters for the situation where the contract breaker knows or ought in certain circumstances to have known more than what every reasonable man is presumed to know. If his contracting party tells him something outside the ordinary course of things before or at the time the contract is made, the second rule would apply. 
 
@@ -358,7 +358,7 @@ aggregates and its own cement plant to supply concrete.
 
 76     Clause 3 of the defendants’ revised quotation and cl J of Appendix 1A of the defendants’ revised quotation set out earlier [60] dealt with instances of force majeure. 
 
-77     Since cll 3 and J are not in conflict, there is no necessity to decide which clause should prevail. In any event, “[i]n construction, all parts of a document must be given effect (see _Lewison on Interpretation of Contract_ paras 6.03, 6.06 and 6.07 and _Lim Kim Yiang and Another v Foo Suan Seng and Others_ [1992] 1 SLR 573 at [9]. It would seem that cl 3 dovetailed with cl J. The effect of the two clauses is that the defendant’s duty to supply concrete was suspended in the event of force majeure; it would not be liable for non-supply due to the triggering event. 
+77     Since cll 3 and J are not in conflict, there is no necessity to decide which clause should prevail. In any event, “[i]n construction, all parts of a document must be given effect (see _Lewison on Interpretation of Contract_ paras 6.03, 6.06 and 6.07 and _Lim Kim Yiang and Another v Foo Suan Seng and Others_ <span class="citation">[1992] 1 SLR 573</span> at [9]. It would seem that cl 3 dovetailed with cl J. The effect of the two clauses is that the defendant’s duty to supply concrete was suspended in the event of force majeure; it would not be liable for non-supply due to the triggering event. 
 
 78     The Privy Council in _Hong Guan & Co Ltd v R Jumabhoy & Sons Ltd_ [1960] MLJ 141 observed: 
 
@@ -433,7 +433,7 @@ _The decision_
 
 97     Yew testified he was not told that the Gay World and Kallang plants were project batching plants set up to support specific projects (NE 79). In re-examination, Yew clarified that the basis of his disagreement that “the supply by the defendant is subject to scheduling clashes with their other customers” was the fact that “we were told that they have enough plants, even better plants, to cater to out needs.”(NE 105) 
 
-98     I find that the defendant is estopped from arguing plant breakdown to avoid liability. “It is settled law that for a person to successfully raise the defence of estoppel by representation, three elements must be satisfied, namely, representation, reliance and detriment”: _United Overseas Bank Ltd v Bank of China_ [2006] 1 SLR 57at [18]. These three elements were satisfied in our case. The defendant had made representations to the plaintiff which the plaintiff had relied on to its detriment. 
+98     I find that the defendant is estopped from arguing plant breakdown to avoid liability. “It is settled law that for a person to successfully raise the defence of estoppel by representation, three elements must be satisfied, namely, representation, reliance and detriment”: _United Overseas Bank Ltd v Bank of China_ <span class="citation">[2006] 1 SLR 57</span>at [18]. These three elements were satisfied in our case. The defendant had made representations to the plaintiff which the plaintiff had relied on to its detriment. 
 
 99     Moreover, the LTA left it open to the defendant to make a request if it needed to use its other plants. A letter dated 17 November 2004 from Cheong Yew Seng, LTA’s project manager to Yew said as much: 
 

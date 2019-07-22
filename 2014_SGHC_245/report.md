@@ -415,7 +415,7 @@ the Guarantee and the Undertaking. [note: 23]
 
 72     In examining this issue, apart from considering evidence as to whether the Representations were made, the court will also consider the commercial reality of the situation as alleged by Mr Chan ( _ie_ , the “motive” argument described at [91] below) and whether it is conceivable that a lender would have made a representation that it would not enforce the personal guarantee. 
 
-73     As fraudulent misrepresentation is alleged, Mr Huang has to show that the Bank either made the Representations without any honest belief that they were true, or made the Representations recklessly or carelessly without regard to whether they were true or false. For completeness, the elements of fraudulent misrepresentation as stated by the Court of Appeal in _Panatron Pte Ltd and another v Lee Cheow Lee and another_ [2001] 2 SLR(R) 435 at [14] are: 
+73     As fraudulent misrepresentation is alleged, Mr Huang has to show that the Bank either made the Representations without any honest belief that they were true, or made the Representations recklessly or carelessly without regard to whether they were true or false. For completeness, the elements of fraudulent misrepresentation as stated by the Court of Appeal in _Panatron Pte Ltd and another v Lee Cheow Lee and another_ <span class="citation">[2001] 2 SLR(R) 435</span> at [14] are: 
 
  ... First, there must be a representation of fact made by the defendant by words or conduct. 
 
@@ -424,7 +424,7 @@ the Guarantee and the Undertaking. [note: 23]
 
 74     The Bank denied making the Representations. Its case was that it was entitled to recover from Mr Huang the debts of the Borrower under the terms of the Guarantee and the Undertaking. 
 
-75     Mr Huang’s misrepresentation allegations may be trimmed to essentially one all-encompassing allegation in the form of Representation 2. Even if such a representation had indeed been made, it would have had to be made fraudulently in order for Mr Huang to succeed on his misrepresentation defence. The burden of proof on Mr Huang in this regard is onerous, even on the balance of probabilities (see _Wu Yang Construction Group Ltd v Zhejiang Jinyi Group Co Ltd and others_ [2006] 4 SLR(R) 451 at [94]). 
+75     Mr Huang’s misrepresentation allegations may be trimmed to essentially one all-encompassing allegation in the form of Representation 2. Even if such a representation had indeed been made, it would have had to be made fraudulently in order for Mr Huang to succeed on his misrepresentation defence. The burden of proof on Mr Huang in this regard is onerous, even on the balance of probabilities (see _Wu Yang Construction Group Ltd v Zhejiang Jinyi Group Co Ltd and others_ <span class="citation">[2006] 4 SLR(R) 451</span> at [94]). 
 
 76     I should also point out that by the end of the trial, Mr Huang appeared to be relying on a variant of Representation 2 namely, that the Bank would not call on and enforce the Guarantee _under normal circumstances_ (“Meaning A”). 
 
@@ -545,7 +545,7 @@ contrived. [note: 30] Having surmised that the Bank would enforce the Guarantee 
 to be a representation of a material fact. It is trite law that to constitute a representation, a 
 
 
-statement must relate to a matter of fact (see _Bestland Development Pte Ltd v Thasin Development Pte Ltd_ [1991] SGHC 27). Furthermore, since the representation made in Meaning A is too vague, it is not possible for Mr Huang to prove that the Bank intended Meaning A to be understood in a sense which it knew to be false. Put another way, it is clear that Mr Huang failed to prove that the representation made in the form of Meaning A was false. 
+statement must relate to a matter of fact (see _Bestland Development Pte Ltd v Thasin Development Pte Ltd_ <span class="citation">[1991] SGHC 27</span>). Furthermore, since the representation made in Meaning A is too vague, it is not possible for Mr Huang to prove that the Bank intended Meaning A to be understood in a sense which it knew to be false. Put another way, it is clear that Mr Huang failed to prove that the representation made in the form of Meaning A was false. 
 
 87     Mr Kumar’s second point was the alleged pressure that was placed on Mr Huang to give a personal guarantee made no sense if such pressure was intended to coerce him into giving a personal guarantee that was not going to be enforced. I completely agree with Mr Kumar’s rhetorical question: [note: 32] 
 
@@ -644,7 +644,7 @@ commence from January 2011. Clause 5 of the 2011 Facility Letter provided as fol
 
 106    The Bank’s claim against Mr Huang for breach of the Undertaking is on the basis that he had failed, neglected and refused to: (a) procure the Borrower’s timely repayment of the sums due under the 2008 Loan Facility (as amended by the 1SFA and the 2SFA); and/or (b) perform the Borrower’s obligations thereunder. Mr Huang did not dispute that he signed the Undertaking. It follows that the signature on the face of the document must _prima facie_ be taken to have the intended effect on the signatory. 
 
-107    Besides, the Undertaking was part of a commercial transaction and the language of the Undertaking sought to create legally binding obligations between the Bank and Mr Huang. In cases involving commercial transactions, the parties are presumed to have intended to create legal relations and the burden of proof lies on Mr Huang to show the contrary (see _Hongkong & Shanghai Banking Corp Ltd v Jurong Engineering Ltd and others_ [2000] 1 SLR(R) 204 at [43]). 
+107    Besides, the Undertaking was part of a commercial transaction and the language of the Undertaking sought to create legally binding obligations between the Bank and Mr Huang. In cases involving commercial transactions, the parties are presumed to have intended to create legal relations and the burden of proof lies on Mr Huang to show the contrary (see _Hongkong & Shanghai Banking Corp Ltd v Jurong Engineering Ltd and others_ <span class="citation">[2000] 1 SLR(R) 204</span> at [43]). 
 
 108    In this case, the Undertaking was one of the legal documentation required by the 2011 Facility Letter which was sent to Mr Huang for his execution. In other words, the Undertaking was part of the amendment or variation of the 2008 Loan Facility (as amended by the 1SFA). By the terms of the Undertaking, Mr Huang acknowledged that: (a) the Undertaking was given in consideration of such amendment or variation of the 1SFA; and (b) he was rendering himself legally obliged to perform the Borrower’s obligations to the Bank. 
 

@@ -16,7 +16,7 @@
 
 _Criminal Law_ 
 
-[LawNet Editorial Note: In the appeal to this decision in Criminal Appeal No 18 of 2010, the first appellant's appeal was dismissed and the second appellant's appeal was allowed by the Court of Appeal on 24 May 2011. See [2011] SGCA 24.] 
+[LawNet Editorial Note: In the appeal to this decision in Criminal Appeal No 18 of 2010, the first appellant's appeal was dismissed and the second appellant's appeal was allowed by the Court of Appeal on 24 May 2011. See <span class="citation">[2011] SGCA 24</span>.] 
 
 30 July 2010 Judgment reserved. 
 
@@ -303,7 +303,7 @@ and he had not satisfied conditions (a) or (b).
 
 **_Whether Galing and Jabing had the necessary common intention under s 34 of the Penal Code_** 
 
-59     The law relating to common intention and s 34 was thoroughly reviewed by the Court of Appeal in _Lee Chez Kee v PP_ [2008] 3 SLR(R) 447. In the leading judgment, V K Rajah JA concluded in the 
+59     The law relating to common intention and s 34 was thoroughly reviewed by the Court of Appeal in _Lee Chez Kee v PP_ <span class="citation">[2008] 3 SLR(R) 447</span>. In the leading judgment, V K Rajah JA concluded in the 
 
 
 “Summary of the correct interpretation of section 34 of the Penal Code” that: 
@@ -353,7 +353,7 @@ and at [16] that:
 
  The question is not whether the prisoner intended to inflict a serious injury or a trivial one but whether he intended to inflict the injury that is proved to be present. If he can show that he did not, or if the totality of the circumstances justify such an inference, then, of course, the intent that the section requires is not proved. But if there is nothing beyond the injury and the fact that the appellant inflicted it, the only possible inference is that he intended to inflict it. Whether he knew of its seriousness or intended serious consequences, is neither here nor there. The question, so far as the intention is concerned, is not whether he intended to kill, or to inflict an injury of a particular degree of seriousness but whether he intended to inflict the injury in question; and once the existence of the injury is proved the intention to cause it will be presumed unless the evidence or the circumstances warrant an opposite conclusion. 
 
-His analysis has been affirmed and applied by our Court of Appeal in a succession of cases, the most recent being _PP v Lim Poh Lye_ [2005] 4 SLR(R) 582. 
+His analysis has been affirmed and applied by our Court of Appeal in a succession of cases, the most recent being _PP v Lim Poh Lye_ <span class="citation">[2005] 4 SLR(R) 582</span>. 
 
 62     Jabing had struck the deceased on the head in order to rob him. Jabing held the branch in both 
 

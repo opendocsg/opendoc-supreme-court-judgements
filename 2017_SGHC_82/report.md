@@ -137,7 +137,7 @@ discussing whether the Conspiracy Claim is made out on the facts.
 
 **_The law_** 
 
-16     The law on the tort of conspiracy by unlawful means is clear. The leading authority is the Court of Appeal decision in _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd_ [2014] 1 SLR 860 (“ _EFT Holdings_ ”), which was also recently affirmed by the Court of Appeal in _Simgood Pte Ltd v MLC Barging Pte Ltd and others_ [2016] SGCA 46 (“ _Simgood_ ”) at [13]. To establish this tort, the Plaintiff must show that ( _EFT Holdings_ at [112]): 
+16     The law on the tort of conspiracy by unlawful means is clear. The leading authority is the Court of Appeal decision in _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd_ <span class="citation">[2014] 1 SLR 860</span> (“ _EFT Holdings_ ”), which was also recently affirmed by the Court of Appeal in _Simgood Pte Ltd v MLC Barging Pte Ltd and others_ <span class="citation">[2016] SGCA 46</span> (“ _Simgood_ ”) at [13]. To establish this tort, the Plaintiff must show that ( _EFT Holdings_ at [112]): 
 
  (a) there was a combination of two or more persons to do certain acts; 
 
@@ -155,24 +155,24 @@ discussing whether the Conspiracy Claim is made out on the facts.
 
 19     First, the Defendants argue that there is a higher standard of proof, above that of a balance of 
 
-probabilities in an action for conspiracy. [note: 9] This is plainly erroneous. Even though the nature of the allegations involved means that “the amount of proof required is higher than that required in a normal civil action”, the standard of proof is still the civil standard based on the balance of probabilities: _Swiss Butchery Pte Ltd v Huber Ernst and others and another suit_ [2010] 3 SLR 813 (“ _Swiss Butchery_ ”) at [17], affirming _Wu Yang Construction Group Ltd v Zhejiang Jinyi Group Co, Ltd and others_ [2006] 4 SLR(R) 451 at [93]. 
+probabilities in an action for conspiracy. [note: 9] This is plainly erroneous. Even though the nature of the allegations involved means that “the amount of proof required is higher than that required in a normal civil action”, the standard of proof is still the civil standard based on the balance of probabilities: _Swiss Butchery Pte Ltd v Huber Ernst and others and another suit_ <span class="citation">[2010] 3 SLR 813</span> (“ _Swiss Butchery_ ”) at [17], affirming _Wu Yang Construction Group Ltd v Zhejiang Jinyi Group Co, Ltd and others_ <span class="citation">[2006] 4 SLR(R) 451</span> at [93]. 
 
 20     Second, the Defendants argue that the Plaintiff has to show a “predominant purpose” on the 
 
 part of the conspirators to injure the Plaintiff. [note: 10] This argument clearly misunderstands the true nature of the Plaintiff’s claim, which is based on the tort of conspiracy by _unlawful_ means and not _lawful_ means. This fundamental misunderstanding is evident from the Defendants’ reliance on 
 
-authorities which relate to the latter. [note: 11] As seen from the Court of Appeal decision of _Quah Kay Tee v Ong and Co Pte Ltd_ [1996] 3 SLR(R) 637 at [45], in an action for conspiracy by _lawful_ means where no unlawful act is involved, there is however an additional requirement of a “predominant purpose” to cause loss to the plaintiff: 
+authorities which relate to the latter. [note: 11] As seen from the Court of Appeal decision of _Quah Kay Tee v Ong and Co Pte Ltd_ <span class="citation">[1996] 3 SLR(R) 637</span> at [45], in an action for conspiracy by _lawful_ means where no unlawful act is involved, there is however an additional requirement of a “predominant purpose” to cause loss to the plaintiff: 
 
  The tort of conspiracy comprises two types: conspiracy by unlawful means and conspiracy by lawful means. A conspiracy by unlawful means is constituted when two or more persons combine 
 
 
  to commit an unlawful act with the intention of injuring or damaging the plaintiff, and the act is carried out and the intention achieved. In a conspiracy by lawful means, there need not be an unlawful act committed by the conspirators. But there is the additional requirement of proving a “predominant purpose” by all the conspirators to cause injury or damage to the plaintiff, and the act is carried out and the purpose achieved. 
 
-Similar pronouncements were also made in the High Court decisions of _Swiss Butchery_ at [13] and _Nagase Singapore Pte Ltd v Ching Kai Huat_ [2008] 1 SLR(R) 80 at [23]. 
+Similar pronouncements were also made in the High Court decisions of _Swiss Butchery_ at [13] and _Nagase Singapore Pte Ltd v Ching Kai Huat_ <span class="citation">[2008] 1 SLR(R) 80</span> at [23]. 
 
 21     Third, the Defendants argue that the tort of conspiracy is “outmoded” and thus should not be 
 
-accepted as a valid cause of action. [note: 12] This argument similarly stems from a misunderstanding of the nature of the present action. The Plaintiff’s claim is based on the tort of conspiracy by _unlawful_ means, not conspiracy by _lawful_ means. The decision of _Panatron Pte Ltd v Lee Cheow Lee_ [2000] SGHC 209 relied on by the Defendants only suggested that the tort of conspiracy by _lawful_ means may be outmoded (at [85]). Lai Kew Chai J did not, in that case, doubt the tort of conspiracy by _unlawful_ means. The Defendants’ reliance is therefore misplaced. 
+accepted as a valid cause of action. [note: 12] This argument similarly stems from a misunderstanding of the nature of the present action. The Plaintiff’s claim is based on the tort of conspiracy by _unlawful_ means, not conspiracy by _lawful_ means. The decision of _Panatron Pte Ltd v Lee Cheow Lee_ <span class="citation">[2000] SGHC 209</span> relied on by the Defendants only suggested that the tort of conspiracy by _lawful_ means may be outmoded (at [85]). Lai Kew Chai J did not, in that case, doubt the tort of conspiracy by _unlawful_ means. The Defendants’ reliance is therefore misplaced. 
 
 22     As for the tort of conspiracy by _unlawful_ means, the Court of Appeal considered the question in _EFT Holdings_ at [90] but decided not to rule on the point: 
 
@@ -793,7 +793,7 @@ to mean that the 1st Defendant is only contesting the facts and not the relevant
 
 83     The first duty allegedly breached is that of the duty to “at all times act honestly and use reasonable diligence in the discharge of the duties of his office”, as contained in s 157(1) of the CA. [note: 75] 
 
-84     In _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ [1994] 3 SLR(R) 1064, the Court of Appeal (at [28]–[29]) enunciated an objective test for the purposes of s 157(1) of the CA. The question is whether an “honest and intelligent man in the position of the directors, taking an objective view, could reasonably have concluded that the transactions were in the interests of [the company].” In applying this test, where the transaction is “not objectively in the company’s interest”, the court may draw an inference that the directors were not acting honestly: _Ho Kang Peng v Scintronix Corp Ltd (formerly known as TTL Holdings Ltd)_ [2014] 3 SLR 329 (“ _Ho Kang Peng_ ”) at [38]. Further, the Court of Appeal in _Ho Kang Peng_ referred to the High Court decision of _Vita Health Laboratories Pte Ltd and others v Pang Seng Meng_ [2004] 4 SLR(R) 162 (at [17] and [19]) and remarked at [39] that “the requirement of _bona fide_ or honesty will not be satisfied if the director acted _dis_ honestly even if for the purported aim of maximising profits for the company” (emphasis in original). It is thus no defence for a director to claim that his actions were, in his view, in the best interest of the company if he is 
+84     In _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ <span class="citation">[1994] 3 SLR(R) 1064</span>, the Court of Appeal (at [28]–[29]) enunciated an objective test for the purposes of s 157(1) of the CA. The question is whether an “honest and intelligent man in the position of the directors, taking an objective view, could reasonably have concluded that the transactions were in the interests of [the company].” In applying this test, where the transaction is “not objectively in the company’s interest”, the court may draw an inference that the directors were not acting honestly: _Ho Kang Peng v Scintronix Corp Ltd (formerly known as TTL Holdings Ltd)_ <span class="citation">[2014] 3 SLR 329</span> (“ _Ho Kang Peng_ ”) at [38]. Further, the Court of Appeal in _Ho Kang Peng_ referred to the High Court decision of _Vita Health Laboratories Pte Ltd and others v Pang Seng Meng_ <span class="citation">[2004] 4 SLR(R) 162</span> (at [17] and [19]) and remarked at [39] that “the requirement of _bona fide_ or honesty will not be satisfied if the director acted _dis_ honestly even if for the purported aim of maximising profits for the company” (emphasis in original). It is thus no defence for a director to claim that his actions were, in his view, in the best interest of the company if he is 
 
 
 found to have acted dishonestly. 
@@ -999,7 +999,7 @@ the 1st Defendant. [note: 83]
 
 102    Accordingly, I find that the 1st Defendant did receive the kickback from Mr Huang. This is a 
 
-clear breach of the 1st Defendant’s fiduciary duty not to use his fiduciary position to make a secret profit. It is uncontroversial that a director cannot do so (see, _eg_ , _Industrial Development Consultants Ltd v Cooley_ [1972] 1 WLR 443 and _Regal (Hastings) Ltd v Gulliver_ [1967] 2 AC 134 (“ _Regal Hastings_ ”)). This “no profit” rule has been applied in Singapore in several High Court decisions such as _Higgins, Danial Patrick v Mulacek, Philippe Emanuel and others and another suit_ [2016] 5 SLR 848 (“ _Higgins_ ”) at [96] and _Hytech Builders Pte Ltd v Tan Eng Leong_ [1995] 1 SLR(R) 576 at [58]–[59]. It is irrelevant that the company itself could not have obtained that profit or no loss is caused to the company by the director’s gain of the profit (see _Higgins_ at [96], citing _Regal Hastings_ at 144–145). 
+clear breach of the 1st Defendant’s fiduciary duty not to use his fiduciary position to make a secret profit. It is uncontroversial that a director cannot do so (see, _eg_ , _Industrial Development Consultants Ltd v Cooley_ [1972] 1 WLR 443 and _Regal (Hastings) Ltd v Gulliver_ [1967] 2 AC 134 (“ _Regal Hastings_ ”)). This “no profit” rule has been applied in Singapore in several High Court decisions such as _Higgins, Danial Patrick v Mulacek, Philippe Emanuel and others and another suit_ <span class="citation">[2016] 5 SLR 848</span> (“ _Higgins_ ”) at [96] and _Hytech Builders Pte Ltd v Tan Eng Leong_ <span class="citation">[1995] 1 SLR(R) 576</span> at [58]–[59]. It is irrelevant that the company itself could not have obtained that profit or no loss is caused to the company by the director’s gain of the profit (see _Higgins_ at [96], citing _Regal Hastings_ at 144–145). 
 
 103    For these reasons, I allow the Plaintiff’s claim against the 1st Defendant for an account of 
 
@@ -1012,7 +1012,7 @@ profits in respect of the kickback.
 
 rendered in relation to the 1st Defendant’s breach of fiduciary duties. [note: 84] 
 
-105    The following elements must be satisfied for a claim in dishonest assistance to succeed (see _George Raymond Zage III v Ho Chi Kwong_ [2010] 2 SLR 589 (“ _George Raymond_ ”) at [20] for the analogous elements in relation to dishonest assistance rendered by a third party towards a breach of trust): 
+105    The following elements must be satisfied for a claim in dishonest assistance to succeed (see _George Raymond Zage III v Ho Chi Kwong_ <span class="citation">[2010] 2 SLR 589</span> (“ _George Raymond_ ”) at [20] for the analogous elements in relation to dishonest assistance rendered by a third party towards a breach of trust): 
 
  (a) the presence of a fiduciary duty owed to the plaintiff; 
 
@@ -1038,7 +1038,7 @@ singlehandedly committed by the 1st Defendant without any assistance from the ot
 
 knowledge when assisting the 1st Defendant as part of the conspiracy. He did not merely passively benefit from the conspiracy. He controlled the SSI group and actively engaged and dealt with the 
 
-Plaintiff’s clients that had been transferred to the SSI group. Given that the 5th Defendant was the controlling director of the SSI group at the material time and thus the directing mind and will of these companies, his knowledge can be imputed to the three companies comprising the SSI group (see _Parakou Shipping Pte Ltd (in liquidation) v Liu Cheng Chan_ [2017] SGHC 15 (“ _Parakou Shipping_ ”) at [147], citing _Bilta (UK) Ltd (in liquidation) v Nazir (No 2)_ [2015] 2 WLR 1168). Accordingly, I find that 
+Plaintiff’s clients that had been transferred to the SSI group. Given that the 5th Defendant was the controlling director of the SSI group at the material time and thus the directing mind and will of these companies, his knowledge can be imputed to the three companies comprising the SSI group (see _Parakou Shipping Pte Ltd (in liquidation) v Liu Cheng Chan_ <span class="citation">[2017] SGHC 15</span> (“ _Parakou Shipping_ ”) at [147], citing _Bilta (UK) Ltd (in liquidation) v Nazir (No 2)_ [2015] 2 WLR 1168). Accordingly, I find that 
 
 
 the 3rd Defendant’s assistance is dishonest. 

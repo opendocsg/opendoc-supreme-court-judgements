@@ -36,7 +36,7 @@ _Administrative law_ – _Judicial review_ – _Leave Application under O 53 of 
 
 It should be noted that the Applicant has also applied, in the same originating summons, for a Declaration that the Medical Registration (Amendment) Regulations 2010 (S 528/2010) (“Amendment Regulations”) are void. 
 
-2       The Court of Appeal in _Public Service Commission v Lai Swee Lin Linda_ [2001] 1 SLR(R) 133 explained that the requirement of seeking the leave of court (at [23]) was: 
+2       The Court of Appeal in _Public Service Commission v Lai Swee Lin Linda_ <span class="citation">[2001] 1 SLR(R) 133</span> explained that the requirement of seeking the leave of court (at [23]) was: 
 
  ... intended to be a means of filtering out groundless or hopeless cases at an early stage, and its aim is to prevent a wasteful use of judicial time and to protect public bodies from harassment (whether intentional or otherwise) that might arise from a need to delay implementing decisions, 
 
@@ -45,21 +45,21 @@ It should be noted that the Applicant has also applied, in the same originating 
 
 3       Leave is not granted unless the court is satisfied that: (a) the matter complained of is susceptible to judicial review; (b) the applicant has sufficient interest in the matter; and (c) the material before the court discloses an arguable or _prima facie_ case of reasonable suspicion in favour of granting the public law remedies sought by the applicant. Additionally, as these orders are discretionary remedies, the court has a discretion to refuse leave where the circumstances warrant a refusal (see _Singapore Civil Procedure 2007_ (G P Selvam chief ed) (Sweet & Maxwell Asia, 2007) at para 53/8/22). 
 
-4       I noted the guidance provided by the Court of Appeal in _Pang Chen Suan v Commissioner of Labour_ [2008] 3 SLR(R) 648 at [56]: 
+4       I noted the guidance provided by the Court of Appeal in _Pang Chen Suan v Commissioner of Labour_ <span class="citation">[2008] 3 SLR(R) 648</span> at [56]: 
 
  We should like to add by way of guidance to judges who hear ex-parte applications for leave for judicial review that the purpose of requiring leave is to enable the court to sieve out frivolous applications. A case such as the present which clearly raises issues which require more than a cursory examination of the merits should have been heard as a substantive application. There is no reason why an ex-parte application such as [the applicant’s] could not have been heard inter partes and disposed of on the merits as a substantive application. ... 
 
 Both parties agreed that I could hear the leave application as well as the substantive application in order to expedite the process and leave the parties to file any appeal to the Court of Appeal thereafter. 
 
-5       The only question before me at this leave stage was whether the material before me disclosed an arguable or _prima facie_ case in favour of granting the public remedies. I noted what the Court of Appeal, in _Chan Hiang Leng Colin v Minister for Information and the Arts_ [1996] 1 SLR(R) 294, had to say on the meaning and scope of the phrases ‘a _prima facie_ case of reasonable suspicion’ and ‘what might on further consideration turn out to be an arguable case’ (at [22]): 
+5       The only question before me at this leave stage was whether the material before me disclosed an arguable or _prima facie_ case in favour of granting the public remedies. I noted what the Court of Appeal, in _Chan Hiang Leng Colin v Minister for Information and the Arts_ <span class="citation">[1996] 1 SLR(R) 294</span>, had to say on the meaning and scope of the phrases ‘a _prima facie_ case of reasonable suspicion’ and ‘what might on further consideration turn out to be an arguable case’ (at [22]): 
 
  This passage appears susceptible to two slightly different interpretations. One is that the court should quickly peruse the material put before it and consider whether such material discloses “what might on further consideration turn out to be an arguable case”. The other is that the applicant had to make out a “ prima facie case of reasonable suspicion”. In our view, both tests present a very low threshold and it is questionable whether there is really any difference in substance between the two interpretations. 
 
-The Court of Appeal (at [25]) then ruled that what is required is not a _prima facie_ case, but a _prima facie_ case of reasonable suspicion (see also _Teng Fuh Holdings Pte Ltd v Collector of Land Revenue_ [2007] 2 SLR(R) 568). 
+The Court of Appeal (at [25]) then ruled that what is required is not a _prima facie_ case, but a _prima facie_ case of reasonable suspicion (see also _Teng Fuh Holdings Pte Ltd v Collector of Land Revenue_ <span class="citation">[2007] 2 SLR(R) 568</span>). 
 
 6       That the decisions of the SMC, a creature of statute engaged in the performance of public acts and duties, are susceptible to judicial review and that the Applicant has sufficient interest in the matter were not disputed. Accordingly, it was only necessary to consider if the material before me raised a _prima facie_ case of reasonable suspicion in favour of granting the public law remedies sought. 
 
-7       The Applicant averred that the decision of the SMC in appointing the 2nd DC was illegal, irrational and procedurally improper (see _Council of Civil Service Unions v Minister for the Civil Service_ [1985] AC 374 at 411 _per_ Lord Diplock, approved in _Chng Suan Tze v Minister of Home Affairs, Singapore_ [1988] 2 SLR(R) 525). I will elaborate on each ground for judicial review before considering if the material placed before me met the low threshold of a _prima facie_ case of reasonable suspicion 
+7       The Applicant averred that the decision of the SMC in appointing the 2nd DC was illegal, irrational and procedurally improper (see _Council of Civil Service Unions v Minister for the Civil Service_ [1985] AC 374 at 411 _per_ Lord Diplock, approved in _Chng Suan Tze v Minister of Home Affairs, Singapore_ <span class="citation">[1988] 2 SLR(R) 525</span>). I will elaborate on each ground for judicial review before considering if the material placed before me met the low threshold of a _prima facie_ case of reasonable suspicion 
 
 
 in favour of granting the public law remedies sought. 

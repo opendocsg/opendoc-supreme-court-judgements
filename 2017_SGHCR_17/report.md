@@ -97,7 +97,7 @@ _Arbitration_ – _Mediation-Arbitration Clause_
 
  (2) The court to which an application has been made in accordance with subsection (1) shall make an order, upon such terms or conditions as it may think fit, staying the proceedings so far as the proceedings relate to the matter, unless it is satisfied that the arbitration agreement is null and void, inoperative or incapable of being performed. 
 
-22     In **_Tomolugen Holdings Ltd v Silica Investors Ltd_** [2015] SGCA 57 (“ **Tomolugen** ”) at [63], the Court of Appeal held that a court hearing a stay application under s 6 of the IAA should grant a stay in favour of arbitration if the applicant is able to establish a _prima face_ case that: 
+22     In **_Tomolugen Holdings Ltd v Silica Investors Ltd_** <span class="citation">[2015] SGCA 57</span> (“ **Tomolugen** ”) at [63], the Court of Appeal held that a court hearing a stay application under s 6 of the IAA should grant a stay in favour of arbitration if the applicant is able to establish a _prima face_ case that: 
 
  (a) there is a valid arbitration agreement between the parties to the court proceedings; 
 
@@ -151,7 +151,7 @@ _Arbitration_ – _Mediation-Arbitration Clause_
 
 35     The parties agree that it is the Plaintiff which bears the burden of establishing that an arbitration agreement is inoperative or incapable of being performed. 
 
-36     As Vinodh Coomaraswamy J recognised in _Dyna-Jet Pte Ltd v Wilson Taylor Pte Ltd_ [2016] SGHC 238 (“ **_Dyna-Jet (HC)_** ”) at [26], what this means is that 
+36     As Vinodh Coomaraswamy J recognised in _Dyna-Jet Pte Ltd v Wilson Taylor Pte Ltd_ <span class="citation">[2016] SGHC 238</span> (“ **_Dyna-Jet (HC)_** ”) at [26], what this means is that 
 
  ...it is for the party resisting the stay to establish that an arbitration agreement is within the proviso to s 6(2) rather than for the party applying for the stay to establish that it is not...To meet its burden on this issue, the party resisting the stay must establish that no other conclusion on this issue is arguable ... (Emphasis added) 
 
@@ -423,7 +423,7 @@ _Hercus v Hercus [2001] O.J. No. 534 (“_ **_Hercus_** _”)_
 
 113    I turn now to consider whether the first Defendant’s actions in response to the Plaintiff’s attempts to commence med-arb should be regarded as repudiatory breaches of the ADR Clauses. 
 
-114    In its judgment in _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd_ [2007] SGCA 39 (“ **_RDC Concrete_** ”), the Court of Appeal dealt with situations in which an innocent party to a contract may elect to treat a contract as having been discharged. The Plaintiff’s counsel submitted that for present purposes, two distinct situations mentioned by the Court of Appeal in _RDC Concrete_ could form the basis for a finding that the first Defendant herein has committed a repudiatory breach of the arbitration agreements between the parties such that the Plaintiff is entitled to treat the same as having been discharged. These situations are: 
+114    In its judgment in _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd_ <span class="citation">[2007] SGCA 39</span> (“ **_RDC Concrete_** ”), the Court of Appeal dealt with situations in which an innocent party to a contract may elect to treat a contract as having been discharged. The Plaintiff’s counsel submitted that for present purposes, two distinct situations mentioned by the Court of Appeal in _RDC Concrete_ could form the basis for a finding that the first Defendant herein has committed a repudiatory breach of the arbitration agreements between the parties such that the Plaintiff is entitled to treat the same as having been discharged. These situations are: 
 
  At [93] of the RDC Concrete judgment: 
 
@@ -448,7 +448,7 @@ _Did the first Defendant’s conduct deprive the Plaintiff of the benefit of the
 
 118    By virtue of paragraph 4 of the SMC-SIAC Procedure, an obligation to mediate in good faith was therefore imported into the dispute resolution procedure agreed between the Plaintiff and the first Defendant. 
 
-119    The Court of Appeal, in _HSBC Institutional Trust Services (Singapore) Ltd (trustee of Starhill Global Real Estate Investment Trust) v Toshin Development Singapore Pte Ltd_ [2012] SGCA 48 (“ **_Toshin_** ”), provided guidance on such “negotiate in good faith clauses”. In this regard, the Court of Appeal opined that 
+119    The Court of Appeal, in _HSBC Institutional Trust Services (Singapore) Ltd (trustee of Starhill Global Real Estate Investment Trust) v Toshin Development Singapore Pte Ltd_ <span class="citation">[2012] SGCA 48</span> (“ **_Toshin_** ”), provided guidance on such “negotiate in good faith clauses”. In this regard, the Court of Appeal opined that 
 
  Even though agreement cannot be guaranteed, it does not mean that the parties concerned should not try as far as reasonably possible to reach an agreement. In principle, there is no difference between an agreement to negotiate in good faith and an agreement to submit a dispute to mediation. 
 
@@ -680,9 +680,9 @@ within the meaning of s 6(2) of the IAA.
 
 Defendant, the second, third and fourth Defendants also sought a stay of the Plaintiff’s claims against each of them pending the outcome of any med-arb proceedings between the Plaintiff and the first Defendant (defined at [15] above as the Case Management Stay Application). 
 
-185    The basis of this Case Management Application would have been, if I had decided to grant the IAA Stay Application, the decision of the Court of Appeal in _Tomolugen Holdings Ltd v Silica Investors Ltd_ [2016] 1 SLR 373 (“ **_Tomolugen_** ”). 
+185    The basis of this Case Management Application would have been, if I had decided to grant the IAA Stay Application, the decision of the Court of Appeal in _Tomolugen Holdings Ltd v Silica Investors Ltd_ <span class="citation">[2016] 1 SLR 373</span> (“ **_Tomolugen_** ”). 
 
-186    The decision in _Tomolugen_ was succinctly summarised by Steven Chong J (as His Honour then was) in His Honour’s decision in _Maybank Kim Eng Securities Pte Ltd v Lim Keng Yong_ [2016] SGHC 68 at [20] and I respectfully adopt the same: 
+186    The decision in _Tomolugen_ was succinctly summarised by Steven Chong J (as His Honour then was) in His Honour’s decision in _Maybank Kim Eng Securities Pte Ltd v Lim Keng Yong_ <span class="citation">[2016] SGHC 68</span> at [20] and I respectfully adopt the same: 
 
  Tomolugen Holdings Ltd concerned a claim for minority oppression brought against various defendants comprising the company of which the plaintiff was a minority shareholder, other shareholders and the directors of the company or its related companies. The Court of Appeal held that there were four separate categories of allegations made in support of the minority oppression claim. Of these allegations, only one fell within the scope of an arbitration agreement between the plaintiff and one of the defendants (“Lionsgate”), and was subject to a mandatory stay under s 6 of the IAA. The Court of Appeal exercised the court’s inherent powers of case management, and ordered, inter alia , that if the plaintiff wished to pursue the allegation subject to arbitration, then the rest of the court proceedings, whether against Lionsgate or against the remaining defendants, would be stayed in the interests of case management, conditional upon the allegation being arbitrated expeditiously. 
 
@@ -752,7 +752,7 @@ issue which might arise in arbitration proceedings between the Plaintiff and the
 
 209    This concern does not arise in relation to stays sought pursuant to the principles espoused by the Court of Appeal in _Tomolugen_. 
 
-210    In His Honour’s decision in _BC Andaman Co Ltd & Ors v Xie Ning Yun & Anor_ [2017] SGHC 64 at [102], Quentin Loh J described _Tomolugen_ -type stays in the following manner: 
+210    In His Honour’s decision in _BC Andaman Co Ltd & Ors v Xie Ning Yun & Anor_ <span class="citation">[2017] SGHC 64</span> at [102], Quentin Loh J described _Tomolugen_ -type stays in the following manner: 
 
  A case management stay only affects the plaintiff’s choice of the sequence in which he pursues proceedings against different defendants , and involves no more on the part of the court in which the proceedings are brought than declining to hear the proceedings before it until some other time. [Emphasis added] 
 

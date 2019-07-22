@@ -91,7 +91,7 @@ of $480,000, in fact no money changed hands and the plaintiff did not receive an
 
  (b) in circumstances in which the provider does not intend to benefit the recipient. 
 
-This statement of the law was accepted by the Court of Appeal in _Lau Siew Kim v Yeo Guan Chye Terence and another_ [2008] 2 SLR(R) 108 (“ _Lau Siew Kim_ ”) at [35]. 
+This statement of the law was accepted by the Court of Appeal in _Lau Siew Kim v Yeo Guan Chye Terence and another_ <span class="citation">[2008] 2 SLR(R) 108</span> (“ _Lau Siew Kim_ ”) at [35]. 
 
 17     In para 3 of the statement of claim, the plaintiff pleaded that on 21 May 2002 he transferred the shares to the defendant. This pleading satisfied the first factual requirement. In paras 4 and 5, the plaintiff said that the parties had agreed that the defendant was to hold the shares in trust for the plaintiff, that no consideration was paid for the transfer and that the shares belonged beneficially to the plaintiff at all times. These paragraphs satisfied the requirement of stating factual circumstances showing that the plaintiff did not intend to benefit the defendant by the transfer. The statement of claim thus set out the facts necessary to establish a resulting trust. That they also set out facts which could prove an express trust cannot detract from the ability of the same facts to constitute a resulting trust. 
 
@@ -126,7 +126,7 @@ This statement of the law was accepted by the Court of Appeal in _Lau Siew Kim v
 
 20     In _Snell’s Equity_ (John McGhee QC gen ed)(Sweet & Maxwell, 31 st Ed, 2005) at para 23-15, it is stated that on a voluntary transfer of personal property, the transferee is presumed to hold on a resulting trust for the transferor unless the presumption of advancement applies or the transferor is proved to have had an actual intention to make the transferee the beneficial owner of the property. It is also stated therein that there is certainly a presumption of a resulting trust if A transfers stocks and shares voluntarily to himself and B. 
 
-21     As stated by Lai Siu Chiu J in _Yong Ching See v Lee Kah Choo Karen_ [2008] 3 SLR(R) 957 at [35], “resulting trusts are founded on the _presumed_ intention of the transferor of property.” Lai J went on in the same paragraph to add: 
+21     As stated by Lai Siu Chiu J in _Yong Ching See v Lee Kah Choo Karen_ <span class="citation">[2008] 3 SLR(R) 957</span> at [35], “resulting trusts are founded on the _presumed_ intention of the transferor of property.” Lai J went on in the same paragraph to add: 
 
  Where a transfer of property has occurred with a consequent transfer of legal title, but the transferor has failed to show an intention to divest himself fully of all his interest in that property, the transferee will not be permitted to receive the property absolutely for his own benefit. Instead, he will hold it on trust for the transferor. The equitable interest is, thereafter, said to “result back” to the transferor, thus ensuring that he retains his interest in the property. 
 

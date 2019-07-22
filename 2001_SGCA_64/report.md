@@ -166,7 +166,7 @@ Therefore, as between Madam Ho and Ms Lim, who were the parties to the agreement
 
  It was further contended that the registration of the lease under the provisions of the Land Transfer Act confers an indefeasible title upon the respondent Carr. I think that this contention is wholly untenable. The provisions of the Land Transfer Act as to indefeasibility of title have no reference either to contracts entered into by the registered proprietor himself or to obligations under trusts created by him or arising out of fiduciary relations which spring from his own acts contemporaneously with or subsequent to the registration of his interest. This principle appears to be well settled in Australia: See Cuthbertson v Swan 11 SALR 102, Groongall Pastoral Co Ltd v Falkiner 35 CLR 157, 163, and Barry v Heider 19 CLR 197. 
 
-This passage was quoted with approval by this Court in _HSBC Trustee (Singapore) Ltd and Anor v Lycee Francais de Singapur_ [1996] 2 SLR 24 at 38. 
+This passage was quoted with approval by this Court in _HSBC Trustee (Singapore) Ltd and Anor v Lycee Francais de Singapur_ <span class="citation">[1996] 2 SLR 24</span> at 38. 
 
 **_Breach of trust by Ms Lim_** 
 
@@ -257,7 +257,7 @@ Land Titles Act
 
 39\. It is clear that both these sections are designed to provide for indefeasibility of title of a registered proprietor of the land held under the Land Titles Act. On the basis of these provisions, persons dealing with the registered proprietor are not required to go behind the title in order to investigate the history of the latters title and to satisfy themselves of its validity: per Lord Watson in _Gibbs v Messer_ [1891] AC 248 at 254. 
 
-40\. There are of course exceptions to the indefeasibility of title. In _Teo Siew Peng and Anor v Neo Hock Pheng and Ors_ [1999] 1 SLR 293, Lai Siu Chiu J considered two of such exceptions as relevant to the case before her. She said at p 302: 
+40\. There are of course exceptions to the indefeasibility of title. In _Teo Siew Peng and Anor v Neo Hock Pheng and Ors_ <span class="citation">[1999] 1 SLR 293</span>, Lai Siu Chiu J considered two of such exceptions as relevant to the case before her. She said at p 302: 
 
  18 [T]here are two exceptions to the indefeasibility of title conferred on the plaintiffs that are of relevance here. Firstly, s 38(2) provides for the fraud exception and makes clear that the fraud necessary to defeat the title of a proprietor must be brought home to the proprietor or his agent. In Grgic v Australian and New Zealand Banking Group Ltd (1994) 33 NSWLR 202, while commenting on similar Torrens legislation, the New South Wales Court of Appeal 
 
@@ -268,7 +268,7 @@ Land Titles Act
 
  Although it is now accepted that not all species of equitable fraud stand outside the concept of fraud those species of equitable fraud which are regarded as falling within the concept of fraud are those in which there has been an element of dishonesty or moral turpitude on the part of the registered proprietor or his agent. 
 
- 19 Secondly, cases such as Frazer v Walker [1967] 1 AC 569 and Bahr v Nicholay (No 2) (1988) 62 ALJR 268 established that the indefeasibility of title conferred by s 38 does not prevent claims in personam being made against the registered proprietor by reason of his own conduct. Such an exception was accepted by the recent local decision in United Overseas Finance Ltd v Victor Sakayamary & Ors [1997] 3 SLR 211 as being consistent with the scheme of registration under the Act. 
+ 19 Secondly, cases such as Frazer v Walker [1967] 1 AC 569 and Bahr v Nicholay (No 2) (1988) 62 ALJR 268 established that the indefeasibility of title conferred by s 38 does not prevent claims in personam being made against the registered proprietor by reason of his own conduct. Such an exception was accepted by the recent local decision in United Overseas Finance Ltd v Victor Sakayamary & Ors <span class="citation">[1997] 3 SLR 211</span> as being consistent with the scheme of registration under the Act. 
 
 Her decision on appeal was reversed in part; however, the above passage of her judgment remained unaffected. 
 
@@ -407,7 +407,7 @@ Civil Appeal No. 167 of 2001
 
  (1) Has the legal representative of whom complaint is made acted improperly, unreasonably or negligently? (2) If so, did such conduct cause the applicant to incur unnecessary costs? (3) If so, is it in all the circumstances just to order the legal representative to compensate the applicant for the whole or any part of the relevant costs? (If so, the costs to be met must be specified and, in a criminal case, the amount of the costs.) 
 
-The tests and propositions of law laid down in that case were cited with approval by this Court in _Tang Liang Hong v Lee Kuan Yew & Anor and other appeals_ [1998] 1 SLR 97, and it is not necessary to repeat them here. 
+The tests and propositions of law laid down in that case were cited with approval by this Court in _Tang Liang Hong v Lee Kuan Yew & Anor and other appeals_ <span class="citation">[1998] 1 SLR 97</span>, and it is not necessary to repeat them here. 
 
 59\. The question here is whether Mr Ponniah and Mr Wong can be said to have acted improperly, unreasonably and negligently in advising Madam Ho to claim against WLAW and RHB and also in acting for her in pursuing the claim. It is submitted on their behalf that their actions in so advising Madam Ho and acting for her in pursuing her claim against WLAW and RHB were not improper, unreasonable or negligent. Madam Ho had a prima facie case against Ms Lim for breach of trust or for the imposition of a constructive trust. Since WLAW and RHB both knew about the agreement between Madam Ho and Ms Lim, and in view of what was provided in the security documents executed by Ms Lim and RHB, it is contended that there was also a prima facie case against them and as such it could not be said that the institution of proceedings against WLAW and RHB had no legal basis. 
 

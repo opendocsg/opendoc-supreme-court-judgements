@@ -18,7 +18,7 @@ _Banking_ – _Demand guarantees_ – _Unconscionability exception_
 
 _Banking_ – _Demand guarantees_ – _Fraud exception_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 70 of 2015 was dismissed by the Court of Appeal on 21 April 2016. See [2016] SGCA 26.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 70 of 2015 was dismissed by the Court of Appeal on 21 April 2016. See <span class="citation">[2016] SGCA 26</span>.] 
 
 11 March 2015 Judgment reserved. 
 
@@ -633,7 +633,7 @@ Mr Isaacs’. Sir Roy stated in cross-examination that: [note: 66]
 
 125    It is apparent then, that the common ground between the experts was that the issue of conformity turned on two distinct questions of construction. The prior question being one of _construing the CG_ to determine what was required for a demand to be conforming. The subsequent question was that of _construing the demand_ to determine whether it complied with what was required by the CG. 
 
-126    I am mindful of the difficulties with considering expert evidence on the correct construction of a document governed by foreign law. First, the construction of documents is an inherently technical exercise. At times the distinctions that the English experts were attempting to draw were so fine that they bordered on being, as counsel for ABC put it, “distinction[s] without a difference”. The second difficulty is drawing the line between “where proof of foreign law ends and application of the foreign law begins”: Yeo Tiong Min, _Halsbury’s Laws of Singapore_ vol 6(2) at para 75.297. Principles of construction have to be proven as foreign law, but the _application_ of those principles to the facts is a question of forum procedure in the adjudication process: _Pacific Recreation Pte Ltd v S Y Technology Inc_ [2008] 2 SLR(R) 491 at [81]. 
+126    I am mindful of the difficulties with considering expert evidence on the correct construction of a document governed by foreign law. First, the construction of documents is an inherently technical exercise. At times the distinctions that the English experts were attempting to draw were so fine that they bordered on being, as counsel for ABC put it, “distinction[s] without a difference”. The second difficulty is drawing the line between “where proof of foreign law ends and application of the foreign law begins”: Yeo Tiong Min, _Halsbury’s Laws of Singapore_ vol 6(2) at para 75.297. Principles of construction have to be proven as foreign law, but the _application_ of those principles to the facts is a question of forum procedure in the adjudication process: _Pacific Recreation Pte Ltd v S Y Technology Inc_ <span class="citation">[2008] 2 SLR(R) 491</span> at [81]. 
 
 _The incorrect description issue_ 
 
@@ -745,7 +745,7 @@ _The incorrect reference number issue_
 
 141    Boustead relies on the additional zeros referred to in the CG38 and CG39 Demands and argues 
 
-that this rendered the demands non-conforming (see above at [120(b)]). [note: 75] Boustead relies on the Singapore Court of Appeal case of _Indian Overseas Bank v United Coconut Mills Inc_ [1992] 3 SLR(R) 12 (“ _Indian Overseas Bank v United Coconut Mills_ ”) in support of its argument. 
+that this rendered the demands non-conforming (see above at [120(b)]). [note: 75] Boustead relies on the Singapore Court of Appeal case of _Indian Overseas Bank v United Coconut Mills Inc_ <span class="citation">[1992] 3 SLR(R) 12</span> (“ _Indian Overseas Bank v United Coconut Mills_ ”) in support of its argument. 
 
 142    I do not accept that the CG38 and CG39 Demands were non-conforming for including additional zeros. That, in my view, was an immaterial error and would not have affected the conformity of the 
 
@@ -813,7 +813,7 @@ obvious on its face, and need not be pleaded”. [note: 84] It seems to me that 
 
 156    Third, Boustead states that “[i]n relation to the alleged deficiency of Boustead’s pleadings on 
 
-Libyan law, it is also trite that matters of law need not be pleaded”. [note: 85] However, it is well established that foreign law is required to be pleaded and proved as a fact: _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ [2014] 1 SLR 860 at [56]. Otherwise, the court treats the case as a purely domestic one and applies Singapore law. 
+Libyan law, it is also trite that matters of law need not be pleaded”. [note: 85] However, it is well established that foreign law is required to be pleaded and proved as a fact: _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ <span class="citation">[2014] 1 SLR 860</span> at [56]. Otherwise, the court treats the case as a purely domestic one and applies Singapore law. 
 
 157    Fourth, Boustead states that “[i]n any event, ABC was not prejudiced in any way, and was given ample opportunity to address this point, by way of the Joint English Law Experts Report, 
 
@@ -852,7 +852,7 @@ practice we normally apply such rules”. [note: 90] No other substantiation or 
 
 as the International Standby Practices 1998, he stated that he could not assist the court. [note: 91] 
 
-164    While a court is not entitled to substitute its own views for those of an expert who is not contradicted, the court must also not accept unchallenged evidence without question. An expert’s evidence must be sifted, weighed and evaluated: _Sakthivel Punithavathi v PP_ [2007] 2 SLR(R) 983 at [76]. In my view, the evidence given by Dr Tumi on Libyan law incorporating the URDG 458 was unconvincing, and I do not accept it. 
+164    While a court is not entitled to substitute its own views for those of an expert who is not contradicted, the court must also not accept unchallenged evidence without question. An expert’s evidence must be sifted, weighed and evaluated: _Sakthivel Punithavathi v PP_ <span class="citation">[2007] 2 SLR(R) 983</span> at [76]. In my view, the evidence given by Dr Tumi on Libyan law incorporating the URDG 458 was unconvincing, and I do not accept it. 
 
 165    I am therefore of the view that Boustead has not discharged its burden of proving that the URDG 458 was incorporated into the PB and APG by virtue of Art 746 of the Commercial Code. It is not necessary for me to examine whether the CG38 and CG39 Demands were invalid because they failed to conform to the requirements of Art 20(b) of the URDG 458. 
 
@@ -870,7 +870,7 @@ BCD’s demands to ABC’s attention, to which ABC turned a blind eye. [note: 92
 
 “points only to one realistic inference – ABC’s claim ... is a dishonest one”. [note: 93] 
 
-169    ABC would be acting fraudulently if it is shown that: (a) ABC brought its claim against Boustead _knowing_ that it had no basis in fact or law; or (b) that ABC brought its claim recklessly. These are the two limbs in the classic statement of fraud found in _Derry v Peek_ , which was approved by the Singapore Court of Appeal in _Panatron Pte Ltd and another v Lee Cheow Lee and another_ [2001] 2 SLR(R) 435 at [13]. 
+169    ABC would be acting fraudulently if it is shown that: (a) ABC brought its claim against Boustead _knowing_ that it had no basis in fact or law; or (b) that ABC brought its claim recklessly. These are the two limbs in the classic statement of fraud found in _Derry v Peek_ , which was approved by the Singapore Court of Appeal in _Panatron Pte Ltd and another v Lee Cheow Lee and another_ <span class="citation">[2001] 2 SLR(R) 435</span> at [13]. 
 
 170    ABC made the FA Demand on 3 September 2012, stating that: [note: 94] 
 
@@ -932,7 +932,7 @@ guaranteed sums. [note: 101]
 
 **Whether it would be unconscionable for ABC to obtain payment from Boustead against the FA Demand** 
 
-176    It is well established that under Singapore law, injunctive relief will be granted to restrain payment under a demand guarantee where the beneficiary makes a demand for payment unconscionably. Unconscionability exists as a distinct ground from fraud for restraining payment on a demand. It covers situations of abuse, unfairness and dishonesty: _BS Mount Sophia Pte Ltd v Join-Aim Pte Ltd_ [2012] 3 SLR 352 (“ _BS Mount Sophia_ ”) at [18]–[19]. Singapore courts have departed from English law, which recognises only fraud as an exception to the restraint of a demand for payment under a demand guarantee. 
+176    It is well established that under Singapore law, injunctive relief will be granted to restrain payment under a demand guarantee where the beneficiary makes a demand for payment unconscionably. Unconscionability exists as a distinct ground from fraud for restraining payment on a demand. It covers situations of abuse, unfairness and dishonesty: _BS Mount Sophia Pte Ltd v Join-Aim Pte Ltd_ <span class="citation">[2012] 3 SLR 352</span> (“ _BS Mount Sophia_ ”) at [18]–[19]. Singapore courts have departed from English law, which recognises only fraud as an exception to the restraint of a demand for payment under a demand guarantee. 
 
 177    Boustead argues in its reply closing submissions that the demands for payment by ODAC or BCD under the CGs or the PB and APG are unconscionable. Boustead argues that “[ABC’s] attempt to 
 
@@ -942,7 +942,7 @@ enforce its rights under the FA would be unconscionable”. [note: 102] The appl
 
 178    First, there is the choice of law problem: what is the law applicable to the grant of injunctive relief for restraining payment against a demand under a demand guarantee? 
 
-179    It is clear that Singapore law is applicable where both the underlying contract (or the equivalent of the Public Works Contract in the present case) and the demand guarantee are governed by Singapore law: see for example, _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ [2000] 1 SLR(R) 117 (“ _Dauphin Offshore_ ”), _BS Mount Sophia_ and _JBE Properties Pte Ltd v Gammon Pte Ltd_ [2011] 2 SLR 47 _(“JBE Properties_ ”). It is also clear that Singapore law does not apply where both the underlying contract and the demand guarantee are governed by English law: _Shanghai Electric Group Co Ltd v PT Merak Energi Indonesia and another_ [2010] 2 SLR 329 (“ _Shanghai Electric v PT Merak_ ”) at [30] and [35]. 
+179    It is clear that Singapore law is applicable where both the underlying contract (or the equivalent of the Public Works Contract in the present case) and the demand guarantee are governed by Singapore law: see for example, _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ <span class="citation">[2000] 1 SLR(R) 117</span> (“ _Dauphin Offshore_ ”), _BS Mount Sophia_ and _JBE Properties Pte Ltd v Gammon Pte Ltd_ <span class="citation">[2011] 2 SLR 47</span> _(“JBE Properties_ ”). It is also clear that Singapore law does not apply where both the underlying contract and the demand guarantee are governed by English law: _Shanghai Electric Group Co Ltd v PT Merak Energi Indonesia and another_ <span class="citation">[2010] 2 SLR 329</span> (“ _Shanghai Electric v PT Merak_ ”) at [30] and [35]. 
 
 180    The authorities have not addressed what law will apply to the grant of an injunction where different laws govern the underlying contract and the demand guarantee in question. In _Shanghai_ 
 
@@ -978,7 +978,7 @@ customer granting it a cross-indemnity for sums demanded under the performance b
 
 **_Whether there is unconscionability on the facts of this case_** 
 
-192    I turn now to whether the factual basis for Boustead’s unconscionability argument is satisfied. Unconscionability has been stated to include elements of abuse, unfairness and dishonesty: _Raymond Construction Pte Ltd v Low Yang Tong_ [1996] SGHC 136 at [5]. It is, however, not possible to define unconscionability apart from a broad indication such as lack of _bona fides_. What constitutes unconscionability depends on the facts of the case: _Dauphin Offshore_ at [42]. The entire context of the case must be considered, and only if it is “particularly malodorous” will the unconscionability exception be made out: _BS Mount Sophia_ at [21]. A high threshold needs to be met before unconscionability will be established, lest it upset the contractual bargain between the parties and undermine the _raison d’être_ of the demand guarantee: _BS Mount Sophia_ at [39]. 
+192    I turn now to whether the factual basis for Boustead’s unconscionability argument is satisfied. Unconscionability has been stated to include elements of abuse, unfairness and dishonesty: _Raymond Construction Pte Ltd v Low Yang Tong_ <span class="citation">[1996] SGHC 136</span> at [5]. It is, however, not possible to define unconscionability apart from a broad indication such as lack of _bona fides_. What constitutes unconscionability depends on the facts of the case: _Dauphin Offshore_ at [42]. The entire context of the case must be considered, and only if it is “particularly malodorous” will the unconscionability exception be made out: _BS Mount Sophia_ at [21]. A high threshold needs to be met before unconscionability will be established, lest it upset the contractual bargain between the parties and undermine the _raison d’être_ of the demand guarantee: _BS Mount Sophia_ at [39]. 
 
 193    In my view, and on the facts presently before me, the circumstances as a whole are such that it would be unconscionable for ABC to obtain payment from Boustead under the FA. The following facts lead me to this conclusion: 
 
@@ -1051,7 +1051,7 @@ is unconscionable, presumably because the FA was granted on a back-to-back basis
 
 206    Boustead argues that cll 6.6, 6.8 and 6.9 of the FA are invalid under s 2(2) of the UCTA. Section 2(2) of the UCTA applies to loss other than personal injury or death. It states that a person cannot exclude or restrict his liability for negligence except in so far as the term or notice satisfies the requirement of reasonableness. Boustead argues that the clauses have the effect of excluding or restricting ABC’s liability for negligence and that they are not reasonable. 
 
-207    In order for a clause to fall within the purview of s 2(2) of the UCTA, it has to be an exclusion of liability for negligence on a proper construction. The court is concerned with the substance rather than the form of the clause. The Court of Appeal in _Deutsche Bank AG v Chang Tse Wen_ [2013] 4 SLR 886 stated at [68] that: 
+207    In order for a clause to fall within the purview of s 2(2) of the UCTA, it has to be an exclusion of liability for negligence on a proper construction. The court is concerned with the substance rather than the form of the clause. The Court of Appeal in _Deutsche Bank AG v Chang Tse Wen_ <span class="citation">[2013] 4 SLR 886</span> stated at [68] that: 
 
  [T]he UCTA simply addresses itself to clause which “exclude or restrict” a liability, obligation or duty. The legislative eye is firmly set on the substantive effect of a term or notice, rather than on its form or identification. Seen in this light, the only question which arises for a court is whether a term or notice has the effect of excluding or restricting the imposition of a duty of care in law. 
 
@@ -1128,7 +1128,7 @@ terms should be implied into the FA: [note: 114]
 
  (b) Not to make payment under the CGs and/or make a demand against Boustead for payment of any sum under the CGs if ABC has knowledge of the lack of validity, genuineness, accuracy or correctness of any statement, notice, or other documents delivered with respect to or under the CGs and/or knowledge of fraudulent conduct in connection with any demand made under the CGs (“the second implied term”). 
 
-222    The process of implication is an exercise of giving effect to the parties’ _presumed_ intentions: _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp Marine_ ”) at [93]. It necessarily follows that a term which contradicts the express terms of the contract will not be implied: _Foo Jong Peng and others v Phua Kiah Mai and another_ [2012] 4 SLR 1267 at [35]. A term will be implied only to fill a gap in the contract. The implication of a term involves a three-step process, _Sembcorp Marine_ at [101]: 
+222    The process of implication is an exercise of giving effect to the parties’ _presumed_ intentions: _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp Marine_ ”) at [93]. It necessarily follows that a term which contradicts the express terms of the contract will not be implied: _Foo Jong Peng and others v Phua Kiah Mai and another_ <span class="citation">[2012] 4 SLR 1267</span> at [35]. A term will be implied only to fill a gap in the contract. The implication of a term involves a three-step process, _Sembcorp Marine_ at [101]: 
 
  (a) The first step is to ascertain how the gap in the contract arises. Implication will be considered only if the court discerns that the gap arose because the parties did not contemplate the gap. 
 

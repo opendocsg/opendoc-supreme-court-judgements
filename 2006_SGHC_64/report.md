@@ -564,7 +564,7 @@ both took a taxi to Ganesan’s place at Block 22, Jalan Tenteram, #03-561.
 
 130    It was for the Defence to establish diminished responsibility although its burden was to establish this on a balance of probabilities and not beyond any reasonable doubt. 
 
-131    In _Zailani bin Ahmad v PP_ [2005] 1 SLR 356 (“ _Zailani_ ”) the Court of Appeal reaffirmed the three limbs that an accused person has to satisfy to establish diminished responsibility. They are: 
+131    In _Zailani bin Ahmad v PP_ <span class="citation">[2005] 1 SLR 356</span> (“ _Zailani_ ”) the Court of Appeal reaffirmed the three limbs that an accused person has to satisfy to establish diminished responsibility. They are: 
 
  (a) He was suffering from an abnormality of mind. 
 
@@ -595,7 +595,7 @@ would term it abnormal. This description was adopted by the Court of Appeal in _
 
  The final and most crucial limb, ie , the third limb, focuses on an accused’s mental responsibility for his acts. The expression “mental responsibility for his acts” points to a consideration of the extent to which the accused’s mind is answerable for his physical acts, which must include a consideration of the extent of his ability to exercise will power to control his physical acts. R v Byrne. There is also the further requirement that the accused’s mental responsibility be substantially impaired. Cheng Swee Hin v PP [1980-1981] SLR 116. While medical evidence would be constructive in determining the presence and/or extent of impairment, the main question of whether an accused’s mental responsibility was substantially impaired is ultimately one for the court to answer ... [emphasis original] 
 
-136    In _PP v Juminem_ [2005] 4 SLR 536, Choo Han Teck J said at [30]: 
+136    In _PP v Juminem_ <span class="citation">[2005] 4 SLR 536</span>, Choo Han Teck J said at [30]: 
 
  Reverting to the question whether there was a substantial impairment of the first accused person’s mental responsibility, I would begin with the reminder that the term “substantially impairs his mental responsibility” is couched in “popular language, (not that of the M’Naughten Rules)” as the Court of Criminal Appeal in Regina v Byrne ([24] supra) at 404 observed. Following suit, Ashworth J, the trial judge in Regina v Lloyd [1967] 1 QB 175 at 178 summed up his directions to the jury as follows: 
 
@@ -606,7 +606,7 @@ would term it abnormal. This description was adopted by the Court of Appeal in _
 137    I note that the summation in _Regina v Lloyd_ was also cited by the Court of Appeal in _Chua_ 
 
 
-_Hwa Soon Jimmy v PP_ [1998] 2 SLR 22 (“ _Jimmy Chua_ ”) as being useful. 
+_Hwa Soon Jimmy v PP_ <span class="citation">[1998] 2 SLR 22</span> (“ _Jimmy Chua_ ”) as being useful. 
 
 138    The Court of Appeal in _Jimmy Chua_ also said at [32]: 
 

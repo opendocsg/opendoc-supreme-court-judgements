@@ -20,7 +20,7 @@ _Courts and Jurisdiction_
 
 _Contempt of Court_ – _Civil Contempt_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 137 of 2010 was dismissed by the Court of Appeal on 10 February 2011. See [2011] SGCA 19.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 137 of 2010 was dismissed by the Court of Appeal on 10 February 2011. See <span class="citation">[2011] SGCA 19</span>.] 
 
 5 August 2010 Judgment reserved. 
 
@@ -123,7 +123,7 @@ seeking to “recover substantial damages and reliefs ... against [the 1 st resp
 
  [emphasis added] 
 
-The views of Lord Morris were endorsed by the Singapore Court of Appeal in _Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and others_ [2007] 2 SLR(R) 518 (“ _Pertamina_ ”) at [22]. 
+The views of Lord Morris were endorsed by the Singapore Court of Appeal in _Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and others_ <span class="citation">[2007] 2 SLR(R) 518</span> (“ _Pertamina_ ”) at [22]. 
 
 15     Contempt of court must be proven beyond reasonable doubt: see _Pertamina_ at [35]. Lord Denning MR explained why this is so in In re Bramblevale Ltd _[1970] 1 Ch 128 at 137 as follows_ : 
 
@@ -217,7 +217,7 @@ an order endorsed with the requisite penal notice personally on the 2 nd and 3rd
 
  therein, or, if the order is to abstain from doing an act, that if he disobeys the order, he is liable to process of execution to compel him to obey it. 
 
-33     The significance of a penal notice was elucidated in _Allport Alfred James v Wong Soon Lan_ [1988] 2 SLR(R) 520 by Chao Hick Tin JC, who stated at [8]: 
+33     The significance of a penal notice was elucidated in _Allport Alfred James v Wong Soon Lan_ <span class="citation">[1988] 2 SLR(R) 520</span> by Chao Hick Tin JC, who stated at [8]: 
 
  The court’s powers to punish any person for civil contempt are quasi-criminal in nature. Where there is prescribed any procedural step in the exercise of that jurisdiction, that rule should be scrupulously observed and strictly complied with... [T]he rationale for a penal notice is to ensure that the person against whom the order is made fully appreciates the consequences of any noncompliance. 
 

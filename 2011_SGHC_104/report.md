@@ -99,11 +99,11 @@ The plaintiff’s c ontention that the present ac tion as a distinc t c ause of 
 
 **The law** 
 
-15     A party’s right to c ommenc e ac tion after a previous similar ac tion has been struc k out for the failure to c omply with a peremptory order has been disc ussed and settled by the Court of Appeal in _Changhe International Investments Pte Ltd (formerly known as Druidstone Pte Ltd) v Dexia BIL Asia Singapore Ltd (formerly known as Banque Internationale A Luxembourg BIL (Asia) Ltd)_ [2005] 3 SLR(R) 344 (“ _Changhe_ ”) where it held at [6]: 
+15     A party’s right to c ommenc e ac tion after a previous similar ac tion has been struc k out for the failure to c omply with a peremptory order has been disc ussed and settled by the Court of Appeal in _Changhe International Investments Pte Ltd (formerly known as Druidstone Pte Ltd) v Dexia BIL Asia Singapore Ltd (formerly known as Banque Internationale A Luxembourg BIL (Asia) Ltd)_ <span class="citation">[2005] 3 SLR(R) 344</span> (“ _Changhe_ ”) where it held at [6]: 
 
  Sinc e the 1980s, it has been settled law that the c ourt has the disc retion to strike out an ac tion as an abuse of proc ess of the c ourt where there had been a failure by a litigant to c omply with a peremptory order of the c ourt in a previous ac tion. 
 
-It referred to the landmark English dec isions in _Janov v Morris_ [1981] 1 WLR 1389 and _Samuels v Linzi Dresses Ltd_ [1981] QB 115 and the Court of Appeal’s dec ision in _Syed Mohamed Abdul Muthaliff v Arjan Bhisham Chotrani_ [1999] 1 SLR(R) 361 (“ _Syed Mohamed_ ”) and c onc luded at [11] that: 
+It referred to the landmark English dec isions in _Janov v Morris_ [1981] 1 WLR 1389 and _Samuels v Linzi Dresses Ltd_ [1981] QB 115 and the Court of Appeal’s dec ision in _Syed Mohamed Abdul Muthaliff v Arjan Bhisham Chotrani_ <span class="citation">[1999] 1 SLR(R) 361</span> (“ _Syed Mohamed_ ”) and c onc luded at [11] that: 
 
  [I]t is established law that where a litigant, whose first ac tion has been struc k out for failure to c omply with a peremptory order, brings a sec ond suit based on the same c ause of ac tion, that sec ond suit may be struc k out as being an abuse of the proc ess of the c ourt unless the litigant c an give a proper explanation to establish that his failure to comply with the peremptory order was not c ontumelious. It should be noted that Tolley v Morris [[1979] 1 WLR 592] also stands for the princ iple that disobedienc e to a peremptory order would generally amount to c ontumelious c onduc t. 
 

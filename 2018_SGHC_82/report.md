@@ -112,7 +112,7 @@ to contain a total of not less than 51.69g of diamorphine, [note: 22] formed the
 
 12 “Traffic” (with “trafficking” given a corresponding meaning) is defined in s 2 of the MDA as (a) to sell, give, administer, transport, send, deliver or distribute; or (b) to offer to do the same, in the absence of authority given under the Act. 
 
-13     The Prosecution’s case was that Ong and Abdul possessed the various exhibits for the purpose of trafficking. The elements of a charge for possessing a controlled drug for the purpose of trafficking under s 5(1) read with s 5(2) of the MDA were set out by the Court of Appeal in _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ [2014] 3 SLR 721 at [59]: 
+13     The Prosecution’s case was that Ong and Abdul possessed the various exhibits for the purpose of trafficking. The elements of a charge for possessing a controlled drug for the purpose of trafficking under s 5(1) read with s 5(2) of the MDA were set out by the Court of Appeal in _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ <span class="citation">[2014] 3 SLR 721</span> at [59]: 
 
  (a) possession of a controlled drug; 
 
@@ -137,7 +137,7 @@ drugs to be heroin, [note: 23] only element (c) was in dispute in this case. The
 
  whether or not contained in any substance, extract, preparation or mixture, shall be presumed to have had that drug in possession for the purpose of trafficking unless it is proved that his possession of that drug was not for that purpose. 
 
-15     Ong and Abdul’s defences, which I will turn to, rested upon consumption. In _Muhammad bin Abdullah v Public Prosecutor and another appeal_ [2017] 1 SLR 427 (“ _Muhammad bin Abdullah_ ”) at [31], the Court of Appeal highlighted the following factors which are relevant when examining the defence of consumption: 
+15     Ong and Abdul’s defences, which I will turn to, rested upon consumption. In _Muhammad bin Abdullah v Public Prosecutor and another appeal_ <span class="citation">[2017] 1 SLR 427</span> (“ _Muhammad bin Abdullah_ ”) at [31], the Court of Appeal highlighted the following factors which are relevant when examining the defence of consumption: 
 
  (a) rate of drug consumption; 
 
@@ -293,7 +293,7 @@ _Consumption_
 
 had intended to deliver or “give” two packets of heroin to Ong, [note: 76] and that the remaining 
 
-packet was “to be given to Jebek because he ordered” half a pound of heroin. [note: 77] These acts fall within the definition of trafficking under s 2 of the MDA, which is to “give, ... send, deliver or distribute”, and Abdul’s intention to deliver to Ong and Jebek at a future time was sufficient for the purposes of s 5(2) (see _Lee Yuan Kwang & anor v Public Prosecutor_ [1995] 1 SLR(R) 778 at [57]). Therefore, by Abdul’s own account, he had possessed B1A for the purpose of trafficking. It was also 
+packet was “to be given to Jebek because he ordered” half a pound of heroin. [note: 77] These acts fall within the definition of trafficking under s 2 of the MDA, which is to “give, ... send, deliver or distribute”, and Abdul’s intention to deliver to Ong and Jebek at a future time was sufficient for the purposes of s 5(2) (see _Lee Yuan Kwang & anor v Public Prosecutor_ <span class="citation">[1995] 1 SLR(R) 778</span> at [57]). Therefore, by Abdul’s own account, he had possessed B1A for the purpose of trafficking. It was also 
 
 undisputed that B1A was found to contain not less than 29.53g of diamorphine. [note: 78] Accordingly, Abdul’s admission in relation to B1A alone was sufficient to sustain a capital charge under s 5(1) read with s 5(2) of the MDA. 
 
@@ -318,7 +318,7 @@ withdrawal symptoms had reduced because of the lower intake. [note: 84]
 
 36     Secondly, while defence counsel asserted that Abdul could smoke up to half a packet a day, he did not follow on, despite an invitation from the Court, with any assertion as to how long the amount 
 
-of diamorphine found in his possession would have lasted him at that rate. [note: 85] Of relevance is the guidance in _Jusri bin Mohamed Hussain v Public Prosecutor_ [1996] 2 SLR(R) 706 at [49] that an accused person seeking to establish a defence of consumption must “at the very least be able to give a coherent account of his rate of consumption” to discharge his legal burden of rebutting the presumption of trafficking. In any event, Abdul stated that half a packet would contain about five or 
+of diamorphine found in his possession would have lasted him at that rate. [note: 85] Of relevance is the guidance in _Jusri bin Mohamed Hussain v Public Prosecutor_ <span class="citation">[1996] 2 SLR(R) 706</span> at [49] that an accused person seeking to establish a defence of consumption must “at the very least be able to give a coherent account of his rate of consumption” to discharge his legal burden of rebutting the presumption of trafficking. In any event, Abdul stated that half a packet would contain about five or 
 
 six straws. [note: 86] Even if he smoked this amount every two days, he would have had enough diamorphine to last him more than 170 days. This was still a very substantial quantity of diamorphine. 
 
@@ -386,9 +386,9 @@ and six long statements. Abdul challenged the voluntariness of seven of the ten 
 
 your wife and ... your family to the station.” [note: 110] 
 
-43     Taking Abdul’s case at its highest, ASP Chor had threatened to bring Abdul’s family to the police station if he was not helpful with Ong’s arrest. In other words, this alleged threat was made to enlist Abdul’s assistance in a drug operation, and not for the purpose of obtaining a confession from him. The alleged threat did not have reference to the charge, which is a requirement under s 258(3) of the CPC (see _Poh Kay Keong v Public Prosecutor_ [1995] 3 SLR(R) 887 at [44]). Further, the words uttered by ASP Chor were not, objectively determined, a threat. Abdul’s allegation was that ASP Chor had threatened to bring his family to the police station. There was no suggestion that ASP Chor had threatened to prosecute his family or to harm them in any way. Accordingly, in my view, Abdul’s fears were self-induced and did not emanate from a threat, inducement or promise. Indeed, Abdul conceded 
+43     Taking Abdul’s case at its highest, ASP Chor had threatened to bring Abdul’s family to the police station if he was not helpful with Ong’s arrest. In other words, this alleged threat was made to enlist Abdul’s assistance in a drug operation, and not for the purpose of obtaining a confession from him. The alleged threat did not have reference to the charge, which is a requirement under s 258(3) of the CPC (see _Poh Kay Keong v Public Prosecutor_ <span class="citation">[1995] 3 SLR(R) 887</span> at [44]). Further, the words uttered by ASP Chor were not, objectively determined, a threat. Abdul’s allegation was that ASP Chor had threatened to bring his family to the police station. There was no suggestion that ASP Chor had threatened to prosecute his family or to harm them in any way. Accordingly, in my view, Abdul’s fears were self-induced and did not emanate from a threat, inducement or promise. Indeed, Abdul conceded 
 
-in cross-examination that his worries about his wife were “self-perceived”. [note: 111] Such selfperceived threats are insufficient to render a statement involuntary – the existence of a threat, inducement or promise from a person in authority must be established ( _Lu Lai Heng v Public Prosecutor_ [1994] 1 SLR(R) 1037 at [19]). Abdul moreover conceded that he had known, even before his first contemporaneous statement (which he admitted to be voluntary) was recorded, that his wife would 
+in cross-examination that his worries about his wife were “self-perceived”. [note: 111] Such selfperceived threats are insufficient to render a statement involuntary – the existence of a threat, inducement or promise from a person in authority must be established ( _Lu Lai Heng v Public Prosecutor_ <span class="citation">[1994] 1 SLR(R) 1037</span> at [19]). Abdul moreover conceded that he had known, even before his first contemporaneous statement (which he admitted to be voluntary) was recorded, that his wife would 
 
 be brought to the police station. [note: 112] 
 
@@ -396,7 +396,7 @@ be brought to the police station. [note: 112]
 
 wife. [note: 113] He alleged that this fear operated on his mind and continued throughout the recording of the long statements. 
 
-45     This challenge had no merit. Even if the Court were to accept Abdul’s contentions, the words allegedly uttered by IO Basheer did not, objectively determined, amount to a threat, inducement or promise. There was no suggestion that IO Basheer had demanded that Abdul confess or admit to trafficking heroin before he would let him speak to his wife. Rather, the allegation was that IO Basheer did not allow Abdul to speak to his wife until he had finished giving his statements. It is difficult to accept how this subjectively caused Abdul to provide the six long statements over the course of seven days, from 11 August 2015 to 17 August 2015. These statements were recorded after the cautioned statement, where it was explained to Abdul that he would be sentenced to death if he was convicted of trafficking heroin. In my view, it is difficult to believe that Abdul would have willingly admitted to a capital charge in exchange for an opportunity to speak with his wife. Of relevance also was _Sharom bin Ahmad and another v Public Prosecutor_ [2000] 2 SLR(R) 541 (“ _Sharom_ ”), where the accused, who faced a capital charge, challenged the admissibility of a long statement in a similar vein. The Court of Appeal found that it “made no sense” that the accused’s free will “would be so easily weakened by his desire to see his wife that he would rather give a statement that would eventually bring him more harm than any advantage” ( _Sharom_ at [47]). 
+45     This challenge had no merit. Even if the Court were to accept Abdul’s contentions, the words allegedly uttered by IO Basheer did not, objectively determined, amount to a threat, inducement or promise. There was no suggestion that IO Basheer had demanded that Abdul confess or admit to trafficking heroin before he would let him speak to his wife. Rather, the allegation was that IO Basheer did not allow Abdul to speak to his wife until he had finished giving his statements. It is difficult to accept how this subjectively caused Abdul to provide the six long statements over the course of seven days, from 11 August 2015 to 17 August 2015. These statements were recorded after the cautioned statement, where it was explained to Abdul that he would be sentenced to death if he was convicted of trafficking heroin. In my view, it is difficult to believe that Abdul would have willingly admitted to a capital charge in exchange for an opportunity to speak with his wife. Of relevance also was _Sharom bin Ahmad and another v Public Prosecutor_ <span class="citation">[2000] 2 SLR(R) 541</span> (“ _Sharom_ ”), where the accused, who faced a capital charge, challenged the admissibility of a long statement in a similar vein. The Court of Appeal found that it “made no sense” that the accused’s free will “would be so easily weakened by his desire to see his wife that he would rather give a statement that would eventually bring him more harm than any advantage” ( _Sharom_ at [47]). 
 
 (2) Abdul’s assertions during his trial regarding his statements 
 
@@ -495,7 +495,7 @@ _The law on s 33B_
 
  (4) The determination of whether or not any person has substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities shall be at the sole discretion of the Public Prosecutor and no action or proceeding shall lie against the Public Prosecutor in relation to any such determination unless it is proved to the court that the determination was done in bad faith or with malice. 
 
-55     The Court of Appeal recently provided guidance in _Zainudin bin Mohamed v Public Prosecutor_ [2018] SGCA 8 (“ _Zainudin_ ”) on the scope of this provision. Although this decision was delivered after written submissions were exchanged on 5 February 2018, parties asked to submit on it at the last hearing on 15 March 2018 and were of the view that their closing submissions were consistent with 
+55     The Court of Appeal recently provided guidance in _Zainudin bin Mohamed v Public Prosecutor_ <span class="citation">[2018] SGCA 8</span> (“ _Zainudin_ ”) on the scope of this provision. Although this decision was delivered after written submissions were exchanged on 5 February 2018, parties asked to submit on it at the last hearing on 15 March 2018 and were of the view that their closing submissions were consistent with 
 
 the views of the Court of Appeal. [note: 132] 
 
@@ -524,7 +524,7 @@ _Decision_
 
 58     Particular reliance was placed by defence counsel on _Public Prosecutor v Christeen d/o_ 
 
-_Jayamany and another_ [2015] SGHC 126 (“ _Christeen_ ”), [note: 133] where Tay Yong Kwang J (as Tay JA then was) distilled the following factors which inform the analysis of whether an accused was a mere “courier” (at [68]): 
+_Jayamany and another_ <span class="citation">[2015] SGHC 126</span> (“ _Christeen_ ”), [note: 133] where Tay Yong Kwang J (as Tay JA then was) distilled the following factors which inform the analysis of whether an accused was a mere “courier” (at [68]): 
 
  (a) whether the role is a common and ordinary incident of transporting, sending or delivering a drug; 
 
@@ -542,7 +542,7 @@ _Jayamany and another_ [2015] SGHC 126 (“ _Christeen_ ”), [note: 133] where 
 
 59     It was submitted on behalf of Abdul that applying the above guidance, Abdul was merely a “courier” for the following reasons: 
 
- (a) Abdul had repacked the diamorphine in order to differentiate what belonged to him and the other persons, and because there was a hole in the packaging of the original wrapping which could have opened him to allegations that the diamorphine had “leaked”. [note: 134] Furthermore, as stated by Choo Han Teck J in Public Prosecutor v Tan Kah Ho and another [2017] SGHC 61, an accused who “separated the bundles for delivery” could nevertheless be considered a courier. [note: 135] 
+ (a) Abdul had repacked the diamorphine in order to differentiate what belonged to him and the other persons, and because there was a hole in the packaging of the original wrapping which could have opened him to allegations that the diamorphine had “leaked”. [note: 134] Furthermore, as stated by Choo Han Teck J in Public Prosecutor v Tan Kah Ho and another <span class="citation">[2017] SGHC 61</span>, an accused who “separated the bundles for delivery” could nevertheless be considered a courier. [note: 135] 
 
  (b) Abdul’s delivery was a “one-off ad hoc duty”, given that the evidence did not show any lengthy exchanges between Kumar and him. [note: 136] 
 
@@ -550,7 +550,7 @@ _Jayamany and another_ [2015] SGHC 126 (“ _Christeen_ ”), [note: 133] where 
 
  (d) Abdul did not profit from the transaction. [note: 138] 
 
-60     Primarily, Abdul sought to say that he was purely a deliveryman for the parcels for Ong and Jebek. In assessing the defence contentions, three points are pertinent. First, the burden of proof lies on the person convicted to prove, on a balance of probabilities, that his involvement in the offence was restricted to one of the permitted types of activities set out in s 33B(2)( _a_ )(i)–(iv): _Zainudin_ , at [109]. Secondly, this inquiry is a fact-sensitive one in each case: _Rosman bin Abdullah v Public Prosecutor_ [2017] 1 SLR 10 (“ _Rosman bin Abdullah_ ”) at [30]–[31]. Thirdly, even an offender who is asked to deliver a quantity of drugs may nevertheless found not to be delivering but in substance to be distributing: _Zainudin_ at [105]. As I explain below, the evidence did not support Abdul’s contentions that he was only facilitating delivery as a courier. 
+60     Primarily, Abdul sought to say that he was purely a deliveryman for the parcels for Ong and Jebek. In assessing the defence contentions, three points are pertinent. First, the burden of proof lies on the person convicted to prove, on a balance of probabilities, that his involvement in the offence was restricted to one of the permitted types of activities set out in s 33B(2)( _a_ )(i)–(iv): _Zainudin_ , at [109]. Secondly, this inquiry is a fact-sensitive one in each case: _Rosman bin Abdullah v Public Prosecutor_ <span class="citation">[2017] 1 SLR 10</span> (“ _Rosman bin Abdullah_ ”) at [30]–[31]. Thirdly, even an offender who is asked to deliver a quantity of drugs may nevertheless found not to be delivering but in substance to be distributing: _Zainudin_ at [105]. As I explain below, the evidence did not support Abdul’s contentions that he was only facilitating delivery as a courier. 
 
 61     First, Abdul’s submissions on the delivery of the parcel intended for Jebek was contradicted by 
 
@@ -585,12 +585,12 @@ afternoon. [note: 151] The reference in the third contemporaneous statement to $
 
 63     Of relevance is _Rosman bin Abdullah_ , cited by Chong JA with approval in _Zainudin_ at [67]. There, Rosman actively sourced for the diamorphine in question and acted as a middleman in negotiations between the supplier and a third party for the sale and purchase of diamorphine, by conveying the third party’s offer to the supplier to enable the two of them to reach an agreement over the terms of payment. The Court of Appeal held in _Rosman bin Abdullah_ that these acts were not merely incidental in the course of transporting, sending or delivery of drugs (at [36]), and affirmed the finding of Tay J that he was not a “courier”. Similarly, in the present case, Abdul had sourced diamorphine for Ong, and was a middleman between Ong and Kumar. 
 
-64     The _Christeen_ guidelines, relied upon by defence counsel, did not assist Abdul. His acts were not a “common and ordinary incident of transporting, sending or delivering a drug”, nor was his involvement “necessary to deliver the drugs”. It should be noted that while the accused Christeen collected money and relayed messages, these actions were incidental to her transporting and delivering the drugs: see _Zainudin_ , at [61]–[64]. Indeed, in _Public Prosecutor v Rosman bin Abdullah_ [2015] SGHC 287, at [18], Tay J referred to his earlier _Christeen_ guidelines and distinguished Rosman’s role on the footing that he helped to source for heroin and to broker the deal. 
+64     The _Christeen_ guidelines, relied upon by defence counsel, did not assist Abdul. His acts were not a “common and ordinary incident of transporting, sending or delivering a drug”, nor was his involvement “necessary to deliver the drugs”. It should be noted that while the accused Christeen collected money and relayed messages, these actions were incidental to her transporting and delivering the drugs: see _Zainudin_ , at [61]–[64]. Indeed, in _Public Prosecutor v Rosman bin Abdullah_ <span class="citation">[2015] SGHC 287</span>, at [18], Tay J referred to his earlier _Christeen_ guidelines and distinguished Rosman’s role on the footing that he helped to source for heroin and to broker the deal. 
 
 
 65     In addition, aside from Ong, Abdul admitted to some 55 customers in his sixth investigation 
 
-statement. [note: 152] In the light of this customer base, and his admission in his investigation statement mentioned at [61] in relation to the third parcel in B1A, it was clear that his collection from Kumar was not one-off as he contended. Rather, he had sourced for and intended to facilitate the sale and distribution of the heroin found in his possession. It was clear from the Court of Appeal’s decision in _Public Prosecutor v Chum Tat Suan_ [2015] 1 SLR 834 that persons intending to sell controlled drugs would not be characterised as couriers: see _Zainudin_ at [70]. 
+statement. [note: 152] In the light of this customer base, and his admission in his investigation statement mentioned at [61] in relation to the third parcel in B1A, it was clear that his collection from Kumar was not one-off as he contended. Rather, he had sourced for and intended to facilitate the sale and distribution of the heroin found in his possession. It was clear from the Court of Appeal’s decision in _Public Prosecutor v Chum Tat Suan_ <span class="citation">[2015] 1 SLR 834</span> that persons intending to sell controlled drugs would not be characterised as couriers: see _Zainudin_ at [70]. 
 
 66     For these reasons, I found that Abdul’s role exceeded that of a “courier” and that he was unable to satisfy the requirements of s 33B(2)( _a_ ) of the MDA. 
 

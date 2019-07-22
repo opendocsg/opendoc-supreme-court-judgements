@@ -60,10 +60,10 @@ The principles applicable to the granting of a stay where the question of forum 
 
 are well known and have been considered by the Court of Appeal on numerous occasions. In **Oriental** 
 
-**Insurance Co v Bhavani Stores** [1998] 1 SLR 253 at [para ]10, Yong Pung How CJ said: 
+**Insurance Co v Bhavani Stores** <span class="citation">[1998] 1 SLR 253</span> at [para ]10, Yong Pung How CJ said: 
 
 
- The principles governing this matter are clear and established. The approach suggested by Lord Goff in The Spiliada [1987] 1 Lloyds Rep 1 has since been approved and applied by the Court of Appeal in Brinkerhoff Maritime Drilling Corp & Anor v PT Airfast Services Indonesia and another appeal [1992] 2 SLR 776. We set out the relevant passages from the judgment of Lord Goff: 
+ The principles governing this matter are clear and established. The approach suggested by Lord Goff in The Spiliada [1987] 1 Lloyds Rep 1 has since been approved and applied by the Court of Appeal in Brinkerhoff Maritime Drilling Corp & Anor v PT Airfast Services Indonesia and another appeal <span class="citation">[1992] 2 SLR 776</span>. We set out the relevant passages from the judgment of Lord Goff: 
 
  In my opinion, the burden resting on the defendant is not just to show that England is not the natural or appropriate forum for the trial, but to establish that there is another available forum which is clearly or distinctly more appropriate than the English forum. In this way, proper regard is paid to the fact that jurisdiction has been founded as of right ... 
 
@@ -110,7 +110,7 @@ As for the availability of witnesses and evidence, it was not asserted that a tr
 
 As for Mr Sivakumar`s submission that the action should be tried in Indonesia because Indonesian law is the proper law of the contract and complicated issues under Indonesian law regarding the validity of an indemnity without the consent of a spouse are involved, Mr Koh pointed out that this assertion is misguided since Mr Widodo`s position is that he did not enter into the alleged agreement with Mr Yugiantoro. That being the case, it would be illogical for him to speak of any governing law, be it Indonesian or otherwise. 
 
-If the alleged oral contract was made, it certainly did not deal with the question of the proper law of the contract. In the circumstances of this case, it would not be meaningful to try and determine whether or not any inference may be drawn regarding the intention of the parties on the choice of law. It would be more productive to determine whether or not the alleged agreement has, as Mr Widodo asserted, the closest and most real connection with Indonesian law. In **Las Vegas Hilton Corp t/a Las Vegas Hilton v Khoo Teng Hock Sunny** [1997] 1 SLR 341 at [para ]45, Chao Hick Tin J, as he then was, noted as follows: 
+If the alleged oral contract was made, it certainly did not deal with the question of the proper law of the contract. In the circumstances of this case, it would not be meaningful to try and determine whether or not any inference may be drawn regarding the intention of the parties on the choice of law. It would be more productive to determine whether or not the alleged agreement has, as Mr Widodo asserted, the closest and most real connection with Indonesian law. In **Las Vegas Hilton Corp t/a Las Vegas Hilton v Khoo Teng Hock Sunny** <span class="citation">[1997] 1 SLR 341</span> at [para ]45, Chao Hick Tin J, as he then was, noted as follows: 
 
  To determine the question of closest and most real connection many factors may be taken into account, the main ones are the place of contracting, the place of performance, the places of residence or business of the parties respectively; and the nature and subject-matter of the contract: see Re United Railways of Havana and Regla Warehouses Ltd [1960] Ch 52 at 91 per Jenkins LJ. 
 
@@ -181,7 +181,7 @@ Indonesian law.
 
 Mr Sivakumar referred to the decision of the Court of Appeal in **Bambang Sutrisno v Bali** 
 
-**International Finance** [1999] 3 SLR 140 , where the Court of Appeal stayed an action with respect 
+**International Finance** <span class="citation">[1999] 3 SLR 140</span> , where the Court of Appeal stayed an action with respect 
 
 to the enforcement of a guarantee executed in Singapore by the appellant, an Indonesian and a 
 

@@ -20,7 +20,7 @@ _Family law_ – _Maintenance_ – _Wife_
 
 _Family law_ – _Matrimonial assets_ – _Division_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 102 of 2013 was dismissed and the appeal in Civil Appeal No 103 of 2013 was allowed by the Court of Appeal on 12 March 2015. See [2015] SGCA 34.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 102 of 2013 was dismissed and the appeal in Civil Appeal No 103 of 2013 was allowed by the Court of Appeal on 12 March 2015. See <span class="citation">[2015] SGCA 34</span>.] 
 
 30 September 2014 
 
@@ -138,7 +138,7 @@ true that the matrimonial home may increase in value, it may also decrease in va
 
 **Maintenance** 
 
-30     I was of the view that the Wife could maintain herself as she was earning about $6,810 per month. Nevertheless, in order not to prejudice any future application she might wish to make for her own maintenance if there were to be a change of circumstances, I granted her a nominal sum of $ per month. In _Tan Bee Giok v Loh Kum Yong_ [1996] 3 SLR(R) 605, the Court of Appeal decided (at [13]–[15]) that a nominal maintenance ought to be awarded for a wife without which she would be precluded from applying for maintenance in the future. Hence it has been the practice of our courts to grant $1 a month maintenance just to keep that option alive. While I accept that it is not logical to maintain a distinction between nil maintenance and $1 maintenance a month, the said Court of Appeal decision appears to be good law still. 
+30     I was of the view that the Wife could maintain herself as she was earning about $6,810 per month. Nevertheless, in order not to prejudice any future application she might wish to make for her own maintenance if there were to be a change of circumstances, I granted her a nominal sum of $ per month. In _Tan Bee Giok v Loh Kum Yong_ <span class="citation">[1996] 3 SLR(R) 605</span>, the Court of Appeal decided (at [13]–[15]) that a nominal maintenance ought to be awarded for a wife without which she would be precluded from applying for maintenance in the future. Hence it has been the practice of our courts to grant $1 a month maintenance just to keep that option alive. While I accept that it is not logical to maintain a distinction between nil maintenance and $1 maintenance a month, the said Court of Appeal decision appears to be good law still. 
 
 31     The Husband objects even to the nominal maintenance granted to the Wife. Presumably he does not even want the spectre of a future maintenance application by the Wife to be kept alive. I saw no reason why she should be deprived of that avenue. If she could still seek maintenance in the 
 

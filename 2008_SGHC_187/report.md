@@ -84,7 +84,7 @@ lawfully authorized in writing or by will, was not complied with.
 
 **Why paragraphs 22 – 28 and prayer 12 of the Statement of Claim were struck out** 
 
-11     Courts are reluctant to strike out a claim for the simple reason that a claimant should not be driven away from the seat of justice without good cause. In _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ [1998] 1 SLR 374, the Court of Appeal stated as follows at [18]: 
+11     Courts are reluctant to strike out a claim for the simple reason that a claimant should not be driven away from the seat of justice without good cause. In _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ <span class="citation">[1998] 1 SLR 374</span>, the Court of Appeal stated as follows at [18]: 
 
  In general, it is only in plain and obvious cases that the power of striking out should be invoked.... It should not be exercised by a minute and protracted examination of the documents and facts of the case in order to see if the plaintiff really has a cause of action. The practice of the courts has been that, where an application for striking out involves a lengthy and serious argument, the court should decline to proceed with the argument unless, not only does it have doubts as to the soundness of the pleading but, in addition, it is satisfied that striking out will obviate the necessity for a trial or reduce the burden of preparing for a trial. 
 

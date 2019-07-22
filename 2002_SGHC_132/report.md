@@ -311,7 +311,7 @@ We look forw ard to ( _sic_ ) letting us know w hen w e can return the products 
 
 and the US$32,819 w hich Dataw ork itself w as claiming on the other hand, the resultant figure w ould be in excess of S$250,000. This w as the value of the subject matter for the purpose of s 34(2)(a) and, therefore, no leave to appeal w as required. 
 
-57\. Mr Coomarasw amy relied on 2 cases, _Augustine & anor v Goh Siam Yong_ [1992] 1 SLR 767 and the Malaysian case of _Yai Yen Hon v Teng Ah Kok & Sim Huat Sdn Bhd_ [1997] 1 MLJ 136. 
+57\. Mr Coomarasw amy relied on 2 cases, _Augustine & anor v Goh Siam Yong_ <span class="citation">[1992] 1 SLR 767</span> and the Malaysian case of _Yai Yen Hon v Teng Ah Kok & Sim Huat Sdn Bhd_ [1997] 1 MLJ 136. 
 
 58\. In the _Augustine_ case, the respondent commenced an action in the Magistrates Court to recover damages in respect of a traffic accident. The appellants did not enter an appearance and the respondent obtained interlocutory judgment w ith damages to be assessed. Such damages w ere assessed by a deputy registrar of the subordinate courts at $4,780.89. The appellants appealed to a district judge-in-chambers w ho reduced the damages to $1,177.50. The respondent filed a notice of appeal to the High Court against the reduced assessment. 
 
@@ -340,7 +340,7 @@ The appellants there contended that since the district judge-in-chambers had red
 
 68\. Mr Coomarasw amys alternative position w as that if leave to appeal w as required, then such leave ought to be granted to Dataw ork. 
 
-69\. In _Lee Kuan Yew v Tang Liang Hong_ [1997] 3 SLR 489, the Court of Appeal considered w hether leave to appeal should be granted in respect of an order of costs under s 34(2)(b) SCJA. After referring to Justice Lai Kew Chais judgment in _Anthony s/o Savarimiuthu v Soh Chuan Tin_ [1989] SLR 607, Chief Justice Yong Pung How enunciated three limbs to be considered w hen leave to appeal is sought: 
+69\. In _Lee Kuan Yew v Tang Liang Hong_ <span class="citation">[1997] 3 SLR 489</span>, the Court of Appeal considered w hether leave to appeal should be granted in respect of an order of costs under s 34(2)(b) SCJA. After referring to Justice Lai Kew Chais judgment in _Anthony s/o Savarimiuthu v Soh Chuan Tin_ [1989] SLR 607, Chief Justice Yong Pung How enunciated three limbs to be considered w hen leave to appeal is sought: 
 
  (a) prima facie case of error, 
 
@@ -355,7 +355,7 @@ The appellants there contended that since the district judge-in-chambers had red
 72\. As regards the alleged error of law , Mr Coomarasw amy relied on tw o local cases for the proposition that a trial judges finding of fact should not be disturbed unless he w as plainly w rong. They w ere _Seah Ting_ 
 
 
-_Soon v Indonesian Tractors Co Pte Ltd_ [2001] 1 SLR 521 and _Peh Eng Leng v Pek Eng Leong_ [1996] 2 SLR 305. How ever, that principle w as not in issue. Besides, in the case of _Peh Eng Leng_ , Karthigesu JA said that the evidence of a w itness should be tested against inherent probabilities or improbabilities and against uncontroverted facts (see p 312 at H/I of the report). Mr Coomarasw amy did not dispute this principle but he submitted that the finding of the trial judge w ould stand up to scrutiny even w hen so tested. 
+_Soon v Indonesian Tractors Co Pte Ltd_ <span class="citation">[2001] 1 SLR 521</span> and _Peh Eng Leng v Pek Eng Leong_ <span class="citation">[1996] 2 SLR 305</span>. How ever, that principle w as not in issue. Besides, in the case of _Peh Eng Leng_ , Karthigesu JA said that the evidence of a w itness should be tested against inherent probabilities or improbabilities and against uncontroverted facts (see p 312 at H/I of the report). Mr Coomarasw amy did not dispute this principle but he submitted that the finding of the trial judge w ould stand up to scrutiny even w hen so tested. 
 
 73\. He also relied on a decision of the Australian High Court in _Baumgartner v Baumgartner_ 76 ALR 75 for the proposition that it w as not legitimate for an appellate court to ignore the resolution of conflicting evidence by a trial judge and to draw inferences from the surrounding area of common ground only. 
 
@@ -369,7 +369,7 @@ _Soon v Indonesian Tractors Co Pte Ltd_ [2001] 1 SLR 521 and _Peh Eng Leng v Pek
 
 76\. Thirdly, under s 9A(3), a speech made in Parliament by a Minister on the occasion of the moving of a Bill and any relevant material in any official record of debates in Parliament could be considered in the interpretation of a provision of w ritten law. 
 
-77\. She then referred to the speech of the Minister of Law on s 34(2)(a) as cited in the judgment of L P Thean JA in _Spandeck Engineering (S) Pte Ltd v Yong Qiang Construction_ [1999] 4 SLR 401 and Thean JAs summary of the purpose of s 34(2)(a): 
+77\. She then referred to the speech of the Minister of Law on s 34(2)(a) as cited in the judgment of L P Thean JA in _Spandeck Engineering (S) Pte Ltd v Yong Qiang Construction_ <span class="citation">[1999] 4 SLR 401</span> and Thean JAs summary of the purpose of s 34(2)(a): 
 
  15 Prior to the amendments made by the Supreme Court of Judicature (Amendment) Act 1998, s 34(2) read as follow s: 
 
@@ -392,7 +392,7 @@ _Soon v Indonesian Tractors Co Pte Ltd_ [2001] 1 SLR 521 and _Peh Eng Leng v Pek
 
  Sir, cases w ithin the jurisdiction of the District Courts are appealable as of right to the High Court and are also appealable as of right to the Court of Appeal. This position is unsatisfactory as there is a three-tier system and it is not something that is really needed. Indeed, the proposed amendments may have been intended to do aw ay w ith this anomaly. Cases w ithin the jurisdiction of the High Court are appealable as of right to the Court of Appeal. Here again, there is a tw o tier system. This position is satisfactory and w as consciously adopted w ith the cessation of appeals to the Privy Council. 
 
-79\. It seemed to me that this view w as implicit in the intention to limit the right of appeal from a decision of the District Court to primarily the High Court. Indeed this w as also recognised by Chao Hick Tin JA in para 13 of his judgment in _Tan Chiang Brothers Marble (S) Pte Ltd v Permasteelisa Pacific Holdings Ltd_ [2002] 2 SLR 225 w here he said, Implicit in the scheme of things is that there should, as a rule, be only one tier of appeal .. 
+79\. It seemed to me that this view w as implicit in the intention to limit the right of appeal from a decision of the District Court to primarily the High Court. Indeed this w as also recognised by Chao Hick Tin JA in para 13 of his judgment in _Tan Chiang Brothers Marble (S) Pte Ltd v Permasteelisa Pacific Holdings Ltd_ <span class="citation">[2002] 2 SLR 225</span> w here he said, Implicit in the scheme of things is that there should, as a rule, be only one tier of appeal .. 
 
 80\. As for the argument that the court should assume, for present purposes, that Cyberinc w ould obtain the maximum sum under the District Courts jurisdiction after the assessment of damages, Ms Tan submitted that it w as uncertain how much Cyberinc w ould actually get. She argued that Mr Coomarasw amys argument w ould inject uncertainty. She also submitted that such an argument w ould cause an unw orkable or impracticable or inconvenient result. 
 

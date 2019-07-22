@@ -104,7 +104,7 @@ _Admission of printout_
 
 31     This printout thus supported the prosecution’s case that the CPF contributions were a sham designed by Lim to conceal the fact that he had failed to pay Tan and Yip the salaries declared. Accordingly, the prosecution sought to adduce it at trial in support of their case. 
 
-32     Not surprisingly, the defence objected. The reason for their objection was simple: it was an out of court statement that was adduced in Court, not to show that it had been made, but to show that the facts asserted within were true and thus would prima facie be hearsay: _Ang Jwee Herng v Public Prosecutor_ [2001] 2 SLR 474. 
+32     Not surprisingly, the defence objected. The reason for their objection was simple: it was an out of court statement that was adduced in Court, not to show that it had been made, but to show that the facts asserted within were true and thus would prima facie be hearsay: _Ang Jwee Herng v Public Prosecutor_ <span class="citation">[2001] 2 SLR 474</span>. 
 
 33     While this may be so, the printout also fell squarely into the ambit of s 34 Evidence Act (‘EA’), which provides that: 
 
@@ -171,7 +171,7 @@ can attest to the fact that the computer is working properly: _Reg v Shephard_ [
 47     The appellant in his Notice of Appeal had stated that he was appealing against both his conviction and sentence. The Petition of Appeal however merely stated that the sentence imposed was crushing and not in keeping with the appellant’s record or prospects. At appeal, I took the opportunity to clarify the matter and counsel for the appellant declined to make any oral submissions on this point. 
 
 
-48     Notwithstanding that, I still turned to consider whether the sentence imposed was manifestly excessive given the circumstances. I first noted that NSTB is a public institution administering public funds. The Courts generally adopt a harsh approach in cheating cases when the victim is a Government department or agency. This is done not out of cronyism but rather to safeguard our national resources: _Xia Qin Lai v Public Prosecutor_ [1999] 4 SLR 343. Secondly, this was not a one off offence committed on the spur of the moment, but an elaborate scam created to take advantage of a scheme designed to enhance Singapore’s competitiveness. This too demanded a deterrent sentence: _Public Prosecutor v Tan Fook Sum_ [1999] 2 SLR 523. 
+48     Notwithstanding that, I still turned to consider whether the sentence imposed was manifestly excessive given the circumstances. I first noted that NSTB is a public institution administering public funds. The Courts generally adopt a harsh approach in cheating cases when the victim is a Government department or agency. This is done not out of cronyism but rather to safeguard our national resources: _Xia Qin Lai v Public Prosecutor_ <span class="citation">[1999] 4 SLR 343</span>. Secondly, this was not a one off offence committed on the spur of the moment, but an elaborate scam created to take advantage of a scheme designed to enhance Singapore’s competitiveness. This too demanded a deterrent sentence: _Public Prosecutor v Tan Fook Sum_ <span class="citation">[1999] 2 SLR 523</span>. 
 
 49     With these two pointers in mind, I turned to the sentence imposed by the trial judge and found that the total sentence imposed on Lim of a term of imprisonment of 16 months could not be said to be manifestly excessive. As such, I dismissed his appeal against sentence. 
 

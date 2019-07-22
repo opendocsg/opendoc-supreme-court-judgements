@@ -174,14 +174,14 @@ relating to property (at 761):
 
 **_The inherent jurisdiction of the Court_** 
 
-23     I now turn to the Plaintiff’s final argument, which is that I should exercise the inherent jurisdiction of this Court to make the orders sought. In this context, the phrase “inherent jurisdiction” is really being used to mean the inherent _powers_ of the Court – the former refers to the Court’s inherent authority to hear a matter, while the latter is its inherent capacity to give effect to its determination by making or granting the orders or reliefs sought by the successful party to the dispute: _Re Nalpon Zero Geraldo Mario_ [2013] 3 SLR 258 at [33] and [40]–[41]. The Court’s inherent powers are recognised in O 92 r 4 of the ROC, which states: 
+23     I now turn to the Plaintiff’s final argument, which is that I should exercise the inherent jurisdiction of this Court to make the orders sought. In this context, the phrase “inherent jurisdiction” is really being used to mean the inherent _powers_ of the Court – the former refers to the Court’s inherent authority to hear a matter, while the latter is its inherent capacity to give effect to its determination by making or granting the orders or reliefs sought by the successful party to the dispute: _Re Nalpon Zero Geraldo Mario_ <span class="citation">[2013] 3 SLR 258</span> at [33] and [40]–[41]. The Court’s inherent powers are recognised in O 92 r 4 of the ROC, which states: 
 
 **4. Inherent powers of Court (O. 92, r. 4)** 
 
 
 4\. For the avoidance of doubt it is hereby declared that nothing in these Rules shall be deemed to limit or affect the inherent powers of the Court to make any order as may be necessary to prevent injustice or to prevent an abuse of the process of the Court. 
 
-24     The inherent powers of the Court may only be exercised in exceptional circumstances where there is a clear need for it and the justice of the case so demands: _Roberto Building Material Pte Ltd and others v Oversea-Chinese Banking Corp Ltd and another_ [2003] 2 SLR(R) 353 at [17]. The principles governing the exercise of the Court’s inherent powers were summarised by Professor Jeffrey Pinsler in his article _Inherent Jurisdiction Revisited: An Expanding Doctrine_ (2002) 14 SAcLJ 1 (“ _Inherent Jurisdiction Revisited_ ”) at [19] as follows: 
+24     The inherent powers of the Court may only be exercised in exceptional circumstances where there is a clear need for it and the justice of the case so demands: _Roberto Building Material Pte Ltd and others v Oversea-Chinese Banking Corp Ltd and another_ <span class="citation">[2003] 2 SLR(R) 353</span> at [17]. The principles governing the exercise of the Court’s inherent powers were summarised by Professor Jeffrey Pinsler in his article _Inherent Jurisdiction Revisited: An Expanding Doctrine_ (2002) 14 SAcLJ 1 (“ _Inherent Jurisdiction Revisited_ ”) at [19] as follows: 
 
  (i) Order 92, rule 4 refers to the inherent jurisdiction of the court. It provides that the court may make orders which are necessary to ‘prevent injustice’ or ‘prevent an abuse of the process of court’. 
 
@@ -191,7 +191,7 @@ relating to property (at 761):
 
  (iv) An essential consideration is the ‘need’ of the party concerned. 
 
- (v) However, this need must be of a sufficient degree to justify the exercise of the court’s inherent jurisdiction. It will not be exercised merely to satisfy the party’s interest or desire. In Wee Soon Kim [[2001] 2 SLR(R) 821], the Court of Appeal stated that the need was not of ‘such a gravity’ that the court should invoke its inherent jurisdiction. 
+ (v) However, this need must be of a sufficient degree to justify the exercise of the court’s inherent jurisdiction. It will not be exercised merely to satisfy the party’s interest or desire. In Wee Soon Kim [<span class="citation">[2001] 2 SLR(R) 821</span>], the Court of Appeal stated that the need was not of ‘such a gravity’ that the court should invoke its inherent jurisdiction. 
 
  (vi) Such a need does not arise if there is a procedural mechanism (whether provided by statute or the Rules of Court) in place which effectively governs the circumstances. 
 

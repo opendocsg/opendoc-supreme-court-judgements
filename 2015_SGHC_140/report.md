@@ -280,7 +280,7 @@ devices and accounts which she says she has deleted and which she says will prov
 
 35     The legal principles governing an application for summary judgment are well-known. The plaintiff must first show that he has a _prima facie_ case for summary judgment. If he fails to do that, his application ought to be dismissed with the usual adverse costs consequence (O 14 r 3(1) and r 7 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed)). If the plaintiff does cross that threshold, the defendant then comes under a tactical burden under O14 r 3 to raise “an issue or question in dispute which ought to be tried”. It is this concept which is often abbreviated to the well-known phrase, “a triable issue”. 
 
-36     In order to meet her tactical burden, a defendant must bring forward some grounds which raise a reasonable probability that she has a real or _bona fide_ defence in relation to the issues in dispute which ought to be tried: _Goh Chok Tong v Chee Soon Juan_ [2003] 3 SLR(R) 32. In that case, the Court of Appeal said the following (at [25]): 
+36     In order to meet her tactical burden, a defendant must bring forward some grounds which raise a reasonable probability that she has a real or _bona fide_ defence in relation to the issues in dispute which ought to be tried: _Goh Chok Tong v Chee Soon Juan_ <span class="citation">[2003] 3 SLR(R) 32</span>. In that case, the Court of Appeal said the following (at [25]): 
 
  25 It is a settled principle of law that in an application for summary judgment, the defendant will not be given leave to defend based on mere assertions alone: Banque de Paris et des Pays-Bas (Suisse) SA v Costa de Naray and Christopher John Walters [1984] 1 Lloyd's Rep 21 at 23. The court must be convinced that there is a reasonable probability that the defendant has a real or bona fide defence in relation to the issues. In this regard, the standard to be applied was wellarticulated by Laddie J in Microsoft Corporation v Electro-Wide Limited [1997] FSR 580, where he said at 593 to 594 that: 
 
@@ -291,7 +291,7 @@ devices and accounts which she says she has deleted and which she says will prov
 
 37     Alternatively, the defendant may attempt to show that there ought to be a trial for some other reason, even though there is no reasonable probability of a real or _bona fide_ defence in relation to the issues in dispute which ought to be tried. A defendant who chooses to pursue this latter argument bears both the legal burden of proof and the evidential burden on it. 
 
-38     At the conclusion of the application for summary judgment, having considered all the evidence, the court will enter judgment against the defendant only if the plaintiff has satisfied the court that there is no reasonable probability that the defendant has a real or _bona fide_ defence in relation to the issues in dispute which ought to be tried and (only if the defendant raises this point) that there is no other reason why there ought to be a trial: _Ritzland Investment Pte Ltd v Grace Management & Consultancy Services Pte Ltd_ [2014] 2 SLR 1342 at [43] to [47]. 
+38     At the conclusion of the application for summary judgment, having considered all the evidence, the court will enter judgment against the defendant only if the plaintiff has satisfied the court that there is no reasonable probability that the defendant has a real or _bona fide_ defence in relation to the issues in dispute which ought to be tried and (only if the defendant raises this point) that there is no other reason why there ought to be a trial: _Ritzland Investment Pte Ltd v Grace Management & Consultancy Services Pte Ltd_ <span class="citation">[2014] 2 SLR 1342</span> at [43] to [47]. 
 
 **_The Assistant Registrar’s decision_** 
 
@@ -339,7 +339,7 @@ _Points of pleading raised are not triable issues_
 49     The defendant also raised a pleading point on claim 7, on the basis that the claim relied a resulting trust which had not been sufficiently pleaded. This argument was not presented with any 
 
 
-force. In any event, it appears to me that the plaintiff’s claim is pleaded in sufficiently broad terms to encompass a claim to recover the car or, in the alternative, to recover damages for its unlawful detention in the tort of detinue. The plaintiff need not rely on any trust at all to advance this claim. He may simply rely on the principle in _Hilti Far East Pte Ltd v Tan Hup Guan_ [1991] 1 SLR(R) 711 that the owner of a car at law is the person who funds its purchase and not the person who is registered as its owner (at [21] – [23]). 
+force. In any event, it appears to me that the plaintiff’s claim is pleaded in sufficiently broad terms to encompass a claim to recover the car or, in the alternative, to recover damages for its unlawful detention in the tort of detinue. The plaintiff need not rely on any trust at all to advance this claim. He may simply rely on the principle in _Hilti Far East Pte Ltd v Tan Hup Guan_ <span class="citation">[1991] 1 SLR(R) 711</span> that the owner of a car at law is the person who funds its purchase and not the person who is registered as its owner (at [21] – [23]). 
 
 50     In taking these pleading points, the defendant is simply putting the plaintiff to proof on his case. That does not even begin to meet the defendant’s tactical burden on a summary judgment application. It is little wonder, therefore, that counsel for the defendant did not advance these points of pleading with any great enthusiasm in his oral submissions to me. 
 
@@ -559,7 +559,7 @@ _Purpose of the condition_
 
 108    Order 14 r 4(1) allows the court “to give a defendant ... leave to defend the action ... on such terms as to giving security or time or mode of trial or otherwise as it thinks fit”. This gives the court a wide discretion as to the type of condition to impose on a grant of leave to defend to ensure that justice is done in any particular case. As O 14 r 4(1) anticipates, however, the condition imposed typically requires the defendant to provide security in one form or other for all or part of the plaintiff’s claim. 
 
-109    There is no starting point for the exercise when the court considers how to exercise its discretion as to the quantum of security to require of a defendant who is to be granted conditional leave to defend under O 14 r 4(1). As the Court of Appeal said in _Mohd Zain bin Abdullah v Chimbusco International Petroleum (Singapore) Pte Ltd and another appeal_ [2014] 2 SLR 446 (“ _Chimbusco_ ”) at [39]: 
+109    There is no starting point for the exercise when the court considers how to exercise its discretion as to the quantum of security to require of a defendant who is to be granted conditional leave to defend under O 14 r 4(1). As the Court of Appeal said in _Mohd Zain bin Abdullah v Chimbusco International Petroleum (Singapore) Pte Ltd and another appeal_ <span class="citation">[2014] 2 SLR 446</span> (“ _Chimbusco_ ”) at [39]: 
 
  ... The court’s discretion ... under O14 r 4(1) of the Rules of Court ... is unqualified and widely framed. A starting point would detract from the latitude which these provisions seek to grant the court. Further, the court may impose any condition which it sees fit and need not confine itself to ordering that security be provided. We are therefore of the view that the court ought not to begin with any starting point in mind in determining the amount of security to be provided, and 
 
@@ -568,7 +568,7 @@ _Purpose of the condition_
 
 110    Requiring a defendant whose defence is shadowy or improbable to furnish security for the claim as a condition of securing leave to defend serves two purposes. First, it requires the defendant to show some degree of commitment to the defence she has advanced before she can have her day in court. That ensures, to the extent that it is possible to do so, that she is not stringing the plaintiff and the court along by advancing shadowy or improbable defences merely to gain the many advantages which accrue to a debtor from delay. 
 
-111    The second purpose of requiring a defendant to furnish security as a condition is to preserve the claimant’s position, to the extent that it is possible to do so, pending trial: _Chimbusco_ at [20]. Security which is provided pursuant to court order is security in the true sense of the word. The secured party has access to that source of payment in priority to all other creditors in the event of the opposing party’s insolvency. That is so whether the security is provided to comply with a condition of leave to defend ( _Re Ford; ex parte the Trustee_ [1900] 2 QB 211) or as security for costs ( _Cheng Lip Kwong v Bangkok Bank Ltd_ [1992] 1 SLR(R) 941). 
+111    The second purpose of requiring a defendant to furnish security as a condition is to preserve the claimant’s position, to the extent that it is possible to do so, pending trial: _Chimbusco_ at [20]. Security which is provided pursuant to court order is security in the true sense of the word. The secured party has access to that source of payment in priority to all other creditors in the event of the opposing party’s insolvency. That is so whether the security is provided to comply with a condition of leave to defend ( _Re Ford; ex parte the Trustee_ [1900] 2 QB 211) or as security for costs ( _Cheng Lip Kwong v Bangkok Bank Ltd_ <span class="citation">[1992] 1 SLR(R) 941</span>). 
 
 _The factors to bear in mind in fixing the condition_ 
 
@@ -620,7 +620,7 @@ source of income.
 
 difficult, all but the utterly impecunious will find it extremely difficult to do so. 
 
-120    The approach in _Yorke Motors_ was approved by the Court of Appeal in _Chimbusco_ at [20]. It has also been followed in a number of first instance cases including _International Bank of Singapore Ltd v Bader_ [1989] 1 MLJ 214; and _Citibank NA v Lim Soo Peng and Another_ [2004] SGHC 266. I adopt it in this case. 
+120    The approach in _Yorke Motors_ was approved by the Court of Appeal in _Chimbusco_ at [20]. It has also been followed in a number of first instance cases including _International Bank of Singapore Ltd v Bader_ [1989] 1 MLJ 214; and _Citibank NA v Lim Soo Peng and Another_ <span class="citation">[2004] SGHC 266</span>. I adopt it in this case. 
 
 **_The defendant should furnish security for the entire claim_** 
 

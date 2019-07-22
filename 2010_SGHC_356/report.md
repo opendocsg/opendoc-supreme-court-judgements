@@ -30,7 +30,7 @@ _Insolvency Law_
 
 4       On 7 July 2009, AA applied to set aside Orion’s statutory demand. He argued that by furnishing him the loan, Orion acted as a moneylender and as the latter did not have a moneylender’s license, the contract to lend him money was not enforceable by virtue of the Moneylenders Act (Cap 188, 1985 Rev Ed). The Assistant Registrar who heard AA’s application took the view that the debt was disputed on substantial grounds and that there was a triable issue as to whether the defendant was a moneylender under the Moneylenders Act. The statutory demand was thus set aside. 
 
-5       Orion appealed against the Assistant Registrar’s decision. On 25 August 2009, Lee Seiu Kin J overruled the Assistant Registrar’s decision and upheld the statutory demand: see _Agus Anwar v Orion Oil Ltd_ [2010] SGHC 6. He pointed out (at [12]) that AA had a totally unmeritorious case and had “tried to take advantage of the presumption in s 3 of the [Moneylenders Act] to escape his obligations, willingly undertaken at the time when he was desperate for cash, but which he did not want to repay for reasons best known to himself”. 
+5       Orion appealed against the Assistant Registrar’s decision. On 25 August 2009, Lee Seiu Kin J overruled the Assistant Registrar’s decision and upheld the statutory demand: see _Agus Anwar v Orion Oil Ltd_ <span class="citation">[2010] SGHC 6</span>. He pointed out (at [12]) that AA had a totally unmeritorious case and had “tried to take advantage of the presumption in s 3 of the [Moneylenders Act] to escape his obligations, willingly undertaken at the time when he was desperate for cash, but which he did not want to repay for reasons best known to himself”. 
 
 
 6       AA’s appeal against Lee J’s decision was dismissed by the Court of Appeal on 9 July 2010. 
@@ -51,7 +51,7 @@ _Insolvency Law_
 
  [emphasis added] 
 
-11     The wider ambit of the plea of _res judicata_ enunciated in _Henderson_ has been followed on numerous occasions by our courts: see the decision of the Court of Appeal in _Ng Chee Chong and another v Toh Kouw and another_ [1999] 2 SLR(R) 909. 
+11     The wider ambit of the plea of _res judicata_ enunciated in _Henderson_ has been followed on numerous occasions by our courts: see the decision of the Court of Appeal in _Ng Chee Chong and another v Toh Kouw and another_ <span class="citation">[1999] 2 SLR(R) 909</span>. 
 
 12     Even if the issue of _res judicata_ is left aside for the moment, AA took inconsistent positions on the enforceability of the charge on the Ridout property. While he argued in these proceedings that Orion had a charge on the Ridout property, his position in other proceedings before the High Court was that Orion’s charge on the Ridout property could not be enforced because it is connected to 
 

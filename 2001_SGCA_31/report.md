@@ -202,7 +202,7 @@ We agreed with the judge.
 
 We were in complete agreement with the judge, and could not find any ground of complaint in the way he exercised his discretion. 
 
-19\. In conclusion, it would be helpful to refer to _The Tokai Maru_ [1998] 3 SLR 105, where the defendants and the third parties were ordered to file and exchange their affidavits for the trial by a certain date. The third parties defaulted and filed and served their affidavits several months later. The defendants refused to exchange their affidavits. The third parties then applied for an extension of time for filing and exchange of affidavits and the defendants applied to strike out the defence of the third parties. Both the applications were heard together, and the judge at first instance dismissed the third parties application and struck out the defence and made the consequential order for judgment and costs against the third parties. On appeal, this Court allowed the appeal. The Court, following the judgment of Sir Thomas Bingham, MR (as he was) in _Costellow v Somerset County Council_ [1993] 1 WLR 256, 263-264; [1993] 1 All E R 952, 959-960, said at 23: 
+19\. In conclusion, it would be helpful to refer to _The Tokai Maru_ <span class="citation">[1998] 3 SLR 105</span>, where the defendants and the third parties were ordered to file and exchange their affidavits for the trial by a certain date. The third parties defaulted and filed and served their affidavits several months later. The defendants refused to exchange their affidavits. The third parties then applied for an extension of time for filing and exchange of affidavits and the defendants applied to strike out the defence of the third parties. Both the applications were heard together, and the judge at first instance dismissed the third parties application and struck out the defence and made the consequential order for judgment and costs against the third parties. On appeal, this Court allowed the appeal. The Court, following the judgment of Sir Thomas Bingham, MR (as he was) in _Costellow v Somerset County Council_ [1993] 1 WLR 256, 263-264; [1993] 1 All E R 952, 959-960, said at 23: 
 
 ## 23 We note that the instant case involves an application to extend time coupled 
 
@@ -243,7 +243,7 @@ We were in complete agreement with the judge, and could not find any ground of c
 
 ## which he cannot be compensated by an award of costs. 
 
-See also this Courts recent decision in _Leong Mei Chuan v David Chan Teck Hock_ [2001] 2 SLR 17. 
+See also this Courts recent decision in _Leong Mei Chuan v David Chan Teck Hock_ <span class="citation">[2001] 2 SLR 17</span>. 
 
 20\. What was said in _The Tokai Maru_ is equally applicable here. In our judgment, on an overall assessment of what justice requires, to deny the respondents the extension of time sought would have the effect of depriving them of their entitlement to damages (to be assessed by the registrar) because of a procedural default which, even if unjustified, has caused the appellants no prejudice for which they cannot be compensated by an award of costs. 
 

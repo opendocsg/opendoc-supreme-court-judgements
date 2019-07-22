@@ -18,7 +18,7 @@ _Criminal Law_ – _Murder_
 
 _Criminal Law_ – _Special exceptions_ – _Diminished responsibility_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2012] SGHC 238.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2012] SGHC 238</span>.] 
 
 28 November 2014 Judgment reserved. 
 
@@ -70,7 +70,7 @@ In relation to this defence, the psychiatric experts of both the Prosecution and
 
 impaired his mental responsibility at the time he committed the offences. 
 
-5       Following a 10-day hearing, the trial judge (“the Judge”) delivered his judgment on 30 November 2012, reported as _Public Prosecutor v Wang Zhijian_ [2012] SGHC 238 (“the Judgment”). He 
+5       Following a 10-day hearing, the trial judge (“the Judge”) delivered his judgment on 30 November 2012, reported as _Public Prosecutor v Wang Zhijian_ <span class="citation">[2012] SGHC 238</span> (“the Judgment”). He 
 
 found the Accused guilty of murder under s 300( _a_ ) of the Penal Code in relation to the 4th Charge and 
 
@@ -415,7 +415,7 @@ state occurring in response to a prolonged exposure to a stressful situation but
 
  [emphasis added] 
 
-This judicial definition of “abnormality of mind” has been adopted locally on multiple occasions: see for instance the Court of Appeal decisions of _Chua Hwa Soon Jimmy v Public Prosecutor_ [1998] 1 SLR(R) 601 at [21]–[22] and _Ong Pang Siew v Public Prosecutor_ [2011] 1 SLR 606 at [61]. 
+This judicial definition of “abnormality of mind” has been adopted locally on multiple occasions: see for instance the Court of Appeal decisions of _Chua Hwa Soon Jimmy v Public Prosecutor_ <span class="citation">[1998] 1 SLR(R) 601</span> at [21]–[22] and _Ong Pang Siew v Public Prosecutor_ <span class="citation">[2011] 1 SLR 606</span> at [61]. 
 
 65     The first sentence of the definition as quoted above suggests that “abnormality of mind” is a wide concept, encompassing any state of mind so different from that of ordinary human beings that a reasonable man would call it abnormal. In this case the Prosecution aligned itself with the Defence’s position that the Accused had fulfilled elements (a) and (b), _viz_ , an abnormality of mind arising from one of the prescribed causes. The Defence expert Dr Tan opined in his psychiatric report and oral testimony that the Accused was “depressed in mood” and had an “overwhelming sense of helplessness”. Presumably the Prosecution agrees that this depression and sense of helplessness constituted the “state of mind so different from that of ordinary human beings that the reasonable man would term it abnormal” which was considered in _R v Byrne_ to be definitive of the concept of “abnormality of mind”, and that this abnormality of mind arose from an inherent cause in that it was caused by the Accused’s adjustment disorder. 
 

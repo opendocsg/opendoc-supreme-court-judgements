@@ -517,18 +517,18 @@ In this way, the plaintiff was effectively granted more than two business days t
 
  detriment. 
 
-The Court of Appeal decision of _United Overseas Bank Ltd v Bank of China_ [2006] 1 SLR(R) 57 (“ _United Overseas Bank Ltd_ ”) was cited in support. 
+The Court of Appeal decision of _United Overseas Bank Ltd v Bank of China_ <span class="citation">[2006] 1 SLR(R) 57</span> (“ _United Overseas Bank Ltd_ ”) was cited in support. 
 
 51     Counsel for the plaintiff, however, submitted that for promissory estoppel, it is strictly not 
 
 
-necessary to prove detriment. It is sufficient for the plaintiff to prove that it would be inequitable to allow the defendant to act in a manner inconsistent with the promise: see _Chitty on Contracts_ vol 1 (Thomson Reuters (Legal) Limited, 30th Ed, 2008), para 3−094 cited with approval in _Abdul Jalil bin Ahmad bin Talib and Others v A Formation Construction Pte Ltd_ [2006] 4 SLR 778 at [43] and [44] ( _“Abdul Jalil”_ ). In _Abdul Jalil_ , Prakash J held: 
+necessary to prove detriment. It is sufficient for the plaintiff to prove that it would be inequitable to allow the defendant to act in a manner inconsistent with the promise: see _Chitty on Contracts_ vol 1 (Thomson Reuters (Legal) Limited, 30th Ed, 2008), para 3−094 cited with approval in _Abdul Jalil bin Ahmad bin Talib and Others v A Formation Construction Pte Ltd_ <span class="citation">[2006] 4 SLR 778</span> at [43] and [44] ( _“Abdul Jalil”_ ). In _Abdul Jalil_ , Prakash J held: 
 
  As for the third element, there has been some discussion as to whether there must be “detriment” suffered by the debtor before the creditor is estopped from going back on his promise. In this respect, Chitty on Contracts ([42] supra ) at para 3−135, asserts that the better view is that detriment of the kind required for the purpose of estoppel by representation is not a n essential requirement and all that is necessary is that the promisee should have acted in reliance on the promise in such a way as to make in inequitable to allow the promisor to act inconsistently with it. Chitty on Contracts also states that by making the payment, a debtor would act in reliance on the creditor’s promise and so make it prima facie inequitable for the creditor to peremptorily go back on his promise. 
 
  [emphasis added] 
 
-The Court of Appeal upheld her decision (judgment reported at [2007] 3 SLR(R) 592) but on the issue of detriment, it left the question open when it observed: 
+The Court of Appeal upheld her decision (judgment reported at <span class="citation">[2007] 3 SLR(R) 592</span>) but on the issue of detriment, it left the question open when it observed: 
 
  In this appeal, counsel for the appellants has not challenged the correctness of the Judge’s ruling on the third condition. It is therefore not necessary for us to enter into this controversy without the benefit of arguments to the contrary. 
 
@@ -545,13 +545,13 @@ The Court of Appeal upheld her decision (judgment reported at [2007] 3 SLR(R) 59
 
 _Estoppel by Representation_ (LexisNexis UK,4th Ed, 2004) (“Bower”) at p 481, para XIV.2.41. 
 
-5       4 _W J Alan_ was referred to by Grimberg JC in _Fu Loong Lithographer Pte Ltd v Mun Hean Realty Pte Ltd_ [1989] 1 SLR(R) 194 at 204. The learned Judicial Commissioner observed that there has been “a divergence of judicial opinion as to whether the alteration in the position of the party seeking to set up estoppel need result in detriment to him”. After referring to Spencer Bower & Turner, the learned Judicial Commissioner equated detriment to mean “injustice to the promisee which would result if the promisor were allowed to recede from his promise”. 
+5       4 _W J Alan_ was referred to by Grimberg JC in _Fu Loong Lithographer Pte Ltd v Mun Hean Realty Pte Ltd_ <span class="citation">[1989] 1 SLR(R) 194</span> at 204. The learned Judicial Commissioner observed that there has been “a divergence of judicial opinion as to whether the alteration in the position of the party seeking to set up estoppel need result in detriment to him”. After referring to Spencer Bower & Turner, the learned Judicial Commissioner equated detriment to mean “injustice to the promisee which would result if the promisor were allowed to recede from his promise”. 
 
 55     The principal reason for the divergence of judicial and academic opinion about the requirement to establish a detriment is because the term “detriment” has not been used consistently: see Bower at p 481. It has been used to describe: 
 
  (a) Expenditure of money and time 
 
- In Yokogawa Engineering Asia Pte Ltd v Transtel Engineering Pte Ltd [2009] 2 SLR(R) 532, the court held that the plaintiff was estopped from relying on the correct version of the arbitration clause because the defendant had commenced arbitration proceedings under the ICC Rules and had paid the sum of US$30,000 to the ICC based on an outdated version of the general conditions which was provided by the plaintiff. The court found that the payment of the US$30,000 constituted “detriment”. Similarly in Hartley v Hymans [1920] 3 KB 475, the buyer was found to be estopped from exercising his right to terminate because by his conduct he had led the seller to believe that the contract was still valid (even though the delay would have justified termination) and the seller had incurred expenditure in preparation for future deliveries. 
+ In Yokogawa Engineering Asia Pte Ltd v Transtel Engineering Pte Ltd <span class="citation">[2009] 2 SLR(R) 532</span>, the court held that the plaintiff was estopped from relying on the correct version of the arbitration clause because the defendant had commenced arbitration proceedings under the ICC Rules and had paid the sum of US$30,000 to the ICC based on an outdated version of the general conditions which was provided by the plaintiff. The court found that the payment of the US$30,000 constituted “detriment”. Similarly in Hartley v Hymans [1920] 3 KB 475, the buyer was found to be estopped from exercising his right to terminate because by his conduct he had led the seller to believe that the contract was still valid (even though the delay would have justified termination) and the seller had incurred expenditure in preparation for future deliveries. 
 
  (b) Incurring a liability 
 
@@ -597,7 +597,7 @@ _Estoppel by Representation_ (LexisNexis UK,4th Ed, 2004) (“Bower”) at p 481
 
  I was surprised by the unreasonably short deadline that the Defendant gave me which contradicted what the Defendant represented to me and agreed that I would be given the 48-Hour Grace Period to do so. I recalled that in or about July 2008, in an official meeting in the defendant’s office with the Defendant’s senior officers, Mr. Torsten Linke (“Linke”), managing director, in the presence of Ms Chin and 3 other senior officers (2 directors and 1 senior vice present) (sic) of the Defendant, Linke promised me that the Defendant would grant me a grace period of 48-hour to respond. It should be noted that the said 48-hour grace period was not a conditional grace period (namely, no need to undertake or promise to remit funds). 
 
- The rule in Browne v Dunn (1896) 6 R 67 would preclude the defendant from submitting otherwise. See also Britestone Pte Ltd v Smith Associates Far East Ltd [2007] 4 SLR(R) 855 at [17]. 
+ The rule in Browne v Dunn (1896) 6 R 67 would preclude the defendant from submitting otherwise. See also Britestone Pte Ltd v Smith Associates Far East Ltd <span class="citation">[2007] 4 SLR(R) 855</span> at [17]. 
 
  (b) The plaintiff also referred to the promise of the 48-hour grace period during his conversations with Cynthia Chin on 8 and 10 October 2008. Clearly the promise was not a fiction of the plaintiff’s imagination or a “fabrication” as alleged by the defendant: 
 
@@ -660,7 +660,7 @@ _Estoppel by Representation_ (LexisNexis UK,4th Ed, 2004) (“Bower”) at p 481
 
  The bank did not promise, but the bank granted or indulged him by granting him 48 hours to respond to the margin call. 
 
- (d) The defendant did not call Mr Linke to rebut the plaintiff’s case. No explanation was furnished by the defendant for not calling Mr Linke. In these circumstances, the court is entitled to draw an adverse inference that his evidence would not be favourable to the plaintiff on this issue: see Teng Ah Kow & Anor v Ho Sek Chiu & Others [1993] 3 SLR(R) 43. 
+ (d) The defendant did not call Mr Linke to rebut the plaintiff’s case. No explanation was furnished by the defendant for not calling Mr Linke. In these circumstances, the court is entitled to draw an adverse inference that his evidence would not be favourable to the plaintiff on this issue: see Teng Ah Kow & Anor v Ho Sek Chiu & Others <span class="citation">[1993] 3 SLR(R) 43</span>. 
 
 **Was it inequitable for the defendant to enforce its strict legal rights – Detrimental Reliance** 
 

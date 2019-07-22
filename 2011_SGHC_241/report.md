@@ -237,7 +237,7 @@ decision. The common denominator of the three clauses is that they all arguably 
 **_The public policy underlying the restraint of trade doctrine_** 
 
 
-24     The Court of Appeal in _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ [2008] 1 SLR(R) 663 (“ _Man Financial_ ”) considered the public policy underlying the restraint of trade doctrine. The Court of Appeal held that the doctrine seeks to vindicate the right to _freedom of trade_ , while balancing the _freedom of contract_ ( _Man Financial_ at [45]). In the employment context, the policy underlying the doctrine is the interest of the individual _and_ the state in the free flow of expertise ( _ibid_ .). It would be useful to set out the relevant paragraph in _Man Financial_ : 
+24     The Court of Appeal in _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ <span class="citation">[2008] 1 SLR(R) 663</span> (“ _Man Financial_ ”) considered the public policy underlying the restraint of trade doctrine. The Court of Appeal held that the doctrine seeks to vindicate the right to _freedom of trade_ , while balancing the _freedom of contract_ ( _Man Financial_ at [45]). In the employment context, the policy underlying the doctrine is the interest of the individual _and_ the state in the free flow of expertise ( _ibid_ .). It would be useful to set out the relevant paragraph in _Man Financial_ : 
 
  The public policy underlying the doctrine of restraint of trade 
 

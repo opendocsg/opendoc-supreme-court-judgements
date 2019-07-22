@@ -243,7 +243,7 @@ Therefore, it was held at [51] that because Internaut had signed the charterpart
 
 Indeed, in the realm of contract where intention is paramount, an unqualified signature affixed to a contract should be taken as an objective indication of the signatory’s intention to be bound. To hold otherwise would be to derogate from contractual certainty, which would in turn affect commercial certainty. To my mind, this rationale holds with equal force in the present case, and I see no reason not to accept this principle as good law. 
 
-38     A similar matter was previously considered by the Singapore High Court. In _Todd Trading Pte Ltd v Aglow Far East Trading Pte Ltd_ [1997] 1 SLR(R) 494 (“ _Todd Trading_ ”), the plaintiff claimed damages from the defendant for breach of contract. The defendant’s main defence was that it was acting as an agent for a _disclosed_ principal buyer, and thus it should not be held liable as buyer under the contract. 
+38     A similar matter was previously considered by the Singapore High Court. In _Todd Trading Pte Ltd v Aglow Far East Trading Pte Ltd_ <span class="citation">[1997] 1 SLR(R) 494</span> (“ _Todd Trading_ ”), the plaintiff claimed damages from the defendant for breach of contract. The defendant’s main defence was that it was acting as an agent for a _disclosed_ principal buyer, and thus it should not be held liable as buyer under the contract. 
 
 39     Kan Ting Chiu J held at [37] that the disclosure of a principal does not _ipso facto_ release the agent from liability. The disclosure alone is not, without more, evidence of the party’s intention to be absolved of personal liability under the contract. Given that there was nothing in the agreement, nor in the conduct of the parties, that suggested that the defendant did not intend to contract personally, the defendant was accordingly held to be personally liable to the plaintiff. 
 
@@ -262,7 +262,7 @@ defendant had never informed them of the existence of Dragon. [note: 22] Therefo
 44     In general, the courts do not allow extrinsic evidence to be adduced to contradict or reinterpret the express terms of a contract where these terms are clear and unambiguous. The Court of Appeal in 
 
 
-_Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 stated at [116] that where the “contractual language ... was plain and unambiguous in reference to the existing facts”, extrinsic evidence should not be adduced to contradict the clear terms. 
+_Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> stated at [116] that where the “contractual language ... was plain and unambiguous in reference to the existing facts”, extrinsic evidence should not be adduced to contradict the clear terms. 
 
 45     More specifically, in the context of agency, Article 100(1) of _Bowstead & Reynolds_ (Peter G. Watts gen ed) (Sweet & Maxwell, 20th Ed, 2006) (“Bowstead”) at para 9–039 states: 
 

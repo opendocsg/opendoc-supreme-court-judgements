@@ -99,7 +99,7 @@ Only condition (ii) is relevant to this appeal.
 
  (iv) ask whether viewed without any knowledge of the alleged invention, those differences constitute steps which would have been obvious to the skilled man or whether they require any degree of invention. 
 
-This court had in previous cases adopted this four-step approach, e.g., _Merck & Co Inc v Pharmaforte Singapore Ptd Ltd_ [2000] 3 SLR 717. 
+This court had in previous cases adopted this four-step approach, e.g., _Merck & Co Inc v Pharmaforte Singapore Ptd Ltd_ <span class="citation">[2000] 3 SLR 717</span>. 
 
 18     The person to whom the test of obviousness should be applied is the unimaginative skilled technician. What this means was elaborated as follows by Lord Reid in _Technograph Printed Circuits Ltd v Mills & Rockley Electronics Ltd_ [1972] RPC 346 at 355:
 

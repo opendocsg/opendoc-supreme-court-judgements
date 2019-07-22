@@ -16,7 +16,7 @@
 
 _Criminal law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 14 of 2010 was allowed by the Court of Appeal on 6 March 2012. See [2012] SGCA 19.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 14 of 2010 was allowed by the Court of Appeal on 6 March 2012. See <span class="citation">[2012] SGCA 19</span>.] 
 
 9 July 2010 Judgment reserved. 
 
@@ -104,11 +104,11 @@ When CNB officers are given the powers conferred on police officers by the CPC, 
 
 24     The first complaint was that SI Ngo did not inform Azman that under s 121(2), he may decline to make any statement that would have a tendency to expose him to a criminal charge or to a penalty or forfeiture. The second complaint was that the two statements were not read over to Azman as required by s 121(3). The prosecution accepted that SI Ngo had not advised Azman of his rights under s 121(2), but contended that SI Ngo had read the statements over to Azman before he signed them. 
 
-25     Both issues have been considered and determined by the Court of Appeal. In _Public Prosecutor v Mazlan bin Maidun and another_ [1992] 3 SLR(R) 968, the Court ruled in [37(a)] that: 
+25     Both issues have been considered and determined by the Court of Appeal. In _Public Prosecutor v Mazlan bin Maidun and another_ <span class="citation">[1992] 3 SLR(R) 968</span>, the Court ruled in [37(a)] that: 
 
  a suspect or an accused need not be expressly informed of a right to remain silent whenever any statement is recorded from him pursuant to s 121(2) of the CPC; 
 
-26     In _Vasavan Sathiadew & 2 Ors v Public Prosecutor_ [1992] SGCA 26, the Court stated that: 
+26     In _Vasavan Sathiadew & 2 Ors v Public Prosecutor_ <span class="citation">[1992] SGCA 26</span>, the Court stated that: 
 
  ... a non-compliance with s 121 of the [CPC] does not render the statement inadmissible under s 122(5) of the[CPC]. It affects the weight to be given to such statement in that it may give rise to questions whether such statement was in fact made, and if it had been made why it was not signed by the accused as required under s 121(3). 
 
@@ -116,7 +116,7 @@ and that:
 
  ... a non-compliance with s 121(3) does not result in the statement being inadmissible. 
 
-In _Panya Martmontree and others v Public Prosecutor_ [1995] 2 SLR(R) 806 it was held at [6] that a statement that was neither read back nor signed was admissible in evidence. 
+In _Panya Martmontree and others v Public Prosecutor_ <span class="citation">[1995] 2 SLR(R) 806</span> it was held at [6] that a statement that was neither read back nor signed was admissible in evidence. 
 
 27     Counsel accepted that the decisions of the Court of Appeal on the separate non-compliances bind me, but argued that the effect of the cumulative non-compliance of s 121(2) and s 121(3) is still an open question. I was not persuaded by the logic of the submission. In the cases referred to, the Court of Appeal had held that each deficiency may affect the weight to be accorded to the contents of the statement, but not its admissibility. It is inconsistent with the reasoning of the Court’s rulings to conclude that where there are two failures of compliance in the recording of a statement, the admissibility of the statement rather than its weight is affected. 
 
@@ -840,7 +840,7 @@ SCQ 143 X. His evidence was that when they saw the smoke coming from the exhaust
 
 133    Tamil may be culpable if he had assisted in the retrieval of the bundles knowing that they contained cannabis. As there was no evidence that Tamil had handled the bundles, or, in the words of s 18(1) of the MDA, had them in his possession or in custody or under his control, the rebuttable presumptions in s 18(1) and (2) that he was in possession of the drugs and that he was aware of the nature of the drugs did not operate. Of course knowledge can be established without presumptions. Is it established in Tamil’s case? 
 
-134    The first issue to be addressed is the requisite level of knowledge, ie how much knowledge must a person have of the drug he is involved with. The Court of Appeal in _Tan Kiam Peng v PP_ [2008] 1 SLR(R) 1 (“ _Tan Kiam Peng_ ”) after a thorough review of the question arrived at the view (albeit nonconclusive as the issue was not fully argued before the Court) that the required knowledge goes beyond knowledge that it is a controlled drug, and is knowledge that it is the specific controlled drug in question. In the present case, the prosecution submitted that the required knowledge should be pegged at the level of a controlled drug and not the specific controlled drug. As the submissions did not introduce anything that was not considered by the Court, I do not see any reason to depart from the Court’s view. 
+134    The first issue to be addressed is the requisite level of knowledge, ie how much knowledge must a person have of the drug he is involved with. The Court of Appeal in _Tan Kiam Peng v PP_ <span class="citation">[2008] 1 SLR(R) 1</span> (“ _Tan Kiam Peng_ ”) after a thorough review of the question arrived at the view (albeit nonconclusive as the issue was not fully argued before the Court) that the required knowledge goes beyond knowledge that it is a controlled drug, and is knowledge that it is the specific controlled drug in question. In the present case, the prosecution submitted that the required knowledge should be pegged at the level of a controlled drug and not the specific controlled drug. As the submissions did not introduce anything that was not considered by the Court, I do not see any reason to depart from the Court’s view. 
 
 135    That does not mean that a person must have actual knowledge of the specific controlled drug. A person who avoids actual knowledge through wilful blindness is in the same position as a person with actual knowledge. 
 

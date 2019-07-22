@@ -16,7 +16,7 @@
 
 _Building and Construction Law_ – _Statutes and Regulations_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 39 of 2014 was allowed by the Court of Appeal on 6 May 2015. See [2015] SGCA 42.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 39 of 2014 was allowed by the Court of Appeal on 6 May 2015. See <span class="citation">[2015] SGCA 42</span>.] 
 
 25 April 2014 
 
@@ -156,11 +156,11 @@ This forms the basis for the establishment by the SMC of the SMC Rules.
 
 _Rule 2.2 of the SMC Rules_ 
 
-21     The SMC Rules must be established for the purposes of facilitating the adjudication process only and should not affect the substantive rights of the parties under the Act. It is solely the Adjudicator’s duty is to determine the rights of the parties. This duty includes the consideration of whether a document is filed in time or out of time. I find support for this in the decision of Lee Seiu Kin J in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ [2012] SGHC 194 who noted at [8]: 
+21     The SMC Rules must be established for the purposes of facilitating the adjudication process only and should not affect the substantive rights of the parties under the Act. It is solely the Adjudicator’s duty is to determine the rights of the parties. This duty includes the consideration of whether a document is filed in time or out of time. I find support for this in the decision of Lee Seiu Kin J in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ <span class="citation">[2012] SGHC 194</span> who noted at [8]: 
 
  The plaintiff’s complaint in this regard was that the adjudicator had not permitted the adjudication response it had attempted to file on 2 May 2012 to be taken into consideration. I noted that the SMC had not permitted the plaintiff to file an adjudication response on that date on the ground that it was late. I would comment that the SMC has no role in determining whether an adjudication response is late, much less prevent a respondent from filing it as a result of such conclusion. The SMC’s role is only to accept whatever document is filed and to note the time and date of filing. The decision whether it is late, and the consequence of that, should be left to the adjudicator to make. [emphasis added] 
 
-This aspect of Lee J’s decision was approved of by the Court of Appeal in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ [2013] 3 SLR 380 (“ _W Y Steel Construction_ ”) at [9]. 
+This aspect of Lee J’s decision was approved of by the Court of Appeal in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ <span class="citation">[2013] 3 SLR 380</span> (“ _W Y Steel Construction_ ”) at [9]. 
 
 22     The SOP Act and the relevant subsidiary legislations have not empowered SMC to decide whether a document is lodged within or out of time. I agree with Lee J’s observation that the function of the SMC is confined to its administrative duty of receiving documents and taking note of the time and date of filing. 
 
@@ -173,7 +173,7 @@ This aspect of Lee J’s decision was approved of by the Court of Appeal in _W Y
 
 _Grounds for setting aside_ 
 
-25     The grounds for the setting aside of an Adjudication Determination are limited. As stated by the Court of Appeal in _Lee Wee Lick Terence (alias Li Weili Terence) v Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) and another appeal_ [2013] 1 SLR 401 (“ _Chua Say Eng_ ”) at [66]– [67]: 
+25     The grounds for the setting aside of an Adjudication Determination are limited. As stated by the Court of Appeal in _Lee Wee Lick Terence (alias Li Weili Terence) v Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) and another appeal_ <span class="citation">[2013] 1 SLR 401</span> (“ _Chua Say Eng_ ”) at [66]– [67]: 
 
  Turning now to the court’s role in a setting-aside action, we agree with the holding in SEF Construction ([14] supra ) that the court should not review the merits of an adjudicator’s decision. The court does, however, have the power to decide whether the adjudicator was validly appointed. If there is no payment claim or service of a payment claim, the appointment of an adjudicator will be invalid, and the resulting adjudication determination would be null and void. 
 
@@ -183,7 +183,7 @@ _Grounds for setting aside_
 
 The court is, therefore, not allowed to review the merits of an adjudicator’s decision and setting aside must be premised on issues relating to the jurisdiction of the Adjudicator. In this case, the rejection of the Adjudication Response does not relate to the jurisdiction of the Adjudicator. 
 
-26     Nonetheless, there is another ground for setting aside if it relates to natural justice. Section 16(3)( _c_ ) of the SOP Act requires an Adjudicator to “comply with the principles of natural justice”. An Adjudication Determination may therefore be set aside if the Adjudicator failed to comply with the rules of natural justice: _SEF Construction Pte Ltd v Skoy Connected Pte Ltd_ [2010] 1 SLR 733 at [45]. The question is whether a wrongful rejection of the Adjudication Response amounts to a denial of natural justice. 
+26     Nonetheless, there is another ground for setting aside if it relates to natural justice. Section 16(3)( _c_ ) of the SOP Act requires an Adjudicator to “comply with the principles of natural justice”. An Adjudication Determination may therefore be set aside if the Adjudicator failed to comply with the rules of natural justice: _SEF Construction Pte Ltd v Skoy Connected Pte Ltd_ <span class="citation">[2010] 1 SLR 733</span> at [45]. The question is whether a wrongful rejection of the Adjudication Response amounts to a denial of natural justice. 
 
 27     This would relate to the Appellant’s opportunity to be heard before the Adjudicator. I find guidance on this issue from the Court of Appeal’s decision in _W Y Steel Construction_. In that case, the respondent in the Adjudication Determination failed to file a payment response and the Adjudicator rejected its Adjudication Response in accordance with s 15(3) of the SOP Act. Sundaresh Menon CJ, in delivering the grounds of decision of the court, noted at [40] that: 
 
@@ -209,7 +209,7 @@ which an adjudication decision is based is discovered to have been issued by a c
 
  ... No court in this land will allow a person to keep an advantage which he has obtained by fraud. No judgement of a court, no order of a Minister, can be allowed to stand if it has been obtained by fraud. Fraud unravels everything. The court is careful not to find fraud unless it distinctly pleaded and proved; but once it is proved, it vitiates judgements ... 
 
-This passage was cited with approval by the Court of Appeal in _Su Sh-Hsyu v Wee Yue Chew_ [2007] 3 SLR(R) 673 at [65]. Accordingly, a finding of fraud is a good ground for setting aside an Adjudication Determination. 
+This passage was cited with approval by the Court of Appeal in _Su Sh-Hsyu v Wee Yue Chew_ <span class="citation">[2007] 3 SLR(R) 673</span> at [65]. Accordingly, a finding of fraud is a good ground for setting aside an Adjudication Determination. 
 
 32     However, I am unable to make a finding of fraud here. Although the Respondent did agree with the Appellant on the value of the quantities on 31 August 2013, this was only done after the Respondent lodged its Adjudication Application on 28 August 2013. Thus the Respondent could not be said to have fraudulently lodged its Adjudication Application if the agreement between the Appellant and the Respondent did not even exist then. If anything, it was for the Appellant to include the agreement in its Adjudication Response so that it may be presented before the Adjudicator. On the whole, there was a lack of evidence that would justify the making of such serious allegations such as fraudulent conduct or bad faith. 
 

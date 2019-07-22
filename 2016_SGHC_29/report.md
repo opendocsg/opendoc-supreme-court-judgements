@@ -20,11 +20,11 @@ _Damages_ – _Assessment_
 
 **Lai Siu Chiu SJ:** 
 
-1       This judgment is supplemental to this court’s judgment in _Lim Koon Park v Yap Jin Meng Bryan and others_ [2015] SGHC 284 dated 29 October 2015 (“the main judgment”) which related to the inquiry before this court to determine the plaintiff’s 25% share of the net profit made by Riverwealth from the sale of its two properties at River Valley Road (“the Properties”). In order to determine the plaintiff’s profit entitlement, this court had to ascertain the allowable deductions from the gross profits made by Riverwealth, which exercise was the subject of the main judgment. Pursuant to [91] of the main judgment, parties appeared before this court again to deal with two outstanding issues not resolved in the main judgment _viz_ : 
+1       This judgment is supplemental to this court’s judgment in _Lim Koon Park v Yap Jin Meng Bryan and others_ <span class="citation">[2015] SGHC 284</span> dated 29 October 2015 (“the main judgment”) which related to the inquiry before this court to determine the plaintiff’s 25% share of the net profit made by Riverwealth from the sale of its two properties at River Valley Road (“the Properties”). In order to determine the plaintiff’s profit entitlement, this court had to ascertain the allowable deductions from the gross profits made by Riverwealth, which exercise was the subject of the main judgment. Pursuant to [91] of the main judgment, parties appeared before this court again to deal with two outstanding issues not resolved in the main judgment _viz_ : 
 
  (a) Costs for the 7 days’ assessment; and 
 
- (b) Interest payable to the first defendant on his loan of $22,580,621.99 (“the principal sum”) to Riverwealth as allowed by the Court of Appeal in Lim Koon Park and another v Yap Jin Meng Bryan and another [2013] 4 SLR 150 (“the CA judgment”) 
+ (b) Interest payable to the first defendant on his loan of $22,580,621.99 (“the principal sum”) to Riverwealth as allowed by the Court of Appeal in Lim Koon Park and another v Yap Jin Meng Bryan and another <span class="citation">[2013] 4 SLR 150</span> (“the CA judgment”) 
 
 At the inquiry, the first defendant presented a figure of $3,091,130.28 as his claim for interest (see [10] of the main judgment). 
 

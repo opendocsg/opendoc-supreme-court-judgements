@@ -16,7 +16,7 @@
 
 _Contract_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2011] 2 SLR 716.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2011] 2 SLR 716</span>.] 
 
 2 November 2011 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Contract_
 
 **Introduction** 
 
-1       The appellants (“the Appellants”) are a group of 21 investors in derivative credit-linked notes called “DBS High Notes 5” (“the HN5”) which were issued by the respondent, DBS Bank Ltd (“the Respondent”). In Originating Summons No 774 of 2009 (“the OS”), they brought proceedings against the Respondent, on behalf of themselves as well as 192 other plaintiffs listed in the Schedule to the OS (“the 192 other plaintiffs”), for the refund of the entire capital sum which they and the 192 other plaintiffs had lost in investing in the HN5 (less the amount of interest received thereon) consequent upon the bankruptcy on 15 September 2008 of Lehman Brothers Holdings Inc (“Lehman”), one of the reference entities to which the HN5 were linked. The High Court judge (“the Judge”) dismissed the Appellants’ action (see _Soon Kok Tiang and others v DBS Bank Ltd and another matter_ [2011] 2 SLR 716 (“the HC Judgment”)). The Appellants then brought the present appeal. We should mention, as a preliminary point, that prior to the hearing of this appeal, two of the 192 other plaintiffs withdrew from the appeal. The Appellants accordingly applied to this court (via Summons No 2274 of 2011) for leave to amend the OS by deleting the names of those two plaintiffs from the Schedule to the OS. We allowed the application (which the Respondent consented to) with costs to the Respondent fixed at $300. 
+1       The appellants (“the Appellants”) are a group of 21 investors in derivative credit-linked notes called “DBS High Notes 5” (“the HN5”) which were issued by the respondent, DBS Bank Ltd (“the Respondent”). In Originating Summons No 774 of 2009 (“the OS”), they brought proceedings against the Respondent, on behalf of themselves as well as 192 other plaintiffs listed in the Schedule to the OS (“the 192 other plaintiffs”), for the refund of the entire capital sum which they and the 192 other plaintiffs had lost in investing in the HN5 (less the amount of interest received thereon) consequent upon the bankruptcy on 15 September 2008 of Lehman Brothers Holdings Inc (“Lehman”), one of the reference entities to which the HN5 were linked. The High Court judge (“the Judge”) dismissed the Appellants’ action (see _Soon Kok Tiang and others v DBS Bank Ltd and another matter_ <span class="citation">[2011] 2 SLR 716</span> (“the HC Judgment”)). The Appellants then brought the present appeal. We should mention, as a preliminary point, that prior to the hearing of this appeal, two of the 192 other plaintiffs withdrew from the appeal. The Appellants accordingly applied to this court (via Summons No 2274 of 2011) for leave to amend the OS by deleting the names of those two plaintiffs from the Schedule to the OS. We allowed the application (which the Respondent consented to) with costs to the Respondent fixed at $300. 
 
 **Background** 
 
@@ -407,7 +407,7 @@ the only one of the three descriptions that sets out an exact formula based on t
 
  ... Two conditions must be satisfied: first, there must be a clear mistake on the face of the instrument; secondly, it must be clear what correction ought to be made in order to cure the mistake. If those conditions are satisfied, then the correction is made as a matter of construction ... 
 
- This was endorsed and applied by Belinda Ang J in Ng Swee Hua v Auston International Group Ltd [2008] SGHC 241 , at [33]–[35], and more recently by the House of Lords in Chartbrook Ltd v Persimmon Homes Ltd [2009] 1 AC 1101. 
+ This was endorsed and applied by Belinda Ang J in Ng Swee Hua v Auston International Group Ltd <span class="citation">[2008] SGHC 241</span> , at [33]–[35], and more recently by the House of Lords in Chartbrook Ltd v Persimmon Homes Ltd [2009] 1 AC 1101. 
 
  48 I find that there is ample basis for correcting the [f]ourth CERA Description by the removal of the “1 –” in the formula. To the extent that the [f]ourth CERA Description contradicts the [t]hird CERA Description, this would eliminate that contradiction. 
 

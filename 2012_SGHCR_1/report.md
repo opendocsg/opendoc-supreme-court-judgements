@@ -37,7 +37,7 @@ _Civil Procedure_
 
  [W]here a defendant served in Singapore as of right intends to seek to stay the action on grounds of forum non conveniens , he must make that application before taking any step other than filing an appearance , especially as here where the step which the defendant took is available only to a defendant who intends to defend the action on the merits in Singapore. [emphasis in original] 
 
-6       In making this argument, Mr Coomaraswamy referred to _Yeoh Poh San and another v Won Siok Wan_ [2002] 2 SLR(R) 233 (“ _Yeoh Poh San_ ”) in which the court stated at [14]: 
+6       In making this argument, Mr Coomaraswamy referred to _Yeoh Poh San and another v Won Siok Wan_ <span class="citation">[2002] 2 SLR(R) 233</span> (“ _Yeoh Poh San_ ”) in which the court stated at [14]: 
 
  The very reason why a defendant is required to apply for a stay of proceedings before taking any step other than filing an appearance is because such an other step may be construed as submission to the court’s jurisdiction. 
 
@@ -49,7 +49,7 @@ Mr Coomaraswamy argued that in seeking leave for more time to file the defence, 
 
 8       I reject this argument. An application for a stay on the ground of _forum non conveniens_ is different from an application for a stay for want of jurisdiction. The latter application is defeated where the applicant has submitted to the jurisdiction of the court as in so doing, the court has jurisdiction over the applicant. An application for a stay on the ground of _forum non conveniens_ is quite different. In making such an application, the applicant is not arguing that the court has no jurisdiction but that the court should decline to exercise its jurisdiction (see Adrian Briggs, _Civil Jurisdiction and Judgments_ (LLP, 4th Ed, 2005) at para 4.35). 
 
-9       The analogy drawn was thus erroneous. While the taking of a step in the proceedings apart from the entering of an appearance may be fatal to an application for a stay for want of jurisdiction under O 12 r 7(1) because it demonstrated submission to jurisdiction, it did not have the same effect where an application for a stay on the ground of _forum non conveniens_ under O 12 r 7(2) was concerned. On this very point, the Court of Appeal in _Chan Chin Cheung v Chan Fatt Cheung and others_ [2010] 1 SLR 1192 (“ _Chan Chin Cheung_ ”) made it clear (at [22]) that even in a case where a defence has been filed, the defendant is still entitled to apply for a stay under O 12 r 7(2) although 
+9       The analogy drawn was thus erroneous. While the taking of a step in the proceedings apart from the entering of an appearance may be fatal to an application for a stay for want of jurisdiction under O 12 r 7(1) because it demonstrated submission to jurisdiction, it did not have the same effect where an application for a stay on the ground of _forum non conveniens_ under O 12 r 7(2) was concerned. On this very point, the Court of Appeal in _Chan Chin Cheung v Chan Fatt Cheung and others_ <span class="citation">[2010] 1 SLR 1192</span> (“ _Chan Chin Cheung_ ”) made it clear (at [22]) that even in a case where a defence has been filed, the defendant is still entitled to apply for a stay under O 12 r 7(2) although 
 
 
 he would be disentitled from doing so under O 12 r 7(1). 
@@ -66,7 +66,7 @@ he would be disentitled from doing so under O 12 r 7(1).
 
 **Whether the action should be stayed applying the** **_Spiliada test_** 
 
-14     I will not rehearse the requirements of the _Spiliada_ test as that has been set out in numerous decisions of the Singapore courts (see for instance, _Jio Minerals FZC and others v Mineral Enterprises Ltd_ [2011] 1 SLR 391 at [38] and _Murakami Takako (executrix of the estate of Takashi Murakami Suroso, deceased) v Wiryadi Louise Maria and others_ at [2009] 1 SLR(R) 508 at [26]). 
+14     I will not rehearse the requirements of the _Spiliada_ test as that has been set out in numerous decisions of the Singapore courts (see for instance, _Jio Minerals FZC and others v Mineral Enterprises Ltd_ <span class="citation">[2011] 1 SLR 391</span> at [38] and _Murakami Takako (executrix of the estate of Takashi Murakami Suroso, deceased) v Wiryadi Louise Maria and others_ at <span class="citation">[2009] 1 SLR(R) 508</span> at [26]). 
 
 15     The defendant listed the following factors amongst others as the connecting factors suggesting that Hong Kong is clearly the more appropriate forum in which to adjudicate the matter: 
 
@@ -108,7 +108,7 @@ he would be disentitled from doing so under O 12 r 7(1).
 
 abstain from evaluating the merits of the defence, the court should not be precluded from determining whether the defence was contrived. Otherwise, he argued, defendants could spin connections to foreign jurisdictions where none really existed. 
 
-21     I did not accept this argument. In weighing the connecting factors under Stage One of the _Spiliada_ test, the issue of whether there was a viable defence to the claim was not a relevant consideration as the court should not be required to go into the merits (see [27]-[28] of _The “Rainbow Joy”_ [2005] 3 SLR(R) 719). Although Mr Coomaraswamy’s argument was more nuanced than that advanced in _The “Rainbow Joy”_ in that he was not asking me to refuse to grant the stay because the defendant had no defence but that the defence was contrived to create connecting factors to Hong Kong, if I accepted his argument, _in substance_ , I would have to undertake the same exercise and evaluate the merits of the defence. 
+21     I did not accept this argument. In weighing the connecting factors under Stage One of the _Spiliada_ test, the issue of whether there was a viable defence to the claim was not a relevant consideration as the court should not be required to go into the merits (see [27]-[28] of _The “Rainbow Joy”_ <span class="citation">[2005] 3 SLR(R) 719</span>). Although Mr Coomaraswamy’s argument was more nuanced than that advanced in _The “Rainbow Joy”_ in that he was not asking me to refuse to grant the stay because the defendant had no defence but that the defence was contrived to create connecting factors to Hong Kong, if I accepted his argument, _in substance_ , I would have to undertake the same exercise and evaluate the merits of the defence. 
 
 22     Applying the approach laid out in _The “Rainbow Joy”_ , I could not disregard the defendant’s purported defence and thus the connecting factors it established to Hong Kong. The defendant’s purported defence, that the Jardine shares were purchased with moneys from the Trust or constituted part of the assets of the Trust, raised the following general connecting factors which I accepted as demonstrating that Hong Kong was the clearly more appropriate forum for the trial of this action: 
 
@@ -124,7 +124,7 @@ abstain from evaluating the merits of the defence, the court should not be precl
 
 2\. an account of all assets, funds and/or _shares (and their proceeds)_ in which the Plaintiffs have beneficial interests and all necessary inquiries, directions and orders to enable the Plaintiffs to trace and recover such assets, funds and shares thereof as the Court deems fit; [emphasis added] 
 
-The possibility of conflicting judgments is a factor militating for a stay. Furthermore, as the scope of HCA 441/2012 includes claims concerning all other Trust assets, it is very likely that those proceedings will proceed regardless of whether the Singapore proceedings continue. This is yet another factor militating for a stay (see in this regard, _The “Reecon Wolf”_ [2012] SGHC 22 at [47]). 
+The possibility of conflicting judgments is a factor militating for a stay. Furthermore, as the scope of HCA 441/2012 includes claims concerning all other Trust assets, it is very likely that those proceedings will proceed regardless of whether the Singapore proceedings continue. This is yet another factor militating for a stay (see in this regard, _The “Reecon Wolf”_ <span class="citation">[2012] SGHC 22</span> at [47]). 
 
 24     With regard to choice of law, I do not agree with Mr Coomaraswamy that the _lex causae_ is the _lex situs_. The general rule at common law is that the law of the trust is the law chosen by the settlor or, in the absence of any such choice, by the law with which the trust is most closely connected 
 

@@ -26,7 +26,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Appeals_
 
 3       I say this by way of prelude because I think it is critical that we not understate the deplorable nature of the conduct of the two respondents in this case. 
 
-4       I also observe that this is entirely in keeping with the settled jurisprudence of our courts on the sentencing approach we should take to cases where foreign domestic workers are ill-treated. In _ADF v Public Prosecutor_ [2010] 1 SLR 874 (“ _ADF_ ”), the Court of Appeal said as follows at [55] ( _per_ VK Rajah JA): 
+4       I also observe that this is entirely in keeping with the settled jurisprudence of our courts on the sentencing approach we should take to cases where foreign domestic workers are ill-treated. In _ADF v Public Prosecutor_ <span class="citation">[2010] 1 SLR 874</span> (“ _ADF_ ”), the Court of Appeal said as follows at [55] ( _per_ VK Rajah JA): 
 
  In a case of domestic maid abuse, ordinarily, the principles of deterrence and retribution take precedence. A deterrent sentence signifies that there is a public interest to protect over and above the ordinary punishment of criminal behaviour. The protection of domestic maids from abuse by their employers is always a matter of public interest, given their vulnerable status and the prevalence of such relationships in Singapore. No employer or household member has the right to engage in abusive behaviour against a domestic maid. All maids should be treated fairly, 
 
@@ -37,7 +37,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Appeals_
 
 And at [61] of the same case, the learned judge said that “[t]he courts have unwaveringly recognised domestic maids as vulnerable victims and a category of persons in need of constant protection”. 
 
-5       More recently, in _Janardana Jayasankarr v Public Prosecutor_ [2016] 4 SLR 1288 (“ _Janardana_ ”), I said as follows at [3] and [4]: 
+5       More recently, in _Janardana Jayasankarr v Public Prosecutor_ <span class="citation">[2016] 4 SLR 1288</span> (“ _Janardana_ ”), I said as follows at [3] and [4]: 
 
  3 The special provision enacted for the abuse of this class of victim stems from the recognition that domestic helpers are particularly vulnerable to abuse by their employers and their immediate family members (see Singapore Parliamentary Debates, Official Report (20 April 1998) vol 68 at col 1923 (Mr Wong Kan Seng, Minister for Home Affairs)). This is so for several reasons, of which I will mention just three: 
 
@@ -56,7 +56,7 @@ And at [61] of the same case, the learned judge said that “[t]he courts have u
 
 hurt. 
 
-8       There are some consequences that flow from this. The offence under the EFMA is one of strict liability. However, as I explained in my judgment in _Seng Foo Building Construction Pte Ltd v Public Prosecutor_ [2017] 3 SLR 201 at [39], while this might displace the need to establish any mental state for the purpose of securing a conviction, the culpability of the offender remains relevant in assessing the gravity of the offence and the appropriate sentence that is to be imposed. 
+8       There are some consequences that flow from this. The offence under the EFMA is one of strict liability. However, as I explained in my judgment in _Seng Foo Building Construction Pte Ltd v Public Prosecutor_ <span class="citation">[2017] 3 SLR 201</span> at [39], while this might displace the need to establish any mental state for the purpose of securing a conviction, the culpability of the offender remains relevant in assessing the gravity of the offence and the appropriate sentence that is to be imposed. 
 
 9       However, it is also important to note that the offence I am presented with is one that carries a maximum sentence of one year. Hence, the question for me is where within that somewhat limited sentencing range the present offence falls. If I consider for example that the offence falls at the high, but not the highest, end of the range and so decided to impose a sentence of, say, ten months’ imprisonment, this should not be misconstrued as saying that such a punishment would always be sufficient for the type of offending conduct that is presented here even if a charge had been presented under a different provision. 
 

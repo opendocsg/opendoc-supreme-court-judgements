@@ -16,13 +16,13 @@
 
 _Damages_ – _Quantum_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 194 of 2014 was allowed by the Court of Appeal on 30 September 2015. See [2015] SGCA 49.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 194 of 2014 was allowed by the Court of Appeal on 30 September 2015. See <span class="citation">[2015] SGCA 49</span>.] 
 
 14 November 2014 Judgment reserved. 
 
 **Choo Han Teck J:** 
 
-1       The facts of this case have been set out in my judgment in [2013] SGHC 202 and also in the Court of Appeal (“CA”) judgment in the same case in [2014] 3 SLR 761. For the purposes of following this judgment, the story, briefly, is as follows. Agus Anwar (“Anwar”), a businessman purchased several properties in Devonshire Road and Scotts Road. Some of those properties were purchased in the names of the plaintiffs who are his two young sons, one of whom was still a student in America at the time, and the other had just started work. On 16 October 2008, Society Generale Bank & Trust (referred to as “SGBT” by the CA) demanded payment of about US$17m due by Anwar to it. 
+1       The facts of this case have been set out in my judgment in <span class="citation">[2013] SGHC 202</span> and also in the Court of Appeal (“CA”) judgment in the same case in <span class="citation">[2014] 3 SLR 761</span>. For the purposes of following this judgment, the story, briefly, is as follows. Agus Anwar (“Anwar”), a businessman purchased several properties in Devonshire Road and Scotts Road. Some of those properties were purchased in the names of the plaintiffs who are his two young sons, one of whom was still a student in America at the time, and the other had just started work. On 16 October 2008, Society Generale Bank & Trust (referred to as “SGBT” by the CA) demanded payment of about US$17m due by Anwar to it. 
 
 2       Anwar began negotiating with SGBT through the second defendant, Ng Soon Kai. The second defendant is a lawyer practising under the name of the 1st defendant, Ng Chong & Hue LLC. Allen & Gledhill LLP (“A & G”) acted for SGBT and negotiations took place with Anwar taking an active part, sometimes contacting A & G directly, and sometimes with SGBT directly. Anwar informed SGBT that one of the Devonshire Road properties was being held by him in trust for a third party. Anwar, however, agreed to mortgage the remaining properties as further security to stay SGBT’s hand. In addition to the properties, SGBT also asked for personal guarantees to be executed in its favour by the plaintiffs. Anwar secured SGBT’s consent to waive the requirement for the plaintiffs’ personal guarantees. Anwar declared to SGBT that “the guarantees from the two young boys are not going to be worth anything”. 
 

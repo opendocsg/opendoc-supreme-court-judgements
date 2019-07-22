@@ -62,7 +62,7 @@ plastic bag, having moved the bag himself. He was also the only one present in t
 
 13     Alternatively, the presumption of possession under s 21 of the Act applied. The Accused did not show on the balance of probabilities that he did not have the drugs in his possession. As the Accused was in control of the vehicle from which the drugs were seized, and he had not adduced any evidence to rebut the presumption, the presumption continued in effect. 
 
-14     Finally, the presumption of knowledge under s 18(2) of the Act applied: the Accused was presumed to have had knowledge of the nature of the drugs. Applying _Obeng Comfort v PP_ [2017] 1 SLR 633, the Accused would have to adduce evidence that he did not have such knowledge or did not take steps to establish the nature of the drug. The circumstances surrounding the delivery were suspect, namely: (a) the Accused was not given much detail about the deliveries; (b) the high value of the items brought in; (c) and the high amount paid to him. The Accused failed to determine what the contents were. The Accused had also given statements corroborating his guilt. 
+14     Finally, the presumption of knowledge under s 18(2) of the Act applied: the Accused was presumed to have had knowledge of the nature of the drugs. Applying _Obeng Comfort v PP_ <span class="citation">[2017] 1 SLR 633</span>, the Accused would have to adduce evidence that he did not have such knowledge or did not take steps to establish the nature of the drug. The circumstances surrounding the delivery were suspect, namely: (a) the Accused was not given much detail about the deliveries; (b) the high value of the items brought in; (c) and the high amount paid to him. The Accused failed to determine what the contents were. The Accused had also given statements corroborating his guilt. 
 
 **Summary of the Defence submissions** 
 
@@ -89,7 +89,7 @@ control over the drugs. I also accepted, alternatively, that the presumption und
 
  Except as authorised by this Act, it shall be an offence for a person to import into or export from Singapore a controlled drug. 
 
-22     For a charge to be made out under s 7, it has to be shown that ( _Ng Kwok Chun and anor v PP_ [1992] 3 SLR(R) 256 at [15], [39]): 
+22     For a charge to be made out under s 7, it has to be shown that ( _Ng Kwok Chun and anor v PP_ <span class="citation">[1992] 3 SLR(R) 256</span> at [15], [39]): 
 
  (a) the drugs were brought voluntarily into Singapore; and 
 
@@ -158,7 +158,7 @@ It is clear from the words of s 18(2) that the presumption of knowledge can oper
 38     On top of all of this, the Accused’s relationship with Muruga was clearly not a deep one. The 
 
 
-Accused had only known Muruga about two months before the arrest, and did not know much about Muruga as a person. It may be true, as submitted by the Defence, that not all details would be known between friends, but the level of ignorance shown by the Accused about Muruga, and the brevity of their relationship, put into significant doubt whether it could have been true that the Accused trusted or had reasons to trust Muruga. The relationship here was a far cry from the one in the case of _Khor Soon Lee v PP_ [2011] 3 SLR 201 for example, where the accused had a close personal relationship with the person who passed him the drugs and had trusted that person, whom he had known for about a year. 
+Accused had only known Muruga about two months before the arrest, and did not know much about Muruga as a person. It may be true, as submitted by the Defence, that not all details would be known between friends, but the level of ignorance shown by the Accused about Muruga, and the brevity of their relationship, put into significant doubt whether it could have been true that the Accused trusted or had reasons to trust Muruga. The relationship here was a far cry from the one in the case of _Khor Soon Lee v PP_ <span class="citation">[2011] 3 SLR 201</span> for example, where the accused had a close personal relationship with the person who passed him the drugs and had trusted that person, whom he had known for about a year. 
 
 39     Given all of these red flags, it would have been reasonable and expected that the Accused probe into what he was asked to do – yet, the Accused did not even check the contents of the bag. His failure to do so could only reasonably have been because he did in fact know or was wilfully blind to what was in the bag. Against these factors, the fact that the Accused was not expressly given any promise or indication of the amount he would be paid for the delivery on 18 February 2016, could not assist him. The evidence showed that the Accused’s explanation for his actions could not be accepted, and the presumption of knowledge was unrebutted. 
 

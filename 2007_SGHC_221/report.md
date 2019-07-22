@@ -107,7 +107,7 @@ and he recounted that he and the petitioner attended at mediation services betwe
 
 80\. It was for all these reasons that I decided to file for divorce in Sweden in October 2006. I did it, knowing the Petitioner would get a fair judgment there, and so would I. I did it, knowing we would both have the matter resolved within months, without further acrimony and without incurring much more legal costs. 
 
-20     The law on stay of proceedings on the ground of _forum non conveniens_ is well settled. The Court of Appeal has affirmed that the principles enunciated by the House of Lords in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] 1 AC 460 (“ _Spiliada_ ”) apply: see _Brinkerhoff Maritime Drilling Corp & Anor v PT Airfast Services Indonesia_ [1992] 2 SLR 776; _Eng Liat Kiang v Eng Bak Hern_ [1995] 3 SLR 97, _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ [1998] 1 SLR 253 and _Rickshaw Investments Ltd & Another v Nicolai Baron von Uexkull_ [2007] 1 SLR 377. 
+20     The law on stay of proceedings on the ground of _forum non conveniens_ is well settled. The Court of Appeal has affirmed that the principles enunciated by the House of Lords in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] 1 AC 460 (“ _Spiliada_ ”) apply: see _Brinkerhoff Maritime Drilling Corp & Anor v PT Airfast Services Indonesia_ <span class="citation">[1992] 2 SLR 776</span>; _Eng Liat Kiang v Eng Bak Hern_ <span class="citation">[1995] 3 SLR 97</span>, _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ <span class="citation">[1998] 1 SLR 253</span> and _Rickshaw Investments Ltd & Another v Nicolai Baron von Uexkull_ <span class="citation">[2007] 1 SLR 377</span>. 
 
 21     In _Spiliada,_ Lord Goff set out six principles at 476-478, which I summarise, retaining His Lordship’s words as far as I can: 
 
@@ -186,7 +186,7 @@ petitioner would be entitled to half the matrimonial assets.
 
 36     The petitioner’s assertion that the respondent should not be allowed to continue with the Swedish proceedings should also be examined. She married the respondent in Sweden. He is a Swedish national, and is domiciled in Sweden. In the circumstances, the petitioner must have realised and accepted that if the marriage breaks down, it is likely that the divorce proceedings would be brought before the Swedish courts. 
 
-37     The law on anti-suit injunctions in Singapore is also well settled. The Court of Appeal has made it clear in _Bank of America National Trust & Savings Association v Djoni Widjaja_ [1994] 2 SLR 816 (“ _Djoni Widjaja_ ”) and _Koh Kay Yew v Inno-Pacific Holdings Ltd_ [1997] 3 SLR 121 that the law to be applied is that enunciated by Lord Goff of Chieveley in the decision of the Privy Council in _Société Nationale Industrielle Aerospatiale v Lee Kui Jak and Another_ [1987] 1 AC 871 at 892. 
+37     The law on anti-suit injunctions in Singapore is also well settled. The Court of Appeal has made it clear in _Bank of America National Trust & Savings Association v Djoni Widjaja_ <span class="citation">[1994] 2 SLR 816</span> (“ _Djoni Widjaja_ ”) and _Koh Kay Yew v Inno-Pacific Holdings Ltd_ <span class="citation">[1997] 3 SLR 121</span> that the law to be applied is that enunciated by Lord Goff of Chieveley in the decision of the Privy Council in _Société Nationale Industrielle Aerospatiale v Lee Kui Jak and Another_ [1987] 1 AC 871 at 892. 
 
 38     Lord Goff held that: 
 

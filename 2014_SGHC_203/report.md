@@ -80,7 +80,7 @@ According to the Plaintiffs, many sub-tenants and licensees left because of the 
 
 **The law on conspiracy** 
 
-14     I will touch on the law on conspiracy in brief before stating the issues that arise in this case. As a preliminary point, the Singapore Court of Appeal in _EFT Holdings, Inc and another v Marineteknik Shipbuilders (S) Pte Ltd and another_ [2014] 1 SLR 860 at [90] questioned whether the tort of conspiracy should even continue to be part of the law of Singapore. The Court of Appeal eventually refrained from deciding the point. 
+14     I will touch on the law on conspiracy in brief before stating the issues that arise in this case. As a preliminary point, the Singapore Court of Appeal in _EFT Holdings, Inc and another v Marineteknik Shipbuilders (S) Pte Ltd and another_ <span class="citation">[2014] 1 SLR 860</span> at [90] questioned whether the tort of conspiracy should even continue to be part of the law of Singapore. The Court of Appeal eventually refrained from deciding the point. 
 
 15     I recognise the force in the argument that the tort of conspiracy appears to be an aberration in the common law. It is difficult to explain why an act, when committed pursuant to an agreement between a number of persons triggers liability, while the very same act, when committed by one person alone does not. However, I do not think that it is for the High Court to say that the tort of conspiracy should no longer apply. 
 
@@ -91,7 +91,7 @@ According to the Plaintiffs, many sub-tenants and licensees left because of the 
 
 conspiracy”. 
 
-18     The elements of the tort of conspiracy were set out in _Nagase Singapore Pte Ltd v Ching Kai Huat and others_ [2008] 1 SLR(R) 80 at [23]: 
+18     The elements of the tort of conspiracy were set out in _Nagase Singapore Pte Ltd v Ching Kai Huat and others_ <span class="citation">[2008] 1 SLR(R) 80</span> at [23]: 
 
  (a) an agreement between two or more persons to do certain acts; 
 
@@ -257,7 +257,7 @@ facilitate a smooth transition for businesses continuing to operate at the Site.
 
 **Whether the Defendants committed acts pursuant to an agreement between themselves** 
 
-51     Conspiracies are usually conceived of in private. The agreement between the conspirators is usually tacit. Courts have thus inferred the existence of an agreement from the conspirators’ acts ( _OCM Opportunities Fund II, LP v Burhan Uray_ [2004] SGHC 115 at [47]). It has also been held that a company can, together with its controlling director, be liable for the tort of conspiracy ( _Visionhealthone Corp Pte Ltd v HD Holdings Pte Ltd and others and another appeal_ [2013] SGCA 47 at [39]). 
+51     Conspiracies are usually conceived of in private. The agreement between the conspirators is usually tacit. Courts have thus inferred the existence of an agreement from the conspirators’ acts ( _OCM Opportunities Fund II, LP v Burhan Uray_ <span class="citation">[2004] SGHC 115</span> at [47]). It has also been held that a company can, together with its controlling director, be liable for the tort of conspiracy ( _Visionhealthone Corp Pte Ltd v HD Holdings Pte Ltd and others and another appeal_ <span class="citation">[2013] SGCA 47</span> at [39]). 
 
 52     On the facts before me, this was not just a case of SAA acting only through its controlling director, Tan Chee Beng. The Defendants did not dispute that TCM and Roger Koh were parties to what SAA and Tan Chee Beng were trying to do. 
 
@@ -305,7 +305,7 @@ Tenancy. [note: 40]
 
 66     First, the transcripts of the meeting of 1 December 2011 (see [35] above) showed that the Defendants threatened to injure the Plaintiffs _unless_ the Plaintiffs were willing to provide the Defendants with adequate compensation. Second, the Defendants’ persistent pressure on subtenants and licensees to vacate by 31 January 2012 was done against SLA’s express requests to facilitate a smooth transition for those persons. Third, the Defendants did not genuinely believe that they were legally obliged to carry out reinstatement work under the 2010 WP. 
 
-67     Proof of conspiracy and the requisite mental element will normally be inferred from objective facts ( _Asian Corporate Services (SEA) Pte Ltd v Eastwest Management Ltd (Singapore Branch)_ [2006] 1 SLR(R) 901 at [19]). The three reasons mentioned above are derived from objective facts which, in my view, lead to the inexorable conclusion that the Defendants’ predominant purpose was to cause damage to the Plaintiffs. 
+67     Proof of conspiracy and the requisite mental element will normally be inferred from objective facts ( _Asian Corporate Services (SEA) Pte Ltd v Eastwest Management Ltd (Singapore Branch)_ <span class="citation">[2006] 1 SLR(R) 901</span> at [19]). The three reasons mentioned above are derived from objective facts which, in my view, lead to the inexorable conclusion that the Defendants’ predominant purpose was to cause damage to the Plaintiffs. 
 
 **_The meeting of 1 December 2011_** 
 
@@ -768,13 +768,13 @@ their closing submissions, rely on _Rookes v Barnard_ [1964] 2 WLR 269 to argue 
 
 calculated act on the part of the Plaintiffs”. [note: 108] 
 
-171    The court has the discretion in deciding whether or not to enforce a claimant’s undertaking in damages. It is to be exercised by reference to all the circumstances of the case ( _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ [2000] 2 SLR(R) 407 (“ _Tribune Investment_ ”) at [54]). In order for the court to be persuaded that a claimant’s undertaking in damages should be enforced, it has to be satisfied of two things: first, that the injunction was wrongly granted; and second, that there are no special circumstances militating against the enforcement of the claimant’s undertaking ( _Canadian Pacific (Bermuda) Ltd v Nederkoorn Pte Ltd and another_ [1999] 1 SLR(R) 628 at [50]). 
+171    The court has the discretion in deciding whether or not to enforce a claimant’s undertaking in damages. It is to be exercised by reference to all the circumstances of the case ( _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">[2000] 2 SLR(R) 407</span> (“ _Tribune Investment_ ”) at [54]). In order for the court to be persuaded that a claimant’s undertaking in damages should be enforced, it has to be satisfied of two things: first, that the injunction was wrongly granted; and second, that there are no special circumstances militating against the enforcement of the claimant’s undertaking ( _Canadian Pacific (Bermuda) Ltd v Nederkoorn Pte Ltd and another_ <span class="citation">[1999] 1 SLR(R) 628</span> at [50]). 
 
 172    Once it is established that the undertaking should be enforced, the court can decide whether to do so summarily, or by ordering an inquiry as to damages ( _Tribune Investment_ at [53]). 
 
 173    I pause to mention that a claim in respect of an undertaking in damages should not be pleaded as a counterclaim (David Bean, Isabel Parry & Andrew Burns, _Injunctions_ (2012, 11th Ed, Sweet & Maxwell) at para 6–14), as the Defendants have done in this case. The undertaking in damages, which the claimant gives upon the grant of an injunction, is given to the _court_ and not to the defendant. It does not create any right on the part of the defendant which can found a cause of action ( _Cheltenham & Gloucester Building Society (formerly Portsmouth Building Society) v Ricketts_ [1993] 1 WLR 1545 (“ _Cheltenham_ ”) at 1551D, per Neill LJ). The defendant can ask the court to enforce the undertaking. But the defendant “has no right to its enforcement or any right to damages until the discretion is exercised in his favour and damages are awarded” ( _Cheltenham_ at 1555B, per Peter Gibson LJ). Notwithstanding the Defendants’ incorrect approach of characterising the enforcement of the undertaking as a counterclaim rather than an application, I will nonetheless deal with the merits of their claim for the undertaking in damages to be enforced. 
 
-174    I turn to the question of whether the Injunction was wrongly granted. The success of the claimant at trial and the circumstances in which the order was obtained are important to this question ( _Marubeni International Petroleum (S) v Projector SA_ [2004] 4 SLR(R) 233 at [15]). If the claimant fails in its claim at the trial, then the injunction would usually have been wrongly granted. 
+174    I turn to the question of whether the Injunction was wrongly granted. The success of the claimant at trial and the circumstances in which the order was obtained are important to this question ( _Marubeni International Petroleum (S) v Projector SA_ <span class="citation">[2004] 4 SLR(R) 233</span> at [15]). If the claimant fails in its claim at the trial, then the injunction would usually have been wrongly granted. 
 
 175    The Defendants’ position runs into difficulties at this point. They have not elucidated in their pleadings or submissions a basis for their assertion that the Injunction was wrongly granted. Their position appears to have been premised on the discharge of the Injunction and perhaps the expected failure of the Plaintiffs’ claim. But the latter premise falls away with my finding in favour of the Plaintiffs in respect of their substantive claim in this action. As for the former premise, the Defendants assume that the discharge of the Injunction at the interlocutory stage must mean that it was wrongly obtained in the first place. This is incorrect. 
 

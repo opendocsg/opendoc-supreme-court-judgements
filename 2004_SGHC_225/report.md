@@ -246,12 +246,12 @@ others to join the association. He also did not use the media to embarrass any c
 
 63     The first issue that the court has to decide is whether the words complained of bear the defamatory meaning pleaded by the plaintiff or some lesser defamatory meaning. I have already set out what the plaintiff said the words meant. The defendant pleaded that the words in issue, “in their natural and ordinary meaning and in their proper context, meant and were understood to mean that the plaintiff was attempting to gain the strong approval and/or support of NatSteel’s minority shareholders on the issue of the linkage”. 
 
-64     In _Microsoft Corporation v SM Summit Holdings Ltd_ [1999] 4 SLR 529, the Court of Appeal set out the principles applicable in determining the natural and ordinary meaning of the words complained of in a defamation action. The Court there said, at [53]: 
+64     In _Microsoft Corporation v SM Summit Holdings Ltd_ <span class="citation">[1999] 4 SLR 529</span>, the Court of Appeal set out the principles applicable in determining the natural and ordinary meaning of the words complained of in a defamation action. The Court there said, at [53]: 
 
 ## [1] 
 
 
- The court decides what meaning the words would have conveyed to an ordinary, reasonable person using his general knowledge and common sense: Jeyaretnam Joshua Benjamin v Goh Chok Tong [1984–1985] SLR 516; [1985] 1 MLJ 334 and Jeyaretnam Joshua Benjamin v Lee Kuan Yew , supra [[1992] 2 SLR 310]. The test is an objective one: it is the natural and ordinary meaning as understood by an ordinary, reasonable person, not unduly suspicious or avid for scandal. The meaning intended by the maker of the defamatory statement is irrelevant. Similarly, the sense in which the words were actually understood by the party alleged to have been defamed is also irrelevant. Nor is extrinsic evidence admissible in construing the words. The meaning must be gathered from the words themselves and in the context of the entire passage in which they are set out. The court is not confined to the literal or strict meaning of the words, but takes into account what the ordinary, reasonable person may reasonably infer from the words. The ordinary, reasonable person reads between the lines. 
+ The court decides what meaning the words would have conveyed to an ordinary, reasonable person using his general knowledge and common sense: Jeyaretnam Joshua Benjamin v Goh Chok Tong [1984–1985] SLR 516; [1985] 1 MLJ 334 and Jeyaretnam Joshua Benjamin v Lee Kuan Yew , supra [<span class="citation">[1992] 2 SLR 310</span>]. The test is an objective one: it is the natural and ordinary meaning as understood by an ordinary, reasonable person, not unduly suspicious or avid for scandal. The meaning intended by the maker of the defamatory statement is irrelevant. Similarly, the sense in which the words were actually understood by the party alleged to have been defamed is also irrelevant. Nor is extrinsic evidence admissible in construing the words. The meaning must be gathered from the words themselves and in the context of the entire passage in which they are set out. The court is not confined to the literal or strict meaning of the words, but takes into account what the ordinary, reasonable person may reasonably infer from the words. The ordinary, reasonable person reads between the lines. 
 
 6       5 _Longman Dictionary of Phrasal Verbs_ (Longman, 1983) states, in respect of the phrase “play to the gallery”: 
 
@@ -288,7 +288,7 @@ further. As _Gatley on Libel and Slander_ (Sweet & Maxwell, 10th Ed, 2004) puts 
 
 Similarly, it has been said that insults which do not diminish a man’s standing among other people do not found an action for libel or slander, although the exact borderline may often be difficult to define: _Berkoff v Burchill_ [1996] 4 All ER 1008. The words said of the plaintiff may not be complimentary but they do not injure his character or reputation or question his integrity. In the circumstances, I do not think the plaintiff was defamed in the way pleaded or at all. 
 
-69     Counsel for the plaintiff relied on _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ [1998] 1 SLR 547 in submitting that a similar phrase “directed at the gallery” was used to describe defence counsel’s objectionable conduct in cross-examination. In that case, Rajendran J said, at [199]: 
+69     Counsel for the plaintiff relied on _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ <span class="citation">[1998] 1 SLR 547</span> in submitting that a similar phrase “directed at the gallery” was used to describe defence counsel’s objectionable conduct in cross-examination. In that case, Rajendran J said, at [199]: 
 
  It is clear, by the failure to call evidence to support the allegations, that the questions were directed not towards assisting the court in determining the issues before it but directed at the gallery and the press in order to denigrate the Prime Minister and the way he governs Singapore. For such conduct, aggravated damages is payable. 
 
@@ -296,14 +296,14 @@ A counsel’s duty in court is not to ask irrelevant, sensational questions or t
 
 70     I agree with defence counsel’s submissions that the worst that could be said of the words in issue is that they alleged that the plaintiff had engaged in theatrics. Assuming that calling a person a dramatic showman with more style than substance amounts to defamation, was the defendant justified in making that remark about the plaintiff? 
 
-71     In _Sin Heak Hin Pte Ltd v Yuasa Battery Singapore Co Pte Ltd_ [1995] 3 SLR 590 at 598–599, [31], it was held: 
+71     In _Sin Heak Hin Pte Ltd v Yuasa Battery Singapore Co Pte Ltd_ <span class="citation">[1995] 3 SLR 590</span> at 598–599, [31], it was held: 
 
  In order to establish the defence of justification, a defendant must prove that the defamatory 
 
 
  imputation is true and he must prove the truth of the very imputation complained of. He must also prove the truth of all the material statements in the libel, ie he must justify everything that the libel contains which is injurious to the plaintiff. 
 
-This does not mean the court should engage in a meticulous examination of every word in question or every detail of fact. It suffices that the substance or the gist of the libel has been justified: _Aaron v Cheong Yip Seng_ [1996] 1 SLR 623. 
+This does not mean the court should engage in a meticulous examination of every word in question or every detail of fact. It suffices that the substance or the gist of the libel has been justified: _Aaron v Cheong Yip Seng_ <span class="citation">[1996] 1 SLR 623</span>. 
 
 72     The plaintiff alleged that the words in issue were only uttered in respect of the SIAS statement referred to in the BT article of 4 June 2003. The defendant disagreed. He pleaded that the words were not spoken as a comment on only the SIAS statement but related to the plaintiff’s conduct at the 28 May 2003 EGM as well. He relied on the plaintiff’s Second Affidavit of Evidence-inChief as having acknowledged that fact. The plaintiff, in that Affidavit, said at para 5: 
 
@@ -339,7 +339,7 @@ only at the board of NatSteel, it was argued that the defendant had no qualified
 
 83     As NatSteel is a listed company, the public has an interest in its corporate governance. The defendant had a duty to respond to the criticism levelled against the board (with him as director and Chairman of its Executive Committee) and the investing public had a corresponding interest in his response. The defence of qualified privilege therefore succeeds. 
 
-84     I turn now to the defence of fair comment. In _Chen Cheng v Central Christian Church_ [1999] 1 SLR 94 at [33], the Court of Appeal held that to succeed in a defence of fair comment, the defendant has to prove that: 
+84     I turn now to the defence of fair comment. In _Chen Cheng v Central Christian Church_ <span class="citation">[1999] 1 SLR 94</span> at [33], the Court of Appeal held that to succeed in a defence of fair comment, the defendant has to prove that: 
 
  (a) the words complained of are comments, though they may consist of or include inferences of facts; 
 

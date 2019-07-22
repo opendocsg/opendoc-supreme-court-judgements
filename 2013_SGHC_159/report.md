@@ -223,7 +223,7 @@ _Scope of easements in s 99(1A) of the LTA_
 
 _Comparison with s 98 of the LTA_ 
 
-35     A comparison with the provisions of s 98 of the LTA with s 99 is beneficial. In _Management Corporation Strata Title Plan No 549 v Chew Eu Hock Construction Co Pte Ltd_ [1998] 2 SLR(R) 934, the Court of Appeal held at [27] and [39] that the court should have regard to s 98 of the LTA when construing the provisions of s 99 of the LTA since there is a considerable amount of overlap between the two sections. The relevant portions of s 98 of the LTA are set out below: 
+35     A comparison with the provisions of s 98 of the LTA with s 99 is beneficial. In _Management Corporation Strata Title Plan No 549 v Chew Eu Hock Construction Co Pte Ltd_ <span class="citation">[1998] 2 SLR(R) 934</span>, the Court of Appeal held at [27] and [39] that the court should have regard to s 98 of the LTA when construing the provisions of s 99 of the LTA since there is a considerable amount of overlap between the two sections. The relevant portions of s 98 of the LTA are set out below: 
 
  Implied easements for passage of water, electricity, drainage, gas and sewerage for development 
 

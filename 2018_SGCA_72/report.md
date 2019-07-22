@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ – _Illegal importation of controlled drugs_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 145.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 145</span>.] 
 
 25 October 2018 Judgment reserved. 
 
@@ -37,7 +37,7 @@ _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ – _Illegal i
 
 Based on the reduced charge, the Judge sentenced the respondent to 15 years’ imprisonment with effect from the date of arrest on 11 December 2014 and to ten strokes of the cane. The Judge’s 
 
-decision can be found in _Public Prosecutor v Gobi a/l Avedian_ [2017] SGHC 145 (“the GD”). [note: 1] 
+decision can be found in _Public Prosecutor v Gobi a/l Avedian_ <span class="citation">[2017] SGHC 145</span> (“the GD”). [note: 1] 
 
 3       The Prosecution appealed on the ground that the Judge erred in finding that the presumption under s 18(2) of the MDA was rebutted. The Prosecution contended that the respondent ought to have been convicted on the original charge. 
 
@@ -212,9 +212,9 @@ imprisonment and ten strokes of the cane. [note: 36]
 
  (2) Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug. 
 
-To rebut the presumption in s 18(2), the accused person must prove, on a balance of probabilities, that he did not have knowledge of the nature of the controlled drug that he was caught in possession of (see _Nagaenthran a/l K Dharmalingam v Public Prosecutor_ [2011] 4 SLR 1156 (“ _Nagaenthran_ ”) at [24]). 
+To rebut the presumption in s 18(2), the accused person must prove, on a balance of probabilities, that he did not have knowledge of the nature of the controlled drug that he was caught in possession of (see _Nagaenthran a/l K Dharmalingam v Public Prosecutor_ <span class="citation">[2011] 4 SLR 1156</span> (“ _Nagaenthran_ ”) at [24]). 
 
-30     In _Obeng Comfort v Public Prosecutor_ [2017] 1 SLR 633 (“ _Obeng”_ ), this Court addressed the issue of how the presumption of knowledge in s 18(2) could be rebutted. We stated the following (at [39][40]): 
+30     In _Obeng Comfort v Public Prosecutor_ <span class="citation">[2017] 1 SLR 633</span> (“ _Obeng”_ ), this Court addressed the issue of how the presumption of knowledge in s 18(2) could be rebutted. We stated the following (at [39][40]): 
 
  39 In a case where the accused is seeking to rebut the presumption of knowledge under s 18(2) of the MDA, as a matter of common sense and practical application, he should be able to say what he thought or believed he was carrying, particularly when the goods have to be carried across international borders as they could be prohibited goods or goods which are subject to tax. It would not suffice for the accused to claim simply that he did not know what he was carrying save that he did not know or think it was drugs. If such a simplistic claim could rebut the presumption in s 18(2), the presumption would be all bark and no bite. Similarly, he would not be able to rebut the presumption as to knowledge by merely claiming that he did not know the proper name of the drug that he was asked to carry. The law also does not require him to know the scientific or the chemical name of the drug or the effects that the drug could bring about. The presumption under s 18(2) operates to vest the accused with knowledge of the nature of the drug which he is in possession of, and to rebut this, he must give an account of what he thought it was. 
 
@@ -248,10 +248,10 @@ had testified that “I have no friends who use drugs so I do not know much abou
 
 **_The respondent’s trust in the supplier, Vinod_** 
 
-39     In determining whether an accused person believed subjectively the information given by the drugs supplier about the drugs, the court will consider the knowledge of and the efforts made by the accused person to find out about the drugs that he was going to traffic in. In our view, unique circumstances justifying a very high level of trust must be shown by the accused person before the Court is persuaded that the accused person is entitled to rely solely or mainly on the information given by the drugs supplier. This is the effect of this Court’s decision in _Khor Soon Lee v Public Prosecutor_ [2011] 3 SLR 201 and the High Court’s decision in _Public Prosecutor v Phuthita Somchit_ 
+39     In determining whether an accused person believed subjectively the information given by the drugs supplier about the drugs, the court will consider the knowledge of and the efforts made by the accused person to find out about the drugs that he was going to traffic in. In our view, unique circumstances justifying a very high level of trust must be shown by the accused person before the Court is persuaded that the accused person is entitled to rely solely or mainly on the information given by the drugs supplier. This is the effect of this Court’s decision in _Khor Soon Lee v Public Prosecutor_ <span class="citation">[2011] 3 SLR 201</span> and the High Court’s decision in _Public Prosecutor v Phuthita Somchit_ 
 
 
-_and another_ [2011] 3 SLR 719, both of which turned on their respective unique factual situations. This is because the accused person, when told that he would be transporting illegal drugs across state boundaries, will know that (i) the supplier is involved in illegal activities, (ii) the supplier has chosen not to transport these drugs himself and (iii) the supplier is often willing to pay the accused person a disproportionately large amount of money for the simple task of transporting the drugs into Singapore. All these should put the ordinary accused person on notice that the drugs in question must be worth a lot more than the reward for transporting them and that the risks of doing the delivery must be correspondingly high. 
+_and another_ <span class="citation">[2011] 3 SLR 719</span>, both of which turned on their respective unique factual situations. This is because the accused person, when told that he would be transporting illegal drugs across state boundaries, will know that (i) the supplier is involved in illegal activities, (ii) the supplier has chosen not to transport these drugs himself and (iii) the supplier is often willing to pay the accused person a disproportionately large amount of money for the simple task of transporting the drugs into Singapore. All these should put the ordinary accused person on notice that the drugs in question must be worth a lot more than the reward for transporting them and that the risks of doing the delivery must be correspondingly high. 
 
 40     In the present case, we do not think that Vinod’s assurances could do very much to help the respondent to rebut the presumption of knowledge. Vinod did not give the respondent any information that would help the respondent to identify the drugs. According to the respondent, Vinod only informed him that he would be transporting drugs mixed with chocolate without providing any further details as to what these drugs would be. 
 

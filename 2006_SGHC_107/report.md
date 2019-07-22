@@ -95,9 +95,9 @@ providing that in a _single action_ with multiple parties, pleadings would close
  (a) The fact that one or more points of law arise on an application for summary judgment 
 
 
- does not necessarily mean that leave to defend must be given: Tokyo Investment Pte Ltd v Tan Chor Thing [1993] 3 SLR 170. 
+ does not necessarily mean that leave to defend must be given: Tokyo Investment Pte Ltd v Tan Chor Thing <span class="citation">[1993] 3 SLR 170</span>. 
 
- (b) Where the plaintiffs’ entitlement to judgment depends on a clear-cut question of law, the court will hear full arguments as to the point of law rather than grant leave to defend: Cascade Shipping Inc v Eka Jaya Agencies (S) Pte Ltd [1992] 1 SLR 197. 
+ (b) Where the plaintiffs’ entitlement to judgment depends on a clear-cut question of law, the court will hear full arguments as to the point of law rather than grant leave to defend: Cascade Shipping Inc v Eka Jaya Agencies (S) Pte Ltd <span class="citation">[1992] 1 SLR 197</span>. 
 
 I accepted that where the answers to legal issues were clear, there being no arguable defence, to grant leave to defend would unnecessarily delay the disposal of the action. Bearing that in mind, I proceeded to hear the application. 
 
@@ -199,7 +199,7 @@ To my mind, this is a good working definition of the term.
  (g) information known by a former crown servant of alleged illegal activities of the British Security Services: Attorney-General v Guardian Newspapers Ltd (No 2) [1990] 1 AC 109 (“ AG v Guardian Newspapers ”). 
 
 
- (h) telephone bills and other bills and receipts: X Pte Ltd v CDE [1992] 2 SLR 996; 
+ (h) telephone bills and other bills and receipts: X Pte Ltd v CDE <span class="citation">[1992] 2 SLR 996</span>; 
 
  (i) a medical research questionnaire prepared from material in the public domain: Dr Lam Tai Hing v Dr Koo Chih Ling Linda [1993] 2 HKC 1; 
 

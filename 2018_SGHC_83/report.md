@@ -996,7 +996,7 @@ responsibility for checking the numbers rested with the “operations department
 152    In its Defence and Counterclaim (Amendment No 4), Petrotec also mentioned a cause of action in unjust enrichment. The three requirements of a claim in unjust enrichment are: (a) the enrichment of the defendant, (b) enrichment at the expense of the plaintiff, and (c) the circumstances which 
 
 
-make the enrichment unjust ( _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd_ [2011] 3 SLR 540 at [110]). Petrotec appeared to have abandoned this cause of action during the course of the trial. Neither did it substantiate its case in this regard in its closing submissions. In any event, given that the payments had been made by Petrotec to Gulf with the knowledge and consent of Dennis Tan, I do not consider that there was anything unjust warranting reversal. 
+make the enrichment unjust ( _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd_ <span class="citation">[2011] 3 SLR 540</span> at [110]). Petrotec appeared to have abandoned this cause of action during the course of the trial. Neither did it substantiate its case in this regard in its closing submissions. In any event, given that the payments had been made by Petrotec to Gulf with the knowledge and consent of Dennis Tan, I do not consider that there was anything unjust warranting reversal. 
 
 153    Accordingly, Petrotec’s counterclaim fails as it has not established a valid cause of action for the return of the Payments that had been made. 
 
@@ -1132,9 +1132,9 @@ they relied on the following alleged representations made by Gary Chew: [note: 2
 
  (c) that Dennis Tan “did not have to worry” about the Guarantee. [note: 252] 
 
-175    The Guarantors did not specify the species of estoppel relied upon. [note: 253] As Andrew Ang J explained in _Rudhra Minerals Pte Ltd v MRI Trading Pte Ltd_ [2013] 4 SLR 1023, the appropriate species of estoppel that applies to preclude one party from resiling on his alleged promise or assurance as to future conduct should be promissory estoppel, and not estoppel by representation of fact. It is on this basis that I analyse the Guarantors’ submissions. 
+175    The Guarantors did not specify the species of estoppel relied upon. [note: 253] As Andrew Ang J explained in _Rudhra Minerals Pte Ltd v MRI Trading Pte Ltd_ <span class="citation">[2013] 4 SLR 1023</span>, the appropriate species of estoppel that applies to preclude one party from resiling on his alleged promise or assurance as to future conduct should be promissory estoppel, and not estoppel by representation of fact. It is on this basis that I analyse the Guarantors’ submissions. 
 
-176    A party pleading promissory estoppel must show three elements: (a) a clear and unequivocal promise by the promisor, whether by words or conduct, (b) reliance on the promise by the promisee, and (c) detriment suffered by the promisee as a result of the reliance (see, _eg_ , _Aero-Gate Pte Ltd v Engen Marine Engineering Pte Ltd_ [2013] 4 SLR 409 at [37]). 
+176    A party pleading promissory estoppel must show three elements: (a) a clear and unequivocal promise by the promisor, whether by words or conduct, (b) reliance on the promise by the promisee, and (c) detriment suffered by the promisee as a result of the reliance (see, _eg_ , _Aero-Gate Pte Ltd v Engen Marine Engineering Pte Ltd_ <span class="citation">[2013] 4 SLR 409</span> at [37]). 
 
 177    On the facts, the purported representations do not amount to unequivocal promises that the 
 

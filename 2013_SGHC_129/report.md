@@ -82,9 +82,9 @@ in relation to the former. They were as follows:
 
 **Principles governing appellate intervention** 
 
-12     It bears emphasising from the outset that it is settled law that an appellate court only has a limited scope to intervene when reappraising sentences imposed by a court at first instance: see _Angliss Singapore Pte Ltd v Public Prosecutor_ [2006] 4 SLR(R) 653 (“ _Angliss_ ”) at [13]; affirmed by the Court of Appeal in _Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ [2008] 1 SLR(R) 601 at [81]. 
+12     It bears emphasising from the outset that it is settled law that an appellate court only has a limited scope to intervene when reappraising sentences imposed by a court at first instance: see _Angliss Singapore Pte Ltd v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 653</span> (“ _Angliss_ ”) at [13]; affirmed by the Court of Appeal in _Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">[2008] 1 SLR(R) 601</span> at [81]. 
 
-13     In _Public Prosecutor v Kwong Kok Hing_ [2008] 2 SLR(R) 684 (“ _Kwong Kok Hing_ ”) at [14], it was held that an appellate court would interfere with the sentence imposed if it was satisfied that: 
+13     In _Public Prosecutor v Kwong Kok Hing_ <span class="citation">[2008] 2 SLR(R) 684</span> (“ _Kwong Kok Hing_ ”) at [14], it was held that an appellate court would interfere with the sentence imposed if it was satisfied that: 
 
  (a) the trial judge had made the wrong decision as to the proper factual basis for sentence; 
 
@@ -97,7 +97,7 @@ in relation to the former. They were as follows:
 
  (d) the sentence imposed was manifestly excessive or manifestly inadequate. 
 
-The threshold for determining whether a sentence is manifestly inadequate or excessive is whether it “requires substantial alterations rather than minute corrections to remedy the injustice”: see _Public Prosecutor v UI_ [2008] 4 SLR(R) 500 at [13]. 
+The threshold for determining whether a sentence is manifestly inadequate or excessive is whether it “requires substantial alterations rather than minute corrections to remedy the injustice”: see _Public Prosecutor v UI_ <span class="citation">[2008] 4 SLR(R) 500</span> at [13]. 
 
 **The Prosecution’s case** 
 
@@ -169,7 +169,7 @@ It submitted that having regard to all the facts and circumstances of the case, 
 
  (b) 
 
-21     Where the accused faces a number of separate charges, the correct approach to determine the appropriate sentence to be imposed is to first determine the sentences for the individual offences before deciding whether the overall sentence is globally fair in view of the totality of the criminal behaviour by selecting the appropriate sentences to run consecutively or concurrently and if need be, by appropriately adjusting the individual sentences, in order to achieve the overall objective of a globally fair sentence: see _Public Prosecutor v Syamsul Hilal bin Ismail_ [2012] 1 SLR 973. With this in mind, I turn to the appeal proper. 
+21     Where the accused faces a number of separate charges, the correct approach to determine the appropriate sentence to be imposed is to first determine the sentences for the individual offences before deciding whether the overall sentence is globally fair in view of the totality of the criminal behaviour by selecting the appropriate sentences to run consecutively or concurrently and if need be, by appropriately adjusting the individual sentences, in order to achieve the overall objective of a globally fair sentence: see _Public Prosecutor v Syamsul Hilal bin Ismail_ <span class="citation">[2012] 1 SLR 973</span>. With this in mind, I turn to the appeal proper. 
 
 **_Section 304A(b) PC_** 
 
@@ -185,7 +185,7 @@ _The 2008 amendments to the Penal Code_
 
  in the case of a negligent act, with imprisonment for a term which may extend to 2 years, or with fine, or with both. [emphasis added] 
 
-23     As mentioned above at [10(a)], the DJ found that the proper starting point as regards sentencing for this offence is the imposition of a fine unless aggravating factors render it a “most unusual case” rising to the level of culpability as that of a reckless and rash act to warrant a custodial sentence. This sentencing principle was set out in _Public Prosecutor v Gan Lim Soon_ [1993] 2 SLR(R) 67 (“ _Gan Lim Soon_ ”) at [10] (and applied in _Mohamad Iskandar bin Basri v Public Prosecutor_ [2006] 4 SLR(R) 440): 
+23     As mentioned above at [10(a)], the DJ found that the proper starting point as regards sentencing for this offence is the imposition of a fine unless aggravating factors render it a “most unusual case” rising to the level of culpability as that of a reckless and rash act to warrant a custodial sentence. This sentencing principle was set out in _Public Prosecutor v Gan Lim Soon_ <span class="citation">[1993] 2 SLR(R) 67</span> (“ _Gan Lim Soon_ ”) at [10] (and applied in _Mohamad Iskandar bin Basri v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 440</span>): 
 
  Under s 304A, the act can be due to either rashness or negligence. If death has been caused by a rash act the proper punishment would be imprisonment for a term not exceeding two years. If death has been caused instead by a negligent act, it would be sufficient in most cases to inflict a fine on the accused. [emphasis added] 
 
@@ -208,13 +208,13 @@ for the court to differentiate between the culpability of an offender who was ne
 
  ... when Parliament sets a statutory maximum, it signals the gravity with which the public, through Parliament, views that particular offence ... Therefore, it stands to reason that the sentencing judges must take note of the maximum penalty and then apply their minds to determine precisely where the offender’s conduct falls within the spectrum of punishment devised by Parliament. 
 
-27     Therefore, I agreed with the Prosecution’s contention that it is highly questionable if the starting point as regards sentencing for the s 304A(b) offence remains a fine and that only a “most unusual case” would warrant the imposition of a custodial sentence. That said, it is clear that the sentence to be imposed will depend on the nature and extent of the culpability — the more serious the negligence, the more justification there is for the imposition of a custodial sentence: see _Public Prosecutor v Lee Kao Chong Sylvester_ [2012] SGHC 96 (“ _Lee Kao Chong_ Sylvester”) at [18]. 
+27     Therefore, I agreed with the Prosecution’s contention that it is highly questionable if the starting point as regards sentencing for the s 304A(b) offence remains a fine and that only a “most unusual case” would warrant the imposition of a custodial sentence. That said, it is clear that the sentence to be imposed will depend on the nature and extent of the culpability — the more serious the negligence, the more justification there is for the imposition of a custodial sentence: see _Public Prosecutor v Lee Kao Chong Sylvester_ <span class="citation">[2012] SGHC 96</span> (“ _Lee Kao Chong_ Sylvester”) at [18]. 
 
 _Drink driving as an aggravating factor_ 
 
 28     The Prosecution’s key contention was that the DJ failed to place sufficient weight on the Respondent’s drink driving as a serious aggravating factor warranting the imposition of a custodial sentence for the s 304A(b) PC offence. 
 
-29     The DJ’s decision was premised on the dictum in _Gan Lim Soon_ that an offence under the negligence limb would only attract a fine unless it was a “most unusual case” rising to a similar level of culpability as that of a reckless or rash act. However, as explained in the section above, the applicability of this dictum is questionable in the light of the 2008 amendments to the Penal Code. Instead, I found that the preferable approach is to determine the seriousness of the Respondent’s negligence against the standard of care that a prudent and reasonable man would exercise: see _Public Prosecutor v Teo Poh Leng_ [1991] 2 SLR(R) 541. 
+29     The DJ’s decision was premised on the dictum in _Gan Lim Soon_ that an offence under the negligence limb would only attract a fine unless it was a “most unusual case” rising to a similar level of culpability as that of a reckless or rash act. However, as explained in the section above, the applicability of this dictum is questionable in the light of the 2008 amendments to the Penal Code. Instead, I found that the preferable approach is to determine the seriousness of the Respondent’s negligence against the standard of care that a prudent and reasonable man would exercise: see _Public Prosecutor v Teo Poh Leng_ <span class="citation">[1991] 2 SLR(R) 541</span>. 
 
 30     In coming to her decision that this case did not warrant the imposition of a custodial sentence, the DJ placed some emphasis on her finding that there was no evidence or statement in the SOF that the alcohol had contributed causally to the Respondent’s negligence in failing to keep a proper lookout. She thus took the view that the Respondent’s intoxicated state could not on its own raise the objective seriousness of the s 304A(b) PC negligence. 
 
@@ -257,7 +257,7 @@ _Aggravating factors_
 
 originally imposed on the offenders were substituted with custodial sentences on appeal. 
 
-42     The length of the custodial sentence would in turn depend on the aggravating and mitigating circumstances of each case, in particular on the quality of the driving and the amount by which the offender was over the limit. In _Public Prosecutor v Lee Meng Soon_ [2007] 4 SLR(R) 240 (“ _Lee Meng Soon_ ”), Lee Seiu Kin J held at [22] and [29] that the principal aggravating factors were the level of alcohol and degree of control over the vehicle. As regards the latter factor, Chao Hick Tin JA observed in _Lim Kay Han Irene v Public Prosecutor_ [2010] 3 SLR 240 (“ _Lim Kay Han Irene_ ”) that the mere commission of an offence under s 67(1)(b) RTA would not give rise to the presumption that the driver was also incapable of controlling the vehicle. Although involvement in an accident could be indicative of poor control of the vehicle, much would also depend on the circumstances of the accident: see _Lee Meng Soon_ at [27]-[28]. 
+42     The length of the custodial sentence would in turn depend on the aggravating and mitigating circumstances of each case, in particular on the quality of the driving and the amount by which the offender was over the limit. In _Public Prosecutor v Lee Meng Soon_ <span class="citation">[2007] 4 SLR(R) 240</span> (“ _Lee Meng Soon_ ”), Lee Seiu Kin J held at [22] and [29] that the principal aggravating factors were the level of alcohol and degree of control over the vehicle. As regards the latter factor, Chao Hick Tin JA observed in _Lim Kay Han Irene v Public Prosecutor_ <span class="citation">[2010] 3 SLR 240</span> (“ _Lim Kay Han Irene_ ”) that the mere commission of an offence under s 67(1)(b) RTA would not give rise to the presumption that the driver was also incapable of controlling the vehicle. Although involvement in an accident could be indicative of poor control of the vehicle, much would also depend on the circumstances of the accident: see _Lee Meng Soon_ at [27]-[28]. 
 
 43     In this regard, I observed that the breath alcohol level of the Respondent had exceeded the prescribed limit of 35 microgrammes of alcohol in 100 millilitres of breath, albeit by 20%, and that there was no other objective evidence indicating that the Respondent might have lost some degree of control of his vehicle apart from the fact of the accident and the vehicle stopping about a car length after the collision. However, it should be emphasised that the absence of other evidence indicating that he had lost control of his vehicle would not sufficiently mitigate the seriousness of the offence on the facts of his case when he failed to give way, caused the cyclist’s death and his breath alcohol level at the time of causing the fatal accident had exceeded the prescribed limit. 
 
@@ -280,9 +280,9 @@ It is further noted that the precautionary period allegedly taken by the Respond
 
 **_General deterrence_** 
 
-47     In _Public Prosecutor v Law Aik Meng_ [2007] 2 SLR(R) 814, the court held at [24] that: 
+47     In _Public Prosecutor v Law Aik Meng_ <span class="citation">[2007] 2 SLR(R) 814</span>, the court held at [24] that: 
 
- General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender: Meeran bin Mydin v PP [1998] 1 SLR(R) 522 at [9] (“ Meeran bin Mydin ”). Premeditated offences aside, there are many other situations where general deterrence assumes significance and relevance. These may relate to the type and/or circumstances of a particular offence. Some examples of the types of offences, which warrant general deterrence are: 
+ General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender: Meeran bin Mydin v PP <span class="citation">[1998] 1 SLR(R) 522</span> at [9] (“ Meeran bin Mydin ”). Premeditated offences aside, there are many other situations where general deterrence assumes significance and relevance. These may relate to the type and/or circumstances of a particular offence. Some examples of the types of offences, which warrant general deterrence are: 
 
  ... 
 
@@ -326,7 +326,7 @@ failed to keep a proper lookout when travelling along the 2nd lane from the righ
 
  This was the accused’s second conviction for drink driving. He was sentenced to 6 months’ imprisonment and 8 years’ disqualification for the s 304A(b) PC offence, and 4 months’ imprisonment, $3000 fine and 5 years’ disqualification for the RTA offence. Both sentences were to run concurrently. 
 
-56     The Respondent cited the case of _Public Prosecutor v Tan Chean Wei_ [2010] SGDC 240 (“ _Tan Chean Wei_ ”). There the accused was charged under s 304A(b) PC and s 67(1)(a) RTA for driving under the influence of a drug, Nimetazepam. He was driving along a 3-lane, 2-way road when he lost control of his motor van and collided into the deceased’s bicycle. The accused was fined $6,000 and a disqualification period of 3 years was imposed for the s 304A(b) PC offence and a fine of $2,000 and 3 years’ disqualification was imposed for the s 67(1)(a) RTA offence. 
+56     The Respondent cited the case of _Public Prosecutor v Tan Chean Wei_ <span class="citation">[2010] SGDC 240</span> (“ _Tan Chean Wei_ ”). There the accused was charged under s 304A(b) PC and s 67(1)(a) RTA for driving under the influence of a drug, Nimetazepam. He was driving along a 3-lane, 2-way road when he lost control of his motor van and collided into the deceased’s bicycle. The accused was fined $6,000 and a disqualification period of 3 years was imposed for the s 304A(b) PC offence and a fine of $2,000 and 3 years’ disqualification was imposed for the s 67(1)(a) RTA offence. 
 
 57     The Prosecution sought to distinguish _Tan Chean Wei_ from our present case. They pointed out that the accused in that case was under the medication Erimin which had been _legally_ prescribed to the accused for his insomnia and that it was not shown that the level of medication present in his system exceeded the dosage to such a degree as to constitute abuse. Moreover, the accused had taken the medication some _18 hours_ prior to the accident. I accepted the Prosecution’s submissions in respect of _Tan Chean Wei_ ; the level of culpability on the part of the Respondent clearly exceeded that of the accused in that case in the light of his conscious decision to drink two whole bottles of beer and then drive soon thereafter_._ 
 

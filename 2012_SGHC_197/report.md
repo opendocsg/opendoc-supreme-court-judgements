@@ -351,7 +351,7 @@ _Fraudulent misrepresentations_
 
 101    As noted in [51], the plaintiff’s claim against the first defendant was for the fraudulent misrepresentations purportedly made to her by the deceased during his lifetime. 
 
-102    For fraudulent misrepresentation to be actionable in the tort of deceit, the requirements in _Derry v Peek_ (1889) 14 App Cas 337 (recently reaffirmed in _Raiffeisen Zentralbank Osterreich AG v Archer Daniels Midlands Co_ [2007] 1 SLR(R) 196 and in _Panatron Pte Ltd v Lee Cheow Lee_ [2001] 2 SLR(R) 435) must be met _viz_ : 
+102    For fraudulent misrepresentation to be actionable in the tort of deceit, the requirements in _Derry v Peek_ (1889) 14 App Cas 337 (recently reaffirmed in _Raiffeisen Zentralbank Osterreich AG v Archer Daniels Midlands Co_ <span class="citation">[2007] 1 SLR(R) 196</span> and in _Panatron Pte Ltd v Lee Cheow Lee_ <span class="citation">[2001] 2 SLR(R) 435</span>) must be met _viz_ : 
 
  (a) There must be a false representation of fact made by words or conduct knowingly without belief in its truth or made recklessly careless whether it be true or false; 
 
@@ -434,9 +434,9 @@ is set out below. Cross-examined by counsel for the first defendant [note: 24] a
 
 112    It bears remembering that the plaintiff knew the values of the assets in the ML Trust and the 1999 BNP Trust by September and November 2004 respectively. Indeed, she was engaged in protracted correspondence with the respective trustees between mid-2004 and 2005 on such issues as advances from the two trusts for the maintenance and education of the children, and her interpretation of the Protector provisions in the 1999 BNP Trust. She had even asserted her rights as the children’s guardian under trust law in her correspondence with Merrill Lynch. Therefore the plaintiff well knew her rights. Yet, she took no action against either defendant at any of the milestones set out in [111]. In such a scenario, the second defendant cited two English cases, _Stafford v Stafford_ [1857] 44 ER 697 and _Allcard v Skinner_ [1887] 36 Ch D 145 for the proposition that a presumption of knowledge of her rights arose against the plaintiff who knew enough relevant facts and could have/should have pursued her claim. If she failed to exercise her rights earlier than November 2009, she should not be granted any relief by this court. 
 
-113    Closer to home, there is the case of _Re Estate of Tan Kow Quee_ [2007] 2 SLR(R) 417 where the plaintiff beneficiaries’ claim was made in 2006, 50 years after the intestate passed away in 1956. By then, both the original administrators of the estate had passed away. Although the plaintiffs’ claim was not time barred under ss 22(1)(b) and 23(a) of the Limitations Act (Cap 163, 1996 Rev Ed), Sunderash Menon JC nevertheless held that because of the considerable delay of 50 years and there had been partial distribution of the estate, it would be unconscionable to allow the claim to proceed. 
+113    Closer to home, there is the case of _Re Estate of Tan Kow Quee_ <span class="citation">[2007] 2 SLR(R) 417</span> where the plaintiff beneficiaries’ claim was made in 2006, 50 years after the intestate passed away in 1956. By then, both the original administrators of the estate had passed away. Although the plaintiffs’ claim was not time barred under ss 22(1)(b) and 23(a) of the Limitations Act (Cap 163, 1996 Rev Ed), Sunderash Menon JC nevertheless held that because of the considerable delay of 50 years and there had been partial distribution of the estate, it would be unconscionable to allow the claim to proceed. 
 
-114    Even though a claim may not be time barred, this court had held in _British and Malayan Trustees Ltd v Sindo Realty Pte Ltd_ [1998] 1 SLR(R) 903 that it can still be defeated by laches. This would be so where as in this case, the first defendant has changed her position to her detriment. The Court of Appeal in _Tay Joo Sing v Ku Yu Sang_ [1994] 1 SLR(R) 765 adopted the same view. 
+114    Even though a claim may not be time barred, this court had held in _British and Malayan Trustees Ltd v Sindo Realty Pte Ltd_ <span class="citation">[1998] 1 SLR(R) 903</span> that it can still be defeated by laches. This would be so where as in this case, the first defendant has changed her position to her detriment. The Court of Appeal in _Tay Joo Sing v Ku Yu Sang_ <span class="citation">[1994] 1 SLR(R) 765</span> adopted the same view. 
 
 **_Has the first defendant changed her position due to the plaintiff’s inaction for so many years?_** 
 
@@ -470,7 +470,7 @@ inaction for five years after the deceased’s passing in June 2004.
 (see _Snell’s Equity_ (32nd Ed Sweet & Maxwell p 778 para 26-014). It is also a remedy of last resort failing other alternatives, which in the plaintiff’s claim is not the case. 
 
 
-119    Citing _Ching Mun Fong v Liu Cho Chit_ [2001] 3 SLR 10 (“ _Ching Mun Fong”_ ) the second defendant submitted that the lack of an identifiable fund on which the RCT could be imposed was fatal to the plaintiff’s claim. In _Ching Mun Fong_ , the Court of Appeal at [23] said: 
+119    Citing _Ching Mun Fong v Liu Cho Chit_ <span class="citation">[2001] 3 SLR 10</span> (“ _Ching Mun Fong”_ ) the second defendant submitted that the lack of an identifiable fund on which the RCT could be imposed was fatal to the plaintiff’s claim. In _Ching Mun Fong_ , the Court of Appeal at [23] said: 
 
  In order for a remedial constructive trust to arise, the payee’s conscience must have been affected, while the moneys in question still remain with him. If, as was the situation in the Westdeutsche case (supra), the payee learns of the mistake only after the moneys have got mixed with other funds or dissipated, no constructive trust in respect of these moneys can arise. This is because there would no longer be an identifiable fund for the trust to bite. 
 
@@ -478,13 +478,13 @@ inaction for five years after the deceased’s passing in June 2004.
 
 121    What is equally fatal to the plaintiff’s claim is her own inability to identify the assets that she contended would have formed part of the matrimonial assets to which she would have been entitled to receive a share had she applied for a division of matrimonial assets under s 112 of the Women’s Charter. Her imprecise pleading was set out earlier at [52]. This flaw in the plaintiff’s case leads to a related issue dealt with at [128] below. 
 
-122    Consequently, the plaintiff’s reliance on such cases as _Koh Cheong Heng v Ho Yee Fong_ [2011] 3 SLR 125 and _Ho Kon Kim v Lim Gek Kim_ [2001] 3 SLR(R) 220 (for the proposition that the court has a discretion to impose a RCT where justice and good conscience demands even where there is no unjust enrichment or unconscionablility) does nothing to advance her case. 
+122    Consequently, the plaintiff’s reliance on such cases as _Koh Cheong Heng v Ho Yee Fong_ <span class="citation">[2011] 3 SLR 125</span> and _Ho Kon Kim v Lim Gek Kim_ <span class="citation">[2001] 3 SLR(R) 220</span> (for the proposition that the court has a discretion to impose a RCT where justice and good conscience demands even where there is no unjust enrichment or unconscionablility) does nothing to advance her case. 
 
 123    For completeness, I should add that the plaintiff could have resorted to other remedies before she sought a RCT. Such primary remedies included suing the first defendant as the personal representative of the deceased for his alleged fraud. There is no evidence before the court that a successful claim against the deceased’s estate would not have been met bearing in mind that the first defendant settled the agreed debt owed to the plaintiff at RM350,000. Further, as was observed earlier at [66], the plaintiff chose not to sue Merrill Lynch on the ML Trust notwithstanding it has more assets than the BNP Trusts. 
 
 **_Does the court have the power now to identify and divide matrimonial assets for the plaintiff’s claim?_** 
 
-124    It would appear from _Wong Yuk Fong Lily v Menzes Ignatius Augustine_ [1992] 1 SLR(R) 252 that the answer is in the negative. In that case, Justice Chao Hick Tin held at [18] that the court no longer has the power to divide matrimonial assets once a party to the divorce is dead. 
+124    It would appear from _Wong Yuk Fong Lily v Menzes Ignatius Augustine_ <span class="citation">[1992] 1 SLR(R) 252</span> that the answer is in the negative. In that case, Justice Chao Hick Tin held at [18] that the court no longer has the power to divide matrimonial assets once a party to the divorce is dead. 
 
 125    Leaving aside the issue of whether the plaintiff’s claim is barred by laches or by the demise of the deceased, the ancillary question that arises is – can the court still deal with or divide, matrimonial assets after the decree absolute was issued in October 2000? I think not. In this regard, s 132 of the Women’s Charter would not assist the plaintiff as more than three years have lapsed since the deceased created the BNP Trusts. The relevant extracts of the section state: 
 
@@ -528,7 +528,7 @@ inaction for five years after the deceased’s passing in June 2004.
 128    To succeed in her claim against the second defendant in unjust enrichment and consequentially for restitution, the plaintiff must show that the second defendant was a party to or knew of the fraudulent conduct of the deceased or, that there such a want of probity on the part of the second 
 
 
-defendant that it would be unconscionable for the latter to retain the assets that the deceased placed into the two BNP Trusts (see _Comboni Vincenzo & Anor v Shankar’s Emporium (Pte) Ltd_ [2007] 2 SLR(R) 1020 cited by both the plaintiff and the second defendant). 
+defendant that it would be unconscionable for the latter to retain the assets that the deceased placed into the two BNP Trusts (see _Comboni Vincenzo & Anor v Shankar’s Emporium (Pte) Ltd_ <span class="citation">[2007] 2 SLR(R) 1020</span> cited by both the plaintiff and the second defendant). 
 
 129    At this juncture, I can do no better than to refer to _Goff & Jones The Law of Restitution_ (7th Ed 2007 Sweet & Maxwell) on the three requirements to found a successful claim in unjust enrichment. They are (at p 16 para 1-016): 
 

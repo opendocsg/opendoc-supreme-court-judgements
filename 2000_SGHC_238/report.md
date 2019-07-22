@@ -32,7 +32,7 @@
 
 ## and 15(2) – Statutory set-off – Protection of purchasers over unsecured creditors 
 
-(1) The judgment in _Good Property Land Development Pte Ltd (in liquidation) v Societe-Generale_ [1996] 2 SLR 239 has decided that under s 41(1) of the pre-1995 Bankruptcy Act, contingent claims are not capable of being the subject of set-off (as seems to be the case), then, the applicable s 88(1) under the existing Bankruptcy Act had changed the position and it allows the Defendants’ claims for liquidated damages to be set-off against the contingent claims of the Vendor which have now matured into claims against the Defendants ( 88). 
+(1) The judgment in _Good Property Land Development Pte Ltd (in liquidation) v Societe-Generale_ <span class="citation">[1996] 2 SLR 239</span> has decided that under s 41(1) of the pre-1995 Bankruptcy Act, contingent claims are not capable of being the subject of set-off (as seems to be the case), then, the applicable s 88(1) under the existing Bankruptcy Act had changed the position and it allows the Defendants’ claims for liquidated damages to be set-off against the contingent claims of the Vendor which have now matured into claims against the Defendants ( 88). 
 
 (2) In this instance, the right of set-off for late delivery of possession is contractually provided for in cl 11(4) of the Sale & Purchase Agreement (S&P). The liquidator had carried on with the S&Ps. It was said that he used the resources of the company to achieve the stages under cll 3(1)(g) and (h). The fact is that he has carried on with the S&Ps. Having done so, he could not, in the court's view, claim the benefits under the S&Ps and yet disclaim the burdens under them. He cannot choose which terms of the S&Ps would continue to apply to him and which would not ( 94). 
 
@@ -43,7 +43,7 @@
 _Good Property Land Development Pte Ltd (in liquidation) v Societe-Generale_ 
 
 
-### [1996] 2 SLR 239 (refd) 
+### <span class="citation">[1996] 2 SLR 239</span> (refd) 
 
 ### Re DW McIntosh Ltd v Royal Bank of Canada [1940] 3 DLR 782 (refd) 
 
@@ -151,7 +151,7 @@ deduct the liquidated damages from the instalments claimed and paid the balance.
 
 22\. The relevant provision in the applicable Bankruptcy Act (Cap 20) is s 88(1) which deals with mutual credit and set-off. More will be said about this provision later. 
 
-23\. Notwithstanding s 88(1) of the applicable Bankruptcy Act, Counsel for the liquidator submitted that the Defendants are not entitled to set-off the liquidated damages against the instalments to be paid. He relied primarily on the decision of the Court of Appeal in _Good Property Land Development Pte Ltd (in liquidation) v Societe-Generale_ [1996] 2 SLR 239 (‘the _Good Property_ case’). 
+23\. Notwithstanding s 88(1) of the applicable Bankruptcy Act, Counsel for the liquidator submitted that the Defendants are not entitled to set-off the liquidated damages against the instalments to be paid. He relied primarily on the decision of the Court of Appeal in _Good Property Land Development Pte Ltd (in liquidation) v Societe-Generale_ <span class="citation">[1996] 2 SLR 239</span> (‘the _Good Property_ case’). 
 
 24\. In the _Good Property_ case, a company Good Property Land Development Pte Ltd (‘GPLD’) had sought to develop two plots of land (‘the Properties’). It applied for and obtained a syndicated loan from various banks. Societe Generale (‘SG’) was the lead manager and agent of the syndicated loan. The loan was secured, inter alia, by a mortgage over the Properties. 
 

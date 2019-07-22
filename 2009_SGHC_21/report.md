@@ -111,7 +111,7 @@ claim for the $200 deduction should have been rejected unless the defendant prov
 
 damages would be loss of future earnings. He would have to show the difference in salary, if any, between jobs for which he was suitable such as that of a waiter and despatch clerk, and the salary of a construction worker in Singapore. In the facts of this case, since no such figures had been provided, loss of earning capacity would be the more suitable measure. 
 
-24     The basic guidelines on when an award for loss of earning capacity rather than an award for loss of earnings should be made were set out in the case of _Teo Sing Keng v Sim Ban Kiat_ [1994] 1 SLR 634 (“ _Teo Sing Keng_ ”) where Yong Pung How CJ, delivering the judgment of the Court of Appeal stated (at p 646): 
+24     The basic guidelines on when an award for loss of earning capacity rather than an award for loss of earnings should be made were set out in the case of _Teo Sing Keng v Sim Ban Kiat_ <span class="citation">[1994] 1 SLR 634</span> (“ _Teo Sing Keng_ ”) where Yong Pung How CJ, delivering the judgment of the Court of Appeal stated (at p 646): 
 
  Although loss of earnings and loss of earning capacity have sometimes been used interchangeably, they are separate heads of damage. Lord Denning MR in Fairley v John Thompson (Design & Contracting Division) Ltd at p 42 alluded to this difference: 
 

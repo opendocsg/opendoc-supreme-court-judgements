@@ -59,7 +59,7 @@ _Companies_
 
 **The law** 
 
-8       A director owes fiduciary duties to the company to act in the company’s best interest and not to put himself in a position where his duty to the company and his interest might conflict, unless with the consent of the company. The plaintiff referred me to cases such as _Townsing Henry George v Jenton Overseas Investment Ptd Ltd (in liquidation)_ [2007] 2 SLR(R) 597 and _Golden Village Multiplex Pte Ltd v Phoon Chiong Kit_ [2006] 2 SLR(R) 307 as authorities. As the law regarding this area is straightforward, it would not be necessary to discuss it further. Instead, I will focus on the events that led to the plaintiff’s claims and on the evidence. 
+8       A director owes fiduciary duties to the company to act in the company’s best interest and not to put himself in a position where his duty to the company and his interest might conflict, unless with the consent of the company. The plaintiff referred me to cases such as _Townsing Henry George v Jenton Overseas Investment Ptd Ltd (in liquidation)_ <span class="citation">[2007] 2 SLR(R) 597</span> and _Golden Village Multiplex Pte Ltd v Phoon Chiong Kit_ <span class="citation">[2006] 2 SLR(R) 307</span> as authorities. As the law regarding this area is straightforward, it would not be necessary to discuss it further. Instead, I will focus on the events that led to the plaintiff’s claims and on the evidence. 
 
 **The removal and retention of the plaintiff’s statutory records** 
 

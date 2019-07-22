@@ -31,7 +31,7 @@ _Admiralty and shipping_ – _sheriff’s expenses_
 5       The issues that arose in this application and the application in Adm 175 were the same and the facts were similar as well although they differed in relation to the quantum of the claims and, of course, in the documentation supporting the expenditure. 
 
 
-6       In my judgment in summons 699 of 2011 filed in Adm 175 ([2012] SGHC 175) I considered the evidence and the arguments and came to the conclusion that Megastar’s expenditure on the _MV Makassar_ should not be allowed to rank as Sheriff’s expenses. For the reasons given in that judgment, I have come to a similar conclusion in this case. 
+6       In my judgment in summons 699 of 2011 filed in Adm 175 (<span class="citation">[2012] SGHC 175</span>) I considered the evidence and the arguments and came to the conclusion that Megastar’s expenditure on the _MV Makassar_ should not be allowed to rank as Sheriff’s expenses. For the reasons given in that judgment, I have come to a similar conclusion in this case. 
 
 7       Accordingly, Megastar’s application must be dismissed with costs. I will hear the parties on the quantum of the costs to be awarded. 
 

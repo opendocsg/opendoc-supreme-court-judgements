@@ -162,7 +162,7 @@ the new owners, Lend Lease, that they did not wish to proceed with the proposal 
 
  "If the plaintiff pays money to the defendant under a mistake of fact, and the defendant then, acting in good faith, pays the money or part of it to charity, it is unjust to require the defendant to make restitution to the extent that he has so changed his position. Likewise, on facts such as those in the present case, if a thief steals my money and pays it to a third party who gives it away to charity, that third party should have a good defence to an action for money had and received. In other words, bona fide change of position should of itself be a good defence in such cases as these." 
 
-38     In _Management Corporation Strata Title No. 473 v De Beers Jewellery Pte Ltd_ [2003] 2 SLR 1 this Court distilled the three elements in this defence which must be satisfied before it can be successfully raised:
+38     In _Management Corporation Strata Title No. 473 v De Beers Jewellery Pte Ltd_ <span class="citation">[2003] 2 SLR 1</span> this Court distilled the three elements in this defence which must be satisfied before it can be successfully raised:
 
  (i) The payer has changed his position; 
 

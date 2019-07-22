@@ -18,7 +18,7 @@ _Criminal Law_ – _Offences_ – _Culpable homicide_
 
 _Criminal Procedure and Sentencing_ – _Sentencing_ – _Mentally disordered offenders_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 52 of 2017 was allowed by the Court of Appeal on 27 June 2018. See [2018] SGCA 31.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 52 of 2017 was allowed by the Court of Appeal on 27 June 2018. See <span class="citation">[2018] SGCA 31</span>.] 
 
 16 October 2017 Judgment reserved. 
 

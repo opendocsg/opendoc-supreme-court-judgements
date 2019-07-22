@@ -14,7 +14,7 @@
 
 _Tort_ – _Defamation_
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 324.]
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 324</span>.]
 
 21 November 2011 Judgment reserved
 
@@ -22,7 +22,7 @@ _Tort_ – _Defamation_
 
 **Introduction**
 
-1       Before us are two related appeals, an appeal and a cross-appeal, against the decision of the High Court judge ("the Judge") given in a defamation suit ( _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie_ [2010] SGHC 324 ("the Judgment")) initiated by four members (the “Plaintiffs”) of the 2007/2008 management committee (“the Previous MC”) of the Singapore Swimming Club (the “Club”) against the President of the 2008/2009 management committee of the Club (“the Current MC”).
+1       Before us are two related appeals, an appeal and a cross-appeal, against the decision of the High Court judge ("the Judge") given in a defamation suit ( _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie_ <span class="citation">[2010] SGHC 324</span> ("the Judgment")) initiated by four members (the “Plaintiffs”) of the 2007/2008 management committee (“the Previous MC”) of the Singapore Swimming Club (the “Club”) against the President of the 2008/2009 management committee of the Club (“the Current MC”).
 
 2       The alleged defamatory statements were published in the minutes of meetings of the Current MC held on 29 October 2008 (the “29 October 2008 Meeting”) and on 26 November 2008 (the “26 November 2008 Meeting”) respectively:
 
@@ -128,7 +128,7 @@ Where the First Statement and the Second Statement are referred to collectively 
 
  (f) the ordinary reasonable reader will take note of the circumstances and manner of the publication.
 
-The above principles may be gleaned from a large number of English and local cases, _eg_ , _Lewis v The Daily Telegraph Ltd_ [1964] AC 234; _The Capital and Counties Bank Limited v George Henry & Sons_ (1881-1882) LR 7 App Cas 741; _Skuse v Granada Television Limited_ [1996] EMLR 278; _Chalmers v Payne and another_ (1835) 2 Cr M & R 156; _Lim Eng Hock Peter v Lin Jian Wei and another_ [2009] 2 SLR(R) 1004 (“ _Peter Lim_ ”), _Oei Hong Leong v Ban Song Long David and others_ [2005] 3 SLR(R) 608, _Microsoft Corp and others v SM Summit Holdings Ltd and another and other appeals_ [1999] 3 SLR(R) 465; _Review Publishing Co Ltd and another v Lee Hsien Loong and another appeal_ [2010] 1 SLR 52, and are usefully summarised in David Price, Korieh Duodu and Nicola Cain, _Defamation: Law,_
+The above principles may be gleaned from a large number of English and local cases, _eg_ , _Lewis v The Daily Telegraph Ltd_ [1964] AC 234; _The Capital and Counties Bank Limited v George Henry & Sons_ (1881-1882) LR 7 App Cas 741; _Skuse v Granada Television Limited_ [1996] EMLR 278; _Chalmers v Payne and another_ (1835) 2 Cr M & R 156; _Lim Eng Hock Peter v Lin Jian Wei and another_ <span class="citation">[2009] 2 SLR(R) 1004</span> (“ _Peter Lim_ ”), _Oei Hong Leong v Ban Song Long David and others_ <span class="citation">[2005] 3 SLR(R) 608</span>, _Microsoft Corp and others v SM Summit Holdings Ltd and another and other appeals_ <span class="citation">[1999] 3 SLR(R) 465</span>; _Review Publishing Co Ltd and another v Lee Hsien Loong and another appeal_ <span class="citation">[2010] 1 SLR 52</span>, and are usefully summarised in David Price, Korieh Duodu and Nicola Cain, _Defamation: Law,_
 
 _Procedure and Practice_ (Sweet & Maxwell, 4th Ed, 2009) (“ _Price, Duodu and Cain_ ”) at paras 2-07 and 2-08. In other words, the ordinary reasonable person is very much an average rational layperson, neither brilliant nor foolhardy, and not idiosyncratic in his behavior or disposition.
 
@@ -168,7 +168,7 @@ _The Defendant’s contentions on appeal_
 
 (1) The relevant context to the First Statement
 
-25     On appeal, the Defendant argues that the Judge should not have considered the wider context as circumstances germane to the construction of the First Statement as the Judge had no basis to impute to the ordinary reasonable Club member knowledge of those facts. _Peter Lim_ (above at [18]) and _Goh Chok Tong v Jeyaretnam Joshua Benjamin and another action_ [1998] 2 SLR(R) 971 are cited in support of the proposition that there must be evidence showing widespread dissemination of the relevant information, in particular to persons to whom the alleged defamatory statement is published, in order for that information to be deemed as forming part of the ordinary reasonable person’s background knowledge. The Defendant argues that there was no evidence of any widespread dissemination of the facts relied on by the Judge, or that they were within the “common knowledge” of the ordinary reasonable Club member. Instead, the Defendant contends that the contrary was probably true as evidenced by the following:
+25     On appeal, the Defendant argues that the Judge should not have considered the wider context as circumstances germane to the construction of the First Statement as the Judge had no basis to impute to the ordinary reasonable Club member knowledge of those facts. _Peter Lim_ (above at [18]) and _Goh Chok Tong v Jeyaretnam Joshua Benjamin and another action_ <span class="citation">[1998] 2 SLR(R) 971</span> are cited in support of the proposition that there must be evidence showing widespread dissemination of the relevant information, in particular to persons to whom the alleged defamatory statement is published, in order for that information to be deemed as forming part of the ordinary reasonable person’s background knowledge. The Defendant argues that there was no evidence of any widespread dissemination of the facts relied on by the Judge, or that they were within the “common knowledge” of the ordinary reasonable Club member. Instead, the Defendant contends that the contrary was probably true as evidenced by the following:
 
  out of around 10,000 Club’s members, only around 2,000 signed the attendance sheet for the 2008 AGM;
 
@@ -280,7 +280,7 @@ true. A defamatory imputation is presumed to be false, and the burden of proof f
 
  ... it is sufficient if the substance of the libellous statement be justified; it is unnecessary to repeat every word which might have been the subject of the original comment. As much must be justified as meets the sting of the charge, and if anything be contained in a charge which does not add to the sting of it, that need not be justified.
 
-See also Gatley on Libel and Slander (Patrick Milmos & W V H Rogers eds) (Sweet & Maxwell, 11th Ed, 2005) at para 11.9 and _Aaron Anne Joseph and others v Cheong Yip Seng and others_ [1996] 1 SLR(R) 258 at [73].
+See also Gatley on Libel and Slander (Patrick Milmos & W V H Rogers eds) (Sweet & Maxwell, 11th Ed, 2005) at para 11.9 and _Aaron Anne Joseph and others v Cheong Yip Seng and others_ <span class="citation">[1996] 1 SLR(R) 258</span> at [73].
 
 45     In the present case, the sting of the charge is essentially that the Previous MC had _deliberately_ misrepresented the circumstances relating to the expenditure on the TWC Package _with the aim_ of deceiving the Club members into ratifying the expenditure. While some other minor allegations may be inferred from the First and Second Statements to which we will allude later, we will first deal with the sting of the charge.
 
@@ -609,7 +609,7 @@ In the recent decision of the Privy Council on an appeal from Jamaica in the cas
 
  [emphasis added]
 
-90     In _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ [2010] 4 SLR 331, this Court further clarified that malice may be proven in two ways – (i) the defendant’s knowledge of falsity, recklessness, or lack of belief in the defamatory statement; and (ii) where the defendant has a genuine or honest belief in the truth of the defamatory statement, but his dominant motive is to injure the defendant or some other improper motive. There, Chief Justice Chan Sek Keong said, at [38],
+90     In _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ <span class="citation">[2010] 4 SLR 331</span>, this Court further clarified that malice may be proven in two ways – (i) the defendant’s knowledge of falsity, recklessness, or lack of belief in the defamatory statement; and (ii) where the defendant has a genuine or honest belief in the truth of the defamatory statement, but his dominant motive is to injure the defendant or some other improper motive. There, Chief Justice Chan Sek Keong said, at [38],
 
  Apropos the first error, Lord Diplock's statement was made in the context of the defendant having a genuine or honest belief in the truth of what was published on an occasion of qualified privilege. It is only in this context that the question of whether there was a dominant motive to injure the plaintiff becomes relevant. The dominant motive test has no relevance if the defendant has no honest belief in the truth of what he is publishing. The fact that the defendant did not have a dominant motive of injuring the plaintiff did not necessarily mean that the publication of the defamatory statements was not made with malice. The word "malice" is used in a special sense in the law of defamation. If a defendant knows that what he is publishing is false, there is express malice in law. In the other parts of his speech, Lord Diplock referred to other instances of improper motives which would destroy the privilege, such as personal spite or the abuse of the occasion to obtain some private advantage unconnected with the duty or the interest which constitutes the reason for the privilege. In such instances, the defendant would lose the benefit of the privilege despite his positive belief that what he said or wrote was true. Where the defendant had no belief that what he published was true or, worse, if he knew that what he published was untrue (as in the present case), it would have been an a fortiori case that the protection of the privilege would have been lost. [emphasis in original]
 

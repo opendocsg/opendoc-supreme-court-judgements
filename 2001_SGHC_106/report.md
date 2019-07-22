@@ -124,7 +124,7 @@ As for whether a plaintiff in a defamation case may rely on O 14 r 12(1) to have
 
 of words in an allegedly defamatory document construed, the position is not in doubt. In **Microsoft** 
 
-**Corp v SM Summit Holdings** [1999] 4 SLR 529 at [para ]50-51, which concerned an allegation of 
+**Corp v SM Summit Holdings** <span class="citation">[1999] 4 SLR 529</span> at [para ]50-51, which concerned an allegation of 
 
 defamation arising from a press statement, LP Thean JA, who delivered the judgment of the Court of 
 

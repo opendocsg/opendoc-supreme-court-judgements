@@ -24,7 +24,7 @@ _Civil Procedure_ – _Pleadings_ – _Tenant suing landlord for breach of coven
 
 **Judith Prakash J (delivering the judgment of the court):** 
 
-1       This matter came before us on appeal from the decision of Lai Kew Chai J given on 7 March 2003 (reported at [2003] 3 SLR 703) whereby the learned judge allowed the respondent tenant’s claim for damages arising out of the appellant landlord’s breach of covenant to repair. We allowed the appeal and remitted the matter back to the learned judge for further consideration of the issue of whether on the facts, cl 8.1 of the lease applied so as to exempt the landlord from liability for the tenant’s losses. We now give our reasons. 
+1       This matter came before us on appeal from the decision of Lai Kew Chai J given on 7 March 2003 (reported at <span class="citation">[2003] 3 SLR 703</span>) whereby the learned judge allowed the respondent tenant’s claim for damages arising out of the appellant landlord’s breach of covenant to repair. We allowed the appeal and remitted the matter back to the learned judge for further consideration of the issue of whether on the facts, cl 8.1 of the lease applied so as to exempt the landlord from liability for the tenant’s losses. We now give our reasons. 
 
 **Background** 
 

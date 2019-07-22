@@ -18,7 +18,7 @@ _Contract_ – _Contractual terms_ – _Rules of construction_ – _Contextual a
 
 _Equity_ – _Estoppel by convention_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 135 of 2014 was allowed by the Court of Appeal on 19 October 2015. See [2015] SGCA 68.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 135 of 2014 was allowed by the Court of Appeal on 19 October 2015. See <span class="citation">[2015] SGCA 68</span>.] 
 
 13 April 2015 
 
@@ -164,7 +164,7 @@ rent” and “market rent” as used in the lease refer to the rent for Block D
 
 **The contextual approach** 
 
-25     Our law on the proper approach to construing a contract is set out in two seminal decisions of the Court of Appeal: _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 (“ _Zurich_ ”) and _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp_ ”). These cases firmly entrench the contextual approach to construing contracts in our law and clearly explain how that approach is to be applied. Given the breadth of the survey and the depth of the analysis in each of these two cases, I need look only at them in order to derive the principles which I must apply to construe the lease contextually. 
+25     Our law on the proper approach to construing a contract is set out in two seminal decisions of the Court of Appeal: _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> (“ _Zurich_ ”) and _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp_ ”). These cases firmly entrench the contextual approach to construing contracts in our law and clearly explain how that approach is to be applied. Given the breadth of the survey and the depth of the analysis in each of these two cases, I need look only at them in order to derive the principles which I must apply to construe the lease contextually. 
 
 
 **_Zurich_** 

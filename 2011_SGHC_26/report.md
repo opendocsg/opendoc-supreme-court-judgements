@@ -22,7 +22,7 @@ _Contract_
 
 _Civil Procedure_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 208 of 2010 was allowed by the Court of Appeal on 2 March 2012. See [2012] SGCA 17.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 208 of 2010 was allowed by the Court of Appeal on 2 March 2012. See <span class="citation">[2012] SGCA 17</span>.] 
 
 28 January 2011 
 

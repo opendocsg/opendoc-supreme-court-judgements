@@ -176,7 +176,7 @@ and r. 3(1) provides that:
 
  (1) In every action begun by writ, an order made on the summons for directions shall determine the mode of the trial; and any such order may be varied by a subsequent order of the Court made at or before the trial. 
 
-15     The Court of Appeal had in _Lee Chee Wei v Tan Hor Peow Victor and others and another appeal_ [2007] 3 SLR(R) 537 addressed this issue. This was an action by the plaintiff who was suing the defendants for breach of agreement to buy his shares, and was seeking specific performance or damages in lieu of specific performance. It was a fairly complex case. Several issues were raised over the question of liability, and the Court noted that the question of damages was somewhat controversial requiring expert evidence on the valuation of the shares and other potentially complex issues. The trial had proceeded with both issues of liability and damages to be decided. 
+15     The Court of Appeal had in _Lee Chee Wei v Tan Hor Peow Victor and others and another appeal_ <span class="citation">[2007] 3 SLR(R) 537</span> addressed this issue. This was an action by the plaintiff who was suing the defendants for breach of agreement to buy his shares, and was seeking specific performance or damages in lieu of specific performance. It was a fairly complex case. Several issues were raised over the question of liability, and the Court noted that the question of damages was somewhat controversial requiring expert evidence on the valuation of the shares and other potentially complex issues. The trial had proceeded with both issues of liability and damages to be decided. 
 
 16     When the matter went on appeal, the Court commented (at [64]): 
 

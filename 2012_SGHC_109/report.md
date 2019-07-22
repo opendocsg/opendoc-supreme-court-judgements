@@ -53,7 +53,7 @@ during cross-examination: [note: 1]
 
 **Decision below** 
 
-7       In his Grounds of Decision (“GD”), which can be found at _Public Prosecutor v Chee Soon Juan and 8 Ors_ [2011] SGDC 13, the DJ stated at [9] that the burden lay on the Prosecution to prove the following elements of the common charge: 
+7       In his Grounds of Decision (“GD”), which can be found at _Public Prosecutor v Chee Soon Juan and 8 Ors_ <span class="citation">[2011] SGDC 13</span>, the DJ stated at [9] that the burden lay on the Prosecution to prove the following elements of the common charge: 
 
  (a) There was an assembly on 9 August 2008 at about 2.33pm at the walkway in front of Block 190 (undisputed). 
 
@@ -94,7 +94,7 @@ other defendants (other than Mr Yap) were prepared by Mr Tan. In so far as Dr Ch
 
  [emphasis added] 
 
-11     On the second issue, the DJ found that Mr Yap was a participant in the assembly. The DJ held that while there was no statutory definition of “participate” in the MOA, he adopted the High Court’s pronouncement of participation in the context of common intention liability under s 34 of the Penal Code (Cap 224, 2008 Rev Ed) (“PC”) in the decision of _Quak Siew Hock David v Public Prosecutor_ [1999] 3 SLR(R) 807 (“ _Quak Siew Hock_ ”). Applied to the context of the MOA, the DJ found at [58] that: 
+11     On the second issue, the DJ found that Mr Yap was a participant in the assembly. The DJ held that while there was no statutory definition of “participate” in the MOA, he adopted the High Court’s pronouncement of participation in the context of common intention liability under s 34 of the Penal Code (Cap 224, 2008 Rev Ed) (“PC”) in the decision of _Quak Siew Hock David v Public Prosecutor_ <span class="citation">[1999] 3 SLR(R) 807</span> (“ _Quak Siew Hock_ ”). Applied to the context of the MOA, the DJ found at [58] that: 
 
  ... Whether a person could be said to have participated in an assembly depended on the facts and circumstances of the case. Where certain facts were present, such as the doing of an act in furtherance of the intention of the assembly, or providing general encouragement and support to the members of the assembly, an inference of participation could more readily made. 
 
@@ -239,7 +239,7 @@ _Applicable law_
 
 _You Xin v Public Prosecutor and another appeal_ 
 
-30     In _You Xin v Public Prosecutor and another appeal_ [2007] 4 SLR(R) 17, where there were appeals against both conviction and sentence under Rule 5, the sole defence raised by the appellants was that there was not an assembly of _five or more people_. 
+30     In _You Xin v Public Prosecutor and another appeal_ <span class="citation">[2007] 4 SLR(R) 17</span>, where there were appeals against both conviction and sentence under Rule 5, the sole defence raised by the appellants was that there was not an assembly of _five or more people_. 
 
 31     The appellants argued that as there was no specific time indicated on the video recording adduced by the Prosecution, it could not be said with certainty whether the alleged offences had taken place within the time frame specified in the charge. Further, the appellants submitted that the video recording had been tampered with to make it appear that they had appeared in an assembly when they had not in fact participated in one. In dismissing the appeal, V K Rajah JA held at [5] that: 
 
@@ -250,7 +250,7 @@ _You Xin v Public Prosecutor and another appeal_
 
  [emphasis added] 
 
-32     Clearly, Rajah JA’s _dictum_ neither says nor suggests that it is an element of the offence under Rule 5 that the appellants knew or reasonably ought to have known in the first place that _a permit was required._ That said, this particular point was not argued by the appellants on appeal. Somewhat paradoxically, the trial judge took the appellants’ own evidence that they did not believe that a permit was required as inculpating, as opposed to exculpating them. This is clear from the trial judge’s Grounds of Decision in _Public Prosecutor v You Xin_ and Others [2007] SGDC 79 at [44]: 
+32     Clearly, Rajah JA’s _dictum_ neither says nor suggests that it is an element of the offence under Rule 5 that the appellants knew or reasonably ought to have known in the first place that _a permit was required._ That said, this particular point was not argued by the appellants on appeal. Somewhat paradoxically, the trial judge took the appellants’ own evidence that they did not believe that a permit was required as inculpating, as opposed to exculpating them. This is clear from the trial judge’s Grounds of Decision in _Public Prosecutor v You Xin_ and Others <span class="citation">[2007] SGDC 79</span> at [44]: 
 
  One other issue raised was the matter of whether the accused persons 'ought reasonably to know' that there was no permit applied for. The accused person's own evidence shows that they did not believe that a permit was required. One can infer, therefore, that the existence of a permit was never truly active in their mind, or that they simply did not care. As a result, they, at the very least, ought to know that there was indeed no permit for such an assembly. 
 
@@ -258,7 +258,7 @@ _You Xin v Public Prosecutor and another appeal_
 
 _Public Prosecutor v Chong Kai Xiong and others_ 
 
-33     In _Public Prosecutor v Chong Kai Xiong and others_ [2010] 3 SLR 355 (“ _Chong Kai Xiong_ ”), Choo Han Teck J allowed an appeal by the Prosecution against the appellants’ acquittal under Rule 5and convicted the appellants. 
+33     In _Public Prosecutor v Chong Kai Xiong and others_ <span class="citation">[2010] 3 SLR 355</span> (“ _Chong Kai Xiong_ ”), Choo Han Teck J allowed an appeal by the Prosecution against the appellants’ acquittal under Rule 5and convicted the appellants. 
 
 34     In _Chong Kai Xiong_ , a group of people had engaged in a “walk” from Hong Lim Park to various places including Parliament House and the Supreme Court in order to commemorate the first anniversary of a protest led by Dr Chee. The event was planned to end at Queenstown Remand Prison where Dr Chee was incarcerated at the time. All except one of the respondents wore t-shirts emblazoned with “Democracy Now” and “Freedom Now.” The fifth and final respondent, Mr Yap (the sixth appellant in this appeal), claimed that he was a blogger who was observing the “walk”. 
 
@@ -290,7 +290,7 @@ _Public Prosecutor v Chong Kai Xiong and others_
 
 _Chee Soon Juan and others v Public Prosecutor_ 
 
-40     In the recent decision of _Chee Soon Juan and others v Public Prosecutor_ [2011] 3 SLR 50 (“ _Chee Soon Juan_ ”), an earlier case which is not to be confused with the present appeal, one of the issues which fell to be determined on appeal was whether the appellants ought reasonably to have known that a permit was required for their activity. In addressing this issue, Woo J adopted a similar purposive approach to interpreting Rule 5 as Choo J in _Chong Kai Xiong._ Woo J stated at [4] and [9] that: 
+40     In the recent decision of _Chee Soon Juan and others v Public Prosecutor_ <span class="citation">[2011] 3 SLR 50</span> (“ _Chee Soon Juan_ ”), an earlier case which is not to be confused with the present appeal, one of the issues which fell to be determined on appeal was whether the appellants ought reasonably to have known that a permit was required for their activity. In addressing this issue, Woo J adopted a similar purposive approach to interpreting Rule 5 as Choo J in _Chong Kai Xiong._ Woo J stated at [4] and [9] that: 
 
  4 The MOR was promulgated pursuant to the power granted to the Minister of Home Affairs by s 5(1) of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184, 1997 Rev Ed) (“the MOA”). The purpose of the MOR was to ensure the maintenance of public order and to prevent congestion and annoyance caused by assemblies and processions held by all kinds of groups and organisations : see the statement of the Senior Minister of State for Home Affairs, Dr Lee Boon Yang, at the Second Reading of the Minor Offences (Amendment) Bill ( Singapore Parliamentary Debates, Official Report (16 February 1989) vol 52 at col 689). 
 
@@ -368,7 +368,7 @@ _Construction of Rule 5_
 
  (c) 
 
-43     As noted by Yong Pung How CJ in _Comfort Management Pte Ltd v Public Prosecutor [2003]_ 2 SLR(R) 67, citing with approval the earlier decision of _Forward Food Management Pte Ltd and another v Public Prosecutor_ [2002] 1 SLR(R) 443, at [15]: 
+43     As noted by Yong Pung How CJ in _Comfort Management Pte Ltd v Public Prosecutor [2003]_ 2 SLR(R) 67, citing with approval the earlier decision of _Forward Food Management Pte Ltd and another v Public Prosecutor_ <span class="citation">[2002] 1 SLR(R) 443</span>, at [15]: 
 
  ... The proper approach to be taken by a court construing a penal provision is to first consider if the literal and purposive interpretations of the provision leave the provision in ambiguity. It is only after these and other tools of ascertaining Parliament’s intent have been exhausted, that the strict construction rule kicks in in the accused person’s favour. 
 
@@ -473,7 +473,7 @@ The DJ took the view that illustration (d) of s 176 Criminal Procedure Code (Cap
 
 64     In defining the meaning of “participation” in the context of Rule 5, the DJ cited the following passage from [29] of _Quak Siew Hock_ (at [57]): 
 
- [T]he issue of whether the conduct of an accused is sufficient to constitute participation for the purposes of s 34 is a question dependent on the facts and circumstances of each particular case: Barendra Kumar Ghosh [AIR 1925 PC l], Ibrahim bin Masod v PP [1993] 3 SLR(R) 438. [...] I am satisfied that Quak's accompaniment amounted to sufficient participation in their common intention for the purposes of S 34, at the very least because, firstly, it indicated a readiness to play his part in the accomplishment of their common design. Secondly, it was reasonable to presume that his physical presence in the circumstances provided encouragement and 
+ [T]he issue of whether the conduct of an accused is sufficient to constitute participation for the purposes of s 34 is a question dependent on the facts and circumstances of each particular case: Barendra Kumar Ghosh [AIR 1925 PC l], Ibrahim bin Masod v PP <span class="citation">[1993] 3 SLR(R) 438</span>. [...] I am satisfied that Quak's accompaniment amounted to sufficient participation in their common intention for the purposes of S 34, at the very least because, firstly, it indicated a readiness to play his part in the accomplishment of their common design. Secondly, it was reasonable to presume that his physical presence in the circumstances provided encouragement and 
 
 
  support for Lee and was therefore in furtherance of their common intention. Accordingly, to borrow a phrase from Ramaswami , Quak’s facilitative presence was tantamount to actual participation in their “criminal act” and went beyond mere involvement in the preparation for or planning of their common design. 
@@ -482,7 +482,7 @@ The DJ took the view that illustration (d) of s 176 Criminal Procedure Code (Cap
 
 Having looked at the cases and considered the matter, with respect, I find the DJ’s analogy between “participation” under s 34 of the PC and under Rule 5 open to question. 
 
-65     I am not sure that one can equate “participation” under s 34 of the PC and Rule 5. I venture to think that in the context of s 34 of the PC, the concept of participation is intricately wedded to the common intention alleged in the charge preferred. However, under Rule 5, the “participation” required of the accused person is specifically in relation to the illegal assembly conducted in “ _any public road, public place or place of public resort_ ”. Thus, unlike s 34 of the PC where presence at the scene of the crime is not a pre-requisite for a finding of “participation” to be made (see _Lee Chez Kee v Public Prosecutor_ [2008] 3 SLR(R) 447 (“ _Lee Chez Kee_ ”) at [146]), on a plain reading of Rule 5 one could argue that “participation” requires the physical presence of the accused person in the public space in which the illegal assembly is conducted. This difference alone suggests to me that participation in the context of Rule 5 is different from that under s 34 of the PC. However I say no more as I have not had the benefit of argument on this point. 
+65     I am not sure that one can equate “participation” under s 34 of the PC and Rule 5. I venture to think that in the context of s 34 of the PC, the concept of participation is intricately wedded to the common intention alleged in the charge preferred. However, under Rule 5, the “participation” required of the accused person is specifically in relation to the illegal assembly conducted in “ _any public road, public place or place of public resort_ ”. Thus, unlike s 34 of the PC where presence at the scene of the crime is not a pre-requisite for a finding of “participation” to be made (see _Lee Chez Kee v Public Prosecutor_ <span class="citation">[2008] 3 SLR(R) 447</span> (“ _Lee Chez Kee_ ”) at [146]), on a plain reading of Rule 5 one could argue that “participation” requires the physical presence of the accused person in the public space in which the illegal assembly is conducted. This difference alone suggests to me that participation in the context of Rule 5 is different from that under s 34 of the PC. However I say no more as I have not had the benefit of argument on this point. 
 
 66     More pertinently, the law on “participation” in the context of s 34 of the PC has moved on since 1998 ( _ie_ , the year when _Quak Siew Hock_ was decided). The characterisation of “participation”, as stated in _Quak Siew Hock_ , ought to be interpreted in light of the more recent Court of Appeal decision of _Lee Chez Kee_. There, V K Rajah JA, (with whom the other two judges agreed on the interpretation of s 34), considered the meaning of “participation” under s 34 of the PC and stated as follows at [138] and [146]: 
 
@@ -587,9 +587,9 @@ event necessarily ‘participating’ in the event. The nature of Rule 5 and the
 
  [emphasis added] 
 
-80     A close reading of _SCC v Batterby_ and _Arrowsmith_ reveals that while the courts rejected officially induced mistake of law as a defence to liability, they were acutely aware of the singular importance of justice being seen to be done. In those circumstances, it is no coincidence that the courts recommended either a discharge of the sentence imposed or substituted the sentence so as to allow for the defendants immediate release. In other words, they treated the official-induced mistake of law as a mitigating factor going to sentence. In my view, for fact situations like _SCC v Battersby_ , _Arrowsmith_ or _Postermobile_ , it would be preferable for the Public Prosecutor to exercise his/her discretion by not prosecuting in such circumstances. But again that is not within the province of the courts. I also caution that the facts of this case are not within the same category as these English cases and that the abuse of process doctrine in England is very different from that in Singapore (see _Law Society of Singapore v Tan Guat Neo Phyllis_ [2008] 2 SLR(R) 239 at [134]). 
+80     A close reading of _SCC v Batterby_ and _Arrowsmith_ reveals that while the courts rejected officially induced mistake of law as a defence to liability, they were acutely aware of the singular importance of justice being seen to be done. In those circumstances, it is no coincidence that the courts recommended either a discharge of the sentence imposed or substituted the sentence so as to allow for the defendants immediate release. In other words, they treated the official-induced mistake of law as a mitigating factor going to sentence. In my view, for fact situations like _SCC v Battersby_ , _Arrowsmith_ or _Postermobile_ , it would be preferable for the Public Prosecutor to exercise his/her discretion by not prosecuting in such circumstances. But again that is not within the province of the courts. I also caution that the facts of this case are not within the same category as these English cases and that the abuse of process doctrine in England is very different from that in Singapore (see _Law Society of Singapore v Tan Guat Neo Phyllis_ <span class="citation">[2008] 2 SLR(R) 239</span> at [134]). 
 
-81     Rule 5 states that upon conviction, the first five Appellants “ _shall be liable_ on conviction to a fine not exceeding $1,000” [emphasis added]. In interpreting the phrase “shall be liable”, Yong CJ observed in _Public Prosecutor v Lee Soon Lee Vincent_ [1998] 3 SLR(R) 84 at [14]–[15]: 
+81     Rule 5 states that upon conviction, the first five Appellants “ _shall be liable_ on conviction to a fine not exceeding $1,000” [emphasis added]. In interpreting the phrase “shall be liable”, Yong CJ observed in _Public Prosecutor v Lee Soon Lee Vincent_ <span class="citation">[1998] 3 SLR(R) 84</span> at [14]–[15]: 
 
  14 In my view, prima facie , the phrase “shall be liable" (as opposed to "shall be punished") contained no obligation or mandatory connotation. In Ng Chwee Puan v R [1953] MLJ 86, Brown J had said that: 
 

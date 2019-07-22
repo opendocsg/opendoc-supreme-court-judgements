@@ -222,7 +222,7 @@ Kang, an operations manager of Datapost Pte Ltd (‘Datapost’) as to how month
 
 **Were the signatures on the disputed instructions forged or authorised by Elis?** 
 
-55     In _Yogambikai Nagarajah v Indian Overseas Bank_ [1997] 1 SLR 258, the Court of Appeal said at p 269, para 39, that the burden of proof was on the party alleging the forgery. At p 271, para 44, it said that the burden of proof was more onerous than the ordinary civil standard where fraud or forgery was concerned. 
+55     In _Yogambikai Nagarajah v Indian Overseas Bank_ <span class="citation">[1997] 1 SLR 258</span>, the Court of Appeal said at p 269, para 39, that the burden of proof was on the party alleging the forgery. At p 271, para 44, it said that the burden of proof was more onerous than the ordinary civil standard where fraud or forgery was concerned. 
 
 56     Aside from Ngo’s admission, Elis’ solicitors sought the opinion of an expert regarding the authenticity of the disputed signatures. The expert was Ms Lee Gek Kwee, a Consultant Forensic Scientist and Head of the Document Examination Laboratory with the Centre for Forensic Science of The Health Sciences Authority, Singapore (‘HSA’). Ms Lee gave a report in respect of each of the two disputed signatures. 
 
@@ -275,7 +275,7 @@ _Whether the Rules and the new rules are binding on Elis?_
 
 70     I have already stated that when Elis signed the form to open the ‘i’ account, the Rules were part of that form. In my view, Elis was bound by the Rules henceforth. 
 
-71     In _Stephan Machinery Singapore Pte Ltd v Oversea-Chinese Banking Corporation Ltd_ [2000] 2 SLR 191, the customer was a company. The account opening form was signed by its managing director Mr Reeg and another director Mr Lim Tiong Beng. That form had a similar declaration as the one before me. That form said, 
+71     In _Stephan Machinery Singapore Pte Ltd v Oversea-Chinese Banking Corporation Ltd_ <span class="citation">[2000] 2 SLR 191</span>, the customer was a company. The account opening form was signed by its managing director Mr Reeg and another director Mr Lim Tiong Beng. That form had a similar declaration as the one before me. That form said, 
 
  ‘I/We have received and read a copy of the Bank’s Terms and Conditions relating to the Account(s) and I/We jointly and severally agree to abide by and be bound by them and any amendments, alterations and additions thereto as may from time to time be made ....’ 
 
@@ -378,9 +378,9 @@ The main part of Clause 13(a) of the new Rules is emphasised.
 
  (a) Consmat Singapore (Pte) Ltd v Bank of America National Trust & Savings Association [1992] SLR 828 (a decision by Justice L P Thean) 
 
- (b) Ri Jong Son v Development Bank of Singapore Ltd [1998] 3 SLR 64 (a decision by Justice Kan Ting Chiu) 
+ (b) Ri Jong Son v Development Bank of Singapore Ltd <span class="citation">[1998] 3 SLR 64</span> (a decision by Justice Kan Ting Chiu) 
 
- (c) Stephan Machinery Singapore Pte Ltd v Oversea Chinese Banking Corporation Ltd [2000] 2 SLR 191 (a decision by Justice Lai Kew Chai) 
+ (c) Stephan Machinery Singapore Pte Ltd v Oversea Chinese Banking Corporation Ltd <span class="citation">[2000] 2 SLR 191</span> (a decision by Justice Lai Kew Chai) 
 
 90     However, in the case of _Ri Jong Son,_ Kan J did not reach a conclusion as to whether the provision there, which he called the presumption clause, was wide enough to exempt the bank from liability as the bank had failed to prove that the statements in question were posted. 
 
@@ -408,11 +408,11 @@ accept Mr Tan’s submission (in his paragraph 136) that such a clause would be 
 
 **Negligence, estoppel and clause 27(a) of the new Rules** 
 
-97     Paragraph 4 of the Reply pleads negligence on the part of UOB. However, I accept Mr Kumar’s submission that Elis cannot avoid Clause 13 by founding her claim in tort. In _Management Corporation Strata Title Plan No 1166 v Chubb Singapore Pte Ltd_ [1999] 3 SLR 540, Justice Selvam said, at para 44: 
+97     Paragraph 4 of the Reply pleads negligence on the part of UOB. However, I accept Mr Kumar’s submission that Elis cannot avoid Clause 13 by founding her claim in tort. In _Management Corporation Strata Title Plan No 1166 v Chubb Singapore Pte Ltd_ <span class="citation">[1999] 3 SLR 540</span>, Justice Selvam said, at para 44: 
 
  ‘44 .... It is a given that liability in tort and contract may co-exist. However, it is also well-settled that by founding a cause of action in tort one cannot avoid the exemptions and limitations imposed by contract between the parties. This position was affirmed in a later decision of the House of Lords: Henderson v Merrett Syndicates Ltd [1995] 2 AC 145 (HL). In the result the true proposition is that unless there is a definite advantage in founding a claim in tort, it would be unwise to infuse it into what is essentially a claim in contract.’ 
 
-98     In _The Jian He_ [2000] 1 SLR 8, Chao Hick Tin JA said at para 26: 
+98     In _The Jian He_ <span class="citation">[2000] 1 SLR 8</span>, Chao Hick Tin JA said at para 26: 
 
  ‘26 Equally pertinent is the following observation of Oliver J in Midland Bank Trust Co Ltd v Hett, Stubbs and Camp [1979] CH 384, which observation was approved by the House of Lord in Henderson v Merrett Syndicates Ltd & Ors [1994] 3 WLR 761: 
 

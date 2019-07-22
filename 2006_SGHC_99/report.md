@@ -163,16 +163,16 @@ defendant’s solicitor sought an urgent hearing date for the extension applicat
 
 **_The setting aside of the judgments_** 
 
-42     Neither defendant contended that the judgment obtained against the first defendant was irregular. As was held by Belinda Ang Saw Ean J recently in _Australian Timber Products Pte Ltd v Koh Brothers Building & Civil Engineering Contractor (Pte) Ltd_ [2005] 1 SLR 168 (at [26] applying the 
+42     Neither defendant contended that the judgment obtained against the first defendant was irregular. As was held by Belinda Ang Saw Ean J recently in _Australian Timber Products Pte Ltd v Koh Brothers Building & Civil Engineering Contractor (Pte) Ltd_ <span class="citation">[2005] 1 SLR 168</span> (at [26] applying the 
 
 
-Court of Appeal decision in _Abdul Gaffer v Chua Kwang Yong_ [1995] 1 SLR 484), to set aside a judgment regularly obtained, the burden is on the defendant to satisfy the court that it has a defence on the merits which has a real prospect of success and carries some degree of conviction. The burden was therefore on the first defendant to set aside the plaintiff’s judgment dated 5 August 2005. 
+Court of Appeal decision in _Abdul Gaffer v Chua Kwang Yong_ <span class="citation">[1995] 1 SLR 484</span>), to set aside a judgment regularly obtained, the burden is on the defendant to satisfy the court that it has a defence on the merits which has a real prospect of success and carries some degree of conviction. The burden was therefore on the first defendant to set aside the plaintiff’s judgment dated 5 August 2005. 
 
 43     The second defendant had asserted that the judgment in default of defence obtained against him on 27 September 2005 was procedurally irregular. In regard to the factual matrix, I am prepared to accept the contention of counsel for the second defendant – that it was counsel for the plaintiff who mistakenly informed AR Hong on 12 September 2005 that the defence was due on 26 September 2005 instead of on 19 September 2005. However, I noted that counsel for the plaintiff corrected his mistake and did advise the second defendant’s solicitors on 13 September 2005 that the deadline for filing of the defence was 19 September 2005. 
 
 44     The giving of the requisite 48 hours’ notice on 20 September 2005 under r 70(1) of the Legal Profession (Professional Conduct) Rules by the plaintiff’s solicitors was in keeping with its stand that the defence was due on 19, and not 26, September 2005. Consequently, the second defendant’s solicitors cannot complain they were misled by the mistake in deadline made by the plaintiff’s solicitors. It was unfortunate that AR Hong’s confirmation that she had not granted an extension was only made known on 10 October 2005, well after the event. 
 
-45     What is more relevant is whether the plaintiff was precluded from applying for the default judgment because its solicitors were aware that the second defendant intended to apply for a stay of proceedings. It was argued by counsel for the second defendant that the plaintiff was indeed so precluded, relying on _Yeoh Poh San v Won Siok Wan_ [2002] 4 SLR 91 (“ _Yeoh_ ’s case”) and _Samsung Corp v Chinese Chamber Realty Pte Ltd_ [2004] 1 SLR 382 (“ _Samsung_ ’s case”). 
+45     What is more relevant is whether the plaintiff was precluded from applying for the default judgment because its solicitors were aware that the second defendant intended to apply for a stay of proceedings. It was argued by counsel for the second defendant that the plaintiff was indeed so precluded, relying on _Yeoh Poh San v Won Siok Wan_ <span class="citation">[2002] 4 SLR 91</span> (“ _Yeoh_ ’s case”) and _Samsung Corp v Chinese Chamber Realty Pte Ltd_ <span class="citation">[2004] 1 SLR 382</span> (“ _Samsung_ ’s case”). 
 
 46     It was my view that _Yeoh_ ’s case had no application at all as can be seen from the following extract from the judgment (at [27]): 
 
@@ -249,11 +249,11 @@ and second guarantees did absolve the defendants from liability, the first defen
 
 6       3 The defendants had contended that Malaysia was the more appropriate forum for the plaintiff’s claim. In the absence of any exclusive jurisdiction clause in the terms and conditions governing the BAM trading account, the first defendant’s application for a stay can only be based on the doctrine of _forum non conveniens_. 
 
-64     The defendants contended that Malaysia was the proper forum because the plaintiff is a Malaysian entity, the debt was owed in Malaysian ringgit, the shares traded were Malaysian shares quoted on the KLSE whilst Chin is a Malaysian whose passport, having been impounded by the Malaysian authorities (after he was charged with manipulating Fountainview shares), meant he could not come to Singapore to testify. Joanne was also a crucial witness and her passport was similarly impounded. Counsel cited _The Rainbow Joy_ [2005] 3 SLR 719 and _Q & M Enterprises Sdn Bhd v Poh Kiat_ [2005] 4 SLR 494 to support the defendants’ arguments. 
+64     The defendants contended that Malaysia was the proper forum because the plaintiff is a Malaysian entity, the debt was owed in Malaysian ringgit, the shares traded were Malaysian shares quoted on the KLSE whilst Chin is a Malaysian whose passport, having been impounded by the Malaysian authorities (after he was charged with manipulating Fountainview shares), meant he could not come to Singapore to testify. Joanne was also a crucial witness and her passport was similarly impounded. Counsel cited _The Rainbow Joy_ <span class="citation">[2005] 3 SLR 719</span> and _Q & M Enterprises Sdn Bhd v Poh Kiat_ <span class="citation">[2005] 4 SLR 494</span> to support the defendants’ arguments. 
 
 65     The plaintiff, on the other hand, asserted that Singapore was the more appropriate forum because the first defendant is a Singapore company with neither assets nor presence in Malaysia. Any judgment obtained against both defendants would have to be enforced in Singapore. 
 
-66     The test for _forum non conveniens_ was spelt out by Lord Goff of Chieveley in the House of Lords in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 and approved and adopted by the Court of Appeal in _Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia_ [1992] 2 SLR 776. 
+66     The test for _forum non conveniens_ was spelt out by Lord Goff of Chieveley in the House of Lords in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 and approved and adopted by the Court of Appeal in _Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia_ <span class="citation">[1992] 2 SLR 776</span>. 
 
 67     Lord Goff had held (at 476): 
 

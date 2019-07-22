@@ -100,7 +100,7 @@ $61,793,424.99 (“the Disputed Amount”). [note: 25] In response, on 22 Decemb
 
 rejected amounts were reasonably rejected. [note: 27] 
 
-15     On 15 March 2010, upon the Plaintiff’s application, the HC sanctioned the Scheme (see _Re TT International Ltd_ [2010] SGHC 177 (“ _T T International (HC)_ ”). The Defendant and several other scheme creditors appealed against the HC’s decision. On 27 August 2010, the Court of Appeal (“the CA”) allowed the appeals and set aside the HC’s sanction of the Scheme (see _The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International Ltd and another appeal_ [2012] 2 SLR 213 (“ _TT International (CA)_ ”). The CA also directed that a further meeting of the scheme creditors be called to approve the Scheme (see [1] of Annexure I to _TT International (CA)_ ). 
+15     On 15 March 2010, upon the Plaintiff’s application, the HC sanctioned the Scheme (see _Re TT International Ltd_ <span class="citation">[2010] SGHC 177</span> (“ _T T International (HC)_ ”). The Defendant and several other scheme creditors appealed against the HC’s decision. On 27 August 2010, the Court of Appeal (“the CA”) allowed the appeals and set aside the HC’s sanction of the Scheme (see _The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International Ltd and another appeal_ <span class="citation">[2012] 2 SLR 213</span> (“ _TT International (CA)_ ”). The CA also directed that a further meeting of the scheme creditors be called to approve the Scheme (see [1] of Annexure I to _TT International (CA)_ ). 
 
 16     On 24 September 2010, the further meeting of the scheme creditors was held. The Plaintiff then applied to the CA for sanction of the scheme. On 13 October 2010, the CA sanctioned the scheme subject to some alterations (see [6]–[8] of Annexure II to _T T International (CA)_ ). On 26 October 2010, the CA directed that the Defendant’s loss of profits claim should be ascribed an amount of 
 
@@ -449,7 +449,7 @@ argue, before the CA, that cl 31.4 precluded the Defendant from recovering for l
 
 _Issue Estoppel_ 
 
-72     The elements of issue estoppel are well-established. In _Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co Ltd and Another and Another Appeal_ [2009] 2 SLR 814 (“ _Wing Joo Loong_ ”), the CA summarised the requirements laid down in _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ [2005] 3 SLR(R) 157 as follows, at [165]: 
+72     The elements of issue estoppel are well-established. In _Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co Ltd and Another and Another Appeal_ <span class="citation">[2009] 2 SLR 814</span> (“ _Wing Joo Loong_ ”), the CA summarised the requirements laid down in _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ <span class="citation">[2005] 3 SLR(R) 157</span> as follows, at [165]: 
 
  (a) there must be a final and conclusive judgment on the merits of the issue which is said to be the subject of an estoppel; 
 
@@ -461,7 +461,7 @@ _Issue Estoppel_
 
 The requirements which are in issue in this case are requirements (a) and (d). [note: 60] 
 
-73     I turn first to requirement (a). In _Goh Nellie v Goh Lian Teck_ [2007] 1 SLR 453 (“ _Goh Nellie_ ”), Sundaresh Menon JC (as he then was) clarified the concept of finality. Menon JC held, at [28], that finality involves “a declaration or determination of a party’s liability and/or his rights or obligations leaving nothing else to be judicially determined”. Whether a judgment is final depends on the judge’s intention, which may be gleaned from the relevant document filed, the order made and the notes of evidence taken or arguments made. 
+73     I turn first to requirement (a). In _Goh Nellie v Goh Lian Teck_ <span class="citation">[2007] 1 SLR 453</span> (“ _Goh Nellie_ ”), Sundaresh Menon JC (as he then was) clarified the concept of finality. Menon JC held, at [28], that finality involves “a declaration or determination of a party’s liability and/or his rights or obligations leaving nothing else to be judicially determined”. Whether a judgment is final depends on the judge’s intention, which may be gleaned from the relevant document filed, the order made and the notes of evidence taken or arguments made. 
 
 74     In this case, it is plain that the CA did not finally determine that the Defendant was entitled to recover for loss of profits under the Main Contract. That issue was simply not before the HC or the CA in the 2010 proceedings for the sanction of the Scheme (“the 2010 proceedings”). The following passages from _TT International (HC)_ , at [96]–[99], attest to this point: 
 
@@ -545,7 +545,7 @@ Defendant. [note: 65]
 
 89     In my view, the Plaintiff did not waive its right to rely on cl 31.4. The elements of waiver by estoppel are trite and were not in dispute (see _Aero-Gate Pte Ltd v Engen Marine Engineering Pte Ltd_ 
 
-[2013] 4 SLR 409 at [37]). [note: 66] First, there must be a clear and unequivocal promise by the promisor that it will not enforce its strict legal rights. Secondly, the promisee must rely on the promise. Thirdly, the promisee must suffer detriment as a result of the reliance 
+<span class="citation">[2013] 4 SLR 409</span> at [37]). [note: 66] First, there must be a clear and unequivocal promise by the promisor that it will not enforce its strict legal rights. Secondly, the promisee must rely on the promise. Thirdly, the promisee must suffer detriment as a result of the reliance 
 
 90     In respect of the first requirement, the Plaintiff did not make a clear and unequivocal promise that it would not enforce its rights under cl 31.4. Failing to appoint the SO to certify the Defendant’s claim and rejecting the Proof of Debt cannot be construed as such a promise. Moreover, as the CA proceedings did not concern the final determination of the Defendant’s claim (see [75]–[[77] and [85] above), the fact that the Plaintiff did not raise its arguments on cl 31.4 during those proceedings cannot be understood as a promise that it would not subsequently do so. Additionally, the Plaintiff’s engaging of an expert to assess the Defendant’s loss of profits claim in this action did not amount to a promise that it would not enforce its rights under cl 31.4. The Plaintiff required such an expert to advance its case on the Quantum Issue. Finally, the Plaintiff raised its argument on cl 31.4 on 22 
 
@@ -566,7 +566,7 @@ own breach of contract to obtain a benefit. [note: 69]
 
 (see [10] above). [note: 70] Secondly, even if the Plaintiff had breached cl 31.4, the Plaintiff was not relying on the breach but on its substantive rights under cl 31.4. Thus, the principle invoked by the Defendant did not apply. 
 
-95     In my view, the Defendant’s submission is unfounded. It is unnecessary for me to decide whether the Plaintiff had breached cl 31.4, for I agree with the Plaintiff that the principle underlying the Defendant’s argument is inapplicable here. In _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd_ [2006] 1 SLR(R) 634, V K Rajah J (as he then was) summarised this principle, which is known as the “prevention principle”, at [52] as follows: 
+95     In my view, the Defendant’s submission is unfounded. It is unnecessary for me to decide whether the Plaintiff had breached cl 31.4, for I agree with the Plaintiff that the principle underlying the Defendant’s argument is inapplicable here. In _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 634</span>, V K Rajah J (as he then was) summarised this principle, which is known as the “prevention principle”, at [52] as follows: 
 
  In order to invoke this principle it must be shown that the contractual right or benefit that a party is asserting or claiming is a direct result of that party’s prior breach of contract. The relevant breach, the factual consequences flowing from the breach and the advantage the contract breaker is seeking to raise must be identified. The principle seeks to prevent the contract breaker from seeking an “advantage” arising from his default ... 
 

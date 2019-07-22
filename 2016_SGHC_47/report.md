@@ -18,7 +18,7 @@
 
 _Insurance_ – _Accident insurance_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 57 of 2016 was allowed by the Court of Appeal on 2 February 2017. See [2017] SGCA 10.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 57 of 2016 was allowed by the Court of Appeal on 2 February 2017. See <span class="citation">[2017] SGCA 10</span>.] 
 
 29 March 2016 Judgment reserved. 
 

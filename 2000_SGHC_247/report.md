@@ -41,9 +41,9 @@ There is no mention anywhere in the documents that there was a loan. A loan is a
 
 In 1999 I tried two cases and delivered separate judgments: 
 
-1 **Sun Cruises Ltd v Overseas Union Bank** [1999] 3 SLR 404. 
+1 **Sun Cruises Ltd v Overseas Union Bank** <span class="citation">[1999] 3 SLR 404</span>. 
 
-2 **Star Cruise Services Ltd v Overseas Union Bank Ltd** [1999] 3 SLR 412. 
+2 **Star Cruise Services Ltd v Overseas Union Bank Ltd** <span class="citation">[1999] 3 SLR 412</span>. 
 
 **_gambling on credit Sun Cruise Star Cruise_** I explained in the two judgments the civil law of gaming. It would be salutary to sum up the salient points. 
 
@@ -60,7 +60,7 @@ sale contract for chips. The courts must take a robust stand against, and stamp 
 
 5       A promise in order to be obnoxious to the second branch of the section must be a promise to pay the bet, and the prohibition relates only to recovery of money or a valuable thing alleged to be lost. The question what does the agreement really come to is a question for the tribunal of fact which will not be deceived by any specious attempt to conceal the real nature of the promise .... It would be strange if the consequences of the section could be evaded by so patent and artificial a device. per Lord Greene in **Hill v William Hill (Park Lane) Ltd** [1949] AC 530 at p 559. 
 
-6       In **Las Vegas Hilton Corp v Khoo Teng Hock Sunny** [1997] 1 SLR 341 the defendant admitted that there was a loan. It was not his case that no money passed or that it was a disguise of a gambling loss. The case was decided on his admission that there was a loan. The same applies to **Loh Chee Song v Liew Yong Chian** [1998] 2 SLR 641. It was not the defendant`s case that no money passed hands. It was not part of the defence in both cases that the alleged `loan` was a disguise of gambling on credit. In **The Aspinall Curzon Ltd v Khoo Teng Hock** [1991] 2 MLJ 484 legality of gambling was given the sameness of actionability. There is a fine but fundamental distinction between the two. The authorities and analyses of principles in the and cases were not presented to the courts which decided the three cases. None of the three cases made reference to the dissenting judgment of Nicolls LJ in **Lipkin Gorman v Karpnale Ltd** [1989] 1 WLR 1340 or the masterly judgment of Lord Templeman in the same case: [1991] 2 AC 548 (HL) and **CHT v Ward** [1965] 2 QB 63. These cases explain the legal aspects of gambling with chips in a modern licensed casino. The counsel for the defendants in the trilogy failed to read and reveal these important judgments to the court. 
+6       In **Las Vegas Hilton Corp v Khoo Teng Hock Sunny** <span class="citation">[1997] 1 SLR 341</span> the defendant admitted that there was a loan. It was not his case that no money passed or that it was a disguise of a gambling loss. The case was decided on his admission that there was a loan. The same applies to **Loh Chee Song v Liew Yong Chian** <span class="citation">[1998] 2 SLR 641</span>. It was not the defendant`s case that no money passed hands. It was not part of the defence in both cases that the alleged `loan` was a disguise of gambling on credit. In **The Aspinall Curzon Ltd v Khoo Teng Hock** [1991] 2 MLJ 484 legality of gambling was given the sameness of actionability. There is a fine but fundamental distinction between the two. The authorities and analyses of principles in the and cases were not presented to the courts which decided the three cases. None of the three cases made reference to the dissenting judgment of Nicolls LJ in **Lipkin Gorman v Karpnale Ltd** [1989] 1 WLR 1340 or the masterly judgment of Lord Templeman in the same case: [1991] 2 AC 548 (HL) and **CHT v Ward** [1965] 2 QB 63. These cases explain the legal aspects of gambling with chips in a modern licensed casino. The counsel for the defendants in the trilogy failed to read and reveal these important judgments to the court. 
 
 **_What is a junket?_** 
 

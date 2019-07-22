@@ -16,7 +16,7 @@
 
 _Insolvency Law_ – _Bankruptcy_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 49 of 2012 was dismissed by the Court of Appeal on 27 November 2012. See [2013] SGCA 8.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 49 of 2012 was dismissed by the Court of Appeal on 27 November 2012. See <span class="citation">[2013] SGCA 8</span>.] 
 
 3 July 2012 
 

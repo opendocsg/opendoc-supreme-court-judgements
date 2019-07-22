@@ -72,7 +72,7 @@ That compels me to consider the merits of the appeal. This in turn compels me to
 
 (4) Ultimately the court should, on a broad view, weigh the merits of the claim and defence and decide whether it would be just to order security. 
 
- See: (a) The 1999, para 23/3/3; (b) The 1999, para 23/3/3; (c) Creative Elegance (M) v Puay Kim Seng [1999] 1 SLR 600 ; (d) Allen v Jambo Holdings [1980] 2 All ER 502[1980] 1 WLR 1252; and (e) Oxy Electric v Zainuddin [1990] 2 All ER 902[1991] 1 WLR 115. 
+ See: (a) The 1999, para 23/3/3; (b) The 1999, para 23/3/3; (c) Creative Elegance (M) v Puay Kim Seng <span class="citation">[1999] 1 SLR 600</span> ; (d) Allen v Jambo Holdings [1980] 2 All ER 502[1980] 1 WLR 1252; and (e) Oxy Electric v Zainuddin [1990] 2 All ER 902[1991] 1 WLR 115. 
 
 **_English White Book Hong Kong White Book The decision_** 
 

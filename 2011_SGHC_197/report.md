@@ -26,7 +26,7 @@ _Tort_
 
 **Introduction** 
 
-1       This was an appeal against the decision of the district judge (“the DJ”) dismissing the claim by the appellant, Xu Ren Li (“the Appellant”), for damages in respect of injuries which he suffered while at work (see _Xu Ren Li v Nakano Singapore (Pte) Ltd_ [2011] SGDC 159 (“the GD”)). At the conclusion of the hearing of the appeal, I allowed the appeal in part. In my view, the Appellant and the respondent, Nakano Singapore (Pte) Ltd (“the Respondent”), were equally at fault, and I accordingly apportioned liability in the ratio 50:50. I now give my reasons for so deciding. 
+1       This was an appeal against the decision of the district judge (“the DJ”) dismissing the claim by the appellant, Xu Ren Li (“the Appellant”), for damages in respect of injuries which he suffered while at work (see _Xu Ren Li v Nakano Singapore (Pte) Ltd_ <span class="citation">[2011] SGDC 159</span> (“the GD”)). At the conclusion of the hearing of the appeal, I allowed the appeal in part. In my view, the Appellant and the respondent, Nakano Singapore (Pte) Ltd (“the Respondent”), were equally at fault, and I accordingly apportioned liability in the ratio 50:50. I now give my reasons for so deciding. 
 
 **Factual background** 
 

@@ -35,7 +35,7 @@ _Civil Procedure_ – _Service_ – _Personal service of orders to be enforced b
 2       I start with an explanation of how the plaintiffs’ application for the contemnors to be committed to prison or, alternatively, fined for contempt of court in failing to comply with a number of court orders came to be made. The events that developed and led to the present committal proceedings began essentially with the dismissal on 5 March 2004 of the majority defendants’ application to set aside an injunction prohibiting disposal of assets worldwide dated 19 January 2004 (“the Mareva injunction”) as well as to strike out the Writ of Summons and Statement of Claim or, in the alternative, to stay the proceedings (“the Order of 5 March 2004”). A fuller account of the 
 
 
-setting aside application appears from my judgment in _OCM Opportunities Fund II, LP v Burhan Uray_ [2004] SGHC 115. 
+setting aside application appears from my judgment in _OCM Opportunities Fund II, LP v Burhan Uray_ <span class="citation">[2004] SGHC 115</span>. 
 
 3       The majority defendants were required under the terms of the Mareva injunction to, _inter alia_ : 
 
@@ -64,7 +64,7 @@ setting aside application appears from my judgment in _OCM Opportunities Fund II
 2004\. I should mention that I ordered cross-examination as the affidavits of assets were, as I found them, simply “holding affidavits” in that the material contained in them did not satisfy the 
 
 
-requirements of the disclosure order. They were wholly inadequate and lacking in particulars. A fuller account of my decision appears from my judgment in _OCM Opportunities Fund II, LP v Burhan Uray_ [2004] 4 SLR 74 at [43], [48]–[49]. 
+requirements of the disclosure order. They were wholly inadequate and lacking in particulars. A fuller account of my decision appears from my judgment in _OCM Opportunities Fund II, LP v Burhan Uray_ <span class="citation">[2004] 4 SLR 74</span> at [43], [48]–[49]. 
 
 8       On 26 May 2004, the majority defendants (by way of Civil Appeal No 34 of 2004) appealed against my order for cross-examination. On 31 May 2004, the majority defendants applied for a stay of the cross-examination pending the hearing and determination of Civil Appeal No 34 of 2004. The stay application was on 11 June 2004 dismissed by V K Rajah JC (as he then was) sitting as a single judge in the Court of Appeal. On 5 July 2004, the majority defendants applied to discharge or vary the decision of Rajah JC in that they wanted the cross-examination stayed pending the hearing and determination of Civil Appeal No 34 of 2004, or in the alternative, for an expedited hearing of Civil Appeal No 19 of 2004. On 23 July 2004, Chao Hick Tin JA dismissed the application for an expedited appeal. The application for a discharge or variation of Rajah JC’s order was subsequently withdrawn. 
 
@@ -148,7 +148,7 @@ defendants would be hard-pressed to deny that they were unaware of what was requ
 
 26     Having reached the conclusion that the procedural objections were unsustainable, I had to next rule on whether the court was satisfied beyond reasonable doubt that contempt was proved. 
 
-27     For the purposes of establishing contempt, it is enough that a deliberate act which was in breach of an order had been committed. Motive of disobedience is not relevant in determining if there was contempt. But motive of disobedience is relevant as it is part of the inquiry to determine if there are any mitigating circumstances for the purposes of sentencing for contempt: see _Summit Holdings Ltd v Business Software Alliance_ [1999] 3 SLR 197 at [52] and [53]. 
+27     For the purposes of establishing contempt, it is enough that a deliberate act which was in breach of an order had been committed. Motive of disobedience is not relevant in determining if there was contempt. But motive of disobedience is relevant as it is part of the inquiry to determine if there are any mitigating circumstances for the purposes of sentencing for contempt: see _Summit Holdings Ltd v Business Software Alliance_ <span class="citation">[1999] 3 SLR 197</span> at [52] and [53]. 
 
 28     The starting point is this. The correct and only course, short of obedience to the orders in question, was to seek, through appropriate legal process, to have the orders discharged, set aside or stayed. That was what the majority defendants did initially. But once their stay applications failed or applications for expedited appeal were refused, the majority defendants continued to ignore and disregarded their legal duty under the various orders. 
 

@@ -307,7 +307,7 @@ profit from short selling Datacraft’s shares by inducing others to sell their 
 
 **The trial judge’s findings** 
 
-45     At the close of the case on 21 November 2006, the trial judge delivered a brief oral judgment acquitting the respondent of the Charge (“the oral judgment”). The grounds of decision subsequently issued by the trial judge (see _PP v Wang Ziyi Able_ [2006] SGDC 282) reproduced the oral judgment in its entirety. 
+45     At the close of the case on 21 November 2006, the trial judge delivered a brief oral judgment acquitting the respondent of the Charge (“the oral judgment”). The grounds of decision subsequently issued by the trial judge (see _PP v Wang Ziyi Able_ <span class="citation">[2006] SGDC 282</span>) reproduced the oral judgment in its entirety. 
 
 46     At [2] of the oral judgment, the trial judge stated the four elements which the Prosecution had to prove in order to secure a conviction on a charge under s 199( _b_ )(i) of the SFA, namely: 
 
@@ -440,7 +440,7 @@ _Industry Law_ (Butterworths, 5th Ed,1996) (“ _Baxt et al_ ”), reference is 
 
  This section [referring to s 199 of the SFA] is not confined to the case of deliberate falsehood; it also covers the reckless or negligent making of misleading statements. [emphasis added by the Prosecution] 
 
-68     Mr Koh then referred to _SM Summit Holdings v PP_ [1997] 3 SLR 922, submitting that the court’s observations at [53] (as reproduced below) equated the concept of “does not care” with that of “recklessness”: 
+68     Mr Koh then referred to _SM Summit Holdings v PP_ <span class="citation">[1997] 3 SLR 922</span>, submitting that the court’s observations at [53] (as reproduced below) equated the concept of “does not care” with that of “recklessness”: 
 
  It is one thing to say that one is reckless or does not care whether he is reproducing infringing copies of CD-ROMs, and it is another to say that he is engaged in the business of counterfeiting CD-ROMs ... [emphasis added by the Prosecution] 
 
@@ -455,7 +455,7 @@ On that basis, Mr Koh asserted that the phrase “does not care” in s 199(i) o
 
  It appears that an objective standard regarding knowledge of an infringement is applied to the provision which prohibits false and misleading statements. [emphasis added] 
 
-At first blush, the above passage seems to accord with the Prosecution’s interpretation of the s 199(i) _mens rea_. However, on a more careful reading, one will note that the above proposition is made on the basis of two authorities, namely, _Macleod v Australian Securities Commission_ [1999] WASCA 35 (“ _Macleod_ ”) and _PP v Teo Ai Nee_ [1995] 2 SLR 69 (“ _Teo Ai Nee_ ”). A closer consideration of both cases reveals that the mental element discussed therein was the one set out in s 199(ii) of the SFA, and not s 199(i); specifically, the requisite _mens rea_ in those two cases entailed that the maker of the statement _ought reasonably to have known_ that the statement or information was false or misleading. 
+At first blush, the above passage seems to accord with the Prosecution’s interpretation of the s 199(i) _mens rea_. However, on a more careful reading, one will note that the above proposition is made on the basis of two authorities, namely, _Macleod v Australian Securities Commission_ [1999] WASCA 35 (“ _Macleod_ ”) and _PP v Teo Ai Nee_ <span class="citation">[1995] 2 SLR 69</span> (“ _Teo Ai Nee_ ”). A closer consideration of both cases reveals that the mental element discussed therein was the one set out in s 199(ii) of the SFA, and not s 199(i); specifically, the requisite _mens rea_ in those two cases entailed that the maker of the statement _ought reasonably to have known_ that the statement or information was false or misleading. 
 
 72     In _Macleod_ , the Supreme Court of Western Australia stated at [105]: 
 
@@ -463,7 +463,7 @@ At first blush, the above passage seems to accord with the Prosecution’s inter
 
 Similarly, in _Teo Ai Nee_ at 87, [49], Yong Pung How CJ specifically referred to the formulation “knows or ought reasonably to have known” in s 99 of the SIA, and stated that it was “beyond doubt that it [referred] to an objective state of knowledge”. 
 
-73     In my judgment, there is force in the contrary argument made by the respondent’s counsel, Mr Fong, that s 199 of the SFA makes reference to at least two _separate and distinct_ types of _mens rea_ , with the second limb of s 199(ii) clearly contemplating constructive knowledge tested against an objective standard. It follows that s 199(i) should refer to a subjective (and, therefore, different) mental element. Indeed, it should be noted that the word “or” separates s 199(i) and s 199(ii). This is significant because “[i]n ordinary usage, ‘and’ is conjunctive and ‘or’ is disjunctive” (see P St J Langan, _Maxwell on the Interpretation of Statutes_ (N M Tripathi Private Ltd, 12th Ed, 1969) at p 232; see also _id_ at pp 233–234). Although I commented in _PP v Low Kok Heng_ [2007] 4 SLR 183 at 
+73     In my judgment, there is force in the contrary argument made by the respondent’s counsel, Mr Fong, that s 199 of the SFA makes reference to at least two _separate and distinct_ types of _mens rea_ , with the second limb of s 199(ii) clearly contemplating constructive knowledge tested against an objective standard. It follows that s 199(i) should refer to a subjective (and, therefore, different) mental element. Indeed, it should be noted that the word “or” separates s 199(i) and s 199(ii). This is significant because “[i]n ordinary usage, ‘and’ is conjunctive and ‘or’ is disjunctive” (see P St J Langan, _Maxwell on the Interpretation of Statutes_ (N M Tripathi Private Ltd, 12th Ed, 1969) at p 232; see also _id_ at pp 233–234). Although I commented in _PP v Low Kok Heng_ <span class="citation">[2007] 4 SLR 183</span> at 
 
 
 [69]–[72] that the use of the word “or” may not produce a disjunctive result in _every_ case and that, depending on the relevant parliamentary intent, a conjunctive meaning may have to be given to this word, I am of the view that, in the present case, there is no reason for the word “or” in s 199 of the SFA to be accorded anything other than its ordinary disjunctive meaning. 
@@ -538,7 +538,7 @@ It may be legitimately distilled from the above remarks that a person’s motive
 90     Before proceeding to determine if the s 199(i) _mens rea_ , as interpreted above, has been established by the facts before the court in the present proceedings, it is necessary, first, to consider the extent of appellate review permissible in the present case. 
 
 
-91     It is trite law that an appellate court has a limited power of review over a trial judge’s findings of fact. Indeed, this familiar proposition was set out with acuity by Yong CJ in _Yap Giau Beng Terence v PP_ [1998] 3 SLR 656 (“ _Terence Yap_ ”) at [24], as follows: 
+91     It is trite law that an appellate court has a limited power of review over a trial judge’s findings of fact. Indeed, this familiar proposition was set out with acuity by Yong CJ in _Yap Giau Beng Terence v PP_ <span class="citation">[1998] 3 SLR 656</span> (“ _Terence Yap_ ”) at [24], as follows: 
 
  It is trite law that an appellate court should be slow to overturn the trial judge’s findings of fact, especially where they hinge on the trial judge’s assessment of credibility and veracity of witnesses, unless they can be shown to be plainly wrong or against the weight of the evidence. 
 
@@ -548,18 +548,18 @@ It may be legitimately distilled from the above remarks that a person’s motive
 
  [W]hen it comes to inferences of facts to be drawn from the actual findings which have been ascertained, a different approach will be taken. In such cases, it is again trite law that an appellate court is as competent as any trial judge to draw any necessary inferences of fact from the circumstances of the case. [emphasis added] 
 
-I endorsed these observations in _Jagatheesan s/o Krishnasamy v PP_ [2006] 4 SLR 45 (“ _Jagatheesan_ ”) at [37]–[38], and added the following ( _id_ at [38]): 
+I endorsed these observations in _Jagatheesan s/o Krishnasamy v PP_ <span class="citation">[2006] 4 SLR 45</span> (“ _Jagatheesan_ ”) at [37]–[38], and added the following ( _id_ at [38]): 
 
- In short, intervention by an appellate court is justified when the inferences drawn by a trial district judge are not supported by the primary or objective evidence on record : see Bala Murugan at [21]; Sahadevan s/o Gundan v PP [2003] 1 SLR 145 at [17]; see also s 261 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) (“CPC”) that stipulates that the appellate court should not intervene unless “it is shown ... that the judgment ... was either wrong in law or against the weight of evidence”. 
+ In short, intervention by an appellate court is justified when the inferences drawn by a trial district judge are not supported by the primary or objective evidence on record : see Bala Murugan at [21]; Sahadevan s/o Gundan v PP <span class="citation">[2003] 1 SLR 145</span> at [17]; see also s 261 of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) (“CPC”) that stipulates that the appellate court should not intervene unless “it is shown ... that the judgment ... was either wrong in law or against the weight of evidence”. 
 
 This applies with equal force in the present case. 
 
 94     The second principle stated in [92] above may also be distilled from _Jagatheesan_ , where I set out the judicial approach in respect of appellate review of a trial judge’s assessment of a witness’s credibility. I noted at [40] as follows: 
 
- The same restraint governing appellate review in respect of findings of fact applies in relation to a trial judge’s assessment of a witness’s credibility. Indeed, an appellate court should be even more restrained in such circumstances. The trial judge has had the benefit of viewing and observing the witnesses in court: Lim Ah Poh v PP [1992] 1 SLR 713. There is, however, a difference between an assessment of a witness’s credibility where it is based on his demeanour and where it is based on inferences drawn from the internal consistency in the content of the witness’s 
+ The same restraint governing appellate review in respect of findings of fact applies in relation to a trial judge’s assessment of a witness’s credibility. Indeed, an appellate court should be even more restrained in such circumstances. The trial judge has had the benefit of viewing and observing the witnesses in court: Lim Ah Poh v PP <span class="citation">[1992] 1 SLR 713</span>. There is, however, a difference between an assessment of a witness’s credibility where it is based on his demeanour and where it is based on inferences drawn from the internal consistency in the content of the witness’s 
 
 
- testimony or the external consistency between the content of the witness’s evidence and the extrinsic evidence. In the latter two situations, the supposed advantage of the trial judge in having studied the witness is not critical because the appellate court has access to the same material as the trial judge. Accordingly, an appellate court is in as good a position as the trial court in such an instance to assess the veracity of the witness’s evidence : see PP v Choo Thiam Hock [1994] 3 SLR 248 at 253, [12]. An apparent lack of appreciation of inconsistencies, contradictions and improbabilities can undermine the basis for any proper finding of credibility: see Kuek Ah Lek v PP [1995] 3 SLR 252 at 266, [60]. The real tests are how consistent the story is within itself, how it stands the test of cross-examination and how it fits in with the rest of the evidence and the circumstances of the case; per Lord Roche in Bhojraj v Sita Ram AIR (1936) PC 60 at 62. [emphasis added] 
+ testimony or the external consistency between the content of the witness’s evidence and the extrinsic evidence. In the latter two situations, the supposed advantage of the trial judge in having studied the witness is not critical because the appellate court has access to the same material as the trial judge. Accordingly, an appellate court is in as good a position as the trial court in such an instance to assess the veracity of the witness’s evidence : see PP v Choo Thiam Hock <span class="citation">[1994] 3 SLR 248</span> at 253, [12]. An apparent lack of appreciation of inconsistencies, contradictions and improbabilities can undermine the basis for any proper finding of credibility: see Kuek Ah Lek v PP <span class="citation">[1995] 3 SLR 252</span> at 266, [60]. The real tests are how consistent the story is within itself, how it stands the test of cross-examination and how it fits in with the rest of the evidence and the circumstances of the case; per Lord Roche in Bhojraj v Sita Ram AIR (1936) PC 60 at 62. [emphasis added] 
 
 95     Finally, it is relevant to note the rather apposite observations on this aspect of appellate practice by Prof Tan Yock Lin in _Criminal Procedure_ (LexisNexis, 2007) vol 2 at para 1052: 
 

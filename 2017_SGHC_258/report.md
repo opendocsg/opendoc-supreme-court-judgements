@@ -227,7 +227,7 @@ from his CPF contributions to service the loan. [note: 25] The deceased’s then
 
 32     Under s 4 of the Retirement and Re-employment Act (Cap 274A, 2012 Rev Ed), the retirement age has been raised from 62 to 67. The defendant acknowledged the possibility that the deceased would have supported his father more upon his father’s retirement. However, when Taib reaches 67 years of age in nine years’ time, the deceased (had he lived) would have been 30 years of age. The defendant submitted that it was likely that the deceased would have been married by 30, based on the fact that the plaintiff married at 28–29 years of age. The deceased would then have decreased 
 
-rather than increased his monthly allowance to Taib. [note: 26] Cases cited by the defendant in support of a reduced multiplier of 11 years due to the possibility of the deceased’s marriage included the Court of Appeal’s decision in _Ho Yeow Kim v Lai Hai Kuen_ [1999] 1 SLR(R) 1068. 
+rather than increased his monthly allowance to Taib. [note: 26] Cases cited by the defendant in support of a reduced multiplier of 11 years due to the possibility of the deceased’s marriage included the Court of Appeal’s decision in _Ho Yeow Kim v Lai Hai Kuen_ <span class="citation">[1999] 1 SLR(R) 1068</span>. 
 
 33     Based on [32] above and case law, the defendant arrived at a figure of $19,681.68 for Taib’s claim with the following breakdown: 
 

@@ -123,14 +123,14 @@ Conditions of Sub-Contract (3rd Edition, 2005) (“the SIA Sub-Contract”). Cla
 
 **_Whether the payment claim was invalid_** 
 
-17     Whether or not the Payment Claim was invalid turned on whether the approach in _JFC Builders Pte Ltd v LionCity Construction Co Pte Ltd_ [2013] 1 SLR 1157 (“ _JFC Builders_ ”), where the High Court held that s 10(1) of the Act impliedly precluded a claimant from making a claim that merely repeated 
+17     Whether or not the Payment Claim was invalid turned on whether the approach in _JFC Builders Pte Ltd v LionCity Construction Co Pte Ltd_ <span class="citation">[2013] 1 SLR 1157</span> (“ _JFC Builders_ ”), where the High Court held that s 10(1) of the Act impliedly precluded a claimant from making a claim that merely repeated 
 
 
 an earlier claim without any additional item of claim, should be followed. 
 
-18     Woo Bih Li J in _JFC Builders_ noted at [77]–[78] that the Court of Appeal in _Lee Wee Lick Terence v Chua Say Eng_ [2013] 1 SLR 401 (“ _Terence Lee_ ”) had stated _obiter_ that it did not approve of the finding in a case involving a repeat non-adjudicated premature claim that s 10(1) of the Act prohibits all repeat claims. However, Woo J took the view that it was not clear whether the Court of Appeal was referring to a repeat claim as defined in _JFC Builders_ and observed that no reasons were given for the Court of Appeal’s statement. 
+18     Woo Bih Li J in _JFC Builders_ noted at [77]–[78] that the Court of Appeal in _Lee Wee Lick Terence v Chua Say Eng_ <span class="citation">[2013] 1 SLR 401</span> (“ _Terence Lee_ ”) had stated _obiter_ that it did not approve of the finding in a case involving a repeat non-adjudicated premature claim that s 10(1) of the Act prohibits all repeat claims. However, Woo J took the view that it was not clear whether the Court of Appeal was referring to a repeat claim as defined in _JFC Builders_ and observed that no reasons were given for the Court of Appeal’s statement. 
 
-19     In a later High Court decision, _Admin Construction Pte Ltd v Vivaldi (S) Pte Ltd_ [2013] 3 SLR 609 (“ _Admin Construction_ ”), Quentin Loh J took a different view of the Court of Appeal’s decision as follows at [51]–[52]: 
+19     In a later High Court decision, _Admin Construction Pte Ltd v Vivaldi (S) Pte Ltd_ <span class="citation">[2013] 3 SLR 609</span> (“ _Admin Construction_ ”), Quentin Loh J took a different view of the Court of Appeal’s decision as follows at [51]–[52]: 
 
  Whilst I may instinctively empathise with the view of Woo J, given the possibility of abuse which was alluded to and the proffered construction of s 10(1), I think the Court of Appeal's decision in Terence Lee has put the matter beyond doubt. ... 
 

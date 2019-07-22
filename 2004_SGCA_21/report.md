@@ -22,7 +22,7 @@ _Administrative Law_ – _Remedies_ – _Declaration_ – _Declaration of trial 
 
 **Chao Hick Tin JA (delivering the judgment of the court):** 
 
-1       This was an appeal by the Attorney-General (“the appellant”) against a decision of the High Court (reported at [2004] 1 SLR 415) which declared that the dismissal of the respondent from the Singapore Police Force (“the Force”) was null and void and ordered his reinstatement. The respondent was then a senior investigation officer of the rank of Senior Staff Sergeant, attached to the Anti-Vice Branch (“AVB”) of the Criminal Investigation Department (“CID”). After hearing arguments presented by the Principal Senior State Counsel (“PSSC”) for the appellant, we dismissed the appeal and affirmed the decision of the court below. We now give our reasons. 
+1       This was an appeal by the Attorney-General (“the appellant”) against a decision of the High Court (reported at <span class="citation">[2004] 1 SLR 415</span>) which declared that the dismissal of the respondent from the Singapore Police Force (“the Force”) was null and void and ordered his reinstatement. The respondent was then a senior investigation officer of the rank of Senior Staff Sergeant, attached to the Anti-Vice Branch (“AVB”) of the Criminal Investigation Department (“CID”). After hearing arguments presented by the Principal Senior State Counsel (“PSSC”) for the appellant, we dismissed the appeal and affirmed the decision of the court below. We now give our reasons. 
 
 **The facts** 
 

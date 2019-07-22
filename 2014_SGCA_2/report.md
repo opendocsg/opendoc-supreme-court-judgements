@@ -24,7 +24,7 @@ _STATUTORY INTERPRETATION_ – _Definitions_
 
 _STATUTORY INTERPRETATION_ – _Interpretation Act_ – _extrinsic aids_ – _purposive approach_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2013] 2 SLR 667.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2013] 2 SLR 667</span>.] 
 
 13 January 2014 
 
@@ -32,7 +32,7 @@ _STATUTORY INTERPRETATION_ – _Interpretation Act_ – _extrinsic aids_ – _pu
 
 **Introduction** 
 
-1       Pursuant to a Writ of Distress, Orchard Central Pte Ltd (“Orchard Central”) distrained, amongst other things, the jewellery found on the premises of its tenant, Cupid Jewels Pte Ltd (“Cupid Jewels”). The jewellery distrained had been delivered to Cupid Jewels by Forever Jewels Pte Ltd (“Forever Jewels”). Cupid Jewels and Forever Jewels filed separate applications for the release of the jewellery. Both of their applications were dismissed by a High Court judge (“the Judge”) (see _Orchard Central Pte Ltd v Cupid Jewels Pte Ltd (Forever Jewels Pte Ltd, non-party)_ [2013] 2 SLR 667 (“the Judgment”)). Dissatisfied with the Judge’s decision, Cupid Jewels and Forever Jewels filed Civil Appeal No 32 of 2013 (“CA 32”) and Civil Appeal No 33 of 2013 (“CA 33”) respectively. 
+1       Pursuant to a Writ of Distress, Orchard Central Pte Ltd (“Orchard Central”) distrained, amongst other things, the jewellery found on the premises of its tenant, Cupid Jewels Pte Ltd (“Cupid Jewels”). The jewellery distrained had been delivered to Cupid Jewels by Forever Jewels Pte Ltd (“Forever Jewels”). Cupid Jewels and Forever Jewels filed separate applications for the release of the jewellery. Both of their applications were dismissed by a High Court judge (“the Judge”) (see _Orchard Central Pte Ltd v Cupid Jewels Pte Ltd (Forever Jewels Pte Ltd, non-party)_ <span class="citation">[2013] 2 SLR 667</span> (“the Judgment”)). Dissatisfied with the Judge’s decision, Cupid Jewels and Forever Jewels filed Civil Appeal No 32 of 2013 (“CA 32”) and Civil Appeal No 33 of 2013 (“CA 33”) respectively. 
 
 2       After considering the parties’ submissions, we dismissed both CA 32 and CA 33. We now give the detailed reasons for our decision. 
 
@@ -303,7 +303,7 @@ Cupid Jewels argued below and before us that: (a) the rent in issue in the Writ 
 
  (a) Representation: A sufficiently clear representation that Orchard Central would not insist on its strict legal remedies to recover the full rental arrears could be inferred (see the Judgment at [46]). 
 
- (b) Detriment: The principles on detriment in the law of proprietary estoppel should not be imported into the law of promissory estoppel as there is no unified legal principle at this stage (see the Judgment at [48]). The cases Lam Chi Kin David v Deutsche Bank AG [2010] 2 SLR 896 and Lam Chi Kin David v Deutsche Bank AG [2011] 1 SLR 800 did not remove the requirement for the inquiry into detriment in the sense of prejudice in some broad form (see the Judgment at [48]–[49]). 
+ (b) Detriment: The principles on detriment in the law of proprietary estoppel should not be imported into the law of promissory estoppel as there is no unified legal principle at this stage (see the Judgment at [48]). The cases Lam Chi Kin David v Deutsche Bank AG <span class="citation">[2010] 2 SLR 896</span> and Lam Chi Kin David v Deutsche Bank AG <span class="citation">[2011] 1 SLR 800</span> did not remove the requirement for the inquiry into detriment in the sense of prejudice in some broad form (see the Judgment at [48]–[49]). 
 
  (c) Reliance: On the facts, Cupid Jewels failed to prove that it had, in reliance of Orchard Central’s representation, suffered detriment in: 
 
@@ -311,7 +311,7 @@ Cupid Jewels argued below and before us that: (a) the rent in issue in the Writ 
 
  (ii) the broad sense by refraining from making immediate arrangements for full repayment of the rental arrears (see the Judgment at [52]–[53]). 
 
-36     We turn first to the preliminary issue of whether the doctrine of promissory estoppel can in principle apply to a statutorily conferred right. In its Respondent’s Case, Orchard Central relied on the Privy Council case of _Kok Hoong v Leong Cheong Kweng Mines Ltd_ [1964] AC 933 (“ _Kok Hoong_ ”), cited by Tan Lee Meng J in _Joshua Steven v Joshua Deborah Steven and others_ [2004] 4 SLR(R) 403 (“ _Joshua Steven_ ”), for the proposition that the doctrine of promissory estoppel should not apply in the present case in defiance of the Act, particularly since _Supreme Holdings Ltd v Sheriff (Supreme Court of Singapore) and another_ [1985–1986] SLR(R) 596 confirmed that the Act conferred a special status upon landlords by providing them with a special remedy. 
+36     We turn first to the preliminary issue of whether the doctrine of promissory estoppel can in principle apply to a statutorily conferred right. In its Respondent’s Case, Orchard Central relied on the Privy Council case of _Kok Hoong v Leong Cheong Kweng Mines Ltd_ [1964] AC 933 (“ _Kok Hoong_ ”), cited by Tan Lee Meng J in _Joshua Steven v Joshua Deborah Steven and others_ <span class="citation">[2004] 4 SLR(R) 403</span> (“ _Joshua Steven_ ”), for the proposition that the doctrine of promissory estoppel should not apply in the present case in defiance of the Act, particularly since _Supreme Holdings Ltd v Sheriff (Supreme Court of Singapore) and another_ [1985–1986] SLR(R) 596 confirmed that the Act conferred a special status upon landlords by providing them with a special remedy. 
 
 37     In our view, Orchard Central’s reliance on _Kok Hoong_ and _Joshua Steven_ was misplaced. In _Joshua Steven_ , the property concerned was subject to the Residential Property Act (Cap 274, 1985 Rev Ed) (“the RPA”) which expressly restricted the rights of foreigners to acquire an interest in the property in issue. It was within this specific context that Tan J held that a party cannot rely on estoppel in defiance of a statute, because as explained by Viscount Radcliffe in _Kok Hoong_ , there are ( _Joshua Steven_ at [15]): 
 
@@ -520,7 +520,7 @@ In other words, the Legislative Council had _expressly_ indicated that the porti
 
 ## 1. 
 
-68     The fundamental principle of purposive interpretation under s 9A(1) of the Interpretation Act (Cap 1, 2002 Rev Ed) and the principle that Parliament would not have removed rights pre-existing in common law if there was no express provision or clearly evinced intention to the effect (see FAR Bennion, _Bennion on Statutory Interpretation_ (LexisNexis, 5th Ed, 2008) (“ _Bennion_ ”) at p 812 cited with approval in _Goldring Timothy Nicholas and others v Public Prosecutor_ [2013] 3 SLR 487 at [51]) must trump the linguistic _ejusdem generis_ canon of construction. Unsatisfying and archaic as the common law trade privilege perhaps was, s 8( _d_ ) of the 1934 Ordinance _was_ intended to be a codification of it _in the state it was in at the material time_. The 1934 Ordinance was _not_ intended to narrow the scope of the privilege. 
+68     The fundamental principle of purposive interpretation under s 9A(1) of the Interpretation Act (Cap 1, 2002 Rev Ed) and the principle that Parliament would not have removed rights pre-existing in common law if there was no express provision or clearly evinced intention to the effect (see FAR Bennion, _Bennion on Statutory Interpretation_ (LexisNexis, 5th Ed, 2008) (“ _Bennion_ ”) at p 812 cited with approval in _Goldring Timothy Nicholas and others v Public Prosecutor_ <span class="citation">[2013] 3 SLR 487</span> at [51]) must trump the linguistic _ejusdem generis_ canon of construction. Unsatisfying and archaic as the common law trade privilege perhaps was, s 8( _d_ ) of the 1934 Ordinance _was_ intended to be a codification of it _in the state it was in at the material time_. The 1934 Ordinance was _not_ intended to narrow the scope of the privilege. 
 
 69     The Judge, with respect, erred in relying on the preamble to the 1934 Ordinance to reach his conclusion that s 8( _d_ ) of the same was intended to go beyond the mere codification of the common law. When viewed against the backdrop of the relevant legislative context (see [67] above), the word “amend” in the preamble actually referred to the _new amendments_ introduced by way of adoption of specific provisions of the 1908 English Act, and the word “re-enact” referred to the _re-enactment_ of the _pre-existing_ provisions in the CPC 1907 (which, it bears emphasising, was where s 8( _d_ ) of the 1934 Distress Bill came from). 
 
@@ -612,9 +612,9 @@ this point: [note: 21]
 
 78     The Judge found on the facts that Forever Jewels failed to prove that Orchard Central’s representatives had _actual_ knowledge that the Distrained Jewellery belonged Forever Jewels (see the Judgment at [78]). The Judge further commented in _obiter_ that the doctrine of reputed ownership should not, as a matter of principle, exclude that of actual knowledge (see the Judgment at [79]). The Judge then held that the Distrained Jewellery had been in the possession, order, or disposition of Cupid Jewels under such circumstances that Cupid Jewels had been the reputed owner thereof within the meaning of s 12( _a_ ) of the Act, and this was so regardless of whether the legal test is that which considers: 
 
- (a) the perspective of the reasonable public/customer (as held by this court in Plaza Singapura (Pte) Ltd v Cosdel (S) Pte Ltd and another [1990] 2 SLR(R) 22 (“ Cosdel (CA) ”) at [23]); or 
+ (a) the perspective of the reasonable public/customer (as held by this court in Plaza Singapura (Pte) Ltd v Cosdel (S) Pte Ltd and another <span class="citation">[1990] 2 SLR(R) 22</span> (“ Cosdel (CA) ”) at [23]); or 
 
- (b) the perspective of the landlord (as held by the High Court in Plaza Singapura (Pte) Ltd v Shizuoka Yajimaya (Singapore) Pte Ltd (Cosdel (S) Pte Ltd, claimant) [1988] 1 SLR(R) 109 at 
+ (b) the perspective of the landlord (as held by the High Court in Plaza Singapura (Pte) Ltd v Shizuoka Yajimaya (Singapore) Pte Ltd (Cosdel (S) Pte Ltd, claimant) <span class="citation">[1988] 1 SLR(R) 109</span> at 
 
 
 ## [20]); 

@@ -98,7 +98,7 @@ proceedings on 23 November 2012. The reasons for this decision can be summarised
 
 **The applicable law** 
 
-11     The applicable test to determine if divorce proceedings should be stayed in Singapore on the grounds of _forum non conveniens_ is the test enunciated in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“the _Spiliada_ test”): see _VH v VI and another_ [2008] 1 SLR(R) 742 and _Mala Shukla v Jayant Amritanand Shukla (Danialle An, co-respondent)_ [2002] 1 SLR(R) 920 (“ _Mala Shukla_ ”). The _Spiliada_ test consists of two stages: 
+11     The applicable test to determine if divorce proceedings should be stayed in Singapore on the grounds of _forum non conveniens_ is the test enunciated in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“the _Spiliada_ test”): see _VH v VI and another_ <span class="citation">[2008] 1 SLR(R) 742</span> and _Mala Shukla v Jayant Amritanand Shukla (Danialle An, co-respondent)_ <span class="citation">[2002] 1 SLR(R) 920</span> (“ _Mala Shukla_ ”). The _Spiliada_ test consists of two stages: 
 
  ( a ) Stage one : The party seeking the stay ( ie , the Husband) must show that there is another available forum that is clearly or distinctly more appropriate than Singapore to determine 
 
@@ -107,7 +107,7 @@ proceedings on 23 November 2012. The reasons for this decision can be summarised
 
  (b) Stage two : If there is another forum which is prima facie more appropriate, the court will ordinarily grant a stay, unless there are special circumstances by reason of which justice requires that a stay should nevertheless be refused. At this stage, the burden shifts to the plaintiff to show such special circumstances. 
 
-12     The _Spiliada_ test is essentially a factors-based test; the weight to be placed on the various factors varies with the specific factual matrix of the case ( _BDA v BDB_ [2013] 1 SLR 607 (“ _BDA_ ”) at [24]). In _BDA_ , a case involving maintenance proceedings, it was also noted that the court exercises a discretion in determining whether Singapore is a _forum non conveniens_ and, as such, an appellate court should be slow to interfere unless the judge had misdirected himself on a matter of principle, or had taken into account matters which he ought not to have taken into account, or had failed to take into account matters which he ought to have taken into account, or his decision was plainly wrong ( _BDA_ at [23]). 
+12     The _Spiliada_ test is essentially a factors-based test; the weight to be placed on the various factors varies with the specific factual matrix of the case ( _BDA v BDB_ <span class="citation">[2013] 1 SLR 607</span> (“ _BDA_ ”) at [24]). In _BDA_ , a case involving maintenance proceedings, it was also noted that the court exercises a discretion in determining whether Singapore is a _forum non conveniens_ and, as such, an appellate court should be slow to interfere unless the judge had misdirected himself on a matter of principle, or had taken into account matters which he ought not to have taken into account, or had failed to take into account matters which he ought to have taken into account, or his decision was plainly wrong ( _BDA_ at [23]). 
 
 13     In a case of _lis alibi pendens_ where there are simultaneous proceedings elsewhere, this is an important factor to be taken into account under the _forum non conveniens_ doctrine, as it raises issues of duplication of resources and conflicting judgments ( _Halsbury’s Laws of Singapore_ , vol 6(2) (LexisNexis, 2009) (“ _Halsbury’s_ ”) at para 75.094. In such a case, the choice is between trial in Singapore _plus_ trial abroad (if a stay is refused), and trial abroad (if the stay is granted) (Cheshire, North & Fawcett, _Private International Law_ (Oxford University Press, 14th Ed, 2008) at p 55). The weight to be given to the fact of existence of parallel proceedings depends on the circumstances of the case. Some pertinent considerations include the degree of overlap of issues and parties and the degree to which the respective proceedings have been advanced; however, little or no weight will be given to foreign proceedings if they were commenced for strategic reasons ( _Halsbury’s_ at para 75.094). Thus, the fact that there are existing proceedings in another jurisdiction can be a decisive but not an automatic factor in favour of a stay; all depends on the circumstances of the case ( _Mala Shukla_ at [40]). 
 
@@ -126,7 +126,7 @@ French citizenship in 2006 in order to visit her in-laws more easily and to obli
 16     However, the jurisdiction of the court is not based on the nationality and residence of the parties alone; great weight should also be attached to the location of the subject matters in dispute 
 
 
-( _Eng Liat Kiang v Eng Bak Hern_ [1995] 2 SLR(R) 851 at [34]). The first task was thus to determine the subject matters in dispute in this case. 
+( _Eng Liat Kiang v Eng Bak Hern_ <span class="citation">[1995] 2 SLR(R) 851</span> at [34]). The first task was thus to determine the subject matters in dispute in this case. 
 
 17     In my opinion, the dispute in the present proceedings really revolved around the pre-nuptial agreement. The fact that the Husband’s adultery took place in Singapore and that the evidence on this issue was located in Singapore was not a significant factor. The Husband’s adultery was not a disputed fact; the Husband had expressly acknowledged his relationship with the co-defendant in his 
 
@@ -150,7 +150,7 @@ Presumably, the Wife also contested the Husband’s stay application because the
 
 French court than in a Singapore court. [note: 22] The pre-nuptial agreement was thus the main subject matter in dispute. 
 
-20     While the district judge was correct to state that pre-nuptial agreements (even those governed by foreign law) could be considered by a Singapore court in the division of matrimonial assets ( _TQ v TR and another appeal_ [2009] 2 SLR(R) 961), the Wife did acknowledge that the fact that the Singapore courts may be required to rule upon the parties’ pre-nuptial agreement was a pertinent 
+20     While the district judge was correct to state that pre-nuptial agreements (even those governed by foreign law) could be considered by a Singapore court in the division of matrimonial assets ( _TQ v TR and another appeal_ <span class="citation">[2009] 2 SLR(R) 961</span>), the Wife did acknowledge that the fact that the Singapore courts may be required to rule upon the parties’ pre-nuptial agreement was a pertinent 
 
 factor in favour of a stay of the Singapore proceedings. [note: 23] Proof of French law would likely be necessary as the pre-nuptial agreement made references to the French Civil Code. Where the Wife contested her voluntariness in signing the pre-nuptial agreement, witnesses in France would also need to be called. As the Wife’s own French counsel conceded, the validity of the pre-nuptial agreement and the competence of the French notary who facilitated its making were not issues for adjudication 
 
@@ -169,7 +169,7 @@ entering an appearance and did not submit to the jurisdiction of the French cour
 
 matrimonial regime. [note: 27] It thus seemed that the Wife was pursuing concurrent divorce proceedings in _both_ France and Singapore. 
 
-23     Looking at the various factors in totality, France was clearly the more appropriate forum to hear this matter. While I agreed with the Wife that the parties’ residence in Singapore favoured the hearing of matters relating to custody of the son and maintenance in Singapore, the other factors in favour of France as the appropriate forum were overwhelming. I was reinforced in my decision by the statements made by Lee Seiu Kin JC in _Low Wing Hong Alvin v Kelso Sharon Leigh_ [1999] 3 SLR(R) 993 at [21]: 
+23     Looking at the various factors in totality, France was clearly the more appropriate forum to hear this matter. While I agreed with the Wife that the parties’ residence in Singapore favoured the hearing of matters relating to custody of the son and maintenance in Singapore, the other factors in favour of France as the appropriate forum were overwhelming. I was reinforced in my decision by the statements made by Lee Seiu Kin JC in _Low Wing Hong Alvin v Kelso Sharon Leigh_ <span class="citation">[1999] 3 SLR(R) 993</span> at [21]: 
 
  ... In my view it is more important that the same court consider and decide these matters [ ie , divorce and ancillary matters such as custody and access] than to divide the issues to be decided in separate courts simply because the assets are in another jurisdiction. ... 
 

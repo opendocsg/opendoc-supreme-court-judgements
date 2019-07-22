@@ -16,7 +16,7 @@
 
 _Tort_ – _Negligence_ – _Motor Accident_ – _Liability_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2012] SGHC 26.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2012] SGHC 26</span>.] 
 
 24 October 2012 
 
@@ -26,7 +26,7 @@ _Tort_ – _Negligence_ – _Motor Accident_ – _Liability_
 
 1       The Appellant was injured in a road traffic accident on 3 June 2009. He had collided with a minibus driven by the Respondent. The Appellant sued the Respondent, claiming damages. 
 
-2       In the court below, the trial judge (“the Judge”) found the Appellant 75% contributorily negligent (see _Thorben Langvad Linneberg v Leong Mei Kuen_ [2012] SGHC 26 (“the GD”)). Dissatisfied with the decision, the Appellant filed the present appeal, arguing that the Respondent had failed to prove any contributory negligence on his ( _viz_ , the Appellant’s) part. 
+2       In the court below, the trial judge (“the Judge”) found the Appellant 75% contributorily negligent (see _Thorben Langvad Linneberg v Leong Mei Kuen_ <span class="citation">[2012] SGHC 26</span> (“the GD”)). Dissatisfied with the decision, the Appellant filed the present appeal, arguing that the Respondent had failed to prove any contributory negligence on his ( _viz_ , the Appellant’s) part. 
 
 3       After hearing the parties’ arguments, we allowed the appeal, holding that the Respondent was 100% liable for the accident. We now set out the detailed grounds for our decision. 
 
@@ -78,11 +78,11 @@ minibus from the stationary position on the left lane to the right lane of the R
 
 13     First, we address the nature of appellate intervention in relation to a witness’ credibility. In the Singapore High Court decision of _Public Prosecutor v Wang Ziyi Able_ [2008] 2 SLR (R) 61, the court set out the two situations where an appellate court has access to the same material as the trial judge and so is in as good a position as the trial court to assess the veracity of the witness’ evidence. The two situations are where the assessment of the witness’ credibility is based on inferences drawn from the _internal consistency_ in the content of the witness’ testimony (“the Category 1 Situation”) or the _external consistency_ between the content of the witness’ evidence and the extrinsic evidence (“the Category 2 Situation”). 
 
-14     Further, in the recent decision of _Goh Sin Huat Electrical Pte Ltd v Ho See Jui (trading as Xuanhua Art Gallery) and another_ [2012] SGCA 32, this court set out its views as to appellate intervention (at [49], [55], but see generally [48]–[55] for a discussion on appellate review of apportionment of liability): 
+14     Further, in the recent decision of _Goh Sin Huat Electrical Pte Ltd v Ho See Jui (trading as Xuanhua Art Gallery) and another_ <span class="citation">[2012] SGCA 32</span>, this court set out its views as to appellate intervention (at [49], [55], but see generally [48]–[55] for a discussion on appellate review of apportionment of liability): 
 
- The basis for review of findings of fact in the Singapore context has been restated in Tat Seng Machine Movers Pte Ltd v Orix Leasing Singapore Ltd [2009] 4 SLR(R) 1101 (“ Tat Seng ”) at [41] where this Court stated as follows: 
+ The basis for review of findings of fact in the Singapore context has been restated in Tat Seng Machine Movers Pte Ltd v Orix Leasing Singapore Ltd <span class="citation">[2009] 4 SLR(R) 1101</span> (“ Tat Seng ”) at [41] where this Court stated as follows: 
 
- Given that this appeal largely involves the evaluation of the Judge’s finding of facts below, it is apposite that we remind ourselves of an appellate court’s role with respect to the finding of facts made in the course of a trial. The appellate court’s power of review with respect to finding of facts is limited because the trial judge is generally better placed to assess the veracity and credibility of witnesses, especially where oral evidence is concerned ( Seah Ting Soon v Indonesian Tractors Co Pte Ltd [2001] 1 SLR(R) 53 at [22]). However, this rule is not immutable. Where it can be established that the trial judge’s assessment is plainly wrong or against the weight of the evidence, the appellate court can and should overturn any such finding (see Alagappa Subramanian v Chidambaram s/o Alagappa [2003] SGCA 20 at [13] and Jagatheesan s/o Krishnasamy v PP [2006] 4 SLR(R) 45 at [34]–[36]). Furthermore, where a particular finding of fact is not based on the veracity or credibility of the witness, but instead, is based on an inference drawn from the facts or the evaluation of primary facts, the appellate court is in as good a position as the trial judge to undertake that exercise ( Tan Chin Seng v Raffles Town Club Pte Ltd [2003] 3 SLR(R) 307 at [54] and Ho Soo Fong v Standard Chartered Bank [2007] 2 SLR(R) 181 at [20]). In so doing, the appellate court will evaluate the cogency of the evidence given by the witnesses by testing it against inherent probabilities or against uncontroverted facts ( Peh Eng Leng v Pek Eng Leong [1996] 1 SLR(R) 939 at [22]). 
+ Given that this appeal largely involves the evaluation of the Judge’s finding of facts below, it is apposite that we remind ourselves of an appellate court’s role with respect to the finding of facts made in the course of a trial. The appellate court’s power of review with respect to finding of facts is limited because the trial judge is generally better placed to assess the veracity and credibility of witnesses, especially where oral evidence is concerned ( Seah Ting Soon v Indonesian Tractors Co Pte Ltd <span class="citation">[2001] 1 SLR(R) 53</span> at [22]). However, this rule is not immutable. Where it can be established that the trial judge’s assessment is plainly wrong or against the weight of the evidence, the appellate court can and should overturn any such finding (see Alagappa Subramanian v Chidambaram s/o Alagappa <span class="citation">[2003] SGCA 20</span> at [13] and Jagatheesan s/o Krishnasamy v PP <span class="citation">[2006] 4 SLR(R) 45</span> at [34]–[36]). Furthermore, where a particular finding of fact is not based on the veracity or credibility of the witness, but instead, is based on an inference drawn from the facts or the evaluation of primary facts, the appellate court is in as good a position as the trial judge to undertake that exercise ( Tan Chin Seng v Raffles Town Club Pte Ltd <span class="citation">[2003] 3 SLR(R) 307</span> at [54] and Ho Soo Fong v Standard Chartered Bank <span class="citation">[2007] 2 SLR(R) 181</span> at [20]). In so doing, the appellate court will evaluate the cogency of the evidence given by the witnesses by testing it against inherent probabilities or against uncontroverted facts ( Peh Eng Leng v Pek Eng Leong <span class="citation">[1996] 1 SLR(R) 939</span> at [22]). 
 
  Thus, a finding of fact is subject to appellate intervention where it is plainly wrong or unjustified by the totality of the evidence (“findings of fact test”). 
 
@@ -193,7 +193,7 @@ _Did the presence of damage here indicate that the Appellant was travelling at a
 33     The Judge was of the view that the damage was indicative of travelling at an excessive speed. In our view, however, the evidence with regard to damage was equivocal. We do not disagree that a motorcycle travelling at an excessive speed, crashing head first into a minibus, _could_ result in severe damage to the front of the motorcycle. However, it is also clear that in view of the size and structure of a motorcycle, it is possible that a motorcycle travelling at an acceptable speed _might also_ suffer severe damage if a head on collision occurred, _especially if there was insufficient time on the motorcyclist’s part to apply the brakes._ Indeed, such a scenario could have arisen in this case if the motorcycle was very close to the minibus when the minibus moved in front of the motorcycle. In such 
 
 
-a scenario, the motorcycle would still have crashed into the minibus _despite_ the motorcyclist having applied the brakes when he was travelling at a speed which was not excessive. The analogy can be made to the hypothetical situation set out in the Singapore High Court decision of _Ong Bee Nah v Won Siew Wan_ [2005] 2 SLR(R) 455 (“ _Ong Bee Nah_ ”), where the court was of the view that a driver would not be negligent in the scenario where a child had suddenly run across the road and was hit by the driver’s vehicle, if the child was in fact too close to the vehicle. 
+a scenario, the motorcycle would still have crashed into the minibus _despite_ the motorcyclist having applied the brakes when he was travelling at a speed which was not excessive. The analogy can be made to the hypothetical situation set out in the Singapore High Court decision of _Ong Bee Nah v Won Siew Wan_ <span class="citation">[2005] 2 SLR(R) 455</span> (“ _Ong Bee Nah_ ”), where the court was of the view that a driver would not be negligent in the scenario where a child had suddenly run across the road and was hit by the driver’s vehicle, if the child was in fact too close to the vehicle. 
 
 34     We would here again point to the dearth of further relevant evidence that would have allowed the court to better assess the present factual matrix. There was no expert evidence led to demonstrate that damage of the sort shown in the photographs could _only_ be caused by a motorcycle travelling above 50kmh. With regard to road traffic accident claims, the need for a practitioner to gather as much factual based evidence as possible in order to reduce the litigation risk to his client was emphasised in a recent article (see Jonathan Aspinall, “Knocked down twice” _New Law Journal_ , 22 June 2012, p 826) (“ _Aspinall_ ”)). In the article, the learned author states, with reference to the recent English Court of Appeal decision of _Rehill v Rider Holdings Limited_ [2012] EWCA Civ 628, as follows (see _Aspinall_ at p 827): 
 
@@ -205,7 +205,7 @@ a scenario, the motorcycle would still have crashed into the minibus _despite_ t
 
  [emphasis added in italics and bold italics] 
 
-35     We need only add that each case turns on its own facts, and, while we have stated that in this particular case expert evidence would have been helpful, it might not always be the case that expert evidence will assist the court (see, for example, the observations of the Singapore High Court in _Khoo Bee Keong v Ang Chun Hong_ [2005] SGHC 128 at [68]–[87]). The key question is whether the evidence concerned provides more clarity for the court, especially in situations where the evidence of the witnesses are vastly different and where the evidence is based on a litigant’s recollection of what is an extremely traumatic incident. 
+35     We need only add that each case turns on its own facts, and, while we have stated that in this particular case expert evidence would have been helpful, it might not always be the case that expert evidence will assist the court (see, for example, the observations of the Singapore High Court in _Khoo Bee Keong v Ang Chun Hong_ <span class="citation">[2005] SGHC 128</span> at [68]–[87]). The key question is whether the evidence concerned provides more clarity for the court, especially in situations where the evidence of the witnesses are vastly different and where the evidence is based on a litigant’s recollection of what is an extremely traumatic incident. 
 
 _Sufficient time to react_ 
 
@@ -266,7 +266,7 @@ Peck Hay Road: [note: 16]
 
 Lord du Parcq). 
 
-50     More pertinently, the Singapore courts have also considered the appropriate standard of care in road traffic accidents. For example, in the decision of _SBS Transit Ltd v Stafford Rosemary Anne Jane (administratrix of the estate of Anthony John Stafford, deceased)_ [2007] 2 SLR(R) 211 (“ _Stafford_ ”), this court observed as follows (at [32]–[34]): 
+50     More pertinently, the Singapore courts have also considered the appropriate standard of care in road traffic accidents. For example, in the decision of _SBS Transit Ltd v Stafford Rosemary Anne Jane (administratrix of the estate of Anthony John Stafford, deceased)_ <span class="citation">[2007] 2 SLR(R) 211</span> (“ _Stafford_ ”), this court observed as follows (at [32]–[34]): 
 
  Before considering the evidence as to what those circumstances were, we would like to expand on the following paragraph in the trial judge’s decision: 
 
@@ -274,7 +274,7 @@ Lord du Parcq).
 
  [T]here is in the absence of clear and compelling circumstances to the contrary no legal duty on a driver to slow down automatically each time he or she approaches a junction if there is no stop sign or (as is the case here) the lights are in his or her favour at a junction where traffic lights are present. [emphasis in original] 
 
- per Andrew Phang Boon Leong JC (as he then was) in Ong Bee Nah v Wong [sic] Siew Wan [2005] 2 SLR(R) 455 at [95]. 
+ per Andrew Phang Boon Leong JC (as he then was) in Ong Bee Nah v Wong [sic] Siew Wan <span class="citation">[2005] 2 SLR(R) 455</span> at [95]. 
 
  We fully agree with the learned judge that the law requires the motorist to act on the basis that there may be negligence and incompetence on the part of other road users and to make allowance for them , but without having to contemplate possibilities that are remote. As Lord Macmillan had observed in Fardon v Harcourt-Rivington [1932] All ER Rep 81 at 84: 
 
@@ -312,7 +312,7 @@ Lord du Parcq).
  The above observations constitute wise counsel indeed, and are sound not only in law but are 
 
 
- grounded in moral fairness and practical common sense. Not surprisingly, therefore, they find application in the local context (see, for example, the Singapore High Court decision of Ng Swee Eng v Ang Oh Chuan [2002] 2 SLR(R) 321). 
+ grounded in moral fairness and practical common sense. Not surprisingly, therefore, they find application in the local context (see, for example, the Singapore High Court decision of Ng Swee Eng v Ang Oh Chuan <span class="citation">[2002] 2 SLR(R) 321</span>). 
 
  What counsel for the defendant was arguing for was, in effect, a blanket rule to the effect that all drivers were under a legal duty to slow down when approaching a traffic junction, regardless of the circumstances concerned and even where the traffic lights were in their favour. This would be most impractical and inefficient where there is otherwise no reasonable apprehension of danger. To reiterate the wise counsel of Lord Dunedin (above at [97]), “people must guard against reasonable probabilities, but they are not bound to guard against fantastic possibilities”. Everything does ultimately, therefore, depend on the specific facts (see also Charlesworth & Percy on Negligence (Sweet & Maxwell, 10th Ed, 2001) at para 9-193); and it is from this interactive relationship between the law and the facts that a fair and just result emerges. 
 
@@ -502,7 +502,7 @@ _Counsel of perfection_
 
  [emphasis added in italics and bold italics] 
 
-78     In _Public Prosecutor v Tubbs Julia Elizabeth_ [2001] 2 SLR(R) 716 (“ _Tubbs Julia Elizabeth_ ”), Yong Pung How CJ observed (albeit in the context of a charge under s 304A of the Penal Code (Cap 224, 1985 Rev Ed) for causing the death of three persons in a motor accident by doing a negligent act) as 
+78     In _Public Prosecutor v Tubbs Julia Elizabeth_ <span class="citation">[2001] 2 SLR(R) 716</span> (“ _Tubbs Julia Elizabeth_ ”), Yong Pung How CJ observed (albeit in the context of a charge under s 304A of the Penal Code (Cap 224, 1985 Rev Ed) for causing the death of three persons in a motor accident by doing a negligent act) as 
 
 
 follows (at [45]): 
@@ -677,7 +677,7 @@ Shah J (as he then was) in the Malaysian High Court decision of _Govinda Raju v 
 
  [emphasis added in italics and in bold italics] 
 
-102    In the Singapore High Court decision of _See Soon Soon v Goh Yong Kwang and another_ [1992] 1 SLR(R) 535, a case where a medical officer was knocked down by a lorry, Chan Sek Keong J (as he was then) discussed the principle of the “agony of the moment”, as follows (at [20]): 
+102    In the Singapore High Court decision of _See Soon Soon v Goh Yong Kwang and another_ <span class="citation">[1992] 1 SLR(R) 535</span>, a case where a medical officer was knocked down by a lorry, Chan Sek Keong J (as he was then) discussed the principle of the “agony of the moment”, as follows (at [20]): 
 
  Counsel also raised the defence of “agony of the moment”. He cited a number of authorities to show that a person who has acted in the agony of the moment should not be wholly blamed for the consequences of his act to save someone else or himself from injury. Here, the first defendant swerved to the left to avoid hitting the bus and injuring or killing the passengers in the bus. In my view, this defence is not relevant here as the evidence shows that it was not the bus driver but the first defendant who was responsible for placing himself in a position where he had to agonise what to do. 
 

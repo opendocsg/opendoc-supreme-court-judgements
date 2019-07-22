@@ -167,7 +167,7 @@ brochures for the Lassez Product (“the second category of alleged infringement
 
  there exists a likelihood of confusion on the part of the public. 
 
-25     As held by the Court of Appeal in _The Polo/Lauren Co, LP v Shop In Department Store Pte Ltd_ [2006] 2 SLR(R) 690 (“ _The Polo_ ”) at [6], to succeed in claim under s 27(2)( _b_ ) of the TMA, a plaintiff has to show: 
+25     As held by the Court of Appeal in _The Polo/Lauren Co, LP v Shop In Department Store Pte Ltd_ <span class="citation">[2006] 2 SLR(R) 690</span> (“ _The Polo_ ”) at [6], to succeed in claim under s 27(2)( _b_ ) of the TMA, a plaintiff has to show: 
 
  (a) First, that the sign of the defendant is similar to the plaintiff’s mark; 
 
@@ -184,11 +184,11 @@ brochures for the Lassez Product (“the second category of alleged infringement
 
 _Whether the Allegedly Infringing Signs are similar to the LATISSE mark_ 
 
-28     The proper approach to the assessment of the similarity between an allegedly infringing sign and a registered mark (“the similarity of marks inquiry”) was summarised by the Court of Appeal in _Hai Tong Co (Pte) Ltd v Ventree Singapore Pte Ltd and another and another appeal_ [2013] 2 SLR 941 (“ _Hai Tong_ ”) at [40]. The court will consider the visual, aural and conceptual similarities between the mark and the sign. The relative significance of such similarities will depend on the facts of the case, including the nature of goods and types of marks involved. 
+28     The proper approach to the assessment of the similarity between an allegedly infringing sign and a registered mark (“the similarity of marks inquiry”) was summarised by the Court of Appeal in _Hai Tong Co (Pte) Ltd v Ventree Singapore Pte Ltd and another and another appeal_ <span class="citation">[2013] 2 SLR 941</span> (“ _Hai Tong_ ”) at [40]. The court will consider the visual, aural and conceptual similarities between the mark and the sign. The relative significance of such similarities will depend on the facts of the case, including the nature of goods and types of marks involved. 
 
 29     It is well established that no single aspect of similarity is always sufficient or necessary for an ultimate finding of similarity between the mark and the sign. The marks or signs will be assessed “mark for mark”, without taking extraneous matters into account. The court will adopt the viewpoint of the average consumer who exercises some care and a measure of good sense in making purchases, not that of an unthinking person in a hurry. The courts have also recognised that it is usually appropriate to take into account the fact that the average consumer has imperfect recollection. It will, in appropriate cases, pay particular attention to the dominant features of the marks or signs on the perception of the average consumer. 
 
-30     Further, as was held in _Rovio Entertainment Ltd v Kimanis Food Industries Sdn Bhd_ [2015] SGHC 216 (“ _Rovio Entertainment_ ”) at [77], the similarity of marks inquiry is “more a matter of feel than science”. To this end, the comment of the Court of Appeal in _Staywell Hospitality Group Pty Ltd v Starwood Hotels & Resorts Worldwide, Inc and another and another appeal_ [2014] 1 SLR 911 (“ _Staywell_ ”) at [17] bears repeating: the comparison between the marks is “ultimately and inevitably a matter of impression rather than one that can be resolved as a quantitative or mechanistic exercise”. 
+30     Further, as was held in _Rovio Entertainment Ltd v Kimanis Food Industries Sdn Bhd_ <span class="citation">[2015] SGHC 216</span> (“ _Rovio Entertainment_ ”) at [77], the similarity of marks inquiry is “more a matter of feel than science”. To this end, the comment of the Court of Appeal in _Staywell Hospitality Group Pty Ltd v Starwood Hotels & Resorts Worldwide, Inc and another and another appeal_ <span class="citation">[2014] 1 SLR 911</span> (“ _Staywell_ ”) at [17] bears repeating: the comparison between the marks is “ultimately and inevitably a matter of impression rather than one that can be resolved as a quantitative or mechanistic exercise”. 
 
 31     I will begin by considering who the “average consumer” in the present case is. I will then consider the three aspects of the similarity of marks inquiry, before coming to a conclusion on whether the Allegedly Infringing Signs are similar to the LATISSE mark. 
 
@@ -219,12 +219,12 @@ prescription before sale and may, in theory, be sold in supermarkets. [note: 26]
 
 Aural similarity 
 
-39     Parties disagree over how “Latisse” and “Lassez” should be pronounced and whether they are aurally similar. The Plaintiffs argue that the words should be pronounced as “lah-tees” and “lah-sees” respectively. The first syllables are aurally identical, while the second syllables are aurally similar, resulting in overall similarity. In particular, the Plaintiffs emphasize the similarity in the first syllable of “Latisse” and “Lassez”, citing _Johnson & Johnson v Uni-Charm Kabushiki Kasisha (Uni-Char Corp)_ [2007] 1 SLR(R) 1082 (at [11]) for the proposition that “the first syllable of a mark is most important as there is a ‘tendency for persons using the English language to slur the termination of words’”. 
+39     Parties disagree over how “Latisse” and “Lassez” should be pronounced and whether they are aurally similar. The Plaintiffs argue that the words should be pronounced as “lah-tees” and “lah-sees” respectively. The first syllables are aurally identical, while the second syllables are aurally similar, resulting in overall similarity. In particular, the Plaintiffs emphasize the similarity in the first syllable of “Latisse” and “Lassez”, citing _Johnson & Johnson v Uni-Charm Kabushiki Kasisha (Uni-Char Corp)_ <span class="citation">[2007] 1 SLR(R) 1082</span> (at [11]) for the proposition that “the first syllable of a mark is most important as there is a ‘tendency for persons using the English language to slur the termination of words’”. 
 
 40     The issue as to whether the marks are aurally similar is a question of fact and judgment for the 
 
 
-court. In my view, there is some aural similarity between “Latisse” and “Lassez”. The evidence led by the Defendant regarding the French pronunciation of “Lassez” is of no direct relevance to the present case, for what must be ascertained is how the Singaporean consumer (whether medical professionals or end-users) will pronounce “Latisse” and “Lassez”: _Sarika Connoisseur Café Pte Ltd v Ferrero SpA_ [2013] 1 SLR 531 (“ _Sarika_ ”) at [30]. I have not been provided sufficient evidence to persuade me that the degree of slippage from French to English is so high that the Singaporean consumer would pronounce “Lassez” according to the French pronunciation. 
+court. In my view, there is some aural similarity between “Latisse” and “Lassez”. The evidence led by the Defendant regarding the French pronunciation of “Lassez” is of no direct relevance to the present case, for what must be ascertained is how the Singaporean consumer (whether medical professionals or end-users) will pronounce “Latisse” and “Lassez”: _Sarika Connoisseur Café Pte Ltd v Ferrero SpA_ <span class="citation">[2013] 1 SLR 531</span> (“ _Sarika_ ”) at [30]. I have not been provided sufficient evidence to persuade me that the degree of slippage from French to English is so high that the Singaporean consumer would pronounce “Lassez” according to the French pronunciation. 
 
 41     Accordingly, I find that “Latisse” and “Lassez” are aurally similar. 
 
@@ -282,7 +282,7 @@ dentrifrices” [emphasis added]. [note: 36]
 55     I accept that the Lassez Product is in broad terms a cosmetic product, and not a pharmaceutical one. However, that is not conclusive of the matter. Products falling within different Nice Classifications may still be _similar_ ( _Staywell_ at [43]; Ng-Loy Wee Loon, _Law of Intellectual Property of Singapore_ (Sweet & Maxwell, 2nd Ed, 2014) (“ _Ng-Loy Wee Loon_ ”) at para 21.5.23). 
 
 
-Additionally, in _Clinique Laboratories, LLC v Clinique Suisse Pte Ltd and another_ [2010] 4 SLR 510 (“ _Clinique_ ”) at [28], the court recognised that there was a “convergence between the cosmetic care and medical industries which had resulted in both industries competing for the same group of consumers”. 
+Additionally, in _Clinique Laboratories, LLC v Clinique Suisse Pte Ltd and another_ <span class="citation">[2010] 4 SLR 510</span> (“ _Clinique_ ”) at [28], the court recognised that there was a “convergence between the cosmetic care and medical industries which had resulted in both industries competing for the same group of consumers”. 
 
 56     Accordingly, the Lassez Product’s status as a cosmetic product that does not require a prescription and the Latisse Product’s status as a pharmaceutical product available only on prescription cannot be conclusive of whether the goods are similar. The court must proceed to consider the usual factors to determine the similarity of goods. This includes (but is not limited to) the uses, users and the trade channels through which the goods reach the market and the extent to which the goods are competitive: _British Sugar plc v James Robertson & Sons Ltd_ [1996] RPC 281(“ _British Sugar_ ) at 296—296; _Hai Tong_ at [92]. 
 
@@ -392,7 +392,7 @@ Chen at Ageless Aesthetic showed both products displayed side-by-side in the cab
 
 83     Looking at the evidence on the whole, I am of the view that end-users may have a significant degree of involvement in the selection process of their eyelash growth-enhancing product. In coming to this view, I am aware that no evidence has been led as to the proportion of end-users who ask clinic staff for eyelash growth-enhancing products directly (as opposed to seeing a doctor directly). Mr Poh only testified to “some” such end-users. However, there has been no suggestion by the Defendant that such end-users are uncommon or are effectively _de minimis_. 
 
-84     In this regard, I remain mindful of the warning in _Nation Fittings (M) Sdn Bhd v Oystertec plc and another suit_ [2006] 1 SLR(R) 712 (“ _Nation Fittings_ ”) at [103]. In _Nation Fittings_ , the court had to decide whether the “average consumer” of the pipe fittings was the general public, or plumbers and contractors. In arguing that the “average consumer” included the general public, counsel pointed to individual consumers with a “do-it-yourself” spirit. In rejecting counsel’s argument, the court held that even if some of those customers were misled, these would have been isolated events and accordingly those customers could not be identified as “average consumers”. 
+84     In this regard, I remain mindful of the warning in _Nation Fittings (M) Sdn Bhd v Oystertec plc and another suit_ <span class="citation">[2006] 1 SLR(R) 712</span> (“ _Nation Fittings_ ”) at [103]. In _Nation Fittings_ , the court had to decide whether the “average consumer” of the pipe fittings was the general public, or plumbers and contractors. In arguing that the “average consumer” included the general public, counsel pointed to individual consumers with a “do-it-yourself” spirit. In rejecting counsel’s argument, the court held that even if some of those customers were misled, these would have been isolated events and accordingly those customers could not be identified as “average consumers”. 
 
 85     However, the court’s ruling in _Nation Fittings_ must be seen in light of evidence given by a witness in that case that 99% of sales of the product concerned were to plumbers and contractors, as opposed to the individual consumer. There is no similar suggestion in the present case that endusers who ask clinic staff for eyelash growth-enhancing products themselves (without a prior prescription) are in such minority. Additionally, I also note the possibility that end-users who see the doctors directly and receive their prescription may again be faced with the Latisse Product and Lassez Product when they proceed to purchase their medication from the pharmacist (as was the case in _Alcon (2007)_ as discussed at [74] above), especially given the evidence that Ageless Aesthetic displayed both products side-by-side. Accordingly, in light of the significant involvement end-users have in the selection process of the products, I find that end-users are included in the “average consumer” analysis. 
 
@@ -546,7 +546,7 @@ some 4 pages. The main body sets out two charts or graphs. The second chart, ent
 
 _Use in a trade mark sense_ 
 
-123    A requirement of trade mark infringement is that “the infringing use must be of a trade mark use”: _City Chain Stores (S) Pte Ltd v Louis Vuitton Malletier_ [2010] 1 SLR 382 (“ _City Chain_ ”) at [36]. The Defendant argues that its use of the LATISSE mark in its promotional brochures (reproduced at [151] below) was not use in a trade mark sense as the LATISSE mark was used to refer to various aspects of the Latisse Product, and not as an indicator of the origins of the Defendant’s goods. 
+123    A requirement of trade mark infringement is that “the infringing use must be of a trade mark use”: _City Chain Stores (S) Pte Ltd v Louis Vuitton Malletier_ <span class="citation">[2010] 1 SLR 382</span> (“ _City Chain_ ”) at [36]. The Defendant argues that its use of the LATISSE mark in its promotional brochures (reproduced at [151] below) was not use in a trade mark sense as the LATISSE mark was used to refer to various aspects of the Latisse Product, and not as an indicator of the origins of the Defendant’s goods. 
 
 124    Section 27(4)( _e_ ) of the TMA provides that a person “uses” a sign if he uses it for advertising. The promotional brochures, in this case, by their nature, must be for advertising. The Defendant has not suggested otherwise. Indeed, such a suggestion will be inconsistent with (what appears to be) the Defendant’s primary argument in this regard: that the Defendant may rely on the defence of comparative _advertising_. 
 
@@ -715,7 +715,7 @@ sense. The Defendant cannot avail itself of the comparative advertising defence 
 
 **_Whether the Plaintiffs have goodwill attached to the goods and services that they provide_** 
 
-167    The Court of Appeal in _Novelty Pte Ltd v Amanresorts Ltd and Another_ [2009] 3 SLR 216 (“ _Amanresorts_ ”) identified the following two essential features of goodwill: 
+167    The Court of Appeal in _Novelty Pte Ltd v Amanresorts Ltd and Another_ <span class="citation">[2009] 3 SLR 216</span> (“ _Amanresorts_ ”) identified the following two essential features of goodwill: 
 
  First, it is the association of a good, service or business on which the plaintiff’s mark, name, labelling, etc (referred to generally as the plaintiff’s “get-up”) has been applied with a particular source. Second, this association is “an attractive force which brings in custom”. 
 
@@ -725,7 +725,7 @@ sense. The Defendant cannot avail itself of the comparative advertising defence 
 
 first brought the Lassez Product into Singapore and began promoting it to doctors. [note: 88] 
 
-169    The Court of Appeal in _Singsung Pte Ltd v LG 26 Electronics Pte Ltd (trading as L S Electrical Trading)_ [2016] SGCA 33 (“ _Singsung_ ”) made a number of important clarifications on the concept of goodwill. I note that this decision was handed down after the parties had made their submissions. I will begin with some brief remarks on the concept of goodwill, as outlined by the Court of Appeal in _Singsung_. 
+169    The Court of Appeal in _Singsung Pte Ltd v LG 26 Electronics Pte Ltd (trading as L S Electrical Trading)_ <span class="citation">[2016] SGCA 33</span> (“ _Singsung_ ”) made a number of important clarifications on the concept of goodwill. I note that this decision was handed down after the parties had made their submissions. I will begin with some brief remarks on the concept of goodwill, as outlined by the Court of Appeal in _Singsung_. 
 
 170    Goodwill is the legal property protected by the law of passing off. Goodwill in the context of passing off is not goodwill in the mark, logo or get-up as such. Instead, goodwill is the trading relationship with his customers. Viewed from this perspective, passing off is concerned with goodwill in the business as a whole and not its constituent elements such as the mark, logo or get-up that it uses. 
 
@@ -797,7 +797,7 @@ Aesthetics, offered the Lassez Product for sale to end-users. [note: 104]
 
 _Intentions of Mr Lee_ 
 
-185    A likelihood of confusion can be more easily established if the defendant is found to have intended to cause such confusion: _Singsung_ at [54]; _The Singapore Professional Golfers’ Association v Chen Eng Waye and others_ [2013] 2 SLR 495 at [41]. Such fraudulent intention must be proven by evidence. The nature of such evidence is explained in Christopher Wadlow, _The Law of Passing-Off: Unfair Competition by Misrepresentation_ (Sweet & Maxwell, 4th Ed, 2011) (“ _Wadlow’s Law of PassingOff_ ”) at para 5-063—5-064 as follows: 
+185    A likelihood of confusion can be more easily established if the defendant is found to have intended to cause such confusion: _Singsung_ at [54]; _The Singapore Professional Golfers’ Association v Chen Eng Waye and others_ <span class="citation">[2013] 2 SLR 495</span> at [41]. Such fraudulent intention must be proven by evidence. The nature of such evidence is explained in Christopher Wadlow, _The Law of Passing-Off: Unfair Competition by Misrepresentation_ (Sweet & Maxwell, 4th Ed, 2011) (“ _Wadlow’s Law of PassingOff_ ”) at para 5-063—5-064 as follows: 
 
 
  ... the evidence normally consists of circumstances which are inconsistent with any honest intention and inexplicable except as part of a scheme to deceive. These are conventionally known as “badges of fraud”, and are most commonly found in the name or mark itself. If the defendant has no plausible reason for adopting it, and especially if resemblances with the claimant’s seem deliberately close, intention to deceive may be inferred. ... 
@@ -924,7 +924,7 @@ related field of activity.
 
 _Blurring_ 
 
-210    Blurring occurs when a plaintiff’s get-up becomes indicative of the defendant’s goods or services, resulting in a diversion of sales from the plaintiff to the defendant: _Amanresorts_ at [97]. A likelihood of blurring is readily inferred where parties are in direct competition with each other: _Tong Guan Food Products Pte Ltd v Hoe Huat Hng Foodstuff Pte Ltd_ [1991] 1 SLR(R) 903 at [31]. In the present case, I have found the Latisse Product and the Lassez Product to be in competition. Accordingly, I find that blurring will likely result from the Defendant’s misrepresentation. In any case, even if the Latisse and Lassez products are not in reality in direct competition (because Lassez is a non-prescription product), there may still be damage by restriction on expansion into related fields of activity. 
+210    Blurring occurs when a plaintiff’s get-up becomes indicative of the defendant’s goods or services, resulting in a diversion of sales from the plaintiff to the defendant: _Amanresorts_ at [97]. A likelihood of blurring is readily inferred where parties are in direct competition with each other: _Tong Guan Food Products Pte Ltd v Hoe Huat Hng Foodstuff Pte Ltd_ <span class="citation">[1991] 1 SLR(R) 903</span> at [31]. In the present case, I have found the Latisse Product and the Lassez Product to be in competition. Accordingly, I find that blurring will likely result from the Defendant’s misrepresentation. In any case, even if the Latisse and Lassez products are not in reality in direct competition (because Lassez is a non-prescription product), there may still be damage by restriction on expansion into related fields of activity. 
 
 _Tarnishment_ 
 
@@ -959,7 +959,7 @@ _Conclusion on the likelihood of damage_
 
 May 2012. [note: 125] TMC is a customer of the Second Plaintiff. Mr Lee’s distribution of the FDA Letter to TMC gives rise to the Plaintiffs’ claim in malicious falsehood. 
 
-217    The elements of a claim in malicious falsehood are usefully summarised in _WBG Network (Singapore) Pte Ltd v Meridian Life International Pte Ltd and others_ [2008] 4 SLR(R) 727 (at [68]) as follows: 
+217    The elements of a claim in malicious falsehood are usefully summarised in _WBG Network (Singapore) Pte Ltd v Meridian Life International Pte Ltd and others_ <span class="citation">[2008] 4 SLR(R) 727</span> (at [68]) as follows: 
 
  Under the common law, a claim in malicious falsehood succeeds upon proof: 
 
@@ -1035,7 +1035,7 @@ to confirm that the matter was closed. [note: 131] On the other hand, if the Def
 
 **_Whether the false statement was published maliciously_** 
 
-232    Malice bears a similar meaning in the torts of malicious falsehood and defamation: Gary Chan Kok Yew and Lee Pey Woan, _The Law of Torts in Singapore_ (Academy Publishing, 2nd Ed, 2016) at para 14.002. As explained in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ [2012] 1 SLR 506 at [90], malice may be proven in two ways: 
+232    Malice bears a similar meaning in the torts of malicious falsehood and defamation: Gary Chan Kok Yew and Lee Pey Woan, _The Law of Torts in Singapore_ (Academy Publishing, 2nd Ed, 2016) at para 14.002. As explained in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ <span class="citation">[2012] 1 SLR 506</span> at [90], malice may be proven in two ways: 
 
  (a) The defendant’s knowledge of falsity, recklessness, or lack of belief in the defamatory statement; and 
 
@@ -1062,7 +1062,7 @@ about the Latisse Product and the side effects. [note: 135] I accordingly would 
 
 **_Whether the false statement is calculated to cause pecuniary damage_** 
 
-236    I now turn to the question of whether the FDA Letter was calculated to cause pecuniary damage to the Plaintiffs. The phrase “calculated to” in s 6(1)(a) of the Defamation Act means “likely to produce the result”: _Low Tuck Kwong v Sukamto Sia_ [2014] 1 SLR 639 at [112]. 
+236    I now turn to the question of whether the FDA Letter was calculated to cause pecuniary damage to the Plaintiffs. The phrase “calculated to” in s 6(1)(a) of the Defamation Act means “likely to produce the result”: _Low Tuck Kwong v Sukamto Sia_ <span class="citation">[2014] 1 SLR 639</span> at [112]. 
 
 237    In my view, the FDA Letter is likely to cause pecuniary damage to the Plaintiffs as it alleges that the First Plaintiff’s promotional materials are misleading. It is likely to cause some readers to stop buying or asking for the Plaintiffs’ products, both because of concerns about the risks of using the Latisse Product specifically, and about the candour of the First Plaintiff’s advertising and risk disclosure generally. Mr Poh, the Defendant’s witness and a former drug dispenser, agreed that he 
 

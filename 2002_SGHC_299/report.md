@@ -135,12 +135,12 @@ _The law_
 
  No judgment, sentence or order of a District Court or Magistrate’s Court shall be reversed or set aside unless it is shown to the satisfaction of the High Court that the judgment, acquittal, sentence or order was either wrong in law or against the weight of the evidence , or, in the case of a sentence, manifestly excessive or inadequate in the circumstances of the case. [Emphasis added.] 
 
-In _Lim Ah Poh v PP_ [1992] 1 SLR 713, FA Chua J stated: 
+In _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span>, FA Chua J stated: 
 
  An appellate court will not disturb findings of fact unless they are clearly reached against the weight of the evidence. In examining the evidence, an appellate court has always to bear in mind that it has neither seen nor heard t he witnesses and has to pay due regard to the trial judges’ findings and their reasons therefor. [Emphasis added.] 
 
 
-29     I endorsed this principle in an entire line of subsequent cases: see for example _Shamsul bin Abdullah v PP_ (MA No. 145/2002), _Chua Yong Khiang Melvin v PP_ [1999] 4 SLR 87, _Soh Yang Tick v PP_ [1998] 2 SLR 42 and _Sundara Moorthy Lankatharan v PP_ [1997] 3 SLR 464. In _Soh Yang Tick v PP_ , I held, specifically in relation to situations where findings of fact depend on the credibility and veracity of witnesses, that an appellate court should be reluctant to overturn the trial judge’s findings. This is simply because the appellate court is in a less advantageous position as compared to the trial judge, who has had the benefit of hearing the evidence of the witnesses in full, and observing their demeanour. I then summarised the effect of the governing jurisprudence as follows: 
+29     I endorsed this principle in an entire line of subsequent cases: see for example _Shamsul bin Abdullah v PP_ (MA No. 145/2002), _Chua Yong Khiang Melvin v PP_ <span class="citation">[1999] 4 SLR 87</span>, _Soh Yang Tick v PP_ <span class="citation">[1998] 2 SLR 42</span> and _Sundara Moorthy Lankatharan v PP_ <span class="citation">[1997] 3 SLR 464</span>. In _Soh Yang Tick v PP_ , I held, specifically in relation to situations where findings of fact depend on the credibility and veracity of witnesses, that an appellate court should be reluctant to overturn the trial judge’s findings. This is simply because the appellate court is in a less advantageous position as compared to the trial judge, who has had the benefit of hearing the evidence of the witnesses in full, and observing their demeanour. I then summarised the effect of the governing jurisprudence as follows: 
 
  The upshot of these cases is that factual findings of fact [ sic ] are prima facie correct and will not be lightly disturbed in the absence of good reasons. To do so would be contrary to the function of an appellate court, for its duties lie in correcting errors, and not in the reviewing of facts. 
 
@@ -159,7 +159,7 @@ _The grounds of appeal_
 34     As to Yu’s inability to recall where he and the appellant went after the Duxton Road meetings, I found that the district judge had directed her mind to this aspect of his testimony too. She noted that the payments stretched over almost a year, and that ‘in such circumstances, it was reasonable that Mr Yu could not remember where exactly they went to after meeting up at Duxton 
 
 
-Road.’ As the DPP submitted in his written arguments, even if this were an issue, it was not material to the commission of the offence. The DPP cited the following passage from _Ng Chiew Kiat v PP_ [2000] 1 SLR 370, where I stated: 
+Road.’ As the DPP submitted in his written arguments, even if this were an issue, it was not material to the commission of the offence. The DPP cited the following passage from _Ng Chiew Kiat v PP_ <span class="citation">[2000] 1 SLR 370</span>, where I stated: 
 
  ... the mere fact that the complainant was unable to say with certainty when the offences took place would not without more render her entire testimony unreliable. Unlike the appellate court, the district judge had the advantage of observing the complainant’s demeanour at the stand as she gave her evidence. She found her to be a truthful witness. Having perused the records of appeal thoroughly, I could not say that the district judge was plainly wrong in her assessment of the veracity of the complainant. As such, I would not interfere with her findings. 
 
@@ -234,7 +234,7 @@ _Conclusion on the appeal against conviction_
 
  not be punished with the punishment of more than one of such his offences, unless it be so expressly provided. 
 
-46     In support of this contention, counsel cited my judgment in _Zeng Guoyuan v PP (No. 2)_ [1997] 3 SLR 883. Relying, in the main, on these authorities, counsel sought to persuade me that the appellant’s receipt of the bribe monies on nine different occasions really constituted the reward for a single act of recommending the charter of the Da Fu to Sea Consortium. 
+46     In support of this contention, counsel cited my judgment in _Zeng Guoyuan v PP (No. 2)_ <span class="citation">[1997] 3 SLR 883</span>. Relying, in the main, on these authorities, counsel sought to persuade me that the appellant’s receipt of the bribe monies on nine different occasions really constituted the reward for a single act of recommending the charter of the Da Fu to Sea Consortium. 
 
 47     I found that this argument had no merit whatsoever. This was not a case where s 71(1) was applicable. In the premises, counsel’s argument that the district judge would have imposed a lesser sentence had she been apprised of s 71(1) was wishful thinking on his part. She was entitled in law to sentence the appellant to a total of 10 months’ imprisonment for the nine amended charges, and in my view she had correctly exercised her discretion to do so. The total gratification received by the appellant, amounting to US$90,377, was not a paltry figure. 
 

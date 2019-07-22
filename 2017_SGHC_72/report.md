@@ -24,7 +24,7 @@ _Tort_ – _Conspiracy_ – _Unlawful means conspiracy_
 
 [LawNet Editorial Note: The appeal to this decision in Civil Appeal No 160 of 2016 was allowed in part while the appeal in Civil Appeal No 47 of 2017 was dismissed by the Court of Appeal on 1 December 
 
-2017\. See [2017] SGCA 68.] 
+2017\. See <span class="citation">[2017] SGCA 68</span>.] 
 
 6 April 2017 
 
@@ -270,13 +270,13 @@ Goh PK [note: xxi] and during closing submissions. [note: xxii] It appeared that
 
  (g) Goh PK also referred to and used the Clinic Information in the course of treating former Orchard Clinic patients who saw him at GPK Clinic. 
 
-42     The elements that have to be satisfied for an action in breach of confidence are: (a) the information must possess the necessary quality of confidentiality; (b) the information must have been imparted (or received) in circumstances importing an obligation of confidence; and (c) there must be an unauthorized use of that information to the detriment of the party from whom the information originated (see _Clearlab SG Pte Ltd v Ting Chong Chai and others_ [2015] 1 SLR 163 at [64]; _Invenpro (M) Sdn Bhd v JCS Automation Pte Ltd and another_ [2014] 2 SLR 1045 at [129]). 
+42     The elements that have to be satisfied for an action in breach of confidence are: (a) the information must possess the necessary quality of confidentiality; (b) the information must have been imparted (or received) in circumstances importing an obligation of confidence; and (c) there must be an unauthorized use of that information to the detriment of the party from whom the information originated (see _Clearlab SG Pte Ltd v Ting Chong Chai and others_ <span class="citation">[2015] 1 SLR 163</span> at [64]; _Invenpro (M) Sdn Bhd v JCS Automation Pte Ltd and another_ <span class="citation">[2014] 2 SLR 1045</span> at [129]). 
 
 43     There was no doubt that the Clinic Information was confidential in nature (see [41(c)] above). It was also clear that the Clinic Information belonged to CLAM. Goh PK was entitled to have access to the information by virtue of his position as a doctor employed by CLAM and as a _de facto_ director of CLAM. However, he did not have, and Clause 10 did not give him, the right to copy the Clinic Information and use the same for purposes of GPK Clinic without permission, even if it was for purposes of being able to follow up on his patients’ treatments. Whenever a former patient of his from Orchard Clinic went to see him at GPK Clinic, Goh PK had to request Orchard Clinic to transfer the patient’s records to GPK Clinic after obtaining the patient’s consent to do so. 
 
 44     In the circumstances, Goh PK, who possessed the Clinic Information, owed a duty of confidence to CLAM and he breached this duty by using the Clinic Information for the purposes of GPK Clinic. 
 
-45     As Goh PK was a director of GPKPL, Goh PK’s state of mind and knowledge was attributed to GPKPL: see _Ho Kang Peng v Scintronix Corp Ltd (formerly known as TTL Holdings Ltd)_ [2014] 3 SLR 329 at [47]–[48]. GPKPL was therefore also subject to a duty of confidence with respect to the Clinic Information. GPKPL breached this duty when the Clinic Information was used for the purposes of GPK Clinic. 
+45     As Goh PK was a director of GPKPL, Goh PK’s state of mind and knowledge was attributed to GPKPL: see _Ho Kang Peng v Scintronix Corp Ltd (formerly known as TTL Holdings Ltd)_ <span class="citation">[2014] 3 SLR 329</span> at [47]–[48]. GPKPL was therefore also subject to a duty of confidence with respect to the Clinic Information. GPKPL breached this duty when the Clinic Information was used for the purposes of GPK Clinic. 
 
 46     As for Wong, she did not work at CLAM or Orchard Clinic. It was not disputed that she was informed of Goh PK’s actions after he had carried them out and that she did not object to any of these actions or take any steps to prevent them. I accepted Wong’s evidence that she had no 
 
@@ -291,9 +291,9 @@ confidentiality against her.
 
 **Whether Goh PK, Wong and CPKPL conspired with intent to injure CLAM by unlawful means** 
 
-48     The elements of unlawful means conspiracy are as follows: (a) there must be a combination of two or more persons to do certain acts; (b) the alleged conspirators must have the intention to cause damage or injury to the plaintiff by those acts; (c) the acts must be unlawful; (d) the acts must be performed in furtherance of the agreement; and (e) the plaintiff must have suffered loss as a result of the conspiracy ( _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ [2014] 1 SLR 860 at [112]). 
+48     The elements of unlawful means conspiracy are as follows: (a) there must be a combination of two or more persons to do certain acts; (b) the alleged conspirators must have the intention to cause damage or injury to the plaintiff by those acts; (c) the acts must be unlawful; (d) the acts must be performed in furtherance of the agreement; and (e) the plaintiff must have suffered loss as a result of the conspiracy ( _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ <span class="citation">[2014] 1 SLR 860</span> at [112]). 
 
-49     A company may conspire with its director even if the director in question is the alter ego of the company and the agreement or combination between the company and the director is established by attributing the director’s mental state to the company: _The Wellness Group Pte Ltd and another v OSIM International Ltd and others and another suit_ [2016] 3 SLR 729 at [209], citing Gary Chan Kok Yew and Lee Pey Woan, _The Law of Torts in Singapore_ (Academy Publishing, 2nd Ed, 2016) at para 15.056. 
+49     A company may conspire with its director even if the director in question is the alter ego of the company and the agreement or combination between the company and the director is established by attributing the director’s mental state to the company: _The Wellness Group Pte Ltd and another v OSIM International Ltd and others and another suit_ <span class="citation">[2016] 3 SLR 729</span> at [209], citing Gary Chan Kok Yew and Lee Pey Woan, _The Law of Torts in Singapore_ (Academy Publishing, 2nd Ed, 2016) at para 15.056. 
 
 50     In view of my earlier findings, I concluded that Goh PK and GPKPL had conspired to injure CLAM by means of the breach of confidentiality, and I dismissed the conspiracy claim against Wong. 
 
@@ -305,7 +305,7 @@ confidentiality against her.
 
  (b) the profits made by GPK Clinic from Orchard Clinic patients, who were diverted to GPK Clinic as a result of the unauthorized use of the Clinic Information, best represented the loss suffered by CLAM. After all, Orchard Clinic and GPK Clinic were competitors offering similar services and products. 
 
-52     There was no direct evidence to show whether any of the patients who were diverted to GPK Clinic, would _not_ have been diverted if Goh PK and GPKPL had not misused the Clinic Information. However, I agreed with CLAM that it did not need to prove its loss with complete certainty. Where it is clear that some substantial loss has been incurred, the fact that an assessment is difficult because of the nature of the damage is not a reason to award no damages or only nominal damages: _MFM Restaurants Pte Ltd and another v Fish & Co Restaurants Pte Ltd and another appeal_ [2011] 1 SLR 150 at [57], citing _Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd and another_ [2008] 2 SLR(R) 623. In the present case, it was clear to me that some substantial loss had been incurred. 
+52     There was no direct evidence to show whether any of the patients who were diverted to GPK Clinic, would _not_ have been diverted if Goh PK and GPKPL had not misused the Clinic Information. However, I agreed with CLAM that it did not need to prove its loss with complete certainty. Where it is clear that some substantial loss has been incurred, the fact that an assessment is difficult because of the nature of the damage is not a reason to award no damages or only nominal damages: _MFM Restaurants Pte Ltd and another v Fish & Co Restaurants Pte Ltd and another appeal_ <span class="citation">[2011] 1 SLR 150</span> at [57], citing _Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd and another_ <span class="citation">[2008] 2 SLR(R) 623</span>. In the present case, it was clear to me that some substantial loss had been incurred. 
 
 
 53     In my judgment, CLAM’s loss should be computed based on the profits that GPK Clinic made from patients who were diverted from Orchard Clinic to GPK Clinic during the period of six months from the date that GPK Clinic commenced operations, _ie_ , from 19 May 2014 to 19 November 2014. 
@@ -355,7 +355,7 @@ CLAM products referred to products sold in GPK Clinic but not in Orchard Clinic.
 
 63     It was not disputed that costs should follow the event, _ie_ , the successful party should be awarded costs. However, the parties disputed who the successful party was. The defendants pointed out that CLAM had made several distinct claims and had succeed only on its claim based on breach of confidentiality. All its other claims were dismissed. The defendants submitted that in substance, they were in effect the successful parties and as such were entitled to costs. 
 
-64     The defendants referred me to _Riduan bin Yusof v Khng Thian Huat and another_ [2005] 4 SLR(R) 234 (“ _Riduan_ ”). In that case, the appellant and his wife rented a property from the respondents. The respondents terminated the tenancy in 2001 but the appellant vacated the property only in 2003 after removing certain alterations. The respondents sued for double rent and damage to the property caused by the removal of the alterations. The respondents’ main claim for 
+64     The defendants referred me to _Riduan bin Yusof v Khng Thian Huat and another_ <span class="citation">[2005] 4 SLR(R) 234</span> (“ _Riduan_ ”). In that case, the appellant and his wife rented a property from the respondents. The respondents terminated the tenancy in 2001 but the appellant vacated the property only in 2003 after removing certain alterations. The respondents sued for double rent and damage to the property caused by the removal of the alterations. The respondents’ main claim for 
 
 
 double rent was dismissed but they succeeded on their subsidiary claim for damage caused to the property. The Court of Appeal awarded the appellant 80% of the costs of the trial. 

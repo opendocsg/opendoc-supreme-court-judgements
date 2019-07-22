@@ -26,7 +26,7 @@ _Civil Procedure_ – _Rules of Court_ – _Singapore International Commercial C
 
 2       On 27 November 2015, BNPWM commenced an action in the Singapore High Court against the Defendants for recovery of €17,113,889.93 and €12,988,922.66, which was claimed to be due and owing by them jointly and severally as personal guarantors pursuant to two Personal Guarantees provided to BNPWM (“Personal Guarantees”) as security for loans provided to SCI Ruth Agam and Det Internationale, companies owned by the Defendants (“the Companies”), pursuant to two Facility Agreements. 
 
-3       On 5 April 2016, the proceedings were transferred to the Singapore International Commercial Court (“SICC”). Directions were given which led to a hearing in August 2017. The SICC issued its judgment on 17 November 2017 (“the Judgment”), finding for the Plaintiff and awarding the claimed amounts plus interest, and dismissing a counterclaim by the First Defendant (see _BNP Paribas SA v Jacob Agam and another_ [2018] 3 SLR 1). 
+3       On 5 April 2016, the proceedings were transferred to the Singapore International Commercial Court (“SICC”). Directions were given which led to a hearing in August 2017. The SICC issued its judgment on 17 November 2017 (“the Judgment”), finding for the Plaintiff and awarding the claimed amounts plus interest, and dismissing a counterclaim by the First Defendant (see _BNP Paribas SA v Jacob Agam and another_ <span class="citation">[2018] 3 SLR 1</span>). 
 
 4       On 13 December 2017, the Defendants appealed against the Judgment to the Court of Appeal. In doing so, they also filed an offshore case declaration dated 5 December 2017 (“the Declaration”). In response to the Declaration, the Plaintiff then filed the present application on 24 January 2018 (“the Application”), pursuant to O 110 r 37(1) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“the Rules”) for a declaration that this action is not or is no longer an offshore case, and that, consequently, the Declaration would cease to have effect. The Application was supported by the Second Affidavit of Yin Hsiu Mei dated 24 January 2018. 
 
@@ -80,7 +80,7 @@ and no such application made within the 28 days thereafter.
 
 **The Application** 
 
-18     The Plaintiff submits that, as set out by Bernard Eder IJ in _Teras Offshore Pte Ltd v Teras Cargo Transport (America) LLC_ [2016] 4 SLR 75 (“ _Teras_ ”), the question of whether or not an action is an “offshore case” must be determined by reference to the particular action and whether it can properly be said that the action has no substantial connection with Singapore (at [10]). As also noted in _Teras_ , an “offshore case” is defined by a negative so that it is not the presence of substantial connections with other jurisdictions that is important, but the absence of a substantial connection with Singapore. Therefore, the mere fact that an action may have a substantial connection with one or more places other than Singapore does not necessarily mean that it does not also have a 
+18     The Plaintiff submits that, as set out by Bernard Eder IJ in _Teras Offshore Pte Ltd v Teras Cargo Transport (America) LLC_ <span class="citation">[2016] 4 SLR 75</span> (“ _Teras_ ”), the question of whether or not an action is an “offshore case” must be determined by reference to the particular action and whether it can properly be said that the action has no substantial connection with Singapore (at [10]). As also noted in _Teras_ , an “offshore case” is defined by a negative so that it is not the presence of substantial connections with other jurisdictions that is important, but the absence of a substantial connection with Singapore. Therefore, the mere fact that an action may have a substantial connection with one or more places other than Singapore does not necessarily mean that it does not also have a 
 
 
 substantial connection with Singapore (at [8]). 
@@ -143,7 +143,7 @@ substantial connection with Singapore (at [8]).
 
 25     In relation to the Personal Guarantees, these were given by the Defendants in favour of the Singapore branch of BNPWM which later became the Plaintiff. As submitted on behalf of the Plaintiff, the performance of the guarantees was to be by payment to the Singapore branch of BNPWM, later the Plaintiff. 
 
-26     The decision of the Singapore High Court in _EFG Bank AG, Singapore Branch v Teng Wen-Chung_ [2017] SGHC 318 at [55] is of relevance. In that case George Wei J accepted that: “the key obligation in a loan contract is generally the obligation to make payments, and the place where those payments must be made is accordingly the place of performance”. 
+26     The decision of the Singapore High Court in _EFG Bank AG, Singapore Branch v Teng Wen-Chung_ <span class="citation">[2017] SGHC 318</span> at [55] is of relevance. In that case George Wei J accepted that: “the key obligation in a loan contract is generally the obligation to make payments, and the place where those payments must be made is accordingly the place of performance”. 
 
 27     He also considered the position in relation to the terms of an indemnity agreement and at [56] stated: 
 

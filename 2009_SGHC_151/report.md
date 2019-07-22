@@ -16,7 +16,7 @@
 
 _Criminal Law_ 
 
-**[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 14 of 2009 was allowed by the Court of Appeal on 12 April 2011. See [2011] SGCA 16.]** 
+**[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 14 of 2009 was allowed by the Court of Appeal on 12 April 2011. See <span class="citation">[2011] SGCA 16</span>.]** 
 
 30 June 2009 
 

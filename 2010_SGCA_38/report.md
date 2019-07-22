@@ -18,7 +18,7 @@ _Criminal Law_
 
 _Criminal Procedure and Sentencing_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 81.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 81</span>.] 
 
 8 November 2010 
 
@@ -26,7 +26,7 @@ _Criminal Procedure and Sentencing_
 
 **Introduction** 
 
-1       The appellant in the present appeal, Abdul Salam bin Musthafa (“the Appellant”), claimed trial to five charges of conspiracy to traffic in controlled drugs, an offence under s 5(1)( _a_ ) read with s 12 of the Misuse of Drugs Act (Cap 185, 2001 Rev Ed). He was found guilty and convicted of all five charges (see _Public Prosecutor v Abdul Salam bin Musthafa_ [2010] SGHC 81). The Appellant was sentenced to a total of 30 years’ imprisonment with effect from 2 January 2008 and 24 strokes of the cane. The Appellant appealed against both his conviction and his sentence. 
+1       The appellant in the present appeal, Abdul Salam bin Musthafa (“the Appellant”), claimed trial to five charges of conspiracy to traffic in controlled drugs, an offence under s 5(1)( _a_ ) read with s 12 of the Misuse of Drugs Act (Cap 185, 2001 Rev Ed). He was found guilty and convicted of all five charges (see _Public Prosecutor v Abdul Salam bin Musthafa_ <span class="citation">[2010] SGHC 81</span>). The Appellant was sentenced to a total of 30 years’ imprisonment with effect from 2 January 2008 and 24 strokes of the cane. The Appellant appealed against both his conviction and his sentence. 
 
 2       Of the five charges which the Appellant faced at his trial, two charges (“the Main Charges”) concerned offences alleged to have been committed on 31 December 2007, while the remaining three charges (“the Remaining Charges”) concerned offences alleged to have been committed on 27 December 2007. The Main Charges were that, on or about 31 December 2007, the Appellant engaged in a conspiracy with Khairul Anwar bin Zaini (“Khairul”), Jamaliah binti Yacab (“Jamaliah”), Maryati binte Sipon (“Maryati”) and one “Boy Cino” to traffic in two different types of controlled drugs, namely, not less than 14.99g of diamorphine and 0.42g of methamphetamine (the charges relating to these two quantities of drugs will be referred to hereafter as, respectively, “the First Charge” and “the Second Charge”). The Remaining Charges were that, on or about 27 December 2007, the Appellant engaged in a conspiracy with Khairul, Jamaliah and Boy Cino to traffic in three different types of controlled drugs, namely, 8.76g of methamphetamine, not less than 6.43g of diamorphine and 0.01g of morphine (the charges relating to these three quantities of drugs will be referred to hereafter as, respectively, “the Third Charge”, “the Fourth Charge” and “the Fifth Charge”). 
 

@@ -43,9 +43,9 @@ _Civil Procedure_ – _Pleadings_ – _Further and better particulars_
 
  ... 
 
- The court will not allow this procedure to be used to obtain evidence. See Wright Norman v Overseas-Chinese Banking [1992] 2 SLR(R) 452; Wright v Times Business Publications [1991] 1 SLR(R) 196 [1991] 3 MLJ 12; Temperton v Russell (1893) 9 TLR 318, at 321; General Electric v Simplex [1971] RPC 351. Such an objective may be apparent when sufficient particulars have been given and the objecting party seeks the facts on which those particulars are based... 
+ The court will not allow this procedure to be used to obtain evidence. See Wright Norman v Overseas-Chinese Banking <span class="citation">[1992] 2 SLR(R) 452</span>; Wright v Times Business Publications <span class="citation">[1991] 1 SLR(R) 196</span> [1991] 3 MLJ 12; Temperton v Russell (1893) 9 TLR 318, at 321; General Electric v Simplex [1971] RPC 351. Such an objective may be apparent when sufficient particulars have been given and the objecting party seeks the facts on which those particulars are based... 
 
- ‘... Particulars will be ordered whenever the master is satisfied that without them the applicant cannot tell what is going to be proved against him at the trial. But how his opponent will prove it is a matter of evidence of which particulars will not be ordered.’ ( In the matter of Surge Electrical Engineering and Powertec Engineers [2002] SGHC 280). 
+ ‘... Particulars will be ordered whenever the master is satisfied that without them the applicant cannot tell what is going to be proved against him at the trial. But how his opponent will prove it is a matter of evidence of which particulars will not be ordered.’ ( In the matter of Surge Electrical Engineering and Powertec Engineers <span class="citation">[2002] SGHC 280</span>). 
 
  (b) As stated in Singapore Civil Procedure 2018 (Foo Chee Hock editor-in-chief) (Sweet & Maxwell, 2018) (“ Singapore Civil Procedure 2018 ”) at para 18/12/2: 
 

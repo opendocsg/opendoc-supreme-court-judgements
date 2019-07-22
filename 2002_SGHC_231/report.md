@@ -64,7 +64,7 @@
 
 ## be an act of ownership that is adverse to the title of the owner; Soon Peng Yam v Maimon bte 
 
-## Ahmad [1996] 2 SLR 609 followed (see 6-8). 
+## Ahmad <span class="citation">[1996] 2 SLR 609</span> followed (see 6-8). 
 
 ## (2) From 1944 until his death in 1961, OSB collected rent from Madam Tan and her husband. As such, 
 
@@ -141,7 +141,7 @@
 
 ### Balwant Singh v Double L & T Pte Ltd 
 
-### [1996] 2 SLR 726 (refd) 
+### <span class="citation">[1996] 2 SLR 726</span> (refd) 
 
 ### Leigh v Jack 
 
@@ -153,7 +153,7 @@
 
 ### Soon Peng Yam v Maimon bte Ahmad 
 
-### [1996] 2 SLR 609 (folld) 
+### <span class="citation">[1996] 2 SLR 609</span> (folld) 
 
 ### Legislation referred to 
 
@@ -186,7 +186,7 @@ _Whether OSB became the owner of the Jalan Daud property_
 
 6\. Although it was asserted that OSB purchased the Jalan Daud property during the Japanese occupation, no evidence of this was furnished. As such, it is necessary to determine whether or not OSB became the owner of the said property by virtue of adverse possession. 
 
-7\. At the outset, it ought to be noted that when section 9 of the Limitation Act was amended in 1994 to abolish claims by way of adverse possession, the Jalan Daud property was held under the common law system regarding the registration of ownership of land. The effect of the 1994 amendments on a claim for adverse possession of land held under the common law system was considered by the Court of Appeal in _Balwant Singh v Double L & T Pte Ltd_ [1996] 2 SLR 726. In that case, Goh Joon Seng J, who delivered the judgment of the Court of Appeal, said as follows at p 732: 
+7\. At the outset, it ought to be noted that when section 9 of the Limitation Act was amended in 1994 to abolish claims by way of adverse possession, the Jalan Daud property was held under the common law system regarding the registration of ownership of land. The effect of the 1994 amendments on a claim for adverse possession of land held under the common law system was considered by the Court of Appeal in _Balwant Singh v Double L & T Pte Ltd_ <span class="citation">[1996] 2 SLR 726</span>. In that case, Goh Joon Seng J, who delivered the judgment of the Court of Appeal, said as follows at p 732: 
 
  Thus s 177 of the [1993 Land Titles Act] by sub-s 1 amended section 9 of the Limitation Act thereby abolishing claim by way of adverse possession. At the same time by sub-s 3 it preserved rights that had accrued as of 1 March 1994... 
 
@@ -195,7 +195,7 @@ _Whether OSB became the owner of the Jalan Daud property_
 
  (emphasis added) 
 
-8\. What constitutes adverse possession has been considered by the courts on innumerable occasions. In _Leigh v Jack_ (1879) 5 Ex D 264, Bramwell LJ made it clear that a claimant who is relying on adverse possession must have acted inconsistently with the owner’s enjoyment of the soil for the purposes for which he intended to use it. More recently, in _Powell v McFarlane & Anor_ (1979) 38 P & CR 452, Slade J pointed out that for adverse possession, there must be both factual possession of the property as well as the requisite intention to possess it or _animus possidendi_. Admittedly, there is no evidence that OSB occupied the Jalan Daud property by staying there. However, this is not fatal to his case for in _Soon Peng Yam v Maimon bte Ahmad_ [1996] 2 SLR 609, 615, Goh Joon Seng J, who delivered the judgment of the Court of Appeal, said: 
+8\. What constitutes adverse possession has been considered by the courts on innumerable occasions. In _Leigh v Jack_ (1879) 5 Ex D 264, Bramwell LJ made it clear that a claimant who is relying on adverse possession must have acted inconsistently with the owner’s enjoyment of the soil for the purposes for which he intended to use it. More recently, in _Powell v McFarlane & Anor_ (1979) 38 P & CR 452, Slade J pointed out that for adverse possession, there must be both factual possession of the property as well as the requisite intention to possess it or _animus possidendi_. Admittedly, there is no evidence that OSB occupied the Jalan Daud property by staying there. However, this is not fatal to his case for in _Soon Peng Yam v Maimon bte Ahmad_ <span class="citation">[1996] 2 SLR 609</span>, 615, Goh Joon Seng J, who delivered the judgment of the Court of Appeal, said: 
 
  It is clear to us that a possessor need not personally be in occupation of the land to be in factual possession or to have the requisite animus possidendi. As Slade J said in [ Powell v McFarlane & Anor ], factual possession is constituted by a possessor ‘dealing with the land in question as an occupying owner might have been expected to deal with it’. This clearly contemplates physical possession but it certainly encompasses much more. It is the exercise of acts of ownership which is crucial. Receipt of rent or grant of licence in respect of the property ... would be an act of ownership which is adverse to the title of the [owner]. This is clear from Nesbitt v Mablethorpe Urban District Council [1918] 2 KB 1. 
 

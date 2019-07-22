@@ -444,13 +444,13 @@ _(ii) Concept of a sham_
 
  If it were a mere cloak or screen for another transaction one could see through it, but once come to the conclusion that it was the bonâ [ sic ] fide real transaction between the parties, intended by both sides to operate according to its tenor, there is no mode that I know of holding it illegal unless you find it prohibited by some Act of Parliament or void by reason of some principles of law. 
 
-53     In _TKM (Singapore) Pte Ltd v Export Credit Insurance Corp of Singapore Ltd_ [1992] 2 SLR(R) 858 (“ _TKM_ ”), G P Selvam JC (as he then was) stated (at [48]): 
+53     In _TKM (Singapore) Pte Ltd v Export Credit Insurance Corp of Singapore Ltd_ <span class="citation">[1992] 2 SLR(R) 858</span> (“ _TKM_ ”), G P Selvam JC (as he then was) stated (at [48]): 
 
  To ascertain whether the documents represent the true relationship between parties the following test as laid down by Lindley LJ in the Yorkshire Railway Wagon Company case ... and Diplock LJ in the Snook case ... may be formulated: Whether the documents were intended to create legal relationships and whether the parties did actually act according to the apparent purpose and tenor of the documents. 
 
  [emphasis added] 
 
-Selvam JC’s formulation was recently applied by Belinda Ang Saw Ean J in _Koon Seng Construction Pte Ltd v Chenab Contractor Pte Ltd and another_ [2008] 1 SLR(R) 375 (“ _Koon Seng_ ”) at [64]. 
+Selvam JC’s formulation was recently applied by Belinda Ang Saw Ean J in _Koon Seng Construction Pte Ltd v Chenab Contractor Pte Ltd and another_ <span class="citation">[2008] 1 SLR(R) 375</span> (“ _Koon Seng_ ”) at [64]. 
 
 (3) Test of parties’ intention to enter into a sham agreement is “subjective” 
 
@@ -741,7 +741,7 @@ the Property against her wishes, [note: 75] the court should infer that the Trus
 
 _(ii) Can the Defendant invalidate the Trust Deed if the sham was not carried out?_ 
 
-86     Turning to the second of his two responses (see [72] above), Mr Bull argued that irrespective of whether Mdm Fock was a party to the sham, the Defendant could invalidate the Trust Deed as long as the sham had not been carried out. Mr Bull cited the Singapore Court of Appeal decision of _Shi Fang v Koh Pee Huat_ [1996] 1 SLR(R) 906 (“ _Shi Fang_ ”) in support of his argument. In _Shi Fang_ , the Court of Appeal endorsed (at [25]) the principle stated in _Tribe v Tribe_ [1996] 1 Ch 107 (“ _Tribe_ ”) that a person who seeks to recover property transferred by him for an illegal purpose can lead evidence of his dishonest intention whenever it is necessary for him to do so provided that he has withdrawn from the transaction before the illegal purpose was carried out. This is known as the doctrine of _locus poenitentiae_ , which operates as an exception to the maxim that “he who comes to equity must come with clean hands”: _Tribe at_ 134. 
+86     Turning to the second of his two responses (see [72] above), Mr Bull argued that irrespective of whether Mdm Fock was a party to the sham, the Defendant could invalidate the Trust Deed as long as the sham had not been carried out. Mr Bull cited the Singapore Court of Appeal decision of _Shi Fang v Koh Pee Huat_ <span class="citation">[1996] 1 SLR(R) 906</span> (“ _Shi Fang_ ”) in support of his argument. In _Shi Fang_ , the Court of Appeal endorsed (at [25]) the principle stated in _Tribe v Tribe_ [1996] 1 Ch 107 (“ _Tribe_ ”) that a person who seeks to recover property transferred by him for an illegal purpose can lead evidence of his dishonest intention whenever it is necessary for him to do so provided that he has withdrawn from the transaction before the illegal purpose was carried out. This is known as the doctrine of _locus poenitentiae_ , which operates as an exception to the maxim that “he who comes to equity must come with clean hands”: _Tribe at_ 134. 
 
 
 87     Mr Bull pointed out that there was no dispute that no creditors had been defrauded in the 
@@ -800,13 +800,13 @@ promissory estoppel, he described the alleged “promises” as “representatio
 
 95     If the Defendant was approaching the Estoppel Argument by way of some single unified test, which I accept is not completely without some authority (see _Amalgamated Investment and Property Co Ltd v Texas Commerce International Bank Ltd_ [1982] QB 84 at 122, but _cf_ a critical view of this proposition in Sean Wilken, _Wilken and Villiers on The Law of Waiver, Variation and Estoppel_ (Oxford University Press, 2nd Ed, 2006) (“ _Wilken and Villiers_ ”) at paras 10.04–10.07), he should have done so clearly. There was only a single line in Mr Bull’s submissions suggesting that unconscionability is the 
 
-“overarching inquiry” in determining whether an estoppel ought to be found. [note: 81] In my view, Mr Bull’s supporting authority, _Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd_ [2007] 1 SLR(R) 292 (“ _Hong Leong_ ”) at [171] and [191], does not stand for what he sought to argue. Sundaresh Menon JC (as he then was) in that case was explaining that in deciding whether a proprietary estoppel had arisen, unconscionability was an overarching inquiry in the sense that the court would grant the proprietary estoppel if it was satisfied that it would be unconscionable to do otherwise, having regard to all the circumstances. This is very different from saying that unconscionability is the only test when considering whether to grant _any_ form of estoppel. 
+“overarching inquiry” in determining whether an estoppel ought to be found. [note: 81] In my view, Mr Bull’s supporting authority, _Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd_ <span class="citation">[2007] 1 SLR(R) 292</span> (“ _Hong Leong_ ”) at [171] and [191], does not stand for what he sought to argue. Sundaresh Menon JC (as he then was) in that case was explaining that in deciding whether a proprietary estoppel had arisen, unconscionability was an overarching inquiry in the sense that the court would grant the proprietary estoppel if it was satisfied that it would be unconscionable to do otherwise, having regard to all the circumstances. This is very different from saying that unconscionability is the only test when considering whether to grant _any_ form of estoppel. 
 
 96     Thus, the Defendant’s pleadings and submissions on the Estoppel Argument were, with respect, not too helpful. Unfortunately, Mr Yeo also did not help to isolate the respective estoppels and distil which estoppels were properly pleaded and argued before the court. In my view, the Defendant’s pleadings lend themselves to the defence of: (a) estoppel by representation by conduct; (b) estoppel by convention; (c) proprietary estoppel; and (d) estoppel by acquiescence. As such, notwithstanding Mr Bull’s submissions (at [23] above), I will address the Defendant’s Estoppel Argument on the basis of these four estoppels. 
 
 _(i) Estoppel by representation by conduct_ 
 
-97     It is settled law that for a party to successfully raise the defence of estoppel by representation, three elements must be satisfied ( _United Overseas Bank Ltd v Bank of China_ [2006] 1 SLR(R) 57 at [13]): 
+97     It is settled law that for a party to successfully raise the defence of estoppel by representation, three elements must be satisfied ( _United Overseas Bank Ltd v Bank of China_ <span class="citation">[2006] 1 SLR(R) 57</span> at [13]): 
 
  (a) the respondent must have made a representation of fact; 
 
@@ -871,7 +871,7 @@ Defendant had expended sizeable sums on the maintenance, upkeep and renovation o
 
 _(iii) Estoppel by convention_ 
 
-107    For an estoppel by convention to operate, the following elements must be present (see _Singapore Telecommunications Ltd v Starhub Cable Vision Ltd_ [2006] 2 SLR(R) 195 at [28]; reaffirmed in _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ [2008] 2 SLR(R) 474 at [31]): 
+107    For an estoppel by convention to operate, the following elements must be present (see _Singapore Telecommunications Ltd v Starhub Cable Vision Ltd_ <span class="citation">[2006] 2 SLR(R) 195</span> at [28]; reaffirmed in _Travista Development Pte Ltd v Tan Kim Swee Augustine and others_ <span class="citation">[2008] 2 SLR(R) 474</span> at [31]): 
 
  (a) the parties must have acted on “an assumed and incorrect state of fact of law” in their course of dealing; 
 
@@ -894,7 +894,7 @@ Mr Bull. [note: 92] The Defendant could, as a matter of fact, have been honestly
 
 _(iv) Estoppel by acquiescence_ 
 
-111    In _Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ [1999] 2 SLR(R) 817, Judith Prakash J held (at [70]) that to raise estoppel by acquiescence, five circumstances must be present: 
+111    In _Nasaka Industries (S) Pte Ltd v Aspac Aircargo Services Pte Ltd_ <span class="citation">[1999] 2 SLR(R) 817</span>, Judith Prakash J held (at [70]) that to raise estoppel by acquiescence, five circumstances must be present: 
 
  (a) the party seeking the estoppel must be mistaken as to his own legal rights; 
 

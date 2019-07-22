@@ -20,7 +20,7 @@ _Civil procedure_ – _Judgments and orders_ – _Ex parte orders_ – _Setting 
 
 _Land_ – _Interest in land_ – _Modes of severance_ – _Severance under the Land Titles Act_ – _Nonregistration of instrument of declaration_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 141 of 2017 was dismissed by the Court of Appeal on 15 May 2018. See [2018] SGCA 24.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 141 of 2017 was dismissed by the Court of Appeal on 15 May 2018. See <span class="citation">[2018] SGCA 24</span>.] 
 
 10 July 2017 Judgment reserved. 
 
@@ -38,7 +38,7 @@ _Land_ – _Interest in land_ – _Modes of severance_ – _Severance under the 
 
 4       The Debtor held an interest in a property known as 9 Jalan Tanah Rata, Singapore (“the Property”) together with her husband, Lim Eng Soon (“Lim”), as joint tenants. On 10 July 2015, CSC obtained an order (“the Order”) for the Debtor’s interest in the Property to be attached and taken in execution under a writ of seizure and sale (“WSS”) to satisfy CSC’s judgment debt in Suit 342/2015. [note: 0] The High Court’s grounds of decision are reported as _Chan Shwe Ching v Leong Lai Yee_ 
 
-[2015] 5 SLR 295 (“the GD”). 
+<span class="citation">[2015] 5 SLR 295</span> (“the GD”). 
 
 
 5       On 24 July 2015, the WSS obtained by CSC (“CSC’s WSS”) was registered with the Singapore Land Authority (“SLA”) pursuant to s 132 of the Land Titles Act (Cap 157, 2004 Rev Ed) (“LTA”). [note: 1] 
@@ -67,9 +67,9 @@ the present dispute between CLK and CSC. [note: 8]
 
 11     CLK was not a party to the proceedings in which the Order was made. O 32 r 6 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“ROC”) provides that “[t]he Court may set aside an order made ex parte”. I disagree with CSC’s submission that O 32 r 6 should be read restrictively and that nonparties to an _ex parte_ order may not apply to set aside the order. In my view, it would be unjust to deny a person the right to apply to set aside an _ex parte_ order _that affects him_ , just because he was not a party to the proceedings in which the _ex parte_ order was made. CSC’s narrow interpretation of O 32 r 6 is also not supported by the authorities that I was referred to. 
 
-12     In _Karaha Bodas Co LLC v Perusahaan Pertambangan Minyak dan Gas Bumi Negara_ [2006] 4 SLR(R) 345 (“ _Karaha Bodas_ ”), the court held that the party who obtained an _ex parte_ order could also apply to set it aside under O 32 r 6. In coming to this decision, Sundaresh Menon JC (as he then was) observed (at [19]) that O 32 r 6 “does not limit the court’s power by reference to the identity of the party seeking to set aside the order”. 
+12     In _Karaha Bodas Co LLC v Perusahaan Pertambangan Minyak dan Gas Bumi Negara_ <span class="citation">[2006] 4 SLR(R) 345</span> (“ _Karaha Bodas_ ”), the court held that the party who obtained an _ex parte_ order could also apply to set it aside under O 32 r 6. In coming to this decision, Sundaresh Menon JC (as he then was) observed (at [19]) that O 32 r 6 “does not limit the court’s power by reference to the identity of the party seeking to set aside the order”. 
 
-13     In _Emjay Enterprises Pte Ltd v Thakral Brothers (Pte) Ltd and others_ [2000] 2 SLR(R) 729 (“ _Emjay_ ”), the defendant obtained an _ex parte_ attachment order under the Debtors Act (Cap 73, 1985 Rev Ed) against its debtor, Shah Electronics. The plaintiff obtained judgment against Shah Electronics in separate proceedings and a WSS was issued on the same day that the attachment order was granted to the defendant. The plaintiff subsequently filed an originating summons seeking, among other things, an order setting aside the attachment order. The plaintiff was a stranger to the proceedings in which the attachment order was obtained. 
+13     In _Emjay Enterprises Pte Ltd v Thakral Brothers (Pte) Ltd and others_ <span class="citation">[2000] 2 SLR(R) 729</span> (“ _Emjay_ ”), the defendant obtained an _ex parte_ attachment order under the Debtors Act (Cap 73, 1985 Rev Ed) against its debtor, Shah Electronics. The plaintiff obtained judgment against Shah Electronics in separate proceedings and a WSS was issued on the same day that the attachment order was granted to the defendant. The plaintiff subsequently filed an originating summons seeking, among other things, an order setting aside the attachment order. The plaintiff was a stranger to the proceedings in which the attachment order was obtained. 
 
 14     One of the arguments made by the defendant in _Emjay_ was that the plaintiff had no _locus_ 
 
@@ -86,14 +86,14 @@ _standi_ to take out the application to set aside the _ex parte_ attachment orde
 
 **Whether the Order should be set aside** 
 
-19     In making the Order, Edmund Leow JC decided that a joint tenant’s interest can be attached and taken in execution under a WSS. His Honour chose to depart from the High Court decision in _Malayan Banking Bhd v Focal Finance Ltd_ [1998] 3 SLR(R) 1008 (“ _Malayan Banking_ ”) which decided otherwise. Before I proceed to consider both decisions, it would be useful to first describe the nature of a joint tenant’s interest in land. 
+19     In making the Order, Edmund Leow JC decided that a joint tenant’s interest can be attached and taken in execution under a WSS. His Honour chose to depart from the High Court decision in _Malayan Banking Bhd v Focal Finance Ltd_ <span class="citation">[1998] 3 SLR(R) 1008</span> (“ _Malayan Banking_ ”) which decided otherwise. Before I proceed to consider both decisions, it would be useful to first describe the nature of a joint tenant’s interest in land. 
 
 **_Nature of a joint tenant’s interest_** 
 
 20     In a joint tenancy, all the joint tenants together own the whole property. Joint tenants have rights between each other, but against the world they are seen as one owner. No one joint tenant 
 
 
-holds any specific or distinct share of the property. The interest of each joint tenant is identical and lies in the whole of the property. The hallmark of a joint tenancy is the right of survivorship. See _Goh Teh Lee v Lim Li Pheng Maria and others_ [2010] 3 SLR 364 (“ _Goh Teh Lee_ ”) at [11]; Tan Sook Yee, Tang Hang Wu & Kelvin FK Low, _Tan Sook Yee’s Principles of Singapore Land Law_ (LexisNexis, 3rd Ed, 2009) (“ _Principles of Singapore Land Law_ ”) at para 9.5. 
+holds any specific or distinct share of the property. The interest of each joint tenant is identical and lies in the whole of the property. The hallmark of a joint tenancy is the right of survivorship. See _Goh Teh Lee v Lim Li Pheng Maria and others_ <span class="citation">[2010] 3 SLR 364</span> (“ _Goh Teh Lee_ ”) at [11]; Tan Sook Yee, Tang Hang Wu & Kelvin FK Low, _Tan Sook Yee’s Principles of Singapore Land Law_ (LexisNexis, 3rd Ed, 2009) (“ _Principles of Singapore Land Law_ ”) at para 9.5. 
 
 21     Because each joint tenant’s interest in the property is indistinguishable, joint tenants have to act jointly to effectively bind the estate which they hold jointly. Every joint tenant must partake in any dealings with the whole legal estate before such dealings may effectively bind the entire estate since the whole estate does not reside in a single joint tenant. Therefore, although a joint tenant is entitled to the whole of the interest in the property, he cannot sell the property without the agreement of all the joint tenants. See _Goh Teh Lee_ at [17]. 
 
@@ -122,7 +122,7 @@ holds any specific or distinct share of the property. The interest of each joint
 
 **_Analysis of the reasons in Malayan Banking and the GD_** 
 
-28     In _One Investment and Consultancy Limited and another v Cham Poh Meng (DBS Bank Ltd, garnishee_ ) [2016] 5 SLR 923 (“ _One Investment_ ”), Kannan Ramesh JC (as he then was) expressed agreement (at [5]) with _Malayan Banking_. 
+28     In _One Investment and Consultancy Limited and another v Cham Poh Meng (DBS Bank Ltd, garnishee_ ) <span class="citation">[2016] 5 SLR 923</span> (“ _One Investment_ ”), Kannan Ramesh JC (as he then was) expressed agreement (at [5]) with _Malayan Banking_. 
 
 29     Conceptually, the reasoning in _Malayan Banking_ that seizing a joint tenant’s interest also means seizing his co-owners’ interests must be correct, since each joint tenant’s interest in the property is indistinguishable. Each joint tenant holds nothing by himself; he holds the whole estate together with the other joint tenants: Robert Megarry & William Wade QC, _The Law of Real Property_ (Charles Harpum, Stuart Bridge & Martin Dixon eds) (Sweet & Maxwell, 8th Ed, 2012) at para 13-003. How does a WSS seize such an interest unless the issuance of the WSS itself amounts to a severance? However, it is well established that the issuance of a WSS does not sever the joint tenancy. 
 
@@ -164,7 +164,7 @@ undivided share when the joint tenancy is _subsequently_ severed. I respectfully
 
  Power to partition land and to direct a sale instead of partition in any action for partition of land; and in any cause or matter relating to land, where it appears necessary or expedient, to order the land or any part of it to be sold, and to give all necessary and consequential directions. 
 
-40     The history of this provision was comprehensively reviewed in _Abu Bakar v Jawahir_ [1993] 1 SLR(R) 865 at [7]–[17]. It seems to me that the right to apply for partition and the right to apply for sale in lieu of partition are rights given to co-owners. The WSS does not make the judgment creditor a co-owner. Neither does registration of the WSS; the general property and interest in the property remains with the debtor until the execution sale takes place: _United Overseas Bank Ltd v Chia Kin Tuck_ [2006] 3 SLR(R) 322 at [14]. In my view, neither the judgment creditor nor the sheriff is entitled to seek either partition of the property seized under a WSS or sale in lieu of partition. I find support for this view in the observation in Tan’s article (2000) at p 58 that a judgment creditor would have to persuade the judgment debtor to ask for a sale in lieu of partition. 
+40     The history of this provision was comprehensively reviewed in _Abu Bakar v Jawahir_ <span class="citation">[1993] 1 SLR(R) 865</span> at [7]–[17]. It seems to me that the right to apply for partition and the right to apply for sale in lieu of partition are rights given to co-owners. The WSS does not make the judgment creditor a co-owner. Neither does registration of the WSS; the general property and interest in the property remains with the debtor until the execution sale takes place: _United Overseas Bank Ltd v Chia Kin Tuck_ <span class="citation">[2006] 3 SLR(R) 322</span> at [14]. In my view, neither the judgment creditor nor the sheriff is entitled to seek either partition of the property seized under a WSS or sale in lieu of partition. I find support for this view in the observation in Tan’s article (2000) at p 58 that a judgment creditor would have to persuade the judgment debtor to ask for a sale in lieu of partition. 
 
 41     Leow JC also relied on the practice in other Commonwealth jurisdictions. However, as his Honour noted (at [15] of the GD), these cases proceeded on the _assumption_ that a WSS can be executed against a joint tenant’s interest in land, without any discussion. These cases therefore do not assist in the analysis of the issues discussed above. I would add that in Canada, s 9 of the Execution Act (RSO 1990, c E24), which was first enacted in 1957, expressly permits the seizure and sale of property held in joint tenancy. The section reads as follows: 
 
@@ -203,7 +203,7 @@ Previous Canadian cases had assumed that a joint tenant’s interest can be atta
 
 **_Whether service of Lim’s instrument of declaration severed the joint tenancy_** 
 
-49     CLK relied on _Diaz Priscillia v Diaz Angela_ [1997] 3 SLR(R) 759 (“ _Diaz_ ”). In that case, the appellant (“Priscillia”) and the respondent (“Angela”) were sisters. Their mother (“M”) bought a house with Priscillia as joint tenants. In November 1994, M signed a declaration under s 53(5) of the LTA, declaring her intention to sever the joint tenancy and hold the property as tenant in common with Priscillia. The instrument of declaration was served on Priscillia but it was not registered. M left her entire estate to Angela. After her death, Angela lodged a caveat claiming an interest as beneficial owner as tenant in common of an undivided half share in the house. Priscillia contested the caveat on the ground that the severance was not effective and the entire property had devolved to her under the rule of survivorship. 
+49     CLK relied on _Diaz Priscillia v Diaz Angela_ <span class="citation">[1997] 3 SLR(R) 759</span> (“ _Diaz_ ”). In that case, the appellant (“Priscillia”) and the respondent (“Angela”) were sisters. Their mother (“M”) bought a house with Priscillia as joint tenants. In November 1994, M signed a declaration under s 53(5) of the LTA, declaring her intention to sever the joint tenancy and hold the property as tenant in common with Priscillia. The instrument of declaration was served on Priscillia but it was not registered. M left her entire estate to Angela. After her death, Angela lodged a caveat claiming an interest as beneficial owner as tenant in common of an undivided half share in the house. Priscillia contested the caveat on the ground that the severance was not effective and the entire property had devolved to her under the rule of survivorship. 
 
 50     The Court of Appeal noted (at [24]) that: 
 

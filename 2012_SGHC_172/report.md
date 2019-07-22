@@ -283,11 +283,11 @@ three months ago. The service and receipt of the 3rd Acceptance was not disputed
 
 **The applicable law** 
 
-25     Before going into the specifics of the Order 22A mechanism, it is important to appreciate the rationale behind the relevant rules. The Court of Appeal cautioned in _The “Endurance 1”_ [1998] 3 SLR(R) 970 at [39] that: 
+25     Before going into the specifics of the Order 22A mechanism, it is important to appreciate the rationale behind the relevant rules. The Court of Appeal cautioned in _The “Endurance 1”_ <span class="citation">[1998] 3 SLR(R) 970</span> at [39] that: 
 
  39 It appears to us from that part of the learned judge’s grounds of judgment we have set out in [37] above that the learned judge applied the rule literally without the exercise of any discretion or making an inquiry into the rationale and policy of the rule. 
 
-26     The Court of Appeal went on to explain the rationale of Order 22A in _The “Endurance 1”_ [1998] 3 SLR(R) 970 at [41]: 
+26     The Court of Appeal went on to explain the rationale of Order 22A in _The “Endurance 1”_ <span class="citation">[1998] 3 SLR(R) 970</span> at [41]: 
 
  41 In the Ontario Court of Appeal in Data General (Canada) Ltd v Molnar Systems Group Inc (1991) 85 DLR (4th) 392, Morden ACJO identified the rationale behind r 49 of their Rules of Civil Procedure. He said at 398-399: 
 
@@ -310,7 +310,7 @@ principles of contract law ( _ie_ rules of offer and acceptance, the postal acce
 
 29     Parties to a lawsuit often make offers to each other in order to try to settle the lawsuit out of court. Such an offer, however, is not an “offer to settle” within the meaning of Order 22A. Order 22A is a statutory mechanism which requires parties to specifically invoke through the use of certain prescribed forms. 
 
-30     The Order 22A mechanism, once invoked, has several consequences, the most important one being the cost consequences set out in Order 22A rule 9. The Court of Appeal explained the cost consequences of Order 22A in _Singapore Airlines Ltd v Tan Shwu Leng_ [2001] 3 SLR(R) 439 at [38]: 
+30     The Order 22A mechanism, once invoked, has several consequences, the most important one being the cost consequences set out in Order 22A rule 9. The Court of Appeal explained the cost consequences of Order 22A in _Singapore Airlines Ltd v Tan Shwu Leng_ <span class="citation">[2001] 3 SLR(R) 439</span> at [38]: 
 
  38 The scheme of things under O 22A is verily to encourage the plaintiffs to be realistic in their assessment of what they are entitled to and on the part of the defendants, to make reasonable offers, on pain of having to bear the costs on the indemnity basis if they should persist in their exaggerated claims or maintain their unreasonable position (in respect of an offer from the plaintiff). The order seeks to promote responsible conduct on the part of both parties. It discourages obstinacy. The wide discretion given to the court in r 12 is to enable the court to take all pertinent facts and circumstances into account and arrive at an order on costs which is fair and just. 
 
@@ -521,7 +521,7 @@ considered personal in nature since the action could be continued by the persona
 
  (iii) Lapse of time: Where offer contains express or implied term as to lapsing of offer 
 
- An offer can also be terminated by lapse of time. There are at least two basic situations. The first ... relates to a situation where the offer itself contains an express term as to when the offer will lapse , as happened in the High Court decision of Dickson Trading (S) Pte Ltd v Transmarco Ltd [1987] SLR(R) 674. ... It should also be noted, however, that although the offeror is perfectly entitled to set a cut-off date for its offer , the offer concerned will still be open for acceptance if the offeror conducts itself in such a manner as to make it clear to the offeree that it is in fact extending the deadline. This was indeed found to be the case in the High Court decision of Panwell Pte Ltd v Indian Bank [2001] 3 SLR(R) 462. 
+ An offer can also be terminated by lapse of time. There are at least two basic situations. The first ... relates to a situation where the offer itself contains an express term as to when the offer will lapse , as happened in the High Court decision of Dickson Trading (S) Pte Ltd v Transmarco Ltd [1987] SLR(R) 674. ... It should also be noted, however, that although the offeror is perfectly entitled to set a cut-off date for its offer , the offer concerned will still be open for acceptance if the offeror conducts itself in such a manner as to make it clear to the offeree that it is in fact extending the deadline. This was indeed found to be the case in the High Court decision of Panwell Pte Ltd v Indian Bank <span class="citation">[2001] 3 SLR(R) 462</span>. 
 
  [emphasis added] 
 

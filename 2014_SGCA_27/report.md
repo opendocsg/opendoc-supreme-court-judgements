@@ -20,7 +20,7 @@ _Companies_ – _Shares_ – _dividends_
 
 _Tort_ – _Conspiracy_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2013] 4 SLR 662.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2013] 4 SLR 662</span>.] 
 
 21 May 2014 Judgment reserved. 
 
@@ -34,7 +34,7 @@ _Tort_ – _Conspiracy_
 
  (b) a counterclaim against the same individuals and Strategic for conspiracy. 
 
-2       The High Court judge (“the Judge”) held that Strategic was entitled to succeed in its claim and dismissed the Appellants’ counterclaim and third-party action: see _Strategic Worldwide Assets Ltd v Sandz Solutions (Singapore) Pte Ltd and others (Tan Choon Wee and another, third parties)_ [2013] 4 SLR 662 (“the Judgment”). The Appellants filed a notice of appeal in respect of the whole of the Judge’s decision, but in their submissions before us, they pursued only the Judge’s decision to allow Strategic’s claim and to dismiss their counterclaim. 
+2       The High Court judge (“the Judge”) held that Strategic was entitled to succeed in its claim and dismissed the Appellants’ counterclaim and third-party action: see _Strategic Worldwide Assets Ltd v Sandz Solutions (Singapore) Pte Ltd and others (Tan Choon Wee and another, third parties)_ <span class="citation">[2013] 4 SLR 662</span> (“the Judgment”). The Appellants filed a notice of appeal in respect of the whole of the Judge’s decision, but in their submissions before us, they pursued only the Judge’s decision to allow Strategic’s claim and to dismiss their counterclaim. 
 
 
 **Background to the dispute** 
@@ -195,22 +195,22 @@ Counterclaim (Amendment No 2) that Mr Tan had “ _expressly_ ” [note: 4] [emp
 
 **_Principles of appellate intervention_** 
 
-37     As much of the present appeal hinges on findings of fact made by the Judge, we think it apposite to first set out the principles governing appellate intervention _vis-à-vis_ findings of fact by the trial judge. In Singapore, the applicable principles have been authoritatively elucidated in _Tat Seng Machine Movers Pte Ltd v Orix Leasing Singapore Ltd_ [2009] 4 SLR(R) 1101 as follows (at [41]): 
+37     As much of the present appeal hinges on findings of fact made by the Judge, we think it apposite to first set out the principles governing appellate intervention _vis-à-vis_ findings of fact by the trial judge. In Singapore, the applicable principles have been authoritatively elucidated in _Tat Seng Machine Movers Pte Ltd v Orix Leasing Singapore Ltd_ <span class="citation">[2009] 4 SLR(R) 1101</span> as follows (at [41]): 
 
- ... The appellate court’s power of review with respect to finding[s] of facts is limited because the trial judge is generally better placed to assess the veracity and credibility of witnesses, especially where oral evidence is concerned ( Seah Ting Soon v Indonesian Tractors Co Pte Ltd [2001] 1 SLR(R) 53 at [22]). However, this rule is not immutable. Where it can be established that the trial judge’s assessment is plainly wrong or against the weight of the evidence, the appellate court can and should overturn any such finding (see Alagappa Subramanian v Chidambaram s/o Alagappa [2003] SGCA 20 at [13] and Jagatheesan s/o Krishnasamy v PP [2006] 4 SLR(R) 45 at 
+ ... The appellate court’s power of review with respect to finding[s] of facts is limited because the trial judge is generally better placed to assess the veracity and credibility of witnesses, especially where oral evidence is concerned ( Seah Ting Soon v Indonesian Tractors Co Pte Ltd <span class="citation">[2001] 1 SLR(R) 53</span> at [22]). However, this rule is not immutable. Where it can be established that the trial judge’s assessment is plainly wrong or against the weight of the evidence, the appellate court can and should overturn any such finding (see Alagappa Subramanian v Chidambaram s/o Alagappa <span class="citation">[2003] SGCA 20</span> at [13] and Jagatheesan s/o Krishnasamy v PP <span class="citation">[2006] 4 SLR(R) 45</span> at 
 
 
- [34]–[36]). Furthermore, where a particular finding of fact is not based on the veracity or credibility of the witness, but instead, is based on an inference drawn from the facts or the evaluation of primary facts, the appellate court is in as good a position as the trial judge to undertake that exercise ( Tan Chin Seng v Raffles Town Club Pte Ltd [2003] 3 SLR(R) 307 at [54] and Ho Soo Fong v Standard Chartered Bank [2007] 2 SLR(R) 181 at [20]). In so doing, the appellate court will evaluate the cogency of the evidence given by the witnesses by testing it against inherent probabilities or against uncontroverted facts ( Peh Eng Leng v Pek Eng Leong [1996] 1 SLR(R) 939 at [22]). 
+ [34]–[36]). Furthermore, where a particular finding of fact is not based on the veracity or credibility of the witness, but instead, is based on an inference drawn from the facts or the evaluation of primary facts, the appellate court is in as good a position as the trial judge to undertake that exercise ( Tan Chin Seng v Raffles Town Club Pte Ltd <span class="citation">[2003] 3 SLR(R) 307</span> at [54] and Ho Soo Fong v Standard Chartered Bank <span class="citation">[2007] 2 SLR(R) 181</span> at [20]). In so doing, the appellate court will evaluate the cogency of the evidence given by the witnesses by testing it against inherent probabilities or against uncontroverted facts ( Peh Eng Leng v Pek Eng Leong <span class="citation">[1996] 1 SLR(R) 939</span> at [22]). 
 
-In _Goh Sin Huat Electrical Pte Ltd v Ho See Jui (trading as Xuanhua Art Gallery) and another_ [2012] 3 SLR 1038 (“ _Goh Sin Huat Electrical_ ”), the Court of Appeal extended these principles to appeals concerning the apportionment of liability amongst two or more defendants. 
+In _Goh Sin Huat Electrical Pte Ltd v Ho See Jui (trading as Xuanhua Art Gallery) and another_ <span class="citation">[2012] 3 SLR 1038</span> (“ _Goh Sin Huat Electrical_ ”), the Court of Appeal extended these principles to appeals concerning the apportionment of liability amongst two or more defendants. 
 
-38     The above passage suggests that where inferences of fact are concerned, a lower standard of review than that of “plainly wrong” applies. In this regard, we think it apposite to restate the observations of then Chief Justice Yong Pung How in _Yap Giau Beng Terence v Public Prosecutor_ [1998] 2 SLR(R) 855 (at [24]): 
+38     The above passage suggests that where inferences of fact are concerned, a lower standard of review than that of “plainly wrong” applies. In this regard, we think it apposite to restate the observations of then Chief Justice Yong Pung How in _Yap Giau Beng Terence v Public Prosecutor_ <span class="citation">[1998] 2 SLR(R) 855</span> (at [24]): 
 
  ... [W]hen it comes to inferences of fact to be drawn from the actual findings which have been ascertained, a different approach will be taken. In such cases, it is again trite law that an appellate judge is as competent as any trial judge to draw any necessary inferences of fact from the circumstances of the case. ... [emphasis added] 
 
-It is clear that the above passage contemplates a _de novo_ review by the appellate court where inferences of fact are concerned. This principle has in turn been affirmed in subsequent cases like _Jagatheesan s/o Krishnasamy v Public Prosecutor_ [2006] 4 SLR(R) 45 at [37]–[38], _Ho Soo Fong and another v Standard Chartered Bank_ [2007] 2 SLR(R) 181 at [20] and _Tan Chin Seng and others v Raffles Town Club Pte Ltd_ [2003] 3 SLR(R) 307 at [54]. 
+It is clear that the above passage contemplates a _de novo_ review by the appellate court where inferences of fact are concerned. This principle has in turn been affirmed in subsequent cases like _Jagatheesan s/o Krishnasamy v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 45</span> at [37]–[38], _Ho Soo Fong and another v Standard Chartered Bank_ <span class="citation">[2007] 2 SLR(R) 181</span> at [20] and _Tan Chin Seng and others v Raffles Town Club Pte Ltd_ <span class="citation">[2003] 3 SLR(R) 307</span> at [54]. 
 
-39     Subsequently, in _Thorben Langvad Linneberg v Leong Mei Kuen_ [2013] 1 SLR 207, the Court of Appeal affirmed (at [13]) the High Court’s decision in _Public Prosecutor v Wang Ziyi Able_ [2008] 2 SLR(R) 61 that an appellate court with access to the same material as the trial judge is in as good a position as the trial judge to assess a witness’s credibility in two situations, namely, where such assessment is based on inferences drawn from, respectively: 
+39     Subsequently, in _Thorben Langvad Linneberg v Leong Mei Kuen_ <span class="citation">[2013] 1 SLR 207</span>, the Court of Appeal affirmed (at [13]) the High Court’s decision in _Public Prosecutor v Wang Ziyi Able_ <span class="citation">[2008] 2 SLR(R) 61</span> that an appellate court with access to the same material as the trial judge is in as good a position as the trial judge to assess a witness’s credibility in two situations, namely, where such assessment is based on inferences drawn from, respectively: 
 
  (a) the internal consistency in the content of the witness’s testimony (the “Category 1” situation); and 
 

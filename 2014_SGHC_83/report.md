@@ -6,7 +6,7 @@
 
 **Case Number** :Suits No 861 and 862 of 2008 and 964 of 2009 **Decision Date** :22 April 2014 **Tribunal/Court** :High Court **Coram** :Woo Bih Li J **Counsel Name(s)** :Harish Kumar and Jonathan Toh (Rajah & Tann LLP) and Troy Yeo (Troy Yeo &Co) for the plaintiffs in Suit 964 and for the defendants in Suits 861 and 862; Niru Pillai and Liew Teck Huat (Global Law Alliance LLC) for the defendants in Suit964 and for the third parties in Suits 861 and 862; Michael Khoo SC and Ong Lee Woei (Michael Khoo & Partners) for the plaintiffs in Suits 861 and 862. **Parties** :Columbia Asia Healthcare Sdn Bhd — Hin Kit — Albert Hong Hin Kay P T Nusautama Medicalindo — Edward Hong 
 
-_Contract_ – _Breach Contract_ – _Remedies_ – _Damages Contract_ – _Privity of Contract_ – _Contracts (Rights of Third Parties) Act_ [Editorial note: This is the supplementary judgment to the main judgment reported at [2014] 3 SLR 87 .] 
+_Contract_ – _Breach Contract_ – _Remedies_ – _Damages Contract_ – _Privity of Contract_ – _Contracts (Rights of Third Parties) Act_ [Editorial note: This is the supplementary judgment to the main judgment reported at <span class="citation">[2014] 3 SLR 87</span> .] 
 
 22 April 2014 
 

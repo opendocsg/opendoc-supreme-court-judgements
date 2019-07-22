@@ -351,7 +351,7 @@ well-educated and upscale. [note: 19] In other words, the survey concentrated on
 37     The plaintiff highlighted that in assessing “a likelihood of confusion on the part of the public”, the average consumer need not necessarily mean the general public and the Court may ascertain who, precisely, the target consumers are ( _City Chain Stores (S) Pte Ltd v Louis Vuitton Malletier_ 
 
 
-[2010] 1 SLR 382 at [54] and [59]). Moreover, in _Jumbo Seafood Pte Ltd and Anor v Hong Kong Jumbo Seafood Restaurant Pte Ltd_ [1997] 3 SLR(R) 878, where 40% of the interviewees of a survey thought that the defendant’s restaurant was somehow associated or connected with the plaintiff’s restaurant, this was construed as evidence indicative of confusion. 
+<span class="citation">[2010] 1 SLR 382</span> at [54] and [59]). Moreover, in _Jumbo Seafood Pte Ltd and Anor v Hong Kong Jumbo Seafood Restaurant Pte Ltd_ <span class="citation">[1997] 3 SLR(R) 878</span>, where 40% of the interviewees of a survey thought that the defendant’s restaurant was somehow associated or connected with the plaintiff’s restaurant, this was construed as evidence indicative of confusion. 
 
 38     I was mindful of the defendants’ argument that the target consumers of the plaintiff were not “morons in a hurry” but were discerning consumers who would exercise care when choosing their skincare products. Nevertheless, I was of the opinion that such consumers were still likely to confuse the plaintiff’s products with the Clinique Suisse Business’ products due to the striking similarity between the trade marks and the packaging of the products. The survey had focused on the relevant segments of the public and the results demonstrating confusion between the Clinique and Clinique Suisse brand by approximately 46% of the interviewees could not be ignored. The interviewees of the survey clearly had difficulty distinguishing between the plaintiff and the defendants with regards to the origin of the products. This meant that there existed a likelihood of confusion on the part of the plaintiff’s target consumers. There was a risk that these customers might be misled into thinking that the defendants’ products emanated from the plaintiff. The defendants did not adduce evidence of any other survey to contradict and/or cast doubts on the results of the survey conducted by Asian Strategies Pte Ltd. 
 
@@ -372,7 +372,7 @@ _(5) The use of the Clinique Suisse Mark in relation to the Clinique Suisse Busi
 
 _(6) The plaintiff’s interests were likely to be damaged by the defendants’ use of the Clinique Suisse Mark._ 
 
-43     In _Novelty Pte Ltd v Amanresorts Ltd and another_ [2009] 3 SLR(R) 216, the Court of Appeal held (at [97] – [98]): 
+43     In _Novelty Pte Ltd v Amanresorts Ltd and another_ <span class="citation">[2009] 3 SLR(R) 216</span>, the Court of Appeal held (at [97] – [98]): 
 
 97\. There are two primary and very well-established means by which goodwill can be damaged, namely, by “blurring” and by “tarnishment”. Blurring occurs when the plaintiff’s get-up, instead of being indicative of only the plaintiff’s goods, services or business, also becomes indicative of the defendant’s goods, services or business. While customers may still be drawn by the attractive force of the plaintiff’s get-up, they may be drawn to the business, goods or services of the defendant instead of those of the plaintiff... the damage manifests itself in sales being diverted from the plaintiff to the defendant. 
 

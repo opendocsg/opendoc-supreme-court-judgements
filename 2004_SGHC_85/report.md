@@ -83,7 +83,7 @@ well as placing centipedes in his home. The acrimonious relationship came to a h
 16     In _R v Hodgson_ , the court listed three conditions for life imprisonment. The Court of Criminal Appeal in _Neo Man Lee v PP_ [1991] SLR 146 was in broad agreement with these three conditions. The 
 
 
-conditions were again cited with approval by MPH Rubin J in _PP v Lim Hock Hin_ [2002] 4 SLR 895. The conditions mentioned in _Hodgson_ at 114 were: 
+conditions were again cited with approval by MPH Rubin J in _PP v Lim Hock Hin_ <span class="citation">[2002] 4 SLR 895</span>. The conditions mentioned in _Hodgson_ at 114 were: 
 
  [A] sentence of life imprisonment is in our opinion justified: (1) where the offence or offences are in themselves grave enough to require a very long sentence; (2) where it appears from the nature of the offences or from the defendant’s history that he is a person of unstable character likely to commit such offences in the future; and (3) where if the offences are committed the consequences to others may be specially injurious, as in the case of sexual offences or crimes of violence. 
 

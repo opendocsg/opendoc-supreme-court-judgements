@@ -16,7 +16,7 @@
 
 _Civil Procedure_ – _Costs_ – _Taxation_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2015] SGHC 129 .] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2015] SGHC 129</span> .] 
 
 9 March 2016 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Civil Procedure_ – _Costs_ – _Taxation_
 
 **Introduction** 
 
-1       This appeal was brought by Dr Susan Lim Mey Lee (“the Appellant”) against the decision of the High Court Judge (“the Judge”) in _Singapore Medical Council v Lim Mey Lee Susan_ [2015] SGHC 129 (“the Judgment”), concerning the party-and-party costs payable by her to the Respondent, the Singapore Medical Council (“the SMC”), in a Bill of Costs which was rendered for work done for hearings before two Disciplinary Committees. The issue on appeal is a narrow one: it concerns the fees of the second legal assessor (“2nd LA”) to the second Disciplinary Committee (“2nd DC”) appointed by the SMC for the disciplinary inquiry of the Appellant. 
+1       This appeal was brought by Dr Susan Lim Mey Lee (“the Appellant”) against the decision of the High Court Judge (“the Judge”) in _Singapore Medical Council v Lim Mey Lee Susan_ <span class="citation">[2015] SGHC 129</span> (“the Judgment”), concerning the party-and-party costs payable by her to the Respondent, the Singapore Medical Council (“the SMC”), in a Bill of Costs which was rendered for work done for hearings before two Disciplinary Committees. The issue on appeal is a narrow one: it concerns the fees of the second legal assessor (“2nd LA”) to the second Disciplinary Committee (“2nd DC”) appointed by the SMC for the disciplinary inquiry of the Appellant. 
 
 **Our decision** 
 

@@ -52,7 +52,7 @@ Indeed, in the English Court of Appeal decision of _Attorney-General v Newspaper
 9       More than two years later, on 22 December 2004, KBC obtained a domestic Mareva injunction (“the Singapore injunction”) against Petral and PES one day after they had obtained, in Hong Kong, a worldwide Mareva injunction against Petral. After the Singapore injunction was obtained, KBC was given leave to serve court documents on Petral, out of jurisdiction. On 17 and 18 January 2005, PES and Petral, respectively, applied for, _inter alia_ , a discharge of the Singapore injunction. They were in fact successful and the Singapore injunction was discharged on 14 March 2005 (see _Karaha Bodas Co_ 
 
 
-_LLC v Pertamina Energy Trading Ltd_ [2005] 2 SLR 568, affirmed in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd_ [2006] 1 SLR 112). 
+_LLC v Pertamina Energy Trading Ltd_ <span class="citation">[2005] 2 SLR 568</span>, affirmed in _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd_ <span class="citation">[2006] 1 SLR 112</span>). 
 
 10     Crucially, though, on 26 January 2005, Petral, through their lawyers sent a letter to KBC’s Singapore lawyers informing KBC of a transfer of funds from Bank Mandiri in Singapore to Dah Sing Bank in Hong Kong. Petral claimed in its letter that the transfer was to effect payments as itemised in the letter. The text of the letter is as follows: 
 
@@ -68,7 +68,7 @@ _LLC v Pertamina Energy Trading Ltd_ [2005] 2 SLR 568, affirmed in _Karaha Bodas
 
 **The issues** 
 
-14     This appeal is brought by the appellant, Petral, against the decision of the trial judge (“the Judge”) dismissing the appellant’s committal application against the respondents for contempt of court (see _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd_ [2006] 3 SLR 721 (hereafter, “GD”)). 
+14     This appeal is brought by the appellant, Petral, against the decision of the trial judge (“the Judge”) dismissing the appellant’s committal application against the respondents for contempt of court (see _Karaha Bodas Co LLC v Pertamina Energy Trading Ltd_ <span class="citation">[2006] 3 SLR 721</span> (hereafter, “GD”)). 
 
 15     The issues raised by the appellant in the present proceedings are set out as follows: 
 
@@ -216,12 +216,12 @@ And, in the same decision, McHugh J observed thus (at 855):
 
 Reference may also be made, in the same case, to the judgment of McHugh J (especially at 857–858). 
 
-35     Most importantly, perhaps, the criminal standard of proof has in fact been clearly endorsed in the Singapore context in the Singapore High Court decision of _Summit Holdings Ltd v Business Software Alliance_ [1999] 3 SLR 197 (“ _Summit Holdings_ ”) at [25]. We take the present opportunity to confirm that the criminal standard of proof applies in all contempt proceedings. 
+35     Most importantly, perhaps, the criminal standard of proof has in fact been clearly endorsed in the Singapore context in the Singapore High Court decision of _Summit Holdings Ltd v Business Software Alliance_ <span class="citation">[1999] 3 SLR 197</span> (“ _Summit Holdings_ ”) at [25]. We take the present opportunity to confirm that the criminal standard of proof applies in all contempt proceedings. 
 
 
 **_The implied undertaking under the principles established in Riddick_** 
 
-36     The general propositions in this particular regard are straightforward. The leading decision is that of the English Court of Appeal in _Riddick v Thames Board Mills Ltd_ [1977] QB 881 (“ _Riddick_ ”). It has been applied in Singapore in a number of cases (see, for example, the Singapore Court of Appeal decisions of _Microsoft Corporation v SM Summit Holdings Ltd_ [1999] 4 SLR 529 (“ _Microsoft Corporation_ ”); _Stansfield Business International Pte Ltd v VCS Vardan_ [1998] 1 SLR 641; and _Hong Lam Marine Pte Ltd v Koh Chye Heng_ [1998] 3 SLR 833 (“ _Hong Lam Marine_ ”); as well as the Singapore High Court decision of _Sim Leng Chua v Manghardt_ [1987] SLR 205). 
+36     The general propositions in this particular regard are straightforward. The leading decision is that of the English Court of Appeal in _Riddick v Thames Board Mills Ltd_ [1977] QB 881 (“ _Riddick_ ”). It has been applied in Singapore in a number of cases (see, for example, the Singapore Court of Appeal decisions of _Microsoft Corporation v SM Summit Holdings Ltd_ <span class="citation">[1999] 4 SLR 529</span> (“ _Microsoft Corporation_ ”); _Stansfield Business International Pte Ltd v VCS Vardan_ <span class="citation">[1998] 1 SLR 641</span>; and _Hong Lam Marine Pte Ltd v Koh Chye Heng_ <span class="citation">[1998] 3 SLR 833</span> (“ _Hong Lam Marine_ ”); as well as the Singapore High Court decision of _Sim Leng Chua v Manghardt_ [1987] SLR 205). 
 
 37     In _Riddick_ itself, Lord Denning MR set out the relevant principles as follows (at 896): 
 

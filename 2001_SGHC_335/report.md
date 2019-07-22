@@ -70,7 +70,7 @@ The first issue: credibility of PW4 and PW
 
  c The external consistency (or lack thereof) between the content of his evidence and extrinsic evidence (for example, the evidence of other witnesses, documentary evidence or exhibits). 
 
-10     The starting point in relation to findings based on demeanour was _Yap Giau Beng Terence v PP_ [1998] 3 SLR 656: 
+10     The starting point in relation to findings based on demeanour was _Yap Giau Beng Terence v PP_ <span class="citation">[1998] 3 SLR 656</span>: 
 
  It is trite law that an appellate court should be slow to overturn the trial judges findings of fact, especially where they hinge on the trial judges assessment of the credibility and veracity of witnesses , unless they can be shown to be plainly wrong or against the weight of evidence ( emphasis added ) 
 
@@ -91,7 +91,7 @@ This was relevant to all the witnesses, but it was especially so to PW4. In PW4s
 
 _The second issue: credibility of the defence witnesses_ 
 
-13     DW2 and DW3, being relatives of the appellant, were interested witnesses. In _Thirumalai Kumar v PP_ [1997] 3 SLR 434, the court said of the appellants wife and mother: "Both were interested parties and there was every reason to treat their evidence with caution." 
+13     DW2 and DW3, being relatives of the appellant, were interested witnesses. In _Thirumalai Kumar v PP_ <span class="citation">[1997] 3 SLR 434</span>, the court said of the appellants wife and mother: "Both were interested parties and there was every reason to treat their evidence with caution." 
 
 14     There were two main issues in which material discrepancies in the defences evidence surface. First, the allegations of theft revealed the following weaknesses: 
 
@@ -157,7 +157,7 @@ However, as the victim in this case was a domestic maid and the perpetrator her 
 
  (2) Where an employer of a domestic maid or a member of the employer's household is convicted of an offence described in subsection (1)(a) the court m a y sentence the employer of the domestic maid or the member of his household, as the case may be, to one and a half times the amount of punishment to which he would otherwise have been liable for that offence. ( emphasis added ) 
 
-23     There were no real mitigating factors here. The fact that the appellant had no antecedents itself did not carry much weight. As was said in _PP v Tan Fook Sum_ [1999] 2 SLR 523: 
+23     There were no real mitigating factors here. The fact that the appellant had no antecedents itself did not carry much weight. As was said in _PP v Tan Fook Sum_ <span class="citation">[1999] 2 SLR 523</span>: 
 
  The fact that the respondent has no previous convictions is of little assistance to him. The inference here must be that the respondent as a first offender and being of good character is a mitigating factor the weight to be given to this would be greater if there were positive evidence as to character rather than the negative inference from the absence of other convictions. 
 

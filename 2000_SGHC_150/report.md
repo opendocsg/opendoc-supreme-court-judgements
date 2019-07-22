@@ -151,7 +151,7 @@ _The rules to be applied_
 
 ## granted. 
 
-17\. These factors were referred to and approved by the Court of Appeal in _Pearson v Chen Chien Wen Edwin_ [1991] 1 SLR 212 where Chief Justice Yong Pung How stated "(i)n particular, the chances of the appeal succeeding should be considered, as it would be a waste of time for all concerned if time is extended when the appeal is utterly hopeless". 
+17\. These factors were referred to and approved by the Court of Appeal in _Pearson v Chen Chien Wen Edwin_ <span class="citation">[1991] 1 SLR 212</span> where Chief Justice Yong Pung How stated "(i)n particular, the chances of the appeal succeeding should be considered, as it would be a waste of time for all concerned if time is extended when the appeal is utterly hopeless". 
 
 18\. The application before the Court of Appeal was for an extension of time to file an appeal against an order on the division of matrimonial assets following the dissolution of a marriage. The appellant was aggrieved that she was not awarded $160,000 that she has received under a deed of reconciliation, but did not file her appeal in time. The Court dismissed her application for an extension of time to file it because she had repudiated the deed when the respondent applied to court in earlier proceedings for it to be approved. The Court disapproved of her inconsistency and added that when a party applies to the court for an extension of time, the application should be on grounds sufficient to persuade the court to show sympathy to him. 
 
@@ -226,7 +226,7 @@ Neither the respondent nor his counsel has asserted that he would be prejudiced 
 
 _My decision_ 
 
-26\. The appellants application to amend the Notice of Appeal was filed very late, without acceptable reasons for the delay. This can weigh heavily against her. In _Stansfield Business International Pte Ltd (t/a Stansfield School of Business) v Vithya Sri Sumathis_ [1999] 3 SLR 239, Justice Chao Hick Tin (as he then was) found the failure of a solicitor to instruct his clerk to serve a notice of appeal immediately after it was filed, and the clerks delay in filing it were not sufficient grounds to warrant the exercise of his discretion to extend time for the service of the notice by seven days, although he was of the view that there were merits in the appeal. 
+26\. The appellants application to amend the Notice of Appeal was filed very late, without acceptable reasons for the delay. This can weigh heavily against her. In _Stansfield Business International Pte Ltd (t/a Stansfield School of Business) v Vithya Sri Sumathis_ <span class="citation">[1999] 3 SLR 239</span>, Justice Chao Hick Tin (as he then was) found the failure of a solicitor to instruct his clerk to serve a notice of appeal immediately after it was filed, and the clerks delay in filing it were not sufficient grounds to warrant the exercise of his discretion to extend time for the service of the notice by seven days, although he was of the view that there were merits in the appeal. 
 
 27\. The appellants delay is long, unmitigated, and repeated in that after being slow to realise that the Notice of Appeal needed to be amended, she was slow in making the application to amend. She also faces the difficulty of seeking a division of shares the respondent did not possess. 
 

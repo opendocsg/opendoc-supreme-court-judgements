@@ -29,7 +29,7 @@ _Civil Procedure_ – _Summary judgment_ – _Whether to stay execution of summa
 
 p 155). 
 
-4       The requirement of a connection between the claim and cross-claim was reaffirmed by the Court of Appeal in _Cheng Poh Construction Pte Ltd v First City Builders Pte Ltd_ [2003] 2 SLR 170 at [11] and [18] in these terms: 
+4       The requirement of a connection between the claim and cross-claim was reaffirmed by the Court of Appeal in _Cheng Poh Construction Pte Ltd v First City Builders Pte Ltd_ <span class="citation">[2003] 2 SLR 170</span> at [11] and [18] in these terms: 
 
  It is settled law that where claims and counterclaims arise out of the same transaction, and while the claims are admitted and the counterclaims are disputed, then so long as the counterclaims are plausible, the correct order to make would be that while judgment should be entered in respect of the claims, it should be stayed pending trial of the counterclaims: see Sheppards & Co v Wilkinson & Jarvis (1889) 6 TLR 13. But where a counterclaim does not arise from the same transaction, or is not connected therewith, different rules apply: eg , Anglian Building Products Ltd v W & C French (Construction) Ltd (1978) 16 BLR 6, and AB Contractor Ltd v Flaherty Brothers Ltd (1978) 16 BLR 10. 
 

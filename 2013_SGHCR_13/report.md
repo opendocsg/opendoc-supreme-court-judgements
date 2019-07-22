@@ -59,7 +59,7 @@ _Damages_ – _Assessment_
 
 12     The medical evidence from all the doctors are that the fracture of the right tibia and fibula is fully healed with decreased movement in the right ankle. There also appears to be some residual pain and stiffness as reported by the plaintiff. 
 
-13     The plaintiff claims the amount of $25,000 for this item based on the case of _Goh Eng Hong v Management Corporation of Textile Center and another (“Goh Eng Hong”) [2003] 1 SLR(R) 209_. In this case, a 51 year old host _mamasan_ suffered an open compound fracture of the left tibia and fibula. There was a delayed union of the fractured left tibia which required posterolateral bone grafting and x-rays showed poor fracture union. Acute shortening and Ilizarov distraction osteotomy of the left tibia and limited bone grafting were conducted. The plaintiff had to wear a shoe with a shoe raise and walked with a mild limp. She was awarded $40,000 for the fracture of the left tibia and fibula _as well as_ the fracture of the medial malleolus of left ankle. 
+13     The plaintiff claims the amount of $25,000 for this item based on the case of _Goh Eng Hong v Management Corporation of Textile Center and another (“Goh Eng Hong”) <span class="citation">[2003] 1 SLR(R) 209</span>_. In this case, a 51 year old host _mamasan_ suffered an open compound fracture of the left tibia and fibula. There was a delayed union of the fractured left tibia which required posterolateral bone grafting and x-rays showed poor fracture union. Acute shortening and Ilizarov distraction osteotomy of the left tibia and limited bone grafting were conducted. The plaintiff had to wear a shoe with a shoe raise and walked with a mild limp. She was awarded $40,000 for the fracture of the left tibia and fibula _as well as_ the fracture of the medial malleolus of left ankle. 
 
 14     I am of the view that _Goh Eng Hong_ may be distinguished as injuries and disabilities suffered by the plaintiff were significantly more severe than this case. 
 
@@ -90,13 +90,13 @@ amount of $14,000 was awarded for fracture of the left tibia and fibula which wa
 
 21     The plaintiff submits that $10,000 should be awarded for the scars based on the range provided for multiple scars which is between $5,000 to $15,000 at page 57 of the _Guidelines for the Assessment of General Damages in Personal Injury Cases (Academy Publishing, 2010)._ 
 
-22     The defendant relies on _Aw Ang Moh v OCWS Logistics Pte Ltd [1998] SGHC 167_ where the amount of $4,000 was awarded for 2 scars from skin grafts measuring 9 cm x 8cm and 7cm x 2cm, a 3 cm surgical scar, 10 cm laceration scar and 4cm x 2 cm abrasion scar. The defendant submits the amount of $3,000 as the scars in this case as the scars on this authority is more severe than that of the plaintiff here. I agree with the defendant’s submission as the authority relied on provides details of the scars that were suffered and accordingly award **$3,000** for this item. 
+22     The defendant relies on _Aw Ang Moh v OCWS Logistics Pte Ltd <span class="citation">[1998] SGHC 167</span>_ where the amount of $4,000 was awarded for 2 scars from skin grafts measuring 9 cm x 8cm and 7cm x 2cm, a 3 cm surgical scar, 10 cm laceration scar and 4cm x 2 cm abrasion scar. The defendant submits the amount of $3,000 as the scars in this case as the scars on this authority is more severe than that of the plaintiff here. I agree with the defendant’s submission as the authority relied on provides details of the scars that were suffered and accordingly award **$3,000** for this item. 
 
 **_Loss of Future Earnings v Loss of Earning Capacity_** 
 
 23     The issue is whether loss of future earnings, as submitted by the plaintiff, or loss of earning capacity, as submitted by the defendant, should be made. 
 
-24     In _Teo Sing Keng & Anor v Sim Ban Kiat [1994] 1 SLR 634 (“Teo Sing Keng”)_ , the Court of Appeal stated at p646: 
+24     In _Teo Sing Keng & Anor v Sim Ban Kiat <span class="citation">[1994] 1 SLR 634</span> (“Teo Sing Keng”)_ , the Court of Appeal stated at p646: 
 
  Although loss of earnings and loss of earning capacity have sometimes been used 
 
@@ -117,7 +117,7 @@ amount of $14,000 was awarded for fracture of the left tibia and fibula which wa
 
  (2) where there is no available evidence of the plaintiff’s earnings to enable the court to properly calculate future earnings, for example young children who have no earnings on which to base an assessment for loss of future earnings. 
 
-25     In _Liu Haixiang v China Construction (South Pacific) Development Co Pte Ltd [2009] SGHC 21(“Liu Haixiang”)_ , Prakash J referred to the above quote from _Teo Sing Keng_ and observed at [25]: 
+25     In _Liu Haixiang v China Construction (South Pacific) Development Co Pte Ltd <span class="citation">[2009] SGHC 21</span>(“Liu Haixiang”)_ , Prakash J referred to the above quote from _Teo Sing Keng_ and observed at [25]: 
 
  It can be seen from the above discussion that where there is a measurable loss of earnings, the correct award is for loss of future earnings. In this case, there was a measurable loss of earnings because, due to his injury, the plaintiff was no longer able to work as a construction in Singapore and at the time of the trial he was, in fact, no longer in such employment. 
 
@@ -142,16 +142,16 @@ amount of $14,000 was awarded for fracture of the left tibia and fibula which wa
 
 32     The plaintiff was 22 years old at the time of the accident and presently, he is 25 years old. I am of the view that a multiplier of 18 would be appropriate and are in line with the following cases: 
 
- (a) In Teo Seng Kiat v Goh Hwa Teck [2003] 1 SLR 333 (cited in the Practitioner’s Library Assessment of Damages: Personal Injuries and Fatal Accidents (Lexis Nexis, 2 nd Ed, 2005 (“Practitioner’s Library”) at p657), a multiplier of 18 years was applied in respect of the plaintiff, a male, who was injured at the age of 25. 
+ (a) In Teo Seng Kiat v Goh Hwa Teck <span class="citation">[2003] 1 SLR 333</span> (cited in the Practitioner’s Library Assessment of Damages: Personal Injuries and Fatal Accidents (Lexis Nexis, 2 nd Ed, 2005 (“Practitioner’s Library”) at p657), a multiplier of 18 years was applied in respect of the plaintiff, a male, who was injured at the age of 25. 
 
- (b) In Wu Liang Zhu v Chan Yue Ming & Anor [2002] SGHC 91 (cited in the Practitioner’s Library at p676), a multiplier of 17 years was applied in respect of the plaintiff, a male, who was injured at the age of 28. 
+ (b) In Wu Liang Zhu v Chan Yue Ming & Anor <span class="citation">[2002] SGHC 91</span> (cited in the Practitioner’s Library at p676), a multiplier of 17 years was applied in respect of the plaintiff, a male, who was injured at the age of 28. 
 
 
 33     As the plaintiff is a foreigner working in the manufacturing industry, which is similar to the construction industry, I am of the view that the Singapore portion should be awarded 8 years and the China portion should be awarded 10 years. This would “more accurately reflect the vicissitudes of life and particularly of working life for a foreigner in the construction industry who needs a work permit and has to complete for jobs with younger foreign workers”. See _Liu Haixiang_ at [31]. 
 
 34     The second issue is to determine the multiplicand. In calculating this, I follow the method laid down by Prakash J in _Liu Haixiang_ at [33]. 
 
-35     In line with the High Court in _Liu Haixiang_ and the Court of Appeal in _Poh Huat Heng Corp Pte Ltd and others v Hafizul Islam Kofil Uddin [2012] 3 SLR 1003 (“Poh Huat Heng”)_ , I am of the view that a split multiplicand should be adopted with part of the multiplicand calculated on the basis of the plaintiff’s wages in Singapore and the other part on his possible wages in China. 
+35     In line with the High Court in _Liu Haixiang_ and the Court of Appeal in _Poh Huat Heng Corp Pte Ltd and others v Hafizul Islam Kofil Uddin <span class="citation">[2012] 3 SLR 1003</span> (“Poh Huat Heng”)_ , I am of the view that a split multiplicand should be adopted with part of the multiplicand calculated on the basis of the plaintiff’s wages in Singapore and the other part on his possible wages in China. 
 
 36     First, I determine what the plaintiff would be able to earn in China in his present condition. As mentioned above, the plaintiff has produced a Certificate of Income from his ex-employer in China stating that he earned $800 per month as a driver. The defendant has challenged this evidence on the basis that it has not been corroborated as the plaintiff has not called his ex-employer to give evidence on the same. 
 

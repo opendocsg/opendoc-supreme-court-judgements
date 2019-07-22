@@ -35,7 +35,7 @@ _Contract_ – _Privity of Contract_ – _Contracts (Rights of Third Parties) Ac
 5       Bob Teo took the position that the negotiations resulted in a concluded settlement agreement, but the plaintiff company maintained that there was no concluded agreement. This led to Bob Teo’s filing of Suit No 243 of 2007 (“Suit 243”), against the plaintiff company for a declaration that there was a concluded agreement and for specific performance of the agreement. The action resulted in a 
 
 
-judgment on 30 May 2008 in favour of Bob Teo: see _Teo Seng Kee Bob v Arianecorp Ltd_ [2008] 3 SLR(R) 1114. 
+judgment on 30 May 2008 in favour of Bob Teo: see _Teo Seng Kee Bob v Arianecorp Ltd_ <span class="citation">[2008] 3 SLR(R) 1114</span>. 
 
 **The present action** 
 
@@ -80,7 +80,7 @@ _Dictionary_ , (Bryan A Garner chief ed) (West 9th Ed, 2009) as:
 
  enforce , vb. 1. To give force or effect to (a law, etc.); to compel obedience to. 2. Loosely, to compel a person to pay damages for not complying with (a contract). 
 
-18     In the contractual context, “enforce” covers the seeking of compliance or performance of a term of a contract as well as the seeking of damages for the breach of contract. If further support is necessary, this can be found in the Court of Appeal’s statement in _Alliance Concrete Singapore Pte Ltd v Comfort Resources Pte Ltd_ [2009] 4 SLR(R) 602 at [31] that “ _every_ breach of contract _will always_ entitle the innocent party to claim damages _as of right_ ” [emphasis in original]. 
+18     In the contractual context, “enforce” covers the seeking of compliance or performance of a term of a contract as well as the seeking of damages for the breach of contract. If further support is necessary, this can be found in the Court of Appeal’s statement in _Alliance Concrete Singapore Pte Ltd v Comfort Resources Pte Ltd_ <span class="citation">[2009] 4 SLR(R) 602</span> at [31] that “ _every_ breach of contract _will always_ entitle the innocent party to claim damages _as of right_ ” [emphasis in original]. 
 
 19     Against the background of these clarifications, a party seeking to recover damages incurred as a result of the breach of a term of a contract is enforcing the term. Consequently, when Abkey made the claim for damages for late delivery, it was enforcing the term for the delivery of the inventory, albeit the inventory had already been delivered and Abkey was not seeking specific performance. 
 

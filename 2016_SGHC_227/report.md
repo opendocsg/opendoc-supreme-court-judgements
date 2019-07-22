@@ -18,7 +18,7 @@ _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ – _Importati
 
 _Criminal procedure and sentencing_ – _Sentencing_ – _Importation of controlled drugs_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 27 of 2016 was dismissed by the Court of Appeal on 27 March 2017. See [2017] SGCA 39.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 27 of 2016 was dismissed by the Court of Appeal on 27 March 2017. See <span class="citation">[2017] SGCA 39</span>.] 
 
 17 October 2016 
 
@@ -126,7 +126,7 @@ business. The baggage handling area of an airport is a high-security zone as the
 
 The result turns on the question of whether, for the purposes of s 18(1)( _a_ ) of the MDA, Pham had possession, custody or control of the Suitcase, which is the “thing” containing a controlled drug. 
 
-27     In _Van Damme Johannes v Public Prosecutor_ [1993] 3 SLR(R) 694 (“ _Van Damme_ ”), the appellant had flown to Changi Airport and was on transit to Athens. His luggage, which was checked in at Phuket, was retrieved by narcotics officers from the in-flight spur area in Changi Airport and 
+27     In _Van Damme Johannes v Public Prosecutor_ <span class="citation">[1993] 3 SLR(R) 694</span> (“ _Van Damme_ ”), the appellant had flown to Changi Airport and was on transit to Athens. His luggage, which was checked in at Phuket, was retrieved by narcotics officers from the in-flight spur area in Changi Airport and 
 
 
 found to have Diamorphine hidden in it. The Court of Appeal held that this constituted possession for the purposes of s 18(1) of the Misuse of Drugs Act (Cap 185, 1985 Rev Ed) (“the 1985 MDA”). Section 18(1) of the 1985 MDA is identical to s 18(1) of the MDA. In rejecting the appellant’s argument that he did not have the luggage “in his possession, control or under his custody”, the Court of Appeal stated at [8] of its judgment: 
@@ -156,7 +156,7 @@ In the situations envisaged in s 18(1)( _b_ ), ( _c_ ) and ( _d_ ) of the MDA, t
 
 is clear that s 18(3) of the MDA is meant to exclude the possibility of the presumption being rebutted even though the accused had never been anywhere near the controlled drug at all. I therefore proceeded on the basis that the word “possession” in s 18(1) of the MDA refers to physical possession. 
 
-2       9 _Van Damme_ was followed in _Ubaka Chris Chinenye v Public Prosecutor_ [1994] 3 SLR(R) 401 (“ _Chinenye_ ”). In the latter case, the accused had flown into Singapore from Bangkok intending to transfer to Lagos _via_ Bangkok and Zurich. He was apprehended at the airport before he could retrieve his luggage from the belt. He had in his possession two luggage claim tickets for them. Controlled drugs were found in the two pieces of luggage after they were retrieved. The Court of Appeal said at [8]: 
+2       9 _Van Damme_ was followed in _Ubaka Chris Chinenye v Public Prosecutor_ <span class="citation">[1994] 3 SLR(R) 401</span> (“ _Chinenye_ ”). In the latter case, the accused had flown into Singapore from Bangkok intending to transfer to Lagos _via_ Bangkok and Zurich. He was apprehended at the airport before he could retrieve his luggage from the belt. He had in his possession two luggage claim tickets for them. Controlled drugs were found in the two pieces of luggage after they were retrieved. The Court of Appeal said at [8]: 
 
  ... Furthermore, this court held in [ Van Damme ] that an accused person has possession of a bag even though it would have normally remained in the in-flight area of the airport throughout the whole length of his transit in Singapore and he could not ordinarily have retrieved it. Accordingly, the presumption under ss 18(1) and 18(2) of [the 1985 MDA] operated. 
 

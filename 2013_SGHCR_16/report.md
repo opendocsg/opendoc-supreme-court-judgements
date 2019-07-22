@@ -76,7 +76,7 @@ onward transmission to Labcon. Upon receipt of payment from Labcon, the Plaintif
 
 **The role of the court in a setting aside application** 
 
-15     The Court of Appeal in _Lee Wee Lick Terence (alias Li Weili Terence) v Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) and another appeal_ [2013] 1 SLR 401 (“ _Terence Lee_ ”) examined the role of the court in a setting aside application and opined: 
+15     The Court of Appeal in _Lee Wee Lick Terence (alias Li Weili Terence) v Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) and another appeal_ <span class="citation">[2013] 1 SLR 401</span> (“ _Terence Lee_ ”) examined the role of the court in a setting aside application and opined: 
 
  66 ... the court should not review the merits of an adjudicator's decision. The court does, however, have the power to decide whether the adjudicator was validly appointed. If there is no payment claim or service of a payment claim, the appointment of an adjudicator will be invalid, 
 
@@ -110,11 +110,11 @@ statutory definition of “construction work”. In my view, it is clear that th
 
 19     I now turn to the Plaintiff’s contention that the Act is not meant to apply to the Agreement because the Plaintiff has never undertaken an obligation to pay the Defendant and that the Plaintiff is only obliged to “procure” monthly progress payments from Labcon by acting as an intermediary to facilitate the submission of the progress claims from the Defendant to Labcon through the Plaintiff. 
 
-20     Clause 9 of the Agreement states that the Plaintiff shall “procure” monthly progress payment from Labcon. The meaning of the word “procure” was judicially considered in _Tan Hock Keng v L & M Group Investments Ltd_ [2002] 1 SLR(R) 672 at [28]: 
+20     Clause 9 of the Agreement states that the Plaintiff shall “procure” monthly progress payment from Labcon. The meaning of the word “procure” was judicially considered in _Tan Hock Keng v L & M Group Investments Ltd_ <span class="citation">[2002] 1 SLR(R) 672</span> at [28]: 
 
  28 We note that one of the meanings given to the word "procure" in the Shorter Oxford English Dictionary (3rd Ed) vol II is "to induce, persuade". But the other meanings given are "to bring about", "to cause", "to obtain" and "to acquire". What is the correct meaning to give to the word "procure" in cl 15.1 must depend not only on its context but also the context of the entire document. We are unable to accept Tan's contention that in the context of cl 15.1 the word "procure" means only to "persuade or take steps". If that was the intention, then the parties would have easily used the clearer word "endeavour", or the expression "use his best endeavour". If the parties had intended that there should be some flexibility in relation to the obligation, they would have adopted a modified form of words as they had done in cl 2.3: "the parties shall use their respective best endeavours to procure the fulfilment ...". In our judgment, the word "shall procure" in cl 15.1 means "shall cause a thing to be done", "shall ensure" or "shall bring about". It is a definite obligation which is being assumed. While we agree that "procure" in cl 15.1 does not mean that Tan undertakes to pay the loans himself but it does mean that Tan undertakes to ensure that KWF would repay and when KWF does not repay, Tan would have breached his obligation of "ensuring" or "seeing to it" that KWF repay. 
 
-21     As observed above, the word “procure” can be interpreted in at least two different ways. The question then is which interpretation the court should adopt for the purposes of the Agreement. When interpreting the Agreement, the court has to ascertain the meaning which the Agreement would convey to a reasonable business person: see _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR 1029 at [131]. Looking at the context of the Agreement, I am of the view that the word “procure” means a definite obligation on the Plaintiff’s part to ensure that Labcon makes the monthly progress payments. If the Plaintiff’s submission is correct, i.e. the Plaintiff is only obliged to persuade Labcon to make payment and nothing more, the following consequences will follow: 
+21     As observed above, the word “procure” can be interpreted in at least two different ways. The question then is which interpretation the court should adopt for the purposes of the Agreement. When interpreting the Agreement, the court has to ascertain the meaning which the Agreement would convey to a reasonable business person: see _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR 1029</span> at [131]. Looking at the context of the Agreement, I am of the view that the word “procure” means a definite obligation on the Plaintiff’s part to ensure that Labcon makes the monthly progress payments. If the Plaintiff’s submission is correct, i.e. the Plaintiff is only obliged to persuade Labcon to make payment and nothing more, the following consequences will follow: 
 
  (a) the Defendant would be left without any recourse against the Plaintiff if Labcon for any reason fails to make payment to the Plaintiff after receiving the Defendant’s progress claims that are submitted through the Plaintiff; 
 
@@ -146,9 +146,9 @@ the Plaintiff’s interpretation does not reflect the mutual intentions of the p
  (b) Under s 10(1) of the Act, a claimant may only serve one payment claim in respect of a progress payment. The Plaintiff submitted that I am bound by the ruling in JFC Builders Pte Ltd v 
 
 
- LionCity Construction Co Pte Ltd [2013] 1 SLR 1157 (“ JFC Builders”) that repeat claims are prohibited under the Act; 
+ LionCity Construction Co Pte Ltd <span class="citation">[2013] 1 SLR 1157</span> (“ JFC Builders”) that repeat claims are prohibited under the Act; 
 
- (c) The observations made by the Court of Appeal in Terence Lee and by the High Court in Admin Construction Pte Ltd v Vivaldi (S) Pte Ltd [2013] SGHC 95 (“ Vivaldi ”) that repeat claims are not prohibited under the Act are obiter dicta ; 
+ (c) The observations made by the Court of Appeal in Terence Lee and by the High Court in Admin Construction Pte Ltd v Vivaldi (S) Pte Ltd <span class="citation">[2013] SGHC 95</span> (“ Vivaldi ”) that repeat claims are not prohibited under the Act are obiter dicta ; 
 
 26     In response, the Defendant submitted that: 
 
@@ -187,7 +187,7 @@ He concluded that there is no prohibition against a “repeat” claim unless it
 
  68 It also seemed to me that it is an abuse to allow a claimant to make repeat claims which he will do if, for example, he has missed the deadline under SOPA to serve his earlier payment claim. Indeed, the deadline to do so would also be rendered largely nugatory if he can resurrect a new deadline by merely issuing and serving a repeat claim. 
 
-32     As to the observations made by the Court of Appeal in _Terence Lee_ disapproving the finding in _Doo Ree Engineering & Trading Pte Ltd v Taisei Corporation_ [2009] SGHC 218 that s 10(1) of the Act prohibits all repeat claims, Woo J opined: 
+32     As to the observations made by the Court of Appeal in _Terence Lee_ disapproving the finding in _Doo Ree Engineering & Trading Pte Ltd v Taisei Corporation_ <span class="citation">[2009] SGHC 218</span> that s 10(1) of the Act prohibits all repeat claims, Woo J opined: 
 
  78 It is not clear to me whether the Court of Appeal was referring to a repeat claim as I have described it at [48] [sic] above or not. Moreover, no reasons were given for its view. Accordingly, I will say no more about it for the time being. 
 
@@ -260,7 +260,7 @@ and no further work was done. I note that Woo J had carefully confined his decis
 
 handwritten calculations of the sum payable for the strutting system found in the 2nd layer strutting layout plan which did not tally with the figures found in the Payment Claim. On 24 January 2013, the project quantity surveyor also informed the Plaintiff had made an “over claim” for the sums at Part D of the Payment Claim. 
 
-47     At the hearing, the Defendant contended that there were sufficient particulars. However, it did not seek to defend the accuracy of the handwritten calculations provided by the Defendant. Instead, it was submitted that the court should not delve into the merits of the claim and that the Plaintiff should commence separate legal proceedings against the Defendant if it challenges the quantum of the claim. If the court were to find that the particulars were lacking, such insufficiency of particulars is not fatal to the claim based on the case of _Australian Timber Products Pte Ltd v A Pacific Construction & Development Pte Ltd_ [2013] SGHC 56 (“ _Australian Timber Products_ ”). 
+47     At the hearing, the Defendant contended that there were sufficient particulars. However, it did not seek to defend the accuracy of the handwritten calculations provided by the Defendant. Instead, it was submitted that the court should not delve into the merits of the claim and that the Plaintiff should commence separate legal proceedings against the Defendant if it challenges the quantum of the claim. If the court were to find that the particulars were lacking, such insufficiency of particulars is not fatal to the claim based on the case of _Australian Timber Products Pte Ltd v A Pacific Construction & Development Pte Ltd_ <span class="citation">[2013] SGHC 56</span> (“ _Australian Timber Products_ ”). 
 
 
 48     In _Australian Timber Products_ , the court had to consider if a payment claim which did not comply with reg 5(2)(c)(iii) and (iv) would be rendered invalid. The payment claim in question did not contain any information about quantity and rate for the work done and there were no calculations provided in support of the claim. After considering the purpose of the Act which is to facilitate the smooth and prompt cash flow of contractors in the construction industry, the court held it was not the legislative purpose that a failure to provide those particulars would invalidate the payment claim. The relevant extracts of the judgment of Woo J are set out below: 
@@ -280,7 +280,7 @@ under reg 10(2)(c) are met. Even if I am wrong on this issue and the particulars
 
 50     I would add that the apparent inaccuracy in the calculations for the sum payable for the strutting system is not material for the purposes of this application. If a total lack of calculations in _Australian Timber Products_ does not invalidate the payment claim, _a fortiori_ , any erroneous calculations should also not invalidate the payment claim. 
 
-51     Moreover, it would not be appropriate for the court to review any quantification error at a setting aside application because such an error would go to the merits of the adjudication determination: see _Terence Lee_ at [66]. If there are errors in the quantification of the claim on the part of the adjudicator, such errors can be rectified in subsequent court proceedings which would be determinative of the dispute between the parties: see _Terence Lee_ at [4] and _SEF Construction Pte Ltd v Skoy Connected Pte Ltd_ [2010] 1 SLR 733 at [42]. 
+51     Moreover, it would not be appropriate for the court to review any quantification error at a setting aside application because such an error would go to the merits of the adjudication determination: see _Terence Lee_ at [66]. If there are errors in the quantification of the claim on the part of the adjudicator, such errors can be rectified in subsequent court proceedings which would be determinative of the dispute between the parties: see _Terence Lee_ at [4] and _SEF Construction Pte Ltd v Skoy Connected Pte Ltd_ <span class="citation">[2010] 1 SLR 733</span> at [42]. 
 
 52     The Plaintiff sought to distinguish _Australian Timber Products_ on the basis that clarification on the Payment Claim was sought from the Defendant and the Defendant did not respond, unlike in the case of _Australian Timber Products_ where no clarification was asked for. I do not see how this would be a relevant distinguishing factor. Nothing in that decision turns on this point. 
 

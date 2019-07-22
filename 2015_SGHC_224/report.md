@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Offences_ – _Rape_ 
 
-[LawNet Editorial Note: The appeals to this decision in Criminal Appeals No 13, 17 and 18 of 2015 were dismissed by the Court of Appeal on 14 October 2016. See [2016] SGCA 58.] 
+[LawNet Editorial Note: The appeals to this decision in Criminal Appeals No 13, 17 and 18 of 2015 were dismissed by the Court of Appeal on 14 October 2016. See <span class="citation">[2016] SGCA 58</span>.] 
 
 25 August 2015 
 
@@ -228,7 +228,7 @@ statement under s 22 CPC was taken from him on 11 May 2013, [note: 11] the Accus
 
 39     The prosecution sought a global sentence of 15 years imprisonment and 18 strokes of the cane, made up of a sentence of 12 years and 6 strokes for rape, to run _consecutively_ with the minimum 
 
-sentence of 3 years and 12 strokes for robbery [note: 12] on the authority of _Mohamed Shouffee bin Adam v Public Prosecutor_ [2014] 2 SLR 998 (“ _Mohamed Shouffee_ ”). 
+sentence of 3 years and 12 strokes for robbery [note: 12] on the authority of _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">[2014] 2 SLR 998</span> (“ _Mohamed Shouffee_ ”). 
 
 40     I do not agree that the offences were committed with no pre-meditation and on the spur of the moment. The Accused had intended to rob V from the time he laid eyes on her. He was not acting on impulse and was in full control over himself when he raped her—his judgment was not affected by drinks or drugs, he was not provoked or egged on by other persons, and she had done nothing to encourage him. 
 
@@ -243,9 +243,9 @@ sentence of 3 years and 12 strokes for robbery [note: 12] on the authority of _M
 
 45     The first question is then—does the one-transaction rule apply in this case? The rape and the robbery formed a single invasion in terms of time, but the interests affected were distinct interests. V’s right to personal safety was violated when she was raped, and her property rights were violated when she was robbed. As the offences did not come within the one-transaction rule, the case for a concurrent sentence did not arise. 
 
-46     The totality principle applies when multiple sentences are imposed and is applied measured against the normal sentence for the most serious offence. In this case rape is the more serious offence to robbery. In _Public Prosecutor v NF_ [2006] 4 SLR 849 (“ _PP v NF_ ”) VK Rajah J (as he then was) set the benchmark sentence for Category 1 rapes, which was defined as rapes with no aggravating or mitigating circumstances, at ten years imprisonment and not less than six strokes of the cane. This benchmark sentence, which I agree with, can serve as the normal level of sentence which the first limb of the totality principle refers to. 
+46     The totality principle applies when multiple sentences are imposed and is applied measured against the normal sentence for the most serious offence. In this case rape is the more serious offence to robbery. In _Public Prosecutor v NF_ <span class="citation">[2006] 4 SLR 849</span> (“ _PP v NF_ ”) VK Rajah J (as he then was) set the benchmark sentence for Category 1 rapes, which was defined as rapes with no aggravating or mitigating circumstances, at ten years imprisonment and not less than six strokes of the cane. This benchmark sentence, which I agree with, can serve as the normal level of sentence which the first limb of the totality principle refers to. 
 
-47     However, Rajah J had been careful about the function and use of sentencing benchmarks. In an earlier judgment, _Dinesh Singh Bhatia s/o Amarjeet Singh v Public Prosecutor_ [2005] 3 SLR 1 he had explained at [24]: 
+47     However, Rajah J had been careful about the function and use of sentencing benchmarks. In an earlier judgment, _Dinesh Singh Bhatia s/o Amarjeet Singh v Public Prosecutor_ <span class="citation">[2005] 3 SLR 1</span> he had explained at [24]: 
 
  ... Benchmarks ... have significance, standing and value as judicial tools so as to help achieve a certain degree of consistency and rationality in our sentencing practices ... They ought not, however, to be applied rigidly or religiously ... General benchmarks, while highly significant, should not by their very definition be viewed as binding or fossilised judicial rules, inducing a mechanical application. 
 

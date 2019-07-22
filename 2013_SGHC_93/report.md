@@ -158,7 +158,7 @@ the first defendant was negligent in causing the accident at the Site.
 
 28     The first defendant candidly admitted during cross-examination that he could not actually see if anyone was behind the excavator when he was reversing the excavator. This meant that the first defendant could not have seen the plaintiff “suddenly dashing across the back of the excavator”. 
 
-29     Applying the two stage test in _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ [2007] 4 SLR(R) 100, I find that the first defendant owed a duty of care to the plaintiff as one of the workers at the Site. I also find that the first defendant breached this duty to take reasonable care in operating the excavator at the Site because: 
+29     Applying the two stage test in _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ <span class="citation">[2007] 4 SLR(R) 100</span>, I find that the first defendant owed a duty of care to the plaintiff as one of the workers at the Site. I also find that the first defendant breached this duty to take reasonable care in operating the excavator at the Site because: 
 
  (a) He could not see whether anyone was behind when he was reversing the excavator; 
 
@@ -187,7 +187,7 @@ _The breach of statutory duty claim_
 
 33     It is my view that the first defendant was in breach of s 17(4) of the WSHA because he failed to ensure that the side mirror of his excavator was in a usable condition. He acknowledged that “the mirror was hanging there without the glass”. The first defendant was also in breach of s 15(3) of the WSHA for operating the excavator without a working side mirror or a signal man. The unfortunate accident which eventuated goes some way in showing that the first defendant’s actions had endangered the health and safety of the workers at the Site on that fateful day. 
 
-34     However, a breach of statutory duty _per se_ does not automatically give rise to a right of private action ( _Manickam Sankar v Selvaraj Madhavan (trading as MKN Construction & Engineering) and another_ [2012] SGHC 99 at [77]; _Animal Concerns Research & Education Society v Tan Boon Kwee_ [2011] 2 SLR 146 at [24]). The plaintiff also has to prove that Parliament had intended to confer on the plaintiff (as a member of a limited class) a private right of action for breach of the duty ( _Tan Juay Pah v Kimly Construction Pte Ltd and others_ [2012] 2 SLR 549 (“ _Tan Juay Pah_ ”) at [54]). 
+34     However, a breach of statutory duty _per se_ does not automatically give rise to a right of private action ( _Manickam Sankar v Selvaraj Madhavan (trading as MKN Construction & Engineering) and another_ <span class="citation">[2012] SGHC 99</span> at [77]; _Animal Concerns Research & Education Society v Tan Boon Kwee_ <span class="citation">[2011] 2 SLR 146</span> at [24]). The plaintiff also has to prove that Parliament had intended to confer on the plaintiff (as a member of a limited class) a private right of action for breach of the duty ( _Tan Juay Pah v Kimly Construction Pte Ltd and others_ <span class="citation">[2012] 2 SLR 549</span> (“ _Tan Juay Pah_ ”) at [54]). 
 
 35     Both the plaintiff and the first defendant did not advance any submissions on whether Parliament intended to provide a right of private action for a breach of statutory duty in the present circumstances. In the light of my finding (at [30] above) that the first defendant was negligent, it is not necessary for me to go further and consider whether the claim for breach of statutory duty had been made out. 
 
@@ -197,7 +197,7 @@ _The negligence claim_
 
 36     The crucial question to be answered in this claim is whether the second defendant (as the main contractor) owed a duty of care to the plaintiff who was engaged by the third defendant for landscaping work. 
 
-37     It is established that a main contractor owes a workman a duty of care even if the workman was not employed by him but by a subcontractor if the main contractor exercised or had the right to exercise control over the workman in respect of the work which he was engaged to perform ( _Awang bin Dollah v Shun Shing Construction & Engineering Co Ltd and other appeals_ [1997] 2 SLR(R) 746 at [20]; _Ma HongFei v U-Hin Manufacturing Pte Ltd and another_ [2009] 4 SLR(R) 336 at [48]–[49]). 
+37     It is established that a main contractor owes a workman a duty of care even if the workman was not employed by him but by a subcontractor if the main contractor exercised or had the right to exercise control over the workman in respect of the work which he was engaged to perform ( _Awang bin Dollah v Shun Shing Construction & Engineering Co Ltd and other appeals_ <span class="citation">[1997] 2 SLR(R) 746</span> at [20]; _Ma HongFei v U-Hin Manufacturing Pte Ltd and another_ <span class="citation">[2009] 4 SLR(R) 336</span> at [48]–[49]). 
 
 38     On the present facts, the second defendant did not owe a duty of care to the plaintiff because it did not exercise nor had the right to exercise control over the plaintiff. Although Suresh from the second defendant was stationed at the Site on 2 November 2008, he did not give the plaintiff any instructions on the manner and execution of landscaping work to be done. His consistent testimony in court was that he was at the Site to open the Site’s gate and answer telephone calls in the office. I accorded little weight to the plaintiff’s inconsistent testimony in court because it wavered from not receiving any instructions from Suresh to being instructed to clear the rootballs by the end of the day. 
 
@@ -237,13 +237,13 @@ _The breach of statutory duty claim_
 46     Similarly, parliamentary materials on the WSHA including the second reading of the Workplace Safety and Health Bill 2005 ( _Singapore Parliamentary Debates_ , _Official Report_ (17 January 2006) vol 80 (“ _Singapore Parliamentary Debates_ vol 80”)) are silent on the question of parliamentary intention. Although Parliament intended to protect workers at the workplace through the imposition of a more direct liability regime ( _Singapore Parliamentary Debates_ vol 80 at col 2209), this alone is insufficient to establish that Parliament intended to confer a private right of action ( _Tan Juay Pah_ at [54]). 
 
 
-47     I am fortified in my conclusion by the existence of a criminal penalty which is generally a factor which militates against the finding that Parliament intended to confer a civil remedy ( _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another suit_ [2009] 4 SLR(R) 788 at [210]). The breach of s 11 of the WSHA in this case attracts criminal penalties (see s 20 read with s 50 of the WSHA). 
+47     I am fortified in my conclusion by the existence of a criminal penalty which is generally a factor which militates against the finding that Parliament intended to confer a civil remedy ( _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another suit_ <span class="citation">[2009] 4 SLR(R) 788</span> at [210]). The breach of s 11 of the WSHA in this case attracts criminal penalties (see s 20 read with s 50 of the WSHA). 
 
 48     Accordingly, the breach of statutory duty claim against the second defendant is dismissed. 
 
 _The occupier’s liability claim_ 
 
-49     An occupier owes a duty of care to prevent injury to an invitee from unusual dangers which the occupier knows or ought to have known about ( _Mohd bin Sapri v Soil-Build (Pte) Ltd and another appeal_ [1996] 2 SLR(R) 223 at [47] (“ _Sapri_ ”)). Critically, this duty only pertains to the physical condition of the premises and not the operations at the site ( _Sapri_ at [47]). 
+49     An occupier owes a duty of care to prevent injury to an invitee from unusual dangers which the occupier knows or ought to have known about ( _Mohd bin Sapri v Soil-Build (Pte) Ltd and another appeal_ <span class="citation">[1996] 2 SLR(R) 223</span> at [47] (“ _Sapri_ ”)). Critically, this duty only pertains to the physical condition of the premises and not the operations at the site ( _Sapri_ at [47]). 
 
 50     I accept the second defendant’s submission that the accident arose out of the operations at the Site. Obviously, the operation of the plaintiff’s excavator at the Site did not relate to the physical condition of the premises. Therefore, the plaintiff’s claim against the second defendant based on occupier’s liability fails. In any event, the plaintiff cannot rely on this cause of action because he has not pleaded it. 
 
@@ -317,12 +317,12 @@ measures suggested such as inspecting the excavator and barricading the pathway 
 
 62     A plaintiff may be awarded costs in the form of a _Bullock_ or _Sanderson_ order if he brings claims against multiple defendants and succeeds against one defendant but fails against the other defendants. In a _Bullock_ order, the plaintiff is liable to pay the costs of the successful defendant but is entitled to recover those costs and his own costs from the unsuccessful defendant ( _Bullock v The London General Omnibus Company and others_ [1907] 1 KB 264). In a _Sanderson_ order, on the other hand, the plaintiff will recover his own costs from the unsuccessful defendant who will also have to pay the plaintiff’s costs payable to the successful defendant directly ( _Sanderson v Blyth Theatre Company_ [1903] 2 KB 533). 
 
-63     The rationale for the _Bullock_ and _Sanderson_ order was considered by our Court of Appeal in _Chua Teck Chew Robert v Goh Eng Wah_ [2009] 4 SLR(R) 716 at [40]: 
+63     The rationale for the _Bullock_ and _Sanderson_ order was considered by our Court of Appeal in _Chua Teck Chew Robert v Goh Eng Wah_ <span class="citation">[2009] 4 SLR(R) 716</span> at [40]: 
 
  The purpose of a Sanderson order (and likewise a Bullock order) is to avoid the injustice of a successful claimant having what he recovers in damages eroded by an order to pay costs to 
 
 
- successful defendants whom it was reasonable for him, when he does not know which of the defendants to sue, to join (see Irvine v Commissioner of Police for The Metropolis [2005] C P Rep 19 at [22]). In deciding whether to grant a Sanderson order, the court’s principal consideration is whether it would be fair and reasonable for the unsuccessful defendant to bear the costs of the successful defendant(s) (see Denis Matthew Harte v Dr Tan Hun Hoe & Gleneagles Hospital Ltd [2001] SGHC 19 at [7] ( Harte ”)). 
+ successful defendants whom it was reasonable for him, when he does not know which of the defendants to sue, to join (see Irvine v Commissioner of Police for The Metropolis [2005] C P Rep 19 at [22]). In deciding whether to grant a Sanderson order, the court’s principal consideration is whether it would be fair and reasonable for the unsuccessful defendant to bear the costs of the successful defendant(s) (see Denis Matthew Harte v Dr Tan Hun Hoe & Gleneagles Hospital Ltd <span class="citation">[2001] SGHC 19</span> at [7] ( Harte ”)). 
 
 64     In my opinion, it was not unreasonable for the plaintiff to have sued all three defendants in this case because the first defendant was the excavator driver and main tortfeasor, the second defendant was the occupier of the Site and the third defendant had engaged the plaintiff to carry out the job at the Site. 
 

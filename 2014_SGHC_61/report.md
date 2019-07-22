@@ -71,17 +71,17 @@ I am of the view that the DJ did not err in having found a chain of possession.
 9       The fifth point related to the conduct of the trial. The appellant was unrepresented during the trial. On the first day of trial, Mr M Ravi appeared for the appellant. He informed the court that the appellant had not paid him (the minimum sum of $250, as presumably required by his firm); but that he was willing to continue to represent the appellant if he could be given a six week adjournment so as to adequately prepare his case. The court refused to grant an adjournment, and counsel discharged himself. The appellant, a Malaysian, also argued that he was not allowed an adjournment when asked if he could approach the Malaysian Embassy upon having learnt that his counsel had discharged himself. The appellant was represented by Ms Josephine Choo (“Ms Choo”) in the appeal before me. 
 
 
-The DPP submitted that the DJ exercised his discretion not to adjourn proceedings correctly. The significant issue in cases where an accused has to conduct proceedings without counsel is whether any real prejudice and unfairness would be caused (see _Tan Chor Jin v PP_ [2008] 4 SLR(R) 306 at [59]). In this case, based on the record of proceedings, I do not think that there was any manifest prejudice to the appellant just because he was unrepresented. The DJ had explained the proceedings to the appellant where he was in doubt, and invited him to put forward his version of events. While the appellant complained about the DJ’s lack of reasons for having refused the adjournment, it did not mean that there was any prejudice arising from that. The appellant was already spending a long time in remand and the trial ought to be heard quickly in case the appellant was not guilty. Whatever the DJ’s intentions may have been, I do not detect – from the Record of Proceedings – any prejudice or unfairness that warranted overturning the appellant’s conviction or ordering a retrial. 
+The DPP submitted that the DJ exercised his discretion not to adjourn proceedings correctly. The significant issue in cases where an accused has to conduct proceedings without counsel is whether any real prejudice and unfairness would be caused (see _Tan Chor Jin v PP_ <span class="citation">[2008] 4 SLR(R) 306</span> at [59]). In this case, based on the record of proceedings, I do not think that there was any manifest prejudice to the appellant just because he was unrepresented. The DJ had explained the proceedings to the appellant where he was in doubt, and invited him to put forward his version of events. While the appellant complained about the DJ’s lack of reasons for having refused the adjournment, it did not mean that there was any prejudice arising from that. The appellant was already spending a long time in remand and the trial ought to be heard quickly in case the appellant was not guilty. Whatever the DJ’s intentions may have been, I do not detect – from the Record of Proceedings – any prejudice or unfairness that warranted overturning the appellant’s conviction or ordering a retrial. 
 
 10     Having dismissed the appellant’s appeal against conviction, I now deal with his alternative submission on sentence. Ms Choo argued that, instead of six years’ imprisonment and six strokes, the DJ should have imposed only the mandatory minimum of five years’ imprisonment and five strokes. 
 
 11     The appellant seemed to be relying on the basis that the sentence was “manifestly excessive”. In response, the DPP referred to four recent decisions, whereby sentences of eight to ten years’ imprisonment and six to eight strokes of the cane were meted out for offences involving trafficking in 4.03g – 6.14g of diamorphine. Three of the cases involved either a first-time offender or an accused with no trafficking antecedent, akin to the case of the appellant. The four cases were: 
 
- a. PP v Norhisham bin Mohamad Dahlan [2010] SGDC 310; 
+ a. PP v Norhisham bin Mohamad Dahlan <span class="citation">[2010] SGDC 310</span>; 
 
- b. PP v Sabari bin Jaki [2012] SGDC 166; 
+ b. PP v Sabari bin Jaki <span class="citation">[2012] SGDC 166</span>; 
 
- c. PP v Zakariah bin Mohamed [2012] SGDC 342; and 
+ c. PP v Zakariah bin Mohamed <span class="citation">[2012] SGDC 342</span>; and 
 
  d. PP v Azhar bin Abdul Rahman (unreported, DAC 27762/2009). 
 

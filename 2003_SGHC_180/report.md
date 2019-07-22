@@ -68,7 +68,7 @@ O 13 r 8 of the Rules of Court
 
  The Court may, on such terms as it thinks just, set aside or vary any judgment entered in pursuance of this Order. 
 
-11\. The principles which must be borne in mind when exercising the discretionary power under O 13 r 8 to set aside a default judgment have been considered by the courts on numerous occasions. In _Abdul Gaffer v Chua Kwang Yong_ [1995] 1 SLR 484, 488, Chao Hick Tin J, as he then was, who delivered the judgement of the Court of Appeal, said: 
+11\. The principles which must be borne in mind when exercising the discretionary power under O 13 r 8 to set aside a default judgment have been considered by the courts on numerous occasions. In _Abdul Gaffer v Chua Kwang Yong_ <span class="citation">[1995] 1 SLR 484</span>, 488, Chao Hick Tin J, as he then was, who delivered the judgement of the Court of Appeal, said: 
 
  We now turn to consider the principles upon w hich the court should exercise its discretion under O 13 r 
 

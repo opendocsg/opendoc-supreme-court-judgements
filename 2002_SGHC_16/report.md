@@ -35,7 +35,7 @@ Section 21 of the Act states as follows:
  (c) has special qualifications or experience for the purpose of the case. 
 
 
-The requirements of s 21 were clearly set out by Yong Pung How CJ in **Re Caplan Jonathan Michael QC (No 2)** [1998] 1 SLR 440 at [para ]11: 
+The requirements of s 21 were clearly set out by Yong Pung How CJ in **Re Caplan Jonathan Michael QC (No 2)** <span class="citation">[1998] 1 SLR 440</span> at [para ]11: 
 
  At the first stage, the applicant must demonstrate that the case in which he seeks to appear contains issues of law and/or fact of sufficient difficulty and complexity to require elucidation and/or argument by a Queens Counsel. Such difficulty or complexity is not of itself a guarantee of admission, for the decision to admit is still a matter for the courts discretion. At the second stage, therefore, the applicant must persuade the court that the circumstances of the particular case warrant the court exercising its discretion in favour of his admission. Finally, he has to satisfy the court of his suitability for admission. 
 

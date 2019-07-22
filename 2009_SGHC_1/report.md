@@ -66,7 +66,7 @@ decide the disputes.
 
 6       The primary reason for my dismissal of the plaintiff’s application is that I considered the plaintiff to be estopped, by virtue of its representations, from insisting that the dispute resolution mechanism relating to the Project is not arbitration in Singapore under the Rules of Arbitration of the ICC. 
 
-7       It is settled law that for a person to successfully raise the defence of estoppel by representation, three elements must be satisfied, namely, representation, reliance and detriment (see _United Overseas Bank Ltd v Bank of China_ [2006] 1 SLR 57 at [18]). Therefore, the first question I had to consider was whether there was a representation by the plaintiff to the defendant. 
+7       It is settled law that for a person to successfully raise the defence of estoppel by representation, three elements must be satisfied, namely, representation, reliance and detriment (see _United Overseas Bank Ltd v Bank of China_ <span class="citation">[2006] 1 SLR 57</span> at [18]). Therefore, the first question I had to consider was whether there was a representation by the plaintiff to the defendant. 
 
 **_Representation_** 
 
@@ -133,7 +133,7 @@ Transtel Sub-Contract, was arbitration in Singapore under the Rules of Arbitrati
 
 **_Reliance and detriment_** 
 
-18     For an estoppel by representation to arise, it must be demonstrated that a party was encouraged to act to his detriment by the representation such that it would be unconscionable for the party making the representation to insist upon his strict legal rights (see _Keppel Tatlee Bank Ltd v Teck Koon Investment Pte Ltd_ [2000] 2 SLR 366 at [22]). The element of reliance requires that the representation _caused_ the relevant conduct (see _Spencer Bower_ at 90). The defendant requested arbitration from the ICC International Court of Arbitration in accordance with the dispute resolution mechanism specified both in clause 19 as well as the plaintiff’s letter. As such, in my view, the element of reliance was fulfilled as the defendant’s institution of arbitration proceedings in Singapore under the Rules of Arbitration of the ICC was caused by the plaintiff’s representation that this was the mode of dispute resolution specified in the Transtel Sub-Contract. 
+18     For an estoppel by representation to arise, it must be demonstrated that a party was encouraged to act to his detriment by the representation such that it would be unconscionable for the party making the representation to insist upon his strict legal rights (see _Keppel Tatlee Bank Ltd v Teck Koon Investment Pte Ltd_ <span class="citation">[2000] 2 SLR 366</span> at [22]). The element of reliance requires that the representation _caused_ the relevant conduct (see _Spencer Bower_ at 90). The defendant requested arbitration from the ICC International Court of Arbitration in accordance with the dispute resolution mechanism specified both in clause 19 as well as the plaintiff’s letter. As such, in my view, the element of reliance was fulfilled as the defendant’s institution of arbitration proceedings in Singapore under the Rules of Arbitration of the ICC was caused by the plaintiff’s representation that this was the mode of dispute resolution specified in the Transtel Sub-Contract. 
 
 19     It would also be unconscionable for the plaintiff to insist on its strict legal rights since the defendant had acted to its detriment in reliance on the plaintiff’s representation. As stated in _Spencer Bower_ at 116: 
 

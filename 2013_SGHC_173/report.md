@@ -237,7 +237,7 @@ the Singapore-India DTA. The OECD Commentary (at para 5) explains that:
 
 32     Counsel for [BJX], Ms Noelle Seet (“Ms Seet”), sought to persuade the court that the information requested was not foreseeably relevant because the Competent Authority of India “must 
 
-first show that [BJX] is subject to India’s tax laws”. [note: 1] In doing so, Ms Seet relied on the only reported judgment on EOI requests made pursuant to s 105J of the ITA thus far, _Comptroller of Income Tax v AZP_ [2012] 3 SLR 690 (“ _AZP_ ”), for the proposition that clear and specific evidence of a connection between the information requested and the enforcement of India’s tax laws was necessary to show foreseeable relevance. Ms Seet interpreted this to mean that there must be “clear 
+first show that [BJX] is subject to India’s tax laws”. [note: 1] In doing so, Ms Seet relied on the only reported judgment on EOI requests made pursuant to s 105J of the ITA thus far, _Comptroller of Income Tax v AZP_ <span class="citation">[2012] 3 SLR 690</span> (“ _AZP_ ”), for the proposition that clear and specific evidence of a connection between the information requested and the enforcement of India’s tax laws was necessary to show foreseeable relevance. Ms Seet interpreted this to mean that there must be “clear 
 
 
  c) 

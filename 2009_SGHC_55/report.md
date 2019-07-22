@@ -112,7 +112,7 @@ A Yes.
 29     KM did not plead any of the well known defenc es to an allegation of trade mark infringement. Furthermore, although it had initially sought in its c ounterc laim to revoke the registration of the Kic kapoo marks, KM elec ted on 22 January 2008 not to proc eed with the applic ation to revoke the said registration. Instead, KM asserted that in order to maintain its c ommerc ial position as the lic ensee under the agreement, it had no reasonable alternative but to use alternative beverage bases from BevTec h and Tropic al to produc e and sell its Kic kapoo beverage in Singapore. KM argued that this was the means by whic h it mitigated the loss c aused by Monarc h’s failure to supply it with beverage bases. 
 
 
-30     There are serious problems with KM’s argument regarding mitigation of damage. KM affirmed the lic enc e agreement in the fac e of Monarc h’s surfeit of termination letters. In this c ontext, it is worth noting that in _MP-Bilt Pte Ltd v Oey Widarto_ [1999] 3 SLR 592, Selvam J stated at [18] as follows: 
+30     There are serious problems with KM’s argument regarding mitigation of damage. KM affirmed the lic enc e agreement in the fac e of Monarc h’s surfeit of termination letters. In this c ontext, it is worth noting that in _MP-Bilt Pte Ltd v Oey Widarto_ <span class="citation">[1999] 3 SLR 592</span>, Selvam J stated at [18] as follows: 
 
  The duty to mitigate does not arise if the innoc ent party dec ides to affirm the c ontrac t. The duty to ac t reasonably arises only when the innoc ent party dec ides to treat the breac h as repudiation and also annuls the c ontrac t. 
 
@@ -124,7 +124,7 @@ A Yes.
 
  A man is not to sell his own goods under the pretenc e that they are the goods of another man; he c annot be permitted to prac tise suc h a dec eption, not to use the means whic h c ontribute to that end. He c annot therefore be allowed to use names, marks, letters or other indic ia, by whic h he may induc e purc hasers to believe, that the goods whic h he is selling are the manufac ture of another person. 
 
-33     What must be proven in a passing off ac tion has been reiterated on numerous oc c asions by the c ourts: see, for instanc e, _Caterpillar Inc v Ong Eng Peng (formerly trading as Catplus International)_ [2006] 2 SLR 669. To suc c eed in an ac tion for passing off, it must be established that: 
+33     What must be proven in a passing off ac tion has been reiterated on numerous oc c asions by the c ourts: see, for instanc e, _Caterpillar Inc v Ong Eng Peng (formerly trading as Catplus International)_ <span class="citation">[2006] 2 SLR 669</span>. To suc c eed in an ac tion for passing off, it must be established that: 
 
  (i) there is goodwill in the marks belonging to the plaintiff; 
 
@@ -132,7 +132,7 @@ A Yes.
 
  (iii) damage resulted from the misrepresentation or that there is a likelihood of damage as a result of the misrepresentation. 
 
-34     The above three requirements were desc ribed by Lai Kew Chai J in _Pan-West (Pte) Ltd v Grand Bigwin Pte Ltd_ [2003] 4 SLR 755 at [48] as the “oft-c ited trinity of requirements for a passing off ac tion”. 
+34     The above three requirements were desc ribed by Lai Kew Chai J in _Pan-West (Pte) Ltd v Grand Bigwin Pte Ltd_ <span class="citation">[2003] 4 SLR 755</span> at [48] as the “oft-c ited trinity of requirements for a passing off ac tion”. 
 
 35     KM ac knowledged that there is goodwill and reputation in Singapore in the Kic kapoo marks. When c ross-examined, its CEO, Mr Lam, said: 
 
@@ -310,7 +310,7 @@ _The price increase of 1,000%_
 
 **Conspiracy** 
 
-72     KM’s allegation with respec t to the tort of c onspirac y by unlawful means will next be c onsidered. While referring to a c onspirac y by unlawful means in _Wu Yang Construction Group Ltd v Zhejiang Jinyi Group Co Ltd_ [2006] 4 SLR 451, Andrew Phang JA said at [76]: 
+72     KM’s allegation with respec t to the tort of c onspirac y by unlawful means will next be c onsidered. While referring to a c onspirac y by unlawful means in _Wu Yang Construction Group Ltd v Zhejiang Jinyi Group Co Ltd_ <span class="citation">[2006] 4 SLR 451</span>, Andrew Phang JA said at [76]: 
 
  There is, first, the situation, where unlawful means have been used (also known as “wrongful means c onspirac y”) The relevant law in this c ontext appears to be straightforward. In partic ular, there is no need for the plaintiff c onc erned to prove that there has been a predominant intention on the part of the defendants to injure it. It would appear that the very utilisation of unlawful means is, by its very nature, suffic ient to render the defendants liable, regardless of their 
 
@@ -337,7 +337,7 @@ KM’s c ase is that but for the c onspirac y, it would not have been deprived o
 
 **_The evidence relating to the alleged conspiracy_** 
 
-76     It is not easy to prove the existenc e of a c onspirac y. In _Asian Corporate Services (SEA) Pte Ltd v Eastwest Management Ltd (Singapore Branch)_ [2006] 1 SLR 901, Chao Hic k Tin JA, who delivered the judgment of the Court of Appeal, pointed out (at [19]) that it is not often that the vic tim of a c onspirac y has direc t evidenc e to prove the allegation and that proof of c onspirac y is normally 
+76     It is not easy to prove the existenc e of a c onspirac y. In _Asian Corporate Services (SEA) Pte Ltd v Eastwest Management Ltd (Singapore Branch)_ <span class="citation">[2006] 1 SLR 901</span>, Chao Hic k Tin JA, who delivered the judgment of the Court of Appeal, pointed out (at [19]) that it is not often that the vic tim of a c onspirac y has direc t evidenc e to prove the allegation and that proof of c onspirac y is normally 
 
 
 inferred from other objec tive fac ts. He approved of the following passage from _R v Siracusa_ (1190) 90 Cr App R 340 at 349: 

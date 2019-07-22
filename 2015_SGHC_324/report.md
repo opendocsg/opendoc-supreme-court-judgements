@@ -85,7 +85,7 @@ Wham after the warning had been administered, then DSP Pannirselvam should have 
 
 **Issues** 
 
-21     In order for the court to grant an applicant leave to bring judicial review proceedings, the court must be satisfied that (see _Jeyaretnam Kenneth Andrew v Attorney-General_ [2014] 1 SLR 345 at [5]): 
+21     In order for the court to grant an applicant leave to bring judicial review proceedings, the court must be satisfied that (see _Jeyaretnam Kenneth Andrew v Attorney-General_ <span class="citation">[2014] 1 SLR 345</span> at [5]): 
 
  (a) the matter complained of is susceptible to judicial review; 
 
@@ -105,7 +105,7 @@ Wham after the warning had been administered, then DSP Pannirselvam should have 
 
 23     The AG submitted that the 25 March Warning has no legal effect and therefore cannot be the 
 
-subject of a quashing order. [note: 5] He relied on the Court of Appeal (“CA”) decision of _Comptroller of Income Tax v ACC_ [2010] 2 SLR 1189 (“ _ACC_ ”) to support his proposition. 
+subject of a quashing order. [note: 5] He relied on the Court of Appeal (“CA”) decision of _Comptroller of Income Tax v ACC_ <span class="citation">[2010] 2 SLR 1189</span> (“ _ACC_ ”) to support his proposition. 
 
 24     In _ACC_ , the respondent had made a series of payments to its overseas subsidiaries without withholding tax for these payments. The Comptroller for Income Tax (“the Comptroller”) subsequently sent a letter to the respondent informing the respondent that withholding tax requirements under s 45 of the Income Tax Act (Cap 134, 2008 Rev Ed) (“Income Tax Act”) applied and that the respondent was required to personally account for the amount of tax which should have been withheld and pay 
 
@@ -124,7 +124,7 @@ any corresponding penalties. The respondent treated the Comptroller’s letter a
 
 28     The AG submitted that a warning is “nothing more than the communication of information to the warned individual about the possible consequences if he engages in future conduct prohibited by a 
 
-statutory provision”. [note: 6] He relied on the following passage in the CA’s decision of _Tan Eng Hong v Attorney-General_ [2012] 4 SLR 476 at [183] to support his submission: 
+statutory provision”. [note: 6] He relied on the following passage in the CA’s decision of _Tan Eng Hong v Attorney-General_ <span class="citation">[2012] 4 SLR 476</span> at [183] to support his submission: 
 
  ... We find that the fact that stern warnings have been issued under s 377A for private consensual acts between adult males suggests that there is not just a mere spectre of prosecutions under that provision. A stern warning is a way of informing the individual who is warned that if he continues to indulge in the type of conduct circumscribed by s 377A, leniency may no longer be forthcoming in future and he may well be charged under s 377A if he is found engaging in such conduct in the future. Further, there is a real possibility that the individual police officer or Deputy Public Prosecutor handling a case may decide not to proceed with a stern warning, but to instead prefer a charge under s 377A. ... 
 
@@ -168,11 +168,11 @@ the tone of the Comptroller’s letter “indicated the finality of the Comptrol
 
 38     I will now address Mr Wham’s argument that there appears to be some cases in which the court has taken into account a warning in the course of sentencing and in one of the cases, the warning was considered as an antecedent, _ie_ , as a prior conviction. 
 
-39     The first case Mr Wham cited was _Public Prosecutor v Siew Boon Loong_ [2005] 1 SLR(R) 611 (“ _Siew Boon Loong_ ”), a Magistrate’s Appeal by the Public Prosecutor against sentence. Yong Pung How CJ noted at [8] under the heading “The respondent’s criminal antecedents” that the respondent, as a juvenile, had been charged with attempted lurking house-trespass by night, for which he was given a warning in lieu of prosecution. However, at [11] under the sub-heading “Juvenile antecedents”, Yong CJ did not appear to consider the warning but rather only considered the respondent’s two previous convictions for property offences as a juvenile. 
+39     The first case Mr Wham cited was _Public Prosecutor v Siew Boon Loong_ <span class="citation">[2005] 1 SLR(R) 611</span> (“ _Siew Boon Loong_ ”), a Magistrate’s Appeal by the Public Prosecutor against sentence. Yong Pung How CJ noted at [8] under the heading “The respondent’s criminal antecedents” that the respondent, as a juvenile, had been charged with attempted lurking house-trespass by night, for which he was given a warning in lieu of prosecution. However, at [11] under the sub-heading “Juvenile antecedents”, Yong CJ did not appear to consider the warning but rather only considered the respondent’s two previous convictions for property offences as a juvenile. 
 
-40     The next case cited by Mr Wham was _Public Prosecutor v Yap Rogers_ [2009] SGDC 146 (“ _Yap Rogers_ ”). In _Yap Rogers_ , the accused was charged for leaving Singapore without the permission of the Official Assignee while he was a bankrupt. In considering the circumstances of the case, the court held at [12] that it was “significant ... that the accused had been warned in 2002 for similar offences”. However, before the court meted out its sentence, it noted at [15] that the accused was a “first offender”. 
+40     The next case cited by Mr Wham was _Public Prosecutor v Yap Rogers_ <span class="citation">[2009] SGDC 146</span> (“ _Yap Rogers_ ”). In _Yap Rogers_ , the accused was charged for leaving Singapore without the permission of the Official Assignee while he was a bankrupt. In considering the circumstances of the case, the court held at [12] that it was “significant ... that the accused had been warned in 2002 for similar offences”. However, before the court meted out its sentence, it noted at [15] that the accused was a “first offender”. 
 
-41     The last case cited was _Public Prosecutor v Tan Hiang Seng_ [2012] SGDC 484 (“ _Tan Hiang Seng_ ”). In _Tan Hiang Seng_ , the accused was charged for using his mother’s identity card without lawful authority or reasonable excuse to gain entry into the Marina Bay Sands Casino. It was brought to the court’s attention by the Public Prosecutor that the accused had also taken his mother’s identity card without her permission and was issued a warning for it. At [16] of the decision, the district judge considered as an aggravating factor the fact that the accused had taken his mother’s identity card without her permission, that it amounts to an offence of theft and that the accused was given a warning for it. 
+41     The last case cited was _Public Prosecutor v Tan Hiang Seng_ <span class="citation">[2012] SGDC 484</span> (“ _Tan Hiang Seng_ ”). In _Tan Hiang Seng_ , the accused was charged for using his mother’s identity card without lawful authority or reasonable excuse to gain entry into the Marina Bay Sands Casino. It was brought to the court’s attention by the Public Prosecutor that the accused had also taken his mother’s identity card without her permission and was issued a warning for it. At [16] of the decision, the district judge considered as an aggravating factor the fact that the accused had taken his mother’s identity card without her permission, that it amounts to an offence of theft and that the accused was given a warning for it. 
 
 42     The AG’s position was that it was only in _Tan Hiang Seng_ that the court did in fact take into 
 

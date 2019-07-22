@@ -89,7 +89,7 @@ Another discrepancy the magistrate thought worth noting was that Mr Sullivan did
 
 The magistrate concluded by finding in favour of the prosecution as he found its version of the story to be more credible. He also rejected the appellant`s plea of private defence. Thus, the magistrate convicted him. 
 
-Regarding the sentence, the magistrate found that the appellant was the person responsible for the fight, which he initiated by brushing Mr Ng`s motorcycle with his own and causing Mr Ng to fall. Apart from sparking off the fight it was, in itself, a dangerous act. As an alternative, the magistrate accepted Mr Ng`s evidence that the appellant pushed him on the chest first before the fight started. As a result, the magistrate thought that a custodial sentence was appropriate. He cited from the judgment in **PP v Lee Seck Hing** [1992] 2 SLR 745 at p 748 and, drawing an analogy with road-rage violence, applied its reasoning to the circumstances of the instant case. 
+Regarding the sentence, the magistrate found that the appellant was the person responsible for the fight, which he initiated by brushing Mr Ng`s motorcycle with his own and causing Mr Ng to fall. Apart from sparking off the fight it was, in itself, a dangerous act. As an alternative, the magistrate accepted Mr Ng`s evidence that the appellant pushed him on the chest first before the fight started. As a result, the magistrate thought that a custodial sentence was appropriate. He cited from the judgment in **PP v Lee Seck Hing** <span class="citation">[1992] 2 SLR 745</span> at p 748 and, drawing an analogy with road-rage violence, applied its reasoning to the circumstances of the instant case. 
 
 **_The appellant`s case on appeal_** 
 
@@ -145,7 +145,7 @@ Furthermore, the magistrate had failed to take into consideration the fact that 
 
 The conviction 
 
-Mr Tan cited the usual cases which are relied upon for the proposition that an `appellate court should be slow to overturn a trial judge`s findings of fact, especially where they hinge on the trial judge`s assessment of the credibility and veracity of witnesses, unless they can be shown to be plainly wrong or against the weight of the evidence`: **Yap Giau Beng Terence v PP** [1998] 3 SLR 656 at p 653. 
+Mr Tan cited the usual cases which are relied upon for the proposition that an `appellate court should be slow to overturn a trial judge`s findings of fact, especially where they hinge on the trial judge`s assessment of the credibility and veracity of witnesses, unless they can be shown to be plainly wrong or against the weight of the evidence`: **Yap Giau Beng Terence v PP** <span class="citation">[1998] 3 SLR 656</span> at p 653. 
 
 Mr Ng`s testimony 
 

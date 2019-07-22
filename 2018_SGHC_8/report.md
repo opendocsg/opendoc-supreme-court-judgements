@@ -16,7 +16,7 @@
 
 _Civil procedure_ – _Stay of proceedings_ – _Effect of service of garnishee order nisi_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 231 of 2017 was dismissed by the Court of Appeal on 13 November 2018. See [2019] SGCA 5.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 231 of 2017 was dismissed by the Court of Appeal on 13 November 2018. See <span class="citation">[2019] SGCA 5</span>.] 
 
 9 January 2018 
 
@@ -72,7 +72,7 @@ of the Companies Act to allow the garnishee proceedings to continue.
 9       The plaintiff urged the court to grant the aforesaid relief as it had already served the garnishee orders _nisi_ on the garnishee (and the defendant) prior to the commencement of the winding-up. Thus, the plaintiff argued that it was a secured creditor and was not subject to the insolvency regime. On the other hand, the defendant submitted that the plaintiff, even though it had served the garnishee 
 
 
-orders _nisi_ on the garnishee and defendant before the winding-up action, was nonetheless subject to the same regime as the other creditors. The defendant relied solely on the Court of Appeal’s decision in _Transbilt Engineering Pte Ltd (in liquidation) v Finebuild Systems Pte Ltd_ [2005] 3 SLR(R) 550 
+orders _nisi_ on the garnishee and defendant before the winding-up action, was nonetheless subject to the same regime as the other creditors. The defendant relied solely on the Court of Appeal’s decision in _Transbilt Engineering Pte Ltd (in liquidation) v Finebuild Systems Pte Ltd_ <span class="citation">[2005] 3 SLR(R) 550</span> 
 
 (“ _Transbilt_ ”) [note: 2] and submitted that _Transbilt_ applied as it was on all fours with the present 
 
@@ -122,16 +122,16 @@ ten unsecured and three secured. [note: 5] This would not only provide no “cle
 
 25     Many of the cases cited by the plaintiff did not deal directly with the issue of the effect of garnishee orders in winding-up proceedings: 
 
- (a) In Korea Asset Management Corp v Daewoo Singapore Pte Ltd (in liquidation) [2004] 1 SLR(R) 671, the court dealt with the principles of compulsory winding-up when the company was undergoing a creditors’ voluntary winding-up. By way of obiter dicta the court noted that the rights of a secured creditor should not eventually be fettered by the insolvency proceedings (at [49]). This dictum did not assist me in deciding whether the plaintiff in this case was such a secured creditor and whether there was inequity such that the distribution of assets should not be left to the liquidator and that the court should intervene instead. 
+ (a) In Korea Asset Management Corp v Daewoo Singapore Pte Ltd (in liquidation) <span class="citation">[2004] 1 SLR(R) 671</span>, the court dealt with the principles of compulsory winding-up when the company was undergoing a creditors’ voluntary winding-up. By way of obiter dicta the court noted that the rights of a secured creditor should not eventually be fettered by the insolvency proceedings (at [49]). This dictum did not assist me in deciding whether the plaintiff in this case was such a secured creditor and whether there was inequity such that the distribution of assets should not be left to the liquidator and that the court should intervene instead. 
 
  (b) In Power Knight Pte Ltd v Natural Fuel Pte Ltd (in compulsory liquidation) and others 
 
 
- [2010] 3 SLR 82, there was a competing claim between a debenture holder who was granted a fixed charge over the company’s property and the company’s liquidators who lodged a caveat claiming an interest over the property. The court noted in obiter that assets encumbered by a valid security interest were not available for distribution among a company’s unsecured creditors upon the winding up of the company (see [30], [38] and [40]). Sections 299 and 334 of the Companies Act were not referred to. Hence, this case did not assist this court as to the principles to apply in the context of these sections. 
+ <span class="citation">[2010] 3 SLR 82</span>, there was a competing claim between a debenture holder who was granted a fixed charge over the company’s property and the company’s liquidators who lodged a caveat claiming an interest over the property. The court noted in obiter that assets encumbered by a valid security interest were not available for distribution among a company’s unsecured creditors upon the winding up of the company (see [30], [38] and [40]). Sections 299 and 334 of the Companies Act were not referred to. Hence, this case did not assist this court as to the principles to apply in the context of these sections. 
 
  (c) In the case of In re Aro Co Ltd [1980] 2 WLR 453, the issue related to the arrest of a ship and whether the jurisdiction of the admiralty court had been invoked. The English Court of Appeal noted in obiter that a secured creditor could justly claim that he is independent of the liquidation as he was enforcing a right to his own property and not to the company’s property. However, the court noted that s 228 of the UK Companies Act 1948 (which corresponds to s 299 of our Companies Act) “appl[ies] to secured as well as to unsecured creditors” (at 458). The court then went on to confirm that leave would not be granted to proceed unless there were “special reasons” to do so (at 459). This is in accordance with my analysis above, namely, that ss 299 and 334 of the Companies Act apply to both types of creditors. It is the liquidator’s function to distribute the assets fairly between secured and unsecured creditors according to their security. The court should only interfere in limited situations (see [22] above). 
 
- (d) In The Hull 308 [1991] 2 SLR(R) 643, the Court of Appeal considered and affirmed In re Aro Co Ltd , but again in the limited context of whether a writ in rem against a vessel could constitute security over that vessel. The Court of Appeal’s comments were therefore targeted at the nature of the writ in that case and not against the nature of a garnishee order. In any case, the Court of Appeal went on to observe that whether the court would exercise its discretion to grant leave to proceed would depend on what is “right and fair in the circumstances” (at [14]), which corresponds to the approach taken in Transbilt – that leave would only be granted if there were inequity on the part of the company (see [14] above). 
+ (d) In The Hull 308 <span class="citation">[1991] 2 SLR(R) 643</span>, the Court of Appeal considered and affirmed In re Aro Co Ltd , but again in the limited context of whether a writ in rem against a vessel could constitute security over that vessel. The Court of Appeal’s comments were therefore targeted at the nature of the writ in that case and not against the nature of a garnishee order. In any case, the Court of Appeal went on to observe that whether the court would exercise its discretion to grant leave to proceed would depend on what is “right and fair in the circumstances” (at [14]), which corresponds to the approach taken in Transbilt – that leave would only be granted if there were inequity on the part of the company (see [14] above). 
 
 These cases therefore did not assist the plaintiff’s case as they were not in the context of garnishee orders, and the comments made in those cases were by way of _obiter dicta_. Instead, many of the general principles that these cases set out were consistent with my analysis above. 
 

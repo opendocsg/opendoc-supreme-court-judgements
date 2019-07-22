@@ -103,7 +103,7 @@ _Criminal Procedure and Sentencing_ – _Criminal references_ – _Application f
 
  For leave to be granted, it is necessary that the question posed is a question of law raised in the course of the appeal to the High Court and is of public interest. I have in delivering the judgment of this court in Ragunathan v PR [1982] 1 MLJ 139 dealt with the test for determining what amounts to a question meeting the requisite factors for the purposes of s 66 of the Courts of Judicature Act, and I made it clear that if it is a mere question of principles, which in the matter before us only involve the construction of certain words in a statutory provision in their application to the facts of the case, the question would not be a question of law of public interest. 
 
-6       Mr Singh relied on the decision of Yong CJ in _PP v Bridges Christopher_ [1997] 2 SLR 217 for the principles of an application under s 60(1) SCJA. That was a case in which it was the Public Prosecutor who was applying under s 60 SCJA for various questions of law to be referred to the Court of Appeal. Those principles and other cases were referred to in the later case of _Ong Beng Leong v PP (No 2)_ [2005] 2 SLR 247 (“ _Ong Beng Leong_ ”) which was also a decision by Yong CJ. 
+6       Mr Singh relied on the decision of Yong CJ in _PP v Bridges Christopher_ <span class="citation">[1997] 2 SLR 217</span> for the principles of an application under s 60(1) SCJA. That was a case in which it was the Public Prosecutor who was applying under s 60 SCJA for various questions of law to be referred to the Court of Appeal. Those principles and other cases were referred to in the later case of _Ong Beng Leong v PP (No 2)_ <span class="citation">[2005] 2 SLR 247</span> (“ _Ong Beng Leong_ ”) which was also a decision by Yong CJ. 
 
 7       In _Ong Beng Leong_ , the applicant had been convicted of ten charges of using false documents with intent to deceive his principal, which was an offence under s 6(c) of the Prevention 
 
@@ -114,7 +114,7 @@ of Corruption Act (Cap 241, 1993 Rev Ed). His appeal to the High Court against c
 
  4 ... 
 
- 5 The principles governing an application under s 60 of the SCJA are well established: see Abdul Salam bin Mohamed Salleh v PP (No 2) [1990] SLR 301; affirmed in [1991] SLR 235; Chan Hiang Leng Colin v PP [1995] 1 SLR 687; PP v Bridges Christopher [1998] 1 SLR 162. Before an application under s 60 will be allowed, the following requirements must be satisfied: 
+ 5 The principles governing an application under s 60 of the SCJA are well established: see Abdul Salam bin Mohamed Salleh v PP (No 2) [1990] SLR 301; affirmed in [1991] SLR 235; Chan Hiang Leng Colin v PP <span class="citation">[1995] 1 SLR 687</span>; PP v Bridges Christopher <span class="citation">[1998] 1 SLR 162</span>. Before an application under s 60 will be allowed, the following requirements must be satisfied: 
 
  (a) there must be a question of law; 
 
@@ -124,7 +124,7 @@ of Corruption Act (Cap 241, 1993 Rev Ed). His appeal to the High Court against c
 
  (d) the determination of the question by the High Court must have affected the outcome of the case. 
 
- 6 Whether a question of law is of public interest depends on the facts and circumstances of each case. Even if the above requirements are met, the court still retains a residual discretion to refuse an application made by any party other than the Public Prosecutor. I have repeatedly stressed that the discretion under s 60 of the SCJA must be exercised sparingly. As I explained in Ng Ai Tiong v PP [2000] 2 SLR 358 at [10]: 
+ 6 Whether a question of law is of public interest depends on the facts and circumstances of each case. Even if the above requirements are met, the court still retains a residual discretion to refuse an application made by any party other than the Public Prosecutor. I have repeatedly stressed that the discretion under s 60 of the SCJA must be exercised sparingly. As I explained in Ng Ai Tiong v PP <span class="citation">[2000] 2 SLR 358</span> at [10]: 
 
  This is to give recognition and effect to Parliament’s intention for the High Court to be the final appellate court for criminal cases commenced in the subordinate courts. The importance of maintaining finality in such proceedings must not be seen to be easily compromised through the use of such a statutory device. In Abdul Salam bin Mohamed Salleh v PP [1990] SLR 301, 311; [1990] 3 MLJ 275, 280, Chan Sek Keong J [as he then was] had cautioned aptly that: 
 
@@ -145,7 +145,7 @@ application:
 
 **_Question 1 – “Whether the form and procedure for bringing a matter of the Subordinate Courts for review to the High Court in the exercise of powers under Sections 266, 267 and 268 of the Criminal Procedure Code should be by way of a Criminal Petition to the High Court or by way of a Criminal Motion to the High Court?”_** 
 
-9       Mr Singh submitted that although Rubin J had said in _Heng Lee Handbags Co Pte Ltd v PP_ [1994] 2 SLR 760 (“ _Heng Lee_ ”) that the application for review should be by way of petition and not motion, Kan Ting Chiu JC (as he then was) had allowed a motion for review in _Lance Court Furnishings Pte Ltd v PP_ [1993] 3 SLR 969 (“ _Lance Court_ ”). He further submitted that Kan JC’s decision on the merits was cited with approval in _SM Summit Holdings Ltd v PP_ [1997] 3 SLR 922 (“ _SM Summit_ ”). 
+9       Mr Singh submitted that although Rubin J had said in _Heng Lee Handbags Co Pte Ltd v PP_ <span class="citation">[1994] 2 SLR 760</span> (“ _Heng Lee_ ”) that the application for review should be by way of petition and not motion, Kan Ting Chiu JC (as he then was) had allowed a motion for review in _Lance Court Furnishings Pte Ltd v PP_ <span class="citation">[1993] 3 SLR 969</span> (“ _Lance Court_ ”). He further submitted that Kan JC’s decision on the merits was cited with approval in _SM Summit Holdings Ltd v PP_ <span class="citation">[1997] 3 SLR 922</span> (“ _SM Summit_ ”). 
 
 10     However, I noted that while it was true that Kan JC had allowed the substantive motion in _Lance Court_ , the mode of the application was not in dispute in that case. Accordingly, there was nothing in _Lance Court_ , which was a case before _Heng Lee_ , that suggested that _Heng Lee_ was wrongly decided on the point of the correct mode of the application. Likewise, there was nothing in _SM Summit_ that suggested that _Heng Lee_ was wrongly decided on the point. Therefore, in my view, Mr Singh was wrong to say that there were contradicting judicial authorities on the point. 
 

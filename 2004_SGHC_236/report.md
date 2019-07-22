@@ -87,16 +87,16 @@ companies’ registry in Indonesia and which would predominantly be in the Indon
 
 **The decision of the court** 
 
-27     The Court of Appeal in _Eng Liat Kiang v Eng Bak Hern_ [1995] 3 SLR 97 at 103, [20] said: 
+27     The Court of Appeal in _Eng Liat Kiang v Eng Bak Hern_ <span class="citation">[1995] 3 SLR 97</span> at 103, [20] said: 
 
  A stay will only be granted on the ground of forum non conveniens, where the court is satisfied that there is some other available and appropriate forum for the trial of the action. The burden of proof rests on the defendant, and the burden is not just to show that Singapore is not the natural or appropriate forum but to establish that there is another available forum which is clearly or distinctly more appropriate than the Singapore forum. The natural forum is that with which the action has the most real and substantial connection, and the court will consider what factors there are which point in that direction. If the court concludes at that stage that there is no other available forum which is clearly more appropriate for the trial of the action, it will 
 
 
  ordinarily refuse a stay. If, however, the court concludes at that stage that there is some other available forum which prima facie is clearly more appropriate for the trial of the action it will ordinarily grant a stay, unless there are circumstances by reason of which justice requires that a stay should nevertheless be refused. The court in this respect will consider all the circumstances of the case. 
 
-28     This decision was followed by the Court of Appeal in the later decision of _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ [1998] 1 SLR 253. 
+28     This decision was followed by the Court of Appeal in the later decision of _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ <span class="citation">[1998] 1 SLR 253</span>. 
 
-29     The defendants in the present case relied on the High Court decision in _Praptono Honggopati Tjitrohupojo v His Royal Highness Tunku Ibrahim Ismail Ibni Sultan Iskandar Al-Haj_ [2002] 4 SLR 667 at [28] for the proposition set out below: 
+29     The defendants in the present case relied on the High Court decision in _Praptono Honggopati Tjitrohupojo v His Royal Highness Tunku Ibrahim Ismail Ibni Sultan Iskandar Al-Haj_ <span class="citation">[2002] 4 SLR 667</span> at [28] for the proposition set out below: 
 
  Above all, all the reported cases enjoin the courts to balance the competing justice between the parties. In this context, I would like to add a little allonge, that is, if the balance were to remain at the mid-point and tilts to neither side, the action must generally follow the defendant. 
 

@@ -138,9 +138,9 @@ These were Registrar’s Appeal Nos 255, 256 and 257 of 2011 (“RAs 255, 256 an
 
 **Legal principles** 
 
-29     There must be strong compelling reasons before a court will consider the exercise of its discretion to vacate trial dates – _Su Sh-Hsyu v Wee Yue Chew_ [2007] 3 SLR(R) 673 at [39]. 
+29     There must be strong compelling reasons before a court will consider the exercise of its discretion to vacate trial dates – _Su Sh-Hsyu v Wee Yue Chew_ <span class="citation">[2007] 3 SLR(R) 673</span> at [39]. 
 
-30     As regards the granting of “unless” orders, they may be granted if there is a history of failure to comply with other orders – _Hytec Information Systems Ltd v Coventry City Council_ [1997] 1 WLR 1666 at 1677 G-H, cited with approval by the Court of Appeal in _Syed Mohamed Abdul Muthaliff and another v Arjan Bhisham Chotrani_ [1999] 1 SLR(R) 361 at [14]. 
+30     As regards the granting of “unless” orders, they may be granted if there is a history of failure to comply with other orders – _Hytec Information Systems Ltd v Coventry City Council_ [1997] 1 WLR 1666 at 1677 G-H, cited with approval by the Court of Appeal in _Syed Mohamed Abdul Muthaliff and another v Arjan Bhisham Chotrani_ <span class="citation">[1999] 1 SLR(R) 361</span> at [14]. 
 
 **Whether JRO needed legal advice to comply with the Present Directions** 
 
@@ -198,7 +198,7 @@ These were Registrar’s Appeal Nos 255, 256 and 257 of 2011 (“RAs 255, 256 an
 
 **Whether absence of legal advice is relevant** 
 
-38     Counsel for D1 and D2, Mr Ang Cheng Hock, SC (“Mr Ang”) submitted that poverty and the absence of legal advice was no excuse for a lay litigant to fail to comply with court orders or rules of court. He relied on a High Court decision and two District Court decisions: _Singapura Building Society Limited v Djie Sui Tjhiang and others_ [1996] SGHC 211, _Chong Fook Choy v Alvin Liau_ [2001] SGDC 187 and _DK v DL_ [2004] SGDC 199. I hesitate to say that the absence of legal advice is always irrelevant. It seems to me that it is one factor in the assessment of the overall circumstances behind a person’s failure to comply with court orders or rules of court. I need say no more for the time being in the light of the circumstances leading to the Present Summons. 
+38     Counsel for D1 and D2, Mr Ang Cheng Hock, SC (“Mr Ang”) submitted that poverty and the absence of legal advice was no excuse for a lay litigant to fail to comply with court orders or rules of court. He relied on a High Court decision and two District Court decisions: _Singapura Building Society Limited v Djie Sui Tjhiang and others_ <span class="citation">[1996] SGHC 211</span>, _Chong Fook Choy v Alvin Liau_ <span class="citation">[2001] SGDC 187</span> and _DK v DL_ <span class="citation">[2004] SGDC 199</span>. I hesitate to say that the absence of legal advice is always irrelevant. It seems to me that it is one factor in the assessment of the overall circumstances behind a person’s failure to comply with court orders or rules of court. I need say no more for the time being in the light of the circumstances leading to the Present Summons. 
 
 **Why JRO did not inform A&G that she was applying for extensions of time in respect of the Present Directions and Present Trial Dates until 3 August 2011** 
 

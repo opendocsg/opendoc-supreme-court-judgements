@@ -30,7 +30,7 @@ _Courts and Jurisdiction_ – _Magistrates’ courts_ – _Transfer to District 
 
 **_The decision below_** 
 
-5       Both the Deputy Registrar who heard the application and the District Judge who heard the plaintiffs' appeal, felt bound by the decision in _Tan Kok Ing v Tan Swee Meng & Others_ [2003] 1 SLR 657. In that case, the High Court ruled that there was no inherent jurisdiction in the Magistrates' Courts to transfer an action commenced in the Magistrates’ Courts to the District Courts. Any such transfer had to meet the requirements of s 53 of the SCA which states:
+5       Both the Deputy Registrar who heard the application and the District Judge who heard the plaintiffs' appeal, felt bound by the decision in _Tan Kok Ing v Tan Swee Meng & Others_ <span class="citation">[2003] 1 SLR 657</span>. In that case, the High Court ruled that there was no inherent jurisdiction in the Magistrates' Courts to transfer an action commenced in the Magistrates’ Courts to the District Courts. Any such transfer had to meet the requirements of s 53 of the SCA which states:
 
  A Magistrate's Court may, either of its own motion or on the application of a party to an action, 
 
@@ -43,7 +43,7 @@ The court in _Tan Kok Ing_ held that for the question of law or fact to be "impo
 
 **_The Appeal_** 
 
-7       Mr Martin for the plaintiffs referred to other sections of the SCA besides s 53, to the Rules, the Supreme Court of Judicature Act Cap 322 (the SCJA) and the Interpretation Act Cap 1. He submitted that the decision in _Tan Kok Ing's_ case should not be followed because the court there did not consider other provisions in the above-mentioned Acts. Instead, he urged the court to follow the decision of the Court of Appeal in _Ong Pang Wee & Others v Chiltern Park Development Pte Ltd_ [2003] 2 SLR 267. He noted that the court in _Tan Kok Ing's_ case did not consider s 69 of the SCA whilst conversely, the Court of Appeal (majority decision) in _Ong Pang Wee's_ case did not address s 53 thereof. 
+7       Mr Martin for the plaintiffs referred to other sections of the SCA besides s 53, to the Rules, the Supreme Court of Judicature Act Cap 322 (the SCJA) and the Interpretation Act Cap 1. He submitted that the decision in _Tan Kok Ing's_ case should not be followed because the court there did not consider other provisions in the above-mentioned Acts. Instead, he urged the court to follow the decision of the Court of Appeal in _Ong Pang Wee & Others v Chiltern Park Development Pte Ltd_ <span class="citation">[2003] 2 SLR 267</span>. He noted that the court in _Tan Kok Ing's_ case did not consider s 69 of the SCA whilst conversely, the Court of Appeal (majority decision) in _Ong Pang Wee's_ case did not address s 53 thereof. 
 
 8       Counsel submitted that there is an exception to the rule that subsidiary legislation cannot override primary legislation, citing _Whitefield Ltd v Starkey_ (1932) 32 SR (NSW) 651 and _Halsbury's Laws of Australia_ vol 8 para 125-155). If the decision in _Tan Kok Ing's_ case was followed, it meant that in giving effect to s 53 of the SCA, s 69 thereof was disregarded altogether. That however, would be contrary to the rule (see _Halbury's Laws of England_ 4 ed vol 44(1) p 913 para 1481) that: 
 
@@ -87,7 +87,7 @@ while O 47 r 1 of the Malaysian Subordinate Courts Rules 1980 (made pursuant to 
 
 15     Based on the principle that subsidiary legislation (O 47 r 1) cannot prevail over primary legislation (as contained in para 3 of the Third Schedule to the 1948 Act), the sessions court judge had no powers to transfer the case before him to a magistrate's court. As the Malaysian case was based on primary/subsidiary legislation which differs from ours, I do not find the case particularly helpful. 
 
-16     I turn next to _Ong Pang Wee v Chiltern Park Development Pte Ltd_. Coincidentally, this was an appeal against Woo JC's decision (see _Chiltern Park Development Pte Ltd v Ong Pang Wee_ [2002] 4 SLR 79). Coincidentally too, Mr Martin acted for the appellants. 
+16     I turn next to _Ong Pang Wee v Chiltern Park Development Pte Ltd_. Coincidentally, this was an appeal against Woo JC's decision (see _Chiltern Park Development Pte Ltd v Ong Pang Wee_ <span class="citation">[2002] 4 SLR 79</span>). Coincidentally too, Mr Martin acted for the appellants. 
 
 17     In _Ong Pang Wee'_ s case, the defendants had applied to transfer to the High Court the MC suit taken out against them by the developer/plaintiffs (for maintenance fees of $13,443.47) on the ground that their counterclaim ($353,900) for rectification of defects in apartments which they had purchased in Chiltern Park, came under the jurisdiction of the High Court. Woo JC dismissed the application, after holding that para 10 of the First Schedule to the SCJA must be read subject to s 18 thereof and in turn, read subject to ss 24, 38, 41 and 53 of the SCA. He held that the SCA envisaged a transfer of proceedings from only the District Courts to the High Court, not from the Magistrates' Courts to the High Court. Reference was also made to O 89 r 2(1) of the Rules. 
 

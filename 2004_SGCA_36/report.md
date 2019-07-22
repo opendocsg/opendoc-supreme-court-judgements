@@ -20,7 +20,7 @@ _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act (Cap 185, 2001 
 
 **Kan Ting Chiu J:** 
 
-1       The appellant, Mohd Arsad bin Hassan, was convicted by Tay Yong Kwang J for trafficking in 46.9g of diamorphine and was sentenced to suffer death: see _PP v Mohd Arsad bin Hassan_ [2004] SGHC 67. 
+1       The appellant, Mohd Arsad bin Hassan, was convicted by Tay Yong Kwang J for trafficking in 46.9g of diamorphine and was sentenced to suffer death: see _PP v Mohd Arsad bin Hassan_ <span class="citation">[2004] SGHC 67</span>. 
 
 2       The offence took place on 8 July 2003 at a carpark of a McDonald restaurant along New Upper Changi Road. The appellant was arrested because the two persons to whom he was selling the diamorphine to were undercover officers from the Central Narcotics Bureau (“CNB”), namely Staff Sergant Ashari bin Hassan (“SSgt Ashari”) and Staff Sergeant Mohd Affendi bin Ideris (“SSgt Affendi”), who assumed the names “Nick” and “Didi” in the operation. 
 
@@ -58,7 +58,7 @@ picked up the appellant in front of the Sultan Mosque, and went to a coffee shop
 
 17     The crucial issue was whether they had agreed on one pound plus five sachets or only six sachets at the coffee shop. If the appellant’s account was correct, then the deal was for six sachets of heroin of about 3.97g (on the basis that the five sachets contained 3.31g of diamorphine). In that event, he would avoid the death penalty. 
 
-18     Such a defence actually raises another issue, which is whether an honest belief is enough or whether it must be a reasonable belief. There is no decision on this, but for the defence of mistaken belief over the contents of a package that a person is in possession of, _eg_ , a package believed to contain gold when it actually contains heroin, it has been established that ignorance _simpliciter_ of the nature of the drugs is not enough, if there was reason and opportunity to examine the package in question, and the person failed to make any effort to find out what the contents were: see _Cheng Heng Lee v PP_ [1999] 1 SLR 504 at [46]. 
+18     Such a defence actually raises another issue, which is whether an honest belief is enough or whether it must be a reasonable belief. There is no decision on this, but for the defence of mistaken belief over the contents of a package that a person is in possession of, _eg_ , a package believed to contain gold when it actually contains heroin, it has been established that ignorance _simpliciter_ of the nature of the drugs is not enough, if there was reason and opportunity to examine the package in question, and the person failed to make any effort to find out what the contents were: see _Cheng Heng Lee v PP_ <span class="citation">[1999] 1 SLR 504</span> at [46]. 
 
 19     The same requirement may be applied to the appellant’s defence. The question can be raised whether he had reasonable grounds to believe that a “kereta” is a sachet, and whether he could have clarified that with “Nick”, “Didi” or “Ali Kong” if he was not sure. However, as the question was not raised or addressed before us, we will go no further. In any event, as Tay J found that the deal was for one “batu” and five sachets and we agree with his findings, the appellant had not made out a case that he honestly believed that six sachets were to be transacted, the question whether the belief he held was reasonable does not arise. 
 

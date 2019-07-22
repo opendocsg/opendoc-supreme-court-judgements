@@ -20,7 +20,7 @@ _Land_ – _Strata titles_ – _Management corporation_ – _Management council_
 
 **Hoo Sheau Peng JC:** 
 
-1       This case is the sequel to the dispute in Originating Summons No 392 of 2014 (“OS 392/2014”) between a group of subsidiary proprietors and the management corporation of a condominium development known as “Riveria Gardens” (“the Development”). The grounds of decision in relation to the original dispute have been set out in _Diora-Ace Limited and others v The Management Corporation Strata Title Plan No 3661 and another_ [2015] SGHC 88 (“ _Diora-Ace (No 1)_ ”). 
+1       This case is the sequel to the dispute in Originating Summons No 392 of 2014 (“OS 392/2014”) between a group of subsidiary proprietors and the management corporation of a condominium development known as “Riveria Gardens” (“the Development”). The grounds of decision in relation to the original dispute have been set out in _Diora-Ace Limited and others v The Management Corporation Strata Title Plan No 3661 and another_ <span class="citation">[2015] SGHC 88</span> (“ _Diora-Ace (No 1)_ ”). 
 
 2       In the present case, Originating Summons 994 of 2014 (“OS 994/2014”), the seven plaintiffs (“the Plaintiffs”) sought a declaration and an injunction to enforce a notice issued under s 58(3) of the Building Management and Strata Maintenance Act (Cap 30C, 2008 Rev Ed) (“BMSMA”) on 29 April 2014 (“the Notice”), so as to prevent the first defendant in this action, the Management Corporation Strata Title Plan No 3661 (“the MCST”), the management corporation of the Development, from incurring legal costs in the defence of OS 392/2014. The Notice was addressed to one Mr Heng Chih Yang (“Mr Heng”), the secretary of the third council of the MCST. Mr Heng is the third defendant in this action. The Plaintiffs also served the Notice on one Mr Joel Chang Chung Yhow (“Mr Chang”), the chairman of the third council of the MCST and the second defendant in this action. The three defendants in this case will collectively be referred to as “the Defendants”. 
 
@@ -82,7 +82,7 @@ simple majority in a general meeting of the subsidiary proprietors to act agains
 
 14     The Defendants did not dispute this. However, they argued that a notice made under s 58(3) of the BMSMA should be made in good faith and for a good reason. The Defendants’ case was that the Plaintiffs’ issue of the Notice was oppressive and an abuse of s 58(3) of the BMSMA. Section 58(3) was not intended to prevent a management corporation from defending itself in an action commenced by the issuer(s) of the notice. 
 
-15     In support of their argument, the Defendants relied on _Lark Lounge and Nite Club Pte Ltd v Management Corporation Strata Title Plan No 1420_ [1997] 3 SLR(R) 945 (“ _Lark Lounge_ ”) and a commentary on the case in Teo Keang Sood, _Strata Title in Singapore and Malaysia_ (LexisNexis, 4th Ed, 2012) (“ _Strata Title in Singapore and Malaysia_ ”). 
+15     In support of their argument, the Defendants relied on _Lark Lounge and Nite Club Pte Ltd v Management Corporation Strata Title Plan No 1420_ <span class="citation">[1997] 3 SLR(R) 945</span> (“ _Lark Lounge_ ”) and a commentary on the case in Teo Keang Sood, _Strata Title in Singapore and Malaysia_ (LexisNexis, 4th Ed, 2012) (“ _Strata Title in Singapore and Malaysia_ ”). 
 
 16     The facts in _Lark Lounge_ are as follows. The plaintiff had purchased four lots in a strata development known as Balestier Point. The defendant was the management corporation of that strata 
 

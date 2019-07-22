@@ -84,7 +84,7 @@ proceeds from the sale of the Property equally between the two of them. [note: x
 
 12     The plaintiff and defendant held the legal interest in the Property in equal shares. The question was whether the beneficial interests were held in different proportions. 
 
-13     Both parties relied on _Chan Yuen Lan v See Fong Mun_ [2014] 3 SLR 1048 (“ _Chan Yuen Lan”_ ). The relevant principles from _Chan Yuen Lan_ for the purposes of this case were the following: 
+13     Both parties relied on _Chan Yuen Lan v See Fong Mun_ <span class="citation">[2014] 3 SLR 1048</span> (“ _Chan Yuen Lan”_ ). The relevant principles from _Chan Yuen Lan_ for the purposes of this case were the following: 
 
  (a) Parties will be presumed to hold the beneficial interest in a property in proportion to their respective contributions to the purchase price, ie the presumption of resulting trust arises. 
 

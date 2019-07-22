@@ -24,7 +24,7 @@ Chan Sek Keong CJ (delivering the grounds of decision of the court):
 
 **Introduction** 
 
-1       This is an appeal against the decision of Lee Seiu Kin J (“the Judge”) in Originating Summons No 1727 of 2007, _viz_ , _Jurong Shipyard Pte Ltd v BNP Paribas_ [2008] 4 SLR 33 (“the GD”) granting Jurong Shipyard Pte Ltd (“JSPL”) an injunction to restrain BNP Paribas (“BNP”) from commencing winding-up proceedings against JSPL, which BNP had threatened to do after JSPL had failed to comply with BNP’s statutory demand for payment of approximately US$50m allegedly due and payable by JSPL to BNP arising from certain foreign exchange contracts to which BNP was a counterparty. 
+1       This is an appeal against the decision of Lee Seiu Kin J (“the Judge”) in Originating Summons No 1727 of 2007, _viz_ , _Jurong Shipyard Pte Ltd v BNP Paribas_ <span class="citation">[2008] 4 SLR 33</span> (“the GD”) granting Jurong Shipyard Pte Ltd (“JSPL”) an injunction to restrain BNP Paribas (“BNP”) from commencing winding-up proceedings against JSPL, which BNP had threatened to do after JSPL had failed to comply with BNP’s statutory demand for payment of approximately US$50m allegedly due and payable by JSPL to BNP arising from certain foreign exchange contracts to which BNP was a counterparty. 
 
 2       At the conclusion of the hearing of this appeal, we dismissed it and gave the following brief grounds: 
 
@@ -125,7 +125,7 @@ We agree.
 
 **The court’s discretion** 
 
-15     This brings us to the first point concerning the discretionary power of the court not to wind up even a company which is proved or deemed to be unable to pay its debts. The general rule is that, where a company is unable or deemed to be unable to pay its debts, the creditor is _prima facie_ entitled to a winding-up order _ex debito justitiae_ (see _Metalform Asia Pte Ltd v Holland Leedon Pte Ltd_ [2007] 2 SLR 268 (“ _Metalform_ ”) at [61]). This proposition can be traced to Lord Cranworth’s statement in _Bowes v The Hope Life Insurance and Guarantee Company_ (1865) 11 HLC 389; 11 ER 1383, where he said, at 402; 1389: 
+15     This brings us to the first point concerning the discretionary power of the court not to wind up even a company which is proved or deemed to be unable to pay its debts. The general rule is that, where a company is unable or deemed to be unable to pay its debts, the creditor is _prima facie_ entitled to a winding-up order _ex debito justitiae_ (see _Metalform Asia Pte Ltd v Holland Leedon Pte Ltd_ <span class="citation">[2007] 2 SLR 268</span> (“ _Metalform_ ”) at [61]). This proposition can be traced to Lord Cranworth’s statement in _Bowes v The Hope Life Insurance and Guarantee Company_ (1865) 11 HLC 389; 11 ER 1383, where he said, at 402; 1389: 
 
  [I]t is not a discretionary matter with the Court when a debt is established, and not satisfied, to say whether the company shall be wound up or not; that is to say, if there be a valid debt established, valid both at law and in equity. One does not like to say positively that no case could occur in which it would be right to refuse it ; but ordinarily speaking, it is the duty of the Court to direct the winding up. [emphasis added] 
 

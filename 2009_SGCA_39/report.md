@@ -20,7 +20,7 @@ _Banking_ – _Lending and security_ – _Legal mortgages_
 
 **V KRajah JA (delivering the judgment of the court):** 
 
-1       These are our brief grounds of decision in relation to the appeals against the decisions of different High Court Judges in Originating Summons No 1044 of 2008 (“OS 1044/2008”) and Originating Summons No 800 of 2009 (“OS 800/2009”). Our grounds of decision are to be read with the decision of the High Court Judge who decided OS 1044/2008, _DB Trustees (Hong Kong) Ltd v Consult Asia Pte Ltd_ [2009] SGHC 62 (“the Enforcement Judgment”) , where the facts have been fully stated. 
+1       These are our brief grounds of decision in relation to the appeals against the decisions of different High Court Judges in Originating Summons No 1044 of 2008 (“OS 1044/2008”) and Originating Summons No 800 of 2009 (“OS 800/2009”). Our grounds of decision are to be read with the decision of the High Court Judge who decided OS 1044/2008, _DB Trustees (Hong Kong) Ltd v Consult Asia Pte Ltd_ <span class="citation">[2009] SGHC 62</span> (“the Enforcement Judgment”) , where the facts have been fully stated. 
 
 2       OS 1044/2008 was an application by DB Trustees (Hong Kong) Limited (“DB Trustees”) against Consult Asia Pte Ltd (“Consult Asia”) for an order, _inter alia_ , that DB Trustee’s appointment of receivers and managers over Consult Asia on 4 July 2008 was valid and enforceable. The appointment had been made in the context of existing security arrangements between the parties. Consult Asia had mortgaged two properties as security (“the Security”) for the redemption of Senior Secured Notes (“the Notes”) that it had issued pursuant to a Subscription Agreement, dated 28 December 
 

@@ -16,7 +16,7 @@
 
 _Civil Procedure_ – _Appeals_ – _Costs_ 
 
-[LawNet Editorial Note: The decision from which this matter arose is reported at [2012] 2 SLR 1033 .] 
+[LawNet Editorial Note: The decision from which this matter arose is reported at <span class="citation">[2012] 2 SLR 1033</span> .] 
 
 2 November 2012 Judgment reserved. 
 
@@ -37,7 +37,7 @@ _Civil Procedure_ – _Appeals_ – _Costs_
 
 4       On 5 April 2012 (“the 5 April hearing”), the parties attended before a Judge of Appeal for the hearing of SUM 1676/2012 and the respondent’s counsel, Mr M Ravi (“Mr Ravi”), argued that CA 35/2012 could only be heard after the Judge had issued his grounds of decision for OS 196/ (“the GD”). The Judge of Appeal adjourned the matter until after the Judge had issued the GD. 
 
-5       The GD was issued on 9 April 2012 (see _Vellama d/o Marie Muthu v Attorney-General_ [2012] 2 SLR 1033) and parties attended before the Judge of Appeal on 12 April 2012. Mr Ravi raised the preliminary objection that the Notice of Appeal was improperly filed as the appellant had not obtained leave to appeal from the Judge. The Judge of Appeal did not rule on the preliminary objection on the ground that the proper procedure was for the respondent to take out a separate application to strike out the Notice of Appeal. Accordingly, the Judge of Appeal made an order for the hearing of CA 35/2012 to be expedited and heard in the week of 14 May 2012. The hearing of CA 35/2012 was subsequently fixed for hearing on 16 May 2012. 
+5       The GD was issued on 9 April 2012 (see _Vellama d/o Marie Muthu v Attorney-General_ <span class="citation">[2012] 2 SLR 1033</span>) and parties attended before the Judge of Appeal on 12 April 2012. Mr Ravi raised the preliminary objection that the Notice of Appeal was improperly filed as the appellant had not obtained leave to appeal from the Judge. The Judge of Appeal did not rule on the preliminary objection on the ground that the proper procedure was for the respondent to take out a separate application to strike out the Notice of Appeal. Accordingly, the Judge of Appeal made an order for the hearing of CA 35/2012 to be expedited and heard in the week of 14 May 2012. The hearing of CA 35/2012 was subsequently fixed for hearing on 16 May 2012. 
 
 6       On 13 April 2012, the respondent filed Summons No 1817 of 2012 (“SUM 1817/2012”) to strike out the Notice of Appeal on the ground that no leave had been obtained from the Judge to appeal against the Judge’s decision in OS 196/2012. 
 
@@ -60,7 +60,7 @@ _Civil Procedure_ – _Appeals_ – _Costs_
 
 heard and decided. The substantive hearing under OS 196/2012 was eventually heard by the Judge under Summons No 2639 of 2012 (“SUM 2639/2012”) which the respondent filed on 29 May 2012 in accordance with O 53 r 2(1)( _a_ ) of the Rules of Court. 
 
-13     On 1 August 2012, the Judge gave judgment for the substantive hearing under OS 196/ ( _ie_ , SUM 2639/2012) and dismissed the respondent’s application. The Judge adjourned the hearing for costs to be determined in due course. The Judge heard parties’ submissions on costs on 8 and 16 October 2012 and issued his decision on 1 November 2012 in _Vellama d/o Marie Muthu v AttorneyGeneral_ [2012] SGHC 221. 
+13     On 1 August 2012, the Judge gave judgment for the substantive hearing under OS 196/ ( _ie_ , SUM 2639/2012) and dismissed the respondent’s application. The Judge adjourned the hearing for costs to be determined in due course. The Judge heard parties’ submissions on costs on 8 and 16 October 2012 and issued his decision on 1 November 2012 in _Vellama d/o Marie Muthu v AttorneyGeneral_ <span class="citation">[2012] SGHC 221</span>. 
 
 **Costs of this appeal** 
 

@@ -186,7 +186,7 @@ bill of costs is dealt with by O 59 r 24, which provides that the bill must set 
 
 3       2 _Singapore Civil Procedure 2018_ , Vol 1 (Foo Chee Hock gen ed) (Sweet & Maxwell, 2018) (“ _Singapore Civil Procedure_ ”) at para 59/24/1states that the form of the bill of costs must also comply with the applicable practice directions and that failure to do so amounts to non-compliance with the Rules of Court and may result in rejection of the bill. 
 
-33     I note, however, that O 59 of the Rules of Court applies to bills _drawn for taxation_ , and that the Rules of Court do not address the requirements applicable to bills which are not drawn for taxation (see _Ho Cheng Lay v Low Yong Sen_ [2009] 3 SLR(R) 206 (“ _Ho Cheng Lay_ ”) at [13]). Nevertheless, the requirements in O 59 shed light on what solicitor-and-client bills, even if not drawn for taxation, should contain. In this regard, it is worth noting the following observations in _Singapore Civil Procedure_ at para 59/24/2: 
+33     I note, however, that O 59 of the Rules of Court applies to bills _drawn for taxation_ , and that the Rules of Court do not address the requirements applicable to bills which are not drawn for taxation (see _Ho Cheng Lay v Low Yong Sen_ <span class="citation">[2009] 3 SLR(R) 206</span> (“ _Ho Cheng Lay_ ”) at [13]). Nevertheless, the requirements in O 59 shed light on what solicitor-and-client bills, even if not drawn for taxation, should contain. In this regard, it is worth noting the following observations in _Singapore Civil Procedure_ at para 59/24/2: 
 
  A lawyer owes a duty to his client to draw up his (commercial) bill clearly and accurately and with such attention to detail as he would do in undertaking any work on behalf of his client 
 
@@ -213,7 +213,7 @@ bill of costs is dealt with by O 59 r 24, which provides that the bill must set 
 
  The sufficiency of the narrative and the sufficiency of [the client’s] knowledge will vary from case to case, and the more he knows, the less the bill may need to spell it out for him. The interests of justice require that the balance be truck between protection of the client’s right to seek taxation and of the solicitor’s right to recover not being defeated by opportunistic resort to technicality. 
 
-38     The decision in _Garry_ concerned the question of whether a solicitor’s bill is “a bill _bona fide_ complying with [the 1974 UK Act]” within the meaning of s 69 of that statute, which is the English equivalent of s 118(3) of the LPA. Although the case concerned a different statutory provision, its statement of the level of particularisation and itemisation required of a solicitor’s bill has been accepted by our courts in the context of s 122 of the LPA (see _Ho Cheng Lay_ ([33] _supra_ ) at [16], _Sports Connection Pte Ltd v Asia Law Corp and another_ [2010] 4 SLR 590 (“ _Sports Connection_ ”) at [42] and _Kosui Singapore Pte Ltd v Thangavelu_ [2015] 5 SLR 722 at [89]). 
+38     The decision in _Garry_ concerned the question of whether a solicitor’s bill is “a bill _bona fide_ complying with [the 1974 UK Act]” within the meaning of s 69 of that statute, which is the English equivalent of s 118(3) of the LPA. Although the case concerned a different statutory provision, its statement of the level of particularisation and itemisation required of a solicitor’s bill has been accepted by our courts in the context of s 122 of the LPA (see _Ho Cheng Lay_ ([33] _supra_ ) at [16], _Sports Connection Pte Ltd v Asia Law Corp and another_ <span class="citation">[2010] 4 SLR 590</span> (“ _Sports Connection_ ”) at [42] and _Kosui Singapore Pte Ltd v Thangavelu_ <span class="citation">[2015] 5 SLR 722</span> at [89]). 
 
 39     These then are the principles this court will apply when deciding whether the Disputed Invoices are “proper” bills under the LPA. 
 
@@ -268,7 +268,7 @@ circumstances which make it right to refer the solicitor’s bill for taxation (
 51     The requirement that the client apply for taxation within 12 months of the bill’s delivery serves the same purpose as a limitation period ( _Kosui_ at [64]). In other words, it is intended to “prevent stale claims, to relieve a potential defendant of the uncertainty of a potential claim against [him] and to remove the injustice of increasing difficulties of proof as time goes by” ( _Kosui_ at [64], citing _Teh_ 
 
 
-_Siew Hua v Tan Kim Chiong_ [2010] 4 SLR 123 at [25] _per_ Steven Chong J (as he then was), citing Mummery LJ in _Ridgeway Motors (Isleworth) Ltd v ALTS Ltd_ [2005] 1 WLR 2871 at [31]). 
+_Siew Hua v Tan Kim Chiong_ <span class="citation">[2010] 4 SLR 123</span> at [25] _per_ Steven Chong J (as he then was), citing Mummery LJ in _Ridgeway Motors (Isleworth) Ltd v ALTS Ltd_ [2005] 1 WLR 2871 at [31]). 
 
 52     As for the requirement that the client should apply to tax the bill before he pays it, this serves to discourage the client from approbating and reprobating and upholds the solicitor’s interest in security of receipt for his fees ( _Kosui_ at [64]). 
 
@@ -278,7 +278,7 @@ _Siew Hua v Tan Kim Chiong_ [2010] 4 SLR 123 at [25] _per_ Steven Chong J (as he
 
  Taxation of costs is simply the ascertainment by an officer of the court, the taxing master, of the proper remuneration of a solicitor for business transacted. ‘[It] is ... a quantification machinery by means of which the recoverable amount of costs, disbursements, expenses, etc is ascertained.’ For those purposes, the taxing master has incidental jurisdiction to take an account of such sums of money as may have been paid or duly appropriated towards satisfaction of the bill of costs; but he has no jurisdiction to order an account of dealings and pecuniary matters unconnected with the bill to be taxed. 
 
-This is consistent with what the Court of Three Judges had to say about taxation proceedings in _Law Society of Singapore v Andre Ravindran Saravanapavan Arul_ [2011] 4 SLR 1184 (“ _Andre Ravindran_ ”) at [32]: that “[t]axation provides the best means for an aggrieved client _to determine what the proper fee is for the actual work done by his lawyer_ ” [emphasis added]. 
+This is consistent with what the Court of Three Judges had to say about taxation proceedings in _Law Society of Singapore v Andre Ravindran Saravanapavan Arul_ <span class="citation">[2011] 4 SLR 1184</span> (“ _Andre Ravindran_ ”) at [32]: that “[t]axation provides the best means for an aggrieved client _to determine what the proper fee is for the actual work done by his lawyer_ ” [emphasis added]. 
 
 55     Taxation by the court accordingly provides a conclusive and objective method of determining what fees the solicitor is entitled to. Further, in _Andre Ravindran_ , it was noted that all solicitors should act on the basis that they can have their bill of costs taxed and they must remember that many clients do not know this (at [33]). For this reason, the court warned that solicitors have an obligation to inform their clients of this option and they fail or omit to do so at their peril. 
 
@@ -431,7 +431,7 @@ _se_. [note: 43] The Firm also says that the Client was well aware that Mr Gabri
 
 Gabriel’s trip to London. The Firm does not make any submissions on the rest of the disbursements. 
 
-80     I pause to note that _Singapore Civil Procedure_ states (at para 59/24/3) that the ambit of “disbursements” is not defined in the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (nor, indeed, in the LPA). That said, in _Ong Jane Rebecca v Lim Lie Hoa & Ors_ [2008] 3 SLR(R) 189 at [11], the High Court held that the word “disbursements” was wide enough to include loans or debts properly incurred by a party for the purposes of the litigation, provided that it is proven that these loans or debts are due and payable and would be paid after taxation. 
+80     I pause to note that _Singapore Civil Procedure_ states (at para 59/24/3) that the ambit of “disbursements” is not defined in the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (nor, indeed, in the LPA). That said, in _Ong Jane Rebecca v Lim Lie Hoa & Ors_ <span class="citation">[2008] 3 SLR(R) 189</span> at [11], the High Court held that the word “disbursements” was wide enough to include loans or debts properly incurred by a party for the purposes of the litigation, provided that it is proven that these loans or debts are due and payable and would be paid after taxation. 
 
 
 81     Looking at the evidence as a whole, I am of the view that the sum of S$50,000 that the Client then paid to the Firm on 16 January 2014 is what r 2(1) of the LP(SA)R calls “client’s money”, that is, “money held or received by a solicitor on account of a person for whom he is acting (in relation to the holding or receipt of such money) either as a solicitor, or in connection with his practice as a solicitor”. The sum of S$50,000 was basically a deposit to be held in the client account against the Firm’s fees and costs. 

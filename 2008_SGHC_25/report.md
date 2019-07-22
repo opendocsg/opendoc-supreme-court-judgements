@@ -81,11 +81,11 @@ The AR also ordered the defendants to pay costs of $2,200 (inclusive of disburse
  (4) An order under this Rule shall not be made in any cause or matter in respect of any party before an order under Rule 1 has first been obtained in respect of that party, unless, in the opinion of the Court, the order is necessary or desirable. 
 
 
-12     As is clear from r 5(1) set out above, it is subject to r 7, described by the Court of Appeal in _Tan Chin Seng & Ors v Raffles Town Club Pte Ltd_ [2002] 3 SLR 345 at [15] as prescribing “an overriding principle”. Rule 7 provides: 
+12     As is clear from r 5(1) set out above, it is subject to r 7, described by the Court of Appeal in _Tan Chin Seng & Ors v Raffles Town Club Pte Ltd_ <span class="citation">[2002] 3 SLR 345</span> at [15] as prescribing “an overriding principle”. Rule 7 provides: 
 
  7 On the hearing of an application for an order under Rule 1, 5 or 6, the Court may, if satisfied that discovery is not necessary, or not necessary at that stage of the cause or matter, dismiss or, as the case may be, adjourn the application and shall in any case refuse to make such an order if and so far as it is of opinion that discovery is not necessary either for disposing fairly of the cause or matter or for saving costs. 
 
-13     In _Bayerische Hypo-und Vereinsbank AG v Asia Pacific Breweries (Singapore) Pte Ltd_ [2004] 4 SLR 39, Belinda Ang J said (at [37] and [38]): 
+13     In _Bayerische Hypo-und Vereinsbank AG v Asia Pacific Breweries (Singapore) Pte Ltd_ <span class="citation">[2004] 4 SLR 39</span>, Belinda Ang J said (at [37] and [38]): 
 
  37 ... The ultimate test is whether discovery is necessary for disposing fairly of the proceedings or for saving costs. An assertion that the documents are relevant will not be good enough. Equally, an assertion that the documents are necessary because they are relevant will not be enough. Obviously, if a document is not relevant, it cannot be necessary for disposing of the cause or matter. On the other hand, documents may be relevant to a case without being necessary to it. The word used in O 24 r 7 is “necessary” and not “desirable” or “relevant”. ... 
 

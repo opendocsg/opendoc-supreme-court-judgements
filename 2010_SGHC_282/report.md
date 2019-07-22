@@ -16,7 +16,7 @@
 
 _Contract_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 170 of 2010 was allowed by the Court of Appeal on 7 April 2011. See [2011] SGCA 10.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 170 of 2010 was allowed by the Court of Appeal on 7 April 2011. See <span class="citation">[2011] SGCA 10</span>.] 
 
 22 September 2010 
 

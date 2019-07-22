@@ -143,7 +143,7 @@ the 2nd defendant. The claim against NUS and Hydro after two rounds of amendment
  [emphasis added] 
 
 
-30     Cooke J’s formulation of the test was endorsed by the Privy Council in _Lee Ting Sang v Chung Chi-Keung and Another_ [1990] 2 AC 374 at 382. This decision was in turn applied locally in _Kureoka Enterprise Pte Ltd v Central Provident Fund Board_ [1992] SGHC 113. 
+30     Cooke J’s formulation of the test was endorsed by the Privy Council in _Lee Ting Sang v Chung Chi-Keung and Another_ [1990] 2 AC 374 at 382. This decision was in turn applied locally in _Kureoka Enterprise Pte Ltd v Central Provident Fund Board_ <span class="citation">[1992] SGHC 113</span>. 
 
 31     Unfortunately, none of these authorities were cited to the Judge for his consideration. He appeared to apply the control test exclusively with reference to the tender specifications without regard to other factors which indicated that the contract between NUS and Hydro was that of a contract for services. We agree with NUS that the following factors were more consistent with Hydro providing a contract for services: 
 

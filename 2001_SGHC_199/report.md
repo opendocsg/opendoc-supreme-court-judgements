@@ -403,7 +403,7 @@ In addition, Borgensten was obliged to:
 
 **_General_** 
 
-140\. Ms The relied heavily on the case of _Heng Holdings SEA (Pte) Ltd v Tomongo Shipping Co Ltd_ [1997] 3 SLR 547 (‘Heng Holdings’). 
+140\. Ms The relied heavily on the case of _Heng Holdings SEA (Pte) Ltd v Tomongo Shipping Co Ltd_ <span class="citation">[1997] 3 SLR 547</span> (‘Heng Holdings’). 
 
 105\. In that case, the question arose whether there was evidence or sufficient evidence that the defendants would dissipate or at least were likely to dissipate their assets so as to defeat or frustrate the realization of a judgment that the plaintiffs might eventually obtain against them. 
 
@@ -426,7 +426,7 @@ In addition, Borgensten was obliged to:
 
 47\. We agree with this submission. On the evidence, the appellants are a company with substantial fixed assets and they appeared to be carrying on business in the normal way. There was no evidence of any real risk that the appellants’ assets would be dissipated or were likely to be dissipated such that a judgment obtained against them would go unsatisfied.’ 
 
-108\. In _Choy Chee Keen Collin v Public Utilities Board_ [1997] 1 SLR 604, Thean JA said at paras 20 and 21: 
+108\. In _Choy Chee Keen Collin v Public Utilities Board_ <span class="citation">[1997] 1 SLR 604</span>, Thean JA said at paras 20 and 21: 
 
  ‘ 20. In The Niedersachsen; Ninemia Maritime Corp v Trave Schiffahrtsgesselschaft mbH & Co KG [1984] 1 All ER 398, Mustill J, whose judgment at first instance was upheld on appeal, held that the plaintiff would 
 

@@ -39,7 +39,7 @@ _Criminal Procedure and Sentencing_
 
 9       In view of the imminent date of execution, Mr Ravi urged me to grant a stay of execution pending the hearing of the application by the CA. 
 
-10     Mr Jaswant Singh for the prosecution submitted that I had no jurisdiction to grant a stay of execution. He cited my previous decision in _Vignes s/o Mourthi v PP_ (No 2) [2003] 4 SLR 300 (“ _Vignes s/o Mourthi No 2_ ”) as authority for that proposition. 
+10     Mr Jaswant Singh for the prosecution submitted that I had no jurisdiction to grant a stay of execution. He cited my previous decision in _Vignes s/o Mourthi v PP_ (No 2) <span class="citation">[2003] 4 SLR 300</span> (“ _Vignes s/o Mourthi No 2_ ”) as authority for that proposition. 
 
 11     He also submitted that there were only two avenues available to Yong. First, Yong could seek a stay of execution from the President pursuant to Art 22(P)(1)(b) of the Constitution of the Republic of Singapore (“the Constitution”) or, secondly, Yong could apply for the stay of execution when his application for extension of time to appeal was heard by the CA. Mr Singh’s submission therefore appeared to accept that the CA has jurisdiction to order a stay of execution pending the hearing of the application for an extension of time to appeal. 
 

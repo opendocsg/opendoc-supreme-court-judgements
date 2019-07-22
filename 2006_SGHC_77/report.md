@@ -229,7 +229,7 @@ It was c ommon ground that in the next phase, the traffic lights fac ing Clement
  [T]here is – in the absenc e of c lear and c ompelling c irc umstanc es to the c ontrary – no legal duty on a driver to slow down automatically eac h time he or she approac hes a junc tion if there is no stop sign or (as is the c ase here) the lights are in his or her favour at a junc tion where traffic lights are present. [emphasis in original] 
 
 
-_per_ Andrew Phang Boon Leong JC (as he then was) in _Ong Bee Nah v Wong Siew Wan_ [2005] 2 SLR 455 at [95]. 
+_per_ Andrew Phang Boon Leong JC (as he then was) in _Ong Bee Nah v Wong Siew Wan_ <span class="citation">[2005] 2 SLR 455</span> at [95]. 
 
 28     Was the dec eased guilty of c ontributory negligenc e? There are the photographs, the sketc h plan, the investigation offic er’s evidenc e and Low’s evidenc e to go on. Low’s evidenc e was that the bus had stopped in the turning poc ket, but when it moved further into the intersec tion when the lights were still in favour of the dec eased, the ac c ident happened. 
 

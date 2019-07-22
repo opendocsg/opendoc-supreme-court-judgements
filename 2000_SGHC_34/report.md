@@ -81,7 +81,7 @@ This rule hides a power which can lead to division and destabilization in the Cl
 
 8\. The defendants sought to defend the action. The cornerstone of their defence was that the plaintiff had acted improperly in connection with a certain financial transaction relating to his position as a member of the previous general committee. It went like this. The Club had taken out a protection and indemnity insurance for the benefit of the members of the general committee. In early 1998, all 11 members of the previous general committee were taken to court by three ordinary members in respect of a separate matter. The present plaintiff was a defendant in that action, in which he decided to be his own lawyer. The other 10 defendants in that action were represented by two sets of lawyers. The Court, Lee Seiu Kin JC, decided against the committee 
 
-## members : See Graeme McGuire v John Rasmussen [1998] 3 SLR 180. They were ordered to pay the costs of the action. 
+## members : See Graeme McGuire v John Rasmussen <span class="citation">[1998] 3 SLR 180</span>. They were ordered to pay the costs of the action. 
 
 Following this, they lodged a claim against the insurance company seeking an indemnity for their costs. The insurers agreed. As the insurance was also for his benefit as a committee member the present plaintiff asked the insurers whether they would pay him for the legal work he had done. He revealed to the insurers that if they would not agree, he would not charge the Club. The insurers agreed to pay his legal charges and eventually paid him. The amount the plaintiff received was $17,000. The defendants in the present action felt that there was something wrong in the plaintiff receiving that amount. It was on that score that they acted in concert and voted him out of office. They said that in their opinion there was sufficient justification to expel him from his elected office of Vice-President. I should mention here that in relation to the legal expenses and any damages the present 
 
@@ -106,9 +106,9 @@ _A trilogy of Singapore decisions_
 
 explain one facet of the underlying reason for the rule. Unbeknown to me, the law had turned a full circle. I shall explain this later. 
 
-## Next, Hua Khian Ceramics Tiles Supplies Pte Ltd [1992] 1 SLR 884 I refused a claim for general damages for injury to reputation 
+## Next, Hua Khian Ceramics Tiles Supplies Pte Ltd <span class="citation">[1992] 1 SLR 884</span> I refused a claim for general damages for injury to reputation 
 
-## in a breach of contract case. Finally, in the case of Lee Kuan Yew v Tang Liang Hong [1999] 3 SLR 630 ruled that the law will 
+## in a breach of contract case. Finally, in the case of Lee Kuan Yew v Tang Liang Hong <span class="citation">[1999] 3 SLR 630</span> ruled that the law will 
 
 not award general damages for mental distress when damages are to be assessed on a breach of contract basis. In that case, I made a further attempt to explain another facet of the underlying reason for the rule. The last of the trilogy was affirmed by the 
 
@@ -131,7 +131,7 @@ _Analysis of the law Mental Distress_
 
 ## suffering caused by grief, fear, anguish and the like is not assessable." It is apt for me to repeat here what I said in Haron 
 
-## Mundir v Singapore Amateur Athletic Association [1992] 1 SLR 18 at p 31 : 
+## Mundir v Singapore Amateur Athletic Association <span class="citation">[1992] 1 SLR 18</span> at p 31 : 
 
  The object of awarding damages in contract is different from tort. The underlying logic for the difference is that the law of contract is concerned with a defendant’s failure to improve the claimant’s position by his failure to keep a promise. In contract the loss is monetary and, being measurable in terms of money, is therefore special. The law of tort, on the other hand, is concerned with the plaintiff’s position made worse by a wrongdoing of the defendant. The damage is in the main noneconomic and, being immeasurable, is general. Damages must be assessed. 
 
@@ -286,7 +286,7 @@ attempts to put an end to the conventional wisdom had died a silent death. The l
 
  But the rule is not absolute. Where the very object of a contract is to provide pleasure, relaxation, peace of mind or freedom from molestation, damages will be awarded if the fruit of the contract is not provided or if the contrary result is procured instead. If the law did not cater for this exceptional category of case it would be defective. 
 
-## In Lee Kuan Yew v Tang Liang Hong [1999] 3 SLR 630, counsel for the claimant declared with great fanatical force that it was a 
+## In Lee Kuan Yew v Tang Liang Hong <span class="citation">[1999] 3 SLR 630</span>, counsel for the claimant declared with great fanatical force that it was a 
 
 monstrous principle and vowed to have it reversed on appeal. The case went on appeal. The Singapore Court of Appeal, on the 
 
@@ -294,7 +294,7 @@ monstrous principle and vowed to have it reversed on appeal. The case went on ap
 
 ## that general damages are not recoverable for mental distress arising from breach of contract. See Teo Siew Har v Lee Kuan Yew 
 
-(Civil Appeal No 303 of 1998) [1999] 4 SLR 560. 
+(Civil Appeal No 303 of 1998) <span class="citation">[1999] 4 SLR 560</span>. 
 
 
 Conclusion 

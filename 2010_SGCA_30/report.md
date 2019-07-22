@@ -18,7 +18,7 @@
 
 _Civil Procedure_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2010] 3 SLR 97.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2010] 3 SLR 97</span>.] 
 
 26 August 2010 
 
@@ -128,15 +128,15 @@ sought against someone who is not a party to the proceedings because that order 
 
 22     The Judge noted, at [28] of the GD, that even if Xing Rong had standing to appeal against the AR’s decision and succeeded in its appeal, it would not be able to reap the fruits of the appeal because the Discovery Order was _res judicata_ as between VHO and BOC. 
 
-23     In ruling that the Discovery Order was _res judicata_ , the Judge had assumed that Xing Rong had no _locus standi_ to appeal against the AR’s decision. Hence, he relied on _Nike International Ltd and another v Campomar SL_ [2005] 4 SLR(R) 76 at [40] for the proposition that a decision which is not appealed against by a party entitled to do so is _res judicata_. However, this was not the case here as we found that Xing Rong was entitled to appeal against the AR’s decision. 
+23     In ruling that the Discovery Order was _res judicata_ , the Judge had assumed that Xing Rong had no _locus standi_ to appeal against the AR’s decision. Hence, he relied on _Nike International Ltd and another v Campomar SL_ <span class="citation">[2005] 4 SLR(R) 76</span> at [40] for the proposition that a decision which is not appealed against by a party entitled to do so is _res judicata_. However, this was not the case here as we found that Xing Rong was entitled to appeal against the AR’s decision. 
 
-24     The Judge also relied on _Teo Chee Yeow Aloysius and another v Tan Harry and another_ [2004] 3 SLR(R) 588. In that case, it was held that two co-defendants who had both successfully appealed against an award of damages assessed by an Assistant Registrar, but had appealed under different heads of damages, were not entitled to the benefits of each other’s success ( _ie_ , they could only benefit from the decision with respect to the head of damages which formed the subject matter of their own appeals). However, this reasoning was inapplicable to the present case, as Xing Rong was not seeking to benefit from the successful appeal of another party. 
+24     The Judge also relied on _Teo Chee Yeow Aloysius and another v Tan Harry and another_ <span class="citation">[2004] 3 SLR(R) 588</span>. In that case, it was held that two co-defendants who had both successfully appealed against an award of damages assessed by an Assistant Registrar, but had appealed under different heads of damages, were not entitled to the benefits of each other’s success ( _ie_ , they could only benefit from the decision with respect to the head of damages which formed the subject matter of their own appeals). However, this reasoning was inapplicable to the present case, as Xing Rong was not seeking to benefit from the successful appeal of another party. 
 
 25     In short, as the question of _res judicata_ did not arise, Xing Rong was not precluded from filing an appeal against the AR’s decision. 
 
 **Whether the Judge was correct in striking out the Registrar’s Appeal based on a lack of substantive merit** 
 
-26     The principles concerning the striking out of a notice of appeal were outlined by the Court of Appeal in _Riduan bin Yusof v Khng Thian Huat and another_ [2005] 2 SLR(R) 188 (“ _Riduan_ ”) as follows at [17] and [21]: 
+26     The principles concerning the striking out of a notice of appeal were outlined by the Court of Appeal in _Riduan bin Yusof v Khng Thian Huat and another_ <span class="citation">[2005] 2 SLR(R) 188</span> (“ _Riduan_ ”) as follows at [17] and [21]: 
 
  17 The principles applicable to striking out notices of appeal are stated in Singapore Civil Procedure 2003 (Sweet & Maxwell Asia, 2003) (“the White Book”) at para 57/3/7: 
 

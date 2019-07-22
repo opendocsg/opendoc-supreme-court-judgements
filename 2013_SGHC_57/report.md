@@ -103,7 +103,7 @@ defendants’ prospective defence and the first defendant’s proposed countercl
 
  ( b ) the defendant submits to the jurisdiction of the High Court. 
 
-Counsel contended that the High Court’s jurisdiction was invoked only upon proper service being effected, without which the High Court had no jurisdiction. The actual fact of service had to be first established by the plaintiff before the claim could be pursued, citing in support _Lee Hsien Loong v Review Publishing Co Ltd_ [2007] 2 SLR(R) 453, _T O Supplies (London) Ld v Jerry Creighton Ld_ [1952] 1 KB 42, _Central Provident Fund Board v Ho Bock Kee_ [1981–1982] SLR(R) 84 and _Regina v County of London Quarter Sessions Appeals Committee, Ex parte Rossi_ [1956] 2 WLR 800. 
+Counsel contended that the High Court’s jurisdiction was invoked only upon proper service being effected, without which the High Court had no jurisdiction. The actual fact of service had to be first established by the plaintiff before the claim could be pursued, citing in support _Lee Hsien Loong v Review Publishing Co Ltd_ <span class="citation">[2007] 2 SLR(R) 453</span>, _T O Supplies (London) Ld v Jerry Creighton Ld_ [1952] 1 KB 42, _Central Provident Fund Board v Ho Bock Kee_ [1981–1982] SLR(R) 84 and _Regina v County of London Quarter Sessions Appeals Committee, Ex parte Rossi_ [1956] 2 WLR 800. 
 
 **The plaintiff’s submissions** 
 

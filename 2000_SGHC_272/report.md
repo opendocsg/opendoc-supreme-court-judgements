@@ -43,11 +43,11 @@ The owners of each vessel on 16 December 1991 by a document called `Assignment o
 
 Even as the defendant, Robin Nederkoorn, signed the guarantees, things had gone wrong for him. He was the alter ego and principal shareholder of a Singapore company called Nederkoorn Pte Ltd. This company had entered into a joint venture with Canadian Pacific (Bermuda) Limited. The joint venture first floundered and eventually foundered. In connection with that both the defendant and his company, Nederkoorn Pte Ltd, were sued in Singapore by Canadian Pacific (Bermuda) Limited. On 17 June 1991 a Mareva injunction was issued against them both. That is another story. It is to be found in: 
 
-1 **Canadian Pacific (Bermuda) Ltd v Nederkoorn Pte Ltd & Anor** [1992] 1 SLR 659 
+1 **Canadian Pacific (Bermuda) Ltd v Nederkoorn Pte Ltd & Anor** <span class="citation">[1992] 1 SLR 659</span> 
 
-2 **Canadian Pacific (Bermuda) Ltd v Nederkoorn Pte Ltd & Anor** [1998] 3 SLR 309 
+2 **Canadian Pacific (Bermuda) Ltd v Nederkoorn Pte Ltd & Anor** <span class="citation">[1998] 3 SLR 309</span> 
 
-3 **Canadian Pacific (Bermuda) Ltd v Nederkoorn Pte Ltd & Anor** [1999] 2 SLR 18 
+3 **Canadian Pacific (Bermuda) Ltd v Nederkoorn Pte Ltd & Anor** <span class="citation">[1999] 2 SLR 18</span> 
 
 As a result of the foundering of the joint venture the defendant and Tamar Shipping found themselves in deep trouble. In the result, Tamar Shipping failed to take delivery of the The `Tamar Song`. The owners took this as repudiation of the charter. Tamar Shipping took delivery of the The `Tamar Summer` on 7 January 1992 but threw it up on 10 April 1992. Once again the owners took the Tamar Shipping`s act as a wrongful repudiation of the charter. 
 

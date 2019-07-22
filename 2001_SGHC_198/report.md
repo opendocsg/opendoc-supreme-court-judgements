@@ -135,7 +135,7 @@ copy of the contract which called for the appointment of a Singapore arbitrator.
 
 must be a good reason for the grant of an extension; and that a ‘good reason’ cannot be defined and would depend on the circumstances of each case. 
 
-21     The local decision of **_The Lircay_** [1997] 2 SLR 669 echoed the same principle. In **_The Lircay_** , the court further observed at page 674G-H: 
+21     The local decision of **_The Lircay_** <span class="citation">[1997] 2 SLR 669</span> echoed the same principle. In **_The Lircay_** , the court further observed at page 674G-H: 
 
  In the end, it was the exercise of discretion by the court which determined whether the writ was to be extended. In the exercise of that discretion – discretion that was undefined – the judge was entitled to have regard to the balance of hardship between the parties as a relevant matter to be taken into account in extending the writ’s validity on an ex parte application and further that in doing so, the court may well need to consider whether allowing an extension will cause prejudice to the defendants in all the circumstances of the case. 
 

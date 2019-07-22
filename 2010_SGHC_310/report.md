@@ -164,7 +164,7 @@ to the claim of unauthorised and excessive payment, the 1 st Third Party averred
 
 **The evidence at trial** 
 
-19     Before I consider the evidence, I note that the relevant events happened more than 10 years from the commencement of these proceedings. In this regard, the recent Court of Appeal decision of _Ng Chee Chuan v Ng Ai Tee (administratrix of the estate of Yap Yoon Moi, deceased)_ [2009] 2 SLR(R) 918 (“ _Ng Chee Chuan_ ”) is instructive. Chao JA compared the relative evidentiary value of contemporaneous documents with oral testimony and stated as follows: 
+19     Before I consider the evidence, I note that the relevant events happened more than 10 years from the commencement of these proceedings. In this regard, the recent Court of Appeal decision of _Ng Chee Chuan v Ng Ai Tee (administratrix of the estate of Yap Yoon Moi, deceased)_ <span class="citation">[2009] 2 SLR(R) 918</span> (“ _Ng Chee Chuan_ ”) is instructive. Chao JA compared the relative evidentiary value of contemporaneous documents with oral testimony and stated as follows: 
 
  16 While it is no doubt necessary to ascertain the credibility of witnesses in most cases where the oral evidence of the parties conflict, it is not always appropriate to rely primarily on credibility (determined on the basis of inconsistent testimony) as a basis for drawing factual inferences, especially where the events in question have taken place many years ago and there are undisputed objective facts. Imperfect memories and uncertain recollections should not necessarily be treated as impinging on the credibility of a witness. These are but afflictions which the passage of time will, in varying degree, bring to bear on all individuals. 
 
@@ -718,16 +718,16 @@ time – our impression”. [note: 57] The relevant part of Ms Tan’s evidence 
 
 was no agreement by the Defendants to award the Main Contracts on cost plus basis: [note: 59] 
 
-45     In my judgment, Colonel Chua being the Managing Director was in charge of the daily operations of ECO IEE (and the Defendants). He had the authority to award the Main Contracts on a basis which he honestly and reasonably believed to be in the Defendants’ best interest unless the board of directors at a board meeting and/or the shareholders at a shareholders’ meeting had earlier stipulated, agreed or decided that the Main Contracts were to be awarded only on a cost plus basis, which was not the case as is clear from the evidence. Colonel Chua was advised on the positives and negatives of the different bases for construction and eventually decided on the measurement basis by incorporating the SIA Articles and Conditions of Building Contract (Measurement Contract). Even if this decision subsequently turned out to be a poor one, it is clear law that so long as a management decision was taken _bona fide_ , there would be no breach of fiduciary duties. See _Intraco v Multi-Pak Singapore_ [1994] 3 SLR(R) 1064 at [30]. As stated by V K Rajah JC in _Vita Health Laboratories Pte Ltd_ 
+45     In my judgment, Colonel Chua being the Managing Director was in charge of the daily operations of ECO IEE (and the Defendants). He had the authority to award the Main Contracts on a basis which he honestly and reasonably believed to be in the Defendants’ best interest unless the board of directors at a board meeting and/or the shareholders at a shareholders’ meeting had earlier stipulated, agreed or decided that the Main Contracts were to be awarded only on a cost plus basis, which was not the case as is clear from the evidence. Colonel Chua was advised on the positives and negatives of the different bases for construction and eventually decided on the measurement basis by incorporating the SIA Articles and Conditions of Building Contract (Measurement Contract). Even if this decision subsequently turned out to be a poor one, it is clear law that so long as a management decision was taken _bona fide_ , there would be no breach of fiduciary duties. See _Intraco v Multi-Pak Singapore_ <span class="citation">[1994] 3 SLR(R) 1064</span> at [30]. As stated by V K Rajah JC in _Vita Health Laboratories Pte Ltd_ 
 
 
-_v Pang Seng Meng_ [2004] 4 SLR(R) 162 at [15] to [17]: 
+_v Pang Seng Meng_ <span class="citation">[2004] 4 SLR(R) 162</span> at [15] to [17]: 
 
  15 A director who by action or inaction causes losses to a company may find his conduct being questioned. Without evidence of a lack of bona fides however, it cannot properly be contended that directors are invariably liable for all losses sustained by a company. 
 
- 16 In ECRC Land Pte Ltd v Ho Wing On Christopher [2004] 1 SLR(R) 105, Tay Yong Kwang J rightly opined at [49]: 
+ 16 In ECRC Land Pte Ltd v Ho Wing On Christopher <span class="citation">[2004] 1 SLR(R) 105</span>, Tay Yong Kwang J rightly opined at [49]: 
 
- The court should be slow to interfere with commercial decisions taken by directors (see Intraco Ltd v Multi-Pak Singapore Pte Ltd [1994] 3 SLR(R) 1064). It should not, with the advantage of hindsight, substitute its own decisions in place of those made by directors in the honest and reasonable belief that they were for the best interests of the company, even if those decisions turned out subsequently to be money-losing ones. 
+ The court should be slow to interfere with commercial decisions taken by directors (see Intraco Ltd v Multi-Pak Singapore Pte Ltd <span class="citation">[1994] 3 SLR(R) 1064</span>). It should not, with the advantage of hindsight, substitute its own decisions in place of those made by directors in the honest and reasonable belief that they were for the best interests of the company, even if those decisions turned out subsequently to be money-losing ones. 
 
  17 This judicial endorsement of the sanctity of business judgment is underpinned by strong policy considerations. It is the role of the marketplace and not the function of the court to punish and censure directors who have in good faith, made incorrect commercial decisions. Directors should not be coerced into exercising defensive commercial judgment, motivated largely by anxiety over legal accountability and consequences. Bona fide entrepreneurs and honest commercial men should not fear that business failure entails legal liability. A company provides a vehicle for limited liability and facilitates the assumption and distribution of commercial risk. Undue legal interference will dampen, if not stifle, the appetite for commercial risk and entrepreneurship. 
 
@@ -735,7 +735,7 @@ _v Pang Seng Meng_ [2004] 4 SLR(R) 162 at [15] to [17]:
 
 46     Accordingly, the Defendants’ claim that Colonel Chua had breached his fiduciary duties by entering into the Main Contracts on a measurement basis on behalf of the Defendants is dismissed. This brings me to the claim that Colonel Chua should have asked for tenders or quotations for the Main Contracts in order to obtain the best price instead of awarding them to Bing Integrated and 
 
-thereby preferring the interest of the 2 nd Third Party. [note: 60] By failing to obtain a best price, Colonel Chua was in breach of his fiduciary duties: see _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ [2009] 3 SLR(R) 109 at [155]. 
+thereby preferring the interest of the 2 nd Third Party. [note: 60] By failing to obtain a best price, Colonel Chua was in breach of his fiduciary duties: see _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ <span class="citation">[2009] 3 SLR(R) 109</span> at [155]. 
 
 **_Letter to members of EXCO of ECO IEE_** 
 

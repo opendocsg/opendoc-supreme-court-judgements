@@ -18,7 +18,7 @@
 
 _Civil Procedure_ – _Summary Judgment_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 163 of 2014 was allowed by the Court of Appeal on 4 March 2016. See [2016] SGCA 7.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 163 of 2014 was allowed by the Court of Appeal on 4 March 2016. See <span class="citation">[2016] SGCA 7</span>.] 
 
 4 November 2014 
 
@@ -121,27 +121,27 @@ I answered all the questions in the negative.
  Where a statement of claim has been served on a defendant and that defendant has served a defence to the statement of claim, the plaintiff may, on the ground that that defendant has no defence to a claim included in the writ, or to a particular part of such a claim, or has no defence to such a claim or part except as to the amount of any damages claimed, apply to the Court for judgment against that defendant. 
 
 
-For a summary judgment to be granted, the plaintiff needs to show that there is plainly no defence to the claim: _Ganesan Carlose & Partners v American Home Assurance Co_ [1994] 1 SLR(R) 223 and _Home and Overseas Insurance Co Ltd v Mentor Insurance Co (UK) Ltd (in liquidation)_ [1990] 1 WLR 153 at 158. When the ICs were issued, the plaintiff had the benefit of “temporary finality” in that he would be entitled to payment on the basis of the ICs: _H P Construction & Engineering Pte Ltd v Chin Ivan_ [2014] SGHC 137 (“ _H P Construction_ ”) at [17]. The question was whether the defendant could show that his defence was an arguable one. 
+For a summary judgment to be granted, the plaintiff needs to show that there is plainly no defence to the claim: _Ganesan Carlose & Partners v American Home Assurance Co_ <span class="citation">[1994] 1 SLR(R) 223</span> and _Home and Overseas Insurance Co Ltd v Mentor Insurance Co (UK) Ltd (in liquidation)_ [1990] 1 WLR 153 at 158. When the ICs were issued, the plaintiff had the benefit of “temporary finality” in that he would be entitled to payment on the basis of the ICs: _H P Construction & Engineering Pte Ltd v Chin Ivan_ <span class="citation">[2014] SGHC 137</span> (“ _H P Construction_ ”) at [17]. The question was whether the defendant could show that his defence was an arguable one. 
 
 **The defendant’s appeal** 
 
 17     The defendant alleged that the plaintiffs were not entitled to payment as the Architect who issued interim payment certificates had been influenced by the plaintiff’s fraud, improper pressure or 
 
-interference. [note: 13] That being the case, temporary finality should not be a shield against excesses or abuses of power by the certifier ( _H P Construction & Engineering Pte Ltd v Chin Ivan_ ). Thus summary judgment should not be granted: _Tropicon Contractors Pte Ltd v Lojan Properties Pte Ltd_ [1989] 1 SLR(R) 591 (“ _Tropicon (HC)_ ”) at [15]. The defendant argued that he had a fair case or 
+interference. [note: 13] That being the case, temporary finality should not be a shield against excesses or abuses of power by the certifier ( _H P Construction & Engineering Pte Ltd v Chin Ivan_ ). Thus summary judgment should not be granted: _Tropicon Contractors Pte Ltd v Lojan Properties Pte Ltd_ <span class="citation">[1989] 1 SLR(R) 591</span> (“ _Tropicon (HC)_ ”) at [15]. The defendant argued that he had a fair case or 
 
 reasonable grounds for his defence. Thus he ought to have been given leave to defend. [note: 14] 
 
 **_The Certificates were tainted by fraud_** 
 
-18     The defendant submitted that the Certificates were tainted by fraud. The Court of Appeal in _Panatron Pte Ltd and another v Lee Chew Lee and another_ [2001] 2 SLR(R) 435 (“ _Panatron_ ”) at [13] held that the definition of fraud is a deliberate intention to deceive, an absence of honest belief or recklessness such as amounts to lack of honest belief. (see also _Hudson’s Building and Engineering Contracts_ (Nicholas Denys, Mark Raeside and Robert Clay gen eds) (Sweet & Maxwell, 12th Ed, 2010) 
+18     The defendant submitted that the Certificates were tainted by fraud. The Court of Appeal in _Panatron Pte Ltd and another v Lee Chew Lee and another_ <span class="citation">[2001] 2 SLR(R) 435</span> (“ _Panatron_ ”) at [13] held that the definition of fraud is a deliberate intention to deceive, an absence of honest belief or recklessness such as amounts to lack of honest belief. (see also _Hudson’s Building and Engineering Contracts_ (Nicholas Denys, Mark Raeside and Robert Clay gen eds) (Sweet & Maxwell, 12th Ed, 2010) 
 
-at para 4–046 (“ _Hudson’s_ ”)). [note: 15] Fraud can be inferred via circumstantial evidence: _Wu Yang Construction Group Ltd v Zhejiang Jinyi Group Co Ltd and others_ [2006] 4 SLR(R) 451 (“ _Wu Yang_ ”). [note: 16] The circumstances giving rise to this submission are found at [20]–[33] below. 
+at para 4–046 (“ _Hudson’s_ ”)). [note: 15] Fraud can be inferred via circumstantial evidence: _Wu Yang Construction Group Ltd v Zhejiang Jinyi Group Co Ltd and others_ <span class="citation">[2006] 4 SLR(R) 451</span> (“ _Wu Yang_ ”). [note: 16] The circumstances giving rise to this submission are found at [20]–[33] below. 
 
 **_The Certificates were tainted by improper interference or pressure_** 
 
 19     The defendant also alleged that the Certificates were tainted by improper interference or pressure. In his view, a certifier must act fairly, independently and professionally, without the influence of any party in the certification process: _Hiap Hong & Co Pte Ltd v Hong Huat Development_ 
 
-_Co (Pte) Ltd_ [2001] 1 SLR(R) 458. [note: 17] The defendant basically had to cast doubt on the certifier’s independence to defect this application for a summary judgement ( _Hudson’s_ at para 4-053). 
+_Co (Pte) Ltd_ <span class="citation">[2001] 1 SLR(R) 458</span>. [note: 17] The defendant basically had to cast doubt on the certifier’s independence to defect this application for a summary judgement ( _Hudson’s_ at para 4-053). 
 
 **_The circumstances giving rise to the defendant’s allegations_** 
 
@@ -472,7 +472,7 @@ exercise of the Architect’s discretion: _Hudson’s_ at para 6-112–6-113. [n
 
  ... in so far as interim certificates of payment are concerned, it seems to me that the intention of this clause is tolerably clear. It is intended that the contractor be paid the amounts expressed to be payable in the interim certificates, and if no payment is made by the employer it is intended to enable the contractor in the absence of fraud, improper pressure or interference or in the absence of express provisions, to obtain quick summary judgment for the amounts certified as due. In so far as any sum claimed by the employer is concerned, only the amounts expressly deductible under the contract may be set off against the amount due under the interim certificate. 
 
-63     Indeed, as observed by Sundaresh Menon CJ in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ [2013] 3 SLR 380 at [18] and [20], cash flow is the lifeblood of the construction industry. Edmund Leow JC’s remarks that temporary finality is the embodiment of the “pay first, argue later” philosophy is very apt: _H P Construction_ at [30]. In the circumstances, I dismissed the defendant’s appeal and ordered him to pay costs of $10,000 with reasonable disbursements to the plaintiff. 
+63     Indeed, as observed by Sundaresh Menon CJ in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ <span class="citation">[2013] 3 SLR 380</span> at [18] and [20], cash flow is the lifeblood of the construction industry. Edmund Leow JC’s remarks that temporary finality is the embodiment of the “pay first, argue later” philosophy is very apt: _H P Construction_ at [30]. In the circumstances, I dismissed the defendant’s appeal and ordered him to pay costs of $10,000 with reasonable disbursements to the plaintiff. 
 
 [note: 1] (^) Df’s bundle of affidavits (“DBOA”) vol 1 Tab 1 at para 5. [note: 2] (^) DBOA vol 1 Tab 1 at para 4. [note: 3] (^) DBOA vol 1 Tab 1 at para 5. [note: 4] (^) DBOA vol 1 Tab 1 at para 6. [note: 5] (^) DBOA vol 1 Tab 1 at para 6. [note: 6] (^) DBOA vol 1 Tab 1 at para 9. [note: 7] (^) DBOA vol 1 Tab 1 at para 9. [note: 8] (^) DBOA vol 1 Tab 1 at para 12. [note: 9] (^) DBOA vol 2 Tab 2 at para 11. [note: 10] (^) Df’s bundle of documents at Tab 1. 
 

@@ -18,7 +18,7 @@ _Evidence_
 
 _Banking_ – _Secrecy_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2010] 3 SLR 1149.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2010] 3 SLR 1149</span>.] 
 
 11 April 2011 Judgment reserved. 
 
@@ -26,7 +26,7 @@ _Banking_ – _Secrecy_
 
 **Introduction** 
 
-1       This is an appeal against the decision of a Judicial Commissioner to allow a claim by the respondent, Crédit Industriel et Commercial (“CIC”), a French bank, against the appellant, Mr Teo Wai Cheong (“Teo”), its former private banking client, for sums due under five financial products known as “accumulators” (“the Disputed Accumulators”) (see _Crédit Industriel et Commercial v Teo Wai Cheong_ [2010] 3 SLR 1149 (“GD”)). 
+1       This is an appeal against the decision of a Judicial Commissioner to allow a claim by the respondent, Crédit Industriel et Commercial (“CIC”), a French bank, against the appellant, Mr Teo Wai Cheong (“Teo”), its former private banking client, for sums due under five financial products known as “accumulators” (“the Disputed Accumulators”) (see _Crédit Industriel et Commercial v Teo Wai Cheong_ <span class="citation">[2010] 3 SLR 1149</span> (“GD”)). 
 
 **Background** 
 

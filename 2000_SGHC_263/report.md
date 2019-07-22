@@ -202,7 +202,7 @@ Bad faith
 
 32\. In relation to (e) above, I did not think there was any evidence to support the allegation that the second defendant was not informed of the settlement negotiations. In fact, the second defendant was asked to be a party to it (which he refused) and was ultimately told about the settlement agreement 
 
-33\. Finally, I did not think that the plaintiffs' failure to sell the CDPL shares to recover part of the loan amounted to bad faith on their part. It is trite law that a creditor does not owe a surety a duty to realise a security before it became worthless (see _Industrial & Commercial Bank v Li Soon Development Pte Ltd_ [1994] 1 SLR 471 and _Hong Kong, China and South Seas Bank v Tan Goon Sin_ [1990] 1 Lloyd's Rep 113). As stated in _Hong Kong, China and South Seas Bank v Tan Goon Sin_ [1990] 1 Lloyd's Rep 113: 
+33\. Finally, I did not think that the plaintiffs' failure to sell the CDPL shares to recover part of the loan amounted to bad faith on their part. It is trite law that a creditor does not owe a surety a duty to realise a security before it became worthless (see _Industrial & Commercial Bank v Li Soon Development Pte Ltd_ <span class="citation">[1994] 1 SLR 471</span> and _Hong Kong, China and South Seas Bank v Tan Goon Sin_ [1990] 1 Lloyd's Rep 113). As stated in _Hong Kong, China and South Seas Bank v Tan Goon Sin_ [1990] 1 Lloyd's Rep 113: 
 
 ## If the surety...is worried that the mortgaged securities may decline in value, then 
 

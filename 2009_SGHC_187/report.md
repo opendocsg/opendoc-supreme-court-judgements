@@ -194,7 +194,7 @@ _Operative total knee replacement and revision knee replacement_
 
 49     The AR awarded A$8,500 for the operative total knee replacement treatment but gave no award for the revision knee replacement. The plaintiff claimed A$17,000 for the operative total knee replacement treatment and A$18,000 for the revision knee replacement. 
 
-50     With regard to the operative total knee replacement treatment, the expert had said that there was a 50% or slightly higher chance that the treatment would be necessary 15 to 20 years from now, if there was meniscal injury. The AR thought it fair to discount 50% off the A$17,000 to reflect the possibility that it was not certain such treatment would be needed, and cited _Soon Pook Seng Arthur v Oceaneering International Sdn Bhd_ [1995] 3 SLR 531 for such a proposition. 
+50     With regard to the operative total knee replacement treatment, the expert had said that there was a 50% or slightly higher chance that the treatment would be necessary 15 to 20 years from now, if there was meniscal injury. The AR thought it fair to discount 50% off the A$17,000 to reflect the possibility that it was not certain such treatment would be needed, and cited _Soon Pook Seng Arthur v Oceaneering International Sdn Bhd_ <span class="citation">[1995] 3 SLR 531</span> for such a proposition. 
 
 51     The AR gave no award for the revision knee replacement. Dr Pohl’s evidence was that if the plaintiff went for total knee replacement at an early stage in life, she “may well require” revision knee replacement surgery in about 15 years after the initial total knee replacement. The AR was of the view that this was a contingency of a contingency, making the plaintiff’s claim too speculative to make any award. 
 

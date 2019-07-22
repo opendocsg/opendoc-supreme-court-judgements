@@ -24,7 +24,7 @@ _Criminal Law_ – _Special exceptions_ – _Exceeding private defence_
 
 _Criminal Law_ – _Special exceptions_ – _Sudden fight_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2015] SGHC 310.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2015] SGHC 310</span>.] 
 
 3 February 2017 Judgment reserved. 
 
@@ -41,7 +41,7 @@ _Criminal Law_ – _Special exceptions_ – _Sudden fight_
 
 **Facts** 
 
-3       The background facts leading to the Appellant’s arrest have been covered comprehensively in the decision of the judge below (“the Judge”), which may be found at _Public Prosecutor v Iskandar bin Rahmat_ [2015] SGHC 310 (“the Judgment”). Most of the facts are not disputed by the parties and we do not propose to repeat them here. What was of contention between the parties were the events that took place in the house of the first victim, Mr Tan Boon Sin (“D1”), over a period of about 30 minutes, and it suffices for the present appeal to focus on what had happened (or at least, what the Appellant alleges to have happened) during that period of time, save for the following key facts. 
+3       The background facts leading to the Appellant’s arrest have been covered comprehensively in the decision of the judge below (“the Judge”), which may be found at _Public Prosecutor v Iskandar bin Rahmat_ <span class="citation">[2015] SGHC 310</span> (“the Judgment”). Most of the facts are not disputed by the parties and we do not propose to repeat them here. What was of contention between the parties were the events that took place in the house of the first victim, Mr Tan Boon Sin (“D1”), over a period of about 30 minutes, and it suffices for the present appeal to focus on what had happened (or at least, what the Appellant alleges to have happened) during that period of time, save for the following key facts. 
 
 4       The Appellant was an investigation officer with the Singapore Police Force (“SPF”). Between 2012 and 2013, the Appellant started experiencing serious financial difficulties and was at risk of losing his job. The Appellant thus devised a plan to rob D1. D1 had stored a substantial sum of money in his safe deposit box at Certis CISCO (“CISCO”) which the Appellant knew about because he had previously come across a police report filed by D1 regarding some monies missing from the safe deposit box. The Appellant’s plan was to call D1 and introduce himself as a police officer. He would inform D1 that he had received information that the latter’s safe deposit box at CISCO would be “hit”, and that the latter should therefore remove its contents so that he could place a CCTV camera inside the safe deposit box. For this purpose, the Appellant had prepared a dummy CCTV camera which he placed in a box. 
 
@@ -132,7 +132,7 @@ actions do not show an intention to cause death, but instead (assuming that one 
 
 **Our Decision** 
 
-34     We stress at the outset that it is not strictly necessary for the Prosecution to prove beyond a reasonable doubt that the Appellant had planned to kill either or both victims from the beginning. It is well-established that the intention to cause death under s 300( _a_ ) of the Penal Code need not be preplanned or premeditated, and can be formed on the spur of the moment, just before the actual killing takes place. If, of course, it can be shown that the Appellant had planned to kill both victims all along, then the intention to cause the deaths of the victims at the time of the killing would be established in an _a fortiori_ fashion (see, for example, the Malaysian Court of Appeal decision of _Ismail Bin Hussin v Public Prosecutor_ [1953] MLJ 48, adopted by this court in _Shaiful Edham bin Adam and another v Public Prosecutor_ [1999] 1 SLR(R) 422 at [64]). But the converse is not true. Even if the Appellant had no premeditated plan to kill D1 and D2, he would still be equally guilty of murder under s 300( _a_ ) of the Penal Code if it can be shown beyond a reasonable doubt that the Appellant had the intention to cause the deaths of D1 and D2 _at the time of the killing_. This is the central question before the court. To answer this question, the court must determine, as a matter of fact, what had transpired in D1’s house. As is common with many cases of murder, the only person who can shed light as to what occurred during the moments leading to the death of the victims is the Appellant himself. We therefore now turn to examine the Appellant’s story in greater detail. 
+34     We stress at the outset that it is not strictly necessary for the Prosecution to prove beyond a reasonable doubt that the Appellant had planned to kill either or both victims from the beginning. It is well-established that the intention to cause death under s 300( _a_ ) of the Penal Code need not be preplanned or premeditated, and can be formed on the spur of the moment, just before the actual killing takes place. If, of course, it can be shown that the Appellant had planned to kill both victims all along, then the intention to cause the deaths of the victims at the time of the killing would be established in an _a fortiori_ fashion (see, for example, the Malaysian Court of Appeal decision of _Ismail Bin Hussin v Public Prosecutor_ [1953] MLJ 48, adopted by this court in _Shaiful Edham bin Adam and another v Public Prosecutor_ <span class="citation">[1999] 1 SLR(R) 422</span> at [64]). But the converse is not true. Even if the Appellant had no premeditated plan to kill D1 and D2, he would still be equally guilty of murder under s 300( _a_ ) of the Penal Code if it can be shown beyond a reasonable doubt that the Appellant had the intention to cause the deaths of D1 and D2 _at the time of the killing_. This is the central question before the court. To answer this question, the court must determine, as a matter of fact, what had transpired in D1’s house. As is common with many cases of murder, the only person who can shed light as to what occurred during the moments leading to the death of the victims is the Appellant himself. We therefore now turn to examine the Appellant’s story in greater detail. 
 
 
 **Conviction in respect of D** 
@@ -191,7 +191,7 @@ instead of s 302(1) of the Penal Code, which carries the mandatory death penalty
 
  Exception 2 .— Culpable homicide is not murder if the offender, in the exercise in good faith of the right of private defence of person or property, exceeds the power given to him by law, and causes the death of the person against whom he is exercising such right of defence, without premeditation and without any intention of doing more harm than is necessary for the purpose of such defence. 
 
-50     To satisfy Exception 2, the Appellant must prove on a balance of probabilities the following elements (see this court’s decision in _Soosay v Public Prosecutor_ [1993] 2 SLR(R) 670 at [29]): 
+50     To satisfy Exception 2, the Appellant must prove on a balance of probabilities the following elements (see this court’s decision in _Soosay v Public Prosecutor_ <span class="citation">[1993] 2 SLR(R) 670</span> at [29]): 
 
  (a) The right of private defence has arisen; 
 
@@ -201,7 +201,7 @@ instead of s 302(1) of the Penal Code, which carries the mandatory death penalty
 
  (d) The death was caused without any intention of doing more harm than was necessary for the purpose of such defence. 
 
-51     In respect of the first element, this court in _Tan Chor Jin v Public Prosecutor_ [2008] 4 SLR(R) 306 (“ _Tan Chor Jin_ ”) held that two preconditions must be satisfied before the right of private defence arises in respect of the accused’s own body (at [39]): 
+51     In respect of the first element, this court in _Tan Chor Jin v Public Prosecutor_ <span class="citation">[2008] 4 SLR(R) 306</span> (“ _Tan Chor Jin_ ”) held that two preconditions must be satisfied before the right of private defence arises in respect of the accused’s own body (at [39]): 
 
  (a) The person purporting to exercise the right of private defence (“the defender”) must have been the subject of an offence affecting the human body; and 
 
@@ -226,7 +226,7 @@ area”. At that particular point in time, the Appellant was standing near the o
 
  Explanation.— It is immaterial in such cases which party offers the provocation or commits the first assault. 
 
-57     In _Tan Chun Seng v Public Prosecutor_ [2003] 2 SLR(R) 506 (“ _Tan Chun Seng_ ”), this court identified three main ingredients which prompt the operation of this partial defence (at [16]): 
+57     In _Tan Chun Seng v Public Prosecutor_ <span class="citation">[2003] 2 SLR(R) 506</span> (“ _Tan Chun Seng_ ”), this court identified three main ingredients which prompt the operation of this partial defence (at [16]): 
 
  (a) Sudden fight in the heat of passion upon a sudden quarrel; 
 
@@ -291,7 +291,7 @@ Dr Lee opined that the Appellant suffered from _adjustment disorder with mixed a
 
 71     On 12 October 2016, Dr Lee produced a report in response to Dr Goh’s 2016 Report (“Dr Lee’s Response Report”) (exhibited in the Appellant’s Affidavit dated the same). In Dr Lee’s Response Report, Dr Lee maintained his diagnosis of the Appellant. He alleged that Dr Goh’s conclusions were based on incomplete information, and that Dr Goh had failed to give due consideration to important _new_ information the Appellant provided to Dr Lee in 2016. 
 
-72     The principles governing the admission of fresh evidence in a criminal appeal are set out in the Singapore High Court decision of _Soh Meiyun v Public Prosecutor_ [2014] 3 SLR 299 (“ _Soh Meiyun_ ”). Chao Hick Tin JA in _Soh Meiyun_ favoured the less restrictive approach adopted by this court in _Mohammad Zam bin Abdul Rashid v Public Prosecutor_ [2007] 2 SLR(R) 410, _ie_ , that the three conditions in the leading English Court of Appeal decision of _Ladd v Marshall_ [1954] 1 WLR 1489 of “non-availability”, “relevance” and “reliability” applied, but that the first condition of “non-availability” was less paramount than the other two conditions. The consequence is that (see _Soh Meiyun_ at [16]): 
+72     The principles governing the admission of fresh evidence in a criminal appeal are set out in the Singapore High Court decision of _Soh Meiyun v Public Prosecutor_ <span class="citation">[2014] 3 SLR 299</span> (“ _Soh Meiyun_ ”). Chao Hick Tin JA in _Soh Meiyun_ favoured the less restrictive approach adopted by this court in _Mohammad Zam bin Abdul Rashid v Public Prosecutor_ <span class="citation">[2007] 2 SLR(R) 410</span>, _ie_ , that the three conditions in the leading English Court of Appeal decision of _Ladd v Marshall_ [1954] 1 WLR 1489 of “non-availability”, “relevance” and “reliability” applied, but that the first condition of “non-availability” was less paramount than the other two conditions. The consequence is that (see _Soh Meiyun_ at [16]): 
 
  ... an appellate court exercising criminal jurisdiction should generally hold that additional evidence which is favourable to the accused persons and which fulfils the Ladd v Marshall conditions of relevance and reliability is “necessary” and admit such evidence on appeal. 
 
@@ -314,14 +314,14 @@ _The legal principles_
 
  Exception 7 .—Culpable homicide is not murder if the offender was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in causing the death or being a party to causing the death. 
 
-78     As noted by this court in _Ong Pang Siew v Public Prosecutor_ [2011] 1 SLR 606 (“ _Ong Pang Siew_ ”) at [57], Exception 7 was derived from s 2 of the English Homicide Act 1957 (Cap 11) (“the 1957 English Act”) (both provisions are _in pari materia_ ). During the second reading of the Penal Code (Amendment) Bill (Bill 138 of 1961) _Singapore Parliamentary Debates, Official Report_ (24 May 1961) vol 14 (“Second Reading of the Penal Code (Amendment) Bill”), Mr K M Byrne, the Minister for Labour and Law, stated that the effect of this defence is that (at cols 1509–1510): 
+78     As noted by this court in _Ong Pang Siew v Public Prosecutor_ <span class="citation">[2011] 1 SLR 606</span> (“ _Ong Pang Siew_ ”) at [57], Exception 7 was derived from s 2 of the English Homicide Act 1957 (Cap 11) (“the 1957 English Act”) (both provisions are _in pari materia_ ). During the second reading of the Penal Code (Amendment) Bill (Bill 138 of 1961) _Singapore Parliamentary Debates, Official Report_ (24 May 1961) vol 14 (“Second Reading of the Penal Code (Amendment) Bill”), Mr K M Byrne, the Minister for Labour and Law, stated that the effect of this defence is that (at cols 1509–1510): 
 
  ...where the [fact-finder] is satisfied that a person charged with murder, though not insane, suffered from mental weakness or abnormality bordering on insanity to such an extent that his responsibility was substantially diminished, the crime may be reduced from murder to culpable homicide. 
 
 79     There are three distinct requirements under Exception 7 which must be satisfied before an accused is entitled to rely on it (see the decisions of this court in _Ong Pang Siew_ at [58] and _Public_ 
 
 
-_Prosecutor v Wang Zhijian and another appeal_ [2014] SGCA 58 (“ _Wang Zhijian_ ”) at [50]): 
+_Prosecutor v Wang Zhijian and another appeal_ <span class="citation">[2014] SGCA 58</span> (“ _Wang Zhijian_ ”) at [50]): 
 
  (a) The accused was suffering from an abnormality of mind (“the first limb”); 
 
@@ -335,7 +335,7 @@ _Prosecutor v Wang Zhijian and another appeal_ [2014] SGCA 58 (“ _Wang Zhijian
 
  (c) The abnormality of mind substantially impaired his mental responsibility for his acts and omissions in causing the death (“the third limb”). 
 
-80     It is further well-established that whilst the second limb (otherwise known as the aetiology or root cause of the abnormality) is a matter largely to be determined based on expert evidence, the first and third limbs are matters which cannot be the subject of any medical opinion and must be left to the determination of the trial judge as the finder of fact (see for example, the decision of this court in _Chua Hwa Soon Jimmy v Public Prosecutor_ [1998] 1 SLR(R) 601 at [21]; the Singapore High Court decision of _Public Prosecutor v Juminem and another_ [2005] 4 SLR(R) 536 at [5]; as well as the decisions of this court in _Zailani bin Ahmad v Public Prosecutor_ [2005] 1 SLR(R) 356 at [51] and _Ong Pang Siew_ at [59]). 
+80     It is further well-established that whilst the second limb (otherwise known as the aetiology or root cause of the abnormality) is a matter largely to be determined based on expert evidence, the first and third limbs are matters which cannot be the subject of any medical opinion and must be left to the determination of the trial judge as the finder of fact (see for example, the decision of this court in _Chua Hwa Soon Jimmy v Public Prosecutor_ <span class="citation">[1998] 1 SLR(R) 601</span> at [21]; the Singapore High Court decision of _Public Prosecutor v Juminem and another_ <span class="citation">[2005] 4 SLR(R) 536</span> at [5]; as well as the decisions of this court in _Zailani bin Ahmad v Public Prosecutor_ <span class="citation">[2005] 1 SLR(R) 356</span> at [51] and _Ong Pang Siew_ at [59]). 
 
 81     In respect of the first limb, what amounts to an “abnormality of mind” was defined by Lord Parker CJ, delivering the judgment of the court in the seminal English Court of Criminal Appeal decision of _R v Byrne_ [1960] 2 QB 396 (“ _Byrne_ ”) (at 403): 
 

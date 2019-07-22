@@ -168,7 +168,7 @@ fast rule to determine whether, on given facts, abuse is to be found or not.
 
 **_Does the decision of Singh JC operate in rem or in personam?_** 
 
-38     Apart from abuse of process, a separate and independent ground why the Plaintiff’s action must fail is because the decision of Singh JC operates in rem. Every judgment in rem is conclusive and binding upon the world at large and is not limited in its binding effect to those who were parties to the proceedings and their privies. LP Thean JA delivering the judgment of the Court of Appeal in _Payna Chettiar v Low Meng Seng & Ors_ [1998] 2 SLR 289 at 299 said: 
+38     Apart from abuse of process, a separate and independent ground why the Plaintiff’s action must fail is because the decision of Singh JC operates in rem. Every judgment in rem is conclusive and binding upon the world at large and is not limited in its binding effect to those who were parties to the proceedings and their privies. LP Thean JA delivering the judgment of the Court of Appeal in _Payna Chettiar v Low Meng Seng & Ors_ <span class="citation">[1998] 2 SLR 289</span> at 299 said: 
 
  “In particular, a judgment in rem declaring the rights and title to a property to all the world is one which all persons are bound to observe and comply with.” 
 

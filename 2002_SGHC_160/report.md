@@ -93,7 +93,7 @@ THE PROSECUTION’S SUBMISSIONS ON SENTENCE
 
 22     Various cases decided here and elsewhere were cited for my guidance. The Gemini Chit Fund case in 1973, described by Choor Singh J as the "swindle of the century", was one of them. There Abdul Gaffar Mohamed Ibrahim, the Managing Director of Gemini Chit Fund Corporation Ltd, pleaded guilty to three charges of criminal breach of trust of S$3.2 million under section 409 Penal Code and was sentenced to life imprisonment. There were 40 to 50 thousand members of the public participating in the chit fund and the loss was estimated at S$50 million. 
 
-23     The Prosecution in the present case argued that the Accused should receive in total more than the maximum that the District Court may impose in any one case, that is, 14 years imprisonment. That was the reason for invoking section 186(2) Criminal Procedure Code to have this case transferred to the High Court. I was urged to order more than two of the imprisonment terms to run consecutively as there is no rule precluding the Court from making such an order (see **_Maideen Pillai v PP_** [1996] 1 SLR 161). The Prosecution left it to the Court to decide what the aggregate term of imprisonment ought to be. 
+23     The Prosecution in the present case argued that the Accused should receive in total more than the maximum that the District Court may impose in any one case, that is, 14 years imprisonment. That was the reason for invoking section 186(2) Criminal Procedure Code to have this case transferred to the High Court. I was urged to order more than two of the imprisonment terms to run consecutively as there is no rule precluding the Court from making such an order (see **_Maideen Pillai v PP_** <span class="citation">[1996] 1 SLR 161</span>). The Prosecution left it to the Court to decide what the aggregate term of imprisonment ought to be. 
 
 THE MITIGATION 
 
@@ -182,7 +182,7 @@ THE SENTENCES
 
 ## effectively meant a maximum sentence of 20 years. Since Abdul Nasir bin Amer 
 
-## Hamsah v PP [1997] 3 SLR 643, life imprisonment means incarceration for the 
+## Hamsah v PP <span class="citation">[1997] 3 SLR 643</span>, life imprisonment means incarceration for the 
 
 ## remaining natural life of the prisoner. The $3.2 million involved in the Gemini Chit 
 

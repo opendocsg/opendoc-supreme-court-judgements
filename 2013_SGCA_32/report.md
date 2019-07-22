@@ -18,7 +18,7 @@ _Building and Construction Law_ – _Dispute Resolution_ – _Adjudication_ – 
 
 _Building and Construction Law_ – _Dispute Resolution_ – _Adjudication_ – _Stay of enforcement of adjudication determination_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2012] SGHC 194.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2012] SGHC 194</span>.] 
 
 30 April 2013 
 
@@ -26,7 +26,7 @@ _Building and Construction Law_ – _Dispute Resolution_ – _Adjudication_ – 
 
 **Introduction** 
 
-1       This is an appeal from the decision of the High Court judge (“the Judge”) in Originating Summons No 484 of 2012 (“OS 484/2012”). The Judge refused to set aside an adjudication determination dated 7 May 2012 (“the Adjudication Determination”) made under the Building and Construction Industry Security of Payment Act (Cap 30B, 2006 Rev Ed) (“the Act”) ordering the appellant, W Y Steel Construction Pte Ltd (“W Y Steel”), to pay the sum of $1,767,069.80 (“the Adjudicated Sum”) to the respondent, Osko Pte Ltd (“Osko”): see _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ [2012] SGHC 194 (“the GD”). W Y Steel had earlier paid the whole of the Adjudicated Sum into court pending the hearing of OS 484/2012, and it submitted that if we were minded to dismiss its appeal, we should nonetheless stay the enforcement of the Adjudication Determination and direct, instead, that the Adjudicated Sum be retained in court pending the disposal of separate proceedings that it had brought against Osko to recover the amount that it (W Y Steel) contended was properly due to it. 
+1       This is an appeal from the decision of the High Court judge (“the Judge”) in Originating Summons No 484 of 2012 (“OS 484/2012”). The Judge refused to set aside an adjudication determination dated 7 May 2012 (“the Adjudication Determination”) made under the Building and Construction Industry Security of Payment Act (Cap 30B, 2006 Rev Ed) (“the Act”) ordering the appellant, W Y Steel Construction Pte Ltd (“W Y Steel”), to pay the sum of $1,767,069.80 (“the Adjudicated Sum”) to the respondent, Osko Pte Ltd (“Osko”): see _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ <span class="citation">[2012] SGHC 194</span> (“the GD”). W Y Steel had earlier paid the whole of the Adjudicated Sum into court pending the hearing of OS 484/2012, and it submitted that if we were minded to dismiss its appeal, we should nonetheless stay the enforcement of the Adjudication Determination and direct, instead, that the Adjudicated Sum be retained in court pending the disposal of separate proceedings that it had brought against Osko to recover the amount that it (W Y Steel) contended was properly due to it. 
 
 2       At the close of the hearing, we dismissed the appeal and ordered that a portion of the Adjudicated Sum was to be released to Osko to enable it to settle some of its outstanding financial obligations. We also ordered that the remainder of the Adjudicated Sum (“the Remaining Sum”) should continue to be held in court until our further order as we did not think the evidence before us at that time was sufficient to enable us to dispose of W Y Steel’s aforesaid stay application (“W Y Steel’s stay application”). At the same time, we gave leave to W Y Steel to produce affidavit evidence as to why the Remaining Sum should continue to be held in court and not paid out to Osko. We now give our grounds for dismissing the appeal. We hereby also give our decision on W Y Steel’s stay application. 
 
@@ -128,7 +128,7 @@ after the entitlement of the claimant to make an adjudication application first 
 
 26     We turn to s 15(3) of the Act against this background. Local jurisprudence has spoken with one voice on its construction: that it applies even in cases where a respondent has not filed a payment response or an adjudication response. 
 
-27     In _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ [2008] SGHC 159 (“ _Chip Hup Hup Kee (AR)_ ”), the learned assistant registrar (“the Assistant Registrar”) dealt at some length with many of the same issues before this court and concluded (at [84]) that “the dis-application of s 15(3) of the [Act] to cases where no payment response was submitted ... would frustrate the apparent purpose of the legislation”. The reasoning of the Assistant Registrar proceeded in this way: 
+27     In _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ <span class="citation">[2008] SGHC 159</span> (“ _Chip Hup Hup Kee (AR)_ ”), the learned assistant registrar (“the Assistant Registrar”) dealt at some length with many of the same issues before this court and concluded (at [84]) that “the dis-application of s 15(3) of the [Act] to cases where no payment response was submitted ... would frustrate the apparent purpose of the legislation”. The reasoning of the Assistant Registrar proceeded in this way: 
 
  (a) First, the second reading speech showed that Parliament intended to create an efficient adjudication process for building and construction disputes so that cash flow would be assured even in the event of such disputes. This intention must influence how the rules of natural justice were applied in the context of the statutory adjudication scheme set out in the Act. 
 
@@ -137,13 +137,13 @@ after the entitlement of the claimant to make an adjudication application first 
  (c) Third, the other provisions of the Act, including s 16(7), did not have the effect of allowing an adjudicator to ignore the effect of s 15(3). 
 
 
-28     This reasoning was approved on appeal to Judith Prakash J in _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ [2010] 1 SLR 658. Prakash J summarised the Assistant Registrar’s judgment and concluded (at [23]): 
+28     This reasoning was approved on appeal to Judith Prakash J in _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ <span class="citation">[2010] 1 SLR 658</span>. Prakash J summarised the Assistant Registrar’s judgment and concluded (at [23]): 
 
  I have dealt with the [Assistant Registrar’s] reasons for his rejection of the respondent’s submissions and his refusal to set aside the Determination at some length since there has not been much judicial consideration to date of the provisions of the [Act] and therefore the [Assistant Registrar’s] reasoning is useful for parties in the construction industry. Further, having studied the same, I could find no fault with his conclusions on the correct interpretation of the relevant statutory provisions. 
 
 We agree with Prakash J and the Assistant Registrar with some qualifications, to which we will come in due course. 
 
-29     In _Sungdo Engineering & Construction (S) Pte Ltd v Italcor Pte Ltd_ [2010] 3 SLR 459 (“ _Sungdo_ ”), which was likewise heard by the Judge, the Judge set out the scheme of the Act and noted that its provisions were consistent with its stated objectives of providing for a fast and lowcost process of adjudication. At [13], he noted: 
+29     In _Sungdo Engineering & Construction (S) Pte Ltd v Italcor Pte Ltd_ <span class="citation">[2010] 3 SLR 459</span> (“ _Sungdo_ ”), which was likewise heard by the Judge, the Judge set out the scheme of the Act and noted that its provisions were consistent with its stated objectives of providing for a fast and lowcost process of adjudication. At [13], he noted: 
 
  13 It bears emphasising that s 15(3) of the Act provides a very important constraint on the contents of the adjudication response. ... This subsection prohibits the respondent from including in the adjudication response any reason for non-payment unless such reason has been stated in the payment response. To ensure its effectiveness, it further provides that even if such reason is included, the adjudicator is prohibited from considering it. It is therefore very important for a respondent who disputes a Payment Claim or any part thereof to provide a payment response because if he does not do so, then he will have no ground to resist payment before the adjudicator. An omission on the part of the respondent to provide a payment response to a Payment Claim within the time allowed would [be] tantamount to conceding to an adjudication order on the Payment Claim. ... [emphasis added] 
 
@@ -153,7 +153,7 @@ We agree with Prakash J and the Assistant Registrar with some qualifications, to
 
  9 ... [T]he [A]djudicator refused to take into account the points made in the adjudication response that [W Y Steel] had attempted to file on 2 May 2012. However [W Y Steel] had not suffered any prejudice because it had not filed any payment response, which it [was] supposed to do under s 11 of the Act. As I have pointed out in Sungdo (at [13] and [21]), this is potentially fatal to [W Y Steel] as s 15(3) [of the Act] precludes [it] from including in the adjudication response any reason for opposing the claim that was not in [its] payment response. Not only that, the adjudicator is prevented by the same provision from considering any reason not included in the payment response. ... [emphasis added] 
 
-32     Finally, in the recently decided case of _Australian Timber Products Pte Ltd v A Pacific Construction & Development Pte Ltd_ [2013] SGHC 56, Woo Bih Li J said at [26]: 
+32     Finally, in the recently decided case of _Australian Timber Products Pte Ltd v A Pacific Construction & Development Pte Ltd_ <span class="citation">[2013] SGHC 56</span>, Woo Bih Li J said at [26]: 
 
  26 Indeed, a closer examination of the scheme of the Act lends support to the point that [the respondent’s] arguments here were not properly for my consideration. Pursuant to s 11(3)( c ) of the Act, any allegation by the respondent which would affect the determination of the 
 

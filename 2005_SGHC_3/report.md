@@ -175,7 +175,7 @@ and he also caused the apology to be published in _The Straits Times_ and _Today
 
 34     I agreed that the defendant should state the full facts and basis on which he wanted to have the assessment hearing reconvened for him to cross-examine the plaintiff, and I directed him to file and serve his affidavit by 13 October 2004. I left the question whether he was to be cross-examined on his affidavit to be decided after the affidavit was made. 
 
-35     The events that followed are described in my judgment in Suit No 1459 of 2001 ([2005] SGHC 2). The defendant was cross-examined on his application to reconvene the assessment in that suit. He then applied to cross-examine Mr Lee, the plaintiff in that case, and his counsel, Mr Singh, as part of his application. I dismissed both his applications. 
+35     The events that followed are described in my judgment in Suit No 1459 of 2001 (<span class="citation">[2005] SGHC 2</span>). The defendant was cross-examined on his application to reconvene the assessment in that suit. He then applied to cross-examine Mr Lee, the plaintiff in that case, and his counsel, Mr Singh, as part of his application. I dismissed both his applications. 
 
 36     The defendant was unhappy that his application to cross-examine Mr Lee and Mr Singh was dismissed. When he was directed to proceed with the application to cross-examine Mr Goh and Mr Singh in this action, he was reluctant to comply unless he was given time to prepare his submissions and return on another day. 
 
@@ -248,11 +248,11 @@ privilege and fair comment in his defence, but led no evidence and made no submi
 
 **_The appropriate damages_** 
 
-57     The plaintiff tendered written submissions on damages, setting out most, if not all, of the awards made to the plaintiff as the Prime Minister and Mr Lee as the Prime Minister and the Senior Minister. Counsel specifically drew attention to the advice given by the Court of Appeal in _Tang Liang Hong v Lee Kuan Yew_ [1998] 1 SLR 97 where L P Thean JA, in delivering the judgment of the court, noted at [158]: 
+57     The plaintiff tendered written submissions on damages, setting out most, if not all, of the awards made to the plaintiff as the Prime Minister and Mr Lee as the Prime Minister and the Senior Minister. Counsel specifically drew attention to the advice given by the Court of Appeal in _Tang Liang Hong v Lee Kuan Yew_ <span class="citation">[1998] 1 SLR 97</span> where L P Thean JA, in delivering the judgment of the court, noted at [158]: 
 
  [T]here appears to be a trend of such damages rising steadily and significantly over the past few years, and in a few recent cases, each successive award appeared to overtop the preceding one. Such a trend should be discouraged; otherwise, damages for defamation would mount and eventually become extremely high, ranking almost with the grossly exorbitant awards so often made by juries in other jurisdictions. 
 
-58     Subsequently, the Court of Appeal delivered another judgment in _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ [1998] 3 SLR 337 (the decision of the High Court from which some facts stated herein are taken is reported in [1998] 1 SLR 547), which is particularly relevant for consideration. I shall refer to this case as _Goh v Jeyaretnam_. 
+58     Subsequently, the Court of Appeal delivered another judgment in _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ <span class="citation">[1998] 3 SLR 337</span> (the decision of the High Court from which some facts stated herein are taken is reported in <span class="citation">[1998] 1 SLR 547</span>), which is particularly relevant for consideration. I shall refer to this case as _Goh v Jeyaretnam_. 
 
 59     In that case, Mr Goh was then the Prime Minister. The defendant, Mr Jeyaretnam, was standing as an opposition candidate in parliamentary elections together with Mr Tang Liang Hong (“Mr Tang”). In the course of the campaign, Mr Goh declared that Mr Tang was unsuited to be a Member of Parliament as he was anti-Christian and was a Chinese chauvinist. Mr Tang was indignant at these remarks and he made two police reports. 
 

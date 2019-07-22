@@ -137,7 +137,7 @@ i. **Confrontation and violence between the accused and the victim**
 
 modesty and rape. 
 
-6       There is only one other c ase of rape by a sibling of a young age. This was _PP v S_ [2003] SGHC 70 (“ _PP v S_ ”) in whic h I had c onvic ted the ac c used on his plea of guilt in respec t of rape under s 376(2) of the Penal Code (Cap 224, 1985 Rev Ed). I said at [22]: 
+6       There is only one other c ase of rape by a sibling of a young age. This was _PP v S_ <span class="citation">[2003] SGHC 70</span> (“ _PP v S_ ”) in whic h I had c onvic ted the ac c used on his plea of guilt in respec t of rape under s 376(2) of the Penal Code (Cap 224, 1985 Rev Ed). I said at [22]: 
 
  I took into ac c ount the fac t that the ac c used was in a position of responsibility and trust vis-àvis the vic tims but he was not their parent and he was of a young age. I also took into ac c ount the fac t that he had sexually abused not one but three of his siblings in various ways on various oc c asions over a number of years. 
 

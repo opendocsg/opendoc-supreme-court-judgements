@@ -34,7 +34,7 @@ _Building and construction law_ – _Building and construction contracts_ – _M
 
 3       The first defendant is a company providing survey services and was engaged by the plaintiff to carry out measurement surveys of the Shophouse in preparation for intended renovation works. 
 
-4       The plaintiff had engaged the second defendant as architects for the renovation works. The plaintiff subsequently joined the second defendant to this suit. As the contract of engagement between the plaintiff and the second defendant contained an arbitration clause, the proceedings were stayed in favour of arbitration on the issue of liability of the second defendant, with the issue of quantum, should it arise, to be dealt with in this suit in a joint trial with the first defendant (see decision in _BDC v BDD and another_ [2016] SGHC 202). 
+4       The plaintiff had engaged the second defendant as architects for the renovation works. The plaintiff subsequently joined the second defendant to this suit. As the contract of engagement between the plaintiff and the second defendant contained an arbitration clause, the proceedings were stayed in favour of arbitration on the issue of liability of the second defendant, with the issue of quantum, should it arise, to be dealt with in this suit in a joint trial with the first defendant (see decision in _BDC v BDD and another_ <span class="citation">[2016] SGHC 202</span>). 
 
 
 **_Background to the dispute_** 

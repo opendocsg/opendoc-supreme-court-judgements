@@ -24,7 +24,7 @@ _Damages_ – _Compensation and damages_ – _Appellant operated supermarket at 
 
 **Kan Ting Chiu J:** 
 
-1       This is an appeal from the decision of a district judge. The matter went before the district judge on appeal from a deputy registrar’s assessment of the damages to be paid by the landlord of business premises to its lessee: see [2004] SGDC 193. 
+1       This is an appeal from the decision of a district judge. The matter went before the district judge on appeal from a deputy registrar’s assessment of the damages to be paid by the landlord of business premises to its lessee: see <span class="citation">[2004] SGDC 193</span>. 
 
 2       The lessee ABC Supermarket Pte Ltd (hereinafter referred to as “the appellant”) rented a part of the basement of the Peninsula Plaza from Kosma Holdings Pte Ltd (hereinafter referred to as “the respondent”). The lease was for five years commencing 1 September 2001. 
 
@@ -99,7 +99,7 @@ This submission underscored the point that bare audited profit and loss figures 
 
 20     The appellant took the position that the respondent was not entitled to raise any issues on the audited profit and loss accounts. The district judge noted in her grounds of decision ([1] _supra_ , at [6]) that: 
 
- The plaintiffs [ ie , the appellant] submitted, as a preliminary point, that the rule in Browne v Dunn (1893) 6 R 67 (which was followed in the case of Arts Niche Cyber Distribution Pte Ltd v PP [1999] 4 SLR 111) applies and that it is not open to the defendants [ ie , the respondent] to show that the losses as shown in the audited accounts were not the proper measure of damages as the defendants’ counsel had failed at the hearing to put to the plaintiffs’ witnesses that their estimation of losses was unreasonable. 
+ The plaintiffs [ ie , the appellant] submitted, as a preliminary point, that the rule in Browne v Dunn (1893) 6 R 67 (which was followed in the case of Arts Niche Cyber Distribution Pte Ltd v PP <span class="citation">[1999] 4 SLR 111</span>) applies and that it is not open to the defendants [ ie , the respondent] to show that the losses as shown in the audited accounts were not the proper measure of damages as the defendants’ counsel had failed at the hearing to put to the plaintiffs’ witnesses that their estimation of losses was unreasonable. 
 
 21     That argument was misconceived. It was for the appellant to prove its losses. If the appellant chose to prove them by relying on the accounts, the respondent did not have to put expressly to the appellant’s witnesses that the estimation of the losses was unreasonable. Short of admitting expressly or impliedly that the estimation was reasonable, which admission would estop it from changing its position, the respondent was entitled to submit that the appellant had not discharged its onus to prove its losses. There was never any doubt that the respondent did not accept the appellant’s quantification of its losses, and no question of the respondent having agreed with the appellant’s approach to quantifying its losses. 
 
@@ -114,7 +114,7 @@ This submission underscored the point that bare audited profit and loss figures 
 25     The application of the rule has been discussed and explained sufficiently and does not require 
 
 
-further clarification. In _Liza bte Ismail v PP_ [1997] 2 SLR 454, Yong Pung How CJ explained: 
+further clarification. In _Liza bte Ismail v PP_ <span class="citation">[1997] 2 SLR 454</span>, Yong Pung How CJ explained: 
 
  67 The rule in Browne v Dunn is not inflexible. This was noted in that case itself by Lord Morris in particular (at p 79), who emphasised the need for caution against ‘laying down any hard-and-fast rule as regards cross-examining a witness as a necessary preliminary to impeaching his credit’. Similar sentiments were expressed by Gleeson CJ in R v Birks (1990) 19 NSWLR 677, a decision of the New South Wales Court of Criminal Appeal. Having set out the observations of the House of Lords in Browne v Dunn , Gleeson CJ observed (at p 688): 
 
@@ -141,7 +141,7 @@ The finding that the restaurant would have returned a small profit, which was ma
 
 29     That is a vital point of difference from the present case. The district judge found as a fact that the appellant had not shown that it would have made a profit from the supermarket if the airconditioning system was not defective. 
 
-30     If there had been a finding that the business could have made a profit, it would not be necessary for the business to have commenced to attract an award for loss of profits. In _Straits Engineering Contracting Pte Ltd v Merteks Pte Ltd_ [1996] 1 SLR 227, one company, which I will refer to as “Merteks”, entered into an agreement with another company, which I will refer to as “Straits”, to purchase Straits’ shares in its subsidiary company. The purpose of the acquisition was for Merteks to gain access to a leasehold seafront property of the company that Merteks needed to expand its existing ship repair, mechanical engineering and fabrication work. The acquisition of the shares was aborted, and Merteks did not get to expand its business to the seafront property. When Merteks sued Straits, the trial judge found Straits liable for the breakdown of the transaction and awarded $1,430,000 for loss of profits to Merteks. Straits appealed against the making of such an award, as well as the amount awarded. 
+30     If there had been a finding that the business could have made a profit, it would not be necessary for the business to have commenced to attract an award for loss of profits. In _Straits Engineering Contracting Pte Ltd v Merteks Pte Ltd_ <span class="citation">[1996] 1 SLR 227</span>, one company, which I will refer to as “Merteks”, entered into an agreement with another company, which I will refer to as “Straits”, to purchase Straits’ shares in its subsidiary company. The purpose of the acquisition was for Merteks to gain access to a leasehold seafront property of the company that Merteks needed to expand its existing ship repair, mechanical engineering and fabrication work. The acquisition of the shares was aborted, and Merteks did not get to expand its business to the seafront property. When Merteks sued Straits, the trial judge found Straits liable for the breakdown of the transaction and awarded $1,430,000 for loss of profits to Merteks. Straits appealed against the making of such an award, as well as the amount awarded. 
 
 31     The Court of Appeal upheld the decision to make an award for lost profits, but reduced the sum of the award to $250,000. In its decision, the Court noted at 239–240, [36]: 
 
@@ -162,11 +162,11 @@ The finding that the restaurant would have returned a small profit, which was ma
 
 38     That leaves the question of the costs of the appeal. The appellant has succeeded in obtaining a higher award, but has failed to have the deputy registrar’s award of $250,000 reinstated. It has succeeded on a point not raised before the district judge, but which arose in the course of the appeal before me. I think it is proper that each party should bear its own costs in the appeal. 
 
- [2004] SGDC 193 at [12]. 
+ <span class="citation">[2004] SGDC 193</span> at [12]. 
 
- [2004] SGDC 193 at [15]. 
+ <span class="citation">[2004] SGDC 193</span> at [15]. 
 
- [2004] SGDC 193 at [17(iii)]; Appellant’s Further Submissions, para 20. 
+ <span class="citation">[2004] SGDC 193</span> at [17(iii)]; Appellant’s Further Submissions, para 20. 
 
  Appellant’s Further Submissions, para 63. 
 

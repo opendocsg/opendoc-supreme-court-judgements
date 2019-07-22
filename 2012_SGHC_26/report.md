@@ -16,7 +16,7 @@
 
 _Tort_ – _Negligence_ – _Motor Accident_ – _Liability_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeal No 141 of 2011 was allowed by the Court of Appeal on 5 July 2012. See [2012] SGCA 61.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeal No 141 of 2011 was allowed by the Court of Appeal on 5 July 2012. See <span class="citation">[2012] SGCA 61</span>.] 
 
 3 February 2012 
 

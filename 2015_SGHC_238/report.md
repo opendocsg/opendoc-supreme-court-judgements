@@ -18,7 +18,7 @@ _Civil Procedure_ – _Limitation_
 
 _Civil Procedure_ – _Striking out_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 123 of 2015 and Summonses Nos 260 and 261 of 2015 was allowed by the Court of Appeal on 6 April 2016. See [2016] SGCA 22.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 123 of 2015 and Summonses Nos 260 and 261 of 2015 was allowed by the Court of Appeal on 6 April 2016. See <span class="citation">[2016] SGCA 22</span>.] 
 
 14 September 2015 
 

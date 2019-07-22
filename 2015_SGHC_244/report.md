@@ -96,7 +96,7 @@ the music conditions imposed breached their constitutional rights [note: 8] and 
 
 11     Before leave is granted, the court must be satisfied that the subject matter of the complaint is susceptible to judicial review, that the applicants have sufficient interest in the matter and that the material before the court discloses an arguable case or a _prima facie_ case of reasonable suspicion in favour of granting the remedies sought by the applicant: see _eg_ , _Jeyaretnam Kenneth Andrew v_ 
 
-_Attorney-General_ [2014] 1 SLR 345 at [5]. [note: 9] 
+_Attorney-General_ <span class="citation">[2014] 1 SLR 345</span> at [5]. [note: 9] 
 
 
 12     The justiciability of the subject matter was not in dispute. I now set out the parties’ arguments on the other two requirements. 
@@ -211,7 +211,7 @@ because the first and second applicants were participants in the 2015 Thaipusam 
 
 **_Whether there was an arguable or prima facie case of reasonable suspicion_** 
 
-27     On the issue of an arguable case or a _prima facie_ case of reasonable suspicion, the Court of Appeal said in _Chan Hiang Leng Colin and others v Minister for Information and the Arts_ [1996] 1 SLR(R) 294 (at [22]): 
+27     On the issue of an arguable case or a _prima facie_ case of reasonable suspicion, the Court of Appeal said in _Chan Hiang Leng Colin and others v Minister for Information and the Arts_ <span class="citation">[1996] 1 SLR(R) 294</span> (at [22]): 
 
  This passage appears susceptible to two slightly different interpretations. One is that the court should quickly peruse the material put before it and consider whether such material discloses “what might on further consideration turn out to be an arguable case”. The other is that the applicant had to make out a “ prima facie case of reasonable suspicion”. In our view, both tests present a very low threshold and it is questionable whether there is really any difference in substance between the two interpretations. 
 
@@ -230,7 +230,7 @@ constitutional rights was clearly legally justified or otherwise permissible. [n
 
  say, anything which tends to prevent dangers to the public health may also be regarded as securing public safety. 
 
-3       2 _Chan Hiang Leng Colin and others v Public Prosecutor_ [1994] 3 SLR(R) 209 held (at [68]) that the concept of public order was not dissimilar to the notion of public peace, welfare and good order in s 24(1)( _a_ ) of the Societies Act (Cap 311, 1985 Rev Ed). It was not necessary to show clear and 
+3       2 _Chan Hiang Leng Colin and others v Public Prosecutor_ <span class="citation">[1994] 3 SLR(R) 209</span> held (at [68]) that the concept of public order was not dissimilar to the notion of public peace, welfare and good order in s 24(1)( _a_ ) of the Societies Act (Cap 311, 1985 Rev Ed). It was not necessary to show clear and 
 
 immediate danger before the right of freedom of religion could be curtailed (at [59]). [note: 31] 
 
@@ -290,7 +290,7 @@ _The Article 12 ground and irrationality_
 
 SLR(R) 710 at [35]. 
 
-40     In _Eng Foong Ho and others v Attorney-General_ [2009] 2 SLR(R) 542, the appellants were devotees of a temple who alleged that the compulsory acquisition of their property violated Article 12 because the land occupied by two adjacent places of worship had not been acquired, although all were adherents in a religious faith (at [24]). The court stated (at [25]) that although every person is equal in the eyes of the law, the State is entitled to differentiate between persons and their constitutional rights in the application of the law. The question was whether there is a reasonable nexus between the state action and the objective to be achieved by the law, assuming that the law itself is not in violation of Article 12. The court stated that the answer lay in the reasons why the State had chosen to acquire the temple property and not the other two properties and whether the reasons showed any discrimination against the appellants. 
+40     In _Eng Foong Ho and others v Attorney-General_ <span class="citation">[2009] 2 SLR(R) 542</span>, the appellants were devotees of a temple who alleged that the compulsory acquisition of their property violated Article 12 because the land occupied by two adjacent places of worship had not been acquired, although all were adherents in a religious faith (at [24]). The court stated (at [25]) that although every person is equal in the eyes of the law, the State is entitled to differentiate between persons and their constitutional rights in the application of the law. The question was whether there is a reasonable nexus between the state action and the objective to be achieved by the law, assuming that the law itself is not in violation of Article 12. The court stated that the answer lay in the reasons why the State had chosen to acquire the temple property and not the other two properties and whether the reasons showed any discrimination against the appellants. 
 
 41     In my view, the restriction on the playing of musical instruments during the Thaipusam procession did bear a reasonable nexus to the objective to be achieved by the Act and the 
 
@@ -298,7 +298,7 @@ Regulations, which is the preservation and maintenance of public order. [note: 4
 
 (see [34]–[37] above) [note: 49] even if some others might have decided to take more risks by giving greater latitude. 
 
-42     Was the equal protection clause contravened by a “deliberate and arbitrary discrimination against a particular person” ( _Howe Yoon Chong v Chief Assessor_ [1990] 1 SLR(R) 78)? In _Public Prosecutor v Ang Soon Huat_ [1990] 2 SLR(R) 246, the court held (at [23]) that arbitrariness implies the lack of any rationality. The applicants pointed to the difference in treatment that was accorded to the Chingay Parade on 27–28 February 2015 and the St Patrick’s Day Parade on 15 March 2015. [note: 50] The police imposed music conditions for the Thaipusam procession but not for the other 
+42     Was the equal protection clause contravened by a “deliberate and arbitrary discrimination against a particular person” ( _Howe Yoon Chong v Chief Assessor_ <span class="citation">[1990] 1 SLR(R) 78</span>)? In _Public Prosecutor v Ang Soon Huat_ <span class="citation">[1990] 2 SLR(R) 246</span>, the court held (at [23]) that arbitrariness implies the lack of any rationality. The applicants pointed to the difference in treatment that was accorded to the Chingay Parade on 27–28 February 2015 and the St Patrick’s Day Parade on 15 March 2015. [note: 50] The police imposed music conditions for the Thaipusam procession but not for the other 
 
 processions. It was submitted, therefore, that the decision was irrational in the _Wednesbury_ sense and the police had taken into account irrelevant considerations – including the fact that the 
 

@@ -84,7 +84,7 @@ Where this rule is breached the statutory demand will be set aside by the court 
 
  (c) it appears that the creditor holds assets of the debtor or security in respect of the debt claimed by the demand, and either rule 94(5) has not been complied with, or the court is satisfied that the value of the assets or security is equivalent to or exceeds the full amount of the debt; 
 
-In **Re Loh Lee Keow, ex p Keppel TatLee Bank** [2001] 2 SLR 503 , Woo JC held that on a proper interpretation of the Bankruptcy Rules made under the Bankruptcy Act, the word `security` in rr 94(5) and 98(2) meant `security on the property of the debtor`. In the present case, the security for the debt was not provided by the debtor, ie Sia, but by Murex. Following **_Re Loh Lee Keow_** `s case, it would not be necessary to state in the statutory demand the fact that HKR held the club 
+In **Re Loh Lee Keow, ex p Keppel TatLee Bank** <span class="citation">[2001] 2 SLR 503</span> , Woo JC held that on a proper interpretation of the Bankruptcy Rules made under the Bankruptcy Act, the word `security` in rr 94(5) and 98(2) meant `security on the property of the debtor`. In the present case, the security for the debt was not provided by the debtor, ie Sia, but by Murex. Following **_Re Loh Lee Keow_** `s case, it would not be necessary to state in the statutory demand the fact that HKR held the club 
 
 
 memberships as security as they were not Sia`s property. 

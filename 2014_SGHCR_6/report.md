@@ -204,7 +204,7 @@ extended doctrine of _res judicata_ but it is equally germane here. Essentially,
 
 counsel for the 1st defendant submitted that it amounted to an abuse of process for the plaintiff to do so now. 
 
-28     As was explained in _Goh Nellie v Goh Lian Teck_ [2007] 1 SLR(R) 453 (at [53]), the determination of an abuse of process is one that requires the balancing of the two competing factors of allowing genuine claims and disallowing oppressive litigation: 
+28     As was explained in _Goh Nellie v Goh Lian Teck_ <span class="citation">[2007] 1 SLR(R) 453</span> (at [53]), the determination of an abuse of process is one that requires the balancing of the two competing factors of allowing genuine claims and disallowing oppressive litigation: 
 
  [i]n determining whether the ambient circumstances of the case give rise to an abuse of process, the court should not adopt an inflexible or unyielding attitude but should remain guided by the balance to be found in the tension between the demands of ensuring that a litigant who has a genuine claim is allowed to press his case in court and recognising that there is a point beyond which repeated litigation would be unduly oppressive to the defendant. 
 

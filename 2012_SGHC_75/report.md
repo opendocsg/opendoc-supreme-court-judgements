@@ -16,7 +16,7 @@
 
 _Arbitration_ – _Award_ – _Additional award; Recourse against award_ – _setting aside_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 17 and 26 of 2012 were dismissed by the Court of Appeal on 18 October 2012. See [2012] SGCA 57.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 17 and 26 of 2012 were dismissed by the Court of Appeal on 18 October 2012. See <span class="citation">[2012] SGCA 57</span>.] 
 
 10 April 2012 
 
@@ -35,7 +35,7 @@ _Arbitration_ – _Award_ – _Additional award; Recourse against award_ – _se
 
 The Arbitrator made no award of liquidated damages in the Final Award. To correct some typographical errors in the Final Award, the Arbitrator then issued a Supplementary Award on 15 July 2010 (“the First Supplementary Award”). 
 
-5       Both parties were dissatisfied with the Arbitrator’s decision, and appealed against it on questions of law arising out of the Final Award. The defendant filed Originating Summons No 759 of 2010 while the plaintiff cross-appealed by way of Originating Summons No 769 of 2010. Both appeals were heard before Justice Judith Prakash, who in her decision of 5 July 2011 (see _LW Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd_ [2011] 4 SLR 477) dismissed the plaintiff’s appeal and substantially allowed the defendant’s appeal. The Final Award was remitted to the Arbitrator for reconsideration of the issue of whether the defendant should be entitled to liquidated damages in the light of the court’s orders. 
+5       Both parties were dissatisfied with the Arbitrator’s decision, and appealed against it on questions of law arising out of the Final Award. The defendant filed Originating Summons No 759 of 2010 while the plaintiff cross-appealed by way of Originating Summons No 769 of 2010. Both appeals were heard before Justice Judith Prakash, who in her decision of 5 July 2011 (see _LW Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd_ <span class="citation">[2011] 4 SLR 477</span>) dismissed the plaintiff’s appeal and substantially allowed the defendant’s appeal. The Final Award was remitted to the Arbitrator for reconsideration of the issue of whether the defendant should be entitled to liquidated damages in the light of the court’s orders. 
 
 Following this remittance, the Arbitrator rendered his Supplementary Award No 2 (Remitted Issues) on 21 September 2011 (“the Second Supplementary Award”), in which the defendant was awarded the sum of $945,000 for liquidated damages. In satisfaction thereof, the plaintiff was ordered to pay the defendant the sum of $603,608.90, after setting off the sum of $341,391.10 due to the plaintiff in the Final Award. Interest was awarded at the rate of 5.33% per annum on the sum of $603,608.90 from the date of the Second Supplementary Award 
 
@@ -116,7 +116,7 @@ After all, we are concerned with what the Arbitrator actually did.
 
  47. The Court shall not have jurisdiction to confirm, vary, set aside or remit an award on an arbitration agreement except where so provided in this Act. 
 
-21     A reaffirmation of this principle was found in _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ [2007] 3 SLR(R) 86 (“ _Soh Beng Tee_ ”) at [65] where the Court of Appeal stated: 
+21     A reaffirmation of this principle was found in _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ <span class="citation">[2007] 3 SLR(R) 86</span> (“ _Soh Beng Tee_ ”) at [65] where the Court of Appeal stated: 
 
  ...minimal curial intervention is underpinned by two principal considerations. First, there is a need to recognise the autonomy of the arbitral process by encouraging finality, so that its advantage as an efficient alternative dispute resolution process is not undermined. Second, having opted for arbitration, parties must be taken to have acknowledged and accepted the attendant risks of having only a very limited right of recourse to the courts. 
 
@@ -149,10 +149,10 @@ since s 43(4) was not an empowering provision, no relief could be granted pursua
 
 Quite clearly, the plaintiff had to show that a rule of natural justice had been breached and that consequentially its rights were prejudiced. 
 
-28     The plaintiff put forward two arguments in support of this claim, both of which complained of a breach of the rule of natural justice known as _audi alteram partem_ or, that each party must be given adequate notice and opportunity to be heard before the tribunal makes its decision (see _Front Row Investment Holdings (Singapore) Pte Ltd v Daimler South East Asia Pte Ltd_ [2010] SGHC 80 at [30], [32] and [33]). The first was that the Arbitrator had failed to give the plaintiff an opportunity to be heard before issuing the Additional Award. The Arbitrator had rendered the Additional Award a mere three days from the defendant’s solicitors’ letter of request for an additional award, without inviting the plaintiff’s solicitors to respond or giving them reasonable time to so do. The second was that the Arbitrator had decided the issue on a basis not raised or contemplated by the parties. The Arbitrator had awarded pre-award interest that ran from 13 January 2003, which pre-dated the commencement of the arbitration proceedings on 22 June 2004. The plaintiff claimed that the parties did not contemplate that interest would be awarded for any period preceding the commencement of arbitration. 
+28     The plaintiff put forward two arguments in support of this claim, both of which complained of a breach of the rule of natural justice known as _audi alteram partem_ or, that each party must be given adequate notice and opportunity to be heard before the tribunal makes its decision (see _Front Row Investment Holdings (Singapore) Pte Ltd v Daimler South East Asia Pte Ltd_ <span class="citation">[2010] SGHC 80</span> at [30], [32] and [33]). The first was that the Arbitrator had failed to give the plaintiff an opportunity to be heard before issuing the Additional Award. The Arbitrator had rendered the Additional Award a mere three days from the defendant’s solicitors’ letter of request for an additional award, without inviting the plaintiff’s solicitors to respond or giving them reasonable time to so do. The second was that the Arbitrator had decided the issue on a basis not raised or contemplated by the parties. The Arbitrator had awarded pre-award interest that ran from 13 January 2003, which pre-dated the commencement of the arbitration proceedings on 22 June 2004. The plaintiff claimed that the parties did not contemplate that interest would be awarded for any period preceding the commencement of arbitration. 
 
 
-29     The legal principles which apply when determining whether there was a breach of the rules of natural justice were set out by the Court of Appeal in _Soh Beng Tee_ at [29], approving of _John Holland Pty Ltd v Toyo Engineering Corp (Japan)_ [2001] 1 SLR(R) 443: 
+29     The legal principles which apply when determining whether there was a breach of the rules of natural justice were set out by the Court of Appeal in _Soh Beng Tee_ at [29], approving of _John Holland Pty Ltd v Toyo Engineering Corp (Japan)_ <span class="citation">[2001] 1 SLR(R) 443</span>: 
 
  ...a party challenging an arbitration award as having contravened the rules of natural justice must establish: (a) which rule of natural justice was breached; (b) how it was breached; (c) in what way the breach was connected to the making of the award; and (d) how the breach prejudiced its rights. 
 

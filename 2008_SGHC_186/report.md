@@ -138,7 +138,7 @@ It is obvious that Rule 5.1 introduced an additional circumstance from which the
 
 **The defendant’s submissions** 
 
-20     The defendant does not dispute that the 2007 SIAC Rules are incorporated into Contract 822 by virtue of clause 71.4 but argues that insofar as the provisions of the said Rules are inconsistent with the express terms of the parties’ arbitration agreement, the latter must prevail. It cites _PT Tugu Pratama Indonesia v Magma Nusantara Ltd_ [2003] 4 SLR 257 (“ _PT Tugu Pratama Indonesia_ ”) where Judith Prakash J at [46] said: 
+20     The defendant does not dispute that the 2007 SIAC Rules are incorporated into Contract 822 by virtue of clause 71.4 but argues that insofar as the provisions of the said Rules are inconsistent with the express terms of the parties’ arbitration agreement, the latter must prevail. It cites _PT Tugu Pratama Indonesia v Magma Nusantara Ltd_ <span class="citation">[2003] 4 SLR 257</span> (“ _PT Tugu Pratama Indonesia_ ”) where Judith Prakash J at [46] said: 
 
  Finally, the agreement of the parties to shift the seat of the arbitration to Singapore under the SIAC Rules would not permit those rules to overrule the express terms of the arbitration clause except as expressly assented to. 
 
@@ -166,9 +166,9 @@ By incorporating Rule 35.2 into their arbitration agreement, the parties have ag
 
 28     This rigidity under the SIAC Rules of 1997 was mitigated by Rule 5.1 of the existing Rules. However, the discretion conferred on the Registrar of the SIAC was not meant to override the parties’ agreement on a sole arbitrator. The wording of Rule 5.1 does not support the innovative approach advocated by the plaintiff. 
 
-29     The defendant argues that party autonomy is fundamental in arbitration. As Judith Prakash J said in Bovis Lend Lease Pte Ltd v Jay-Tech Marine & Projects Pte Ltd and Anor [2005] SGHC 91 at [18]: 
+29     The defendant argues that party autonomy is fundamental in arbitration. As Judith Prakash J said in Bovis Lend Lease Pte Ltd v Jay-Tech Marine & Projects Pte Ltd and Anor <span class="citation">[2005] SGHC 91</span> at [18]: 
 
- One of the most important principles in arbitration law is that of party autonomy. This is not only reflected in s 23 of the Act but has also been recognised by this court in Jurong Engineering Ltd v Black & Veatch Singapore Pte Ltd [2004] 1 SLR 333. Party autonomy means that the parties are free to decide how their arbitral tribunal is to be constituted and how the arbitration proper is to be conducted. In this case Bovis and Jay-Tech Marine were free to select and agree to the role to be played by the SIAC – whether as appointing authority, account holder, administrator or rule provider. ... 
+ One of the most important principles in arbitration law is that of party autonomy. This is not only reflected in s 23 of the Act but has also been recognised by this court in Jurong Engineering Ltd v Black & Veatch Singapore Pte Ltd <span class="citation">[2004] 1 SLR 333</span>. Party autonomy means that the parties are free to decide how their arbitral tribunal is to be constituted and how the arbitration proper is to be conducted. In this case Bovis and Jay-Tech Marine were free to select and agree to the role to be played by the SIAC – whether as appointing authority, account holder, administrator or rule provider. ... 
 
 30     The general principle that institutional rules only apply subject to the terms of the parties’ arbitration agreement also militates against any suggestion that Rule 5.1 was intended to override the express choice of a single arbitrator. An institutional rule that is inconsistent with the parties’ agreement will not be enforced (see _PT Tugu Pratama Indonesia_ at [20] above). 
 
@@ -214,7 +214,7 @@ The sixth draft of 30 April 2007 has Rule 5.1 appearing in its present form (see
 37     It is conceded by the defendant that “[o]n the face of Rule 5.1 of the2007 SIAC Rules, the interpretations advanced by [the plaintiff] and [the defendant] are both possible literal interpretations”. Rule 5.1 is not subsidiary legislation which would be interpreted purposively pursuant to s 9A of the Interpretation Act (Cap 1, Rev Ed 2002). However, it has been incorporated into the parties’ contract and commercial contracts such as the one in this case would be interpreted using a purposive approach (see, for example, the Court of Appeal’s decision in _Panwah Steel Pte Ltd v Koh_ 
 
 
-_Brothers Building & Civil Engineering Contractor Pte Ltd_ [2006] 4 SLR 571 at [29] and [31]). As Rule 5.1 is also an institutional rule of the SIAC, interpreting Rule 5.1 using a purposive approach necessarily includes a consideration of how the Rule came into being, something akin to studying the legislative history of an Act of Parliament. 
+_Brothers Building & Civil Engineering Contractor Pte Ltd_ <span class="citation">[2006] 4 SLR 571</span> at [29] and [31]). As Rule 5.1 is also an institutional rule of the SIAC, interpreting Rule 5.1 using a purposive approach necessarily includes a consideration of how the Rule came into being, something akin to studying the legislative history of an Act of Parliament. 
 
 38     Rule 5.1 of the 2007 SIAC Rules has its genesis in Rule 6 of the 1997 SIAC Rules (see [18] above), which were the Rules in operation when Contract 822 was signed. The words “unless the parties have agreed otherwise” in Rule 6 of the 1997 SIAC Rules encapsulate the supremacy of party autonomy. This means that the said Rule 6 set out the default position of a sole arbitrator only where the parties had not agreed on the number of arbitrators. Where the number of arbitrators was specified by the parties, there was no occasion to resort to the said Rule 6 at all. 
 

@@ -39,7 +39,7 @@ _Land_
 
 3       This summons was filed on 22 December 2009. On 28 January 2010, Power Knight filed an originating summons, OS 111 of 2010 (“OS 111”), naming the Company and the Liquidators as defendants. By OS 111, Power Knight asked for orders that the caveats lodged over the Property by the Company and the Liquidators be removed. Granting of those orders would mean that the Liquidators would no longer have a basis on which to make the application herein. 
 
-4       As the issues to be determined in OS 111 and this summons were essentially the same, the two applications were fixed to be heard together. I heard both applications on 2 February 2010 and reserved judgment at the conclusion of the arguments. I have now decided that Power Knight’s application must be allowed. The reasons for my decision are contained in my judgment dated 10 March 2010 ([2010] SGHC 75). In view of that decision it follows that the Liquidators’ application herein must fail. Accordingly, I hereby dismiss the application. I will hear the parties on costs. 
+4       As the issues to be determined in OS 111 and this summons were essentially the same, the two applications were fixed to be heard together. I heard both applications on 2 February 2010 and reserved judgment at the conclusion of the arguments. I have now decided that Power Knight’s application must be allowed. The reasons for my decision are contained in my judgment dated 10 March 2010 (<span class="citation">[2010] SGHC 75</span>). In view of that decision it follows that the Liquidators’ application herein must fail. Accordingly, I hereby dismiss the application. I will hear the parties on costs. 
 
  Copyright © Government of Singapore. 
 

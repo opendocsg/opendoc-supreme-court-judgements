@@ -39,7 +39,7 @@ _Legal Profession_ – _Show cause action_ – _Advocate and solicitor convicted
 
 for the respondent to show cause why he should not be dealt with under s 83(1) of the LPA. 
 
-6       The respondent was not represented, nor was he present to make any submissions before us on this point. Nevertheless, by virtue of the fact that this court must accept his criminal convictions as final and conclusive: _Law Society of Singapore v Wong Sin Yee_ [2003] 3 SLR 209, there was little that could have been said in this respect. Given that the offence involved dishonesty committed in his capacity as advocate and solicitor, that, in itself, was sufficient for this court to determine that due cause had been shown under s 83(2)(a) of the LPA, which provides as follows: 
+6       The respondent was not represented, nor was he present to make any submissions before us on this point. Nevertheless, by virtue of the fact that this court must accept his criminal convictions as final and conclusive: _Law Society of Singapore v Wong Sin Yee_ <span class="citation">[2003] 3 SLR 209</span>, there was little that could have been said in this respect. Given that the offence involved dishonesty committed in his capacity as advocate and solicitor, that, in itself, was sufficient for this court to determine that due cause had been shown under s 83(2)(a) of the LPA, which provides as follows: 
 
  Such due cause may be show by proof that an advocate and solicitor has been convicted of a criminal offence, implying a defect of character which makes him unfit for his profession 
 
@@ -47,11 +47,11 @@ for the respondent to show cause why he should not be dealt with under s 83(1) o
 
 **Appropriate order to be made** 
 
-8       Where a solicitor has been convicted of a criminal offence involving fraud or dishonesty, the court has almost invariably, no matter how strong the mitigating factors, chosen to strike a solicitor off the roll: _Law Society of Singapore v Ravindra Samuel_ [1999] 1 SLR 696. 
+8       Where a solicitor has been convicted of a criminal offence involving fraud or dishonesty, the court has almost invariably, no matter how strong the mitigating factors, chosen to strike a solicitor off the roll: _Law Society of Singapore v Ravindra Samuel_ <span class="citation">[1999] 1 SLR 696</span>. 
 
 9       In this case, we saw no reason to depart from the norm. This appeared to us to be a typical case of a solicitor who could not be trusted to keep his paws out of the honey pot. This was just one of several cases last year involving solicitors in sole proprietorships who had misappropriated their clients’ moneys. Given the prevalence of such unconscionable behaviour, we found that tough action needed to be taken against these knaves, both to deter those who might seek to do the same, as well as to prevent the good name of the profession from being tarnished by these recalcitrant few. 
 
-10     The respondent was not present to make any submissions on mitigating factors. Regardless, we found that any mitigating factors, even if present, would have been of little avail. As the court in _Law Society of Singapore v Tham Yu Xian Rick_ [1999] 4 SLR 168 noted, where the case involves an offender of proven dishonesty, the weight to be attached to a plea in mitigation is negligible, and a striking off will be the consequence as a matter of course. 
+10     The respondent was not present to make any submissions on mitigating factors. Regardless, we found that any mitigating factors, even if present, would have been of little avail. As the court in _Law Society of Singapore v Tham Yu Xian Rick_ <span class="citation">[1999] 4 SLR 168</span> noted, where the case involves an offender of proven dishonesty, the weight to be attached to a plea in mitigation is negligible, and a striking off will be the consequence as a matter of course. 
 
 11     In the event, we granted the Law Society’s application, and ordered the respondent to be struck off the roll. We further ordered that he should bear the costs of these proceedings. 
 

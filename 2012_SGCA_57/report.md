@@ -16,7 +16,7 @@
 
 _Arbitration_ – _Award_ 
 
-[LawNet Editorial Note: The decision from which these appeals arose is reported at [2012] 2 SLR 1040 .] 
+[LawNet Editorial Note: The decision from which these appeals arose is reported at <span class="citation">[2012] 2 SLR 1040</span> .] 
 
 18 October 2012 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Arbitration_ – _Award_
 
 **Introduction** 
 
-1       There are two appeals before us arising out of the judgment of the High Court Judge (“the Judge”) in _Lim Chin San Contractors Pte Ltd v L W Infrastructure Pte Ltd_ [2012] 2 SLR 1040 (“the Judgment”). One appeal (Civil Appeal No. 26 of 2012 (“CA 26/2012”)) was filed by Lim Chin San Contractors Pte Ltd (“the Plaintiff”) while the other (Civil Appeal No. 17 of 2012 (“CA 17/2012”)) was filed by L W Infrastructure Pte Ltd (“the Defendant”). 
+1       There are two appeals before us arising out of the judgment of the High Court Judge (“the Judge”) in _Lim Chin San Contractors Pte Ltd v L W Infrastructure Pte Ltd_ <span class="citation">[2012] 2 SLR 1040</span> (“the Judgment”). One appeal (Civil Appeal No. 26 of 2012 (“CA 26/2012”)) was filed by Lim Chin San Contractors Pte Ltd (“the Plaintiff”) while the other (Civil Appeal No. 17 of 2012 (“CA 17/2012”)) was filed by L W Infrastructure Pte Ltd (“the Defendant”). 
 
 2       These appeals raise a number of important questions concerning the law of arbitration. Just what do the rules of natural justice require of an arbitrator? To what extent do these rules apply even to ancillary applications? And what is the threshold a party must cross if it is to obtain any relief even assuming it can show that an arbitrator has failed to observe the rules of natural justice? We are also presented with the occasion to consider the extent to which the Court retains any supervisory powers over arbitration beyond the expressly provided avenues for recourse that are spelt out in the relevant legislation. 
 
@@ -45,7 +45,7 @@ the proceedings.
 
 5       The Arbitrator rendered his final award (“the Final Award”) on 29 June 2010. The Plaintiff was awarded the sum of $341,391.10 with simple interest at the rate of 5.33% per annum from the date 
 
-of the award. [note: 1] Both parties were dissatisfied with the Arbitrator’s decision and appealed against it on questions of law arising out of the Final Award. The High Court dismissed the Plaintiff’s appeal and substantially allowed the Defendant’s appeal and the Final Award was remitted to the Arbitrator for his reconsideration and final disposal (see _LW Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd_ [2011] 4 SLR 477). 
+of the award. [note: 1] Both parties were dissatisfied with the Arbitrator’s decision and appealed against it on questions of law arising out of the Final Award. The High Court dismissed the Plaintiff’s appeal and substantially allowed the Defendant’s appeal and the Final Award was remitted to the Arbitrator for his reconsideration and final disposal (see _LW Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd_ <span class="citation">[2011] 4 SLR 477</span>). 
 
 6       Following this, the Arbitrator rendered his Supplementary Award No 2 (Remitted Issues) on 21 September 2011 (“the Second Supplementary Award”), under which the Defendant was awarded the 
 
@@ -239,7 +239,7 @@ _raison d’être_ of art 5 of the Model Law is not to promote hostility towards
 
 38     In our view, having regard to the need for a broadly consistent approach to the interpretation of the Act and the Model Law, s 47 of the Act should be construed in a manner that is consistent with the intent underlying art 5 of the Model Law. Section 47 of the Act states that the Court shall not have jurisdiction to interfere with an arbitral award except where so provided in the Act. The certainty which is sought to be achieved by this provision would be significantly undermined if the courts retained a concurrent “supervisory jurisdiction” over arbitral proceedings or awards that could be exercised by the grant of declaratory orders not expressly provided for in the Act. 
 
-39     In short, in situations expressly regulated by the Act, the courts should only intervene where so provided in the Act (see Aron Broches, _Commentary on the UNCITRAL Model Law on International Commercial Arbitration_ (Kluwer Law and Taxation Publishers, 1990) at p 32; see also _Mitsui Engineering & Shipbuilding Co Ltd v Easton Graham Rush and another_ [2004] 2 SLR(R) 14 at [23]). 
+39     In short, in situations expressly regulated by the Act, the courts should only intervene where so provided in the Act (see Aron Broches, _Commentary on the UNCITRAL Model Law on International Commercial Arbitration_ (Kluwer Law and Taxation Publishers, 1990) at p 32; see also _Mitsui Engineering & Shipbuilding Co Ltd v Easton Graham Rush and another_ <span class="citation">[2004] 2 SLR(R) 14</span> at [23]). 
 
 **_The Plaintiff’s complaint is a matter governed by the Act_** 
 
@@ -264,7 +264,7 @@ The procedure that has been agreed by the parties includes anything in the legis
 
 (or the lack thereof) of the Arbitrator are circumscribed by the Act aside from anything else that might have been specifically agreed between the parties. If the Arbitrator was wrong to render the Additional Award because s 43(4) of the Act did not in fact empower him to do so, the “arbitral procedure” leading to the issuance of the Additional Award would be contrary both to “the agreement of the parties” and also “the provisions of this Act”. In the course of the oral submissions, counsel for the Plaintiff accepted that he could perhaps have relied on s 48(1)( _a_ )(v) of the Act to set aside the Additional Award. This is also the position reflected in the case law. 
 
-41     In _Denmark Skibstekniske Konsulenter A/S I Likvidation (formerly known as Knud E Hansen A/S) v Ultrapolis 3000 Investments Ltd (formerly known as Ultrapolis 3000 Theme Park Investments Ltd)_ [2010] 3 SLR 661 (“ _Denmark Skibstekniske_ ”), the defendant attempted to resist enforcement of a “corrected award” on the basis that the tribunal was _functus officio_ when the corrected award was issued. The defendant relied on s 31(2)( _e_ ) of the IAA, which is _in pari materia_ with s 48(1)( _a_ )(v) of the Act. Although the High Court eventually found that the tribunal was not _functus officio_ when it issued the corrected award (see _Denmark Skibstekniske_ at [52]), it does not seem to have been doubted that had the defendant made out its assertion that the tribunal was _functus officio_ , s 31(2) ( _e_ ) of the IAA (and by analogy, s 48(1)( _a_ )(v) of the Act) would indeed have afforded the defendant an appropriate avenue for seeking recourse. 
+41     In _Denmark Skibstekniske Konsulenter A/S I Likvidation (formerly known as Knud E Hansen A/S) v Ultrapolis 3000 Investments Ltd (formerly known as Ultrapolis 3000 Theme Park Investments Ltd)_ <span class="citation">[2010] 3 SLR 661</span> (“ _Denmark Skibstekniske_ ”), the defendant attempted to resist enforcement of a “corrected award” on the basis that the tribunal was _functus officio_ when the corrected award was issued. The defendant relied on s 31(2)( _e_ ) of the IAA, which is _in pari materia_ with s 48(1)( _a_ )(v) of the Act. Although the High Court eventually found that the tribunal was not _functus officio_ when it issued the corrected award (see _Denmark Skibstekniske_ at [52]), it does not seem to have been doubted that had the defendant made out its assertion that the tribunal was _functus officio_ , s 31(2) ( _e_ ) of the IAA (and by analogy, s 48(1)( _a_ )(v) of the Act) would indeed have afforded the defendant an appropriate avenue for seeking recourse. 
 
 42     It follows from the fact that the Act does make provision for seeking relief in such circumstances, that there is simply no basis for finding that there is any residual or concurrent jurisdiction for the Court to make a declaration as to the validity of the Additional Award. We are strengthened in this view by the legislative removal of what had previously existed as O 69 r 2(3) of the ROC. This provision had expressly provided for a court to declare that an award was not binding. The removal of this provision was explained in the report of the Law Reform and Revision Division of the Attorney-General’s Chambers entitled _Review of rules of court relating to arbitration_ (23 January 2002) at para 1.2: 
 
@@ -274,7 +274,7 @@ The procedure that has been agreed by the parties includes anything in the legis
 
  Under the old RC O 69 r 2(3), a party could, in addition to the statutory power to appeal and set aside the award, apply to court to declare that an award was not binding. Such an application which was not an appeal and not subject to the same tests and time limits for appeals, could only be justified on the inherent jurisdiction of the court. The Arbitration Act s 47 now removes this avenue. Henceforth, aggrieved parties may only seek recourse against an award on the bases set out under the Act viz to set aside for procedural irregularities or appeal on a question of law ... The new RC O 69 ... no longer contains any procedural rule to allow for such a declaration. 
 
-44     Finally, the Plaintiff has referred to the decision of this Court in _PT Asuransi Jasa Indonesia (Persero) v Dexia Bank SA_ [2007] 1 SLR(R) 597 (“ _PT Asuransi_ ”) in support of its contention that there may well be occasion for the Court to find that something which purports to be an award is in fact and in substance not an award at all. As true as this may be, it simply does not assist the Plaintiff. The crux of this Court’s holding in _PT Asuransi_ was that the alleged award in that case was not an award at all because it did not even purport to dispose of any substantive issue on the merits. Given this, there was simply no basis for seeking to set it aside as an award. The setting aside jurisdiction 
+44     Finally, the Plaintiff has referred to the decision of this Court in _PT Asuransi Jasa Indonesia (Persero) v Dexia Bank SA_ <span class="citation">[2007] 1 SLR(R) 597</span> (“ _PT Asuransi_ ”) in support of its contention that there may well be occasion for the Court to find that something which purports to be an award is in fact and in substance not an award at all. As true as this may be, it simply does not assist the Plaintiff. The crux of this Court’s holding in _PT Asuransi_ was that the alleged award in that case was not an award at all because it did not even purport to dispose of any substantive issue on the merits. Given this, there was simply no basis for seeking to set it aside as an award. The setting aside jurisdiction 
 
 
 of the Court can only be invoked against something that purports to be an award in fact and in substance, even if it ultimately turns out to be an invalid award. Such was the case here. The Additional Award had clearly dealt with a substantive issue on the merits ( _ie_ , whether pre-award interest should be awarded). The Plaintiff’s real complaint was that this was an _invalid_ award because it had been issued without any basis. In the circumstances, _PT Asuransi_ offers no assistance. 
@@ -299,7 +299,7 @@ of the Court can only be invoked against something that purports to be an award 
 
  ... 
 
-48     In _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ [2007] 3 SLR(R) 86 (“ _Soh Beng Tee_ ”), this Court held (at [29]) that a party challenging an arbitration award as having contravened the rules of natural justice has to establish the following: 
+48     In _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ <span class="citation">[2007] 3 SLR(R) 86</span> (“ _Soh Beng Tee_ ”), this Court held (at [29]) that a party challenging an arbitration award as having contravened the rules of natural justice has to establish the following: 
 
  (a) which rule of natural justice was breached; 
 

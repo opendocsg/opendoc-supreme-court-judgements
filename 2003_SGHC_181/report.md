@@ -644,7 +644,7 @@ The availability of the facilities offered herein is subject to your provision o
 
 ## (1935) 53 CLR 643: Bangkok Bank Ltd Cheng Lip Kwong [1989] SLR 1154; and Oversea-Chinese 
 
-## Banking Corporation Ltd v The Timekeeper Singapore Pte Ltd & Ors [1997] 2 SLR 526 at 542-I 
+## Banking Corporation Ltd v The Timekeeper Singapore Pte Ltd & Ors <span class="citation">[1997] 2 SLR 526</span> at 542-I 
 
 ## and 543-A). 
 

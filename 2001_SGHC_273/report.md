@@ -78,7 +78,7 @@ RHB was also ordered to pay the costs of Sri Jaya.
 7\. RHBs claim that they were entitled to compound interest under the 1991 judgment was based on the fact that the mortgage documents pursuant to which the loans were extended to Sri Jaya stipulated compound interest. Relying on the case of _Diversey (Far East) Pte Ltd v Chai Chung Ching_ 
 
 
-_Chester & Ors_ [1993] 1 SLR 535, Mr Tan Bar Tien (acting for RHB) submitted that the court, in construing the meaning to be given to the words in a judgment, can look into the documents underlying the judgment. He also submitted that it was normal practice for bankers to charge compound interest and the courts should give effect to this practice. 
+_Chester & Ors_ <span class="citation">[1993] 1 SLR 535</span>, Mr Tan Bar Tien (acting for RHB) submitted that the court, in construing the meaning to be given to the words in a judgment, can look into the documents underlying the judgment. He also submitted that it was normal practice for bankers to charge compound interest and the courts should give effect to this practice. 
 
 8\. Mr Denis Tan (who appeared for Sri Jaya) submitted that if RHB had wanted Sri Jaya to pay the contractual interest stipulated in the mortgage document, RHB should have, in its pleadings, specifically asked for that contractual interest. He pointed out that in this case not only had RHB failed to raise the claim for compound interest in its pleadings, it had also obtained a consent judgment that did not contain that stipulation. Mr Denis Tan submitted that as the 1991 judgment did not mandate compound interest, only simple interest was payable. 
 

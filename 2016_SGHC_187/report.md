@@ -639,13 +639,13 @@ physical fracas that would have caused upturned tables and overturned chairs. [n
 
 **_Summary of findings_** 
 
-78     Both the Prosecution and the Accused refer me to the Court of Appeal’s decision in _AOF v Public Prosecutor_ [2012] 3 SLR 34 (“ _AOF_ ”), in which Andrew Phang JA summarised the principles to be applied in determining whether a witness is “unusually convincing”. It suffices for me to set out the key principles: 
+78     Both the Prosecution and the Accused refer me to the Court of Appeal’s decision in _AOF v Public Prosecutor_ <span class="citation">[2012] 3 SLR 34</span> (“ _AOF_ ”), in which Andrew Phang JA summarised the principles to be applied in determining whether a witness is “unusually convincing”. It suffices for me to set out the key principles: 
 
  (a) In a case where no other evidence is available, a complainant’s testimony can constitute proof beyond reasonable doubt, but only when it is so “unusually convincing” as to overcome any doubts that might arise from the lack of corroboration: AOF at [111]. 
 
  (b) But an “unusually convincing” testimony does not overcome even materially and/or inherently contradictory evidence to prove guilt beyond a reasonable doubt: AOF at [114(d)]. 
 
- (c) A witness’s testimony may only be found to be “unusually convincing” by weighing the demeanour of the witness alongside both the internal and external consistencies found in the witness’s testimony. But a witness’s demeanour is not invariably determinative. If the witness fails to recall or satisfactorily explain material facts and assertions, his credible demeanour cannot overcome such deficiencies: AOF at [115]; XP v PP [2008] 4 SLR(R) 686 (“ XP ”) at [72]–[73]. 
+ (c) A witness’s testimony may only be found to be “unusually convincing” by weighing the demeanour of the witness alongside both the internal and external consistencies found in the witness’s testimony. But a witness’s demeanour is not invariably determinative. If the witness fails to recall or satisfactorily explain material facts and assertions, his credible demeanour cannot overcome such deficiencies: AOF at [115]; XP v PP <span class="citation">[2008] 4 SLR(R) 686</span> (“ XP ”) at [72]–[73]. 
 
  (d) Where the evidence of a complainant is not “unusually convincing”, an accused’s conviction is unsafe unless there is some corroboration of the complainant’s story. What is important is the substance as well as the relevance of the corroborative evidence, and whether it is supportive or confirmative of the weak evidence which it is meant to corroborate: AOF at [173] and [177]. 
 

@@ -18,7 +18,7 @@ _Civil Procedure_
 
 _Companies_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2011] SGHC 143.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2011] SGHC 143</span>.] 
 
 21 November 2011 
 
@@ -26,7 +26,7 @@ _Companies_
 
 **Introduction** 
 
-1       These were two appeals against the decision of the High Court judge (“the Judge”) in _Hiap Seng & Co Pte Ltd v Lau Chin Hu and others_ [2011] SGHC 143 (“the GD”). The respondent in both appeals was Hiap Seng & Co Pte Ltd (“the Company”). The appellant in Civil Appeal No 223 of 2010 was Lew Kiat Beng (“LKB”), and the appellants in Civil Appeal No 225 of 2010 were Lau Chin Hu (“LCH”) and Law Chin Chai (“LCC”). All three appellants are collectively referred to as “the Appellants” in these grounds of decision. 
+1       These were two appeals against the decision of the High Court judge (“the Judge”) in _Hiap Seng & Co Pte Ltd v Lau Chin Hu and others_ <span class="citation">[2011] SGHC 143</span> (“the GD”). The respondent in both appeals was Hiap Seng & Co Pte Ltd (“the Company”). The appellant in Civil Appeal No 223 of 2010 was Lew Kiat Beng (“LKB”), and the appellants in Civil Appeal No 225 of 2010 were Lau Chin Hu (“LCH”) and Law Chin Chai (“LCC”). All three appellants are collectively referred to as “the Appellants” in these grounds of decision. 
 
 2       The Appellants were shareholders and directors of the Company and were also the defendants in Suit No 133 of 2010 (“the Derivative Action”), which was a derivative action brought pursuant to leave granted under s 216A of the Companies Act (Cap 50, 2006 Rev Ed) (“CA”). These appeals arose from an interlocutory application made by the Company in the Derivative Action. 
 
@@ -37,7 +37,7 @@ _Companies_
 4       On 30 September 2009, LCE & LCW were granted leave to commence a derivative action against the Appellants for some alleged breaches of fiduciary duties. LCE & LCW were authorised to 
 
 
-control the conduct of the action and any execution proceedings thereafter (see _Law Chin Eng and Another v Hiap Seng & Co Pte Ltd (Lau Chin Hu and others, applicants)_ [2009] SGHC 223 at [42]). An appeal against the order granting leave was dismissed. Subsequently, LCE & LCW commenced the Derivative Action by filing a Writ of Summons and Statement of Claim on behalf of the Company. 
+control the conduct of the action and any execution proceedings thereafter (see _Law Chin Eng and Another v Hiap Seng & Co Pte Ltd (Lau Chin Hu and others, applicants)_ <span class="citation">[2009] SGHC 223</span> at [42]). An appeal against the order granting leave was dismissed. Subsequently, LCE & LCW commenced the Derivative Action by filing a Writ of Summons and Statement of Claim on behalf of the Company. 
 
 **_Events leading to the making of the Judge’s order on discovery_** 
 

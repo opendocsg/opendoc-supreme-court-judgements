@@ -195,7 +195,7 @@ Given that the plaintiffs’ complaints concern the practical impossibility of e
 29     A well-drafted arbitration clause typically provides for the place of the arbitration, the number of arbitrators and the method for establishing the arbitral tribunal (see, _eg_ , the SIAC Model Clause on the SIAC website or the UNCITRAL Model Clause set out in the UNCITRAL Arbitration Rules). Having said that, an arbitration clause which fails to provide for such details is not void or invalid. The 
 
 
-definition of “arbitration agreement” in s 4(1) of the AA and s 2A(1) of the IAA merely requires it to be “an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not”. Therefore, a bare arbitration clause which merely provides for submission of disputes to arbitration without specifying the place of the arbitration, the number of arbitrators or the method for establishing the arbitral tribunal remains a valid and binding arbitration agreement if the parties have evinced a clear intention to settle any dispute by arbitration. As the Court of Appeal stated in _Insigma Technology Co Ltd v Alstom Technology Ltd_ [2009] 3 SLR(R) 936 (“ _Insigma_ ”) at [31]: 
+definition of “arbitration agreement” in s 4(1) of the AA and s 2A(1) of the IAA merely requires it to be “an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not”. Therefore, a bare arbitration clause which merely provides for submission of disputes to arbitration without specifying the place of the arbitration, the number of arbitrators or the method for establishing the arbitral tribunal remains a valid and binding arbitration agreement if the parties have evinced a clear intention to settle any dispute by arbitration. As the Court of Appeal stated in _Insigma Technology Co Ltd v Alstom Technology Ltd_ <span class="citation">[2009] 3 SLR(R) 936</span> (“ _Insigma_ ”) at [31]: 
 
  ... where the parties have evinced a clear intention to settle any dispute by arbitration, the court should give effect to such intention, even if certain aspects of the agreement may be ambiguous, inconsistent, incomplete or lacking in certain particulars (see Halsbury’s Laws of Singapore , vol 2 (LexisNexis, 2003 Reissue, 2003) at para 20.017) so long as the arbitration can be carried out without prejudice to the rights of either party and so long as giving effect to such intention does not result in an arbitration that is not within the contemplation of either party. 
 
@@ -282,7 +282,7 @@ Another example is Article 1505 of the French Code of Civil Procedure, which pro
 
 **The standard of review for stay of proceedings in favour of arbitration** 
 
-41     In _Tomolugen Holdings Ltd v Silica Investors Ltd_ [2016] 1 SLR 373, the Court of Appeal held at [63]-[64] that: 
+41     In _Tomolugen Holdings Ltd v Silica Investors Ltd_ <span class="citation">[2016] 1 SLR 373</span>, the Court of Appeal held at [63]-[64] that: 
 
  63 ... We agree that a Singapore court should adopt a prima facie standard of review when hearing a stay application under s 6 of the IAA. In our judgment, a court hearing such a stay application should grant a stay in favour of arbitration if the applicant is able to establish a prima facie case that: 
 
@@ -368,7 +368,7 @@ There are three possible ways of construing the phrase “as per Indian Contract
 
  (a) If the phrase “as per Singapore Contract Rules” is construed as subjecting the arbitration to Singapore arbitration law, the SIAC President will have jurisdiction to make appointments under Art 11(3) of the Model Law because Singapore arbitration law applies; 
 
- (b) If the phrase “as per Singapore Contract Rules” is read as subjecting the purchase contract to Singapore contract law, this should be regarded as an implied choice of Singapore law as the law applicable to the arbitration (see Piallo GmbH v Yafriro International Pte Ltd [2014] 1 SLR 1028 at [20], Cassa di Risparmio di Parma e Piacenza SpA v Rals International Pte Ltd [2016] 1 SLR 79 at [76] and BCY v BCZ [2016] SGHC 249 at [65]). The same result as in (a) above should therefore obtain; and 
+ (b) If the phrase “as per Singapore Contract Rules” is read as subjecting the purchase contract to Singapore contract law, this should be regarded as an implied choice of Singapore law as the law applicable to the arbitration (see Piallo GmbH v Yafriro International Pte Ltd <span class="citation">[2014] 1 SLR 1028</span> at [20], Cassa di Risparmio di Parma e Piacenza SpA v Rals International Pte Ltd <span class="citation">[2016] 1 SLR 79</span> at [76] and BCY v BCZ <span class="citation">[2016] SGHC 249</span> at [65]). The same result as in (a) above should therefore obtain; and 
 
  (c) If the phrase “as per Singapore Contract Rules” is disregarded, there still appears to be sufficient material for the SIAC President to form a prima facie view that the law applicable to the arbitration is Singapore law. Asian Mineral is incorporated in Singapore and any award against it would, one presumes, be likely to be enforced in Singapore. 
 
@@ -519,7 +519,7 @@ declines to appoint the arbitrators for whatever reason, the court retains a res
 
 **_Terms and conditions of the stay_** 
 
-78     The next question I need to consider is whether the stay should be subject to any terms and conditions. The statutory basis for imposing terms and conditions is s 6(2) of the IAA, which provides that a stay of proceedings is to be ordered by the court “upon such terms or conditions as it may think fit”. As noted in _The “Duden”_ [2008] 4 SLR(R) 984 at [12]-[16]: 
+78     The next question I need to consider is whether the stay should be subject to any terms and conditions. The statutory basis for imposing terms and conditions is s 6(2) of the IAA, which provides that a stay of proceedings is to be ordered by the court “upon such terms or conditions as it may think fit”. As noted in _The “Duden”_ <span class="citation">[2008] 4 SLR(R) 984</span> at [12]-[16]: 
 
  (a) There are no statutory limits to the types of terms or conditions which the court may impose on a stay of proceedings under the IAA. 
 

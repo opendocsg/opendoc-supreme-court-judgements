@@ -16,7 +16,7 @@
 
 _Civil Procedure_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2013] SGHC 78.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2013] SGHC 78</span>.] 
 
 25 April 2013 
 
@@ -53,7 +53,7 @@ _Civil Procedure_
 
 **_The respondent’s contentions_** 
 
-10     Before turning to consider the arguments made by the respondent in SUM 71/2013, we should briefly explain the jurisdiction of this court to hear appeals on civil matters. As the Court of Appeal is a creature of statute, it is only seised of the jurisdiction conferred upon it by the statute which creates it: _Blenwel Agencies Pte Ltd v Tan Lee King_ [2008] 2 SLR(R) 529 at [23]. In this regard, s 29A(1) of the SCJA provides: 
+10     Before turning to consider the arguments made by the respondent in SUM 71/2013, we should briefly explain the jurisdiction of this court to hear appeals on civil matters. As the Court of Appeal is a creature of statute, it is only seised of the jurisdiction conferred upon it by the statute which creates it: _Blenwel Agencies Pte Ltd v Tan Lee King_ <span class="citation">[2008] 2 SLR(R) 529</span> at [23]. In this regard, s 29A(1) of the SCJA provides: 
 
  29A. —(1) The civil jurisdiction of the Court of Appeal shall consist of appeals from any judgement or order of the High Court in any civil cause or matter whether made in the exercise of its original or of its appellate jurisdiction, subject nevertheless to the provisions of this Act or any other written law regulating the terms and conditions upon which such appeal may be brought. 
 
@@ -86,7 +86,7 @@ _Civil Procedure_
 
 **_Statutory Interpretation in Singapore_** 
 
-16     We first consider the respondent’s contentions as to the principles to be applied in the interpretation of the relevant statutory provisions. To the extent that the respondent’s contentions are rooted in the “plain meaning rule” of statutory interpretation at common law, we disagree with them. In Singapore, any discussion on statutory interpretation must take place against the backdrop of s 9A of the Interpretation Act (Cap 1, 2002 Rev Ed) (“the Interpretation Act”): see _Constitutional Reference No 1 of 1995_ [1995] 1 SLR(R) 803 (“ _Constitutional Reference No 1 of 1995_ ”) at [44]; _Planmarine AG v Maritime and Port Authority of Singapore_ [1999] 1 SLR(R) 669 (“ _Planmarine AG_ ”) at [22]; _Public Prosecutor v Low Kok Heng_ [2007] 4 SLR(R) 183 (“ _Low Kok Heng_ ”) at [39]. 
+16     We first consider the respondent’s contentions as to the principles to be applied in the interpretation of the relevant statutory provisions. To the extent that the respondent’s contentions are rooted in the “plain meaning rule” of statutory interpretation at common law, we disagree with them. In Singapore, any discussion on statutory interpretation must take place against the backdrop of s 9A of the Interpretation Act (Cap 1, 2002 Rev Ed) (“the Interpretation Act”): see _Constitutional Reference No 1 of 1995_ <span class="citation">[1995] 1 SLR(R) 803</span> (“ _Constitutional Reference No 1 of 1995_ ”) at [44]; _Planmarine AG v Maritime and Port Authority of Singapore_ <span class="citation">[1999] 1 SLR(R) 669</span> (“ _Planmarine AG_ ”) at [22]; _Public Prosecutor v Low Kok Heng_ <span class="citation">[2007] 4 SLR(R) 183</span> (“ _Low Kok Heng_ ”) at [39]. 
 
 17     Section 9A of the Interpretation Act provides as follows: 
 
@@ -151,7 +151,7 @@ _The position prior to the 2010 amendments_
 
 expressly provided for particular interlocutory orders to be non-appealable or appealable only with leave. 
 
-27     There were essentially three problems with that statutory scheme. First, there was some uncertainty as to the meaning of “interlocutory order” under s 34(1)( _c_ ) of the old SCJA, such as would attract the requirement that an application be brought within seven days of the order for leave to present further arguments if a party were to preserve its rights of appeal. In _Wellmix Organics (International) Pte Ltd v Lau Yu Man_ [2006] 2 SLR(R) 525 (“ _Wellmix Organics_ ”) at [10], this court observed that the question whether a given order is in fact interlocutory or final had troubled the courts in Singapore for some time. Historically, two tests had been propounded at common law to determine this. The first was the “application” test enunciated in _Salaman v Warner_ [1891] 1 QB 734 at 736 where Fry LJ said: 
+27     There were essentially three problems with that statutory scheme. First, there was some uncertainty as to the meaning of “interlocutory order” under s 34(1)( _c_ ) of the old SCJA, such as would attract the requirement that an application be brought within seven days of the order for leave to present further arguments if a party were to preserve its rights of appeal. In _Wellmix Organics (International) Pte Ltd v Lau Yu Man_ <span class="citation">[2006] 2 SLR(R) 525</span> (“ _Wellmix Organics_ ”) at [10], this court observed that the question whether a given order is in fact interlocutory or final had troubled the courts in Singapore for some time. Historically, two tests had been propounded at common law to determine this. The first was the “application” test enunciated in _Salaman v Warner_ [1891] 1 QB 734 at 736 where Fry LJ said: 
 
  [A]n order is final only where it is made upon an application or other proceeding which must, whether such application or proceeding fail or succeed, determine the action. Conversely ... an order is “interlocutory” where it cannot be affirmed that in either event the action will be determined. 
 
@@ -161,7 +161,7 @@ expressly provided for particular interlocutory orders to be non-appealable or a
 
 29     In _Wellmix Organics_ (at [14]), this court settled the position in favour of the _Bozson_ test. While the concept of an “interlocutory order” was relatively well understood in light of our decision in _Wellmix Organics_ , its precise meaning was left to be developed incrementally by the common law. 
 
-30     The second problem with the legislative scheme prior to the 2010 amendments concerned the requirement that the judge certify, pursuant to s 34(1)( _c_ ) of the old SCJA, that no further arguments were required. The rationale for this requirement was explained by this court in _Singapore Press Holdings Ltd v Brown Noel Trading Pte Ltd and others_ [1994] 3 SLR(R) 114 at [40] in the following terms: 
+30     The second problem with the legislative scheme prior to the 2010 amendments concerned the requirement that the judge certify, pursuant to s 34(1)( _c_ ) of the old SCJA, that no further arguments were required. The rationale for this requirement was explained by this court in _Singapore Press Holdings Ltd v Brown Noel Trading Pte Ltd and others_ <span class="citation">[1994] 3 SLR(R) 114</span> at [40] in the following terms: 
 
  40 The intent and purpose of s 34(1)( c ) of the re-enacted Supreme Court of Judicature Act... is to us abundantly clear and free from doubt. It is to prescribe a procedure for appeals in interlocutory matters heard by a judge in chambers being brought to this court, which may have arisen from full arguments not being presented to the judge in chambers due to the shortness of time available for the hearing of such applications or due to the judge in chambers having to decide on an issue without the time available to him for mature consideration. ... 
 
@@ -304,7 +304,7 @@ _The 2010 amendments_
 
 50     Against that background, we turn to the construction of paragraph (i) of the Fourth Schedule to the SCJA. The issue before us was whether, on a purposive interpretation of the statutory provision, an order made under O 26A r 1 of the Rules of Court, is an “order giving or refusing interrogatories” under paragraph (i) of the Fourth Schedule to the SCJA. In our judgment, this issue turns on the anterior question of whether an application to administer pre-action interrogatories pursuant to O 26A r 1 of the Rules of Court is an “interlocutory application” for the purposes of the SCJA. 
 
-51     In _OpenNet Pte Ltd v Info-Communications Development Authority of Singapore_ [2013] SGCA 24 (“ _OpenNet_ ”) at [21], this court observed that: 
+51     In _OpenNet Pte Ltd v Info-Communications Development Authority of Singapore_ <span class="citation">[2013] SGCA 24</span> (“ _OpenNet_ ”) at [21], this court observed that: 
 
  21 ...[T]he amendments brought about by Act 30 of 2010 introduced a new category-approach regime based on the type of interlocutory application and the eventual order made thereon. The question as to which of the three categories an order made in an interlocutory application would fall is critical... As the Minister had explained in Parliament, the Fourth and Fifth Schedules of SCJA were concerned with interlocutory applications. 
 
@@ -344,7 +344,7 @@ _of English Law_ (Sweet & Maxwell, 3rd Ed, 2010), an application is interlocutor
 60     On this basis, it would be wrong to treat an application to administer pre-action interrogatories under O 26A r 1 of the Rules of Court as an interlocutory application. As a matter of principle, an application to administer pre-action interrogatories is not an application made _between_ the time a party files a civil case in court and when that case is finally heard for disposal. Rather, it is an application made by way of originating summons and its only end is the particular relief sought in the originating summons. Once the application for such relief has been considered and ruled upon by the court, that matter ends and those proceedings are not followed by any other steps leading to any trial or further disposal of that matter. 
 
 
-61     The decision of this court in _Maldives Airport Co Ltd and another v GMR Malé International Airport Pte Ltd_ [2013] SGCA 16 (“ _Maldives Airport Co Ltd_ ”) is directly on point and supports the proposition that an application to administer pre-action interrogatories is not an interlocutory application. There, the respondent applied by way of originating summons for an interim injunction under s 12 of the International Arbitration Act (Cap 143A, 2002 Rev Ed). The purpose of the injunction was to restrain the appellants from interfering with the respondent’s performance of its obligations under a concession agreement, pending arbitration of the substantive dispute between the parties. The judge granted the injunction and the appellant appealed to the Court of Appeal. 
+61     The decision of this court in _Maldives Airport Co Ltd and another v GMR Malé International Airport Pte Ltd_ <span class="citation">[2013] SGCA 16</span> (“ _Maldives Airport Co Ltd_ ”) is directly on point and supports the proposition that an application to administer pre-action interrogatories is not an interlocutory application. There, the respondent applied by way of originating summons for an interim injunction under s 12 of the International Arbitration Act (Cap 143A, 2002 Rev Ed). The purpose of the injunction was to restrain the appellants from interfering with the respondent’s performance of its obligations under a concession agreement, pending arbitration of the substantive dispute between the parties. The judge granted the injunction and the appellant appealed to the Court of Appeal. 
 
 62     Before this court, the respondent raised the preliminary objection that the decision of the judge to grant the injunction was an order made at the hearing of an interlocutory application, such that leave to appeal was required pursuant to s 34(2)( _d_ ) of the SCJA, read with paragraph (e) of the Fifth Schedule to the SCJA. As leave had not been obtained, the respondent argued that this court did not have jurisdiction to hear the appeal. In rejecting the respondent’s jurisdictional challenge as being without merit, we held (at [15]): 
 

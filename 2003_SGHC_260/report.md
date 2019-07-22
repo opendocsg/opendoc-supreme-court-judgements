@@ -78,7 +78,7 @@ decision to develop Lot 1011T for a road was made on 27 January 1972.
 
  c. any approved road, backlane or drainage lines reserves or proposals shall be considered unsatisfactory if such lines reserves or proposals affect the building line of the Property regardless of whether the same is adopted or safeguarded or is to be implemented before or after the completion dated PROVIDED that if such lines reserves or proposals will be implemented only if there is re-development of the Property, then the reply shall not be considered unsatisfactory; ...” 
 
-23     It was clear to me that the Road Line Plan issued by LTA was a reply to a requisition within the meaning of clause 14. Both _Peh Kwee Yong v Sinar Co (Pte) Ltd_ [1987] 2 MLJ 533 and _Ang Kok Kuan v Ang Boh Seng_ [1993] 3 SLR 669 ruled that the road interpretation plan issued by the PWD (the predecessor department of LTA) in response to a purchaser’s application constituted an answer to a 
+23     It was clear to me that the Road Line Plan issued by LTA was a reply to a requisition within the meaning of clause 14. Both _Peh Kwee Yong v Sinar Co (Pte) Ltd_ [1987] 2 MLJ 533 and _Ang Kok Kuan v Ang Boh Seng_ <span class="citation">[1993] 3 SLR 669</span> ruled that the road interpretation plan issued by the PWD (the predecessor department of LTA) in response to a purchaser’s application constituted an answer to a 
 
 
 requisition. 

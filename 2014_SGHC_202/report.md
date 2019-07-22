@@ -179,17 +179,17 @@ if the $762,000 was an investment, Mr Tan’s investment could be held by the de
 
 **_Is Ms Nie’s claim on moneys had and received sustainable?_** 
 
-27     Finally, I wish to comment on Ms Nie’s claim on the grounds of unjust enrichment. Ms Nie submits that her claim is one for monies had and received. She relies on _Tjong Very Sumito and others v Chan Sing En and others_ [2012] 3 SLR 953 at [81] for the elements of unjust enrichment. She submits that it is _unjust_ for the deceased’s estate to retain the sum claimed for. 
+27     Finally, I wish to comment on Ms Nie’s claim on the grounds of unjust enrichment. Ms Nie submits that her claim is one for monies had and received. She relies on _Tjong Very Sumito and others v Chan Sing En and others_ <span class="citation">[2012] 3 SLR 953</span> at [81] for the elements of unjust enrichment. She submits that it is _unjust_ for the deceased’s estate to retain the sum claimed for. 
 
-28     In _Alwie Handoyo v Tjong Very Sumito and another and another appeal_ [2013] 4 SLR 308 at [125], the Court of Appeal held that: 
+28     In _Alwie Handoyo v Tjong Very Sumito and another and another appeal_ <span class="citation">[2013] 4 SLR 308</span> at [125], the Court of Appeal held that: 
 
  ... Plaintiffs should be precise in elucidating the basis for their restitutionary claims. Identifying the precise underlying cause of action for a restitutionary claim has practical consequences in terms of affecting what the plaintiff needs to show in order to establish the claim. We agree with the comment by the editors of Goff & Jones (8th Ed) ([101] supra ) at para 1.29 that “[t]he old language of ‘money had and received’ ... conceals as much as it reveals about the nature of a claim”. In our view, the underlying basis for the action for money had and received is now embraced under the rubric of unjust enrichment : see Westdeutsche Landesbank Girozentrale v Islington London Borough Council [1996] AC 669 at 710. 
 
  [original emphasis in italics; emphasis added in bold] 
 
-29     Ms Nie’s bare assertion of an enrichment being unjust is insufficient if she seeks to establish her claim based on money had and received. The same point was noted by Judith Prakash J in _Lo Man Heng and another v UBS AG (Yap Loo Mien, third party)_ [2014] SGHC 134 at [82]: that an unjust enrichment claim must be premised on an “unjust factor”. Since Ms Nie has not shown that any such unjust factor exists, I hold that her claim based on moneys had and received can neither succeed nor form a basis for a caveatable interest. 
+29     Ms Nie’s bare assertion of an enrichment being unjust is insufficient if she seeks to establish her claim based on money had and received. The same point was noted by Judith Prakash J in _Lo Man Heng and another v UBS AG (Yap Loo Mien, third party)_ <span class="citation">[2014] SGHC 134</span> at [82]: that an unjust enrichment claim must be premised on an “unjust factor”. Since Ms Nie has not shown that any such unjust factor exists, I hold that her claim based on moneys had and received can neither succeed nor form a basis for a caveatable interest. 
 
-30     There are material differences in the facts of _Tan Beng Tian v Teoh Hock Kooi_ [2012] SGDC 268 which Ms Nie relied on to show that the court had ordered a refund of an investment sum. In that case, the defendant, who was the recipient of the money in question, had induced the plaintiff by stating that if the plaintiff remained unconvinced about the investment potential of a potential investment, the defendant would return the investment sum to the plaintiff. There was no evidence of such facts before me. 
+30     There are material differences in the facts of _Tan Beng Tian v Teoh Hock Kooi_ <span class="citation">[2012] SGDC 268</span> which Ms Nie relied on to show that the court had ordered a refund of an investment sum. In that case, the defendant, who was the recipient of the money in question, had induced the plaintiff by stating that if the plaintiff remained unconvinced about the investment potential of a potential investment, the defendant would return the investment sum to the plaintiff. There was no evidence of such facts before me. 
 
 **Is the sum claimed for an investment or loan?** 
 

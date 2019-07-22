@@ -176,9 +176,9 @@ In essence, William corroborated the defendant’s version of events and the cir
 
 36     The defendant’s submissions were essentially a rehash of the contents of his first affidavit. 
 
-37     On the law, his counsel relied on the seminal case of _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] 1 AC 460 (“The _Spiliada_ ”) as well as on local decisions that applied the two stage test propounded by the House of Lords in _The Spiliada_ to determine _forum non conveniens_. In particular, counsel for the defendant relied on _CIMB Bank Bhd v Dresdner Kleinwort Ltd_ [2008] 4 SLR(R) 543, _Orchard Capital v Ravindra Kumar Jhunjhunwala_ [2012] 2 SLR 519 (“ _Orchard Capital_ ”), _JIO Minerals FZC v Mineral Enterprises Ltd_ [2011] 1 SLR 391 (“ _JIO Minerals_ ”) and _Chan Chin Cheung v Chan Fatt Cheung_ [2010] 1 SLR 1192. 
+37     On the law, his counsel relied on the seminal case of _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] 1 AC 460 (“The _Spiliada_ ”) as well as on local decisions that applied the two stage test propounded by the House of Lords in _The Spiliada_ to determine _forum non conveniens_. In particular, counsel for the defendant relied on _CIMB Bank Bhd v Dresdner Kleinwort Ltd_ <span class="citation">[2008] 4 SLR(R) 543</span>, _Orchard Capital v Ravindra Kumar Jhunjhunwala_ <span class="citation">[2012] 2 SLR 519</span> (“ _Orchard Capital_ ”), _JIO Minerals FZC v Mineral Enterprises Ltd_ <span class="citation">[2011] 1 SLR 391</span> (“ _JIO Minerals_ ”) and _Chan Chin Cheung v Chan Fatt Cheung_ <span class="citation">[2010] 1 SLR 1192</span>. 
 
-38     On his part, counsel for the plaintiffs relied not only on _The Spiliada_ and the other cases cited by his opponent but also on _UBS AG v Telesto Investments Ltd_ [2011] 4 SLR 503 and _Rickshaw Investments Ltd v Nicholai Baron von Uexkull_ [2007] 1 SLR (R) 377 (“ _Rickshaw Investments Ltd_ ”). 
+38     On his part, counsel for the plaintiffs relied not only on _The Spiliada_ and the other cases cited by his opponent but also on _UBS AG v Telesto Investments Ltd_ <span class="citation">[2011] 4 SLR 503</span> and _Rickshaw Investments Ltd v Nicholai Baron von Uexkull_ [2007] 1 SLR (R) 377 (“ _Rickshaw Investments Ltd_ ”). 
 
 **The decision** 
 
@@ -222,7 +222,7 @@ plaintiff relied on as favouring Singapore as the forum. It states: [note: 10]
 
 unwillingness to testify in a Singapore court on the defendant’s behalf as the defendant claimed. 
 
-50     The plaintiffs had relied on _Exxon Mobil Asia Pacific Pte ltd v Bombay Dyeing & Manufacturing Co Ltd_ [2007] SGHC 137 for their argument that it was not enough for the defendant to merely depose on affidavit, without more, that William and his proposed witnesses would not cooperate if the trial was held in Singapore; there must be some proof. 
+50     The plaintiffs had relied on _Exxon Mobil Asia Pacific Pte ltd v Bombay Dyeing & Manufacturing Co Ltd_ <span class="citation">[2007] SGHC 137</span> for their argument that it was not enough for the defendant to merely depose on affidavit, without more, that William and his proposed witnesses would not cooperate if the trial was held in Singapore; there must be some proof. 
 
 51     The defendant on the other hand relied on _JIO Minerals_ to argue that the court should consider the legal compellability of William as a witness in Singapore and not his personal relationship with the defendant. It would be instructive to look at that case at this juncture. 
 
@@ -238,7 +238,7 @@ unwillingness to testify in a Singapore court on the defendant’s behalf as the
 
 54     The appellate court went on to add (at [70]): 
 
- As for the second consideration (ie Witness Compellability Factor) we note that this court in Chan Chin Cheung v Chan Fatt Cheung [2010] 1 SLR 1192 held (at [35]) that the availability of witnesses should not be a significant factor if the witnesses are from Malaysia because of the proximity of Singapore to Malaysia. This consideration applies with equal force to Indonesia which (as the Respondent has argued) is also relatively near to Singapore. 
+ As for the second consideration (ie Witness Compellability Factor) we note that this court in Chan Chin Cheung v Chan Fatt Cheung <span class="citation">[2010] 1 SLR 1192</span> held (at [35]) that the availability of witnesses should not be a significant factor if the witnesses are from Malaysia because of the proximity of Singapore to Malaysia. This consideration applies with equal force to Indonesia which (as the Respondent has argued) is also relatively near to Singapore. 
 
 55     The appellate court took the view that the fact that the Investment Funds were paid into Singapore bank accounts was not relevant in stage one of the _Spiliada_ test because those connections were not relevant to the claims the plaintiffs had framed. Similarly, the fact that the RM 4m for the loan was paid into the defendant’s Malaysian bank account is not a relevant consideration. 
 

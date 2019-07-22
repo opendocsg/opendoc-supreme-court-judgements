@@ -105,7 +105,7 @@ _The Law_
 
  [emphasis added] 
 
-16     It is instructive to refer to _Tjong Very Sumito and others v Antig Investments Pte Ltd_ [2009] 4 SLR(R) 732 (“ _Tjong Very Sumito_ ”), where the Court of Appeal discussed the operation of s 6 of the IAA at [22] as follows: 
+16     It is instructive to refer to _Tjong Very Sumito and others v Antig Investments Pte Ltd_ <span class="citation">[2009] 4 SLR(R) 732</span> (“ _Tjong Very Sumito_ ”), where the Court of Appeal discussed the operation of s 6 of the IAA at [22] as follows: 
 
  22 Section 6 of the IAA acknowledges the primacy of the specific arbitration agreement in question. In order to obtain a stay of proceedings in favour of arbitration under s 6, the party applying for a stay ("the applicant") must first show that he is party to an arbitration agreement, and that the proceedings instituted involve a "matter which is the subject of the [arbitration] agreement". In other words, the applicant has to show that the proceedings instituted fall within the terms of the arbitration agreement. If the applicant can show that there is an applicable arbitration agreement, then the court must grant a stay of proceedings unless the party resisting the stay can show that one of the statutory grounds for refusing a stay exists, ie , that the arbitration agreement is " null and void, inoperative or incapable of being performed ". 
 
@@ -177,7 +177,7 @@ the contract, as provided in the arbitration agreement.
 
 dated 5 th April 2012, in support of its stay application, at [21] that she was advised “... that under the Reciprocal Enforcement of Foreign Judgments Act [(Cap 265, 2001 Rev Ed)], other than by way of registration of the judgment, no proceedings for the recovery of a sum payable under a foreign judgment shall be entertained by the Singapore courts”. 
 
-27     The difficulty with this argument is that the plaintiff is not seeking to register the PRC judgment in Singapore. Instead, as noted above at [22] – [23], what the plaintiff is seeking to do is to claim a debt arising from the PRC judgment against the defendant in Singapore. That the plaintiff is able to do so was noted by Belinda Ang J in _Bellezza Club Japan Co Ltd v Matsumura Akihiko and others_ [2010] 3 SLR 342 at [10]: 
+27     The difficulty with this argument is that the plaintiff is not seeking to register the PRC judgment in Singapore. Instead, as noted above at [22] – [23], what the plaintiff is seeking to do is to claim a debt arising from the PRC judgment against the defendant in Singapore. That the plaintiff is able to do so was noted by Belinda Ang J in _Bellezza Club Japan Co Ltd v Matsumura Akihiko and others_ <span class="citation">[2010] 3 SLR 342</span> at [10]: 
 
  Foreign judgments in personam may be enforced by a claim in proceedings in Singapore if the foreign judgment is a money judgment of a court of competent jurisdiction, and that the judgment pronounced by the foreign court is final and conclusive as between the parties. 
 

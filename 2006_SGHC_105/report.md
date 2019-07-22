@@ -152,7 +152,7 @@ For the last proposition, the learned author cited the well-known decision of _R
 
 could not be used to institute libel proceedings. 
 
-15     Our Court of Appeal, while accepting the Riddick principle stated above, has held in _Hong Lam Marine Pte Ltd v Koh Chye Heng_ [1998] 3 SLR 833 (“ _Hong Lam Marine_ ”) that where documents were voluntarily disclosed in legal proceedings, the privacy of the documents was destroyed by the party which chose to produce them and such documents were not subject to the implied undertaking to the court. 
+15     Our Court of Appeal, while accepting the Riddick principle stated above, has held in _Hong Lam Marine Pte Ltd v Koh Chye Heng_ <span class="citation">[1998] 3 SLR 833</span> (“ _Hong Lam Marine_ ”) that where documents were voluntarily disclosed in legal proceedings, the privacy of the documents was destroyed by the party which chose to produce them and such documents were not subject to the implied undertaking to the court. 
 
 16     The respondents submitted that there were two main issues to be decided in this application: 
 

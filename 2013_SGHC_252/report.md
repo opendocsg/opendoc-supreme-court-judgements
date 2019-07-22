@@ -18,7 +18,7 @@
 
 _Civil Procedure_ – _Summary Judgment_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 98 and 157 of 2013 were dismissed by the Court of Appeal on 21 August 2014. See [2015] SGCA 6.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 98 and 157 of 2013 were dismissed by the Court of Appeal on 21 August 2014. See <span class="citation">[2015] SGCA 6</span>.] 
 
 20 November 2013 
 
@@ -65,9 +65,9 @@ _Civil Procedure_ – _Summary Judgment_
 
 **The law** 
 
-8       The principles relating to a summary judgment application under O 14 of the Rules of Court are well-settled. As stated by Judith Prakash J in _Associated Development Pte Ltd v Loong Sie Kiong Gerald (administrator of the estate of Chow Cho Poon, deceased) and other suits_ [2009] 4 SLR(R) 389 at [22]: 
+8       The principles relating to a summary judgment application under O 14 of the Rules of Court are well-settled. As stated by Judith Prakash J in _Associated Development Pte Ltd v Loong Sie Kiong Gerald (administrator of the estate of Chow Cho Poon, deceased) and other suits_ <span class="citation">[2009] 4 SLR(R) 389</span> at [22]: 
 
- ... Suffice it to say that in order to obtain judgment, a plaintiff has first to show that he has a prima facie case for judgment. Once he has done that, the burden shifts to the defendant who, in order to obtain leave to defend, must establish that there is a fair or reasonable probability that he has a real or bona fide defence. (See Goh Chok Tong v Chee Soon Juan [2003] 3 SLR(R) 32.) ... 
+ ... Suffice it to say that in order to obtain judgment, a plaintiff has first to show that he has a prima facie case for judgment. Once he has done that, the burden shifts to the defendant who, in order to obtain leave to defend, must establish that there is a fair or reasonable probability that he has a real or bona fide defence. (See Goh Chok Tong v Chee Soon Juan <span class="citation">[2003] 3 SLR(R) 32</span>.) ... 
 
 **My decision** 
 
@@ -88,7 +88,7 @@ _Whether the Defendants had a fair or reasonable probability of raising the defe
 
  (b) ... 
 
-11     Mr Asokan then argued that cl 12.2(a) of the Loan Agreement did not specifically exclude _equitable_ set-offs and therefore the clause was not effective to exclude the Defendants’ counterclaim based on an equitable set-off. He relied on _Pacific Rim Investments Pte Ltd v Lam Seng Tiong_ [1995] 2 SLR(R) 643 (“ _Pacific Rim_ ”) for the proposition that a clause must expressly exclude equitable setoffs in order to effectively exclude a defence based on an equitable set-off. I was unable to agree with Mr Asokan’s interpretation of _Pacific Rim_. The wording of the relevant clause in _Pacific Rim_ expressly provided for a particular contractual set-off but did not exclude the right to any set-off. That led the Court of Appeal to conclude that the clause did not expressly exclude equitable set-off (at [38]): 
+11     Mr Asokan then argued that cl 12.2(a) of the Loan Agreement did not specifically exclude _equitable_ set-offs and therefore the clause was not effective to exclude the Defendants’ counterclaim based on an equitable set-off. He relied on _Pacific Rim Investments Pte Ltd v Lam Seng Tiong_ <span class="citation">[1995] 2 SLR(R) 643</span> (“ _Pacific Rim_ ”) for the proposition that a clause must expressly exclude equitable setoffs in order to effectively exclude a defence based on an equitable set-off. I was unable to agree with Mr Asokan’s interpretation of _Pacific Rim_. The wording of the relevant clause in _Pacific Rim_ expressly provided for a particular contractual set-off but did not exclude the right to any set-off. That led the Court of Appeal to conclude that the clause did not expressly exclude equitable set-off (at [38]): 
 
  We now revert to the facts in the instant case. We find that all the essential ingredients were present for the purchasers to avail themselves of the equitable set-off as a form of self-help. First of all, the agreement did not exclude the right of set-off in equity. Counsel for the vendors relied on cl 3(1)(i)(bb), ie the words in parenthesis in that clause: “( after any deduction has been made in accordance with cl 18 hereof and for moneys owing to the purchaser )”, and argued that the purchasers were only entitled to set off the amount of liquidated damages against the 8% of the purchase price payable on the issue of the “certificate of statutory completion” which would normally take place after completion. In our view, although this clause made provision for a contractual set-off at or after the completion stage, it did not expressly exclude equitable set-off against any of the payments prior to completion. ... [emphasis added in bold italics] 
 
@@ -105,7 +105,7 @@ _Whether s 4(13) of the Civil Law Act applied to preclude the Defendants from ra
 
  (13) Generally in all matters not particularly mentioned in this section, in which there is any conflict or variance between the rules of equity and the rules of the common law with reference to the same matter, the rules of equity shall prevail. 
 
-13     This argument was misconceived. First, it is well-settled that the defence of equitable set-off may be expressly excluded by contract (see _Pacific Rim_ at [36]). It will suffice if the contract contained clear words which excluded the right of set-off, either expressly or by necessary implication (see _Hiap Tian Soon Construction Pte Ltd v Hola Development Pte Ltd_ [2003] 1 SLR(R) 667 at [17]). 
+13     This argument was misconceived. First, it is well-settled that the defence of equitable set-off may be expressly excluded by contract (see _Pacific Rim_ at [36]). It will suffice if the contract contained clear words which excluded the right of set-off, either expressly or by necessary implication (see _Hiap Tian Soon Construction Pte Ltd v Hola Development Pte Ltd_ <span class="citation">[2003] 1 SLR(R) 667</span> at [17]). 
 
 14     Second, there was simply no conflict between a rule of equity and a rule of the common law. After a comprehensive review of cases establishing the defence of equitable set-off, the Court of Appeal in _Pacific Rim_ made the following observations regarding certain exceptions to the application of the defence of equitable set-off (at [37]): 
 
@@ -124,7 +124,7 @@ _Whether cl 12.2 was an unfair contract term under the Unfair Contract Terms Act
 
  (b) 
 
-pursuant to the UCTA because it excluded the defence of set-off (see _Stewart Gill_ ). In addition, he argued that although _Gao Bin v OCBC Securities Pte Ltd_ [2009] 1 SLR(R) 500 (“ _Gao Bin_ ”) distinguished _Stewart Gill_ and held that the UCTA did not apply to a similar clause excluding the defence of set-off, _Gao Bin_ was a High Court decision and was not binding on this court. 
+pursuant to the UCTA because it excluded the defence of set-off (see _Stewart Gill_ ). In addition, he argued that although _Gao Bin v OCBC Securities Pte Ltd_ <span class="citation">[2009] 1 SLR(R) 500</span> (“ _Gao Bin_ ”) distinguished _Stewart Gill_ and held that the UCTA did not apply to a similar clause excluding the defence of set-off, _Gao Bin_ was a High Court decision and was not binding on this court. 
 
 17     In _Stewart Gill_ , the plaintiff agreed to supply and install an overhead conveyor system at the defendant’s premises. The plaintiff sought summary judgment against the defendant to recover the final 10% of the contract price for the conveyor system. The defendant resisted the application on the basis that it had a valid counterclaim for the plaintiff’s breaches of the contract and that any restriction on its right of set-off imposed by cl 12.4 of the plaintiff’s general conditions of sale, to which the contract was subject, was rendered ineffective by the Unfair Contract Terms Act 1977 (c 50) (UK) (“UK UCTA”). Clause 12.4 of the general conditions of sale stated as follows (at 604C): 
 
@@ -203,7 +203,7 @@ almost invariably have been included in the loan documentation. In the circumsta
 
 _Whether the Plaintiff took advantage of its own wrong_ 
 
-24     The High Court held in _Cheung Yong Sam Investments Pte Ltd v Land Equity Development Pte Ltd_ [1992] 3 SLR(R) 533 at [40] that: 
+24     The High Court held in _Cheung Yong Sam Investments Pte Ltd v Land Equity Development Pte Ltd_ <span class="citation">[1992] 3 SLR(R) 533</span> at [40] that: 
 
  It is a well established principle of the law of contract that a party to a contract who by his own act brings about the occurrence of a certain event cannot rely on such event to escape from his contractual obligations. This principle is cogently set out in an oft-quoted paragraph from the judgment of Lord Atkinson in New Zealand Shipping Co Ltd v Société des Ateliers et Chantiers de France [1919] AC 1. At 9 of the report, his Lordship states: 
 

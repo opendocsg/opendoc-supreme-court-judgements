@@ -35,7 +35,7 @@ _Companies_ – _Schemes of arrangement_
 4       As matters were still being negotiated and discussed among various parties, a moratorium was necessary to protect the Applicants’ ability to continue their efforts at restructuring. The Applicants argued that a restraint order under s 210(10) of the Companies Act could be granted independent of the calling of a meeting under 210(1), citing _Re KL Industries_. It is authority for the proposition that a restraint order may be issued if there is a proposal which gives more than a general layout of the scheme and the applicant was acting _bona fide_. The fact that the applicants were foreign companies 
 
 
-would not obstruct the granting of a moratorium, as there was sufficient nexus to Singapore such that these companies were liable to be wound up under the Act: Re _TPC Korea Co Ltd_ [2010] 2 SLR 617 (“ _Re TPC_ ”) at [12]. 
+would not obstruct the granting of a moratorium, as there was sufficient nexus to Singapore such that these companies were liable to be wound up under the Act: Re _TPC Korea Co Ltd_ <span class="citation">[2010] 2 SLR 617</span> (“ _Re TPC_ ”) at [12]. 
 
 5       In the present case the restructuring proposal put forward to the Court was sufficiently particularised to merit due consideration by the creditors. The restructuring would confer some benefit to the Applicants' creditors, who would otherwise obtain nothing. _Bona fides_ was shown by the fact that the restraint was to be operative for as short a period as possible to allow discussions to be finalised as to the proposal and the s 210(1) application to be filed and heard. No prejudice would occur to the Applicants' creditors if the order was granted. 
 

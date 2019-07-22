@@ -24,7 +24,7 @@ _Tort_ – _Negligence_ – _Contributory negligence_ – _Employee claiming dam
 
 **Belinda Ang Saw Ean J (delivering the judgment of the court):** 
 
-1       This is an appeal against the decision of the trial judge (“the judge”) dismissing the appellant’s claim for damages for personal injuries suffered in an accident at his workplace on 22 June 2002 (see [2006] 1 SLR 697). The respondents are BT Engineering Pte Ltd (“BT Engineering”) and Keppel Shipyard Limited (“Keppel”). It was agreed between the parties that only the question of liability would be determined at the trial, with damages to be assessed separately. 
+1       This is an appeal against the decision of the trial judge (“the judge”) dismissing the appellant’s claim for damages for personal injuries suffered in an accident at his workplace on 22 June 2002 (see <span class="citation">[2006] 1 SLR 697</span>). The respondents are BT Engineering Pte Ltd (“BT Engineering”) and Keppel Shipyard Limited (“Keppel”). It was agreed between the parties that only the question of liability would be determined at the trial, with damages to be assessed separately. 
 
 **The appellant’s case in the court below** 
 

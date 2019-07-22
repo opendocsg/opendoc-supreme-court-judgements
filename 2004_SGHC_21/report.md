@@ -38,7 +38,7 @@ The deceased (32 years of age) was killed when a lorry driven by the defendant c
 
 **_Loss of Dependency_** 
 
-8       In _Gul Chandiram Mahtani v Chain Singh_ [1999] 1 SLR 154, S Rajendran J stated, in dealing with a claim for loss of dependency, that: 
+8       In _Gul Chandiram Mahtani v Chain Singh_ <span class="citation">[1999] 1 SLR 154</span>, S Rajendran J stated, in dealing with a claim for loss of dependency, that: 
 
 
 It seems to me that the simplest and most appropriate way of assessing the ‘reasonable expectation of pecuniary benefit’ suffered by a dependent is to make a direct assessment of the value of that expectation. 
@@ -95,7 +95,7 @@ as he was a good and hard-working employee. However, she also admitted that the 
 
 **_The multiplier for the plaintiff_** 
 
-23     The deceased was 32 years old at the date of the accident. I was of the view that a multiplier of 14 years for the plaintiff for pre-trial and post-trial damages and also for the multiplier for the loss of CPF contribution was fair. In coming to this multiplier, I had considered the case of _Lim Fook Lau & Anor v Kepdrill International Incorporated SA & Ors_ [1993] 1 SLR 917, which counsel for the plaintiff had taken great pains to emphasise. However, I was not inclined to follow that case and determine the multiplier at 16. In that case, the deceased was a private medical practitioner and 30 years old at the date of the accident. The court found that there was no compulsory retirement age for private medical practitioners and provided that she was in good health, she could probably have worked till her _late_ 60s. The circumstances of this present case were not similar as to justify a multiplier of 16. 
+23     The deceased was 32 years old at the date of the accident. I was of the view that a multiplier of 14 years for the plaintiff for pre-trial and post-trial damages and also for the multiplier for the loss of CPF contribution was fair. In coming to this multiplier, I had considered the case of _Lim Fook Lau & Anor v Kepdrill International Incorporated SA & Ors_ <span class="citation">[1993] 1 SLR 917</span>, which counsel for the plaintiff had taken great pains to emphasise. However, I was not inclined to follow that case and determine the multiplier at 16. In that case, the deceased was a private medical practitioner and 30 years old at the date of the accident. The court found that there was no compulsory retirement age for private medical practitioners and provided that she was in good health, she could probably have worked till her _late_ 60s. The circumstances of this present case were not similar as to justify a multiplier of 16. 
 
 **_Loss of dependency for the plaintiff_** 
 
@@ -195,7 +195,7 @@ Loss of CPF contributions to the plaintiff :
 
 $470.25 x 12 x 14 = **$ 79,** 
 
-31     In _Gul Chandiram Mahtani v Chain Singh_ [1999] 1 SLR 154, Rajendran J stated that : 
+31     In _Gul Chandiram Mahtani v Chain Singh_ <span class="citation">[1999] 1 SLR 154</span>, Rajendran J stated that : 
 
  It is accepted law that the ‘lost’ CPF moneys of the deceased may, in appropriate case, form part 
 

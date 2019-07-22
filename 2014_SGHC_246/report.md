@@ -18,7 +18,7 @@
 
 _Landlord and Tenant_ – _Subleases_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 193 of 2014 was allowed by the Court of Appeal on 2 October 2015. See [2015] SGCA 55.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 193 of 2014 was allowed by the Court of Appeal on 2 October 2015. See <span class="citation">[2015] SGCA 55</span>.] 
 
 24 November 2014 Judgment reserved. 
 
@@ -74,7 +74,7 @@ agreement dated 26 November 2012 (“the 2nd Head Lease”).
 
 Burn and J Cartwright, _Cheshire and Burn’s Modern Law of Real Property_ (Oxford University Press, 18th ed, 2012) (“Chesire and Burn”) at p 330). It should also be noted that when the head tenancy comes to an end, any sub-tenancy derived out of it automatically comes to an end (see Cheshire and Burn at p 345). 
 
-14     The present dispute also engages the process of contractual interpretation in which the intended meaning of contractual terms is ascertained. This process involves ascribing to words the meaning which the parties, using those words against the relevant background, would have reasonably been understood to mean (see Andrew Phang Boon Leong gen ed, _The Law of Contract in Singapore_ (Academy Publishing, 2012) at para 06.042). The purpose of construction is to identify and give effect to the parties’ objectively ascertained intentions, having regard to the overall commercial purpose of the transaction (see _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 at 1095). 
+14     The present dispute also engages the process of contractual interpretation in which the intended meaning of contractual terms is ascertained. This process involves ascribing to words the meaning which the parties, using those words against the relevant background, would have reasonably been understood to mean (see Andrew Phang Boon Leong gen ed, _The Law of Contract in Singapore_ (Academy Publishing, 2012) at para 06.042). The purpose of construction is to identify and give effect to the parties’ objectively ascertained intentions, having regard to the overall commercial purpose of the transaction (see _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> at 1095). 
 
 **_Application of the law to the facts_** 
 

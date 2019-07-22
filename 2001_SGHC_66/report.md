@@ -1779,7 +1779,7 @@ The defence under this section only arises after the plaintiffs have established
 
 ## fatal to the plaintiffs claim. Reliance is placed on the case of Chiarapurk Jack & Ors v Haw Par Brothers International Ltd & 
 
-## Anor [1993] 3 SLR 285. 
+## Anor <span class="citation">[1993] 3 SLR 285</span>. 
 
 
 141    As regards the first defendant (the allegation against the second defendant has already been withdrawn), the averments as to the alleged confidential information disclosed to him as pleaded in para 22 of the claim is rather scanty and somewhat skeletal. The purported particulars bespeak: (a) handing over to him the plaintiffs shop drawings and specifications in relation to a project; (b) explaining to the first defendant the mode of installing the fire-rated glass doors and (c) explaining to him how to affix the door straps. The plaintiffs claim that these communications are confidential and that the first defendant had breached his duty which the plaintiffs label as "fiduciary". 

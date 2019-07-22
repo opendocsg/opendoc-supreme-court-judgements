@@ -18,7 +18,7 @@
 
 _Banking_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2010] 4 SLR 47.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2010] 4 SLR 47</span>.] 
 
 21 January 2011 
 
@@ -26,7 +26,7 @@ _Banking_
 
 **Introduction** 
 
-1       This was an appeal by Hsu Ann Mei Amy (“Amy” or “the appellant”) as the litigation representative of Mdm Hwang Cheng Tsu Hsu (“Mdm Hwang”) against the decision of the High Court judge (“the Judge”) in _Hwang Cheng Tsu Hsu (by her litigation representative Hsu Ann Mei Amy) v Oversea-Chinese Banking Corp Ltd_ [2010] SGHC 160. The Judge had dismissed Mdm Hwang’s action for damages against Oversea-Chinese Banking Corporation Limited (“the respondent”). 
+1       This was an appeal by Hsu Ann Mei Amy (“Amy” or “the appellant”) as the litigation representative of Mdm Hwang Cheng Tsu Hsu (“Mdm Hwang”) against the decision of the High Court judge (“the Judge”) in _Hwang Cheng Tsu Hsu (by her litigation representative Hsu Ann Mei Amy) v Oversea-Chinese Banking Corp Ltd_ <span class="citation">[2010] SGHC 160</span>. The Judge had dismissed Mdm Hwang’s action for damages against Oversea-Chinese Banking Corporation Limited (“the respondent”). 
 
 2       The proceedings concerned the nature and extent of a bank’s duty to carry out the mandate of a customer. Mdm Hwang was a long established customer of the respondent, and had been accorded the status and privileges of a private banking client. She had Singapore dollar deposits with the respondent in excess of $8 million. When Mdm Hwang, accompanied by Amy, instructed the respondent to open a new Joint Account in the joint names of Mdm Hwang and Amy (“the Joint Account”) and to transfer all the deposits held in her accounts with the respondent to the Joint Account, the respondent was hesitant about carrying out her “instructions” as its officers were concerned that she might not have fully understood the legal consequences of her instructions. Subsequently, when Amy told the respondent that Mdm Hwang would be closing all her accounts with the respondent (because of the respondent’s failure to open the Joint Account), the respondent became more anxious for Mdm Hwang’s sake and took certain steps to satisfy itself that Amy’s instruction reflected Mdm Hwang’s real intention. The respondent’s actions culminated in Mdm Hwang commencing these proceedings to claim damages against the respondent for breaching its duties as her banker by refusing to carry out the said instructions. The respondent denied liability on the ground that it had acted reasonably in trying to protect the interest of Mdm Hwang. 
 
@@ -121,7 +121,7 @@ deposits she had with the respondent.
 
 **The law** 
 
-23     It is trite law that a bank has a duty to comply with the customer’s mandate. However, this duty is subject to the bank’s duty to take reasonable care in all the circumstances: see _Yogambikai Nagarajah v Indian Overseas Bank and another appeal_ [1996] 2 SLR(R) 774 (“ _Yogambikai_ ”), citing 
+23     It is trite law that a bank has a duty to comply with the customer’s mandate. However, this duty is subject to the bank’s duty to take reasonable care in all the circumstances: see _Yogambikai Nagarajah v Indian Overseas Bank and another appeal_ <span class="citation">[1996] 2 SLR(R) 774</span> (“ _Yogambikai_ ”), citing 
 
 
 _Selangor United Rubber Estates Ltd v Cradock (No 3)_ [1968] 2 Lloyd’s Rep 289 and _Lipkin Gorman v Karpnale Ltd and another_ [1989] 1 WLR 1340 (“ _Lipkin Gorman_ ”). Accordingly, where a bank has good reason to believe or suspect that a customer’s mandate may not be genuine or may not represent his or her true intention, the bank is entitled to refuse to comply with the mandate. Conversely, if a bank fails to comply with its client’s instructions under circumstances where a reasonably prudent bank would _not_ have been put on notice, then the bank may be acting in breach of its duty to comply with the client’s instructions: see, _eg_ , _Barclays Bank plc v Quincecare Ltd and another_ [1992] 4 All ER 363 at 374–375, 376G–H (“ _Quincecare_ ”), citing _Lipkin Gorman v Karpnale Ltd and another_ [1987] 1 WLR 987 at 1006 _per_ Alliott J at first instance. 

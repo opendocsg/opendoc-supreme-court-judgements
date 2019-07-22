@@ -91,7 +91,7 @@ friends managed to escape from their attackers.
 21\. The Prosecution argued that the Accused should be sentenced to undergo life imprisonment as the attack was pre-meditated and vicious. It was also directed at persons who were not members of any secret society and not known to the Accused and his gang members. The facts showed that the 
 
 
-Accused was an active participant in the ruthless and senseless attack on a totally defenceless victim. It was submitted that the Accused was part of a mob which would "loot and shoot completely innocent bystanders without giving a hoot", echoing my words quoted on appeal in **_PP v Tan Kei Loon Allan_** [1999] 2 SLR 288 (at paragraph 15), where the Court of Appeal enhanced the sentence imposed by me. 
+Accused was an active participant in the ruthless and senseless attack on a totally defenceless victim. It was submitted that the Accused was part of a mob which would "loot and shoot completely innocent bystanders without giving a hoot", echoing my words quoted on appeal in **_PP v Tan Kei Loon Allan_** <span class="citation">[1999] 2 SLR 288</span> (at paragraph 15), where the Court of Appeal enhanced the sentence imposed by me. 
 
 22\. The attack took place at a location which was a "favourite watering hole for locals, expatriates and tourists alike". Statistics from the Criminal Investigation Department showed that there were 42 cases of rioting along the stretch from Boat Quay to Clarke Quay for the years 2000 and 2001. 
 
@@ -149,7 +149,7 @@ The judge then went on to consider factors such as a discount or credit for a pl
 
 5\. Although the attack was in the very early hours of the morning, it was nevertheless in a public area popular with locals and foreigners alike. Our streets and public places must be kept safe by day and by night for law abiding people. There must be no curfew at certain localities or during certain hours imposed by any gang. Gang fights and running street battles have absolutely no place in a civilized society. 
 
-6\. In **_PP v Tan Kei Loon Allan_** [1999] 2 SLR 288, the Court of Appeal, after noting that life imprisonment now meant incarceration for the remainder of a convicted person’s natural life with only the possibility of parole after 20 years, sounded the following cautionary note : 
+6\. In **_PP v Tan Kei Loon Allan_** <span class="citation">[1999] 2 SLR 288</span>, the Court of Appeal, after noting that life imprisonment now meant incarceration for the remainder of a convicted person’s natural life with only the possibility of parole after 20 years, sounded the following cautionary note : 
 
  "37. In that respect, we are of the view that the courts must now exercise caution before committing a young offender to life imprisonment. Contrary to traditional reasoning, in similar cases involving a youthful offender on the one hand and an older offender in the other, the youthful offender sentenced to life imprisonment would now 
 

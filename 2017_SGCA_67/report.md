@@ -18,7 +18,7 @@ _Tort_ – _Remedies_ – _Damages_
 
 _Civil procedure_ – _Rules of court_ – _O 14 r 12_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 124.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 124</span>.] 
 
 27 November 2017 Judgment reserved. 
 
@@ -26,7 +26,7 @@ _Civil procedure_ – _Rules of court_ – _O 14 r 12_
 
 **Introduction and background** 
 
-1       This is an appeal against a determination by a High Court judge (“the Judge”) of a purported question of law under O 14 r 12 of the Rules of Court (Cap 332, R 5, 2014 Rev Ed) (“O 14 r 12”) in _Aries Telecoms (M) Bhd v ViewQwest Pte Ltd (Fiberail Sdn Bhd, third party)_ [2017] SGHC 124 (“the GD”). The appellant, Aries Telecoms (M) Bhd (“the Appellant”), obtained an interlocutory judgment on liability against ViewQwest Pte Ltd (“the Respondent”) for conversion – specifically, for retaining and using certain information technology equipment (“the equipment”) belonging to the Respondent. Before the trial progressed to the assessment of damages stage, the Appellant, at the Judge’s suggestion, took out Summons 5786 of 2016 (“SUM 5786”) to seek a determination: 
+1       This is an appeal against a determination by a High Court judge (“the Judge”) of a purported question of law under O 14 r 12 of the Rules of Court (Cap 332, R 5, 2014 Rev Ed) (“O 14 r 12”) in _Aries Telecoms (M) Bhd v ViewQwest Pte Ltd (Fiberail Sdn Bhd, third party)_ <span class="citation">[2017] SGHC 124</span> (“the GD”). The appellant, Aries Telecoms (M) Bhd (“the Appellant”), obtained an interlocutory judgment on liability against ViewQwest Pte Ltd (“the Respondent”) for conversion – specifically, for retaining and using certain information technology equipment (“the equipment”) belonging to the Respondent. Before the trial progressed to the assessment of damages stage, the Appellant, at the Judge’s suggestion, took out Summons 5786 of 2016 (“SUM 5786”) to seek a determination: 
 
  ... as to the nature of the damages the [Appellant] is entitled to claim; in particular, whether the [Appellant] is entitled to an account of the profits made by the [Respondent] arising from the conversion and for the [Respondent] to disgorge such profits. 
 
@@ -84,7 +84,7 @@ Unfortunately, these findings of fact were not mere incidental observations, but
 
 **Conclusion** 
 
-15     Against the backdrop of these statements guiding the court toward an incorrect approach, the Judge eventually decided SUM 5786 on the basis of _factual unsustainability_ rather than any issue of law. That is particularly apparent when we arrive at that part of the grounds of decision concerning punitive and exemplary damages. The law on that point as regards torts was well-established and unchallenged (its ambit having been considered and clearly set out in the recent decision of this court i n _ACB v Thomson Medical Pte Ltd and others_ [2017] 1 SLR 918), leaving _only_ a _purely factual_ question of whether the prerequisites for such reliefs were present on the evidence. On the basis of these errors, we allow the appeal and set aside the Judge’s decision. Further, since it does not appear that remitting the question to be interpreted and answered using the correct approach would save time and costs at this point, we dismiss SUM 5786. For the avoidance of doubt, any such questions may now be decided afresh in the course of the assessment of damages. 
+15     Against the backdrop of these statements guiding the court toward an incorrect approach, the Judge eventually decided SUM 5786 on the basis of _factual unsustainability_ rather than any issue of law. That is particularly apparent when we arrive at that part of the grounds of decision concerning punitive and exemplary damages. The law on that point as regards torts was well-established and unchallenged (its ambit having been considered and clearly set out in the recent decision of this court i n _ACB v Thomson Medical Pte Ltd and others_ <span class="citation">[2017] 1 SLR 918</span>), leaving _only_ a _purely factual_ question of whether the prerequisites for such reliefs were present on the evidence. On the basis of these errors, we allow the appeal and set aside the Judge’s decision. Further, since it does not appear that remitting the question to be interpreted and answered using the correct approach would save time and costs at this point, we dismiss SUM 5786. For the avoidance of doubt, any such questions may now be decided afresh in the course of the assessment of damages. 
 
 
 16     Although we have allowed the appeal, it would not be right for the Appellant to benefit from a mess of its own making. We accept the Appellant’s explanation that the mistakes which it made below were inadvertent. The Appellant and its counsel did not set out to cause confusion as to the nature of an O 14 r 12 application. Nonetheless, this appeal would not have been necessary if the Appellant had taken greater care to be clear from the start. We therefore make no order as to the costs of the appeal. In light of the dismissal of SUM 5786, the Appellant is to bear the costs of the proceedings in the court below. The usual consequential orders will apply. 

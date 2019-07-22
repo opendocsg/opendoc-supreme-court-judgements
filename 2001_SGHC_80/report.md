@@ -937,7 +937,7 @@ because there the question was whether the husbands bonus should be taken into a
 
 138\. Furthermore, if the stock options (in any of the categories) were allotted to the Husband after the breakdown of the marriage, that is a factor in determining whether the Wife should be granted a share in them and if so, the extent of the share. It is not a reason to deny any division outright. In so far as the District Judge said that the Wifes indirect contribution after the breakdown of the marriage was not substantial enough to merit a share, I will come back to this point later below. 
 
-139\. As this stage, I need refer only to _Yeo Gim Tong Michael v Tianzou_ [1996] 2 SLR 1. In that case, L P Thean JA, delivering the judgment of the Court of Appeal, said at p 4: 
+139\. As this stage, I need refer only to _Yeo Gim Tong Michael v Tianzou_ <span class="citation">[1996] 2 SLR 1</span>. In that case, L P Thean JA, delivering the judgment of the Court of Appeal, said at p 4: 
 
 ## We agree that the husbands CPF moneys accrued or accumulated prior to the 
 

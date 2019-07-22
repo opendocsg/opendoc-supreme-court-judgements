@@ -39,11 +39,11 @@ had gained admission to a polytechnic to pursue a course of Information Manageme
 
  Where a court by or before which a person is convicted of an offence (not being an offence the sentence for which is fixed by law) is of the opinion that having regard to the circumstances, including the nature of the offence and the character of the offender, it is expedient to do so, the court may, instead of sentencing him, make a probation order... 
 
-8       In _PP v Mok Ping Wuen Maurice_ [1999] 1 SLR 138, I made the following observations as to when it might be appropriate to grant probation to a young offender: 
+8       In _PP v Mok Ping Wuen Maurice_ <span class="citation">[1999] 1 SLR 138</span>, I made the following observations as to when it might be appropriate to grant probation to a young offender: 
 
  Rehabilitation is the dominant consideration where the offender is 21 years and below. Young offenders are in their formative years and chances of reforming them into law-abiding adults are better. The corrupt influence of a prison environment and the bad effects of labelling and stigmatisation may not be desirable for young offenders. Compassion is often shown to young offenders on the assumption that the young ‘don’t know any better’ and they may not have had enough experience to realise the full consequences of their actions on themselves and on others. Teens may also be slightly less responsible than older offenders, being more impressionable, more easily led and less controlled in their behaviour. [my emphasis] 
 
-In _PP v Muhammad Nuzaihan Bin Kamal Luddin_ [2000] 1 SLR 43, I added the following observations: 
+In _PP v Muhammad Nuzaihan Bin Kamal Luddin_ <span class="citation">[2000] 1 SLR 43</span>, I added the following observations: 
 
  The traditional and broad rationale of probation therefore has always been to wean offenders away from a life-time career in crime and to reform and rehabilitate them into self-reliant and useful citizens. In the case of youthful criminals, the chances of effective rehabilitation are greater than in the case of adults, making the possible use of probation more relevant where young offenders are concerned. Nevertheless, [it is] clear that probation is never granted as of right, even in the case of juvenile offenders. In deciding whether or not probation is the appropriate sentence in each case, the court still has to take into account all the circumstances of the case, including the nature of the offence and the character of the offender. [my emphasis] 
 

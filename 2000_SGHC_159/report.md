@@ -138,7 +138,7 @@ _1997. My discussions with Wee took place in Singapore. As a result of these dis
 
 8       After receipt of the complaint, the Council of the defendant requested for copies of all affidavits filed and served in OS 546 of 1999, The plaintiff sent them to the Council in September 1999. 
 
-9       By a letter dated 5 November 1999 the Director of the defendant stated that a recent meeting the Council of the defendant decided that in view of the decision of the Court of Appeal in _Tan Liang Hong v Lee Kuan Yew & Ors_ [1998] 1 SLR 97 no information of misconduct which must be referred to the Chairman of the Inquiry Committee was disclosed in the plaintiff’s letter o f complaint. The plaintiff asked for the basis upon which the Court of Appeal "empowered the Council to disregard due process of an inquiry committee to determine the facts complained of." 
+9       By a letter dated 5 November 1999 the Director of the defendant stated that a recent meeting the Council of the defendant decided that in view of the decision of the Court of Appeal in _Tan Liang Hong v Lee Kuan Yew & Ors_ <span class="citation">[1998] 1 SLR 97</span> no information of misconduct which must be referred to the Chairman of the Inquiry Committee was disclosed in the plaintiff’s letter o f complaint. The plaintiff asked for the basis upon which the Court of Appeal "empowered the Council to disregard due process of an inquiry committee to determine the facts complained of." 
 
 10     By his letter of 9 December 1999 the then President of the defendant, George Lim, set out the position in this way: 
 

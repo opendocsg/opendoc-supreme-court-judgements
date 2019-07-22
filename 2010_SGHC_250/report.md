@@ -20,7 +20,7 @@ _Civil Procedure_ – _Interpleader_
 
 _Banking_ – _Performance bond_ 
 
-[LawNet Editorial Note: The plaintiff's (a) application for leave to appeal in Originating Summons No 1082 of 2010 was granted; and (b) appeals in Civil Appeals Nos 158 and 159 of 2010 were dismissed, by the Court of Appeal on 29 April 2011. See [2011] SGCA 20.] 
+[LawNet Editorial Note: The plaintiff's (a) application for leave to appeal in Originating Summons No 1082 of 2010 was granted; and (b) appeals in Civil Appeals Nos 158 and 159 of 2010 were dismissed, by the Court of Appeal on 29 April 2011. See <span class="citation">[2011] SGCA 20</span>.] 
 
 26 August 2010 Judgment reserved. 
 
@@ -303,7 +303,7 @@ within the threshold requirement of _American Cynamid_.
 
  both corporations shall substantially be merged in one corporation only. 
 
-34     The common law approach has been extensively applied in Singapore (see _eg Clifford Development Pte Ltd v Commissioner of Stamp Duties_ [2009] 2 SLR(R) 363) to mean that, under Singapore law, a reconstruction essentially involves a new company substantially carrying on the same business as the old, with substantially the same corporators as before. See also _In re Mytravel Group plc_ [2005] 1 WLR 2365, where it was held that “a state of affairs in which 4% by value of the shareholding in the new company was held by 100% of the shareholders in the old was not one in which there was a substantial identity between the two bodies of shareholders” and that therefore, the transaction in issue in that case was not a reconstruction. 
+34     The common law approach has been extensively applied in Singapore (see _eg Clifford Development Pte Ltd v Commissioner of Stamp Duties_ <span class="citation">[2009] 2 SLR(R) 363</span>) to mean that, under Singapore law, a reconstruction essentially involves a new company substantially carrying on the same business as the old, with substantially the same corporators as before. See also _In re Mytravel Group plc_ [2005] 1 WLR 2365, where it was held that “a state of affairs in which 4% by value of the shareholding in the new company was held by 100% of the shareholders in the old was not one in which there was a substantial identity between the two bodies of shareholders” and that therefore, the transaction in issue in that case was not a reconstruction. 
 
 35     There is no question that AGI’s Chapter 11 was anything other than a genuine process. But that does not mean that it is a reconstruction within the meaning of Singapore law, which must be shown by Astrata to the requisite standard to support its Interlocutory Injunction Application. 
 
@@ -363,14 +363,14 @@ which could not be adequately compensated for in damages if the dispute were res
 
 44     Whilst I would ordinarily not be minded to grant leave in such circumstances, in order to efficiently expedite the many applications before me, I nevertheless granted leave to admit this new affidavit and to hear both counsel on this new waiver argument for the purposes of whether Astrata has now raised a fresh serious question of law which the balance of convenience warrants the grant of the Interlocutory Injunction. 
 
-45     The requirements of waiver/estoppel are firstly, representation and secondly, reliance. In the case of _In Tacplas Property Services Pte Ltd v Lee Peter Michael_ [2000] 1 SLR(R) 159 (“ _Tacplas Property_ ”), Chao Hick Tin JA, who delivered the judgment of the Court of Appeal, stated at 177: 
+45     The requirements of waiver/estoppel are firstly, representation and secondly, reliance. In the case of _In Tacplas Property Services Pte Ltd v Lee Peter Michael_ <span class="citation">[2000] 1 SLR(R) 159</span> (“ _Tacplas Property_ ”), Chao Hick Tin JA, who delivered the judgment of the Court of Appeal, stated at 177: 
 
  Although a representation giving rise to such an estoppel need not be express and may be implied, it must, nonetheless, be clear and unequivocal. Mere silence and inactivity will not normally suffice and in the words of Robert Goff LJ in The Leonidas D; Allied Marine Transport Ltd 
 
 
  v Vale do Rio Doce Navegacao SA [1985] 1 WLR 925 at 937 “it is difficult to imagine how silence and inaction can be anything but equivocal” (endorsed by this court in Fook Gee Finance Co Ltd v Liu Cho Chit [1998] 1 SLR (R) 385). 
 
-And see _Re Tararone Investments Ptd Ltd_ [2001] SGCA 57, which held that, to constitute reliance, there must be substantive evidence of reliance. 
+And see _Re Tararone Investments Ptd Ltd_ <span class="citation">[2001] SGCA 57</span>, which held that, to constitute reliance, there must be substantive evidence of reliance. 
 
 46     If there really was a waiver which Astrata relied on, this would be apparent to Astrata and would have been asserted at the outset of the Interlocutory Injunction Application. But prior to Astrata’s belated application for leave, no such assertion had been made. This suggests that Astrata did not conduct itself on the basis or in reliance of any waiver, but was instead attempting to raise, belatedly, any remotely plausible argument which would support its Interlocutory Injunction Application. And, rather significantly, Astrata’s counsel submitted at the outset that the waiver argument was not relevant to any argument of the balance of convenience. 
 
@@ -407,7 +407,7 @@ stay the Declaration Application. Astrata submits that the word “may” in s 1
 
 Section 10(1) of the UK Act was in fact amended in 1996 to make it mandatory for the court to direct that the issue be determined in accordance with the arbitration agreement unless the circumstances are such that proceedings brought by a claimant in respect of the matter would not be stayed. This aim was to bring the UK position in line with the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards, 10 June 1958 (entered into force 7 June 1959) 330 UNTS 38, which requires a mandatory stay of judicial proceedings where there is a valid and applicable arbitration agreement: see Robert Merkin, _Arbitration Law_ (Informa, Looseleaf Ed, 2009) at para 8.9). 
 
-56     Astrata submits that s 11A of the IAA must be interpreted in a pro-arbitration light, consistent with the decision of the Court of Appeal in _Tjong Very Sumito v Antig Investments Pte Ltd_ [2009] 4 SLR(R) 732 (“ _Tjong Very Sumito_ ”) at [28] and [29] that: 
+56     Astrata submits that s 11A of the IAA must be interpreted in a pro-arbitration light, consistent with the decision of the Court of Appeal in _Tjong Very Sumito v Antig Investments Pte Ltd_ <span class="citation">[2009] 4 SLR(R) 732</span> (“ _Tjong Very Sumito_ ”) at [28] and [29] that: 
 
  [28] More fundamentally, the need to respect party autonomy (manifested by their contractual bargain) in deciding both the method of dispute resolution (and the procedural rules as to be applied) as well as the substantive law to govern the contract, has been accepted as the cornerstone underlying judicial non-intervention in arbitration. In essence, a court ought to give effect to the parties’ contractual choice as to the manner of dispute resolution unless it offends the law. 
 
@@ -494,7 +494,7 @@ between them, which provided for dispute resolution before Singapore courts.
 
  The nature of the Performance Bond originally issued on 17 May 2007 had been altered when the parties agreed that it was part of the Retention Monies under paragraph 6 of POA# dated 3 September 2008 and can only be paid out in accordance with this agreement. 
 
-73     The law on applications to restrain calls on performance bonds is well settled. See _Bocotra Construction Pte Ltd & Others v Attorney General_ [1995] 2 SLR(R) 262 at [278] (“ _Bocotra_ ”); _GHL Pte Ltd v Unitrack Building Construction Pte Ltd & Another_ [1999] 3 SLR(R) 44 at [51] (“ _GHL_ ”); _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa_ in _Zayed Al Nahyan_ [2000] 1 SLR(R) 117 (“ _Dauphin_ ”) and _Eltraco International Pte Ltrd v CGH Development Pte Ltd_ [2000] 2 SLR(R) 180 (“ _Eltraco_ ”). The applicable principles distilled from these cases are: 
+73     The law on applications to restrain calls on performance bonds is well settled. See _Bocotra Construction Pte Ltd & Others v Attorney General_ <span class="citation">[1995] 2 SLR(R) 262</span> at [278] (“ _Bocotra_ ”); _GHL Pte Ltd v Unitrack Building Construction Pte Ltd & Another_ <span class="citation">[1999] 3 SLR(R) 44</span> at [51] (“ _GHL_ ”); _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa_ in _Zayed Al Nahyan_ <span class="citation">[2000] 1 SLR(R) 117</span> (“ _Dauphin_ ”) and _Eltraco International Pte Ltrd v CGH Development Pte Ltd_ <span class="citation">[2000] 2 SLR(R) 180</span> (“ _Eltraco_ ”). The applicable principles distilled from these cases are: 
 
  Whether there is unconscionability depends on the facts of each case. There is no predetermined categorisation. 
 
@@ -513,7 +513,7 @@ between them, which provided for dispute resolution before Singapore courts.
 
 74     The burden on the party seeking to restrain a call on a performance bond is high. The Court of Appeal in _Dauphin_ defined the burden in the following terms: 
 
- In coming to this view we have borne in mind the standard of proof required of the alleged unconscionability. In Bocotra , this court stated that ‘a high degree of strictness applies, as the applicant will be required to establish a clear case of fraud or unconscionability in the interlocutory proceedings. It is clear that mere allegations are insufficient. In GHL v Unitrack , this court implicitly endorsed the strong prima facie standard propounded by the High Court in Chartered Electronics Industries v Development Bank of Singapore Ltd [1999] 4 SLR 655. In our opinion, what must be shown is a strong prima facie case of unconscionability.” 
+ In coming to this view we have borne in mind the standard of proof required of the alleged unconscionability. In Bocotra , this court stated that ‘a high degree of strictness applies, as the applicant will be required to establish a clear case of fraud or unconscionability in the interlocutory proceedings. It is clear that mere allegations are insufficient. In GHL v Unitrack , this court implicitly endorsed the strong prima facie standard propounded by the High Court in Chartered Electronics Industries v Development Bank of Singapore Ltd <span class="citation">[1999] 4 SLR 655</span>. In our opinion, what must be shown is a strong prima facie case of unconscionability.” 
 
 75     The business purpose of performance bonds is to provide a form of security which is readily, promptly and assuredly realisable when the prescribed call is made. “The arguments for certainty and commercial efficacy must surely prevail here, otherwise banks will bear the onerous burden of deciding whether payment when demanded has to be made.” See _Bocotra_ at [25]. 
 

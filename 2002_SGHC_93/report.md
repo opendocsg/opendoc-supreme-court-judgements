@@ -99,7 +99,7 @@ the use of the rented car that evening. When the Accused informed Alice that she
 
 It can be seen that the charge here was amended to bring the amount of methamphetamine involved to just below the level which would have triggered the mandatory death penalty. 
 
-16\. As stated by Yong Pung How CJ in **_Ooi Joo Keong v PP [1997] 2 SLR 68_** at paragraph 14 of the judgment there, Class A drugs may be described as the most dangerous category of drugs and methamphetamine is a Class A drug. 
+16\. As stated by Yong Pung How CJ in **_Ooi Joo Keong v PP <span class="citation">[1997] 2 SLR 68</span>_** at paragraph 14 of the judgment there, Class A drugs may be described as the most dangerous category of drugs and methamphetamine is a Class A drug. 
 
 17\. A person who knowingly handles controlled drugs, knowing the nature of the drugs, cannot excuse himself/herself with the plea that someone, however trustworthy, has assured him/her that the drugs were of a lower quantity or quality than it turned out to be. 
 

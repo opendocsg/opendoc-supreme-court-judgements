@@ -348,11 +348,11 @@ LKL’s and LBY’s absence and removed LKL as Kenson’s corporate representati
 
 Article 106 requires merely that notice must be “duly given”, without stipulating the number of days of notice that must be given. Nevertheless, it is well-established that reasonable notice must be given. 
 
-50     In _Chow Kwok Ching v Chow Kwok Chi and others and other suits_ [2008] 4 SLR(R) 577, Judith Prakash J made the observation at [200]: 
+50     In _Chow Kwok Ching v Chow Kwok Chi and others and other suits_ <span class="citation">[2008] 4 SLR(R) 577</span>, Judith Prakash J made the observation at [200]: 
 
  ... As there were no notice periods prescribed in the articles, only reasonable notice of board meetings needed to be given. In most cases a few days’ notice (not seven days) would have been sufficient but I do agree that in relation to the meeting of 16 January 2004, the notice was short and since the plaintiff had clearly indicated he had a prior appointment, the meeting should not have proceeded on that date. ... 
 
-51     Tan Lee Meng J made a similar observation in _Tan Choon Yong v Goh Jon Keat and others and other suits_ [2009] 3 SLR 840. Tan J stated at [74]: 
+51     Tan Lee Meng J made a similar observation in _Tan Choon Yong v Goh Jon Keat and others and other suits_ <span class="citation">[2009] 3 SLR 840</span>. Tan J stated at [74]: 
 
  ... unless the articles require otherwise, notice of a board meeting may, depending on the need, be called at a short notice so long as it is sufficient to enable directors to attend it. ... 
 
@@ -381,7 +381,7 @@ be cured under s 392 because the irregularity caused them substantial injustice.
 
 _The irregularity is procedural_ 
 
-55     It is not easy to determine if a particular irregularity is procedural or substantive. This was recognised in the Court of Appeal decisions of _Chang Benety and others v Tang Kin Fei and others_ [2012] 1 SLR 274 (“ _Chang Benety_ ”) and _Thio Keng Poon v Thio Syn Pyn and others and another appeal_ [2010] 3 SLR 143 (“ _Thio Keng Poon_ ”). Both cases found the principles in the New South Wales Supreme Court case of _Cordiant Communications (Australia) Pty Ltd v The Communications Group Holdings Pty Ltd_ [2005] NSWSCC 1005 (“ _Cordiant_ ”) instructive. The following paragraphs from _Cordiant_ were cited in both cases: 
+55     It is not easy to determine if a particular irregularity is procedural or substantive. This was recognised in the Court of Appeal decisions of _Chang Benety and others v Tang Kin Fei and others_ <span class="citation">[2012] 1 SLR 274</span> (“ _Chang Benety_ ”) and _Thio Keng Poon v Thio Syn Pyn and others and another appeal_ <span class="citation">[2010] 3 SLR 143</span> (“ _Thio Keng Poon_ ”). Both cases found the principles in the New South Wales Supreme Court case of _Cordiant Communications (Australia) Pty Ltd v The Communications Group Holdings Pty Ltd_ [2005] NSWSCC 1005 (“ _Cordiant_ ”) instructive. The following paragraphs from _Cordiant_ were cited in both cases: 
 
  What, then, is the substantive irregularity as distinct from a procedural irregularity? In my view, the cases concerning the distinction between a substantive law or rule and a procedural law or rule provide some guidance. In John Pfeiffer Pty Ltd v Rogerson (2000) 203 CLR 503, Gleeson CJ, Gaudron, McHugh, Gummow and Hayne JJ said (at 543-544): 
 
@@ -630,7 +630,7 @@ _Commercial fairness is key_
 97     It is settled law that the touchstone in a minority oppression claim is fairness. This was 
 
 
-emphasised in _Over & Over Ltd v Bonvests Holdings Ltd and another_ [2010] 2 SLR 776 (“ _Over & Over_ ”) (at [81] and [130]) where the Court of Appeal provided a clear summary of the principles that govern a minority oppression claim. The common thread that underpins all four limbs under s 216 of the Companies Act is that the members must have been treated in an unfair manner. There is therefore little utility in reading the four limbs disjunctively and attempting to draw a distinction between each limb. 
+emphasised in _Over & Over Ltd v Bonvests Holdings Ltd and another_ <span class="citation">[2010] 2 SLR 776</span> (“ _Over & Over_ ”) (at [81] and [130]) where the Court of Appeal provided a clear summary of the principles that govern a minority oppression claim. The common thread that underpins all four limbs under s 216 of the Companies Act is that the members must have been treated in an unfair manner. There is therefore little utility in reading the four limbs disjunctively and attempting to draw a distinction between each limb. 
 
 98     Even though prejudice to the claimant is an important factor in the overall assessment of unfairness, it is not an essential requirement to make out a claim under s 216 of the Companies Act: see _Over & Over_ at [72]. In this respect, Singapore law differ from English law where both unfairness and prejudice must be shown in order to establish an unfair prejudice claim: see s 994 of the English Companies Act 2006 (c 46) (UK) and _Re Saul D Harrison & Sons plc_ [1995] 1 BCLC 14 at 31 (“ _Re Saul Harrison_ ”). 
 
@@ -657,7 +657,7 @@ _The starting point of a minority oppression claim_
 
  [emphasis added] 
 
-106    If the member fails to show that equitable considerations are superimposed on the company, the measure of commercial unfairness is defined by the parties’ legal rights and their legitimate expectations derived from and enshrined in the company’s constitution. But the situation is different if the member succeeds in showing that equitable considerations are superimposed on the company. The archetype of this, of course, is the quasi-partnership, _ie_ a company within Lord Wilberforce’s first category in the passage quoted above at [105]. In this special class of companies, an extended measure of unfairness will take into account otherwise unenforceable expectations which arise from the members’ personal relationship of mutual confidence rather than from the company’s constitution, and which expectations are not necessarily submerged in the company structure: _Over & Over_ at [79] citing _Ebrahimi_ with approval. This was unequivocally recognised by Chan Sek Keong CJ in _Lim Swee Khiang and another v Borden Co (Pte) Ltd and others_ [2006] 4 SLR(R) 745 (“ _Borden_ ”) at [83]: 
+106    If the member fails to show that equitable considerations are superimposed on the company, the measure of commercial unfairness is defined by the parties’ legal rights and their legitimate expectations derived from and enshrined in the company’s constitution. But the situation is different if the member succeeds in showing that equitable considerations are superimposed on the company. The archetype of this, of course, is the quasi-partnership, _ie_ a company within Lord Wilberforce’s first category in the passage quoted above at [105]. In this special class of companies, an extended measure of unfairness will take into account otherwise unenforceable expectations which arise from the members’ personal relationship of mutual confidence rather than from the company’s constitution, and which expectations are not necessarily submerged in the company structure: _Over & Over_ at [79] citing _Ebrahimi_ with approval. This was unequivocally recognised by Chan Sek Keong CJ in _Lim Swee Khiang and another v Borden Co (Pte) Ltd and others_ <span class="citation">[2006] 4 SLR(R) 745</span> (“ _Borden_ ”) at [83]: 
 
  ... where a company has the characteristics of a quasi-partnership and its shareholders have agreed to associate on the basis of mutual trust and confidence, the courts will insist upon a high standard of corporate governance that must be observed by the majority shareholders vis-à-vis the minority shareholders. 
 
@@ -676,7 +676,7 @@ _The starting point of a minority oppression claim_
 
  [emphasis added] 
 
-109    The plaintiffs take the position that SSH and Kenson are subject to equitable considerations because they are family companies and are therefore quasi-partnerships or share the characteristics of a quasi-partnership. For this proposition, the plaintiffs rely on the cases of _Chow Kwok Chuen v Chow Kwok Chi and another_ [2008] 4 SLR(R) 362 (“ _Chow Kwok Chuen_ ”) and _Fisher v Cadman_ [2005] EWHC 377 (Ch). They submit that Kenson has always been a quasi-partnership while SSH became a quasi-partnership between LKH and his sons in 1993 when LKH bought out all the other shareholders who were unrelated to the Lim family (see [12] above). 
+109    The plaintiffs take the position that SSH and Kenson are subject to equitable considerations because they are family companies and are therefore quasi-partnerships or share the characteristics of a quasi-partnership. For this proposition, the plaintiffs rely on the cases of _Chow Kwok Chuen v Chow Kwok Chi and another_ <span class="citation">[2008] 4 SLR(R) 362</span> (“ _Chow Kwok Chuen_ ”) and _Fisher v Cadman_ [2005] EWHC 377 (Ch). They submit that Kenson has always been a quasi-partnership while SSH became a quasi-partnership between LKH and his sons in 1993 when LKH bought out all the other shareholders who were unrelated to the Lim family (see [12] above). 
 
 110    On the other hand, the defendants argue that neither company is a quasi-partnership. They submit that neither company was incorporated or operated on the basis of any relationship of mutual 
 
@@ -824,7 +824,7 @@ SSH was returned to the companies by the shareholders as part of its enlarged sh
 
 143    The plaintiffs argue that the practice of paying excessive directors’ fees, coupled with the practice of declaring inadequate dividends amounts to oppression as it is contrary to their common understanding or legitimate expectation that there would be a relatively equal sharing of profits amongst the shareholders, subject only to the proportion of shares which they hold. 
 
-144    I accept that a policy of declaring inadequate dividends coupled with an overly generous policy of remunerating directors may cumulatively result in conduct that is oppressive or commercially unfair: _In re Gee Hoe Chan Trading Co Pte Ltd_ [1991] 2 SLR(R) 114 and _Re Sam Weller & Sons Ltd_ [1990] Ch 
+144    I accept that a policy of declaring inadequate dividends coupled with an overly generous policy of remunerating directors may cumulatively result in conduct that is oppressive or commercially unfair: _In re Gee Hoe Chan Trading Co Pte Ltd_ <span class="citation">[1991] 2 SLR(R) 114</span> and _Re Sam Weller & Sons Ltd_ [1990] Ch 
 
 682\. An example of such a situation is where, through directors’ fees and remuneration, the majority shareholders receive sums that far exceed the amounts that the minority shareholders, who do not receive such fees and remuneration, receive as dividends. 
 

@@ -395,7 +395,7 @@ to support his submission that the first defendant was a trustee of the plaintif
 
  The presumed resulting trust which arises from the provision of the purchase money or voluntary conveyance in the absence of words of gift or of performance of obligation is a rebuttable presumption. The law does not prescribe a closed list of rebuttal evidence. 
 
-102    Further, the case of _Tay Yok Swee v United Overseas Bank & Ors_ [1994] 2 SLR 217 cited by the defendants is relevant. There, the Court of Appeal held that where (as in this case) there was clear evidence that parties held a property as tenants in common in specified shares, any implication of a trust was rebutted. 
+102    Further, the case of _Tay Yok Swee v United Overseas Bank & Ors_ <span class="citation">[1994] 2 SLR 217</span> cited by the defendants is relevant. There, the Court of Appeal held that where (as in this case) there was clear evidence that parties held a property as tenants in common in specified shares, any implication of a trust was rebutted. 
 
 103    To overcome the hurdle of the first defendant’s legal ownership of half of the property, the plaintiff would have to prove that she and she alone funded the entire purchase price ($3m). It is my view on the evidence that the plaintiff failed to discharge the requisite burden of proof. 
 

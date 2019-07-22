@@ -20,7 +20,7 @@ _Contract_ – _Privity of Contract_
 
 _Contract_ – _Restraint of Trade_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2009] 3 SLR(R) 78 .] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2009] 3 SLR(R) 78</span> .] 
 
 1 February 2010 Judgment reserved. 
 
@@ -112,7 +112,7 @@ shareholding in the Appellant and he also stated that the intending purchaser mu
 
 **The decision below** 
 
-23     Since the Appellant had admitted to the Respondent’s claim for the sum of $236,500, the Judge allowed the claim for that sum. However, she dismissed the Appellant’s counterclaim. The Judge’s grounds of decision is reported at [2009] 3 SLR(R) 78 (“the GD”). 
+23     Since the Appellant had admitted to the Respondent’s claim for the sum of $236,500, the Judge allowed the claim for that sum. However, she dismissed the Appellant’s counterclaim. The Judge’s grounds of decision is reported at <span class="citation">[2009] 3 SLR(R) 78</span> (“the GD”). 
 
 24     In the view of the Judge, the Appellant could not rely on the CRTPA to enforce the restrictive covenant and, therefore, the Appellant had no locus standi to sue the Respondent under the November Agreement. In any case, the Judge was also of the opinion that cl 11 was unenforceable because it was in unreasonable restraint of trade. In her view, cl 11 was drafted in too wide a term as it prohibited the parties from “being engaged and/or interested in any trade and/or business carried on within Singapore” that was similar to the “Business” of the Company and/or the practice of “Aesthetic Medicine”. As cl 11 covered any and every type of practice of aesthetic medicine it was wider than reasonably necessary to protect the goodwill sold by the Respondent. Moreover, the restriction of three years was unreasonably long. Therefore, the ambit of cl 11 was unnecessarily wide and vitiated by unreasonableness. Moreover, the Judge held that it was not possible for the court to sever the unreasonable portion of the clause. Finally, she also held that cl 11(c) was not a genuine pre-estimate of the Appellant’s loss but constituted a penalty clause and, as such, was unenforceable in accordance with its terms. 
 
@@ -226,7 +226,7 @@ Articles of Association of the Appellant contained a provision restricting the r
 
 **Whether cl 11 was in unreasonable restraint of trade** 
 
-42     Clause 11 is undoubtedly a restraint of trade covenant. The Court of Appeal has recently summarised the law on restraint of trade clauses in _Man Financial (S) Pte Ltd v Wong Bark Chuan David_ [2008] 1 SLR(R) 663 (“ _Man Financial_ ”). The case involved an employer-employee relationship but this court had gone further to discuss the entire area of restraint of trade clauses including the situation where there was a sale of a business. 
+42     Clause 11 is undoubtedly a restraint of trade covenant. The Court of Appeal has recently summarised the law on restraint of trade clauses in _Man Financial (S) Pte Ltd v Wong Bark Chuan David_ <span class="citation">[2008] 1 SLR(R) 663</span> (“ _Man Financial_ ”). The case involved an employer-employee relationship but this court had gone further to discuss the entire area of restraint of trade clauses including the situation where there was a sale of a business. 
 
 43     The court there cited, at [70], the statement of the law by Lord Macnaghten in the case of _Thorsten Nordenfelt v The Maxim Nordenfelt Guns and Ammunition Company, Limited_ [1894] AC 535 (“ _Nordenfelt_ ”) at 565 as representing the law in this area: 
 
@@ -340,7 +340,7 @@ $1,365,000 to $1,470,000.
 
  [emphasis added] 
 
-This statement of the law was endorsed by this Court in _Hong Leong Finance Ltd v Tan Gin Huay_ [1999] 1 SLR(R) 755.Their Lordships of the Privy Council in _Philips Hong Kong_ further added, at 283: 
+This statement of the law was endorsed by this Court in _Hong Leong Finance Ltd v Tan Gin Huay_ <span class="citation">[1999] 1 SLR(R) 755</span>.Their Lordships of the Privy Council in _Philips Hong Kong_ further added, at 283: 
 
  To conclude otherwise involves making the error of assuming that, because in some hypothetical situation the loss suffered will be less than the sum quantified in accordance with the liquidated damage provision, that provision must be a penalty, at least in the situation in which the minimum payment restriction operates. It illustrates the danger which is inherent in arguments based on hypothetical situations where it is said that the loss might be less than the sum specified as payable as liquidated damages. Arguments of this nature should not be allowed to divert attention from the correct test as to what is a penalty provision namely, is it a genuine preestimate of what the loss is likely to be? to the different question, namely, are there possible circumstances where a lesser loss would be suffered? [emphasis added] 
 

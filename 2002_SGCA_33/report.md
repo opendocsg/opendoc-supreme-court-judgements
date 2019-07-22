@@ -99,7 +99,7 @@ _The trial judge’s decision_
 15\. It cannot be disputed that Thongthot and Dornchinnamat and the other members of their gang were, by virtue of section 141 of the Penal Code, members of an unlawful assembly as there was ample evidence at the trial that their common object was to cause grievous hurt to Yaou. The remaining issue before us concerns the application of section 149 of the Penal Code to the circumstances of this case. 
 
 
-16\. The meaning of the term ‘common object’ has been considered by the courts on innumerable occasions. In _Chandran v Public Prosecutor,_ [1992] 2 SLR 265, 269, this court noted as follows: 
+16\. The meaning of the term ‘common object’ has been considered by the courts on innumerable occasions. In _Chandran v Public Prosecutor,_ <span class="citation">[1992] 2 SLR 265</span>, 269, this court noted as follows: 
 
  Section 149 does not require proof of a pre-arranged plan and a common intention which a prosecution involving s 34 of the Code would require. The ‘common object’ under s 149 of the Code must not be confused with the ‘common intention’ under s 34 of the Code. Though they both deal with what may be called ‘constructive liability’ for crime, it is important to see the distinction and the way both sections operate. 
 
@@ -155,7 +155,7 @@ _The second appellant’s other grounds of appeal_
 23\. As for Dornchinnamat’s assertion that the confession of his co-accused, Thongthot, should not have been given any weight by the trial judge, the courts have, on numerous occasions, considered whether or 
 
 
-not a confession of an accused may be used against a co-accused. In _Chin Seow Noi v Public Prosecutor_ [1994] 1 SLR 135, this court reiterated that the conviction of an accused can be sustained solely on the basis of a confession by his co-accused if the confession establishes beyond reasonable doubt that the accused is guilty. In the present case, there was no incentive for Thongthot to lie about Dornchinnamat’s role in the murder of Yaou. He had already admitted that he was part of the gang that took Yaou’s life and his account of the events at Kian Teck on the evening of 2 June 2001, including the fact that Dornchinnamat slashed Yaou on the head, is consistent with Dornchinnamat’s own admission in his statements to the police and with the eye-witness account by Yaou’s girlfriend, Nam. As such, the trial judge was entitled to take into account Thongthot’s evidence that Dornchinnamat played a role in the killing of Yaou. 
+not a confession of an accused may be used against a co-accused. In _Chin Seow Noi v Public Prosecutor_ <span class="citation">[1994] 1 SLR 135</span>, this court reiterated that the conviction of an accused can be sustained solely on the basis of a confession by his co-accused if the confession establishes beyond reasonable doubt that the accused is guilty. In the present case, there was no incentive for Thongthot to lie about Dornchinnamat’s role in the murder of Yaou. He had already admitted that he was part of the gang that took Yaou’s life and his account of the events at Kian Teck on the evening of 2 June 2001, including the fact that Dornchinnamat slashed Yaou on the head, is consistent with Dornchinnamat’s own admission in his statements to the police and with the eye-witness account by Yaou’s girlfriend, Nam. As such, the trial judge was entitled to take into account Thongthot’s evidence that Dornchinnamat played a role in the killing of Yaou. 
 
  D. CONCLUSION 
 

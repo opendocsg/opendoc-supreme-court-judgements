@@ -637,7 +637,7 @@ this as a lump sum contract. [note: 50] That assumption was also supported by th
 
 oral communications between the parties which assured the Plaintiff of payment. [note: 51] The Plaintiff said that, at all material times, it was understood that the Defendants would pay the Plaintiff for the additional labour required for the works, which was why the final invoices were not prepared till much later. 
 
-36     The parties accepted the requirements to establish an estoppel by convention as laid down in _Singapore Telecommunications Ltd v Starhub Cable Vision Ltd_ [2006] 2 SLR(R) 195, namely that – 
+36     The parties accepted the requirements to establish an estoppel by convention as laid down in _Singapore Telecommunications Ltd v Starhub Cable Vision Ltd_ <span class="citation">[2006] 2 SLR(R) 195</span>, namely that – 
 
  (a) The parties to a transaction act on an assumed state of facts or law; 
 

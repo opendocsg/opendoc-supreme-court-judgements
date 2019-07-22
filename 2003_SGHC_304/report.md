@@ -78,7 +78,7 @@ The magistrate took into ac c ount a number of mitigating fac tors and imposed a
 
 **Whether the magistrate erred in failing to take into account Poh Kim’s abuse of the defence of parallel import** 
 
-17     I was of the view that Poh Kim Video’s advanc ement of the defenc e of parallel import at the trial below c ould not be regarded as an aggravating fac tor. It would be wrong to penalise Poh Kim Video for raising this defenc e bec ause they had every right to do so. As I have previously held in c ases suc h as _Zeng Guoyuan v PP_ [1997] 3 SLR 321, while the sc andalous or reprehensible c onduc t of one’s defenc e may c onstitute an aggravating fac tor in c ertain c ases, an ac c used is entitled to raise any type of defenc e nec essary to his c ase, even if this defenc e is sc andalous or vexatious in nature. In _Zeng Guoyuan_ , I quoted with approval the following passage from Mohamed Azmi J’s judgment in _Ahmad Shah bin Hashim v PP_ [1980] 1 MLJ 77 at 86: 
+17     I was of the view that Poh Kim Video’s advanc ement of the defenc e of parallel import at the trial below c ould not be regarded as an aggravating fac tor. It would be wrong to penalise Poh Kim Video for raising this defenc e bec ause they had every right to do so. As I have previously held in c ases suc h as _Zeng Guoyuan v PP_ <span class="citation">[1997] 3 SLR 321</span>, while the sc andalous or reprehensible c onduc t of one’s defenc e may c onstitute an aggravating fac tor in c ertain c ases, an ac c used is entitled to raise any type of defenc e nec essary to his c ase, even if this defenc e is sc andalous or vexatious in nature. In _Zeng Guoyuan_ , I quoted with approval the following passage from Mohamed Azmi J’s judgment in _Ahmad Shah bin Hashim v PP_ [1980] 1 MLJ 77 at 86: 
 
  It is my c onsidered opinion that in a c riminal trial an ac c used person is entitled to put up any type of defenc e that he thinks nec essary and justified in order to raise a reasonable doubt in the prosec ution c ase, and the fact that such defence has not succeeded should not be taken against him in assessing sentence. [Emphasis added] 
 
@@ -87,7 +87,7 @@ The magistrate took into ac c ount a number of mitigating fac tors and imposed a
 19     Further, Poh Kim Video were entirely justified in raising the issue of parallel import as the burden lies on the prosec ution, in making out an offenc e under s 136(2) of the Copyright Ac t, to 
 
 
-prove that an imported artic le whic h is alleged to be an infringing artic le is not a legitimate parallel import: _Highway Video Pte Ltd v Public Prosecutor_ [2002] 1 SLR 129 at 143. 
+prove that an imported artic le whic h is alleged to be an infringing artic le is not a legitimate parallel import: _Highway Video Pte Ltd v Public Prosecutor_ <span class="citation">[2002] 1 SLR 129</span> at 143. 
 
 **Whether the magistrate failed to take into account the fact that Poh Kim’s infringement was on a large scale** 
 

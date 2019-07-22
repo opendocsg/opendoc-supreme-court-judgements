@@ -124,11 +124,11 @@ imposed must necessarily carry a deterrent message. It is completely immaterial 
 
 **Preventive detention** 
 
-23     The Prosecution has submitted that this is an appropriate case for preventive detention in view of the accused’s antecedents. In _PP v Wong Wing Hung_ [1999] 4 SLR 329 at [9], Yong Pung How CJ succinctly summarised the underlying rationale for imposing preventive detention: 
+23     The Prosecution has submitted that this is an appropriate case for preventive detention in view of the accused’s antecedents. In _PP v Wong Wing Hung_ <span class="citation">[1999] 4 SLR 329</span> at [9], Yong Pung How CJ succinctly summarised the underlying rationale for imposing preventive detention: 
 
  [T]he purpose of imposing preventive detention is in order to protect the public. If the offender in question proved by his history of criminal behaviour to be a menace to the society, he should and must be put away for the protection and safety of the community at large. 
 
-In _PP v Perumal s/o Suppiah_ [2000] 3 SLR 308 at [40] and [41], the learned Chief Justice further observed that the issue to be considered is: 
+In _PP v Perumal s/o Suppiah_ <span class="citation">[2000] 3 SLR 308</span> at [40] and [41], the learned Chief Justice further observed that the issue to be considered is: 
 
  ... whether the offender poses such a menace to society that it would be expedient for the protection of the public to subject him to a substantial period of incarceration. This stage of the enquiry should simply focus on the danger which the offender poses to the community at large. Whether he should be incarcerated under the regime of imprisonment or preventive detention is not the subject of the enquiry at this stage. ... 
 
@@ -139,7 +139,7 @@ In _PP v Perumal s/o Suppiah_ [2000] 3 SLR 308 at [40] and [41], the learned Chi
 
 penological objective. The rationale for preventive sentencing is preventive control that extends beyond the parameters of conventional sentencing which requires the sentence to fit the crime. The overwhelming consideration is whether the court is satisfied in the circumstances that it is “expedient for the protection of the public” that an offender be incarcerated for a protracted period. If the court forms the view that such a repeat offender by virtue of his propensity to offend may yet again do so if unchecked, there would be a compelling case for the imposition of a sentence of preventive detention. Such an offender by reason of his past conduct and anticipated future conduct will be viewed as having forfeited his right to be accorded the considerations and attributes peculiar to conventional sentencing. 
 
-25     The goal of preventive detention is primarily to ensure that in instances where there is an appreciable and justifiable concern that a dangerous offender will commit an offence again, he ought not to be “afforded even the slightest opportunity to give sway to his criminal tendencies again”: _Tan Ngin Hai v PP_ [2001] 3 SLR 161 at [8]. Criminals who repeatedly eschew the norms of civilised behaviour cannot complain if harsh measures are taken to isolate them. 
+25     The goal of preventive detention is primarily to ensure that in instances where there is an appreciable and justifiable concern that a dangerous offender will commit an offence again, he ought not to be “afforded even the slightest opportunity to give sway to his criminal tendencies again”: _Tan Ngin Hai v PP_ <span class="citation">[2001] 3 SLR 161</span> at [8]. Criminals who repeatedly eschew the norms of civilised behaviour cannot complain if harsh measures are taken to isolate them. 
 
 26     It is incontrovertible that the accused has a long, chequered and deeply disturbing history of criminal proclivity and behaviour. He has graduated radically and dramatically from an early apprenticeship in petty crime involving property to very serious criminal acts of robbery and, most recently, a brutal assault that claimed a life. He has been incarcerated in a DRC on at least two occasions, served out sentences for different periods in different prisons and received 24 strokes of the cane. His criminal record stretches over a period of almost two decades; the punishment the law has meted out to him in the past has neither inhibited him nor made any appreciable impact on his behaviour. He appears incapable of being rehabilitated either from his recidivist tendencies for crime or his propensity for drug consumption. 
 

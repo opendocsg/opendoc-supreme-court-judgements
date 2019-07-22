@@ -81,7 +81,7 @@ add that in Originating Summons no. 1759 of 2003, Wee Poh was itself placed unde
 13     On 22 September 2004, the first and second defendants were examined in court on the plaintiff’s affairs and on their duties as directors in Originating Summons No. 115 of 2004 (“the OS’), 
 
 
-pursuant to an application taken out under s 285 of the Act against all three defendants by Don Ho (see _Liquidator of W&P Piling Pte Ltd v Chew Yin What & Others_ [2004] 3 SLR 164). The application against the third defendant was dismissed. The first and second defendants were ordered to and did file, affidavits on 8 October 2004 to answer on oath the questions put to them by the liquidator. 
+pursuant to an application taken out under s 285 of the Act against all three defendants by Don Ho (see _Liquidator of W&P Piling Pte Ltd v Chew Yin What & Others_ <span class="citation">[2004] 3 SLR 164</span>). The application against the third defendant was dismissed. The first and second defendants were ordered to and did file, affidavits on 8 October 2004 to answer on oath the questions put to them by the liquidator. 
 
 **_The pleadings_** 
 
@@ -239,7 +239,7 @@ defendant repeated that he did not assume a more proactive role in the plaintiff
 
 65     As stated earlier at [32], I found that the first defendant paid little heed to his duties and responsibilities as a director even though he was a director of a public listed company (the holding company). 
 
-66     The latest pronouncement on the fiduciary and statutory duties of directors is to be found in the Court of Appeal decision in _Townsing Henry George v Jenton Overseas Investment Pte Ltd (in liquidation)_ [2007] 2 SLR 597 (“ _Townsing’s_ case”). The decision of the appellate court was released shortly before the commencement of this trial and consequently was not referred to by the parties. In that case, Chan Sek Keong CJ, held at [59] that the duty of honesty of a director and his duty to act bona fide was a composite obligation. The duty to act honestly under s 157 of the Act was the statutory equivalent of the duty to act bona fide which exists at common law (see the plaintiff’s authorities _Kea Holdings Pte Ltd v Gan Boon Hock_ [2003] 3 SLR129 and _Golden Village Multiplex Pte Ltd v Phoon Chiong Kit_ [2006] 2 SLR307). 
+66     The latest pronouncement on the fiduciary and statutory duties of directors is to be found in the Court of Appeal decision in _Townsing Henry George v Jenton Overseas Investment Pte Ltd (in liquidation)_ <span class="citation">[2007] 2 SLR 597</span> (“ _Townsing’s_ case”). The decision of the appellate court was released shortly before the commencement of this trial and consequently was not referred to by the parties. In that case, Chan Sek Keong CJ, held at [59] that the duty of honesty of a director and his duty to act bona fide was a composite obligation. The duty to act honestly under s 157 of the Act was the statutory equivalent of the duty to act bona fide which exists at common law (see the plaintiff’s authorities _Kea Holdings Pte Ltd v Gan Boon Hock_ [2003] 3 SLR129 and _Golden Village Multiplex Pte Ltd v Phoon Chiong Kit_ [2006] 2 SLR307). 
 
 6       7 _Townsing’s_ case is particularly relevant to this suit because the appellant there was similarly a director of a holding company and its wholly owned subsidiary. Chan Sek Keong CJ held that the appellant fell foul of the “no conflict rule” _vis a vis_ his status as a director of the parent and subsidiary companies, citing passages from some English cases to one of which I now turn my attention. 
 
@@ -271,7 +271,7 @@ the acts of an individual (L) _qua_ a director of a subsidiary (DIFE) were relev
 
 making Wee Poh repay the debt, the first defendant with the concurrence of the second defendant, caused the plaintiff’s financial position/cashflow to worsen further by transferring the five machines to Wee Poh which then sold off the machines and pocketed the proceeds. 
 
-73     I was of the view that the plaintiff was insolvent by virtue of the Scheme. Counsel for the plaintiff had submitted to which I agreed, that as the company was insolvent, the interests of the plaintiff’s creditors became the dominant factor, see _Tong Tien See Construction Pte Ltd v Tong Tien See_ [2002] 3 SLR 76 which relied in turn on _West Mercia Safetywear Ltd v Dodd_ [1988] BCLC 250. Put another way, when a company is insolvent or on the verge of insolvency but not otherwise, it is the 
+73     I was of the view that the plaintiff was insolvent by virtue of the Scheme. Counsel for the plaintiff had submitted to which I agreed, that as the company was insolvent, the interests of the plaintiff’s creditors became the dominant factor, see _Tong Tien See Construction Pte Ltd v Tong Tien See_ <span class="citation">[2002] 3 SLR 76</span> which relied in turn on _West Mercia Safetywear Ltd v Dodd_ [1988] BCLC 250. Put another way, when a company is insolvent or on the verge of insolvency but not otherwise, it is the 
 
 creditors’ interests that are paramount ( _Gore-Brown on Companies_ 45 th edition at 15-13 Part IV). 
 
@@ -296,7 +296,7 @@ that Wee Poh’s alleged schedule referred to by the 1st defendant at [43] showi
 
  excuse the director even if he did act honestly and reasonably ...(emphasis mine) 
 
-78     By no stretch of the imagination could it be said that what the two defendants did was honest and/or reasonable under s 157 of the Act. How could it be said that transferring out and/or disposing of, the five machines and paying the sale proceeds to the plaintiff’s holding company was acting honestly and reasonably in the interests of the plaintiff? I found it galling that the first and second defendants had the audacity to ask for statutory relief when, together with the third defendant (albeit to a lesser degree), they deliberately ran the plaintiff into the ground against the plaintiff’s own interests. This was not a case where it could be said that the first and second directors made _bona fide_ commercial decisions (per VK Rajah JC in _Vita Health Laboratories Pte Ltd v Pang Seng Meng_ [2004] 4 SLR 162) but which decisions turned out to be against the company’s interests. 
+78     By no stretch of the imagination could it be said that what the two defendants did was honest and/or reasonable under s 157 of the Act. How could it be said that transferring out and/or disposing of, the five machines and paying the sale proceeds to the plaintiff’s holding company was acting honestly and reasonably in the interests of the plaintiff? I found it galling that the first and second defendants had the audacity to ask for statutory relief when, together with the third defendant (albeit to a lesser degree), they deliberately ran the plaintiff into the ground against the plaintiff’s own interests. This was not a case where it could be said that the first and second directors made _bona fide_ commercial decisions (per VK Rajah JC in _Vita Health Laboratories Pte Ltd v Pang Seng Meng_ <span class="citation">[2004] 4 SLR 162</span>) but which decisions turned out to be against the company’s interests. 
 
 79     As for the third defendant, I was mindful of his more limited role in the wrongful disposal of the plaintiff’s machines. First, he took no part in the decision to sell the first machine [35]. Second, he was the technical/operations director of the plaintiff. However, those two factors could not exonerate the third defendant altogether as his counsel sought to do in his closing submissions. 
 
@@ -304,7 +304,7 @@ that Wee Poh’s alleged schedule referred to by the 1st defendant at [43] showi
 
 - a nominee director (as the third defendant described himself) owes the same duties to a company as any other director (per Stanley Burton J at [2] in _Globalink Telecommunications Limited v Wilmbury Limited_ [2003] 1 BCLC 145). 
 
-81     It would also be apt to refer _to Kwee Seng Chio Peter v Biogenics Sdn Bhd_ [2003] 2 SLR 482 where Belinda Ang JC (as she then was) observed at [14]: 
+81     It would also be apt to refer _to Kwee Seng Chio Peter v Biogenics Sdn Bhd_ <span class="citation">[2003] 2 SLR 482</span> where Belinda Ang JC (as she then was) observed at [14]: 
 
  ...If a person allows himself to be a mere nominee of, and acts for, another person, without the exercise of his own discretion or volition, in utter disregard for his duties as a director of the company, that nominee director must be bound by the notice which the other person, for whom he acts, has of the nature of the transaction... 
 

@@ -16,7 +16,7 @@
 
 _Revenue Law_ – _Income Taxation_ 
 
-[LawNet Editorial Note: In the appeal to this decision in Civil Appeal No 139 of 2011, the Court of Appeal, on 16 January 2013, ordered the proceedings to be remittted to the Income Tax Board of Review. See [2013] SGCA 3.] 
+[LawNet Editorial Note: In the appeal to this decision in Civil Appeal No 139 of 2011, the Court of Appeal, on 16 January 2013, ordered the proceedings to be remittted to the Income Tax Board of Review. See <span class="citation">[2013] SGCA 3</span>.] 
 
 17 October 2011 Judgment reserved. 
 
@@ -101,7 +101,7 @@ meaning of Section 93A of [the Act]”.
 
 20     Section 15(1)(b) reinforces section 14(1) by emphasizing that any other types of disbursements or expenses “not being money wholly and exclusively laid out or expended for the purpose of acquiring the income” are not allowed as deductions. 
 
-21     The statutory framework thus emphasizes that the touchstone for deductibility of expenses is that they must necessarily be incurred for the specific purpose of the production of income. The Court of Appeal in _Pinetree Resort Pte Ltd v Comptroller of Income Tax_ [2000] 3 SLR(R) 136 stressed (at [47]) that section 14(1) “ _requires a nexus_ between the incurrence of the expense and the production of income.” [emphasis added] 
+21     The statutory framework thus emphasizes that the touchstone for deductibility of expenses is that they must necessarily be incurred for the specific purpose of the production of income. The Court of Appeal in _Pinetree Resort Pte Ltd v Comptroller of Income Tax_ <span class="citation">[2000] 3 SLR(R) 136</span> stressed (at [47]) that section 14(1) “ _requires a nexus_ between the incurrence of the expense and the production of income.” [emphasis added] 
 
 22     The general requirement of a “nexus” in the relevant statutory provisions, however, does not in itself shed light on how losses sustained by a company due to the defalcation of an employee is to be treated. When would losses resulting from defalcation have sufficient nexus to be considered “wholly and exclusively incurred ... in the production of the income”? 
 

@@ -206,7 +206,7 @@ Counsel agree that this means that the drawings and the description of the inven
 
  each case is: whether persons with practical knowledge and experience of the kind of work in which the invention was intended to be used, would understand that strict compliance with a particular descriptive word or phrase appearing in a claim was intended by the patentee to be an essential requirement of the invention so that any variant would fall outside the monopoly claimed, even though it could have no material effect upon the way the invention worked. 
 
-29     However this approach does not allow one to incorporate features from the description or drawings that are omitted from the claims. It is not meant to fill gaps in the claims. In _Bean Innovations Pte Ltd & Anor v Flexon (Pte) Ltd_ [2001] 3 SLR 121, the Court of Appeal set out the limitations to the purposive approach at paragraph 27: 
+29     However this approach does not allow one to incorporate features from the description or drawings that are omitted from the claims. It is not meant to fill gaps in the claims. In _Bean Innovations Pte Ltd & Anor v Flexon (Pte) Ltd_ <span class="citation">[2001] 3 SLR 121</span>, the Court of Appeal set out the limitations to the purposive approach at paragraph 27: 
 
  27 We should add that the well-known principle that patent claims are to be given a purposive construction does not mean that the court in construing a claim is entitled to disregard the clear and unambiguous words used to describe the essential features of a claim. In Socit Technique de Pulverisation STEP v Emson Europe [1993] RPC 513 at 522, Hoffmann LJ said: 
 
@@ -372,7 +372,7 @@ picture. The hinge in the current model is not welded to the arm and leg and the
 
  ... the question is, whether there can be any invention of the Plaintiff in having taken that thing which was a fish for a bridge, and having applied it as a fish to a railway. Upon that I think that the law is well and rightly settled, for there would be no end to the interference with trade, and with the liberty of any mechanical contrivance being adapted, if every slight difference in the application of a wellknown thing were held to constitute a patent ... No sounder or more wholesome doctrine, I think, was ever established than ... that you cannot have a patent for a well-known mechanical contrivance merely when it is applied in a manner or to a purpose, which is not quite the same, but is analogous to the manner or the purpose in or to which it has been hitherto notoriously used. 
 
-47     In _Merck & Co Inc v Pharmaforte Singapore Pte Ltd_ [2000] 3 SLR 717 the Court of Appeal approved the test for inventiveness found in the judgments of the English Court of Appeal and High Court in _Genentech Inc`s Patent_ [1989] RPC 147. Chao JA said at 
+47     In _Merck & Co Inc v Pharmaforte Singapore Pte Ltd_ <span class="citation">[2000] 3 SLR 717</span> the Court of Appeal approved the test for inventiveness found in the judgments of the English Court of Appeal and High Court in _Genentech Inc`s Patent_ [1989] RPC 147. Chao JA said at 
 
 
 paragraphs 61-62: 

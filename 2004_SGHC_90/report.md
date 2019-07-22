@@ -127,7 +127,7 @@ and that:
 
  [emphasis added] 
 
-20     The Court of Appeal had in _Lee Kuan Yew v Tang Liang Hong_ [1997] 3 SLR 489 held at [16] 
+20     The Court of Appeal had in _Lee Kuan Yew v Tang Liang Hong_ <span class="citation">[1997] 3 SLR 489</span> held at [16] 
 
 ## [3] 
 
@@ -144,7 +144,7 @@ that:
 
  To obtain leave to appeal when the amount involved is below the statutory amount an applicant for leave must show that a serious and important issue of law is involved ... The circumstances for granting leave would include (though obviously not limited to) cases where an applicant is able to demonstrate a prima facie case of error or if the question is one of general principle upon which further argument and a decision of a higher tribunal would be to public advantage. That was pronounced by Edgar Joseph Jr J in Pang Hon Chin’s case ([1986] 2 MLJ 145). These propositions have a common thread: that to deny leave may conceivably result in a miscarriage of justice. 
 
-22     In _Abdul Rahman bin Shariff v Abdul Salim bin Syed_ [1999] 4 SLR 716 Tay Yong Kwang JC (as he then was) also referred to _Anthony s/o Savarimiuthu_ and stated at [30] and [31]: 
+22     In _Abdul Rahman bin Shariff v Abdul Salim bin Syed_ <span class="citation">[1999] 4 SLR 716</span> Tay Yong Kwang JC (as he then was) also referred to _Anthony s/o Savarimiuthu_ and stated at [30] and [31]: 
 
  30 I should clarify here the words “a prima facie case of error” used in Anthony Savarimiuthu’s case. In another application of this nature heard by me, the applicant there sought to demonstrate a prima facie case of error by referring me to the evidence adduced at the trial and attempting to show that the collision could not have occurred in the way described by the plaintiff there on such evidence. That, in my view, was no more than an attempt to show an erroneous conclusion on the facts of the case for which leave to appeal must be and was denied. If it were otherwise and facts have to be examined in detail in each case to demonstrate the error, the High Court might as well hear the appeal proper. 
 
@@ -156,7 +156,7 @@ that:
 
  (c) to show a question of law on which there is a conflict of judicial authority and a pronouncement from a higher court in the judicial hierarchy is desirable. 
 
-23     In _Goh Kim Heong v AT & J Co Pte Ltd_ [2001] 4 SLR 262, I dealt with another application for leave to appeal. After referring to the three decisions referred to above, I suggested that in determining whether to grant leave, the value of the proposed appeal and the costs and time burdens the appeal would place on the parties and the appellate court should also be taken into account. 
+23     In _Goh Kim Heong v AT & J Co Pte Ltd_ <span class="citation">[2001] 4 SLR 262</span>, I dealt with another application for leave to appeal. After referring to the three decisions referred to above, I suggested that in determining whether to grant leave, the value of the proposed appeal and the costs and time burdens the appeal would place on the parties and the appellate court should also be taken into account. 
 
 24     There appears to be some uncertainty whether a _prima facie_ case of error is sufficient basis for granting leave, as suggested in _Anthony s/o Savarimiuthu_ , or whether that should be limited to errors of law as stated in _Abdul Rahman_. 
 

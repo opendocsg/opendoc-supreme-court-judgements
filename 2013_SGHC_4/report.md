@@ -410,9 +410,9 @@ the tender for the MDC programme to Roffey Park, including but not limited to: [
 
  (b) the NCC was reasonable with reference to the parties’ interests; and 
 
- (c) the NCC was reasonable with reference to the public interest ( Smile Inc Dental Surgeons Pte Ltd v Lui Andrew Stewart [2012] 4 SLR 308 (“ Smile CA ”) at [19]). 
+ (c) the NCC was reasonable with reference to the public interest ( Smile Inc Dental Surgeons Pte Ltd v Lui Andrew Stewart <span class="citation">[2012] 4 SLR 308</span> (“ Smile CA ”) at [19]). 
 
-All three questions must be answered in the positive for CCL APAC to succeed on Issue 1 ( _Smile Inc Dental Surgeons Pte Ltd v Lui Andrew Stewart_ [2012] 1 SLR 847 (“ _Smile HC_ ”) at [67]). 
+All three questions must be answered in the positive for CCL APAC to succeed on Issue 1 ( _Smile Inc Dental Surgeons Pte Ltd v Lui Andrew Stewart_ <span class="citation">[2012] 1 SLR 847</span> (“ _Smile HC_ ”) at [67]). 
 
 43     The second issue (“Issue 2”) is whether CCL APAC is estopped from relying on the NCC as against Mr Byrne. It must be determined whether: 
 
@@ -433,7 +433,7 @@ have breached his fiduciary duties to CCL APAC. [note: 112]
 
 **Issue 1: Whether the NCC is enforceable?** 
 
-46     The applicable principles on the validity of restraint of trade covenants have been canvassed in the Singapore Court of Appeal case of _Man Financial (S) Ptd Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ [2008] 1 SLR(R) 663 (“ _Man Financial_ ”), and will be stated briefly in my judgment. All restraint of trade covenants are _prima facie_ void ( _Man Financial_ at [69] affirming _Thorsten Nordenfelt (pauper) v The Maxim Nordenfelt Guns and Ammunition Company, Limited_ [1894] AC 535 at 565; _Smile HC_ at [66]). However, they may be upheld if the restriction (on trade) is reasonable, _ie_ , with reference to the interests of the parties concerned and reasonable in reference to the interests of the public. These two aspects of reasonableness are distinct ( _Man Financial_ at [77]; _CLAAS Medical Centre Pte Ltd v Ng Boon Ching_ [2010] 2 SLR 386 at [44]). 
+46     The applicable principles on the validity of restraint of trade covenants have been canvassed in the Singapore Court of Appeal case of _Man Financial (S) Ptd Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ <span class="citation">[2008] 1 SLR(R) 663</span> (“ _Man Financial_ ”), and will be stated briefly in my judgment. All restraint of trade covenants are _prima facie_ void ( _Man Financial_ at [69] affirming _Thorsten Nordenfelt (pauper) v The Maxim Nordenfelt Guns and Ammunition Company, Limited_ [1894] AC 535 at 565; _Smile HC_ at [66]). However, they may be upheld if the restriction (on trade) is reasonable, _ie_ , with reference to the interests of the parties concerned and reasonable in reference to the interests of the public. These two aspects of reasonableness are distinct ( _Man Financial_ at [77]; _CLAAS Medical Centre Pte Ltd v Ng Boon Ching_ <span class="citation">[2010] 2 SLR 386</span> at [44]). 
 
 **_Whether CCL APAC had any legitimate interest to protect_** 
 
@@ -456,7 +456,7 @@ it was found in the employment agreements of all employees of CCL APAC (except f
 
 54     I am of the view that if CCL APAC has a legitimate interest to protect _vis-à-vis_ Mr Jenkins and Mr Byrne, this does not change just because it might not have a legitimate interest to protect _vis-avis_ employees who are more junior than those two men. 
 
-55     There are generally two main interests which have been identified by courts as meriting protection in the context of covenants in restraint of trade: trade secrets and trade connection ( _Man Financial_ at [81]). The court will construe the contractual wording of the restraint of trade covenant and the surrounding circumstances to ascertain the interest intended to be protected ( _Buckman Laboratories (Asia) Pte Ltd v Lee Wei Hoong_ [1999] 1 SLR(R) 205 at [22]). 
+55     There are generally two main interests which have been identified by courts as meriting protection in the context of covenants in restraint of trade: trade secrets and trade connection ( _Man Financial_ at [81]). The court will construe the contractual wording of the restraint of trade covenant and the surrounding circumstances to ascertain the interest intended to be protected ( _Buckman Laboratories (Asia) Pte Ltd v Lee Wei Hoong_ <span class="citation">[1999] 1 SLR(R) 205</span> at [22]). 
 
 _Trade connection_ 
 
@@ -622,7 +622,7 @@ Clause”). I set out the clause in Mr Byrne’s employment agreement from which
 
  Promptly following the termination of this Agreement for any reason, Employee shall not continue to represent the Company without prior written permission of the Company. It is understood that confidential information and trade secrets do not include knowledge, skills or information which is common to the trade or profession of Employee, information already known to Employee at the time it was obtained from the Company or its parent organization, information which becomes publicly known through no wrongful act of Employee, or is rightfully received by Employee from a third party without restriction. 
 
-87     The Court of Appeal has affirmed in _Man Financial_ at [92] and _Stratech Systems Ltd v Nyam Chiu Shin (alias Yan Qiuxin) and others_ [2005] 2 SLR(R) 579 (“ _Stratech_ ”) at [48]–[49] that where there is another clause in the employment agreement that pertains to the protection of confidential information or trade secrets, the employer has to show that an NCC protects a legitimate proprietary interest “ _over and above_ the protection of confidential information or trade secrets” [emphasis in original] ( _Man Financial_ at [92]). 
+87     The Court of Appeal has affirmed in _Man Financial_ at [92] and _Stratech Systems Ltd v Nyam Chiu Shin (alias Yan Qiuxin) and others_ <span class="citation">[2005] 2 SLR(R) 579</span> (“ _Stratech_ ”) at [48]–[49] that where there is another clause in the employment agreement that pertains to the protection of confidential information or trade secrets, the employer has to show that an NCC protects a legitimate proprietary interest “ _over and above_ the protection of confidential information or trade secrets” [emphasis in original] ( _Man Financial_ at [92]). 
 
 88     Mr Maniam sought to dispute this proposition by relying on the case of _The Littlewoods Organisation Ltd v Harris_ [1978] 1 All ER 1026 (“ _Littlewoods_ ”) which he argued was not considered by 
 
@@ -869,13 +869,13 @@ make it valid would require a rewriting of the contract between the parties.
 
 134    As mentioned above at [43], the defendants were relying on an estoppel. Specifically, they relied on promissory estoppel to preclude CCL APAC from enforcing the NCC. A party that seeks to raise the plea of promissory estoppel must show that: 
 
- (a) there was a promise or representation that is clear and unequivocal by one party to a legal relationship to the other ( Ng Teck Sim Colin and another v Hat Holdings Pte Ltd and another [2010] 4 SLR 840 at [53]; Woodhouse AC Israel Cocoa Ltd SA and Another v Nigerian Produce Marketing Co Ltd [1972] 1 AC 741 at 755; see also Sean Wilken QC and Karim Ghaly, The Law of Waiver, Variation, and Estoppel (Oxford University Press, 3rd Ed, 2012) (“Wilken and Ghaly”) at para 8.03); 
+ (a) there was a promise or representation that is clear and unequivocal by one party to a legal relationship to the other ( Ng Teck Sim Colin and another v Hat Holdings Pte Ltd and another <span class="citation">[2010] 4 SLR 840</span> at [53]; Woodhouse AC Israel Cocoa Ltd SA and Another v Nigerian Produce Marketing Co Ltd [1972] 1 AC 741 at 755; see also Sean Wilken QC and Karim Ghaly, The Law of Waiver, Variation, and Estoppel (Oxford University Press, 3rd Ed, 2012) (“Wilken and Ghaly”) at para 8.03); 
 
  (b) the representee acted in reliance on the representation or promise; and 
 
  (c) there was detriment (or more accurately, that it would be inequitable for the representor to go back on his representation). 
 
-(See generally, _Lam Chi Kin David v Deutsche Bank AG_ [2010] 2 SLR 896 at [50]; Piers Feltham _et al_ , _Spencer Bower_ , _The Law Relating to Estoppel by Representation_ (LexisNexis, 4th Ed, 2004) (“Spencer Bower”) at pp 449–486; Wilken and Ghaly at paras 8.39, 8.44–8.45.) 
+(See generally, _Lam Chi Kin David v Deutsche Bank AG_ <span class="citation">[2010] 2 SLR 896</span> at [50]; Piers Feltham _et al_ , _Spencer Bower_ , _The Law Relating to Estoppel by Representation_ (LexisNexis, 4th Ed, 2004) (“Spencer Bower”) at pp 449–486; Wilken and Ghaly at paras 8.39, 8.44–8.45.) 
 
 **_Whether the alleged representations were made by Mr Draeger_** 
 
@@ -1139,9 +1139,9 @@ The House of Lords found that while the plaintiff could arguably make a claim fo
 
  Although there is not a great deal of authority, and none in the Court of Appeal, relating to solicitors failing to give advice which is directly in point, I have no doubt that Mr. Jackson’s submission is wrong and the second alternative is correct. 
 
-189    Stuart-Smith LJ’s analysis was cited with approval by the Court of Appeal in _Asia Hotel Investments Ltd v Starwood Asia Pacific Management Pte Ltd and another_ [2005] 1 SLR(R) 661. The majority judgment delivered by Chao Hick Tin JA cited at [136] the Category 3 test and analysis with approval and the minority judgment of Yong Pung How CJ cited at [47] and [48] all the three tests also with approval. The majority and minority parted company on the evaluation of the facts but not on this aspect of the law. 
+189    Stuart-Smith LJ’s analysis was cited with approval by the Court of Appeal in _Asia Hotel Investments Ltd v Starwood Asia Pacific Management Pte Ltd and another_ <span class="citation">[2005] 1 SLR(R) 661</span>. The majority judgment delivered by Chao Hick Tin JA cited at [136] the Category 3 test and analysis with approval and the minority judgment of Yong Pung How CJ cited at [47] and [48] all the three tests also with approval. The majority and minority parted company on the evaluation of the facts but not on this aspect of the law. 
 
-190    The tripartite framework was endorsed again by the Court of Appeal in _JSI Shipping (S) Pte Ltd v Teofoongwonglcloong (a firm)_ [2007] 4 SLR(R) 460 at [147] and in _Auston International Group Ltd v Ng Swee Hua_ [2009] 4 SLR(R) 628 at [38]. 
+190    The tripartite framework was endorsed again by the Court of Appeal in _JSI Shipping (S) Pte Ltd v Teofoongwonglcloong (a firm)_ <span class="citation">[2007] 4 SLR(R) 460</span> at [147] and in _Auston International Group Ltd v Ng Swee Hua_ <span class="citation">[2009] 4 SLR(R) 628</span> at [38]. 
 
 191    I come now to two decisions. The first is by Lightman J of the High Court in _Bank of Credit and_ 
 

@@ -99,7 +99,7 @@ A consent order is open to attack on grounds upon which a contract is so open. T
 
  A consent judgment or order is meant to be the formal result and expression of an agreement already arrived at between the parties to proceedings embodied in an order of the Court. The fact of its being so expressed puts the parties in a different position from the position of those who have simply entered into an ordinary agreement. It is, of course, enforceable while it stands, and a party affected by it cannot, if he conceives he is entitled to relief from its operation, simply wait until it is sought to be enforced against him, and then raise by way of defence the matters in respect of which he desires to be relieved. He must, when once it has been completed, obey it, unless and until he can get it set aside in proceedings duly constituted for the purpose. 
 
-The above decision was recently followed by Lee Seiu Kin JC in **Wiltopps (Asia) Ltd v Drew & Napier (sued as a firm)** [2000] 3 SLR 244. 
+The above decision was recently followed by Lee Seiu Kin JC in **Wiltopps (Asia) Ltd v Drew & Napier (sued as a firm)** <span class="citation">[2000] 3 SLR 244</span>. 
 
 Mr Jeyaretnam alleged that the consent order should not be enforced because it was extorted from him. If this is so, he should have taken steps to have the consent order set aside. In any case, this was an unsubstantiated allegation. Mr Jeyaretnam merely said as follows: 
 

@@ -304,7 +304,7 @@ The defence of change of position was recognised – some say, created – in _L
 
  At present I do not wish to state the principle any less broadly than this: that the defence is available to a person whose position has so changed that it would be inequitable in all the circumstances to require him to make restitution , or alternatively to make restitution in full. ( emphasis added ) 
 
-In _Seagate Technology Pte Ltd v Goh Han Kim_ [1995] 2 SLR 17, the court noted that this defence was also available in Singapore. It would seem that there are three elements to the defence: 
+In _Seagate Technology Pte Ltd v Goh Han Kim_ <span class="citation">[1995] 2 SLR 17</span>, the court noted that this defence was also available in Singapore. It would seem that there are three elements to the defence: 
 
 a The payee has changed his position. 
 
@@ -460,7 +460,7 @@ Hence the judge could exercise her discretion to award interest from the dates t
 
 _Party-and-party costs in general_ 
 
-57     The principles governing the award of costs are elucidated in _Re Elgindata Ltd (No 2)_ [1993] 1 All ER 232, and adopted in Singapore in _Tullio v Maoro_ [1994] 2 SLR 489. The relevant passage in _Re Elgindata Ltd (No 2)_ provides: 
+57     The principles governing the award of costs are elucidated in _Re Elgindata Ltd (No 2)_ [1993] 1 All ER 232, and adopted in Singapore in _Tullio v Maoro_ <span class="citation">[1994] 2 SLR 489</span>. The relevant passage in _Re Elgindata Ltd (No 2)_ provides: 
 
  The principles are these. (1) Costs are in the discretion of the court. (2) They should follow the event, except when it appears to the court that... some other order should be made. (3) The general rule does not cease to apply simply because the successful party raises issues or makes allegations on which he fails, but where that has caused a significant increase in the length or cost of the proceedings he may be deprived of the whole or a part of his costs. (4) Where the successful party raises issues or makes allegations improperly or unreasonably, the court may not only deprive him of his costs but order him to pay the whole or a part of the unsuccessful party’s costs... the fourth implies that a successful party who neither improperly nor unreasonably raises issues or makes allegations on which he fails ought not to be ordered to pay any part of the unsuccessful party’s costs. 
 

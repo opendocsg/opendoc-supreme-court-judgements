@@ -257,7 +257,7 @@ DBS account between March and August 2008, from ATMs both in Singapore and Taiwa
 
 her computer. [note: 7] 
 
-41     In _ACU v ACR_ [2011] 1 SLR 1235, I set out the principles for admitting new evidence at this stage. I will not repeat them. In summary, the additional evidence which the Wife sought to adduce might have a material bearing on the outcome of the appeal before me. In view of the particular circumstances before me, I decided to allow SUM 14782 to admit all the new evidence and then decide what weight to give each piece of new evidence. 
+41     In _ACU v ACR_ <span class="citation">[2011] 1 SLR 1235</span>, I set out the principles for admitting new evidence at this stage. I will not repeat them. In summary, the additional evidence which the Wife sought to adduce might have a material bearing on the outcome of the appeal before me. In view of the particular circumstances before me, I decided to allow SUM 14782 to admit all the new evidence and then decide what weight to give each piece of new evidence. 
 
 **_Division of matrimonial assets_** 
 

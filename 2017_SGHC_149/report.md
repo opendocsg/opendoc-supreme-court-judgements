@@ -20,7 +20,7 @@ _Tort_ – _Vicarious liability_
 
 _Tort_ – _Negligence_ – _Breach of duty_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 66 of 2017 was allowed by the Court of Appeal on 5 July 2018. See [2018] SGCA 37.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 66 of 2017 was allowed by the Court of Appeal on 5 July 2018. See <span class="citation">[2018] SGCA 37</span>.] 
 
 28 June 2017 
 
@@ -143,7 +143,7 @@ lawyers that they had decided “not to take further action against the accused�
 
 23     The plaintiff’s case against HSR was based on vicarious liability, alternatively agency. 
 
-24     A defendant can be vicariously liable for the act of another even though the act cannot be said to have been authorised by the defendant: Tan Cheng Han SC, _The Law of Agency_ (Academy Publishing, 2nd Ed, 2017) (“ _Law of_ Agency”) at para 02.003. Vicarious liability is imposed on the defendant for policy reasons: _Ng Huat Seng and another v Munib Mohammad Madni and another_ [2016] 4 SLR 373 (“ _Ng Huat Seng_ ”) at [16] citing _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another appeal_ [2011] 3 SLR 540 (“ _Skandinaviska_ ”) at [76]–[80]. As will be seen later, the question in vicarious liability is whether the conduct of the tortfeasor has a sufficient connection with the relationship between the tortfeasor and the defendant such that it may be said that vicarious liability may arise. 
+24     A defendant can be vicariously liable for the act of another even though the act cannot be said to have been authorised by the defendant: Tan Cheng Han SC, _The Law of Agency_ (Academy Publishing, 2nd Ed, 2017) (“ _Law of_ Agency”) at para 02.003. Vicarious liability is imposed on the defendant for policy reasons: _Ng Huat Seng and another v Munib Mohammad Madni and another_ <span class="citation">[2016] 4 SLR 373</span> (“ _Ng Huat Seng_ ”) at [16] citing _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd and another and another appeal_ <span class="citation">[2011] 3 SLR 540</span> (“ _Skandinaviska_ ”) at [76]–[80]. As will be seen later, the question in vicarious liability is whether the conduct of the tortfeasor has a sufficient connection with the relationship between the tortfeasor and the defendant such that it may be said that vicarious liability may arise. 
 
 25     In contrast, in the case of agency, a principal’s liability for the act of his agent depends on whether the act was within the agent’s authority: _Law of Agency_ at para 02.011. 
 

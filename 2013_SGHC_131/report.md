@@ -243,7 +243,7 @@ _What were the terms of the offer made by Mr Lim to Mr Ong?_
 
 31     It was uncontroversial that Mr Lim did make an offer to Mr Ong to purchase the Shares. The controversy surrounds what the _terms_ of this offer were. I should point out that the differences between the parties on the terms of the offer was only of consequence to the issue of whether there was a valid acceptance of Mr Lim’s offer by Mr Ong and it is imperative that the terms of the offer are identified right at the outset. 
 
-32     It is settled law that offer and acceptance as concepts of contract formation constitute the objective manifestations of an intention to contract: see _Gay Choon Ing v Loh Sze Ti Terence Peter_ [2009] 2 SLR(R) 332 (“ _Gay Choon Ing_ ”) and _Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (Trading as Rabobank International), Singapore Branch v Motorola Electronics Pte Ltd_ [2011] 2 SLR 63. 
+32     It is settled law that offer and acceptance as concepts of contract formation constitute the objective manifestations of an intention to contract: see _Gay Choon Ing v Loh Sze Ti Terence Peter_ <span class="citation">[2009] 2 SLR(R) 332</span> (“ _Gay Choon Ing_ ”) and _Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (Trading as Rabobank International), Singapore Branch v Motorola Electronics Pte Ltd_ <span class="citation">[2011] 2 SLR 63</span>. 
 
 33     In the context of an offer, it is stated in _The Law of Contract in Singapore_ (Andrew B L Phang gen ed) (Academy Publishing, 2012) (“ _The Law of Contract in Singapore_ ”) at para 03.024 that “the key element of an offer is that of intention” and that “[t]his ... has to be ascertained objectively”. The learned authors further elaborate that: 
 
@@ -268,7 +268,7 @@ It is further noted in Andrew B L Phang and Goh Yi Han, _Contract Law in Singapo
 
 _Contract Law in Singapore_ also states at para 146 that “anything less than an unconditional and unqualified assent to the terms of the offer renders the purported acceptance a _counter-offer_ instead [emphasis in original]”. 
 
-37     Counsel for Mr Ong, Mr Devinder Rai (“Mr Rai”), submitted that the Acceptance SMS did not constitute valid acceptance of Mr Lim’s offer and was, at most, a counter-offer. This was because the terms of the offer made by Mr Lim were that Mr Lim would pay Mr Ong $345,000 and that Mr Ong could keep the Car in return for the Shares, while the terms discernible from the Acceptance SMS were that Mr Lim would pay Mr Ong $345,000 and that “all documents ready to sign”. That the terms in the offer and the acceptance were different must mean that Mr Ong did not accept the offer made by Mr Lim, but was instead making a counter-offer. In making the submission, Mr Rai relied on the judgment of Judith Prakash J in _Overseas Union Insurance v Turegum Insurance Co_ [2001] 2 SLR(R) 285 (“ _Overseas Union Insurance_ ”), which states (at [29]): 
+37     Counsel for Mr Ong, Mr Devinder Rai (“Mr Rai”), submitted that the Acceptance SMS did not constitute valid acceptance of Mr Lim’s offer and was, at most, a counter-offer. This was because the terms of the offer made by Mr Lim were that Mr Lim would pay Mr Ong $345,000 and that Mr Ong could keep the Car in return for the Shares, while the terms discernible from the Acceptance SMS were that Mr Lim would pay Mr Ong $345,000 and that “all documents ready to sign”. That the terms in the offer and the acceptance were different must mean that Mr Ong did not accept the offer made by Mr Lim, but was instead making a counter-offer. In making the submission, Mr Rai relied on the judgment of Judith Prakash J in _Overseas Union Insurance v Turegum Insurance Co_ <span class="citation">[2001] 2 SLR(R) 285</span> (“ _Overseas Union Insurance_ ”), which states (at [29]): 
 
  As Treitel states (at p 41) an offeree who attempts to accept an offer on new terms, not contained in the original offer, may be rejecting the original offer and instead making a counteroffer. Such offeree cannot later accept the original offer. To accept an offer, the offeree must, as Prof Phang states (at p 96): 
 
@@ -352,7 +352,7 @@ I found that parties had arrived at substantial or essential agreement, and ther
 
  The aforementioned paragraphs suggest (correctly, in our view) that the courts look at the whole course of the negotiations between both parties in order to ascertain if an agreement is reached at any given point in time. It should further be noted that where such a point is identified, the mere fact that negotiations are continued thereafter does not of itself affect the existence of the agreement already concluded. Of course, if the continued negotiations disclose an agreed rescission of an agreement already concluded, then the position is quite different. [emphasis in original] 
 
-Mr Rai also relied on a passage from _Chitty on Contracts_ vol 1 (H G Beale gen ed) (Sweet & Maxwell, 30th Ed, 2008), approved by Lee Seiu Kin J in _Uncharted Business Pte Ltd v Asiasoft Online Pte Ltd_ [2009] SGHC 188 at [21]: 
+Mr Rai also relied on a passage from _Chitty on Contracts_ vol 1 (H G Beale gen ed) (Sweet & Maxwell, 30th Ed, 2008), approved by Lee Seiu Kin J in _Uncharted Business Pte Ltd v Asiasoft Online Pte Ltd_ <span class="citation">[2009] SGHC 188</span> at [21]: 
 
  On the issue of mutual consent to terminate an agreement, Chitty on Contracts (Sweet & Maxwell, 30th Ed 2008) vol 1 at paras 22-025–22-026 states: 
 
@@ -401,7 +401,7 @@ In that case, parties entered into a contract for the sale of a ship which conta
 65     In _Re An Arbitration Between Hainan Machinery Import and Export Corp and Donald & McArthy_ 
 
 
-_Pte Ltd_ [1995] 3 SLR(R) 354, Judith Prakash J considered an abandonment claim raised by the defendants, and made references to the _Hannah Blumenthal_ and the _The Splendid Sun_. The claim was dismissed, _inter alia_ , on the ground that there was no long period of inactivity. 
+_Pte Ltd_ <span class="citation">[1995] 3 SLR(R) 354</span>, Judith Prakash J considered an abandonment claim raised by the defendants, and made references to the _Hannah Blumenthal_ and the _The Splendid Sun_. The claim was dismissed, _inter alia_ , on the ground that there was no long period of inactivity. 
 
 66     In the present case, the inactivity pleaded was that Mr Lim did not seek to enforce the 19 March 2012 Agreement since, as alleged by Mr Ong, the terms of the sale of the Shares were still being negotiated between them even after 19 March 2012. Even if Mr Ong’s claims were accepted, the period of inactivity would only amount to a mere two months (which was the time until OS 460 was filed), and cannot be considered an adequate time period of inactivity for abandonment to be found. As suggested in _The Law of Contract in Singapore_ (at para 03.032), “[t]he question remains whether an intention to be bound can be objectively ascertained from the conduct of the offeror”. With respect, this must be correct, and I found that an intention to abandon the contract could not be objectively ascertained from the two-month delay in Mr Lim seeking to enforce the 19 March 2012 Agreement. 
 

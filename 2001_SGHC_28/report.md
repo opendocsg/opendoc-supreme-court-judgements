@@ -43,7 +43,7 @@
 
 **The law** 
 
-9\. The law relating to an award of damages in lieu of an order for specific performance of a contract for the sale and purchase of land has been canvassed fairly frequently before the courts of Singapore. The most recent reported decision, and one that contains an excellent analysis of the legal position, is that of _Ho Kian Siang v Ong Cheng Hoo_ [2000] 4 SLR 376. There, Lee Seiu Kin JC, considered the leading authority of _Johnson v Agnew_ [1980] AC 367, as well as the following local cases: _Indian Overseas Bank v Cheng Lai Geok_ [1992] 2 SLR 38, _Meng Leong Development v Jip Hong Trading Co_ [1984-1985] SLR 27 and _Tay Joo Sing v Ku Yu Sang_ [1994] 3 SLR 719. 
+9\. The law relating to an award of damages in lieu of an order for specific performance of a contract for the sale and purchase of land has been canvassed fairly frequently before the courts of Singapore. The most recent reported decision, and one that contains an excellent analysis of the legal position, is that of _Ho Kian Siang v Ong Cheng Hoo_ <span class="citation">[2000] 4 SLR 376</span>. There, Lee Seiu Kin JC, considered the leading authority of _Johnson v Agnew_ [1980] AC 367, as well as the following local cases: _Indian Overseas Bank v Cheng Lai Geok_ <span class="citation">[1992] 2 SLR 38</span>, _Meng Leong Development v Jip Hong Trading Co_ [1984-1985] SLR 27 and _Tay Joo Sing v Ku Yu Sang_ <span class="citation">[1994] 3 SLR 719</span>. 
 
 10\. Having set out the five propositions of law put forward by Lord Wilberforce in _Johnson v Agnew_ , Lee JC noted: 
 

@@ -43,7 +43,7 @@ Tan declined to make an alteration to the 20th May order. At this hearing, the P
 
 of the hearing on 20May 2013, this was an oversight of the DPP having charge of the case. 
 
-7       The Applicant thus filed this criminal revision to set aside the 20th May order on the ground that there was something palpably wrong in the decision that struck at its basis as an exercise of judicial power; see _Yunani bin Abdul Hamid v Public Prosecutor_ [2008] 3 SLR(R) 383 and _Ang Poh Chuan v Public Prosecutor_ [1995] 3 SLR(R) 929, namely: 
+7       The Applicant thus filed this criminal revision to set aside the 20th May order on the ground that there was something palpably wrong in the decision that struck at its basis as an exercise of judicial power; see _Yunani bin Abdul Hamid v Public Prosecutor_ <span class="citation">[2008] 3 SLR(R) 383</span> and _Ang Poh Chuan v Public Prosecutor_ <span class="citation">[1995] 3 SLR(R) 929</span>, namely: 
 
  (a) Making the application before DJ Tan when the matter had been fixed for hearing before DJ Joseph a mere two days after; 
 
@@ -118,7 +118,7 @@ application before a different judge at an earlier date is because it was viewed
 13     It will be readily apparent that both sections have different concerns and procedures. Section 35 of the CPC, which governs the powers of seizure, is more comprehensive and takes into account the needs of those who may be affected by the seizure. A balancing exercise is permitted under ss 35(7)(b) and 35(8) which is not part of the judicial exercise which subsequently takes place in s 370. 
 
 
-The Court of Appeal, expounding on the equivalent provisions in the Old Criminal Procedure Code, observed in _Ung Yoke Hooi v Attorney-General_ [2009] 3 SLR(R) 307 (at [19(h)]) (“ _Ung Yoke Hooi_ ”) that – 
+The Court of Appeal, expounding on the equivalent provisions in the Old Criminal Procedure Code, observed in _Ung Yoke Hooi v Attorney-General_ <span class="citation">[2009] 3 SLR(R) 307</span> (at [19(h)]) (“ _Ung Yoke Hooi_ ”) that – 
 
  Section 68(1) [now s 35 of the CPC] is not a measure to preserve evidence, but a provision to empower a police officer to seize property found in suspicious circumstances and to require the police officer to report the seizure to an MC so that it may dispose of the property by delivering it to the person entitled in law to have possession of it. 
 

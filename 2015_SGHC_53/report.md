@@ -178,7 +178,7 @@ Plaintiff was cross-examined on this point. [note: 4] The Court notes, however, 
 
 **_Law on resulting trusts in the domestic context_** 
 
-40     In _Chan Yuen Lan v See Fong Mun_ [2014] 3 SLR 1048 (“ _Chan Yuen Lan_ ”) at [160], the Court of Appeal helpfully set out the steps that a court may take when analysing the possibility of a resulting trust arising in property disputes involving parties who have contributed unequal amounts towards the purchase price, and who have not clearly delineated their respective beneficial interest through an express declaration of trust. It would be helpful for me to set out what the Court of Appeal said in full: 
+40     In _Chan Yuen Lan v See Fong Mun_ <span class="citation">[2014] 3 SLR 1048</span> (“ _Chan Yuen Lan_ ”) at [160], the Court of Appeal helpfully set out the steps that a court may take when analysing the possibility of a resulting trust arising in property disputes involving parties who have contributed unequal amounts towards the purchase price, and who have not clearly delineated their respective beneficial interest through an express declaration of trust. It would be helpful for me to set out what the Court of Appeal said in full: 
 
  (a) Is there sufficient evidence of the parties' respective financial contributions to the purchase price of the property? If the answer is "yes", it will be presumed that the parties hold the beneficial interest in the property in proportion to their respective contributions to the purchase price (ie, the presumption of resulting trust arises). If the answer is "no", it will be presumed that the parties hold the beneficial interest in the same manner as that in which the legal interest is held. 
 

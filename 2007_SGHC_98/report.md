@@ -221,7 +221,7 @@ blood and stab wound to the chest were contributory causes, in the sense that th
 
  When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration the confession as against the other person as well as against the person who makes the confession. 
 
-33     In _Chin Seow Noi and others v PP_ [1994] 1 SLR 135 which counsel referred to, the Court of Criminal Appeal expressly affirmed at p 149 that the correct interpretation of s 17(2) of the Evidence Act that: 
+33     In _Chin Seow Noi and others v PP_ <span class="citation">[1994] 1 SLR 135</span> which counsel referred to, the Court of Criminal Appeal expressly affirmed at p 149 that the correct interpretation of s 17(2) of the Evidence Act that: 
 
  A confession is an admission made at any time by a person accused of an offence, stating or suggesting the inference that he committed that offence. 
 
@@ -279,7 +279,7 @@ and his judgment has long been accepted to be applicable in Singapore as well.
 
  When a criminal act is done by several persons, in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if the act were done by him alone. 
 
-The third accused would be liable even if he did not have the intention to, and did not inflict the fatal injuries. This had been made clear in a series of cases, including _Too Yin Sheong v PP_ [1999] 1 SLR 682 at [29] (wrongly numbered as [28] in the report) where the Court of Appeal reiterated that: 
+The third accused would be liable even if he did not have the intention to, and did not inflict the fatal injuries. This had been made clear in a series of cases, including _Too Yin Sheong v PP_ <span class="citation">[1999] 1 SLR 682</span> at [29] (wrongly numbered as [28] in the report) where the Court of Appeal reiterated that: 
 
  it has been held that it is not incumbent upon the prosecution to show that the common intention of the accused was to commit the crime for which they are charged. It is the intention of the doer of the criminal offence charged that is in issue, and when s 34 applies, the others will be vicariously or constructively liable for the same offence. In other words, the participants need only have the mens rea for the offence commonly intended. It was not necessary for them to also possess the mens rea for the offence for which they are actually charged. 
 

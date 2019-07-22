@@ -76,7 +76,7 @@ The wife filed two appeals. The first, RAS 23 of 2014 (“RAS 23/2014”) is an 
 
 11     In relation to the first stage of the _Spiliada_ test, Mr Damodara submits that the husband has failed to satisfy it for the following reasons: 
 
- (a) First, the children were kidnapped in Singapore and acts of violence happened in Singapore. Singapore, as such, is the natural forum as it is where these alleged torts were committed. Mr Damodara relies on the following statement by Belinda Ang Saw Ean J in the High Court decision of The “Reecon Wolf” [2012] 2 SLR 289 at [16]: 
+ (a) First, the children were kidnapped in Singapore and acts of violence happened in Singapore. Singapore, as such, is the natural forum as it is where these alleged torts were committed. Mr Damodara relies on the following statement by Belinda Ang Saw Ean J in the High Court decision of The “Reecon Wolf” <span class="citation">[2012] 2 SLR 289</span> at [16]: 
 
  The place where the tort is committed is prima facie the natural forum in the sense that it is the forum that is clearly or more distinctly the more appropriate forum for the action to be tried in. 
 

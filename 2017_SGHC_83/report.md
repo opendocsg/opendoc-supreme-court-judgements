@@ -45,7 +45,7 @@ Aries.
 
 **Reasons of the court** 
 
-9       As stated at [11] of _Dorsey James Michael v World Sports Group Pte Ltd_ [2013] 3 SLR 354 (“ _Dorsey_ ”), any judgment or order of the High Court is ordinarily appealable as of right. However, this is subject to any contrary law. 
+9       As stated at [11] of _Dorsey James Michael v World Sports Group Pte Ltd_ <span class="citation">[2013] 3 SLR 354</span> (“ _Dorsey_ ”), any judgment or order of the High Court is ordinarily appealable as of right. However, this is subject to any contrary law. 
 
 10     Section 34(1)( _a_ ) of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed) (“SCJA”) provides that no appeal shall be brought to the Court of Appeal, “where a Judge makes an order specified in the Fourth Schedule, except in such circumstances as may be specified in that Schedule”. It was not disputed that the 7 February 2017 Order was not one of the orders specified in the Fourth Schedule. 
 
@@ -109,7 +109,7 @@ Aries.
 
 17     This has been referred to and applied in many local cases as the “order” test or “ _Bozson_ ” test. It is different from the “application” test enunciated in _Salaman v Warner_ [1891] 1 QB 734 at 736. 
 
-18     The “order” test or “ _Bozson_ ” test was cited with approval by the Court of Appeal in _Wellmix Organics (International) Pte Ltd v Lau Yu Man_ [2006] 2 SLR(R) 525 (“ _Wellmix_ ”). Before I continue, I should mention that in _Downeredi Works Pte Ltd v Holcim (Singapore) Pte Ltd_ [2009] 1 SLR(R) 1070, I considered _Wellmix_ to be binding on me as it is a decision of the Court of Appeal (at [14]). However, in the light of Summons 974, I had the opportunity to reflect on _Wellmix_ again with the benefit of subsequent cases. 
+18     The “order” test or “ _Bozson_ ” test was cited with approval by the Court of Appeal in _Wellmix Organics (International) Pte Ltd v Lau Yu Man_ <span class="citation">[2006] 2 SLR(R) 525</span> (“ _Wellmix_ ”). Before I continue, I should mention that in _Downeredi Works Pte Ltd v Holcim (Singapore) Pte Ltd_ <span class="citation">[2009] 1 SLR(R) 1070</span>, I considered _Wellmix_ to be binding on me as it is a decision of the Court of Appeal (at [14]). However, in the light of Summons 974, I had the opportunity to reflect on _Wellmix_ again with the benefit of subsequent cases. 
 
 _The decision in Wellmix_ 
 
@@ -140,7 +140,7 @@ rule or an order of court, would that not be a disposal of the action as well? I
 
 30     Although _Wellmix_ said that the determination of liability is not an end in itself, that is precisely the purpose of an interlocutory judgment. It does dispose of the question of liability, once and for all, between the parties. The fact that the plaintiff is seeking damages does not negate the above point. A decision may dispose of the substantive rights of the parties on one issue in the main action without determining all the claims or all the heads of damages claimed in the action. 
 
-31     Indeed, in _Lim Chi Szu Margaret v Risis Pte Ltd_ [2006] 1 SLR(R) 300, Andrew Phang JC (as he then was) appeared to prefer the view that an interlocutory judgment with damages to be assessed is a final order (at [15]). He noted that the appeals in question concerned the issue of liability alone (at [16]). I add that that is the very nature of every appeal against an interlocutory judgment. It would necessarily be on liability alone. Nevertheless, _Wellmix_ considered the view of Phang JC to be _obiter_ and was not persuaded by such a view (at [26]). 
+31     Indeed, in _Lim Chi Szu Margaret v Risis Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 300</span>, Andrew Phang JC (as he then was) appeared to prefer the view that an interlocutory judgment with damages to be assessed is a final order (at [15]). He noted that the appeals in question concerned the issue of liability alone (at [16]). I add that that is the very nature of every appeal against an interlocutory judgment. It would necessarily be on liability alone. Nevertheless, _Wellmix_ considered the view of Phang JC to be _obiter_ and was not persuaded by such a view (at [26]). 
 
 32     In _Wellmix_ , the view that an interlocutory judgment is not a final order was confined to a case where an interlocutory judgment was obtained _in chambers_ even after an argument on the merits. _Wellmix_ recognised at [15] that there was a statutory exception from the scope of s 34(1)( _c_ ) of the 
 
@@ -151,7 +151,7 @@ rule or an order of court, would that not be a disposal of the action as well? I
 
 34     Such a dichotomy would mean that instead of seeking such a judgment in chambers, a plaintiff should not make such an application and instead wait to go to open court and obtain the “same” judgment. Such a resulting situation is not logical. The same point was made by the Privy Council in the New Zealand case of _Strathmore Group Ltd v A M Fraser_ [1997] 2 AC 172 (“ _Strathmore_ ”) at [178]. 
 
-3       5 _Wellmix_ at [21] did consider _Strathmore_ and its endorsement of Sir John Donaldson MR’s reasoning in _White v Brunton_ [1984] QB 570. However, _Wellmix_ considered that _White v Brunton_ had been distinguished in _Aberdeen Asset Management Asia Ltd v Fraser & Neave Ltd_ [2001] 3 SLR(R) 355 at [23] (“ _Aberdeen_ ”) in the context of Singapore. The point of difference noted in _Aberdeen_ was that in Singapore, the right of appeal against an interlocutory order made by a judge in chambers was only _qualified_ by the requirement to apply for further arguments within seven days after the making of the order and if the judge issued a certificate that he required no further argument. However, in _White v Brunton_ , the relevant English statute provided that there was _no_ right of appeal against such an order except with leave. _Aberdeen_ was of the view that there was nothing unjust about requiring an intended appellant to request further arguments before filing a notice of appeal (at [23]). It further observed that making such a request could hardly be considered to be an onerous burden (at [24]). 
+3       5 _Wellmix_ at [21] did consider _Strathmore_ and its endorsement of Sir John Donaldson MR’s reasoning in _White v Brunton_ [1984] QB 570. However, _Wellmix_ considered that _White v Brunton_ had been distinguished in _Aberdeen Asset Management Asia Ltd v Fraser & Neave Ltd_ <span class="citation">[2001] 3 SLR(R) 355</span> at [23] (“ _Aberdeen_ ”) in the context of Singapore. The point of difference noted in _Aberdeen_ was that in Singapore, the right of appeal against an interlocutory order made by a judge in chambers was only _qualified_ by the requirement to apply for further arguments within seven days after the making of the order and if the judge issued a certificate that he required no further argument. However, in _White v Brunton_ , the relevant English statute provided that there was _no_ right of appeal against such an order except with leave. _Aberdeen_ was of the view that there was nothing unjust about requiring an intended appellant to request further arguments before filing a notice of appeal (at [23]). It further observed that making such a request could hardly be considered to be an onerous burden (at [24]). 
 
 36     On the other hand, one may wonder why that should be a valid reason to make the distinction in the case of split hearings. The point is not so much whether it would be unjust or difficult to require a request for further arguments to be made first but whether there is a logical reason to draw such a distinction in the first place. Furthermore, after amendments made to the SCJA by way of the Supreme Court of Judicature (Amendment) Act 2010 (Act 30 of 2010) (effective on 1 January 2011), the current situation in Singapore is more like the one in _White v Brunton_ than _Aberdeen_. In the case of an interlocutory order, it is no longer a question of requiring a request to be made first for further arguments but one of requiring leave to appeal. 
 
@@ -159,7 +159,7 @@ rule or an order of court, would that not be a disposal of the action as well? I
 
 _Decisions subsequent to Wellmix_ 
 
-38     In _The_ “ _Xin Chang Shu_ ” [2016] 3 SLR 1195, Steven Chong J considered whether _Wellmix_ remains good law after the aforementioned amendments to the SCJA. He said (at [27(b)]) that _Wellmix_ had been cited with approval in numerous Court of Appeal decisions handed down _after_ such amendments including _Dorsey_ , _The “Nasco Gem”_ [2014] 2 SLR 63 and _Citiwall Safety Glass Pte Ltd v Mansource Interior Pte Ltd_ [2015] SLR 797 (“ _Citiwall v Mansource_ ”). 
+38     In _The_ “ _Xin Chang Shu_ ” <span class="citation">[2016] 3 SLR 1195</span>, Steven Chong J considered whether _Wellmix_ remains good law after the aforementioned amendments to the SCJA. He said (at [27(b)]) that _Wellmix_ had been cited with approval in numerous Court of Appeal decisions handed down _after_ such amendments including _Dorsey_ , _The “Nasco Gem”_ <span class="citation">[2014] 2 SLR 63</span> and _Citiwall Safety Glass Pte Ltd v Mansource Interior Pte Ltd_ [2015] SLR 797 (“ _Citiwall v Mansource_ ”). 
 
 39     Relying on _Wellmix_ , Chong J decided that a wrongful arrest order was an interlocutory one for the purpose of the same para ( _e_ ) of the Fifth Schedule SCJA before this court (at [31]). It was not necessary for this court to conclude whether Chong J’s decision was correct on the facts in the case before him. However, I will elaborate on _Dorsey_ , _The “Nasco Gem”_ and _Citiwall v Mansource_. 
 
@@ -195,7 +195,7 @@ As can be seen, O 14 r 12(1)( _b_ ) refers to a situation where such determinati
 
 47     The question then is whether a distinction is to be drawn between an order made under O 14 r 12 which determines the entire action and one which determines a substantive issue in the action. In my view, both constitute final orders. A decision that finally disposes of the substantive rights of the parties on an issue in the action need not be one that affects the entire action. 
 
-48     This analysis may be supported by an earlier decision of the Court of Appeal in _OpenNet Pte Ltd v Info-Communications Development Authority of Singapore_ [2013] 2 SLR 880 (“ _OpenNet_ ”). As noted in _Dorsey_ at [90], the court in _OpenNet_ had decided that an order was final in the sense that it effectively disposed of a party’s substantive claim to relief (see _OpenNet_ at [18]). It was not suggested there that the decision must also dispose of the entire action. 
+48     This analysis may be supported by an earlier decision of the Court of Appeal in _OpenNet Pte Ltd v Info-Communications Development Authority of Singapore_ <span class="citation">[2013] 2 SLR 880</span> (“ _OpenNet_ ”). As noted in _Dorsey_ at [90], the court in _OpenNet_ had decided that an order was final in the sense that it effectively disposed of a party’s substantive claim to relief (see _OpenNet_ at [18]). It was not suggested there that the decision must also dispose of the entire action. 
 
 49     As a matter of principle, there seems to be no difference between an order which dismisses an entire action and one which dismisses a particular claim but not the entire action for the purpose of determining whether an order is a final order. Each is a final order because it finally disposes of a substantive issue in the action between the parties. 
 
@@ -229,7 +229,7 @@ As can be seen, O 14 r 12(1)( _b_ ) refers to a situation where such determinati
 59     ACB then appealed to the Court of Appeal which recently released its judgment (see _ACB v_ 
 
 
-_Thomson Medical Pte Ltd and three ors_ [2017] SGCA 20). The Court of Appeal decided that ACB was not entitled to make the Upkeep Claim but could claim for loss of “genetic affinity” (at [135]). 
+_Thomson Medical Pte Ltd and three ors_ <span class="citation">[2017] SGCA 20</span>). The Court of Appeal decided that ACB was not entitled to make the Upkeep Claim but could claim for loss of “genetic affinity” (at [135]). 
 
 60     For present purposes, the point is that ACB filed her appeal to the Court of Appeal without applying for leave to do so. Apparently, there was no suggestion that leave was required. 
 
@@ -281,7 +281,7 @@ need to seek leave to appeal until ViewQwest’s solicitors objected to the fili
 
  (d) the degree of prejudice to the intended respondent, if extension of time were granted. 
 
-These factors can be found, for example, in the Court of Appeal decision of _Sun Jin Engineering Pte Ltd v Hwang Jae Woo_ [2011] 2 SLR 196 at [29]. However, in applying the four factors mentioned above, the overall question is where the justice of the case lies. 
+These factors can be found, for example, in the Court of Appeal decision of _Sun Jin Engineering Pte Ltd v Hwang Jae Woo_ <span class="citation">[2011] 2 SLR 196</span> at [29]. However, in applying the four factors mentioned above, the overall question is where the justice of the case lies. 
 
 78     It is not necessary for me to address each of the above factors one at a time. Suffice it for me to say that it was clear to this court that the justice of the case lay in granting an extension of time. It was quite understandable why Aries’ solicitors were of the view that no leave to appeal was required and they acted reasonably promptly after the dispute arose by writing in for a clarification first and then filing Summons 974 pursuant to the court’s direction to do so. The question whether they should have filed an application immediately instead of writing to the Registrar first to seek a clarification from the court is not material in the present circumstances and I will not say any more about it. 
 
@@ -289,7 +289,7 @@ These factors can be found, for example, in the Court of Appeal decision of _Sun
 
 **_Whether leave to appeal should be granted_** 
 
-80     As regards the question whether leave to appeal should be granted, it was not disputed that generally speaking, leave to appeal will be granted in one of three situations (see _Lee Kuan Yew v Tang Liang Hong_ [1997] 2 SLR(R) 862 (“ _LKY v Tang_ ”) at [16]): 
+80     As regards the question whether leave to appeal should be granted, it was not disputed that generally speaking, leave to appeal will be granted in one of three situations (see _Lee Kuan Yew v Tang Liang Hong_ <span class="citation">[1997] 2 SLR(R) 862</span> (“ _LKY v Tang_ ”) at [16]): 
 
  (a) a prima facie case of error; 
 

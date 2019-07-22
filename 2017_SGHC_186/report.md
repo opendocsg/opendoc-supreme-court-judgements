@@ -114,7 +114,7 @@ The defendant initially claimed a total sum of $319,698.00, which comprised of t
 
 _Implying a term of expeditious clearing into the Contract_ 
 
-23     The test for implying a term into a contract was summarised by the Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp Marine_ ”) at [101] as follows: 
+23     The test for implying a term into a contract was summarised by the Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp Marine_ ”) at [101] as follows: 
 
  It follows from these points that the implication of terms is to be considered using a three-step process: 
 

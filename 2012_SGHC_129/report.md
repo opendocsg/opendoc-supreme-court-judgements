@@ -20,7 +20,7 @@
 
 _Criminal Procedure and Sentencing_ – _Sentencing_ – _Preventive Detention_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 5 of 2012 was allowed by the Court of Appeal on 15 January 2013. See [2013] SGCA 21.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 5 of 2012 was allowed by the Court of Appeal on 15 January 2013. See <span class="citation">[2013] SGCA 21</span>.] 
 
 25 June 2012 
 
@@ -188,13 +188,13 @@ contents from the car which he abandoned. The contents were as stated in the 3rd
 
 49     If preventive detention was to be ordered, the Defence submitted that ten years was an appropriate starting point. They also submitted that Rosli’s period of remand since 1 November 2008 should be taken into account. Accordingly, any sentence for preventive detention should be for less than ten years. 
 
-50     The Defence relied in particular on _Public Prosecutor v Perumal s/o Suppiah_ [2000] 2 SLR(R) 145 (“ _Perumal_ ”). The first paragraph of the headnote states: 
+50     The Defence relied in particular on _Public Prosecutor v Perumal s/o Suppiah_ <span class="citation">[2000] 2 SLR(R) 145</span> (“ _Perumal_ ”). The first paragraph of the headnote states: 
 
  The respondent pleaded guilty and was convicted on a charge of voluntarily causing hurt with a dangerous weapon and a charge of drug consumption. The respondent had a lengthy history of previous convictions since 1979. He had a total of 17 convictions for a variety of assault offences, including an offence of culpable homicide not amounting to murder, theft offences and drug related offences. He was also admitted to drug rehabilitation centres on three occasions and had been placed under drug supervision on four previous occasions. 
 
 51     The district judge there declined to impose preventive detention and imposed a sentence of seven years’ imprisonment and six strokes of the cane for the two charges. On appeal by the prosecution, the High Court imposed preventive detention for ten years. As mentioned above, the Defence had submitted that Rosli’s history did not involve any violent crime, unlike that of the accused person in _Perumal_. 
 
-52     The Defence acknowledged that in _Public Prosecutor v Raffi Bin Jelan and another_ [2004] SGHC 120, the High Court had imposed 20 years’ preventive detention, but they submitted that the facts there were different and, in particular, the court there had concluded that the accused was incapable of being rehabilitated, which they submitted is not the case for Rosli. 
+52     The Defence acknowledged that in _Public Prosecutor v Raffi Bin Jelan and another_ <span class="citation">[2004] SGHC 120</span>, the High Court had imposed 20 years’ preventive detention, but they submitted that the facts there were different and, in particular, the court there had concluded that the accused was incapable of being rehabilitated, which they submitted is not the case for Rosli. 
 
 53     The Prosecution stressed that there was a high risk of re-offending as Rosli lacked remorse, a point not disputed by the Defence. It is worth noting, however, that the Defence submitted that the risk of re-offending is confined to non-violent crimes. 
 
@@ -211,7 +211,7 @@ contents from the car which he abandoned. The contents were as stated in the 3rd
 
 59     The Prosecution tendered a table of precedents for sentences of preventive detention for which I am grateful. _Perumal_ is one of the cases included in the table. It will be recalled that _Perumal_ was a case in which the accused person had committed a violent crime before. 
 
-60     However, in the earlier case of _Heng Jong Cheng v Public Prosecutor_ [1999] 1 SLR(R) 769, there was no antecedent of a violent crime. The antecedents involved housebreaking and theft by night and concealment or disposal of stolen property. The accused person there was then facing 23 charges of abetment of cheating, one charge of abetment of attempted cheating and one charge of affray. Yong CJ imposed a sentence of 20 years’ preventive detention. 
+60     However, in the earlier case of _Heng Jong Cheng v Public Prosecutor_ <span class="citation">[1999] 1 SLR(R) 769</span>, there was no antecedent of a violent crime. The antecedents involved housebreaking and theft by night and concealment or disposal of stolen property. The accused person there was then facing 23 charges of abetment of cheating, one charge of abetment of attempted cheating and one charge of affray. Yong CJ imposed a sentence of 20 years’ preventive detention. 
 
 **The court’s reasons** 
 
@@ -248,7 +248,7 @@ convicted, other than the offence under the 5th charge, showed that he was a cun
 
 71     The question which I then considered was whether the court was precluded from giving a discount by taking the period of remand into consideration. Strictly speaking, this is not the same as imposing a sentence of preventive detention with retrospective effect although one may argue that the outcome is substantially the same in both cases. 
 
-72     In _Public Prosecutor v Rahim bin Basron_ [2010] 3 SLR 278, the Prosecution argued that a court could not impose a sentence of preventive detention with retrospective effect. The Prosecution also argued that, in any event, the backdating of a sentence was not a matter of right for the accused person and that since the objective of preventive detention is to protect the public from menaces, the accused person should not be given a discount. Tay Yong Kwang J did not appear to favour the latter argument. He said at [57]: 
+72     In _Public Prosecutor v Rahim bin Basron_ <span class="citation">[2010] 3 SLR 278</span>, the Prosecution argued that a court could not impose a sentence of preventive detention with retrospective effect. The Prosecution also argued that, in any event, the backdating of a sentence was not a matter of right for the accused person and that since the objective of preventive detention is to protect the public from menaces, the accused person should not be given a discount. Tay Yong Kwang J did not appear to favour the latter argument. He said at [57]: 
 
 
  ... I am not sure there is a difference in principle in the treatment of the period spent in remand when imposing preventive detention on the one hand and when ordering imprisonment on the other since, in both cases, the public is protected and the accused has his liberty curtailed while he is in remand. 

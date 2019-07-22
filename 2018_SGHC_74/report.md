@@ -287,7 +287,7 @@ _Admissibility of TTL’s SD_
 53     The Company submitted that, even if the SD was authentic, it was inadmissible evidence under 
 
 
-the rule in _Shephard v Cartwright_. I did not accept this submission. To begin with, the rule in _Shephard v Cartwright_ had no application here, as that rule dealt with the use of subsequent declarations and conduct as evidence of the state of mind of a _transferor_ for the purposes of rebutting the presumption of resulting trust or presumption of advancement. In the context of the events described in the SD, the relevant “transferor” was TGC and not TTL. The SD was not a subsequent declaration by _TGC_ of what his subjective intention was at an earlier time. The SD represented _TTL’s_ recollection of remarks made by TGC to TTL contemporaneously with the events to which those remarks relate. In any event, _Shephard v Cartwright_ is no longer good law in Singapore in the light of the Court of Appeal’s decision in _Tan Yok Koon v Tan Choo Suan_ [2017] 1 SLR 654 at [110] (“ _Tan Yok Koon_ ”). 
+the rule in _Shephard v Cartwright_. I did not accept this submission. To begin with, the rule in _Shephard v Cartwright_ had no application here, as that rule dealt with the use of subsequent declarations and conduct as evidence of the state of mind of a _transferor_ for the purposes of rebutting the presumption of resulting trust or presumption of advancement. In the context of the events described in the SD, the relevant “transferor” was TGC and not TTL. The SD was not a subsequent declaration by _TGC_ of what his subjective intention was at an earlier time. The SD represented _TTL’s_ recollection of remarks made by TGC to TTL contemporaneously with the events to which those remarks relate. In any event, _Shephard v Cartwright_ is no longer good law in Singapore in the light of the Court of Appeal’s decision in _Tan Yok Koon v Tan Choo Suan_ <span class="citation">[2017] 1 SLR 654</span> at [110] (“ _Tan Yok Koon_ ”). 
 
 54     I therefore held that the SD was admissible pursuant to s 32(1)( _j_ )(i) of the Evidence Act (“EA”), and that this was not a case in which the SD should be excluded under s 32(3) of the EA. However, having regard to the apparently self-serving nature of the SD, I warned myself to treat the SD with caution and, in keeping with the approach recommended in _Tan Yok Koon_ at [110], to carefully ascribed the precise weight to the SD. I proposed to do so by checking for the SD’s consistency with the relevant factual background, the available objective evidence and as well as other evidence which has been found to be true. The need to carefully evaluate the weight of the SD in this manner is particularly important since TTL was no longer available to be cross-examined on the assertions made in the SD. 
 
@@ -746,7 +746,7 @@ What I found significant was that, despite acknowledging that full payment had n
 
 Thus the element which renders enforceable an arrangement which could otherwise be categorised as an unenforceable oral express trust or unenforceable tacit agreement is the existence of detrimental reliance. 
 
-137    The applicability of common intention constructive trust is not confined to situations of properties being held in joint names or situations of shared housing among family members (see _Chan Yuen Lan v See Fong Mun_ [2014] 3 SLR 1048 (“ _Chan Yuen Lan_ ”) at [108], [140], [153] and [157]). 
+137    The applicability of common intention constructive trust is not confined to situations of properties being held in joint names or situations of shared housing among family members (see _Chan Yuen Lan v See Fong Mun_ <span class="citation">[2014] 3 SLR 1048</span> (“ _Chan Yuen Lan_ ”) at [108], [140], [153] and [157]). 
 
 _Existence of common intention_ 
 
@@ -1003,7 +1003,7 @@ _Conclusion on common intention constructive trust_
 
 **_Laches_** 
 
-173    The Company relied on the doctrine of laches and cited the cases of _Re Estate of Tan Kow Quee_ [2007] SGHC 19 (“ _Tan Kow Quee_ ”) and _Quek Hung Heong v Tan Bee Hoon_ [2014] SGHC 17 (“ _Quek Hung Heong_ ”) as precedents. 
+173    The Company relied on the doctrine of laches and cited the cases of _Re Estate of Tan Kow Quee_ <span class="citation">[2007] SGHC 19</span> (“ _Tan Kow Quee_ ”) and _Quek Hung Heong v Tan Bee Hoon_ <span class="citation">[2014] SGHC 17</span> (“ _Quek Hung Heong_ ”) as precedents. 
 
 174    In _Tan Kow Quee_ , a claim was brought by two children of the deceased against the administrators of the deceased estate for a declaration that a property occupied by one of the administrators continued to form part of the estate of the deceased and ought to be sold and the proceeds distributed among beneficiaries of the deceased’s estate. The administrators’ position was that the administration of the deceased’s estate was completed 50 years ago with all beneficiaries receiving their share of the deceased’s estate in cash while the administrator in question retained the property as part of the overall distribution. The court held that the doctrine of laches applied as, among other things, the delay of 50 years was considerable by any yardstick. 
 

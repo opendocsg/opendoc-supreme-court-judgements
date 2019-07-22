@@ -77,7 +77,7 @@ dismissing the appeal
 
 _Re Libra Industries Pte Ltd (in compulsory liquidation)_ 
 
-[2000] 1 SLR 84 (refd) 
+<span class="citation">[2000] 1 SLR 84</span> (refd) 
 
 _Re MC Bacon_ 
 
@@ -157,7 +157,7 @@ of 5 years ending with the day of the presentation of the bankruptcy petition on
 
 The appellant submitted that the assistant registrar was in error because he did not take into account subsection (5) which, by the presumption raised against the respondents as trustees, shifted the burden to them. He submitted that the respondents have not made any point in their affidavit that goes towards rebutting the presumption. 
 
-9\. In determining whether there was unfair preference the direct object of the court is to ascertain whether the bankrupt had been influenced by a desire to put the payee in a better position than he would have been, in the event of the bankrupt becoming a bankrupt. This exercise naturally involves a finding of fact to a large extent and thus would vary from case to case. For instance, the case cited before me, _Re Libra Industries Pte Ltd (in compulsory liquidation)_ [2000] 1 SLR 84 turned on its own facts, so different that I need not elaborate here. See also _Re MC Bacon_ (1990) BCLC 324 in which Millet J emphasized that it is not sufficient merely to "establish a desire to make payment or grant the security which it sought to avoid". Otherwise, every payment in itself, other than perhaps, a payment under mistake, becomes an unfair preference. 
+9\. In determining whether there was unfair preference the direct object of the court is to ascertain whether the bankrupt had been influenced by a desire to put the payee in a better position than he would have been, in the event of the bankrupt becoming a bankrupt. This exercise naturally involves a finding of fact to a large extent and thus would vary from case to case. For instance, the case cited before me, _Re Libra Industries Pte Ltd (in compulsory liquidation)_ <span class="citation">[2000] 1 SLR 84</span> turned on its own facts, so different that I need not elaborate here. See also _Re MC Bacon_ (1990) BCLC 324 in which Millet J emphasized that it is not sufficient merely to "establish a desire to make payment or grant the security which it sought to avoid". Otherwise, every payment in itself, other than perhaps, a payment under mistake, becomes an unfair preference. 
 
 10\. The act or the payment within the two years or six months prior to the bankruptcy by itself is of little significance otherwise every payment even to the bankrupt’s grocer will, by the receipt of payment alone, be counted as an unfair preference. I now revert to the appellant’s main point, that the respondents had not rebutted the presumption. In this case, in addition to the public examination of Mr. Gwee Boon Kim (one of the respondents), Mr. Koh Hai Keong (the other respondent) had filed an affidavit on 15 April 2002. From the evidence of the two respondents I accept that the payments were genuine payments of legal fees. There is nothing to indicate otherwise. Although counsel examining Mr. Gwee did not challenge the size of the bills, I am of the view that on a broad scan, 
 

@@ -179,9 +179,9 @@ three months’ timeline in O 53 r 1(6) “had started to run from the date [he]
 
 41     After rec eiving a c opy of the Law Soc iety’s written skeletal submissions, Mr Nalpon then exec uted another affidavit on 22 May 2017 to say that he was c hallenging the RC’s dec ision on the grounds that it was: (a) unlawful, (b) biased and (c ) irrational. 
 
-42     As I said in _Deepak Sharma v Law Society of Singapore_ [2016] 4 SLR 192 at [21]: 
+42     As I said in _Deepak Sharma v Law Society of Singapore_ <span class="citation">[2016] 4 SLR 192</span> at [21]: 
 
- The test for granting leave to bring judic ial review proc eedings is well settled. The c ourt must be satisfied that (see Jeyaretnam Kenneth Andrew v AG [2014] 1 SLR 345 at [5]): 
+ The test for granting leave to bring judic ial review proc eedings is well settled. The c ourt must be satisfied that (see Jeyaretnam Kenneth Andrew v AG <span class="citation">[2014] 1 SLR 345</span> at [5]): 
 
  (a) The matter c omplained of is susc eptible to judic ial review. 
 

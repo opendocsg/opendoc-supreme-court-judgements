@@ -18,7 +18,7 @@ _Family law_ – _Matrimonial assets_ – _gifts_
 
 _Family law_ – _Maintenance_ – _Statutory Interpretation_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 17 and 21 of 2011 were allowed in part by the Court of Appeal on 31 July 2012. See [2012] SGCA 40.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 17 and 21 of 2011 were allowed in part by the Court of Appeal on 31 July 2012. See <span class="citation">[2012] SGCA 40</span>.] 
 
 14 January 2011 Judgment reserved. 
 
@@ -169,16 +169,16 @@ On a plain reading of the provision, the disputed shares are the plaintiff’s a
 
  Gift between spouses 
 
- The Court of Appeal in Yeo Gim Tong Michael v Tianzon Lolita [[1996] 1 SLR(R) 633 (“ Tianzon ”)], even under the former section 106 of the Women’s Charter, decided that when a property is given by one spouse to the other it should not be regarded as a gift but should be liable to division, unless it were given to the spouse as a highly personal gift or its value were so low as to be de minimis. This decision is rational because a gift between the spouses depletes the wealth of the marital partnership so that in fairness significant gifts ought to be returned to the pool and be liable to be divided. 
+ The Court of Appeal in Yeo Gim Tong Michael v Tianzon Lolita [<span class="citation">[1996] 1 SLR(R) 633</span> (“ Tianzon ”)], even under the former section 106 of the Women’s Charter, decided that when a property is given by one spouse to the other it should not be regarded as a gift but should be liable to division, unless it were given to the spouse as a highly personal gift or its value were so low as to be de minimis. This decision is rational because a gift between the spouses depletes the wealth of the marital partnership so that in fairness significant gifts ought to be returned to the pool and be liable to be divided. 
 
  [emphasis added] 
 
-21     _Tianzon_ was commenced in 1993, and the judgment of the Court of Appeal was delivered on 26 March 1996. The former s 106 which applied over the division of matrimonial assets made no reference to gifts. The Court of Appeal in _Tianzon_ referred to a _dicta_ in _Soon Geok Hong v Ong Yeow Tiong_ [1995] SGHC 78 that when a gift is made between spouses, it must be implied that the donor will not seek to be entitled to any share in them if the marriage is dissolved. The Court of Appeal held at [12] that: 
+21     _Tianzon_ was commenced in 1993, and the judgment of the Court of Appeal was delivered on 26 March 1996. The former s 106 which applied over the division of matrimonial assets made no reference to gifts. The Court of Appeal in _Tianzon_ referred to a _dicta_ in _Soon Geok Hong v Ong Yeow Tiong_ <span class="citation">[1995] SGHC 78</span> that when a gift is made between spouses, it must be implied that the donor will not seek to be entitled to any share in them if the marriage is dissolved. The Court of Appeal held at [12] that: 
 
  Whatever might be the intention of the spouses as regards a gift between them at the time the gift was made, upon their divorce the criteria for division of their assets including the gift under s 106 do not depend on or take into account their intention, express or implied: Wang Shi Huah 
 
 
- Karen v Wong King Cheung Kevin [1992] 2 SLR(R) 172 at [13]. In considering the issue of a gift in the division of matrimonial assets under s 106, the starting point is whether the subject matter of the gift is property originally acquired during the marriage through the sole effort of the donor or the joint efforts of the donor and his or her spouse, the recipient. If the property was so acquired during the marriage, it falls within sub-s (1) or (3) (as the case may be) of s 106, and depending on the circumstances would be taken into account in the division of matrimonial assets, notwithstanding that it was a gift from one spouse to the other. 
+ Karen v Wong King Cheung Kevin <span class="citation">[1992] 2 SLR(R) 172</span> at [13]. In considering the issue of a gift in the division of matrimonial assets under s 106, the starting point is whether the subject matter of the gift is property originally acquired during the marriage through the sole effort of the donor or the joint efforts of the donor and his or her spouse, the recipient. If the property was so acquired during the marriage, it falls within sub-s (1) or (3) (as the case may be) of s 106, and depending on the circumstances would be taken into account in the division of matrimonial assets, notwithstanding that it was a gift from one spouse to the other. 
 
 22     From a reading of this passage, the Court of Appeal did not rule that the property involved should not be regarded as a gift. The Court’s ruling was that although the asset was a gift, it was also a matrimonial asset. The importance of this distinction can be seen in the next paragraphs. 
 
@@ -275,9 +275,9 @@ of the property as at 31 July 2007. [note: 5] (The 31 July 2007 date was probabl
 
 36     In the present circumstances, as the starting point, the time of commencement of proceedings should be used to determine the net asset value of the property, but if the defendant can show that the encumbrances on the property had increased in value after that date which were for the benefit of both parties, these additional subsequent amounts can be taken into account. As there is no claim or evidence of that, the asset value of the property should be taken as at 27 July 2007, or rounded off to 31 July 2007 if it does not prejudice the defendant. 
 
-37     What should be the plaintiff’s share of the matrimonial home? The plaintiff claims 40%, and the defendant offers 35%. The plaintiff referred to one case – _Chen Siew Hwee v Low Kee Guan_ [2006] 4 SLR(R) 605 where Andrew Phang Boon Leong J awarded the wife 35% of the matrimonial assets acquired with no financial contribution from her in a 17 year childless marriage. 
+37     What should be the plaintiff’s share of the matrimonial home? The plaintiff claims 40%, and the defendant offers 35%. The plaintiff referred to one case – _Chen Siew Hwee v Low Kee Guan_ <span class="citation">[2006] 4 SLR(R) 605</span> where Andrew Phang Boon Leong J awarded the wife 35% of the matrimonial assets acquired with no financial contribution from her in a 17 year childless marriage. 
 
-38     The defendant justified his 35% offer by referring to two cases. In _Ong Chen Leng v Tan Sau Poo_ [1993] 2 SLR(R) 545, the Court of Appeal awarded a wife 35% of the matrimonial property paid for by the husband in a 23-year marriage with 3 children. In _Kwok Wai Leng v Chan Sooi Hong_ [2004] 2 SLR(R) 386, a wife was awarded 35% of the matrimonial flat in a 37-year marriage during which the wife’s contribution towards the acquisition amounted to 16.7%. 
+38     The defendant justified his 35% offer by referring to two cases. In _Ong Chen Leng v Tan Sau Poo_ <span class="citation">[1993] 2 SLR(R) 545</span>, the Court of Appeal awarded a wife 35% of the matrimonial property paid for by the husband in a 23-year marriage with 3 children. In _Kwok Wai Leng v Chan Sooi Hong_ <span class="citation">[2004] 2 SLR(R) 386</span>, a wife was awarded 35% of the matrimonial flat in a 37-year marriage during which the wife’s contribution towards the acquisition amounted to 16.7%. 
 
 39     Taking into account the fact that the plaintiff had not contributed financially in the acquisition of the matrimonial home, I award her 35% of its net asset value. 
 
@@ -319,7 +319,7 @@ assets, except the matrimonial home which has been dealt with separately.
 49     The plaintiff wanted a lump sum payment on the ground of the defendant’s intention to make his future in China, and she worked out $432,000 at $4500 a month for eight years. The defendant disagreed with the monthly figure and contended that it should be $2668, and objected to any lump sum payment. 
 
 
-50     The Court of Appeal have set out the guidelines for lump sum maintenance payments in _Lee Puey Hwa v Tay Cheow Seng_ [1991] 2 SLR(R) 196 at [9]: 
+50     The Court of Appeal have set out the guidelines for lump sum maintenance payments in _Lee Puey Hwa v Tay Cheow Seng_ <span class="citation">[1991] 2 SLR(R) 196</span> at [9]: 
 
  [T]he court's power to order a lump sum payment, as an alternative to periodical payments, makes it possible for a husband, who has the means to make a lump sum payment, to achieve a clean break, and is clearly a method which should be taken advantage of whenever this is feasible. In deciding whether to order a lump sum payment, the court should consider the individual circumstances of the parties, particularly the needs of the wife and the obligations and responsibilities of the husband, in addition to his assets, his earning capacity and other available resources. In any case, an order for a lump sum should not be made if the husband does not have adequate cash or other capital assets which can be readily disposed of, or if the lump sum payment or the disposal of assets will effectively cripple his earning power. 
 

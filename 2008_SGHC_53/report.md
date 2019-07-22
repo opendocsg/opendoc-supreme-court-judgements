@@ -237,7 +237,7 @@ Upon a plain reading, it is clear that the Representation was false when set aga
 
 **_Issue 3: Was the Representation made fraudulently?_** 
 
-48     In _Panatron Pte Ltd v Lee Cheow Lee_ [2001] 3 SLR 405, the Court of Appeal held at [13]: 
+48     In _Panatron Pte Ltd v Lee Cheow Lee_ <span class="citation">[2001] 3 SLR 405</span>, the Court of Appeal held at [13]: 
 
  The law as regards fraudulent representation is clear. Since the case of Pasley v Freeman (1789) 3 Term Rep 51, it has been settled that a person can be held liable in tort to another, if he knowingly or recklessly makes a false statement to that other with the intent that it would be acted upon, and that other does act upon it and suffers damage. This came to be known as the tort of deceit. In Derry v Peek (1889) 14 App Cas 337 the tort was further developed. It was held that in an action of deceit the plaintiff must prove actual fraud. This fraud is proved only when it is shown that a false representation has been made knowingly, or without belief in its truth, or recklessly, without caring whether it be true or false. 
 
@@ -547,7 +547,7 @@ However, as pointed out earlier ([92] _supra_ ), the defence of contributory neg
 
 In regard to Issue 9, Carrier sought to rely upon the House of Lords decision in _Smith New Court_ for their contention that credit has to be given for the US$424,292.40 worth of Goods which were actually delivered to Lee Meng on 30 June 2006. 
 
-112    Carrier also cited _Raiffeisen Zentralbank Osterreich AG v Archer Daniels Midland Co_ [2007] 1 SLR 196 for the principle that the measure of damages in deceit cases is generally the difference between the “contract price” of transaction induced by the fraudulent misrepresentation and the true market value of the asset purchased on the date of the contract. 
+112    Carrier also cited _Raiffeisen Zentralbank Osterreich AG v Archer Daniels Midland Co_ <span class="citation">[2007] 1 SLR 196</span> for the principle that the measure of damages in deceit cases is generally the difference between the “contract price” of transaction induced by the fraudulent misrepresentation and the true market value of the asset purchased on the date of the contract. 
 
 113    DBS, on its part, submitted that the proper measure of damages in an action in deceit is an award that serves to put the plaintiff into the position it would have been in if the misrepresentation had not been made to it, and not into the position it would have been in if the representation had been true. (This, of course, is the well known distinction between the tortious measure of damages and one based on contractual principles.) Accordingly, DBS submitted that it should be entitled to recover the entire sum of US$1,395,748.02 which it was induced to pay under the LC as a result of the Representation in DO50191. It argued that the amount of Goods actually delivered to Lee Meng on 30 June 2006 was irrelevant to the computation of damages. 
 
@@ -564,7 +564,7 @@ In regard to Issue 9, Carrier sought to rely upon the House of Lords decision in
  All such damages can be recovered: and it does not lie in the mouth of the fraudulent person to say that they could not reasonably have been foreseen. For instance, in this very case Mr. Doyle has not only lost the money which he paid for the business, which he would never have done if there had been no fraud: he put all that money in and lost it; but also he has been put to expense and loss in trying to run a business which has turned out to be a disaster for him. He is entitled to damages for all his loss, subject, of course to giving credit for any benefit that he has received. [emphasis added] 
 
 
-116    In similar vein, in _Vita Health Laboratories Pte Ltd v Pang Seng Meng_ [2004] 4 SLR 162, VK Rajah JC held (at [91]) that where fraud or deceit is exposed, the law pragmatically attempts to cut through the thicket of facts and remedy the wrong by restoration of the status quo, _ie_ , the position it would have been in if the fraud had not been committed. 
+116    In similar vein, in _Vita Health Laboratories Pte Ltd v Pang Seng Meng_ <span class="citation">[2004] 4 SLR 162</span>, VK Rajah JC held (at [91]) that where fraud or deceit is exposed, the law pragmatically attempts to cut through the thicket of facts and remedy the wrong by restoration of the status quo, _ie_ , the position it would have been in if the fraud had not been committed. 
 
 117    On the basis of the foregoing, the amount of damages recoverable by DBS ought to be US$1,395,748.02 less any benefit it received. Clearly, if it had known that the Representation was false, it would not have accepted the bill of exchange by HSBC, thus binding itself to pay the $1,395,748.02. Unlike in _Smith New Court_ and _Doyle v Olby_ , no asset was purchased by DBS as a result of inducement by the Representation. For the same reason, the principle referred to in _Raiffeisen Zentralbank Osterreich AG v Archer Daniels Midland Co_ ([112] _supra_ ) is inapplicable. The US$424,292.40 worth of Goods was delivered to Lee Meng and DBS could not _ipso facto_ be said to have thereby derived a gain or benefit _pro tanto_. 
 

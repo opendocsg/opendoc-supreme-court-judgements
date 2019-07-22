@@ -57,7 +57,7 @@ the High Court and not in the Subordinate Courts. [note: 1]
 
  (c) subject to any other provision in this section, where a Judge makes an interlocutory order in chambers unless the Judge has certified, on application within 7 days after the making of the order by any party for further argument in court, that he requires no further argument; 
 
-This was interpreted in _Jumabhoy Asad v Aw Cheok Huat Mick and others_ [2003] 3 SLR(R) 99 at [6] to mean the following: 
+This was interpreted in _Jumabhoy Asad v Aw Cheok Huat Mick and others_ <span class="citation">[2003] 3 SLR(R) 99</span> at [6] to mean the following: 
 
  By this provision, it is clear that there can be no appeal against an interlocutory order made by a judge in chambers unless the aggrieved party shall, within 7 days thereof, make an application to the judge to hear further arguments and the judge has certified that he requires no further argument. 
 
@@ -109,7 +109,7 @@ In contrast, O 55C r 1 does not contain a similar sub-rule.
 
 **_Principles governing further arguments before the amended S 28B SCJA_** 
 
-13     There appears to be case law which rules that time for an appeal runs from the time the judge refuses to hear further arguments, or hears and rejects these arguments: see _Thomson Plaza (Pte) Ltd v Liquidators of Yaohan Department Store Singapore Pte Ltd (in Liquidation)_ [2001] 2 SLR(R) 246 at [10] (“ _Thomson Plaza”_ ). The rationale behind this was explained by the Court of Appeal in _Singapore Press Holdings v Brown Noel Trading_ [1994] 3 SLR(R) 114 at [40], (“ _Singapore Press Holdings_ ”), citing the unreported case of _J H Rayner (Mincing Lane) Ltd v Teck Hock & Co (Pte) Ltd_ [1989] Mallal's Digest 394: 
+13     There appears to be case law which rules that time for an appeal runs from the time the judge refuses to hear further arguments, or hears and rejects these arguments: see _Thomson Plaza (Pte) Ltd v Liquidators of Yaohan Department Store Singapore Pte Ltd (in Liquidation)_ <span class="citation">[2001] 2 SLR(R) 246</span> at [10] (“ _Thomson Plaza”_ ). The rationale behind this was explained by the Court of Appeal in _Singapore Press Holdings v Brown Noel Trading_ <span class="citation">[1994] 3 SLR(R) 114</span> at [40], (“ _Singapore Press Holdings_ ”), citing the unreported case of _J H Rayner (Mincing Lane) Ltd v Teck Hock & Co (Pte) Ltd_ [1989] Mallal's Digest 394: 
 
  Section 34(2) [ ie s 34(2) of the repealed Supreme Court of Judicature Act] contemplates a situation where a party who is adversely affected by an interlocutory order may wish to appeal against that order but before so doing would like the judge to reconsider the order in the light of such further arguments as he may be able to put forward. If a judge agrees to hear further arguments, it must mean that he is prepared to change his mind if on hearing further arguments he comes to the conclusion that the original decision is wrong wholly or in some respects. In other words, until he has heard such arguments, his decision must remain tentative. 
 
@@ -120,7 +120,7 @@ However the facts of the case are distinguishable from the present because the j
 14     The real question in this appeal is what happens when a request for further arguments has been filed but there is no response from the DJ before the time for appeal runs out. As noted above, O 56 r 2(2) makes provision for this eventuality in the High Court. This rule was interpreted in _Aberdeen_ 
 
 
-_Asset Management Asia v Fraser & Neave_ [2001] 4 SLR 441 (“ _Aberdeen Asset Management_ ”) to mean that, if no reply is given, the time period for allowing an appeal starts from the end of the 14 days: 
+_Asset Management Asia v Fraser & Neave_ <span class="citation">[2001] 4 SLR 441</span> (“ _Aberdeen Asset Management_ ”) to mean that, if no reply is given, the time period for allowing an appeal starts from the end of the 14 days: 
 
 ... on the date the aggrieved party is informed by the Registrar that the judge does not require further argument or on the expiry of the 14 days limited, as the case may be, the aggrieved party may then proceed with the appeal to this court. 
 
@@ -128,7 +128,7 @@ _Asset Management Asia v Fraser & Neave_ [2001] 4 SLR 441 (“ _Aberdeen Asset M
 
 **The power of this Court to bring the SCA into line with S 28B SCJA** 
 
-16     The short answer to the Appellant’s contention that the court should apply s 28B SCJA to the Subordinate Courts is that it has no power or jurisdiction to do so. Even if it had some residual discretion under O 92 r 4, there are well known limits established by prior authority, ( _eg_ ., _Wee Soon Kim Anthony v Law Society of Singapore_ [2001] 2 SLR(R) 821 at [27] and [29], referring to “a need of such a gravity that the court should invoke its inherent jurisdiction”), within which this discretion is to be exercised. O 92 r 4 itself refers to preventing an injustice or an abuse of process. This would be a wholly inappropriate case to exercise that discretion and to somehow read O 56 r (2)(2) into O 55C r 2 is something I cannot and should not do. 
+16     The short answer to the Appellant’s contention that the court should apply s 28B SCJA to the Subordinate Courts is that it has no power or jurisdiction to do so. Even if it had some residual discretion under O 92 r 4, there are well known limits established by prior authority, ( _eg_ ., _Wee Soon Kim Anthony v Law Society of Singapore_ <span class="citation">[2001] 2 SLR(R) 821</span> at [27] and [29], referring to “a need of such a gravity that the court should invoke its inherent jurisdiction”), within which this discretion is to be exercised. O 92 r 4 itself refers to preventing an injustice or an abuse of process. This would be a wholly inappropriate case to exercise that discretion and to somehow read O 56 r (2)(2) into O 55C r 2 is something I cannot and should not do. 
 
 **_Whether the Court can apply the new principles in S28B SCJA_** 
 
@@ -163,7 +163,7 @@ _Asset Management Asia v Fraser & Neave_ [2001] 4 SLR 441 (“ _Aberdeen Asset M
 
  [emphasis added] 
 
-The new s 28B SCJA therefore makes an application for further arguments on interlocutory orders voluntary and supercedes _Aberdeen Asset Management’s_ ruling that a request for further arguments operates as an automatic stay of appeal time lines. This also statutorily overruled _Lim Kok Koon v Tan Jin Hwee Eunice_ [2004] 2 SLR 322 where the court had made clear that an application for further arguments did not have the effect of operating as an automatic stay for filing of the appeal where Chao JA had stated at [18]: 
+The new s 28B SCJA therefore makes an application for further arguments on interlocutory orders voluntary and supercedes _Aberdeen Asset Management’s_ ruling that a request for further arguments operates as an automatic stay of appeal time lines. This also statutorily overruled _Lim Kok Koon v Tan Jin Hwee Eunice_ <span class="citation">[2004] 2 SLR 322</span> where the court had made clear that an application for further arguments did not have the effect of operating as an automatic stay for filing of the appeal where Chao JA had stated at [18]: 
 
  [I]n any event, on such a request, whether the judge certifies that he will not hear further arguments, or there is simply no reply [within the time limit set by O 56 r 2(2)], the effect will be that the order of the judge stands and any notice of appeal must be filed within the prescribed time reckoned from the date the order was first made. Otherwise it would mean that a party could, by just requesting for further arguments, extend time to file his notice of appeal. 
 

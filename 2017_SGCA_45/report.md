@@ -18,7 +18,7 @@ _Patents and Inventions_ – _Industrial application_
 
 _Patents and Inventions_ – _Novelty_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2016] 4 SLR 252.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2016] 4 SLR 252</span>.] 
 
 1 August 2017 Judgment reserved 
 
@@ -39,7 +39,7 @@ _Patents and Inventions_ – _Novelty_
 
 4       On 26 August 2015, Warner-Lambert applied by Summons 4136 of 2015 (“SUM 4136”) for leave to amend the Patent pursuant to s 83(1) of the Patents Act. The amendments aimed to cure the invalidity in the Patent’s granted claims (“the Granted Claims”) which clearly contradicted s 16(2) of the Patents Act. 
 
-5       The High Court judge (“the Judge”) dismissed Warner-Lambert’s application to amend the Patent. He was of the view that the amendments, if granted, would extend the scope of protection of the Patent. He also held that there had been undue delay by Warner-Lambert in seeking the amendments which warranted the exercise of the court’s discretion to disallow the amendments. The Judge’s decision is reported as _Warner-Lambert Co LLC v Novartis (Singapore) Pte Ltd_ [2016] 4 SLR 252 (the “Judgment”). On 1 August 2016, Warner-Lambert was granted leave by the Judge to appeal against his decision to dismiss SUM 4136 “insofar as it relate[d] to [his] findings that the amendment would extend the protection conferred by the patent under Section 84(3)( _b_ ) of the Patents Act and that the court should exercise its discretion to disallow the amendments because they were sought after a lengthy and inexplicable delay”. 
+5       The High Court judge (“the Judge”) dismissed Warner-Lambert’s application to amend the Patent. He was of the view that the amendments, if granted, would extend the scope of protection of the Patent. He also held that there had been undue delay by Warner-Lambert in seeking the amendments which warranted the exercise of the court’s discretion to disallow the amendments. The Judge’s decision is reported as _Warner-Lambert Co LLC v Novartis (Singapore) Pte Ltd_ <span class="citation">[2016] 4 SLR 252</span> (the “Judgment”). On 1 August 2016, Warner-Lambert was granted leave by the Judge to appeal against his decision to dismiss SUM 4136 “insofar as it relate[d] to [his] findings that the amendment would extend the protection conferred by the patent under Section 84(3)( _b_ ) of the Patents Act and that the court should exercise its discretion to disallow the amendments because they were sought after a lengthy and inexplicable delay”. 
 
 6       Having considered the parties’ written and oral submissions and those of Professor David Llewelyn from the School of Law, Singapore Management University as _amicus curiae_ , we agree with the Judge’s decision and dismiss Warner-Lambert’s appeal. This appeal also raised certain issues in patent law which have not been considered by the Singapore courts. These issues relate to the protection of subsequent medical uses of known substances and the validity of “Swiss-style” claims under the Patents Act. Although the determination of these issues is not necessary for this appeal, we take the opportunity in this judgment to make our observations on these issues. 
 
@@ -269,7 +269,7 @@ amend the Patent pre-grant and post-grant and its inaction had not been adequate
 
  ( b ) extends the protection conferred by the patent. 
 
-The amendments sought must also satisfy the “base-line criteria” provided in s 25(5) of the Patents Act (see _Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd and other and other suits_ [2005] 3 SLR(R) 389 at [52]). Section 25(5) of the Patents Act states as follows: 
+The amendments sought must also satisfy the “base-line criteria” provided in s 25(5) of the Patents Act (see _Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd and other and other suits_ <span class="citation">[2005] 3 SLR(R) 389</span> at [52]). Section 25(5) of the Patents Act states as follows: 
 
  (5) The claim or claims shall – 
 
@@ -282,11 +282,11 @@ The amendments sought must also satisfy the “base-line criteria” provided in
 
  ( d ) relate to one invention or to a group of inventions which are so linked as to form a single inventive concept. 
 
-36     It is clear from the language of s 83(1) that the power to allow an amendment of patent specifications is a discretionary one (see _Ship’s Equipment Centre Bremen GmbH v Fuji Trading (Singapore) Pte Ltd and others and another suit_ [2015] 4 SLR 781 (“ _Ship’s Equipment_ ”) at [125]). Hence, even if the amendment does not disclose additional matter or extend the protection conferred by the patent, the court retains the general discretion to refuse an amendment application. The rationale of this general discretion was reiterated by Lee Seiu Kin J in _Ship’s Equipment_ at [133]: 
+36     It is clear from the language of s 83(1) that the power to allow an amendment of patent specifications is a discretionary one (see _Ship’s Equipment Centre Bremen GmbH v Fuji Trading (Singapore) Pte Ltd and others and another suit_ <span class="citation">[2015] 4 SLR 781</span> (“ _Ship’s Equipment_ ”) at [125]). Hence, even if the amendment does not disclose additional matter or extend the protection conferred by the patent, the court retains the general discretion to refuse an amendment application. The rationale of this general discretion was reiterated by Lee Seiu Kin J in _Ship’s Equipment_ at [133]: 
 
  ...it is important to bear in mind the underlying rationale of the discretion to refuse an application to amend. This is well explained by Aldous LJ in Kimberly-Clark Worldwide Inc v Proctor & Gamble Limited [2000] FSR 235 at 248 as the ‘desire to protect the public against abuse of monopoly’. Pumfrey J in Instance described it as “a desire to ensure that patentees do not obtain an advantage which is unfair from their failure to amend” and went further to consider that it may be “to punish patentees for the unreasonableness of their conduct even when no advantage has in fact been gained”. 
 
-37     The factors to be considered in the exercise of this discretion were set out by Aldous J (as he then was) in _Smith Kline & French Laboratories Limited v Evans Medical Limited_ [1989] FSR 561 (“ _Smith Kline & French Laboratories Ltd_ ”) at 569, endorsed by this Court in _FE Global Electronics Pte Ltd v Trek Technology (Singapore) Pte Ltd and another appeal_ [2006] 1 SLR(R) 874 (“ _FE Global_ ”) at [29] and applied by the High Court in _Novartis AG and another v Ranbaxy (Malaysia) Sdn Bhd_ [2013] 2 SLR 117 at [9] (“ _Novartis AG v Ranbaxy_ ”). These factors are: 
+37     The factors to be considered in the exercise of this discretion were set out by Aldous J (as he then was) in _Smith Kline & French Laboratories Limited v Evans Medical Limited_ [1989] FSR 561 (“ _Smith Kline & French Laboratories Ltd_ ”) at 569, endorsed by this Court in _FE Global Electronics Pte Ltd v Trek Technology (Singapore) Pte Ltd and another appeal_ <span class="citation">[2006] 1 SLR(R) 874</span> (“ _FE Global_ ”) at [29] and applied by the High Court in _Novartis AG and another v Ranbaxy (Malaysia) Sdn Bhd_ <span class="citation">[2013] 2 SLR 117</span> at [9] (“ _Novartis AG v Ranbaxy_ ”). These factors are: 
 
  (a) Whether the patentee has disclosed all the relevant information with regard to the amendments; 
 
@@ -298,14 +298,14 @@ The amendments sought must also satisfy the “base-line criteria” provided in
 
  (e) Whether the conduct of the patentee discourages the amendment of the patent. 
 
-38     Where the exercise of judicial discretion is called into question, an appellate court would be slow to substitute its decision for that of the lower court. The standard for overturning a judge’s exercise of discretion is a “high one” even though appeals are by way of rehearing: see _TDA v TCZ and others_ [2016] 3 SLR 329 at [25] cited by this Court in _Ceramiche Caesar SpA v Caesarstone Sdot-Yam Ltd_ [2017] SGCA 30 at [21]. The circumstances for overturning a judge’s discretion are set out by this Court in _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ [1999] 1 SLR(R) 1053 at [34]: 
+38     Where the exercise of judicial discretion is called into question, an appellate court would be slow to substitute its decision for that of the lower court. The standard for overturning a judge’s exercise of discretion is a “high one” even though appeals are by way of rehearing: see _TDA v TCZ and others_ <span class="citation">[2016] 3 SLR 329</span> at [25] cited by this Court in _Ceramiche Caesar SpA v Caesarstone Sdot-Yam Ltd_ <span class="citation">[2017] SGCA 30</span> at [21]. The circumstances for overturning a judge’s discretion are set out by this Court in _Lian Soon Construction Pte Ltd v Guan Qian Realty Pte Ltd_ <span class="citation">[1999] 1 SLR(R) 1053</span> at [34]: 
 
  It is trite law that an appeal against the exercise of a judge’s discretion will not be entertained unless it be shown that he exercised his discretion under a mistake of law, in disregard of 
 
 
  principle, under a misapprehension as to the facts, or that he took account of irrelevant matters, or the decision reached was “outside the generous ambit within which a reasonable disagreement is possible”... 
 
-The standard of review prescribed above has been applied by this Court in _Tjong Very Sumito and others v Chan Sing En and others_ [2011] 4 SLR 580 at [21] and _Westacre Investments Inc v The State-Owned Company Yugoimport SDPR_ [2009] 2 SLR(R) 166 at [17]. 
+The standard of review prescribed above has been applied by this Court in _Tjong Very Sumito and others v Chan Sing En and others_ <span class="citation">[2011] 4 SLR 580</span> at [21] and _Westacre Investments Inc v The State-Owned Company Yugoimport SDPR_ <span class="citation">[2009] 2 SLR(R) 166</span> at [17]. 
 
 39     Having reiterated these established principles, we now consider the Judge’s exercise of discretion in refusing Warner-Lambert’s amendment application and the issue of whether the amendments would extend the scope of the Patent’s protection. 
 
@@ -337,7 +337,7 @@ the delay, the plaintiff argued that it was entitled to wait for the final outco
 48     We agree with the Judge’s view that constructive knowledge of a patent’s potential invalidity is 
 
 
-sufficient. As rightly stated by the Judge at [105] of the Judgment, “[a] patentee who has been exposed to facts from which it was, or reasonably ought to have been, apparent to him or her that a claim might well be invalid unless amended, but nevertheless brings a late application to amend, is no position to say that there was, on the earlier occasion, no “need” to amend simply because it had not then been conclusively established that the claim was in fact invalid”. In our judgment, ensuring the timeliness of patent amendments upholds the public interest in “preventing unworthy inventions and products from monopolising the market” ( _Martek Biosciences Corp v Cargill International Trading Pte Ltd_ [2011] 1 SLR 1287 at [37]). Such an approach would also “take into account the public interest which is injured when invalid claims are persisted in so that inventors are legitimately warned off the area of the art ostensibly monopolised by the claims”: see _Raleigh Cycle Co Ltd v Miller (H) & Co_ [1951] AC 278 at 281. 
+sufficient. As rightly stated by the Judge at [105] of the Judgment, “[a] patentee who has been exposed to facts from which it was, or reasonably ought to have been, apparent to him or her that a claim might well be invalid unless amended, but nevertheless brings a late application to amend, is no position to say that there was, on the earlier occasion, no “need” to amend simply because it had not then been conclusively established that the claim was in fact invalid”. In our judgment, ensuring the timeliness of patent amendments upholds the public interest in “preventing unworthy inventions and products from monopolising the market” ( _Martek Biosciences Corp v Cargill International Trading Pte Ltd_ <span class="citation">[2011] 1 SLR 1287</span> at [37]). Such an approach would also “take into account the public interest which is injured when invalid claims are persisted in so that inventors are legitimately warned off the area of the art ostensibly monopolised by the claims”: see _Raleigh Cycle Co Ltd v Miller (H) & Co_ [1951] AC 278 at 281. 
 
 49     Further, under the self-assessment system, Warner-Lambert was under an obligation to make a considered decision before proceeding to obtain a grant of the Patent. The fact that the system was a self-assessment system at the time of grant should not give patentees the liberty of taking a lackadaisical approach in ensuring that their patent claims in the register comply with the requirements of patentability under the Patents Act. This is especially so as the grant of the Patent allowed Warner-Lambert to enjoy a monopoly in the supply and sale of pregabalin in Singapore despite the clear invalidity of the Granted Claims. Adopting a lenient approach as advocated by WarnerLambert “would only encourage dilatory conduct and wilful blindness on the part of patentees, and 
 

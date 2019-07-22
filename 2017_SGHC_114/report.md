@@ -193,7 +193,7 @@ stated the following: [note: 35]
 
  [emphasis added] 
 
-28     In the recent case of _Metropole Pte Ltd v Designshop Pte Ltd_ [2017] SGHC 45 (“ _Metropole_ ”), Vinodh Coomaraswamy J made the following observations regarding s 16(3) at [46]: 
+28     In the recent case of _Metropole Pte Ltd v Designshop Pte Ltd_ <span class="citation">[2017] SGHC 45</span> (“ _Metropole_ ”), Vinodh Coomaraswamy J made the following observations regarding s 16(3) at [46]: 
 
  It can be seen that an adjudicator comes under a statutory obligation to act impartially under two provisions of s 16(3). First, that obligation is set out expressly in s 16(3)( a ). Second, that obligation is implicit in his wider obligation to comply with the principles of natural justice under s 16(3)( c ). But there is no need to analyse these separate statutory obligations separately. The content of the obligation to act impartially under s 16(3)(a) is no different from the content of the obligation to act impartially in complying with the principles of natural justice under s 16(3) (c). An adjudicator who breaches one also breaches the other ( SEF Construction at [49]). 
 
@@ -203,7 +203,7 @@ I respectfully agree. The principles of natural justice stem from two overarchin
 
 _Apparent Bias under the Act_ 
 
-29     Apparent bias arises if “there are circumstances which would give rise to a reasonable suspicion or apprehension in a fair-minded reasonable person with knowledge of the relevant facts that the tribunal was biased”: see _Re Shankar Alan s/o Anant Kulkarni_ [2007] 1 SLR(R) 85 (“ _Re Shankar Alan_ ”) at [91]. This is known as the reasonable suspicion test, which has been held to apply to adjudicators of payment claim disputes under the Act (“SOPA adjudicators”): see _JRP & Associates Pte Ltd v Kindly Construction & Services Pte Ltd_ [2015] 3 SLR 575 (“ _JRP_ ”) at [53] and _Metropole_ at [47]. 
+29     Apparent bias arises if “there are circumstances which would give rise to a reasonable suspicion or apprehension in a fair-minded reasonable person with knowledge of the relevant facts that the tribunal was biased”: see _Re Shankar Alan s/o Anant Kulkarni_ <span class="citation">[2007] 1 SLR(R) 85</span> (“ _Re Shankar Alan_ ”) at [91]. This is known as the reasonable suspicion test, which has been held to apply to adjudicators of payment claim disputes under the Act (“SOPA adjudicators”): see _JRP & Associates Pte Ltd v Kindly Construction & Services Pte Ltd_ <span class="citation">[2015] 3 SLR 575</span> (“ _JRP_ ”) at [53] and _Metropole_ at [47]. 
 
 30     In oral submissions, Ms Neo accepted that the reasonable suspicion test was the applicable 
 
@@ -216,7 +216,7 @@ test but submitted that the allegations of apparent bias should be critically ex
 
 I accept that allegations of breach of natural justice against SOPA adjudicators must be critically examined, so that unmeritorious allegations do not stymie the Act’s aim of ensuring the timely settlement of payment disputes on an interim basis. In my judgment, in appropriate cases, such critical examination will additionally include examining the issue of waiver (see [49] – [53] below). But the test for apparent bias remains the same. The court applies the reasonable suspicion test to determine whether apparent bias is established on the facts of the case. 
 
-31     If the reasonable suspicion test is made out, the court may set aside the adjudication determination. This is clear from _Citiwall Safety Glass Pte Ltd v Mansource Interior Pte Ltd_ [2015] 1 SLR 797, where the Court of Appeal (“the CA”) recognised at [47] that an adjudication determination may be set aside if the adjudicator had violated the rules of natural justice. However, our courts have also held that not every such violation will justify setting aside an adjudication determination. Only material breaches of natural justice will suffice: see _Aik Heng Contracts and Services Pte Ltd v Deshin Engineering & Construction Pte Ltd_ [2015] SGHC 293 (“ _Aik Heng_ ”) at [24] and _Metropole_ at [62]. 
+31     If the reasonable suspicion test is made out, the court may set aside the adjudication determination. This is clear from _Citiwall Safety Glass Pte Ltd v Mansource Interior Pte Ltd_ <span class="citation">[2015] 1 SLR 797</span>, where the Court of Appeal (“the CA”) recognised at [47] that an adjudication determination may be set aside if the adjudicator had violated the rules of natural justice. However, our courts have also held that not every such violation will justify setting aside an adjudication determination. Only material breaches of natural justice will suffice: see _Aik Heng Contracts and Services Pte Ltd v Deshin Engineering & Construction Pte Ltd_ <span class="citation">[2015] SGHC 293</span> (“ _Aik Heng_ ”) at [24] and _Metropole_ at [62]. 
 
 32     Our courts have not considered whether or how the material breach requirement applies in cases of apparent bias under the Act. At this point, I note that no allegation of apparent bias was made in _Aik Heng_. Although an allegation of apparent bias was made in _Metropole_ (based on the adjudicator’s conduct), Coomaraswamy J, having found that no reasonable suspicion of apparent bias arose, did not proceed to discuss the material breach requirement in the context of the allegation of apparent bias. Again, in _JRP_ , Chan Seng Onn J did not consider the material breach requirement in dismissing the apparent bias allegation. As will become clear, it is also unnecessary for me to decide in this case whether or how the material breach requirement applies when the reasonable suspicion test is made out against a SOPA adjudicator. I therefore leave this issue for another occasion when it can be fully argued. 
 
@@ -239,7 +239,7 @@ _Aussie Airlines Pty Ltd v Australian Airlines Pty Ltd and Another_ (1996) 135 A
 
  [emphasis added] 
 
-I agree. Where apparent bias is said to arise from the tribunal’s associations, a rational connection must be shown between the associations and the prospect of bias. This flows from the very idea of a reasonable suspicion. (It is notable that the rational connection test is now part of the overarching test for apparent bias in Australia: see the majority judgment in _Ebner v Official Trustee in Bankruptcy_ (2000) 205 CLR 337 at 345.) A suspicion is reasonable if and only if it is founded on a reason which is supported by the evidence. This is akin to the definition of a reasonable doubt, in the context of the criminal standard of proof, as a doubt “for which there is a reason that is, in turn, relatable to and supported by the evidence presented”: see _Jagatheesan s/o Krishnasamy v Public Prosecutor_ [2006] 4 SLR(R) 45, at [61]. Therefore, in my view, a party who alleges apparent bias based on a tribunal’s associations must show that there is reason to hold that the tribunal’s associations might influence its decision. 
+I agree. Where apparent bias is said to arise from the tribunal’s associations, a rational connection must be shown between the associations and the prospect of bias. This flows from the very idea of a reasonable suspicion. (It is notable that the rational connection test is now part of the overarching test for apparent bias in Australia: see the majority judgment in _Ebner v Official Trustee in Bankruptcy_ (2000) 205 CLR 337 at 345.) A suspicion is reasonable if and only if it is founded on a reason which is supported by the evidence. This is akin to the definition of a reasonable doubt, in the context of the criminal standard of proof, as a doubt “for which there is a reason that is, in turn, relatable to and supported by the evidence presented”: see _Jagatheesan s/o Krishnasamy v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 45</span>, at [61]. Therefore, in my view, a party who alleges apparent bias based on a tribunal’s associations must show that there is reason to hold that the tribunal’s associations might influence its decision. 
 
 36     The Australian jurisprudence also provides guidance on how a rational link between the 
 
@@ -494,7 +494,7 @@ required to submit its payment response “within twenty-one (21) days” from t
 
 **_The Legal Background to the Parties’ Arguments_** 
 
-83     It is settled law that an adjudication determination is liable to be set aside if it flows from an adjudication application which was lodged out of time: see _YTL Construction (S) Pte Ltd v Balanced Engineering & Construction Pte Ltd_ [2014] SGHC 142 at [43]-[49] and _UES Holdings Pte Ltd v Grouteam Pte Ltd_ [2016] 1 SLR 312 (“ _Grouteam (HC)_ ”) at [51]. 
+83     It is settled law that an adjudication determination is liable to be set aside if it flows from an adjudication application which was lodged out of time: see _YTL Construction (S) Pte Ltd v Balanced Engineering & Construction Pte Ltd_ <span class="citation">[2014] SGHC 142</span> at [43]-[49] and _UES Holdings Pte Ltd v Grouteam Pte Ltd_ <span class="citation">[2016] 1 SLR 312</span> (“ _Grouteam (HC)_ ”) at [51]. 
 
 84     In relation to a construction contract, the deadline for filing an adjudication application hinges on the deadline for a payment response. This is clear from the following provisions of the Act: 
 
@@ -595,7 +595,7 @@ Application had been lodged (just) in time on 30 September 2016. [note: 66]
 
  [emphasis added] 
 
-Thus, in _Grouteam (HC)_ , I stated that the “relevant provisions” of the Act which cl 19.1 referred to, which the parties accepted would apply, were ss 8(1), 10(2) and 11(1). While the CA allowed Grouteam’s appeal against my decision (see _Grouteam Pte Ltd v UES Holdings Pte Ltd_ [2016] 5 SLR 1011 (“ _Grouteam (CA)_ ”), the CA did not comment on my interpretation of cl 19.1. Rather, the CA allowed the appeal on the basis that the provision governing the submission of payment claims was not the provision which I had identified; it followed that the payment claim had been served in time (see _Grouteam (CA)_ at [44]). 
+Thus, in _Grouteam (HC)_ , I stated that the “relevant provisions” of the Act which cl 19.1 referred to, which the parties accepted would apply, were ss 8(1), 10(2) and 11(1). While the CA allowed Grouteam’s appeal against my decision (see _Grouteam Pte Ltd v UES Holdings Pte Ltd_ <span class="citation">[2016] 5 SLR 1011</span> (“ _Grouteam (CA)_ ”), the CA did not comment on my interpretation of cl 19.1. Rather, the CA allowed the appeal on the basis that the provision governing the submission of payment claims was not the provision which I had identified; it followed that the payment claim had been served in time (see _Grouteam (CA)_ at [44]). 
 
 95     In my judgment, cl 19.1 did not incorporate the Statutory Definition into the Sub-Contract (in respect of payment responses) for the following reasons: 
 
@@ -607,7 +607,7 @@ Thus, in _Grouteam (HC)_ , I stated that the “relevant provisions” of the Ac
 
 **_The Interpretation Issue_** 
 
-97     In _Fujitec Singapore Corp Ltd v GS Engineering & Construction Corp_ [2016] 1 SLR 1307 (“ _Fujitec_ ”), the construction contract provided that payment responses would be issued within “21 calendar days of receipt of the progress claims”. In interpreting this clause, Lee Seiu Kin J remarked 
+97     In _Fujitec Singapore Corp Ltd v GS Engineering & Construction Corp_ <span class="citation">[2016] 1 SLR 1307</span> (“ _Fujitec_ ”), the construction contract provided that payment responses would be issued within “21 calendar days of receipt of the progress claims”. In interpreting this clause, Lee Seiu Kin J remarked 
 
 
 at [10] as follows: 
@@ -624,7 +624,7 @@ apply. [note: 71] By contrast, the Defendant emphasised Lee J’s comment that h
 
 considered, in accordance with the Statutory Definition. [note: 72] 
 
-99     In _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR(R) 1029 (“ _Zurich Insurance_ ”), the CA affirmed the contextual approach to contractual interpretation in Singapore: see _Zurich Insurance_ at [114]. The CA also endorsed, at [131], a summary of principles of contractual interpretation in Gerard McMeel, _The Construction of Contracts: Interpretation, Implication and Rectification_ (Oxford University Press, 2007) at paras 1.124–1.133. In particular, the CA endorsed the following principle: 
+99     In _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 1029</span> (“ _Zurich Insurance_ ”), the CA affirmed the contextual approach to contractual interpretation in Singapore: see _Zurich Insurance_ at [114]. The CA also endorsed, at [131], a summary of principles of contractual interpretation in Gerard McMeel, _The Construction of Contracts: Interpretation, Implication and Rectification_ (Oxford University Press, 2007) at paras 1.124–1.133. In particular, the CA endorsed the following principle: 
 
  The contextual dimension 
 
@@ -711,7 +711,7 @@ that the Notice was defective. [note: 78] In particular, the Plaintiff submitted
 
  [emphasis added] 
 
-108    However, not all breaches of the Act or the Regulations render an adjudication determination liable to be set aside. In _Lee Wee Lick Terence (alias Li Weili Terence) v Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) and another appeal_ [2013] 1 SLR 401, the CA held at [67] that the court may set aside an adjudication determination if the claimant had violated a provision “which is so important that _it is the legislative purpose that an act done in breach of the provision should be invalid_ ...” [emphasis in original]. The Plaintiff recognised this point, and argued that reg 7(1)( _f_ ) was such a fundamental provision. The Plaintiff noted that the Notice was the only document in respect of which a description of the payment claim dispute is required, and submitted that such a description is practically important because it helps the respondent to a payment claim decide whether to pursue settlement of the claim with the claimant or to proceed to adjudication. [note: 79] 
+108    However, not all breaches of the Act or the Regulations render an adjudication determination liable to be set aside. In _Lee Wee Lick Terence (alias Li Weili Terence) v Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) and another appeal_ <span class="citation">[2013] 1 SLR 401</span>, the CA held at [67] that the court may set aside an adjudication determination if the claimant had violated a provision “which is so important that _it is the legislative purpose that an act done in breach of the provision should be invalid_ ...” [emphasis in original]. The Plaintiff recognised this point, and argued that reg 7(1)( _f_ ) was such a fundamental provision. The Plaintiff noted that the Notice was the only document in respect of which a description of the payment claim dispute is required, and submitted that such a description is practically important because it helps the respondent to a payment claim decide whether to pursue settlement of the claim with the claimant or to proceed to adjudication. [note: 79] 
 
 109    In _Aik Heng_ , the applicant argued that the adjudication determination should be set aside because the notice of intention to apply for adjudication (“the s 13(2) notice”) breached, _inter alia_ , reg 7(1)( _c_ )(iii) of the Regulations. The notice did not state the date of the contract, as required under reg 7(1)( _c_ )(iii), _ie_ , the date on which the Letter of Award was accepted, but the date of the Letter of Award. However, Lee Seiu Kin J held that the breach did not warrant setting aside the adjudication determination and reasoned at [12] – [14] as follows: 
 

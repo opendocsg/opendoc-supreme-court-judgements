@@ -63,7 +63,7 @@ before me, Andy Ong and Mr Ong Han Boon (“Han Boon”) were the directors of t
 
  (d) Originating Summons No 1004 of 2017 (“OS1004/2017”). 
 
-10     S1098/2013 was a minority oppression action by Sakae against GREIC, ERC Holdings, ERCU, Andy Ong, Ho Yew Kong and Han Boon, among others. Sakae made numerous allegations against Andy Ong, Ho Yew Kong and Han Boon for wrongfully diverting moneys from GREIH over the course of seven transactions. In brief, the High Court found that there was minority oppression and made several orders including an order that GREIH be wound up – see _Sakae Holdings Ltd v Gryphon Real Estate Investment Corporation Pte Ltd and others_ [2017] SGHC 73. The High Court judgment is currently under appeal. 
+10     S1098/2013 was a minority oppression action by Sakae against GREIC, ERC Holdings, ERCU, Andy Ong, Ho Yew Kong and Han Boon, among others. Sakae made numerous allegations against Andy Ong, Ho Yew Kong and Han Boon for wrongfully diverting moneys from GREIH over the course of seven transactions. In brief, the High Court found that there was minority oppression and made several orders including an order that GREIH be wound up – see _Sakae Holdings Ltd v Gryphon Real Estate Investment Corporation Pte Ltd and others_ <span class="citation">[2017] SGHC 73</span>. The High Court judgment is currently under appeal. 
 
 11     OS924/2015 was an application by Mr Yap Chew Loong (“Yap”), whom the Company alleged 
 
@@ -84,7 +84,7 @@ was Douglas Foo’s associate, for, among others, a declaration that the directo
 
 **_Loss of substratum_** 
 
-15     A company’s substratum is lost if its main objects, for which it was set up, can no longer be achieved or have been abandoned by the company: _Walter Woon on Company Law_ (Tan Cheng Han, SC gen ed) (Sweet & Maxwell, Rev 3rd Ed, 2009) at paras 17.54 and 17.58 and _Chua Kien How v Goodwealth Trading Pte Ltd and another_ [1992] 1 SLR(R) 870 at [15]. 
+15     A company’s substratum is lost if its main objects, for which it was set up, can no longer be achieved or have been abandoned by the company: _Walter Woon on Company Law_ (Tan Cheng Han, SC gen ed) (Sweet & Maxwell, Rev 3rd Ed, 2009) at paras 17.54 and 17.58 and _Chua Kien How v Goodwealth Trading Pte Ltd and another_ <span class="citation">[1992] 1 SLR(R) 870</span> at [15]. 
 
 16     It was not disputed that the Company was an SPV set up solely to participate in the Big Hotel Project through holding shares in ERCU. Clause 2.3 of a Shareholders’ Agreement dated 21 February 2011 (“the Shareholders’ Agreement”) provided that the “principal business of the Company shall be to invest in the project of acquiring, converting and managing up to 52.5% of [the Big Hotel] through 
 
@@ -97,7 +97,7 @@ was Douglas Foo’s associate, for, among others, a declaration that the directo
 18     Loss of confidence in the directors on account of their lack of probity in the conduct and management of the company affairs can justify a winding up on the “just and equitable” ground: 
 
 
-_Chong Choon Chai and another v Tan Gee Cheng and another_ [1993] 2 SLR(R) 685 at [9]. However, the Company has no operations and its only outstanding affairs were the distribution of its share of the security deposit and the Escrow Sum (if any) upon receipt of the same from ERCU. The Company had confirmed that it had no objections to being wound up after the dispute over the Escrow Sum was resolved. 
+_Chong Choon Chai and another v Tan Gee Cheng and another_ <span class="citation">[1993] 2 SLR(R) 685</span> at [9]. However, the Company has no operations and its only outstanding affairs were the distribution of its share of the security deposit and the Escrow Sum (if any) upon receipt of the same from ERCU. The Company had confirmed that it had no objections to being wound up after the dispute over the Escrow Sum was resolved. 
 
 19     Douglas Foo submitted that he had no confidence that Andy Ong and Han Boon would properly distribute the Company’s share of the Escrow Sum (if any) to the Company’s shareholders. Douglas Foo went so far as to say that he believed that Andy Ong and Han Boon may siphon away the Company’s share of the Escrow Sum. Douglas Foo submitted that this was a reasonable inference to be drawn from the following actions taken by Andy Ong and Han Boon in the past: 
 
@@ -122,7 +122,7 @@ in S1098/2013 against Andy Ong, Han Boon and Ho Yew Kong. [note: 4] However, the
 
 property had already been distributed by ERCU and that Andy Ong and Han Boon (as directors of the Company) had in turn distributed the Company’s share to its shareholders including Douglas Foo. Besides, the dispute between GREIH and ERCU over the Escrow Sum was now out in the open. I had no doubt that Douglas Foo could and would be monitoring the progress of GREIH’s claim to the Escrow Sum. The Escrow Sum itself was not at risk, being held by solicitors for the Company pending the resolution of GREIH’s claim. In my judgment, there was no basis for Douglas Foo’s allegation that Andy Ong and Han Boon might siphon away the Company’s share of the Escrow Sum if GREIH failed in its claim. 
 
-23     Further and in any event, the law is clear that even if the statutory grounds for winding up a company have been technically established, the court retains the residual discretion to consider all the relevant factors, including the utility, propriety and effect of a winding up order as well as the overall fairness and justice of the case, before deciding whether or not to wind up the company: _Lai Shit Har and another v Lau Yu Man_ [2008] 4 SLR(R) 348 at [33]. 
+23     Further and in any event, the law is clear that even if the statutory grounds for winding up a company have been technically established, the court retains the residual discretion to consider all the relevant factors, including the utility, propriety and effect of a winding up order as well as the overall fairness and justice of the case, before deciding whether or not to wind up the company: _Lai Shit Har and another v Lau Yu Man_ <span class="citation">[2008] 4 SLR(R) 348</span> at [33]. 
 
 24     In the present case, even assuming that there was some basis for Douglas Foo’s loss of confidence in the management of the Company’s affairs, I was of the view that a winding up order ought not to be made for the following reasons. 
 

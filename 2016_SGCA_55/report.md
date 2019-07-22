@@ -20,13 +20,13 @@ _Equity_ – _Breach of fiduciary duty_ – _Joint and several liability_
 
 _Damages_ – _Interest_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2015] SGHC 286.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2015] SGHC 286</span>.] 
 
 9 September 2016 Judgment reserved. 
 
 **Chao Hick Tin JA (delivering the judgment of the court):** 
 
-1       These are two cross-appeals, one by the plaintiff and the other by the second defendant, against the decision of the High Court Judge (“the Judge”) in _Dynasty Line Limited (in liquidation) v Sukamto Sia and another_ [2015] SGHC 286 (“ _Judgment (Assessment)_ ”), in relation to an assessment of equitable compensation payable by the defendants to the plaintiff in respect of their breaches of fiduciary duty. Civil Appeal No 208 of 2015 (“CA 208”) is the appeal by the plaintiff against both the defendants, while Civil Appeal No 223 of 2015 (“CA 223”) is the appeal by the second defendant against the plaintiff. Both appeals raise a gamut of issues, some of which overlap. 
+1       These are two cross-appeals, one by the plaintiff and the other by the second defendant, against the decision of the High Court Judge (“the Judge”) in _Dynasty Line Limited (in liquidation) v Sukamto Sia and another_ <span class="citation">[2015] SGHC 286</span> (“ _Judgment (Assessment)_ ”), in relation to an assessment of equitable compensation payable by the defendants to the plaintiff in respect of their breaches of fiduciary duty. Civil Appeal No 208 of 2015 (“CA 208”) is the appeal by the plaintiff against both the defendants, while Civil Appeal No 223 of 2015 (“CA 223”) is the appeal by the second defendant against the plaintiff. Both appeals raise a gamut of issues, some of which overlap. 
 
 **Facts and Decision Below** 
 
@@ -112,7 +112,7 @@ _Liquidators sue Lee & Sia for breach of fiduciary duty in Singapore_
 
 **_Liability_** 
 
-12     The action was bifurcated. The issue of liability was tried before the Judge and her decision was reported as _Dynasty Line Ltd (in liquidation) v Sia Sukamto and another_ [2013] 4 SLR 253 (“ _Judgment (Liability) (HC)_ ”). Cross-appeals were brought against that decision to the Court of Appeal. Dynasty prevailed before the Court of Appeal (in Civil Appeal No 105 of 2013). For completeness, we should add that Sia’s counterclaims ( _ie_ , against Low for an alleged breach of the terms of a settlement agreement, and against Dynasty, Low and the liquidators for conspiracy to injure) failed before both the High Court and the Court of Appeal. The Court of Appeal decision was reported as _Dynasty Line Ltd (in liquidation) v Sia Sukamto and another and another appeal_ [2014] 3 
+12     The action was bifurcated. The issue of liability was tried before the Judge and her decision was reported as _Dynasty Line Ltd (in liquidation) v Sia Sukamto and another_ <span class="citation">[2013] 4 SLR 253</span> (“ _Judgment (Liability) (HC)_ ”). Cross-appeals were brought against that decision to the Court of Appeal. Dynasty prevailed before the Court of Appeal (in Civil Appeal No 105 of 2013). For completeness, we should add that Sia’s counterclaims ( _ie_ , against Low for an alleged breach of the terms of a settlement agreement, and against Dynasty, Low and the liquidators for conspiracy to injure) failed before both the High Court and the Court of Appeal. The Court of Appeal decision was reported as _Dynasty Line Ltd (in liquidation) v Sia Sukamto and another and another appeal_ [2014] 3 
 
 
 SLR 277 (“ _Judgment (Liability) (CA)_ ”). 
@@ -136,7 +136,7 @@ SLR 277 (“ _Judgment (Liability) (CA)_ ”).
  (a) Lee and Sia were jointly and severally liable for the Commerzbank pledge since both signed off on the Commerzbank pledge. Their joint participation fell within the principle in Re Carriage Cooperative Supply Association (1884) 27 ChD 322 (“ Re Carriage ”) that fiduciaries’ liability for a breach of duty will be joint and several where the fiduciaries jointly participated in the act leading to that breach. We note that in Judgment (Liability) (HC) the Judge appeared to have proceeded on the assumption that issue estoppel did not arise as to joint and several liability; neither did the Court of Appeal in Judgment (Liability) (CA) explicitly address it. 
 
 
-(b) Lee’s breach caused Dynasty’s loss. The “but for” test, which was applicable under BVI law to determine causation, was satisfied since Lee’s signing of the pledge was part of a single cause. It would have been speculative to say what would otherwise have happened if Lee did not sign the pledge. The Judge held that the _Judgment (Liability) (CA)_ could not have resulted in issue estoppel as to causation, because the fourth requirement of identity of subject matter (see _Lee Tat Development Pte Ltd v Management Corporation Strata Title Plan No 301_ [2005] 3 SLR(R) 157 at [14]–[15] and _The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International Ltd (nTan Corporate Advisory Pte Ltd and others, other parties) and another appeal_ [2015] 5 SLR 1104 at [98]) was not satisfied. 
+(b) Lee’s breach caused Dynasty’s loss. The “but for” test, which was applicable under BVI law to determine causation, was satisfied since Lee’s signing of the pledge was part of a single cause. It would have been speculative to say what would otherwise have happened if Lee did not sign the pledge. The Judge held that the _Judgment (Liability) (CA)_ could not have resulted in issue estoppel as to causation, because the fourth requirement of identity of subject matter (see _Lee Tat Development Pte Ltd v Management Corporation Strata Title Plan No 301_ <span class="citation">[2005] 3 SLR(R) 157</span> at [14]–[15] and _The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT International Ltd (nTan Corporate Advisory Pte Ltd and others, other parties) and another appeal_ <span class="citation">[2015] 5 SLR 1104</span> at [98]) was not satisfied. 
 
 (c) As regards Dynasty’s losses, the Judge made the following holdings: 
 
@@ -353,7 +353,7 @@ Our interpretation of this passage is that, in the context in which it was made,
 
 59     In this light, the question then becomes whether the Judge was right to have, on her own initiative, overridden the parties’ agreement and reduced the pre-liquidation interest claimable by Dynasty against Sia and Lee to less than six years. There is no contrary evidence that the BVI law in this regard is any different from that of Singapore. 
 
-60     In our view, the answer is “no”. The Judge observed (at [62] of the _Judgment (Assessment)_ ), on the authority of _D’Oz International Pte Ltd v PSB Corp Pte Ltd and another appeal_ [2010] 3 SLR 267 at [25], that the presumption of similarity of laws was subject to one exception, _ie_ , that it is unjust or inconvenient to apply the presumption. It would, in our view, be unjust to adjust the duration for which pre-liquidation interest is to run if it is the subject of an agreement freely arrived at by the parties. Moreover, such agreement could be seen as an agreement as to the content of BVI law, _ie_ , an agreement as to a fact (as opposed to a statement of law) and the Judge was not at liberty to change what parties had agreed based on her own notion. 
+60     In our view, the answer is “no”. The Judge observed (at [62] of the _Judgment (Assessment)_ ), on the authority of _D’Oz International Pte Ltd v PSB Corp Pte Ltd and another appeal_ <span class="citation">[2010] 3 SLR 267</span> at [25], that the presumption of similarity of laws was subject to one exception, _ie_ , that it is unjust or inconvenient to apply the presumption. It would, in our view, be unjust to adjust the duration for which pre-liquidation interest is to run if it is the subject of an agreement freely arrived at by the parties. Moreover, such agreement could be seen as an agreement as to the content of BVI law, _ie_ , an agreement as to a fact (as opposed to a statement of law) and the Judge was not at liberty to change what parties had agreed based on her own notion. 
 
 61     In these circumstances, the post-judgment pre-liquidation interest should run, as agreed, for six years ( _ie_ , from 6 April 2001 to 5 April 2007). 
 
@@ -496,7 +496,7 @@ _Issue 5.1—Whether Lee’s OTS was in compliance with O 22A r 10 of the ROC_
 
  [emphasis in original in bold; emphasis added in bold italics] 
 
-82     In _Denis Matthew Harte v Tan Hun Hoe and Another_ [2001] SGHC 19, Chan Seng Onn JC (as he then was) explained the rationale of O 22A r 10 and why compliance had to be strict, and he stated that the costs consequences under O 22A r 9 cannot apply and the court should be slow to mimic the costs consequences when exercising its general discretion: 
+82     In _Denis Matthew Harte v Tan Hun Hoe and Another_ <span class="citation">[2001] SGHC 19</span>, Chan Seng Onn JC (as he then was) explained the rationale of O 22A r 10 and why compliance had to be strict, and he stated that the costs consequences under O 22A r 9 cannot apply and the court should be slow to mimic the costs consequences when exercising its general discretion: 
 
 21\. The rationale behind Rule 10 (b) is to ensure that a defendant alleged to be jointly or jointly and severally liable with any other defendant does not offer to settle only his part. This is to avoid putting the plaintiff in an embarrassing position having to deal with the balance of his claim against the other defendants jointly or jointly and severally liable, and having at the same time to face the risk of a cost penalty should he decide not to accept the offer coming from only one of the defendants. 
 
@@ -511,7 +511,7 @@ _Issue 5.1—Whether Lee’s OTS was in compliance with O 22A r 10 of the ROC_
 
  [emphasis in original in bold; emphasis added in bold italics] 
 
-83     Lee’s reliance on _CCM Industrial Pte Ltd v Uniquetech Pte Ltd_ [2009] 2 SLR(R) 20 for the proposition that the court retains the jurisdiction to award indemnity costs under O 22A r 9(5) even if O 22A r 9(3) was inapplicable brings it nowhere. This is because r 9(5) is expressed to operate without prejudice to r 9(3). In contrast, O 22A r 10 simply states that the entire r 9 does not operate if no conforming OTS was made. 
+83     Lee’s reliance on _CCM Industrial Pte Ltd v Uniquetech Pte Ltd_ <span class="citation">[2009] 2 SLR(R) 20</span> for the proposition that the court retains the jurisdiction to award indemnity costs under O 22A r 9(5) even if O 22A r 9(3) was inapplicable brings it nowhere. This is because r 9(5) is expressed to operate without prejudice to r 9(3). In contrast, O 22A r 10 simply states that the entire r 9 does not operate if no conforming OTS was made. 
 
 84     In the circumstances, we take the view that the costs consequences under O 22A r 9 cannot apply. 
 

@@ -26,7 +26,7 @@ This is an appeal against the dec ision of the Senior Assistant Registrar in whi
 
 **Held, dismissing the appeal:** 
 
-(1) Order 27 r 3 relates to admissions of fac t, whether in the pleadings or otherwise. If the liability turns on a question of law or mixed law and fac t, admissions of fac t alone c annot determine the matter (see 16); _Shunmugam Jayakumar v Jeyaretnam_ [1997] 2 SLR 172 applied. 
+(1) Order 27 r 3 relates to admissions of fac t, whether in the pleadings or otherwise. If the liability turns on a question of law or mixed law and fac t, admissions of fac t alone c annot determine the matter (see 16); _Shunmugam Jayakumar v Jeyaretnam_ <span class="citation">[1997] 2 SLR 172</span> applied. 
 
 (2) Although Ow had admitted to drawing down the sum in question, he had pleaded that the bank was prec luded from rec overing from him in view of the alleged breac hes of the Banking Ac t and MAS Notic es. If he is right on this issue, then he would not be liable. To give judgment for the bank against Ow would determine this issue (see 17). 
 
@@ -51,7 +51,7 @@ Ltd [1979] 2 All ER 1185 (refd)
 
 _Shunmugam Jayakumar v Jeyaretnam_ 
 
-[1997] 2 SLR 172 (refd) 
+<span class="citation">[1997] 2 SLR 172</span> (refd) 
 
 **Legislation referred to** 
 
@@ -121,7 +121,7 @@ Rules of Court, Order 27 r 3
 
 15     Counsel for the Bank, Mr Tay, submitted that Ow had pleaded that he had drawn down the sum of $10,767,707.18 on 28 July 1997 to disc harge the BOA overdraft ac c ount. Therefore Ow had admitted that he was liable to the Bank for at least that sum. 
 
-16     Order 27, r 3 relates to admissions of fac t, whether in the pleadings or otherwise. If the liability turns on a question of law or mixed law and fac t, admissions of fac t alone c annot determine the matter – see _Shunmugam Jayakumar v Jeyaretnam_ [1997] 2 SLR 172 at 35 & 36. Therefore where a defendant admits to negligenc e but denies c ausation there is no admission of liability – see _Blundell v Rimmer_ [1971] 1 All ER 1072 whic h is approved by the Court of Appeal in _Rankine v Garton Sons & Co Ltd_ [1979] 2 All ER 1185. There must be _"a clear admission of facts in the face of which it is_ 
+16     Order 27, r 3 relates to admissions of fac t, whether in the pleadings or otherwise. If the liability turns on a question of law or mixed law and fac t, admissions of fac t alone c annot determine the matter – see _Shunmugam Jayakumar v Jeyaretnam_ <span class="citation">[1997] 2 SLR 172</span> at 35 & 36. Therefore where a defendant admits to negligenc e but denies c ausation there is no admission of liability – see _Blundell v Rimmer_ [1971] 1 All ER 1072 whic h is approved by the Court of Appeal in _Rankine v Garton Sons & Co Ltd_ [1979] 2 All ER 1185. There must be _"a clear admission of facts in the face of which it is_ 
 
 
 _impossible for the party making it to succeed"_ _per_ Sargant J. in _Ellis v Allen_ [1914] 1 Ch. 904 at p.909. In that c ase the defendant’s c ounsel was not able to show how, with the admissions made, the defendant would be able to suc c eed in defending the ac tion. Sargant J. gave judgment against the defendant saying (at p.909): 

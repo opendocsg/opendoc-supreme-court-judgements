@@ -285,7 +285,7 @@ could refer to the plaintiff, who was not specifically mentioned at all in the a
 44     Counsel for the plaintiffs submitted that the defamatory words indeed referred to the second to ninth plaintiffs as, the court can take into account all relevant circumstances which might lead persons reading the libel and who are acquainted with these plaintiffs, to believe they were being referred to, citing inter alia _Vlasic v Federal Capital Press of Australia_ [1976] 9 ACTR 1, _DHKW_ 
 
 
-_Marketing v Nature's Farm Pte Ltd_ [1999] 2 SLR 400 and, my decision in _Mohd Hussein v Chew How Yang Eddie_ [1995] 3 SLR 177 to support his proposition. 
+_Marketing v Nature's Farm Pte Ltd_ <span class="citation">[1999] 2 SLR 400</span> and, my decision in _Mohd Hussein v Chew How Yang Eddie_ <span class="citation">[1995] 3 SLR 177</span> to support his proposition. 
 
 45     _Gatley on Libel and Slander_ (supra) at pp 161 and 163 contains the following passages:
 
@@ -318,7 +318,7 @@ _Marketing v Nature's Farm Pte Ltd_ [1999] 2 SLR 400 and, my decision in _Mohd H
 
  (vi) reports of judicial proceedings. 
 
-Only (i) and (ii) can possibly apply in Ngow's defence. In this regard, I can do no better than to rely on an authority cited by his counsel namely _Chen Chang v Central Christian Church_ [1999] 1 SLR 94 where our appellate court (at p 113 para 56) adopted Lord Atkinson's definition (at 334) of qualified privilege in _Adam v Ward_ [1971] AC 309: 
+Only (i) and (ii) can possibly apply in Ngow's defence. In this regard, I can do no better than to rely on an authority cited by his counsel namely _Chen Chang v Central Christian Church_ <span class="citation">[1999] 1 SLR 94</span> where our appellate court (at p 113 para 56) adopted Lord Atkinson's definition (at 334) of qualified privilege in _Adam v Ward_ [1971] AC 309: 
 
  A privileged occasion is....an occasion where the person who makes a communication has an interest, or a duty, legal, social or moral, to make it to the person to whom it is made and the person to whom it is so made has a corresponding interest or duty to receive it. This reciprocity is essential. 
 

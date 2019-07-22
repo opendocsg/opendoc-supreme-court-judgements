@@ -67,7 +67,7 @@ _Contract_ – _Remedies_ – _Remoteness of damage_ – _Seller contracting to 
 
 6       Before I deal with the arguments on the implied term, I will set out the principles regarding the interpretation of documents and the imposition of an implied term. 
 
-7       In _United Lifestyle Holdings Pte Ltd v Oakwell Engineering Ltd_ [2002] 2 SLR 308, Lee Seiu Kin JC referred to _Prenn v Simmonds_ [1971] 1 WLR 1381 _, Reardon Smith Line Ltd v Yngvar HansenTangen_ [1976] 1 WLR 989, _Mannai Investment Co Ltd v Eagle Star Life Assurance Co Ltd_ [1997] AC 749 and _Tan Hock Keng v L & M Group Investments Ltd_ [2002] 2 SLR 213. He concluded at [7]: 
+7       In _United Lifestyle Holdings Pte Ltd v Oakwell Engineering Ltd_ <span class="citation">[2002] 2 SLR 308</span>, Lee Seiu Kin JC referred to _Prenn v Simmonds_ [1971] 1 WLR 1381 _, Reardon Smith Line Ltd v Yngvar HansenTangen_ [1976] 1 WLR 989, _Mannai Investment Co Ltd v Eagle Star Life Assurance Co Ltd_ [1997] AC 749 and _Tan Hock Keng v L & M Group Investments Ltd_ <span class="citation">[2002] 2 SLR 213</span>. He concluded at [7]: 
 
  Those authorities hold that evidence may be admitted of the factual background known to the parties at the time of contracting, including the genesis and purpose of the transaction, but not of the negotiations or intentions of the parties. 
 
@@ -80,13 +80,13 @@ _Contract_ – _Remedies_ – _Remoteness of damage_ – _Seller contracting to 
 
 I would add that the principle in _Miller_ has been applied in Singapore in many cases, although subsequent conduct can constitute a variation or an estoppel in appropriate circumstances. 
 
-9       In _Telestop Pte Ltd v Telecom Equipment Pte Ltd_ [2004] SGHC 267, Judith Prakash J said at [68]: 
+9       In _Telestop Pte Ltd v Telecom Equipment Pte Ltd_ <span class="citation">[2004] SGHC 267</span>, Judith Prakash J said at [68]: 
 
  The courts do not lightly imply a term into a written contract. They only do so if, objectively, it is considered necessary for the “business efficacy” of the contract and so obvious that there would be no doubt of the parties’ joint answer to the query of the “officious bystander” as to whether that term was part of the contract. Chitty on Contracts (29th Ed, 2004) states at (13-004): 
 
  An implication of this nature may be made in two situations: first, where it is necessary to give business efficacy to the contract, and, secondly, where the term implied represents the obvious, but unexpressed, intention of the parties. These two criteria often overlap and, in many cases, have been applied cumulatively, although it is submitted that they are, in fact, alternative grounds. Both, however, depend on the presumed intention of the parties. 
 
- In Hiap Hong & Co Pte Ltd v Hong Huat Development Co (Pte) Ltd [2001] 2 SLR 458, the Court of Appeal ( per Chao J at [18]) held that the relationship between the two tests was “probably” correctly summarised in the above passage. Andrew Phang has, however, to my mind, persuasively argued on the basis of the historical development of the tests that they are not alternatives but complementary in as much as the “officious bystander” test is the practical mode by which the theoretical guideline encompassed within the “business efficacy” test is fulfilled: see Phang, “Implied Terms, Business Efficacy and the Officious Bystander – A Modern History” [1998] JBL 1. One highly distinguished authority that gives rise to that view is the oft-quoted statement of Scrutton LJ in Reigate v Union Manufacturing Company (Ramsbottom), Limited [1918] 1 KB 592 at 605 that: 
+ In Hiap Hong & Co Pte Ltd v Hong Huat Development Co (Pte) Ltd <span class="citation">[2001] 2 SLR 458</span>, the Court of Appeal ( per Chao J at [18]) held that the relationship between the two tests was “probably” correctly summarised in the above passage. Andrew Phang has, however, to my mind, persuasively argued on the basis of the historical development of the tests that they are not alternatives but complementary in as much as the “officious bystander” test is the practical mode by which the theoretical guideline encompassed within the “business efficacy” test is fulfilled: see Phang, “Implied Terms, Business Efficacy and the Officious Bystander – A Modern History” [1998] JBL 1. One highly distinguished authority that gives rise to that view is the oft-quoted statement of Scrutton LJ in Reigate v Union Manufacturing Company (Ramsbottom), Limited [1918] 1 KB 592 at 605 that: 
 
  [a] term can only be implied if it is necessary in the business sense to give efficacy to the contract; that is, if it is such a term that it can confidently be said that if at the time the contract was being negotiated some one had said to the parties, “What will happen in such a case,” they would have both replied, “Of course, so and so will happen; we did not trouble to say that; it is too clear.” 
 

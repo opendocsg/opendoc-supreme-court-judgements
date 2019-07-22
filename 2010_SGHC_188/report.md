@@ -194,7 +194,7 @@ representations made by RP: [note: 1]
 
 **_Deceit_** 
 
-14     The plaintiffs’ principal cause of action lies in the tort of deceit or fraud. The elements of the tort were restated by the Court of Appeal in _Panatron Pte Ltd v Lee Cheow Lee_ [2001] 2 SLR(R) 435 (“ _Panatron_ ”) at [14], following _Bradford Building Society v Borders_ [1941] 2 All ER 205: 
+14     The plaintiffs’ principal cause of action lies in the tort of deceit or fraud. The elements of the tort were restated by the Court of Appeal in _Panatron Pte Ltd v Lee Cheow Lee_ <span class="citation">[2001] 2 SLR(R) 435</span> (“ _Panatron_ ”) at [14], following _Bradford Building Society v Borders_ [1941] 2 All ER 205: 
 
  First, there must be a representation of fact made by words or conduct. Second, the representation must be made with the intention that it should be acted upon by the plaintiff, or by a class of persons which includes the plaintiff. Third, it must be proved that the plaintiff had acted upon the false statement. Fourth, it must be proved that the plaintiff suffered damage by so doing. Fifth, the representation must be made with knowledge that it is false; it must be wilfully false, or at least made in the absence of any genuine belief that it is true. 
 
@@ -217,7 +217,7 @@ Cranworth LJ was speaking in the context of a fraud perpetrated by one party to 
 
 Or, as Brennan J pithily put it in _Gould v Vaggelas_ (1985) 157 CLR 215 at 252. “A knave does not escape liability because he is dealing with a fool.”. 
 
-17     With regard to the standard of proof required, the Court of Appeal held in _Tang Yoke Kheng (trading as Niklex Supply Co v Lek Benedict_ [2005] 3 SLR(R) 263 at [14] that, when fraud is alleged in a civil action: 
+17     With regard to the standard of proof required, the Court of Appeal held in _Tang Yoke Kheng (trading as Niklex Supply Co v Lek Benedict_ <span class="citation">[2005] 3 SLR(R) 263</span> at [14] that, when fraud is alleged in a civil action: 
 
  the civil standard of proving on a balance of probabilities must apply because there is no known "third standard" although such cases are usually known as "fraud in a civil case" as if alluding to a third standard of proof. However, because of the severity and potentially serious implications attaching to a fraud, even in a civil trial, judges are not normally satisfied by that little bit more evidence such as to tilt the "balance". They normally require more. That more is commonly described as "a burden that is higher than on a balance of probabilities, but lower than proof beyond reasonable doubt"... 
 
@@ -242,7 +242,7 @@ argued that RP could avoid personal liability if I were to find that he had acte
 
 **_Entire agreement clauses_** 
 
-20     The defendants had sought to rely on the entire agreement clauses in the franchise agreements between the plaintiffs and Tradewind. The Court of Appeal has observed that “whether or not an entire agreement clause can purport to exclude a claim in misrepresentation remains a matter of some controversy”: _Lee Chee Wei v Tan Hor Peow Victor_ [2007] 3 SLR(R) 537 at [28]. For present purposes it is sufficient for me to confine myself to the following two propositions. 
+20     The defendants had sought to rely on the entire agreement clauses in the franchise agreements between the plaintiffs and Tradewind. The Court of Appeal has observed that “whether or not an entire agreement clause can purport to exclude a claim in misrepresentation remains a matter of some controversy”: _Lee Chee Wei v Tan Hor Peow Victor_ <span class="citation">[2007] 3 SLR(R) 537</span> at [28]. For present purposes it is sufficient for me to confine myself to the following two propositions. 
 
 21     First, since neither RP nor DVH is a party to the franchise agreements between the plaintiffs and Tradewind, they cannot rely on the terms of those agreements. Second, and in any event, a person cannot contractually exclude liability for his own fraud: _S Pearson & Son Ltd v Dublin Corporation_ [1907] AC 351 at 353 _per_ Lord Loreburn LC, at 356 _per_ the Earl of Halsbury, and at 362 _per_ Lord James of Hereford. 
 

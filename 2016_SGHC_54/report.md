@@ -115,7 +115,7 @@ _Professions_ – _Engineers_
 
  In any appeal to the High Court against an order referred to in subsection (6) [an order of the Disciplinary Committee], the High Court shall accept as final and conclusive any finding of the Disciplinary Committee relating to any issue of medical ethics or standards of professional conduct unless such finding is in the opinion of the High Court unsafe, unreasonable or contrary to the evidence. [emphasis added] 
 
-20     In _Low Cze Hong v Singapore Medical Council_ [2008] 3 SLR(R) 612 (“ _Low Cze Hong_ ”) at [39]– [40], a three-judge panel recognised that the provision required the High Court to make the following findings before it could intervene: 
+20     In _Low Cze Hong v Singapore Medical Council_ <span class="citation">[2008] 3 SLR(R) 612</span> (“ _Low Cze Hong_ ”) at [39]– [40], a three-judge panel recognised that the provision required the High Court to make the following findings before it could intervene: 
 
  (a) There is something clearly wrong either: 
 
@@ -128,7 +128,7 @@ _Professions_ – _Engineers_
 This approach had also been accepted by the Court in _Chia Yang Pong v Singapore Medical Council_ 
 
 
-[2004] 3 SLR(R) 151 at [7]. 
+<span class="citation">[2004] 3 SLR(R) 151</span> at [7]. 
 
 21     Furthermore, in considering an appeal, a court would be slow to interfere with the findings of a disciplinary committee as the latter is a specialist tribunal with its own professional expertise and understands what the profession expects of its members. However, the court should not give undue deference to a disciplinary committee’s views which would render its appellate powers under legislation nugatory: see _Low Cze Hong_ at [39]–[42]. 
 
@@ -138,7 +138,7 @@ This approach had also been accepted by the Court in _Chia Yang Pong v Singapore
 
 **_Was there a breach of natural justice?_** 
 
-23     Although breach of natural justice was not raised at the oral hearing itself, it was canvassed extensively in the parties’ written submissions. In the present case, the issues were straightforward and do not require an in-depth discussion on the rules of natural justice, which are well-established here. It suffices to bear in mind that the duty to act in accordance with natural justice is nowadays consonant with a duty to act fairly, and its content varies with the circumstances of each case: see _Kay Swee Pin v Singapore Island Country Club_ [2008] 2 SLR(R) 802 at [6]. 
+23     Although breach of natural justice was not raised at the oral hearing itself, it was canvassed extensively in the parties’ written submissions. In the present case, the issues were straightforward and do not require an in-depth discussion on the rules of natural justice, which are well-established here. It suffices to bear in mind that the duty to act in accordance with natural justice is nowadays consonant with a duty to act fairly, and its content varies with the circumstances of each case: see _Kay Swee Pin v Singapore Island Country Club_ <span class="citation">[2008] 2 SLR(R) 802</span> at [6]. 
 
 24     The present ground of appeal essentially rested on two contentions, which I will address in turn: 
 
@@ -225,7 +225,7 @@ The second interpretation has the bifurcation after the word “involving”, as
 
 The critical distinction is that unlike the first interpretation, the second interpretation requires a conviction under limb (b) to support a disciplinary charge. 
 
-41     In my view, the second interpretation is to be preferred. It is well-established in Singapore that, whether or not there is ambiguity on the face of the provision, the courts must adopt a purposive approach to statutory interpretation and that reference may be made to extrinsic materials in doing so: see _Dorsey James Michael v World Sport Group Pte Ltd_ [2013] 3 SLR 354 at [18]–[20]. In the present case where there is a possible ambiguity, extrinsic materials are all the more relevant. In the second reading of the Professional Engineers (Amendment) Bill (see _Singapore Parliamentary Debates, Official Report_ (15 August 2005) vol 80 at col 1245), the Minister of State for National Development, Mr Heng Chee How, explained that the revised disciplinary procedures under the PE Act were modelled after the medical, dental and accounting professions in Singapore. A review of the corresponding regulations, which were all similarly worded at the time these amendments were introduced, lends support to the second interpretation. Taking the MR Act as an example, the relevant provision reads as follows: 
+41     In my view, the second interpretation is to be preferred. It is well-established in Singapore that, whether or not there is ambiguity on the face of the provision, the courts must adopt a purposive approach to statutory interpretation and that reference may be made to extrinsic materials in doing so: see _Dorsey James Michael v World Sport Group Pte Ltd_ <span class="citation">[2013] 3 SLR 354</span> at [18]–[20]. In the present case where there is a possible ambiguity, extrinsic materials are all the more relevant. In the second reading of the Professional Engineers (Amendment) Bill (see _Singapore Parliamentary Debates, Official Report_ (15 August 2005) vol 80 at col 1245), the Minister of State for National Development, Mr Heng Chee How, explained that the revised disciplinary procedures under the PE Act were modelled after the medical, dental and accounting professions in Singapore. A review of the corresponding regulations, which were all similarly worded at the time these amendments were introduced, lends support to the second interpretation. Taking the MR Act as an example, the relevant provision reads as follows: 
 
 
  Findings of Disciplinary Committee 
@@ -263,7 +263,7 @@ _Conclusion on Fong’s disciplinary charge_
 
 **_Was the sentence imposed by the DC manifestly excessive?_** 
 
-47     I now turn to the question of sentence. Although the precise powers of the High Court on appeal will depend on the particular statutory provision conferring a right of appeal, the Court has jurisdiction to consider whether the sanctions imposed by the professional disciplinary body were appropriate and necessary in the public interest or disproportionate and excessive: see _Ghosh v General Medical Council_ [2001] 1 WLR 1915 at [34]. This view is accepted in Singapore: see _Huang Danmin v Traditional Chinese Medicine Practitioners Board_ [2010] 3 SLR 1108 (“ _Huang Danmin_ ”) and _Gan Keng Seng Eric v Singapore Medical Council_ [2011] 1 SLR 745. The principles governing the High Court’s approach to reviewing sentences passed by professional disciplinary bodies are set out in _Huang Danmin_ (at [59] and [60]): 
+47     I now turn to the question of sentence. Although the precise powers of the High Court on appeal will depend on the particular statutory provision conferring a right of appeal, the Court has jurisdiction to consider whether the sanctions imposed by the professional disciplinary body were appropriate and necessary in the public interest or disproportionate and excessive: see _Ghosh v General Medical Council_ [2001] 1 WLR 1915 at [34]. This view is accepted in Singapore: see _Huang Danmin v Traditional Chinese Medicine Practitioners Board_ <span class="citation">[2010] 3 SLR 1108</span> (“ _Huang Danmin_ ”) and _Gan Keng Seng Eric v Singapore Medical Council_ <span class="citation">[2011] 1 SLR 745</span>. The principles governing the High Court’s approach to reviewing sentences passed by professional disciplinary bodies are set out in _Huang Danmin_ (at [59] and [60]): 
 
  59 ... The present approach of the court is to give a measure of deference to the decisions reached by a disciplinary committee but not in a way that will effectively render nugatory the appellate powers granted to the court under respective statutes. ... 
 

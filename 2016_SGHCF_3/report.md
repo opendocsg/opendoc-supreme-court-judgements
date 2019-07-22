@@ -26,7 +26,7 @@ _Family Law_ – _matrimonial assets_ – _division_
 
 2       The wife appealed against that decision and, on 21 August 2015, I allowed the wife’s appeal in part, varying the order for division of the matrimonial flat such that the wife would receive 45% of the net sale proceeds. I also ordered that with respect to maintenance for the child, the Chinese tuition lessons to be paid by the husband should be increased from six sessions a month to two sessions per week. I upheld the District Judge’s decision to allow the parties to retain their assets in their own respective names. 
 
-3       The husband subsequently filed a summons for leave to appeal against my decision ( _ie_ , Summons No 411 of 2015) – the only point which he appealed against was the division of the matrimonial flat. I granted leave for that purpose on 19 November 2015 so that the Court of Appeal would have occasion to decide whether the approach applied in the present case was in line with the recent decision of _ANJ v ANK_ [2015] 4 SLR 1043. I therefore set out my detailed grounds of decision with respect to the division of the matrimonial flat. 
+3       The husband subsequently filed a summons for leave to appeal against my decision ( _ie_ , Summons No 411 of 2015) – the only point which he appealed against was the division of the matrimonial flat. I granted leave for that purpose on 19 November 2015 so that the Court of Appeal would have occasion to decide whether the approach applied in the present case was in line with the recent decision of _ANJ v ANK_ <span class="citation">[2015] 4 SLR 1043</span>. I therefore set out my detailed grounds of decision with respect to the division of the matrimonial flat. 
 
 **Backround facts** 
 
@@ -99,7 +99,7 @@ _Assets in the parties’ sole names_
 
 20     The parties’ respective direct financial contribution is reflected in the table below: 
 
-21     As I was minded to only divide the matrimonial flat and have the parties hold the other assets in their own names, I utilised the ratio of the direct financial contributions to the matrimonial flat at this stage of the analysis, which was that of 97:3 (see above at [17]). This is not to say that I did not take into account the value of the other assets in arriving at my eventual decision. It did not escape my attention that the relative values of the assets in each party’s name still had to be taken into account and should not be excluded from the computation as that might prejudice the fair and equitable division (see _NK v NL_ [2007] 3 SLR(R) 743 at [38]–[40]). As will be elaborated upon below, I took into account the value of the other assets at Step 3 of the analysis (see below at [40]). 
+21     As I was minded to only divide the matrimonial flat and have the parties hold the other assets in their own names, I utilised the ratio of the direct financial contributions to the matrimonial flat at this stage of the analysis, which was that of 97:3 (see above at [17]). This is not to say that I did not take into account the value of the other assets in arriving at my eventual decision. It did not escape my attention that the relative values of the assets in each party’s name still had to be taken into account and should not be excluded from the computation as that might prejudice the fair and equitable division (see _NK v NL_ <span class="citation">[2007] 3 SLR(R) 743</span> at [38]–[40]). As will be elaborated upon below, I took into account the value of the other assets at Step 3 of the analysis (see below at [40]). 
 
 **_Undeclared assets_** 
 

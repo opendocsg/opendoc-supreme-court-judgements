@@ -677,7 +677,7 @@ that ‘warning’ in part i.e. that he had told the 3rd accused that he was bou
 
 ## tendency to expose him to a criminal charge or to a penalty or forfeiture. ’ If that latter part were omitted, it would amount to a 
 
-misrepresentation of the true legal effect of section 121 (2) and the statement may well be held to be involuntary on account of an inducement (see _Public Prosecutor v Mazlan bin Maidun & Anor_ [1993] 1 SLR 512; _Public Prosecutor v Tan Ho Teck_ [1988] 3 MLJ 264.). Either the accused is appraised of the entire section in full or not at all. Despite being tested in this way 
+misrepresentation of the true legal effect of section 121 (2) and the statement may well be held to be involuntary on account of an inducement (see _Public Prosecutor v Mazlan bin Maidun & Anor_ <span class="citation">[1993] 1 SLR 512</span>; _Public Prosecutor v Tan Ho Teck_ [1988] 3 MLJ 264.). Either the accused is appraised of the entire section in full or not at all. Despite being tested in this way 
 
 repeatedly in different ways each time by counsel in his cross-examination, ASP Fan consistently denied that he had told the 3 rd accused words to the effect that he was bound to state the truth. ASP Fan’s practice was simply to tell the accused the purpose of recording the statement, and then go straight into recording the statement proper. I believed him. 
 

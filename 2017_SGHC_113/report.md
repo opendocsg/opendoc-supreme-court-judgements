@@ -487,7 +487,7 @@ I found this kind of answer, like quite a few of his answers given in cross-exam
 
 accumulators when he seemed to say “Cannot take it, I get interest.” [note: 74] However, I accepted the evidence, which was more credible, from Amy that she had discussed equity-linked notes and accumulators before the call with Lucas, and that Lucas had at the material time been seeking clarification as to the kind of investment that was being discussed on the call. Furthermore, Lucas was cross-examined about another case then-pending before this court, between another bank, 
 
-Société Générale Bank & Trust (“SocGen”), [note: 75] where another of Lucas’ and Lenny’s BVI companies had allegedly entered into accumulators. This case was eventually decided in favour of SocGen, and can be found at _First Asia Capital Investments Ltd v Société Générale Bank and Trust and another_ [2017] SGHC 78. 
+Société Générale Bank & Trust (“SocGen”), [note: 75] where another of Lucas’ and Lenny’s BVI companies had allegedly entered into accumulators. This case was eventually decided in favour of SocGen, and can be found at _First Asia Capital Investments Ltd v Société Générale Bank and Trust and another_ <span class="citation">[2017] SGHC 78</span>. 
 
 65     More importantly, the Plaintiff received confirmations, advices, and statements of account 
 

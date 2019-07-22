@@ -64,7 +64,7 @@ did not take any measurements of the appellant’s apartment nor inspect the apa
 
 **_Close of the Prosecution’s case_** 
 
-11     At the end of the Prosecution’s case, the trial judge rightly found that there was evidence to establish the essential ingredients of the offence under s 420 of the Penal Code (Cap 224, 1985 Rev Ed). These ingredients, set out in _Gunasegeran s/o Pavadaisamy v PP_ [1997] 3 SLR 969 and approved in _Chua Kian Kok v PP_ [1999] 2 SLR 542, are that: 
+11     At the end of the Prosecution’s case, the trial judge rightly found that there was evidence to establish the essential ingredients of the offence under s 420 of the Penal Code (Cap 224, 1985 Rev Ed). These ingredients, set out in _Gunasegeran s/o Pavadaisamy v PP_ <span class="citation">[1997] 3 SLR 969</span> and approved in _Chua Kian Kok v PP_ <span class="citation">[1999] 2 SLR 542</span>, are that: 
 
  (a) The victim must be deceived; 
 
@@ -93,10 +93,10 @@ home and had shown Joe around the kitchen and two bedrooms of her apartment. Joe
 
 **The appeal** 
 
-18     As was the case in the court below, the issues before me in this appeal essentially hinged on the word of one witness, Joe, against that of another, the appellant. In this regard, I had to bear in mind that as an appellate judge, I should be slow to disturb a lower court’s findings of fact unless they were shown to be clearly wrong, reached against the weight of the evidence or unless the appellant showed me that the trial judge had not taken proper advantage of his having seen and heard the witnesses: _Lim Ah Poh v PP_ [1992] 1 SLR 713, _PP v Hla Win_ [1995] 2 SLR 424. This was especially so with findings of fact which hinged on the trial judge’s assessment of the credibility and veracity of witnesses: _Yap Giau Beng Terence v PP_ [1998] 3 SLR 656. In order for me to reverse the sentence below, I could not merely entertain doubts as to the rightness of the decision, but must actually be convinced that it was wrong: _PP v Poh Oh Sim_ [1990] SLR 1047, _PP v Azman bin Abdullah_ 
+18     As was the case in the court below, the issues before me in this appeal essentially hinged on the word of one witness, Joe, against that of another, the appellant. In this regard, I had to bear in mind that as an appellate judge, I should be slow to disturb a lower court’s findings of fact unless they were shown to be clearly wrong, reached against the weight of the evidence or unless the appellant showed me that the trial judge had not taken proper advantage of his having seen and heard the witnesses: _Lim Ah Poh v PP_ <span class="citation">[1992] 1 SLR 713</span>, _PP v Hla Win_ <span class="citation">[1995] 2 SLR 424</span>. This was especially so with findings of fact which hinged on the trial judge’s assessment of the credibility and veracity of witnesses: _Yap Giau Beng Terence v PP_ <span class="citation">[1998] 3 SLR 656</span>. In order for me to reverse the sentence below, I could not merely entertain doubts as to the rightness of the decision, but must actually be convinced that it was wrong: _PP v Poh Oh Sim_ [1990] SLR 1047, _PP v Azman bin Abdullah_ 
 
 
-[1998] 2 SLR 704. It was with these principles in mind that I turned to the substantive issues on appeal. 
+<span class="citation">[1998] 2 SLR 704</span>. It was with these principles in mind that I turned to the substantive issues on appeal. 
 
 19     The arguments canvassed by the appellant on appeal can be grouped into three main areas of contention. 
 
@@ -142,7 +142,7 @@ that she had been asked such a question by the police or that she had given such
 
 **_That the trial judge erred in accepting Joe’s version of events_** 
 
-33     Section 135 of the EA obviates the need for a court to warn itself of the danger of relying on accomplice evidence. Nevertheless, illustration (b) to s 116 of the EA provides that a court may presume an accomplice to be unworthy of credit and so treat his evidence with caution. The combined effect of s 135 and illustration (b) is that a court may convict an accused on the uncorroborated evidence of an accomplice, but should still treat the evidence with caution as the accomplice may be presumed to be unworthy of credit _: Kwang Boon Keong Peter v PP_ [1998] 2 SLR 592. The court is merely required to scrutinise the accomplice’s evidence carefully. If the evidence is shown to be reliable from all the circumstances of the case, accomplice evidence should be given the same weight as any other evidence: _Chua Poh Kiat Anthony v PP_ [1998] 2 SLR 713. 
+33     Section 135 of the EA obviates the need for a court to warn itself of the danger of relying on accomplice evidence. Nevertheless, illustration (b) to s 116 of the EA provides that a court may presume an accomplice to be unworthy of credit and so treat his evidence with caution. The combined effect of s 135 and illustration (b) is that a court may convict an accused on the uncorroborated evidence of an accomplice, but should still treat the evidence with caution as the accomplice may be presumed to be unworthy of credit _: Kwang Boon Keong Peter v PP_ <span class="citation">[1998] 2 SLR 592</span>. The court is merely required to scrutinise the accomplice’s evidence carefully. If the evidence is shown to be reliable from all the circumstances of the case, accomplice evidence should be given the same weight as any other evidence: _Chua Poh Kiat Anthony v PP_ <span class="citation">[1998] 2 SLR 713</span>. 
 
 
 34     The trial judge bore in mind the fact that Joe was an accomplice, but did not find his evidence unreliable, since he discerned no attempt by Joe to minimise his own involvement or exaggerate the appellant’s involvement. Instead, he found Joe to be a “credible and forthright” witness. I noted that this was a finding made with the benefit of having seen and heard Joe, and accorded it due weight. 

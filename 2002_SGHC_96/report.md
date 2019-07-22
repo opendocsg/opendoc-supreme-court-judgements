@@ -141,7 +141,7 @@ The principles of an application for a stay on the ground of forum non convenien
 
 quote from the judgment of Chao Hick Tin JA in **PT Hutan Domas Raya v Yue Xiu Enterprises** 
 
-**(Holdings)** [2001] 2 SLR 49 at [para ]16: 
+**(Holdings)** <span class="citation">[2001] 2 SLR 49</span> at [para ]16: 
 
  Unless there is clearly another more appropriate available forum, a stay will ordinarily be refused. If the court concludes that there is such a more appropriate forum, it will ordinarily grant a stay unless, in the words of Lord Goff [in The Spiliada [1987] AC 460], there are circumstances by reason of which justice requires that a stay should nevertheless not be granted. In this inquiry the court will consider all the circumstances of the case, including circumstances which go beyond those taken into account when considering connecting factors with other jurisdictions (hereinafter referred to as the unless question or unless proviso as may be appropriate in context). One such factor which would warrant a refusal of stay would be if it can be established by objective cogent evidence that the plaintiff will not obtain justice in the foreign jurisdiction. But the mere fact that the plaintiff has a legitimate personal or juridical advantage in proceedings in Singapore is not decisive; regard must be had to the interests of all the parties and the ends of justice. We would emphasise that in determining the unless question all circumstances must be taken into account, including those taken into account in determining the question of the more appropriate forum. However, in this stage of the inquiry the burden shifts to the plaintiff. 
 
@@ -391,7 +391,7 @@ in Singapore, it may also want to consider the cost of living at the place where
 
 children are at present residing. 
 
-As Lee Seiu Kin JC said in **Low Wing Hong Alvin v Kelso Sharon Leigh** [2001] 1 SLR 173 at [para 
+As Lee Seiu Kin JC said in **Low Wing Hong Alvin v Kelso Sharon Leigh** <span class="citation">[2001] 1 SLR 173</span> at [para 
 
 ]21, `it is more important that the same court consider and decide these matters [meaning the 
 

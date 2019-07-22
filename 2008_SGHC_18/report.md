@@ -341,9 +341,9 @@ The principle behind the rule is that a party who has a specific ground of defen
 
  [W]here a party has failed to set out the material facts in his pleadings, but there is occasioned no surprise to his opponent, a court may, in the interests of justice, permit the point to be taken. 
 
-The authorities have rightly demonstrated that the courts will examine each case on its own facts to determine whether the other party was prejudiced or taken by surprise. Goh Phai Cheng JC in _Chua Gek Kuon v Seow Chai Seng_ [1992] 1 SLR 270, at [10] to [13], scrutinised the statement of claim carefully to hold that the defendant was not taken by surprise when the plaintiff adduced evidence of traffic lights at trial even though the statement of claim did not have any reference to traffic lights. 
+The authorities have rightly demonstrated that the courts will examine each case on its own facts to determine whether the other party was prejudiced or taken by surprise. Goh Phai Cheng JC in _Chua Gek Kuon v Seow Chai Seng_ <span class="citation">[1992] 1 SLR 270</span>, at [10] to [13], scrutinised the statement of claim carefully to hold that the defendant was not taken by surprise when the plaintiff adduced evidence of traffic lights at trial even though the statement of claim did not have any reference to traffic lights. 
 
-58     Recently, in _Main-Line Corporate Holdings Ltd v United Overseas Bank Ltd (First Currency Choice Pte Ltd, third party)_ [2007] 1 SLR 1021, whilst Tay Yong Kwang J held at [75] that a defence 
+58     Recently, in _Main-Line Corporate Holdings Ltd v United Overseas Bank Ltd (First Currency Choice Pte Ltd, third party)_ <span class="citation">[2007] 1 SLR 1021</span>, whilst Tay Yong Kwang J held at [75] that a defence 
 
 
 of innocent infringement must be positively pleaded, he nevertheless considered the issue in the absence of such pleading because “it was alluded to in evidence and can be dealt with without causing injustice to any party” and the “relevant facts are already before the court”. 
@@ -354,11 +354,11 @@ of innocent infringement must be positively pleaded, he nevertheless considered 
 
  [T]he court is not bound by the pleadings of parties and must proceed upon the evidence on which it deems to be most accurate and trustworthy. 
 
-This principle was endorsed in _Thai Kenaf Co Ltd v Keck Seng (S) Pte Ltd_ [1993] 2 SLR 92, where the court – despite the pleadings concentrating on whether there was a valid assignment of the benefit of certain contracts – held that the evidence clearly showed that a company had acted as an agent for the plaintiffs even though this was not pleaded in the statement of claim. Similarly, in addition to finding that the plaintiff was not taken by surprise, I find that the evidence clearly showed that the two orders were specially negotiated orders. 
+This principle was endorsed in _Thai Kenaf Co Ltd v Keck Seng (S) Pte Ltd_ <span class="citation">[1993] 2 SLR 92</span>, where the court – despite the pleadings concentrating on whether there was a valid assignment of the benefit of certain contracts – held that the evidence clearly showed that a company had acted as an agent for the plaintiffs even though this was not pleaded in the statement of claim. Similarly, in addition to finding that the plaintiff was not taken by surprise, I find that the evidence clearly showed that the two orders were specially negotiated orders. 
 
-61     In _Lee Chee Wei v Tan Hor Peow Victor_ [2007] 3 SLR 537, where one party specifically failed to plead for damages to be assessed, VK Rajah JA held that the party had pleaded for “damages in lieu of specific performance” and this has satisfied the requirement of fair warning. In this regard, he noted at [63]: 
+61     In _Lee Chee Wei v Tan Hor Peow Victor_ <span class="citation">[2007] 3 SLR 537</span>, where one party specifically failed to plead for damages to be assessed, VK Rajah JA held that the party had pleaded for “damages in lieu of specific performance” and this has satisfied the requirement of fair warning. In this regard, he noted at [63]: 
 
- In Lim Eng Kay v Jaafar bin Mohamed Said [1982] 2 MLJ 156, the court awarded special damages notwithstanding that they had been incorrectly pleaded as general damages, amply illustrating the pragmatic judicial approach that eschews refusal of a claim purely on account of a technical error of pleading. As aptly noted by Lai Kew Chai J in Lea Tool & Moulding Industries Pte Ltd v CGU International Insurance plc [2001] 1 SLR 413 at [16], “our procedural laws are ultimately handmaidens to help us achieve the ultimate and only objective of achieving justice as best we can in every case [and should] not [be] permitted to rule us to such an extent that injustice is done’. In Chwee Kin Keong v Digilandmall.com Pte Ltd [2004] 2 SLR 494 (at [85]) the court observed: 
+ In Lim Eng Kay v Jaafar bin Mohamed Said [1982] 2 MLJ 156, the court awarded special damages notwithstanding that they had been incorrectly pleaded as general damages, amply illustrating the pragmatic judicial approach that eschews refusal of a claim purely on account of a technical error of pleading. As aptly noted by Lai Kew Chai J in Lea Tool & Moulding Industries Pte Ltd v CGU International Insurance plc <span class="citation">[2001] 1 SLR 413</span> at [16], “our procedural laws are ultimately handmaidens to help us achieve the ultimate and only objective of achieving justice as best we can in every case [and should] not [be] permitted to rule us to such an extent that injustice is done’. In Chwee Kin Keong v Digilandmall.com Pte Ltd <span class="citation">[2004] 2 SLR 494</span> (at [85]) the court observed: 
 
  Rules of court which are meant to facilitate the conduct of proceedings invariably encapsulate concepts of procedural fairplay. They are not mechanical rules to be applied in a vacuum, devoid of a contextual setting. 
 
@@ -510,7 +510,7 @@ In regard to the counterclaim, I gave judgment to the defendant for recovery of 
 
 92     At the request of counsel, submissions on costs were fixed for hearing on a later date. At the hearing on costs, I awarded the plaintiff half the costs in its action and, likewise, I granted the defendant half the costs in the counterclaim. I shall deal only with the costs awarded to the plaintiff in view of its appeal. 
 
-93     Ordinarily, costs should of course follow the event and a successful party who had acted neither improperly nor unreasonably should not be deprived of any part of his costs: _Tullio v Maoro_ [1994] 2 SLR 489. 
+93     Ordinarily, costs should of course follow the event and a successful party who had acted neither improperly nor unreasonably should not be deprived of any part of his costs: _Tullio v Maoro_ <span class="citation">[1994] 2 SLR 489</span>. 
 
 94     In _Re Elgindata Ltd (No 2)_ [1993] 1 All ER 232, the English Court of Appeal laid down the following principles (conveniently set out in the headnotes): 
 
@@ -525,7 +525,7 @@ Those principles were adopted by our Court of Appeal in _Tullio v Maoro_ as well
 
  In addition to and not in derogation of any other provision in this Order, where a party has failed to establish any claim or issue which he has raised in any proceedings, and has thereby unnecessarily or unreasonably protracted, or added to the costs or complexity of those proceedings, the Court may order that the costs of that party shall not be allowed in whole or in part, or that any costs occasioned by that claim or issue to any other party shall be paid by him to that other party, regardless of the outcome of the cause or matter. [emphasis added] 
 
-As was observed by the Court of Appeal in _Progress Software Corp (S) Pte Ltd v Central Provident Fund Board_ [2003] 2 SLR 156 at [52]: 
+As was observed by the Court of Appeal in _Progress Software Corp (S) Pte Ltd v Central Provident Fund Board_ <span class="citation">[2003] 2 SLR 156</span> at [52]: 
 
  The crux of O 59 r 6A is thus whether the other party has unnecessarily added to the costs of the proceedings. 
 

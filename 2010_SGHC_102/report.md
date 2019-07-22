@@ -55,7 +55,7 @@ should be effected first and, thereafter, the parties were to use their respecti
 
 **The apportionment and whether the respective CPF accounts and interest should be reimbursed first** 
 
-11     I agreed with the case authority cited for the Husband, _ie_ , _Tay Sin Tor_ v _Tan Chay Eng_ [1999] 2 SLR(R) 385 that the apportionment between the parties should be made first and that the parties should then use their respective shares to reimburse their own CPF accounts and interest. 
+11     I agreed with the case authority cited for the Husband, _ie_ , _Tay Sin Tor_ v _Tan Chay Eng_ <span class="citation">[1999] 2 SLR(R) 385</span> that the apportionment between the parties should be made first and that the parties should then use their respective shares to reimburse their own CPF accounts and interest. 
 
 12     The main issue before me was the 80:20 apportionment between the Wife and Husband respectively. I will set out some of the DJ’s factual observations. 
 

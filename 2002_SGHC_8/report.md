@@ -311,19 +311,19 @@ true that McConnell had two additional provisions i.e clauses 2.6 and 2.7. These
 
 71\. I will now cite some authorities in respect of an application for an injunction to restrain a call on or receipt of monies under an on-demand guarantee or bond. 
 
-72\. In _Bocotra Construction Pte Ltd v A-G (No 2)_ [1995] 2 SLR 733, Karthigesu JA, said, at p 747C: 
+72\. In _Bocotra Construction Pte Ltd v A-G (No 2)_ <span class="citation">[1995] 2 SLR 733</span>, Karthigesu JA, said, at p 747C: 
 
  ‘.... Indeed, a higher degree of strictness applies, as the applicant will be required to establish a clear case of fraud or unconscionability in interlocutory proceedings. It is clear that mere allegations are insufficient.’ 
 
-73\. In _Star-Trans Far East Pte Ltd v Norske-Tech Ltd & Ors_ [1995] 3 SLR 631, GP Selvam J said, at p 643A: 
+73\. In _Star-Trans Far East Pte Ltd v Norske-Tech Ltd & Ors_ <span class="citation">[1995] 3 SLR 631</span>, GP Selvam J said, at p 643A: 
 
  ‘First, the injunction would be granted only in exceptional circumstances; the court having regard to the purpose of the bond, will be disinclined to granting it. Secondly, ... the party making the application must come up with compelling evidence to establish the exceptional circumstances.’ 
 
-74\. In _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ [2000] 1 SLR 657, Chao Hick Tin JA said, at para 57: 
+74\. In _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ <span class="citation">[2000] 1 SLR 657</span>, Chao Hick Tin JA said, at para 57: 
 
- ’57 In coming to this view we have borne in mind the standard of proof required of the alleged unconscionability. In Bocotra this court stated that ‘a high degree of strictness applies, as the applicant will be required to establish a clear case of fraud or unconscionability in the interlocutory proceedings. It is clear that mere allegations are insufficient’. In GHL v Unitrack this court implicitly endorsed the strong prima facie standard propounded by the High Court in Chartered Electronics Industries v Development Bank of Singapore Ltd [1999] 4 SLR 655. In o u r opinion, what must be shown is a strong prima facie case of unconscionability. We do not think that that standard has been satisfied in the instant case.’ 
+ ’57 In coming to this view we have borne in mind the standard of proof required of the alleged unconscionability. In Bocotra this court stated that ‘a high degree of strictness applies, as the applicant will be required to establish a clear case of fraud or unconscionability in the interlocutory proceedings. It is clear that mere allegations are insufficient’. In GHL v Unitrack this court implicitly endorsed the strong prima facie standard propounded by the High Court in Chartered Electronics Industries v Development Bank of Singapore Ltd <span class="citation">[1999] 4 SLR 655</span>. In o u r opinion, what must be shown is a strong prima facie case of unconscionability. We do not think that that standard has been satisfied in the instant case.’ 
 
-75\. In _Eltraco International Pte Ltd v CGH Development Pte Ltd_ [2000] 4 SLR 290, Chao Hick Tin JA said, at paras 29 and 30: 
+75\. In _Eltraco International Pte Ltd v CGH Development Pte Ltd_ <span class="citation">[2000] 4 SLR 290</span>, Chao Hick Tin JA said, at paras 29 and 30: 
 
  ’29 In Raymond Construction Pte Ltd v Low Yang Tong & Anor (Suit 1715/95, 11 July 1996, unreported) Lai Kew Chai J opined that: 
 

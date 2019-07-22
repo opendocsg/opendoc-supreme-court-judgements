@@ -24,7 +24,7 @@ _Criminal Procedure and Sentencing_ – _Sentencing_ – _Principles_ – _Facto
 
 **Yong Pung How CJ:** 
 
-1       The appellant, J Ravinthiran, was convicted in the District Court on a charge of causing grievous hurt under s 326 of the Penal Code (Cap 224, 1985 Rev Ed) (“the PC”). He was sentenced to four years’ imprisonment and six strokes of the cane: see _PP v J Ravinthiran_ [2004] SGDC 72. He appealed against both conviction and sentence. For the purpose of the appeal against conviction, the appellant filed a criminal motion seeking to adduce additional evidence. I dismissed the criminal motion and both appeals. I now give my reasons. 
+1       The appellant, J Ravinthiran, was convicted in the District Court on a charge of causing grievous hurt under s 326 of the Penal Code (Cap 224, 1985 Rev Ed) (“the PC”). He was sentenced to four years’ imprisonment and six strokes of the cane: see _PP v J Ravinthiran_ <span class="citation">[2004] SGDC 72</span>. He appealed against both conviction and sentence. For the purpose of the appeal against conviction, the appellant filed a criminal motion seeking to adduce additional evidence. I dismissed the criminal motion and both appeals. I now give my reasons. 
 
 **Facts** 
 
@@ -102,7 +102,7 @@ statements to the police. The contradiction pertained to whether Bala had alight
 
  (b) Sivaraj admitted after the incident that he had hit the victim with a crowbar. 
 
-26     The principles governing the admission of fresh evidence on appeal are well-settled. Three cumulative conditions must be satisfied to have the evidence admitted: _Juma’at bin Samad v PP_ [1993] 3 SLR 338 at 343, [13]–[14]. First, it must be shown that the evidence could not have been obtained with reasonable diligence for use at the trial (“non-availability”). Second, the evidence must be such that, if given at the trial, it would probably have an important influence on the result of the case, although it need not be decisive (“relevance”). Third, the evidence must be apparently credible, although it need not be incontrovertible (“reliability”). 
+26     The principles governing the admission of fresh evidence on appeal are well-settled. Three cumulative conditions must be satisfied to have the evidence admitted: _Juma’at bin Samad v PP_ <span class="citation">[1993] 3 SLR 338</span> at 343, [13]–[14]. First, it must be shown that the evidence could not have been obtained with reasonable diligence for use at the trial (“non-availability”). Second, the evidence must be such that, if given at the trial, it would probably have an important influence on the result of the case, although it need not be decisive (“relevance”). Third, the evidence must be apparently credible, although it need not be incontrovertible (“reliability”). 
 
 27     I should first address a point raised by the Prosecution in its written submissions. It was said that the claims made in the new evidence that Sivaraj admitted hitting the victim with the crowbar are hearsay evidence, and therefore irrelevant and inadmissible. I was unable to agree with the Prosecution’s contention. Although the evidence was technically hearsay, it was nonetheless admissible by virtue of s 32(c) of the Evidence Act, which provides that such statements are relevant facts 
 
@@ -112,7 +112,7 @@ This was precisely the situation in the appeal before me. As such, I was of the 
 
 28     However, it was an entirely different matter when the first and third conditions came to be considered. Before me, counsel for the appellant readily conceded that the first condition, that of non-availability, was clearly not satisfied. It was also doubtful whether the evidence was reliable. All six accounts given in the affidavits were certainly consistent with each other. However, they contradicted the evidence given at the trial by the two taxi drivers who witnessed the incident, and who were found to be credible by the district judge. They also contradicted objective DNA evidence that matched traces of blood on the appellant’s car with that of the victim. Therefore, I was of the opinion that the new evidence was not even apparently credible on its face. 
 
-29     Notwithstanding all this, counsel for the appellant sought to argue that the evidence should nevertheless be admitted “in the interests of justice”: _Chia Kah Boon v PP_ [1999] 4 SLR 72. However, counsel gave no compelling reason why this was a case in which “the interests of justice” could only be served by admitting the new evidence, and seemed content to allow his bare assertion to speak for itself. I must emphasise that the exception in _Chia Kah Boon_ , as stated at [9] of the decision, citing _Chan Chun Yee v PP_ [1998] 3 SLR 638 at [10], is 
+29     Notwithstanding all this, counsel for the appellant sought to argue that the evidence should nevertheless be admitted “in the interests of justice”: _Chia Kah Boon v PP_ <span class="citation">[1999] 4 SLR 72</span>. However, counsel gave no compelling reason why this was a case in which “the interests of justice” could only be served by admitting the new evidence, and seemed content to allow his bare assertion to speak for itself. I must emphasise that the exception in _Chia Kah Boon_ , as stated at [9] of the decision, citing _Chan Chun Yee v PP_ <span class="citation">[1998] 3 SLR 638</span> at [10], is 
 
  a narrow exception and is warranted only by the most extenuating circumstances , which may include the fact that the offence is a serious one attracting grave consequences and the fact that the additional evidence sought to be adduced is highly cogent and pertinent and the strength of which renders the conviction unsafe. [emphasis added] 
 
@@ -137,22 +137,22 @@ _Applicable Principles_
 
  The court may presume the existence of any fact which it thinks likely to have happened, regard being had to the common course of natural events, human conduct, and public and private business, in their relation to the facts of the particular case. [emphasis added] 
 
-Illustration (g) to that provision provides that a court may presume “that evidence which could be and is not produced would if produced be unfavourable to the person who withholds it”. In _Chua Keem Long v PP_ [1996] 1 SLR 510 at 523, [73], I held that 
+Illustration (g) to that provision provides that a court may presume “that evidence which could be and is not produced would if produced be unfavourable to the person who withholds it”. In _Chua Keem Long v PP_ <span class="citation">[1996] 1 SLR 510</span> at 523, [73], I held that 
 
  [s]uch arguments are commonly made. Commonly too, such arguments are without merit. The court must hesitate to draw any such presumption unless the witness not produced is essential to the prosecution’s case. Any criminal transaction may be observed by a number of witnesses. It is not necessary for the prosecution to produce every single one of those witnesses. All the prosecution need do is to produce witnesses whose evidence can be believed so as to establish the case beyond a reasonable doubt. Out of a number of witnesses, it may then only be necessary to bring in one or two; as long as those witnesses actually produced are able to give evidence of the transaction, there is no reason why all of the rest should be called, nor why any presumption should be drawn that the evidence of those witnesses not produced would have been against the prosecution. [emphasis added] 
 
-33     In _Khua Kian Keong v PP_ [2003] 4 SLR 526 at [34], a case relied on by the Prosecution as well as the district judge, I summarised the principles governing the exercise of the court’s discretion under illustration (g) of s 116 as follows: 
+33     In _Khua Kian Keong v PP_ <span class="citation">[2003] 4 SLR 526</span> at [34], a case relied on by the Prosecution as well as the district judge, I summarised the principles governing the exercise of the court’s discretion under illustration (g) of s 116 as follows: 
 
- Clearly this is a discretionary and not a mandatory inference: Chua Keem Long v PP [1996] 1 SLR 510, Chia Sze Chang v PP [2002] 4 SLR 523 and Satli bin Masot [ v PP [1999] 2 SLR 637]. The appellate court has to evaluate if the trial judge had exercised his discretion correctly. Strict criteria have been stipulated before this adverse inference can be drawn against the Prosecution, namely that: 
+ Clearly this is a discretionary and not a mandatory inference: Chua Keem Long v PP <span class="citation">[1996] 1 SLR 510</span>, Chia Sze Chang v PP <span class="citation">[2002] 4 SLR 523</span> and Satli bin Masot [ v PP <span class="citation">[1999] 2 SLR 637</span>]. The appellate court has to evaluate if the trial judge had exercised his discretion correctly. Strict criteria have been stipulated before this adverse inference can be drawn against the Prosecution, namely that: 
 
  (a) the witness not offered was a material one: Chua Keem Long , Lau Song Seng v PP 
 
 
- [1998] 1 SLR 663 followed by Satli bin Masot ; 
+ <span class="citation">[1998] 1 SLR 663</span> followed by Satli bin Masot ; 
 
- (b) the Prosecution was withholding evidence which it possessed and which was available: Ang Jwee Herng v PP [[2004] 2 SLR 474] and Amir Hamzah bin Berang Kuty v PP [2003] 1 SLR 617; and 
+ (b) the Prosecution was withholding evidence which it possessed and which was available: Ang Jwee Herng v PP [<span class="citation">[2004] 2 SLR 474</span>] and Amir Hamzah bin Berang Kuty v PP <span class="citation">[2003] 1 SLR 617</span>; and 
 
- (c) this was done with an ulterior motive to hinder or hamper the Defence: Ang Jwee Herng , Wong Leong Chin v PP [2001] 1 SLR 146 and Chia Sze Chang. 
+ (c) this was done with an ulterior motive to hinder or hamper the Defence: Ang Jwee Herng , Wong Leong Chin v PP <span class="citation">[2001] 1 SLR 146</span> and Chia Sze Chang. 
 
 _SI Gafoor_ 
 
@@ -171,11 +171,11 @@ _Sivaraj_
 
 refused to draw an adverse inference against the Prosecution for its failure to call Sivaraj at the trial. 
 
-39     I did not, however, agree with the Prosecution that an adverse inference should instead be drawn against the Defence for its own failure to call Sivaraj. It is certainly not in dispute that an adverse inference may be drawn against the Defence in certain circumstances. The Prosecution relied on _Mohamed Abdullah s/o Abdul Razak v PP_ [2000] 2 SLR 789 and _PP v Nurashikin bte Ahmad Borhan_ [2003] 1 SLR 52 in support of its argument. 
+39     I did not, however, agree with the Prosecution that an adverse inference should instead be drawn against the Defence for its own failure to call Sivaraj. It is certainly not in dispute that an adverse inference may be drawn against the Defence in certain circumstances. The Prosecution relied on _Mohamed Abdullah s/o Abdul Razak v PP_ <span class="citation">[2000] 2 SLR 789</span> and _PP v Nurashikin bte Ahmad Borhan_ <span class="citation">[2003] 1 SLR 52</span> in support of its argument. 
 
 40     In _Nurashikin_ , the accused was charged with shoplifting while she was with her friend, one Natasha. Her defence was that the items shoplifted could have dropped into her bag accidentally, or that someone else could have put them there. Since the only other person who could have put them in her bag was Natasha, I found that an adverse inference ought to have been drawn against the accused for her failure to call Natasha to give evidence at the trial. 
 
-41     However, in _Loo See Mei v PP_ [2004] 2 SLR 27 at [54], I also cautioned that 
+41     However, in _Loo See Mei v PP_ <span class="citation">[2004] 2 SLR 27</span> at [54], I also cautioned that 
 
  it is not in every case that an accused person’s failure to call on a witness results in an adverse inference being drawn against him or her. Much depends on the facts and circumstances [of] each case. There are various factors to take into account, some of which include the availability of the witness, the purpose for which the witness is to be called and the materiality of calling that witness. These factors are, of course, non-exhaustive. 
 
@@ -190,9 +190,9 @@ I then clarified the applicability of _Nurashikin_ as follows:
 43     Before I turn to consider the appellant’s specific arguments, it would be useful to briefly revisit the principles governing the appellate court’s power to interfere with findings of fact made by 
 
 
-the trial judge. In _Ramis a/l Muniandy v PP_ [2001] 3 SLR 534, the Court of Appeal held at [31]: 
+the trial judge. In _Ramis a/l Muniandy v PP_ <span class="citation">[2001] 3 SLR 534</span>, the Court of Appeal held at [31]: 
 
- The principles governing the role of an appellate court in reviewing a trial judge’s findings of fact are settled. It is clear that an appellate court will not easily disturb findings of fact unless they are clearly reached against the weight of evidence (see eg Lim Ah Poh v PP [1992] 1 SLR 713 and Sundara Moorthy Lankatharan v PP [1997] 3 SLR 464). The appellate court will be particularly slow to overturn the trial judge’s findings of fact where they hinge on the trial judge’s assessment of the credibility and veracity of witnesses , unless they can be shown to be plainly wrong or against the weight of the evidence (see Yap Giau Beng Terence v PP [1998] 3 SLR 656 and Tan Hung Yeoh v PP [1999] 3 SLR 93). [emphasis added] 
+ The principles governing the role of an appellate court in reviewing a trial judge’s findings of fact are settled. It is clear that an appellate court will not easily disturb findings of fact unless they are clearly reached against the weight of evidence (see eg Lim Ah Poh v PP <span class="citation">[1992] 1 SLR 713</span> and Sundara Moorthy Lankatharan v PP <span class="citation">[1997] 3 SLR 464</span>). The appellate court will be particularly slow to overturn the trial judge’s findings of fact where they hinge on the trial judge’s assessment of the credibility and veracity of witnesses , unless they can be shown to be plainly wrong or against the weight of the evidence (see Yap Giau Beng Terence v PP <span class="citation">[1998] 3 SLR 656</span> and Tan Hung Yeoh v PP <span class="citation">[1999] 3 SLR 93</span>). [emphasis added] 
 
 In the light of this established rule, I noted at the outset that the district judge’s grounds of decision in this case clearly demonstrated that the credibility and veracity of the witnesses before him were crucial to the findings of fact now sought to be overturned. Bearing these considerations in mind, I now turn to the arguments raised before me. 
 
@@ -210,12 +210,12 @@ In the light of this established rule, I noted at the outset that the district j
 
 45     I shall deal with points (a) and (b) together since they both pertain to the cogency of the evidence given by PW1 and PW2, the two taxi drivers who witnessed the incident. In my view, there was no merit whatsoever in the appellant’s arguments. The district judge was decidedly of the view that these two witnesses were honest and truthful and had no reason at all to lie to the court, since they were wholly independent witnesses unrelated to any of the parties involved. 
 
-46     I took special notice of the fact that the district judge was also mindful of PW1’s statement that the victim was hit on his back, when the injury was in fact to his head. The district judge accepted this as an honest mistake, which he was perfectly entitled to do: _Ang Jwee Herng v PP_ [2001] 2 SLR 474. The taxi drivers’ accounts were corroborated by the DNA evidence, which incontrovertibly showed the presence of the victim’s blood on the front centre portion of the appellant’s car. It was difficult to see what other corroboration the appellant required, and the sort of evidence that the appellant said should have been adduced was entirely speculative in nature. For example, it was the appellant’s position that if the victim had really been hit by his car, then he would have been flung forward after impact. As the DPP pointed out, this was simply pure conjecture. 
+46     I took special notice of the fact that the district judge was also mindful of PW1’s statement that the victim was hit on his back, when the injury was in fact to his head. The district judge accepted this as an honest mistake, which he was perfectly entitled to do: _Ang Jwee Herng v PP_ <span class="citation">[2001] 2 SLR 474</span>. The taxi drivers’ accounts were corroborated by the DNA evidence, which incontrovertibly showed the presence of the victim’s blood on the front centre portion of the appellant’s car. It was difficult to see what other corroboration the appellant required, and the sort of evidence that the appellant said should have been adduced was entirely speculative in nature. For example, it was the appellant’s position that if the victim had really been hit by his car, then he would have been flung forward after impact. As the DPP pointed out, this was simply pure conjecture. 
 
 47     Next, I turn to point (c). The DPP rightly pointed out that there is no burden on the Prosecution to show motive. The Prosecution merely has to prove the _actus reus_ and _mens rea_ of the offence beyond a reasonable doubt, and _mens rea_ does not by any means equate to motive. While the presence of a motive may militate in favour of a finding of _mens rea_ , the absence of motive 
 
 
-does not necessarily equate to an absence of _mens rea_ : _PP v Oh Laye Koh_ [1994] 2 SLR 385 at 394, [26]. The appellant then went on to make the rather startling assertion that it made no sense for him to have knocked the victim down with his car, considering that the appellant’s car was next to PW1’s taxi. It would have been obvious to the appellant, so the argument goes, that the taxi driver would witness the entire incident. I failed to see how this assisted the appellant at all. It was not my task to deduce why he acted in a certain manner, or why he acted in such a way given that he was in full sight of eyewitnesses. 
+does not necessarily equate to an absence of _mens rea_ : _PP v Oh Laye Koh_ <span class="citation">[1994] 2 SLR 385</span> at 394, [26]. The appellant then went on to make the rather startling assertion that it made no sense for him to have knocked the victim down with his car, considering that the appellant’s car was next to PW1’s taxi. It would have been obvious to the appellant, so the argument goes, that the taxi driver would witness the entire incident. I failed to see how this assisted the appellant at all. It was not my task to deduce why he acted in a certain manner, or why he acted in such a way given that he was in full sight of eyewitnesses. 
 
 48     Point (d) also afforded very little assistance to the appellant in the light of the independent eyewitness testimony and the objective DNA evidence. The victim was able to say that he was at the scene of the crime at the material time, and there was certainly no doubt that he suffered the injuries for which the appellant was charged. Indeed, the after-effects of those very injuries were still manifest in court when he came to testify, which is precisely the reason he was unable to recall the incident in detail. 
 
@@ -242,7 +242,7 @@ This was surely absurd. Needless to say, I saw absolutely no basis for me to int
  (d) the sentence imposed was manifestly excessive, or manifestly inadequate, as the case may be. 
 
 
-This is trite law, as set out in _Tan Koon Swan v PP_ [1986] SLR 126 and recently reiterated in _Ong Ah Tiong v PP_ [2004] 1 SLR 587 at [10]. 
+This is trite law, as set out in _Tan Koon Swan v PP_ [1986] SLR 126 and recently reiterated in _Ong Ah Tiong v PP_ <span class="citation">[2004] 1 SLR 587</span> at [10]. 
 
 52     The offence under s 326 of the PC is punishable with imprisonment for life, or a maximum of ten years’ imprisonment with fine or caning. In this case, the district judge sentenced the appellant to four years’ imprisonment with six strokes of the cane. 
 

@@ -310,7 +310,7 @@ between Mr Kek and his son was obviously close.
 
 79     In the circumstances, I find that Mr Kek had a vested interest in the business of the columbarium and that he was also actively involved in running it and advising the defendant on the proper management of the business. The defendant was therefore entitled to Mr Kek’s loyalty and to expect that he would act in good faith and would not make a profit out of his position or act for his own benefit without the consent of the defendant. 
 
-80     Moving on to the relationship between Mr Kek and the plaintiff, I note that the law on conspiracy is well established. From the principles set out by the Court of Appeal in _Quah Kay Tee v Ong & Co Pte Ltd_ [1997] 1 SLR 390, in order to succeed in the defence of conspiracy via unlawful means, the defendant must prove: 
+80     Moving on to the relationship between Mr Kek and the plaintiff, I note that the law on conspiracy is well established. From the principles set out by the Court of Appeal in _Quah Kay Tee v Ong & Co Pte Ltd_ <span class="citation">[1997] 1 SLR 390</span>, in order to succeed in the defence of conspiracy via unlawful means, the defendant must prove: 
 
  (a) that there was an agreement between the plaintiff and Mr Kek; 
 

@@ -73,7 +73,7 @@ contract. The 2nd Defendant contested only the amendments relating to the additi
 
 **Issues** 
 
-9       In a contested application for leave to amend pleadings, the principles to be applied akin to those which apply if the application had been to strike out the amended pleadings ( _Jeyaretnam Joshua Benjamin v Lee Kuan Yew_ [1990] 1 SLR(R) 337 (“ _Jeyaretnam Joshua Benjamin_ ”) at [4]). In 
+9       In a contested application for leave to amend pleadings, the principles to be applied akin to those which apply if the application had been to strike out the amended pleadings ( _Jeyaretnam Joshua Benjamin v Lee Kuan Yew_ <span class="citation">[1990] 1 SLR(R) 337</span> (“ _Jeyaretnam Joshua Benjamin_ ”) at [4]). In 
 
 
 this regard, counsel for the 2nd Defendant, Mr Koh Junxiang (“Mr Koh”), objected to the Contested Amendment on two grounds: first, that it did not disclose a reasonable cause of action; and second, that it amounted to an abuse of process. I address these two issues in the remainder of this Judgment. 
@@ -84,11 +84,11 @@ this regard, counsel for the 2nd Defendant, Mr Koh Junxiang (“Mr Koh”), obje
 
 _Parties’ Arguments_ 
 
-11     It is undisputed between the parties that to establish a claim in tort for inducement of breach of contract, the Plaintiff had to demonstrate the two-fold criteria in _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ [2000] 2 SLR(R) 407 (“ _Tribune Investment Trust Inc_ ”) at [17], _viz_ that the 
+11     It is undisputed between the parties that to establish a claim in tort for inducement of breach of contract, the Plaintiff had to demonstrate the two-fold criteria in _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">[2000] 2 SLR(R) 407</span> (“ _Tribune Investment Trust Inc_ ”) at [17], _viz_ that the 
 
 2       nd Defendant had (a) acted with the requisite knowledge of the existence of the contract, although knowledge of the precise terms is not necessary; and (b) intended to interfere with the performance of the contract, such intention being objectively determined. 
 
-12     Mr Koh argued that in the context of a director’s personal tortious liability in respect of contractual breaches by his company, a director is exempt from such liability if he had not acted in breach of any fiduciary or legal duties owed to their company (citing _PT Sandipala Arthaputra v STMicroelectronics Asia Pacific Pte Ltd and others_ [2018] SGCA 17 (“ _PT Sandipala Arthaputra_ ”) at [62], which affirmed the principle in _Said v Butt_ [1920] 2 KB 497). The onus is on the Plaintiff to prove 
+12     Mr Koh argued that in the context of a director’s personal tortious liability in respect of contractual breaches by his company, a director is exempt from such liability if he had not acted in breach of any fiduciary or legal duties owed to their company (citing _PT Sandipala Arthaputra v STMicroelectronics Asia Pacific Pte Ltd and others_ <span class="citation">[2018] SGCA 17</span> (“ _PT Sandipala Arthaputra_ ”) at [62], which affirmed the principle in _Said v Butt_ [1920] 2 KB 497). The onus is on the Plaintiff to prove 
 
 that the 2nd Defendant had acted in breach of personal legal duties to the company (citing _PT Sandipala_ at [65]). In this regard, the Contested Amendment failed to set out in any detail how the 
 
@@ -98,11 +98,11 @@ merely a bare allegation that the 2nd Defendant had “caused, induced and/or pr
 
 Defendant’s breach for the 2nd Defendant’s “personal gain”, and that the 2nd Defendant did not 
 
-“genuinely and honestly endeavour to act in the 1st Defendant’s best interests”. On the authority of _Chong Hon Kuan Ivan v Levy Maurice and others_ [2004] 4 SLR 801 (“ _Chong Hon Kuan Ivan_ ”) (which was also cited by the Court of Appeal in _PT Sandipala Arthaputra_ ), such a bare allegation falls far 
+“genuinely and honestly endeavour to act in the 1st Defendant’s best interests”. On the authority of _Chong Hon Kuan Ivan v Levy Maurice and others_ <span class="citation">[2004] 4 SLR 801</span> (“ _Chong Hon Kuan Ivan_ ”) (which was also cited by the Court of Appeal in _PT Sandipala Arthaputra_ ), such a bare allegation falls far 
 
 short of disclosing any reasonable cause of action and is doomed to fail. [note: 3] 
 
-13     Counsel for the Plaintiff, Mr Wong Teck Ming (“Mr Wong”), argued that the Contested Amendment was material to defining the real questions in issue between the Plaintiff and the Defendants, and that it would be in the interests of justice to have all facts, details and causes of action pleaded and tried at the trial (citing _Wright Norman and another v Overseas-Chinese Banking Corp Ltd_ [1993] 3 SLR(R) 640 (“ _Wright Norman_ ”)). Mr Wong further contended that the Contested Amendment had sufficiently pleaded the cause of action for inducement of breach of contract. This was because it was accepted by the parties that the Tenancy Agreement was a valid and binding 
+13     Counsel for the Plaintiff, Mr Wong Teck Ming (“Mr Wong”), argued that the Contested Amendment was material to defining the real questions in issue between the Plaintiff and the Defendants, and that it would be in the interests of justice to have all facts, details and causes of action pleaded and tried at the trial (citing _Wright Norman and another v Overseas-Chinese Banking Corp Ltd_ <span class="citation">[1993] 3 SLR(R) 640</span> (“ _Wright Norman_ ”)). Mr Wong further contended that the Contested Amendment had sufficiently pleaded the cause of action for inducement of breach of contract. This was because it was accepted by the parties that the Tenancy Agreement was a valid and binding 
 
 contract between the Plaintiff and the 1st Defendant, and that the 2nd Defendant was fully aware of 
 
@@ -170,18 +170,18 @@ _Parties’ Arguments_
 
 21     In this regard, Mr Koh contended that the Contested Amendment amounted to an abuse of process for three reasons: 
 
- (a) First, the Contested Amendment was, in effect, the Plaintiff’s attempt to seek a “second bite at the cherry”, and such amendments should not be allowed (citing Asia Business Forum Pte Ltd v Long Ai Sin [2004] 2 SLR(R) 173 (“ Asia Business Forum ”)). For one-and-a-half years, the Plaintiff had pursued the claim for unpaid rent and interim payment solely against the 1st Defendant. [note: 7] It was only following the 1st Defendant’s voluntary winding up that the Plaintiff attempted to “circumvent the insolvency regime” by pursuing the unpaid rent claim against the 2nd Defendant, when the 2nd Defendant was not himself a party to the Tenancy Agreement. [note: 8] The Plaintiff was therefore seeking to introduce the issue of unpaid rent in another form to be “re-litigated” between the 2nd Defendant and himself. [note: 9] 
+ (a) First, the Contested Amendment was, in effect, the Plaintiff’s attempt to seek a “second bite at the cherry”, and such amendments should not be allowed (citing Asia Business Forum Pte Ltd v Long Ai Sin <span class="citation">[2004] 2 SLR(R) 173</span> (“ Asia Business Forum ”)). For one-and-a-half years, the Plaintiff had pursued the claim for unpaid rent and interim payment solely against the 1st Defendant. [note: 7] It was only following the 1st Defendant’s voluntary winding up that the Plaintiff attempted to “circumvent the insolvency regime” by pursuing the unpaid rent claim against the 2nd Defendant, when the 2nd Defendant was not himself a party to the Tenancy Agreement. [note: 8] The Plaintiff was therefore seeking to introduce the issue of unpaid rent in another form to be “re-litigated” between the 2nd Defendant and himself. [note: 9] 
 
  (b) Second, it was an abuse of process to litigate incrementally, unless the decision to do so is reasonable and bona fide (citing Antariksa Logistics Pte Ltd and others v Nurdian Cuaca and 
 
 
- others [2017] SGHC 60 (“ Antariksa ”)). In this regard, the Plaintiff had provided no satisfactory justification for why he chose to litigate the issue of unpaid rent incrementally – first against the 1 st Defendant, and only now against the 2nd Defendant. [note: 10] 
+ others <span class="citation">[2017] SGHC 60</span> (“ Antariksa ”)). In this regard, the Plaintiff had provided no satisfactory justification for why he chose to litigate the issue of unpaid rent incrementally – first against the 1 st Defendant, and only now against the 2nd Defendant. [note: 10] 
 
- (c) Third, the Contested Amendment was based on a claim that the Plaintiff, exercising reasonable diligence, might have brought forward earlier (citing Goh Nellie v Goh Lian Teck and others [2007] 1 SLR(R) 453 at [51]). The fact that Plaintiff’s present counsel might have advised him differently from the Plaintiff’s previous counsel was not sufficient to justify belatedly introducing a new cause of action. [note: 11] 
+ (c) Third, the Contested Amendment was based on a claim that the Plaintiff, exercising reasonable diligence, might have brought forward earlier (citing Goh Nellie v Goh Lian Teck and others <span class="citation">[2007] 1 SLR(R) 453</span> at [51]). The fact that Plaintiff’s present counsel might have advised him differently from the Plaintiff’s previous counsel was not sufficient to justify belatedly introducing a new cause of action. [note: 11] 
 
 22     Mr Wong contended that the Contested Amendment did not cause any unfairness or prejudice to the Defendants which could not be compensated by costs. This was because the Contested Amendment arose from substantially the same facts that have already been pleaded. He further argued that while the ground for the new claim existed since the commencement of the present suit, this cause of action was being introduced pursuant to a “completely fresh study” of the suit by Plaintiff’s present counsel, who had taken over conduct of the matter only in November 2017. The Plaintiff should not be precluded from bringing the claim as a means of punishment for his errors or the errors of his solicitors (citing _Wright Norman_ at [25]). While delay has been occasioned, delay _per se_ 
 
-did not amount to prejudice or injustice to the 2nd Defendant (citing _Review Publishing Co Ltd and another v Lee Hsien Loong and another appeal_ [2010] 1 SLR 52 at [114]). 
+did not amount to prejudice or injustice to the 2nd Defendant (citing _Review Publishing Co Ltd and another v Lee Hsien Loong and another appeal_ <span class="citation">[2010] 1 SLR 52</span> at [114]). 
 
 _Decision_ 
 

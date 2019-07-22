@@ -184,7 +184,7 @@ The defendant’s comments above miss the point altogether for reasons which wil
 
  ... 
 
-35     The plaintiff cited a Court of Appeal decision on s 157 of the Act to support its application. In _Kea Holdings Pte Ltd v Gan Boon Hock_ [2000] 3 SLR 129, Yong Pung How CJ had this to say (at [19]): 
+35     The plaintiff cited a Court of Appeal decision on s 157 of the Act to support its application. In _Kea Holdings Pte Ltd v Gan Boon Hock_ <span class="citation">[2000] 3 SLR 129</span>, Yong Pung How CJ had this to say (at [19]): 
 
  Under s 157(4), the duties under s 157(1) are specifically stated not to be in derogation of any other rule of law relating to the duty or liability of directors or officers of a company, including the common law and equitable rules. There are two principles of conduct of relevance to the present case. First, that a director must act in what he honestly considers to be the company’s interest, and not in the interests of some other person or body. Secondly, the equitable rule that a fiduciary must not place himself in a position where his duty to the company and his personal interests may conflict. 
 
@@ -195,7 +195,7 @@ The defendant’s comments above miss the point altogether for reasons which wil
 
  in the absence of actual separate consideration, must be whether an intelligent and honest man in the position of a director of the company concerned, could, in the whole of the existing circumstances, have reasonably believed that the transactions were for the benefit of the company. 
 
-Pennycuick J’s test in _Charterbridge Corporation_ was applied by L P Thean JA in another Court of Appeal decision, namely, _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ [1995] 1 SLR 313 (at 324–325, [29]–[30]). 
+Pennycuick J’s test in _Charterbridge Corporation_ was applied by L P Thean JA in another Court of Appeal decision, namely, _Intraco Ltd v Multi-Pak Singapore Pte Ltd_ <span class="citation">[1995] 1 SLR 313</span> (at 324–325, [29]–[30]). 
 
 37     In openly siding with GHFD in its dispute with the plaintiff, the defendant, who wears two hats as a director of both companies (and of GHE who is the second defendant in the earlier suit), is clearly acting in conflict of his duties as the plaintiff’s director. 
 

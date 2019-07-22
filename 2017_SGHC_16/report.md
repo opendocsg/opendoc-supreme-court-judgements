@@ -53,7 +53,7 @@ Following the completion of the audit in April 2008, the Plaintiff came to the c
 
 was challenged by the 1st Defendant before the Income Tax Board of Review. Eventually, following an 
 
-appeal, the Court of Appeal found that although the 1st Defendant had claimed the Tax Refunds under a tax avoidance arrangement, the Plaintiff was not entitled to recover the refunds by way of the Additional Assessments (see _Comptroller of Income Tax v AQQ_ [2014] 2 SLR 847). However, the Court of Appeal left open the possibility of a common law action for mistaken payment. 
+appeal, the Court of Appeal found that although the 1st Defendant had claimed the Tax Refunds under a tax avoidance arrangement, the Plaintiff was not entitled to recover the refunds by way of the Additional Assessments (see _Comptroller of Income Tax v AQQ_ <span class="citation">[2014] 2 SLR 847</span>). However, the Court of Appeal left open the possibility of a common law action for mistaken payment. 
 
 **_Procedural history_** 
 
@@ -71,7 +71,7 @@ appeal, the Court of Appeal found that although the 1st Defendant had claimed th
 
 7       In March 2015, the 1st Defendant filed the present application, but this was not determined pending the resolution of Summons 4769 of 2014. That summons, among other things, sought 
 
-production of an advice from the Plaintiff’s Law Division, given on 3 April 2008, concerning the 1st Defendant’s Corporate Restructuring and Financing Arrangement. The matter eventually came up on appeal to the Court of Appeal, which found that the communications in question were privileged, and that this privilege had not been waived (see _ARX v Comptroller of Income Tax_ [2016] 5 SLR 590 (“ _ARX_ ”)). 
+production of an advice from the Plaintiff’s Law Division, given on 3 April 2008, concerning the 1st Defendant’s Corporate Restructuring and Financing Arrangement. The matter eventually came up on appeal to the Court of Appeal, which found that the communications in question were privileged, and that this privilege had not been waived (see _ARX v Comptroller of Income Tax_ <span class="citation">[2016] 5 SLR 590</span> (“ _ARX_ ”)). 
 
 8       The 1st Defendant’s request for specific discovery in this application covered a total of 15 
 
@@ -193,7 +193,7 @@ underlying its claim that the 1st Defendant’s arrangement was one of tax avoid
 
 _The law on legal professional privilege_ 
 
-29     Sections 128 and 131 of the Evidence Act (Cap 97, 1997 Rev Ed) (“EA”) are generally taken as providing for legal professional privilege in Singapore. However, these sections do not stipulate the privilege in exactly the same form as the rules developed at common law. In _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd_ [2007] 2 SLR 367 (“ _Asia Pacific Breweries_ ”) at [27]–[31], the Court of Appeal noted that as ss 128 and 131 of the EA were essentially founded on English cases, English law principles are applicable to determine the scope of ss 128 and 131 of the EA. However, this is subject to the limitation in s 2 of the EA that anything inconsistent with the EA would not be applicable: _Asia Pacific Breweries_ at [31]. The arguments before me are made primarily on basis of the common law, with extensive citation of English authorities. I do not find that any of the principles relied upon are inconsistent with the EA. 
+29     Sections 128 and 131 of the Evidence Act (Cap 97, 1997 Rev Ed) (“EA”) are generally taken as providing for legal professional privilege in Singapore. However, these sections do not stipulate the privilege in exactly the same form as the rules developed at common law. In _Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries (Singapore) Pte Ltd_ <span class="citation">[2007] 2 SLR 367</span> (“ _Asia Pacific Breweries_ ”) at [27]–[31], the Court of Appeal noted that as ss 128 and 131 of the EA were essentially founded on English cases, English law principles are applicable to determine the scope of ss 128 and 131 of the EA. However, this is subject to the limitation in s 2 of the EA that anything inconsistent with the EA would not be applicable: _Asia Pacific Breweries_ at [31]. The arguments before me are made primarily on basis of the common law, with extensive citation of English authorities. I do not find that any of the principles relied upon are inconsistent with the EA. 
 
 (1) Are the Group 2 and Group 3 documents covered by litigation privilege? 
 

@@ -107,9 +107,9 @@ he criticised the linkage of the resolutions as being “irrational and unnecess
 
 15     The appellant took objection to the article and sued the respondents on the ground that the words in italics (“the impugned words”) were defamatory of him. Mr David Ban admitted the words were attributed to him in the article. However, he denied that the impugned words were defamatory. 
 
-16     The president of the SIAS, Mr David Gerald, took exception to being accused of playing to the gallery and instituted defamation proceedings in _Jeyasegaram David v Ban Song Long David_ [2005] 2 SLR 712 (“ _Jeyasegaram David_ ”). His action failed at trial, and met with the same result on appeal. 
+16     The president of the SIAS, Mr David Gerald, took exception to being accused of playing to the gallery and instituted defamation proceedings in _Jeyasegaram David v Ban Song Long David_ <span class="citation">[2005] 2 SLR 712</span> (“ _Jeyasegaram David_ ”). His action failed at trial, and met with the same result on appeal. 
 
-17     In his judgment in the appellant’s action, _Oei Hong Leong v Ban Song Long David_ [2005] 1 SLR 277, Tay Yong Kwang J, the trial judge, found: 
+17     In his judgment in the appellant’s action, _Oei Hong Leong v Ban Song Long David_ <span class="citation">[2005] 1 SLR 277</span>, Tay Yong Kwang J, the trial judge, found: 
 
  87 To obstruct is to hinder or impede. An “obstructive action” would therefore be one that hinders or impedes progress towards an objective. The words suggest that the person guilty of the obstructive action is not very co-operative. That is not necessarily defamatory. They do not imply that that person is acting in a malicious or perverse manner. However, used in juxtaposition with “disadvantaging the majority”, they do hint of unreasonable and unfair conduct. That reflects on a person’s character or reputation and is defamatory. 
 
@@ -141,7 +141,7 @@ he criticised the linkage of the resolutions as being “irrational and unnecess
 21     On the first issue, _ie_ , the natural and ordinary meaning of the impugned words, it was contended that Mr David Ban had said that the appellant was acting in a perverse, malicious and deliberately obstructive and oppressive manner, with no concern as to the prejudice he was causing NatSteel or the massive detriment to small shareholders awaiting their dividends. 
 
 
-22     Is that the proper meaning of the impugned words? This court has ruled in _Microsoft Corporation v SM Summit Holdings Ltd_ [1999] 4 SLR 529 at [53] that: 
+22     Is that the proper meaning of the impugned words? This court has ruled in _Microsoft Corporation v SM Summit Holdings Ltd_ <span class="citation">[1999] 4 SLR 529</span> at [53] that: 
 
  The principles applicable in determining the natural and ordinary meaning of the words complained of in a defamation action are well-established. The court decides what meaning the words would have conveyed to an ordinary, reasonable person using his general knowledge and common sense ... The test is an objective one: it is the natural and ordinary meaning as understood by an ordinary, reasonable person, not unduly suspicious or avid for scandal. The meaning intended by the maker of the defamatory statement is irrelevant. Similarly, the sense in which the words were actually understood by the party alleged to have been defamed is also irrelevant. Nor is extrinsic evidence admissible in construing the words. The meaning must be gathered from the words themselves and in the context of the entire passage in which they are set out. The court is not confined to the literal or strict meaning of the words, but takes into account what the ordinary, reasonable person may reasonably infer from the words. The ordinary, reasonable person reads between the lines. 
 
@@ -216,7 +216,7 @@ moral, to persons who had a corresponding duty or interest to receive it” – 
 
  (d) the comment is one which a fair-minded person can honestly make on the facts proved. 
 
-See _Chen Cheng v Central Christian Church_ (“ _Chen Cheng_ ”) [1999] 1 SLR 94 at [33]. 
+See _Chen Cheng v Central Christian Church_ (“ _Chen Cheng_ ”) <span class="citation">[1999] 1 SLR 94</span> at [33]. 
 
 44     The first element is the most important one to establish because statements of fact are not protected. While there are statements which can be clearly characterised as either statements of fact or comments, the distinction is not always easy to make; and (at [35] of _Chen Cheng_ ): 
 
@@ -237,7 +237,7 @@ at [52].
 
 49     Even when the requisite elements of qualified privilege and fair comment are established, these defences will fail if a statement was made with malice. 
 
-50     This court has hitherto assumed that the test for malice in qualified privilege and fair comment is the same, see _Jeyaretnam JB v Goh Chok Tong_ [1984–1985] SLR 516 at 528, [36] and _Nirumalan K Pillay v A Balakrishnan_ [1997] 3 SLR 25 at [32]. 
+50     This court has hitherto assumed that the test for malice in qualified privilege and fair comment is the same, see _Jeyaretnam JB v Goh Chok Tong_ [1984–1985] SLR 516 at 528, [36] and _Nirumalan K Pillay v A Balakrishnan_ <span class="citation">[1997] 3 SLR 25</span> at [32]. 
 
 51     That assumption was examined by the Hong Kong Court of Final Appeal in _Cheng Albert v Tse Wai Chun Paul_ [2000] 4 HKC 1. Lord Nicholls of Birkenhead at 17 noted that the purposes for which the law had accorded the defence of qualified privilege and the defence of fair comment were not the same in that while: 
 

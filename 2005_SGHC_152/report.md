@@ -416,7 +416,7 @@ and s 126(1) of the Companies Act (Cap 50, 1994 Rev Ed) that:
 
 73     They declared in their opening statement that, “The Defendants’ case is that the 400, Crocodile Holdings shares were offered for sale to the Plaintiff but she did not purchase them.” If that assertion were to be taken to its conclusion, no lien could arise because when there was no purchase, there could be no vendor or unpaid vendor’s lien. 
 
-74     A lien was expressly mentioned in CH’s letters to the plaintiff of 28 March 2000 and 28 April 2000 which have been referred to at [62] and [63] above. At the close of the case, the defendants abandoned the position that there was no purchase, and reverted to the vendor’s lien. If there was an obligation on the plaintiff to pay for the shares, there could still be a lien even after title and possession of the shares had been transferred to the plaintiff. CI could claim an equitable unpaid vendor’s lien, which would subsist until the vendor received the price payable: see _Re Caveat No CV/21366D_ [1996] 2 SLR 196 at 200. The plaintiff submitted that CI was not entitled to enforce its purported vendor’s lien by having the 800,000 CH shares transferred to itself, and then claim beneficial ownership of them. 
+74     A lien was expressly mentioned in CH’s letters to the plaintiff of 28 March 2000 and 28 April 2000 which have been referred to at [62] and [63] above. At the close of the case, the defendants abandoned the position that there was no purchase, and reverted to the vendor’s lien. If there was an obligation on the plaintiff to pay for the shares, there could still be a lien even after title and possession of the shares had been transferred to the plaintiff. CI could claim an equitable unpaid vendor’s lien, which would subsist until the vendor received the price payable: see _Re Caveat No CV/21366D_ <span class="citation">[1996] 2 SLR 196</span> at 200. The plaintiff submitted that CI was not entitled to enforce its purported vendor’s lien by having the 800,000 CH shares transferred to itself, and then claim beneficial ownership of them. 
 
 75     The defendants did not agree with that. They submitted: 
 
@@ -464,7 +464,7 @@ shares. No authority was cited in support of their submission. I do not see any 
 
  breach secretly. By saying nothing he keeps it secret. He conceals the right of action. He conceals it by “fraud” as those words have been interpreted in the cases. [emphasis in original] 
 
-This passage was referred to with approval by the Court of Appeal in _Bank of America National Trust and Savings Association v Herman Iskandar_ [1998] 2 SLR 265 at [73]. 
+This passage was referred to with approval by the Court of Appeal in _Bank of America National Trust and Savings Association v Herman Iskandar_ <span class="citation">[1998] 2 SLR 265</span> at [73]. 
 
 82     In the circumstances, the requisite fraud and concealment were present, and time did not run until the plaintiff had notice of the diverted payments. There was no dispute that when she wrote to CH on 18 November 1998, she did not know of the three payments. Even if she was informed of the payments immediately (which was not the case), time started running from that day and the claims were not time-barred. 
 

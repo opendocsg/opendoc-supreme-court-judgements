@@ -20,7 +20,7 @@ _CRIMINAL PROCEDURE AND SENTENCING_ – _Appeal_ – _retrial_
 
 _CRIMINAL PROCEDURE AND SENTENCING_ – _High Court_ – _irregularities in proceedings_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 227.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2010] SGHC 227</span>.] 
 
 30 November 2011 Judgment reserved. 
 
@@ -28,7 +28,7 @@ _CRIMINAL PROCEDURE AND SENTENCING_ – _High Court_ – _irregularities in proc
 
 **Introduction** 
 
-1       This is an appeal brought by Thong Ah Fat (“the Appellant”) against the decision of the trial judge (“the Judge”) in _Public Prosecutor v Thong Ah Fat_ [2010] SGHC 227 (“the Judgment”). The Appellant was charged with committing the following offence: 
+1       This is an appeal brought by Thong Ah Fat (“the Appellant”) against the decision of the trial judge (“the Judge”) in _Public Prosecutor v Thong Ah Fat_ <span class="citation">[2010] SGHC 227</span> (“the Judgment”). The Appellant was charged with committing the following offence: 
 
  That you, THONG AH FAT , 
 
@@ -58,11 +58,11 @@ The Judge, in a brief judgment of five paragraphs, explained why he found the Ap
 
 Appellant’s defence was that while he knew he was importing controlled drugs into Singapore, he thought that he was transporting methamphetamine and not diamorphine. 
 
-3       In _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR(R) 1 (“ _Tan Kiam Peng_ ”), this Court observed that there are two possible interpretations of the requisite _mens rea_ under s 7 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”). The first is that it suffices that the accused only had knowledge that the drug concerned is a controlled drug (“the first interpretation”): see _Tan Kiam Peng_ at [80] and [83]–[89]. The alternative interpretation is that the requisite knowledge is knowledge that the drug concerned is not only a controlled drug but also the specific drug, which it turns out, the accused was in possession of (“the second interpretation”): see _Tan Kiam Peng_ at [81] and [90]–[91]. 
+3       In _Tan Kiam Peng v Public Prosecutor_ <span class="citation">[2008] 1 SLR(R) 1</span> (“ _Tan Kiam Peng_ ”), this Court observed that there are two possible interpretations of the requisite _mens rea_ under s 7 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”). The first is that it suffices that the accused only had knowledge that the drug concerned is a controlled drug (“the first interpretation”): see _Tan Kiam Peng_ at [80] and [83]–[89]. The alternative interpretation is that the requisite knowledge is knowledge that the drug concerned is not only a controlled drug but also the specific drug, which it turns out, the accused was in possession of (“the second interpretation”): see _Tan Kiam Peng_ at [81] and [90]–[91]. 
 
 4       Because the parties in _Tan Kiam Peng_ did not make any detailed argument with respect to which of these two interpretations was correct, no definitive conclusion on this point was expressed by this Court then. This Court based its eventual decision on the second interpretation to give the accused person there the benefit of the doubt. 
 
-5       For completeness, we should mention that since this appeal was heard, an important decision of this Court, _Nagaenthran a/l K Dharmalingam v Public Prosecutor_ [2011] SGCA 49 (“ _Nagaenthran_ ”), has clarified the position on this issue. In _Nagaenthran_ , this Court stated that (at [23]): 
+5       For completeness, we should mention that since this appeal was heard, an important decision of this Court, _Nagaenthran a/l K Dharmalingam v Public Prosecutor_ <span class="citation">[2011] SGCA 49</span> (“ _Nagaenthran_ ”), has clarified the position on this issue. In _Nagaenthran_ , this Court stated that (at [23]): 
 
  In our view, while there may be a conceptual distinction between [the first interpretation] (that the knowledge in s 18(2) of the MDA refers to knowledge that the drug is a controlled drug) and [the second interpretation] (that the knowledge in s 18(2) of the MDA refers to knowledge that the drug is a specific controlled drug, eg , heroin or “ice”), t he distinction has no practical significance for the purposes of rebutting the presumption of knowledge of the nature of the controlled drug. To rebut the presumption of knowledge, all the accused has to do is to prove, on a balance of probabilities, that he did not know the nature of the controlled drug referred to in the charge. The material issue in s 18(2) of the MDA is not the existence of the accused’s knowledge of the controlled drug, but the non-existence of such knowledge on his part. [emphasis in original in italics; emphasis added in bold italics] 
 
@@ -165,7 +165,7 @@ He quoted Lord Donaldson MR in _Tramountana Armadora SA v Atlantic Shipping Co S
 
 **_How appellate intervention in relation to inadequacy of reasons differs from appellate intervention in relation to a trial judge’s findings of fact_** 
 
-26     An appellate court’s treatment of a case where the issue relates to an inadequacy of reasons is different from the approach the appellate court will apply when asked to assess findings of fact made by the trial court. In relation to overturning or modifying findings of fact, it trite that the appellate court will exercise restraint in recognition of the trial judge’s advantage in observing the evidence directly: see, for example, _ADF v Public Prosecutor and another appeal_ [2010] 1 SLR 874 at [16]. Be that as it may, appellate intervention on this basis is still justified under certain circumstances, for example, when the inferences drawn by a trial court were not supported by the primary or objective evidence on record: see _Jagatheesan s/o Krishnasamy v Public Prosecutor_ [2006] 4 SLR(R) 45 at [34]–[43]. An extreme scenario was posited in _Watt or Thomas v Thomas_ [1947] AC 484, where Lord Thankerton made his classic statement on when an appellate court may intervene notwithstanding the trial judge’s advantage (at 488): 
+26     An appellate court’s treatment of a case where the issue relates to an inadequacy of reasons is different from the approach the appellate court will apply when asked to assess findings of fact made by the trial court. In relation to overturning or modifying findings of fact, it trite that the appellate court will exercise restraint in recognition of the trial judge’s advantage in observing the evidence directly: see, for example, _ADF v Public Prosecutor and another appeal_ <span class="citation">[2010] 1 SLR 874</span> at [16]. Be that as it may, appellate intervention on this basis is still justified under certain circumstances, for example, when the inferences drawn by a trial court were not supported by the primary or objective evidence on record: see _Jagatheesan s/o Krishnasamy v Public Prosecutor_ <span class="citation">[2006] 4 SLR(R) 45</span> at [34]–[43]. An extreme scenario was posited in _Watt or Thomas v Thomas_ [1947] AC 484, where Lord Thankerton made his classic statement on when an appellate court may intervene notwithstanding the trial judge’s advantage (at 488): 
 
  The appellate court ... because it unmistakeably so appears from the evidence, may be satisfied that he has not taken proper advantage of his having seen and heard the witnesses, and the matter will then become at large for the appellate court. 
 
@@ -286,7 +286,7 @@ contemporaneous statement stated: [note: 1]
 
  Answer: This is my second time [The Appellant’s mark] 
 
-52     Because the recorder of the statement was a Central Narcotics Bureau officer and not a police officer, it would appear that s 24 of the Evidence Act (Cap 97, 1997 Rev Ed) (“EA”) was the applicable admissibility provision rather than s 122(5) of the CPC: see _Chai Chien Wei Kelvin v Public Prosecutor_ [1998] 3 SLR(R) 619. Unlike s 122(5) of the CPC, s 24 of the EA _prima facie_ applies to only “confessions” and not “admissions” – terms which carry different meanings under the EA (see s 258 of the CPC 2010 for the present position). Paradoxically, taking a strict interpretation of the EA alone, one _may_ argue that an involuntary admission would nevertheless be admissible, and no _voir dire_ was necessary. This is not an issue that we need to express any views on at present. 
+52     Because the recorder of the statement was a Central Narcotics Bureau officer and not a police officer, it would appear that s 24 of the Evidence Act (Cap 97, 1997 Rev Ed) (“EA”) was the applicable admissibility provision rather than s 122(5) of the CPC: see _Chai Chien Wei Kelvin v Public Prosecutor_ <span class="citation">[1998] 3 SLR(R) 619</span>. Unlike s 122(5) of the CPC, s 24 of the EA _prima facie_ applies to only “confessions” and not “admissions” – terms which carry different meanings under the EA (see s 258 of the CPC 2010 for the present position). Paradoxically, taking a strict interpretation of the EA alone, one _may_ argue that an involuntary admission would nevertheless be admissible, and no _voir dire_ was necessary. This is not an issue that we need to express any views on at present. 
 
 53     However, we are unsure if the Judge had undertaken such an exercise of statutory interpretation and arrived at the aforementioned position, which implies that he viewed the contemporaneous statement as a confession because there was a _voir dire_ , or that he took the alternative position which requires both admissions and confessions to be voluntarily given even under the EA, in which case he may have viewed the contemporaneous statement as an admission that still called for a _voir dire_. 
 

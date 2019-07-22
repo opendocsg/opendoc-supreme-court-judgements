@@ -108,7 +108,7 @@ The defendant appealed against the AR’s decision in Registrar’s Appeal No. 1
 
 24     The legal principles governing whether a stay should be granted on the basis of _forum non conveniens_ are settled and were not disputed by either party. 
 
-25     The tried and tested two-stage inquiry test enunciated by the House of Lords in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 was reiterated recently by our Court of Appeal in _Rickshaw Investments Ltd v Nicolai Baron von Uexkull_ [2007] 1 SLR 377 and is as follows: 
+25     The tried and tested two-stage inquiry test enunciated by the House of Lords in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 was reiterated recently by our Court of Appeal in _Rickshaw Investments Ltd v Nicolai Baron von Uexkull_ <span class="citation">[2007] 1 SLR 377</span> and is as follows: 
 
  (a) the first stage (“stage one”) is to determine whether there is prima facie some other available forum which is more appropriate than Singapore for the case to be tried. The burden of satisfying stage one is on the defendant. 
 

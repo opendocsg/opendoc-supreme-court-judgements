@@ -104,7 +104,7 @@ I will deal with them in turn.
 
 **Good reason** 
 
-20\. The principles that have to be applied when a judge considers whether or not to extend the validity of a writ have been settled since 1987. They were clearly spelt out by Amarjeet Singh JC in _The Lircay_ [1997] 2 SLR 669 and I can do no better than to quote the relevant passages of this judgment. 
+20\. The principles that have to be applied when a judge considers whether or not to extend the validity of a writ have been settled since 1987. They were clearly spelt out by Amarjeet Singh JC in _The Lircay_ <span class="citation">[1997] 2 SLR 669</span> and I can do no better than to quote the relevant passages of this judgment. 
 
  ‘ Principles 
 
@@ -112,7 +112,7 @@ I will deal with them in turn.
 
  Where a writ has not been served on a defendant, the Court may by order extend the validity of the writ from time to time for such period, not exceeding 12 mont hs at any one time, beginning with the day next following that on which it would otherwise expire, as may be specified in the order, if an application for extension is made to the Court before that day or such later day (if any) as the Court may allow. 
 
- 11.2 The Court of Appeal in Lim Hong Kan & Ors v Mohd Sainudin bin Ahmad [1992] 1 SLR 353 in interpreting the above rule following The Myrto ; Kleinwort Benson Ltd v Barbrak Ltd (No 3) [1987] 2 All ER 289 laid down the principles to be considered in the exercise of the power. 
+ 11.2 The Court of Appeal in Lim Hong Kan & Ors v Mohd Sainudin bin Ahmad <span class="citation">[1992] 1 SLR 353</span> in interpreting the above rule following The Myrto ; Kleinwort Benson Ltd v Barbrak Ltd (No 3) [1987] 2 All ER 289 laid down the principles to be considered in the exercise of the power. 
 
 
 One of the principles was that the power of extension should only be exercised for _good reason_. Lord Brandon in _Kleinwort Benson_ had observed that it is not possible to either define or circumscribe the scope of the expression _good reason_ and much depended on all the circumstances of the case and hence the application of the phrase must be left to the judge dealing with the matter. There would be _good reason_ for instance where there was an agreement between the parties, express or implied to defer service of the writ or where the delay concerning the application to extend the validity of the writ was induced or contributed by the defendant or his representative. Another salient consideration would be the difficulty in effecting _service_ more particularly if a defendant was evading service. In the end, it was the exercise of _discretion_ by the court which determined whether the writ was to be extended. In the exercise of that _discretion_ — _discretion_ that was undefined — the judge was entitled to have regard to the balance of _hardship_ between the parties as a relevant matter to be taken into account in extending the writ’s validity on an _ex parte_ application and further that in doing so, the court may well need to consider whether allowing an extension will cause _prejudice_ to the defendants in all the circumstances of the case. 

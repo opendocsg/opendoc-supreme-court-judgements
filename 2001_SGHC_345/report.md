@@ -35,7 +35,7 @@ The trial judge disbelieved the appellant`s defence, finding that the appellant 
 
 **_The present appeal_** 
 
-Before me, the appellant contended that the sentence imposed was manifestly excessive in light of his personal circumstances, which had not been raised in mitigation before the trial judge. Furthermore, there were features of his employment of Ramadose which justified a reduction in sentence. Finally, the appellant pointed out that in **Ang Jwee Herng v PP** [2001] 2 SLR 474 , a sentence of nine months` imprisonment had been imposed for each charge, while in **Elizabeth Usha v PP** [2001] 2 SLR 60 , a sentence of six months` imprisonment had been imposed on each charge. Consequently, he argued that his sentence should likewise be reduced by a few months. 
+Before me, the appellant contended that the sentence imposed was manifestly excessive in light of his personal circumstances, which had not been raised in mitigation before the trial judge. Furthermore, there were features of his employment of Ramadose which justified a reduction in sentence. Finally, the appellant pointed out that in **Ang Jwee Herng v PP** <span class="citation">[2001] 2 SLR 474</span> , a sentence of nine months` imprisonment had been imposed for each charge, while in **Elizabeth Usha v PP** <span class="citation">[2001] 2 SLR 60</span> , a sentence of six months` imprisonment had been imposed on each charge. Consequently, he argued that his sentence should likewise be reduced by a few months. 
 
 **FEATURES OF THE APPELLANT`S EMPLOYMENT OF RAMADOSE** 
 
@@ -49,14 +49,14 @@ As for the appellant`s claim that he had not intended to employ Ramadose for a l
 
 ### PERSONAL CIRCUMSTANCES OF THE APPELLANT 
 
-The appellant relied on the fact that he was a first offender, an issue which he had already raised in the court below. **Sim Gek Yong v PP** [1995] 1 SLR 537 makes it clear that, although being a first 
+The appellant relied on the fact that he was a first offender, an issue which he had already raised in the court below. **Sim Gek Yong v PP** <span class="citation">[1995] 1 SLR 537</span> makes it clear that, although being a first 
 
 
 offender is a mitigating factor, it must be weighed against other factors, the first and foremost consideration in this balancing process being the public interest. It was clear from the discussion in the grounds of decision of the trial judge of the problems caused by the prevalence of immigration offences, as well as the need to deter their commission, that the trial judge considered that the nature of the offence, and the public interest in deterring its commission, outweighed the fact that the appellant was a first offender. I saw no reason to disturb this finding. 
 
 It is in any event clear that being a first offender is not a bar to the imposition of the benchmark sentence in a s 57(1)(e) offence. In **Hameed Sultan Raffic v PP** (Unreported) , the appellant, a first offender, had initially been sentenced to seven months` imprisonment. I enhanced his sentence to 12 months` imprisonment on appeal. 
 
-The appellant also relied on his age and the fact that he was the sole breadwinner in his family. In rejecting these factors as grounds for mitigation, I noted that there is no general rule mandating the giving of a discount for offenders of advanced years **Krishan Chand v PP** [1995] 2 SLR 291. It is equally clear from **Lim Choon Kang v PP** [1993] 3 SLR 927 that hardship caused to the family by way of financial loss occasioned by imprisonment is of little weight today. 
+The appellant also relied on his age and the fact that he was the sole breadwinner in his family. In rejecting these factors as grounds for mitigation, I noted that there is no general rule mandating the giving of a discount for offenders of advanced years **Krishan Chand v PP** <span class="citation">[1995] 2 SLR 291</span>. It is equally clear from **Lim Choon Kang v PP** <span class="citation">[1993] 3 SLR 927</span> that hardship caused to the family by way of financial loss occasioned by imprisonment is of little weight today. 
 
 As for the appellant`s health issues, namely high blood pressure and a pain in his right eye, I wish to reiterate the point I made in **PP v Ong Ker Seng** (Unreported) that ill-health is not a mitigating factor except in the most exceptional cases when judicial mercy may be exercised. In the present case, the appellant had not presented me with evidence that the health problems were of such a serious nature that I ought to reduce his sentence on that ground. I also found it pertinent that the appellant had been able to continue working despite his health problems. 
 

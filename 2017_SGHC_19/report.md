@@ -18,7 +18,7 @@ _Land_ – _Adverse possession_
 
 _Land_ – _Compulsory acquisition_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 4 of 2017 was allowed in part by the Court of Appeal on 10 April 2019. See [2019] SGCA 23.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 4 of 2017 was allowed in part by the Court of Appeal on 10 April 2019. See <span class="citation">[2019] SGCA 23</span>.] 
 
 13 February 2017 
 
@@ -110,13 +110,13 @@ that the Award must stand. [note: 25]
 
 **Adverse possession** 
 
-13     The applicant had the burden to prove that title had accrued to him and/or his father by adverse possession: see _Lee Martin and another v Wama bte Buang_ [1994] 2 SLR(R) 467 (“ _Lee Martin_ ”) at [15]. In this regard, the relevant principles to establish adverse possession could be briefly summarised as follows: 
+13     The applicant had the burden to prove that title had accrued to him and/or his father by adverse possession: see _Lee Martin and another v Wama bte Buang_ <span class="citation">[1994] 2 SLR(R) 467</span> (“ _Lee Martin_ ”) at [15]. In this regard, the relevant principles to establish adverse possession could be briefly summarised as follows: 
 
- (a) First, the adverse possessor must establish that he had been in factual possession of the land for at least 12 continuous years: see Chua June Ching Michelle v Chai Hoi Tong and others [2011] 4 SLR 418 at [9]–[10]. 
+ (a) First, the adverse possessor must establish that he had been in factual possession of the land for at least 12 continuous years: see Chua June Ching Michelle v Chai Hoi Tong and others <span class="citation">[2011] 4 SLR 418</span> at [9]–[10]. 
 
- (b) Second, the possession of the land must be adverse to the owner ie , the adverse possessor must have acted inconsistently with the owner’s intended use of the land: see Tan Kee (suing as an administrator of the estate of Poh Wong, deceased and in her own personal capacity) and Others v The Titular Roman Catholic Archbishop of Singapore [1997] SGHC 281 (“ Tan Kee ”) at [47] and Re Lot 114-69 Mukim 22, Singapore and another action [2001] 1 SLR(R) 811 at [37] and [53]. 
+ (b) Second, the possession of the land must be adverse to the owner ie , the adverse possessor must have acted inconsistently with the owner’s intended use of the land: see Tan Kee (suing as an administrator of the estate of Poh Wong, deceased and in her own personal capacity) and Others v The Titular Roman Catholic Archbishop of Singapore <span class="citation">[1997] SGHC 281</span> (“ Tan Kee ”) at [47] and Re Lot 114-69 Mukim 22, Singapore and another action <span class="citation">[2001] 1 SLR(R) 811</span> at [37] and [53]. 
 
- (c) Third, the adverse possessor must have intended to exclude the world at large from the land: see Lee Martin at [16] and Moulmein Development Pte Ltd v Teo Teck Guan and another [1998] 1 SLR(R) 195 (“ Moulmein Development ”) at [20]. 
+ (c) Third, the adverse possessor must have intended to exclude the world at large from the land: see Lee Martin at [16] and Moulmein Development Pte Ltd v Teo Teck Guan and another <span class="citation">[1998] 1 SLR(R) 195</span> (“ Moulmein Development ”) at [20]. 
 
  (d) Fourth, blatant enclosure and inhabitation of the land were the strongest evidence of adverse possession. Although these were not the only ways to establish adverse possession, the court generally expected the adverse possessor to “raise the flag of hostile possession by occupation without permission and ... keep it flying until it ripens into a title by adverse possession”: see Tan Kee at [47]. 
 
@@ -155,7 +155,7 @@ adverse possession commenced demonstrated the inherent weakness of his case.
 
 19 May 1964 to 11 November 1970 because he was incarcerated in Changi Prison. [note: 37] The 
 
-applicant contended that physical possession was not necessary for _factum possidendi_ : [note: 38] see _Soon Peng Yam and another (trustees of the Chinese Swimming Club) v Maimon bte Ahmad_ [1995] 1 SLR(R) 279 (at [14]–[15]), but failed to show how the present facts could trigger the relevant principle or how title could even _begin_ to accrue when the applicant’s father was in jail. 
+applicant contended that physical possession was not necessary for _factum possidendi_ : [note: 38] see _Soon Peng Yam and another (trustees of the Chinese Swimming Club) v Maimon bte Ahmad_ <span class="citation">[1995] 1 SLR(R) 279</span> (at [14]–[15]), but failed to show how the present facts could trigger the relevant principle or how title could even _begin_ to accrue when the applicant’s father was in jail. 
 
 19     In the end, I found that the applicant failed to establish the requirement of _factum possidendi_. The third and fourth respondents also argued that the applicant’s father could not, in law, have acquired any interest in the Land under the Residential Property Act (Cap 274, 2009 Rev Ed) because he was Stateless. But given the paucity of evidence that the applicant’s father was even in continuous possession of the Land, it was unnecessary for me to decide on this point. 
 

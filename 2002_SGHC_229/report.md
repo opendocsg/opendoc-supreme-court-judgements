@@ -60,7 +60,7 @@
 
 ## The Cherry and Others 
 
-## [2002] 3 SLR 431 
+## <span class="citation">[2002] 3 SLR 431</span> 
 
 ## The Miramar 
 
@@ -69,7 +69,7 @@
 
 ### The Trade Resolve 
 
-### [1999] 4 SLR 424 
+### <span class="citation">[1999] 4 SLR 424</span> 
 
 ### Wah Yuen Petroleum Marine Pte Ltd v Hai Yin Diesel Trading Pte Ltd 
 
@@ -338,7 +338,7 @@ fuel oil 3.5S, with what appeared to be his signature, he said the document exhi
 
 immediate right to possession of the goods at the time of conversion would have been the banks and not the seller. 
 
-68\. However, in _The Cherry & Ors_ [2002] 3 SLR 431, Justice Kan Ting Chiu said that while it was generally accepted that a person who wanted to sue in conversion must have actual possession or the immediate right to possession at the time of conversion, the rule was not inflexible. Relying on _Bristol & West of England Bank v Midland Railway Co_ [1891] 2 QB 653, he decided that the title to sue may be transferred from a preceding party to the plaintiff after the act of conversion. I understand that his decision is on appeal to the Court of Appeal. 
+68\. However, in _The Cherry & Ors_ <span class="citation">[2002] 3 SLR 431</span>, Justice Kan Ting Chiu said that while it was generally accepted that a person who wanted to sue in conversion must have actual possession or the immediate right to possession at the time of conversion, the rule was not inflexible. Relying on _Bristol & West of England Bank v Midland Railway Co_ [1891] 2 QB 653, he decided that the title to sue may be transferred from a preceding party to the plaintiff after the act of conversion. I understand that his decision is on appeal to the Court of Appeal. 
 
 69\. In any event, in the case before me, Feoso is no longer claiming any right under B/L No 1. In my view, Feoso has no locus standi to sue for conversion. I am also of the view that there was no conversion by Faith and I shall elaborate on this later. 
 
@@ -527,7 +527,7 @@ demurrage which is consistent with the continuation of the Head CP and not its t
 The front side of B/L No 1 referred to a Charterparty dated 13 October 1999 but no other description. This was the date of the Head CP as well as the Sub CP. 
 
 
-128\. Mr Kuek submitted that the words in clause 1 were wide enough to incorporate the lien provision in the Head CP on the authority of Mr Justice Mustill’s judgment in _The Miramar_ [1983] 2 LLR 319 and Judicial Commissioner Chan Seng Onn’s judgment in _The Trade Resolve_ [1999] 4 SLR 424. Mr Haridass did not dispute this. He also accepted that where two or more charterparties of the same date could be incorporated, the case-law authorities suggest it is the head charter-party that is incorporated. 
+128\. Mr Kuek submitted that the words in clause 1 were wide enough to incorporate the lien provision in the Head CP on the authority of Mr Justice Mustill’s judgment in _The Miramar_ [1983] 2 LLR 319 and Judicial Commissioner Chan Seng Onn’s judgment in _The Trade Resolve_ <span class="citation">[1999] 4 SLR 424</span>. Mr Haridass did not dispute this. He also accepted that where two or more charterparties of the same date could be incorporated, the case-law authorities suggest it is the head charter-party that is incorporated. 
 
 129\. However, para 11 of Feoso’s Re-Amended Defence asserts that even if the terms of the Head CP were incorporated into B/L No 1, Faith would still not be able to claim demurrage because of additional clause 4 of the Head CP as the Vessel did not proceed to Huangpu to discharge the cargo by reason of Faith’s failure to arrange for a joint inspection of the vessel which is a mandatory requirement under Chinese law and/or regulation or a custom of Chinese ports, and which, when passed, would enable the vessel to enter the port limits of Huangpu and become an arrived ship. 
 

@@ -617,7 +617,7 @@ the _Marina 1_ finance transaction: [note: 40]
 
 that Wajilam would be paid for providing trade finance services ( _ie_ , remunerated fairly). 
 
-113    A _quantum meruit_ claim may be based in contract or in restitution (what the older cases term as quasi-contract). In the High Court decision of _Rabiah Bee bte Mohamed Ibrahim v Salem Ibrahim_ [2007] 2 SLR(R) 655, Prakash J described the two types of claims (at [123]): 
+113    A _quantum meruit_ claim may be based in contract or in restitution (what the older cases term as quasi-contract). In the High Court decision of _Rabiah Bee bte Mohamed Ibrahim v Salem Ibrahim_ <span class="citation">[2007] 2 SLR(R) 655</span>, Prakash J described the two types of claims (at [123]): 
 
  It would be noted from the above that two types of quantum meruit exist viz contractual quantum meruit and, secondly, restitutionary quantum meruit. Where there is an express or implied contract which is silent on the quantum of remuneration or where there is a contract which states that there should be remuneration but does not fix the quantum, the claim in quantum meruit will be contractual in nature. Where, however, the basis of the claim is to correct the otherwise unjust enrichment of the defendant, it is restitutionary in nature. It is also relevant that there cannot be a claim in quantum meruit if there exists a contract for an agreed sum and there cannot be a claim in restitution parallel to an inconsistent contractual promise between the parties. [emphasis added] 
 

@@ -20,7 +20,7 @@ _Landlord and Tenant_ – _Covenants_ – _Repair_ – _Tenant claiming damages 
 
 **Lai Kew Chai J:** 
 
-1       At an earlier trial, I allowed the plaintiff tenant’s claim for damages arising out of the landlord’s breach of the covenant to repair: see [2003] 3 SLR 703. The Court of Appeal allowed the landlord’s appeal, ruling that the issue of whether the defendant was negligent or not was joined, and remitted the matter back to me for consideration of the issue whether on the facts, cl 8.1 of the lease applied so as to exempt the landlord from liability for the tenant’s losses. 
+1       At an earlier trial, I allowed the plaintiff tenant’s claim for damages arising out of the landlord’s breach of the covenant to repair: see <span class="citation">[2003] 3 SLR 703</span>. The Court of Appeal allowed the landlord’s appeal, ruling that the issue of whether the defendant was negligent or not was joined, and remitted the matter back to me for consideration of the issue whether on the facts, cl 8.1 of the lease applied so as to exempt the landlord from liability for the tenant’s losses. 
 
 2       The material facts are as follows. The defendant, Amara Hotel Properties Pte Ltd (“Amara”), was the owner of the shopping complex known as “The Amara” in Tanjong Pagar, including a food court as well as several shop units. The plaintiff, Sie Choon Poh (trading as Image Galaxy) (“Mr Sie”) took a lease of a shop unit below the food court for a period of three years ending on 8 September 2001 under a lease agreement dated 28 July 1998. Mr Sie operated a printing business at the unit. 
 

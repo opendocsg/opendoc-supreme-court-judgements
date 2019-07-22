@@ -61,7 +61,7 @@ _Civil Procedure_ – _Appeals_
 
 14     Hence, on 3 August 2016, V filed the Present OS in the High Court for an extension of time to appeal against the Appeal Dismissal Order. 
 
-15     The principles for granting an extension of time are not in dispute. Four factors are to be considered (see _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ [2008] 1 SLR(R) 757 at [18]): 
+15     The principles for granting an extension of time are not in dispute. Four factors are to be considered (see _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ <span class="citation">[2008] 1 SLR(R) 757</span> at [18]): 
 
  (a) the length of the delay; 
 
@@ -159,7 +159,7 @@ the court, towards arguments over security for costs even after he provided the 
 
 43     Before I continue, I would mention that during the hearing of SUM 5188, I asked V if he was aware that if leave to appeal to the Court of Appeal was granted, he would have to provide security for the costs of that appeal, which could be $20,000. V was not deterred by this sum and still wanted to obtain leave to appeal, even though this would likely mean a further delay in the hearing of the trial of the substantive action. For clarification, I should add that the security for the costs of an appeal to the Court of Appeal is $15,000 for an appeal against an interlocutory order and $20,000 for all other appeals. In any event, the point is that V’s determination to pursue the matter to the Court of Appeal, notwithstanding that a sum larger than $7,000 would then have to be provided as further security for costs, reinforced my earlier view that he was not acting _bona fide_. 
 
-44     The factors for an application for leave to appeal to the Court of Appeal were not in dispute (see _Lee Kuan Yew v Tang Liang Hong and another_ [1997] 2 SLR(R) 862 at [16]). They are: 
+44     The factors for an application for leave to appeal to the Court of Appeal were not in dispute (see _Lee Kuan Yew v Tang Liang Hong and another_ <span class="citation">[1997] 2 SLR(R) 862</span> at [16]). They are: 
 
  (a) prima facie case of error; 
 

@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ – _Illegal importation of controlled drugs_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 25.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 25</span>.] 
 
 3 May 2018 Judgment reserved. 
 
@@ -28,12 +28,12 @@ _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ – _Illegal i
 
  ... you, on the 16th day of May 2012, at or about 6.17 a.m., at the Woodlands Checkpoint, Singapore, in a Malaysian registered car JDH 7952, did import a controlled drug specified in Class A of the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), to wit, four (4) packets of crystalline substance weighing 498.2 grams, which were analysed and found to contain not less than 319.37 grams of methamphetamine, without any authorisation under the said Act or the Regulations made thereunder, and you have thereby committed an offence under section 7 and punishable under section 33 of the said Act, and further upon your conviction under section 7 of the said Act, you may alternatively be liable to be punished under section 33B of the said Act. 
 
-After a trial of the matter, the Judge convicted the Appellant. His reasons can be found at _Public Prosecutor v Sinnappan a/l Nadarajah_ [2017] SGHC 25 (“the Judgment”). The Appellant was also sentenced to life imprisonment and 15 strokes of the cane pursuant to s 33B(2) of the MDA. 
+After a trial of the matter, the Judge convicted the Appellant. His reasons can be found at _Public Prosecutor v Sinnappan a/l Nadarajah_ <span class="citation">[2017] SGHC 25</span> (“the Judgment”). The Appellant was also sentenced to life imprisonment and 15 strokes of the cane pursuant to s 33B(2) of the MDA. 
 
 2       This appeal focuses on whether the Appellant had knowledge of the presence and the nature of the drugs found in the car he was driving into Singapore. At the trial, the Prosecution relied heavily on a series of text messages and call records extracted from the Appellant’s mobile phones to show that the Appellant had a prior arrangement with one “Ravindran” to bring controlled drugs into Singapore. The Appellant’s key contention in this appeal is that he had no knowledge whatsoever of these messages and that, in this regard, these mobile phone records are unreliable and should not be relied upon to establish his guilt. Alternatively, he contends that his defence is compatible with the contents of these text messages. 
 
 
-3       For completeness, we note that, although the Appellant alleged in his Petition of Appeal that the Judge had descended into the arena during the trial, he did not press this particular point in oral submissions before this court. In our view, this allegation was wholly without foundation. There was no evidence whatsoever that the Judge had intervened in an unacceptable manner, having regard to the principles laid down by this court in _Mohammed Ali bin Johari v Public Prosecutor_ [2008] 4 SLR(R) 1058 (and summarised at [175]). 
+3       For completeness, we note that, although the Appellant alleged in his Petition of Appeal that the Judge had descended into the arena during the trial, he did not press this particular point in oral submissions before this court. In our view, this allegation was wholly without foundation. There was no evidence whatsoever that the Judge had intervened in an unacceptable manner, having regard to the principles laid down by this court in _Mohammed Ali bin Johari v Public Prosecutor_ <span class="citation">[2008] 4 SLR(R) 1058</span> (and summarised at [175]). 
 
 **Facts** 
 
@@ -206,7 +206,7 @@ knowledge with no convenient means of retrieval (at [79]). Although the Appellan
 
  21. If any controlled drug is found in any vehicle, it shall be presumed, until the contrary is proved, to be in the possession of the owner of the vehicle and of the person in charge of the vehicle for the time being. 
 
-22     To rebut the presumption in s 21, the accused has to prove, on a balance of probabilities, that he did not have the drug in his possession. In _Obeng Comfort v Public Prosecutor_ [2017] 1 SLR 633, this court observed in relation to the presumption of possession in s 18(1) of the MDA that “the most obvious way in which the presumption can be rebutted is by establishing that the accused did not know that the thing in issue contained that which is shown to be the drug in question” (at [35]). This statement applies to the presumption of possession in s 21 as well. If, for instance, the accused is able to persuade the court that the drug was placed in his vehicle without his knowledge, the presumption could be rebutted successfully. In so doing, the accused would be establishing that he did not have the _mens rea_ of possession (see _Public Prosecutor v Tan Lye Heng_ [2017] 5 SLR 564 at [112]). 
+22     To rebut the presumption in s 21, the accused has to prove, on a balance of probabilities, that he did not have the drug in his possession. In _Obeng Comfort v Public Prosecutor_ <span class="citation">[2017] 1 SLR 633</span>, this court observed in relation to the presumption of possession in s 18(1) of the MDA that “the most obvious way in which the presumption can be rebutted is by establishing that the accused did not know that the thing in issue contained that which is shown to be the drug in question” (at [35]). This statement applies to the presumption of possession in s 21 as well. If, for instance, the accused is able to persuade the court that the drug was placed in his vehicle without his knowledge, the presumption could be rebutted successfully. In so doing, the accused would be establishing that he did not have the _mens rea_ of possession (see _Public Prosecutor v Tan Lye Heng_ <span class="citation">[2017] 5 SLR 564</span> at [112]). 
 
 23     Section 18(2) of the MDA provides as follows: 
 
@@ -216,7 +216,7 @@ knowledge with no convenient means of retrieval (at [79]). Although the Appellan
 
  (2) Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug. 
 
-24     To rebut the presumption in s 18(2), the accused must prove, on a balance of probabilities, that he did not have knowledge of the nature of the controlled drug. In _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ [2012] 2 SLR 903, this court observed (at [18]) that the accused can do so by showing that “he did not know or could not reasonably be expected to have known the nature of the controlled drug”. 
+24     To rebut the presumption in s 18(2), the accused must prove, on a balance of probabilities, that he did not have knowledge of the nature of the controlled drug. In _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ <span class="citation">[2012] 2 SLR 903</span>, this court observed (at [18]) that the accused can do so by showing that “he did not know or could not reasonably be expected to have known the nature of the controlled drug”. 
 
 25     The Appellant seeks to rebut the presumptions under ss 21 and 18(2) by proving on a balance of probabilities that he had no knowledge that the Bundle was in the Car. 
 
@@ -447,7 +447,7 @@ planning to return to Johor Bahru in time for an appointment at the motorcycle s
 
 66     For the foregoing reasons, we find that the Appellant has failed to rebut the presumptions of possession and knowledge under ss 21 and 18(2). The records of HP2 pertaining to the time of the offence support the Prosecution’s case that the Appellant had a prior arrangement with Ravindran to bring the drugs into Singapore. The Appellant has not provided a reasonable explanation for them, and his case that the drugs were planted in the Car does not stand up to scrutiny in the light of these messages. Against this, there is no positive evidence to show that the Appellant had refused to carry the drugs and that the drugs had been planted by Ravindran. 
 
-67     This case stands in obvious contrast to the recent decision in _Gopu Jaya Raman v Public Prosecutor_ [2018] 1 SLR 499, where this court, by a majority, acquitted an appellant after being satisfied that the drugs had been placed in his motorcycle without his knowledge. As the majority noted (at [25]), each case involves a delicate and fact-sensitive inquiry. It must be emphasised that the determination of guilt is an evidential matter decided on the merits of each case. Having considered all the circumstances in this case, we find that the Appellant’s appeal fails. Accordingly, we affirm the Appellant’s conviction. 
+67     This case stands in obvious contrast to the recent decision in _Gopu Jaya Raman v Public Prosecutor_ <span class="citation">[2018] 1 SLR 499</span>, where this court, by a majority, acquitted an appellant after being satisfied that the drugs had been placed in his motorcycle without his knowledge. As the majority noted (at [25]), each case involves a delicate and fact-sensitive inquiry. It must be emphasised that the determination of guilt is an evidential matter decided on the merits of each case. Having considered all the circumstances in this case, we find that the Appellant’s appeal fails. Accordingly, we affirm the Appellant’s conviction. 
 
  C opyright © Government of Singapore. 
 

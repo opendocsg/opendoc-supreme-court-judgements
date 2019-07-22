@@ -49,7 +49,7 @@ were playing the video games elsewhere in the flat. He pulled down Victim 7’s 
 
 ### THE PROSECUTION’S SUBMISSIONS ON SENTENCE 
 
-11     After noting that the Accused’s only criminal record consisted of a traffic offence in 1988, the Prosecution asked that a deterrent sentence be imposed on the Accused based on the guidelines enunciated by the Court of Appeal in _Lim Hock Hin Kelvin v PP_ [1998] 1 SLR 801. The Prosecution submitted that the Accused had abused the trust reposed in him by the boys who regarded him as an elder brother or uncle. It was also said that "such an introduction to sexuality by this self-professed homosexual could result in some form of sexual confusion in the victims" and that "these acts of sexual deviancy have a very corrupting effect especially on adolescents such as the eight victims in the present instance". The Prosecution also submitted that there should be no distinction in principle between anal sex and oral sex where Section 377 of the Penal Code was concerned. 
+11     After noting that the Accused’s only criminal record consisted of a traffic offence in 1988, the Prosecution asked that a deterrent sentence be imposed on the Accused based on the guidelines enunciated by the Court of Appeal in _Lim Hock Hin Kelvin v PP_ <span class="citation">[1998] 1 SLR 801</span>. The Prosecution submitted that the Accused had abused the trust reposed in him by the boys who regarded him as an elder brother or uncle. It was also said that "such an introduction to sexuality by this self-professed homosexual could result in some form of sexual confusion in the victims" and that "these acts of sexual deviancy have a very corrupting effect especially on adolescents such as the eight victims in the present instance". The Prosecution also submitted that there should be no distinction in principle between anal sex and oral sex where Section 377 of the Penal Code was concerned. 
 
 ### THE MITIGATION PLEA 
 
@@ -68,7 +68,7 @@ were playing the video games elsewhere in the flat. He pulled down Victim 7’s 
 
 17     Since the Court of Appeal’s decision in _PP v Kwan Kwong Weng_ [1997] I SLR 697, it is clear that fellatio between two male persons is unnatural carnal intercourse within the meaning of Section 377 of the Penal Code. Consent is irrelevant although threats or the use of violence would aggravate the offence. 
 
-18     The Court of Appeal in _Lim Hock Hin Kelvin v PP_ [1998] 1 SLR 801 laid down the following sentencing guidelines in respect of paedophiles: 
+18     The Court of Appeal in _Lim Hock Hin Kelvin v PP_ <span class="citation">[1998] 1 SLR 801</span> laid down the following sentencing guidelines in respect of paedophiles: 
 
 ## "24 Bearing in mind the gravity of the offence, we started from the position that 
 

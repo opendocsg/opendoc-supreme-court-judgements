@@ -16,7 +16,7 @@
 
 _Credit and Security_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2010] 3 SLR 799 .] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2010] 3 SLR 799</span> .] 
 
 3 December 2010 
 
@@ -24,7 +24,7 @@ _Credit and Security_
 
 **Introduction** 
 
-1       This is an appeal by the appellant, JBE Properties Pte Ltd (“JBE”), against the decision of the High Court judge (“the Judge”) to grant an interim injunction restraining JBE from receiving any money under a performance bond numbered “00001BGG0601600” (“the Bond”) on the ground that JBE’s call on the Bond was unconscionable. The Judge’s decision is reported in _Gammon Pte Ltd v JBE Properties Pte Ltd (SCDA Architects Pte Ltd, third party)_ [2010] 3 SLR 799 (“the GD”). After hearing the parties, we dismissed JBE’s appeal against the grant of the aforesaid interim injunction (“the Interim Injunction”), but set aside certain ancillary orders made by the Judge (“the Ancillary Orders”). We now give the reasons for our decision. 
+1       This is an appeal by the appellant, JBE Properties Pte Ltd (“JBE”), against the decision of the High Court judge (“the Judge”) to grant an interim injunction restraining JBE from receiving any money under a performance bond numbered “00001BGG0601600” (“the Bond”) on the ground that JBE’s call on the Bond was unconscionable. The Judge’s decision is reported in _Gammon Pte Ltd v JBE Properties Pte Ltd (SCDA Architects Pte Ltd, third party)_ <span class="citation">[2010] 3 SLR 799</span> (“the GD”). After hearing the parties, we dismissed JBE’s appeal against the grant of the aforesaid interim injunction (“the Interim Injunction”), but set aside certain ancillary orders made by the Judge (“the Ancillary Orders”). We now give the reasons for our decision. 
 
 **Background** 
 
@@ -47,7 +47,7 @@ liability for failing to rectify construction defects had yet to be determined. 
 
 **The law as to when the court may restrain a call on a performance bond** 
 
-6       It is now well established that, under our law, apart from fraud (which is the traditional ground for restraining a call on a performance bond), unconscionability is a _separate and independent_ ground for the court to grant an interim injunction restraining a beneficiary from making a call on a performance bond (see, _inter alia_ , _Bocotra Construction Pte Ltd and others v Attorney-General_ [1995] 2 SLR(R) 262 at [53] and _GHL Pte Ltd v Unitrack Building Construction Pte Ltd and another_ [1999] 3 SLR(R) 44 at [16] and [20]; see also the GD at [6]–[7]). This is wider than the English position, which requires fraud to be clearly proved before a call on a performance bond can be restrained. 
+6       It is now well established that, under our law, apart from fraud (which is the traditional ground for restraining a call on a performance bond), unconscionability is a _separate and independent_ ground for the court to grant an interim injunction restraining a beneficiary from making a call on a performance bond (see, _inter alia_ , _Bocotra Construction Pte Ltd and others v Attorney-General_ <span class="citation">[1995] 2 SLR(R) 262</span> at [53] and _GHL Pte Ltd v Unitrack Building Construction Pte Ltd and another_ <span class="citation">[1999] 3 SLR(R) 44</span> at [16] and [20]; see also the GD at [6]–[7]). This is wider than the English position, which requires fraud to be clearly proved before a call on a performance bond can be restrained. 
 
 **_The English position_** 
 
@@ -62,7 +62,7 @@ liability for failing to rectify construction defects had yet to be determined. 
 
 **_The position in Singapore_** 
 
-9       The Singapore courts first cast doubt on whether the strict test of “clear fraud” ( _per_ Lord Denning in _Edward Owen Engineering_ at 171) was the only test consistent with or permitted by existing law for the purposes of restraining calls on performance bonds (especially those given in connection with building contracts) in _Royal Design Studio Pte Ltd v Chang Development Pte Ltd_ [1990] 2 SLR(R) 520 in 1990. These reservations were elaborated on in _Chartered Electronics Industries Pte Ltd v Development Bank of Singapore_ [1992] 2 SLR(R) 20 (“ _Chartered Electronics_ ”), where it was suggested that clear fraud need not be shown and that “a strong _prima facie_ case of fraud” (at [40]) would be sufficient. This subsequently led to the development by this court of unconscionability as an alternative ground, _separate from and independent of fraud_ , for restraining a call on a performance bond (see the discussion in _Ellinger & Neo_ at pp 319–323). 
+9       The Singapore courts first cast doubt on whether the strict test of “clear fraud” ( _per_ Lord Denning in _Edward Owen Engineering_ at 171) was the only test consistent with or permitted by existing law for the purposes of restraining calls on performance bonds (especially those given in connection with building contracts) in _Royal Design Studio Pte Ltd v Chang Development Pte Ltd_ <span class="citation">[1990] 2 SLR(R) 520</span> in 1990. These reservations were elaborated on in _Chartered Electronics Industries Pte Ltd v Development Bank of Singapore_ <span class="citation">[1992] 2 SLR(R) 20</span> (“ _Chartered Electronics_ ”), where it was suggested that clear fraud need not be shown and that “a strong _prima facie_ case of fraud” (at [40]) would be sufficient. This subsequently led to the development by this court of unconscionability as an alternative ground, _separate from and independent of fraud_ , for restraining a call on a performance bond (see the discussion in _Ellinger & Neo_ at pp 319–323). 
 
 10     The Singapore courts’ rationale in applying unconscionability as a separate and independent ground for restraining a call on a performance bond (especially one given by the contractor-obligor in a building contract) is that a performance bond serves a different function from a letter of credit. The latter performs the role of payment by the obligor for goods shipped to it by the beneficiary (typically via sea or air from another country), and “has been the life blood of commerce in international trade for hundreds of years” (see _Chartered Electronics_ at [36]). Interfering with payment under a letter of credit is tantamount to interfering with the _primary_ obligation of the obligor to make payment under its contract with the beneficiary. Hence, payment under a letter of credit should not be disrupted or restrained by the court in the absence of fraud. In contrast, a performance bond is merely security for the _secondary_ obligation of the obligor to pay damages _if_ it breaches its primary contractual obligations to the beneficiary. A performance bond is not the lifeblood of commerce, whether generally or in the context of the construction industry specifically. Thus, a less stringent standard (as compared to the standard applicable _vis-à-vis_ letters of credit) can justifiably be adopted for determining whether a call on a performance bond should be restrained. We should also add that 
 

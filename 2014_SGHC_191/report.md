@@ -34,7 +34,7 @@ _Tort_ – _defamation_ – _fair comment_
 
 **Implication of the defendant’s submission of no case to answer** 
 
-3       Before I deal with the above issues, I would like to address the implication of the defendant’s submission of a no case to answer at the close of the plaintiffs’ case. I had previously dealt with the principles applicable to a no case to answer submission in _Lena Leowardi v Yeap Cheen Soo_ [2014] SGHC 44 at [18]–[22]. When the defendant mounted a no case to answer submission, he in effect elected not to call evidence. The result is that the plaintiffs only need to make out a _prima facie_ case to succeed in the suit. Furthermore, I must assume that any evidence led by the plaintiffs is true, unless it is inherently incredible or out of all common sense or reason. 
+3       Before I deal with the above issues, I would like to address the implication of the defendant’s submission of a no case to answer at the close of the plaintiffs’ case. I had previously dealt with the principles applicable to a no case to answer submission in _Lena Leowardi v Yeap Cheen Soo_ <span class="citation">[2014] SGHC 44</span> at [18]–[22]. When the defendant mounted a no case to answer submission, he in effect elected not to call evidence. The result is that the plaintiffs only need to make out a _prima facie_ case to succeed in the suit. Furthermore, I must assume that any evidence led by the plaintiffs is true, unless it is inherently incredible or out of all common sense or reason. 
 
 4       Nevertheless, this does not free the plaintiffs from their burden of proof. They must still prove all the essential elements of their claim based on the totality of their evidence although this is subject to the court’s minimum evaluation. Bearing these principles in mind, I shall proceed to deal with the 
 
@@ -195,11 +195,11 @@ Brochure. This showed that the defendant intended to convey the message of the s
 
 remiss in their duties while serving on the CYF’s Board of Directors. [note: 20] However at trial, they appeared to suggest that the election was a contest between the defendant’s team and the plaintiffs’ team and the statements referred to them in the context of the elections. This latter version is not the plaintiff’s pleaded case. Moreover, the fourth plaintiff was also in the defendant’s team. The premise on which I will proceed is on the plaintiffs’ pleaded case. 
 
-29     The law on the issue that the defamatory statements must refer to the plaintiff is settled and the Court of Appeal in _Review Publishing Co Ltd and another v Lee Hsien Loong and another appeal_ [2010] 1 SLR 52 (“ _Review Publishing_ ”) at [48]–[49] held that: 
+29     The law on the issue that the defamatory statements must refer to the plaintiff is settled and the Court of Appeal in _Review Publishing Co Ltd and another v Lee Hsien Loong and another appeal_ <span class="citation">[2010] 1 SLR 52</span> (“ _Review Publishing_ ”) at [48]–[49] held that: 
 
  48 It is trite law that, to succeed in an action for defamation, the plaintiff must prove not only that the defendant published the offending words, but that those words were published of the plaintiff ... 
 
- 4 9 The test is a n objective one, and it is simply whether the ordinary reasonable person who, at the material time, was aware of the relevant circumstances or special facts (if any) would reasonably understand the plaintiff to be referred to by the offending words ... In A Balakrishnan v Nirumalan K Pillay [1999] 2 SLR(R) 462 (" A Balakrishnan "), this court held that, having regard to the article which contained the offending words and the publicity given to the plaintiffs as members of an organising committee that had organised an event called "Tamil Language Week" (which was the subject matter of that article), a reasonable person who was acquainted with the plaintiffs, on reading the article, would come to the conclusion that the offending words referred to the plaintiffs even though the plaintiffs were not expressly identified in the article. It follows from the decision in A Balakrishnan that the plaintiff need not be expressly referred to by name in the offending words; it is also immaterial whether or not the defendant intended to refer to the plaintiff ... 
+ 4 9 The test is a n objective one, and it is simply whether the ordinary reasonable person who, at the material time, was aware of the relevant circumstances or special facts (if any) would reasonably understand the plaintiff to be referred to by the offending words ... In A Balakrishnan v Nirumalan K Pillay <span class="citation">[1999] 2 SLR(R) 462</span> (" A Balakrishnan "), this court held that, having regard to the article which contained the offending words and the publicity given to the plaintiffs as members of an organising committee that had organised an event called "Tamil Language Week" (which was the subject matter of that article), a reasonable person who was acquainted with the plaintiffs, on reading the article, would come to the conclusion that the offending words referred to the plaintiffs even though the plaintiffs were not expressly identified in the article. It follows from the decision in A Balakrishnan that the plaintiff need not be expressly referred to by name in the offending words; it is also immaterial whether or not the defendant intended to refer to the plaintiff ... 
 
  [emphasis in bold] 
 
@@ -224,7 +224,7 @@ abdicated their duties”. [note: 22]
 
 **What was the meaning of the statements?** 
 
-35     Whether a statement is defamatory depends on its natural and ordinary meaning assessed objectively. For this, reference is usually made to the ordinary, reasonable and reasonably interested person. In this regard, the Court of Appeal decision in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ [2012] 1 SLR 506 (“ _Bernard Chan_ ”) is instructive as it also dealt with the scenario whereby statements were distributed to members of an association. The Court of Appeal held at [19] and [26] that: 
+35     Whether a statement is defamatory depends on its natural and ordinary meaning assessed objectively. For this, reference is usually made to the ordinary, reasonable and reasonably interested person. In this regard, the Court of Appeal decision in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ <span class="citation">[2012] 1 SLR 506</span> (“ _Bernard Chan_ ”) is instructive as it also dealt with the scenario whereby statements were distributed to members of an association. The Court of Appeal held at [19] and [26] that: 
 
  19 ... the class of reader is relevant in determining the scope of possible meanings the publication may bear... For example, in Rees v Law Society Gazette (2003)...Gray J noted that a solicitor reading the UK's Law Society Gazette is less prone to "loose thinking" than the average ordinary reader. In the context of the present case where the statements were contained in the minutes of the Club's MC meetings and which were published principally to Club members, the "ordinary reasonable person" would be, as the Judge had held at [29] of the Judgment, the ordinary reasonable and interested Club member possessing general knowledge of the affairs of the Club. It should be noted that this view is not contested by the Defendant in this appeal. 
 
@@ -299,7 +299,7 @@ they were “in breach of, neglected and/or abdicated their duties as directors 
 
 44     On the general principles espoused by the Court of Appeal, I find that the words “ensure that the assets and $90 million funds of Char Yong Dabu Association do not fall into the hands of outsiders” were not defamatory and were merely made to alert CYA members to such a future possibility. The words “to better safeguard” might just be a call for improvement. This is not necessarily premised upon the fact that the circumstances at that time were unsatisfactory. Improvements could still be made even if the circumstances were satisfactory. 
 
-45     The above interpretation is also supported by the circumstances. The management and control of the $90m fund in the context of the election are relevant. This holistic approach is recommended by the Court of Appeal in _Jeyasegaram David (alias David Gerald Jeyasegaram) v Ban Song Long David_ [2005] 2 SLR(R) 712 _(“Jeyasegaram David”)_ at [27]: 
+45     The above interpretation is also supported by the circumstances. The management and control of the $90m fund in the context of the election are relevant. This holistic approach is recommended by the Court of Appeal in _Jeyasegaram David (alias David Gerald Jeyasegaram) v Ban Song Long David_ <span class="citation">[2005] 2 SLR(R) 712</span> _(“Jeyasegaram David”)_ at [27]: 
 
  In determining the meaning of the words alleged to be defamatory, a holistic approach had to be adopted , as it was the broad impression conveyed by the alleged libel that fell to be considered, and not the meaning of each word or sentence under analysis. 
 
@@ -499,7 +499,7 @@ honesty and integrity of the then CYF Board”. [note: 39] The plaintiffs have f
 
  [emphasis added] 
 
-74     The plaintiffs further made reference to _Jeyaretnam Joshua Benjamin v Lee Kuan Yew_ [1992] 1 SLR(R) 791 (“ _JBJ_ ”) where the Court of Appeal held that the circumstances of a general election were insufficient to result in an occasion of privilege even if the subject-matter in issue was a material one. The plaintiffs in this case submitted that there was also no evidence that the matters were of current 
+74     The plaintiffs further made reference to _Jeyaretnam Joshua Benjamin v Lee Kuan Yew_ <span class="citation">[1992] 1 SLR(R) 791</span> (“ _JBJ_ ”) where the Court of Appeal held that the circumstances of a general election were insufficient to result in an occasion of privilege even if the subject-matter in issue was a material one. The plaintiffs in this case submitted that there was also no evidence that the matters were of current 
 
 interest or in matters which the CYA members would be interested at the time of the election. [note: 40] 
 
@@ -558,7 +558,7 @@ s 14 applies and if the statements were defamatory, the defendant cannot rely on
 
 **Is the defence of fair comment available to the defendant?** 
 
-85     The fair comment defence is founded upon the protection and promotion of freedom of comment by anyone on matters of public interest: _Overseas-Chinese Banking Corp Ltd v Wright Norman and others and another suit_ [1994] 3 SLR(R) 410 at [32]. To establish this defence, the following elements must be satisfied: 
+85     The fair comment defence is founded upon the protection and promotion of freedom of comment by anyone on matters of public interest: _Overseas-Chinese Banking Corp Ltd v Wright Norman and others and another suit_ <span class="citation">[1994] 3 SLR(R) 410</span> at [32]. To establish this defence, the following elements must be satisfied: 
 
  (a) the words complained of must be comments, though they may consist of or include inference of facts; 
 
@@ -599,7 +599,7 @@ imputed meaning that the plaintiffs had been incompetent, lacking in integrity a
 
 **_Were the statements relating to matters of public interest?_** 
 
-89     What constitutes public interest is wide and includes any matter affecting people at large so that they may be legitimately interested in what is going on or how they might be affected: _Aaron Anne Joseph and others v Cheong Yip Seng and others_ [1996] 1 SLR(R) 258 (“ _Aaron Anne Joseph_ ”) at [75]. The term “public interest” has been read widely by Denning MR in _London Artists Ltd v Littler Grade Organisation Ltd_ [1969] 2 QB 375 at 391 when he held that: 
+89     What constitutes public interest is wide and includes any matter affecting people at large so that they may be legitimately interested in what is going on or how they might be affected: _Aaron Anne Joseph and others v Cheong Yip Seng and others_ <span class="citation">[1996] 1 SLR(R) 258</span> (“ _Aaron Anne Joseph_ ”) at [75]. The term “public interest” has been read widely by Denning MR in _London Artists Ltd v Littler Grade Organisation Ltd_ [1969] 2 QB 375 at 391 when he held that: 
 
 
  There is no definition in the books as to what is a matter of public interest. All we are given is a list of examples, coupled with the statement that it is for the judge and not for the jury. I would not myself confine it within narrow limits. 
@@ -624,7 +624,7 @@ interests to the funds. [note: 47] Thus the plaintiffs submitted that the commen
 
 defendant did not satisfy this threshold because they were “extreme and grave allegations”. [note: 48] 
 
-94     A fair comment is an opinion that a fair-minded person could honestly hold, with some leeway given for prejudices and exaggerations: _The Law of Torts in Singapore_ at para 13.026, citing _Aaron Anne Joseph_ at [77]–[78]. The test of honesty is an objective one ( _Chen Cheng and another v Central Christian Church and other appeals_ [1998] 3 SLR(R) 236 at [48]) and the defendant is to be given every allowance or latitude for prejudice and exaggeration as long as he was fair-minded: _Aaron_ 
+94     A fair comment is an opinion that a fair-minded person could honestly hold, with some leeway given for prejudices and exaggerations: _The Law of Torts in Singapore_ at para 13.026, citing _Aaron Anne Joseph_ at [77]–[78]. The test of honesty is an objective one ( _Chen Cheng and another v Central Christian Church and other appeals_ <span class="citation">[1998] 3 SLR(R) 236</span> at [48]) and the defendant is to be given every allowance or latitude for prejudice and exaggeration as long as he was fair-minded: _Aaron_ 
 
 _Anne Joseph_ at [78]. [note: 49] 
 
@@ -641,7 +641,7 @@ _Anne Joseph_ at [78]. [note: 49]
 
 98     Before the commencement of the trial, at one of the pre-trial conferences, the parties, particularly the plaintiffs, were advised to review their options on whether the High Court or the State 
 
-Courts was the appropriate forum for this defamation suit. [note: 50] The parties’ attention was drawn to the Court of Appeal case of _Koh Sin Chong Freddie v Chan Cheng Wah Bernard and others and another appeal_ [2013] 4 SLR 629 in which costs were awarded on the then Subordinate Courts scale as each of the plaintiffs who was defamed received an amount less than $250,000. The jurisdiction of the High Court can only be invoked when the claim is for more than $250,000. Yet, the plaintiffs in this case proceeded to pursue this suit in the High Court when in their closing submissions they stated that the damages to be awarded to each plaintiff were to be a minimum of $50,000 per 
+Courts was the appropriate forum for this defamation suit. [note: 50] The parties’ attention was drawn to the Court of Appeal case of _Koh Sin Chong Freddie v Chan Cheng Wah Bernard and others and another appeal_ <span class="citation">[2013] 4 SLR 629</span> in which costs were awarded on the then Subordinate Courts scale as each of the plaintiffs who was defamed received an amount less than $250,000. The jurisdiction of the High Court can only be invoked when the claim is for more than $250,000. Yet, the plaintiffs in this case proceeded to pursue this suit in the High Court when in their closing submissions they stated that the damages to be awarded to each plaintiff were to be a minimum of $50,000 per 
 
 plaintiff. [note: 51] In the circumstances, the High Court may not be the appropriate forum to bring their case. 
 

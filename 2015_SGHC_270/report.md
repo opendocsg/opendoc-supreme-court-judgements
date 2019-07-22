@@ -20,7 +20,7 @@ _Criminal law_ – _statutory offences_ – _Misuse of Drugs Act_
 
 **Lee Seiu Kin J:** 
 
-1       The first accused, Hamidah Binte Awang, was tried before me on various dates between 10 September and 6 November 2014. On 5 November 2014 I found her guilty of attempting to export not less than 1,963.3 g of methamphetamine, an offence under s 7 read with s 12 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“the Act”). Full details of the trial and my findings are in my grounds of decision in _Public Prosecutor v Hamidah Binte Awang and another_ [2015] SGHC 4 dated 8 January 2015. 
+1       The first accused, Hamidah Binte Awang, was tried before me on various dates between 10 September and 6 November 2014. On 5 November 2014 I found her guilty of attempting to export not less than 1,963.3 g of methamphetamine, an offence under s 7 read with s 12 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“the Act”). Full details of the trial and my findings are in my grounds of decision in _Public Prosecutor v Hamidah Binte Awang and another_ <span class="citation">[2015] SGHC 4</span> dated 8 January 2015. 
 
 2       On 8 October 2015, the first accused was brought before me for sentencing. The learned Deputy produced a memorandum in which the Public Prosecutor certified that she had substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities within or outside Singapore, under s 33B(2)( _b_ ) of the Act. I was satisfied from the evidence before me in the trial that the involvement of the first accused was restricted to the activities set out in s 33B(2)( _a_ ). The accused therefore satisfied the requirements of s 33B(2). 
 

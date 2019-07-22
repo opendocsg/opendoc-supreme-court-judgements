@@ -62,7 +62,7 @@ contention is that there could be no sale until and unless all the four benefici
 
 **_Trust for sale_** 
 
-In coming to her decision that there was here a trust for sale, but only that the sale was postponed, Lai Siu Chiu J relied upon the cases, **Duke of Marlborough v A-G (No 2)** [1945] Ch 145 and **Rajabali Jumabhoy & Ors v Ameerali R Jumabhoy** [1998] 2 SLR 439. 
+In coming to her decision that there was here a trust for sale, but only that the sale was postponed, Lai Siu Chiu J relied upon the cases, **Duke of Marlborough v A-G (No 2)** [1945] Ch 145 and **Rajabali Jumabhoy & Ors v Ameerali R Jumabhoy** <span class="citation">[1998] 2 SLR 439</span>. 
 
 However, there is a significant difference between the clauses in **_Marlborough_** , and the clauses in the Will of LAP. In **_Marlborough_** , cl 3 of the deed provided that land was conveyed to and was held by trustees upon an express trust `to sell the same`. Such a provision is missing in the Will here. Furthermore, cl 11 of the deed in **_Marlborough_** provided that: 
 

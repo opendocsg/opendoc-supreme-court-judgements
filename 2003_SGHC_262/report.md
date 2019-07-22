@@ -343,7 +343,7 @@ complaints, but they did not identify what endeavours they made to discharge tha
 
  We think ‘best endeavours’ means what the words say; they do not mean second-best endeavours. We quite agree with the argument ... that they cannot be construed to mean that the Great Central must give half or any specific proportion of its trade to the Sheffield District. The do not mean that the Great Central must so conduct its business as to offend its traders and drive them to competing routes. They do not mean that the limits of reason must be overstepped with regard to the cost of the service: but short of these qualifications the words mean that the Great Central Company must, broadly speaking, leave no stone unturned to develop traffic on the Sheffield District line. 
 
-50\. I referred to these two cases in _Ong Khim Heng Daniel v Leonie Court Pte Ltd_ [2001] 1 SLR 445 and concluded that 
+50\. I referred to these two cases in _Ong Khim Heng Daniel v Leonie Court Pte Ltd_ <span class="citation">[2001] 1 SLR 445</span> and concluded that 
 
  A covenant to use best endeavours is not a warranty to produce the desired results. It does not require the covenantor to drop everything and attend to the matter at once; the promise is to use the best endeavours to obtain the result within the agreed time. Nor does it require the covenantor to do everything conceivable; the duty is discharged by doing everything reasonable in good faith with a view to obtaining the required result within the time allowed. 
 

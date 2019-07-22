@@ -60,7 +60,7 @@ The documents in respect of which the AR ordered discovery can be broadly groupe
 
 7       A party to a litigation has an obligation to disclose to the opposing party all documents which are, or have been, in his possession, custody or power that are relevant to the issues in dispute. This is the process of discovery and the court may make an order to do so under O 24 r 1 of the Rules of Court. Where the court is of the view that any party has not disclosed any such document, the court may order that party to give discovery thereof. This is known as specific discovery which the court may order under O 24 r 5. To be susceptible to an order for specific discovery, a document must fulfil certain requirements. 
 
-8       First, the document must be relevant (see _Tan Chin Seng and others v Raffles Town Club Pte Ltd_ [2002] 2 SLR(R) 465 (“ _Tan Chin Seng_ ”) at [18]). In respect of discovery of specific documents, O 24 r 5(3) of the Rules of Court describes a relevant document to be: 
+8       First, the document must be relevant (see _Tan Chin Seng and others v Raffles Town Club Pte Ltd_ <span class="citation">[2002] 2 SLR(R) 465</span> (“ _Tan Chin Seng_ ”) at [18]). In respect of discovery of specific documents, O 24 r 5(3) of the Rules of Court describes a relevant document to be: 
 
  (a) a document on which the party relies or will rely; 
 
@@ -84,7 +84,7 @@ Whether a document is one on which the party seeking discovery relies or will re
 
 9       Second, even if the document is established to be relevant, O 24 r 7 of the Rules of Court further prescribes an overriding principle that discovery is to be ordered only if “necessary either for disposing fairly of the cause or matter or for saving costs”. 
 
-10     In the context of an application for discovery and inspection (including the supply of copies) of electronically stored documents, the Supreme Court Practice Direction No 3 of 2009 (“the e-Discovery PD”) establishes an opt-in framework which parties may adopt (see _Deutsche Bank AG v Chang Tse Wen and others_ [2010] SGHC 125, which considered the application of the opt-in framework). The eDiscovery PD supplements the traditional tests of relevancy and necessity by articulating a nonexhaustive list of matters which the court will consider while applying these existing legal principles of discovery. These matters are listed at para 43D of the e-Discovery PD and include: 
+10     In the context of an application for discovery and inspection (including the supply of copies) of electronically stored documents, the Supreme Court Practice Direction No 3 of 2009 (“the e-Discovery PD”) establishes an opt-in framework which parties may adopt (see _Deutsche Bank AG v Chang Tse Wen and others_ <span class="citation">[2010] SGHC 125</span>, which considered the application of the opt-in framework). The eDiscovery PD supplements the traditional tests of relevancy and necessity by articulating a nonexhaustive list of matters which the court will consider while applying these existing legal principles of discovery. These matters are listed at para 43D of the e-Discovery PD and include: 
 
  (a) the number of electronic documents involved; 
 
@@ -117,17 +117,17 @@ Whether a document is one on which the party seeking discovery relies or will re
 
 The phrase “electronically stored documents” is not defined in the e-Discovery PD. In my view, it is not necessary to define this term as it should be given its natural meaning as used in our modern day context. On this approach, this term will include a wide range of electronic documents, _eg_ , word processor documents, spreadsheets, presentation slides, and image files. Case law has also included within the scope of “documents” electronically stored documents like: 
 
- Emails – see PSA Corp Ltd v Korea Exchange Bank [2002] 1 SLR(R) 871, Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd and others and another suit [2003] 3 SLR(R) 685, K Solutions Pte Ltd v National University of Singapore [2009] 4 SLR(R) 254, and Fermin Aldabe v Standard Chartered Bank [2009] SGHC 194; 
+ Emails – see PSA Corp Ltd v Korea Exchange Bank <span class="citation">[2002] 1 SLR(R) 871</span>, Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd and others and another suit <span class="citation">[2003] 3 SLR(R) 685</span>, K Solutions Pte Ltd v National University of Singapore <span class="citation">[2009] 4 SLR(R) 254</span>, and Fermin Aldabe v Standard Chartered Bank <span class="citation">[2009] SGHC 194</span>; 
 
  Databases – see Sumitomo Corpn v Credit Lyonnais Rouse Ltd [2002] 1 WLR 479 and Derby & Co Ltd And Others v Weldon And Others (No 9) [1991] 1 WLR 652; 
 
- Backup copies – see RecordTV Pte Ltd v MediaCorp TV Singapore Pte Ltd and others [2010] 2 SLR 152 ( “Record TV” ); 
+ Backup copies – see RecordTV Pte Ltd v MediaCorp TV Singapore Pte Ltd and others <span class="citation">[2010] 2 SLR 152</span> ( “Record TV” ); 
 
  Sound recordings stored as Moving Picture Experts Group 1, Audio Layer 3 (“MP3”) files – see Sony Music Entertainment (Australia) Limited v University of Tasmania [2003] FCA 532; 
 
  Video recordings – see RecordTV ; and 
 
- Storage media ( eg CD ROM and tapes) and recording devices ( eg hard disks) – see Megastar Entertainment Pte Ltd and another v Odex Pte Ltd [2005] 3 SLR(R) 91 and Alliance Management SA v Pendleton Lane P and another and another suit [2008] 4 SLR(R) 1. 
+ Storage media ( eg CD ROM and tapes) and recording devices ( eg hard disks) – see Megastar Entertainment Pte Ltd and another v Odex Pte Ltd <span class="citation">[2005] 3 SLR(R) 91</span> and Alliance Management SA v Pendleton Lane P and another and another suit <span class="citation">[2008] 4 SLR(R) 1</span>. 
 
 11     The e-Discovery PD was introduced in 2009 with the aim of providing guidance on how existing legal principles pertaining to the discovery process could be applied in respect of electronically stored documents. One of its objectives is to promote the exchange of electronically stored documents in a 
 

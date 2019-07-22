@@ -88,7 +88,7 @@ matrimonial assets. I am of the view that unless there is some law expressly pro
 
 **The court’s reasons** 
 
-14     The DJ treated the $303,065 as being part of matrimonial assets because the Wife failed to establish that the money was part of a $400,000 inheritance from her father. Relying on _O’Connor Rosamund Monica v Potter Derek John_ [2011] 3 SLR 294 at [18], the DJ was of the view that the burden was on the Wife to establish this and she failed to do so. The Wife had also refused to disclose various bank statements which she had been ordered to disclose. For example, the Wife refused to disclose bank statements of the Joint Bank Accounts claiming that the money belonged to her mother and that her mother considered the information confidential. She did so even though the court had already ordered the Wife to disclose the documents. 
+14     The DJ treated the $303,065 as being part of matrimonial assets because the Wife failed to establish that the money was part of a $400,000 inheritance from her father. Relying on _O’Connor Rosamund Monica v Potter Derek John_ <span class="citation">[2011] 3 SLR 294</span> at [18], the DJ was of the view that the burden was on the Wife to establish this and she failed to do so. The Wife had also refused to disclose various bank statements which she had been ordered to disclose. For example, the Wife refused to disclose bank statements of the Joint Bank Accounts claiming that the money belonged to her mother and that her mother considered the information confidential. She did so even though the court had already ordered the Wife to disclose the documents. 
 
 15     The DJ also noted that the Wife’s explanation about the inheritance was not consistent. The 
 
@@ -132,7 +132,7 @@ accounts from several years ago without exhibiting the bank statements in subseq
 
 32     This was a strange approach. The DJ had granted the Wife a 40% notional share of the Matrimonial House before adjusting it to 20% because of the money in the Joint Bank Accounts. Since the Wife was now asking for 50% of the Matrimonial House, the additional 10% (of its value of $611,428) would be $61,143. On the other hand, she was prepared to forego her notional share of 40% of the Husband’s assets of $127,449.03. This 40% worked out to be about $50,980. It did not make much sense for her to claim an additional $61,143 and forego the $50,980. It seemed to me that the main reason why she adopted this approach was because she did not want to share the assets held by her, including the Joint Bank Accounts, in case the court still concluded that the money in the Joint Bank Accounts was part of matrimonial assets. 
 
-33     In any event, the Husband relied on _NK v NL_ [2007] 3 SLR(R) 743 to show that for a 22-year 
+33     In any event, the Husband relied on _NK v NL_ <span class="citation">[2007] 3 SLR(R) 743</span> to show that for a 22-year 
 
 
 marriage, the wife was given 40% of the matrimonial home. In that case, the Court of Appeal was of the view that the wife should be entitled also to the profits from the sales of previous matrimonial homes. In the present case, the parties were content not to elaborate how the $121,800 from the sale of the previous matrimonial flat should be apportioned and so I did not take that into account. 

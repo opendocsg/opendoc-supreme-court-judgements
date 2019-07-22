@@ -18,7 +18,7 @@ _Contempt of Court_ – _criminal contempt_
 
 _Contempt of Court_ – _criminal and non-criminal contempt distinguished_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 71 of 2012 was allowed by the Court of Appeal on 17 January 2013. See [2013] SGCA 5.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 71 of 2012 was allowed by the Court of Appeal on 17 January 2013. See <span class="citation">[2013] SGCA 5</span>.] 
 
 19 March 2012 Judgment reserved. 
 
@@ -84,11 +84,11 @@ a director of PPLH, the 1st Defendant in Suit 351. E-Interface, the 2nd Defendan
 
 11     This complaint continued to feature in Suit 351, in which Mr Aurol was a key witness. This complaint also formed the basis for the removal of Mr Aurol from the board of directors of PPLS on 8 June 2010. Relations between SCM and Mr Aurol have thus been acrimonious for some time leading up to this application for committal. 
 
-12     OS 590 concerned the powers of the SCM-nominated directors of PPLS to pass resolutions which included, _inter alia_ , the appointment of solicitors to investigate SCM’s complaints against Mr Aurol, without quorum from the PPLH-nominated directors. Woo Bih Li J refused to validate this resolution, finding no elaboration on the likely damage to PPLS, and no evidence to suggest that the disclosure was damaging to PPLS: see _Tang Kin Fei and others v Chang Benety and others_ [2011] 1 SLR 586. He further found, at [45] of his judgment, that the resolutions could have been made “for the collateral purpose of trying to find fault with certain persons at the instigation of a shareholder who was unhappy with Yangzijiang’s intended purchase”. Because it could not be said that the resolutions were passed in the interests of PPLS, the resolutions were invalid. 
+12     OS 590 concerned the powers of the SCM-nominated directors of PPLS to pass resolutions which included, _inter alia_ , the appointment of solicitors to investigate SCM’s complaints against Mr Aurol, without quorum from the PPLH-nominated directors. Woo Bih Li J refused to validate this resolution, finding no elaboration on the likely damage to PPLS, and no evidence to suggest that the disclosure was damaging to PPLS: see _Tang Kin Fei and others v Chang Benety and others_ <span class="citation">[2011] 1 SLR 586</span>. He further found, at [45] of his judgment, that the resolutions could have been made “for the collateral purpose of trying to find fault with certain persons at the instigation of a shareholder who was unhappy with Yangzijiang’s intended purchase”. Because it could not be said that the resolutions were passed in the interests of PPLS, the resolutions were invalid. 
 
 13     The defendants in Suit 351 ( _ie_ , PPLH and E-Interface) then took out Summons No 4837 of 2010 on 14 October 2010 for an injunction to restrain the board of PPLS from conducting business at these inquorate board meetings. 
 
-14     Woo J’s refusal in OS 590 to validate the resolution was upheld on appeal in CA 148: see _Chang Benety and others v Tang Kin Fei and others_ [2012] 1 SLR 274. The Court of Appeal referred to this particular resolution as evidence of SCM’s intention to make use of the inquorate meetings to obtain a tactical advantage over PPLH. This tactical advantage was _prima facie_ a substantial injustice, and resolutions passed with this in mind could not be validated. 
+14     Woo J’s refusal in OS 590 to validate the resolution was upheld on appeal in CA 148: see _Chang Benety and others v Tang Kin Fei and others_ <span class="citation">[2012] 1 SLR 274</span>. The Court of Appeal referred to this particular resolution as evidence of SCM’s intention to make use of the inquorate meetings to obtain a tactical advantage over PPLH. This tactical advantage was _prima facie_ a substantial injustice, and resolutions passed with this in mind could not be validated. 
 
 15     The confidential documents which were sought to be protected arose out of these two suits 
 
@@ -232,7 +232,7 @@ _Arlidge, Eady & Smith on Contempt_ (Sweet & Maxwell, 3rd Ed, 2005) (“ _Arlidg
 
  standard, and there are now common rights of appeal. Of greater assistance is a re-classification as (a) conduct which involves a breach, or assisting in the breach, or a court order and (b) any other conduct which involves an interference with the due administration of justice, either in a particular case or, more generally, as a continuing process, the first category being a special form of the latter, such interference being a characteristic common to all contempts: per Lord Diplock in Attorney-General v. Leveller Magazine Ltd. [1979] A.C. 440, 449. 
 
-31     This seems to have been implicitly accepted by V K Rajah JA, sitting as a High Court Judge, in _You Xin v Public Prosecutor and another appeal_ [2007] 4 SLR(R) 17 (“ _You Xin_ ”), where he noted (at [16]) what the learned authors N Lowe and B Sufrin state at page 2 of their text, _The Law of_ 
+31     This seems to have been implicitly accepted by V K Rajah JA, sitting as a High Court Judge, in _You Xin v Public Prosecutor and another appeal_ <span class="citation">[2007] 4 SLR(R) 17</span> (“ _You Xin_ ”), where he noted (at [16]) what the learned authors N Lowe and B Sufrin state at page 2 of their text, _The Law of_ 
 
 _Contempt_ (Butterworths, 3rd Ed, 1996), and opined that: 
 
@@ -248,7 +248,7 @@ _Contempt_ (Butterworths, 3rd Ed, 1996), and opined that:
 
  (b) Secondly, the act or acts in question carried a real risk that the proper administration of justice would be interfered with. 
 
-See _Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and others_ [2007] 2 SLR(R) 518 
+See _Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and others_ <span class="citation">[2007] 2 SLR(R) 518</span> 
 
 
 (“ _Pertamina_ ”) at [43], [63] and [64]. The second question involves two further sub issues: 

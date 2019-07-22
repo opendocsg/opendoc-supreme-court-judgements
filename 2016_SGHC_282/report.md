@@ -16,7 +16,7 @@
 
 _Civil procedure_ – _Injunctions_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 140 of 2016 was allowed in part by the Court of Appeal on 5 July 2017. See [2017] SGCA 55.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 140 of 2016 was allowed in part by the Court of Appeal on 5 July 2017. See <span class="citation">[2017] SGCA 55</span>.] 
 
 27 December 2016 
 
@@ -138,7 +138,7 @@ _Civil procedure_ – _Injunctions_
 
  ... Where there is a plain and uncontested breach of a clear covenant not to do a particular thing, and the covenantor promptly begins to do what he has promised not to do, then in the absence of special circumstances it seems to me that the sooner he is compelled to keep his promise the better. ... I see no reason for allowing a covenantor who stands in clear breach of an express prohibition to have a holiday from the enforcement of his obligations until the trial. ... 
 
-26     Megarry J’s decision was followed by Kan Ting Chiu J in _Rajaram v Ganesh (trading as Golden Harvest Trading Corp) and others_ [1994] 3 SLR(R) 79 (“ _Rajaram v Ganesh_ ”) (at [26]-[27]). Kan J (at [28]) also quoted the following passage from Lord Cairns LC’s judgment in _Richard Wheeler Doherty v James Clagston Allman and W C Dowden_ (1878) 3 App Cas 709 (“ _Doherty v Allman_ ”) (at 720) which Megarry J had cited at in _Hampstead’s_ case (at 257): 
+26     Megarry J’s decision was followed by Kan Ting Chiu J in _Rajaram v Ganesh (trading as Golden Harvest Trading Corp) and others_ <span class="citation">[1994] 3 SLR(R) 79</span> (“ _Rajaram v Ganesh_ ”) (at [26]-[27]). Kan J (at [28]) also quoted the following passage from Lord Cairns LC’s judgment in _Richard Wheeler Doherty v James Clagston Allman and W C Dowden_ (1878) 3 App Cas 709 (“ _Doherty v Allman_ ”) (at 720) which Megarry J had cited at in _Hampstead’s_ case (at 257): 
 
 
  If parties, for valuable consideration, with their eyes open, contract that a particular thing shall not be done, all that a Court of Equity has to do is to say, by way of injunction, that which the parties have already said by way of covenant, that the thing shall not be done; and in such case the injunction does nothing more than give the sanction of the process of the Court to that which already is the contract between the parties. It is not then a question of the balance of convenience or inconvenience, or of the amount of damage or of injury—it is the specific performance, by the Court, of that negative bargain which the parties have made, with their eyes open, between themselves. 
@@ -233,7 +233,7 @@ defendants and the Company against the plaintiffs. The court was informed that t
 
 49     The majority decision in _Murphy v Wright_ (Priestley and Handley JJA) held that cl 12 gave the lender an option to create an equitable charge and, in respect of the Torrens title land, the option was valid and was exercisable by lodging a caveat. As stated at [32], the defendants had relied on a passage from the dissenting judgment of Shellar JA to say the language of cl 3.7 of the Share Sale Agreement was not the language of a charge. 
 
-50     I should point out that _Murphy v Wright_ did not find favour with our Court of Appeal in _The Asiatic Enterprises (Pte) Ltd v United Overseas Bank Ltd_ [1999] 3 SLR(R) 976 (“ _The Asiatic Enterprises_ ”). There, the appellate court at [13] cited the passage from Sheller JA’s dissenting judgment that the defendants relied on. The Court of Appeal held that cl 10 in the respondent bank’s letter of offer of banking facilities to the appellant borrower did not provide a mechanism for creating or imposing a charge on immoveable property belonging to the appellant. The relevant extract from cl 10 reads: 
+50     I should point out that _Murphy v Wright_ did not find favour with our Court of Appeal in _The Asiatic Enterprises (Pte) Ltd v United Overseas Bank Ltd_ <span class="citation">[1999] 3 SLR(R) 976</span> (“ _The Asiatic Enterprises_ ”). There, the appellate court at [13] cited the passage from Sheller JA’s dissenting judgment that the defendants relied on. The Court of Appeal held that cl 10 in the respondent bank’s letter of offer of banking facilities to the appellant borrower did not provide a mechanism for creating or imposing a charge on immoveable property belonging to the appellant. The relevant extract from cl 10 reads: 
 
  EVENTS OF DEFAULT 
 

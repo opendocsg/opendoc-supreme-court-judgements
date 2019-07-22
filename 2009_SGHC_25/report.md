@@ -39,7 +39,7 @@ Andrew Ang J:
 
  Any absolute assignment by writing under the hand of the assignor, not purporting to be by way of charge only, of any debt or other legal chose in action of which express notice in writing has been given to the debtor, trustee or other person from whom the assignor would have been entitled to receive or claim such debt or chose in action, shall be and be deemed to have been effectual in law, ... to pass and transfer the legal right to such debt or chose in action, from the date of such notice, and all legal and other remedies for the same, and the power to give a good discharge for the same, without the concurrence of the assignor. 
 
-7       There are three requirements under s 4(8): the assignment must be absolute and not by way of charge only; it must be in writing under the hand of the assignor; and express notice in writing must be given to the person liable to the assignor under the assigned chose in action. In _Salim Anthony v Sumitomo Corp Capital Asia Pte Ltd_ (“ _Salim Anthony_ ”) [2004] 3 SLR 331, Lai Siu Chiu J considered what constitutes notice of assignment and affirmed the authorities cited to her at [91]–[92]: 
+7       There are three requirements under s 4(8): the assignment must be absolute and not by way of charge only; it must be in writing under the hand of the assignor; and express notice in writing must be given to the person liable to the assignor under the assigned chose in action. In _Salim Anthony v Sumitomo Corp Capital Asia Pte Ltd_ (“ _Salim Anthony_ ”) <span class="citation">[2004] 3 SLR 331</span>, Lai Siu Chiu J considered what constitutes notice of assignment and affirmed the authorities cited to her at [91]–[92]: 
 
  91 ... compliance with s 4(8) of the Act is not the only legal requirement. The notice of assignment must also be clear and unambiguous. For this proposition, I refer to the plaintiff’s citation of an extract from Cheshire, Fifoot & Furmston’s Law of Contract (Second Singapore and Malaysian Edition) (Butterworths Asia, 1998) where the author stated (at 861): 
 
@@ -75,7 +75,7 @@ Andrew Ang J:
 
  the assignment shall be conveyed to the debtor, and that it shall be conveyed in writing. ... Once it is appreciated that the section requires no more, it becomes obvious that the objection to the notice in this case, that it was not intended as a notice but merely to record the fact that notice had already been given, must fail. 
 
-12     As for equitable assignments, there is no requirement of notice to the debtor or even the assignee; what must be shown is a manifestation of the assignor’s intention to assign (see _Tsu Soo Sin v Oei Tjiong Bin_ [2008] SGCA 46). I will return to the legal tests in considering the validity of the first and second assignments in law or equity below. 
+12     As for equitable assignments, there is no requirement of notice to the debtor or even the assignee; what must be shown is a manifestation of the assignor’s intention to assign (see _Tsu Soo Sin v Oei Tjiong Bin_ <span class="citation">[2008] SGCA 46</span>). I will return to the legal tests in considering the validity of the first and second assignments in law or equity below. 
 
 **The evidence** 
 
@@ -198,7 +198,7 @@ that the benefit of the debt was validly assigned to first BSEA(2) by BSEA(1), a
 
 43     The plaintiff emphasised that both its witnesses were not only former senior employees of BSEA(2), with Ms Lim’s involvement stretching back to the time of the first assignment when she was an employee of BSEA(1), but they were also principally and directly involved in the transactions in question and were therefore well placed to give evidence based on their personal knowledge of the plaintiff’s, BSEA(2)’s and BSEA(1)’s positions in relation to the transactions in question. The plaintiff did not submit whether or how this fact should buttress the witnesses’ credibility, but the point was that even if there was no legal assignment, the defendant’s contention that there had been no intention to assign on either occasion could not stand. Considering that notice to the debtor is not a requirement for equitable assignments ( _Tsu Soo Sin v Oei Tjiong Bin_ ) ([12] _supra_ ), both assignments would have been good in equity. 
 
-44     As I have found for the plaintiff on the basis that both alleged assignments were valid and effective in law, there is no need for me to consider the plaintiff’s argument for estoppel by convention. Nevertheless, considering the elements of estoppel by convention (see _Travista Development Pte Ltd v Tan Kim Swee Augustine_ [2008] 2 SLR 474 at [31]): 
+44     As I have found for the plaintiff on the basis that both alleged assignments were valid and effective in law, there is no need for me to consider the plaintiff’s argument for estoppel by convention. Nevertheless, considering the elements of estoppel by convention (see _Travista Development Pte Ltd v Tan Kim Swee Augustine_ <span class="citation">[2008] 2 SLR 474</span> at [31]): 
 
  (a) The parties must have acted on “an assumed and incorrect state of fact or law” ... in their course of dealing; 
 

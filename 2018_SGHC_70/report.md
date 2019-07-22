@@ -225,7 +225,7 @@ payment of the fourth instalment. [note: 34] This cheque was rejected by the Pla
 
 **_Arguments on Summons 50/_** 
 
-32     The Plaintiff’s counsel submitted that Summons 50/2018 should be dismissed because the application for an extension of time to comply with the Consent Order is essentially an application by the Defendant to unilaterally vary the terms of a consent order, which finds no support at law. He submitted that the court could only interfere where the Consent Order had been tainted by some recognised vitiating factors, none of which were alleged or pleaded by the Defendant. For these propositions, the Plaintiff’s counsel relied primarily on the Court of Appeal’s decision in _Turf Club Auto Emporium Pte Ltd v Yeo Boong Hua_ [2017] 2 SLR 12 (“ _Turf Club_ ”). 
+32     The Plaintiff’s counsel submitted that Summons 50/2018 should be dismissed because the application for an extension of time to comply with the Consent Order is essentially an application by the Defendant to unilaterally vary the terms of a consent order, which finds no support at law. He submitted that the court could only interfere where the Consent Order had been tainted by some recognised vitiating factors, none of which were alleged or pleaded by the Defendant. For these propositions, the Plaintiff’s counsel relied primarily on the Court of Appeal’s decision in _Turf Club Auto Emporium Pte Ltd v Yeo Boong Hua_ <span class="citation">[2017] 2 SLR 12</span> (“ _Turf Club_ ”). 
 
 33     The Defendant’s counsel argued that _Turf Club_ should be distinguished from the present case because that case involved _substantive breaches_ of a consent order, while the present case involved mere _procedural breaches_. He also repeatedly stated that his client had demonstrated both its ability and willingness to make the fourth and fifth instalment payments. Therefore, the court should not be so harsh as to allow such a draconian consequence to follow, simply because of a mere delay of payment of 11 days. 
 
@@ -240,7 +240,7 @@ _Club_. The Plaintiff’s counsel drew this court’s attention to the distincti
 
 **_Arguments on Summons 281/_** 
 
-36     For Summons 281/2018, the Plaintiff relied on O 45 r 8 of the Rules of Court which states that, where an order for specific performance is not complied with, the court may direct that the act required to be done may, as far as practicable, be done by the party by whom the order was obtained, or by some other person appointed by the court, at the expense of the disobedient party. He cited _Woo Koon Chee v Scandinavian Boiler Service (Asia) Pte Ltd and others_ [2010] 4 SLR 1213 (“ _Woo Koon Chee_ ”) as authority that O 45 r 8 is equally applicable to a consent order if the consent order is an order requiring the specific performance of a contract within a specified time frame, as in the present case. 
+36     For Summons 281/2018, the Plaintiff relied on O 45 r 8 of the Rules of Court which states that, where an order for specific performance is not complied with, the court may direct that the act required to be done may, as far as practicable, be done by the party by whom the order was obtained, or by some other person appointed by the court, at the expense of the disobedient party. He cited _Woo Koon Chee v Scandinavian Boiler Service (Asia) Pte Ltd and others_ <span class="citation">[2010] 4 SLR 1213</span> (“ _Woo Koon Chee_ ”) as authority that O 45 r 8 is equally applicable to a consent order if the consent order is an order requiring the specific performance of a contract within a specified time frame, as in the present case. 
 
 37     In response, the Defendant sought to distinguish _Woo Koon Chee_ on the basis that it involved the specific performance of the sale of shares, whereas the present case involved the specific performance of the sale of immovable property. 
 
@@ -263,7 +263,7 @@ _Issue 1: Whether the court has the power to allow a unilateral variation of the
 
 41     The Consent Order fundamentally represents a _contract_ or _settlement agreement_ , entered into willingly by the Plaintiff and the Defendant when they appeared before me on 29 August 2017. This settlement agreement was recorded as an order of the court at the request and agreement of the parties. 
 
-42     The contractual nature of consent orders has also been acknowledged and accepted by M P H Rubin J in _CSR South East Asia Pte Ltd (formerly known as CSR Bradford Insulation (S) Pte Ltd) v Sunrise Insulation Pte Ltd_ [2002] 1 SLR(R) 1079 (“ _CSR South East Asia_ ”). He held at [12]: 
+42     The contractual nature of consent orders has also been acknowledged and accepted by M P H Rubin J in _CSR South East Asia Pte Ltd (formerly known as CSR Bradford Insulation (S) Pte Ltd) v Sunrise Insulation Pte Ltd_ <span class="citation">[2002] 1 SLR(R) 1079</span> (“ _CSR South East Asia_ ”). He held at [12]: 
 
  In my view, the consent order does indeed evidence a contract between the parties and given the factual background thus far, there was no justification to vary or modify the said order, without the consent of both the parties. 
 
@@ -284,7 +284,7 @@ _Issue 1: Whether the court has the power to allow a unilateral variation of the
 
  in original in italics; emphasis added in bold italics] 
 
-48     On the point of the court having a discretion to enforce or set aside _procedural consent orders_ , the Court of Appeal agreed with _Wellmix Organics (International) Pte Ltd v Lau Yu Man_ [2006] 2 SLR(R) 117 that such a discretion is “essentially an aspect of the court’s power to retain ultimate control over its _own procedure_ ” and that “an unless order is ... part of the court’s procedural armoury and is not concerned with the substantive merits of the case” ( _Turf Club_ at [162]). Therefore, the court did have the discretion when dealing with procedural consent orders. 
+48     On the point of the court having a discretion to enforce or set aside _procedural consent orders_ , the Court of Appeal agreed with _Wellmix Organics (International) Pte Ltd v Lau Yu Man_ <span class="citation">[2006] 2 SLR(R) 117</span> that such a discretion is “essentially an aspect of the court’s power to retain ultimate control over its _own procedure_ ” and that “an unless order is ... part of the court’s procedural armoury and is not concerned with the substantive merits of the case” ( _Turf Club_ at [162]). Therefore, the court did have the discretion when dealing with procedural consent orders. 
 
 49     The Court then went on to explain why there is no conceptual basis for extending such a discretion to a _contractual consent order_ that encapsulates a _settlement agreement_ covering the _substantive causes of action_ between the parties (at [163]): 
 
@@ -345,7 +345,7 @@ case. [note: 35] Second, the variation sought in _Turf Club_ was to a substantiv
 matters, as examples of such statutorily provided powers. [note: 37] Therefore, the Defendant argued 
 
 
-that O 3 r 4 of the Rules of Court should also be interpreted as a statutory provision which gives the court the power to vary agreements between parties, specifically by granting extensions of time. To further support its proposition, the Defendant cited _Rosemawati bte Rafdi v Buang bin Ani and others_ [2017] 3 SLR 89 (“ _Rosemawati_ ”) at [22], where Audrey Lim JC opined that “it would have been more appropriate for the extension of time application to be brought under the general provision, O 3 r 4, 
+that O 3 r 4 of the Rules of Court should also be interpreted as a statutory provision which gives the court the power to vary agreements between parties, specifically by granting extensions of time. To further support its proposition, the Defendant cited _Rosemawati bte Rafdi v Buang bin Ani and others_ <span class="citation">[2017] 3 SLR 89</span> (“ _Rosemawati_ ”) at [22], where Audrey Lim JC opined that “it would have been more appropriate for the extension of time application to be brought under the general provision, O 3 r 4, 
 
 rather than under O 45 r 6(1).” [note: 38] 
 
@@ -384,7 +384,7 @@ Therefore, _Rosemawati_ does not by any means stand for the proposition that O 3
 
 This _obiter_ is in contrast to the strict position taken by the Court of Appeal in _Turf Club_ that, save where there are vitiating factors, the court cannot vary the terms of a contractual consent order. This was also the position taken in _CSR South East Asia._ Given that _Rosemawati_ is a decision of the High Court, the Court of Appeal’s judgment in _Turf Club_ must prevail. Be that as it may, for completeness, I shall consider whether it is necessary in the present case “to prevent injustice” assuming that the court does have a residual discretion to extend the time for compliance with a consent order. This issue will be dealt with below. 
 
-69     The Defendant also cited _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ [2008] 1 SLR(R) 757 at [18], in which the Court of Appeal had provided guidelines on how or when the Court may exercise its discretion and allow for extension of time when there is a 
+69     The Defendant also cited _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ <span class="citation">[2008] 1 SLR(R) 757</span> at [18], in which the Court of Appeal had provided guidelines on how or when the Court may exercise its discretion and allow for extension of time when there is a 
 
 failure to observe timelines. [note: 39] However, the issue of extension of time in that case referred to the extension of time for filing and/or serving a Notice of Appeal. There was no reference to the extension of time in a consent order. Therefore, it is clear that the case is not relevant to the present one. 
 
@@ -422,7 +422,7 @@ Maxwell, 1982) at p 242 as being:
 
  ... the reserve or fund of powers, a residual source of powers, which the court may draw upon as necessary whenever it is just or equitable to do so , and in particular to ensure the observance of the due process of law , to prevent improper vexation or oppression , to do justice between the parties ... [emphasis added in italics and bold italics] 
 
-This definition has received judicial endorsement from the Court of Appeal in _Wee Soon Kim Anthony v Law Society of Singapore_ [2001] 2 SLR(R) 821 at [27], where the Court added that “[i]n each instance the court must exercise [its inherent jurisdiction] judiciously” and that the “essential touchstone” is one of “need”. The Court also made it clear that where O 92 r 4 is concerned, there are no rigid criteria or tests to be fulfilled in determining whether the court can exercise this discretion. 
+This definition has received judicial endorsement from the Court of Appeal in _Wee Soon Kim Anthony v Law Society of Singapore_ <span class="citation">[2001] 2 SLR(R) 821</span> at [27], where the Court added that “[i]n each instance the court must exercise [its inherent jurisdiction] judiciously” and that the “essential touchstone” is one of “need”. The Court also made it clear that where O 92 r 4 is concerned, there are no rigid criteria or tests to be fulfilled in determining whether the court can exercise this discretion. 
 
 77     With these guiding principles in mind, should this court exercise its inherent powers under O 92 r 4 in favour of the Defendant? As I have stated, the Defendant had sought to tug at the heartstrings of the court by arguing that the fourth instalment that was due on 18 December 2017 was ultimately made on 29 December 2017, a mere delay of 11 days. Furthermore, the Defendant was prepared to pay the fifth and final instalment on 15 January 2018, but was rejected by the Plaintiff. Moreover, the Defendant submitted that this delay did not cause any prejudice to the Plaintiff. In my view, this was a _gross_ mischaracterisation of the facts. 
 

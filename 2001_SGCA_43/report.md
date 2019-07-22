@@ -231,7 +231,7 @@ _The appeal_
 
 33     Afzal was charged for an offence under s 5(1)(a) read with s 12 of the MDA. Section 5(1)(a) states that it is an offence to traffic in a controlled drug whereas s 12 provides that any person who abets the commission of or who attempts to commit or does any act preparatory to, or in furtherance of, the commission of any offence under the Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for that offence. 
 
-34     In this case, Afzal was charged for abetting the commission of the offence under s 5(1)(a) of the MDA by engaging in a conspiracy with Hashim to traffic in the drugs. The essence of conspiracy is agreement and it has been acknowledged by the Court of Criminal Appeal in _PP v Yeo Choon Poh_ [1994] 2 SLR 867 and _Lai Kam Loy & Ors v PP_ [1994] 1 SLR 787 that direct evidence of such agreement is not necessary as it will rarely be available. In _PP v Yeo Choon Poh (supra)_ at 873, the Court stated as follows with regard to the offence of abetment by conspiracy: 
+34     In this case, Afzal was charged for abetting the commission of the offence under s 5(1)(a) of the MDA by engaging in a conspiracy with Hashim to traffic in the drugs. The essence of conspiracy is agreement and it has been acknowledged by the Court of Criminal Appeal in _PP v Yeo Choon Poh_ <span class="citation">[1994] 2 SLR 867</span> and _Lai Kam Loy & Ors v PP_ <span class="citation">[1994] 1 SLR 787</span> that direct evidence of such agreement is not necessary as it will rarely be available. In _PP v Yeo Choon Poh (supra)_ at 873, the Court stated as follows with regard to the offence of abetment by conspiracy: 
 
 ## The charge against the respondent was that of abetment by conspiracy. The 
 

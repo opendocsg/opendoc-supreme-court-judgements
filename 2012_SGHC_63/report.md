@@ -272,7 +272,7 @@ _The Estoppel Issue_
 
 47     In the alternative, Singapore HealthPartners argues that even if Lim did not agree to the reduction in her monthly salary, an estoppel by convention/common assumption operates to prevent Lim from insisting that her monthly salary should have been $60,000. 
 
-48     The law on estoppel by convention/common assumption is set out in the case of _Travista Development Pte Ltd v Tan Kim Swee Augustine_ [2008] 2 SLR(R) 474 at [31] where the Court of Appeal held that: 
+48     The law on estoppel by convention/common assumption is set out in the case of _Travista Development Pte Ltd v Tan Kim Swee Augustine_ <span class="citation">[2008] 2 SLR(R) 474</span> at [31] where the Court of Appeal held that: 
 
  On the basis of existing authorities, for estoppel by convention to operate, the following elements must be present (see SingTel v SCV at [28]; see also Chitty on Contracts (H G Beale gen ed) (Sweet & Maxwell, 29th Ed, 2004) vol 1 at para 3–107): 
 

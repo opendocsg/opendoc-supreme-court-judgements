@@ -204,7 +204,7 @@ The above principles were culled from various cases cited by the learned authors
 
 **The decision** 
 
-53     It was the opinion of the defence expert, Marks, that the first plaintiff was entirely to blame for the collision. Conversely, the second to fifth plaintiffs blamed the defendant for what had happened to the first plaintiff, their counsel relying on _Zhang Wan Bo v Poh Kay Leong_ [2002] SGHC 274 for his submission that the defendant was solely liable for the accident. 
+53     It was the opinion of the defence expert, Marks, that the first plaintiff was entirely to blame for the collision. Conversely, the second to fifth plaintiffs blamed the defendant for what had happened to the first plaintiff, their counsel relying on _Zhang Wan Bo v Poh Kay Leong_ <span class="citation">[2002] SGHC 274</span> for his submission that the defendant was solely liable for the accident. 
 
 54     Based on the evidence adduced in court, it would appear that the following events took place on that fateful morning of 28 March 2002: 
 

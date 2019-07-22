@@ -193,7 +193,7 @@ and referred to Lord Denning’s statement in _Harbutt’s ‘Plasticine’ Ltd 
 
  An award of interest is discretionary. It seems to me that the basis of an award of interest is that the defendant has kept the plaintiff out of his money; and the defendant has had the use of it himself. So he ought to compensate the plaintiff accordingly. 
 
-47     In _Yip Kok Meng Calvin v Lek Yong Han_ [1993] 2 SLR 134 Judith Prakash JC (as she then was) held at page 142 
+47     In _Yip Kok Meng Calvin v Lek Yong Han_ <span class="citation">[1993] 2 SLR 134</span> Judith Prakash JC (as she then was) held at page 142 
 
  It is usual for a successful plaintiff in a running down case to be awarded interest on the amount of his damages from the date of the writ up to the date of judgment. The award is made to compensate the plaintiff for having been kept out of his money. Defendants and, even more, their solicitors are aware of this situation. They know that unless they can show special circumstances, for example, unreasonable and unjustified delay on the part of the plaintiff in prosecuting the action, such interest will be awarded almost as a matter of course. 
 

@@ -136,7 +136,7 @@ words appear. _Driedger on Construction of Statutes (3rd Edition)_ puts the poin
 
  In order to arrive at the correct interpretation of statutory provisions that are susceptible of different meanings, they must be examined in the setting in which they appear.” 
 
-21     Indeed s 9A of our Interpretation Act requires the court to give statutory provisions a purposive interpretation. This principle of interpretation has also been reaffirmed in numerous cases. In _Constitutional Reference No. 1 of 1995_ [1995] 2 SLR 201, this court enunciated the principle to be applied as follows:
+21     Indeed s 9A of our Interpretation Act requires the court to give statutory provisions a purposive interpretation. This principle of interpretation has also been reaffirmed in numerous cases. In _Constitutional Reference No. 1 of 1995_ <span class="citation">[1995] 2 SLR 201</span>, this court enunciated the principle to be applied as follows:
 
  “The principle to be applied is that the words of the Act are to be read in their entire context and in their grammatical and ordinary sense, harmoniously with the scheme of the Act, the object of the Act and the intention of Parliament: EA Driedger, Construction of Statutes (2nd Ed, 1983) p 87.” 
 

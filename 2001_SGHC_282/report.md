@@ -142,13 +142,13 @@ the third cumulative supplement to **_Dicey & Morris on Conflict of Laws_** (11t
 
  (f) if there is another forum which prima facie is clearly more appropriate the court will ordinarily grant a stay unless there are circumstances by reason of which justice requires that a stay should not be granted, and, in this inquiry the court will consider all the circumstances of the case. But the mere fact that the plaintiff has a legitimate, personal or juridical advantage in proceeding in England is not decisive; regard must be had to the interests of all the parties and the ends of justice. 
 
-26     The principles stated in **_The Spiliada_** have been approved and consistently applied in our jurisdiction (see **_Brinkerhoff Maritime Drilling Corp & Anor v PT Airfast Services Indonesia and another appeal_** [1992] 2 SLR 776 and **_Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_** [1998] 1 SLR 253). 
+26     The principles stated in **_The Spiliada_** have been approved and consistently applied in our jurisdiction (see **_Brinkerhoff Maritime Drilling Corp & Anor v PT Airfast Services Indonesia and another appeal_** <span class="citation">[1992] 2 SLR 776</span> and **_Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_** <span class="citation">[1998] 1 SLR 253</span>). 
 
 27     In **_Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_** ( _supra_ ) it was held: 
 
  The principles governing an application to stay proceedings were clear and established. If a court concluded that there was some other available forum which prima facie was clearly more appropriate for the trial of the action, it would ordinarily grant a stay unless there were circumstances by reason of which justice required that a stay should nevertheless not be granted. However, the mere fact that a plaintiff had such a legitimate advantage for proceeding in Singapore was not decisive and the interests of all the parties and the ends of justice had to be taken into consideration. 
 
-28     Earlier, in **_The Vishva Apurva_** [1992] 2 SLR 175, the Singapore Court of Appeal held that: 
+28     Earlier, in **_The Vishva Apurva_** <span class="citation">[1992] 2 SLR 175</span>, the Singapore Court of Appeal held that: 
 
  In exercising its discretion, the court should take into account all the circumstances of the case, in particular, the country where the evidence is most readily available, whether the foreign law applies and whether it is different from the local law in any material aspects, which country the parties are connected with, and how closely whether the defendants genuinely desire trial in the foreign country or are only seeking procedural advantages, and whether the 
 

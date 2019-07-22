@@ -532,9 +532,9 @@ ambush, the 5 th accused was arrested at Ang Mo Kio Avenue 5 on 13 March 2008. O
 
 8       I have considered whether rehabilitation should be the dominant consideration especially for each of those accused persons below the age of 21 years of age. 
 
-9       In _Public Prosecutor v Leong Soon Kheong_ [2009] 4 SLR(R) 63, the Court of Appeal said at [26] to [28] and [31]: 
+9       In _Public Prosecutor v Leong Soon Kheong_ <span class="citation">[2009] 4 SLR(R) 63</span>, the Court of Appeal said at [26] to [28] and [31]: 
 
- 26 In this genre of group violence, the two most pressing sentencing considerations are the principles of general deterrence and retribution. In PP v Law Aik Meng [2007] 2 SLR(R) 814 , the High Court emphatically underscored the particular relevance of general deterrence in cases involving group offences. The court noted at [25(b)]: 
+ 26 In this genre of group violence, the two most pressing sentencing considerations are the principles of general deterrence and retribution. In PP v Law Aik Meng <span class="citation">[2007] 2 SLR(R) 814</span> , the High Court emphatically underscored the particular relevance of general deterrence in cases involving group offences. The court noted at [25(b)]: 
 
  Examples of particular circumstances of an offence which may attract general deterrence include: 
 
@@ -545,7 +545,7 @@ ambush, the 5 th accused was arrested at Ang Mo Kio Avenue 5 on 13 March 2008. O
 
 [emphasis in original] 
 
-27     Furthermore, the court noted (at [25(c)]), that gratuitous violence would fall under the broad category of public disquiet, which would also invoke the principle of general deterrence. As was said in PP v V Murugesan [2005] SGHC 160 (at [55]),"[violent] [p]erpetrators are punished not just for the physical harm they inflict but also for the life-long trauma, debilitating emotional distress and anguish they callously and cruelly inflict and sentence their victims to suffer in silence". To this, we need only add that the traumatic effect of a violent crime on a victim's family and loved ones ought not to be forgotten. 
+27     Furthermore, the court noted (at [25(c)]), that gratuitous violence would fall under the broad category of public disquiet, which would also invoke the principle of general deterrence. As was said in PP v V Murugesan <span class="citation">[2005] SGHC 160</span> (at [55]),"[violent] [p]erpetrators are punished not just for the physical harm they inflict but also for the life-long trauma, debilitating emotional distress and anguish they callously and cruelly inflict and sentence their victims to suffer in silence". To this, we need only add that the traumatic effect of a violent crime on a victim's family and loved ones ought not to be forgotten. 
 
 28     This is not to say that other sentencing considerations such as specific deterrence and rehabilitation are invariably irrelevant in cases such as this. Their relevance and the weightage to be given will have to be assessed carefully in the light of the circumstances prevailing in each matter. 
 

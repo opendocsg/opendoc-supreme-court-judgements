@@ -122,7 +122,7 @@ and
 20     There was also evidence from non-medical sources relating to the deceased’s mental condition. The plaintiff, Low Geok Khim, and the first defendant, Low Geok Bian, both deposed that the deceased was in good health up to his death. 
 
 
-21     There is further evidence from an independent source on the deceased’s mental capacity as at 1994. On 15 April 1994, he was called as a witness in Suit No 854 of 1991, _Re Low Gim Har Janet_ , reported at [1996] 3 SLR 343. He gave evidence for about two and a half hours before Lai Kew Chai J who noted in his judgment at 357, [84] that: 
+21     There is further evidence from an independent source on the deceased’s mental capacity as at 1994. On 15 April 1994, he was called as a witness in Suit No 854 of 1991, _Re Low Gim Har Janet_ , reported at <span class="citation">[1996] 3 SLR 343</span>. He gave evidence for about two and a half hours before Lai Kew Chai J who noted in his judgment at 357, [84] that: 
 
  He was 89 years old and suffered both from a fairly serious hearing defect and the attendant problems of an ageing man’s memory and comprehension. 
 
@@ -205,7 +205,7 @@ I find that there was no evidence that the deceased did not intend or was not aw
 
  The presumption of advancement applies to certain transfers between parties where it may be readily inferred that A would have intended to make a gift to B. It is found therefore where A is under an equitable obligation to support or make provision for B. Examples are where A is the husband or father of B. It is, in effect, a counter-presumption which provides prima facie evidence about A’s intentions as to where the beneficial interest in the property should lie. Its effect is to negative any initial presumption that the transfer creates a resulting trust. 
 
-42     Counsel also cited _Ang Toon Teck v Ang Poon Sin_ [1998] SGHC 67 where Judith Prakash J stated at [48] that: 
+42     Counsel also cited _Ang Toon Teck v Ang Poon Sin_ <span class="citation">[1998] SGHC 67</span> where Judith Prakash J stated at [48] that: 
 
  The presumption of advancement should not apply as between a father and son in these circumstances as there is no need for the one to make financial provision for the other. 
 
@@ -232,7 +232,7 @@ and found that the presumption of advancement could not apply between a father a
 
 48     The presumption of advancement has lost its robustness over the years. The process started with the House of Lord’s decision in _Pettitt v Pettitt_ [1970] AC 777 where the law lords were unanimous that the strength of the presumption in a transaction affecting husband and wife had diminished and the Privy Council on appeal from Singapore took the same position in _Neo Tai Kim v Foo Stie Wah_ [1985] 1 MLJ 397. In _McGrath v Wallis_ [1995] 2 FLR 114, the English Court of Appeal expressed the same view in a case between father and child. 
 
-49     The Court of Appeal in _Teo Siew Har v Lee Kuan Yew_ [1999] 4 SLR 560 referred to the three cases and concluded at [29] that: 
+49     The Court of Appeal in _Teo Siew Har v Lee Kuan Yew_ <span class="citation">[1999] 4 SLR 560</span> referred to the three cases and concluded at [29] that: 
 
  [T]he current judicial approach towards the presumption of advancement is to treat it as an evidential instrument of last resort where there is no direct evidence as to the intention of the parties rather than as an oft-applied rule of thumb. 
 

@@ -109,7 +109,7 @@ and you had thereby committed an offence punishable under section 228 of the Pen
 
  has been guilty in Singapore or elsewhere of such misconduct unbefitting a Legal Service Officer or an advocate and solicitor as an officer of the Supreme Court or as a member of an honourable profession ... 
 
-11     The Law Society rightly submitted that for the purpose of considering whether there has been _“_ misconduct unbefitting an advocate and solicitor as an officer of the Supreme Court or as a member of an honourable profession” under s 82(3)(a) LPA, the meaning accorded to the identical phrase in s 83(2)(h) LPA should be adopted. As such, both misconduct in the solicitor’s professional capacity as well as misconduct in the solicitor’s personal capacity are relevant to this inquiry (see _Law Society of Singapore v Heng Guan Hong Geoffrey_ [1999] 3 SLR(R) 966 at [24]). The same standard applies to non-practising lawyers. 
+11     The Law Society rightly submitted that for the purpose of considering whether there has been _“_ misconduct unbefitting an advocate and solicitor as an officer of the Supreme Court or as a member of an honourable profession” under s 82(3)(a) LPA, the meaning accorded to the identical phrase in s 83(2)(h) LPA should be adopted. As such, both misconduct in the solicitor’s professional capacity as well as misconduct in the solicitor’s personal capacity are relevant to this inquiry (see _Law Society of Singapore v Heng Guan Hong Geoffrey_ <span class="citation">[1999] 3 SLR(R) 966</span> at [24]). The same standard applies to non-practising lawyers. 
 
 12     The Law Society relied on the findings of the Tribunal to support its assertion that “due cause”, as defined in s 82A(3)(a) of the LPA, had been shown. 
 
@@ -155,9 +155,9 @@ matter of the 3 rd charge, that blog post was in the context of a defamation sui
 
 **_The appropriate penalty_** 
 
-21     Disciplinary action is intended to punish the errant solicitor for his or her misconduct, deter others from misbehaving in the same manner, and protect public confidence in the administration of justice: see _Law Society of Singapore v Tham Yu Xian Rick_ [1999] 3 SLR(R) 68 (at [18]) and _Law Society of Singapore v Rasif David_ [2008] 2 SLR(R) 955 (at [28]). 
+21     Disciplinary action is intended to punish the errant solicitor for his or her misconduct, deter others from misbehaving in the same manner, and protect public confidence in the administration of justice: see _Law Society of Singapore v Tham Yu Xian Rick_ <span class="citation">[1999] 3 SLR(R) 68</span> (at [18]) and _Law Society of Singapore v Rasif David_ <span class="citation">[2008] 2 SLR(R) 955</span> (at [28]). 
 
-22     Although GN had been convicted of a number of offences, which were referred to in the charges preferred against him by the Law Society, it should be borne in mind that in _Law Society of Singapore v Wee Wei Fen_ [1999] 3 SLR(R) 559, the Court observed (at [25]) that it cannot be that every violation of the criminal law implies a defect of character which renders the offender unfit to be a member of the legal profession and that the nature of the offence is clearly material. Similarly in _Law Society of Singapore v Wong Sin Yee_ [2003] 3 SLR(R) 209, the Court stated (at [12]): 
+22     Although GN had been convicted of a number of offences, which were referred to in the charges preferred against him by the Law Society, it should be borne in mind that in _Law Society of Singapore v Wee Wei Fen_ <span class="citation">[1999] 3 SLR(R) 559</span>, the Court observed (at [25]) that it cannot be that every violation of the criminal law implies a defect of character which renders the offender unfit to be a member of the legal profession and that the nature of the offence is clearly material. Similarly in _Law Society of Singapore v Wong Sin Yee_ <span class="citation">[2003] 3 SLR(R) 209</span>, the Court stated (at [12]): 
 
  We would, at the outset, make it quite clear that conviction of criminal offence does not per se imply a defect of character rendering an advocate and solicitor unfit for his profession. It is the nature of the offence, and the circumstances under which it was committed, and in turn the punishment imposed, which are likely to be determinative.... The offence must be of such a nature that it is expedient for the protection of the public and the preservation of the good name of the profession to remove the solicitor from the roll or from practice. 
 
@@ -165,12 +165,12 @@ matter of the 3 rd charge, that blog post was in the context of a defamation sui
 
 23     The offences in respect of which GN had been convicted and the circumstances under which they were committed lead to the conclusion that a serious penalty must be imposed. Apart from abusing the police with foul language in public and behaving in a disorderly manner in the presence of the police, GN was imprisoned for contempt of court in relation to his blog post regarding Belinda Ang J on 29 May 2008.Furthermore, he openly defied the undertaking he had given to the District Court shortly after he was convicted by Kan J for contempt of court. He then posted offensive statements in his blog about Prakash J on 30 November 2008. 
 
-24     When considering whether or not to strike an advocate and solicitor off the rolls, it is worth noting that in _Law Society of Singapore v Amdad Hussein Lawrence_ [2000] 3 SLR(R) 23, the Court held at [11]: 
+24     When considering whether or not to strike an advocate and solicitor off the rolls, it is worth noting that in _Law Society of Singapore v Amdad Hussein Lawrence_ <span class="citation">[2000] 3 SLR(R) 23</span>, the Court held at [11]: 
 
- The earlier decisions in Law Society of Singapore v Ravindra Samuel [1999] 1 SLR(R) 266 at [15]; Law Society of Singapore v Tham Yu Xian Rick (at [18]; Law Society of Singapore v Suresh Kumar Suppiah [1999] 2 SLR(R) 1203 at [18]; and Law Society of Singapore v Heng Guan Hong 
+ The earlier decisions in Law Society of Singapore v Ravindra Samuel <span class="citation">[1999] 1 SLR(R) 266</span> at [15]; Law Society of Singapore v Tham Yu Xian Rick (at [18]; Law Society of Singapore v Suresh Kumar Suppiah <span class="citation">[1999] 2 SLR(R) 1203</span> at [18]; and Law Society of Singapore v Heng Guan Hong 
 
 
- Geoffrey [1999] 3 SLR(R) 966 at [28]-[29] have consistently affirmed and applied the following principles on disciplinary sentencing: 
+ Geoffrey <span class="citation">[1999] 3 SLR(R) 966</span> at [28]-[29] have consistently affirmed and applied the following principles on disciplinary sentencing: 
 
  (a) where a solicitor has acted dishonestly, the court will almost invariably order that he be struck off the roll of solicitors; 
 

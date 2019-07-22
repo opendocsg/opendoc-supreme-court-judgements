@@ -125,7 +125,7 @@ destroyed the Plaintiffs’ books. The Liquidators therefore did not have knowle
 
 25     I was not convinced that the law recognised that a fiduciary relationship between the applicant and respondent (even if proved) justified the suspension of provision of better particulars that would otherwise have been ordered. 
 
-26     One of the main authorities cited by Mr Yeo was _Haw Par Brothers International Limited and Another v Jack Chiarapurk also known as Jack Chia and others_ [1991] SGHC 45 (“ _Haw Par_ ”), a High 
+26     One of the main authorities cited by Mr Yeo was _Haw Par Brothers International Limited and Another v Jack Chiarapurk also known as Jack Chia and others_ <span class="citation">[1991] SGHC 45</span> (“ _Haw Par_ ”), a High 
 
 
 Court decision of Goh Joon Seng J and the only local case to have expressed any views on the issues at stake in the present applications. 

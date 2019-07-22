@@ -22,7 +22,7 @@ _Civil Procedure_ – _Costs_
 
 **Introduction** 
 
-1       This is a supplemental judgement on costs for Suit No 732 of 2012 (“S 732/2012”). After the hearing which lasted about 17 days over three tranches and having considered the matter, I dismissed the Plaintiffs’ claim in S 732/2012 entirely on 16 October 2013 with brief reasons (“the brief GD”). The Plaintiffs appealed and I have issued my grounds of decision dated 10 January 2014 (see _Goh Eileen née Chia and another v Goh Mei Ling Yvonne and another_ [2014] SGHC 3 (“the GD”)). At [75] of the GD, I indicated that I would hear the parties on the issue of costs. I directed that if the Defendants are inclined to seek an order for costs against Goh Wai Mun Eric (“Eric”), Wee Phui Leong Penelope (“Penny”) and/or Goh Evan Wyming (“Evan”), they should serve a copy of the brief oral GD on them, and give them notice of the date fixed for the parties to be heard on costs. 
+1       This is a supplemental judgement on costs for Suit No 732 of 2012 (“S 732/2012”). After the hearing which lasted about 17 days over three tranches and having considered the matter, I dismissed the Plaintiffs’ claim in S 732/2012 entirely on 16 October 2013 with brief reasons (“the brief GD”). The Plaintiffs appealed and I have issued my grounds of decision dated 10 January 2014 (see _Goh Eileen née Chia and another v Goh Mei Ling Yvonne and another_ <span class="citation">[2014] SGHC 3</span> (“the GD”)). At [75] of the GD, I indicated that I would hear the parties on the issue of costs. I directed that if the Defendants are inclined to seek an order for costs against Goh Wai Mun Eric (“Eric”), Wee Phui Leong Penelope (“Penny”) and/or Goh Evan Wyming (“Evan”), they should serve a copy of the brief oral GD on them, and give them notice of the date fixed for the parties to be heard on costs. 
 
 2       On 22 April 2014, the counsel for the parties (including Eric and Penny (collectively known as the “Non-Parties”)) appeared before me to submit on the issue of costs. It would appear that the Defendants had not sought to recover costs from Evan because I had earlier found that Evan was the 
 
@@ -53,7 +53,7 @@ costs, or are unable to bear the costs, or have defaulted on costs. [note: 3]
 
 7       In my view, the Non-Parties should be made liable for the costs as it would be just in the circumstances to do so. 
 
-8       The power of the court to make an order for costs against a non-party stems from O 59 r 2(2) of the Rules of Court (Cap 322, R 5, 2006 Rev Ed). The overarching rule that governs the exercise of the court’s discretion in ordering costs against a non-party is that it must, in all circumstances of the case, be just to do so: _DB Trustees (Hong Kong) Ltd v Consult Asia Pte Ltd and another appeal_ [2010] 3 SLR 542 (“ _DB Trustees_ ”) at [27], [29] and [36]. 
+8       The power of the court to make an order for costs against a non-party stems from O 59 r 2(2) of the Rules of Court (Cap 322, R 5, 2006 Rev Ed). The overarching rule that governs the exercise of the court’s discretion in ordering costs against a non-party is that it must, in all circumstances of the case, be just to do so: _DB Trustees (Hong Kong) Ltd v Consult Asia Pte Ltd and another appeal_ <span class="citation">[2010] 3 SLR 542</span> (“ _DB Trustees_ ”) at [27], [29] and [36]. 
 
 9       In deciding if the Non-Parties should be liable for costs, I took into account the following factors: 
 
@@ -61,7 +61,7 @@ costs, or are unable to bear the costs, or have defaulted on costs. [note: 3]
 
  (b) a causal link between the non-party and the incurring of the costs: DB Trustees at [29]– [30] and [35], citing Dymocks ; 
 
- (c) the ability of the party through whom the proceedings are brought or defended to meet any order for costs: DB Trustees at [42]; Raffles Town Club Pte Ltd v Lim Eng Hock Peter and others (Tung Yu-Lien Margaret and others, third parties) [2011] 1 SLR 582 (“ RTC ”) at [28]; and 
+ (c) the ability of the party through whom the proceedings are brought or defended to meet any order for costs: DB Trustees at [42]; Raffles Town Club Pte Ltd v Lim Eng Hock Peter and others (Tung Yu-Lien Margaret and others, third parties) <span class="citation">[2011] 1 SLR 582</span> (“ RTC ”) at [28]; and 
 
  (d) the fact that due process ought to be accorded to the non-party before an order of costs is made against it: DB Trustees at [36] and [47]. 
 
@@ -70,7 +70,7 @@ costs, or are unable to bear the costs, or have defaulted on costs. [note: 3]
 11     According to the Court of Appeal in _DB Trustees_ , there are various ways to demonstrate that there is a close connection between the non-party and the proceedings in question (at [34]). Much depends on the facts. Specifically, the Court of Appeal considered that it would be sufficient if “the non-party either funds or controls legal proceedings with the intention of ultimately deriving a benefit from them” (at [30]). In this regard, the Court of Appeal clarified that funding and control need not 
 
 
-be conjunctive (at [30]). It is also apparent that the intention behind the funding or control is relevant. The non-party must have intended to derive a benefit from funding or controlling the proceedings. It would not suffice if the funding was out of purely altruistic reasons, _eg_ , out of the natural affection of a disinterested relative (see _Murphy v Young & Co’s Brewery plc_ [1997] 1 WLR 1591 at 1603–1604, cited in _Dymocks_ at [34]). I should add that the “benefit” which the non-party might intend to derive from the proceedings can be in the form of getting the fruits of the litigation (at [31], citing _Dymocks_ ) or avoiding the adverse consequences of litigation, _eg_ , an adverse costs order (at [32], citing _Karting Club of Singapore v Mak David and others (Wee Soon Kim Anthony, intervener)_ [1992] 1 SLR(R) 786 at [9]). 
+be conjunctive (at [30]). It is also apparent that the intention behind the funding or control is relevant. The non-party must have intended to derive a benefit from funding or controlling the proceedings. It would not suffice if the funding was out of purely altruistic reasons, _eg_ , out of the natural affection of a disinterested relative (see _Murphy v Young & Co’s Brewery plc_ [1997] 1 WLR 1591 at 1603–1604, cited in _Dymocks_ at [34]). I should add that the “benefit” which the non-party might intend to derive from the proceedings can be in the form of getting the fruits of the litigation (at [31], citing _Dymocks_ ) or avoiding the adverse consequences of litigation, _eg_ , an adverse costs order (at [32], citing _Karting Club of Singapore v Mak David and others (Wee Soon Kim Anthony, intervener)_ <span class="citation">[1992] 1 SLR(R) 786</span> at [9]). 
 
 12     The Defendants contend that the Non-Parties have a close connection to the proceedings 
 
@@ -211,9 +211,9 @@ detriment of the 1st Plaintiff.
 
  (1) Has the legal representative of whom complaint is made acted improperly, unreasonably or negligently? (2) If so, did such conduct cause the applicant to incur unnecessary costs? (3) If so, is it in all the circumstances just to order the legal representative to compensate the applicant for the whole or any part of the relevant costs? 
 
-The three-stage test has been endorsed by the Court of Appeal (see _Ho Kon Kim v Lim Gek Kim Betsy and others and another appeal_ [2001] 3 SLR(R) 220 at [58]). 
+The three-stage test has been endorsed by the Court of Appeal (see _Ho Kon Kim v Lim Gek Kim Betsy and others and another appeal_ <span class="citation">[2001] 3 SLR(R) 220</span> at [58]). 
 
-37     The rationale for O 59 r 8(1), as the Court of Appeal explained, is based essentially on the consideration that the “litigant should not be financially prejudiced by the unjustifiable conduct of litigation by his opponent or his opponent's solicitor”: _Tan King Hiang v United Engineers (Singapore) Pte Ltd_ [2005] 3 SLR(R) 529 (“ _Tan King Hiang_ ”) at [15]. A similar point is made in _Singapore Court Practice 2009_ (Jeffrey Pinsler SC gen ed) (LexisNexis, 2009) at para 59/8/7. However, the court should bear in mind the potential chilling effect of making solicitors personally liable for costs. In _Tan King Hiang_ , the Court of Appeal noted that: 
+37     The rationale for O 59 r 8(1), as the Court of Appeal explained, is based essentially on the consideration that the “litigant should not be financially prejudiced by the unjustifiable conduct of litigation by his opponent or his opponent's solicitor”: _Tan King Hiang v United Engineers (Singapore) Pte Ltd_ <span class="citation">[2005] 3 SLR(R) 529</span> (“ _Tan King Hiang_ ”) at [15]. A similar point is made in _Singapore Court Practice 2009_ (Jeffrey Pinsler SC gen ed) (LexisNexis, 2009) at para 59/8/7. However, the court should bear in mind the potential chilling effect of making solicitors personally liable for costs. In _Tan King Hiang_ , the Court of Appeal noted that: 
 
  ... it must be borne in mind that, in making a show cause order of this nature, the court also has to balance two important public interests. In Ridehalgh 's case ([71] supra ), Sir Thomas Bingham MR phrased it in this manner at 226: 
 
@@ -279,11 +279,11 @@ costs should be ordered on an indemnity basis. [note: 34] The Plaintiffs and Non
 
 47     Chan J also considered two cases where costs on an indemnity basis were sought but not awarded, namely (at [31]): 
 
- (a) Heng Holdings SEA (Pte) Ltd v Tomongo Shipping Co Ltd [1997] 2 SLR(R) 813, where there was material non-disclosure of facts; and 
+ (a) Heng Holdings SEA (Pte) Ltd v Tomongo Shipping Co Ltd <span class="citation">[1997] 2 SLR(R) 813</span>, where there was material non-disclosure of facts; and 
 
- (b) Ng Eng Ghee v Mamata Kapildev Dave [2009] 4 SLR(R) 155, where there were allegations that the party had suppressed information and conducted strata titles board proceedings in an unjustifiably adversarial manner. 
+ (b) Ng Eng Ghee v Mamata Kapildev Dave <span class="citation">[2009] 4 SLR(R) 155</span>, where there were allegations that the party had suppressed information and conducted strata titles board proceedings in an unjustifiably adversarial manner. 
 
-48     Having done so, Chan J went on to assess the facts in the case before him and held that the matters alleged “did not evince such a degree of dishonesty, impropriety or abuse of judicial process to warrant a departure from the usual basis of costs” (at [32]). For completeness, I should add that in _RTC_ , the plaintiff was alleged to have engaged in speculative litigation and not acted _bona fide_ because, among other things, they relied on inadmissible documents and attempted to embarrass the defendant by including criminal allegations in the statement of claim (at [32]). Even so, Chan J did not think that it was sufficient to warrant costs on an indemnity basis. At this juncture, it is apposite to recall the observation by Vinodh Coomaraswamy J in _Tan Chin Yew Joseph v Saxo Capital Markets Pte Ltd_ [2013] SGHC 274 that “[t]he burden on a party who seeks an order for indemnity costs as a matter of discretion is therefore a high one” (at [97]). 
+48     Having done so, Chan J went on to assess the facts in the case before him and held that the matters alleged “did not evince such a degree of dishonesty, impropriety or abuse of judicial process to warrant a departure from the usual basis of costs” (at [32]). For completeness, I should add that in _RTC_ , the plaintiff was alleged to have engaged in speculative litigation and not acted _bona fide_ because, among other things, they relied on inadmissible documents and attempted to embarrass the defendant by including criminal allegations in the statement of claim (at [32]). Even so, Chan J did not think that it was sufficient to warrant costs on an indemnity basis. At this juncture, it is apposite to recall the observation by Vinodh Coomaraswamy J in _Tan Chin Yew Joseph v Saxo Capital Markets Pte Ltd_ <span class="citation">[2013] SGHC 274</span> that “[t]he burden on a party who seeks an order for indemnity costs as a matter of discretion is therefore a high one” (at [97]). 
 
 49     I should point out that, like in the present case, the court in _RTC_ (as well as _Breen_ and _DB Trustees_ ) was faced with the issue of whether costs on an indemnity basis should be ordered against a non-party. 
 
@@ -353,11 +353,11 @@ examination of Prof Kevin Tan and Lucy Theodas. [note: 48] I should also note th
 
 58     Further, I agree with the Plaintiffs that, having found that the proceedings had been unnecessary prolonged by the Defendants’ counsel and his manner of cross-examination, the appropriate response would be to award the Defendants only a proportion of their costs. I find support for this approach in not only O 59 r 2(2) of the Rules of Court but also various case authorities, including: 
 
- (a) Bank of China v First National Bank of Boston [1992] 1 SLR(R) 72 at [34], where the Court of Appeal allowed only costs for one day attendance even though the hearing took two days because it was, among other things, “unnecessarily prolonged by the lengthy and elaborate submissions”; 
+ (a) Bank of China v First National Bank of Boston <span class="citation">[1992] 1 SLR(R) 72</span> at [34], where the Court of Appeal allowed only costs for one day attendance even though the hearing took two days because it was, among other things, “unnecessarily prolonged by the lengthy and elaborate submissions”; 
 
- ( b ) Maratz Ltd v New India Assurance Co Ltd [1998] 2 SLR(R) 134 at [33], where Warren Khoo J allowed only half the costs because the defendants had “unnecessarily prolonged the proceedings”; and 
+ ( b ) Maratz Ltd v New India Assurance Co Ltd <span class="citation">[1998] 2 SLR(R) 134</span> at [33], where Warren Khoo J allowed only half the costs because the defendants had “unnecessarily prolonged the proceedings”; and 
 
- ( c ) Anne Joseph Aaron (m w) and others v Cheong Yip Seng and others [1995] SGHC 131, where Lai Siu Chiu J deducted 2 days of attendance in court out of the 5 days of crossexamination because the counsel had unnecessarily prolonged the proceedings by taking the witnesses “through the special report sentence by sentence”. 
+ ( c ) Anne Joseph Aaron (m w) and others v Cheong Yip Seng and others <span class="citation">[1995] SGHC 131</span>, where Lai Siu Chiu J deducted 2 days of attendance in court out of the 5 days of crossexamination because the counsel had unnecessarily prolonged the proceedings by taking the witnesses “through the special report sentence by sentence”. 
 
 
 As such, I award costs on the basis of a 9-day trial and taking into consideration all the facts and circumstances of this case, I allow costs at $126,000. 

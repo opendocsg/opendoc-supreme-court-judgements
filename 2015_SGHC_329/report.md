@@ -32,7 +32,7 @@ _Injunctions_ – _Mareva injunction_
 
 5       In the meantime, on 2 June 2015, the plaintiffs had filed their application in these proceedings asking for an injunction prohibiting the defendant from dealing with his assets pending satisfaction of the Final Award. 
 
-6       The three applications were heard before me. I dismissed the defendant’s application to set aside the Final Award and, consequently, also dismissed his application to set aside the Singapore Enforcement Orders. The reasons for those decisions can be found in my judgment [2015] SGHC 300. Subsequently, I allowed the plaintiffs’ application for the injunction in slightly modified terms and the 
+6       The three applications were heard before me. I dismissed the defendant’s application to set aside the Final Award and, consequently, also dismissed his application to set aside the Singapore Enforcement Orders. The reasons for those decisions can be found in my judgment <span class="citation">[2015] SGHC 300</span>. Subsequently, I allowed the plaintiffs’ application for the injunction in slightly modified terms and the 
 
 
 defendant is dissatisfied with that decision. 
@@ -70,7 +70,7 @@ defendant is dissatisfied with that decision.
 12     Under s 4(10) of the Civil Law Act (Cap 43, 1999 Rev Ed), this court has the power to grant an injunction in all cases in which it appears to the court to be just and convenient that such order 
 
 
-should be made. Section 12A(2) read with s 12(1)( _h_ ) of the IAA also empowers this court to grant an injunction. The plaintiffs cited _Strandore Invest A/S v Soh Kim Wat_ [2010] SGHC 151 as an example of a case in which the court had exercised its power to grant a worldwide Mareva injunction in aid of enforcement of a foreign arbitration award. The defendant did not dispute the court’s jurisdiction to make such an order. 
+should be made. Section 12A(2) read with s 12(1)( _h_ ) of the IAA also empowers this court to grant an injunction. The plaintiffs cited _Strandore Invest A/S v Soh Kim Wat_ <span class="citation">[2010] SGHC 151</span> as an example of a case in which the court had exercised its power to grant a worldwide Mareva injunction in aid of enforcement of a foreign arbitration award. The defendant did not dispute the court’s jurisdiction to make such an order. 
 
 13     All parties were in general agreement on the requirements that had to be met in order for the grant of a worldwide injunction. The defendant agreed with the three requirements put forward by the plaintiffs and said that, additionally, the plaintiffs would need a valid cause of action over which the court had jurisdiction. The defendant did not, however, contend that this requirement had not been met. 
 

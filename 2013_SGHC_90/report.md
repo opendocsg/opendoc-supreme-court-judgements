@@ -222,7 +222,7 @@ the case. [note: 40]
 38     Before I set out my decision, I wish to deal with one point raised by Mr Lee. Apart from his 
 
 
-submissions on rectification, Mr Lee attempted to rely on _Ong Kok Ming (alias Ong Henardi) v Happy Valley Holdings Pte Ltd and another_ [2011] SGHC 199 (“ _Happy Valley_ ”) to argue that since the parties were in agreement on the key terms of the Option and the Option Money was already provided, the 
+submissions on rectification, Mr Lee attempted to rely on _Ong Kok Ming (alias Ong Henardi) v Happy Valley Holdings Pte Ltd and another_ <span class="citation">[2011] SGHC 199</span> (“ _Happy Valley_ ”) to argue that since the parties were in agreement on the key terms of the Option and the Option Money was already provided, the 
 
 courts should impute a reasonable exercise period into the Option. [note: 41] 
 
@@ -236,7 +236,7 @@ courts should impute a reasonable exercise period into the Option. [note: 41]
 
 **_Rectification for common mistake_** 
 
-42     Where a document does not truly reflect the intention of the parties, the court has an equitable discretion to rectify the document in line with the parties’ intention. In other words, rectification relates to documents and _not to the parties’ intention_. The principles of rectification are reasonably settled and were recently laid down by Lee Seiu Kin J in _Maxz Universal Development Group Pte Ltd v Shen Yixuan and Another Suit_ [2009] SGHC 164 at [22]: 
+42     Where a document does not truly reflect the intention of the parties, the court has an equitable discretion to rectify the document in line with the parties’ intention. In other words, rectification relates to documents and _not to the parties’ intention_. The principles of rectification are reasonably settled and were recently laid down by Lee Seiu Kin J in _Maxz Universal Development Group Pte Ltd v Shen Yixuan and Another Suit_ <span class="citation">[2009] SGHC 164</span> at [22]: 
 
  ... The following are the general principles regarding rectification: 
 
@@ -251,7 +251,7 @@ courts should impute a reasonable exercise period into the Option. [note: 41]
 
 **_Rectification for unilateral mistake_** 
 
-43     The principles of rectification for unilateral mistake were recently considered by Andrew Ang J in _Sheng Siong Supermarket Pte Ltd v Carilla Pte Ltd_ [2011] 4 SLR 1094 at [66] and [67]: 
+43     The principles of rectification for unilateral mistake were recently considered by Andrew Ang J in _Sheng Siong Supermarket Pte Ltd v Carilla Pte Ltd_ <span class="citation">[2011] 4 SLR 1094</span> at [66] and [67]: 
 
  ... The requirements for allowing rectifications on the ground of unilateral mistake, which requires a higher threshold than that for common mistake, are succinctly set out in Anson at pp 262-265). Three conditions must be satisfied. 
 
@@ -314,7 +314,7 @@ at [54] to [56] above, I noted that, contrary to Mr Lee’s suggestions, [note: 
 58     I did not draw any inferences against the defendants from their failure to engage STL on 16 August 2012 or to ask Darrell if the Option was exercised when they met up at Bugis later that day. The defendants were inexperienced first-time sellers and they trusted Darrell when he told them that he would take care of all the necessary arrangements on the evening of 15 August 2012 when he collected the signed Option and Agency Agreement from the defendants. 
 
 
-59     I placed little weight on the first plaintiff’s conduct after 21 August 2012 in determining whether the defendants had the requisite intention or knowledge for a claim of rectification to succeed. The observations of the Court of Appeal in _Koh Lee Kuen and another v Choon Fook Realty Pte Ltd and others_ [1996] 3 SLR(R) 182 at [58] are instructive in this respect: 
+59     I placed little weight on the first plaintiff’s conduct after 21 August 2012 in determining whether the defendants had the requisite intention or knowledge for a claim of rectification to succeed. The observations of the Court of Appeal in _Koh Lee Kuen and another v Choon Fook Realty Pte Ltd and others_ <span class="citation">[1996] 3 SLR(R) 182</span> at [58] are instructive in this respect: 
 
  ... subsequent events must be viewed with caution as they may not provide evidence of intention prior to or at the time of contract but may be evidence of a later intention... 
 
@@ -334,7 +334,7 @@ at [54] to [56] above, I noted that, contrary to Mr Lee’s suggestions, [note: 
 
 prepared the Option. [note: 48] I proceeded on this basis for the purposes of my decision. However, on the evidence, the commission in the Agency Agreement was not mutually agreed until Darrell met the first defendant at Bugis on 16 August 2012. It also seemed arguable that it was the defendants’ reliance on Darrell’s assurances that he would take care of everything, _after they had already granted the Option_ , which constituted their implicit appointment of Darrell as their agent. 
 
-66     To what extent can the knowledge of an agent acquired prior to his appointment be attributed to his principal? In _The “Dolphina”_ [2012] 1 SLR 992, after considering various authorities, Belinda Ang J observed at [224]: 
+66     To what extent can the knowledge of an agent acquired prior to his appointment be attributed to his principal? In _The “Dolphina”_ <span class="citation">[2012] 1 SLR 992</span>, after considering various authorities, Belinda Ang J observed at [224]: 
 
  The effect of these authorities, therefore, is that the knowledge of an agent, such as a director of a company, acquired outside the course of his agency or directorship (such as qua director of 
 

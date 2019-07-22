@@ -26,7 +26,7 @@ _Evidence_ – _Witnesses_ – _Credibility_ – _Defence witness a friend of ac
 
 3       When Joselyn showed up on 3 May 2002, SSgt Tuen observed that she had bloodshot eyes and slightly slurred speech. He placed her under arrest. Two bottles of her urine were sent to the Health Science Authority (HSA) for analysis. Her urine was found to contain Norketamine, a metabolyte of the drug Ketamine. Dr Lui, an analyst with HSA, testified that when a person consumes Ketamine, Norketamine would be detected in the urine for about one to three days after consumption. The time taken for it to dissipate would vary with the metabolic and excretion rate of the individual. 
 
-4       The positive result from the urine tests triggered the presumption from s 22 of the Misuse of Drugs Act. As this Court held in _Vadugaiah Mahendran v PP_ [1996] 1 SLR 24, there was a presumption of both the actus reus and the mens rea of the offence. As such, the prosecution’s case had been made out and the defence was called. 
+4       The positive result from the urine tests triggered the presumption from s 22 of the Misuse of Drugs Act. As this Court held in _Vadugaiah Mahendran v PP_ <span class="citation">[1996] 1 SLR 24</span>, there was a presumption of both the actus reus and the mens rea of the offence. As such, the prosecution’s case had been made out and the defence was called. 
 
 **The defence** 
 
@@ -54,11 +54,11 @@ an ex-police officer who recognised SSgt Tuen as being from the anti-drug squad.
 11     The Public Prosecutor argued that the district judge erred in accepting Chris’s evidence over that 
 
 
-of Dennis, because she failed to consider the fact that Chris was not a disinterested witness. I was of the view that this did not constitute a valid ground for disturbing the findings of the trial judge. Other than the fact that Chris was an ex-boyfriend of Joselyn, there was no evidence to suggest that he was fabricating evidence to protect her. As this Court held in _Soh Yang Tick v Public Prosecutor_ [1998] 2 SLR 42 at para 48: 
+of Dennis, because she failed to consider the fact that Chris was not a disinterested witness. I was of the view that this did not constitute a valid ground for disturbing the findings of the trial judge. Other than the fact that Chris was an ex-boyfriend of Joselyn, there was no evidence to suggest that he was fabricating evidence to protect her. As this Court held in _Soh Yang Tick v Public Prosecutor_ <span class="citation">[1998] 2 SLR 42</span> at para 48: 
 
  Prima facie just because the appellant’s w itnesses w ere in some w ay related or connected to him did not render their testimonies suspect. There must be additional grounds for rejecting the evidence of such w itnesses, or alternatively the testimonies of these w itnesses w ere so littered w ith inconsistencies that they could not be believed. 
 
-12     Here, the district judge noted that Chris was no longer Joselyn’s boyfriend and found that there was no reason for him to fabricate anything in her favour. Unfortunately, she did not elaborate on her grounds for disbelieving Dennis’s testimony. However, I was of the view that, while the Court must necessarily choose between the two conflicting testimonies, it has to keep in mind the fact that the appellate court has not had the opportunity to observe the demeanour of the witnesses. As such, it should give due regard to the trial judge’s assessment of their credibility: _Sundara Moorthy Lankatharan v Public Prosecutor_ [1997] 3 SLR 464. 
+12     Here, the district judge noted that Chris was no longer Joselyn’s boyfriend and found that there was no reason for him to fabricate anything in her favour. Unfortunately, she did not elaborate on her grounds for disbelieving Dennis’s testimony. However, I was of the view that, while the Court must necessarily choose between the two conflicting testimonies, it has to keep in mind the fact that the appellate court has not had the opportunity to observe the demeanour of the witnesses. As such, it should give due regard to the trial judge’s assessment of their credibility: _Sundara Moorthy Lankatharan v Public Prosecutor_ <span class="citation">[1997] 3 SLR 464</span>. 
 
  (b) The district judge erred in placing undue w eight on the fact that Joselyn did not postpone her appointment dates. 
 
@@ -70,7 +70,7 @@ of Dennis, because she failed to consider the fact that Chris was not a disinter
 
 15     Finally, the Public Prosecutor argued that, even if we accepted the finding that Joselyn had taken a drink from the man in the white shirt, this should not be sufficient in law to rebut the presumption on a balance of probabilities. The man in the white shirt was not produced, nor was there any evidence to show that the drink had been tampered with. The Public Prosecutor contended that "...to allow **mere suspicion of spiking** to succeed as a defence in consumption cases would seriously undermine the efficacy of the Misuse of Drugs Act in combating drug consumption." 
 
-16     In _Cheng Siah Johnson v PP_ [2002] 2 SLR 481, this Court noted that the defence of spiking is one that is commonly raised because they are allegations which are extremely easy to make but almost 
+16     In _Cheng Siah Johnson v PP_ <span class="citation">[2002] 2 SLR 481</span>, this Court noted that the defence of spiking is one that is commonly raised because they are allegations which are extremely easy to make but almost 
 
 
 impossible to debunk. It went on to state that the correct approach to a commonly used defence is to approach it with greater caution and circumspection than usual in the absence of other credible evidence. It was apparent from the grounds of decision that the district judge clearly had the above principles in mind when she reached her decision. 

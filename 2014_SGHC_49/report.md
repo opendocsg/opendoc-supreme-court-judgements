@@ -26,7 +26,7 @@ _Damages_ – _Assessment_ – _Account of profits_
 
 2       On 22 November 2007, the defendant formed a new company, MN Computer Systems (S) Pte Ltd (“MN Computer”). The defendant was a 50% shareholder, and director, of MN Computer. The principal business of MN Computer was the same as the plaintiff’s. While still under the plaintiff’s employment, the defendant secured certain contracts for MN Computer. The defendant resigned from the plaintiff on 20 February 2009. Subsequently, the plaintiff commenced Suit No 265 of 2009 against the defendant essentially for breach of his duties in relation to diverting business away from the plaintiff to MN Computer. The defendant counterclaimed in respect of commission from the plaintiff allegedly due to him up to his resignation. 
 
-3       Between 2009 and 2014, this case had been heard in several proceedings on different issues. The parties appeared before two high court judges, two assistant registrars, and the Court of Appeal in _Mona Computer Systems (S) Pte Ltd v Singaravelu Murugan_ [2014] 1 SLR 847 (“CA decision”). For convenience, I set out their legal history in chronological order: 
+3       Between 2009 and 2014, this case had been heard in several proceedings on different issues. The parties appeared before two high court judges, two assistant registrars, and the Court of Appeal in _Mona Computer Systems (S) Pte Ltd v Singaravelu Murugan_ <span class="citation">[2014] 1 SLR 847</span> (“CA decision”). For convenience, I set out their legal history in chronological order: 
 
  (a) trial before Belinda Ang J in 2010; 
 

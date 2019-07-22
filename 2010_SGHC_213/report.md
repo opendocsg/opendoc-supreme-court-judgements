@@ -16,7 +16,7 @@
 
 _Contract_ – _Illegality_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 149 of of 2010 was allowed in part and the cross-appeal in Civil Appeal No 150 of 2010 was allowed by the Court of Appeal on 10 February 2012.See [2012] SGCA 13.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 149 of of 2010 was allowed in part and the cross-appeal in Civil Appeal No 150 of 2010 was allowed by the Court of Appeal on 10 February 2012.See <span class="citation">[2012] SGCA 13</span>.] 
 
 30 July 2010 Judgment reserved. 
 
@@ -24,7 +24,7 @@ _Contract_ – _Illegality_
 
 1       This is the second action arising from the sale of shares in the defendant company, WBL Corporation Limited (“WBL”). The plaintiff here is Kevin Lew Chee Fai (“Lew”). The sale of shares took place on 4 July 2007. 
 
-2       In the first action before this court ( _i.e_. Suit No. 71 of 2009), the Central Bank of Singapore _viz_ the Monetary Authority of Singapore (“MAS”) claimed a civil penalty from Lew under s 232(2), read with s 218, of the Securities and Futures Act (Cap 289, 2006 Rev Ed) (“the SFA”). There, MAS alleged that Lew had contravened the rules prohibiting insider trading under s 218 of the SFA by selling 90,000 WBL shares on 4 July 2007. For convenience, I will refer to the sale of shares by Lew on 4 July 2007 as the “Insider Trade”. In my earlier judgment (see _Monetary Authority of Singapore v Lew Chee Fai Kevin_ [2010] SGHC 166 (“ _MAS v Lew_ ”)), I held that Lew had contravened the relevant provisions of the SFA by entering into the Insider Trade and ordered him to pay a civil penalty amounting to $67,500. In the present action, Lew claimed for shares to be issued to him pursuant to an employee share option scheme that was operated by WBL, as he claimed to have validly exercised various options on 9 July 2007. WBL denied Lew’s claims primarily on the grounds of illegality. 
+2       In the first action before this court ( _i.e_. Suit No. 71 of 2009), the Central Bank of Singapore _viz_ the Monetary Authority of Singapore (“MAS”) claimed a civil penalty from Lew under s 232(2), read with s 218, of the Securities and Futures Act (Cap 289, 2006 Rev Ed) (“the SFA”). There, MAS alleged that Lew had contravened the rules prohibiting insider trading under s 218 of the SFA by selling 90,000 WBL shares on 4 July 2007. For convenience, I will refer to the sale of shares by Lew on 4 July 2007 as the “Insider Trade”. In my earlier judgment (see _Monetary Authority of Singapore v Lew Chee Fai Kevin_ <span class="citation">[2010] SGHC 166</span> (“ _MAS v Lew_ ”)), I held that Lew had contravened the relevant provisions of the SFA by entering into the Insider Trade and ordered him to pay a civil penalty amounting to $67,500. In the present action, Lew claimed for shares to be issued to him pursuant to an employee share option scheme that was operated by WBL, as he claimed to have validly exercised various options on 9 July 2007. WBL denied Lew’s claims primarily on the grounds of illegality. 
 
 **The facts** 
 

@@ -120,7 +120,7 @@ Does the evidence support the allegation that Poh Fang had induced and procured 
 
  Where one person by either direct or indirect means intentionally induces a second person to commit a breach of contract against a third person or prevents or hinders the performance of that contract, so that that third person suffers damage, the first commits a wrong actionable at the suit of the third, unless the inducement is justifiable. 
 
-The Court of Appeal expanded on this in **Tribune Investment Trust Inc v Soosan Trading Co** [2000] 3 SLR 405. It held that: 
+The Court of Appeal expanded on this in **Tribune Investment Trust Inc v Soosan Trading Co** <span class="citation">[2000] 3 SLR 405</span>. It held that: 
 
  16 ... To knowingly procure or induce a third party to break his contract to the damage of the other contracting party without reasonable justification or excuse forms the basis of the tort of inducing a breach of contract. 
 

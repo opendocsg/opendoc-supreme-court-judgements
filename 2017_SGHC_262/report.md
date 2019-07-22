@@ -90,7 +90,7 @@ tobacco was overcome when he smoked some “ice” just before the delivery. [no
 
 11     By virtue of s 18(1) of the MDA, the Accused was presumed to be in possession of the drugs concealed in the Bundles because he was in control of the Car when it was driven into Singapore. [note: 17] 
 
-12     The presumption under s 18(2) of the MDA was not rebutted, applying _Obeng Comfort v Public Prosecutor_ [2017] 1 SLR 633 (“ _Obeng Comfort_ ”). The Accused’s version that he thought he was bringing in tobacco was not sufficient to rebut the presumption of knowledge under s 18(2) of the MDA. 
+12     The presumption under s 18(2) of the MDA was not rebutted, applying _Obeng Comfort v Public Prosecutor_ <span class="citation">[2017] 1 SLR 633</span> (“ _Obeng Comfort_ ”). The Accused’s version that he thought he was bringing in tobacco was not sufficient to rebut the presumption of knowledge under s 18(2) of the MDA. 
 
 13     The Accused’s bare defence that he thought he was bringing contraband tobacco into Singapore was not believable. This belief was unfounded because of the suspicious circumstances surrounding the delivery of the Bundles. For instance, the Accused was paid a disproportionately high 
 
@@ -103,11 +103,11 @@ avoid accusations of theft and complaint from the customer was unbelievable give
 
 checked; he had the opportunity to ask and the opportunity to check. [note: 20] 
 
-14     The present case was different from the case of _Public Prosecutor v Phuthita Somchit and another_ [2011] 3 SLR 719 (“ _Somchit_ ”), cited by the Defence. In that case, the duration of relationship was some 1.5 years; with the parties discussing marriage; and there was interaction with 
+14     The present case was different from the case of _Public Prosecutor v Phuthita Somchit and another_ <span class="citation">[2011] 3 SLR 719</span> (“ _Somchit_ ”), cited by the Defence. In that case, the duration of relationship was some 1.5 years; with the parties discussing marriage; and there was interaction with 
 
-the family. [note: 21] It was also different from the case of _Khor Soon Lee v Public Prosecutor_ [2011] 3 SLR 201 (“ _Khor Soon Lee_ )”, in which there was friendship for about a year and the accused 
+the family. [note: 21] It was also different from the case of _Khor Soon Lee v Public Prosecutor_ <span class="citation">[2011] 3 SLR 201</span> (“ _Khor Soon Lee_ )”, in which there was friendship for about a year and the accused 
 
-there met the person he trusted on a weekly basis. [note: 22] Instead, the present case bore factual similarities with _Norasharee bin Gous v Public Prosecutor and another appeal and another matter_ [2017] 1 SLR 820 (“ _Norasharee_ ”), in which it was found that there was insufficient basis for the 
+there met the person he trusted on a weekly basis. [note: 22] Instead, the present case bore factual similarities with _Norasharee bin Gous v Public Prosecutor and another appeal and another matter_ <span class="citation">[2017] 1 SLR 820</span> (“ _Norasharee_ ”), in which it was found that there was insufficient basis for the 
 
 supposed trust. [note: 23] In particular, the trust that the Accused placed in Aya was unbelievable. Aya was involved in illegal activities as a drug syndicate leader. The Accused alleged that his suspicion was not aroused as the Bundles were wrapped with multiple layers and he had complied with directions from Aya whom he trusted. But the failure to check was significant as his suspicion should have been aroused when he saw the contents of one of the Bundles through a gap in its wrappings. [note: 24] 
 
@@ -140,7 +140,7 @@ Accused, as testified by SSSgt Samir and ASP Seow. [note: 31]
 
 _Browne v Dunn_ (1893) 6 R 67 (“ _Browne v Dunn_ ”). [note: 32] 
 
-20     The case of _Public Prosecutor v Gobi a/l Avedian_ [2017] SGHC 145 (“ _Gobi_ ”), cited by the Defence to argue that the presumption under s 18(2) of the MDA was rebutted, was distinguishable as the accused in that case had been consistent throughout and his account was corroborated. In the present case, in contrast, there were inconsistencies between the various statements given and the Accused’s position at trial, in terms of what was being transported and the amount of reward promised for the delivery. The Defence was unable to explain these inconsistences. Its case was 
+20     The case of _Public Prosecutor v Gobi a/l Avedian_ <span class="citation">[2017] SGHC 145</span> (“ _Gobi_ ”), cited by the Defence to argue that the presumption under s 18(2) of the MDA was rebutted, was distinguishable as the accused in that case had been consistent throughout and his account was corroborated. In the present case, in contrast, there were inconsistencies between the various statements given and the Accused’s position at trial, in terms of what was being transported and the amount of reward promised for the delivery. The Defence was unable to explain these inconsistences. Its case was 
 
 founded on bare assertions only. [note: 33] 
 
@@ -208,7 +208,7 @@ by the Defence in the ASOF, [note: 43] which was significantly higher than the s
 
 **Analysis** 
 
-34     Following the Court of Appeal’s decision in _Ng Kwok Chun and another v Public Prosecutor_ [1992] 3 SLR(R) 256, the elements of a charge for importation into Singapore of a controlled drug under s 7 of the MDA are (at [39]): 
+34     Following the Court of Appeal’s decision in _Ng Kwok Chun and another v Public Prosecutor_ <span class="citation">[1992] 3 SLR(R) 256</span>, the elements of a charge for importation into Singapore of a controlled drug under s 7 of the MDA are (at [39]): 
 
  (a) the bringing of the drugs into Singapore; and 
 
@@ -237,7 +237,7 @@ _The presumption under s 18(2) of the MDA_
 
  Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug. 
 
-39     Where the presumption under s 18(2) applies, this has to be rebutted by the accused on the balance of probabilities: see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ [2014] 3 SLR 721 at [75] and _Public Prosecutor v Ilechukwu Chukwudi_ [2015] SGCA 33 (“ _Ilechukwu_ ”) at [30], referring to _Nagaenthran a/l K Dharmalingam v Public Prosecutor_ [2011] 4 SLR 1156 at [31]. 
+39     Where the presumption under s 18(2) applies, this has to be rebutted by the accused on the balance of probabilities: see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ <span class="citation">[2014] 3 SLR 721</span> at [75] and _Public Prosecutor v Ilechukwu Chukwudi_ <span class="citation">[2015] SGCA 33</span> (“ _Ilechukwu_ ”) at [30], referring to _Nagaenthran a/l K Dharmalingam v Public Prosecutor_ <span class="citation">[2011] 4 SLR 1156</span> at [31]. 
 
 40     The Defence argued that the Accused’s version, _ie_ , he had only agreed to bring in tobacco into Singapore, was credible and established on the balance of probabilities. In particular, the presumption 
 
@@ -247,7 +247,7 @@ of knowledge was rebutted in light of: [note: 44]
 
  (b) the fact that a credible and consistent account had been given of how the Accused came to be arrested with the Bundles. 
 
-41     A rebuttal may be established if the accused is able to show that “he did not know or could not reasonably be expected to have known the nature of the controlled drug”: _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ [2012] 2 SLR 903 at [18]. As explained by the Court of Appeal in _Obeng Comfort_ , referring to _Masoud Rahimi bin Mehrzad v Public Prosecutor and another appeal_ [2017] 1 SLR 257: 
+41     A rebuttal may be established if the accused is able to show that “he did not know or could not reasonably be expected to have known the nature of the controlled drug”: _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ <span class="citation">[2012] 2 SLR 903</span> at [18]. As explained by the Court of Appeal in _Obeng Comfort_ , referring to _Masoud Rahimi bin Mehrzad v Public Prosecutor and another appeal_ <span class="citation">[2017] 1 SLR 257</span>: 
 
  37 .... The court assesses the accused’s evidence as to his subjective knowledge by comparing it with what an ordinary, reasonable person would have known or done if placed in the same situation that the accused was in. If such an ordinary, reasonable person would surely have known or taken steps to establish the nature of the drug in question, the accused would have to adduce evidence to persuade the court that nevertheless he, for reasons special to himself or to his situation, did not have such knowledge or did not take such steps. 
 
@@ -388,7 +388,7 @@ his knowledge of the nature of that contraband. The evidential burden lay upon h
 
 _Wilful blindness_ 
 
-62     Wilful blindness is a form of actual knowledge: see _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR(R) 1 at [133]–[134] and _Obeng Comfort_ at [41]. 
+62     Wilful blindness is a form of actual knowledge: see _Tan Kiam Peng v Public Prosecutor_ <span class="citation">[2008] 1 SLR(R) 1</span> at [133]–[134] and _Obeng Comfort_ at [41]. 
 
 63     The circumstances discussed above also pointed towards wilful blindness being made out. The Accused worked for Aya, as a bodyguard and driver, knew that Aya dealt in drugs, collected drug money for him and even smoked “ice” with him. Taken together with the elaborate preparations noted above (at [58]), carrying hidden contraband goods for smuggling in this context should have triggered a very high degree of suspicion on the Accused’s part. His decision not to inquire further, or to check, the contents of the Bundle could only be indicative of a desire not to uncover what he must have already known – the Accused was therefore wilfully blind. 
 
@@ -439,7 +439,7 @@ did not observe any drug withdrawal symptoms. [note: 66] Additionally, two docto
 
 suffering from any drug withdrawal symptoms. [note: 67] Another doctor also testified that the Accused was alert, coherent, conscious and responsive as of the assessment on 10 November 2014. [note: 68] In any event, this point was not strongly pursued by the Defence in its submissions. 
 
-70     The argument was also made that the statements were not recorded in compliance with the requirements of the CPC, in that the statements had not been read back to the Accused. There was nothing to show any reasonable doubt as to this: the recorders of these statements were not crossexamined on this matter. Neither was there anything compelling in the evidence of the Accused on this score. In any event, any non-compliance with the requirements does not necessarily lead to nonadmissibility of the evidence: see Explanation 2, paragraph ( _e_ ) to s 258 of the CPC. While the Court of Appeal in _Muhammad bin Kadar v Public Prosecutor_ [2011] 3 SLR 1205 held that a residual discretion exists to exclude improperly recorded statements if its prejudicial effect exceeded its probative value, there was nothing in the present case to show that. 
+70     The argument was also made that the statements were not recorded in compliance with the requirements of the CPC, in that the statements had not been read back to the Accused. There was nothing to show any reasonable doubt as to this: the recorders of these statements were not crossexamined on this matter. Neither was there anything compelling in the evidence of the Accused on this score. In any event, any non-compliance with the requirements does not necessarily lead to nonadmissibility of the evidence: see Explanation 2, paragraph ( _e_ ) to s 258 of the CPC. While the Court of Appeal in _Muhammad bin Kadar v Public Prosecutor_ <span class="citation">[2011] 3 SLR 1205</span> held that a residual discretion exists to exclude improperly recorded statements if its prejudicial effect exceeded its probative value, there was nothing in the present case to show that. 
 
 71     However, as regards the more pertinent question of whether the statements showed that the Accused knew that the Bundles contained drugs, I was not satisfied that the statements pointed to this. There was ambiguity as the Accused could have used the term “drugs” in response to what he had perceived or heard from the CNB officers. It would have been otherwise had there been explicit or specific questions asking whether he knew or how he knew that the Bundles contained drugs. As it was, however, I was left with the statements on the one hand, and the distinct possibility that the Accused said what he said because he had been told by the CNB officers that the Bundles contained drugs. 
 

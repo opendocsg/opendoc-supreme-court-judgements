@@ -262,7 +262,7 @@ proceedings against the plaintiff. By the date of the adjourned hearing, the pla
 
  (2) comprehensive discovery of the defendants documents including but not limited to, minutes of meetings of the General Committee for the period June to October 2000 in connection with the complaint, inquiry and/or disciplinary proceedings against the plaintiff and correspondence/notes between the Captain and the general manager. 
 
-The second application was opposed by the defendants for the reasons set out in Quah`s second affidavit he claimed privilege on the application for discovery and objected to being cross-examined on the ground that the plaintiff was on `a fishing expedition`. I dismissed the second application at the same time that I dismissed the (main) application. I had also dismissed the preliminary objection raised by counsel for the defendants who contended that, these proceedings were in reality an attempt by the plaintiff to apply for a judicial review, for which leave should be but was not applied for, under O 53 r 1(1) of the Rules of Court. In so doing, I gave the benefit of the doubt to the plaintiff as there were similar proceedings commenced by other aggrieved private club members previously ( **Lee Seng Choon Ronnie v Singapore Island Country Club** [1993] 2 SLR 456 ; **Singapore Island Country Club v Brown** [1994] 3 SLR 206 ) as precedents for the plaintiff`s action. I now set out my reasons for dismissing both applications. 
+The second application was opposed by the defendants for the reasons set out in Quah`s second affidavit he claimed privilege on the application for discovery and objected to being cross-examined on the ground that the plaintiff was on `a fishing expedition`. I dismissed the second application at the same time that I dismissed the (main) application. I had also dismissed the preliminary objection raised by counsel for the defendants who contended that, these proceedings were in reality an attempt by the plaintiff to apply for a judicial review, for which leave should be but was not applied for, under O 53 r 1(1) of the Rules of Court. In so doing, I gave the benefit of the doubt to the plaintiff as there were similar proceedings commenced by other aggrieved private club members previously ( **Lee Seng Choon Ronnie v Singapore Island Country Club** <span class="citation">[1993] 2 SLR 456</span> ; **Singapore Island Country Club v Brown** <span class="citation">[1994] 3 SLR 206</span> ) as precedents for the plaintiff`s action. I now set out my reasons for dismissing both applications. 
 
 **_Decision_** 
 
@@ -478,7 +478,7 @@ of natural justice had been observed and whether the decision was honestly reach
 
 **_not_** to review the evidence and the correctness of the decision itself (see the Court of Appeal`s 
 
-decision in **Singapore Amateur Athletics Association v Haron bin Mundir** [1994] 1 SLR 47 ). 
+decision in **Singapore Amateur Athletics Association v Haron bin Mundir** <span class="citation">[1994] 1 SLR 47</span> ). 
 
 Leaving aside the fact that the plaintiff had unequivocally accepted the defendants` decision made 
 

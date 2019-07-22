@@ -22,7 +22,7 @@ _Contract_
 
 **Introduction** 
 
-1       The plaintiff is a painting contractor and the defendant is a manufacturer and supplier of paint. The full account of the background to the dispute arising between the parties is set out in _AntiCorrosion Pte Ltd v Berger Paints Singapore Pte Ltd and another appeal_ [2011] 1 SLR 427 (“the CA decision”). 
+1       The plaintiff is a painting contractor and the defendant is a manufacturer and supplier of paint. The full account of the background to the dispute arising between the parties is set out in _AntiCorrosion Pte Ltd v Berger Paints Singapore Pte Ltd and another appeal_ <span class="citation">[2011] 1 SLR 427</span> (“the CA decision”). 
 
 **Background** 
 
@@ -34,7 +34,7 @@ _Contract_
 
 It bought the defendant’s paint for that purpose. The plaintiff applied the paint to the surfaces of the building project based on the defendant’s proposed paint system. However, there was extensive discolouration. The plaintiff bought replacement paint from a third party, Haruna (S) Pte Ltd, and repainted both the discoloured and adjacent areas in the buildings. Although the original painting works took 7.5 month to complete, the repainting works took 16 months. Subsequently, the plaintiff brought the present action claiming damages for the expense of repainting. It claimed that the defendant had given a warranty for the paint so long as the use of the paint was based on the defendant’s proposed paint system. The defendant denied that the paint was defective and brought a counterclaim against the plaintiff for the contract price of the goods supplied. It also denied that it had given any enforceable warranty covering the paint supplied. 
 
-3       In _Anti-Corrosion Pte Ltd v Berger Paints Singapore Pte Ltd_ [2010] SGHC 351, I found that the plaintiff had not proven its case (namely that the defects in the paint had caused the discolouration) 
+3       In _Anti-Corrosion Pte Ltd v Berger Paints Singapore Pte Ltd_ <span class="citation">[2010] SGHC 351</span>, I found that the plaintiff had not proven its case (namely that the defects in the paint had caused the discolouration) 
 
 
  No. Description Amount 
@@ -94,7 +94,7 @@ on a balance of probabilities. I also observed _obiter_ that if I had decided on
 
  TOTAL $1,185,545. 
 
-8       The general rule is that special damages have to be strictly proven and are otherwise not recoverable ( _Wee Sia Tian v Long Thik Boon_ [1996] 2 SLR(R) 420 at [15]). Where oral evidence is inconsistent with documentary evidence, and no adequate explanation has been provided, the court may well be justified in relying solely on what can be proven through documentation and not the oral testimony, as was the case in _Bocatra Construction Pte Ltd v Thorkildsen_ [1994] 2 SLR(R) 387 at [31]. I bear these principles in mind as I turn to consider each item claimed by the plaintiff. 
+8       The general rule is that special damages have to be strictly proven and are otherwise not recoverable ( _Wee Sia Tian v Long Thik Boon_ <span class="citation">[1996] 2 SLR(R) 420</span> at [15]). Where oral evidence is inconsistent with documentary evidence, and no adequate explanation has been provided, the court may well be justified in relying solely on what can be proven through documentation and not the oral testimony, as was the case in _Bocatra Construction Pte Ltd v Thorkildsen_ <span class="citation">[1994] 2 SLR(R) 387</span> at [31]. I bear these principles in mind as I turn to consider each item claimed by the plaintiff. 
 
 9       The plaintiff claims that the entire area that required repainting were as follows: 
 

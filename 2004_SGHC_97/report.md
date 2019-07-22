@@ -43,7 +43,7 @@ _Arbitration_ – _Award_ – _Recourse against award_ – _Whether leave to app
 
  (c) Where the question of law arises from a standard form contract a less restrictive approach is adopted and leave is granted when the court is satisfied that the resolution of the question of law would add significantly to the clarity, certainty and comprehensiveness of the law and also considers that a strong prima facie case had been made out that the arbitrator has been wrong in his construction. 
 
-(see _Pioneer Shipping Ltd v BTP Tioxide Ltd (The Nema)_ [1982] AC 724, _American Home Assurance Co v Hong Lam Marine Pte Ltd_ [1999] 3 SLR 682 and _Hong Huat Development Co (Pte) Ltd v Hiap Hong & Co Pte Ltd_ [2000] 2 SLR 609). 
+(see _Pioneer Shipping Ltd v BTP Tioxide Ltd (The Nema)_ [1982] AC 724, _American Home Assurance Co v Hong Lam Marine Pte Ltd_ <span class="citation">[1999] 3 SLR 682</span> and _Hong Huat Development Co (Pte) Ltd v Hiap Hong & Co Pte Ltd_ <span class="citation">[2000] 2 SLR 609</span>). 
 
 6       Mr Liew asked for leave to appeal on three questions of law. In the originating motion, these questions were formulated as follows: 
 

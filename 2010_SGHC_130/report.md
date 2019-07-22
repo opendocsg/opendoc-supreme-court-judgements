@@ -55,7 +55,7 @@ _Credit and security_ – _Performance bond_
 
 6       The plaintiff did not dispute that there were outstanding defects but alleged that it would be unconscionable for the defendant to call on the performance bond. It is settled law in Singapore that in addition to fraud, an injunction to restrain a call on a performance bond may be granted on the ground of unconscionability. Whether unconscionability can be established largely depends on the factual matrix of each case. 
 
-7       The Court of Appeal in _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ [2000] 1 SLR(R) 117 at [38] cited _Raymond Construction Pte Ltd v Low Yang Tong & Anor_ [1996] SGHC 136 (per Lai Kew Chai J, at [5]) for the proposition that: 
+7       The Court of Appeal in _Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan bin Khalifa bin Zayed Al Nahyan_ <span class="citation">[2000] 1 SLR(R) 117</span> at [38] cited _Raymond Construction Pte Ltd v Low Yang Tong & Anor_ <span class="citation">[1996] SGHC 136</span> (per Lai Kew Chai J, at [5]) for the proposition that: 
 
  ...The concept of ‘unconscionability’ to me involves unfairness, as distinct from dishonesty or fraud, or conduct of a kind so reprehensible or lacking in good faith that a court of conscience would either restrain the party or refuse to assist the party. Mere breaches of contract by the party in question ... would not by themselves be unconscionable. ... [emphasis added] 
 
@@ -127,7 +127,7 @@ the building was only S$371,664. However, the price quoted by WTC for merely rec
 
 14     This indicated to me that there was gross exaggeration of the costs of rectification of outstanding defects made in support of the defendant’s call on the bond. A call on the performance bond in this fashion was clearly unconscionable, abusive and bordered on being fraudulent. 
 
-15     In _GHL Pte Ltd v Unitrack Building Construction Pte Ltd and another_ [1999] 3 SLR(R) 44, the Court of Appeal addressed an instance where the call would be unconscionable at [24]: 
+15     In _GHL Pte Ltd v Unitrack Building Construction Pte Ltd and another_ <span class="citation">[1999] 3 SLR(R) 44</span>, the Court of Appeal addressed an instance where the call would be unconscionable at [24]: 
 
  ... We are concerned with abusive calls on the bonds. It should not be forgotten that a performance bond can be used as an oppressive instrument, and in the event that a beneficiary calls on the bond in circumstances, where there is prima facie evidence of fraud or unconscionability, the court should step in to intervene at the interlocutory stage until the whole of the circumstances of the case has been investigated. ... [emphasis added] 
 

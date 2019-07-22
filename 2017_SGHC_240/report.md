@@ -78,7 +78,7 @@ place in Yishun so that together they could “teach [the respondent] a lesson�
 
 13     The Judge delivered her written grounds on 8 May 2017 in _Public Prosecutor v Aw Tai Hock_ 
 
-[2017] SGDC 131 (“the GD”). [note: 3] 
+<span class="citation">[2017] SGDC 131</span> (“the GD”). [note: 3] 
 
 14     The Judge agreed with the Prosecution on “most of the aggravating factors” that were highlighted by the latter and that the custodial threshold in the present case was crossed, but could not agree that a deterrent sentence of at least five months’ imprisonment was warranted (GD at [11]–[12]). Out of the two precedents highlighted by the Prosecution, the Judge regarded the case 
 
@@ -96,7 +96,7 @@ imposed. [note: 5]
 
 18     The Prosecution argues, in the main, that: 
 
- (a) The Judge failed to appreciate that the respondent demonstrated a most culpable form of dangerous driving. She did not adopt the appropriate framework for assessing an offender’s culpability in dangerous driving as laid out in recent cases such as Public Proseuctor v Koh Thiam Huat [2017] SGHC 123 (“ Koh Thiam Huat ”). [note: 6] 
+ (a) The Judge failed to appreciate that the respondent demonstrated a most culpable form of dangerous driving. She did not adopt the appropriate framework for assessing an offender’s culpability in dangerous driving as laid out in recent cases such as Public Proseuctor v Koh Thiam Huat <span class="citation">[2017] SGHC 123</span> (“ Koh Thiam Huat ”). [note: 6] 
 
  (b) The initial aggression that the Judge placed great weight on does not reduce the respondent’s culpability in his subsequent actions when the respondent pursued Andy deliberately. [note: 7] 
 
@@ -135,7 +135,7 @@ imposed. [note: 5]
 
 21     In dangerous driving offences, the primary sentencing considerations are those of specific and 
 
-general deterrence: see _D’Rozario Pancratius Joseph v Public Prosecutor_ [2015] SGHC 46 [note: 11] at 
+general deterrence: see _D’Rozario Pancratius Joseph v Public Prosecutor_ <span class="citation">[2015] SGHC 46</span> [note: 11] at 
 
 [27], as recently affirmed in _Koh Thiam Huat [note: 12]_ at [60]. 
 
@@ -156,7 +156,7 @@ _Parliamentary Debates, Official Report_ (7 February 2017) vol 94 at col 66. [no
 
 26     The need for general deterrence has thus been repeatedly emphasised by Parliament. Dangerous driving offences remain prevalent to-date. The Prosecution cites the latest statistics released by the Traffic Police that demonstrate that the number of accidents resulting in injuries has 
 
-increased in recent years. [note: 15] General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender, and offences affecting public safety, especially if they are prevalent, warrant general deterrence: _Public Prosecutor v Law Aik Meng_ [2007] 2 SLR(R) 814 at [24(d)] and [25(a)]. Hence, the mischief targeted behind dangerous driving and the need for general deterrence are both clear. 
+increased in recent years. [note: 15] General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender, and offences affecting public safety, especially if they are prevalent, warrant general deterrence: _Public Prosecutor v Law Aik Meng_ <span class="citation">[2007] 2 SLR(R) 814</span> at [24(d)] and [25(a)]. Hence, the mischief targeted behind dangerous driving and the need for general deterrence are both clear. 
 
 27     Equally relevant is the role of specific deterrence which has been inherently built into the sentencing regime for the offence through the tiered punishment ranges. The legislative intention is clear that repeat offenders of dangerous driving should be subject to an enhanced level of punishment. In _Koh Thiam Huat_ , it was thus held (at [60]) that a court may also take into account a compounded offence under the RTA (or its subsidiary legislation) to better give effect to the need for specific deterrence. 
 
@@ -173,11 +173,11 @@ increased in recent years. [note: 15] General deterrence aims to educate and det
 
 30     This approach of calibrating the seriousness of a road traffic offence by considering where on the continuum of harm and culpability an offender falls was also recently endorsed by Sundaresh 
 
-Menon CJ in _Stansilas Fabian Kester v Public Prosecutor_ [2017] SGHC 185 (“ _Stansilas_ ”) [note: 16] at [47]–[48], albeit in the context of drunk driving under s 67(1)( _b_ ) of the RTA. 
+Menon CJ in _Stansilas Fabian Kester v Public Prosecutor_ <span class="citation">[2017] SGHC 185</span> (“ _Stansilas_ ”) [note: 16] at [47]–[48], albeit in the context of drunk driving under s 67(1)( _b_ ) of the RTA. 
 
 31     For dangerous driving offenders under s 64(1) of the RTA, the court should thus first assess based on a range of harmand culpability-based factors whether the custodial threshold has been crossed. In all situations, the court should have regard to the full spectrum of permissible sentences, be it in terms of the amount of fine or the length of imprisonment imposed (see _eg_ , _Public Prosecutor_ 
 
-_v GS Engineering & Construction Corp_ [2017] 3 SLR 682 [note: 17] at [53] and [58]). Apart from the levels of harm and culpability, the applicable mitigating and aggravating factors of each case must also be taken into consideration to arrive at a fact-sensitive sentence. 
+_v GS Engineering & Construction Corp_ <span class="citation">[2017] 3 SLR 682</span> [note: 17] at [53] and [58]). Apart from the levels of harm and culpability, the applicable mitigating and aggravating factors of each case must also be taken into consideration to arrive at a fact-sensitive sentence. 
 
 32     Seen in this light, a fine would usually suffice where there is a low level of harm and the accused’s culpability is also low, while imprisonment would typically be warranted where harm and the accused’s culpability are both on the high side: _Koh Thiam Huat_ at [42]. Between these two extremes are varying combinations of degrees of harm and culpability along the continuum of severity. See J also agreed with the Prosecution in _Koh Thiam Huat_ at [43] that it would be an appropriate _starting point_ to consider that the custodial threshold would be breached in cases where serious damage or injuries have been caused by dangerous driving, since there is a high level of harm caused. 
 
@@ -210,7 +210,7 @@ Ed, 2013) at p 1674 [note: 18] thus criticise certain dangerous driving preceden
 
 (1) Manner of driving 
 
-38     First, the level of danger posed by the offender’s actions may be manifested by the offender’s manner of driving. This assesses how dangerous the driving was and the extent of danger to road users posed by the offender’s conduct. Examples of situations where the culpability of the offender would be increased include speeding, drink-driving, sleepy driving (identified as aggravating factors in _Public Prosecutor v Hue An Li_ [2014] 4 SLR 661 in the context of fatal traffic cases under s 304A( _b_ ) of the Penal Code (Cap 224, 2008 Rev Ed) (“the Penal Code”) at [82]–[92]), driving while using a mobile phone (identified in _Koh Thiam Huat_ at [41]), flouting traffic rules, driving against the flow of traffic or off the road (identified in _Stansilas_ at [56]), involvement in a car chase, or exhibiting poor control of his vehicle ( _Edwin s/o Suse Nathen v Public Prosecutor_ [2013] 4 SLR 1139 (“ _Edwin Suse_ ”) [note: 19] at [27]). These circumstances in relation to the offender’s manner of driving are aggravating 
+38     First, the level of danger posed by the offender’s actions may be manifested by the offender’s manner of driving. This assesses how dangerous the driving was and the extent of danger to road users posed by the offender’s conduct. Examples of situations where the culpability of the offender would be increased include speeding, drink-driving, sleepy driving (identified as aggravating factors in _Public Prosecutor v Hue An Li_ <span class="citation">[2014] 4 SLR 661</span> in the context of fatal traffic cases under s 304A( _b_ ) of the Penal Code (Cap 224, 2008 Rev Ed) (“the Penal Code”) at [82]–[92]), driving while using a mobile phone (identified in _Koh Thiam Huat_ at [41]), flouting traffic rules, driving against the flow of traffic or off the road (identified in _Stansilas_ at [56]), involvement in a car chase, or exhibiting poor control of his vehicle ( _Edwin s/o Suse Nathen v Public Prosecutor_ <span class="citation">[2013] 4 SLR 1139</span> (“ _Edwin Suse_ ”) [note: 19] at [27]). These circumstances in relation to the offender’s manner of driving are aggravating 
 
 due to the increased danger to road users posed by such conduct. 
 
@@ -220,7 +220,7 @@ due to the increased danger to road users posed by such conduct.
 
 (3) Reasons for driving 
 
-40     Finally, I agree with the Prosecution that the offender’s reasons or motivations for driving, as identified by Menon CJ at [33] of _Edwin Suse_ for the purposes of determining a drink driving offender’s culpability, are equally relevant in considering the culpability of an offender under s 64(1) of the RTA. Culpability would be increased where the dangerous driving was deliberate ( _Koh Thiam Huat_ at [41]) as opposed to a situation where an offender drove in a dangerous manner on account of an emergency or other extenuating circumstances. An example of the latter would be when an offender “had driven out of impulse” after having received a call from a friend who informed him that she was contemplating committing suicide with her children (see _Sivakumar s/o Rajoo v Public Prosecutor_ [2002] 1 SLR(R) 265, as referred to in _Edwin Suse_ at [33]). 
+40     Finally, I agree with the Prosecution that the offender’s reasons or motivations for driving, as identified by Menon CJ at [33] of _Edwin Suse_ for the purposes of determining a drink driving offender’s culpability, are equally relevant in considering the culpability of an offender under s 64(1) of the RTA. Culpability would be increased where the dangerous driving was deliberate ( _Koh Thiam Huat_ at [41]) as opposed to a situation where an offender drove in a dangerous manner on account of an emergency or other extenuating circumstances. An example of the latter would be when an offender “had driven out of impulse” after having received a call from a friend who informed him that she was contemplating committing suicide with her children (see _Sivakumar s/o Rajoo v Public Prosecutor_ <span class="citation">[2002] 1 SLR(R) 265</span>, as referred to in _Edwin Suse_ at [33]). 
 
 41     Keeping in mind the sentencing framework set out above, I turn to the present appeal. 
 
@@ -313,12 +313,12 @@ _deliberate_ and that he intended to use the taxi as _a weapon_ on the public ro
 
 71     Andy was similarly charged for dangerous driving under s 64(1) of the RTA. He was first produced in court on 10 June 2015 for an unrelated drug trafficking charge (District Arrest Case No 921050 of 2015). Additional charges for drug trafficking, drug consumption and possession of drug utensils were subsequently tendered. Andy claimed trial to DAC 921050/2015, and was convicted on 3 June 2016. He then pleaded guilty to his remaining drug charges, and was sentenced on 13 July 2016 to a total of ten years and six months’ imprisonment with 16 strokes of the cane. On the same day but in a different court, Andy also pleaded guilty to his dangerous driving charge (District Arrest Case No 912320 of 2016) and was sentenced to a $2,000 fine and four months’ disqualification (all classes) for it. In these circumstances, would the respondent’s sentence offend the parity principle? 
 
-72     The principle of parity in sentencing between co-offenders urges that sentences meted out to co-offenders who are party to a common criminal enterprise “should not be unduly disparate from each other”, in the absence of relevant differentiating factors: _Chong Han Rui v Public Prosecutor_ [2016] SGHC 25 (“ _Chong Han Rui_ ”) at [1]; see also _Public Prosecutor v Ramlee and another action_ [1998] 3 SLR(R) 95 at [7]. It is perhaps pertinent to echo two important observations that Menon CJ made in _Chong Han Rui_ at [44]: 
+72     The principle of parity in sentencing between co-offenders urges that sentences meted out to co-offenders who are party to a common criminal enterprise “should not be unduly disparate from each other”, in the absence of relevant differentiating factors: _Chong Han Rui v Public Prosecutor_ <span class="citation">[2016] SGHC 25</span> (“ _Chong Han Rui_ ”) at [1]; see also _Public Prosecutor v Ramlee and another action_ <span class="citation">[1998] 3 SLR(R) 95</span> at [7]. It is perhaps pertinent to echo two important observations that Menon CJ made in _Chong Han Rui_ at [44]: 
 
  ... First, when co-offenders are being sentenced, it is ideal for all of them to be sentenced together before the same judge. But, moving to my second observation, if for some reason this is not possible or convenient, the Prosecution should then make it a point to tender to the sentencing court all relevant material pertaining to any sentences that have already been meted out to any co-offenders. This much was also noted by Chao Hick Tin JA in Lim Bee Ngan Karen v 
 
 
- Public Prosecutor [2015] 4 SLR 1120 (“ Karen Lim ”) (at [56]–[58]). 
+ Public Prosecutor <span class="citation">[2015] 4 SLR 1120</span> (“ Karen Lim ”) (at [56]–[58]). 
 
 73     In the present case, it would have been ideal for both Andy and the respondent to have been sentenced together before the same judge since the same type (and number) of charge was preferred against them in relation to the same incident. Although the respondent was not sentenced by the same judge who had sentenced Andy, I note that the Prosecution, in the proceedings below, 
 

@@ -18,13 +18,13 @@ _Contract_ – _Breach_
 
 _Tort_ – _Negligence_ – _Professional Negligence_ 
 
-[LawNet Editorial Note: These were appeals from the decision of the High Court in [2015] SGHC 146.] 
+[LawNet Editorial Note: These were appeals from the decision of the High Court in <span class="citation">[2015] SGHC 146</span>.] 
 
 22 February 2016 
 
 **Sundaresh Menon CJ (delivering the judgment of the court** **_ex tempore_** **):** 
 
-1       Civil Appeal No 129 of 2015 (“CA 129/2015”) and Civil Appeal No 133 of 2015 (“CA 133/2015”) arise from a professional negligence suit brought by the plaintiff, Nava Bharat (Singapore) Pte Ltd (“the plaintiff”), against the defendant solicitors, Straits Law Practice LLC and its senior director, M Rajaram (“the defendants”). Following a trial that lasted more than 40 days, the Judge delivered a 327 page judgment, dismissing the plaintiff’s claim. The decision of the High Court is published as _Nava Bharat (Singapore) Pte Ltd v Straits Law Practice LLC and another and another suit_ [2015] SGHC 146. 
+1       Civil Appeal No 129 of 2015 (“CA 129/2015”) and Civil Appeal No 133 of 2015 (“CA 133/2015”) arise from a professional negligence suit brought by the plaintiff, Nava Bharat (Singapore) Pte Ltd (“the plaintiff”), against the defendant solicitors, Straits Law Practice LLC and its senior director, M Rajaram (“the defendants”). Following a trial that lasted more than 40 days, the Judge delivered a 327 page judgment, dismissing the plaintiff’s claim. The decision of the High Court is published as _Nava Bharat (Singapore) Pte Ltd v Straits Law Practice LLC and another and another suit_ <span class="citation">[2015] SGHC 146</span>. 
 
 2       The Judge was presented with a wide array of issues, but in the appeals before us, only a single issue remains, and on that issue, both parties have appealed. The sole issue in question pertains to an oral undertaking that was furnished on 19 December 2008. The context of the undertaking may be stated briefly. The defendants were engaged as the plaintiff’s solicitors in a transaction concerning the plaintiff’s acquisition of an interest in a coal mine in Indonesia. In the course of negotiating and finalising the deal, an issue arose in respect of a lend-use permit that had to be obtained from the Indonesian Ministry of Forestry before mining could commence (“the Forestry Licence”). The plaintiff’s Indonesian counsel made it clear that the Forestry Licence was an essential prerequisite to the deal. The counterparty to the transaction, one Mr Dicky Tan, maintained that no licence was required and in fact that he was and had already been mining coal without such a licence. This came to a head at a meeting on 19 December 2008. Faced with an impasse, and the prospect of the deal being scuppered, Mr Dicky Tan orally undertook to obtain the Forestry Licence, if this should prove necessary. 
 

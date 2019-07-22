@@ -32,7 +32,7 @@ _Civil Procedure_ – _Judgment and Orders_ – _Enforcement_
 
 **The law** 
 
-4       The principles governing a stay of execution pending appeal have been concisely summarised in _Strandore Invest A/S v Soh Kim Wat_ [2010] SGHC 174 at [7]: 
+4       The principles governing a stay of execution pending appeal have been concisely summarised in _Strandore Invest A/S v Soh Kim Wat_ <span class="citation">[2010] SGHC 174</span> at [7]: 
 
  (a) ... 
 
@@ -47,7 +47,7 @@ _Civil Procedure_ – _Judgment and Orders_ – _Enforcement_
 
  All other rules follow and are derived from the application of these three principles to the individual circumstances and facts of each case. For example, the likelihood of success is not by itself sufficient, and a bald assertion of the likelihood of success in an affidavit is inadequate. Otherwise, a stay would be granted in every case because every appellant must expect that his appeal will succeed. Finally, it is neither possible, nor desirable, to give a catalogue of all the circumstances that would qualify to be considered as special. The court in every case will have to examine the facts to see if special circumstances justifying the grant of a stay of execution exist based upon the application of the three principles. 
 
-5       I would add that the fact that there may be strong grounds for an appeal is not by itself a reason for granting a stay (see _Lee Kuan Yew v Jeyaretnam Joshua Benjamin_ [1990] 1 SLR(R) 772 at [6]). 
+5       I would add that the fact that there may be strong grounds for an appeal is not by itself a reason for granting a stay (see _Lee Kuan Yew v Jeyaretnam Joshua Benjamin_ <span class="citation">[1990] 1 SLR(R) 772</span> at [6]). 
 
 **Application of the law to the present facts** 
 

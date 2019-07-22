@@ -24,7 +24,7 @@ _Limitation of actions_ – _Equity and limitation of actions_
 
 _Contract_ – _Contractual terms_ – _Implied terms_ – _Implied duty to cooperate_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeal Nos 90 and 91 of 2015 were allowed while the appeals in Civil Appeal Nos 92 and 93 of 2015 were allowed in part and the appeal in Civil Appeal No 95 of 2015 was dismissed by the Court of Appeal on 21 February 2017. See [2017] SGCA 13.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeal Nos 90 and 91 of 2015 were allowed while the appeals in Civil Appeal Nos 92 and 93 of 2015 were allowed in part and the appeal in Civil Appeal No 95 of 2015 was dismissed by the Court of Appeal on 21 February 2017. See <span class="citation">[2017] SGCA 13</span>.] 
 
 27 November 2015 
 
@@ -780,7 +780,7 @@ cutting. The machine was taken to the agreed railway cutting but the buyer faile
 
  [emphasis in bold in its original; emphasis in italics added] 
 
-141    The duty to cooperate and the prevention principle have been recognised in Singapore. [note: 138] In _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd_ [2006] 1 SLR(R) 634 
+141    The duty to cooperate and the prevention principle have been recognised in Singapore. [note: 138] In _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd_ <span class="citation">[2006] 1 SLR(R) 634</span> 
 
 (“ _Evergreat_ ”) V K Rajah J (as he then was) stated (at [48]): 
 
@@ -799,7 +799,7 @@ Rajah J quoted the same passage from _Stirling v Maitland_ (1864) 5 B & S 840 ci
 
 144    In my view, while the implied duty to cooperate and the prevention principle are conceptually different, they are related and their operation may overlap in practice. In the present case, I am satisfied that the two involve the same inquiry because the plaintiffs are arguing essentially that TCS breached the duty to cooperate _thereby_ preventing the AG from giving consent, and therefore cannot be allowed to rely on the AG’s refusal to give consent to deny that the parties are obliged to perform the Compromise. 
 
-145    I readily imply a duty to cooperate into the Compromise. An implied term to that effect is necessary in the business sense in order to give the Compromise efficacy. I also have no doubt that the parties would have responded with an emphatic affirmation had the existence of the duty to cooperate been suggested to them when they entered into the Compromise. In these circumstances, it is appropriate to imply a duty to cooperate to give effect to the parties’ presumed intention: _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 at [93] and [101]. 
+145    I readily imply a duty to cooperate into the Compromise. An implied term to that effect is necessary in the business sense in order to give the Compromise efficacy. I also have no doubt that the parties would have responded with an emphatic affirmation had the existence of the duty to cooperate been suggested to them when they entered into the Compromise. In these circumstances, it is appropriate to imply a duty to cooperate to give effect to the parties’ presumed intention: _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> at [93] and [101]. 
 
 146    The true issue dividing the parties, of course, is not so much the existence of a duty to cooperate but its scope. Applied to the facts of this case, the plaintiffs submit that the duty to cooperate not only required the parties to cooperate in answering the AG’s questions and to provide him the information he asked for, but also barred the parties from doing anything which would lead the 
 
@@ -807,7 +807,7 @@ AG to withhold his consent. [note: 139] Counsel for TCS, on the other hand, argu
 
 surrounding circumstances. [note: 140] 
 
-147    TCS’s position on this must be correct. _Ong Hun Seang and others v Yeoh Oon Teik and others_ [1996] 2 SLR(R) 488 ( _“Ong Hun Seang_ ”) recognises that the duty to cooperate extends only to doing what is reasonable in all the circumstances. In that case, the purchasers of a group of residential units sued their vendors for the return of the deposit paid against the purchase price of those units. The purchasers argued that the vendors had breached their implied duty to cooperate with the purchasers in their efforts to secure a licence which they required to hold the units. The complaint was that the vendors had failed or neglected to execute two forms necessary to change the use of the units, which was said to have resulted in the purchasers’ failure to obtain the licence. 
+147    TCS’s position on this must be correct. _Ong Hun Seang and others v Yeoh Oon Teik and others_ <span class="citation">[1996] 2 SLR(R) 488</span> ( _“Ong Hun Seang_ ”) recognises that the duty to cooperate extends only to doing what is reasonable in all the circumstances. In that case, the purchasers of a group of residential units sued their vendors for the return of the deposit paid against the purchase price of those units. The purchasers argued that the vendors had breached their implied duty to cooperate with the purchasers in their efforts to secure a licence which they required to hold the units. The complaint was that the vendors had failed or neglected to execute two forms necessary to change the use of the units, which was said to have resulted in the purchasers’ failure to obtain the licence. 
 
 148    Lim Teong Qwee JC implied a term that the purchasers and the vendors would cooperate in securing the required licence and that they would do nothing to prevent the licence from being secured in sufficient time to enable completion on the contractual date. But Lim JC observed that the implied duty to cooperate requires the parties to do only what is reasonable in the circumstances. At [56] of the judgment, he noted that the implied term pleaded by the purchaser in its statement of claim required that each party “would promptly do all that was necessary on its part for the completion of the sale and purchase ... and that the [vendors] would cooperate with and/or assist the Plaintiffs to obtain the licence”. He found difficulty in implying a duty to assist but agreed that there 
 
@@ -1195,11 +1195,11 @@ There is, as Viscount Simonds pointed out at 446:
 
 _A new approach?_ 
 
-193    This general rule has been accepted in Singapore. In _Teo Siew Har v Lee Kuan Yew_ [1999] 3 SLR(R) 410, the Court of Appeal said at [34]: 
+193    This general rule has been accepted in Singapore. In _Teo Siew Har v Lee Kuan Yew_ <span class="citation">[1999] 3 SLR(R) 410</span>, the Court of Appeal said at [34]: 
 
  ... The logic for [the rule in Shephard v Cartwright ] makes a lot of practical sense. Otherwise, it would mean that a party could advance his own case by making unilateral statements. 
 
-194    But counsel for TCS argues for a new approach that eschews a rule excluding subsequent acts which are in favour of the party who made them but allows them to be proved and leaves it to the court to attach to that evidence the appropriate weight. This new approach was referred to by Belinda Ang Saw Ean J in _United Overseas Bank Ltd v Giok Bie Jao and others_ [2012] SGHC 56. After setting out the rule in _Shephard v Cartwright_ , Ang J went on to say at [16]: 
+194    But counsel for TCS argues for a new approach that eschews a rule excluding subsequent acts which are in favour of the party who made them but allows them to be proved and leaves it to the court to attach to that evidence the appropriate weight. This new approach was referred to by Belinda Ang Saw Ean J in _United Overseas Bank Ltd v Giok Bie Jao and others_ <span class="citation">[2012] SGHC 56</span>. After setting out the rule in _Shephard v Cartwright_ , Ang J went on to say at [16]: 
 
  ... However, in the latest edition the authors of Snell’s Equity (32nd Ed, 2010) suggested that such evidence should not be excluded but left to the court to decide on the weight to be given to it (see emphasis in bold below). Para 25-013 states: 
 
@@ -1313,7 +1313,7 @@ _The law on resulting trusts_
 
 216    A presumed resulting trust arises in favour of A where A provides the consideration, wholly or in part, for the acquisition of property, legal title to which is vested in B alone or in the joint names of A and B. It also arises where A makes a voluntary transfer of property, either into the sole name of B or into the joint names of A and B, without receiving any consideration in return. In both circumstances, a rebuttable presumption of law will arise that A did not intend his contribution to the acquisition or his voluntary transfer to be a gift to B. B therefore holds his interest in the property on trust for A (though in the former case, this will be in proportion to their respective contributions to the property). This is the presumption of resulting trust. 
 
-217    Independent of the presumption of resulting trust, a resulting trust may also arise so long as it can be shown that the transfer was not intended to benefit the transferee: see _Chan Yuen Lan v See Fong Mun_ [2014] 3 SLR 1048 at [43] (“ _Chan Yuen Lan_ ”) citing _Lau Siew Kim v Yeo Guan Chye Terence and another_ [2008] 2 SLR(R) 108 (“ _Lau Siew Kim_ ”) at [35]. In other words, a resulting trust may arise either by relying on the presumption of resulting trust or by adducing direct evidence to show that the transferor had no intention to benefit the transferee. The Court of Appeal in _Lau Siew Kim_ further indicated (at [59]) that direct evidence is to be preferred over the use of presumptions, for only where “there is no direct evidence that may reveal the intention of the parties ... will there be any necessity to _infer_ or _presume_ intention” [emphasis in original]. 
+217    Independent of the presumption of resulting trust, a resulting trust may also arise so long as it can be shown that the transfer was not intended to benefit the transferee: see _Chan Yuen Lan v See Fong Mun_ <span class="citation">[2014] 3 SLR 1048</span> at [43] (“ _Chan Yuen Lan_ ”) citing _Lau Siew Kim v Yeo Guan Chye Terence and another_ <span class="citation">[2008] 2 SLR(R) 108</span> (“ _Lau Siew Kim_ ”) at [35]. In other words, a resulting trust may arise either by relying on the presumption of resulting trust or by adducing direct evidence to show that the transferor had no intention to benefit the transferee. The Court of Appeal in _Lau Siew Kim_ further indicated (at [59]) that direct evidence is to be preferred over the use of presumptions, for only where “there is no direct evidence that may reveal the intention of the parties ... will there be any necessity to _infer_ or _presume_ intention” [emphasis in original]. 
 
 218    If there is direct evidence to show that the transferor did not intend to benefit the transferee, a resulting trust arises. If there is no direct evidence available but the parties’ relationship is such that a presumption of resulting trust arises, the court then moves to the next stage of analysis. There are two ways to rebut the presumption of resulting trust: (i) by using direct evidence to show that A did in fact intend to make a gift to B or (ii) by displacing the presumption of resulting trust with the presumption of advancement. The presumption of advancement arises only when a gift is made in limited, recognised relationships such as a parent-child relationship, a relationship involving persons in _loco parentis_ to a child or a spousal relationship: see _Lau Siew Kim_ at [56]. 
 
@@ -1411,7 +1411,7 @@ evidence that they were pursuing a plan to consolidate the Tan family’s AAS sh
 
 242    In any event, even without direct evidence, a presumption of resulting trust arises in relation to each transfer to TCS because she provided no consideration for any of these transfers. TCS has not provided any evidence to show that the plaintiffs intended to make a gift of those shares, whether to her or to TKT or to anyone else. She has failed to rebut the presumption of resulting trust. Whether the transfers took place on TKT’s instructions or on these plaintiffs’ own initiative, I am satisfied that TCG, TYK and TCH had no intention to divest themselves of absolute ownership of these shares. 
 
-243    Further, TCS is wholly unable to rely on the presumption of advancement to rebut the presumption of resulting trust which I have found arises in this case. This is because the presumption of advancement does not apply in a sibling relationship. In _Chan Gek Yong v Chan Gek Lan_ [2008] SGHC 167, Woo Bih Li J cited _Gorog v Kiss_ [1977] 16 OR (2d) 569 and _Loo Hon Kong v Loo Kim Lim @ Loo Kim Leong_ [2004] 4 AMR 591 and remarked at [17] that “there exists no presumption of advancement between siblings”. The presumption that TCS holds her shares on resulting trust for the plaintiffs stands without rebuttal. 
+243    Further, TCS is wholly unable to rely on the presumption of advancement to rebut the presumption of resulting trust which I have found arises in this case. This is because the presumption of advancement does not apply in a sibling relationship. In _Chan Gek Yong v Chan Gek Lan_ <span class="citation">[2008] SGHC 167</span>, Woo Bih Li J cited _Gorog v Kiss_ [1977] 16 OR (2d) 569 and _Loo Hon Kong v Loo Kim Lim @ Loo Kim Leong_ [2004] 4 AMR 591 and remarked at [17] that “there exists no presumption of advancement between siblings”. The presumption that TCS holds her shares on resulting trust for the plaintiffs stands without rebuttal. 
 
 244    It therefore follows that TCS holds the AAS Shares on resulting trust for each plaintiff in proportion to that plaintiff’s percentage of the Tan family’s total block of shares in AAS in 1985, as set out at [238] above. As a trustee of these shares for the plaintiffs under a resulting trust, TCS has a duty to account for the shares and for their fruits, which include the dividends or any other income arising from the shares from the time she became trustee of those shares. 
 
@@ -1454,7 +1454,7 @@ address them in their submissions. [note: 204]
 
 252    TCS further argues that the plaintiffs are guilty of prolonged, inordinate and inexcusable delay in bringing this action and are therefore barred by the doctrine of laches from claiming the relief they now seek. 
 
-253    Section 32 of the Limitation Act preserves the equitable doctrine of laches as a defence: see _Re Estate of Tan Kow Quee (alias Tan Kow Kwee)_ [2007] 2 SLR(R) 417 (“ _Tan Kow Quee_ ”) at [28], _British and Malayan Trustees Ltd v Sindo Realty Pte Ltd (in liquidation) and other actions_ [1998] 1 SLR(R) 903 at [64]. The section reads: 
+253    Section 32 of the Limitation Act preserves the equitable doctrine of laches as a defence: see _Re Estate of Tan Kow Quee (alias Tan Kow Kwee)_ <span class="citation">[2007] 2 SLR(R) 417</span> (“ _Tan Kow Quee_ ”) at [28], _British and Malayan Trustees Ltd v Sindo Realty Pte Ltd (in liquidation) and other actions_ <span class="citation">[1998] 1 SLR(R) 903</span> at [64]. The section reads: 
 
  Acquiescence 
 
@@ -1649,7 +1649,7 @@ firm, Deacons, on the issue in 1993. [note: 219]
 
 296    I have made a primary finding that TCS holds the proceeds of the 2002 AAS Shareholder Loans and the 2003 AAS Shareholder Loans on resulting trust for the Tan family members in proportion to their beneficial interest in the Tan family’s total block of shares in AAS in 1985. In the light of the further arguments I have heard on this issue, I agree with the plaintiffs that it is the necessary consequence of my findings that TCS should account to them for the entirety of the Cluny Park Proceeds. 
 
-297    My judgment in this action has yet to be perfected. Both parties accept that a judge “has an inherent jurisdiction to recall his decision and to hear further arguments, so long as the order is not yet perfected” (see _Thomson Plaza (Pte) Ltd v Liquidators of Yaohan Department Store Singapore Pte Ltd (in liquidation)_ [2001] 2 SLR(R) 246 at [6] where the Court of Appeal cited _In Re Harrison’s Share under a Settlement; Harrison v Harrison_ [1955] 1 Ch 260). 
+297    My judgment in this action has yet to be perfected. Both parties accept that a judge “has an inherent jurisdiction to recall his decision and to hear further arguments, so long as the order is not yet perfected” (see _Thomson Plaza (Pte) Ltd v Liquidators of Yaohan Department Store Singapore Pte Ltd (in liquidation)_ <span class="citation">[2001] 2 SLR(R) 246</span> at [6] where the Court of Appeal cited _In Re Harrison’s Share under a Settlement; Harrison v Harrison_ [1955] 1 Ch 260). 
 
 298    I therefore exercise my power to recall my order dismissing the plaintiffs’ entire claim in respect 
 

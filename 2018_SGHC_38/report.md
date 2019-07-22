@@ -16,7 +16,7 @@
 
 _Injunctions_ – _Mareva injunction_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 46 of 2018 was allowed by the Court of Appeal on 1 June 2018. See [2018] SGCA 27.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 46 of 2018 was allowed by the Court of Appeal on 1 June 2018. See <span class="citation">[2018] SGCA 27</span>.] 
 
 23 February 2018 Judgment reserved. 
 

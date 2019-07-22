@@ -32,10 +32,10 @@ _The facts_
 
 4\. In addition to this action, the defendant was sued for defamation (over the speeches he made at the election rally) by various government leaders in seven (7) other suits (the other suits); these included the Prime Minister, some Cabinet Ministers, Members of Parliament and the PAP candidates who contested the 1997 elections. The plaintiff as well as the plaintiffs in the other suits, agreed to be bound by the outcome of the Prime Minister's case against the defendant in Suit No. 225 of 1997 (the Main Suit). The Main Suit, this action and the other suits were set down for trial on or about 9 June 1997. Trial dates were fixed for 18 August to 2 September 1997. By an Order of Court dated 18 July 1997, it was ordered that the Main Suit should be heard first. 
 
-5\. The Main Suit was tried between 18 and 22 August 1997 before Rajendran J. At the close of the trial, counsel for the plaintiff (as well as for the plaintiffs in the other suits) informed Rajendran J who recorded it at para 201 in his judgment (see _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ [1998] 1 SLR 547 at p 605) that the ten (10) plaintiffs agreed to be bound by his findings on the meaning of the words alleged to be defamatory; the defendant did not state his stand on the issue. In September 1997, Rajendran J delivered his judgment; the Prime Minister appealed (in Civil Appeal No. 205 of 1997) and the defendant cross- appealed (in Civil Appeal No. 218 of 1997) against his decision. Both appeals were heard in April 1998 and judgment was 
+5\. The Main Suit was tried between 18 and 22 August 1997 before Rajendran J. At the close of the trial, counsel for the plaintiff (as well as for the plaintiffs in the other suits) informed Rajendran J who recorded it at para 201 in his judgment (see _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ <span class="citation">[1998] 1 SLR 547</span> at p 605) that the ten (10) plaintiffs agreed to be bound by his findings on the meaning of the words alleged to be defamatory; the defendant did not state his stand on the issue. In September 1997, Rajendran J delivered his judgment; the Prime Minister appealed (in Civil Appeal No. 205 of 1997) and the defendant cross- appealed (in Civil Appeal No. 218 of 1997) against his decision. Both appeals were heard in April 1998 and judgment was 
 
 
-reserved. On 17 July 1998, the Court of Appeal allowed the Prime Minister's appeal but dismissed the defendant's cross-appeal (see _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ [1998] 3 SLR 337). 
+reserved. On 17 July 1998, the Court of Appeal allowed the Prime Minister's appeal but dismissed the defendant's cross-appeal (see _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ <span class="citation">[1998] 3 SLR 337</span>). 
 
 6\. On 14 December 2000, the plaintiff applied by notice for further directions no. 604665 of 2000 (the plaintiff's application) under Order 14 r 12 of the Rules of Court for a determination of the natural, ordinary and innuendo meanings of the defamatory words set out in para 17 of the statement of claim in this suit. Paragraph 17 of the statement of claim reads as follows: 
 
@@ -67,7 +67,7 @@ reserved. On 17 July 1998, the Court of Appeal allowed the Prime Minister's appe
 
 ## yourself". 
 
-7\. In _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ [1998] 3 SLR 337, the Court of Appeal had found that the Words, in their natural and ordinary meaning, meant and were understood to mean: 
+7\. In _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ <span class="citation">[1998] 3 SLR 337</span>, the Court of Appeal had found that the Words, in their natural and ordinary meaning, meant and were understood to mean: 
 
 ## Mr Tang being a lawyer and a politician, having avowed to protect his reputation 
 
@@ -167,7 +167,7 @@ while s 18 reads as follows:
 
 _The law_ 
 
-17\. I turn now to the law governing an application to strike out an action for want of prosecution. I start by referring to the Court of Appeal decision in _Wee Siew Noi v Lee Mun Tuck_ [1993] 2 SLR 232, cited by the defendant. 
+17\. I turn now to the law governing an application to strike out an action for want of prosecution. I start by referring to the Court of Appeal decision in _Wee Siew Noi v Lee Mun Tuck_ <span class="citation">[1993] 2 SLR 232</span>, cited by the defendant. 
 
 18\. In that case, the plaintiff was the administrator of the estate of his brother (Lee) who died in an accident on 25 July 1979 while riding as a passenger in a motorcar driven by the first defendant. The plaintiff took out a writ on 20 July 1982 against the first defendant and her employer (the second defendant), claiming damages on behalf of Lee's estate, under the Civil Law Act. The second defendant applied on 2 May 1990, well after the limitation period had expired, to strike out the plaintiff's claim for want of prosecution. His application was dismissed by the court below whereupon he appealed. The appellate court dismissed the second defendant's appeal. In so doing, it followed the principles enunciated by Lord Diplock in _Allen v Sir Alfred McAlpine & Sons Ltd_ [1968] 2 WLR 366 (at p 383) and again in the House of Lords in _Birkett v James_ [1978] AC 297. Warren Khoo J (at p 235) held that an order dismissing an action for want of prosecution being a draconian one, it will not be lightly made unless the court is satisfied:- 
 
@@ -194,7 +194,7 @@ _The law_
 
 application, the question of prejudice was not raised by the defendant at all. Before me however, the defendant complained that he had suffered serious prejudice due to the delay because he had lost the services of George Carman QC who had previously been admitted for this action but had passed away late last year; the Queen's Counsel had also defended the defendant in the Main Suit. Counsel for the plaintiff countered that there was nothing in the defendant's affidavit to suggest that he cannot find another counsel to replace George Carman. On the contrary counsel pointed out, the defendant had told the SAR that he had two (2) other defences since the resolution of the Main Suit; therefore the defendant's position had actually improved in the interval. 
 
-20\. Counsel for the plaintiff cited _QCD (M) Sdn Bhd (in liquidation) v Wah Nam Plastic Industry Pte Ltd_ [1999] 2 SLR 381 for his argument that mere delay was not an abuse of process. In that case, Prakash J similarly had to decide an appeal from the Registrar's decision to strike out an action for want of prosecution on the part of the plaintiff. Like this action, the limitation period for the plaintiff's claim in that case had not yet set in. In allowing the plaintiff's appeal, Prakash J adopted the principles in _Birkett v James_ (supra) and further held:- 
+20\. Counsel for the plaintiff cited _QCD (M) Sdn Bhd (in liquidation) v Wah Nam Plastic Industry Pte Ltd_ <span class="citation">[1999] 2 SLR 381</span> for his argument that mere delay was not an abuse of process. In that case, Prakash J similarly had to decide an appeal from the Registrar's decision to strike out an action for want of prosecution on the part of the plaintiff. Like this action, the limitation period for the plaintiff's claim in that case had not yet set in. In allowing the plaintiff's appeal, Prakash J adopted the principles in _Birkett v James_ (supra) and further held:- 
 
 ## a. the courts had, in addition to the grounds recognised in Birkett v James 
 
@@ -229,7 +229,7 @@ and November, 1998. On 30 November 1998, the court awarded judgement and damages
 
 24\. In Civil Appeal No. 315 of 1998, three (of the four) defendants in the 1995 Suit (including the defendant) appealed against Justice Goh Joon Seng's decision. The appeal was heard in April and dismissed in May, 1999 by the Court of Appeal (see _A_ 
 
-_Balakrishnan & Ors v Nirumalan Pillay_ [1999] 3 SLR 22). The 9th plaintiff (Indra Krishnan) in the 1995 Suit was the petitioner in Bankruptcy No. 2491 of 2000. She was awarded damages assessed at $25,000 against the defendant, the Workers' Party and another party; her judgment sum was not satisfied, hence the bankruptcy proceedings. 
+_Balakrishnan & Ors v Nirumalan Pillay_ <span class="citation">[1999] 3 SLR 22</span>). The 9th plaintiff (Indra Krishnan) in the 1995 Suit was the petitioner in Bankruptcy No. 2491 of 2000. She was awarded damages assessed at $25,000 against the defendant, the Workers' Party and another party; her judgment sum was not satisfied, hence the bankruptcy proceedings. 
 
 25\. Looking at the trial dates for the 1995 Suit, it was part-heard in the two (2) months following the hearing of the Main Suit before Rajendran J and again in April 1998, just before the Court of Appeal heard the defendant's cross-appeal and the Prime Minister's appeal against Rajendran J's decision. Indeed, the defendant was fully occupied with the 1995 Suit until 21 April 1999 when his appeal against Goh J's decision was heard. Consequently, one would have thought that the defendant would have been thankful to have had some respite between trials of and appeals from, the Main Suit and the 1995 Suit, instead of complaining that this action and the other suits had not come on for trial. 
 

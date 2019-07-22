@@ -53,7 +53,7 @@ letter dated 19 November 2008, which stated that he had lost his job as a result
 
 11     The success of the company’s suit against Mr Siebke hinges on whether it was entitled to dismiss Mr Siebke summarily in April 2009. 
 
-12     In _Sinclair v Neighbour_ [1967] 2 QB 279, Sachs LJ pointed out at 289 that it is well-established law that a servant can be instantly dismissed when his conduct is such that it amounts to a wrongful act inconsistent with his duty towards his master or is inconsistent with the continuance of confidence between them. In _Cowie Edward Bruce v Berger International Pte Ltd_ [1999] 1 SLR(R) 739, Warren Khoo J explained at [39]-[40] the right of an employer to summarily dismiss an employee in the following helpful terms: 
+12     In _Sinclair v Neighbour_ [1967] 2 QB 279, Sachs LJ pointed out at 289 that it is well-established law that a servant can be instantly dismissed when his conduct is such that it amounts to a wrongful act inconsistent with his duty towards his master or is inconsistent with the continuance of confidence between them. In _Cowie Edward Bruce v Berger International Pte Ltd_ <span class="citation">[1999] 1 SLR(R) 739</span>, Warren Khoo J explained at [39]-[40] the right of an employer to summarily dismiss an employee in the following helpful terms: 
 
  In each case, it is a matter of degree whether the act complained of is of the requisite gravity. It has been said that it must be so serious that it strikes at the root of the contract of employment, that it destroys the confidence underlying such a contract: Jackson v Invicta Plastics Ltd [1987] BCLC 329 at 344, per Peter Pain J. 
 
@@ -129,7 +129,7 @@ _- who produce the same stuff – that would be really underhand_. Lentze: go on
 
 worked exclusively for it in accordance with his contract. The amount claimed was $169,486.09. 
 
-26     Damages for breach of contract must be proven by the claimant. In _Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric_ [2007] 3 SLR(R) 782, the Court of Appeal observed (at [60]): 
+26     Damages for breach of contract must be proven by the claimant. In _Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric_ <span class="citation">[2007] 3 SLR(R) 782</span>, the Court of Appeal observed (at [60]): 
 
  In contract, as in tort, causation must first be proved before the issue of remoteness is addressed: see Chitty on Contracts (Sweet & Maxwell, 29th Ed, 2004) vol 1 at para 26-029. As was stated in Monarch Steamship Co, Limited v Karlshamns Oljefabriker (A/B) [1949] AC 196 ... at 225, it is established law that the claimant may recover damages for a loss only where the breach of contract was the “effective” or “dominant” cause of that loss. 
 

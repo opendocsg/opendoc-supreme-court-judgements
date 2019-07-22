@@ -268,7 +268,7 @@ As for the argument that Mr Setiadi`s fresh c laim was an abuse of the proc ess 
 
 The short answer to that was that the c irc umstanc es before me did give rise to res judic ata and issue estoppel. 
 
-The two c ases whic h Ms Lim c ited to support her argument were **Bradford & Bingley Building Society v Seddon (Hancock & Ors, t/a Hancocks (a firm), third parties)** [1999] 4 All ER 217 and **Ching Mun Fong (executrix of the estate of Tan Geok Tee, decd) v Liu Cho Chit** [2000] 1 SLR 517. 
+The two c ases whic h Ms Lim c ited to support her argument were **Bradford & Bingley Building Society v Seddon (Hancock & Ors, t/a Hancocks (a firm), third parties)** [1999] 4 All ER 217 and **Ching Mun Fong (executrix of the estate of Tan Geok Tee, decd) v Liu Cho Chit** <span class="citation">[2000] 1 SLR 517</span>. 
 
 However, the fac ts in those two c ases and in the c ase before me were different. In those two c ases, the party who was relying on res judic ata or issue estoppel was not a party in the earlier proc eedings. 
 

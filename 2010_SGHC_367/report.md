@@ -510,7 +510,7 @@ washed because the windows and the ground were still all dry. [note: 17]
 
 **Fair Comment** 
 
-125    In _Chen Cheng v Central Christian Church_ [1998] 3 SLR(R) 236 (“ _Chen Cheng_ ”), the Court of Appeal held that, to succeed in the defence of fair comment, a defendant must prove the following elements: 
+125    In _Chen Cheng v Central Christian Church_ <span class="citation">[1998] 3 SLR(R) 236</span> (“ _Chen Cheng_ ”), the Court of Appeal held that, to succeed in the defence of fair comment, a defendant must prove the following elements: 
 
  the words complained of were comments and not assertions of fact; 
 
@@ -523,7 +523,7 @@ washed because the windows and the ground were still all dry. [note: 17]
 
 126    The question whether the Published Words are assertions of fact or are comments is not an easy one. As was stated in _Chen Cheng_ at [35], much depends on how the statements are expressed, the context and the content of the entire telefax. 
 
-127    In _Hytech Builders Pte Lte v Goh Teng Poh Karen_ [2008] 3 SLR(R) 236, the High Court concluded that the words “on the verge of collapse” were not comment and would be considered by an ordinary reasonable reader as an assertion of fact. 
+127    In _Hytech Builders Pte Lte v Goh Teng Poh Karen_ <span class="citation">[2008] 3 SLR(R) 236</span>, the High Court concluded that the words “on the verge of collapse” were not comment and would be considered by an ordinary reasonable reader as an assertion of fact. 
 
 128    I am of the view that an ordinary reasonable reader would have taken the Published Words to be assertions of fact. That is why Chua was asking the addressees to come to Summerdale to see for themselves what he was asserting. 
 

@@ -381,7 +381,7 @@ is no necessity to go from one extreme to the other. As a matter of logic, when 
 
 64     This issue came up for consideration again in the UK in _Scandecor Development AB v Scandecor Marketing AB_ [2002] FSR 122. In this case, a question which came up for the decision of the House of Lords was whether when the circumstances under s 46(1) of the UK Act exist, the court must revoke the trade mark. It is noteworthy that the learned judges did not adopt the approach taken in _Premier Brands_ , and decided to seek the ruling of the European Court of Justice on the issue. Unfortunately, the case was settled before the European Court of Justice could give its ruling. 
 
-65     The issue has been considered in the context of s 22 in three reported High Court decisions in Singapore. These are _Reemtsma Cigarettenfabriken GmbH v Hugo Boss AG (No 2)_ [2003] 4 SLR 155 (“ _Hugo Boss_ ”), _Weir Warman Ltd v Research & Development Pty Ltd_ [2007] 2 SLR 1073 (“ _Warman_ ”) and _Nation Fittings (M) Sdn Bhd v Oystertec Plc and Another Suit_ [2006] 1 SLR 712 (“ _Oystertec_ ”). In these cases, the High Court came to the conclusion that there is no discretion. While these cases deal with the ‘may’ in s 22, the reasons for the construction of the word in s 22 could be applied to the construction of the word in s 23 as well. 
+65     The issue has been considered in the context of s 22 in three reported High Court decisions in Singapore. These are _Reemtsma Cigarettenfabriken GmbH v Hugo Boss AG (No 2)_ <span class="citation">[2003] 4 SLR 155</span> (“ _Hugo Boss_ ”), _Weir Warman Ltd v Research & Development Pty Ltd_ <span class="citation">[2007] 2 SLR 1073</span> (“ _Warman_ ”) and _Nation Fittings (M) Sdn Bhd v Oystertec Plc and Another Suit_ <span class="citation">[2006] 1 SLR 712</span> (“ _Oystertec_ ”). In these cases, the High Court came to the conclusion that there is no discretion. While these cases deal with the ‘may’ in s 22, the reasons for the construction of the word in s 22 could be applied to the construction of the word in s 23 as well. 
 
 66     In _Hugo Boss_ , Belinda Ang J held at [31] that: 
 
@@ -461,11 +461,11 @@ With respect, the maxim _expressio unius exclusio alterius_ should not be applie
 
  It is clear from the authorities that the court always has a discretion under s 39 to rectify or not in the light of all the circumstances of the case. 
 
-In _Re Jaguar Trademark_ [1993] 2 SLR 466, Lai Siu Chiu JC affirmed at p 477 that: 
+In _Re Jaguar Trademark_ <span class="citation">[1993] 2 SLR 466</span>, Lai Siu Chiu JC affirmed at p 477 that: 
 
  under s 39 of the Act, the court has the discretion whether or not to rectify the register ... 
 
-Finally, in _Super Coffeemix Manufacturing Ltd v Unico Trading Pte Ltd and Another and Another Appeal_ [2000] 3 SLR 145 (“ _Super Coffeemix_ ”), the Court of Appeal stated at [82] that: 
+Finally, in _Super Coffeemix Manufacturing Ltd v Unico Trading Pte Ltd and Another and Another Appeal_ <span class="citation">[2000] 3 SLR 145</span> (“ _Super Coffeemix_ ”), the Court of Appeal stated at [82] that: 
 
  It seems to us that by the use of the terms such as “may” and “as it thinks fit” in s 39(1)(a), the court has a discretion [to order as disclaimer]. 
 

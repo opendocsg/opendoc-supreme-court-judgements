@@ -62,7 +62,7 @@ taken the Ecstasy pills offered to him, and just accepted the $80 that the custo
 
 **The decision below** 
 
-13     The trial judge found the appellant guilty as charged and sentenced him to five and a half years’ imprisonment and five strokes of the cane (see [2004] SGDC 130). 
+13     The trial judge found the appellant guilty as charged and sentenced him to five and a half years’ imprisonment and five strokes of the cane (see <span class="citation">[2004] SGDC 130</span>). 
 
 14     The trial judge held that the facts, both in the SOAF and the testimony of the appellant, established beyond a reasonable doubt that the appellant was guilty as charged. He also held that the arguments on law advanced by the appellant had failed to convince the trial court that the appellant was not guilty of trafficking, or that because of entrapment, he should be convicted only on the lesser charge of possession. 
 
@@ -126,9 +126,9 @@ appellant had committed the offence of “trafficking” under the MDA. I agreed
 
  It is within the context of the language actually used that one must construe the purpose of the Act, and there is nothing to indicate that the provisions target those who traffic in little, whether on a parttime basis or otherwise, from those who run it on a large scale, devoting the whole of their lives to the endeavour. ... 
 
-24     The appellant cited the decision of _Ng Yang Sek v PP_ [1997] 3 SLR 661, and alluded to the purposive approach taken by the Court of Appeal in that decision. The peculiar facts of _Ng’s_ case, which concerned the use of opium as an ingredient of medicinal plasters prepared within the context of Chinese traditional medicine, were clearly distinguishable from those in the present appeal. The appellant also cited the case of _Ong Ah Chuan v PP_ [1980-1981] SLR 48 with reference to the “draconian penalties” prescribed for trafficking in drugs. The appellant’s reference to _Ong Ah Chuan_ was inapposite because, unlike in _Ng Yang Sek_ or in _Ong Ah Chuan_ , there was no ambiguity as to the appellant’s guilt in the present case. Here, there was no doubt that the appellant had sold the drug. He had admitted to selling the drug, and had also admitted that he knew that he was selling Ecstasy. 
+24     The appellant cited the decision of _Ng Yang Sek v PP_ <span class="citation">[1997] 3 SLR 661</span>, and alluded to the purposive approach taken by the Court of Appeal in that decision. The peculiar facts of _Ng’s_ case, which concerned the use of opium as an ingredient of medicinal plasters prepared within the context of Chinese traditional medicine, were clearly distinguishable from those in the present appeal. The appellant also cited the case of _Ong Ah Chuan v PP_ [1980-1981] SLR 48 with reference to the “draconian penalties” prescribed for trafficking in drugs. The appellant’s reference to _Ong Ah Chuan_ was inapposite because, unlike in _Ng Yang Sek_ or in _Ong Ah Chuan_ , there was no ambiguity as to the appellant’s guilt in the present case. Here, there was no doubt that the appellant had sold the drug. He had admitted to selling the drug, and had also admitted that he knew that he was selling Ecstasy. 
 
-25     As I previously observed in _Ho Yean Theng Jill v PP_ [2004] 1 SLR 254 at [30]: 
+25     As I previously observed in _Ho Yean Theng Jill v PP_ <span class="citation">[2004] 1 SLR 254</span> at [30]: 
 
  Under s 9A of the Interpretation Act, a court may refer to extrinsic materials only in limited c irc umstanc es , for example, to ascertain the meaning of the provision when the meaning of that provision is ambiguous or unc lear. [emphasis added] 
 
@@ -211,7 +211,7 @@ includes “to sell”.
 
 40     Liability for the offence of trafficking under the MDA should not hinge on the capacity or background of the appellant, but on whether the appellant in fact engaged in acts of trafficking. Arguments that the appellant was a “onetime seller” and not a “big-time trafficker” or “evil trafficker”, may be relevant for purposes of mitigation and sentencing, but are not relevant considerations for purposes of conviction. 
 
-41     As I previously observed in _Aw Sei Kui v PP_ [1998] 2 SLR 722 at [50]: 
+41     As I previously observed in _Aw Sei Kui v PP_ <span class="citation">[1998] 2 SLR 722</span> at [50]: 
 
  The actual ‘harm’ done by a speeding offence or by possession of a minuscule amount of a prohibited drug may be insignificant, but that fact would not qualify either offender as exempt from punishment under the de minimis principle. In such instances, meaning can only be given to the law if it blankets the entire range of offenders, for the cumulative effect of many slight offences causes great harm to society as a whole. Naturally, however, the culpability of any particular offender will be reflected in the sentence he receives — but he is guilty of an offence nonetheless. 
 
@@ -223,11 +223,11 @@ includes “to sell”.
 
 **_Entrapment as a substantive defence_** 
 
-44     As affirmed by the Court of Appeal in _Amran Bin Eusuff v PP_ [2002] SGCA 20, it is trite law that entrapment is not a valid defence to a charge. In the present appeal, it is sufficient to note that the appellant had rightly conceded that entrapment was not a valid defence. 
+44     As affirmed by the Court of Appeal in _Amran Bin Eusuff v PP_ <span class="citation">[2002] SGCA 20</span>, it is trite law that entrapment is not a valid defence to a charge. In the present appeal, it is sufficient to note that the appellant had rightly conceded that entrapment was not a valid defence. 
 
 **_The exclusion of evidence obtained through entrapment_** 
 
-45     The trial judge considered the case of _SM Summit Holdings Ltd v PP_ [1997] 3 SLR 922 for the position that entrapment may possibly render evidence obtained, prejudicial or inadmissible. However, on appeal, the appellant did not argue for the exclusion of evidence obtained through entrapment, neither did he challenge the decision of the trial judge on this issue. Therefore, this line of argument was also of no assistance to the appellant. 
+45     The trial judge considered the case of _SM Summit Holdings Ltd v PP_ <span class="citation">[1997] 3 SLR 922</span> for the position that entrapment may possibly render evidence obtained, prejudicial or inadmissible. However, on appeal, the appellant did not argue for the exclusion of evidence obtained through entrapment, neither did he challenge the decision of the trial judge on this issue. Therefore, this line of argument was also of no assistance to the appellant. 
 
 **_Entrapment as a reason for stay of proceedings_** 
 
@@ -253,9 +253,9 @@ was plain to me that this case was of little, if any, assistance to the appellan
 52     Finally, the appellant argued that the entrapment carried out by the CNB officers constituted a reason for the court to exercise its discretion to convict him on a lesser offence ( _ie_ possession) instead of that arising out of the entrapment ( _ie_ trafficking). I took the view that the appellant’s arguments in this regard were without merit. 
 
 
-53     The appellant’s reference to the case of _Tan Boon Hoc k v PP_ [1994] 2 SLR 150 was wholly inapposite. In para 55 of his written submissions, the appellant claimed that: 
+53     The appellant’s reference to the case of _Tan Boon Hoc k v PP_ <span class="citation">[1994] 2 SLR 150</span> was wholly inapposite. In para 55 of his written submissions, the appellant claimed that: 
 
- Further, there is the interesting case of Tan Boon Hoc k v PP [1994] 2 SLR 150 where the Honourable Chief Justice intimated that the entrapment bringing about the offence may not have been appropriate. 
+ Further, there is the interesting case of Tan Boon Hoc k v PP <span class="citation">[1994] 2 SLR 150</span> where the Honourable Chief Justice intimated that the entrapment bringing about the offence may not have been appropriate. 
 
 54     The appellant’s reading of my decision in that case was incorrect. _Tan’s_ case did not deal with the issue of entrapment, and it made no reference to any of the leading decisions on entrapment such as _R v Sang_ and _How Poh Sun v PP._ Instead, _Tan_ ’s case dealt with the issue of “consent”, or the appearance of consent, of an undercover police officer taking part in an operation to flush out homosexual activity in a secluded area. Moreover, _Tan’s_ case was a decision on sentencing, and had nothing to do with the court’s discretion to convict the accused on a lesser offence. As I observed in that case at [9]: 
 

@@ -55,7 +55,7 @@ _Contract_ – _Formation_ – _Agreement between plaintiff and defendant for pl
 
 **The decision below** 
 
-8       The action was heard by Tan Lee Meng J (“the Judge”) who dismissed Otech’s claims. In his written judgment, which is reported as _Otech Pakistan Pvt Ltd v Clough Engineering Ltd_ [2006] 3 SLR 1 (“HC”), the Judge held that: 
+8       The action was heard by Tan Lee Meng J (“the Judge”) who dismissed Otech’s claims. In his written judgment, which is reported as _Otech Pakistan Pvt Ltd v Clough Engineering Ltd_ <span class="citation">[2006] 3 SLR 1</span> (“HC”), the Judge held that: 
 
  (a) there was no evidence of an agreement between the parties on 1 November 1999 for Otech to be paid 20% of the net settlement sum received by Clough from OGDCL (HC at [26]); 
 

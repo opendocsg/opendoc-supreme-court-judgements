@@ -63,7 +63,7 @@ _Conflic t of Laws_
 
  (b) The second step was the Setting Aside and Stay Application. 
 
-13     As regards Zoom’s 1st EOT Defence Application, each side referred to the decision of the Court of Appeal in _Carona Holdings Pte Ltd and others v Go Go Delic ac y Pte Ltd_ [2008] 4 SLR(R) 460 (“ _Carona_ ”) to support its position. 
+13     As regards Zoom’s 1st EOT Defence Application, each side referred to the decision of the Court of Appeal in _Carona Holdings Pte Ltd and others v Go Go Delic ac y Pte Ltd_ <span class="citation">[2008] 4 SLR(R) 460</span> (“ _Carona_ ”) to support its position. 
 
 14     In _Carona_ , a question arose as to whether an application for an extension of time to file a 
 
@@ -102,13 +102,13 @@ which is a submission to the court’s jurisdiction and preclude it from proceed
 
 26     Even if the fact of including the prayer for a stay does not amount to a submission to the Singapore court’s jurisdiction, I was of the view that when Zoom proceeded with its prayer for a stay, it had crossed the line. This was a submission to the court’s jurisdiction and Zoom was asking the court not to exercise the jurisdiction on the basis of _forum non c onveniens._ This was different from a situation where a defendant is challenging the court’s jurisdiction. 
 
-27     The distinction, mentioned above at [26], was emphasised by the Court of Appeal in _Chan Chin Cheung v Chan Fatt Cheung & others_ [2010] 1 SLR 1192 (“ _Chan Chin Cheung_ ”) where the court said at [22]: 
+27     The distinction, mentioned above at [26], was emphasised by the Court of Appeal in _Chan Chin Cheung v Chan Fatt Cheung & others_ <span class="citation">[2010] 1 SLR 1192</span> (“ _Chan Chin Cheung_ ”) where the court said at [22]: 
 
  The appellant relies on several cases to argue that an extension of time under O 3 r 4, even if permissible, cannot "cure" the fact that the respondents had already taken steps in the proceedings and submitted to the jurisdiction of the Singapore courts. With respect, this argument is off the mark because whether a litigant has submitted to the jurisdiction of the court is relevant only to an application for a stay under O 12 r 7(1), where the litigant is taking the position that the court has no jurisdic tion to hear the case. In contrast, where the litigant applies for a stay under O 12 r 7(2) on the ground of forum non c onveniens , he in fact ac c epts the c ourt's jurisdic tion and is not to be treated as disputing it (see The Jian He at [44]; and GP Selvam, Singapore Civil Proc edure 2007 (Sweet & Maxwell, 2007) (" Singapore Civil Proc edure 2007 ") at para 12/7/4). ... 
 
  [emphasis in original] 
 
-28     The Court of Appeal cited _The “Jian He”_ [1999] 3 SLR(R) 432 (“ _The Jian He_ ”) at [44] and GP Selvam, _Singapore Civil Proc edure 2007_ (Sweet & Maxwell, 2007 Ed) (“Singapore Civil Procedure”) at para 12/7/14. 
+28     The Court of Appeal cited _The “Jian He”_ <span class="citation">[1999] 3 SLR(R) 432</span> (“ _The Jian He_ ”) at [44] and GP Selvam, _Singapore Civil Proc edure 2007_ (Sweet & Maxwell, 2007 Ed) (“Singapore Civil Procedure”) at para 12/7/14. 
 
 29     In _The Jian He_ , the Court of Appeal said at [44]: 
 
@@ -150,13 +150,13 @@ which is a submission to the court’s jurisdiction and preclude it from proceed
 
 41     The relevant passage at para12/7/3(3) at p 110 states: 
 
- (3) If a defendant chooses to make an application under r 7(1) he should not meanwhile serve a defence or take any step inconsistent with his stand that the court has no jurisdiction. The effect of any steps which he may take must be considered in the context and circumstances of the case. Thus, a step taken because the defendant had no practical alternative may not preclude him from applying under O 12 r 7 ( International SOS Pte Ltd v Overton Mark Harold George [2001] 2 SLR(R) 777). Also an application to stay proceedings in Singapore pending the outcome of proceedings in a foreign jurisdiction does not amount to a submission to jurisdiction (see Williams & Glyn’s Bank plc v Astro Dinamic o Comp. Naviera S A [1984] 1 WLR 438; [1984] 1 All ER 760, HL). 
+ (3) If a defendant chooses to make an application under r 7(1) he should not meanwhile serve a defence or take any step inconsistent with his stand that the court has no jurisdiction. The effect of any steps which he may take must be considered in the context and circumstances of the case. Thus, a step taken because the defendant had no practical alternative may not preclude him from applying under O 12 r 7 ( International SOS Pte Ltd v Overton Mark Harold George <span class="citation">[2001] 2 SLR(R) 777</span>). Also an application to stay proceedings in Singapore pending the outcome of proceedings in a foreign jurisdiction does not amount to a submission to jurisdiction (see Williams & Glyn’s Bank plc v Astro Dinamic o Comp. Naviera S A [1984] 1 WLR 438; [1984] 1 All ER 760, HL). 
 
 42     The relevant passage from para 12/7/4 at p 111 states: 
 
  ... 
 
- ... Where the defendant has been served in accordance with the ROC and applies for a stay on grounds of forum non c onveniens he in fact accepts the court’s jurisdiction and is not to be treated as disputing it and O 12 r 7 has no application: see The Jian He [1999] 3 SLR(R) 432, following The Sydney Express [1988] Lloyd’s Rep 257 and Williams & Glyn’s Bank plc v Astro Dinamic o Comp. Naviera SA [1984] 1 WLR 438; [1984] 1 All ER 760, HL. See also The Messiniaki Tolmi [1984] 1 Lloyd’s Rep 266 CA (Eng). ... 
+ ... Where the defendant has been served in accordance with the ROC and applies for a stay on grounds of forum non c onveniens he in fact accepts the court’s jurisdiction and is not to be treated as disputing it and O 12 r 7 has no application: see The Jian He <span class="citation">[1999] 3 SLR(R) 432</span>, following The Sydney Express [1988] Lloyd’s Rep 257 and Williams & Glyn’s Bank plc v Astro Dinamic o Comp. Naviera SA [1984] 1 WLR 438; [1984] 1 All ER 760, HL. See also The Messiniaki Tolmi [1984] 1 Lloyd’s Rep 266 CA (Eng). ... 
 
 43     Therefore, it was no surprise that when Zoom was applying for leave to appeal to the Court of Appeal in respect of my decision, it was relying on, _inter alia_ , para 12/7/3 to establish that I had made a _prima fac ie_ error of law or that there was good reason to seek the views of the Court of Appeal. On the other hand, Broadcast was relying on, _inter alia_ , para 12/7/4. Interestingly, _Williams_ is cited in both these passages of the current edition of the Singapore Civil Procedure even though both passages are not consistent. 
 
@@ -236,7 +236,7 @@ However, the emails exchanged between the parties made no reference to the Stand
 
 68     I now come to the second prayer for a stay of the proceedings on the ground of _forum non c onveniens_. 
 
-69     When Zoom made its application for leave to appeal to the Court of Appeal against my decision, Zoom alleged that as the Singapore court’s jurisdiction was premised on O 11 of the Rules of Court and not as of right, the burden of proof had shifted to Broadcast to establish that Singapore was the more appropriate jurisdiction than the jurisdiction preferred by Zoom. Zoom relied on a statement made by the Court of Appeal in _Oriental Insuranc e Co Ltd v Bhavani Stores Pte Ltd_ [1997] 3 SLR(R) 363 (“ _Oriental Insuranc e_ ”) at [16] where the court said: 
+69     When Zoom made its application for leave to appeal to the Court of Appeal against my decision, Zoom alleged that as the Singapore court’s jurisdiction was premised on O 11 of the Rules of Court and not as of right, the burden of proof had shifted to Broadcast to establish that Singapore was the more appropriate jurisdiction than the jurisdiction preferred by Zoom. Zoom relied on a statement made by the Court of Appeal in _Oriental Insuranc e Co Ltd v Bhavani Stores Pte Ltd_ <span class="citation">[1997] 3 SLR(R) 363</span> (“ _Oriental Insuranc e_ ”) at [16] where the court said: 
 
  ... Firstly, it is patently clear that where the court has jurisdiction as of right, the burden of proving that another forum is more appropriate always falls on the defendant. Where, however, the court's jurisdiction is premised on O 11, the burden of proving that Singapore is the appropriate forum falls on the plaintiff and this remains the case even when the defendant (served out of jurisdiction) comes to Singapore to contest the jurisdiction of the Singapore court. ... 
 

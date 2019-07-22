@@ -143,12 +143,12 @@ _Motion to adduce fresh evidence_
 
  (b) Relevance – the evidence would probably have an important influence on the result of the case, though it need not be decisive; and 
 
- (c) Reliability – the evidence must be apparently credible, though it need not be incontrovertible: see Pandiyan Thanaraju Rogers v PP [2001] 3 SLR 281; Juma’at bin Samad v PP [1993] 3 SLR 338. 
+ (c) Reliability – the evidence must be apparently credible, though it need not be incontrovertible: see Pandiyan Thanaraju Rogers v PP <span class="citation">[2001] 3 SLR 281</span>; Juma’at bin Samad v PP <span class="citation">[1993] 3 SLR 338</span>. 
 
 39     I refused the motion to admit both medical reports because it had been clearly open to the defence during the trial before the magistrate to call these doctors as expert witnesses. For some reason, counsel did not do so, even though it was a key thrust of the defence that Umi’s injuries were sustained as a result of the fall rather than the alleged punch. 
 
 
-40     It was pointed out that the ‘non-availability’ requirement was not an absolute one. The Court may allow evidence to be admitted at the appeal stage notwithstanding its availability at trial, if, in extenuating circumstances, the rejection of such evidence would result in a miscarriage of justice. This very narrow exception is in line with the core principle of s 257 of the Criminal Procedure Code that fresh evidence should be received in the interests of justice: _Lee Yuen Hong v PP_ [2000] 2 SLR 339 ; _Chan Chun Yee v PP_ [1998] 3 SLR 638. Be that as it may, I was of the opinion that the present situation did not fall within the ambit of the exception, for the very simple reason that the defence had been content throughout the trial to rely on the evidence of Dr Tan and Dr Quah. 
+40     It was pointed out that the ‘non-availability’ requirement was not an absolute one. The Court may allow evidence to be admitted at the appeal stage notwithstanding its availability at trial, if, in extenuating circumstances, the rejection of such evidence would result in a miscarriage of justice. This very narrow exception is in line with the core principle of s 257 of the Criminal Procedure Code that fresh evidence should be received in the interests of justice: _Lee Yuen Hong v PP_ <span class="citation">[2000] 2 SLR 339</span> ; _Chan Chun Yee v PP_ <span class="citation">[1998] 3 SLR 638</span>. Be that as it may, I was of the opinion that the present situation did not fall within the ambit of the exception, for the very simple reason that the defence had been content throughout the trial to rely on the evidence of Dr Tan and Dr Quah. 
 
 41     It was submitted by defence counsel that the lawyer who had conducted Ang’s defence before the judge was unable to tender expert evidence because the forensic psychologist from the Centre for Forensic Medicine, who had been ready and willing to testify, could not obtain permission from his superiors in the department to do so. Even at the appeal stage, counsel faced the same difficulty. In a letter dated 29 January 2002, the Director of the Centre wrote to defence counsel to inform them that, as a matter of policy, the Centre being part of the Health Sciences Authority "should not be involved in defence work which pertained to criminal cases". 
 
@@ -217,7 +217,7 @@ recalled to the stand, Dr Tan said that Dr Quah’s theory was a possible one.
 
 _Delay in telling the good Samaritans of the alleged assault_ 
 
-60     In the case of _Tang Kin Seng v PP_ [1997] 1 SLR 46, I said: 
+60     In the case of _Tang Kin Seng v PP_ <span class="citation">[1997] 1 SLR 46</span>, I said: 
 
  The evidential value of a prompt complaint often lay not in the fact that making it renders the victim’s testimony more credible. The evidential value of a previous complaint is that the failure to make one renders the victim’s evidence less credible. The reason is simple human experience. It is not usual human behaviour not to make a quick complaint. However, as in all cases where common human experience is used as a yardstick, there may be very good reasons why the victim’s actions depart from it. It would be an error not to have regard to the explanation proffered. 
 
@@ -230,7 +230,7 @@ _Adverse findings on the credibility of Ang and Mdm Eng_
 
 62     The judge held that Ang’s and Mdm Eng’s credibility was affected when they apparently exaggerated the incident between Umi and Mdm Eng’s parents’ pet dog. He also found that Mdm Eng had concocted evidence about a second Indonesian maid who had allegedly helped Umi in her plan to escape from the flat on the night of 20 April 2000. It was telling that this allegation did not feature in any of Ang’s or Mdm Eng’s statements. This included Ang’s cautioned statement to the police. 
 
-63     It is trite law that when a witness’s credibility is impeached or otherwise found to be wanting, the court will generally tend to regard his evidence with less favour and accord it less weight. It has to scrutinise the whole of his evidence to decide which aspects might be true and which would have to be disregarded: _Sundra Moorthy Lankatharan v PP_ [1997] 3 SLR 464. 
+63     It is trite law that when a witness’s credibility is impeached or otherwise found to be wanting, the court will generally tend to regard his evidence with less favour and accord it less weight. It has to scrutinise the whole of his evidence to decide which aspects might be true and which would have to be disregarded: _Sundra Moorthy Lankatharan v PP_ <span class="citation">[1997] 3 SLR 464</span>. 
 
 64     In the present case, the fact that the credibility of Ang and his wife had been seriously discounted did not prevent the defence from successfully arguing that it had cast reasonable doubt over the prosecution’s case. This was because an acquittal followed either from successfully arguing an affirmative defence, which Ang had failed to do so here, or by casting reasonable doubt over the prosecution’s case by pointing to inherent flaws or improbabilities in its logic and evidence: _Tan Buck Tee v PP_ [1961] 27 MLJ 176 at 179. 
 

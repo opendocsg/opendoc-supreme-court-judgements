@@ -142,7 +142,7 @@ assessment. Given that the company is a passive investor, the deductions allowab
 
  Mr Grant suggests that the making of investments means that the Company’s principal business is the turning over of investments and making profits by the purchase and re-sale of investments. I do not think so. “Making investments” here does not mean that; “making investments” means investing; “making” is nothing, it means investing, and before you can hold an investment you have to acquire it, in other words, to make it; 
 
-19     That s 10E was intended to apply to an investment holding company was recognised by the Court of Appeal in _JD Ltd v Comptroller of Income Tax_ [2006] 1 SLR 484. 
+19     That s 10E was intended to apply to an investment holding company was recognised by the Court of Appeal in _JD Ltd v Comptroller of Income Tax_ <span class="citation">[2006] 1 SLR 484</span>. 
 
 20     Hence, the emphasis is on the acquisition, holding or retention of an investment, as opposed to the purchase for resale of the investment. By way of clarification, this is not to say that an investment holding company may not realise its investment or switch one investment for another in the course of its business as such. If such transaction truly was undertaken in the course of its business as an investment holding company, any gains derived therefrom would be capital in nature and not exigible to tax. The corollary to that is that losses incurred would be capital in nature and not be available for set-off against income. 
 
@@ -355,7 +355,7 @@ _________________
 
 It is immaterial for the purposes of this case whether this or an earlier revised edition of the Act is used. 
 
-Although that is strictly the position at law, in practice, as was observed by the Court of Appeal in _JD Ltd v Comptroller of Income Tax_ [2006] 1 SLR 484 at [51], the Comptroller has made some concessions as regards the deductibility of expenses in the ascertainment of income not falling under s 10(1)(a). 
+Although that is strictly the position at law, in practice, as was observed by the Court of Appeal in _JD Ltd v Comptroller of Income Tax_ <span class="citation">[2006] 1 SLR 484</span> at [51], the Comptroller has made some concessions as regards the deductibility of expenses in the ascertainment of income not falling under s 10(1)(a). 
 
  Copyright © Government of Singapore. 
 

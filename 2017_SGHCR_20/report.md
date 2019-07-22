@@ -60,7 +60,7 @@ an advocate and solicitor of over 30 years’ standing, was instructed to act fo
 
 12     Based on the report of the Disciplinary Tribunal, the Defendants took out an application to stay the execution of the Consent Judgment pending the outcome of the hearing before the Court of Three Judges. The parties agreed that enforcement would be held in abeyance pending the decision of the Court of Three Judges. 
 
-13     On 19 August 2016, the Court of Three Judges rendered its decision in _Law Society of Singapore v Leong Pek Gan_ [2016] 5 SLR 1091 (“ _Leong Pek Gan_ ”). In relation to the two charges mentioned at [8] above, the Court of Three Judges held that the Law Society had to prove, _inter alia_ , that the transaction involved an illegal purpose, namely, unlicensed moneylending in contravention of the MLA ( _Leong Pek Gan_ at [58]). This, in turn, raised the following two sub-issues ( _Leong Pek Gan_ at [59]): 
+13     On 19 August 2016, the Court of Three Judges rendered its decision in _Law Society of Singapore v Leong Pek Gan_ <span class="citation">[2016] 5 SLR 1091</span> (“ _Leong Pek Gan_ ”). In relation to the two charges mentioned at [8] above, the Court of Three Judges held that the Law Society had to prove, _inter alia_ , that the transaction involved an illegal purpose, namely, unlicensed moneylending in contravention of the MLA ( _Leong Pek Gan_ at [58]). This, in turn, raised the following two sub-issues ( _Leong Pek Gan_ at [59]): 
 
  (a) whether there was a loan in the first place (or, in other words, whether the Agreement was in substance a loan); and 
 
@@ -99,7 +99,7 @@ an advocate and solicitor of over 30 years’ standing, was instructed to act fo
 
 16     It bears emphasis that the Court of Three Judges stated that “[m]any, if not all” of its findings were premised on _objective_ facts, as contained in the Agreement and the Power of Attorney ( _Leong Pek Gan_ at [98]). Indeed, while Ms Leong sought to undermine the Defendants’ credibility by highlighting inconsistencies in their evidence, the Court of Three Judges did not see it necessary to delve further into this, precisely because it was satisfied that its findings were premised on _objective_ facts ( _Leong Pek Gan_ at [98]). 
 
-17     In the circumstances, the Court of Three Judges was satisfied that due cause for disciplinary action against Ms Leong had been shown and that the charges against her had been proved _beyond reasonable doubt_ ( _Leong Pek Gan_ at [99]). The Court of Three Judges thereafter imposed upon her a term of suspension of two-and-a-half years ( _Law Society of Singapore v Leong Pek Gan_ [2016] 5 SLR 1131 at [19]). 
+17     In the circumstances, the Court of Three Judges was satisfied that due cause for disciplinary action against Ms Leong had been shown and that the charges against her had been proved _beyond reasonable doubt_ ( _Leong Pek Gan_ at [99]). The Court of Three Judges thereafter imposed upon her a term of suspension of two-and-a-half years ( _Law Society of Singapore v Leong Pek Gan_ <span class="citation">[2016] 5 SLR 1131</span> at [19]). 
 
 18     Subsequent to _Leong Pek Gan_ , the Defendants sought leave from Aedit Abdullah JC for further arguments regarding the Consent Judgment. On 3 May 2017, they succeeded in setting aside the Consent Judgment. In brief oral grounds, Aedit Abdullah JC stated as follows: 
 
@@ -132,7 +132,7 @@ an advocate and solicitor of over 30 years’ standing, was instructed to act fo
 
  (a) First, it was not a “plain and obvious” case that the Agreement was tainted with illegality. Although the Court of Three Judges had made certain findings in this regard, the issues before the Court of Three Judges centred on Ms Leong’s misconduct as a solicitor. The issue of whether the Agreement was tainted with illegality could not have been properly ventilated. Instead, a full trial is needed to determine the issues raised in the Statement of Claim. 
 
- (b) Second, while the High Court can take cognisance of the findings of the Court of Three Judges, these findings do not bind the High Court and can be departed from. This is because the Court of Three Judges is a specially constituted court to oversee disciplinary proceedings, and is not the High Court (citing Re Nalpon Zero Geraldo Mario [2013] 3 SLR 258 (“ Nalpon Zero ”) at [50]). 
+ (b) Second, while the High Court can take cognisance of the findings of the Court of Three Judges, these findings do not bind the High Court and can be departed from. This is because the Court of Three Judges is a specially constituted court to oversee disciplinary proceedings, and is not the High Court (citing Re Nalpon Zero Geraldo Mario <span class="citation">[2013] 3 SLR 258</span> (“ Nalpon Zero ”) at [50]). 
 
  (c) Third, and related to both points above, it cannot be said that the issues in the Statement of Claim are res judicata on the basis of issue estoppel, because: 
 
@@ -166,7 +166,7 @@ an advocate and solicitor of over 30 years’ standing, was instructed to act fo
 25     Counsel on both sides crossed swords on the issue of whether the present suit is _res judicata_ 
 
 
-on the basis of issue estoppel. In this regard, the principles relating to issue estoppel are well established and need only be briefly mentioned. In essence, four requirements must be met in order to establish issue estoppel (see _Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co Ltd and another and another appeal_ [2009] 2 SLR(R) 814 at [165] and _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ [2005] 3 SLR(R) 157 at [14]): 
+on the basis of issue estoppel. In this regard, the principles relating to issue estoppel are well established and need only be briefly mentioned. In essence, four requirements must be met in order to establish issue estoppel (see _Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co Ltd and another and another appeal_ <span class="citation">[2009] 2 SLR(R) 814</span> at [165] and _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ <span class="citation">[2005] 3 SLR(R) 157</span> at [14]): 
 
  (a) First, there must be a final and conclusive judgment on the merits of the issue which is said to be subject to estoppel. 
 
@@ -176,7 +176,7 @@ on the basis of issue estoppel. In this regard, the principles relating to issue
 
  (d) Fourth, there must be identity of subject matter in the two actions. This means that (i) the prior determination must traverse the same ground as the subsequent proceeding; (ii) the prior determination must have been fundamental ( contra merely collateral) to the prior decision; and (iii) the allegedly estopped issue must have been raised and argued. 
 
-26     While counsel focused on issue estoppel, it must be kept in mind that abuse of process involves _more_ than simply the doctrine of _res judicata_ and its constituent or related doctrines. For instance, a proceeding can be struck out on the basis of abuse of process, if it is manifestly groundless, or without foundation, or serves no useful purpose (see _Chee Siok Chin v Minister for Home Affairs_ [2006] 1 SLR(R) 582 (“ _Chee Siok Chin_ ”) at [34]; _Bosch Corp (Japan) v Wiedson International (S) Pte Ltd and others and another suit_ [2013] 2 SLR 700 (“ _Bosch Corp_ ”) at [31]). 
+26     While counsel focused on issue estoppel, it must be kept in mind that abuse of process involves _more_ than simply the doctrine of _res judicata_ and its constituent or related doctrines. For instance, a proceeding can be struck out on the basis of abuse of process, if it is manifestly groundless, or without foundation, or serves no useful purpose (see _Chee Siok Chin v Minister for Home Affairs_ <span class="citation">[2006] 1 SLR(R) 582</span> (“ _Chee Siok Chin_ ”) at [34]; _Bosch Corp (Japan) v Wiedson International (S) Pte Ltd and others and another suit_ <span class="citation">[2013] 2 SLR 700</span> (“ _Bosch Corp_ ”) at [31]). 
 
 **_Analysis and Decision_** 
 
@@ -197,7 +197,7 @@ Instead, careful analysis of the decision of the Court of Three Judges is requir
 
  (a) First, the Court of Three Judges had clearly descended to a fine level of detail in examining the facts and law concerning whether the Agreement was tainted with illegality (see a summary of the relevant parts of the decision at [13] to [16] above). Indeed, it emphasised that the Law Society was required to prove that the transaction involved an illegal purpose of unlicensed moneylending ( Leong Pek Gan at [58]). This meant that the Law Society had to prove , on the basis of evidence received by the Disciplinary Tribunal (which included Mr Ho’s evidence), both that the Agreement was a loan, and that the Plaintiff was carrying on a business of moneylending. 
 
- (b) Second, and related to the first point above, it must be kept in mind that the standard of proof in disciplinary proceedings is higher than the standard of balance of probabilities as adopted in civil proceedings. Indeed, the applicable standard in disciplinary proceedings is the criminal standard of beyond reasonable doubt ( Leong Pek Gan at [99]; and see, eg , Law Society of Singapore v Wan Hui Hong James [2013] 3 SLR 221 at [46]-[52], Wong Keng Leong Rayney v Law Society of Singapore [2007] 4 SLR(R) 377 at [38]). As such, the Law Society would have had to prove the issues to a higher level of certainty in Leong Pek Gan , than the Defendants would have had to do in raising the defence of illegality in Suit 843. 
+ (b) Second, and related to the first point above, it must be kept in mind that the standard of proof in disciplinary proceedings is higher than the standard of balance of probabilities as adopted in civil proceedings. Indeed, the applicable standard in disciplinary proceedings is the criminal standard of beyond reasonable doubt ( Leong Pek Gan at [99]; and see, eg , Law Society of Singapore v Wan Hui Hong James <span class="citation">[2013] 3 SLR 221</span> at [46]-[52], Wong Keng Leong Rayney v Law Society of Singapore <span class="citation">[2007] 4 SLR(R) 377</span> at [38]). As such, the Law Society would have had to prove the issues to a higher level of certainty in Leong Pek Gan , than the Defendants would have had to do in raising the defence of illegality in Suit 843. 
 
  (c) Third, while the Law Society and Ms Leong were technically the parties to the disciplinary proceedings, Mr Ho and the Defendants were involved as witnesses. Mr Ho gave evidence and was cross-examined before the Disciplinary Tribunal (see, eg , Leong Pek Gan at [66] and Leong Pek Gant (DT) at [62] and [64]). Likewise, the 1st Defendant was the complainant in these proceedings, and the evidence of both Defendants was taken in the proceedings (see, eg , Leong Pek Gan at [91] and [98]). 
 
@@ -214,7 +214,7 @@ Instead, careful analysis of the decision of the Court of Three Judges is requir
 
 **_The Law_** 
 
-33     The law in relation to striking out under O 18 r 19(1)( _b_ ) of the Rules of Court is fairly settled. In _The Bunga Melati 5_ [2012] 4 SLR 546 (“ _The Bunga Melati 5_ ”), the Court of Appeal held (at [33]) that proceedings which are “frivolous or vexatious” are those which are “obviously or plainly unsustainable”. In this regard, an action that is obviously or plainly unsustainable is one which is either ( _The Bunga Melati 5_ at [39]): 
+33     The law in relation to striking out under O 18 r 19(1)( _b_ ) of the Rules of Court is fairly settled. In _The Bunga Melati 5_ <span class="citation">[2012] 4 SLR 546</span> (“ _The Bunga Melati 5_ ”), the Court of Appeal held (at [33]) that proceedings which are “frivolous or vexatious” are those which are “obviously or plainly unsustainable”. In this regard, an action that is obviously or plainly unsustainable is one which is either ( _The Bunga Melati 5_ at [39]): 
 
  (a) legally unsustainable, viz , where it is clear that even if a party were to succeed in proving all the facts he offers to prove, he will not be entitled to the remedy that he seeks; or 
 

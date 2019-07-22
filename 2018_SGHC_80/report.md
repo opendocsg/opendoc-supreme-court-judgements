@@ -22,7 +22,7 @@ _Constitutional Law_ – _Parliament_ – _by-election_
 
 _Elections_ – _voting_ – _right to vote_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 73 of 2018 was dismissed by the Court of Appeal on 10 April 2019. See [2019] SGCA 25.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 73 of 2018 was dismissed by the Court of Appeal on 10 April 2019. See <span class="citation">[2019] SGCA 25</span>.] 
 
 9 April 2018 Judgment reserved. 
 
@@ -67,7 +67,7 @@ _Elections_ – _voting_ – _right to vote_
 
 8       In 1988, the Constitution was amended to introduce the GRC scheme to ensure the representation in Parliament of Members from the Malay, Indian and other minority communities. The GRC scheme was implemented principally through the insertion of Article 39A to the Constitution and simultaneous amendments to the PEA. Under the scheme, the President may declare any constituency as a GRC and designate that constituency as one in which any election is to be held on the basis of a group of between three to six candidates. In addition, the President is to designate every GRC as either (a) a constituency where at least one of the candidates in every group must be a person belonging to the Malay community or (b) a constituency where at least one of the candidates in every group must be a person belonging to the Indian or other minority communities. 
 
-9       When Article 49(1) of the Constitution was enacted, there was no GRC scheme. When the seat in a single Member constituency (“SMC”) is vacated mid-term, _ie_ , during a government’s term of office, a by-election has to be held to fill the vacancy: Article 49(1) of the Constitution. The application of Article 49(1) in the case of an SMC is relatively straightforward; see, also, _Vellama d/o Marie Muthu v Attorney-General_ [2013] 4 SLR 1 (“ _Vellama_ ”). The question in the present case is whether a by-election must similarly be held when one of the seats in a GRC is vacated mid-term. 
+9       When Article 49(1) of the Constitution was enacted, there was no GRC scheme. When the seat in a single Member constituency (“SMC”) is vacated mid-term, _ie_ , during a government’s term of office, a by-election has to be held to fill the vacancy: Article 49(1) of the Constitution. The application of Article 49(1) in the case of an SMC is relatively straightforward; see, also, _Vellama d/o Marie Muthu v Attorney-General_ <span class="citation">[2013] 4 SLR 1</span> (“ _Vellama_ ”). The question in the present case is whether a by-election must similarly be held when one of the seats in a GRC is vacated mid-term. 
 
 **Leave required under O 53 r 1 of the Rules of Court** 
 
@@ -109,7 +109,7 @@ sufficient interest or standing in the matter; and (c) the applicant shows an ar
 
 _Principles of statutory interpretation_ 
 
-19     The principles are not in dispute. Both the Applicant and the Respondent have referred me to the Court of Appeal’s decision in _Tan Cheng Bock v Attorney General_ [2017] 2 SLR 850 (“ _Tan Cheng Bock_ ”). It is common ground that 
+19     The principles are not in dispute. Both the Applicant and the Respondent have referred me to the Court of Appeal’s decision in _Tan Cheng Bock v Attorney General_ <span class="citation">[2017] 2 SLR 850</span> (“ _Tan Cheng Bock_ ”). It is common ground that 
 
  (a) the purposive approach applies to the Constitution which should be interpreted in a way that gives effect to the intent and will of Parliament; and 
 
@@ -175,7 +175,7 @@ _The Respondent’s Interpretation_
 
 (1) Updating construction 
 
-28     An updating construction is based on the presumption that the Legislature intends the court to apply to an ongoing statute a construction that continuously updates its wording to allow for changes since the statute was framed: _Comptroller of Income Tax v MT_ [2006] 3 SLR(R) 688 (“ _CIT_ ”) at [44], citing FAR Bennion, _Statutory Interpretation: A Code_ (Butterworths, 4th Ed, 2002) at p 762. 
+28     An updating construction is based on the presumption that the Legislature intends the court to apply to an ongoing statute a construction that continuously updates its wording to allow for changes since the statute was framed: _Comptroller of Income Tax v MT_ <span class="citation">[2006] 3 SLR(R) 688</span> (“ _CIT_ ”) at [44], citing FAR Bennion, _Statutory Interpretation: A Code_ (Butterworths, 4th Ed, 2002) at p 762. 
 
 29     In _CIT_ , the court was faced with two statutes which had a link to each other, but only one was later amended. The question before the court was whether an updating construction should be applied to the statute (which had not been amended) by importing the effect of the amendment that was made to the other statute. The court in _CIT_ applied a three-stage analytical framework (at [46][47]) in determining whether an updating construction should be applied: 
 
@@ -230,7 +230,7 @@ The court explained (at [48]) that in applying an updating construction, the cou
 
  (c) third, it is possible to state with certainty what the additional words would be that the draftsman would have inserted and that Parliament would have approved had their attention been drawn to the omission. 
 
-See _Nam Hong Construction & Engineering Pte Ltd v Kori Construction (S) Pte Ltd_ [2016] 4 SLR 694 (“ _Nam Hong_ ”) at [55], which followed _Kok Chong Weng and others v Wiener Robert Lorenz and others (Ankerite Pte Ltd, intervener)_ [2009] 2 SLR(R) 709 (“ _Kok Chong Weng_ ”). 
+See _Nam Hong Construction & Engineering Pte Ltd v Kori Construction (S) Pte Ltd_ <span class="citation">[2016] 4 SLR 694</span> (“ _Nam Hong_ ”) at [55], which followed _Kok Chong Weng and others v Wiener Robert Lorenz and others (Ankerite Pte Ltd, intervener)_ <span class="citation">[2009] 2 SLR(R) 709</span> (“ _Kok Chong Weng_ ”). 
 
 41     In my view, the three conditions set out in _Kok Chong Weng_ are easily satisfied in the present case. First, as discussed earlier, it is clearly Parliament’s intent that no by-election is required in the case of a GRC unless all the seats have been vacated. Second, it is apparent that Parliament gave effect to this intention in s 24(2A) of the PEA but inadvertently omitted to deal with Article 49(1) of the Constitution. Third, it is clear that if Parliament’s attention had been drawn to the omission, it would have approved of the addition in Article 49(1) of language similar to that in s 24(2A) of the PEA. Article 49(1) can therefore also be given a rectifying construction by adding language similar to that in s 24(2A) of the PEA. 
 
@@ -292,7 +292,7 @@ _Comparing the possible interpretations against the legislative purpose_
 
  [I]t is vital to remind ourselves that the form of government of the Republic of Singapore as reflected in the Constitution is the Westminster model of government, with the party commanding the majority support in Parliament having the mandate to form the government. The authority of the government emanates from the people. Each Member represents the people of the constituency who voted him into Parliament. The voters of a constituency are entitled to have a Member representing and speaking for them in Parliament. The Member is not just the mouthpiece but the voice of the people of the constituency. 
 
-55     The Applicant also relies on _Yong Vui Kong v Public Prosecutor_ [2015] 2 SLR 1129 (“ _Yong Vui Kong_ ”). In that case, the Court of Appeal noted (at [69]) that the basic structure doctrine postulates that there are certain fundamental features of a constitution that cannot be amended by Parliament. However, the Court of Appeal expressed no view on whether the basic structure doctrine is part of the law in Singapore since it was not considering the validity of a constitutional amendment (at [72]). 
+55     The Applicant also relies on _Yong Vui Kong v Public Prosecutor_ <span class="citation">[2015] 2 SLR 1129</span> (“ _Yong Vui Kong_ ”). In that case, the Court of Appeal noted (at [69]) that the basic structure doctrine postulates that there are certain fundamental features of a constitution that cannot be amended by Parliament. However, the Court of Appeal expressed no view on whether the basic structure doctrine is part of the law in Singapore since it was not considering the validity of a constitutional amendment (at [72]). 
 
 56     Nevertheless, the Applicant relies on the Court of Appeal’s observations in _Yong Vui Kong_ (at [69]) that the right to vote cannot be found in the Constitution and that the Government had acknowledged in 2001 that it is part of the basic structure of the Constitution. The Court of Appeal also referred (at [70]) to the passage from _Vellama_ set out at [54] above which expressed the philosophical underpinnings of the right to vote in the Westminster model of government set up by the Constitution. 
 
@@ -319,7 +319,7 @@ must resign if any seat in the GRC has been vacated. In my view, it is patently 
 
 64     I therefore dismiss the application. 
 
-65     As for costs, the Applicant referred me to the High Court decision in _Vellama d/o Marie Muthu v Attorney-General_ [2013] 1 SLR 797 in which the High Court made no order as to costs on the ground that the application raised public law issues of general importance and the applicant was not seeking to protect some private interest. The Respondent accepted that public interest is a relevant factor to consider. However, the Respondent submitted that in the present case, the primary focus of the application was on the mandatory order to compel the remaining MPs in the MYT GRC to vacate their seats and there was no basis at all for this. The Respondent therefore submitted that costs should follow the event. I agreed with the Respondent. As the Applicant did not disagree with the Respondent’s quantification of costs, I ordered costs to be paid by the Applicant to the Respondent fixed at $10,764.35 inclusive of disbursements. 
+65     As for costs, the Applicant referred me to the High Court decision in _Vellama d/o Marie Muthu v Attorney-General_ <span class="citation">[2013] 1 SLR 797</span> in which the High Court made no order as to costs on the ground that the application raised public law issues of general importance and the applicant was not seeking to protect some private interest. The Respondent accepted that public interest is a relevant factor to consider. However, the Respondent submitted that in the present case, the primary focus of the application was on the mandatory order to compel the remaining MPs in the MYT GRC to vacate their seats and there was no basis at all for this. The Respondent therefore submitted that costs should follow the event. I agreed with the Respondent. As the Applicant did not disagree with the Respondent’s quantification of costs, I ordered costs to be paid by the Applicant to the Respondent fixed at $10,764.35 inclusive of disbursements. 
 
  Copyright © Government of Singapore. 
 

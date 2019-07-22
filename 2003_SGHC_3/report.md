@@ -47,7 +47,7 @@ _Civil Procedure_ – _Appeals_ – _Whether leave to appeal to the Court of App
 
  We confirm that the Workmen Compensation is still pending and held in abeyance pending the outcome of the Common Law action. 
 
- (viii) 3.09.2002 – the Commissioner informed the solicitors for the plaintiff that after the decision of Chua Ah Beng v Commissioner of Labour [2002] 4 SLR 854 claims are not held in abeyance pending the outcome of common law actions, and the claimant is required to withdraw or discontinue his claim under the Workmen’s Compensation Act. 
+ (viii) 3.09.2002 – the Commissioner informed the solicitors for the plaintiff that after the decision of Chua Ah Beng v Commissioner of Labour <span class="citation">[2002] 4 SLR 854</span> claims are not held in abeyance pending the outcome of common law actions, and the claimant is required to withdraw or discontinue his claim under the Workmen’s Compensation Act. 
 
 4       The application to strike out the claim against the second defendant was made on 5 August 2002, before the decision in _Chua Ah Beng’s_ case was delivered on 30 August 2002 and before the Commissioner’s letter of 3 September 2002. 
 
@@ -80,7 +80,7 @@ and she held at para 16 that
 
 9       She continued at para 18 that the withdrawal must be expressly notified to the Commissioner and that it was not enough that the claimant formed the intention not to proceed with the claim. 
 
-10     It has also been made clear that a claim is not considered withdrawn when the claimant allows it to be dormant. Tay Yong Kwang JC (as he then was) held in _Chua Ah Beng v Commissioner for Labour_ [2002] 4 SLR 854 at para 38 that 
+10     It has also been made clear that a claim is not considered withdrawn when the claimant allows it to be dormant. Tay Yong Kwang JC (as he then was) held in _Chua Ah Beng v Commissioner for Labour_ <span class="citation">[2002] 4 SLR 854</span> at para 38 that 
 
  As long as an application exists before the Commissioner for Labour, whether it is active or dormant, the plaintiff cannot maintain his action in court. In the Ying Tai Plastic case, the Court of Appeal said the ‘right to compensation under the Act lies dormant while he pursues his common law action’. It is the ‘right to compensation’ and not ‘the claim filed’ that lies dormant. The Court of Appeal also made it clear that the right to maintain a court action revives only when the application under the WCA is withdrawn. 
 

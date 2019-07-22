@@ -55,7 +55,7 @@ _Contract_ – _Contractual terms_ – _Rules of construction_ – _Clause provi
 
 **The law** 
 
-11     The law in the area of the interpretation and construction of contracts has received a fair bit of attention lately, and was comprehensively examined in the recent Court of Appeal decision of _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] 3 SLR 1029 (“ _Zurich Insurance_ ”). 
+11     The law in the area of the interpretation and construction of contracts has received a fair bit of attention lately, and was comprehensively examined in the recent Court of Appeal decision of _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] 3 SLR 1029</span> (“ _Zurich Insurance_ ”). 
 
 12     As both parties urged this court to consider the surrounding circumstances and the object of the Agreement to advance their respective interpretations of Clause 9.3, it is necessary for me to set out the law in Singapore regarding the admissibility of extrinsic evidence when interpreting and construing contractual documents. 
 
@@ -120,7 +120,7 @@ _Reasonably available to all parties_
 
 _Relates to a clear or obvious context_ 
 
-21     Additionally, in _Zurich Insurance_ , the Court of Appeal added a threshold requirement and cited its earlier decision of _Sandar Aung v Parkway Hospitals Singapore Pte Ltd_ [2007] 2 SLR 891 (“ _Sandar Aung_ ”) with approval (at [128]-[129]): 
+21     Additionally, in _Zurich Insurance_ , the Court of Appeal added a threshold requirement and cited its earlier decision of _Sandar Aung v Parkway Hospitals Singapore Pte Ltd_ <span class="citation">[2007] 2 SLR 891</span> (“ _Sandar Aung_ ”) with approval (at [128]-[129]): 
 
  128 Crucially, the context of the contract must be clear or obvious. This was emphasised in Sandar Aung ([105] supra ), where the court stated (at [29]) that it would: 
 
@@ -203,7 +203,7 @@ employment of the appellant) was not precise enough to point to a clear or obvio
 
 29     Similarly, the defendant was unable to point to any evidence or circumstance that would objectively show that both parties were concerned with preserving an exit clause that allowed either one of them to unilaterally escape from a bad bargain. The defendant could not show any supporting evidence that the parties had intended specifically for Clause 9.3 to address that alleged concern. Contrary to the defendant’s argument, it might even be possible for one to counter-argue that, as new companies, both parties would have been interested in securing a long-term relationship in an attempt to reduce the inherent uncertainties in the market. The mere fact that both parties were new companies when they entered into the Agreement was not sufficient, in itself, to point to a clear or obvious context that would allow it to be taken into account as part of the relevant background matrix. 
 
-30     It was argued by the plaintiff that because of the scale and complexity of ground handling services and the significant costs involved in switching service providers, it would have been unthinkable for them to have agreed to an exit clause. In fact, the plaintiff was able to point towards the Agreement itself to find support that both parties had intended to contract on a long-term basis. The law is clear that the courts will construe a contract as a whole document. The Court of Appeal emphasised this in _Travista Development Ltd v Tan Kim Swee Augustine_ [2008] 2 SLR 474 (at [20]): 
+30     It was argued by the plaintiff that because of the scale and complexity of ground handling services and the significant costs involved in switching service providers, it would have been unthinkable for them to have agreed to an exit clause. In fact, the plaintiff was able to point towards the Agreement itself to find support that both parties had intended to contract on a long-term basis. The law is clear that the courts will construe a contract as a whole document. The Court of Appeal emphasised this in _Travista Development Ltd v Tan Kim Swee Augustine_ <span class="citation">[2008] 2 SLR 474</span> (at [20]): 
 
  20 The law on documentary construction is clear. It is an established principle of documentary interpretation that a clause must not be considered in isolation, but must instead be considered in the context of the whole document (see Kim Lewison, The Interpretation of Contracts (Sweet 
 
@@ -245,7 +245,7 @@ While recitals do not impose legal obligations on the parties, they can often be
 
  The recitals have some role to play in the construction of the operative provisions of the deed or contract. They are an obvious source of readily accessible ‘background’ or ‘factual matrix’. 
 
-It was also stated in the Court of Appeal decision of _Management Corporation Strata Title Plan No 1933 v Liang Huat Aluminium Ltd_ [2001] 3 SLR 253 (at [7]): 
+It was also stated in the Court of Appeal decision of _Management Corporation Strata Title Plan No 1933 v Liang Huat Aluminium Ltd_ <span class="citation">[2001] 3 SLR 253</span> (at [7]): 
 
  ... First, a recital in an instrument can only assist in the construction of the substantive terms thereof; it cannot override or control the operation of the substantive terms, where such terms are clear and unambiguous. In Walsh v Trevanion [1850] 15 QB 733 at 751, Patteson J laid down the following rule of construction on the recital in relation to the operative part of a deed: 
 

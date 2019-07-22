@@ -47,14 +47,14 @@ remote monitoring of its tugboats. This system is called the Vessel Monitoring S
 
 8       The plaintiff averred that the first defendant owed his employers a duty of good faith and fidelity and a duty, so long as the contract of employment subsisted, not to misuse any confidential information or to disclose it to a third party. The plaintiff also averred that, following the termination of his employment, the first defendant owed a duty not to use or disclose any trade secrets or other confidential information. It alleged that the defendants have manufactured and sold a VMS similar to the plaintiff’s by using the plaintiff’s trade secrets and by infringing its copyright in the computer programme for operating the plaintiff’s VMS and in the drawing of a key component thereof. The defendants refer to their system as _On-Line Vehicle Management System_. For the purposes of this judgment, I shall refer to VMS as a generic term for a system that is capable of remote monitoring of vessels. The plaintiff therefore took out this application to stop the defendants from further breaches. Since the patent application has not been published, the application is also to prevent the defendants from further disclosing the confidential information contained in the patent application. The defendants deny the plaintiff’s claims and allegations. 
 
-9       In _Singapore Press Holdings Ltd v Brown Noel Trading Pte Ltd & Ors_ [1994] 3 SLR 151, the Court of Appeal said (at 158E): 
+9       In _Singapore Press Holdings Ltd v Brown Noel Trading Pte Ltd & Ors_ <span class="citation">[1994] 3 SLR 151</span>, the Court of Appeal said (at 158E): 
 
  The principles governing the granting of interim injunctions, whether mandatory or prohibitory 
 
 
  were stated by this court in Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd. 
 
-The Court of Appeal in _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd_ [1992] 2 SLR 729 stated as follows (at 742H and 743F-G): 
+The Court of Appeal in _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd_ <span class="citation">[1992] 2 SLR 729</span> stated as follows (at 742H and 743F-G): 
 
  In a normal case, following the guidelines in American Cyanamid Company v Ethicon Ltd , an interlocutory injunction may be granted on the applicant showing a serious question to be tried. 
 
@@ -87,7 +87,7 @@ The Court of Appeal in _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte
 
  (d) Whether the relevant information can be easily isolated from other information which the employee is free to use or disclose. ... 
 
-The principles stated by the English Court of Appeal were endorsed by our Court of Appeal in _Tang Siew Choy & Ors v Certact Pte Ltd_ [1993] 3 SLR 44 (at 50-52). 
+The principles stated by the English Court of Appeal were endorsed by our Court of Appeal in _Tang Siew Choy & Ors v Certact Pte Ltd_ <span class="citation">[1993] 3 SLR 44</span> (at 50-52). 
 
 12     The plaintiff averred that all information pertaining to the VMS are highly confidential and would constitute trade secrets. It has particularised in its statement of claim the information relating to its VMS. It has also given evidence on how the VMS was developed over time by testing various equipment and technology. 
 
@@ -100,7 +100,7 @@ The principles stated by the English Court of Appeal were endorsed by our Court 
 
 16     The first defendant wrote the computer programme (as defined in paragraph 6 of the statement of claim) and did the SCADA Box drawing while developing the VMS during his employment in the plaintiff. By virtue of s 30(6) (read with s 7A) of the Copyright Act (Cap 63), the plaintiff is the owner of the copyright subsisting in the said computer programme and drawing. Section 10(1)(b) of the said Act provides that a reproduction, adaptation or copy of a work includes doing the same in respect of a substantial part of the work. It is therefore no defence to aver that no infringement of copyright has taken place merely because something has been added to or subtracted from the original. 
 
-17     The defendants say that the SCADA Box drawing “is basic which anyone can draw” and has “no sophisticated or unique specifications”. Even if the work in question is not of a complex nature, Chao Hick Tin J in _Re AUVI Trademark_ [1992] 1 SLR 639 has said (at 648G-I): 
+17     The defendants say that the SCADA Box drawing “is basic which anyone can draw” and has “no sophisticated or unique specifications”. Even if the work in question is not of a complex nature, Chao Hick Tin J in _Re AUVI Trademark_ <span class="citation">[1992] 1 SLR 639</span> has said (at 648G-I): 
 
  The cases would appear to show that simplicity per se does not prevent a work from acquiring copyright. ... Even drawings of things in common use such as engines and gear boxes are copyrightable. ... As I see it, where an author has made use of an existing subject matter in creating his drawing, it is always a question of determining whether he has put in sufficient skill and labour to justify copyright protection for his result. 
 

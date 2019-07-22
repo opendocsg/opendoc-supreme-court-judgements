@@ -102,7 +102,7 @@ _Legal Profession_ – _Bill of costs_ – _Appeal against solicitors' successfu
 
 There was no attachment to this e-mail. 
 
-15     The appellant submitted that, pursuant to the decision of Judith Prakash J in _SM Integrated Transware Pte Ltd v Schenker Singapore (Pte) Ltd_ [2005] 2 SLR 651 (“ _SM Integrated Transware_ ”), the exchange of e-mails satisfied the requirements under s 111 of the Legal Profession Act (Cap 161, 2001 Rev Ed) (“LPA”) for agreements as to costs for contentious businesses to be in writing and signed by the client. The alleged agreement as to costs was thus valid and binding upon the 
+15     The appellant submitted that, pursuant to the decision of Judith Prakash J in _SM Integrated Transware Pte Ltd v Schenker Singapore (Pte) Ltd_ <span class="citation">[2005] 2 SLR 651</span> (“ _SM Integrated Transware_ ”), the exchange of e-mails satisfied the requirements under s 111 of the Legal Profession Act (Cap 161, 2001 Rev Ed) (“LPA”) for agreements as to costs for contentious businesses to be in writing and signed by the client. The alleged agreement as to costs was thus valid and binding upon the 
 
 
 respondents. 
@@ -148,7 +148,7 @@ as follows:
 
 27     In _Re A Debtor, No 991 of 1962_ [1963] 1 WLR 51, Lord Denning MR, in determining an application to set aside a statutory demand, opined that the counterclaim, set-off or cross demand of the debtor had to be “genuine”. Lord Denning expressly rejected the language of a “ _prima facie_ case” or a claim with a “reasonable probability of success”, stating that it sufficed if there was a “triable issue”. The standard of a genuine triable issue was also adopted in the English _Practice Note (Bankruptcy: Statutory Demand: Setting Aside)_ [1987] 1 WLR 119 which permitted the setting aside of statutory demands on grounds akin to those under the Bankruptcy Rules. 
 
-28     The decision of Lord Denning MR was followed by this court in _Goh Chin Soon v OverseaChinese Banking Corp Ltd_ [2001] SGHC 17. Lee Seiu Kin JC (as he then was) stressed that the debtor’s claim had to be valid and _bona fide_ , spurious claims being insufficient to warrant the setting aside of a statutory demand. In addition, the value of the debtor’s counterclaim, set-off or cross demand also had to equal or exceed the debt in the statutory demand: see also _Goh Chin Soon v Vickers Capital Ltd_ [2001] 1 SLR 728. 
+28     The decision of Lord Denning MR was followed by this court in _Goh Chin Soon v OverseaChinese Banking Corp Ltd_ <span class="citation">[2001] SGHC 17</span>. Lee Seiu Kin JC (as he then was) stressed that the debtor’s claim had to be valid and _bona fide_ , spurious claims being insufficient to warrant the setting aside of a statutory demand. In addition, the value of the debtor’s counterclaim, set-off or cross demand also had to equal or exceed the debt in the statutory demand: see also _Goh Chin Soon v Vickers Capital Ltd_ <span class="citation">[2001] 1 SLR 728</span>. 
 
 **The decision** 
 
@@ -163,7 +163,7 @@ appellant can be quickly determined. Section 118(1) of the LPA states:
 
 This prohibition is not absolute but is circumscribed by s 119 which empowers the court to authorise the commencement of an action for the recovery of fees due under a bill in certain circumstances, such as where the client is intentionally taking steps to thwart payment. Evidently, therefore, the bar under s 118 of the LPA may be lifted where the justice of the case so requires. 
 
-30     Order 92 r 4 of the Rules of Court (Cap 322, R 5, 2004 Rev Ed) states that the court has the inherent power “to make any order as may be necessary to prevent injustice or to prevent an abuse of the process of the Court”. As stated by the Court of Appeal in _Wee Soon Kim Anthony v Law Society of Singapore_ [2001] 4 SLR 25 at [27] and [30]: 
+30     Order 92 r 4 of the Rules of Court (Cap 322, R 5, 2004 Rev Ed) states that the court has the inherent power “to make any order as may be necessary to prevent injustice or to prevent an abuse of the process of the Court”. As stated by the Court of Appeal in _Wee Soon Kim Anthony v Law Society of Singapore_ <span class="citation">[2001] 4 SLR 25</span> at [27] and [30]: 
 
  It seems to us clear that by its very nature, how an inherent jurisdiction, whether as set out in O 92 r 4 or under common law, should be exercised should not be circumscribed by rigid criteria or tests. In each instance the court must exercise it judiciously. In his lecture on ‘The Inherent Jurisdiction of the Court’ published in Current Legal Problems 1970, Sir Jack Jacob (until lately the General Editor of the Supreme Court Practice ) opined that this jurisdiction may be invoked when it is just and equitable to do so and in particular to ensure the observance of the due process of law, to prevent improper vexation or oppression and to do justice between the parties. Without intending to be exhaustive, we think an essential touchstone is really that of ‘need’. ... 
 
@@ -180,7 +180,7 @@ This prohibition is not absolute but is circumscribed by s 119 which empowers th
 _Validity of the counterclaim, set-off or cross demand on the bills of costs_ 
 
 
-33     It should be noted at the outset that it is not the function of this court, in determining the applications to set aside the statutory demands, to adjudicate upon the merits of the respondents’ counterclaim, set-off or cross demand: _Wong Kwei Cheong v ABN-AMRO Bank NV_ [2002] 3 SLR 594. Indeed, this court need only satisfy itself that the respondents _appear_ to have a valid counterclaim, set-off or cross demand amounting to a “genuine triable issue” to warrant the setting aside of the statutory demands. 
+33     It should be noted at the outset that it is not the function of this court, in determining the applications to set aside the statutory demands, to adjudicate upon the merits of the respondents’ counterclaim, set-off or cross demand: _Wong Kwei Cheong v ABN-AMRO Bank NV_ <span class="citation">[2002] 3 SLR 594</span>. Indeed, this court need only satisfy itself that the respondents _appear_ to have a valid counterclaim, set-off or cross demand amounting to a “genuine triable issue” to warrant the setting aside of the statutory demands. 
 
 34     On the facts, the five bills of costs rendered to the appellant do appear to provide the respondents with a valid counterclaim, set-off or cross demand which exceeded the debts in the statutory demands. However, the appellant disputed the work done by the firm in relation to his matters and contended that the bills of costs are shams. In addition, he claimed that no bill ought to have been rendered for the Suit because full payment had already been made pursuant to a fee agreement between the parties. Even if the bills of costs were valid, the appellant argued that LCP was not entitled to set off fees owed to the firm against his personal debts. 
 
@@ -201,7 +201,7 @@ _Validity of the counterclaim, set-off or cross demand on the bills of costs_
 
 39     Therefore, I incline towards the opinion that the exchange of e-mails is likely to satisfy both the written record and signature requirements of s 111 of the LPA. This is especially since there was no dispute as to the authenticity of the e-mails and the parties did not deny sending and receiving the e-mails in question, as was the case in _SM Integrated Transware_. 
 
-40     However, there can be no agreement as to costs binding upon the parties if there was no meeting of minds, even if both the requirements set out in s 111 of the LPA are satisfied. The respondents rightly pointed out that there was no attachment to the final e-mail sent by LCP to the appellant at 7.12pm, even though it refers to a “revised fee agreement”. More importantly, there was never any acceptance by the appellant of the revised fee offer from LCP. Indeed, in ordering the taxation of the bills of costs rendered to the appellant in Petition of Course No 3 of 2005, Lai Siu Chiu J stated (see _Chor Pee and Partners v Wee Soon Kim Anthony_ [2005] SGHC 101 at [58]): 
+40     However, there can be no agreement as to costs binding upon the parties if there was no meeting of minds, even if both the requirements set out in s 111 of the LPA are satisfied. The respondents rightly pointed out that there was no attachment to the final e-mail sent by LCP to the appellant at 7.12pm, even though it refers to a “revised fee agreement”. More importantly, there was never any acceptance by the appellant of the revised fee offer from LCP. Indeed, in ordering the taxation of the bills of costs rendered to the appellant in Petition of Course No 3 of 2005, Lai Siu Chiu J stated (see _Chor Pee and Partners v Wee Soon Kim Anthony_ <span class="citation">[2005] SGHC 101</span> at [58]): 
 
  [I]t was clear from the events which transpired before the filing of the Petition that the respondent himself did not accept there was an agreement on legal fees for [the firm’s] or LCP’s conduct of the Suit. 
 
@@ -226,7 +226,7 @@ _Whether Chor Pee is a partnership or sole proprietorship_
 
  holding that a partnership is proved by the receipt of a share of profits, unless it is rebutted by something else; but taking all the circumstances together, not attaching undue weight to any of them, but drawing an inference from the whole. 
 
-This approach was followed in _Chua Ka Seng v Boonchai Sompolpong_ [1993] 1 SLR 482, in which the Court of Appeal held that although the respondent in that case was a “salaried partner” remunerated by a 20% share of the net profits of the firm, he nonetheless had no rights of equity participation in the firm and was not a partner in the true sense of the word. 
+This approach was followed in _Chua Ka Seng v Boonchai Sompolpong_ <span class="citation">[1993] 1 SLR 482</span>, in which the Court of Appeal held that although the respondent in that case was a “salaried partner” remunerated by a 20% share of the net profits of the firm, he nonetheless had no rights of equity participation in the firm and was not a partner in the true sense of the word. 
 
 45     It was undisputed that ML is a “salaried partner” of the firm. However, as noted by Megarry J in _Stekel v Ellice_ [1973] 1 WLR 191 at 199, it is “impossible to say that as a matter of law a salaried partner is or is not necessarily a partner in the true sense”. Whether or not he is a true partner depends on the “substance of the relationship between the parties”, rather than “any mere label attached to that relationship” ( _ibid_ ). 
 

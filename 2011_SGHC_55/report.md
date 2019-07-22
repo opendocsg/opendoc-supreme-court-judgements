@@ -53,7 +53,7 @@ two subscriber shares in Petroval Singapore on trust for PSA [note: 3]. However,
 
 **The law on** **_forum non conveniens_** 
 
-11     The law on _forum non conveniens_ is set out in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _Spiliada_ ”). The law, commonly referred to as the _Spiliada_ principles, has been discussed in a host of local decisions, and it is sufficient to refer to the Court of Appeal’s decision in _CIMB Bank Bhd v Dresdner Kleinwort Ltd_ [2008] 4 SLR(R) 543 where it explained at [26]: 
+11     The law on _forum non conveniens_ is set out in _Spiliada Maritime Corporation v Cansulex Ltd_ [1987] AC 460 (“ _Spiliada_ ”). The law, commonly referred to as the _Spiliada_ principles, has been discussed in a host of local decisions, and it is sufficient to refer to the Court of Appeal’s decision in _CIMB Bank Bhd v Dresdner Kleinwort Ltd_ <span class="citation">[2008] 4 SLR(R) 543</span> where it explained at [26]: 
 
  The gist of these principles is that, under the doctrine of forum non conveniens , a stay will only be granted where the court is satisfied that there is some other available and more appropriate forum for the trial of the action. The burden of establishing this rests on the defendant and it is not enough just to show that Singapore is not the natural or appropriate forum. The defendant 
 
@@ -173,7 +173,7 @@ that the defendants had agreed to make those misrepresentations. [note: 6] When 
 
 23     After the place of the alleged torts of misrepresentation and conspiracy is established to be Switzerland, the law governing the torts has to be determined. As the plaintiff had pointed out in its 
 
-submissions _[note: 7]_ , the law applicable to determine the law of the tort is the _lex fori, ie_ , the law applicable will be determined by the law of Singapore. By the law of Singapore, in deciding the law applicable for a tort, the “substance of the tort” test is used. It was explained by Belinda Ang Saw Ean J in _Wing Hak Man and another v Bio-Treat Technology Ltd and others_ [2009] 1 SLR(R) 446 at [26] that: 
+submissions _[note: 7]_ , the law applicable to determine the law of the tort is the _lex fori, ie_ , the law applicable will be determined by the law of Singapore. By the law of Singapore, in deciding the law applicable for a tort, the “substance of the tort” test is used. It was explained by Belinda Ang Saw Ean J in _Wing Hak Man and another v Bio-Treat Technology Ltd and others_ <span class="citation">[2009] 1 SLR(R) 446</span> at [26] that: 
 
  ... The test requires the court, in deciding where the alleged conspiracy took place, to “look back over the series of events” constituting the elements of the tort and ask where in substance did the cause of action arise. 
 
@@ -186,7 +186,7 @@ submissions _[note: 7]_ , the law applicable to determine the law of the tort is
 
 As I have found that the misrepresentation and conspiracy took place in Switzerland, the applicable law for both causes of action is the law of Switzerland. 
 
-24     The accepted thinking is that all things being equal, it is preferable that a dispute be determined by a court applying its own law rather than a court applying a foreign law because a court would be more familiar with the former than the latter. The Court of Appeal has ruled in _Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull_ [2007] 1 SLR(R) 377 at [43] and in _JIO Minerals FZC and others v Mineral Enterprises Ltd_ [2011] 1 SLR 391 (“ _JIO Minerals_ ”) at [96] that the mere fact of the application of a foreign governing law may be accorded due weight in the absence of evidence of the content of the foreign law. 
+24     The accepted thinking is that all things being equal, it is preferable that a dispute be determined by a court applying its own law rather than a court applying a foreign law because a court would be more familiar with the former than the latter. The Court of Appeal has ruled in _Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull_ <span class="citation">[2007] 1 SLR(R) 377</span> at [43] and in _JIO Minerals FZC and others v Mineral Enterprises Ltd_ <span class="citation">[2011] 1 SLR 391</span> (“ _JIO Minerals_ ”) at [96] that the mere fact of the application of a foreign governing law may be accorded due weight in the absence of evidence of the content of the foreign law. 
 
 25     It is also settled law that the place of the tort is _prima facie_ the natural forum – see _JIO Minerals_ at [106]. On this basis, Switzerland would be regarded as the natural forum in the normal case, and there was nothing to displace the rule. 
 

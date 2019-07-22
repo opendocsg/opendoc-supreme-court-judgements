@@ -66,7 +66,7 @@ of one month from the date thereof: see O 57 r 4 of the Rules of Court (Cap 322,
 
  (b) a litigant should not be financially prejudiced by the unjustifiable conduct of litigation by his opponent or his opponent’s solicitor. 
 
-16     In _Ho Kon Kim v Lim Gek Kim Betsy_ [2001] 4 SLR 340 at [58], this court had reaffirmed the correctness of the three-stage test conceived in _In re a Barrister (Wasted Costs Order) (No 1 of 1991)_ [1993] QB 293 at 301 and enunciated in _Ridehalgh v Horsefield_ [1994] Ch 205 (“ _Ridehalgh_ ”) at 231 as to how the jurisdiction of the court under O 59 r 8(1) should be exercised: 
+16     In _Ho Kon Kim v Lim Gek Kim Betsy_ <span class="citation">[2001] 4 SLR 340</span> at [58], this court had reaffirmed the correctness of the three-stage test conceived in _In re a Barrister (Wasted Costs Order) (No 1 of 1991)_ [1993] QB 293 at 301 and enunciated in _Ridehalgh v Horsefield_ [1994] Ch 205 (“ _Ridehalgh_ ”) at 231 as to how the jurisdiction of the court under O 59 r 8(1) should be exercised: 
 
  (1) Has the legal representative of whom complaint is made acted improperly, unreasonably or negligently? (2) If so, did such conduct cause the applicant to incur unnecessary costs? (3) If so, is it in all the circumstances just to order the legal representative to compensate the applicant for the whole or any part of the relevant costs? 
 

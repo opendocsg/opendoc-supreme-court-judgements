@@ -16,7 +16,7 @@
 
 _Criminal law_ – _Statutory offences_ – _Misuse of Drugs Act_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 12 of 2014 was dismissed by the Court of Appeal on 2 October 2015. See [2015] SGCA 64.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 12 of 2014 was dismissed by the Court of Appeal on 2 October 2015. See <span class="citation">[2015] SGCA 64</span>.] 
 
 3 November 2014 
 

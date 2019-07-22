@@ -217,7 +217,7 @@ champerty.
 
 35     As I have found that CEL was not in breach of contract, Otech’s claim against Mr Clough for inducing breach of contract is without any foundation. In any case, it is clear that even if CEL was in breach of contract, Otech’s claim against Mr Clough was not proven. 
 
-36     In _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ [2000] 3 SLR 405 at [17], Yong Pung How CJ, who delivered the judgment of the Court of Appeal, outlined what must be proved to succeed in a claim for inducing a breach of contract as follows: 
+36     In _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">[2000] 3 SLR 405</span> at [17], Yong Pung How CJ, who delivered the judgment of the Court of Appeal, outlined what must be proved to succeed in a claim for inducing a breach of contract as follows: 
 
  An act of inducement per se is not by itself actionable. The plaintiff must satisfy a two-fold requirement in order to found a sustainable cause of action: First, he must show that the procurer acted with the requisite knowledge of the existence of the contract (although knowledge of the precise terms is not necessary); and second, that the procurer intended to interfere with its performance. 
 

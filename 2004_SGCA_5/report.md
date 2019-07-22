@@ -41,7 +41,7 @@ _Land_ – _Compulsory acquisitions_ – _Compensation payable_ – _Basis of va
 
 based on comparables, and add them up to constitute the total compensation payable. It argued that the correct approach would be to value the land as a whole and then divide the valuation sum proportionately in accordance with the share value of each strata lot. Even though Swee Hong sought in its Case to split the issue into four sub-heads, it was really one main issue as described in this paragraph. 
 
-6       Before we turn to examine the issue, we would like to touch on a preliminary point raised by the respondent, the Collector. He said that the issue which Swee Hong sought to bring before this court was not a question of law, but a question as to the proper method of valuation, a question of fact. In this regard, the Collector relied upon the following passage of this court in _Tiessen Trading Pte Ltd v Collector of Land Revenue_ [2000] 3 SLR 1 at [17]: 
+6       Before we turn to examine the issue, we would like to touch on a preliminary point raised by the respondent, the Collector. He said that the issue which Swee Hong sought to bring before this court was not a question of law, but a question as to the proper method of valuation, a question of fact. In this regard, the Collector relied upon the following passage of this court in _Tiessen Trading Pte Ltd v Collector of Land Revenue_ <span class="citation">[2000] 3 SLR 1</span> at [17]: 
 
  It was clear ... that the only question raised in this appeal was that of the proper method of valuation of the subject land. While this may safely be regarded as a question of quantum or a question of fact, there was no doubt that it was certainly not a question of law. 
 

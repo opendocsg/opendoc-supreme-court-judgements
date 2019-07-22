@@ -30,7 +30,7 @@ Chan Sek Keong CJ (delivering the judgment of the court):
 
 1       This appeal concerns the collective sale of the freehold condominium development (comprised in Land Lot No 559X TS 21 under Strata Title Plan No 287) at 70 St Thomas Walk known as Phoenix Court which comprises three penthouses on the highest floor and 44 apartment units on the lower floors. 
 
-2       The application for the collective sale of Phoenix Court (“the Application”) was made pursuant to a sale and purchase agreement dated 27 October 2006 (“the S&P Agreement”) entered into between the owners of 46 out of the 47 residential units in Phoenix Court (“the Majority Owners”) and Bukit Panjang Plaza Pte Ltd (“the Purchaser”). The Application was approved by the Strata Titles Board (“the Board”) despite the objections of the appellants, who are the joint subsidiary proprietors of unit No 07-70. The appellants’ appeal against the Board’s decision to the High Court in Originating Summons No 1089 of 2007 was dismissed by Andrew Ang J (“the Judge”) in _Ng Swee Lang v Sassoon Samuel Bernard_ [2008] 1 SLR 522 (“the GD”). 
+2       The application for the collective sale of Phoenix Court (“the Application”) was made pursuant to a sale and purchase agreement dated 27 October 2006 (“the S&P Agreement”) entered into between the owners of 46 out of the 47 residential units in Phoenix Court (“the Majority Owners”) and Bukit Panjang Plaza Pte Ltd (“the Purchaser”). The Application was approved by the Strata Titles Board (“the Board”) despite the objections of the appellants, who are the joint subsidiary proprietors of unit No 07-70. The appellants’ appeal against the Board’s decision to the High Court in Originating Summons No 1089 of 2007 was dismissed by Andrew Ang J (“the Judge”) in _Ng Swee Lang v Sassoon Samuel Bernard_ <span class="citation">[2008] 1 SLR 522</span> (“the GD”). 
 
 3       The Application was made by the respondents in this appeal on behalf of the Majority Owners, who hold 97.92% of the total share value of Phoenix Court (“the Share Value”). The 
 
@@ -95,7 +95,7 @@ Pt VA have given rise to much litigation between minority owners and majority ow
 
  (iii) the Supplemental Agreement was null and void. 
 
- The application was dismissed by the High Court on 6 November 2007 (see Tan Joy Hon v Sassoon Samuel Bernard [2007] SGHC 191). The appellants were not parties to OS 829/07. 
+ The application was dismissed by the High Court on 6 November 2007 (see Tan Joy Hon v Sassoon Samuel Bernard <span class="citation">[2007] SGHC 191</span>). The appellants were not parties to OS 829/07. 
 
  (h) Pending the outcome of OS 829/07, on 13 June 2007, the appellants applied to the 
 
@@ -181,7 +181,7 @@ We agree with the Judge that the above provision is clearly jurisdictional in th
 
  ... [to look] at the whole scheme and purpose of the Act and ... [weigh] the importance of the particular requirement in the context of that purpose and [ask] whether the Legislature would have intended the consequences of a strict construction, having regard to the prejudice to private rights and the claims of the public interest (if any). 
 
-This approach to statutory interpretation has been adopted in England, Australia and Canada and also by our courts (see _PP v Low Kok Heng_ [2007] 4 SLR 183 and _Chai Choon Yong v Central Provident Fund Board_ [2005] 2 SLR 594). It was approved in _Re Ramaschayana Sulistyo_ [2005] 1 SLR 483 by V K Rajah J, who referred to it (at [24]). In _Chee Siok Chin v AG_ [2006] 3 SLR 735 (“ _Chee Siok Chin_ ”), Andrew Phang Boon Leong JA, after referring to the views of Rajah J, said at [82]–[83]: 
+This approach to statutory interpretation has been adopted in England, Australia and Canada and also by our courts (see _PP v Low Kok Heng_ <span class="citation">[2007] 4 SLR 183</span> and _Chai Choon Yong v Central Provident Fund Board_ <span class="citation">[2005] 2 SLR 594</span>). It was approved in _Re Ramaschayana Sulistyo_ <span class="citation">[2005] 1 SLR 483</span> by V K Rajah J, who referred to it (at [24]). In _Chee Siok Chin v AG_ <span class="citation">[2006] 3 SLR 735</span> (“ _Chee Siok Chin_ ”), Andrew Phang Boon Leong JA, after referring to the views of Rajah J, said at [82]–[83]: 
 
  Indeed, this is precisely the approach that I have adopted in the present proceedings, and which, incidentally, was also the approach adopted by Lee [Hun Hoe] J in the Chong Thain Vun case [ Chong Thain Vun v Watson [1968] 1 MLJ 65] (at 73). It might, nevertheless, be helpful to observe that words such as “mandatory” and “directory” are still helpful inasmuch as they assist in focusing on the nature of the provision concerned and (more importantly) on the consequences of non-compliance with it. However, such words do not, in and of themselves, aid 
 

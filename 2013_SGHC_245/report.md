@@ -187,7 +187,7 @@ told that she had not. [note: 2] Subsequently, the Plaintiff consulted with a nu
 
  ( b ) 3 years from the earliest date on which the plaintiff has the knowledge required for bringing an action for damages in respect of the relevant injury, if that period expires later than the period mentioned in paragraph (a). 
 
-34     Section 6(1) is expressly stated to be “[s]ubject to this Act”. Section 24A is a provision of the Limitation Act which carves out exceptions to s 6(1). This was acknowledged by the Singapore Court of Appeal in _Lian Kok Hong v Ow Wah Foong and another_ [2008] 4 SLR(R) 165 (“ _Lian Kok Hong_ ”) (at [14]). Moreover, s 24A is in Pt III of the Limitation Act and s 5 makes it clear that the time limits of Pt II of the Act (which s 6 is in) are subject to Pt III: 
+34     Section 6(1) is expressly stated to be “[s]ubject to this Act”. Section 24A is a provision of the Limitation Act which carves out exceptions to s 6(1). This was acknowledged by the Singapore Court of Appeal in _Lian Kok Hong v Ow Wah Foong and another_ <span class="citation">[2008] 4 SLR(R) 165</span> (“ _Lian Kok Hong_ ”) (at [14]). Moreover, s 24A is in Pt III of the Limitation Act and s 5 makes it clear that the time limits of Pt II of the Act (which s 6 is in) are subject to Pt III: 
 
  Part II to be subject to Part III 
 
@@ -272,7 +272,7 @@ on 5 June 2012 stating that the EO had been revoked by 19 July 2009.
 
 52     Regarding the degree of knowledge required, reasonable belief rather than absolute knowledge is enough to start the time running: _Lian Kok Hong_ at [41]: 
 
- What then is the degree of knowledge required? In [ Haward v Fawcetts [2006] 1 WLR 682 ("Haward") ], the House of Lords held that knowledge does not mean knowing for certain and beyond possibility of contradiction (see, for example, Haward at [9]). The same position has been adopted locally. It suffices to refer to only one of such cases. In [ Prosperland Pte Ltd v Civic Construction Pte Ltd [2004] 4 SLR(R) 129], the High Court approvingly referred to Halford v 
+ What then is the degree of knowledge required? In [ Haward v Fawcetts [2006] 1 WLR 682 ("Haward") ], the House of Lords held that knowledge does not mean knowing for certain and beyond possibility of contradiction (see, for example, Haward at [9]). The same position has been adopted locally. It suffices to refer to only one of such cases. In [ Prosperland Pte Ltd v Civic Construction Pte Ltd <span class="citation">[2004] 4 SLR(R) 129</span>], the High Court approvingly referred to Halford v 
 
 
  Brookes [1991] 1WLR 428, where Lord Donaldson of Lymington MR noted at 443 as follows: 
@@ -314,7 +314,7 @@ _Wrongful arrest_
 
  23 One minor matter, not affecting questions of construction of the legislation, is that the judge, and to some extent the submissions on appeal, spoke as though unlawful arrest was itself a tort. That is not strictly correct. A lawful arrest can provide the legal justification for what would otherwise be the tort of false imprisonment. If reasonable force is used in the course of effecting a lawful arrest, that can provide a legal justification for what would otherwise be an assault or battery. However, unlawful arrest is not a tort separate to assault, battery and false imprisonment. 
 
-58     In _Zainal bin Kuning and others v Chan Sin Mian Michael and another_ [1996] 2 SLR(R) 858 (“ _Zainal_ ”), the Court of Appeal appeared to consider wrongful arrest and false imprisonment interchangeably. 
+58     In _Zainal bin Kuning and others v Chan Sin Mian Michael and another_ <span class="citation">[1996] 2 SLR(R) 858</span> (“ _Zainal_ ”), the Court of Appeal appeared to consider wrongful arrest and false imprisonment interchangeably. 
 
 59     As mentioned above at [22], the Plaintiff himself acknowledged that his claim for wrongful arrest was the same as his claim for false imprisonment. He was only concerned that if his claim for wrongful arrest was struck out, he would be precluded from relying on the circumstances leading to his alleged wrongful arrest. I was of the view that striking out that claim did not preclude him from relying on such circumstances. Indeed the Defendant conceded this and accepted that he could also use the words “wrongful arrest” to describe the circumstances but stressed that “wrongful arrest” as a separate and distinct tort from false imprisonment did not exist. I agreed. 
 
@@ -368,7 +368,7 @@ _Abuse of Process_
 
 72     The concept of abuse of process is more commonly relied on as a ground for terminating proceedings that constitute an abuse. However, in specific instances, abuse of process is actionable as a tort: see _Land Securities plc and others v Fladgate Fielder (a firm)_ [2010] 2 WLR 1265 (“ _Land Securities_ ”) for a comprehensive survey of the tort. 
 
-73     The Singapore Court of Appeal in _Law Society of Singapore v Tan Guat Neo Phyllis_ [2008] 2 SLR(R) 239 explained the concept of abuse of process at [130]: 
+73     The Singapore Court of Appeal in _Law Society of Singapore v Tan Guat Neo Phyllis_ <span class="citation">[2008] 2 SLR(R) 239</span> explained the concept of abuse of process at [130]: 
 
  The judicial process is the curial mechanism for the resolution and disposal of civil disputes and criminal prosecutions in accordance with and subject to evidentiary and procedural rules. The use of the judicial process for a purpose other than that for which it is established is regarded by the court as an abuse of its process. Although the concept of “abuse of process” is not a precise one, its essence is the use of the judicial process for a purpose for which it is not intended or in circumstances where the extraneous purpose is the dominant purpose for its use. [emphasis added] 
 
@@ -398,7 +398,7 @@ _Defamation_
 82     I also accepted the Defendant’s argument that in the circumstances, there was no real and substantial tort because of the extremely limited publication of the remarks by the officer and the doctor. There were three persons in the examination room. The Plaintiff, the officer and the doctor. Even if there was a nurse or two, which the Plaintiff did not assert, it would not be more than five people. While the Plaintiff said that the door of the room was open and others could have heard the remarks and also recognised him, as he had been to CGH before where his wife worked as a nurse, the fact was that he did not identify anyone else who had heard the remarks and recognised him. 
 
 
-83     I was of the view that the Defendant was entitled to rely on _Jameel (Yousef) v Dow Jones & Co Inc_ [2005] QB 946 in which the court struck out a defamation action because of the limited publication of the material. This was followed by a District Court in _Kesavan Engineering & Construction Pte Ltd v S P Powerassets Limited_ [2011] SGDC 179. 
+83     I was of the view that the Defendant was entitled to rely on _Jameel (Yousef) v Dow Jones & Co Inc_ [2005] QB 946 in which the court struck out a defamation action because of the limited publication of the material. This was followed by a District Court in _Kesavan Engineering & Construction Pte Ltd v S P Powerassets Limited_ <span class="citation">[2011] SGDC 179</span>. 
 
 **Conclusion** 
 

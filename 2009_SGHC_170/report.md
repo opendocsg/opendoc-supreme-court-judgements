@@ -66,13 +66,13 @@ _Criminal Procedure and Sentencing_ – _Judgment_ – _Accused pleading guilty 
 
  [emphasis added] 
 
-8       According to the district judge (see _Public Prosecutor v Ng Guan Hup_ [2008] SGDC 168 (“the GD”)), this discretion of the prosecution to not further prosecute a defendant may only be exercised _before judgment has been delivered_. The question, in his view, was whether judgment was delivered the moment the court convicts the accused even though the sentence has not yet been pronounced. 
+8       According to the district judge (see _Public Prosecutor v Ng Guan Hup_ <span class="citation">[2008] SGDC 168</span> (“the GD”)), this discretion of the prosecution to not further prosecute a defendant may only be exercised _before judgment has been delivered_. The question, in his view, was whether judgment was delivered the moment the court convicts the accused even though the sentence has not yet been pronounced. 
 
 9       The district judge held that once he had recorded a conviction against the respondent, judgment was delivered and as such, s 184 of the CPC could not apply. 
 
 **Whether “judgment has been delivered”** 
 
-10     In _Arjan Singh v PP_ [1993] 2 SLR 271 (“ _Arjan Singh_ ”), it was held that when the Public Prosecutor informs the court that he will not further prosecute an accused upon a charge, the court has no discretion on the matter and must order a stay of all proceedings on that charge and discharge of the accused from and of the same; however under s 184(2) of the CPC the court has the discretion to direct that the discharge shall or shall not amount to an acquittal. 
+10     In _Arjan Singh v PP_ <span class="citation">[1993] 2 SLR 271</span> (“ _Arjan Singh_ ”), it was held that when the Public Prosecutor informs the court that he will not further prosecute an accused upon a charge, the court has no discretion on the matter and must order a stay of all proceedings on that charge and discharge of the accused from and of the same; however under s 184(2) of the CPC the court has the discretion to direct that the discharge shall or shall not amount to an acquittal. 
 
 11     The issue in this case – and it is the sole issue – is whether, for the purpose of s 184 of the CPC, judgment has or has not been delivered when the district judge has convicted an accused person but before the sentence is pronounced. This turns on the meaning to be attributed to the word “judgment” in s 184 of the CPC. 
 
@@ -112,7 +112,7 @@ _Where “judgment” may include “sentence”_
 20     By the prosecution’s reckoning, “judgment” in s 258 of the CPC must necessarily _include_ “sentence”. For instance, in an appeal by the prosecution against the acquittal of an accused, if the High Court decides finally to set aside the acquittal and convict the accused, the “judgment in open court” must also include the pronouncement of a sentence for the accused. It would be absurd, the prosecution submitted, if in such cases the delivery of a “judgment” meant only a verdict on the conviction or acquittal of the accused, but did not include “sentence”. 
 
 
-21     Having considered the arguments from both the prosecution and the respondent, the district judge concluded that the legislature had intended to ascribe different meanings to the words “judgment” and “sentence” (see the GD at [10]). He relied first on the distinction drawn between “judgment” and “sentence” in various sections of the CPC, _eg_ ss 241 and 247 (see above at [17] to [20]). The district judge also cited the definition used by Yong Pung How CJ (“Yong CJ”) in _Lim Teck Leng Roland v PP_ [2001] 4 SLR 61 (“ _Roland Lim_ ”) in support of his decision. 
+21     Having considered the arguments from both the prosecution and the respondent, the district judge concluded that the legislature had intended to ascribe different meanings to the words “judgment” and “sentence” (see the GD at [10]). He relied first on the distinction drawn between “judgment” and “sentence” in various sections of the CPC, _eg_ ss 241 and 247 (see above at [17] to [20]). The district judge also cited the definition used by Yong Pung How CJ (“Yong CJ”) in _Lim Teck Leng Roland v PP_ <span class="citation">[2001] 4 SLR 61</span> (“ _Roland Lim_ ”) in support of his decision. 
 
 22     In _Roland Lim_ , the word “judgment” was considered by Yong CJ in the context of s 217 of the CPC. Section 217 of the CPC reads: 
 
@@ -130,7 +130,7 @@ _Where “judgment” may include “sentence”_
 
 The district judge inferred that since a “judgment” is “a final order in a trial _terminating_ in a conviction” [emphasis in original], the sentence is merely a corollary of the conviction (see [11] of the GD). While such an interpretation is, in my view, entirely plausible, it should be noted that the issue of whether a “judgment” includes “sentence” was not considered by Yong CJ. I am thus not persuaded that the district judge’s interpretation is inevitable on the basis of the decision in _Roland Lim_. 
 
-24     On this point, the prosecution referred me to _Wong Hong Toy v PP_ [1994] 2 SLR 396 (“ _Wong Hong Toy_ ”), where the Court of Criminal Appeal examined s 216 of the CPC (the present s 217) and opined (at [57]): 
+24     On this point, the prosecution referred me to _Wong Hong Toy v PP_ <span class="citation">[1994] 2 SLR 396</span> (“ _Wong Hong Toy_ ”), where the Court of Criminal Appeal examined s 216 of the CPC (the present s 217) and opined (at [57]): 
 
  A plain reading of [s 217 of the CPC] shows that the High Court can alter or review its judgment. There is no reason to compel a restrictive interpretation, especially since we are concerned with a superior court of record, which is also the highest court of trial in criminal cases. We must give effect to the plain meaning of the words in the section. To ignore the words ‘other than the High Court’ would be to render them otiose. In our opinion, [s 217 of the CPC] gives sanction to Lai Kew Chai J to alter the fine. It was necessary for him to do so to correct a mistake as to the maximum fine that could be imposed. 
 
@@ -141,9 +141,9 @@ According to the prosecution, this demonstrates clearly that the court interpret
 
 explain its case fully), what the prosecution meant was this – since the court held that s 217 of the CPC conferred on the appellate judge the power to alter or review the sentence, then the court necessarily understood the use of the word “judgment” in s 217 to include “sentence” as well. 
 
-25     The district judge also relied on the case of _PP v Oh Hu Sung_ [2003] 4 SLR 541 (“ _Oh Hu Sung_ ”). He explained at [12] to [14]: 
+25     The district judge also relied on the case of _PP v Oh Hu Sung_ <span class="citation">[2003] 4 SLR 541</span> (“ _Oh Hu Sung_ ”). He explained at [12] to [14]: 
 
- 12 The comments made by Yong CJ in PP v Oh Hu Sung [2003] 4 SLR 541 serves to further fortify this conclusion. In that case, counsel for the accused sought to have his client’s plea of guilt rejected after the court has passed sentence earlier on the same day. The district judge rejected the plea of guilty. Subsequently, upon doing his own research into the law on the issue, the district judge was of the opinion that he should not have rejected the plea of guilty as he was already functus officio the matter as sentence has been passed. He then applied for criminal revision to the High Court. Yong CJ stated that although he agreed that the district judge was functus officio when he passed sentence, s 217 CPC is an exception to the general prohibition against alteration of judgments. The section provides 
+ 12 The comments made by Yong CJ in PP v Oh Hu Sung <span class="citation">[2003] 4 SLR 541</span> serves to further fortify this conclusion. In that case, counsel for the accused sought to have his client’s plea of guilt rejected after the court has passed sentence earlier on the same day. The district judge rejected the plea of guilty. Subsequently, upon doing his own research into the law on the issue, the district judge was of the opinion that he should not have rejected the plea of guilty as he was already functus officio the matter as sentence has been passed. He then applied for criminal revision to the High Court. Yong CJ stated that although he agreed that the district judge was functus officio when he passed sentence, s 217 CPC is an exception to the general prohibition against alteration of judgments. The section provides 
 
  (1) No court other than the High Court, when it has recorded its judgment, shall alter or review the judgment. 
 
@@ -174,7 +174,7 @@ While the district judge chose to interpret this passage to mean that “judgmen
 
  18 The court’s discretion must be judicially applied and for valid reasons. Unlike s 184 CPC, there is no discretion given to the court. If the Public Prosecutor informs the court that he will not further prosecute the accused, the court must grant the accused a discharge. The only discretion that the court can exercise is in its consideration whether to grant a total discharge or a discharge not amounting to an acquittal. Therefore, the functus officio principle is clearly not applicable nor is it relevant to the operation of s 184. As such, it would be inaccurate to rely on that principle as a tool in ascertaining the meaning of “judgment” in s 184. 
 
-29     In my view, the district judge may have misunderstood the prosecution’s arguments. The cases, _eg Ganesun s/o Kannan v PP_ [1996] 3 SLR 560 (“ _Ganesun_ ” ) , _Cheng Siah Johnson v PP_ [2002] 2 SLR 481 (“ _Johnson Cheng_ ”), _Koh Thian Huat v PP_ [2002] 3 SLR 28 (“ _Koh Thian Huat_ ”), all establish the principle that an accused’s plea of guilt can be retracted (in the appropriate circumstances) so long as the trial court has not passed sentence, _even if_ the court has recorded the accused’s conviction and retraction is made on a subsequent occasion _after_ the court has risen for the day. Since s 217 of the CPC clearly renders a lower trial court _functus officio_ once it has recorded its judgment and risen for the day, the cases of _Ganesun_ , _Johnson Cheng_ and _Koh Thian Huat_ would make sense only if the word “judgment” in s 217 of the CPC encompasses “sentence”. Otherwise, the court in all these cases would have been _functus officio_ (and hence unable to exercise its discretion to allow retraction of the accused’s plea of guilt) once it had recorded the conviction of the accused. 
+29     In my view, the district judge may have misunderstood the prosecution’s arguments. The cases, _eg Ganesun s/o Kannan v PP_ <span class="citation">[1996] 3 SLR 560</span> (“ _Ganesun_ ” ) , _Cheng Siah Johnson v PP_ <span class="citation">[2002] 2 SLR 481</span> (“ _Johnson Cheng_ ”), _Koh Thian Huat v PP_ <span class="citation">[2002] 3 SLR 28</span> (“ _Koh Thian Huat_ ”), all establish the principle that an accused’s plea of guilt can be retracted (in the appropriate circumstances) so long as the trial court has not passed sentence, _even if_ the court has recorded the accused’s conviction and retraction is made on a subsequent occasion _after_ the court has risen for the day. Since s 217 of the CPC clearly renders a lower trial court _functus officio_ once it has recorded its judgment and risen for the day, the cases of _Ganesun_ , _Johnson Cheng_ and _Koh Thian Huat_ would make sense only if the word “judgment” in s 217 of the CPC encompasses “sentence”. Otherwise, the court in all these cases would have been _functus officio_ (and hence unable to exercise its discretion to allow retraction of the accused’s plea of guilt) once it had recorded the conviction of the accused. 
 
 30     Against the backdrop of these cases which have touched upon s 217 of the CPC and the 
 
@@ -261,12 +261,12 @@ In Singapore, jury trials were abolished for non-capital offences in 1959. All j
 
 _Whether “judgment” in s 184 may include “sentence”_ 
 
-44     My attention was drawn to a rule of interpretation which pertains specifically to the construction of penal statutes – the strict construction rule. The history and evolution of the rule was examined in _PP v Low Kok Heng_ [2007] 4 SLR 183 (“ _Low Kok Heng_ ”) (at [31] to [38]). This rule 
+44     My attention was drawn to a rule of interpretation which pertains specifically to the construction of penal statutes – the strict construction rule. The history and evolution of the rule was examined in _PP v Low Kok Heng_ <span class="citation">[2007] 4 SLR 183</span> (“ _Low Kok Heng_ ”) (at [31] to [38]). This rule 
 
 
 can be summarised simply as follows: where there is ambiguity and two reasonable constructions of a statute are possible, the statute should be strictly construed to lean in the accused’s favour. 
 
-45     The modern local position on the construction of penal statutes is encapsulated by Yong Pung How CJ in _Forward Food Management v PP_ [2002] 2 SLR 40 (at [26]) in the following terms: 
+45     The modern local position on the construction of penal statutes is encapsulated by Yong Pung How CJ in _Forward Food Management v PP_ <span class="citation">[2002] 2 SLR 40</span> (at [26]) in the following terms: 
 
  [T]he strict construction rule is only applied to ambiguous statutory provisions as a tool of last resort. The proper approach to be taken by a court construing a penal provision is to first consider if the literal and purposive interpretations of the provision leave the provision in ambiguity. It is only after these and other tools of ascertaining Parliament’s intent have been exhausted, that the strict construction rule kicks in in the accused person’s favour. 
 
@@ -299,7 +299,7 @@ can be summarised simply as follows: where there is ambiguity and two reasonable
 
  [emphasis added] 
 
-52     These principles have been repeatedly affirmed by Singapore courts, _eg Ranjit Kaur d/o Awthar Singh v PP_ [1999] 1 SLR 836 (“ _Ranjit Kaur d/o Awthar Singh_ ”), _TS Video and Laser Pte Ltd v Lim Chee Yong and another appeal_ [2002] 1 SLR 68 (“ _TS Video_ ”). 
+52     These principles have been repeatedly affirmed by Singapore courts, _eg Ranjit Kaur d/o Awthar Singh v PP_ <span class="citation">[1999] 1 SLR 836</span> (“ _Ranjit Kaur d/o Awthar Singh_ ”), _TS Video and Laser Pte Ltd v Lim Chee Yong and another appeal_ <span class="citation">[2002] 1 SLR 68</span> (“ _TS Video_ ”). 
 
 **_The authorities_** 
 
@@ -322,7 +322,7 @@ alleged to have taken place in December 1983. The case was set down for trial on
 
 Similarly, in this case, Thean J was concerned with the prosecution’s delay in proceeding against the appellant, and he ultimately granted a discharge amounting to an acquittal. 
 
-55     In _Loh Siang Piow v PP_ [1998] 2 SLR 384 (“ _Loh Siang Piow_ ”), the appellant was not granted a discharge amounting to an acquittal despite the unavailability of a witness. Yong CJ agreed with the trial judge’s decision, and elaborated (at [13], [14] and [33]): 
+55     In _Loh Siang Piow v PP_ <span class="citation">[1998] 2 SLR 384</span> (“ _Loh Siang Piow_ ”), the appellant was not granted a discharge amounting to an acquittal despite the unavailability of a witness. Yong CJ agreed with the trial judge’s decision, and elaborated (at [13], [14] and [33]): 
 
  13 Lastly, the deputy public prosecutor informed the court that the CPIB had lost contact with a material witness, Philip Soh, since March 1997 and that they were still trying to locate his whereabouts. The trial judge held that the non-availability of Soh was, in this case, not a factor that militated in favour of the court granting a discharge amounting to an acquittal. Soh was a Singapore citizen, the CPIB had indicated that the assistance of the police had been sought in tracing him and a check with the Singapore Immigration Department did not indicate that he had left the state. 
 

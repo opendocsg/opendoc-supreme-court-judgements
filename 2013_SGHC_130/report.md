@@ -151,7 +151,7 @@ _Property X_
 
 22     The wife argues that Property X is a matrimonial asset because the parties had resided in that property during their marriage. The husband disagrees, maintaining that it was a property acquired before the marriage and it was not the place where the parties normally lived nor was the purpose and length of stay enough to satisfy the tests in s 112(10). 
 
-23     In relation to assets acquired by one party before the marriage, s 112(10)(a)(i) requires the property to be “ordinarily used or enjoyed by both parties ... while the parties are residing together for shelter...or for recreational purposes” before the property can be considered a matrimonial asset. In _Ryan Neil John v Berger Rosaline_ [2000] 3 SLR(R) 647 at [59]-[60], Prakash J agreed with the District Judge below that if the parties resided in a holiday home for such a short time in comparison with the length of the marriage, the holiday home could not qualify as an asset “ordinarily used by the 
+23     In relation to assets acquired by one party before the marriage, s 112(10)(a)(i) requires the property to be “ordinarily used or enjoyed by both parties ... while the parties are residing together for shelter...or for recreational purposes” before the property can be considered a matrimonial asset. In _Ryan Neil John v Berger Rosaline_ <span class="citation">[2000] 3 SLR(R) 647</span> at [59]-[60], Prakash J agreed with the District Judge below that if the parties resided in a holiday home for such a short time in comparison with the length of the marriage, the holiday home could not qualify as an asset “ordinarily used by the 
 
 
 parties for recreational purposes” as the words “ordinarily used” required some form of substantiality before an asset could be captured by s 112(10)(a)(i). _A fortiori_ , the requirement of “ordinarily used” for the purpose identified in s 112(10)(a)(i) would not be satisfied if the parties’ use or stay at the property in question was occasional or casual. 
@@ -178,7 +178,7 @@ from the law firm relating to the professional fees for preparing the Will. [not
 
 included into the pool of matrimonial assets”. [note: 18] 
 
-28     In the premises, Property Y was the matrimonial home in which the husband has a beneficial interest and as such is to be treated as a matrimonial asset. I should add that the position is the same even if the wife and husband were already separated at the time the husband became beneficially entitled to Property Y: see _Tang Ngai Sheung Peggy v Wong Yeu Yu_ [2008] SGHC 221 at [9]. 
+28     In the premises, Property Y was the matrimonial home in which the husband has a beneficial interest and as such is to be treated as a matrimonial asset. I should add that the position is the same even if the wife and husband were already separated at the time the husband became beneficially entitled to Property Y: see _Tang Ngai Sheung Peggy v Wong Yeu Yu_ <span class="citation">[2008] SGHC 221</span> at [9]. 
 
 29     As for the valuation of Property Y, I accepted the wife’s valuation of S$2,200,000 as at 13 June 
 
@@ -271,7 +271,7 @@ asset pool.
 
 **_Direct Contributions_** 
 
-41     It is not disputed that the husband made all the direct financial contributions toward the acquisition and accumulation of the assets in the revised table above. In evaluating the parties’ contributions to the marriage and family welfare there is no bias in favour of the income earner who contributed financially to the acquisition and accumulation of the matrimonial assets during the marriage (see _BCB v BCC_ [2013] 2 SLR 324 (“ _BCB_ ”) at [8]). Consideration must be given to the indirect contributions. The court must take a broader view of the circumstances, giving adequate weight to parties’ _direct_ as well as _indirect_ financial contributions ( _BCB_ at [34]). The Court of Appeal in _BCB_ also emphasized (at [12]) that the indirect contributions of _both_ the husband and wife (as the home-maker or child-carer) should be given their full value. 
+41     It is not disputed that the husband made all the direct financial contributions toward the acquisition and accumulation of the assets in the revised table above. In evaluating the parties’ contributions to the marriage and family welfare there is no bias in favour of the income earner who contributed financially to the acquisition and accumulation of the matrimonial assets during the marriage (see _BCB v BCC_ <span class="citation">[2013] 2 SLR 324</span> (“ _BCB_ ”) at [8]). Consideration must be given to the indirect contributions. The court must take a broader view of the circumstances, giving adequate weight to parties’ _direct_ as well as _indirect_ financial contributions ( _BCB_ at [34]). The Court of Appeal in _BCB_ also emphasized (at [12]) that the indirect contributions of _both_ the husband and wife (as the home-maker or child-carer) should be given their full value. 
 
 **_Indirect Contributions_** 
 
@@ -288,7 +288,7 @@ and would not likely have succumbed to pressure. On the contrary, I find that th
 
 **_Decision on division of matrimonial assets_** 
 
-45     This is short marriage where for some time the wife was the spouse of a successful businessman. Theirs was not a childless marriage. This case is distinguishable from _Ong Boon Huat Samuel v Chan Mei Lan Kristine_ [2007] 2 SLR(R) 729 where in that case, the Court of Appeal held (at [28]): 
+45     This is short marriage where for some time the wife was the spouse of a successful businessman. Theirs was not a childless marriage. This case is distinguishable from _Ong Boon Huat Samuel v Chan Mei Lan Kristine_ <span class="citation">[2007] 2 SLR(R) 729</span> where in that case, the Court of Appeal held (at [28]): 
 
  In a short and childless marriage, the division of matrimonial assets will usually be in accordance with the parties' direct financial contributions as non-financial contributions will be minimal. 
 
@@ -360,7 +360,7 @@ $1,500 per month) for herself and a monthly maintenance of S$2,000 for the son. 
 
  Total 3,800.00 2,241. 
 
-52     The husband argues that the expenses are inflated and unreasonable, noting that the wife has altered her position over the course of the proceedings. Without producing an alternative list of expenses, he proposed to continue paying a monthly maintenance of S$2,000 for both the wife and the son. I pause to mention that there is no reason for the final maintenance order to be pegged to the interim maintenance order, which is usually calculated on a conservative basis: _Lee Bee Kim Jennifer v Lim Yew Khang Cecil_ [2005] SGHC 209 at [7]. 
+52     The husband argues that the expenses are inflated and unreasonable, noting that the wife has altered her position over the course of the proceedings. Without producing an alternative list of expenses, he proposed to continue paying a monthly maintenance of S$2,000 for both the wife and the son. I pause to mention that there is no reason for the final maintenance order to be pegged to the interim maintenance order, which is usually calculated on a conservative basis: _Lee Bee Kim Jennifer v Lim Yew Khang Cecil_ <span class="citation">[2005] SGHC 209</span> at [7]. 
 
 53     Some of the expenses which the wife claimed for the son are on the high side. For example, the clothing, entertainment and grooming expenses seem higher than what an average boy of his age spends on such items. Having regard to the wife’s earning capacity and comparing this with the husband’s financial position, the husband should bear the entire burden of the son’s maintenance. Therefore, I order the husband to pay a monthly maintenance of S$1,800 for the son. 
 

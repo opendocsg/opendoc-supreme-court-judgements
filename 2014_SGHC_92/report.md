@@ -24,7 +24,7 @@ _Civil procedure_ – _appeals_ – _leave_
 
 1       Until 21 Dec ember 2011, ADJ, the plaintiff-husband herein was married to ADK, the defendantwife. On that date, an interim judgment for divorc e was made on an unc ontested basis on the ground that the plaintiff had behaved in suc h a way that the defendant c ould not reasonably be expec ted to live with him. The plaintiff was not happy with this outc ome. He filed an applic ation for the interim judgment to be resc inded. This applic ation having failed, he then appealed against the dec ision to the High Court. His appeal was heard by Choo Han Tec k J (“the Judge”) who dismissed it. Throughout the proc eedings, the plaintiff has ac ted in person. 
 
-2       By this originating summons, the plaintiff seeks leave of c ourt to appeal to the Court of Appeal against the dec ision of the Judge. The Judge’s reasons for his dec ision are found in his written judgment identified as _AWN v AWO and another appeal_ [2012] SGHC 228 (“the Judgment”). 
+2       By this originating summons, the plaintiff seeks leave of c ourt to appeal to the Court of Appeal against the dec ision of the Judge. The Judge’s reasons for his dec ision are found in his written judgment identified as _AWN v AWO and another appeal_ <span class="citation">[2012] SGHC 228</span> (“the Judgment”). 
 
 3       The defendant resists this applic ation on the basis that the plaintiff has failed to satisfy any of the three presc ribed c irc umstanc es required for leave to appeal. Ms Alic e Tan (“Ms Tan”), c ounsel for the defendant, argues that: 
 

@@ -20,7 +20,7 @@
 
 _Contract_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeals Nos 233 of 2010 and 10 of 2011 was allowed in part by the Court of Appeal on 17 October 2011. See [2011] SGCA 54.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeals Nos 233 of 2010 and 10 of 2011 was allowed in part by the Court of Appeal on 17 October 2011. See <span class="citation">[2011] SGCA 54</span>.] 
 
 29 November 2010 Judgment reserved. 
 
@@ -55,7 +55,7 @@ _Contract_
 
 7       I first consider the issue of whether the plaintiff is entitled to reject the Drilling Machine. It is trite law that in order to repudiate the Drill Contract, it would be necessary for the plaintiff to establish that the defendant had breached a condition of the contract or breached a warranty the consequence of which was to deprive the plaintiff of substantially the whole benefit of the Drill Contract. Section 13(1) of the Sale of Goods Act (Cap 393, 1999 Rev Ed) (“Sale of Goods Act”) provides that where there is a contract for the sale of goods by description, there is an _implied condition_ that the goods will correspond with the description. 
 
-8       The Drill Contract and the Lathe Contract insofar as they contain specifications are contracts of sale by description within the meaning of s 13 of the Sale of Goods Act: see _Chuan Hiap Seng (1979) Pte Ltd v Progress Manufacturing Pte Ltd_ [1995] 1 SLR(R) 122. Where the contract contains a detailed description of the goods, minor discrepancies between the delivered goods and their 
+8       The Drill Contract and the Lathe Contract insofar as they contain specifications are contracts of sale by description within the meaning of s 13 of the Sale of Goods Act: see _Chuan Hiap Seng (1979) Pte Ltd v Progress Manufacturing Pte Ltd_ <span class="citation">[1995] 1 SLR(R) 122</span>. Where the contract contains a detailed description of the goods, minor discrepancies between the delivered goods and their 
 
 
 description may entitle the purchaser to reject the goods: _Arcos Ltd v E A Ronaasen & Son_ [1933] AC 470 at 479. In certain cases, in the absence of detailed commercial description, goods having considerable discrepancy from their described characteristics would nevertheless fall within s 13(1): _Benjamin’s Sale of Goods_ (Sweet & Maxwell, 8th Ed, 2010) at para 11-019. Thus, where a contract for a new Singer car was made, it was not satisfied by the delivery of a second hand model: _Andrew Bros Ltd v Singer & Co Ltd_ [1934] 1 KB 17. Also, a contract for a one-year-old second-hand reaping machine which had been used to cut only 50 acres, was held not to have been performed by a very old machine which had been mended: _Varley v Whipp_ [1900] 1 QB 513. 

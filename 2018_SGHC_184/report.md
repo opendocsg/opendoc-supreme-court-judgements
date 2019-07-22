@@ -149,7 +149,7 @@ with up to two years of post-operative follow-up monitoring and review. [note: 2
 
 (with no pre-existing back condition) would receive. [note: 21] 
 
-14     A case in point is _Teddy, Thomas v Teacly (S) Pte Ltd_ [2014] SGHC 226 (“ _Teddy Thomas_ ”). The facts of that case are as follows. 
+14     A case in point is _Teddy, Thomas v Teacly (S) Pte Ltd_ <span class="citation">[2014] SGHC 226</span> (“ _Teddy Thomas_ ”). The facts of that case are as follows. 
 
 15     On 15 November 2010, the plaintiff, Mr Thomas Teddy, was travelling as a passenger in a taxi when a lorry belonging to the defendant collided into the rear of the taxi. The plaintiff claimed that he did not feel any pain immediately after the accident although he was jerked forward and then flung backwards. Later that evening, he experienced loss of sensation in both his hands and arms. 
 
@@ -356,7 +356,7 @@ Associated Disorders where the condition is described thus: [note: 48]
 
  Neck complaints and the examining doctor finds decreased range of motion and point tenderness in the neck. 
 
-61     The Plaintiff cited _Karuppiah Nirmala v Singapore Bus Services Ltd_ [2002] 1 SLR(R) 934 (“ _Karuppiah_ ”) where the plaintiff had been awarded $14,000 for pain and suffering and loss of amenities for her whiplash injury which aggravated her existing cervical spondylosis. The appeal in the High Court did not concern the damages for her neck injury. 
+61     The Plaintiff cited _Karuppiah Nirmala v Singapore Bus Services Ltd_ <span class="citation">[2002] 1 SLR(R) 934</span> (“ _Karuppiah_ ”) where the plaintiff had been awarded $14,000 for pain and suffering and loss of amenities for her whiplash injury which aggravated her existing cervical spondylosis. The appeal in the High Court did not concern the damages for her neck injury. 
 
 62     However, it appears from the judgement that what the plaintiff had suffered was “acute pain” in her neck (at [1]). Although by the time of the review of her condition a year later, she had recovered from her acute pain, the orthopaedic surgeon’s opinion was that she would experience chronic pain secondary to the disc degeneration (at [6]). It is also not clear what her pre-existing 
 
@@ -557,7 +557,7 @@ outcome of the surgery. [note: 80]
 
 Defendants submit that the appropriate quantum should be $10,000 before discount. [note: 82] 
 
-102    The Plaintiff relies on _Ong Tean Hoe v Hong Kong Industrial Company Private Limited_ [2001] SGHC 303 where the Plaintiff lost both her hands as a result of an industrial accident. For the traumatic depression which ensued, she was awarded $20,000. 
+102    The Plaintiff relies on _Ong Tean Hoe v Hong Kong Industrial Company Private Limited_ <span class="citation">[2001] SGHC 303</span> where the Plaintiff lost both her hands as a result of an industrial accident. For the traumatic depression which ensued, she was awarded $20,000. 
 
 103    The Defendants contend that the Plaintiff’s case does not warrant a similar quantum since it arose, as it did, from a low-speed, low impact collision. 
 
@@ -752,7 +752,7 @@ one Ng Wei En, which appears to be the Plaintiff’s son. [note: 106] If this is
 
 143    For an award for loss of future earnings to be made, there has to be credible evidence in support; the court cannot act on speculation or conjecture. 
 
-144    The CA in _Teo Sing Keng and another v Sim Ban Kiat_ [1994] 1 SLR(R) 340 at [38] cited with approval the following dictum of Syed Agil Barakbah FJ in _Ong Ah Long v Dr S Underwood_ [1983] 2 MLJ 324: 
+144    The CA in _Teo Sing Keng and another v Sim Ban Kiat_ <span class="citation">[1994] 1 SLR(R) 340</span> at [38] cited with approval the following dictum of Syed Agil Barakbah FJ in _Ong Ah Long v Dr S Underwood_ [1983] 2 MLJ 324: 
 
  Now, the general principle is that an injured plaintiff is entitled to damages for the loss of earnings and profits which he has suffered by reason of his injuries up to the date of the trial and for the loss of the prospective earnings and profits of which he is likely to be deprived in the future. There must be evidence on which the court can find that the plaintiff will suffer future loss of earnings, it cannot act on mere speculation. If there is no satisfactory evidence of future loss of earnings but the court is satisfied that the plaintiff has suffered a loss of earning capacity, it will award him damages for his loss of capacity as part of the general damages for disability and not as compensation for future loss of earnings. 
 
@@ -783,7 +783,7 @@ amongst others, the case of _Karuppiah_. [note: 107]
 
 capacity. 
 
-156    The Defendants also cite _Chew Poh Kwan Margaret v Toh Hong Guan and Another_ [2004] SGHC 280 (“ _Chew Poh Kwan Margaret_ ”) and _Wong Kim Lan v Christie Kolandasamy_ [2004] SGDC 234 (“ _Wong Kim Lan_ ”) for the modest quantum of damages awarded. 
+156    The Defendants also cite _Chew Poh Kwan Margaret v Toh Hong Guan and Another_ <span class="citation">[2004] SGHC 280</span> (“ _Chew Poh Kwan Margaret_ ”) and _Wong Kim Lan v Christie Kolandasamy_ <span class="citation">[2004] SGDC 234</span> (“ _Wong Kim Lan_ ”) for the modest quantum of damages awarded. 
 
 
 157    In my opinion the latter two cases are not helpful because: 
@@ -796,7 +796,7 @@ capacity.
 
 159    I avail myself of the case summaries conveniently outlined in the _Practitioners’ Library_ at p 40: 
 
- (b) In Nirumalan V Kanapathi Pillay v Teo Eng Chuan [2003] 3 SLR(R) 601, the plaintiff, a lawyer, suffered a whiplash injury to the spine with resulting disabilities. His condition would continue to deteriorate without surgical intervention. Taking into account the plaintiff’s income of $420,000 per annum for the years immediately preceding and after the accident and a post-trial working period of 15 years till the age of 65, the High Court awarded the plaintiff $180,000 for loss of earning capacity. 
+ (b) In Nirumalan V Kanapathi Pillay v Teo Eng Chuan <span class="citation">[2003] 3 SLR(R) 601</span>, the plaintiff, a lawyer, suffered a whiplash injury to the spine with resulting disabilities. His condition would continue to deteriorate without surgical intervention. Taking into account the plaintiff’s income of $420,000 per annum for the years immediately preceding and after the accident and a post-trial working period of 15 years till the age of 65, the High Court awarded the plaintiff $180,000 for loss of earning capacity. 
 
  (c) In Tan Siew Bin Ronnie v Chin Wee Keong (supra), the plaintiff, a lawyer, suffered a whiplash injury with permanent disabilities. One factor which the High Court considered was the length of the plaintiff’s remaining working life since ‘the impairments, risk and various imponderables would have to be assessed over a longer period for a younger person’ (at [34]). At age 47, the plaintiff had the same post-trial working span of 15 years as the plaintiff in Nirumalan V Kanapathi Pillay v Teo Eng Chuan (supra). Comparing the income of the plaintiff in Nirumalan V Kanapathi Pillay v Teo Eng Chuan (supra), ‘a very high income earner’ and that of the plaintiff in Karuppiah Nirmala v Singapore Bus Services Ltd (supra) (who was earning $51,600 per annum at the time of the accident), with the income of the plaintiff at $120,000 per annum, the High Court held that the sum of $100,000 was a fair award for loss of earning capacity. 
 
@@ -828,7 +828,7 @@ damages. It was argued that to allow her so to do would be to permit double reco
 
  claimant may be compensated beyond his loss, he has paid for the accident insurance with his own moneys, and the fruits of this thrift and foresight should in fairness enure to his and not to the defendant’s advantage. 
 
-167    The same position was adopted by our Court of Appeal in _The “MARA”_ [2000] 3 SLR(R) 31 at [28] so that it is not open to the Defendants to contend otherwise. 
+167    The same position was adopted by our Court of Appeal in _The “MARA”_ <span class="citation">[2000] 3 SLR(R) 31</span> at [28] so that it is not open to the Defendants to contend otherwise. 
 
 168    Moving on, I refer to Appendix A of the Defendants’ Closing Submissions for the items of medical expenses disputed by the Defendants. 
 

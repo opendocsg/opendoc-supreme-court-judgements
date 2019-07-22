@@ -321,7 +321,7 @@ Terms and the LOI was “conditioned by its context”. The context included (i)
 
 **_My decision_** 
 
-47     In _HSBC Institutional Trust Services (Singapore) Ltd (trustee of Starhill Global Real Estate Investment Trust) v Toshin Development Singapore Pte Ltd_ [2012] 4 SLR 738 (“ _Toshin_ ”), V K Rajah JA, delivering the judgment of the Court of Appeal, observed at [45] that “the concept of good faith is reducible to a core meaning”. Rajah JA expounded on that core meaning as follows: 
+47     In _HSBC Institutional Trust Services (Singapore) Ltd (trustee of Starhill Global Real Estate Investment Trust) v Toshin Development Singapore Pte Ltd_ <span class="citation">[2012] 4 SLR 738</span> (“ _Toshin_ ”), V K Rajah JA, delivering the judgment of the Court of Appeal, observed at [45] that “the concept of good faith is reducible to a core meaning”. Rajah JA expounded on that core meaning as follows: 
 
  45 ... At its core, the concept of good faith encompasses the threshold subjective requirement of acting honestly , as well as the objective requirement of observing accepted commercial standards of fair dealing in the performance of the identified obligations. ... 
 
@@ -643,7 +643,7 @@ confirmation of the Four Instructions before executing them (see [69] above). Mr
 
 97     The plaintiff also argued that the Bank had breached implied terms to (a) act in accordance with its internal risk management procedures, (b) take steps and/or have the necessary facilities to prevent unauthorised fund transfers and/or, (c) comply with the relevant MAS regulations and guidelines. 
 
-98     I did not accept that there were any such implied terms. In _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ [2013] 4 SLR 193 (“ _Sembcorp Marine_ ”), Sundaresh Menon CJ, delivering the judgment of the Court of Appeal, laid down the following three-stage test for the implication of terms at [101]: 
+98     I did not accept that there were any such implied terms. In _Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal_ <span class="citation">[2013] 4 SLR 193</span> (“ _Sembcorp Marine_ ”), Sundaresh Menon CJ, delivering the judgment of the Court of Appeal, laid down the following three-stage test for the implication of terms at [101]: 
 
  (a) The first step is to ascertain how the gap in the contract arises. Implication will be considered only if the court discerns that the gap arose because the parties did not contemplate the gap. 
 

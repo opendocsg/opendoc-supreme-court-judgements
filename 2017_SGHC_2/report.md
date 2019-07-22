@@ -304,9 +304,9 @@ of re-offending was low to moderate.
 
 72     The defence submitted that there should be no more than two consecutive sentences punishable under s 376A(3) with one more consecutive sentence for a CYPA offence. The aggregate should therefore not be more than 11 years’ imprisonment with ten strokes of the cane. 
 
-73     In _Public Prosecutor v Yap Weng Wah_ [2015] 3 SLR 297 (“ _Yap Weng Wah_ ”), I had suggested (at [64]) that for offences involving fellatio which are punishable under s 376A(3) of the Penal Code, the benchmark should be six to seven years’ imprisonment in the absence of aggravating or mitigating circumstances. 
+73     In _Public Prosecutor v Yap Weng Wah_ <span class="citation">[2015] 3 SLR 297</span> (“ _Yap Weng Wah_ ”), I had suggested (at [64]) that for offences involving fellatio which are punishable under s 376A(3) of the Penal Code, the benchmark should be six to seven years’ imprisonment in the absence of aggravating or mitigating circumstances. 
 
-74     In _Public Prosecutor v Sim Wei Liang Benjamin_ [2015] SGHC 240 (“ _Benjamin Sim_ ”), there were four female victims. The accused pleaded guilty to eight charges and consented to 15 other charges to be taken into consideration for sentencing. The eight charges which he pleaded guilty to included: 
+74     In _Public Prosecutor v Sim Wei Liang Benjamin_ <span class="citation">[2015] SGHC 240</span> (“ _Benjamin Sim_ ”), there were four female victims. The accused pleaded guilty to eight charges and consented to 15 other charges to be taken into consideration for sentencing. The eight charges which he pleaded guilty to included: 
 
  (a) two charges for statutory rape, an offence under s 375(1)( b ) and punishable under s 375(2) of the Penal Code; and 
 
@@ -314,7 +314,7 @@ of re-offending was low to moderate.
 
 75     The offences which were taken into consideration included one charge of statutory rape and ten charges of aggravated sexual penetration. 
 
-76     In that case, the defence had relied on _AQW v Public Prosecutor_ [2015] 4 SLR 150 (“ _AQW_ ”). There, the accused had committed various sexual acts against one victim. One of the acts he performed was fellatio on the victim who was 15 years of age. This was an offence under s 376A(1) ( _c_ ) of the Penal Code. A district court had sentenced the accused to 15 months’ imprisonment for that offence. 
+76     In that case, the defence had relied on _AQW v Public Prosecutor_ <span class="citation">[2015] 4 SLR 150</span> (“ _AQW_ ”). There, the accused had committed various sexual acts against one victim. One of the acts he performed was fellatio on the victim who was 15 years of age. This was an offence under s 376A(1) ( _c_ ) of the Penal Code. A district court had sentenced the accused to 15 months’ imprisonment for that offence. 
 
 77     On appeal by the accused, Sundaresh Menon CJ suggested (at [41]) that a sentence of 
 

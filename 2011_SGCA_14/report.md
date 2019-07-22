@@ -16,7 +16,7 @@
 
 _Criminal Law_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2009] SGHC 265.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2009] SGHC 265</span>.] 
 
 11 April 2011 
 
@@ -24,7 +24,7 @@ _Criminal Law_
 
 **Introduction** 
 
-1       This was an appeal by Ramalingam Ravinthran (“the appellant”) against the decision of the trial judge (“the Judge”) in Criminal Case No 29 of 2007 (see _Public Prosecutor v Ramalingam Ravinthran_ [2009] SGHC 265 (“the GD”)) convicting him of two charges of trafficking in a controlled drug ( _ie_ , respectively, 5,560.1g of cannabis and 2,078.3g of cannabis mixture), an offence under s 5(1)( _a_ ) read with s 33 of and the Second Schedule to the Misuse of Drugs Act (Cap 185, 2001 Rev Ed) (“the MDA”). 
+1       This was an appeal by Ramalingam Ravinthran (“the appellant”) against the decision of the trial judge (“the Judge”) in Criminal Case No 29 of 2007 (see _Public Prosecutor v Ramalingam Ravinthran_ <span class="citation">[2009] SGHC 265</span> (“the GD”)) convicting him of two charges of trafficking in a controlled drug ( _ie_ , respectively, 5,560.1g of cannabis and 2,078.3g of cannabis mixture), an offence under s 5(1)( _a_ ) read with s 33 of and the Second Schedule to the Misuse of Drugs Act (Cap 185, 2001 Rev Ed) (“the MDA”). 
 
 2       The two charges arose in the same transaction. A sports bag (“the sports bag”) containing eight blocks of vegetable matter, each wrapped in aluminium foil and transparent plastic cling wrap, was recovered from the rear left passenger seat of a motor car when the appellant was arrested after a car chase. The eight blocks of vegetable matter were put in three separate plastic bags inside the sports bag. At the time of his arrest, the appellant was alone in the car. The eight blocks of vegetable matter, upon analysis, were found to contain cannabis and cannabis mixture, both controlled substances under the MDA. This gave rise to two distinct charges, one for trafficking in cannabis and the other for trafficking in cannabis mixture, as cannabis and cannabis mixture are classified as different drugs for the purposes of the MDA. 
 
@@ -242,7 +242,7 @@ Sundar was convicted on both counts of trafficking in a controlled substance and
 
  (d) that “[t]he [appellant] was in possession of the [sports] bag containing the cannabis and the cannabis mixture. The prosecution had proved that after his arrest, he acknowledged that the [sports] bag contained ganja , and that he had also told Sundar that the [sports] bag contained ganja , a term which covers cannabis and cannabis mixture” (at [65] of the GD). 
 
-27     The Judge also made an alternative finding against the appellant. He found on the evidence that the appellant was wilfully blind as to what was contained in the sports bag. The Judge referred to the decision of the Court of Appeal in _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR(R) 1 (“ _Tan Kiam Peng_ ”). The Judge was a member of the panel of the Court of Appeal in that case. In making that finding, he rejected the appellant’s evidence that he (the appellant) had not had any opportunity to see what was in the sports bag (see the GD at [68]–[69] (reproduced at [40] below)). 
+27     The Judge also made an alternative finding against the appellant. He found on the evidence that the appellant was wilfully blind as to what was contained in the sports bag. The Judge referred to the decision of the Court of Appeal in _Tan Kiam Peng v Public Prosecutor_ <span class="citation">[2008] 1 SLR(R) 1</span> (“ _Tan Kiam Peng_ ”). The Judge was a member of the panel of the Court of Appeal in that case. In making that finding, he rejected the appellant’s evidence that he (the appellant) had not had any opportunity to see what was in the sports bag (see the GD at [68]–[69] (reproduced at [40] below)). 
 
 28     On the basis of these findings of fact, the Judge held (at [70]–[71] of the GD) as follows: 
 
@@ -298,7 +298,7 @@ not mentioned that fact ( _ie_ , the lack of opportunity to inspect the bag) in 
 
 37     The Prosecution’s response to the appellant’s arguments may be summarised as follows: 
 
- (a) As the Judge’s decision was based on findings of fact, it was trite that an appellate court would not disturb such findings unless they were plainly wrong or clearly arrived at against the weight of the evidence, or unless there was a misdirection as to the law (citing Public Prosecutor v Victor Rajoo [1995] 3 SLR(R) 189, Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik [2008] 1 SLR(R) 601 and Tan Kiam Peng ). 
+ (a) As the Judge’s decision was based on findings of fact, it was trite that an appellate court would not disturb such findings unless they were plainly wrong or clearly arrived at against the weight of the evidence, or unless there was a misdirection as to the law (citing Public Prosecutor v Victor Rajoo <span class="citation">[1995] 3 SLR(R) 189</span>, Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik <span class="citation">[2008] 1 SLR(R) 601</span> and Tan Kiam Peng ). 
 
  (b) The appellant had physical control, and, therefore, physical possession of the sports bag when Sundar alighted from the appellant’s car: the appellant was transporting the sports bag back to his workplace to wait for Sundar or Abang to collect it. 
 
@@ -328,7 +328,7 @@ not mentioned that fact ( _ie_ , the lack of opportunity to inspect the bag) in 
 
 40     The Judge found the appellant guilty of the offences charged on the alternative ground that he had the equivalent of actual knowledge that he was transporting cannabis and cannabis mixture because he was wilfully blind to that fact. In making this finding, the Judge referred to para 41 of the appellant’s 20 July 2006 statement (reproduced at [24] above), where the appellant explained why he had not wanted to look into the sports bag. The Judge’s findings are set out at [66]–[69] of the GD as follows: 
 
- 66 The prosecutor argued that independently of the [appellant’s] admission and Sundar’s evidence, the [appellant] must be taken to have knowledge of the contents of the [sports] bag because he had deliberately kept a blind eye to that, and that was the effect of actual knowledge, as explained in Tan Kiam Peng v PP [2008] 1 SLR 1. 
+ 66 The prosecutor argued that independently of the [appellant’s] admission and Sundar’s evidence, the [appellant] must be taken to have knowledge of the contents of the [sports] bag because he had deliberately kept a blind eye to that, and that was the effect of actual knowledge, as explained in Tan Kiam Peng v PP <span class="citation">[2008] 1 SLR 1</span>. 
 
  67 The prosecutor referred to para 41 of the [appellant’s] statement of 20 July 2006 where he stated: 
 

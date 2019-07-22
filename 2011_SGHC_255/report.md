@@ -68,7 +68,7 @@ respondent was ordered to give up a half share of the property to him, she will 
 
  [emphasis added] 
 
-17     In custody cases, the court’s paramount consideration is the welfare of the children. In _Soon Peck Wah v Woon Che Chye_ [1997] 3 SLR(R) 430, the Court of Appeal stressed (at [25]) that the court “should look at all the circumstances of the case and come to a decision on the issue of custody, always bearing in mind that the welfare of the child should be given paramount priority”. 
+17     In custody cases, the court’s paramount consideration is the welfare of the children. In _Soon Peck Wah v Woon Che Chye_ <span class="citation">[1997] 3 SLR(R) 430</span>, the Court of Appeal stressed (at [25]) that the court “should look at all the circumstances of the case and come to a decision on the issue of custody, always bearing in mind that the welfare of the child should be given paramount priority”. 
 
 18     The applicant did not allege that the custody order that was made in 2009 was based on any misrepresentation or mistake of fact. As such, the only basis for varying the custody order is a material change in the circumstances. 
 

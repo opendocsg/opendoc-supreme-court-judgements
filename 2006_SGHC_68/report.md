@@ -48,7 +48,7 @@ _Legal Profession_ – _Show cause action_ – _Advocate and solicitor using for
 12     The trust that the public rightly place in their lawyers to dutifully carry out their instructions will be greatly weakened without a high standard of professional rectitude or if that standard was not 
 
 
-maintained and allowed to decline. Professional misconduct involving fraud and dishonesty deserves the severest penalty. The court in exercising jurisdiction under s 83(1) will have regard for the clients of the defaulting solicitor and the protection of the public against similar defaults by other solicitors through the court registering its disapproval of what the respondent has done as well as the interests of this profession. See _Law Society of Singapore v Ravindra Samuel_ [1999] 1 SLR 696 at [11] to [13]. 
+maintained and allowed to decline. Professional misconduct involving fraud and dishonesty deserves the severest penalty. The court in exercising jurisdiction under s 83(1) will have regard for the clients of the defaulting solicitor and the protection of the public against similar defaults by other solicitors through the court registering its disapproval of what the respondent has done as well as the interests of this profession. See _Law Society of Singapore v Ravindra Samuel_ <span class="citation">[1999] 1 SLR 696</span> at [11] to [13]. 
 
 13     Accordingly, we granted the Law Society’s application and ordered the respondent to be stuck off the roll of advocates and solicitors of the Supreme Court of Singapore. We further ordered that the respondent should bear the costs of these proceedings and the costs in the disciplinary proceedings. 
 

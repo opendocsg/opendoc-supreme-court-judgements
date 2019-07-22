@@ -20,7 +20,7 @@ _Civil Procedure_ – _Costs_ – _Security for costs_ – _Application for furt
 
 _Words and Phrases_ – _'Fit'_ – _O 57 r 3(4) Rules of Court_ 
 
-Finance [1999] 3 SLR 229 meant that enforcing a judgment for costs against the appellant’s property would entail undue delay and expense. 
+Finance <span class="citation">[1999] 3 SLR 229</span> meant that enforcing a judgment for costs against the appellant’s property would entail undue delay and expense. 
 
 **Held,** 
 
@@ -55,7 +55,7 @@ _Lek Swee Hua v American Express International Inc_
 
 _Malayan Banking Bhd v Focal Finance Ltd_ 
 
-[1999] 3 SLR 229 (refd) 
+<span class="citation">[1999] 3 SLR 229</span> (refd) 
 
 _Porzelack KG v Porzelack (UK) Ltd_ 
 
@@ -166,7 +166,7 @@ circumscribe such a wide discretion by any specific categorisation or criteria, 
 
 been difficulties in effecting service of bankruptcy notices on the appellant-plaintiffs in other proceedings and security for costs was accordingly ordered. 
 
-26     Thirdly, enforcement of a costs order against Shirley Ooi would necessarily give rise to undue delay and expense. Again, looking at the previous behaviour of Shirley Ooi, we thought it was likely that JGI would have real difficulties in enforcing such an order against her. Orders of this Court are not enforceable in USA as there is no arrangement on reciprocal enforcement of judgment between Singapore and USA. This then brings us to the flat which she co-owns with her husband. In _Malayan Banking Bhd v Focal Finance Ltd_ [1999] 3 SLR 229, the High Court held that a writ of seizure and sale issued under O 47 r 4(1)(a) is not enforceable against an immovable property in which the judgment debtor is a joint tenant. This is because a joint owner does not have a distinct and identifiable share in the property for so long as the joint tenancy subsists. Instead, the High Court indicated that in such a situation the judgment creditor could proceed by way of equitable execution through the appointment of a receiver (under O 30 and O 51 of the Rules of Court). However, as a receiver is not empowered to sell the property, it is clear that satisfaction of the judgment sum owing by the judgment debtor would entail further difficulties, or at least further delays, assuming that incomes received by the receiver are utilised to satisfy the costs order. We have referred to _Malayan Banking Bhd v Focal Finance Ltd_ only to show the difficulties that _could_ be encountered. We have assumed the decision to be correct as no appeal was taken against it. These difficulties, coupled with the fact that Shirley Ooi is not likely to cooperate, could only further enhance the impediments which JGI would encounter. 
+26     Thirdly, enforcement of a costs order against Shirley Ooi would necessarily give rise to undue delay and expense. Again, looking at the previous behaviour of Shirley Ooi, we thought it was likely that JGI would have real difficulties in enforcing such an order against her. Orders of this Court are not enforceable in USA as there is no arrangement on reciprocal enforcement of judgment between Singapore and USA. This then brings us to the flat which she co-owns with her husband. In _Malayan Banking Bhd v Focal Finance Ltd_ <span class="citation">[1999] 3 SLR 229</span>, the High Court held that a writ of seizure and sale issued under O 47 r 4(1)(a) is not enforceable against an immovable property in which the judgment debtor is a joint tenant. This is because a joint owner does not have a distinct and identifiable share in the property for so long as the joint tenancy subsists. Instead, the High Court indicated that in such a situation the judgment creditor could proceed by way of equitable execution through the appointment of a receiver (under O 30 and O 51 of the Rules of Court). However, as a receiver is not empowered to sell the property, it is clear that satisfaction of the judgment sum owing by the judgment debtor would entail further difficulties, or at least further delays, assuming that incomes received by the receiver are utilised to satisfy the costs order. We have referred to _Malayan Banking Bhd v Focal Finance Ltd_ only to show the difficulties that _could_ be encountered. We have assumed the decision to be correct as no appeal was taken against it. These difficulties, coupled with the fact that Shirley Ooi is not likely to cooperate, could only further enhance the impediments which JGI would encounter. 
 
 27     In view of all the foregoing, it was our opinion that the circumstances warranted the making of an order for further security. The whole point of ordering a foreign plaintiff or appellant to furnish security is to ensure that a fund would be available within the jurisdiction of this court against which the successful defendant or respondent could enforce the judgment for costs: see _Porzelack KG v Porzelack (UK) Ltd_ [1987] 1 WLR 420 at 422. Without such further security there is a real risk that JGI could be left with a costs order which would be unenforceable or only enforceable with great difficulty and expense, plus delay. 
 

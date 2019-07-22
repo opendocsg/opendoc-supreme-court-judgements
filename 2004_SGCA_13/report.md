@@ -22,7 +22,7 @@ _Civil Procedure_ – _Stay of proceedings_ – _Abuse of process_ – _Jurisdic
 
 **Tan Lee Meng J (delivering the judgment of the court):** 
 
-1       This appeal is in relation to an application filed by the respondent, Sum Lye Heng, also known as Jessie Lim (“Jessie”), to restrain the first appellant, Management Corporation Strata Title Plan No 2285 (“the MC”), from proceeding with any further action in Private Summons No 138 of 2003, which was issued against her pursuant to a complaint filed by the fourth appellant, Chan Tian Soo (“CTS”), on behalf of the MC. Jessie contended that the said complaint and the private summons were an abuse of the process of the court. Woo Bih Li J ordered the MC to be so restrained and further ordered a permanent stay of Private Summons No 138 of 2003. We dismissed the appeal against the judge’s decision (reported at [2003] 4 SLR 553) and now give our reasons for having done so. 
+1       This appeal is in relation to an application filed by the respondent, Sum Lye Heng, also known as Jessie Lim (“Jessie”), to restrain the first appellant, Management Corporation Strata Title Plan No 2285 (“the MC”), from proceeding with any further action in Private Summons No 138 of 2003, which was issued against her pursuant to a complaint filed by the fourth appellant, Chan Tian Soo (“CTS”), on behalf of the MC. Jessie contended that the said complaint and the private summons were an abuse of the process of the court. Woo Bih Li J ordered the MC to be so restrained and further ordered a permanent stay of Private Summons No 138 of 2003. We dismissed the appeal against the judge’s decision (reported at <span class="citation">[2003] 4 SLR 553</span>) and now give our reasons for having done so. 
 
 **Background** 
 

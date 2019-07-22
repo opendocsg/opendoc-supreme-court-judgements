@@ -62,7 +62,7 @@ for Letters of Administration to the estate of the deceased.
 10     On the last day of trial (25 September 2006), in Summons No 4407 of 2006 (“SUM 4407/2006”), after all the evidence had been adduced and the defendant was about to close her case (save that I ordered her to produce bank documents to support her claim on 22 September 2006 that she had her own lines of credit from banks), the plaintiffs applied to further amend the SOC, essentially to make a concession on one property, _viz._ that half of Minton Rise belonged to the defendant. I allowed the plaintiffs’ second application in part against which decision the defendant appealed in Civil Appeal No. 113 of 2006 and for which I have delivered my grounds of decision (see _Terence Yeo Guan Chye_ 
 
 
-_& anor v Lau Siew Kim_ [2006] SGHC 227). 
+_& anor v Lau Siew Kim_ <span class="citation">[2006] SGHC 227</span>). 
 
 11     As a result of my decision in SUM 4407/2006, the plaintiffs re-filed an Amended (No 2) Statement of Claim on 27 September 2006 (“Amended (No 2) SOC”). Consequently, para 28 of the SOC dated 25 September 2006 filed with SUM 4407/2006 was deleted and paragraphs 30(1) and (2) were added and re-numbered para 29(1) and (2); the paragraphs state: 
 
@@ -270,7 +270,7 @@ Payong and was therefore entitled to an interest in it. The plaintiffs’ solici
 
  [emphasis added] 
 
-48     The Singapore Court of Appeal observed in _Cheong Yoke Kuen and Others v Cheong Kwok Kiong_ [1999] 2 SLR 476: 
+48     The Singapore Court of Appeal observed in _Cheong Yoke Kuen and Others v Cheong Kwok Kiong_ <span class="citation">[1999] 2 SLR 476</span>: 
 
  11 We now come to the essence of this appeal. The appellants claim that the mother was the owner of the flat and upon her death it forms part of her estate to which they are each entitled in equal shares together with the respondent pursuant to the rules of distribution under the Intestate Succession Act (Cap 146). The respondent, however, claims that he is the beneficial owner of the flat by operation of a resulting trust, because he had paid the purchase price for the flat as well as its outgoings. When he transferred his entire interest in the flat to the mother in 1986, no consideration was paid to him by the mother, and he did not intend to make a gift of that flat to her. Thus, the beneficial ownership of the flat remained with him by operation of a resulting trust. 
 
@@ -441,21 +441,21 @@ _18 Jalan Tari Payong_
 
 65     I reject the defendant’s argument – I find that the presumption of a resulting trust was not displaced in this case by the presumption of advancement. I would add that Singapore courts have moved away from the presumption of advancement, on the basis that the presumption of advancement is no longer applicable in modern times unless there is evidence to support the same. 
 
-66 “Thus the current judicial approach towards the presumption of advancement is to treat it as an evidential instrument of last resort where there is no direct evidence as to the intention of the parties rather than as an oft-applied rule of thumb”: _Teo Siew Har v Lee Kuan Yew_ [1999] 4 SLR 560 at [29]. 
+66 “Thus the current judicial approach towards the presumption of advancement is to treat it as an evidential instrument of last resort where there is no direct evidence as to the intention of the parties rather than as an oft-applied rule of thumb”: _Teo Siew Har v Lee Kuan Yew_ <span class="citation">[1999] 4 SLR 560</span> at [29]. 
 
-67     I had opined in _Lai Min Tet v Lai Min Kin_ [2004] 1 SLR 499 at [46]: 
+67     I had opined in _Lai Min Tet v Lai Min Kin_ <span class="citation">[2004] 1 SLR 499</span> at [46]: 
 
  ... It should also be borne in mind that Tinker v Tinker is a 1970 case. Since then, the presumption of advancement has increasingly been applied as a principle of last resort. Tinker v Tinker was decided by the Court of Appeal in December 1969. It was preceded by the House of Lords decision in Pettitt v Pettitt [1970] AC 777 where their Lordships (Lord Reid, Lord Hodson and Lord Diplock) opined that there is no longer any reasonable basis for the presumption of advancement and the considerations which gave rise to it, to apply in modern times. 
 
-68     Further, the Court of Appeal in _Lee Hiok Tng (in her personal capacity) v Lee Hiok Tng and another (executors and trustees for the estate of Lee Wee Nam, deceased) and Others_ [2001] 3 SLR 41 observed thatthe presumption of advancement in the context of husband and wife was readily rebutted by comparatively slight evidence. It was stated at [36]: 
+68     Further, the Court of Appeal in _Lee Hiok Tng (in her personal capacity) v Lee Hiok Tng and another (executors and trustees for the estate of Lee Wee Nam, deceased) and Others_ <span class="citation">[2001] 3 SLR 41</span> observed thatthe presumption of advancement in the context of husband and wife was readily rebutted by comparatively slight evidence. It was stated at [36]: 
 
- ... This presumption is essentially an evidential rule, based on relationship ( eg husband and wife, father and son), to rebut the opposing presumption of a resulting trust where a transfer of property is made by one person to another without consideration. In Teo Siew Har v Lee Kuan Yew [1999] 4 SLR 560, this court, after considering Pettitt v Pettitt [1970] AC 777; [1969] 2 All ER 385, observed that, in the context of husband and wife, the application of this presumption has diminished in recent years in line with changing social norms. It also noted that the current approach is to treat the presumption “as an evidential instrument of last resort where there is no direct evidence as to the intention of the parties rather than as an oft-applied rule of the thumb”. 
+ ... This presumption is essentially an evidential rule, based on relationship ( eg husband and wife, father and son), to rebut the opposing presumption of a resulting trust where a transfer of property is made by one person to another without consideration. In Teo Siew Har v Lee Kuan Yew <span class="citation">[1999] 4 SLR 560</span>, this court, after considering Pettitt v Pettitt [1970] AC 777; [1969] 2 All ER 385, observed that, in the context of husband and wife, the application of this presumption has diminished in recent years in line with changing social norms. It also noted that the current approach is to treat the presumption “as an evidential instrument of last resort where there is no direct evidence as to the intention of the parties rather than as an oft-applied rule of the thumb”. 
 
 69     As encapsulated succinctly in the headnote of _Neo Tai Kim v Foo Stie Wah_ [1980-1981] SLR 215: 
 
  If the parties were husband and wife and the husband was the provider of the funds for the purchase of the property and put it in the name of his wife, a resulting trust in favour of the husband did not arise as the doctrine of the presumption of advancement came into play on behalf of the wife to negative to resulting trust in favour of the husband. The doctrine of presumption of advancement was a rebuttable presumption and could be rebutted if the husband could show that, at the time of the transaction there was, as between them, a common intention that it was to be otherwise. Common intention might be proved by the acts and declarations of the parties before or at or immediately after the time of purchase, constituting part of the same transaction but subsequent declarations were admissible as evidence only against the party who made them and not in his favour. 
 
-70     I note that in _Low Gim Siah & others v Low Geok Khim & Another_ [2006] SGCA 45 ( _Low Gim_ 
+70     I note that in _Low Gim Siah & others v Low Geok Khim & Another_ <span class="citation">[2006] SGCA 45</span> ( _Low Gim_ 
 
 
 _Siah’s_ case), Chan Sek Keong CJ reaffirmed the applicability and relevance in Singapore of the presumption of advancement for _in loco parentis_ relationships. This recent pronouncement from the Court of Appeal has no impact on my findings for several reasons. First, even in _Low Gim Siah’s_ case, Chan CJ cautioned (at [33]) that _the presumption is not absolute and may be rebutted by evidence_. Second, he noted that recent court decisions in England and Singapore have held that because of changed social conditions, the presumption of advancement may be rebutted by very little evidence. 
@@ -468,7 +468,7 @@ _Siah’s_ case), Chan Sek Keong CJ reaffirmed the applicability and relevance i
 
 73     It is well established that in a joint tenancy, there is a right of survivorship when one of the cotenants die. In the present case, it was axiomatic that the right of survivorship dictated that the entire property in a joint tenancy belongs to the defendant. However, this will result in the deceased’s estate being left with nothing. This seems to be unfair and unjust. Case law states that equity intervenes to ensure that although the deceased and the defendant remain joint tenants _at law_ , they are actually tenants in common _in equity_ , according to the proportion of their respective financial contributions. Accordingly, I hold that the existence of a resulting trust overrides the right of survivorship in the joint tenancies of both Minton Rise and 18 Jalan Tari Payong. 
 
-74     Judith Prakash J rightly opined in _Neo Boh Tan vs Ng Kim Whatt_ (Originating Summons No 74 of 2000, unreported [2000] SGHC 31) (at [11]): 
+74     Judith Prakash J rightly opined in _Neo Boh Tan vs Ng Kim Whatt_ (Originating Summons No 74 of 2000, unreported <span class="citation">[2000] SGHC 31</span>) (at [11]): 
 
  As joint tenants of the flat, the plaintiff and defendant have at law an identical interest in the whole of the flat. The position is, however, different in equity because of the way in which they paid for the flat. The governing principle is that where two or more persons buy a property together but pay for it in unequal shares, then even if they register themselves as joint owners of the property, the law will presume that the express joint tenancy has been severed in equity into an implied tenancy in common in unequal shares proportioned to the amount of the purchase price contributed by each co-owner. As Professor Tan Sook Yee puts it in Principles of Singapore Land Law (at pp 91 to 92): 
 
@@ -659,7 +659,7 @@ The defendant is required to execute instruments of Transfer for both the proper
 
  NE at p 154 on 21 September 2006. 
 
- Also see Sitiawah Bee bte Kader v Rosiyah bte Abdullah [2000] 1 SLR 612. 
+ Also see Sitiawah Bee bte Kader v Rosiyah bte Abdullah <span class="citation">[2000] 1 SLR 612</span>. 
 
  NE at pp 289-292 on 25 September 2006. C opyright © Government of Singapore. 
 

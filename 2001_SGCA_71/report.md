@@ -232,7 +232,7 @@ _The issues_
 
  c Whether it was believable that the appellant would be able to pay for the drugs. 
 
-22     In dealing with these issues, the following passage from _Public Prosecutor v Lim Ah Poh and another_ [1992] 1 SLR 87 was borne in mind: 
+22     In dealing with these issues, the following passage from _Public Prosecutor v Lim Ah Poh and another_ <span class="citation">[1992] 1 SLR 87</span> was borne in mind: 
 
  An appellate court will not disturb findings of fact unless they are clearly reached against the weight of the evidence. In examining the evidence, an appellate court has always to bear in mind that it has neither seen nor heard the witnesses and has to pay due regard to the trial judges findings and their reasons therefor. 
 

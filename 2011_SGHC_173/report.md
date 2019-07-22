@@ -24,7 +24,7 @@ _Arbitration_
 
 2       The present proceedings, filed by the applicant on 6 July 2009, concern the fifth award dated 15 April 2009 (“the Costs Award”) made by the arbitrator (“the Arbitrator” or “the Tribunal”) in SIAC Arbitration No 37/2002 (“the Arbitration”). The first proceedings, Originating Summons No 903 of 2008 (“OS 903”), concern the third interim award dated 20 May 2008 made by the Arbitrator while the second proceedings, Originating Summons No 121 of 2009 concern the fourth interim award dated 20 October 2008 made by the Arbitrator. 
 
-3       I have set out the facts relating to the present proceedings as well as to OS 903 and OS 121 in my judgment in OS 903 ([2011] SGHC 171). For the reasons set out in the judgment in OS 903, the Costs Award must be set aside. Accordingly, this application is allowed with costs. 
+3       I have set out the facts relating to the present proceedings as well as to OS 903 and OS 121 in my judgment in OS 903 (<span class="citation">[2011] SGHC 171</span>). For the reasons set out in the judgment in OS 903, the Costs Award must be set aside. Accordingly, this application is allowed with costs. 
 
  Copyright © Government of Singapore. 
 

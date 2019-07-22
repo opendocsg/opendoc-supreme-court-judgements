@@ -283,7 +283,7 @@ Being a trustee by implication of law, the Law Society is entitled to make an ap
 
 The proposed scheme falls within the terms `investment` or `other transaction` in this section. 
 
-The Court of Appeal in **Leo Teng Choy v Leo Teng Kit** [2001] 1 SLR 256 has held (at [para ]22) that s 56 of the TA does not confer powers on the trustees. Instead it confers powers on the court to make the orders sought and is therefore not subject to s 2(2) of the TA which reads: 
+The Court of Appeal in **Leo Teng Choy v Leo Teng Kit** <span class="citation">[2001] 1 SLR 256</span> has held (at [para ]22) that s 56 of the TA does not confer powers on the trustees. Instead it confers powers on the court to make the orders sought and is therefore not subject to s 2(2) of the TA which reads: 
 
  The powers conferred by this Act on trustees are in addition to the powers conferred by the instrument, if any, creating the trust, but those powers, unless otherwise stated, apply if and so far only as a contrary intention is not expressed in the instrument, if any, creating the trust, and have effect subject to the terms of that instrument. 
 

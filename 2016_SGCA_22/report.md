@@ -16,7 +16,7 @@
 
 _Civil Procedure_ – _Striking Out_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2015] 5 SLR 819.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2015] 5 SLR 819</span>.] 
 
 6 April 2016 Judgment reserved. 
 

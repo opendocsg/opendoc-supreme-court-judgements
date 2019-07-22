@@ -93,7 +93,7 @@ will face potential suits by his sub-buyer, but is it also within the parties’
 
  [emphasis added] 
 
-14     The decision in _Biggin_ has been adopted by the Singapore Court of Appeal in _Brown Noel Trading Pte Ltd v Donald & McArthy Pte Ltd_ [1997] 1 SLR 1. However, Defendant’s Counsel (“DC”) casts doubt on the correctness of the decision in _Biggin_ by quoting from the Australian cases of _Unity Insurance Brokers Pty Limited v Rocco Pezzano Pty Limited_ [1998] 193 CLR 603 and _White Industries QLD Pty Ltd v Hennessey Glass & Aluminium Systems Pty Ltd_ [1999] 1 QdR 210 _,_ where the courts questioned the reasoning of the Court of Appeal in _Biggin._ 
+14     The decision in _Biggin_ has been adopted by the Singapore Court of Appeal in _Brown Noel Trading Pte Ltd v Donald & McArthy Pte Ltd_ <span class="citation">[1997] 1 SLR 1</span>. However, Defendant’s Counsel (“DC”) casts doubt on the correctness of the decision in _Biggin_ by quoting from the Australian cases of _Unity Insurance Brokers Pty Limited v Rocco Pezzano Pty Limited_ [1998] 193 CLR 603 and _White Industries QLD Pty Ltd v Hennessey Glass & Aluminium Systems Pty Ltd_ [1999] 1 QdR 210 _,_ where the courts questioned the reasoning of the Court of Appeal in _Biggin._ 
 
 15     While I am bound by the Singapore Court of Appeal’s decision to follow _Biggin_ in _Brown Noel Trading,_ I also find that there are sound reasons to adopt the decision in _Biggin_. I shall summarise the relevant cases before setting out my reasons for this conclusion. 
 

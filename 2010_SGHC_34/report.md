@@ -315,7 +315,7 @@ _(ii) The defendant’s case_
 
 83     The defendantc ontended that Robert had ac tual authority from the plaintiff to transfer the sun of US$542,000 from the ac c ount to Yong; there was therefore no breac h of mandate. 
 
-84     Moreover the defendant argued, the law required a high standard of proof for an allegation of forgery, fraud and/or c riminal c onduc t, c iting the Court of Appeal’s dec ision in _Yogambikai Nagarajah v Indian Overseas Bank_ [1997] 1 SLR(R) 258 (“ _Yogambikai_ ”) and this was reiterated in _Chua Kwee Chen, Lim Chah In v Koh Choon Chin_ [2006] 3 SLR(R) 469. 
+84     Moreover the defendant argued, the law required a high standard of proof for an allegation of forgery, fraud and/or c riminal c onduc t, c iting the Court of Appeal’s dec ision in _Yogambikai Nagarajah v Indian Overseas Bank_ <span class="citation">[1997] 1 SLR(R) 258</span> (“ _Yogambikai_ ”) and this was reiterated in _Chua Kwee Chen, Lim Chah In v Koh Choon Chin_ <span class="citation">[2006] 3 SLR(R) 469</span>. 
 
 85     In _Yogambikai_ , the appellant appealed against the trial judge’s dec ision in: (i) dismissing her c laim that her mandate signature was forged and that a letter to the respondent bank purportedly c ontaining her instruc tions to transfer moneys from her fixed deposit to one Valli’s ac c ount was not signed by her and that (ii) moneys held in her ac c ount with the respondent bank were held on trust for the benefit of Valli and Valli’s infant daughter. 
 

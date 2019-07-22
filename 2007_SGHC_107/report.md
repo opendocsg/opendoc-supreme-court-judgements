@@ -62,7 +62,7 @@ Two related questions arise: First, does this “right” exist quite apart from
 11     In Singapore, we have one general provision dealing with setting aside for irregularity under O 
 
 
-2       r 2, and other specific provisions for various particular circumstances such as O 13 r 8, O 19 r 9 and O 42 r 11. With the greatest respect, I do not think that Lord Diplock’s principle is what the local courts have in mind when they speak of setting aside an irregular judgment _ex debito justitiae_. It appears to me that the “right” to set aside the irregular judgment is seen by the local courts as being exercised _through_ the existing Rules rather than in spite of them. For instance, in _TR Networks Ltd and Others v Elixir Health Holdings Pte Ltd and Others_ [2005] SGHC 106, Tay Yong Kwang J first invoked O 19 r 9 (granting the Court the power to set aside an irregular judgment in default of pleadings) before continuing at [26]: 
+2       r 2, and other specific provisions for various particular circumstances such as O 13 r 8, O 19 r 9 and O 42 r 11. With the greatest respect, I do not think that Lord Diplock’s principle is what the local courts have in mind when they speak of setting aside an irregular judgment _ex debito justitiae_. It appears to me that the “right” to set aside the irregular judgment is seen by the local courts as being exercised _through_ the existing Rules rather than in spite of them. For instance, in _TR Networks Ltd and Others v Elixir Health Holdings Pte Ltd and Others_ <span class="citation">[2005] SGHC 106</span>, Tay Yong Kwang J first invoked O 19 r 9 (granting the Court the power to set aside an irregular judgment in default of pleadings) before continuing at [26]: 
 
  If a default judgment is found to be irregular and incapable of being corrected by varying it by amending any documents, the defendant may have it set aside as a matter of right. [emphasis added] 
 
@@ -264,7 +264,7 @@ In response to the above, Anthony Poon commented in the 25 April 2005 email:
 
 **_Evaluation of the merits of Mercurine’s defence_** 
 
-46     If this was a regular judgment, I ought to now ask myself if Mercurine’s defence has “a real prospect of success” and “carried some degree of conviction”: _Alpine Bulk Transport v Saudi Eagle Shipping_ [1986] 2 Lloyd’s Rep 221 (“ _The Saudi Eagle_ ”). As it stands, I am bound by high and established authority which makes it clear that “a real prospect of success” entails a higher standard than that required to successfully resist an O 14 application. In _Abdul Gaffer v Chua Kwang Yong_ [1995] 1 SLR 484, the Court of Appeal confirmed at [18] that: 
+46     If this was a regular judgment, I ought to now ask myself if Mercurine’s defence has “a real prospect of success” and “carried some degree of conviction”: _Alpine Bulk Transport v Saudi Eagle Shipping_ [1986] 2 Lloyd’s Rep 221 (“ _The Saudi Eagle_ ”). As it stands, I am bound by high and established authority which makes it clear that “a real prospect of success” entails a higher standard than that required to successfully resist an O 14 application. In _Abdul Gaffer v Chua Kwang Yong_ <span class="citation">[1995] 1 SLR 484</span>, the Court of Appeal confirmed at [18] that: 
 
  ... it is not sufficient to show merely an arguable defence that would justify leave to defend under O 14; it must both have a real prospect of success and carry some degree of conviction. 
 
@@ -318,7 +318,7 @@ the documents. I should also note that a large part of my findings has been base
 
 56     Rule 6 states that where the claims do not fall under O 13 rr 1-4 above, then judgment in default of appearance cannot be entered and the plaintiff must proceed with the action as if the defendant had entered an appearance. This would happen if, for instance, the writ was endorsed with a claim for a liquidated demand as well as a claim for an injunction. 
 
-57     Mercurine cited the case of _Panwell Investments v Lau Ee Theow_ [1995] 3 SLR 137 (“ _Panwell Investments_ ”) for the proposition that the word “only” in O 13 rr 1-4 means: 
+57     Mercurine cited the case of _Panwell Investments v Lau Ee Theow_ <span class="citation">[1995] 3 SLR 137</span> (“ _Panwell Investments_ ”) for the proposition that the word “only” in O 13 rr 1-4 means: 
 
  ... solely or solely as an alternative remedy which is able to stand up independently on its own, each case being considered in the light of its pleaded facts and claims made, with all ancillary, i.e. subordinate relief being disregarded. 
 
@@ -352,7 +352,7 @@ It should be noted that the claim for inquiries to be held did not fall under an
 64     Mercurine urged me to accept that a judgment entered for an excessive sum was irregular 
 
 
-and ought to be set aside. The case of _CSR South East Asia Pte Ltd v Sunrise Insulation Pte Ltd_ [2002] 3 SLR 281 was cited. In this case, by consent, the parties had agreed that the defendants would pay the plaintiffs a certain sum in four equal installments. It was also agreed that in the event of default on the defendants’ part, the plaintiffs would be at liberty to enter judgment for the unpaid balance together with interests and costs. The fourth installment was late and default judgment was entered for the total sum minus the three paid installments. However, it later transpired that the plaintiffs had been paid the fourth installment prior to the entry of default judgment and the payment, in the form of a cheque, had been retained and appropriated by the plaintiffs. It was thus clear that the judgment sum was excessive. MPH Rubin J said: 
+and ought to be set aside. The case of _CSR South East Asia Pte Ltd v Sunrise Insulation Pte Ltd_ <span class="citation">[2002] 3 SLR 281</span> was cited. In this case, by consent, the parties had agreed that the defendants would pay the plaintiffs a certain sum in four equal installments. It was also agreed that in the event of default on the defendants’ part, the plaintiffs would be at liberty to enter judgment for the unpaid balance together with interests and costs. The fourth installment was late and default judgment was entered for the total sum minus the three paid installments. However, it later transpired that the plaintiffs had been paid the fourth installment prior to the entry of default judgment and the payment, in the form of a cheque, had been retained and appropriated by the plaintiffs. It was thus clear that the judgment sum was excessive. MPH Rubin J said: 
 
  In my evaluation, the plaintiffs’ holding on to the defendants’ cheque was no mere accident or inadvertence but a conscious act. In my opinion, they had misjudged the legal implications of their action in retaining and subsequently cashing the said cheque. In my determination, the plaintiffs’ proceeding to enter judgment, as they did, for a sum which did not take into account the amount stated in the fourth instalment cheque was irregular and ought to be set aside ex debito justitiae. 
 
@@ -362,7 +362,7 @@ and ought to be set aside. The case of _CSR South East Asia Pte Ltd v Sunrise In
 
 66     Mercurine argued that Canberra’s decision to enter default judgment for an excessive sum was “no mere accident or inadvertence but a conscious act” because Canberra was well-aware of the Set-off Agreement. Not only that, but Canberra was also insisting during the hearing and in its submissions that the amount was correct. In such circumstances, no amendment to the judgment sum ought to be allowed. It appears to me that Mercurine was not aware of the filing of SUM 2631/2007 and thus its submissions naturally did not address the fact that Canberra _did_ apply to amend the excessive judgment sum. 
 
-67     In its submissions, Canberra cited _Philip Securities v Yong Tet Miaw_ and _Bayerische Landesbank Girozentrale v Dato Azlan bin Hashim_ [2002] 4 SLR 838 (“ _Bayerische Landesbank Girozentrale_ ”). The latter case involved a summary judgment application. MPH Rubin J had held that the court was granted the power to make amendments so as to reduce the judgment sum to the proper figure by para 14 of the First Schedule to the Supreme Court of Judicature Act (Cap 322, 1999 Ed). Canberra then cited the following passage: 
+67     In its submissions, Canberra cited _Philip Securities v Yong Tet Miaw_ and _Bayerische Landesbank Girozentrale v Dato Azlan bin Hashim_ <span class="citation">[2002] 4 SLR 838</span> (“ _Bayerische Landesbank Girozentrale_ ”). The latter case involved a summary judgment application. MPH Rubin J had held that the court was granted the power to make amendments so as to reduce the judgment sum to the proper figure by para 14 of the First Schedule to the Supreme Court of Judicature Act (Cap 322, 1999 Ed). Canberra then cited the following passage: 
 
  Furthermore, I am of the view that para 14 to the Sch 1 to the Supreme Court of Judicature Act (Cap 322, 1999 Ed) provides that the High Court shall have the “powers to grant all reliefs and remedies at law and in equity”. These additional powers conferred on the High Court are a useful adjunct which the court may draw upon as necessary when it is just or equitable to do so. These powers are to be exercised with utmost care to right wrongs and to offer redress to applicants with promptitude particularly when circumstances make it plain that resiling from the exercise of 
 
@@ -396,11 +396,11 @@ The latter states:
 
 73     Do the two requirements of O 2 r 2(1)—that an application must be made within a reasonable time and before any fresh step has been taken—apply to applications to set aside an irregular default judgment under O 13 r 8? 
 
-74     It is clear that insofar as _regular_ default judgments are concerned, delay is a relevant consideration. In _Ang Kim Soon v Sunray Marine Pte Ltd_ [1997] 3 SLR 619 the defendant sought to set aside a regular default interlocutory judgment after a delay of about six months. Choo Han Teck JC (as he then was) said: 
+74     It is clear that insofar as _regular_ default judgments are concerned, delay is a relevant consideration. In _Ang Kim Soon v Sunray Marine Pte Ltd_ <span class="citation">[1997] 3 SLR 619</span> the defendant sought to set aside a regular default interlocutory judgment after a delay of about six months. Choo Han Teck JC (as he then was) said: 
 
  [H]aving considered the chronology of this case and the conduct of the parties, I find that it is too late now for the employer to set aside the default judgment. Once liability is disputed, the employer was bound to set aside the interlocutory judgment at the earliest opportunity. It should not play a cat-and-mouse game with the shipowner using the plaintiff as cheese. 
 
-Delay was also a consideration when Woo Bih Li J refused to set aside another regular default judgment in _Lee Theng Wee v Tay Chor Teng_ [2003] SGHC 173. 
+Delay was also a consideration when Woo Bih Li J refused to set aside another regular default judgment in _Lee Theng Wee v Tay Chor Teng_ <span class="citation">[2003] SGHC 173</span>. 
 
 75     In respect of irregular default judgments, Mercurine cited a number of Malaysian cases — _Malayan Banking v Sykt Jaya Perkakas (Sabah)_ [1993] 3 MLJ 503, _United Malayan Banking Corp Bhd v Mideast Development Sdn Bhd & Ors_ [1991] 1 MLJ 55 and _Taman Pangkor Sdn Bhd v Doric Development Sdn Bhd & 2 Ors_ [1987] 2 CLJ—for the proposition that because an irregular judgment is set aside _ex debito justitiae_ , delay was irrelevant to whether such a judgment ought to be set aside. 
 

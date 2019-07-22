@@ -28,11 +28,11 @@ _Legal Profession_ – _Bill of Costs_
 
 2       The MCA application was opposed by the third respondent well as by BLI (“the first respondent”) who is the third respondent’s younger daughter and by BLJ (“the second respondent”) who is the husband of the first respondent. Henceforth the first and second respondents will be referred to collectively as “the first two respondents”. 
 
-3       The State Courts found that the third respondent lacked capacity and granted the MCA Application (see the decision of the senior district judge (“Senior District Judge”) dated 11 December 2012 at [2012] SGDC 489). 
+3       The State Courts found that the third respondent lacked capacity and granted the MCA Application (see the decision of the senior district judge (“Senior District Judge”) dated 11 December 2012 at <span class="citation">[2012] SGDC 489</span>). 
 
-4       Dissatisfied with the decision of the Senior District Judge, all three respondents appealed to the High Court in Registrars’ Appeals Nos 223 of 2012 and 224 of 2012 (“the RAs”). The RAs were heard by this court and allowed, and the decision of the court below was set aside (see _Re BKR_ [2013] 4 SLR 1257) (“ _Re BKR_ ”). 
+4       Dissatisfied with the decision of the Senior District Judge, all three respondents appealed to the High Court in Registrars’ Appeals Nos 223 of 2012 and 224 of 2012 (“the RAs”). The RAs were heard by this court and allowed, and the decision of the court below was set aside (see _Re BKR_ <span class="citation">[2013] 4 SLR 1257</span>) (“ _Re BKR_ ”). 
 
-5       The applicants appealed to the Court of Appeal against the decision of this court in Civil Appeal No 27 of 2014. The appeal was allowed (see _Re BKR_ [2015] 4 SLR 81) with costs reserved. 
+5       The applicants appealed to the Court of Appeal against the decision of this court in Civil Appeal No 27 of 2014. The appeal was allowed (see _Re BKR_ <span class="citation">[2015] 4 SLR 81</span>) with costs reserved. 
 
 
 Subsequently, the Court of Appeal heard parties on costs. On 24 November 2015, the Court of Appeal 
@@ -94,7 +94,7 @@ in relation to the proceedings set out in [6(a) to (g)].
 
 **_The submissions_** 
 
-10     At the hearing, the court inquired of the applicants’ counsel (“Mr Eng”) his reason(s) for wanting to see the solicitor-and-client charges rendered by the first two respondents’ solicitors. He informed the court that it was necessary and relevant for the taxation review(s) of the Amended Bill of Costs. In support of his arguments, Mr Eng cited O 59 of the Rules of Court (Cap 322, R 5, 1997 Rev Ed) (“the Rules of Court”) for the non-exhaustive factors the court must take into account in the multifactorial approach to be taken in taxation. He also relied on the Court of Appeal’s decisions in _Lin Jian Wei and another v Lim Eng Hock Peter_ [2011] 3 SLR 1052 (“ _Lin Jian Wei_ ”) and _Likpin International Ltd v Swiber Holdings Ltd and another_ [2016] 4 SLR 1079 (“ _Likpin International_ ”) as well as the High Court’s decision in _Singapore Medical Council v Lim Mey Lee Susan_ [2015] SGHC 129 (“ _Susan Lim_ ”). 
+10     At the hearing, the court inquired of the applicants’ counsel (“Mr Eng”) his reason(s) for wanting to see the solicitor-and-client charges rendered by the first two respondents’ solicitors. He informed the court that it was necessary and relevant for the taxation review(s) of the Amended Bill of Costs. In support of his arguments, Mr Eng cited O 59 of the Rules of Court (Cap 322, R 5, 1997 Rev Ed) (“the Rules of Court”) for the non-exhaustive factors the court must take into account in the multifactorial approach to be taken in taxation. He also relied on the Court of Appeal’s decisions in _Lin Jian Wei and another v Lim Eng Hock Peter_ <span class="citation">[2011] 3 SLR 1052</span> (“ _Lin Jian Wei_ ”) and _Likpin International Ltd v Swiber Holdings Ltd and another_ <span class="citation">[2016] 4 SLR 1079</span> (“ _Likpin International_ ”) as well as the High Court’s decision in _Singapore Medical Council v Lim Mey Lee Susan_ <span class="citation">[2015] SGHC 129</span> (“ _Susan Lim_ ”). 
 
 11     To a further question from the court, Mr Eng clarified that he did not require to see the solicitors’ bill(s) of the first two respondents; he only wanted a breakdown of the hours their solicitors said they spent on the proceedings. Mr Eng complained that while the applicants had complied with the requisite Supreme Court Practice Directions (“the PD”) and filed a costs schedule before the Court of Appeal hearing, the first and second respondents had failed to do so in regard to the proceedings listed at [6] (save for CA 27/2014). Consequently, the court did not have a comparative schedule of costs to assist in the taxation and/or review of the Amended Bill of Costs. 
 
@@ -216,7 +216,7 @@ solicitors to produce their solicitors-and-client bills. [note: 8] The SAR furth
 
  CA 27/2014 $962,766.00 as against the guideline of $60,000 -$100,000. 
 
-_Hock Peter v Lin Jian Wei_ [2010] 45 SLR 331 to the successful plaintiff in his defamation suit against the two defendants. The appellate court’s decision was given in 2011 before the costs scheduling provisions came into effect. It was there held that besides the considerations listed in para 1(2) of Appendix 1 to O 59, the principle of proportionality must also apply regardless of whether taxation is on a standard or indemnity basis. The Court of Appeal said at [56]: 
+_Hock Peter v Lin Jian Wei_ <span class="citation">[2010] 45 SLR 331</span> to the successful plaintiff in his defamation suit against the two defendants. The appellate court’s decision was given in 2011 before the costs scheduling provisions came into effect. It was there held that besides the considerations listed in para 1(2) of Appendix 1 to O 59, the principle of proportionality must also apply regardless of whether taxation is on a standard or indemnity basis. The Court of Appeal said at [56]: 
 
  We think that costs that are plainly disproportionate to, inter alia , the value of the claim cannot be said to have been reasonably incurred. Thus, in assessing whether costs incurred are reasonable, it needs to be shown that the costs incurred were not just reasonable and necessary for the disposal of the matter, but also, in the entire context of that matter, proportionately incurred. 
 

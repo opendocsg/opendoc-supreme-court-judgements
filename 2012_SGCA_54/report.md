@@ -16,7 +16,7 @@
 
 _Contract_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2012] 2 SLR 903.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2012] 2 SLR 903</span>.] 
 
 28 September 2012 Judgment reserved 
 
@@ -24,7 +24,7 @@ _Contract_
 
 **Introduction and facts** 
 
-1       This is an appeal against the decision of the trial judge (“the Judge”) in _OCBC Capital Investment Asia Ltd v Wong Hua Choon_ [2012] 2 SLR 311 (“the Judgment”). 
+1       This is an appeal against the decision of the trial judge (“the Judge”) in _OCBC Capital Investment Asia Ltd v Wong Hua Choon_ <span class="citation">[2012] 2 SLR 311</span> (“the Judgment”). 
 
 **_The dramatis personae_** 
 
@@ -124,7 +124,7 @@ formed on 23 June 2009 or denying that the Risk Participation Period had been ex
 
 20     The Judge dismissed the Appellant’s claim. 
 
-21     In arriving at his decision, the Judge first reviewed the relevant case law (see the Judgment at [21]–[45]) after setting out the undisputed facts. He noted this court’s decision in _Norwest Holdings Pte Ltd (in liquidation) v Newport Mining Ltd and another appeal_ [2011] 4 SLR 617 (“ _Norwest_ ”) and stated that if the crucial term in the Term Sheet was tantamount to a “subject to contract” clause, then “very strong and exceptional context” must be demonstrated by the Appellant before the _prima facie_ inference that the parties’ intention was not to be bound prior to the execution of the Supplemental Agreement would be displaced (see the Judgment at [23]). He noted that “[t]he critical inquiry in resolving the applicable scenario is to determine from the objective evidence whether the parties intended to be _immediately bound_ to perform on the agreed terms or to defer legal relations until formal execution of the written contract” [emphasis in original], and that “[i]mmediacy of performance is the key consideration” (see the Judgment at [34]). 
+21     In arriving at his decision, the Judge first reviewed the relevant case law (see the Judgment at [21]–[45]) after setting out the undisputed facts. He noted this court’s decision in _Norwest Holdings Pte Ltd (in liquidation) v Newport Mining Ltd and another appeal_ <span class="citation">[2011] 4 SLR 617</span> (“ _Norwest_ ”) and stated that if the crucial term in the Term Sheet was tantamount to a “subject to contract” clause, then “very strong and exceptional context” must be demonstrated by the Appellant before the _prima facie_ inference that the parties’ intention was not to be bound prior to the execution of the Supplemental Agreement would be displaced (see the Judgment at [23]). He noted that “[t]he critical inquiry in resolving the applicable scenario is to determine from the objective evidence whether the parties intended to be _immediately bound_ to perform on the agreed terms or to defer legal relations until formal execution of the written contract” [emphasis in original], and that “[i]mmediacy of performance is the key consideration” (see the Judgment at [34]). 
 
 22     After construing the crucial term (see above at [11]), the Judge held that it had the same effect as a “subject to contract” clause (see the Judgment at [35]). 
 

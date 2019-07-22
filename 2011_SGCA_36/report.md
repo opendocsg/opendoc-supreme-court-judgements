@@ -18,7 +18,7 @@ _Financial and Securities Markets_ – _Fund management_
 
 _Financial and Securities Markets_ – _Regulatory requirements_ – _Market conduct_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2011] 1 SLR 348.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2011] 1 SLR 348</span>.] 
 
 22 July 2011 Judgment reserved. 
 
@@ -26,7 +26,7 @@ _Financial and Securities Markets_ – _Regulatory requirements_ – _Market con
 
 **Introduction** 
 
-1       This is an appeal by Dr Tan Chong Koay (“Dr Tan”) and Pheim Asset Management Sdn Bhd (“Pheim Malaysia”) (collectively, “the Appellants”) against the judgment of the High Court judge (“the Judge”) in _Monetary Authority of Singapore v Tan Chong Koay and another_ [2011] 1 SLR 348 (“the Judgment”) ordering each of them to pay to the respondent, _viz_ , the Monetary Authority of Singapore (“MAS”), a civil penalty of $250,000 for infringing s 197(1)( _b_ ) of the Securities and Futures Act (Cap 289, 2006 Rev Ed) (“the SFA”). 
+1       This is an appeal by Dr Tan Chong Koay (“Dr Tan”) and Pheim Asset Management Sdn Bhd (“Pheim Malaysia”) (collectively, “the Appellants”) against the judgment of the High Court judge (“the Judge”) in _Monetary Authority of Singapore v Tan Chong Koay and another_ <span class="citation">[2011] 1 SLR 348</span> (“the Judgment”) ordering each of them to pay to the respondent, _viz_ , the Monetary Authority of Singapore (“MAS”), a civil penalty of $250,000 for infringing s 197(1)( _b_ ) of the Securities and Futures Act (Cap 289, 2006 Rev Ed) (“the SFA”). 
 
 **Background facts** 
 
@@ -338,7 +338,7 @@ This observation applies equally to what MAS seeks to achieve in the SGX through
 
 **_The first and third limbs of s 197(1) of the SFA_** 
 
-43     We now turn to consider the scope of the first and third limbs of s 197(1) of the SFA. Thus far, there has been no authoritative judicial statement on this issue in our local jurisprudence. In _Chua Li Hoon Matilda and Others v Public Prosecutor_ [2009] SGHC 116 (“ _Chua Li Hoon Matilda_ ”), Choo Han Teck J interpreted s 97(1) of the SIA at [5]–[6] thus: 
+43     We now turn to consider the scope of the first and third limbs of s 197(1) of the SFA. Thus far, there has been no authoritative judicial statement on this issue in our local jurisprudence. In _Chua Li Hoon Matilda and Others v Public Prosecutor_ <span class="citation">[2009] SGHC 116</span> (“ _Chua Li Hoon Matilda_ ”), Choo Han Teck J interpreted s 97(1) of the SIA at [5]–[6] thus: 
 
  5 Turning first, to the offence of creating a false or misleading appearance of the price of securities, s 97(1) of the [SIA] states: 
 
@@ -408,7 +408,7 @@ misleading appearance of active trading in securities. Section 197(6) provides a
 Brennan J’s statement of principle is well established in criminal jurisprudence, as can be seen from _Lim Chin Aik v The Queen_ [1963] AC 160 at 174 and also _Gammon (Hong Kong) Ltd v Attorney-_ 
 
 
-_General of Hong Kong_ [1985] AC 1 at 14, both of which he referred to. A similar statement of principle by this court can be found in _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR(R) 1 at [55]. 
+_General of Hong Kong_ [1985] AC 1 at 14, both of which he referred to. A similar statement of principle by this court can be found in _Tan Kiam Peng v Public Prosecutor_ <span class="citation">[2008] 1 SLR(R) 1</span> at [55]. 
 
 51     The question, therefore, is whether there is anything in s 197(1) of the SFA to displace the common law presumption that a statute does not impose criminal liability without _mens rea_ unless the purpose of the statute is not merely to deter a person from engaging in prohibited conduct but to compel him to take preventive measures to avoid the possibility that, without deliberate conduct on his part, the external elements of the offence might occur. It is arguable that there is nothing to displace such a presumption except for the existence of the second limb of s 197(1), which is expressly intention-based. It must be recognised that if s 197(1) proscribes the effects of an investor’s activities in the securities market without considering his intention or knowledge regarding those effects, there would be nothing he could do in advance to prevent himself from incurring liability, short of not trading at all. In other words, he would be trading at his peril. This is arguably not the policy intention of s 197(1). 
 

@@ -121,7 +121,7 @@ he was not making a confession as defined by s 17 or by the test set out by Lord
 
  The test whether a statement is a confession is an objective one, whether to the mind of a reasonable person reading the statement at the time and in the circumstance in which it was made it can be said to amount to a statement that the accused committed the offence or which suggested the inference that he committed the offence. The statement must be looked at as a whole and it must be considered on its own terms without reference to extrinsic facts. ... The appropriate test in deciding whether a particular statement is a confession is whether the words of admission in the context expressly or substantially admit guilt or do they taken together in the context inferentially admit guilt? 
 
-14     In _Abdul Rashid v PP_ [1994] 1 SLR 119 the Court of Criminal Appeal adopted Lord Guest’s test and added at 129, [29]: 
+14     In _Abdul Rashid v PP_ <span class="citation">[1994] 1 SLR 119</span> the Court of Criminal Appeal adopted Lord Guest’s test and added at 129, [29]: 
 
  We need only add that, for a statement to amount to a confession, it need not be of a plenary or unqualified nature and can also be of a non-plenary nature, so long as the statement connects the accused in some way with the offence. 
 
@@ -148,7 +148,7 @@ get an accused person to respond to a charge after being advised that if there i
 
 20     The statements recorded on 13, 15, 16 and 19 December were not recorded under s 122(6) and (8), and as ASP Toh is not a police officer, the admissibility of the statements is not governed by s 122(5) of the CPC which governs the admission of statements made to police officers. 
 
-21     The Court of Criminal Appeal held in _Tan Boon Tat v PP_ [1992] 2 SLR 1 at 9–10, [35], that a confession made to a narcotics officer is admissible if it complies with s 24 of the Evidence Act. 
+21     The Court of Criminal Appeal held in _Tan Boon Tat v PP_ <span class="citation">[1992] 2 SLR 1</span> at 9–10, [35], that a confession made to a narcotics officer is admissible if it complies with s 24 of the Evidence Act. 
 
 22     The recording of the statement of 13 December started at 4.05pm and ended two hours later. The statement reads: 
 
@@ -479,13 +479,13 @@ and Lord Diplock added at 65, [39]:
 
 This decision is binding on me. 
 
-77     The Court of Appeal ruled in _Jabar v PP_ [1995] 1 SLR 617 at 631, [53], in connection with the requirement in Art 9(1) that no person shall be deprived of his life or personal liberty except according to procedure established by law, that: 
+77     The Court of Appeal ruled in _Jabar v PP_ <span class="citation">[1995] 1 SLR 617</span> at 631, [53], in connection with the requirement in Art 9(1) that no person shall be deprived of his life or personal liberty except according to procedure established by law, that: 
 
  Any law which provides for the deprivation of a person’s life or personal liberty, is valid and binding so long as it is validly passed by Parliament. The court is not concerned with whether it is also fair, just and reasonable as well. 
 
 There is room for debate whether “so long as it is validly passed by Parliament” refers to the compliance with the processes for passing an Act or to its constitutional validity. I think it relates to both, as the court must be concerned that statutes be properly enacted and do not contravene the Constitution. 
 
-78     In _Kok Hoong Tan Dennis v PP_ [1997] 1 SLR 123, Yong Pung How CJ adopted the test laid down by the Supreme Court of India in _Budhan Choudhry v State of Bihar_ AIR (42) 1955 SC 191 at 193 for the equal protection of the law under Art 14 of the Constitution of India: 
+78     In _Kok Hoong Tan Dennis v PP_ <span class="citation">[1997] 1 SLR 123</span>, Yong Pung How CJ adopted the test laid down by the Supreme Court of India in _Budhan Choudhry v State of Bihar_ AIR (42) 1955 SC 191 at 193 for the equal protection of the law under Art 14 of the Constitution of India: 
 
  In order, however, to pass the test of permissible classification two conditions must be fulfilled, namely, (i) that the classification must be founded on an intelligible differentia which distinguishes persons or things that are grouped together from others left out of the group and (ii) that that differentia must have a rational relation to the object sought to be achieved by the statute in question. The classification may be founded on different bases; namely, geographical, or according to objects or occupations or the like. What is necessary is that there must be a nexus between the basis of classification and the object of the Act under consideration. 
 

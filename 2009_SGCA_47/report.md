@@ -24,7 +24,7 @@ _Evidence_ – _Proof of evidence_
 
 **Introduction** 
 
-1       This appeal was filed by Loo Chay Sit (the plaintiff in Suit No 265 of 2005 (“Suit 265/2005”)) against the decision of the trial judge (“the Judge”) in _Tan Chan Tee v Chen Tsui Yu_ [2009] SGHC 36 (“the Judgment”). The Judge had allowed the respondent’s counterclaim against the appellant for the sale proceeds of the property at 7 Margate Road (“the Property”). 
+1       This appeal was filed by Loo Chay Sit (the plaintiff in Suit No 265 of 2005 (“Suit 265/2005”)) against the decision of the trial judge (“the Judge”) in _Tan Chan Tee v Chen Tsui Yu_ <span class="citation">[2009] SGHC 36</span> (“the Judgment”). The Judge had allowed the respondent’s counterclaim against the appellant for the sale proceeds of the property at 7 Margate Road (“the Property”). 
 
 **Background** 
 

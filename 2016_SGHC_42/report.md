@@ -32,7 +32,7 @@ _Courts and Jurisdiction_ – _Judges_ – _Recusal_
 
 4       After a trial, I concluded that Mr Ong had not given a proper account of the assets of the father’s estate (“my substantive decision”). However, I also concluded that the private property which he had held in his name was not part of the assets of the father’s estate, _ie_ , he was not holding that property in trust for the father. 
 
-5       I ordered an inquiry before the Registrar of the Supreme Court to determine the assets of the father’s estate based on the specific guidelines which I had set out in my written judgment of 30 October 2012 for my substantive decision, _Ong Wui Swoon v Ong Wui Teck_ [2013] 1 SLR 733 (at 
+5       I ordered an inquiry before the Registrar of the Supreme Court to determine the assets of the father’s estate based on the specific guidelines which I had set out in my written judgment of 30 October 2012 for my substantive decision, _Ong Wui Swoon v Ong Wui Teck_ <span class="citation">[2013] 1 SLR 733</span> (at 
 
 
 ## [143]–[151]). 
@@ -45,7 +45,7 @@ _Courts and Jurisdiction_ – _Judges_ – _Recusal_
 
 9       However, Mdm Ong filed an appeal against AR Khng’s decision to grant Mr Ong an extension of time to appeal. 
 
-10     Both the appeals came up for hearing before me on 19 May 2014. I allowed Mdm Ong’s appeal in part in that I set aside AR Khng’s decision to allow the extension of time to appeal against AR Leong’s substantive decision. However, I allowed the extension of time for Mr Ong to appeal against AR Leong’s costs order to remain. Therefore, Mr Ong’s appeal before me remained only in respect of AR Leong’s costs order. After hearing arguments, I set aside AR Leong’s costs order in that such costs were not to be taxed although Mr Ong was still liable to pay the costs of the inquiry. I fixed the quantum of costs that he had to pay for the inquiry at $400. (see _Ong Wui Swoon v Ong Wui Teck_ [2014] SGHC 157). 
+10     Both the appeals came up for hearing before me on 19 May 2014. I allowed Mdm Ong’s appeal in part in that I set aside AR Khng’s decision to allow the extension of time to appeal against AR Leong’s substantive decision. However, I allowed the extension of time for Mr Ong to appeal against AR Leong’s costs order to remain. Therefore, Mr Ong’s appeal before me remained only in respect of AR Leong’s costs order. After hearing arguments, I set aside AR Leong’s costs order in that such costs were not to be taxed although Mr Ong was still liable to pay the costs of the inquiry. I fixed the quantum of costs that he had to pay for the inquiry at $400. (see _Ong Wui Swoon v Ong Wui Teck_ <span class="citation">[2014] SGHC 157</span>). 
 
 11     Mr Ong then filed two appeals in respect of the decisions that I made on 19 May 2014. In response, Mdm Ong filed two applications to strike out both of Mr Ong’s appeals on the ground that he had not obtained the leave of court to appeal to the Court of Appeal. 
 
@@ -116,7 +116,7 @@ respect of the mother’s estate. This was to seek (i) the revocation of Mr Ong�
 
 30     Thirdly, as I will also elaborate later below, Mr Ong was complaining about rulings of mine which went against him while ignoring those rulings which went in his favour. 
 
-31     Fourthly, in respect of the mother’s estate, Mr Ong did not say in his affidavits for the present application that he could not render proper accounts because he did not know where the file or documents for that estate were. Indeed, the judgment of the district judge Seah Chi-Ling (“DJ Seah”) in respect of Mdm Ong’s 2013 action, _Ong Wui Swoon v Ong Wui Teck_ [2015] SGDC 270 (“DJ Seah’s Judgment”), did not indicate that Mr Ong’s failure to access documents to do a proper account of the assets of the mother’s estate was an issue. 
+31     Fourthly, in respect of the mother’s estate, Mr Ong did not say in his affidavits for the present application that he could not render proper accounts because he did not know where the file or documents for that estate were. Indeed, the judgment of the district judge Seah Chi-Ling (“DJ Seah”) in respect of Mdm Ong’s 2013 action, _Ong Wui Swoon v Ong Wui Teck_ <span class="citation">[2015] SGDC 270</span> (“DJ Seah’s Judgment”), did not indicate that Mr Ong’s failure to access documents to do a proper account of the assets of the mother’s estate was an issue. 
 
 32     If the proper rendering of accounts was still an issue in respect of the mother’s estate and if Mr Ong had a valid reason why he could not render such accounts, then the facts of that case would have to be considered. 
 
@@ -162,7 +162,7 @@ more efficient as parties would not have to repeat the same background facts bef
 
 47     Thirdly, Mr Ong alleged (in paras 13 and 28–31 of his first supporting affidavit) that I had failed to take into account that the father’s estate was negative in value. I did no such thing. I left it to the Registrar to make an inquiry and it was for Mr Ong to persuade AR Leong that the father’s estate was negative in value. Indeed, I note from DJ Seah’s Judgment at [27] that Mr Ong had made the same point to him, _ie_ , that it was the Registrar who made the inquiry. 
 
-48     Furthermore, in considering Mr Ong’s appeal in respect of the lack of merits of AR Leong’s substantive decision, I accepted that his appeal was not clearly hopeless. However, I decided that he was not entitled to an extension of time to file an appeal in respect of that decision for other reasons stated in my grounds of decision dated 7 August 2014 (see _Ong Wui Swoon v Ong Wui Teck_ [2014] SGHC 157 at [64]). 
+48     Furthermore, in considering Mr Ong’s appeal in respect of the lack of merits of AR Leong’s substantive decision, I accepted that his appeal was not clearly hopeless. However, I decided that he was not entitled to an extension of time to file an appeal in respect of that decision for other reasons stated in my grounds of decision dated 7 August 2014 (see _Ong Wui Swoon v Ong Wui Teck_ <span class="citation">[2014] SGHC 157</span> at [64]). 
 
 49     Mr Ong’s allegation on this point was therefore factually incorrect. 
 
@@ -244,7 +244,7 @@ negated many of his complaints against me, he has now suggested, also for the fi
 
 **_Language_** 
 
-78     In _Attorney-General v Tan Liang Joo John and others_ [2009] 2 SLR(R) 1132 (“ _Tan Liang Joo John_ ”), Judith Prakash J said at [14]–[18]: 
+78     In _Attorney-General v Tan Liang Joo John and others_ <span class="citation">[2009] 2 SLR(R) 1132</span> (“ _Tan Liang Joo John_ ”), Judith Prakash J said at [14]–[18]: 
 
  14 Fair criticism does not amount to contempt of court. In an off-cited passage from Andre Paul Terence Ambard v The Attorney-General of Trinidad and Tobago [1936] 1 AII ER 704 (“ Ambard ”), Lord Atkin elaborated that (at 709): 
 
@@ -258,7 +258,7 @@ negated many of his complaints against me, he has now suggested, also for the fi
 
  18 Another relevant factor is the manner in which the alleged criticism is made. The criticism must generally be expressed in a temperate and dispassionate manner, since an intention to vilify the courts is easily inferred where outrageous and abusive language is used (see Borrie & Lowe : The Law of Contempt (Nigel Lowe and Brenda Sufrin, Butterworths, 3rd Ed, 1996 (“ Borrie & Lowe ”) at p 349). ... 
 
-79     Although Mr Ong was aware that any criticism of the court must be in language which is temperate as he himself cited the judgment of Prakash J in _Tan Liang Joo John_ , his language was not temperate. In his two supporting affidavits, he used words like “procurement”, “extreme biasness”, “complicity”, “flip-flopped”, “sham”, “vehemently refused” and “swept under the carpet” against this court. He even alleged that I had “morphed from a judge into a supernumery [ _sic_ ] opposing lawyer” (see para 58 of his first supporting affidavit). He also referred to _Re Raffles Town Club Pte Ltd_ [2008] 2 SLR(R) 1101 at [7] to allege that I cannot “fully remove all trace of odour from the air of impartiality. Indeed, the more [I] seek to justify [my] position, the stronger the smell may grow.” 
+79     Although Mr Ong was aware that any criticism of the court must be in language which is temperate as he himself cited the judgment of Prakash J in _Tan Liang Joo John_ , his language was not temperate. In his two supporting affidavits, he used words like “procurement”, “extreme biasness”, “complicity”, “flip-flopped”, “sham”, “vehemently refused” and “swept under the carpet” against this court. He even alleged that I had “morphed from a judge into a supernumery [ _sic_ ] opposing lawyer” (see para 58 of his first supporting affidavit). He also referred to _Re Raffles Town Club Pte Ltd_ <span class="citation">[2008] 2 SLR(R) 1101</span> at [7] to allege that I cannot “fully remove all trace of odour from the air of impartiality. Indeed, the more [I] seek to justify [my] position, the stronger the smell may grow.” 
 
 80     I add that Mr Ong had omitted some important words in his quotation. In that case, the court had said that the individual concerned “ **_might still not_** fully remove all trace of odour from the air of 
 

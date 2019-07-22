@@ -28,7 +28,7 @@ laid down by the Warsaw Convention, as amended by the Hague Protocol, (amended C
 
 relation to the loss of a package (one of seven packages) carried by the first appellant from Tokyo to 
 
-Kuala Lumpur via Singapore. [See [2001] 1 SLR 241.] However, as requested by the appellants, the 
+Kuala Lumpur via Singapore. [See <span class="citation">[2001] 1 SLR 241</span>.] However, as requested by the appellants, the 
 
 question of costs was reserved. Parties were directed to make their submissions in relation thereto. 
 
@@ -73,7 +73,7 @@ We will now set out the relevant rules of court:
 
  Without prejudice to Rules 9 and 10, the Court, in exercising its discretion with respect to costs, may take into account any offer to settle, the date the offer was made, the terms of the offer and the extent to which the plaintiffs judgment is more favourable than the terms of the offer to settle. 
 
-In **The Endurance 1** [1999] 1 SLR 661 this court had the occasion to consider the rationale and 
+In **The Endurance 1** <span class="citation">[1999] 1 SLR 661</span> this court had the occasion to consider the rationale and 
 
 scope of O 22A rr 9 and 12, and having reviewed some decisions of other jurisdictions (Ontario, 
 

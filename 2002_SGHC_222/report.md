@@ -242,7 +242,7 @@ We, Rohayaton binte Rohani (NRIC No. [xxx]), Norminah binte Dahlan (NRIC No. [xx
 
 The law 
 
-71\. The plaintiff's claim was for the equitable remedy of specific performance. It was all very well for his counsel to cite the law on specific performance as set out in _Snell's Principles of Equity_ (28 ed) and to rely on the case (so did the defendants) of _Banque Nationale de Paris v Tan Nancy_ [2002] 1 SLR 29 but, he overlooked something far more important. A fundamental principle of the law 
+71\. The plaintiff's claim was for the equitable remedy of specific performance. It was all very well for his counsel to cite the law on specific performance as set out in _Snell's Principles of Equity_ (28 ed) and to rely on the case (so did the defendants) of _Banque Nationale de Paris v Tan Nancy_ <span class="citation">[2002] 1 SLR 29</span> but, he overlooked something far more important. A fundamental principle of the law 
 
 
 of equity so well known that it requires no elaboration is, that he who comes to equity must come with clean hands. It was my finding that the plaintiff was not only an untruthful witness but that he came to court without clean hands. He only had himself to blame for being cheated of $200,000 as, he deliberately chose to deal with the second defendant solely. Moreover, the Option smacked of an illegal moneylending transaction. 

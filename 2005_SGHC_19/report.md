@@ -30,7 +30,7 @@ _Copyright_ – _Ownership_ – _Plaintiff using cartographic raw materials to c
 
 **Lai Kew Chai J:** 
 
-1       On 25 June 2004, the district judge dismissed the defendant’s appeal against the decision of the deputy registrar dated 26 March 2004. The defendant appealed against the district judge’s decision ([2004] SGDC 190). I heard and dismissed the appeal on 2 September 2004. On the defendant’s application, I heard further arguments on 17 November 2004, after which I reserved judgment. 
+1       On 25 June 2004, the district judge dismissed the defendant’s appeal against the decision of the deputy registrar dated 26 March 2004. The defendant appealed against the district judge’s decision (<span class="citation">[2004] SGDC 190</span>). I heard and dismissed the appeal on 2 September 2004. On the defendant’s application, I heard further arguments on 17 November 2004, after which I reserved judgment. 
 
 **Basic facts** 
 

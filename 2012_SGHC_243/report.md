@@ -133,7 +133,7 @@ Courts (of which the District Court is part).
 
 25     After considering differing High Court decisions on the scope of review available under s 27(5) of the SOPA, I concluded that the court may review the validity of a payment claim. 
 
-26     There is no need for me to discuss here the various High Court decisions as the Court of Appeal recently delivered its written judgment in _Lee Wee Lick Terence_ ( _Li Weili Terence_ ) v _Chua Say Eng_ ( _formerly trading as Weng Fatt Construction Engineering_ ) [2012] SGCA 63 (“ _Lee Wee Lick_ ”) after I 
+26     There is no need for me to discuss here the various High Court decisions as the Court of Appeal recently delivered its written judgment in _Lee Wee Lick Terence_ ( _Li Weili Terence_ ) v _Chua Say Eng_ ( _formerly trading as Weng Fatt Construction Engineering_ ) <span class="citation">[2012] SGCA 63</span> (“ _Lee Wee Lick_ ”) after I 
 
 
 had given my oral decision. I will refer to that judgment as “the CA Judgment”. In the CA Judgment, the Court of Appeal reviewed various High Court authorities and drew a distinction between two situations. The first is whether there is in existence a payment claim. The second is whether a payment claim complies with the requirements of SOPA. The first goes to the validity of the appointment of an adjudicator. The second goes to the validity of an AD. They can lead to the same outcome, _ie_ , the setting aside of an adjudication award, but it would be for entirely different reasons (see [28], [31] and [37] of the CA Judgment). 
@@ -158,7 +158,7 @@ Therefore, in the context of a construction contract which the parties proceeded
 
 32     _Brookhollow_ is authority for the proposition that a respondent must timeously serve a payment schedule (which is the equivalent of a payment response under SOPA) to state its reasons for contesting a payment claim. If it does not, then it is precluded from raising those reasons to set aside or restrain enforcement of an AD. 
 
-33     Recently, in _RN & Associates Pte Ltd v TPX Builders Pte Ltd_ [2012] SGHC 225, Justice Andrew 
+33     Recently, in _RN & Associates Pte Ltd v TPX Builders Pte Ltd_ <span class="citation">[2012] SGHC 225</span>, Justice Andrew 
 
 
 Ang (“Ang J”) delivered a written judgment whereby he concluded that a respondent who served a payment response but did not raise a certain objection in its payment response was estopped from raising it before the court. 
@@ -179,7 +179,7 @@ Ang (“Ang J”) delivered a written judgment whereby he concluded that a respo
 
 41     This arguably also suggests that failure to serve a payment response does not preclude a respondent from relying on an alleged invalidity of a payment claim in a setting aside application made to the court. 
 
-42     I come now to Mr Lam’s other argument that the validity of the payment claim could be waived and was waived by the Plaintiff because (a) the Plaintiff had paid $110,000.00 being a partial payment of the amount awarded under the AD and, in so doing, had waived its right to challenge the validity of the payment claim and (b) any error by the adjudicator about the validity of the payment claim was a mere irregularity which could be waived, relying on the judgment of Prakash J in _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ [2010] 1 SLR 658 (“CHHK”) at [43] and [44]. 
+42     I come now to Mr Lam’s other argument that the validity of the payment claim could be waived and was waived by the Plaintiff because (a) the Plaintiff had paid $110,000.00 being a partial payment of the amount awarded under the AD and, in so doing, had waived its right to challenge the validity of the payment claim and (b) any error by the adjudicator about the validity of the payment claim was a mere irregularity which could be waived, relying on the judgment of Prakash J in _Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd_ <span class="citation">[2010] 1 SLR 658</span> (“CHHK”) at [43] and [44]. 
 
 43     I was of the view that if the payment claim was in breach of s 10(1) SOPA, as alleged by the 
 
@@ -248,7 +248,7 @@ Plaintiff, that was not an irregularity which could be waived.
 
  [emphasis in original] 
 
-58     In _Doo Ree Engineering & Trading Pte Ltd v Taisei Corp_ [2009] SGHC 218 (“ _Doo Ree_ ”), another Assistant Registrar, Nathaniel Khng, referred to various cases including _Dualcorp_ and _Doolan_ as well as _Shellbridge Pty Ltd v Rider Hunt Sydney Pty Ltd_ [2005] NSWSC 1152. He decided that repeat claims are not allowed under SOPA. AR Khng said at [20]: 
+58     In _Doo Ree Engineering & Trading Pte Ltd v Taisei Corp_ <span class="citation">[2009] SGHC 218</span> (“ _Doo Ree_ ”), another Assistant Registrar, Nathaniel Khng, referred to various cases including _Dualcorp_ and _Doolan_ as well as _Shellbridge Pty Ltd v Rider Hunt Sydney Pty Ltd_ [2005] NSWSC 1152. He decided that repeat claims are not allowed under SOPA. AR Khng said at [20]: 
 
  20 The interpretation given in Shellbridge and Dualcorp would appear to be in line with the legislative intention behind the enactment of ss 13(5) and 13(6), which apparently was to limit the number of times a claim could be made in respect of each particular reference date in order to prevent abuse. At the Second Reading of the Building and Construction Industry Security of Payment Amendment Bill 2002 (NSW), which sought to enact, inter alia , ss 13(5) and 13(6), Mr Morris Iemma (the Minister for Public Works and Services, Minister for Sport and Recreation, and Minister Assisting the Premier on Citizenship) stated (New South Wales, Legislative Assembly, Parliamentary Debates (12 November 2002) at p 6543): 
 
@@ -364,7 +364,7 @@ what he had said in _Brodyn_ “to the effect that after cessation of work there
 
 77     I must, however, refer to the CA Judgment again. That case did not involve a repeat claim. Nevertheless, the judgment said, _obiter_ , at [92]: 
 
- ... In this connection, we should add that we do not approve the finding of the Assistant Registrar in Doo Ree Engineering & Trading Pte Ltd v Taisei Corporation [2009] SGHC 218 that s 10(1) of the Act prohibits all repeat claims (in that case, the repeat claim was a nonadjudicated premature claim). 
+ ... In this connection, we should add that we do not approve the finding of the Assistant Registrar in Doo Ree Engineering & Trading Pte Ltd v Taisei Corporation <span class="citation">[2009] SGHC 218</span> that s 10(1) of the Act prohibits all repeat claims (in that case, the repeat claim was a nonadjudicated premature claim). 
 
 78     It is not clear to me whether the Court of Appeal was referring to a repeat claim as I have described it at [48] above or not. Moreover, no reasons were given for its view. Accordingly, I will say no more about it for the time being. 
 
@@ -378,7 +378,7 @@ what he had said in _Brodyn_ “to the effect that after cessation of work there
 
 81     It was not disputed that the contracts between the parties do not specify the date on which a payment claim is required to be served. As such, the Defendant was required to serve its payment claim in accordance with Reg 5(1). 
 
-82     As can be seen, Reg 5 does not expressly state that a payment claim must include all work done in the period which is the subject of the claim. In _Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) v Lee Wee Lick Terence (alias Li Weili Terence)_ [2011] SGHC 109, the 
+82     As can be seen, Reg 5 does not expressly state that a payment claim must include all work done in the period which is the subject of the claim. In _Chua Say Eng (formerly trading as Weng Fatt Construction Engineering) v Lee Wee Lick Terence (alias Li Weili Terence)_ <span class="citation">[2011] SGHC 109</span>, the 
 
 
 parties appeared to proceed on that basis and so did the court. The question there was different, _ie_ , whether a payment claim for work done in April 2010 had to be served by 30 April 2010 or by 31 May 2010 in the absence of any contractual provision stating otherwise. Tay J decided that it was the latter after referring to comments from a book by Chow Kok Fong and a book and a paper by Dr Philip Chan. Thus, Tay J said, at [49], that “for example, for work done in April, payment must be claimed by 31 May ... if payment for work done in a certain month is not claimed under the SOPA by the last day of the subsequent month, then a claim in respect thereof cannot be made under the SOPA anymore ...”. 

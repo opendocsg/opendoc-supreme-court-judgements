@@ -28,7 +28,7 @@ _Civil Procedure_ – _Costs_ – _Pro Bono Services_
 
 **The legal principles** 
 
-3       The award of costs is a matter in the court’s discretion. The Court of Appeal in _Aurol Anthony Sabastian v Sembcorp Marine Ltd_ [2013] 2 SLR 246 (“ _Aurol_ ”) reiterated that (at [103] – [104]): 
+3       The award of costs is a matter in the court’s discretion. The Court of Appeal in _Aurol Anthony Sabastian v Sembcorp Marine Ltd_ <span class="citation">[2013] 2 SLR 246</span> (“ _Aurol_ ”) reiterated that (at [103] – [104]): 
 
 
  103 ... The power to award costs is fundamentally and essentially one that is discretionary. Even though the general principle is for costs to follow the event, the overriding concern of the court must be to exercise its discretion to achieve the fairest allocation of costs ... 
@@ -37,7 +37,7 @@ _Civil Procedure_ – _Costs_ – _Pro Bono Services_
 
 4       While the Court of Appeal’s findings were directed at the allocation of costs between parties and did not specifically address the issue of whether a successful litigant represented on a _pro bono_ basis could be awarded costs, there is no ambiguity as to the broad discretion the court exercises in ordering costs. 
 
-5       In _JBB v JBA_ [2015] 5 SLR 153, I cited the decision of the Court of Appeal in _Maryani Sadeli v Arjun Permanand Samtani and another and other appeals_ [2015] 1 SLR 496 (“ _Maryani_ ”) at [30] for the general principle that costs should follow the event: 
+5       In _JBB v JBA_ <span class="citation">[2015] 5 SLR 153</span>, I cited the decision of the Court of Appeal in _Maryani Sadeli v Arjun Permanand Samtani and another and other appeals_ <span class="citation">[2015] 1 SLR 496</span> (“ _Maryani_ ”) at [30] for the general principle that costs should follow the event: 
 
  One fundamental aspect of our scheme of costs recovery is a cost-shifting rule which dictates that the successful litigant is ordinarily indemnified by the losing party for the legal costs incurred as between the successful party and his solicitor. This is commonly referred to as the principle that costs should generally follow the event ... [emphasis added] 
 
@@ -47,7 +47,7 @@ These principles are enshrined in O 59 rr 2(2) and 3(2) of the Rules of Court (C
 
 _The present costs arrangement_ 
 
-6       As pointed out in _Then Khek Koon and another v Arjun Permanand Samtani and another and other suits_ [2014] 1 SLR 245 (“ _Then Khek Koon_ ”) at [153]–[154], the rule that costs should generally follow the event is one aspect of the indemnity principle. Another aspect relates to the quantification of costs — the indemnification operates in relation to the sums for which the winner is under a legal obligation to pay his solicitors for the legal services rendered (see _Mohamed Amin bin Mohamed Taib and others v Lim Choon Thye and others_ [2011] 2 SLR 343 at [21], referring to _Gundry v Sainsbury_ [1910] 1 KB 645 (“ _Gundry_ ”)). A party ought not to enjoy any windfall by virtue of costs awards (see _Wentworth v Rogers_ (2006) 66 NSWLR 474 (“ _Wentworth_ ”) at [50]). The reason is well stated by the court in _Harold v Smith_ (1860) 5 H & N 381 at 385 (cited in _Gundry_ at 649) — costs are neither imposed as a punishment to the losing party nor as a reward to the winning party. 
+6       As pointed out in _Then Khek Koon and another v Arjun Permanand Samtani and another and other suits_ <span class="citation">[2014] 1 SLR 245</span> (“ _Then Khek Koon_ ”) at [153]–[154], the rule that costs should generally follow the event is one aspect of the indemnity principle. Another aspect relates to the quantification of costs — the indemnification operates in relation to the sums for which the winner is under a legal obligation to pay his solicitors for the legal services rendered (see _Mohamed Amin bin Mohamed Taib and others v Lim Choon Thye and others_ <span class="citation">[2011] 2 SLR 343</span> at [21], referring to _Gundry v Sainsbury_ [1910] 1 KB 645 (“ _Gundry_ ”)). A party ought not to enjoy any windfall by virtue of costs awards (see _Wentworth v Rogers_ (2006) 66 NSWLR 474 (“ _Wentworth_ ”) at [50]). The reason is well stated by the court in _Harold v Smith_ (1860) 5 H & N 381 at 385 (cited in _Gundry_ at 649) — costs are neither imposed as a punishment to the losing party nor as a reward to the winning party. 
 
 7       This was not a concern in the present case. On the facts, the arrangement between the Respondent and his solicitors had crystallised in the following manner: after his employment was terminated by the Appellant on 13 March 2015, the Respondent had remained in Singapore on a special pass issued by the Ministry of Manpower for the purpose of resolving his dispute before the Assistant Commissioner. That decision was rendered on 25 May 2015 and the Respondent, apparently in anticipation of his impending return to Bangladesh, executed a Power of Attorney in favour of a case worker from HOME (“the Respondent’s Representative”) on 16 July 2015, authorising her to instruct counsel in respect of the appeal. He returned to Bangladesh shortly thereafter on 20 July 
 
@@ -104,7 +104,7 @@ _Access to justice in pro bono cases_
 
  ( b ) enter into any agreement by which he is retained or employed to prosecute any suit or action or other contentious proceeding which stipulates for or contemplates payment only in the event of success in that suit, action or proceeding. 
 
-19     In my view, notwithstanding the apparent breadth of s 107(1)( _b_ ), the provision does not extend to cases such as the present where the Respondent would otherwise be unable to afford legal representation. This is supported by the decision of the Court of Three Judges in _Law Society of Singapore v Kurubalan s/o Manickam Rengaraju_ [2013] 4 SLR 91 (“ _Kurubalan_ ”), in which a distinction was drawn between “impecunious clients who would not otherwise be able to afford legal representation” and other litigants. The case of _Kurubalan_ did not involve such an impecunious client, but the Court of Three Judges remarked that (at [82]): 
+19     In my view, notwithstanding the apparent breadth of s 107(1)( _b_ ), the provision does not extend to cases such as the present where the Respondent would otherwise be unable to afford legal representation. This is supported by the decision of the Court of Three Judges in _Law Society of Singapore v Kurubalan s/o Manickam Rengaraju_ <span class="citation">[2013] 4 SLR 91</span> (“ _Kurubalan_ ”), in which a distinction was drawn between “impecunious clients who would not otherwise be able to afford legal representation” and other litigants. The case of _Kurubalan_ did not involve such an impecunious client, but the Court of Three Judges remarked that (at [82]): 
 
  [I]t would be permissible and even honourable for an Advocate and Solicitor to act for an impecunious client in the knowledge that he would likely only be able to recover his appropriate fees or disbursements if the client were successful in the claim and could pay him out of those proceeds or if there was a costs order obtained against the other side. [emphasis in original] 
 

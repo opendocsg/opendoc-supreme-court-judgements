@@ -140,7 +140,7 @@ Singaporean citizen. At the same hearing as Nimalan, Theyagarajan pleaded guilty
 
 **_Whether the Suventher guidelines applied to the trafficking offences_** 
 
-28     In _Suventher Shanmugam v Public Prosecutor_ [2017] 2 SLR 115 (“ _Suventher_ ”), the Court of Appeal endorsed the approach in _Vasentha d/o Joseph v Public Prosecutor_ [2015] 5 SLR 122 (“ _Vasentha_ ”) that the full spectrum of possible sentences should be utilised and the indicative starting points should be broadly proportional to the quantity of drugs trafficked or imported. Noting that the indicative starting point for the highest weight range should not be fixed at or close to the maximum sentence, the Court of Appeal set out the following sentencing guidelines (“the _Suventher_ guidelines”) for the unauthorised import or trafficking of cannabis (at [29]): 
+28     In _Suventher Shanmugam v Public Prosecutor_ <span class="citation">[2017] 2 SLR 115</span> (“ _Suventher_ ”), the Court of Appeal endorsed the approach in _Vasentha d/o Joseph v Public Prosecutor_ <span class="citation">[2015] 5 SLR 122</span> (“ _Vasentha_ ”) that the full spectrum of possible sentences should be utilised and the indicative starting points should be broadly proportional to the quantity of drugs trafficked or imported. Noting that the indicative starting point for the highest weight range should not be fixed at or close to the maximum sentence, the Court of Appeal set out the following sentencing guidelines (“the _Suventher_ guidelines”) for the unauthorised import or trafficking of cannabis (at [29]): 
 
  (a) 330 to 380 g: 20 to 22 years’ imprisonment. 
 
@@ -155,7 +155,7 @@ For unauthorised importation or trafficking of 330–500 g of cannabis, the mini
 
 30     Compared to the sentences meted out in pre_Suventher_ cases, the _Suventher_ guidelines would generally result in heavier sentences of imprisonment in cases (such as the present cases) where the quantity of drugs involved is at the higher end of the range. As the Court of Appeal noted in _Suventher_ (at [23]), the sentences in pre_Suventher_ cases for the offence of trafficking or unauthorised importation of cannabis, where the amount in the charge is just short of 500 g, appear to be at the lower end of the sentencing range of between 20 years’ imprisonment and 30 years’ imprisonment or imprisonment for life. The Court of Appeal also observed (at [26]) that such a sentencing trend did not seem consistent with the strong deterrent stance that Parliament has taken against drug offences and it is the duty of the court to consider the full spectrum of sentences in determining the appropriate sentence. 
 
-31     In _Public Prosecutor v Tan Lye Heng_ [2017] 5 SLR 564 (“ _Tan Lye Heng_ ”) the High Court applied the _Suventher_ guidelines to derive the following sentencing guidelines for trafficking in diamorphine: 
+31     In _Public Prosecutor v Tan Lye Heng_ <span class="citation">[2017] 5 SLR 564</span> (“ _Tan Lye Heng_ ”) the High Court applied the _Suventher_ guidelines to derive the following sentencing guidelines for trafficking in diamorphine: 
 
  (a) 10 to 11.5 g: 20 to 22 years’ imprisonment; 
 
@@ -167,18 +167,18 @@ For trafficking in 10–15 g of diamorphine, the minimum sentence is 20 years an
 
 32     In the present case, the Prosecution submitted that the _Suventher_ guidelines, as applied to trafficking of diamorphine in _Tan Lye Heng_ , were applicable to the trafficking offences on which both Nimalan and Theyagarajan were convicted in this case. 
 
-33     Counsel for Nimalan did not challenge the applicability of the _Suventher_ guidelines. However, Counsel for Theyagarajan submitted that the _Suventher_ guidelines were not applicable because the Court of Appeal’s judgment in _Suventher_ was issued on 4 April 2017 whereas Theyagarajan had committed the trafficking offence in 2016. Counsel referred me to _Public Prosecutor v Manogaran s/o Ramu_ [1996] 3 SLR(R) 390 and submitted that the _Suventher_ guidelines should be given prospective effect because they had the effect of judicial overruling of the sentencing trend set by pre_Suventher_ cases. Accordingly, he submitted that Theyagarajan should be sentenced according to the sentencing trends prevailing at the time of his offence. 
+33     Counsel for Nimalan did not challenge the applicability of the _Suventher_ guidelines. However, Counsel for Theyagarajan submitted that the _Suventher_ guidelines were not applicable because the Court of Appeal’s judgment in _Suventher_ was issued on 4 April 2017 whereas Theyagarajan had committed the trafficking offence in 2016. Counsel referred me to _Public Prosecutor v Manogaran s/o Ramu_ <span class="citation">[1996] 3 SLR(R) 390</span> and submitted that the _Suventher_ guidelines should be given prospective effect because they had the effect of judicial overruling of the sentencing trend set by pre_Suventher_ cases. Accordingly, he submitted that Theyagarajan should be sentenced according to the sentencing trends prevailing at the time of his offence. 
 
 34     I disagreed with Counsel for Theyagarajan. In my view, the _Suventher_ guidelines were retroactive in nature. 
 
-35     Judicial pronouncements are, by default, fully retroactive in nature and appellate courts have the discretion, in exceptional circumstances, to restrict the retroactive effect of their pronouncements: _Public Prosecutor v Hue An Li_ [2014] 4 SLR 661 at [124]. 
+35     Judicial pronouncements are, by default, fully retroactive in nature and appellate courts have the discretion, in exceptional circumstances, to restrict the retroactive effect of their pronouncements: _Public Prosecutor v Hue An Li_ <span class="citation">[2014] 4 SLR 661</span> at [124]. 
 
 36     I agreed with the Prosecution that the Court of Appeal in _Suventher_ did not restrict the retroactive effect of the guidelines. This was clear from the fact that the Court of Appeal in _Suventher_ had applied the guidelines to the case before it. One of the grounds for dismissing the accused’s appeal against sentence in _Suventher_ was the fact that “having regard to the guidelines ..., the sentence could in fact have been much more severe” (at [41]). 
 
 37     I would add that a similar challenge against the retroactive effect of the _Suventher_ guidelines 
 
 
-also did not succeed in _Public Prosecutor v Adri Anton Kalangie_ [2017] SGHC 217 (“ _Adri_ ”) in which the High Court decided (at [33]) that prospective overruling was not applicable to the _Suventher_ guidelines. It has also come to my attention in the course of writing these grounds of decision that the appeal against the decision in _Adri_ (CCA 34/2017) has been dismissed by the Court of Appeal. 
+also did not succeed in _Public Prosecutor v Adri Anton Kalangie_ <span class="citation">[2017] SGHC 217</span> (“ _Adri_ ”) in which the High Court decided (at [33]) that prospective overruling was not applicable to the _Suventher_ guidelines. It has also come to my attention in the course of writing these grounds of decision that the appeal against the decision in _Adri_ (CCA 34/2017) has been dismissed by the Court of Appeal. 
 
 **_Nimalan’s sentence_** 
 
@@ -223,7 +223,7 @@ _The LT-2 offence_
 
 51     Section 307(1) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) mandates that I must order the sentences for at least two of the offences on which Theyagarajan has been convicted by me, to run consecutively. There is no rule that the two most severe sentences ( _ie_ , for the trafficking and LT-2 consumption charges) should run consecutively. 
 
-52     In _Mohamed Shouffee bin Adam v Public Prosecutor_ [2014] 2 SLR 998 (“ _Shouffee_ ”) it was held that a sentencing court should consider: 
+52     In _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">[2014] 2 SLR 998</span> (“ _Shouffee_ ”) it was held that a sentencing court should consider: 
 
  (a) The “one-transaction” rule. Consecutive sentences are inappropriate where the offences were the single invasion of the same legally protected interest (at [31]). 
 

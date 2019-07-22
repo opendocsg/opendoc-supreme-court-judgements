@@ -16,7 +16,7 @@
 
 _Contract_ – _Frustration_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 82 of 2013 was allowed by the Court of Appeal on 30 May 2014. See [2014] SGCA 35.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 82 of 2013 was allowed by the Court of Appeal on 30 May 2014. See <span class="citation">[2014] SGCA 35</span>.] 
 
 5 July 2013 Judgment reserved. 
 
@@ -172,7 +172,7 @@ their orders that a surcharge for sand had been requested by Alliance.
 
 **Whether the Contracts were frustrated by the Sand Ban** 
 
-30     The courts have referred to the circumstances under which a contract would be frustrated on innumerable occasions. In _Glahe International Expo AG v ACS Computer Pte Ltd and another appeal_ [1999] 1 SLR(R) 945 (“ _Glahe_ ”), the Court of Appeal explained at [26]: 
+30     The courts have referred to the circumstances under which a contract would be frustrated on innumerable occasions. In _Glahe International Expo AG v ACS Computer Pte Ltd and another appeal_ <span class="citation">[1999] 1 SLR(R) 945</span> (“ _Glahe_ ”), the Court of Appeal explained at [26]: 
 
  ... The law on frustration is well settled. A contract is considered frustrated when a supervening event (which has not been expressly provided for in the contract) takes place, the consequence 
 
@@ -419,11 +419,11 @@ In similar vein, in _Glahe_ , the Court of Appeal said (at [39]):
 48     SK alleged that Alliance was guilty of profiteering, a charge vehemently denied by Alliance. There is no need for me to consider SK’s allegation of profiteering. As was rightly pointed out by Alliance, this serious charge was not pleaded. All the same, Alliance’s imposition of very much higher prices for its concrete after the Sand Ban allowed it to reap huge profits in 2007. This was in stark contrast with the losses made in previous years. Dolly Hwa confirmed that Alliance had a record of making losses and that in 2004, 2005 and 2006, its losses were $3.26m, $2.77m and $1.95m respectively. However, in 2007, Alliance made a profit of $22.49m despite claiming that it was doing “national service” by selling its RMC below cost. I thus find that the demands of justice do not persuade me that the Contracts had been frustrated. 
 
 
-49     In seeking to justify its refusal to supply RMC to SK without the latter agreeing to its increased prices for RMC, Alliance relied on two cases, namely _Holcim (Singapore) Pte Ltd v Kwan Yong Construction Pte Ltd_ [2009] 2 SLR(R) 193 (“ _Kwan Yong_ ”) and _Holcim (Singapore) Pte Ltd v Precise Development Pte Ltd and another application_ [2011] 2 SLR 106 (“ _Precise (CA)_ ”). However, each case on frustration depends on its own facts and these two cases are easily distinguishable from the present case. 
+49     In seeking to justify its refusal to supply RMC to SK without the latter agreeing to its increased prices for RMC, Alliance relied on two cases, namely _Holcim (Singapore) Pte Ltd v Kwan Yong Construction Pte Ltd_ <span class="citation">[2009] 2 SLR(R) 193</span> (“ _Kwan Yong_ ”) and _Holcim (Singapore) Pte Ltd v Precise Development Pte Ltd and another application_ <span class="citation">[2011] 2 SLR 106</span> (“ _Precise (CA)_ ”). However, each case on frustration depends on its own facts and these two cases are easily distinguishable from the present case. 
 
 50     In _Kwan Yong_ , where the High Court held that the contract between the plaintiff RMC supplier and the defendant contractor had been frustrated by the Sand Ban, an important fact to note was that the contractor had refused to assist the RMC manufacturer by applying for the release of sand from the BCA stockpile. In these circumstances, the RMC manufacturer had no sand to produce RMC for the contractor. 
 
-51     In _Precise Development Pte Ltd v Holcim (Singapore) Pte Ltd_ [2010] 1 SLR 1083 (“ _Precise (HC)_ ”), which was heard by the same judge in _Kwan Yong_ and which also concerned a contract for the supply of RMC to a building contractor, the RMC supplier based its defence on a _force majeure_ clause and did not plead frustration. The judge held that the defence of _force majeure_ failed. In distinguishing the facts in _Precise (HC)_ from those in _Kwan Yong_ , the trial judge stated (at [47]–[49]: 
+51     In _Precise Development Pte Ltd v Holcim (Singapore) Pte Ltd_ <span class="citation">[2010] 1 SLR 1083</span> (“ _Precise (HC)_ ”), which was heard by the same judge in _Kwan Yong_ and which also concerned a contract for the supply of RMC to a building contractor, the RMC supplier based its defence on a _force majeure_ clause and did not plead frustration. The judge held that the defence of _force majeure_ failed. In distinguishing the facts in _Precise (HC)_ from those in _Kwan Yong_ , the trial judge stated (at [47]–[49]: 
 
  47 Accordingly, the key question to ask is this: did the plaintiff make reasonable efforts to help the defendant apply for sand from the BCA stockpile? If the plaintiff had done so, the defendant would not be able to rely on cl 3 because the availability of the BCA sand would mean that the general sand shortage did not affect the defendant's ability to manufacture and supply concrete to the plaintiff. On the other hand, if the plaintiff had refused to help the defendant apply for sand from the BCA stockpile, the defendant would be able to rely on cl 3 because the general sand shortage had disrupted its ability to supply sand to the plaintiff.... 
 
@@ -502,7 +502,7 @@ clauses.
 
 62     I will, for the sake of completeness, consider the position if the _force majeure_ clauses were incorporated into the contracts for the NTU and Harbourfront projects. 
 
-63     The difference between the application of doctrine of frustration and _force majeure_ clauses was explained by the Court of Appeal in _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and another appeal_ [2007] 4 SLR(R) 413 (“ _RDC Concrete_ ”) as follows (at [56]): 
+63     The difference between the application of doctrine of frustration and _force majeure_ clauses was explained by the Court of Appeal in _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and another appeal_ <span class="citation">[2007] 4 SLR(R) 413</span> (“ _RDC Concrete_ ”) as follows (at [56]): 
 
  Conceptually , it is true that a force majeure clause operates differently from the doctrine of frustration. Whereas a force majeure clause is an agreement as to how outstanding obligations should be resolved upon the onset of a foreseeable event, the doctrine of frustration concerns the treatment of contractual obligations from the onset of an unforeseeable event... [emphasis in original] 
 

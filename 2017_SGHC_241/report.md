@@ -164,7 +164,7 @@ Before I address these issues I shall examine the relevant law.
 
 _Conspiracy by unlawful means_ 
 
-20     The elements of the tort of conspiracy by unlawful means were set out by the Court of Appeal in _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ [2014] 1 SLR 860 (“ _EFT Holdings_ ”) at [101] read with [112]: 
+20     The elements of the tort of conspiracy by unlawful means were set out by the Court of Appeal in _EFT Holdings, Inc and another v Marinteknik Shipbuilders (S) Pte Ltd and another_ <span class="citation">[2014] 1 SLR 860</span> (“ _EFT Holdings_ ”) at [101] read with [112]: 
 
  (a) There was a combination of two or more persons to do certain acts. 
 
@@ -176,7 +176,7 @@ _Conspiracy by unlawful means_
 
  (e) The plaintiffs suffered loss as a result of the conspiracy. 
 
-These elements were applied again by the Court of Appeal in _Simgood Pte Ltd v MLC Barging Pte Ltd and others_ [2016] 1 SLR 1129 (“ _Simgood_ ”) at [13] and are undisputed. 
+These elements were applied again by the Court of Appeal in _Simgood Pte Ltd v MLC Barging Pte Ltd and others_ <span class="citation">[2016] 1 SLR 1129</span> (“ _Simgood_ ”) at [13] and are undisputed. 
 
 21     I note that there is some controversy over whether unlawful means conspiracy can exist alone as a cause of action. Indeed, the Court of Appeal expressly refrained from answering that question in _EFT Holdings_ (at [90]). But subsequently, the Court of Appeal in _Simgood_ applied the tort directly to the facts and therefore appears to have implicitly endorsed its existence. I shall therefore proceed on the basis that the tort of conspiracy by unlawful means is available in the present case. 
 
@@ -184,7 +184,7 @@ _Fraudulent misrepresentation_
 
 22     As noted earlier at [20(c)], one of the elements of conspiracy by unlawful means is that one of the parties committed an unlawful act. In this case, the plaintiffs allege that the unlawful act is fraudulent misrepresentation. Hence, the elements of fraudulent misrepresentation must also be satisfied. 
 
-23     The elements of the tort of fraudulent misrepresentation were set out by the Court of Appeal in _Panatron Pte Ltd and another v Lee Cheow Lee and another_ [2001] 2 SLR(R) 435 at [14] and [24]: 
+23     The elements of the tort of fraudulent misrepresentation were set out by the Court of Appeal in _Panatron Pte Ltd and another v Lee Cheow Lee and another_ <span class="citation">[2001] 2 SLR(R) 435</span> at [14] and [24]: 
 
  (a) There must have been a representation of fact made by words or conduct. 
 
@@ -199,7 +199,7 @@ _Fraudulent misrepresentation_
 
  (e) The representation must have been made with the knowledge that it was false; it must have been wilfully false or at least made in the absence of any genuine belief that it was true. 
 
-24     In applying these elements to the facts, two points merit consideration. First, misrepresentation can be made by silence even though it would be difficult to do so. In _Trans-World (Aluminium) Ltd v Cornelder China (Singapore)_ [2003] 3 SLR(R) 501, the High Court held that misrepresentation by silence was possible but more than mere silence was needed. There must be a wilful suppression of material and important facts or “such a partial and fragmentary statement of fact that the withholding of that which is not stated makes that which is stated absolutely false” (at [66]–[67], citing Lord Cairns in _Peek v Gurney_ [1861–73] All ER Rep 116 at 129). Similarly, the Court of Appeal in _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased) and another_ [2013] 3 SLR 801 (“ _Wee Chiaw Sek Anna_ ”) held at [65]: 
+24     In applying these elements to the facts, two points merit consideration. First, misrepresentation can be made by silence even though it would be difficult to do so. In _Trans-World (Aluminium) Ltd v Cornelder China (Singapore)_ <span class="citation">[2003] 3 SLR(R) 501</span>, the High Court held that misrepresentation by silence was possible but more than mere silence was needed. There must be a wilful suppression of material and important facts or “such a partial and fragmentary statement of fact that the withholding of that which is not stated makes that which is stated absolutely false” (at [66]–[67], citing Lord Cairns in _Peek v Gurney_ [1861–73] All ER Rep 116 at 129). Similarly, the Court of Appeal in _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve (sole executrix of the estate of Ng Hock Seng, deceased) and another_ <span class="citation">[2013] 3 SLR 801</span> (“ _Wee Chiaw Sek Anna_ ”) held at [65]: 
 
  It is trite law that “mere silence, however morally wrong, will not support an action of deceit” ... There can be no misrepresentation by omission, although active concealment of a particular state of affairs may amount to misrepresentation ... 
 
@@ -207,13 +207,13 @@ In other words, for silence to be misrepresentation, it must be part of a factua
 
 25     Second, although the standard of proof for an allegation of fraudulent misrepresentation is still based on a balance of probabilities (as in all civil cases), but because an allegation of fraud is a serious one, the party alleging fraud must furnish more evidence the graver his allegation. The Court of Appeal in _Wee Chiaw Sek Anna_ also expressed this view at [30]–[31]: 
 
- 30 It is, in our view, of the first importance to emphasise right at the outset the relatively high standard of proof which must be satisfied by the representee (here, the Appellant) before a fraudulent misrepresentation can be established successfully against the representor (here, the Deceased). As V K Rajah JA put it in the Singapore High Court decision of Vita Health Laboratories Pte Ltd v Pang Seng Meng [2004] 4 SLR(R) 162 (at [30]), the allegation of fraud is a serious one and that “[g]enerally speaking, the graver the allegation, the higher the standard of proof incumbent on the claimant”. ... 
+ 30 It is, in our view, of the first importance to emphasise right at the outset the relatively high standard of proof which must be satisfied by the representee (here, the Appellant) before a fraudulent misrepresentation can be established successfully against the representor (here, the Deceased). As V K Rajah JA put it in the Singapore High Court decision of Vita Health Laboratories Pte Ltd v Pang Seng Meng <span class="citation">[2004] 4 SLR(R) 162</span> (at [30]), the allegation of fraud is a serious one and that “[g]enerally speaking, the graver the allegation, the higher the standard of proof incumbent on the claimant”. ... 
 
  31 This high standard of proof is also consistent with the fact that an award of damages for fraudulent misrepresentation covers a wide ambit – including all loss which flowed directly as a result of the entry by the representee into the transaction in question, regardless of whether or not such loss was foreseeable ... 
 
  [emphasis in original] 
 
-26     Similar sentiments were expressed by the Court of Appeal in _Tang Yoke Kheng (trading as Niklex Supply Co) v Lek Benedict and others_ [2005] 3 SLR(R) 263 at [14]: 
+26     Similar sentiments were expressed by the Court of Appeal in _Tang Yoke Kheng (trading as Niklex Supply Co) v Lek Benedict and others_ <span class="citation">[2005] 3 SLR(R) 263</span> at [14]: 
 
 
 ## Q: 
@@ -520,7 +520,7 @@ there [was] some wrongdoing” by Ng. [note: 101]
 
 70     Although most of the cases pertaining to similar fact evidence were decided in the criminal 
 
-context, _Rockline Ltd and others v Anil Thadani and others_ [2009] SGHC 209 (“ _Rockline_ ”) [note: 102] explains that the principle can equally apply to the civil context with some minor modifications. In _Rockline_ , Choo Han Teck J agreed with Lord Denning’s decision in _Mood Music Publishing Co Ltd v De Wolfe Ltd_ [1976] 1 Ch 119 at 127 that “[in] civil cases the courts will admit evidence of similar facts if it is logically probative, that is, if it is logically relevant in determining the matter which is in issue: provided that it is not oppressive or unfair to the other side” ( _Rockline_ at [2]). I agree with this statement of the law. 
+context, _Rockline Ltd and others v Anil Thadani and others_ <span class="citation">[2009] SGHC 209</span> (“ _Rockline_ ”) [note: 102] explains that the principle can equally apply to the civil context with some minor modifications. In _Rockline_ , Choo Han Teck J agreed with Lord Denning’s decision in _Mood Music Publishing Co Ltd v De Wolfe Ltd_ [1976] 1 Ch 119 at 127 that “[in] civil cases the courts will admit evidence of similar facts if it is logically probative, that is, if it is logically relevant in determining the matter which is in issue: provided that it is not oppressive or unfair to the other side” ( _Rockline_ at [2]). I agree with this statement of the law. 
 
 
 71     Applying this test to the facts before me, I find that the evidence relating to Ma’s and Wang’s banker’s guarantees is admissible. They are logically probative to the issue at hand as Ma’s banker’s guarantee was one of the four banker’s guarantees that Simal had sent to Ng on 29 June 2014 (which also included PW1’s BG). Ng later forwarded Ma’s banker’s guarantee to DW1, for the latter to follow 
@@ -566,11 +566,11 @@ respectively.
 
 80     The evidence that I examined earlier in relation to DW1 is largely circumstantial and the totality of that evidence suggests that he and Ng were involved in a conspiracy to defraud PW1 in relation to the Autostyle investment. In _OCM Opportunities Fund II, LP and others v Burhan Uray (alias Wong_ 
 
-_Ming Kiong) and others_ [2004] SGHC 115 (“ _OCM Opportunities_ ”), [note: 112] Belinda Ang Saw Ean J noted at [47] that “in conspiracy cases of this type, it would be remarkable for various conspirators to regulate the arrangements as between themselves in a formal manner”; hence, the agreement or combination “is to be inferred from the evidence”. In describing this flexible approach that ought to be taken by the court, Ang J adopted the analysis in _R v Siracusa_ (1990) 90 Cr App R 340 at 349 (notwithstanding that it was in the criminal law context) that participation in such a conspiracy “is infinitely variable: it can be active or passive”. Hence, even though the plaintiffs did not produce evidence pertaining to acts prior to PW1 entering into the Autostyle transaction, DW1’s reaction to the forged banker’s guarantees and his use of PW1’s money sufficiently indicate what his state of mind or understanding was _vis-à-vis_ the Autostyle investment. 
+_Ming Kiong) and others_ <span class="citation">[2004] SGHC 115</span> (“ _OCM Opportunities_ ”), [note: 112] Belinda Ang Saw Ean J noted at [47] that “in conspiracy cases of this type, it would be remarkable for various conspirators to regulate the arrangements as between themselves in a formal manner”; hence, the agreement or combination “is to be inferred from the evidence”. In describing this flexible approach that ought to be taken by the court, Ang J adopted the analysis in _R v Siracusa_ (1990) 90 Cr App R 340 at 349 (notwithstanding that it was in the criminal law context) that participation in such a conspiracy “is infinitely variable: it can be active or passive”. Hence, even though the plaintiffs did not produce evidence pertaining to acts prior to PW1 entering into the Autostyle transaction, DW1’s reaction to the forged banker’s guarantees and his use of PW1’s money sufficiently indicate what his state of mind or understanding was _vis-à-vis_ the Autostyle investment. 
 
 81     The ambit of the rule that conspiracy can be inferred from the evidence was further discussed 
 
-in _The Dolphina_ [2012] 1 SLR 992. [note: 113] Ang J, citing her earlier decision in _OCM Opportunities_ , explained that conspirators need not know what their fellow conspirators had agreed to do so long as they share the same eventual object ( _The Dolphina_ at [265]). I also adopt this statement of the law. The fact that the kickbacks were not known nor given to DW1 while they were given to Ng and PW is no barrier to my finding that DW1 was part of the conspiracy, since he did not need to know the extent of Ng’s and PW3’s participation or benefit. 
+in _The Dolphina_ <span class="citation">[2012] 1 SLR 992</span>. [note: 113] Ang J, citing her earlier decision in _OCM Opportunities_ , explained that conspirators need not know what their fellow conspirators had agreed to do so long as they share the same eventual object ( _The Dolphina_ at [265]). I also adopt this statement of the law. The fact that the kickbacks were not known nor given to DW1 while they were given to Ng and PW is no barrier to my finding that DW1 was part of the conspiracy, since he did not need to know the extent of Ng’s and PW3’s participation or benefit. 
 
 
 82     Accordingly, I find that the evidence, although largely circumstantial, is sufficient to discharge the plaintiffs’ burden of proof that DW1 was part of the conspiracy with Ng, wherein the latter made the fraudulent misrepresentations to PW1 to induce him to enter into the Autostyle investment. Indeed, although Ng was the primary actor and DW1 was not directly involved in making representations to PW1, and although the party that PW1 had relied on during the course of these negotiations was PW3, both DW1 and Ng were marketing the Autostyle investment to _any_ investors who were interested and PW1 just happened to be approached by Ng in this case. DW1 must therefore be liable as a fellow conspirator. 

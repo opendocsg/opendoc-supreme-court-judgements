@@ -45,7 +45,7 @@ _Sachs v Miklos_
 _The Endurance_ 
 
 
-[1991] 1 SLR 661 (flld) 
+<span class="citation">[1991] 1 SLR 661</span> (flld) 
 
 ## Judgment 
 
@@ -80,7 +80,7 @@ He submitted that the cost of the CBN notes had risen from 32% as at the date of
 
  "Damages in tort are awarded by way of monetary compensation for loss or losses which a plaintiff has actually sustained, and the measure of damages awarded on this basis may vary infinitely according to the individual circumstances of any particular case." [1991] 2 AER 133, 139. 
 
-9\. The basic premise, therefore, is to compensate the plaintiff as best as possible for the loss or damage he suffers by reason of the conversion. The loss or damage ought, therefore, as far as possible to determine as at the date of the conversion because that would be the fairest and most accurate measure. Thus, the courts in England and the Court of Appeal here have applied the corollary principle that the plaintiff is obliged to purchase his damaged goods in the market if there is a market. As Karthigesu JA held in _The Endurance_ [1991] 1 SLR 661, 663:- 
+9\. The basic premise, therefore, is to compensate the plaintiff as best as possible for the loss or damage he suffers by reason of the conversion. The loss or damage ought, therefore, as far as possible to determine as at the date of the conversion because that would be the fairest and most accurate measure. Thus, the courts in England and the Court of Appeal here have applied the corollary principle that the plaintiff is obliged to purchase his damaged goods in the market if there is a market. As Karthigesu JA held in _The Endurance_ <span class="citation">[1991] 1 SLR 661</span>, 663:- 
 
 
  "Where there is a market the charterers are expected to diminish the damage by going into the market and buying the water-makers in the market, so as to put themselves in the position they would have been if they had not suffered any wrong at all. If there is no market for the goods converted, the measure of damages would be the cost of replacement and the charterers must go to their suppliers to purchase the water-makers so as to put themselves in the same position as they would have been if not for the conversion. There was no evidence before the judge that there was no market for the water-makers." 

@@ -377,7 +377,7 @@ directors for the year 2012. [note: 97]
  ( b ) that some act of the company has been done or is threatened or that some resolution of the members, holders of debentures or any class of them has been passed or is proposed which unfairly discriminates against or is otherwise prejudicial to one or more of the members or holders of debentures (including himself). 
 
 
-51     As stated by the Court of Appeal in _Over & Over Ltd v Bonvests Holdings Ltd and another_ [2010] 2 SLR 776 (“ _Over & Over_ ”) at [81], “the touchstone by which the court determines whether to grant relief under s 216 of the Companies Act” was _commercial unfairness_. The question is whether there was “a visible departure from the standards of fair dealing and a violation of the conditions of fair play which a shareholder is entitled to expect” ( _Over & Over_ at [77], quoting _Re Kong Thai Sawmill (Miri) Sdn Bhd_ [1978] 2 MLJ 227). 
+51     As stated by the Court of Appeal in _Over & Over Ltd v Bonvests Holdings Ltd and another_ <span class="citation">[2010] 2 SLR 776</span> (“ _Over & Over_ ”) at [81], “the touchstone by which the court determines whether to grant relief under s 216 of the Companies Act” was _commercial unfairness_. The question is whether there was “a visible departure from the standards of fair dealing and a violation of the conditions of fair play which a shareholder is entitled to expect” ( _Over & Over_ at [77], quoting _Re Kong Thai Sawmill (Miri) Sdn Bhd_ [1978] 2 MLJ 227). 
 
 **_Whether there was a quasi-partnership_** 
 
@@ -408,9 +408,9 @@ trust and confidence. [note: 103] The defendants cited _Woon’s Corporations La
 
  ... 
 
- Although the term 'quasi-partnership' has acquired a certain degree of legal meaning, what is essential for the court is still to ascertain whether the relationship of the parties at the time of incorporation was one based on mutual trust and confidence. Therefore, courts have used terms like 'company akin/analogous to quasi-partnership' ( Chow Kwok Chuen v Chow Kwok Chi [2008] 4 SLR(R) 362) or 'moral partnership' ( Wallington v Kokotovich Constructions Pty Ltd [1993] 11 ACLC 1207) to signify the close and personal relationship of the parties and the use of these terms does not necessarily mean that different approaches have been taken in these cases. 
+ Although the term 'quasi-partnership' has acquired a certain degree of legal meaning, what is essential for the court is still to ascertain whether the relationship of the parties at the time of incorporation was one based on mutual trust and confidence. Therefore, courts have used terms like 'company akin/analogous to quasi-partnership' ( Chow Kwok Chuen v Chow Kwok Chi <span class="citation">[2008] 4 SLR(R) 362</span>) or 'moral partnership' ( Wallington v Kokotovich Constructions Pty Ltd [1993] 11 ACLC 1207) to signify the close and personal relationship of the parties and the use of these terms does not necessarily mean that different approaches have been taken in these cases. 
 
- Lord Wilberforce in Ebrahimi v Westbourne Galleries Ltd [1973] AC 360 at 379F has said that the condition would often be fulfilled “where a pre-existing partnership has been converted into a limited company”. However, the presence of some prior relationship between the parties before incorporation is not always necessary to hold that a company is a quasipartnership. To determine whether a company has been formed on mutual trust and confidence, the recent case of Over & Over Ltd v Bonvest Holdings Ltd [2010] 2 SLR 776 shows that our courts are willing to take a holistic and broad-based approach and not confine themselves to only looking at the evidence at the inception of the association. This is justified in that it is generally difficult for the plaintiff to prove the existence of some oral or informal understanding at the point of incorporation of the company but the conduct of the parties subsequently and the manner in which the company is being run will often throw light on what has transpired between the parties when the company was first started. The common fear is that judges engaging in a post-hoc analysis may read too much into the evidence before them and impose a relationship which might not have been intended a priori by the parties. ... 
+ Lord Wilberforce in Ebrahimi v Westbourne Galleries Ltd [1973] AC 360 at 379F has said that the condition would often be fulfilled “where a pre-existing partnership has been converted into a limited company”. However, the presence of some prior relationship between the parties before incorporation is not always necessary to hold that a company is a quasipartnership. To determine whether a company has been formed on mutual trust and confidence, the recent case of Over & Over Ltd v Bonvest Holdings Ltd <span class="citation">[2010] 2 SLR 776</span> shows that our courts are willing to take a holistic and broad-based approach and not confine themselves to only looking at the evidence at the inception of the association. This is justified in that it is generally difficult for the plaintiff to prove the existence of some oral or informal understanding at the point of incorporation of the company but the conduct of the parties subsequently and the manner in which the company is being run will often throw light on what has transpired between the parties when the company was first started. The common fear is that judges engaging in a post-hoc analysis may read too much into the evidence before them and impose a relationship which might not have been intended a priori by the parties. ... 
 
  [Emphasis added in bold] 
 
@@ -531,7 +531,7 @@ personally, everything might have been settled then. [note: 118] Considering the
 
 **_Other buyout offers_** 
 
-83     As stated above, even if Lim was unfairly excluded from the management of the Company, a finding of oppression would not stand in the face of a reasonable buyout offer (see _Lim Chee Twang v Chan Shuk Kuen Helina and others_ [2010] 2 SLR 209 at [138] and _O'Neill v Phillips_ ). 
+83     As stated above, even if Lim was unfairly excluded from the management of the Company, a finding of oppression would not stand in the face of a reasonable buyout offer (see _Lim Chee Twang v Chan Shuk Kuen Helina and others_ <span class="citation">[2010] 2 SLR 209</span> at [138] and _O'Neill v Phillips_ ). 
 
 84     The defendants had made three buyout offers to Lim in 2013, and Lim had made two counter
 
@@ -539,7 +539,7 @@ offers. [note: 119] The defendants even made an offer to wind up the Company. I 
 
 $396,312. [note: 120] 
 
-85     In _Lim Swee Khiang and another v Borden Co (Pte) Ltd and others_ [2005] 4 SLR(R) 141 at [97], Judith Prakash J summarised the guidelines set out by Lord Hoffmann in _O’Neill v Phillips_ in determining what would be a reasonable offer as follows: 
+85     In _Lim Swee Khiang and another v Borden Co (Pte) Ltd and others_ <span class="citation">[2005] 4 SLR(R) 141</span> at [97], Judith Prakash J summarised the guidelines set out by Lord Hoffmann in _O’Neill v Phillips_ in determining what would be a reasonable offer as follows: 
 
  Lord Hoffmann then set out the guidelines to assist shareholders in determining what would be a reasonable offer. There were five points. First, the offer must be to purchase the shares at a fair value. Second, the value if not agreed, should be determined by a competent expert. Third, the offer should be to have the value determined by the expert as an expert. Fourth, the offer should provide for equality of arms between the parties. Fifth, the question of costs would have to be considered. The offer should take into account the plaintiffs' costs although this need not always be payable by the defendants as in cases where the defendants have not been given a chance to make an offer before the action was launched. 
 
@@ -568,7 +568,7 @@ the purpose of calculating the value of Lim’s shares. [note: 124] Although it 
 
 asset” basis of valuing Lim’s shares should be excluded from the very start. [note: 125] 
 
-91     It was stated in _Yeo Hung Khiang v Dickson Investment (Singapore) Pte Ltd and others_ [1999] 1 SLR(R) 773 (“ _Yeo Hung Khiang_ ”) at [72]: 
+91     It was stated in _Yeo Hung Khiang v Dickson Investment (Singapore) Pte Ltd and others_ <span class="citation">[1999] 1 SLR(R) 773</span> (“ _Yeo Hung Khiang_ ”) at [72]: 
 
  ... the determination of share value need not be in accordance with strict accounting principles. The role of the court was merely to determine a price that is fair and just in the particular circumstances of the case. ... 
 

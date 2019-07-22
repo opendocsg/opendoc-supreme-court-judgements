@@ -212,7 +212,7 @@ Award. [note: 27] The Tribunal found largely in favour of Tornado and dismissed 
 
 37     Under Art 34(2)( _a_ )(iii) of the Model Law, an arbitral award may be set aside if it “deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration”. 
 
-38     The applicable principles were not in dispute. While Singapore courts infrequently exercise their power to set aside arbitral awards, they will not hesitate to do so if a statutorily prescribed ground is clearly established. Article 34(2)( _a_ )(iii) applies where the arbitral tribunal improperly decided matters that had not been submitted to it or failed to decide matters that had been submitted to it. See _CRW Joint Operation v PT Perusahaan Gas Negara (Persero) TBK_ [2011] 4 SLR 305 (“ _CRW_ ”) at [27] and [31]. 
+38     The applicable principles were not in dispute. While Singapore courts infrequently exercise their power to set aside arbitral awards, they will not hesitate to do so if a statutorily prescribed ground is clearly established. Article 34(2)( _a_ )(iii) applies where the arbitral tribunal improperly decided matters that had not been submitted to it or failed to decide matters that had been submitted to it. See _CRW Joint Operation v PT Perusahaan Gas Negara (Persero) TBK_ <span class="citation">[2011] 4 SLR 305</span> (“ _CRW_ ”) at [27] and [31]. 
 
 39     Assessing whether an arbitral award ought to be set aside under Art 34(2)(iii) of the Model Law involves a two-stage inquiry: 
 
@@ -220,9 +220,9 @@ Award. [note: 27] The Tribunal found largely in favour of Tornado and dismissed 
 
  (b) second, whether the arbitral award involved such matters, or whether it involved “a new difference ... outside the scope of the submission to arbitration and accordingly ... irrelevant to the issues requiring determination ” [emphasis in original]. 
 
-See _CRW_ at [30], citing _PT Asuransi Jasa Indonesia (Persero) v Dexia Bank SA_ [2007] 1 SLR(R) 597 (“ _PT Asuransi_ ”) at [40] and [44]. 
+See _CRW_ at [30], citing _PT Asuransi Jasa Indonesia (Persero) v Dexia Bank SA_ <span class="citation">[2007] 1 SLR(R) 597</span> (“ _PT Asuransi_ ”) at [40] and [44]. 
 
-40     Thus, the determination of an issue which has not been submitted to arbitration will render that part of the award liable to be set aside. The arbitral tribunal has no jurisdiction to decide any issue not referred to it for determination. See _TMM Division Maritima SA de CV v Pacific Richfield Marine Pte Ltd_ [2013] 4 SLR 972 (“ _TMM_ ”) at [51], citing _PT Asuransi_ at [37]. 
+40     Thus, the determination of an issue which has not been submitted to arbitration will render that part of the award liable to be set aside. The arbitral tribunal has no jurisdiction to decide any issue not referred to it for determination. See _TMM Division Maritima SA de CV v Pacific Richfield Marine Pte Ltd_ <span class="citation">[2013] 4 SLR 972</span> (“ _TMM_ ”) at [51], citing _PT Asuransi_ at [37]. 
 
 **_Whether the Tribunal’s finding on cl 4.2 was within the scope of the Arbitration_** 
 
@@ -318,7 +318,7 @@ determine whether the buyer’s refusal to accept the NOR was a repudiatory brea
 
 **Whether the Tribunal acted in breach of the agreed procedure** 
 
-63     A party seeking to set aside an arbitral award on the ground of breach of agreed procedure under Art 34(2)( _a_ )(iv) of the Model Law must show that (a) there was an agreement between the parties on a particular arbitral procedure; (b) the tribunal failed to adhere to that agreed procedure; (c) the failure was causally related to the tribunal’s decision in the sense that the decision could reasonably have been different if the tribunal had adhered to the parties’ agreement on procedure; and (d) the party mounting the challenge is not barred from relying on this ground by virtue of its failure to raise an objection during the proceedings before the tribunal: _AMZ v AXX_ [2016] 1 SLR 549 (“ _AMZ_ ”) at [102]. 
+63     A party seeking to set aside an arbitral award on the ground of breach of agreed procedure under Art 34(2)( _a_ )(iv) of the Model Law must show that (a) there was an agreement between the parties on a particular arbitral procedure; (b) the tribunal failed to adhere to that agreed procedure; (c) the failure was causally related to the tribunal’s decision in the sense that the decision could reasonably have been different if the tribunal had adhered to the parties’ agreement on procedure; and (d) the party mounting the challenge is not barred from relying on this ground by virtue of its failure to raise an objection during the proceedings before the tribunal: _AMZ v AXX_ <span class="citation">[2016] 1 SLR 549</span> (“ _AMZ_ ”) at [102]. 
 
 64     In essence, Midea submitted that the Tribunal breached the agreed procedure when it departed from the ALOI by making its finding on cl 4.2. I agreed with Midea that the ALOI constituted a part of the parties’ agreed arbitral procedure. The ALOI was prepared and submitted by the parties pursuant to Procedural Order No 1 (“PO1”) issued by the Tribunal. PO1 stated (at para 8.5) that “[a]s a general principle, no Party shall be permitted to advance any new factual allegations or any new legal 
 
@@ -326,7 +326,7 @@ arguments at the Oral Hearing, unless expressly permitted by the Tribunal”. [n
 
 **Whether the Tribunal acted in breach of the rules of natural justice** 
 
-65     A party seeking to set aside an arbitral award under Art 34(2)( _a_ )(ii) of the Model Law or s 24( _b_ ) of the IAA must establish (a) which rule of natural justice was breached; (b) how that rule was breached; (c) in what way the breach was connected to the making of the award; and (d) how the breach prejudiced the party’s rights: _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ [2007] 3 SLR(R) 86 (“ _Soh Beng Tee_ ”) at [29]. 
+65     A party seeking to set aside an arbitral award under Art 34(2)( _a_ )(ii) of the Model Law or s 24( _b_ ) of the IAA must establish (a) which rule of natural justice was breached; (b) how that rule was breached; (c) in what way the breach was connected to the making of the award; and (d) how the breach prejudiced the party’s rights: _Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd_ <span class="citation">[2007] 3 SLR(R) 86</span> (“ _Soh Beng Tee_ ”) at [29]. 
 
 66     The crux of Midea’s case was that the Tribunal’s finding on cl 4.2 breached the fair hearing rule 
 
@@ -335,7 +335,7 @@ because Midea was denied a full opportunity to present its case. As stated earli
 
 **_Whether there was prejudice to Midea_** 
 
-67     An arbitral award will not be set aside on the ground of breach of natural justice unless it can be shown that some actual or real prejudice will be caused by the breach: _Soh Beng Tee_ at [91]. The test is whether the arbitral tribunal could reasonably have arrived at a different result if not for the tribunal’s breach: _L W Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd and another appeal_ [2013] 1 SLR 125 at [54]. This test applies whenever prejudice needs to be shown in an application to set aside an arbitral award, regardless of whether the ground relied upon is Art 34(2)( _a_ )(ii), Art 34(2)( _a_ )(iii) or Art 34(2)( _a_ )(iv) of the Model Law, or s 24( _b_ ) of the IAA: _AMZ_ at [103]–[104]. 
+67     An arbitral award will not be set aside on the ground of breach of natural justice unless it can be shown that some actual or real prejudice will be caused by the breach: _Soh Beng Tee_ at [91]. The test is whether the arbitral tribunal could reasonably have arrived at a different result if not for the tribunal’s breach: _L W Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd and another appeal_ <span class="citation">[2013] 1 SLR 125</span> at [54]. This test applies whenever prejudice needs to be shown in an application to set aside an arbitral award, regardless of whether the ground relied upon is Art 34(2)( _a_ )(ii), Art 34(2)( _a_ )(iii) or Art 34(2)( _a_ )(iv) of the Model Law, or s 24( _b_ ) of the IAA: _AMZ_ at [103]–[104]. 
 
 68     Tornado argued that there was no prejudice to Midea. Tornado submitted that even if the Tribunal had not made its finding on cl 4.2, the Tribunal would have found _by implication_ that Midea’s imposition of the payment term in PI-1325 was in breach of the parties’ prior agreement and practice. [note: 38] Tornado referred to para 8.24 of the Award, which stated as follows: 
 

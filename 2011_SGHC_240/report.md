@@ -118,11 +118,11 @@ used the illegally obtained money in much the same ways as Koh did. In fact, bot
 
 22     Due to the circumstances here, the accused persons should each receive in total more than the maximum imprisonment period of 14 years that the district court may impose in any one case under the provisions of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) (it was not in dispute that the Criminal Procedure Code in force before 2011 applies to this case). 
 
-23     The prosecution argued that the guilty pleas were not motivated by genuine remorse and should therefore be accorded little mitigating weight. The accused persons here knew that their game was up when CAD came into the picture and “their guilty pleas stem from a pragmatic realization that there is no point in delaying the inevitable”. “It is all too easy for an offender to say he is sorry when the strong arm of the law has caught up with him” ( _Chen Weixiong Jerrick v Public Prosecutor_ [2003] 2 SLR(R) 334 at [23]). 
+23     The prosecution argued that the guilty pleas were not motivated by genuine remorse and should therefore be accorded little mitigating weight. The accused persons here knew that their game was up when CAD came into the picture and “their guilty pleas stem from a pragmatic realization that there is no point in delaying the inevitable”. “It is all too easy for an offender to say he is sorry when the strong arm of the law has caught up with him” ( _Chen Weixiong Jerrick v Public Prosecutor_ <span class="citation">[2003] 2 SLR(R) 334</span> at [23]). 
 
 24     The prosecution also contended that there was no real restitution as most of the assets recovered were seized by the CAD in the course of its investigations. While the recovered assets would reduce the overall financial loss caused to SLA, they should not be viewed as evidence of remorse. 
 
-25     The “one transaction rule” should not apply to this case as there was no proximity in time in the multiple offences. Consecutive imprisonment terms should be imposed on the accused persons “for a significant number of charges so that the court may show its abhorrence of the nefarious conduct” in this case. The prosecution cited the Court of Appeal’s decision in _ADF v PP_ [2010] 1 SLR 874 for the proposition that more than two consecutive imprisonment sentences ought to be given serious consideration in dealing with distinct offences when one or more of the following factors are present: 
+25     The “one transaction rule” should not apply to this case as there was no proximity in time in the multiple offences. Consecutive imprisonment terms should be imposed on the accused persons “for a significant number of charges so that the court may show its abhorrence of the nefarious conduct” in this case. The prosecution cited the Court of Appeal’s decision in _ADF v PP_ <span class="citation">[2010] 1 SLR 874</span> for the proposition that more than two consecutive imprisonment sentences ought to be given serious consideration in dealing with distinct offences when one or more of the following factors are present: 
 
  Persistent or habitual offenders; 
 
@@ -134,7 +134,7 @@ used the illegally obtained money in much the same ways as Koh did. In fact, bot
 
 26     The sentences on the charges that the prosecution has proceeded on should also be enhanced in view of the substantial number of charges taken into consideration. The prosecution referred to three cases involving large scale fraud heard by the High Court for comparison. They are: 
 
- PP v Teo Cheng Kiat [2000] SGHC 129 
+ PP v Teo Cheng Kiat <span class="citation">[2000] SGHC 129</span> 
 
  The accused in that case, a supervisor in Singapore Airline, misappropriated about $35m from the airline. About $24m were recovered. A high degree of trust was reposed in him. For the 
 
@@ -145,11 +145,11 @@ used the illegally obtained money in much the same ways as Koh did. In fact, bot
 
  10 charges of criminal breach of trust by a servant under s 408 Penal Code, with 16 other charges taken into consideration, he was sentenced to a total of 24 years imprisonment upon his plea of guilt. 
 
- PP v Lam Cheng Fong [2002] 2 SLR(R) 599 
+ PP v Lam Cheng Fong <span class="citation">[2002] 2 SLR(R) 599</span> 
 
  The accused in that case operated a money remittance business and embezzled almost $8.8m from more than 1,000 foreign workers here within a period of 3 months. Only $905, was recovered while the rest of the money was squandered by the accused. He pleaded guilty to 20 charges of criminal breach of trust as an agent under s 409 Penal Code, one charge of money laundering and one charge under s 241 Penal Code. 1,190 other charges were taken into consideration for sentencing purposes. The court imposed a total of 22 years imprisonment. 
 
- PP v Chia Teck Leng [2004] SGHC 68 
+ PP v Chia Teck Leng <span class="citation">[2004] SGHC 68</span> 
 
  The accused there was the finance manager of Asia Pacific Brewery (Singapore) Pte Ltd. He cheated four banks of some $117m and squandered about $62m in gambling at casinos. He pleaded guilty to 6 charges under s 467 Penal Code and 8 charges under s 420 Penal Code, with 32 other charges taken into consideration. He received a total of 42 years imprisonment. 
 
@@ -208,7 +208,7 @@ were shocked by the revelations as Koh had merely informed his wife that he had 
 
 likened his role to that of a knight, “one who was controllable and whose path was limited in scope but yet important enough in the scheme to ensure maximum benefit for the chess master who knew how to wield him”. Lim submitted that his culpability was similar to that of Ho, whom he has never met. Both of them had been manipulated by Koh. 
 
-49 “Deterrence must always be tempered by proportionality in relation to the severity of the offence committed as well as by the moral and legal culpability of the offender” ( _Tan Kay Beng v PP_ [2006] 4 SLR(R) 10). It was suggested that compassion could still be shown in a deterrent sentence and that a total custodial sentence of 10 to 12 years would suffice to meet the ends of justice here. The precedents cited by the prosecution (at [26] above) were inapplicable as s 409 and s 467 of the old Penal Code provided for even life imprisonment. Moreover, the amount defrauded and lost in this case was nowhere near the astronomical sums in those three cases. 
+49 “Deterrence must always be tempered by proportionality in relation to the severity of the offence committed as well as by the moral and legal culpability of the offender” ( _Tan Kay Beng v PP_ <span class="citation">[2006] 4 SLR(R) 10</span>). It was suggested that compassion could still be shown in a deterrent sentence and that a total custodial sentence of 10 to 12 years would suffice to meet the ends of justice here. The precedents cited by the prosecution (at [26] above) were inapplicable as s 409 and s 467 of the old Penal Code provided for even life imprisonment. Moreover, the amount defrauded and lost in this case was nowhere near the astronomical sums in those three cases. 
 
 50     Sing Investments has sued Lim for the $350,000 loan taken out for the ill-fated Ferrari. I was informed by counsel on watching brief for SLA that the insurers for the Ferrari have repudiated liability on the ground that the policy was purchased with proceeds from fraud. 
 

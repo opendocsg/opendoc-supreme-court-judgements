@@ -139,7 +139,7 @@ B, or the alternative presumption of advancement is invoked to trump A's intenti
 
  [emphasis added] 
 
-40     Closer to home, in the most recent pronouncement on resulting trusts, the Court of Appeal in _Lau Siew Kim v Yeo Guan Chye Terence and Another_ [2007] SGCA 54 (" _Lau Siew Kim_ "), stated that there is a distinction to be drawn between the presumption of resulting trust and the resulting trust itself, at [35]: 
+40     Closer to home, in the most recent pronouncement on resulting trusts, the Court of Appeal in _Lau Siew Kim v Yeo Guan Chye Terence and Another_ <span class="citation">[2007] SGCA 54</span> (" _Lau Siew Kim_ "), stated that there is a distinction to be drawn between the presumption of resulting trust and the resulting trust itself, at [35]: 
 
  The presumption is an inference of a fact drawn from the existence of other facts, whereas the resulting trust is the equitable response to those facts, proved or presumed... the difference between them is explained in Resulting Trusts [Robert Chambers, Clarendon Press, Oxford 1997]: 
 
@@ -190,7 +190,7 @@ _The role of intention: was the plaintiff’s payment for the shares a loan or a
 52     The plaintiff's case was essentially that he had paid for the shares and therefore, the defendant held them on trust for him. Unsurprisingly, the defendant's case hinged on denying the existence of such a resulting trust. She then relied on the defences of estoppel by convention and estoppel by representation. As stated in _Snell's Equity,_ parol evidence is admissible to prove by whom payment had been made, for such evidence in effect shows that the nominal purchaser was really the agent of the true purchaser. If the evidence merely established a loan of some or all of the money used for the purchase, there would be no resulting trust and the person lending the money would be a mere creditor. 
 
 
-53     In _Cheong Yoke Kuen & Ors v Cheong Kwok Kiong_ [1999] 2 SLR 476, the Court of Appeal held that where a person has paid the purchase price of the property and the property is conveyed or transferred to him jointly with others, or to one or more persons other than the purchaser, a resulting trust arises in favour of the purchaser and he is the beneficial owner of the property. 
+53     In _Cheong Yoke Kuen & Ors v Cheong Kwok Kiong_ <span class="citation">[1999] 2 SLR 476</span>, the Court of Appeal held that where a person has paid the purchase price of the property and the property is conveyed or transferred to him jointly with others, or to one or more persons other than the purchaser, a resulting trust arises in favour of the purchaser and he is the beneficial owner of the property. 
 
 54     To my mind, the numerous receipts issued by Alsecure acknowledging the amounts received as well as the DBS bank statements with corresponding dates provided by the plaintiff, addressed the issue of fact as to who provided the funds for the purchase of the shares. Without a doubt, there was evidence of numerous sums in varying amounts ranging from $15,000 to $200,000 being transferred for the period between November 2004 and 16 December 2005. All in, the plaintiff had transferred $1m to Alsecure. 
 
@@ -227,10 +227,10 @@ say that the plaintiff was making a loan, I extended my analysis further to cons
 
  [emphasis added] 
 
-63     In _Singapore Island Country Club v Hilborne_ [1997] 1 SLR 248, the test for successfully relying on estoppel by convention was set out. First, there must be a course of dealings between the two parties in a contractual relationship; second, the course of dealings must be such that both parties must have proceeded on the basis of an agreed interpretation of the contract and third, it must be unjust to allow one party to go back on the agreed interpretation. This formulation of the test was 
+63     In _Singapore Island Country Club v Hilborne_ <span class="citation">[1997] 1 SLR 248</span>, the test for successfully relying on estoppel by convention was set out. First, there must be a course of dealings between the two parties in a contractual relationship; second, the course of dealings must be such that both parties must have proceeded on the basis of an agreed interpretation of the contract and third, it must be unjust to allow one party to go back on the agreed interpretation. This formulation of the test was 
 
 
-most recently approved of by the Court of Appeal in _MAE Engineering Ltd v Fire-Stop Marketing Services Pte Ltd_ [2005] 1 SLR 379. 
+most recently approved of by the Court of Appeal in _MAE Engineering Ltd v Fire-Stop Marketing Services Pte Ltd_ <span class="citation">[2005] 1 SLR 379</span>. 
 
 64     Turning to this case, the defendant chose to run her case based on the sole ground that she and the plaintiff had accepted a particular state of things as the foundation of the course of dealings between them. As such, she contended that the positive representations and/or silence of the plaintiff meant that this contributed to an agreed assumption on which they dealt with one another. 
 
@@ -255,7 +255,7 @@ willing to part with more money subsequent to the meeting.
 
 **_Estoppel by representation_** 
 
-72     In a related vein, a similar proposition was raised by the defendant in pleading a defence of estoppel by representation. It is trite law that for a party to successfully raise a defence of estoppel by representation, three elements must be satisfied, namely, representation, reliance and detriment: _United Overseas Bank Ltd v Bank of China_ [2006] 1 SLR 57 ("the _UOB_ decision"). 
+72     In a related vein, a similar proposition was raised by the defendant in pleading a defence of estoppel by representation. It is trite law that for a party to successfully raise a defence of estoppel by representation, three elements must be satisfied, namely, representation, reliance and detriment: _United Overseas Bank Ltd v Bank of China_ <span class="citation">[2006] 1 SLR 57</span> ("the _UOB_ decision"). 
 
 73     With regard to the first element of representation, it has been noted in _Halsbury's Laws of England Volume_ 16(2) (4th edn, 2003) ("Halsbury's Laws of England") that the representation must be both material and unambiguous. A representation is material if it is of such a nature that it would induce a person to enter into a contract, or tend to induce him to do so (as in _Smith v Chadwick_ (1882) 20 Ch D 27); or it is such that a person would be naturally inclined to believe it (as in _Pickard v Sears_ (1836) 6 Ad & El 469; _Freeman v Cooke_ (1848) 2 Exch 654; _HDS Viscaya AS v Bryggen Shipping and Trading AS_ [2002] EWHC 1678). The test is an objective one and a representation can be regarded as material if the representee did in fact act upon it. Next, to found an estoppel, a representation must be clear and unambiguous. 
 

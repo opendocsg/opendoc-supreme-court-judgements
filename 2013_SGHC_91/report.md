@@ -125,9 +125,9 @@ and the rental surplus was retained by the plaintiff. [note: 4] Presently, the d
 
  Sub-total $ 195,300.00 $ 417,509. 
 
-acquisition of the matrimonial home. It is also not unusual to see one side denigrate or downplay other forms of contributions by the other party to the acquisition of the matrimonial home. In this regard, the judgment of the Singapore Court of Appeal in _BCB v BCC_ [2013] 2 SLR 324 (“ _BCB_ ”) is a fitting reminder that _indirect_ contributions of _every_ stripe should be taken _fully_ into account, and that _direct_ contributions should not be given undue emphasis ( _BCB_ at [8] & [11]). _BCB_ also emphasized that the indirect contributions of _both_ the husband as well as wife should be given their full value ( _BCB_ at [12]). 
+acquisition of the matrimonial home. It is also not unusual to see one side denigrate or downplay other forms of contributions by the other party to the acquisition of the matrimonial home. In this regard, the judgment of the Singapore Court of Appeal in _BCB v BCC_ <span class="citation">[2013] 2 SLR 324</span> (“ _BCB_ ”) is a fitting reminder that _indirect_ contributions of _every_ stripe should be taken _fully_ into account, and that _direct_ contributions should not be given undue emphasis ( _BCB_ at [8] & [11]). _BCB_ also emphasized that the indirect contributions of _both_ the husband as well as wife should be given their full value ( _BCB_ at [12]). 
 
-13     The observations in _Soh Chan Soon v Tan Choon Yock_ [1998] SGHC 204 (“ _Soh Chan Soon_ ”) (cited in _NK v NL_ [2007] 3 SLR(R) 743 at [24] and _BCB_ at [10]) are equally instructive. In that case, Warren L H Khoo J stated the following (at [7]): 
+13     The observations in _Soh Chan Soon v Tan Choon Yock_ <span class="citation">[1998] SGHC 204</span> (“ _Soh Chan Soon_ ”) (cited in _NK v NL_ <span class="citation">[2007] 3 SLR(R) 743</span> at [24] and _BCB_ at [10]) are equally instructive. In that case, Warren L H Khoo J stated the following (at [7]): 
 
  In the usual situation of a couple with limited means striving to raise a family and building up a home, each party will in the normal course make his or her contribution in monetary or nonmonetary terms. If both are working and earning an income, the wife, for example, may pay for the daily household expenses and the children’s needs while the husband may pay the down payment for a flat and the monthly repayments of the mortgage. It cannot in justice be said that the wife does not indirectly contribute to the equity in the flat. In a relationship ruled by the heart rather than the head, she would not keep accounts of what she has expended for the family. When it comes to dividing the family assets in the unfortunate event of a divorce, it would not be right to start from the basis that the party who is shown by documentary evidence to have made direct monetary contribution to the equity of the family home should be treated as having made a greater contribution than the other party. [emphasis added] 
 
@@ -197,7 +197,7 @@ the plaintiff cash for certain months. [note: 12] Such payments would understand
 
 months. [note: 13] 
 
-20     The present situation also bore certain similarities to the case of _Pang Rosaline v Chan Kong Chin_ [2009] 4 SLR(R) 935 (“ _Pang Rosaline_ ”). Like in _Pang Rosaline_ , the parties here had an arrangement whereby part of the defendant’s income would be applied towards household outgoings, whereas it was merely “a matter of practicality” that the plaintiff paid the mortgage instalments because she was entitled to a preferential staff loan as a bank employee (see _Pang Rosaline_ at [13]). [note: 14] As such, it would not be reliable to accept the plaintiff’s claim that she was wholly 
+20     The present situation also bore certain similarities to the case of _Pang Rosaline v Chan Kong Chin_ <span class="citation">[2009] 4 SLR(R) 935</span> (“ _Pang Rosaline_ ”). Like in _Pang Rosaline_ , the parties here had an arrangement whereby part of the defendant’s income would be applied towards household outgoings, whereas it was merely “a matter of practicality” that the plaintiff paid the mortgage instalments because she was entitled to a preferential staff loan as a bank employee (see _Pang Rosaline_ at [13]). [note: 14] As such, it would not be reliable to accept the plaintiff’s claim that she was wholly 
 
 responsible for the cash portion of the mortgage instalments. It was more likely than not that the defendant _had_ made direct financial contributions to the payment of the mortgage instalments. 
 
@@ -250,7 +250,7 @@ first place. [note: 23]
 
  Total 1,089,502.16 944,975. 
 
-26     Overall, I was satisfied that the defendant had made more significant indirect financial contributions to the matrimonial home and family expenses than the plaintiff. While the exact quantum of the defendant’s financial contributions was meticulously traversed in the parties’ affidavits, it would be impossible, and indeed erroneous, for this court to take into account every minute sum contributed by each party to the matrimonial home and the household ( _Lim Choon Lai v Chew Kim Heng_ [2001] 2 SLR(R) 260 at [14], cited in _NK v NL_ at [26]). The court must take a broader view of the circumstances, giving adequate weight to parties’ _direct_ as well as _indirect_ financial contributions ( _BCB_ at [34]). 
+26     Overall, I was satisfied that the defendant had made more significant indirect financial contributions to the matrimonial home and family expenses than the plaintiff. While the exact quantum of the defendant’s financial contributions was meticulously traversed in the parties’ affidavits, it would be impossible, and indeed erroneous, for this court to take into account every minute sum contributed by each party to the matrimonial home and the household ( _Lim Choon Lai v Chew Kim Heng_ <span class="citation">[2001] 2 SLR(R) 260</span> at [14], cited in _NK v NL_ at [26]). The court must take a broader view of the circumstances, giving adequate weight to parties’ _direct_ as well as _indirect_ financial contributions ( _BCB_ at [34]). 
 
 **_Additional considerations_** 
 
@@ -298,7 +298,7 @@ the parties purchased their matrimonial home. [note: 39]
 
 37     The above statements squarely address the present situation. 
 
-38     In _BGT v BGU_ [2013] SGHC 50, the husband purchased an investment property before the marriage, but he paid for most of it during the marriage, utilising his CPF contributions for this purpose. Judith Prakash J noted (at [29]): 
+38     In _BGT v BGU_ <span class="citation">[2013] SGHC 50</span>, the husband purchased an investment property before the marriage, but he paid for most of it during the marriage, utilising his CPF contributions for this purpose. Judith Prakash J noted (at [29]): 
 
  ... [I]t is well established that any contributions to his account from moneys earned after the marriage would form part of the matrimonial assets. If the husband had not been paying for the Tanamera property, his monthly contributions during the marriage would have remained in his CPF account and there would have been no doubt at the end of the marriage that those contributions would have to be included as part of the matrimonial assets. ... 
 

@@ -80,7 +80,7 @@ I note that the Paper did not actually contain “particulars of transactions ta
 
 8       Before I analyse the merits of this application, it would be appropriate to set out the following brief facts about [R] Ltd. [R] Ltd was incorporated in the British Virgin Islands on 17 May 2007. It has one corporate director and one corporate shareholder. [R] Ltd is in the business of coal trading and investing in securities and financial products. 
 
-9       I would also mention at this point that the procedural framework for EOI requests has been set out comprehensively in _Comptroller of Income Tax v BJY_ [2013] SGHC 173 (“ _Comptroller v BJY_ ”) at [9]​–[18]. I therefore do not propose to set out the framework again in the present case. 
+9       I would also mention at this point that the procedural framework for EOI requests has been set out comprehensively in _Comptroller of Income Tax v BJY_ <span class="citation">[2013] SGHC 173</span> (“ _Comptroller v BJY_ ”) at [9]​–[18]. I therefore do not propose to set out the framework again in the present case. 
 
 **The issue** 
 

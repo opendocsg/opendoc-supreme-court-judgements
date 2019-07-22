@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Murder_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 17 of 2011 was dismissed by the Court of Appeal on 3 July 2012. See [2012] SGCA 47.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 17 of 2011 was dismissed by the Court of Appeal on 3 July 2012. See <span class="citation">[2012] SGCA 47</span>.] 
 
 20 September 2011 Judgment reserved. 
 

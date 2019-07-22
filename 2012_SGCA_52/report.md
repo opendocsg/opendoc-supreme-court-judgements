@@ -16,13 +16,13 @@
 
 _Land_ – _Caveats_ – _Wrongful lodgment_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2012] SGHC 32.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2012] SGHC 32</span>.] 
 
 17 September 2012 
 
 **Chan Sek Keong CJ (delivering the grounds of decision of the court):** 
 
-1       This is an appeal by the Appellants against the decision of the judge (“the Judge”) in _Aamna Taseer v Shaan Taseer and others_ [2012] SGHC 32 (“the Judgment”), ordering the removal of a caveat lodged by the Appellants against a registered land with a house erected thereon, known as 82 Cove Drive, Sentosa (“the House”). 
+1       This is an appeal by the Appellants against the decision of the judge (“the Judge”) in _Aamna Taseer v Shaan Taseer and others_ <span class="citation">[2012] SGHC 32</span> (“the Judgment”), ordering the removal of a caveat lodged by the Appellants against a registered land with a house erected thereon, known as 82 Cove Drive, Sentosa (“the House”). 
 
 2       The question of law in this appeal was whether the beneficiaries of an estate had the legal right to lodge a caveat against registered land on behalf of the estate of a deceased (“the Deceased”) on the basis that the property in dispute was held on a resulting trust for the Deceased. At the conclusion of the hearing, we answered the question in the negative and dismissed the appeal with costs. We now give our reasons. 
 
@@ -55,7 +55,7 @@ It may be noted that the Appellants did not lodge the Caveat on behalf of the Es
 
 **The proceedings below** 
 
-9       On 3 October 2011, the Respondent filed Originating Summons No 866 of 2011 to remove the Caveat on the ground that the Appellants had no standing merely as beneficiaries of the Estate to lodge the Caveat against the House (which, in any case, did not belong to the Estate as it devolved to the Respondent as the sole owner by the principle of survivorship). The Judge, after hearing the parties, allowed the Respondent’s application, and made an order that the Caveat be removed. The Judge, agreeing with the decisions in _Guardian, Trust, and Executors Company of New Zealand, Limited v Hall_ [1938] NZLR 1020, _In re Savage’s Caveat_ [1956] NZLR 118 and _Gangemi v Gangemi_ [2009] WASC 195, held that only persons with a direct interest in a property had a caveatable interest in the property, and that a share in the assets of an unadministered estate was not a claim in respect of specific property of the estate, and therefore would not entitle the claimant to lodge a caveat against the property (see the Judgement at [6]). The Judge also held that the decision of this court in _Wong Moy (administratrix of the estate of Theng Chee Khim, deceased) v Soo Ah Choy_ [1996] 3 SLR(R) 27 (“ _Wong Moy_ ”) did not assist the Appellants as that case merely decided that the beneficiaries of an estate had the right to bring proceedings to recover assets of the estate under certain circumstances (see the Judgment at [6]). In _Wong Moy_ , the estate property had been sold and the beneficiaries brought an action against the executors to prevent them from disposing of the 
+9       On 3 October 2011, the Respondent filed Originating Summons No 866 of 2011 to remove the Caveat on the ground that the Appellants had no standing merely as beneficiaries of the Estate to lodge the Caveat against the House (which, in any case, did not belong to the Estate as it devolved to the Respondent as the sole owner by the principle of survivorship). The Judge, after hearing the parties, allowed the Respondent’s application, and made an order that the Caveat be removed. The Judge, agreeing with the decisions in _Guardian, Trust, and Executors Company of New Zealand, Limited v Hall_ [1938] NZLR 1020, _In re Savage’s Caveat_ [1956] NZLR 118 and _Gangemi v Gangemi_ [2009] WASC 195, held that only persons with a direct interest in a property had a caveatable interest in the property, and that a share in the assets of an unadministered estate was not a claim in respect of specific property of the estate, and therefore would not entitle the claimant to lodge a caveat against the property (see the Judgement at [6]). The Judge also held that the decision of this court in _Wong Moy (administratrix of the estate of Theng Chee Khim, deceased) v Soo Ah Choy_ <span class="citation">[1996] 3 SLR(R) 27</span> (“ _Wong Moy_ ”) did not assist the Appellants as that case merely decided that the beneficiaries of an estate had the right to bring proceedings to recover assets of the estate under certain circumstances (see the Judgment at [6]). In _Wong Moy_ , the estate property had been sold and the beneficiaries brought an action against the executors to prevent them from disposing of the 
 
 
 proceeds of sale until the claims against them were resolved. 

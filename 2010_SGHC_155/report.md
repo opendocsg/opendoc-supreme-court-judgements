@@ -18,7 +18,7 @@ _Banking_
 
 _Contract_ 
 
-[LawNet Editorial Note: In the appeal to this decision in Civil Appeal No 99 of 2010, the Court of Appeal on 11 April 2011 set aside the High Court judgment and ordered that a new trial be fixed for the plaintiff's claim and the defendant’s counterclaim. See [2011] SGCA 13.] 
+[LawNet Editorial Note: In the appeal to this decision in Civil Appeal No 99 of 2010, the Court of Appeal on 11 April 2011 set aside the High Court judgment and ordered that a new trial be fixed for the plaintiff's claim and the defendant’s counterclaim. See <span class="citation">[2011] SGCA 13</span>.] 
 
 20 May 2010 Judgment reserved. 
 
@@ -56,7 +56,7 @@ cross-examination which I took into account in weighing the credibility of the w
 
 7       Because of the complexity and asymmetries, it becomes useful to first examine the contractual documents that govern this private bank and client relationship in order to more clearly set out and evaluate the evidence adduced within its contractual context. 
 
-8       The contractual relationship between the plaintiff and the defendant is set out in a number of standard printed forms. These are standard form contracts, which private banking clients do not normally read, and if read, are not fully understood and rarely negotiated. Nevertheless, in the absence of fraud or misrepresentation, a person is bound by the express contractual terms of the documents which he has signed even though he has not read their content nor understood their language (see _L’Estrange v F Graucob Limited_ [1934] 2 KB 394 and _Consmat Singapore_ ( _Pte_ ) _Ltd v Bank of America National Trust & Savings Association_ [1992] 2 SLR(R) 195). 
+8       The contractual relationship between the plaintiff and the defendant is set out in a number of standard printed forms. These are standard form contracts, which private banking clients do not normally read, and if read, are not fully understood and rarely negotiated. Nevertheless, in the absence of fraud or misrepresentation, a person is bound by the express contractual terms of the documents which he has signed even though he has not read their content nor understood their language (see _L’Estrange v F Graucob Limited_ [1934] 2 KB 394 and _Consmat Singapore_ ( _Pte_ ) _Ltd v Bank of America National Trust & Savings Association_ <span class="citation">[1992] 2 SLR(R) 195</span>). 
 
 9       The defendant’s contractual private banking relationship with the plaintiff was governed by the following overarching contractual documents: 
 

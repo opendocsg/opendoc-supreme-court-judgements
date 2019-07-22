@@ -139,7 +139,7 @@ crossing [note: 14] and when she saw them crossing, she thought she could drive 
 
 accelerating her car [note: 15] instead of slowing down or stopping her car. 
 
-26     The duty on a motorist who is approaching a junction was examined in _Ong Bee Nah v Won Siew Wan (Yong Tian Choy, third party)_ [2005] 2 SLR(R) 455 where Andrew Phang Boon Leong JC stated (at [95]): 
+26     The duty on a motorist who is approaching a junction was examined in _Ong Bee Nah v Won Siew Wan (Yong Tian Choy, third party)_ <span class="citation">[2005] 2 SLR(R) 455</span> where Andrew Phang Boon Leong JC stated (at [95]): 
 
  ... It seems to me that there is in the absence of clear and compelling circumstances to the contrary no legal duty on a driver to slow down automatically each time he or she approaches a junction if there is no stop sign or (as is the case here) the lights are in his or her favour at a junction where traffic lights are present. 
 
@@ -164,7 +164,7 @@ man” or “blinking green man” at the time of the accident is irrelevant.”
 
 30     The effect of the rule was misunderstood. While the rule confers on pedestrians at pedestrian crossings the right of way, it is a serious error to take that to mean that the pedestrian can cross with impunity without regard to the state of the lights, or that the pedestrian does not owe a duty to himself or herself, and to other road-users, to abide by the lights. 
 
-31     That duty was clearly established in _Ng Weng Cheong v Soh Oh Loo and another_ [1993] 1 SLR(R) 532 (“ _Ng Weng Cheong_ ”) which arose out of a somewhat similar fact situation. In that case, a pedestrian tried to cross a road at a pedestrian crossing when the red man was on, and he was knocked down by a bus. The trial court found that the bus driver was not negligent and the pedestrian’s appeal to the High Court was dismissed on the ground that the bus driver had a right to presume when the pedestrian crossing light was red that his way was clear. The Court of Appeal disagreed with the appellate judge and held (at [39]) that: 
+31     That duty was clearly established in _Ng Weng Cheong v Soh Oh Loo and another_ <span class="citation">[1993] 1 SLR(R) 532</span> (“ _Ng Weng Cheong_ ”) which arose out of a somewhat similar fact situation. In that case, a pedestrian tried to cross a road at a pedestrian crossing when the red man was on, and he was knocked down by a bus. The trial court found that the bus driver was not negligent and the pedestrian’s appeal to the High Court was dismissed on the ground that the bus driver had a right to presume when the pedestrian crossing light was red that his way was clear. The Court of Appeal disagreed with the appellate judge and held (at [39]) that: 
 
  39 ... [T]he fact that it is an offence for a pedestrian to cross a controlled crossing against light signals, in our view, does make a difference in this way. The fact that it is an offence means that drivers of vehicles in general have less reason to anticipate such occurrences, although, as we pointed out earlier, such occurrences cannot in reality be ruled out altogether. For the pedestrian, it also means that the danger inherent in such behaviour is that much greater. A person who crosses a light-controlled crossing in disobedience of a light signal applicable to him thus assumes a high degree of contributory negligence. 
 
@@ -205,7 +205,7 @@ and apportioned liability for the accident at 70% for the pedestrian and 30% for
 
 from the time the deceased would have completed her High School education in 2010 and have started playing badminton professionally. 
 
-38     Counsel for the defendant submitted that a uniform multiplier of 10 years be applied for all the dependents. The defendants’ proposal is incorrect in principle because it failed to consider the differences in the relationship between the dependents and the deceased, and the circumstances of each dependent – see _Ling Kee Ling and another v Leow Leng Siong and others_ [1994] 3 SLR(R) 395 at [8]. A person like the deceased may support a brother until he is able to support himself, but she may support her parents during their lifetimes or for so long as she is able to do that. 
+38     Counsel for the defendant submitted that a uniform multiplier of 10 years be applied for all the dependents. The defendants’ proposal is incorrect in principle because it failed to consider the differences in the relationship between the dependents and the deceased, and the circumstances of each dependent – see _Ling Kee Ling and another v Leow Leng Siong and others_ <span class="citation">[1994] 3 SLR(R) 395</span> at [8]. A person like the deceased may support a brother until he is able to support himself, but she may support her parents during their lifetimes or for so long as she is able to do that. 
 
 39     The deceased’s father was working as a construction worker after his small business in kitchen sinks failed. Her mother had worked as a kitchen assistant, but could not continue after her daughter’s death, and her brother was schooling. 
 
@@ -305,7 +305,7 @@ KRW a month and she would save the rest of the money, which is sent to her mothe
 
 62     The plaintiffs made a claim for pain and suffering in respect of the injuries which the deceased suffered, including a contused brain, skull fractures, pelvic and sacral fractures, fracture of the left pneumothorax and fractures of the upper limb. They acknowledged that she only survived the accident for slightly more than five hours, and submitted that an award of $2,500 should be made. 
 
-63     While the $2,500 quantification was low for such serious injuries, there was no evidence that the deceased suffered any pain as a result of the injuries. Bang, who was with her at the scene of accident testified that the deceased was unconscious and unresponsive. The deceased arrived in hospital in a state of coma and she did not respond to resuscitation efforts. In the circumstances, the plaintiffs had not proved that the deceased experienced any pain and suffering, and the claim must fail – see _Low Yok Ying & Another v Sim Kok Lee & Others_ [1990] 2 SLR(R) 713. 
+63     While the $2,500 quantification was low for such serious injuries, there was no evidence that the deceased suffered any pain as a result of the injuries. Bang, who was with her at the scene of accident testified that the deceased was unconscious and unresponsive. The deceased arrived in hospital in a state of coma and she did not respond to resuscitation efforts. In the circumstances, the plaintiffs had not proved that the deceased experienced any pain and suffering, and the claim must fail – see _Low Yok Ying & Another v Sim Kok Lee & Others_ <span class="citation">[1990] 2 SLR(R) 713</span>. 
 
 **Special damages** 
 

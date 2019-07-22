@@ -208,7 +208,7 @@ January 2011. They also alleged that the defendants failed to perform reasonable
 
 **_The alleged conspiracy_** 
 
-43     It is not easy to prove the existence of a conspiracy. In _R v Siracusa_ (1990) 90 Cr App R 340, the English Court of Appeal observed (at 349) that “the origins of all conspiracies are concealed and it is usually quite impossible to establish when or where the initial agreement was made, or when or where other conspirators were recruited”. In _Asian Corporate Services (SEA) Pte Ltd v Eastwest Management Ltd (Singapore Branch)_ [2006] 1 SLR(R) 901, Chao Hick Tin JA pointed out (at [19]) that it is not often that the victim of a conspiracy has direct evidence to prove the allegation and that proof of conspiracy is normally inferred from other objective facts. 
+43     It is not easy to prove the existence of a conspiracy. In _R v Siracusa_ (1990) 90 Cr App R 340, the English Court of Appeal observed (at 349) that “the origins of all conspiracies are concealed and it is usually quite impossible to establish when or where the initial agreement was made, or when or where other conspirators were recruited”. In _Asian Corporate Services (SEA) Pte Ltd v Eastwest Management Ltd (Singapore Branch)_ <span class="citation">[2006] 1 SLR(R) 901</span>, Chao Hick Tin JA pointed out (at [19]) that it is not often that the victim of a conspiracy has direct evidence to prove the allegation and that proof of conspiracy is normally inferred from other objective facts. 
 
 44     In essence, the plaintiffs’ claim against the defendants for conspiracy was that Han escalated the internal dispute within CTPHZ and instituted Suit 908 with the support of Christine and Robin to give Vanwarm a reason to divert the Hangzhou project from CTPHZ to IEC. 
 

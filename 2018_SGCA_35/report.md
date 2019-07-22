@@ -18,7 +18,7 @@
 
 _Damages_ – _Measure of damages_ – _Tort_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2017] SGHC 231.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in <span class="citation">[2017] SGHC 231</span>.] 
 
 3 July 2018 Judgment reserved. 
 
@@ -28,7 +28,7 @@ _Damages_ – _Measure of damages_ – _Tort_
 
 2       In 2008, the respondent began developing a condominium known as “The Amery” on the plot of land adjoining the Property. From March to April 2009, the adjoining plot of land was excavated to construct the basement of The Amery. This excavation caused the soil around the Property to shift. The result was that the Property began to tilt towards the excavation site. 
 
-3       In March 2014, the appellants sued the respondent for damage to the Property in the torts of private nuisance and negligence. Interlocutory judgment was entered in favour of the appellants. The trial below centred on the assessment of damages. To be specific, it centred on the question of whether damages should cover the cost of reinstating the Property using micro-pile underpinning ( _ie_ , lifting up the Property’s foundations and setting it upright, so as to remove the tilt) or aesthetic renovations (to remove the sense or appearance that the Property is tilting). There is a significant difference in the cost of the two methods. The trial judge (“the Judge”) awarded damages for the cost of aesthetic renovations. His grounds for doing so may be found at _Ng Siok Poh (administratrix of the estate of Lim Lian Chiat, deceased) and another v Sim Lian-Koru Bena JV Pte Ltd_ [2017] SGHC 231 (“GD”). In this appeal, the appellants primarily contend that damages ought to have been assessed based on the micro-pile underpinning method instead. 
+3       In March 2014, the appellants sued the respondent for damage to the Property in the torts of private nuisance and negligence. Interlocutory judgment was entered in favour of the appellants. The trial below centred on the assessment of damages. To be specific, it centred on the question of whether damages should cover the cost of reinstating the Property using micro-pile underpinning ( _ie_ , lifting up the Property’s foundations and setting it upright, so as to remove the tilt) or aesthetic renovations (to remove the sense or appearance that the Property is tilting). There is a significant difference in the cost of the two methods. The trial judge (“the Judge”) awarded damages for the cost of aesthetic renovations. His grounds for doing so may be found at _Ng Siok Poh (administratrix of the estate of Lim Lian Chiat, deceased) and another v Sim Lian-Koru Bena JV Pte Ltd_ <span class="citation">[2017] SGHC 231</span> (“GD”). In this appeal, the appellants primarily contend that damages ought to have been assessed based on the micro-pile underpinning method instead. 
 
 **Background facts** 
 

@@ -26,7 +26,7 @@ _Criminal Procedure and Sentencing_ – _Disposal of Property_
 
 2       The reference originates from an application for revision in Criminal Revision No 13 of 2013 (“CR 13”) brought by the Applicant to quash an order made by District Judge Sarah Tan (“DJ Tan”) on 20 
 
-May 2013 (“the 20 May 2013 Order”). [note: 1] CR 13 was heard by Choo Han Teck J (“the Judge”), who gave judgment on 27 September 2013, declining to exercise his revisionary jurisdiction in _Mustafa Ahunbay v Public Prosecutor_ [2013] 4 SLR 1049 (“the Judgment”). 
+May 2013 (“the 20 May 2013 Order”). [note: 1] CR 13 was heard by Choo Han Teck J (“the Judge”), who gave judgment on 27 September 2013, declining to exercise his revisionary jurisdiction in _Mustafa Ahunbay v Public Prosecutor_ <span class="citation">[2013] 4 SLR 1049</span> (“the Judgment”). 
 
 **_The statutory framework of s 370_** 
 
@@ -51,7 +51,7 @@ whichever is earlier.
 
 8       Sections 371 and 372 of the CPC set out further procedures as to how such property is to be delivered where the person entitled to possession of the property is known, or how the property should be dealt with where the person so entitled is not known. 
 
-9       We should also point out that s 370 does not operate where any inquiry or trial under the CPC has commenced as the relevant provision for disposal of property under those circumstances is s 364 instead. Section 370 is operative only at the stage of investigations, and no further action is taken by the police to commence an inquiry or a trial (see the case of _Sim Cheng Ho and another v Lee Eng Soon_ [1997] 3 SLR(R) 190 (“ _Sim Cheng Ho_ ”) analysing the old s 392 (see [11]–[13] below)). 
+9       We should also point out that s 370 does not operate where any inquiry or trial under the CPC has commenced as the relevant provision for disposal of property under those circumstances is s 364 instead. Section 370 is operative only at the stage of investigations, and no further action is taken by the police to commence an inquiry or a trial (see the case of _Sim Cheng Ho and another v Lee Eng Soon_ <span class="citation">[1997] 3 SLR(R) 190</span> (“ _Sim Cheng Ho_ ”) analysing the old s 392 (see [11]–[13] below)). 
 
 **The evolution of s 370 of the CPC** 
 
@@ -95,7 +95,7 @@ whichever is earlier.
  (a) The procedure for reporting was modified to include a more certain timeline. Under the old s 392, the time for the police to report the seizure to the Magistrate’s Court was to be 
 
 
- “forthwith”. This was interpreted to mean that the report should be made “as soon as practicable, as the circumstances permit” (see Ung Yoke Hooi v Attorney-General [2009] 3 SLR(R) 307 (“ Ung Yoke Hooi ”) at [22]). There was, however, no clear guidance on the timelines for making the report, and this “invariably engendered confusion and uncertainty” (see The Criminal Procedure Code of Singapore: Annotations and Commentary (Jennifer Marie & Mohamed Faizal Mohamed Abdul Kadir gen eds) (Academy Publishing, 2012) (“ Marie & Faizal ”) at para 19.031). 
+ “forthwith”. This was interpreted to mean that the report should be made “as soon as practicable, as the circumstances permit” (see Ung Yoke Hooi v Attorney-General <span class="citation">[2009] 3 SLR(R) 307</span> (“ Ung Yoke Hooi ”) at [22]). There was, however, no clear guidance on the timelines for making the report, and this “invariably engendered confusion and uncertainty” (see The Criminal Procedure Code of Singapore: Annotations and Commentary (Jennifer Marie & Mohamed Faizal Mohamed Abdul Kadir gen eds) (Academy Publishing, 2012) (“ Marie & Faizal ”) at para 19.031). 
 
  (b) A new restriction on the powers of the Magistrate to dispose of property was introduced. Under the old s 392, there was no equivalent requirement for the Magistrate’s Court to make a determination on the relevance of seized property to any investigation etc , like that under s 370(3) of the CPC. The Magistrate’s Court was simply under a duty to dispose of the seized property upon receiving the report. This was the basis for commentators suggesting that the rationale of s 392 was to “inquire into the ownership of the property seized by the police and to deliver it to the person entitled to possession of it, instead of to the person from whom it was taken” (see Butterworths’ Annotated Statutes of Singapore vol 3 (Butterworths Asia, 1997 Issue) at p 447). 
 
@@ -171,7 +171,7 @@ the 20 May 2013 Order. [note: 12]
 
 **_The decision below in CR 13_** 
 
-25     The Applicant accordingly filed CR 13 to set aside the 20 May 2013 Order on the ground that there was something palpably wrong in the decision which thus undermined the exercise of judicial power (see _Yunani bin Abdul Hamid v Public Prosecutor_ [2008] 3 SLR(R) 383 and _Ang Poh Chuan v Public Prosecutor_ [1995] 3 SLR(R) 929), with the Prosecution: 
+25     The Applicant accordingly filed CR 13 to set aside the 20 May 2013 Order on the ground that there was something palpably wrong in the decision which thus undermined the exercise of judicial power (see _Yunani bin Abdul Hamid v Public Prosecutor_ <span class="citation">[2008] 3 SLR(R) 383</span> and _Ang Poh Chuan v Public Prosecutor_ <span class="citation">[1995] 3 SLR(R) 929</span>), with the Prosecution: 
 
  (a) making the application before DJ Tan when the matter had been fixed for hearing before DJ Joseph a mere two days after; 
 
@@ -307,7 +307,7 @@ _Do the dicta in Ung Yoke Hooi suggest that there should be no right to be heard
 
 50     The Prosecution had also relied on _Marie & Faizal_ (at para 19.032), which interprets the _dicta_ in _Ung Yoke Hooi_ as follows: 
 
- In relation to the seizure of funds in bank accounts, the Court of Appeal in Ung Yoke Hooi v Attorney-General [2009] 3 SLR(R) 307 had commented that although section 392 of the old CPC did not require the police to inform the account holder of the seizure, this ought to be done as a matter of good governance in order to avoid causing embarrassment to the account holder. Further, once the seizures were reported under section 392(1) of the old CPC, there was, again, no reason why the account holder could not have been informed of the same as soon as practicable. Whilst the same reasoning may apply to section 370 of the Code as well, as it would be good practice generally for the police to notify the account holder when an order has been made for the freezing of a bank account under section 35, as well as when the freezing of the account is reported to a Magistrate’s Court, this may not be appropriate in every case, particularly where doing so might tip off the accused or jeopardise the ongoing investigations. In such circumstances, a persuasive argument can be made that the notification process can , and indeed, should be delayed. 
+ In relation to the seizure of funds in bank accounts, the Court of Appeal in Ung Yoke Hooi v Attorney-General <span class="citation">[2009] 3 SLR(R) 307</span> had commented that although section 392 of the old CPC did not require the police to inform the account holder of the seizure, this ought to be done as a matter of good governance in order to avoid causing embarrassment to the account holder. Further, once the seizures were reported under section 392(1) of the old CPC, there was, again, no reason why the account holder could not have been informed of the same as soon as practicable. Whilst the same reasoning may apply to section 370 of the Code as well, as it would be good practice generally for the police to notify the account holder when an order has been made for the freezing of a bank account under section 35, as well as when the freezing of the account is reported to a Magistrate’s Court, this may not be appropriate in every case, particularly where doing so might tip off the accused or jeopardise the ongoing investigations. In such circumstances, a persuasive argument can be made that the notification process can , and indeed, should be delayed. 
 
  [emphasis in original] 
 
@@ -353,7 +353,7 @@ Essentially, the Applicant’s submission is that a _prima facie_ standard does 
 
 63     The Prosecution submits that the standard of reason to believe falls somewhere in between mere suspicion and that of conclusive proof. Elaborating further, this standard requires the court to look into the circumstances of the case to see if any reasonable man could see sufficient cause to believe or whether there are good and cogent reasons which supports the belief, to ensure that the information laid before the court is credible, and to assess critically the case made by a claimant and his motivations as well. In particular, the Prosecution submits that the need to assess the motivations of the claimant is important because this will allow the Magistrate’s Court to sieve out, at an early stage, _mala fide_ claims so as to prevent people from fishing for information on the pretext of having an interest in the seized property. 
 
-64     However, the parties are in agreement that the proof of interest in the seized property need not be conclusive proof. We agree that this must be the case, since it would be difficult for the Magistrate’s Court to determine conclusively any person’s interest in the seized property at such an early stage (see also the cases of _Sim Cheng Ho_ , _Thai Chong Pawnshop Pte Ltd and others v Vankrisappan s/o Gopanaidu and others_ [1994] 2 SLR(R) 113, and _Sohoni’s_ at p 5833, which explain that even an order for disposal of seized property is not conclusive as to who has title over the property). 
+64     However, the parties are in agreement that the proof of interest in the seized property need not be conclusive proof. We agree that this must be the case, since it would be difficult for the Magistrate’s Court to determine conclusively any person’s interest in the seized property at such an early stage (see also the cases of _Sim Cheng Ho_ , _Thai Chong Pawnshop Pte Ltd and others v Vankrisappan s/o Gopanaidu and others_ <span class="citation">[1994] 2 SLR(R) 113</span>, and _Sohoni’s_ at p 5833, which explain that even an order for disposal of seized property is not conclusive as to who has title over the property). 
 
 65     The parties also do not suggest that the standard lies on the opposite end of the spectrum 
 
@@ -416,7 +416,7 @@ _The right to further information concerning the seized property_
 
  While the courts have jealously protected an individual’s right to notice, they have on occasion interpreted it in a limited manner. In the Gaming Board case the Court of Appeal held that applicants for a gaming licence should have the opportunity to respond to the negative views formed by the Gaming Board. The Board did not however have to quote “chapter and verse”, nor did it have to disclose the source of its information if it would be contrary to the public interest, nor did the reasons for the refusal have to be given. In Breen a majority of the Court of Appeal held that a disciplinary committee of a trade union did not have to tell a shop steward why they had refused to endorse his election. In McInnes it was held that the council of the Boxing Board of Control did not have to give an applicant for a manager’s licence an outline of its objections to him. The test adopted in both cases was that the decision-maker should not capriciously withhold approval. 
 
-80     There is therefore a need to balance between two competing considerations, _viz_ , the right of an interested person to be informed of the case he has to meet, and the public interest in maintaining the integrity and confidentiality of police investigations. Such balancing of competing considerations by the courts is not uncommon (see _Conway v Rimmer and another_ [1968] 1 AC 910 and _Public Prosecutor v Goldring Timothy Nicholas and others_ [2014] 1 SLR 586). 
+80     There is therefore a need to balance between two competing considerations, _viz_ , the right of an interested person to be informed of the case he has to meet, and the public interest in maintaining the integrity and confidentiality of police investigations. Such balancing of competing considerations by the courts is not uncommon (see _Conway v Rimmer and another_ [1968] 1 AC 910 and _Public Prosecutor v Goldring Timothy Nicholas and others_ <span class="citation">[2014] 1 SLR 586</span>). 
 
 **_How should the right to further information be balanced with the need to ensure that police investigations are not prejudiced?_** 
 

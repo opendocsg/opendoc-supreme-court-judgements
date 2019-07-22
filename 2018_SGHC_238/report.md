@@ -208,7 +208,7 @@ The Appellant’s opposition failed on all grounds.
 
  there exists a likelihood of confusion on the part of the public. 
 
-11     With respect to the Appellant’s opposition under s 8(2)( _b_ ) of the TMA, the PAR adopted the “step-by-step approach” (PAR’s GD at [14]) which was re-affirmed by the Court of Appeal in _Staywell Hospitality Group Pty Ltd v Starwood Hotels & Resorts Worldwide, Inc and another and another appeal_ [2014] 1 SLR 911 (“ _Staywell_ ”) at [15]: 
+11     With respect to the Appellant’s opposition under s 8(2)( _b_ ) of the TMA, the PAR adopted the “step-by-step approach” (PAR’s GD at [14]) which was re-affirmed by the Court of Appeal in _Staywell Hospitality Group Pty Ltd v Starwood Hotels & Resorts Worldwide, Inc and another and another appeal_ <span class="citation">[2014] 1 SLR 911</span> (“ _Staywell_ ”) at [15]: 
 
  ... Under the step-by-step approach, the three requirements of similarity of marks, similarity of goods or services, and likelihood of confusion arising from the two similarities, are assessed 
 
@@ -303,7 +303,7 @@ to the Appellant’s registered goods _ie_ , nutritional supplements and beverag
 
 lower end of the spectrum of distinctiveness” given its “allusive quality”. [note: 8] On the point of visual similarity, the Appellant states that the Appellant’s Earlier Monster Mark is wholly subsumed within the Application Mark, and the additional word “SWEET” is merely a word used to describe the Respondent’s goods and is therefore insufficient to distinguish the marks. The focus of the consumer will be on the dominant element “MONSTER” given that the average consumer is unlikely to attach 
 
-much significance to a mere descriptive element of the mark. [note: 9] The Appellant analogises this to the Court of Appeal case of _Ceramiche Caesar SpA v Caesarstone Sdot-Yam Ltd_ [2017] 2 SLR 308 
+much significance to a mere descriptive element of the mark. [note: 9] The Appellant analogises this to the Court of Appeal case of _Ceramiche Caesar SpA v Caesarstone Sdot-Yam Ltd_ <span class="citation">[2017] 2 SLR 308</span> 
 
 
 (“ _Ceramiche Caesar_ ”) which involved a comparison of the stylized marks and 
@@ -450,7 +450,7 @@ _The first element: similarity between the “SWEET MONSTER” and “MONSTER”
 
  3 A congenitally malformed or mutant animal or plant. 
 
-Therefore, the Appellant’s Earlier Monster Marks would not be inherently distinctive. However, even though a word or phrase may not be newly coined, a mark may still have high technical distinctiveness if the meaning of that word has little bearing on the product to which it is to be applied: _Han’s (F & B) Pte Ltd v Gusttimo World Pte Ltd_ [2015] 2 SLR 825 at [61]. 
+Therefore, the Appellant’s Earlier Monster Marks would not be inherently distinctive. However, even though a word or phrase may not be newly coined, a mark may still have high technical distinctiveness if the meaning of that word has little bearing on the product to which it is to be applied: _Han’s (F & B) Pte Ltd v Gusttimo World Pte Ltd_ <span class="citation">[2015] 2 SLR 825</span> at [61]. 
 
 49     This brings me to my second reason, which is that the word “monster” has an allusive and laudatory meaning in relation to the Appellant’s goods _ie_ , energy drinks and caffeinated beverages. The word “monster” when used in relation to the Appellant’s energy-boosting beverages suggests that upon consuming these beverages, a consumer would gain a great level of energy and strength, much like a large and ferocious monster. Therefore, it cannot be said that the word “monster” has no bearing on the Appellant’s products, given that it is laudatory as to the effectiveness of the beverage in achieving its intended purpose of providing an energy boost to the consumer. 
 
@@ -465,13 +465,13 @@ the Appellant’s Earlier Monster Marks have gained distinctiveness. [note: 29] 
 
 (2) Visual similarity 
 
-53     At the outset, I must emphasise that when assessing the _visual_ similarity of two competing marks, the court should consider the relative _appearance_ of the marks. This would typically involve looking at the physical attributes and features of the marks, such as (a) the length of the marks; (b) the structure of the marks ( _ie_ , whether there are the same number of words); and (c) whether the same letters are used in the marks: _Ozone Community Corp v Advance Magazine Publishers Inc_ [2010] 2 SLR 459 (“ _Ozone Community_ ”) at [49], citing with approval Lionel Bently and Brad Sherman, _Intellectual Property Law_ (Oxford University Press, 3rd Ed, 2009) at p 865. 
+53     At the outset, I must emphasise that when assessing the _visual_ similarity of two competing marks, the court should consider the relative _appearance_ of the marks. This would typically involve looking at the physical attributes and features of the marks, such as (a) the length of the marks; (b) the structure of the marks ( _ie_ , whether there are the same number of words); and (c) whether the same letters are used in the marks: _Ozone Community Corp v Advance Magazine Publishers Inc_ <span class="citation">[2010] 2 SLR 459</span> (“ _Ozone Community_ ”) at [49], citing with approval Lionel Bently and Brad Sherman, _Intellectual Property Law_ (Oxford University Press, 3rd Ed, 2009) at p 865. 
 
-54     Turning now to my assessment of the visual similarity of the marks, I am of the view that the Application Mark and the Appellant’s Earlier Monster Marks are visually dissimilar. This is notwithstanding that the marks have a common denominator _ie_ , the word “MONSTER”. In _The Polo/Lauren Co, LP v Shop In Department Store Pte Ltd_ [2005] 4 SLR(R) 816, Lai Kew Chai J stated at [26]: 
+54     Turning now to my assessment of the visual similarity of the marks, I am of the view that the Application Mark and the Appellant’s Earlier Monster Marks are visually dissimilar. This is notwithstanding that the marks have a common denominator _ie_ , the word “MONSTER”. In _The Polo/Lauren Co, LP v Shop In Department Store Pte Ltd_ <span class="citation">[2005] 4 SLR(R) 816</span>, Lai Kew Chai J stated at [26]: 
 
  In cases where there is a common denominator, it is important to look at the differences between the mark and the sign in order to decide whether the challenged sign has been able to distinguish itself sufficiently and substantially... 
 
-This principle was subsequently cited with approval by the Court of Appeal in _Ceramiche Caesar_ ([26] _supra_ ) at [32]. Further, the Court of Appeal in _McDonald’s Corp v Future Enterprises_ Pte Ltd [2005] 1 SLR(R) 177 (“ _Future Enterprises_ ”) stated at [28]: 
+This principle was subsequently cited with approval by the Court of Appeal in _Ceramiche Caesar_ ([26] _supra_ ) at [32]. Further, the Court of Appeal in _McDonald’s Corp v Future Enterprises_ Pte Ltd <span class="citation">[2005] 1 SLR(R) 177</span> (“ _Future Enterprises_ ”) stated at [28]: 
 
  A mark may very well consist of some common word(s) or device but it does not necessarily follow that it is thereby incapable of being distinctive or will be confused with an existing mark with the same word or words. One must look at the mark as a whole. 
 
@@ -486,7 +486,7 @@ This principle was subsequently cited with approval by the Court of Appeal in _C
 
 57     The Appellant argues that the focus of a consumer when viewing the Application Mark will be placed on the dominant element “MONSTER”, given that an average consumer is unlikely to attach 
 
-any significance to the descriptive element of the mark _ie_ , the word “SWEET”. [note: 30] It relies on _Hai Tong Co (Pte) Ltd v Ventree Singapore Pte Ltd and another and another appeal_ [2013] 2 SLR 941 in which the Court of Appeal stated that at [62]: 
+any significance to the descriptive element of the mark _ie_ , the word “SWEET”. [note: 30] It relies on _Hai Tong Co (Pte) Ltd v Ventree Singapore Pte Ltd and another and another appeal_ <span class="citation">[2013] 2 SLR 941</span> in which the Court of Appeal stated that at [62]: 
 
  (b) The visual similarity of two contesting marks or signs must normally be assessed by reference to the overall impressions created by the marks or signs, bearing in mind their distinctive and dominant components. When the other components of a complex mark or sign are of negligible significance, it is permissible to make the comparison solely on the basis of any dominant element(s). [emphasis added] 
 
@@ -534,7 +534,7 @@ similar, notwithstanding that both marks were stylised and contained different d
 
 _Second element: similarity between the Appellant’s and Respondent’s registered goods_ 
 
-68     In _Johnson & Johnson v Uni-Charm Kabushiki Kaisha (Uni-Charm Corp)_ [2007] 1 SLR(R) 1082 at [14], Tan Lee Meng J set out a list of factors relevant for the assessment of the similarity of goods and services, citing with approval _British Sugar Plc v James Robertson & Sons Ltd_ [1996] RPC 281: 
+68     In _Johnson & Johnson v Uni-Charm Kabushiki Kaisha (Uni-Charm Corp)_ <span class="citation">[2007] 1 SLR(R) 1082</span> at [14], Tan Lee Meng J set out a list of factors relevant for the assessment of the similarity of goods and services, citing with approval _British Sugar Plc v James Robertson & Sons Ltd_ [1996] RPC 281: 
 
  (a) the nature of the goods or services; 
 
@@ -629,7 +629,7 @@ the Appellant’s Earlier Monster and Claw Device Marks as well as the Appellant
 
  (d) the connection is likely to damage the interests of the proprietor. 
 
-83     The Court of Appeal in _Sarika Connoisseur Cafe Pte Ltd v Ferrero SpA_ [2013] 1 SLR 531 held at [70] and [71] that the phrase “whole or an essential part of the trade mark” does not alter the inquiry for the similarity of marks. Therefore, the requirement of similarity under s 8(4)( _b_ ) of the TMA is essentially the same as that in s 8(2)( _b_ ). Given that I have already found at [66] above that the marks are dissimilar, the first element is accordingly not made out. Applying the “step-by-step” approach, this necessarily means that the ground of opposition under s 8(4)( _b_ )(i) of the TMA fails 
+83     The Court of Appeal in _Sarika Connoisseur Cafe Pte Ltd v Ferrero SpA_ <span class="citation">[2013] 1 SLR 531</span> held at [70] and [71] that the phrase “whole or an essential part of the trade mark” does not alter the inquiry for the similarity of marks. Therefore, the requirement of similarity under s 8(4)( _b_ ) of the TMA is essentially the same as that in s 8(2)( _b_ ). Given that I have already found at [66] above that the marks are dissimilar, the first element is accordingly not made out. Applying the “step-by-step” approach, this necessarily means that the ground of opposition under s 8(4)( _b_ )(i) of the TMA fails 
 
 
 right at the outset. 
@@ -673,7 +673,7 @@ right at the outset.
 
 88     It is apparent that the similarity of the marks is yet again a threshold requirement to be satisfied in order for this ground of opposition to be made out. As I have found above at [66], the marks are dissimilar and accordingly the first element cannot be made out. 
 
-89     With regard to the second element which requires the mark to be “well known to the _public at large_ in Singapore”, the test to be satisfied is of a higher threshold than that for “well known in Singapore” (see [82] and [84] above). This follows from _City Chain Stores (S) Pte Ltd v Louis Vuitton Malletier_ [2010] 1 SLR 382, where the Court of Appeal stated at [94] that “the test ‘well known to the public at large in Singapore’ must mean more than just ‘well known in Singapore’. To come within the former test, the mark must necessarily enjoy a much higher degree of recognition.” Similarly, in _Novelty Pte Ltd v Amanresorts Ltd and another_ [2009] 3 SLR(R) 216, the Court of Appeal stated that at [233]: 
+89     With regard to the second element which requires the mark to be “well known to the _public at large_ in Singapore”, the test to be satisfied is of a higher threshold than that for “well known in Singapore” (see [82] and [84] above). This follows from _City Chain Stores (S) Pte Ltd v Louis Vuitton Malletier_ <span class="citation">[2010] 1 SLR 382</span>, where the Court of Appeal stated at [94] that “the test ‘well known to the public at large in Singapore’ must mean more than just ‘well known in Singapore’. To come within the former test, the mark must necessarily enjoy a much higher degree of recognition.” Similarly, in _Novelty Pte Ltd v Amanresorts Ltd and another_ <span class="citation">[2009] 3 SLR(R) 216</span>, the Court of Appeal stated that at [233]: 
 
  A ... much more extensive level of protection is granted to trade marks which have attained the coveted status of being “well known to the public at large in Singapore”. These trade marks, which form a rare and exclusive class , are entitled to protection from use of the defendant’s trade mark on dissimilar goods or services even in the absence of a likelihood of confusion... [emphasis added] 
 
@@ -681,7 +681,7 @@ right at the outset.
 
 **_The Appellant’s opposition under s 8(7)(a) of the TMA_** 
 
-91     In relation to this ground of opposition, there are three elements to be established which correspond to the elements for the tort of passing off ( _The Audience Motivation Company Asia Pte Ltd v AMC Live Group China (S) Pte Ltd_ [2016] 3 SLR 517 (“ _AMC_ ”) at [80]), namely: 
+91     In relation to this ground of opposition, there are three elements to be established which correspond to the elements for the tort of passing off ( _The Audience Motivation Company Asia Pte Ltd v AMC Live Group China (S) Pte Ltd_ <span class="citation">[2016] 3 SLR 517</span> (“ _AMC_ ”) at [80]), namely: 
 
  (a) goodwill; 
 
@@ -689,11 +689,11 @@ right at the outset.
 
  (c) damage. 
 
-Section 8(7)( _a_ ) of the TMA requires an opponent to adduce sufficient evidence to establish, at the very least, a _prima facie_ case on the aforestated three elements: _Rovio Entertainment Ltd v Kimanis Food Industries Sdn Bhd_ [2015] 5 SLR 618 at [164]. 
+Section 8(7)( _a_ ) of the TMA requires an opponent to adduce sufficient evidence to establish, at the very least, a _prima facie_ case on the aforestated three elements: _Rovio Entertainment Ltd v Kimanis Food Industries Sdn Bhd_ <span class="citation">[2015] 5 SLR 618</span> at [164]. 
 
 _Goodwill_ 
 
-92     In relation to the element of goodwill, the court’s concern is whether there exists any attractive force in the plaintiff’s (or in the present case, the Appellant’s) business that brings in custom: _AMC_ ([91] _supra_ ) at [81]; _Staywell_ ([11] _supra_ ) at [131]. Goodwill, in the context of passing off, is concerned with goodwill in the business as a whole, and not specifically in its constituent elements, such as the mark, logo or get-up that it uses: _Singsung Pte Ltd v LG 26 Electronics Pte Ltd (trading as L S Electrical Trading)_ [2016] 4 SLR 86 (“ _Singsung_ ”) at [34]. Evidence of the sales and 
+92     In relation to the element of goodwill, the court’s concern is whether there exists any attractive force in the plaintiff’s (or in the present case, the Appellant’s) business that brings in custom: _AMC_ ([91] _supra_ ) at [81]; _Staywell_ ([11] _supra_ ) at [131]. Goodwill, in the context of passing off, is concerned with goodwill in the business as a whole, and not specifically in its constituent elements, such as the mark, logo or get-up that it uses: _Singsung Pte Ltd v LG 26 Electronics Pte Ltd (trading as L S Electrical Trading)_ <span class="citation">[2016] 4 SLR 86</span> (“ _Singsung_ ”) at [34]. Evidence of the sales and 
 
 
 income generated by the business are regarded as a proxy for the attractive force of the business: _Singsung_ at [58]; _Staywell_ ([11] _supra_ ) at [141]. Goodwill may also be proved by evidence of expenses incurred in promoting the goods and services in association with the mark, brand or get-up which they bear: _Singsung_ at [34]. 

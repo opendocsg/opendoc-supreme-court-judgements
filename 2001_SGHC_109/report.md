@@ -142,7 +142,7 @@ _O 14 r 12(1) of the Rules of Court_
 
 ### any claim or issue therein. 
 
-7\. As for w hether a plaintiff in a defamation case may rely on O 14 r 12(1) to have the ordinary meaning of w ords in an allegedly defamatory document construed, the position is not in doubt. In _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ [1999] 4 SLR 529, 554-555 w hich concerned an allegation of defamation arising from a press statement, LP Thean JA, w ho delivered the judgment of the Court of Appeal, said as follow s: 
+7\. As for w hether a plaintiff in a defamation case may rely on O 14 r 12(1) to have the ordinary meaning of w ords in an allegedly defamatory document construed, the position is not in doubt. In _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ <span class="citation">[1999] 4 SLR 529</span>, 554-555 w hich concerned an allegation of defamation arising from a press statement, LP Thean JA, w ho delivered the judgment of the Court of Appeal, said as follow s: 
 
  As for the argument that the meaning of the w ords complained of is not ‘suitable for determination’ w ithout a full trial of the action because such determination requires the hearing of evidence, w e find that such an argument is completely misplaced.... There are obvious advantages in determining the issue of the meaning before trial, as the learned judge held at para 27.8 of his grounds of judgment: 
 
@@ -155,7 +155,7 @@ In our judgment, in this case, the natural and ordinary meaning of the alleged d
 
 made the application for a construction of the allegedly defamatory w ords in the letter before the trial inappropriate. He also submitted that if the letter is construed, it w ill be found that it is not defamatory of the plaintiffs. 
 
-9\. At the outset, it ought to be noted that Mr Fam, Mr Tan and Mr Maclean, unlike F & N, w ere not specifically referred to in the letter. I thus ruled that w hether or not there is a sufficient nexus betw een Mr Fam, Mr Tan and Mr Maclean and the allegedly defamatory w ords in the letter is a question w hich should be determined at the trial. This is because extrinsic evidence w ould be required to show w hy they w ere also defamed in the letter and it is clear from the decision of the Court of Appeal in _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ [1999] 4 SLR 529, 555 that such evidence is not admissible in an application under O 14 r 12(1). How ever, in the case of F & N, I saw no reason w hy there could not be a determination of the natural and ordinary meaning of the allegedly defamatory w ords in the letter. 
+9\. At the outset, it ought to be noted that Mr Fam, Mr Tan and Mr Maclean, unlike F & N, w ere not specifically referred to in the letter. I thus ruled that w hether or not there is a sufficient nexus betw een Mr Fam, Mr Tan and Mr Maclean and the allegedly defamatory w ords in the letter is a question w hich should be determined at the trial. This is because extrinsic evidence w ould be required to show w hy they w ere also defamed in the letter and it is clear from the decision of the Court of Appeal in _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ <span class="citation">[1999] 4 SLR 529</span>, 555 that such evidence is not admissible in an application under O 14 r 12(1). How ever, in the case of F & N, I saw no reason w hy there could not be a determination of the natural and ordinary meaning of the allegedly defamatory w ords in the letter. 
 
 _Principles for construing allegedly defamatory words_ 
 
@@ -163,7 +163,7 @@ _Principles for construing allegedly defamatory words_
 
  What the ordinary man w ould infer w ithout special know ledge has generally been called the natural and ordinary meaning of the w ords. But that expression is rather misleading in that it conceals the fact that there are tw o elements in it. Sometimes it is not necessary to go beyond the w ords themselves, as w here the plaintiff has been called a thief or a murderer. But more often the sting is not so much in the w ords themselves as in w hat the ordinary man w ill infer from them, and that is also regarded as part of their natural and ordinary meaning. 
 
-11\. The above passage w as endorsed by the Court of Appeal in _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ [1999] 4 SLR 529, 556. 
+11\. The above passage w as endorsed by the Court of Appeal in _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ <span class="citation">[1999] 4 SLR 529</span>, 556. 
 
 12\. The principles for determining the natural and ordinary meaning of w ords are w ell know n. In _Microsoft Corporation & Ors v SM Summit Holdings Ltd & Anor_ , LP Thean JA summed up the position at p 555 as follow s: 
 

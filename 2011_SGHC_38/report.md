@@ -107,13 +107,13 @@ clients’ view on the matter. On 15 March 2010, the AGC reiterated its position
 
  and may order the action to be stayed or dismissed or judgment to be entered accordingly, as the case may be. 
 
-20     The court’s power to strike out an action is a draconian one. As such, it should not be exercised unless a plaintiff’s case is wholly devoid of merit. In _Gabriel Peter & Partners v Wee Chong Jin_ [1997] 3 SLR(R) 649, the Court of Appeal explained at [18]: 
+20     The court’s power to strike out an action is a draconian one. As such, it should not be exercised unless a plaintiff’s case is wholly devoid of merit. In _Gabriel Peter & Partners v Wee Chong Jin_ <span class="citation">[1997] 3 SLR(R) 649</span>, the Court of Appeal explained at [18]: 
 
  In general, it is only in plain and obvious cases that the power of striking out should be invoked. ... It should not be exercised by a minute and protracted examination of the documents and facts of the case in order to see if the plaintiff really has a cause of action. The practice of the courts has been that, where an application for striking out involves a lengthy and serious argument, the court should decline to proceed with the argument unless, not only does it have doubts as to the soundness of the pleading but, in addition, it is satisfied that striking out will obviate the necessity for a trial or reduce the burden of preparing for a trial. 
 
  [emphasis added] 
 
-21     Obviously, a case that is hopelessly doomed to fail should be struck out. In _Bandung Shipping Pte Ltd v Keppel TatLee Bank Ltd_ [2003] 1 SLR(R) 295, where the Court of Appeal struck out a hopeless claim, Chao Hick Tin JA stated (at [34]) that to allow the case to go further for trial would be to compel the defendants to expend time and money in defending a case which obviously had not merit whatsoever. 
+21     Obviously, a case that is hopelessly doomed to fail should be struck out. In _Bandung Shipping Pte Ltd v Keppel TatLee Bank Ltd_ <span class="citation">[2003] 1 SLR(R) 295</span>, where the Court of Appeal struck out a hopeless claim, Chao Hick Tin JA stated (at [34]) that to allow the case to go further for trial would be to compel the defendants to expend time and money in defending a case which obviously had not merit whatsoever. 
 
 22     The plaintiffs’ application for a declaration must be viewed in the context of separation of powers under the Constitution of the Republic of Singapore (1985 Rev Ed, 1999 Reprint). In regard to judicial power, Art 93 of the Constitution provides: 
 
@@ -128,7 +128,7 @@ Furthermore, s 336(1) of the Criminal Procedure Code (Cap 68, 1985 Rev Ed) provi
 
  The Attorney-General shall be the Public Prosecutor and shall have the control and direction of criminal prosecutions and proceedings under this Code. 
 
-24     When considering the effect of Art 93 and Art 35(8) of the Constitution in _Law Society of Singapore v Tan Guat Neo Phyllis_ [2008] 2 SLR(R) 239, Chan Sek Keong CJ (“Chan CJ”) explained at [144] that these two provisions “expressly separate the prosecutorial function from the judicial function, and give equal status to both functions”. He added at [145]: 
+24     When considering the effect of Art 93 and Art 35(8) of the Constitution in _Law Society of Singapore v Tan Guat Neo Phyllis_ <span class="citation">[2008] 2 SLR(R) 239</span>, Chan Sek Keong CJ (“Chan CJ”) explained at [144] that these two provisions “expressly separate the prosecutorial function from the judicial function, and give equal status to both functions”. He added at [145]: 
 
  In relation to public prosecutions, Art 35(8) makes it clear that the institution, conduct or discontinuance of any criminal proceedings is a matter for only the Attorney-General to decide. This means that except for unconstitutionality, the Attorney-General has an unfettered discretion as to when and how he exercises his prosecutorial powers. 
 

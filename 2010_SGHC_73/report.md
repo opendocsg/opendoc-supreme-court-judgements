@@ -338,7 +338,7 @@ It is not disputed that the plaintiff did not breach terms (a), (b) and (c) of t
 
 the plaintiff had committed a repudiatory breach of the Redundancy Agreement, and it is this question that I now turn my attention to. I should add that this issue was addressed by both counsel during their closing submissions before me. 
 
-47     The law relating to repudiatory breach was succinctly set out in the seminal decision of the Court of Appeal in _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and another appeal_ [2007] 4 SLR(R) 413 (“ _RDC Concrete Pte Ltd_ ”). The Court of Appeal held at [113] that the right of termination accrues to the innocent party in the following situations: 
+47     The law relating to repudiatory breach was succinctly set out in the seminal decision of the Court of Appeal in _RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and another appeal_ <span class="citation">[2007] 4 SLR(R) 413</span> (“ _RDC Concrete Pte Ltd_ ”). The Court of Appeal held at [113] that the right of termination accrues to the innocent party in the following situations: 
 
  (a) When there is an express reference to the right to terminate under the contract. (Situation 1) 
 
@@ -350,7 +350,7 @@ the plaintiff had committed a repudiatory breach of the Redundancy Agreement, an
 
  (iii) if the obligation is not a condition, the innocent party will be entitled to terminate if the breach has deprived the innocent party of substantially the whole benefit of the contract. (Situation 3(b)) 
 
- These principles were revisited and reaffirmed by the recent decision of the Court of Appeal in Sports Connection Pte Ltd v Deuter Sports GmbH [2009] 3 SLR(R) 883. 
+ These principles were revisited and reaffirmed by the recent decision of the Court of Appeal in Sports Connection Pte Ltd v Deuter Sports GmbH <span class="citation">[2009] 3 SLR(R) 883</span>. 
 
 48     The defendant recognised that, to succeed in its defence, it was essential to establish that the plaintiff’s conduct in forwarding the two emails amounted to a repudiatory breach of the Redundancy Agreement. However, the defendant adopted an interesting route in its attempt to establish this point. It first sought to establish that the forwarding of the two emails constituted a breach of the plaintiff’s confidentiality obligation. Secondly, the defendant submitted that such a breach constituted gross misconduct which was itself a repudiatory breach of the employment contract, thereby justifying the summary dismissal. On the strength of this argument, the defendant submitted that “by the same token” the plaintiff’s conduct also constituted a repudiatory breach of the Redundancy Agreement. 
 
@@ -406,7 +406,7 @@ The only term which the plaintiff breached was the confidentiality obligation. H
 
  In the second situation (Situation 3(a)), the focus is on the nature of the term breached and, in particular, whether the intention of the parties to the contract was to designate that term as one that is so important that any breach, regardless of the actual consequences of such a breach, would entitle the innocent party to terminate the contract (this is, however, not to say that the consequences of breach are irrelevant inasmuch as the parties have, ex hypothesi , envisaged, in advance, and hypothetically, serious consequences that could ensue in the event of the breach of that particular term). In traditional legal terminology, such a term would be termed a “ condition ”. 
 
-57     In _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ [2008] 1 SLR(R) 663, the Court of Appeal helpfully identified a few non-exhaustive factors to assist in ascertaining whether a contractual term is to be treated as a condition: 
+57     In _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ <span class="citation">[2008] 1 SLR(R) 663</span>, the Court of Appeal helpfully identified a few non-exhaustive factors to assist in ascertaining whether a contractual term is to be treated as a condition: 
 
  whether it is statutorily classified as a condition; 
 

@@ -110,7 +110,7 @@ argued that there was more than sufficient evidence to prove that the deceased w
 
 **The decision of the court** 
 
-18     In _Lassiter Ann Masters v To Keng Lam_ [2004] 2 SLR 392 (“ _Lassiter_ ”), the Court of Appeal drew a distinction between the adduction of fresh evidence in an appeal against a registrar’s decision made on affidavit evidence alone (as in an interlocutory application) and in an appeal against a registrar’s decision made after hearing oral testimony (such as an assessment of damages). For the latter category, the Court of Appeal adopted a modified version of the well-known three conditions set out in _Ladd v Marshall_ [1954] 1 WLR 1489. In exercising the discretion whether or not to admit fresh evidence on appeal in a case in the latter category, the judge should bear in mind the following conditions: 
+18     In _Lassiter Ann Masters v To Keng Lam_ <span class="citation">[2004] 2 SLR 392</span> (“ _Lassiter_ ”), the Court of Appeal drew a distinction between the adduction of fresh evidence in an appeal against a registrar’s decision made on affidavit evidence alone (as in an interlocutory application) and in an appeal against a registrar’s decision made after hearing oral testimony (such as an assessment of damages). For the latter category, the Court of Appeal adopted a modified version of the well-known three conditions set out in _Ladd v Marshall_ [1954] 1 WLR 1489. In exercising the discretion whether or not to admit fresh evidence on appeal in a case in the latter category, the judge should bear in mind the following conditions: 
 
  (a) the party seeking to admit fresh evidence must show sufficiently strong reasons why that 
 

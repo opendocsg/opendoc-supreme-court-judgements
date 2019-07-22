@@ -55,11 +55,11 @@ With respect to custody, care and control, the Family Court made an interim orde
 
  (f) both the children from 10:15 am to 8:00 pm every Saturday. 
 
-5       The parties have not appealed against the interim order. It is undisputed that the husband and wife have agreed on joint custody with respect to the children. This is the correct approach as both parents should have a say in the upbringing of their children. Sole custody orders are made only in exceptional circumstances for example when there is an abuse of the child (see _CX v CY (minor: custody and access)_ [2005] 3 SLR(R) 690 at [25]–[29] and [36]–[38]). 
+5       The parties have not appealed against the interim order. It is undisputed that the husband and wife have agreed on joint custody with respect to the children. This is the correct approach as both parents should have a say in the upbringing of their children. Sole custody orders are made only in exceptional circumstances for example when there is an abuse of the child (see _CX v CY (minor: custody and access)_ <span class="citation">[2005] 3 SLR(R) 690</span> at [25]–[29] and [36]–[38]). 
 
 6       The husband wants to be given more access to his children. The wife wishes for the access arrangements under the interim order to subsist while the husband requests that overnight access be granted to him during the June and December school holidays. He also requests for a period of uninterrupted access to them during the abovementioned school holidays ranging from four days to a week. 
 
-7       I observe that the two children are still very young and that their interests had to be looked after in deciding the appropriate amount of access to be given to the husband. The Court of Appeal in _IW v IX_ [2006] 1 SLR 135 held at [26]: 
+7       I observe that the two children are still very young and that their interests had to be looked after in deciding the appropriate amount of access to be given to the husband. The Court of Appeal in _IW v IX_ <span class="citation">[2006] 1 SLR 135</span> held at [26]: 
 
  26 ... the paramount consideration in every case where custody is in issue is the welfare of the child. That is the immutable principle. The term ‘welfare’ should be taken in its widest sense and we do not think it is possible or desirable to define it. ... 
 
@@ -218,7 +218,7 @@ children are below ten years old and the wife should not overindulge them. I not
 
 **The division of the matrimonial assets** 
 
-30     In determining a just and equitable division of the matrimonial assets under s 112 (1) of the WC, the court has to consider the circumstances of the case and take into account _inter alia_ both the direct and indirect contributions of the spouses. It is trite law that the division should be done on a broad brush basis: _NI v NJ_ [2007] 1 SLR(R) 75 at [18]. 
+30     In determining a just and equitable division of the matrimonial assets under s 112 (1) of the WC, the court has to consider the circumstances of the case and take into account _inter alia_ both the direct and indirect contributions of the spouses. It is trite law that the division should be done on a broad brush basis: _NI v NJ_ <span class="citation">[2007] 1 SLR(R) 75</span> at [18]. 
 
 **_The insurance policies and bank accounts_** 
 

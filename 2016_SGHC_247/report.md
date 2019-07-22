@@ -223,7 +223,7 @@ _The purpose of the Act_
 
  The speedy and low cost adjudication process will expedite the resolution of genuine payment disputes so that cashflow will not be disrupted. It will identify contractors who are facing financial difficulties early, before they cause more problems downstream. 
 
-27     This same point was recognised by Court of Appeal in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ [2013] 3 SLR 380 when it observed (at [18]) that: 
+27     This same point was recognised by Court of Appeal in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ <span class="citation">[2013] 3 SLR 380</span> when it observed (at [18]) that: 
 
  ... It has often been said that cash flow is the life blood of those in the building and construction industry. If contractors and sub-contractors are not paid timeously for work done or materials supplied, the progress of construction work will almost inevitably be disrupted. Moreover, there is a not insignificant risk of financial distress and insolvency arising as a result. In the years before the immediate predecessor of the Act ( viz , the Building and Construction Industry Security of Payment Act 2004 (Act 57 of 2004) (“Act 57/2004”)) was enacted in 2005, there had been several such cases. It was with the specific aim of minimising such disruptions that Act 57/ (now superseded by the Act) was passed. ... 
 

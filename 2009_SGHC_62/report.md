@@ -252,7 +252,7 @@ _Bonds, Guarantees, Legal Opinions_ (2nd Ed) at paragraph 23-043 which reads:
 
 **_Whether the appointment of the Receivers was done in bad faith_** 
 
-41     It is axiomatic that in order to establish that the plaintiff had appointed the Receivers in bad faith, it is necessary for the defendant to show that there was some dishonesty or improper motive on the lender’s part. Mere negligence by itself will clearly not suffice. As the Court of Appeal put it in Roberto Building Material Pte Ltd v. Oversea-Chinese Banking Corp (No 2) [2003] 3 SLR 217 (“Roberto”) (at [23]-[24], [28]): 
+41     It is axiomatic that in order to establish that the plaintiff had appointed the Receivers in bad faith, it is necessary for the defendant to show that there was some dishonesty or improper motive on the lender’s part. Mere negligence by itself will clearly not suffice. As the Court of Appeal put it in Roberto Building Material Pte Ltd v. Oversea-Chinese Banking Corp (No 2) <span class="citation">[2003] 3 SLR 217</span> (“Roberto”) (at [23]-[24], [28]): 
 
  23 All that the law requires of the lender before exercising his power of appointing a receiver is that he must act in good faith. The lender is entitled to act in his own interest. There is no general duty of reasonable care to consider or have regard to the interests of the debtor. While in most cases, the appointment of a receiver will not be in the interest of the borrower company, that cannot defeat the right of the lender to make the appointment. In the words of Oliver LJ in Shamji v Johnson Matthey Bankers Ltd [1991] BCLC 36 at 42: 
 

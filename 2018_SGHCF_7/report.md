@@ -77,7 +77,7 @@ _Family Law_ – _Matrimonial assets_ – _Division_
 
 8       The Husband admits owing the Company approximately $790,000. He adds that a further $155,000 is recoverable from the Wife. He submits that the value of the Company should thus be reduced by only $945,000 and not $2,073,000. He submits that the remainder is not recoverable because it had been used for household expenses. 
 
-9       The Company, built up and thus acquired during the marriage, is a matrimonial asset; it does not belong to either the Husband or the Wife exclusively but is liable to be divided upon divorce (see _Lock Yeng Fun v Chua Hock Chye_ [2007] 3 SLR(R) 520). Just as a transfer of property between spouses does not take such property out of the pool of matrimonial assets, so too a transfer of property between groups of assets. The spouses ultimately own the aggregate of the matrimonial assets (and liabilities) collectively. 
+9       The Company, built up and thus acquired during the marriage, is a matrimonial asset; it does not belong to either the Husband or the Wife exclusively but is liable to be divided upon divorce (see _Lock Yeng Fun v Chua Hock Chye_ <span class="citation">[2007] 3 SLR(R) 520</span>). Just as a transfer of property between spouses does not take such property out of the pool of matrimonial assets, so too a transfer of property between groups of assets. The spouses ultimately own the aggregate of the matrimonial assets (and liabilities) collectively. 
 
 
  Asset (Liability) W’s Value ($) H’s Value ($) 
@@ -154,11 +154,11 @@ _Ring-fenced Assets_
 
 that “ultimately [she] had bought the [Ring-fenced Assets] with her share of the monies received from the Company”. 
 
-21     Section 112(2)( _e_ ) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“WC”) provides that the Court, in exercising its discretion to divide matrimonial assets, must have regard to “any agreement between the parties with respect to the ownership and division of the matrimonial assets made in contemplation of divorce”. The Court is not bound to enforce any such agreement, but will determine the weight to ascribe to the agreement considering all the circumstances of the case ( _TQ v TR and another appeal_ [2009] 2 SLR(R) 961). The Court will be cognisant of any pressure exerted by one spouse on the other I quote some relevant considerations from _Surindar Singh s/o Jaswant Singh v Sita Jaswant Kaur_ [2014] 3 SLR 1284 at [53], citing Ormrod LJ made in the context of a separation agreement in _Edgar v Edgar_ [1980] 1 WLR 1410 at 1417: 
+21     Section 112(2)( _e_ ) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“WC”) provides that the Court, in exercising its discretion to divide matrimonial assets, must have regard to “any agreement between the parties with respect to the ownership and division of the matrimonial assets made in contemplation of divorce”. The Court is not bound to enforce any such agreement, but will determine the weight to ascribe to the agreement considering all the circumstances of the case ( _TQ v TR and another appeal_ <span class="citation">[2009] 2 SLR(R) 961</span>). The Court will be cognisant of any pressure exerted by one spouse on the other I quote some relevant considerations from _Surindar Singh s/o Jaswant Singh v Sita Jaswant Kaur_ <span class="citation">[2014] 3 SLR 1284</span> at [53], citing Ormrod LJ made in the context of a separation agreement in _Edgar v Edgar_ [1980] 1 WLR 1410 at 1417: 
 
  ... Under pressure by one side, exploitation of a dominant position to secure an unreasonable advantage, inadequate knowledge, possibly bad legal advice, an important change of circumstances, unforeseen or overlooked at the time of making the agreement, are all relevant to the question of justice between the parties ... 
 
-22     In _AQS v AQR_ [2012] SGCA 3, the husband (but not the wife) had signed a memorandum in the following terms: 
+22     In _AQS v AQR_ <span class="citation">[2012] SGCA 3</span>, the husband (but not the wife) had signed a memorandum in the following terms: 
 
  I, [the husband], hereby certify that, in case of a divorce between my wife [the wife], and me, the paramount decision on dividing assets is the future wellbeing of our children, [C] and [B]. 
 
@@ -467,7 +467,7 @@ _January 2013 to August 2014_
 
 parties married in their twenties, when neither had wealth nor high education. They journeyed together and at the end of their marriage, in their fifties, they had amassed more than $30 million in assets. Would they have acquired more or less assets had things been different? Suppose the Husband had limited the Wife from living the high life and spending so much money on the luxury goods? Suppose the Husband had spent less time on the Company and more time with the Wife? Suppose the parties had shared more equally the control over the Company’s finances? Who knows how things might have turned out? It is impossible to tell where each party would be today if some things had been different. My point is that parties should not now focus on the alleged misconduct of the other party, suggesting that he or she would have been in a better position had the other behaved better. Life is more complex than that. 
 
-83     The structured approach in _ANJ v ANK_ [2015] 4 SLR 1043 would have achieved the same result. I would have assigned the following ratio for each party’s direct and indirect contributions, presented in this table as follows: 
+83     The structured approach in _ANJ v ANK_ <span class="citation">[2015] 4 SLR 1043</span> would have achieved the same result. I would have assigned the following ratio for each party’s direct and indirect contributions, presented in this table as follows: 
 
 **Orders** 
 

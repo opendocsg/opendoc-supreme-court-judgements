@@ -37,7 +37,7 @@ _Arbitration_ – _Stay of court proceedings_ – _Grounds_ – _Main contractor
 
 proceedings brought contrary to an arbitration agreement, if the court is satisfied that “there is no sufficient reason why the matter should not be referred in accordance with the arbitration agreement” (see s 6(2)(a)). It is well established that if the court finds that there is no dispute between the parties, then generally there will be no sufficient reason to stay court proceedings as there will be nothing to refer to arbitration. 
 
-6       The parties are in substantial agreement on the legal principles that guide the court when it hears an application under s 6 of the Act. Both parties cited the decision in _Kwan Im Tong Chinese Temple v Fong Choon Hung Construction Pte Ltd_ [1998] 2 SLR 137 (“the _Kwan Im Tong_ case”). There, while this court accepted the principle enunciated in _Tradax Internacional SA v Cerrahogullari TAS_ ( _The M Eregli_ ) [1981] 2 Lloyd’s Rep 169 that if the claim is indisputable then the court has jurisdiction to hear the matter instead of referring it to arbitration, it also sanctioned a holistic and common-sense approach towards determining the existence of a dispute. In so doing, this court adopted the following observation of G P Selvam JC (as he then was) in _Uni-Navigation Pte Ltd v Wei Loong Shipping Pte Ltd_ [1993] 1 SLR 876 at 879, [16] and [17]: 
+6       The parties are in substantial agreement on the legal principles that guide the court when it hears an application under s 6 of the Act. Both parties cited the decision in _Kwan Im Tong Chinese Temple v Fong Choon Hung Construction Pte Ltd_ <span class="citation">[1998] 2 SLR 137</span> (“the _Kwan Im Tong_ case”). There, while this court accepted the principle enunciated in _Tradax Internacional SA v Cerrahogullari TAS_ ( _The M Eregli_ ) [1981] 2 Lloyd’s Rep 169 that if the claim is indisputable then the court has jurisdiction to hear the matter instead of referring it to arbitration, it also sanctioned a holistic and common-sense approach towards determining the existence of a dispute. In so doing, this court adopted the following observation of G P Selvam JC (as he then was) in _Uni-Navigation Pte Ltd v Wei Loong Shipping Pte Ltd_ <span class="citation">[1993] 1 SLR 876</span> at 879, [16] and [17]: 
 
  The common form arbitration agreement provides for disputes to be decided by arbitrators. In such a case the court should, save in obvious cases, adopt a holistic and commonsense approach to see if there is a dispute. The justification for this approach is that it is important to hold a party to his agreement and avoid double and split hearing of matters. ... 
 
@@ -62,7 +62,7 @@ the four certificates, it did not pay Sintal the amounts certified due. Instead,
 
 **The decision below** 
 
-11     Before we go to the judge’s findings (reported at [2004] 4 SLR 841), it would be helpful for the relevant contractual provisions to be set out. These are: 
+11     Before we go to the judge’s findings (reported at <span class="citation">[2004] 4 SLR 841</span>), it would be helpful for the relevant contractual provisions to be set out. These are: 
 
  (a) cl 10.00 of the letter of acceptance: 
 
@@ -116,7 +116,7 @@ the four certificates, it did not pay Sintal the amounts certified due. Instead,
 12     The judge accepted the principles in the _Kwan Im Tong_ case as her guidelines for determining whether there was a dispute between Multiplex and Sintal for the purposes of the arbitration clause. 
 
 
-She also considered, in some detail, the case of _JDC Corporation v Lightweight Concrete Pte Ltd_ [1999] 1 SLR 615 (“the _JDC Corp_ case”) where a similar issue had arisen as to the type of damages claimable by a contractor from his sub-contractor under the provisions of a construction contract. In the _JDC Corp_ case, this court had held that there had been some tension between two contractual clauses providing for damages and that this tension had to be resolved by the arbitrator. 
+She also considered, in some detail, the case of _JDC Corporation v Lightweight Concrete Pte Ltd_ <span class="citation">[1999] 1 SLR 615</span> (“the _JDC Corp_ case”) where a similar issue had arisen as to the type of damages claimable by a contractor from his sub-contractor under the provisions of a construction contract. In the _JDC Corp_ case, this court had held that there had been some tension between two contractual clauses providing for damages and that this tension had to be resolved by the arbitrator. 
 
 13     The judge declined to follow the _JDC Corp_ case. She distinguished it from the situation before her on the basis that, unlike the conflicting contractual provisions in the _JDC Corp_ case, there was no ambiguity or room for doubt in this case because (as she said at [45]): 
 

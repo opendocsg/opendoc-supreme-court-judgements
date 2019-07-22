@@ -18,9 +18,9 @@ _Contract_ – _Contractual terms_
 
 _Copyright_ – _Ownership_ 
 
-[LawNet Editorial Note: See [2016] SGHC 239 for the supplemental judgment.] 
+[LawNet Editorial Note: See <span class="citation">[2016] SGHC 239</span> for the supplemental judgment.] 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 149 of 2016 was dismissed by the Court of Appeal on 17 August 2017. See [2017] SGCA 48.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 149 of 2016 was dismissed by the Court of Appeal on 17 August 2017. See <span class="citation">[2017] SGCA 48</span>.] 
 
 28 September 2016 Judgment reserved. 
 
@@ -155,7 +155,7 @@ use of the Transcripts without prior written permission from LKY. [note: 18] The
 
 the present case as it would affect the contractual interpretation of the Interview Agreement. [note: 19] In respect of this issue, the Government argued that s 5(1)(e) of the OSA was applicable to the 
 
-Transcripts by operation of law and no express reference to the OSA in the Interview Agreement was required. The Government relied on the comments of the High Court in _Elbow Holdings Pte Ltd v Marina Bay Sands Pte Ltd_ [2014] SGHC 26 (“ _Elbow Holdings_ ”) that “under s 5(1)(e), the OSA applies to any document or information which a person has obtained owing to his position as someone who holds or has held a contract made on behalf of the Government or any specified organisation. There is no requirement that the document or information has to be of a confidential (let alone secret) 
+Transcripts by operation of law and no express reference to the OSA in the Interview Agreement was required. The Government relied on the comments of the High Court in _Elbow Holdings Pte Ltd v Marina Bay Sands Pte Ltd_ <span class="citation">[2014] SGHC 26</span> (“ _Elbow Holdings_ ”) that “under s 5(1)(e), the OSA applies to any document or information which a person has obtained owing to his position as someone who holds or has held a contract made on behalf of the Government or any specified organisation. There is no requirement that the document or information has to be of a confidential (let alone secret) 
 
 nature.” [note: 20] The Government thus argued that the Transcripts are covered by the OSA for the 
 
@@ -188,7 +188,7 @@ copies of the Transcripts” and it follows that his estate would not have such 
 
 person” (emphasis added). [note: 28] 
 
-19     The Government also submitted that the court should take a contextual approach to the interpretation of the Interview Agreement, similar to that adopted in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ [2008] SGCA 27 (“ _Zuric h Insurance_ ”), in 
+19     The Government also submitted that the court should take a contextual approach to the interpretation of the Interview Agreement, similar to that adopted in _Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd_ <span class="citation">[2008] SGCA 27</span> (“ _Zuric h Insurance_ ”), in 
 
 identifying and giving effect to the parties’ intention which is objectively ascertained. [note: 29] In 
 
@@ -221,7 +221,7 @@ Agreement must be recognised as being silent” on what happens to LKY’s right
 
 not pass on to his estate.” [note: 35] This is because LKY would not be able to know at the time of contracting who the eventual executors of his estate would be and given the highly sensitive nature of the Transcripts’ contents, he could not have intended that an unknown third party, with unknown political acumen, could acquire his rights in the Transcripts under cl 2(c). 
 
-23     Specifically, regarding the Plaintiff’s asserted right to obtain a copy of the Transcripts, the Government took the position the LKY estate does not have such a right. This was because the retention of copyright to LKY under cl 2(a) was for a special purpose and different from the “usual commercial exploitative reasons”, evidenced by the separation of possession of the copyrighted material from the copyright holder, unlike the usual scenario where the copyright holder retains physical possession. The Government sought to draw a distinction between the ownership of the copyright in the Transcripts and ownership of the tangible medium in which they were expressed, relying on the High Court’s decision in _Lee Kien Meng v Cintamani Frank_ [2015] SGHC 109, by submitting that while LKY retained ownership of the copyright, the physical custody of the tape recordings and Transcripts produced therefrom remained with the Government under the terms of the Interview Agreement. 
+23     Specifically, regarding the Plaintiff’s asserted right to obtain a copy of the Transcripts, the Government took the position the LKY estate does not have such a right. This was because the retention of copyright to LKY under cl 2(a) was for a special purpose and different from the “usual commercial exploitative reasons”, evidenced by the separation of possession of the copyrighted material from the copyright holder, unlike the usual scenario where the copyright holder retains physical possession. The Government sought to draw a distinction between the ownership of the copyright in the Transcripts and ownership of the tangible medium in which they were expressed, relying on the High Court’s decision in _Lee Kien Meng v Cintamani Frank_ <span class="citation">[2015] SGHC 109</span>, by submitting that while LKY retained ownership of the copyright, the physical custody of the tape recordings and Transcripts produced therefrom remained with the Government under the terms of the Interview Agreement. 
 
 **The Court’s decision** 
 

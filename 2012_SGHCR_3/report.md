@@ -67,7 +67,7 @@ _Equity_ – _defences_ – _equitable set-off_
 
  The Court may, on such terms as it thinks just, set aside or vary any judgment entered in pursuant of this Order. 
 
-6       Where a regular default judgment is concerned, the Court of Appeal in _Mercurine Pte Ltd v Canberra Development Pte Ltd_ [2008] 4 SLR(R) 907 (“ _Mercurine_ ”) has conclusively held (at [60]) that: 
+6       Where a regular default judgment is concerned, the Court of Appeal in _Mercurine Pte Ltd v Canberra Development Pte Ltd_ <span class="citation">[2008] 4 SLR(R) 907</span> (“ _Mercurine_ ”) has conclusively held (at [60]) that: 
 
  ... in deciding whether to set aside a regular default judgment, the question for the court is whether the defendant can establish a prima facie defence in the sense of showing that there are triable or arguable issues. 
 
@@ -88,7 +88,7 @@ or even a fair probability that he has a _bona fide_ defence”: see _Habibullah
 
 10     While the particular principles that are contested in the present application are necessarily discussed in detail later, it is useful to begin by briefly and broadly examining the contours of the law of set-off. 
 
-11     In _Engineering Construction Pte Ltd v Sanchoon Builders Pte Ltd_ [2011] 1 SLR 681, Quentin Loh J defined a set-off (at [12]) as “the taking of two competing money cross-claims, setting off one against the other and producing a single balance...” It is of course important to be clear about the terminology used at the outset. As Andrew Ang J pointed out in _American International Assurance Co Ltd v Wong Cherng Yaw and Others_ [2009] SGHC 89 (at [24]): 
+11     In _Engineering Construction Pte Ltd v Sanchoon Builders Pte Ltd_ <span class="citation">[2011] 1 SLR 681</span>, Quentin Loh J defined a set-off (at [12]) as “the taking of two competing money cross-claims, setting off one against the other and producing a single balance...” It is of course important to be clear about the terminology used at the outset. As Andrew Ang J pointed out in _American International Assurance Co Ltd v Wong Cherng Yaw and Others_ <span class="citation">[2009] SGHC 89</span> (at [24]): 
 
  The act of deducting from sums otherwise due is known variously as set-offs, counterclaims and cross-claims. Some of these terms carry different meanings. As far as legal terminology is concerned, the terms “cross-claim” and “counterclaim” are used interchangeably. It is important to appreciate, however, that set-off has a narrower meaning than cross-claim. All set-offs are cross-claims but not all cross-claims are set-offs. 
 
@@ -126,7 +126,7 @@ _Abatement_
 
 _The equitable set-off_ 
 
-20     At the same time as, if not earlier than, the development of the legal set-off and abatement in the common law courts, the courts of equity independently developed principles of set-off as well. It was initially developed on a case by case basis with little to underpin the cases save for equity and justice. Eventually, however, different strands of equitable set-offs became discernible: see _Cooperatieve Centrale Raiffesisen-Boerenleenbank BA (trading as Rabobank International), Singapore Branch v Motorola Electronics Pte Ltd_ [2011] 2 SLR 63 (at [40]). The most important of these, today, is the substantive equitable set-off. 
+20     At the same time as, if not earlier than, the development of the legal set-off and abatement in the common law courts, the courts of equity independently developed principles of set-off as well. It was initially developed on a case by case basis with little to underpin the cases save for equity and justice. Eventually, however, different strands of equitable set-offs became discernible: see _Cooperatieve Centrale Raiffesisen-Boerenleenbank BA (trading as Rabobank International), Singapore Branch v Motorola Electronics Pte Ltd_ <span class="citation">[2011] 2 SLR 63</span> (at [40]). The most important of these, today, is the substantive equitable set-off. 
 
 21     The circumstances which would give rise to a substantive equitable set-off has been explained by Lord Denning in _Federal Commerce & Navigation Co Ltd v Molena Alpha Inc_ [1978] 1 QB 927 (“ _The Nanfri_ ”) (at pp 974-975): 
 
@@ -136,7 +136,7 @@ In a similar vein, Goff LJ remarked in the same case (at p 981) that:
 
  The circumstances must be such as to make it unfair for the creditor to be paid his claim without allowing that of the debtor if and so far as well founded and thus to raise an equity against the creditor or, as it has been expressed, impeach his title to be paid. 
 
-The doctrine of equitable set-off has been accepted by the Singapore Court of Appeal in _Pacific Rim Investments Pte Ltd v Lam Seng Tiong & Anor_ [1995] 2 SLR(R) 643. 
+The doctrine of equitable set-off has been accepted by the Singapore Court of Appeal in _Pacific Rim Investments Pte Ltd v Lam Seng Tiong & Anor_ <span class="citation">[1995] 2 SLR(R) 643</span>. 
 
 22     Therefore, the substantive equitable set-off is, in one respect, narrower than the legal set-off. While the legal set-off allows for the aggregation of cross-claims that may be entirely unrelated, the substantive equitable set-off requires the two claims to be “closely connected”. However, in other respects, the substantive equitable set-off is broader than its common law cousin. For instance, 
 
@@ -204,7 +204,7 @@ _Equitable set-off_
 
 38     I turn now to address the claim for equitable set-off in respect of services provided to Bianco and Nero. 
 
-39     In _Abdul Salam Asanaru Pillai (trading as South Kerala Caashew Exporters) v Nomanbhoy & Sons Pte Ltd_ [2007] 2 SLR(R) 856 (“ _Abdul Salam_ ”), Sundaresh Menon JC helpfully extracted the relevant propositions in this area of law (at [26]): 
+39     In _Abdul Salam Asanaru Pillai (trading as South Kerala Caashew Exporters) v Nomanbhoy & Sons Pte Ltd_ <span class="citation">[2007] 2 SLR(R) 856</span> (“ _Abdul Salam_ ”), Sundaresh Menon JC helpfully extracted the relevant propositions in this area of law (at [26]): 
 
  (a) There is a general right to equitable set-off in cases where there is a close relationship or connection between the dealings and the transactions which give rise to the respective claims: see Hanak v Green [1958] 2 QB 9. 
 
@@ -407,7 +407,7 @@ _Equitable set-off_
 
 **Conclusion** 
 
-87     On no less than three occasions, the Singapore courts have registered dissatisfaction with the law of set-off: see _OCWS Logistics Pte Ltd v Soon Meng Construction Pte_ Ltd [1998] 3 SLR(R) 888 (at [7]), _Engineering Construction_ (at [12]) and _Rabobank International_ (at [39]). I believe the present application illustrates well the reason for such dissatisfaction. Apart from antiquity, it is difficult to discern a reasoned basis for the different conclusions arrived at by the law of legal set-off and equitable set-off on the same issue. That, however, is the case at hand. 
+87     On no less than three occasions, the Singapore courts have registered dissatisfaction with the law of set-off: see _OCWS Logistics Pte Ltd v Soon Meng Construction Pte_ Ltd <span class="citation">[1998] 3 SLR(R) 888</span> (at [7]), _Engineering Construction_ (at [12]) and _Rabobank International_ (at [39]). I believe the present application illustrates well the reason for such dissatisfaction. Apart from antiquity, it is difficult to discern a reasoned basis for the different conclusions arrived at by the law of legal set-off and equitable set-off on the same issue. That, however, is the case at hand. 
 
 
 88     Given my analysis outlined above, I am of the view that ManagementPlus has an arguable defence of a legal set-off based on the US$120,000 compromise agreement. All other arguments of set-off are rejected. I will therefore vary the judgment obtained by Hayate on 3 January 2012 by allowing ManagementPlus leave to defend the sum of US$120,000 and granting Hayate judgment on the residue. 

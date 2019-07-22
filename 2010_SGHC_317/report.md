@@ -16,7 +16,7 @@
 
 _Criminal Law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 11 of 2010 was dismissed by the Court of Appeal on 6 March 2012. See [2012] SGCA 18.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 11 of 2010 was dismissed by the Court of Appeal on 6 March 2012. See <span class="citation">[2012] SGCA 18</span>.] 
 
 26 October 2010 
 
@@ -207,9 +207,9 @@ was not a big amount as far as he was concerned because he used to collect large
 
 **_The decision of the court_** 
 
-66     An accused can be shown to have had actual knowledge of the nature of the drug or can have such knowledge imputed in the form of wilful blindness. Section 18(2) of the MDA provides that any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of the drug. Suspicion, which is firmly grounded on specific facts, is sufficient to support a finding of wilful blindness provided the factual matrix warrants such a finding and the accused has deliberately turned a blind eye to the facts ( _Tan Kiam Peng v PP_ [2008] SLR(R) 1. Under section 2 of the MDA, “traffic” includes the act of delivering. What is required is merely the transfer of possession from one party to another (see _PP v Goh Hock Huat_ [1994] 3 SLR(R) 375). 
+66     An accused can be shown to have had actual knowledge of the nature of the drug or can have such knowledge imputed in the form of wilful blindness. Section 18(2) of the MDA provides that any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of the drug. Suspicion, which is firmly grounded on specific facts, is sufficient to support a finding of wilful blindness provided the factual matrix warrants such a finding and the accused has deliberately turned a blind eye to the facts ( _Tan Kiam Peng v PP_ [2008] SLR(R) 1. Under section 2 of the MDA, “traffic” includes the act of delivering. What is required is merely the transfer of possession from one party to another (see _PP v Goh Hock Huat_ <span class="citation">[1994] 3 SLR(R) 375</span>). 
 
-67     Where the charge against Sng is concerned, section 12 of the MDA provides that anyone who abets the commission of any offence under the MDA shall be guilty of that offence and be liable to the punishment provided for that offence. Abetment by instigation can be made out by showing active suggestion, support, stimulation or encouragement of the criminal act in question ( _PP v Ng Ai Tiong_ [2001] 1 SLR(R) 1). 
+67     Where the charge against Sng is concerned, section 12 of the MDA provides that anyone who abets the commission of any offence under the MDA shall be guilty of that offence and be liable to the punishment provided for that offence. Abetment by instigation can be made out by showing active suggestion, support, stimulation or encouragement of the criminal act in question ( _PP v Ng Ai Tiong_ <span class="citation">[2001] 1 SLR(R) 1</span>). 
 
 68     On the issue whether the drugs recovered from the taxi were somehow mixed up with the drugs found in the other places, I was satisfied that the relevant CNB officers involved in the custody of the different lots of drugs had kept them separate and distinct meticulously. The photography and weighing sessions at CNB were conducted carefully and done in full view of all the arrested persons. There was no mix-up of any drugs 
 

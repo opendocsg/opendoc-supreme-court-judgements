@@ -24,7 +24,7 @@ _Restitution_
 
 1       This action, _ie_ , Suit No 283 of 2010 (“the Second Action”) arises from an earlier decision of mine in Suit No 287 of 2007 (“the First Action”) between the same two sisters, Chan Gek Yong (“the plaintiff”) and Chan Gek Lan (“the defendant”). In the First Action, I dismissed various claims made by the plaintiff against the defendant and the defendant’s counterclaim against the plaintiff. 
 
-2       In the Second Action, the plaintiff sought to set aside my judgment in the First Action dated 2 October 2008 (see _Chan Gek Yong v Chan Gek Lan_ [2008] SGHC 167) (“my earlier judgment”) and to make the same claims against the defendant as she had already made in the First Action. On the first day of trial in the Second Action, the defendant’s counsel submitted as a preliminary issue that the Second Action should be dismissed. After hearing arguments by both parties, I dismissed the Second Action. This time round, the plaintiff has filed an appeal to the Court of Appeal which she did not do in respect of my earlier judgment. 
+2       In the Second Action, the plaintiff sought to set aside my judgment in the First Action dated 2 October 2008 (see _Chan Gek Yong v Chan Gek Lan_ <span class="citation">[2008] SGHC 167</span>) (“my earlier judgment”) and to make the same claims against the defendant as she had already made in the First Action. On the first day of trial in the Second Action, the defendant’s counsel submitted as a preliminary issue that the Second Action should be dismissed. After hearing arguments by both parties, I dismissed the Second Action. This time round, the plaintiff has filed an appeal to the Court of Appeal which she did not do in respect of my earlier judgment. 
 
 **Background** 
 

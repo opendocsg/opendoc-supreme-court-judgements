@@ -89,7 +89,7 @@ _T_ **_he law_**
 
  available forum which is prima facie the appropriate forum for the trial of the action, the burden will then shift to the plaintiff to show that there are special circumstances by reason of which justice requires that the trial should nevertheless take place in this country." 
 
-16\. _The Spiliada_ has been affirmed and applied locally by our Court of Appeal in _Brinkerhoff Maritime Drilling Corp & Anor v PT Airfast Services Indonesia & Anor_ [1992] 2 SLR 776, _Eng Liat Kiang v Eng Bak Hern_ [1995] 3 SLR 97, _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ [1998] 1 SLR 253, and most recently in _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Limited_ [2001] 2 SLR 49. 
+16\. _The Spiliada_ has been affirmed and applied locally by our Court of Appeal in _Brinkerhoff Maritime Drilling Corp & Anor v PT Airfast Services Indonesia & Anor_ <span class="citation">[1992] 2 SLR 776</span>, _Eng Liat Kiang v Eng Bak Hern_ <span class="citation">[1995] 3 SLR 97</span>, _Oriental Insurance Co Ltd v Bhavani Stores Pte Ltd_ <span class="citation">[1998] 1 SLR 253</span>, and most recently in _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Limited_ <span class="citation">[2001] 2 SLR 49</span>. 
 
 17\. In _PT Hutan_ , Chao Hick Tin JA commented that whether the process contemplated by Lord Goff in _The Spiliada_ was a two-stage process or a one-stage process, telescoping two into one, did not really matter, for, as he explained (at p 55): 
 

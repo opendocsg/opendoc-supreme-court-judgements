@@ -18,7 +18,7 @@ _Contract_ – _Illegality and Public Policy_
 
 _Conflict of Laws_ – _Choice of Law_ – _Effect of Illegality of Related Contract_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 96 of 2017 was dismissed by the Court of Appeal on 16 August 2018. See [2018] SGCA 60.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 96 of 2017 was dismissed by the Court of Appeal on 16 August 2018. See <span class="citation">[2018] SGCA 60</span>.] 
 
 15 December 2017 
 
@@ -263,7 +263,7 @@ Facility. [note: 62] The defendant did not challenge the validity of the plainti
 real or _bona fide_ defence. [note: 63] In the first place, the plaintiff argued that even if the defendant 
 
 
-was able to make out his case that the Loan Facilities were void or unenforceable for illegality or misrepresentation or mistake, this would not defeat the plaintiff’s claim under the Indemnity Agreement. This was because the Indemnity Agreement was in the nature of an _indemnity_ and not a mere _guarantee_. While liability under a guarantee was “collateral to and dependent upon the liability of a third person”, liability under an indemnity was “original and independent” (citing _PT Jaya Sumpiles Indonesia v Kristle Trading Ltd_ [2009] 3 SLR(R) 689 (“ _PT Jaya_ ”) at [50]). While the fact that a principal contract is void would generally render a guarantee similarly unenforceable, an indemnity was in the nature of a primary obligation and was not affected even if the principal contract was found to be defective (citing _S Y Technology v Pacific Recreation Pte Ltd_ [2007] 2 SLR(R) 756 (“ _S Y_ 
+was able to make out his case that the Loan Facilities were void or unenforceable for illegality or misrepresentation or mistake, this would not defeat the plaintiff’s claim under the Indemnity Agreement. This was because the Indemnity Agreement was in the nature of an _indemnity_ and not a mere _guarantee_. While liability under a guarantee was “collateral to and dependent upon the liability of a third person”, liability under an indemnity was “original and independent” (citing _PT Jaya Sumpiles Indonesia v Kristle Trading Ltd_ <span class="citation">[2009] 3 SLR(R) 689</span> (“ _PT Jaya_ ”) at [50]). While the fact that a principal contract is void would generally render a guarantee similarly unenforceable, an indemnity was in the nature of a primary obligation and was not affected even if the principal contract was found to be defective (citing _S Y Technology v Pacific Recreation Pte Ltd_ <span class="citation">[2007] 2 SLR(R) 756</span> (“ _S Y_ 
 
 _Technology_ ”) at [22]). [note: 64] 
 
@@ -275,7 +275,7 @@ would only render _the Pledges_ illegal. [note: 65] It would not mean that the L
 
 **Principles applicable to summary judgment** 
 
-37     The principles applicable to summary judgment under O 14 r 1 of the Rules are well established and can be dealt with briefly. In order to obtain summary judgment, a plaintiff must first establish a _prima facie_ case for judgment. Once this has been done, the burden as such shifts to the defendant who, in order to obtain leave to defend, must establish a fair or reasonable probability that he has a real or _bona fide_ defence in order to resist summary judgment (see _Singapore Civil Procedure 2017_ vol 1 (Foo Chee Hock JC gen ed) (Sweet & Maxwell, 2017) (“ _SCP_ ”) at para 14/4/5 and also _M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_ [2015] 1 SLR 325 at [17]). Under O 14 r 3 of the Rules, the defendant may also obtain leave to defend by establishing “that there is an issue or question in dispute which ought to be tried” or “that there ought for some other reason to be a trial”. 
+37     The principles applicable to summary judgment under O 14 r 1 of the Rules are well established and can be dealt with briefly. In order to obtain summary judgment, a plaintiff must first establish a _prima facie_ case for judgment. Once this has been done, the burden as such shifts to the defendant who, in order to obtain leave to defend, must establish a fair or reasonable probability that he has a real or _bona fide_ defence in order to resist summary judgment (see _Singapore Civil Procedure 2017_ vol 1 (Foo Chee Hock JC gen ed) (Sweet & Maxwell, 2017) (“ _SCP_ ”) at para 14/4/5 and also _M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_ <span class="citation">[2015] 1 SLR 325</span> at [17]). Under O 14 r 3 of the Rules, the defendant may also obtain leave to defend by establishing “that there is an issue or question in dispute which ought to be tried” or “that there ought for some other reason to be a trial”. 
 
 38     Even where there is a conflict in the affidavit evidence, a judge is not bound to uncritically accept as raising a dispute of fact every statement in an affidavit however equivocal, lacking in precision or inherently improbable ( _SCP_ at para 14/4/2, citing the remarks of Lord Diplock in _Eng Mee Yong v Letchumanan_ [1979] 2 MLJ 212). _SCP_ rightly goes on to state at para 14/4/2 that the judge will need to exercise discretion so as to determine whether the statements have sufficient _prima facie_ plausibility to merit further investigation as to their truth. Similar comments are made by Jeffrey Pinsler SC in _Singapore Court Practice 2017_ vol 1 (Jeffrey Pinsler gen ed) (LexisNexis, 2017) at para 14/3/1 where, for example, it is said that the sworn evidence of the defendant will not be accepted if it is inconsistent with contemporaneous documents or is inherently implausible or contrary to other compelling evidence. 
 
@@ -370,7 +370,7 @@ investment trust fund”. [note: 86]
 
 52     The defendant for his part relies on the findings of the Taiwanese Court in support of his position that it is illegal under Taiwanese law for a life insurance company to pledge its assets to 
 
-secure loans to an unrelated third party. [note: 87] In coming to my decision, I should clarify that I have not made any finding as to what exactly the position under Taiwanese law is. Foreign law is an issue of fact which may be proven either through the adducing of raw sources of foreign law as evidence or by adducing the opinion of an expert in the foreign law in question (see _Pacific Recreation Pte Ltd v S Y Technology Inc and another appeal_ [2008] 2 SLR(R) 491 (“ _Pacific Recreation_ ”) at [54]). 
+secure loans to an unrelated third party. [note: 87] In coming to my decision, I should clarify that I have not made any finding as to what exactly the position under Taiwanese law is. Foreign law is an issue of fact which may be proven either through the adducing of raw sources of foreign law as evidence or by adducing the opinion of an expert in the foreign law in question (see _Pacific Recreation Pte Ltd v S Y Technology Inc and another appeal_ <span class="citation">[2008] 2 SLR(R) 491</span> (“ _Pacific Recreation_ ”) at [54]). 
 
 I note that the defendant filed an affidavit affirmed by a Taiwanese lawyer, Hsieh Fu-Kai. [note: 88] However, neither party made any reference to this affidavit in the hearing before me, and the arguments proceeded on the basis that the Pledges were illegal under Taiwanese law. I have considered whether the defendant has a _bona fide_ defence on the assumption that it _is_ indeed a breach of Taiwanese law for a life insurance company to pledge its assets to secure loans to an unrelated third party. The question, however, is what effect this would have on the plaintiff’s claim in the present proceedings. 
 
@@ -378,7 +378,7 @@ I note that the defendant filed an affidavit affirmed by a Taiwanese lawyer, Hsi
 
 53     Before I deal with the legal principles relevant to this question, it may be helpful to clarify three points. 
 
-54     First, there is no doubt that the First Surewin Facility and the Indemnity Agreement are both governed by Singapore law. Where a contract contains express provisions as to its governing law, the governing law of the contract is generally determined in accordance with such express terms ( _Pacific Recreation_ at [36] citing _Overseas Union Insurance Ltd v Turegum Insurance Co_ [2001] 2 SLR(R) 285 at [82]). As stated at [12] and [19] above, Singapore law is expressly stated to be the governing law of both the First Surewin Facility and the Indemnity Agreement. 
+54     First, there is no doubt that the First Surewin Facility and the Indemnity Agreement are both governed by Singapore law. Where a contract contains express provisions as to its governing law, the governing law of the contract is generally determined in accordance with such express terms ( _Pacific Recreation_ at [36] citing _Overseas Union Insurance Ltd v Turegum Insurance Co_ <span class="citation">[2001] 2 SLR(R) 285</span> at [82]). As stated at [12] and [19] above, Singapore law is expressly stated to be the governing law of both the First Surewin Facility and the Indemnity Agreement. 
 
 55     Secondly, I have found that the place of performance for both the First Surewin Facility and the Indemnity Agreement is Singapore. With regard to First Surewin Facility, the defendant accepts that the place of performance is “arguably” Singapore given that the plaintiff is the Singapore branch of EFG Bank and the funds to be disbursed under the First Surewin Facility would be disbursed to Surewin’s bank account located in Singapore. I note, however, that the defendant argues that there is a connection between the First Surewin Faciltiy and Taiwan in that the source of Surewin’s 
 
@@ -395,7 +395,7 @@ where no place of payment is specified ... the debtor must seek out his creditor
 
 58     I raise these three points at the outset because they have implications for the line of authorities which is relevant to determining the effect of the alleged Taiwanese illegality on the First Surewin Facility. In this regard, I note that in the course of submissions the defendant made references to cases such as _Foster v Driscoll_ [1929] 1 KB 470 (“ _Foster v Driscoll_ ”), _Regazzoni v K C Sethia (1944) Ltd_ [1958] AC 301 (“ _Regazzoni_ ”), _Ralli Brothers v Compania Naviera Sota y Aznar_ [1920] 2 KB 287 ( _“Ralli Brothers_ ”) and the decision of the Singapore International Commercial Court 
 
-(“SICC”) in _BCBC Singapore Pte Ltd v PT Bayan Resources TBK_ [2016] 4 SLR 1 (“ _BCBC_ ”). [note: 91] The defendant sought to argue on the basis of these decisions that “the test in _Euro-Diam_ as to the enforcement of a contract tainted with foreign illegality does not appear to be the be all and end all of the matter” and “the Courts can consider a foreign illegality without having to apply the test in 
+(“SICC”) in _BCBC Singapore Pte Ltd v PT Bayan Resources TBK_ <span class="citation">[2016] 4 SLR 1</span> (“ _BCBC_ ”). [note: 91] The defendant sought to argue on the basis of these decisions that “the test in _Euro-Diam_ as to the enforcement of a contract tainted with foreign illegality does not appear to be the be all and end all of the matter” and “the Courts can consider a foreign illegality without having to apply the test in 
 
 _Euro-Diam_ ”. [note: 92] 
 
@@ -466,7 +466,7 @@ contractual illegality – the forum, the proper law, and the place of performan
 
  (ii) Whether the claim is so closely connected with the proceeds of crime to offend the conscience of the court ( ie , whether the claim falls within the Beresford principle). 
 
-7       2 _Euro-Diam_ was referred to and applied by the Court of Appeal in _Station Hotel Co v Malayan Railway Administration_ [1993] 2 SLR(R) 818 at [57], although that case involved local illegality instead of foreign illegality. 
+7       2 _Euro-Diam_ was referred to and applied by the Court of Appeal in _Station Hotel Co v Malayan Railway Administration_ <span class="citation">[1993] 2 SLR(R) 818</span> at [57], although that case involved local illegality instead of foreign illegality. 
 
 (2) Application of _Euro-Diam_ to the present facts 
 
@@ -501,7 +501,7 @@ stated in oral submissions: [note: 99]
 
 80     Accordingly, I find that the defendant has failed to raise a reasonable probability that it has a _bona fide_ defence that the First Surewin Facility and/or the Indemnity Agreement is void and/or unenforceable for illegality. 
 
-81     I should also mention that the defendant had referred to the decision of the Court of Appeal in _Ting Siew May v Boon Lay Choo_ [2014] 3 SLR 609 (“ _Ting Siew May_ ”), which sets out an extensive 
+81     I should also mention that the defendant had referred to the decision of the Court of Appeal in _Ting Siew May v Boon Lay Choo_ <span class="citation">[2014] 3 SLR 609</span> (“ _Ting Siew May_ ”), which sets out an extensive 
 
 review of the law concerning when a contract is unenforceable for illegality. [note: 100] _Ting Siew May_ concerned the back-dating of an option to purchase property in Singapore. The back-dating was for the purpose of obtaining loans on better terms as a result of certain changes implemented by the Monetary Authority of Singapore. The illegality in _Ting Siew May_ pertained to the contract sought to be enforced (the back-dated option), and also concerned acts done in Singapore as opposed to illegality in respect of the law of another country. In the present case, it is clear that the place of performance of the First Surewin Facility and the Indemnity Agreement was Singapore. Whilst the STAAP and SFIP-1 Pledges were found to contravene Taiwan law on insurance companies, I emphasise that (i) the present action is not concerned with enforcement of these two Pledges; (ii) the express choice of law clauses in the Pledges point to Singapore as the governing law; (iii) there is no suggestion that the Pledges were illegal under Singapore law. _Ting Siew May_ was therefore of limited assistance. 
 
@@ -518,7 +518,7 @@ if the primary transaction is defective ( _S Y Technology_ at [22]). [note: 101]
 
 84     The plaintiff argues that the label or title used in a document is not decisive and the essential nature of the agreement must always be considered (citing _China Taiping Insurance (Singapore) Pte_ 
 
-_Ltd v Teoh Cheng Leong_ [2012] 2 SLR 1 at [16] to [21]). [note: 102] Thus, even though the word 
+_Ltd v Teoh Cheng Leong_ <span class="citation">[2012] 2 SLR 1</span> at [16] to [21]). [note: 102] Thus, even though the word 
 
 “Guarantee” appears in the title of the Indemnity Agreement, [note: 103] the plaintiff maintains that there are several factors which support the conclusion that the Indemnity Agreement was a true indemnity: 
 
@@ -532,7 +532,7 @@ _Ltd v Teoh Cheng Leong_ [2012] 2 SLR 1 at [16] to [21]). [note: 102] Thus, even
 
 85     While the defendant does refer to the Indemnity Agreement as a “Guarantee Agreement”, the question as to whether the agreement embodied a true indemnity was not dealt with in his written submissions 
 
-86     Looking at its terms and provisions, I was satisfied that the Indemnity Agreement was in the nature of a true indemnity. In my view, the strongest factors weighing in favour of the plaintiff’s construction of the Indemnity Agreement as a true indemnity were cll 9 and 25(a). In particular, I note that cl 25(a) was almost identical to the wording of a clause considered in _Habibullah Mohamed Yousuff v Indian Bank_ [1999] 2 SLR(R) 880 at [45], which the court in _PT Jaya_ described as appearing on its face “to be a true indemnity” ( _PT Jaya_ at [56]). 
+86     Looking at its terms and provisions, I was satisfied that the Indemnity Agreement was in the nature of a true indemnity. In my view, the strongest factors weighing in favour of the plaintiff’s construction of the Indemnity Agreement as a true indemnity were cll 9 and 25(a). In particular, I note that cl 25(a) was almost identical to the wording of a clause considered in _Habibullah Mohamed Yousuff v Indian Bank_ <span class="citation">[1999] 2 SLR(R) 880</span> at [45], which the court in _PT Jaya_ described as appearing on its face “to be a true indemnity” ( _PT Jaya_ at [56]). 
 
 87     The question, however, was whether the Indemnity Agreement would remain enforceable even if the First Surewin Facility was found to be void or unenforceable for illegality. The plaintiff relied on cl 9(h) of the Indemnity Agreement, which stated “the guarantee shall not be prejudiced... by ... any irregularity, unenforceability or invalidity of any obligation of the Borrower or any other persons under any security or document ...” The plaintiff further submitted that a similar clause had been found to be valid in _Gulf Bank KSC v Mitsubishi Heavy Industries Ltd (No 2_ ) [1994] 2 Lloyd’s Rep 145 (“ _Gulf Bank KSC_ ”). 
 

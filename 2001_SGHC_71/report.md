@@ -527,7 +527,7 @@ _Mr Ang was given an opportunity to defend himself_
 
 65\. At the inquiry on 23 August 2000, Mr Ang pleaded guilty to all the five charges. However, he asserted that his guilty plea was not valid. 
 
-66\. In _Ganesun s/o Kannan v PP_ [1996] 3 SLR 560, 563 _,_ Yong Pung How CJ reiterated that a plea of guilt must be valid and unequivocal and that the court must ensure that it is the accused himself who wishes to plead guilty, that the accused understands the nature and consequences of his plea and that the accused intends to admit without qualification the offence he is alleged to have committed. 
+66\. In _Ganesun s/o Kannan v PP_ <span class="citation">[1996] 3 SLR 560</span>, 563 _,_ Yong Pung How CJ reiterated that a plea of guilt must be valid and unequivocal and that the court must ensure that it is the accused himself who wishes to plead guilty, that the accused understands the nature and consequences of his plea and that the accused intends to admit without qualification the offence he is alleged to have committed. 
 
 67\. The evidence does not show that Mr Ang did not wish to plead guilty or that he did not understand the nature and consequences of his plea. 
 
@@ -832,7 +832,7 @@ _Mr Angs plea of guilt is valid_
 
 ### D. WHETHER MR FISHER WAS BIASED? 
 
-101\. Finally, I turn to the allegation that Mr Fisher should not have chaired the inquiry proceedings because he was biased against Mr Ang. It is trite law that a person may be disqualified from hearing or determining a case or matter because of actual or apparent bias. (See, for instance, the decision of the Court of Appeal in _Tang Liang Hong v Lee Kuan Yew & Anor_ [1998] 1 SLR 97.) 
+101\. Finally, I turn to the allegation that Mr Fisher should not have chaired the inquiry proceedings because he was biased against Mr Ang. It is trite law that a person may be disqualified from hearing or determining a case or matter because of actual or apparent bias. (See, for instance, the decision of the Court of Appeal in _Tang Liang Hong v Lee Kuan Yew & Anor_ <span class="citation">[1998] 1 SLR 97</span>.) 
 
 102\. Mr Ang said that he had a bad relationship with Mr Fisher. For a start, he contended that sometime around July 2000, Mr Fisher had accused him of spreading rumours about his impending resignation from STC. Secondly, it was alleged that Mr Fisher had on occasion voiced his unhappiness over the fact that Mr Angs daughter, Ms Crystal Ang, rode to the starting gate without using stirrups. Thirdly, Mr Ang pointed out that Ms Ang had on several occasions received unnecessarily harsh sentences from the panel of stipendiary stewards when Mr Fisher was presiding. Finally, Mr Ang submitted that the harsh 
 

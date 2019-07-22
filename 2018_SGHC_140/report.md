@@ -41,7 +41,7 @@ the contractual claim and the present application, are to some degree disputed, 
 
 **Applicant’s Case** 
 
-6       The Applicant relies on the framework for restoration laid down in _Re Asia Petan Organisation Pte Ltd_ [2018] 3 SLR 435 (“ _Re Asia Petan_ ”) and submitted that, being a director, he had the requisite _locus standi_ to seek restoration of the Company. Further, he had a pecuniary interest in the resuscitation of the Company as his wife held shares in Tuff on his behalf. 
+6       The Applicant relies on the framework for restoration laid down in _Re Asia Petan Organisation Pte Ltd_ <span class="citation">[2018] 3 SLR 435</span> (“ _Re Asia Petan_ ”) and submitted that, being a director, he had the requisite _locus standi_ to seek restoration of the Company. Further, he had a pecuniary interest in the resuscitation of the Company as his wife held shares in Tuff on his behalf. 
 
 7       As regards the purpose of the restoration, it is to allow the Company to commence an action against the Respondents. Such a claim need only be made out on a _prima facie_ basis in an application of the present nature. Further, there is a practical benefit to the Applicant as payment could be made to Tuff if the contractual claim were successful. 
 

@@ -18,7 +18,7 @@ _Patents and Inventions_ – _Industrial application_
 
 _Patents and Inventions_ – _Novelty_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 121 of 2016 was dismissed by the Court of Appeal on 1 August 2017. See [2017] SGCA 45.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 121 of 2016 was dismissed by the Court of Appeal on 1 August 2017. See <span class="citation">[2017] SGCA 45</span>.] 
 
 26 May 2016 Judgment reserved. 
 
@@ -63,7 +63,7 @@ patentable in Singapore. [note: 1]
 
 be brought under s 83 of the Act. I note in passing that there are similar provisions set out in s 75 of the UK Patents Act 1977 which extends to proceedings where validity could have, but was not, put in issue: see _CIPA Guide to the Patents Act_ (Paul G Cole gen ed) (Sweet & Maxwell, 7th Ed, 2011) (“ _CIPA Guide_ ”) at para 75.03. 
 
-11     The law on the amendment of patent specifications under s 83 of the Act is clear and wellestablished. The court’s power to amend a patent is circumscribed by s 84(3) which precludes amendments resulting in the specification disclosing any additional matter or extending the protection conferred by the patent. Further, any amendments must satisfy the “base-line criteria” set out in s 25(5) of the Act which provides, _inter alia_ , that the claims are to be clear and concise: _Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd and other and other suits_ [2005] 3 SLR(R) 389 (“ _FE Global (HC)_ ”) at [52]. At the end of the day, the court has a general discretion to allow or disallow the proposed amendments and the exercise of this discretion is guided by the factors outlined in _Smith Kline & French Laboratories v Evans Medical Limited_ [1989] FSR 561 (“ _Smith, Kline and French Laboratories Ltd_ ”) at 569. 
+11     The law on the amendment of patent specifications under s 83 of the Act is clear and wellestablished. The court’s power to amend a patent is circumscribed by s 84(3) which precludes amendments resulting in the specification disclosing any additional matter or extending the protection conferred by the patent. Further, any amendments must satisfy the “base-line criteria” set out in s 25(5) of the Act which provides, _inter alia_ , that the claims are to be clear and concise: _Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd and other and other suits_ <span class="citation">[2005] 3 SLR(R) 389</span> (“ _FE Global (HC)_ ”) at [52]. At the end of the day, the court has a general discretion to allow or disallow the proposed amendments and the exercise of this discretion is guided by the factors outlined in _Smith Kline & French Laboratories v Evans Medical Limited_ [1989] FSR 561 (“ _Smith, Kline and French Laboratories Ltd_ ”) at 569. 
 
 12     I turn now to the defendant’s main grounds of opposition which I will examine in the following order. 
 
@@ -90,7 +90,7 @@ be brought under s 83 of the Act. I note in passing that there are similar provi
 15     This issue was recently considered in the case of _Ship’s Equipment Centre Bremen GmbH v Fuji_ 
 
 
-_Trading (Singapore) Pte Ltd and others and another suit_ [2015] 4 SLR 781 (“ _Ship’s Equipment_ ”). In that case, the defendants opposed, _inter alia_ , the plaintiff’s proposed amendment to the first claim of its Singapore Patent SG110370 on the basis that the amended patent would still be invalid. Lee Seiu Kin J rejected this ground of opposition, holding that the defendant’s approach puts the proverbial cart before the horse and should not be accepted where the issue of validity was scheduled to be heard after the applications to amend the patents (at [19]). 
+_Trading (Singapore) Pte Ltd and others and another suit_ <span class="citation">[2015] 4 SLR 781</span> (“ _Ship’s Equipment_ ”). In that case, the defendants opposed, _inter alia_ , the plaintiff’s proposed amendment to the first claim of its Singapore Patent SG110370 on the basis that the amended patent would still be invalid. Lee Seiu Kin J rejected this ground of opposition, holding that the defendant’s approach puts the proverbial cart before the horse and should not be accepted where the issue of validity was scheduled to be heard after the applications to amend the patents (at [19]). 
 
 16     The parties have also referred me to the following comments made by the learned authors of _Terrell on the Law of Patents_ (Richard Miller, Guy Burkill, Colin Birss & Douglas Campbell, _Terrell on the Law of Patents_ (Sweet & Maxwell, 17th Ed, 2010) at para 15-44): 
 
@@ -215,7 +215,7 @@ broaden or reduce in a praetorian way the scope of these provisions.
 
 Guidelines for Patent Applications relating to Medical Inventions in the Intellectual Property Office” (May 2013) at para 97. Following these developments, it can be said that the patent regime in Europe and the UK has become friendlier to second and subsequent medical uses of known substances. 
 
-48     In the area of pharmaceutical inventions, Singapore does not have an equivalent to Art 54(5) of the EPC 2000. Our Act dates back to 1994 and its provisions were modelled after the then existing provisions of the UK Patents Act 1977 with “necessary modifications” made, a point that was noted in _Genelabs Diagnostics Pte Ltd v Institut Pasteur_ and another [2000] 3 SLR(R) 530 and _Ng Kok Cheng v Chua Say Tiong_ [2001] 2 SLR(R) 326. 
+48     In the area of pharmaceutical inventions, Singapore does not have an equivalent to Art 54(5) of the EPC 2000. Our Act dates back to 1994 and its provisions were modelled after the then existing provisions of the UK Patents Act 1977 with “necessary modifications” made, a point that was noted in _Genelabs Diagnostics Pte Ltd v Institut Pasteur_ and another <span class="citation">[2000] 3 SLR(R) 530</span> and _Ng Kok Cheng v Chua Say Tiong_ <span class="citation">[2001] 2 SLR(R) 326</span>. 
 
 49     In Singapore, the question as to how ss 14(7), 16(2) and 16(3) of our Act are to be interpreted has not directly arisen for consideration. In particular, the question as to whether a second medical use for a known substance is patentable has not arisen for consideration in Singapore. That said, whilst the courts have yet to pronounce on the validity of Swiss-style claims, the patent registry supports the view that such claims are valid. The Examination Guidelines for Patent Applications at IPOS (dated 14 February 2014) (the “IPOS” Guidelines), which provide guidance on the acceptable drafting forms of Swiss-style claims state: 
 
@@ -256,7 +256,7 @@ _Analysis_
 
  (3) To compare the two disclosures and decide whether any subject matter relevant to the invention has been added whether by deletion or addition. The comparison is strict in the sense that subject matter will be added unless such matter is clearly and unambiguously disclosed in the application either explicitly or implicitly. ... 
 
-55     This test was later endorsed and applied by the Court of Appeal of Singapore in _FE Global Electronics Pte Ltd and others v Trek Technology (Singapore) Pte Ltd and another appeal_ [2006] 1 SLR(R) 874 (“ _FE Global (CA)_ ”) at [24] and applied by the High Court in _Novartis AG and another v Ranbaxy (Malaysia) Sdn Bhd_ [2013] 2 SLR 117 (“ _Novartis AG_ ”) at [8]. 
+55     This test was later endorsed and applied by the Court of Appeal of Singapore in _FE Global Electronics Pte Ltd and others v Trek Technology (Singapore) Pte Ltd and another appeal_ <span class="citation">[2006] 1 SLR(R) 874</span> (“ _FE Global (CA)_ ”) at [24] and applied by the High Court in _Novartis AG and another v Ranbaxy (Malaysia) Sdn Bhd_ <span class="citation">[2013] 2 SLR 117</span> (“ _Novartis AG_ ”) at [8]. 
 
 _Decision_ 
 
@@ -290,7 +290,7 @@ was allowed on the basis that the change in category had limited the scope of pr
 
  Section 84(3)( b ) of the Patents Act mandates that the amendment of the specification of a patent shall not be allowed if it “extends the protection conferred by the patent”. In order to determine if the scope of protection of the patent has been extended, one must examine and compare the totality of the claims before and after the proposed amendments. The extension of the scope of an individual claim per se is not objectionable if it does not result in the extension of the protection of the patent: Richard Miller et al, Terrell on the Law of Patents (Sweet & Maxwell, 17th Ed, 2011) (“ Terrell ”) at para 15-41, citing Siegfried Demel v Jefferson [1999] FSR 204 at 213. 
 
-65     To effect the comparison, the starting point must always be the claims of the patent in question. Where relevant and necessary, it is also legitimate to consider the accompanying specifications to inform the interpretation of the claims. That said, where the words of the claim are clear and unambiguous, it is not permissible to put a gloss on or expand the claims by relying on the statement in the specification: _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd_ [2008] 1 SLR(R) 335 at [24]. Further, the court will adopt what is termed a “purposive approach” when construing the patent claims. This approach was endorsed by _FE Global (CA)_ at [14] in which the Court of Appeal took the view that the purposive approach balances the rights of the patentee and those of third parties. 
+65     To effect the comparison, the starting point must always be the claims of the patent in question. Where relevant and necessary, it is also legitimate to consider the accompanying specifications to inform the interpretation of the claims. That said, where the words of the claim are clear and unambiguous, it is not permissible to put a gloss on or expand the claims by relying on the statement in the specification: _First Currency Choice Pte Ltd v Main-Line Corporate Holdings Ltd_ <span class="citation">[2008] 1 SLR(R) 335</span> at [24]. Further, the court will adopt what is termed a “purposive approach” when construing the patent claims. This approach was endorsed by _FE Global (CA)_ at [14] in which the Court of Appeal took the view that the purposive approach balances the rights of the patentee and those of third parties. 
 
 66     With these basic principles in mind, it will be useful to review decisions in which Art 123(3) of the EPC (the equivalent of s 84(3)( _b_ ) of our Act) has been examined. For the avoidance of doubt, Art 123(3) of the EPC 1973 and the EPC 2000 can be treated as similar for our present purposes notwithstanding the slight differences in their wording. 
 

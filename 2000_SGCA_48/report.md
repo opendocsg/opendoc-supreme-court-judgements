@@ -26,7 +26,7 @@ _Bailment_ – _Gratuitous bailment_ – _Mutuum_ – _Whether initiation deposi
 
 The appellants are the proprietors of Pinetree Town and Country Club (`the club`), which provides social, recreational and sporting facilities to its members. In order to join the club, a membership has to be purchased, either directly from the club, or from someone who is presently a member through the open market. Where memberships are purchased from the club directly, the potential member is required to pay a fee of which 15% constitutes a `membership fee` and 85% constitutes an `initiation deposit` which is refundable after 30 years. The appellants` tax liabilities in respect of the initiation deposits became the subject-matter of the appeal before us. 
 
-The appeal was brought against the decision of Tan Lee Meng J who dismissed the appellants` appeal against the decision of the Income Tax Board of Review upholding the respondent`s refusal to amend two Notices of Assessment which required the appellants to pay $2,115,234 and $122,056.11. These sums were the tax assessed in respect of the initiation deposits for the years 1986 and 1989 respectively. [See [2000] 2 SLR 43.] 
+The appeal was brought against the decision of Tan Lee Meng J who dismissed the appellants` appeal against the decision of the Income Tax Board of Review upholding the respondent`s refusal to amend two Notices of Assessment which required the appellants to pay $2,115,234 and $122,056.11. These sums were the tax assessed in respect of the initiation deposits for the years 1986 and 1989 respectively. [See <span class="citation">[2000] 2 SLR 43</span>.] 
 
 **_Background_** 
 

@@ -57,7 +57,7 @@ defendant for having induced the first defendant to breach the contract.
 
 11     Although counsel for the defendants was convinced that the application must succeed, it was dismissed by the senior assistant registrar who heard it, and I dismissed the defendants’ appeal against that decision. I will explain why the application had failed. 
 
-12     The defendants relied on the decision in _Chong Hon Kuan Ivan v Levy Maurice (No 2)_ [2004] 4 SLR 801. In that case, the defendant, Maurice Levy (“Levy”), was a director of a company, Publicis Eureka Pte Ltd (“Publicis”). The plaintiff, Chong Hon Kuan Ivan (“Chong”), had been the managing director and chief executive officer of Publicis, whose employment was terminated by Publicis. 
+12     The defendants relied on the decision in _Chong Hon Kuan Ivan v Levy Maurice (No 2)_ <span class="citation">[2004] 4 SLR 801</span>. In that case, the defendant, Maurice Levy (“Levy”), was a director of a company, Publicis Eureka Pte Ltd (“Publicis”). The plaintiff, Chong Hon Kuan Ivan (“Chong”), had been the managing director and chief executive officer of Publicis, whose employment was terminated by Publicis. 
 
 13     Chong commenced action against Publicis and Levy and other directors of Publicis. Chong’s claim against Levy was that Levy had conspired with the other directors of Publicis to induce Publicis to terminate his employment, and his claim against Publicis was for the wrongful termination of his employment agreement. 
 

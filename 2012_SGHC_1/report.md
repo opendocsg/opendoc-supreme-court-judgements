@@ -129,7 +129,7 @@ justified. [note: 10] He also raised the defence of qualified privilege. [note: 
 
 **_The District Judge’s first decision_** 
 
-8       The District Judge dismissed the Respondent’s claim (see _Koh Poh Seng v Low Leong Meng_ [2010] SGDC 256) (“the District Judge’s First Decision”). He held that the Email was not defamatory. [note: 12] In his view, the substance of the Email was this (see the District Judge’s First Decision at 
+8       The District Judge dismissed the Respondent’s claim (see _Koh Poh Seng v Low Leong Meng_ <span class="citation">[2010] SGDC 256</span>) (“the District Judge’s First Decision”). He held that the Email was not defamatory. [note: 12] In his view, the substance of the Email was this (see the District Judge’s First Decision at 
 
 [21] [note: 13] : 
 
@@ -178,7 +178,7 @@ costs arising before and in the trial. [note: 20]
 
 **_The District Judge’s second decision_** 
 
-15     The District Judge then heard submissions on costs. He reaffirmed his decision that each party should bear its own costs (see _Koh Poh Seng v Low Leong Meng_ [2011] SGDC 130) (“the District 
+15     The District Judge then heard submissions on costs. He reaffirmed his decision that each party should bear its own costs (see _Koh Poh Seng v Low Leong Meng_ <span class="citation">[2011] SGDC 130</span>) (“the District 
 
 Judge’s Second Decision”). [note: 21] He reasoned that although his remarks at trial may have suggested that he considered the issue of whether the Respondent was a shadow director to be relevant, he was bound to keep an open mind. His views on the meaning of the Email only crystallised as he reviewed the case for the purpose of making his decision (see the District Judge’s Second 
 
@@ -248,7 +248,7 @@ pre-trial costs for which the costs order was costs in the cause. [note: 39]
 
 23     The Appellant also argued that although costs are in the discretion of the court, an appellate court may intervene if the discretion has been “manifestly exercised wrongly or exercised on wrong 
 
-principles” (citing _Tullio Planeta v Maoro Andrea G_ [1994] 2 SLR(R) 501 [note: 40] (“ _Tullio Planeta_ ”) at 
+principles” (citing _Tullio Planeta v Maoro Andrea G_ <span class="citation">[1994] 2 SLR(R) 501</span> [note: 40] (“ _Tullio Planeta_ ”) at 
 
 [22]). [note: 41] The District Judge’s exercise of discretion was manifestly wrong. The Appellant did 
 
@@ -291,7 +291,7 @@ defamatory, he should have appealed against that aspect of his decision in the F
 
  [emphasis added in bold italics] 
 
-A summary of the applicable principles may also be found in my decision in _Raffles Town Club Pte Ltd v Lim Eng Hock Peter and others (Tung Yu-Lien Margaret and others, third parties)_ [2011] 1 SLR 582 at [34]–[36]. 
+A summary of the applicable principles may also be found in my decision in _Raffles Town Club Pte Ltd v Lim Eng Hock Peter and others (Tung Yu-Lien Margaret and others, third parties)_ <span class="citation">[2011] 1 SLR 582</span> at [34]–[36]. 
 
 **_My decision_** 
 
@@ -310,7 +310,7 @@ A summary of the applicable principles may also be found in my decision in _Raff
 
 I should also mention that, at the hearing before me, I asked the Respondent’s counsel to bring to my attention any part of the District Judge’s notes of evidence in which he ( _ie_ , the District Judge) indicated that the issue of whether the Respondent was a shadow director was irrelevant. The Respondent was not able to refer me to any such indication. 
 
-33     Second, and perhaps more importantly, although the District Judge’s finding that the Email was not defamatory is not on appeal, it was _at least arguable_ that the Email was defamatory. It is well established that the test for determining the natural and ordinary meaning of allegedly defamatory words is the meaning that the words would “convey to an ordinary reasonable person, not unduly suspicious or avid for scandal, using his general knowledge and common sense” (see _Review Publishing Co Ltd and another v Lee Hsien Loong and another appeal_ [2010] 1 SLR 52 at [27]). In my view, the natural and ordinary meaning of the Email was that the Respondent was diverting business from DMS (his employer) to IT Wireless, a company of which he was a shadow director and from which he was receiving dividends. It is arguable that this meaning of the Email was defamatory. It is, of course, not defamatory to simply call someone a shadow director. However, the Email goes beyond that. The suggestion is that the Respondent was engaged in self-dealing. In establishing the defence of justification which the Appellant had pleaded as one of his defences, the Appellant would have to prove, _inter alia_ , at the trial that the Respondent was indeed a shadow director of IT Wireless, the company that the Respondent was diverting business to whilst as an employee of DMS. If it was arguable that the Email was defamatory, then the Appellant’s conduct of the litigation in the proceedings below was reasonable. There was no reason therefore to depart from the general rule that costs should follow the event. 
+33     Second, and perhaps more importantly, although the District Judge’s finding that the Email was not defamatory is not on appeal, it was _at least arguable_ that the Email was defamatory. It is well established that the test for determining the natural and ordinary meaning of allegedly defamatory words is the meaning that the words would “convey to an ordinary reasonable person, not unduly suspicious or avid for scandal, using his general knowledge and common sense” (see _Review Publishing Co Ltd and another v Lee Hsien Loong and another appeal_ <span class="citation">[2010] 1 SLR 52</span> at [27]). In my view, the natural and ordinary meaning of the Email was that the Respondent was diverting business from DMS (his employer) to IT Wireless, a company of which he was a shadow director and from which he was receiving dividends. It is arguable that this meaning of the Email was defamatory. It is, of course, not defamatory to simply call someone a shadow director. However, the Email goes beyond that. The suggestion is that the Respondent was engaged in self-dealing. In establishing the defence of justification which the Appellant had pleaded as one of his defences, the Appellant would have to prove, _inter alia_ , at the trial that the Respondent was indeed a shadow director of IT Wireless, the company that the Respondent was diverting business to whilst as an employee of DMS. If it was arguable that the Email was defamatory, then the Appellant’s conduct of the litigation in the proceedings below was reasonable. There was no reason therefore to depart from the general rule that costs should follow the event. 
 
 
 34     Since the Appellant’s conduct of the litigation in the proceedings below was reasonable, the general rule that costs follow the event should have been followed. 

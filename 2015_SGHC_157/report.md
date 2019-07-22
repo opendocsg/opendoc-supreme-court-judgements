@@ -18,7 +18,7 @@ _Insolvency Law_ – _Bankruptcy_ – _Statutory Demand_
 
 _Civil Procedure_ – _Extension of Time_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 32 of 2015 was dismissed by the Court of Appeal on 21 January 2016. See [2016] SGCA 23.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 32 of 2015 was dismissed by the Court of Appeal on 21 January 2016. See <span class="citation">[2016] SGCA 23</span>.] 
 
 15 June 2015 
 
@@ -59,7 +59,7 @@ this issue first.
 
 5       Mr Thuraisingam, counsel for the Plaintiff, contended that the word “security” in the phrases in italics refers to all security held by the creditor in relation to the debt (“the all-security construction”). The Defendant took the position that the word “security” refers only to security provided by the debtor to whom the SD was issued (“the debtor’s-security construction”). This issue arose because the assets pledged by TGL were not specified in the SD. 
 
-6       The proper meaning of “security” in rr 94(5) and 98(2) had been dealt with and settled in two cases, namely, _Re Loh Lee Keow and another, ex parte Keppel TatLee Bank Ltd_ [2000] 3 SLR(R) 283 (“ _Re Low Lee Keow_ ”) and _Sia Leng Yuen v HKR Properties Ltd_ [2001] 3 SLR(R) 587 (“ _Sia Leng Yuen_ ”). In _Re Loh Lee Keow_ , Woo Bih Li JC (as he then was) undertook a careful analysis of rr 94(5), 98(2) (c), 101(2), and Form 2 of the BR, and ss 63(1) and (2) of the Bankruptcy Act (Cap 20, 2000 Rev Ed) (“BA”). His conclusion was that the word “security” in rr 94(5) and 98(2) means security on the property of the debtor in the bankruptcy proceedings. He explained (at [33]) that: 
+6       The proper meaning of “security” in rr 94(5) and 98(2) had been dealt with and settled in two cases, namely, _Re Loh Lee Keow and another, ex parte Keppel TatLee Bank Ltd_ <span class="citation">[2000] 3 SLR(R) 283</span> (“ _Re Low Lee Keow_ ”) and _Sia Leng Yuen v HKR Properties Ltd_ <span class="citation">[2001] 3 SLR(R) 587</span> (“ _Sia Leng Yuen_ ”). In _Re Loh Lee Keow_ , Woo Bih Li JC (as he then was) undertook a careful analysis of rr 94(5), 98(2) (c), 101(2), and Form 2 of the BR, and ss 63(1) and (2) of the Bankruptcy Act (Cap 20, 2000 Rev Ed) (“BA”). His conclusion was that the word “security” in rr 94(5) and 98(2) means security on the property of the debtor in the bankruptcy proceedings. He explained (at [33]) that: 
 
  It does not make sense that while the creditor’s petition does not have to mention a security on the property of a third party, the court should be obliged to take the third party’s security into account in deciding whether to make a bankruptcy order on hearing the petition. 
 
@@ -86,7 +86,7 @@ this issue first.
 
  In the interpretation of a provision of a written law, an interpretation that would promote the purpose or object underlying the written law (whether that purpose or object is expressly stated in the written law or not) shall be preferred to an interpretation that would not promote that purpose or object. 
 
-Mr Thuraisingam then referred to _Dorsey James Michael v World Sport Group Pte Ltd_ [2013] 3 SLR 354, in which the Court of Appeal confirmed at [18] that the purposive approach mandated by s 9A(1) takes precedence over any other common law principle of statutory interpretation, and argued that the “overarching object” of the BA and BR is to give debtors “an opportunity to make a fresh start in their financial matters while recognizing the rights of the creditors.” However, he did not provide any support for that construction. 
+Mr Thuraisingam then referred to _Dorsey James Michael v World Sport Group Pte Ltd_ <span class="citation">[2013] 3 SLR 354</span>, in which the Court of Appeal confirmed at [18] that the purposive approach mandated by s 9A(1) takes precedence over any other common law principle of statutory interpretation, and argued that the “overarching object” of the BA and BR is to give debtors “an opportunity to make a fresh start in their financial matters while recognizing the rights of the creditors.” However, he did not provide any support for that construction. 
 
 13     The Defendant, on the other hand, contended that Parliament’s intention was to arrive at a proper balance between the interests of the debtor, the creditor and society in bankruptcy proceedings. The Defendant referred to the speech of Minister of Law Prof S Jayakumar at the Second Reading of the Bankruptcy Bill (Bill 16 of 1994) in the lead up to the enactment of the BA 
 
@@ -126,7 +126,7 @@ There were no other reasons offered for the delay.
 
  The court may, upon the application of the debtor, allow the debtor an extension of time to make his application to set aside the statutory demand. 
 
-22     The BR do not provide any guidelines for the exercise of the court’s discretion, and there is no reported decision on this provision. However, I considered this question in _Rafat Ali Rizvi v Ing Bank Hong Kong Branch_ [2011] SGHC 114 and held at [32] that: 
+22     The BR do not provide any guidelines for the exercise of the court’s discretion, and there is no reported decision on this provision. However, I considered this question in _Rafat Ali Rizvi v Ing Bank Hong Kong Branch_ <span class="citation">[2011] SGHC 114</span> and held at [32] that: 
 
  Rule 97(1)(a) provides that the application was to be filed within 14 days from the service of the statutory demand. Rule 97(3) empowers a court to extend the period the period. When an application is made for an extension of time, a court would have to take into consideration: 
 

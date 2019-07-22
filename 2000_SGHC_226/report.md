@@ -314,7 +314,7 @@ August 1996.
 
 ## their value. This fact may be proved.’ 
 
-63\. Also, as Chong was denying that he had received $500,000 in payment of the alleged sale of his interest to Mdm Ng, the acknowledgment of receipt of $500,000 in the Agreement does not prevent him from giving evidence on his denial , see _Fook Gee Finance Co Ltd v Liu Cho Chit & another action_ [1998] 2 SLR 121. 
+63\. Also, as Chong was denying that he had received $500,000 in payment of the alleged sale of his interest to Mdm Ng, the acknowledgment of receipt of $500,000 in the Agreement does not prevent him from giving evidence on his denial , see _Fook Gee Finance Co Ltd v Liu Cho Chit & another action_ <span class="citation">[1998] 2 SLR 121</span>. 
 
 64\. I also note that Mdm Ng’s version was not that she actually paid Chong $500,000 but that he received it by way of set-off. 
 

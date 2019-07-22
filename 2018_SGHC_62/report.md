@@ -101,7 +101,7 @@ charge (“D”) and the SOF. [note: 13] The accused’s inconsistent stance was
 
 17     The foregoing findings raised the scenario that between 28 July 2017 and 11 September 2017, the accused had not notified his counsel or anyone else about the involuntariness of his plea, or his emotional state. I had serious doubts about the accused’s _bona fides_ in this application and the truthfulness of the reasons stated for the change of plea. 
 
-18     In any event, the accused had not provided the court with “valid and sufficient grounds which satisfy the [trial judge] that it is proper and in the interests of justice that he should be allowed to” retract his plea, or that indicated a qualification of his plea ( _Ganesun s/o Kannan v Public Prosecutor_ [1996] 3 SLR(R) 125 (“ _Ganesun_ ”) at [12], citing _Public Prosecutor v Sam Kim Kai_ [1960] MLJ 265). 
+18     In any event, the accused had not provided the court with “valid and sufficient grounds which satisfy the [trial judge] that it is proper and in the interests of justice that he should be allowed to” retract his plea, or that indicated a qualification of his plea ( _Ganesun s/o Kannan v Public Prosecutor_ <span class="citation">[1996] 3 SLR(R) 125</span> (“ _Ganesun_ ”) at [12], citing _Public Prosecutor v Sam Kim Kai_ [1960] MLJ 265). 
 
 19     The above was reflected in s 228(4) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”), which states: 
 
@@ -112,9 +112,9 @@ charge (“D”) and the SOF. [note: 13] The accused’s inconsistent stance was
 
 matter that may come to the notice of the court. [note: 14] 
 
-21     In the ordinary course, the circumstances of the qualification would have made it obvious, or upon closer elucidation the court would have discerned, that an accused was manifestly labouring under a mistake or misunderstanding (see _Ganesun_ at [13], _Md Rafiqul Islam Abdul Aziz v Public Prosecutor_ [2017] 3 SLR 619 at [32], [33]). Indeed, s 228(4) of the CPC was generally invoked in situations where despite an accused’s insistence on pleading guilty, the court could not accept the 
+21     In the ordinary course, the circumstances of the qualification would have made it obvious, or upon closer elucidation the court would have discerned, that an accused was manifestly labouring under a mistake or misunderstanding (see _Ganesun_ at [13], _Md Rafiqul Islam Abdul Aziz v Public Prosecutor_ <span class="citation">[2017] 3 SLR 619</span> at [32], [33]). Indeed, s 228(4) of the CPC was generally invoked in situations where despite an accused’s insistence on pleading guilty, the court could not accept the 
 
-plea, as it was not a _knowing_ plea of guilt at first instance. [note: 15] This was similar to where the situation revealed some undue pressure, alerting the court that the initial plea was not _voluntarily_ entered into ( _Chng Leng Khim v Public Prosecutor and another matter_ [2016] 5 SLR 1219 at [18]). These situations showed that despite adherence to the procedural safeguards of s 227(2) of the CPC and the admission to the Statement of Facts, an accused had manifestly not understood his plea or did not genuinely have the freedom to choose how to plead and the court must reject the plea ( _Thong Sing Hock v Public Prosecutor_ [2009] 3 SLR(R) 47 at [23]). 
+plea, as it was not a _knowing_ plea of guilt at first instance. [note: 15] This was similar to where the situation revealed some undue pressure, alerting the court that the initial plea was not _voluntarily_ entered into ( _Chng Leng Khim v Public Prosecutor and another matter_ <span class="citation">[2016] 5 SLR 1219</span> at [18]). These situations showed that despite adherence to the procedural safeguards of s 227(2) of the CPC and the admission to the Statement of Facts, an accused had manifestly not understood his plea or did not genuinely have the freedom to choose how to plead and the court must reject the plea ( _Thong Sing Hock v Public Prosecutor_ <span class="citation">[2009] 3 SLR(R) 47</span> at [23]). 
 
 22     In the other scenario, there would be situations where an accused applied to retract his plea after what appeared to be a considered and voluntary plea. The court was duty bound to enquire into the reasons for the change in mind because an “accused person cannot be permitted merely at whim to change his plea” ( _Ganesun_ at [12], citing _Public Prosecutor v Sam Kim Kai_ [1960] MLJ 265). More seriously, a purely tactical decision by an accused to resile from a valid plea might represent an 
 
@@ -132,7 +132,7 @@ reduced charge and the SOF. [note: 18]
 
  [Emphases added] 
 
-25     Notwithstanding the constitutional context in _Brady_ , I found these observations apposite. In our system, an accused’s plea of guilt similarly formed the legal basis for the accused’s conviction without a full trial and the attendant consequences (see _Koh Bak Kiang v Public Prosecutor_ [2016] 2 SLR 574 at [43]). As such, if the accused were able to show valid and sufficient grounds for the retraction of his plea, then like the qualification of plea situations mentioned, the court was duty bound to allow the application for retraction. 
+25     Notwithstanding the constitutional context in _Brady_ , I found these observations apposite. In our system, an accused’s plea of guilt similarly formed the legal basis for the accused’s conviction without a full trial and the attendant consequences (see _Koh Bak Kiang v Public Prosecutor_ <span class="citation">[2016] 2 SLR 574</span> at [43]). As such, if the accused were able to show valid and sufficient grounds for the retraction of his plea, then like the qualification of plea situations mentioned, the court was duty bound to allow the application for retraction. 
 
 
 26     Because of the grave consequences of a guilty plea, it had to be taken with care and due attention to the substantive nature of the plea. In this case, Mr Pereira and I had repeatedly clarified with the accused that he understood the nature and consequences of his plea and that he wanted to 
@@ -145,11 +145,11 @@ delivering contained two packets of heroin. [note: 20] It must be appreciated th
 
 that knowledge, the accused “agreed to plead guilty”. [note: 21] Borrowing from the language of _Brady_ (at p 749), the accused’s plea was in essence an unequivocal admission to the offence; he stood “as witness against himself”. 
 
-28     I was mindful of the danger of accused persons pleading guilty despite their innocence (see comments in _Public Prosecutor v Liew Kim Choo_ [1997] 2 SLR(R) 716 at [89(a)]). I was also sympathetic that accused persons faced powerful pressures to plead guilty in the case of capital charges that were reduced. However, even if I accepted Mr Tiwary’s submission that the accused 
+28     I was mindful of the danger of accused persons pleading guilty despite their innocence (see comments in _Public Prosecutor v Liew Kim Choo_ <span class="citation">[1997] 2 SLR(R) 716</span> at [89(a)]). I was also sympathetic that accused persons faced powerful pressures to plead guilty in the case of capital charges that were reduced. However, even if I accepted Mr Tiwary’s submission that the accused 
 
 was affected by emotional pressure, “albeit one that was not caused by anyone else”, [note: 22] that was a far cry from a situation of an involuntary plea. Even if his allegations were true, that would only amount to self-induced pressure, which was not a valid ground for retraction under the law ( _Lee Eng_ 
 
-_Hock v Public Prosecutor_ [2002] 1 SLR(R) 204 at [9]). [note: 23] 
+_Hock v Public Prosecutor_ <span class="citation">[2002] 1 SLR(R) 204</span> at [9]). [note: 23] 
 
 29     As was the case, I had serious doubts about the accused’s alleged “depressed” [note: 24] and 
 
@@ -225,11 +225,11 @@ Shanti delivered to Zainudin on the same day. [note: 39]
 
 bundles of drugs to Shanti in Singapore: 30 April 2014, 13 May 2014, and 14 May 2014. [note: 42] 
 
-45     Zainudin and Shanti were subsequently charged for trafficking in not less than 22.73g of diamorphine under the MDA. They claimed trial, and their matters were heard before See Kee Oon JC (as he then was) from August to September 2016. On 30 September 2016, both were convicted of their respective charges. Shanti, who satisfied the conditions of s 33B(2) of the MDA, was sentenced to life imprisonment. Zainudin, who failed to satisfy either of the two conditions under s 33B(2), was sentenced to suffer death: _Public Prosecutor v Zainudin bin Mohamed and another_ [2017] 3 SLR 317. [note: 43] Shanti’s appeal against conviction and sentence was dismissed (CCA 30/2016). [note: 44] 
+45     Zainudin and Shanti were subsequently charged for trafficking in not less than 22.73g of diamorphine under the MDA. They claimed trial, and their matters were heard before See Kee Oon JC (as he then was) from August to September 2016. On 30 September 2016, both were convicted of their respective charges. Shanti, who satisfied the conditions of s 33B(2) of the MDA, was sentenced to life imprisonment. Zainudin, who failed to satisfy either of the two conditions under s 33B(2), was sentenced to suffer death: _Public Prosecutor v Zainudin bin Mohamed and another_ <span class="citation">[2017] 3 SLR 317</span>. [note: 43] Shanti’s appeal against conviction and sentence was dismissed (CCA 30/2016). [note: 44] 
 
-Zainudin’s appeal against sentence was dismissed ( _Zainudin bin Mohamed v Public Prosecutor_ [2018] SGCA 8). 
+Zainudin’s appeal against sentence was dismissed ( _Zainudin bin Mohamed v Public Prosecutor_ <span class="citation">[2018] SGCA 8</span>). 
 
-46     For the purposes of sentence, I found that the recent Court of Appeal decision of _Suventher Shanmugam v Public Prosecutor_ [2017] 2 SLR 115 (“ _Suventher_ ”) and the High Court’s decision in _Vasentha d/o Joseph v Public Prosecutor_ [2015] 5 SLR 122 (“ _Vasentha_ ”) were most relevant. I had recently discussed and applied _Suventher_ (which adopted _Vasentha_ ) in _Public Prosecutor v Hari Krishnan Selvan_ [2017] SGHC 168 (“ _Hari Krishnan_ ”) (at [14]–[16]). In _Hari Krishnan_ at [17] and [20], I further considered the unreported cases of _Public Prosecutor v Tamil Alagan a/l Gunasekaran_ (CC 
+46     For the purposes of sentence, I found that the recent Court of Appeal decision of _Suventher Shanmugam v Public Prosecutor_ <span class="citation">[2017] 2 SLR 115</span> (“ _Suventher_ ”) and the High Court’s decision in _Vasentha d/o Joseph v Public Prosecutor_ <span class="citation">[2015] 5 SLR 122</span> (“ _Vasentha_ ”) were most relevant. I had recently discussed and applied _Suventher_ (which adopted _Vasentha_ ) in _Public Prosecutor v Hari Krishnan Selvan_ <span class="citation">[2017] SGHC 168</span> (“ _Hari Krishnan_ ”) (at [14]–[16]). In _Hari Krishnan_ at [17] and [20], I further considered the unreported cases of _Public Prosecutor v Tamil Alagan a/l Gunasekaran_ (CC 
 
 38/2017) (“ _Tamil Alagan_ ”) [note: 45] and _Public Prosecutor v Jothiswaran a/l Arumugam_ (CC 34/2017) (“ _Jothiswaran_ ”). 
 

@@ -39,7 +39,7 @@ Ah Poh. It was fixed for hearing on the day following the hearing before me. Cou
 
 7       I was also informed by both counsel of the two opposing creditors that they collectively represented 34% in value of the creditors and their clients would definitely vote against the scheme. Under s 210(3) of the Act, among other things, a majority in number representing three-fourths in value of the creditors, voting in person or by proxy, have to vote in favour of the scheme at the meeting ordered by the court before the scheme of compromise can bind all the creditors of the applicant. In the result, it was not seriously disputed before me that the applicant would not have been able to have the scheme approved, so that it would be legally binding on all its creditors. 
 
-8       In considering an application under s 210 of the Act, a court has to consider the overall fairness of the scheme and the prospects of its acceptance by 75% in value of the creditors: see _Re Halley’s Departmental Store Pte Ltd_ [1996] 2 SLR 70 at 74, [16]–[17]. 
+8       In considering an application under s 210 of the Act, a court has to consider the overall fairness of the scheme and the prospects of its acceptance by 75% in value of the creditors: see _Re Halley’s Departmental Store Pte Ltd_ <span class="citation">[1996] 2 SLR 70</span> at 74, [16]–[17]. 
 
 9       I did not think that there was any prospect of the scheme receiving the approval of the requisite three-fourths in value of the creditors. I did not think that a court should act in vain. 
 

@@ -58,7 +58,7 @@ This result would have been unexceptional if not for the conspicuously unfortuna
 
 12     In addition, it was highlighted that there was, at the material time, no central database of information relating to criminal investigations of suspected wrongdoers. This systemic problem was further exacerbated by several changes of the investigating officers designated to handle the investigations pertaining to the appellant. This combination of factors culminated in a failure to ensure proper and timeous co-ordination of the investigations. 
 
-13     Notwithstanding the unusual sequence of events, the District Judge (in _PP v Randy Chan Kum Hong_ [2007] SGDC 232 (“the GD”)) refused to award any discount on sentence on the following grounds (at [12]): 
+13     Notwithstanding the unusual sequence of events, the District Judge (in _PP v Randy Chan Kum Hong_ <span class="citation">[2007] SGDC 232</span> (“the GD”)) refused to award any discount on sentence on the following grounds (at [12]): 
 
  The defence had submitted that there was a delay in the prosecution of these offences. However, the prosecution had pointed out that the delay was the accused [ sic ] own undoing as he did not inform the investigating officers when he was first under investigation that he had committed the present set of offences proceeded with [ ie , the offences constituting the 2007 charges]. This was compounded by the accused having committed different sets of offences ranging from cheating, forgery, theft and criminal breach of trust which were investigated by a few police divisions. 
 
@@ -91,7 +91,7 @@ Century” in _The Singapore Conference: Leading the Law and Lawyers into the Ne
 
 20     The effect which prosecutorial delay may have (if any) on sentencing has been incisively examined by D A Thomas in _Principles of Sentencing: The Sentencing Policy of the Court of Appeal Criminal Division_ (Heinemann, 2nd Ed, 1979). He notes (at p 220) that the generic practice of mitigating a sentence to alleviate a legitimate grievance which the offender has suffered _as a result of the way the case against him was conducted_ extends to instances of “long delays between the discovery of the offence and the commencement of the prosecution, with the result that the offender suffers a prolonged period of suspen[s]e and anxiety”. 
 
-21     More recently, the effect of prosecutorial delay on sentencing was considered in the local context by Yong Pung How CJ in _Tan Kiang Kwang v PP_ [1996] 1 SLR 280 (“ _Tan Kiang Kwang_ ”) in the following terms (at 286, [20]): 
+21     More recently, the effect of prosecutorial delay on sentencing was considered in the local context by Yong Pung How CJ in _Tan Kiang Kwang v PP_ <span class="citation">[1996] 1 SLR 280</span> (“ _Tan Kiang Kwang_ ”) in the following terms (at 286, [20]): 
 
  [I]n appropriate cases, the court may exercise its discretion to order a ‘discount’ in sentence, if there has been a significant delay in prosecution which has not been contributed to in any way by an accused person, if it would otherwise result in real injustice or prejudice to the accused. [emphasis added] 
 
@@ -106,7 +106,7 @@ _Considerations of fairness_
 
 24     This was further elucidated in the subsequent case of _R v Schwabegger_ (1998) 4 VR 649, where Vincent AJA stated (at 659–660): “a legitimate sense of unfairness can develop when the criminal justice process proceeds in what can be perceived as too leisurely a fashion”. In the same vein, the court in _Tan Kiang Kwang_ (at 286, [20]) acknowledged that where there had been prosecutorial delay, “the accused [might] have to suffer the stress and uncertainty of having the matter hanging over his head for an unduly long or indefinite period”, and stated that this was a relevant factor in assessing if a discount in sentencing was warranted (see also _R v Miceli_ (1998) 4 VR 588 and _R v King_ [2007] VSCA 38). 
 
-25     It also bears mention in this context that there is a parallel line of authorities which discusses the court’s discretion to _stay_ criminal proceedings where there has been prosecutorial delay on the ground that it would not be possible to conduct a fair trial. In _PP v Saroop Singh_ [1999] 1 SLR 793, the court emphasised the relevance of inquiring into whether the delay was attributable to the offender’s conduct and reiterated (at [18]) that: 
+25     It also bears mention in this context that there is a parallel line of authorities which discusses the court’s discretion to _stay_ criminal proceedings where there has been prosecutorial delay on the ground that it would not be possible to conduct a fair trial. In _PP v Saroop Singh_ <span class="citation">[1999] 1 SLR 793</span>, the court emphasised the relevance of inquiring into whether the delay was attributable to the offender’s conduct and reiterated (at [18]) that: 
 
  A stay [of criminal proceedings] should rarely be imposed in the absence of any fault on the part of the complainant or prosecution and should never be imposed where the delay was due merely to the complexity of the case or was caused or contributed to by the actions of the [accused] himself ... 
 
@@ -240,7 +240,7 @@ There is indeed a strong public interest in reintegrating ex-offenders into soci
 
 has already spent more than six years racked by the agonising uncertainty occasioned needlessly by rather slipshod investigations. 
 
-66     The extraordinary confluence of the above factors ineluctably shifted the retributive, preventive and deterrent components of the sentencing equation in this appeal. A further term of imprisonment was quite clearly not warranted. Indeed, it would be apposite to refer to the following extract from _Lai Oei Mui Jenny v PP_ [1993] 3 SLR 305, where Yong CJ astutely observed (at 308, [13]): 
+66     The extraordinary confluence of the above factors ineluctably shifted the retributive, preventive and deterrent components of the sentencing equation in this appeal. A further term of imprisonment was quite clearly not warranted. Indeed, it would be apposite to refer to the following extract from _Lai Oei Mui Jenny v PP_ <span class="citation">[1993] 3 SLR 305</span>, where Yong CJ astutely observed (at 308, [13]): 
 
  The circumstances which might persuade a court, in mercy, to reduce what would otherwise be the proper sentence cannot be prescribed and will vary not only from one jurisdiction to another but also from case to case. It seems to me that they ought to be quite exceptional before a reduction of the proper sentence would be justified. 
 

@@ -26,7 +26,7 @@ _Trusts_ – _Breach of trust_ – _Identification of trust property_ – _Admin
 
 **Judith Prakash J:** 
 
-1       This appeal is one of three arising out of an inquiry conducted by Assistant Registrar Phang Hsiao Chung (“AR Phang”) into the assets of the estate of Ong Seng King (also known as Ong Seng Keng, Ong Keng Seng, Ong King Seng and Arief Husni) (“the deceased”). The parties participating in the inquiry are all beneficiaries of the estate of the deceased. Before the High Court, AR Phang’s findings were contested: see [2003] SGHC 126. Those appeals were, however, dismissed by Choo Han Teck J ([2004] SGHC 131) and the parties have now appealed further. 
+1       This appeal is one of three arising out of an inquiry conducted by Assistant Registrar Phang Hsiao Chung (“AR Phang”) into the assets of the estate of Ong Seng King (also known as Ong Seng Keng, Ong Keng Seng, Ong King Seng and Arief Husni) (“the deceased”). The parties participating in the inquiry are all beneficiaries of the estate of the deceased. Before the High Court, AR Phang’s findings were contested: see <span class="citation">[2003] SGHC 126</span>. Those appeals were, however, dismissed by Choo Han Teck J (<span class="citation">[2004] SGHC 131</span>) and the parties have now appealed further. 
 
 **Background** 
 
@@ -43,7 +43,7 @@ _Trusts_ – _Breach of trust_ – _Identification of trust property_ – _Admin
 
 **The decision in OS 939/** 
 
-7       The action was heard by Chao Hick Tin J (as he then was). In his judgment of 16 July 1996 ([1996] SGHC 140), Chao J found that the deed of release by which S T Ong had relinquished his rights to the estate was void and unenforceable as Mdm Lim had used undue influence in order to procure its execution. The deed of assignment in favour of Jane Ong was found to be valid and it was determined that she was, accordingly, entitled to a half-share of S T Ong’s interest in the estate. Chao J then directed that an enquiry be held to determine: 
+7       The action was heard by Chao Hick Tin J (as he then was). In his judgment of 16 July 1996 (<span class="citation">[1996] SGHC 140</span>), Chao J found that the deed of release by which S T Ong had relinquished his rights to the estate was void and unenforceable as Mdm Lim had used undue influence in order to procure its execution. The deed of assignment in favour of Jane Ong was found to be valid and it was determined that she was, accordingly, entitled to a half-share of S T Ong’s interest in the estate. Chao J then directed that an enquiry be held to determine: 
 
  (a) the assets of the estate and their whereabouts; 
 
@@ -55,7 +55,7 @@ _Trusts_ – _Breach of trust_ – _Identification of trust property_ – _Admin
 
  (e) the quantum of Jane Ong’s share under the deed of assignment. 
 
-8       Both Mdm Lim and S T Ong appealed against Chao J’s findings. By a written judgment dated 16 April 1997 (reported as _Lim Lie Hoa v Ong Jane Rebecca_ [1997] 2 SLR 320), the Court of Appeal dismissed these appeals. Subsequently, in February 2002, Mdm Lim’s younger sons, S P Ong and K T Ong, applied successfully to be added as the third and fourth defendants to OS 939/1991, as, being beneficiaries of the estate, they had an interest in the inquiry to be conducted into the assets of the estate and the amounts received by their elder brother. 
+8       Both Mdm Lim and S T Ong appealed against Chao J’s findings. By a written judgment dated 16 April 1997 (reported as _Lim Lie Hoa v Ong Jane Rebecca_ <span class="citation">[1997] 2 SLR 320</span>), the Court of Appeal dismissed these appeals. Subsequently, in February 2002, Mdm Lim’s younger sons, S P Ong and K T Ong, applied successfully to be added as the third and fourth defendants to OS 939/1991, as, being beneficiaries of the estate, they had an interest in the inquiry to be conducted into the assets of the estate and the amounts received by their elder brother. 
 
 **The inquiry and AR Phang’s decision** 
 
@@ -200,7 +200,7 @@ _Midland Bank_
 
 34     Sometime in 1976, the entire sum of US$1,558,277.86 from Bank Mees & Hope NV was deposited into Mdm Lim’s bank accounts with Midland Bank. Mdm Lim asserted that she also deposited her personal funds into these accounts, although she failed to provide details of the exact amount of personal funds deposited, when they were deposited or which account they were deposited into. 
 
-35     Ordinarily, when a trustee mixes trust funds with her own funds, the law assumes that the whole is subject to the trust: _Caltong (Australia) Pty Ltd v Tong Tien See Construction Pte Ltd_ [2002] 3 SLR 241 (“ _Caltong_ ”). In the absence of any proper accounting of the funds in the accounts from Mdm Lim, AR Phang held that all the funds in the accounts belonged to the estate. However, this did not mean that the entire credit balance of US$1,299,691.04 should be added to the pool of assets. Since the principal sum was derived from the US$1,558,277.86 credit in Bank Mees & Hope NV which had already been included in the valuation, any addition of the principal sum in the Midland Bank accounts would result in double-counting. The only amount that could be added from the Midland Bank funds was the interest earned between 1976 and 4 November 1985, which AR Phang assessed at DM2,708,472.40, £331,043.46 and US$8,752.90. 
+35     Ordinarily, when a trustee mixes trust funds with her own funds, the law assumes that the whole is subject to the trust: _Caltong (Australia) Pty Ltd v Tong Tien See Construction Pte Ltd_ <span class="citation">[2002] 3 SLR 241</span> (“ _Caltong_ ”). In the absence of any proper accounting of the funds in the accounts from Mdm Lim, AR Phang held that all the funds in the accounts belonged to the estate. However, this did not mean that the entire credit balance of US$1,299,691.04 should be added to the pool of assets. Since the principal sum was derived from the US$1,558,277.86 credit in Bank Mees & Hope NV which had already been included in the valuation, any addition of the principal sum in the Midland Bank accounts would result in double-counting. The only amount that could be added from the Midland Bank funds was the interest earned between 1976 and 4 November 1985, which AR Phang assessed at DM2,708,472.40, £331,043.46 and US$8,752.90. 
 
 _Standard Chartered Bank (CI) Limited (“Standard Chartered Bank”)_ 
 
@@ -278,7 +278,7 @@ from the deceased’s estate.
 
 **_Costs_** 
 
-44     AR Phang dealt with the issue of costs in a further judgment dated 30 June 2003: see [2003] SGHC 143. Applying the general rule that costs should follow the event, since Jane Ong had 
+44     AR Phang dealt with the issue of costs in a further judgment dated 30 June 2003: see <span class="citation">[2003] SGHC 143</span>. Applying the general rule that costs should follow the event, since Jane Ong had 
 
 
 obtained judgment for a substantial sum of money as well as declarations that she was entitled to a share in certain assets, AR Phang ordered Mdm Lim to pay Jane Ong’s costs of inquiry. He, however, excluded from this order certain sums that he considered had been unnecessarily and unreasonably incurred. Mdm Lim was also ordered to bear the costs of S T Ong (subject to the exclusion of certain unnecessary and unreasonable costs), S P Ong and K T Ong, as the inquiry was necessitated by her default in administering the estate and they had had to participate in it to protect their respective interests. In addition, S T Ong was also a necessary party to the action as he was a signatory of the deed of release, the deed of assignment and the power of attorney. 
@@ -298,7 +298,7 @@ obtained judgment for a substantial sum of money as well as declarations that sh
 
 upon which it is proposed to contradict the evidence-in-chief given by a witness must generally be put to him so that he may have an opportunity to explain the contradiction. As Jane Ong had failed to put many of her assertions to Mdm Lim during cross-examination, AR Phang discounted Jane Ong’s assertions on these issues. 
 
-50     After reviewing Jane Ong’s allegations, Choo J was in entire agreement with the manner in which AR Phang had applied the rule in _Browne v Dunn_. AR Phang had correctly observed that the rule did not entail having to put every point to a witness. He had rejected only the contentions that went to “the heart of the matter”, and which Jane Ong failed to put to Mdm Lim: see _Dr Lo Sook Ling Adela v Au Mei Yin Christina_ [2002] 1 SLR 408. Such an approach was eminently reasonable. 
+50     After reviewing Jane Ong’s allegations, Choo J was in entire agreement with the manner in which AR Phang had applied the rule in _Browne v Dunn_. AR Phang had correctly observed that the rule did not entail having to put every point to a witness. He had rejected only the contentions that went to “the heart of the matter”, and which Jane Ong failed to put to Mdm Lim: see _Dr Lo Sook Ling Adela v Au Mei Yin Christina_ <span class="citation">[2002] 1 SLR 408</span>. Such an approach was eminently reasonable. 
 
 51     As for Jane Ong’s contentions against AR Phang’s substantive findings on the assets of the estate and their respective valuations, Choo J found that AR Phang had “weighed all the evidence and given credit where it was due, and did not appear to have accepted the evidence lightly, or rejected any carelessly”. Choo J considered that AR Phang’s findings were justified by the evidence and he therefore did not disturb AR Phang’s valuation of the deceased’s estate. 
 
@@ -392,7 +392,7 @@ We entirely agree with Choo J’s observation and have nothing further to add on
 
  (c) Assets in Europe: A deposit of US$3m with Bank Mees & Hope NV. 
 
-Given that Jane Ong is essentially challenging findings of fact made by AR Phang, as an appellate court we must be slow to interfere with any such finding unless it is plainly wrong or against the weight of the evidence: _Peh Eng Leng v Pek Eng Leong_ [1996] 2 SLR 305. 
+Given that Jane Ong is essentially challenging findings of fact made by AR Phang, as an appellate court we must be slow to interfere with any such finding unless it is plainly wrong or against the weight of the evidence: _Peh Eng Leng v Pek Eng Leong_ <span class="citation">[1996] 2 SLR 305</span>. 
 
 72     As regards the Class A assets, Jane Ong claimed that there was circumstantial evidence indicating that these seven properties, bought in Mdm Lim’s name prior to the deceased’s death, in fact belonged to the deceased. In particular, she pointed out that, firstly, Mdm Lim had adduced no evidence to show her source of funds for purchasing the properties, and secondly, expenses related to these properties had been paid with estate moneys. 
 

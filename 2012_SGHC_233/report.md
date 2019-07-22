@@ -238,9 +238,9 @@ Republications and Singapore Republications:
 
 15     I turn first to the plaintiff’s claim in defamation. The place of commission of the tort of defamation is the place in which the defamatory statement is published (see _Dicey, Morris and Collins on The Conflict of Laws_ (Sweet & Maxwell, 14th Ed, 2006) at 35-141). Thus, the Indonesian Publications and Indonesian Republications would be alleged torts committed in Indonesia whilst the Singapore Republications would be alleged torts committed in Singapore. 
 
-16     For the Singapore Republications, the plaintiff need only show that they are actionable under Singapore law. For the Indonesian Publications and Indonesian Republications, however, the double actionability rule requires the plaintiff to show that they are actionable under both Singapore law and Indonesian law (see _Boys v Chaplin_ [1971] 1 AC 356 and _JIO Minerals FZC and others v Mineral Enterprises Ltd_ [2011] 1 SLR 391 at [88]). 
+16     For the Singapore Republications, the plaintiff need only show that they are actionable under Singapore law. For the Indonesian Publications and Indonesian Republications, however, the double actionability rule requires the plaintiff to show that they are actionable under both Singapore law and Indonesian law (see _Boys v Chaplin_ [1971] 1 AC 356 and _JIO Minerals FZC and others v Mineral Enterprises Ltd_ <span class="citation">[2011] 1 SLR 391</span> at [88]). 
 
-17     If the plaintiff proves that the publications and republications are so actionable, the defendant must, in order to avoid liability, prove that he has a defence. For the Singapore Republications, the defendant must prove that he has a defence under Singapore law. However, for the Indonesian Publications and Indonesian Republications, it is sufficient for the defendant to prove that he has a defence under either Singapore law or Indonesian law (See _Cheshire and North’s Private International Law_ (11th ed, Butterworths 1987) at [532] cited with approval in _Low Tuck Kwong v Sukamto Sia_ [2009] SGHC 147 at [14]). 
+17     If the plaintiff proves that the publications and republications are so actionable, the defendant must, in order to avoid liability, prove that he has a defence. For the Singapore Republications, the defendant must prove that he has a defence under Singapore law. However, for the Indonesian Publications and Indonesian Republications, it is sufficient for the defendant to prove that he has a defence under either Singapore law or Indonesian law (See _Cheshire and North’s Private International Law_ (11th ed, Butterworths 1987) at [532] cited with approval in _Low Tuck Kwong v Sukamto Sia_ <span class="citation">[2009] SGHC 147</span> at [14]). 
 
 **_Whether the Indonesian Publications are actionable under Singapore and Indonesian law_** 
 
@@ -255,7 +255,7 @@ _Singapore law_
 
  (c) expose the plaintiff to hatred, contempt or ridicule. (see Gary Chan Kok Yew & Lee Pey Woan, The Law of Torts in Singapore (Academy Publishing, 2011) (“ The Law of Torts in Singapore ”) at 12.014). 
 
-19     The principles applicable to the construction of words based on their natural and ordinary meanings were summarised by the Court of Appeal in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ [2012] 1 SLR 506 (“ _Chan Cheng Wah Bernard_ ”) at [18]: 
+19     The principles applicable to the construction of words based on their natural and ordinary meanings were summarised by the Court of Appeal in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ <span class="citation">[2012] 1 SLR 506</span> (“ _Chan Cheng Wah Bernard_ ”) at [18]: 
 
  (a) the natural and ordinary meaning of a word is that which is conveyed to an ordinary reasonable person; 
 
@@ -394,7 +394,7 @@ _Singapore law_
 
  [emphasis added] 
 
-38     In determining the natural and ordinary meaning of the Indonesian Republications, regard must be had to the republications as a whole (See _Chan Cheng Wah Bernard_ at [18(e)] (at [18] above). Unlike the Indonesian Publications, most of the Indonesian Republications contained the plaintiff’s denial of and response to the defendant’s claim which may be regarded as “the antidote” to “the bane” (see _Lim Eng Hock Peter v Lin Jian Wei and another_ [2009] 2 SLR(R) 1004 at [92]). In this regard, I refer to the three levels of meaning set out in _Chase v News Group Newspapers Ltd_ [2003] EMLR 218 (“ _Chase_ ”), where the Court held that: 
+38     In determining the natural and ordinary meaning of the Indonesian Republications, regard must be had to the republications as a whole (See _Chan Cheng Wah Bernard_ at [18(e)] (at [18] above). Unlike the Indonesian Publications, most of the Indonesian Republications contained the plaintiff’s denial of and response to the defendant’s claim which may be regarded as “the antidote” to “the bane” (see _Lim Eng Hock Peter v Lin Jian Wei and another_ <span class="citation">[2009] 2 SLR(R) 1004</span> at [92]). In this regard, I refer to the three levels of meaning set out in _Chase v News Group Newspapers Ltd_ [2003] EMLR 218 (“ _Chase_ ”), where the Court held that: 
 
  The sting of a libel may be capable of meaning that a claimant has in fact committed some serious act, such as murder. Alternatively, it may be suggested that the words mean that there are reasonable grounds to suspect that he/she has committed such an act. A third possibility is that they may mean that there are grounds for investigating whether he/she has been responsible for such an act. 
 
@@ -406,7 +406,7 @@ Resources, which contained the full text of the 3rd Letter and nothing more, car
 
 defamatory meaning as the 3rd Letter. 
 
-39     In my view, the defendant is responsible for the Indonesian Republications as they are the natural and probable result of the Indonesian Publications (see _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ [1997] 3 SLR(R) 46 at [127]). The Indonesian Republications necessarily arose by reason of the disclosure requirements for public offerings of securities under articles 70, 78, 80 and 81 of the Law of the Republic of Indonesia Number 8 Year 1995 Concerning the Capital Market (“Indonesian Capital Market Law”) and other capital market requirements under Indonesian law. These extend to making such disclosures in the news media. This is supported by the opinions of Dr Winarta and the 
+39     In my view, the defendant is responsible for the Indonesian Republications as they are the natural and probable result of the Indonesian Publications (see _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ <span class="citation">[1997] 3 SLR(R) 46</span> at [127]). The Indonesian Republications necessarily arose by reason of the disclosure requirements for public offerings of securities under articles 70, 78, 80 and 81 of the Law of the Republic of Indonesia Number 8 Year 1995 Concerning the Capital Market (“Indonesian Capital Market Law”) and other capital market requirements under Indonesian law. These extend to making such disclosures in the news media. This is supported by the opinions of Dr Winarta and the 
 
 
 defendant’s Indonesian capital market law expert, Professor Dr Nindyo Pramono (“Professor Pramono”). Thus, the Indonesian Republications are actionable under Singapore law. 
@@ -462,7 +462,7 @@ the same defamatory meaning as the 1st Letter. I find that the remaining Singapo
 
 _Justification_ 
 
-46     In _Arul Chandran v Chew Chin Aik Victor_ [2001] 1 SLR(R) 86 (“ _Arul Chandran_ ”), the Court of Appeal explained (at [28]) that the defence of justification requires the defendant to prove the truth of the defamatory statements: 
+46     In _Arul Chandran v Chew Chin Aik Victor_ <span class="citation">[2001] 1 SLR(R) 86</span> (“ _Arul Chandran_ ”), the Court of Appeal explained (at [28]) that the defence of justification requires the defendant to prove the truth of the defamatory statements: 
 
  [t]he law of defamation presumes that defamatory words are false and the plaintiff need do no more than prove that the defamatory words have been published by the defendant. The burden is then on the defendant, if he wishes to rely on the defence of justification, to prove that those words are true. 
 
@@ -507,7 +507,7 @@ This means that absolute privilege covers everything that is done before a judge
 
  (b) all the Letters fall within Devlin L.J.’s third category as they were necessary to the commencement of proposed legal proceedings by the defendant against the plaintiff to enforce the Common Understanding. 
 
-57     In respect of the first ground, I accept that absolute privilege may in limited occasions be extended beyond court proceedings to proceedings before tribunals which act in a manner similar to courts of law (see _D v Kong Sim Guan_ [2003] 3 SLR(R) 146 at [99]). In _Trapp v Mackie_ [1979] 1 WLR 377 at 379, Lord Diplock set out the following factors to determine if sufficient similarity exists for absolute privilege to apply (at 379): 
+57     In respect of the first ground, I accept that absolute privilege may in limited occasions be extended beyond court proceedings to proceedings before tribunals which act in a manner similar to courts of law (see _D v Kong Sim Guan_ <span class="citation">[2003] 3 SLR(R) 146</span> at [99]). In _Trapp v Mackie_ [1979] 1 WLR 377 at 379, Lord Diplock set out the following factors to determine if sufficient similarity exists for absolute privilege to apply (at 379): 
 
  (a) the authority under which the tribunal acts; 
 
@@ -663,7 +663,7 @@ In _McCarey v Associated Newspapers Ltd_ ( _No. 2_ ) [1965] 2 Q.B. 86 at para 10
 
 “compensatory damages may include not only pecuniary loss and anticipated pecuniary loss or any social disadvantages which result, or may be thought likely to result, from the wrong which has been done”. It was noted in _Gatley_ at para 9.2 that while actual financial loss which is not too remote is recoverable, it is “a comparatively rare case in which evidence of such loss is given, simply because it is not available”. Accordingly, a plaintiff in a defamation action may recover general damages for financial loss that he is able to prove flowed from the defamation. 
 
-80     Under Singapore law, aggravated damages are a component of general compensatory damages (see _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ [1998] 2 SLR(R) 971 at [51]) and are available as a remedy for defamation. The factors that the courts consider in determining damages, including whether aggravated damages are justified, are as follows (see _Halsbury’s Laws of Singapore_ (volume 18) (LexisNexis, 2012 Reissue) (“ _Halsbury’s Laws of Singapore_ ”) at [240.194]): 
+80     Under Singapore law, aggravated damages are a component of general compensatory damages (see _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ <span class="citation">[1998] 2 SLR(R) 971</span> at [51]) and are available as a remedy for defamation. The factors that the courts consider in determining damages, including whether aggravated damages are justified, are as follows (see _Halsbury’s Laws of Singapore_ (volume 18) (LexisNexis, 2012 Reissue) (“ _Halsbury’s Laws of Singapore_ ”) at [240.194]): 
 
  the nature and gravity of the defamatory statement itself; 
 
@@ -690,7 +690,7 @@ The defendant does not dispute that special damages are available under Singapor
 
 issue for the assessment of damages stage of the proceedings. 
 
-82     Finally, under Singapore law, a court which has found a defendant liable for defamation has jurisdiction to grant an injunction restraining “any repetition of the slander or of similar imputations” ( _Lee Kuan Yew v Jeyaretnam Joshua Benjamin_ [1990] 1 SLR(R) 709 at [61]; _Arul Chandran v Chew Chin Aik Victor JP_ (Suit No 1896 of 1998) at [331]). The court will grant such an injunction if it is satisfied that the words are injurious to the plaintiff and there is reason to apprehend further publication by the defendant ( _Gatley_ at [9.28]). The defendant does not dispute that an injunction is a relief that the plaintiff may claim under Singapore law. In this case, I see no grounds for the issue of an injunction as there is no evidence before me as would give rise to an apprehension of further publication of the claims in the Indonesian Publications by the defendant. 
+82     Finally, under Singapore law, a court which has found a defendant liable for defamation has jurisdiction to grant an injunction restraining “any repetition of the slander or of similar imputations” ( _Lee Kuan Yew v Jeyaretnam Joshua Benjamin_ <span class="citation">[1990] 1 SLR(R) 709</span> at [61]; _Arul Chandran v Chew Chin Aik Victor JP_ (Suit No 1896 of 1998) at [331]). The court will grant such an injunction if it is satisfied that the words are injurious to the plaintiff and there is reason to apprehend further publication by the defendant ( _Gatley_ at [9.28]). The defendant does not dispute that an injunction is a relief that the plaintiff may claim under Singapore law. In this case, I see no grounds for the issue of an injunction as there is no evidence before me as would give rise to an apprehension of further publication of the claims in the Indonesian Publications by the defendant. 
 
 _Indonesian law_ 
 
@@ -721,7 +721,7 @@ mitigating circumstances. Thus, what is termed “aggravated damages” under Si
 
 **_Singapore law_** 
 
-89     The elements of the tort of malicious falsehood are as follows (see _WBG Network (Singapore) Pte Ltd v Meridian Life International Pte Ltd and others_ [2008] SGHC 114): 
+89     The elements of the tort of malicious falsehood are as follows (see _WBG Network (Singapore) Pte Ltd v Meridian Life International Pte Ltd and others_ <span class="citation">[2008] SGHC 114</span>): 
 
  (a) the defendant published to third parties words which are false; 
 

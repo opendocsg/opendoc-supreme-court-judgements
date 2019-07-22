@@ -260,7 +260,7 @@ arrest on 8 July 2008, [note: 33] the deceased is alleged to have said “He’s
 
 12 July 2008, [note: 34] the deceased had said in Tamil “[H]e is better than you in bed, that is why I am after him.” In his evidence in court, it was “he climbs better than you, that’s why I’m going for his body.” 
 
-35     The requirements of Exception 1 are well established. The Court of Appeal had pointed out in _Public Prosecutor v Kwan Cin Cheng_ [1998] 1 SLR(R) 434 at [44] that: 
+35     The requirements of Exception 1 are well established. The Court of Appeal had pointed out in _Public Prosecutor v Kwan Cin Cheng_ <span class="citation">[1998] 1 SLR(R) 434</span> at [44] that: 
 
  [T]here are two distinct requirements for the provocation defence to apply: first, a "subjective" requirement that the accused was deprived of his self-control by provocation; and secondly, an "objective" requirement that the provocation should have been "grave and sudden". The latter requirement involves the application of the "reasonable man" test ... 
 
@@ -268,7 +268,7 @@ and the Court of Criminal Appeal explained in _Vijayan v Public Prosecutor_ [197
 
  In every case it depends on the effect of the provocative act on the ordinary man, that is, an ordinary reasonable man belonging to the same class of society as the accused. That is the test which must be applied to ascertain whether or not there was provocation within the meaning of Exception 1 of s 300 of the Penal Code. Whether an act which caused death was done in the heat of passion caused by grave and sudden provocation depends in our opinion on whether the provocative act was such as was likely to cause a reasonable man to lose his self-control and to do the act in question. 
 
-The Court of Criminal Appeal also noted in _Ithinin bin Kamari v Public Prosecutor_ [1993] 1 SLR(R) 547 that the particular characteristics or circumstances of the person in question should also be taken into account when it agreed with Lord Diplock’s judgment in _Director of Public Prosecutions v Camplin_ [1978] AC 705 at 717 that: 
+The Court of Criminal Appeal also noted in _Ithinin bin Kamari v Public Prosecutor_ <span class="citation">[1993] 1 SLR(R) 547</span> that the particular characteristics or circumstances of the person in question should also be taken into account when it agreed with Lord Diplock’s judgment in _Director of Public Prosecutions v Camplin_ [1978] AC 705 at 717 that: 
 
  ... the gravity of verbal provocation may well depend upon the particular characteristics or circumstances of the person to whom a taunt or insult is addressed. To taunt a person because of his race, his physical infirmities or some shameful incident in his past may well be considered by the jury to be more offensive to the person addressed, however equable his temperament, if the facts on which the taunt is founded are true than it would be if they were not. 
 

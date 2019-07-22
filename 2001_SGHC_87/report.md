@@ -146,7 +146,7 @@ that she was away in Melbourne at a patent seminar and would not be back until 4
 
 39\. Mr Singh also repeatedly submitted that there was no material before the Registrar to grant an EOT. He said that even the new affidavits filed for Sky Technology, after the Registrars decision and without leave of court, were not sufficient to persuade the court to allow the appeal for an EOT. 
 
-40\. On the other hand, Mr Lok cited _The Tokai Maru_ [1998] 3 SLR 105. 
+40\. On the other hand, Mr Lok cited _The Tokai Maru_ <span class="citation">[1998] 3 SLR 105</span>. 
 
 41\. In that case, an order was made for AEICs to be exchanged by 11 October 1996. 
 
@@ -188,9 +188,9 @@ Cases involving procedural abuse (such as _Hytrac Conveyors Ltd v Conveyors Inte
 
  [Emphasis added.] 
 
-48\. The distinction between an application to appeal out of time and other applications to extend time was reiterated in the judgment of Lai Kew Chai J for the Court of Appeal in _Lim Hwee Meng v Citadel Investment Pte Ltd_ [1998] 3 SLR 601 which cited _The Tokai Maru_ with approval. 
+48\. The distinction between an application to appeal out of time and other applications to extend time was reiterated in the judgment of Lai Kew Chai J for the Court of Appeal in _Lim Hwee Meng v Citadel Investment Pte Ltd_ <span class="citation">[1998] 3 SLR 601</span> which cited _The Tokai Maru_ with approval. 
 
-4       9. Since then, the observations of Sir Thomas Bingham MR in _Costellow_ have been cited again with approval in the judgment of L P Thean JA for the Court of Appeal in _Leong Mei Chuan v Chan Teck Hock David_ [2001] 2 SLR 17. 
+4       9. Since then, the observations of Sir Thomas Bingham MR in _Costellow_ have been cited again with approval in the judgment of L P Thean JA for the Court of Appeal in _Leong Mei Chuan v Chan Teck Hock David_ <span class="citation">[2001] 2 SLR 17</span>. 
 
 50\. It was therefore clear to me that the arguments of Mr Singh were departing from the principles as laid down by our Court of Appeal. 
 
@@ -285,7 +285,7 @@ of the reasons stated in the 2nd affidavit of Lim Yeow Beng but it was not the o
 
 87\. I stress that even if Mr Singh had not made the request I have mentioned, my conclusion about the lack of merits in his argument about the vacating of the trail dates would have been the same. 
 
-88\. In the circumstances, the cases cited by Mr Singh, ie the unreported decision of Chan Seng Onn JC in Suit No 320 of 1997 and _Chan Kern Miang v Kea Resources Pte Ltd_ [1999] 1 SLR 145 were not applicable because these were cases in which a party was applying for the trial dates to be vacated. 
+88\. In the circumstances, the cases cited by Mr Singh, ie the unreported decision of Chan Seng Onn JC in Suit No 320 of 1997 and _Chan Kern Miang v Kea Resources Pte Ltd_ <span class="citation">[1999] 1 SLR 145</span> were not applicable because these were cases in which a party was applying for the trial dates to be vacated. 
 
 89\. I was of the view that there was no undue prejudice to S3 if EOT was granted to Sky Technology to exchange the AEICs by 11 April 2001 ie one day after the hearing before me. 
 
@@ -485,7 +485,7 @@ filed an affidavit of Dr Yang Jian Ling in response to Mr Lims 3rd affidavit and
 
 **_Interference with the Registrar decision_** 
 
-118\. Mr Singh cited the case of _Wright Norman v Oversea-Chinese Banking Corp Ltd_ [1992] 2 SLR 710 for the principle that in the absence of clear error of law or principle, an appellate court should not interfere. 
+118\. Mr Singh cited the case of _Wright Norman v Oversea-Chinese Banking Corp Ltd_ <span class="citation">[1992] 2 SLR 710</span> for the principle that in the absence of clear error of law or principle, an appellate court should not interfere. 
 
 119\. I noted that that principle was said in the context of an appeal to the Court of Appeal and not 
 

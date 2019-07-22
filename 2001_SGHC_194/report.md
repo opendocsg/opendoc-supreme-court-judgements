@@ -75,7 +75,7 @@ The principles governing a stay on the ground of forum non conveniens are well e
 
  (b) As Lord Kinnears formulation of the principle indicates, in general the burden of proof rests on the defendant to persuade the court to exercise its discretion to grant a stay ... Furthermore, if the court is satisfied that there is another available forum which is prima facie the appropriate forum for the trial of the action, the burden will then shift to the plaintiff to show that there are special circumstances by reason of which justice requires that the trial should nevertheless take place in this country. 
 
-**_The Spiliada_** has been affirmed and applied locally by our Court of Appeal in **Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia** [1992] 2 SLR 776 , **Eng Liat Kiang v Eng Bak Hern** [1995] 3 SLR 97 , **Oriental Insurance Co v Bhavani Stores** [1998] 1 SLR 253 , and most recently in **PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings)** [2001] 2 SLR 49. 
+**_The Spiliada_** has been affirmed and applied locally by our Court of Appeal in **Brinkerhoff Maritime Drilling Corp v PT Airfast Services Indonesia** <span class="citation">[1992] 2 SLR 776</span> , **Eng Liat Kiang v Eng Bak Hern** <span class="citation">[1995] 3 SLR 97</span> , **Oriental Insurance Co v Bhavani Stores** <span class="citation">[1998] 1 SLR 253</span> , and most recently in **PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings)** <span class="citation">[2001] 2 SLR 49</span>. 
 
 In **_PT Hutan_** , Chao Hick Tin JA commented that whether the process contemplated by Lord Goff in **_The Spiliada_** was a two-stage process or a one-stage process, telescoping two into one, did not really matter, for, as he explained (at [para ]17): 
 

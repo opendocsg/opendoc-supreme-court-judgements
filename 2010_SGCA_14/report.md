@@ -16,7 +16,7 @@
 
 _Trade Marks and Trade Names_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2009] 4 SLR(R) 577.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2009] 4 SLR(R) 577</span>.] 
 
 26 March 2010 
 
@@ -24,7 +24,7 @@ _Trade Marks and Trade Names_
 
 **Introduction** 
 
-1       This was an appeal by Valentino Globe BV (“the Appellant”) against the decision of the High Court judge (“the Judge”) in _Valentino Globe BV v Pacific Rim Industries Inc_ [2009] 4 SLR(R) 577 (“the GD”) where the Judge rejected the Appellant’s opposition to Pacific Rim Industries Inc’s (“the Respondent”) application for the registration of the latter’s mark known as the “Emilio Valentino & V Device” (“the Application Mark”). 
+1       This was an appeal by Valentino Globe BV (“the Appellant”) against the decision of the High Court judge (“the Judge”) in _Valentino Globe BV v Pacific Rim Industries Inc_ <span class="citation">[2009] 4 SLR(R) 577</span> (“the GD”) where the Judge rejected the Appellant’s opposition to Pacific Rim Industries Inc’s (“the Respondent”) application for the registration of the latter’s mark known as the “Emilio Valentino & V Device” (“the Application Mark”). 
 
 **Factual background** 
 
@@ -112,7 +112,7 @@ that the Relevant Marks were aurally and conceptually dissimilar to the Applicat
 
  Appeal Marks above 
 
-15     In _The Polo/Lauren Co, LP v Shop In Department Store Pte Lt_ d [2006] 2 SLR(R) 690 (“ _Polo_ ”), this court held (at [24]) that, for the purposes of determining similarity under s 27(2) of the TMA, one must look at the mark and the sign “as a whole”. In adopting this approach, this court in _Polo_ had regard to the following opinion expressed by Parker J in _In the Matter of an Application by the Pianotist Company Ld for the Registration of a Trade Mark_ (1906) 23 RPC 774 at 777: 
+15     In _The Polo/Lauren Co, LP v Shop In Department Store Pte Lt_ d <span class="citation">[2006] 2 SLR(R) 690</span> (“ _Polo_ ”), this court held (at [24]) that, for the purposes of determining similarity under s 27(2) of the TMA, one must look at the mark and the sign “as a whole”. In adopting this approach, this court in _Polo_ had regard to the following opinion expressed by Parker J in _In the Matter of an Application by the Pianotist Company Ld for the Registration of a Trade Mark_ (1906) 23 RPC 774 at 777: 
 
  You must take the two words. You must judge of them, both by their look and by their sound. You must consider the goods to which they are to be applied. You must consider the nature and kind of customer who would be likely to buy those goods. In fact, you must consider all the surrounding circumstances; and you must further consider what is likely to happen if each of those trade marks is used in a normal way as a trade mark for the goods of the respective owners of the marks. 
 
@@ -133,9 +133,9 @@ instead of the Relevant Marks (see [14] of the GD where the Relevant Marks were 
 
  A trade mark shall not be registered if or to the extent that the application is made in bad faith. 
 
-Once bad faith is established, the application for registration of a mark must be refused even though the mark would not cause any confusion: see _Rothmans of Pall Mall Ltd v Maycolson International Ltd_ [2006] 2 SLR(R) 551 (“ _Rothmans_ ”) at [29] and Tan Tee Jim SC, _Law of Trade Marks and Passing Off in Singapore_ (Sweet & Maxwell Asia, 2nd Ed, 2005) at para 5.71. 
+Once bad faith is established, the application for registration of a mark must be refused even though the mark would not cause any confusion: see _Rothmans of Pall Mall Ltd v Maycolson International Ltd_ <span class="citation">[2006] 2 SLR(R) 551</span> (“ _Rothmans_ ”) at [29] and Tan Tee Jim SC, _Law of Trade Marks and Passing Off in Singapore_ (Sweet & Maxwell Asia, 2nd Ed, 2005) at para 5.71. 
 
-21     As was noted by this court in _Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co Ltd and another and another appeal_ [2009] 2 SLR(R) 814 (“ _Wing Joo Loong_ ”) at [33]: 
+21     As was noted by this court in _Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co Ltd and another and another appeal_ <span class="citation">[2009] 2 SLR(R) 814</span> (“ _Wing Joo Loong_ ”) at [33]: 
 
  It is trite law that the legal burden of proof needed to substantiate an action for revocation and/or invalidation of the registration of a trade mark lies throughout on the plaintiff. 
 
@@ -187,7 +187,7 @@ show whether the application to register the Application Mark was made in bad fa
 
 The other two members of the quorum concurred with these views of Sir William Aldous. 
 
-28     Turning to the local case law, in _Rothmans_ , our High Court endorsed Lindsay J’s observations of the concept of bad faith in _Gromax Plasticulture_. Further, both Lindsay J’s and Geoffrey Hobbs QC’s approaches were again adopted by another High Court judge in _Weir Warman Ltd v Research & Development Pty Ltd_ [2007] 2 SLR(R) 1073 (“ _Warman_ ”) where the judge stated at [48] that: 
+28     Turning to the local case law, in _Rothmans_ , our High Court endorsed Lindsay J’s observations of the concept of bad faith in _Gromax Plasticulture_. Further, both Lindsay J’s and Geoffrey Hobbs QC’s approaches were again adopted by another High Court judge in _Weir Warman Ltd v Research & Development Pty Ltd_ <span class="citation">[2007] 2 SLR(R) 1073</span> (“ _Warman_ ”) where the judge stated at [48] that: 
 
  ... the term ‘bad faith’ embraces not only actual dishonesty but also dealings which would be considered as commercially unacceptable by reasonable and experienced persons in a particular 
 
@@ -213,7 +213,7 @@ The other two members of the quorum concurred with these views of Sir William Al
 This court in _Wing Joo Loong_ then applied at [107]–[117] the combined test of bad faith which, to reiterate, contains both a subjective element ( _viz_ , what the particular applicant knows) and an objective element ( _viz_ , what ordinary persons adopting proper standards would think). It is therefore apparent to us that bad faith as a concept is context-dependent. In the final analysis, whether bad faith exists or not hinges on the specific factual matrix of each case. 
 
 
-30     Furthermore, it is pertinent to note that an allegation of bad faith is a serious claim to make and it must be sufficiently supported by the evidence (see Nautical Concept Pte Ltd v Jeffery Mark Richard and another [2007] 1 SLR(R) 1071 at [15] which we reproduce below): 
+30     Furthermore, it is pertinent to note that an allegation of bad faith is a serious claim to make and it must be sufficiently supported by the evidence (see Nautical Concept Pte Ltd v Jeffery Mark Richard and another <span class="citation">[2007] 1 SLR(R) 1071</span> at [15] which we reproduce below): 
 
  An allegation that a trade mark has been applied for in bad faith is a serious one. In Royal Enfield Trade Marks [2002] RPC 508, it was held (at [31]) that: 
 
@@ -242,7 +242,7 @@ well before Mr Emilio Valentino attempted to register the EV Mark in Italy. [not
 33     On these facts, the point which the Appellant attempted to make was that since the 
 
 
-Application Mark was identical with the EV mark, it would naturally follow that the Respondent had copied the Application Mark from the EV Mark. Accordingly, the Appellant argued that the burden would shift to the Respondent to show how the Application Mark was derived and in turn to explain how did it come about that the Application Mark was identical with the EV Mark. In this regard, the Appellant relied on cases such as _Auvi Pte Ltd v Seah Siew Tee and another_ [1991] 2 SLR(R) 786 (“ _Auvi Pte Ltd_ ”) and _In the Matter of Trade Mark Application No 2011973 by Team Lotus Ventures Ltd and In the Matter of Opposition Thereto under Opposition No 45584 by Group Lotus Ltd_. What was vitally pertinent to note, and this was totally cast aside by the Appellant, was that there was no evidence before the court showing that Mr Emilio Valentino had used the EV Mark before 2007. While it might well be _possible_ (and we put it no higher than that) that Mr Emilio Valentino had used the EV Mark before 2007, nothing was produced before the court which could reasonably enable the court to draw such an inference or make a definite decision. Indeed, as the Judge aptly observed at [71] of the GD, there was no evidence “that Mr Emilio Valentino has been using [the EV Mark] prior to the Respondent”. It was just as possible that the EV Mark was copied by Mr Emilio Valentino from the Application Mark of the Respondent. In these circumstances, there was no _prima facie_ case for the Respondent to rebut. Neither had any evidential burden shifted to the Respondent. 
+Application Mark was identical with the EV mark, it would naturally follow that the Respondent had copied the Application Mark from the EV Mark. Accordingly, the Appellant argued that the burden would shift to the Respondent to show how the Application Mark was derived and in turn to explain how did it come about that the Application Mark was identical with the EV Mark. In this regard, the Appellant relied on cases such as _Auvi Pte Ltd v Seah Siew Tee and another_ <span class="citation">[1991] 2 SLR(R) 786</span> (“ _Auvi Pte Ltd_ ”) and _In the Matter of Trade Mark Application No 2011973 by Team Lotus Ventures Ltd and In the Matter of Opposition Thereto under Opposition No 45584 by Group Lotus Ltd_. What was vitally pertinent to note, and this was totally cast aside by the Appellant, was that there was no evidence before the court showing that Mr Emilio Valentino had used the EV Mark before 2007. While it might well be _possible_ (and we put it no higher than that) that Mr Emilio Valentino had used the EV Mark before 2007, nothing was produced before the court which could reasonably enable the court to draw such an inference or make a definite decision. Indeed, as the Judge aptly observed at [71] of the GD, there was no evidence “that Mr Emilio Valentino has been using [the EV Mark] prior to the Respondent”. It was just as possible that the EV Mark was copied by Mr Emilio Valentino from the Application Mark of the Respondent. In these circumstances, there was no _prima facie_ case for the Respondent to rebut. Neither had any evidential burden shifted to the Respondent. 
 
 34     What was clear was that the facts of the present case were quite different from those in _Application by Brown Shoe Company Inc for Rectification of the Register in Respect of Trade Mark No B720,262_ [1959] RPC 29 which involved two word marks, “Naturalizer” and “Naturlizet”, and where the owner of the former mark successfully had the Register rectified by having the latter mark removed from the Register. There, the mark “Naturalizer” was extensively advertised by its owner in American periodicals before the application to register the mark “Naturlizet” was made. The judge held that there was copying on the part of the party obtaining registration for the “Naturlizet” mark. Similarly, in _Auvi Pte Ltd_ , there was clear evidence that the logo of the plaintiff was in existence well before the defendants’ mark. In view of the close similarity between the logo and the mark and the other evidence presented, the plaintiff satisfied the court that there was copying on the part of the defendants. Accordingly, the court expunged the defendants’ mark from the Register. Ultimately, it is our view that each case would have to be decided in accordance with its own facts, and in particular, the evidence tendered. 
 
@@ -298,7 +298,7 @@ The sole purpose of Hor’s affidavit was to defend the allegations that he had,
 
 45     We now turn to address the Appellant’s assertion that there was _no_ trade mark licensorlicensee relationship between the Respondent and Hor. It was our view that this assertion was a bare assertion which was contrary to documentary evidence. As noted by the High Court in _Warman_ at [63], “[o]ne instance of a right to sell under a trade mark being divorced from a right to protect that mark by way of trade mark registration is in the case of a trade mark licensee.” Further, the High Court there observed at [64]–[68] that: 
 
- 64 The test for the validity of a trade mark licence was set out in Rainforest Coffee Products Pte Ltd v Rainforest Cafe, Inc [2000] 1 SLR(R) 725 where Lai Kew Chai J (at [33]), in delivering the judgment of the Court of Appeal, endorsed the English decision in BOSTITCH Trade Mark [1963] RPC 183 at 567: 
+ 64 The test for the validity of a trade mark licence was set out in Rainforest Coffee Products Pte Ltd v Rainforest Cafe, Inc <span class="citation">[2000] 1 SLR(R) 725</span> where Lai Kew Chai J (at [33]), in delivering the judgment of the Court of Appeal, endorsed the English decision in BOSTITCH Trade Mark [1963] RPC 183 at 567: 
 
  The key to the validity of a trade mark licence was whether or not the licence arrangement had destroyed the trade connection between the proprietor of the trade mark and the goods ... 
 

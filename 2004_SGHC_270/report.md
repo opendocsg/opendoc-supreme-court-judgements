@@ -122,7 +122,7 @@ published books. Yet, in the Company’s accounts which accompanied the scheme p
 
  (4) The Court may grant its approval to a compromise or arrangement subject to such alterations or conditions as it thinks just. 
 
-24     In recent years, our courts have sometimes refused to sanction schemes under s 210 of the Act. One such case was the Court of Appeal’s decision in _Wah Yuen Electrical Engineering Pte Ltd v Singapore Cables Manufacturers Pte Ltd_ [2003] 3 SLR 629 (“ _Wah Yuen_ ’s case”). The headnote reads: 
+24     In recent years, our courts have sometimes refused to sanction schemes under s 210 of the Act. One such case was the Court of Appeal’s decision in _Wah Yuen Electrical Engineering Pte Ltd v Singapore Cables Manufacturers Pte Ltd_ <span class="citation">[2003] 3 SLR 629</span> (“ _Wah Yuen_ ’s case”). The headnote reads: 
 
  The appellant, which had a winding up petition against it, presented a scheme of arrangement under the Companies Act (“the Act”) for the consideration of its creditors. The scheme provided that creditors whose claims were less than a stipulated amount would be paid in full and subordinated the claims of its directors and a related company (“related parties”) to the rest of the creditors. More than 75% in value of the creditors (which was the minimum required under the Act) voted in support of the scheme which was opposed to by the respondent. Had the claims of the related parties been discounted, the scheme would have received the support of less than 75% in value of the creditors. The judge below refused to sanction the scheme. 
 
@@ -175,7 +175,7 @@ Applying the dissimilarity test, it seemed to me that the related unsecured cred
 
 The 75% vote required under s 210(3) would not have been achieved. 
 
-29     Even if the creditors’ meeting had secured the requisite 75% mandate, it did not necessarily mean that the court must sanction the scheme. In _Re Econ Corp Ltd_ [2004] 1 SLR 273, although 89% in value of admitted claims at the meeting of unsecured creditors voted in favour of the scheme proposed by Econ Corporation Ltd under s 210 of the Act, I declined to sanction the same. There were a number of disquieting features surrounding the company’s proposed scheme, the chief of which was my concern that the 89% vote might not have been obtained with the informed consent of unsecured creditors. 
+29     Even if the creditors’ meeting had secured the requisite 75% mandate, it did not necessarily mean that the court must sanction the scheme. In _Re Econ Corp Ltd_ <span class="citation">[2004] 1 SLR 273</span>, although 89% in value of admitted claims at the meeting of unsecured creditors voted in favour of the scheme proposed by Econ Corporation Ltd under s 210 of the Act, I declined to sanction the same. There were a number of disquieting features surrounding the company’s proposed scheme, the chief of which was my concern that the 89% vote might not have been obtained with the informed consent of unsecured creditors. 
 
 ## [2] 
 

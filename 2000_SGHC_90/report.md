@@ -160,7 +160,7 @@ _Evaluation of the evidence_
 45\. Her defence was that the drugs did not belong to her and that she had only agreed to store some packets for Ah Tan, that she only knew they were opium after she took possession of them and that she was not willing to keep opium for Ah Tan. 
 
 
-46\. There was no reason to disbelieve her disclaimer of ownership. Her evidence that Ah Tan had stored things in her flat was not disputed. However, that was not sufficient to exonerate her from culpability. Ownership is not a necessary element of trafficking. Persons who transport drugs for others as well as those who hold drugs as bailees for their owners are also culpable – see _Sze Siew Luan v PP_ [1997] 2 SLR 522. 
+46\. There was no reason to disbelieve her disclaimer of ownership. Her evidence that Ah Tan had stored things in her flat was not disputed. However, that was not sufficient to exonerate her from culpability. Ownership is not a necessary element of trafficking. Persons who transport drugs for others as well as those who hold drugs as bailees for their owners are also culpable – see _Sze Siew Luan v PP_ <span class="citation">[1997] 2 SLR 522</span>. 
 
 47\. The crucial question was whether the accused was a knowing bailee of the opium. She said that Ah Tan did not tell her that the bags contained opium. She also said that she was surprised to find the opium, and intended to call the police just before her flat was raided. 
 

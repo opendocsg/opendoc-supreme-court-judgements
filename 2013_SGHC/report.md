@@ -70,14 +70,14 @@ consideration, Leong decided to inform Leong’s own superior, Alvin Chia (Deput
 
  he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100, or to imprisonment for a term not exceeding 5 years or to both. 
 
-13     It should be noted that the Respondent was charged under s 6(c) of the PCA which, unlike ss 6(a) and 6(b), does not contain the word “corruptly”. In _Knight Glenn Jeyasingam v Public Prosecutor_ [1992] 1 SLR(R) 523 (“ _Knight Glenn_ ”), Thean J clarified s 6(c) in relation to ss 6(a) and 6(b) at [20]: 
+13     It should be noted that the Respondent was charged under s 6(c) of the PCA which, unlike ss 6(a) and 6(b), does not contain the word “corruptly”. In _Knight Glenn Jeyasingam v Public Prosecutor_ <span class="citation">[1992] 1 SLR(R) 523</span> (“ _Knight Glenn_ ”), Thean J clarified s 6(c) in relation to ss 6(a) and 6(b) at [20]: 
 
  The charge under s 6(c) of the Act does not imply any corruption at all. The word “corruptly” which is present in para (a) and (b) of s 6 is absent in para (c). But the offence under s 6(c) does imply an element of dishonesty. In effect, it is an offence of cheating under a different statutory provision. On the facts admitted by the appellant, he could be charged for cheating under s 417 or s 420 of the Code. The Prosecution, however, has brought this charge under s 6(c) of the Act and is fully entitled to do so. A charge under s 6(c) of the Act is more serious than that under s 417 of the Code. This is clearly evident from the penalty provided in s 6 as compared to that provided in s 417 of the Code. Under s 6, the maximum penalty is a fine of $100,000 or a term of imprisonment of five years or both, whereas under s 417 the maximum term of imprisonment is one year or a fine or both. In my opinion, the second charge is more serious than the first. ... 
 
 
-14     Further, the court in _Ong Beng Leong v Public Prosecutor_ [2005] 1 SLR(R) 766 (“ _Ong Beng Leong_ ”) noted at [50] that s 6(c) of the PCA was silent on the issue of actual deception and merely focused on the intent to deceive. 
+14     Further, the court in _Ong Beng Leong v Public Prosecutor_ <span class="citation">[2005] 1 SLR(R) 766</span> (“ _Ong Beng Leong_ ”) noted at [50] that s 6(c) of the PCA was silent on the issue of actual deception and merely focused on the intent to deceive. 
 
-15     In _Public Prosecutor v Kwong Kok Hing_ [2008] 2 SLR(R) 684 at [14], it was held that an appellate court would interfere with the sentence imposed if it was satisfied that: 
+15     In _Public Prosecutor v Kwong Kok Hing_ <span class="citation">[2008] 2 SLR(R) 684</span> at [14], it was held that an appellate court would interfere with the sentence imposed if it was satisfied that: 
 
  (a) the sentencing judge had made the wrong decision as to the proper factual basis for sentence; 
 
@@ -138,9 +138,9 @@ consideration, Leong decided to inform Leong’s own superior, Alvin Chia (Deput
 
 **_General deterrence_** 
 
-20     The Prosecution argued that the DJ failed to give sufficient consideration to the principle of general deterrence. In _Public Prosecutor v Law Aik Meng_ [2007] 2 SLR(R) 814, the court held at [24] that: 
+20     The Prosecution argued that the DJ failed to give sufficient consideration to the principle of general deterrence. In _Public Prosecutor v Law Aik Meng_ <span class="citation">[2007] 2 SLR(R) 814</span>, the court held at [24] that: 
 
- General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender: Meeran bin Mydin v PP [1998] 1 SLR(R) 522 at [9] (“ Meeran bin Mydin ”). Premeditated offences aside, there are many other situations where general deterrence assumes significance and relevance. These may relate to the type and/or circumstances of a particular offence. Some examples of the types of offences, which warrant general deterrence are: 
+ General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender: Meeran bin Mydin v PP <span class="citation">[1998] 1 SLR(R) 522</span> at [9] (“ Meeran bin Mydin ”). Premeditated offences aside, there are many other situations where general deterrence assumes significance and relevance. These may relate to the type and/or circumstances of a particular offence. Some examples of the types of offences, which warrant general deterrence are: 
 
  (a) Offences against or relating to public institutions, such as the courts, the police and the civil service... 
 
@@ -155,11 +155,11 @@ senior IO who was given substantial trust and responsibility to conduct investig
 
  It is significant that the accused had pleaded guilty to only one specific charge relating to the use of a particular receipt which was false. The sentence to be impose[d] on the accused, therefore, had to address that specific offence only. The sentencing considerations should not include other wrongs or transgressions the accused might have been thought to have committed, but which have not been proven or, in fact, will even be the subject of a trial. 
 
-22     Although the Respondent’s action was a serious transgression, the court has to “refrain from imposing a punishment that is disproportionate to the actual or potential harm or damage done to society”: _Luong Thi Trang Hoang Kathleen v Public Prosecutor_ [2010] 1 SLR 707 at [25]. The fact that a fine was imposed instead of imprisonment does not mean that the principle of general deterrence was not given effect to. In appropriate circumstances, prosecution for the offence alone would in itself provide some form of deterrence for first-time offenders such as the Respondent: _Wuu David v Public Prosecutor_ [2008] 4 SLR(R) 83 at [22]. Taking into account the fact that the Respondent was a first-time offender, his action did not cause any tangible harm and public money was not involved, a substantial fine could provide sufficient general deterrence. 
+22     Although the Respondent’s action was a serious transgression, the court has to “refrain from imposing a punishment that is disproportionate to the actual or potential harm or damage done to society”: _Luong Thi Trang Hoang Kathleen v Public Prosecutor_ <span class="citation">[2010] 1 SLR 707</span> at [25]. The fact that a fine was imposed instead of imprisonment does not mean that the principle of general deterrence was not given effect to. In appropriate circumstances, prosecution for the offence alone would in itself provide some form of deterrence for first-time offenders such as the Respondent: _Wuu David v Public Prosecutor_ <span class="citation">[2008] 4 SLR(R) 83</span> at [22]. Taking into account the fact that the Respondent was a first-time offender, his action did not cause any tangible harm and public money was not involved, a substantial fine could provide sufficient general deterrence. 
 
 **_Damage to LTA_** 
 
-23     The Prosecution argued that the DJ had failed to consider the damage to LTA. The court in _Public Prosecutor v Loqmanul Hakim bin Buang_ [2007] 4 SLR(R) 753 recognised that offences by enforcement officers could damage the institutional credibility of agencies (see [37] and [43]): 
+23     The Prosecution argued that the DJ had failed to consider the damage to LTA. The court in _Public Prosecutor v Loqmanul Hakim bin Buang_ <span class="citation">[2007] 4 SLR(R) 753</span> recognised that offences by enforcement officers could damage the institutional credibility of agencies (see [37] and [43]): 
 
  37 ... To that end, it warrants reminder that the rationale underlying the imposition of a deterrent sentence where an accused party is a policy officer or an auxiliary police officer is the need to reflect the damage that may be inflicted on the institutional credibility of security agencies, damage to the standing of their officers and the court's concern about the abuse of the trust and responsibility that has been reposed in a police officer. Needless to say, such a sentence also serves as a salutary reminder to other serving officers, that transgressions by them will not be condoned. 
 
@@ -174,7 +174,7 @@ deceive LTA. The direct damage was internal to LTA, _ie_ , the Respondent abused
 
 **_Deliberation and premeditation_** 
 
-25     It is well-established that an act done after deliberation and premeditation, as opposed to an act done on the spur of the moment, is an aggravating circumstance: _Public Prosecutor v Tan Fook Sum_ [1999] 1 SLR(R) 1022 at [28]. 
+25     It is well-established that an act done after deliberation and premeditation, as opposed to an act done on the spur of the moment, is an aggravating circumstance: _Public Prosecutor v Tan Fook Sum_ <span class="citation">[1999] 1 SLR(R) 1022</span> at [28]. 
 
 26     In the present case, it was clear that the Respondent’s act of deception was premeditated: 
 
@@ -192,7 +192,7 @@ deceive LTA. The direct damage was internal to LTA, _ie_ , the Respondent abused
 
 28     While the DJ recognised that it could be argued that the Respondent admitted to the lie only because he had no choice upon confrontation, he considered it a mitigation point that the Respondent was “contrite” because the Respondent admitted to his lie in the same afternoon, within a few hours from the time of the first lie (at [32] of GD). 
 
-29     A court has to examine carefully the conduct of the offender after the commission of the offence to determine whether the offender is genuinely contrite: _Public Prosecutor v NF_ [2006] 4 SLR(R) 849 at [57]. Further, remorse is only a mitigating factor where there is evidence of genuine remorse on the part of the offender: _Cheng Weixiong Jerriek v Public Prosecutor_ [2003] 2 SLR(R) 334 at [22]. 
+29     A court has to examine carefully the conduct of the offender after the commission of the offence to determine whether the offender is genuinely contrite: _Public Prosecutor v NF_ <span class="citation">[2006] 4 SLR(R) 849</span> at [57]. Further, remorse is only a mitigating factor where there is evidence of genuine remorse on the part of the offender: _Cheng Weixiong Jerriek v Public Prosecutor_ <span class="citation">[2003] 2 SLR(R) 334</span> at [22]. 
 
 30     In the present case, I was unable to find that the Respondent was contrite as he had lied repeatedly to his superiors. He first lied that he did not purchase the motorcycle from Super Bike when he was confronted by Roger, Leong, Phoa and Jeow in the morning of 15 January 2008. He then 
 
@@ -209,7 +209,7 @@ lied to Leong again that very afternoon when he produced the sales receipt from 
 
 33     The DJ held at [31] of the GD that the Respondent’s “impeccable record” in his 20 years with LTA and the fact that he had previously reported an offer of a bribe to his superiors were mitigating factors which favoured a fine rather than a custodial sentence. 
 
-34     Relying on the case of _Public Prosecutor v AA_ [2004] SGHC 10, the Prosecution argued that being a good employee was not a mitigating factor. However, it should be noted that _Public Prosecutor v AA_ concerned an accused who had committed a sexual offence. Understandably, the fact that the accused in that case was an exemplary orderly in the Supreme Court, which bore no relation to the sexual offence he committed, was only a neutral factor in sentencing. 
+34     Relying on the case of _Public Prosecutor v AA_ <span class="citation">[2004] SGHC 10</span>, the Prosecution argued that being a good employee was not a mitigating factor. However, it should be noted that _Public Prosecutor v AA_ concerned an accused who had committed a sexual offence. Understandably, the fact that the accused in that case was an exemplary orderly in the Supreme Court, which bore no relation to the sexual offence he committed, was only a neutral factor in sentencing. 
 
 35     In the present case, the Respondent was charged under s 6(c) of the PCA for knowingly using a materially false receipt intended by him to mislead LTA. Since the victim of the Respondent’s act was LTA, it followed that the Respondent’s contributions as a longstanding and exemplary employee in LTA should count as a mitigating factor. In other words, there was a rational relationship between the Respondent’s contributions as an exemplary employee of LTA and the seriousness of the offence committed against the LTA. 
 

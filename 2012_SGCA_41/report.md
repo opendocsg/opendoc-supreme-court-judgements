@@ -18,7 +18,7 @@ _Succession and Wills_
 
 _Trusts_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2012] 1 SLR 211.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2012] 1 SLR 211</span>.] 
 
 7 August 2012 Judgment reserved. 
 
@@ -78,7 +78,7 @@ task from the 1st and 3rd Appellants, although there is a dispute as to the exac
 
 the 1st Respondent started to do so. He claims to have done so only from September 2009, whereas the Appellants say that he took over in 2008. We do not think anything significant turns on this. 
 
-8       The net rent income from the Property was not high, ranging from $1,130.00 in September 2009 to $200.00 in September 2010. However, over the years, the value of the Property has appreciated significantly, from about $60,000.00 in 1979 to about $4 million in 2010. The Property has been described as a “single storey old wooden zinc roof landed home” which is currently in a “dilapidated state” (see _Foo Jee Seng and others v Foo Jhee Tuang and another_ [2012] 1 SLR 211 (“the GD”) at [6]). 
+8       The net rent income from the Property was not high, ranging from $1,130.00 in September 2009 to $200.00 in September 2010. However, over the years, the value of the Property has appreciated significantly, from about $60,000.00 in 1979 to about $4 million in 2010. The Property has been described as a “single storey old wooden zinc roof landed home” which is currently in a “dilapidated state” (see _Foo Jee Seng and others v Foo Jhee Tuang and another_ <span class="citation">[2012] 1 SLR 211</span> (“the GD”) at [6]). 
 
 9       After Foo Jee Fong died (see [5] above), the parties met to discuss the Property, but could not come to an agreement on what to do with it. The Appellants wanted the Property to be sold but the 
 
@@ -127,7 +127,7 @@ established. As there were no allegations that the 1st Respondent had breached a
 
 **_Principles governing the construction of wills_** 
 
-15     We will begin the consideration of this issue with the question as to how a court should construe a will. In _Leo Teng Choy v Leo Teng Kit and others_ [2000] 3 SLR(R) 636 (“ _Leo Teng Choy_ ”) at [26], this court said: 
+15     We will begin the consideration of this issue with the question as to how a court should construe a will. In _Leo Teng Choy v Leo Teng Kit and others_ <span class="citation">[2000] 3 SLR(R) 636</span> (“ _Leo Teng Choy_ ”) at [26], this court said: 
 
  It is a general principle of construction of a will that the court should ascertain the intention of the testator from the will as a whole in the light of any extrinsic evidence admissible for the purpose of its construction. ... The following passage of Knight Bruce LJ in Key v Key (1853) 4 De G M & G 73 at 84-85 explained why a strict literal construction must, in appropriate 
 
@@ -136,7 +136,7 @@ established. As there were no allegations that the 1st Respondent had breached a
 
  In common with all men, I must acknowledge that there are many cases upon the construction of documents, in which the spirit is strong enough to overcome the letter; cases in which it is impossible for a reasonable being, upon a careful perusal of an instrument, not to be satisfied from its contents that a literal, a strict, or an ordinary interpretation given to particular passages, would disappoint and defeat the intention with which the instrument, read as a whole, persuades and convinces him that it was framed. A man so convinced is authorised and bound to construe the writing accordingly. 
 
-16     In the later case of _Low Ah Cheow and others v Ng Hock Guan_ [2009] 3 SLR(R) 1079 this court again had the occasion to address this issue and _Williams on Wills_ (Francis Barlow _et al_ eds) 
+16     In the later case of _Low Ah Cheow and others v Ng Hock Guan_ <span class="citation">[2009] 3 SLR(R) 1079</span> this court again had the occasion to address this issue and _Williams on Wills_ (Francis Barlow _et al_ eds) 
 
 (LexisNexis Butterworths, 9th Ed, 2008) (“ _Williams on Wills_ ”) (at vol 1, paras 49.1 – 49.2) was cited and relied upon (at [19]): 
 
@@ -146,7 +146,7 @@ established. As there were no allegations that the 1st Respondent had breached a
 
  [emphasis in original] 
 
-17     It is clear that the overriding aim of the court in construing a will is to seek and give effect to the testamentary intention as expressed by the testator. This intention must predominantly be derived from the wording of the will itself, although the circumstances prevailing at the time the will was executed may be taken into account. Where a strict literal construction of the will would give rise to an effect which is clearly out of sync with the general intention of the testator as derived from the will as a whole, such a reading should give way to a more purposive interpretation. Hence, there exists a presumption that effect should be given to every word of the will, and the court should not discount any part of the will if there can be some meaning that is not contrary to the express intention that could be ascribed to it. As the High Court remarked in _Goh Nellie v Goh Lian Teck and others_ [2007] 1 SLR(R) 453 (“ _Nellie Goh_ ”) at [62], “A testator, in other words, does not will in vain”. 
+17     It is clear that the overriding aim of the court in construing a will is to seek and give effect to the testamentary intention as expressed by the testator. This intention must predominantly be derived from the wording of the will itself, although the circumstances prevailing at the time the will was executed may be taken into account. Where a strict literal construction of the will would give rise to an effect which is clearly out of sync with the general intention of the testator as derived from the will as a whole, such a reading should give way to a more purposive interpretation. Hence, there exists a presumption that effect should be given to every word of the will, and the court should not discount any part of the will if there can be some meaning that is not contrary to the express intention that could be ascribed to it. As the High Court remarked in _Goh Nellie v Goh Lian Teck and others_ <span class="citation">[2007] 1 SLR(R) 453</span> (“ _Nellie Goh_ ”) at [62], “A testator, in other words, does not will in vain”. 
 
 **_Trust for sale_** 
 
@@ -466,7 +466,7 @@ depriving the beneficiaries of their just entitlement under the Will. There is n
 
 79     Taking the same approach adopted in _Leo Teng Choy_ , we hold that it was not the intention of the Testator that the trustees should withhold sale of the Property indefinitely even to the detriment 
 
-of the beneficiaries. It is trite law that the 1st Respondent has the fiduciary duty to act, and to exercise his discretionary powers, in the best interests of the beneficiaries. In _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ [2009] 3 SLR(R) 109, this court held at [153] that: 
+of the beneficiaries. It is trite law that the 1st Respondent has the fiduciary duty to act, and to exercise his discretionary powers, in the best interests of the beneficiaries. In _Ng Eng Ghee and others v Mamata Kapildev Dave and others (Horizon Partners Pte Ltd, intervener) and another appeal_ <span class="citation">[2009] 3 SLR(R) 109</span>, this court held at [153] that: 
 
  ... It is the paramount duty of trustees “to exercise their powers in the best interests of [all] beneficiaries of the trust” ( Crown v Scargill [1985] Ch 270 per Sir Robert Megarry VC at 286287). The relevant circumstances must be assessed in deciding whether the appropriate standard of care has been observed. 
 

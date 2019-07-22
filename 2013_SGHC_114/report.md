@@ -103,9 +103,9 @@ were invited to submit further arguments to address the court on this issue.
 
  (c) did the Respondent’s actions affect the apportionment, if any, of liability on the part of the Appellant? 
 
-**How does** **_See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others_** **[2013] SGCA 29 (“** **_See Toh (CA)_** **”) affect this Appeal (if at all)?** 
+**How does** **_See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others_** **<span class="citation">[2013] SGCA 29</span> (“** **_See Toh (CA)_** **”) affect this Appeal (if at all)?** 
 
-20     In the High Court case of _See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others_ [2012] 3 SLR 227, the plaintiff, See Toh Siew Kee, claimed damages against Ho Ah Lam Ferrocement (Private Limited), Lal Offshore Marine Pte Ltd, and Asian Lift Pte Ltd, under occupier’s liability and the tort of negligence for injuries he had sustained. The other facts of the case are not important, and the relevant issue was whether the defendants had concurrent duties under occupier’s liability and negligence. After examining the jurisprudence on the issue, Woo Bih Li J at [109] held: 
+20     In the High Court case of _See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others_ <span class="citation">[2012] 3 SLR 227</span>, the plaintiff, See Toh Siew Kee, claimed damages against Ho Ah Lam Ferrocement (Private Limited), Lal Offshore Marine Pte Ltd, and Asian Lift Pte Ltd, under occupier’s liability and the tort of negligence for injuries he had sustained. The other facts of the case are not important, and the relevant issue was whether the defendants had concurrent duties under occupier’s liability and negligence. After examining the jurisprudence on the issue, Woo Bih Li J at [109] held: 
 
  I see no reason why an occupier should have concurrent liabilities when others have only one. I conclude that an occupier does not have concurrent liabilities and his liability is part of the law of negligence. 
 
@@ -132,7 +132,7 @@ Woo Bih Li J went on to dismiss the plaintiff’s claim against all defendants. 
 
  (c) the defendant’s breach must have caused the damage suffered by the plaintiff; in addition, the resulting damage should not be too remote, and must be capable of being adequately proved and quantified’ 
 
-(See _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ [2007] 4 SLR 100 at [21]) (“ _Spandeck_ ”). I should add that in the Appellant’s further submissions, it was conceded that under the _Spandeck_ test, the Appellant owed a duty of care to the Respondent (assuming _See Toh (CA)_ applied retrospectively which I am of the view it does). 
+(See _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ <span class="citation">[2007] 4 SLR 100</span> at [21]) (“ _Spandeck_ ”). I should add that in the Appellant’s further submissions, it was conceded that under the _Spandeck_ test, the Appellant owed a duty of care to the Respondent (assuming _See Toh (CA)_ applied retrospectively which I am of the view it does). 
 
 **_Did the Appellant owe the Respondent a duty of care?_** 
 
@@ -151,7 +151,7 @@ I accept the Appellant’s submission that the Respondent should be faulted for 
 
 **_Did the Appellant breach this duty of care?_** 
 
-26     The Appellant’s central argument was that the maintenance system put in place was **not** inadequate in ensuring that the car park was generally safe for users, and therefore, the Appellant could not have been said to have failed to take reasonable care to prevent harm to the Respondent. In essence, the legal question that must be answered is “ _what is the appropriate standard of care to which the Appellant should be held?”_ While it is not disputed that the guiding principle in assessing the standard of care is the standard of a reasonable person (see _Chandran a/l Subbiah v Dockers Marine Pte Ltd_ [2010] 1 SLR 786 at [21], citing with approval Alderson B in _Blyth v The Company of Proprietors of the Birmingham Waterworks_ (1856) 11 Ex 781), there is no doubt that this depends primarily on the factual matrix, and that a certain amount of judicial discretion is required to decide what standard of care is to be imposed. 
+26     The Appellant’s central argument was that the maintenance system put in place was **not** inadequate in ensuring that the car park was generally safe for users, and therefore, the Appellant could not have been said to have failed to take reasonable care to prevent harm to the Respondent. In essence, the legal question that must be answered is “ _what is the appropriate standard of care to which the Appellant should be held?”_ While it is not disputed that the guiding principle in assessing the standard of care is the standard of a reasonable person (see _Chandran a/l Subbiah v Dockers Marine Pte Ltd_ <span class="citation">[2010] 1 SLR 786</span> at [21], citing with approval Alderson B in _Blyth v The Company of Proprietors of the Birmingham Waterworks_ (1856) 11 Ex 781), there is no doubt that this depends primarily on the factual matrix, and that a certain amount of judicial discretion is required to decide what standard of care is to be imposed. 
 
 27     In determining the appropriate standard of care in this case, I considered the following factors as suggested by Gary Chan Kok Yew & Lee Pey Woan in _The Law of Torts in Singapore_ (Academy Publishing, 2011) (“ _Gary Chan_ ”) at Chapter 5: 
 
@@ -176,7 +176,7 @@ I accept the Appellant’s submission that the Respondent should be faulted for 
 
 30     The Appellant had raised two contentions with regard to this finding, which I now address. 
 
-31     First, the Appellant argued that the agreements used were “of the standard type and used in other condominiums”, implying that if this was the industry practice, it should not be found liable if it had merely followed what everyone else was doing. While industry standards or practices may be useful in determining the standard of care (see for example, _The Emma Maersk_ [2006] SGHC 180), as _Gary Chan_ at para 05.033 observes: 
+31     First, the Appellant argued that the agreements used were “of the standard type and used in other condominiums”, implying that if this was the industry practice, it should not be found liable if it had merely followed what everyone else was doing. While industry standards or practices may be useful in determining the standard of care (see for example, _The Emma Maersk_ <span class="citation">[2006] SGHC 180</span>), as _Gary Chan_ at para 05.033 observes: 
 
  [A]dhering to common practice may not guarantee that the defendant would be absolved of liability where the practice is undesirable. 
 
@@ -207,20 +207,20 @@ out. However, it is understandable that it may be practically impossible to exha
 
 37     The DJ found that causation was established because if there had been a proper system in place, there was a “slightly better than 50% chance of the slippery patch” being discovered and thus properly dealt with, preventing the slip accident from occurring. While I may not agree with a “percentage” method of assessing the adequacy of a maintenance system, I am of the view that causation had been established. 
 
-38     As opined by the Court of Appeal in _The Cherry and others_ [2003] 1 SLR(R) 471 at [68], 
+38     As opined by the Court of Appeal in _The Cherry and others_ <span class="citation">[2003] 1 SLR(R) 471</span> at [68], 
 
 
 establishing causation is a matter of “common sense”. A simple application of the “but for” test shows that the Appellant, in failing to establish an adequate system to deal with oil patches and water puddles, was one possible cause of the Respondent’s injuries. However, the legal inquiry at the end of the day is to find out “the effective cause of the damage in order to pin down legal liability or responsibility.” (see _Gary Chan_ at para 06.023) 
 
 39     As a matter of causation, the main plank of the Appellant’s argument was that even if it was to be found negligent, the effective cause of the damage would be the Respondent’s act of knowingly stepping into the slippery patch. Therefore, the negligence of the Appellant was not one of the causes or rather, it was not the dominant or effective cause of his fall. The Appellant was invoking the doctrine of _novus actus interveniens_ , where the Respondent’s conduct was so unreasonable that it could be said to break the chain of causation. 
 
-40     What then, is the extent of unreasonable conduct sufficient to break the chain of causation? In _PlanAssure PAC v Gaelic Inns Pte Ltd_ [2007] 4 SLR(R) 513, the Court of Appeal at [100] opined that only when the plaintiff’s conduct was so “reckless” or “deliberate”, amounting to a “high degree of culpability” would the chain of causation be broken. Likewise, the Court of Appeal in _TV Media Pte Ltd v De Cruz Andrea Heidi_ [2004] 3 SLR(R) 543 at [76] found that only when the plaintiff’s conduct was so “wholly unreasonable” would it then constitute a _novus actus interveniens_. It is only where the act or omission of a party is of such a nature as to constitute a wholly independent cause of the damage that the intervening conduct may be termed a _novus actus interveniens_ ( _Muirhead v Industrial Tank Specialities Ltd_ [1986] QB 507). 
+40     What then, is the extent of unreasonable conduct sufficient to break the chain of causation? In _PlanAssure PAC v Gaelic Inns Pte Ltd_ <span class="citation">[2007] 4 SLR(R) 513</span>, the Court of Appeal at [100] opined that only when the plaintiff’s conduct was so “reckless” or “deliberate”, amounting to a “high degree of culpability” would the chain of causation be broken. Likewise, the Court of Appeal in _TV Media Pte Ltd v De Cruz Andrea Heidi_ <span class="citation">[2004] 3 SLR(R) 543</span> at [76] found that only when the plaintiff’s conduct was so “wholly unreasonable” would it then constitute a _novus actus interveniens_. It is only where the act or omission of a party is of such a nature as to constitute a wholly independent cause of the damage that the intervening conduct may be termed a _novus actus interveniens_ ( _Muirhead v Industrial Tank Specialities Ltd_ [1986] QB 507). 
 
 41     Applying the foregoing principles, I find that the Respondent’s conduct, while clearly foolish and unwise, did not amount to conduct so reckless or wholly unreasonable such that it broke the chain of causation. However, his conduct would be relevant in the apportionment of liability which I now turn to consider. 
 
 **Did the Respondent’s actions affect the apportionment, if any, of liability on the part of the Appellant?** 
 
-42     The apportionment of liability under the defence of contributory negligence requires the court to take into consideration the relative “blameworthiness” of the parties (see _Parno v SC Marine Pte Ltd_ [1999] 3 SLR(R) 377 at [61] (“ _Parno_ ”)). The following considerations of the Appellant and the Respondent were relevant to the apportionment of liability: 
+42     The apportionment of liability under the defence of contributory negligence requires the court to take into consideration the relative “blameworthiness” of the parties (see _Parno v SC Marine Pte Ltd_ <span class="citation">[1999] 3 SLR(R) 377</span> at [61] (“ _Parno_ ”)). The following considerations of the Appellant and the Respondent were relevant to the apportionment of liability: 
 
  (a) on the part of the Appellant, as management with control over the premises, there was a greater responsibility to ensure the safety of the residents. In Parno , the Court of Appeal at [66] opined that “the whole object of the law imposing a duty on employers to provide a safe system of work [was] precisely to protect an employee from his own inadvertence or carelessness.” Drawing an analogy with employers and their employees, a parallel degree of responsibility should also be placed on the Appellant. The Appellant had been entrusted with the power and responsibility to manage the Condominium, and should be cognizant of any dangers or risks posed to residents. As discussed above, I find that the maintenance system put in place was far from satisfactory in addressing the problem of water puddles and oil patches, and more could have been done to better address the safety of residents; and 
 

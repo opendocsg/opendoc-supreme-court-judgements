@@ -47,7 +47,7 @@ seeking to rely on Indonesian or Singapore law.
 
  Subject to Order 15 Rules 6, 6A, 7 and 8, and this Rule, the Court may any stage of the proceedings allow the plaintiff to amend his writ, or any party to amend his pleading, on such terms as to costs or otherwise as may be just and in such manner (if any) as it may direct. 
 
-10     In _Wright Norman v Oversea-Chinese Banking Corp_ [1994] 1 SLR 513 at [6], the Court of Appeal stated as follows: 
+10     In _Wright Norman v Oversea-Chinese Banking Corp_ <span class="citation">[1994] 1 SLR 513</span> at [6], the Court of Appeal stated as follows: 
 
  It is trite law that an amendment which would enable the real issues between the parties to be tried should be allowed subject to penalties on costs and adjournment, if necessary, unless the amendment would cause injustice or injury to the opposing party which could not be compensated for by costs or otherwise.... This is so even though the omission was caused by carelessness or the application for amendment was made very late in the day ... 
 
@@ -76,7 +76,7 @@ _and North’s Private International Law_ (11th ed, Butterworths 1987) at p 532 
 
  [emphasis added] 
 
-17     In _Goh Chok Tong v Tang Liang Hong_ [1997] 2 SLR 641, the High Court, which did not have to consider the application of the double actionability rule as the defendant failed to plead the relevant following law, nonetheless opined at [82]: 
+17     In _Goh Chok Tong v Tang Liang Hong_ <span class="citation">[1997] 2 SLR 641</span>, the High Court, which did not have to consider the application of the double actionability rule as the defendant failed to plead the relevant following law, nonetheless opined at [82]: 
 
  The option of pleading actionability under a foreign law (or the lack of it, as the case may be) is equally open to, and is frequently invoked by a defendant, where the application of the general rule exonerates him under the lex fori or lex loci delicti. 
 

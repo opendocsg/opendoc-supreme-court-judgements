@@ -26,7 +26,7 @@ _Civil Procedure_ – _Costs_
 
 1       Ong Wui Swoon (“the Sister”) and Ong Wui Teck (“the Brother”) are two out of six siblings. The Sister had alleged that the Brother had failed in his duty as an administrator of their late father Ong Thiat Gan’s estate (“the Estate”) to render an accurate account of its assets. She therefore sued the Brother in Suit No 385 of 2011 asking him to render a proper account of all the Estate’s assets, and also to pay damages for his alleged breach of duty. The Sister also asserted a beneficial interest in the sale proceeds of a private property, which she claimed the Brother held on trust for their father. 
 
-2       On 30 October 2012, I delivered my written judgment (which was reported in _Ong Wui Swoon v Ong Wui Teck_ [2013] 1 SLR 733 (“the Main Judgment”)). I decided that the Brother had failed to give a proper account of the assets of the Estate. I ordered the Registrar of the Supreme Court (“the Registrar”) to conduct an inquiry to determine various matters as set out at [143] of the Main Judgment. For completeness, I would mention that I dismissed the Sister’s claim for a beneficial interest in the sale proceeds of the private property mentioned above. 
+2       On 30 October 2012, I delivered my written judgment (which was reported in _Ong Wui Swoon v Ong Wui Teck_ <span class="citation">[2013] 1 SLR 733</span> (“the Main Judgment”)). I decided that the Brother had failed to give a proper account of the assets of the Estate. I ordered the Registrar of the Supreme Court (“the Registrar”) to conduct an inquiry to determine various matters as set out at [143] of the Main Judgment. For completeness, I would mention that I dismissed the Sister’s claim for a beneficial interest in the sale proceeds of the private property mentioned above. 
 
 3       The inquiry was conducted before Assistant Registrar Shaun Leong (“AR Leong”) in TA 13 of 
 
@@ -88,7 +88,7 @@ costs of RA 72/2014 and RA 54/2014.
 
  (d) the degree of prejudice to the other side if the extension of time is granted. 
 
-23     In _Anwar Siraj and another v Ting Kang Chung John_ [2010] 1 SLR 1026 (“ _Anwar Siraj_ ”), the Court of Appeal (at [30]) mentioned that while these are the four relevant factors, two other considerations should not be disregarded. The first is that the Rules of Court (Cap 322, R 5, 2006 Rev Ed) (“ROC”) must _prima facie_ be obeyed with reasonable diligence being exercised. The second is that the need for finality was a paramount consideration. The precise facts and circumstances of each case are also important, see [28] of _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ [2008] 1 SLR(R) 757. 
+23     In _Anwar Siraj and another v Ting Kang Chung John_ <span class="citation">[2010] 1 SLR 1026</span> (“ _Anwar Siraj_ ”), the Court of Appeal (at [30]) mentioned that while these are the four relevant factors, two other considerations should not be disregarded. The first is that the Rules of Court (Cap 322, R 5, 2006 Rev Ed) (“ROC”) must _prima facie_ be obeyed with reasonable diligence being exercised. The second is that the need for finality was a paramount consideration. The precise facts and circumstances of each case are also important, see [28] of _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ <span class="citation">[2008] 1 SLR(R) 757</span>. 
 
 24     On the length of the delay, AR Leong’s decisions were given on 24 September 2013. OS 1187/2013 was filed on 12 December 2013. This is more than two and a half months from 24 September 2013. However, under O 56 r 1(3) of the ROC, the Brother had 14 days to appeal against that decision. The 14 days would expire on 8 October 2013. Therefore, the actual delay was more than two months which is more than four times the period prescribed under the ROC. 
 
@@ -162,7 +162,7 @@ avoid the costs of taxation. As regards the quantum of the costs, I took into ac
 56     Even if the Brother had genuinely thought that it was preferable to file one appeal to cover both the substantive decision and the costs, that would be his own incorrect perception. In many cases, the substantive decision is given first while the question of costs is addressed later. The notice of appeal on the substantive decision must be filed in time and not await the question of costs to be resolved. 
 
 
-57     Furthermore, even if the Brother’s incorrect perception was the result of a genuine mistake or oversight, a mistake is not in itself necessarily a sufficient reason to grant an extension of time, see [35] of _Anwar Siraj_ which cites a passage from _Denko-HLB Sdn Bhd v Fagerdala Singapore Pte Ltd_ [2002] 2 SLR(R) 336. 
+57     Furthermore, even if the Brother’s incorrect perception was the result of a genuine mistake or oversight, a mistake is not in itself necessarily a sufficient reason to grant an extension of time, see [35] of _Anwar Siraj_ which cites a passage from _Denko-HLB Sdn Bhd v Fagerdala Singapore Pte Ltd_ <span class="citation">[2002] 2 SLR(R) 336</span>. 
 
 58     As for the merits of the Brother’s intended appeal, I accepted that his appeal was not clearly hopeless but it was also uncertain whether the appeal would succeed. 
 

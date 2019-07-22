@@ -62,9 +62,9 @@ under the SBL Account and would have received contract notes from SGX-ST in resp
 
 **Anti-setoff clause** 
 
-9       The other substantive issue raised by the plaintiff was that its claim against the defendant meant that it had a right of equitable set-off against the defendant’s counterclaim. There are however several obstacles that the plaintiff must surmount in order to succeed. The first is that it must show that its claim and the defendant’s counterclaims arose from the same transaction or are closely connected with one another: see _Pacific Rim Investments v Lam Seng Tiong_ [1995] 3 SLR 1. 
+9       The other substantive issue raised by the plaintiff was that its claim against the defendant meant that it had a right of equitable set-off against the defendant’s counterclaim. There are however several obstacles that the plaintiff must surmount in order to succeed. The first is that it must show that its claim and the defendant’s counterclaims arose from the same transaction or are closely connected with one another: see _Pacific Rim Investments v Lam Seng Tiong_ <span class="citation">[1995] 3 SLR 1</span>. 
 
-10     In _Abdul Salam Asanaru Pillai v Nomanbhoy & Sons Pte Ltd_ [2007] 2 SLR 856 at [28], Sundaresh Menon JC made the following observations which I thought are apposite: 
+10     In _Abdul Salam Asanaru Pillai v Nomanbhoy & Sons Pte Ltd_ <span class="citation">[2007] 2 SLR 856</span> at [28], Sundaresh Menon JC made the following observations which I thought are apposite: 
 
  ... The question of whether a sufficient degree of closeness is established in the connection between the respective claims is not determined by some sort of formulaic process. In each case, the question turns on whether the respective claims are so closely connected that it would offend one’s sense of fairness or justice to allow one claim to be enforced without regard to the other. 
 

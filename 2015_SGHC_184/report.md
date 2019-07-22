@@ -190,7 +190,7 @@ regard, the plaintiffs seek the following reliefs:
 
 **_The applicable law_** 
 
-25     The functions of general damages were succinctly stated by the Court of Appeal in _Arul Chandran v Chew Chin Aik Victor_ [2001] 1 SLR(R) 86 (“ _Arul Chandran_ ”) at [53]: 
+25     The functions of general damages were succinctly stated by the Court of Appeal in _Arul Chandran v Chew Chin Aik Victor_ <span class="citation">[2001] 1 SLR(R) 86</span> (“ _Arul Chandran_ ”) at [53]: 
 
  General damages serve three functions. Firstly, they act as a consolation to the plaintiff for the distress he suffered from the publication of the statement. Secondly, they repair the harm to his reputation. Thirdly, they serve to vindicate his reputation. ... 
 
@@ -213,9 +213,9 @@ regard, the plaintiffs seek the following reliefs:
 
  (c) the mode and extent of publication. 
 
-30     In _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ [2010] 4 SLR 357 (“ _Peter Lim_ ”), the Court of Appeal also considered relevant the “intended deterrent effect” of the award, especially where the defendant “has not simply got its facts wrong but has behaved outrageously from start to finish” (at [9]). 
+30     In _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ <span class="citation">[2010] 4 SLR 357</span> (“ _Peter Lim_ ”), the Court of Appeal also considered relevant the “intended deterrent effect” of the award, especially where the defendant “has not simply got its facts wrong but has behaved outrageously from start to finish” (at [9]). 
 
-31     That said, there is no fixed formula governing the assessment of damages. To ensure that such assessments proceed in a coherent and principled fashion, sufficient regard must be paid to past awards in comparable cases, see _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ [2009] 1 SLR(R) 642 at [73] _per_ Belinda Ang J: 
+31     That said, there is no fixed formula governing the assessment of damages. To ensure that such assessments proceed in a coherent and principled fashion, sufficient regard must be paid to past awards in comparable cases, see _Lee Hsien Loong v Singapore Democratic Party and others and another suit_ <span class="citation">[2009] 1 SLR(R) 642</span> at [73] _per_ Belinda Ang J: 
 
  ... This approach is especially useful in promoting a rationally sustainable and coherent regime for damages for libel, and, as a corollary, in avoiding “the grossly exorbitant awards so often made by juries in other jurisdictions”... 
 
@@ -244,7 +244,7 @@ Press reports
 
 37     There is no direct proof that the defendant had communicated her allegations to the press. Nonetheless, in the absence of evidence to the contrary, I find that the content of the web articles were _prima facie_ evidence that the defendant had done so. 
 
-38     The next question that arises is whether the defendant should be held liable for the damage that resulted from repetitions by the press. It is pertinent to note that the defendant is not automatically absolved of responsibility simply because the defamatory statements were voluntarily repeated by the Jakarta Post and the Independent. The publisher of a libel may be liable for republication by others if he had intended it, or it was a foreseeable consequence. In _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ [1997] 3 SLR(R) 46, S Rajendran J stated: 
+38     The next question that arises is whether the defendant should be held liable for the damage that resulted from repetitions by the press. It is pertinent to note that the defendant is not automatically absolved of responsibility simply because the defamatory statements were voluntarily repeated by the Jakarta Post and the Independent. The publisher of a libel may be liable for republication by others if he had intended it, or it was a foreseeable consequence. In _Goh Chok Tong v Jeyaretnam Joshua Benjamin_ <span class="citation">[1997] 3 SLR(R) 46</span>, S Rajendran J stated: 
 
  129 The general rule ... is simply that the original publisher is liable for his publication and the republisher for his republication. Separate acts constitute separate torts. However, applying the rules relating to remoteness of damage to the original tort, it is conceivable that the original publisher is liable for the republication where that republication was more likely than not the consequence of the original publication. 
 
@@ -257,13 +257,13 @@ Press reports
 
  Case Facts Award 
 
- A Balakrishnan and others v Nirumalan K Pillay and others [1999] 2 SLR(R) 462 
+ A Balakrishnan and others v Nirumalan K Pillay and others <span class="citation">[1999] 2 SLR(R) 462</span> 
 
  There were a number of plaintiffs from the legal industry, computer industry or education industry. A defamatory article was released in a Tamil magazine, and an estimated 8, copies were sold. The article was found to impute insincerity of purpose and ulterior motive for personal gain on the part of the respondents in organising the Tamil Language Week (at [36]). 
 
  $30,000 to the first, third and fourth plaintiffs in view of their public status as advocates and solicitors $25,000 to the rest of the plaintiffs 
 
- Arul Chandran v Chew Chin Aik Victor [2001] 1 SLR(R) 86 
+ Arul Chandran v Chew Chin Aik Victor <span class="citation">[2001] 1 SLR(R) 86</span> 
 
  The plaintiff was an advocate and solicitor of more than 30 years and then vice-president of the Tanglin Club. He was portrayed to be an extremely vicious and dangerous fraud and that he was incapable of discharging his duties as chairman of the Membership and Rules SubCommittee of the club in a fair and honest manner. These statements were published in three letters, the first and second to the president and committee of the club and the third to the president of the club. 
 
@@ -282,19 +282,19 @@ _Relevant awards made in Singapore_
 42     I tabulate below damages that have been awarded in comparable cases in Singapore: 
 
 
-_Ei-Nets Ltd and another v Yeo Nai Meng_ [2004] 1 SLR(R) 153 (“ _Ei-Nets_ ”) 
+_Ei-Nets Ltd and another v Yeo Nai Meng_ <span class="citation">[2004] 1 SLR(R) 153</span> (“ _Ei-Nets_ ”) 
 
  The respondent was a director in charge of certain financial decisions of a company. After an audit of these decisions, three reports were released, accusing the plaintiff of fraud and dishonesty. These reports were distributed to a limited number of other directors and staff. 
 
  $80,000 to the plaintiff. Although the plaintiff was not a minister or public leading figure, he was a businessman holding positions of responsibility in public and private organisations. 
 
-_TJ System (S) Pte Ltd and others v Ngow Kheong Shen (No 2)_ [2003] SGHC 217 
+_TJ System (S) Pte Ltd and others v Ngow Kheong Shen (No 2)_ <span class="citation">[2003] SGHC 217</span> 
 
  The defendant wrote to his fellow colleagues, 15 Cisco officers, suggesting that the plaintiff company was suspected of having bribed staff from the Police Technology Department to procure projects. The plaintiff company and a number of its directors then sued the defendant for defamation. 
 
  Between $20,000 to $30,000 to the various plaintiffs. 
 
-_Oei Hong Leong v Ban Song Long David and others_ [2005] 3 SLR(R) 608 
+_Oei Hong Leong v Ban Song Long David and others_ <span class="citation">[2005] 3 SLR(R) 608</span> 
 
  The appellant was a prominent businessman. The first respondent ccused the plaintiff of being unreasonable and unfair in his opposition to resolutions that were proposed at the extraordinary general meeting. 
 
@@ -304,13 +304,13 @@ _Peter Lim_ The defamatory statements suggested that the appellant had caused th
 
  $140,000 as general damages and $70,000 as aggravated damages as the plaintiff was a prominent businessman and investor whose competence, integrity and business acumen had been called into question. 
 
-_Koh Sin Chong Freddie v Chan Cheng Wah Bernard and others and another appeal_ [2013] 4 SLR 629 (“ _Freddie Koh_ 2013”) 
+_Koh Sin Chong Freddie v Chan Cheng Wah Bernard and others and another appeal_ <span class="citation">[2013] 4 SLR 629</span> (“ _Freddie Koh_ 2013”) 
 
  The appellant alleged that the respondents misrepresented facts made by the previous management committee to influence the ratification of the expenditure at the last annual general meeting. These statements were reflected in the minutes of meetings which were posted on the notice board of the club. 
 
  $50,000 to each plaintiff (with $35,000 as general damages and $15,000 as aggravated damages) 
 
-_Golden Season Pte Ltd and others v Kairos Singapore Holdings Pte Ltd and another_ [2015] 2 SLR 751 (“ _Golden Season_ ”) 
+_Golden Season Pte Ltd and others v Kairos Singapore Holdings Pte Ltd and another_ <span class="citation">[2015] 2 SLR 751</span> (“ _Golden Season_ ”) 
 
  The defendants suggested in a Facebook post and in a chain of emails to various individuals in an non-governmental organisations that, the plaintiffs engaged in malpractices that caused donor monies to be used unwisely and suggested an incident of copyright infringement. 
 
@@ -331,9 +331,9 @@ _The first plaintiff_
 
 _The second to fourth plaintiffs_ 
 
-47     Although the sexual abuse allegations were undoubtedly serious attacks on the plaintiffs’ character and integrity, such severity does not justify an award of S$300,000 which belongs to the scale of awards to public leaders in Singapore (see for example _Goh Chok Tong v Chee Soon Juan_ [2005] 1 SLR(R) 573). Furthermore, I note that none of the plaintiffs in the present suit enjoy a reputation as formidable as that enjoyed by the plaintiffs in _Peter Lim_ or _Ei-Nets_. 
+47     Although the sexual abuse allegations were undoubtedly serious attacks on the plaintiffs’ character and integrity, such severity does not justify an award of S$300,000 which belongs to the scale of awards to public leaders in Singapore (see for example _Goh Chok Tong v Chee Soon Juan_ <span class="citation">[2005] 1 SLR(R) 573</span>). Furthermore, I note that none of the plaintiffs in the present suit enjoy a reputation as formidable as that enjoyed by the plaintiffs in _Peter Lim_ or _Ei-Nets_. 
 
-48     Counsel for the plaintiffs has referred me to the decision in _Rantzen_ where £110,000 was awarded by the jury for allegations of child sexual abuse. However, I am mindful of the caution issued by the Court of Appeal in _Tang Liang Hong v Lee Kuan Yew and another and other appeals_ [1997] 3 SLR(R) 576. L P Thean JA, delivering the judgment of the Court of Appeal, said: 
+48     Counsel for the plaintiffs has referred me to the decision in _Rantzen_ where £110,000 was awarded by the jury for allegations of child sexual abuse. However, I am mindful of the caution issued by the Court of Appeal in _Tang Liang Hong v Lee Kuan Yew and another and other appeals_ <span class="citation">[1997] 3 SLR(R) 576</span>. L P Thean JA, delivering the judgment of the Court of Appeal, said: 
 
  124 ... First, in England, defamation actions are tried by a judge with a jury, and assessment of damages is the exclusive preserve of the jury with the benefit of direction from the trial judge. Until the decision in this case, the trial judge in giving direction to the jury on the damages was precluded from referring, among other things, to scales of damages in personal injury cases or giving some guidance as to the appropriate brackets for the damages. Nor was counsel permitted to submit to the jury the appropriate award to be made. The absence of guidelines to the jury had sometimes led to awards being made which were grossly excessive and divorced from reality. Such wildly disproportionate awards had attracted serious and justified criticisms of the procedure involved resulting in such awards. Juries were likened, in the words of Sir Thomas Bingham MR, to “sheep loosed on an unfenced common, with no shepherd”. 
 
@@ -361,15 +361,15 @@ _The second to fourth plaintiffs_
 
  either of the preliminaries or of the trial itself in a manner calculated to attract wide publicity; and persecution of the plaintiff by other means. 
 
-53     The presence of malice is another factor that goes towards aggravating the damage caused, and hence increasing the size of the award (see _Halsbury’s Laws of Singapore_ vol 18 (LexisNexis, 2012 Reissue) (“ _Halsbury_ ”) at para 240.201). As the Court of Appeal held in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ [2012] 1 SLR 506 at [90]: 
+53     The presence of malice is another factor that goes towards aggravating the damage caused, and hence increasing the size of the award (see _Halsbury’s Laws of Singapore_ vol 18 (LexisNexis, 2012 Reissue) (“ _Halsbury_ ”) at para 240.201). As the Court of Appeal held in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ <span class="citation">[2012] 1 SLR 506</span> at [90]: 
 
- In Lim Eng Hock Peter v Lin Jian Wei [2010] 4 SLR 331, this Court further clarified that malice may be proven in two ways – (a) the defendant’s knowledge of falsity, recklessness, or lack of belief in the defamatory statement; and (b) where the defendant has a genuine or honest belief in the truth of the defamatory statement, but his dominant motive is to injure the defendant or some other improper motive. ... 
+ In Lim Eng Hock Peter v Lin Jian Wei <span class="citation">[2010] 4 SLR 331</span>, this Court further clarified that malice may be proven in two ways – (a) the defendant’s knowledge of falsity, recklessness, or lack of belief in the defamatory statement; and (b) where the defendant has a genuine or honest belief in the truth of the defamatory statement, but his dominant motive is to injure the defendant or some other improper motive. ... 
 
 54     Lastly, the principle of proportionality applies to the award of aggravated damages. Caution has to be exercised in the award of aggravated damages to avoid double counting for the distress and humiliation caused to the plaintiff (see _Freddie Koh_ 2013 at [75]). 
 
 **_The first plaintiff_** 
 
-55     An important question that arises from the preceding discussion is whether the first plaintiff, as a corporate entity, is entitled to its claim for aggravated damages. It has been noted by the Court of Appeal in _Basil Anthony Herman v Premier Security Co-operative Ltd and others_ [2010] 3 SLR 110 that the ability of a corporate plaintiff to recover aggravated damages for defamation has not been authoritatively settled (at [65]). 
+55     An important question that arises from the preceding discussion is whether the first plaintiff, as a corporate entity, is entitled to its claim for aggravated damages. It has been noted by the Court of Appeal in _Basil Anthony Herman v Premier Security Co-operative Ltd and others_ <span class="citation">[2010] 3 SLR 110</span> that the ability of a corporate plaintiff to recover aggravated damages for defamation has not been authoritatively settled (at [65]). 
 
 56     In _Messenger Newspapers Group Ltd (plaintiffs) v National Graphical Association (1982) (defendants)_ [1984] 1 All ER 293 (“ _Messenger Newspapers_ ”), it was held that, although a company cannot suffer injury to feelings, it could nonetheless be awarded aggravated damages. In _Golden Season_ , George Wei JC was of the view that the decision in _Messenger Newspapers_ was explicable on the basis that the court was really awarding exemplary damages rather than aggravated damages: 
 
@@ -432,7 +432,7 @@ loss as special damages if such loss is referable to the harm to the plaintiff�
 
  ... [M]ore specific losses, as of particular contracts, particular employments, particular hospitality may also be allowed if properly pleaded and proved. ... 
 
-71     It must also be borne in mind that not all manner of pecuniary losses fall within the scope of special damage. In _Low Tuck Kwong v Sukamto Sia_ [2014] 1 SLR 639, the Court of Appeal clarified that the scope of special damage in the context of defamation suits had to be loss referable to the damage to reputation. The Court stated at [98]: 
+71     It must also be borne in mind that not all manner of pecuniary losses fall within the scope of special damage. In _Low Tuck Kwong v Sukamto Sia_ <span class="citation">[2014] 1 SLR 639</span>, the Court of Appeal clarified that the scope of special damage in the context of defamation suits had to be loss referable to the damage to reputation. The Court stated at [98]: 
 
  ... The tort of defamation primarily protects a person’s reputation (see Gatley ([44] supra ) at para 1.1) and so grants relief for damage to a plaintiff’s reputation, the injury to his feelings and also provides a vindicatory effect. Where therefore the loss resulting from the publication of the words complained of is not referable to such protected interests, such loss is not claimable even if the publication was factually causative of it; it therefore does not include all consequential pecuniary loss. [emphasis in original] 
 

@@ -20,7 +20,7 @@ _Civil Procedure_ – _Costs_
 
 _Civil Procedure_ – _Offer to settle_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 127 of 2017 was allowed while the appeal in Civil Appeal No 21 of 2018 was dismissed by the Court of Appeal on 11 September 2018. See [2018] SGCA 58 .] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 127 of 2017 was allowed while the appeal in Civil Appeal No 21 of 2018 was dismissed by the Court of Appeal on 11 September 2018. See <span class="citation">[2018] SGCA 58</span> .] 
 
 9 March 2017 Judgment reserved. 
 

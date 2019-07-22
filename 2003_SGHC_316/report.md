@@ -518,7 +518,7 @@ the monthly valuation in February 2001, Ng said that the said claim was untenabl
 
 91     In relation to issue (a) concerning the construction of the agreement entered into between the parties, the contention by defendants’ counsel was that the Hi-Amp contract was back-to-back with the AMEC contract. The defendants in this regard relied on cl 4 of the letter of award (which reads: “[other] than the variation in MAIN CONTRACT sum and BQ pricing, all terms and conditions of the MAIN CONTRACT shall apply _mutatis mutandis_ to the SUBCONTRACT”) expressly provides that except in relation to the contract sum and bill of quantity pricing, all the provisions of the AMEC contract shall apply to the parties, with the necessary changes. 
 
-92     In this regard, defendants’ counsel invited my attention to the case of **_Jurong Engineering Ltd v Paccan Building Technology Pte Ltd_** [1999] 3 SLR 667 (CA). In that case, the court of appeal was concerned with a somewhat similar problem. The issue in that case was whether the General 
+92     In this regard, defendants’ counsel invited my attention to the case of **_Jurong Engineering Ltd v Paccan Building Technology Pte Ltd_** <span class="citation">[1999] 3 SLR 667</span> (CA). In that case, the court of appeal was concerned with a somewhat similar problem. The issue in that case was whether the General 
 
 
 Conditions of the Main Contract (‘Gencon’) were incorporated as part of the sub-contract. Insofar as is relevant to the issue at hand, the background facts of the **_Jurong Engineering_** case were as follows. 

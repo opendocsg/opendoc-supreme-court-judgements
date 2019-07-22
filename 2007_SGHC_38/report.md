@@ -346,7 +346,7 @@ Cases in which claimants have succeeded in recovering damages for psychiatric in
 
 ## [2006] ICR 1138). 
 
-89     To succeed in her claim, the second plaintiff must satisfy the three elements laid down by Lord Wilberforce in _McLoughlin v O’Brien_ [1983] AC 410. The tests were reiterated by the House of Lords in _Alcock & Others v Chief Constable of South Yorkshire Police_ (supra ([74])) and followed by our own courts in _Pang Koi Fa v Lim Djoe Phing_ [1993] 3 SLR 317 (cases cited by the second defendant). Lord Wilberforce identified the elements as: 
+89     To succeed in her claim, the second plaintiff must satisfy the three elements laid down by Lord Wilberforce in _McLoughlin v O’Brien_ [1983] AC 410. The tests were reiterated by the House of Lords in _Alcock & Others v Chief Constable of South Yorkshire Police_ (supra ([74])) and followed by our own courts in _Pang Koi Fa v Lim Djoe Phing_ <span class="citation">[1993] 3 SLR 317</span> (cases cited by the second defendant). Lord Wilberforce identified the elements as: 
 
  (a) the class of persons, whose claims ought to be recognised; 
 

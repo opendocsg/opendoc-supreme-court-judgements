@@ -16,7 +16,7 @@
 
 _Employment Law_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 145 of 2011 was dismissed by the Court of Appeal on 31 July 2012. See [2012] SGCA 39.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 145 of 2011 was dismissed by the Court of Appeal on 31 July 2012. See <span class="citation">[2012] SGCA 39</span>.] 
 
 16 December 2011 
 
@@ -165,7 +165,7 @@ and shareholder of Dental Essence on 7 January 2009, which was when he was still
 
 34     As mentioned above, Dr Lui elected to make a submission of no case to answer and not to call any evidence at the close of the case for Smile. This was on 26 September 2011. The principles governing the effect of such a submission are well-established and can be summarised as follows: 
 
- (a) The result of an election by Dr Lui to make a submission of no case to answer is that the court is left with only Smile’s version of the story. If there is some prima facie evidence ( ie , evidence which is not unsatisfactory and not unreliable) that supports the essential elements of Smile’s claim, the court should accept such evidence: see Bansal Hemant Govindprasad and another v Central Bank of India [2003] 2 SLR(R) 33 (“ Govindprasad ”) at [10], [11] and [16]. 
+ (a) The result of an election by Dr Lui to make a submission of no case to answer is that the court is left with only Smile’s version of the story. If there is some prima facie evidence ( ie , evidence which is not unsatisfactory and not unreliable) that supports the essential elements of Smile’s claim, the court should accept such evidence: see Bansal Hemant Govindprasad and another v Central Bank of India <span class="citation">[2003] 2 SLR(R) 33</span> (“ Govindprasad ”) at [10], [11] and [16]. 
 
  (b) Even if there is some prima facie evidence that supports the essential elements of Smile’s claim ( ie , if limb (a) has been satisfied), the court must still consider whether that claim has been established in law : see Govindprasad at [11]. 
 
@@ -208,7 +208,7 @@ and shareholder of Dental Essence on 7 January 2009, which was when he was still
 
  [emphasis added] 
 
-This statement was quoted with approval by GP Selvam J in _Heller Factoring (Singapore) Ltd v Ng Tong Yang_ [1993] 1 SLR(R) 495 (“ _Heller Factoring_ ”) at [15(a)]. Salmon LJ’s remarks should not be read literally, because it is clear from the other sections of his judgment that he was merely reiterating that if some circumstances “must have been entirely outside the contemplation of the parties”, then they would not constitute part of the legal meaning of the clause and would, therefore, be legally irrelevant: see, for instance, _Home Counties_ at 535D–H. This understanding of _Home Counties_ is in fact implicit in _National Aerated Water Co Pte Ltd v Monarch Co, Inc_ [2000] 1 SLR(R) 74 at [37]–[38], and in _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ [2008] 1 SLR(R) 663 (“ _Man Financial_ ”) at [141]. 
+This statement was quoted with approval by GP Selvam J in _Heller Factoring (Singapore) Ltd v Ng Tong Yang_ <span class="citation">[1993] 1 SLR(R) 495</span> (“ _Heller Factoring_ ”) at [15(a)]. Salmon LJ’s remarks should not be read literally, because it is clear from the other sections of his judgment that he was merely reiterating that if some circumstances “must have been entirely outside the contemplation of the parties”, then they would not constitute part of the legal meaning of the clause and would, therefore, be legally irrelevant: see, for instance, _Home Counties_ at 535D–H. This understanding of _Home Counties_ is in fact implicit in _National Aerated Water Co Pte Ltd v Monarch Co, Inc_ <span class="citation">[2000] 1 SLR(R) 74</span> at [37]–[38], and in _Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong Bark Chuan David_ <span class="citation">[2008] 1 SLR(R) 663</span> (“ _Man Financial_ ”) at [141]. 
 
 **_Whether Dr Lui was in breach of the Restrictive Covenants_** 
 
@@ -364,7 +364,7 @@ _Legitimate proprietary interest_
 
  [emphasis added] 
 
-In other words, the extent of the knowledge of, and influence over, the customers is also a relevant factor. This is also established in the case-law: see _Heller Factoring_ at [15(c)], _Buckman Laboratories (Asia) Pte Ltd v Lee Wei Hoong_ [1999] 1 SLR(R) 205 at [24]. However, I would add that this factor is relevant only insofar as it indicates the influence (or likely influence) of the employee over the customers. In itself, knowledge is immaterial unless it can and is likely to be leveraged in some way by the employee to gain some degree of influence. This customer-centred approach was clearly explained by Stamp J in _S W Strange Ltd v Mann_ [1965] 1 WLR 629 at 641F: 
+In other words, the extent of the knowledge of, and influence over, the customers is also a relevant factor. This is also established in the case-law: see _Heller Factoring_ at [15(c)], _Buckman Laboratories (Asia) Pte Ltd v Lee Wei Hoong_ <span class="citation">[1999] 1 SLR(R) 205</span> at [24]. However, I would add that this factor is relevant only insofar as it indicates the influence (or likely influence) of the employee over the customers. In itself, knowledge is immaterial unless it can and is likely to be leveraged in some way by the employee to gain some degree of influence. This customer-centred approach was clearly explained by Stamp J in _S W Strange Ltd v Mann_ [1965] 1 WLR 629 at 641F: 
 
  The defendant had a knowledge of the plaintiff’s customers and of their creditworthiness which was no doubt of great value to the plaintiff but there is nothing to show that it was of value to the customer or would in the least degree encourage a customer to deal with him [ ie , the defendant] as an individual or as an employee in a rival firm. 
 
@@ -580,7 +580,7 @@ _American Express Inc v New Solutions Financial Corp_ (2001) 200 DLR (4th) 560 (
 
 _Transport North American Express Inc v New Solutions Financial Corp_ (2002) 214 DLR (4th) 44 (“ _TNAE (CA)_ ”). 
 
-113    He also relied on: (a) the decision of Lai Siu Chiu J in _Vandashima (Singapore) Pte Ltd and another v Tiong Sing Lean and another_ [2006] SGHC 132 (“ _Vandashima_ ”); (b) _GW Plowman & Son, Ltd v Ash_ [1964] 2 All ER 10 (“ _Plowman_ ”); and (c) _Home Counties_ (see [40] above) (see his Opening Statement at para 129 and closing submissions at para 52). 
+113    He also relied on: (a) the decision of Lai Siu Chiu J in _Vandashima (Singapore) Pte Ltd and another v Tiong Sing Lean and another_ <span class="citation">[2006] SGHC 132</span> (“ _Vandashima_ ”); (b) _GW Plowman & Son, Ltd v Ash_ [1964] 2 All ER 10 (“ _Plowman_ ”); and (c) _Home Counties_ (see [40] above) (see his Opening Statement at para 129 and closing submissions at para 52). 
 
 114    I will deal with the four cases in chronological order. 
 
@@ -694,7 +694,7 @@ Smile also seemed to plead that these duties were also breached by reason of the
 
  There being a duty on the defendant to protect the interests of his principal, if Tully had expressed any dissatisfaction as to the position, then the defendant should have gone to the plaintiff, his principal, to give him an opportunity to find out any grievance which Mr. Tully thought he had. It may well be there was a misunderstanding in Tully's mind about this Penman affair, and if he had gone to the plaintiff about this there might well have been an opportunity for him and Tully to have sorted it out and of clearing up the misunderstanding. I think it was accurately described by counsel for the plaintiff as a "conspiracy of silence" between the defendant and Tully. The defendant said that if he disclosed the existence of this agreement at once to his principal he would betray Tully's confidence, and so he was silent in the interests of Tully and to his principal's detriment. It apparently never occurred to the defendant that while he was still employed by the plaintiff he could not discuss any offer Mr. Tully made; he could not possibly do that until his agreement with the plaintiff was terminated. I am satisfied that in accepting the offer, by such conduct the defendant was guilty of breach of duty in regard to the agreement implied therein by law that the defendant would serve the plaintiff with good faith and fidelity. 
 
-145    Mr Singh pointed out that in _Pacific Autocom Enterprise Pte Ltd v Chia Wah Siang_ [2004] 3 SLR(R) 73 at [70], Prakash J had cited the second paragraph quoted above from _Sanders_ with 
+145    Mr Singh pointed out that in _Pacific Autocom Enterprise Pte Ltd v Chia Wah Siang_ <span class="citation">[2004] 3 SLR(R) 73</span> at [70], Prakash J had cited the second paragraph quoted above from _Sanders_ with 
 
 
 approval. Even so, I had my reservations on the validity of such observations in _Sanders_. 
@@ -804,7 +804,7 @@ relief.
 
 182    I did not agree that _Lancashire_ was authority for such a proposition. As already discussed, Arthur did more than just the taking of preliminary steps. While he was still an employee of LF, he entered into an agreement with Lennox. The latter was the basis for the decision of Carnwath J and, in my view, also the decision of the Court of Appeal. 
 
-183    In _Universal Westech (S) Pte Ltd v Ng Thiam Kiat_ [1996] 3 SLR(R) 429 (“ _Universal Westech_ ”), the plaintiff had alleged breach of fiduciary duties by certain employees. At [54] to [56], Kan J referred to three cases: 
+183    In _Universal Westech (S) Pte Ltd v Ng Thiam Kiat_ <span class="citation">[1996] 3 SLR(R) 429</span> (“ _Universal Westech_ ”), the plaintiff had alleged breach of fiduciary duties by certain employees. At [54] to [56], Kan J referred to three cases: 
 
  Balston (No 1) in which Scott J said he was unimpressed by the springboard argument; 
 
@@ -831,11 +831,11 @@ relief.
 
 189    When one recollects what Kan J subsequently said at [57] which I cited above at [184], it is quite evident that the judge was of the view that preparatory steps before actual competition were permissible. 
 
-190    I should also refer to the judgment of the Court of Appeal in _Ng Thiam Kiat and others v Universal Westech (S) Pte Ltd and another appeal_ [1997] 2 SLR(R) 439. The Court of Appeal said (at [12]) that Kan J had found that the second defendant had breached his duty of fidelity by becoming a director of the third defendant whilst he was still employed by the plaintiffs. As I have elaborated above, that was not all that the second defendant did. Indeed, the Court of Appeal specifically alluded (at [23]) to the letter which the first defendant had written (to Tech Spray) in which the second defendant’s name was used to solicit support from Tech Spray. 
+190    I should also refer to the judgment of the Court of Appeal in _Ng Thiam Kiat and others v Universal Westech (S) Pte Ltd and another appeal_ <span class="citation">[1997] 2 SLR(R) 439</span>. The Court of Appeal said (at [12]) that Kan J had found that the second defendant had breached his duty of fidelity by becoming a director of the third defendant whilst he was still employed by the plaintiffs. As I have elaborated above, that was not all that the second defendant did. Indeed, the Court of Appeal specifically alluded (at [23]) to the letter which the first defendant had written (to Tech Spray) in which the second defendant’s name was used to solicit support from Tech Spray. 
 
 191    I should mention that while Kan J referred to the breach by the second defendant as being a breach of his fiduciary duty, the Court of Appeal described that defendant’s duty as one of fidelity. I will say more on this later (see [226] below). 
 
-192    In _Thomas & Betts (S.E. Asia) Pte Ltd v Ou Tin Joon_ and another [1998] SGHC 57 (“ _Thomas_ ”), the plaintiff alleged, _inter alia_ , that the first defendant (who was its former managing director) had breached his implied duty of good faith and fidelity by making preparations to compete with the plaintiff in anticipation of the termination of his employment with the plaintiff. 
+192    In _Thomas & Betts (S.E. Asia) Pte Ltd v Ou Tin Joon_ and another <span class="citation">[1998] SGHC 57</span> (“ _Thomas_ ”), the plaintiff alleged, _inter alia_ , that the first defendant (who was its former managing director) had breached his implied duty of good faith and fidelity by making preparations to compete with the plaintiff in anticipation of the termination of his employment with the plaintiff. 
 
 193    Lai Siu Chiu J struck out certain paragraphs of the statement of claim pertaining to the breach of that implied duty. She said (at [20]) that mere preparatory acts to compete were insufficient to constitute a breach of the implied duty of good faith and fidelity. For example, an employee was free to apply for a position with a competitor or to find premises to set up a future rival business (citing _GD Searle & Co Ltd v Celltech Ltd_ [1982] FSR 92). 
 

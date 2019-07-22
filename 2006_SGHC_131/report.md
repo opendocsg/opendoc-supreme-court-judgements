@@ -145,7 +145,7 @@ without going into the disputed facts. The plaintiff, on the other hand, made hi
 
 15     After reading the submissions, I find that it is possible and preferable in the circumstances to deal with the preliminary issues against the undisputed facts and the admissions made by the parties. 
 
-16     The general law on moneylending was discussed recently in _City Hardware Pte Ltd v Kenrich Electronics Pte Ltd_ [2005] 1 SLR 733 (“ _City Hardware_ ”) by V K Rajah J. With that judgment as a backdrop, I will deal directly with the three issues. 
+16     The general law on moneylending was discussed recently in _City Hardware Pte Ltd v Kenrich Electronics Pte Ltd_ <span class="citation">[2005] 1 SLR 733</span> (“ _City Hardware_ ”) by V K Rajah J. With that judgment as a backdrop, I will deal directly with the three issues. 
 
 **Whether the plaintiff is a moneylender** 
 
@@ -158,7 +158,7 @@ say to pay a hospital bill, may be made known to _B_ , , or it may not. Again, i
 
 19     To cite two leading cases as examples, in _Litchfield v Dreyfus_ [1906] 1 KB 584, Farwell J held that financing by taking and discounting bills is not moneylending, and in _Olds Discount Co Ltd v John Playfair Ltd_ [1938] 3 All ER 275, Branson J held that the purchase of book debts is not moneylending. 
 
-20     There is a decision which is more directly relevant to the present case. This is _Nissho Iwai International (Singapore) Pte Ltd v Kohinoor Impex Pte Ltd_ [1995] 3 SLR 268 (“ _Nissho_ ”). In this case, the plaintiff agreed with the first defendant to arrange for the plaintiff’s bankers to issue letters of credit and performance bonds for the first defendant to enable the first defendant to purchase timber and the first defendant agreed to pay the plaintiff a commission, interest and the bank charges and the debits made against the plaintiff’s accounts with its bankers for the letters of credit and performance bonds issued. 
+20     There is a decision which is more directly relevant to the present case. This is _Nissho Iwai International (Singapore) Pte Ltd v Kohinoor Impex Pte Ltd_ <span class="citation">[1995] 3 SLR 268</span> (“ _Nissho_ ”). In this case, the plaintiff agreed with the first defendant to arrange for the plaintiff’s bankers to issue letters of credit and performance bonds for the first defendant to enable the first defendant to purchase timber and the first defendant agreed to pay the plaintiff a commission, interest and the bank charges and the debits made against the plaintiff’s accounts with its bankers for the letters of credit and performance bonds issued. 
 
 21     This is essentially the same arrangement between the present plaintiff and the first defendant. Some businessmen who do not have their own funds or banking facilities to pay for their purchases to rely on such arrangements to finance the purchases, and businessmen with ready facilities offer the service for a profit. 
 

@@ -20,7 +20,7 @@ _Evidence_
 
 _Contract_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2010] 3 SLR 48.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2010] 3 SLR 48</span>.] 
 
 3 December 2010 Judgment reserved. 
 
@@ -159,7 +159,7 @@ _General principles_
 30     It is now trite law that there is a distinction between the legal and evidential burden of proof. This court has explained the distinction between the two concepts in _Britestone Pte Ltd v Smith &_ 
 
 
-_Associates Far East Ltd_ [2007] 4 SLR(R) 855 (“ _Britestone_ ”) at [58]: 
+_Associates Far East Ltd_ <span class="citation">[2007] 4 SLR(R) 855</span> (“ _Britestone_ ”) at [58]: 
 
  58 The term “burden of proof” is more properly used with reference to the obligation to prove. There are in fact two kinds of burden in relation to the adduction of evidence. The first, designated the legal burden of proof, is, properly speaking, a burden of proof, for it describes the obligation to persuade the trier of fact that, in view of the evidence, the fact in dispute exists. T he obligation never shifts in respect of any fact, and only “shifts” in a manner of loose terminology when a legal presumption operates. The second is a burden of proof only loosely speaking, for it falls short of an obligation to prove that a particular fact exists. It is more accurately designated the evidential burden to produce evidence since, whenever it operates, the failure to adduce some evidence, whether in propounding or rebutting, will mean a failure to engage the question of the existence of a particular fact or to keep this question alive. As such, this burden can and will shift. 
 
@@ -171,7 +171,7 @@ defence: Pinsler, _Evidence and the Litigation Process_ (LexisNexis, 3rd Ed, 201
 
 _Phipson on Evidence_ (Hodge M Malek gen ed) (Sweet & Maxwell, 17th ed, 2009) (“ _Phipson_ ”) at para 6
 
-06\. The _legal_ burden of proving a pleaded defence rests on the proponent of the defence, unless the defence is a bare denial of the claim: _Currie v Dempsey_ [1967] 2 NSWR 532 at 539, followed by the Singapore High Court in _Wee Yue Chew v Su Sh-Hsyu_ [2008] 3 SLR(R) 212 (“ _Wee Yue Chew_ ”) at [3]. This rule is consistent with the general principle underlying ss 103 and 105 of the Evidence Act, _viz_ , that he who asserts must prove. As stated by Lord Maugham in _Constantine Line v Imperial Smelting Corporation_ [1942] AC 154 (“ _Constantine_ ”) at 174: 
+06\. The _legal_ burden of proving a pleaded defence rests on the proponent of the defence, unless the defence is a bare denial of the claim: _Currie v Dempsey_ [1967] 2 NSWR 532 at 539, followed by the Singapore High Court in _Wee Yue Chew v Su Sh-Hsyu_ <span class="citation">[2008] 3 SLR(R) 212</span> (“ _Wee Yue Chew_ ”) at [3]. This rule is consistent with the general principle underlying ss 103 and 105 of the Evidence Act, _viz_ , that he who asserts must prove. As stated by Lord Maugham in _Constantine Line v Imperial Smelting Corporation_ [1942] AC 154 (“ _Constantine_ ”) at 174: 
 
  The burden of proof in any particular case depends on the circumstances in which the claim arises. In general the rule which applies is “ Ei qui affirmat non ei qui negat incumbit probatio ”. It is an ancient rule founded on considerations of good sense and it should not be departed from without strong reasons. 
 
@@ -231,7 +231,7 @@ Since MEPL’s defence was not one of bare denial, but the assertion of a state 
 
  No judge likes to decide cases on the burden of proof if he can legitimately avoid having to do so. There are cases, however, in which, owing to the unsatisfactory state of the evidence or otherwise, deciding on the burden of proof is the only just course to take. 
 
-We note that under ss 3(3) – (5) of the Evidence Act, there are three possible conclusions which a court assessing the evidence before it may make, _viz_ , that a fact is proved, disproved, or not proved, respectively. Where the evidence suffices to satisfy the court that a fact exists, that fact will be held to have been proved. Conversely, where the evidence suffices to satisfy the court as to the _non-existence_ of a particular fact, that fact will be held to have been disproved: _Loo Chay Sit v Estate of Loo Chay Loo, deceased_ [2010] 1 SLR 286, at [22]. However, the court is not bound to make a choice between finding that a fact is either proved or disproved. It is open to the court to select a third option, _i.e_ ., that a fact is not proved. A statement that a fact is not proved simply 
+We note that under ss 3(3) – (5) of the Evidence Act, there are three possible conclusions which a court assessing the evidence before it may make, _viz_ , that a fact is proved, disproved, or not proved, respectively. Where the evidence suffices to satisfy the court that a fact exists, that fact will be held to have been proved. Conversely, where the evidence suffices to satisfy the court as to the _non-existence_ of a particular fact, that fact will be held to have been disproved: _Loo Chay Sit v Estate of Loo Chay Loo, deceased_ <span class="citation">[2010] 1 SLR 286</span>, at [22]. However, the court is not bound to make a choice between finding that a fact is either proved or disproved. It is open to the court to select a third option, _i.e_ ., that a fact is not proved. A statement that a fact is not proved simply 
 
 
 means that the court is unable to state affirmatively the existence or non-existence of a particular fact given the state of the evidence: _ibid_ at [20]. 
@@ -269,11 +269,11 @@ The Judge also relied on _Lundy v McCulla_ (1865) 11 Gr 368, where it was held t
 
 judgment) that a contract to set-off is but a species of contract, which ought to be subject to the normal contractual rules such as offer and acceptance, consideration, certainty of terms and intention to create legal relations. The Judge then referred to Peel, _Treitel on the Law of Contract_ (Sweet & Maxwell, 12th Ed, 2007) (“ _Trietel_ ”) at para 4-021, for the proposition that contracts were not to be lightly implied. With respect, we would at this juncture observe that “a low evidential threshold” to prove an implied agreement to set-off is hardly consistent with the principle that a contract should not be lightly implied. Indeed, it is settled law that a contract will only be implied if it is necessary to do so: see _The Aramis_ per Bingham LJ at 224; _Baird Textiles Ltd v Marks & Spencer plc_ [2002] 1 All ER (Comm) 737 at [18], [21] and [61]; and _Ilyssia Compania Naviera SA v Ahmed Abdul-Qawi Bamaodah (The Elli 2)_ [1985] 1 Lloyd’s Rep 107 at 115. 
 
-39     We also note that unfortunately, a great deal of uncertainty exists in the area of the law of set-off. In _OCWS Logistics Pte Ltd v Soon Meng Construction Pte Ltd_ [1998] 3 SLR(R) 888, the High Court has set out the historical context of the development of the law of set-off (at [7]): 
+39     We also note that unfortunately, a great deal of uncertainty exists in the area of the law of set-off. In _OCWS Logistics Pte Ltd v Soon Meng Construction Pte Ltd_ <span class="citation">[1998] 3 SLR(R) 888</span>, the High Court has set out the historical context of the development of the law of set-off (at [7]): 
 
  The development of the law of set-off is far from satisfactory. Before 1873 two main sets of courts could claim jurisdiction over the same cause of action. However, they applied different rules. One applied common law and the other applied equity. The common law courts were less receptive to set-off than courts of equity ... 
 
-Following the Supreme Court of Judicature Act 1873 (36 & 37 Vict c 66) (UK), the courts of law and equity were fused, and equitable defences could be relied upon in actions at law, although the concepts of law and equity remained distinct: _Pacific Rim Investments Pte Ltd v Lam Seng Tiong and another_ [1995] 2 SLR(R) 643 (“ _Pacific Rim_ ”) at [25]. 
+Following the Supreme Court of Judicature Act 1873 (36 & 37 Vict c 66) (UK), the courts of law and equity were fused, and equitable defences could be relied upon in actions at law, although the concepts of law and equity remained distinct: _Pacific Rim Investments Pte Ltd v Lam Seng Tiong and another_ <span class="citation">[1995] 2 SLR(R) 643</span> (“ _Pacific Rim_ ”) at [25]. 
 
 40     In Meagher, Gummow and Lehane, _Equity: Doctrines and Remedies_ (Butterworths LexisNexis, 
 
@@ -366,7 +366,7 @@ Indeed, all the requirements for the formation of a contract, _viz_ , offer and 
 
  “The only difference between an express and implied contract is the mode, of substantiating it. An express contract is proved by an actual agreement, an implied contract by circumstances and the general course of dealing between the parties; but where a contract is once proved, the consequences resulting from the breach of it must be the same, whether it be proved by direct or circumstantial evidence.” 
 
-49     More recently, in _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ [2000] 2 SLR(R) 407, this court considered the question of whether a contract may be inferred from correspondence and contemporaneous conduct of the parties in the absence of an express written agreement and stated (at [40]): 
+49     More recently, in _Tribune Investment Trust Inc v Soosan Trading Co Ltd_ <span class="citation">[2000] 2 SLR(R) 407</span>, this court considered the question of whether a contract may be inferred from correspondence and contemporaneous conduct of the parties in the absence of an express written agreement and stated (at [40]): 
 
  The principles of law relating to the formation of contracts are clear. Indeed the task of inferring an assent and of extracting the precise moment, if at all there was one, at which a meeting of the minds between the parties may be said to have been reached is one of obvious difficulty, particularly in a case where there has been protracted negotiations and a considerable exchange of written correspondence between the parties. Nevertheless, the function of the court is to try as far as practical experience allows, to ensure that the reasonable expectations of honest men are not disappointed. To this end, it is also trite law that the test of agreement or of inferring consensus ad idem is objective. Thus, the language used by one party, whatever his real intention may be, is to be construed in the sense in which it would reasonably be understood by the other. 
 

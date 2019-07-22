@@ -16,7 +16,7 @@
 
 _Conflict of Laws Forum Non Conveniens_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 110 and 113 of 2016 were allowed by the Court of Appeal on 18 April 2017. See [2017] SGCA 27.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeals Nos 110 and 113 of 2016 were allowed by the Court of Appeal on 18 April 2017. See <span class="citation">[2017] SGCA 27</span>.] 
 
 17 March 2016 Judgment reserved. 
 
@@ -33,7 +33,7 @@ _Conflict of Laws Forum Non Conveniens_
 4       All three defendants applied to set aside the Mareva injunction which applications (“the setting aside applications”) were dismissed. The two defendants as well as Rappo appealed to the Court of 
 
 
-Appeal (in Civil Appeals Nos 80 and 81 of 2015 respectively) against the dismissal of the setting aside applications (by which time the Mareva injunction had been considerably varied and its scope reduced). All the defendants succeeded in their respective appeals. The appellate court discharged the injunction (see _Bouvier, Yves Charles Edgar and another v Accent Delight International Ltd and another and another appeal_ [2015] 5 SLR 558 (“the CA decision”). 
+Appeal (in Civil Appeals Nos 80 and 81 of 2015 respectively) against the dismissal of the setting aside applications (by which time the Mareva injunction had been considerably varied and its scope reduced). All the defendants succeeded in their respective appeals. The appellate court discharged the injunction (see _Bouvier, Yves Charles Edgar and another v Accent Delight International Ltd and another and another appeal_ <span class="citation">[2015] 5 SLR 558</span> (“the CA decision”). 
 
 5       Having succeeded in the Court of Appeal, all three defendants then proceeded to argue the Summonses which they had filed after the setting side applications. 
 
@@ -91,7 +91,7 @@ Appeal (in Civil Appeals Nos 80 and 81 of 2015 respectively) against the dismiss
 
  (b) the doctrine of forum non conveniens. 
 
-26     Relying on _Virsagi Management (S) Pte Ltd v Welltech Construction Pte Ltd_ [2013] 4 SLR 1097 (“ _Virsagi_ ”), _Koh Kay Yew v Inno-Pacific Holdings Ltd_ [1997] 2 SLR(R) 148, and extracts from the treatise of Professor Yeo Tiong Min (“Prof Yeo”) in _Halsbury’s Laws of Singapore_ vol 6(2) (LexisNexis, Reissue, 2013) (“ _Halsbury’s Laws_ ”), Mr Tong submitted the plaintiffs must elect either Monaco or Singapore for the plaintiffs’ parallel claims against his clients. 
+26     Relying on _Virsagi Management (S) Pte Ltd v Welltech Construction Pte Ltd_ <span class="citation">[2013] 4 SLR 1097</span> (“ _Virsagi_ ”), _Koh Kay Yew v Inno-Pacific Holdings Ltd_ <span class="citation">[1997] 2 SLR(R) 148</span>, and extracts from the treatise of Professor Yeo Tiong Min (“Prof Yeo”) in _Halsbury’s Laws of Singapore_ vol 6(2) (LexisNexis, Reissue, 2013) (“ _Halsbury’s Laws_ ”), Mr Tong submitted the plaintiffs must elect either Monaco or Singapore for the plaintiffs’ parallel claims against his clients. 
 
 27     The two defendants pointed out there were identity of parties and causes of action across the Monaco civil proceedings and this Suit. This was confirmed by the opinions of the parties’ Monaco law experts, Richard Mullot (‘Mullot”) for the plaintiffs and Thomas Olivier Giaccardi (“Giaccardi”) for the two defendants. 
 
@@ -110,7 +110,7 @@ Appeal (in Civil Appeals Nos 80 and 81 of 2015 respectively) against the dismiss
 
 33     Giaccardi deposed that Monaco courts do not recognise and apply the principle of _lis alibi pendens_. Consequently, Monaco courts will not stay pending proceedings in Monaco due to other pending similar proceedings in any other foreign country. He added that Monaco courts can enforce foreign judicial decisions through a procedure known as “ _Exequatur_ ” which allows foreign decisions to create legal effect in Monaco except where the foreign decision conflicts with a Monaco decision, as that would be against Monaco public order. 
 
-34     The possibility of conflicting judgments was another prong in Bouvier’s arguments against allowing the plaintiffs to commence parallel proceedings in two jurisdictions. Bouvier complained it would be oppressive and vexatious on the part of the plaintiffs to put him through unnecessary time, expense and effort to defend himself more than once on substantially the same matter in two different jurisdictions (citing _Multi-Code Electronics Industries (M) Bhd and Another v Toh Chun Toh Gordon and Others_ [2009] 1 SLR(R) 1000 at [38]). 
+34     The possibility of conflicting judgments was another prong in Bouvier’s arguments against allowing the plaintiffs to commence parallel proceedings in two jurisdictions. Bouvier complained it would be oppressive and vexatious on the part of the plaintiffs to put him through unnecessary time, expense and effort to defend himself more than once on substantially the same matter in two different jurisdictions (citing _Multi-Code Electronics Industries (M) Bhd and Another v Toh Chun Toh Gordon and Others_ <span class="citation">[2009] 1 SLR(R) 1000</span> at [38]). 
 
 35     I should also point out that the two legal experts were in disagreement over the meaning of the word “ _inculpé_ ” in relation to the investigation against Bouvier. Mullot translated the word as “charge” whereas Giaccardi said the term under Monasque law meant “being placed under investigation”. They were also in disagreement over the quantum of damages that the plaintiffs could recover in Monaco should the plaintiffs succeed in their civil claims against Bouvier. 
 
@@ -119,7 +119,7 @@ Appeal (in Civil Appeals Nos 80 and 81 of 2015 respectively) against the dismiss
 37     Once Bouvier had demonstrated a duplicity of actions in different jurisdictions (with the attendant risk of conflicting judgments as a result), the burden shifted to the plaintiffs to justify the 
 
 
-continuance of concurrent proceedings by showing “very unusual circumstances” (see _Yusen Air & Sea Service (S) Pte Ltd v KLM Royal Dutch Airlines_ [1999] 2 SLR(R) 955 at [27]). The difference in the standard of proof (supposedly beyond a reasonable doubt in Monaco as against on a balance of probabilities in Singapore) is only a matter of procedure rather than substance. 
+continuance of concurrent proceedings by showing “very unusual circumstances” (see _Yusen Air & Sea Service (S) Pte Ltd v KLM Royal Dutch Airlines_ <span class="citation">[1999] 2 SLR(R) 955</span> at [27]). The difference in the standard of proof (supposedly beyond a reasonable doubt in Monaco as against on a balance of probabilities in Singapore) is only a matter of procedure rather than substance. 
 
 38     Although the second defendant was not a defendant in the Monaco proceedings, Mr Tong argued that it is clear that the plaintiffs’ claims against the second defendant are ancillary to their claims against Bouvier. Consequently, it would still be appropriate and well within the court’s discretion under s 18 of the SCJA to stay the Singapore proceedings against the second defendant. At the very least, the court should grant a limited stay of the Singapore proceedings until the Monaco proceedings have been concluded. 
 
@@ -150,9 +150,9 @@ _The two defendants’ arguments_
 
 applied to all 37 artworks acquired by the plaintiffs. 
 
-44     Moreover, material witnesses are not compellable to testify in Singapore but in Switzerland. These included Elena, Ekaterina, Sazonov and Yuri Bogdanov (a director of Rigmora Holdings Limited that provides administrative and financial services management to the plaintiffs) (“Bogdanov”). Indeed, it was the common argument of all the defendants that these persons do not reside in Singapore and cannot be compelled to testify here. According to _Rickshaw Investments Ltd v Nicolai Baron von Uexkull_ [2007] 1 SLR(R) 377 (“ _Rickshaw_ ”) at [19], there would be savings of time and resources if the trial is held in the forum in which the witnesses reside and where they are clearly compellable to testify. Mr Tong informed the court that the parties had also spent substantial sums just on translation services alone (of French newspaper articles and/or press releases as well as of Monasque legal documents into English). 
+44     Moreover, material witnesses are not compellable to testify in Singapore but in Switzerland. These included Elena, Ekaterina, Sazonov and Yuri Bogdanov (a director of Rigmora Holdings Limited that provides administrative and financial services management to the plaintiffs) (“Bogdanov”). Indeed, it was the common argument of all the defendants that these persons do not reside in Singapore and cannot be compelled to testify here. According to _Rickshaw Investments Ltd v Nicolai Baron von Uexkull_ <span class="citation">[2007] 1 SLR(R) 377</span> (“ _Rickshaw_ ”) at [19], there would be savings of time and resources if the trial is held in the forum in which the witnesses reside and where they are clearly compellable to testify. Mr Tong informed the court that the parties had also spent substantial sums just on translation services alone (of French newspaper articles and/or press releases as well as of Monasque legal documents into English). 
 
-45     Mr Tong submitted that when the second of the two-stage _Spiliada_ test is applied, the burden is on the plaintiffs to show special circumstances why the Singapore proceedings should not be stayed. The _Spiliada_ test has been consistently adopted and applied by our Court of Appeal; (see _inter alia Virsagi_ , _Rickshaw_ , _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Ltd and another_ [2001] 1 SLR 104 and _JIO Minerals FZC and others v Mineral Enterprises Ltd_ [2011] 1 SLR 391 (“ _JIO Minerals_ ”). The appellate court has stated that in applying the _Spiliada_ test, the ultimate question is where the case may more suitably be tried in the interests of all the parties and of the ends of justice ( _Rickshaw_ at [13]). Mr Tong also cited _Virsagi_ and _Ram Parshotam Mittal v Portcullis Trustnet (Singapore) Pte Ltd and Others_ [2014] 3 SLR 1337 (“ _Ram Parshotam Mittal_ ”) in support of his clients’ position. 
+45     Mr Tong submitted that when the second of the two-stage _Spiliada_ test is applied, the burden is on the plaintiffs to show special circumstances why the Singapore proceedings should not be stayed. The _Spiliada_ test has been consistently adopted and applied by our Court of Appeal; (see _inter alia Virsagi_ , _Rickshaw_ , _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Ltd and another_ <span class="citation">[2001] 1 SLR 104</span> and _JIO Minerals FZC and others v Mineral Enterprises Ltd_ <span class="citation">[2011] 1 SLR 391</span> (“ _JIO Minerals_ ”). The appellate court has stated that in applying the _Spiliada_ test, the ultimate question is where the case may more suitably be tried in the interests of all the parties and of the ends of justice ( _Rickshaw_ at [13]). Mr Tong also cited _Virsagi_ and _Ram Parshotam Mittal v Portcullis Trustnet (Singapore) Pte Ltd and Others_ <span class="citation">[2014] 3 SLR 1337</span> (“ _Ram Parshotam Mittal_ ”) in support of his clients’ position. 
 
 46     The two defendants contended they had discharged stage one of the _Spiliada_ test in showing that this Suit’s real and substantive connection is with Switzerland. The burden therefore shifted to the plaintiffs to discharge stage two of the test as to why justice requires that a stay should be refused. 
 
@@ -293,7 +293,7 @@ T he _service obligation_ in this case would be Bouvier’s services in sourcing
 
  the act of disposition and the injury to the assets took place in Switzerland at the time of their execution by the bank with which the [claimant] had opened the account, the management of which was assumed by the [defendants] 
 
-Mr Yeo further cited _UBS AG v Telesto Investments Ltd and others and another matter_ [2011] 4 SLR 503 at [71], [75] and [80] where the court adopted a similar approach. 
+Mr Yeo further cited _UBS AG v Telesto Investments Ltd and others and another matter_ <span class="citation">[2011] 4 SLR 503</span> at [71], [75] and [80] where the court adopted a similar approach. 
 
 71     The plaintiffs submitted that Articles 127 and 128 of the PILA would apply to their claims for unjust enrichment. 
 
@@ -426,7 +426,7 @@ The five types of connections are those set out by Prof Yeo (at [42] _supra_ ) a
 
 95     It bears noting that the court hearing this Suit will be dealing primarily with factual disputes. Expense-wise, it is of little consequence to the parties where the venue of the trial is as all parties have sufficient means to pursue or resist the claims as the case may be, in any country. Translation of documents is part and parcel of litigation. If this Suit moves to Switzerland, the parties would want to translate the documents/papers filed in this Suit into French with the attendant costs. From this court’s experience, competent French interpreters are readily available in Singapore if Bouvier, Rappo and Sazonov choose not to testify in English. Rybolovlev will testify in Russian regardless of where the trial is held as he is neither conversant in French nor English. 
 
-96     As for the compellability of witnesses, it should also be borne in that the compellability of witnesses refers to non-party witnesses. In _CIMB Bank Bhd v Dresdner Kleinwort Ltd_ [2008] 4 SLR 543, (“ _CIMB_ ”) where the Court of Appeal said at [69]: 
+96     As for the compellability of witnesses, it should also be borne in that the compellability of witnesses refers to non-party witnesses. In _CIMB Bank Bhd v Dresdner Kleinwort Ltd_ <span class="citation">[2008] 4 SLR 543</span>, (“ _CIMB_ ”) where the Court of Appeal said at [69]: 
 
  ... location of witnesses is only really significant in relation to third party witnesses who are not in the employ of the party as it could give rise to issues of compellability ... 
 

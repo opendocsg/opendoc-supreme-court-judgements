@@ -163,11 +163,11 @@ _Letter of Offer of 12 September 2006 between plaintiff and first defendant_
 
  The Court of Appeal has also observed that the test for the identification of the forum where the case ought to be tried for the interests of the parties and the ends of justice is not mechanical, but ‘really a simple and commonsensical’ one. 
 
-26     The crux of the matter has been crystallised by Chao Hick Tin JA in _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Ltd and another_ [2001] 1 SLR(R) 104 at [17] in the following terms: 
+26     The crux of the matter has been crystallised by Chao Hick Tin JA in _PT Hutan Domas Raya v Yue Xiu Enterprises (Holdings) Ltd and another_ <span class="citation">[2001] 1 SLR(R) 104</span> at [17] in the following terms: 
 
  The ultimate question remains the same: where should the case be suitably tried having regard to the interest of the parties and the ends of justice. 
 
-27     The nature of the analysis has been well stated by V K Rajah J in _Peters Roger May v Pinder Lillian Gek Lian_ [2006] 2 SLR(R) 381 at [20] and [21]: 
+27     The nature of the analysis has been well stated by V K Rajah J in _Peters Roger May v Pinder Lillian Gek Lian_ <span class="citation">[2006] 2 SLR(R) 381</span> at [20] and [21]: 
 
  A court has to take into account an entire multitude of factors in balancing the competing interests. The weightage accorded to a particular factor varies in different cases and the ultimate appraisal ought to reflect the exigencies dictated by the factual matrix. Copious citations of precedents and dicta are usually of little assistance and may in reality serve to cloud rather than elucidate the applicable principles. 
 
@@ -180,7 +180,7 @@ _Letter of Offer of 12 September 2006 between plaintiff and first defendant_
 
  [emphasis in original] 
 
-28     Finally, the law accords the plaintiff the freedom of choice of the forum where its choice is challenged by _forum non conveniens_ , subject only to the following considerations, as stated by Judith Prakash J in _Focus Energy Ltd v Aye Aye Soe_ [2009] 1 SLR(R) 1086 at [46]: 
+28     Finally, the law accords the plaintiff the freedom of choice of the forum where its choice is challenged by _forum non conveniens_ , subject only to the following considerations, as stated by Judith Prakash J in _Focus Energy Ltd v Aye Aye Soe_ <span class="citation">[2009] 1 SLR(R) 1086</span> at [46]: 
 
  Where more than one forum is appropriate, the plaintiff does not have to affirmatively choose the forum that might be marginally more appropriate than the other(s) to bring its claim. The plaintiff has the right to elect to bring its claim in a forum where the court has jurisdiction, provided only that there be no other forum that is clearly or distinctly more appropriate. [emphasis in original] 
 
@@ -192,11 +192,11 @@ _Letter of Offer of 12 September 2006 between plaintiff and first defendant_
 
 31     The defendants submitted that Indonesia was the more appropriate forum, for the reasons which will be set out hereafter. Interestingly, they did not submit that the law of UAE would be the more appropriate forum in light of the fact that the Letter of Offer was an offer to acquire a 50% shareholding in an UAE company which in turn had an exclusive agency agreement with PT JIO Indonesia. 
 
-32     It was common ground that the burden of proof was on the defendants to establish that Indonesia was the more appropriate forum for this action. It was again common ground that the court would only consider connecting factors material and relevant to the claim and the issues in dispute. I noted and adopted the observations of Belinda Ang Saw Ean JC in _Yeoh Poh San and another v Won Siok Wan_ [2002] SGHC 196 (“ _Yeoh Poh San_ ”) at [18]: 
+32     It was common ground that the burden of proof was on the defendants to establish that Indonesia was the more appropriate forum for this action. It was again common ground that the court would only consider connecting factors material and relevant to the claim and the issues in dispute. I noted and adopted the observations of Belinda Ang Saw Ean JC in _Yeoh Poh San and another v Won Siok Wan_ <span class="citation">[2002] SGHC 196</span> (“ _Yeoh Poh San_ ”) at [18]: 
 
  It must be remembered that the court is required to consider what forum the issues have the closest connection with and will not simply weigh factors without reference to the likely issues. 
 
-33     Similarly I noted and adopted the observations of Andrew Phang JC in _Q & M Enterprises Sdn Bhd v Poh Kiat_ [2005] 4 SLR(R) 494 (“ _Q & M Enterprises Sdn Bhd_ ”) at [21]: 
+33     Similarly I noted and adopted the observations of Andrew Phang JC in _Q & M Enterprises Sdn Bhd v Poh Kiat_ <span class="citation">[2005] 4 SLR(R) 494</span> (“ _Q & M Enterprises Sdn Bhd_ ”) at [21]: 
 
  It is important to note that it is not the mere literal or factual geographical connections that are important (which the plaintiff raised in the context of Singapore). There must be legal significance, so that the mere number of geographical connections per se is not conclusive by any means. 
 
@@ -215,15 +215,15 @@ dispute had its closest connection with Indonesia. The dispute involved concessi
 
 36     In a stay application, it is appropriate, at this interlocutory stage before all the evidence has been heard, for the court to form a _prima facie_ view of the governing law (see _Banco Atlantico SA v British Bank of the Middle East_ [1990] 2 Lloyd’s Rep 504, per Bingham LJ at 507.) 
 
-37     The defendants cited _Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull_ [2007] 1 SLR(R) 377 (“ _Rickshaw Investments Ltd_ ”) at [42] in support of their submission that Indonesia was the more appropriate forum based on their argument that the imputed choice of law of the Letter of Offer ought to be Indonesian law, _viz_ : 
+37     The defendants cited _Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull_ <span class="citation">[2007] 1 SLR(R) 377</span> (“ _Rickshaw Investments Ltd_ ”) at [42] in support of their submission that Indonesia was the more appropriate forum based on their argument that the imputed choice of law of the Letter of Offer ought to be Indonesian law, _viz_ : 
 
  Choice of law issues are relevant even to a question of jurisdiction. The relevance of choice of law considerations in a jurisdictional enquiry regarding the ‘‘natural forum’’ lies in the general proposition that where a dispute is governed by a foreign lex causae , the forum would be less adept in applying this law than the courts of the jurisdiction from which the lex causae originates. [emphasis in original] 
 
 38     The defendants submitted that in imputing the governing law of the Letter of Offer, the court would have to consider to which system of law the transaction had its closest and most real connection, taking into consideration the place of contracting, the place of performance, the places of residence or business of the parties, and the nature and subject matter of the contract. 
 
-3       9 _Pacific Recreation Pte Ltd v S Y Technology Inc and another appeal_ [2008] 2 SLR(R) 491 provides guidance on determining the imputed choice of law where the parties have not expressly or impliedly chosen a governing law. As stated in [36] and [49]: 
+3       9 _Pacific Recreation Pte Ltd v S Y Technology Inc and another appeal_ <span class="citation">[2008] 2 SLR(R) 491</span> provides guidance on determining the imputed choice of law where the parties have not expressly or impliedly chosen a governing law. As stated in [36] and [49]: 
 
- 36 In Overseas Union Insurance Ltd v Turegum Insurance Co [2001] 2 SLR(R) 285 (" OUI v Turegum Insurance ") at [82], it was pointed out that: 
+ 36 In Overseas Union Insurance Ltd v Turegum Insurance Co <span class="citation">[2001] 2 SLR(R) 285</span> (" OUI v Turegum Insurance ") at [82], it was pointed out that: 
 
  There are three stages in determining the governing law of a contract. The first stage is to examine the contract itself to determine whether it states expressly what the governing law should be. In the absence of an express provision one moves to the second stage which is to see whether the intention of the parties as to the governing law can be inferred from the circumstances. If this cannot be done, the third stage is to determine with which system of law the contract has its most close and real connection. That system would be taken, objectively, as the governing or proper law of the contract. ... 
 
@@ -249,7 +249,7 @@ As the location of the concession was in Indonesia and the second defendant was 
 **_Governing law of alternative claim for misrepresentation_** 
 
 
-42     The defendants next submitted that the plaintiff’s alternative claim, _viz_ , the tort of fraudulent misrepresentation, was governed by Indonesian law by reason that the representations were made in Indonesia. The defendants submitted that the place where a tort occurred was _prima facie_ the natural forum for determining the claim and that the tort occurred in Indonesia (see _Rickshaw Investments Ltd_ , at [37] – [40]). He additionally cited _Wing Hak Man and another v Bio-Treat Technology Ltd and others_ [2009] 1 SLR(R) 446 at [26] for the proposition that in order to determine where the alleged tort has been committed, the court should “look back over the series of events” constituting the elements of the tort and ask where in substance the cause of action arose. The defendants submitted that “looking back over the series of events”, the representations were made in Indonesia and hence Indonesia law would apply. 
+42     The defendants next submitted that the plaintiff’s alternative claim, _viz_ , the tort of fraudulent misrepresentation, was governed by Indonesian law by reason that the representations were made in Indonesia. The defendants submitted that the place where a tort occurred was _prima facie_ the natural forum for determining the claim and that the tort occurred in Indonesia (see _Rickshaw Investments Ltd_ , at [37] – [40]). He additionally cited _Wing Hak Man and another v Bio-Treat Technology Ltd and others_ <span class="citation">[2009] 1 SLR(R) 446</span> at [26] for the proposition that in order to determine where the alleged tort has been committed, the court should “look back over the series of events” constituting the elements of the tort and ask where in substance the cause of action arose. The defendants submitted that “looking back over the series of events”, the representations were made in Indonesia and hence Indonesia law would apply. 
 
 43     They further submitted that for the matter to be heard in Singapore, the double actionability rule must apply _, ie_ , for the Singapore court to find liability, the tort would have to be actionable in both jurisdictions. These did not, in my view, present insurmountable obstacles. Double actionability would first need to be raised at trial. Second, the court would need to find that the representations were in fact made in Indonesia. Third, expert evidence of Indonesian law would need to be adduced. The first two would present no difficulty for the trial court. As for Indonesian law the trial court would determine this either by expert evidence adduced or in the absence of its proof, the law of the forum would apply by default (see _Rickshaw Investments Ltd_ , at [43]). 
 

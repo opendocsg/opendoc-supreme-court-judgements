@@ -18,7 +18,7 @@
 
 _Land_ – _Landlord and Tenants_ – _Duration of Tenancy_ – _Periodic Tenancies_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 108 of 2011 was dismissed by the Court of Appeal on 27 August 2012. See [2012] SGCA 48.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 108 of 2011 was dismissed by the Court of Appeal on 27 August 2012. See <span class="citation">[2012] SGCA 48</span>.] 
 
 13 January 2012 
 
@@ -184,7 +184,7 @@ market rental value. The valuers would thus be engaged in the context of a dispu
 
 45     I can accept that the valuers appointed as experts in the context of the rent review mechanism, should be independent and cannot be biased, but I am not sure how much further beyond that I can go. 
 
-46     Taking the plaintiff’s case at its highest, that an allegation of perceived or apparent bias is sufficient to impeach a valuer’s determination, I still found very little to convince me of its merit. In the first place, the concept of apparent bias serves to protect public confidence in the impartiality and integrity of a legal system. Otherwise, as Andrew Phang JC stated in _Tang Kin Hwa v Traditional Chinese Medicine Practitioners Board_ [2005] 4 SLR(R) 604, “all that is noble and fine which undergirds the law will be tarnished and destroyed.” This was echoed in _Metropolitan Properties Co (F.G.C.) Lt v Lannon and ors_ [1968] 3 WLR 694 which the plaintiff relied on in support of its case. At 707H, Lord Denning held: 
+46     Taking the plaintiff’s case at its highest, that an allegation of perceived or apparent bias is sufficient to impeach a valuer’s determination, I still found very little to convince me of its merit. In the first place, the concept of apparent bias serves to protect public confidence in the impartiality and integrity of a legal system. Otherwise, as Andrew Phang JC stated in _Tang Kin Hwa v Traditional Chinese Medicine Practitioners Board_ <span class="citation">[2005] 4 SLR(R) 604</span>, “all that is noble and fine which undergirds the law will be tarnished and destroyed.” This was echoed in _Metropolitan Properties Co (F.G.C.) Lt v Lannon and ors_ [1968] 3 WLR 694 which the plaintiff relied on in support of its case. At 707H, Lord Denning held: 
 
  Justice must be rooted in confidence: and confidence is destroyed when right-minded people go away thinking: “The judge was biased.” 
 
@@ -220,10 +220,10 @@ a propensity to value the Premises at a similar value. I had also accepted the d
 
 55     In the light of my findings that the valuers were not involved in a conflict of interest; and also that the defendant had not obtained any unfair advantage by engaging seven of the eight valuers in 2010, I found that the rent review mechanism was still operable. I therefore dismissed the plaintiff’s application with costs to the defendants to be taxed unless otherwise agreed. There was no need for me to make a determination on the remaining issue in this action, which was whether the court was entitled to order an inquiry into the market rental value of the Premises in the event that it was found that the rent review mechanism had indeed broken down. I gave the parties liberty to apply in the event there was a dispute _vis a vis_ the terms of their joint letter to the President of SISV to nominate three valuers in accordance with cl 2.4(c)(ii), and/or the joint Request for Proposal to the three valuers when nominated by the President of SISV. 
 
-[note: 1] (^) Notes of Evidence 29 August 2011 at p 4 [note: 2] (^) Notes of Evidence 2 Sept 2011 p 18 and Plaintiff’s Written Submissions p 24 [note: 3] (^) Defendant’s Supplementary Submissions at p ii [note: 4] (^) Notes of Evidence 29 August 2011, at p 11E [note: 5] (^) Defendant’s Supplementary Submissions at p ii [note: 6] (^) Chong Thoong Shin’s 1st Affidavit at p 205 [note: 7] (^) _Ibid_ at p 254 [note: 8] (^) _Ibid_ at p 301 [note: 9] (^) _Ibid_ at p 347 [note: 10] (^) _Ibid_ at p 238 [note: 11] (^) Chong Thoong Shin’s 1 st affidavit p 201 [note: 12] (^) Plaintiff’s submissions p 25 [note: 13] (^) _Ibid_ at p 34 [note: 14] (^) _Tang Kin Hwa v Traditional Chinese Medicine Practitioners Board_ [2005] 4 SLR(R) 604 and _Re_ 
+[note: 1] (^) Notes of Evidence 29 August 2011 at p 4 [note: 2] (^) Notes of Evidence 2 Sept 2011 p 18 and Plaintiff’s Written Submissions p 24 [note: 3] (^) Defendant’s Supplementary Submissions at p ii [note: 4] (^) Notes of Evidence 29 August 2011, at p 11E [note: 5] (^) Defendant’s Supplementary Submissions at p ii [note: 6] (^) Chong Thoong Shin’s 1st Affidavit at p 205 [note: 7] (^) _Ibid_ at p 254 [note: 8] (^) _Ibid_ at p 301 [note: 9] (^) _Ibid_ at p 347 [note: 10] (^) _Ibid_ at p 238 [note: 11] (^) Chong Thoong Shin’s 1 st affidavit p 201 [note: 12] (^) Plaintiff’s submissions p 25 [note: 13] (^) _Ibid_ at p 34 [note: 14] (^) _Tang Kin Hwa v Traditional Chinese Medicine Practitioners Board_ <span class="citation">[2005] 4 SLR(R) 604</span> and _Re_ 
 
 
-_Shankar Alan s/o Anant Kulkarni_ [2007] 1 SLR(R) 85 
+_Shankar Alan s/o Anant Kulkarni_ <span class="citation">[2007] 1 SLR(R) 85</span> 
 
 [note: 15] (^) Plaintiff’s Submissions, p 39 Copyright © Government of Singapore. 
 

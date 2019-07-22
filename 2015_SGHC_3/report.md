@@ -128,7 +128,7 @@ According to Mr Wee, the decision of the State Court to grant bail in the sum of
 16     The decision of the Court of Appeal in _Mohamed Razip_ was binding on me and I was therefore unable to accept Mr Wee’s contention that the State Court decision to grant bail was appealable as an order within the meaning of s 374(1) of the CPC. In any event, no reason was advanced by Mr Wee to justify departing from this interpretation. It followed that an order granting bail was not an appealable order. 
 
 
-17     The same view was taken in _Public Prosecutor v Sollihin bin Anhar_ [2014] SGHC 228 (“ _Sollihin_ ”), where Tay Yong Kwang J cited _Mohamed Razip_ and held (at [29]) that a decision on bail was interlocutory in nature and would generally be regarded as a non-appealable order. Mr Wee in oral submissions pointed out that the decision of _Sollihin_ on this point appeared to have rested on a point that was agreed between the parties (see _Sollihin_ at [14]); but this did not detract from the fact that the position laid down in _Mohamed Razip_ seemed to be settled. 
+17     The same view was taken in _Public Prosecutor v Sollihin bin Anhar_ <span class="citation">[2014] SGHC 228</span> (“ _Sollihin_ ”), where Tay Yong Kwang J cited _Mohamed Razip_ and held (at [29]) that a decision on bail was interlocutory in nature and would generally be regarded as a non-appealable order. Mr Wee in oral submissions pointed out that the decision of _Sollihin_ on this point appeared to have rested on a point that was agreed between the parties (see _Sollihin_ at [14]); but this did not detract from the fact that the position laid down in _Mohamed Razip_ seemed to be settled. 
 
 18     There is an ancillary point to be made concerning s 97 of the CPC, which provides as follows: 
 
@@ -151,13 +151,13 @@ According to Mr Wee, the decision of the State Court to grant bail in the sum of
 
 **_Principles governing the exercise of revisionary powers_** 
 
-25     Having decided that this court could exercise powers of revision in the present case, the next question that arose for consideration was whether I should exercise those powers. It is settled law that the threshold is that of “serious injustice” and that reversionary power should be exercised “sparingly” (see _Yunani bin Abdul Hamid v Public Prosecutor_ [2008] 3 SLR(R) 383 at [47]). The requirement of serious injustice was explained by Yong Pung How CJ in the High Court decision of _Ang Poh Chuan v Public Prosecutor_ [1995] 3 SLR(R) 929 at [17] in the following terms: 
+25     Having decided that this court could exercise powers of revision in the present case, the next question that arose for consideration was whether I should exercise those powers. It is settled law that the threshold is that of “serious injustice” and that reversionary power should be exercised “sparingly” (see _Yunani bin Abdul Hamid v Public Prosecutor_ <span class="citation">[2008] 3 SLR(R) 383</span> at [47]). The requirement of serious injustice was explained by Yong Pung How CJ in the High Court decision of _Ang Poh Chuan v Public Prosecutor_ <span class="citation">[1995] 3 SLR(R) 929</span> at [17] in the following terms: 
 
  17 ... there cannot be a precise definition of what would constitute such serious injustice for that would in any event unduly circumscribe what must be a wide discretion vested in the court, the exercise of which would depend largely on the particular facts. But generally it must be shown that there is something palpably wrong in the decision that strikes at its basis as an exercise of judicial power by the court below. 
 
  [emphasis added] 
 
-26     A similarly high threshold for intervention was also recognised in _Knight Glenn Jeyasingam v Public Prosecutor_ [1998] 3 SLR(R) 196 at [19] where it was stated: 
+26     A similarly high threshold for intervention was also recognised in _Knight Glenn Jeyasingam v Public Prosecutor_ <span class="citation">[1998] 3 SLR(R) 196</span> at [19] where it was stated: 
 
  19 ... The court's immediate duty is to satisfy itself as to the correctness, legality or propriety of any order passed and as to the regularity of any proceedings of that subordinate court. However, this is not sufficient to require the intervention of the courts on revision. The irregularity or otherwise noted from the record of proceedings must have resulted in grave and serious injustice. 
 
@@ -169,7 +169,7 @@ According to Mr Wee, the decision of the State Court to grant bail in the sum of
 
 28     In my judgment, the learned District Judge erred in the following important respects. 
 
-29     The first error concerned the burden of proof. Since the respondent was charged with nonbailable offences under s 477A of the Penal Code, bail was not available to the respondent as of right although the court might in its discretion decide to offer bail (see _Fatimah bte Kumin Lim v AttorneyGeneral_ [2014] 1 SLR 547 at [24]). The onus was therefore on him to show that bail should nonetheless be extended to him (see _S Selvamsylvester v Public Prosecutor_ [2005] 4 SLR(R) 409 at 
+29     The first error concerned the burden of proof. Since the respondent was charged with nonbailable offences under s 477A of the Penal Code, bail was not available to the respondent as of right although the court might in its discretion decide to offer bail (see _Fatimah bte Kumin Lim v AttorneyGeneral_ <span class="citation">[2014] 1 SLR 547</span> at [24]). The onus was therefore on him to show that bail should nonetheless be extended to him (see _S Selvamsylvester v Public Prosecutor_ <span class="citation">[2005] 4 SLR(R) 409</span> at 
 
 
 [22]). This may be contrasted with a situation where bail is available as of right for bailable offences (see s 92 of the CPC). Although the District Judge was aware of this distinction, it appears that he ultimately did not take it into account when considering the facts of the bail application. I shall elaborate on this by setting out the events that transpired in the court below as well as the District Judge’s reasoning found in the notes of evidence. 
@@ -193,7 +193,7 @@ held that the Second Transfer was “neither here nor there” [note: 2] and tha
 
 34     There was also a second error. The District Judge seemed to have placed little weight on the admitted fact that the bail money would not be that of the Singaporean sureties but would have been channelled to the sureties from the respondent’s parents who resided in China. It appears that the District Judge considered this fact to be merely an administrative detail that was not relevant to his assessment of whether to grant bail and he was content to leave it to the bail centre to assess the suitability of the sureties. The authorities cited in the following paragraphs demonstrate that the District Judge erred in this respect because the source of bail monies has an important effect on the “pull of bail”, a concept that stands at the heart of the concept of bail. 
 
-35     In _Public Prosecutor v Ram Ghanshamdas Mahtani and another action_ [2003] 1 SLR(R) 517 at [9], Yong CJ agreed with and adopted the following observations of Lord Widgery CJ in _R v Southhampton Justices, ex parte Corker_ (1976) 120 SJ 214: 
+35     In _Public Prosecutor v Ram Ghanshamdas Mahtani and another action_ <span class="citation">[2003] 1 SLR(R) 517</span> at [9], Yong CJ agreed with and adopted the following observations of Lord Widgery CJ in _R v Southhampton Justices, ex parte Corker_ (1976) 120 SJ 214: 
 
  ... The real pull of bail, the real effective force that it exerts, is that it may cause the offender to attend his trial rather than subject his nearest and dearest who has gone surety for him to undue pain and discomfort. ... 
 
@@ -249,7 +249,7 @@ requirement was dispensed with, then the pull of bail would be negated and the v
 
  (i) The length of the period of detention of the accused and the probability of any further period of delay. 
 
-I pause to note that some of these considerations overlap with the considerations relevant in the context of a bail application pending appeal (see _Public Prosecutor v Adith s/o Sarvotham_ [2014] 3 SLR 649 at [29]). 
+I pause to note that some of these considerations overlap with the considerations relevant in the context of a bail application pending appeal (see _Public Prosecutor v Adith s/o Sarvotham_ <span class="citation">[2014] 3 SLR 649</span> at [29]). 
 
 45     In my judgment, the appropriate course in the entire context of this case was to direct that the order granting bail be revoked. The relevant circumstances on the facts of this case included the following: 
 

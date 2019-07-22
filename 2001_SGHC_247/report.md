@@ -202,7 +202,7 @@ Plaintiffs’ application in SIC 1254/2001 which sought to strike out paragraph 
 
  "7. On the hearing of an application for an order under Rule 1, 5 or 6, the Court may, if satisfied that discovery is not necessary, or not necessary at that stage of the cause or matter, dismiss or, as the case may be, adjourn the application and shall in any case refuse to make such an order if and so far as it is of opinion that discovery is not necessary either for disposing fairly of the cause or matter or for saving costs." 
 
-28     In _Business Software Alliance & Ors v S M Summit Holdings Ltd & Anor_ [2000] 2 SLR 733, the Defendants in the libel action there filed two applications for a further and better list of documents and specific discovery of certain documents from the Plaintiffs. At paragraph 33 of the judgment, the Court of Appeal said: 
+28     In _Business Software Alliance & Ors v S M Summit Holdings Ltd & Anor_ <span class="citation">[2000] 2 SLR 733</span>, the Defendants in the libel action there filed two applications for a further and better list of documents and specific discovery of certain documents from the Plaintiffs. At paragraph 33 of the judgment, the Court of Appeal said: 
 
  "33. We now come to the documents the defendants seek from the plaintiffs. The question is whether the d o c u m e n t s sought satisfy the test of relevancy. ..." 
 

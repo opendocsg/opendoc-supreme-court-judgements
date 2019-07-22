@@ -143,7 +143,7 @@ contained heroin. The accused admitted that after Azman cut open one bundle to d
 
 By s 2 of the MDA, “traffic” is defined to include “transport”, “send” and “deliver”. 
 
-23     In _Muhammad Ridzuan bin Md Ali v PP and other matters_ [2014] 3 SLR 721, the Court of Appeal held at [59] that the elements of a charge of trafficking under s 5(1)( _a_ ) read with s 5(2) of the MDA are (a) possession of a controlled drug; (b) knowledge of the nature of the drug; and (c) proof that possession of the drug was for the purpose of trafficking which was not authorised. There was no dispute as to the law. 
+23     In _Muhammad Ridzuan bin Md Ali v PP and other matters_ <span class="citation">[2014] 3 SLR 721</span>, the Court of Appeal held at [59] that the elements of a charge of trafficking under s 5(1)( _a_ ) read with s 5(2) of the MDA are (a) possession of a controlled drug; (b) knowledge of the nature of the drug; and (c) proof that possession of the drug was for the purpose of trafficking which was not authorised. There was no dispute as to the law. 
 
 **Closing submissions** 
 
@@ -189,7 +189,7 @@ By s 2 of the MDA, “traffic” is defined to include “transport”, “send�
 31     In respect of the first requirement, it was not disputed that in determining whether an offender has acted as a courier, the court should look only to his role in respect of the capital charge for which he is tried, and disregard his role in respect of any other distinct drug transactions. Section 33B(2)( _a_ ) of the MDA specifically refers to the offender’s “involvement in _the_ offence” [emphasis 
 
 
-added]. At the end of the day, the determination of whether an offender is a courier necessarily involves a fact-specific inquiry: _PP v Christeen d/o Jayamany and another_ [2015] SGHC 126 at [68]. 
+added]. At the end of the day, the determination of whether an offender is a courier necessarily involves a fact-specific inquiry: _PP v Christeen d/o Jayamany and another_ <span class="citation">[2015] SGHC 126</span> at [68]. 
 
 32     In relation to the three packets of drugs which formed the subject matter of the charge, the accused collected them and was meant to deliver them as and when he received instructions from Abang. He expected to get a reward for doing so. While the accused might have collected the sum of $2,000 for the half “batu” delivered to Lim just prior to the arrest, there was nothing to show that he was required to do anything more in relation to the three packets of drugs. Therefore, on the evidence available, I found on a balance of probabilities that the accused’s role fell within the acts of a courier set out at s 33B(2)( _a_ ) of the MDA. In fact, the Prosecution did not dispute this. 
 

@@ -24,7 +24,7 @@ _Criminal Procedure and Sentencing_
 
 **Introduction** 
 
-1       The appellant was convicted in the High Court of trafficking in 30.37g of diamorphine under s 5(1)( _a_ ) read with s 5(2) of the Misuse of Drugs Act (Cap 185, 2001 Rev Ed) and was sentenced to death accordingly: see _PP v Teo Cheow Kim_ [2007] SGHC 70 (“the GD”). The charge on which the appellant was convicted (“the Charge”) read as follows: 
+1       The appellant was convicted in the High Court of trafficking in 30.37g of diamorphine under s 5(1)( _a_ ) read with s 5(2) of the Misuse of Drugs Act (Cap 185, 2001 Rev Ed) and was sentenced to death accordingly: see _PP v Teo Cheow Kim_ <span class="citation">[2007] SGHC 70</span> (“the GD”). The charge on which the appellant was convicted (“the Charge”) read as follows: 
 
  That you, Teo Cheow Kim 
 
@@ -136,9 +136,9 @@ A7: “Ah Dee” will give me Singapore dollars $3000.
 
 **Our decision** 
 
-21     It is settled law that an appellate court customarily exercises great caution in evaluating factual findings and will not interfere with a trial judge’s findings of fact unless they are plainly wrong. To this end, the observations made by this court in _Chew Seow Leng v PP_ [2005] SGCA 11 at [25] are apposite: 
+21     It is settled law that an appellate court customarily exercises great caution in evaluating factual findings and will not interfere with a trial judge’s findings of fact unless they are plainly wrong. To this end, the observations made by this court in _Chew Seow Leng v PP_ <span class="citation">[2005] SGCA 11</span> at [25] are apposite: 
 
- It is trite law that an appellate court will not disturb the findings of fact made by the trial judge, unless they are clearly reached against the weight of the evidence or plainly wrong. The appellate court must bear in mind that it has neither seen nor heard the witnesses and has to pay due regard to the trial judge’s findings and reasons: Lim Ah Poh v PP [1992] 1 SLR 713, Ameer Akbar v Abdul Hamid [1997] 1 SLR 113. This is especially the case where the findings turn on the trial judge’s assessment of the credibility and veracity of the witnesses: Yap Giau Beng Terence v PP [1998] 3 SLR 656. 
+ It is trite law that an appellate court will not disturb the findings of fact made by the trial judge, unless they are clearly reached against the weight of the evidence or plainly wrong. The appellate court must bear in mind that it has neither seen nor heard the witnesses and has to pay due regard to the trial judge’s findings and reasons: Lim Ah Poh v PP <span class="citation">[1992] 1 SLR 713</span>, Ameer Akbar v Abdul Hamid <span class="citation">[1997] 1 SLR 113</span>. This is especially the case where the findings turn on the trial judge’s assessment of the credibility and veracity of the witnesses: Yap Giau Beng Terence v PP <span class="citation">[1998] 3 SLR 656</span>. 
 
 
 22     Before us, Mr Ganesan submitted that Lim Hock Kim’s drugs and the appellant’s drugs had been grouped together at some stage of the investigation. He argued that there had been no evidence as to the quantity of Lim Hock Kim’s drugs, and that the Judge had improperly curtailed the cross-examination of Lim Hock Kim when Mr Ho attempted to clarify the possibility of a mix-up between the two sets of drugs. Mr Ganesan contended that the Defence had thus been denied an opportunity to establish that a mix-up could have occurred in this respect to the prejudice of the appellant. 

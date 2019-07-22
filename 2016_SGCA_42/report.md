@@ -16,7 +16,7 @@
 
 _Building and Construction Law_ – _Statutes and regulations_ – _Building control_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2015] 2 SLR 616.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2015] 2 SLR 616</span>.] 
 
 8 July 2016 Judgment reserved. 
 
@@ -58,7 +58,7 @@ _Building and Construction Law_ – _Statutes and regulations_ – _Building con
 
 **The Judicial Commissioner’s decision** 
 
-10     The Judicial Commissioner’s decision is reported as _Kori Construction (S) Pte Ltd v Nam Hong Construction & Engineering Pte Ltd_ [2015] 2 SLR 616 (“the GD”). When the matter came before her, the focus continued to be whether the conjunctive or disjunctive interpretation was to be preferred (see the GD at [13]). The Judicial Commissioner disagreed with the District Judge and agreed with Kori that the disjunctive reading should be preferred. She gave three reasons for her decision: 
+10     The Judicial Commissioner’s decision is reported as _Kori Construction (S) Pte Ltd v Nam Hong Construction & Engineering Pte Ltd_ <span class="citation">[2015] 2 SLR 616</span> (“the GD”). When the matter came before her, the focus continued to be whether the conjunctive or disjunctive interpretation was to be preferred (see the GD at [13]). The Judicial Commissioner disagreed with the District Judge and agreed with Kori that the disjunctive reading should be preferred. She gave three reasons for her decision: 
 
  (a) The licensing regime in Part VA of the Act was meant to enhance safety standards in the construction of buildings generally and not just “structural steelwork” carried out underground (at [36]). Viewed in this light, a disjunctive reading of the three limbs of para ( d ) would promote the object of the Act whereas a conjunctive reading would not because the latter would “confine the licensing requirements in respect of ‘structural steelwork’ only to the narrow situation where a portion of such work is carried out underground” (at [33]). 
 
@@ -148,7 +148,7 @@ _The principle against doubtful penalisation_
 
 27     If the disjunctive interpretation were adopted, Nam Hong might not only be deprived of payment for its services, but it might also find itself in contravention of s 29B(3) of the Act, which makes it a criminal offence to carry out either general building works or specialist building works without a licence. Mr Hanam therefore relies on the principle against doubtful penalisation (see Oliver Jones, _Bennion on Statutory Interpretation_ (LexisNexis, 6th Ed, 2013) (“ _Bennion_ ”) at p 749) to submit that we should prefer the conjunctive interpretation over the disjunctive interpretation in order to avoid subjecting Nam Hong (and other contractors in like situation) to penal consequences in the face of an ambiguous statute. We cannot accept this submission. 
 
-28     In the decision of the Singapore High Court in _Public Prosecutor v Low Kok Heng_ [2007] 4 SLR(R) 183 (“ _Low Kok Heng_ ”) at [30]–[38], V K Rajah JA considered the principle against doubtful penalisation, which he termed the “strict construction rule”, at some length. The following propositions may be gleaned from the judgment of the court: 
+28     In the decision of the Singapore High Court in _Public Prosecutor v Low Kok Heng_ <span class="citation">[2007] 4 SLR(R) 183</span> (“ _Low Kok Heng_ ”) at [30]–[38], V K Rajah JA considered the principle against doubtful penalisation, which he termed the “strict construction rule”, at some length. The following propositions may be gleaned from the judgment of the court: 
 
  (a) Section 9A of the Interpretation Act (Cap 1, 2002 Rev Ed) enjoins the courts to interpret statutes purposively, irrespective of whether it is a penal or civil statute. The purposive approach towards statutory interpretation takes precedence over all other common law principles of interpretation, including the strict construction rule: at [55]–[57]. 
 
@@ -283,7 +283,7 @@ _Can a rectifying construction be adopted?_
 
 the general definition of “builder” in s 2. 
 
-55     The test for when the adoption of a rectifying construction is permitted was set out by us in _Kok Chong Weng and others v Wiener Robert Lorenz and others (Ankerite Pte Ltd, intervener)_ [2009] 2 SLR(R) 709 (“ _Kok Chong Weng_ ”) at [57] where we adopted the test that was set out by of the House of Lords in _Wentworth Securities Ltd v Jones_ [1980] AC 74, as refined in _Inco Europe and others v First Choice Distribution (a firm) and others_ [2000] 1 WLR 586. Chan Sek Keong CJ, delivering the judgment of the Court of Appeal, held that the following three cumulative conditions had to be adopted before the court would read words into a statute to rectify what it perceived to be an error in legislative drafting (see _Kok Chong Weng_ at [57]): 
+55     The test for when the adoption of a rectifying construction is permitted was set out by us in _Kok Chong Weng and others v Wiener Robert Lorenz and others (Ankerite Pte Ltd, intervener)_ <span class="citation">[2009] 2 SLR(R) 709</span> (“ _Kok Chong Weng_ ”) at [57] where we adopted the test that was set out by of the House of Lords in _Wentworth Securities Ltd v Jones_ [1980] AC 74, as refined in _Inco Europe and others v First Choice Distribution (a firm) and others_ [2000] 1 WLR 586. Chan Sek Keong CJ, delivering the judgment of the Court of Appeal, held that the following three cumulative conditions had to be adopted before the court would read words into a statute to rectify what it perceived to be an error in legislative drafting (see _Kok Chong Weng_ at [57]): 
 
  (a) first, it was possible to determine from a consideration of the provisions of the Act read as a whole what the mischief was that Parliament sought to remedy with the Act; 
 

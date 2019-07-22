@@ -94,11 +94,11 @@ dated 25 May 2009, asserting that the Plaintiff had no legal right to stay in th
 
 **The law on striking out** 
 
-10     The standard which must be satisfied before pleadings can be struck out was clearly set out in the Court of Appeal case of _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ [1997] 3 SLR(R) 649 at [18]: 
+10     The standard which must be satisfied before pleadings can be struck out was clearly set out in the Court of Appeal case of _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ <span class="citation">[1997] 3 SLR(R) 649</span> at [18]: 
 
  In general, it is only in plain and obvious cases that the power of striking out should be invoked. This was the view taken by Lindley MR in Hubbuck & Sons v Wilkinson, Heywood and Clark [1899] 1 QB 86 at p 91. It should not be exercised by a minute and protracted examination of the documents and facts of the case in order to see if the Plaintiff really has a cause of action. The practice of the courts has been that, where an application for striking out involves a lengthy and serious argument, the court should decline to proceed with the argument unless, not only does it have doubts as to the soundness of the pleading but, in addition, it is satisfied that striking out will obviate the necessity for a trial or reduce the burden of preparing for a trial. 
 
-11     In _The Osprey_ [1999] 3 SLR(R) 1099, it was also held that the court’s power to strike out any pleading and dismiss actions under O 18 r 19(1) would only be exercised in “plain and obvious” cases. G P Selvam JC in _Tan Eng Khiam v Ultra Realty Pte Ltd_ [1991] 1 SLR(R) 844 at [31], provides further explanation for the court’s reluctance to summarily strike out a claim: 
+11     In _The Osprey_ <span class="citation">[1999] 3 SLR(R) 1099</span>, it was also held that the court’s power to strike out any pleading and dismiss actions under O 18 r 19(1) would only be exercised in “plain and obvious” cases. G P Selvam JC in _Tan Eng Khiam v Ultra Realty Pte Ltd_ <span class="citation">[1991] 1 SLR(R) 844</span> at [31], provides further explanation for the court’s reluctance to summarily strike out a claim: 
 
 
  ... This is anchored on the judicial policy to afford a litigant the right to institute a bona fide claim before the courts and to prosecute it in the usual way. Whenever possible the courts will let the Plaintiff proceed with the action unless his case is wholly and clearly unarguable ... 
@@ -129,7 +129,7 @@ This provision was amended to its current wording in 2010, with the words “or 
 
  No person shall become entitled to any such flat, house or other building under any resulting trust or constructive trust, whensoever created. 
 
-16     In _Koh Cheong Heng v Ho Yee Fong_ [2011] 3 SLR 125 (“ _Koh Cheong Heng_ ”), Prakash J explained at [56] that this amendment did not change the effect of the provision but only served to clarify that “a ‘resulting trust’ or a ‘constructive trust’ may be more properly said to arise by operation of law, rather than by the creation of parties”. 
+16     In _Koh Cheong Heng v Ho Yee Fong_ <span class="citation">[2011] 3 SLR 125</span> (“ _Koh Cheong Heng_ ”), Prakash J explained at [56] that this amendment did not change the effect of the provision but only served to clarify that “a ‘resulting trust’ or a ‘constructive trust’ may be more properly said to arise by operation of law, rather than by the creation of parties”. 
 
 17     As such, the Ministerial Statement that was read at the second reading of the Bill in 2005 in relation to the previous s 51(6) is relevant for understanding the objectives lying behind s 51(10) (see _Singapore Parliamentary Debates, Official Report_ (15 August 2005) vol 80 at col 1252 (Mah Bow Tan, 
 
@@ -138,7 +138,7 @@ Minister for National Development)). The relevant portion is reproduced accordin
 
  Clause 6 of the Bill amends section 51 to make it clear that, in addition to prohibiting the voluntary creation of trusts over an HDB flat, the Act also prohibits any person from becoming entitled to a HDB flat under a resulting trust or a constructive trust. This will help to prevent a situation where a person who is ineligible to own an HDB flat may become entitled to own one, for example, by paying the purchase price of the flat on behalf of the owner. 
 
-18     In _Tan Chui Lian v Neo Liew Eng_ [2007] 1 SLR(R) 265 (“ _Tan Chui Lian_ ”), Menon JC (as he then was) interpreted this to mean that a blanket prohibition of resulting or constructive trusts was therefore not the objective of s 51(6) of the then HDA. Rather, the object of the provision was to prevent ineligible persons from owning HDB flats by way of resulting or constructive trust (see _Tan Chui Lian_ at [10]): 
+18     In _Tan Chui Lian v Neo Liew Eng_ <span class="citation">[2007] 1 SLR(R) 265</span> (“ _Tan Chui Lian_ ”), Menon JC (as he then was) interpreted this to mean that a blanket prohibition of resulting or constructive trusts was therefore not the objective of s 51(6) of the then HDA. Rather, the object of the provision was to prevent ineligible persons from owning HDB flats by way of resulting or constructive trust (see _Tan Chui Lian_ at [10]): 
 
  It becomes clear when one has regard to that statement that Parliament’s intention was not to prevent any interest in an HDB flat arising under a resulting trust or a constructive trust regardless of the circumstances, but rather to prevent any entitlement to own an HDB flat arising in favour of a person by virtue of the law implying a resulting or constructive trust, where that person would otherwise have been ineligible to acquire such an interest.[emphasis in original] 
 
@@ -171,9 +171,9 @@ _Whether a claim in proprietary estoppel is necessarily precluded by s 51(10) of
 
 _Land Law_ (Oxford University Press, 5th Ed, 2009) (“ _Gray and Gray_ ”) at pp 1234–1237. The court then has the discretion to decide what remedy is appropriate in the circumstances to satisfy the equity raised. 
 
-26     The principle adopted by the courts in deciding on the appropriate remedy is to award the minimum right or interest necessary to do justice between the parties ( _Goh Swee Fang v Tiah Juah Kim_ [1994] 3 SLR(R) 556). The court’s primary function in doing so is not to ascertain proprietary rights, but to rectify the unconscionability which arose due to the detrimental reliance by the plaintiff on the defendant’s representation in a proportionate manner ( _Sledmore v Darby_ (1996) 72 P & CR 196). 
+26     The principle adopted by the courts in deciding on the appropriate remedy is to award the minimum right or interest necessary to do justice between the parties ( _Goh Swee Fang v Tiah Juah Kim_ <span class="citation">[1994] 3 SLR(R) 556</span>). The court’s primary function in doing so is not to ascertain proprietary rights, but to rectify the unconscionability which arose due to the detrimental reliance by the plaintiff on the defendant’s representation in a proportionate manner ( _Sledmore v Darby_ (1996) 72 P & CR 196). 
 
-27     As such, a trust may be imposed over the property if it is required as the minimum right necessary to do justice between the parties, but this is not necessarily the case. The minimum interest necessary to do justice between the parties could also take the form of monetary compensation ( _Khew Ah Bah v Hong Ah Mye_ [1971–1973] SLR(R) 107), or the equity could even be held to be extinguished, which means that no remedy is necessary ( _Chiam Heng Luan v Chiam Heng Hsien_ [2007] 4 SLR(R) 305). 
+27     As such, a trust may be imposed over the property if it is required as the minimum right necessary to do justice between the parties, but this is not necessarily the case. The minimum interest necessary to do justice between the parties could also take the form of monetary compensation ( _Khew Ah Bah v Hong Ah Mye_ [1971–1973] SLR(R) 107), or the equity could even be held to be extinguished, which means that no remedy is necessary ( _Chiam Heng Luan v Chiam Heng Hsien_ <span class="citation">[2007] 4 SLR(R) 305</span>). 
 
 
 28     This is one of the main differences between proprietary estoppel and constructive trusts, as stated in _Tan Sook Yee_ at p 153: 
@@ -224,7 +224,7 @@ _Further considerations_
  First, as a matter of strategy, lawyers who are advising a claimant who is ineligible to own a HDB flat must be very careful in asking for the appropriate prayers. It is suggested that as a matter of prudence, such a claimant should ask for a monetary award instead of a proprietary interest. 
 
 
- Second, even if an ineligible claimant asked for a proprietary interest, it is contended that such a claimant should not [be] precluded from being granted a monetary award. Such a monetary award is meant to satisfy an equity that has been raised due to a representation made by the defendant to the claimant. Unlike PP v Intra Group (Holdings) Co Inc [1991] 1 SLR(R) 154, where an award of a monetary remedy would have the effect of undermining the Residential Property Act (Cap 274, 2009 Rev Ed), the underlying policy of the HDA is not compromised by a monetary award in the context of [a] proprietary estoppel claim. 
+ Second, even if an ineligible claimant asked for a proprietary interest, it is contended that such a claimant should not [be] precluded from being granted a monetary award. Such a monetary award is meant to satisfy an equity that has been raised due to a representation made by the defendant to the claimant. Unlike PP v Intra Group (Holdings) Co Inc <span class="citation">[1991] 1 SLR(R) 154</span>, where an award of a monetary remedy would have the effect of undermining the Residential Property Act (Cap 274, 2009 Rev Ed), the underlying policy of the HDA is not compromised by a monetary award in the context of [a] proprietary estoppel claim. 
 
 37     The first is a matter of practical advice, and I need make no further mention of it. I focus, instead, on the second response. The law of proprietary estoppel is that the court has the discretion to award compensation when the circumstances suggest that such a remedy would do justice between the parties. This proposition also finds support from _Snell’s Equity_ (John McGhee gen ed) (Sweet & Maxwell, 2010) at para 12-028, which states that, “the court now also recognises that compensation can be used as a complementary remedy when expectations cannot be fulfilled, wholly or in part, in specie”. This is also noted by the authors of _Gray and Gray_ at para 9.2.95: 
 
@@ -268,7 +268,7 @@ _Further considerations_
 
 the current proceedings is based upon having an equitable interest in the Flat, the issue is _res judicata_ founded on either issue estoppel or abuse of process. 
 
-46     An O 81 application is for summary proceedings for possession of land. As held by Chan Seng Onn J in _Ong Beng Chong v Goh Kim Thong_ [2010] SGHC 195 ( _“Ong Beng Chong_ ”) (at [6]), “[t]he legal position with respect to recovery of possession in such cases is clear.” Chan J referred to two cases regarding equitable estoppel and recovery of possession of land. 
+46     An O 81 application is for summary proceedings for possession of land. As held by Chan Seng Onn J in _Ong Beng Chong v Goh Kim Thong_ <span class="citation">[2010] SGHC 195</span> ( _“Ong Beng Chong_ ”) (at [6]), “[t]he legal position with respect to recovery of possession in such cases is clear.” Chan J referred to two cases regarding equitable estoppel and recovery of possession of land. 
 
 47     The first case was that of _Khew Ah Bah v Hong Ah Mye_ [1971–1973] SLR(R) 107, where Choor Singh J held (at [12]) that the defendant had certain rights in equity which the landowner must satisfy before he could recover possession: 
 
@@ -282,7 +282,7 @@ The second case was the Court of Appeal decision of _Lee Suat Hong v Teo Lye_ [1
 
 _Issue Estoppel_ 
 
-49     In _Goh Nellie v Goh Lian_ Teck [2007] 1 SLR(R) 453 (“ _Goh Nellie_ ”), Sundaresh Menon JC (as he then was), set out at [26] the requirements which had to be met in order to establish an issue estoppel as laid down by the Court of Appeal in _Lee Tat Development Pte Ltd v MSCT Plan No 301_ [2005] 3 SLR(R) 157 (“ _Lee Tat_ ”): 
+49     In _Goh Nellie v Goh Lian_ Teck <span class="citation">[2007] 1 SLR(R) 453</span> (“ _Goh Nellie_ ”), Sundaresh Menon JC (as he then was), set out at [26] the requirements which had to be met in order to establish an issue estoppel as laid down by the Court of Appeal in _Lee Tat Development Pte Ltd v MSCT Plan No 301_ <span class="citation">[2005] 3 SLR(R) 157</span> (“ _Lee Tat_ ”): 
 
  [T]he Court of Appeal held at [14]–[15] that the following requirements had to be met to establish an issue estoppel: 
 
@@ -309,7 +309,7 @@ Although this passage seems to support the Defendant’s position at first glanc
 
 53     In this case, the Defendant’s counsel wrote to the Plaintiff’s counsel on 13 July 2009, offering to settle the O 81 Application. After the exchange of correspondence between the parties, negotiations were finally concluded when counsel for the Plaintiff wrote to the Defendant’s counsel on 22 July 2009 with a draft consent order attached in the letter. This draft was then amended for organisation and to comply with the standard form for Orders of Court, with the substantive terms of the order remaining unaltered by the Deputy Registrar. 
 
-54     Therefore, the Deputy Registrar in making the Consent Order could not be said to have applied his mind to the case to ascertain whether the application or the prayers sought should be granted. He was merely recording the terms agreed upon by parties in the form of a Consent Order, and this must mean that no final decision on the merits of the O 81 Application was made. Furthermore, in relation to contractual consent orders, whether an issue is allowed to be re-litigated is determined by the appropriate remedy to be granted based on principles of contract law rather than issue estoppel. In _Woo Koon Chee v Scandinavian Boiler Service (Asia) Pte Ltd and others_ [2010] 4 SLR 1213 ( _“Woo Koon Chee_ ”), the Court of Appeal held that the contractual consent order made in earlier proceedings had the effect of superseding and merging with the cause of action in those earlier proceedings. Also, in _Indian Overseas Bank v Motorcycle Industries (1973) Pte Ltd and others_ [1992] 3 SLR(R) 841 ( _“IOB v Motorcycle Industries_ ”), the Court of Appeal relied on the following passage in _Halsbury’s Laws of_ 
+54     Therefore, the Deputy Registrar in making the Consent Order could not be said to have applied his mind to the case to ascertain whether the application or the prayers sought should be granted. He was merely recording the terms agreed upon by parties in the form of a Consent Order, and this must mean that no final decision on the merits of the O 81 Application was made. Furthermore, in relation to contractual consent orders, whether an issue is allowed to be re-litigated is determined by the appropriate remedy to be granted based on principles of contract law rather than issue estoppel. In _Woo Koon Chee v Scandinavian Boiler Service (Asia) Pte Ltd and others_ <span class="citation">[2010] 4 SLR 1213</span> ( _“Woo Koon Chee_ ”), the Court of Appeal held that the contractual consent order made in earlier proceedings had the effect of superseding and merging with the cause of action in those earlier proceedings. Also, in _Indian Overseas Bank v Motorcycle Industries (1973) Pte Ltd and others_ <span class="citation">[1992] 3 SLR(R) 841</span> ( _“IOB v Motorcycle Industries_ ”), the Court of Appeal relied on the following passage in _Halsbury’s Laws of_ 
 
 
 _England_ vol 37 (Butterworths, 4th Ed) at para 391 to explain the effect of “a settlement or compromise agreement”: 

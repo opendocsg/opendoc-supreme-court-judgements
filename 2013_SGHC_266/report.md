@@ -212,7 +212,7 @@ _Our decision_
 
 27     The Appellant sought to limit this board meaning of “remedies” in Clause 4.1.4 by arguing that “remedies” referred specifically to medicinal products which were capable of a “clinical trial”. We found the argument strained. Adopting a contextual approach to the interpretation of Clause 4.1.4, we note that it starts with a general prescription in paragraph 1 to “treat patients according to _generally accepted methods_ ” [emphasis added]. What then follows is a general proscription against offering “management plans or remedies that are not generally accepted by the profession”, and an exception to the proscription, namely when the remedy is offered “in the context of a formal and approved clinical trial”. Reading the proscription and exception against the backdrop of the prescription, it is our view that if a particular remedy is indeed not capable of a “clinical trial”, that particular remedy is still caught by the general proscription, _ie_ , the offering of a particular remedy that is not generally accepted by the profession and is not capable of a “clinical trial” is still prohibited. The exception of a “formal and approved clinical trial” functions only as a limited exception to the general proscription, and does not limit the application of the proscription to only remedies that are capable of a “clinical trial”. It bears mention that Clause 4.1.4 is prefaced by the caption “ _Untested practices and clinical trials_ ” [original emphasis omitted; emphasis added in italics] which indicates that it is the safety of the remedy evidenced by general acceptance by the profession that takes centre-stage in determining permissible usage. 
 
-28     Further, the Appellant’s interpretation of Clause 4.1.4 is inconsistent with the spirit and purpose of the ECEG. The spirit and purpose of the ECEG is to uphold the trust and confidence in the medical profession by setting out standards of good medical practice which all doctors should apply in all areas of a doctor’s clinical practice. Specifically with regard to Clause 4.1.4, the court in _Gobinathan Devathasan v Singapore Medical Council_ [2010] 2 SLR 926 (“ _Gobinathan_ ”) commented at [45] that: 
+28     Further, the Appellant’s interpretation of Clause 4.1.4 is inconsistent with the spirit and purpose of the ECEG. The spirit and purpose of the ECEG is to uphold the trust and confidence in the medical profession by setting out standards of good medical practice which all doctors should apply in all areas of a doctor’s clinical practice. Specifically with regard to Clause 4.1.4, the court in _Gobinathan Devathasan v Singapore Medical Council_ <span class="citation">[2010] 2 SLR 926</span> (“ _Gobinathan_ ”) commented at [45] that: 
 
 
  (i) 
@@ -329,7 +329,7 @@ _The arguments_
 
 varying surgical techniques was a necessary part of surgical practice, the DC’s interpretation would expose surgeons to disciplinary action each time they varied a surgical technique. This was inimical to the best interests of patients. 
 
-43     Further, the Appellant argued that the test for “generally accepted” in _Gobinathan_ was crafted to apply to mass-produced and standardised treatments like drugs and devices, and should not be applied to the area of surgical practice as that would lead to inappropriate requirements, such as the need for a “statistically significant study”, which would be onerous in surgical practice where treatments are customised to suit the unique conditions presented by each patient. The right test for a treatment being “generally accepted” should be the same as that for determining whether a doctor has breached the tortious duty of care owed to his patient, as stated in _Khoo James v Gunapathy d/o Muniandy and another appeal_ [2002] 1 SLR(R) 1024 (“ _James Khoo_ ”). 
+43     Further, the Appellant argued that the test for “generally accepted” in _Gobinathan_ was crafted to apply to mass-produced and standardised treatments like drugs and devices, and should not be applied to the area of surgical practice as that would lead to inappropriate requirements, such as the need for a “statistically significant study”, which would be onerous in surgical practice where treatments are customised to suit the unique conditions presented by each patient. The right test for a treatment being “generally accepted” should be the same as that for determining whether a doctor has breached the tortious duty of care owed to his patient, as stated in _Khoo James v Gunapathy d/o Muniandy and another appeal_ <span class="citation">[2002] 1 SLR(R) 1024</span> (“ _James Khoo_ ”). 
 
 44     The Respondent submitted that there was no reason why surgical practice should be treated differently from drugs and devices. In any case, it had been the Appellant’s position until a late stage of the proceedings that the loop-PEG tube was a device. It could not be the case that every insertion of a device would amount to a surgical procedure. 
 
@@ -345,7 +345,7 @@ _Our decision_
 
 48     In _Gobinathan_ , the court held at [33] that “[a] novel treatment, by its very definition, cannot be said to be generally accepted”. The underlying assumptions seem to be that there has to be a positive act of acceptance by the profession, and such acceptance by the profession has to occur _ex ante_ , not _ex post_. We did not elaborate on these issues, and this present case provides an opportunity for us to clarify the position. 
 
-49     In _Low Chai Ling v Singapore Medical Council_ [2013] 1 SLR 83 (“ _Low Chai Ling_ ”), we commented on Clause 4.1.4 at [42]: 
+49     In _Low Chai Ling v Singapore Medical Council_ <span class="citation">[2013] 1 SLR 83</span> (“ _Low Chai Ling_ ”), we commented on Clause 4.1.4 at [42]: 
 
  The DC rightly rejected the applicant’s argument that a medical treatment was “generally accepted” for the purposes of [Clause] 4.1.4 of the ECEG if it was widely practised by a large number of medical practitioners .... The assessment of whether or not a particular medical treatment is generally accepted must be scientific rather than empirical. Illegitimate or unethical 
 
@@ -731,7 +731,7 @@ _The arguments_
 
 _The applicable legal principles_ 
 
-114    According to _Low Cze Hong v Singapore Medical Council_ [2008] 3 SLR(R) 612 (“ _Low Cze Hong_ ”) at [37], professional misconduct under s 45(1)( _d_ ) of the MRA (before the amendment on 1 December 2010) can be made out in at least two situations: 
+114    According to _Low Cze Hong v Singapore Medical Council_ <span class="citation">[2008] 3 SLR(R) 612</span> (“ _Low Cze Hong_ ”) at [37], professional misconduct under s 45(1)( _d_ ) of the MRA (before the amendment on 1 December 2010) can be made out in at least two situations: 
 
  (a) where there is an intentional, deliberate departure from standards observed or approved by members of the profession of good repute and competency; and 
 

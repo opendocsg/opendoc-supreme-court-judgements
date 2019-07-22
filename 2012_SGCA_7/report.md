@@ -18,7 +18,7 @@
 
 _Companies_ 
 
-[LawNet Editorial Note: The decision from which this appeal arose is reported at [2011] 4 SLR 825.] 
+[LawNet Editorial Note: The decision from which this appeal arose is reported at <span class="citation">[2011] 4 SLR 825</span>.] 
 
 30 January 2012 
 
@@ -26,7 +26,7 @@ _Companies_
 
 **Introduction** 
 
-1       The present appeals, _viz_ , Civil Appeal No 55 of 2011 (“CA 55/2011”) and Civil Appeal No 56 of 2011 (“CA 56/2011”), were appeals from the decision of the High Court judge (“the Judge”) in, respectively, Summons No 4266 of 2010 in Suit No 717 of 2009 (“S 717/2009”) and Summons No 2768 of 2010 in Suit No 183 of 2010 (“S 183/2010”), wherein he determined the following question of law posed under O 14 r 12 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) in the negative (see _Azman bin Kamis v Saag Oilfield Engineering (S) Pte Ltd (formerly known as Derrick Services Singapore Pte Ltd) and another suit_ [2011] 4 SLR 825 (“the GD”) at [1]): 
+1       The present appeals, _viz_ , Civil Appeal No 55 of 2011 (“CA 55/2011”) and Civil Appeal No 56 of 2011 (“CA 56/2011”), were appeals from the decision of the High Court judge (“the Judge”) in, respectively, Summons No 4266 of 2010 in Suit No 717 of 2009 (“S 717/2009”) and Summons No 2768 of 2010 in Suit No 183 of 2010 (“S 183/2010”), wherein he determined the following question of law posed under O 14 r 12 of the Rules of Court (Cap 322, R 5, 2006 Rev Ed) in the negative (see _Azman bin Kamis v Saag Oilfield Engineering (S) Pte Ltd (formerly known as Derrick Services Singapore Pte Ltd) and another suit_ <span class="citation">[2011] 4 SLR 825</span> (“the GD”) at [1]): 
 
  Whether the ... causes of action [of the first respondent in CA 55/2011 and the respondent in CA 56/2011] ... against the [appellant in the present appeals] have been extinguished and/or barred and/or precluded from being maintained consequent to the Scheme of Compromise and Arrangement dated 3 July 2008 which has been duly completed, performed and fulfilled according to its terms by 4 May 2009. 
 
@@ -172,7 +172,7 @@ _The Respondents commenced common law actions_
 
 **The decision below** 
 
-19     In determining the question of law set out at [1] above (“the O 14 r 12 question”), the Judge first identified (at [20]–[25] of the GD) the purpose of s 210 of the Companies Act as explained by this court in _The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ [2008] 3 SLR(R) 121 (“ _The Oriental Insurance Co_ ”). 
+19     In determining the question of law set out at [1] above (“the O 14 r 12 question”), the Judge first identified (at [20]–[25] of the GD) the purpose of s 210 of the Companies Act as explained by this court in _The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ <span class="citation">[2008] 3 SLR(R) 121</span> (“ _The Oriental Insurance Co_ ”). 
 
 20     The Judge next considered whether the Respondents were “creditors” within the meaning of s 210(3) of the Companies Act (see [26]–[31] of the GD). At one point ( _viz_ , [29] of the GD) the 
 
@@ -290,11 +290,11 @@ Instead, McLelland J preferred to look to s 438(1) of the Companies (NSW) Code (
 
 _The Singapore cases_ 
 
-43     Thus far, the only local case that has dealt with the foregoing authorities is _Pacrim Investments Pte Ltd v Tan Mui Keow Claire and another_ [2010] SGHC 134 (“ _Pacrim Investments_ ”), which concerned whether the plaintiff (“Pacrim”) was bound by the scheme of arrangement in question, such that its entitlement to damages against the defendant company was extinguished. That turned on whether Pacrim was a “Scheme Creditor” within the meaning of the scheme in question, which in turn depended on whether Pacrim was a “creditor” within the meaning of s 210 of the Companies Act. The difficulty was that at the time the scheme was approved and implemented, Pacrim’s contractual claim against the company for damages had been dismissed by the High Court, but its appeal to this court against that decision was pending (Pacrim’s appeal was eventually allowed _after_ the scheme had been completed). 
+43     Thus far, the only local case that has dealt with the foregoing authorities is _Pacrim Investments Pte Ltd v Tan Mui Keow Claire and another_ <span class="citation">[2010] SGHC 134</span> (“ _Pacrim Investments_ ”), which concerned whether the plaintiff (“Pacrim”) was bound by the scheme of arrangement in question, such that its entitlement to damages against the defendant company was extinguished. That turned on whether Pacrim was a “Scheme Creditor” within the meaning of the scheme in question, which in turn depended on whether Pacrim was a “creditor” within the meaning of s 210 of the Companies Act. The difficulty was that at the time the scheme was approved and implemented, Pacrim’s contractual claim against the company for damages had been dismissed by the High Court, but its appeal to this court against that decision was pending (Pacrim’s appeal was eventually allowed _after_ the scheme had been completed). 
 
 44     At first instance, the assistant registrar (“the AR”), following _Re Midland Coal_ , _Re T & N_ , _Re Glendale_ and _Re R L Child_ , held (at [31] of _Pacrim Investments_ ) that the word “creditor” in s 210 of the Companies Act should be given a wide construction so as to include any person with a pecuniary claim against the company which was capable of estimate, regardless of whether such claim was unliquidated, prospective or contingent. Since, at the time the scheme was approved and implemented, the success of Pacrim’s claim was contingent upon the decision of the Court of Appeal, Pacrim was a contingent creditor and came within s 210 of the Companies Act, and was thus bound by the scheme. 
 
-45     The AR’s decision was upheld by the High Court in _Pacrim Investments Pte Ltd v Tan Mui Keow Claire and another_ [2011] 2 SLR 438, which also proceeded on the basis of a wide definition of the word “creditors” in s 210 of the Companies Act (at [5]): 
+45     The AR’s decision was upheld by the High Court in _Pacrim Investments Pte Ltd v Tan Mui Keow Claire and another_ <span class="citation">[2011] 2 SLR 438</span>, which also proceeded on the basis of a wide definition of the word “creditors” in s 210 of the Companies Act (at [5]): 
 
  At the time the [s]cheme [in question] was established, Pacrim had its claim dismissed by the High Court but its appeal was pending. This meant that in the event its appeal was allowed, it would be a creditor; indeed this was an eventuality that did materialise. There was no basis on principle to exclude persons in Pacrim’s position from the scope of “creditors”. In practice, doing so would unfairly benefit such companies who would be able to recoup its entire debt from a company resuscitated from the sacrifices of all the other creditors. Therefore there is also no basis on policy to do so. [emphasis added] 
 

@@ -20,7 +20,7 @@ _Land_ – _Strata titles_ – _Adverse possession_ – _Whether applicant had r
 
 - _Whether use of land following adverse possession must also be adverse to owner_ 
 
-1       On 12 February 2001, I granted Ong Yew Kew, the Applicant, a declaration that all rights and title to Lot 7823 Mukim 22 in the District of Amokioh, Singapore be vested in him by virtue of adverse possession (see [2001] 2 SLR 509). The Kew Ong Yah Temple and other structures stand on the land in question. The hearing was conducted using only affidavit evidence. 
+1       On 12 February 2001, I granted Ong Yew Kew, the Applicant, a declaration that all rights and title to Lot 7823 Mukim 22 in the District of Amokioh, Singapore be vested in him by virtue of adverse possession (see <span class="citation">[2001] 2 SLR 509</span>). The Kew Ong Yah Temple and other structures stand on the land in question. The hearing was conducted using only affidavit evidence. 
 
 2       The Attorney-General, as the Protector of Charities, lodged an appeal against my decision (Civil Appeal No. 600021 of 2001) and subsequently filed a Motion to adduce further evidence on the ground that the Attorney-General’s Chambers ("AGC") had been contacted by certain members of the public after my decision was reported in the newspapers and that these members could testify to matters adverse to the claims made by the Applicant. The Court of Appeal adjourned the appeal indefinitely and ordered that the case be remitted to me for the hearing of further oral evidence including that of the Applicant here. 
 
