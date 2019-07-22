@@ -29,7 +29,7 @@ tags:
   - Accused charged with raping daughter
   - Accused pleading guilty to rape charge
   - Importance of deterrence as consideration in sentencing for sexual offences
-layout: single
+
 ---
 # Public Prosecutor v NF 
 

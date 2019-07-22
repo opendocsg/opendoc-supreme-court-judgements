@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Benchmark sentences
   - Principles
-layout: single
+
 ---
 # Public Prosecutor v Heng Swee Weng 
 

@@ -6,6 +6,6 @@ tags:
   - Costs
   - Civil Procedure
   - Offer to Settle
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - appeals
   - extension of time
-layout: single
+
 ---
 

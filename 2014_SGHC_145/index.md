@@ -4,6 +4,6 @@ subtitle: "[2014] SGHC 145 / 15\_July\_2014"
 tags:
   - Contract
   - Breach
-layout: single
+
 ---
 

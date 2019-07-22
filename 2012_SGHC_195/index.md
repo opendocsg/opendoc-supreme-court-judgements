@@ -9,6 +9,6 @@ tags:
   - Criminal Contempt Criminal Procedure and Sentencing
   - Sentencing
   - Committal for Sentence
-layout: single
+
 ---
 

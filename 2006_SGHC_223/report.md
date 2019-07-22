@@ -16,7 +16,7 @@ tags:
     Whether defendant failing in duties as plaintiff\'s auditor and breaching
     contract of engagement with plaintiff
   - 'Sections 205, 207 Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 # JSI Shipping (S) Pte Ltd v Teofoongwonglcloong (a firm) 
 

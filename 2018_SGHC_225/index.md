@@ -9,6 +9,6 @@ tags:
   - Credit and security
   - Money and moneylenders
   - Illegal moneylending
-layout: single
+
 ---
 

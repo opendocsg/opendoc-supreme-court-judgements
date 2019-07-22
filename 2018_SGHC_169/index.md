@@ -13,6 +13,6 @@ tags:
   - Fraud and deceit
   - Trusts
   - Constructive trusts
-layout: single
+
 ---
 

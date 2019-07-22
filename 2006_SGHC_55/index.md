@@ -12,6 +12,6 @@ tags:
     Plaintiff suing second defendant for inducing first defendant\'s breach of
     alleged oral agreement
   - Whether plaintiff\'s claim against second defendant valid
-layout: single
+
 ---
 

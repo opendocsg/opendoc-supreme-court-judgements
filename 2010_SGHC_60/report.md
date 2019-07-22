@@ -5,7 +5,7 @@ tags:
   - Commercial Transactions
   - Sale of services
   - Consumer protection
-layout: single
+
 ---
  (a) 
 

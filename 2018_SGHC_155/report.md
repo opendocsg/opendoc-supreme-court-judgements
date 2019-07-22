@@ -14,7 +14,7 @@ tags:
   - Legal Profession
   - Conflict of interest
   - Former prospective client
-layout: single
+
 ---
 # Harsha Rajkumar Mirpuri (Mrs) née Subita Shewakram Samtani v Shanti Shewakram Samtani 
 

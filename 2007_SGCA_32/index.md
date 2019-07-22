@@ -23,6 +23,6 @@ tags:
   - Principles applicable when considering amount of maintenance to award wife
   - Whether wife\'s and children\'s needs relevant consideration
   - Whether husband\'s ability to pay relevant consideration
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Costs
   - Singapore International Commercial Court
-layout: single
+
 ---
 # Qilin World Capital Ltd v CPIT Investments Ltd and another appeal 
 

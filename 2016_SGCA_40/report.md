@@ -10,7 +10,7 @@ tags:
   - Building and Construction Law
   - 'Architects, Engineers and Surveyors'
   - Statutory Obligations
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 3322 v Tiong Aik Construction Pte Ltd and 
 

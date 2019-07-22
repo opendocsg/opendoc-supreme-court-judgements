@@ -5,6 +5,6 @@ tags:
   - Civil procedure
   - Discovery of documents
   - Application
-layout: single
+
 ---
 

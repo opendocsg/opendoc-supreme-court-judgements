@@ -22,6 +22,6 @@ tags:
     Weight to be attached to admissible statements compared to that on testimony
     in court
   - 's 147(6) Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

@@ -18,6 +18,6 @@ tags:
   - Contract
   - Illegality and public policy
   - Whether provision of services illegal under Malaysian law
-layout: single
+
 ---
 

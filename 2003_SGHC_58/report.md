@@ -14,7 +14,7 @@ tags:
   - Impeaching witnesses’ credibility
   - Whether evidence of past lies affect credibility
   - Whether questions to find such examples of past lies desirable.
-layout: single
+
 ---
 # Lim Ek Kian v Public Prosecutor 
 

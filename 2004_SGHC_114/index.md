@@ -10,6 +10,6 @@ tags:
   - Dissolution
   - Existing injunction ordered to continue
   - Whether injunction should have been dissolved
-layout: single
+
 ---
 

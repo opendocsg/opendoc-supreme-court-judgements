@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Adducing fresh evidence
-layout: single
+
 ---
 # ABE v Public Prosecutor 
 

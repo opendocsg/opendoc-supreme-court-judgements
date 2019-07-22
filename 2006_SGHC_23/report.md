@@ -18,7 +18,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Whether sentence manifestly excessive
-layout: single
+
 ---
 # Gan Too Cheh v Public Prosecutor 
 

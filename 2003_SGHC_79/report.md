@@ -30,7 +30,7 @@ tags:
   - Defamation
   - Defamatory statements
   - Whether defamatory in natural and ordinary meaning or by way of innuendo
-layout: single
+
 ---
 # Goh Chok Tong v Chee Soon Juan 
 

@@ -2,7 +2,7 @@
 title: Public Prosecutor v AGG
 subtitle: "[2010] SGHC 89 / 19\_Marc\_h\_2010"
 tags: null
-layout: single
+
 ---
  1st Charge on a night sometime between the year 2005 and 2006, at [address redac ted], did c ommit rape on [B], by having sexual interc ourse with her without her c onsent, and you have thereby c ommitted an offenc e punishable under sec tion 376(1) of the Penal Code, Chapter 224. 2nd Charge on a night sometime in the year 2007, at [address redac ted], did c ommit rape on [B], by having sexual interc ourse with her without her c onsent, and you have thereby c ommitted an offenc e punishable under sec tion 376(1) of the Penal Code, Chapter 224. 
 

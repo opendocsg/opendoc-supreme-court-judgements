@@ -16,6 +16,6 @@ tags:
   - Revocation
   - Whether use of variants of trade mark constitutes genuine use for five years
   - 'Trade Marks Act (Cap 332, 1992 Ed) s 22(1)(a)'
-layout: single
+
 ---
 

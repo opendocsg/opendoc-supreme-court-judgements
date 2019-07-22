@@ -8,6 +8,6 @@ tags:
     Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189, 2000 Rev
     Ed)
   - 'Road Traffic Act (Cap 276, 2004 Rev Ed)'
-layout: single
+
 ---
 

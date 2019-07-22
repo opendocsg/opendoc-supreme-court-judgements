@@ -6,6 +6,6 @@ tags:
   - Contractual terms
   - Rules of construction
   - Airline seeking indemnity from sales agent
-layout: single
+
 ---
 

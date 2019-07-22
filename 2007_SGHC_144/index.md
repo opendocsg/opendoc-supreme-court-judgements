@@ -14,6 +14,6 @@ tags:
   - >-
     Whether specific performance of contract for sale and purchase should be
     ordered
-layout: single
+
 ---
 

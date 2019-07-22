@@ -10,6 +10,6 @@ tags:
   - Conflict of Laws
   - Choice of Law
   - Tort
-layout: single
+
 ---
 

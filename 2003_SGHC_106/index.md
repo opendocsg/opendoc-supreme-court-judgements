@@ -23,6 +23,6 @@ tags:
   - Misrepresentation
   - Causation
   - Whether too remote
-layout: single
+
 ---
 

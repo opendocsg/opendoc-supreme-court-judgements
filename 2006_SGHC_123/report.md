@@ -26,7 +26,7 @@ tags:
     caveat on property having regard to balance of convenience test alone as
     plaintiff having interest in such property
   - Principles for exercise of court\'s discretion to order removal of caveat
-layout: single
+
 ---
 # Tan Yow Kon v Tan Swat Ping and Others 
 

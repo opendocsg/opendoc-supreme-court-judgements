@@ -13,7 +13,7 @@ tags:
     Appropriate sentences for convictions of kidnapping from lawful guardianship
     and culpable homicide in light of medical report
   - Applicable sentencing principles
-layout: single
+
 ---
 # Public Prosecutor v Chee Cheong Hin Constance 
 

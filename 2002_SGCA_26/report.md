@@ -25,7 +25,7 @@ tags:
   - Words and Phrases
   - \'Within the scope of his employment\'
   - art 25 Warsaw Convention
-layout: single
+
 ---
 # Clarke Beryl Claire (as personal representative of the estate of Eugene Francis Clarke) and 
 

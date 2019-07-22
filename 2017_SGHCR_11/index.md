@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Judgments and orders
   - Enforcement
-layout: single
+
 ---
 

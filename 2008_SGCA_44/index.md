@@ -14,6 +14,6 @@ tags:
   - Forum non conveniens
   - Claim that immovable properties situated abroad held on trust
   - Whether Singapore court appropriate forum
-layout: single
+
 ---
 

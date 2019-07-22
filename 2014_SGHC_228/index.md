@@ -6,6 +6,6 @@ tags:
   - Revision of Proceedings
   - Criminal Procedure and Sentencing
   - Bail
-layout: single
+
 ---
 

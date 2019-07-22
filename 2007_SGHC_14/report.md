@@ -12,7 +12,7 @@ tags:
   - >-
     Whether having rejected application for absolute discharge, court should
     grant conditional discharge
-layout: single
+
 ---
 # Re Joshua Benjamin Jeyaretnam ex parte Indra Krishnan and others 
 

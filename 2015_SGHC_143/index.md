@@ -8,6 +8,6 @@ tags:
   - Proof of Evidence
   - Trusts
   - Express Trusts
-layout: single
+
 ---
 

@@ -29,6 +29,6 @@ tags:
     victims\' parents undergoing fertility treatment in attempt to conceive
     another child
   - Whether sufficient legal proximity between driver and victims\' parents
-layout: single
+
 ---
 

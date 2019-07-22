@@ -14,6 +14,6 @@ tags:
   - Contract
   - offer
   - termination
-layout: single
+
 ---
 

@@ -23,6 +23,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Trials
   - Accused remaining silent when defence called
-layout: single
+
 ---
 

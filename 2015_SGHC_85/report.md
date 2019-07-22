@@ -7,7 +7,7 @@ tags:
   - Contract
   - Illegality
   - Estoppel
-layout: single
+
 ---
 # Wiseway Global Co Ltd v Qian Feng Group Ltd 
 

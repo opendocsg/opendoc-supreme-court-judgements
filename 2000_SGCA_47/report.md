@@ -15,7 +15,7 @@ tags:
     Article 15 of International Transport Workers Federation collective
     agreement part of employment contract
   - Ship owner paying fitter settlement sum for tort claim
-layout: single
+
 ---
 # Zarkovic Stanko v Owners of the Ship or Vessel `MARA` 
 

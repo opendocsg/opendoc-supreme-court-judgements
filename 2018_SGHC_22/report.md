@@ -7,7 +7,7 @@ tags:
   - Tort
   - Negligence
   - Contributory negligence
-layout: single
+
 ---
 # Lee Swee Chon v Kiat Seng Metals Pte Ltd 
 

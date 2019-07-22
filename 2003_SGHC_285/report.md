@@ -13,7 +13,7 @@ tags:
   - Statements
   - Voluntariness
   - Whether threat or inducement
-layout: single
+
 ---
 # Public Prosecutor v Ismail Bin Abdul Rahman 
 

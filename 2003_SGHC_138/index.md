@@ -12,6 +12,6 @@ tags:
   - Civil Proc edure
   - Stay of proc eedings
   - Whether parties bound by exc lusive jurisdic tion c lause
-layout: single
+
 ---
 

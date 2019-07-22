@@ -7,7 +7,7 @@ tags:
   - Public Utilities Act
   - Statutory Interpretation
   - Construction of Statute
-layout: single
+
 ---
 # Soil Investigation Pte Ltd v Public Prosecutor 
 

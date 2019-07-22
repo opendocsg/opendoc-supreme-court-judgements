@@ -8,6 +8,6 @@ tags:
   - Contract
   - Contractual terms
   - Scope of work
-layout: single
+
 ---
 

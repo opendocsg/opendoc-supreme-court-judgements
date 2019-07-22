@@ -10,6 +10,6 @@ tags:
   - Grounds for application for restoration to roll
   - Whether lawyer fit to have name restored on roll
   - 'Section 102 Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 

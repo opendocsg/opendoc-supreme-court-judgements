@@ -10,7 +10,7 @@ tags:
   - >-
     Whether principles on costs in normal civil proceedings applicable to
     disciplinary proceedings
-layout: single
+
 ---
 # Re Shankar Alan s/o Anant Kulkarni 
 

@@ -13,7 +13,7 @@ tags:
   - >-
     Whether defendants precluded from relying on contractual defence of
     negligence
-layout: single
+
 ---
 # Sie Choon Poh trading as Image Galaxy v Amara Hotel Properties Pte Ltd 
 

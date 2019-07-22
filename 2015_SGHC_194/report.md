@@ -12,7 +12,7 @@ tags:
   - Insolvency law
   - Bankruptcy
   - Effect on matrimonial jurisdiction to divide assets
-layout: single
+
 ---
 # AVM v AWH 
 

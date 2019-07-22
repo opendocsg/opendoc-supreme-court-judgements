@@ -10,6 +10,6 @@ tags:
   - Employment Law
   - contract of service
   - breach
-layout: single
+
 ---
 

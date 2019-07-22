@@ -7,7 +7,7 @@ tags:
   - Governing law
   - Arbitral tribunal
   - Jurisdiction
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BNA _v_ BNB and another  

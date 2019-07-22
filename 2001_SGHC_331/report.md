@@ -17,7 +17,7 @@ tags:
   - Words and Phrases
   - \'Security\'
   - 'rr 94(5) & 98(2)(c) Bankruptcy Rules (Cap 20, R 1, 1996 Ed)'
-layout: single
+
 ---
 # Sia Leng Yuen v HKR Properties Ltd 
 

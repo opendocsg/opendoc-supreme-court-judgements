@@ -11,7 +11,7 @@ tags:
   - >-
     Whether appellant could appeal against death sentence imposed on the ground
     that it was manifestly excessive
-layout: single
+
 ---
 # Choa Joo Liang v Public Prosecutor 
 

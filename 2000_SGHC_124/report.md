@@ -10,7 +10,7 @@ tags:
   - >-
     Whether court should decline jurisdiction even if Singapore not the natural
     forum
-layout: single
+
 ---
 # Yue Xiu Enterprises (Holdings) and Another v PT Hutan Domas Raya and Another 
 

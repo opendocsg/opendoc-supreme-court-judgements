@@ -10,6 +10,6 @@ tags:
   - Exclusion Clause
   - Contract
   - Unfair Contracts Terms Act
-layout: single
+
 ---
 

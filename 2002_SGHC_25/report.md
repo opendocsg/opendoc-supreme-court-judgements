@@ -10,7 +10,7 @@ tags:
     ceremony and wedding dinner or consummation of marriage
   - Property bought with money won by defendants in lottery
   - Whether property a matrimonial asset
-layout: single
+
 ---
 # Ng Sylvia v Oon Choon Huat Peter and Another 
 

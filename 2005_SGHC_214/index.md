@@ -11,6 +11,6 @@ tags:
   - >-
     Whether exceptional circumstances warranting stay of bankruptcy proceedings
     existing
-layout: single
+
 ---
 

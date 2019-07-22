@@ -15,6 +15,6 @@ tags:
   - Defence witness a friend of accused
   - Whether testimony suspect
   - Whether trial judge erred in accepting his evidence
-layout: single
+
 ---
 

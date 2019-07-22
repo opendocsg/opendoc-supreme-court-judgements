@@ -25,7 +25,7 @@ tags:
   - Inducement of breach of contract
   - Tort
   - Unlawful interference
-layout: single
+
 ---
 # Leiman, Ricardo and another v Noble Resources Ltd and another 
 

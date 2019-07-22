@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Principles
-layout: single
+
 ---
 # Public Prosecutor v Kho Jabing 
 

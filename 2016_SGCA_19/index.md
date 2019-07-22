@@ -5,6 +5,6 @@ tags:
   - Contract
   - Contractual terms
   - Rules of construction
-layout: single
+
 ---
 

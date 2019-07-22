@@ -16,6 +16,6 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Correspondence contained implied admission of debt
-layout: single
+
 ---
 

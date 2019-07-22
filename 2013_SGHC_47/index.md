@@ -6,6 +6,6 @@ subtitle: "[2013] SGHC 47 / 25\_February\_2013"
 tags:
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 

@@ -22,7 +22,7 @@ tags:
   - Words and Phrases
   - \' reasonable excuse\'
   - 's 70(4)(a) Road Traffic Act (Cap 276, 1997 Ed)'
-layout: single
+
 ---
 # Madiaalakan s/o Muthusamy v Public Prosecutor 
 

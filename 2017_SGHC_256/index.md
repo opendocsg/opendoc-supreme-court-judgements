@@ -6,6 +6,6 @@ tags:
   - Disciplinary proceedings
   - Legal profession
   - Professional conduct
-layout: single
+
 ---
 

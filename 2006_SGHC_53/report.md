@@ -29,7 +29,7 @@ tags:
   - >-
     Whether damages for breach of contract may include wasted pre-contract
     expenditure
-layout: single
+
 ---
 # Van Der Horst Engineering Pte Ltd v Rotol Singapore Ltd 
 

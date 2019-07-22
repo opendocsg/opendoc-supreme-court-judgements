@@ -23,7 +23,7 @@ tags:
   - Restitution
   - Restitution for wrongs
   - User principle
-layout: single
+
 ---
 # Heinrich Pte Ltd and another v Lau Kim Huat and others 
 

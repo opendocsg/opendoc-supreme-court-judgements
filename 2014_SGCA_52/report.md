@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Mentally disordered offenders
-layout: single
+
 ---
 # Lim Ghim Peow v Public Prosecutor 
 

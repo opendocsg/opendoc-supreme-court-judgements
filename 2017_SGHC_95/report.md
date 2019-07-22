@@ -14,7 +14,7 @@ tags:
   - Civil Procedure
   - Damages
   - Interest
-layout: single
+
 ---
 # Ong Teck Soon (executor of the estate of Ong Kim Nang, deceased) v Ong Teck Seng and 
 

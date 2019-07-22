@@ -13,7 +13,7 @@ tags:
   - Voluntarily causing hurt
   - Victim suffering vertebra fracture
   - Whether three months\' imprisonment excessive
-layout: single
+
 ---
 # Sim Yew Thong v Ng Loy Nam Thomas and other appeals 
 

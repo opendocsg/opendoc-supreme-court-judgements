@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Privileges
   - “Without prejudice” negotiations
-layout: single
+
 ---
 

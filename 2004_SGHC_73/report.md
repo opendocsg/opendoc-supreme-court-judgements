@@ -18,7 +18,7 @@ tags:
   - Witnesses
   - Corroboration
   - Main evidence given by complainant unsatifactory
-layout: single
+
 ---
 # Public Prosecutor v Yeow Ban Soon 
 

@@ -8,7 +8,7 @@ tags:
   - Newton hearings
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 # Public Prosecutor v Azuar Bin Ahamad 
 

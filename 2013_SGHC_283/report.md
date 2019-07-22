@@ -11,7 +11,7 @@ tags:
   - Family Law
   - maintenance
   - wife
-layout: single
+
 ---
 # BNH v BNI 
 

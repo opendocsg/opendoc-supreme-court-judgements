@@ -11,6 +11,6 @@ tags:
   - Companies
   - directors
   - remuneration
-layout: single
+
 ---
 

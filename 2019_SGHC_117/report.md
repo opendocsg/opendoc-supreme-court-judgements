@@ -13,7 +13,7 @@ tags:
   - Defamation
   - Malicious falsehood
   - Damage
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # TWG Tea Co Pte Ltd _v_ Murjani Manoj Mohan  

@@ -5,7 +5,7 @@ tags:
   - Damages
   - Measure of damages
   - Personal injuries cases
-layout: single
+
 ---
 # Tan Hun Boon v Rui Feng Travel Pte Ltd and another 
 

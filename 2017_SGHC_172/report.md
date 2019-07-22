@@ -15,7 +15,7 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Arbitrability
-layout: single
+
 ---
 # Duncan, Cameron Lindsay and another v Diablo Fortune Inc and another matter 
 

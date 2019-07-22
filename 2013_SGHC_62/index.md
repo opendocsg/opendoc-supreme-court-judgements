@@ -10,6 +10,6 @@ tags:
   - >-
     Chief Justic e’s disc retion to revoke Disc iplinary Tribunal under s
     90(3)(a) of the Legal Profession Ac t
-layout: single
+
 ---
 

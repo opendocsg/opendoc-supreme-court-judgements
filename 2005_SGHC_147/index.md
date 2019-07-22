@@ -19,6 +19,6 @@ tags:
   - Principles
   - Appellant convicted of conspiring to defraud court and insurance companies
   - Whether sentence imposed manifestly inadequate
-layout: single
+
 ---
 

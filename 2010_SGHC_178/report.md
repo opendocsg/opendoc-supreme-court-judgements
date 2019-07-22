@@ -7,7 +7,7 @@ tags:
   - Trusts
   - Resulting trusts
   - Presumed resulting trusts
-layout: single
+
 ---
 # Lin Chao-Feng v Chuang Hsin-Yi 
 

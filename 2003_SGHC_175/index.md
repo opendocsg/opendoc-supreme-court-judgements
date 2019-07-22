@@ -24,6 +24,6 @@ tags:
   - >-
     Negligent advice Â– Whether racehorse trainer\'s assessment of racehorse\'s
     suitability for racing constituted negligent advice.
-layout: single
+
 ---
 

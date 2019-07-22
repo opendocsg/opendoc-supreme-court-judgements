@@ -7,7 +7,7 @@ tags:
   - Enforcement
   - Civil Procedure
   - Foreign Judgments
-layout: single
+
 ---
 # Alberto Justo Rodriguez Licea and others v Curacao Drydock Co, Inc 
 

@@ -12,7 +12,7 @@ tags:
   - >-
     Whether legal difficulties in terms purporting to create testamentary trust
     presented ambiguity in interpretation of will
-layout: single
+
 ---
 # Low Ah Cheow and Others v Ng Hock Guan 
 

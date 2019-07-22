@@ -11,6 +11,6 @@ tags:
     Whether to allow plaintiffs\' application for disclosure of association\'s
     documents and correspondence where such application not connected to any
     principal dispute between parties
-layout: single
+
 ---
 

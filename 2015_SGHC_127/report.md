@@ -5,7 +5,7 @@ tags:
   - Tort
   - Negligence
   - Damages
-layout: single
+
 ---
 # Chua Ser Kenon v Karuppiah Jai Sankar and another 
 

@@ -9,7 +9,7 @@ tags:
   - Revision of Proceedings
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 # Koh Bak Kiang v Public Prosecutor 
 

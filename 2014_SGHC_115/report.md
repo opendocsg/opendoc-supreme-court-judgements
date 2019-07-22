@@ -6,7 +6,7 @@ tags:
   - Summary Judgment
   - Landlord and Tenant
   - Recovery of Possession
-layout: single
+
 ---
 # JTC Corp v Chin Hong Printing Pte Ltd 
 

@@ -13,6 +13,6 @@ tags:
   - Firm liable for acts of partner
   - Whether acts of partner in ordinary course of business of partnership
   - 'Section 10 Partnership Act (Cap 391, 1994 Rev Ed)'
-layout: single
+
 ---
 

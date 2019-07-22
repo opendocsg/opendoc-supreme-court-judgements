@@ -20,6 +20,6 @@ tags:
     Whether impecuniosity of individual, as compared to impecuniosity of
     company, was stronger factor in favour of encouraging, rather than limiting,
     uninhibited access to courts
-layout: single
+
 ---
 

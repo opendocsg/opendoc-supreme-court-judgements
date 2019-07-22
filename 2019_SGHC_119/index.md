@@ -10,6 +10,6 @@ tags:
   - Hurt
   - Statutory offences
   - Women’s Charter
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - Meaning of \"final award\"
   - When arbitrator functus officio
   - International Arbitration Act (Cap 143A)
-layout: single
+
 ---
 

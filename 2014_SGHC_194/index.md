@@ -7,6 +7,6 @@ tags:
   - Non-exclusive
   - Civil Procedure
   - Stay of proceedings
-layout: single
+
 ---
 

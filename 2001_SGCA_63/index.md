@@ -13,6 +13,6 @@ tags:
   - Real risk of prejudice
   - Whether award of costs can compensate prejudice to innocent party
   - Striking out only as a last resort
-layout: single
+
 ---
 

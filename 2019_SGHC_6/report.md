@@ -7,7 +7,7 @@ tags:
   - Exclusive
   - Jurisdiction
   - Natural forum
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ivanishvili, Bidzina and others _v_ Credit Suisse AG and another  

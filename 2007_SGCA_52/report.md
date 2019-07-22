@@ -18,7 +18,7 @@ tags:
   - \"Defence\"
   - \"Liability\"
   - \"Defence to Liability\"
-layout: single
+
 ---
 # Seiko Epson Corporation v Sepoms Technology Pte Ltd and Another 
 

@@ -23,6 +23,6 @@ tags:
   - Whether member can change instructions to proxy
   - Whether member can change proxy
   - Member\'s recourse in such situation
-layout: single
+
 ---
 

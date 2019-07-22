@@ -15,7 +15,7 @@ tags:
   - Guarantees and indemnities
   - Guarantee
   - Variation from usual practice
-layout: single
+
 ---
 # Jurong Readymix Concrete Pte Ltd v Kaki Bukit Industrial Park Pte Ltd (Chng Heng Tiu, Third 
 

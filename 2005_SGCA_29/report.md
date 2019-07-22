@@ -13,7 +13,7 @@ tags:
   - Interlocutory injunctions
   - Mandatory injunction requiring retraction of allegedly defamatory statements
   - Whether court having power to grant such injunctions
-layout: single
+
 ---
 # Chin Bay Ching v Merchant Ventures Pte Ltd 
 

@@ -18,7 +18,7 @@ tags:
   - Restitution
   - Unjust enrichment
   - No unjust enrichment where there has not been a breach of the lease.
-layout: single
+
 ---
 # Ngee Ann Development Pte Ltd v Nova Leisure Pte Ltd 
 

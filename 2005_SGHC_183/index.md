@@ -18,6 +18,6 @@ tags:
   - >-
     Whether to award damages for loss of reputation, price reduction and loss of
     goodwill
-layout: single
+
 ---
 

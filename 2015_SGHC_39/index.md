@@ -10,6 +10,6 @@ tags:
   - invalidity
   - Trade Marks and Trade Names
   - passing off
-layout: single
+
 ---
 

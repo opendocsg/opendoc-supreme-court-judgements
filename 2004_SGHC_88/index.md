@@ -12,6 +12,6 @@ tags:
   - >-
     Misuse of Drugs Act (Cap 185, 2001 Rev Ed) s 18(1), s 18(1)(a), s 18(1)(b),
     s 18(2), s 21
-layout: single
+
 ---
 

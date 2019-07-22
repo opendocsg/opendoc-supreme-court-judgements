@@ -9,7 +9,7 @@ tags:
   - Administrative law
   - remedies
   - certiorari
-layout: single
+
 ---
 # Tan Seet Eng v Attorney-General and another matter 
 

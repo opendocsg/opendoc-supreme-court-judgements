@@ -5,7 +5,7 @@ tags:
   - Evidence
   - Admissibility of evidence
   - “Without prejudice” communications
-layout: single
+
 ---
 # Swee Wan Enterprises Pte Ltd v Yak Thye Peng 
 

@@ -24,7 +24,7 @@ tags:
   - Income taxation
   - Deduction
   - Meaning of \"source\" in s 14(1) Income Tax Act
-layout: single
+
 ---
 # JD v Comptroller of Income Tax 
 

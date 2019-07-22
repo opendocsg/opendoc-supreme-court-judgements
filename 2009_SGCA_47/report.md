@@ -6,7 +6,7 @@ tags:
   - Resulting trusts
   - Evidence
   - Proof of evidence
-layout: single
+
 ---
 # Loo Chay Sit v Estate of Loo Chay Loo, deceased 
 

@@ -11,6 +11,6 @@ tags:
   - >-
     What constituting fair and equitable distribution of matrimonial assets
     between parties
-layout: single
+
 ---
 

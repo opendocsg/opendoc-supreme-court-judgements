@@ -9,7 +9,7 @@ tags:
   - Resulting Trusts
   - Tort
   - Harassment
-layout: single
+
 ---
 # Tee Yok Kiat v Pang Min Seng 
 

@@ -14,6 +14,6 @@ tags:
   - Whether claim clearly unsustainable
   - Whether claim should be struck out
   - 'O 18 r 19 Rules of Court (Cap 322, R 5, 2004 Rev Ed)'
-layout: single
+
 ---
 

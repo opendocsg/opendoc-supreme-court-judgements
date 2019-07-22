@@ -5,7 +5,7 @@ tags:
   - Contract
   - Contractual Terms
   - Express Terms
-layout: single
+
 ---
 # Ngee Ann Development Pte Ltd v Takashimaya Singapore Ltd 
 

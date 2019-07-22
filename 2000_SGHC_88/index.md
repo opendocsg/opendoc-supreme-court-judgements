@@ -9,6 +9,6 @@ tags:
   - Consent not obtained
   - Whether consent not obtained because of buyer\'s default
   - Whether buyer in breach of contract
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Stay of court proceedings
   - Arbitration
   - Exercise of discretionary case management powers
-layout: single
+
 ---
 

@@ -23,7 +23,7 @@ tags:
   - Lawyer of 20 years standing
   - Failure to mitigate
   - Failure to appear at present proceedings
-layout: single
+
 ---
 # Re Lim Kiap Khee 
 

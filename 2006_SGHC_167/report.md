@@ -19,7 +19,7 @@ tags:
     advocate and solicitor
   - Appropriate sentence in light of respondent\'s public service
   - 'Sections 83(1), 83(2)(h) Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 # Law Society of Singapore v Chung Ting Fai 
 

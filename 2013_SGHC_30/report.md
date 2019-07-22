@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Judgments and Orders
   - Enforcement
-layout: single
+
 ---
 # Global Distressed Alpha Fund I Ltd Partnership v PT Bakrie Investindo 
 

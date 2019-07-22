@@ -7,7 +7,7 @@ tags:
   - Judgment reversed on appeal
   - Repayment of judgment sum paid pursuant to judgment
   - Whether repayment should be with interest
-layout: single
+
 ---
 # Credit Agricole Indosuez v Banque Nationale de Paris 
 

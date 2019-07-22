@@ -12,7 +12,7 @@ tags:
     Company commencing civil action under s 14(1) Prevention of Corruption Act
     to recover bribes
   - Whether recovery barred by penalties ordered under criminal proceedings
-layout: single
+
 ---
 # Leong Wai Kay v Carrefour Singapore Pte Ltd 
 

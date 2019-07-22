@@ -49,7 +49,7 @@ tags:
   - Whether inquiry going beyond scope of complaint
   - Whether charges framed relate to matters complained of
   - 's 40(14) Medical Registration Act (Cap 174, 1998 Rev Ed)'
-layout: single
+
 ---
 # Tan Tiang Hin Jerry v Singapore Medical Council 
 

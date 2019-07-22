@@ -23,6 +23,6 @@ tags:
     Principles underlying court\'s discretion to grant terms or conditions for
     stay under International Arbitration Act (Cap 143A, 2002 Rev Ed)
   - Whether justice of case called for court to impose terms or conditions
-layout: single
+
 ---
 

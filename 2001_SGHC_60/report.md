@@ -10,7 +10,7 @@ tags:
     matters under Pt X of Women\'s Charter (Cap 353, 1997 Ed)
   - 's 21 Supreme Court of Judicature Act (Cap 322, 1999 ED)'
   - Women\'s Charter (Cap 353) Pt X
-layout: single
+
 ---
 # Eng Poh Su (now known as Eddy Eng Poh Su) v Yap Ah Ho (now known as Yap Yujing 
 

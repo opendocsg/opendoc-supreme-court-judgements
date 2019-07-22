@@ -16,7 +16,7 @@ tags:
   - Trusts
   - Express trusts
   - Certainties
-layout: single
+
 ---
 # MF Global Singapore Pte Ltd (in creditors’ voluntary liquidation) and others v Vintage Bullion 
 

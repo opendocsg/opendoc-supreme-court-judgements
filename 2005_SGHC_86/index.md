@@ -23,6 +23,6 @@ tags:
   - >-
     Whether defendant estopped from asserting that parties entered into lump sum
     contract
-layout: single
+
 ---
 

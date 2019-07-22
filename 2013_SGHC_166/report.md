@@ -7,7 +7,7 @@ tags:
   - Land
   - Strata Titles
   - Collective Sales
-layout: single
+
 ---
 # Ngui Gek Lian Philomene and others v Chan Kiat and others (HSR International Realtors Pte 
 

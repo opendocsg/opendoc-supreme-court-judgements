@@ -17,6 +17,6 @@ tags:
   - Patents and Inventions
   - Inventive step
   - Whether invention obvious to person skilled in the art
-layout: single
+
 ---
 

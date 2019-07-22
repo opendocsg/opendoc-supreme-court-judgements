@@ -9,7 +9,7 @@ tags:
   - Winding Up
   - Liquidator
   - Liquidator’s statutory power of sale
-layout: single
+
 ---
 # Solvadis Commodity Chemicals Gmbh v Affert Resources Pte Ltd 
 

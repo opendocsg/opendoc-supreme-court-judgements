@@ -6,6 +6,6 @@ tags:
   - Women’s Charter
   - Family Law
   - Family Justice Rules
-layout: single
+
 ---
 

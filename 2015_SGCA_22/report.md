@@ -8,7 +8,7 @@ tags:
   - Interpretation of term
   - Contract
   - Misrepresentation
-layout: single
+
 ---
 # Xia Zhengyan v Geng Changqing 
 

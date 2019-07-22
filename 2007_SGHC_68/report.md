@@ -9,7 +9,7 @@ tags:
     Whether costs should be ordered against Law Society for withdrawal of
     originating summons issued to respondent to show cause
   - Whether order of costs may be made against disciplinary committee
-layout: single
+
 ---
 # Re Shankar Alan s/o Anant Kulkarni and Another Application 
 

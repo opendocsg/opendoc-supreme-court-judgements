@@ -13,6 +13,6 @@ tags:
   - Breach of duty
   - Causation
   - Duty of care
-layout: single
+
 ---
 

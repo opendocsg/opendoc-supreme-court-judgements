@@ -11,7 +11,7 @@ tags:
   - Restitution
   - Unjust Enrichment
   - Total failure of consideration
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Pegaso Servicios Administrativos SA de CV and another _v_ DP Offshore Engineering Pte Ltd and another  

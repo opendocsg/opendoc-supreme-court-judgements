@@ -44,6 +44,6 @@ tags:
   - >-
     Whether substantial damages recoverable by agent for losses suffered only by
     undisclosed principal and not by agent
-layout: single
+
 ---
 

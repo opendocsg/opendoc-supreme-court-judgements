@@ -6,6 +6,6 @@ tags:
   - Infringement
   - Fingerprints planted in copyright works
   - Whether there was copying
-layout: single
+
 ---
 

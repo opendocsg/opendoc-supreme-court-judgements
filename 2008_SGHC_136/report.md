@@ -12,7 +12,7 @@ tags:
   - Whether that e-mail was privileged communication
   - Whether e-mail sent under a duty of confidentiality
   - Whether privilege waived
-layout: single
+
 ---
 # Tentat Singapore Pte Ltd v Multiple Granite Pte Ltd and Others 
 

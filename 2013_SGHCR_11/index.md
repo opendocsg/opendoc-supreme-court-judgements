@@ -5,6 +5,6 @@ tags:
   - Building and Construction Law
   - Prolongation
   - Assessment
-layout: single
+
 ---
 

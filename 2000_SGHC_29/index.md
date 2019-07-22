@@ -26,6 +26,6 @@ tags:
     Whether legal interest of registered legal mortgagee has priority over any
     equitable interest of defendants
   - s 48 Land Titles Act (Cap 157)
-layout: single
+
 ---
 

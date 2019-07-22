@@ -8,7 +8,7 @@ tags:
   - Cross-undertaking in damages
   - Damages
   - Measure of damages
-layout: single
+
 ---
 # Neptune Capital Group Ltd and others v Sunmax Global Capital Fund 1 Pte Ltd and another 
 

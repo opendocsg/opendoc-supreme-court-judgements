@@ -11,6 +11,6 @@ tags:
   - General exceptions
   - Consent
   - Mistake of fact
-layout: single
+
 ---
 

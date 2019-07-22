@@ -5,7 +5,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional misconduct
-layout: single
+
 ---
 # Wong Meng Hang v Singapore Medical Council and other matters 
 

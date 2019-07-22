@@ -4,6 +4,6 @@ title: >-
   the
 subtitle: "[2000] SGHC 223 / 31\_October\_2000"
 tags: null
-layout: single
+
 ---
 

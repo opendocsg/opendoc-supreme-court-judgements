@@ -6,6 +6,6 @@ tags:
   - Receiver and manager
   - Judicial management order
   - Extension of judicial management order
-layout: single
+
 ---
 

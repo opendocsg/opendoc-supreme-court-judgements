@@ -11,7 +11,7 @@ tags:
   - Evidence
   - Proof of evidence
   - Break in chain of evidence
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Mohamed Affandi bin Rosli _v_ Public Prosecutor and another appeal  

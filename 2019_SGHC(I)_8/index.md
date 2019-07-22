@@ -10,6 +10,6 @@ tags:
   - Equity
   - Fiduciary relationships
   - Breach of fiduciary duties
-layout: single
+
 ---
 

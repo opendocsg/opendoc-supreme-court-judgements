@@ -5,6 +5,6 @@ tags:
   - Trade Marks and Trade Names
   - Registration Criteria
   - Conflicts with earlier marks
-layout: single
+
 ---
 

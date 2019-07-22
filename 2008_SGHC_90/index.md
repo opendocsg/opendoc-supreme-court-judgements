@@ -18,6 +18,6 @@ tags:
     Benchmark sentences for property offence committed by taxi driver against
     passenger
   - Custodial sentence as benchmark sentence
-layout: single
+
 ---
 

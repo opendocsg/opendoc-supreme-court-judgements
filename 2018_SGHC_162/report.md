@@ -15,7 +15,7 @@ tags:
   - Equity
   - Defences
   - Laches
-layout: single
+
 ---
 # Ng So Hang v Wong Sang Woo 
 

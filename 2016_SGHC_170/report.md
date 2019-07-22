@@ -8,7 +8,7 @@ tags:
   - Criminal Law
   - Offences
   - Sexual Penetration of Minor
-layout: single
+
 ---
 # Public Prosecutor v BAU 
 

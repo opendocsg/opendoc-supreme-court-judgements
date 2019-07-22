@@ -11,7 +11,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Mentally disordered offenders
-layout: single
+
 ---
 # Nagaenthran a/l K Dharmalingam v Public Prosecutor 
 

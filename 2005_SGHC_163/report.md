@@ -13,7 +13,7 @@ tags:
     Whether court should stay proceedings and order parties to arbitrate where
     prior related matter between similar parties referred to arbitration
   - 'Section 6(5) Arbitration Act (Cap 10, 2002 Rev Ed)'
-layout: single
+
 ---
 # Yee Hong Pte Ltd v Tan Chye Hee Andrew (Ho Bee Development Pte Ltd, Third Party) 
 

@@ -12,7 +12,7 @@ tags:
   - Appeal
   - Appeal against trial judge\'s findings of fact
   - When appellate court can reverse findings
-layout: single
+
 ---
 # Lim Kim Luan v Public Prosecutor 
 

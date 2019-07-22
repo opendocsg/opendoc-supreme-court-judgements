@@ -21,7 +21,7 @@ tags:
   - >-
     Sections 4(2), 8(7)(a), 23(3)(b), 28(2) Trade Marks Act (Cap 332, 2005 Rev
     Ed)
-layout: single
+
 ---
 # Future Enterprises Pte Ltd v McDonald's Corp 
 

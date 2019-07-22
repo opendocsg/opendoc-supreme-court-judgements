@@ -10,7 +10,7 @@ tags:
   - >-
     Whether process not new or novel due to prior use, prior disclosure to other
     parties and prior art
-layout: single
+
 ---
 # Dextra Asia Co Ltd and Another v Mariwu Industrial Co (S) Pte Ltd 
 

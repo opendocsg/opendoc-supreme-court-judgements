@@ -6,7 +6,7 @@ tags:
   - Infringement
   - Trade Marks and Trade Names
   - Passing off
-layout: single
+
 ---
 # Kickapoo (Malaysia) Sdn Bhd and Another v The Monarch Beverage Co (Europe) Ltd 
 

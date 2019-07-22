@@ -10,6 +10,6 @@ tags:
   - Whether there was breach of moratorium
   - Words and Phrases
   - '\"Sell\", \"assign\" and \"dispose of\"'
-layout: single
+
 ---
 

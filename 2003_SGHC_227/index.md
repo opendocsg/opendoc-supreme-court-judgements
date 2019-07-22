@@ -17,6 +17,6 @@ tags:
   - >-
     The victim struggled with the accused during the robberyWhether the
     circumstances amount to the defence of sudden fight.
-layout: single
+
 ---
 

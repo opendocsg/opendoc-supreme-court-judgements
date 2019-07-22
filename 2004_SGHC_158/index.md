@@ -31,6 +31,6 @@ tags:
   - >-
     Quantification of losses where defendant involved in fraudulent
     misrepresentation
-layout: single
+
 ---
 

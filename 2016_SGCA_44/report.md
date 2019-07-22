@@ -6,7 +6,7 @@ tags:
   - Assessment
   - Evidence
   - Admissibility of evidence
-layout: single
+
 ---
 # Mykytowych, Pamela Jane v V I P Hotel 
 

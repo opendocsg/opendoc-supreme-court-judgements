@@ -6,6 +6,6 @@ tags:
   - ownership
   - Patents and Inventions
   - employee’s invention
-layout: single
+
 ---
 

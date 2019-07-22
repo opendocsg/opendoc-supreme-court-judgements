@@ -10,6 +10,6 @@ tags:
   - >-
     Whether the trial judge\'s exercise of discretion to award costs was
     manifestly wrong.
-layout: single
+
 ---
 

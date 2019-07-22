@@ -6,7 +6,7 @@ tags:
   - Negligence
   - Special damages
   - Medical expenses
-layout: single
+
 ---
 # Minichit Bunhom v Jazali bin Kastari and another 
 

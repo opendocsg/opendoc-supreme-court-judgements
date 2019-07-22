@@ -38,6 +38,6 @@ tags:
     misrepresentation c an be made in c ase of c onstruc tion c ontrac t
   - Whether more appropriate to sue for breac h of c ontrac t
   - 'Sec tion 1 Misrepresentation Ac t (Cap 390, 1994 Rev Ed)'
-layout: single
+
 ---
 

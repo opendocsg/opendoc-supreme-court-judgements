@@ -10,6 +10,6 @@ tags:
   - >-
     Whether principles on costs in normal civil proceedings applicable to
     disciplinary proceedings
-layout: single
+
 ---
 

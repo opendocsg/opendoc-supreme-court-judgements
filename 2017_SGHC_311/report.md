@@ -16,7 +16,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Mentally disordered offenders
-layout: single
+
 ---
 # Tan Yao Min v Public Prosecutor 
 

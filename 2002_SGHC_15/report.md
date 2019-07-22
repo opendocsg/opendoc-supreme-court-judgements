@@ -8,7 +8,7 @@ tags:
   - Schemes of arrangement
   - Approval by court
   - Indemnity costs claims of auditors
-layout: single
+
 ---
 # Re Baring Futures (Singapore) Pte Ltd (in compulsory liquidation) and another action 
 

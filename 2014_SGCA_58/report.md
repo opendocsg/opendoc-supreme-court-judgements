@@ -7,7 +7,7 @@ tags:
   - Criminal Law
   - Special exceptions
   - Diminished responsibility
-layout: single
+
 ---
 # Public Prosecutor v Wang Zhijian and another appeal 
 

@@ -6,7 +6,7 @@ tags:
   - Discontinuance
   - Without leave
   - Application to reinstate discontinued action
-layout: single
+
 ---
 # Moguntia-Est Epices SA v Sea-Hawk Freight Pte Ltd 
 

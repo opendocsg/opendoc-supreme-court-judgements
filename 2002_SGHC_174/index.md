@@ -30,6 +30,6 @@ tags:
   - \'Additional wages\'
   - \'Ordinary wages\'
   - 'Sch 1 paras 5(d) & 5(e) Central Provident Fund Act (Cap 36, 2001 Ed)'
-layout: single
+
 ---
 

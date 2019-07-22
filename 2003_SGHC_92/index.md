@@ -12,6 +12,6 @@ tags:
   - Companies
   - Winding up
   - Creditor alleging that company carried on business improperly
-layout: single
+
 ---
 

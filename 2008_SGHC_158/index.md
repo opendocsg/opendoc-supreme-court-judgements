@@ -31,6 +31,6 @@ tags:
     Whether sporadic use of a fanciful mark bearing same word as the former and
     more widespread use of another fanciful trademark with the same word
     embedded within it tantamount to simultaneous use of the plain word mark
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - TRUSTS
   - Trustees
   - Duties
-layout: single
+
 ---
 

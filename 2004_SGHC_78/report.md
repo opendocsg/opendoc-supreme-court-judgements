@@ -7,7 +7,7 @@ tags:
   - >-
     Whether plaintiff\'s claim for breach of contract was settled by deed of
     settlement and release.
-layout: single
+
 ---
 # Merriwa Pty Ltd v Romar Positioning Equipment Pte Ltd 
 

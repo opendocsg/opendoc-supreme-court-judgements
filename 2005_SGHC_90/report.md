@@ -31,7 +31,7 @@ tags:
   - Validity
   - Novelty and inventiveness
   - Whether patent invalid for lack of novelty and inventiveness
-layout: single
+
 ---
 # Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd and Others and Other 
 

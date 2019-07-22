@@ -15,7 +15,7 @@ tags:
   - Striking out
   - Whether case wholly and clearly unarguable
   - 'O18 r 19 Rules of Court (Cap 322, R5, 2006 Rev Ed)'
-layout: single
+
 ---
 # The "Vasiliy Golovnin" 
 

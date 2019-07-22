@@ -20,7 +20,7 @@ tags:
   - Defamation
   - Qualified privilege
   - Whether defence of qualified privilege made out
-layout: single
+
 ---
 # Jeyasegaram David (alias David Gerald Jeyasegaram) v Ban Song Long David 
 

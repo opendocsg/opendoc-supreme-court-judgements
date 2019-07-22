@@ -11,6 +11,6 @@ tags:
   - >-
     Whether previous decision of court capable of operating in rem and binding
     upon world at large including non-party to previous action
-layout: single
+
 ---
 

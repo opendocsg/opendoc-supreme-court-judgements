@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Vacation of trial dates
   - Reopening of trial
-layout: single
+
 ---
 

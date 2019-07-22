@@ -11,7 +11,7 @@ tags:
   - >-
     Sections 83(1), 98(5) Legal Profession Act (Cap 161, 2001 Rev Ed), s 409
     Penal Code (Cap 224, 1985 Rev Ed)
-layout: single
+
 ---
 # Law Society of Singapore v Junaini bin Manin 
 

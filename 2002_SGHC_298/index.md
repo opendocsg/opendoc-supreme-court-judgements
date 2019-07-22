@@ -19,6 +19,6 @@ tags:
   - Contract
   - Formalities
   - Whether loan agreement binding on defendant company
-layout: single
+
 ---
 

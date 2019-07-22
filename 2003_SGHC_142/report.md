@@ -23,7 +23,7 @@ tags:
   - Jurisdiction
   - Service out of jurisdiction
   - Setting aside service
-layout: single
+
 ---
 # Evergreen International SA v Volkswagen Group Singapore Pte Ltd and Others 
 

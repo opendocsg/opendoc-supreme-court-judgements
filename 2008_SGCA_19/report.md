@@ -21,7 +21,7 @@ tags:
   - >-
     Rule 7(3) Road Traffic (Motor Vehicles, Registration and Licensing) Rules
     (Cap 276, R 5, 2004 Rev Ed)
-layout: single
+
 ---
 # Registrar of Vehicles v Komoco Motors Pte Ltd 
 

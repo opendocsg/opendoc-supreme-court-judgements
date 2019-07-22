@@ -24,7 +24,7 @@ tags:
   - Mens rea
   - Whether appellant knows worker to be immigration offender
   - 's 57(1)(e) Immigration Act (Cap 133, 1997 Ed)'
-layout: single
+
 ---
 # Soh Lip Hwa v Public Prosecutor 
 

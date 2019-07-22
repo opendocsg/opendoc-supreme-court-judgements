@@ -6,6 +6,6 @@ tags:
   - Statutory offences
   - Arms Offences Act
   - Appellant firing four bullets from revolver
-layout: single
+
 ---
 

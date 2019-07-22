@@ -21,6 +21,6 @@ tags:
     Whether \"Careree\" so nearly resembling appellant\'s prior registered
     \"Carefree\" mark that c onfusion and/or dec eption likely to arise
   - 'Sec tion 8(2) Trade Marks Ac t (Cap 332, 1999 Rev Ed)'
-layout: single
+
 ---
 

@@ -24,7 +24,7 @@ tags:
     Whether offeror entitled to costs on indemnity basis from date of offer to
     settle
   - O 22A r 9(3)Rules of Court
-layout: single
+
 ---
 # Singapore Airlines Ltd and Another v Fujitsu Microelectronics (Malaysia) Sdn Bhd and Others 
 

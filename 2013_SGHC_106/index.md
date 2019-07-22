@@ -6,6 +6,6 @@ tags:
   - Child
   - INTERNATIONAL LAW
   - Conventions
-layout: single
+
 ---
 

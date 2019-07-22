@@ -13,7 +13,7 @@ tags:
   - Construction of statute
   - Purposive approach
   - 's 9A(1) Interpretation Act (Cap 1, 1999 Ed)'
-layout: single
+
 ---
 # Credit Corporation (M) Bhd v Public Prosecutor 
 

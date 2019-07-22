@@ -15,7 +15,7 @@ tags:
   - Person(s) pleading as \"occupying and carrying on business\"
   - Persons pleading as \"owners\"
   - Whether this disclosed sufficient standing to sue
-layout: single
+
 ---
 # Epolar System Enterprise Pte Ltd and Others v Lee Hock Chuan and Others 
 

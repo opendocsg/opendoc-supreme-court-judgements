@@ -4,6 +4,6 @@ subtitle: "[2013] SGHC 138 / 19\_July\_2013"
 tags:
   - Family Law
   - Adoption
-layout: single
+
 ---
 

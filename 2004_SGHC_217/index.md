@@ -26,6 +26,6 @@ tags:
     Whether directors can be liable in tort for inducing breach of contract by
     company if conspiring to induce board as a whole to break contract takes
     place before board meeting
-layout: single
+
 ---
 

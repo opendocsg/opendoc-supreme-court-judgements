@@ -6,6 +6,6 @@ tags:
   - Striking Out
   - Constitutional Law
   - Fundamental Liberties
-layout: single
+
 ---
 

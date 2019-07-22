@@ -14,6 +14,6 @@ tags:
   - Damages
   - Aggravation
   - Tort
-layout: single
+
 ---
 

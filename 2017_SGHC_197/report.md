@@ -14,7 +14,7 @@ tags:
   - Damages
   - Aggravation
   - Tort
-layout: single
+
 ---
 # Ramesh s/o Krishnan v AXA Life Insurance Singapore Pte Ltd 
 

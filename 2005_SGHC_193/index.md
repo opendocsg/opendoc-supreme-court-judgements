@@ -23,6 +23,6 @@ tags:
   - Appellants convicted of possession and distribution of uncertified films
   - Whether appellants\' convictions should be overturned
   - 'Section 21 Films Act (Cap 107, 1998 Rev Ed)'
-layout: single
+
 ---
 

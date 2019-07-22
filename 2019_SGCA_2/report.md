@@ -10,7 +10,7 @@ tags:
   - Construction of statute
   - Rectifying construction
   - Strict construction rule
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ho Man Yuk _v_ Public Prosecutor  

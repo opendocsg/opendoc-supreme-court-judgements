@@ -26,6 +26,6 @@ tags:
   - >-
     Whether court entitled to accept one part of testimony and reject another
     part
-layout: single
+
 ---
 

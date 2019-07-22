@@ -9,6 +9,6 @@ tags:
   - Sentencing
   - Penalties
   - Workplace Safety and Health Act
-layout: single
+
 ---
 

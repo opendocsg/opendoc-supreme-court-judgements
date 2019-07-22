@@ -14,7 +14,7 @@ tags:
   - Arbitration
   - Agreement
   - Estoppel
-layout: single
+
 ---
 # BMO v BMP 
 

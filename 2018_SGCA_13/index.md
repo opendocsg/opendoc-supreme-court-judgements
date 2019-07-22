@@ -9,6 +9,6 @@ tags:
   - Misuse of Drugs Act
   - Statutory interpretation
   - Construction of statute
-layout: single
+
 ---
 

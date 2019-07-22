@@ -11,7 +11,7 @@ tags:
   - Criminal Law
   - Offences
   - Personating a public servant
-layout: single
+
 ---
 # Public Prosecutor v Muhammad Firman bin Jumali Chew 
 

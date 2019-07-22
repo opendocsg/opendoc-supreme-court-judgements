@@ -11,6 +11,6 @@ tags:
   - Sentencing
   - Mentally disordered offenders
   - Sentencing considerations applicable to kleptomaniacs
-layout: single
+
 ---
 

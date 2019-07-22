@@ -12,7 +12,7 @@ tags:
   - >-
     Relevant sentencing considerations where solicitor\'s conduct not dishonest
     and where such conduct resulting from solicitor being medically unwell
-layout: single
+
 ---
 # Law Society of Singapore v Chiong Chin May Selena 
 

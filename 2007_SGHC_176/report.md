@@ -14,7 +14,7 @@ tags:
     Former director of company taking over premises and equipment of company\'s
     overseas office on behalf of competing company
   - Whether former director and competing company liable for conversion
-layout: single
+
 ---
 # Viking Airtech Pte Ltd v Foo Teow Keng and Another 
 

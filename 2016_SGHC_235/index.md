@@ -8,6 +8,6 @@ tags:
   - Disclosure
   - Financial and Securities Markets
   - Insider Trading
-layout: single
+
 ---
 

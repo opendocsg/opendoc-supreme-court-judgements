@@ -8,7 +8,7 @@ tags:
   - Whether the debtor was a premium player under the CCA
   - Whether the debtor’s play had expired by the time of credit extension
   - Allegation of unsolicited offer of credit
-layout: single
+
 ---
 # Marina Bay Sands Pte Ltd v Ong Boon Lin Lester 
 

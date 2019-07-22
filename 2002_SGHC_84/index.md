@@ -55,6 +55,6 @@ tags:
   - Sentencing
   - Penalties
   - Consumption of controlled drug
-layout: single
+
 ---
 

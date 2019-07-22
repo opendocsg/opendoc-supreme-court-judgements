@@ -15,6 +15,6 @@ tags:
   - >-
     Whether anti-setoff clause subject to Unfair Contracts Terms Act (Cap 396,
     1994 Rev Ed)
-layout: single
+
 ---
 

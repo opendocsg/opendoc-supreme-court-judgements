@@ -5,6 +5,6 @@ tags:
   - Family law
   - Consent orders
   - Variation
-layout: single
+
 ---
 

@@ -12,6 +12,6 @@ tags:
   - Remedies
   - Account
   - Dishonest Assistance
-layout: single
+
 ---
 

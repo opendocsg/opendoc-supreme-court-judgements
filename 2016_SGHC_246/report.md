@@ -10,7 +10,7 @@ tags:
   - Building and construction law
   - Terms
   - Implied terms
-layout: single
+
 ---
 # CAA Technologies Pte Ltd v Newcon Builders Pte Ltd 
 

@@ -14,7 +14,7 @@ tags:
   - Inventive step
   - Finding of inventive step
   - Whether invention amounts to new use of old contrivance
-layout: single
+
 ---
 # Peng Lian Trading Co v Contour Optik Inc and Others 
 

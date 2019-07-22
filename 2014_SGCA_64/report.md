@@ -9,7 +9,7 @@ tags:
   - Trusts
   - Express Trusts
   - Certainties
-layout: single
+
 ---
 # Guy Neale and others v Nine Squares Pty Ltd 
 

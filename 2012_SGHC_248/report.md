@@ -23,7 +23,7 @@ tags:
   - Equity
   - estoppel
   - evidential estoppel
-layout: single
+
 ---
 # Deutsche Bank AG v Chang Tse Wen 
 

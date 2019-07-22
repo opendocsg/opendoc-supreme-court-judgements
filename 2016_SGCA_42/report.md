@@ -5,7 +5,7 @@ tags:
   - Building and Construction Law
   - Statutes and regulations
   - Building control
-layout: single
+
 ---
 # Nam Hong Construction & Engineering Pte Ltd v Kori Construction (S) Pte Ltd 
 

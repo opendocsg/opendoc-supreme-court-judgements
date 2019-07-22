@@ -17,6 +17,6 @@ tags:
   - Admiralty and Shipping
   - Bills of lading
   - Delivery of cargo without presentation of bills of lading
-layout: single
+
 ---
 

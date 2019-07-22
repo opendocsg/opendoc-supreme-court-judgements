@@ -8,7 +8,7 @@ tags:
   - Insurance
   - Interpretation of clauses in life policy
   - Whether broad or strict interpretation should apply
-layout: single
+
 ---
 # NTUC Co-operative Insurance Commonwealth Enterprise Ltd v Chiang Soong Chee 
 

@@ -6,6 +6,6 @@ tags:
   - Accused person
   - Rights
   - Right to consult and be defended by a legal practitioner
-layout: single
+
 ---
 

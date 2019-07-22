@@ -25,6 +25,6 @@ tags:
     Whether traffic warden had issued summons against appellant only because
     traffic warden felt that appellant was challenging his authority
   - 'Rule 22(b) Road Traffic Rules (Cap 276, R 20, 1999 Rev Ed)'
-layout: single
+
 ---
 

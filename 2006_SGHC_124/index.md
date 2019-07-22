@@ -12,6 +12,6 @@ tags:
     Whether commencement of second action precluded on grounds of res judicata
     or issue estoppel
   - Applicable principles
-layout: single
+
 ---
 

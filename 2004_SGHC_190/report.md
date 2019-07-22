@@ -13,7 +13,7 @@ tags:
   - Summary judgment
   - Whether time bar for taking out of summary judgment application absolute
   - Whether time limit could be extended by court or by consent of parties
-layout: single
+
 ---
 # United Engineers (Singapore) Pte Ltd v Lee Lip Hiong and Others 
 

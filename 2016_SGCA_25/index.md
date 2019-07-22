@@ -13,6 +13,6 @@ tags:
   - Passing Off
   - Trade Marks and Trade Names
   - Goodwill
-layout: single
+
 ---
 

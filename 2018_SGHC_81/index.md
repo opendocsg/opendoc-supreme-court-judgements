@@ -7,6 +7,6 @@ tags:
   - Trade Marks and Trade Names
   - Registration criteria
   - Distinctiveness
-layout: single
+
 ---
 

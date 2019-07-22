@@ -26,7 +26,7 @@ tags:
     Whether sufficient proximity between parties to give rise to duty of care on
     part of engine manufacturer and seller to avoid shipowner suffering pure
     economic loss
-layout: single
+
 ---
 # P.T. Bumi International Tankers (formerly known as P.T. Bumi Indonesia Tankers) v Man 
 

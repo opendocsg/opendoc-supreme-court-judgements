@@ -9,6 +9,6 @@ tags:
   - Judicial Review
   - Administrative Law
   - Discretionary Powers
-layout: single
+
 ---
 

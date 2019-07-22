@@ -30,7 +30,7 @@ tags:
     Whether failure of Prosecution to produce DNA analysis raised inference that
     DNA analysis unfavourable to Prosecution
   - 'Section 116 illus (g) Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 # Chua Siew Lin v Public Prosecutor 
 

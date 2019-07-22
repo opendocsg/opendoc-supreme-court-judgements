@@ -6,6 +6,6 @@ subtitle: "[2012] SGCA 63 / 02\_November\_2012"
 tags:
   - Building and Construction Law
   - Statutes and regulations
-layout: single
+
 ---
 

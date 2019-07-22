@@ -7,6 +7,6 @@ tags:
   - Criminal Law
   - Elements of crime
   - Mens rea
-layout: single
+
 ---
 

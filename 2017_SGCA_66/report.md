@@ -7,7 +7,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Forms of punishment
-layout: single
+
 ---
 # Muhammad Nur bin Abdullah v Public Prosecutor 
 

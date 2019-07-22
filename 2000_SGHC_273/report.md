@@ -6,7 +6,7 @@ tags:
   - Judgment by assistant registrar
   - Application made two years later to set aside judgment
   - Whether matter res judicata
-layout: single
+
 ---
 # Chia Ah Sng v Hong Leong Finance Limited 
 

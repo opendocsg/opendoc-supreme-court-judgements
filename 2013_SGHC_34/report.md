@@ -7,7 +7,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Scintronix Corp Ltd (formerly known as TTL Holdings Ltd) v Ho Kang Peng and another 
 

@@ -23,7 +23,7 @@ tags:
     being cured especially if prejudice to defendants can be compensated by
     costs
   - 'Rules of Court (Cap 322, R5, 1997 Rev Ed) O 2 r 1'
-layout: single
+
 ---
 # The Melati 
 

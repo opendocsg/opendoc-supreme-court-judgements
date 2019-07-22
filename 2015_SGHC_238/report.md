@@ -6,7 +6,7 @@ tags:
   - Limitation
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 # AXF and others v Koh Cheng Huat and another 
 

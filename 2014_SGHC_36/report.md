@@ -10,7 +10,7 @@ tags:
   - Remoteness of damage
   - Contract
   - Breach
-layout: single
+
 ---
 # ACB v Thomson Medical Pte Ltd and others 
 

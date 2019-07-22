@@ -17,7 +17,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Revision of proceedings
   - Exercise of revisionary powers
-layout: single
+
 ---
 # Yunani bin Abdul Hamid v Public Prosecutor 
 

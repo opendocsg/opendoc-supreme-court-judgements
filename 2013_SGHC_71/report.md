@@ -13,7 +13,7 @@ tags:
   - Equity
   - Defences
   - Equitable set-off
-layout: single
+
 ---
 # Overseas Union Enterprise Ltd v Three Sixty Degree Pte Ltd and another suit 
 

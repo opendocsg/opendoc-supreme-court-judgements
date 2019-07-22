@@ -12,7 +12,7 @@ tags:
     discharge of his professional duty brought against him by Law Society of
     Singapore
   - Appropriate punishment in light of certain mitigating circumstances
-layout: single
+
 ---
 # Law Society of Singapore v Tan Buck Chye Dave 
 

@@ -5,6 +5,6 @@ tags:
   - Companies
   - Members
   - Rights
-layout: single
+
 ---
 

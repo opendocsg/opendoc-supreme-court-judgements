@@ -5,7 +5,7 @@ tags:
   - Family Law
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 # AXW v AXX 
 

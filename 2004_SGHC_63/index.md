@@ -19,6 +19,6 @@ tags:
   - Contract
   - Variation
   - Effect of addenda on MOU.
-layout: single
+
 ---
 

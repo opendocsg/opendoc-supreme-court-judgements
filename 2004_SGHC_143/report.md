@@ -10,7 +10,7 @@ tags:
   - >-
     Whether defendant conspired to cause moneys paid to company to be paid to
     himself and company to thereafter refuse performance on ground of nonpayment
-layout: single
+
 ---
 # Diva XL Pte Ltd v Goenka Mahesh Kumar 
 

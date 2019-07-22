@@ -5,6 +5,6 @@ tags:
   - Credit and security
   - Money and moneylenders
   - Loans of money
-layout: single
+
 ---
 

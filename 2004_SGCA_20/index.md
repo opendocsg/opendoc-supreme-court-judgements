@@ -8,6 +8,6 @@ tags:
   - Whether actions taken satisfied \"best endeavours\" test
   - Duties of nominee directors
   - Whether court will interfere in exercise of such directors\' judgment
-layout: single
+
 ---
 

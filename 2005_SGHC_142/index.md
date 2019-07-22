@@ -36,6 +36,6 @@ tags:
   - Aggravating factors
   - Appellant\'s conduct at trial
   - Appellant charged with more serious of two similar offences
-layout: single
+
 ---
 

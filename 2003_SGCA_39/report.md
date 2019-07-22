@@ -20,7 +20,7 @@ tags:
   - Duties
   - Cessation of directorship
   - Scope of duty still owed to company
-layout: single
+
 ---
 # Tokuhon (Pte) Ltd v Seow Kang Hong and Others (No 2) 
 

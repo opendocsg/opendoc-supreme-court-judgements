@@ -8,6 +8,6 @@ tags:
   - Landlord and tenant
   - Recovery of possession
   - Tenant’s rights
-layout: single
+
 ---
 

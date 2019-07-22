@@ -14,6 +14,6 @@ tags:
   - Consistency with similar cases
   - Applicable principles
   - Whether previous conviction on similar offence relevant
-layout: single
+
 ---
 

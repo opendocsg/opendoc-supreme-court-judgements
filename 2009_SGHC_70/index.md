@@ -14,6 +14,6 @@ tags:
     Whether biological father could rely on s 114 as defence against duty to pay
     child maintenance under ss 68 and 69(2) Women\'s Charter (Cap 353, 1997 Rev
     Ed)
-layout: single
+
 ---
 

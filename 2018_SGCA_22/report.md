@@ -10,7 +10,7 @@ tags:
   - Employment law
   - Employer’s duties
   - Medical expenses of foreign employee
-layout: single
+
 ---
 # Minichit Bunhom v Jazali bin Kastari and another 
 

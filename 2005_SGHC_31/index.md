@@ -18,6 +18,6 @@ tags:
   - Parties discharging contract by mutual agreement
   - Defendant continuing to work after contract discharged
   - Whether defendant entitled to payment on quantum meruit basis
-layout: single
+
 ---
 

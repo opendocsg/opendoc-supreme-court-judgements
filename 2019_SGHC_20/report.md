@@ -9,7 +9,7 @@ tags:
   - Unjust enrichment
   - Contract
   - Misrepresentation
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # MSP4GE Asia Pte Ltd and another _v_ MSP Global Pte Ltd and others  

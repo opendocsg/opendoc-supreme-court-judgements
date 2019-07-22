@@ -24,6 +24,6 @@ tags:
   - Reasonable doubt
   - Whether Prosecution\'s case proved beyond reasonable doubt
   - Whether appellant sexually assaulted the deceased
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Resulting Trust
   - Constructive Trust
   - Undue Influence
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Moh Tai Siang _v_ Moh Tai Tong and another  

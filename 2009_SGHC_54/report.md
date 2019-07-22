@@ -20,7 +20,7 @@ tags:
   - Restraint of trade
   - Severance
   - Whether severance of unenforceable portion possible
-layout: single
+
 ---
 # Ng Boon Ching v Claas Medical Centre Pte Ltd 
 

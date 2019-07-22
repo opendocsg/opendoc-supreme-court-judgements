@@ -9,6 +9,6 @@ tags:
   - Sentencing
   - Fines
   - Disgorgement of criminal proceeds
-layout: single
+
 ---
 

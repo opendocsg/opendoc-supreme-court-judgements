@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Statutory offences
   - Central Provident Fund Act
-layout: single
+
 ---
 

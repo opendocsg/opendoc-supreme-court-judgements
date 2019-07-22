@@ -16,7 +16,7 @@ tags:
   - Interpretation Act
   - extrinsic aids
   - purposive approach
-layout: single
+
 ---
 # Cupid Jewels Pte Ltd v Orchard Central Pte Ltd and another appeal 
 

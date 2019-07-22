@@ -4,6 +4,6 @@ title: >-
   deceased)
 subtitle: "[2011] SGCA 3 / 21\_January\_2011"
 tags: null
-layout: single
+
 ---
 

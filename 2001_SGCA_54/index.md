@@ -8,6 +8,6 @@ tags:
   - >-
     Application by appellant for order compelling Law Society to appoint
     disciplinary committee to investigate complaint
-layout: single
+
 ---
 

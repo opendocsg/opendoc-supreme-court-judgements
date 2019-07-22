@@ -14,7 +14,7 @@ tags:
   - >-
     Whether deputy chairman of Income Tax Board of Review ought not to sit
     because of his prior resignation from membership in taxpayer
-layout: single
+
 ---
 # Re Raffles Town Club Pte Ltd 
 

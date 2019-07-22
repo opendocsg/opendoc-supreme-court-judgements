@@ -10,6 +10,6 @@ tags:
   - Trustees
   - Duties
   - Duty to let trust property
-layout: single
+
 ---
 

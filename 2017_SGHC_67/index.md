@@ -5,6 +5,6 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Drug trafficking
-layout: single
+
 ---
 

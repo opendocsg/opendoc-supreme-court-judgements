@@ -6,7 +6,7 @@ tags:
   - Avoidance of transactions
   - Unregistered charges
   - Lien over sub-freights and subhires
-layout: single
+
 ---
 # Diablo Fortune Inc v Duncan, Cameron Lindsay and another 
 

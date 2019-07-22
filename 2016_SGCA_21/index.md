@@ -10,6 +10,6 @@ tags:
   - Appellate
   - Constitutional Law
   - Equality before the law
-layout: single
+
 ---
 

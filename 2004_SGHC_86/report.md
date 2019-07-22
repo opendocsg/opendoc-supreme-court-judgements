@@ -16,7 +16,7 @@ tags:
     Whether defendants\' act of accepting newer models and certifying that
     plaintiffs had completed 100% of the work under the contract amounted to
     waiver of requirement that plaintiffs adhere to strict terms of contract.
-layout: single
+
 ---
 # Johnson Controls (S) Pte Ltd v Ho Air-Conditioning and Engineering Pte Ltd 
 

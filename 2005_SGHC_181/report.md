@@ -30,7 +30,7 @@ tags:
   - Prosecution declining to admit earlier statement of witness
   - Whether adverse inference should be drawn against Prosecution
   - 'Section 116(g) Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 # Tee Chu Feng v Public Prosecutor 
 

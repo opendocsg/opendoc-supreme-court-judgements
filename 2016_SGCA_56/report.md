@@ -6,7 +6,7 @@ tags:
   - Privileges
   - Legal professional privilege
   - Waiver
-layout: single
+
 ---
 # ARX v Comptroller of Income Tax 
 

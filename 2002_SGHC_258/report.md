@@ -16,7 +16,7 @@ tags:
   - Defences
   - Equitable set-off
   - Whether right to equitable set-off excluded by contract
-layout: single
+
 ---
 # Hiap Tian Soon Construction Pte Ltd and Another v Hola Development Pte Ltd and Another 
 

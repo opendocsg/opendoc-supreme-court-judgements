@@ -10,6 +10,6 @@ tags:
   - Whether plaintiff repudiated the settlement agreement
   - Trusts
   - True beneficial ownership
-layout: single
+
 ---
 

@@ -17,6 +17,6 @@ tags:
     Order made granting leave to file summary judgment application without
     Defence being filed -Whether order proper
   - Appropriate order to be made in circumstances
-layout: single
+
 ---
 

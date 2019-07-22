@@ -14,7 +14,7 @@ tags:
   - >-
     Test for determining whether an order is an interlocutory order or a final
     order
-layout: single
+
 ---
 # Jumabhoy Asad v Aw Cheok Huat Mick and Others 
 

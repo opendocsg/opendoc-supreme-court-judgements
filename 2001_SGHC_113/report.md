@@ -39,7 +39,7 @@ tags:
   - >-
     Whether previous complaint by accused against witness affects weight of
     latter\'s testimony
-layout: single
+
 ---
 # Lewis Christine v Public Prosecutor 
 

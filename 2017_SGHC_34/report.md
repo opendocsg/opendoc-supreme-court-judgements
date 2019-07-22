@@ -7,7 +7,7 @@ tags:
   - Claims by sub-contractor
   - Building and Construction Law
   - Statutes and regulations
-layout: single
+
 ---
 # Rong Shun Engineering & Construction Pte Ltd v C.P. Ong Construction Pte Ltd 
 

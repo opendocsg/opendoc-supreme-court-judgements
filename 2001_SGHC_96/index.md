@@ -11,6 +11,6 @@ tags:
   - Security
   - Principles applicable
   - When security for costs ordered
-layout: single
+
 ---
 

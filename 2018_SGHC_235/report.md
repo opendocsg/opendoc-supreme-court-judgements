@@ -5,7 +5,7 @@ tags:
   - Credit and security
   - Hire-purchase
   - Remedies
-layout: single
+
 ---
 # Uni Development Pte Ltd v Ranjit Singh s/o Mukhtar Singh and others 
 

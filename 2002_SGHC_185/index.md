@@ -15,6 +15,6 @@ tags:
   - Restitution
   - Money had and received
   - Recovery of money paid in course of negotiations
-layout: single
+
 ---
 

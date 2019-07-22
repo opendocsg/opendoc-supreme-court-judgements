@@ -8,7 +8,7 @@ tags:
   - Contract
   - Contractual terms
   - Rules of construction
-layout: single
+
 ---
 # ABN AMRO Clearing Bank NV v 1050 Capital Pte Ltd 
 

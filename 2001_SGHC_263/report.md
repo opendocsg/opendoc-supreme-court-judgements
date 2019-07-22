@@ -10,7 +10,7 @@ tags:
   - Undischarged bankrupt obtaining loans without disclosing status to lender
   - Trial judge imposing fine
   - Respondent\'s employer paying the fine
-layout: single
+
 ---
 # Public Prosecutor v Ong Ker Seng 
 

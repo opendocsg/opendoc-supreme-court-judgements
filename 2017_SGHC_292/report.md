@@ -7,7 +7,7 @@ tags:
   - Misuse of Drugs Act
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 # Public Prosecutor v Muhammad Nor Haiqal bin Shaman 
 

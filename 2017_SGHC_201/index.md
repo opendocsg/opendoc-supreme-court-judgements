@@ -13,6 +13,6 @@ tags:
   - Contract
   - Contractual terms
   - Exclusion clauses
-layout: single
+
 ---
 

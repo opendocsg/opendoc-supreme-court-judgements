@@ -17,6 +17,6 @@ tags:
   - >-
     Whether breach required to be repudiatory before termination clause might be
     relied on
-layout: single
+
 ---
 

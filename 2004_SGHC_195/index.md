@@ -10,6 +10,6 @@ tags:
   - Companies
   - Winding up
   - Whether to allow substitution of petitioning creditor.
-layout: single
+
 ---
 

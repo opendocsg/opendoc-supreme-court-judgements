@@ -17,6 +17,6 @@ tags:
   - >-
     Section 24, First Schedule Art 34 International Arbitration Act (Cap 143A,
     2002 Rev Ed)
-layout: single
+
 ---
 

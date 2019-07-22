@@ -8,6 +8,6 @@ tags:
   - Choice of law
   - Conflict of laws
   - Foreign judgments
-layout: single
+
 ---
 

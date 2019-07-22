@@ -6,7 +6,7 @@ tags:
   - Contractual terms
   - Rules of construction
   - Airline seeking indemnity from sales agent
-layout: single
+
 ---
 # Uzbekistan Airways v Jetspeed Travel Pte Ltd 
 

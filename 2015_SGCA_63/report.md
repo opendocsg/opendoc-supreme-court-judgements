@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - Remission
-layout: single
+
 ---
 # AKN and another v ALC and others and other appeals 
 

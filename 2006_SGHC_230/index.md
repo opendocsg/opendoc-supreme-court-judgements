@@ -18,6 +18,6 @@ tags:
   - >-
     Whether length of marriage and non-financial contributions were relevant
     considerations
-layout: single
+
 ---
 

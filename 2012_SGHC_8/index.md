@@ -8,6 +8,6 @@ tags:
   - Landlord and Tenants
   - Duration of Tenancy
   - Periodic Tenancies
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Custody
   - Care and Control
   - Relocation
-layout: single
+
 ---
 # BNT v BNS 
 

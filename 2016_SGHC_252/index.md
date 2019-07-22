@@ -24,6 +24,6 @@ tags:
   - Trusts
   - Trustees
   - Intermeddling in trust property
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Insolvenc y Law
   - Bankruptc y
   - Statutory Demand
-layout: single
+
 ---
 

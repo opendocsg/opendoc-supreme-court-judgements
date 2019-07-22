@@ -13,7 +13,7 @@ tags:
   - Section 326 offences
   - Factors taken into account when sentencing
   - 'Penal Code (Cap 224, 1985 Rev Ed) s 326'
-layout: single
+
 ---
 # Public Prosecutor v Mohamed Ridwan Bin Omar and Others 
 

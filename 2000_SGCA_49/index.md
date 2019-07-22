@@ -12,6 +12,6 @@ tags:
     legal costs incurred in defending action, when causing damage to third party
     while repairing ship
   - Whether indemnity for legal costs subject to specified deductible sum
-layout: single
+
 ---
 

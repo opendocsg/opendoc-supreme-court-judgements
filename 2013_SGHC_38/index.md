@@ -12,6 +12,6 @@ tags:
   - Contract
   - Discharge
   - Rescission
-layout: single
+
 ---
 

@@ -16,6 +16,6 @@ tags:
   - Claims
   - Insurance policies taken by employer on life and health of employees
   - Whether employee entitled to benefits due under insurance policies
-layout: single
+
 ---
 

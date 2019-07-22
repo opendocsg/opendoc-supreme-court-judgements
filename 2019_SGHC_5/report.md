@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Penalties
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # MW Group Pte Ltd _v_ Public Prosecutor  

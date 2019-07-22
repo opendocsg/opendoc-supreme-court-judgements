@@ -5,7 +5,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Evotech (Asia) Pte Ltd v Koh Tat Lee and another 
 

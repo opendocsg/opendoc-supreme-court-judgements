@@ -15,6 +15,6 @@ tags:
   - >-
     Application of totality principle when sentencing for multiple offences of
     same nature
-layout: single
+
 ---
 

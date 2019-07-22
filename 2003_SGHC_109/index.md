@@ -14,6 +14,6 @@ tags:
   - Quantum
   - Period
   - Approach to be taken in determining multiplier.
-layout: single
+
 ---
 

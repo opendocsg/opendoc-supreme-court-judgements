@@ -12,6 +12,6 @@ tags:
   - Administrative Law
   - Remedies
   - Declaration
-layout: single
+
 ---
 

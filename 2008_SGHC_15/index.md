@@ -14,6 +14,6 @@ tags:
   - >-
     Whether money was received in course of firm\'s business under s 11(b)
     Partnership Act (Cap 391, 1994 Rev Ed)
-layout: single
+
 ---
 

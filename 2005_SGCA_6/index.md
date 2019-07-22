@@ -18,6 +18,6 @@ tags:
     freight and other charges being furnished
   - Shipowner being in effect required to pay storage charges upfront
   - Shipowner appealing against interim order
-layout: single
+
 ---
 

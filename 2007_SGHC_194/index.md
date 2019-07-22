@@ -6,6 +6,6 @@ tags:
   - Contractual terms
   - Finding of fact
   - Whether certain documents were part of the contract
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Estoppel
   - Whether issue estoppel applicable
   - Whether same issue re-opened?
-layout: single
+
 ---
 # Official Assignee of the estate of Tang Hsiu Lan, A Bankrupt v Pua Ai Seok and Others 
 

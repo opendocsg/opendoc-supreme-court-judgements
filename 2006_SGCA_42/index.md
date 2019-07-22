@@ -12,6 +12,6 @@ tags:
   - >-
     Section 4(10) Civil Law Act (Cap 43, 1999 Rev Ed), s 12(7) International
     Arbitration Act (Cap 143A, 2002 Rev Ed)
-layout: single
+
 ---
 

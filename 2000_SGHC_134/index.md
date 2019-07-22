@@ -18,6 +18,6 @@ tags:
   - Striking out
   - Whether claim frivolous or vexatious
   - Whether claim intrinsically weak hopeless case
-layout: single
+
 ---
 

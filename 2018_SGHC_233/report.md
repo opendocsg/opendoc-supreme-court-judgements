@@ -11,7 +11,7 @@ tags:
   - Contract
   - Contractual terms
   - Interpretation
-layout: single
+
 ---
 # Power Solar System Co Ltd (in liquidation) v Suntech Power Investment Pte Ltd 
 

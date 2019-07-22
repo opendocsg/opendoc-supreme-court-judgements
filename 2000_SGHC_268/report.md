@@ -12,7 +12,7 @@ tags:
   - Admiralty jurisdiction and arrest
   - Release of arrested vessel following stay of proceedings
   - Relevant considerations
-layout: single
+
 ---
 # Hyosung (HK) Ltd v Owners of the Ship or Vessel `Hilal I` 
 

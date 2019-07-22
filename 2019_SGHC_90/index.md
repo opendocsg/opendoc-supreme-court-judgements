@@ -7,6 +7,6 @@ tags:
   - Outrage of modesty
   - Knowledge that the act is likely to outrage the modesty of that person
   - Sentencing
-layout: single
+
 ---
 

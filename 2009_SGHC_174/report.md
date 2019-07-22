@@ -13,7 +13,7 @@ tags:
   - >-
     Whether disclosure of documents to foreign court amounted to indirect
     enforcement of foreign revenue laws
-layout: single
+
 ---
 # Relfo Ltd (in liquidation) v Bhimji Velji Jadva Varsani 
 

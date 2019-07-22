@@ -9,7 +9,7 @@ tags:
   - >-
     Whether evidence sufficing to prove the contracts existed and to prove that
     there had been breach
-layout: single
+
 ---
 # Wah Heng Glass Holdings Pte Ltd v Diethelm Keller Engineering Pte Ltd 
 

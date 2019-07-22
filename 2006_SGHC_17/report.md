@@ -9,7 +9,7 @@ tags:
     Whether court should allow plaintiff\'s application for leave to re-amend
     statement of claim after trial commenced
   - Applicable principles for allowing amendments to pleadings at late stage
-layout: single
+
 ---
 # Rabiah Bee bte Mohamed Ibrahim v Salem Ibrahim 
 

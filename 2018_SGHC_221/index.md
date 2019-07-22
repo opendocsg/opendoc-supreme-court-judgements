@@ -6,6 +6,6 @@ tags:
   - Witnesses
   - Attendance
   - Giving evidence by video link
-layout: single
+
 ---
 

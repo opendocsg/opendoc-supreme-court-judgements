@@ -11,6 +11,6 @@ tags:
   - Determination of Question of Law
   - Statutory Interpretation
   - Construction of Statute
-layout: single
+
 ---
 

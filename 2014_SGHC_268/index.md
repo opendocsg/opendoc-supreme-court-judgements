@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Statutory Offences
   - Women’s Charter
-layout: single
+
 ---
 

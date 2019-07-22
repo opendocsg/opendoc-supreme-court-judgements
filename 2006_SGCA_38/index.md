@@ -15,6 +15,6 @@ tags:
   - >-
     Whether appellate court should disturb findings of fact based on witness\'
     veracity and credibility
-layout: single
+
 ---
 

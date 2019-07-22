@@ -18,6 +18,6 @@ tags:
   - >-
     Whether concerning general principle relating to assessment of damages or
     one-off point
-layout: single
+
 ---
 

@@ -13,6 +13,6 @@ tags:
   - Tort
   - Trespass
   - Land
-layout: single
+
 ---
 

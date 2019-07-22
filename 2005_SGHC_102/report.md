@@ -15,7 +15,7 @@ tags:
     Whether court should empower judicial managers to set aside incomplete
     execution of writ of seizure and sale against company
   - 'Sections 227X, 334(1) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 # Re Wan Soon Construction Pte Ltd 
 

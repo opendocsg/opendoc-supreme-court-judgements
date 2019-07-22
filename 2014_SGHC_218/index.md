@@ -5,6 +5,6 @@ tags:
   - Agency
   - Powers of Attorney
   - Revocation
-layout: single
+
 ---
 

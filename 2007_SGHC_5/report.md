@@ -21,7 +21,7 @@ tags:
   - >-
     Whether restrictive covenants amounting to restraint of trade and therefore
     invalid
-layout: single
+
 ---
 # Wong Bark Chuan David v Man Financial (S) Pte Ltd 
 

@@ -10,6 +10,6 @@ tags:
   - Infringement
   - Trade Marks and Trade Names
   - Passing off
-layout: single
+
 ---
 

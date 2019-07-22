@@ -10,6 +10,6 @@ tags:
   - Divorce
   - Maintenance
   - Whether lump sum maintenance award appropriate
-layout: single
+
 ---
 

@@ -23,6 +23,6 @@ tags:
   - Equity
   - estoppel
   - evidential estoppel
-layout: single
+
 ---
 

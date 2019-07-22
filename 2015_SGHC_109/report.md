@@ -6,7 +6,7 @@ tags:
   - Ownership
   - Contract
   - Formation
-layout: single
+
 ---
 # Lee Kien Meng v Cintamani Frank 
 

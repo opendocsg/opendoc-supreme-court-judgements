@@ -14,6 +14,6 @@ tags:
     Whether plain language rule of statutory interpretation inapt in the
     circumstances
   - Whether necessary to refer to legislative history as aid to interpretation
-layout: single
+
 ---
 

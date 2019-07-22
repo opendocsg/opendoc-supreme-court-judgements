@@ -8,7 +8,7 @@ tags:
   - Trusts
   - Constructive Trusts
   - Common Intention Constructive Trusts
-layout: single
+
 ---
 # Chan Yuen Lan v See Fong Mun 
 

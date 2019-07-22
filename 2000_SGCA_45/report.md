@@ -18,7 +18,7 @@ tags:
   - >-
     Whether other c lause requiring seller to c onvey property free of enc
     umbranc es germane to c onstruc tion of \'subjec t to\' c lause
-layout: single
+
 ---
 # Bonsel Development Pte Ltd v Tan Kong Kar and Another 
 

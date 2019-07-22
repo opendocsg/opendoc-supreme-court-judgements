@@ -23,7 +23,7 @@ tags:
   - >-
     Whether c ourt should c onvic t appellant on lesser offenc e than that
     arising out of entrapment
-layout: single
+
 ---
 # Ong Chin Keat Jeffrey v Public Prosecutor 
 

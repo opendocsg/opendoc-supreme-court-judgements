@@ -8,6 +8,6 @@ tags:
   - Criminal Law
   - Corruption
   - Prevention of Corruption Act
-layout: single
+
 ---
 

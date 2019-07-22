@@ -12,7 +12,7 @@ tags:
   - Equity
   - Fiduciary relationships
   - When arising
-layout: single
+
 ---
 # First Asia Capital Investments Ltd v Société Générale Bank & Trust and another 
 

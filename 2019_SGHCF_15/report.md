@@ -5,7 +5,7 @@ tags:
   - Mental Disorders and Treatment
   - Legal capacity
   - Mental Capacity Act
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BUV _v_ BUU and another and another matter  

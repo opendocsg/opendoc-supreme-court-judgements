@@ -7,6 +7,6 @@ tags:
   - Privileged Communication
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 

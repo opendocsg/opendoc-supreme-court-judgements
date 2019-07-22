@@ -7,7 +7,7 @@ tags:
   - Setting aside
   - Civil procedure
   - Amendments
-layout: single
+
 ---
 # Thu Aung Zaw v Ku Swee Boon (trading as Norb Creative Studio) 
 

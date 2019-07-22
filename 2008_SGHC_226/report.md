@@ -28,7 +28,7 @@ tags:
     and consented to share transfer
   - Whether share transfer unfair to minority shareholder
   - 'Section 216(1) Companies Act (Cap 50, 2006 Rev Ed)'
-layout: single
+
 ---
 # Over & Over Ltd v Bonvests Holdings Ltd and Another 
 

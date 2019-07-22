@@ -29,7 +29,7 @@ tags:
     whether the directors of the plaintiffs, having done the very acts
     complained of, were precluded from claiming because they did not come to
     court with \'clean hands\'.
-layout: single
+
 ---
 # Tokuhon (Private) Limited v Seow Kang Hong and Others 
 

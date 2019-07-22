@@ -21,7 +21,7 @@ tags:
   - Statements of intention
   - Whether defendant\'s statements of intention constituted statements of fact
   - Whether fact allegedly misrepresented constituted defendant\'s state of mind
-layout: single
+
 ---
 # Leow Chin Hua v Ng Poh Buan 
 

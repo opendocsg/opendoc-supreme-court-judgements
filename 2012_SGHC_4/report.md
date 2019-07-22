@@ -6,7 +6,7 @@ tags:
   - Division of matrimonial assets
   - Family Law
   - Maintenance
-layout: single
+
 ---
 # AWX v AWY 
 

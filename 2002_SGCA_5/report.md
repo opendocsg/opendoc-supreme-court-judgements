@@ -11,7 +11,7 @@ tags:
   - Third party claims
   - Insured causing damage to property resulting in loss to third party
   - Insured subsequently wound up
-layout: single
+
 ---
 # The Hartford Insurance Company (Singapore) Ltd v Chiu Teng Construction Pte Ltd 
 

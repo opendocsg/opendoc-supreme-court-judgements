@@ -9,7 +9,7 @@ tags:
   - conflicts with earlier marks
   - Trade marks and trade names
   - passing off
-layout: single
+
 ---
  Trade Mark Classes registered Date 
 

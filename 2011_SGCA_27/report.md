@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Benchmark Sentences
-layout: single
+
 ---
 # Public Prosecutor v AFR 
 

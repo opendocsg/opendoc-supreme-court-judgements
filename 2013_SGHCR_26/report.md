@@ -4,7 +4,7 @@ subtitle: "[2013] SGHCR 26 / 07\_November\_2013"
 tags:
   - Partnership
   - Partners
-layout: single
+
 ---
 # Ang Tin Gee v Pang Teck Guan 
 

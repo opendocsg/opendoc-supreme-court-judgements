@@ -4,6 +4,6 @@ subtitle: "[2016] SGHC 68 / 20\_April\_2016"
 tags:
   - Arbitration
   - Stay of court proceedings
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Civil Procedure
   - Pleadings
   - Striking Out
-layout: single
+
 ---
 

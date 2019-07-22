@@ -15,6 +15,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Whether sentence manifestly excessive
-layout: single
+
 ---
 

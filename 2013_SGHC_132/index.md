@@ -5,6 +5,6 @@ tags:
   - Tort
   - Negligence
   - Contributory Negligence
-layout: single
+
 ---
 

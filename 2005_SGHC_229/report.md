@@ -12,7 +12,7 @@ tags:
     Taxpayer seeking to deduc t expenses against taxable inc ome for years of
     assessment
   - Whether expenses c apital in nature
-layout: single
+
 ---
 # IA v Comptroller of Income Tax 
 

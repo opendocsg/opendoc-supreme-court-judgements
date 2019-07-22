@@ -22,7 +22,7 @@ tags:
   - >-
     Whether damages for loss of bargain could be claimed by applying multiplier
     used to derive purchase price
-layout: single
+
 ---
 # Metalform Asia Pte Ltd v Ser Kim Koi and Another (Holland Leedon Pte Ltd (in liquidation), 
 

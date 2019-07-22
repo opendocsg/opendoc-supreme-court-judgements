@@ -13,6 +13,6 @@ tags:
   - Building and Construction Law
   - Construction torts
   - Contractor
-layout: single
+
 ---
 

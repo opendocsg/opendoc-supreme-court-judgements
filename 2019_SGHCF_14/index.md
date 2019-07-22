@@ -7,6 +7,6 @@ tags:
   - Duties
   - Remedies
   - Account
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Breach
   - Contract
   - Variation
-layout: single
+
 ---
 # Almega Investments Pte Ltd and another v Chiang Sing Jeong 
 

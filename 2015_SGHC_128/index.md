@@ -6,6 +6,6 @@ tags:
   - assignment
   - Copyright
   - ownership
-layout: single
+
 ---
 

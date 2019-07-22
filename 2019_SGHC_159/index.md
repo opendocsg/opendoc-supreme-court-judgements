@@ -8,6 +8,6 @@ tags:
   - Vicarious liability
   - Limitation of Actions
   - Particular causes of action
-layout: single
+
 ---
 

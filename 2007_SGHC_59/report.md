@@ -37,7 +37,7 @@ tags:
     Whether \"genuine use\" may be established where no evidence of actual sales
     existing
   - 'Section 22(1) of Trade Marks Act (Cap 332, 2005 Rev Ed)'
-layout: single
+
 ---
 # Weir Warman Ltd v Research & Development Pty Ltd 
 

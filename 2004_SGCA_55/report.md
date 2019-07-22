@@ -27,7 +27,7 @@ tags:
     Bankrupt\'s dishonesty and lack of cooperation with Official Assignee
     considered
   - Whether court should grant bankrupt conditional discharge
-layout: single
+
 ---
 # Jeyaretnam Joshua Benjamin v Indra Krishnan 
 

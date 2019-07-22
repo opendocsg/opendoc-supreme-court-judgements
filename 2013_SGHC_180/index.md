@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Corruption
   - Prevent of Corruption Act
-layout: single
+
 ---
 

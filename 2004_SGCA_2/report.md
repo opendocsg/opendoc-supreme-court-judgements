@@ -27,7 +27,7 @@ tags:
   - Words and Phrases
   - \"Fight\"
   - Meaning
-layout: single
+
 ---
 # Tan Chee Wee v Public Prosecutor 
 

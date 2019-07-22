@@ -57,7 +57,7 @@ tags:
   - >-
     Sections 13A, 13B Miscellaneous Offences (Public Order and Nuisance) Act
     (Cap 184, 1997 Rev Ed)
-layout: single
+
 ---
 # Chee Siok Chin and Others v Minister for Home Affairs and Another 
 

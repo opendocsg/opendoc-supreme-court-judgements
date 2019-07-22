@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Tenant suing landlord for breach of covenant under lease agreement
-layout: single
+
 ---
 # Amara Hotel Properties Pte Ltd v Sie Choon Poh (trading as Image Galaxy) 
 

@@ -6,6 +6,6 @@ tags:
   - Assessment
   - LANDLORD AND TENANT
   - Agreement for leases
-layout: single
+
 ---
 

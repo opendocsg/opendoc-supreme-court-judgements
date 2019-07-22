@@ -7,6 +7,6 @@ tags:
   - Choses in action
   - assignment
   - incapacity
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - Family Law
   - Maintenance
   - Child
-layout: single
+
 ---
 # Anthony Patrick Nathan v Chan Siew Chin 
 

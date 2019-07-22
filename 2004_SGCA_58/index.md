@@ -10,6 +10,6 @@ tags:
     as to reason for seeking amendment
   - Respondent challenging application on grounds that amendment prejudicial
   - Whether leave to amend notice of appeal should be granted
-layout: single
+
 ---
 

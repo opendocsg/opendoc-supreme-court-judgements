@@ -23,7 +23,7 @@ tags:
     arbitration agreement
   - No serious steps taken to commence arbitration
   - Whether contractor\'s conduct an abuse of process
-layout: single
+
 ---
 # NCC International AB v Alliance Concrete Singapore Pte Ltd 
 

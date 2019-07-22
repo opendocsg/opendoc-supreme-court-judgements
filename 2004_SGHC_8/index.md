@@ -21,6 +21,6 @@ tags:
   - >-
     Whether plaintiffs failed to persuade court that there was any fraud on
     valuer.
-layout: single
+
 ---
 

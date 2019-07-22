@@ -7,7 +7,7 @@ tags:
   - Damages
   - Measure of damages
   - Settlement sum
-layout: single
+
 ---
 # UTOC Engineering Pte Ltd v ASK Singapore Pte Ltd 
 

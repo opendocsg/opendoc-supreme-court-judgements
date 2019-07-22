@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - Inherent powers
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Absolute Kinetics Consultancy Pte Ltd _v_ Seah Yong Wah (Singapore Telecommunications Ltd, non-party)  

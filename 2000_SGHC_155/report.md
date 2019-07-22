@@ -16,7 +16,7 @@ tags:
   - Offence involving high degree of planning
   - Whether fine sufficient
   - Whether need for deterrent custodial sentence
-layout: single
+
 ---
 # Public Prosecutor v Tay Beng Guan Albert 
 

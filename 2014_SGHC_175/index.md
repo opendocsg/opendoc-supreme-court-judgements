@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - striking out
   - judicial immunity
-layout: single
+
 ---
 

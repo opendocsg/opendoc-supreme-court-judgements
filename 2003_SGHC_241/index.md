@@ -13,6 +13,6 @@ tags:
   - Contract
   - Breach
   - Whether plaintiffs in breach of Settlement Agreement.
-layout: single
+
 ---
 

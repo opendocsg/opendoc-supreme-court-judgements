@@ -17,6 +17,6 @@ tags:
   - Sexual offences
   - Child victim
   - Whether delay in making complaint affected credibility of complainant
-layout: single
+
 ---
 

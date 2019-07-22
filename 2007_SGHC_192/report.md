@@ -19,7 +19,7 @@ tags:
   - >-
     Whether non-competition clause is void for being in wrongful restraint of
     trade
-layout: single
+
 ---
 # SeaCAD Technologies Pte Ltd v Tan Siew Meng Aaron and Another 
 

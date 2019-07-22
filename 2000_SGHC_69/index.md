@@ -27,6 +27,6 @@ tags:
   - Land
   - Strata titles
   - 'Operation of s 116(1), Land Titles (Strata) Act (Cap 158)'
-layout: single
+
 ---
 

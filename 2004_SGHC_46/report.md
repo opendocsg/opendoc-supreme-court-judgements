@@ -6,7 +6,7 @@ tags:
   - Offences
   - Culpable homicide
   - 'Penal Code (Cap 224, 1985 Rev Ed) s 304(b).'
-layout: single
+
 ---
 # Public Prosecutor v Katun Bee Bte S Ibrahim 
 

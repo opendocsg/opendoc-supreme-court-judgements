@@ -30,7 +30,7 @@ tags:
     Singapore International Arbitration Centre costs in award for security for
     costs
   - 's 12 International Arbitration Act (Cap 143A, 1995 Ed)'
-layout: single
+
 ---
 # Dermajaya Properties Sdn Bhd v Premium Properties Sdn Bhd and Another 
 

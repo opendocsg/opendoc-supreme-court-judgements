@@ -8,7 +8,7 @@ tags:
   - Arbitration
   - Stay of litigation
   - Mandatory stay under International Arbitration Act
-layout: single
+
 ---
 # BTY v BUA and other matters 
 

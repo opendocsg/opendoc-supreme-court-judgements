@@ -18,7 +18,7 @@ tags:
     Whether witnesses allowed to give evidence from overseas through live video
     link for criminal proceedings in Singapore
   - 'Section 364A Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 # Kim Gwang Seok v Public Prosecutor 
 

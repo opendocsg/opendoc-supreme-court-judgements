@@ -12,7 +12,7 @@ tags:
   - Enforcement
   - Singapore award
   - Duty of full and frank disclosure
-layout: single
+
 ---
 # AUF v AUG and other matters 
 

@@ -5,6 +5,6 @@ tags:
   - Revenue Law
   - Income Taxation
   - Avoidance
-layout: single
+
 ---
 

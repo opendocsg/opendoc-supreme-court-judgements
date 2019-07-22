@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - Costs
   - Taxation
-layout: single
+
 ---
 # Seng You Morris v International Bank of Qatar 
 

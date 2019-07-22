@@ -7,7 +7,7 @@ tags:
   - Adjudication
   - Contract
   - Contractual terms
-layout: single
+
 ---
 # Sunray Woodcraft Construction Pte Ltd v Like Building Materials (S) Pte Ltd 
 

@@ -5,6 +5,6 @@ tags:
   - Revenue Law
   - Property tax
   - Annual value
-layout: single
+
 ---
 

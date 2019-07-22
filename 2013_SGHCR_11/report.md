@@ -5,7 +5,7 @@ tags:
   - Building and Construction Law
   - Prolongation
   - Assessment
-layout: single
+
 ---
 # SKK (S) Pte Ltd v Management Corporation Strata Title Plan No 1166 
 

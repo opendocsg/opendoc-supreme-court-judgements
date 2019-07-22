@@ -6,6 +6,6 @@ tags:
   - Discovery of Documents
   - Patents and Inventions
   - Experiments
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Yuen Ye Ming _v_ Public Prosecutor  

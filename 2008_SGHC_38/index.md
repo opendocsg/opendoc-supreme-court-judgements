@@ -23,6 +23,6 @@ tags:
     fresh action
   - Application for interlocutory judgment on fresh action
   - 'Order 6, O 18 r 19, O 21 r 2(6) Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 

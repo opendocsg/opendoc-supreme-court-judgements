@@ -10,6 +10,6 @@ tags:
   - Award
   - Setting aside
   - Impartiality or independence
-layout: single
+
 ---
 

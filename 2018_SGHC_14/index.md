@@ -8,6 +8,6 @@ tags:
   - Companies
   - Directors
   - Liabilities
-layout: single
+
 ---
 

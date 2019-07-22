@@ -36,7 +36,7 @@ tags:
   - Registered trademark
   - Distribution confirming after termination of licence agreement
   - Whether relief should be granted
-layout: single
+
 ---
 # National Aerated Water Co Pte Ltd v Monarch Co, Inc 
 

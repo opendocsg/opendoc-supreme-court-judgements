@@ -2,7 +2,7 @@
 title: Vijayalakshmi Sivaprakasapillai v Mrinalini Ponnambalam and Others
 subtitle: "[2009] SGHC 183 / 13\_August\_2009"
 tags: null
-layout: single
+
 ---
  (a) parties were to exchange affidavits of evidence-in-chief (“AEICs”) of all witnesses by 4pm of 18 March 2009; 
 

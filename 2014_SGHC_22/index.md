@@ -8,6 +8,6 @@ tags:
   - >-
     Whether disposition of shares was a gift or did legal owner hold shares on
     trust for beneficiaries
-layout: single
+
 ---
 

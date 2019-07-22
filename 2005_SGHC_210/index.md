@@ -11,6 +11,6 @@ tags:
   - >-
     Whether agreement amounting to loan under guise of sale and purchase of
     shares
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Privileges
   - Without prejudice privilege
-layout: single
+
 ---
 

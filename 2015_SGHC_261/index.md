@@ -11,6 +11,6 @@ tags:
   - Civil Procedure
   - Pleadings
   - Objections
-layout: single
+
 ---
 

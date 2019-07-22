@@ -9,6 +9,6 @@ tags:
   - Suitability for determination under O 14 r 12 Rules of Court
   - Requirements for applicant to satisfy
   - O 14 r 12 Rules of Court
-layout: single
+
 ---
 

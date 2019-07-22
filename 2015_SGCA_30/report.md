@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # PT Perusahaan Gas Negara (Persero) TBK v CRW Joint Operation 
 

@@ -5,7 +5,7 @@ tags:
   - Contract
   - Breach
   - Settlement agreement
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Jumaiah bte Amir and Another _v_ Salim bin Abdul Rashid  

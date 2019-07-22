@@ -15,7 +15,7 @@ tags:
   - Avoidance of transactions
   - Relevant test for insolvency
   - Allegation that transactions carried out whilst company solvent
-layout: single
+
 ---
 # Chip Thye Enterprises Pte Ltd (in liquidation) v Phay Gi Mo and Others 
 

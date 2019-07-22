@@ -8,6 +8,6 @@ tags:
   - Foreign Judgments
   - Enforcement
   - Reciprocal Enforcement of Commonwealth Judgments
-layout: single
+
 ---
 

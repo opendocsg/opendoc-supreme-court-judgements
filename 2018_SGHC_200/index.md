@@ -7,6 +7,6 @@ tags:
   - Adjudication
   - Contract
   - Contractual terms
-layout: single
+
 ---
 

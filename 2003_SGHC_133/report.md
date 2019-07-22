@@ -17,7 +17,7 @@ tags:
     parent company
   - Companies achieved little or no return on investments made
   - Whether defendants in breach of fiduciary duty as directors.
-layout: single
+
 ---
 # Heap Huat Rubber Company Sdn Bhd and Others v Kong Choot Sian and Others 
 

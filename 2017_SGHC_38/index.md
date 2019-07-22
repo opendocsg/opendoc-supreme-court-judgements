@@ -13,6 +13,6 @@ tags:
   - Winding up
   - Credit and security
   - Trust receipts
-layout: single
+
 ---
 

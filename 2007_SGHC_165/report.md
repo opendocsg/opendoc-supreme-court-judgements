@@ -25,7 +25,7 @@ tags:
   - >-
     Whether other parties required to file defence before hearing of stay of
     proceedings application
-layout: single
+
 ---
 # Go Go Delicacy Pte Ltd v Carona Holdings Pte Ltd and Others 
 

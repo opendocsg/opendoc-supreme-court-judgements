@@ -23,7 +23,7 @@ tags:
   - >-
     Whether leave should be granted for party to be joined as defendant to
     existing suit
-layout: single
+
 ---
 # Beng Tiong Trading, Import And Export (1988) Pte Ltd v Maria Janda Achmad Bin Abdullah 
 

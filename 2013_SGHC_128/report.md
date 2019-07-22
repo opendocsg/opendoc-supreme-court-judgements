@@ -5,7 +5,7 @@ tags:
   - Insolvency
   - Winding up
   - Liquidator
-layout: single
+
 ---
 # Aliev Firoudin v Kon Yin Tong & another 
 

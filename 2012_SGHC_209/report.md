@@ -6,7 +6,7 @@ tags:
   - Women’s Charter
   - Conflict of Laws
   - Natural forum
-layout: single
+
 ---
 # BDA v BDB 
 

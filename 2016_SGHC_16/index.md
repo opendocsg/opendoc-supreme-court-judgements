@@ -12,6 +12,6 @@ tags:
   - Equity
   - Estoppel
   - Promissory estoppel
-layout: single
+
 ---
 

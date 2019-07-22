@@ -12,6 +12,6 @@ tags:
     Dividend from liquidated company declared in favour of bankrupt after
     bankrupt discharged from bankruptcy
   - Whether Official Assignee entitled to dividend to pay bankrupt\'s creditors
-layout: single
+
 ---
 

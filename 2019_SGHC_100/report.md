@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Costs
   - awarded
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Seraya Energy Pte Ltd _v_ Denka Advantech Pte Ltd and another suit (YTL PowerSeraya Pte Ltd, third party)  

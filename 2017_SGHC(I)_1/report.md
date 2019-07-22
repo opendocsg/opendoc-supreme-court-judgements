@@ -7,7 +7,7 @@ tags:
   - Insolvency law
   - Cross-border insolvency
   - Recognition of foreign insolvency proceedings
-layout: single
+
 ---
 # Arris Solutions, Inc and others v Asian Broadcasting Network (M) Sdn Bhd 
 

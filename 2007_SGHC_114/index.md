@@ -10,6 +10,6 @@ tags:
     Lawyer unrepresented and absent from disciplinary committee proceedings and
     show cause hearing
   - Whether lawyer\'s conduct amounting to grossly improper conduct
-layout: single
+
 ---
 

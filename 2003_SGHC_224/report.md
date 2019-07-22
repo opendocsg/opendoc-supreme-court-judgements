@@ -24,7 +24,7 @@ tags:
   - Measure of damages
   - Contract
   - Measure of loss for wrongful termination of voyage charterparty
-layout: single
+
 ---
 # The "An Ji Jiang" 
 

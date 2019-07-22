@@ -8,6 +8,6 @@ tags:
   - Confidence
   - Civil Procedure
   - Pleadings
-layout: single
+
 ---
 

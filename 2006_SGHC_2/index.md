@@ -14,6 +14,6 @@ tags:
     Whether renunciation in accordance with ss 3, 4 of the Probate and
     Administration Act (Cap 251, 2000 Rev Ed) -Section 7(2) Civil Law Act (Cap
     43, 1999 Rev Ed)
-layout: single
+
 ---
 

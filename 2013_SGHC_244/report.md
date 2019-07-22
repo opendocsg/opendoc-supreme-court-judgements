@@ -7,7 +7,7 @@ tags:
   - Division
   - Family Law
   - Maintenance
-layout: single
+
 ---
 # BMG v BMH 
 

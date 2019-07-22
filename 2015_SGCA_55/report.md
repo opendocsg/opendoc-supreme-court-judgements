@@ -8,7 +8,7 @@ tags:
   - Contractual terms
   - Express terms
   - Interpretation of term
-layout: single
+
 ---
 # Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd (formerly known as Soup 
 

@@ -6,7 +6,7 @@ tags:
   - Partners inter se
   - Accounts
   - Business of partnership transferred to company
-layout: single
+
 ---
 # Toh Kim Chan v Toh Kim Tian and Others 
 

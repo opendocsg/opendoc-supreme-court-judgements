@@ -23,7 +23,7 @@ tags:
     Whether necessary for \"representative\" of exempt financial adviser to be
     natural person
   - 'Sections 6(1), 7(1) Financial Advisers Act (Cap 110, 2002 Rev Ed)'
-layout: single
+
 ---
  8 April 2006 Judgment reserved 
 

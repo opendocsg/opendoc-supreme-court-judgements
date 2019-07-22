@@ -5,7 +5,7 @@ tags:
   - Contract
   - remedies
   - damages
-layout: single
+
 ---
  Supplier Amount 
 

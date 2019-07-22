@@ -30,6 +30,6 @@ tags:
   - Impeaching witnesses’ credibility
   - Discrepancies in evidence
   - Whether credibility impeached
-layout: single
+
 ---
 

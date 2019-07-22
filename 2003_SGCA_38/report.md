@@ -26,7 +26,7 @@ tags:
   - >-
     Whether pari passu principle applicable to schemes of arrangement outside
     liquidation
-layout: single
+
 ---
 # Hitachi Plant Engineering & Construction Co Ltd and Another v Eltraco International Pte Ltd 
 

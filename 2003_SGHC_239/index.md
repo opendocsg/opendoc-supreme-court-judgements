@@ -5,6 +5,6 @@ tags:
   - Contract
   - Formation
   - Whether binding contract entered into between parties.
-layout: single
+
 ---
 

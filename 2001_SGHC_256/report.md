@@ -26,7 +26,7 @@ tags:
     supervision
   - Sentencing options and considerations
   - ss 304(a) & 314 Penal Code (Cap 224)
-layout: single
+
 ---
 # Public Prosecutor v Dolah bin Omar 
 

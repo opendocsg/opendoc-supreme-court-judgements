@@ -20,7 +20,7 @@ tags:
   - Proof of evidence
   - Standard of proof
   - Whether prima facie case established at close of prosecution\'s case.
-layout: single
+
 ---
 # Chan Chan Wah v Public Prosecutor 
 

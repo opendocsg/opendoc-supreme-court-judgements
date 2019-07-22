@@ -4,6 +4,6 @@ subtitle: "[2010] SGHC 365 / 21\_December\_2010"
 tags:
   - Contract
   - Sale of Goods
-layout: single
+
 ---
 

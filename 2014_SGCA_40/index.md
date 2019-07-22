@@ -5,6 +5,6 @@ tags:
   - Arbitration
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 

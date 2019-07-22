@@ -13,6 +13,6 @@ tags:
   - Proprietary estoppel
   - Trusts
   - Constructive trusts
-layout: single
+
 ---
 

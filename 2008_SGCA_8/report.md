@@ -49,7 +49,7 @@ tags:
   - >-
     Whether allowing such loss to be recovered as damages in law would open
     floodgates for claims against construction professionals
-layout: single
+
 ---
 # Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd and Another 
 

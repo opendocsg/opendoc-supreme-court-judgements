@@ -10,7 +10,7 @@ tags:
   - Occupier’s liability
   - Tort
   - Breach of statutory duty
-layout: single
+
 ---
 # Manickam Sankar v Selvaraj Madhavan (trading as MKN Construction & Engineering) and 
 

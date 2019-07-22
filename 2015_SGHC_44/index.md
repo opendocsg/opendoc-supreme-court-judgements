@@ -4,6 +4,6 @@ subtitle: "[2015] SGHC 44 / 12\_February\_2015"
 tags:
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 

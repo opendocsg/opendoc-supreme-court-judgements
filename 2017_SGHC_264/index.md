@@ -13,6 +13,6 @@ tags:
   - Stay of proceedings
   - Res judicata
   - Abuse of process
-layout: single
+
 ---
 

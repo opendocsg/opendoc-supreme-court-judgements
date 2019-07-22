@@ -13,6 +13,6 @@ tags:
     of charge over fresh facilities
   - Whether Bankt estopped from enforcing charge
   - Whether obligated to inform surety of \'unusual features\'
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Stay of proceedings
   - Conflict of laws
   - Choice of jurisdiction
-layout: single
+
 ---
 

@@ -28,6 +28,6 @@ tags:
   - >-
     Whether costs of disciplinary proceedings to be taxed as if proceedings were
     trials
-layout: single
+
 ---
 

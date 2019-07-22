@@ -7,6 +7,6 @@ tags:
   - Power to reopen concluded criminal appeals
   - Res Judicata
   - Abuse of process
-layout: single
+
 ---
 

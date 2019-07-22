@@ -8,7 +8,7 @@ tags:
   - Damages
   - Measure of damages
   - Rules in awarding
-layout: single
+
 ---
 # Holland Leedon Pte Ltd (in liquidation) v Metalform Asia Pte Ltd 
 

@@ -18,6 +18,6 @@ tags:
   - Plea of guilty
   - Criminal Procedure and Sentencing
   - Mitigation
-layout: single
+
 ---
 

@@ -4,6 +4,6 @@ subtitle: "[2010] SGHC 373 / 29\_December\_2010"
 tags:
   - Contract
   - Law of Compromise
-layout: single
+
 ---
 

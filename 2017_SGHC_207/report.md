@@ -7,7 +7,7 @@ tags:
   - Companies
   - Receiver and manager
   - Remuneration of
-layout: single
+
 ---
 # nTan Corporate Advisory Pte Ltd v TT International Ltd 
 

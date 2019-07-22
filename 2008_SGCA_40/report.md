@@ -24,7 +24,7 @@ tags:
   - Reasonable doubt
   - Whether Prosecution\'s case proved beyond reasonable doubt
   - Whether appellant sexually assaulted the deceased
-layout: single
+
 ---
 # Mohammed Ali bin Johari v Public Prosecutor 
 

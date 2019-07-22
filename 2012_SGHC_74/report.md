@@ -5,7 +5,7 @@ tags:
   - Administrative law
   - Judicial Review
   - Leave application under O 53 of the Rules of Court
-layout: single
+
 ---
 # Vellama d/o Marie Muthu v Attorney-General 
 

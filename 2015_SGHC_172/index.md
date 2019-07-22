@@ -5,6 +5,6 @@ tags:
   - Land
   - interest in land
   - tenancy in common
-layout: single
+
 ---
 

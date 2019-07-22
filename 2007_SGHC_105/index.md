@@ -14,6 +14,6 @@ tags:
     Whether public interest justifying imposing conditions on lawyer\'s
     practising certificate
   - 'Section 25A(2)(b) Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 

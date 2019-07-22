@@ -9,6 +9,6 @@ tags:
   - Contract
   - Formation
   - Whether parties had intention to enter into binding oral contracts
-layout: single
+
 ---
 

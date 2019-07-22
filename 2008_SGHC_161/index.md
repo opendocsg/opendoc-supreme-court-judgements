@@ -12,6 +12,6 @@ tags:
   - Measure of damages
   - Contract
   - Contract to construct house with bedrooms
-layout: single
+
 ---
 

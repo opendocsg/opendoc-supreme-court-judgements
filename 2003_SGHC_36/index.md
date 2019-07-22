@@ -8,6 +8,6 @@ tags:
     Whether plaintiffs estopped from raising issue in present case because issue
     was subject matter of previous litigation
   - Exercise of residual discretion to re-open issue in equity
-layout: single
+
 ---
 

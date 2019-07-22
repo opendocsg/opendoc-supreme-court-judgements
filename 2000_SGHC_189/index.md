@@ -15,6 +15,6 @@ tags:
   - Breach
   - Time of assessment of damages
   - Whether damages to be assessed at time of breach or date of judgment
-layout: single
+
 ---
 

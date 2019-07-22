@@ -13,7 +13,7 @@ tags:
   - Breach of duty
   - Causation
   - Duty of care
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Zillion Global Ltd and another _v_ Deutsche Bank AG, Singapore Branch  

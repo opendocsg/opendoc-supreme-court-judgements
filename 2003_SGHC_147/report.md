@@ -11,7 +11,7 @@ tags:
   - Sentencing
   - Mitigating factors
   - Whether mental condition a mitigating factor
-layout: single
+
 ---
 # Public Prosecutor v Huang Hong Si 
 

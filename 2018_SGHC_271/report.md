@@ -8,7 +8,7 @@ tags:
   - Fiduciary Duties
   - Tort of Deceit
   - Trust
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sabyasachi Mukherjee and another _v_ Pradeepto Kumar Biswas and another suit  

@@ -7,6 +7,6 @@ tags:
   - Exclusive
   - Jurisdiction
   - Natural forum
-layout: single
+
 ---
 

@@ -15,6 +15,6 @@ tags:
   - >-
     Whether plaintiff\'s declaration amounts to legitimate notice of its
     inability to perform or an illegitimate threat
-layout: single
+
 ---
 

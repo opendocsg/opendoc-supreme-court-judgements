@@ -16,7 +16,7 @@ tags:
   - Companies
   - Relief from oppression by minority shareholder
   - Whether minority can compel majority to buy shares and wind up the company
-layout: single
+
 ---
 # Chew Tong Seng and Another v Chew Cheng Quee and Another Matter 
 

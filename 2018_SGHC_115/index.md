@@ -5,6 +5,6 @@ tags:
   - Tort
   - Defamation
   - Defamatory Statements
-layout: single
+
 ---
 

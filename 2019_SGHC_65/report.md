@@ -7,7 +7,7 @@ tags:
   - Enforcement
   - Writs of seizure and sale
   - Joint tenancy
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ong Boon Hwee _v_ Cheah Ng Soo and another  

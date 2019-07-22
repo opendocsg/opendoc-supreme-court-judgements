@@ -26,6 +26,6 @@ tags:
   - >-
     Section 244 Criminal Procedure Code (Cap 68, 1985 Rev Ed), s 60(1) Supreme
     Court of Judicature Act (Cap 322, 1999 Rev Ed)
-layout: single
+
 ---
 

@@ -33,7 +33,7 @@ tags:
   - >-
     Whether inequitable for plaintiffs to refuse to honour compromise agreement
     on ground that such agreement not lawfully entered into
-layout: single
+
 ---
 # Abdul Jalil bin Ahmad bin Talib and Others v A Formation Construction Pte Ltd 
 

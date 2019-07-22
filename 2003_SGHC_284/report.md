@@ -7,7 +7,7 @@ tags:
   - >-
     Whether Authorised Officer\'s decision to dismiss plaintiff from employment
     was one no rational and fair-minded arbiter would have made
-layout: single
+
 ---
 # Ng Hock Guan v Attorney-General 
 

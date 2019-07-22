@@ -22,7 +22,7 @@ tags:
   - Ratification
   - Estoppel
   - Estoppel by representation
-layout: single
+
 ---
 # Independent State of Papua New Guinea v PNG Sustainable Development Program Ltd 
 

@@ -18,6 +18,6 @@ tags:
   - Whether offences committed in one transaction
   - 'Sections 43 and 84 Road Traffic Act (Cap 276, 2004 Rev Ed)'
   - 'Section 18 Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 

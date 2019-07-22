@@ -12,6 +12,6 @@ tags:
   - Contractual terms
   - Parol evidence rule
   - Rules of construction
-layout: single
+
 ---
 

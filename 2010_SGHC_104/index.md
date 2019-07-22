@@ -7,6 +7,6 @@ tags:
   - Contract
   - Privity of Contract
   - Contracts (Rights of Third Parties) Act
-layout: single
+
 ---
 

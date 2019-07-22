@@ -14,6 +14,6 @@ tags:
   - Land
   - Registration of title
   - Indefeasibility
-layout: single
+
 ---
 

@@ -4,6 +4,6 @@ title: >-
   Venture Managers
 subtitle: "[2010] SGHC 127 / 26\_April\_2010"
 tags: null
-layout: single
+
 ---
 

@@ -12,7 +12,7 @@ tags:
     Burden on party opposing stay to show why arbitration agreement not to
     prevail
   - Whether plaintiffs have undisputable claim against defendants
-layout: single
+
 ---
 # Mae Engineering Ltd v Dragages Singapore Pte Ltd (fka Dragages et Travaux Publics (S) Pte 
 

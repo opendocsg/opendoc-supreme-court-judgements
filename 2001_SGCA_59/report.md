@@ -30,7 +30,7 @@ tags:
   - Judicial management order
   - Objectives
   - Effect
-layout: single
+
 ---
 # Hinckley Singapore Trading Pte Ltd v Sogo Department Stores (S) Pte Ltd (under judicial 
 

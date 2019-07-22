@@ -6,6 +6,6 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Drug trafficking
-layout: single
+
 ---
 

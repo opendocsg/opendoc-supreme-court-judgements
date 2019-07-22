@@ -5,7 +5,7 @@ tags:
   - Contract
   - Illegality and Public Policy
   - Restraint of Trade
-layout: single
+
 ---
 # Lek Gwee Noi v Humming Flowers & Gifts Pte Ltd 
 

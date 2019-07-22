@@ -33,7 +33,7 @@ tags:
   - Tort
   - Misrepresentation
   - Negligent
-layout: single
+
 ---
 # IM Skaugen SE and another v MAN Diesel & Turbo SE and another 
 

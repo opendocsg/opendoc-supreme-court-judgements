@@ -5,7 +5,7 @@ tags:
   - Contract
   - Misrepresentation
   - Rescission
-layout: single
+
 ---
 # SMRT Alpha Pte Ltd v Strait Colonies Pte Ltd 
 

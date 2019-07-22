@@ -15,7 +15,7 @@ tags:
   - >-
     Whether Arbitration Rules of SIAC or SIAC Domestic Arbitration Rules
     applicable
-layout: single
+
 ---
 # Black and Veatch Singapore Pte Ltd v Jurong Engineering Ltd 
 

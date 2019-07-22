@@ -19,6 +19,6 @@ tags:
   - Conversion
   - Trusts
   - Breach of trust
-layout: single
+
 ---
 

@@ -16,7 +16,7 @@ tags:
   - >-
     Whether court may intervene to set aside expert\'s decision where no fraud
     or collusion involved
-layout: single
+
 ---
 # Geowin Construction Pte Ltd (in liquidation) v Management Corporation Strata Title No 1256 
 

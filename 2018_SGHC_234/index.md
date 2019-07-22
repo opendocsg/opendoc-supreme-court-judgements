@@ -7,6 +7,6 @@ tags:
   - Misuse of Drugs Act
   - Criminal procedure and sentencing
   - Sentencing
-layout: single
+
 ---
 

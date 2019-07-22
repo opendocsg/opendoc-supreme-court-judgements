@@ -10,7 +10,7 @@ tags:
     Whether sentence to commence immediately or upon completion of reformative
     training
   - 'Schedule D Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Zurina bte Khairuddin 
 

@@ -9,6 +9,6 @@ tags:
   - Winding Up
   - Liquidator
   - Liquidator’s statutory power of sale
-layout: single
+
 ---
 

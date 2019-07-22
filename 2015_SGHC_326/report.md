@@ -7,7 +7,7 @@ tags:
   - Insurance
   - Liability insurance
   - Employer’s
-layout: single
+
 ---
 # Huationg (Asia) Pte Ltd v Lonpac Insurance Bhd 
 

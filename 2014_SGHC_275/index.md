@@ -14,6 +14,6 @@ tags:
   - Family law
   - matrimonial assets
   - division
-layout: single
+
 ---
 

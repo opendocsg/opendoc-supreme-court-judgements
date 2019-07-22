@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - Stay of proceedings
   - Effect of service of garnishee order nisi
-layout: single
+
 ---
 # SCK Serijadi Sdn Bhd v Artison Interior Pte Ltd 
 

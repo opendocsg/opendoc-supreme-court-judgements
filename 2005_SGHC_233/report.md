@@ -10,7 +10,7 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Conspiracy to import controlled drugs
-layout: single
+
 ---
 # Public Prosecutor v Iwuchukwu Amara Tochi and Another 
 

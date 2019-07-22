@@ -13,6 +13,6 @@ tags:
   - Principles
   - Multiple charges concerning same incident
   - Whether global view of punishment relevant and appropriate.
-layout: single
+
 ---
 

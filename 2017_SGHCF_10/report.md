@@ -14,7 +14,7 @@ tags:
   - Later instrument
   - Succession and Wills
   - Testamentary capacity
-layout: single
+
 ---
 # UAM v UAN and another 
 

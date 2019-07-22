@@ -8,7 +8,7 @@ tags:
   - Failure of accused to attend hearing of appeal
   - Show cause hearing on why entire bail should not be forfeited
   - 'Criminal Procedure Code (Cap 68, 1985 Rev Ed) s 361(4)'
-layout: single
+
 ---
 # Public Prosecutor v Ram Ghanshamdas Mahtani & Another 
 

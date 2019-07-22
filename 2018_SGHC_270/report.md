@@ -9,7 +9,7 @@ tags:
   - Land
   - Strata titles
   - By-laws
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Management Corporation Strata Title Plan No 901 _v_ Lian Tat Huat Trading Pte Ltd  

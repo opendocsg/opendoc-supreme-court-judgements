@@ -5,7 +5,7 @@ tags:
   - Charities
   - Charitable Trusts
   - Settlement of Scheme for Administration of Trust
-layout: single
+
 ---
 # Khoo Jeffrey and others v Life Bible-Presbyterian Church and others 
 

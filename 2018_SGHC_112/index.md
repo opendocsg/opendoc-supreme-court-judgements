@@ -16,6 +16,6 @@ tags:
     within or outside Singapore
   - Constitutional Law
   - Judicial power
-layout: single
+
 ---
 

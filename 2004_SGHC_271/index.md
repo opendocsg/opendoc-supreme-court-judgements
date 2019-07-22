@@ -19,6 +19,6 @@ tags:
     Photographs of seized drugs showed contents to be of a colour
     uncharacteristic of heroin
   - Whether defect rendered evidence irregular
-layout: single
+
 ---
 

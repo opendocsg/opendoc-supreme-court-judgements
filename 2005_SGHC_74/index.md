@@ -13,6 +13,6 @@ tags:
   - >-
     Applicable principles governing undertakings as to damages in respect of
     Mareva injunction and Anton Piller order
-layout: single
+
 ---
 

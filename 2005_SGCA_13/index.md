@@ -29,6 +29,6 @@ tags:
   - >-
     Section 25(2) Central Provident Fund Act (Cap 36, 2001 Rev Ed), Wills Act
     (Cap 352, 1996 Rev Ed)
-layout: single
+
 ---
 

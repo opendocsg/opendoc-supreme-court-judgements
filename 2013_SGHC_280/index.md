@@ -7,6 +7,6 @@ tags:
   - Employment Law
   - Pay
   - Computation
-layout: single
+
 ---
 

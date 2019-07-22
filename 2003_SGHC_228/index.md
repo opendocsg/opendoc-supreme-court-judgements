@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Stay of appeal
   - Appellant\'s appeal inter-related with the Respondent\'s own appeal
-layout: single
+
 ---
 

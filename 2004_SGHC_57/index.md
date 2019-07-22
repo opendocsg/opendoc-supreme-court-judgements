@@ -11,6 +11,6 @@ tags:
   - Confessions
   - Retraction
   - Whether retracted confession can be relied upon to convict accused.
-layout: single
+
 ---
 

@@ -27,6 +27,6 @@ tags:
     Whether wife\'s contributions relevant in determining share in matrimonial
     assets
   - 'Section 112 Women\''s Charter (Cap 353, 1997 Rev Ed)'
-layout: single
+
 ---
 

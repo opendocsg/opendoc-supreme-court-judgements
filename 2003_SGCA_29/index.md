@@ -8,6 +8,6 @@ tags:
   - Evidence
   - Break in chain of evidence
   - Whether doubt raised as to identity of drug exhibits.
-layout: single
+
 ---
 

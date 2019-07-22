@@ -16,6 +16,6 @@ tags:
   - Appeals
   - Appeal from registrar\'s decision
   - Role of appellate judge
-layout: single
+
 ---
 

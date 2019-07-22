@@ -22,7 +22,7 @@ tags:
   - Evidence
   - Proof of evidence
   - Onus of proof
-layout: single
+
 ---
 # Chua Hock Soon James v Public Prosecutor and other appeals 
 

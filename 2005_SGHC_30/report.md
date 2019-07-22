@@ -31,7 +31,7 @@ tags:
   - Whether each child considered \"child of the marriage\"
   - Whether court having jurisdiction and power to determine question of custody
   - 'Section 92 Women\''s Charter (Cap 353, 1997 Rev Ed)'
-layout: single
+
 ---
 # AD v AE (minors: custody, care, control and access) 
 

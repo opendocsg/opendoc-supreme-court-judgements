@@ -10,6 +10,6 @@ tags:
   - Discovery of documents
   - Civil Procedure
   - Interrogatories
-layout: single
+
 ---
 

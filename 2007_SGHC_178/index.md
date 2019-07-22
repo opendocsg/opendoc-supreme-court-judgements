@@ -6,6 +6,6 @@ tags:
   - Admission
   - Ad hoc admission of Queen\'s Counsel
   - Principle of equality of arms
-layout: single
+
 ---
 

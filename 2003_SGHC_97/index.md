@@ -6,6 +6,6 @@ tags:
   - Sale of goods
   - Non-delivery of goods
   - Claim for refund of deposit paid.
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Implied Terms
   - Contract
   - Breach
-layout: single
+
 ---
 

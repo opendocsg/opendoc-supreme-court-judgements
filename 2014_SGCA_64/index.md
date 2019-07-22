@@ -9,6 +9,6 @@ tags:
   - Trusts
   - Express Trusts
   - Certainties
-layout: single
+
 ---
 

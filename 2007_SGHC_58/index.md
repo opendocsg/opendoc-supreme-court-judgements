@@ -8,6 +8,6 @@ tags:
   - >-
     Whether settlement judge at court dispute resolution conference having
     jurisdiction and power to issue order of court
-layout: single
+
 ---
 

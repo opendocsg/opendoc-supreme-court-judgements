@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Jingga bin Md Selamat alias Kwan Ah Chiam v Public Prosecutor 
 

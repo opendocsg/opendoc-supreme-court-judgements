@@ -15,6 +15,6 @@ tags:
     support of complaint
   - Period of notice to be given to solicitor regarding complaint
   - 'ss 86, 88 Legal Profession Act (Cap 161, 2000 Ed)'
-layout: single
+
 ---
 

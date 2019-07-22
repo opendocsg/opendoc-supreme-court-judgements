@@ -14,6 +14,6 @@ tags:
   - Arbitration
   - Agreement
   - Estoppel
-layout: single
+
 ---
 

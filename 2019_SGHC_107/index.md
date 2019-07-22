@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Mandatory Treatment Order
-layout: single
+
 ---
 

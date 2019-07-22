@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Jurisdiction
   - Inherent
-layout: single
+
 ---
 # Lee Siew Ngug and others v Lee Brothers (Wee Kee) Pte Ltd and another 
 

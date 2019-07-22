@@ -6,7 +6,7 @@ tags:
   - Stay of execution
   - Credit and security
   - Guarantees and indemnities
-layout: single
+
 ---
 # United Overseas Bank Ltd v Pereira, Dennis John Sunny and another 
 

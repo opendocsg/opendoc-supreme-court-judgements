@@ -18,7 +18,7 @@ tags:
   - Duty of care
   - Breach of duty
   - Bank suing company for fraud of employee
-layout: single
+
 ---
 # Skandinaviska Enskilda Banken AB (Publ), Singapore Branch v Asia Pacific Breweries 
 

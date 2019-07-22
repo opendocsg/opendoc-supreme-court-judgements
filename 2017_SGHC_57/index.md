@@ -11,6 +11,6 @@ tags:
   - Land
   - Strata titles
   - Management corporation
-layout: single
+
 ---
 

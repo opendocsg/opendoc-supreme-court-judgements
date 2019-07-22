@@ -7,7 +7,7 @@ tags:
   - Specific performance
   - Sale of immovable property
   - Prejudice to third party
-layout: single
+
 ---
 # Coastland Properties Pte Ltd v Lin Geok Choo 
 

@@ -11,6 +11,6 @@ tags:
   - Remedies
   - Damages
   - Loss of Chance
-layout: single
+
 ---
 

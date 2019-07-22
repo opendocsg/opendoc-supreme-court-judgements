@@ -12,7 +12,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Statements
   - Admissibility
-layout: single
+
 ---
 # Public Prosecutor v Khartik Jasudass and another 
 

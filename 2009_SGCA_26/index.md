@@ -8,6 +8,6 @@ tags:
   - >-
     Capital investment held in joint stakeholder\'s account pending
     determination of claim by insurer for alleged overpayment
-layout: single
+
 ---
 

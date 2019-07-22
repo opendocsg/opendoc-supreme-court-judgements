@@ -21,7 +21,7 @@ tags:
   - Originating processes
   - Function of originating summons
   - Whether originating summons suitable where material facts in dispute
-layout: single
+
 ---
 # Kamla Lal Hiranand (m.w.) v Lal Hiranand 
 

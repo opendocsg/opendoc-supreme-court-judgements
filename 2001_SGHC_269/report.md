@@ -26,7 +26,7 @@ tags:
     completion
   - Receipt of rents by purchaser after functional completion
   - Entitlement of vendor to further sums on legal completion
-layout: single
+
 ---
 # Goh Kim Heong and Others v AT & J Co Pte Ltd 
 

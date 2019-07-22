@@ -7,7 +7,7 @@ tags:
   - Mortgagee’s rights
   - Entry into possession
   - Notice
-layout: single
+
 ---
 # The Bank of East Asia Ltd v Lerida Pte Ltd and another and another matter 
 

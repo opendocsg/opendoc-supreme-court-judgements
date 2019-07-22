@@ -11,6 +11,6 @@ tags:
   - Contract
   - Contractual terms
   - Non-reliance clauses
-layout: single
+
 ---
 

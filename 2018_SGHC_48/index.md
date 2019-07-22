@@ -6,6 +6,6 @@ subtitle: "[2018] SGHC 48 / 06\_March\_2018"
 tags:
   - Trusts
   - Constructive trusts
-layout: single
+
 ---
 

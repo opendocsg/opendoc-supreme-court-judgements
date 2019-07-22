@@ -12,7 +12,7 @@ tags:
   - Rules of construction
   - Companies
   - Reconstruction
-layout: single
+
 ---
 # Astrata (Singapore) Pte Ltd v Portcullis Escrow Pte Ltd and another and other matters 
 

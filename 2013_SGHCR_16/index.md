@@ -8,6 +8,6 @@ tags:
   - Setting aside adjudication determination
   - Repeat claim
   - Insufficient particulars
-layout: single
+
 ---
 

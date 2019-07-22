@@ -11,6 +11,6 @@ tags:
   - Easements
   - Rights of way
   - Whether applicants\' right of way limited to foot traffic only
-layout: single
+
 ---
 

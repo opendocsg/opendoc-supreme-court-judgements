@@ -8,7 +8,7 @@ tags:
   - Criminal Law
   - Offences
   - Offences by or relating to a public servant
-layout: single
+
 ---
 # Public Prosecutor v Sivakumar s/o Selvarajah 
 

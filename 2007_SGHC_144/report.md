@@ -14,7 +14,7 @@ tags:
   - >-
     Whether specific performance of contract for sale and purchase should be
     ordered
-layout: single
+
 ---
 # Lim Ah Laik and Another v Surender Singh and Another 
 

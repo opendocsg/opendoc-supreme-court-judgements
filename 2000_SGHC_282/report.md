@@ -17,7 +17,7 @@ tags:
   - Award
   - Leave to appeal against award
   - Arbitrator\'s decision on question of fact
-layout: single
+
 ---
 # Hyundai Engineering and Construction Co Ltd v Sembawang Kimtrans (S) Pte Ltd 
 

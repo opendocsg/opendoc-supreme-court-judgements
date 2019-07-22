@@ -8,6 +8,6 @@ tags:
   - Rights and obligations
   - Beneficiaries of letter of credit presenting documents for payment
   - Confirming bank notifying beneficiaries of discrepancies
-layout: single
+
 ---
 

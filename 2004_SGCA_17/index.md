@@ -24,6 +24,6 @@ tags:
   - >-
     Whether trial judge erred in using evidence adduced in voir dire at main
     trial
-layout: single
+
 ---
 

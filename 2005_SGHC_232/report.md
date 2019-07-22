@@ -38,7 +38,7 @@ tags:
   - >-
     Whether first plaintiff guilty of contributory negligence for locating
     server room near exhaust duct
-layout: single
+
 ---
 # Saatchi & Saatchi Pte Ltd and Others v Tan Hun Ling (Clarke Quay Pte Ltd, Third Party) 
 

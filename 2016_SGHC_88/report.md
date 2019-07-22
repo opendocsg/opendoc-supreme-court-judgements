@@ -6,7 +6,7 @@ tags:
   - Contractual terms
   - Contract
   - Consideration
-layout: single
+
 ---
 # S. Pacific Resources Ltd v Tomolugen Holdings Ltd 
 

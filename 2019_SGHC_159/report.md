@@ -8,7 +8,7 @@ tags:
   - Vicarious liability
   - Limitation of Actions
   - Particular causes of action
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Saimee bin Jumaat _v_ IPP Financial Advisers Pte Ltd and others  

@@ -24,6 +24,6 @@ tags:
   - Whether intention to abandon right of way shown
   - Partial abandonment of rights
   - Whether court has power to extinguish easement on basis of obsolescence
-layout: single
+
 ---
 

@@ -12,6 +12,6 @@ tags:
   - Sentencing
   - Applicable norm
   - Relevant considerations
-layout: single
+
 ---
 

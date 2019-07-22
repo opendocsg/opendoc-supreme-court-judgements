@@ -10,7 +10,7 @@ tags:
   - Breach of trust
   - Equity
   - Fraud
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lilyana Alwi _v_ John Arifin  

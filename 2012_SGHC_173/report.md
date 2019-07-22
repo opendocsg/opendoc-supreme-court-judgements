@@ -13,7 +13,7 @@ tags:
   - Contract
   - Formation
   - Consideration
-layout: single
+
 ---
 # ATS Specialized Inc. (trading as ATA Wind Energy Services) v LAP Projects (Asia) Pte Ltd 
 

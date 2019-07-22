@@ -5,7 +5,7 @@ tags:
   - Companies
   - Oppression
   - Minority shareholders
-layout: single
+
 ---
 # Over & Over Ltd v Bonvests Holdings Ltd and another 
 

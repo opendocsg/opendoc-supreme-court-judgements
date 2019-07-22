@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory Offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Public Prosecutor v Mas Swan bin Adnan and another appeal 
 

@@ -27,6 +27,6 @@ tags:
     even after decree absolute issued
   - Whether wife dependant
   - 'Section 20 Civil Law Act (Cap 43, 1999 Rev Ed)'
-layout: single
+
 ---
 

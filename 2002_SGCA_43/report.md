@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Ooi Ching Ling v Just Gems Inc (No 2) 
 

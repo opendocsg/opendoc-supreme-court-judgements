@@ -13,6 +13,6 @@ tags:
     development plans to exclude original proposed road on servient tenement
     -Whether owner of dominant tenement entitled to repair and/or maintain such
     right of way
-layout: single
+
 ---
 

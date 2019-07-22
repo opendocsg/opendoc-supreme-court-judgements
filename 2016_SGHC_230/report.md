@@ -8,7 +8,7 @@ tags:
   - Stay of Proceedings
   - Conflict of Laws
   - Natural Forum
-layout: single
+
 ---
 # Southern Realty (Malaya) Sdn Bhd v Chen Jia Fu Darren (alias Tan Suryo) and others 
 

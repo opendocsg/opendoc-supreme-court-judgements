@@ -8,6 +8,6 @@ tags:
   - Contract
   - Remedies
   - Punitive Damages
-layout: single
+
 ---
 

@@ -16,6 +16,6 @@ tags:
     Whether a single Judge can order stay of appeal pending payment of taxed
     costs of action below
   - 'Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed) s 36(1).'
-layout: single
+
 ---
 

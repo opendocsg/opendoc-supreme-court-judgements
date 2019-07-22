@@ -10,6 +10,6 @@ tags:
   - Costs
   - Disbursements
   - Whether air miles were disbursements
-layout: single
+
 ---
 

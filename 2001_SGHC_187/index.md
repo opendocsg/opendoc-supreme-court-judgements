@@ -4,6 +4,6 @@ title: >-
   an application
 subtitle: "[2001] SGHC 187 / 17\_July\_2001"
 tags: null
-layout: single
+
 ---
 

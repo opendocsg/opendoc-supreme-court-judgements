@@ -11,6 +11,6 @@ tags:
     Whether plaintiff\'s allegation of wrongful conduct or mistake of receivers
     and managers made out
   - Whether circumstances justifying setting aside of consent judgment
-layout: single
+
 ---
 

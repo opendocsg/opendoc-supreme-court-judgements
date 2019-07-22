@@ -6,7 +6,7 @@ tags:
   - Occupiers’ Liability
   - TORT
   - Negligence
-layout: single
+
 ---
 # See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others 
 

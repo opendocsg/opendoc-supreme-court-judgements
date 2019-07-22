@@ -5,7 +5,7 @@ tags:
   - Constitutional Law
   - Equal protection of the law
   - Equality before the law
-layout: single
+
 ---
 # Quek Hock Lye v Public Prosecutor 
 

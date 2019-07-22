@@ -10,7 +10,7 @@ tags:
   - Waiver
   - Contract
   - Breach
-layout: single
+
 ---
 # AREIF (Singapore I) Pte Ltd v NTUC Fairprice Co-operative Ltd and another matter 
 

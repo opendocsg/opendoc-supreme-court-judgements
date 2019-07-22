@@ -5,7 +5,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional conduct
-layout: single
+
 ---
 # Lee Kim Kwong v Singapore Medical Council 
 

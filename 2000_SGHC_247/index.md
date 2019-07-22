@@ -11,6 +11,6 @@ tags:
   - Illegality and public policy
   - Gaming contract
   - Action to recover gambling debt
-layout: single
+
 ---
 

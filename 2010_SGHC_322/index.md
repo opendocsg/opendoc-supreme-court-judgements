@@ -10,6 +10,6 @@ tags:
   - Family Law
   - Matrimonial Assets
   - Matrimonial Home
-layout: single
+
 ---
 

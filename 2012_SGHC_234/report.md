@@ -5,7 +5,7 @@ tags:
   - Legal Profession
   - Professional conduct
   - Grossly improper conduct
-layout: single
+
 ---
 # Law Society of Singapore v Ang Chin Peng & another 
 

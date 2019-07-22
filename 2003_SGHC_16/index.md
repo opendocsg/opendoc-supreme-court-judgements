@@ -14,6 +14,6 @@ tags:
   - Purposive approach
   - Principles of statutory interpretation
   - 'Interpretation Act (Cap 1, 1999 Rev Ed) s 9A(1)'
-layout: single
+
 ---
 

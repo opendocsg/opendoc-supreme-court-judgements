@@ -8,7 +8,7 @@ tags:
   - Division of matrimonial assets
   - Maintenance of wife
   - Maintenance of children
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UTL _v_ UTM  

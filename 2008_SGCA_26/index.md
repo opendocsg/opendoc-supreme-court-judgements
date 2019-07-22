@@ -22,6 +22,6 @@ tags:
   - >-
     Duty of insurers to inform policyholders of areas insurance cover did not
     extend to
-layout: single
+
 ---
 

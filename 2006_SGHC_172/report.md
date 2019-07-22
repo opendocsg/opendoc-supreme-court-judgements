@@ -8,7 +8,7 @@ tags:
   - >-
     Whether shares given to husband prior to marriage amounting to gift and not
     matrimonial asset to be divided between husband and wife upon divorce
-layout: single
+
 ---
 # Chen Siew Hwee v Low Kee Guan (Wong Yong Yee, co-respondent) 
 

@@ -14,6 +14,6 @@ tags:
   - Whether such statements admissible
   - Whether criteria for admission met
   - 'ss 32(b) & 34 Evidence Act (Cap 97, 1997 Ed)'
-layout: single
+
 ---
 

@@ -27,7 +27,7 @@ tags:
   - Identification of trust property
   - Administrator mixed estate funds with personal funds in bank account
   - Effect of mixing trust funds with trustee\'s personal funds
-layout: single
+
 ---
 # Ong Jane Rebecca v Lim Lie Hoa and Others 
 

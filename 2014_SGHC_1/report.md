@@ -11,7 +11,7 @@ tags:
   - Contract
   - Breach
   - Repudiatory Breach
-layout: single
+
 ---
 # Defu Furniture Pte Ltd v RBC Properties Pte Ltd 
 

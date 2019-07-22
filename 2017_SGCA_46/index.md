@@ -7,6 +7,6 @@ tags:
   - Oral agreement
   - Res judicata
   - Extended doctrine
-layout: single
+
 ---
 

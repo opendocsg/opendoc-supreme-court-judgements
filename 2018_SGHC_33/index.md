@@ -7,6 +7,6 @@ tags:
   - Guarantees and bonds
   - Credit and security
   - Performance bond
-layout: single
+
 ---
 

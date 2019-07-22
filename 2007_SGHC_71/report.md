@@ -17,7 +17,7 @@ tags:
   - Freedom of speech
   - Interrogatories sought against journalist to expose identity of source
   - Whether \"newspaper rule\" existing in Singapore
-layout: single
+
 ---
 # Tullett Prebon (Singapore) Ltd and Others v Spring Mark Geoffrey and Another 
 

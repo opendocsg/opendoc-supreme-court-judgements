@@ -15,6 +15,6 @@ tags:
   - Matrimonial assets
   - Division
   - Substantial direct and indirect contributions from wife
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Summary Judgment
   - Contract
   - Interpretation
-layout: single
+
 ---
 

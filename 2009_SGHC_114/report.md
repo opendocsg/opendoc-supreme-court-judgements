@@ -30,7 +30,7 @@ tags:
   - >-
     Section 84A(3) and the Schedule para 1(f) Land Titles (Strata) Act (Cap 158,
     1999 Rev Ed)
-layout: single
+
 ---
 # Lim Choo Suan Elizabeth and Others v Goh Kok Hwa Richard and Others 
 

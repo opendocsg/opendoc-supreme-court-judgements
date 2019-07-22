@@ -8,6 +8,6 @@ tags:
   - Building and construction law
   - Statutes and regulations
   - Building and Construction Industry Security of Payment Act
-layout: single
+
 ---
 

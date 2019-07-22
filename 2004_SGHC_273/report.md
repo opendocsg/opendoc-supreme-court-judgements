@@ -52,7 +52,7 @@ tags:
   - >-
     Section 314(1) Companies Act (Cap 50, 1994 Rev Ed), r 188 Companies (Winding
     Up) Rules (Cap 50, R 1, 1990 Rev Ed)
-layout: single
+
 ---
 # Nova Leisure Pte Ltd v Dynasty Theatre Nite-Club KTV and Lounge Pte Ltd 
 

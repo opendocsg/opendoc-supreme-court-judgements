@@ -11,7 +11,7 @@ tags:
     Act
   - Whether hospital expenses amounting to \"compensation\" within Act
   - 'Section 18(b) Workmen\''s Compensation Act (Cap 354, 1998 Rev Ed)'
-layout: single
+
 ---
 # Cosmic Insurance Corp Ltd v United Oil Co Pte Ltd 
 

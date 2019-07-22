@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Damages
   - Interest
-layout: single
+
 ---
 # PT Sandipala Arthaputra v STMicroelectronics Asia Pacific Pte Ltd and others 
 

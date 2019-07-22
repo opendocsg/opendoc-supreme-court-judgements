@@ -21,6 +21,6 @@ tags:
   - >-
     Whether necessary to imply term requiring forwarding of signed Deed to other
     party
-layout: single
+
 ---
 

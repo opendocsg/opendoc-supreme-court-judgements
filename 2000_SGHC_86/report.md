@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - When discovery of particular documents will be ordered
-layout: single
+
 ---
 # The "Patraikos 2" 
 

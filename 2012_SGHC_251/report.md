@@ -8,7 +8,7 @@ tags:
   - Breach of statutory duty
   - Tort
   - Negligence
-layout: single
+
 ---
 # Shaik Abu Bakar Bin Abdul Sukol v Saag Oilfield Engineering (S) Pte Ltd and another 
 

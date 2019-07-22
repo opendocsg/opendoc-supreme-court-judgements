@@ -15,6 +15,6 @@ tags:
   - Custody
   - Care and control
   - Whether husband should be given joint custody
-layout: single
+
 ---
 

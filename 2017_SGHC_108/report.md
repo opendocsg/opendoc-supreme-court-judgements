@@ -18,7 +18,7 @@ tags:
   - Criminal Law
   - General exceptions
   - Mistake of fact
-layout: single
+
 ---
 # Chinpo Shipping Co (Pte) Ltd v Public Prosecutor 
 

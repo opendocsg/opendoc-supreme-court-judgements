@@ -7,7 +7,7 @@ tags:
   - Arbitration
   - Enforcement
   - Foreign award
-layout: single
+
 ---
 # Quanzhou Sanhong Trading Limited Liability Co Ltd v ADM Asia-Pacific Trading Pte Ltd 
 

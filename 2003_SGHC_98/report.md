@@ -29,7 +29,7 @@ tags:
   - Professional conduct
   - Solicitor acting for both mortgagor and mortgagee in loan transaction
   - Whether solicitor in conflict of interest
-layout: single
+
 ---
 # Standard Chartered Bank v Uniden Systems (S) Pte Ltd and Others 
 

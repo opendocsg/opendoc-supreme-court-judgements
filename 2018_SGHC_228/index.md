@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Striking out
   - Abuse of process
-layout: single
+
 ---
 

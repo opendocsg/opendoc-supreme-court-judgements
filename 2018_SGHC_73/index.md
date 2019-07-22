@@ -10,6 +10,6 @@ tags:
   - Contract
   - contractual terms
   - parol evidence rule
-layout: single
+
 ---
 

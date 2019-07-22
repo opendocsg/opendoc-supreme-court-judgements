@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - Statutory offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Public Prosecutor v Mohamad Fadzli bin Ahmad and another 
 

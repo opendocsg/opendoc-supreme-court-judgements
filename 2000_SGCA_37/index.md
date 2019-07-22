@@ -6,6 +6,6 @@ tags:
   - Easements
   - Rights of support
   - Whether right of support extends to building on land
-layout: single
+
 ---
 

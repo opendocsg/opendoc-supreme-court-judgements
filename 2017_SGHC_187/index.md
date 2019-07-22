@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Disposal of Property
   - Temporary Stay Order
-layout: single
+
 ---
 

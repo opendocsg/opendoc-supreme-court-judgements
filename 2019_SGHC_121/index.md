@@ -10,6 +10,6 @@ tags:
   - Accessory liability
   - Knowing receipt
   - Dishonest assistance
-layout: single
+
 ---
 

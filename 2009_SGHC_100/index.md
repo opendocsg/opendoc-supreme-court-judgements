@@ -11,6 +11,6 @@ tags:
   - >-
     Whether Muslim-owned jointly-tenanted property distributable under s 112(1)
     Administration of Muslim Law Act (Cap 3, 1999 Rev Ed)
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - Contract
   - Remedies
   - Mitigation of damage
-layout: single
+
 ---
 # Koh Wee Meng v Trans Eurokars Pte Ltd 
 

@@ -16,6 +16,6 @@ tags:
   - Waiver
   - Contract
   - Variation
-layout: single
+
 ---
 

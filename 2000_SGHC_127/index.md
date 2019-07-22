@@ -39,6 +39,6 @@ tags:
   - Words and Phrases
   - \"Shall be liable\"
   - 'ss 96(1), 96(2) Income Tax Act (Cap 134, 1999 Ed)'
-layout: single
+
 ---
 

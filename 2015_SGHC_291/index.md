@@ -7,6 +7,6 @@ tags:
   - Application
   - Administrative Law
   - Judicial review
-layout: single
+
 ---
 

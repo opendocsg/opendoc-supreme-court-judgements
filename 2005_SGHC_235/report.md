@@ -16,7 +16,7 @@ tags:
   - Remedies
   - Remoteness of damage
   - Seller contracting to supply goods to buyer
-layout: single
+
 ---
 # Panwah Steel Pte Ltd v Koh Brothers Building & Civil Engineering Contractor (Pte) Ltd 
 

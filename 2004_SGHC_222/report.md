@@ -17,7 +17,7 @@ tags:
     judgment against second defendant not obtained yet
   - Whether second defendant\'s application for discovery premature
   - 'Order 24 rr 5(3)(c), 7 Rules of Court (Cap 322, R 5, 2004 Rev Ed)'
-layout: single
+
 ---
 # Banque Cantonale Vaudoise v RBG Resources plc and Another 
 

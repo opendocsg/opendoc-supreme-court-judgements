@@ -5,6 +5,6 @@ tags:
   - Land
   - Sale of land
   - Sale under court order
-layout: single
+
 ---
 

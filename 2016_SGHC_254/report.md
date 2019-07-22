@@ -8,7 +8,7 @@ tags:
   - Insolvency law
   - Bankruptcy
   - Jurisdiction
-layout: single
+
 ---
 # Lembaga Tabung Angkatan Tentera (Malaysia) v Ling Lee Soon 
 

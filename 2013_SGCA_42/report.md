@@ -7,7 +7,7 @@ tags:
   - Land
   - Sale of land
   - Conditions of sale
-layout: single
+
 ---
 # Liten Logistics Services Pte Ltd v ORG Powell Packaging Pte Ltd and another appeal 
 

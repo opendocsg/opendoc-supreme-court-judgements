@@ -22,7 +22,7 @@ tags:
   - >-
     Construction of phrase \"any legal action or proceedings arising out of or
     in connection with this agreement\"
-layout: single
+
 ---
 # Re Rasmachayana Sulistyo (alias Chang Whe Ming); ex parte The Hongkong and Shanghai 
 

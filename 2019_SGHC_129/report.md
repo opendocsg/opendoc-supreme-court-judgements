@@ -8,7 +8,7 @@ tags:
   - Unlawful stalking
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sim Kang Wei _v_ Public Prosecutor  

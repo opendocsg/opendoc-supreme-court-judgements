@@ -13,7 +13,7 @@ tags:
   - Tort
   - Misrepresentation
   - Negligent misrepresentation
-layout: single
+
 ---
 # Official Assignee of the estate of Tay Teng Tiang William, a bankrupt v Tay Lee Kiang Liza 
 

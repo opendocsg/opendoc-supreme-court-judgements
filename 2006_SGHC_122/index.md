@@ -11,6 +11,6 @@ tags:
   - Principles and factors to consider
   - Unique combination of extenuating circumstances
   - Accused victim of prolonged abuse by deceased
-layout: single
+
 ---
 

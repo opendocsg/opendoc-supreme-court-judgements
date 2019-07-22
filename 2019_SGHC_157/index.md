@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Statutory offences
   - Income Tax Act
-layout: single
+
 ---
 

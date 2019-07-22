@@ -7,7 +7,7 @@ tags:
   - Professional c onduc t
   - Grossly improper c onduc t
   - Breac h
-layout: single
+
 ---
 # Law Society of Singapore v Rasif David 
 

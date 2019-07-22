@@ -27,6 +27,6 @@ tags:
   - >-
     Whether plaintiff can avoid exemption clause in agreement by claiming in
     tort
-layout: single
+
 ---
 

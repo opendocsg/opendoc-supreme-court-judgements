@@ -7,6 +7,6 @@ tags:
   - LAND
   - Strata Titles
   - meetings
-layout: single
+
 ---
 

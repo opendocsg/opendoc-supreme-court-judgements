@@ -9,6 +9,6 @@ tags:
   - Stay of proceedings
   - Civil procedure
   - Injunction
-layout: single
+
 ---
 

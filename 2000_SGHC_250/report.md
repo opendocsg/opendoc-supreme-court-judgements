@@ -13,7 +13,7 @@ tags:
   - Joint and several guarantee
   - Settlement between creditor and one guarantor
   - Liability of remaining guarantors
-layout: single
+
 ---
 # The Bank of East Asia Ltd v Tan Chin Mong Holdings (S) Pte Ltd and Others 
 

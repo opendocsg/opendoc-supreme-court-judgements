@@ -31,7 +31,7 @@ tags:
     and buyer
   - Differences between conspiracy by lawful and unlawful means
   - Whether intention or predominant intention to injure made out
-layout: single
+
 ---
 # Beckkett Pte Ltd v Deutsche Bank AG and Another 
 

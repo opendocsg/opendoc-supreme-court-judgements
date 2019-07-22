@@ -10,7 +10,7 @@ tags:
     Whether court can assess damages at date of judgment instead of date of
     conversion
   - Plaintiffs\' duty to mitigate loss notwithstanding conversion
-layout: single
+
 ---
 # Panwell Pte Ltd and Another v Indian Bank 
 

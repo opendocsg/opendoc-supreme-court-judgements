@@ -8,7 +8,7 @@ tags:
     Act (Cap 322) asking for question of law of public interest to be referred
     to the Court of Appeal
   - Whether motion be allowed.
-layout: single
+
 ---
 # Public Prosecutor v Louis Pius Gilbert 
 

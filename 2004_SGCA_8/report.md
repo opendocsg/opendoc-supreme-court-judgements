@@ -29,7 +29,7 @@ tags:
   - Duty of care
   - Whether pure economic loss recoverable
   - Two-stage test
-layout: single
+
 ---
 # Man B&W Diesel S E Asia Pte and Another v PT Bumi International Tankers and Another 
 

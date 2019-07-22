@@ -10,7 +10,7 @@ tags:
   - Admissibility
   - Sentencing
   - Sexual offences
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ BND  

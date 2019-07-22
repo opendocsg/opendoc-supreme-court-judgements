@@ -10,7 +10,7 @@ tags:
   - Contract
   - illegality and public policy
   - restraint of trade
-layout: single
+
 ---
 # Tan Kok Yong Steve v Itochu Singapore Pte Ltd 
 

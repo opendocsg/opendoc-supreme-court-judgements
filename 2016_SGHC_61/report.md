@@ -11,7 +11,7 @@ tags:
   - Statutory Interpretation
   - Interpretation Act
   - Purposive approach
-layout: single
+
 ---
 # Public Prosecutor v BAB 
 

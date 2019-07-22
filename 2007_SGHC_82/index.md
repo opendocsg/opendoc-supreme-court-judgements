@@ -18,6 +18,6 @@ tags:
   - >-
     Whether water as article had been made or altered or adapted for sale under
     s 2(2) Property Tax Act (Cap 254, 2005 Rev Ed)
-layout: single
+
 ---
 

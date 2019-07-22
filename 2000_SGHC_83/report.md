@@ -6,7 +6,7 @@ tags:
   - Pleadings
   - Striking out part of statement of claim
   - Governing principles
-layout: single
+
 ---
 # Pacific Internet Ltd v Catcha.com Pte Ltd 
 

@@ -8,6 +8,6 @@ tags:
   - Mistake
   - Tort
   - Conspiracy
-layout: single
+
 ---
 

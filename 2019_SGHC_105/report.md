@@ -11,7 +11,7 @@ tags:
   - General exceptions
   - Consent
   - Mistake of fact
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Ridhaudin Ridhwan bin Bakri and others  

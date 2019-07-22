@@ -6,7 +6,7 @@ tags:
   - Summary Judgment
   - Civil Procedure
   - Striking Out
-layout: single
+
 ---
 # Wang Sheng v Chen Guangfeng 
 

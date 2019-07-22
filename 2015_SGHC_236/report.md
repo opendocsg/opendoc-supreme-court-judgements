@@ -8,7 +8,7 @@ tags:
   - Land
   - Strata titles
   - Management corporation
-layout: single
+
 ---
 # Tunas Pte Ltd v Management Corporation Strata Title Plan No 562 
 

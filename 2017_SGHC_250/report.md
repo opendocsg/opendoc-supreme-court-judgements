@@ -6,7 +6,7 @@ tags:
   - Negligence
   - Duty of care
   - Pure economic loss
-layout: single
+
 ---
  Particulars of loss Quantum 
 

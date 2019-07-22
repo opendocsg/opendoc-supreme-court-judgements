@@ -14,6 +14,6 @@ tags:
     consideration
   - Whether forbearance to sue is consideration
   - Whether necessary that consideration must move from promisee to promisor
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Maintenance
   - Variation of order
   - Material change in the circumstances
-layout: single
+
 ---
 

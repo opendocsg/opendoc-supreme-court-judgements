@@ -8,6 +8,6 @@ tags:
   - Constitutional law
   - Constitution
   - Interpretation
-layout: single
+
 ---
 

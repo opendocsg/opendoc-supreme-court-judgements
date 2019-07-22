@@ -9,7 +9,7 @@ tags:
   - Damages
   - Rules in awarding
   - Ascertainment difficult or impossible
-layout: single
+
 ---
 # Fish & Co Restaurants Pte Ltd v MFM Restaurants Pte Ltd and Another 
 

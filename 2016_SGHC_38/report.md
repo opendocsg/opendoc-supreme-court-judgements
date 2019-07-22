@@ -22,7 +22,7 @@ tags:
   - Vicarious Liability
   - Tort
   - Breach of Statutory Duty
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 3322 v Mer Vue Developments Pte Ltd and 
 

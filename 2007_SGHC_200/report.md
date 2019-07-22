@@ -8,7 +8,7 @@ tags:
   - Secret trusts
   - Testator willed entire estate to defendant
   - Whether claimants discharged burden of proving existence of secret trust
-layout: single
+
 ---
 # Low Ah Cheow and Others v Ng Hock Guan (personally and as executor/trustee of the estate 
 

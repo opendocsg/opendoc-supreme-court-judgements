@@ -8,7 +8,7 @@ tags:
   - Whether failure to fulfil contract beyond defendant\'s control
   - Whether amendment contract replaced original contact
   - Whether defence of force majeure applicable
-layout: single
+
 ---
 # TCL Industries (Malaysia) Sdn Bhd v ICC Chemical Corp 
 

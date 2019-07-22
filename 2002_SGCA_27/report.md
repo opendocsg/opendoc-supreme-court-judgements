@@ -30,7 +30,7 @@ tags:
     Whether witness\'s partic ulars ought to be furnished earlier to prosec
     ution
   - Burden of proof of alibi
-layout: single
+
 ---
 # Syed Abdul Mutalip bin Syed Sidek and Another v Public Prosecutor 
 

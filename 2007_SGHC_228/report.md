@@ -10,7 +10,7 @@ tags:
   - Failing to provide information on joint-venture company
   - Participating in removal of another director
   - Whether there was breach of duty to investing company
-layout: single
+
 ---
 # International Connex Holdings Pte Ltd v Chan Shing On and Others 
 

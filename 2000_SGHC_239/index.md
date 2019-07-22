@@ -37,6 +37,6 @@ tags:
   - Test of dishonesty
   - Whether defendants dishonest
   - Whether claim made out
-layout: single
+
 ---
 

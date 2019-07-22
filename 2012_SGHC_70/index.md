@@ -8,6 +8,6 @@ tags:
   - Breach
   - Contract
   - Termination
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Family Law
   - Maintenance
   - Wife
-layout: single
+
 ---
 # Teo Siew Ngoh v Ng Hock Huat 
 

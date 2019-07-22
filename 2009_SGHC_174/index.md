@@ -13,6 +13,6 @@ tags:
   - >-
     Whether disclosure of documents to foreign court amounted to indirect
     enforcement of foreign revenue laws
-layout: single
+
 ---
 

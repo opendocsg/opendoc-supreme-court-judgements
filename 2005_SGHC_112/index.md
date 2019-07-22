@@ -9,6 +9,6 @@ tags:
     and stay of legal proceedings pending meeting
   - Opposing creditors representing more than one-fourth in value of creditors
   - Material non-disclosure by applicant
-layout: single
+
 ---
 

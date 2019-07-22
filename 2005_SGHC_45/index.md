@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Benchmark sentences
   - Culpable homicide
-layout: single
+
 ---
 

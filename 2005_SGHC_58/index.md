@@ -29,6 +29,6 @@ tags:
   - >-
     Whether failure of alleged condition precedent to materialise operating to
     release defendant from performance of obligations under lease agreement
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Proof of evidence
   - Standard of proof
   - Garnishee show cause proceedings
-layout: single
+
 ---
 # Telecom Credit Inc v Star Commerce Pte Ltd 
 

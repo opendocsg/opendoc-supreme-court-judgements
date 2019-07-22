@@ -27,6 +27,6 @@ tags:
   - Inconsistencies in testimony and police statements
   - Whether inconsistencies serious and contradictions material
   - Relevant considerations in determining whether credit impeached
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Arbitration
   - Singapore International Arbitration Centre
   - Appointing authority
-layout: single
+
 ---
 

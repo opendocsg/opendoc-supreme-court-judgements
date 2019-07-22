@@ -13,6 +13,6 @@ tags:
   - Whether claim for nervous shock should be allowed
   - Whether award for loss of dependency should be adjusted
   - Whether claim for cost of fertility treatment should be allowed
-layout: single
+
 ---
 

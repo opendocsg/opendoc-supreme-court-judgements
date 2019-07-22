@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - Income Taxation
   - Avoidance
-layout: single
+
 ---
 # Comptroller of Income Tax v AQQ and another appeal 
 

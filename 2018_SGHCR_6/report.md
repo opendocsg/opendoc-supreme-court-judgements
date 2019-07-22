@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Amendment
-layout: single
+
 ---
 # Wang Weidong v SPM Global Services Pte Ltd and another 
 

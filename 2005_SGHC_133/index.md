@@ -18,6 +18,6 @@ tags:
   - Elements of passing-off claim
   - Whether goodwill in plaintiff\'s name and mark
   - Whether goodwill in plaintiff\'s product
-layout: single
+
 ---
 

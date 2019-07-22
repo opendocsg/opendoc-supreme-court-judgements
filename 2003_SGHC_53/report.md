@@ -13,7 +13,7 @@ tags:
   - Contract
   - Building contract
   - Claim for progress payments for work done under sub-contract
-layout: single
+
 ---
 # Lam Hong Leong Aluminium Pte Ltd v Lian Teck Huat Construction Pte Ltd and Another 
 

@@ -17,6 +17,6 @@ tags:
   - Credit and Security
   - Mortgage of personal property
   - Stocks and shares
-layout: single
+
 ---
 

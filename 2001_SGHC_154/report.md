@@ -23,7 +23,7 @@ tags:
     67(1)(b) of Road Traffic Act
   - 's 68(1) Road Traffic Act (Cap 92, 1970 Ed)'
   - 's 67(1) Road Traffic Act (Cap 276, 1997 Ed)'
-layout: single
+
 ---
 # Silvalingam Sinnasamy v Public Prosecutor 
 

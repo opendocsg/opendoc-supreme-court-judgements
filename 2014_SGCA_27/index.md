@@ -12,6 +12,6 @@ tags:
   - dividends
   - Tort
   - Conspiracy
-layout: single
+
 ---
 

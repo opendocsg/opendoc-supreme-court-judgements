@@ -17,7 +17,7 @@ tags:
   - Whether arbitration proceedings misconducted by arbitrator
   - Whether to set aside certain holdings in arbitrator\'s award
   - Whether to remit certain matters to arbitrator for reconsideration
-layout: single
+
 ---
 # Permasteelisa Pacific Holdings Ltd v Hyundai Engineering and Construction Co Ltd 
 

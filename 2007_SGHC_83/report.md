@@ -34,7 +34,7 @@ tags:
   - Mitigation
   - Whether public service constituting mitigating factor
   - 'Section 83(2)(h) Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 # Law Society of Singapore v Tan Phuay Khiang 
 

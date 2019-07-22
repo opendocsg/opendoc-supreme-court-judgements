@@ -41,7 +41,7 @@ tags:
   - >-
     Whether exemption clauses in bills of lading would enable shipowners to
     pursue claim for contribution in respect of deck cargo.
-layout: single
+
 ---
 # Ever Lucky Shipping Co Ltd v Sunlight Mercantile Pte Ltd and Another 
 

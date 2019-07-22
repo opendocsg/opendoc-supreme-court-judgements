@@ -5,7 +5,7 @@ tags:
   - Damages
   - Assessment
   - Personal injuries cases
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Soh Xia Kai Ronnie _v_ Loke Chor Kay  

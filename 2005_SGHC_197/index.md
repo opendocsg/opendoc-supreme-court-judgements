@@ -26,6 +26,6 @@ tags:
   - >-
     Whether failure to conduct oral hearing amounting to breach of natural
     justice in relation to right to be heard and to present case fully
-layout: single
+
 ---
 

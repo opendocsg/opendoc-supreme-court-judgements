@@ -8,6 +8,6 @@ tags:
   - Division of matrimonial assets
   - Maintenance of wife
   - Maintenance of children
-layout: single
+
 ---
 

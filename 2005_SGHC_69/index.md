@@ -10,6 +10,6 @@ tags:
   - >-
     Plaintiff\'s solicitor refusing to produce warrant to act for inspection by
     defendants\' solicitors
-layout: single
+
 ---
 

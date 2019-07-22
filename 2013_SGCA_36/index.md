@@ -18,6 +18,6 @@ tags:
   - Trusts
   - Constructive Trusts
   - Remedial Constructive Trusts
-layout: single
+
 ---
 

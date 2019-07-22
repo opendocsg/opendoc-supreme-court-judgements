@@ -19,6 +19,6 @@ tags:
   - >-
     Plaintiff insurer claiming defendant insurer legally obligated to contribute
     towards any payment made by plaintiff to common insured
-layout: single
+
 ---
 

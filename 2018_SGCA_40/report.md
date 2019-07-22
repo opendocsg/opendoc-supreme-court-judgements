@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Prospective overruling
-layout: single
+
 ---
 # Adri Anton Kalangie v Public Prosecutor 
 

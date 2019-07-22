@@ -5,6 +5,6 @@ tags:
   - Banking
   - Lending and security
   - Legal mortgages
-layout: single
+
 ---
 

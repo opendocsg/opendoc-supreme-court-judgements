@@ -35,7 +35,7 @@ tags:
   - Defamation
   - Qualified privilege
   - Whether defeated by malice
-layout: single
+
 ---
 # Macquarie Corporate Telecommunications Pte Ltd v Phoenix Communications Pte Ltd and 
 

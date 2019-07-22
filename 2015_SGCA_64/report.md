@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory Offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Prabagaran a/l Srivijayan v Public Prosecutor 
 

@@ -12,6 +12,6 @@ tags:
     Test to determine whether petitioner finds it intolerable to live with
     spouse
   - Whether behaviour towards other family members and outsiders relevant
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Misuse of Drugs Act
   - Criminal procedure and sentencing
   - Sentencing
-layout: single
+
 ---
 # Public Prosecutor v Lingkesvaran Rajendaren and another 
 

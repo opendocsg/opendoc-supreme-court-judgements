@@ -13,7 +13,7 @@ tags:
   - Tort
   - negligence
   - aggravated damages
-layout: single
+
 ---
 # AYW v AYX 
 

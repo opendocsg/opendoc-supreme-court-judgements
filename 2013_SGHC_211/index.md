@@ -6,6 +6,6 @@ subtitle: "[2013] SGHC 211 / 16\_October\_2013"
 tags:
   - Civil Procedure
   - Summary Judgment
-layout: single
+
 ---
 

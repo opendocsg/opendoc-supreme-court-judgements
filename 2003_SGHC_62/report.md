@@ -6,7 +6,7 @@ tags:
   - Directors
   - Duties
   - Breaches of fiduciary duties as directors of the company
-layout: single
+
 ---
 # Ng Heng Liat and Others v Kiyue Co Ltd and Another 
 

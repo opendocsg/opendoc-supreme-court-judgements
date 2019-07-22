@@ -15,6 +15,6 @@ tags:
   - Whether buyer or seller in repudiatory breach of contract
   - What was test for repudiation
   - 'Section 31(2) Sale of Goods Act (Cap 393, 1999 Rev Ed)'
-layout: single
+
 ---
 

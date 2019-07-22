@@ -32,6 +32,6 @@ tags:
   - >-
     Sections 31(2)(b), 31(2)(d), 31(4)(a), 31(4)(b) International Arbitration
     Act (Cap 143A, 2002 Rev Ed)
-layout: single
+
 ---
 

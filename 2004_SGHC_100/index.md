@@ -21,6 +21,6 @@ tags:
   - >-
     Whether assistant registrar was justified in not awarding damages for loss
     of future earnings
-layout: single
+
 ---
 

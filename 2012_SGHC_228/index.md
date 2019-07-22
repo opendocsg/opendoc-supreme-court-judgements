@@ -6,6 +6,6 @@ tags:
   - Custody
   - Family Law
   - Divorce
-layout: single
+
 ---
 

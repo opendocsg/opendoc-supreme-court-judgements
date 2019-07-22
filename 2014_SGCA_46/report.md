@@ -11,7 +11,7 @@ tags:
   - Family Law
   - Maintenance
   - Wife
-layout: single
+
 ---
 # AYM v AYL and another appeal 
 

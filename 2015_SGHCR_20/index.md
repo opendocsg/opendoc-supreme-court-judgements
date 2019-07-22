@@ -4,6 +4,6 @@ subtitle: "[2015] SGHCR 20 / 19\_August\_2015"
 tags:
   - Civil Procedure
   - Stay of Proceedings
-layout: single
+
 ---
 

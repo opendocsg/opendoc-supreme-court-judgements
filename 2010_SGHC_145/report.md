@@ -16,7 +16,7 @@ tags:
   - Powers
   - CRIMINAL PROCEDURE AND SENTENCING
   - Revision of proceedings
-layout: single
+
 ---
 # Tan Lai Kiat v Public Prosecutor 
 

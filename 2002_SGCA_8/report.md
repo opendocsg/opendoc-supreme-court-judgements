@@ -13,7 +13,7 @@ tags:
   - Principle of restitutio in integrum
   - Whether fall in value claimable
   - Whether interest incurred on loan taken on equipment claimable
-layout: single
+
 ---
 # The Owners of the Ship or Vessel "Pioneer Glory" and Another v P.T. GE Astra Finance 
 

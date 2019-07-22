@@ -8,7 +8,7 @@ tags:
   - Negligence
   - Contributory negligence
   - Motorcyclist and bus colliding in intersection
-layout: single
+
 ---
 # SBS Transit Ltd v Stafford Rosemary Anne Jane (administratrix of the estate of Anthony John 
 

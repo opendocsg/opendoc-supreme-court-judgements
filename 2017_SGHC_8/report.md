@@ -29,7 +29,7 @@ tags:
   - Tort
   - Negligence
   - Contributory Negligence
-layout: single
+
 ---
 # Cristian Priwisata Yacob and another v Wibowo Boediono and another and another suit 
 

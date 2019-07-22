@@ -25,7 +25,7 @@ tags:
   - Appellant\'s evidence in court consistent with his statements to police
   - Whether court should accept evidence
   - Verification against objective facts and evidence of other witnesses
-layout: single
+
 ---
 # Ler Wee Teang Anthony v Public Prosecutor 
 

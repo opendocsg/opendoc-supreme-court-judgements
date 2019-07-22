@@ -46,7 +46,7 @@ tags:
   - Partners liable for acts of partner in normal course of business
   - Whether partners were party to contract
   - Whether salaried partner held out to world as partner of firm
-layout: single
+
 ---
 # Orix Capital Ltd v Personal Representative(s) of the Estate of Lim Chor Pee (deceased) and 
 

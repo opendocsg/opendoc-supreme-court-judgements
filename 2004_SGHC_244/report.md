@@ -25,7 +25,7 @@ tags:
     years
   - Nature of offence taken into consideration in sentencing accused
   - 'Section 304(a) Penal Code (Cap 224, 1985 Rev Ed).'
-layout: single
+
 ---
 # Public Prosecutor v Sundarti Supriyanto (No 2) 
 

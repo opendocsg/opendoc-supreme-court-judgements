@@ -10,7 +10,7 @@ tags:
   - Hurt
   - Statutory offences
   - Women’s Charter
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Satesh s/o Navarlan  

@@ -13,6 +13,6 @@ tags:
   - Admissibility of evidence
   - Opinion and belief
   - Building surveyor not quantity surveyor
-layout: single
+
 ---
 

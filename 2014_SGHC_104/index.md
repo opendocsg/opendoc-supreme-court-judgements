@@ -14,6 +14,6 @@ tags:
   - Contract
   - Remedies
   - Mitigation of damage
-layout: single
+
 ---
 

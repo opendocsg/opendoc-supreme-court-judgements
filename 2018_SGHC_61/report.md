@@ -16,7 +16,7 @@ tags:
   - Waiver
   - Contract
   - Variation
-layout: single
+
 ---
 # Benlen Pte Ltd v Authentic Builder Pte Ltd 
 

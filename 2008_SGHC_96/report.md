@@ -12,7 +12,7 @@ tags:
     Whether proper request by prescribed foreign country an essential part of
     application
   - 'Section 22 Mutual Assistance in Criminal Matters Act (Cap 190A, 2001 Rev Ed)'
-layout: single
+
 ---
 # Re Section 22 of the Mutual Assistance in Criminal Matters Act 
 

@@ -13,6 +13,6 @@ tags:
     Whether competing creditors having locus standi to apply to set aside
     attachment order
   - O 74 r 11 Rules of Court
-layout: single
+
 ---
 

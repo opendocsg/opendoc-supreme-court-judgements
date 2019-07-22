@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Public Prosecutor v Syed Suhail bin Syed Zin
 

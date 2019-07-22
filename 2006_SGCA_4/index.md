@@ -16,6 +16,6 @@ tags:
     Whether appellant disclosing unusual arrangements to court in obtaining
     warrant of arrest
   - Whether appellant acting mala fides or crassa negligentia
-layout: single
+
 ---
 

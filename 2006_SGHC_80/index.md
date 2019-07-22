@@ -11,6 +11,6 @@ tags:
     error of law or case concerning issue of importance upon which determination
     of Court of Appeal would be to public\'s advantage
   - 'Section 34(2)(a) Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed)'
-layout: single
+
 ---
 

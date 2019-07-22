@@ -14,7 +14,7 @@ tags:
     Whether civil action to recover gratification barred by penalties and
     disgorgement ordered under criminal proceedings
   - 'Section 14(1) Prevention of Corruption Act (Cap 241, 1993 Rev Ed)'
-layout: single
+
 ---
 # Carrefour Singapore Pte Ltd v Leong Wai Kay 
 

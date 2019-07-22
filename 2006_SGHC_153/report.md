@@ -21,7 +21,7 @@ tags:
   - Courts and Jurisdiction
   - Judges
   - Application for judge to recuse herself on ground of actual bias
-layout: single
+
 ---
 # Chee Siok Chin and Another v Attorney-General 
 

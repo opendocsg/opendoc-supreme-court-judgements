@@ -14,6 +14,6 @@ tags:
   - >-
     Whether decisive factor in assessment of likelihood of deception or
     confusion
-layout: single
+
 ---
 

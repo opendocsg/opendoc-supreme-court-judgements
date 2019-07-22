@@ -12,6 +12,6 @@ tags:
   - Civil Procedure
   - Striking out
   - Whether action against defendants should be struck out
-layout: single
+
 ---
 

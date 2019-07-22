@@ -12,6 +12,6 @@ tags:
   - regulation
   - Contract
   - contractual terms
-layout: single
+
 ---
 

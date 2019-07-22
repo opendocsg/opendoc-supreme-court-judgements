@@ -13,6 +13,6 @@ tags:
   - Bankruptcy
   - Bankruptcy order
   - Effect of setting aside bankruptcy order
-layout: single
+
 ---
 

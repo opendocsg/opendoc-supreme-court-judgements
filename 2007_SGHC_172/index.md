@@ -15,6 +15,6 @@ tags:
   - >-
     Whether debt payable by virtue of judgment or award enforceable by execution
     in Singapore
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - PROFESSIONS
   - Medical profession and practice
   - professional conduct
-layout: single
+
 ---
 # Low Chai Ling v Singapore Medical Council 
 

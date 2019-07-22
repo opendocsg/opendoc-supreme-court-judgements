@@ -17,7 +17,7 @@ tags:
   - Admiralty and Shipping
   - Bills of lading
   - Delivery of cargo without presentation of bills of lading
-layout: single
+
 ---
 # BNP Paribas v Bandung Shipping Pte Ltd (Shweta International Pte Ltd and Another, Third 
 

@@ -12,6 +12,6 @@ tags:
   - >-
     Land Titles Act (Cap 157, 1994 Rev Ed) ss 4, 115, Women\'s Charter (Cap 353,
     1997 Rev Ed) s 112
-layout: single
+
 ---
 

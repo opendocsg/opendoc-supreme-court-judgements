@@ -8,7 +8,7 @@ tags:
   - Discovery of documents
   - Whether sufficient grounds for granting of pre-action discovery existing
   - Whether pre-action discovery appropriate under circumstances
-layout: single
+
 ---
 # Bayerische Hypound Vereinsbank AG v Asia Pacific Breweries (Singapore) Pte Ltd and 
 

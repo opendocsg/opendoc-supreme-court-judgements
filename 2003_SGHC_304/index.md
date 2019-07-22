@@ -20,6 +20,6 @@ tags:
   - >-
     Whether advancement of unsuccessful defence at trial amounts to aggravating
     factor for purposes of sentencing
-layout: single
+
 ---
 

@@ -21,6 +21,6 @@ tags:
   - Building and construction law
   - building and construction related contracts
   - guarantees and bonds
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Accused person
   - Rights
   - Right to consult and be defended by a legal practitioner
-layout: single
+
 ---
 # James Raj s/o Arokiasamy v Public Prosecutor 
 

@@ -8,6 +8,6 @@ tags:
   - Land
   - Easements
   - Rights of support
-layout: single
+
 ---
 

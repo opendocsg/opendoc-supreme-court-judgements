@@ -7,7 +7,7 @@ tags:
   - Tort
   - Negligence
   - Breach of duty
-layout: single
+
 ---
 # Alam Jahangir v Mega Metal Pte Ltd 
 

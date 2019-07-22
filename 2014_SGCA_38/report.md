@@ -7,7 +7,7 @@ tags:
   - Choses in action
   - assignment
   - incapacity
-layout: single
+
 ---
 # Teo Gim Tiong v Krishnasamy Pushpavathi (legal representative of the estate of Maran s/o 
 

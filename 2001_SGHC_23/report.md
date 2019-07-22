@@ -5,7 +5,7 @@ tags:
   - Legal Profession
   - Show cause action
   - Solicitor sharing professional fees with unqualified person
-layout: single
+
 ---
 # The Law Society of Singapore v Lee Cheong Hoh 
 

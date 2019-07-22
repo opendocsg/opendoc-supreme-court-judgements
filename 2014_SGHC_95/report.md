@@ -5,7 +5,7 @@ tags:
   - Family Law
   - Custody
   - Access
-layout: single
+
 ---
 # ADL v ADM 
 

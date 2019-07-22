@@ -17,6 +17,6 @@ tags:
   - privileges
   - Civil Procedure
   - production of documents
-layout: single
+
 ---
 

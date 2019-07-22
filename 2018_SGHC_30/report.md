@@ -8,7 +8,7 @@ tags:
   - Tort
   - Defamation
   - Damages
-layout: single
+
 ---
 # Ma Kar Sui Anthony and others v Yap Sing Lee and another appeal 
 

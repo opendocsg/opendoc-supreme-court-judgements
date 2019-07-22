@@ -15,6 +15,6 @@ tags:
   - Trusts
   - Trustees
   - Duties
-layout: single
+
 ---
 

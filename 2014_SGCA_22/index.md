@@ -5,6 +5,6 @@ tags:
   - Companies
   - Directors
   - Breach of duty
-layout: single
+
 ---
 

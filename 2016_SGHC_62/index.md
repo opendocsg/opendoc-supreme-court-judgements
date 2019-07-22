@@ -6,6 +6,6 @@ tags:
   - Formation
   - Contract
   - Contractual Terms
-layout: single
+
 ---
 

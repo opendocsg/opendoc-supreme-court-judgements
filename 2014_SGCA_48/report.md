@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - offences
   - murder
-layout: single
+
 ---
 # Muhammad bin Kadar v Public Prosecutor 
 

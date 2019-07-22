@@ -4,7 +4,7 @@ subtitle: "[2019] SGHC 146 / Decision Date: 7\_June\_2019"
 tags:
   - Damages
   - Assessment
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Grande Corp Pte Ltd _v_ Cubix Group Pte Ltd and others  

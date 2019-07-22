@@ -48,6 +48,6 @@ tags:
   - Whether to revoke registered proprietor\'s trade marks for non-use
   - Burden of proving use
   - Minimal use of registered trade marks in pristine form
-layout: single
+
 ---
 

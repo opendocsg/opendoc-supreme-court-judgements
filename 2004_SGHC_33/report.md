@@ -21,7 +21,7 @@ tags:
   - Identification evidence
   - Whether appellant wrongly identified
   - Application of Turnbull guidelines
-layout: single
+
 ---
 # Phua Song Hua v Public Prosecutor 
 

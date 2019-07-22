@@ -36,6 +36,6 @@ tags:
   - Registered trademark
   - Distribution confirming after termination of licence agreement
   - Whether relief should be granted
-layout: single
+
 ---
 

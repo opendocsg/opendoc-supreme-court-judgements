@@ -21,6 +21,6 @@ tags:
   - Admissibility of evidence
   - \"Without prejudice\" correspondence
   - Whether admissible
-layout: single
+
 ---
 

@@ -13,6 +13,6 @@ tags:
   - Natural justice
   - Breach of rules of natural justice
   - Whether plaintiffs entitled to declaration that expulsion was null and void
-layout: single
+
 ---
 

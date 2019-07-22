@@ -13,7 +13,7 @@ tags:
   - >-
     Whether defendants\' non-majority shareholding presenting bar to proof of
     \"fraud on the minority\" exception to rule in Foss v Harbottle
-layout: single
+
 ---
 # Ting Sing Ning (alias Malcolm Ding) v Ting Chek Swee (alias Ting Chik Sui) and Others 
 

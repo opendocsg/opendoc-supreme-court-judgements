@@ -12,7 +12,7 @@ tags:
     Whether appellant required to obtain leave of court to appeal to Court of
     Appeal
   - 'Section 34(2)(d) Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed)'
-layout: single
+
 ---
 # The "Melati" (No 2) 
 

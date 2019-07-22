@@ -13,6 +13,6 @@ tags:
   - Financial and Securities Markets
   - Regulatory requirements
   - Licensing
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - Presumed resulting trusts
   - Whether presumed resulting trust displaced by presumption of advancement
   - Application of presumption of advancement in Singapore
-layout: single
+
 ---
 # Yeo Guan Chye Terence and Another v Lau Siew Kim 
 

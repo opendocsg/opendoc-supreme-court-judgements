@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Striking Out
-layout: single
+
 ---
 # Energenics Pte Ltd v Musse Singapore Pte Ltd and another suit 
 

@@ -11,6 +11,6 @@ tags:
   - Whether order for stay should be set aside
   - Whether court could make bankruptcy order on appeal
   - 's 65(4) Bankruptcy Act (Cap 20, 2000 Ed)'
-layout: single
+
 ---
 

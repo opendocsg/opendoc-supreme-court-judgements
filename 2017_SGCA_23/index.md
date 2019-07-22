@@ -7,6 +7,6 @@ tags:
   - Legal professional privilege
   - Equity
   - Obligation of confidentiality
-layout: single
+
 ---
 

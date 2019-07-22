@@ -9,7 +9,7 @@ tags:
   - >-
     Whether plaintiff as joint owner of property meant that he was partner in
     the business
-layout: single
+
 ---
 # Ang Kin Chiew v Ang Boon Chye (trading as All Family Food Court and others) 
 

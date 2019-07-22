@@ -14,6 +14,6 @@ tags:
     Whether real prospect that one or more of statutory purposes would be
     achieved
   - 'Companies Act (Cap 50, 1994 Rev Ed) ss 227A, 227B'
-layout: single
+
 ---
 

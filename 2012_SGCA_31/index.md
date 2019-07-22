@@ -7,6 +7,6 @@ tags:
   - Consent Orders
   - Damages
   - Assessment
-layout: single
+
 ---
 

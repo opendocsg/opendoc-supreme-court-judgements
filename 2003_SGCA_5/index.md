@@ -21,6 +21,6 @@ tags:
   - Civil Procedure
   - Costs
   - Costs of the banks in application under Part IV of the Evidence Act
-layout: single
+
 ---
 

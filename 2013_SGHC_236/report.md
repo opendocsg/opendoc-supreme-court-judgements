@@ -9,7 +9,7 @@ tags:
   - proprietary estoppel
   - landlord and tenant
   - convenants
-layout: single
+
 ---
 # UDL Marine (Singapore) Pte Ltd v Jurong Town Corporation and other suits 
 

@@ -8,7 +8,7 @@ tags:
   - Jurisdiction
   - CONFLICT OF LAWS
   - Natural Forum
-layout: single
+
 ---
 # Zoom Communications Ltd v Broadcast Solutions Pte Ltd 
 

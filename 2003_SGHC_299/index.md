@@ -14,6 +14,6 @@ tags:
   - Defamation
   - Factors determining seriousness of defamatory conduct
   - Whether sentence imposed manifestly excessive
-layout: single
+
 ---
 

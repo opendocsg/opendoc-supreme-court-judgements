@@ -19,7 +19,7 @@ tags:
   - >-
     Whether oral statements made during meeting amounting to offer or mere
     invitation to treat
-layout: single
+
 ---
 # Teo Seng Kee Bob v Arianecorp Ltd 
 

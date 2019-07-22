@@ -7,6 +7,6 @@ tags:
   - Wife
   - Maintenance of former wife
   - Quantum of maintenance
-layout: single
+
 ---
 

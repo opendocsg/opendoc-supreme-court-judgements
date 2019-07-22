@@ -22,7 +22,7 @@ tags:
   - >-
     Whether land-register should be rectified on ground that registration
     resulting from mistake
-layout: single
+
 ---
 # United Overseas Bank Ltd v Bebe bte Mohammad 
 

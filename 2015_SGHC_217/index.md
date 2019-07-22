@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Drug trafficking
   - Enhanced sentences for repeat offenders
-layout: single
+
 ---
 

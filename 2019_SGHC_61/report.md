@@ -11,7 +11,7 @@ tags:
   - Equity
   - Defences
   - Equitable set-off
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Malayan Banking Bhd _v_ ASL Shipyard Pte Ltd and others  

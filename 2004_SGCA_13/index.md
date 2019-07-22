@@ -11,6 +11,6 @@ tags:
     Jurisdiction of High Court to stay private summons issued in Subordinate
     Courts where no basis for complaint disclosed
   - 'Sections 66(1), 67(2) Land Titles (Strata) Act (Cap 158, 1999 Rev Ed)'
-layout: single
+
 ---
 

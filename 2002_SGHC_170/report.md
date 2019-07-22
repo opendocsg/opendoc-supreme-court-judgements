@@ -5,7 +5,7 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Mandatory stay under international arbitration act
-layout: single
+
 ---
 # Mitsui Engineering & Shipbuilding Co Ltd v PSA Corp Ltd And Another 
 

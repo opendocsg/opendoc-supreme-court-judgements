@@ -21,6 +21,6 @@ tags:
   - Ambiguity
   - Extrinsic aids
   - Purposive approach
-layout: single
+
 ---
 

@@ -15,7 +15,7 @@ tags:
   - Contributory negligence
   - Head injuries from road traffic accident
   - Whether driver had taken sufficient precautionary measures
-layout: single
+
 ---
 # Chua Kee Lam (next friend to Chua Peck Seng) v Moksha and Another 
 

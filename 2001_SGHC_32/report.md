@@ -8,7 +8,7 @@ tags:
   - Mens rea
   - Whether requisite mens rea established
   - s 57(1)(e) Immigration Act (Cap 133)
-layout: single
+
 ---
 # Tom-Reck Security Services Pte Ltd v Public Prosecutor 
 

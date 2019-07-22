@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Principles
   - Accused strangling wife during fight
-layout: single
+
 ---
 # Public Prosecutor v Lim Ah Seng 
 

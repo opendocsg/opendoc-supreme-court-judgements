@@ -23,6 +23,6 @@ tags:
   - >-
     Whether leave should be granted for party to be joined as defendant to
     existing suit
-layout: single
+
 ---
 

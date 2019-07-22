@@ -8,7 +8,7 @@ tags:
   - >-
     Whether defendantdirectors properly joined when reliefs claimed had no
     application to them
-layout: single
+
 ---
 # Chong Hon Kuan Ivan and Another v Levy Maurice and Others 
 

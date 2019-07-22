@@ -12,7 +12,7 @@ tags:
   - >-
     Whether performance on faith of letter of award indicated binding contract
     existed
-layout: single
+
 ---
 # Compaq Computer Asia Pte Ltd v Computer Interface (S) Pte Ltd 
 

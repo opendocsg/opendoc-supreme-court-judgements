@@ -8,6 +8,6 @@ tags:
   - Mistake of fact
   - Trusts
   - Breach of trust
-layout: single
+
 ---
 

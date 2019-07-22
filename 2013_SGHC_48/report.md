@@ -8,7 +8,7 @@ tags:
   - Express trusts
   - Equity
   - Estoppel
-layout: single
+
 ---
 # Chng Bee Kheng and another (executrixes and trustees of the estate of Fock Poh Kum, 
 

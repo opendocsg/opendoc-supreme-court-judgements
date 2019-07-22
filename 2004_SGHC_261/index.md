@@ -16,6 +16,6 @@ tags:
     Defendant used plaintiff company\'s money to pay for subscription of portion
     of defendant\'s shares in a company and a factory
   - Whether defendant held those shares in trust for plaintiff.
-layout: single
+
 ---
 

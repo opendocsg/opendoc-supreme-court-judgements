@@ -13,6 +13,6 @@ tags:
   - contract to commit a civil wrong
   - Injunctions
   - mandatory injunction
-layout: single
+
 ---
 

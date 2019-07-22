@@ -8,7 +8,7 @@ tags:
   - Theft of $1.10
   - Long history of criminal behaviour
   - Whether sentence of eight years\' preventive detention manifestly excessive
-layout: single
+
 ---
 # Tan Ngin Hai v Public Prosecutor 
 

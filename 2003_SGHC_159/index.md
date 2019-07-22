@@ -9,6 +9,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Previous conviction for non-violent offences
-layout: single
+
 ---
 

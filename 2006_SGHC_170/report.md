@@ -6,7 +6,7 @@ tags:
   - Witnesses
   - Weight of testimony
   - Credibility of complainant and accused person
-layout: single
+
 ---
 # Public Prosecutor v Sudarsanan Margasagayam 
 

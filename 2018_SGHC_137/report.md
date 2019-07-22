@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - sentencing
   - appeals
-layout: single
+
 ---
  S/N [serial number][name] 
 

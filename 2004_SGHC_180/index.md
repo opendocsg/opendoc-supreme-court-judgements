@@ -11,6 +11,6 @@ tags:
   - Whether application was premature
   - Whether applicant proved that he was fit to be restored on the roll
   - 's 102 Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 

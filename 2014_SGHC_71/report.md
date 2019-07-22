@@ -7,7 +7,7 @@ tags:
   - Consumer Protection
   - Courts and Jurisdiction
   - Jurisdiction
-layout: single
+
 ---
 # Speedo Motoring Pte Ltd v Ong Gek Sing 
 

@@ -5,7 +5,7 @@ tags:
   - Arbitration
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # BLC and others v BLB and another 
 

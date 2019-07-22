@@ -22,7 +22,7 @@ tags:
   - >-
     Chief Assessor including common property in Valuation List for assessment of
     property tax payable thereon
-layout: single
+
 ---
 # Management Corporation Strata Title Plan Nos 1298 and 1304 v Chief Assessor and 
 

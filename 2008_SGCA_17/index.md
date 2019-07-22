@@ -27,6 +27,6 @@ tags:
     upon fraudulent misrepresentation) into transaction in question, including
     all consequential loss
   - Loss recoverable even if not reasonably foreseeable
-layout: single
+
 ---
 

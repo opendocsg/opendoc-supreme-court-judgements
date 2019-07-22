@@ -10,7 +10,7 @@ tags:
   - Pleadings
   - Striking out
   - Res judicata
-layout: single
+
 ---
 # BNX v BOE and another matter 
 

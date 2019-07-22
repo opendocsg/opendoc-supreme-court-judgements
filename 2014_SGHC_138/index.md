@@ -6,6 +6,6 @@ tags:
   - Restraint of Foreign Proceedings
   - Civil Procedure
   - Stay of Proceedings
-layout: single
+
 ---
 

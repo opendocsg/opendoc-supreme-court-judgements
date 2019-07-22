@@ -6,6 +6,6 @@ tags:
   - Civil contempt
   - Contempt of Court
   - Sentencing
-layout: single
+
 ---
 

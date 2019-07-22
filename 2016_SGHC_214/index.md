@@ -17,6 +17,6 @@ tags:
   - Defence
   - Civil procedure
   - Summary judgment
-layout: single
+
 ---
 

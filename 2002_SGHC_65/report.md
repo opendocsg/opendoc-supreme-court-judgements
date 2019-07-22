@@ -16,7 +16,7 @@ tags:
   - Sentencing
   - Principles
   - Voluntarily causing hurt
-layout: single
+
 ---
 # Public Prosecutor v Luan Yuanxin 
 

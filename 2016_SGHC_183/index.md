@@ -11,6 +11,6 @@ tags:
   - Personal Property
   - Ownership
   - Beneficial
-layout: single
+
 ---
 

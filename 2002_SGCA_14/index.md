@@ -10,6 +10,6 @@ tags:
     Whether Appeals Board correct to take into account provisional permission to
     amend development plans in awarding compensation
   - s 33(5)(e) Land Acquisition Act (Cap 152)
-layout: single
+
 ---
 

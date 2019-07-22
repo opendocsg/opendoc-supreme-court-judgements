@@ -6,6 +6,6 @@ tags:
   - Maintenance
   - Wife
   - Correct order to be made when preserving wife’s right to maintenance
-layout: single
+
 ---
 

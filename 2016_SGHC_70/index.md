@@ -7,6 +7,6 @@ tags:
   - Land Titles Act
   - Equity
   - Rectification
-layout: single
+
 ---
 

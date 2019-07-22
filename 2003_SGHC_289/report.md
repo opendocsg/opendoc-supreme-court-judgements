@@ -18,7 +18,7 @@ tags:
   - Remedies
   - Remoteness of damage
   - Plaintiffs enter into negotiations with defendants
-layout: single
+
 ---
 # Asia Hotel Investments Ltd v Starwood Asia Pacific Managment Pte Ltd and Another 
 

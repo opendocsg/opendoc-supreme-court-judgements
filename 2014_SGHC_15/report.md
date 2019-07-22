@@ -5,7 +5,7 @@ tags:
   - Administrative law
   - Judicial review
   - Ambit
-layout: single
+
 ---
 # Yip Man Hing Kevin v Gleneagles Hospital 
 

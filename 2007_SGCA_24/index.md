@@ -12,6 +12,6 @@ tags:
   - >-
     Whether express terms in bank account opening documents binding on parties
     hence negating account holders\' allegations against bank
-layout: single
+
 ---
 

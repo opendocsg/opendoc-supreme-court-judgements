@@ -6,7 +6,7 @@ tags:
   - Breach
   - Contract
   - Misrepresentation
-layout: single
+
 ---
 # Thode Gerd Walter v Mintwell Industry Pte Ltd and Others 
 

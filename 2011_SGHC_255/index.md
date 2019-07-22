@@ -6,6 +6,6 @@ tags:
   - Matrimonial Assets
   - Family Law
   - Custody
-layout: single
+
 ---
 

@@ -27,6 +27,6 @@ tags:
     Whether appellant executor\'s ancillary application for determination
     whether notation should be endorsed on grant of probate that testator died
     domiciled in Singapore should be stayed
-layout: single
+
 ---
 

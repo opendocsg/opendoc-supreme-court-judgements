@@ -24,6 +24,6 @@ tags:
   - Overstayer
   - When to invoke presumption of mens rea
   - 'Section 57(7) Immigration Act (Cap 133, 1997 Rev Ed)'
-layout: single
+
 ---
 

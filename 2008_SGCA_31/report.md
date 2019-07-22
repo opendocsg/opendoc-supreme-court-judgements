@@ -44,7 +44,7 @@ tags:
   - >-
     Whether substantial damages recoverable by agent for losses suffered only by
     undisclosed principal and not by agent
-layout: single
+
 ---
 # Family Food Court (a firm) v Seah Boon Lock and Another (trading as Boon Lock Duck and 
 

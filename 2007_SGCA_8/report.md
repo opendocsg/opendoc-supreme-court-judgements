@@ -16,7 +16,7 @@ tags:
   - Whether arrangement amounting to moneylending
   - Whether such arrangement illegal and unenforceable
   - 'Sections 2 Moneylenders Act (Cap 188, 1985 Rev Ed)'
-layout: single
+
 ---
 # Donald McArthy Trading Pte Ltd and Others v Pankaj s/o Dhirajlal (trading as TopBottom 
 

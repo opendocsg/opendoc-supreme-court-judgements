@@ -20,6 +20,6 @@ tags:
   - Interest
   - Insolvency Law
   - Administration of insolvent estates
-layout: single
+
 ---
 

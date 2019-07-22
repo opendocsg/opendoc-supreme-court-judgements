@@ -14,7 +14,7 @@ tags:
   - >-
     Whether the discretion to set aside a statutory demand under r 98(2)(e) of
     the Bankruptcy Rules should be exercised
-layout: single
+
 ---
 # Wee Soon Kim Anthony v UBS AG 
 

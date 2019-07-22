@@ -8,7 +8,7 @@ tags:
   - Whether letters of credit act as back-to-back credits
   - Conformity of documents with terms in letter of credit
   - Whether documents discrepant
-layout: single
+
 ---
 # PT Adaro Indonesia v Rabobank 
 

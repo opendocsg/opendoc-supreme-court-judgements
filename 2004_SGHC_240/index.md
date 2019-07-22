@@ -41,6 +41,6 @@ tags:
     made before bankruptcy of shareholder
   - Whether such transfer would be void
   - 'Section 77(1) Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 

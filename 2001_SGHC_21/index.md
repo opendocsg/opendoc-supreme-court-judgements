@@ -6,6 +6,6 @@ tags:
   - Judgments and orders
   - Setting aside judgment or order of court
   - Applicable principles for setting aside
-layout: single
+
 ---
 

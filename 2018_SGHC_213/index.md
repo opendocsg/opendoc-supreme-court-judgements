@@ -8,6 +8,6 @@ tags:
   - Arbitration
   - Stay of litigation
   - Mandatory stay under International Arbitration Act
-layout: single
+
 ---
 

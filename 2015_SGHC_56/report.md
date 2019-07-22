@@ -11,7 +11,7 @@ tags:
   - Family law
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 # Dong Jianrong v Jiang Huaguo 
 

@@ -18,7 +18,7 @@ tags:
   - Credit and Security
   - Money and moneylenders
   - Plaintiff lending money to first defendant
-layout: single
+
 ---
 # Henny Sutanto v Suriani Tani (alias Li Yu) and Another 
 

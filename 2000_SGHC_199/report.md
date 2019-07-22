@@ -47,7 +47,7 @@ tags:
   - Remedial constructive trusts
   - Whether doctrine applies in Singapore
   - Whether such trust established
-layout: single
+
 ---
 # Ching Mun Fong (executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit (No 2) 
 

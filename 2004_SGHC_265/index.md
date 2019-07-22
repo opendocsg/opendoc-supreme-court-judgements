@@ -18,6 +18,6 @@ tags:
   - >-
     Whether any misrepresentation by seller to induce purchaser to enter into
     contractual relations
-layout: single
+
 ---
 

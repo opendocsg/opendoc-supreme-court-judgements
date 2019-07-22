@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - 'Misuse of Drugs Act (Cap 185, 2008 Rev Ed)'
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # D Rashpal Singh Sidhu _v_ Public Prosecutor  

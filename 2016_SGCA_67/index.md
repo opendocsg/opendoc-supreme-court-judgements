@@ -9,6 +9,6 @@ tags:
   - Constitutional Law
   - Fundamental liberties
   - Right to life and personal liberty
-layout: single
+
 ---
 

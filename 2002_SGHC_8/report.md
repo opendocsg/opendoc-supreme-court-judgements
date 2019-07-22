@@ -15,7 +15,7 @@ tags:
     guarantee\'s terms or underlying contract between parties
   - Whether call unconscionable
   - Whether to grant injunction
-layout: single
+
 ---
 # Mcconnell Dowell Constructors (Aust) Pty Ltd v Sembcorp Engineers and Constructors Pte 
 

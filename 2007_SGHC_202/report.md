@@ -14,7 +14,7 @@ tags:
   - Interest
   - Whether additional fees charged amounted to interest on the loan
   - 'Sections 3 and 5 Moneylenders Act (Cap 188, 1985 Rev Ed)'
-layout: single
+
 ---
 # Letts Charles v Soh Kim Wat (alias Soh Kim Leng) 
 

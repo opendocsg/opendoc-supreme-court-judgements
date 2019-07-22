@@ -23,6 +23,6 @@ tags:
     Whether abuse of position of trust and authority factor to be considered in
     sentencing
   - 'Sections 304A, 338 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 

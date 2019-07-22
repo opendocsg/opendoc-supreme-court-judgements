@@ -11,6 +11,6 @@ tags:
   - Conspiracy by unlawful means
   - Defamation
   - Publication
-layout: single
+
 ---
 

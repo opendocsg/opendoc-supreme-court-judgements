@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - striking out
   - judicial immunity
-layout: single
+
 ---
 # AHQ v Attorney-General 
 

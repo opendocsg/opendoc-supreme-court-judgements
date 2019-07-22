@@ -10,7 +10,7 @@ tags:
   - Tort
   - Negligence
   - Breach of duty
-layout: single
+
 ---
 # Rohini d/o Balasubramaniam v HSR International Realtors Pte Ltd 
 

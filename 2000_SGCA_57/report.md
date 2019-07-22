@@ -33,7 +33,7 @@ tags:
   - >-
     Whether these words in agency agreement mean agreement automatically
     terminated or merely voidable
-layout: single
+
 ---
 # Lee Siong Kee v Beng Tiong Trading, Import and Export (1988) Pte Ltd 
 

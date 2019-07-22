@@ -6,7 +6,7 @@ tags:
   - Breach
   - Equity
   - Promissory Estoppel
-layout: single
+
 ---
 # Lam Chi Kin David v Deutsche Bank AG 
 

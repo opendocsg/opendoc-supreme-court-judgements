@@ -13,6 +13,6 @@ tags:
   - Sale of land
   - Civil Procedure
   - Rules of Court
-layout: single
+
 ---
 

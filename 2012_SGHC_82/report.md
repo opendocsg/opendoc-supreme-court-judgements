@@ -5,7 +5,7 @@ tags:
   - Contract
   - contractual terms
   - rules of construction
-layout: single
+
 ---
 # Ter Yin Wei v Lim Leet Fang 
 

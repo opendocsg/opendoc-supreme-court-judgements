@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Statutory Demand
-layout: single
+
 ---
 # Liew Kai Lung Karl v Ching Chiat Kwong 
 

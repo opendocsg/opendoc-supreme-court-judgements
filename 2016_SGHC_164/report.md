@@ -6,7 +6,7 @@ tags:
   - Misrepresentation
   - Sale of Goods
   - Implied Terms as to Quality
-layout: single
+
 ---
 # Honey Secret Pte Ltd v Atlas Finefood Pte Ltd and others 
 

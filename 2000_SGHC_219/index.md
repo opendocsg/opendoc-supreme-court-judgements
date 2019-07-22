@@ -11,6 +11,6 @@ tags:
   - Infringement
   - Construction of claims in specification of defendants\' patent
   - Whether plaintiffs\' device infringed defendants\' patent
-layout: single
+
 ---
 

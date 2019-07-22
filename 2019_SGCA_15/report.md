@@ -10,7 +10,7 @@ tags:
   - Proprietary estoppel
   - Defences
   - Laches
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Geok Hong Co Pte Ltd _v_ Koh Ai Gek and others  

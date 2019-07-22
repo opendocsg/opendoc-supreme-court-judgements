@@ -12,7 +12,7 @@ tags:
   - Judicial management
   - Leave to commence proceedings against company in judicial management
   - Whether applicant able to establish proprietary right to moneys claimed
-layout: single
+
 ---
 # Re Sogo Department Stores (S) Pte Ltd 
 

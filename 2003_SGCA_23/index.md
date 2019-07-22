@@ -19,6 +19,6 @@ tags:
   - >-
     Whether votes of related parties should be disregarded in determining if s
     210(3) of the Companies Act (Cap 50, 1994 Rev Ed) satisfied
-layout: single
+
 ---
 

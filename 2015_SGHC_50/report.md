@@ -23,7 +23,7 @@ tags:
   - Expert opinion
   - Duties of foreign law expert
   - Construction of private documents
-layout: single
+
 ---
 # The “Chem Orchid” 
 

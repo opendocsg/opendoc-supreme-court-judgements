@@ -6,7 +6,7 @@ tags:
   - Statutory offences
   - Casino Control Act
   - Entering a casino without paying the entry levy
-layout: single
+
 ---
 # Public Prosecutor v Teo Choon Chai 
 

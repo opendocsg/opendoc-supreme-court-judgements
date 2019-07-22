@@ -25,6 +25,6 @@ tags:
   - Remedies
   - Mitigation of damage
   - Whether innocent party acted reasonably
-layout: single
+
 ---
 

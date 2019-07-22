@@ -21,7 +21,7 @@ tags:
   - Contract
   - Breach
   - Whether parties intended literal meaning of contractual provisions to apply
-layout: single
+
 ---
 # Veolia Water Systems (SEA) Pte Ltd v Engineered Products and Services Pte Ltd and Others 
 

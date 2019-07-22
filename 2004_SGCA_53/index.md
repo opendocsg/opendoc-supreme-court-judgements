@@ -34,6 +34,6 @@ tags:
   - Mischief
   - Mischief by fire
   - 'Section 436 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 

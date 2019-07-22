@@ -8,7 +8,7 @@ tags:
   - Family Law
   - Maintenance
   - Children
-layout: single
+
 ---
 # AKC v AKD 
 

@@ -15,7 +15,7 @@ tags:
   - Petition
   - Whether petitioner could rely on ground of oppression which was not pleaded
   - 's 216 & s 254 Companies Act (Cap 50, 1994 Ed)'
-layout: single
+
 ---
 # Re John While Springs (S) Pte Ltd 
 

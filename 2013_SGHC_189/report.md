@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - appeals
-layout: single
+
 ---
 # Alterm Consortech Pte Ltd v Public Prosecutor and other appeals 
 

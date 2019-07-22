@@ -14,7 +14,7 @@ tags:
     Plaintiff\'s counsel at trial having opportunity to look at photographs but
     failing to identify fact that some photographs were missing
   - Whether application should be allowed
-layout: single
+
 ---
 # Sim Cheng Soon v BT Engineering Pte Ltd and Another 
 

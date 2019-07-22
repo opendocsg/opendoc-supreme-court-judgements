@@ -9,6 +9,6 @@ tags:
   - Personal injury
   - Defective equipment
   - Scope of Liability in Negligence
-layout: single
+
 ---
 

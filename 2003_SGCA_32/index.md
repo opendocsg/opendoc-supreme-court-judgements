@@ -14,6 +14,6 @@ tags:
   - >-
     Test for determining whether an order is an interlocutory order or a final
     order
-layout: single
+
 ---
 

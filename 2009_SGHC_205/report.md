@@ -5,7 +5,7 @@ tags:
   - Companies
   - Oppression
   - Minority
-layout: single
+
 ---
 # Eng Gee Seng v Quek Choon Teck and Others 
 

@@ -16,6 +16,6 @@ tags:
   - Rule in Foss v Harbottle
   - Fraud on minority exception
   - Whether other directors having absolute majority of votes in company
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Criminal Law
   - general exceptions
   - unsoundness of mind
-layout: single
+
 ---
 

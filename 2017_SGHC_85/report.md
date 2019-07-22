@@ -10,7 +10,7 @@ tags:
   - Civil Procedure
   - Jurisdiction
   - Inherent
-layout: single
+
 ---
 # Syed Ahmad Jamal Alsagoff (administrator of the estates of Syed Mohamad bin Hashim bin 
 

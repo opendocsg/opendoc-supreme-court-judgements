@@ -8,7 +8,7 @@ tags:
   - 'Section 122 Legal Profession Act (Cap 161, 2001 Rev Ed)'
   - 'Section 6 Limitation Act (Cap 163, 1996 Rev Ed)'
   - Payment of bills of costs
-layout: single
+
 ---
 # Ho Cheng Lay v Low Yong Sen 
 

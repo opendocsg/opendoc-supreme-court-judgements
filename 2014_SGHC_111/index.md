@@ -8,6 +8,6 @@ tags:
   - Pleadings
   - Civil Procedure
   - Costs
-layout: single
+
 ---
 

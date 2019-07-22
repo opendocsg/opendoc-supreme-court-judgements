@@ -9,7 +9,7 @@ tags:
   - Civil Procedure
   - Parties
   - Joinder
-layout: single
+
 ---
 # ARW v Comptroller of Income Tax and another and another appeal 
 

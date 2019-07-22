@@ -5,7 +5,7 @@ tags:
   - Intellectual Property
   - Patents
   - Infringement
-layout: single
+
 ---
 # ASM Technology Singapore Pte Ltd v Towa Corporation 
 

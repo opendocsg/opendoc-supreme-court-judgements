@@ -11,7 +11,7 @@ tags:
   - Whether police officer intends to be bought over
   - Whether receipts tainted by corrupt element
   - Whether police officer guilty knowledge
-layout: single
+
 ---
 # Hassan bin Ahmad v Public Prosecutor 
 

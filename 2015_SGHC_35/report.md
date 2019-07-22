@@ -14,7 +14,7 @@ tags:
   - Proprietary estoppel Equity
   - Defences
   - Laches
-layout: single
+
 ---
 # Buthmanaban s/o Vaithilingam v Krishnavanny d/o Vaithilingam (administratrix of the estate of 
 

@@ -4,6 +4,6 @@ title: >-
   Co
 subtitle: "[2012] SGHC 2 / 03\_January\_2012"
 tags: null
-layout: single
+
 ---
 

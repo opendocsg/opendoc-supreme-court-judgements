@@ -9,7 +9,7 @@ tags:
   - Misuse of Drugs Act
   - Statutory interpretation
   - Construction of statute
-layout: single
+
 ---
 # Ali bin Mohamad Bahashwan v Public Prosecutor and other appeals 
 

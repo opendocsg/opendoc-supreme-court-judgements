@@ -15,6 +15,6 @@ tags:
     to cheques
   - Bank paying on forged cheques without calling customer to check
   - Whether customer owing duty of care to bank not to facilitate fraud
-layout: single
+
 ---
 

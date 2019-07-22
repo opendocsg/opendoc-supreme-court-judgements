@@ -7,6 +7,6 @@ tags:
   - Civil procedure
   - Third party proceedings
   - Striking out
-layout: single
+
 ---
 

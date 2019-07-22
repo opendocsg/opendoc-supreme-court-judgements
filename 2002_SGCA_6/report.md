@@ -27,7 +27,7 @@ tags:
     Whether breach of provisions of Planning Act (Cap 232, 1990 Ed) rendering
     lease void and unenforceable
   - 'ss 2(2) & 10(3) Planning Act (Cap 232, 1990 Ed)'
-layout: single
+
 ---
 # Golden Village Multiplex Pte Ltd v Marina Centre Holdings Private Limited 
 

@@ -6,7 +6,7 @@ tags:
   - Foreign judgments
   - Enforcement
   - Registration
-layout: single
+
 ---
 # Global Distressed Alpha Fund I Limited Partnership v PT Bakrie Investindo 
 

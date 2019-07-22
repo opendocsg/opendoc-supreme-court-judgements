@@ -7,7 +7,7 @@ tags:
   - Arbitration
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # PT Perusahaan Gas Negara (Persero) TBK v CRW Joint Operation (Indonesia) and another 
 

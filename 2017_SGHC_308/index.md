@@ -10,6 +10,6 @@ tags:
   - Sentenc ing
   - Princ iples
   - Road rage
-layout: single
+
 ---
 

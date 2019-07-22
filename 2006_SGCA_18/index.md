@@ -23,6 +23,6 @@ tags:
     Whether transmission of shares of deceased member under testamentary
     disposition or otherwise by operation of law subject to pre-emption right of
     existing members
-layout: single
+
 ---
 

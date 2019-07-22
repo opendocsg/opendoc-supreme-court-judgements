@@ -5,6 +5,6 @@ tags:
   - Contract
   - Illegality and public policy
   - Foreign illegality
-layout: single
+
 ---
 

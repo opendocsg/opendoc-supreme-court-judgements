@@ -8,7 +8,7 @@ tags:
   - Tort
   - negligence
   - breach of duty
-layout: single
+
 ---
 # Mohammad Nazeem Bin Mustafah Kamal v Management Corporation Strata Title Plan 
 

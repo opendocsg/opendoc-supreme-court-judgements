@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Judgments and orders
   - Setting aside of judgment in default of appearance
-layout: single
+
 ---
 # Canberra Development Pte Ltd v Mercurine Pte Ltd 
 

@@ -6,7 +6,7 @@ tags:
   - Sale of land
   - Civil Procedure
   - Stay of proceedings
-layout: single
+
 ---
 # Chia Kwok Yeo and another v Chia Hang Kiu 
 

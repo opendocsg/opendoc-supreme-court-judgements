@@ -10,6 +10,6 @@ tags:
   - Contract
   - contractual terms
   - fundamental breach
-layout: single
+
 ---
 

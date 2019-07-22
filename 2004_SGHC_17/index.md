@@ -18,6 +18,6 @@ tags:
   - Principles
   - Offences involving misuse of Internet
   - Factors to be considered when imposing sentence
-layout: single
+
 ---
 

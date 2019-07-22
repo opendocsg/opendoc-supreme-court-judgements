@@ -5,7 +5,7 @@ tags:
   - Building and construction contracts
   - Standard form contracts
   - Singapore Institute of Architects standard form contracts
-layout: single
+
 ---
 # Ser Kim Koi v GTMS Construction Pte Ltd 
 

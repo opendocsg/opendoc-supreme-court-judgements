@@ -9,6 +9,6 @@ tags:
   - >-
     Whether loan repayable by garnishee to judgment debtor on demand can be
     garnished without prior demand by judgment debtor on garnishee
-layout: single
+
 ---
 

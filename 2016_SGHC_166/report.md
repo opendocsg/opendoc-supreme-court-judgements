@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Appeals
-layout: single
+
 ---
 # K Saravanan Kuppusamy v Public Prosecutor 
 

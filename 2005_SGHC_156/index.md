@@ -13,6 +13,6 @@ tags:
   - Succession and Wills
   - Construction
   - Property bequeathed to beneficiary as \"State property\"
-layout: single
+
 ---
 

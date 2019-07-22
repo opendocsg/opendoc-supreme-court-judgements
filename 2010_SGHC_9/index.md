@@ -4,6 +4,6 @@ title: >-
   (trading as
 subtitle: "[2010] SGHC 9 / 11\_January\_2010"
 tags: null
-layout: single
+
 ---
 

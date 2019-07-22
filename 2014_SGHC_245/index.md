@@ -16,6 +16,6 @@ tags:
   - Contract
   - Consideration
   - Promissory estoppel
-layout: single
+
 ---
 

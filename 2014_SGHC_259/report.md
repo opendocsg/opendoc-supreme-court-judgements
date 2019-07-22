@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - Pleadings
   - Striking out
-layout: single
+
 ---
 # Chandra Winata Lie v Citibank NA 
 

@@ -7,7 +7,7 @@ tags:
   - Contract
   - Illegality and public policy
   - Restraint of trade
-layout: single
+
 ---
 # Chua Chian Ya v Music & Movements (S) Pte Ltd (formerly trading as M & M Music 
 

@@ -8,6 +8,6 @@ tags:
   - Contract
   - Breach
   - Election to terminate
-layout: single
+
 ---
 

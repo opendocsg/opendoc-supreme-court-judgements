@@ -11,7 +11,7 @@ tags:
   - Illegality and public policy
   - Gaming contract
   - Action to recover gambling debt
-layout: single
+
 ---
 # Quek Chiau Beng v Phua Swee Pah Jimmy 
 

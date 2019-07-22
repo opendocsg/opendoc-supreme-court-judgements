@@ -34,6 +34,6 @@ tags:
   - >-
     Whether public interest constituting distinct and autonomous sentencing
     principle
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Whether appeal being used as excuse by respondent to delay its winding up
   - Whether stay of winding-up proceedings should be granted
   - Factors to be considered
-layout: single
+
 ---
 

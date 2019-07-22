@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Drug trafficking
   - Enhanced sentences for repeat offenders
-layout: single
+
 ---
 # Loo Pei Xiang Alan v Public Prosecutor 
 

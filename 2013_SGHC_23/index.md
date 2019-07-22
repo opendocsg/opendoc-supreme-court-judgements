@@ -4,6 +4,6 @@ subtitle: "[2013] SGHC 23 / 24\_January\_2013"
 tags:
   - Credit and Security
   - Charges
-layout: single
+
 ---
 

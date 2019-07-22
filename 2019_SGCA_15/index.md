@@ -10,6 +10,6 @@ tags:
   - Proprietary estoppel
   - Defences
   - Laches
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Land
   - Conveyance
   - Legal requisitions
-layout: single
+
 ---
 # (1) 
 

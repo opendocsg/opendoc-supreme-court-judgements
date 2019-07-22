@@ -21,7 +21,7 @@ tags:
     company
   - Whether family member owed fiduciary duties to family company
   - Whether family member breached fiduciary duties in securing contract
-layout: single
+
 ---
 # Singapore River Cruises & Leisure Pte Ltd v Phun Teow Kie and Another 
 

@@ -6,7 +6,7 @@ tags:
   - Breach
   - Contract
   - Damages
-layout: single
+
 ---
 # Bridgeman Pte Ltd v Dukim International Pte Ltd 
 

@@ -19,6 +19,6 @@ tags:
   - Whether sentence imposed by trial judge manifestly excessive
   - Appropriate sentence
   - 'Sections 304A, 337, 339 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 

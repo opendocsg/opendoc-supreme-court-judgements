@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Summary rejection of appeal
-layout: single
+
 ---
 # Faisal bin Tahar v Public Prosecutor 
 

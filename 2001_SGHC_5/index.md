@@ -7,6 +7,6 @@ tags:
   - Consent order
   - Interpretation of the terms
   - Relevant principles
-layout: single
+
 ---
 

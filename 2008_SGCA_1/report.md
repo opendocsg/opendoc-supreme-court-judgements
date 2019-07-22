@@ -31,7 +31,7 @@ tags:
   - Duties of foreign law expert
   - Duties of solicitor engaging foreign law expert
   - 'Order 40A rr 2, 3 Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 # Pacific Recreation Pte Ltd v S Y Technology Inc and Another Appeal 
 

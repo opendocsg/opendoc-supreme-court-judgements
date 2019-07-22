@@ -6,7 +6,7 @@ tags:
   - Pleadings
   - Further and better particulars
   - Action in respect of remarks made
-layout: single
+
 ---
 # Tan Seow Cheng v Oversea-Chinese Banking Corp Ltd 
 

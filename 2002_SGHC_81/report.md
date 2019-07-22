@@ -9,7 +9,7 @@ tags:
   - \'Order bill of lading\'
   - \'Straight bill of lading\'
   - \'Sea waybill\'
-layout: single
+
 ---
 # Voss Peer v APL Co Pte Ltd 
 

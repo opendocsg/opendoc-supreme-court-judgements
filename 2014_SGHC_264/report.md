@@ -5,7 +5,7 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Forms of punishment
-layout: single
+
 ---
 # Mohamad Fairuuz bin Saleh v Public Prosecutor 
 

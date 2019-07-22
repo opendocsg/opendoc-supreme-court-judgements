@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - pleadings
   - amendments
-layout: single
+
 ---
 # Henan Province Construction Group Corp Ltd (Singapore Branch) (formerly trading as Henan 
 

@@ -25,7 +25,7 @@ tags:
   - Remedies
   - Mitigation of damage
   - Whether innocent party acted reasonably
-layout: single
+
 ---
 # Jia Min Building Construction Pte Ltd v Ann Lee Pte Ltd 
 

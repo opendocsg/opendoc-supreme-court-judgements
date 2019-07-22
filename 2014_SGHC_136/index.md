@@ -6,6 +6,6 @@ tags:
   - Negligence
   - Tort
   - Breach of Statutory Duty
-layout: single
+
 ---
 

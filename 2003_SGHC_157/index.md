@@ -14,6 +14,6 @@ tags:
   - Appeal
   - Findings of fact by trial judge
   - Treatment by appellate court
-layout: single
+
 ---
 

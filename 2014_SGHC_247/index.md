@@ -6,6 +6,6 @@ tags:
   - judgments and orders
   - Constitutional law
   - equal protection of the law
-layout: single
+
 ---
 

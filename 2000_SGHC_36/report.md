@@ -10,7 +10,7 @@ tags:
   - Appeals
   - Notice of appeal
   - Extension of time for service of notice of appeal
-layout: single
+
 ---
 # Nomura Regionalisation Venture Fund Ltd v Ethical Investments Ltd 
 

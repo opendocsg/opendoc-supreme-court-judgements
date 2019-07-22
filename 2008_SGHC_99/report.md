@@ -11,7 +11,7 @@ tags:
   - >-
     Whether extrinsic evidence admissible to ascertain date of signing of
     agreement
-layout: single
+
 ---
 # Vix Marketing Pte Ltd v Technogym SpA 
 

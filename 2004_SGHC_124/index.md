@@ -6,6 +6,6 @@ tags:
   - Resulting trusts
   - Presumed resulting trusts
   - Whether presumed resulting trust arose on facts.
-layout: single
+
 ---
 

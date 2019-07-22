@@ -6,7 +6,7 @@ tags:
   - Bankruptcy
   - Statutory demand
   - Whether service of statutory demand irregular
-layout: single
+
 ---
 # United Overseas Bank Ltd v Ishak bin Ismail 
 

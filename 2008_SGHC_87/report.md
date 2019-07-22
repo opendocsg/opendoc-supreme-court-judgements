@@ -6,7 +6,7 @@ tags:
   - Quantum meruit
   - Contingent counterclaim on quantum meruit
   - Whether contract needed before claim on quantum meruit might be made
-layout: single
+
 ---
 # Yaku Shin (JB) Sdn Bhd v Panasonic AVC Networks Singapore Pte Ltd and Another 
 

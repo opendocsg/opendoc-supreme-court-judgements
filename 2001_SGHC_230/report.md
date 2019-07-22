@@ -20,7 +20,7 @@ tags:
     Plaintiff altering position in reliance on arrangements regarding
     property\'s ownership
   - Whether unconscionable for defendant to claim interest in property
-layout: single
+
 ---
 # Koh Kim Eng v Lim Geok Yian 
 

@@ -6,6 +6,6 @@ tags:
   - Assignment
   - Requirements for legal and equitable assignment
   - 'Section 4(8) Civil Law Act (Cap 43, 1999 Rev Ed)'
-layout: single
+
 ---
 

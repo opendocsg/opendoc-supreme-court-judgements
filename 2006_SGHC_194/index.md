@@ -15,6 +15,6 @@ tags:
   - >-
     Whether disciplinary committee descending into arena and failing to observe
     proper role
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
   - Election not to terminate
   - Subsequent notice to make time of essence again
   - Reasonableness of notice
-layout: single
+
 ---
 # National Skin Centre (Singapore) Pte Ltd v Eutech Cybernetics Pte Ltd 
 

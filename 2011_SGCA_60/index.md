@@ -5,6 +5,6 @@ tags:
   - Contract
   - Interpretation
   - Partnership Law
-layout: single
+
 ---
 

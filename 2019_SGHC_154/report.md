@@ -7,7 +7,7 @@ tags:
   - Directors acting in own interests
   - Just and equitable winding up
   - Stay of execution pending appeal
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # EQ Capital Investments Ltd _v_ The Wellness Group Pte Ltd  

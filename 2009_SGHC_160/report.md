@@ -12,7 +12,7 @@ tags:
   - >-
     Section 18 Private Investigation and Security Agencies Act (Cap 249, 1985
     Rev Ed)
-layout: single
+
 ---
 # Yuen Wai Loon v Public Prosecutor 
 

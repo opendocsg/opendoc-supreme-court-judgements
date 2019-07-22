@@ -21,6 +21,6 @@ tags:
   - >-
     Article 9(3) Constitution of the Republic of Singapore (1999 Rev Ed), s 121
     Criminal Procedure Code (Cap 68, 1985 Rev Ed)
-layout: single
+
 ---
 

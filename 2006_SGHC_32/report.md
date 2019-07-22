@@ -6,7 +6,7 @@ tags:
   - Negligence
   - Breach of duty
   - Collision between plaintiff\'s car and second defendant\'s bus
-layout: single
+
 ---
 # Siah Eng Hock v Tan Cheng Huat and Another 
 

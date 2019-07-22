@@ -5,7 +5,7 @@ tags:
   - Building and construction law
   - Dispute resolution
   - Adjudication
-layout: single
+
 ---
 # JFC Builders Pte Ltd v Permasteelisa Pacific Holdings Ltd 
 

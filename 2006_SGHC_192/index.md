@@ -13,6 +13,6 @@ tags:
   - >-
     Whether defendants\' non-majority shareholding presenting bar to proof of
     \"fraud on the minority\" exception to rule in Foss v Harbottle
-layout: single
+
 ---
 

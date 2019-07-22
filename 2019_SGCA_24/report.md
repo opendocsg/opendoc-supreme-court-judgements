@@ -5,7 +5,7 @@ tags:
   - Family Law
   - Custody
   - Access
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UDG _v_ UDF and another matter  

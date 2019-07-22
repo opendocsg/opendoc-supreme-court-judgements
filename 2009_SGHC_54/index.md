@@ -20,6 +20,6 @@ tags:
   - Restraint of trade
   - Severance
   - Whether severance of unenforceable portion possible
-layout: single
+
 ---
 

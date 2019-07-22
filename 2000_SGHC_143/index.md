@@ -12,6 +12,6 @@ tags:
   - >-
     Whether petitioner suffering prejudice from failure to stay breach
     proceedings
-layout: single
+
 ---
 

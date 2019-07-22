@@ -11,6 +11,6 @@ tags:
     Parties assuming order of High Court judge in chambers interlocutory in
     nature
   - Application filed out of time
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ subtitle: "[2010] SGHC 114 / 15\_April\_2010"
 tags:
   - Administrative Law
   - Judicial Review
-layout: single
+
 ---
 

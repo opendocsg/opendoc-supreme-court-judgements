@@ -5,6 +5,6 @@ tags:
   - Companies
   - directors
   - accounts
-layout: single
+
 ---
 

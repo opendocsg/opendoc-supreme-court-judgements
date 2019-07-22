@@ -16,6 +16,6 @@ tags:
   - Fitness for purpose warranty
   - Scope of works
   - Variation
-layout: single
+
 ---
 

@@ -27,7 +27,7 @@ tags:
   - >-
     Sections 19(1)(a), 19(1)(j) Traditional Chinese Medicine Practitioners Act
     (Cap 333A, 2001 Rev Ed)
-layout: single
+
 ---
 # Tang Kin Hwa v Traditional Chinese Medicine Practitioners Board 
 

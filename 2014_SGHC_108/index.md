@@ -5,6 +5,6 @@ tags:
   - Land
   - Caveats
   - Remedies of caveatee
-layout: single
+
 ---
 

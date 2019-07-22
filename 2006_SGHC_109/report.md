@@ -10,7 +10,7 @@ tags:
   - >-
     Whether American Cyanamid Co v Ethicon Ltd requirements for mandatory
     injunction satisfied
-layout: single
+
 ---
 # Brooks, Kenneth Williams v Millar, Christian Gurth Hoyer and Another 
 

@@ -20,6 +20,6 @@ tags:
   - >-
     Whether phrase in s 3 of the Moneylenders Act (Cap 188, 1985 Rev Ed)
     confined to repayment in money only
-layout: single
+
 ---
 

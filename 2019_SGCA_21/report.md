@@ -8,7 +8,7 @@ tags:
   - Statutory Interpretation
   - Penal statutes
   - Endangered Species (Import and Export) Act
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Kong Hoo (Pte) Ltd and another _v_ Public Prosecutor  

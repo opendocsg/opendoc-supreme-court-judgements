@@ -15,6 +15,6 @@ tags:
   - Statutory Interpretation
   - Interpretation Act
   - extraneous aids
-layout: single
+
 ---
 

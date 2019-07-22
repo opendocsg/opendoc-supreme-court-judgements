@@ -21,7 +21,7 @@ tags:
     Whether recipient receiving garnishee proceeds knowing that they were
     transferred in breach of trust
   - Whether recipient liable as constructive trustee
-layout: single
+
 ---
 # Azero Investments SA v Velstra Pte Ltd and Another Appeal 
 

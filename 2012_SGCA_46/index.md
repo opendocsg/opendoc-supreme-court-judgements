@@ -12,6 +12,6 @@ tags:
   - Admiralty jurisdiction and arrest
   - Admiralty and Shipping
   - Practice and procedure of action
-layout: single
+
 ---
 

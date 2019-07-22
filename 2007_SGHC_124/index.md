@@ -25,6 +25,6 @@ tags:
     vis-a-vis directors\' duties
   - Defence of acting reasonably and honestly
   - 'Sections 157(1), 391(1) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

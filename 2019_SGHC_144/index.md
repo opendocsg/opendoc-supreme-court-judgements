@@ -8,6 +8,6 @@ tags:
   - Fraud
   - Trusts
   - Recipient liability
-layout: single
+
 ---
 

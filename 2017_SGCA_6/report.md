@@ -15,7 +15,7 @@ tags:
   - Statutory Interpretation
   - Interpretation Act
   - extraneous aids
-layout: single
+
 ---
 # Attorney-General v Ting Choon Meng and another appeal 
 

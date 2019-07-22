@@ -4,7 +4,7 @@ subtitle: "[2019] SGHC 115 / Decision Date: 29\_April\_2019"
 tags:
   - Legal Profession
   - Disciplinary Proceedings
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Law Society of Singapore _v_ Yeo Siew Chye Troy  

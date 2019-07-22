@@ -18,6 +18,6 @@ tags:
   - \"Defence\"
   - \"Liability\"
   - \"Defence to Liability\"
-layout: single
+
 ---
 

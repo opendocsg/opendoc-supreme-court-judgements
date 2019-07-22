@@ -6,7 +6,7 @@ tags:
   - Disciplinary proceedings
   - Legal profession
   - Professional conduct
-layout: single
+
 ---
 # Loh Der Ming Andrew v Law Society of Singapore 
 

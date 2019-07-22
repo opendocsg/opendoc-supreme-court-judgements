@@ -7,6 +7,6 @@ tags:
   - Contract
   - Contractual terms
   - Dispute over dividend payouts and expenses claimed by plaintiff
-layout: single
+
 ---
 

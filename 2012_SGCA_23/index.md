@@ -7,6 +7,6 @@ tags:
   - Prosecutorial discretion
   - Constitutional Law
   - Equality before the law
-layout: single
+
 ---
 

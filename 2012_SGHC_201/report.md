@@ -6,7 +6,7 @@ tags:
   - Pleadings
   - Further and better particulars
   - Striking Out
-layout: single
+
 ---
 # Toh Her Chiew (Zhuo Huoshu) and another v Grand Isle Holdings Pte Ltd 
 

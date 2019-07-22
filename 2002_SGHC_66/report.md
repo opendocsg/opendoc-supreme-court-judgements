@@ -24,7 +24,7 @@ tags:
   - >-
     Whether appellant\'s testimony consistent with prosecution witnesses\'
     evidence
-layout: single
+
 ---
 # Chen Jian Wei v Public Prosecutor 
 

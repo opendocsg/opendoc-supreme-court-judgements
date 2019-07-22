@@ -6,7 +6,7 @@ tags:
   - Offences
   - Murder
   - Whether on the evidence there was reasonable doubt in Prosecution\'s case
-layout: single
+
 ---
 # Lee Harith Gary (alias Lee Cheng Thiam) v Public Prosecutor 
 

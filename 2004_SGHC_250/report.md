@@ -8,7 +8,7 @@ tags:
   - Whether show cause order should be made absolute
   - Appropriate order to be made
   - 'Section 83 Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 # Law Society of Singapore v Caines Colin 
 

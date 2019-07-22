@@ -7,7 +7,7 @@ tags:
   - Presumed Resulting Trusts
   - Equity
   - Proprietary Estoppel
-layout: single
+
 ---
 # Neo Hui Ling v Ang Ah Sew 
 

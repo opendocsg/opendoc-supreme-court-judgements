@@ -7,7 +7,7 @@ tags:
   - Murder
   - General Exceptions
   - Special Exceptions
-layout: single
+
 ---
 # Public Prosecutor v Tharema Vejayan s/o Govindasamy 
 

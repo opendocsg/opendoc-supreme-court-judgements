@@ -19,7 +19,7 @@ tags:
   - Whether bankrupt\'s application for discharge misconceived
   - Whether bankrupt ought to be discharged conditionally
   - 'Section 124 Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 # Jeyaretnam Joshua Benjamin v Indra Krishnan 
 

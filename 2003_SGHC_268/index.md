@@ -18,6 +18,6 @@ tags:
     statements to police than on his oral testimony in court
   - Whether trial judge gave undue weight to witness\' retracted statements
   - s 147(6) Evidence Act (Cap 97)
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ subtitle: "[2018] SGHC 195 / 07\_September\_2018"
 tags:
   - Contract
   - breach
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Deceased died of heart attack
   - Whether doctors negligent to discharge deceased before coronary angiogram
   - Whether coronoary angiogram elective or urgent
-layout: single
+
 ---
 # Vasuhi d/o Ramasamypillai v Tan Tock Seng Hospital Pte Ltd 
 

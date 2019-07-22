@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Appeals
   - Whether leave to appeal to the Court of Appeal should be granted.
-layout: single
+
 ---
 

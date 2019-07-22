@@ -9,6 +9,6 @@ tags:
   - Minority shareholders
   - Contract
   - Breach
-layout: single
+
 ---
 

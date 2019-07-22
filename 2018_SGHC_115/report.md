@@ -5,7 +5,7 @@ tags:
   - Tort
   - Defamation
   - Defamatory Statements
-layout: single
+
 ---
 # Gao Shuchao v Tan Kok Quan and others 
 

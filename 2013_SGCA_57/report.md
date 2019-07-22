@@ -7,7 +7,7 @@ tags:
   - Arbitration
   - Arbitral Tribunal
   - Jurisdiction
-layout: single
+
 ---
 # PT First Media TBK (formerly known as PT Broadband Multimedia TBK) v Astro Nusantara 
 

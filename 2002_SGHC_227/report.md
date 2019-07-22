@@ -27,7 +27,7 @@ tags:
   - Setting aside
   - Whether wrong to encourage writ action within narrow scope of inquiry
   - O 16 Rules of Court
-layout: single
+
 ---
 # Ong Jane Rebecca v Lim Lie Hoa and Others (No 2) (Lim Lie Hoa, Third Party) 
 

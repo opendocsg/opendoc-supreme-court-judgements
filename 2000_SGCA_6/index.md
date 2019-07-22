@@ -12,6 +12,6 @@ tags:
   - Murder
   - Defence of diminished responsibility
   - Whether defence made out
-layout: single
+
 ---
 

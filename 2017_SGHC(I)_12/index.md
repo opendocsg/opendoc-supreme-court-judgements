@@ -5,6 +5,6 @@ tags:
   - Civil procedure
   - Pleadings
   - Amendment
-layout: single
+
 ---
 

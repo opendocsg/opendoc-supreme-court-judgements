@@ -9,7 +9,7 @@ tags:
   - Contract
   - Duress
   - Economic
-layout: single
+
 ---
 # Eastern Resource Management Services Ltd v Chiu Teng Construction Co Pte Ltd 
 

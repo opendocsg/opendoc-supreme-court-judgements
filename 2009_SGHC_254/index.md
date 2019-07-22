@@ -6,6 +6,6 @@ tags:
   - Performance bonus entitlement
   - Employment Law
   - Variation of employment contract terms by agreement or by estoppel
-layout: single
+
 ---
 

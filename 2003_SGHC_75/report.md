@@ -12,7 +12,7 @@ tags:
   - Evidence
   - Onus of proof
   - Whether the burden of proof to prove undue influence lies on the defendant.
-layout: single
+
 ---
 # Vellasamy Lakshimi v Muthusamy Suppiah David 
 

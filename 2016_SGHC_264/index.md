@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Avoidance of transactions
   - Dispositions of property after commencement of insolvency proceedings
-layout: single
+
 ---
 

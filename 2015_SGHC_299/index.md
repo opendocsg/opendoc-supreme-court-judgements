@@ -8,6 +8,6 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Conditional leave to defend
-layout: single
+
 ---
 

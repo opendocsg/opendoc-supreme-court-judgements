@@ -18,7 +18,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Medical confidentiality between independent medical examiner and examinee
-layout: single
+
 ---
 # BBN (by her next friend B) v Low Eu Hong (trading as EH Low Baby N’ Child Clinic) 
 

@@ -29,7 +29,7 @@ tags:
   - >-
     Section 57(1)(k) Immigration Act (Cap 133, 1997 Rev Ed), s 109 Penal Code
     (Cap 224, 1985 Rev Ed)
-layout: single
+
 ---
 # Mohd Aslam s/o Jahandad v Public Prosecutor 
 

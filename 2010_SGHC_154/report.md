@@ -8,7 +8,7 @@ tags:
   - Negligence
   - Tort
   - Nuisance
-layout: single
+
 ---
 # PC Connect Pte Ltd v HSBC Institutional Trust Services (Singapore) Ltd (trustee of CapitaMall 
 

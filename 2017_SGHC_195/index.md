@@ -13,6 +13,6 @@ tags:
   - International investment law
   - Bilateral investment treaty
   - Investor-State arbitration
-layout: single
+
 ---
 

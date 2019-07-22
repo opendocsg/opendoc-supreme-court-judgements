@@ -13,7 +13,7 @@ tags:
   - Witnesses
   - Impeaching witnesses’ credibility
   - Prior inconsistent statements
-layout: single
+
 ---
 # Tang Keng Boon v Public Prosecutor 
 

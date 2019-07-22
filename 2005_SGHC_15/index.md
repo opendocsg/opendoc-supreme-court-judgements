@@ -12,6 +12,6 @@ tags:
   - Civil Procedure
   - Costs
   - Whether appellant\'s less-than-clear offer to settle affects costs awarded
-layout: single
+
 ---
 

@@ -23,6 +23,6 @@ tags:
   - Bank alleging payment made under mistake of fact
   - Presenter of documents innocent of fraud
   - Whether moneys bank can claim restitution of moneys paid
-layout: single
+
 ---
 

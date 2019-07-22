@@ -12,7 +12,7 @@ tags:
     Test to determine whether petitioner finds it intolerable to live with
     spouse
   - Whether behaviour towards other family members and outsiders relevant
-layout: single
+
 ---
 # Castello Ana Paula Costa Fusillier v Lobo Carlos Manuel Rosado 
 

@@ -9,7 +9,7 @@ tags:
   - Business registered under husband\'s name
   - Whether husband held business as trustee for wife
   - Whether illegal act was committed which prevented claim in equity.
-layout: single
+
 ---
 # Wong Kia Meng (trading as Smart Tuition Centre) v Seet Siow Luan and Others 
 

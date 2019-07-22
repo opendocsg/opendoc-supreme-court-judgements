@@ -8,6 +8,6 @@ tags:
     Plaintiffs alleged that payments were made in return for financing to be
     provided by the second plaintiff
   - Whether fraud made out on the facts.
-layout: single
+
 ---
 

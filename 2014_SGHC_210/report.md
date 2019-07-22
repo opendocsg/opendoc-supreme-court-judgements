@@ -13,7 +13,7 @@ tags:
   - Civil procedure
   - jurisdiction
   - inherent
-layout: single
+
 ---
 # Eleven Gesellschaft Zur Entwicklung Und Vermarktung Von Netzwerktechonologien MBH v 
 

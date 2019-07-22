@@ -10,7 +10,7 @@ tags:
   - >-
     Strong compelling grounds needed before court exercises discretion to vacate
     chamber hearing dates
-layout: single
+
 ---
 # Singapore Investments (Pte) Ltd v Golden Asia International (Singapore) Pte Ltd 
 

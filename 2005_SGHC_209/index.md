@@ -13,6 +13,6 @@ tags:
   - Matrimonial Home
   - Unexplained movements in bank account
   - Whether division just and equitable
-layout: single
+
 ---
 

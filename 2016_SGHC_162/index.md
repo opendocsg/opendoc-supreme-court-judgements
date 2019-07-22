@@ -7,6 +7,6 @@ tags:
   - Principles
   - Civil procedure
   - Stay of proceedings
-layout: single
+
 ---
 

@@ -29,6 +29,6 @@ tags:
   - Applicability of relevant auditing standards of governing professional body
   - Whether auditors obtained independent verification and reasonable assurance
   - 'Sections 205, 207 Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

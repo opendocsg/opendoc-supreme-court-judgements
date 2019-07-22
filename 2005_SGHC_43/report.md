@@ -19,7 +19,7 @@ tags:
   - >-
     Whether subsequent conduct of parties and evidence of subjective views may
     be considered when interpreting guarantee
-layout: single
+
 ---
 # Standard Chartered Bank v Neocorp International Ltd 
 

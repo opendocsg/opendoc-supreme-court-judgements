@@ -7,6 +7,6 @@ tags:
   - Whether Company had suspended its business for one year
   - Whether just and equitable that Company be wound up
   - 'Sections 254(1)(c) and (i) of the Companies Act (Cap 50, 2006 Rev Ed)'
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Respondent lost on appeal
   - Whether appellant entitled to indemnity costs from date of offer
   - 'O 22A r 9 Rules of Court (Cap 322, R 5, 1997 Rev Ed)'
-layout: single
+
 ---
 # Compaq Computer Asia Pte Ltd v Computer Interface (S) Pte Ltd (No 2) 
 

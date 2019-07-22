@@ -7,7 +7,7 @@ tags:
   - Damages
   - Assessment
   - Account of profits
-layout: single
+
 ---
 # Mona Computer Systems (S) Pte Ltd v Singaravelu Murugan 
 

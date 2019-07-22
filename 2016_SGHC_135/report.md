@@ -13,7 +13,7 @@ tags:
   - Proprietary estoppel
   - Trusts
   - Constructive trusts
-layout: single
+
 ---
 # Peh Kah Chan v Tan Chong Realty (Pte) Ltd 
 

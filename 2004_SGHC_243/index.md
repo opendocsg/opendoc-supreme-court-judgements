@@ -14,6 +14,6 @@ tags:
   - Plaintiff obtaining judgment in default of defence
   - Whether judgment regularly obtained
   - Whether judgment should be set aside
-layout: single
+
 ---
 

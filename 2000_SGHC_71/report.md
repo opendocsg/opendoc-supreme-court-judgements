@@ -7,7 +7,7 @@ tags:
   - Appointment of committee of person and estate of applicant\'s husband
   - Objective of order
   - '(Cap 178, 1985 Rev Ed) Mental Disorders and Treatment Act'
-layout: single
+
 ---
 # Re Puah Sun Kau 
 

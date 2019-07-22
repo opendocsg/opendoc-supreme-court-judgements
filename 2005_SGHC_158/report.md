@@ -15,7 +15,7 @@ tags:
     believing applicant guilty of offences punishable with imprisonment for life
     existing
   - 'Sections 352(1), 354(1) Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 # S Selvamsylvester v Public Prosecutor 
 

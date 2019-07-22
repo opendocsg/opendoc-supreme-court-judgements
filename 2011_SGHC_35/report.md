@@ -2,7 +2,7 @@
 title: The “Rainbow Star”
 subtitle: "[2011] SGHC 35 / 17\_February\_2011"
 tags: null
-layout: single
+
 ---
  (a) Invoice number 5551 dated 28 May 2008 $128, 
 

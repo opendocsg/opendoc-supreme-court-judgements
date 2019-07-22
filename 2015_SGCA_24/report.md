@@ -7,7 +7,7 @@ tags:
   - Credit and Security
   - Performance bonds
   - Unconscionability exception
-layout: single
+
 ---
 # CKR Contract Services Pte Ltd v Asplenium Land Pte Ltd and another and another appeal 
 

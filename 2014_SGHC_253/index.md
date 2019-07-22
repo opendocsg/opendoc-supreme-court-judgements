@@ -6,6 +6,6 @@ tags:
   - Judicial review
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 

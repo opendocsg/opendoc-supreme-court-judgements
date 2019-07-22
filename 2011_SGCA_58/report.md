@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - appeal under Arbitration Act
-layout: single
+
 ---
 # Motor Image Enterprises Pte Ltd v SCDA Architects Pte Ltd 
 

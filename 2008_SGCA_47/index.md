@@ -30,6 +30,6 @@ tags:
     Whether res judicata should apply to erroneous decision that an issue had
     been decided in earlier proceedings when those proceedings had ruled on a
     different issue
-layout: single
+
 ---
 

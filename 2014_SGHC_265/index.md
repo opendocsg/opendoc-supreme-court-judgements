@@ -6,6 +6,6 @@ tags:
   - Revision of proceedings
   - Show cause proceedings
   - Doublepayment of fine
-layout: single
+
 ---
 

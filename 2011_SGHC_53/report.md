@@ -5,7 +5,7 @@ tags:
   - Family Law
   - Matrimonial Assets
   - Division
-layout: single
+
 ---
 # O’Connor Rosamund Monica v Potter Derek John 
 

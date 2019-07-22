@@ -10,6 +10,6 @@ tags:
   - Income taxation
   - Membership of proprietary club
   - Payment of initiation deposits
-layout: single
+
 ---
 

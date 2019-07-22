@@ -4,6 +4,6 @@ title: >-
   Another v
 subtitle: "[2008] SGHC 36 / 10\_Marc\_h\_2008"
 tags: null
-layout: single
+
 ---
 

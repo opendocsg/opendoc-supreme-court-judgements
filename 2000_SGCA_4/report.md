@@ -16,7 +16,7 @@ tags:
   - Ex parte interim injunction restraining call on guarantee
   - Failure by ex parte applicant to make material full and frank disclosures
   - Discretion of court to discharge or continue injunction
-layout: single
+
 ---
 # Dauphin Offshore Engineering & Trading Pte Ltd v The Private Office of HRH Sheikh Sultan 
 

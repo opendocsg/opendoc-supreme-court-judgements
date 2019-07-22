@@ -11,7 +11,7 @@ tags:
   - Personal Property
   - Ownership
   - Beneficial
-layout: single
+
 ---
 # THE “MIN RUI” 
 

@@ -10,6 +10,6 @@ tags:
   - Pleadings
   - Appellant omitting to plead certain fact
   - Whether appellant entitled to rely on fact not pleaded
-layout: single
+
 ---
 

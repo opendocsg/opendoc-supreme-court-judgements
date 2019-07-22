@@ -8,7 +8,7 @@ tags:
   - Administrative law
   - remedies
   - quashing order
-layout: single
+
 ---
 # Marplan Private Limited v Attorney-General 
 

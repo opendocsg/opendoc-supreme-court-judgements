@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Interlocutory appeals
   - Adducing fresh evidence
-layout: single
+
 ---
 # JTrust Asia Pte Ltd v Group Lease Holdings Pte Ltd and others 
 

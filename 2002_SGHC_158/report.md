@@ -31,7 +31,7 @@ tags:
   - >-
     s 22(1)(a) Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184,
     1997 Ed)
-layout: single
+
 ---
 # Public Prosecutor v Sundaraju s/o Munusamy 
 

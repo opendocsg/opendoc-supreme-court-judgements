@@ -5,7 +5,7 @@ tags:
   - Equity
   - Equitable compensation
   - Principles in assessing
-layout: single
+
 ---
 # Quality Assurance Management Asia Pte Ltd v Zhang Qing and others 
 

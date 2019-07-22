@@ -13,6 +13,6 @@ tags:
   - Joint and several guarantee
   - Settlement between creditor and one guarantor
   - Liability of remaining guarantors
-layout: single
+
 ---
 

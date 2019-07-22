@@ -10,7 +10,7 @@ tags:
   - Minute of directors\' meeting stipulating effective date of amendments
   - Stipulation not evident on face of amendments
   - When amendments to articles of association taking effect
-layout: single
+
 ---
 # Yeo Gek Lang Susie (administratrix of the estate of Teo Lay Swee) and Others v Guan Soon 
 

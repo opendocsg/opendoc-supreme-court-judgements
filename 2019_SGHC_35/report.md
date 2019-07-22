@@ -8,7 +8,7 @@ tags:
   - Injunctions
   - Appeals
   - Leave
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Oro Negro Drilling Pte Ltd and others _v_ Integradora de Servicios Petroleros Oro Negro, SAPI de CV and others  

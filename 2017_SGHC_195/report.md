@@ -13,7 +13,7 @@ tags:
   - International investment law
   - Bilateral investment treaty
   - Investor-State arbitration
-layout: single
+
 ---
 # Kingdom of Lesotho v Swissbourgh Diamond Mines (Pty) Ltd and others 
 

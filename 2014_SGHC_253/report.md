@@ -6,7 +6,7 @@ tags:
   - Judicial review
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 # Tey Tsun Hang v Attorney-General 
 

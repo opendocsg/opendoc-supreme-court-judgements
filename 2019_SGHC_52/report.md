@@ -5,7 +5,7 @@ tags:
   - Injunction
   - Purposes for grant
   - Protection of contractual rights
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Debotosh Lodh _v_ Boustead Services Pte Ltd and another  

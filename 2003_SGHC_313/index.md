@@ -10,6 +10,6 @@ tags:
   - Matrimonial assets
   - Division
   - Whether wife entitled to larger share of matrimonial assets
-layout: single
+
 ---
 

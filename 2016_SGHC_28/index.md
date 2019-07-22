@@ -12,6 +12,6 @@ tags:
   - Limitation of Actions
   - Particular Causes of Action
   - Contract
-layout: single
+
 ---
 

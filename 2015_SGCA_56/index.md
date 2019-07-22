@@ -6,6 +6,6 @@ tags:
   - Pleadings
   - Civil procedure
   - Parties
-layout: single
+
 ---
 

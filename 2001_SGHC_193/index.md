@@ -40,6 +40,6 @@ tags:
   - Child complainant
   - Lack of independent corroboration
   - Approach of court
-layout: single
+
 ---
 

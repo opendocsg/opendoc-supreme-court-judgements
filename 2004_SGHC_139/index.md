@@ -14,6 +14,6 @@ tags:
   - >-
     Whether contract for carriage made between account holder and freight
     forwarder
-layout: single
+
 ---
 

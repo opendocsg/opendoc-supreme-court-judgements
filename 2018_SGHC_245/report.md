@@ -11,7 +11,7 @@ tags:
   - Damages for breach of contract
   - Civil Procedure
   - Pleadings
-layout: single
+
 ---
 # PT Surya Citra Multimedia v Brightpoint Singapore Pte Ltd 
 

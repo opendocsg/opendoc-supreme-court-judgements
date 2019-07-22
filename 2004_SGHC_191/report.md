@@ -14,7 +14,7 @@ tags:
   - Directors
   - Duties
   - Nature of fiduciary duties owed by director to company
-layout: single
+
 ---
 # DM Divers Technics Pte Ltd v Tee Chin Hock 
 

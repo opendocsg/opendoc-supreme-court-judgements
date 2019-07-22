@@ -16,6 +16,6 @@ tags:
   - Interpretation Act
   - extrinsic aids
   - purposive approach
-layout: single
+
 ---
 

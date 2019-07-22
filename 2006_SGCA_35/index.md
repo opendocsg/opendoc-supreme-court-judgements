@@ -15,6 +15,6 @@ tags:
   - >-
     Whether contract \"project specific\" based on purposive interpretation of
     terms of contract
-layout: single
+
 ---
 

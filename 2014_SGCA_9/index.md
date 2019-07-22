@@ -5,6 +5,6 @@ tags:
   - Revenue Law
   - Property Tax
   - Occupier
-layout: single
+
 ---
 

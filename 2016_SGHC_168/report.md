@@ -8,7 +8,7 @@ tags:
   - Negligence
   - Breach of duty
   - Doctors
-layout: single
+
 ---
 # Koo Quay Keong (Administrator of the Estate of Lee Lee Chan, Deceased) v Ooi Peng Jin 
 

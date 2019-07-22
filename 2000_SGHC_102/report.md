@@ -12,7 +12,7 @@ tags:
   - Whether police under duty to assist accused in defence
   - Whether evidence admissible
   - Whether order breaches international law
-layout: single
+
 ---
 # Public Prosecutor v Quek Chin Chuan 
 

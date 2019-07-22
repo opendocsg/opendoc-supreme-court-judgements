@@ -5,6 +5,6 @@ tags:
   - Legal Profession
   - Show cause action
   - Advocate and solicitor convicted of criminal breach of trust
-layout: single
+
 ---
 

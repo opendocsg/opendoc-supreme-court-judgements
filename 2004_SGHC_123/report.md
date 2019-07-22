@@ -23,7 +23,7 @@ tags:
   - Conversion
   - Claim in conversion
   - Whether plaintiff had converted defendant\'s metals
-layout: single
+
 ---
 # RBG Resources plc (in liquidation) v Banque Cantonale Vaudoise and Others 
 

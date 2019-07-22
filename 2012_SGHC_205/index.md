@@ -8,6 +8,6 @@ tags:
   - Tort
   - negligence
   - breach of duty
-layout: single
+
 ---
 

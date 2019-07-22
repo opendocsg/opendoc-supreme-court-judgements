@@ -5,7 +5,7 @@ tags:
   - Contract
   - Misrepresentation
   - Fraudulent
-layout: single
+
 ---
 # Goldrich Venture Pte Ltd and another v Halcyon Offshore Pte Ltd 
 

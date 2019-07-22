@@ -16,6 +16,6 @@ tags:
   - Mareva injunction
   - Scope of jurisdiction
   - Whether salary caught by injunction
-layout: single
+
 ---
 

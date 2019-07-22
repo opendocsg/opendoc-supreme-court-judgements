@@ -17,6 +17,6 @@ tags:
   - Words and Phrases
   - \"Any action proposed or contemplated\"
   - 's 30(1) Charities Act (Cap 37, 1995 Ed)'
-layout: single
+
 ---
 

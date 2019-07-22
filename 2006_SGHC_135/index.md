@@ -10,6 +10,6 @@ tags:
     interests rather than in the interests of the members as a whole
   - Whether just and equitable to wind up company
   - 'Sections 254(1)(e), 254(1)(f), 254(1)(i) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

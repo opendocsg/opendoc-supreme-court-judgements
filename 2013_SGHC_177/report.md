@@ -5,7 +5,7 @@ tags:
   - Legal profession
   - admission
   - ad hoc
-layout: single
+
 ---
 # Re Beloff Michael Jacob QC 
 

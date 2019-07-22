@@ -11,6 +11,6 @@ tags:
   - Civil Procedure
   - Stay of proceedings
   - Stay of execution
-layout: single
+
 ---
 

@@ -12,7 +12,7 @@ tags:
   - Proprietary estoppel
   - Trusts
   - Resulting Trusts
-layout: single
+
 ---
 # BMM v BMN and another matter 
 

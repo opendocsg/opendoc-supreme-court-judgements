@@ -15,6 +15,6 @@ tags:
   - >-
     Jurisdiction-conferring provision a crucial prerequisite to bringing an
     appeal
-layout: single
+
 ---
 

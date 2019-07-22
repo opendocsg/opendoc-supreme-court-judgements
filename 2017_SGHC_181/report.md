@@ -11,7 +11,7 @@ tags:
   - Contract
   - Contractual terms
   - Condition precedent
-layout: single
+
 ---
 # S I2I Limited v Globalroam Group Ltd 
 

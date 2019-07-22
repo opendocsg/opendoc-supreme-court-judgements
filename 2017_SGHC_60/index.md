@@ -6,6 +6,6 @@ tags:
   - Striking out
   - Res judicata
   - Extended doctrine
-layout: single
+
 ---
 

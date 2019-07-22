@@ -8,6 +8,6 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Application for summary judgment under new O 14 r 1
-layout: single
+
 ---
 

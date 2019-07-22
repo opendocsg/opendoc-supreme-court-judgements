@@ -15,6 +15,6 @@ tags:
   - >-
     Whether breach of obligations under indemnity gives rise to action for
     damages at law
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Witnesses
   - Attendance
   - Giving evidence by video link
-layout: single
+
 ---
 # Anil Singh Gurm v J S Yeh & Co and another 
 

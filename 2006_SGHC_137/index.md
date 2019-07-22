@@ -12,6 +12,6 @@ tags:
   - Interrogatories
   - Application for leave
   - Whether leave would be granted where dispute governed by arbitration clause
-layout: single
+
 ---
 

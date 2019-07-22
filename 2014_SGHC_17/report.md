@@ -15,7 +15,7 @@ tags:
   - Equity
   - Defences
   - Laches
-layout: single
+
 ---
 # Quek Hung Heong v Tan Bee Hoon (executrix for estate of Quek Cher Choi, deceased) and 
 

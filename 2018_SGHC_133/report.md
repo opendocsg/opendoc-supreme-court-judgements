@@ -7,7 +7,7 @@ tags:
   - Guarantees and bonds
   - Building and Construction Law
   - Statutes and regulations
-layout: single
+
 ---
 # SH Design & Build Pte Ltd v BD Cranetech Pte Ltd 
 

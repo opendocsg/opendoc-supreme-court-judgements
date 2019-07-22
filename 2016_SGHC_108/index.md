@@ -5,6 +5,6 @@ tags:
   - Insolvency
   - Recognition of foreign insolvency proceedings
   - Court not of the place of incorporation
-layout: single
+
 ---
 

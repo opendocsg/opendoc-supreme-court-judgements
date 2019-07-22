@@ -13,6 +13,6 @@ tags:
   - Tort
   - negligence
   - aggravated damages
-layout: single
+
 ---
 

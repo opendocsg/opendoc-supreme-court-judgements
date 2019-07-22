@@ -15,6 +15,6 @@ tags:
   - Witnesses
   - Hostile witness
   - Appellant\'s girlfriend testifying for the prosecution
-layout: single
+
 ---
 

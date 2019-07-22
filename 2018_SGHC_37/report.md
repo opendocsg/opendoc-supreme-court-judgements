@@ -7,7 +7,7 @@ tags:
   - Disclaimer of onerous transactions
   - Land
   - Sale of land
-layout: single
+
 ---
 # Carpe Diem Holdings Pte Ltd v Carpe Diem Playskool Pte Ltd and others 
 

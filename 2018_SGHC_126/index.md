@@ -8,6 +8,6 @@ tags:
   - Civil Procedure
   - Service
   - Leave to serve out of jurisdiction
-layout: single
+
 ---
 

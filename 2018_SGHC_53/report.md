@@ -5,7 +5,7 @@ tags:
   - Land
   - Interest in land
   - Tenancy in common
-layout: single
+
 ---
 # Prakash Devi w/o Durga Singh v Devendra Pratap Singh 
 

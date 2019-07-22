@@ -13,7 +13,7 @@ tags:
   - Remedies
   - Damages
   - Loss of chance
-layout: single
+
 ---
 # Tembusu Growth Fund Ltd v ACTAtek, Inc and others 
 

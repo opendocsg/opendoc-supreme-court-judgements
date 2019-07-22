@@ -5,6 +5,6 @@ tags:
   - Contract
   - Misrepresentation
   - Rescission
-layout: single
+
 ---
 

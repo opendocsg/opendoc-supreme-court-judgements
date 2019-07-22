@@ -8,6 +8,6 @@ tags:
   - Conspiracy
   - Tort
   - Misrepresentation
-layout: single
+
 ---
 

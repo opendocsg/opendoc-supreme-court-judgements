@@ -19,6 +19,6 @@ tags:
   - Separation of moneys from company\'s other moneys
   - Whether conscionable for company to keep moneys
   - Whether to impose constructive trust on company
-layout: single
+
 ---
 

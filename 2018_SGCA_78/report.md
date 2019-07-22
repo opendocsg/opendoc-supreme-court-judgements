@@ -11,7 +11,7 @@ tags:
   - Family Law
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 # BOR v BOS and another appeal 
 

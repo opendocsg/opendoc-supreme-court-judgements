@@ -7,6 +7,6 @@ tags:
   - Writ in rem
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 

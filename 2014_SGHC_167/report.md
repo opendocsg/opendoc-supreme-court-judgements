@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Young offenders
-layout: single
+
 ---
  Charge MDA Section Offence Punishment 
 

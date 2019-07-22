@@ -7,6 +7,6 @@ tags:
   - Administrative law
   - Judicial review
   - Application for leave
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - Disciplinary procedures
   - Inquiry Committee
   - Inquiry into complaints
-layout: single
+
 ---
 # Subbiah Pillai v Wong Meng Meng and Others 
 

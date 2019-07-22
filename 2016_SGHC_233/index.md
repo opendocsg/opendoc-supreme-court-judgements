@@ -14,6 +14,6 @@ tags:
   - Conditions
   - Words and Phrases
   - “any claim hereunder”
-layout: single
+
 ---
 

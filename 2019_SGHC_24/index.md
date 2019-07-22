@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Statutory offences
   - 'Penal Code (Cap 224, 2008 Rev Ed)'
-layout: single
+
 ---
 

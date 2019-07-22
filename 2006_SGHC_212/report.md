@@ -11,7 +11,7 @@ tags:
     Accused pursuing the deceased and stabbing his back even after deceased ran
     away
   - Significance of accused\'s claim that knife was first wielded by deceased
-layout: single
+
 ---
 # Public Prosecutor v Gelau Anak Jimbat 
 

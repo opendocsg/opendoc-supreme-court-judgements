@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Striking out
   - Leave to appeal
-layout: single
+
 ---
 

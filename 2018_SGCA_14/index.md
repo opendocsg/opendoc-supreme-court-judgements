@@ -8,6 +8,6 @@ tags:
   - Land
   - Strata titles
   - By-laws
-layout: single
+
 ---
 

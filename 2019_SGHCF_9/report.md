@@ -7,7 +7,7 @@ tags:
   - Enforcement
   - Contempt of Court
   - Court’s powers
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UNE _v_ UNF  

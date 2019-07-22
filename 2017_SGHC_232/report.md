@@ -9,7 +9,7 @@ tags:
   - Civil Procedure
   - Appeals
   - Notice
-layout: single
+
 ---
 # Sun Electric Pte Ltd v Sunseap Group Pte Ltd and others 
 

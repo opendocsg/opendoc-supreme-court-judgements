@@ -17,7 +17,7 @@ tags:
     Whether illegitimate child could claim maintenance under the Inheritance
     (Family Provision) Act (Cap 138, 1985 Rev Ed)
   - 'Sections 2 and 3 Inheritance (Family Provision) Act (Cap 138, 1985 Rev Ed)'
-layout: single
+
 ---
 # AAG v Estate of AAH, deceased 
 

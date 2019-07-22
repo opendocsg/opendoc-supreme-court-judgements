@@ -9,6 +9,6 @@ tags:
   - Implied terms
   - Companies
   - Memorandum and articles of association
-layout: single
+
 ---
 

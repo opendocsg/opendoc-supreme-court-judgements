@@ -6,6 +6,6 @@ subtitle: "[2014] SGCA 8 / 23\_January\_2014"
 tags:
   - Insolvency Law
   - Bankruptcy
-layout: single
+
 ---
 

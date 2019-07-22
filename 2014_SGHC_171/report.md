@@ -11,7 +11,7 @@ tags:
   - Words and Phrases
   - “Rash” and “negligent”
   - 'Section 304A Penal Code (Cap 224, 2008 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Hue An Li 
 

@@ -9,7 +9,7 @@ tags:
   - Formation
   - Contract
   - Breach
-layout: single
+
 ---
 # Jiacipto Jiaravanon v Simpson Marine (SEA) Pte Ltd 
 

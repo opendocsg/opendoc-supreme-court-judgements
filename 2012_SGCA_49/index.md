@@ -7,6 +7,6 @@ tags:
   - Misuse of Drugs Act Constitutional Law
   - AttorneyGeneral
   - Prosecutorial Discretion
-layout: single
+
 ---
 

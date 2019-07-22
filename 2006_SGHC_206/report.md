@@ -17,7 +17,7 @@ tags:
   - >-
     Section 24, First Schedule Art 34 International Arbitration Act (Cap 143A,
     2002 Rev Ed)
-layout: single
+
 ---
 # Government of the Republic of the Philippines v Philippine International Air Terminals Co, Inc 
 

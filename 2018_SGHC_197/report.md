@@ -5,7 +5,7 @@ tags:
   - Admiralty and Shipping
   - practice and procedure of action in rem
   - payment out of proceeds of sale
-layout: single
+
 ---
 # The “Swiber Concorde” 
 

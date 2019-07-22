@@ -8,7 +8,7 @@ tags:
     First to third defendants obtaining additional security for costs and
     appealing for a higher sum
   - Plaintiff cross-appealing for additional security to be discharged
-layout: single
+
 ---
 # Meyer Erwin v Lerner Brian and Others 
 

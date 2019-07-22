@@ -13,7 +13,7 @@ tags:
     if arbitral award may be enforced against defendant
   - Whether appropriate to order pre-action discovery
   - 'Order 24 r 6, O 24 r 7 Rules of Court (Cap 322, R 5, 2004 Rev Ed)'
-layout: single
+
 ---
 # Asta Rickmers Schiffahrtsgesellschaft mbH & Cie KG v Hub Marine Pte Ltd 
 

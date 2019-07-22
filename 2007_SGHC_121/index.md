@@ -27,6 +27,6 @@ tags:
   - >-
     Whether any implied or express term that carrier would only use its own
     barge to carry goods
-layout: single
+
 ---
 

@@ -10,7 +10,7 @@ tags:
     Application to court for leave to act as director or take part in management
     in applicant\'s company
   - Application two years and nine months after conviction and disqualification
-layout: single
+
 ---
 # Lee Huay Kok v Attorney General 
 

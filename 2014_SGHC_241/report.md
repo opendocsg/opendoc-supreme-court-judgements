@@ -5,7 +5,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional conduct
-layout: single
+
 ---
 # Ang Pek San Lawrence v Singapore Medical Council 
 

@@ -11,7 +11,7 @@ tags:
     jurisdiction
   - Guarantors saying proper forum is Brunei
   - Whether action should be stayed
-layout: single
+
 ---
 # Baiduri Bank Bhd v Dong Sui Hung and Another 
 

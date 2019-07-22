@@ -10,7 +10,7 @@ tags:
   - Invalidity
   - Trade Marks and Trade Names
   - Well-known trade mark
-layout: single
+
 ---
 # Guy Neale and others v Nine Squares Pty Ltd 
 

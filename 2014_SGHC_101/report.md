@@ -6,7 +6,7 @@ tags:
   - arbitrability and public policy
   - Arbitration
   - stay of court proceedings
-layout: single
+
 ---
 # Silica Investors Limited v Tomolugen Holdings Limited and others 
 

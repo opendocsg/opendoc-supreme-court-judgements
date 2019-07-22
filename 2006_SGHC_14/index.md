@@ -22,6 +22,6 @@ tags:
     parties
   - Parties at cross-purposes
   - Whether parties bound by agreement
-layout: single
+
 ---
 

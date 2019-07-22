@@ -19,6 +19,6 @@ tags:
   - Formalities of will
   - Whether will was a forgery and therefore defective and unenforceable
   - Whether forged will enforceable in contract
-layout: single
+
 ---
 

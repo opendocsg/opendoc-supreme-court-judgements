@@ -4,6 +4,6 @@ title: >-
   Wee Lick
 subtitle: "[2010] SGHC 333 / 11\_November\_2010"
 tags: null
-layout: single
+
 ---
 

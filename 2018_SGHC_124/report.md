@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Voluntary Arrangement
-layout: single
+
 ---
 # Re Aathar Ah Kong Andrew 
 

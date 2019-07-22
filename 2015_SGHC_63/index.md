@@ -8,6 +8,6 @@ tags:
   - Banking
   - Demand guarantees
   - Fraud exception
-layout: single
+
 ---
 

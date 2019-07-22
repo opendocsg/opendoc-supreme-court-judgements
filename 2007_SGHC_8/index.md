@@ -18,6 +18,6 @@ tags:
   - >-
     Whether period of remission should be factor in deciding appropriate length
     of custodial sentence
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Trade Marks and Trade Names
   - Infringement
   - Remedies
-layout: single
+
 ---
 # Converse Inc v Ramesh Ramchandani and another 
 

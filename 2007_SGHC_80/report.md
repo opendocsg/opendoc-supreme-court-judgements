@@ -31,7 +31,7 @@ tags:
   - Licences
   - Termination
   - Parties entering into licence agreement for food stall premises
-layout: single
+
 ---
 # Seah Boon Lock and Another v Family Food Court 
 

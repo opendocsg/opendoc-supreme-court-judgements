@@ -5,6 +5,6 @@ tags:
   - Conflict of Laws
   - Restraint of Foreign Proceedings
   - Vexatious and Oppressive Conduct
-layout: single
+
 ---
 

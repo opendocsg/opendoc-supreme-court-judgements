@@ -8,6 +8,6 @@ tags:
   - Public policy
   - Statutory Interpretation
   - Construction of statute
-layout: single
+
 ---
 

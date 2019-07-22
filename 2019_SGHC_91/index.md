@@ -6,6 +6,6 @@ tags:
   - Stamp duties
   - Instruments liable to ad valorem duty
   - Stamp Duties Act
-layout: single
+
 ---
 

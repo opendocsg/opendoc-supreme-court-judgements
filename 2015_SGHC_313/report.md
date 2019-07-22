@@ -9,7 +9,7 @@ tags:
   - Appeal
   - Appeal against mandatory minimum sentence
   - Summary rejection of appeal
-layout: single
+
 ---
 # Mohd Fauzi bin Mohamed Mydin v Public Prosecutor 
 

@@ -4,6 +4,6 @@ subtitle: "[2008] SGHC 157 / 22\_September\_2008"
 tags:
   - Contract
   - liquidated damages and penalty clauses
-layout: single
+
 ---
 

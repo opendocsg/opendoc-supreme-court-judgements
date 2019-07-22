@@ -9,6 +9,6 @@ tags:
   - Equity
   - defences
   - equitable set-off
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - >-
     Effect on request for further arguments of failure to comply with practice
     directions
-layout: single
+
 ---
 # Thomson Plaza Pte Ltd v The Liquidators of Yaohan Department Store Pte Ltd 
 

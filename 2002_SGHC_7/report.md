@@ -9,7 +9,7 @@ tags:
   - No consent sought from natural father
   - Application to set aside deed poll
   - Whether court should grant application
-layout: single
+
 ---
 # Khor Bee Im v Wong Tee Kee 
 

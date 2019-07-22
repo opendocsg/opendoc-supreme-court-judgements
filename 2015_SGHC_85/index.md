@@ -7,6 +7,6 @@ tags:
   - Contract
   - Illegality
   - Estoppel
-layout: single
+
 ---
 

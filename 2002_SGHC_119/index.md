@@ -19,6 +19,6 @@ tags:
   - Change of position
   - Words and Phrases
   - \'Compromise\'
-layout: single
+
 ---
 

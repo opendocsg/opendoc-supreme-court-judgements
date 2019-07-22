@@ -10,7 +10,7 @@ tags:
   - Tort
   - Negligence
   - Contributory Negligence
-layout: single
+
 ---
 # Goh Yang Hui (committee of the person and estate of Chua Jie Liang Samuel, mentally 
 

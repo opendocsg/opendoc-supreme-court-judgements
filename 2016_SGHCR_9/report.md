@@ -12,7 +12,7 @@ tags:
   - Stay of Proceedings
   - Civil Procedure
   - Inherent Powers
-layout: single
+
 ---
 # Pereira Dennis John Sunny v Faridah bte V Abdul Latiff 
 

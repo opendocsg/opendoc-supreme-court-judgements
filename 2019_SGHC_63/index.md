@@ -5,6 +5,6 @@ tags:
   - Contract
   - Breach
   - Settlement agreement
-layout: single
+
 ---
 

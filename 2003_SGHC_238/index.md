@@ -24,6 +24,6 @@ tags:
   - Whether under influenc e of drink to extent of being unfit to drive
   - Whether driving after c onsumption of alc ohol exc eeding presc ribed limit
   - 'Road Traffic Ac t (Cap 276, 1997 Rev Ed) ss 67(1)(a) and 67(1)(b)'
-layout: single
+
 ---
 

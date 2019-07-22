@@ -20,6 +20,6 @@ tags:
     Plaintiff signing document provided by defendant but withholding document
     from defendant
   - Whether such conduct amounting to acceptance
-layout: single
+
 ---
 

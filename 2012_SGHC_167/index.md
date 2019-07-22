@@ -6,6 +6,6 @@ tags:
   - 'Sale of Goods, Equity'
   - 'Fraud, Civil Procedure'
   - Pleadings
-layout: single
+
 ---
 

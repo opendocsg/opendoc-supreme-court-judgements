@@ -2,7 +2,7 @@
 title: Satinder Singh Garcha v Uthayasurian Sidambaram and Another
 subtitle: "[2009] SGHC 253 / 12\_November\_2009"
 tags: null
-layout: single
+
 ---
  (a) the $300,000 was held on trust in a trust account by the 1st Defendant, to be disbursed or paid out on the instructions of the client; 
 

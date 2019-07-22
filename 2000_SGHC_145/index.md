@@ -6,6 +6,6 @@ tags:
   - Registration
   - Distinctive character
   - Existing trade mark
-layout: single
+
 ---
 

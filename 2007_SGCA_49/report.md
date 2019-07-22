@@ -16,7 +16,7 @@ tags:
   - Rule in Foss v Harbottle
   - Fraud on minority exception
   - Whether other directors having absolute majority of votes in company
-layout: single
+
 ---
 # Ting Sing Ning (alias Malcolm Ding) v Ting Chek Swee (alias Ting Chik Sui) and Others 
 

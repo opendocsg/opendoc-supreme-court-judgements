@@ -15,6 +15,6 @@ tags:
   - Sentencing
   - Sentencing practice
   - Taking account of contributions of appellant in sentencing
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Whether burden of proving father dead resting on applicant
   - Whether appropriate for court to grant application
   - 'Sections 109, 110 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

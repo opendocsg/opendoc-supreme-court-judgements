@@ -12,6 +12,6 @@ tags:
     Whether defendant precluded from calling on performance bond after expiry of
     limitation period for bringing action in contract or tort against plaintiff
     for breach
-layout: single
+
 ---
 

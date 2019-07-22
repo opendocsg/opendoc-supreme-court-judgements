@@ -5,7 +5,7 @@ tags:
   - Tort
   - Defamation
   - Damages
-layout: single
+
 ---
 # ATU and others v ATY 
 

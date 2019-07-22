@@ -13,7 +13,7 @@ tags:
   - Issue Estoppel
   - Land
   - Housing Development Act
-layout: single
+
 ---
 # Low Heng Leon Andy v Low Kian Beng Lawrence (administrator of the estate of Tan Ah Kng, 
 

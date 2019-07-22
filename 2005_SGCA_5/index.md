@@ -25,6 +25,6 @@ tags:
     circumstances
   - Applicable principles for granting of interim mandatory injunction
   - Whether more appropriate to order inquiry as to damages suffered
-layout: single
+
 ---
 

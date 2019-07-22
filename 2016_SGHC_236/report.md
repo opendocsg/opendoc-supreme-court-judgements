@@ -9,7 +9,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Acquittal
-layout: single
+
 ---
 # Jeganathan Ramasamy v Public Prosecutor 
 

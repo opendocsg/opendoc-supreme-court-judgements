@@ -11,6 +11,6 @@ tags:
   - >-
     Benchmark sentence for offence under s 376B(1) Penal Code (Cap 224, 2008 Rev
     Ed)
-layout: single
+
 ---
 

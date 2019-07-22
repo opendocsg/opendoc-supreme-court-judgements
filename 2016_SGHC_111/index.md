@@ -5,6 +5,6 @@ tags:
   - Companies
   - Derivative action
   - Common law derivative action
-layout: single
+
 ---
 

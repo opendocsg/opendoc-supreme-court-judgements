@@ -14,7 +14,7 @@ tags:
   - >-
     s 18 and cl 10 of first schedule Supreme Court of Judicature Act (Cap 322,
     1999 Rev Ed) read with s 38 Subordinate Courts Act (Cap 321, 1999 Rev Ed)
-layout: single
+
 ---
 # Ricky Charles s/o Gabriel Thanabalan v Chua Boon Yeow 
 

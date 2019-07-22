@@ -10,6 +10,6 @@ tags:
   - Contract
   - Remedies
   - Remoteness of Damage
-layout: single
+
 ---
 

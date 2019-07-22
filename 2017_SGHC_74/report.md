@@ -7,7 +7,7 @@ tags:
   - Discovery of Documents
   - Pre-action Disclosure
   - Norwich Pharmacal Orders
-layout: single
+
 ---
 # Intas Pharmaceuticals Ltd v DealStreetAsia Pte Ltd 
 

@@ -15,6 +15,6 @@ tags:
   - Recipient liability
   - Personal liability
   - Proprietary liability
-layout: single
+
 ---
 

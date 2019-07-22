@@ -23,6 +23,6 @@ tags:
   - >-
     Whether duty of care owed by medical practitioner to third persons who might
     be adversely affected by contents of practitioner\'s report
-layout: single
+
 ---
 

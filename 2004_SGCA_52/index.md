@@ -23,6 +23,6 @@ tags:
   - >-
     Whether intention to confer benefits of insurance on employees to be equated
     with intention to create trust of insurance moneys for employees
-layout: single
+
 ---
 

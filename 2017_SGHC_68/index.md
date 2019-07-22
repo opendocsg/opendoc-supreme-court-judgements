@@ -8,6 +8,6 @@ tags:
   - Civil contempt
   - Contempt of court
   - Sentencing
-layout: single
+
 ---
 

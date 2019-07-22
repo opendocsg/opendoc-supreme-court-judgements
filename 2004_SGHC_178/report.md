@@ -27,7 +27,7 @@ tags:
   - >-
     Whether defendant in breach of any duty of care owed to plaintiff by
     calculating savings as such
-layout: single
+
 ---
 # Hyundai Engineering and Construction Co Ltd v Rankine and Hill (Singapore) Pte Ltd 
 

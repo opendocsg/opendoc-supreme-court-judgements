@@ -6,6 +6,6 @@ tags:
   - Charges
   - Construction
   - Charge to secure third party\'s banking facilities
-layout: single
+
 ---
 

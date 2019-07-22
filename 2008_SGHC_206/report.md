@@ -6,7 +6,7 @@ tags:
   - Natural forum
   - Whether Myanmar clearly more appropriate forum than Singapore
   - Relevant issues and evidence determining connecting factors to forum
-layout: single
+
 ---
 # Focus Energy Ltd v Aye Aye Soe 
 

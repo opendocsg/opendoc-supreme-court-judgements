@@ -7,7 +7,7 @@ tags:
   - Consent Orders
   - Damages
   - Assessment
-layout: single
+
 ---
 # Poh Huat Heng Corp Pte Ltd and others v Hafizul Islam Kofil Uddin 
 

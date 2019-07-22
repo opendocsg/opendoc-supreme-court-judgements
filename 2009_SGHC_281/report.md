@@ -9,7 +9,7 @@ tags:
   - Trusts
   - Trustees
   - Appointment
-layout: single
+
 ---
 # Syed Abbas bin Mohamed Alsagoff and Another v Islamic Religious Council of Singapore 
 

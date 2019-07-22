@@ -8,7 +8,7 @@ tags:
   - Illegality
   - Contract
   - Duress
-layout: single
+
 ---
 # L Manimuthu and others v L Shanmuganathan 
 

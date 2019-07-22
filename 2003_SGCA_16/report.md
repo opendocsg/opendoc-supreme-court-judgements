@@ -16,7 +16,7 @@ tags:
     Whether issues raised sufficiently difficult and complex points of law
     and/or facts
   - Whether circumstances of case attracted exercise of judicial discretion
-layout: single
+
 ---
 # Godfrey Gerald, Queen's Counsel v UBS AG and Others 
 

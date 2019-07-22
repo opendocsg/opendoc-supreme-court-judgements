@@ -17,6 +17,6 @@ tags:
   - Constructive trusts
   - Trusts
   - Resulting trusts
-layout: single
+
 ---
 

@@ -22,7 +22,7 @@ tags:
   - Negligence
   - Res ipsa loquitur
   - When principle should be applied
-layout: single
+
 ---
 # Cheong Ghim Fah and Another v Murugian s/o Rangasamy 
 

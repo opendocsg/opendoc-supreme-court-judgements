@@ -10,7 +10,7 @@ tags:
   - Second accused aware of and consenting to such acts
   - Second accused aiding and participating in some of the acts
   - Mitigating factors
-layout: single
+
 ---
 # Public Prosecutor v Peh Thian Hui and Another 
 

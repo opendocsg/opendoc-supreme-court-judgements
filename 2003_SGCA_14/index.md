@@ -16,6 +16,6 @@ tags:
   - >-
     Treatment of uncorroborated evidence of a child complainant of sexual
     offences committed against her.
-layout: single
+
 ---
 

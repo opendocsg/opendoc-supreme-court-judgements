@@ -15,7 +15,7 @@ tags:
   - Arbitration
   - Setting aside
   - Public policy
-layout: single
+
 ---
 # Rakna Arakshaka Lanka Ltd v Avant Garde Maritime Services (Private) Limited 
 

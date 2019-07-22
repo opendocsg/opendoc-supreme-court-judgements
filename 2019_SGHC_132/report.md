@@ -6,7 +6,7 @@ tags:
   - Court judgments
   - Criminal Procedure and Sentencing
   - Appeal
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lim Chee Huat _v_ Public Prosecutor  

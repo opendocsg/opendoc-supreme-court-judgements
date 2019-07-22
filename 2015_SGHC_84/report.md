@@ -5,7 +5,7 @@ tags:
   - Family Law
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 # Teh Kah Weng David v Chow Lai Meng Nina 
 

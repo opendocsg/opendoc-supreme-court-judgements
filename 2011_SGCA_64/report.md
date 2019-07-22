@@ -7,7 +7,7 @@ tags:
   - Specific Performance
   - Land
   - Sale of Land
-layout: single
+
 ---
 # Seng Swee Leng v Wong Chong Weng 
 

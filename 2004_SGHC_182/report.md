@@ -21,7 +21,7 @@ tags:
   - Formation
   - Oral agreement between parties
   - Agreement not engrossed and executed
-layout: single
+
 ---
 # Midlink Development Pte Ltd v The Stansfield Group Pte Ltd 
 

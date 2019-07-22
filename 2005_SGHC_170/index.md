@@ -17,6 +17,6 @@ tags:
   - >-
     Whether requirements under s 6(e) Civil Law Act (Cap 43, 1999 Rev Ed)
     fulfilled
-layout: single
+
 ---
 

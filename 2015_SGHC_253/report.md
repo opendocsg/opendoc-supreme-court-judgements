@@ -11,7 +11,7 @@ tags:
   - Tort
   - negligence
   - damages
-layout: single
+
 ---
 # Mark Amaraganthan Selvaganthan v Cheung Man Wai 
 

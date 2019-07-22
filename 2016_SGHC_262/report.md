@@ -5,7 +5,7 @@ tags:
   - Insolvency law
   - Bankruptcy
   - Statutory demand
-layout: single
+
 ---
 # Ong Swee Huat v Australia and New Zealand Banking Group Ltd 
 

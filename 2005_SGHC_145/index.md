@@ -16,6 +16,6 @@ tags:
   - Winding up
   - Consent of parties
   - Whether company should be wound up
-layout: single
+
 ---
 

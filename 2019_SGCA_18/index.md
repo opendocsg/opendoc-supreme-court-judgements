@@ -7,6 +7,6 @@ tags:
   - Companies
   - Winding Up
   - Just and Equitable Grounds
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Tort
   - Negligence
   - Contributory Negligence
-layout: single
+
 ---
 # Cai Xiao Qing v Leow Fa Dong (by his next friend Leow Chye Huat) 
 

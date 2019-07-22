@@ -6,6 +6,6 @@ tags:
   - Partners inter se
   - Accounts
   - Business of partnership transferred to company
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional conduct
-layout: single
+
 ---
 # Dr Eric Gan Keng Seng v Singapore Medical Council 
 

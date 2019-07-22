@@ -10,7 +10,7 @@ tags:
   - Building and Construction Law
   - Terms
   - Certificates and approvals
-layout: single
+
 ---
 # Chin Ivan v H P Construction & Engineering Pte Ltd 
 

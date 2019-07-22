@@ -15,7 +15,7 @@ tags:
   - Statutory Interpretation
   - Construction of statute
   - 'Interpretation of “excessive”, “unconscionable” and “substantially unfair”'
-layout: single
+
 ---
 # Evan Lim Industrial/Warehousing Development Pte Ltd v MWA Capital Pte Ltd and another 
 

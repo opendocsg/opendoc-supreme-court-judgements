@@ -44,6 +44,6 @@ tags:
   - >-
     Whether solicitor failing to ensure meaning and effect of documents
     satisfactorily explained to client
-layout: single
+
 ---
 

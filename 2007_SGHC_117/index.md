@@ -15,6 +15,6 @@ tags:
   - Claims
   - Whether insured vehicle used for reward
   - Whether insurer entitled to repudiate liability
-layout: single
+
 ---
 

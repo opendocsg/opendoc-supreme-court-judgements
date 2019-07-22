@@ -6,6 +6,6 @@ tags:
   - construction of agent’s authority
   - Agency
   - evidence of agency
-layout: single
+
 ---
 

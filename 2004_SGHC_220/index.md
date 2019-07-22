@@ -9,6 +9,6 @@ tags:
   - >-
     Whether plaintiff estopped from raising issue in present case because issue
     forming subject matter of previous litigation
-layout: single
+
 ---
 

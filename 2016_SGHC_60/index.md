@@ -7,6 +7,6 @@ tags:
   - Contempt of Court
   - Sentencing
   - Principles
-layout: single
+
 ---
 

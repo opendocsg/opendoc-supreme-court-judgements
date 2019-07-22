@@ -7,6 +7,6 @@ tags:
   - Tort
   - Negligence
   - Traffic accident
-layout: single
+
 ---
 

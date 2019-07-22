@@ -8,7 +8,7 @@ tags:
   - Strata titles
   - By-laws
   - Validity of by-laws governing allocation of car park spaces
-layout: single
+
 ---
 # Automobile Association of Singapore v Management Corporation Strata Title Plan No 918 and 
 

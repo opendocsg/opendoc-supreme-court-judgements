@@ -15,6 +15,6 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Similar fact rule
-layout: single
+
 ---
 

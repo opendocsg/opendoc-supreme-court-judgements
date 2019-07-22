@@ -8,6 +8,6 @@ tags:
   - Sentencing
   - Aggravating factors
   - Relevance of uncharged offences
-layout: single
+
 ---
 

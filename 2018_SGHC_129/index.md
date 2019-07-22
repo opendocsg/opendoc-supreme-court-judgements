@@ -7,6 +7,6 @@ tags:
   - Confidentiality agreement
   - Equity
   - Obligation of confidentiality
-layout: single
+
 ---
 

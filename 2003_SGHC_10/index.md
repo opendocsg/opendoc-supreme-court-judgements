@@ -12,6 +12,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Statements
   - Whether should be admitted in evidence when supplied
-layout: single
+
 ---
 

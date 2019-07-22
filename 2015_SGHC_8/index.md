@@ -8,6 +8,6 @@ tags:
   - Criminal law
   - Statutory offences
   - Prevention of Corruption Act
-layout: single
+
 ---
 

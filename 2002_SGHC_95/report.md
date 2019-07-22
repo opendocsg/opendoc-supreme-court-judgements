@@ -13,7 +13,7 @@ tags:
   - Application for further discovery
   - Electronic mail printouts referring to certain documents
   - Whether such documents relevant and subject to disclosure
-layout: single
+
 ---
 # Info-Communications Development Authority of Singapore v Singapore Telecommunications 
 

@@ -7,7 +7,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional conduct
-layout: single
+
 ---
 # Lim Mey Lee Susan v Singapore Medical Council 
 

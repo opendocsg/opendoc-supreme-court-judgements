@@ -9,6 +9,6 @@ tags:
   - >-
     Whether defendant or plaintiff paying for property and related outgoings
     substantially or totally
-layout: single
+
 ---
 

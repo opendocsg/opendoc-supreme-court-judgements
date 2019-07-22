@@ -6,7 +6,7 @@ tags:
   - Service out of jurisdiction
   - Conflict of Laws
   - Stay of court proceedings
-layout: single
+
 ---
 # BGC Partners (Singapore) Ltd v Tan Wee Hiong Kevin 
 

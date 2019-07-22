@@ -7,7 +7,7 @@ tags:
   - Conduct unbefitting advocate and solicitor
   - Appropriate penalty
   - 'Legal Profession Act (Cap 161, 2000 Rev Ed) ss 83(1), 83(2)(h)'
-layout: single
+
 ---
 # Law Society of Singapore v Ganesan Krishnan 
 

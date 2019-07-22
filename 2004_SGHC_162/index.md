@@ -29,6 +29,6 @@ tags:
   - Whether parties in a partnership
   - Test to be applied
   - 'Partnership Act (Cap 391, 1994 Rev Ed) s 1(1).'
-layout: single
+
 ---
 

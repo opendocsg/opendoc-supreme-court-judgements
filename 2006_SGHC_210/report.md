@@ -36,7 +36,7 @@ tags:
   - >-
     Section 3(1) Reciprocal Enforcement of Commonwealth Judgments Act (Cap 264,
     1985 Rev-Ed)
-layout: single
+
 ---
 # Westacre Investments Inc v Yugoimport-SDPR (also known as Jugoimport-SDPR) 
 

@@ -7,7 +7,7 @@ tags:
   - Show cause action
   - Advocate and solicitor of 31 years\' standing convicted of theft in dwelling
   - Whether advocate & solicitor unfit for legal profession
-layout: single
+
 ---
 # Law Society of Singapore v Ong Lilian 
 

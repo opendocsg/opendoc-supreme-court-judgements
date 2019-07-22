@@ -18,7 +18,7 @@ tags:
   - How restraint of petition for winding up should be decided
   - Judgment debt an undisputed debt
   - Whether presentation should be restrained
-layout: single
+
 ---
 # LKM Investment Holdings Pte Ltd v Cathay Theatres Pte Ltd 
 

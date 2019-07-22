@@ -18,7 +18,7 @@ tags:
   - Sale of land
   - Sale and purchase agreements
   - Whether sale and purchase agreement validly rescinded
-layout: single
+
 ---
 # Travista Development Pte Ltd v Tan Kim Swee Augustine and Others 
 

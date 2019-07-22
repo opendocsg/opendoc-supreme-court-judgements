@@ -12,7 +12,7 @@ tags:
   - >-
     Section 3(3) Motor Vehicles (Third-Party Risks & Compensation) Act (Cap 189,
     2000 Rev Ed)
-layout: single
+
 ---
 # Siti Hajar bte Abdullah v Public Prosecutor 
 

@@ -10,6 +10,6 @@ tags:
     Whether court should exercise discretion to make order for security for
     costs against plaintiff in circumstances when potential order of costs may
     be enforced in plaintiff\'s jurisdiction
-layout: single
+
 ---
 

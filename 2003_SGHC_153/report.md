@@ -21,7 +21,7 @@ tags:
   - >-
     Whether defence\'s application for an accused\'s statements should be
     granted.
-layout: single
+
 ---
 # Public Prosecutor v Soosainathan s/o Dass Saminathan 
 

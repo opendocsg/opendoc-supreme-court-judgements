@@ -15,7 +15,7 @@ tags:
   - \"Moneylender\"
   - \"Business of moneylending\" -Whether overseas transactions relevant
   - 'Moneylenders Act (Cap 188, 1985 Rev Ed) ss 2, 3'
-layout: single
+
 ---
 # Mak Chik Lun and Others v Loh Kim Her and Others and Another Action 
 

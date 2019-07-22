@@ -7,7 +7,7 @@ tags:
   - Contributory negligence
   - Damages
   - Apportionment
-layout: single
+
 ---
 # Cheng William v Allister Lim & Thrumurgan and another and another appeal 
 

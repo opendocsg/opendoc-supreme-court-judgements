@@ -10,7 +10,7 @@ tags:
   - Deduction
   - Statutory Interpretation
   - Revenue statutes
-layout: single
+
 ---
 # BML v Comptroller of Income Tax 
 

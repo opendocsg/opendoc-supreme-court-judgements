@@ -7,6 +7,6 @@ tags:
   - Resulting Trust
   - Constructive Trust
   - Undue Influence
-layout: single
+
 ---
 

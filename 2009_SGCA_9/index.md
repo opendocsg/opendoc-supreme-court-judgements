@@ -39,6 +39,6 @@ tags:
   - Trade Marks and Trade Names
   - Revocation
   - Genuine use for five years following registration
-layout: single
+
 ---
 

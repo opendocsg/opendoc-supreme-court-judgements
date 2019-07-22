@@ -5,7 +5,7 @@ tags:
   - Employment Law
   - Pay
   - Computation
-layout: single
+
 ---
 # Joseph Ramanathan v Stratech Systems Ltd 
 

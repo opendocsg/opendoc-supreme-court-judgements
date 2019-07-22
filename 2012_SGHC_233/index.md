@@ -8,6 +8,6 @@ tags:
   - Tort
   - Defamation
   - Qualified Privilege
-layout: single
+
 ---
 

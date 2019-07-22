@@ -7,6 +7,6 @@ tags:
   - No order made
   - Whether joint custody order appropriate
   - Whether court should make no order as to custody
-layout: single
+
 ---
 

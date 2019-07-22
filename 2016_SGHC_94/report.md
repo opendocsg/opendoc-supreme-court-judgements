@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Principles
-layout: single
+
 ---
 # Guay Seng Tiong Nickson v Public Prosecutor 
 

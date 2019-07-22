@@ -9,7 +9,7 @@ tags:
   - Categories of adverse possession claims
   - Plot of unregistered land
   - Developer bought land which enclosed plot
-layout: single
+
 ---
 # City Developments Ltd v Estate of Syed Allowee bin Ally Aljunied, deceased 
 

@@ -5,7 +5,7 @@ tags:
   - Trusts
   - Resulting Trusts
   - Presumed Resulting Trusts
-layout: single
+
 ---
 # United Overseas Bank Ltd v Giok Bie Jao and others 
 

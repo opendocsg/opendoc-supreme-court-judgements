@@ -12,7 +12,7 @@ tags:
   - Negligence
   - Duty of Care
   - Non-delegable duties
-layout: single
+
 ---
 # Ng Huat Seng and another v Munib Mohammad Madni and another 
 

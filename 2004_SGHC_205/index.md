@@ -17,6 +17,6 @@ tags:
   - Forms of punishment
   - Whether to impose imprisonment for life or death penalty
   - Whether to impose caning.
-layout: single
+
 ---
 

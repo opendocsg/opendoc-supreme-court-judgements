@@ -8,6 +8,6 @@ tags:
   - Remedies
   - Damages
   - Assessment
-layout: single
+
 ---
 

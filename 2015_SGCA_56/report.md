@@ -6,7 +6,7 @@ tags:
   - Pleadings
   - Civil procedure
   - Parties
-layout: single
+
 ---
 # V Nithia (co-administratrix of the estate of Ponnusamy Sivapakiam, deceased) v 
 

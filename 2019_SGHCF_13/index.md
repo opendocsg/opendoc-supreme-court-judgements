@@ -7,6 +7,6 @@ tags:
   - Ancillary matters
   - Division of matrimonial assets
   - Maintenance of wife
-layout: single
+
 ---
 

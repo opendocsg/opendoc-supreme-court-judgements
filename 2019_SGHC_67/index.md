@@ -7,6 +7,6 @@ tags:
   - Fraud and deceit
   - Contract
   - Fraudulent
-layout: single
+
 ---
 

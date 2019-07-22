@@ -16,7 +16,7 @@ tags:
   - Undue influence
   - Whether undue influence presumed
   - Whether actual undue influence established
-layout: single
+
 ---
 # Citibank NA v Lim Soo Peng and Another 
 

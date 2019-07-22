@@ -7,6 +7,6 @@ tags:
   - Trusts
   - Express trusts
   - Resulting Trusts
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Tort
   - Defamation
   - Malicious falsehood
-layout: single
+
 ---
 

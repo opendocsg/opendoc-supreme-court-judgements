@@ -11,7 +11,7 @@ tags:
   - >-
     Whether tribunal in fact validly constituted under International Chamber of
     Commerce Rules
-layout: single
+
 ---
 # Insigma Technology Co Ltd v Alstom Technology Ltd 
 

@@ -10,6 +10,6 @@ tags:
   - >-
     Misuse of Drugs Act (Cap 185, 1997 Ed) ss 5, 17, 18(1)(c), 18(2), 33(1)
     Misuse of Drugs Act (Cap 185, 1997 Ed).
-layout: single
+
 ---
 

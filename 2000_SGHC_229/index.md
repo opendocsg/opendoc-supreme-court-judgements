@@ -15,6 +15,6 @@ tags:
     Law relating to deposits and from liquidated damages -Whether $3,000 a non
     refundable deposit
   - Whether innocent party entitled to claim damages in excess of deposit
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Distribution of assets
   - Sum held in accounts in joint names of deceased and defendant
   - Whether sum belonged to estate of deceased
-layout: single
+
 ---
 

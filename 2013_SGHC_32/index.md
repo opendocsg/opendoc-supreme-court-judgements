@@ -10,6 +10,6 @@ tags:
   - Contract
   - contractual terms
   - implied terms
-layout: single
+
 ---
 

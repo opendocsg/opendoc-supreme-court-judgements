@@ -14,7 +14,7 @@ tags:
   - Plaintiff ordinarily resident out of jurisdiction
   - Relevant factors to consider in court\'s exercise of discretion
   - 'Order 23 r 1(1)(a) Rules of Court (Cap 322, R 5, 1997 Rev Ed)'
-layout: single
+
 ---
 # Jurong Town Corp v Wishing Star Ltd 
 

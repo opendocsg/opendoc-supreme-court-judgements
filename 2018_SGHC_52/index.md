@@ -10,6 +10,6 @@ tags:
   - Infringement
   - Copyright
   - Groundless threat
-layout: single
+
 ---
 

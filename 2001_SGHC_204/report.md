@@ -7,7 +7,7 @@ tags:
   - Contract for sale of goods on fob and credit terms
   - Total loss of goods at sea
   - Whether buyer\'s payment of invoiced value of goods a gift/windfall
-layout: single
+
 ---
 # Sitra Wood Products Pte Ltd v Royal and Sun Alliance Insurance (S) Pte Ltd 
 

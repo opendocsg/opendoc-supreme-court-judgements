@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Offences
   - Sexual assault by penetration
-layout: single
+
 ---
 

@@ -10,7 +10,7 @@ tags:
   - Conflict of Laws
   - Natural forum
   - Stay of proceedings
-layout: single
+
 ---
 # Virsagi Management (S) Pte Ltd v Welltech Construction Pte Ltd and another appeal 
 

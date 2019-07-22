@@ -5,7 +5,7 @@ tags:
   - Damages
   - Assessment
   - Account of profits
-layout: single
+
 ---
 # Bosch Corp v Wiedson International (S) Pte Ltd and others and another suit 
 

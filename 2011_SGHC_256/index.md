@@ -10,6 +10,6 @@ tags:
   - Bills of Exchange And Other Negotiable Instruments
   - Consideration
   - Sufficiency
-layout: single
+
 ---
 

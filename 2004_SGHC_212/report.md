@@ -48,7 +48,7 @@ tags:
     Accused giving contradictory versions of event to police officers and in
     court
   - Whether accused\'s initial version should be thrown out as false
-layout: single
+
 ---
 # Public Prosecutor v Sundarti Supriyanto 
 

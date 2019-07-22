@@ -7,7 +7,7 @@ tags:
   - Petition
   - Appeal
   - Whether bankruptcy order should be set aside
-layout: single
+
 ---
 # United Overseas Bank Limited v Victor F A Fernandez 
 

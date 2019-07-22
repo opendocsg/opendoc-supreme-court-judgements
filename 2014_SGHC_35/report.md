@@ -11,7 +11,7 @@ tags:
   - Striking out
   - Civil Procedure
   - Disposal of case on point of law
-layout: single
+
 ---
 # The Ministry of Rural Development, Fishery, Craft Industry and Environment of the Union of 
 

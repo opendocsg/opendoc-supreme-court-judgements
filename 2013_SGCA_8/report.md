@@ -7,7 +7,7 @@ tags:
   - Insolvency law
   - Bankruptcy
   - Bankruptcy effects
-layout: single
+
 ---
 # Cheo Sharon Andriesz v Official Assignee of the estate of Andriesz Paul Matthew, a bankrupt
 

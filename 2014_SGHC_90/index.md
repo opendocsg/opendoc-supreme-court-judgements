@@ -12,6 +12,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Compensation and costs
   - Compensation orders
-layout: single
+
 ---
 

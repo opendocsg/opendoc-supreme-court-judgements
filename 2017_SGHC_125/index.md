@@ -24,6 +24,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Compensation and costs
   - Costs for Prosecution
-layout: single
+
 ---
 

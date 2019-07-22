@@ -10,7 +10,7 @@ tags:
   - Service
   - Substituted service
   - Instant messaging
-layout: single
+
 ---
 # Storey, David Ian Andrew v Planet Arkadia Pte Ltd and others 
 

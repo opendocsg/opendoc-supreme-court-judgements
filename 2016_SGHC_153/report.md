@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # Jiangsu Overseas Group Co Ltd v Concord Energy Pte Ltd and another matter 
 

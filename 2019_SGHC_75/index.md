@@ -4,6 +4,6 @@ subtitle: "[2019] SGHC 75 / Decision Date: 19\_March\_2019"
 tags:
   - Criminal Procedure and Sentencing
   - Taking additional evidence
-layout: single
+
 ---
 

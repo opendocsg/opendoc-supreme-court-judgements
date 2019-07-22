@@ -16,7 +16,7 @@ tags:
   - Waiver
   - Waiver by estoppel
   - Scope of doctrine of waiver by estoppel
-layout: single
+
 ---
 # T2 Networks Pte Ltd v Nasioncom Sdn Bhd 
 

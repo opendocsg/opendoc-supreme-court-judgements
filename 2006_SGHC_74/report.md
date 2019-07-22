@@ -10,7 +10,7 @@ tags:
     petition by defendant pending determination of plaintiff\'s counterclaim
     against defendant
   - Applicable principles for grant of injunction
-layout: single
+
 ---
 # Metalform Asia Pte Ltd v Holland Leedon Pte Ltd 
 

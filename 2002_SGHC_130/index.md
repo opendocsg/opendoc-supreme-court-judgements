@@ -13,6 +13,6 @@ tags:
   - Considerations in determining existence of unfair preference
   - Whether presumption relating to associates rebutted
   - 'ss 99(5), 100(1) & 101(5)Bankruptcy Act (Cap 20, 2000 Ed)'
-layout: single
+
 ---
 

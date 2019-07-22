@@ -11,7 +11,7 @@ tags:
   - >-
     Whether there was likelihood of confusion between defendant\'s modems and
     plaintiff\'s products
-layout: single
+
 ---
 # Mitac International Corp v Singapore Telecommunications Ltd and Another Action 
 

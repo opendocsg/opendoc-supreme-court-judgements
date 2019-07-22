@@ -11,7 +11,7 @@ tags:
     Whether mortgagee guilty of wilful blindness akin to fraud so as to defeat
     principle of indefeasibility
   - 'Section 160(1)(b) Land Titles Act (Cap 157, 2004 Rev Ed)'
-layout: single
+
 ---
 # Malayan Banking Berhad v Sivakolunthu Thirunavukarasu and Others 
 

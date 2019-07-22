@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Costs
   - Security
-layout: single
+
 ---
 # Diamond Exchange of Singapore v Singapore Diamond Exchange Pte Ltd 
 

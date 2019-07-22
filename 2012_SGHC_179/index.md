@@ -6,6 +6,6 @@ tags:
   - Summary Judgment
   - Landlord and Tenant
   - Agreements for leases
-layout: single
+
 ---
 

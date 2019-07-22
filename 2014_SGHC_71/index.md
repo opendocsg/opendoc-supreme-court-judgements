@@ -7,6 +7,6 @@ tags:
   - Consumer Protection
   - Courts and Jurisdiction
   - Jurisdiction
-layout: single
+
 ---
 

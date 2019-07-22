@@ -9,7 +9,7 @@ tags:
   - Ancillary Matters
   - Division of matrimonial assets
   - Maintenance of wife
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BWU and another _v_ BWW and another matter  

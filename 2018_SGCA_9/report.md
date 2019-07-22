@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Acquittal
-layout: single
+
 ---
 # Gopu Jaya Raman v Public Prosecutor 
 

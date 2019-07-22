@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Inherent powers
   - Garnishee orders
-layout: single
+
 ---
 

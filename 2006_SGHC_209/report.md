@@ -26,7 +26,7 @@ tags:
   - >-
     Amount of damages suffered by first plaintiff as result of defendants\'
     breach of obligations under deeds
-layout: single
+
 ---
 # Justlogin Pte Ltd and Another v Oversea-Chinese Banking Corp Ltd and Another 
 

@@ -7,6 +7,6 @@ tags:
   - Jurisdiction
   - Inherent Powers
   - Extension of Time
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Date of commencement
-layout: single
+
 ---
 

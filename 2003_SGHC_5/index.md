@@ -19,6 +19,6 @@ tags:
   - Inconsistencies in testimony
   - Whether inconsistencies undermining evidence in respect of key issues
   - Whether court entitled to accept one part of testimony and reject other part
-layout: single
+
 ---
 

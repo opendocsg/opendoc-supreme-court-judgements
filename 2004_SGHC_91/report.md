@@ -24,7 +24,7 @@ tags:
   - Plea of guilt
   - Allegations against defence counsel and interpreter
   - Whether accused understood nature and consequences of plea
-layout: single
+
 ---
 # Lee Cheong Ngan alias Lee Cheong Yuen v Public Prosecutor and Other Applications 
 

@@ -16,6 +16,6 @@ tags:
   - >-
     Whether employees obliged to make good losses resulting from inability to
     meet employer\'s targets
-layout: single
+
 ---
 

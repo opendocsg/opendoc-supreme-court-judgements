@@ -21,7 +21,7 @@ tags:
   - Whether weight should be given to accomplice evidence
   - Whether accomplice evidence should be treated with caution
   - 'Sections 116 illustration (b), 135 Evidence Act (Cap 97, 1997 Ed)'
-layout: single
+
 ---
 # Public Prosecutor v V Murugesan 
 

@@ -9,6 +9,6 @@ tags:
   - Contract
   - Formation
   - Whether plaintiff sued the right party.
-layout: single
+
 ---
 

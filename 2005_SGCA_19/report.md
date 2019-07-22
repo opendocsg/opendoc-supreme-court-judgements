@@ -12,7 +12,7 @@ tags:
   - >-
     Whether benefits received by respondent independent of any act of mitigation
     may be considered to reduce amount of damages payable by appellant
-layout: single
+
 ---
 # Teh Guek Ngor Engelin nee Tan and Others v Chia Ee Lin Evelyn and Another 
 

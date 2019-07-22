@@ -5,6 +5,6 @@ tags:
   - Revenue Law
   - Stamp Duties
   - Appeals
-layout: single
+
 ---
 

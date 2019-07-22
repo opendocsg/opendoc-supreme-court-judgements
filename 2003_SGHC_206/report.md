@@ -22,7 +22,7 @@ tags:
   - >-
     Whether quantity to be taken into account for sentencing should be that
     stated in the charge.
-layout: single
+
 ---
 # Public Prosecutor v Rahmat Bin Abdullah and Another 
 

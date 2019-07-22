@@ -9,7 +9,7 @@ tags:
   - Civil Procedure
   - Offer to settle
   - Singapore International Commercial Court
-layout: single
+
 ---
 # CPIT Investments Limited v Qilin World Capital Limited and another 
 

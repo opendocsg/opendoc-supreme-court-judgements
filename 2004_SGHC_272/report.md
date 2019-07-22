@@ -16,7 +16,7 @@ tags:
   - Property sold subject to tenancy
   - Tenant evinced intention to terminate tenancy prematurely
   - Whether vendors in breach of warranties in option to purchase property
-layout: single
+
 ---
 # Teo Teo Lee and Another v Top Chance Properties Pte Ltd 
 

@@ -8,6 +8,6 @@ tags:
   - Contract
   - Formation
   - Relevance of conduct of parties.
-layout: single
+
 ---
 

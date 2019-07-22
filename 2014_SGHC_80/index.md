@@ -11,6 +11,6 @@ tags:
   - Family Law
   - Matrimonial home
   - Division
-layout: single
+
 ---
 

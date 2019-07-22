@@ -9,6 +9,6 @@ tags:
   - Civil contempt
   - Penal notice
   - Leave of court
-layout: single
+
 ---
 

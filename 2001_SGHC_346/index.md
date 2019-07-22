@@ -11,6 +11,6 @@ tags:
   - Whether Indonesia more appropriate forum
   - Factors to consider
   - Whether complex issues under Indonesian law relevant
-layout: single
+
 ---
 

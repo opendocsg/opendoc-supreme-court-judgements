@@ -17,6 +17,6 @@ tags:
   - Witnesses
   - Identification evidence
   - Turnbull guidelines
-layout: single
+
 ---
 

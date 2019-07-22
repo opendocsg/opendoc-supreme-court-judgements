@@ -12,7 +12,7 @@ tags:
     Whether notes recorded at pre-trial conference forming part of \"record of
     proceedings\" in Criminal Procedure Code
   - 'Section 400(1) Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 # Salwant Singh s/o Amer Singh v Public Prosecutor (No 2) 
 

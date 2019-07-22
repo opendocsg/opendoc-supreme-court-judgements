@@ -7,6 +7,6 @@ tags:
   - In-house legal counsel
   - Waiver
   - Injunctive relief
-layout: single
+
 ---
 

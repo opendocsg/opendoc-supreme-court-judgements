@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Sentencing Framework
-layout: single
+
 ---
 # Neo Ah Luan v Public Prosecutor 
 

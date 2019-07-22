@@ -12,6 +12,6 @@ tags:
   - costs
   - principles
   - investigations
-layout: single
+
 ---
 

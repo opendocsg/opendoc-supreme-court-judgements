@@ -8,7 +8,7 @@ tags:
   - Tort
   - Defamation
   - Qualified Privilege
-layout: single
+
 ---
 # Low Tuck Kwong v Sukamto Sia 
 

@@ -8,6 +8,6 @@ tags:
   - CRIMINAL PROCEDURE AND SENTENCING
   - Sentenc ing
   - Princ iples
-layout: single
+
 ---
 

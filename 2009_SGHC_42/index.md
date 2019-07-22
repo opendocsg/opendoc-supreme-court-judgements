@@ -8,6 +8,6 @@ tags:
     Non-parties to arbitration clause seeking stay of court proceedings in
     favour of arbitration conducted pursuant thereto
   - Whether non-parties could do so
-layout: single
+
 ---
 

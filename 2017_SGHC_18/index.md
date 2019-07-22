@@ -7,6 +7,6 @@ tags:
   - Trade Marks and Trade Names
   - Defence
   - Exhaustion of rights defence
-layout: single
+
 ---
 

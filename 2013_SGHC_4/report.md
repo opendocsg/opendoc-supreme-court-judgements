@@ -11,7 +11,7 @@ tags:
   - Contract
   - Remedies
   - Damages
-layout: single
+
 ---
 # Centre for Creative Leadership (CCL) Pte Ltd v Byrne Roger Peter and others 
 

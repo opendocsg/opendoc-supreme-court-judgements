@@ -6,7 +6,7 @@ tags:
   - Measure of damages
   - Contract
   - Breach of sub-contract to carry out piling works
-layout: single
+
 ---
 # Resource Piling Pte Ltd v Geocon Piling & Engineering Pte Ltd and Another 
 

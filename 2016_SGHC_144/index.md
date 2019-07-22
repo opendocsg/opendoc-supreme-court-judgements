@@ -6,6 +6,6 @@ tags:
   - Settlement agreement
   - Equity
   - Relief against penalties
-layout: single
+
 ---
 

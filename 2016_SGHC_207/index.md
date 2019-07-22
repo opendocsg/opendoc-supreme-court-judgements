@@ -6,6 +6,6 @@ tags:
   - Contractual terms
   - Copyright
   - Ownership
-layout: single
+
 ---
 

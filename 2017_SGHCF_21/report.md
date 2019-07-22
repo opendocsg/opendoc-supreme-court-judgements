@@ -13,7 +13,7 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Hearsay
-layout: single
+
 ---
 # TSH and another v TSE and another and another appeal and another matter 
 

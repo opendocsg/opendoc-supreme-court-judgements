@@ -30,6 +30,6 @@ tags:
   - >-
     Whether gifts from husband to wife during marriage constituting matrimonial
     assets divisible on divorce
-layout: single
+
 ---
 

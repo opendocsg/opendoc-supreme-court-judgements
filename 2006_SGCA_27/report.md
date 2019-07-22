@@ -45,7 +45,7 @@ tags:
   - Charges
   - Certificate of registration of charge issued
   - Effect of registration
-layout: single
+
 ---
 # Pertamina Energy Trading Limited v Credit Suisse 
 

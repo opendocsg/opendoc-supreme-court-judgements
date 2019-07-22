@@ -11,7 +11,7 @@ tags:
   - distinctiveness
   - Trade Marks and Trade names
   - well-known trade mark
-layout: single
+
 ---
 # Staywell Hospitality Group Pty Ltd v Starwood Hotels & Resorts Worldwide, Inc and another 
 

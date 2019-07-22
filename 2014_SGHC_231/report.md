@@ -5,7 +5,7 @@ tags:
   - Criminal procedure and sentencing
   - sentencing
   - conviction
-layout: single
+
 ---
 # Public Prosecutor v Purushothaman a/l Subramaniam 
 

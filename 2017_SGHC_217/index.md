@@ -8,6 +8,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Appropriate sentencing framework
-layout: single
+
 ---
 

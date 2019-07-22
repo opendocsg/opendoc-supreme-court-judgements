@@ -12,7 +12,7 @@ tags:
     for all units sold
   - Whether stamp duty payable on separate contracts
   - 'Section 33A Stamp Duties Act (Cap 312, 2006 Rev Ed)'
-layout: single
+
 ---
 # UOL Development (Novena) Pte Ltd v Commissioner of Stamp Duties 
 

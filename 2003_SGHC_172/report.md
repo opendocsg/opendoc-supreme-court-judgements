@@ -9,7 +9,7 @@ tags:
     appeal against decision in respect of O 14 application based on original
     statement of claim
   - 'Rules of Court (Cap 322, R 5, 1997 Rev Ed) O 14'
-layout: single
+
 ---
 # Chun Thong Ping v Soh Kok Hong and Another 
 

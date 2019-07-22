@@ -12,6 +12,6 @@ tags:
   - Companies
   - Incorporation of companies
   - Lifting corporate veil
-layout: single
+
 ---
 

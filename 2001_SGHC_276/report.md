@@ -27,7 +27,7 @@ tags:
     Whether separation of accounts alters nature of income earned during
     marriage as matrimonial asset
   - Agreement in contemplation of divorce
-layout: single
+
 ---
 # Foo Tee Sey v Loy Hui Eng 
 

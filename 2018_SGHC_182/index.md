@@ -21,6 +21,6 @@ tags:
   - Variations
   - Planning Law
   - Conservation Areas
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Derivative action
   - Whether applicant acted in good faith
   - Whether prima facie in the company’s interests
-layout: single
+
 ---
 

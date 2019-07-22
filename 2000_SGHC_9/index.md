@@ -13,6 +13,6 @@ tags:
   - Witnesses
   - Impeaching witnesses’ credibility
   - Prior inconsistent statements
-layout: single
+
 ---
 

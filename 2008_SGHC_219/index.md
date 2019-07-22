@@ -10,6 +10,6 @@ tags:
   - >-
     Whether existence of special facts precluded unconditional discharge under s
     124(4)(c) Bankruptcy Act (Cap 20, 2000 Rev Ed)
-layout: single
+
 ---
 

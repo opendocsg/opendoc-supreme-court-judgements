@@ -12,7 +12,7 @@ tags:
   - Advancement
   - Presumption
   - Parent and child jointly holding bank accounts
-layout: single
+
 ---
 # Low Geok Khim (administratrix of the estate of Low Kim Tah, deceased) v Low Geok Bian and 
 

@@ -20,7 +20,7 @@ tags:
     Shares purchased in the name of company in which defendant was director and
     shareholder
   - Whether defendant was in effect trustee of first plaintiff\'s shares.
-layout: single
+
 ---
 # Lin Tsang Kit and Another v Chng Thiam Kwee 
 

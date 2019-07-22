@@ -27,6 +27,6 @@ tags:
   - >-
     Whether entitled to be subrogated to rights of creditors under Facility
     Agreement upon paying plaintiff in first originating summons
-layout: single
+
 ---
 

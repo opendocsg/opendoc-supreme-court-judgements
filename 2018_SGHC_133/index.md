@@ -7,6 +7,6 @@ tags:
   - Guarantees and bonds
   - Building and Construction Law
   - Statutes and regulations
-layout: single
+
 ---
 

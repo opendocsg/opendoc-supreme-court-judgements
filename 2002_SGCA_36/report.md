@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Ng Boo Tan v Collector of Land Revenue 
 

@@ -6,7 +6,7 @@ tags:
   - Offences
   - Hurt
   - Causing hurt to domestic maid
-layout: single
+
 ---
 # Public Prosecutor v Rosman bin Anwar and another appeal 
 

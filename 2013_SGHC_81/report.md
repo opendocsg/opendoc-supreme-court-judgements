@@ -9,7 +9,7 @@ tags:
   - Security
   - International Law
   - Sovereign Immunity
-layout: single
+
 ---
 # Ministry of Rural Development, Fishery, Craft Industry and Environment of the Union of 
 

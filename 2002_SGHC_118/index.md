@@ -17,6 +17,6 @@ tags:
     Causing heavy motor vehicle exceeding four metres in overall height to be
     driven without requisite permit
   - Whether offence of \'causing\' unlawful user one of strict liability
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - One other trafficking charge taken into consideration
   - Accused had previous drug antecedents
   - Whether sentence imposed on accused was crushing
-layout: single
+
 ---
 

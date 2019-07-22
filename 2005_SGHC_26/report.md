@@ -18,7 +18,7 @@ tags:
     Whether accused entitled to discount in sentence if not active participant
     in physical assault
   - 'Section 147 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 # Pannirselvam s/o Anthonisamy v Public Prosecutor 
 

@@ -5,6 +5,6 @@ tags:
   - Credit and Security
   - Guarantees and indemnities
   - Whether defendant signed the guarantee that plaintiff was trying to enforce.
-layout: single
+
 ---
 

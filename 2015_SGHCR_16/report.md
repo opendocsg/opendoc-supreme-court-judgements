@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - setting aside default judgment
   - stay of proceedings
-layout: single
+
 ---
 # PT Selecta Bestama v Sin Huat Huat Marine Transportation Pte Ltd 
 

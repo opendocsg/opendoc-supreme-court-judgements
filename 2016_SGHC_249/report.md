@@ -8,7 +8,7 @@ tags:
   - Arbitration
   - Agreement
   - Governing law
-layout: single
+
 ---
 # BCY v BCZ 
 

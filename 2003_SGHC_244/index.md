@@ -29,6 +29,6 @@ tags:
   - >-
     Whether passed off such products as goods of or connected or associated with
     the plaintiff.
-layout: single
+
 ---
 

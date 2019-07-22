@@ -32,6 +32,6 @@ tags:
   - Petition for grant of probate
   - Evidence of due execution of will
   - O 71 rr 9-13 Rules of Court 1997
-layout: single
+
 ---
 

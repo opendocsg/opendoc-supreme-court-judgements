@@ -21,7 +21,7 @@ tags:
   - >-
     Section 9A Interpretation Act (Cap 1, 2002 Rev Ed), s 136(1)(d) Merchant
     Shipping Act (Cap 179, 1996 Rev Ed)
-layout: single
+
 ---
 # The "Seaway" 
 

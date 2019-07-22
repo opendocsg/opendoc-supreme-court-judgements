@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Winding Up
   - Stay of Proceedings
-layout: single
+
 ---
 

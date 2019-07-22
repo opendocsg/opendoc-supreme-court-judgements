@@ -6,7 +6,7 @@ tags:
   - Defamation
   - Tort
   - Malicious falsehood
-layout: single
+
 ---
 # Low Tuck Kwong v Sukamto Sia 
 

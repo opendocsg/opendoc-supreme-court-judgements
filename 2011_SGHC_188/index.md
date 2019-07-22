@@ -5,6 +5,6 @@ tags:
   - Land
   - Sale of Land
   - Conditions of Sale
-layout: single
+
 ---
 

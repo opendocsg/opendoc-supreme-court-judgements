@@ -5,6 +5,6 @@ tags:
   - Contract
   - Formation
   - Oral agreements
-layout: single
+
 ---
 

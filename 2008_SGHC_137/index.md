@@ -15,6 +15,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Revision of proceedings
   - Whether appropriate for court to exercise revisionary powers
-layout: single
+
 ---
 

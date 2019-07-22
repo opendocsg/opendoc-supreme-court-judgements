@@ -8,6 +8,6 @@ tags:
   - Cheques
   - Forged
   - What constituted \"complete and irreversible payment\" by bank
-layout: single
+
 ---
 

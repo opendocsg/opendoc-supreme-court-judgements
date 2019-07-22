@@ -25,6 +25,6 @@ tags:
     claim on ground that time bar inapplicable because administration remaining
     uncompleted even though right to receive share or interest in estate
     accruing
-layout: single
+
 ---
 

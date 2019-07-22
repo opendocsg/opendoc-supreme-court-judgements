@@ -34,7 +34,7 @@ tags:
   - Appeals
   - Right
   - One tier of appeal as of right for civil cases
-layout: single
+
 ---
 # Virtual Map (Singapore) Pte Ltd v Singapore Land Authority and Another Application 
 

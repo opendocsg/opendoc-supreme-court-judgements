@@ -27,7 +27,7 @@ tags:
     disposing of motion
   - Whether applicants\' notice of motion legally adequate
   - Applicable principles
-layout: single
+
 ---
 # Ng Chye Huey and Another v Public Prosecutor 
 

@@ -14,7 +14,7 @@ tags:
   - >-
     Whether erroneous and substantial misdescription of subject property renders
     agreements void for uncertainty
-layout: single
+
 ---
 # Gn Muey Muey v Goh Poh Choo 
 

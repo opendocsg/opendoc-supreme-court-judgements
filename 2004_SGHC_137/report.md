@@ -21,7 +21,7 @@ tags:
   - >-
     Whether facts of two cases sufficiently similar for there to be parity in
     sentencing
-layout: single
+
 ---
 # Public Prosecutor v Sinsar Trading Pte Ltd 
 

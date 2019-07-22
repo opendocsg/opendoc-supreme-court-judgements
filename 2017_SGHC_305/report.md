@@ -8,7 +8,7 @@ tags:
   - Infringement
   - Trade Marks and Trade Names
   - Border enforcement measures
-layout: single
+
 ---
 # Louis Vuitton Malletier v Megastar Shipping Pte Ltd (PT Alvenindo Sukses Ekspress, third 
 

@@ -17,6 +17,6 @@ tags:
   - >-
     Whether there was intention to create legally binding arrangement with no
     covert arrangement intended
-layout: single
+
 ---
 

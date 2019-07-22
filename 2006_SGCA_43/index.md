@@ -34,6 +34,6 @@ tags:
   - >-
     Whether employee contributorily negligent by failing to observe ordinary
     care which ordinary prudent person would take for own safety
-layout: single
+
 ---
 

@@ -16,7 +16,7 @@ tags:
   - >-
     Plaintiff\'s contract with first defendant containing retention of title
     clause
-layout: single
+
 ---
 # Stahltec Metallhandels GmbH v Chuan Ann Metals Pte Ltd and Others 
 

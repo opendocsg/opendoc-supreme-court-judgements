@@ -5,7 +5,7 @@ tags:
   - Contempt of Court
   - Criminal contempt
   - Sentencing
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Attorney-General _v_ Ong Wui Teck  

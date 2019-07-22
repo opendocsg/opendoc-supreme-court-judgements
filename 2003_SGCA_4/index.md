@@ -8,6 +8,6 @@ tags:
   - Presumption of knowledge
   - Whether rebutted presumption
   - 'Misuse of Drugs Act (Cap 185) s 18(2), 21'
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Invalidity
   - Trade Marks and Trade Names
   - Well-known trade mark
-layout: single
+
 ---
 

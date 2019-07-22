@@ -6,6 +6,6 @@ tags:
   - Disclosure
   - Evidence
   - Witnesses
-layout: single
+
 ---
 

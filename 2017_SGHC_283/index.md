@@ -8,6 +8,6 @@ tags:
   - Insolvency Law
   - Rescue financing
   - Super priority
-layout: single
+
 ---
 

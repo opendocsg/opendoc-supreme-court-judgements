@@ -16,6 +16,6 @@ tags:
     Whether court entitled to draw adverse inference from accused\'s election
     not to testify
   - 'Section 196(2) Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 

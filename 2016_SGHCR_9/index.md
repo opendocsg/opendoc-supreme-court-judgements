@@ -12,6 +12,6 @@ tags:
   - Stay of Proceedings
   - Civil Procedure
   - Inherent Powers
-layout: single
+
 ---
 

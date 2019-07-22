@@ -6,6 +6,6 @@ tags:
   - Bankruptcy
   - Discharge
   - Whether bankruptcy order ought to be discharged
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Family law
   - Maintenance
   - Statutory Interpretation
-layout: single
+
 ---
 # Wan Lai Cheng v Quek Seow Kee 
 

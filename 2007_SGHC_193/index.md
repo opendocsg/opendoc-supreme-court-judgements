@@ -16,6 +16,6 @@ tags:
   - Waiver
   - Waiver by estoppel
   - Scope of doctrine of waiver by estoppel
-layout: single
+
 ---
 

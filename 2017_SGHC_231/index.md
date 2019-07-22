@@ -7,6 +7,6 @@ tags:
   - Damages
   - Measure of damages
   - Tort
-layout: single
+
 ---
 

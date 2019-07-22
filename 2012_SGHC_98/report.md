@@ -5,7 +5,7 @@ tags:
   - Land law
   - easements
   - interference
-layout: single
+
 ---
 # Botanica Pte Ltd v Management Corporation Strata Title Plan No 2040 
 

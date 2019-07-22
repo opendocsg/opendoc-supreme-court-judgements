@@ -11,6 +11,6 @@ tags:
   - Whether leave should be granted
   - Relevant factors
   - Whether undue delay exists
-layout: single
+
 ---
 

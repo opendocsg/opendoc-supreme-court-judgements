@@ -9,7 +9,7 @@ tags:
   - Misrepresentation
   - 'Fraud and deceit, Tort'
   - Conspiracy
-layout: single
+
 ---
 # VisionHealthOne Corp Pte Ltd v HD Holdings Pte Ltd and others (Chan Wai Chuen and 
 

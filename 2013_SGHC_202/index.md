@@ -7,6 +7,6 @@ tags:
   - Duty of care
   - Solicitor and client
   - Identity of client
-layout: single
+
 ---
 

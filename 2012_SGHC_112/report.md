@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - International Taxation
   - Double Taxation Agreement
-layout: single
+
 ---
 # Comptroller of Income Tax v AZP 
 

@@ -9,6 +9,6 @@ tags:
   - Plea of guilty
   - Safeguards
   - s 180(b) Criminal Procedure Code (Cap 68)
-layout: single
+
 ---
 

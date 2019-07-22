@@ -20,7 +20,7 @@ tags:
   - Construction of statute
   - Purposive approach
   - Principles relating to interpreting statute to rectify drafting flaw
-layout: single
+
 ---
 # Kok Chong Weng and Others v Wiener Robert Lorenz and Others (Ankerite Pte Ltd, 
 

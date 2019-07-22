@@ -8,7 +8,7 @@ tags:
   - Companies
   - Oppression
   - Whether alleged oppression continuing up to date of proceedings
-layout: single
+
 ---
 # Quek Hong Yap v Quek Bee Leng and Others 
 

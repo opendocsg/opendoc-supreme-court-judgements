@@ -7,7 +7,7 @@ tags:
   - Contract
   - Contractual terms
   - Interpretation
-layout: single
+
 ---
 # CIFG Special Assets Capital I Ltd (formerly known as Diamond Kendall Ltd) v Ong Puay Koon 
 

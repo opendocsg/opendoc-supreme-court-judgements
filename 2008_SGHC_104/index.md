@@ -30,6 +30,6 @@ tags:
     with or similar to those for which earlier mark was protected
   - Whether there would be likelihood of confusion on part of public
   - 'Section 8(2) Trade Marks Act (Cap 332, 1999 Rev Ed)'
-layout: single
+
 ---
 

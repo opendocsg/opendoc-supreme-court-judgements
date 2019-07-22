@@ -9,7 +9,7 @@ tags:
     Whether Court of Appeal having jurisdiction to hear appeal against High
     Court\'s dismissal of criminal motion for extension of time to file notice
     and petition of appeal from magistrate\'s court
-layout: single
+
 ---
 # Kiew Ah Cheng David v Public Prosecutor 
 

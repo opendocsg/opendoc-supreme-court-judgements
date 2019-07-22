@@ -23,7 +23,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Whether sentence manifestly excessive
-layout: single
+
 ---
 # Than Stenly Granida Purwanto v Public Prosecutor 
 

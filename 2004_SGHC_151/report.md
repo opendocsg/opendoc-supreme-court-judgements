@@ -19,7 +19,7 @@ tags:
   - Stay of proceedings on condition of security for costs being furnished
   - Whether order for security excessive
   - 'The Schedule of the Bankruptcy (Costs) Rules (Cap 20, R 2, 2000 Rev Ed)'
-layout: single
+
 ---
 # Lee Kiang Leng Stanley v Lee Han Chew (trading as Joe Li Electrical Supplies) 
 

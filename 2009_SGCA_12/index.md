@@ -6,6 +6,6 @@ tags:
   - Breach
   - Construction of contracts
   - Whether clauses were dependent or independent obligations
-layout: single
+
 ---
 

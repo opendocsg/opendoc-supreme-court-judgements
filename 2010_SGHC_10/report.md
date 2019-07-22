@@ -11,7 +11,7 @@ tags:
   - Criminal law
   - Offences
   - Rape
-layout: single
+
 ---
 # Public Prosecutor v Robiul Bhoreshuddin Mondal 
 

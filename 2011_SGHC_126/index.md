@@ -5,6 +5,6 @@ tags:
   - Building and Construction Law
   - Damages
   - Liquidated Damages
-layout: single
+
 ---
 

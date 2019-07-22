@@ -5,7 +5,7 @@ tags:
   - Companies
   - Oppression
   - Minority Shareholders
-layout: single
+
 ---
 # Tan Eck Hong v Maxz Universal Development Group Pte Ltd and others 
 

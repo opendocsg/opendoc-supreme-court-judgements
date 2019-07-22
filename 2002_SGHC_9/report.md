@@ -6,7 +6,7 @@ tags:
   - Accountants
   - Duty of auditors
   - Standard of care required of auditors
-layout: single
+
 ---
 # Tay Kim Chuan Patrick v Public Accountants Board 
 

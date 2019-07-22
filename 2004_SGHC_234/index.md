@@ -12,6 +12,6 @@ tags:
     Defendant claimed there was an oral contract with plaintiff under which
     plaintiff was to pay defendant commission
   - Whether oral contract was concluded.
-layout: single
+
 ---
 

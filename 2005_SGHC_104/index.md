@@ -31,6 +31,6 @@ tags:
   - Whether actions of first defendant amounting to repudiation of contract
   - Whether third parties wrongfully rescinded contract
   - Whether third parties liable to indemnify defendants
-layout: single
+
 ---
 

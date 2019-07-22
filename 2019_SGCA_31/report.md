@@ -10,7 +10,7 @@ tags:
   - Striking Out
   - Patents and Inventions
   - Infringement
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Millennium Pharmaceuticals, Inc _v_ Drug Houses of Australia Pte Ltd and another appeal  

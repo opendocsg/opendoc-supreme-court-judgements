@@ -19,6 +19,6 @@ tags:
   - Conspiracy
   - Tort
   - Conversion
-layout: single
+
 ---
 

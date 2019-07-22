@@ -12,7 +12,7 @@ tags:
   - Enforcement
   - Singapore award
   - Refusal of enforcement
-layout: single
+
 ---
 # GD Midea Air Conditioning Equipment Co Ltd v Tornado Consumer Goods Ltd and another 
 

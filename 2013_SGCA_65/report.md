@@ -8,7 +8,7 @@ tags:
   - Trade Names
   - Trade Marks
   - Passing off
-layout: single
+
 ---
 # Staywell Hospitality Group Pty Ltd v Starwood Hotels & Resorts Worldwide, Inc and another 
 

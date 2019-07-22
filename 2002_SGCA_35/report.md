@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Tan Chin Seng and Others v Raffles Town Club Pte Ltd 
 

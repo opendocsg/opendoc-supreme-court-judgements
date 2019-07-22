@@ -7,6 +7,6 @@ tags:
   - Restraint of Proceedings
   - Companies
   - Winding Up
-layout: single
+
 ---
 

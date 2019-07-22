@@ -5,6 +5,6 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Court’s discretion under Arbitration Act
-layout: single
+
 ---
 

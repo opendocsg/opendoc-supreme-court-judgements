@@ -7,6 +7,6 @@ tags:
   - Damages
   - measure of damages
   - personal injuries cases
-layout: single
+
 ---
 

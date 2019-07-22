@@ -26,7 +26,7 @@ tags:
   - >-
     Whether legislative intent may be gathered from subsequent amendments to
     legislation
-layout: single
+
 ---
 # Harris Hakim v Allgreen Properties Ltd 
 

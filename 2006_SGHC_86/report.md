@@ -18,7 +18,7 @@ tags:
   - >-
     Whether plaintiff\'s assignment of debt owed to third party to defendant
     while plaintiff insolvent amounting to unfair preference
-layout: single
+
 ---
 # Leun Wah Electric Co (Pte) Ltd (in liquidation) v Sigma Cable Co (Pte) Ltd 
 

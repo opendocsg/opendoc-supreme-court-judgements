@@ -6,7 +6,7 @@ tags:
   - Receiver and manager
   - Judicial management order
   - Extension of judicial management order
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # _Re_ CNA Group Ltd  

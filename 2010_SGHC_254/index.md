@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Costs
   - Indemnity basis
-layout: single
+
 ---
 

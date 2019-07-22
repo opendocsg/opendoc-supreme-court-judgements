@@ -6,7 +6,7 @@ tags:
   - Contractual terms
   - Copyright
   - Ownership
-layout: single
+
 ---
 # Lee Wei Ling and another v Attorney-General 
 

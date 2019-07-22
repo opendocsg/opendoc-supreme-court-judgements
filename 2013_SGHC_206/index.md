@@ -5,6 +5,6 @@ tags:
   - Contract
   - Illegality and public policy
   - Statutory illegality
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Breach
   - Contract
   - Misrepresentation
-layout: single
+
 ---
 

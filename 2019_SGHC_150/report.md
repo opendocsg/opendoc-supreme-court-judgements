@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Central Provident Fund Act
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Jurong Country Club and another appeal  

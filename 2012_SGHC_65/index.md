@@ -7,6 +7,6 @@ tags:
   - Presumed Resulting Trusts
   - Equity
   - Proprietary Estoppel
-layout: single
+
 ---
 

@@ -16,6 +16,6 @@ tags:
   - Frustration
   - Foreseeability
   - Whether contract frustrated when risk of not procuring access to land known.
-layout: single
+
 ---
 

@@ -15,6 +15,6 @@ tags:
   - >-
     Whether indemnity clause applying to situation of concurrent causes and
     extent of indemnity available to statutory board
-layout: single
+
 ---
 

@@ -17,7 +17,7 @@ tags:
   - >-
     Whether fact that default judgment entered against one of two defendants
     making declaratory order against other defendant unnecessary
-layout: single
+
 ---
 # Paillart Philippe Marcel Etienne and Another v Eban Stuart Ashley and Another 
 

@@ -7,7 +7,7 @@ tags:
   - Principles
   - Road Traffic
   - Offences
-layout: single
+
 ---
 # Public Prosecutor v Koh Thiam Huat 
 

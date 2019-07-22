@@ -6,6 +6,6 @@ tags:
   - arbitrability and public policy
   - Arbitration
   - stay of court proceedings
-layout: single
+
 ---
 

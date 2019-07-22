@@ -8,6 +8,6 @@ tags:
   - >-
     Whether the appeal misconceived for being premised on facts not found by the
     arbitrator
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - CRIMINAL PROCEDURE AND SENTENCING
   - sentencing
   - appeals
-layout: single
+
 ---
 

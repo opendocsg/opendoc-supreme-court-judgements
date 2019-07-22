@@ -10,7 +10,7 @@ tags:
   - Particular causes of action
   - Judgments
   - 's 6(3), Limitation Act (Cap 163, 1996 Rev Ed.)'
-layout: single
+
 ---
 # Victor Adam Ibrahim v Tan Kim Seng trading as Hock Huat Engineering 
 

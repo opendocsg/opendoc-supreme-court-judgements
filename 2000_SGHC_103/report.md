@@ -17,7 +17,7 @@ tags:
   - Powers of sentencing court
   - Jurisdictional limit of district court
   - 'ss 11(3) & 17 Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Perumal s/o Suppiah 
 

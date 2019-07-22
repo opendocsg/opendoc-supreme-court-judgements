@@ -5,6 +5,6 @@ tags:
   - Criminal law
   - offences
   - murder
-layout: single
+
 ---
 

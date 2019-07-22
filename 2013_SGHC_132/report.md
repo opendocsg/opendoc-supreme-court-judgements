@@ -5,7 +5,7 @@ tags:
   - Tort
   - Negligence
   - Contributory Negligence
-layout: single
+
 ---
 # Quek Yen Fei Kenneth v Yeo Chye Huat 
 

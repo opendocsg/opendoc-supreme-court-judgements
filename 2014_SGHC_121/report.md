@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory Offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Nandakishor s/o Raj Pat Ahir v Public Prosecutor 
 

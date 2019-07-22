@@ -5,6 +5,6 @@ tags:
   - Trade marks and trade names
   - infringement
   - passing off
-layout: single
+
 ---
 

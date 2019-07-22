@@ -64,7 +64,7 @@ tags:
   - Death penalty under Misuse of Drugs Act
   - Whether maximum sentence or mandatory sentence
   - 'Section 7 Misuse of Drugs Act (Cap 185, 2001 Rev Ed)'
-layout: single
+
 ---
 # Nguyen Tuong Van v Public Prosecutor 
 

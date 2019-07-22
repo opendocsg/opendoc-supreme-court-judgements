@@ -9,7 +9,7 @@ tags:
   - Contract
   - Remedies
   - Damages
-layout: single
+
 ---
 # Columbia Asia Healthcare Sdn Bhd v Hong Hin Kit Edward and another and another appeal 
 

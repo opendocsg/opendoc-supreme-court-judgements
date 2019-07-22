@@ -8,6 +8,6 @@ tags:
   - Conflict of Laws
   - Choice of law
   - Corporations
-layout: single
+
 ---
 

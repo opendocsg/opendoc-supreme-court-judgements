@@ -9,6 +9,6 @@ tags:
   - breach of contract
   - effect of breach
   - section 13 Sale of Goods Act
-layout: single
+
 ---
 

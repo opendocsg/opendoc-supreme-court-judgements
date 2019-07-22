@@ -26,6 +26,6 @@ tags:
   - Extension of validity
   - Whether balance of hardship per se good reason for extension
   - Need for matters constituting good reason to exist
-layout: single
+
 ---
 

@@ -16,7 +16,7 @@ tags:
   - >-
     Whether loss of opportunity to appeal attributable to failure of solicitor
     to advise on deadline to appeal.
-layout: single
+
 ---
 # Chew Kim Kee v Kertar and Co 
 

@@ -5,6 +5,6 @@ tags:
   - Admiralty and Shipping
   - Admiralty jurisdiction and arrest
   - Action
-layout: single
+
 ---
 

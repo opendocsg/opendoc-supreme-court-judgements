@@ -7,7 +7,7 @@ tags:
   - Legal Profession
   - Professional Conduct
   - Breach
-layout: single
+
 ---
 # Law Society of Singapore v Chan Chun Hwee Allan 
 

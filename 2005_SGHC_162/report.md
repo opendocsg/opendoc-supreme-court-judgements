@@ -13,7 +13,7 @@ tags:
   - >-
     Whether defendant induced to enter into tenancy agreement by alleged
     representation
-layout: single
+
 ---
 # Lim Kau Tee and Another v Lee Kay Li 
 

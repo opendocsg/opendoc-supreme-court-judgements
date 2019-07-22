@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Striking out
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Bae Junho _v_ Daimwood, Samuel Lathan and another  

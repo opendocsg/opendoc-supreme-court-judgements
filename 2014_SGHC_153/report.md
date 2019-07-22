@@ -7,7 +7,7 @@ tags:
   - Criminal procedure and sentencing
   - Appeal
   - plea of guilty
-layout: single
+
 ---
 # Tan Kian Tiong v Public Prosecutor 
 

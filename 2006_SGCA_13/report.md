@@ -20,7 +20,7 @@ tags:
   - Whether expenses incurred prior to commencing of business
   - Whether expenses incurred in production of income
   - 'Sections 10(1)(a), 14(1), 37(2)(a) Income Tax Act (Cap 134, 1999 Rev Ed)'
-layout: single
+
 ---
 # T Ltd v Comptroller of Income Tax 
 

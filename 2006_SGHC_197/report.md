@@ -8,7 +8,7 @@ tags:
   - >-
     Appeal against District Court\'s orders on access, maintenance and division
     of matrimonial assets
-layout: single
+
 ---
 # BF v BG 
 

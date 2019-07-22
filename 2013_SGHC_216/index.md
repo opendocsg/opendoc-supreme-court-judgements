@@ -7,6 +7,6 @@ tags:
   - Companies
   - Direc tors
   - Duties
-layout: single
+
 ---
 

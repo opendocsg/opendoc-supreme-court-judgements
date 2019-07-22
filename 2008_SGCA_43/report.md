@@ -9,7 +9,7 @@ tags:
     Whether Chief Assessor correct in not excluding from gross rental
     contributions payable towards sinking fund and special levy
   - 'Sections 2(1), 2(7) Property Tax Act (Cap 254, 2005 Rev Ed)'
-layout: single
+
 ---
 # Tan Hee Liang v Chief Assessor and Another 
 

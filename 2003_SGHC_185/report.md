@@ -17,7 +17,7 @@ tags:
   - Pleadings
   - Amendment
   - Whether court should consider matters deleted by amendment
-layout: single
+
 ---
 # Trek Technology (Singapore) Pte Ltd v FE Global Electronics Pte Ltd and Others and Another 
 

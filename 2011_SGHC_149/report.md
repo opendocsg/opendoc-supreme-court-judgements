@@ -5,7 +5,7 @@ tags:
   - Banking
   - Statement of account
   - Verification clauses
-layout: single
+
 ---
 # Jiang Ou v EFG Bank AG 
 

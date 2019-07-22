@@ -17,6 +17,6 @@ tags:
   - Contract
   - Contractual terms
   - Incorporation of terms and conditions found in external document
-layout: single
+
 ---
 

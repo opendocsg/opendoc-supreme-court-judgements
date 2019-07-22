@@ -12,7 +12,7 @@ tags:
     Whether the contractors had breached the implied terms of the contract to
     supply equipment of a satisfactory quality and to carry out work with
     reasonable care and skill.
-layout: single
+
 ---
 # Adventure Training Systems (Asia-Pacific) Pte Ltd v Signature Lifestyle Pte Ltd (Adventure 
 

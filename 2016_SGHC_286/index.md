@@ -6,6 +6,6 @@ tags:
   - Appeal
   - Sentencing
   - Sexual assault by penetration
-layout: single
+
 ---
 

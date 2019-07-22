@@ -34,7 +34,7 @@ tags:
     Inevitability of misconception when businesses adopt similar descriptive
     names
   - Whether desirable to grant respondents their claim
-layout: single
+
 ---
 # Lifestyle 1.99 Pte Ltd v S$1.99 Pte Ltd (trading as ONE.99 SHOP) 
 

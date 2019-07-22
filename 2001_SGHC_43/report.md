@@ -9,7 +9,7 @@ tags:
   - >-
     Whether such clause prohibited under Workmen\'s Compensation Insurance
     Regulations (Cap 354, Reg 3, 1990 Ed) reg 2(1)
-layout: single
+
 ---
 # Liberty Citystate Insurance Pte Ltd v AXA Insurance Singapore Pte Ltd 
 

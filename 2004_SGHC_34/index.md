@@ -20,6 +20,6 @@ tags:
   - >-
     Whether failure to comply with contractual specifications amounted to
     \"defective work\".
-layout: single
+
 ---
 

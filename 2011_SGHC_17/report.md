@@ -20,7 +20,7 @@ tags:
     Offences under the Public Entertainments and Meetings Act (Cap 257, 2001 Rev
     Ed)
   - Making an address in a public place without a licence
-layout: single
+
 ---
 # Chee Soon Juan and another v Public Prosecutor 
 

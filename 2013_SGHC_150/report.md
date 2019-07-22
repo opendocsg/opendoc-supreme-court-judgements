@@ -7,7 +7,7 @@ tags:
   - Criminal Law
   - Elements of crime
   - Mens rea
-layout: single
+
 ---
 # Public Prosecutor v Chum Tat Suan 
 

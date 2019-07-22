@@ -6,7 +6,7 @@ tags:
   - Derivative action
   - Whether applicant acted in good faith
   - Whether prima facie in the company’s interests
-layout: single
+
 ---
 # Yeo Sing San v Sanmugam Murali and another 
 

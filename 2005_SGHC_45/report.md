@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Benchmark sentences
   - Culpable homicide
-layout: single
+
 ---
 # Public Prosecutor v Teo Chee Seng 
 

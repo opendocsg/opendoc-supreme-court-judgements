@@ -5,6 +5,6 @@ tags:
   - FAMILY LAW
   - Husband and wife
   - Agreements between
-layout: single
+
 ---
 

@@ -22,7 +22,7 @@ tags:
   - >-
     Whether validator and witness could and should have excused themselves from
     deliberations
-layout: single
+
 ---
 # Mohamed Ismail bin Ibrahim and Another v Mohammad Taha bin Ibrahim 
 

@@ -7,6 +7,6 @@ tags:
   - >-
     Whether patient\'s parents or husband should be appointed committee of the
     person and estate of the patient
-layout: single
+
 ---
 

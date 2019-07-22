@@ -19,7 +19,7 @@ tags:
   - Change of position
   - Words and Phrases
   - \'Compromise\'
-layout: single
+
 ---
 # Info-communications Development Authority of Singapore v Singapore Telecommunications 
 

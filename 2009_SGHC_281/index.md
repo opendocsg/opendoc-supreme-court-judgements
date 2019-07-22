@@ -9,6 +9,6 @@ tags:
   - Trusts
   - Trustees
   - Appointment
-layout: single
+
 ---
 

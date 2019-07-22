@@ -6,7 +6,7 @@ tags:
   - Matrimonial assets
   - Division
   - Maintenance
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # USA _v_ USB  

@@ -8,7 +8,7 @@ tags:
     Application for stay of execution pending appeal against interlocutory order
     for mandatory injunction
   - Whether circumstances justify stay of execution
-layout: single
+
 ---
 # Swiss Singapore Overseas Enterprise Pte Ltd v Navalmar UK Ltd (No 2) 
 

@@ -8,6 +8,6 @@ tags:
   - Conflict of laws
   - Choice of jurisdiction
   - Exclusive
-layout: single
+
 ---
 

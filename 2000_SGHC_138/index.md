@@ -8,6 +8,6 @@ tags:
   - Application by husband for downward variation of order
   - Husband divesting assets and unable to pay
   - Whether downward variation should be granted
-layout: single
+
 ---
 

@@ -13,7 +13,7 @@ tags:
     Scope of court\'s power to make incidental direction not involving decision
     of appeal
   - 'Section 36(1) Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed)'
-layout: single
+
 ---
 # Sumitomo Corp Capital Asia Pte Ltd v Salim Anthony and Other Applications 
 

@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Voluntarily causing grievous hurt
   - Road rage
-layout: single
+
 ---
 

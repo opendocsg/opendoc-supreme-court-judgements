@@ -5,7 +5,7 @@ tags:
   - Copyright
   - Remedies
   - Blocking orders
-layout: single
+
 ---
 # Disney Enterprises, Inc and Others v M1 Ltd and others 
 

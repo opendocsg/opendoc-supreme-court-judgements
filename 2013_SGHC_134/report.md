@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Elements of Crime
   - Mens Rea
-layout: single
+
 ---
 # Buergin Juerg v Public Prosecutor 
 

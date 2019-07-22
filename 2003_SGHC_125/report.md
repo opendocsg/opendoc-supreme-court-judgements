@@ -12,7 +12,7 @@ tags:
   - Plaintiff seeking to amend Statement of Claim in course of trial
   - Whether new facts were raised and time would be saved
   - Whether defendant would be put at a disadvantage
-layout: single
+
 ---
 # Wee Soon Kim Anthony v UBS AG (No 2) 
 

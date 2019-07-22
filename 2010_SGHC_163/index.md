@@ -13,6 +13,6 @@ tags:
   - Companies
   - Directors
   - Shadow directors
-layout: single
+
 ---
 

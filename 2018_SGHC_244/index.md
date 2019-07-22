@@ -8,6 +8,6 @@ tags:
   - Negligence
   - Motor accident
   - Liability
-layout: single
+
 ---
 

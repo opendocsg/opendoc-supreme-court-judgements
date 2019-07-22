@@ -11,7 +11,7 @@ tags:
   - Family law
   - Child
   - Maintenance of child
-layout: single
+
 ---
 # ARX v ARY 
 

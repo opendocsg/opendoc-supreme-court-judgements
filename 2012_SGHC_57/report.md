@@ -11,7 +11,7 @@ tags:
   - trust property
   - accessory liability
   - knowing receipt
-layout: single
+
 ---
 # Panweld Trading Pte Ltd v Yong Kheng Leong and others (Loh Yong Lim, third party) 
 

@@ -10,7 +10,7 @@ tags:
   - presumed resulting trusts
   - Equity
   - mistake
-layout: single
+
 ---
 # Mak Saw Ching v Yam Hui Min, Barbara Rebecca 
 

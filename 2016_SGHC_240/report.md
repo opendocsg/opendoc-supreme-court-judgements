@@ -14,7 +14,7 @@ tags:
   - Subcontracts
   - Contract
   - Limitation Act
-layout: single
+
 ---
 # Geocon Piling & Engineering Pte Ltd (in compulsory liquidation) v Multistar Holdings Ltd 
 

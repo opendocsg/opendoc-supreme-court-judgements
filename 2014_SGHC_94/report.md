@@ -12,7 +12,7 @@ tags:
   - Tort
   - Negligence
   - Breach of duty
-layout: single
+
 ---
 # Straits Advisors Pte Ltd v Michael Deeb (alias Magdi Salah El-Deeb) and others 
 

@@ -30,6 +30,6 @@ tags:
   - Judicial management order
   - Objectives
   - Effect
-layout: single
+
 ---
 

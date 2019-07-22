@@ -9,7 +9,7 @@ tags:
   - >-
     Whether loan repayable by garnishee to judgment debtor on demand can be
     garnished without prior demand by judgment debtor on garnishee
-layout: single
+
 ---
 # Sincere Watch Limited v Bakery Mart Pte Ltd (Ng Yew Hong, Third Party) 
 

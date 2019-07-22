@@ -10,6 +10,6 @@ tags:
   - Equity
   - Satisfaction
   - Minimalist approach
-layout: single
+
 ---
 

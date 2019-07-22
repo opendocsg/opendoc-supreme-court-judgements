@@ -7,6 +7,6 @@ tags:
   - Building and Construction Law
   - Construction Torts
   - Neighbouring Properties
-layout: single
+
 ---
 

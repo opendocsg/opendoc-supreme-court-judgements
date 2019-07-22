@@ -4,7 +4,7 @@ title: >-
   Limited
 subtitle: "[2014] SGHC 123 / 30\_June\_2014"
 tags: null
-layout: single
+
 ---
 # Manharlal Trikamdas Mody and another v Sumikin Bussan International (HK) Limited 
 

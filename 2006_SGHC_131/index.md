@@ -15,6 +15,6 @@ tags:
   - Whether plaintiff illegal moneylender
   - Whether agreement for such arrangement illegal and unenforceable
   - 'Section 2, 3 Moneylenders Act (Cap 188, 1985 Rev Ed)'
-layout: single
+
 ---
 

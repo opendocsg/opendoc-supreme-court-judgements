@@ -14,6 +14,6 @@ tags:
   - Tort
   - Occupier’s liability
   - Duty of care
-layout: single
+
 ---
 

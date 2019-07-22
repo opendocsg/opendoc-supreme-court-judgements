@@ -8,7 +8,7 @@ tags:
   - Land
   - Sale of land
   - Clause requiring purchaser to use best endeavours to apply for approval
-layout: single
+
 ---
 # Group Exklusiv Pte Ltd v Diethelm Singapore Pte Ltd 
 

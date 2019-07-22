@@ -38,6 +38,6 @@ tags:
   - Damages
   - Interest payable on damages
   - Appropriate rate of interest
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Criminal Law
   - general exceptions
   - unsoundness of mind
-layout: single
+
 ---
 # Public Prosecutor v Choo Peng Kuen 
 

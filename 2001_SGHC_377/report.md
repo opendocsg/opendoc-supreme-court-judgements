@@ -19,7 +19,7 @@ tags:
   - Sovereign immunity
   - Whether Singapore court has jurisdiction over independent foreign sovereign
   - s 17 State Immunity Act (Cap 313)
-layout: single
+
 ---
 # Praptono Honggopati Tjitrohupojo and Others v His Royal Highness Tunku Ibrahim Ismail Ibni 
 

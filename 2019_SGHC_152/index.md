@@ -8,6 +8,6 @@ tags:
   - Constructive trusts
   - Breach of trust
   - Remedies
-layout: single
+
 ---
 

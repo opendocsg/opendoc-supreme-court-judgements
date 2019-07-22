@@ -11,7 +11,7 @@ tags:
   - Courts and Jurisdiction
   - Jurisdiction
   - Original
-layout: single
+
 ---
 # Citiwall Safety Glass Pte Ltd v Mansource Interior Pte Ltd 
 

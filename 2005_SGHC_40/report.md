@@ -19,7 +19,7 @@ tags:
   - >-
     Plaintiff insurer claiming defendant insurer legally obligated to contribute
     towards any payment made by plaintiff to common insured
-layout: single
+
 ---
 # China Insurance Co (Singapore) Pte Ltd v Liberty Insurance Pte Ltd (formerly known as 
 

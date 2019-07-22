@@ -25,6 +25,6 @@ tags:
   - >-
     Rules 3(1), 7(1)(a) Legal Profession (Solicitors\' Accounts) Rules (Cap 161,
     R 8, 1999 Rev Ed)
-layout: single
+
 ---
 

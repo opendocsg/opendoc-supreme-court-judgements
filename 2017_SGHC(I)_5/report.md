@@ -11,7 +11,7 @@ tags:
   - Conversion of Shares
   - Trusts
   - Constructive Trusts
-layout: single
+
 ---
 # CPIT Investments Ltd v Qilin World Capital Ltd and another 
 

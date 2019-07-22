@@ -8,6 +8,6 @@ tags:
   - Evidence
   - Burden of proof
   - Confession and avoidance defence
-layout: single
+
 ---
 

@@ -26,7 +26,7 @@ tags:
   - Malicious falsehood
   - Tort
   - Conspiracy
-layout: single
+
 ---
 # Isabel Redrup Agency Pte Ltd v A L Dakshnamoorthy and others and another suit 
 

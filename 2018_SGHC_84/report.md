@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - appeals
   - leave
-layout: single
+
 ---
 # Edmund Tie & Company (SEA) Pte Ltd v Savills Residential Pte Ltd 
 

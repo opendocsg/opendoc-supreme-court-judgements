@@ -9,6 +9,6 @@ tags:
   - Hours of work
   - Employment law
   - Termination
-layout: single
+
 ---
 

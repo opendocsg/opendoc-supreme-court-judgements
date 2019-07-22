@@ -16,6 +16,6 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Hearsay
-layout: single
+
 ---
 

@@ -20,7 +20,7 @@ tags:
     Whether appellant committed an offence under s 57(1)(k) of the Immigration
     Act (Cap 133, 1997 Rev Ed) read with s 109 of the Penal Code (Cap 224, 1985
     Rev Ed).
-layout: single
+
 ---
 # Lau Khee Leong v Public Prosecutor 
 

@@ -21,7 +21,7 @@ tags:
   - Building and construction law
   - building and construction related contracts
   - guarantees and bonds
-layout: single
+
 ---
 # CAA Technologies Pte Ltd v HP Construction & Engineering Pte Ltd 
 

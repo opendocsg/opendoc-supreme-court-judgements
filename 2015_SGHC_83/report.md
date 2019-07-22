@@ -9,7 +9,7 @@ tags:
   - Tort
   - Misrepresentation
   - Fraud and deceit
-layout: single
+
 ---
 # Tiananmen KTV (2013) Pte Ltd and others v Furama Pte Ltd 
 

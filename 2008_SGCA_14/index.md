@@ -46,6 +46,6 @@ tags:
   - Words and Phrases
   - \"Step in the proceedings\"
   - 'Section 4(3)(b) State Immunity Act (Cap 313, 1985 Rev Ed)'
-layout: single
+
 ---
 

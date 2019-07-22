@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - Stamp Duties
   - Appeals
-layout: single
+
 ---
 # Asia Development Pte Ltd v Commissioner of Stamp Duties 
 

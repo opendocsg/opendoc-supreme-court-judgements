@@ -11,6 +11,6 @@ tags:
   - Certainties
   - Certainty of intention
   - Certainty of subject matter
-layout: single
+
 ---
 

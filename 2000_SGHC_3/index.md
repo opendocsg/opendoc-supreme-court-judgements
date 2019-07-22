@@ -7,6 +7,6 @@ tags:
   - Stay of execution pending appeal
   - Whether special circumstances exist to justify grant of stay
   - Plaintiffs seeking specific performance of contract
-layout: single
+
 ---
 

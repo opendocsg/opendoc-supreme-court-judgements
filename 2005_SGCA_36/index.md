@@ -14,6 +14,6 @@ tags:
   - >-
     Whether court should refuse to grant stay on ground doctrine of forum non
     conveniens not applicable where foreign forum not court of law
-layout: single
+
 ---
 

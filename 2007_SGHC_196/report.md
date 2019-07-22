@@ -5,7 +5,7 @@ tags:
   - Contract
   - Illegality and public policy
   - Agreement between two companies for allotment of shares
-layout: single
+
 ---
 # Koon Seng Construction Pte Ltd v Chenab Contractor Pte Ltd and Another 
 

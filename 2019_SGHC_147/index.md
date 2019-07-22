@@ -5,6 +5,6 @@ tags:
   - Contempt of Court
   - Criminal contempt
   - Sentencing
-layout: single
+
 ---
 

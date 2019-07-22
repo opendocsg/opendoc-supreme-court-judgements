@@ -27,7 +27,7 @@ tags:
     Custody of drug exhibits handed over from one investigating officer to
     another before being sent for analysis
   - Whether there were gaps in chain of evidence.
-layout: single
+
 ---
 # Public Prosecutor v Chew Seow Leng 
 

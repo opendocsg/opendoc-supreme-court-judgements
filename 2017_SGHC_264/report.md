@@ -13,7 +13,7 @@ tags:
   - Stay of proceedings
   - Res judicata
   - Abuse of process
-layout: single
+
 ---
 # iTronic Holdings Pte Ltd v Tan Swee Leon 
 

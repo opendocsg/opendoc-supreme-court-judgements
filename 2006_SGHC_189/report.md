@@ -20,7 +20,7 @@ tags:
     Whether not affording party opportunity to be heard on matter decided on but
     not raised in pleadings amounting to breach of natural justice and ground
     for setting aside of arbitral award
-layout: single
+
 ---
 # Fairmount Development Pte Ltd v Soh Beng Tee & Co Pte Ltd 
 

@@ -16,6 +16,6 @@ tags:
   - Companies
   - Directors
   - De facto
-layout: single
+
 ---
 

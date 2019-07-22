@@ -6,7 +6,7 @@ tags:
   - Remuneration
   - Legal profession
   - Bill of costs
-layout: single
+
 ---
 # H&C S Holdings Pte Ltd v Gabriel Law Corp 
 

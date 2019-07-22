@@ -13,6 +13,6 @@ tags:
   - Contract
   - Mistake
   - Non est factum
-layout: single
+
 ---
 

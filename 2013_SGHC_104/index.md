@@ -7,6 +7,6 @@ tags:
   - Damages
   - assessment
   - loss of dependency
-layout: single
+
 ---
 

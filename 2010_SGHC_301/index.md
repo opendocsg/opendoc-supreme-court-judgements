@@ -7,6 +7,6 @@ tags:
   - Tort
   - Misrepresentation
   - Fraud and deceit
-layout: single
+
 ---
 

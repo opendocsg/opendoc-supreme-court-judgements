@@ -6,7 +6,7 @@ tags:
   - Child
   - International Law
   - Conventions
-layout: single
+
 ---
 # BDU v BDT 
 

@@ -36,6 +36,6 @@ tags:
   - >-
     Whether application of principle of parity of sentence with other
     accomplices appropriate
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
     Defendant relying on contractual clause referring to rules of Cocoa
     Merchants\' Association of America
   - Whether arbitration clause incorporated by reference
-layout: single
+
 ---
 # Teck Guan Sdn Bhd v Beow Guan Enterprises Pte Ltd 
 

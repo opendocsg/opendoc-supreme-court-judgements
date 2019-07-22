@@ -11,6 +11,6 @@ tags:
   - Sentencing
   - Mitigating factors
   - Whether mental condition a mitigating factor
-layout: single
+
 ---
 

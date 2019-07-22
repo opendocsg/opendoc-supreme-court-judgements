@@ -26,7 +26,7 @@ tags:
   - >-
     Whether tax agent liable for pure economic loss suffered by company as
     result of tax agent\'s failure to warn company accordingly
-layout: single
+
 ---
 # United Project Consultants Pte Ltd v Leong Kwok Onn (trading as Leong Kwok Onn & Co) 
 

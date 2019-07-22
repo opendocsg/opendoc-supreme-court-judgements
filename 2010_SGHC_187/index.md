@@ -4,6 +4,6 @@ title: >-
   suit
 subtitle: "[2010] SGHC 187 / 30\_June\_2010"
 tags: null
-layout: single
+
 ---
 

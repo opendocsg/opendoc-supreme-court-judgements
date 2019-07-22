@@ -5,6 +5,6 @@ tags:
   - Landlord and tenant
   - Distress for Rent
   - Illegal distress
-layout: single
+
 ---
 

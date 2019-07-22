@@ -5,7 +5,7 @@ tags:
   - Land
   - Strata titles
   - Collective sales
-layout: single
+
 ---
 # Ramachandran Jayakumar and another v Woo Hon Wai and others and another matter 
 

@@ -26,6 +26,6 @@ tags:
   - Sentencing
   - Principles
   - Whether sentence imposed by judge below manifestly inadequate
-layout: single
+
 ---
 

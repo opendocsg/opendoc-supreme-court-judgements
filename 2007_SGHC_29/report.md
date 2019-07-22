@@ -22,7 +22,7 @@ tags:
   - >-
     Whether architect having power at any time to issue further interim
     certificate correcting any error in earlier interim certificate
-layout: single
+
 ---
 # Anwar Siraj and Another v Teo Hee Lai Building Construction Pte Ltd 
 

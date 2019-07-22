@@ -13,7 +13,7 @@ tags:
   - Sentencing
   - Principles
   - Discretion to impose imprisonment in lieu of caning
-layout: single
+
 ---
 # Public Prosecutor v Chua Hock Leong 
 

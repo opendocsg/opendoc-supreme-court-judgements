@@ -19,6 +19,6 @@ tags:
   - >-
     Rule 25(b) Legal Profession (Professional Conduct) Rules (Cap 161, R 1, 2000
     Rev Ed)
-layout: single
+
 ---
 

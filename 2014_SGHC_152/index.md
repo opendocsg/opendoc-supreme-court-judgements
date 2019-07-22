@@ -9,6 +9,6 @@ tags:
   - Equity
   - Remedies
   - Rectification
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - Tort
   - Defamation
   - Justification
-layout: single
+
 ---
 # Goh Lay Khim and others v Isabel Redrup Agency Pte Ltd and another appeal 
 

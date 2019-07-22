@@ -6,6 +6,6 @@ subtitle: "[2015] SGHC 112 / 24\_April\_2015"
 tags:
   - Civil Procedure
   - Summary Judgment
-layout: single
+
 ---
 

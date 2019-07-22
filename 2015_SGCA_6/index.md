@@ -4,6 +4,6 @@ subtitle: "[2015] SGCA 6 / 23\_January\_2015"
 tags:
   - Civil Procedure
   - Summary Judgment
-layout: single
+
 ---
 

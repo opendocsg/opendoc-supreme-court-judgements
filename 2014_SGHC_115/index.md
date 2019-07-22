@@ -6,6 +6,6 @@ tags:
   - Summary Judgment
   - Landlord and Tenant
   - Recovery of Possession
-layout: single
+
 ---
 

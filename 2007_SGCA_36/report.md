@@ -24,7 +24,7 @@ tags:
     Whether architect owing duty of care to developer in respect of additional
     duties beyond his statutory duties as qualified person under Building
     Control Act (Cap 29, 1999 Rev Ed)
-layout: single
+
 ---
 # Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric 
 

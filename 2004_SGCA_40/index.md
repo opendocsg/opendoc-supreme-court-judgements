@@ -16,6 +16,6 @@ tags:
     Whether respondent entitled to claim for diminution in value of notionally
     repaired silo
   - Whether respondent entitled to claim alternative measure of damages
-layout: single
+
 ---
 

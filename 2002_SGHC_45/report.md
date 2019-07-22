@@ -12,7 +12,7 @@ tags:
   - Whether such approach advisable
   - Appropriate approach in determining just and equitable division
   - 's 112 Women\''s Charter (Cap 353, 1997 Ed)'
-layout: single
+
 ---
 # Tham Lai Hoong v Fong Weng Sun Peter Vincent 
 

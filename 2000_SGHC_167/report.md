@@ -11,7 +11,7 @@ tags:
   - Whether new sentence should commence on date of conviction for new charges
   - 'Whether new sentence, contrary to aim of reformative training'
   - 'Sch D para 4 Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Andy Sofiaan bin Rahmad 
 

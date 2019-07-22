@@ -12,7 +12,7 @@ tags:
   - Contrac t
   - Privity of Contrac t
   - Contrac ts (Rights of Third Parties) Ac t
-layout: single
+
 ---
 # Columbia Asia Healthcare Sdn Bhd and another v Hong Hin Kit Edward and another and 
 

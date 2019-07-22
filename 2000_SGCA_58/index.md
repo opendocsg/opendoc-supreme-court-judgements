@@ -9,6 +9,6 @@ tags:
     Developers making payment pursuant to loan agreement to main contractors who
     in turn made payment to main sub-contractor
   - Whether the main contractors or the main sub-contractors were the borrowers
-layout: single
+
 ---
 

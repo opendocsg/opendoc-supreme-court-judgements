@@ -14,6 +14,6 @@ tags:
     similar
   - Whether likelihood of confusion on the part of the public existing
   - 'Section 27(2)(b) Trade Marks Act (Cap 332, 1999 Rev Ed)'
-layout: single
+
 ---
 

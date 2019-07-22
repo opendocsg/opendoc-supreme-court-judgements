@@ -6,7 +6,7 @@ tags:
   - Inherent powers
   - Credit and security
   - Guarantees and indemnities
-layout: single
+
 ---
 # Indian Overseas Bank v Svil Agro Pte Ltd and others 
 

@@ -10,6 +10,6 @@ tags:
   - Construction of statute
   - Possession of scheduled species without requisite import permit
   - Whether prosecution has burden of proving when birds imported
-layout: single
+
 ---
 

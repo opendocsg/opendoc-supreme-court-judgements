@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Principles
-layout: single
+
 ---
 # Chong Han Rui v Public Prosecutor 
 

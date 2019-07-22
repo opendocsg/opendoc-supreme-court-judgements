@@ -9,6 +9,6 @@ tags:
     Rev Ed)
   - Adjudication
   - Natural justice
-layout: single
+
 ---
 

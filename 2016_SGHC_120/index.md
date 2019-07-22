@@ -13,6 +13,6 @@ tags:
   - Conspiracy
   - Trusts
   - Accessory liability
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Estoppel by convention
   - Tort
   - Causing loss by unlawful means
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Mareva injunctions
   - Civil Procedure
   - jurisdiction
-layout: single
+
 ---
 

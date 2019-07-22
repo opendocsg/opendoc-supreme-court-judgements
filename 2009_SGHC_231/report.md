@@ -14,7 +14,7 @@ tags:
   - Breach of contract
   - Assessment of damages
   - 's 50(2), Sale of Goods Act (Cap 393 Rev Ed 1999)'
-layout: single
+
 ---
 # Swiss Singapore Overseas Enterprises Pte Ltd v Exim Rajathi India Pvt Ltd 
 

@@ -8,6 +8,6 @@ tags:
   - Land
   - Sale of Land
   - Completion
-layout: single
+
 ---
 

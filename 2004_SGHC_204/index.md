@@ -10,6 +10,6 @@ tags:
   - Whether arbitral procedure in accordance with parties\' agreement
   - Whether rules of natural justice breached in making of award
   - 'Section 24(b) International Arbitration Act (Cap 143A, 2002 Rev Ed)'
-layout: single
+
 ---
 

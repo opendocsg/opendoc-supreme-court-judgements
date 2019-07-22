@@ -23,6 +23,6 @@ tags:
   - Particular causes of action
   - Contract
   - When time begins to run
-layout: single
+
 ---
 

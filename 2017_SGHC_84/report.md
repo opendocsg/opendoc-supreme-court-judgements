@@ -10,7 +10,7 @@ tags:
   - Insolvency law
   - Winding up
   - Grounds for petition
-layout: single
+
 ---
 # Perennial (Capitol) Pte Ltd and another v Capitol Investment Holdings Pte Ltd and other 
 

@@ -7,6 +7,6 @@ tags:
   - Minority shareholders
   - Valuation of shares
   - Reference date
-layout: single
+
 ---
 

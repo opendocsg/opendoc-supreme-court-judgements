@@ -16,6 +16,6 @@ tags:
   - >-
     Whether tenancy agreement rendered illegal and unenforceable as fraud on
     revenue authority
-layout: single
+
 ---
 

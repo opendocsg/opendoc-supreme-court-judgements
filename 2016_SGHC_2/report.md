@@ -8,7 +8,7 @@ tags:
   - Trusts
   - Resulting trusts
   - Presumed resulting trusts
-layout: single
+
 ---
 # Chin Kim Yon v Chin Kheng Hai 
 

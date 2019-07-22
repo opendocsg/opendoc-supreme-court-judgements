@@ -5,7 +5,7 @@ tags:
   - Tort
   - Negligence
   - Damages
-layout: single
+
 ---
  a. Pain and suffering for fracture of knee (left patella) $50,000. b. Pain and suffering for abrasion to the left knee $500. 
 

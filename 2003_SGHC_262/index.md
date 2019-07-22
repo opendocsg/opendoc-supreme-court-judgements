@@ -14,6 +14,6 @@ tags:
   - Words and Phrases
   - \"Best endeavours\"
   - Test to be satisfied
-layout: single
+
 ---
 

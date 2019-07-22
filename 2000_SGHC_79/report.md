@@ -19,7 +19,7 @@ tags:
   - Defendants already engaging local Senior Counsel
   - Whether defendants precluded from seeking admission of Queen\'s Counsel
   - Delay in proceedings as a result of admission of Queen\'s Counsel
-layout: single
+
 ---
 # Re Beloff Michael Jacob QC 
 

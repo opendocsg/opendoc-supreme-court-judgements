@@ -7,7 +7,7 @@ tags:
   - Power to reopen concluded criminal appeals
   - Res Judicata
   - Abuse of process
-layout: single
+
 ---
 # Hishamrudin bin Mohd v Public Prosecutor 
 

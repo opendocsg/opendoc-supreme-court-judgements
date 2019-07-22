@@ -12,7 +12,7 @@ tags:
   - Contractual terms
   - Parol evidence rule
   - Rules of construction
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Wen Wen Food Trading Pte Ltd _v_ Food Republic Pte Ltd  

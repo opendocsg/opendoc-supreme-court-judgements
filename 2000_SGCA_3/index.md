@@ -14,6 +14,6 @@ tags:
   - Infringement of registered design
   - Order for delivery up
   - Whether injunction sufficient
-layout: single
+
 ---
 

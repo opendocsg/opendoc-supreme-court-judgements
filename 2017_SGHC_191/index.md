@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Damages
   - Interest
-layout: single
+
 ---
 

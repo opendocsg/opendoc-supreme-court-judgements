@@ -20,7 +20,7 @@ tags:
   - Tort
   - Conspiracy
   - Unlawful means conspiracy
-layout: single
+
 ---
 # Centre for Laser and Aesthetic Medicine Pte Ltd v GPK Clinic (Orchard) Pte Ltd and others 
 

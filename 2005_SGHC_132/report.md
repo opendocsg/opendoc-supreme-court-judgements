@@ -27,7 +27,7 @@ tags:
     Plaintiff knowingly mounting arrest of ship on basis of sham bareboat
     charter
   - Whether plaintiff acting mala fides or crassa negligentia
-layout: single
+
 ---
 # The "Inai Selasih" (ex "Geopotes X") 
 

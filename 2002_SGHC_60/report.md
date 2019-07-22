@@ -17,7 +17,7 @@ tags:
   - >-
     Whether Singapore or France the more suitable forum to decide custody of and
     access to child
-layout: single
+
 ---
 # Re A (an infant) 
 

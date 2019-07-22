@@ -10,7 +10,7 @@ tags:
   - Registration
   - Whether application for trade mark to be registered was made in bad faith
   - 'Section 7(6) Trade Marks Act (Cap 332, 2005 Rev Ed)'
-layout: single
+
 ---
 # Valentino Globe BV v Pacific Rim Industries Inc 
 

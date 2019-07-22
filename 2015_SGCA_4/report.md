@@ -8,7 +8,7 @@ tags:
   - Statutory Interpretation
   - construction of statute
   - presumption against retrospective operation
-layout: single
+
 ---
 # ABU v Comptroller of Income Tax 
 

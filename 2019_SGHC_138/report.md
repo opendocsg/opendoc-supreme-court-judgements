@@ -23,7 +23,7 @@ tags:
   - Tort
   - Conversion
   - Detinue
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ram Niranjan _v_ Navin Jatia and others and another suit  

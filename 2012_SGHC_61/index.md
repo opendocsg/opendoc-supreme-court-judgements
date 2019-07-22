@@ -6,6 +6,6 @@ tags:
   - Interpretation
   - Contract
   - Penalty
-layout: single
+
 ---
 

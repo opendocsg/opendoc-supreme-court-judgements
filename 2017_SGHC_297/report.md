@@ -8,7 +8,7 @@ tags:
   - Evidence
   - Burden of proof
   - Confession and avoidance defence
-layout: single
+
 ---
 # Alphire Group Pte Ltd v Law Chau Loon 
 

@@ -9,7 +9,7 @@ tags:
   - Jurisdictional objection
   - Waiver
   - Patent errors
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sito Construction Pte Ltd (trading as Afone International) _v_ PBT Engineering Pte Ltd  

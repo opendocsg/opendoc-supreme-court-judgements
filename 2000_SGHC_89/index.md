@@ -26,6 +26,6 @@ tags:
   - Bankruptcy
   - Calculation of interest
   - Date from which interest to be calculated
-layout: single
+
 ---
 

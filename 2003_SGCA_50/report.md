@@ -8,7 +8,7 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Application for summary judgment under new O 14 r 1
-layout: single
+
 ---
 # Samsung Corp v Chinese Chamber Realty Pte Ltd and Others 
 

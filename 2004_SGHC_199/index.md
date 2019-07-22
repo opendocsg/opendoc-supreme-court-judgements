@@ -13,6 +13,6 @@ tags:
   - Confiscation and forfeiture
   - Whether owner ought to be informed before forfeiture order made
   - Whether failure to inform owner sufficient to attract criminal revision
-layout: single
+
 ---
 

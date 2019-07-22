@@ -15,6 +15,6 @@ tags:
   - Whether statements amount to misrepresentations
   - Whether plaintiffs induced by statements
   - Whether plaintiffs relied on statements
-layout: single
+
 ---
 

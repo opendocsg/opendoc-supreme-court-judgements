@@ -39,6 +39,6 @@ tags:
   - >-
     Whether s 84A(1) Land Titles (Strata) Act (Cap 158, 1999 Rev Ed) applied to
     privatised ex-HUDC estate
-layout: single
+
 ---
 

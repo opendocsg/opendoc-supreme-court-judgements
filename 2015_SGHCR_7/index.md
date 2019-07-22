@@ -6,6 +6,6 @@ tags:
   - Admiralty Jurisdiction and Arrest
   - Civil Procedure
   - Service
-layout: single
+
 ---
 

@@ -22,7 +22,7 @@ tags:
   - Expert evidence
   - Purpose of admitting expert evidence
   - Whether opinion of expert necessary in present case
-layout: single
+
 ---
 # Tan Puay Boon v Public Prosecutor 
 

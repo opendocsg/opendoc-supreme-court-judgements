@@ -10,6 +10,6 @@ tags:
   - >-
     Whether information amounting to trade secrets or information accorded
     protection as trade secrets
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Contract
   - Contractual terms
   - Condition precedent
-layout: single
+
 ---
 

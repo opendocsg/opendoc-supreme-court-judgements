@@ -25,6 +25,6 @@ tags:
   - >-
     Whether civil standard of proof of balance of probabilities applicable in
     civil cases involving fraud
-layout: single
+
 ---
 

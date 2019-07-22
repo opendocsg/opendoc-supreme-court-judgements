@@ -8,7 +8,7 @@ tags:
   - Judicial review
   - Employment Law
   - Work Injury Compensation Act
-layout: single
+
 ---
 # Tan Lip Tiong, Rodney as Deputy for Tan Yun Yeow v The Commissioner of Labour and 
 

@@ -29,6 +29,6 @@ tags:
   - Whether usage of trade mark must be in accordance with class of registration
   - 'Whether requirements of s 27 of Trade Marks Act (Cap 332, 1999 Ed) satisfied'
   - 's 27 Trade Marks Act (Cap 332, 1999 Ed)'
-layout: single
+
 ---
 

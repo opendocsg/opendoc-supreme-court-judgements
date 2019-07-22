@@ -8,6 +8,6 @@ tags:
   - Tort
   - Defamation
   - Damages
-layout: single
+
 ---
 

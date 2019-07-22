@@ -6,6 +6,6 @@ tags:
   - Assessment
   - Evidence
   - Admissibility of evidence
-layout: single
+
 ---
 

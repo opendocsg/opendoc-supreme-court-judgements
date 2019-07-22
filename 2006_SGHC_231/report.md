@@ -16,7 +16,7 @@ tags:
   - >-
     Whether committal proceedings against third party may commence and continue
     even after death of contemnor
-layout: single
+
 ---
 # Abdul Aziz bin Mohamed Yatim v Rubiah bte Rahmat 
 

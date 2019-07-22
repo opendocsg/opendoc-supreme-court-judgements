@@ -8,7 +8,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Striking out
-layout: single
+
 ---
 # United Overseas Bank Ltd v Lippo Marina Collection Pte Ltd and others 
 

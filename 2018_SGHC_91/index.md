@@ -7,6 +7,6 @@ tags:
   - Public Utilities Act
   - Statutory Interpretation
   - Construction of Statute
-layout: single
+
 ---
 

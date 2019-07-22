@@ -12,6 +12,6 @@ tags:
   - International Law
   - International investment law
   - Investor-State arbitration
-layout: single
+
 ---
 

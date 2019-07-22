@@ -8,7 +8,7 @@ tags:
   - Landlord and Tenants
   - Duration of Tenancy
   - Periodic Tenancies
-layout: single
+
 ---
 # HSBC Institutional Trust Services (Singapore) Ltd, (trustee of Starhill Global Real Estate 
 

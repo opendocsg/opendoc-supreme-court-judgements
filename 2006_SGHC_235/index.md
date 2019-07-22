@@ -13,6 +13,6 @@ tags:
   - Negligence
   - Whether employer breached duty to provide safe system of work
   - 'Sections 29 and 33 Factories Act (Cap 104, 1998 Rev Ed)'
-layout: single
+
 ---
 

@@ -22,6 +22,6 @@ tags:
   - Assessment
   - Whether floating dry docks are part of land for purposes of property tax
   - Whether fixture test or enhancement test is correct test to apply
-layout: single
+
 ---
 

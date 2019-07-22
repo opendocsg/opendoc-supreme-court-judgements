@@ -6,6 +6,6 @@ tags:
   - Dispute resolution
   - Adjudication
   - Setting aside
-layout: single
+
 ---
 

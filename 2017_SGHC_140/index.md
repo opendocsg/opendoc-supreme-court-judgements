@@ -10,6 +10,6 @@ tags:
   - Civil procedure
   - Privilege
   - Without prejudice privilege
-layout: single
+
 ---
 

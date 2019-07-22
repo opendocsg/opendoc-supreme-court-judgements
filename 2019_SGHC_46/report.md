@@ -6,7 +6,7 @@ tags:
   - Evidence
   - Beyond reasonable doubt
   - Sufficiency of third-party eye witness testimony
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # GCK _v_ Public Prosecutor  

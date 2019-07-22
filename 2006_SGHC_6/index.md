@@ -15,6 +15,6 @@ tags:
   - Conspiracy
   - Directors winding up company after judgment issued against it
   - Whether directors conspiring to defraud creditor under a judgment debt
-layout: single
+
 ---
 

@@ -15,7 +15,7 @@ tags:
   - Witnesses
   - Allegation of collusion between prosecution witnesses
   - Burden of proof
-layout: single
+
 ---
 # Tan Mui Teck v Public Prosecutor 
 

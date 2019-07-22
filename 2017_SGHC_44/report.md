@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - Elements of Crime
   - Mens rea
-layout: single
+
 ---
 # Public Prosecutor v Kesavan Pillai Govindan 
 

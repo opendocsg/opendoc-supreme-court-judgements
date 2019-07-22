@@ -15,6 +15,6 @@ tags:
   - >-
     Majority of directors signing resolution in writing without notice to
     minority
-layout: single
+
 ---
 

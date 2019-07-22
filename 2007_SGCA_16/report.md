@@ -10,7 +10,7 @@ tags:
   - >-
     Whether concession to have dispute over distribution of part of deceased\'s
     estate determined in specific manner existing
-layout: single
+
 ---
 # Shiraz Abidally Husain and Another v Husain Safdar Abidally 
 

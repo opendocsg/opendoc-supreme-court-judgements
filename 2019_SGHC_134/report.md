@@ -5,7 +5,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional conduct
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Singapore Medical Council _v_ Looi Kok Poh and another matter  

@@ -7,7 +7,7 @@ tags:
   - Agency
   - Duties of Agent
   - Duty to account
-layout: single
+
 ---
 # Ma Ong Kee v Cham Poh Meng and another suit 
 

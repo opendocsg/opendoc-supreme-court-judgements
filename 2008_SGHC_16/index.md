@@ -11,6 +11,6 @@ tags:
   - Elements of s 300(c)
   - Whether accused intending to immerse deceased in water and causing injury
   - Whether deceased person\'s death caused by immersions
-layout: single
+
 ---
 

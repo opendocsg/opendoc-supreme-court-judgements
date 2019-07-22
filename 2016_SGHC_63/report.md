@@ -8,7 +8,7 @@ tags:
   - Originating processes
   - Mental disorders and treatment
   - Mental Capacity Act
-layout: single
+
 ---
 # TDA v TCZ and others 
 

@@ -10,7 +10,7 @@ tags:
   - >-
     Defendant allegedly acting to detriment of plaintiff by exploiting position
     as director of plaintiff to benefit other company at plaintiff\'s detriment
-layout: single
+
 ---
 # Golden Village Multiplex Pte Ltd v Phoon Chiong Kit 
 

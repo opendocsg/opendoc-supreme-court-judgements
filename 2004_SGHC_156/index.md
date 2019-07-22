@@ -17,6 +17,6 @@ tags:
     Maid abuse consisting of voluntarily causing hurt, criminal use of force and
     criminal intimidation
   - Whether sentence manifestly excessive
-layout: single
+
 ---
 

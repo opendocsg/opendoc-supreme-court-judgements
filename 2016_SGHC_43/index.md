@@ -5,6 +5,6 @@ tags:
   - Partnership
   - Breach of fiduciary duty
   - Accounting
-layout: single
+
 ---
 

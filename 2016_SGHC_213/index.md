@@ -8,6 +8,6 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Sexual assault by penetration
-layout: single
+
 ---
 

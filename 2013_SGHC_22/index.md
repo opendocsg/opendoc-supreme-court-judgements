@@ -4,6 +4,6 @@ subtitle: "[2013] SGHC 22 / 24\_January\_2013"
 tags:
   - Contract
   - Formation
-layout: single
+
 ---
 

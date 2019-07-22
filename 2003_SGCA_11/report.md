@@ -29,7 +29,7 @@ tags:
   - >-
     Whether ac c used may be c onvic ted solely on the strength of his retrac
     ted c onfession
-layout: single
+
 ---
 # Rusli Bin Sembayang v Public Prosecutor 
 

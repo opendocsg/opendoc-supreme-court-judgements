@@ -16,7 +16,7 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Hearsay
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Management Corporation Strata Title Plan No 3556 (suing on behalf of itself and all subsidiary proprietors of Northstar @ AMK) _v_ Orion-One Development Pte Ltd (in liquidation) and another  

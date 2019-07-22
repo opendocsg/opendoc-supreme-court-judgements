@@ -13,6 +13,6 @@ tags:
   - >-
     Whether defendant could be compelled to file defence notwithstanding its
     pending stay application
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Adjudication
   - Statutory interpretation
   - Construction of statute
-layout: single
+
 ---
 # Comfort Management Pte Ltd v OGSP Engineering Pte Ltd 
 

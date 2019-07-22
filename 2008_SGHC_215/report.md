@@ -15,7 +15,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Appeals
-layout: single
+
 ---
 # Wang Chin Sing v Public Prosecutor 
 

@@ -15,6 +15,6 @@ tags:
   - Criminal Law
   - Lack of motive to falsely implicated accused
   - Where the burden of proof lay
-layout: single
+
 ---
 

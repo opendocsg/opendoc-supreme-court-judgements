@@ -13,6 +13,6 @@ tags:
   - Costs against c o-respondent
   - Wife willing party to adultery
   - Proportion of c osts of private investigators payable by c o-respondent
-layout: single
+
 ---
 

@@ -15,7 +15,7 @@ tags:
   - Whether party giving discovery has to disclose every part of document
   - 'Whether request for discovery too wide, oppressive and onerous'
   - O 24 r 5 Rules of Court
-layout: single
+
 ---
 # Tan Chin Seng and Others v Raffles Town Club Pte Ltd (No 2) 
 

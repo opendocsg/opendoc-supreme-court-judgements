@@ -9,6 +9,6 @@ tags:
   - Failure to make instalment payment on time
   - Whether consent order necessary
   - 's 7 Bankruptcy Act (Cap 20, 2000 Ed)'
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Civil Procedure
   - Offer to settle
   - Whether Calderbank letter amounts to statutory offer to settle
-layout: single
+
 ---
 

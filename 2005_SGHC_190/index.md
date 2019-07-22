@@ -14,6 +14,6 @@ tags:
   - >-
     Whether plaintiff contributorily negligent in failing to keep proper lookout
     and following vehicle in front too closely
-layout: single
+
 ---
 

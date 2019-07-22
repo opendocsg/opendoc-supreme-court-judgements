@@ -17,7 +17,7 @@ tags:
   - Building and Construction Law
   - Sub-contracts
   - ‘Pay when paid’ provisions
-layout: single
+
 ---
 # Kosui Singapore Pte Ltd v Kamigumi Singapore Pte Ltd and another 
 

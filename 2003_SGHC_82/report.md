@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Benchmark sentences
   - Benchmark sentences
-layout: single
+
 ---
 # Public Prosecutor v Poh Teck Huat 
 

@@ -11,7 +11,7 @@ tags:
   - Contract
   - Formation
   - Acceptance
-layout: single
+
 ---
 # Pan-United Shipping Pte Ltd v Cummins Sales and Service Singapore Pte Ltd 
 

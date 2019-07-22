@@ -12,7 +12,7 @@ tags:
   - Contract
   - Remedies
   - Specific performance
-layout: single
+
 ---
 # Lim Beng Cheng v Lim Ngee Sing 
 

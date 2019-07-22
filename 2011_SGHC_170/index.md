@@ -6,6 +6,6 @@ tags:
   - natural forum
   - CONFLICT OF LAWS
   - restraint of foreign proceedings
-layout: single
+
 ---
 

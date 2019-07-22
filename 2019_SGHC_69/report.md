@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BVU _v_ BVX  

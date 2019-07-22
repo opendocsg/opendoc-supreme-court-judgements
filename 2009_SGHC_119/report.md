@@ -10,7 +10,7 @@ tags:
     Compensation Act (Cap 354, 1998 Rev Ed)
   - Whether there was a substantial question of law
   - 'Section 29(2A) Workmen\''s Compensation Act (Cap 354, 1998 Rev Ed)'
-layout: single
+
 ---
 # Karuppiah Ravichandran v GDS Engineering Pte Ltd and Another 
 

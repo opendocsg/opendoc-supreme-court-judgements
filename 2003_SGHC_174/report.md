@@ -13,7 +13,7 @@ tags:
   - Principles
   - Multiple charges concerning same incident
   - Whether global view of punishment relevant and appropriate.
-layout: single
+
 ---
 # Public Prosecutor v Mark Kalaivanan s/o Tamilarasan and Others 
 

@@ -8,7 +8,7 @@ tags:
   - Criminal Law
   - Complicity
   - Common intention
-layout: single
+
 ---
 # Public Prosecutor v Micheal Anak Garing and another 
 

@@ -6,7 +6,7 @@ tags:
   - Offences
   - Murder
   - Sentencing
-layout: single
+
 ---
 # Public Prosecutor v Kamrul Hasan Abdul Quddus 
 

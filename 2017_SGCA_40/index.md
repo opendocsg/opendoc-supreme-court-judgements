@@ -10,6 +10,6 @@ tags:
   - Employment Law
   - Contract of service
   - Termination
-layout: single
+
 ---
 

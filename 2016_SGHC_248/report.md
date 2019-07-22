@@ -8,7 +8,7 @@ tags:
   - Building and Construction Law
   - Damages
   - Delay in Completion
-layout: single
+
 ---
 # Doka Formwork Pte Ltd v Grandbuild Construction Pte Ltd 
 

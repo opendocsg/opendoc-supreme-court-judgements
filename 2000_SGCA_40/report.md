@@ -32,7 +32,7 @@ tags:
   - Half-secret
   - Creation of trust
   - Whether trust expressly or tacitly accepted by beneficiary or trustees
-layout: single
+
 ---
 # Kamla Lal Hiranand v Harilela Padma Hari and Others 
 

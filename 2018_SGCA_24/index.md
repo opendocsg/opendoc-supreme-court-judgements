@@ -6,6 +6,6 @@ tags:
   - Interest in land
   - Joint tenancy
   - Severance
-layout: single
+
 ---
 

@@ -20,6 +20,6 @@ tags:
   - >-
     Whether defendant has discharged burden of proving that she was not within
     jurisdiction at the material time
-layout: single
+
 ---
 

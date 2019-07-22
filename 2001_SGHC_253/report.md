@@ -22,7 +22,7 @@ tags:
   - 'ss 94(f) & 96 Evidence Act (Cap 97,1997 Ed)'
   - Words and Phrases
   - \'Procure\'
-layout: single
+
 ---
 # Tan Hock Keng v L & M Group Investments Ltd 
 

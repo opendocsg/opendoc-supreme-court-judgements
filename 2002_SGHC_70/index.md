@@ -20,6 +20,6 @@ tags:
     Whether solicitor-client privilege prohibits disclosure by solicitor of
     former client\'s communications
   - 's 128 Evidence Act (Cap 97, 1997 Ed)'
-layout: single
+
 ---
 

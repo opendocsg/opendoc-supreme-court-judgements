@@ -16,6 +16,6 @@ tags:
     sub-contracts
   - Whether delays attributable to plaintiff
   - Whether defendant successful in proving counterclaim.
-layout: single
+
 ---
 

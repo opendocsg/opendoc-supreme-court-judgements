@@ -20,6 +20,6 @@ tags:
   - >-
     Valuation of shares unfavourable to parties seeking to sell shares to exit
     company
-layout: single
+
 ---
 

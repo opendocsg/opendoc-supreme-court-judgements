@@ -12,6 +12,6 @@ tags:
   - >-
     Whether clear admission of fact exists to entitle defendant to enter
     judgment
-layout: single
+
 ---
 

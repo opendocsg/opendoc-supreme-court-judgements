@@ -5,7 +5,7 @@ tags:
   - Land
   - Caveats
   - Remedies of caveatee
-layout: single
+
 ---
 # Kua Hui Li v Prosper Credit Pte Ltd 
 

@@ -12,6 +12,6 @@ tags:
   - >-
     Rules 102(2), 104 Bankruptcy Rules (Cap 20, R 1, 2002 Rev Ed), s 60
     Bankruptcy Act (Cap 20, 2000 Rev Ed)
-layout: single
+
 ---
 

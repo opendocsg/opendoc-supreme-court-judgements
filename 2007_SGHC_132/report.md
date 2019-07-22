@@ -9,7 +9,7 @@ tags:
   - Landlord and Tenant
   - Termination of leases
   - Validity of notices to quit
-layout: single
+
 ---
 # Chiam Heng Luan and Others v Chiam Heng Hsien and Others 
 

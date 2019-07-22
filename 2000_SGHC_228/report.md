@@ -6,7 +6,7 @@ tags:
   - Shares
   - Redeemable preference shares
   - Redemption at shareholder\'s discretion
-layout: single
+
 ---
 # UOB Venture Investments Ltd v Tong Garden Holdings Pte Ltd and Others 
 

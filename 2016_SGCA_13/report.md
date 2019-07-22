@@ -7,7 +7,7 @@ tags:
   - Division
   - Family Law
   - Maintenance
-layout: single
+
 ---
 # ARY v ARX and another appeal 
 

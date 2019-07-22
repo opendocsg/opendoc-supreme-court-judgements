@@ -8,6 +8,6 @@ tags:
   - interlocutory injunction
   - Injunction
   - springboard injunction
-layout: single
+
 ---
 

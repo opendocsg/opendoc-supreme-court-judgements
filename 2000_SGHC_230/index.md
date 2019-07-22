@@ -17,6 +17,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Enhancement of sentence
-layout: single
+
 ---
 

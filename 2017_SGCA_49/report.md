@@ -10,7 +10,7 @@ tags:
   - Conflict of Laws
   - Natural forum
   - Stay of proceedings
-layout: single
+
 ---
 # Trisuryo Garuda Nusa Pte Ltd v SKP Pradiksi (North) Sdn Bhd and another and another 
 

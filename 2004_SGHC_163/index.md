@@ -12,6 +12,6 @@ tags:
   - Pleadings
   - Further and better particulars
   - Whether requests by defendants relevant and valid
-layout: single
+
 ---
 

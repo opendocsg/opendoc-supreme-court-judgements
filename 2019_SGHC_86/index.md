@@ -17,6 +17,6 @@ tags:
   - Regulatory requirements
   - Listing and public offers
   - Catalist Rules
-layout: single
+
 ---
 

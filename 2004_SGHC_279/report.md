@@ -22,7 +22,7 @@ tags:
     Whether negligence of chief engineer or wear and tear was proximate cause of
     loss or damage
   - 'Marine Insurance Act s 55 (2)(c) (Cap 387, 1994 Rev Ed)'
-layout: single
+
 ---
 # Hub Warrior Sdn Bhd v QBE Insurance (Malaysia) Bhd 
 

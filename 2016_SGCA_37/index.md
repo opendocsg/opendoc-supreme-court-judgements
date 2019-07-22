@@ -10,6 +10,6 @@ tags:
   - Fundamental liberties
   - Protection against retrospective criminal laws
   - Right to life and personal liberty
-layout: single
+
 ---
 

@@ -20,7 +20,7 @@ tags:
   - >-
     Whether extension of time should be granted to file and serve originating
     motion to appeal against arbitrator\'s decision
-layout: single
+
 ---
 # Progen Engineering Pte Ltd v Winter Engineering (S) Pte Ltd 
 

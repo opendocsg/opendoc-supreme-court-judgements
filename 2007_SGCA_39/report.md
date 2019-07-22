@@ -20,7 +20,7 @@ tags:
     Costs incurred from breach of contract by one party sought as damages by
     innocent party
   - Whether such costs flowing directly and naturally from breach
-layout: single
+
 ---
 # RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and Another Appeal 
 

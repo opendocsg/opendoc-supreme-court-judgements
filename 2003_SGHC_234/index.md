@@ -8,6 +8,6 @@ tags:
   - Civil Procedure
   - Stay of proceedings
   - Application for stay in favour of arbitration agreement
-layout: single
+
 ---
 

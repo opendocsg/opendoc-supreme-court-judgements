@@ -44,7 +44,7 @@ tags:
     Whether agent bank having authority to submit on behalf of State to
     jurisdiction of Singapore courts
   - 'Sections 3 and 4(7) State Immunity Act (Cap 313, 1985 Rev Ed)'
-layout: single
+
 ---
 # WestLB AG v Philippine National Bank & Others 
 

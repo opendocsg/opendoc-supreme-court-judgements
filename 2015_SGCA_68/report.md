@@ -6,7 +6,7 @@ tags:
   - Contractual terms
   - Express terms
   - Interpretation
-layout: single
+
 ---
 # Lucky Realty Co Pte Ltd v HSBC Trustee (Singapore) Ltd 
 

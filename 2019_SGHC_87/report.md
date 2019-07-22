@@ -13,7 +13,7 @@ tags:
   - Financial and Securities Markets
   - Regulatory requirements
   - Licensing
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # The Enterprise Fund II Ltd _v_ Jong Hee Sen  

@@ -8,6 +8,6 @@ tags:
   - Illegality
   - Contract
   - Duress
-layout: single
+
 ---
 

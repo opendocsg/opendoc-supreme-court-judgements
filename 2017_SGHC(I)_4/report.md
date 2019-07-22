@@ -8,7 +8,7 @@ tags:
   - Contract
   - Contractual terms
   - Scope of work
-layout: single
+
 ---
 # Teras Offshore Pte Ltd v Teras Cargo Transport (America) LLC 
 

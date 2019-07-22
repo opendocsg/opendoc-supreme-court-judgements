@@ -7,6 +7,6 @@ tags:
   - Mortgagee’s Rights
   - Civil Procedure
   - Mortgage Actions
-layout: single
+
 ---
 

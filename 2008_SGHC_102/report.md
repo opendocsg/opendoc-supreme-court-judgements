@@ -11,7 +11,7 @@ tags:
     authorised share capital
   - Whether abolition of authorised share capital rendered said article otiose
   - 'Companies Act (Cap 50, 1994 Rev Ed) Fourth Schedule Table A Art 40(a)'
-layout: single
+
 ---
 # Lian Hwee Choo Phebe and Another v Maxz Universal Development Group Pte Ltd and Others 
 

@@ -9,6 +9,6 @@ tags:
   - Revision of Proceedings
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 

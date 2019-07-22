@@ -8,7 +8,7 @@ tags:
   - Tort
   - Negligence
   - Causation
-layout: single
+
 ---
 # Ramesh s/o Krishnan v AXA Life Insurance Singapore Pte Ltd 
 

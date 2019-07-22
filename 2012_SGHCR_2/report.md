@@ -6,7 +6,7 @@ tags:
   - stay of court proceedings
   - Civil Procedure
   - foreign judgments
-layout: single
+
 ---
 # Giant Light Metal Technology (Kunshan) Co Ltd v Aksa Far East Pte Ltd 
 

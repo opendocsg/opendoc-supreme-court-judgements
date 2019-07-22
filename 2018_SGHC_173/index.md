@@ -13,6 +13,6 @@ tags:
   - Contract
   - Remedies
   - Rescission
-layout: single
+
 ---
 

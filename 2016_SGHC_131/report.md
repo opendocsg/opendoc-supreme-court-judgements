@@ -10,7 +10,7 @@ tags:
   - Infringement
   - Trade Marks and Trade Names
   - Passing off
-layout: single
+
 ---
 # Allergan, Inc and another v Ferlandz Nutra Pte Ltd 
 

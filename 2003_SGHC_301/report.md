@@ -25,7 +25,7 @@ tags:
   - Equity
   - Estoppel
   - Whether defendants estopped from insisting on their strict legal rights
-layout: single
+
 ---
 # Yongnam Development Pte Ltd v Springleaves Tower Ltd and Another 
 

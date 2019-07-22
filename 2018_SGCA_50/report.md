@@ -11,7 +11,7 @@ tags:
   - Tort
   - Trespass
   - Land
-layout: single
+
 ---
 # Lee Tat Development Pte Ltd v Management Corporation Strata Title Plan No 301 
 

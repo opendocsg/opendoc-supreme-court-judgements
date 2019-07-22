@@ -9,6 +9,6 @@ tags:
   - Natural forum
   - Civil Procedure
   - Submission
-layout: single
+
 ---
 

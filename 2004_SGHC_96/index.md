@@ -17,6 +17,6 @@ tags:
   - Distress for rent
   - Writ of distress
   - Whether execution therof terminated tenancy
-layout: single
+
 ---
 

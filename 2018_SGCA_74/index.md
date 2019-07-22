@@ -7,6 +7,6 @@ tags:
   - Damages
   - Measure of damages
   - Personal injuries c ases
-layout: single
+
 ---
 

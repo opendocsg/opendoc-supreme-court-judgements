@@ -5,6 +5,6 @@ tags:
   - Contempt of Court
   - Civil contempt
   - Whether committal proceeding measure of last resort
-layout: single
+
 ---
 

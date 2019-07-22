@@ -16,7 +16,7 @@ tags:
   - >-
     Whether plaintiff may pursue legal action and enforce security for debt as
     successor-in-title of merged bank
-layout: single
+
 ---
 # Oversea-Chinese Banking Corp Ltd v Moey Keng Weng and Another and Another Application 
 

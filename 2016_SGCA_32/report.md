@@ -9,7 +9,7 @@ tags:
   - Civil Procedure
   - Damages
   - Interest
-layout: single
+
 ---
 # Grains and Industrial Products Trading Pte Ltd v Bank of India and another 
 

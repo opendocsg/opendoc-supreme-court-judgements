@@ -10,7 +10,7 @@ tags:
   - Pleadings
   - Appellant omitting to plead certain fact
   - Whether appellant entitled to rely on fact not pleaded
-layout: single
+
 ---
 # Syarikat Wen Ken Drug Sdn Bhd and Others v Lo Hock Ling & Co 
 

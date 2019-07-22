@@ -14,7 +14,7 @@ tags:
   - Tort
   - Negligence
   - Duty of care
-layout: single
+
 ---
 # Ong Ghee Soon Kevin v Ho Yong Chong 
 

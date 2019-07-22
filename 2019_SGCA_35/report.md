@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Jurisdiction
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Chong Sher Shen _v_ Public Prosecutor  

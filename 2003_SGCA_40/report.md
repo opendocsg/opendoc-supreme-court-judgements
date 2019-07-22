@@ -10,7 +10,7 @@ tags:
     Judicature Act (Cap 322, 1999 Rev Ed)
   - 'Appeal against increase of damages by $130,000'
   - 'Whether amount or value of subject matter at trial is $250,000 or less'
-layout: single
+
 ---
 # Teo Eng Chuan v Nirumalan V Kanapathi Pillay (No 2) 
 

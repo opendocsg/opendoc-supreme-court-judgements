@@ -15,6 +15,6 @@ tags:
   - \'Compromise settlements\'
   - \'Loss settlements\'
   - \'Commutation agreement\'
-layout: single
+
 ---
 

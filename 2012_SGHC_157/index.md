@@ -7,6 +7,6 @@ tags:
   - Arbitration
   - Award
   - Recourse against award
-layout: single
+
 ---
 

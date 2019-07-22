@@ -12,6 +12,6 @@ tags:
   - Inventive step
   - Patents and Inventions
   - Infringement
-layout: single
+
 ---
 

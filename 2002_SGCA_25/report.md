@@ -39,7 +39,7 @@ tags:
   - Failure to plead \'residual tumour\' theory
   - Whether new defence should be allowed at trial
   - Whether new defence affects credibility of defendants and their experts
-layout: single
+
 ---
 # Dr Khoo James and Another v Gunapathy d/o Muniandy and another appeal 
 

@@ -11,7 +11,7 @@ tags:
   - Arbitration
   - Arbitral tribunal
   - Jurisdiction
-layout: single
+
 ---
 # BNP and another v BNR 
 

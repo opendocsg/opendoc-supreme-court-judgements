@@ -11,7 +11,7 @@ tags:
   - >-
     Whether agreement amounting to loan under guise of sale and purchase of
     shares
-layout: single
+
 ---
 # Cheah Geok Tuan (alias Seah Geok Tuan) and Another v Lie Khin Sin and Another 
 

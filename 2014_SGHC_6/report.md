@@ -6,7 +6,7 @@ tags:
   - Summary judgment
   - Civil procedure
   - Offer to settle
-layout: single
+
 ---
 # Ling Yew Kong v Teo Vin Li Richard 
 

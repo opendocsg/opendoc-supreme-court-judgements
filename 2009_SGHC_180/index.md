@@ -4,6 +4,6 @@ title: >-
   Obeidillah bin Salim bin
 subtitle: "[2009] SGHC 180 / 11\_August\_2009"
 tags: null
-layout: single
+
 ---
 

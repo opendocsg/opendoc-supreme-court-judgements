@@ -11,6 +11,6 @@ tags:
   - >-
     Whether defendant raised any triable issues for court to grant leave to
     defend
-layout: single
+
 ---
 

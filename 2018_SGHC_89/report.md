@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Rape
-layout: single
+
 ---
 # Public Prosecutor v BMR 
 

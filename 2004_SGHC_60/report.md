@@ -9,7 +9,7 @@ tags:
   - Conflict of Laws
   - Natural forum
   - Stay of proceedings on ground of forum non conveniens
-layout: single
+
 ---
 # Kaki Bukit Industrial Park Pte Ltd v Ng Man Heng and Others 
 

@@ -5,7 +5,7 @@ tags:
   - Legal Profession
   - Show cause action
   - Grossly improper conduct in discharge of professional duties
-layout: single
+
 ---
 # Law Society of Singapore v Lim Yee Kai 
 

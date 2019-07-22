@@ -12,6 +12,6 @@ tags:
   - Land
   - Strata titles
   - Strata Titles Board
-layout: single
+
 ---
 

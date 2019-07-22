@@ -5,7 +5,7 @@ tags:
   - Contract
   - Termination
   - Repudiation of contract
-layout: single
+
 ---
 # Biofuel Industries Pte Ltd v V8 Environmental Pte Ltd 
 

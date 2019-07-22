@@ -5,7 +5,7 @@ tags:
   - Damages
   - Assessment
   - Personal injuries
-layout: single
+
 ---
  S/No Item Award by Deputy Registrar # ($) 
 

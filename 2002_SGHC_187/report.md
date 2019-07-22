@@ -17,7 +17,7 @@ tags:
   - Governing principles
   - Whether circumstances of case warrant exercise of power
   - ss 256(b)(iii) & 268 Criminal Procedure Code (Cap 68)
-layout: single
+
 ---
 # Public Prosecutor v Lee Wei Zheng Winston 
 

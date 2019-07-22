@@ -24,7 +24,7 @@ tags:
   - Proof of evidence
   - Confessions
   - Accused giving statements amounting to confessions
-layout: single
+
 ---
 # Lim Thian Lai v Public Prosecutor 
 

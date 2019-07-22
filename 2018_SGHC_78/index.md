@@ -15,6 +15,6 @@ tags:
   - Arbitration
   - Setting aside
   - Public policy
-layout: single
+
 ---
 

@@ -30,6 +30,6 @@ tags:
   - Words and Phrases
   - \"Subject to contract\"
   - Meaning and effect of phrase
-layout: single
+
 ---
 

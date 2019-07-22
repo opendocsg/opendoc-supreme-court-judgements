@@ -60,7 +60,7 @@ tags:
   - >-
     Principles governing identification of corroborative evidence where
     corroboration was required
-layout: single
+
 ---
 # Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik 
 

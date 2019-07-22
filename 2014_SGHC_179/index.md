@@ -6,6 +6,6 @@ tags:
   - Judicial Review
   - Constitutional Law
   - Equality before the Law
-layout: single
+
 ---
 

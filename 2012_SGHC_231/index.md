@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - pleadings
   - amendments
-layout: single
+
 ---
 

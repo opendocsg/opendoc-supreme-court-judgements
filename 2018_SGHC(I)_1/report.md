@@ -6,7 +6,7 @@ tags:
   - Witnesses
   - Attendance
   - Giving evidence by video link
-layout: single
+
 ---
 # Bachmeer Capital Limited v Ong Chih Ching and others 
 

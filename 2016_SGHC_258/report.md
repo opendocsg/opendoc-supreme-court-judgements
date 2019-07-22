@@ -5,7 +5,7 @@ tags:
   - Legal Profession
   - Admission
   - Ad hoc
-layout: single
+
 ---
 # Re Landau, Toby Thomas QC 
 

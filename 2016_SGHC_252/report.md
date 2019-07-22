@@ -24,7 +24,7 @@ tags:
   - Trusts
   - Trustees
   - Intermeddling in trust property
-layout: single
+
 ---
 # Syed Ahmad Jamal Alsagoff (administrator of the estates of Shaikah Fitom bte Ghalib bin 
 

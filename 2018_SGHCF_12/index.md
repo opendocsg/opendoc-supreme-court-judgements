@@ -9,6 +9,6 @@ tags:
   - Ancillary powers of court
   - Third party claims
   - Case management
-layout: single
+
 ---
 

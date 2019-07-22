@@ -8,6 +8,6 @@ tags:
   - Negligence
   - Contributory negligence
   - Motorcyclist killed in collision with bus
-layout: single
+
 ---
 

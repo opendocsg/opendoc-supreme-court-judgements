@@ -9,6 +9,6 @@ tags:
   - >-
     Whether appointment of receiver and manager necessary for making of informed
     decision on proposed scheme of arrangement
-layout: single
+
 ---
 

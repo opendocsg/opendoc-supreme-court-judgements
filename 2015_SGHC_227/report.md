@@ -5,7 +5,7 @@ tags:
   - Administrative Law
   - Disciplinary tribunals
   - Disciplinary proceedings
-layout: single
+
 ---
 # Singapore Medical Council v Kwan Kah Yee 
 

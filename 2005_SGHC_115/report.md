@@ -10,7 +10,7 @@ tags:
   - Income taxation
   - Deduction
   - Company seeking to claim expenses as deductions
-layout: single
+
 ---
 # T Ltd v Comptroller of Income Tax 
 

@@ -15,7 +15,7 @@ tags:
   - Issue estoppel
   - Res Judicata
   - Exceptions to res judicata
-layout: single
+
 ---
 # The Royal Bank of Scotland NV (formerly known as ABN Amro Bank NV) and others v TT 
 

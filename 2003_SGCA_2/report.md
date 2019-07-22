@@ -16,7 +16,7 @@ tags:
   - Whether statement of accused amount to confession
   - Whether presumption in Misuse of Drugs Act can be relied upon
   - 's 17(2) Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 # Vignes s/o Mourthi and Another v Public Prosecutor and Another Case 
 

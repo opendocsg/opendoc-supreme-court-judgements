@@ -21,6 +21,6 @@ tags:
   - When application to be made
   - Whether late application bound to fail
   - O 18 r 19(1) Rules of Court
-layout: single
+
 ---
 

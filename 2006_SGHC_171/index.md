@@ -33,6 +33,6 @@ tags:
   - >-
     Whether inequitable for plaintiffs to refuse to honour compromise agreement
     on ground that such agreement not lawfully entered into
-layout: single
+
 ---
 

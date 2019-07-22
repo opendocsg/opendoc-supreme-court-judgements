@@ -5,7 +5,7 @@ tags:
   - Companies
   - directors
   - powers
-layout: single
+
 ---
 # Lim Kok Leong v Seen Joo Company Pte Ltd and others 
 

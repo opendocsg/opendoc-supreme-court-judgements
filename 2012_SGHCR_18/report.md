@@ -7,7 +7,7 @@ tags:
   - court’s discretion under Arbitration Act
   - Civil Procedure
   - Consolidation
-layout: single
+
 ---
 # Hua Xin Innovation Incubator Pte Ltd v IPCO International Ltd 
 

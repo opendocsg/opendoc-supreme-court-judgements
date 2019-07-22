@@ -13,7 +13,7 @@ tags:
   - contract to commit a civil wrong
   - Injunctions
   - mandatory injunction
-layout: single
+
 ---
 # Viknesh Dairy Farm Pte Ltd v Balakrishnan s/o P S Maniam and others 
 

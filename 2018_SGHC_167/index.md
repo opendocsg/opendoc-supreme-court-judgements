@@ -15,6 +15,6 @@ tags:
   - Confidence
   - Tort
   - Inducement of breach of contract
-layout: single
+
 ---
 

@@ -15,7 +15,7 @@ tags:
   - Misrepresentation
   - No prejudice caused or reliance on misrepresentation
   - Whether claim made out
-layout: single
+
 ---
 # Itochu Steel Asia Pte Ltd v CV Wira Mustika Indah and Others 
 

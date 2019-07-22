@@ -14,7 +14,7 @@ tags:
   - >-
     Whether use of registered mark by plaintiff in stylised form amounting to
     use of registered mark under s 22 Trade Marks Act
-layout: single
+
 ---
 # Richemont International SA v Da Vinci Collections Pte Ltd 
 

@@ -22,7 +22,7 @@ tags:
   - Estoppel
   - When estoppel applicable
   - When silence amounts to representation
-layout: single
+
 ---
 # Tacplas Property Services Pte Ltd v Lee Peter Michael (administrator of the estate of Lee 
 

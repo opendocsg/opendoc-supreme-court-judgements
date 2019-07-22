@@ -8,7 +8,7 @@ tags:
   - Companies
   - Receiver and Manager
   - Derivative Action
-layout: single
+
 ---
 # Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda 
 

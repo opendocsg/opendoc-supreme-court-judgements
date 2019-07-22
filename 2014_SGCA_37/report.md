@@ -5,7 +5,7 @@ tags:
   - Family Law
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 # Surindar Singh s/o Jaswant Singh v Sita Jaswant Kaur 
 

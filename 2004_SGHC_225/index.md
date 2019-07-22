@@ -20,6 +20,6 @@ tags:
   - Defamation
   - Qualified privilege
   - Whether defence of qualified privilege made out
-layout: single
+
 ---
 

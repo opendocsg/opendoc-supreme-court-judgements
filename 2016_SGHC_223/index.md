@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Amendments
   - Judgments
-layout: single
+
 ---
 

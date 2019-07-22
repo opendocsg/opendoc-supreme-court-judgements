@@ -6,6 +6,6 @@ tags:
   - Breach
   - Equity
   - Promissory Estoppel
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - Property Tax
   - Occupier
-layout: single
+
 ---
 # BFC Development LLP v Comptroller of Property Tax 
 

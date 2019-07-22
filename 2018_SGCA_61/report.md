@@ -5,7 +5,7 @@ tags:
   - Courts and Jurisdiction
   - Judges
   - Recusal
-layout: single
+
 ---
 # BOI v BOJ 
 

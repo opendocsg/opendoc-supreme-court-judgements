@@ -21,7 +21,7 @@ tags:
     First and second defendants entering into negotiations to deal directly with
     first plaintiff\'s customers
   - Whether second defendant liable for inducing breach of contract
-layout: single
+
 ---
 # Advantest Corporate Office (Singapore) Pte Ltd and Another v SL Link Co Ltd (also known as 
 

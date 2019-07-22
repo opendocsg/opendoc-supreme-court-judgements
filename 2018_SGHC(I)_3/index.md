@@ -6,6 +6,6 @@ tags:
   - Rules of Court
   - Singapore International Commercial Court
   - Offshore case
-layout: single
+
 ---
 

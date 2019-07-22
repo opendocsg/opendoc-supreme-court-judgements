@@ -27,6 +27,6 @@ tags:
   - Words and Phrases
   - Meaning of \"indemnify for ... costs and expenses\"
   - Whether covering appellant\'s remuneration
-layout: single
+
 ---
 

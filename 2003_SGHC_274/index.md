@@ -13,6 +13,6 @@ tags:
     Possession of controlled drug under s 8(a) of the Misuse of Drugs Act (Cap
     185, 2001 Rev Ed)
   - Whether sentence manifestly excessive
-layout: single
+
 ---
 

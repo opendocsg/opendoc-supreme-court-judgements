@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Costs
   - Certificate for costs for more than two solicitors
-layout: single
+
 ---
 

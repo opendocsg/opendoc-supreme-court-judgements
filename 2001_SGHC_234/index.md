@@ -25,6 +25,6 @@ tags:
   - Words and Phrases
   - \'Judgment\'
   - s 217 Criminal Procedure Code (Cap 68)
-layout: single
+
 ---
 

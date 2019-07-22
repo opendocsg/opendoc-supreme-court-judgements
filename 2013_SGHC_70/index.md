@@ -10,6 +10,6 @@ tags:
   - Land
   - Easements
   - Characteristics
-layout: single
+
 ---
 

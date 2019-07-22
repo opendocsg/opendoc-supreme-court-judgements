@@ -4,6 +4,6 @@ title: >-
   "Kapitan
 subtitle: "[2000] SGHC 110 / 19\_June\_2000"
 tags: null
-layout: single
+
 ---
 

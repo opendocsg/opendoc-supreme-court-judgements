@@ -16,6 +16,6 @@ tags:
   - Contractual terms
   - Implied terms
   - Implied duty to cooperate
-layout: single
+
 ---
 

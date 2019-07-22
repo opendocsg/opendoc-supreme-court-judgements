@@ -10,7 +10,7 @@ tags:
   - Courts and Jurisdiction
   - Jurisdiction
   - Appellate
-layout: single
+
 ---
 # Ramalingam Ravinthran v Attorney-General 
 

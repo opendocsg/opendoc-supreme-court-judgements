@@ -5,7 +5,7 @@ tags:
   - Banking
   - Performance Bonds
   - Unconscionability
-layout: single
+
 ---
 # Join-Aim Pte Ltd v BS Mount Sophia Pte Ltd and another 
 

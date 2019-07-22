@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - sentencing
   - young offenders
-layout: single
+
 ---
 # Ahmad Syafiq Bin Azmi v Public Prosecutor 
 

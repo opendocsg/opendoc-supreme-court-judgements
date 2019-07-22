@@ -14,7 +14,7 @@ tags:
     Workman withdrawing timely compensation claim to commence common law action
     but subsequently reverting to claim
   - Whether limitation period applicable to bar claim
-layout: single
+
 ---
 # Pang Chen Suan v Commissioner for Labour 
 

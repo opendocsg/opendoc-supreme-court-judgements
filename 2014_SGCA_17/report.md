@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - Offences
   - Rape
-layout: single
+
 ---
 # Sivakumar s/o Selvarajah v Public Prosecutor 
 

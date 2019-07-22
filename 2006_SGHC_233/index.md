@@ -10,6 +10,6 @@ tags:
   - Patents and Inventions
   - Infringement
   - Whether plaintiff\'s patent infringed by defendant\'s product
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Agreement
   - Breach
   - Anti-suit injunction
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sun Travels & Tours Pvt Ltd _v_ Hilton International Manage (Maldives) Pvt Ltd  

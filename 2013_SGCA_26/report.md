@@ -8,7 +8,7 @@ tags:
   - Infringement
   - Tort
   - Passing Off
-layout: single
+
 ---
 # Hai Tong Co (Pte) Ltd v Ventree Singapore Pte Ltd and another and another appeal
 

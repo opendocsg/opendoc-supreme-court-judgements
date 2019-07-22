@@ -5,7 +5,7 @@ tags:
   - Damages
   - Assessment
   - Quantum
-layout: single
+
 ---
 # Ong Kim Teck v Quek Chin Hwa (trading as Quek Chin Hwa Construction) 
 

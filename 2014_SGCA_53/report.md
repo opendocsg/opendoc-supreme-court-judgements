@@ -13,7 +13,7 @@ tags:
   - Constitutional Law
   - Constitution
   - Interpretation
-layout: single
+
 ---
 # Lim Meng Suang and another v Attorney-General and another appeal and another matter 
 

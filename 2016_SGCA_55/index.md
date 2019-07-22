@@ -9,6 +9,6 @@ tags:
   - Joint and several liability
   - Damages
   - Interest
-layout: single
+
 ---
 

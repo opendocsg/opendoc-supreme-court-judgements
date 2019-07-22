@@ -19,6 +19,6 @@ tags:
     Whether application for personal protection order civil or criminal in
     nature
   - 'ss 65(5) & 79 Women\''s Charter (Cap 353, 1997 Ed)'
-layout: single
+
 ---
 

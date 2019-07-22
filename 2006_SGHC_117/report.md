@@ -36,7 +36,7 @@ tags:
     violence
   - Whether offence taking place in public place an aggravating factor
   - Whether deterrent sentence warranted
-layout: single
+
 ---
 # Tan Kay Beng v Public Prosecutor 
 

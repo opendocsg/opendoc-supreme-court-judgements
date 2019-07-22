@@ -6,6 +6,6 @@ tags:
   - Interlocutory injunction
   - Variation
   - Whether variation sought led to true preservation of status quo
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Arbitration
   - International Arbitration Act
   - Stay of Arbitral Proceedings
-layout: single
+
 ---
 # AYY v AYZ and another 
 

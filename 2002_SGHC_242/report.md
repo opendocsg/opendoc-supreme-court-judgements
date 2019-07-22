@@ -19,7 +19,7 @@ tags:
   - Failure to call material witness
   - Whether adverse inference should be drawn
   - 'Evidence Act (Cap 97, 1997 Rev Ed) s 116 illustration (g)'
-layout: single
+
 ---
 # Public Prosecutor v Nurashikin Binte Ahmad Borhan 
 

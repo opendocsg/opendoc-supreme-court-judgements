@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Mitigating factors
   - Provocation by victim against backdrop of marital abuse
-layout: single
+
 ---
 

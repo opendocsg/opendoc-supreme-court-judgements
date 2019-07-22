@@ -6,7 +6,7 @@ tags:
   - Duty of Care
   - Tort
   - Misrepresentation
-layout: single
+
 ---
 # Deutsche Bank AG v Chang Tse Wen and another appeal 
 

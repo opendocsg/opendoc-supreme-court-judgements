@@ -13,6 +13,6 @@ tags:
     Whether agreement on costs to be made between client and individual
     solicitors or law corporations allowed under Legal Profession Act (Cap 161,
     2001 Rev Ed)
-layout: single
+
 ---
 

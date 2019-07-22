@@ -17,6 +17,6 @@ tags:
   - Rules of construction
   - Whether \"tag-along\" clause applicable in circumstances of case
   - Regard to substance of transactions
-layout: single
+
 ---
 

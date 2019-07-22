@@ -8,6 +8,6 @@ tags:
   - Contextual approach to contractual interpretation
   - Equity
   - Estoppel by convention
-layout: single
+
 ---
 

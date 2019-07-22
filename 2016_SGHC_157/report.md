@@ -14,7 +14,7 @@ tags:
   - Companies
   - Oppression
   - Minority shareholders
-layout: single
+
 ---
 # Venkatraman Kalyanaraman v Nithya Kalyani and others 
 

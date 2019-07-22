@@ -10,7 +10,7 @@ tags:
   - Disputes
   - Unincorporated Associations and Trade Unions
   - Legal Proceedings
-layout: single
+
 ---
 # Tan Wee Tin and others v Singapore Swimming Club 
 

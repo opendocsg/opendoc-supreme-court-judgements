@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Mandatory Treatment Order
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ng Hai Chong Brandon _v_ Public Prosecutor  

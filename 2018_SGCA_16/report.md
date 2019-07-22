@@ -14,7 +14,7 @@ tags:
   - Trusts
   - Beneficiaries
   - Rights
-layout: single
+
 ---
 # Ernest Ferdinand Perez De La Sala v Compañia De Navegación Palomar, SA and others and 
 

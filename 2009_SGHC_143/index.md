@@ -26,6 +26,6 @@ tags:
   - >-
     Whether striking out of statement of claim and defence to counterclaim
     justified
-layout: single
+
 ---
 

@@ -17,7 +17,7 @@ tags:
   - Statutory interpretation
   - Interpretation Act
   - Extrinsic aids
-layout: single
+
 ---
 # Zhao Hui Fang and others v Commissioner of Stamp Duties 
 

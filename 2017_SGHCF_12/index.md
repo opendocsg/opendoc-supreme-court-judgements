@@ -10,6 +10,6 @@ tags:
   - >-
     Articles 3 and 13(a) of the Convention on the Civil Aspects of International
     Child Abduction
-layout: single
+
 ---
 

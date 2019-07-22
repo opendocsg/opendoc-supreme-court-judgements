@@ -10,6 +10,6 @@ tags:
   - Sentencing
   - Principles
   - Disqualification orders
-layout: single
+
 ---
 

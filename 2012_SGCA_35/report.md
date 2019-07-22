@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # PT Prima International Development v Kempinski Hotels SA and other appeals 
 

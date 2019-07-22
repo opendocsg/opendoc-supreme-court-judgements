@@ -4,6 +4,6 @@ subtitle: "[2010] SGHC 171 / 02\_June\_2010"
 tags:
   - Landlord and tenant
   - Agreements for leases
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Offences
   - Property
   - Receiving stolen property
-layout: single
+
 ---
 # Chua Boon Chye v Public Prosecutor 
 

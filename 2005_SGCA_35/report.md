@@ -32,7 +32,7 @@ tags:
   - Defamation
   - Qualified privilege
   - Whether comments proportionate response to attacks
-layout: single
+
 ---
 # Oei Hong Leong v Ban Song Long David and Others 
 

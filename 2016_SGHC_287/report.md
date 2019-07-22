@@ -5,7 +5,7 @@ tags:
   - Insolvency law
   - Cross-border insolvency
   - Recognition of foreign insolvency proceedings
-layout: single
+
 ---
 # Re Gulf Pacific Shipping Ltd (in creditors’ voluntary liquidation) and others 
 

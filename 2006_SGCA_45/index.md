@@ -14,6 +14,6 @@ tags:
   - >-
     Whether son holding joint bank accounts on resulting trust for father\'s
     estate
-layout: single
+
 ---
 

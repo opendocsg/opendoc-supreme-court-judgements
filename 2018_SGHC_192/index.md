@@ -13,6 +13,6 @@ tags:
   - Limitation of Actions
   - Extension of limitation period
   - Acknowledgement
-layout: single
+
 ---
 

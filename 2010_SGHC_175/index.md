@@ -6,6 +6,6 @@ tags:
   - Issue Estoppel
   - Tort
   - Defamation
-layout: single
+
 ---
 

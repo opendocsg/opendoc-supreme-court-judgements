@@ -9,7 +9,7 @@ tags:
   - >-
     Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of
     Benefits) Act (Cap 65A, 2000 Rev Ed)
-layout: single
+
 ---
 # Public Prosecutor v Ng Teck Lee (Centillion Environment & Recycling Ltd (formerly known as 
 

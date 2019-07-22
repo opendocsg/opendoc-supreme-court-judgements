@@ -5,7 +5,7 @@ tags:
   - Admiralty and shipping
   - Admiralty jurisdiction and arrest
   - Action in rem
-layout: single
+
 ---
 # DSA Consultancy (FZC) v The “Eurohope” 
 

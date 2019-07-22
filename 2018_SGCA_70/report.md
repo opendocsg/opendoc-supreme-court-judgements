@@ -7,7 +7,7 @@ tags:
   - Courts and Jurisdiction
   - Court of Appeal
   - Power to reopen concluded criminal appeal
-layout: single
+
 ---
 # Abdul Kahar bin Othman v Public Prosecutor 
 

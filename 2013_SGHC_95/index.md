@@ -6,6 +6,6 @@ tags:
   - Dispute Resolution
   - Adjudication
   - Settlement Agreements
-layout: single
+
 ---
 

@@ -23,7 +23,7 @@ tags:
   - Whether member can change instructions to proxy
   - Whether member can change proxy
   - Member\'s recourse in such situation
-layout: single
+
 ---
 # Tong Keng Meng v Inno-Pacific Holdings Ltd and Another 
 

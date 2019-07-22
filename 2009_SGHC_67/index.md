@@ -5,6 +5,6 @@ tags:
   - Courts and Jurisdiction
   - Court of criminal appeal
   - Appeal against refusal to review detention
-layout: single
+
 ---
 

@@ -22,6 +22,6 @@ tags:
   - >-
     Whether validator and witness could and should have excused themselves from
     deliberations
-layout: single
+
 ---
 

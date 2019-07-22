@@ -44,7 +44,7 @@ tags:
   - >-
     Whether solicitor failing to ensure meaning and effect of documents
     satisfactorily explained to client
-layout: single
+
 ---
 # Oversea-Chinese Banking Corp Ltd v Tan Teck Khong and Another (committee of the estate 
 

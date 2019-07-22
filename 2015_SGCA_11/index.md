@@ -9,6 +9,6 @@ tags:
   - Right to life and personal liberty
   - Constitutional Law
   - Equal protection of the law
-layout: single
+
 ---
 

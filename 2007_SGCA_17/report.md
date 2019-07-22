@@ -11,7 +11,7 @@ tags:
     Whether coating failure was of such magnitude as to undermine contract for
     coated tanks or affecting vessel\'s cargoworthiness
   - Whether contractual agreement to cancel fixture without liability existing
-layout: single
+
 ---
 # The "Asia Star" 
 

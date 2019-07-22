@@ -5,7 +5,7 @@ tags:
   - Arbitration
   - Enforcement
   - Enforcement against a State
-layout: single
+
 ---
 # Josias Van Zyl and others v Kingdom of Lesotho 
 

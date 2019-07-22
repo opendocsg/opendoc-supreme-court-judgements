@@ -14,7 +14,7 @@ tags:
     Whether High Court having general power under Civil Law Act to grant Mareva
     relief in support of such foreign arbitration
   - Whether preconditions for grant of Mareva relief existing
-layout: single
+
 ---
 # Front Carriers Ltd v Atlantic & Orient Shipping Corp 
 

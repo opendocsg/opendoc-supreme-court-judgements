@@ -10,7 +10,7 @@ tags:
   - Criminal Law
   - Special exceptions
   - Sudden fight
-layout: single
+
 ---
 # Public Prosecutor v Gopinathan Nair Remadevi Bijukumar 
 

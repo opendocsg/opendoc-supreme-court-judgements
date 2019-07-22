@@ -8,6 +8,6 @@ tags:
   - Deceased died of heart attack
   - Whether doctors negligent to discharge deceased before coronary angiogram
   - Whether coronoary angiogram elective or urgent
-layout: single
+
 ---
 

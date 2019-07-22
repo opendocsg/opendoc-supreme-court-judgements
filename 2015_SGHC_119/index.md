@@ -5,6 +5,6 @@ tags:
   - Tort
   - Negligence
   - Breach of duty
-layout: single
+
 ---
 

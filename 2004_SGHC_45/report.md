@@ -18,7 +18,7 @@ tags:
     Whether action in Singapore should be stayed in favour of jurisdiction of
     choice in bill of lading
   - Whether owners of vessel entitled to jurisdiction clause in bill of lading
-layout: single
+
 ---
 # The "Hyundai Fortune" 
 

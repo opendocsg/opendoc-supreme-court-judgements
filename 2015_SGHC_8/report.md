@@ -8,7 +8,7 @@ tags:
   - Criminal law
   - Statutory offences
   - Prevention of Corruption Act
-layout: single
+
 ---
 # Ding Si Yang v Public Prosecutor and another appeal 
 

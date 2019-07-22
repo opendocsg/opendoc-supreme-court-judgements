@@ -5,6 +5,6 @@ tags:
   - Family Law
   - Family Court
   - Procedure
-layout: single
+
 ---
 

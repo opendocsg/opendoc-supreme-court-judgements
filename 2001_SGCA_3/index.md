@@ -24,6 +24,6 @@ tags:
   - Qualified privilege
   - Whether defamatory remarks made on occasion of qualified privilege
   - Whether malice proved on defendant\'s own evidence
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Breach
   - Legal Profession
   - Conflict of interest
-layout: single
+
 ---
 

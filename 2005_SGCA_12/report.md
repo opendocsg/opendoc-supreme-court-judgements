@@ -12,7 +12,7 @@ tags:
   - >-
     Whether developer can claim against architects for substantial damages in
     respect of defects
-layout: single
+
 ---
 # Chia Kok Leong and Another v Prosperland Pte Ltd 
 

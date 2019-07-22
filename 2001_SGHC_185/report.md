@@ -20,7 +20,7 @@ tags:
   - Inapplicability of enforcement of foreign judgment statues
   - Whether plaintiff entitled to sue on foreign judgment alone
   - Conclusive effect of foreign judgment
-layout: single
+
 ---
 # Les Placements Germain Gauthier Inc v Hong Pian Tee 
 

@@ -15,7 +15,7 @@ tags:
   - >-
     Whether plaintiff entitled to refund of moneys advanced to defendant on
     ground of such total failure of consideration
-layout: single
+
 ---
 # Firstlink Energy Pte Ltd v Creanovate Pte Ltd and Another Action 
 

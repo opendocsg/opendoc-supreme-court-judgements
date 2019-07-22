@@ -15,6 +15,6 @@ tags:
   - Evidence
   - Documentary evidence
   - Proof of contents
-layout: single
+
 ---
 

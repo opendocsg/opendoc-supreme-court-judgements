@@ -14,6 +14,6 @@ tags:
   - Family law
   - maintenance
   - child
-layout: single
+
 ---
 

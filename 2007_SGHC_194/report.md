@@ -6,7 +6,7 @@ tags:
   - Contractual terms
   - Finding of fact
   - Whether certain documents were part of the contract
-layout: single
+
 ---
 # Ho Pak Kim Realty Co Pte Ltd v Revitech Pte Ltd 
 

@@ -14,6 +14,6 @@ tags:
   - >-
     Whether conduct precluding plaintiff from taking advantage of own wrong
     existing
-layout: single
+
 ---
 

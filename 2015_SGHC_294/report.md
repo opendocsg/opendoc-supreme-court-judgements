@@ -9,7 +9,7 @@ tags:
   - Misrepresentation
   - Measure of damages
   - Loss of profits
-layout: single
+
 ---
 # Haneda Construction & Machinery Pte Ltd v Huttons Asia Pte Ltd and another 
 

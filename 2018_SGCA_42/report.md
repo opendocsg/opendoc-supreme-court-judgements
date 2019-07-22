@@ -11,7 +11,7 @@ tags:
   - Tort
   - Negligence
   - Causation
-layout: single
+
 ---
 # Singapore Rifle Association v Singapore Shooting Association 
 

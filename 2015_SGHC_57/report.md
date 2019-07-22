@@ -7,7 +7,7 @@ tags:
   - guarantees and bonds
   - Credit and security
   - Performance bond
-layout: single
+
 ---
 # JK Integrated (Pte Ltd) v 50 Robinson Pte Ltd and another 
 

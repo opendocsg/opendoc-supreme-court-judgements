@@ -15,7 +15,7 @@ tags:
   - Children
   - Quantum of maintenance
   - Whether maintenance granted fair
-layout: single
+
 ---
 # Yow Mee Lan v Chen Kai Buan 
 

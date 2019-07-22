@@ -14,6 +14,6 @@ tags:
   - Subcontracts
   - Contract
   - Limitation Act
-layout: single
+
 ---
 

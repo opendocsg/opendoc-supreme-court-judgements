@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # The 'Bonito' v The 'Ah Lam II' and Another 
 

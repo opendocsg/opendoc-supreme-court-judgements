@@ -7,7 +7,7 @@ tags:
   - Application
   - Administrative Law
   - Judicial review
-layout: single
+
 ---
 # AXY and others v Comptroller of Income Tax 
 

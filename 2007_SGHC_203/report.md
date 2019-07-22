@@ -27,7 +27,7 @@ tags:
     even after decree absolute issued
   - Whether wife dependant
   - 'Section 20 Civil Law Act (Cap 43, 1999 Rev Ed)'
-layout: single
+
 ---
 # Hanson Ingrid Christina and Others v Tan Puey Tze and Another Appeal 
 

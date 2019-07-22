@@ -24,6 +24,6 @@ tags:
   - Plea of guilt
   - Allegations against defence counsel and interpreter
   - Whether accused understood nature and consequences of plea
-layout: single
+
 ---
 

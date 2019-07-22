@@ -10,6 +10,6 @@ tags:
   - Striking out
   - Civil Procedure
   - Third party proceedings
-layout: single
+
 ---
 

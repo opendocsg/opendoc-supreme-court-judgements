@@ -9,7 +9,7 @@ tags:
   - Three stage test for admission
   - Whether issues of sufficient complexity and difficulty
   - Whether local expertise present
-layout: single
+
 ---
 # Re Howe Martin Russell Thomas QC 
 

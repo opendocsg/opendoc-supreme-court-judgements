@@ -7,6 +7,6 @@ tags:
   - Whether recycling agreements between parties breached
   - Whether consequent termination proper
   - Whether damage has been suffered by parties.
-layout: single
+
 ---
 

@@ -12,7 +12,7 @@ tags:
   - regulation
   - Contract
   - contractual terms
-layout: single
+
 ---
 # Pacific & Orient Insurance Co Bhd (formerly known as Pacific & Orient Insurance Co Sdn 
 

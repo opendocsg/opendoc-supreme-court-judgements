@@ -7,7 +7,7 @@ tags:
   - Non-exclusive
   - Civil Procedure
   - Stay of proceedings
-layout: single
+
 ---
 # Abdul Rashid bin Abdul Manaf v Hii Yii Ann 
 

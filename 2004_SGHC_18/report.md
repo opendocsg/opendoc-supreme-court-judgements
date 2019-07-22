@@ -22,7 +22,7 @@ tags:
   - Dishonest intention to take property
   - Whether taking was with dishonest intent
   - Whether ability to pay has a bearing upon dishonest intention
-layout: single
+
 ---
 # Mustaza Bin Abdul Majid v Public Prosecutor 
 

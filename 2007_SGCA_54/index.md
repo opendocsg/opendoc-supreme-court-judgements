@@ -33,6 +33,6 @@ tags:
     Whether presumption of advancement applying to displace the initial
     presumption
   - Whether sufficient evidence adduced to rebut presumption of advancement
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
   - >-
     Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189, 2000 Rev
     Ed) ss 3(1) and 3(2)
-layout: single
+
 ---
 # Chandara Sagaran s/o Rengayah v Public Prosecutor 
 

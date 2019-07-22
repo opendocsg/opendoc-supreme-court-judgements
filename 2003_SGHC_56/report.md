@@ -28,7 +28,7 @@ tags:
   - Tort
   - Misrepresentation
   - Whether there can be misrepresentation by silence
-layout: single
+
 ---
 # Trans-World (Aluminium) Ltd v Cornelder China (Singapore) 
 

@@ -8,7 +8,7 @@ tags:
   - >-
     Whether bondsman seeking to resist call has recourse to underlying contract
     between employer and contractor where contractor not party to suit
-layout: single
+
 ---
 # Chew Pin Pin v AGF Insurance (Singapore) Pte Ltd 
 

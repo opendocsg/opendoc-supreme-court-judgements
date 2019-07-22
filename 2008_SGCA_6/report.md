@@ -6,7 +6,7 @@ tags:
   - Third party proceedings
   - Failure to serve third-party notice before conclusion of main action
   - Legislative intent and construction of provisions on third-party proceedings
-layout: single
+
 ---
 # Ng Kit Har v Yii Chee Ming 
 

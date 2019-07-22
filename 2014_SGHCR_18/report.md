@@ -12,7 +12,7 @@ tags:
   - Order 87A
   - Rule 6
   - Notice of experiment
-layout: single
+
 ---
 # Syntroleum Corp v Neste Oil Singapore Pte Ltd 
 

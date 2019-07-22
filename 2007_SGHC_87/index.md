@@ -15,6 +15,6 @@ tags:
     Defence and third-party statement of claim struck out at trial stage under O
     18 r 19(1) of Rules of Court
   - Whether weak defence ground for striking out
-layout: single
+
 ---
 

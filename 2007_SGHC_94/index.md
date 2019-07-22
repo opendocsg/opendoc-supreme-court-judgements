@@ -18,6 +18,6 @@ tags:
     Whether any estoppel by convention in relation to specific date which bound
     property redevelopment company so that it was prevented from denying that
     that date was contractual completion date
-layout: single
+
 ---
 

@@ -23,6 +23,6 @@ tags:
   - Restitution
   - Restitution for wrongs
   - User principle
-layout: single
+
 ---
 

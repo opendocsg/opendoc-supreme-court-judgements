@@ -19,6 +19,6 @@ tags:
   - Accused given plastic bag by ex-prison mate
   - Whether ignorance of contents of plastic bag a defence
   - Whether element of knowledge proved
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Chan Tong Fan and another v Chiam Heng Luan Realty Pte Ltd (Chiam Toon Tau and 
 

@@ -9,6 +9,6 @@ tags:
   - Building and Construction Industry Security of Payment Act
   - Payment claim
   - Performance bond proceeds
-layout: single
+
 ---
 

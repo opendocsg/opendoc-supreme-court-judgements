@@ -7,7 +7,7 @@ tags:
   - Tort
   - Misrepresentation
   - Fraud and deceit
-layout: single
+
 ---
 # Oversea-Chinese Banking Corp Ltd v Asia Pacific Links Ltd and another (Abdul Rahman bin 
 

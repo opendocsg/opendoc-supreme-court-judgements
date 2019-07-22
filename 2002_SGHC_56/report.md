@@ -9,7 +9,7 @@ tags:
   - Writ of summons
   - Service out of jurisdiction
   - Substituted service
-layout: single
+
 ---
 # BNP Paribas (formerly known as Banque National De Paris) v Polynesia Timber Services Pte 
 

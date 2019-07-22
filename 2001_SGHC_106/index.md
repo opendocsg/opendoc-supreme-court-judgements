@@ -18,6 +18,6 @@ tags:
   - Whether allegedly defamatory words referring to plaintiffs
   - Words and Phrases
   - \"Natural and ordinary meaning of words\"
-layout: single
+
 ---
 

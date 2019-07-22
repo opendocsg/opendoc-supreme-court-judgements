@@ -10,7 +10,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Lim Seng Choon David v Global Maritime Holdings Ltd and another and another suit 
 

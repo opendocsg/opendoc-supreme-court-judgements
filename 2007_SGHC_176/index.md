@@ -14,6 +14,6 @@ tags:
     Former director of company taking over premises and equipment of company\'s
     overseas office on behalf of competing company
   - Whether former director and competing company liable for conversion
-layout: single
+
 ---
 

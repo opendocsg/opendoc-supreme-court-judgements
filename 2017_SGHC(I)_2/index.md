@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Parties
   - Substitution
-layout: single
+
 ---
 

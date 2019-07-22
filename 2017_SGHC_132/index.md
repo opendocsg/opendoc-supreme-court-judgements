@@ -7,6 +7,6 @@ tags:
   - Preventive action
   - Criminal Procedure and Sentencing
   - Disputes as to immovable property
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Assessment
   - Equity
   - Satisfaction
-layout: single
+
 ---
 

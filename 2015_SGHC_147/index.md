@@ -5,6 +5,6 @@ tags:
   - Companies
   - direc tors
   - duties
-layout: single
+
 ---
 

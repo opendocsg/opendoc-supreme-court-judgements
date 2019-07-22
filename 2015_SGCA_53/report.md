@@ -6,7 +6,7 @@ tags:
   - Judicial Review
   - Constitutional Law
   - Equality before the Law
-layout: single
+
 ---
 # Muhammad Ridzuan bin Mohd Ali v Attorney-General 
 

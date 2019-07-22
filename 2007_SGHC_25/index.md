@@ -5,6 +5,6 @@ tags:
   - Damages
   - Compensation and damages
   - Workman falling at place of work and suffering injuries
-layout: single
+
 ---
 

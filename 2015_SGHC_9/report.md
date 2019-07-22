@@ -8,7 +8,7 @@ tags:
   - Breach
   - Damages
   - Measure of damages
-layout: single
+
 ---
 # ACB v Thomson Medical Pte Ltd and others 
 

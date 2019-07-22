@@ -38,7 +38,7 @@ tags:
   - Damages
   - Interest payable on damages
   - Appropriate rate of interest
-layout: single
+
 ---
 # RBG Resources plc (in liquidation) v Banque Cantonale Vaudoise and Others 
 

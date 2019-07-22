@@ -31,6 +31,6 @@ tags:
   - Validity
   - Novelty and inventiveness
   - Whether patent invalid for lack of novelty and inventiveness
-layout: single
+
 ---
 

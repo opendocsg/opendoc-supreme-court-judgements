@@ -5,6 +5,6 @@ tags:
   - Civil procedure
   - Costs
   - Principles
-layout: single
+
 ---
 

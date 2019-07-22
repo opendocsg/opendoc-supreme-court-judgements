@@ -7,6 +7,6 @@ tags:
   - Striking Out
   - Constitutional Law
   - Discrimination
-layout: single
+
 ---
 

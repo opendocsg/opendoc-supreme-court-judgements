@@ -20,7 +20,7 @@ tags:
   - >-
     Section 6(2) Arbitration Act (Cap 10, 2002 Rev Ed), s 6(2) International
     Arbitration Act (Cap 143A, 2002 Rev Ed)
-layout: single
+
 ---
 # Dalian Hualiang Enterprise Group Co Ltd and Another v Louis Dreyfus Asia Pte Ltd 
 

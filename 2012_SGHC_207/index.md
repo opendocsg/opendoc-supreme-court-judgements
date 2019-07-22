@@ -12,6 +12,6 @@ tags:
   - Injunction
   - Tort
   - Inducement of breach of contract
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Tan Eck Hong v Maxz Universal Development Group Pte Limited 
 

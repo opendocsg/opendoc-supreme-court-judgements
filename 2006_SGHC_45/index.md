@@ -25,6 +25,6 @@ tags:
     Insurer liable in respect of third-party risks even after cancellation of
     policy
   - Whether policy deemed to be in force where insurer statutorily liable
-layout: single
+
 ---
 

@@ -24,6 +24,6 @@ tags:
   - >-
     Whether trial judge misdirected herself with respect to proper inference to
     be drawn from evidence
-layout: single
+
 ---
 

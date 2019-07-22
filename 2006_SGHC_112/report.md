@@ -13,7 +13,7 @@ tags:
   - >-
     Section 90, Fourth Schedule r 13 Parliamentary Elections Act (Cap 218, 2001
     Rev Ed)
-layout: single
+
 ---
 # Chee Siok Chin v Attorney-General 
 

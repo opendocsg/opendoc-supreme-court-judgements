@@ -13,7 +13,7 @@ tags:
   - Companies
   - Incorporation of companies
   - Lifting corporate veil
-layout: single
+
 ---
 # Lakshmi Anil Salgaocar v Hadley James Chilton and others 
 

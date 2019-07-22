@@ -18,7 +18,7 @@ tags:
   - >-
     Whether accused of unstable character and likely to commit such offence in
     future
-layout: single
+
 ---
 # Public Prosecutor v Aniza bte Essa 
 

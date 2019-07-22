@@ -11,7 +11,7 @@ tags:
   - Tort
   - Negligenc e
   - Breac h of duty
-layout: single
+
 ---
 # Tan Chin Yew Joseph v Saxo Capital Markets Pte Ltd 
 

@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Appeals
   - Leave
-layout: single
+
 ---
 # Clearlab SG Pte Ltd v Ma Zhi and another 
 

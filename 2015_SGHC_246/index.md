@@ -15,6 +15,6 @@ tags:
   - damages
   - Equity
   - estoppel
-layout: single
+
 ---
 

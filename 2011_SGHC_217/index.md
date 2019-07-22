@@ -6,6 +6,6 @@ tags:
   - Matrimonial Assets
   - Division
   - Matrimonial Home
-layout: single
+
 ---
 

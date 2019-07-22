@@ -22,6 +22,6 @@ tags:
   - >-
     Construction of phrase \"any legal action or proceedings arising out of or
     in connection with this agreement\"
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Credit and security
   - Money and moneylenders
   - Illegal moneylending
-layout: single
+
 ---
 # G1 Construction Pte Ltd v Astoria Development Pte Ltd and another and other suits 
 

@@ -11,7 +11,7 @@ tags:
     Whether victim could recover 70% of damages assessed capped at statutory
     limit or only 70% of statutory limit
   - 'Section 20 Subordinate Courts Act (Cap 321, 2007 Rev Ed)'
-layout: single
+
 ---
 # Ng Chan Teng v Keppel Singmarine Dockyard Pte Ltd 
 

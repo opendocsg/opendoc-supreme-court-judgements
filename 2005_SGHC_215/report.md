@@ -17,7 +17,7 @@ tags:
   - Subcontractor accepting periodic payments with deductions
   - Lack of protest by subcontractor to deductions
   - Whether subcontractor estopped from making claim for wrongful deductions
-layout: single
+
 ---
 # Tan Wai Kok (formerly trading as TWK Skill Engineering Works) v Hart Engineering (Pte) Ltd 
 

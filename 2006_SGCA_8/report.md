@@ -17,7 +17,7 @@ tags:
   - >-
     Section 62 Bankruptcy Act (Cap 20, 2000 Rev Ed), r 98(2)(a) Bankruptcy Rules
     (Cap 20, R 1, 2002 Rev Ed)
-layout: single
+
 ---
 # Wee Soon Kim Anthony v Lim Chor Pee 
 

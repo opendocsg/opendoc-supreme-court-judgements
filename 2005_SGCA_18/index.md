@@ -28,6 +28,6 @@ tags:
   - >-
     Whether respondent entitled to respond by making allegedly defamatory
     statement
-layout: single
+
 ---
 

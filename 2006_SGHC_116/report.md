@@ -29,7 +29,7 @@ tags:
   - Plea for specific performance
   - Failure to plea assessment of damages should specific performance be refused
   - Whether court would order assessment of damages
-layout: single
+
 ---
 # Lee Chee Wei v Tan Hor Peow Victor and Others 
 

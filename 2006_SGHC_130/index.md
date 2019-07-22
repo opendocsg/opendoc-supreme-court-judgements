@@ -20,6 +20,6 @@ tags:
   - >-
     Whether non-merchantable quality of goods affords defence to plaintiff\'s
     claim on price
-layout: single
+
 ---
 

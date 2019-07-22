@@ -8,7 +8,7 @@ tags:
   - Family Law
   - Maintenance
   - Child
-layout: single
+
 ---
 # ABX v ABY and others 
 

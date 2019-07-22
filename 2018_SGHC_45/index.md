@@ -8,6 +8,6 @@ tags:
   - Breach of trust
   - Trusts
   - Accessory liability
-layout: single
+
 ---
 

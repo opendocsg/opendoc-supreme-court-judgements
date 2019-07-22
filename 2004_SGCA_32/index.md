@@ -13,6 +13,6 @@ tags:
     Whether weight attributed to fact that deceased\'s husband\'s DNA found in
     stain on deceased\'s kitchen floor
   - Whether appellant had made false confessions.
-layout: single
+
 ---
 

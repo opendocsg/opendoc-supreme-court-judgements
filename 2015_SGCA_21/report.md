@@ -7,7 +7,7 @@ tags:
   - Contract
   - Contractual terms
   - Implied terms
-layout: single
+
 ---
 # The One Suites Pte Ltd v Pacific Motor Credit (Pte) Ltd 
 

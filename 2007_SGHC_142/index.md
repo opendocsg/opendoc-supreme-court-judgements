@@ -8,6 +8,6 @@ tags:
     Section 34(1) Building and Construction Industry Security of Payment Act
     (Cap 30B, 2006 Rev Ed)
   - Whether Act applicable to final payment claims
-layout: single
+
 ---
 

@@ -15,7 +15,7 @@ tags:
     Plaintiff suing defendant in negligence for breach of duty to accurately
     value and certify its works
   - Nature of relationship between plaintiff and defendant
-layout: single
+
 ---
 # Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency 
 

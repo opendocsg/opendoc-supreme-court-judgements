@@ -10,6 +10,6 @@ tags:
   - Unnatural offences
   - Factors to be taken into consideration
   - Penal Code (Cap 224) s 377.
-layout: single
+
 ---
 

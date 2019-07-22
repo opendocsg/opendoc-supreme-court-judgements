@@ -6,6 +6,6 @@ tags:
   - Evidence
   - Beyond reasonable doubt
   - Sufficiency of third-party eye witness testimony
-layout: single
+
 ---
 

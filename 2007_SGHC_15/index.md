@@ -22,6 +22,6 @@ tags:
   - >-
     Whether the defendant could seek contribution from the two plaintiffs on the
     ground of contributory negligence
-layout: single
+
 ---
 

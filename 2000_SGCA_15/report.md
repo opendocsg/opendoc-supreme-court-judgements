@@ -22,7 +22,7 @@ tags:
   - >-
     Whether dispute over dismissal between employer and employee could be heard
     by Industrial Arbitration Court
-layout: single
+
 ---
 # Arokiasamy Joseph v Singapore Airlines Staff Union 
 

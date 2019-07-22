@@ -31,6 +31,6 @@ tags:
   - Words and Phrases
   - \"Substantially affect the rights\"
   - 's 28(2) Arbitration Act (Cap 10, 1985 Ed)'
-layout: single
+
 ---
 

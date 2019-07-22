@@ -6,7 +6,7 @@ tags:
   - Breach
   - Commercial Transactions
   - Sale of Goods
-layout: single
+
 ---
 # Anti-Corrosion Pte Ltd v Berger Paints Singapore Pte Ltd and another appeal 
 

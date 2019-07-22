@@ -11,7 +11,7 @@ tags:
   - Banking
   - Promissory notes
   - Payment
-layout: single
+
 ---
 # Rals International Pte Ltd v Cassa di Risparmio di Parma e Piacenza SpA 
 

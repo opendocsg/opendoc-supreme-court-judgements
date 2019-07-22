@@ -7,6 +7,6 @@ tags:
   - Causation
   - CONTRACT
   - Breach
-layout: single
+
 ---
 

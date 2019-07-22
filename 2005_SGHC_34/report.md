@@ -27,7 +27,7 @@ tags:
   - Whether expert exercised independent judgment
   - Expert\'s duty to court
   - 'Order 40A Rules 2 and 3 Rules of Court (Cap 322, R 5, 2004 Rev Ed)'
-layout: single
+
 ---
 # Soon Li Heng Civil Engineering Pte Ltd v Woon Contractors Pte Ltd 
 

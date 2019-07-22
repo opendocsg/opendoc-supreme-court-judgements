@@ -28,7 +28,7 @@ tags:
   - Defendants not entering appearance
   - Plaintiffs obtaining default judgment
   - Whether service of writ proper
-layout: single
+
 ---
 # Oversea-Chinese Banking Corp Ltd v Measurex Corp Bhd 
 

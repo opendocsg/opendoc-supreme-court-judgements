@@ -6,6 +6,6 @@ tags:
   - Avoidance of transactions
   - Unregistered charges
   - Lien over sub-freights and subhires
-layout: single
+
 ---
 

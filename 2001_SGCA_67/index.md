@@ -13,6 +13,6 @@ tags:
   - Denying successful appellant costs of appealling and costs below
   - Successful appellant did not appeal against trial judge\'s order on costs
   - Relevant circumstances
-layout: single
+
 ---
 

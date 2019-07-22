@@ -19,6 +19,6 @@ tags:
   - >-
     Whether High Court should exercise its discretionary powers to enhance
     sentence below under such circumstances
-layout: single
+
 ---
 

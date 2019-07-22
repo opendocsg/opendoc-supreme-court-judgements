@@ -25,6 +25,6 @@ tags:
   - Impossibility of performance of contract on maturity date
   - Whether contract frustrated
   - When frustration arises
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
     Application for leave to serve out of jurisdiction originating summons taken
     out under International Arbitration Act
   - Requirements to be satisfied under Rules of Court
-layout: single
+
 ---
 # Swift-Fortune Ltd v Magnifica Marine SA 
 

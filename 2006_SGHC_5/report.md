@@ -8,7 +8,7 @@ tags:
   - Whether circumstances warranting an order for striking off existing
   - Whether mitigating factors existing
   - 'Section 83 and 94A(1) Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 # Law Society of Singapore v Lim Stephen 
 

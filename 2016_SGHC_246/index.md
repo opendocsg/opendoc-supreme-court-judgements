@@ -10,6 +10,6 @@ tags:
   - Building and construction law
   - Terms
   - Implied terms
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Civil Procedure
   - Pleadings
   - Whether judge has power to investigate issues not raised in pleadings
-layout: single
+
 ---
 

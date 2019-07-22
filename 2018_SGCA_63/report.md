@@ -11,7 +11,7 @@ tags:
   - Arbitration
   - Agreement
   - Waiver
-layout: single
+
 ---
 # Marty Ltd v Hualon Corp (Malaysia) Sdn Bhd (receiver and manager appointed) 
 

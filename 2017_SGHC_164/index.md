@@ -5,6 +5,6 @@ tags:
   - Muslim Law
   - Gifts
   - HDB Flat
-layout: single
+
 ---
 

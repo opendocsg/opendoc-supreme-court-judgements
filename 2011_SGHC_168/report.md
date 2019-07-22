@@ -7,7 +7,7 @@ tags:
   - Contract
   - Contractual terms
   - Implied terms
-layout: single
+
 ---
 # Sentosa Development Corp v Sentosa Tiger Island Pte Ltd 
 

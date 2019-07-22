@@ -5,7 +5,7 @@ tags:
   - Evidenc e
   - Proof of evidenc e
   - Onus of proof
-layout: single
+
 ---
 # SCT Technologies Pte Ltd v Western Copper Co Ltd 
 

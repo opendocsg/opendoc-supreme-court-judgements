@@ -16,6 +16,6 @@ tags:
   - Whether Court duty bound to invite accused to present mitigating plea
   - Whether court duty bound to defend or assist accused
   - Burden on defence at close of criminal matter
-layout: single
+
 ---
 

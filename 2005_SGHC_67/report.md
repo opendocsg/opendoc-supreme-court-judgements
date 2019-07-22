@@ -17,7 +17,7 @@ tags:
   - Contract
   - Breach
   - Whether plaintiff breached contract by supplying defective concrete
-layout: single
+
 ---
 # Jurong Readymix Concrete Pte Ltd v Crescendas Pte Ltd (formerly known as Tavica Design 
 

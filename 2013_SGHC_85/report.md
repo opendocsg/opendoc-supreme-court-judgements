@@ -7,7 +7,7 @@ tags:
   - Legal Profession
   - Professional Conduct
   - breach
-layout: single
+
 ---
 # Law Society of Singapore v Wan Hui Hong James 
 

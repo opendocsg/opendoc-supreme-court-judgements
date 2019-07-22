@@ -19,6 +19,6 @@ tags:
   - Words and Phrases
   - \'Consent\'
   - O 59 r 28(4) Rules of Court
-layout: single
+
 ---
 

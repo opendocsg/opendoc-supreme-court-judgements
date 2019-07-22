@@ -33,7 +33,7 @@ tags:
     Relevant circumstances to be taken into consideration in exercise of power
     to revoke or invalidate
   - Whether registration should be invalidated
-layout: single
+
 ---
 # Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co 
 

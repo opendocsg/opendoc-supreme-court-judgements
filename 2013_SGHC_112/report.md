@@ -5,7 +5,7 @@ tags:
   - Contract
   - breach
   - damages
-layout: single
+
 ---
 # Excalibur Land (S) Pte Ltd v Win-Win Aluminium Systems Pte Ltd and another 
 

@@ -6,6 +6,6 @@ tags:
   - Trials
   - Evidence
   - Witnesses
-layout: single
+
 ---
 

@@ -33,6 +33,6 @@ tags:
   - >-
     Providing electronic copies of electronically stored documents in lieu of
     inspection
-layout: single
+
 ---
 

@@ -16,7 +16,7 @@ tags:
     Whether statutory demand ought to spell out debtor could pay sum demanded or
     to secure or compound for it
   - 'Section 254(2)(a) Companies Act (Cap 50, 2006 Rev Ed)'
-layout: single
+
 ---
 # BNP Paribas v Jurong Shipyard Pte Ltd 
 

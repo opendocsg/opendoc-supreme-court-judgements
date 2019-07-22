@@ -8,7 +8,7 @@ tags:
   - Fraud
   - Trusts
   - Recipient liability
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Red Star Marine Consultants Pte Ltd _v_ Personal Representatives of the Estate of Satwant Kaur d/o Sardara Singh, deceased and another  

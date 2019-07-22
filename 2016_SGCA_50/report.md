@@ -10,7 +10,7 @@ tags:
   - implied terms
   - Contract
   - breach
-layout: single
+
 ---
 # ACTAtek, Inc and another v Tembusu Growth Fund Ltd 
 

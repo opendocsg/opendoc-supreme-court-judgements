@@ -10,6 +10,6 @@ tags:
     Whether positive assertion of dispute by a party sufficient to stay
     proceedings
   - 'Section 6(2) International Arbitration Act (Cap 143A, 2002 Rev Ed)'
-layout: single
+
 ---
 

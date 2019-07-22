@@ -6,6 +6,6 @@ subtitle: "[2012] SGHCR 11 / 08\_August\_2012"
 tags:
   - Damages
   - Assessment
-layout: single
+
 ---
 

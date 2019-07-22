@@ -13,7 +13,7 @@ tags:
   - Elections
   - voting
   - right to vote
-layout: single
+
 ---
 # Wong Souk Yee v Attorney-General 
 

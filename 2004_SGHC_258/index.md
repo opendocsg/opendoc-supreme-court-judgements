@@ -24,6 +24,6 @@ tags:
     recoverable
   - Whether court should grant application
   - 'Section 128 Land Titles Act (Cap 157, 2004 Rev Ed)'
-layout: single
+
 ---
 

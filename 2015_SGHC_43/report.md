@@ -5,7 +5,7 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Court’s discretion under Arbitration Act
-layout: single
+
 ---
 # Sim Chay Koon and others v NTUC Income Insurance Co-operative Ltd 
 

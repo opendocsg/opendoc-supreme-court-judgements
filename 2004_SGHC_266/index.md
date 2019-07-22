@@ -16,6 +16,6 @@ tags:
   - Undue influence
   - Whether undue influence presumed
   - Whether actual undue influence established
-layout: single
+
 ---
 

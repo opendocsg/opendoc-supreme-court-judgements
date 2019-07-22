@@ -5,6 +5,6 @@ tags:
   - Family Law
   - Muslims
   - Issues within jurisdiction of civil court
-layout: single
+
 ---
 

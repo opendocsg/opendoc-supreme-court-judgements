@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Bala Murugan a/l Krishnan and Another v Public Prosecutor 
 

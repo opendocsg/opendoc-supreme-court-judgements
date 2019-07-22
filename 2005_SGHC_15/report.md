@@ -12,7 +12,7 @@ tags:
   - Civil Procedure
   - Costs
   - Whether appellant\'s less-than-clear offer to settle affects costs awarded
-layout: single
+
 ---
 # SBS Transit Ltd (formerly known as Singapore Bus Service Ltd) v Teo Chye Seng Douglas 
 

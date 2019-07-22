@@ -8,6 +8,6 @@ tags:
   - Contractual Terms
   - Contract
   - Breach
-layout: single
+
 ---
 

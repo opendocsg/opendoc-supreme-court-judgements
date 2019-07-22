@@ -13,7 +13,7 @@ tags:
   - Evidence
   - Documentary evidence
   - Electronic records
-layout: single
+
 ---
 # Telemedia Pacific Group Ltd v Credit Agricole (Suisse) SA (Yeh Mao-Yuan, third party) 
 

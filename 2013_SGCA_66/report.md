@@ -11,7 +11,7 @@ tags:
   - Recognition
   - Conflict of Laws
   - Property
-layout: single
+
 ---
 # The Republic of the Philippines v Maler Foundation and others and other appeals 
 

@@ -27,7 +27,7 @@ tags:
   - >-
     Whether limitation of liability clause dealt with the issue of liability or
     quantum of damages
-layout: single
+
 ---
 # Emjay Enterprises Pte Ltd v Skylift Consolidator (Pte) Ltd (Direct Services (HK) Ltd, Third 
 

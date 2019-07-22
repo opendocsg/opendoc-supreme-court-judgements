@@ -45,6 +45,6 @@ tags:
     Whether plaintiff\'s trade marks were well-known marks protected under s 55
     Trade Marks Act
   - 'Sections 2(1), 27 and 55 Trade Marks Act (Cap 332, 2005 Rev Ed)'
-layout: single
+
 ---
 

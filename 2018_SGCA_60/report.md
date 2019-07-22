@@ -5,7 +5,7 @@ tags:
   - Contract
   - Illegality and public policy
   - Foreign illegality
-layout: single
+
 ---
 # Teng Wen-Chung v EFG Bank AG, Singapore Branch 
 

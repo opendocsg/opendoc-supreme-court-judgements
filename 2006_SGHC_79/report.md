@@ -14,7 +14,7 @@ tags:
   - >-
     Circumstances under which loss of earnings of third party in caring for
     injured plaintiff may be claimed as damages
-layout: single
+
 ---
 # Chong Hwa Wee (by his Committee of Person and Estate, Chong Hwa Yin) v Estate of Loh 
 

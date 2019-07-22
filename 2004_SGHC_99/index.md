@@ -11,6 +11,6 @@ tags:
     Security for costs provided by plaintiffs\' solicitors by way of
     solicitors\' undertakings
   - Whether application to be released from undertakings ought to be granted
-layout: single
+
 ---
 

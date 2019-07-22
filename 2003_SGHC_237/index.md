@@ -14,6 +14,6 @@ tags:
   - Power to convict on amended charge and pronounce fresh sentence
   - Whether such powers to be exercised
   - 'ss 162, 256, 268 & 396 Criminal Procedure Code (Cap 68)'
-layout: single
+
 ---
 

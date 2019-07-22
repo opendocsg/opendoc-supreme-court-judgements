@@ -22,7 +22,7 @@ tags:
   - Words and Phrases
   - \"Employ\"
   - s 2 Immigration Act (Cap 133)
-layout: single
+
 ---
 # Loh Kim Lan and Another v Public Prosecutor 
 

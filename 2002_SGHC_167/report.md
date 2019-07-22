@@ -15,7 +15,7 @@ tags:
   - Witnesses
   - Hostile witness
   - Appellant\'s girlfriend testifying for the prosecution
-layout: single
+
 ---
 # G Ravichander v Public Prosecutor 
 

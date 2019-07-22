@@ -11,7 +11,7 @@ tags:
   - Family law
   - Maintenance
   - Wife
-layout: single
+
 ---
 # ARO v ARP 
 

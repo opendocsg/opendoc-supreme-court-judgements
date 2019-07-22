@@ -8,7 +8,7 @@ tags:
   - Banking
   - Demand guarantees
   - Fraud exception
-layout: single
+
 ---
 # Boustead Singapore Ltd v Arab Banking Corp (B.S.C.) 
 

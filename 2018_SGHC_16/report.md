@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Cross-border insolvency
   - Recognition of foreign insolvency proceedings
-layout: single
+
 ---
 # Re : Zetta Jet Pte Ltd and others 
 

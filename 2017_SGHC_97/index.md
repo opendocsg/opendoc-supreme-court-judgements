@@ -7,6 +7,6 @@ tags:
   - Land
   - Strata Titles
   - Management Council
-layout: single
+
 ---
 

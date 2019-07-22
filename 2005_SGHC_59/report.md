@@ -16,7 +16,7 @@ tags:
   - Designs
   - Registrable designs
   - Defendant claiming plaintiff\'s registration of design invalid
-layout: single
+
 ---
 # Nagasima Electronic Engineering Pte Ltd v APH Trading Pte Ltd 
 

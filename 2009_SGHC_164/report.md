@@ -8,7 +8,7 @@ tags:
   - Equity
   - Remedies
   - Rectification
-layout: single
+
 ---
 # Maxz Universal Development Group Pte Ltd v Shen Yixuan and Another Suit 
 

@@ -7,6 +7,6 @@ tags:
   - Companies
   - Receiver and manager
   - Remuneration
-layout: single
+
 ---
 

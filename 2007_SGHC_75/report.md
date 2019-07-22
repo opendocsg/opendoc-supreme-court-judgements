@@ -23,7 +23,7 @@ tags:
   - >-
     Whether demand by creditor against guarantor out of time because of
     statute-barred principal transaction
-layout: single
+
 ---
 # Kim Eng Securities Pte Ltd v Tan Suan Khee 
 

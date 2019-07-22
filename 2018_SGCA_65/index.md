@@ -7,6 +7,6 @@ tags:
   - Exclusive
   - Contract
   - Contractual terms
-layout: single
+
 ---
 

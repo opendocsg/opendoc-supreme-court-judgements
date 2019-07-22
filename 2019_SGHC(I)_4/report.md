@@ -8,7 +8,7 @@ tags:
   - Contract
   - Implied contracts
   - Illegality and public policy
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Malayan Banking Bhd _v_ Barclays Bank PLC

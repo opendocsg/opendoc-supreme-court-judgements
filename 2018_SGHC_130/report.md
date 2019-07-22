@@ -5,7 +5,7 @@ tags:
   - Res Judicata
   - Issue estoppel
   - Cause of action estoppel
-layout: single
+
 ---
 # Cheong Soh Chin and others v Eng Chiet Shoong and others 
 

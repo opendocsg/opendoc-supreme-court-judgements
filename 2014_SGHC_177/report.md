@@ -11,7 +11,7 @@ tags:
   - Tort
   - Negligence
   - Contributory negligence
-layout: single
+
 ---
 # Chen Qiangshi v Hong Fei CDY Construction Pte Ltd and another 
 

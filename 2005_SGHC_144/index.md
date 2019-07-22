@@ -29,6 +29,6 @@ tags:
     Whether unconsumed gross floor area of condominium amounting to common
     property
   - 'Section 3 Land Titles (Strata) Act (Cap 158, 1999 Rev Ed)'
-layout: single
+
 ---
 

@@ -16,6 +16,6 @@ tags:
   - >-
     Whether there was express malice by tortfeasor sufficient to defeat the
     defence of qualified privilege
-layout: single
+
 ---
 

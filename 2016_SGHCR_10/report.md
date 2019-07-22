@@ -10,7 +10,7 @@ tags:
   - Pleadings
   - Striking out
   - Whether action should be struck out
-layout: single
+
 ---
 # Antariksa Logistics Pte Ltd and others v Nurdian Cuaca and others 
 

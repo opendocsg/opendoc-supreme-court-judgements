@@ -7,7 +7,7 @@ tags:
   - Illegitimate pressure
   - Role of manifest disadvantage in determining illegitimacy of pressure
   - Other factors relevant in assessing whether pressure exerted illegitimate
-layout: single
+
 ---
 # Tam Tak Chuen v Khairul bin Abdul Rahman and Others 
 

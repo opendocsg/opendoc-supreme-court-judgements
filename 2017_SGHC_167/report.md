@@ -11,7 +11,7 @@ tags:
   - Equity
   - Fiduciary relationships
   - When arising
-layout: single
+
 ---
 # Pereira Dennis John Sunny v Faridah bte V Abdul Latiff 
 

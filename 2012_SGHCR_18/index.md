@@ -7,6 +7,6 @@ tags:
   - court’s discretion under Arbitration Act
   - Civil Procedure
   - Consolidation
-layout: single
+
 ---
 

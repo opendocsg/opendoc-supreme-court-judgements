@@ -10,6 +10,6 @@ tags:
   - Dispute Resolution
   - Adjudication
   - Stay of enforcement of adjudication determination
-layout: single
+
 ---
 

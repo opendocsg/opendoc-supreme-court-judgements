@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - Income taxation
   - 'Construction of s 10E Income Tax Act (Cap 134, 2001 Rev Ed)'
-layout: single
+
 ---
 # Comptroller of Income Tax v VJ 
 

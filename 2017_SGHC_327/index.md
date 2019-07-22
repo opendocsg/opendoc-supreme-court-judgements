@@ -17,6 +17,6 @@ tags:
   - Restitution
   - Unjust enrichment
   - Equitable set-off
-layout: single
+
 ---
 

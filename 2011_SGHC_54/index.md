@@ -23,6 +23,6 @@ tags:
   - Manifest lack of independent corroborative evidence
   - Material inconsistencies in Prosecution’s evidence
   - Inherently incredulous aspects of Prosecution’s case
-layout: single
+
 ---
 

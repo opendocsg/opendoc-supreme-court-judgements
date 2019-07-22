@@ -4,6 +4,6 @@ title: >-
   of Intense
 subtitle: "[2003] SGHC 128 / 17\_June\_2003"
 tags: null
-layout: single
+
 ---
 

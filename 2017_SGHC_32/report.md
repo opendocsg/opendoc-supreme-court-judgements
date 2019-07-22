@@ -11,7 +11,7 @@ tags:
   - Arbitration
   - Singapore International Arbitration Centre
   - Appointing authority
-layout: single
+
 ---
 # K.V.C. Rice Intertrade Co Ltd v Asian Mineral Resources Pte Ltd and another suit 
 

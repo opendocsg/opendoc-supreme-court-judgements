@@ -10,7 +10,7 @@ tags:
   - Employment Law
   - contract of service
   - breach
-layout: single
+
 ---
 # Wee Kim San Lawrence Bernard v Robinson & Co (Singapore) Pte Ltd 
 

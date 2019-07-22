@@ -7,6 +7,6 @@ tags:
   - Power to reopen concluded criminal appeals
   - Criminal Procedure and Sentencing
   - Adducing fresh evidence post-appeal
-layout: single
+
 ---
 

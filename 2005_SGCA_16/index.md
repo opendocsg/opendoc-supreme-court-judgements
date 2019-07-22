@@ -50,6 +50,6 @@ tags:
     Subsidiary proprietors of condominium units not purchasing units directly
     from developer
   - Whether such subsidiary proprietors can claim in contract against developer
-layout: single
+
 ---
 

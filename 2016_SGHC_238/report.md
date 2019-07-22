@@ -11,7 +11,7 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Grounds
-layout: single
+
 ---
 # Dyna-Jet Pte Ltd v Wilson Taylor Asia Pacific Pte Ltd 
 

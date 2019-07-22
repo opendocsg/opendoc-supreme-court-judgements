@@ -8,6 +8,6 @@ tags:
     Construction of terms of contract for the installation of fire rated board
     claddings
   - Whether payment to be based on cladded or uncladded works.
-layout: single
+
 ---
 

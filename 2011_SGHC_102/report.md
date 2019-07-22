@@ -7,7 +7,7 @@ tags:
   - Privileged Communication
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 # Subramaniam s/o Muneyandi and another v Pandiyan John 
 

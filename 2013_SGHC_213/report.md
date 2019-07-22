@@ -9,7 +9,7 @@ tags:
   - Equitable Compensation
   - Damages
   - Recovery of Legal Costs
-layout: single
+
 ---
 # Then Khek Koon and another v Arjun Permanand Samtani and another and other suits 
 

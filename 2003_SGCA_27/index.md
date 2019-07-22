@@ -19,6 +19,6 @@ tags:
   - >-
     Whether common law position as to what is actionable misrepresentation
     changed by s 2(1) Misrepresentation Act (Cap 390, 1994 Rev Ed)
-layout: single
+
 ---
 

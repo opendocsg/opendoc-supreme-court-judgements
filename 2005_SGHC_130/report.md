@@ -36,7 +36,7 @@ tags:
     \"Calculated to disparage the plaintiff in any office, profession, calling,
     trade or business\"
   - 'Section 5 Defamation Act (Cap 75, 1985 Rev Ed)'
-layout: single
+
 ---
 # Icadam Technologies Sdn Bhd and Others v CAD-IT Consultants (Asia) Pte Ltd and Others 
 

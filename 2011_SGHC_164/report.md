@@ -5,7 +5,7 @@ tags:
   - Companies
   - Director
   - Loan
-layout: single
+
 ---
 # Chainford Investment Ltd v Ng Kim Hock and another 
 

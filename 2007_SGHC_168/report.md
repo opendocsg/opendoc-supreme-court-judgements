@@ -17,7 +17,7 @@ tags:
   - Whiplash injury
   - Assessment of damages for pain and suffering and loss of amenities
   - Assessment of damages for loss of earning capacity
-layout: single
+
 ---
 # Tan Siew Bin Ronnie v Chin Wee Keong 
 

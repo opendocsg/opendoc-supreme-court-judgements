@@ -18,6 +18,6 @@ tags:
   - >-
     Validity of compromise agreement not to be confused with success of claim
     under insurance policy
-layout: single
+
 ---
 

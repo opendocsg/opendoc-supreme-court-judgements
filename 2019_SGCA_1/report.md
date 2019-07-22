@@ -5,7 +5,7 @@ tags:
   - Trade Marks and Trade Names
   - Infringement
   - Border enforcement measures
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Burberry Ltd _v_ Megastar Shipping Pte Ltd and another appeal  

@@ -5,7 +5,7 @@ tags:
   - Companies
   - Shares
   - Valuation
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Kiri Industries Ltd _v_ Senda International Capital Ltd and another

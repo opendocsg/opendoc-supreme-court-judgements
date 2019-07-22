@@ -9,7 +9,7 @@ tags:
   - Costs
   - Principles
   - Matrimonial cases
-layout: single
+
 ---
 # TYU v TYV 
 

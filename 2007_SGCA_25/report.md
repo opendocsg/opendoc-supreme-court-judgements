@@ -20,7 +20,7 @@ tags:
   - Debt and Recovery
   - Acknowledgment of debt
   - Whether subject to without prejudice privilege
-layout: single
+
 ---
 # Greenline-Onyx Envirotech Phils, Inc v Otto Systems Singapore Pte Ltd 
 

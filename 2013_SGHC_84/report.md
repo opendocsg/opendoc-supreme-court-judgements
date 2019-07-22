@@ -11,7 +11,7 @@ tags:
   - Remedies
   - Damages
   - Loss of Chance
-layout: single
+
 ---
 # MK Distripark Pte Ltd v Pedder Warehousing & Logistics (S) Pte Ltd 
 

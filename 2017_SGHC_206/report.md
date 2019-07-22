@@ -7,7 +7,7 @@ tags:
   - Administrative law
   - Judicial review
   - Application for leave
-layout: single
+
 ---
 # Nalpon Zero Geraldo Mario v Law Society of Singapore 
 

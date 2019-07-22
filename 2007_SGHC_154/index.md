@@ -16,6 +16,6 @@ tags:
     Whether accountant employee as defined in Employment Act (Cap 91, 1996 Rev
     Ed)
   - Whether notice period during probation same as that after confirmation
-layout: single
+
 ---
 

@@ -17,7 +17,7 @@ tags:
   - Defence
   - Civil procedure
   - Summary judgment
-layout: single
+
 ---
 # Calvin Klein, Inc and another v HS International Pte Ltd and others 
 

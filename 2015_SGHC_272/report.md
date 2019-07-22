@@ -10,7 +10,7 @@ tags:
   - lost years claim
   - Damages
   - provisional damages
-layout: single
+
 ---
 # AOD (a minor suing by his litigation representative) v AOE 
 

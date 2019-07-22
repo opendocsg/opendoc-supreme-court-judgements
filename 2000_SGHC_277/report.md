@@ -12,7 +12,7 @@ tags:
   - >-
     Whether husband at liberty to apply for variation of maintenance order
     should wife\'s income increase in the future
-layout: single
+
 ---
 # Lee Chung Meng Joseph v Krygsman 
 

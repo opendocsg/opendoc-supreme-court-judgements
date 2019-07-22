@@ -19,7 +19,7 @@ tags:
   - Relevancy of documents
   - \'Fishing expedition\'
   - Whether to allow discovery
-layout: single
+
 ---
 # Chin Hong Oon Ronny v Tanah Merah Country Club 
 

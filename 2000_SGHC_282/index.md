@@ -17,6 +17,6 @@ tags:
   - Award
   - Leave to appeal against award
   - Arbitrator\'s decision on question of fact
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Building and construction law
   - Building and construction contracts
   - Measurement contracts
-layout: single
+
 ---
 # BDC v BDD and another 
 

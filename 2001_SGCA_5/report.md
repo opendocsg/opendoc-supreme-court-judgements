@@ -12,7 +12,7 @@ tags:
   - Whether matters susceptible to judicial review
   - Whether element of public law involved
   - Whether relationship between parties governed by contract or law
-layout: single
+
 ---
 # Public Service Commission v Lai Swee Lin Linda 
 

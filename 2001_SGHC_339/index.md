@@ -26,6 +26,6 @@ tags:
   - \'Hurt\'
   - \'Grievous hurt\'
   - 'ss 307(1), 320(f) & 320(h) Penal Code (Cap 224)'
-layout: single
+
 ---
 

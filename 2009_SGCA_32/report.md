@@ -49,7 +49,7 @@ tags:
     Injustice to defendant as injunction deprived defendant of advantages sought
     in foreign proceedings
   - Institution of foreign proceedings in breach of agreement between parties
-layout: single
+
 ---
 # John Reginald Stott Kirkham and Others v Trane US Inc and Others 
 

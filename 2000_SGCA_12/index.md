@@ -16,6 +16,6 @@ tags:
   - Words and Phrases
   - \"Original Criminal Jurisdiction\"
   - 'ss 29A, 44, 59, 60 Supreme Court of Judicature Act (Cap 322, 1999 Ed)'
-layout: single
+
 ---
 

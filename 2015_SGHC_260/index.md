@@ -5,6 +5,6 @@ tags:
   - Companies
   - Receiver and manager
   - Remuneration of
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Setting Aside
   - Admiralty and Shipping
   - Striking Out
-layout: single
+
 ---
 # The “Chem Orchid” 
 

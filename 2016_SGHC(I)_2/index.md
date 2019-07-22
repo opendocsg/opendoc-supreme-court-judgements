@@ -8,6 +8,6 @@ tags:
   - Offshore case
   - Civil procedure
   - Summary judgment
-layout: single
+
 ---
 

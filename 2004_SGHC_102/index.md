@@ -7,6 +7,6 @@ tags:
   - Security for costs
   - Variation of security of costs order upon change of solicitors
   - Whether appellate interference with exercise of discretion warranted
-layout: single
+
 ---
 

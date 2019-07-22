@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Anton piller orders
   - Application to discharge or vary Anton Piller orders
-layout: single
+
 ---
 # National Scientific (S) Pte Ltd v Ho Wai Ming and Others 
 

@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # China Machine New Energy Corp v Jaguar Energy Guatemala LLC and another 
 

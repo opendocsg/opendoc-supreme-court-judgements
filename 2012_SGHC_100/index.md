@@ -13,6 +13,6 @@ tags:
   - remoteness
   - Damages
   - special damages
-layout: single
+
 ---
 

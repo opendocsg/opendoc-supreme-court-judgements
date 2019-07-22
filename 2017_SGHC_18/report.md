@@ -7,7 +7,7 @@ tags:
   - Trade Marks and Trade Names
   - Defence
   - Exhaustion of rights defence
-layout: single
+
 ---
 # Samsonite IP Holdings Sarl v An Sheng Trading Pte Ltd 
 

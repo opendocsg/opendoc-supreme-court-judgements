@@ -9,6 +9,6 @@ tags:
   - Courts and Jurisdiction
   - Court judgments
   - Binding force
-layout: single
+
 ---
 

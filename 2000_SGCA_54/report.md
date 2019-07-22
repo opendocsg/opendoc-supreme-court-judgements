@@ -10,7 +10,7 @@ tags:
   - Grant of probate in Malaysia revoked
   - Whether grant of probate in Singapore should be revoked
   - 's 32 Probate and Administration Act (Cap 251, 2000 Rev Ed)'
-layout: single
+
 ---
 # Jigarlal Kantilal Doshi v Damayanti Kantilal Doshi (Executrix) and Another 
 

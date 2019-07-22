@@ -5,6 +5,6 @@ tags:
   - Criminal procedure and sentencing
   - Appeal
   - Application for adjournment
-layout: single
+
 ---
 

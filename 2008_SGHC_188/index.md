@@ -6,6 +6,6 @@ tags:
   - Disclosure of documents
   - Contract
   - Misrepresentation
-layout: single
+
 ---
 

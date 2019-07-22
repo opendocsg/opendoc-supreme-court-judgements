@@ -24,6 +24,6 @@ tags:
   - >-
     s 9(1) Limitation Act (Cap 163, 1996 Ed) , s 2(1) Interpretation Act (Cap 1,
     1999 Ed)
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
     Whether quantum of damages for period of detention measured by taking rates
     for individual components
   - Measure and quantum of damages for items lost
-layout: single
+
 ---
 # Erect Scaffolding Pte Ltd v Hor Kew Pte Ltd 
 

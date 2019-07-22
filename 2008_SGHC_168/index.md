@@ -11,6 +11,6 @@ tags:
   - >-
     Rule 3 Stamp Duties (Relief from Stamp Duty upon Reconstruction or
     Amalgamation of Companies) Rules (Cap 312, R 3, 2002 Rev Ed)
-layout: single
+
 ---
 

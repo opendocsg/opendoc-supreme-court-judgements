@@ -6,6 +6,6 @@ tags:
   - International Taxation
   - Double taxation agreement Civil Procedure
   - Stay of Proceedings
-layout: single
+
 ---
 

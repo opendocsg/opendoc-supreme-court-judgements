@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Offences
   - Currency and bank notes
-layout: single
+
 ---
 

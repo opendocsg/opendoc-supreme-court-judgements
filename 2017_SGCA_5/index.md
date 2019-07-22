@@ -7,6 +7,6 @@ tags:
   - Companies
   - Members
   - Derivative action
-layout: single
+
 ---
 

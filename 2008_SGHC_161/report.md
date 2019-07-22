@@ -12,7 +12,7 @@ tags:
   - Measure of damages
   - Contract
   - Contract to construct house with bedrooms
-layout: single
+
 ---
 # Yap Boon Keng Sonny v Pacific Prince International Pte Ltd and Another 
 

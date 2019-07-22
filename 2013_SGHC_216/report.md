@@ -7,7 +7,7 @@ tags:
   - Companies
   - Direc tors
   - Duties
-layout: single
+
 ---
 # Sim City Technology Ltd v Ng Kek Wee and others 
 

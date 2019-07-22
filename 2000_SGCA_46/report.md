@@ -23,7 +23,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Trials
   - Accused remaining silent when defence called
-layout: single
+
 ---
 # Syed Yasser Arafat bin Shaik Mohamed v Public Prosecutor 
 

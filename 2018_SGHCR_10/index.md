@@ -9,6 +9,6 @@ tags:
   - Civil Procedure
   - Parties
   - Locus standi
-layout: single
+
 ---
 

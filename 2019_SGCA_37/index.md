@@ -10,6 +10,6 @@ tags:
   - Ambit
   - Constitutional Law
   - Judicial Power
-layout: single
+
 ---
 

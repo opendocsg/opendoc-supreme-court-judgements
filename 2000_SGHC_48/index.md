@@ -17,6 +17,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Compensation and costs
   - Costs of prosecution and appeal
-layout: single
+
 ---
 

@@ -26,6 +26,6 @@ tags:
     Whether truth of contents of document accepted as authentic still needing to
     be proved
   - Limits to applicable principle
-layout: single
+
 ---
 

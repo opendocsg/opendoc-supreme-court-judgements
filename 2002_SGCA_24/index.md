@@ -26,6 +26,6 @@ tags:
   - Whether prima facie case of professional misconduct established
   - Whether duty of solicitor to verify instructions of client
   - Whether solicitors know of falsehood
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Illegally importing controlled drug
-layout: single
+
 ---
 # Public Prosecutor v Devendran A/L Supramaniam 
 

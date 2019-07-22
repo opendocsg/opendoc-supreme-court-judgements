@@ -10,7 +10,7 @@ tags:
   - Contract
   - contractual terms
   - implied terms
-layout: single
+
 ---
 # Cheah Peng Hock v Luzhou Bio-Chem Technology Limited 
 

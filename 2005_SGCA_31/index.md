@@ -19,6 +19,6 @@ tags:
     Knives brought by accused to frighten victim but eventually used to injure
     victim
   - Whether use of knives in furtherance of common intention to rob
-layout: single
+
 ---
 

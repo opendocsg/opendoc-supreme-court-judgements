@@ -25,7 +25,7 @@ tags:
   - >-
     Whether defendants pleading common law defences of justification, qualified
     privilege and fair comment with sufficient particularity
-layout: single
+
 ---
 # Lee Hsien Loong v Singapore Democratic Party and Others and Another Suit 
 

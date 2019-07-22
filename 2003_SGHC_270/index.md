@@ -8,6 +8,6 @@ tags:
   - >-
     Ship repairers entered into settlement agreement with vessel\'s owners in
     full and final settlement of outstanding claims
-layout: single
+
 ---
 

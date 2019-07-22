@@ -18,6 +18,6 @@ tags:
     Member of disciplinary committee disqualifying himself from proceedings but
     participating in general committee decision-making
   - Whether breach of duty to act fairly
-layout: single
+
 ---
 

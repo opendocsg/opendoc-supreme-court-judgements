@@ -5,6 +5,6 @@ tags:
   - Legal Profession
   - Show cause action
   - Solicitor sharing professional fees with unqualified person
-layout: single
+
 ---
 

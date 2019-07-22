@@ -13,7 +13,7 @@ tags:
     Whether infringing party should be ordered to furnish accounts for period of
     infringement asserted by party alleging infringement
   - 'Section 69(1) Patents Act (Cap 221, 2005 Rev Ed)'
-layout: single
+
 ---
 # Seiko Epson Corp v Sepoms Technology Pte Ltd and Another 
 

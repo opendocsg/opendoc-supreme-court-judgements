@@ -5,7 +5,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional conduct
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Yip Man Hing Kevin _v_ Singapore Medical Council and another matter  

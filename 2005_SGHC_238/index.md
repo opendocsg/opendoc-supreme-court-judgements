@@ -20,6 +20,6 @@ tags:
   - >-
     Whether terms of marine insurance policy requiring compliance with warranty
     surveyor\'s recommended voyage route constituting insurance warranty
-layout: single
+
 ---
 

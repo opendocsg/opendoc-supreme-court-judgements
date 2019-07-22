@@ -8,6 +8,6 @@ tags:
   - Criminal Law
   - Special exceptions
   - Provocation
-layout: single
+
 ---
 

@@ -18,7 +18,7 @@ tags:
     Whether documents giving rise to dispute governed by exclusive jurisdiction
     clause
   - Whether sufficient grounds for granting stay shown
-layout: single
+
 ---
 # Kuala Lumpur City Securities Sdn Bhd v Boston Asset Management Pte Ltd (formerly known 
 

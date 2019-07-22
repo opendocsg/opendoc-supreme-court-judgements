@@ -6,6 +6,6 @@ tags:
   - Matrimonial assets
   - Division
   - Order of division relating to assets at specific date
-layout: single
+
 ---
 

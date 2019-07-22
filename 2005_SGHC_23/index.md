@@ -23,6 +23,6 @@ tags:
     Whether known or designated buyer for imported goods necessary before
     appellant liable to pay GST
   - 'Section 8(4)Goods and Services Tax Act (Cap 117A, 2001 Rev Ed)'
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Qualified privilege
   - Defamatory material circulated to company\'s directors and other persons
   - Whether defence of qualified privilege applied
-layout: single
+
 ---
 

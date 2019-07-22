@@ -10,6 +10,6 @@ tags:
   - Contractual terms
   - Rules of construction
   - Parol evidence rule
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Recognition
   - Conflict of laws
   - Natural forum
-layout: single
+
 ---
 

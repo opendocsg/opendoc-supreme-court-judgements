@@ -11,6 +11,6 @@ tags:
   - Assessment
   - Damages
   - Contributory Negligence
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
   - Building and construction law
   - Dispute resolution
   - Stay of enforcement pending appeal
-layout: single
+
 ---
 # OGSP Engineering Pte Ltd v Comfort Management Pte Ltd 
 

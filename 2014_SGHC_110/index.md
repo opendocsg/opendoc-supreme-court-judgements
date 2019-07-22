@@ -8,6 +8,6 @@ tags:
   - Family law
   - maintenance
   - wife
-layout: single
+
 ---
 

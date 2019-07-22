@@ -8,7 +8,7 @@ tags:
   - Constructive trusts
   - Breach of trust
   - Remedies
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Estate of Yang Chun (Mrs) née Sun Hui Min, deceased _v_ Yang Chia-Yin  

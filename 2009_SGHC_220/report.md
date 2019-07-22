@@ -8,7 +8,7 @@ tags:
   - Construction
   - Succession and Wills
   - Lapse
-layout: single
+
 ---
 # ADG (executor and trustee of the estate of B (alias C), deceased) v ADH and another (D and 
 

@@ -7,7 +7,7 @@ tags:
   - Professional Conduct
   - Disciplinary Proceedings
   - Medical Registration Act
-layout: single
+
 ---
 # Lim Mey Lee Susan v Singapore Medical Council 
 

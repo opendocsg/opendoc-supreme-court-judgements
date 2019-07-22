@@ -10,7 +10,7 @@ tags:
   - Conflict of Laws
   - Choice of Law
   - Tort
-layout: single
+
 ---
 # JIO Minerals FZC and others v Mineral Enterprises Ltd 
 

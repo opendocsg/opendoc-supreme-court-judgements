@@ -5,7 +5,7 @@ tags:
   - Arbitration
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # ADG and another v ADI and another matter 
 

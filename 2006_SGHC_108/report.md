@@ -10,7 +10,7 @@ tags:
     purchase of second property
   - Whether second property forming part of matrimonial assets
   - 'Section 112(10) Women\''s Charter (Cap 353, 1997 Rev Ed)'
-layout: single
+
 ---
 # Chan Mei Lan Kristine v Ong Boon Huat Samuel 
 

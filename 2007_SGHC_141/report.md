@@ -16,7 +16,7 @@ tags:
   - Whether buying and selling properties amounting to trading
   - Whether issue one of mixed fact and law
   - 'Section 81(2) Income Tax Act (Cap 134, 2004 Rev Ed)'
-layout: single
+
 ---
 # NP and Another v Comptroller of Income Tax 
 

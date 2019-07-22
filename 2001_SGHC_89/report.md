@@ -29,7 +29,7 @@ tags:
   - >-
     Whether circumstantial nature of evidence changes application of Haw Tua Tau
     test
-layout: single
+
 ---
 # Kong See Chew v Public Prosecutor 
 

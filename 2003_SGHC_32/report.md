@@ -9,7 +9,7 @@ tags:
   - Taxation
   - Application to review taxation of costs
   - Whether sum awarded fair and reasonable
-layout: single
+
 ---
 # Wee Soon Kim Anthony v The Law Society of Singapore (Davinder Singh and another, 
 

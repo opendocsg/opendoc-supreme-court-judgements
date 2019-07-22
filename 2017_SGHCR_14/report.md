@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - Pre-action discovery
-layout: single
+
 ---
 # Aquariva Pte Ltd v Gezel Group Pte Ltd and another 
 

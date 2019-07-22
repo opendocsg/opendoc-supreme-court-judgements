@@ -16,6 +16,6 @@ tags:
   - Corroboration
   - Uncorroborated evidence of child witness
   - Whether safe to convict without corroboration
-layout: single
+
 ---
 

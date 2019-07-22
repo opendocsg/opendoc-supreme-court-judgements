@@ -5,7 +5,7 @@ tags:
   - LEGAL PROFESSION
   - Duties
   - client
-layout: single
+
 ---
 # Law Society of Singapore v K Jayakumar Naidu 
 

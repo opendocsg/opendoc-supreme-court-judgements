@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Statutory offences
   - Planning Act
-layout: single
+
 ---
 # Public Prosecutor v Project Lifestyle Pte Ltd 
 

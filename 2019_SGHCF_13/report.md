@@ -7,7 +7,7 @@ tags:
   - Ancillary matters
   - Division of matrimonial assets
   - Maintenance of wife
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UTQ _v_ UTR  

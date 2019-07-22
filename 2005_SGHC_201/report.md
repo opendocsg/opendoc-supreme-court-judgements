@@ -10,7 +10,7 @@ tags:
   - >-
     Whether offer of indemnity to third parties adversely affected sufficient
     justification for granting injunction
-layout: single
+
 ---
 # Allied Marine Services Ltd v LMJ International Ltd 
 

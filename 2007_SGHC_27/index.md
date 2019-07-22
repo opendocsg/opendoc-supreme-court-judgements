@@ -33,6 +33,6 @@ tags:
   - Restitution
   - Quantum meruit
   - Difference between contractual and restitutionary quantum meruit
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - Limitation of Actions
   - Particular causes of action
   - Contract
-layout: single
+
 ---
 

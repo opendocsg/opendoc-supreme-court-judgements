@@ -6,7 +6,7 @@ tags:
   - costs
   - Evidence
   - hearsay
-layout: single
+
 ---
 # SIC College of Business and Technology Pte Ltd v Yeo Poh Siah and others 
 

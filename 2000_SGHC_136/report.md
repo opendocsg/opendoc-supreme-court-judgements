@@ -12,7 +12,7 @@ tags:
   - >-
     Whether damages to be assessed at time of election, time of breach, or other
     time
-layout: single
+
 ---
 # Ho Kian Siang and Another v Ong Cheng Hoo and Others 
 

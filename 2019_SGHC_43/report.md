@@ -17,7 +17,7 @@ tags:
   - Remedies
   - Equitable Compensation
   - Loss of Chance
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # MCH International Pte Ltd and others _v_ YG Group Pte Ltd and others and other suits  

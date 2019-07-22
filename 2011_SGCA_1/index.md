@@ -12,6 +12,6 @@ tags:
   - Interpretation of force majeure clause
   - Event beyond the control of affected party
   - When requirement to take reasonable steps arises
-layout: single
+
 ---
 

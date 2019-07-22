@@ -44,7 +44,7 @@ tags:
   - Allegation of prosecution witness lying
   - Whether trial judge obliged to visit crime scene
   - Power of appellate court to reverse findings of fact
-layout: single
+
 ---
 # Tan Chor Jin v Public Prosecutor 
 

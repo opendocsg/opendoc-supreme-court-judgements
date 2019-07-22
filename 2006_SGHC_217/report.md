@@ -15,7 +15,7 @@ tags:
     taking different view from judge in first application
   - Whether all categories of documents sought relevant to appellant\'s defences
   - 'Order 24 r 5 Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 # Banque Cantonale Vaudoise v Fujitrans (Singapore) Pte Ltd 
 

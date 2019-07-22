@@ -7,7 +7,7 @@ tags:
   - requirements for formal validity
   - Succession and Wills
   - testamentary capacity
-layout: single
+
 ---
 # Lian Kok Hong v Lian Bee Leng and another 
 

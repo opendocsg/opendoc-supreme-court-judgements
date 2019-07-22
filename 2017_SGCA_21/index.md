@@ -14,6 +14,6 @@ tags:
   - Contract
   - Discharge
   - Breach
-layout: single
+
 ---
 

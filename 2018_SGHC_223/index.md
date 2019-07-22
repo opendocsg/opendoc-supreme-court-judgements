@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Stay of proceedings
   - Case management
-layout: single
+
 ---
 

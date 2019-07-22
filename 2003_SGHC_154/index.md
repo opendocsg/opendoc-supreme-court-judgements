@@ -13,6 +13,6 @@ tags:
     Whether further applications of fresh and substantial nature may be made by
     way of summons-in-chambers once originating summons fully heard and finally
     disposed of
-layout: single
+
 ---
 

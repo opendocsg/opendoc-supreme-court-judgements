@@ -7,7 +7,7 @@ tags:
   - Damages
   - Measure of Damages
   - Personal injuries cases
-layout: single
+
 ---
  (a) Pain, suffering, and loss of amenities $33,000. 
 

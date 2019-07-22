@@ -7,7 +7,7 @@ tags:
   - Appeal
   - Civil Procedure
   - Offer to settle
-layout: single
+
 ---
 # Zhu Shan Fu v China Construction Builders Pte Ltd 
 

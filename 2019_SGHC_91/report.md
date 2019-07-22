@@ -6,7 +6,7 @@ tags:
   - Stamp duties
   - Instruments liable to ad valorem duty
   - Stamp Duties Act
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ong Beng Chong _v_ Commissioner of Stamp Duties  

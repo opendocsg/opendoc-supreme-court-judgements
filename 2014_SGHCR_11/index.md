@@ -5,6 +5,6 @@ tags:
   - Trade Marks and Trade Names
   - Infringement
   - Remedies
-layout: single
+
 ---
 

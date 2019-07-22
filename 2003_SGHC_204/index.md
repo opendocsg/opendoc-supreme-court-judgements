@@ -23,6 +23,6 @@ tags:
   - Award
   - Interim award
   - Ancillary orders made by arbitral tribunal in interim award
-layout: single
+
 ---
 

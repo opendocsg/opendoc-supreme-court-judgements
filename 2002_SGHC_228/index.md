@@ -17,6 +17,6 @@ tags:
   - Costs
   - Witnesses\' costs
   - Witnesses not attending hearing due to adjournment
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - striking out
   - Civil procedure
   - discovery of documents
-layout: single
+
 ---
 

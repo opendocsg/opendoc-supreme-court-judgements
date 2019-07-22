@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Striking out
   - Abuse of process
-layout: single
+
 ---
 # TMT Asia Ltd v BHP Billiton Marketing AG (Singapore Branch) and another 
 

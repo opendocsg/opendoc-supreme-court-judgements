@@ -23,7 +23,7 @@ tags:
   - Express trusts
   - Constitution
   - Future property
-layout: single
+
 ---
 # BOK v BOL and another 
 

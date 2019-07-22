@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Striking out
-layout: single
+
 ---
 

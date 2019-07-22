@@ -9,7 +9,7 @@ tags:
   - Infringement
   - Patents and Inventions
   - Novelty
-layout: single
+
 ---
 # Element Six Technologies Ltd v IIa Technologies Pte Ltd 
 

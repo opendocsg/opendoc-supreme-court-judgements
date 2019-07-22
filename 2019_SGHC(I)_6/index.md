@@ -9,6 +9,6 @@ tags:
   - Damages
   - Equity
   - Equitable compensation
-layout: single
+
 ---
 

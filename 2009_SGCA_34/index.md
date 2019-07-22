@@ -21,6 +21,6 @@ tags:
   - Party to contract failing to perform obligations
   - Situations where innocent party entitled to terminate contract
   - Whether there was wrongful termination of contract by one party
-layout: single
+
 ---
 

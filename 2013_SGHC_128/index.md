@@ -5,6 +5,6 @@ tags:
   - Insolvency
   - Winding up
   - Liquidator
-layout: single
+
 ---
 

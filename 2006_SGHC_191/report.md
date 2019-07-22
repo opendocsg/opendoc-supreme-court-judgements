@@ -9,7 +9,7 @@ tags:
     Accused and complainant having consensual sexual relations regularly before
     date of alleged offence
   - Accused and complainant advancing diametrically opposed versions of events
-layout: single
+
 ---
 # Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik 
 

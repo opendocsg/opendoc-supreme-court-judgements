@@ -17,6 +17,6 @@ tags:
   - Agreements for leases
   - Whether lease agreement subject to implied condition precedent
   - Whether failure to fulfil alleged condition precedent amounting to breach
-layout: single
+
 ---
 

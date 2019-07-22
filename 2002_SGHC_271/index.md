@@ -4,6 +4,6 @@ title: >-
   Another, Third
 subtitle: "[2002] SGHC 271 / 18\_November\_2002"
 tags: null
-layout: single
+
 ---
 

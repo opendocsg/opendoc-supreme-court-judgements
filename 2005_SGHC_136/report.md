@@ -18,7 +18,7 @@ tags:
   - >-
     Factors to consider when determining quantum of damages for non-pecuniary
     losses resulting from physical injury
-layout: single
+
 ---
 # Lee Teck Nam v Kang Hock Seng Paul 
 

@@ -6,7 +6,7 @@ tags:
   - Dispute resolution
   - Building and construction contracts
   - 'Architects, engineers and surveyors'
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Far East Square Pte Ltd _v_ Yau Lee Construction (Singapore) Pte Ltd  

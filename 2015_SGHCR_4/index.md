@@ -6,6 +6,6 @@ tags:
   - Discovery
   - Patents and Inventions
   - Infringement
-layout: single
+
 ---
 

@@ -28,6 +28,6 @@ tags:
     Doctor speaking to patient via telephone prior to actual physical
     consultation
   - When doctor-patient relationship giving rise to duty of care established
-layout: single
+
 ---
 

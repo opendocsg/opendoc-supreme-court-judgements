@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Revision of proceedings
   - Section 370(1) Criminal Procedure Code
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lee Chen Seong Jeremy and others _v_ Public Prosecutor  

@@ -7,7 +7,7 @@ tags:
   - Duties
   - Civil Procedure
   - Costs
-layout: single
+
 ---
 # Bamian Investments Pte Ltd v Lo Haw and others 
 

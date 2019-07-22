@@ -9,7 +9,7 @@ tags:
   - Implied terms
   - Companies
   - Memorandum and articles of association
-layout: single
+
 ---
 # Sembcorp Marine Ltd v PPL Holdings Pte Ltd and another and another appeal 
 

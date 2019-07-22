@@ -9,7 +9,7 @@ tags:
   - Civil Procedure
   - Parties
   - Joinder
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 2827 v GBI Realty Pte Ltd and another 
 

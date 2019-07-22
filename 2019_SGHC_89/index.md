@@ -6,6 +6,6 @@ tags:
   - Writ of Seizure and Sale
   - Priorities
   - Land Titles Act
-layout: single
+
 ---
 

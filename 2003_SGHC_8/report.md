@@ -31,7 +31,7 @@ tags:
     Whether Companies(Application of Bankruptcy Act Provisions) Regulations (Cap
     50, R 3, 1995 Ed) validly prescribed
   - 'Whether legislation must be made under Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 # Re Tiong Polestar Engineering (formerly known as Polestar Engineering (S) Pte Ltd 
 

@@ -11,6 +11,6 @@ tags:
   - cargo operations
   - cargo claims
   - damage to cargo and vessel
-layout: single
+
 ---
 

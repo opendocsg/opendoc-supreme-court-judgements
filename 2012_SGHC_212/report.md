@@ -10,7 +10,7 @@ tags:
   - finality of award
   - Civil Procedure
   - Service
-layout: single
+
 ---
 # Astro Nusantara International BV and others v PT Ayunda Prima Mitra and others 
 

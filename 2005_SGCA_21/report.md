@@ -32,7 +32,7 @@ tags:
   - Respondent requested for damages to be assessed
   - Trial judge refused the request
   - Whether an order for damages to be assessed ought to have been granted
-layout: single
+
 ---
 # Wisanggeni Lauw v Full Fledge Holdings Ltd and Another Appeal 
 

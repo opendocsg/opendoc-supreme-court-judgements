@@ -12,7 +12,7 @@ tags:
   - Voir dire
   - Evidence
   - Presumptions
-layout: single
+
 ---
 # Public Prosecutor v Tan Lye Heng 
 

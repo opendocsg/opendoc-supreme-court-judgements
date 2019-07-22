@@ -8,7 +8,7 @@ tags:
   - Civil Procedure
   - Security for Costs
   - Nominal Plaintiff
-layout: single
+
 ---
 # Nordic International Ltd v Morten Innhaug 
 

@@ -12,6 +12,6 @@ tags:
   - Whether breach of legal requirement necessary for bad faith to arise
   - Applicable test to determine bad faith
   - 'Section 7(6) Trade Marks Act (Cap 332, 2005 Rev Ed)'
-layout: single
+
 ---
 

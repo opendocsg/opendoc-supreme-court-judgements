@@ -10,7 +10,7 @@ tags:
   - Accessory liability
   - Knowing receipt
   - Dishonest assistance
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Innovative Corp Pte Ltd _v_ Ow Chun Ming and another  

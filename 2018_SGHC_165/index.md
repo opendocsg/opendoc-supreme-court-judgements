@@ -10,6 +10,6 @@ tags:
   - Remedies
   - Equitable Compensation
   - Principles in assessing
-layout: single
+
 ---
 

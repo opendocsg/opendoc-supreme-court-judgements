@@ -11,6 +11,6 @@ tags:
   - Housing and Development (Agreements for Sale and Purchase) Rules
   - Contract
   - Estoppel by Convention
-layout: single
+
 ---
 

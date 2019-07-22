@@ -17,6 +17,6 @@ tags:
   - >-
     Whether an international arbitration agreement which is not governed by
     national laws can be enforced
-layout: single
+
 ---
 

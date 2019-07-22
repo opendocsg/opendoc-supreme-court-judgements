@@ -10,7 +10,7 @@ tags:
   - Misrepresentation
   - Fraud and deceit
   - Inducement
-layout: single
+
 ---
 # Kong Chee Chui and others v Soh Ghee Hong 
 

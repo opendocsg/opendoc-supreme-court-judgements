@@ -8,6 +8,6 @@ tags:
   - Inherent powers
   - Courts and Jurisdiction
   - Vexatious litigant
-layout: single
+
 ---
 

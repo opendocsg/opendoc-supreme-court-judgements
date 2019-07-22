@@ -16,7 +16,7 @@ tags:
   - Contract
   - Consideration
   - Promissory estoppel
-layout: single
+
 ---
 # Bank of China Limited (Singapore Branch) v Huang Ziqiang and another 
 

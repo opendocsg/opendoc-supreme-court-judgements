@@ -10,6 +10,6 @@ tags:
   - Adverse inference
   - Date for determination of pool of matrimonial assets
   - Date for valuation of matrimonial assets
-layout: single
+
 ---
 

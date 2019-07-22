@@ -12,7 +12,7 @@ tags:
   - Family law
   - custody
   - judicial interviewing of children
-layout: single
+
 ---
 # AZB v AZC 
 

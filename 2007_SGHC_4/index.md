@@ -24,6 +24,6 @@ tags:
     Whether evidence giving rise to prima facie inference accused involved in
     deceased\'s death
   - 'Section 116 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

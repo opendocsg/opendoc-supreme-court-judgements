@@ -15,6 +15,6 @@ tags:
   - Non-compliance
   - Whether corporate litigants may act without solicitors in legal proceedings
   - O 5 r 6(2)Rules of Court
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Striking Out Agency
   - Rights of Agent
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Administrative Law
   - Judicial review
   - Disciplinary proceedings
-layout: single
+
 ---
 

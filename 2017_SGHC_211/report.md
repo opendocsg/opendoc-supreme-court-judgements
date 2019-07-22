@@ -8,7 +8,7 @@ tags:
   - Insolvency law
   - Bankruptcy
   - Private trustees in bankruptcy
-layout: single
+
 ---
 # HSBC Bank (Singapore) Ltd v Shi Yuzhi 
 

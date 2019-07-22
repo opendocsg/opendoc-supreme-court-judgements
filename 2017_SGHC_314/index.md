@@ -6,6 +6,6 @@ tags:
   - Direc tors
   - 'Sec tion 199 of the Companies Ac t (Cap 50, 2006 Rev Ed)'
   - Direc tor’s right to inspec t c ompany’s rec ords
-layout: single
+
 ---
 

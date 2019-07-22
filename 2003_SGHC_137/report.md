@@ -8,7 +8,7 @@ tags:
   - whether stay should be granted
   - forum non conveniens
   - whether India was clearly the more appropriate forum.
-layout: single
+
 ---
 # UCO Bank v Golden Shore Transportation Pte Ltd 
 

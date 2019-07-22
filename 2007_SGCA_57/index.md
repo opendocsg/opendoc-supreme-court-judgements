@@ -18,6 +18,6 @@ tags:
   - Sale of land
   - Sale and purchase agreements
   - Whether sale and purchase agreement validly rescinded
-layout: single
+
 ---
 

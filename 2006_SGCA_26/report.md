@@ -17,7 +17,7 @@ tags:
     2003, paras 1(2), 2 Supreme Court of Judicature (Transfer of Matrimonial,
     Divorce and Guardianship of Infants Proceedings to District Court)
     (Amendment) Order 2004 (Cap 322, S 632/2004)
-layout: single
+
 ---
 # Ong Boon Huat Samuel v Chan Mei Lan Kristine 
 

@@ -8,7 +8,7 @@ tags:
   - Family law
   - Ancillary powers of court
   - Variation of order for maintenance
-layout: single
+
 ---
 # TYA v TYB 
 

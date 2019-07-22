@@ -6,6 +6,6 @@ tags:
   - Sale of goods
   - Rights of unpaid seller
   - Retention of title clause
-layout: single
+
 ---
 

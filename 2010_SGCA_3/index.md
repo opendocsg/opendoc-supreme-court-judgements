@@ -8,6 +8,6 @@ tags:
   - Privity of Contract
   - Contract
   - Restraint of Trade
-layout: single
+
 ---
 

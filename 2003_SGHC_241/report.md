@@ -13,7 +13,7 @@ tags:
   - Contract
   - Breach
   - Whether plaintiffs in breach of Settlement Agreement.
-layout: single
+
 ---
 # Oakwell Engineering Ltd v Energy Power Systems Ltd 
 

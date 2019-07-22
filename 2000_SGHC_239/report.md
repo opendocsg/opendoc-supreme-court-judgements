@@ -37,7 +37,7 @@ tags:
   - Test of dishonesty
   - Whether defendants dishonest
   - Whether claim made out
-layout: single
+
 ---
 # Banque Nationale de Paris v Hew Keong Chan Gary and Others 
 

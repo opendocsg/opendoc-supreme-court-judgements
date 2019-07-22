@@ -20,7 +20,7 @@ tags:
   - >-
     Whether advancement of unsuccessful defence at trial amounts to aggravating
     factor for purposes of sentencing
-layout: single
+
 ---
 # Public Prosecutor v Poh Kim Video Pte Ltd 
 

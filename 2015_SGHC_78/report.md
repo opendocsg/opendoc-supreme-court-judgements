@@ -8,7 +8,7 @@ tags:
   - Induc ement of breac h of c ontrac t
   - Tort
   - Conspirac y
-layout: single
+
 ---
 # ARS v ART and another 
 

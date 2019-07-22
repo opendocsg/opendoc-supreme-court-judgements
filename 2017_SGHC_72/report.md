@@ -15,7 +15,7 @@ tags:
   - Tort
   - Conspiracy
   - Unlawful means conspiracy
-layout: single
+
 ---
 # Centre for Laser and Aesthetic Medicine Pte Ltd v Goh Pui Kiat and others 
 

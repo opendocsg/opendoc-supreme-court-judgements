@@ -15,6 +15,6 @@ tags:
   - Sexual offence
   - Conviction on victim\'s evidence alone
   - Victim\'s evidence unusually compelling
-layout: single
+
 ---
 

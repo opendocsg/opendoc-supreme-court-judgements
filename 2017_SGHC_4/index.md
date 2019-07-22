@@ -12,6 +12,6 @@ tags:
   - Civil procedure
   - Summary judgment
   - Effect of counterclaim
-layout: single
+
 ---
 

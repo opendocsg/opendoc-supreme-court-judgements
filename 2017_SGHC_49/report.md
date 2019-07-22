@@ -11,7 +11,7 @@ tags:
   - Police
   - Power to Investigate
   - 's 35 of the Criminal Procedure Code (Cap 68, 2012 Rev Ed)'
-layout: single
+
 ---
 # Rajendar Prasad Rai and another v Public Prosecutor and another matter 
 

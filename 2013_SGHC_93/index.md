@@ -11,6 +11,6 @@ tags:
   - Contributory Negligence
   - Tort
   - Occupier’s Liability
-layout: single
+
 ---
 

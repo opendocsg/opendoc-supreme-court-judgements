@@ -11,6 +11,6 @@ tags:
   - Legal profession
   - Duties
   - Court
-layout: single
+
 ---
 

@@ -21,6 +21,6 @@ tags:
   - >-
     Whether indemnity costs awarded against liquidators of company entitled to
     priority against other claims in winding up
-layout: single
+
 ---
 

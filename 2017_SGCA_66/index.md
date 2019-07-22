@@ -7,6 +7,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Forms of punishment
-layout: single
+
 ---
 

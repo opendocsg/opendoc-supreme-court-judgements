@@ -6,6 +6,6 @@ tags:
   - Offences
   - Hurt
   - Causing hurt to domestic helper
-layout: single
+
 ---
 

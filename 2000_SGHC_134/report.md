@@ -18,7 +18,7 @@ tags:
   - Striking out
   - Whether claim frivolous or vexatious
   - Whether claim intrinsically weak hopeless case
-layout: single
+
 ---
 # Kim Hok Yung and Others v Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (trading as 
 

@@ -18,6 +18,6 @@ tags:
   - Proof of evidence
   - Confessions
   - Whether statements were confessions
-layout: single
+
 ---
 

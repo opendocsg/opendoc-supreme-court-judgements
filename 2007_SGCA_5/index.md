@@ -13,6 +13,6 @@ tags:
     Whether specific performance of certain clauses in deed should be ordered
     where meaning of such clauses uncertain
   - Whether court may remedy uncertainty to give effect to clauses
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Estoppel against a tenant
   - Landlord and Tenant
   - Estoppel against a tenant
-layout: single
+
 ---
 # Ritzland Investment Pte Ltd v Grace Management & Consultancy Services Pte Ltd 
 

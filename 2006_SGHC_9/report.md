@@ -24,7 +24,7 @@ tags:
     issues at trial
   - Effect of drawing adverse inference from accused\'s lies
   - 'Sections 123(1), 196(2) Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Chee Cheong Hin Constance 
 

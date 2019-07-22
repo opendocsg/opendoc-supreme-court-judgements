@@ -7,7 +7,7 @@ tags:
   - Certiorari
   - Revocation of applicant\'s driving licence by Commander of Traffic Police
   - Application for leave to apply for order of certiorari to quash decision
-layout: single
+
 ---
 # Kang Ngah Wei v Commander of Traffic Police 
 

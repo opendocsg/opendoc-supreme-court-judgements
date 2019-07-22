@@ -5,7 +5,7 @@ tags:
   - Banking
   - Banker’s set-off
   - Plaintiff depositing money with bank under fixed deposit contract
-layout: single
+
 ---
 # Pertamina Energy Trading Ltd v Credit Suisse 
 

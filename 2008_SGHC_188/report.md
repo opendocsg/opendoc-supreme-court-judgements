@@ -6,7 +6,7 @@ tags:
   - Disclosure of documents
   - Contract
   - Misrepresentation
-layout: single
+
 ---
 # UMCI Ltd v Tokio Marine & Fire Insurance Co (Singapore) Pte Ltd 
 

@@ -9,7 +9,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Date of commencement
-layout: single
+
 ---
 # Public Prosecutor v Sivanantha a/l Danabala 
 

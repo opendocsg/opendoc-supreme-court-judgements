@@ -26,7 +26,7 @@ tags:
   - >-
     Plaintiffs claiming entitlement to delivery of cargo upon production of bill
     of lading
-layout: single
+
 ---
 # The "Neptra Premier" 
 

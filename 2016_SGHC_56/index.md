@@ -11,6 +11,6 @@ tags:
   - Evidenc e
   - Witnesses
   - Impeac hing witness’ c redibility
-layout: single
+
 ---
 

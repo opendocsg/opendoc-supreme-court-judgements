@@ -8,6 +8,6 @@ tags:
   - Damages
   - Building and Construction Law
   - Scope of works
-layout: single
+
 ---
 

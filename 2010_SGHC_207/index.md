@@ -4,6 +4,6 @@ title: >-
   Khoy
 subtitle: "[2010] SGHC 207 / 23\_July\_2010"
 tags: null
-layout: single
+
 ---
 

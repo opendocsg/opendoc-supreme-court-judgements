@@ -8,6 +8,6 @@ tags:
   - Conflict of Laws
   - Foreign Judgments
   - Enforcement
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Offences
   - Sexual assault by penetration
-layout: single
+
 ---
  1 st CHARGE are charged that you, sometime in 2012, at or about 2230hrs to 2300hrs, at Block [X] Canberra Road #[X], Singapore, did commit sexual assault by penetration on [V], a female who was at the time of offence under 14 years old (DOB: [X] July 1999), to wit , by inserting your middle finger into the vagina of the said [V], without her consent, and you have thereby committed an offence under section 376(2)(a) of the Penal Code (Cap 224, 2008 Rev Ed), punishable under s 376(4)(b) of the Penal Code (Cap 224, 2008 Rev Ed). 
 

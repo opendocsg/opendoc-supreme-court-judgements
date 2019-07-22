@@ -17,7 +17,7 @@ tags:
     beyond carrier\'s control
   - Goods hijacked en route to destination
   - Whether hijacking beyond carrier\'s control
-layout: single
+
 ---
 # Smart Modular Technologies Sdn Bhd and Another v Federal Express Services (M) Sdn Bhd 
 

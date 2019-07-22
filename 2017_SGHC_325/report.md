@@ -11,7 +11,7 @@ tags:
   - Civil Procedure
   - Costs
   - Party-and-party costs
-layout: single
+
 ---
 # Legis Point LLC v Tay Choon Ai 
 

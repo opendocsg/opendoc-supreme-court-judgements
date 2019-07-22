@@ -5,7 +5,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional misconduct
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Singapore Medical Council _v_ Mohd Syamsul Alam bin Ismail  

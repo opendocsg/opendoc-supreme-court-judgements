@@ -21,7 +21,7 @@ tags:
   - Transactions contrary to anti-deprivation principle
   - Credit and security
   - Equitable mortgage
-layout: single
+
 ---
 # Encus International Pte Ltd (in compulsory liquidation) v Tenacious Investment Pte Ltd and 
 

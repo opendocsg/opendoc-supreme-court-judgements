@@ -15,6 +15,6 @@ tags:
   - Limitation of actions
   - Particular causes of action
   - Trust property
-layout: single
+
 ---
 

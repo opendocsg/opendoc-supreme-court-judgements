@@ -30,6 +30,6 @@ tags:
   - Contract
   - Breach
   - Whether notice of termination was valid
-layout: single
+
 ---
 

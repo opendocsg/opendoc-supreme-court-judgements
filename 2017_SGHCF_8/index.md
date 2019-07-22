@@ -9,6 +9,6 @@ tags:
   - Costs
   - Principles
   - Matrimonial cases
-layout: single
+
 ---
 

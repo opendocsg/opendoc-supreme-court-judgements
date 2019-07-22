@@ -25,6 +25,6 @@ tags:
   - Equity
   - Estoppel
   - Whether defendants estopped from insisting on their strict legal rights
-layout: single
+
 ---
 

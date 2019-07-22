@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - Statutory offences
   - Prevention of Corruption Act
-layout: single
+
 ---
 # Public Prosecutor v Teo Chu Ha 
 

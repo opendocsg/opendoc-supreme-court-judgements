@@ -20,6 +20,6 @@ tags:
   - No order made
   - Circumstances where joint custody order should be made
   - Whether district judge should have made joint custody order
-layout: single
+
 ---
 

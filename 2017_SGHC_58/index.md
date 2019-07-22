@@ -14,6 +14,6 @@ tags:
   - Civil procedure
   - Summary judgment
   - Shadowy defence
-layout: single
+
 ---
 

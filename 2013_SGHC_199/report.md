@@ -11,7 +11,7 @@ tags:
   - Constitutional law
   - Constitution
   - Interpretation
-layout: single
+
 ---
 # Tan Eng Hong v Attorney-General 
 

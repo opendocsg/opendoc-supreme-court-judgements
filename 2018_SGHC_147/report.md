@@ -10,7 +10,7 @@ tags:
   - Civil Procedure
   - costs
   - offer to settle
-layout: single
+
 ---
 # Inzign Pte Ltd v Associated Spring Asia Pte Ltd 
 

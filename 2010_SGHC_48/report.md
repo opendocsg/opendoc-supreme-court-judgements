@@ -10,7 +10,7 @@ tags:
   - Statutory Interpretation
   - Construction of statute
   - Purposive approach
-layout: single
+
 ---
 # Focus Energy Ltd v Aye Aye Soe (Standard Chartered Bank, Singapore Branch, garnishee) 
 

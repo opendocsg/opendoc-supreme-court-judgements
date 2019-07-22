@@ -6,7 +6,7 @@ tags:
   - Summary judgment
   - Contract
   - Interpretation
-layout: single
+
 ---
 # Olivine Capital Pte Ltd and another v Lee Chiew Leong and another 
 

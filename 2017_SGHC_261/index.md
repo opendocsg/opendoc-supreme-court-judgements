@@ -7,6 +7,6 @@ tags:
   - Mortgagee’s rights
   - Entry into possession
   - Notice
-layout: single
+
 ---
 

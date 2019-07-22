@@ -22,7 +22,7 @@ tags:
     parties
   - Parties at cross-purposes
   - Whether parties bound by agreement
-layout: single
+
 ---
 # Wellmix Organics (International) Pte Ltd v Lau Yu Man 
 

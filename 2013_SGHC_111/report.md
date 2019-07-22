@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - E-discovery
-layout: single
+
 ---
 # Global Yellow Pages Limited v Promedia Directories Pte Ltd and another suit 
 

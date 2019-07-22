@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Statutory offences
   - Prevention of Corruption Act
-layout: single
+
 ---
 

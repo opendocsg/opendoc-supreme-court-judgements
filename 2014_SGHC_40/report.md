@@ -13,7 +13,7 @@ tags:
   - defamation
   - qualified privilege
   - malice
-layout: single
+
 ---
 # Hady Hartanto v Yee Kit Hong and others 
 

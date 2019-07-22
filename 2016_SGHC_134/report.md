@@ -5,7 +5,7 @@ tags:
   - Criminal Proc edure and Sentenc ing
   - Sentenc ing
   - Young offenders
-layout: single
+
 ---
 # Muhammad Zuhairie Adely Bin Zulkifli v Public Prosecutor 
 

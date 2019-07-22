@@ -5,7 +5,7 @@ tags:
   - Land
   - Strata titles
   - Collective sales
-layout: single
+
 ---
 # Low Kwang Tong v Karen Teo Mei Ling and others 
 

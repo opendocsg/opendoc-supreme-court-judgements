@@ -6,6 +6,6 @@ subtitle: "[2010] SGHC 359 / 10\_December\_2010"
 tags:
   - Contract
   - Sale of Goods
-layout: single
+
 ---
 

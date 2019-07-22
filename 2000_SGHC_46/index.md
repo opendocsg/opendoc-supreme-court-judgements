@@ -22,6 +22,6 @@ tags:
   - >-
     Whether loan illegal under Malaysian Code on Take-overs and Mergers and
     Securities Commission Act of Malaysia
-layout: single
+
 ---
 

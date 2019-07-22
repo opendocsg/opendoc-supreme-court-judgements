@@ -17,6 +17,6 @@ tags:
   - Whether parties must act with utmost good faith
   - Duty not to misrepresent by suppression of falsehood
   - Common law principle on \'unusual features\' of transaction
-layout: single
+
 ---
 

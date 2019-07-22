@@ -9,6 +9,6 @@ tags:
   - implied terms
   - Limitation of Actions
   - equity and limitation of actions
-layout: single
+
 ---
 

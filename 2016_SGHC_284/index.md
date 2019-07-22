@@ -7,6 +7,6 @@ tags:
   - Grievous hurt
   - Hurt
   - Culpable homicide
-layout: single
+
 ---
 

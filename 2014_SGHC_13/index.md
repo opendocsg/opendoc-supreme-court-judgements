@@ -8,6 +8,6 @@ tags:
   - Criminal Law
   - Complicity
   - Common intention
-layout: single
+
 ---
 

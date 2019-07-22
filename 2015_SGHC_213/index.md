@@ -6,6 +6,6 @@ tags:
   - Negligence
   - Contract
   - Breach
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Contract
   - Formation
   - Oral agreements
-layout: single
+
 ---
 # Beh Chin Joo and another v Chu Kar Hwa Leonard 
 

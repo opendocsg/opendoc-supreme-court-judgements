@@ -11,6 +11,6 @@ tags:
   - Existence of aggravating factors
   - Whether mitigating factors warranting reduction in sentence existing
   - 'Section 354 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 

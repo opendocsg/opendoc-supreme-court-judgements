@@ -5,7 +5,7 @@ tags:
   - Admiralty and shipping
   - Practice and procedure of action in rem
   - Priorities
-layout: single
+
 ---
 # The “Posidon” and another matter 
 

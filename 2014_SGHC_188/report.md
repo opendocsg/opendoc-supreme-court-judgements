@@ -5,7 +5,7 @@ tags:
   - Legal Profession
   - Professional Conduct
   - Disciplinary Proceedings
-layout: single
+
 ---
 # Law Society of Singapore v Yap Bock Heng Christopher 
 

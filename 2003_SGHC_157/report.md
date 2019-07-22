@@ -14,7 +14,7 @@ tags:
   - Appeal
   - Findings of fact by trial judge
   - Treatment by appellate court
-layout: single
+
 ---
 # Tuen Huan Rui Mary v Public Prosecutor 
 

@@ -11,7 +11,7 @@ tags:
   - Family law
   - Custody
   - Care and control
-layout: single
+
 ---
 # AUA v ATZ 
 

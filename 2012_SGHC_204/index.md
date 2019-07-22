@@ -11,6 +11,6 @@ tags:
   - distinctiveness
   - Trade Marks and Trade names
   - well-known trade mark
-layout: single
+
 ---
 

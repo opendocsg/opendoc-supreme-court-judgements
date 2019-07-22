@@ -5,6 +5,6 @@ tags:
   - Building and construction contracts
   - Standard form contracts
   - Singapore Institute of Architects standard form contracts
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Contract
   - Formation
   - Whether parties had intention to enter into binding oral contracts
-layout: single
+
 ---
 # Chia Ee Lin Evelyn v Teh Guek Ngor Engelin nee Tan and Others 
 

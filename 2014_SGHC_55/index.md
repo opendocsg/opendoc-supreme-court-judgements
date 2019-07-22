@@ -5,6 +5,6 @@ tags:
   - Equity
   - Remedies
   - Injunction
-layout: single
+
 ---
 

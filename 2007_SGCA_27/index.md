@@ -27,6 +27,6 @@ tags:
     such that condition of irrevocability governing conversion from pension
     scheme to CPF scheme ultra vires
   - 'Sections 8(1), 9(d) Pensions Act (Cap 225, 2004 Rev Ed)'
-layout: single
+
 ---
 

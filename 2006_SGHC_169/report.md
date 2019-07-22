@@ -25,7 +25,7 @@ tags:
   - Tort
   - Vicarious liability
   - Scope of employer\'s vicarious liability for employee\'s fraudulent acts
-layout: single
+
 ---
 # Hin Hup Bus Service (a firm) v Tay Chwee Hiang and Another 
 

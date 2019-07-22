@@ -14,6 +14,6 @@ tags:
     Application to set aside Notice of Appeal -Whether filing of Notice of
     Appeal irregular for non-compliance with Arbitration Act (Cap 10, 1985 Ed) s
     28(7)
-layout: single
+
 ---
 

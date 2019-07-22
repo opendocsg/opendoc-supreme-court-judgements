@@ -5,7 +5,7 @@ tags:
   - Damages
   - Assessment
   - Difference between \"loss of earnings\" and \"loss of earning capacity\"
-layout: single
+
 ---
 # Lim Yuen Li Eugene v Singapore Shuttle Bus Service Pte Ltd and Another 
 

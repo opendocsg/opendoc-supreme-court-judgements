@@ -6,6 +6,6 @@ tags:
   - Option to Purchase
   - Exercise of Option
   - Specific Performance
-layout: single
+
 ---
 

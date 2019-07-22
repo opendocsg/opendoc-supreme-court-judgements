@@ -8,6 +8,6 @@ tags:
   - >-
     Whether successful party entitled to costs of trial or whether payment of
     costs to be stayed together with other forms of execution pending appeal
-layout: single
+
 ---
 

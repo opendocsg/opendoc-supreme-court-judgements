@@ -25,7 +25,7 @@ tags:
   - Duty of care
   - Who was an occupier
   - Whether there was control
-layout: single
+
 ---
 # Chandran a/l Subbiah v Dockers Marine Pte Ltd (Owners of the Ship or Vessel "Tasman 
 

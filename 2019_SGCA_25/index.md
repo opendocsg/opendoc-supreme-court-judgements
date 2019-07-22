@@ -16,6 +16,6 @@ tags:
   - Elections
   - Parliament
   - Vacation of seat
-layout: single
+
 ---
 

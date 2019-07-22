@@ -8,7 +8,7 @@ tags:
   - Natural justice
   - Building and Construction Law
   - Statutes and regulations
-layout: single
+
 ---
 # UES Holdings Pte Ltd v KH Foges Pte Ltd 
 

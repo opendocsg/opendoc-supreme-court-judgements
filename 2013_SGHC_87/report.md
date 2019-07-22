@@ -4,7 +4,7 @@ subtitle: "[2013] SGHC 87 / 25\_April\_2013"
 tags:
   - Probate and administration
   - distribution of assets
-layout: single
+
 ---
  (a) Her son, Koh Thong Sam (the defendant) Five (5) shares 
 

@@ -31,6 +31,6 @@ tags:
   - Tort
   - Misrepresentation
   - Negligent misrepresentation
-layout: single
+
 ---
 

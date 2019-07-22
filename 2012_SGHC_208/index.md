@@ -12,6 +12,6 @@ tags:
   - Tort
   - Wrongful detention of property belonging to another
   - User principle
-layout: single
+
 ---
 

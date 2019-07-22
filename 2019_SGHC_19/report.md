@@ -11,7 +11,7 @@ tags:
   - Economic
   - Illegality and public policy
   - Statutory illegality
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Eastern Resource Management Services Ltd _v_ Chiu Teng Construction Co Pte Ltd  

@@ -19,6 +19,6 @@ tags:
   - 's 16(1)(c) Interpretation Act (Cap 1, 1999 Ed)'
   - Words and Phrases
   - \'Contumelious conduct\'
-layout: single
+
 ---
 

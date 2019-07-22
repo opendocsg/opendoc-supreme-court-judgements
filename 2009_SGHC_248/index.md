@@ -13,6 +13,6 @@ tags:
   - Costs
   - Sanderson order
   - Bullock order
-layout: single
+
 ---
 

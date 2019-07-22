@@ -17,6 +17,6 @@ tags:
     Whether facts sufficing to give rise to such a degree of proximity as to
     warrant raising of equitable set-off by one party against claims of the
     other
-layout: single
+
 ---
 

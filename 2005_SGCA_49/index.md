@@ -16,6 +16,6 @@ tags:
   - Taxation
   - Principles to be applied
   - Particulars required to be furnished in bill of costs
-layout: single
+
 ---
 

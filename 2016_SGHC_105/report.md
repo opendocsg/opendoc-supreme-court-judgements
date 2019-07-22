@@ -6,7 +6,7 @@ tags:
   - Judicial review
   - Legal Profession
   - Disciplinary proceedings
-layout: single
+
 ---
 # Deepak Sharma v Law Society of Singapore 
 

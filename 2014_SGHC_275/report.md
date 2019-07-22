@@ -14,7 +14,7 @@ tags:
   - Family law
   - matrimonial assets
   - division
-layout: single
+
 ---
 # APA v APB 
 

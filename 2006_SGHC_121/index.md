@@ -7,6 +7,6 @@ tags:
   - Muslim Law
   - Syariah court
   - Husband and Muslim wife marrying under Women\'s Charter
-layout: single
+
 ---
 

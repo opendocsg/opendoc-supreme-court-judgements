@@ -10,6 +10,6 @@ tags:
   - Succession and Wills
   - Construction
   - Plaintiff beneficiary under will seeking to sell property
-layout: single
+
 ---
 

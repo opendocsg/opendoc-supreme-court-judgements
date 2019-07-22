@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Choice of Court Agreements Act
   - Hague Convention on Choice of Court Agreements
-layout: single
+
 ---
 # Ermgassen & Co Ltd v Sixcap Financials Pte Ltd 
 

@@ -20,6 +20,6 @@ tags:
   - >-
     Whether plaintiff could pursue assessment of damages as contract claim based
     on agreement as to liability after tort action became time-barred
-layout: single
+
 ---
 

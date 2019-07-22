@@ -6,7 +6,7 @@ tags:
   - Building and construction contracts
   - Design and build contract
   - Lump sum contract
-layout: single
+
 ---
 # Goh Eng Lee Andy v Yeo Jin Kow 
 

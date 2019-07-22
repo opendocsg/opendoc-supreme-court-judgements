@@ -6,7 +6,7 @@ tags:
   - Dispute Resolution
   - Adjudication
   - Settlement Agreements
-layout: single
+
 ---
 # Admin Construction Pte Ltd v Vivaldi (S) Pte Ltd 
 

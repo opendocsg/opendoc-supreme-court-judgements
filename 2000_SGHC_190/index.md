@@ -26,6 +26,6 @@ tags:
   - Definition of common gaming house
   - Whether premises within first limb of definition
   - s 2 Common Gaming Houses Act (Cap 49)
-layout: single
+
 ---
 

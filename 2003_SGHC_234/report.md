@@ -8,7 +8,7 @@ tags:
   - Civil Procedure
   - Stay of proceedings
   - Application for stay in favour of arbitration agreement
-layout: single
+
 ---
 # Chong Long Hak Kee Construction Trading Co v IEC Global Pte Ltd 
 

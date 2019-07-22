@@ -15,6 +15,6 @@ tags:
     Plaintiffs precluded from asserting oral representations which contradicted
     express terms of written agreements
   - 'Section 94 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

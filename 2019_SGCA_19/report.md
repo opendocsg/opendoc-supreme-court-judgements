@@ -8,7 +8,7 @@ tags:
   - Shares
   - Valuation
   - Discount on minority shares
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Thio Syn Pyn _v_ Thio Syn Kym Wendy and others and another appeal  

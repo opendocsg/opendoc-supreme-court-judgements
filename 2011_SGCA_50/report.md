@@ -13,7 +13,7 @@ tags:
   - Land
   - Sale of land
   - Contract
-layout: single
+
 ---
 # E C Investment Holding Pte Ltd v Ridout Residence Pte Ltd and others and another appeal 
 

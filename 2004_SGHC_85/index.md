@@ -10,6 +10,6 @@ tags:
   - Sentencing
   - Mentally disordered offenders
   - Whether life imprisonment appropriate.
-layout: single
+
 ---
 

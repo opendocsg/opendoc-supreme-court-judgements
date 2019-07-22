@@ -20,7 +20,7 @@ tags:
     Whether provisional liquidators negligent is not seeking third party advise
     before sale of shares
   - Whether act of provisional liquidators break chain of causation
-layout: single
+
 ---
 # Low Hua Kin v Kumagai-Zenecon Construction Pte Ltd (in liquidation) and Another 
 

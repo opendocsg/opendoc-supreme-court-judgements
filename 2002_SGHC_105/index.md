@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Culpable homicide not amounting to murder
-layout: single
+
 ---
 

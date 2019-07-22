@@ -18,7 +18,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Whether any mitigating factors present
-layout: single
+
 ---
 # Public Prosecutor v Purwanti Parji 
 

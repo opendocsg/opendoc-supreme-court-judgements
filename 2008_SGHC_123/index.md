@@ -10,6 +10,6 @@ tags:
   - Appeal from Registrar to judge in chambers
   - Whether component or global approach to assessment
   - Whether to substitute exercise of discretion
-layout: single
+
 ---
 

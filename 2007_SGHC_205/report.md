@@ -11,7 +11,7 @@ tags:
   - Sentencing
   - Mentally disordered offenders
   - Sentencing considerations applicable to kleptomaniacs
-layout: single
+
 ---
 # Public Prosecutor v Goh Lee Yin and Another Appeal 
 

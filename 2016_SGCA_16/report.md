@@ -7,7 +7,7 @@ tags:
   - Contributory negligence
   - Damages
   - Apportionment
-layout: single
+
 ---
 # Asnah Bte Ab Rahman v Li Jianlin 
 

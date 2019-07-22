@@ -11,6 +11,6 @@ tags:
   - Conversion
   - Trade Marks and Trade Names
   - Infringement
-layout: single
+
 ---
 

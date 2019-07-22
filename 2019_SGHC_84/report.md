@@ -5,7 +5,7 @@ tags:
   - Professions
   - Valuer
   - Judicial review of valuation
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Teo Lay Gek and another _v_ Hoang Trong Binh and others  

@@ -21,7 +21,7 @@ tags:
   - >-
     Whether assistant registrar was justified in not awarding damages for loss
     of future earnings
-layout: single
+
 ---
 # Rajendran a/l Palany v Drill-Quip Asia Pacific Pte Ltd 
 

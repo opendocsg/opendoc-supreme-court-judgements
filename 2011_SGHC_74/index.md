@@ -7,6 +7,6 @@ tags:
   - Breach
   - Employment Law
   - Termination
-layout: single
+
 ---
 

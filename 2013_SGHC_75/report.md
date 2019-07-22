@@ -5,7 +5,7 @@ tags:
   - LEGAL PROFESSION
   - Admission
   - Ad hoc
-layout: single
+
 ---
 # Re Caplan Jonathan Michael QC 
 

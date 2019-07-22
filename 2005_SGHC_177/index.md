@@ -33,6 +33,6 @@ tags:
   - >-
     Whether publication of defamatory statements motivated by malice and
     disproportionate response to attack
-layout: single
+
 ---
 

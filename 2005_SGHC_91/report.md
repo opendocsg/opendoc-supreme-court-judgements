@@ -23,7 +23,7 @@ tags:
   - Singapore international arbitration centre
   - Rules 1997
   - Domestic Rules 2002
-layout: single
+
 ---
 # Bovis Lend Lease Pte Ltd v Jay-Tech Marine & Projects Pte Ltd and Another Application 
 

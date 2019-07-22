@@ -26,7 +26,7 @@ tags:
     Whether claim on dishonoured cheques enforceable if underlying gambling
     contract unenforceable
   - 's 5(2)Civil Law Act (Cap 43, 1999 Ed)'
-layout: single
+
 ---
 # Star City Pty Ltd (fka Sydney Harbour Casino Pty Ltd) v Tan Hong Woon 
 

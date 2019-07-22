@@ -6,7 +6,7 @@ tags:
   - Legal Privilege
   - Common Interest Privilege
   - Waiver
-layout: single
+
 ---
 # Motorola Solutions Credit Co LLC v Kemal Uzan and others 
 

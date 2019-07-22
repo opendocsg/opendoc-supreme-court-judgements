@@ -5,6 +5,6 @@ tags:
   - Family Law
   - Family Court
   - Family Justice Rules
-layout: single
+
 ---
 

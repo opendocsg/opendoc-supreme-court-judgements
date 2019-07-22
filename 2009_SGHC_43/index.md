@@ -6,6 +6,6 @@ tags:
   - Termination of leases
   - Landlord terminating lease of tenant for renovation purposes
   - Whether termination valid
-layout: single
+
 ---
 

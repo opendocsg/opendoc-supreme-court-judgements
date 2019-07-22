@@ -8,7 +8,7 @@ tags:
   - Tort
   - Negligence
   - Contributory Negligence
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 2668 v Rott George Hugo 
 

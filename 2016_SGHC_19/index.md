@@ -22,6 +22,6 @@ tags:
   - Ratification
   - Estoppel
   - Estoppel by representation
-layout: single
+
 ---
 

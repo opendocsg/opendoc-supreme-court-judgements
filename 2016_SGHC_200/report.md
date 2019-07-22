@@ -6,7 +6,7 @@ tags:
   - Stay of proceedings
   - Conflict of laws
   - Choice of jurisdiction
-layout: single
+
 ---
 # SKP Pradiksi (North) Sdn Bhd and another v Trisuryo Garuda Nusa Pte Ltd 
 

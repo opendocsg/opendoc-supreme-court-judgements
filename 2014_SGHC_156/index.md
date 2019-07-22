@@ -8,6 +8,6 @@ tags:
   - Bankruptcy
   - Statutory demand
   - Debtor setting aside statutory demand
-layout: single
+
 ---
 

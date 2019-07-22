@@ -6,7 +6,7 @@ tags:
   - Offences
   - Rape
   - Adverse Inference
-layout: single
+
 ---
 # Public Prosecutor v Mohd Ariffan bin Mohd Hassan 
 

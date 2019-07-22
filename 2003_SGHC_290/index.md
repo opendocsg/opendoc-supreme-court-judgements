@@ -13,6 +13,6 @@ tags:
   - >-
     Whether plaintiff entitled to c laim reasonable sum on basis of
     restitutionary quantum meruit
-layout: single
+
 ---
 

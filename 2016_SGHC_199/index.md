@@ -6,6 +6,6 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Importation of controlled drugs
-layout: single
+
 ---
 

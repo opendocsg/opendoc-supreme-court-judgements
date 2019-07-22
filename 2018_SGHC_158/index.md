@@ -12,6 +12,6 @@ tags:
   - Contract
   - Breach
   - Obligation to award academic degree
-layout: single
+
 ---
 

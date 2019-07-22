@@ -62,6 +62,6 @@ tags:
   - 'rr 12(2), 12(3), 15(1) and 15(2) Housing Developers Rules 1985'
   - Statutory set-off
   - Protection of purchasers over unsecured creditors
-layout: single
+
 ---
 

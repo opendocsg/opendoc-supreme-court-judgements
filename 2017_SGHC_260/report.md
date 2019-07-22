@@ -5,7 +5,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional conduct
-layout: single
+
 ---
 # Lam Kwok Tai Leslie v Singapore Medical Council 
 

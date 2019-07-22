@@ -12,6 +12,6 @@ tags:
   - Equity
   - Fiduciary relationships
   - When arising
-layout: single
+
 ---
 

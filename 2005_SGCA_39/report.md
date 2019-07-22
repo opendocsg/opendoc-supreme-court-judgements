@@ -30,7 +30,7 @@ tags:
   - >-
     Whether tenant having right to remove tenant\'s fixtures upon termination of
     third tenancy
-layout: single
+
 ---
 # Riduan bin Yusof v Khng Thian Huat and Another (No 2) 
 

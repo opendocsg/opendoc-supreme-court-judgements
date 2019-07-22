@@ -13,7 +13,7 @@ tags:
   - >-
     Whether bailee entitled to rely on \"events beyond our control\" clause in
     contract of carriage between itself and bailor
-layout: single
+
 ---
 # Sun Technosystems Pte Ltd v Federal Express Services (M) Sdn Bhd 
 

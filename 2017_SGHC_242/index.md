@@ -7,6 +7,6 @@ tags:
   - Interpretation
   - Contract
   - Postal rule
-layout: single
+
 ---
 

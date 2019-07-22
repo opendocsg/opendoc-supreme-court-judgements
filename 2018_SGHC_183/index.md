@@ -7,6 +7,6 @@ tags:
   - Tort
   - Negligence
   - Solicitors’ duties
-layout: single
+
 ---
 

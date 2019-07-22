@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Statutory Demand
-layout: single
+
 ---
 # Yashwant Bajaj v Toru Ueda 
 

@@ -8,7 +8,7 @@ tags:
   - Employment law
   - Pay
   - Effect of In-Principle Approval
-layout: single
+
 ---
 # Liu Huaixi v Haniffa Pte Ltd 
 

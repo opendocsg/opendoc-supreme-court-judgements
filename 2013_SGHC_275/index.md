@@ -8,6 +8,6 @@ tags:
   - Family Law
   - Matrimonial assets
   - Deed of separation
-layout: single
+
 ---
 

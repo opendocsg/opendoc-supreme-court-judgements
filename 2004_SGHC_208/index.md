@@ -8,6 +8,6 @@ tags:
   - Victim consenting to composition after seeking independent legal advice
   - Whether judge\'s discretion to refuse composition correctly exercised
   - Considerations of public interest
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Causing death by reckless or dangerous driving
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 

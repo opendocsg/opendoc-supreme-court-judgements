@@ -8,7 +8,7 @@ tags:
   - Bankruptcy
   - Statutory demand
   - Debtor setting aside statutory demand
-layout: single
+
 ---
 # Tan Hup Yuan Patrick v The Griffin Coal Mining Co Pty Ltd (administrators appointed) and 
 

@@ -16,7 +16,7 @@ tags:
   - >-
     Whether \"pain and suffering\" and \"loss of amenities\" under separate
     heads of damages
-layout: single
+
 ---
 # Tan Kok Lam (next friend to Teng Eng) v Hong Choon Peng 
 

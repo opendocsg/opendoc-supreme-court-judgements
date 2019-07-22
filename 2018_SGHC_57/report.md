@@ -12,7 +12,7 @@ tags:
   - Equity
   - Fiduciary relationships
   - Duties
-layout: single
+
 ---
 # Long Well Group Ltd and others v Commerzbank AG and others 
 

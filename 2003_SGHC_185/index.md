@@ -17,6 +17,6 @@ tags:
   - Pleadings
   - Amendment
   - Whether court should consider matters deleted by amendment
-layout: single
+
 ---
 

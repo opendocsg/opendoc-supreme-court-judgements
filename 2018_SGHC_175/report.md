@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
  This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports. 
 

@@ -12,6 +12,6 @@ tags:
   - Damages
   - Liquidated damages
   - Mitigation of damage
-layout: single
+
 ---
 

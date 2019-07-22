@@ -12,6 +12,6 @@ tags:
     Whether leave required if amount under appeal subsequently falling below
     minimum amount
   - 'Section 21(1) Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed)'
-layout: single
+
 ---
 

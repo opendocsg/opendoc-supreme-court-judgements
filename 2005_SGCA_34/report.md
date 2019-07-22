@@ -30,7 +30,7 @@ tags:
   - >-
     Whether risk that shares may be sold to bona fide purc haser without notic e
     existing
-layout: single
+
 ---
 # Beckkett Pte Ltd v Deutsche Bank AG 
 

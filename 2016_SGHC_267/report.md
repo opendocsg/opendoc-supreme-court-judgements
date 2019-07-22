@@ -8,7 +8,7 @@ tags:
   - Statutory Interpretation
   - Interpretation Act
   - Purposive approach
-layout: single
+
 ---
 # Public Prosecutor v Lee Sze Yong 
 

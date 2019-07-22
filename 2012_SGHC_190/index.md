@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Winding Up
   - Liquidator
-layout: single
+
 ---
 

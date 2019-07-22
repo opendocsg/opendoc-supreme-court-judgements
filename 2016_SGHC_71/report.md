@@ -8,7 +8,7 @@ tags:
   - Criminal Law
   - Offences
   - Culpable Homicide
-layout: single
+
 ---
 # Public Prosecutor v Govindasamy s/o Nallaiah 
 

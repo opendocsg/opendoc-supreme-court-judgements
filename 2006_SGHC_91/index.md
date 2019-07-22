@@ -17,6 +17,6 @@ tags:
     Whether report and drafts thereof protected by legal advice privilege and/or
     litigation privilege
   - 'Sections 128, 131 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

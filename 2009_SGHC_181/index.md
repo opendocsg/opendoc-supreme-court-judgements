@@ -6,6 +6,6 @@ tags:
   - Negligence
   - Personal Injury
   - Assessment of Damages
-layout: single
+
 ---
 

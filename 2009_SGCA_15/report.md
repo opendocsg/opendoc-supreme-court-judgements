@@ -17,7 +17,7 @@ tags:
   - >-
     Failure to report seizures \"forthwith\" under s 392(1) Criminal Procedure
     Code was a breach and amounted to procedural impropriety
-layout: single
+
 ---
 # Ung Yoke Hooi v Attorney-General 
 

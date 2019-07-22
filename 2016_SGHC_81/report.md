@@ -11,7 +11,7 @@ tags:
   - Civil Procedure
   - Stay of proceedings
   - Stay of execution
-layout: single
+
 ---
 # Viet Hai Petroleum Corp v Ng Jun Quan and another and another matter 
 

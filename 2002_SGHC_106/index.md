@@ -20,6 +20,6 @@ tags:
   - Courts and Jurisdiction
   - Court judgments
   - Consent order following settlement agreement
-layout: single
+
 ---
 

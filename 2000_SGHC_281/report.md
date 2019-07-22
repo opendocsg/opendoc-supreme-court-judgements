@@ -20,7 +20,7 @@ tags:
   - Amount of cross-demand less than debt claimed in statutory demand
   - No grounds for setting aside statutory demand
   - Bankruptcy Rules r 98(2)(a)
-layout: single
+
 ---
 # Goh Chin Soon and Another v Vickers Capital Ltd (fka St. Capital Ltd) 
 

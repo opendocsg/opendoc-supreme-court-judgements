@@ -17,6 +17,6 @@ tags:
   - Civil Procedure
   - Privileges
   - Inspection by the court
-layout: single
+
 ---
 

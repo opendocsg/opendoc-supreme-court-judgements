@@ -28,7 +28,7 @@ tags:
   - Contract for sale of shares in company pursuing public listing
   - Whether specific performance appropriate remedy
   - Circumstances in which specific performance will be granted
-layout: single
+
 ---
 # Lee Chee Wei v Tan Hor Peow Victor and Others and Another Appeal 
 

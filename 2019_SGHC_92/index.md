@@ -7,6 +7,6 @@ tags:
   - Conflict of interest
   - Professional conduct
   - Grossly improper conduct
-layout: single
+
 ---
 

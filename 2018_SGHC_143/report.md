@@ -16,7 +16,7 @@ tags:
   - Courts and Jurisdiction
   - Court judgments
   - Declaratory
-layout: single
+
 ---
 # AL Shams Global Ltd v BNP Paribas 
 

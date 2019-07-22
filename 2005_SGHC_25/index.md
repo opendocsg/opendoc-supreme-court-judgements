@@ -24,6 +24,6 @@ tags:
     Whether plaintiff effecting proper presentment of cheque on defendant or
     defendant\'s bank qua agent
   - 'Sections 45(1), 45(2), 46(3)(c) Bills of Exchange Act (Cap 23, 1999 Rev Ed)'
-layout: single
+
 ---
 

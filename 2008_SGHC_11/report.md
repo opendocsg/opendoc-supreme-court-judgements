@@ -21,7 +21,7 @@ tags:
   - >-
     Whether costs award in conflict with public policy in that it offended
     against principle of proportionality
-layout: single
+
 ---
 # VV and Another v VW 
 

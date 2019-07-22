@@ -7,6 +7,6 @@ tags:
   - Contract
   - Implied Contracts
   - Quantum Meruit
-layout: single
+
 ---
 

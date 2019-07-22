@@ -24,6 +24,6 @@ tags:
     occupation period met
   - Nature of such agreement
   - Whether agreement illegal and void
-layout: single
+
 ---
 

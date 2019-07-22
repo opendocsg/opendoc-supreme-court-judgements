@@ -10,6 +10,6 @@ tags:
   - Quistclose trusts
   - Factors in support
   - Advance of money for discharge of debts
-layout: single
+
 ---
 

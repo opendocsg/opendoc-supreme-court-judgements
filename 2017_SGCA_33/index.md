@@ -6,6 +6,6 @@ tags:
   - Formation
   - Contract
   - Misrepresentation
-layout: single
+
 ---
 

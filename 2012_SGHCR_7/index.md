@@ -18,6 +18,6 @@ tags:
   - Professions
   - Medical profession and practice
   - Medical confidentiality between independent medical examiner and examinee
-layout: single
+
 ---
 

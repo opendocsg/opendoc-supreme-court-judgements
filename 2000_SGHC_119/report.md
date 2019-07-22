@@ -24,7 +24,7 @@ tags:
   - Assured informing insurers of class of ship and insurers not objecting
   - Insurers informing assured that cover note applicable
   - Whether insurers estopped from denying contract valid and effective
-layout: single
+
 ---
 # Everbright Commercial Pte Ltd and Another v AXA Insurance S`pore Pte Ltd 
 

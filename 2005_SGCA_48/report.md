@@ -17,7 +17,7 @@ tags:
   - >-
     Whether proposed appeal raising custody issue involving question of law of
     importance
-layout: single
+
 ---
 # IW v IX 
 

@@ -14,7 +14,7 @@ tags:
   - Criminal Law
   - Special Exceptions
   - Sudden Fight
-layout: single
+
 ---
 # Public Prosecutor v Astro bin Jakaria 
 

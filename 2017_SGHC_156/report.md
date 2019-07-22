@@ -6,7 +6,7 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Sentencing
-layout: single
+
 ---
 # Public Prosecutor v Ng Peng Chong and another 
 

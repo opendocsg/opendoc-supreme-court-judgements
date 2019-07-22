@@ -21,7 +21,7 @@ tags:
   - Civil Procedure
   - Costs
   - Costs of the banks in application under Part IV of the Evidence Act
-layout: single
+
 ---
 # Wee Soon Kim Anthony v UBS AG and Another Case 
 

@@ -22,6 +22,6 @@ tags:
   - Corroboration
   - Sexual offence
   - Approach to be adopted by the courts
-layout: single
+
 ---
 

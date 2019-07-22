@@ -23,6 +23,6 @@ tags:
   - >-
     Whether financial standing and occupation of party seeking to be guardian of
     child relevant
-layout: single
+
 ---
 

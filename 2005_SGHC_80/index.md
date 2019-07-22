@@ -30,6 +30,6 @@ tags:
     Provision in agreement excluding liability of parties for damages for lost
     revenue or profits -Whether true intention of parties reflected in provision
   - Whether plaintiff prohibited from recovering damages because of provision
-layout: single
+
 ---
 

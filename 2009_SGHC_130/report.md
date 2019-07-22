@@ -8,7 +8,7 @@ tags:
   - Executors
   - Principles for awarding commission
   - Whether professional assistance should affect quantum of commission
-layout: single
+
 ---
 # Shiraz Abidally Husain and Another (executors of the estate of Abidally Abdul Husain, 
 

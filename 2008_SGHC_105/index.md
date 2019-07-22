@@ -16,6 +16,6 @@ tags:
   - >-
     Whether evidence established that prima facie case of knowing receipt made
     out
-layout: single
+
 ---
 

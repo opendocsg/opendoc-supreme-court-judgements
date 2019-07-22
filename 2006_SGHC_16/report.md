@@ -6,7 +6,7 @@ tags:
   - Winding up
   - Liquidator
   - Liquidators bringing action on behalf of insolvent estate
-layout: single
+
 ---
 # Ho Wing On Christopher and Others v ECRC Land Pte Ltd (in liquidation) 
 

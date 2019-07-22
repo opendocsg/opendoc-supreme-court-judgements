@@ -11,6 +11,6 @@ tags:
     shares if decision made due to director\'s judgment that registration would
     cause company to lose status as private company
   - 'Sections 128(2), 194(1) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

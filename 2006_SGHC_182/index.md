@@ -14,6 +14,6 @@ tags:
     deceit based on fraudulent misrepresentation
   - Whether plaintiff induced to enter transactions by alleged representations
   - Whether plaintiff suffering loss because of misrepresentation
-layout: single
+
 ---
 

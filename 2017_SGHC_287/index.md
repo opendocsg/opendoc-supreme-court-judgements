@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Criminal references
   - Stay of execution
-layout: single
+
 ---
 

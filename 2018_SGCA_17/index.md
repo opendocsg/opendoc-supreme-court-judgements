@@ -9,6 +9,6 @@ tags:
   - Directors’ liability
   - Contract
   - Breach
-layout: single
+
 ---
 

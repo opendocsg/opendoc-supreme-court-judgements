@@ -8,7 +8,7 @@ tags:
   - Insolvency Law
   - Rescue financing
   - Super priority
-layout: single
+
 ---
 # Re : Attilan Group Ltd 
 

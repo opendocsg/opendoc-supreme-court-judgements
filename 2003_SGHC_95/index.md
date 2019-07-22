@@ -9,6 +9,6 @@ tags:
   - >-
     Whether accused rebutted presumption that drugs in his possession were for
     the purposes of trafficking
-layout: single
+
 ---
 

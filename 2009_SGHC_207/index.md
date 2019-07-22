@@ -11,6 +11,6 @@ tags:
     Accused had slapped and dropped two-month-old victim because of anger with
     mother of victim
   - Appropriate sentence to be imposed
-layout: single
+
 ---
 

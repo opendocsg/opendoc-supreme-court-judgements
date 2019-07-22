@@ -15,7 +15,7 @@ tags:
   - >-
     Effect of on-going negotiations between parties and manner in which
     defendants\' P & I Club conducts correspondence
-layout: single
+
 ---
 # The "Antares V" 
 

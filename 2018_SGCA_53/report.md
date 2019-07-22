@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - Income taxation
   - Deduction
-layout: single
+
 ---
 # BML v Comptroller of Income Tax 
 

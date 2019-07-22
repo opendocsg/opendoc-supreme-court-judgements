@@ -14,7 +14,7 @@ tags:
   - Tort
   - Negligence
   - Causation
-layout: single
+
 ---
 # Wartsila Singapore Pte Ltd v Lau Yew Choong and another suit 
 

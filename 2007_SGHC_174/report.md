@@ -24,7 +24,7 @@ tags:
     Whether law permitting Board to dismiss application on ground of defective
     application without hearing merits
   - Whether defective application extinguishing existence of Board
-layout: single
+
 ---
 # Siow Doreen and Others v Lo Pui Sang and others (Horizon Partners Pte Ltd, first intervener, 
 

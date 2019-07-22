@@ -9,7 +9,7 @@ tags:
   - >-
     Whether India more appropriate forum than Singapore for resolution of
     dispute
-layout: single
+
 ---
 # Exxonmobil Asia Pacific Pte Ltd v Bombay Dyeing & Manufacturing Co Ltd 
 

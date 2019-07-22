@@ -10,7 +10,7 @@ tags:
   - invalidity
   - Trade Marks and Trade Names
   - passing off
-layout: single
+
 ---
 # Han’s (F & B) Pte Ltd v Gusttimo World Pte Ltd 
 

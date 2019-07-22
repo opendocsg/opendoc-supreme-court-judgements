@@ -8,7 +8,7 @@ tags:
   - Proof of Evidence
   - Trusts
   - Express Trusts
-layout: single
+
 ---
 # Westacre Investments Inc v The State-Owned Company Yugoimport SDPR (also known as 
 

@@ -6,6 +6,6 @@ tags:
   - Matrimonial assets
   - Division
   - Maintenance
-layout: single
+
 ---
 

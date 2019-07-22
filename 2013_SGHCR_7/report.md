@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Further & Better Particulars
-layout: single
+
 ---
 # AstraZeneca AB (SE) v Sanofi-Aventis Singapore Pte Ltd 
 

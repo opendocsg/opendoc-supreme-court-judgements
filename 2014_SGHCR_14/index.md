@@ -7,6 +7,6 @@ tags:
   - Conclusive Evidence Clauses
   - Civil Procedure
   - Summary Judgment
-layout: single
+
 ---
 

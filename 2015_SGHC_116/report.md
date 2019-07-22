@@ -10,7 +10,7 @@ tags:
   - innocent
   - Contract
   - Misrepresentation Act
-layout: single
+
 ---
 # Tiong Swee Eng v Yeo Khee Siang 
 

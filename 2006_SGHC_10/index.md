@@ -15,6 +15,6 @@ tags:
     Whether acceptance of offer to settle despite offeree\'s knowledge of
     offeror\'s unilateral mistake valid
   - 'Order 22A r 3(1), O 22A r 3(2) Rules of Court (Cap 322, R 5, 2004 Rev Ed)'
-layout: single
+
 ---
 

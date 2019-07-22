@@ -17,6 +17,6 @@ tags:
   - >-
     Whether employee in breach of duty of good faith and fidelity towards
     employer
-layout: single
+
 ---
 

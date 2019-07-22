@@ -27,7 +27,7 @@ tags:
   - >-
     Whether requirement that plaintiff must have locus standi to ask for
     declaration satisfied
-layout: single
+
 ---
 # Karaha Bodas Co LLC v Pertamina Energy Trading Ltd and Another Appeal 
 

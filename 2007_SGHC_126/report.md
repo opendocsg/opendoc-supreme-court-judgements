@@ -9,7 +9,7 @@ tags:
   - Claims
   - Contractors\' all-risks policy
   - Scope of all-risks policy
-layout: single
+
 ---
 # B-Gold Interior Design & Construction Pte Ltd v Zurich Insurance (Singapore) Pte Ltd 
 

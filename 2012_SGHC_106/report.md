@@ -6,7 +6,7 @@ tags:
   - Proceedings at Trial
   - Judgment given in absence of party
   - Setting aside
-layout: single
+
 ---
 # Ong Jane Rebecca v PricewaterhouseCoopers and others 
 

@@ -8,7 +8,7 @@ tags:
   - Security
   - Foreign award
   - Foreign law
-layout: single
+
 ---
 # Man Diesel Turbo SE v I.M. Skaugen Marine Services Pte Ltd 
 

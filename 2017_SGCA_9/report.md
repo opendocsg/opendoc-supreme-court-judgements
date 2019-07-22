@@ -17,7 +17,7 @@ tags:
   - Criminal Law
   - Special exceptions
   - Sudden fight
-layout: single
+
 ---
 # Iskandar bin Rahmat v Public Prosecutor and other matters 
 

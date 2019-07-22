@@ -10,7 +10,7 @@ tags:
   - Plaintiff serving notice to quit on defendant
   - Whether contractual licence or bare licence granted
   - Whether contractual licence revocable at will
-layout: single
+
 ---
 # Tan Hin Leong v Lee Teck Im 
 

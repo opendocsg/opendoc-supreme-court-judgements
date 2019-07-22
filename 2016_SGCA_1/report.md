@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Amendment
-layout: single
+
 ---
 # Multistar Holdings Ltd v Geocon Piling & Engineering Pte Ltd 
 

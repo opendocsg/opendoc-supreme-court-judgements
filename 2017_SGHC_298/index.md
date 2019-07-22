@@ -5,6 +5,6 @@ tags:
   - Companies
   - Directors
   - Appointment
-layout: single
+
 ---
 

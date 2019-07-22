@@ -8,6 +8,6 @@ tags:
   - Domestic maid abuse
   - Criminal Procedure and Sentencing
   - Compensation and costs
-layout: single
+
 ---
 

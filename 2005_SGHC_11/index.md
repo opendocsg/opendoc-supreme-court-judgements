@@ -38,6 +38,6 @@ tags:
     insurer (defendant)
   - Doctrine of contribution in cases of double insurance
   - Whether equitable to apply doctrine of contribution under the circumstances
-layout: single
+
 ---
 

@@ -24,6 +24,6 @@ tags:
   - TORT
   - Misrepresentation
   - fraud and deceit
-layout: single
+
 ---
 

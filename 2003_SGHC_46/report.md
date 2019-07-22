@@ -8,7 +8,7 @@ tags:
   - Accused did not wield the knife that killed the deceased
   - Role in the assault
   - Sentence.
-layout: single
+
 ---
 # Public Prosecutor v Tay Teik Chai Robson 
 

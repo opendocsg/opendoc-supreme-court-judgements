@@ -28,6 +28,6 @@ tags:
     of fits that could account for deceased\'s suffocation and death
   - Whether evidence casting reasonable doubt on Prosecution\'s case
   - 'Section 300 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 

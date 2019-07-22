@@ -11,7 +11,7 @@ tags:
   - Tort
   - Passing Off
   - Goodwill
-layout: single
+
 ---
  Date registeredClass TM Reg No Specification 
 

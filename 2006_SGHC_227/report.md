@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Further amendments to statement of claim on last day of trial
-layout: single
+
 ---
 # Terence Yeo Guan Chye and Another v Lau Siew Kim 
 

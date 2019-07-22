@@ -18,7 +18,7 @@ tags:
   - >-
     Whether any misrepresentation by seller to induce purchaser to enter into
     contractual relations
-layout: single
+
 ---
 # By Products Traders Pte Ltd and Another v JAK Alhadad & Co Pte Ltd 
 

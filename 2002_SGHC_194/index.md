@@ -20,6 +20,6 @@ tags:
   - Whether district judge acting beyond sentencing powers
   - Correct course of action in such situation
   - 'ss 13(1), 13(2) & 13(3)(a) Criminal Procedure Code (Cap 68)'
-layout: single
+
 ---
 

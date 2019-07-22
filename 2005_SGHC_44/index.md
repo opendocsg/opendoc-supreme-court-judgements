@@ -11,6 +11,6 @@ tags:
     Whether audited profit and loss figure of a company was good reflection of
     operational losses
   - Whether appellant\'s claim for loss of profits properly quantified
-layout: single
+
 ---
 

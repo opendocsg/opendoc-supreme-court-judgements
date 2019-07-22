@@ -10,7 +10,7 @@ tags:
   - Discovery of documents
   - Civil Procedure
   - Interrogatories
-layout: single
+
 ---
 # ACW v ACX 
 

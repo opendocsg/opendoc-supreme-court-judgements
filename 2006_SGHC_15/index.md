@@ -22,6 +22,6 @@ tags:
   - >-
     Sections 97(1), 97(2), 103(1)(c) Land Titles (Strata) Act (Cap 158, 1999 Rev
     Ed)
-layout: single
+
 ---
 

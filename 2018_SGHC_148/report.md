@@ -11,7 +11,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Rule against double counting
-layout: single
+
 ---
 # Public Prosecutor v Raveen Balakrishnan 
 

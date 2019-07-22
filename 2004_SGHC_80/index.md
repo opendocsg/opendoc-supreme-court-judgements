@@ -6,6 +6,6 @@ tags:
   - Appeals
   - Leave
   - Whether leave should be granted to appeal against orders on costs.
-layout: single
+
 ---
 

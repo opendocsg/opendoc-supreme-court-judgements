@@ -33,6 +33,6 @@ tags:
     Paramount mortgagee\'s letter to paramount mortgagor stating terms for
     discharge from paramount mortgage whilst predecessor bank\'s loan in
     operation
-layout: single
+
 ---
 

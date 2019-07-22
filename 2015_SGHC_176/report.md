@@ -10,7 +10,7 @@ tags:
   - Leave to Appeal
   - Civil Procedure
   - Capacities
-layout: single
+
 ---
 # Foo Jee Boo and another v Foo Jhee Tuang and another (Foo Jee Seng, intervener) 
 

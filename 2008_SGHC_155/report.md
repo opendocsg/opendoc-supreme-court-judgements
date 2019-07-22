@@ -31,7 +31,7 @@ tags:
   - Purchaser seeking specific performance and/or damages
   - Effect of Strata Title Board decision
   - Whether court had jurisdiction to hear application
-layout: single
+
 ---
 # Wong Lai Keen and Others v Allgreen Properties Ltd and Another Matter 
 

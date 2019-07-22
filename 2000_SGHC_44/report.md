@@ -8,7 +8,7 @@ tags:
   - Civil Procedure
   - Appeals
   - Staying of proceedings until plaintiffs furnished security for costs
-layout: single
+
 ---
 # Djuric and Others v Toshali Marketing Pte Ltd 
 

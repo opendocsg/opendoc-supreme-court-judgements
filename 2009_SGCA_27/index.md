@@ -18,6 +18,6 @@ tags:
   - >-
     Whether claimant had locus standi to bring claim to recover proceeds of
     cheques he had issued as loan to another party
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Outrage of Modesty
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 # GBR v Public Prosecutor and another appeal 
 

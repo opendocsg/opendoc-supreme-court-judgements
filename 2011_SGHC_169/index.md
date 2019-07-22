@@ -6,6 +6,6 @@ tags:
   - Assessment
   - Rules In Awarding
   - Proof of Actual Damage
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Division of Matrimonial Assets
   - Family Law
   - Maintenance
-layout: single
+
 ---
 

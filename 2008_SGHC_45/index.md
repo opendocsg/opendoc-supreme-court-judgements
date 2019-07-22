@@ -60,6 +60,6 @@ tags:
     Whether foreman of company having authority to engage services of deceased
     on company\'s behalf
   - Whether accident happening out of and in the course of that employment
-layout: single
+
 ---
 

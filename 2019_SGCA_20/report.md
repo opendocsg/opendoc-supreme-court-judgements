@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Service
   - Service out of jurisdiction
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Li Shengwu _v_ The Attorney-General  

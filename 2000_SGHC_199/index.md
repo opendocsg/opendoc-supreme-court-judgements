@@ -47,6 +47,6 @@ tags:
   - Remedial constructive trusts
   - Whether doctrine applies in Singapore
   - Whether such trust established
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Civil procedure
   - pleadings
   - striking out
-layout: single
+
 ---
 # Ng Chee Weng v Lim Jit Ming Bryan and another 
 

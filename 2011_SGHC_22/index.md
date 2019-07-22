@@ -11,6 +11,6 @@ tags:
   - Pleadings
   - Striking out pursuant to O 18 r 19 and inherent jurisdiction of the court
   - Application of the plain and obvious threshold
-layout: single
+
 ---
 

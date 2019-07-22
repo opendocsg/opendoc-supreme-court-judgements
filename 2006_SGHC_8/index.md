@@ -8,6 +8,6 @@ tags:
   - >-
     Whether defendant failed to honour the contractual delivery and installation
     date
-layout: single
+
 ---
 

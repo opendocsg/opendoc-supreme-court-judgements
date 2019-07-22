@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Khalid bin Abdul Rashid v Public Prosecutor 
 

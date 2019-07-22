@@ -27,6 +27,6 @@ tags:
   - >-
     Whether the court must in all instances lean in favour of the mother when
     deciding on custody of an infant of tender years.
-layout: single
+
 ---
 

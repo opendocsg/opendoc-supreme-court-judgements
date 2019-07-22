@@ -15,7 +15,7 @@ tags:
   - When to treat accused\'s lies with caution
   - Burden of proof
   - Standard of proof for criminal prosecutions
-layout: single
+
 ---
 # Heng Aik Peng v Public Prosecutor 
 

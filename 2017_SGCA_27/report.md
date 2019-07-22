@@ -5,7 +5,7 @@ tags:
   - Conflict of Laws
   - Natural forum
   - Stay of proceedings
-layout: single
+
 ---
 # Rappo, Tania v Accent Delight International Ltd and another and another appeal 
 

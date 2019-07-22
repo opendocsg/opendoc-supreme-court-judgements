@@ -7,7 +7,7 @@ tags:
   - Family Law
   - Women’s Charter
   - 'Section 112(4) Women’s Charter (Cap 353, 2009 Rev Ed)'
-layout: single
+
 ---
 # BMI v BMJ 
 

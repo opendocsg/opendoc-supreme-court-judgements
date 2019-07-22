@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Muraligeran A/L S Krishnan v Public Prosecutor 
 

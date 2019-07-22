@@ -12,7 +12,7 @@ tags:
   - Pleadings
   - Further and better particulars
   - Whether requests by defendants relevant and valid
-layout: single
+
 ---
 # Johnson Pacific Pte Ltd v Hogberg Fred Rickard Robin William and Others 
 

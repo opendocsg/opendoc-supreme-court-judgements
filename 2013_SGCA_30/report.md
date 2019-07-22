@@ -4,7 +4,7 @@ subtitle: "[2013] SGCA 30 / 25\_April\_2013"
 tags:
   - Revenue Law
   - Property Tax
-layout: single
+
 ---
 # Chief Assessor v Glengary Pte Ltd 
 

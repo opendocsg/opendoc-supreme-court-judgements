@@ -6,6 +6,6 @@ subtitle: "[2013] SGHC 178 / 17\_September\_2013"
 tags:
   - Civil Procedure
   - Offer to Settle
-layout: single
+
 ---
 

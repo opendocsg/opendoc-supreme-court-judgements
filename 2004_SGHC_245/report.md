@@ -13,7 +13,7 @@ tags:
   - Scope of works
   - Variations
   - Whether sub-contractor entitled to payment for variation works.
-layout: single
+
 ---
 # Nylect Engineering Pte Ltd v BKB Engineering Constructions Pte Ltd and Another 
 

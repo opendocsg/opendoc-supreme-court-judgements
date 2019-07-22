@@ -10,6 +10,6 @@ tags:
   - Assessment
   - Compensation
   - User principle
-layout: single
+
 ---
 

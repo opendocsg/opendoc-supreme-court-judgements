@@ -12,6 +12,6 @@ tags:
   - Certificates and approvals
   - Validity of certificate of payment
   - Architect\'s power to issue and withdraw certificate of payment
-layout: single
+
 ---
 

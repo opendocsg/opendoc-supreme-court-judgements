@@ -11,7 +11,7 @@ tags:
   - Proof of evidence
   - Inspection
   - Order for inspection of electronic documents
-layout: single
+
 ---
 # Alliance Management SA v Pendleton Lane P and Another and Another Suit 
 

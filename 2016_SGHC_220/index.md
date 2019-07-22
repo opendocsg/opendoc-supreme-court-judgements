@@ -7,6 +7,6 @@ tags:
   - Succession and wills
   - Testamentary capacity
   - Mental disability
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Trusts
   - Resulting trusts
   - Presumed resulting trusts
-layout: single
+
 ---
 

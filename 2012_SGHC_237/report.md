@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - Property Tax
   - Refund on unoccupied buildings
-layout: single
+
 ---
 # 8. 
 

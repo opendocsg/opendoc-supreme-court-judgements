@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Statutory Offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 

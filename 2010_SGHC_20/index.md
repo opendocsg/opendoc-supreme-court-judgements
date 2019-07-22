@@ -4,6 +4,6 @@ subtitle: "[2010] SGHC 20 / 18\_January\_2010"
 tags:
   - Arbitration
   - Extension of Time to Issue Award
-layout: single
+
 ---
 

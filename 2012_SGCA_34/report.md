@@ -6,7 +6,7 @@ tags:
   - Breach
   - Damages
   - Measure of damages
-layout: single
+
 ---
 # Chan Ah Beng v Liang and Sons Holdings (S) Pte Ltd and another application 
 

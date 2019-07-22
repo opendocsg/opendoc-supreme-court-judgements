@@ -22,6 +22,6 @@ tags:
   - Negligenc e
   - Whether employee ac ted within c ourse of his employment
   - Whether employers liable for breac h of duty
-layout: single
+
 ---
 

@@ -20,7 +20,7 @@ tags:
   - >-
     Whether former partner in partnership entitled to appropriate share in
     partnership assets
-layout: single
+
 ---
 # Siow Soon Kim and Others v Lim Eng Beng alias Lim Jia Le 
 

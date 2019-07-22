@@ -6,7 +6,7 @@ tags:
   - Discovery
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 # Lai Swee Lin Linda v Attorney-General 
 

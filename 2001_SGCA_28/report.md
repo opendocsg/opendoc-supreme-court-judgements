@@ -18,7 +18,7 @@ tags:
   - >-
     Validity of compromise agreement not to be confused with success of claim
     under insurance policy
-layout: single
+
 ---
 # Projection Pte Ltd v The Tai Ping Insurance Co Ltd 
 

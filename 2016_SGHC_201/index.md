@@ -8,6 +8,6 @@ tags:
   - Enhanced punishment
   - Criminal Procedure and Sentencing
   - Revision of proceedings
-layout: single
+
 ---
 

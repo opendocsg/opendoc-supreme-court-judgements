@@ -14,7 +14,7 @@ tags:
   - Forum non conveniens
   - Claim that immovable properties situated abroad held on trust
   - Whether Singapore court appropriate forum
-layout: single
+
 ---
 # Murakami Takako (executrix of the estate of Takashi Murakami Suroso, deceased) v Wiryadi 
 

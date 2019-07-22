@@ -9,7 +9,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Penal Code
-layout: single
+
 ---
 # Public Prosecutor v Osi Maria Elenora Protacio 
 

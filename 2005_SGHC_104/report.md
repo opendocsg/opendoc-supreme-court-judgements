@@ -31,7 +31,7 @@ tags:
   - Whether actions of first defendant amounting to repudiation of contract
   - Whether third parties wrongfully rescinded contract
   - Whether third parties liable to indemnify defendants
-layout: single
+
 ---
 # Lim Kian Kiong and Another v Tan Seng Teck and Another (Tan Say Lai and Others, Third 
 

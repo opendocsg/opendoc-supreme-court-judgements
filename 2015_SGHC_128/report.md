@@ -6,7 +6,7 @@ tags:
   - assignment
   - Copyright
   - ownership
-layout: single
+
 ---
 # Wang Choong Li v Wong Wan Chin 
 

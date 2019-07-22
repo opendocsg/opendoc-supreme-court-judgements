@@ -14,6 +14,6 @@ tags:
   - Patents and Inventions
   - Validity
   - Whether combination of prior art amounting to inventive step
-layout: single
+
 ---
 

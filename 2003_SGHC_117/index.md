@@ -14,6 +14,6 @@ tags:
   - Termination
   - Notice period
   - Whether reasonable.
-layout: single
+
 ---
 

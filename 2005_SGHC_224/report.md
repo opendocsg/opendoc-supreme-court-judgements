@@ -14,7 +14,7 @@ tags:
   - >-
     Whether conduct precluding plaintiff from taking advantage of own wrong
     existing
-layout: single
+
 ---
 # Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd 
 

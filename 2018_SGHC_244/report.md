@@ -8,7 +8,7 @@ tags:
   - Negligence
   - Motor accident
   - Liability
-layout: single
+
 ---
 # Sim Tian Siang (administrator of the estate of Shoo Hui Meng, deceased) v Aw Yong Chyn 
 

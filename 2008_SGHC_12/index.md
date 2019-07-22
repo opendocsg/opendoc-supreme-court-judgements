@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Allegation raised in affidavit not pleaded in defence
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
     Whether owner of shopping centre entitled to deduct all reasonable
     advertising and promotional expenses from gross rental paid by tenants for
     purpose of ascertaining annual value of shopping centre
-layout: single
+
 ---
 # BCH Retail Investment Pte Ltd v Chief Assessor 
 

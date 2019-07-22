@@ -39,7 +39,7 @@ tags:
   - Confessions of co-accused
   - Whether co-accused\'s confessions may be used to incriminate accused
   - 's 30 Evidence Act (Cap 97, 1997 Ed)'
-layout: single
+
 ---
 # Chin Siong Kian v Public Prosecutor 
 

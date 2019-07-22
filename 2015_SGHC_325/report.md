@@ -8,7 +8,7 @@ tags:
   - Discovery of documents
   - Legal Profession
   - Professional privileges
-layout: single
+
 ---
 # CIFG Special Assets Capital I Ltd (formerly known as Diamond Kendall Ltd) v Polimet Pte Ltd 
 

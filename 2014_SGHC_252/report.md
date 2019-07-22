@@ -17,7 +17,7 @@ tags:
   - Revocation
   - Trade Marks and Trade Names
   - Well-known trade mark
-layout: single
+
 ---
 # Societe Des Produits Nestlé SA and another v Petra Foods Ltd and another 
 

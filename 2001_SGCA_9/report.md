@@ -8,7 +8,7 @@ tags:
   - Amendment
   - Whether application to amend notice of appeal should be allowed
   - O 55C Rules of Court
-layout: single
+
 ---
 # Leong Mei Chuan v Chan Teck Hock David 
 

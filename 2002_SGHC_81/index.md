@@ -9,6 +9,6 @@ tags:
   - \'Order bill of lading\'
   - \'Straight bill of lading\'
   - \'Sea waybill\'
-layout: single
+
 ---
 

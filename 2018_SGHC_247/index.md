@@ -7,6 +7,6 @@ tags:
   - Charities
   - Trustees
   - Removal
-layout: single
+
 ---
 

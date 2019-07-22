@@ -5,6 +5,6 @@ tags:
   - Landlord and tenant
   - Leases
   - Interpretation
-layout: single
+
 ---
 

@@ -10,7 +10,7 @@ tags:
   - Negligent Misrepresentation
   - Agency
   - Agent’s warranty of authority
-layout: single
+
 ---
 # Chu Said Thong and another v Vision Law LLC 
 

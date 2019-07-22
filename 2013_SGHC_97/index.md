@@ -13,6 +13,6 @@ tags:
   - Contract
   - Illegality
   - Bribery
-layout: single
+
 ---
 

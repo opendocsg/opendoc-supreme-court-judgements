@@ -8,7 +8,7 @@ tags:
   - Constitutional law
   - natural justice
   - bias
-layout: single
+
 ---
 # AQV v AQW 
 

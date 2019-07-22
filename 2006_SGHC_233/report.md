@@ -10,7 +10,7 @@ tags:
   - Patents and Inventions
   - Infringement
   - Whether plaintiff\'s patent infringed by defendant\'s product
-layout: single
+
 ---
 # Main-Line Corporate Holdings Ltd v United Overseas Bank Ltd and Another (First Currency 
 

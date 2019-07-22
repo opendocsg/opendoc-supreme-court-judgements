@@ -8,6 +8,6 @@ tags:
   - Injunctions
   - Courts and Jurisdiction
   - Jurisdiction
-layout: single
+
 ---
 

@@ -17,6 +17,6 @@ tags:
     Whether director liable to account for unauthorised profits made as a result
     of failure to disclose personal interest in transactions of company
   - Whether director liable to compensate company in damages
-layout: single
+
 ---
 

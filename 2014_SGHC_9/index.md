@@ -6,6 +6,6 @@ subtitle: "[2014] SGHC 9 / 13\_January\_2014"
 tags:
   - COMPANIES
   - Winding up
-layout: single
+
 ---
 

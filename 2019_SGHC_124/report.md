@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Costs
   - Security
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sin Tiong Wah International Pte Ltd _v_ Pee Wee Liang  

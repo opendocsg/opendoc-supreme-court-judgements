@@ -6,7 +6,7 @@ tags:
   - Breach
   - Damages for breach
   - Variation
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # P & P Engineering & Construction Pte Ltd _v_ Kori Construction (S) Pte Ltd  

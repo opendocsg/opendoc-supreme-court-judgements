@@ -9,6 +9,6 @@ tags:
   - Security
   - International Law
   - Sovereign Immunity
-layout: single
+
 ---
 

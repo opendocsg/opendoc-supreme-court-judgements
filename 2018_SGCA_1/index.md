@@ -5,6 +5,6 @@ tags:
   - Intellectual Property
   - Patents
   - Infringement
-layout: single
+
 ---
 

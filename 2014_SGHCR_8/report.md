@@ -11,7 +11,7 @@ tags:
   - Contractual Terms
   - Rules of Construction
   - Parole Evidence Rule
-layout: single
+
 ---
 # CIFG Special Assets Capital I Ltd (formerly known as Diamond Kendall Limited) v Polimet Pte 
 

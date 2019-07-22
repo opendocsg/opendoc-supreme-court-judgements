@@ -41,7 +41,7 @@ tags:
   - Confessions retracted
   - Whether trial judge right in according weight to second statement
   - Whether retracted confessions can be relied upon
-layout: single
+
 ---
 # Yusof bin A Samad v Public Prosecutor 
 

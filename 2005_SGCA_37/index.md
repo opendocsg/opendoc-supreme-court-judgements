@@ -22,6 +22,6 @@ tags:
     Circumstances where no custody order should be made instead of making joint
     custody order
   - Whether joint custody order should be varied
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Statutes and regulations
   - Building and Construction Industry Security of Payment Act
   - Adjudication determinations
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # United Integrated Services Pte Ltd _v_ Civil Tech Pte Ltd and another  

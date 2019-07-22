@@ -10,7 +10,7 @@ tags:
     exchange between counsel for applicants and judge
   - Whether judge should recuse himself
   - Factors to consider
-layout: single
+
 ---
 # Chee Siok Chin and Another v Attorney-General 
 

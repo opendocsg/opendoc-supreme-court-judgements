@@ -19,6 +19,6 @@ tags:
   - >-
     Strong compelling grounds needed before court exercises discretion to vacate
     trial dates
-layout: single
+
 ---
 

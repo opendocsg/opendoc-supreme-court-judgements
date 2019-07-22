@@ -10,6 +10,6 @@ tags:
   - assessment
   - Equity
   - satisfaction
-layout: single
+
 ---
 

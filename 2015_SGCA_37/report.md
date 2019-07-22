@@ -6,7 +6,7 @@ tags:
   - Carriage of Goods by Sea
   - Contract
   - Remedies
-layout: single
+
 ---
 # Freight Connect (S) Pte Ltd v Paragon Shipping Pte Ltd 
 

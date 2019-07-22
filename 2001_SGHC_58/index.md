@@ -26,6 +26,6 @@ tags:
   - Medical negligence
   - Causation
   - Whether doctor\'s negligence caused damage suffered by plaintiff
-layout: single
+
 ---
 

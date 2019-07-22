@@ -11,7 +11,7 @@ tags:
   - Employment law
   - Employees’ duties
   - Duty of good faith and fidelity
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # HT SRL _v_ Wee Shuo Woon  

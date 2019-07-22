@@ -74,6 +74,6 @@ tags:
   - Strata Titles Board hearing application for collective sale order
   - Related proceedings before High Court
   - Whether Strata Titles Board should continue its hearing or decision
-layout: single
+
 ---
 

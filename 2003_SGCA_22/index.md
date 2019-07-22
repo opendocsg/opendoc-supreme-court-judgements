@@ -17,6 +17,6 @@ tags:
   - >-
     whether the burden of proving a defence of intoxication lied with the
     accused person
-layout: single
+
 ---
 

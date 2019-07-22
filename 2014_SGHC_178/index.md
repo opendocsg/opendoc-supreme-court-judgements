@@ -6,6 +6,6 @@ tags:
   - Sale of Goods
   - Contract
   - Contractual Terms
-layout: single
+
 ---
 

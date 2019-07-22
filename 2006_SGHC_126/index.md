@@ -10,6 +10,6 @@ tags:
   - Quantum
   - Personal injuries case
   - Claim for pain and suffering and loss of earnings
-layout: single
+
 ---
 

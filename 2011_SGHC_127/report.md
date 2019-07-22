@@ -5,7 +5,7 @@ tags:
   - Family law
   - Matrimonial assets
   - Custody
-layout: single
+
 ---
 # 1. 
 

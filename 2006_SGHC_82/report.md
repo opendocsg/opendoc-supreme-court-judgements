@@ -8,7 +8,7 @@ tags:
   - Whether amendment causing prejudice to opposing party
   - Applicable principles
   - 'Order 20, r 5, Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 # Wishing Star Ltd v Jurong Town Corp 
 

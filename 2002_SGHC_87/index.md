@@ -12,6 +12,6 @@ tags:
   - Whether to allow application
   - 's 38 Subordinate Courts Act (Cap 321, 1999 Ed)'
   - 'Sch 1 para 10 Supreme Court of Judicature Act (Cap 322, 1999 Ed)'
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Matrimonial assets
   - Custody
   - Maintenance
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Copyright
   - Tort
-layout: single
+
 ---
 

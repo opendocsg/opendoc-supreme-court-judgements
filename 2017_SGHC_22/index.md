@@ -10,6 +10,6 @@ tags:
   - Contract
   - Illegality and public policy
   - Penalties
-layout: single
+
 ---
 

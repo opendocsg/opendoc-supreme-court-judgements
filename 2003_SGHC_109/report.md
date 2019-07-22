@@ -14,7 +14,7 @@ tags:
   - Quantum
   - Period
   - Approach to be taken in determining multiplier.
-layout: single
+
 ---
 # Ng Ngah Len @ Datin Sandra Kuah v Kuah Tian Nam @ Dato Peter Kuah 
 

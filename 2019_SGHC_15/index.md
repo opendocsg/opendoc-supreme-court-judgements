@@ -6,6 +6,6 @@ tags:
   - Stay of court proceedings
   - Inherent jurisdiction
   - General discretion to lift stay of court proceedings
-layout: single
+
 ---
 

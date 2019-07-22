@@ -10,6 +10,6 @@ tags:
   - Construction of statute
   - Rectifying construction
   - Strict construction rule
-layout: single
+
 ---
 

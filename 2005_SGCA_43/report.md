@@ -26,7 +26,7 @@ tags:
   - >-
     Whether adverse possessor\'s interest extinguished by subsequent redemption
     of mortgage by mortagagor
-layout: single
+
 ---
 # Fones Christina v Cheong Eng Khoon Roland 
 

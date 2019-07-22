@@ -20,6 +20,6 @@ tags:
   - Weight of evidence
   - Accused\'s bare denials
   - Whether such denials have value
-layout: single
+
 ---
 

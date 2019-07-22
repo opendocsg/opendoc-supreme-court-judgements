@@ -14,7 +14,7 @@ tags:
   - Mortgagee\'s sale
   - Whether mortgagee negligent in conduct of sale of mortgaged property
   - Whether mortgagee under duty to obtain valuation on \"redevelopment basis\"
-layout: single
+
 ---
 # Sri Jaya (Sendirian) Berhad v RHB Bank Berhad 
 

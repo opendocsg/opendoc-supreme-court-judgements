@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - Income Taxation
   - Deduction
-layout: single
+
 ---
 # BFC v Comptroller of Income Tax 
 

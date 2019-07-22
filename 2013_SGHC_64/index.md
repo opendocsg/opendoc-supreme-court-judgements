@@ -6,6 +6,6 @@ tags:
   - Joint Venture Agreement
   - Contract
   - “All reasonable endeavours” clause
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Breach
   - Agency
   - Construction of Agent’s Authority
-layout: single
+
 ---
 # Timor Global, LDA v Equatorial Group Pte Ltd and others 
 

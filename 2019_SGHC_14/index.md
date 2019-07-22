@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Mandatory Treatment Order
   - Calling of Mandatory Treatment Order suitability report
-layout: single
+
 ---
 

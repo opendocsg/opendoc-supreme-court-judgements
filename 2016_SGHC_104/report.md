@@ -7,7 +7,7 @@ tags:
   - Acceptance
   - Contract
   - Misrepresentation
-layout: single
+
 ---
 # Sintalow Hardware Pte Ltd v OSK Engineering Pte Ltd 
 

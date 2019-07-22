@@ -23,7 +23,7 @@ tags:
   - Bankrupt failing to satisfy condition by time of hearing
   - Whether bankrupt competent to pursue matter
   - 'Section 131(1)(a) Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 # Tan King Hiang v United Engineers (Singapore) Pte Ltd 
 

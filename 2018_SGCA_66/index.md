@@ -7,6 +7,6 @@ tags:
   - Adjudication
   - Setting aside of adjudication determination
   - Breach of natural justice
-layout: single
+
 ---
 

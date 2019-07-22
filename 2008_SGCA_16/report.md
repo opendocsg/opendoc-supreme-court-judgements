@@ -10,7 +10,7 @@ tags:
   - Whether there was breach of moratorium
   - Words and Phrases
   - '\"Sell\", \"assign\" and \"dispose of\"'
-layout: single
+
 ---
 # Pacrim Investments Pte Ltd v Tan Mui Keow Claire and Another 
 

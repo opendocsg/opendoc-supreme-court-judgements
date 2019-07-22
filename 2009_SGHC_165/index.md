@@ -70,6 +70,6 @@ tags:
   - Documents confirming indebtedness addressed to plaintiffs\' auditors
   - Whether acknowledgments made to plaintiffs or their agent
   - 'Section 27(2) Limitation Act (Cap 163, 1996 Rev Ed)'
-layout: single
+
 ---
 

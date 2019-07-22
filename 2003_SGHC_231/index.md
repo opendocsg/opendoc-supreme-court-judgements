@@ -6,6 +6,6 @@ tags:
   - Discontinuance
   - Without leave
   - Application to reinstate discontinued action
-layout: single
+
 ---
 

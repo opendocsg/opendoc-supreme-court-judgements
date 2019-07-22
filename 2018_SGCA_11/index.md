@@ -9,6 +9,6 @@ tags:
   - Insolvency law
   - Winding up
   - Grounds for petition
-layout: single
+
 ---
 

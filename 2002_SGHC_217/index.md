@@ -14,6 +14,6 @@ tags:
   - Criminal breac h of trust by lawyer
   - Whether suc h offenc e c alls for c ustodial sentenc e of deterrent nature
   - Aggravating c irc umstanc es
-layout: single
+
 ---
 

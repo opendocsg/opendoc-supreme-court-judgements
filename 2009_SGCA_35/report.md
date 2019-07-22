@@ -27,7 +27,7 @@ tags:
   - Duty of liquidator in voluntary winding up
   - Duty of liquidator to be fair and independent
   - Whether liquidator entitled to reject audited accounts as evidence of debt
-layout: single
+
 ---
 # Fustar Chemicals Ltd (Hong Kong) v Liquidator of Fustar Chemicals Pte Ltd 
 

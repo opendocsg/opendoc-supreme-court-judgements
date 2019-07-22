@@ -7,7 +7,7 @@ tags:
   - Further and Better Particulars
   - Patents and Inventions
   - Infringement
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sun Electric Pte Ltd _v_ Sunseap Group Pte Ltd and others  

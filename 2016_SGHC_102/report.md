@@ -10,7 +10,7 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Abetting the trafficking of controlled drugs through instigation
-layout: single
+
 ---
 # Public Prosecutor v Mohamad Yazid Bin Md Yusof and others 
 

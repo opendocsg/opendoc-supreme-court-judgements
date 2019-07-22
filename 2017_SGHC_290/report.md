@@ -11,7 +11,7 @@ tags:
   - Evidence
   - Proof of evidence
   - Confessions
-layout: single
+
 ---
 # Public Prosecutor v Ramesh a/l Perumal and another 
 

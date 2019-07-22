@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Public Prosecutor v Ranjit Singh Gill Menjeet Singh and another 
 

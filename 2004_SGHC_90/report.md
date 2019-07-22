@@ -16,7 +16,7 @@ tags:
   - Appeals
   - Appeal from registrar\'s decision
   - Role of appellate judge
-layout: single
+
 ---
 # Essar Steel Ltd v Bayerische Landesbank and Others 
 

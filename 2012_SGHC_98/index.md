@@ -5,6 +5,6 @@ tags:
   - Land law
   - easements
   - interference
-layout: single
+
 ---
 

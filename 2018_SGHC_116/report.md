@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Grievous hurt
-layout: single
+
 ---
 # Muhammad Khalis bin Ramlee v Public Prosecutor 
 

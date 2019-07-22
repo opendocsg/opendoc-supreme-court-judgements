@@ -5,7 +5,7 @@ tags:
   - Tort
   - Negligence
   - Contributory negligence
-layout: single
+
 ---
 # Li Jianlin v Asnah bte AB Rahman 
 

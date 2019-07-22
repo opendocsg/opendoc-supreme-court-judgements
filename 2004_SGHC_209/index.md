@@ -6,6 +6,6 @@ tags:
   - Judgments and orders
   - Parties unable to agree on terms of judgment to be drawn and extracted
   - Whether amendment to statement of claim to be reflected in judgment
-layout: single
+
 ---
 

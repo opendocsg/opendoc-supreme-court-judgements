@@ -6,7 +6,7 @@ tags:
   - Appeal
   - Abatement
   - Effect of death of appellant
-layout: single
+
 ---
  (a) 
 

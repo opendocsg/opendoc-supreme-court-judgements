@@ -9,6 +9,6 @@ tags:
   - Offer to settle
   - Damages
   - Interest
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Landlord and tenant
   - Distress for Rent
   - Illegal distress
-layout: single
+
 ---
 # Cupid Jewels Pte Ltd v Orchard Central Pte Ltd 
 

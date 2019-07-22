@@ -8,7 +8,7 @@ tags:
   - Costs
   - Extension of time
   - Mental Disorders and Treatment
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Mah Kiat Seng _v_ Attorney-General and others  

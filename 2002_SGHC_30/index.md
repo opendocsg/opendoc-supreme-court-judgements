@@ -36,6 +36,6 @@ tags:
   - Co-director obtain which court order declares new mandate null and void
   - Whether court order affects third parties
   - Effect on bank
-layout: single
+
 ---
 

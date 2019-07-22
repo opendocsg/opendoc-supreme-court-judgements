@@ -11,6 +11,6 @@ tags:
   - Lifting corporate veil
   - Trusts
   - Constructive trusts
-layout: single
+
 ---
 

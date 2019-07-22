@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Rajendran a/l Palany v Dril-Quip Asia Pacific Pte Ltd 
 

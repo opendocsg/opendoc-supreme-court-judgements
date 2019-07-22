@@ -19,6 +19,6 @@ tags:
   - >-
     Burden on appellant to show strong reasons why permanent members of Court of
     Appeal would be unable to act objectively in matter
-layout: single
+
 ---
 

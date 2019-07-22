@@ -11,7 +11,7 @@ tags:
     Whether workman\'s civil action null for failure to withdraw claim under Act
     before filing action in court
   - 'Sections 33(1), 33(2)(a) Workmen\''s Compensation Act (Cap 354, 1998 Rev Ed)'
-layout: single
+
 ---
 # Saldur Rahman v Mayban General Assurance Bhd and Another 
 

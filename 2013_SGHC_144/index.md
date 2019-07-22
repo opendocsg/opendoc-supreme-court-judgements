@@ -7,6 +7,6 @@ tags:
   - Agency
   - Duties of Agent
   - Duty to account
-layout: single
+
 ---
 

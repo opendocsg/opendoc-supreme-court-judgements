@@ -31,7 +31,7 @@ tags:
     invalid agreement
   - Payment received in Singapore
   - Whether Singapore or England the natural forum
-layout: single
+
 ---
 # Dresdner Kleinwort Ltd v CIMB Bank Bhd 
 

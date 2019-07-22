@@ -14,6 +14,6 @@ tags:
     Whether sentence of six months\' imprisonment manifestly excessive where
     appellant having no personal gain from embezzlement offence
   - 'Section 406 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 

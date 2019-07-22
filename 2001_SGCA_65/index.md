@@ -30,6 +30,6 @@ tags:
   - Nature of order
   - Final or interlocutory
   - Bozson test
-layout: single
+
 ---
 

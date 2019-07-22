@@ -14,7 +14,7 @@ tags:
   - Courts and Jurisdiction
   - Court of appeal
   - Court clarifying own order after order pronounced
-layout: single
+
 ---
 # Godfrey Gerald QC v UBS AG and Others 
 

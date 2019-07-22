@@ -23,7 +23,7 @@ tags:
   - Proof of evidence
   - Confessions
   - Whether statement to police was voluntarily made
-layout: single
+
 ---
 # Public Prosecutor v Zailani bin Ahmad 
 

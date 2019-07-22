@@ -11,6 +11,6 @@ tags:
     Whether pupil\'s right of audience granted pursuant to a part-call
     application continues after pupillage ends
   - 's 32 Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 

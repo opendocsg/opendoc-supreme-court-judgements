@@ -17,6 +17,6 @@ tags:
     Whether Mareva order should be varied to allow first defendant to pay debts
     owing to second defendant out of insurance proceeds
   - Whether debts bona fide incurred in ordinary course of business
-layout: single
+
 ---
 

@@ -13,6 +13,6 @@ tags:
   - Breac h
   - Tort
   - Induc ement of breac h of c ontrac t
-layout: single
+
 ---
 

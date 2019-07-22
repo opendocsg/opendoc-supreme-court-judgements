@@ -16,7 +16,7 @@ tags:
   - Tort
   - Passing off
   - Whether parallel imports amount to passing off
-layout: single
+
 ---
 # Yunnan Baiyao Group Co Ltd v Tong Jum Chew Pte Ltd & Another 
 

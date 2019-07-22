@@ -7,7 +7,7 @@ tags:
   - Equitable Compensation
   - Damages
   - Recovery of Legal Costs
-layout: single
+
 ---
 # Maryani Sadeli v Arjun Permanand Samtani and another and other appeals 
 

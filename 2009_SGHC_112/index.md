@@ -6,6 +6,6 @@ tags:
   - Costs
   - Security
   - Seller repudiating or breaching agreements to sell to buyer
-layout: single
+
 ---
 

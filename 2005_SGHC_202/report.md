@@ -7,7 +7,7 @@ tags:
   - Grounds for petition
   - Whether petition for winding up company should be stayed
   - Whether bona fide dispute on debt forming subject matter of petition
-layout: single
+
 ---
 # De Montfort University v Stanford Training Systems Pte Ltd 
 

@@ -14,7 +14,7 @@ tags:
   - Transactions at an undervalue
   - Whether insolvent party must have intended to deal with counter party
   - Whether transaction at an undervalue
-layout: single
+
 ---
 # Velstra Pte Ltd v Dexia Bank NV 
 

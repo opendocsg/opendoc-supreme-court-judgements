@@ -16,7 +16,7 @@ tags:
   - Whether prison sentence manifestly excessive
   - Whether caning sentence manifestly excessive
   - s 354 Penal Code (Cap 224)
-layout: single
+
 ---
 # Wong Soon Lee v Public Prosecutor 
 

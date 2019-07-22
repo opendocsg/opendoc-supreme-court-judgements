@@ -10,7 +10,7 @@ tags:
   - Land
   - Sale of land
   - Remedies under uncompleted contract
-layout: single
+
 ---
 # PACC Offshore Services Holdings Ltd v Kensteel Engineering Pte Ltd 
 

@@ -7,6 +7,6 @@ tags:
   - Construction of clause in option
   - Removal of existing caveat over property
   - Whether clause creates absolute obligation or conditional agreement
-layout: single
+
 ---
 

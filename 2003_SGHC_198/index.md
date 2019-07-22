@@ -13,6 +13,6 @@ tags:
   - >-
     Whether defendants precluded from relying on contractual defence of
     negligence
-layout: single
+
 ---
 

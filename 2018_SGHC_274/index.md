@@ -7,6 +7,6 @@ tags:
   - Interpretation
   - Illegality and public policy
   - common law
-layout: single
+
 ---
 

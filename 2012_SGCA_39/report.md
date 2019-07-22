@@ -5,7 +5,7 @@ tags:
   - Employment Law
   - restraint of trade
   - duty of good faith and fidelity
-layout: single
+
 ---
 # Smile Inc Dental Surgeons Pte Ltd v Lui Andrew Stewart 
 

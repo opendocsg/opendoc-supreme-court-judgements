@@ -5,7 +5,7 @@ tags:
   - Companies
   - Power to restore company struck off the register
   - Factors in determining restoration of company
-layout: single
+
 ---
 # Re Asia Petan Organisation Pte Ltd 
 

@@ -14,6 +14,6 @@ tags:
     Whether exerc ise of judic ial disc retion in applic ant\'s favour
     justifiable
   - 'Sec tion 21 Legal Profession Ac t (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 

@@ -31,7 +31,7 @@ tags:
   - >-
     Quantification of losses where defendant involved in fraudulent
     misrepresentation
-layout: single
+
 ---
 # Vita Health Laboratories Pte Ltd and Others v Pang Seng Meng 
 

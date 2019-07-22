@@ -10,6 +10,6 @@ tags:
   - >-
     Whether American Cyanamid Co v Ethicon Ltd requirements for mandatory
     injunction satisfied
-layout: single
+
 ---
 

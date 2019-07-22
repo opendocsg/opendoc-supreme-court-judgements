@@ -9,7 +9,7 @@ tags:
     paid into court
   - Fraudulent or improper conduct
   - Appropriate punishment
-layout: single
+
 ---
 # Law Society of Singapore v Nor'ain bte Abu Bakar and Others 
 

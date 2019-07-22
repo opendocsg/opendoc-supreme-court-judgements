@@ -32,6 +32,6 @@ tags:
   - Negligence
   - Claim involving personal injuries
   - Proof required of plaintiff
-layout: single
+
 ---
 

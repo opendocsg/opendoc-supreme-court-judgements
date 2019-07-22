@@ -66,7 +66,7 @@ tags:
   - >-
     Meaning of s 98(1) Building Maintenance and Strata Management Act (Cap 30C,
     2008 Rev Ed)
-layout: single
+
 ---
 # Ng Eng Ghee and Others v Mamata Kapildev Dave And Others (Horizon Partners Pte Ltd, 
 

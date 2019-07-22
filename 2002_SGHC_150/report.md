@@ -10,7 +10,7 @@ tags:
     newspaper article
   - \'Newspaper rule\'
   - Nature of rule
-layout: single
+
 ---
 # KLW Holdings Ltd v Singapore Press Holdings Ltd 
 

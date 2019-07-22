@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Costs
   - Principles
-layout: single
+
 ---
 # Deepak Sharma v Law Society of Singapore 
 

@@ -5,7 +5,7 @@ tags:
   - Administrative Law
   - Judicial review
   - Application for leave
-layout: single
+
 ---
 # Re Nalpon, Zero Geraldo Mario 
 

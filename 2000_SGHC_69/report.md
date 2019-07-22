@@ -27,7 +27,7 @@ tags:
   - Land
   - Strata titles
   - 'Operation of s 116(1), Land Titles (Strata) Act (Cap 158)'
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 1938 v Goodview Properties Pte Ltd another 
 

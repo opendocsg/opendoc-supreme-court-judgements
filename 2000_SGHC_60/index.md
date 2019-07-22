@@ -60,6 +60,6 @@ tags:
   - Corroboration
   - Lies
   - Appellant\'s lies as corroboration
-layout: single
+
 ---
 

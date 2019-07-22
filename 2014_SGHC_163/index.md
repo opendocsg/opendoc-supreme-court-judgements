@@ -8,6 +8,6 @@ tags:
   - Inherent powers
   - Land
   - Sale of land
-layout: single
+
 ---
 

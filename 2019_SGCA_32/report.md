@@ -4,7 +4,7 @@ subtitle: "[2019] SGCA 32 / Decision Date: 3\_May\_2019"
 tags:
   - Criminal Procedure and Sentencing
   - Criminal Motion
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Salwant Singh s/o Amer Singh _v_ Public Prosecutor  

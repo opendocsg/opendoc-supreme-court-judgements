@@ -12,6 +12,6 @@ tags:
   - judicial review
   - Constitutional interpretation
   - constitutional provisions
-layout: single
+
 ---
 

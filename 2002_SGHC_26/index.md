@@ -24,6 +24,6 @@ tags:
   - Words and Phrases
   - \'Other records\'
   - 's 37(4)(b) Land Titles (Strata) Act (Cap 158, 1999 Ed)'
-layout: single
+
 ---
 

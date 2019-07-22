@@ -12,7 +12,7 @@ tags:
   - >-
     Whether clear admission of fact exists to entitle defendant to enter
     judgment
-layout: single
+
 ---
 # Ow Chor Seng v Coutts Bank (Schweiz) AG 
 

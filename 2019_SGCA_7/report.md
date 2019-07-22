@@ -7,7 +7,7 @@ tags:
   - Pre-contract deposits
   - Contract
   - Formation
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Simpson Marine (SEA) Pte Ltd _v_ Jiacipto Jiaravanon  

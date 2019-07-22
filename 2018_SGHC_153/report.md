@@ -8,7 +8,7 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Court’s discretion under the Arbitration Act
-layout: single
+
 ---
 # Ling Kong Henry v Tanglin Club 
 

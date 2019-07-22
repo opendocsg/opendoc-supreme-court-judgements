@@ -15,6 +15,6 @@ tags:
   - >-
     Circumstances under which creditors may apply to court for removal of
     liquidator
-layout: single
+
 ---
 

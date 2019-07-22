@@ -10,6 +10,6 @@ tags:
   - Negligence
   - Duty of care
   - Plaintiff suffering injury while disembarking from ship
-layout: single
+
 ---
 

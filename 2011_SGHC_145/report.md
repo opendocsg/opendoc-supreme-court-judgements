@@ -8,7 +8,7 @@ tags:
   - Employment Law
   - Contract of Service
   - Wrongful Dismissal
-layout: single
+
 ---
  (a) 
 

@@ -11,7 +11,7 @@ tags:
   - Conversion
   - Trade Marks and Trade Names
   - Infringement
-layout: single
+
 ---
 # Total English Learning Global Pte Ltd and anor v Kids Counsel Pte Ltd 
 

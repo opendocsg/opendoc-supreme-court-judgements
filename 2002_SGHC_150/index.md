@@ -10,6 +10,6 @@ tags:
     newspaper article
   - \'Newspaper rule\'
   - Nature of rule
-layout: single
+
 ---
 

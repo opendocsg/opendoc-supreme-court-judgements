@@ -6,6 +6,6 @@ tags:
   - appeals
   - Family Law
   - consent orders
-layout: single
+
 ---
 

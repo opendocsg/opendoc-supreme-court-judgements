@@ -9,6 +9,6 @@ tags:
   - Reversionary damage
   - Restitution
   - Unjust enrichment
-layout: single
+
 ---
 

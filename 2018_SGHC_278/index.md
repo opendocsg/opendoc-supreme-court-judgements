@@ -6,6 +6,6 @@ tags:
   - Fraudulent Misrepresentation
   - Contractual Construction
   - Total Failure of Consideration
-layout: single
+
 ---
 

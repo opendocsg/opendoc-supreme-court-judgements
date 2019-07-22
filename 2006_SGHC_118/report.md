@@ -12,7 +12,7 @@ tags:
   - >-
     Section 6 Arbitration Act (Cap 10, 2002 Rev Ed), O 29 r 10 Rules of Court
     (Cap 322, R 5, 2006 Rev Ed)
-layout: single
+
 ---
 # Lian Teck Construction Pte Ltd v Woh Hup (Pte) Ltd and Others 
 

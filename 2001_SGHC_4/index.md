@@ -5,6 +5,6 @@ tags:
   - Legal Profession
   - Show cause action
   - Grossly improper conduct in discharge of professional duties
-layout: single
+
 ---
 

@@ -12,7 +12,7 @@ tags:
   - Certificates and approvals
   - Validity of certificate of payment
   - Architect\'s power to issue and withdraw certificate of payment
-layout: single
+
 ---
 # Steel Industries Pte Ltd v Deenn Engineering Pte Ltd 
 

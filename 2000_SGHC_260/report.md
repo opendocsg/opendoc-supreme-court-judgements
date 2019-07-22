@@ -14,7 +14,7 @@ tags:
   - Time limit for making application
   - Whether application made out of time
   - art s 16 & 34 UNCITRAL Model Law on International Commercial Arbitration
-layout: single
+
 ---
 # Tan Poh Leng Stanley v Tang Boon Jek Jeffrey 
 

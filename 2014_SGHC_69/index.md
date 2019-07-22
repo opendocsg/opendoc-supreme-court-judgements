@@ -13,6 +13,6 @@ tags:
   - >-
     Relationship between the Civil Law Act and s 12A of the International
     Arbitration Act
-layout: single
+
 ---
 

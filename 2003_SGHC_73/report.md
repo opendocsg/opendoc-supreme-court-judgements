@@ -18,7 +18,7 @@ tags:
   - Defamation
   - Publication to restricted group only
   - Whether defence made out.
-layout: single
+
 ---
 # T J Systems (S) Pte Ltd and Others v Ngow Kheong Shen 
 

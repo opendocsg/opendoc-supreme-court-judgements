@@ -13,6 +13,6 @@ tags:
   - Remedies
   - Rescission
   - Bars to rescission
-layout: single
+
 ---
 

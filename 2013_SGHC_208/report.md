@@ -8,7 +8,7 @@ tags:
   - Contract
   - Contractual Terms
   - Express Terms
-layout: single
+
 ---
 # Chai Kwok Seng Anthony v CCM Group Limited 
 

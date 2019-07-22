@@ -15,6 +15,6 @@ tags:
   - Civil Procedure
   - Service
   - Plaintiff granted leave to serve originating summons out of jurisdiction
-layout: single
+
 ---
 

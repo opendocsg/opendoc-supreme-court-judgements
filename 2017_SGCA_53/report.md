@@ -19,7 +19,7 @@ tags:
   - Damages
   - Appeals
   - Causation
-layout: single
+
 ---
 # CAA Technologies Pte Ltd v Newcon Builders Pte Ltd 
 

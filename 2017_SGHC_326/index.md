@@ -18,6 +18,6 @@ tags:
   - Trusts
   - Accessory liability
   - Requisite Mental State
-layout: single
+
 ---
 

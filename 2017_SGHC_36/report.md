@@ -13,7 +13,7 @@ tags:
   - Award
   - Challenge against arbitrator
   - Bias
-layout: single
+
 ---
 # Prometheus Marine Pte Ltd v King, Ann Rita and other matters 
 

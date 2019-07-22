@@ -7,7 +7,7 @@ tags:
   - Agreement not in writing
   - Dispute between parties concerning exact terms of agreement
   - Whether it was agreed that one party had an obligation to transfer shares.
-layout: single
+
 ---
 # Full Fledge Holdings Ltd v Wisanggeni Lauw 
 

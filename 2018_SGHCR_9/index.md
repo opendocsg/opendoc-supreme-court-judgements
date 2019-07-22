@@ -6,6 +6,6 @@ tags:
   - Stay in favour of arbitration
   - Arbitration
   - Case management stay
-layout: single
+
 ---
 

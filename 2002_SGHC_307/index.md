@@ -34,6 +34,6 @@ tags:
   - Witnesses
   - Weight given to evidence
   - Treatment of evidence from accomplice with caution
-layout: single
+
 ---
 

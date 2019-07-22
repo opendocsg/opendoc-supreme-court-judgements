@@ -7,7 +7,7 @@ tags:
   - Family Law
   - Maintenance
   - wife
-layout: single
+
 ---
 # Foo Ah Yan v Chiam Heng Chow 
 

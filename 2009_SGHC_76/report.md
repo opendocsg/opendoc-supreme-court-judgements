@@ -7,7 +7,7 @@ tags:
   - Application to set aside default judgment
   - Whether defendant was properly served with writ
   - Test for setting aside regular default judgment
-layout: single
+
 ---
 # Oversea-Chinese Banking Corp Ltd v Frankel Motor Pte Ltd and Others 
 

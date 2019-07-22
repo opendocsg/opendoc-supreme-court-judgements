@@ -6,7 +6,7 @@ tags:
   - Compromise agreement
   - Requirements for valid compromise
   - Consideration
-layout: single
+
 ---
 # Gay Choon Ing v Loh Sze Ti Terence Peter and Another Appeal 
 

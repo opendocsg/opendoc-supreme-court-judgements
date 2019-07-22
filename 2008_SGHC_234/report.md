@@ -24,7 +24,7 @@ tags:
     proceedings entitled to apply for foreign company to be wound up in
     Singapore
   - 'Section 377(3)(c) Companies Act (Cap 50, 2006 Rev Ed)'
-layout: single
+
 ---
 # Re Projector SA 
 

@@ -7,7 +7,7 @@ tags:
   - Damages
   - Measure of damages
   - Personal injuries cases
-layout: single
+
 ---
 # Siew Pick Chiang v Hyundai Engineering and Construction Co Ltd and another 
 

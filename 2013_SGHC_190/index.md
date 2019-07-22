@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Sentencing
   - Forgery
-layout: single
+
 ---
 

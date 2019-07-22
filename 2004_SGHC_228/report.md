@@ -14,7 +14,7 @@ tags:
     Whether eac h party to bear own c osts or whether c osts to be paid out of
     testator\'s estate
   - Appropriate c osts order under c irc umstanc es
-layout: single
+
 ---
 # Mohamed Ismail bin Ibrahim and Another v Mohammad Taha bin Ibrahim (No 2) 
 

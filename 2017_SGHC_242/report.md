@@ -7,7 +7,7 @@ tags:
   - Interpretation
   - Contract
   - Postal rule
-layout: single
+
 ---
 # 1L30G Pte Ltd v EQ Insurance Company Ltd 
 

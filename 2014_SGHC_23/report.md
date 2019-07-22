@@ -6,7 +6,7 @@ tags:
   - Offences
   - Murder
   - Re-sentencing
-layout: single
+
 ---
 # Public Prosecutor v Wang Wenfeng 
 

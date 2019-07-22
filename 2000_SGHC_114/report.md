@@ -12,7 +12,7 @@ tags:
   - >-
     Whether unconscionable for beneficiary to receive payment under performance
     bond
-layout: single
+
 ---
 # Eltraco International Pte Ltd v CGH Development Pte Ltd 
 

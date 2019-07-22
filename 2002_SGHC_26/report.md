@@ -24,7 +24,7 @@ tags:
   - Words and Phrases
   - \'Other records\'
   - 's 37(4)(b) Land Titles (Strata) Act (Cap 158, 1999 Ed)'
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 2192 v Regenthill Properties Pte Ltd 
 

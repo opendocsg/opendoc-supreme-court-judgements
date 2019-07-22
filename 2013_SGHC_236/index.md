@@ -9,6 +9,6 @@ tags:
   - proprietary estoppel
   - landlord and tenant
   - convenants
-layout: single
+
 ---
 

@@ -13,7 +13,7 @@ tags:
     Whether management corporation under legal or statutory duty to pay legal
     fees directly to law firm
   - 'Sections 126(9), 126A(3) Land Titles (Strata) Act (Cap 158, 1999 Rev Ed)'
-layout: single
+
 ---
 # Tan and Au Partnership v Management Corporation Strata Title Plan No 2625 
 

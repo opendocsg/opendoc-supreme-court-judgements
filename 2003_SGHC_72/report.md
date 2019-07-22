@@ -7,7 +7,7 @@ tags:
   - >-
     Whether there was an agreement between the parties that the buyer has to pay
     default interest to the seller on overdue invoices.
-layout: single
+
 ---
 # Daewoo Singapore Pte Ltd v CEL Tractors Pte Ltd 
 

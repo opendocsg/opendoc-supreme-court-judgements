@@ -8,7 +8,7 @@ tags:
   - Show cause action
   - Grossly improper conduct
   - Appropriate sanction
-layout: single
+
 ---
 # Law Society of Singapore v Chia Choon Yang 
 

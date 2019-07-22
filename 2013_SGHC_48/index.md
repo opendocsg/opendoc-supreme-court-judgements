@@ -8,6 +8,6 @@ tags:
   - Express trusts
   - Equity
   - Estoppel
-layout: single
+
 ---
 

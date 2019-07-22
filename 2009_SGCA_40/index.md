@@ -14,6 +14,6 @@ tags:
   - >-
     Whether claimant had acted with reasonable diligence within s 29 Limitation
     Act (Cap 163, 1996 Rev Ed)
-layout: single
+
 ---
 

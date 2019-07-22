@@ -9,6 +9,6 @@ tags:
   - Whether fine was manifestly excessive
   - Factors to consider in sentencing
   - 'Sections 253 and 255 Securities and Futures Act (Cap 289, 2002 Rev Ed)'
-layout: single
+
 ---
 

@@ -15,6 +15,6 @@ tags:
   - Whether warranty part of policy of marine insurance
   - Whether warranty breached
   - Whether insurers entitled to reimbursement of salvage expenses from assured
-layout: single
+
 ---
 

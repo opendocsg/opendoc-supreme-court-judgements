@@ -9,6 +9,6 @@ tags:
   - Injunctions
   - Purposes for Grant
   - Restraint of Proceedings
-layout: single
+
 ---
 

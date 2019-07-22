@@ -8,6 +8,6 @@ tags:
     Advocate and solicitor feigning payment of money to client and absconding
     with client\'s money
   - Whether amounting to grossly improper conduct
-layout: single
+
 ---
 

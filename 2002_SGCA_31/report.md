@@ -31,7 +31,7 @@ tags:
   - >-
     ss 18, 34(1)(c), 37(2) & Sch 1 para 7 Supreme Court of Judicature Act (Cap
     322, 1999 Ed)
-layout: single
+
 ---
 # Denko-HLB Sdn Bhd v Fagerdala Singapore Pte Ltd 
 

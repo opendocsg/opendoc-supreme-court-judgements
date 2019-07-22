@@ -6,6 +6,6 @@ tags:
   - Compulsory acquisitions
   - Compensation payable
   - Basis of valuing acquired property
-layout: single
+
 ---
 

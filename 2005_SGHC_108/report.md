@@ -19,7 +19,7 @@ tags:
   - >-
     Section 53A Trade Marks Act (Cap 332, 1999 Rev Ed), s 62 Criminal Procedure
     Code (Cap 68, 1985 Rev Ed)
-layout: single
+
 ---
 # Cigar Affair v Pacific Cigar Company 
 

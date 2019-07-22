@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Statutory demand
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Asia Silk Stores _v_ Lata Ashok Khemlani (trading as DJ Hira Enterprise)  

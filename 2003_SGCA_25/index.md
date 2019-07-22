@@ -14,6 +14,6 @@ tags:
   - Inventive step
   - Finding of inventive step
   - Whether invention amounts to new use of old contrivance
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - judgment and orders
   - Civil Procedure
   - affidavits
-layout: single
+
 ---
 # Bounty Resources Armenia Ltd v Li Haidong 
 

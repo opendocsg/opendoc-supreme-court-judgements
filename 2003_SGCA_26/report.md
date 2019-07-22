@@ -13,7 +13,7 @@ tags:
   - Culpable homicide
   - Whether life imprisonment appropriate
   - 'Penal Code (Cap 224, 1985 Rev Ed) ss 304(a), (b)'
-layout: single
+
 ---
 # Tan Chun Seng v Public Prosecutor 
 

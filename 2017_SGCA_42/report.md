@@ -5,7 +5,7 @@ tags:
   - Landlord and tenant
   - Leases
   - Interpretation
-layout: single
+
 ---
 # Ngee Ann Development Pte Ltd v Takashimaya Singapore Ltd 
 

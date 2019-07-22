@@ -5,7 +5,7 @@ tags:
   - Building and Construction Law
   - Dispute resolution
   - Alternative dispute resolution procedures
-layout: single
+
 ---
 # Sungdo Engineering & Construction (S) Pte Ltd v Italcor Pte Ltd 
 

@@ -9,7 +9,7 @@ tags:
   - >-
     Purchasers of lots not signing collective sale agreement within permitted
     time
-layout: single
+
 ---
 # Tan Siew Tian and Others v Lee Khek Ern Ken 
 

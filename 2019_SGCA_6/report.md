@@ -6,7 +6,7 @@ tags:
   - Adducing fresh evidence
   - Abuse of process
   - False evidence
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BLV _v_ Public Prosecutor  

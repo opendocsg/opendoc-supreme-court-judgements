@@ -10,6 +10,6 @@ tags:
   - Occupier’s liability
   - Tort
   - Breach of statutory duty
-layout: single
+
 ---
 

@@ -25,6 +25,6 @@ tags:
   - Misrepresentation
   - Fraud and deceit
   - Whether basis of claim goes beyond ownership
-layout: single
+
 ---
 

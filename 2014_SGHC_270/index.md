@@ -6,6 +6,6 @@ tags:
   - Judicial Review
   - Administrative Law
   - Natural Justice
-layout: single
+
 ---
 

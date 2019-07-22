@@ -25,7 +25,7 @@ tags:
   - >-
     Whether insured or insurer to decide whether circumstances such that notice
     should be given
-layout: single
+
 ---
 # Stork Technology Services Asia Pte Ltd (formerly known as Eastburn Stork Pte Ltd) v First 
 

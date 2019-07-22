@@ -19,7 +19,7 @@ tags:
   - >-
     Whether plaintiff\'s alleged failure to carry out chemical cleaning services
     in accordance with contract caused damage to defendant\'s boiler
-layout: single
+
 ---
 # Ensure Engineering Pte Ltd v Invista (Singapore) Pte Ltd (formerly known as Du Pont 
 

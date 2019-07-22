@@ -14,6 +14,6 @@ tags:
   - Criminal Law
   - Special Exceptions
   - Sudden Fight
-layout: single
+
 ---
 

@@ -17,6 +17,6 @@ tags:
   - Building and Construction Law
   - Sub-contracts
   - ‘Pay when paid’ provisions
-layout: single
+
 ---
 

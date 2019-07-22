@@ -8,7 +8,7 @@ tags:
   - Criminal references
   - CRIMINAL PROCEDURE AND SENTENCING
   - Habeas corpus
-layout: single
+
 ---
 # Hia Soo Gan Benson v Public Prosecutor and other matters 
 

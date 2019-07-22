@@ -9,6 +9,6 @@ tags:
   - Natural Forum
   - Arbitration
   - Stay of court proceedings
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Probate and Administration
   - Devolution on legal representatives
   - Complete Failure of Stirps
-layout: single
+
 ---
 

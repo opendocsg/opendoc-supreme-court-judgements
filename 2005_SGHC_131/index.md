@@ -7,6 +7,6 @@ tags:
   - Plaintiff claiming goods not conforming to description
   - Whether there was a sale by sample
   - Whether there was a sale by description
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Credit and security
   - remedies
   - writs of seizure and sale
-layout: single
+
 ---
 # Chan Shwe Ching v Leong Lai Yee 
 

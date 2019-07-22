@@ -7,7 +7,7 @@ tags:
   - Land
   - Strata titles
   - Collective sales
-layout: single
+
 ---
 # Choo Liang Haw @ Choo Liang Hoa and others v Chua Seet Mui and others and another 
 

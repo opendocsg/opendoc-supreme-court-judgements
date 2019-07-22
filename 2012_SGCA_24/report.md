@@ -18,7 +18,7 @@ tags:
   - >-
     Whether appellant able to rebut presumption of knowledge in s 18(2) of the
     Misuse of Drugs Act
-layout: single
+
 ---
 # Dinesh Pillai a/l K Raja Retnam v Public Prosecutor 
 

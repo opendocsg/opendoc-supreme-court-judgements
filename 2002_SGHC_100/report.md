@@ -6,7 +6,7 @@ tags:
   - Judgments and orders
   - \'Liberty to apply\' order
   - Nature and scope of order
-layout: single
+
 ---
 # Koh Ewe Chee v Koh Hua Leong and Another 
 

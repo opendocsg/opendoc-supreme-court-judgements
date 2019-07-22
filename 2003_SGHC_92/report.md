@@ -12,7 +12,7 @@ tags:
   - Companies
   - Winding up
   - Creditor alleging that company carried on business improperly
-layout: single
+
 ---
 # Re Bentimi Pte Ltd; In the Matter of Part X of the Companies Act, Chapter 50 (1994 Revised 
 

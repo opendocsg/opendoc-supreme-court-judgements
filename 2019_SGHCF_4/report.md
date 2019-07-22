@@ -12,7 +12,7 @@ tags:
   - Child
   - Custody
   - Care and control
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BUX _v_ BUY  

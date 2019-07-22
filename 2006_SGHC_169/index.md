@@ -25,6 +25,6 @@ tags:
   - Tort
   - Vicarious liability
   - Scope of employer\'s vicarious liability for employee\'s fraudulent acts
-layout: single
+
 ---
 

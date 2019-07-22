@@ -5,7 +5,7 @@ tags:
   - Companies
   - Directors
   - Appointment
-layout: single
+
 ---
 # The Wellness Group Pte Ltd v Paris Investment Pte Ltd and others 
 

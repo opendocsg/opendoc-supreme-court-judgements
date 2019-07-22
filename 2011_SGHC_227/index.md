@@ -9,6 +9,6 @@ tags:
   - Ascertainment difficult or impossible
   - Damages
   - Mitigation
-layout: single
+
 ---
 

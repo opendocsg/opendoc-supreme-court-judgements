@@ -9,6 +9,6 @@ tags:
   - Family law
   - Maintenance of Wife
   - Former wife
-layout: single
+
 ---
 

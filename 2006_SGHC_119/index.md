@@ -19,6 +19,6 @@ tags:
     Application of \"totality\" principle and \"one-transaction\" principle
     where accused convicted for multiple offences in one set of proceedings
   - Appropriate sentence
-layout: single
+
 ---
 

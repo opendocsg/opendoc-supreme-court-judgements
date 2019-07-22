@@ -10,7 +10,7 @@ tags:
   - Dissolution
   - Existing injunction ordered to continue
   - Whether injunction should have been dissolved
-layout: single
+
 ---
 # Castello Ana Paula Costa Fusillier v Lobo Carlos Manuel Rosado (No 2) 
 

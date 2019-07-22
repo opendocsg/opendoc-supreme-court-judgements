@@ -13,7 +13,7 @@ tags:
   - >-
     Whether defendant could be compelled to file defence notwithstanding its
     pending stay application
-layout: single
+
 ---
 # Carona Holdings Pte Ltd and Others v Go Go Delicacy Pte Ltd 
 

@@ -5,7 +5,7 @@ tags:
   - Banking
   - Performance bonds
   - Main contractor calling on performance bond in building contract
-layout: single
+
 ---
 # Eltraco International Pte Ltd v CGH Development Pte Ltd 
 

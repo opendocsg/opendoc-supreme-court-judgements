@@ -9,6 +9,6 @@ tags:
   - >-
     Whether plaintiff as joint owner of property meant that he was partner in
     the business
-layout: single
+
 ---
 

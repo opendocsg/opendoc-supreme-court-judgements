@@ -18,7 +18,7 @@ tags:
   - Revisionary powers to enhance sentence
   - Lack of mitigating factors
   - Pressure of aggravating circumstances
-layout: single
+
 ---
 # Teo Hee Heng v Public Prosecutor 
 

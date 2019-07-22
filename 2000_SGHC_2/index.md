@@ -21,6 +21,6 @@ tags:
     company
   - Whether family member owed fiduciary duties to family company
   - Whether family member breached fiduciary duties in securing contract
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Contract
   - Illegality and public policy
   - Restraint of trade
-layout: single
+
 ---
 # Powerdrive Pte Ltd v Loh Kin Yong Philip and others 
 

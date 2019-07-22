@@ -10,6 +10,6 @@ tags:
   - Mistake
   - Unilateral mistake
   - Lease of metal-forms for constructing buildings
-layout: single
+
 ---
 

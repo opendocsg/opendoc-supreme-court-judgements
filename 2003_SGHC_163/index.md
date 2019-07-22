@@ -11,6 +11,6 @@ tags:
     Term for commission for \"any contracts manufacturing related business\"
     secured through sales representativeÂ’s efforts
   - Whether term for commission covers complex commercial transactions.
-layout: single
+
 ---
 

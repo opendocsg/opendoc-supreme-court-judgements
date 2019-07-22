@@ -6,6 +6,6 @@ tags:
   - mutual legal assistance
   - Civil Procedure
   - disclosure of documents
-layout: single
+
 ---
 

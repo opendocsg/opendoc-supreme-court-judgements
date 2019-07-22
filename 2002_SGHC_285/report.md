@@ -7,7 +7,7 @@ tags:
   - Constructive trusts
   - Common understanding that shares arising out of rights issue held on trust
   - Whether common understanding proved
-layout: single
+
 ---
 # Ong Heng Chuan & Another v Ong Boon Chuan & Another 
 

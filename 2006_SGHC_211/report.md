@@ -10,7 +10,7 @@ tags:
   - Succession and Wills
   - Construction
   - Plaintiff beneficiary under will seeking to sell property
-layout: single
+
 ---
 # Goh Nellie v Goh Lian Teck and Others 
 

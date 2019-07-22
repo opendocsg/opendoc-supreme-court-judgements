@@ -23,7 +23,7 @@ tags:
   - Previous inconsistent statements
   - Human fallibility in observation and recollection of events
   - Whether discrepancies sufficient to destroy credibility of witness
-layout: single
+
 ---
 # Mohamed Abdullah s/o Abdul Razak v Public Prosecutor 
 

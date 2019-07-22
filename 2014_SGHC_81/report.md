@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Interim orders
   - Security for costs
-layout: single
+
 ---
 # Mycitydeal Ltd (trading as Groupon UK) and others v Villas International Property Pte Ltd and 
 

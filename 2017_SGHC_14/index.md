@@ -10,6 +10,6 @@ tags:
   - Equity
   - Remedies
   - Account
-layout: single
+
 ---
 

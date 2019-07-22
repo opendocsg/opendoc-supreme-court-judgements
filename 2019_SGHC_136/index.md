@@ -5,6 +5,6 @@ tags:
   - Damages
   - Assessment
   - Personal injuries cases
-layout: single
+
 ---
 

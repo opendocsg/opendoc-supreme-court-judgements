@@ -15,6 +15,6 @@ tags:
   - Family violence
   - Orders for protection
   - Grant of personal protection order
-layout: single
+
 ---
 

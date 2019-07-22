@@ -6,6 +6,6 @@ tags:
   - Easements
   - Rights of way
   - Development of land by dominant and servient tenement
-layout: single
+
 ---
 

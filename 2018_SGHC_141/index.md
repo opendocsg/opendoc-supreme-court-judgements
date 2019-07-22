@@ -6,6 +6,6 @@ tags:
   - Award
   - Refusal of enforcement
   - Jurisdiction of tribunal
-layout: single
+
 ---
 

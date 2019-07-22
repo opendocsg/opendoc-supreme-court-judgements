@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Privileges
   - Without prejudice privilege
-layout: single
+
 ---
 # Krishna Kumaran s/o K Ramakrishnan v Kuppusamy s/o Ramakrishnan 
 

@@ -11,6 +11,6 @@ tags:
   - Conversion of Shares
   - Trusts
   - Constructive Trusts
-layout: single
+
 ---
 

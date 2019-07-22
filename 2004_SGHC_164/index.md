@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Whether deterrent sentence necessary
-layout: single
+
 ---
 

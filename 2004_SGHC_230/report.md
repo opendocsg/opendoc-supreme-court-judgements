@@ -22,7 +22,7 @@ tags:
   - Plaintiffs suing defendant for damages for driving vehicle negligently
   - Whether defendant negligent in his driving
   - Whether defence of inevitable accident established
-layout: single
+
 ---
 # Loh Luan Choo Betsy (alias Loh Baby) (administratrix of the estate of Lim Him Long) and 
 

@@ -25,6 +25,6 @@ tags:
   - Land
   - Conveyance
   - Transferor transferring property to defendants purportedly as return of gift
-layout: single
+
 ---
 

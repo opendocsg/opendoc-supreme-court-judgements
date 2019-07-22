@@ -10,6 +10,6 @@ tags:
   - Sentencing Principles
   - Mitigation
   - Whether sentence to run consecutively or concurrently
-layout: single
+
 ---
 

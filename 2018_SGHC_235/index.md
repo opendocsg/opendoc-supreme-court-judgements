@@ -5,6 +5,6 @@ tags:
   - Credit and security
   - Hire-purchase
   - Remedies
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Companies
   - Winding Up
   - Just and Equitable Grounds
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ma Wai Fong Kathryn _v_ Trillion Investment Pte Ltd and others and another appeal  

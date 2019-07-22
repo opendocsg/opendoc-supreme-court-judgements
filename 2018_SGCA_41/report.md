@@ -8,7 +8,7 @@ tags:
   - Tort
   - Negligence
   - Causation
-layout: single
+
 ---
 # NTUC Foodfare Co-operative Ltd v SIA Engineering Co Ltd and another 
 

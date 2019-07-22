@@ -18,6 +18,6 @@ tags:
   - >-
     Whether sentence imposed by trial judge manifestly excessive given
     accused\'s position of high trust and responsibility
-layout: single
+
 ---
 

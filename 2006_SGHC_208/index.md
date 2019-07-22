@@ -21,6 +21,6 @@ tags:
   - Contract
   - Breach
   - Whether parties intended literal meaning of contractual provisions to apply
-layout: single
+
 ---
 

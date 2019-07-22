@@ -15,6 +15,6 @@ tags:
   - Appeal
   - Acquittal
   - Applicable principles in deciding whether to acquit or to order retrial
-layout: single
+
 ---
 

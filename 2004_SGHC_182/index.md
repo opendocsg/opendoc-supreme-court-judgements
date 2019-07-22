@@ -21,6 +21,6 @@ tags:
   - Formation
   - Oral agreement between parties
   - Agreement not engrossed and executed
-layout: single
+
 ---
 

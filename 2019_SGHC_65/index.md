@@ -7,6 +7,6 @@ tags:
   - Enforcement
   - Writs of seizure and sale
   - Joint tenancy
-layout: single
+
 ---
 

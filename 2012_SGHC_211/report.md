@@ -6,7 +6,7 @@ tags:
   - Custody
   - Family Law
   - Consent Order
-layout: single
+
 ---
 # BDC v BDD 
 

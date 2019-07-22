@@ -8,7 +8,7 @@ tags:
   - Credit and security
   - performance bond
   - whether call on performance bond was unconscionable
-layout: single
+
 ---
 # AES Façade Pte Ltd v Wyse Pte Ltd and another 
 

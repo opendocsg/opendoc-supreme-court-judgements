@@ -11,7 +11,7 @@ tags:
     Security for costs provided by plaintiffs\' solicitors by way of
     solicitors\' undertakings
   - Whether application to be released from undertakings ought to be granted
-layout: single
+
 ---
 # PT Bumi International Tankers v Man B&W Diesel S E Asia Pte Ltd and Another (No 2) 
 

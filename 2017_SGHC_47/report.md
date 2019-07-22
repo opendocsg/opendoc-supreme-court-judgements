@@ -9,7 +9,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Adducing fresh evidence
-layout: single
+
 ---
 # Chong Yee Ka v Public Prosecutor 
 

@@ -11,6 +11,6 @@ tags:
   - Contract
   - Contractual terms
   - Interpretation
-layout: single
+
 ---
 

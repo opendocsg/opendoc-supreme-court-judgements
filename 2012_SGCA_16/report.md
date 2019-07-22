@@ -6,7 +6,7 @@ tags:
   - Choice of Jurisdiction
   - Conflict of Laws
   - Natural Forum
-layout: single
+
 ---
 # Orchard Capital I Ltd v Ravindra Kumar Jhunjhunwala 
 

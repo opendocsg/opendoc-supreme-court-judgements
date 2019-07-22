@@ -9,6 +9,6 @@ tags:
   - Family Law
   - Maintenance
   - wife
-layout: single
+
 ---
 

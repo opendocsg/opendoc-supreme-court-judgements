@@ -18,7 +18,7 @@ tags:
     freight and other charges being furnished
   - Shipowner being in effect required to pay storage charges upfront
   - Shipowner appealing against interim order
-layout: single
+
 ---
 # AP Moller-Maersk A/S (trading as Maersk Sealand) and Another v Special Entertainment 
 

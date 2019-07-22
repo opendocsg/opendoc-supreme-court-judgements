@@ -6,7 +6,7 @@ tags:
   - Discovery of documents
   - Application
   - Repeated applications for discovery
-layout: single
+
 ---
 # Ting Kang Chung John v Teo Hee Lai Building Construction Pte Ltd and Others 
 

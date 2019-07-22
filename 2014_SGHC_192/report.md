@@ -10,7 +10,7 @@ tags:
   - memorandum and articles of association
   - Contract
   - implied terms
-layout: single
+
 ---
 # TYC Investment Pte Ltd and others v Tay Yun Chwan Henry and another 
 

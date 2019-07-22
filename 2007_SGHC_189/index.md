@@ -13,6 +13,6 @@ tags:
     Whether fact that offender already discharged bankrupt when proceedings
     commenced against him warranting departure from normal sentencing tariff
   - 'Section 131(1)(b) Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 

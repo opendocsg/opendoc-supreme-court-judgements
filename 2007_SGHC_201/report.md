@@ -51,7 +51,7 @@ tags:
   - Words and Phrases
   - \"Relevant sector of the public in Singapore\"
   - 'Section 2(8) Trade Marks Act (Cap 332, 2005 Rev Ed)'
-layout: single
+
 ---
 # Amanresorts Limited and Another v Novelty Pte Ltd 
 

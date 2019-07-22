@@ -11,6 +11,6 @@ tags:
   - Striking out
   - Civil Procedure
   - Disposal of case on point of law
-layout: single
+
 ---
 

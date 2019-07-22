@@ -11,7 +11,7 @@ tags:
   - CRIMINAL PROCEDURE AND SENTENCING
   - High Court
   - irregularities in proceedings
-layout: single
+
 ---
 # Thong Ah Fat v Public Prosecutor 
 

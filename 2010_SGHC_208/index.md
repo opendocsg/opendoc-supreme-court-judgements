@@ -6,6 +6,6 @@ tags:
   - money had and received
   - Trusts
   - resulting trust
-layout: single
+
 ---
 

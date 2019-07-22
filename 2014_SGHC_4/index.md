@@ -6,6 +6,6 @@ tags:
   - Offences
   - Murder
   - Sentencing
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Misuse of Drugs Act
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 # Soh Qiu Xia Katty v Public Prosecutor 
 

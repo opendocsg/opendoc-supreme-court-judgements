@@ -8,7 +8,7 @@ tags:
   - Equity
   - Estoppel
   - Promissory
-layout: single
+
 ---
 # Tong Guan Teck v DBS Bank Ltd and others 
 

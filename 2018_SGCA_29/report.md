@@ -10,7 +10,7 @@ tags:
   - >-
     Implied undertaking not to use discovered documents for collateral or
     improper purpose
-layout: single
+
 ---
 # BNX v BOE and another appeal 
 

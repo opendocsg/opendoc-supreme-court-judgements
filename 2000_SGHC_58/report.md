@@ -12,7 +12,7 @@ tags:
   - Termination with notice
   - Whether termination solely or mainly because of redundancy
   - When presumption that dismissal on ground of redundancy arose
-layout: single
+
 ---
 # Noor Mohamed bin Mumtaz Shah v Apollo Enterprises Ltd (trading as Apollo Hotel Singapore) 
 

@@ -11,7 +11,7 @@ tags:
   - Duties
   - Client
   - Duty of solicitor to client when arguing case
-layout: single
+
 ---
 # Tan Yeow Khoon and Another v The Law Society of Singapore 
 

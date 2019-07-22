@@ -6,6 +6,6 @@ tags:
   - Striking out
   - Approbation and Reprobation
   - Abuse of Process
-layout: single
+
 ---
 

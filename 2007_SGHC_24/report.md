@@ -31,7 +31,7 @@ tags:
     Whether treaty concluded between People\'s Republic of China and Singapore
     applying to Hong Kong
   - 'Order 11 r 4(1), O 11 r 4(2) Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 # Lee Hsien Loong v Review Publishing Co Ltd and Another and Another Suit 
 

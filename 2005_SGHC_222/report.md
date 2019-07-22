@@ -25,7 +25,7 @@ tags:
   - Witnesses
   - Quality of identification evidence
   - Whether factors existing supporting identification evidence of good quality
-layout: single
+
 ---
 # Robin Anak Mawang v Public Prosecutor 
 

@@ -30,7 +30,7 @@ tags:
   - Contract
   - Breach
   - Whether notice of termination was valid
-layout: single
+
 ---
 # Encyclocom Education Pty Ltd v Horizoneducom Pte Ltd 
 

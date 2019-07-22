@@ -5,7 +5,7 @@ tags:
   - Conflict of Laws
   - Choice of jurisdiction
   - Stay of proceedings on ground of forum non conveniens
-layout: single
+
 ---
 # Novus International Pte Ltd v Good Earth Agricultural Co Ltd 
 

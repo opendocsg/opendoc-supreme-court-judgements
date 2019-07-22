@@ -7,7 +7,7 @@ tags:
   - Contract
   - Contractual terms
   - Dispute over dividend payouts and expenses claimed by plaintiff
-layout: single
+
 ---
 # Chia Kok Kee v HX Investment Pte Ltd (So Lai Har (alias Chia Choon), third party in issue) 
 

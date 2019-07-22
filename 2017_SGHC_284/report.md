@@ -7,7 +7,7 @@ tags:
   - Guarantor
   - Sale of goods
   - Breach of contract
-layout: single
+
 ---
 # HG Metal Manufacturing Ltd v Gayathri Steels Pte Ltd and others 
 

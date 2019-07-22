@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Benchmark sentences
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # GCP _v_ Public Prosecutor and another matter  

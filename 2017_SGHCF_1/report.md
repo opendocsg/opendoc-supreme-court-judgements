@@ -8,7 +8,7 @@ tags:
   - Family law
   - Maintenance
   - Wife
-layout: single
+
 ---
 # TVJ v TVK 
 

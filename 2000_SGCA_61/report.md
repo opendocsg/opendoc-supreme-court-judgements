@@ -6,7 +6,7 @@ tags:
   - Contractual terms
   - Construction of contract terms
   - Application of proviso
-layout: single
+
 ---
 # Societe Generale v Statoil Asia Pacific Pte Ltd 
 

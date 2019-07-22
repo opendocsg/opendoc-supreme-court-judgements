@@ -7,7 +7,7 @@ tags:
   - Arbitration
   - enforcement
   - foreign awards
-layout: single
+
 ---
 # Manuchar Steel Hong Kong Limited v Star Pacific Line Pte Ltd 
 

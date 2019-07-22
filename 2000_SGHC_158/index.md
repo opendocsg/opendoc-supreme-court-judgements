@@ -15,6 +15,6 @@ tags:
   - Case management unless order
   - Default on unless order
   - Proper course to take upon default of unless order
-layout: single
+
 ---
 

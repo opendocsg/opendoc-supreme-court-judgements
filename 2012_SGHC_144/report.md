@@ -6,7 +6,7 @@ tags:
   - Custody
   - Maintenance
   - Matrimonial assets
-layout: single
+
 ---
 # BCB v BCC 
 

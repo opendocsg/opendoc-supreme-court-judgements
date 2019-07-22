@@ -20,7 +20,7 @@ tags:
     Whether subsequent termination of claimant\'s employment valid consideration
     in assessing damages for pre-trial loss of earnings and loss of future
     earnings and earning capacity
-layout: single
+
 ---
 # Mei Yue Lan Margaret v Raffles City (Pte) Ltd 
 

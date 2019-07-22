@@ -16,6 +16,6 @@ tags:
   - Whether possible to re-apply to re-adopt infant
   - Whether adoptive parents have any legal recourse
   - ss 9 & 12 Adoption of Children Act (Cap 4)
-layout: single
+
 ---
 

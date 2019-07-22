@@ -34,7 +34,7 @@ tags:
   - Kidnapping Act
   - Whether acts of accused constituting wrongful confinement
   - 'Section 3 Kidnapping Act (Cap 151, 1999 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Selvaraju s/o Satippan 
 

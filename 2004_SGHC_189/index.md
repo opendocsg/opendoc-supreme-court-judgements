@@ -10,6 +10,6 @@ tags:
   - Plaintiff seeking to sever joint tenancy with defendant and sell property
   - No contribution by defendant to purchase price of property
   - Proportion in which net proceeds of sale should be divided
-layout: single
+
 ---
 

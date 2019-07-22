@@ -8,7 +8,7 @@ tags:
   - Criminal Law
   - Corruption
   - Prevention of Corruption Act
-layout: single
+
 ---
 # Tey Tsun Hang v Public Prosecutor 
 

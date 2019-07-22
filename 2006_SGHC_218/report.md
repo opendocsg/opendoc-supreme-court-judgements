@@ -26,7 +26,7 @@ tags:
     Whether decision of disciplinary committee finding appellant guilty of
     professional misconduct unsafe, unreasonable or contrary to evidence
   - 'Section 47(3) Dentists Act (Cap 76, 2000 Rev Ed)'
-layout: single
+
 ---
 # Hennedige Oliver v Singapore Dental Council 
 

@@ -7,6 +7,6 @@ tags:
   - Land
   - Sale of Land
   - Contract
-layout: single
+
 ---
 

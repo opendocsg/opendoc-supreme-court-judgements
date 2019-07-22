@@ -16,6 +16,6 @@ tags:
     How court struck balance between giving effect to rehabilitative
     considerations and need for deterrence particularly where young offenders
     were concerned
-layout: single
+
 ---
 

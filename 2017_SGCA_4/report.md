@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory Offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Muhammad bin Abdullah v Public Prosecutor and another appeal 
 

@@ -10,7 +10,7 @@ tags:
     Whether custodial sentence warranted for reckless dissemination of false
     information
   - 'Section 199(b)(i) Securities and Futures Act (Cap 289, 2006 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Wang Ziyi Able 
 

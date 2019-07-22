@@ -7,7 +7,7 @@ tags:
   - Enforcement
   - Writs of seizure and sale
   - Joint tenancy
-layout: single
+
 ---
 # Peter Low LLC v Higgins, Danial Patrick 
 

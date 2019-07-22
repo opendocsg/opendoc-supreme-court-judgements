@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Judgment and Orders
   - Enforcement
-layout: single
+
 ---
 # Comptroller of Income Tax v BJX 
 

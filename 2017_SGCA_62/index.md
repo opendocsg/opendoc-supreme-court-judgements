@@ -5,6 +5,6 @@ tags:
   - Credit and Security
   - Mortgage of real property
   - Mortgagee’s rights
-layout: single
+
 ---
 

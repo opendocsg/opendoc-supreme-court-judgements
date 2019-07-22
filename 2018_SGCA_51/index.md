@@ -5,6 +5,6 @@ tags:
   - Companies
   - Striking off defunct companies
   - Outstanding assets
-layout: single
+
 ---
 

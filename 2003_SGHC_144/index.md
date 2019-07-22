@@ -17,6 +17,6 @@ tags:
   - >-
     Whether transfer of shares was effected with intent to defraud creditors
     contrary to s 73B Conveyancing and Law of Property Act (Cap 61)
-layout: single
+
 ---
 

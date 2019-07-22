@@ -8,6 +8,6 @@ tags:
   - Caveator having right of first refusal pursuant to directors\' resolution
   - Terms of directors\' resolution subsequently varied
   - Whether caveator still having caveatable interest when it lodged caveat
-layout: single
+
 ---
 

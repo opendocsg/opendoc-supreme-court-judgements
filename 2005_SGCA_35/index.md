@@ -32,6 +32,6 @@ tags:
   - Defamation
   - Qualified privilege
   - Whether comments proportionate response to attacks
-layout: single
+
 ---
 

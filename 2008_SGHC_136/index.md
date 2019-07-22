@@ -12,6 +12,6 @@ tags:
   - Whether that e-mail was privileged communication
   - Whether e-mail sent under a duty of confidentiality
   - Whether privilege waived
-layout: single
+
 ---
 

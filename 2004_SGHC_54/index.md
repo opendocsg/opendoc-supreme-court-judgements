@@ -54,6 +54,6 @@ tags:
     Whether death penalty under Misuse of Drugs Act (Cap 185) is maximum
     sentence or mandatory sentence
   - 'Section 7 Misuse of Drugs Act (Cap 185, 2001 Rev Ed)'
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - cheques
   - forged
   - mandate
-layout: single
+
 ---
 

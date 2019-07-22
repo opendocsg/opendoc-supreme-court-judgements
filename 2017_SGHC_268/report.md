@@ -8,7 +8,7 @@ tags:
   - Financial and Securities Markets
   - Civil Penalties
   - Quantum
-layout: single
+
 ---
 # Monetary Authority of Singapore v Wang Boon Heng and another 
 

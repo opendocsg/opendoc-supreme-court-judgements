@@ -23,6 +23,6 @@ tags:
   - Tort
   - Conversion
   - Detinue
-layout: single
+
 ---
 

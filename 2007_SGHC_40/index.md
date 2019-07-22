@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Principles
   - Accused strangling wife during fight
-layout: single
+
 ---
 

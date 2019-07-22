@@ -5,7 +5,7 @@ tags:
   - Contract
   - Interpretation
   - Partnership Law
-layout: single
+
 ---
 # Ang Tin Yong v Ang Boon Chye and another 
 

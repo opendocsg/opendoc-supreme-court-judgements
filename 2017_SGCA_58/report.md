@@ -10,7 +10,7 @@ tags:
   - Breach of duty
   - Tort
   - Non-delegable duties
-layout: single
+
 ---
 # Ng Huat Seng and another v Munib Mohammad Madni and another 
 

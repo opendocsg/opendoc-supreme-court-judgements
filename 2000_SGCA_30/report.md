@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Seah Chwee Lim practising under the name and style of Seah Chwee Lim & Associates v 
 

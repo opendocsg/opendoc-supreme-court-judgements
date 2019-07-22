@@ -7,7 +7,7 @@ tags:
   - Breach
   - Employment Law
   - Termination
-layout: single
+
 ---
 # Surteco Pte Ltd v Siebke Detlev Kurt and another suit 
 

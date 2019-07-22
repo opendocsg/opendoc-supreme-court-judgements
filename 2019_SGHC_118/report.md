@@ -6,7 +6,7 @@ tags:
   - mutual legal assistance
   - Civil Procedure
   - disclosure of documents
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BSD _v_ Attorney-General and other matters  

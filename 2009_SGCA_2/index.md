@@ -34,6 +34,6 @@ tags:
   - Appeals
   - Right
   - One tier of appeal as of right for civil cases
-layout: single
+
 ---
 

@@ -12,6 +12,6 @@ tags:
   - Building and construction law
   - Dispute resolution
   - Stay of enforcement pending appeal
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Legal Profession
   - Professional Conduct
   - breach
-layout: single
+
 ---
 

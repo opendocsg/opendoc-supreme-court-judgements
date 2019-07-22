@@ -27,7 +27,7 @@ tags:
   - Trusts
   - Resulting trusts
   - Presumed resulting trust
-layout: single
+
 ---
 # Cheong Soh Chin and others v Eng Chiet Shoong and others 
 

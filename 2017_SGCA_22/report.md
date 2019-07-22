@@ -8,7 +8,7 @@ tags:
   - Courts and Jurisdiction
   - Court judgments
   - Prospective overruling of court judgments
-layout: single
+
 ---
 # Chang Kar Meng v Public Prosecutor 
 

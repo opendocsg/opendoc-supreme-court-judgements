@@ -9,7 +9,7 @@ tags:
   - Commencement of proceedings against company in compulsory liquidation
   - Whether leave to commence and continue action can be granted retrospectively
   - 's 262(3) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 # Rafiq Jumabhoy v Scotts Investments (Singapore) Pte Ltd (in compulsory liquidation) 
 

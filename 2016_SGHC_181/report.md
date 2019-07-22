@@ -17,7 +17,7 @@ tags:
   - Constructive trusts
   - Trusts
   - Resulting trusts
-layout: single
+
 ---
 # Sumoi Paramesvaeri v Fleury, Jeffrey Gerard and another 
 

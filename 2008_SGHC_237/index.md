@@ -9,6 +9,6 @@ tags:
   - Categories of adverse possession claims
   - Plot of unregistered land
   - Developer bought land which enclosed plot
-layout: single
+
 ---
 

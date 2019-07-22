@@ -8,7 +8,7 @@ tags:
   - Inherent powers
   - Land
   - Sale of land
-layout: single
+
 ---
 # Tan Poh Beng v Choo Lee Mei 
 

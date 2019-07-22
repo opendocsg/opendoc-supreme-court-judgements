@@ -8,6 +8,6 @@ tags:
   - Undue Influence
   - Probate and Administration
   - Distribution of Assets
-layout: single
+
 ---
 

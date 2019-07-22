@@ -13,7 +13,7 @@ tags:
   - remoteness
   - Damages
   - special damages
-layout: single
+
 ---
 # Tan Juay Mui (by his next friend Chew Chwee Kim) v Sher Kuan Hock and another (Liberty 
 

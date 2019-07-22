@@ -6,6 +6,6 @@ tags:
   - Guarantees and Indemnities
   - Evidence
   - Adverse inferences
-layout: single
+
 ---
 

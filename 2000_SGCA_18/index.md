@@ -24,6 +24,6 @@ tags:
   - Words and Phrases
   - \"Or otherwise\"
   - O 69 r 4 Rules of Court
-layout: single
+
 ---
 

@@ -39,7 +39,7 @@ tags:
   - Causation
   - Whether defendants breaching any duty to plaintiff
   - Whether plaintiff\'s loss caused by defendants
-layout: single
+
 ---
 # Alfons Tanumihardja v Thio Su Mien and Others 
 

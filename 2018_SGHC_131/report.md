@@ -20,7 +20,7 @@ tags:
   - Remedies
   - Account
   - Common account
-layout: single
+
 ---
 # Cheong Soh Chin and others v Eng Chiet Shoong and others 
 

@@ -6,7 +6,7 @@ tags:
   - Stay of court proceedings
   - Inherent jurisdiction
   - General discretion to lift stay of court proceedings
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Gulf Hibiscus Ltd _v_ Rex International Holding Ltd and another  

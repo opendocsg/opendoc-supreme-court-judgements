@@ -18,7 +18,7 @@ tags:
     Complainant sole witness to and victim of sexual offences committed by
     appellant
   - Whether complainant\'s testimony unreliable because of inconsistencies
-layout: single
+
 ---
 # Chng Yew Chin v Public Prosecutor 
 

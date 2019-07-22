@@ -8,7 +8,7 @@ tags:
   - Land
   - Sale of Land
   - Completion
-layout: single
+
 ---
 # Ajit Chandrasekar Prabhu and another v Yap Beng Kooi and another 
 

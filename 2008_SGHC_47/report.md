@@ -17,7 +17,7 @@ tags:
   - >-
     Whether Singapore natural forum for determination of disputes over foreign
     immovables that arose from ancillary divorce proceedings in Indonesia
-layout: single
+
 ---
 # Murakami Takako v Wiryadi Louise Maria and Others 
 

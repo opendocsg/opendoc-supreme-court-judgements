@@ -6,6 +6,6 @@ tags:
   - Discovery
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 

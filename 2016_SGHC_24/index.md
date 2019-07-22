@@ -6,6 +6,6 @@ tags:
   - Members
   - Rights
   - Derivative Actions
-layout: single
+
 ---
 

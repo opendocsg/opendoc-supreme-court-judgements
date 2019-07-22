@@ -8,6 +8,6 @@ tags:
   - Credit and Security
   - Performance bond
   - Whether call on performance bond was unconscionable
-layout: single
+
 ---
 

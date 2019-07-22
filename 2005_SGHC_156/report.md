@@ -13,7 +13,7 @@ tags:
   - Succession and Wills
   - Construction
   - Property bequeathed to beneficiary as \"State property\"
-layout: single
+
 ---
 # State of Johor and Another v Tunku Alam Shah ibni Tunku Abdul Rahman and Others 
 

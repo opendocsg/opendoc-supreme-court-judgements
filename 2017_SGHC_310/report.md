@@ -12,7 +12,7 @@ tags:
   - Inventive step
   - Patents and Inventions
   - Infringement
-layout: single
+
 ---
 # Rohm and Haas Electronic Materials CMP Holdings, Inc (formerly known as Rodel Holdings, 
 

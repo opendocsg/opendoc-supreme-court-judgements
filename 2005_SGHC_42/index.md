@@ -13,6 +13,6 @@ tags:
   - Adverse possession by defendant of land under common law system
   - Whether defendant required to lodge caveat to protect interest
   - 'Section 42(3) Land Titles Act (Cap 157, 1985 Rev Ed)'
-layout: single
+
 ---
 

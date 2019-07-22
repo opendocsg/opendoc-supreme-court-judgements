@@ -10,6 +10,6 @@ tags:
   - Illegality and public policy
   - Staututory illegality
   - Contract for brokerage commission
-layout: single
+
 ---
 

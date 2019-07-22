@@ -8,7 +8,7 @@ tags:
   - >-
     Whether district judge erred in referring to cases involving other market
     misconduct where no direct sentencing precedent existed
-layout: single
+
 ---
 # Public Prosecutor v Cheong Hock Lai and Other Appeals 
 

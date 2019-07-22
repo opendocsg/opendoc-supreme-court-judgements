@@ -6,6 +6,6 @@ tags:
   - Winding up
   - Liquidator
   - Proof of debt
-layout: single
+
 ---
 

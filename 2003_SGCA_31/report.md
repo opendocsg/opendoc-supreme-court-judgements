@@ -24,7 +24,7 @@ tags:
   - When charterparty concluded
   - Meaning of \"clean fixed\" in shipping practice
   - Whether plaintiffs concluded charterparty with shipowners or another party
-layout: single
+
 ---
 # The 'Rainbow Spring' 
 

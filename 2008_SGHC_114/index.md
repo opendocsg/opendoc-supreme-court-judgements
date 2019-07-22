@@ -20,6 +20,6 @@ tags:
     Whether statements likely to produce pecuniary damage in respect of business
     carried on at time of publication
   - 'Section 6(1)(b) Defamation Act (Cap 75, 1985 Rev Ed)'
-layout: single
+
 ---
 

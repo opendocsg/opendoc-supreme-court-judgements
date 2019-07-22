@@ -23,7 +23,7 @@ tags:
   - Oral testimony of accused inconsistent with previous statement
   - Whether credit of accused rightly impeached
   - 's 157 Evidence Act (Cap 97, 1997 Ed)'
-layout: single
+
 ---
 # Rukiah bte Ismail v Public Prosecutor 
 

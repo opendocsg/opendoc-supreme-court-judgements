@@ -12,7 +12,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Bankruptcy effects
-layout: single
+
 ---
 # Standard Chartered Bank v Loh Chong Yong Thomas 
 

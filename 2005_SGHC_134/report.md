@@ -26,7 +26,7 @@ tags:
   - >-
     Whether such misrepresentation inducing defendant to enter into compromise
     arrangements with plaintiff
-layout: single
+
 ---
 # Oversea-Chinese Banking Corp Ltd v Infocommcentre Pte Ltd 
 

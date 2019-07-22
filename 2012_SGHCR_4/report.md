@@ -4,7 +4,7 @@ subtitle: "[2012] SGHCR 4 / 04\_May\_2012"
 tags:
   - Civil Procedure
   - order of medical examination
-layout: single
+
 ---
  (a) 
 

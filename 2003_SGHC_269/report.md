@@ -16,7 +16,7 @@ tags:
   - >-
     Whether employees obliged to make good losses resulting from inability to
     meet employer\'s targets
-layout: single
+
 ---
 # Asiawerks Global Investment Group Pte Ltd v Ismail bin Syed Ahmad and Another 
 

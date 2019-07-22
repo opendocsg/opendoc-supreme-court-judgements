@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Plaintiff obtaining extension of time to file reply to defence
-layout: single
+
 ---
 # Sumikin Bussan Corp v Hiew Teck Seng (alias Yaw Teck Seng) and Another 
 

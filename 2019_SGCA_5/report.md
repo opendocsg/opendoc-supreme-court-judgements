@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Winding Up
   - Stay of Proceedings
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # SCK Serijadi Sdn Bhd _v_ Artison Interior Pte Ltd  

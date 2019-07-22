@@ -9,6 +9,6 @@ tags:
   - Misrepresentation Act
   - Commercial Transactions
   - sale of goods
-layout: single
+
 ---
 

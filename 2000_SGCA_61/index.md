@@ -6,6 +6,6 @@ tags:
   - Contractual terms
   - Construction of contract terms
   - Application of proviso
-layout: single
+
 ---
 

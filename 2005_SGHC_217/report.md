@@ -12,7 +12,7 @@ tags:
   - >-
     Whether defendants allowed to claim for damages for wrongful arrest without
     setting aside arrest
-layout: single
+
 ---
 # Treasure Valley Group Ltd v Saputra Teddy and Another (Ultramarine Holdings Ltd, 
 

@@ -24,6 +24,6 @@ tags:
     Whether separate requirement in disciplinary proceedings to show alleged
     improper conduct would bring profession into disrepute
   - 'Section 34(1) (c) Accountants Act (Cap 2, 2001 Rev Ed)'
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Building and Construction Law
   - Dispute resolution
   - Alternative dispute resolution procedures
-layout: single
+
 ---
 # Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction Co Ltd 
 

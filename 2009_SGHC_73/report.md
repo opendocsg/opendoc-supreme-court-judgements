@@ -42,7 +42,7 @@ tags:
     Company offering S$108,989.62 as full and final settlement of all
     outstanding issues with employee
   - Whether employee accepted company\'s offer
-layout: single
+
 ---
 # Goh Guan Chong v AspenTech, Inc 
 

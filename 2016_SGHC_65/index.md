@@ -9,6 +9,6 @@ tags:
   - Arbitrability and Public Policy
   - Arbitration
   - Stay of court proceedings
-layout: single
+
 ---
 

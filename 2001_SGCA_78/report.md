@@ -13,7 +13,7 @@ tags:
   - Costs
   - Principles governing award of costs
   - Costs following the event
-layout: single
+
 ---
 # Banque Nationale De Paris v Tan Nancy and Another 
 

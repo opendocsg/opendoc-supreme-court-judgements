@@ -10,6 +10,6 @@ tags:
     Application to set aside order granted on allegation of conspiracy to injure
     applicant\'s business
   - Whether prima facie case of conspiracy established
-layout: single
+
 ---
 

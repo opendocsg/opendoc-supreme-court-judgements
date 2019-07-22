@@ -15,7 +15,7 @@ tags:
     Council
   - Principles to be applied
   - 'Section 45(13) Medical Registration Act (Cap 174, 1998 Rev Ed)'
-layout: single
+
 ---
 # Chia Yang Pong v Singapore Medical Council 
 

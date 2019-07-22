@@ -9,6 +9,6 @@ tags:
     Whether successful defendant should have his taxed costs held in escrow,
     until determination of fresh set of proceedings against him by same
     plaintiff, based on same facts
-layout: single
+
 ---
 

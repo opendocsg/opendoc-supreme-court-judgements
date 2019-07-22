@@ -25,6 +25,6 @@ tags:
   - >-
     Whether trial judge erred in finding that respondent\'s confession was
     inadmissible as evidence
-layout: single
+
 ---
 

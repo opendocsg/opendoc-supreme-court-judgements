@@ -33,6 +33,6 @@ tags:
   - >-
     Whether phrase in s 98 of the Bankruptcy Act (Cap 20, 2000 Rev Ed) suggests
     there should be element of mutuality
-layout: single
+
 ---
 

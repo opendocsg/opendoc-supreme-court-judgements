@@ -6,6 +6,6 @@ tags:
   - Contractual terms
   - Evidence
   - Proof of Evidence
-layout: single
+
 ---
 

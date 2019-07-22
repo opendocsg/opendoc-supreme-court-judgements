@@ -9,6 +9,6 @@ tags:
   - Legal Profession
   - Remuneration
   - Stakeholding fees
-layout: single
+
 ---
 

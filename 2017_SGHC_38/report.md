@@ -13,7 +13,7 @@ tags:
   - Winding up
   - Credit and security
   - Trust receipts
-layout: single
+
 ---
 # Pars Ram Brothers (Pte) Ltd (in creditors’ voluntary liquidation) v Australian & New Zealand 
 

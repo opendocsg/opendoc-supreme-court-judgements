@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Jurisdiction
   - Leave to appeal
-layout: single
+
 ---
 # Fong Khim Ling (administrator of the estate of Fong Ching Pau Lloyd, deceased) v Tan Teck 
 

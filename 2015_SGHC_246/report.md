@@ -15,7 +15,7 @@ tags:
   - damages
   - Equity
   - estoppel
-layout: single
+
 ---
 # Ding Pei Zhen v Yap Son On 
 

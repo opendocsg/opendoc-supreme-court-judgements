@@ -5,6 +5,6 @@ tags:
   - LEGAL PROFESSION
   - Duties
   - client
-layout: single
+
 ---
 

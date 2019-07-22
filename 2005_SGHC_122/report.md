@@ -23,7 +23,7 @@ tags:
   - Accused retracting confessions
   - Whether confessions true and reliable
   - Whether corroboration required
-layout: single
+
 ---
 # Public Prosecutor v Lim Thian Lai 
 

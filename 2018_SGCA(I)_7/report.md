@@ -9,7 +9,7 @@ tags:
   - Litigants in person
   - Civil Procedure
   - Service
-layout: single
+
 ---
 # BNP Paribas SA v Jacob Agam and another 
 

@@ -6,6 +6,6 @@ tags:
   - Adverse possession
   - Land
   - Compulsory acquisition
-layout: single
+
 ---
 

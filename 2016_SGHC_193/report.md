@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Appeals
-layout: single
+
 ---
 # Karthigeyan M Kailasam v Public Prosecutor 
 

@@ -14,6 +14,6 @@ tags:
   - definitions
   - “child”
   - whether definition includes “stepchild”
-layout: single
+
 ---
 

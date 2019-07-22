@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Copyright
   - Tort
-layout: single
+
 ---
 # Vicplas Holdings Pte Ltd v Allfit International Market Pte Ltd and others 
 

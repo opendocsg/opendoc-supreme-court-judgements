@@ -24,6 +24,6 @@ tags:
     Accused appearing to have recovered from depression and having low risk of
     recidivism
   - Appropriate sentence to be imposed
-layout: single
+
 ---
 

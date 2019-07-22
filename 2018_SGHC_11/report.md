@@ -7,7 +7,7 @@ tags:
   - Contract
   - Duress
   - Economic
-layout: single
+
 ---
 # Goh Bee Lan v Yap Soon Guan and another 
 

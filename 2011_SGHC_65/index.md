@@ -5,6 +5,6 @@ tags:
   - Tort
   - Misrepresentation
   - Negligent Misrepresentation
-layout: single
+
 ---
 

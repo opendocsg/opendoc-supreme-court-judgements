@@ -13,7 +13,7 @@ tags:
   - Denying successful appellant costs of appealling and costs below
   - Successful appellant did not appeal against trial judge\'s order on costs
   - Relevant circumstances
-layout: single
+
 ---
 # Ho Kon Kim v Lim Gek Kim Betsy and another appeal and Others 
 

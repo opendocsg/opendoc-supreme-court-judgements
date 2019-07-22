@@ -20,6 +20,6 @@ tags:
   - >-
     Whether inequitable for present trustees to refuse to honour compromise
     agreement on ground that such agreement not lawfully entered into
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - >-
     Mitigating effect of inordinate delay between commencement of investigations
     and eventual prosecution and sentencing
-layout: single
+
 ---
 

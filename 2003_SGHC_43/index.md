@@ -20,6 +20,6 @@ tags:
   - Winding up
   - Liquidator
   - Liquidator\'s entitlement to information
-layout: single
+
 ---
 

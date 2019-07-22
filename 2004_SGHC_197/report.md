@@ -10,7 +10,7 @@ tags:
     fraudulent conveyance
   - Factors to consider
   - 'Section 73B Conveyancing and Law of Property Act (Cap 61, 1994 Rev Ed)'
-layout: single
+
 ---
 # Wong Ser Wan v Ng Bok Eng Holdings Pte Ltd and Another (No 2) 
 

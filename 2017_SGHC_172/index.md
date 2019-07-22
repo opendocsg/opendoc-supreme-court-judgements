@@ -15,6 +15,6 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Arbitrability
-layout: single
+
 ---
 

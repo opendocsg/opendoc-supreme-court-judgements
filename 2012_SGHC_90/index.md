@@ -8,6 +8,6 @@ tags:
   - Damages
   - Measure of damages
   - Rules in awarding
-layout: single
+
 ---
 

@@ -21,6 +21,6 @@ tags:
     When court may stop voluntary winding up of company and grant leave to
     proceed with compulsory winding up of company
   - Principles considered by court
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - Quantum meruit
   - Restitution
   - Unjust enrichment
-layout: single
+
 ---
 

@@ -20,6 +20,6 @@ tags:
   - >-
     Whether defendant entitled to recover payout to plaintiff on the ground of
     its mistaken belief that targets met
-layout: single
+
 ---
 

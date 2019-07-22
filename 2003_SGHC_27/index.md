@@ -17,6 +17,6 @@ tags:
   - >-
     Whether court should nevertheless take into account terms of settlement
     agreement when deciding ancillaries
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Tort
   - Negligence
   - Contributory negligence
-layout: single
+
 ---
 

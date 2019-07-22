@@ -22,7 +22,7 @@ tags:
     Whether second defendant may set off such cash payments from debt owed to
     him by company
   - 'Section 329(1) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 # Liquidator of Leong Seng Hin Piling Pte Ltd v Chan Ah Lek and Others 
 

@@ -12,6 +12,6 @@ tags:
   - Personal injuries cases
   - Loss of earning capacity
   - Pain and suffering
-layout: single
+
 ---
 

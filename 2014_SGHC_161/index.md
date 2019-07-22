@@ -4,6 +4,6 @@ subtitle: "[2014] SGHC 161 / 12\_August\_2014"
 tags:
   - Land
   - Strata titles
-layout: single
+
 ---
 

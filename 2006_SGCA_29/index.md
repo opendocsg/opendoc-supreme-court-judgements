@@ -22,6 +22,6 @@ tags:
   - >-
     Chief Assessor including common property in Valuation List for assessment of
     property tax payable thereon
-layout: single
+
 ---
 

@@ -12,7 +12,7 @@ tags:
     wife\'s death
   - Whether defence of diminished responsibility made out
   - 'Section 300 Exception 7 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v G Krishnasamy Naidu 
 

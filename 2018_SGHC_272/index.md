@@ -7,6 +7,6 @@ tags:
   - Negligent misrepresentation
   - Negligence
   - Breach of duty
-layout: single
+
 ---
 

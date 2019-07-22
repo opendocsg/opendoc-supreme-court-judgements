@@ -35,6 +35,6 @@ tags:
     Strata Titles\' Board\'s order for collective sale set aside at appellate
     level
   - Whether objecting subsidiary proprietors entitled to share of interest
-layout: single
+
 ---
 

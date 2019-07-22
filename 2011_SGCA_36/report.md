@@ -7,7 +7,7 @@ tags:
   - Financial and Securities Markets
   - Regulatory requirements
   - Market conduct
-layout: single
+
 ---
 # Tan Chong Koay and another v Monetary Authority of Singapore 
 

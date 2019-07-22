@@ -21,6 +21,6 @@ tags:
   - >-
     Whether agreement including bill estimate such that defendant not liable to
     pay excess costs
-layout: single
+
 ---
 

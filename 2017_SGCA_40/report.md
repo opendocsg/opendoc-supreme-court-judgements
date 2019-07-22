@@ -10,7 +10,7 @@ tags:
   - Employment Law
   - Contract of service
   - Termination
-layout: single
+
 ---
 # Goh Chan Peng and others v Beyonics Technology Ltd and another and another appeal 
 

@@ -16,6 +16,6 @@ tags:
   - >-
     Whether court may intervene to set aside expert\'s decision where no fraud
     or collusion involved
-layout: single
+
 ---
 

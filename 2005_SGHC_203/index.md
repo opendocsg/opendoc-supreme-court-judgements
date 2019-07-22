@@ -15,6 +15,6 @@ tags:
   - Adverse possession
   - Claim for adverse possession by one co-owner against another coowner
   - Applicable principles
-layout: single
+
 ---
 

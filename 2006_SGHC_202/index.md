@@ -15,6 +15,6 @@ tags:
   - >-
     Whether applicant should be allowed to file supporting affidavit after
     completion of trial
-layout: single
+
 ---
 

@@ -19,6 +19,6 @@ tags:
   - Civil Procedure
   - Judgments and orders
   - Relevance of delay in application to set aside default judgment
-layout: single
+
 ---
 

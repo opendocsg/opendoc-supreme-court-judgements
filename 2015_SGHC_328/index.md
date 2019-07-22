@@ -5,6 +5,6 @@ tags:
   - Deeds and Other Instruments
   - Deed
   - Avoidance
-layout: single
+
 ---
 

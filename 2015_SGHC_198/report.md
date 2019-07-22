@@ -8,7 +8,7 @@ tags:
   - Banking
   - Bankers books
   - Bank Statements
-layout: single
+
 ---
 # Chua Kok Tee David v DBS Bank Ltd 
 

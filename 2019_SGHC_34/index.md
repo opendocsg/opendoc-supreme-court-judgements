@@ -6,6 +6,6 @@ tags:
   - Members
   - Derivative action
   - Memorandum and articles of association
-layout: single
+
 ---
 

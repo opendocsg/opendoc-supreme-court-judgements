@@ -12,7 +12,7 @@ tags:
   - Court judgments
   - Declaratory
   - Standing to seek declaratory relief
-layout: single
+
 ---
 # Tan Eng Hong v Attorney-General 
 

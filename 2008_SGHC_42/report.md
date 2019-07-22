@@ -6,7 +6,7 @@ tags:
   - Infringement
   - Fingerprints planted in copyright works
   - Whether there was copying
-layout: single
+
 ---
 # Virtual Map (Singapore) Pte Ltd v Singapore Land Authority 
 

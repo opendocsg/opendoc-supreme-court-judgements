@@ -5,7 +5,7 @@ tags:
   - Family law
   - Matrimonial home
   - Payment of ongoing liabilities pending transfer to one party
-layout: single
+
 ---
 # TIC v TID 
 

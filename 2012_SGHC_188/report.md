@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - offences
   - public tranquility
-layout: single
+
 ---
 # Public Prosecutor v Yue Mun Yew Gary 
 

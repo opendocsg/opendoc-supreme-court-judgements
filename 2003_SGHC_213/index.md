@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Forms of punishment
   - Preventive detention
-layout: single
+
 ---
 

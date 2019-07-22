@@ -8,7 +8,7 @@ tags:
     Whether letters relating to request for further arguments considered a step
     or proceeding
   - 'Order 21 r 2(6) Rules of Court (Cap 322, R 5, 2004 Rev Ed)'
-layout: single
+
 ---
 # Lai Swee Lin Linda v Attorney-General 
 

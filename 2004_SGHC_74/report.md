@@ -21,7 +21,7 @@ tags:
   - >-
     Whether district judge failed to appreciate true nature of public interest
     at stake
-layout: single
+
 ---
 # Chua Kim Leng Timothy v Public Prosecutor 
 

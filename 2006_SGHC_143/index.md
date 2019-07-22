@@ -21,6 +21,6 @@ tags:
     Whether respondent only in breach of ss 83(2)(b), 83(2)(h) Legal Profession
     Act if retainer between himself and beneficiaries existing
   - Appropriate punishment
-layout: single
+
 ---
 

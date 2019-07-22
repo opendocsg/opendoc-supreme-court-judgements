@@ -9,7 +9,7 @@ tags:
   - Loss of profit from sub-sales effected after original contract
   - Whether damages too remote
   - Duty to mitigate loss
-layout: single
+
 ---
 # PT Master Mandiri v Yamazaki Construction (S) Pte Ltd 
 

@@ -16,6 +16,6 @@ tags:
   - >-
     Whether appellant estopped from contending that payment should be based on
     area of uncladded duct
-layout: single
+
 ---
 

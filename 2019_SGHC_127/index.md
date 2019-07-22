@@ -10,6 +10,6 @@ tags:
   - Breach
   - Conspiracy
   - Inducement of breach of contract
-layout: single
+
 ---
 

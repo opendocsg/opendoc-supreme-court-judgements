@@ -20,6 +20,6 @@ tags:
   - Debt and Recovery
   - Acknowledgment of debt
   - Whether subject to without prejudice privilege
-layout: single
+
 ---
 

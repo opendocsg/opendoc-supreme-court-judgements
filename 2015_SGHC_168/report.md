@@ -5,7 +5,7 @@ tags:
   - Tort
   - Negligence
   - Breach of duty
-layout: single
+
 ---
 # Chua Thong Jiang Andrew v Yue Wai Mun and another 
 

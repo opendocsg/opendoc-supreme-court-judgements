@@ -14,7 +14,7 @@ tags:
   - Termination
   - Notice period
   - Whether reasonable.
-layout: single
+
 ---
 # Walsh Terence William v Peregrine Systems Pte Ltd 
 

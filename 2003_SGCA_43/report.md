@@ -18,7 +18,7 @@ tags:
     the port of delivery for determination and settlement at that port only\"
   - Whether clause an exclusive jurisdiction clause
   - Whether court should refuse to order stay of proceedings
-layout: single
+
 ---
 # Golden Shore Transportation Pte Ltd v UCO Bank and Another Appeal 
 

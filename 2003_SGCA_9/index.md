@@ -11,6 +11,6 @@ tags:
   - >-
     Subordinate Courts Act (Cap 321, 1999 Rev Ed), Supreme Court of Judicature
     Act (Cap 322, 1999 Rev Ed)
-layout: single
+
 ---
 

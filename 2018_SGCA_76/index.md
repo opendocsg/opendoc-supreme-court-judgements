@@ -15,6 +15,6 @@ tags:
   - Statutory Interpretation
   - Construction of statute
   - 'Interpretation of “excessive”, “unconscionable” and “substantially unfair”'
-layout: single
+
 ---
 

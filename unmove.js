@@ -5,24 +5,15 @@
 */
 
 const glob = require('glob')
-const matter = require('gray-matter');
+const replace = require('replace-in-file')
 const fs = require('fs')
 const path = require('path')
 
-glob("/*/report.md", { root: __dirname }, function (er, files) {
-    const totalFiles = files.length
-    let fileCount = 0
-    files.forEach((file) => {
-        try {
-            const indexPath = path.join(path.dirname(file), 'index.md')
-            const { data: frontMatter } = matter.read(file)
-            const output = matter.stringify('', frontMatter)
-            fs.writeFileSync(indexPath, output)
-            fileCount++
-        } catch (e) {
-            console.log(`Error: ${file}`, e)
-            console.log(`(${fileCount}/${totalFiles})`)
-        }
-    })
-    console.log(`(${fileCount}/${totalFiles})`)
+replace.sync({
+    files: path.join(__dirname, "./*/*.md"),
+    from: 'layout: single',
+    to: '',
+    countMatches: true,
+}).then(() => {
+    console.log('done')
 })

@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Appeals
-layout: single
+
 ---
 # Micheal Anak Garing v Public Prosecutor and another appeal 
 

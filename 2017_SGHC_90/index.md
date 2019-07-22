@@ -10,6 +10,6 @@ tags:
   - Equity
   - Remedies
   - Equitable compensation
-layout: single
+
 ---
 

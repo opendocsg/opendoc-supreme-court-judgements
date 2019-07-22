@@ -36,7 +36,7 @@ tags:
     in his favour
   - Whether defendant under duty to consider carelessness of other road users
   - Appropriate apportionment of liability
-layout: single
+
 ---
 # Ng Swee Eng (administrator of the estate of Tan Chee Wee, deceased) v Ang Oh Chuan 
 

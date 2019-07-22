@@ -5,7 +5,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Zolton Techs Singapore Pte Ltd v Tan Chew Sim (Chow Hoo Siong, third party) 
 

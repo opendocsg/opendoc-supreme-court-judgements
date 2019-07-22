@@ -16,7 +16,7 @@ tags:
     Whether action in personam against registered proprietor sustainable in
     absence of fraud
   - 'Sections 46, 160 Land Titles Act (Cap 157, 1994 Rev Ed)'
-layout: single
+
 ---
 # United Overseas Bank Ltd v Bebe bte Mohammad 
 

@@ -26,6 +26,6 @@ tags:
   - >-
     Liability of company directors as constructive trustees for company\'s loss
     or damage
-layout: single
+
 ---
 

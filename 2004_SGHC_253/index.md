@@ -44,6 +44,6 @@ tags:
   - >-
     Whether publisher and writer of article protected under doctrine of
     derivative privilege
-layout: single
+
 ---
 

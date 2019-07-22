@@ -10,7 +10,7 @@ tags:
   - Contract
   - contractual terms
   - rules of construction
-layout: single
+
 ---
 # Tan Holdings Pte Ltd (in creditor’s voluntary liquidation) v Prosperity Steel (Asia) Co Ltd and 
 

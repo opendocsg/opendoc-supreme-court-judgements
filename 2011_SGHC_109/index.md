@@ -6,6 +6,6 @@ subtitle: "[2011] SGHC 109 / 29\_April\_2011"
 tags:
   - Building and Construction Law
   - Statutes and regulations
-layout: single
+
 ---
 

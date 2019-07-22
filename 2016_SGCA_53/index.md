@@ -11,6 +11,6 @@ tags:
   - Banking
   - Promissory notes
   - Payment
-layout: single
+
 ---
 

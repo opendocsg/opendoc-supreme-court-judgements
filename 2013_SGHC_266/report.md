@@ -5,7 +5,7 @@ tags:
   - PROFESSIONS
   - Medical profession and practice
   - professional conduct
-layout: single
+
 ---
 # Pang Ah San v Singapore Medical Council 
 

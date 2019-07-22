@@ -14,7 +14,7 @@ tags:
   - >-
     Application of judicial review principles to decision of public body
     concerning land planning and redevelopment in Singapore
-layout: single
+
 ---
 # Borissik Svetlana v Urban Redevelopment Authority 
 

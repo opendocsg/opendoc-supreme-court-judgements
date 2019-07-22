@@ -7,6 +7,6 @@ tags:
   - >-
     Court declining to record consent interlocutory judgment in order to refer
     matter to Attorney-General for investigation
-layout: single
+
 ---
 

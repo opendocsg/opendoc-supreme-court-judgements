@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Judgments and orders
   - Stay of execution
-layout: single
+
 ---
 

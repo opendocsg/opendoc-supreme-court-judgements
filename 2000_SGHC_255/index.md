@@ -17,6 +17,6 @@ tags:
   - Construction of statute
   - Whether limbs of provision read disjunctively or conjunctively
   - s 20(4) Civil Law Act (Cap 43)
-layout: single
+
 ---
 

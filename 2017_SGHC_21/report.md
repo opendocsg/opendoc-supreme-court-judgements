@@ -9,7 +9,7 @@ tags:
   - Natural Forum
   - Arbitration
   - Stay of court proceedings
-layout: single
+
 ---
 # TMT Co Ltd v The Royal Bank of Scotland plc (trading as RBS Greenwich Futures) and others 
 

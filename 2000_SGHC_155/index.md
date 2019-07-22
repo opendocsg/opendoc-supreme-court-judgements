@@ -16,6 +16,6 @@ tags:
   - Offence involving high degree of planning
   - Whether fine sufficient
   - Whether need for deterrent custodial sentence
-layout: single
+
 ---
 

@@ -10,7 +10,7 @@ tags:
   - Trustees
   - Duties
   - Duty to let trust property
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Jocelyn Rita d/o Lawrence Stanley _v_ Tan Gark Chong  

@@ -8,6 +8,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Whether sentence manifestly inadequate
-layout: single
+
 ---
 

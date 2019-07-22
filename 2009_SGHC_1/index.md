@@ -16,6 +16,6 @@ tags:
   - >-
     Whether subcontractor suffered detriment in reliance on contractor\'s
     representations
-layout: single
+
 ---
 

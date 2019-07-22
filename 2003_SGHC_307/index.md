@@ -15,6 +15,6 @@ tags:
   - Avoidance of transactions
   - Relevant test for insolvency
   - Allegation that transactions carried out whilst company solvent
-layout: single
+
 ---
 

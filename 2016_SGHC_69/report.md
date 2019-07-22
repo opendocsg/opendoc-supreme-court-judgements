@@ -7,7 +7,7 @@ tags:
   - Forms of punishment
   - Criminal Procedure and Sentencing
   - Mitigation
-layout: single
+
 ---
 # Low Gek Hong v Public Prosecutor 
 

@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Intellectually disabled offenders
   - Young offenders
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ ASR  

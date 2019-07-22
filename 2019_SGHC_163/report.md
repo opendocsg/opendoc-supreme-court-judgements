@@ -12,7 +12,7 @@ tags:
   - Illegal moneylending
   - Guarantees and indemnities
   - Guarantor
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Liew Kum Chong _v_ SVM International Trading Pte Ltd and others  

@@ -12,7 +12,7 @@ tags:
     Defendant contracted with plaintiff for provision of design, supply and
     related works
   - Plaintiff stopped contractual works on account of non-payment by defendant
-layout: single
+
 ---
 # Stratech Systems Ltd v Guthrie Engineering (S) Pte Ltd 
 

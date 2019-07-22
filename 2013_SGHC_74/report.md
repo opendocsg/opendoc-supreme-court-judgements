@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - Income Taxation
   - Appeals
-layout: single
+
 ---
 # Comptroller of Income Tax v BBO 
 

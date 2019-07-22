@@ -9,7 +9,7 @@ tags:
   - Contractual relations
   - Contract
   - Breach
-layout: single
+
 ---
 # Shenzhen Kenouxin Electronic Co Ltd v Heliyanto and others 
 

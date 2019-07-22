@@ -20,6 +20,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Trials
   - Alleged victim of rape not available to testify at trial
-layout: single
+
 ---
 

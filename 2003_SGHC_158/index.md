@@ -11,6 +11,6 @@ tags:
     ready for collection, but within 21 days of the time when the award was
     actually ready for collection
   - Whether the appeal was filed on time.
-layout: single
+
 ---
 

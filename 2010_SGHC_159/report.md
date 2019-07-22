@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Striking out
-layout: single
+
 ---
 # Low Tuck Kwong v Sukamto Sia 
 

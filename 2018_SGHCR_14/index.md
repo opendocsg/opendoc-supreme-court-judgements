@@ -6,6 +6,6 @@ tags:
   - Discovery of Documents
   - Trusts
   - Constructive Trusts
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Setting aside
   - Jurisdiction
   - Public policy
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Rakna Arakshaka Lanka Ltd _v_ Avant Garde Maritime Services (Pte) Ltd  

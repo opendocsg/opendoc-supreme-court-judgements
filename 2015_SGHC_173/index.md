@@ -27,6 +27,6 @@ tags:
   - Trusts
   - Resulting trusts
   - Presumed resulting trust
-layout: single
+
 ---
 

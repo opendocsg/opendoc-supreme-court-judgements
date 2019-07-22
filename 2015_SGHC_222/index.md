@@ -6,6 +6,6 @@ tags:
   - Shares
   - Professions
   - Valuer
-layout: single
+
 ---
 

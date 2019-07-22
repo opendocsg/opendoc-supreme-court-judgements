@@ -16,7 +16,7 @@ tags:
   - >-
     Whether subcontractor suffered detriment in reliance on contractor\'s
     representations
-layout: single
+
 ---
 # Yokogawa Engineering Asia Pte Ltd v Transtel Engineering Pte Ltd 
 

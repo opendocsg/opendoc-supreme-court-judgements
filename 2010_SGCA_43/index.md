@@ -6,6 +6,6 @@ tags:
   - Groundless threat
   - Copyright
   - Infringement
-layout: single
+
 ---
 

@@ -19,6 +19,6 @@ tags:
   - >-
     Whether term to refund option moneys if legal requisitions unsatisfactory
     ought to be implied
-layout: single
+
 ---
 

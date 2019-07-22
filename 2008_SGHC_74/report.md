@@ -11,7 +11,7 @@ tags:
   - >-
     Whether action to obtain security in foreign jurisdiction vexatious or
     oppressive
-layout: single
+
 ---
 # Regalindo Resources Pte Ltd v Seatrek Trans Pte Ltd 
 

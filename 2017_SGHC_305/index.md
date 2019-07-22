@@ -8,6 +8,6 @@ tags:
   - Infringement
   - Trade Marks and Trade Names
   - Border enforcement measures
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ subtitle: "[2018] SGHC 111 / 02\_May\_2018"
 tags:
   - Civil procedure
   - Offer to settle
-layout: single
+
 ---
 

@@ -30,6 +30,6 @@ tags:
   - Cause of action estoppel
   - Identity of parties
   - Privity of interest
-layout: single
+
 ---
 

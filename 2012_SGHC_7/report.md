@@ -9,7 +9,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Striking Out
-layout: single
+
 ---
 # Astrazeneca AB v Ranbaxy (Malaysia) Sdn Bhd 
 

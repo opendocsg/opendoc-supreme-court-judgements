@@ -11,7 +11,7 @@ tags:
   - Developer delaying construction of new apartments by one year
   - Whether developer repudiating contract
   - Whether apartment owners entitled to terminate agreement
-layout: single
+
 ---
 # Chua Chay Lee and Others v Premier Properties Pte Ltd 
 

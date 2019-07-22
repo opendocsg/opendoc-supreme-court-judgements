@@ -14,6 +14,6 @@ tags:
   - Conversion
   - Claims arising from breakdown in marriage between parties
   - Construction of deed of separation
-layout: single
+
 ---
 

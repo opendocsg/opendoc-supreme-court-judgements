@@ -24,6 +24,6 @@ tags:
   - >-
     Whether appellant should be granted leave to introduce new contention on
     appeal contradicting pleaded case and submissions at trial
-layout: single
+
 ---
 

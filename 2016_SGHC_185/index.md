@@ -9,6 +9,6 @@ tags:
   - Succession and Wills
   - Revocation
   - Marriage
-layout: single
+
 ---
 

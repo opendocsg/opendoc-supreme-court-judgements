@@ -7,6 +7,6 @@ tags:
   - Minority shareholders
   - Valuation of shares
   - Discount on minority shares
-layout: single
+
 ---
 

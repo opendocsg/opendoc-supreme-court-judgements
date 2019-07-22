@@ -8,6 +8,6 @@ tags:
   - Construction
   - Succession and Wills
   - Lapse
-layout: single
+
 ---
 

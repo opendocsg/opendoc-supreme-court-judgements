@@ -34,6 +34,6 @@ tags:
   - Defamation
   - Qualified privilege
   - Whether defence of qualified privilege applicable
-layout: single
+
 ---
 

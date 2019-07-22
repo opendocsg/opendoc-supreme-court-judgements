@@ -9,7 +9,7 @@ tags:
   - Shares
   - Valuation
   - Discount on minority shares
-layout: single
+
 ---
 # Thio Syn Kym Wendy and others v Thio Syn Pyn and another 
 

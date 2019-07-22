@@ -62,7 +62,7 @@ tags:
   - >-
     Whether wholesaler of slimming pills owed duty to consumers to exercise
     reasonable care in promotion, endorsement and advertisement of the pills
-layout: single
+
 ---
 # De Cruz Andrea Heidi v Guangzhou Yuzhitang Health Products Co Ltd and Others 
 

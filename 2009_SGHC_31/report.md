@@ -42,7 +42,7 @@ tags:
     Publication of explanatory statement in the context of member litigants\'
     request for greater disclosure of information
   - Whether defence of qualified privilege favoured defendants
-layout: single
+
 ---
 # Lim Eng Hock Peter v Lin Jian Wei and Another 
 

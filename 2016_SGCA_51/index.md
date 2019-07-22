@@ -6,6 +6,6 @@ tags:
   - Garnishee Orders
   - Trusts
   - Express Trusts
-layout: single
+
 ---
 

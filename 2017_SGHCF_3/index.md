@@ -11,6 +11,6 @@ tags:
   - Family law
   - Matrimonial assets
   - Matrimonial home
-layout: single
+
 ---
 

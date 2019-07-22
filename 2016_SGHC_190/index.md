@@ -8,6 +8,6 @@ tags:
   - Civil procedure
   - Judgments and orders
   - Sealing orders
-layout: single
+
 ---
 

@@ -14,6 +14,6 @@ tags:
   - Insolvency Law
   - Administration of Insolvent Estates
   - Conduct of Legal Proceedings
-layout: single
+
 ---
 

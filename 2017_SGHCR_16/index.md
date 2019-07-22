@@ -9,6 +9,6 @@ tags:
   - Infringement
   - Patents and Inventions
   - Novelty
-layout: single
+
 ---
 

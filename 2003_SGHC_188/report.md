@@ -21,7 +21,7 @@ tags:
     registered marks
   - Whether plaintiff\'s trade marks infringed
   - 'Trade Marks Act (Cap 332, 1999 Rev Ed) s 27'
-layout: single
+
 ---
 # Creative Technology Ltd v Cosmos Trade-Nology Pte Ltd and Another 
 

@@ -34,7 +34,7 @@ tags:
   - Need to prove interest in land
   - Whether interest as occupier sufficient
   - Whether interest as owner sufficient where owner not in occupation of land
-layout: single
+
 ---
 # Epolar System Enterprise Pte Ltd and Others v Lee Hock Chuan and Others 
 

@@ -12,7 +12,7 @@ tags:
   - Infringement
   - Patents and Inventions
   - Groundless threat
-layout: single
+
 ---
 # Lee Tat Cheng v Maka GPS Technologies Pte Ltd 
 

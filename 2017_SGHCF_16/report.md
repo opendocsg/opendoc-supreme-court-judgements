@@ -13,7 +13,7 @@ tags:
   - Matrimonial proceedings
   - Procedure
   - Cross-examination
-layout: single
+
 ---
 # UDA v UDB and another 
 

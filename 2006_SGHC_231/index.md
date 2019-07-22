@@ -16,6 +16,6 @@ tags:
   - >-
     Whether committal proceedings against third party may commence and continue
     even after death of contemnor
-layout: single
+
 ---
 

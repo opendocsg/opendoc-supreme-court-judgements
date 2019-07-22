@@ -6,7 +6,7 @@ tags:
   - Winding up
   - Liquidator
   - Proof of debt
-layout: single
+
 ---
 # Ong Kian Hoy v Liquidator of HSS Engineering Pte Ltd 
 

@@ -7,7 +7,7 @@ tags:
   - Assessment
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Leong Yim Ling _v_ Moey Park Moon  

@@ -6,6 +6,6 @@ tags:
   - Sale of goods
   - Breach of contract
   - Damages for breach of contract
-layout: single
+
 ---
 

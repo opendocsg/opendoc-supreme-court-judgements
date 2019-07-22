@@ -5,7 +5,7 @@ tags:
   - Landlord and Tenant
   - Distress for rent
   - Seizure of defendants\' property under writ of distress
-layout: single
+
 ---
 # Jurong Town Corp v Shutters 31 Pte Ltd 
 

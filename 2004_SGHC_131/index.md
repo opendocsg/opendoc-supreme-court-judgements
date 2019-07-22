@@ -13,6 +13,6 @@ tags:
   - >-
     Whether findings as to amount of money previously paid to second defendant
     were correct
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
   - Tort
   - Negligence
   - Damages
-layout: single
+
 ---
 # Rathanamalah d/o Shunmugam v Chia Kok Hoong 
 

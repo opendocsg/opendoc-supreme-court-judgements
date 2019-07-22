@@ -8,7 +8,7 @@ tags:
   - Arbitration
   - Enforcement
   - Singapore award
-layout: single
+
 ---
 # Josias Van Zyl and others v Kingdom of Lesotho 
 

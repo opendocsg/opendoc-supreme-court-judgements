@@ -11,6 +11,6 @@ tags:
   - Administrative Law
   - Natural justice
   - Disclosure of evidence
-layout: single
+
 ---
 

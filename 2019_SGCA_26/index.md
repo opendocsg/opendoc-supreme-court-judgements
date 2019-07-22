@@ -13,6 +13,6 @@ tags:
   - Particular causes of action
   - Account
   - Equity and limitation of actions
-layout: single
+
 ---
 

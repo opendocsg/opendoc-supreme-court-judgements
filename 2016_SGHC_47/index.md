@@ -6,6 +6,6 @@ subtitle: "[2016] SGHC 47 / 29\_March\_2016"
 tags:
   - Insurance
   - Accident insurance
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - Negligence
   - Tort
   - Vicarious liability
-layout: single
+
 ---
 # Goel Adesh Kumar v Resorts World at Sentosa Pte Ltd (SATS Security Services Pte Ltd, third 
 

@@ -6,7 +6,7 @@ tags:
   - Settlement agreement
   - Equity
   - Relief against penalties
-layout: single
+
 ---
 # Allplus Holdings Pte Ltd and others v Phoon Wui Nyen (Pan Weiyuan) 
 

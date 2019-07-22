@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Appeals
   - Benchmark Sentences
-layout: single
+
 ---
 

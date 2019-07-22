@@ -17,7 +17,7 @@ tags:
   - Future interests
   - Adverse possession
   - Encroachment of fence onto respondents\' property
-layout: single
+
 ---
 # Dr Lo Sook Ling Adela v Au Mei Yin Christina and Another 
 

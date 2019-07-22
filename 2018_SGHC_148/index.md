@@ -11,6 +11,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Rule against double counting
-layout: single
+
 ---
 

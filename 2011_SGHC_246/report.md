@@ -13,7 +13,7 @@ tags:
   - Misrepresentation
   - Damage
   - Estoppel by convention
-layout: single
+
 ---
 # OMG Holdings Pte Ltd v Pos Ad Sdn Bhd 
 

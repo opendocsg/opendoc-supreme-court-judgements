@@ -20,7 +20,7 @@ tags:
   - Weight of evidence
   - Accused\'s bare denials
   - Whether such denials have value
-layout: single
+
 ---
 # Ramis a/l Muniandy v Public Prosecutor 
 

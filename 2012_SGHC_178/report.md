@@ -4,7 +4,7 @@ subtitle: "[2012] SGHC 178 / 30\_August\_2012"
 tags:
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
  (a) 
 

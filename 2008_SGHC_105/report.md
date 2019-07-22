@@ -16,7 +16,7 @@ tags:
   - >-
     Whether evidence established that prima facie case of knowing receipt made
     out
-layout: single
+
 ---
 # Relfo Ltd (in liquidation) v Bhimji Velji Jadva Varsani 
 

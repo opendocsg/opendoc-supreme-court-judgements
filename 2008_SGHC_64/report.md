@@ -33,7 +33,7 @@ tags:
     Whether Mareva injunction must be ancillary to claim for relief that would
     be granted by Singapore court
   - 'Section 4(10) Civil Law Act (Cap 43, 1999 Rev Ed)'
-layout: single
+
 ---
 # Petroval SA v Stainby Overseas Ltd and Others 
 

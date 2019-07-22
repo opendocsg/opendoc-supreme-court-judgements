@@ -9,7 +9,7 @@ tags:
   - Constitutional Law
   - Constitution
   - Interpretation
-layout: single
+
 ---
 # 1 
 

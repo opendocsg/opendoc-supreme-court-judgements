@@ -23,6 +23,6 @@ tags:
     issuance of incorrect IR8A forms and advise plaintiff of tax consequences
   - Whether defendant breaching such duty
   - Whether defendant\'s breach causing damage suffered by plaintiff
-layout: single
+
 ---
 

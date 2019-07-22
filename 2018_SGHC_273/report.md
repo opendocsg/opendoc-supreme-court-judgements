@@ -12,7 +12,7 @@ tags:
   - Account
   - Third party liability
   - Expenses
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Griffin Real Estate Investment Holdings Pte Ltd (in liquidation) _v_ ERC Unicampus Pte Ltd  

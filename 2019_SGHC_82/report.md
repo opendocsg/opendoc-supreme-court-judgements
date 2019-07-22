@@ -7,7 +7,7 @@ tags:
   - Duty of Care
   - Banking
   - Credit and Security
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Koh Kim Teck and another _v_ Credit Suisse AG, Singapore Branch  

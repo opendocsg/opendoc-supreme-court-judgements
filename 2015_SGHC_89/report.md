@@ -8,7 +8,7 @@ tags:
   - Strata titles
   - Management corporation
   - Management council
-layout: single
+
 ---
 # Diora-Ace Ltd and others v Management Corporation Strata Title Plan No 3661 and others 
 

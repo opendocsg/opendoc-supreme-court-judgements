@@ -11,7 +11,7 @@ tags:
   - >-
     Whether and in what circumstances appellate court will disturb trial
     judge\'s findings of fact
-layout: single
+
 ---
 # Roslan Bin Abdul Rani v Public Prosecutor 
 

@@ -8,7 +8,7 @@ tags:
   - Admissibility of Evidence
   - Equity
   - Remedies
-layout: single
+
 ---
 # HT S.R.L. v Wee Shuo Woon 
 

@@ -26,7 +26,7 @@ tags:
   - >-
     Whether Sweden more appropriate forum than Singapore because it provided
     easier fault-free divorces
-layout: single
+
 ---
 # VH v VI and Another 
 

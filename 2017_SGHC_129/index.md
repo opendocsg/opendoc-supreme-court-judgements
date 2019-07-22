@@ -7,6 +7,6 @@ tags:
   - Endangered Species Act
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 

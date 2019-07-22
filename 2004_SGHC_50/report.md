@@ -13,7 +13,7 @@ tags:
     Whether judge in disposal inquiry obliged to restore items to last in lawful
     possession
   - 'Section 31 Pawnbrokers Act (Cap 222, 1994 Rev Ed)'
-layout: single
+
 ---
 # Wang Wang Pawnshop Pte Ltd and Others v K J Tiffany and Others 
 

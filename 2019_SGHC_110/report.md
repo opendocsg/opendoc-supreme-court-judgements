@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Striking out
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # CRRC (Hong Kong) Co Ltd and another _v_ Chen Weiping (Chew Hwa Kwang Patrick, third party)  

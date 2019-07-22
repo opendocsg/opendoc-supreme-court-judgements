@@ -14,7 +14,7 @@ tags:
   - Appeal against conviction and sentence
   - Whether sentence appropriate
   - s 304A Penal Code (Cap 224)
-layout: single
+
 ---
 # Chew Ah Kiat v Public Prosecutor 
 

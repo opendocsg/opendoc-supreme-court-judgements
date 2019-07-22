@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - Pleadings
   - Rejoinder
-layout: single
+
 ---
 # Champion Management Pte Ltd v Kee Onn Engineering Pte Ltd 
 

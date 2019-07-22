@@ -13,6 +13,6 @@ tags:
   - Whether arbitration agreement applicable
   - Whether mere refusal to pay amount indisputably due constituted dispute
   - 'Section 6 International Arbitration Act (Cap 143A, 2002 Rev Ed)'
-layout: single
+
 ---
 

@@ -20,7 +20,7 @@ tags:
   - Negligence
   - Res ipsa loquitur
   - Whether burden of proving negligence of defendant on plaintiff
-layout: single
+
 ---
 # Tan Siok Yee (suing by the committee of the person and estate, Liew Chee Kong) and Others 
 

@@ -8,7 +8,7 @@ tags:
   - Evidence
   - Witnesses
   - Expert evidence
-layout: single
+
 ---
 # Public Prosecutor v S K Murugan Subrawmanian 
 

@@ -16,6 +16,6 @@ tags:
   - >-
     Whether trial judge correct in dismissing appellant\'s second action for
     abuse of process of court
-layout: single
+
 ---
 

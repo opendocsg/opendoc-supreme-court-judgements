@@ -16,6 +16,6 @@ tags:
   - >-
     Whether analogy with road-rage cases appropriate -Whether custodial sentence
     warranted
-layout: single
+
 ---
 

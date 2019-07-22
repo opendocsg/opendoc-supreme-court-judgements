@@ -8,7 +8,7 @@ tags:
   - Foreign judgments
   - Reciprocal enforcement
   - Judgment obtained in Malaysia
-layout: single
+
 ---
 # Perwira Affin Bank Berhad (formerly known as Perwira Habib Bank Malaysia Berhad) v Lee 
 

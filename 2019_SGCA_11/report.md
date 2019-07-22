@@ -9,7 +9,7 @@ tags:
   - Natural forum
   - Civil Procedure
   - Submission
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Shanghai Turbo Enterprises Ltd _v_ Liu Ming  

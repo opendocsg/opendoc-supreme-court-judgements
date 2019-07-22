@@ -6,6 +6,6 @@ tags:
   - Building and Construction Contracts
   - Building and Construction Law
   - Damages
-layout: single
+
 ---
 

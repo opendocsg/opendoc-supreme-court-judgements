@@ -5,7 +5,7 @@ tags:
   - Contempt of Court
   - Scandalising the court
   - Contempt in the face of the court
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Attorney-General _v_ Ong Wui Teck  

@@ -14,7 +14,7 @@ tags:
   - Gratuitous bailment
   - Mutuum
   - Whether initiation deposits are mutuum
-layout: single
+
 ---
 # Pinetree Resort Pte Ltd v Comptroller of Income Tax 
 

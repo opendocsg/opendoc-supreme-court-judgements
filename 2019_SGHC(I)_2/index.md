@@ -5,6 +5,6 @@ tags:
   - Companies
   - Shares
   - Valuation
-layout: single
+
 ---
 

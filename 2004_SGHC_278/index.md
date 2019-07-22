@@ -12,6 +12,6 @@ tags:
   - >-
     Third Schedule paras 2(1), 2(2), 2(3) Workmen\'s Compensation Act (Cap 354,
     1998 Rev Ed)
-layout: single
+
 ---
 

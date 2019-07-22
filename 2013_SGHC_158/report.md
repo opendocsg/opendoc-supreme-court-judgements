@@ -5,7 +5,7 @@ tags:
   - Tort
   - Nuisance
   - Private nuisance
-layout: single
+
 ---
 # AXA Insurance Singapore Pte Ltd v Chandran s/o Natesan 
 

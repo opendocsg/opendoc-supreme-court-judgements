@@ -6,6 +6,6 @@ tags:
   - Negligence
   - Special damages
   - Medical expenses
-layout: single
+
 ---
 

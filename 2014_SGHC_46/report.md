@@ -7,7 +7,7 @@ tags:
   - Misuse of Drugs Act
   - Criminal Procedure and Sentencing
   - Revision of proceedings
-layout: single
+
 ---
 # Bhavashbhai s/o Baboobhai v Public Prosecutor 
 

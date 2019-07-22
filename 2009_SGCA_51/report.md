@@ -8,7 +8,7 @@ tags:
   - Land
   - Sale of land
   - Contract
-layout: single
+
 ---
 # Joseph Mathew and Another v Singh Chiranjeev and Another 
 

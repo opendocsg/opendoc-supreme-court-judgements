@@ -8,7 +8,7 @@ tags:
   - >-
     Whether trade mark for which registration being sought similar to
     opponent\'s earlier registered mark
-layout: single
+
 ---
 # Richemont International SA v Goldlion Enterprise (Singapore) Pte Ltd 
 

@@ -7,7 +7,7 @@ tags:
   - Land
   - Sale of land
   - Conditions of sale
-layout: single
+
 ---
 # Goh Liang Yong Jonah and another v Heng Kuek Hoy and another 
 

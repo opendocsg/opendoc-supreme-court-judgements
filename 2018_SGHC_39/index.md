@@ -13,6 +13,6 @@ tags:
   - Contract
   - Remedies
   - Damages
-layout: single
+
 ---
 

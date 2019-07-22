@@ -9,7 +9,7 @@ tags:
   - Limitation of Actions
   - Particular causes of action
   - Contract
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Swee Wan Enterprises Pte Ltd _v_ Yak Thye Peng  

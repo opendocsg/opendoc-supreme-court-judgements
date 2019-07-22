@@ -15,6 +15,6 @@ tags:
   - >-
     Whether Prosecution proved that drugs in appellant\'s possession were for
     trafficking
-layout: single
+
 ---
 

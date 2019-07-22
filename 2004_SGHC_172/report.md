@@ -11,7 +11,7 @@ tags:
   - Criminal offences
   - Overstayer
   - 'Immigration Act (Cap 133, 1997 Rev Ed) s 15(3) (b).'
-layout: single
+
 ---
 # Public Prosecutor v Somrak Senkham and Another 
 

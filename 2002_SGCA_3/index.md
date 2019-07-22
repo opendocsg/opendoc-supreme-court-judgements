@@ -27,6 +27,6 @@ tags:
   - Words and Phrases
   - \'Matrimonial asset\'
   - 's 112(10) Women\''s Charter (Cap 353, 1997 Ed)'
-layout: single
+
 ---
 

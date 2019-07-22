@@ -11,6 +11,6 @@ tags:
   - Contract
   - Formation
   - Acceptance
-layout: single
+
 ---
 

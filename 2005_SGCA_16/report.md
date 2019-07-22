@@ -50,7 +50,7 @@ tags:
     Subsidiary proprietors of condominium units not purchasing units directly
     from developer
   - Whether such subsidiary proprietors can claim in contract against developer
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 2297 v Seasons Park Ltd 
 

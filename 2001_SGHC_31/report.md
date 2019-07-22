@@ -6,7 +6,7 @@ tags:
   - Appeals
   - Leave to appeal
   - Application for leave to appeal to High Court
-layout: single
+
 ---
 # Lam Seng Hang Co Pte Ltd v The Insurance Corporation of Singapore Ltd 
 

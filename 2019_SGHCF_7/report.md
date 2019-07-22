@@ -5,7 +5,7 @@ tags:
   - Family Law
   - Matrimonial assets
   - Matrimonial home
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UQP _v_ UQQ

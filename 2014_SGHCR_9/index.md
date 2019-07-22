@@ -5,6 +5,6 @@ tags:
   - Damages
   - Measure of Damages
   - Personal Injuries Cases
-layout: single
+
 ---
 

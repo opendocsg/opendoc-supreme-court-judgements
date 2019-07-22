@@ -38,6 +38,6 @@ tags:
   - >-
     Whether first plaintiff guilty of contributory negligence for locating
     server room near exhaust duct
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Mortgagee’s Rights
   - Civil Procedure
   - Mortgage Actions
-layout: single
+
 ---
 # United Overseas Bank Ltd v Loh Boon Hua 
 

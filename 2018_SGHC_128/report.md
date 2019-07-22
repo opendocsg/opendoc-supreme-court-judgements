@@ -9,7 +9,7 @@ tags:
   - Hours of work
   - Employment law
   - Termination
-layout: single
+
 ---
 # Hasan Shofiqul v China Civil (Singapore) Pte Ltd 
 

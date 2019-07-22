@@ -14,6 +14,6 @@ tags:
   - Evidenc e
   - Princ iples
   - Findings of fac t by trial judge
-layout: single
+
 ---
 

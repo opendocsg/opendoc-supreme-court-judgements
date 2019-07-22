@@ -5,7 +5,7 @@ tags:
   - Contract
   - Remedies
   - Remoteness of damage
-layout: single
+
 ---
 # Out of the Box Pte Ltd v Wanin Industries Pte Ltd 
 

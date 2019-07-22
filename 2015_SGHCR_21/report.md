@@ -24,7 +24,7 @@ tags:
   - Formation
   - Evidence
   - Admissibility of evidence
-layout: single
+
 ---
 # William Jacks & Co (Singapore) Pte Ltd v Nelson Honey & Marketing (NZ) Ltd 
 

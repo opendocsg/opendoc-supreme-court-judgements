@@ -22,6 +22,6 @@ tags:
   - Costs
   - Taxation
   - Review of taxation
-layout: single
+
 ---
 

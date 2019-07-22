@@ -10,7 +10,7 @@ tags:
     Hague Protocol
   - Computation of number of packages lost or damaged under art 22(2)
   - Warsaw Convention as amended by the Hague Protocol art 22(2)
-layout: single
+
 ---
 # Philips Hong Kong Ltd v China Airlines Ltd 
 

@@ -10,7 +10,7 @@ tags:
   - Divorce
   - Maintenance
   - Whether lump sum maintenance award appropriate
-layout: single
+
 ---
 # Pushpavalli d/o Govindaraju v Shanmuga Nathan s/o Lakshmanan 
 

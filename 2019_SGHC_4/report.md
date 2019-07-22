@@ -13,7 +13,7 @@ tags:
   - Building and Construction Law
   - Guaranteed maximum price contract
   - Delay in completion
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Crescendas Bionics Pte Ltd _v_ Jurong Primewide Pte Ltd  

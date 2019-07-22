@@ -15,7 +15,7 @@ tags:
   - Sentencing
   - Sentencing practice
   - Taking account of contributions of appellant in sentencing
-layout: single
+
 ---
 # Wong Tiew Yong and Another v Public Prosecutor 
 

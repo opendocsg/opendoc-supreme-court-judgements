@@ -33,7 +33,7 @@ tags:
     Whether third parties may be liable for aiding and abetting contempt of
     court
   - Applicable principles
-layout: single
+
 ---
 # Pertamina Energy Trading Ltd v Karaha Bodas Co LLC and Others 
 

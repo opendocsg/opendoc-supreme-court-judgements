@@ -13,6 +13,6 @@ tags:
   - >-
     Plaintiffs attempting to admit statement of claim from first action in
     second action
-layout: single
+
 ---
 

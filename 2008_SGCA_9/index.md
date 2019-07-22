@@ -18,6 +18,6 @@ tags:
   - >-
     Whether s 52 of Interpretation Act (Cap 1, 2002 Rev Ed) could be applied to
     court judgments or orders for purposes of committal
-layout: single
+
 ---
 

@@ -13,7 +13,7 @@ tags:
   - Civil procedure
   - Costs
   - Indemnity costs
-layout: single
+
 ---
 # Foo Jee Boo and another v Foo Jhee Tuang and others 
 

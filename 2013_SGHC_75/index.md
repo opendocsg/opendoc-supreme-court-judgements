@@ -5,6 +5,6 @@ tags:
   - LEGAL PROFESSION
   - Admission
   - Ad hoc
-layout: single
+
 ---
 

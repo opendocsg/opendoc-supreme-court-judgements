@@ -20,6 +20,6 @@ tags:
   - Whether offences proven beyond reasonable doubt
   - 'ss 7(1), 25(3) & 136 Copyright Act (Cap 63, 1999 Ed)'
   - 's 107 Trade Marks Act (Cap 332, 1999 Ed)'
-layout: single
+
 ---
 

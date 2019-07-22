@@ -9,6 +9,6 @@ tags:
   - >-
     Order bills transferred from shipper to consignee via negotiating bank
     without indorsement in favour of negotiating bank
-layout: single
+
 ---
 

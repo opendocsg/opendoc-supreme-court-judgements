@@ -8,6 +8,6 @@ tags:
   - Plaintiffs obtaining judgment in default of defence
   - Whether judgment regular
   - Whether judgment should be set aside
-layout: single
+
 ---
 

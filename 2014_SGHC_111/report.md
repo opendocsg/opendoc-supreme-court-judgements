@@ -8,7 +8,7 @@ tags:
   - Pleadings
   - Civil Procedure
   - Costs
-layout: single
+
 ---
 # Abani Trading Pte Ltd v BNP Paribas and another appeal 
 

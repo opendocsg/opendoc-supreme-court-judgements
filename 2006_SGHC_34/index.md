@@ -13,6 +13,6 @@ tags:
   - >-
     Whether settlor\'s interest in testator\'s estate before testator\'s estate
     administered capable of being subject of trust constituted by settlor
-layout: single
+
 ---
 

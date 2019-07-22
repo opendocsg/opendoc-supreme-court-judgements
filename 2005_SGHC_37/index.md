@@ -15,6 +15,6 @@ tags:
     proceedings
   - When testimony of one witness to be preferred over testimony of another
   - 'Section 54 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

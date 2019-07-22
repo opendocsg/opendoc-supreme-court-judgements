@@ -19,7 +19,7 @@ tags:
   - Special exceptions
   - Sudden fight
   - Accused charged with murder of close friend
-layout: single
+
 ---
 # Public Prosecutor v Vijayakumar s/o Veeriah 
 

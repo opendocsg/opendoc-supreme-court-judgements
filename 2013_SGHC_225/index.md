@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - winding up
   - provisional liquidator
-layout: single
+
 ---
 

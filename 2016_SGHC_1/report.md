@@ -8,7 +8,7 @@ tags:
   - award
   - recourse against award
   - setting aside
-layout: single
+
 ---
 # Mount Eastern Holdings Resources Co., Limited v H&C S Holdings Pte Ltd and another matter 
 

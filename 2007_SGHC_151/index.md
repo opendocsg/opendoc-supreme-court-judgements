@@ -9,6 +9,6 @@ tags:
     Plaintiff sought declaration defendant was trustee for plaintiff of shares
     in different companies
   - Whether defendant held shares on trust for plaintiff
-layout: single
+
 ---
 

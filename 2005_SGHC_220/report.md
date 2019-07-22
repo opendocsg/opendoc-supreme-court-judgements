@@ -19,7 +19,7 @@ tags:
   - Rules of construction
   - Apparent conflict between provisions of letter of credit
   - Whether apparently conflicting provisions may be read harmoniously
-layout: single
+
 ---
 # Korea Exchange Bank v Standard Chartered Bank 
 

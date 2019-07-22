@@ -10,7 +10,7 @@ tags:
   - Adjudication
   - Adjudication review determination
   - Setting aside
-layout: single
+
 ---
 # CMC Ravenna Singapore Branch v CGW Construction & Engineering (S) Pte Ltd 
 

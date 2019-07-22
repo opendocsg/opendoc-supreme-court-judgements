@@ -14,6 +14,6 @@ tags:
   - Courts and Jurisdiction
   - Court of appeal
   - Court clarifying own order after order pronounced
-layout: single
+
 ---
 

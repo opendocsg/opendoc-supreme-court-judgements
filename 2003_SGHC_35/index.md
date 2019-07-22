@@ -7,6 +7,6 @@ tags:
   - Transactions at an undervalue
   - Defences
   - Court\'s discretion to deny liquidators\' application.
-layout: single
+
 ---
 

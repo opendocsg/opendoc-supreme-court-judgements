@@ -45,6 +45,6 @@ tags:
   - Charges
   - Certificate of registration of charge issued
   - Effect of registration
-layout: single
+
 ---
 

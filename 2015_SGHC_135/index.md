@@ -5,6 +5,6 @@ tags:
   - Evidenc e
   - Proof of evidenc e
   - Onus of proof
-layout: single
+
 ---
 

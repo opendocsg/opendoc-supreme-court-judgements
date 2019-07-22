@@ -10,7 +10,7 @@ tags:
     Whether court has power to make decree nisi absolute after death of party to
     the marriage
   - 'Section 7 Women’s Charter (Cap 353, 1997 Rev Ed)'
-layout: single
+
 ---
 # Hou Wa Yi v Yap Kiat Cheong (Yap Chai Ling and another, interveners) 
 

@@ -22,6 +22,6 @@ tags:
     Whether sufficient evidence adduced to prove beyond reasonable doubt that
     accused harbouring overstayer
   - 'Section 57(1)(d) Immigration Act (Cap 133, 1997 Rev Ed)'
-layout: single
+
 ---
 

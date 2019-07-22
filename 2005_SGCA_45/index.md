@@ -7,6 +7,6 @@ tags:
   - Whether payee required to present cheques for payment
   - Whether exceptions to requirement for presentation for payment established
   - 'Sections 45, 46(3) and 46(4) Bills of Exchange Act (Cap 23, 1999 Rev Ed)'
-layout: single
+
 ---
 

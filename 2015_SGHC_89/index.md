@@ -8,6 +8,6 @@ tags:
   - Strata titles
   - Management corporation
   - Management council
-layout: single
+
 ---
 

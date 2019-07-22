@@ -30,7 +30,7 @@ tags:
   - Defamation
   - Defamatory statements
   - Whether defamatory in natural and ordinary meaning or by way of innuendo
-layout: single
+
 ---
 # Lee Kuan Yew v Chee Soon Juan 
 

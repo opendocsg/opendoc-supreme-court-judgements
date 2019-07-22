@@ -8,6 +8,6 @@ tags:
   - Contractors’ duties
   - Building and Construction Law
   - Construction torts
-layout: single
+
 ---
 

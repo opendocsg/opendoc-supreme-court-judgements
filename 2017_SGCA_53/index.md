@@ -19,6 +19,6 @@ tags:
   - Damages
   - Appeals
   - Causation
-layout: single
+
 ---
 

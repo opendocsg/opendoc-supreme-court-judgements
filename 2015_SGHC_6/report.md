@@ -8,7 +8,7 @@ tags:
   - Contract
   - Remedies
   - Specific performance
-layout: single
+
 ---
 # Hoy Fatt Pte Ltd v Riway (Singapore) Pte Ltd & another 
 

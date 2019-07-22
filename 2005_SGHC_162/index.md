@@ -13,6 +13,6 @@ tags:
   - >-
     Whether defendant induced to enter into tenancy agreement by alleged
     representation
-layout: single
+
 ---
 

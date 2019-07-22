@@ -5,7 +5,7 @@ tags:
   - Trusts
   - Resulting trusts
   - Presumed resulting trusts
-layout: single
+
 ---
 # Chia Kok Weng v Chia Kwok Yeo and another 
 

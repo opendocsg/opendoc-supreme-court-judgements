@@ -5,7 +5,7 @@ tags:
   - Land
   - Sale of land
   - Remedies under uncompleted contract
-layout: single
+
 ---
 # Chokkanathan Palanimuthu and another v V Jayaram and another 
 

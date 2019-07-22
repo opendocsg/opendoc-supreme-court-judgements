@@ -13,6 +13,6 @@ tags:
   - Scope of works
   - Variations
   - Whether sub-contractor entitled to payment for variation works.
-layout: single
+
 ---
 

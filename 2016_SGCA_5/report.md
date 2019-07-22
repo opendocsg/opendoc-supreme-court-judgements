@@ -10,7 +10,7 @@ tags:
   - Civil procedure
   - Costs
   - Third party costs
-layout: single
+
 ---
 # SIC College of Business and Technology Pte Ltd v Yeo Poh Siah and others 
 

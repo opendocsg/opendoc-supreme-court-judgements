@@ -16,7 +16,7 @@ tags:
     within or outside Singapore
   - Constitutional Law
   - Judicial power
-layout: single
+
 ---
 # Nagaenthran a/l K Dharmalingam v Attorney-General 
 

@@ -10,6 +10,6 @@ tags:
   - Deemed discontinuance
   - Party tendered payment of costs to other party as ordered
   - Whether party had taken step or proceeding in the action
-layout: single
+
 ---
 

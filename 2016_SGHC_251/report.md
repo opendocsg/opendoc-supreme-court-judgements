@@ -5,7 +5,7 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Terms for grant of stay
-layout: single
+
 ---
 # BAF v BAG and others 
 

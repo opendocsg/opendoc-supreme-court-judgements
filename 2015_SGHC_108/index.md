@@ -5,6 +5,6 @@ tags:
   - Damages
   - Measure of damages
   - Contract
-layout: single
+
 ---
 

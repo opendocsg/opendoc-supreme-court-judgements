@@ -13,6 +13,6 @@ tags:
   - Caning
   - Thoroughness of medical assessment required prior to administering sentence
   - 'Section 232(1) Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Credit and security
   - Performance bond
   - Unconscionability exception
-layout: single
+
 ---
 

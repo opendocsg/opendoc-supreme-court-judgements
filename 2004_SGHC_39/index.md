@@ -12,6 +12,6 @@ tags:
   - >-
     Whether petitioner satisfied the three conditions when seeking to adduce
     fresh evidence
-layout: single
+
 ---
 

@@ -4,6 +4,6 @@ subtitle: "[2016] SGHC 132 / 08\_July\_2016"
 tags:
   - Building and Construction Law
   - Statutes and regulations
-layout: single
+
 ---
 

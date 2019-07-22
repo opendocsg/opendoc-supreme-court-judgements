@@ -16,7 +16,7 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Correspondence contained implied admission of debt
-layout: single
+
 ---
 # Cytec Industries Pte Ltd v APP Chemicals International (Mau) Ltd 
 

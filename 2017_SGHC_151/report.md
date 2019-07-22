@@ -8,7 +8,7 @@ tags:
   - Employment Law
   - Wrongful Dismissal
   - Due inquiry
-layout: single
+
 ---
  (a) One month’s salary in lieu of notice $ 17,064. 
 

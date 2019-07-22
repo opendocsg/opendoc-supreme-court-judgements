@@ -43,6 +43,6 @@ tags:
     advocate and solicitor
   - Appropriate sentence for misconduct
   - 'Section 83 Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
   - Whether issues of sufficient difficulty and complexity existing
   - Whether to allow application
   - 'Section 21(1) Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 # Re Platts-Mills Mark Fortescue QC 
 

@@ -11,7 +11,7 @@ tags:
     Whether advocate and solicitor\'s conduct amounting to fraudulent or grossly
     improper conduct
   - Appropriate order to be made
-layout: single
+
 ---
 # Law Society of Singapore v Sivakolunthu Thirunavukarasu 
 

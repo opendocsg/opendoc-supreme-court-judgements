@@ -8,6 +8,6 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Pre-contractual negotiations
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - Administrative law
   - remedies
   - certiorari
-layout: single
+
 ---
 

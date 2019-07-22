@@ -8,6 +8,6 @@ tags:
   - Measure of damages
   - Tort
   - Identity of goods in issue
-layout: single
+
 ---
 

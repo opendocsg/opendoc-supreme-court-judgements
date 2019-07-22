@@ -15,7 +15,7 @@ tags:
   - Construction of statute
   - Purposive approach
   - 'Section 84(4) Road Traffic Act (Cap 276, 2004 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Fernandez Joseph Ferdinent 
 

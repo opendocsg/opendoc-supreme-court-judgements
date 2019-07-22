@@ -6,6 +6,6 @@ tags:
   - Formation
   - Exchange of letters between parties
   - Whether contract concluded
-layout: single
+
 ---
 

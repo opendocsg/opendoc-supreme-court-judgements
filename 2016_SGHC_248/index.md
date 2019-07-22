@@ -8,6 +8,6 @@ tags:
   - Building and Construction Law
   - Damages
   - Delay in Completion
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Benchmark sentences
-layout: single
+
 ---
 # Tay Wee Kiat and another v Public Prosecutor and another appeal 
 

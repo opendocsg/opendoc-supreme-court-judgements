@@ -7,7 +7,7 @@ tags:
   - Muslim Law
   - Syariah court
   - Husband and Muslim wife marrying under Women\'s Charter
-layout: single
+
 ---
 # Noor Azizan bte Colony (alias Noor Azizan bte Mohamed Noor) v Tan Lip Chin (alias Izak 
 

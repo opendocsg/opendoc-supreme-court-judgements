@@ -8,6 +8,6 @@ tags:
   - Equity
   - Remedies
   - Indemnity
-layout: single
+
 ---
 

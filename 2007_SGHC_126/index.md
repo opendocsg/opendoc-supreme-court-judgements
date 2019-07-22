@@ -9,6 +9,6 @@ tags:
   - Claims
   - Contractors\' all-risks policy
   - Scope of all-risks policy
-layout: single
+
 ---
 

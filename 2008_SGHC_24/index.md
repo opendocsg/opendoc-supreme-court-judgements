@@ -11,6 +11,6 @@ tags:
   - Assessment
   - Appeal against assessment of damages by assistant registrar
   - Whether assessment should be altered in light of inadequate evidence of loss
-layout: single
+
 ---
 

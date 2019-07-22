@@ -9,7 +9,7 @@ tags:
   - Damages
   - Equity
   - Equitable compensation
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # B2C2 Ltd _v_ Quoine Pte Ltd  

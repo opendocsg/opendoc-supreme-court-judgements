@@ -4,6 +4,6 @@ subtitle: "[2016] SGHC 51 / 01\_April\_2016"
 tags:
   - Contract
   - Contractual terms
-layout: single
+
 ---
 

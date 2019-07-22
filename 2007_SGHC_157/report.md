@@ -13,7 +13,7 @@ tags:
     successful
   - Whether defendant\'s application oppressive
   - Whether any admission to plaintiff\'s claim made by defendant
-layout: single
+
 ---
 # Fibresteel Industries Pte Ltd v Radovic Dragoslav 
 

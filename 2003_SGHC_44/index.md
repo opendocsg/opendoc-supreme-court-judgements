@@ -7,6 +7,6 @@ tags:
   - Provocation
   - Whether ingredients for defence of grave and sudden provocation met
   - 'Penal Code (Cap 224, 1985 Rev Ed) s 300(c) Exception 1'
-layout: single
+
 ---
 

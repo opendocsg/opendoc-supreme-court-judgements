@@ -5,7 +5,7 @@ tags:
   - Courts and jurisdiction
   - Judges
   - Transfer of cases
-layout: single
+
 ---
 # DFI Engineering Pte Ltd v Mo Mei Jen 
 

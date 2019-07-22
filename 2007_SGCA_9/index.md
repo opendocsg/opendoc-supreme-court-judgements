@@ -22,6 +22,6 @@ tags:
     Whether court should inspect draft reports to assess whether privileged
     information contained therein
   - 'Sections 128, 131 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

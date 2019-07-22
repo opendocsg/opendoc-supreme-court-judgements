@@ -14,6 +14,6 @@ tags:
   - Tort
   - Defamation
   - Justification
-layout: single
+
 ---
 

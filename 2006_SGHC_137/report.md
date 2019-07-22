@@ -12,7 +12,7 @@ tags:
   - Interrogatories
   - Application for leave
   - Whether leave would be granted where dispute governed by arbitration clause
-layout: single
+
 ---
 # Richland Logistics Services Pte Ltd v Biforst Singapore Pte Ltd 
 

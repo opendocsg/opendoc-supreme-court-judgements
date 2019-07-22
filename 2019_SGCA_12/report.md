@@ -7,7 +7,7 @@ tags:
   - Rape
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Yue Roger Jr _v_ Public Prosecutor  

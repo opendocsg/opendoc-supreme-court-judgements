@@ -24,6 +24,6 @@ tags:
     Whether letter of intent sufficient acknowledgment and acceptance of
     existence of tenancy
   - Whether property being occupied purely on periodic basis
-layout: single
+
 ---
 

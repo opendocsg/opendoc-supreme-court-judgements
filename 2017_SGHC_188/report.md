@@ -7,7 +7,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Appeals
-layout: single
+
 ---
 # Public Prosecutor v Tan Kok Leong and another appeal 
 

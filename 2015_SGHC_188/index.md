@@ -6,6 +6,6 @@ tags:
   - judgment and orders
   - Civil Procedure
   - affidavits
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Leave to Appeal
   - Civil Procedure
   - Capacities
-layout: single
+
 ---
 

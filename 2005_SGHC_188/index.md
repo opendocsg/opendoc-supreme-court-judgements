@@ -12,6 +12,6 @@ tags:
     Whether consequences of s 18(a) avoided where workman receiving compensation
     under genuine mistake
   - 'Sections 18(a), 33(2)(a) Workmen\''s Compensation Act (Cap 354, 1998 Rev Ed)'
-layout: single
+
 ---
 

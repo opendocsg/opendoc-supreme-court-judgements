@@ -5,7 +5,7 @@ tags:
   - Building and Construc tion Law
   - Dispute resolution
   - Alternative dispute resolution proc edures
-layout: single
+
 ---
 # Citiwall Safety Glass Pte Ltd v Mansource Interior Pte Ltd 
 

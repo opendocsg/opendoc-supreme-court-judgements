@@ -8,6 +8,6 @@ tags:
   - Companies
   - Minority Oppression
   - Breach of Director’s Duties
-layout: single
+
 ---
 

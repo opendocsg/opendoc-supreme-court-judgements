@@ -10,7 +10,7 @@ tags:
   - >-
     Whether husband should be awarded share of moneys in joint account and
     wife\'s personal account
-layout: single
+
 ---
 # Yap Bee Har v Chan Tai Hock Philip 
 

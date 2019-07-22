@@ -8,7 +8,7 @@ tags:
   - Companies
   - Share options
   - Employees of subsidiary granted options in parent company
-layout: single
+
 ---
 # Tan Ging Hoon v MMI Holdings Ltd and Another Suit 
 

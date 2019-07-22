@@ -9,7 +9,7 @@ tags:
   - >-
     Whether defendant ought to be granted unconditional instead of conditional
     leave to defend
-layout: single
+
 ---
 # Bakery Mart Pte Ltd (In Receivership) v Sincere Watch Ltd 
 

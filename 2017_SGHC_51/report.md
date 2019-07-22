@@ -7,7 +7,7 @@ tags:
   - Contract
   - Contractual terms
   - Express terms
-layout: single
+
 ---
 # Yeo Chock Min and another v Goh Ann Chuan and another 
 

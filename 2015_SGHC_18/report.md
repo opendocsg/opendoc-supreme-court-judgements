@@ -7,7 +7,7 @@ tags:
   - Administrative Law
   - Judicial Review
   - Ambit
-layout: single
+
 ---
 # Tan Seet Eng v Attorney-General 
 

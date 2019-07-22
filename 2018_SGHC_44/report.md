@@ -10,7 +10,7 @@ tags:
   - Trusts
   - Constructive trusts
   - Common intention constructive trusts
-layout: single
+
 ---
 # UJT v UJR and another matter 
 

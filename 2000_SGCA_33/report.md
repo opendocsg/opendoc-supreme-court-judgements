@@ -29,7 +29,7 @@ tags:
   - to injure by lawful means
   - Elements of tort
   - Predominant purpose by conspirators to cause injury to plaintiff
-layout: single
+
 ---
 # Tribune Investment Trust Inc v Soosan Trading Co Ltd 
 

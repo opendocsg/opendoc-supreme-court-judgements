@@ -13,7 +13,7 @@ tags:
   - Contract
   - Remedies
   - Damages
-layout: single
+
 ---
 # Motor Insurers’ Bureau of Singapore and another v AM General Insurance Bhd (formerly 
 

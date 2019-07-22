@@ -6,6 +6,6 @@ tags:
   - Matrimonial assets
   - Division
   - Whether there should be equal division of assets
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - Whether bill of exchange valid
   - Whether drawee estopped from denying validity of accepted bills of exchange
   - ss 3 & 11 Bills of Exchange Act (Cap 23)
-layout: single
+
 ---
 

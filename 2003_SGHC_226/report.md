@@ -22,7 +22,7 @@ tags:
   - Corroboration
   - Sexual offence
   - Approach to be adopted by the courts
-layout: single
+
 ---
 # Goh Han Heng v Public Prosecutor 
 

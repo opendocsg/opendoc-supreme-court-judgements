@@ -10,7 +10,7 @@ tags:
   - Equity
   - Remedies
   - Equitable compensation
-layout: single
+
 ---
 # Lalwani Shalini Gobind and another v Lalwani Ashok Bherumal 
 

@@ -8,7 +8,7 @@ tags:
   - Whether applicant acting in good faith
   - Whether application prima facie in interests of company
   - 'Section 216A Companies Act (Cap 50, 2006 Rev Ed)'
-layout: single
+
 ---
 # Chua Swee Kheng v E3 Holdings Ltd and another 
 

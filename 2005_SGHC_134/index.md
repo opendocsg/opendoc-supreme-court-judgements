@@ -26,6 +26,6 @@ tags:
   - >-
     Whether such misrepresentation inducing defendant to enter into compromise
     arrangements with plaintiff
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Admiralty and Shipping
   - Bills of lading
   - Defendant-carrier issuing bill of lading to plaintiffs-shippers
-layout: single
+
 ---
 # The "Feng Hang and Others" 
 

@@ -8,7 +8,7 @@ tags:
   - Building and Construction Law
   - Damages
   - Delay in completion
-layout: single
+
 ---
 # GPE Pte Ltd v Siemens Pte Ltd 
 

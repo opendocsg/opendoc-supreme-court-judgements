@@ -22,6 +22,6 @@ tags:
   - >-
     Whether wide or narrow meaning of \"enforceable by execution in Singapore\"
     in s 61(1)(d) Bankruptcy Act (Cap 20, 2000 Rev Ed) should be adopted
-layout: single
+
 ---
 

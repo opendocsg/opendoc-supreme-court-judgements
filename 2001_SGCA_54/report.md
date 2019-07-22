@@ -8,7 +8,7 @@ tags:
   - >-
     Application by appellant for order compelling Law Society to appoint
     disciplinary committee to investigate complaint
-layout: single
+
 ---
 # Wee Soon Kim Anthony v The Law Society of Singapore (No 3) 
 

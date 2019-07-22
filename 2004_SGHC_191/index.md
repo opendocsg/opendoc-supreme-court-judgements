@@ -14,6 +14,6 @@ tags:
   - Directors
   - Duties
   - Nature of fiduciary duties owed by director to company
-layout: single
+
 ---
 

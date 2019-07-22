@@ -33,6 +33,6 @@ tags:
     Whether particulars of temple property in land-register erroneous and
     constituting questionable entry
   - 'Section 5(3) Land Acquisition Act (Cap 152, 1985 Rev Ed)'
-layout: single
+
 ---
 

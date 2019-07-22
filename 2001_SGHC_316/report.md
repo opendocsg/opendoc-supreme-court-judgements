@@ -11,7 +11,7 @@ tags:
   - Whether leave should be granted
   - Relevant factors
   - Whether undue delay exists
-layout: single
+
 ---
 # Lam Soon Oil and Soap Manufacturing Sdn Bhd and Another v Whang Tar Choung and 
 

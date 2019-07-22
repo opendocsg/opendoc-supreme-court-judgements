@@ -5,6 +5,6 @@ tags:
   - Tort
   - assault and battery
   - wrongful arrest
-layout: single
+
 ---
 

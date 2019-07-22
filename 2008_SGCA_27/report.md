@@ -25,7 +25,7 @@ tags:
   - Whether agent considered insured\'s insurance agent
   - Duties of gratuitous insurance agents
   - Whether agent potentially liable for breach of duty
-layout: single
+
 ---
 # Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd 
 

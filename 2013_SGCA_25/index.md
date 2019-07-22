@@ -9,6 +9,6 @@ tags:
   - SHERIFFS AND BAILIFFS
   - Duties
   - Liabilities
-layout: single
+
 ---
 

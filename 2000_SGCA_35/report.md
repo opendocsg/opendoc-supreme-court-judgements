@@ -31,7 +31,7 @@ tags:
   - Commercial financing arrangement
   - Provision of bank guarantee to procure overdraft facilities
   - Whether funds from overdraft facilities held on trust for guarantor
-layout: single
+
 ---
 # Friis and Another v Casetech Trading Pte Ltd and Others 
 

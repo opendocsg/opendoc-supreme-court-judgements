@@ -22,6 +22,6 @@ tags:
   - Expert evidence unchallenged
   - Whether court can to reject expert\'s opinion and substitute it with its own
   - Whether expert evidence based on sound grounds and supported by basic facts
-layout: single
+
 ---
 

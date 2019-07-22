@@ -13,7 +13,7 @@ tags:
   - Tort
   - Negligence
   - Damages
-layout: single
+
 ---
 # Armstrong, Carol Ann (executrix of the estate of Peter Traynor, deceased and on behalf of 
 

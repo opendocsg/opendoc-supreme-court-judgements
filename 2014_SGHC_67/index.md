@@ -6,6 +6,6 @@ tags:
   - Bankruptcy
   - Statutory demand
   - Setting aside of statutory demand
-layout: single
+
 ---
 

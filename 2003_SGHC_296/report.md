@@ -9,7 +9,7 @@ tags:
     Whether the plaintiff was entitled to summary judgment for monies disbursed
     to the defendant under credit facilities
   - Whether there was an issue to be tried or some other reason for a trial.
-layout: single
+
 ---
 # Societe Generale v Tai Kee Sing @ Tai Hean Sing 
 

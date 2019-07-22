@@ -21,6 +21,6 @@ tags:
   - >-
     Whether restrictive covenants amounting to restraint of trade and therefore
     invalid
-layout: single
+
 ---
 

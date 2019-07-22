@@ -13,6 +13,6 @@ tags:
     Whether conviction and sentence could be set aside on the ground that
     petitioner could produce Malaysian passports and certificate of citizenship
     to show that he was a Malaysian citizen.
-layout: single
+
 ---
 

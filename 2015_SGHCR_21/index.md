@@ -24,6 +24,6 @@ tags:
   - Formation
   - Evidence
   - Admissibility of evidence
-layout: single
+
 ---
 

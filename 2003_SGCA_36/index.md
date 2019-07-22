@@ -9,6 +9,6 @@ tags:
   - >-
     Whether defendant ought to be granted unconditional instead of conditional
     leave to defend
-layout: single
+
 ---
 

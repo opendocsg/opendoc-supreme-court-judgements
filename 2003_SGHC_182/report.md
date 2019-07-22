@@ -22,7 +22,7 @@ tags:
     Inconsistencies minor in nature or related to minor issues Whether evidence
     in respect of key issues undermined
   - Whether court entitled to accept one part of testimony and reject other part
-layout: single
+
 ---
 # Balasundaram s/o Suppiah v Public Prosecutor 
 

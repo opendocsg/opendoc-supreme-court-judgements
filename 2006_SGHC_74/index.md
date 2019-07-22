@@ -10,6 +10,6 @@ tags:
     petition by defendant pending determination of plaintiff\'s counterclaim
     against defendant
   - Applicable principles for grant of injunction
-layout: single
+
 ---
 

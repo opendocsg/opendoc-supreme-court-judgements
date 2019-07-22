@@ -14,6 +14,6 @@ tags:
   - Tort
   - Negligence
   - Causation
-layout: single
+
 ---
 

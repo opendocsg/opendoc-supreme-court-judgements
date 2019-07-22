@@ -21,7 +21,7 @@ tags:
   - >-
     Whether trial judge correct in admitting statements of co-accused but
     choosing not to attach any weight to it
-layout: single
+
 ---
 # Public Prosecutor v Fazely Bin Rahmat and Another and Another Case 
 

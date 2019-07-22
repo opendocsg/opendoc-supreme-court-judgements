@@ -26,6 +26,6 @@ tags:
   - >-
     Whether tax agent liable for pure economic loss suffered by company as
     result of tax agent\'s failure to warn company accordingly
-layout: single
+
 ---
 

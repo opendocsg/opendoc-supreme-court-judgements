@@ -10,7 +10,7 @@ tags:
   - Appeal from Registrar to judge in chambers
   - Whether component or global approach to assessment
   - Whether to substitute exercise of discretion
-layout: single
+
 ---
 # Tan Yu Min Winston (by his next friend Tan Cheng Tong) v Uni-Fruitveg Pte Ltd 
 

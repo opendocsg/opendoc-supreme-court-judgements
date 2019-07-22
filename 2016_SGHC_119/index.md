@@ -11,6 +11,6 @@ tags:
   - Formation
   - Enlistment Act
   - Singapore Armed Forces Act
-layout: single
+
 ---
 

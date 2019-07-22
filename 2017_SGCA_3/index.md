@@ -8,6 +8,6 @@ tags:
   - Civil Procedure
   - Appeals
   - Notice
-layout: single
+
 ---
 

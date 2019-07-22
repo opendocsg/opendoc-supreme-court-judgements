@@ -6,7 +6,7 @@ tags:
   - Aggravating and mitigating factors
   - Restitution
   - Totality principle
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Gan Chai Bee Anne _v_ Public Prosecutor  

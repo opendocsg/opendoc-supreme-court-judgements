@@ -16,7 +16,7 @@ tags:
   - >-
     Whether plaintiff had sued the right party, viz. the party who issued the
     bill of lading.
-layout: single
+
 ---
 # M-Power Development Pte Ltd v Goodway Agencies (Shipping) Pte Ltd 
 

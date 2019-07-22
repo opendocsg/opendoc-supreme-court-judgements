@@ -23,6 +23,6 @@ tags:
     lack of due diligence on the part of the occupier as a ground of appeal
     against conviction
   - Factories Act (Cap 104) s 92.
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Constitution
   - Unincorporated Associations and Trade Unions
   - Meetings
-layout: single
+
 ---
 # Devagi d/o Narayanan (alias Devaki Nair) and another v Wong Poh Choy Tommy (alias 
 

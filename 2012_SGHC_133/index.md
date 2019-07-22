@@ -8,6 +8,6 @@ tags:
   - Confidential Information
   - Contract
   - Restraint of Trade
-layout: single
+
 ---
 

@@ -19,6 +19,6 @@ tags:
   - >-
     Whether terms of reference appointing independent adjudicator was for
     process of expert determination
-layout: single
+
 ---
 

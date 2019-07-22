@@ -49,6 +49,6 @@ tags:
     office
   - Principles of assessment
   - Quantification of damages
-layout: single
+
 ---
 

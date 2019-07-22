@@ -6,6 +6,6 @@ tags:
   - Leave to commence arbitration proceedings
   - Civil Procedure
   - Summary judgment
-layout: single
+
 ---
 

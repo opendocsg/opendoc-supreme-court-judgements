@@ -9,6 +9,6 @@ tags:
     company
   - Plaintiff claiming payment for assignment
   - Whether plaintiff had full title to invention or the patent application
-layout: single
+
 ---
 

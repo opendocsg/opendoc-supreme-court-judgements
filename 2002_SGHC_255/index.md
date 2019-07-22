@@ -19,6 +19,6 @@ tags:
   - >-
     Whether arrest of vessel should be set aside on ground of non-disclosure of
     material facts
-layout: single
+
 ---
 

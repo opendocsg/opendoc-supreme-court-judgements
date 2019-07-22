@@ -5,6 +5,6 @@ tags:
   - criminal law
   - offences
   - culpable homicide
-layout: single
+
 ---
 

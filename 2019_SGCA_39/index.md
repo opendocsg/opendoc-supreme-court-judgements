@@ -14,6 +14,6 @@ tags:
   - Contract
   - Contractual terms
   - Incorporation by reference
-layout: single
+
 ---
 

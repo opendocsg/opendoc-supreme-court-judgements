@@ -4,6 +4,6 @@ title: >-
   V4X Joint
 subtitle: "[2009] SGHC 16 / 13\_January\_2009"
 tags: null
-layout: single
+
 ---
 

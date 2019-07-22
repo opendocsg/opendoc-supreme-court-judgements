@@ -6,7 +6,7 @@ tags:
   - Negligence
   - Contributory negligence
   - Plaintiff contributorily negligent in road accident
-layout: single
+
 ---
 # Ang Kuang Hoe v Chia Chor Yew 
 

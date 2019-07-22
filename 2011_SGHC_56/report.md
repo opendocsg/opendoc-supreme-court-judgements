@@ -6,7 +6,7 @@ tags:
   - Striking Out
   - Constitutional Law
   - Fundamental Liberties
-layout: single
+
 ---
 # Tan Eng Hong v Attorney-General 
 

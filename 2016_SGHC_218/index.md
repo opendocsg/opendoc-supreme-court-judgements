@@ -12,6 +12,6 @@ tags:
   - Conflict of Laws
   - Choice of law
   - Contract
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - 'Sale of Goods, Equity'
   - 'Fraud, Civil Procedure'
   - Pleadings
-layout: single
+
 ---
 # Taka Jewellery Pte Ltd v Tan Choon Sim 
 

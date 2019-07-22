@@ -15,6 +15,6 @@ tags:
   - Family Law
   - Matrimonial home
   - Matrimonial home purchased jointly by husband and wife
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
     Whether parties to the arbitration agreement have consented to extend the
     agreement to a person who was not a party to the agreement but who accepts
     to be bound by it
-layout: single
+
 ---
 # The “Titan Unity” 
 

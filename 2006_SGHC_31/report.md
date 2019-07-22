@@ -14,7 +14,7 @@ tags:
   - Unfair preferences
   - Whether creditors unduly preferred by receiving payments
   - 'Section 100(1) Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 # Jenton Overseas Investment Pte Ltd v Townsing Henry George 
 

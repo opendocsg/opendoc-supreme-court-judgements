@@ -7,7 +7,7 @@ tags:
   - Land
   - Strata titles
   - Collective sales
-layout: single
+
 ---
 # Lim Li Meng Dominic and others v Ching Pui Sim Sally and another and another matter 
 

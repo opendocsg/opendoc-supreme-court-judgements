@@ -8,7 +8,7 @@ tags:
   - Striking Out
   - Civil Procedure
   - Costs
-layout: single
+
 ---
 # Likpin International Ltd v Swiber Holdings Ltd and another 
 

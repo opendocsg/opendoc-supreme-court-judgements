@@ -14,6 +14,6 @@ tags:
   - Companies
   - Winding up
   - Conversion of members’ voluntary liquidation to compulsory winding up
-layout: single
+
 ---
 

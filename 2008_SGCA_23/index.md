@@ -43,6 +43,6 @@ tags:
   - >-
     Whether communication of matters relating to accident sufficient to found
     duty of care
-layout: single
+
 ---
 

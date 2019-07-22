@@ -15,7 +15,7 @@ tags:
   - >-
     Whether defendant can rely on indemnity clause in action against the third
     parties.
-layout: single
+
 ---
 # SIS Technologies Pte Ltd v Chan Beng Wai (Tan Kuan Yew and Others, Third Parties) 
 

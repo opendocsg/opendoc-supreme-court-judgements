@@ -7,6 +7,6 @@ tags:
   - >-
     Whether plaintiff\'s claim for breach of contract was settled by deed of
     settlement and release.
-layout: single
+
 ---
 

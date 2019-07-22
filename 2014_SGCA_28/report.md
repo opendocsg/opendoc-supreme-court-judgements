@@ -7,7 +7,7 @@ tags:
   - Land
   - Sale of Land
   - Contrac t
-layout: single
+
 ---
 # Ting Siew May v Boon Lay Choo and another 
 

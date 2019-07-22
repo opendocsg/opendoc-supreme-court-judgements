@@ -5,7 +5,7 @@ tags:
   - Contract
   - Loans
   - Whether the plaintiff extended a loan to the defendant
-layout: single
+
 ---
 # Chua Siew Moi v Oh Thai Nan 
 

@@ -12,7 +12,7 @@ tags:
   - >-
     Causing hurt by act which endangers life or personal safety and voluntarily
     causing hurt to domestic maid
-layout: single
+
 ---
 # Public Prosecutor v Yong Siew Khian 
 

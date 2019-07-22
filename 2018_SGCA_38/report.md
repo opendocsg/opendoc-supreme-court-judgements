@@ -10,7 +10,7 @@ tags:
   - Tort
   - Negligence
   - Solicitors’ duties
-layout: single
+
 ---
 # Wibowo Boediono and another v Cristian Priwisata Yacob and another and other appeals 
 

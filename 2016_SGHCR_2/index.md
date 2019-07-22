@@ -8,6 +8,6 @@ tags:
   - Summary Judgment
   - Contract
   - Quantum Meruit
-layout: single
+
 ---
 

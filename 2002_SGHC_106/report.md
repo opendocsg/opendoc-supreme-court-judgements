@@ -20,7 +20,7 @@ tags:
   - Courts and Jurisdiction
   - Court judgments
   - Consent order following settlement agreement
-layout: single
+
 ---
 # CSR South East Asia Pte Ltd (formerly known as CSR Bradford Insulation (S) Pte Ltd) v 
 

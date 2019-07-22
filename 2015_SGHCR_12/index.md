@@ -6,6 +6,6 @@ tags:
   - Discovery
   - Conflicts of Law
   - Comity
-layout: single
+
 ---
 

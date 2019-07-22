@@ -22,7 +22,7 @@ tags:
   - >-
     Whether relationship of sufficient proximity established between gratuitous
     agent and principal
-layout: single
+
 ---
 # Koh Keow Neo and Others v Chee Johnny and Others 
 

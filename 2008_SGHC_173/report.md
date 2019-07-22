@@ -49,7 +49,7 @@ tags:
     office
   - Principles of assessment
   - Quantification of damages
-layout: single
+
 ---
 # Lee Hsien Loong v Singapore Democratic Party and Others and Another Suit 
 

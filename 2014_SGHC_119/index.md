@@ -8,6 +8,6 @@ tags:
   - Partners Inter Se
   - Admission of New Partner
   - Shares in Partnership
-layout: single
+
 ---
 

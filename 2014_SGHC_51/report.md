@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - Discovery of documents
   - Application
-layout: single
+
 ---
 # Koh Chong Chiah and others v Treasure Resort Pte Ltd and another 
 

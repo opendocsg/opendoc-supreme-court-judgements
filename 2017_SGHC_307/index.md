@@ -8,6 +8,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Culpable Homicide
-layout: single
+
 ---
 

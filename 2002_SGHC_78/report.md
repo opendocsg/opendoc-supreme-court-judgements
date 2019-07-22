@@ -12,7 +12,7 @@ tags:
   - First offenders
   - Pleading guilty at first opportunity
   - No use of weapons in assault
-layout: single
+
 ---
 # Public Prosecutor v Jamal anak Nyalau and Others 
 

@@ -13,6 +13,6 @@ tags:
   - Award
   - Challenge against arbitrator
   - Bias
-layout: single
+
 ---
 

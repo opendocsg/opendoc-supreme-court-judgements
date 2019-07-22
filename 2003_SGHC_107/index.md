@@ -16,6 +16,6 @@ tags:
     Application to amend originating motion seeking to set aside arbitration
     award after relevant limitation period
   - 'Rules of Court (Cap 322, R 5, 1997 Rev Ed) O 20 r 5'
-layout: single
+
 ---
 

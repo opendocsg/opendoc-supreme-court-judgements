@@ -7,7 +7,7 @@ tags:
   - Consent order
   - Interpretation of the terms
   - Relevant principles
-layout: single
+
 ---
 # Malayan Banking Berhad v Measurex Engineering Pte Ltd and Another 
 

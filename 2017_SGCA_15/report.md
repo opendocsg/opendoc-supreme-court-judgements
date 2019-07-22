@@ -12,7 +12,7 @@ tags:
   - Family Law
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 # TNL v TNK and another appeal and another matter 
 

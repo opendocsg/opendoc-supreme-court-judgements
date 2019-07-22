@@ -6,6 +6,6 @@ tags:
   - Judges
   - Transfer of cases
   - Application to transfer proceedings in District Court to High Court
-layout: single
+
 ---
 

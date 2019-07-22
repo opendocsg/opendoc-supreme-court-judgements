@@ -19,7 +19,7 @@ tags:
     Whether O 21 r 2(6) Rules of Court (Cap 322, R 5, 1997 Rev Ed) inconsistent
     with s 6(3) Limitation Act (Cap 163, 1996 Rev Ed) if applied to action after
     interlocutory judgment entered
-layout: single
+
 ---
 # Tan Kim Seng v Ibrahim Victor Adam 
 

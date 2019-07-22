@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Representation of companies
   - Order 1 rule 9
-layout: single
+
 ---
 # (2) 
 

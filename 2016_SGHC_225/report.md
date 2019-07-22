@@ -11,7 +11,7 @@ tags:
   - Equity
   - Remedies
   - Equitable accounting
-layout: single
+
 ---
 # Foo Jee Boo v Foo Jee Seng 
 

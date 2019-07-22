@@ -7,7 +7,7 @@ tags:
   - Review of conviction
   - High Court called for records of proceedings to review case
   - Whether accused should have been convicted of charge
-layout: single
+
 ---
 # Public Prosecutor v Jaykumaran s/o Saminathan Retinam 
 

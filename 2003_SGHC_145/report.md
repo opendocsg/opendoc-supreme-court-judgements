@@ -18,7 +18,7 @@ tags:
   - >-
     Whether employee owed parent c ompany duties though he was employed by its
     subsidiaries.
-layout: single
+
 ---
 # Shepherd Andrew v BIL International Ltd 
 

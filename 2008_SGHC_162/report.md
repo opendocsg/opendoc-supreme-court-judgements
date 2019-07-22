@@ -31,7 +31,7 @@ tags:
   - >-
     Whether court might reach meaning of allegedly defamatory words different
     from that pleaded
-layout: single
+
 ---
 # Lee Hsien Loong v Review Publishing Co Ltd and Another and Another Suit 
 

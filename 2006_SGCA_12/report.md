@@ -26,7 +26,7 @@ tags:
   - >-
     No easement of way registered against certificate of title of adjoining
     property
-layout: single
+
 ---
 # Cheng-Wong Mei Ling Theresa v Oei Hong Leong 
 

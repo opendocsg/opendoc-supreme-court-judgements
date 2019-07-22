@@ -6,6 +6,6 @@ tags:
   - Admiralty jurisdiction and arrest
   - Wrongful arrest
   - Damages for wrongful arrest
-layout: single
+
 ---
 

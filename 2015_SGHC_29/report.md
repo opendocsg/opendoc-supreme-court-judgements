@@ -14,7 +14,7 @@ tags:
   - Family Law
   - matrimonial assets
   - division
-layout: single
+
 ---
 # AQB v AQC 
 

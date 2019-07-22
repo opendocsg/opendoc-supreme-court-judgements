@@ -10,6 +10,6 @@ tags:
     ceremony and wedding dinner or consummation of marriage
   - Property bought with money won by defendants in lottery
   - Whether property a matrimonial asset
-layout: single
+
 ---
 

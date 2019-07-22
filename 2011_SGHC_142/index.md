@@ -8,6 +8,6 @@ tags:
   - Constitutional law
   - natural justice
   - bias
-layout: single
+
 ---
 

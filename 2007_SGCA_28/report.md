@@ -14,7 +14,7 @@ tags:
   - Whether one party being denied right to be heard
   - Whether award should be set aside or remitted to arbitrator
   - 'Section 48(1)(a)(vii) Arbitration Act (Cap 10, 2002 Rev Ed)'
-layout: single
+
 ---
 # Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd 
 

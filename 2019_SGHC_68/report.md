@@ -18,7 +18,7 @@ tags:
   - Implied terms
   - Formation
   - Certainty of terms
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Independent State of Papua New Guinea _v_ PNG Sustainable Development Program Ltd  

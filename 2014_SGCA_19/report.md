@@ -6,7 +6,7 @@ tags:
   - Summary Judgment
   - Contract
   - Interpretation
-layout: single
+
 ---
 # Olivine Capital Pte Ltd and another v Chia Chin Yan and another matter 
 

@@ -6,7 +6,7 @@ tags:
   - Stay of proceedings
   - Conflict of Laws
   - Natural forum
-layout: single
+
 ---
 # Fan Heli v Zhang Shujing and others 
 

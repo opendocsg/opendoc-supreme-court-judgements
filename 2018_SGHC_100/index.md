@@ -6,6 +6,6 @@ tags:
   - judgments and orders
   - Civil procedure
   - service
-layout: single
+
 ---
 

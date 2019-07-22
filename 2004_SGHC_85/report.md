@@ -10,7 +10,7 @@ tags:
   - Sentencing
   - Mentally disordered offenders
   - Whether life imprisonment appropriate.
-layout: single
+
 ---
 # Public Prosecutor v Ng Kwang Lim 
 

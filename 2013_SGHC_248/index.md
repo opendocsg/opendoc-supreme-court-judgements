@@ -10,6 +10,6 @@ tags:
   - Arbitration
   - New York Convention
   - Grounds for refusal
-layout: single
+
 ---
 

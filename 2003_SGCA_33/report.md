@@ -27,7 +27,7 @@ tags:
     Interpretation of proviso to s 11(3) of the Criminal Procedure Code (Cap 68,
     1985 Rev Ed)
   - 'Sections 9A and 41 Interpretation Act (Cap 1, 2002 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Pius Gilbert Louis 
 

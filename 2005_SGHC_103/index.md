@@ -14,6 +14,6 @@ tags:
   - Duties
   - Court
   - Relationship between solicitor\'s duty to client and duty to court
-layout: single
+
 ---
 

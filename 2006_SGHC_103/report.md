@@ -13,7 +13,7 @@ tags:
     for sale of goods amounting to election at common law precluding plaintiff
     from exercising right to sue shipowner
   - Whether plaintiff\'s remedies alternative or cumulative
-layout: single
+
 ---
 # The "Pacific Vigorous" 
 

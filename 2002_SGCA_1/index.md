@@ -14,6 +14,6 @@ tags:
   - Injuries sufficient in ordinary course of nature to cause death
   - Whether requisite intention for murder proved beyond reasonable doubt
   - s 300(c) Penal Code (Cap 224)
-layout: single
+
 ---
 

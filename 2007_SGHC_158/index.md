@@ -12,6 +12,6 @@ tags:
     which house owner had knowledge of architects\' negligence in issuing
     termination certificate
   - 'Sections 6, 24A(3) Limitation Act (Cap 163, 1996 Rev Ed)'
-layout: single
+
 ---
 

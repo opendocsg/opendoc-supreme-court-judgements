@@ -9,7 +9,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Acquittal
-layout: single
+
 ---
 # Ajmer Singh s/o Ajit Singh v Chua Hock Kwee 
 

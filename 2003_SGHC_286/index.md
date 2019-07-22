@@ -41,6 +41,6 @@ tags:
   - >-
     Whether first defendants vic ariously liable for damage c aused by fifth
     defendants
-layout: single
+
 ---
 

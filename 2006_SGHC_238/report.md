@@ -6,7 +6,7 @@ tags:
   - Sale of goods
   - Breach of contract
   - Damages for breach of contract
-layout: single
+
 ---
 # Smith & Associates Far East Ltd v Britestone Pte Ltd 
 

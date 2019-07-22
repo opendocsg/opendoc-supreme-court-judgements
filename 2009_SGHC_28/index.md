@@ -13,6 +13,6 @@ tags:
   - Duties of agent
   - Agency relationship between housing agent and principal
   - Breach
-layout: single
+
 ---
 

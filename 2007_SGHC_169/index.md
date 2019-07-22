@@ -6,6 +6,6 @@ tags:
   - Conspiracy
   - Company and director as co-conspirators
   - Company overcharging customer
-layout: single
+
 ---
 

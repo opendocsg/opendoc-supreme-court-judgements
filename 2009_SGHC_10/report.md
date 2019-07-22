@@ -9,7 +9,7 @@ tags:
     admitted in earlier proceedings
   - Whether raising defence of waiver and estoppel amounted to abuse of process
   - Whether resjudicata arose
-layout: single
+
 ---
 # The "Banga Borat" 
 

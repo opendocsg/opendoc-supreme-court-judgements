@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - Electronic discovery
-layout: single
+
 ---
 # Invenpro (M) Sdn Bhd v JCS Automation Pte Ltd and another 
 

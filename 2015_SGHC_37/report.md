@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Scheme of enhanced punishments under the Misuse of Drugs Act
-layout: single
+
 ---
 # Lee Chuan Meng v Public Prosecutor 
 

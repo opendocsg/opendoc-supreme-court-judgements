@@ -5,6 +5,6 @@ tags:
   - Contempt of Court
   - Civil contempt
   - Execution of order of committal
-layout: single
+
 ---
 

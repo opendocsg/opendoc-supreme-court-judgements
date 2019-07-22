@@ -21,7 +21,7 @@ tags:
   - Ambiguity
   - Extrinsic aids
   - Purposive approach
-layout: single
+
 ---
 # Public Prosecutor v Low Kok Heng 
 

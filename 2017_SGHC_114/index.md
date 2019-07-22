@@ -8,6 +8,6 @@ tags:
   - Natural justice
   - Building and Construction Law
   - Statutes and regulations
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Admissibility of Evidence
   - Equity
   - Remedies
-layout: single
+
 ---
 

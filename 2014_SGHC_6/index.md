@@ -6,6 +6,6 @@ tags:
   - Summary judgment
   - Civil procedure
   - Offer to settle
-layout: single
+
 ---
 

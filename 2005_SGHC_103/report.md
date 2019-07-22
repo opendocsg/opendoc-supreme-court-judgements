@@ -14,7 +14,7 @@ tags:
   - Duties
   - Court
   - Relationship between solicitor\'s duty to client and duty to court
-layout: single
+
 ---
 # Public Trustee and Another v By Products Traders Pte Ltd and Others 
 

@@ -6,7 +6,7 @@ tags:
   - Dispute resolution
   - Adjudication
   - Setting aside adjudication determination
-layout: single
+
 ---
 # Bintai Kindenko Pte Ltd v Samsung C&T Corp 
 

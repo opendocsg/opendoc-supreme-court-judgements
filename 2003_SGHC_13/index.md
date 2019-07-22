@@ -6,6 +6,6 @@ tags:
   - Strata titles
   - Adverse possession
   - Whether applicant had requisite exclusive possession
-layout: single
+
 ---
 

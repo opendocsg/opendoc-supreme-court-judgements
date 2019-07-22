@@ -10,6 +10,6 @@ tags:
   - Nuisance
   - Essential factors
   - Collision between moving vehicle and parked vehicle
-layout: single
+
 ---
 

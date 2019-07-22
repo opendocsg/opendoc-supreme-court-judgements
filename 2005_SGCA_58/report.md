@@ -23,7 +23,7 @@ tags:
     Whether appeal against striking-out order barred due to appellant\'s
     non-compliance with s 34(1)(c) Supreme Court of Judicature Act
   - 'Section 34(1)(c) Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed)'
-layout: single
+
 ---
 # Lai Swee Lin Linda v Attorney-General 
 

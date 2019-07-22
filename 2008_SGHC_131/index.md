@@ -22,6 +22,6 @@ tags:
   - >-
     Whether damages for loss of bargain could be claimed by applying multiplier
     used to derive purchase price
-layout: single
+
 ---
 

@@ -20,6 +20,6 @@ tags:
     Whether caning or fine imposed in respect of each charge all charges under s
     57(1)(e)
   - 'ss 57(1A) & 57(1B) Immigration Act (Cap 133, 1997 Rev Ed)'
-layout: single
+
 ---
 

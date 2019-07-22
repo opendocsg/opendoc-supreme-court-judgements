@@ -10,7 +10,7 @@ tags:
   - Contract
   - Contractual terms
   - Fundamental breach
-layout: single
+
 ---
 # Phosagro Asia Pte Ltd v Piattchanine, Iouri 
 

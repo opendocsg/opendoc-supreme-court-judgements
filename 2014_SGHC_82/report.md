@@ -6,7 +6,7 @@ tags:
   - Disciplinary Tribunals
   - Administrative Law
   - Natural Justice
-layout: single
+
 ---
 # Lawrence Khong Kin Hoong v Singapore Polo Club 
 

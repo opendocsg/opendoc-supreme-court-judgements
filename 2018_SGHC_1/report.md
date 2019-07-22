@@ -7,7 +7,7 @@ tags:
   - Misuse of Drugs Act
   - Statutory interpretation
   - Construction of statute
-layout: single
+
 ---
 # Public Prosecutor v Rahmat bin Karimon and another 
 

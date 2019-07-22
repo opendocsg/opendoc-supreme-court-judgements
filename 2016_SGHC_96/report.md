@@ -5,7 +5,7 @@ tags:
   - Damages
   - Measure of damages
   - Personal injuries cases
-layout: single
+
 ---
 # Quek Yen Fei Kenneth v Yeo Chye Huat 
 

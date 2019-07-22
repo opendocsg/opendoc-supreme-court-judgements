@@ -13,6 +13,6 @@ tags:
   - >-
     Whether liquidator bound by estoppels against the company or an account
     stated with the company
-layout: single
+
 ---
 

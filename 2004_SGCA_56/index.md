@@ -26,6 +26,6 @@ tags:
     Trial judge remarking that appellant had not created any doubt that his
     statement was procured by threat
   - Whether trial judge correct in making such remark
-layout: single
+
 ---
 

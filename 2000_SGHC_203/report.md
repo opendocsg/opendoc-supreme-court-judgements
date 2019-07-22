@@ -16,7 +16,7 @@ tags:
   - Negligence
   - Bank disposing of or holding over shares at its discretion
   - Whether negligent in not selling all shares
-layout: single
+
 ---
 # Bayerische Landesbank Girozentrale v Teh Li Li 
 

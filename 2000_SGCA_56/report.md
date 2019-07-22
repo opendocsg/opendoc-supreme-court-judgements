@@ -29,7 +29,7 @@ tags:
   - Common property
   - Tenants-in-common
   - Proportionately abated damages
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 1938 v Goodview Properties Pte Ltd 
 

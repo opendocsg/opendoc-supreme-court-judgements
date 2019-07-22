@@ -11,6 +11,6 @@ tags:
   - Tort
   - negligence
   - damages
-layout: single
+
 ---
 

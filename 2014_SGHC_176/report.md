@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - striking out
   - judicial immunity
-layout: single
+
 ---
 # Ho Pak Kim Realty Co Pte Ltd v Attorney-General 
 

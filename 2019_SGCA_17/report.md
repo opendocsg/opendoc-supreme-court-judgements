@@ -7,7 +7,7 @@ tags:
   - Misuse of Drugs Act
   - Statutory interpretation
   - Construction of statute
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ramesh a/l Perumal _v_ Public Prosecutor and another appeal  

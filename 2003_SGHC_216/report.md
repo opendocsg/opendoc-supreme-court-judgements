@@ -14,7 +14,7 @@ tags:
   - Appeal to High Court on Board\'s decision
   - Whether Board in error of law
   - 'Land Titles (Strata) Act (Cap 158, 1999 Rev Ed) ss 84D, 108(1)'
-layout: single
+
 ---
 # Koh Gek Hwa v Yang Hwai Ming and Another 
 

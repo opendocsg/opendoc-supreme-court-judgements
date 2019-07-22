@@ -5,7 +5,7 @@ tags:
   - Trade Marks and Trade Names
   - Registration criteria
   - Conflicts with earlier marks
-layout: single
+
 ---
  S/N Mark and Registration No 
 

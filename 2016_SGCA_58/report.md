@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Offences
   - Rape
-layout: single
+
 ---
 # Haliffie bin Mamat v Public Prosecutor & other appeals 
 

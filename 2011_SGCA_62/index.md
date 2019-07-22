@@ -8,6 +8,6 @@ tags:
   - Civil procedure
   - pleadings
   - striking out
-layout: single
+
 ---
 

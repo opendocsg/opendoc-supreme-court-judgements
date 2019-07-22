@@ -10,6 +10,6 @@ tags:
   - conditional
   - Succession and wills
   - construction
-layout: single
+
 ---
 

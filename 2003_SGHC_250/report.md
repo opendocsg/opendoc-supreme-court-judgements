@@ -32,7 +32,7 @@ tags:
   - Passing off
   - Whether requirements of passing off met
   - Whether any defence applicable
-layout: single
+
 ---
 # Pan-West (Pte) Ltd v Grand Bigwin Pte Ltd 
 

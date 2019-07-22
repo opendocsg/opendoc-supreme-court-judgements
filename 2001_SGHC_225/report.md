@@ -15,7 +15,7 @@ tags:
   - \'Wages\'
   - \'Granted\'
   - 's 2 Central Provident Fund Act (Cap 36, 1999 Ed)'
-layout: single
+
 ---
 # Ponggol Marina Pte Ltd v Central Provident Fund Board (Public Prosecutor) 
 

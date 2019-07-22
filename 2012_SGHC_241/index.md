@@ -11,6 +11,6 @@ tags:
   - International Law
   - extradition
   - speciality
-layout: single
+
 ---
 

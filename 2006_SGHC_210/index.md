@@ -36,6 +36,6 @@ tags:
   - >-
     Section 3(1) Reciprocal Enforcement of Commonwealth Judgments Act (Cap 264,
     1985 Rev-Ed)
-layout: single
+
 ---
 

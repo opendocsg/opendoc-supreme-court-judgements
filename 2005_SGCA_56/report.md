@@ -6,7 +6,7 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Trafficking in controlled drugs
-layout: single
+
 ---
 # Mohd Halmi bin Hamid and Another v Public Prosecutor 
 

@@ -21,6 +21,6 @@ tags:
     First and second defendants entering into negotiations to deal directly with
     first plaintiff\'s customers
   - Whether second defendant liable for inducing breach of contract
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - Tort
   - Misrepresentation
   - Whether any loss occasioned by alleged misrepresentation.
-layout: single
+
 ---
 # Wee Soon Kim Anthony v UBS AG (No 4) 
 

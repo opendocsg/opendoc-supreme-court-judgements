@@ -5,6 +5,6 @@ tags:
   - Restitution
   - Failure of consideration
   - Total failure of consideration
-layout: single
+
 ---
 

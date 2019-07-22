@@ -22,7 +22,7 @@ tags:
   - >-
     Whether the defendant could seek contribution from the two plaintiffs on the
     ground of contributory negligence
-layout: single
+
 ---
 # Ari bin Abdullah (by his committee of person and estate, Sariah bte Tarmon and another) v 
 

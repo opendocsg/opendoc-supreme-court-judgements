@@ -14,7 +14,7 @@ tags:
   - Construction of statute
   - Interpretation of provisions in Schedule to an Act
   - Whether provision in Schedule could circumscribe provision in main Act
-layout: single
+
 ---
 # Lian Hwee Choo Phebe and Another v Maxz Universal Development Group Pte Ltd and Others 
 

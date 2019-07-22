@@ -26,7 +26,7 @@ tags:
   - >-
     Whether striking out of statement of claim and defence to counterclaim
     justified
-layout: single
+
 ---
 # K Solutions Pte Ltd v National University of Singapore 
 

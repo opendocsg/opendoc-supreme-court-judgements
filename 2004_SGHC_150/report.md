@@ -12,7 +12,7 @@ tags:
   - >-
     Whether plaintiffs successful in proving loss with regards to investigation
     expenses
-layout: single
+
 ---
 # John While Springs (S) Pte Ltd and Another v Goh Sai Chuah Justin and Others 
 

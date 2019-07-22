@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Interlocutory appeals
   - Adducing fresh evidence
-layout: single
+
 ---
 

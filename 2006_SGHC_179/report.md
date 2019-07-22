@@ -16,7 +16,7 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Evidence obtained by means of private entrapment
-layout: single
+
 ---
 # Wong Keng Leong Rayney v Law Society of Singapore 
 

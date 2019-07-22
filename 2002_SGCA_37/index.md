@@ -11,6 +11,6 @@ tags:
   - Indoor management rule
   - Rule in Turquand\'s case
   - Applicability of rule
-layout: single
+
 ---
 

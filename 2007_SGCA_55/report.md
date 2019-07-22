@@ -15,7 +15,7 @@ tags:
   - Companies
   - Shares
   - 'Parties having standing to invoke s 76 Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 # Wu Yang Construction Group Ltd v Mao Yong Hui and Another 
 

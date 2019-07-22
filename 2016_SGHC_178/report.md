@@ -6,7 +6,7 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Illegally importing controlled drugs
-layout: single
+
 ---
 # Public Prosecutor v Suventher Shanmugam 
 

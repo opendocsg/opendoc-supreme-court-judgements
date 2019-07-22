@@ -23,7 +23,7 @@ tags:
     Extension of time for filing proof of debt in relation to schemes of
     arrangement
   - Factors that court considers in deciding whether to grant extension of time
-layout: single
+
 ---
 # The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd 
 

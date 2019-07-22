@@ -6,7 +6,7 @@ tags:
   - Joint Venture Agreement
   - Contract
   - “All reasonable endeavours” clause
-layout: single
+
 ---
 # BR Energy (M) Sdn Bhd v KS Energy Services Ltd 
 

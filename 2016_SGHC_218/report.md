@@ -12,7 +12,7 @@ tags:
   - Conflict of Laws
   - Choice of law
   - Contract
-layout: single
+
 ---
 # Kioumji & Eslim Law Firm and another v Rotary Engineering Ltd and others 
 

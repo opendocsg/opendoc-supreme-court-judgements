@@ -7,7 +7,7 @@ tags:
   - Outrage of modesty
   - Knowledge that the act is likely to outrage the modesty of that person
   - Sentencing
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Mohd Taufik bin Abu Bakar and another appeal  

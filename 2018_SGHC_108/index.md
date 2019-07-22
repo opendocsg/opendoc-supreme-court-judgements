@@ -9,6 +9,6 @@ tags:
   - Conflict of laws
   - Choice of law
   - Forum mandatory statute
-layout: single
+
 ---
 

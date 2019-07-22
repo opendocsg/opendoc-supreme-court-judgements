@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Costs
   - Principles
-layout: single
+
 ---
 # Ang Pek San Lawrence v Singapore Medical Council 
 

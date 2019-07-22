@@ -5,6 +5,6 @@ tags:
   - Contract
   - Illegality and public policy
   - Agreement between two companies for allotment of shares
-layout: single
+
 ---
 

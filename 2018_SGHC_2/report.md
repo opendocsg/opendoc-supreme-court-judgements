@@ -10,7 +10,7 @@ tags:
   - Construction of statute
   - Statutory Interpretation
   - Definitions
-layout: single
+
 ---
 # China Taiping Insurance (Singapore) Pte Ltd and another v Low Yi Lian Cindy and others 
 

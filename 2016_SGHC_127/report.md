@@ -19,7 +19,7 @@ tags:
   - Civil Procedure
   - Appeals
   - Leave
-layout: single
+
 ---
 # Axis Law Corp v Intellectual Property Office of Singapore 
 

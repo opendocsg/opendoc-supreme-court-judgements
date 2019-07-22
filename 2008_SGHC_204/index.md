@@ -8,6 +8,6 @@ tags:
   - Misrepresentation
   - Equity
   - Fiduciary relationships
-layout: single
+
 ---
 

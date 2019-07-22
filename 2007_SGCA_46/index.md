@@ -18,6 +18,6 @@ tags:
   - Words and Phrases
   - \"Appeal\"
   - 'Section 49 Arbitration Act (Cap 10, 2002 Rev Ed)'
-layout: single
+
 ---
 

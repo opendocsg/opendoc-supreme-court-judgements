@@ -8,7 +8,7 @@ tags:
   - Trusts
   - Express trusts
   - Certainties
-layout: single
+
 ---
 # Chiang Sing Jeong and another v Treasure Resort Pte Ltd and others 
 

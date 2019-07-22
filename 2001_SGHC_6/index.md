@@ -14,6 +14,6 @@ tags:
   - Words and Phrases
   - \"Statutory demand\"
   - 'ss 2, 57, 61 & 62 Bankruptcy Act (Cap 20)'
-layout: single
+
 ---
 

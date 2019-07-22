@@ -7,7 +7,7 @@ tags:
   - Jurisdiction
   - Inherent Powers
   - Extension of Time
-layout: single
+
 ---
 # Sumber Indah Pte Ltd v Kamala Jewellers Pte Ltd 
 

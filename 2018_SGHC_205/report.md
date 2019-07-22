@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Statutory demand
-layout: single
+
 ---
 # Wheeler, Mark v Standard Chartered Bank (Singapore) Limited 
 

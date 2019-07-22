@@ -34,7 +34,7 @@ tags:
   - Alleged oral agreement as to guaranteed bonus
   - Whether oral evidence admissible
   - 'ss 93 & 94 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 # Latham v Credit Suisse First Boston 
 

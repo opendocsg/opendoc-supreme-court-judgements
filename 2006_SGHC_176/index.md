@@ -16,6 +16,6 @@ tags:
   - >-
     Whether letter subject to without prejudice privilege and inadmissible as
     evidence
-layout: single
+
 ---
 

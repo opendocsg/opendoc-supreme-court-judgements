@@ -17,7 +17,7 @@ tags:
   - Civil Procedure
   - Privileges
   - Inspection by the court
-layout: single
+
 ---
 # Comptroller of Income Tax v ARW and another (Attorney-General, intervener) 
 

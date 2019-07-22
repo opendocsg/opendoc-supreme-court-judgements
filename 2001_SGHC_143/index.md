@@ -24,6 +24,6 @@ tags:
   - Enabling disclosure
   - Whether sufficient enabling disclosure by patent specification
   - 'ss 25(4), 80(1)(c) Patents Act (Cap 221, 1995 Ed)'
-layout: single
+
 ---
 

@@ -16,7 +16,7 @@ tags:
   - >-
     Whether court had jurisdiction to maintain Mareva injunction despite absence
     of full and frank disclosure by applicant
-layout: single
+
 ---
 # Multi-Code Electronics Industries (M) Bhd and Another v Toh Chun Toh Gordon and Others 
 

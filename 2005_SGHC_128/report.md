@@ -15,7 +15,7 @@ tags:
   - >-
     Section 3(1) Contributory Negligence and Personal Injuries Act (Cap 54, 2002
     Rev Ed)
-layout: single
+
 ---
 # Khoo Bee Keong v Ang Chun Hong and Another 
 

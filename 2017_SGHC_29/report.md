@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Offences
   - Murder
-layout: single
+
 ---
 # Public Prosecutor v Rasheed Muhammad and another 
 

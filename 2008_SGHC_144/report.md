@@ -19,7 +19,7 @@ tags:
   - Test to determine which judgment being enforced in present action
   - Whether time bar for enforcement of foreign judgments six years or 12 years
   - 'Sections 6(1)(a) and 6(3) Limitation Act (Cap 163, 1996 Rev Ed)'
-layout: single
+
 ---
 # Desert Palace Inc (doing business as Caesars Palace) v Poh Soon Kiat 
 

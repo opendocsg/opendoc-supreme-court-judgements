@@ -5,6 +5,6 @@ tags:
   - Administrative law
   - Judicial review
   - Leave Application under O 53 of the Rules of Court
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Worldwide Convention Planners Pte Ltd v Lee Khiam Long and Others 
 

@@ -8,6 +8,6 @@ tags:
   - Estoppel
   - Whether issue estoppel applicable
   - Whether same issue re-opened?
-layout: single
+
 ---
 

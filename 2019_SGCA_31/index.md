@@ -10,6 +10,6 @@ tags:
   - Striking Out
   - Patents and Inventions
   - Infringement
-layout: single
+
 ---
 

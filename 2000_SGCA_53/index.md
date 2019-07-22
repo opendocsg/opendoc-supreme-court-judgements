@@ -8,6 +8,6 @@ tags:
   - Apportionment of responsibility
   - Ship severing submerged seismic cables towed by another vessel
   - Whether first or second vessel more responsible for damage caused
-layout: single
+
 ---
 

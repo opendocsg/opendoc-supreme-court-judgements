@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Vacation of trial dates
   - Reopening of trial
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # PT Humpuss Intermoda Transportasi and another _v_ Humpuss Sea Transport Pte Ltd (in compulsory liquidation)  

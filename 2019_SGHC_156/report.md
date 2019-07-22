@@ -8,7 +8,7 @@ tags:
   - Offering securities without a prospectus
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Tan Seo Whatt Albert and another appeal  

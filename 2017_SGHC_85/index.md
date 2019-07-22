@@ -10,6 +10,6 @@ tags:
   - Civil Procedure
   - Jurisdiction
   - Inherent
-layout: single
+
 ---
 

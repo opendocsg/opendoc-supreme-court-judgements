@@ -36,6 +36,6 @@ tags:
   - >-
     Weight to be accorded to witnessÂ’ previous inconsistent statement governed
     non-exhaustively by factors in s 147 (6)s 147 Evidence Act (Cap 97, 1997 Ed)
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Conflict of Laws
   - Foreign Judgments
   - Recognition
-layout: single
+
 ---
 

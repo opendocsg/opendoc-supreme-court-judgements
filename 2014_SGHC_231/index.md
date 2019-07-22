@@ -5,6 +5,6 @@ tags:
   - Criminal procedure and sentencing
   - sentencing
   - conviction
-layout: single
+
 ---
 

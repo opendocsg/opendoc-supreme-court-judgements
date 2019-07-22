@@ -9,6 +9,6 @@ tags:
     Construction of purpose and effect of s 107(1) of Telecommunication
     Authority of Singapore Act 1992
   - s 107(1) Telecommunication Authority of Singapore Act 1992 (Act 12 of 1992)
-layout: single
+
 ---
 

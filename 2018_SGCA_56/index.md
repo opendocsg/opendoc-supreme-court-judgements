@@ -4,6 +4,6 @@ subtitle: "[2018] SGCA 56 / 05\_September\_2018"
 tags:
   - Civil Procedure
   - Offer to settle
-layout: single
+
 ---
 

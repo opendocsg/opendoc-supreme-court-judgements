@@ -26,7 +26,7 @@ tags:
     Whether grounds existing for setting aside of arbitral award made by
     arbitrator
   - 'Section 17(2) Arbitration Act (Cap 10, 1985 Rev Ed)'
-layout: single
+
 ---
 # Progen Engineering Pte Ltd v Chua Aik Kia (trading as Uni Sanitary Electrical Construction) 
 

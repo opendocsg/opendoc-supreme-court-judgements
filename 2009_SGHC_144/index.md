@@ -7,6 +7,6 @@ tags:
   - Murder
   - General Exceptions
   - Special Exceptions
-layout: single
+
 ---
 

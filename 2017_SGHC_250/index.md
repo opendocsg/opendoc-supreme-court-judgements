@@ -6,6 +6,6 @@ tags:
   - Negligence
   - Duty of care
   - Pure economic loss
-layout: single
+
 ---
 

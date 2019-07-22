@@ -23,7 +23,7 @@ tags:
     equity\'
   - \'other rights\'
   - 'Housing Developers Rules (Cap 130, R 1, 1990 Ed) Form E cl 5(3)'
-layout: single
+
 ---
 # Harris Hakim v Allgreen Properties Ltd 
 

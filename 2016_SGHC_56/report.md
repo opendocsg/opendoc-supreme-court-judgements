@@ -11,7 +11,7 @@ tags:
   - Evidenc e
   - Witnesses
   - Impeac hing witness’ c redibility
-layout: single
+
 ---
 # Public Prosecutor v Hishamrudin Bin Mohd 
 

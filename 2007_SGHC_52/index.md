@@ -19,6 +19,6 @@ tags:
     covering \"cross-interrogatories\" in O 39 r 3 of Rules of Court
   - 'Section 33 Evidence Act (Cap 97, 1997 Rev Ed)'
   - 'Order 39 r 3 Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 

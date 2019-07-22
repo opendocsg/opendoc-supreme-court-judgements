@@ -6,6 +6,6 @@ tags:
   - Appeals
   - Registrar\'s appeal
   - Admission of further affidavit supporting appeal
-layout: single
+
 ---
 

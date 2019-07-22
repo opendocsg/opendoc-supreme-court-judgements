@@ -17,7 +17,7 @@ tags:
   - Witnesses
   - Identification evidence
   - Turnbull guidelines
-layout: single
+
 ---
 # Kunasekaran s/o Kalimuthu Somasundara v Public Prosecutor 
 

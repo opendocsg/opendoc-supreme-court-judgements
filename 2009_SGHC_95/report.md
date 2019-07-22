@@ -12,7 +12,7 @@ tags:
     Whether applicant had been placed under very real and substantial pressures
     by her then-counsel
   - Credibility of applicant\'s evidence
-layout: single
+
 ---
 # Gao Hua v Public Prosecutor 
 

@@ -7,6 +7,6 @@ tags:
   - Duties
   - Civil Procedure
   - Costs
-layout: single
+
 ---
 

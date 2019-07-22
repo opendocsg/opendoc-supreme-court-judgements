@@ -12,7 +12,7 @@ tags:
     Whether acts of receiving gratification on several different occasions
     constitute one composite offence
   - 'Penal Code (Cap 224, 1985 Rev Ed) s 71(1)'
-layout: single
+
 ---
 # Wong Loke Cheng v Public Prosecutor 
 

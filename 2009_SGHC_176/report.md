@@ -19,7 +19,7 @@ tags:
     mark
   - Whether likelihood of confusion on the part of the public
   - 'Section 8(3) Trade Marks Act (Cap 332, 1999 Rev Ed)'
-layout: single
+
 ---
  Mark Class Specification 
 

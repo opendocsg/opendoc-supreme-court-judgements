@@ -18,7 +18,7 @@ tags:
     Whether physical and verbal abuse of accused by deceased amounting to grave
     and sudden provocation by deceased
   - 'Section 300 Exception 1 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Juminem and Another 
 

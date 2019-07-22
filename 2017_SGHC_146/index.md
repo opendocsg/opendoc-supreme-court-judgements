@@ -12,6 +12,6 @@ tags:
   - Voir dire
   - Evidence
   - Presumptions
-layout: single
+
 ---
 

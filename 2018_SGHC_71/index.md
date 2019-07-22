@@ -8,6 +8,6 @@ tags:
   - Evidence
   - Witnesses
   - Expert evidence
-layout: single
+
 ---
 

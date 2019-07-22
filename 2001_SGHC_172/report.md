@@ -30,7 +30,7 @@ tags:
   - Words and Phrases
   - \"Subject to contract\"
   - Meaning and effect of phrase
-layout: single
+
 ---
 # Thomson Plaza (Pte) Ltd v Liquidators of Yaohan Department Store Singapore Pte Ltd (in 
 

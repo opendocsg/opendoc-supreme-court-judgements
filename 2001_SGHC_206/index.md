@@ -37,6 +37,6 @@ tags:
   - Money had and received
   - Recovery under colore officii principle
   - Whether principle applicable
-layout: single
+
 ---
 

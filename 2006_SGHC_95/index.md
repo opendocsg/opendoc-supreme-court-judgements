@@ -5,6 +5,6 @@ tags:
   - Family Law
   - Maintenance
   - Assessment of division of matrimonial assets by trial judge
-layout: single
+
 ---
 

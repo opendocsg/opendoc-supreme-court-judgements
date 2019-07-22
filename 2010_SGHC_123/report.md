@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing Principles
   - Offences against public transport workers
-layout: single
+
 ---
 # Balbir Singh s/o Amar Singh v Public Prosecutor and another appeal 
 

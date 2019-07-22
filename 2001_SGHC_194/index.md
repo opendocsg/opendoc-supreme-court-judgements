@@ -7,6 +7,6 @@ tags:
   - Parties Indonesian nationals
   - Entry into foreign exchange agreement in Indonesia
   - Plaintiff remitting Rupiahs to defendant\'s bank account in Indonesia
-layout: single
+
 ---
 

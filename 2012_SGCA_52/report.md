@@ -5,7 +5,7 @@ tags:
   - Land
   - Caveats
   - Wrongful lodgment
-layout: single
+
 ---
 # Shaan Taseer and others v Aamna Taseer 
 

@@ -12,6 +12,6 @@ tags:
   - Civil Procedure
   - Reconvening hearing
   - Defendant not attending assessment of damages hearing
-layout: single
+
 ---
 

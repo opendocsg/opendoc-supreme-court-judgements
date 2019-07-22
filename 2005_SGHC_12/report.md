@@ -13,7 +13,7 @@ tags:
   - >-
     Plaintiffs attempting to admit statement of claim from first action in
     second action
-layout: single
+
 ---
 # Changhe International Investments Pte Ltd and Another v Dexia BIL Asia Singapore Ltd and 
 

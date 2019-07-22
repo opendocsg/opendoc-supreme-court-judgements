@@ -4,6 +4,6 @@ title: >-
   the Ship or
 subtitle: "[2000] SGHC 210 / 19\_October\_2000"
 tags: null
-layout: single
+
 ---
 

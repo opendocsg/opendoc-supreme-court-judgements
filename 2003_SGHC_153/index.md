@@ -21,6 +21,6 @@ tags:
   - >-
     Whether defence\'s application for an accused\'s statements should be
     granted.
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Admiralty and shipping
   - Collision
   - Regulations
-layout: single
+
 ---
 

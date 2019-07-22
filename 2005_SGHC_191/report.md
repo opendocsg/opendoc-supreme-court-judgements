@@ -11,7 +11,7 @@ tags:
   - Whether three-stage test for admission as advocate and solicitor satisfied
   - Whether appropriate for court to grant application
   - 'Section 21 Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 # Re Platts-Mills, Mark Fortescue QC 
 

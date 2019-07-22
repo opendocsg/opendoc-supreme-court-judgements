@@ -8,7 +8,7 @@ tags:
   - Long single income marriage
   - Maintenance
   - Wife
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UTS _v_ UTT  

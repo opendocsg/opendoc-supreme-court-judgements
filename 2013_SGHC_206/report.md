@@ -5,7 +5,7 @@ tags:
   - Contract
   - Illegality and public policy
   - Statutory illegality
-layout: single
+
 ---
 # Belfield International (Hong Kong) Ltd v Sheagar s/o T M Veloo 
 

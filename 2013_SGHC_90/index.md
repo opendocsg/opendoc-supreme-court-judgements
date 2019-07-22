@@ -13,6 +13,6 @@ tags:
   - Equity
   - remedies
   - specific performance
-layout: single
+
 ---
 

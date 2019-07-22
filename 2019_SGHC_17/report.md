@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - Statutory offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Muhammad Faizal Bin Mohd Shariff  

@@ -10,6 +10,6 @@ tags:
     fraudulent conveyance
   - Factors to consider
   - 'Section 73B Conveyancing and Law of Property Act (Cap 61, 1994 Rev Ed)'
-layout: single
+
 ---
 

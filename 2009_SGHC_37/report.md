@@ -8,7 +8,7 @@ tags:
   - Cheques
   - Forged
   - What constituted \"complete and irreversible payment\" by bank
-layout: single
+
 ---
 # Raffles Money Change Pte Ltd (formerly known as Honest Money Changer Pte Ltd) v 
 

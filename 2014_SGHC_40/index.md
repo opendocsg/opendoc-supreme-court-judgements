@@ -13,6 +13,6 @@ tags:
   - defamation
   - qualified privilege
   - malice
-layout: single
+
 ---
 

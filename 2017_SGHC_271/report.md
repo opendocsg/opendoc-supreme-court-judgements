@@ -7,7 +7,7 @@ tags:
   - Civil procedure
   - Third party proceedings
   - Striking out
-layout: single
+
 ---
 # EQ Capital Investments Ltd v Sunbreeze Group Investments Ltd and others (Sim Chye Hock 
 

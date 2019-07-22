@@ -18,7 +18,7 @@ tags:
   - Interaction of sections
   - Interaction of ss 9A(1) and 41 Interpretation Act
   - 'Precedence of s 9A(1) Interpretation Act (Cap 1, 1997 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Loo Kun Long 
 

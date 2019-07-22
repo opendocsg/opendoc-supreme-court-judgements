@@ -7,6 +7,6 @@ tags:
   - Breach of duty
   - Doctors
   - Hospital
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Assessment
   - Breach of contract
   - Principle of damages under contract law
-layout: single
+
 ---
 

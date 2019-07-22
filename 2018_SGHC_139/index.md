@@ -18,6 +18,6 @@ tags:
   - Tort
   - Defamation
   - Defamatory statements
-layout: single
+
 ---
 

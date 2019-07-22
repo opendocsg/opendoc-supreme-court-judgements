@@ -8,7 +8,7 @@ tags:
   - Trusts
   - Resulting trusts
   - Automatic resulting trusts
-layout: single
+
 ---
 # Thomson Development Co (Pte) Ltd v Ng Kah Jin 
 

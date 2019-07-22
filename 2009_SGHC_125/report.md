@@ -22,7 +22,7 @@ tags:
   - >-
     Whether ac c used c ould file suc h applic ation to the Court of Appeal
     under its \"inherent jurisdic tion\" or \"equity jurisdic tion\"
-layout: single
+
 ---
 # Bachoo Mohan Singh v Public Prosecutor 
 

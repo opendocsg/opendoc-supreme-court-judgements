@@ -17,6 +17,6 @@ tags:
   - >-
     Whether fact that default judgment entered against one of two defendants
     making declaratory order against other defendant unnecessary
-layout: single
+
 ---
 

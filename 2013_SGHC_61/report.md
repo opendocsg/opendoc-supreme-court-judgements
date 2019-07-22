@@ -7,7 +7,7 @@ tags:
   - Striking Out
   - Constitutional Law
   - Discrimination
-layout: single
+
 ---
 # Chan Kin Foo v City Developments Ltd 
 

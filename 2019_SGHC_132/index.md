@@ -6,6 +6,6 @@ tags:
   - Court judgments
   - Criminal Procedure and Sentencing
   - Appeal
-layout: single
+
 ---
 

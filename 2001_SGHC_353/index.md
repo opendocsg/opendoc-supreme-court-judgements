@@ -40,6 +40,6 @@ tags:
   - Landlord and Tenant
   - Recovery of possession
   - Breach of covenant in tenancy agreement
-layout: single
+
 ---
 

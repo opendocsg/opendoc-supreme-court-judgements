@@ -13,6 +13,6 @@ tags:
   - Armed Robbery
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 

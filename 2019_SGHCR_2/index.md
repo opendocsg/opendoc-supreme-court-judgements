@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - Inherent powers
-layout: single
+
 ---
 

@@ -10,7 +10,7 @@ tags:
   - Copyright Infringement
   - Intellectual Property
   - Groundless Threats of Legal Proceedings
-layout: single
+
 ---
 # Singsung Pte Ltd v LG 26 Electronics Pte Ltd (trading as L S Electrical Trading) 
 

@@ -5,7 +5,7 @@ tags:
   - Contract
   - Remedies
   - Damages
-layout: single
+
 ---
 # Aries Telecoms (M) Bhd v ViewQwest Pte Ltd (Fiberail Sdn Bhd, third party) 
 

@@ -8,6 +8,6 @@ tags:
   - Companies
   - Oppression
   - Whether alleged oppression continuing up to date of proceedings
-layout: single
+
 ---
 

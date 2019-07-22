@@ -6,6 +6,6 @@ tags:
   - Costs
   - Legal Profession
   - Duties
-layout: single
+
 ---
 

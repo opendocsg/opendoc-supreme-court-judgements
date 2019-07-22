@@ -8,7 +8,7 @@ tags:
   - Plaintiffs obtaining judgment in default of defence
   - Whether judgment regular
   - Whether judgment should be set aside
-layout: single
+
 ---
 # TR Networks Ltd and Others v Elixir Health Holdings Pte Ltd and Others 
 

@@ -13,7 +13,7 @@ tags:
   - Passing Off
   - Trade Marks and Trade Names
   - Goodwill
-layout: single
+
 ---
 # The Audience Motivation Company Asia Pte Ltd v AMC Live Group China (S) Pte Ltd 
 

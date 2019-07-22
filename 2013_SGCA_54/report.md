@@ -7,7 +7,7 @@ tags:
   - Civil procedure
   - Jurisdiction
   - Leave to Appeal
-layout: single
+
 ---
 # Nim Minimaart (suing as a firm) v Management Corporation Strata Title Plan No 1079 and 
 

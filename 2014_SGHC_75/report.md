@@ -6,7 +6,7 @@ tags:
   - Injunctions
   - Banking
   - Performance Bonds
-layout: single
+
 ---
 # CCM Industrial Pte Ltd v 70 Shenton Pte Ltd and another 
 

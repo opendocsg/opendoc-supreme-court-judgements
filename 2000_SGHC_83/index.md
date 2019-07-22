@@ -6,6 +6,6 @@ tags:
   - Pleadings
   - Striking out part of statement of claim
   - Governing principles
-layout: single
+
 ---
 

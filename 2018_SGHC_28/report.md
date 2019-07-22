@@ -9,7 +9,7 @@ tags:
     Rev Ed)
   - Adjudication
   - Natural justice
-layout: single
+
 ---
 # WCS Engineering Construction Pte Ltd v Glaziers Engineering Pte Ltd 
 

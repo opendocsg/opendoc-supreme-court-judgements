@@ -6,6 +6,6 @@ tags:
   - Stay of proceedings
   - Civil Procedure
   - Summary judgment
-layout: single
+
 ---
 

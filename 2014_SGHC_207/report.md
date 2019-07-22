@@ -9,7 +9,7 @@ tags:
   - non est factum
   - Evidence
   - proof of evidence
-layout: single
+
 ---
 # Mahidon Nichiar Binte Mohd Ali and others v Dawood Sultan Kamaldin 
 

@@ -47,6 +47,6 @@ tags:
   - >-
     Whether driver contributorily negligent for having car radio on and having
     conversation with passenger at time of accident
-layout: single
+
 ---
 

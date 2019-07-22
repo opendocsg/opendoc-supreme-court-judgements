@@ -23,6 +23,6 @@ tags:
     Whether it was an implied term of contract that defendant discharged its
     contractual obligations with regard to suitability of material by provision
     of relevant certificates of analysis from a particular party
-layout: single
+
 ---
 

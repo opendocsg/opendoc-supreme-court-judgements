@@ -15,7 +15,7 @@ tags:
   - \"Arising out of\"
   - \"In connection with\"
   - Whether \"arising out of\" has narrower ambit than \"in connection with\"
-layout: single
+
 ---
 # Sabah Shipyard (Pakistan) Ltd v Government of the Islamic Republic of Pakistan 
 

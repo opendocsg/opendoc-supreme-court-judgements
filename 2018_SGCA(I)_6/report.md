@@ -13,7 +13,7 @@ tags:
   - Evidence
   - Proof of Evidence
   - Onus of proof
-layout: single
+
 ---
 # PT Bayan Resources TBK and another v BCBC Singapore Pte Ltd and another 
 

@@ -5,7 +5,7 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Appeals
-layout: single
+
 ---
 # Public Prosecutor v Syed Mostofa Romel 
 

@@ -9,7 +9,7 @@ tags:
   - implied terms
   - Limitation of Actions
   - equity and limitation of actions
-layout: single
+
 ---
 # Tan Gim Seng (trading as G S Forklift Services) v Sea-Shore Transportation Pte Ltd 
 

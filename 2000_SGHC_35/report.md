@@ -24,7 +24,7 @@ tags:
   - Words and Phrases
   - \"Grossly improper conduct\"
   - 's 83(2)(h) Legal Profession Act (Cap 161, 1997 Ed)'
-layout: single
+
 ---
 # Law Society of Singapore v Ng Chee Sing 
 

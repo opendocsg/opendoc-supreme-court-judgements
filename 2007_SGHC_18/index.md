@@ -15,6 +15,6 @@ tags:
     Whether plaintiff discharging requisite burden of proof to show it was
     effective cause of sale of defendant\'s property and entitled to commission
     on sale
-layout: single
+
 ---
 

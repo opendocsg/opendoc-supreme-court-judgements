@@ -8,6 +8,6 @@ tags:
   - Costs
   - Civil Procedure
   - Judgment and Orders
-layout: single
+
 ---
 

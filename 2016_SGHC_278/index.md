@@ -21,6 +21,6 @@ tags:
   - Tort
   - Negligence
   - Duty of care
-layout: single
+
 ---
 

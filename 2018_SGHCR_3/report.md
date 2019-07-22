@@ -10,7 +10,7 @@ tags:
   - Civil procedure
   - Stay of proceedings
   - Abuse of process
-layout: single
+
 ---
 # FT Plumbing Construction Pte Ltd v Authentic Builder Pte Ltd and another matter 
 

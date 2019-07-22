@@ -13,6 +13,6 @@ tags:
   - >-
     Factors considered by court when determining whether another available forum
     clearly or distinctly more appropriate existing
-layout: single
+
 ---
 

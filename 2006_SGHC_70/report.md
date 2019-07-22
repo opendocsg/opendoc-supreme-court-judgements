@@ -19,7 +19,7 @@ tags:
   - Forum non c onveniens
   - Ac tion c ommenc ed in Germany by defendant against first plaintiff
   - Plaintiffs c ommenc ing ac tion against defendant in Singapore
-layout: single
+
 ---
 # Rickshaw Investments Ltd and Another v Nicolai Baron Von Uexkull 
 

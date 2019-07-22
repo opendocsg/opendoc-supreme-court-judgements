@@ -12,7 +12,7 @@ tags:
   - Presumed resulting trusts
   - Succession and wills
   - Testamentary capacity
-layout: single
+
 ---
 # Lai Hoon Woon (executor and trustee of the estate of Lai Thai Lok, deceased) v Lai Foong 
 

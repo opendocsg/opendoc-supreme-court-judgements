@@ -10,6 +10,6 @@ tags:
     in name and on behalf of company
   - Whether appropriate to grant leave under s 216A of Companies Act
   - 'Legislative intention behind s 216A Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

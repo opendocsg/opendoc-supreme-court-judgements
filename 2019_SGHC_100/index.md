@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Costs
   - awarded
-layout: single
+
 ---
 

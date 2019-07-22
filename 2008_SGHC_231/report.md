@@ -53,7 +53,7 @@ tags:
     Increase in price of ready-mixed concrete due to ban on export of sand to
     Singapore
   - Whether reasonable steps taken to mitigate damages caused
-layout: single
+
 ---
 # Holcim (Singapore) Pte Ltd v Kwan Yong Construction Pte Ltd 
 

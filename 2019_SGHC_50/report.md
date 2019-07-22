@@ -6,7 +6,7 @@ tags:
   - winding up
   - Civil Procedure
   - stay of proceedings
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Industrial Floor & Systems Pte Ltd _v_ Civil Tech Pte Ltd  

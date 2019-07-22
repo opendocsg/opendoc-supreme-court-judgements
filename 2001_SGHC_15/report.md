@@ -10,7 +10,7 @@ tags:
     premeditation and fear of being c harged
   - Mitigating fac tors
   - Whether respondent\'s antec edents aggravating fac tor
-layout: single
+
 ---
 # Public Prosecutor v Chew Suang Heng 
 

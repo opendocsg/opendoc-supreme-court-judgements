@@ -5,6 +5,6 @@ tags:
   - Legal Profession
   - Show cause action
   - Lawyer failing to pay moneys into client\'s account
-layout: single
+
 ---
 

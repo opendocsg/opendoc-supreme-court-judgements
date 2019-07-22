@@ -11,6 +11,6 @@ tags:
   - Arbitration
   - Agreement
   - Waiver
-layout: single
+
 ---
 

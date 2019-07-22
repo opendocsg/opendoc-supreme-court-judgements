@@ -16,6 +16,6 @@ tags:
   - >-
     Whether plaintiff may pursue legal action and enforce security for debt as
     successor-in-title of merged bank
-layout: single
+
 ---
 

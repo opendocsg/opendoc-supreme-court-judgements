@@ -14,7 +14,7 @@ tags:
   - >-
     Whether court entitled to consider conflicting opinions of experts on
     foreign law
-layout: single
+
 ---
 # The "Hung Vuong-2" 
 

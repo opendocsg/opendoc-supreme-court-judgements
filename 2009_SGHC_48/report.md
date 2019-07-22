@@ -16,7 +16,7 @@ tags:
     Whether Strata Titles Board could consider compensation in calculating
     \"proceeds of sale\" under s 84A(7) Land Titles (Strata) Act (Cap 158, 1999
     Rev Ed)
-layout: single
+
 ---
 # Mohamed Amin bin Mohamed Taib and Others v Lim Choon Thye and Others 
 

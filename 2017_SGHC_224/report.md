@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory Offences
   - 'Vandalism Act (Cap 341, 1985 Rev Ed)'
-layout: single
+
 ---
 # Ng Chye Huay v Public Prosecutor 
 

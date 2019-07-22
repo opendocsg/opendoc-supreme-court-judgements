@@ -18,7 +18,7 @@ tags:
   - >-
     Whether concerning general principle relating to assessment of damages or
     one-off point
-layout: single
+
 ---
 # Northern Elevator Manufacturing Sdn Bhd v United Engineers (Singapore) Pte Ltd (No 2) 
 

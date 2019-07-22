@@ -6,7 +6,7 @@ tags:
   - Judgments and Orders
   - Civil Procedure
   - Jurisdiction
-layout: single
+
 ---
 # Re Nalpon Zero Geraldo Mario 
 

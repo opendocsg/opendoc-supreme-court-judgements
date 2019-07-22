@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Winding Up
   - Liquidator
-layout: single
+
 ---
 # Re Lehman Brothers Finance Asia Pte Ltd (in creditors’ voluntary liquidation) 
 

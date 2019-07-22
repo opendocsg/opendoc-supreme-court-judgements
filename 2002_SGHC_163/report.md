@@ -24,7 +24,7 @@ tags:
     occupation period met
   - Nature of such agreement
   - Whether agreement illegal and void
-layout: single
+
 ---
 # Sinnathamby Rajespathy and Another v Lim Chong Seng and Another (Lim Raymond and 
 

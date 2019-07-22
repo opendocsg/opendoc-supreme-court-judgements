@@ -16,6 +16,6 @@ tags:
   - Bill of costs
   - Contentious business agreement
   - Traffic accident case
-layout: single
+
 ---
 

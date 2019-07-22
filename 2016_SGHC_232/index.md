@@ -14,6 +14,6 @@ tags:
   - Words and Phrases
   - “any fire accidentally begin”
   - 'Insurance Act (Cap 142, 2000 Rev Ed) s 63'
-layout: single
+
 ---
 

@@ -19,7 +19,7 @@ tags:
     four days after due date
   - Instalment due on 31 January
   - 4 February a Sunday
-layout: single
+
 ---
 # Teo Song Kwang Richard v Seng Hup Electric Co (S) Pte Ltd 
 

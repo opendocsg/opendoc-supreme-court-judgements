@@ -7,7 +7,7 @@ tags:
   - Courts and Jurisdiction
   - Court judgments
   - Declaratory
-layout: single
+
 ---
 # Huang Meizhe and another v Attorney-General 
 

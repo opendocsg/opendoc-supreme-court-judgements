@@ -11,6 +11,6 @@ tags:
   - Whether issue of proper method of valuation raises question of law
   - Whether appellants can appeal
   - 's 29(2) Land Acquisition Act (Cap 152, 1985 Rev Ed)'
-layout: single
+
 ---
 

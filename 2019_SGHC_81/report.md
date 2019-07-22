@@ -7,7 +7,7 @@ tags:
   - Restraint of Proceedings
   - Companies
   - Winding Up
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BWF _v_ BWG  

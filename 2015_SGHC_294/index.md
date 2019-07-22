@@ -9,6 +9,6 @@ tags:
   - Misrepresentation
   - Measure of damages
   - Loss of profits
-layout: single
+
 ---
 

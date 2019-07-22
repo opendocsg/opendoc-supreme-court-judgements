@@ -8,6 +8,6 @@ tags:
   - Money had and received
   - Defence of change of position
   - Whether defendants meeting requirements of defence
-layout: single
+
 ---
 

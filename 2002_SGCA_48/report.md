@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Public Prosecutor v Quek Loo Ming 
 

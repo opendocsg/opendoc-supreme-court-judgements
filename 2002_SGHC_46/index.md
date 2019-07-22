@@ -19,6 +19,6 @@ tags:
   - Proper approach to construction of penal provisions
   - Words and Phrases
   - \"waiter\"
-layout: single
+
 ---
 

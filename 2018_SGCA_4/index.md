@@ -11,6 +11,6 @@ tags:
   - Promissory estoppel
   - Statutory interpretation
   - Interpretation Act
-layout: single
+
 ---
 

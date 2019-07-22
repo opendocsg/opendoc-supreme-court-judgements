@@ -7,6 +7,6 @@ tags:
   - Fraudulent
   - Contract
   - Mistake
-layout: single
+
 ---
 

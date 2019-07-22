@@ -7,7 +7,7 @@ tags:
   - Causing hurt
   - Whether case against accused made out
   - 'Penal Code (Cap 224, 1985 Rev Ed), ss 73 and 323.'
-layout: single
+
 ---
 # Public Prosecutor v Yeo Gek Hong 
 

@@ -5,6 +5,6 @@ tags:
   - Building and construction law
   - Dispute resolution
   - Adjudication
-layout: single
+
 ---
 

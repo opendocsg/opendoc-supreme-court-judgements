@@ -7,7 +7,7 @@ tags:
   - Tort
   - Negligence
   - Solicitors’ duties
-layout: single
+
 ---
 # Zhang Run Zi v Ascentsia Law Corp 
 

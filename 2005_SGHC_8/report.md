@@ -6,7 +6,7 @@ tags:
   - Formation
   - Exchange of letters between parties
   - Whether contract concluded
-layout: single
+
 ---
 # Koon Seng Construction Pte Ltd v Siem Seng Hing & Co (Pte) Ltd 
 

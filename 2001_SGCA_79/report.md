@@ -6,7 +6,7 @@ tags:
   - Unconscionability
   - Performance guarantee
   - Call on performance guarantee
-layout: single
+
 ---
 # Samwoh Asphalt Premix Pte Ltd v Sum Cheong Piling Private Limited and Another 
 

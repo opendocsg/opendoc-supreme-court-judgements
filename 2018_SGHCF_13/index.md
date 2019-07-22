@@ -8,6 +8,6 @@ tags:
   - Family Law
   - Consent orders
   - Variation
-layout: single
+
 ---
 

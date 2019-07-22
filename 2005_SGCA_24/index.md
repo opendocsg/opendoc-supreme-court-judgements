@@ -15,6 +15,6 @@ tags:
   - >-
     Whether payments amounting to distributions from estate or gifts from
     appellant
-layout: single
+
 ---
 

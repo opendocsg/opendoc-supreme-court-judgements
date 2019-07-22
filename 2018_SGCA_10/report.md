@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Adducing fresh evidence
-layout: single
+
 ---
 # Public Prosecutor v Mohd Ariffan bin Mohd Hassan 
 

@@ -11,6 +11,6 @@ tags:
   - Duties
   - Client
   - Duty of solicitor to client when arguing case
-layout: single
+
 ---
 

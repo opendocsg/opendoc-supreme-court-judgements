@@ -10,7 +10,7 @@ tags:
   - Insolvency Law
   - Winding Up
   - Winding Up Order
-layout: single
+
 ---
 # Chimbusco International Petroleum (Singapore) Pte Ltd v Jalalludin bin Abdullah and other 
 

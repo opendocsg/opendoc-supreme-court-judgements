@@ -28,7 +28,7 @@ tags:
     Customer of bank executing charge over account to secure son-in-law\'s
     liabilities
   - Whether fiduciary relationship arising between bank and customer
-layout: single
+
 ---
 # Susilawati v American Express Bank Ltd 
 

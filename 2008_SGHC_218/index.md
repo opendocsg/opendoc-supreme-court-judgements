@@ -20,6 +20,6 @@ tags:
   - Criminal contempt
   - Scandalising the court
   - Rationale for law of contempt
-layout: single
+
 ---
 

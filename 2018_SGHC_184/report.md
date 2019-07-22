@@ -7,7 +7,7 @@ tags:
   - Damages
   - Measure of damages
   - Personal injuries cases
-layout: single
+
 ---
 # Ng Lay Peng v Gain City Engineering & Consultancy Pte Ltd (Ng Peng Boon, third party) 
 

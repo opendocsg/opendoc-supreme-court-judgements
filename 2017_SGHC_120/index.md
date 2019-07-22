@@ -7,6 +7,6 @@ tags:
   - Probate and administration
   - Unadministered estate
   - Standing to sue without grant of letters of administration
-layout: single
+
 ---
 

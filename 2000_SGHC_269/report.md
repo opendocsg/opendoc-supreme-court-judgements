@@ -15,7 +15,7 @@ tags:
   - Whether statements amount to misrepresentations
   - Whether plaintiffs induced by statements
   - Whether plaintiffs relied on statements
-layout: single
+
 ---
 # Tai Kim San and Another v Lim Cher Kia 
 

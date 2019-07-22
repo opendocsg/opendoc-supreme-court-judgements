@@ -19,7 +19,7 @@ tags:
   - Words and Phrases
   - '\"Made\", \"alter\" and \"adapt for sale\"'
   - 'Section 2(2) Property Tax Act (Cap 254, 2005 Rev Ed)'
-layout: single
+
 ---
 # Chief Assessor and Another v First DCS Pte Ltd 
 

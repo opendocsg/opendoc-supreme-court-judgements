@@ -6,6 +6,6 @@ tags:
   - Occupiers’ Liability
   - TORT
   - Negligence
-layout: single
+
 ---
 

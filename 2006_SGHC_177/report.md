@@ -7,7 +7,7 @@ tags:
   - Division
   - Apportionment of assets
   - 'Section 112(2) Women\''s Charter (Cap 353, 1997 Rev Ed)'
-layout: single
+
 ---
 # Koh Bee Choo v Choo Chai Huah 
 

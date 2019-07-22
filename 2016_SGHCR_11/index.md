@@ -7,6 +7,6 @@ tags:
   - Judicial Precedent
   - Civil Procedure
   - Joinder of Parties
-layout: single
+
 ---
 

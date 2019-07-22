@@ -4,6 +4,6 @@ title: >-
   also known as Lalita
 subtitle: "[2013] SGHCR 06 / 19\_February\_2013"
 tags: null
-layout: single
+
 ---
 

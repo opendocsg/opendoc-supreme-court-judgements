@@ -8,7 +8,7 @@ tags:
   - Res judicata
   - Issue estoppel
   - Consent judgment
-layout: single
+
 ---
 # Cost Engineers (SEA) Pte Ltd and another v Chan Siew Lun 
 

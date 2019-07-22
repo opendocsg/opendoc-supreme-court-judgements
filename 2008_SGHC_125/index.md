@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Mitigation
   - Corruption or match-fixing offences
-layout: single
+
 ---
 

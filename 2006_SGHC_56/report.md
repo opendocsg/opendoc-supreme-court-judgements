@@ -13,7 +13,7 @@ tags:
   - Maintenance
   - Wife
   - Applicable principles for determining appropriate amount of maintenance
-layout: single
+
 ---
 # Wong Suit Kam v Tan Beng Wah Benny 
 

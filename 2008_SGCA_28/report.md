@@ -14,7 +14,7 @@ tags:
   - Trial judge asking many questions of witness
   - Whether trial judge intervened excessively
   - 'Section 167 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 # Hum Weng Fong v Koh Siang Hong 
 

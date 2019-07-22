@@ -8,6 +8,6 @@ tags:
   - Status of Muslim wife after pronouncement of talak
   - Whether considered married for purposes of maintenance
   - Jurisdiction
-layout: single
+
 ---
 

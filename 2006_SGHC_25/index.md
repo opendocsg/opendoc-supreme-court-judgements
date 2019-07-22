@@ -7,6 +7,6 @@ tags:
   - Amendment
   - Plaintiff seeking to amend statement of claim in second week of trial
   - Whether plaintiff seeking amendment too late
-layout: single
+
 ---
 

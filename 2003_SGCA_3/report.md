@@ -23,7 +23,7 @@ tags:
   - Constructive trusts
   - Breach of trust
   - Dishonest assistance in breach of trust
-layout: single
+
 ---
 # Bansal Hermant Govindprasad and Another v Central Bank of India and Another Case 
 

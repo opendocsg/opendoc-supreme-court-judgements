@@ -16,7 +16,7 @@ tags:
   - Words and Phrases
   - \"Good faith\"
   - 'Section 84A(9) Land Titles (Strata) Act (Cap 158, 1999 Rev Ed)'
-layout: single
+
 ---
 # Tsai Jean v Har Mee Lee and Others 
 

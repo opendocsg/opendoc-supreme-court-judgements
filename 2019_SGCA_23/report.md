@@ -11,7 +11,7 @@ tags:
   - Land
   - Adverse possession
   - Compulsory acquisitions
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ahmad Kasim bin Adam (suing as an Administrator of the estate of Adam bin Haji Anwar and in his own personal capacity) _v_ Moona Esmail Tamby Merican s/o Mohamed Ganse and others  

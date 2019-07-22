@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Date of commencement of sentencing
-layout: single
+
 ---
 # Teo Kian Leong v Public Prosecutor 
 

@@ -26,7 +26,7 @@ tags:
     inappropriate treatment
   - Whether doctor obtaining informed consent
   - 'Section 45(1)(d) Medical Registration Act (Cap 174, 2004 Rev Ed)'
-layout: single
+
 ---
 # Low Cze Hong v Singapore Medical Council 
 

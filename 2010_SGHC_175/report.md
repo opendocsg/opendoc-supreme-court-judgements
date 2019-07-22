@@ -6,7 +6,7 @@ tags:
   - Issue Estoppel
   - Tort
   - Defamation
-layout: single
+
 ---
 # Kay Swee Pin v Singapore Island Country Club and others 
 

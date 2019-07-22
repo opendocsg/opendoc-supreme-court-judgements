@@ -12,6 +12,6 @@ tags:
     Declaration of trial judge ordering respondent\'s reinstatement and
     repayment of salary from date of dismissal
   - Whether declaration rightfully made
-layout: single
+
 ---
 

@@ -16,7 +16,7 @@ tags:
   - House-trespass with preparation to assault
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 # Public Prosecutor v Ravindran Annamalai 
 

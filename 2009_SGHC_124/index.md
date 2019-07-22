@@ -16,6 +16,6 @@ tags:
   - Young victim
   - Need for general deterrence
   - 'Penal Code (Cap 224, 2008 Rev Ed) s 364A(ii)'
-layout: single
+
 ---
 

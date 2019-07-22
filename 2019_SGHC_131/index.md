@@ -12,6 +12,6 @@ tags:
   - Remedies
   - Damages
   - Claim for wasted expenditure
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Insolvency law
   - Bankruptcy
   - Jurisdiction
-layout: single
+
 ---
 

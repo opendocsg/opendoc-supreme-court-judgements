@@ -30,6 +30,6 @@ tags:
   - Efforts to sell property
   - Duty to maintain property
   - Duty to advertise sale adequately
-layout: single
+
 ---
 

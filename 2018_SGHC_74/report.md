@@ -10,7 +10,7 @@ tags:
   - Equity
   - Estoppel
   - Proprietary estoppel
-layout: single
+
 ---
 # Koh Ai Gek and another v Geok Hong Co Pte Ltd (Tan Wei Chieh and others, third parties) 
 

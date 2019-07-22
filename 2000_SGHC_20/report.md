@@ -24,7 +24,7 @@ tags:
   - Contract
   - Contractual terms
   - Operative clauses in letters of awareness ambiguous and general
-layout: single
+
 ---
 # Hongkong & Shanghai Banking Corporation Ltd v Jurong Engineering Ltd and Others 
 

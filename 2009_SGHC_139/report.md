@@ -6,7 +6,7 @@ tags:
   - Interlocutory injunction
   - Variation
   - Whether variation sought led to true preservation of status quo
-layout: single
+
 ---
 # AAR and another v AAS (liquidator and trustee of B and others) and others 
 

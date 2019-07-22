@@ -8,6 +8,6 @@ tags:
     Relevance of pending appeal from interlocutory application for security for
     costs
   - Whether to vacate trial dates pending outcome of such appeal
-layout: single
+
 ---
 

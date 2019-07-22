@@ -14,7 +14,7 @@ tags:
   - Family Law
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 # AYB v AYC 
 

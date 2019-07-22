@@ -12,6 +12,6 @@ tags:
   - Contract
   - Whether parties could contract out of limitation provisions
   - 'Section 4 Limitation Act (Cap 163, 1996 Rev Ed)'
-layout: single
+
 ---
 

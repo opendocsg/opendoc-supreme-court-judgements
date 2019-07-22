@@ -21,7 +21,7 @@ tags:
     Whether plaintiff obliged to mitigate loss suffered by such breach by
     accepting defendant\'s offer to continue to supply goods at original
     contractual prices
-layout: single
+
 ---
 # Highness Electrical Engineering Pte Ltd v Sigma Cable Co (Pte) Ltd 
 

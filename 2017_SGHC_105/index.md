@@ -17,6 +17,6 @@ tags:
   - Statutory interpretation
   - Interpretation Act
   - Extrinsic aids
-layout: single
+
 ---
 

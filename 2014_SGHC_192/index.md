@@ -10,6 +10,6 @@ tags:
   - memorandum and articles of association
   - Contract
   - implied terms
-layout: single
+
 ---
 

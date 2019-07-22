@@ -8,7 +8,7 @@ tags:
   - Public policy
   - Statutory Interpretation
   - Construction of statute
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UKM _v_ Attorney-General  

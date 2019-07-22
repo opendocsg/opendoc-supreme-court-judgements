@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Bankruptcy application disputed by debtor
-layout: single
+
 ---
 # Liew Kai Lung Karl v Ching Chiat Kwong 
 

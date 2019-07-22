@@ -12,6 +12,6 @@ tags:
     Whether registered proprietor\'s title to portion of land extinguished by
     adverse possession
   - 'Sections 50, 172(7), 172(8) Land Titles Act (Cap 157, 1994 Rev Ed)'
-layout: single
+
 ---
 

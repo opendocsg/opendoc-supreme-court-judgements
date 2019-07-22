@@ -9,7 +9,7 @@ tags:
   - Breach of Statutory Duty
   - Duties imposed by statute
   - 'Fire Safety Act (Cap 109A, 2000 Rev Ed)'
-layout: single
+
 ---
 # Grace Electrical Engineering Pte Ltd v Te Deum Engineering Pte Ltd 
 

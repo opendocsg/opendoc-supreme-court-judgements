@@ -13,6 +13,6 @@ tags:
   - Misrepresentation
   - Damage
   - Estoppel by convention
-layout: single
+
 ---
 

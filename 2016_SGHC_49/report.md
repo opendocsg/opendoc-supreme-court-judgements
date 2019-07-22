@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Offences
   - Culpable homicide
-layout: single
+
 ---
 # Public Prosecutor v BAC 
 

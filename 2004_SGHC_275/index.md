@@ -12,6 +12,6 @@ tags:
   - >-
     Whether application on grounds of trial solicitor\'s failure to render
     appropriate advice should be allowed
-layout: single
+
 ---
 

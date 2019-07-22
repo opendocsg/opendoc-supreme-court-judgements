@@ -13,6 +13,6 @@ tags:
   - Contract
   - Building contract
   - Claim for progress payments for work done under sub-contract
-layout: single
+
 ---
 

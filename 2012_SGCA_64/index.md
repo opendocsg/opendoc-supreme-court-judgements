@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Appeals
   - Costs
-layout: single
+
 ---
 

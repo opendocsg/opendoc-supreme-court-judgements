@@ -8,7 +8,7 @@ tags:
   - Tort
   - Negligence
   - Breach of duty
-layout: single
+
 ---
 # Koh Kim Teck v Credit Suisse AG, Singapore Branch 
 

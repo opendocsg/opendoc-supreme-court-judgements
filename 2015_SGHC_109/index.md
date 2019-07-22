@@ -6,6 +6,6 @@ tags:
   - Ownership
   - Contract
   - Formation
-layout: single
+
 ---
 

@@ -27,6 +27,6 @@ tags:
   - >-
     Whether breach of confidence a triable issue where documents obtained from
     discarded rubbish bags
-layout: single
+
 ---
 

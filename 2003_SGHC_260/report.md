@@ -22,7 +22,7 @@ tags:
   - Whether sale related to one lot or two lots of land.
   - Words and Phrases
   - \'Unsatisfactory reply to requisition\'
-layout: single
+
 ---
 # Norsiah binte Samat v Neo Poh Guan and Another 
 

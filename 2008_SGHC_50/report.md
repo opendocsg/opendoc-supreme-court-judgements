@@ -21,7 +21,7 @@ tags:
   - Whether legal burden on purchaser or seller to prove contract price
   - Whether purchaser proving discharge by payment and contract price
   - 'Sections 103, 104, 105, 106 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 # Wee Yue Chew v Su Sh-Hsyu 
 

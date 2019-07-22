@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - Statutory offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Zainal bin Hamad v Public Prosecutor and another appeal 
 

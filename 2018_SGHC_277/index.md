@@ -6,6 +6,6 @@ tags:
   - Breach
   - Damages for breach
   - Variation
-layout: single
+
 ---
 

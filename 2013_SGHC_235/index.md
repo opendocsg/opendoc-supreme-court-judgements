@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Offences
   - Rape
-layout: single
+
 ---
 

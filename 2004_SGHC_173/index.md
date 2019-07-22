@@ -20,6 +20,6 @@ tags:
   - >-
     Factors to be taken into account in sentencing for an offence under s 326
     Penal Code (Cap 224, 1985 Rev Ed)
-layout: single
+
 ---
 

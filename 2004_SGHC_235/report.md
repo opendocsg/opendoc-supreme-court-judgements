@@ -11,7 +11,7 @@ tags:
   - Easements
   - Rights of way
   - Whether applicants\' right of way limited to foot traffic only
-layout: single
+
 ---
 # Wong Ah Chen and Another v Wong Yack Yoon and Another 
 

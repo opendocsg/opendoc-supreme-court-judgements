@@ -10,7 +10,7 @@ tags:
   - Damages Contract
   - Privity of Contract
   - Contracts (Rights of Third Parties) Act
-layout: single
+
 ---
 # Columbia Asia Healthcare Sdn Bhd and another v Hong Hin Kit Edward and another and 
 

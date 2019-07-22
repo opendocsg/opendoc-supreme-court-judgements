@@ -10,6 +10,6 @@ tags:
   - Criminal Law
   - Special exceptions
   - Sudden fight
-layout: single
+
 ---
 

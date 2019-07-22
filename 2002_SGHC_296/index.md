@@ -14,6 +14,6 @@ tags:
   - Fac tors to be c onsidered
   - Effec t of c laiming trial on sentenc ing
   - Lac k of antec edents weighed against aggravating fac tors
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Power to reopen concluded criminal appeals
   - Criminal Procedure and Sentencing
   - Adducing fresh evidence
-layout: single
+
 ---
 # Ilechukwu Uchechukwu Chukwudi v Public Prosecutor 
 

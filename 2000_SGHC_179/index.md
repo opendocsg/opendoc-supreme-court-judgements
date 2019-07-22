@@ -8,6 +8,6 @@ tags:
   - Corruptly receiving gratification
   - Police officer enquiring into status of investigations
   - Whether enquiring into status of investigations constitutes \"favour\"
-layout: single
+
 ---
 

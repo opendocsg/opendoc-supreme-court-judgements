@@ -5,6 +5,6 @@ tags:
   - Arbitration
   - Enforcement
   - Enforcement against a State
-layout: single
+
 ---
 

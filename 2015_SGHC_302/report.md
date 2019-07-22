@@ -7,7 +7,7 @@ tags:
   - Breach
   - Legal Profession
   - Conflict of interest
-layout: single
+
 ---
 # Boey Pang Sim Richard v Law Society of Singapore 
 

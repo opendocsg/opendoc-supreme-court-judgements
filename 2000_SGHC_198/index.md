@@ -12,6 +12,6 @@ tags:
   - Signatory\'s state of mind
   - Signatory adducing evidence of what he was told at time of signing
   - Whether admissible in evidence
-layout: single
+
 ---
 

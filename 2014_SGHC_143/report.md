@@ -10,7 +10,7 @@ tags:
   - Equity
   - Remedies
   - Specific performance
-layout: single
+
 ---
 # Quek Kwee Kee Victoria (in her personal capacity and as executor of the estate of Quek Kiat 
 

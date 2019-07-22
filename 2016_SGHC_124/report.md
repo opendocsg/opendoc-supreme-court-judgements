@@ -6,7 +6,7 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Trafficking in controlled drugs
-layout: single
+
 ---
 # Public Prosecutor v Mohd Taib bin Ahmad 
 

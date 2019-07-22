@@ -20,7 +20,7 @@ tags:
   - >-
     Whether breach of duty of good faith a separate cause of action to be
     specifically pleaded
-layout: single
+
 ---
 # Telestop Pte Ltd v Telecom Equipment Pte Ltd and Another Suit 
 

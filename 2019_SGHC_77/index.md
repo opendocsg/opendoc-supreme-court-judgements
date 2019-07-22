@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Interim Order
-layout: single
+
 ---
 

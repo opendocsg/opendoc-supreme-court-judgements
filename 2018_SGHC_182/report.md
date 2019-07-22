@@ -21,7 +21,7 @@ tags:
   - Variations
   - Planning Law
   - Conservation Areas
-layout: single
+
 ---
 # Wei Siang Design Construction Pte Ltd v Euro Assets Holding (S) Pte Ltd 
 

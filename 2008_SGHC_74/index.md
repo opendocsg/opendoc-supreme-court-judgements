@@ -11,6 +11,6 @@ tags:
   - >-
     Whether action to obtain security in foreign jurisdiction vexatious or
     oppressive
-layout: single
+
 ---
 

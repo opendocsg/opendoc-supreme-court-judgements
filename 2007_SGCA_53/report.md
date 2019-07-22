@@ -30,7 +30,7 @@ tags:
   - Termination agreement between company and former employee
   - Whether termination agreement a fresh contract or settlement agreement
   - Whether doctrine of restraint of trade applying to settlement agreements
-layout: single
+
 ---
 # Man Financial (S) Pte Ltd (formerly known as E D & F Man International (S) Pte Ltd) v Wong 
 

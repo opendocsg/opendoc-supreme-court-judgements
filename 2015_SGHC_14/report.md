@@ -6,7 +6,7 @@ tags:
   - Assessment
   - LANDLORD AND TENANT
   - Agreement for leases
-layout: single
+
 ---
 # Alvin Nicholas Nathan v Raffles Assets (Singapore) Pte Ltd 
 

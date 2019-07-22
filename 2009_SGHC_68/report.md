@@ -21,7 +21,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Whether sentence manifestly excessive
-layout: single
+
 ---
 # Jeffery bin Abdullah v Public Prosecutor 
 

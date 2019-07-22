@@ -10,6 +10,6 @@ tags:
   - >-
     Whether order covers the opening and closing of bank accounts in his wife\'s
     name
-layout: single
+
 ---
 

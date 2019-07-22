@@ -11,7 +11,7 @@ tags:
   - Equity
   - Relief
   - Against forfeiture
-layout: single
+
 ---
 # Tan Wee Fong and Others v Denieru Tatsu F&B Holdings (S) Pte Ltd 
 

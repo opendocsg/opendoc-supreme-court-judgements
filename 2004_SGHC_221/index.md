@@ -29,6 +29,6 @@ tags:
     Whether loans by respondent to appellant\'s company amounting to illegal
     moneylending transactions
   - 'Section 2 Moneylenders Act (Cap 188, 1985 Rev Ed)'
-layout: single
+
 ---
 

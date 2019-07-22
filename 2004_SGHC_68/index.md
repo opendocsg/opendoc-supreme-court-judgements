@@ -22,6 +22,6 @@ tags:
   - >-
     Mitigating value of ac c used\'s c o-operation with authorities and evidenc
     e of his good c harac ter.
-layout: single
+
 ---
 

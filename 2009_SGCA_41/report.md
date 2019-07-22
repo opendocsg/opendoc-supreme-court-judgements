@@ -19,7 +19,7 @@ tags:
   - Civil Procedure
   - Stay of proceedings
   - When stay of court proceedings would not be granted
-layout: single
+
 ---
 # Tjong Very Sumito and Others v Antig Investments Pte Ltd 
 

@@ -9,6 +9,6 @@ tags:
   - >-
     Whether court of coordinate jurisdiction may set aside judgment pursuant to
     challenge to status of that judgment
-layout: single
+
 ---
 

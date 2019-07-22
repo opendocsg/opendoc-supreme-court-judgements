@@ -8,6 +8,6 @@ tags:
   - Criminal law
   - Elements of crime
   - Coincidence of
-layout: single
+
 ---
 

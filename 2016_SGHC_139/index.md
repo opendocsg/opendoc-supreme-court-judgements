@@ -9,6 +9,6 @@ tags:
   - Contractual relations
   - Contract
   - Breach
-layout: single
+
 ---
 

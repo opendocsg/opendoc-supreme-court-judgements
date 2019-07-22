@@ -6,6 +6,6 @@ tags:
   - Breach
   - Contract
   - Damages
-layout: single
+
 ---
 

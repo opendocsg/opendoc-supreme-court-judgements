@@ -14,6 +14,6 @@ tags:
   - >-
     Whether court can exercise inherent jurisdiction to hear application for
     consent in absence of Committee of Person
-layout: single
+
 ---
 

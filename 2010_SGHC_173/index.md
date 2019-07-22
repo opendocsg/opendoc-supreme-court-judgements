@@ -8,6 +8,6 @@ tags:
   - Stay of proceedings
   - Companies
   - Winding up
-layout: single
+
 ---
 

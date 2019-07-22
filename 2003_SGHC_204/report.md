@@ -23,7 +23,7 @@ tags:
   - Award
   - Interim award
   - Ancillary orders made by arbitral tribunal in interim award
-layout: single
+
 ---
 # PT Tugu Pratama Indonesia v Magma Nusantara Ltd 
 

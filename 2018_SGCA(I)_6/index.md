@@ -13,6 +13,6 @@ tags:
   - Evidence
   - Proof of Evidence
   - Onus of proof
-layout: single
+
 ---
 

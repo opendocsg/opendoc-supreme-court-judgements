@@ -5,6 +5,6 @@ tags:
   - Banking
   - Performance bonds
   - Main contractor calling on performance bond in building contract
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Plea of guilty
-layout: single
+
 ---
 # Chng Leng Khim v Public Prosecutor and another matter 
 

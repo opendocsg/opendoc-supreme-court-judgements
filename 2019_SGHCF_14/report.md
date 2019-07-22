@@ -7,7 +7,7 @@ tags:
   - Duties
   - Remedies
   - Account
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UVH and another _v_ UVJ and others  

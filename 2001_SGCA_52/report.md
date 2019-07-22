@@ -10,7 +10,7 @@ tags:
   - Whether creditor right to proceed with bankruptcy petition
   - Whether burden on creditor to prove inability of debtor to pay debts
   - Whether arrangement extortionate
-layout: single
+
 ---
 # Jeyaretnam Joshua Benjamin v Indra Krishnan 
 

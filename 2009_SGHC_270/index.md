@@ -9,6 +9,6 @@ tags:
   - Damages
   - Rules in awarding
   - Ascertainment difficult or impossible
-layout: single
+
 ---
 

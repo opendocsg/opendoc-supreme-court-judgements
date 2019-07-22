@@ -12,7 +12,7 @@ tags:
     Whether court should exercise discretion to set aside rights of liquidator
     to allow continuation of garnishee proceedings
   - 'Section 334(1)(c) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 # Transbilt Engineering Pte Ltd (in liquidation) v Finebuild Systems Pte Ltd 
 

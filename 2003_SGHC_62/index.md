@@ -6,6 +6,6 @@ tags:
   - Directors
   - Duties
   - Breaches of fiduciary duties as directors of the company
-layout: single
+
 ---
 

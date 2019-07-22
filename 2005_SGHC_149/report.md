@@ -26,7 +26,7 @@ tags:
   - Slip joint fracturing due to defect
   - Whether defendant liable in negligence for loss sustained by plaintiffs
   - Whether defendant owing duty of care to each plaintiff
-layout: single
+
 ---
 # Jet Holding Ltd and Others v Cooper Cameron (Singapore) Pte Ltd and Another 
 

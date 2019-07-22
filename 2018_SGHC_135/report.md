@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Attempted murder
-layout: single
+
 ---
 # Public Prosecutor v BPK 
 

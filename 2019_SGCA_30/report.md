@@ -5,7 +5,7 @@ tags:
   - Family Law
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BOI _v_ BOJ  

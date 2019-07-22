@@ -13,6 +13,6 @@ tags:
     front of bailee\'s warehouse whenever warehouse closed
   - Goods subsequently stolen
   - Whether sub-bailee breaching duty to care for bailor\'s goods
-layout: single
+
 ---
 

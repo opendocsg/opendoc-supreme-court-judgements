@@ -5,7 +5,7 @@ tags:
   - Land
   - Sale of land
   - Sale under court order
-layout: single
+
 ---
 # Krishnamal d/o Rajoo v Sucila d/o Rajoo 
 

@@ -30,6 +30,6 @@ tags:
     Whether witness\'s partic ulars ought to be furnished earlier to prosec
     ution
   - Burden of proof of alibi
-layout: single
+
 ---
 

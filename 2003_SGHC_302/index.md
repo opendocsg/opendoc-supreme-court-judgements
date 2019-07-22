@@ -8,6 +8,6 @@ tags:
   - >-
     Whether defendantdirectors properly joined when reliefs claimed had no
     application to them
-layout: single
+
 ---
 

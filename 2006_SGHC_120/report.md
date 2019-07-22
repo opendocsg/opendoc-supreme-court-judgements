@@ -26,7 +26,7 @@ tags:
   - >-
     Section 13A(16) Income Tax Act (Cap 134, 2001 Rev Ed), Merchant Shipping Act
     (Cap 179, 1996 Rev Ed)
-layout: single
+
 ---
 # Comptroller of Income Tax v MT 
 

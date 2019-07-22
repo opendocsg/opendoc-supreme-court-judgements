@@ -14,7 +14,7 @@ tags:
   - Appeals
   - Plea of guilt -Whether plea of guilt qualified
   - 'Penal Code (Cap 224, 1985 Rev Ed) ss 300, 323, 334'
-layout: single
+
 ---
 # Toh Lam Seng v Public Prosecutor 
 

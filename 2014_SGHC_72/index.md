@@ -6,6 +6,6 @@ tags:
   - Building and construction contracts
   - Lump sum contract
   - Terms
-layout: single
+
 ---
 

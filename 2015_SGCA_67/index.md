@@ -6,6 +6,6 @@ tags:
   - criminal references
   - Criminal procedure and sentencing
   - disclosure
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - Rationalisation of sentencing policy
   - Sentencing Guidelines
   - Relevant aggravating factors
-layout: single
+
 ---
 

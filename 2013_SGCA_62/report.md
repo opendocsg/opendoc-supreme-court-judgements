@@ -7,7 +7,7 @@ tags:
   - collective sales
   - EQUITY
   - Fiduciary relationships
-layout: single
+
 ---
 # N K Rajarh and others v Tan Eng Chuan and others 
 

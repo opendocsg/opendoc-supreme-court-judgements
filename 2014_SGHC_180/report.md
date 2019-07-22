@@ -7,7 +7,7 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Hearsay
-layout: single
+
 ---
 # Wan Lai Ting v Kea Kah Kim 
 

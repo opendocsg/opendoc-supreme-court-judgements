@@ -7,6 +7,6 @@ tags:
   - Land
   - Damages
   - Assessment
-layout: single
+
 ---
 

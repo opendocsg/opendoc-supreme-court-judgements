@@ -23,7 +23,7 @@ tags:
   - Negligence
   - Indemnity
   - Whether management corporation entitled to indemnity from developers.
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 2297 v Seasons Park Ltd (No 2) 
 

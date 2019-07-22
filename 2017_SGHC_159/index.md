@@ -11,6 +11,6 @@ tags:
   - Credit and security
   - Money and moneylenders
   - Moneylenders Rules 2015
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Matrimonial assets
   - Division
   - Principles governing division of matrimonial assets
-layout: single
+
 ---
 # Lock Yeng Fun v Chua Hock Chye 
 

@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Costs
   - Taxation
-layout: single
+
 ---
  B/C No Section No Amount claimed by SMC 
 

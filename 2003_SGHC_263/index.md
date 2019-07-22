@@ -9,6 +9,6 @@ tags:
   - Offer to settle
   - Whether judgment sum more favourable than offer
   - 'Order 22A r 9 of the Rules of Court (Cap 322, R 5, 1997 Rev Ed)'
-layout: single
+
 ---
 

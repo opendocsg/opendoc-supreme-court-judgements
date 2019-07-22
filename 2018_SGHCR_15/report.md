@@ -5,7 +5,7 @@ tags:
   - Building and construction law
   - Suspension of performance
   - Right to recover loss or expenses
-layout: single
+
 ---
 # I-Lab Engineering Pte Ltd v Shriro (Singapore) Pte Ltd 
 

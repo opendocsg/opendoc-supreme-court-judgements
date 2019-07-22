@@ -23,6 +23,6 @@ tags:
   - Jurisdiction
   - Service out of jurisdiction
   - Setting aside service
-layout: single
+
 ---
 

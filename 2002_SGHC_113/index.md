@@ -8,6 +8,6 @@ tags:
   - Right of access and right of way
   - Plaintiffs claiming such rights
   - Plaintiffs claiming against defendant landlord for breach of agreement
-layout: single
+
 ---
 

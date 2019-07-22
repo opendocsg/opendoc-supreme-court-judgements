@@ -8,7 +8,7 @@ tags:
   - Summary Judgment
   - Contract
   - Quantum Meruit
-layout: single
+
 ---
 # Sim Kim Seng (trading as Kim Seng Ship Building) v New West Coast Shipyard Pte Ltd 
 

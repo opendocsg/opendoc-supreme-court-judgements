@@ -7,6 +7,6 @@ tags:
   - Further and Better Particulars
   - Patents and Inventions
   - Infringement
-layout: single
+
 ---
 

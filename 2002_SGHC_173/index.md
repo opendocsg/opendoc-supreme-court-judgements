@@ -28,6 +28,6 @@ tags:
   - Defendants not entering appearance
   - Plaintiffs obtaining default judgment
   - Whether service of writ proper
-layout: single
+
 ---
 

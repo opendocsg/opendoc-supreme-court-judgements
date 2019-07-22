@@ -8,7 +8,7 @@ tags:
   - Landlord and tenant
   - Recovery of possession
   - Tenant’s rights
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # United Overseas Bank Ltd _v_ Homely Bath Services & Trading Pte Ltd and another  

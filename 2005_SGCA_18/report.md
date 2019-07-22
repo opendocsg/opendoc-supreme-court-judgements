@@ -28,7 +28,7 @@ tags:
   - >-
     Whether respondent entitled to respond by making allegedly defamatory
     statement
-layout: single
+
 ---
 # Jeyasegaram David (alias David Gerald Jeyasegaram) v Ban Song Long David 
 

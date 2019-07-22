@@ -11,6 +11,6 @@ tags:
   - >-
     Whether there was likelihood of confusion between defendant\'s modems and
     plaintiff\'s products
-layout: single
+
 ---
 

@@ -13,6 +13,6 @@ tags:
   - Landlord and tenant
   - Covenants
   - Renewal
-layout: single
+
 ---
 

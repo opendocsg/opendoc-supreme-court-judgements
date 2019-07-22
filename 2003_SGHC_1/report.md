@@ -27,7 +27,7 @@ tags:
   - >-
     Whether plaintiff can avoid exemption clause in agreement by claiming in
     tort
-layout: single
+
 ---
 # Elis Tjoa v United Overseas Bank 
 

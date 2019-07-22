@@ -8,6 +8,6 @@ tags:
   - Banking
   - Bankers books
   - Bank Statements
-layout: single
+
 ---
 

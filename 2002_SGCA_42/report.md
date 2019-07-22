@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Show Theatres Pte Ltd (in liquidation) v Shaw Theatres Pte Ltd and Another 
 

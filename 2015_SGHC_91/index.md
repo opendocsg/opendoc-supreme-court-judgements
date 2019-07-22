@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Criminal procedure and sentencing
   - Revision of proceedings
-layout: single
+
 ---
 

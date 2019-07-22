@@ -7,6 +7,6 @@ tags:
   - Misuse of Drugs Act
   - Trafficking of controlled drugs
   - 'ss 5(1) (a), 5(2), 33 Misuse of Drugs Act (Cap 185, 2001 Rev Ed)'
-layout: single
+
 ---
 

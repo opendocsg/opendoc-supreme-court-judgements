@@ -24,7 +24,7 @@ tags:
   - >-
     Whether trial judge erred in using evidence adduced in voir dire at main
     trial
-layout: single
+
 ---
 # Teo Yeow Chuah v Public Prosecutor 
 

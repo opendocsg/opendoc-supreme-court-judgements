@@ -8,6 +8,6 @@ tags:
   - Civil Procedure
   - Service
   - Parties agreeing on accepted mode of service out of jurisdiction
-layout: single
+
 ---
 

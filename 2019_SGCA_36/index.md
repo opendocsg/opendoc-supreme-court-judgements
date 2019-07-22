@@ -6,6 +6,6 @@ tags:
   - Dispute resolution
   - Building and construction contracts
   - 'Architects, engineers and surveyors'
-layout: single
+
 ---
 

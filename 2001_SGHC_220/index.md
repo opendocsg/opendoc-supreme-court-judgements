@@ -15,6 +15,6 @@ tags:
     Whether reasonable objection from preferred shareholders -Whether court
     empowered to sanction such method of capital reduction
   - 'ss 70 & 73 Companies Act (Cap 50, 1994 Ed)'
-layout: single
+
 ---
 

@@ -20,7 +20,7 @@ tags:
   - Cross Jurisdiction Survey on Inspection of compound documents
   - Principle of Proportionality
   - Implementation of safeguards to limit the scope of Inspection
-layout: single
+
 ---
 # Surface Stone Pte Ltd v Tay Seng Leon and another 
 

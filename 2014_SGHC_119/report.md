@@ -8,7 +8,7 @@ tags:
   - Partners Inter Se
   - Admission of New Partner
   - Shares in Partnership
-layout: single
+
 ---
 # Chiam Heng Hsien (on his own behalf and as partner of Mitre Hotel Proprietors) v Chiam 
 

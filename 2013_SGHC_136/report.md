@@ -20,7 +20,7 @@ tags:
     Prevention of Corruption Act (Cap 241, Rev Ed 1993)
   - s 27 Prevention of Corruption Act
   - s 22 Criminal Procedure Code 2010
-layout: single
+
 ---
 # Seah Hock Thiam v Public Prosecutor 
 

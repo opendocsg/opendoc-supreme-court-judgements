@@ -7,6 +7,6 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Voluntary arrangement
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Legal Profession
   - Professional conduct
   - Grossly improper conduct
-layout: single
+
 ---
 

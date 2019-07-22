@@ -36,6 +36,6 @@ tags:
   - >-
     Whether marriage could be declared void on application by strangers to
     marriage
-layout: single
+
 ---
 

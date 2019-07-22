@@ -13,6 +13,6 @@ tags:
   - >-
     Whether term that loan should be repayable on demand to be implied into
     contract for loan
-layout: single
+
 ---
 

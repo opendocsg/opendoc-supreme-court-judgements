@@ -9,7 +9,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Principles
-layout: single
+
 ---
 # Stansilas Fabian Kester v Public Prosecutor 
 

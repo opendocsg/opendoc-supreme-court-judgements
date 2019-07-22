@@ -9,6 +9,6 @@ tags:
   - Words and Phrases
   - \"Scheme for the Reconstruction\"
   - 'Section 15(1)(a) Stamp Duties Act (Cap 312, 2006 Rev Ed)'
-layout: single
+
 ---
 

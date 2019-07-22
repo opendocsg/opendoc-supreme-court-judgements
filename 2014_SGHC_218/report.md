@@ -5,7 +5,7 @@ tags:
   - Agency
   - Powers of Attorney
   - Revocation
-layout: single
+
 ---
 # Motorola Solutions Credit Co LLC v Kemal Uzan and others 
 

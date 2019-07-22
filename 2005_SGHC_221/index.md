@@ -19,6 +19,6 @@ tags:
   - Special exceptions
   - Sudden fight
   - Accused charged with murder of close friend
-layout: single
+
 ---
 

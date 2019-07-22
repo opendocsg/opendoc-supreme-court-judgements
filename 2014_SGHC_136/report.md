@@ -6,7 +6,7 @@ tags:
   - Negligence
   - Tort
   - Breach of Statutory Duty
-layout: single
+
 ---
 # Lum Hon Ying v Buildmart Industries Pte Ltd and another and another suit 
 

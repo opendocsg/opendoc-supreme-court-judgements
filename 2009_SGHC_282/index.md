@@ -6,6 +6,6 @@ tags:
   - Oppression
   - Companies
   - lifting corporate veil
-layout: single
+
 ---
 

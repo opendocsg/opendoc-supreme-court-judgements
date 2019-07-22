@@ -5,6 +5,6 @@ tags:
   - Damages
   - assessment
   - quantum
-layout: single
+
 ---
 

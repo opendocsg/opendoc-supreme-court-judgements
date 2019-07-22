@@ -7,6 +7,6 @@ tags:
   - Breach
   - Legal Profession
   - Disciplinary Proceedings
-layout: single
+
 ---
 

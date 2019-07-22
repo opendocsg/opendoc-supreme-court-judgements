@@ -33,6 +33,6 @@ tags:
   - Accused to bear evidential burden of proof
   - Whether burden discharged on present facts
   - 's 105 Evidence Act (Cap 97, 1997 Ed)'
-layout: single
+
 ---
 

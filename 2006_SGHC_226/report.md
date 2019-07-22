@@ -15,7 +15,7 @@ tags:
   - >-
     Section 8(1)(b) Moneylenders Act (Cap 188, 1985 Rev Ed), s 109 Penal Code
     (Cap 224, 1985 Rev Ed)
-layout: single
+
 ---
 # Public Prosecutor v Choi Guo Hong Edward 
 

@@ -25,6 +25,6 @@ tags:
   - Common law
   - Mixing of tainted moneys with others
   - Legal effect of such mixing
-layout: single
+
 ---
 

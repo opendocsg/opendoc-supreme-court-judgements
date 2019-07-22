@@ -8,6 +8,6 @@ tags:
   - Breach
   - Building and construction law
   - Contractors’ duties
-layout: single
+
 ---
 

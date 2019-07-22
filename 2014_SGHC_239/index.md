@@ -5,6 +5,6 @@ tags:
   - Companies
   - directors
   - powers
-layout: single
+
 ---
 

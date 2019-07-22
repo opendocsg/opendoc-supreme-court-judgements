@@ -15,6 +15,6 @@ tags:
   - Equity
   - Estoppel
   - Estoppel by representation
-layout: single
+
 ---
 

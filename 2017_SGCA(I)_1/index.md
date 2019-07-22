@@ -5,6 +5,6 @@ tags:
   - Banking
   - Statutory regulations
   - Overseas banks with representative offices
-layout: single
+
 ---
 

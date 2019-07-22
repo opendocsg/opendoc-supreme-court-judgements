@@ -5,7 +5,7 @@ tags:
   - Conflict of Laws
   - Natural Forum
   - Forum
-layout: single
+
 ---
 # Vorobiev Nikolay v Lush John Frederick Peters and others 
 

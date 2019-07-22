@@ -15,7 +15,7 @@ tags:
   - >-
     Whether contract \"project specific\" based on purposive interpretation of
     terms of contract
-layout: single
+
 ---
 # Panwah Steel Pte Ltd v Koh Brothers Building & Civil Engineering Contractor (Pte) Ltd 
 

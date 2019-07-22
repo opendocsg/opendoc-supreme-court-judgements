@@ -13,6 +13,6 @@ tags:
   - Conspiracy
   - Tort
   - Inducement of breach of contract
-layout: single
+
 ---
 

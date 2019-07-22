@@ -6,7 +6,7 @@ tags:
   - Interest in land
   - Joint tenancy
   - Severance
-layout: single
+
 ---
 # Chan Lung Kien v Chan Shwe Ching 
 

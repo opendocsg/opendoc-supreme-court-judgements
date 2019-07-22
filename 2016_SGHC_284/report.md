@@ -7,7 +7,7 @@ tags:
   - Grievous hurt
   - Hurt
   - Culpable homicide
-layout: single
+
 ---
 # Public Prosecutor v Sumanthiran s/o Selvarajoo 
 

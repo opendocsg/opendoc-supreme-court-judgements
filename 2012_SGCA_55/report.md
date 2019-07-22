@@ -6,7 +6,7 @@ tags:
   - Appeals
   - Contract
   - Implied Terms
-layout: single
+
 ---
 # Foo Jong Peng and others v Phua Kiah Mai and another 
 

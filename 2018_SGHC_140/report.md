@@ -5,7 +5,7 @@ tags:
   - Companies
   - Striking off defunct companies
   - Restoration of struck off company
-layout: single
+
 ---
 # Ganesh Paulraj v Avantgarde Shipping Pte Ltd 
 

@@ -10,6 +10,6 @@ tags:
   - Damages
   - computation
   - time
-layout: single
+
 ---
 

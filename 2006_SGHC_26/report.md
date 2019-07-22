@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - Whether information relevant to issue at hand
-layout: single
+
 ---
 # Beckkett Pte Ltd v Deutsche Bank AG and Another 
 

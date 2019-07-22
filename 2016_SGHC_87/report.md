@@ -7,7 +7,7 @@ tags:
   - Breach
   - Legal Profession
   - Disciplinary Proceedings
-layout: single
+
 ---
 # Law Society of Singapore v Thirumurthy Ayernaar Pambayan 
 

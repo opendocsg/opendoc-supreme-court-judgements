@@ -31,6 +31,6 @@ tags:
   - >-
     Whether court might reach meaning of allegedly defamatory words different
     from that pleaded
-layout: single
+
 ---
 

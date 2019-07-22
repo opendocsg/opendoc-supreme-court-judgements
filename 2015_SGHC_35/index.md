@@ -14,6 +14,6 @@ tags:
   - Proprietary estoppel Equity
   - Defences
   - Laches
-layout: single
+
 ---
 

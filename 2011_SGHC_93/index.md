@@ -8,6 +8,6 @@ tags:
   - COMPANIES
   - Directors
   - duties
-layout: single
+
 ---
 

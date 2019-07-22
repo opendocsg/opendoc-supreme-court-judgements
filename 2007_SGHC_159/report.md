@@ -19,7 +19,7 @@ tags:
   - Sentencing
   - Whether principle of specific deterrence relevant in sentencing
   - Relevance of general deterrence
-layout: single
+
 ---
 # Public Prosecutor v Loqmanul Hakim bin Buang 
 

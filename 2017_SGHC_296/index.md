@@ -7,6 +7,6 @@ tags:
   - Outrage of Modesty
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 

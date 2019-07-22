@@ -28,6 +28,6 @@ tags:
   - Contract for sale of shares in company pursuing public listing
   - Whether specific performance appropriate remedy
   - Circumstances in which specific performance will be granted
-layout: single
+
 ---
 

@@ -18,6 +18,6 @@ tags:
   - Contractual terms
   - Arbitration clause
   - Interpretation of arbitration clause
-layout: single
+
 ---
 

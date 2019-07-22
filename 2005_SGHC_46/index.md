@@ -16,6 +16,6 @@ tags:
   - >-
     Plaintiff\'s contract with first defendant containing retention of title
     clause
-layout: single
+
 ---
 

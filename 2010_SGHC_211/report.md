@@ -9,7 +9,7 @@ tags:
   - Infringement
   - Tort
   - Passing Off
-layout: single
+
 ---
 # Pioneers & Leaders (Publishers) Pte Ltd v Asia Pacific Publishing Pte Ltd 
 

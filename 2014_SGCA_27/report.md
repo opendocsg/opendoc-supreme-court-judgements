@@ -12,7 +12,7 @@ tags:
   - dividends
   - Tort
   - Conspiracy
-layout: single
+
 ---
 # Sandz Solutions (Singapore) Pte Ltd and others v Strategic Worldwide Assets Ltd and others 
 

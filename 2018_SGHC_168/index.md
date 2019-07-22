@@ -6,6 +6,6 @@ tags:
   - Remuneration
   - Legal profession
   - Bill of costs
-layout: single
+
 ---
 

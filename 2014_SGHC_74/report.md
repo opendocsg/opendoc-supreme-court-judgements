@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure
   - Sentencing
   - Appeals
-layout: single
+
 ---
 # Yusran bin Yusoff v Public Prosecutor 
 

@@ -8,7 +8,7 @@ tags:
   - Evidence
   - Proof of evidence
   - Onus of proof
-layout: single
+
 ---
 # Public Prosecutor v Gunasilan Nadarajah 
 

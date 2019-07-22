@@ -11,6 +11,6 @@ tags:
   - >-
     Whether failure to comply with \"unless order\" was contumelious or
     contumacious
-layout: single
+
 ---
 

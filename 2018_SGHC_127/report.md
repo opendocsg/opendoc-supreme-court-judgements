@@ -8,7 +8,7 @@ tags:
   - Confidence
   - Civil Procedure
   - Pleadings
-layout: single
+
 ---
 # International Financial Services (S) Pte Ltd and another v Old Mutual International Isle of Man 
 

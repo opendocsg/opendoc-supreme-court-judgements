@@ -6,6 +6,6 @@ tags:
   - Maintenance
   - Family Law
   - Ancillary powers of court
-layout: single
+
 ---
 

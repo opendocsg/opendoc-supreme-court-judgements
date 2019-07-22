@@ -8,7 +8,7 @@ tags:
   - Conflict of Laws
   - Choice of law
   - Corporations
-layout: single
+
 ---
 # JX Holdings Inc and another v Singapore Airlines Ltd 
 

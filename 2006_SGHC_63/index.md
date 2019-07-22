@@ -39,6 +39,6 @@ tags:
     Whether right of first refusal for purchase of land constituting caveatable
     interest in land
   - 'Section 115 Land Titles Act (Cap 157, 2004 Rev Ed)'
-layout: single
+
 ---
 

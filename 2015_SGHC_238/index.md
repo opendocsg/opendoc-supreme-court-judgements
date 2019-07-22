@@ -6,6 +6,6 @@ tags:
   - Limitation
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 

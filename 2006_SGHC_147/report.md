@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Defendant seeking leave to defend claim by plaintiff
-layout: single
+
 ---
 # Oversea-Chinese Banking Corp Ltd v Ang Thian Soo 
 

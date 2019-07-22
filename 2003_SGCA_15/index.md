@@ -19,6 +19,6 @@ tags:
   - Words and Phrases
   - \'Made to\'
   - 'Limitation Act (Cap 163, 1996 Rev Ed) s 27(2)'
-layout: single
+
 ---
 

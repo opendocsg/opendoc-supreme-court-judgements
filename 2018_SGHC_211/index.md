@@ -5,6 +5,6 @@ tags:
   - Companies
   - Receiver and manager
   - Judicial management order
-layout: single
+
 ---
 

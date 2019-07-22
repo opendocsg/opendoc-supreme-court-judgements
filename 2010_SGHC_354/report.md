@@ -9,7 +9,7 @@ tags:
   - Rationalisation of sentencing policy
   - Sentencing Guidelines
   - Relevant aggravating factors
-layout: single
+
 ---
 # Yap Guat Beng v Public Prosecutor 
 

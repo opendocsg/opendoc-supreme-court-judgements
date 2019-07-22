@@ -8,6 +8,6 @@ tags:
   - Maintenance
   - Family Law
   - Matrimonial assets
-layout: single
+
 ---
 

@@ -4,6 +4,6 @@ subtitle: "[2018] SGHC 159 / 12\_July\_2018"
 tags:
   - Trade marks and trade names
   - Groundless threat
-layout: single
+
 ---
 

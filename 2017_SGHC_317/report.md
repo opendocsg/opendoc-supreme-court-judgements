@@ -15,7 +15,7 @@ tags:
   - Recipient liability
   - Personal liability
   - Proprietary liability
-layout: single
+
 ---
 # MKC Associates Co Ltd and another v Kabushiki Kaisha Honjin and others (Neo Lay Hiang 
 

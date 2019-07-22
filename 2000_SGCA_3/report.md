@@ -14,7 +14,7 @@ tags:
   - Infringement of registered design
   - Order for delivery up
   - Whether injunction sufficient
-layout: single
+
 ---
 # Hunter Manufacturing Pte Ltd and Another v Soundtex Switchgear & Engineering Pte Ltd (No 
 

@@ -9,6 +9,6 @@ tags:
   - Recognition of foreign divorce judgment
   - Res judicata
   - Issue estoppel
-layout: single
+
 ---
 

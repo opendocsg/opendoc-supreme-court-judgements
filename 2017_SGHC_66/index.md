@@ -6,6 +6,6 @@ tags:
   - Stay of execution
   - Credit and security
   - Guarantees and indemnities
-layout: single
+
 ---
 

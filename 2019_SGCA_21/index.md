@@ -8,6 +8,6 @@ tags:
   - Statutory Interpretation
   - Penal statutes
   - Endangered Species (Import and Export) Act
-layout: single
+
 ---
 

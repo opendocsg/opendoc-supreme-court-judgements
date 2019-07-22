@@ -29,7 +29,7 @@ tags:
   - >-
     Section 62 Bankruptcy Act (Cap 20, 2000 Rev Ed), s 118 Legal Profession Act
     (Cap 161, 2001 Rev Ed)
-layout: single
+
 ---
 # Wee Soon Kim Anthony v Lim Chor Pee and Another 
 

@@ -22,6 +22,6 @@ tags:
     for infringement of copyright
   - Nature of rights of non-exclusive licensee of copyright under Copyright Act
   - 'Sections 123, 124 Copyright Act (Cap 63, 2006 Rev Ed)'
-layout: single
+
 ---
 

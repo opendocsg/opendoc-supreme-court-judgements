@@ -25,6 +25,6 @@ tags:
   - >-
     Whether plaintiffs entitled to raise arguments on substantive issues for
     justifying award of costs in their favour
-layout: single
+
 ---
 

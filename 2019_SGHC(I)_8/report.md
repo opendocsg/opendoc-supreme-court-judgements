@@ -10,7 +10,7 @@ tags:
   - Equity
   - Fiduciary relationships
   - Breach of fiduciary duties
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # AKRO Group DMCC _v_ Discovery Drilling Pte Ltd  

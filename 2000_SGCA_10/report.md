@@ -14,7 +14,7 @@ tags:
   - >-
     Whether recovery of shares constitutes breach by respondent of agreement
     made with other parties
-layout: single
+
 ---
 # IHC Pte Ltd v Mustafa Ali Jumabhoy 
 

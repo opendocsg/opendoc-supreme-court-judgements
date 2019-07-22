@@ -7,6 +7,6 @@ tags:
   - Insolvency Law
   - Winding up
   - Main contractor under creditors\' voluntary winding up
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Courts and jurisdiction
   - Court judgments
   - Declaratory
-layout: single
+
 ---
 

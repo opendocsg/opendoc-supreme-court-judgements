@@ -12,7 +12,7 @@ tags:
   - Discharge
   - Contract
   - Contractual Terms
-layout: single
+
 ---
 # Tee Yok Kiat and another v Pang Min Seng and another 
 

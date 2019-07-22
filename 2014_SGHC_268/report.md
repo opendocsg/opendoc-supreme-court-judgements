@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory Offences
   - Women’s Charter
-layout: single
+
 ---
 # Public Prosecutor v Quek Chin Choon 
 

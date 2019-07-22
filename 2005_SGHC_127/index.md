@@ -15,6 +15,6 @@ tags:
     landlord\'s gross negligence
   - Whether landlord entitled to rely on exclusion clause
   - Whether landlord\'s conduct amounting to gross negligence
-layout: single
+
 ---
 

@@ -22,6 +22,6 @@ tags:
   - Vicarious Liability
   - Tort
   - Breach of Statutory Duty
-layout: single
+
 ---
 

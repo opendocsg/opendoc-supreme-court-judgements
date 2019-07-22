@@ -26,7 +26,7 @@ tags:
   - Employees’ duties
   - Fiduciary duties
   - Breach
-layout: single
+
 ---
 # Vandashima (Singapore) Pte Ltd and Another v Tiong Sing Lean and Another 
 

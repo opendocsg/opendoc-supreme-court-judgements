@@ -10,7 +10,7 @@ tags:
   - >-
     Claim by ex-wife of contributory on basis of orders of court directing
     contributory to pay ex-wife various amounts
-layout: single
+
 ---
 # Re Jiangshan Investment Consortium Ltd (in liquidation) 
 

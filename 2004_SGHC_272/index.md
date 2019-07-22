@@ -16,6 +16,6 @@ tags:
   - Property sold subject to tenancy
   - Tenant evinced intention to terminate tenancy prematurely
   - Whether vendors in breach of warranties in option to purchase property
-layout: single
+
 ---
 

@@ -26,6 +26,6 @@ tags:
   - Duty of care
   - Auditors
   - Whether auditor owing duty to detect fraud
-layout: single
+
 ---
 

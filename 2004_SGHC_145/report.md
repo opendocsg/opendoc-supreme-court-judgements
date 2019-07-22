@@ -20,7 +20,7 @@ tags:
   - Onus of proof
   - Assessment of damages
   - Onus of proof of loss wholly on plaintiff
-layout: single
+
 ---
 # Keimfarben GmbH and Co KG v Soo Nam Yuen 
 

@@ -5,6 +5,6 @@ tags:
   - Charities
   - Charitable Trusts
   - Settlement of Scheme for Administration of Trust
-layout: single
+
 ---
 

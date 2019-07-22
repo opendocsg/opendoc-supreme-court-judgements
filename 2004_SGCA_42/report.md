@@ -45,7 +45,7 @@ tags:
   - >-
     Whether remedies in tort automatically unavailable where plaintiff having
     remedy in contract against another party
-layout: single
+
 ---
 # The "Sunrise Crane"
 

@@ -11,7 +11,7 @@ tags:
   - Downloading of material from the Internet without licence of copyright owner
   - Whether such action statutorily criminalised
   - Whether infringement was significant
-layout: single
+
 ---
 # Odex Pte Ltd v Pacific Internet Ltd 
 

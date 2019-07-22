@@ -10,7 +10,7 @@ tags:
     cause of action and new relief
   - Whether amendments would allow real issue between parties to be tried
   - Whether amendments would cause prejudice to opposing party
-layout: single
+
 ---
 # Ong Kai Hian v Tan Hong Suan Cecilia and Others 
 

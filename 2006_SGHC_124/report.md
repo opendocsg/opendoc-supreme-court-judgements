@@ -12,7 +12,7 @@ tags:
     Whether commencement of second action precluded on grounds of res judicata
     or issue estoppel
   - Applicable principles
-layout: single
+
 ---
 # Alliance Entertainment Singapore Pte Ltd v Sim Kay Teck and Another 
 

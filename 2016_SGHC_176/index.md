@@ -4,6 +4,6 @@ subtitle: "[2016] SGHC 176 / 31\_August\_2016"
 tags:
   - Civil Procedure
   - Representation of Companies
-layout: single
+
 ---
 

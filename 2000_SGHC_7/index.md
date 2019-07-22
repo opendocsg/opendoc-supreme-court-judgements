@@ -10,6 +10,6 @@ tags:
   - Defences
   - Promissory estoppel
   - Whether defendants relying upon representation
-layout: single
+
 ---
 

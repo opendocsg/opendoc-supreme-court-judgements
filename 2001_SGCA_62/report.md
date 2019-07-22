@@ -56,7 +56,7 @@ tags:
   - Words and Phrases
   - \'Fraud\'
   - 'ss 46(2) & 47(1) Land Titles Act (Cap 157, 1994 Ed)'
-layout: single
+
 ---
 # Ho Kon Kim v Lim Gek Kim Betsy and Others and Another Appeal 
 

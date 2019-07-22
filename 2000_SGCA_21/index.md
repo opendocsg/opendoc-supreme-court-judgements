@@ -48,6 +48,6 @@ tags:
     others
   - Whether respondents\' trademark lacking in distinctiveness
   - 's 10(2) & 10(3) Trade Marks Act (Cap 332, 1992 Ed)'
-layout: single
+
 ---
 

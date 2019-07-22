@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Costs
   - Pro Bono Services
-layout: single
+
 ---
 

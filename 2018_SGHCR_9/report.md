@@ -6,7 +6,7 @@ tags:
   - Stay in favour of arbitration
   - Arbitration
   - Case management stay
-layout: single
+
 ---
 # A co and others v D and another 
 

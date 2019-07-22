@@ -13,6 +13,6 @@ tags:
   - Contract
   - Formation
   - Consideration
-layout: single
+
 ---
 

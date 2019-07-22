@@ -5,7 +5,7 @@ tags:
   - Insolvency law
   - Winding up
   - Debtor applying for injunction to restrain filing of winding-up petition
-layout: single
+
 ---
 # S E Shipping Lines Pte Ltd v Austral Asia Line Pte Ltd 
 

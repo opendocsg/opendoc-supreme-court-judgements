@@ -5,6 +5,6 @@ tags:
   - Companies
   - shares
   - transfer
-layout: single
+
 ---
 

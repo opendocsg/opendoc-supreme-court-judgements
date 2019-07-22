@@ -21,6 +21,6 @@ tags:
     secure release of vessel -Defendant subsequently objecting to granting of
     injunction on grounds of existing triable issues to be determined at trial
   - Factors to consider when granting interim mandatory injunctions
-layout: single
+
 ---
 

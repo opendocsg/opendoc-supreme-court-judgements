@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Avoidance of transactions
   - Unfair preferences
-layout: single
+
 ---
 # CCM Industrial Pte Ltd (in liquidation) v Chan Pui Yee 
 

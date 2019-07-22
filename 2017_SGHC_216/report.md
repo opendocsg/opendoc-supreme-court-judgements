@@ -7,7 +7,7 @@ tags:
   - Credit and Security
   - Money and moneylenders
   - Interest
-layout: single
+
 ---
 # MWA Capital Pte Ltd v Ivy Lee Realty Pte Ltd (in liquidation) 
 

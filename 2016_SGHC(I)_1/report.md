@@ -11,7 +11,7 @@ tags:
   - Contract
   - Illegality and public policy
   - Illegality under international and foreign law
-layout: single
+
 ---
 # BCBC Singapore Pte Ltd and another v PT Bayan Resources TBK and another 
 

@@ -40,6 +40,6 @@ tags:
   - >-
     Whether plaintiff failing to make full and frank disclosure in ex parte
     application for arrest
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Land
   - Easements
   - Rights of Way
-layout: single
+
 ---
 

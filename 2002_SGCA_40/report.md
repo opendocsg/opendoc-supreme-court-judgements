@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Public Prosecutor v Syed Hamid bin A Kadir Alhamid 
 

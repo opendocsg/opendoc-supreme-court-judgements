@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Costs
   - Pro Bono Services
-layout: single
+
 ---
 # SATS Construction Pte Ltd v Islam Md Ohidul 
 

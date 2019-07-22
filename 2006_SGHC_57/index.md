@@ -7,6 +7,6 @@ tags:
   - Application for bail to be reduced
   - Purposes behind granting bail
   - Whether quantum of bail was reasonable amount
-layout: single
+
 ---
 

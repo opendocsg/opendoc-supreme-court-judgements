@@ -8,7 +8,7 @@ tags:
   - Conflict of laws
   - Foreign Judgments
   - Enforcement
-layout: single
+
 ---
 # Giant Light Metal Technology (Kunshan) Co Ltd v Aksa Far East Pte Ltd 
 

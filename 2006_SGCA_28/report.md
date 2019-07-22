@@ -20,7 +20,7 @@ tags:
     commencement of voyage
   - Whether marine insurance policies time policies or mixed policies
   - 'Sections 25, 39(1) Marine Insurance Act (Cap 387, 1994 Rev Ed)'
-layout: single
+
 ---
 # Marina Offshore Pte Ltd v China Insurance Co (Singapore) Pte Ltd and Another 
 

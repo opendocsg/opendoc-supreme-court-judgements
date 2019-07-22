@@ -11,6 +11,6 @@ tags:
   - Retirement
   - Effect
   - Whether retired partners retained any stake in partnership property
-layout: single
+
 ---
 

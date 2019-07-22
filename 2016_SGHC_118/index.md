@@ -12,6 +12,6 @@ tags:
   - Negligence
   - Duty of Care
   - Non-delegable duties
-layout: single
+
 ---
 

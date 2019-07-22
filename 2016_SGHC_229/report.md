@@ -11,7 +11,7 @@ tags:
   - Recognition
   - Conflict of laws
   - Natural forum
-layout: single
+
 ---
 # Humpuss Sea Transport Pte Ltd (in compulsory liquidation) v PT Humpuss Intermoda 
 

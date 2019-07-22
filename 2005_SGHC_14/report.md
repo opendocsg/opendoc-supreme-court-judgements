@@ -12,7 +12,7 @@ tags:
   - >-
     Whether order should be made for evidence adduced in one trial to be
     admitted as evidence in the trial of subsequent actions.
-layout: single
+
 ---
 # Chong Hon Kuan Ivan and Another v Levy Maurice and Others and Other Actions 
 

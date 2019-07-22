@@ -4,6 +4,6 @@ title: >-
   appeal
 subtitle: "[2015] SGCA 65 / 30\_November\_2015"
 tags: null
-layout: single
+
 ---
 

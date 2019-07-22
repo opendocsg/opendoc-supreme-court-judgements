@@ -6,6 +6,6 @@ tags:
   - Criminal references
   - Plead guilty procedure
   - Qualification of plea
-layout: single
+
 ---
 

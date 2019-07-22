@@ -6,7 +6,7 @@ tags:
   - Matrimonial home
   - Division
   - Distribution of proc eeds of sale of matrimonial home
-layout: single
+
 ---
 # Chan Siew Fong v Chan Fook Kee 
 

@@ -10,6 +10,6 @@ tags:
   - Purposive approach
   - Conflict of laws
   - Natural forum
-layout: single
+
 ---
 

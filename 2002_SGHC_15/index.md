@@ -8,6 +8,6 @@ tags:
   - Schemes of arrangement
   - Approval by court
   - Indemnity costs claims of auditors
-layout: single
+
 ---
 

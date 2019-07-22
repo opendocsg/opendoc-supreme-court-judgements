@@ -10,7 +10,7 @@ tags:
   - Contract
   - Remedies
   - Remoteness of Damage
-layout: single
+
 ---
 # Transocean Offshore International Ventures Limited v Burgundy Global Exploration 
 

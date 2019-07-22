@@ -11,6 +11,6 @@ tags:
   - Words and Phrases
   - \'Wilful misconduct\'
   - art 25 Warsaw Convention
-layout: single
+
 ---
 

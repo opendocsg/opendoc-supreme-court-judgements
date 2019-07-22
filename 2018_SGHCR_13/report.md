@@ -6,7 +6,7 @@ tags:
   - Discovery of Documents
   - Patents and Inventions
   - Experiments
-layout: single
+
 ---
 # Element Six Technologies Ltd v IIa Technologies Pte Ltd 
 

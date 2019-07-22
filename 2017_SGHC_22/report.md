@@ -10,7 +10,7 @@ tags:
   - Contract
   - Illegality and public policy
   - Penalties
-layout: single
+
 ---
 # CIFG Special Assets Capital I Ltd v Polimet Pte Ltd and others (Chris Chia Woon Liat and 
 

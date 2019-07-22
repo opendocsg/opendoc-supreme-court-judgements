@@ -31,7 +31,7 @@ tags:
   - Words and Phrases
   - \'At the trial\'
   - 's 34(2)(a) Supreme Court of Judicature Act (Cap 322, 1999 Ed)'
-layout: single
+
 ---
 # Tan Chiang Brother's Marble (S) Pte Ltd v Permasteelisa Pacific Holdings Ltd 
 

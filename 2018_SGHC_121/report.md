@@ -8,7 +8,7 @@ tags:
   - executors
   - Trusts
   - trustees
-layout: single
+
 ---
 # Lakshmi Prataprai Bhojwani (alias Mrs Lakshmi Jethanand Bhojwani) v Moti Harkishindas 
 

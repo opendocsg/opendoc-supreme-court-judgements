@@ -5,6 +5,6 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Mandatory stay under international arbitration act
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Second accused aware of and consenting to such acts
   - Second accused aiding and participating in some of the acts
   - Mitigating factors
-layout: single
+
 ---
 

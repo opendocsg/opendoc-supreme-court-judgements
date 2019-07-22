@@ -8,6 +8,6 @@ tags:
   - Administrative Law
   - Judicial review
   - Threshold for leave for judicial review
-layout: single
+
 ---
 

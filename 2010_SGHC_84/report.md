@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - Application
-layout: single
+
 ---
 # Singapore Piling & Civil Engineering Pte Ltd v Kim Teck Corp Pte Ltd and others 
 

@@ -5,6 +5,6 @@ tags:
   - Contract
   - frustration
   - leases
-layout: single
+
 ---
 

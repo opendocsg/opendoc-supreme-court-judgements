@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Bankruptcy application disputed by debtor
-layout: single
+
 ---
 # Oversea-Chinese Banking Corp Ltd v Ravichandran s/o Suppiah 
 

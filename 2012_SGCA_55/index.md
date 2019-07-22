@@ -6,6 +6,6 @@ tags:
   - Appeals
   - Contract
   - Implied Terms
-layout: single
+
 ---
 

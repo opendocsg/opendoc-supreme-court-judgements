@@ -31,6 +31,6 @@ tags:
   - >-
     Regulation 20 Building Maintenance and Strata Management (Strata Titles
     Boards) Regulations 2005 (S 195/2005)
-layout: single
+
 ---
 

@@ -27,6 +27,6 @@ tags:
   - >-
     Whether insurer entitled to indemnity from third party against premiums
     refunded to lender
-layout: single
+
 ---
 

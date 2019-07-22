@@ -7,7 +7,7 @@ tags:
   - Trusts
   - Constructive Trusts
   - Resulting Trusts
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BUE and another _v_ TZQ and another  

@@ -22,6 +22,6 @@ tags:
     Senior District Judge head of Commercial Affairs Department at time when
     applicants charged
   - 'Section 185(1) Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 

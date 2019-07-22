@@ -7,7 +7,7 @@ tags:
   - Insolvency Law
   - Avoidance of transactions
   - Unfair preferences
-layout: single
+
 ---
 # Jurong Technologies Industrial Corp Ltd (under judicial management) v Coöperatieve 
 

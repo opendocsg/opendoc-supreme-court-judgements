@@ -7,6 +7,6 @@ tags:
   - Governing law
   - Arbitral tribunal
   - Jurisdiction
-layout: single
+
 ---
 

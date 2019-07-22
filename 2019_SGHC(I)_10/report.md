@@ -7,7 +7,7 @@ tags:
   - Recourse against award
   - Setting aside
   - Whether three-month time limit under Article 34(3) extendable by court
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BXS _v_ BXT  

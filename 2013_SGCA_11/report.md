@@ -5,7 +5,7 @@ tags:
   - COMPANIES
   - Oppression
   - Minority shareholders
-layout: single
+
 ---
 # Ang Thiam Swee v Low Hian Chor 
 

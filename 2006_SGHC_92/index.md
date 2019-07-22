@@ -15,6 +15,6 @@ tags:
     Standard of proof applicable for allegations of fraud and dishonesty in
     civil proceedings
   - Whether plaintiffs meeting required standard of proof
-layout: single
+
 ---
 

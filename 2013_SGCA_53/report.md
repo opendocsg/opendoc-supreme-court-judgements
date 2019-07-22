@@ -10,7 +10,7 @@ tags:
   - Assessment
   - Compensation
   - User principle
-layout: single
+
 ---
 # ACES System Development Pte Ltd v Yenty Lily (trading as Access International Services) 
 

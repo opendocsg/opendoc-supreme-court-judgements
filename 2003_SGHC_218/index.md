@@ -6,6 +6,6 @@ tags:
   - Inter vivos
   - Intention to give
   - Whether there was an intention to make gift of moneys in bank accounts
-layout: single
+
 ---
 

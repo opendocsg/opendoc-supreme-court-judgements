@@ -14,7 +14,7 @@ tags:
   - >-
     Whether plaintiff contributorily negligent in failing to keep proper lookout
     and following vehicle in front too closely
-layout: single
+
 ---
 # Koh Swee Hoon Joanna Ophelia v Yeo Hee Chong 
 

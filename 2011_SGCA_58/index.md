@@ -6,6 +6,6 @@ tags:
   - Award
   - Recourse against award
   - appeal under Arbitration Act
-layout: single
+
 ---
 

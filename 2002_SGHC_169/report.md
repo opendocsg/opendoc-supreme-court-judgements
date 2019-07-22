@@ -10,7 +10,7 @@ tags:
   - Court judgments
   - Role of court assessors
   - Whether advice of court assessors open to scrutiny
-layout: single
+
 ---
 # Ng Giok Oh & 3 Others v Sajjad Akhtar & 2 Others 
 

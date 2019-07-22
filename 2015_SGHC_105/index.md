@@ -5,6 +5,6 @@ tags:
   - Damages
   - Assessment
   - Account of profits
-layout: single
+
 ---
 

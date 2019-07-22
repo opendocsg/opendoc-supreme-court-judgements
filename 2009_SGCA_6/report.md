@@ -21,7 +21,7 @@ tags:
   - Child
   - Wife
   - Matrimonial assets
-layout: single
+
 ---
 # TQ v TR and Another Appeal 
 

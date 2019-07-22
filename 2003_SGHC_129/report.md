@@ -12,7 +12,7 @@ tags:
   - >-
     Whether loss of future earnings approach or loss of earning capacity
     approach
-layout: single
+
 ---
 # Tang Chiew Ping v Abdul Rashid Bin Razali 
 

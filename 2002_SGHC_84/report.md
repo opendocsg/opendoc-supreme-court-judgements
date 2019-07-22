@@ -55,7 +55,7 @@ tags:
   - Sentencing
   - Penalties
   - Consumption of controlled drug
-layout: single
+
 ---
 # Cheng Siah Johnson v Public Prosecutor 
 

@@ -9,7 +9,7 @@ tags:
   - Personal injury
   - Defective equipment
   - Scope of Liability in Negligence
-layout: single
+
 ---
 # Lim Yee Ming v Ubin Lagoon Resort Pte Ltd and Others (Adventure Training Systems Pty Ltd, 
 

@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Costs
   - Taxation
-layout: single
+
 ---
 # Nim Minimaart (a firm) v Management Corporation Strata Title Plan No 1079 and others 
 

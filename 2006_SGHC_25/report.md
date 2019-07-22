@@ -7,7 +7,7 @@ tags:
   - Amendment
   - Plaintiff seeking to amend statement of claim in second week of trial
   - Whether plaintiff seeking amendment too late
-layout: single
+
 ---
 # Sin Leng Industries Pte Ltd v Ong Chai Teck and Others 
 

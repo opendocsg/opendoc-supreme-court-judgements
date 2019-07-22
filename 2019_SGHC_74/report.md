@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Appeals
   - Leave
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Globe-Sea Offshore Engineering Pte Ltd _v_ DNET Contract Services Pte Ltd  

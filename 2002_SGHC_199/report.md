@@ -30,7 +30,7 @@ tags:
   - >-
     Whether appellate court should disturb trial judge\'s assessment of
     witness\'s credibility
-layout: single
+
 ---
 # Low Lin Lin v Public Prosecutor 
 

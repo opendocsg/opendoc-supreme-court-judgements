@@ -10,7 +10,7 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Abetting the trafficking of controlled drugs through conspiracy
-layout: single
+
 ---
 # Public Prosecutor v Vejiyan a/l Muniandy and another 
 

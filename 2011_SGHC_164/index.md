@@ -5,6 +5,6 @@ tags:
   - Companies
   - Director
   - Loan
-layout: single
+
 ---
 

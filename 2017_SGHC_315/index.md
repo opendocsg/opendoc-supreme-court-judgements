@@ -8,6 +8,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Community-based sentencing options
-layout: single
+
 ---
 

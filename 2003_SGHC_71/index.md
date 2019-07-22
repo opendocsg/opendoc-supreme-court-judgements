@@ -6,6 +6,6 @@ tags:
   - Contractual terms
   - Warranties
   - Whether breached.
-layout: single
+
 ---
 

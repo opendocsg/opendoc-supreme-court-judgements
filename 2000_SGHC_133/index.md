@@ -18,6 +18,6 @@ tags:
   - >-
     Whether appellant knew or ought to have known sub-tenants\' status as
     illegal immigrants
-layout: single
+
 ---
 

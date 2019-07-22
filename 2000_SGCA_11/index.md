@@ -21,6 +21,6 @@ tags:
   - Damages
   - Assessment
   - Method of assessment when loss not quantifiable
-layout: single
+
 ---
 

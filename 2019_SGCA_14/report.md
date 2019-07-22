@@ -5,7 +5,7 @@ tags:
   - Companies
   - Oppression
   - Minority shareholders
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Abhilash s/o Kunchian Krishnan _v_ Yeo Hock Huat and another  

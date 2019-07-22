@@ -5,6 +5,6 @@ tags:
   - Land
   - Caveats
   - Wrongful lodgment
-layout: single
+
 ---
 

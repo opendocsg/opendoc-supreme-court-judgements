@@ -24,6 +24,6 @@ tags:
     Whether defendants misrepresenting themselves as commercial source of
     services in question
   - Whether plaintiff\'s goodwill damaged as consequence
-layout: single
+
 ---
 

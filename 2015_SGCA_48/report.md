@@ -14,7 +14,7 @@ tags:
   - Probate and Administration
   - Distribution of assets
   - Assents
-layout: single
+
 ---
 # Seah Teong Kang (co-executor of the will of Lee Koon, deceased) and another v Seah Yong 
 

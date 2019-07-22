@@ -34,6 +34,6 @@ tags:
   - Words and Phrases
   - \'Holder\'
   - 's 5 Bills of Lading Act (Cap 384, 1994 Ed)'
-layout: single
+
 ---
 

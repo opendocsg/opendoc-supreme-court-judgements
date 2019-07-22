@@ -25,6 +25,6 @@ tags:
   - Family law
   - Custody
   - No orders made
-layout: single
+
 ---
 

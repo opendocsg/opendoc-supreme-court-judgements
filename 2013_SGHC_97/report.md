@@ -13,7 +13,7 @@ tags:
   - Contract
   - Illegality
   - Bribery
-layout: single
+
 ---
 # ANC Holdings Pte Ltd v Bina Puri Holdings Bhd 
 

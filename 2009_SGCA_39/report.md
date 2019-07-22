@@ -5,7 +5,7 @@ tags:
   - Banking
   - Lending and security
   - Legal mortgages
-layout: single
+
 ---
 # DB Trustees (Hong Kong) Ltd v Consult Asia Pte Ltd and Another Appeal 
 

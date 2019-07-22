@@ -8,7 +8,7 @@ tags:
   - Passing Off
   - Trade Marks and Trade Names
   - Revocation
-layout: single
+
 ---
  Date Registration Number 
 

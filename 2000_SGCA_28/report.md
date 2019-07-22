@@ -14,7 +14,7 @@ tags:
   - Formation of contract
   - Whether collateral contract formed through exchange of telexes
   - Acceptance of entire terms by shipowner
-layout: single
+
 ---
 # The "Epic" 
 

@@ -9,6 +9,6 @@ tags:
   - Contract
   - Breach
   - Causation of Loss
-layout: single
+
 ---
 

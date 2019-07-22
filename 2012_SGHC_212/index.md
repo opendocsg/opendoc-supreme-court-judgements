@@ -10,6 +10,6 @@ tags:
   - finality of award
   - Civil Procedure
   - Service
-layout: single
+
 ---
 

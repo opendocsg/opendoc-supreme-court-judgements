@@ -16,7 +16,7 @@ tags:
   - >-
     Whether plaintiff liable for losses occurring before and after
     responsibility for non-core business assumed
-layout: single
+
 ---
 # Teo Chin Kiang Willie v MAE Engineering Ltd 
 

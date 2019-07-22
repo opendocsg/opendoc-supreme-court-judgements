@@ -11,7 +11,7 @@ tags:
   - Housing and Development (Agreements for Sale and Purchase) Rules
   - Contract
   - Estoppel by Convention
-layout: single
+
 ---
 # Muharrem Unsal v M K Sivalingam Jaganathan 
 

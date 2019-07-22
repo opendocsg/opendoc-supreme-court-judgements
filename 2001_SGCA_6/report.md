@@ -15,7 +15,7 @@ tags:
   - Interpretation of clause
   - Term in contract on indemnity against tax liability
   - Whether tax liability under assessed
-layout: single
+
 ---
 # Wu Fu Ping and Another v Ong Beng Seng and Others 
 

@@ -6,7 +6,7 @@ tags:
   - Infringement
   - Assessment of Damages
   - Statutory Damages
-layout: single
+
 ---
 # Louis Vuitton Malletier v Cuffz (Singapore) Pte Ltd 
 

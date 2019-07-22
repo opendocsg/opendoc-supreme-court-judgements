@@ -9,7 +9,7 @@ tags:
     and purchase of shares
   - Whether implied term was condition
   - Remedies
-layout: single
+
 ---
 # Lee Seng Cheong and Others v Seah Bak Seng 
 

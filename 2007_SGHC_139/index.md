@@ -11,6 +11,6 @@ tags:
   - Sentencing
   - Principles
   - Cases as guidelines for sentencing
-layout: single
+
 ---
 

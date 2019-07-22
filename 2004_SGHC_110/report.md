@@ -13,7 +13,7 @@ tags:
   - Strata titles
   - Strata titles board
   - Whether Board had jurisdiction to hear application
-layout: single
+
 ---
 # Chong Ken Ban (alias Chong Johnson) and Another v Management Corporation Strata Title 
 

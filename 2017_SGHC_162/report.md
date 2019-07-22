@@ -7,7 +7,7 @@ tags:
   - Fraudulent
   - Contract
   - Mistake
-layout: single
+
 ---
 # Alacran Design Pte Ltd v Broadley Construction Pte Ltd 
 

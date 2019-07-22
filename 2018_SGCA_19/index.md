@@ -7,6 +7,6 @@ tags:
   - Adjudication
   - Statutory interpretation
   - Construction of statute
-layout: single
+
 ---
 

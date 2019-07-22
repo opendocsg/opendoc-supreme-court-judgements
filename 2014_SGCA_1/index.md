@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - appeals
   - leave
-layout: single
+
 ---
 

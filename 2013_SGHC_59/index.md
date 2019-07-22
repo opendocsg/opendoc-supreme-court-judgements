@@ -9,6 +9,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Acquittal
-layout: single
+
 ---
 

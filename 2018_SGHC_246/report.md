@@ -13,7 +13,7 @@ tags:
   - Remedies
   - Rescission
   - Bars to rescission
-layout: single
+
 ---
 # International Healthway Corp Ltd v The Enterprise Fund III Ltd and others 
 

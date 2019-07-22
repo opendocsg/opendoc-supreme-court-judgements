@@ -9,6 +9,6 @@ tags:
   - Patents and Inventions
   - Revocation
   - Validity
-layout: single
+
 ---
 

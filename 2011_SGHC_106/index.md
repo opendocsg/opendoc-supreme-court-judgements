@@ -6,6 +6,6 @@ tags:
   - Work Injury Compensation Act
   - section 3(6)
   - section 29(2A)
-layout: single
+
 ---
 

@@ -4,7 +4,7 @@ subtitle: "[2010] SGHC 73 / 10\_March\_2010"
 tags:
   - Contract
   - Breach
-layout: single
+
 ---
 # Cousins Scott William v The Royal Bank of Scotland plc 
 

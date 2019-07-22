@@ -24,7 +24,7 @@ tags:
     Whether defendants misrepresenting themselves as commercial source of
     services in question
   - Whether plaintiff\'s goodwill damaged as consequence
-layout: single
+
 ---
 # QB Net Co Ltd v Earnson Management (S) Pte Ltd and Others 
 

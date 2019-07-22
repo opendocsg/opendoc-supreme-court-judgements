@@ -26,7 +26,7 @@ tags:
     Owners failing to appear before Strata Titles Board but applying to court
     before Board granted any order
   - Whether owners acting in bad faith
-layout: single
+
 ---
 # Tan Joy Hon and Others v Sassoon Samuel Bernard and Others 
 

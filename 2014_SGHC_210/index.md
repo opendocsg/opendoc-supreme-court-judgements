@@ -13,6 +13,6 @@ tags:
   - Civil procedure
   - jurisdiction
   - inherent
-layout: single
+
 ---
 

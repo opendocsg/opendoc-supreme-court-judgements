@@ -7,6 +7,6 @@ tags:
   - Disclaimer of onerous transactions
   - Land
   - Sale of land
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - >-
     Whether presumption of legitimacy in s 114 Evidence Act (Cap 97, 1997 Rev
     Ed) operated where paternity not in dispute
-layout: single
+
 ---
 # AAE v AAF 
 

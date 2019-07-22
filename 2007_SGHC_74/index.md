@@ -5,6 +5,6 @@ tags:
   - Administrative Law
   - Judicial review
   - Fettering of discretion and abrogation of responsibility
-layout: single
+
 ---
 

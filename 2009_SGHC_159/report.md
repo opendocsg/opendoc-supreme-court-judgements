@@ -26,7 +26,7 @@ tags:
   - >-
     Whether pari passu principle applied in the first place in the context of
     judicial management
-layout: single
+
 ---
 # Altus Technologies Pte Ltd (under judicial management) v Oversea-Chinese Banking Corp Ltd 
 

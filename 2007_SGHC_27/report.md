@@ -33,7 +33,7 @@ tags:
   - Restitution
   - Quantum meruit
   - Difference between contractual and restitutionary quantum meruit
-layout: single
+
 ---
 # Rabiah Bee Bte Mohamed Ibrahim v Salem Ibrahim 
 

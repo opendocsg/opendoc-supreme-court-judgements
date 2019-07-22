@@ -6,6 +6,6 @@ tags:
   - Disciplinary Tribunals
   - Administrative Law
   - Natural Justice
-layout: single
+
 ---
 

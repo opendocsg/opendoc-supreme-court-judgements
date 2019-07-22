@@ -22,6 +22,6 @@ tags:
   - >-
     Whether land-register should be rectified on ground that registration
     resulting from mistake
-layout: single
+
 ---
 

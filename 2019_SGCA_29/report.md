@@ -10,7 +10,7 @@ tags:
   - Third party liability
   - Classification of creditors
   - Abuse of process
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Pathfinder Strategic Credit LP and another _v_ Empire Capital Resources Pte Ltd and another appeal  

@@ -7,6 +7,6 @@ tags:
   - Grossly improper conduct
   - Fee agreement
   - Champerty
-layout: single
+
 ---
 

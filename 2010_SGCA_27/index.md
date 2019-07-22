@@ -4,6 +4,6 @@ title: >-
   another,
 subtitle: "[2010] SGCA 27 / 04\_August\_2010"
 tags: null
-layout: single
+
 ---
 

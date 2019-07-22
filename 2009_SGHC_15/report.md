@@ -10,7 +10,7 @@ tags:
     Whether every individual subsidiary proprietor including minority liable for
     aforesaid fees
   - Whether quantum of such fees had to be specified at time of agreement
-layout: single
+
 ---
 # Leong Soh Har Michael and Others v Kek Beng and Others 
 

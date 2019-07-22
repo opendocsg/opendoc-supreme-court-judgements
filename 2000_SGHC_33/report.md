@@ -13,7 +13,7 @@ tags:
   - Rights
   - Right of derivative action
   - Whether director acting in good faith
-layout: single
+
 ---
 # Re Winpac Paper Products Pte Ltd 
 

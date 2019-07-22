@@ -8,6 +8,6 @@ tags:
   - Equity
   - Estoppel
   - Promissory
-layout: single
+
 ---
 

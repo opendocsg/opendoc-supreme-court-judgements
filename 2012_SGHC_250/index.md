@@ -8,6 +8,6 @@ tags:
   - Directors’ liabilities
   - Companies
   - Directors’ duties
-layout: single
+
 ---
 

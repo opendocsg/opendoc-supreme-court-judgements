@@ -14,7 +14,7 @@ tags:
   - Novelty
   - Patents and inventions
   - Validity
-layout: single
+
 ---
 # Towa Corp v ASM Technology Singapore Pte Ltd and another 
 

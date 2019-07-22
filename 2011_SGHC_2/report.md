@@ -6,7 +6,7 @@ tags:
   - Procedure
   - Administrative law
   - Remedies
-layout: single
+
 ---
  a) 
 

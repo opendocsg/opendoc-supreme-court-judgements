@@ -10,7 +10,7 @@ tags:
   - Bills of Exchange And Other Negotiable Instruments
   - Consideration
   - Sufficiency
-layout: single
+
 ---
 # Thomson Rubbers (India) Pte Ltd v Tan Ai Hock 
 

@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - appeals
   - leave
-layout: single
+
 ---
 # ADJ v ADK 
 

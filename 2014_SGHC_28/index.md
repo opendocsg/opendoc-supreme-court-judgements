@@ -8,6 +8,6 @@ tags:
   - Companies
   - Receiver and Manager
   - Derivative Action
-layout: single
+
 ---
 

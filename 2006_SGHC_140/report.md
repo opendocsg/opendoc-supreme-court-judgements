@@ -15,7 +15,7 @@ tags:
     defer deduction of remaining 15% of costs to balance 15% of purchase price
     receivable in subsequent year of assessment
   - 'Housing Developers (Project Account) Rules (Cap 130, R 2, 1997 Rev Ed)'
-layout: single
+
 ---
 # Comptroller of Income Tax v KE 
 

@@ -7,6 +7,6 @@ tags:
   - Voluntary Arrangement
   - Applicant’s duties
   - Nominee’s duties
-layout: single
+
 ---
 

@@ -12,6 +12,6 @@ tags:
   - Sentencing
   - Rape
   - Appropriate sentence to be passed in light of aggravating factors present.
-layout: single
+
 ---
 

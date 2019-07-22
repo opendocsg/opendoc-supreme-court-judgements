@@ -19,7 +19,7 @@ tags:
   - Sentencing
   - Forms of punishment
   - Corrective training
-layout: single
+
 ---
 # Public Prosecutor v Mahat bin Salim 
 

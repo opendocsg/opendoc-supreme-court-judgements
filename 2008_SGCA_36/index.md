@@ -27,6 +27,6 @@ tags:
   - >-
     Whether choice of law clause in non-existent contract should apply to
     purchaser\'s claim to recover payment
-layout: single
+
 ---
 

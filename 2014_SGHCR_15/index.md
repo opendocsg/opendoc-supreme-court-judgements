@@ -8,6 +8,6 @@ tags:
   - Assessment
   - Dependency Claims
   - Quantum
-layout: single
+
 ---
 

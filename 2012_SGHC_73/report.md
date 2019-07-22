@@ -5,7 +5,7 @@ tags:
   - Tort
   - assault and battery
   - wrongful arrest
-layout: single
+
 ---
 # Simon Suppiah Sunmugam v Chua Geok Teck and another 
 

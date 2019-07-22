@@ -50,7 +50,7 @@ tags:
   - Remedies
   - Performance of contractual obligation in negligent way
   - Whether more appropriate to pursue remedy in contract or tort
-layout: single
+
 ---
 # Rapiscan Asia Pte Ltd v Global Container Freight Pte Ltd 
 

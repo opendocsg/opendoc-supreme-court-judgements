@@ -7,6 +7,6 @@ tags:
   - Land
   - Interest in Land
   - Joint Tenancy
-layout: single
+
 ---
 

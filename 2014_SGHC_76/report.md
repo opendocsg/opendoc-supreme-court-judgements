@@ -8,7 +8,7 @@ tags:
   - Family Law
   - Maintenance
   - Child
-layout: single
+
 ---
 # ADB v ADC 
 

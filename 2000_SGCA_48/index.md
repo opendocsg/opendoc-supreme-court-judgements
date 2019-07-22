@@ -14,6 +14,6 @@ tags:
   - Gratuitous bailment
   - Mutuum
   - Whether initiation deposits are mutuum
-layout: single
+
 ---
 

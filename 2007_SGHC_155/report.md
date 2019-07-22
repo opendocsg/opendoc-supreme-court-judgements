@@ -10,7 +10,7 @@ tags:
     Whether mistaken belief that application for permission not rejected valid
     defence
   - 'Sections 131(1)(b), 131(2) Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 # Chee Soon Juan v Public Prosecutor 
 

@@ -8,6 +8,6 @@ tags:
   - Injunctions
   - Appeals
   - Leave
-layout: single
+
 ---
 

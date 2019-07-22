@@ -7,6 +7,6 @@ tags:
   - Decree absolute and decree nisi
   - Conflict of laws
   - Recognition of foreign divorce judgment
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Courts and Jurisdiction
   - Court of Appeal
   - Natural justice
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Variation
   - Res judicata
   - Extended doctrine
-layout: single
+
 ---
 

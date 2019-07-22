@@ -5,7 +5,7 @@ tags:
   - Family Law
   - Matrimonial Assets
   - Division
-layout: single
+
 ---
  (a) A matrimonial house at Jalan Bahagia held by the Husband and Wife (“the Matrimonial House”): 
 

@@ -8,7 +8,7 @@ tags:
   - Equity
   - Disposition in writing
   - Part performance
-layout: single
+
 ---
 # Tan Kim Heng v Tan Kim Li 
 

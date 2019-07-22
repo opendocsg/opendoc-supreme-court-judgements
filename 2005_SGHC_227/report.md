@@ -7,7 +7,7 @@ tags:
   - >-
     Whether breach of subcontract for failing to follow instructions of
     consultants
-layout: single
+
 ---
 # Lim Chin San Contractors Pte Ltd v Sanchoon Builders Pte Ltd 
 

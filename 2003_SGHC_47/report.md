@@ -20,7 +20,7 @@ tags:
     judgment
   - Where court has not yet risen for the day
   - Criminal Procedure Code (Cap 68) s 217.
-layout: single
+
 ---
 # Chuah Gin Synn v Public Prosecutor 
 

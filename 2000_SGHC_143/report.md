@@ -12,7 +12,7 @@ tags:
   - >-
     Whether petitioner suffering prejudice from failure to stay breach
     proceedings
-layout: single
+
 ---
 # Gunalan s/o Govindarajoo v Public Prosecutor 
 

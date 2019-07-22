@@ -6,6 +6,6 @@ tags:
   - International taxation
   - Double taxation agreement
   - Exchange of information
-layout: single
+
 ---
 

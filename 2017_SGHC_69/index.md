@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Statutory Offences
   - Betting Act
-layout: single
+
 ---
 

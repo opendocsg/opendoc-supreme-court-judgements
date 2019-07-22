@@ -14,7 +14,7 @@ tags:
   - Charges
   - Contract
   - Assignment
-layout: single
+
 ---
 # Jurong Aromatics Corp Pte Ltd (receivers and managers appointed) and others v BP 
 

@@ -10,7 +10,7 @@ tags:
   - >-
     Whether directors\' remuneration was authorised by company\'s articles of
     association.
-layout: single
+
 ---
 # Heap Huat Rubber Company Sdn Bhd and Others v Kong Choot Sian and Others (No 2) 
 

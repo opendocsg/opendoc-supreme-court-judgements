@@ -5,6 +5,6 @@ tags:
   - Building and construction law
   - dispute resolution
   - alternative dispute resolution procedures
-layout: single
+
 ---
 

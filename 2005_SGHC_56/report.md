@@ -5,7 +5,7 @@ tags:
   - Contract
   - Contractual terms
   - Defendant purchasing fish and seafood products from plaintiff
-layout: single
+
 ---
 # Tri-Oceanic Pte Ltd v Chun Cheng Fishery Enterprise Pte Ltd 
 

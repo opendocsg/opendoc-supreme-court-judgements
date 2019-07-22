@@ -7,7 +7,7 @@ tags:
   - Contract
   - Contractual terms
   - Implied terms
-layout: single
+
 ---
 # City Ken Pte Ltd v Comfortdelgro Engineering Pte Ltd 
 

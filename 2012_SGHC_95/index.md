@@ -5,6 +5,6 @@ tags:
   - Contract
   - remedies
   - damages
-layout: single
+
 ---
 

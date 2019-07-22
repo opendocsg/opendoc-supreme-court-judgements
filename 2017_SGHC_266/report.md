@@ -14,7 +14,7 @@ tags:
   - Tort
   - Occupier’s liability
   - Duty of care
-layout: single
+
 ---
 # Singapore Shooting Association v Singapore Rifle Association 
 

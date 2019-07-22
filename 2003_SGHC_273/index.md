@@ -14,6 +14,6 @@ tags:
   - >-
     Whether trial judge had duty to call witnesses on behalf of unrepresented
     defendant
-layout: single
+
 ---
 

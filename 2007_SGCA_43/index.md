@@ -30,6 +30,6 @@ tags:
   - Acknowledgment
   - Whether effective acknowledgement existing
   - 'Section 26(1) Limitation Act (Cap 163, 1996 Rev Ed)'
-layout: single
+
 ---
 

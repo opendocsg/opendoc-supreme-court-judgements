@@ -18,6 +18,6 @@ tags:
   - >-
     Whether employee owed parent c ompany duties though he was employed by its
     subsidiaries.
-layout: single
+
 ---
 

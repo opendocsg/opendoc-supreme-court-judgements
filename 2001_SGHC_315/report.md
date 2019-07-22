@@ -16,7 +16,7 @@ tags:
   - Parties entering into transaction on basis of common assumption of facts
   - Change of position by a party
   - Whether other party can deny truth of such facts
-layout: single
+
 ---
 # Panwell Pte Ltd v Indian Bank (No 2) 
 

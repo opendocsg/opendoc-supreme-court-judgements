@@ -8,7 +8,7 @@ tags:
   - Negligence
   - Contributory negligence
   - Motorcyclist killed in collision with bus
-layout: single
+
 ---
 # Stafford Rosemary Anne Jane (administratrix of the estate of Stafford Anthony John, 
 

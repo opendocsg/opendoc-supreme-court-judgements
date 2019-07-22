@@ -8,6 +8,6 @@ tags:
   - Companies
   - Share options
   - Employees of subsidiary granted options in parent company
-layout: single
+
 ---
 

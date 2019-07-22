@@ -11,6 +11,6 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Grounds
-layout: single
+
 ---
 

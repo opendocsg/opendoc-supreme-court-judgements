@@ -17,7 +17,7 @@ tags:
   - >-
     Whether cut-off date for time bar six years before date of filing of set-off
     and counterclaim or six years before date of filing of writ of summons
-layout: single
+
 ---
 # Spandeck Engineering (S) Pte Ltd v China Construction (South Pacific) Development Co Pte 
 

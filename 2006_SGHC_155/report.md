@@ -34,7 +34,7 @@ tags:
   - >-
     Whether public interest constituting distinct and autonomous sentencing
     principle
-layout: single
+
 ---
 # Angliss Singapore Pte Ltd v Public Prosecutor 
 

@@ -41,6 +41,6 @@ tags:
   - >-
     Whether appellant having to prove hypothetical action on balance of
     probabilities or show \"real and measurable chance\"
-layout: single
+
 ---
 

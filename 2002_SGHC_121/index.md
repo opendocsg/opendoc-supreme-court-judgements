@@ -14,6 +14,6 @@ tags:
   - Whether to exercise discretion in applicant\'s favour
   - Normal reprieve granted in postponement of sentence
   - s 223 Criminal Procedure Code (Cap 68)
-layout: single
+
 ---
 

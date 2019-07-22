@@ -10,6 +10,6 @@ tags:
   - Jurisdiction
   - Conflict of Laws
   - Jurisdiction
-layout: single
+
 ---
 

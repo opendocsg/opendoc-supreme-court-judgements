@@ -5,6 +5,6 @@ tags:
   - Land
   - Strata titles
   - Collective sales
-layout: single
+
 ---
 

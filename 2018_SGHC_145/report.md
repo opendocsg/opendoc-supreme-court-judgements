@@ -8,7 +8,7 @@ tags:
   - Credit and security
   - Performance bond
   - Unconscionability exception
-layout: single
+
 ---
 # Sunrise Industries (India) Ltd v PT OKI Pulp & Paper Mills and another 
 

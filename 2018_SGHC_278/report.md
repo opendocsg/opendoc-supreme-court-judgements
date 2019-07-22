@@ -6,7 +6,7 @@ tags:
   - Fraudulent Misrepresentation
   - Contractual Construction
   - Total Failure of Consideration
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # RJC Resource Pte Ltd and another _v_ Koh Lee Hoo  

@@ -13,7 +13,7 @@ tags:
     Whether sufficient grounds for leave for order of certiorari and mandamus to
     be granted under O 53 r 1(1) of Rules of Court existing
   - 'Order 53 r 1 Rules of Court (Cap 322, R 5, 2004 Rev Ed)'
-layout: single
+
 ---
 # Teng Fuh Holdings Pte Ltd v Collector of Land Revenue 
 

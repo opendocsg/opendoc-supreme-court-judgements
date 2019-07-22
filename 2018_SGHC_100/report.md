@@ -6,7 +6,7 @@ tags:
   - judgments and orders
   - Civil procedure
   - service
-layout: single
+
 ---
 # Resorts World at Sentosa Pte Ltd v Sze Siu Hung 
 

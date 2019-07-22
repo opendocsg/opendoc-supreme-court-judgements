@@ -6,6 +6,6 @@ tags:
   - Appeal
   - Plea of guilty
   - Retraction of plea
-layout: single
+
 ---
 

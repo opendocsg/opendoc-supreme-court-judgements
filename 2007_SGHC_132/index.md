@@ -9,6 +9,6 @@ tags:
   - Landlord and Tenant
   - Termination of leases
   - Validity of notices to quit
-layout: single
+
 ---
 

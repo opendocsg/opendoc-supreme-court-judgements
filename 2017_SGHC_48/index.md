@@ -12,6 +12,6 @@ tags:
   - Infringement
   - Patents and Inventions
   - Groundless threat
-layout: single
+
 ---
 

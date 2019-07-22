@@ -7,7 +7,7 @@ tags:
   - Interpretation
   - Illegality and public policy
   - common law
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Tan Li Yin Michel _v_ Avril Rengasamy  

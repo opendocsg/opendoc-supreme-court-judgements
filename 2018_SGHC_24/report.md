@@ -10,7 +10,7 @@ tags:
   - Companies
   - Incorporation of companies
   - Lifting corporate veil
-layout: single
+
 ---
 # Jhaveri Darsan Jitendra and others v Salgaocar Anil Vassudeva and others 
 

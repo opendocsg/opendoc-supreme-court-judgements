@@ -14,7 +14,7 @@ tags:
   - Land
   - Registration of title
   - Indefeasibility
-layout: single
+
 ---
 # Chia Hang Kiu (administratrix of the estate of Chia Chee Wah (alias Chay Ah Soo) 
 

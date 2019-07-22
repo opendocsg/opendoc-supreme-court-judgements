@@ -15,6 +15,6 @@ tags:
   - Breach of trust
   - Whether entrustment relationship created by agreement between parties
   - Whether breach of fiduciary duty arising from entrustment relationship
-layout: single
+
 ---
 

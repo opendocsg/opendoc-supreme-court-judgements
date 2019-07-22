@@ -17,7 +17,7 @@ tags:
   - >-
     Effect of failure to put to witness a matter which contradicts his
     evidencein-chief
-layout: single
+
 ---
 # Public Prosecutor v Tan Lian Tiong 
 

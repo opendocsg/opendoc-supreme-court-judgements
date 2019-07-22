@@ -28,7 +28,7 @@ tags:
   - Remedies
   - Damages
   - Clause allowing plaintiff to claim for \"any direct cost\"
-layout: single
+
 ---
 # Sato Kogyo (S) Pte Ltd v RDC Concrete Pte Ltd 
 

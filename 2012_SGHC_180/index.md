@@ -5,6 +5,6 @@ tags:
   - Family Law
   - Matrimonial Proceedings
   - Jurisdiction
-layout: single
+
 ---
 

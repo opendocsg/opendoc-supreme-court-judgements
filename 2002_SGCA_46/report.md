@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Bandung Shipping Pte Ltd v Keppel Tatlee Bank Ltd 
 

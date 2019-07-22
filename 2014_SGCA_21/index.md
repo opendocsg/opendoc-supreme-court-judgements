@@ -17,6 +17,6 @@ tags:
   - Acquiescence
   - Tort
   - Conspiracy
-layout: single
+
 ---
 

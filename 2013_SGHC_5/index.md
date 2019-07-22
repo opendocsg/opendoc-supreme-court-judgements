@@ -12,6 +12,6 @@ tags:
   - grossly improper conduct
   - Legal profession
   - show cause action
-layout: single
+
 ---
 

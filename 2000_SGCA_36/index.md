@@ -34,6 +34,6 @@ tags:
   - Witness with interest to serve
   - Conviction on uncorroborated evidence of witness with interest to serve
   - 'ss 116, illustration (b) & 135 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

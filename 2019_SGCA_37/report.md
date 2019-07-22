@@ -10,7 +10,7 @@ tags:
   - Ambit
   - Constitutional Law
   - Judicial Power
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Nagaenthran a/l K Dharmalingam _v_ Public Prosecutor and another appeal  

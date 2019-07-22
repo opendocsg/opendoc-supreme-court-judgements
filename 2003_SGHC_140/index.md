@@ -12,6 +12,6 @@ tags:
     Act warranting disciplinary action s 83(2)(j) of the Act
   - Appropriate penalty
   - 'Legal Profession Act (Cap 161) ss 83(1), 83(2)(b) & 83(2)(j)'
-layout: single
+
 ---
 

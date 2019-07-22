@@ -14,7 +14,7 @@ tags:
   - Civil procedure
   - Summary judgment
   - Shadowy defence
-layout: single
+
 ---
 # Millennium Commodity Trading Ltd v BS Tech Pte Ltd 
 

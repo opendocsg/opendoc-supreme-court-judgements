@@ -12,7 +12,7 @@ tags:
   - Building and construction law
   - Dispute resolution
   - Stay of enforcement pending appeal
-layout: single
+
 ---
 # Kingsford Construction Pte Ltd v A Deli Construction Pte Ltd 
 

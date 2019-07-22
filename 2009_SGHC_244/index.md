@@ -6,6 +6,6 @@ tags:
   - Women’s charter
   - divorce
   - unreasonable behaviour
-layout: single
+
 ---
 

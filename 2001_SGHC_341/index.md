@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Trials
   - Application for discharge not amounting to acquittal
-layout: single
+
 ---
 

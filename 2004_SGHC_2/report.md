@@ -10,7 +10,7 @@ tags:
     Whether employer entitled to terminate contract of service under s 13
     Employment Act
   - 'Section 13(2) Employment Act (Cap 91, 1996 Rev Ed)'
-layout: single
+
 ---
 # Arokiasamy Joseph Clement Louis v Singapore Airlines Ltd 
 

@@ -6,7 +6,7 @@ tags:
   - Stay of court proceedings
   - Arbitration
   - Exercise of discretionary case management powers
-layout: single
+
 ---
 # BASF Intertrade AG Singapore Branch v H&C S Holding Pte Ltd 
 

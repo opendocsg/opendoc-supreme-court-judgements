@@ -5,7 +5,7 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional conduct
-layout: single
+
 ---
 # Ang Peng Tiam v Singapore Medical Council and another matter 
 

@@ -8,6 +8,6 @@ tags:
   - Long single income marriage
   - Maintenance
   - Wife
-layout: single
+
 ---
 

@@ -17,6 +17,6 @@ tags:
     Scheme incorporating term releasing third party guarantor from liability for
     loans of debtor company
   - Whether scheme can incorporate such term
-layout: single
+
 ---
 

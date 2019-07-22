@@ -7,6 +7,6 @@ tags:
   - Claims by sub-contractor
   - Building and construction law
   - Statutes and regulations
-layout: single
+
 ---
 

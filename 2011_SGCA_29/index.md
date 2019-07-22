@@ -20,6 +20,6 @@ tags:
   - >-
     Factors to be taken into consideration in the taxation of party and party
     costs
-layout: single
+
 ---
 

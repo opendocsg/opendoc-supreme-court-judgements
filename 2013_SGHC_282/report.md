@@ -8,7 +8,7 @@ tags:
   - Family Law
   - Maintenance
   - Wife
-layout: single
+
 ---
 # BND v BNE 
 

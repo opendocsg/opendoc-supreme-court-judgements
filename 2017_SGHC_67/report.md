@@ -5,7 +5,7 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Drug trafficking
-layout: single
+
 ---
 # Public Prosecutor v Alagesan Nathan and another 
 

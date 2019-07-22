@@ -6,6 +6,6 @@ tags:
   - Bankruptcy
   - Statutory demand
   - Whether service of statutory demand irregular
-layout: single
+
 ---
 

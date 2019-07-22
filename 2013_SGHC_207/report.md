@@ -8,7 +8,7 @@ tags:
   - Civil Procedure
   - Costs
   - Security
-layout: single
+
 ---
 # Kraze Entertainment (S) Pte Ltd v Marina Bay Sands Pte Ltd 
 

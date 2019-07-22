@@ -21,7 +21,7 @@ tags:
     Circumstances under which court may refuse to grant pre-action discovery to
     party to arbitration agreement
   - Whether court having power to order pre-arbitral discovery
-layout: single
+
 ---
 # Woh Hup (Pte) Ltd and Others v Lian Teck Construction Pte Ltd 
 

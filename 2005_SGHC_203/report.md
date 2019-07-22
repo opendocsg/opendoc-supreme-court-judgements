@@ -15,7 +15,7 @@ tags:
   - Adverse possession
   - Claim for adverse possession by one co-owner against another coowner
   - Applicable principles
-layout: single
+
 ---
 # Tan Chwee Chye and Others v P V RM Kulandayan Chettiar 
 

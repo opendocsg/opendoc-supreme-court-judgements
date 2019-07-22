@@ -16,6 +16,6 @@ tags:
   - Covenants
   - Renewal
   - Tenant purporting to exercise option to renew lease
-layout: single
+
 ---
 

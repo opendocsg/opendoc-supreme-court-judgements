@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Mandatory Treatment Order
   - Calling of Mandatory Treatment Order suitability report
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # GCX _v_ Public Prosecutor  

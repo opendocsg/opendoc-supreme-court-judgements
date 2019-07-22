@@ -16,6 +16,6 @@ tags:
     15A\" and decided they were not relevant to matter when plaintiff\'s counsel
     did not have sight of documents in \"File 15A\"
   - Whether plaintiff\'s counsel misled court by creating such an impression
-layout: single
+
 ---
 

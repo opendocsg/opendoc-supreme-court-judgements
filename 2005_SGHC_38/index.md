@@ -12,6 +12,6 @@ tags:
   - >-
     Whether plaintiffs entitled to claim for diminution in value of club
     membership
-layout: single
+
 ---
 

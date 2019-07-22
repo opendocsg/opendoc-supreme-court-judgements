@@ -12,6 +12,6 @@ tags:
   - >-
     Whether defendant should be released from express undertaking not to use or
     disclose plaintiff\'s documents
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Criminal Proc edure and Sentenc ing
   - Sentenc ing
   - Forms of punishment
-layout: single
+
 ---
 

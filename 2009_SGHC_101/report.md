@@ -36,7 +36,7 @@ tags:
   - >-
     Whether marriage could be declared void on application by strangers to
     marriage
-layout: single
+
 ---
 # Tan Ah Thee And Another (administrators of the estate of Tan Kiam Poh (alias Tan Gna 
 

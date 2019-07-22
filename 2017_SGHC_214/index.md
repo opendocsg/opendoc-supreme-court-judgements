@@ -6,6 +6,6 @@ tags:
   - Service out of jurisdiction
   - Conflict of Laws
   - Stay of court proceedings
-layout: single
+
 ---
 

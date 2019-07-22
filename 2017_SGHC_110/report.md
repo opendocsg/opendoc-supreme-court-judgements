@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Offences
   - Rape
-layout: single
+
 ---
 # Public Prosecutor v Pramanik Liton 
 

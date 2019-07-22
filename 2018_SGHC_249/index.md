@@ -4,6 +4,6 @@ subtitle: "[2018] SGHC 249 / 16\_November\_2018"
 tags:
   - Credit and Security
   - Performance bond
-layout: single
+
 ---
 

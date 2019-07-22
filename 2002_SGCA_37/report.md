@@ -11,7 +11,7 @@ tags:
   - Indoor management rule
   - Rule in Turquand\'s case
   - Applicability of rule
-layout: single
+
 ---
 # Development Bank of Singapore Ltd v Bok Chee Seng Construction Pte Ltd 
 

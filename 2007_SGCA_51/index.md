@@ -16,6 +16,6 @@ tags:
   - Waiver of deposit sought
   - Whether security deposit mandatory
   - 'Order 57 rr 3(3), 3(4) Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 

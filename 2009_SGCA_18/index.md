@@ -44,6 +44,6 @@ tags:
   - Conspiracy
   - Conspiracy by unlawful means
   - Elements of conspiracy by unlawful means
-layout: single
+
 ---
 

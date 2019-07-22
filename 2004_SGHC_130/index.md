@@ -9,6 +9,6 @@ tags:
     should be granted
   - New cause of action time barred
   - 'Order 20 r 5(5) of the Rules of Court (Cap 332, R 5, 2004 Rev Ed)'
-layout: single
+
 ---
 

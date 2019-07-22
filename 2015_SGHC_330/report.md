@@ -5,7 +5,7 @@ tags:
   - Conflict of laws
   - Choice of jurisdiction
   - Natural forum
-layout: single
+
 ---
 # Bunge SA and another v Indian Bank 
 

@@ -7,7 +7,7 @@ tags:
   - Adjudication
   - Setting aside of adjudication determination
   - Breach of natural justice
-layout: single
+
 ---
 # Glaziers Engineering Pte Ltd v WCS Engineering Construction Pte Ltd 
 

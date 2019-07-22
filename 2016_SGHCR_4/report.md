@@ -9,7 +9,7 @@ tags:
   - Courts and Jurisdiction
   - Court judgments
   - Binding force
-layout: single
+
 ---
 # Chan Yat Chun v Sng Jin Chye and another 
 

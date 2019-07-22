@@ -6,7 +6,7 @@ tags:
   - Groundless threat
   - Copyright
   - Infringement
-layout: single
+
 ---
 # RecordTV Pte Ltd v MediaCorp TV Singapore Pte Ltd and others 
 

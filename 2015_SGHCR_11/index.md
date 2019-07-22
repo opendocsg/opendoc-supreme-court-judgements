@@ -11,6 +11,6 @@ tags:
   - Forbearance
   - Civil Procedure
   - Summary Judgment
-layout: single
+
 ---
 

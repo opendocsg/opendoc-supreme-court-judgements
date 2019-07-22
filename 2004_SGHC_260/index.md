@@ -19,6 +19,6 @@ tags:
     Whether plaintiff\'s affidavits in support of application for pre-action
     discovery stating \"material facts pertaining to the intended proceedings\"
   - 'Order 24 r 6(3) Rules of Court (Cap 322, R 5, 2004 Rev Ed)'
-layout: single
+
 ---
 

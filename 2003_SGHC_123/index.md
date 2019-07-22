@@ -21,6 +21,6 @@ tags:
     Whether burden of proving disclosure of status to lender shifts to
     undischarged bankrupt
   - 'Bankruptcy Act (Cap 20, 1996 Rev Ed ) ss 141(1)(a), 146'
-layout: single
+
 ---
 

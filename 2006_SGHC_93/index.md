@@ -41,6 +41,6 @@ tags:
     Whether plaintiff proving prima facie case of reasonable suspicion that bad
     faith existing
   - 'Section 5(1) Land Acquisition Act (Cap 152, 1985 Rev Ed)'
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
   - Lifting corporate veil
   - Trusts
   - Constructive trusts
-layout: single
+
 ---
 # Simgood Pte Ltd v MLC Barging Pte Ltd and others 
 

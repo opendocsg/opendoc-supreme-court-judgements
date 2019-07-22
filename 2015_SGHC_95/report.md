@@ -7,7 +7,7 @@ tags:
   - Breach
   - Legal Profession
   - Disciplinary Proceedings
-layout: single
+
 ---
 # The Law Society of Singapore v Manjit Singh s/o Kirpal Singh and another 
 

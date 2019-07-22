@@ -21,6 +21,6 @@ tags:
   - >-
     Whether appellant affected even if allegations of pain, hunger and
     inducement true
-layout: single
+
 ---
 

@@ -15,6 +15,6 @@ tags:
     Whether defences of fair comment or justification applicable to acts of
     contempt
   - Appropriate sentence for such contempt of court
-layout: single
+
 ---
 

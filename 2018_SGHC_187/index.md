@@ -5,6 +5,6 @@ tags:
   - Courts and Jurisdiction
   - Court judgments
   - Declaratory
-layout: single
+
 ---
 

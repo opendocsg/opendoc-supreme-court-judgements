@@ -7,6 +7,6 @@ tags:
   - Contract
   - Misrepresentation
   - Fraudulent
-layout: single
+
 ---
 

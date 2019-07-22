@@ -14,7 +14,7 @@ tags:
   - Garnishee orders
   - Material non-disclosure of facts in application for order
   - Whether order should be set aside
-layout: single
+
 ---
 # Supermix Concrete Pte Ltd v Econ Corp Ltd (Public Utilities Board, garnishees) 
 

@@ -18,6 +18,6 @@ tags:
   - >-
     Section 18 Criminal Procedure Code (Cap 68, 1985 Rev Ed), ss 375, 376 Penal
     Code (Cap 224, 1985 Rev Ed)
-layout: single
+
 ---
 

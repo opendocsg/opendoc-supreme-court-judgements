@@ -5,6 +5,6 @@ tags:
   - Companies
   - oppression
   - minority shareholders
-layout: single
+
 ---
 

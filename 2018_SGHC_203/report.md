@@ -16,7 +16,7 @@ tags:
   - Trusts
   - Express Trusts
   - Interaction with Central Provident Fund Act
-layout: single
+
 ---
 # BTB and another v BTD 
 

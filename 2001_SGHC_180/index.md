@@ -6,6 +6,6 @@ tags:
   - Bankruptcy
   - Petition for interim order
   - Right of creditors to be heard
-layout: single
+
 ---
 

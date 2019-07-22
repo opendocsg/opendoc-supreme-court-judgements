@@ -13,7 +13,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Striking Out
-layout: single
+
 ---
 # Sun Electric Pte Ltd v Sunseap Group Pte Ltd and others 
 

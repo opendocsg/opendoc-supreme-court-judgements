@@ -15,7 +15,7 @@ tags:
   - Confidence
   - Tort
   - Inducement of breach of contract
-layout: single
+
 ---
 # Nanofilm Technologies International Pte Ltd v Semivac International Pte Ltd and others 
 

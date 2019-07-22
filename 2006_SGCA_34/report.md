@@ -21,7 +21,7 @@ tags:
   - Words and Phrases
   - \"Available market\"
   - 'Section 51(3) Sale of Goods Act (Cap 393, 1999 Rev Ed)'
-layout: single
+
 ---
 # Panwah Steel Pte Ltd v Burwill Trading Pte Ltd 
 

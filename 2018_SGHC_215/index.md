@@ -14,6 +14,6 @@ tags:
   - Charges
   - Contract
   - Assignment
-layout: single
+
 ---
 

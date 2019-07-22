@@ -6,7 +6,7 @@ tags:
   - Setting Aside of Order Setting Aside Adjudication Determination
   - Civil Procedure
   - Consent Orders
-layout: single
+
 ---
 # Sentosa Building Construction Pte Ltd v DJ Builders & Contractors Pte Ltd 
 

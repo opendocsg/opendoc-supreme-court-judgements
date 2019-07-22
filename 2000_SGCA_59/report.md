@@ -30,7 +30,7 @@ tags:
   - Cause of action estoppel
   - Identity of parties
   - Privity of interest
-layout: single
+
 ---
 # Tohru Motobayashi v Official Receiver and Another 
 

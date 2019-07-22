@@ -17,6 +17,6 @@ tags:
   - Promissory estoppel
   - Credit and security
   - Guarantees and indemnities
-layout: single
+
 ---
 

@@ -18,6 +18,6 @@ tags:
   - Witnesses
   - Corroboration
   - Main evidence given by complainant unsatifactory
-layout: single
+
 ---
 

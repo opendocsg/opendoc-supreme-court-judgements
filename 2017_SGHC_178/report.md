@@ -10,7 +10,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Adducing fresh evidence
-layout: single
+
 ---
 # Public Prosecutor v Sakthikanesh s/o Chidambaram and other appeals and another matter 
 

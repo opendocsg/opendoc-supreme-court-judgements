@@ -26,7 +26,7 @@ tags:
   - Striking out
   - Res judicata
   - Whether doctrine applies
-layout: single
+
 ---
 # Chua Choon Lim Robert v MN Swami and Others 
 

@@ -8,6 +8,6 @@ tags:
   - Delivery of cargo against presentation of bills of lading
   - Civil Procedure
   - Summary judgment
-layout: single
+
 ---
 

@@ -10,7 +10,7 @@ tags:
   - >-
     Whether accused of unstable character and likely to commit similar offence
     in future
-layout: single
+
 ---
 # Public Prosecutor v Hwang Yew Kong 
 

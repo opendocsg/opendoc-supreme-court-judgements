@@ -16,6 +16,6 @@ tags:
   - Powers
   - CRIMINAL PROCEDURE AND SENTENCING
   - Revision of proceedings
-layout: single
+
 ---
 

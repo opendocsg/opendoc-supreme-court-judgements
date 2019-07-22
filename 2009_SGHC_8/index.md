@@ -8,6 +8,6 @@ tags:
   - Trusts
   - Resulting trusts
   - Automatic resulting trusts
-layout: single
+
 ---
 

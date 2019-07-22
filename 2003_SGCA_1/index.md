@@ -18,6 +18,6 @@ tags:
   - Proof of evidence
   - Confessions
   - Reliability of contents of accused\'s statements
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Conversion
   - Damages
   - Assessment
-layout: single
+
 ---
 # Fairmacs Shipping & Transport Services Pte Ltd v Harikutai Engineering Pte Ltd and another 
 

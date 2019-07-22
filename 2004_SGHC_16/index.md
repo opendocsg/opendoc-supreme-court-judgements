@@ -19,6 +19,6 @@ tags:
   - Evidence
   - Witnesses
   - Whether trial judge\'s assessment of witnesses\' credibility was flawed
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Later agreement varying terms of contract
   - Interpretation of variation agreement
   - Whether plaintiff entitled to claim balance of original contract.
-layout: single
+
 ---
 

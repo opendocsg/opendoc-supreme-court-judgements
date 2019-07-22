@@ -8,6 +8,6 @@ tags:
   - Confidence
   - Evidence
   - Admissibility of evidence
-layout: single
+
 ---
 

@@ -33,7 +33,7 @@ tags:
   - >-
     Whether court\'s decision on parties\' liabilities binds plaintiff on the
     amount of his claim
-layout: single
+
 ---
 # Ram Thayalan Raman Siv and Another v Liew Yap Tong trading as Tong Heng Motor Work 
 

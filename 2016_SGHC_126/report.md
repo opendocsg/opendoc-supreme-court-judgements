@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # JVL Agro Industries Ltd v Agritrade International Pte Ltd 
 

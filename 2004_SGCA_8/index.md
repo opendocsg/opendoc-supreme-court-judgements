@@ -29,6 +29,6 @@ tags:
   - Duty of care
   - Whether pure economic loss recoverable
   - Two-stage test
-layout: single
+
 ---
 

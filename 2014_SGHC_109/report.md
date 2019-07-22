@@ -8,7 +8,7 @@ tags:
   - Negligence
   - Contract
   - Breach
-layout: single
+
 ---
 # Hotel Royal @ Queens Pte Ltd trading as Hotel Royal @ Queens v J M Pang & Seah (Pte) 
 

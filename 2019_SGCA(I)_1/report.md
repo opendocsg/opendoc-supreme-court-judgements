@@ -9,7 +9,7 @@ tags:
   - Minority shareholders
   - Contract
   - Breach
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Senda International Capital Ltd _v_ Kiri Industries Ltd and others and another appeal  

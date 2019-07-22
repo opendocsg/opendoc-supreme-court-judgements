@@ -21,7 +21,7 @@ tags:
   - Wife leaving performance of household chores to domestic help
   - 'Wife training, managing and supervising domestic help'
   - Whether wife making indirect contributions to purchase price of property
-layout: single
+
 ---
 # Pang Rosaline v Chan Kong Chin 
 

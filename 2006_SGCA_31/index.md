@@ -43,6 +43,6 @@ tags:
   - \"Lot\"
   - Whether strata lot must be separately assessed
   - Section 2(7) Property Tax Act
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
     Application by issuing bank for stay of Singapore proceedings on ground that
     South Korea more appropriate forum
   - Whether stay of action should be granted
-layout: single
+
 ---
 

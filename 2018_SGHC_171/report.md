@@ -5,7 +5,7 @@ tags:
   - Land
   - Strata titles
   - Collective sales
-layout: single
+
 ---
 # Deorukhkar Sameer Vinay and others v Quek Chin Kheam 
 

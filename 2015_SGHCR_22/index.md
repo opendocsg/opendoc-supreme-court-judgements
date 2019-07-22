@@ -5,6 +5,6 @@ tags:
   - Arbitration
   - International Arbitration Act
   - Stay of Arbitral Proceedings
-layout: single
+
 ---
 

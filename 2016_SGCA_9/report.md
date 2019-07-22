@@ -8,7 +8,7 @@ tags:
   - Equity
   - Defences
   - Laches
-layout: single
+
 ---
 # Chng Weng Wah v Goh Bak Heng 
 

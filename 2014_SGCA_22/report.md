@@ -5,7 +5,7 @@ tags:
   - Companies
   - Directors
   - Breach of duty
-layout: single
+
 ---
 # Ho Kang Peng v Scintronix Corp Ltd (formerly known as TTL Holdings Ltd) 
 

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Suboh bin Ramli and Another v Public Prosecutor 
 

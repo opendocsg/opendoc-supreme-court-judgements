@@ -17,6 +17,6 @@ tags:
     Whether personal involvement in mistaken payment on liquidators\' part
     necessary
   - Whether dishonourable behaviour by liquidators in receipt of money necessary
-layout: single
+
 ---
 

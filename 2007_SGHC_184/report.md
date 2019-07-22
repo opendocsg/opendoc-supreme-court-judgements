@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Principles
   - Accused provoked by deceased
-layout: single
+
 ---
 # Public Prosecutor v Chan Soi Peng 
 

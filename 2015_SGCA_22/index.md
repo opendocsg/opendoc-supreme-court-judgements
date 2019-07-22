@@ -8,6 +8,6 @@ tags:
   - Interpretation of term
   - Contract
   - Misrepresentation
-layout: single
+
 ---
 

@@ -17,6 +17,6 @@ tags:
   - Whether appropriate for court to grant application
   - Appropriate penalty
   - 'Sections 83(2)(h), 98(5) Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 

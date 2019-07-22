@@ -18,6 +18,6 @@ tags:
   - 'District judge imposing $27,000 fine on appellant'
   - Appellant previously fined for similar breaches and paying the fines
   - Need for heavy fine as deterrent for other licensees
-layout: single
+
 ---
 

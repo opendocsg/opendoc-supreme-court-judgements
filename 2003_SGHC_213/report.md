@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Forms of punishment
   - Preventive detention
-layout: single
+
 ---
 # Public Prosecutor v Salwant Singh s/o Amer Singh 
 

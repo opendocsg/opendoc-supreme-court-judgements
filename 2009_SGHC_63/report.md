@@ -6,7 +6,7 @@ tags:
   - Easements
   - Rights of way
   - Unilateral realignment of right of way by servient tenement
-layout: single
+
 ---
 # Pacific Rover Pte Ltd v Yickvi Realty Pte Ltd 
 

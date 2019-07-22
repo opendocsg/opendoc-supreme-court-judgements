@@ -8,7 +8,7 @@ tags:
   - Costs
   - Civil Procedure
   - Judgment and Orders
-layout: single
+
 ---
 # Ong Chai Hong (executrix of the estate of Chiang Chia Liang, deceased) v Chiang Shirley 
 

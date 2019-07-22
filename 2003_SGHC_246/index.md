@@ -7,6 +7,6 @@ tags:
   - Petition
   - Appeal
   - Whether bankruptcy order should be set aside
-layout: single
+
 ---
 

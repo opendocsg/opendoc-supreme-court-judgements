@@ -7,7 +7,7 @@ tags:
   - Civil procedure
   - Judgments and orders
   - Garnishee orders
-layout: single
+
 ---
 # Telecom Credit Inc v Star Commerce Pte Ltd (Midas United Group Pte Ltd, garnishee)
 

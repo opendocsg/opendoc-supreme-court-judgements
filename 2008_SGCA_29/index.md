@@ -15,6 +15,6 @@ tags:
     Whether hypothetical tenancy method or 5% method of assessment should be
     used
   - 'Section 2 Property Tax Act (Cap 254, 1997 Rev Ed)'
-layout: single
+
 ---
 

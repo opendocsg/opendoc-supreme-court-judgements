@@ -12,6 +12,6 @@ tags:
   - >-
     Whether performance on faith of letter of award indicated binding contract
     existed
-layout: single
+
 ---
 

@@ -16,7 +16,7 @@ tags:
   - >-
     Whether letter subject to without prejudice privilege and inadmissible as
     evidence
-layout: single
+
 ---
 # Otto Systems Singapore Pte Ltd v Greenline-Onyx Envirotech Phils, Inc 
 

@@ -11,7 +11,7 @@ tags:
   - Building and Construction Law
   - Sub-contracts
   - Claims by sub-contractor
-layout: single
+
 ---
 # Mansource Interior Pte Ltd v CSG Group Pte Ltd 
 

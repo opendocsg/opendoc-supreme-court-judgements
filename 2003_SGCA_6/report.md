@@ -22,7 +22,7 @@ tags:
   - Words and Phrases
   - \'Payable\'
   - 'Central Provident Fund Act (Cap 36, 2001 Rev Ed)'
-layout: single
+
 ---
 # Progress Software Corp (S) Pte Ltd v Central Provident Fund Board 
 

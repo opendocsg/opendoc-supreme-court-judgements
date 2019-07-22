@@ -6,6 +6,6 @@ tags:
   - Offences
   - Culpable Homicide
   - Sentencing
-layout: single
+
 ---
 

@@ -10,7 +10,7 @@ tags:
   - Matrimonial assets
   - Division
   - Whether wife entitled to larger share of matrimonial assets
-layout: single
+
 ---
 # Rosaline Singh v Jayabalan Samidurai (alias Jerome Jayabalan) 
 

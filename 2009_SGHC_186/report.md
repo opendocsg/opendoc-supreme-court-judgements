@@ -19,7 +19,7 @@ tags:
   - >-
     Whether High Court should exercise its discretionary powers to enhance
     sentence below under such circumstances
-layout: single
+
 ---
 # Public Prosecutor v Muhammad Noor Indra bin Hamzah 
 

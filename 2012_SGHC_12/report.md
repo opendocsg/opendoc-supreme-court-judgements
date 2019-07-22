@@ -5,7 +5,7 @@ tags:
   - Companies
   - Shares
   - Transfer
-layout: single
+
 ---
 # Pang Swee Kang v Low Chui Ying Foreen and another 
 

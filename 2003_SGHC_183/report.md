@@ -28,7 +28,7 @@ tags:
   - Witnesses
   - Impeaching witnesses’ credibility
   - Witness convicted in earlier case
-layout: single
+
 ---
 # Viswanathan Ramachandran v Public Prosecutor 
 

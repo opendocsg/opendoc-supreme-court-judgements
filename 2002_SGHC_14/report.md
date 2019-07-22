@@ -12,7 +12,7 @@ tags:
   - Sentencing
   - Applicable norm
   - Relevant considerations
-layout: single
+
 ---
 # Abu Syeed Chowdhury v Public Prosecutor 
 

@@ -25,6 +25,6 @@ tags:
   - >-
     Whether other parties required to file defence before hearing of stay of
     proceedings application
-layout: single
+
 ---
 

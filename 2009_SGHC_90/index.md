@@ -6,6 +6,6 @@ tags:
   - Grant of probate
   - Executor\'s application for notation on grant of probate
   - Whether deceased died domiciled in Singapore
-layout: single
+
 ---
 

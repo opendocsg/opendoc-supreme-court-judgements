@@ -8,6 +8,6 @@ tags:
   - Equity
   - Fiduciary relationships
   - Duties
-layout: single
+
 ---
 

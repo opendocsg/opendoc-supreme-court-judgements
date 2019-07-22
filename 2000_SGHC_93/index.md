@@ -16,6 +16,6 @@ tags:
   - Sentencing
   - Appeals
   - Whether manifestly excessive
-layout: single
+
 ---
 

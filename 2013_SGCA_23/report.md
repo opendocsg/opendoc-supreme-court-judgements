@@ -7,7 +7,7 @@ tags:
   - Remoteness of Damage
   - Damages
   - Assessment
-layout: single
+
 ---
 # PPG Industries (Singapore) Pte Ltd v Compact Metal Industries Ltd 
 

@@ -9,6 +9,6 @@ tags:
   - Infringement
   - Tort
   - Passing Off
-layout: single
+
 ---
 

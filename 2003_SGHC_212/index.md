@@ -10,6 +10,6 @@ tags:
     Application for leave to order re-trial and stay of death sentence pending
     hearing of application
   - Whether High Court has jurisdiction to grant leave
-layout: single
+
 ---
 

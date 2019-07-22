@@ -10,6 +10,6 @@ tags:
   - >-
     Whether directors\' remuneration was authorised by company\'s articles of
     association.
-layout: single
+
 ---
 

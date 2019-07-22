@@ -8,6 +8,6 @@ tags:
   - Whether licence contractual
   - Whether licence terminable
   - 'If so, whether terminable by notice'
-layout: single
+
 ---
 

@@ -13,7 +13,7 @@ tags:
   - Admissibility of evidence
   - Whether correspondence marked \"without prejudice\" admissible as evidence
   - Whether correspondence made in context of negotiations to settle dispute
-layout: single
+
 ---
 # Mariwu Industrial Co (S) Pte Ltd v Dextra Asia Co Ltd and Another 
 

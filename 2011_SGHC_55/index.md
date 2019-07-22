@@ -5,6 +5,6 @@ tags:
   - Conflict of Laws
   - Natural Forum
   - Forum
-layout: single
+
 ---
 

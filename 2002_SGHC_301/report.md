@@ -12,7 +12,7 @@ tags:
   - Receiving stolen property
   - Test for \"reason to believe\" property to be stolen
   - 's 411 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 # Ow Yew Beng v Public Prosecutor 
 

@@ -20,6 +20,6 @@ tags:
   - Tort
   - Conspiracy
   - Unlawful means conspiracy
-layout: single
+
 ---
 

@@ -17,6 +17,6 @@ tags:
     Service of foreign process from court of non-convention country without
     letter of request
   - Mode of service
-layout: single
+
 ---
 

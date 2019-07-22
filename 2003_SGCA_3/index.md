@@ -23,6 +23,6 @@ tags:
   - Constructive trusts
   - Breach of trust
   - Dishonest assistance in breach of trust
-layout: single
+
 ---
 

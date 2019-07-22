@@ -13,6 +13,6 @@ tags:
   - Strata titles
   - Strata titles board
   - Whether Board had jurisdiction to hear application
-layout: single
+
 ---
 

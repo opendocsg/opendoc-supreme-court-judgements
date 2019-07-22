@@ -23,6 +23,6 @@ tags:
   - >-
     Whether defendant losing right to rescind sub-contract by electing to affirm
     sub-contract after discovering plaintiff\'s misrepresentations
-layout: single
+
 ---
 

@@ -24,6 +24,6 @@ tags:
   - 'Whether notice of appeal frivolous, vexatious or abuse of process'
   - Whether clear and obvious case for striking out
   - 'Order 57 r 3 Rules of Court (Cap 322, R 5, 2004 Rev Ed)'
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - Time limitation of guarantor\'s liability
   - Recital of guarantee stating limitation
   - Applicable principals on binding effect of recitals
-layout: single
+
 ---
 # AS Nordlandsbanken and Another v Nederkoorn 
 

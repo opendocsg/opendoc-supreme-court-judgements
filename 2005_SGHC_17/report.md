@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Winding up
   - Garnishee order not made absolute when debtor company wound up
-layout: single
+
 ---
 # Finebuild Systems Pte Ltd v Transbilt Engineering Pte Ltd (in liquidation) 
 

@@ -7,6 +7,6 @@ tags:
   - Pre-contract deposits
   - Contract
   - Formation
-layout: single
+
 ---
 

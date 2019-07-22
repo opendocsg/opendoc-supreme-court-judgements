@@ -4,6 +4,6 @@ subtitle: "[2013] SGHC 261 / 26\_November\_2013"
 tags:
   - Trusts
   - Termination
-layout: single
+
 ---
 

@@ -12,6 +12,6 @@ tags:
   - Contrac t
   - Privity of Contrac t
   - Contrac ts (Rights of Third Parties) Ac t
-layout: single
+
 ---
 

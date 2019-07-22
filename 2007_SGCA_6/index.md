@@ -10,6 +10,6 @@ tags:
   - >-
     Debtor company applying to court for injunction to restrain filing of
     winding-up petition
-layout: single
+
 ---
 

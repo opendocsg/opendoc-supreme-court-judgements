@@ -8,6 +8,6 @@ tags:
   - Injunctions
   - Civil Procedure
   - Striking Out
-layout: single
+
 ---
 

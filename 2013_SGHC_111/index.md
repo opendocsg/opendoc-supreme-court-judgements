@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - E-discovery
-layout: single
+
 ---
 

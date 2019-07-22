@@ -7,6 +7,6 @@ tags:
   - Guarantor
   - Sale of goods
   - Breach of contract
-layout: single
+
 ---
 

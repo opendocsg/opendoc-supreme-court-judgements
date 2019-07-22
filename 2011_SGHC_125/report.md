@@ -5,7 +5,7 @@ tags:
   - Gifts
   - presumptions against
   - resulting trust
-layout: single
+
 ---
 # Tang Wai Kum Beatrice and others v Tang Chun Choy 
 

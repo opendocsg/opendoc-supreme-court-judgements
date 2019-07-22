@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Appeal
-layout: single
+
 ---
 # Koh Swee Beng v Public Prosecutor 
 

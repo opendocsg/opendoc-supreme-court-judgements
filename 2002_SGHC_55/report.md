@@ -9,7 +9,7 @@ tags:
   - Security given zero value in statutory demand
   - Whether statutory demand should be set aside by court
   - 'Bankruptcy Rules (Cap 20, R 1, 1996 Rev Ed) rr 98(2)(c) and 98(2)(e)'
-layout: single
+
 ---
 # Sia Leng Yuen v Ko Chun Shun Johnson 
 

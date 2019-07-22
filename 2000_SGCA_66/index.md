@@ -10,6 +10,6 @@ tags:
   - Carriage of Goods by Air and Land
   - Carriage of goods by air
   - Contracts of carriage
-layout: single
+
 ---
 

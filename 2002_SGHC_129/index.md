@@ -24,6 +24,6 @@ tags:
     before conclusion of appeal
   - Relief available to defendant
   - Whether to allow such application for extension of time
-layout: single
+
 ---
 

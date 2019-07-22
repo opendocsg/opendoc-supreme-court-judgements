@@ -24,6 +24,6 @@ tags:
   - Whether breach of rules of natural justice
   - Whether having legal right to such notice
   - 's 42A Road Traffic Act (Cap 276, 1997 Ed)'
-layout: single
+
 ---
 

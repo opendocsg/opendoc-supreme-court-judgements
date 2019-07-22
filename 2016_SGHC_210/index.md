@@ -8,6 +8,6 @@ tags:
   - Sc hemes of Arrangement
   - Insolvenc y Law
   - Cross-border Insolvenc y
-layout: single
+
 ---
 

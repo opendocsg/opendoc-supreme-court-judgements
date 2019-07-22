@@ -8,6 +8,6 @@ tags:
   - Contract
   - Misrepresentation
   - Fraudulent misrepresentation
-layout: single
+
 ---
 

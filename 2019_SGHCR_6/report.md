@@ -6,7 +6,7 @@ tags:
   - Sale of goods
   - Rights of unpaid seller
   - Retention of title clause
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Mitsubishi Corp RTM International Pte Ltd _v_ Kyen Resources Pte Ltd  

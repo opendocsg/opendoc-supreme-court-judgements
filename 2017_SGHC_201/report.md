@@ -13,7 +13,7 @@ tags:
   - Contract
   - Contractual terms
   - Exclusion clauses
-layout: single
+
 ---
 # Creative Technology Ltd and another v Huawei International Pte Ltd 
 

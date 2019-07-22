@@ -12,6 +12,6 @@ tags:
   - Termination with notice
   - Whether termination solely or mainly because of redundancy
   - When presumption that dismissal on ground of redundancy arose
-layout: single
+
 ---
 

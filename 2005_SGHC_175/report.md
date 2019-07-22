@@ -24,7 +24,7 @@ tags:
     Whether goods to which defendant\'s sign and plaintiff\'s mark applying
     similar
   - 'Section 27(2)(b) Trade Marks Act (Cap 322, 1999 Rev Ed)'
-layout: single
+
 ---
 # The Polo/Lauren Co, LP v Shop In Department Store Pte Ltd 
 

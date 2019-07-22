@@ -20,6 +20,6 @@ tags:
   - >-
     Whether breach of duty of good faith a separate cause of action to be
     specifically pleaded
-layout: single
+
 ---
 

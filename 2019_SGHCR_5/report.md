@@ -7,7 +7,7 @@ tags:
   - Offences
   - Damages
   - Assessment
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Shepherdson, Terence Christopher _v_ Singapore Recreation Club  

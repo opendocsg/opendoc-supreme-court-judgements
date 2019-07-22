@@ -9,7 +9,7 @@ tags:
     action and during proceedings for assessment of damages
   - Scope for use of interrogatories under O 26 r 1 Rules of Court
   - 'Order 26 r 1 Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 # Trek Technology (Singapore) Pte Ltd v Ritronics Components (S'pore) Pte Ltd 
 

@@ -5,6 +5,6 @@ tags:
   - Courts and jurisdiction
   - Judges
   - Transfer of cases
-layout: single
+
 ---
 

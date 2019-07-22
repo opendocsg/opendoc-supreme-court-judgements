@@ -8,6 +8,6 @@ tags:
   - Passing Off
   - Trade Marks and Trade Names
   - Revocation
-layout: single
+
 ---
 

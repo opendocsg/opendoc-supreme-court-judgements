@@ -8,6 +8,6 @@ tags:
   - Reassessment of annual value
   - When increased property tax payable
   - Interest on overpaid property tax
-layout: single
+
 ---
 

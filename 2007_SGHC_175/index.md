@@ -21,6 +21,6 @@ tags:
     Whether equitable relief could be granted to contracts unconnected with any
     interests in land
   - Whether forfeiture of deposit unconscionable
-layout: single
+
 ---
 

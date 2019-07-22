@@ -5,7 +5,7 @@ tags:
   - Criminal procedure and sentencing
   - Appeal
   - Application for adjournment
-layout: single
+
 ---
 # Hamzah bin Ibrahim v Public Prosecutor and another appeal 
 

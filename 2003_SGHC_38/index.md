@@ -10,6 +10,6 @@ tags:
   - Acting partially in private defence
   - Whether sentence was manifestly excessive
   - 'Penal Code (Cap 224, 1985 Rev Ed) s 506'
-layout: single
+
 ---
 

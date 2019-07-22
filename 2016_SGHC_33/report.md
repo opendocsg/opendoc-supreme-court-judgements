@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Acquittal
-layout: single
+
 ---
 # Public Prosecutor v Chua Siew Wei Kathleen 
 

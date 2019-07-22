@@ -13,6 +13,6 @@ tags:
   - Copyright
   - Subject matter
   - Compilations
-layout: single
+
 ---
 

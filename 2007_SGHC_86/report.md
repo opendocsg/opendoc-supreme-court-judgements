@@ -13,7 +13,7 @@ tags:
   - >-
     Factors to be considered in sentencing under attempted culpable homicide
     charge
-layout: single
+
 ---
 # Public Prosecutor v Kwong Kok Hing 
 

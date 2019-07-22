@@ -20,7 +20,7 @@ tags:
   - >-
     Whether terms of marine insurance policy requiring compliance with warranty
     surveyor\'s recommended voyage route constituting insurance warranty
-layout: single
+
 ---
 # Marina Offshore Pte Ltd v China Insurance Co (Singapore) Pte Ltd and Another 
 

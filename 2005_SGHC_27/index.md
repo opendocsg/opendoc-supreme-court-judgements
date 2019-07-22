@@ -28,6 +28,6 @@ tags:
   - >-
     Whether inconsistencies undermined strength of collective evidence of
     Prosecution\'s witnesses
-layout: single
+
 ---
 

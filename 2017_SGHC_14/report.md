@@ -10,7 +10,7 @@ tags:
   - Equity
   - Remedies
   - Account
-layout: single
+
 ---
 # Compania De Navegacion Palomar, S.A. and others v Ernest Ferdinand Perez De La Sala 
 

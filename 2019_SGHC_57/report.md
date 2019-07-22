@@ -9,7 +9,7 @@ tags:
   - Admissibility of evidence
   - Documentary evidence
   - Proof of contents
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # The “Mount Apo” and the “Hanjin Ras Laffan”  

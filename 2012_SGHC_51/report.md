@@ -6,7 +6,7 @@ tags:
   - Trials
   - Evidence
   - Witnesses
-layout: single
+
 ---
 # Kim Gwang Seok v Public Prosecutor 
 

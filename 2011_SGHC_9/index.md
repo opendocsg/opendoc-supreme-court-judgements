@@ -8,6 +8,6 @@ tags:
   - Family law
   - Maintenance
   - Statutory Interpretation
-layout: single
+
 ---
 

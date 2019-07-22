@@ -9,7 +9,7 @@ tags:
   - Misrepresentation Act
   - Commercial Transactions
   - sale of goods
-layout: single
+
 ---
 # Chan Chee Kien v Performance Motors Ltd 
 

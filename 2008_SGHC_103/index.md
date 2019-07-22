@@ -14,6 +14,6 @@ tags:
   - State entrapment
   - Whether state agent provocateur protected from disclosure
   - 'Section 23 Misuse of Drugs Act (Cap 185, 2001 Rev Ed)'
-layout: single
+
 ---
 

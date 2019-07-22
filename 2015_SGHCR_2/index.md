@@ -4,6 +4,6 @@ subtitle: "[2015] SGHCR 2 / 06\_January\_2015"
 tags:
   - Civil Procedure
   - Striking Out
-layout: single
+
 ---
 

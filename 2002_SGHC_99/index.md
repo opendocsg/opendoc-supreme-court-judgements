@@ -22,6 +22,6 @@ tags:
   - Accident adversely affecting earning ability
   - Accident not affecting plaintiff\'s skills as professional
   - Whether award for loss of earning capacity more appropriate
-layout: single
+
 ---
 

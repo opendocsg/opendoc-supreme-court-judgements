@@ -13,6 +13,6 @@ tags:
   - Words and Phrases
   - \"Writ of seizure and sale\"
   - Whether in substance same as garnishment
-layout: single
+
 ---
 

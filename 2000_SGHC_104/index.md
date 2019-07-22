@@ -6,6 +6,6 @@ tags:
   - Discharge
   - Frustration
   - Debtor and guarantor claiming frustration of contract
-layout: single
+
 ---
 

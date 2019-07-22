@@ -5,7 +5,7 @@ tags:
   - Land
   - Strata Titles
   - Collective Sales
-layout: single
+
 ---
 # Goh Teh Lee v Lim Li Pheng Maria and Others 
 

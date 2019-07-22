@@ -14,7 +14,7 @@ tags:
   - Companies
   - Incorporation of companies
   - Lifting corporate veil
-layout: single
+
 ---
 # Simgood Pte Ltd v MLC Shipbuilding Sdn Bhd and others 
 

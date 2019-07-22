@@ -8,6 +8,6 @@ tags:
     Whether parties allowed to amend list of documents filed for discovery
     purposes to delete items
   - Whether documents protected by litigation privilege
-layout: single
+
 ---
 

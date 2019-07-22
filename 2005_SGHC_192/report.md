@@ -14,7 +14,7 @@ tags:
     Supply agreement containing warranties that test systems having no
     correlation with another system and fulfilling test time
   - Whether plaintiff in breach of warranties
-layout: single
+
 ---
 # IPTE Asia Pacific Pte Ltd v JMA Technologies Pte Ltd 
 

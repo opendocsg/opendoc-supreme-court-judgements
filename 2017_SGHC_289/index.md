@@ -10,6 +10,6 @@ tags:
   - Pleadings
   - Striking out
   - Res judicata
-layout: single
+
 ---
 

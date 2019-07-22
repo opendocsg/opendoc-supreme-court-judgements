@@ -17,6 +17,6 @@ tags:
   - Contract
   - Breach
   - Whether plaintiff breached contract by supplying defective concrete
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Costs
   - Legal Profession
   - Duties
-layout: single
+
 ---
 # Lam Hwa Engineering & Trading Pte Ltd v Yang Qiang 
 

@@ -9,7 +9,7 @@ tags:
   - Division
   - Family Law
   - Maintenance
-layout: single
+
 ---
 # BJS v BJT 
 

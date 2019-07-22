@@ -10,6 +10,6 @@ tags:
     for profession
   - Appropriate penalty
   - Legal Profession Act (Cap 161) ss 83(1) & 83(2)(b)
-layout: single
+
 ---
 

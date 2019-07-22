@@ -14,7 +14,7 @@ tags:
   - Words and Phrases
   - \'Package\'
   - art 22(2)(b) Warsaw Convention as amended by the Hague Protocol
-layout: single
+
 ---
 # China Airlines Ltd v Philips Hong Kong Ltd 
 

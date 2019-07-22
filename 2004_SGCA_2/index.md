@@ -27,6 +27,6 @@ tags:
   - Words and Phrases
   - \"Fight\"
   - Meaning
-layout: single
+
 ---
 

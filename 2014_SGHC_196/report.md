@@ -15,7 +15,7 @@ tags:
   - Evidence
   - Documentary evidence
   - Proof of contents
-layout: single
+
 ---
 # Mycitydeal Ltd (trading as Groupon UK) and others v Villas International Property Pte Ltd and 
 

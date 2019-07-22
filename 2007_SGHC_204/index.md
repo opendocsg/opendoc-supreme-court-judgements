@@ -32,6 +32,6 @@ tags:
   - Words and Phrases
   - \"Care\"
   - 'Section 199(i) Securities and Futures Act (Cap 289, 2006 Rev Ed)'
-layout: single
+
 ---
 

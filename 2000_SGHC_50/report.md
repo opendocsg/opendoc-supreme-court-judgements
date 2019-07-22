@@ -38,7 +38,7 @@ tags:
     Whether temporary misappropriation of employer\'s funds constitutes
     dishonesty on employee\'s part
   - 'ss 24, 107(b), 109, 403 & 408 Penal Code (Cap 224)'
-layout: single
+
 ---
 # Lee Yuen Hong v Public Prosecutor 
 

@@ -12,7 +12,7 @@ tags:
   - >-
     Whether defendants have shown real danger of prejudice to justify granting
     stay
-layout: single
+
 ---
 # Velstra Pte Ltd (in liquidation) v Dexia Bank Belgium 
 

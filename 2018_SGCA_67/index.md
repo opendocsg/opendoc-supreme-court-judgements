@@ -15,6 +15,6 @@ tags:
   - Winding up
   - Just and equitable
   - Loss of substratum
-layout: single
+
 ---
 

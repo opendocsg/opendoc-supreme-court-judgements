@@ -6,7 +6,7 @@ tags:
   - ownership
   - Patents and Inventions
   - employee’s invention
-layout: single
+
 ---
 # National University Hospital (Singapore) Pte Ltd v Cicada Cube Pte Ltd 
 

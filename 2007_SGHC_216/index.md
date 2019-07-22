@@ -20,6 +20,6 @@ tags:
   - >-
     Section 98(1) Building Maintenance and Strata Management Act 2004 (Act 47 of
     2004)
-layout: single
+
 ---
 

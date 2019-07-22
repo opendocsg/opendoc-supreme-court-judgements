@@ -15,7 +15,7 @@ tags:
   - Civil procedure
   - Stay of proceedings
   - Limited stay pending outcome of foreign proceedings
-layout: single
+
 ---
 # Best Soar Ltd v Praxis Energy Agents Pte Ltd 
 

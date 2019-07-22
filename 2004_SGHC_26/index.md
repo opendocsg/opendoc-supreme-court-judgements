@@ -12,6 +12,6 @@ tags:
   - >-
     Articles 5, 13, 34 UNCITRAL Model Law on International Commercial
     Arbitration, s 24 International Arbitration Act (Cap 143A, 2002 Rev Ed)
-layout: single
+
 ---
 

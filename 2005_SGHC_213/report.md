@@ -30,7 +30,7 @@ tags:
   - >-
     Whether factors considered by trial judge justify derogation from benchmark
     sentence
-layout: single
+
 ---
 # Lin Bin v Public Prosecutor 
 

@@ -34,7 +34,7 @@ tags:
   - >-
     Whether trial judge entitled to reject conclusion of expert witnesses on
     issue of mens rea
-layout: single
+
 ---
 # Ng So Kuen Connie v Public Prosecutor 
 

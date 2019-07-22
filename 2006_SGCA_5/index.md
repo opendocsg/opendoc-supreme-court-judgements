@@ -38,6 +38,6 @@ tags:
   - >-
     Whether compensatory damages for breach of contract may be awarded where no
     loss resulting from breach
-layout: single
+
 ---
 

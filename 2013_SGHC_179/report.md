@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Corruption
   - Prevent of Corruption Act
-layout: single
+
 ---
 # Teo Chu Ha v Public Prosecutor 
 

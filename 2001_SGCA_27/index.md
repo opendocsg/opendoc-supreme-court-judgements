@@ -16,6 +16,6 @@ tags:
   - >-
     Whether \"pain and suffering\" and \"loss of amenities\" under separate
     heads of damages
-layout: single
+
 ---
 

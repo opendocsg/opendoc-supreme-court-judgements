@@ -16,6 +16,6 @@ tags:
     Whether court having power to order husband to pay maintenance for wife\'s
     children from wife\'s previous marriage
   - 'Sections 70(1), 70(2), 127(1) Women\''s Charter (Cap 353, 1997 Rev Ed)'
-layout: single
+
 ---
 

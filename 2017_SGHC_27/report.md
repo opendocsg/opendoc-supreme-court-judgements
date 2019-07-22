@@ -9,7 +9,7 @@ tags:
   - Offer to settle
   - Damages
   - Interest
-layout: single
+
 ---
  UOB’s OTS 5 December 2012 [note: 1] 
 

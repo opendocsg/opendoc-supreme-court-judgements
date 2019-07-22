@@ -16,7 +16,7 @@ tags:
     Whether litigant liable to pay prescribed fee to Attorney General and Law
     Society
   - 's 21 Legal Profession Act (Cap 161, 2001 Ed)'
-layout: single
+
 ---
 # Re Nicholas William Henric QC and another application 
 

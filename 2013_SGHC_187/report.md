@@ -15,7 +15,7 @@ tags:
   - Equity
   - Estoppel
   - Estoppel by representation
-layout: single
+
 ---
 # Rudhra Minerals Pte Ltd v MRI Trading Pte Ltd (formerly known as CWT Integrated Services 
 

@@ -37,7 +37,7 @@ tags:
     500)
   - Singapore law as governing law
   - When decisions of foreign courts may be relevant
-layout: single
+
 ---
 # Standard Chartered Bank v Korea Exchange Bank 
 

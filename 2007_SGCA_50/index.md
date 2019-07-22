@@ -19,6 +19,6 @@ tags:
     Whether proprietor\'s patent invalid on grounds of obviousness and
     insufficiency
   - Applicable principles
-layout: single
+
 ---
 

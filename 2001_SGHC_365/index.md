@@ -32,6 +32,6 @@ tags:
   - Legal Profession
   - Professional conduct
   - Whether inquiry committee to follow particular procedure
-layout: single
+
 ---
 

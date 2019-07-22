@@ -14,6 +14,6 @@ tags:
   - >-
     Circumstances under which loss of earnings of third party in caring for
     injured plaintiff may be claimed as damages
-layout: single
+
 ---
 

@@ -15,7 +15,7 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Similar fact rule
-layout: single
+
 ---
 # Public Prosecutor v Mas Swan bin Adnan and another 
 

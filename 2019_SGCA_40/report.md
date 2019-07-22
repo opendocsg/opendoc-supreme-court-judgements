@@ -8,7 +8,7 @@ tags:
   - "Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap\_65A, 2000 Rev Ed)"
   - Statutory Interpretation
   - Construction of statute
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Yap Chen Hsiang Osborn _v_ Public Prosecutor  

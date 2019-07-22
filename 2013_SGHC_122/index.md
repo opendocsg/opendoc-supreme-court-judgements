@@ -7,6 +7,6 @@ tags:
   - Professional Conduct
   - Disciplinary Proceedings
   - Medical Registration Act
-layout: single
+
 ---
 

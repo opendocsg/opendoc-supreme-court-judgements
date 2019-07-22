@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - Costs
   - Security
-layout: single
+
 ---
 # Verona Capital Pty Ltd v Ramba Energy West Jambi Ltd 
 

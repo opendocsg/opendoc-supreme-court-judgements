@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - appeals
-layout: single
+
 ---
 # Sim Choon Wee Kenny v Public Prosecutor and another appeal 
 

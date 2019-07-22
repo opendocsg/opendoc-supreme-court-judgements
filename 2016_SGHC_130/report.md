@@ -9,7 +9,7 @@ tags:
   - Arbitration
   - Arbitral tribunal
   - Duties
-layout: single
+
 ---
 # ASG v ASH 
 

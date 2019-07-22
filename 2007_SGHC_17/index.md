@@ -19,6 +19,6 @@ tags:
   - >-
     Lack of words limiting effect of subsequent clause to disputes arising only
     from variation agreement
-layout: single
+
 ---
 

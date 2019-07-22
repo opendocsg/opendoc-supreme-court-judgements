@@ -9,7 +9,7 @@ tags:
   - Equity
   - defences
   - equitable set-off
-layout: single
+
 ---
 # Hayate Investment Co Ltd v ManagementPlus (Singapore) Pte Ltd 
 

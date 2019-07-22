@@ -7,6 +7,6 @@ tags:
   - Conflict of Laws
   - Natural Forum
   - Forum non conveniens
-layout: single
+
 ---
 

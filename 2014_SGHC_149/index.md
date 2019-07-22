@@ -8,6 +8,6 @@ tags:
   - Newton hearings
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 

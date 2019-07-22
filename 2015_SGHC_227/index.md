@@ -5,6 +5,6 @@ tags:
   - Administrative Law
   - Disciplinary tribunals
   - Disciplinary proceedings
-layout: single
+
 ---
 

@@ -18,6 +18,6 @@ tags:
   - >-
     Factors to consider when determining quantum of damages for non-pecuniary
     losses resulting from physical injury
-layout: single
+
 ---
 

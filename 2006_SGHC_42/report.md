@@ -23,7 +23,7 @@ tags:
     Whether legislative intent to exempt family and friendly loans from
     application of s 6 existing
   - 'Section 6 Limitation Act (Cap 163, 1996 Rev Ed)'
-layout: single
+
 ---
 # Hong Guet Eng v Wu Wai Hong (liquidator of Xiang Man Lou Food Court Pte Ltd) 
 

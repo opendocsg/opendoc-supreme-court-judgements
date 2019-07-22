@@ -9,7 +9,7 @@ tags:
   - Proof of Evidence
   - onus of proof
   - standard of proof
-layout: single
+
 ---
 # Gobinathan Devathasan v Singapore Medical Council 
 

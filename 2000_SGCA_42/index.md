@@ -22,6 +22,6 @@ tags:
   - Witnesses
   - Impeaching witnesses’ credibility
   - Whether court must rule on whether credit of witness impeached
-layout: single
+
 ---
 

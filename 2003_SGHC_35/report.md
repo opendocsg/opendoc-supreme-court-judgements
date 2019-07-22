@@ -7,7 +7,7 @@ tags:
   - Transactions at an undervalue
   - Defences
   - Court\'s discretion to deny liquidators\' application.
-layout: single
+
 ---
 # Velstra Pte Ltd v Mercator & Noordstar NV 
 

@@ -4,6 +4,6 @@ title: >-
   deceased
 subtitle: "[2003] SGHC 310 / 23\_December\_2003"
 tags: null
-layout: single
+
 ---
 

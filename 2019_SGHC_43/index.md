@@ -17,6 +17,6 @@ tags:
   - Remedies
   - Equitable Compensation
   - Loss of Chance
-layout: single
+
 ---
 

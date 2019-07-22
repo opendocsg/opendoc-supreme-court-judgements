@@ -15,6 +15,6 @@ tags:
   - Offender serving sentence at time of hearing
   - Whether court has power to suspend sentence
   - 'Criminal Procedure Code (Cap 68, 1985 Rev Ed) s 223'
-layout: single
+
 ---
 

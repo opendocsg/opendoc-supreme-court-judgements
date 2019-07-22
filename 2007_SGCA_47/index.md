@@ -14,6 +14,6 @@ tags:
   - >-
     Considerations to be taken into account in assessing reasonableness of
     settlement
-layout: single
+
 ---
 

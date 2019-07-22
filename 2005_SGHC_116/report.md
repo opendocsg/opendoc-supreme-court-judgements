@@ -17,7 +17,7 @@ tags:
     third party
   - Whether plaintiff clearly and unequivocally consenting to assignment
   - Whether defence of estoppel applied
-layout: single
+
 ---
 # C S Geotechnic Pte Ltd v Neocorp Innovations Pte Ltd 
 

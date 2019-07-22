@@ -5,6 +5,6 @@ tags:
   - Banking
   - Statement of account
   - Verification clauses
-layout: single
+
 ---
 

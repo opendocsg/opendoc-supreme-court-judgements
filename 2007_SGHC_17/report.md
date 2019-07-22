@@ -19,7 +19,7 @@ tags:
   - >-
     Lack of words limiting effect of subsequent clause to disputes arising only
     from variation agreement
-layout: single
+
 ---
 # Econ Piling Pte Ltd v NCC International AB 
 

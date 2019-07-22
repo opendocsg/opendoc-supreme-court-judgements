@@ -18,6 +18,6 @@ tags:
   - Unauthorised share trading
   - Sentencing practice -Factors to take into consideration
   - s 102(b) Securities Industry Act (Cap 289)
-layout: single
+
 ---
 

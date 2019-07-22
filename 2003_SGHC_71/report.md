@@ -6,7 +6,7 @@ tags:
   - Contractual terms
   - Warranties
   - Whether breached.
-layout: single
+
 ---
 # IBM Singapore Pte Ltd v UNIG Pte Ltd 
 

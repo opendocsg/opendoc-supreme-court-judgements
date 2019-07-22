@@ -25,7 +25,7 @@ tags:
   - Land
   - Conveyance
   - Transferor transferring property to defendants purportedly as return of gift
-layout: single
+
 ---
 # Wong Ser Wan v Ng Bok Eng Holdings Pte Ltd and Another 
 

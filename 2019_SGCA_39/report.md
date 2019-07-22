@@ -14,7 +14,7 @@ tags:
   - Contract
   - Contractual terms
   - Incorporation by reference
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Bintai Kindenko Pte Ltd _v_ Samsung C&T Corp and another  

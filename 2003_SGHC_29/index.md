@@ -15,6 +15,6 @@ tags:
   - >-
     Whether wife ought to make contribution towards maintenance of the children
     where husband has custody, care and control.
-layout: single
+
 ---
 

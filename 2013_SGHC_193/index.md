@@ -7,6 +7,6 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 

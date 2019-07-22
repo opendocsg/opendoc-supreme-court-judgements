@@ -17,6 +17,6 @@ tags:
   - >-
     Availability of contemporaneous documents reduced need to rely on testimony
     of witnesses on stand
-layout: single
+
 ---
 

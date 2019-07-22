@@ -11,7 +11,7 @@ tags:
   - Award
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # Sinolanka Hotels & Spa (Private) Limited v Interna Contract SpA 
 

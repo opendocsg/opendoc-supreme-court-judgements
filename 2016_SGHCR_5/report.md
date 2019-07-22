@@ -5,7 +5,7 @@ tags:
   - Damages
   - assessment
   - quantum
-layout: single
+
 ---
 # Cordlife Group Ltd v Cryoviva Singapore Pte Ltd 
 

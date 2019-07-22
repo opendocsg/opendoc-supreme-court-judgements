@@ -16,6 +16,6 @@ tags:
   - Designs
   - Registrable designs
   - Defendant claiming plaintiff\'s registration of design invalid
-layout: single
+
 ---
 

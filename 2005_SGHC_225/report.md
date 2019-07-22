@@ -48,7 +48,7 @@ tags:
   - Whether to revoke registered proprietor\'s trade marks for non-use
   - Burden of proving use
   - Minimal use of registered trade marks in pristine form
-layout: single
+
 ---
 # Nation Fittings (M) Sdn Bhd v Oystertec Plc and Another Suit 
 

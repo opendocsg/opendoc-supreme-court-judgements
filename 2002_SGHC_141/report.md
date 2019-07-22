@@ -19,7 +19,7 @@ tags:
   - Statements
   - Voluntariness of statement
   - Admissibility
-layout: single
+
 ---
 # Public Prosecutor v Fazely bin Rahmat and Another 
 

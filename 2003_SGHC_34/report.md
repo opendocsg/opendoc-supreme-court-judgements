@@ -8,7 +8,7 @@ tags:
   - >-
     Whether leave to appeal required Â– Proper interpretation of s 21(1) Supreme
     Court of Judicature Act (Cap 322).
-layout: single
+
 ---
 # Tan Whei Tet Valerie v James Johnbritto 
 

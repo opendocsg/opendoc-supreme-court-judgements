@@ -7,6 +7,6 @@ tags:
   - Injunctions
   - Mareva injunctions
   - Discharge
-layout: single
+
 ---
 

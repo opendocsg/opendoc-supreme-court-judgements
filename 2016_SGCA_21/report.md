@@ -10,7 +10,7 @@ tags:
   - Appellate
   - Constitutional Law
   - Equality before the law
-layout: single
+
 ---
 # Kho Jabing v Public Prosecutor 
 

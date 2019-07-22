@@ -6,7 +6,7 @@ tags:
   - Offences
   - Hurt
   - Domestic maid abuse
-layout: single
+
 ---
  Charge Number Sentence 
 

@@ -23,7 +23,7 @@ tags:
     larger percentage of settlement sum Whether concluded agreement to revise
     plaintiff\'s compensation existing
   - Whether plaintiff entitled to payment under agreement
-layout: single
+
 ---
 # Otech Pakistan Pvt Ltd v Clough Engineering Ltd and Another 
 

@@ -17,6 +17,6 @@ tags:
     beyond carrier\'s control
   - Goods hijacked en route to destination
   - Whether hijacking beyond carrier\'s control
-layout: single
+
 ---
 

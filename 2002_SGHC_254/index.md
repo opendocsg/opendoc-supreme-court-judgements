@@ -12,6 +12,6 @@ tags:
   - Issue of subpoena requiring attendance of accountant as witness at inquiry
   - Accountant no longer in charge of matter
   - Whether subpoena should be set aside
-layout: single
+
 ---
 

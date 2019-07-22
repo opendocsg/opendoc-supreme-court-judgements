@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Appeals
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # GCO _v_ Public Prosecutor  

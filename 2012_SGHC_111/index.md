@@ -5,6 +5,6 @@ tags:
   - Land
   - interest in land
   - tenanc y in c ommon
-layout: single
+
 ---
 

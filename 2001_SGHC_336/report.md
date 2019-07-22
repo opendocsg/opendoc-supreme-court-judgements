@@ -13,7 +13,7 @@ tags:
   - Imprisonment of four months
   - Whether sentence manifestly excessive or inadequate
   - Existence of aggravating factors justifying enhancement of sentence
-layout: single
+
 ---
 # Phua Mong Seng v Public Prosecutor 
 

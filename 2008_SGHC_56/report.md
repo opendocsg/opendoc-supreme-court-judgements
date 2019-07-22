@@ -14,7 +14,7 @@ tags:
     Whether owners were expected to mitigate by adopting temporary measure of
     jet-grouting
   - 'Section 48(1)(b)(i) Land Titles (Strata) Act (Cap 158, 1999 Rev Ed)'
-layout: single
+
 ---
 # Cheng Fu Zay and Another v Management Corporation Strata Title Plan No 1919 (Scott 
 

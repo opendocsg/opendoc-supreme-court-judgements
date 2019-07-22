@@ -34,6 +34,6 @@ tags:
     Inevitability of misconception when businesses adopt similar descriptive
     names
   - Whether desirable to grant respondents their claim
-layout: single
+
 ---
 

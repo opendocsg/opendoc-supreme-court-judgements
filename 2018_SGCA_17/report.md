@@ -9,7 +9,7 @@ tags:
   - Directors’ liability
   - Contract
   - Breach
-layout: single
+
 ---
 # PT Sandipala Arthaputra and others v STMicroelectronics Asia Pacific Pte Ltd and others 
 

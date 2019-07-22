@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # Zynergy Solar Projects & Services Pvt Ltd v Phoenix Solar Pte Ltd 
 

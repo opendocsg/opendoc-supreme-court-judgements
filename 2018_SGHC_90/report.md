@@ -7,7 +7,7 @@ tags:
   - Anti-suit injunction
   - Conflict of laws
   - Natural forum
-layout: single
+
 ---
 # Lakshmi Anil Salgaocar v Jhaveri Darsan Jitendra and another 
 

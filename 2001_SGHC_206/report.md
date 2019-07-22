@@ -37,7 +37,7 @@ tags:
   - Money had and received
   - Recovery under colore officii principle
   - Whether principle applicable
-layout: single
+
 ---
 # Management Corporation Strata Title No 473 v De Beers Jewellery Pte Ltd 
 

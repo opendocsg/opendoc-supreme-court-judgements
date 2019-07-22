@@ -12,7 +12,7 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - Application
-layout: single
+
 ---
 # Hau Tau Khang v Sanur Indonesian Restaurant Pte Ltd and another (Hau Tau Thong, non
 

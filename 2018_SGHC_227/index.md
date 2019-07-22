@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Voluntary scheme of arrangement
-layout: single
+
 ---
 

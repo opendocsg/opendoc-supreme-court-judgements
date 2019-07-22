@@ -66,6 +66,6 @@ tags:
   - >-
     Meaning of s 98(1) Building Maintenance and Strata Management Act (Cap 30C,
     2008 Rev Ed)
-layout: single
+
 ---
 

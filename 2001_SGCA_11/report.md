@@ -9,7 +9,7 @@ tags:
     obliging of Council to refer complaint to Inquiry Panel Chairman
   - Whether council has discretion to reject complaint
   - 's 85 Legal Profession Act (Cap 161, 1997 Ed)'
-layout: single
+
 ---
 # Wee Soon Kim Anthony v The Law Society of Singapore (No 2) 
 

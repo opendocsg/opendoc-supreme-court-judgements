@@ -12,7 +12,7 @@ tags:
   - Civil procedure
   - Summary judgment
   - Effect of counterclaim
-layout: single
+
 ---
 # Kim Seng Orchid Pte Ltd v Lim Kah Hin (trading as Yik Zhuan Orchid Garden) 
 

@@ -11,7 +11,7 @@ tags:
   - Contract
   - Formation
   - Acceptance
-layout: single
+
 ---
 # Paragon Shipping Pte Ltd v Freight Connect (S) Pte Ltd 
 

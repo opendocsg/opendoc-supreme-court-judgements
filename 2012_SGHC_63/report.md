@@ -15,7 +15,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Lim Suat Hua v Singapore HealthPartners Pte Ltd 
 

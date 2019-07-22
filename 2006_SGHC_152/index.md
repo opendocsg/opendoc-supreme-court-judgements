@@ -22,6 +22,6 @@ tags:
   - Tort
   - Conspiracy
   - Difference between wrongful means conspiracy and simple conspiracy
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
     Whether bail may be granted after committal proceedings under the
     Extradition Act
   - 'Section 11 Extradition Act (Cap 103, 2000 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Lim Yong Nam 
 

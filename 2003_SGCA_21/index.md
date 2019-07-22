@@ -23,6 +23,6 @@ tags:
   - Stay of appeal pending payment of taxed costs of action below
   - Failure to comply with order
   - Whether circumstances warrant exercise of jurisdiction
-layout: single
+
 ---
 

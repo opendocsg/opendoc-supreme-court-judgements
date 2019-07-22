@@ -6,6 +6,6 @@ tags:
   - Legal Privilege
   - Common Interest Privilege
   - Waiver
-layout: single
+
 ---
 

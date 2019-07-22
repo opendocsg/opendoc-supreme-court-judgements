@@ -13,6 +13,6 @@ tags:
     Whether plaintiffs\' claim disclose no reasonable cause of action, frivolous
     or vexatious, or abuse of process
   - 'Rules of Court (Cap 322, R 5, 1997 Rev Ed) O 18 r 19(1)'
-layout: single
+
 ---
 

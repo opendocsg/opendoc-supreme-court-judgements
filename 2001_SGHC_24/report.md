@@ -10,7 +10,7 @@ tags:
   - Standard of judgment
   - Appropriate sanction
   - s 83(2) (h)Legal Profession Act (Cap 161)
-layout: single
+
 ---
 # The Law Society of Singapore v Arjan Chotrani Bisham 
 

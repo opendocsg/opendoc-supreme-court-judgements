@@ -8,6 +8,6 @@ tags:
     Threshold to determine the existence of an arbitration agreement in order to
     invoke the court’s jurisdiction to grant a stay pursuant to section 6 of the
     International Arbitration Act (Cap. 143A, 2002 Rev Ed)
-layout: single
+
 ---
 

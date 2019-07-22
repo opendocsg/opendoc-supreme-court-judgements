@@ -26,7 +26,7 @@ tags:
   - String of antecedents and no signs of remorse
   - Whether sentence of three months\' imprisonment manifestly inadequate
   - s 323 Penal Code (Cap 224)
-layout: single
+
 ---
 # Wong Sin Yee v Public Prosecutor 
 

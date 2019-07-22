@@ -4,6 +4,6 @@ title: >-
   Abdullah
 subtitle: "[2007] SGHC 1 / 11\_January\_2007"
 tags: null
-layout: single
+
 ---
 

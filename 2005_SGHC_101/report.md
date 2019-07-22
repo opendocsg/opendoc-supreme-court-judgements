@@ -7,7 +7,7 @@ tags:
   - Petition of course for taxation of bills of costs
   - Whether petition should be struck out
   - Whether written agreement as to fees payable existing between parties
-layout: single
+
 ---
 # Chor Pee & Partners v Wee Soon Kim Anthony 
 

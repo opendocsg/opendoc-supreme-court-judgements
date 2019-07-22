@@ -14,7 +14,7 @@ tags:
   - Equity
   - Estoppel
   - proprietary estoppel
-layout: single
+
 ---
 # Tan Bee Hoon (executrix for the estate of Quek Cher Choi, deceased) and another v Quek 
 

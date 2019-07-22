@@ -16,7 +16,7 @@ tags:
   - Donees
   - Donee\'s right to disclaim gift
   - Whether completeness of gift dependent on donee\'s acceptance of gift
-layout: single
+
 ---
 # Tsu Soo Sin v Oei Tjiong Bin and Another 
 

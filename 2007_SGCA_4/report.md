@@ -19,7 +19,7 @@ tags:
   - Words and Phrases
   - \"Wrongfully\"
   - 'Section 128(1) Land Titles Act (Cap 157, 2004 Rev Ed)'
-layout: single
+
 ---
 # Ho Soo Fong and Another v Standard Chartered Bank 
 

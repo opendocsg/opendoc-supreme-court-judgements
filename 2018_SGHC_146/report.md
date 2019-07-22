@@ -6,7 +6,7 @@ tags:
   - Costs
   - Civil Procedure
   - Offer to Settle
-layout: single
+
 ---
 # Noor Azlin Bte Abdul Rahman v Changi General Hospital Pte Ltd and others 
 

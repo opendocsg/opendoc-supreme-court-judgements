@@ -11,6 +11,6 @@ tags:
   - Evidence
   - Proof of evidence
   - Confessions
-layout: single
+
 ---
 

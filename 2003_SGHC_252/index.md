@@ -26,6 +26,6 @@ tags:
   - Presumptions
   - Accused remaining silent
   - Adverse inferences to be drawn
-layout: single
+
 ---
 

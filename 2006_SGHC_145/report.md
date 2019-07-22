@@ -16,7 +16,7 @@ tags:
     Disciplinary Committee finding advocate and solicitor guilty of grossly
     improper conduct
   - Whether Disciplinary Committee erring in making various inferential findings
-layout: single
+
 ---
 # Law Society of Singapore v Lim Cheong Peng 
 

@@ -4,7 +4,7 @@ title: >-
   of Nanalal
 subtitle: "[2012] SGHC 55 / 15\_March\_2012"
 tags: null
-layout: single
+
 ---
  Date Event 
 

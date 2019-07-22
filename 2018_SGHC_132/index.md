@@ -8,6 +8,6 @@ tags:
   - Security
   - Foreign award
   - Foreign law
-layout: single
+
 ---
 

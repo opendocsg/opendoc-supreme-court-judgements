@@ -8,6 +8,6 @@ tags:
   - Confiscation and forfeiture
   - Civil Procedure
   - Costs
-layout: single
+
 ---
 

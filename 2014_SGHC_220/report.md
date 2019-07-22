@@ -9,7 +9,7 @@ tags:
   - Arbitration
   - Arbitral tribunal
   - Powers
-layout: single
+
 ---
 # Triulzi Cesare SRL v Xinyi Group (Glass) Co Ltd 
 

@@ -10,7 +10,7 @@ tags:
   - Interpleader
   - Banking
   - Performance bond
-layout: single
+
 ---
 # Astrata (Singapore) Pte Ltd v Tridex Technologies Pte Ltd and another and other matters 
 

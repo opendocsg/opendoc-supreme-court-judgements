@@ -10,6 +10,6 @@ tags:
   - Civil Procedure
   - Striking out
   - Whether the plaintiff\'s claim is hopeless or unarguable.
-layout: single
+
 ---
 

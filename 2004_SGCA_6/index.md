@@ -10,6 +10,6 @@ tags:
     Particulars after judgment and after Notice of Appeal lodged to Court of
     Appeal
   - 'Order 20 r 5(1), O 57 r 13(1) Rules of Court (Cap 322, R 5, 1997 Rev Ed)'
-layout: single
+
 ---
 

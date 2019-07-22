@@ -6,6 +6,6 @@ tags:
   - Carriage of Goods by Sea
   - Contract
   - Remedies
-layout: single
+
 ---
 

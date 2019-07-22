@@ -5,6 +5,6 @@ tags:
   - CompaniesMeetings
   - Impracticability
   - Quorum
-layout: single
+
 ---
 

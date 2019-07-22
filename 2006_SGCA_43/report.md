@@ -34,7 +34,7 @@ tags:
   - >-
     Whether employee contributorily negligent by failing to observe ordinary
     care which ordinary prudent person would take for own safety
-layout: single
+
 ---
 # Sim Cheng Soon v BT Engineering Pte Ltd and Another 
 

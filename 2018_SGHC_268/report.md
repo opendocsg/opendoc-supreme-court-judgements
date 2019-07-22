@@ -8,7 +8,7 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Conviction
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Muhammad Nabill bin Mohd Fuad  

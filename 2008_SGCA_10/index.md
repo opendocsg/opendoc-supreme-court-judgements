@@ -17,6 +17,6 @@ tags:
   - Psychiatric opinion
   - Duty of both psychiatrist and counsel to ensure evaluation is accurate
   - Judge should resolve any inconsistency
-layout: single
+
 ---
 

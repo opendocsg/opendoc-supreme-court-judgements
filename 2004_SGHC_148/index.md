@@ -20,6 +20,6 @@ tags:
     by-laws were breaches of contract under Land Titles (Strata) Act
   - Whether plaintiff\'s claims time barred
   - 'Section 6(1) Limitation Act (Cap 163, 1996 Rev Ed)'
-layout: single
+
 ---
 

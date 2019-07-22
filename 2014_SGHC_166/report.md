@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Penalties
-layout: single
+
 ---
 # Public Prosecutor v Marzuki bin Ahmad and another appeal 
 

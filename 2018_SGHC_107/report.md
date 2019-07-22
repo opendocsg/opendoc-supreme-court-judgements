@@ -6,7 +6,7 @@ tags:
   - Oppression
   - Minority Shareholders
   - Share valuation
-layout: single
+
 ---
 # Abhilash s/o Kunchian Krishnan v Yeo Hock Huat and another 
 

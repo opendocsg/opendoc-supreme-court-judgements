@@ -30,7 +30,7 @@ tags:
   - >-
     Factors for court to consider when deciding whether sentencing tariff should
     be discounted or enhanced
-layout: single
+
 ---
 # Public Prosecutor v Fernando Payagala Waduge Malitha Kumar 
 

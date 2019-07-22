@@ -6,6 +6,6 @@ tags:
   - Costs
   - Principles
   - Indemnity basis
-layout: single
+
 ---
 

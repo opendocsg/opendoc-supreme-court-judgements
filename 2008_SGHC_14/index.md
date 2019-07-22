@@ -7,6 +7,6 @@ tags:
   - Professional c onduc t
   - Grossly improper c onduc t
   - Breac h
-layout: single
+
 ---
 

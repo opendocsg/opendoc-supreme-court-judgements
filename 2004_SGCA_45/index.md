@@ -28,6 +28,6 @@ tags:
   - >-
     Section 5(2) Civil Law Act (Cap 43, 1994 Rev Ed), s 3(2)(f) Reciprocal
     Enforcement of Commonwealth Judgments Act (Cap 264, 1985 Rev Ed)
-layout: single
+
 ---
 

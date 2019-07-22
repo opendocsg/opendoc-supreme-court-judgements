@@ -13,7 +13,7 @@ tags:
   - Limitation of Actions
   - Extension of limitation period
   - Acknowledgement
-layout: single
+
 ---
 # Super Group Ltd v Mysore Nagaraja Kartik 
 

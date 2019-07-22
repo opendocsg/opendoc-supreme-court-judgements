@@ -21,6 +21,6 @@ tags:
   - Tort
   - Negligence
   - Collision at sea causing severance of cables
-layout: single
+
 ---
 

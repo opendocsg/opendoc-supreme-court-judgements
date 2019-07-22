@@ -46,6 +46,6 @@ tags:
     Whether likelihood of confusion had to be proven under s 55(3) (a) Trade
     Marks Act (Cap 332, 2005 Rev Ed)
   - 'Sections 2 and 55(3)(a) Trade Marks Act (Cap 332, 2005 Rev Ed)'
-layout: single
+
 ---
 

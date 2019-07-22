@@ -8,7 +8,7 @@ tags:
   - Defendant introducing new grounds of defence one month before trial
   - Amendments within knowledge of defendant from the start
   - Whether amendments causing hardship or prejudice to Plaintiffs.
-layout: single
+
 ---
 # Yeoh Poh San and Another v Won Siok Wan 
 

@@ -5,7 +5,7 @@ tags:
   - Tort
   - Defamation
   - Damages
-layout: single
+
 ---
 # Koh Sin Chong Freddie v Chan Cheng Wah Bernard and others and another appeal 
 

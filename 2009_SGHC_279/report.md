@@ -6,7 +6,7 @@ tags:
   - Option to Purchase
   - Exercise of Option
   - Specific Performance
-layout: single
+
 ---
 # Mohamed Ali s/o Abdul Razak v Tan Ah Bee 
 

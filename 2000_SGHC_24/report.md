@@ -10,7 +10,7 @@ tags:
   - Income taxation
   - Membership of proprietary club
   - Payment of initiation deposits
-layout: single
+
 ---
 # Pinetree Resort Pte Ltd v Comptroller of Income Tax 
 

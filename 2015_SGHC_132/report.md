@@ -7,7 +7,7 @@ tags:
   - Contract
   - Implied Contracts
   - Quantum Meruit
-layout: single
+
 ---
 # Harwindar Singh s/o Geja Singh v Michael Wong Lok Yung and another 
 

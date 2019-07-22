@@ -9,7 +9,7 @@ tags:
   - Distribution of assets
   - Shortfall in funds held on trust for creditors
   - Appropriate method of distributing funds
-layout: single
+
 ---
 # Pars Ram Brothers (Pte) Ltd (in creditors’ voluntary liquidation) v Australian & New Zealand 
 

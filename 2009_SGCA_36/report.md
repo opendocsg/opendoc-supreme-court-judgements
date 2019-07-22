@@ -22,7 +22,7 @@ tags:
   - Loss of chance
   - Failure to deliver shares of listed company
   - Whether damages ought to be assessed on basis of loss of chance
-layout: single
+
 ---
 # Auston International Group Ltd and Another v Ng Swee Hua 
 

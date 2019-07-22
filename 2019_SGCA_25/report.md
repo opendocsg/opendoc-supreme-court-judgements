@@ -16,7 +16,7 @@ tags:
   - Elections
   - Parliament
   - Vacation of seat
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Wong Souk Yee _v_ Attorney-General  

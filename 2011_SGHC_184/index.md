@@ -4,6 +4,6 @@ title: >-
   Tan Ah Kng,
 subtitle: "[2011] SGHC 184 / 05\_August\_2011"
 tags: null
-layout: single
+
 ---
 

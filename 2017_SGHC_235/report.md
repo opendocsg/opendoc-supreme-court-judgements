@@ -8,7 +8,7 @@ tags:
   - Tort
   - Negligence
   - Contributory negligence
-layout: single
+
 ---
 # Miah Rasel v 5 Ways Engineering Services Pte Ltd 
 

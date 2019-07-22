@@ -19,7 +19,7 @@ tags:
   - Purchaser not to dispose of property except only to vendor
   - Whether such restriction amounted to condition subsequent
   - Whether void as restraint on right to alienate
-layout: single
+
 ---
 # Ong Chay Tong & Sons (Pte) Ltd v Ong Hoo Eng 
 

@@ -6,7 +6,7 @@ tags:
   - Breach
   - Construction of contracts
   - Whether clauses were dependent or independent obligations
-layout: single
+
 ---
 # Tan Jin Sin and Another v Lim Quee Choo 
 

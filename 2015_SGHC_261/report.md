@@ -11,7 +11,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Objections
-layout: single
+
 ---
 # Bumi Geo Engineering Pte Ltd v Civil Tech Pte Ltd 
 

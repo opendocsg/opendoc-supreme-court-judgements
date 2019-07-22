@@ -18,7 +18,7 @@ tags:
   - Whether allegedly defamatory words referring to plaintiffs
   - Words and Phrases
   - \"Natural and ordinary meaning of words\"
-layout: single
+
 ---
 # Fraser & Neave Ltd and Others v Aberdeen Asset Management Asia Ltd and Another 
 

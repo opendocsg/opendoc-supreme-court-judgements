@@ -25,7 +25,7 @@ tags:
   - >-
     Whether civil standard of proof of balance of probabilities applicable in
     civil cases involving fraud
-layout: single
+
 ---
 # Tang Yoke Kheng (trading as Niklex Supply Co) v Lek Benedict and Others 
 

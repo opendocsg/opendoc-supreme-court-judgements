@@ -27,6 +27,6 @@ tags:
   - >-
     Whether trial judge entitled to reject reasoning of expert witness on issue
     of mens rea
-layout: single
+
 ---
 

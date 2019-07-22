@@ -15,6 +15,6 @@ tags:
     Contract fully performed by plaintiff and unilateral obligation is for
     defendant to pay on fixed date
   - Whether anticipatory breach applies to executed contracts
-layout: single
+
 ---
 

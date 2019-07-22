@@ -10,6 +10,6 @@ tags:
   - Remoteness of damage
   - Contract
   - Breach
-layout: single
+
 ---
 

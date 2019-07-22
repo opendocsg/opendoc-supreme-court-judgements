@@ -28,7 +28,7 @@ tags:
     \'warehousing\'
   - Words and Phrases
   - \'Change of the use\'
-layout: single
+
 ---
 # United Lifestyle Holdings Pte Ltd v Oakwell Egineering Ltd 
 

@@ -8,7 +8,7 @@ tags:
   - Use of firearm with intent to injure
   - Whether charge proved beyond reasonable doubt
   - Section 4 Arms Offences Act 1973 (No 61 of 1973)
-layout: single
+
 ---
 # Public Prosecutor v Khor Kok Soon 
 

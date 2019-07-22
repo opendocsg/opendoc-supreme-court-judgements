@@ -27,7 +27,7 @@ tags:
   - >-
     Whether company inducing another company\'s employees to breach
     confidentiality and restraint of trade clauses in employment contracts
-layout: single
+
 ---
 # Stratech Systems Ltd v Nyam Chiu Shin (alias Yan Qiuxin) and Others 
 

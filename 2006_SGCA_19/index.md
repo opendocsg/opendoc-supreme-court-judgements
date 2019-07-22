@@ -12,6 +12,6 @@ tags:
     Whether name mark infringed by composite mark comprising name mark and
     device
   - Whether likelihood of confusion existing
-layout: single
+
 ---
 

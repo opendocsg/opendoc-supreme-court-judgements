@@ -6,6 +6,6 @@ tags:
   - Infringement
   - Assessment of Damages
   - Statutory Damages
-layout: single
+
 ---
 

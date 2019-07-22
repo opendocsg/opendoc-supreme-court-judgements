@@ -6,6 +6,6 @@ tags:
   - resolution
   - Restitution
   - unjust enrichment
-layout: single
+
 ---
 

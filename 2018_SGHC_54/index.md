@@ -9,6 +9,6 @@ tags:
   - Shares
   - Valuation
   - Discount on minority shares
-layout: single
+
 ---
 

@@ -15,7 +15,7 @@ tags:
     Whether payment of operating charges by joint venture company amounted to
     unfair preference
   - 'Sections 99, 100 Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 # ECRC Land Pte Ltd v Ho Wing On Christopher and Others 
 

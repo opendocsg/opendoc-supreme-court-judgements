@@ -5,6 +5,6 @@ tags:
   - Revenue Law
   - International Taxation
   - Double Taxation Agreement
-layout: single
+
 ---
 

@@ -15,7 +15,7 @@ tags:
   - Land
   - Registration of title
   - Land Titles Act
-layout: single
+
 ---
 # Harun bin Syed Hussain Aljunied and another v Abdul Samad bin O K Mohamed Haniffa and 
 

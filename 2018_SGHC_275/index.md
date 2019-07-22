@@ -8,6 +8,6 @@ tags:
   - Setting aside
   - Enforcement
   - Foreign award
-layout: single
+
 ---
 

@@ -25,6 +25,6 @@ tags:
     to collision
   - Whether contributory negligence of other vessel broke chain of causation
   - 'Section 304A Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 

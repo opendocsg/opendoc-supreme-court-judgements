@@ -22,6 +22,6 @@ tags:
   - >-
     Whether similar fact evidence and evidence unrelated to the charge
     admissible.
-layout: single
+
 ---
 

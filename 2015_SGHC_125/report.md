@@ -22,7 +22,7 @@ tags:
   - Tort
   - Negligence
   - Breach of duty
-layout: single
+
 ---
 # Ramesh s/o Krishnan v AXA Life Insurance Singapore Pte Ltd 
 

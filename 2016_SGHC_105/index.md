@@ -6,6 +6,6 @@ tags:
   - Judicial review
   - Legal Profession
   - Disciplinary proceedings
-layout: single
+
 ---
 

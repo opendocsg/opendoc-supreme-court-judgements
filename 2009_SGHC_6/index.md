@@ -35,6 +35,6 @@ tags:
     No reason for worker to believe that standing with one leg on scaffold and
     one leg on gap in wall more likely to result in back injury
   - Whether employee contributorily negligent for his injuries
-layout: single
+
 ---
 

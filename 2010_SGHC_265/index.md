@@ -4,6 +4,6 @@ title: >-
   Inteq)
 subtitle: "[2010] SGHC 265 / 02\_September\_2010"
 tags: null
-layout: single
+
 ---
 

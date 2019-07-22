@@ -18,6 +18,6 @@ tags:
   - >-
     An erroneous insistence on rights based on an opinion or inference
     reasonably drawn does not amount to actual fraud
-layout: single
+
 ---
 

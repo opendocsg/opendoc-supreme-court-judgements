@@ -28,7 +28,7 @@ tags:
     Whether presumption of resulting trust rebutted by presumption of
     advancement
   - 'Section 68 Women\''s Charter (Cap 353, 1997 Rev Ed)'
-layout: single
+
 ---
 # Re Estate of Chong Siew Kum, deceased 
 

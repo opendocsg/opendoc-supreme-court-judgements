@@ -27,6 +27,6 @@ tags:
   - Review of taxation
   - Nature of hearing of such review
   - O 59 r 36 Rules of Court
-layout: single
+
 ---
 

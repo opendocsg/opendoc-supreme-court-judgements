@@ -11,7 +11,7 @@ tags:
   - Determination of Question of Law
   - Statutory Interpretation
   - Construction of Statute
-layout: single
+
 ---
 # Soon Khai Min (administratrix of the estate of Yan Yik Peng, deceased) and another v Tiang 
 

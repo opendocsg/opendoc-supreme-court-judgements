@@ -11,6 +11,6 @@ tags:
   - Civil Procedure
   - Security for Costs
   - Whether a party resident abroad should provide security for costs.
-layout: single
+
 ---
 

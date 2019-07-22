@@ -6,6 +6,6 @@ subtitle: "[2015] SGCA 51 / 29\_September\_2015"
 tags:
   - Trade Marks and Trade Names
   - Invalidation
-layout: single
+
 ---
 

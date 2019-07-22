@@ -8,6 +8,6 @@ tags:
   - Equity
   - Disposition in writing
   - Part performance
-layout: single
+
 ---
 

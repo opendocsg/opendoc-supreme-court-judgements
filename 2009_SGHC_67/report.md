@@ -5,7 +5,7 @@ tags:
   - Courts and Jurisdiction
   - Court of criminal appeal
   - Appeal against refusal to review detention
-layout: single
+
 ---
 # Salwant Singh s/o Amer Singh v Public Prosecutor 
 

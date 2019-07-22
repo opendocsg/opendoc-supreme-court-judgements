@@ -21,6 +21,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Whether lack of remorse could operate as aggravating factor
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Breach of duty
   - Doctors
   - Hospital
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Noor Azlin bte Abdul Rahman _v_ Changi General Hospital Pte Ltd and others  

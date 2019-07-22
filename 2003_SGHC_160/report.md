@@ -30,7 +30,7 @@ tags:
   - Impeaching witnesses’ credibility
   - Discrepancies in evidence
   - Whether credibility impeached
-layout: single
+
 ---
 # Pritam Singh s/o Gurmukh Singh v Public Prosecutor 
 

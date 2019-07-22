@@ -9,6 +9,6 @@ tags:
     Whether costs should fall on plaintiff or respondent where a particular
     matter has been withdrawn, discontinued or set aside without a final
     determination on the merits
-layout: single
+
 ---
 

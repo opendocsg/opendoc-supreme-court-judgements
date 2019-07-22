@@ -18,6 +18,6 @@ tags:
   - Rape victims\' presence in court and oral testimony not required
   - Whether proceedings should be held in camera
   - 'Section 153(3) Women\''s Charter (Cap 353, 1997 Rev Ed)'
-layout: single
+
 ---
 

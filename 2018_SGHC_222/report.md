@@ -7,7 +7,7 @@ tags:
   - Freedom of speech
   - Contempt of Court
   - Scandalising the court
-layout: single
+
 ---
 # Attorney-General v Wham Kwok Han Jolovan and another matter 
 

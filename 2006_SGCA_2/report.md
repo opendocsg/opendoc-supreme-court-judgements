@@ -12,7 +12,7 @@ tags:
     Whether overwhelmingly convincing evidence of single transaction use of mark
     within five-year period adduced by proprietor of mark
   - 'Section 22(1)(a) Trade Marks Act (Cap 332, 1999 Rev Ed)'
-layout: single
+
 ---
 # Nike International Ltd v Campomar SL 
 

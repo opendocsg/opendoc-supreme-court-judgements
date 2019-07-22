@@ -7,6 +7,6 @@ tags:
   - Division
   - Family law
   - Maintenance
-layout: single
+
 ---
 

@@ -20,6 +20,6 @@ tags:
   - Whether early detection makes a difference under the circumstances
   - Whether fatalities avoidable by reasonable and prudent driver
   - s 304A Penal Code (Cap 224)
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - Offences
   - Rape
-layout: single
+
 ---
 # BMD v Public Prosecutor 
 

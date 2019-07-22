@@ -7,7 +7,7 @@ tags:
   - Tort
   - Negligence
   - Medical Negligence
-layout: single
+
 ---
  i. 
 

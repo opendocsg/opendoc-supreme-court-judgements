@@ -9,6 +9,6 @@ tags:
     Whether communications made by contractor in course of discussions with and
     in letter to employer made \"without prejudice\" and therefore inadmissible
   - Whether communications amounting to admissions
-layout: single
+
 ---
 

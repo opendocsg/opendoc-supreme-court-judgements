@@ -5,7 +5,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Nordic International Ltd v Morten Innhaug 
 

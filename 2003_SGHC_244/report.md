@@ -29,7 +29,7 @@ tags:
   - >-
     Whether passed off such products as goods of or connected or associated with
     the plaintiff.
-layout: single
+
 ---
 # Hup Huat Food Industries (S) Pte Ltd v Liang Chiang Heng and Others 
 

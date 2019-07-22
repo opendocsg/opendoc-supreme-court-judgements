@@ -11,7 +11,7 @@ tags:
   - Duties
   - Tort
   - Conspiracy
-layout: single
+
 ---
 # Airtrust (Singapore) Pte Ltd v Kao Chai-Chau Linda and another suit 
 

@@ -11,6 +11,6 @@ tags:
   - Criminal conspiracy
   - Criminal procedure and sentencing
   - Sentencing
-layout: single
+
 ---
 

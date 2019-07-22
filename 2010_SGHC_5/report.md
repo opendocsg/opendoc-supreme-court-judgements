@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - bankruptcy
   - statutory demand
-layout: single
+
 ---
 # Agus Anwar v Gainsford Capital Ltd 
 

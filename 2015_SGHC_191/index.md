@@ -4,6 +4,6 @@ subtitle: "[2015] SGHC 191 / 30\_July\_2015"
 tags:
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 

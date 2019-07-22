@@ -12,6 +12,6 @@ tags:
   - Matrimonial assets
   - Division
   - Tracing of direct financial contribution to assets
-layout: single
+
 ---
 

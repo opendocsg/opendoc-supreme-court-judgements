@@ -27,6 +27,6 @@ tags:
   - Civil Procedure
   - Appeals
   - Company suffering loss as result of breach of fiduciary duties owing to it
-layout: single
+
 ---
 

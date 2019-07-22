@@ -8,7 +8,7 @@ tags:
   - Costs
   - Civil Procedure
   - Offer to settle
-layout: single
+
 ---
 # Goel Adesh Kumar v Resorts World at Sentosa Pte Ltd (SATS Security Services Pte Ltd, third 
 

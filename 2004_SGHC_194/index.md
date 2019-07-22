@@ -16,6 +16,6 @@ tags:
   - Contract
   - Formation
   - Whether parties agreed to enter into contract in personal capacities
-layout: single
+
 ---
 

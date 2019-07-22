@@ -12,6 +12,6 @@ tags:
   - First offenders
   - Pleading guilty at first opportunity
   - No use of weapons in assault
-layout: single
+
 ---
 

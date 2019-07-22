@@ -8,6 +8,6 @@ tags:
   - Separate legal personality
   - alter ego
   - piercing of corporate veil
-layout: single
+
 ---
 

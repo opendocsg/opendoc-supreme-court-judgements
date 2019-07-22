@@ -4,6 +4,6 @@ subtitle: "[2015] SGHC 115 / 27\_April\_2015"
 tags:
   - Civil Procedure
   - Discovery
-layout: single
+
 ---
 

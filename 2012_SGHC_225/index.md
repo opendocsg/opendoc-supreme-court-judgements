@@ -5,6 +5,6 @@ tags:
   - Building and Construction Law
   - Sub-contracts
   - Claims by subcontractor
-layout: single
+
 ---
 

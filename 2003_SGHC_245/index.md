@@ -15,6 +15,6 @@ tags:
   - >-
     Whether compliance with ss 66(1) and 67(2) of Land Titles (Strata) Act (Cap
     158, 1999 Rev Ed)
-layout: single
+
 ---
 

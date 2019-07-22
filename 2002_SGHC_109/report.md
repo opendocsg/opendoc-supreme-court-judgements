@@ -15,7 +15,7 @@ tags:
   - \'Compromise settlements\'
   - \'Loss settlements\'
   - \'Commutation agreement\'
-layout: single
+
 ---
 # Overseas Union Insurance Ltd v Home and Overseas Insurance Co Ltd (No 2) 
 

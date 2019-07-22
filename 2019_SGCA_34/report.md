@@ -7,7 +7,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Voluntary arrangement
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Aathar Ah Kong Andrew _v_ CIMB Securities (Singapore) Pte Ltd and other appeals and another matter  

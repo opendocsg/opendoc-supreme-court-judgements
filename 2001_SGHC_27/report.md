@@ -11,7 +11,7 @@ tags:
   - Construction of statute
   - Penal statute
   - Whether provision ambiguous
-layout: single
+
 ---
 # Public Prosecutor v Tsao Kok Wah 
 

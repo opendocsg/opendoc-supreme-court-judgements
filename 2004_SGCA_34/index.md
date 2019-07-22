@@ -12,6 +12,6 @@ tags:
   - >-
     Factors to be considered by court when deciding whether application should
     be allowed
-layout: single
+
 ---
 

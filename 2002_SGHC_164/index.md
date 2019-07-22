@@ -23,6 +23,6 @@ tags:
   - Tort
   - Lex situs principle
   - Goods in transit
-layout: single
+
 ---
 

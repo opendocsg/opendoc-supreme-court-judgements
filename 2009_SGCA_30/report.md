@@ -35,7 +35,7 @@ tags:
     Strata Titles\' Board\'s order for collective sale set aside at appellate
     level
   - Whether objecting subsidiary proprietors entitled to share of interest
-layout: single
+
 ---
 # Ng Eng Ghee and Others v Mamata Kapildev Dave and Others (Horizon Partners Pte Ltd, 
 

@@ -7,7 +7,7 @@ tags:
   - Banking
   - Garnishee orders
   - Assignment and attachment of money held by bank
-layout: single
+
 ---
 # One Investment and Consultancy Limited and another v Cham Poh Meng (DBS Bank Ltd, 
 

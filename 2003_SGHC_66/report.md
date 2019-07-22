@@ -9,7 +9,7 @@ tags:
   - >-
     Whether motive for offence relevant for sentencing under s 304 (a) Penal
     Code, Cap 224.
-layout: single
+
 ---
 # Public Prosecutor v Nasser Bin Salleh 
 

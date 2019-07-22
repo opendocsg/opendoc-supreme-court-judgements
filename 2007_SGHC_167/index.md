@@ -14,6 +14,6 @@ tags:
     Leave to intervene sought by purchaser and 13 of consenting subsidiary
     proprietors
   - Whether leave to intervene should be granted
-layout: single
+
 ---
 

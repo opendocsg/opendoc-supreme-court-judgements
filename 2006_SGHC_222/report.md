@@ -25,7 +25,7 @@ tags:
   - Damages
   - Pure economic loss
   - Applicable test for liability in negligence for pure economic loss
-layout: single
+
 ---
 # Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric (practising under the name and style 
 

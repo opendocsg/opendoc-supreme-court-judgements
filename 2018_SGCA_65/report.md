@@ -7,7 +7,7 @@ tags:
   - Exclusive
   - Contract
   - Contractual terms
-layout: single
+
 ---
 # Vinmar Overseas (Singapore) Pte Ltd v PTT International Trading Pte Ltd 
 

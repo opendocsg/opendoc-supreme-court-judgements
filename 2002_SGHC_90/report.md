@@ -17,7 +17,7 @@ tags:
     Whether foreign plaintiff who commences action in Singapore submits to
     jurisdiction of Singapore court in respect of defendant\'s counterclaim
   - 's 16(1) (b) Supreme Court of Judicature Act (Cap 322, 1999 Ed)'
-layout: single
+
 ---
 # Drolia Mineral Industries Pte Ltd v Natural Resources Pte Ltd 
 

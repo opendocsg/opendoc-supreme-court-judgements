@@ -7,7 +7,7 @@ tags:
   - >-
     Whether money was loan given by plaintiff to defendant or joint investment
     in shares by plaintiff and defendant
-layout: single
+
 ---
 # Mohan Singh s/o Bhola Singh v Shran Jeet Singh 
 

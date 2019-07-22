@@ -7,6 +7,6 @@ tags:
   - Management powers
   - Directors
   - General meeting
-layout: single
+
 ---
 

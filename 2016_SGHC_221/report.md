@@ -14,7 +14,7 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Voluntarily causing grievous hurt
-layout: single
+
 ---
 # Public Prosecutor v BDB 
 

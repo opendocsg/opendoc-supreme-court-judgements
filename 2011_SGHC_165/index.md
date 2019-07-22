@@ -4,6 +4,6 @@ title: >-
   others
 subtitle: "[2011] SGHC 165 / 07\_July\_2011"
 tags: null
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
     Whether Assistant Registrar\'s Order covered the consequential orders and
     all elements of dispute
   - Whether Assistant Registrar\'s order should be varied.
-layout: single
+
 ---
 

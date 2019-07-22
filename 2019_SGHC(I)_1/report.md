@@ -6,7 +6,7 @@ tags:
   - Breach
   - Remedies
   - Damages
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BCBC Singapore Pte Ltd and another _v_ PT Bayan Resources TBK and another

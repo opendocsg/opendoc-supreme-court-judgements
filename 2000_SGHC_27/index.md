@@ -6,6 +6,6 @@ tags:
   - Statutory offences
   - Arms offences Act
   - Using revolver and discharging bullets
-layout: single
+
 ---
 

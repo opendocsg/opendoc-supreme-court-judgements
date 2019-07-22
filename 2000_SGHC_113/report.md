@@ -19,7 +19,7 @@ tags:
   - Rules of court
   - Winding up of companies
   - Whether Rules of Court applicable to company winding up
-layout: single
+
 ---
 # Tohru Motobayashi v Official Receiver and Another 
 

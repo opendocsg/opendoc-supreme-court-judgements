@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Jurisdiction
   - Leave to appeal
-layout: single
+
 ---
 

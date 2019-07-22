@@ -11,7 +11,7 @@ tags:
   - Land
   - Strata titles
   - Management corporation
-layout: single
+
 ---
 # Sit Kwong Lam v Management Corporation Strata Title Plan No 2645 
 

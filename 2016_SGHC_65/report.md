@@ -9,7 +9,7 @@ tags:
   - Arbitrability and Public Policy
   - Arbitration
   - Stay of court proceedings
-layout: single
+
 ---
 # Maniach Pte Ltd v L Capital Jones Ltd and another 
 

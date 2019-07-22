@@ -15,7 +15,7 @@ tags:
     Whether contract including estimate of bill such that no liability for
     payment of excess costs existing
   - Whether context and factual background of agreement relevant
-layout: single
+
 ---
 # Sandar Aung v Parkway Hospitals Singapore Pte Ltd (trading as Mount Elizabeth Hospital) 
 

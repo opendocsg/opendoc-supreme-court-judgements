@@ -7,7 +7,7 @@ tags:
   - Striking Out
   - Legal Profession
   - Disciplinary Procedures
-layout: single
+
 ---
 # Invest-Ho Properties Pte Ltd v Karuppiah Tanapalan and another 
 

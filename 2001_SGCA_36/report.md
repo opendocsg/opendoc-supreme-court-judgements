@@ -59,7 +59,7 @@ tags:
   - Payment pursuant to contract for purchase of alleged interest in property
   - No intention for money to be kept distinct as identifiable fund
   - Court deciding no interest as alleged
-layout: single
+
 ---
 # Ching Mun Fong (executrix of the estate of Tan Geok Tee, deceased) v Liu Cho Chit (No 2) 
 

@@ -7,7 +7,7 @@ tags:
   - Fraud and deceit
   - Contract
   - Fraudulent
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Liu Yanzhe and another _v_ Tan Eu Jin and others  

@@ -16,6 +16,6 @@ tags:
   - Modes of severance
   - Severance under the Land Titles Act
   - Nonregistration of instrument of declaration
-layout: single
+
 ---
 

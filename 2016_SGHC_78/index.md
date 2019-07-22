@@ -9,6 +9,6 @@ tags:
   - Criminal Law
   - Statutory offences
   - Penal Code
-layout: single
+
 ---
 

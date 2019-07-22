@@ -18,6 +18,6 @@ tags:
   - Land
   - Interest in land
   - Whether parties each had equal reversionary interest in vacant land
-layout: single
+
 ---
 

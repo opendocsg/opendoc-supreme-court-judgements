@@ -7,7 +7,7 @@ tags:
   - Criminal law
   - statutory offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Rosman bin Abdullah v Public Prosecutor 
 

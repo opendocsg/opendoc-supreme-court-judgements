@@ -10,7 +10,7 @@ tags:
   - Evidence
   - Proof of evidence
   - Onus of proof
-layout: single
+
 ---
 # Surender Singh s/o Jagdish Singh And Another (administrators of the estate of Narindar Kaur 
 

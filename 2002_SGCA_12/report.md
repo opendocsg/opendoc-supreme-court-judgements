@@ -26,7 +26,7 @@ tags:
   - Application for leave to serve out of jurisdiction
   - Whether Singapore most clearly connected with arbitration
   - Whether Singapore most appropriate forum to hear application
-layout: single
+
 ---
 # P.T. Garuda Indonesia v Birgen Air 
 

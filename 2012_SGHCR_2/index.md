@@ -6,6 +6,6 @@ tags:
   - stay of court proceedings
   - Civil Procedure
   - foreign judgments
-layout: single
+
 ---
 

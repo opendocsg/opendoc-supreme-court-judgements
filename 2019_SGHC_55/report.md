@@ -6,7 +6,7 @@ tags:
   - Statutes and regulations
   - Building and Construction Industry Security of Payment Act
   - Valuation of materials
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Chuang Long Engineering Pte Ltd _v_ Nan Huat Aluminium & Glass Pte Ltd  

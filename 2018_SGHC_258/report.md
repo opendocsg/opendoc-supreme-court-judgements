@@ -15,7 +15,7 @@ tags:
   - Constructive Trusts
   - Trusts
   - Resulting Trusts
-layout: single
+
 ---
 # Ho Yew Kong v ERC Holdings Pte Ltd and another 
 

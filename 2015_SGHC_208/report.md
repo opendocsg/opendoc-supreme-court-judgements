@@ -6,7 +6,7 @@ tags:
   - Construc tive trusts
   - Trusts
   - Resulting trusts
-layout: single
+
 ---
 # Lim Giok Boon and another v Lim Geok Cheng 
 

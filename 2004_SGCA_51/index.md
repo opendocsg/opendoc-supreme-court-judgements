@@ -6,6 +6,6 @@ tags:
   - Offences
   - Murder
   - Whether on the evidence there was reasonable doubt in Prosecution\'s case
-layout: single
+
 ---
 

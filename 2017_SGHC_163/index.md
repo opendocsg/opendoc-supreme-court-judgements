@@ -4,6 +4,6 @@ subtitle: "[2017] SGHC 163 / 10\_July\_2017"
 tags:
   - Constitutional Law
   - President
-layout: single
+
 ---
 

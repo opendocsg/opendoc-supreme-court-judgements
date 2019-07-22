@@ -10,6 +10,6 @@ tags:
   - Whether extension should be granted
   - Custody proceedings
   - Welfare of child paramount
-layout: single
+
 ---
 

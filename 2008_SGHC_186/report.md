@@ -18,7 +18,7 @@ tags:
   - Contractual terms
   - Arbitration clause
   - Interpretation of arbitration clause
-layout: single
+
 ---
 # NCC International AB v Land Transport Authority of Singapore 
 

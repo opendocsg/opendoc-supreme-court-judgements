@@ -5,7 +5,7 @@ tags:
   - Contract
   - Contractual Terms
   - Admissibility of Evidence
-layout: single
+
 ---
 # Lonpac Insurance Bhd v American Home Assurance Co 
 

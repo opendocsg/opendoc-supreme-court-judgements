@@ -10,7 +10,7 @@ tags:
   - Building and construction law
   - Sub-contracts
   - Claims by sub-contractor
-layout: single
+
 ---
 # Qwik Built-Tech International Pte Ltd v Acmes-Kings Corp Pte Ltd 
 

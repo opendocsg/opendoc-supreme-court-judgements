@@ -6,7 +6,7 @@ tags:
   - Formation
   - Contract
   - Contractual Terms
-layout: single
+
 ---
 # G-Fuel Pte Ltd v Gulf Petrochem Pte Ltd 
 

@@ -40,7 +40,7 @@ tags:
   - Words and Phrases
   - \'Nature and consequences\'
   - s 180(b) Criminal Procedure Code (Cap 68)
-layout: single
+
 ---
 # Balasubramanian Palaniappa Vaiyapuri v Public Prosecutor 
 

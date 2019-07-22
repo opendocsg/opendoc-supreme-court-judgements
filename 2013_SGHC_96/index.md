@@ -5,6 +5,6 @@ tags:
   - Equity
   - Equitable compensation
   - Principles in assessing
-layout: single
+
 ---
 

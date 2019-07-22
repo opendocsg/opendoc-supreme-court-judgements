@@ -7,6 +7,6 @@ tags:
   - Duties
   - Tort
   - Conspiracy
-layout: single
+
 ---
 

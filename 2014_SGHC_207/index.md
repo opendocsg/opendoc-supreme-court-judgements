@@ -9,6 +9,6 @@ tags:
   - non est factum
   - Evidence
   - proof of evidence
-layout: single
+
 ---
 

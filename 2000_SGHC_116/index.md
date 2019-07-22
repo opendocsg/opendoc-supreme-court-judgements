@@ -41,6 +41,6 @@ tags:
   - >-
     Whether vicarious criminal liability can be imposed for unknown illegal
     sub-tenants
-layout: single
+
 ---
 

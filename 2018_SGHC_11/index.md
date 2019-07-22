@@ -7,6 +7,6 @@ tags:
   - Contract
   - Duress
   - Economic
-layout: single
+
 ---
 

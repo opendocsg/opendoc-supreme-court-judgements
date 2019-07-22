@@ -7,6 +7,6 @@ tags:
   - Civil procedure
   - pleadings
   - further and better particulars
-layout: single
+
 ---
 

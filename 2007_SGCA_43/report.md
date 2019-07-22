@@ -30,7 +30,7 @@ tags:
   - Acknowledgment
   - Whether effective acknowledgement existing
   - 'Section 26(1) Limitation Act (Cap 163, 1996 Rev Ed)'
-layout: single
+
 ---
 # Murakami Takako (executrix of the estate of Takashi Murakami Suroso, deceased) v Wiryadi 
 

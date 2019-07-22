@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Winding up
   - Garnishee order not made absolute when debtor company wound up
-layout: single
+
 ---
 

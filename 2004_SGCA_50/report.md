@@ -14,7 +14,7 @@ tags:
   - >-
     Whether decisive factor in assessment of likelihood of deception or
     confusion
-layout: single
+
 ---
 # McDonald's Corp v Future Enterprises Pte Ltd 
 

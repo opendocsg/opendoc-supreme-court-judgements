@@ -11,7 +11,7 @@ tags:
   - >-
     Whether extraneous documents may be adduced to shed light on intention of
     parties.
-layout: single
+
 ---
 # Gladioli Investments Pte Ltd v Montien International Limited and Another 
 

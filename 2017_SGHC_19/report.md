@@ -6,7 +6,7 @@ tags:
   - Adverse possession
   - Land
   - Compulsory acquisition
-layout: single
+
 ---
 # Ahmad Kasim Bin Adam v Moona Esmail Tamby Merican s/o Mohamed Ganse and others 
 

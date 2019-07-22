@@ -20,6 +20,6 @@ tags:
   - \"Sufficient reason\"
   - Definition
   - 'Section 39 Subordinate Courts Act (Cap 321, 1999 Rev Ed)'
-layout: single
+
 ---
 

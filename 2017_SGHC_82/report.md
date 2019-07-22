@@ -12,7 +12,7 @@ tags:
   - Remedies
   - Account
   - Dishonest Assistance
-layout: single
+
 ---
 # Von Roll Asia Pte Ltd v Goh Boon Gay and others 
 

@@ -14,7 +14,7 @@ tags:
   - Conditions
   - Words and Phrases
   - “any claim hereunder”
-layout: single
+
 ---
 # Grace Electrical Engineering Pte Ltd v EQ Insurance Co Ltd 
 

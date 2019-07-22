@@ -24,6 +24,6 @@ tags:
   - >-
     Section 12 Misuse of Drugs Act (Cap 185, 2001 Rev Ed), s 107 Penal Code (Cap
     224, 1985 Rev Ed)
-layout: single
+
 ---
 

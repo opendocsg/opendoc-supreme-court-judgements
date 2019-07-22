@@ -16,7 +16,7 @@ tags:
   - >-
     Whether tenancy agreement rendered illegal and unenforceable as fraud on
     revenue authority
-layout: single
+
 ---
 # Top Ten Entertainment Pte Ltd v Lucky Red Investments Ltd (by counterclaim) 
 

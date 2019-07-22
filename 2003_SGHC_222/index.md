@@ -6,6 +6,6 @@ tags:
   - Judgments and orders
   - Application for stay of execution pending appeal against judgment
   - Whether special circumstances existing to justify grant of stay
-layout: single
+
 ---
 

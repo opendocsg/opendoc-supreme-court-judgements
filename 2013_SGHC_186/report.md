@@ -8,7 +8,7 @@ tags:
   - Arbitration
   - Award
   - Setting aside
-layout: single
+
 ---
 # TMM Division Maritima SA de CV v Pacific Richfield Marine Pte Ltd 
 

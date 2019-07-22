@@ -6,7 +6,7 @@ tags:
   - Measure of damages
   - Personal injuries cases
   - Whether award should be made for loss of future earnings
-layout: single
+
 ---
 # Choong Peng Kong v Koh Hong Son 
 

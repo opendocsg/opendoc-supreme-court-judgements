@@ -10,7 +10,7 @@ tags:
   - >-
     Whether medical evidence establishing that injuries suffered resulted from
     accident caused by defendant
-layout: single
+
 ---
 # Muhammad Shaun Eric bin Abdullah (alias De Silva Shaun Eric) v Ng Ah Tee (Chua Seng 
 

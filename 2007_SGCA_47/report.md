@@ -14,7 +14,7 @@ tags:
   - >-
     Considerations to be taken into account in assessing reasonableness of
     settlement
-layout: single
+
 ---
 # Britestone Pte Ltd v Smith & Associates Far East, Ltd 
 

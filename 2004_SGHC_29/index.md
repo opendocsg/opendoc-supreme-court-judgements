@@ -6,6 +6,6 @@ tags:
   - Negligence
   - Contributory negligence
   - Plaintiff contributorily negligent in road accident
-layout: single
+
 ---
 

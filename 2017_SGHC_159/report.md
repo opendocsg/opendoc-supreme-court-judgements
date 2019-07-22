@@ -11,7 +11,7 @@ tags:
   - Credit and security
   - Money and moneylenders
   - Moneylenders Rules 2015
-layout: single
+
 ---
 # Ang Ai Tee v Resource Credit Pte Ltd 
 

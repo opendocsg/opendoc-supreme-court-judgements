@@ -12,6 +12,6 @@ tags:
   - Account
   - Third party liability
   - Expenses
-layout: single
+
 ---
 

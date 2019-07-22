@@ -7,7 +7,7 @@ tags:
   - Claims by sub-contractor
   - Building and construction law
   - Statutes and regulations
-layout: single
+
 ---
 # Hua Rong Engineering Pte Ltd v Civil Tech Pte Ltd 
 

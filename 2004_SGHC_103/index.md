@@ -14,6 +14,6 @@ tags:
   - >-
     Whether certain classes of people and claimants to corpus of deceased\'s
     estate entitled to share in distribution of corpus
-layout: single
+
 ---
 

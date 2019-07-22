@@ -10,7 +10,7 @@ tags:
   - Breach
   - Conspiracy
   - Inducement of breach of contract
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # I-Admin (Singapore) Pte Ltd _v_ Hong Ying Ting and others and another suit  

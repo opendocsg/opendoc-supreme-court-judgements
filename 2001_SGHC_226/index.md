@@ -12,6 +12,6 @@ tags:
   - Setting aside
   - Delay in taking out application to set aside writ
   - Whether adverse inference should be drawn against defendant
-layout: single
+
 ---
 

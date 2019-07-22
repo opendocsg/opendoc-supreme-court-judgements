@@ -10,7 +10,7 @@ tags:
   - Damages
   - computation
   - time
-layout: single
+
 ---
 # Lam Chi Kin David v Deutsche Bank AG 
 

@@ -40,7 +40,7 @@ tags:
   - Necessity for best evidence
   - Plaintiffs failing to produce originals of documents tendered in evidence
   - Plaintiffs exhibiting documents in question in witness\'s affidavit
-layout: single
+
 ---
 # Jet Holding Ltd and Others v Cooper Cameron (Singapore) Pte Ltd and Another and Other 
 

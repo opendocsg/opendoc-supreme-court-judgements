@@ -6,6 +6,6 @@ tags:
   - Judgments and orders
   - Defendants applying for stay of order pending appeal on stay of proceedings
   - Whether circumstances warranted stay of order
-layout: single
+
 ---
 

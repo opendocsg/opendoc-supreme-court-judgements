@@ -11,6 +11,6 @@ tags:
   - Remedies
   - Rescission
   - Bar to rescission
-layout: single
+
 ---
 

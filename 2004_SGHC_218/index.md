@@ -9,6 +9,6 @@ tags:
   - >-
     Whether awards for loss of earnings and future medical expenses should be
     varied
-layout: single
+
 ---
 

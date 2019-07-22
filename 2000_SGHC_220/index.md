@@ -25,6 +25,6 @@ tags:
   - >-
     ss 5(1), 5(6)(b) & 23(1) Employment of Foreign Workers Act (Cap 91A, 1997
     Rev Ed)
-layout: single
+
 ---
 

@@ -12,7 +12,7 @@ tags:
   - Plaintiff claiming company entitled to certain rebates
   - Whether prima facie in interests of company that action be brought
   - Whether plaintiff shown prima facie case that company entitled to rebates
-layout: single
+
 ---
 # Agus Irawan v Toh Tech Chye and Others 
 

@@ -19,7 +19,7 @@ tags:
   - Court
   - Citation of authorities by counsel
   - Authorities cited must reflect updated state of law at time of citation
-layout: single
+
 ---
 # Koh Soon Pheng v Tan Kah Eng 
 

@@ -13,7 +13,7 @@ tags:
   - Credit and security
   - Bonds
   - Performance bonds
-layout: single
+
 ---
 # Sin Herh Construction Pte Ltd v Hyundai Engineering & Construction Co Ltd and another 
 

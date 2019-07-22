@@ -11,6 +11,6 @@ tags:
   - Evidence
   - Proof of evidence
   - Break in chain of evidence
-layout: single
+
 ---
 

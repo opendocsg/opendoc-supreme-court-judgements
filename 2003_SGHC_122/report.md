@@ -19,7 +19,7 @@ tags:
   - Words and Phrases
   - \"Public entertainment\"
   - 'Public Entertainments and Meetings Act (Cap 257, 2001 Rev Ed) s 2'
-layout: single
+
 ---
 # Chee Soon Juan v Public Prosecutor 
 

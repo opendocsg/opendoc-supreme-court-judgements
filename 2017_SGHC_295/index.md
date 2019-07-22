@@ -7,6 +7,6 @@ tags:
   - Credit and Security
   - Money and moneylenders
   - Interest
-layout: single
+
 ---
 

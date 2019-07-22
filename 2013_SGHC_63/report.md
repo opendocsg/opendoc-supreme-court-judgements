@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Prevention of Corruption Act
-layout: single
+
 ---
 # Public Prosecutor v Victorine Noella Wijeysingha 
 

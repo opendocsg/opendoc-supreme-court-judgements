@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Determination of action on preliminary point of law
-layout: single
+
 ---
 

@@ -18,7 +18,7 @@ tags:
   - Partners inter se
   - Sharing of profits and losses
   - Assessment of partnership profits to be shared
-layout: single
+
 ---
 # Tan Liang Chong v Chou Lai Tiang 
 

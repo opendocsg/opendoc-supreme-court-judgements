@@ -29,7 +29,7 @@ tags:
     Whether insurer obtaining valid discharge from liability by paying out
     insurance moneys to parents
   - Whether parents proper claimants to insurance proceeds
-layout: single
+
 ---
 # Vaswani Lalchand Challaram and Another v Vaswani Roshni Anilkumar and Another 
 

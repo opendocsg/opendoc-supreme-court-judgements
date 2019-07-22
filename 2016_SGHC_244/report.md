@@ -5,7 +5,7 @@ tags:
   - Unincorporated Associations and Trade Unions
   - Friendly Societies
   - Disputes
-layout: single
+
 ---
 # Tan Boon Hai v Tan Kia Kok and another 
 

@@ -10,7 +10,7 @@ tags:
     Whether issues raised in appeals sufficiently difficult or complex to
     warrant admission of Queen\'s Counsel
   - 'Section 21(1) Legal Profession Act (Cap 161, 2001 Rev Ed).'
-layout: single
+
 ---
 # Re Eder Henry Bernard QC 
 

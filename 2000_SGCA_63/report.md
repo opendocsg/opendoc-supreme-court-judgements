@@ -14,7 +14,7 @@ tags:
   - >-
     Whether s 56(1) subject to s 2(2)Whether court should invoke s 56(1) to
     authorise sale
-layout: single
+
 ---
 # Leo Teng Choy v Leo Teng Kit and Others 
 

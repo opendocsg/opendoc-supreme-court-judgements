@@ -43,7 +43,7 @@ tags:
   - >-
     Whether communication of matters relating to accident sufficient to found
     duty of care
-layout: single
+
 ---
 # Ngiam Kong Seng and Another v Lim Chiew Hock 
 

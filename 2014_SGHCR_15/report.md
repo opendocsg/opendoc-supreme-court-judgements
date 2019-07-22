@@ -8,7 +8,7 @@ tags:
   - Assessment
   - Dependency Claims
   - Quantum
-layout: single
+
 ---
 # Wan Kam Fook and another (dependents of Chin Talap a/p Wan Kam Fook, deceased) v Kor 
 

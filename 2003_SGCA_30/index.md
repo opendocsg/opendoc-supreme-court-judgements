@@ -19,6 +19,6 @@ tags:
   - Companies
   - Receiver and manager
   - Scope of duties of receiver and manager owed towards mortgagor company
-layout: single
+
 ---
 

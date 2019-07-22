@@ -6,6 +6,6 @@ tags:
   - Inherent powers
   - Credit and security
   - Guarantees and indemnities
-layout: single
+
 ---
 

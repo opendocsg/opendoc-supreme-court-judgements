@@ -6,7 +6,7 @@ tags:
   - Maintenance
   - Child
   - Due proof of neglect or refusal
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UHA _v_ UHB and another appeal  

@@ -7,6 +7,6 @@ tags:
   - Equity
   - proprietary estoppel
   - Remedying the equity
-layout: single
+
 ---
 

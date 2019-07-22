@@ -15,7 +15,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Mentally disordered offenders
-layout: single
+
 ---
 # Public Prosecutor v Chia Kee Chen and another appeal 
 

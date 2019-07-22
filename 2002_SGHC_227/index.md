@@ -27,6 +27,6 @@ tags:
   - Setting aside
   - Whether wrong to encourage writ action within narrow scope of inquiry
   - O 16 Rules of Court
-layout: single
+
 ---
 

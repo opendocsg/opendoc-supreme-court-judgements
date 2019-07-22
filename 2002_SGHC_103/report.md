@@ -29,7 +29,7 @@ tags:
     Whether plaintiffs own or have or possessory title to cargo at time of
     grounding
   - 'ss2(1) & 5(2) Bills of Lading Act (Cap 384, 1994 Ed)'
-layout: single
+
 ---
 # The "Patraikos 2" 
 

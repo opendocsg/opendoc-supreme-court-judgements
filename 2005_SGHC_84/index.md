@@ -24,6 +24,6 @@ tags:
     Sections 136(9), 136(12) Copyright Act (Cap 63, 1999 Rev Ed), s 378(3)
     Criminal Procedure Code (Cap 68, 1985 Rev Ed), s 3(1) Evidence Act (Cap 97,
     1997 Rev Ed)
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - striking out
   - Civil procedure
   - discovery of documents
-layout: single
+
 ---
 # Grande Corp Pte Ltd v Cubix International Pte Ltd and others 
 

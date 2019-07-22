@@ -8,7 +8,7 @@ tags:
   - Family Law
   - Maintenance
   - Wife
-layout: single
+
 ---
 # AQS v AQR 
 

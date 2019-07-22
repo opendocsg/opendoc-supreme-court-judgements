@@ -9,6 +9,6 @@ tags:
   - Wife
   - Family Law
   - Ancillary powers of court
-layout: single
+
 ---
 

@@ -19,7 +19,7 @@ tags:
     services in mind of public by association with plaintiff\'s trade marks and
     get-up
   - Whether defendant liable for passing off
-layout: single
+
 ---
 # Caterpillar Inc v Ong Eng Peng (formerly trading as Catplus International) 
 

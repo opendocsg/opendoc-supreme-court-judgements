@@ -5,7 +5,7 @@ tags:
   - Damages
   - Measure of damages
   - Personal injuries cases
-layout: single
+
 ---
 # Tan Shi Lin v Poh Che Thiam 
 

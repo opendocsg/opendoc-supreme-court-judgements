@@ -26,6 +26,6 @@ tags:
   - Death
   - Dependency claim
   - Considerations and factors
-layout: single
+
 ---
 

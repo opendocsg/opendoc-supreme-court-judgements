@@ -22,7 +22,7 @@ tags:
     Trial judge relying solely on victim\'s uncorroborated testimony to convict
     appellant
   - Whether trial judge finding victim\'s testimony unusually compelling
-layout: single
+
 ---
 # Tan Wei Yi v Public Prosecutor 
 

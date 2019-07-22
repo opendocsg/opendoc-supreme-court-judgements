@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Trafficking in controlled drugs.
-layout: single
+
 ---
 # Public Prosecutor v Dhanabalan s/o A Gopalkrishnan 
 

@@ -19,7 +19,7 @@ tags:
   - Duties
   - Tort
   - Conspirac y
-layout: single
+
 ---
 # DyStar Global Holdings (Singapore) Pte Ltd v Kiri Industries Ltd and others and another suit 
 

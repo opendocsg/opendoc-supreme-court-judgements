@@ -8,7 +8,7 @@ tags:
   - Building and construction law
   - Statutes and regulations
   - Building and Construction Industry Security of Payment Act
-layout: single
+
 ---
 # Strategic Construction Pte Ltd v JH Projects Pte Ltd 
 

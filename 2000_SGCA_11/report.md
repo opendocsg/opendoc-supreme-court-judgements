@@ -21,7 +21,7 @@ tags:
   - Damages
   - Assessment
   - Method of assessment when loss not quantifiable
-layout: single
+
 ---
 # Parfums Rochas SA and Others v Davidson Singapore Pte Ltd and Another 
 

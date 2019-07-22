@@ -9,6 +9,6 @@ tags:
   - Grounds for revocation under s 22 of the Trade Marks Act
   - Whether court retains discretion to maintain mark on register
   - 'Trade Marks Act (Cap 332, 1999 Rev Ed) s 22'
-layout: single
+
 ---
 

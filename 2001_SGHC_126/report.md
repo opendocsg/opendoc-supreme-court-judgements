@@ -11,7 +11,7 @@ tags:
   - >-
     Effect of defendants\' prior appeal and failure to set aside award in
     Chinese court
-layout: single
+
 ---
 # Newspeed International Limited v Citus Trading Pte Ltd 
 

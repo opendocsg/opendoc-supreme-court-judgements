@@ -6,6 +6,6 @@ tags:
   - Statutes and regulations
   - Building and Construction Industry Security of Payment Act
   - Termination of contract
-layout: single
+
 ---
 

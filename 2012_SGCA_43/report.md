@@ -11,7 +11,7 @@ tags:
   - Contract
   - Contractual terms
   - Non-reliance clauses
-layout: single
+
 ---
 # Als Memasa and another v UBS AG 
 

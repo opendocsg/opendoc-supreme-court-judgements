@@ -14,6 +14,6 @@ tags:
   - Nature of the arbitration
   - Whether domestic or international SIAC rules should apply
   - Whether parties to agreement had specified a particular regime
-layout: single
+
 ---
 

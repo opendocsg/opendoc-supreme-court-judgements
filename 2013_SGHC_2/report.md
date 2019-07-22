@@ -7,7 +7,7 @@ tags:
   - Contract
   - Remedies
   - Damages
-layout: single
+
 ---
 # Biomedia Pharma Pte Ltd (formerly known as Malaysia Chemist Pte Ltd) v TAC Distribution 
 

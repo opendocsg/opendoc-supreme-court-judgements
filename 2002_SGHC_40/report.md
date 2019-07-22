@@ -30,7 +30,7 @@ tags:
   - Efforts to sell property
   - Duty to maintain property
   - Duty to advertise sale adequately
-layout: single
+
 ---
 # Tai Sea Nyong v Overseas Union Bank Ltd 
 

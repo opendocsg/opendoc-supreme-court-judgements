@@ -22,7 +22,7 @@ tags:
   - Words and Phrases
   - \"Successor in title\"
   - 'Section 84A(15) Land Titles (Strata) Act (Cap 158, 1999 Rev Ed)'
-layout: single
+
 ---
 # Tan Siew Tian and Others v Lee Khek Ern Ken 
 

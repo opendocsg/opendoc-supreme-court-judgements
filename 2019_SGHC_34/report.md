@@ -6,7 +6,7 @@ tags:
   - Members
   - Derivative action
   - Memorandum and articles of association
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ozak Seiko Co Ltd _v_ Ozak Seiko (S) Pte Ltd and another and other matters  

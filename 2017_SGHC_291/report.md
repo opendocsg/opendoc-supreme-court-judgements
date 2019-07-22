@@ -11,7 +11,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Mentally disordered offenders
-layout: single
+
 ---
 # Roslan bin Bakar v Public Prosecutor and another matter 
 

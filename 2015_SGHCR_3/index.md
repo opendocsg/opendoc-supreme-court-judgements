@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Examination of Judgment Debtor
   - Scope of Examination
-layout: single
+
 ---
 

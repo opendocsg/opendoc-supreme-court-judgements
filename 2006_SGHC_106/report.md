@@ -15,7 +15,7 @@ tags:
   - >-
     Circumstances under which creditors may apply to court for removal of
     liquidator
-layout: single
+
 ---
 # Yap Jeffery Henry and Another v Ho Mun-Tuke Don 
 

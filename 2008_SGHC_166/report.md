@@ -6,7 +6,7 @@ tags:
   - Matrimonial assets
   - Custody
   - Maintenance
-layout: single
+
 ---
 # YG v YH 
 

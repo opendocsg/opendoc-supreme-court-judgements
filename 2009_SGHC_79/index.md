@@ -6,6 +6,6 @@ tags:
   - Testamentary capacity
   - Mental disability
   - Schizophrenic executing a will
-layout: single
+
 ---
 

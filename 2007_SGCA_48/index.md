@@ -60,6 +60,6 @@ tags:
   - >-
     Principles governing identification of corroborative evidence where
     corroboration was required
-layout: single
+
 ---
 

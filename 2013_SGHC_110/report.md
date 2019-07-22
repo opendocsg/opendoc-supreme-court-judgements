@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Public Prosecutor v Abdul Haleem bin Abdul Karim and another 
 

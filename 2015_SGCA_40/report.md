@@ -7,7 +7,7 @@ tags:
   - Management powers
   - Directors
   - General meeting
-layout: single
+
 ---
 # Chan Siew Lee v TYC Investment Pte Ltd and others and another appeal 
 

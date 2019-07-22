@@ -7,6 +7,6 @@ tags:
   - Contract
   - Contractual terms
   - Express terms
-layout: single
+
 ---
 

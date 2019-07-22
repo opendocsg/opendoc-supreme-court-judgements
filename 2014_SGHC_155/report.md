@@ -5,7 +5,7 @@ tags:
   - Insolvency law
   - winding up
   - liquidator
-layout: single
+
 ---
 # BNY Corporate Trustee Services Ltd v Celestial Nutrifoods Ltd 
 

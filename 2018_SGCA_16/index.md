@@ -14,6 +14,6 @@ tags:
   - Trusts
   - Beneficiaries
   - Rights
-layout: single
+
 ---
 

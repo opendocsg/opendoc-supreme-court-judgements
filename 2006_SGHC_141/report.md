@@ -9,7 +9,7 @@ tags:
     capacity
   - Whether wife having undeclared source of income
   - Whether wife entitled to lump sum maintenance
-layout: single
+
 ---
 # Koh Mui Noi v Tan Tian Seong 
 

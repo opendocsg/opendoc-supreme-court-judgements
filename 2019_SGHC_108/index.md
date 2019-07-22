@@ -8,6 +8,6 @@ tags:
   - Costs
   - Extension of time
   - Mental Disorders and Treatment
-layout: single
+
 ---
 

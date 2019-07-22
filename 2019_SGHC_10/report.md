@@ -4,7 +4,7 @@ subtitle: "[2019] SGHC 10 / Decision Date: 22\_January\_2019"
 tags:
   - Civil Procedure
   - Injunctions
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lyu Yan @ Lu Yan _v_ Lim Tien Chiang and others  

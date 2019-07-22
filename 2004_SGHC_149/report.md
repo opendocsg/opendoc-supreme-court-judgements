@@ -21,7 +21,7 @@ tags:
   - Presumed
   - Elements to be proven to raise presumption of undue influence
   - Personal guarantee given as directors of company to secure company\'s debts
-layout: single
+
 ---
 # The Bank of East Asia Ltd v Mody Sonal M and Others 
 

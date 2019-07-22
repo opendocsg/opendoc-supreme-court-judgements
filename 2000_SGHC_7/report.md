@@ -10,7 +10,7 @@ tags:
   - Defences
   - Promissory estoppel
   - Whether defendants relying upon representation
-layout: single
+
 ---
 # The Development Bank of Singapore Ltd v Heng Holdings SEA (Pte) Ltd and Others 
 

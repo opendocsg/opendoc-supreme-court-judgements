@@ -17,7 +17,7 @@ tags:
   - >-
     Whether accused suffering from withdrawal symptoms when statement pursuant
     to s 122(6) Criminal Procedure Code (Cap 68, 1985 Rev Ed) was taken.
-layout: single
+
 ---
 # Public Prosecutor v Teo Yeow Chuah 
 

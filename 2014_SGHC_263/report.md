@@ -9,7 +9,7 @@ tags:
   - Customary Marriage
   - Evidence
   - Admissibility of Evidence
-layout: single
+
 ---
 # Wong Swee Hor v Tan Jip Seng and others 
 

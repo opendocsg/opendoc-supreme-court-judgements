@@ -10,6 +10,6 @@ tags:
   - Accused\'s only antecedent took place in 1979
   - Accused starting quarrel but not inflicting the first blow
   - Accused turning 50 years old in six months
-layout: single
+
 ---
 

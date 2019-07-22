@@ -8,7 +8,7 @@ tags:
   - TORT
   - occupier’s liability
   - duty of care to trespassers
-layout: single
+
 ---
 # See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others 
 

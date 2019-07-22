@@ -11,7 +11,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Mentally disordered offenders
-layout: single
+
 ---
 # Public Prosecutor v Sutherson, Sujay Solomon 
 

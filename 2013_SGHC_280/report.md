@@ -7,7 +7,7 @@ tags:
   - Employment Law
   - Pay
   - Computation
-layout: single
+
 ---
 # Monteverde Darvin Cynthia v VGO Corp Ltd 
 

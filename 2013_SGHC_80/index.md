@@ -8,6 +8,6 @@ tags:
   - Administrative law
   - remedies
   - quashing order
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Conflict of Laws
   - Choice of Law
   - Effect of Illegality of Related Contract
-layout: single
+
 ---
 

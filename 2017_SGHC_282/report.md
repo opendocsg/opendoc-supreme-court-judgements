@@ -10,7 +10,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Striking Out
-layout: single
+
 ---
 # Ebony Ritz Sdn Bhd v Sumatec Resources Bhd 
 

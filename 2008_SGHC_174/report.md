@@ -26,7 +26,7 @@ tags:
   - Death
   - Dependency claim
   - Considerations and factors
-layout: single
+
 ---
 # Balanalagirisamy Gowri Rajeswari and another (administrators of the estate of Radhakrishnan 
 

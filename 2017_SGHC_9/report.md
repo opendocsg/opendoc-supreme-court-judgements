@@ -5,7 +5,7 @@ tags:
   - Building and construction law
   - Dispute resolution
   - Adjudication
-layout: single
+
 ---
 # Ang Cheng Guan Construction Pte Ltd v Corporate Residence Pte Ltd 
 

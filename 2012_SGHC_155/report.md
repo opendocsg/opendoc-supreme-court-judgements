@@ -12,7 +12,7 @@ tags:
   - judicial review
   - Constitutional interpretation
   - constitutional provisions
-layout: single
+
 ---
 # Vellama d/o Marie Muthu v Attorney-General 
 

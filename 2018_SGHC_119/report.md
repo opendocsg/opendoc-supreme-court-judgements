@@ -10,7 +10,7 @@ tags:
   - Sentencing
   - Principles
   - Disqualification orders
-layout: single
+
 ---
 # Public Prosecutor v Fizul Asrul bin Efandi 
 

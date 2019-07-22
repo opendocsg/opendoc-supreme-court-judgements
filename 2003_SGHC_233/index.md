@@ -17,6 +17,6 @@ tags:
   - Alleged collapse of sidewall of cargo hold allowing goods to fall into sea
   - Whether loss due to insured peril
   - Definition of \"washing overboard\"
-layout: single
+
 ---
 

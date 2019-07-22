@@ -7,6 +7,6 @@ tags:
   - Road Traffic Act
   - Exhibiting a false vehicle licence plate
   - Whether custodial sentence warranted
-layout: single
+
 ---
 

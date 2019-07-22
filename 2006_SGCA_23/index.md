@@ -17,6 +17,6 @@ tags:
     Nature of court\'s power to make orders in connection with order for winding
     up on just and equitable grounds
   - 'Sections 254(1)(i), 257(1) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Offences
   - Sexual penetration of a minor
-layout: single
+
 ---
 

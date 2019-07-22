@@ -10,6 +10,6 @@ tags:
   - Probate and administration
   - Personal representatives
   - Liabilities
-layout: single
+
 ---
 

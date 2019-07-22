@@ -5,7 +5,7 @@ tags:
   - Arbitration
   - Stay of court proceedings
   - Mandatory stay under International Arbitration Act
-layout: single
+
 ---
 # Malini Ventura v Knight Capital Pte Ltd and others 
 

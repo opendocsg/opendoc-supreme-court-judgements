@@ -13,6 +13,6 @@ tags:
   - >-
     Vessel\'s tanks discovered to be unfit to receive and carry plaintiff\'s
     cargo to destination due to severe breakdown of epoxy coating
-layout: single
+
 ---
 

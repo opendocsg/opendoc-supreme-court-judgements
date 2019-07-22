@@ -7,6 +7,6 @@ tags:
   - Administrative Law
   - Judicial Review
   - Ambit
-layout: single
+
 ---
 

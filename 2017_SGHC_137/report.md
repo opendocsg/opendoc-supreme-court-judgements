@@ -7,7 +7,7 @@ tags:
   - Tort
   - Defamation
   - Malice
-layout: single
+
 ---
 # Ezion Holdings Ltd v Credit Suisse AG 
 

@@ -9,7 +9,7 @@ tags:
   - Sentencing
   - Penalties
   - Workplace Safety and Health Act
-layout: single
+
 ---
 # Nurun Novi Saydur Rahman v Public Prosecutor and another appeal 
 

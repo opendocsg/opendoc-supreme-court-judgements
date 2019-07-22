@@ -9,7 +9,7 @@ tags:
   - Whether collective sales agreement and sale and purchase agreement valid
   - Whether Board erring in law in granting collective sale order
   - 'Section 84A Land Titles (Strata) Act (Cap 158, 1999 Rev Ed)'
-layout: single
+
 ---
 # Ng Swee Lang and Another v Sassoon Samuel Bernard and Others 
 

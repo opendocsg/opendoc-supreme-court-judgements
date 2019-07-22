@@ -5,6 +5,6 @@ tags:
   - Revenue Law
   - Income taxation
   - Deduction
-layout: single
+
 ---
 

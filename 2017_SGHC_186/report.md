@@ -8,7 +8,7 @@ tags:
   - Contract
   - Breach
   - Election to terminate
-layout: single
+
 ---
 # Singland Transportation Pte Ltd v Alpha Focus (S) Pte Ltd 
 

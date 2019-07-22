@@ -18,6 +18,6 @@ tags:
   - Matrimonial assets
   - Club membership
   - Wife to retain membership
-layout: single
+
 ---
 

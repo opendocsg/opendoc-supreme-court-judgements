@@ -12,7 +12,7 @@ tags:
   - Breach
   - Contract
   - Discharge
-layout: single
+
 ---
 # Naughty G Pte Ltd v Fortune Marketing Pte Ltd 
 

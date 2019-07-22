@@ -4,7 +4,7 @@ subtitle: "[2014] SGHC 12 / 15\_January\_2014"
 tags:
   - Criminal Procedure and Sentencing
   - sentencing
-layout: single
+
 ---
  Charges convicted on Charges taken into consideration 
 

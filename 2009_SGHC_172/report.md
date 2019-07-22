@@ -8,7 +8,7 @@ tags:
   - >-
     Duty of care owed by main contractor to workman where workman was employed
     by subcontractor and not main contractor
-layout: single
+
 ---
 # Ma HongFei v U-Hin Manufacturing Pte Ltd and Another 
 

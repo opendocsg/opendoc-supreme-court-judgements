@@ -8,6 +8,6 @@ tags:
   - Evidence
   - Presumptions
   - Presumption of death
-layout: single
+
 ---
 

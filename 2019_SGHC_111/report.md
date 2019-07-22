@@ -4,7 +4,7 @@ subtitle: "[2019] SGHC 111 / Decision Date: 29\_April\_2019"
 tags:
   - Contempt of Court
   - Sentencing
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Attorney-General _v_ Wham Kwok Han Jolovan and another matter  

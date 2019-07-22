@@ -6,6 +6,6 @@ subtitle: "[2012] SGHC 140 / 03\_July\_2012"
 tags:
   - Insolvency Law
   - Bankruptcy
-layout: single
+
 ---
 

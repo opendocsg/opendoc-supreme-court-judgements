@@ -6,6 +6,6 @@ tags:
   - Offenc es
   - Criminal Proc edure
   - Sentenc e
-layout: single
+
 ---
 

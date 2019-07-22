@@ -33,7 +33,7 @@ tags:
     Whether presumption of advancement applying to displace the initial
     presumption
   - Whether sufficient evidence adduced to rebut presumption of advancement
-layout: single
+
 ---
 # Lau Siew Kim v Yeo Guan Chye Terence and Another 
 

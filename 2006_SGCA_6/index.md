@@ -12,6 +12,6 @@ tags:
     Contest between parents as nominated beneficiaries under policies and
     deceased\'s wife as beneficiary of deceased\'s estate over moneys from
     insurance policies
-layout: single
+
 ---
 

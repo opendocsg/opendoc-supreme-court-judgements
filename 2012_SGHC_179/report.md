@@ -6,7 +6,7 @@ tags:
   - Summary Judgment
   - Landlord and Tenant
   - Agreements for leases
-layout: single
+
 ---
 # Jurong Town Corp v Dauphin Shipyard Pte Ltd 
 

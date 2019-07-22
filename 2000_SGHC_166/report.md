@@ -18,7 +18,7 @@ tags:
   - Contractual terms
   - Arbitration clause
   - Whether arbitration clause incorporated into contract
-layout: single
+
 ---
 # L & M Concrete Specialists Pte Ltd v United Eng Contractors Pte Ltd 
 

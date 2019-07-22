@@ -10,7 +10,7 @@ tags:
   - Tort
   - Defamation
   - Malicious falsehood
-layout: single
+
 ---
 # Singsung Pte Ltd and another v LG 26 Electronics Pte Ltd (Trading as L S Electrical Trading) 
 

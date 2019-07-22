@@ -9,6 +9,6 @@ tags:
   - Litigants in person
   - Civil Procedure
   - Service
-layout: single
+
 ---
 

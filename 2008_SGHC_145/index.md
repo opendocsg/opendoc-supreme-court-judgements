@@ -6,6 +6,6 @@ subtitle: "[2008] SGHC 145 / 02\_September\_2008"
 tags:
   - Contract
   - Contractual terms
-layout: single
+
 ---
 

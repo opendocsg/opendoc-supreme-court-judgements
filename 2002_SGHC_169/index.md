@@ -10,6 +10,6 @@ tags:
   - Court judgments
   - Role of court assessors
   - Whether advice of court assessors open to scrutiny
-layout: single
+
 ---
 

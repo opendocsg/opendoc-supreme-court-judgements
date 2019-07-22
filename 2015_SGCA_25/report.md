@@ -7,7 +7,7 @@ tags:
   - Misuse of Drugs
   - Criminal Procedure and Sentencing
   - Appeal
-layout: single
+
 ---
 # Devendran a/l Supramaniam v Public Prosecutor 
 

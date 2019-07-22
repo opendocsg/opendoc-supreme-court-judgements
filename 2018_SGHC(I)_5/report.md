@@ -11,7 +11,7 @@ tags:
   - Equity
   - Fiduciary relationships
   - When arising
-layout: single
+
 ---
 # Macquarie Bank Ltd v Graceland Industry Pte Ltd 
 

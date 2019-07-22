@@ -28,6 +28,6 @@ tags:
   - Family Law
   - Women’s charter
   - Court considering ancillary matters to uncontested divorce
-layout: single
+
 ---
 

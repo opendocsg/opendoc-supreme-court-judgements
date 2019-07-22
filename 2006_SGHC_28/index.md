@@ -27,6 +27,6 @@ tags:
   - >-
     Whether limitation of liability clause dealt with the issue of liability or
     quantum of damages
-layout: single
+
 ---
 

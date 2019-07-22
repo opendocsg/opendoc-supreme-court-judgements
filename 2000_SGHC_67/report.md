@@ -21,7 +21,7 @@ tags:
   - Whether shipyard owners occupiers of interior of vessel
   - Whether shipyard owners and worker\'s employers liable as occupiers
   - Whether danger faced unusual to invitee
-layout: single
+
 ---
 # Amus bin Pangkong v Jurong Shipyard Limited and Another 
 

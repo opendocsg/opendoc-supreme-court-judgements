@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Appeals
   - Registrar\'s appeal from assessment of damages to judge in chambers
-layout: single
+
 ---
 

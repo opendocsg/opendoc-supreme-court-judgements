@@ -16,6 +16,6 @@ tags:
     Whether Public Prosecutor has power to intervene in criminal proceedings and
     private prosecutions
   - Whether Public Prosecutor has power to discontinue proceedings
-layout: single
+
 ---
 

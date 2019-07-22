@@ -10,6 +10,6 @@ tags:
   - presumed resulting trusts
   - Equity
   - mistake
-layout: single
+
 ---
 

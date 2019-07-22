@@ -6,7 +6,7 @@ tags:
   - appeals
   - Family Law
   - consent orders
-layout: single
+
 ---
 # Seah Kim Seng v Yick Sui Ping 
 

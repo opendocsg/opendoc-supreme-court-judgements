@@ -13,7 +13,7 @@ tags:
   - Words and Phrases
   - \"Writ of seizure and sale\"
   - Whether in substance same as garnishment
-layout: single
+
 ---
 # American Express Bank Ltd v Abdul Manaff bin Ahmad and Another and Other Appeals 
 

@@ -34,7 +34,7 @@ tags:
   - Defamation
   - Qualified privilege
   - Whether defence of qualified privilege applicable
-layout: single
+
 ---
 # Ei-Nets Ltd and Another v Yeo Nai Meng 
 

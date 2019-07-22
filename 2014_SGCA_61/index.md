@@ -11,6 +11,6 @@ tags:
   - Courts and Jurisdiction
   - Jurisdiction
   - Original
-layout: single
+
 ---
 

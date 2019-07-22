@@ -7,7 +7,7 @@ tags:
   - express terms
   - Contract
   - breach
-layout: single
+
 ---
  Document Abbreviation 
 

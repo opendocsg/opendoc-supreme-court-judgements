@@ -7,7 +7,7 @@ tags:
   - Grossly improper conduct
   - Fee agreement
   - Champerty
-layout: single
+
 ---
 # Law Society of Singapore v Kurubalan s/o Manickam Rengaraju 
 

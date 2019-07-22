@@ -12,7 +12,7 @@ tags:
   - >-
     Whether plaintiffs entitled to claim for diminution in value of club
     membership
-layout: single
+
 ---
 # Tan Chin Seng and Others v Raffles Town Club Pte Ltd (No 2) 
 

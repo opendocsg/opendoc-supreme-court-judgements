@@ -15,7 +15,7 @@ tags:
   - >-
     Majority of directors signing resolution in writing without notice to
     minority
-layout: single
+
 ---
 # Polybuilding (S) Pte Ltd v Lim Heng Lee and Others 
 

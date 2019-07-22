@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Appeals
   - Harassment on behalf of unlicensed moneylender
-layout: single
+
 ---
 # Chua Whye Woon v Public Prosecutor 
 

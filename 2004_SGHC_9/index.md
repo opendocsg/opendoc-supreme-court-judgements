@@ -13,6 +13,6 @@ tags:
   - Parol evidence rule
   - Whether oral agreement admissible to vary written contract
   - Evidence Act (Cap 97) ss 93 & 94.
-layout: single
+
 ---
 

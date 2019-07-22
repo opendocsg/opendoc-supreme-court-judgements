@@ -6,6 +6,6 @@ tags:
   - Compromise agreement
   - Requirements for valid compromise
   - Consideration
-layout: single
+
 ---
 

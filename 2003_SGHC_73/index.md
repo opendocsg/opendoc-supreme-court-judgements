@@ -18,6 +18,6 @@ tags:
   - Defamation
   - Publication to restricted group only
   - Whether defence made out.
-layout: single
+
 ---
 

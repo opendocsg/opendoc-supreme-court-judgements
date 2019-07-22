@@ -10,6 +10,6 @@ tags:
   - Damages
   - Rules in awarding
   - Proof of actual damage
-layout: single
+
 ---
 

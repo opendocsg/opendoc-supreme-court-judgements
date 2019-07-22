@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Offences
   - Currency and bank notes
-layout: single
+
 ---
 # Tan Kim Huat Jerry v Public Prosecutor 
 

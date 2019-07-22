@@ -25,7 +25,7 @@ tags:
   - Sentencing
   - No remorse by accused
   - Whether sentences excessive for false allegation of rape
-layout: single
+
 ---
 # Siew Yit Beng v Public Prosecutor 
 

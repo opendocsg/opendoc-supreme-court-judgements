@@ -8,7 +8,7 @@ tags:
   - Discovery of documents
   - Specific discovery
   - Whether discovery of various internal documents should be ordered.
-layout: single
+
 ---
 # XACCT Technologies Ltd v Orient Telecommunication Networks Pte Ltd formerly known as 
 

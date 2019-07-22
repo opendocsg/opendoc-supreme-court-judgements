@@ -10,7 +10,7 @@ tags:
   - Equity
   - Satisfaction
   - Minimalist approach
-layout: single
+
 ---
 # Low Heng Leon Andy v Low Kian Beng Lawrence (administrator of the estate of Tan Ah Kng, 
 

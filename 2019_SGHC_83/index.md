@@ -8,6 +8,6 @@ tags:
   - Criminal force and assault
   - Outrage of modesty
   - Causing hurt by means of poison
-layout: single
+
 ---
 

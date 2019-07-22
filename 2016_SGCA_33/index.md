@@ -10,6 +10,6 @@ tags:
   - Copyright Infringement
   - Intellectual Property
   - Groundless Threats of Legal Proceedings
-layout: single
+
 ---
 

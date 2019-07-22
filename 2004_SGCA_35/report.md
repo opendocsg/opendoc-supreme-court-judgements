@@ -13,7 +13,7 @@ tags:
   - Estoppel
   - Estoppel by acquiescence
   - Whether company estopped from denying that it was bound by sale contracts
-layout: single
+
 ---
 # Yongnam Development Pte Ltd v Somerset Development Pte Ltd 
 

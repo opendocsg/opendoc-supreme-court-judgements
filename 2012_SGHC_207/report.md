@@ -12,7 +12,7 @@ tags:
   - Injunction
   - Tort
   - Inducement of breach of contract
-layout: single
+
 ---
 # Virsagi Management (S) Pte Ltd v Welltech Construction Pte Ltd and another suit 
 

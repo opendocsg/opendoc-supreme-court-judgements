@@ -12,6 +12,6 @@ tags:
   - >-
     Whether defendants allowed to claim for damages for wrongful arrest without
     setting aside arrest
-layout: single
+
 ---
 

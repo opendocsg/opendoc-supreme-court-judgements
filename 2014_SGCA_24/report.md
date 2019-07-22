@@ -10,7 +10,7 @@ tags:
   - Jurisdiction
   - Conflict of Laws
   - Jurisdiction
-layout: single
+
 ---
 # Burgundy Global Exploration Corp v Transocean Offshore International Ventures Ltd and 
 

@@ -22,7 +22,7 @@ tags:
   - Knowing receipt
   - Tort
   - Conversion
-layout: single
+
 ---
 # Clearlab SG Pte Ltd v Ting Chong Chai and others 
 

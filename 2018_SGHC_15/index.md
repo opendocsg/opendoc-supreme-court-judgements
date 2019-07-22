@@ -5,6 +5,6 @@ tags:
   - Courts and Jurisdic tion
   - Magistrate’s Court
   - Power to transfer proc eedings from Magistrate’s Court to High Court
-layout: single
+
 ---
 

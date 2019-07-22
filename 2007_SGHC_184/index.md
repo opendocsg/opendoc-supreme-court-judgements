@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Principles
   - Accused provoked by deceased
-layout: single
+
 ---
 

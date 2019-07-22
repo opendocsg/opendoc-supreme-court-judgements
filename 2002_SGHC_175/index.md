@@ -5,6 +5,6 @@ tags:
   - Landlord and Tenant
   - Distress for rent
   - Seizure of defendants\' property under writ of distress
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
   - >-
     Whether shareholder of company suffered loss as a result of liquidator\'s
     negligence
-layout: single
+
 ---
 # Trustee of the Estate of Ong Thiam Huat v Chan Hock Seng 
 

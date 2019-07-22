@@ -8,6 +8,6 @@ tags:
   - Equity
   - Maxims
   - Equity sees as done that which ought to be done
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Setting aside
   - Jurisdiction
   - Public policy
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Negligence
   - Contract
   - Breach
-layout: single
+
 ---
 # Sports Connection Pte Ltd v Asia Law Corp and another 
 

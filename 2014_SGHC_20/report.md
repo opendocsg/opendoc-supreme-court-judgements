@@ -7,7 +7,7 @@ tags:
   - Renovation contracts and contracts for minor works
   - Building and construction law
   - Dispute resolution
-layout: single
+
 ---
 # Poh Cheng Chew v K P Koh & Partners Pte Ltd and another 
 

@@ -7,7 +7,7 @@ tags:
   - Conflict of Laws
   - Natural Forum
   - Forum non conveniens
-layout: single
+
 ---
 # Sanjeev Sharma s/o Shri Sarvjeet Sharma v Surbhi Ahuja d/o Sh Virendra Kumar Ahuja 
 

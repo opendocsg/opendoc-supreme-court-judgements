@@ -32,7 +32,7 @@ tags:
   - >-
     Whether valuation report provided accurate indication of appropriate sale
     price in respect of two land parcels
-layout: single
+
 ---
 # Heap Huat Rubber Company Sdn Bhd and Others v Kong Choot Sian and Others 
 

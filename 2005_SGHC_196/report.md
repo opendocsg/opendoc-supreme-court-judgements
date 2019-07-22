@@ -27,7 +27,7 @@ tags:
   - >-
     Whether insurer entitled to indemnity from third party against premiums
     refunded to lender
-layout: single
+
 ---
 # Premium Funding Singapore Pte Ltd v SHC Capital Ltd (China Construction-Hock Chuan Ann 
 

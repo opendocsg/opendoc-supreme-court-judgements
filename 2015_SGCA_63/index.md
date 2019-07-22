@@ -6,6 +6,6 @@ tags:
   - Award
   - Recourse against award
   - Remission
-layout: single
+
 ---
 

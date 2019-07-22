@@ -14,7 +14,7 @@ tags:
   - Words and Phrases
   - \"Best endeavours\"
   - Test to be satisfied
-layout: single
+
 ---
 # Justlogin Pte Ltd and Another v Oversea-Chinese Banking Corp Ltd and Another 
 

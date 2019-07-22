@@ -12,7 +12,7 @@ tags:
     ex parte order may have regard to all relevant matters including those
     occurring after original order made
   - 'Order 32 r 6 Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 # Karaha Bodas Co LLC v Perusahaan Pertambangan Minyak dan Gas Bumi Negara 
 

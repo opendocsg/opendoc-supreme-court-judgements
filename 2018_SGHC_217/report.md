@@ -8,7 +8,7 @@ tags:
   - Inherent powers
   - Courts and Jurisdiction
   - Vexatious litigant
-layout: single
+
 ---
 # Cheong Wei Chang v Lee Hsien Loong and another matter 
 

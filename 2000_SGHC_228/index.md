@@ -6,6 +6,6 @@ tags:
   - Shares
   - Redeemable preference shares
   - Redemption at shareholder\'s discretion
-layout: single
+
 ---
 

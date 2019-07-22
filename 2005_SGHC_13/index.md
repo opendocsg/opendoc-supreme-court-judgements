@@ -12,6 +12,6 @@ tags:
   - Offences
   - Murder
   - Accused charged with culpable homicide amounting to murder
-layout: single
+
 ---
 

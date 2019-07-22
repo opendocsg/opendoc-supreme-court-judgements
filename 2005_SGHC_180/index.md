@@ -10,6 +10,6 @@ tags:
   - >-
     Whether medical evidence establishing that injuries suffered resulted from
     accident caused by defendant
-layout: single
+
 ---
 

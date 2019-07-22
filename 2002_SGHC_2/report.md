@@ -30,7 +30,7 @@ tags:
   - Proper remedy
   - Jurisdiction of High Court to maintain or set aside sentence
   - s 261 Criminal Procedure Code (Cap 68)
-layout: single
+
 ---
 # Lim Chuan Huat and Another v Public Prosecutor 
 

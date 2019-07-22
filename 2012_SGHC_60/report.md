@@ -11,7 +11,7 @@ tags:
   - Trusts
   - Trustees
   - Duties
-layout: single
+
 ---
 # Jesuraj Daniel v Vadivelu Pandi Devi and another 
 

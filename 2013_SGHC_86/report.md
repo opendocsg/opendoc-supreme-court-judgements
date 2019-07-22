@@ -7,7 +7,7 @@ tags:
   - Guarantees and bonds
   - Credit and security
   - Performance bond
-layout: single
+
 ---
 # Ryobi-Kiso (S) Pte Ltd v Lum Chang Building Contractors Pte Ltd and another 
 

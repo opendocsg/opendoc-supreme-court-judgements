@@ -7,7 +7,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Chan Tong Fan v Sloane Court Hotel Pte Ltd (Chiam Toon Tau and another, non-parties) 
 

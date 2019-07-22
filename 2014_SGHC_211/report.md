@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Appeals
   - Leave
-layout: single
+
 ---
 # Eqita Insurance Bhd v Lim Teong Thye David 
 

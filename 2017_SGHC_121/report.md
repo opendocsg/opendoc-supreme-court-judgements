@@ -13,7 +13,7 @@ tags:
   - Land
   - Res judicata
   - Issue estoppel
-layout: single
+
 ---
 # Lee Tat Development Pte Ltd v Management Corporation Strata Title Plan No 301 
 

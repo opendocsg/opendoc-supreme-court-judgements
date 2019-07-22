@@ -6,7 +6,7 @@ tags:
   - Shares
   - Professions
   - Valuer
-layout: single
+
 ---
 # Jayanti Nadarajoo v Bronwyn Helen Matthews and another 
 

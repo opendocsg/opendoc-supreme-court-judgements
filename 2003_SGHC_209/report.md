@@ -13,7 +13,7 @@ tags:
     jeopardise the project
   - Conduct of plaintiffs
   - No implied term in the circumstances.
-layout: single
+
 ---
 # CDIB Venture Investment (Asia) Ltd v Soeryadjaya Edwin and Others and Another Suit 
 

@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Driving while under a disqualification order
-layout: single
+
 ---
 

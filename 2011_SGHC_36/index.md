@@ -4,6 +4,6 @@ title: >-
   Digitax)
 subtitle: "[2011] SGHC 36 / 21\_February\_2011"
 tags: null
-layout: single
+
 ---
 

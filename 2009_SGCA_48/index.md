@@ -6,6 +6,6 @@ tags:
   - Defamation
   - Civil Procedure
   - Appeals
-layout: single
+
 ---
 

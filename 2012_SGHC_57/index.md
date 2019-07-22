@@ -11,6 +11,6 @@ tags:
   - trust property
   - accessory liability
   - knowing receipt
-layout: single
+
 ---
 

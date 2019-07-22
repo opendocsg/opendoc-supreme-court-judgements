@@ -12,7 +12,7 @@ tags:
   - Division
   - Whether division of matrimonial property just and equitable
   - 'Section 112 Women\''s Charter (Cap 353, 1997 Rev Ed)'
-layout: single
+
 ---
 # Kwok Wai Leng v Chan Sooi Hong 
 

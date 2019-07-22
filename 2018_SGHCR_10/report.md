@@ -9,7 +9,7 @@ tags:
   - Civil Procedure
   - Parties
   - Locus standi
-layout: single
+
 ---
 # Ayaz Ahmed and others v Mustaq Ahmad (alias Mushtaq Ahmad s/o Mustafa) and others 
 

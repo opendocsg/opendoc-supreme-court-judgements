@@ -14,6 +14,6 @@ tags:
   - Companies
   - oppression
   - reflective loss principle
-layout: single
+
 ---
 

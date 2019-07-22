@@ -6,6 +6,6 @@ tags:
   - Oppression
   - Minority Shareholders
   - Separate legal personality
-layout: single
+
 ---
 

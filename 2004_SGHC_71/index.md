@@ -28,6 +28,6 @@ tags:
   - Mistake of fact
   - Seller\'s unilateral mistake as to price of goods posted on website
   - Whether online buyer entitled to enforce contract against seller
-layout: single
+
 ---
 

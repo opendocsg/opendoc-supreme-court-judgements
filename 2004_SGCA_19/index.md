@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Pleadings
   - Tenant suing landlord for breach of covenant under lease agreement
-layout: single
+
 ---
 

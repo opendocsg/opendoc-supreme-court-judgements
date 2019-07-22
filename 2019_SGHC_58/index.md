@@ -5,6 +5,6 @@ tags:
   - Professions
   - Medical profession and practice
   - Professional misconduct
-layout: single
+
 ---
 

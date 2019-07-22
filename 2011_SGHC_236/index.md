@@ -6,6 +6,6 @@ tags:
   - Breach
   - Remedies
   - Damages
-layout: single
+
 ---
 

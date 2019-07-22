@@ -22,7 +22,7 @@ tags:
   - >-
     Whether tenant entitled to recover hiring charges as money paid under
     mistake of law
-layout: single
+
 ---
 # Top Ten Entertainment Pte Ltd v Lucky Red Investments Ltd 
 

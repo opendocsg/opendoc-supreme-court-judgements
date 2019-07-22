@@ -12,7 +12,7 @@ tags:
   - Winding up
   - Liquidator
   - Role and duties of liquidator
-layout: single
+
 ---
 # Korea Asset Management Corp v Daewoo Singapore Pte Ltd (in liquidation) 
 

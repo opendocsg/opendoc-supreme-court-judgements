@@ -19,6 +19,6 @@ tags:
   - >-
     Whether there was evidence of any intention to novate on part of all parties
     involved
-layout: single
+
 ---
 

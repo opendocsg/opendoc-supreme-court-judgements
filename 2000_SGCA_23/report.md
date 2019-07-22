@@ -20,7 +20,7 @@ tags:
   - Defamation
   - \"Fishing expedition\"
   - Discovery of documents and information
-layout: single
+
 ---
 # Business Software Alliance and Others v SM Summit Holdings Ltd and another and other 
 

@@ -5,7 +5,7 @@ tags:
   - Injunctions
   - Mareva injunction
   - Whether injunction should be granted to prevent dissipation of assets.
-layout: single
+
 ---
 # UCO Bank v Golden View Maritime Pte Ltd 
 

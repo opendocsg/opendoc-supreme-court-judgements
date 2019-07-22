@@ -5,7 +5,7 @@ tags:
   - Constitutional Law
   - Constitution
   - Interpretation
-layout: single
+
 ---
 # Tan Cheng Bock v Attorney-General 
 

@@ -14,6 +14,6 @@ tags:
   - >-
     Whether grandmother entitled to order for access to child under
     circumstances
-layout: single
+
 ---
 

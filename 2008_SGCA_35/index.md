@@ -69,6 +69,6 @@ tags:
     precedents without cogent reasons
   - Offence of rape of woman below age of 14 under s 376(2) of the Penal Code
   - Benchmark sentencing range of 12-15 years\' imprisonment
-layout: single
+
 ---
 

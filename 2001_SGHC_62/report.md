@@ -18,7 +18,7 @@ tags:
   - Registered address changed without directors\' resolution
   - Whether statutory demand validly served
   - 's 254(2)(a) Companies Act (Cap 50, 1994 Ed)'
-layout: single
+
 ---
 # Re Specialty Laboratories Asia Pte Ltd (fka Specialty Labratories Asia (Singapore) Pte Ltd 
 

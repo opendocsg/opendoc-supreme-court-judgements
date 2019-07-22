@@ -7,7 +7,7 @@ tags:
   - Credit and security
   - Money and moneylenders
   - Illegal moneylending
-layout: single
+
 ---
 # Ochroid Trading Ltd and another v Chua Siok Lui (trading as VIE Import & Export) and 
 

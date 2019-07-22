@@ -9,7 +9,7 @@ tags:
   - striking out
   - Family law
   - matrimonial home
-layout: single
+
 ---
 # Pang Beng Kim v Ang Han Teong 
 

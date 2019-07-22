@@ -6,6 +6,6 @@ tags:
   - Constructive Trusts
   - Limitation of Actions
   - Equity and Limitation of Actions
-layout: single
+
 ---
 

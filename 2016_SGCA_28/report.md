@@ -8,7 +8,7 @@ tags:
   - Equity
   - Fiduciary relationships
   - Duties
-layout: single
+
 ---
 # Singapore Swimming Club v Koh Sin Chong Freddie 
 

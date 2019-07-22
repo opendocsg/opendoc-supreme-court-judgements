@@ -8,7 +8,7 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Conditional leave to defend
-layout: single
+
 ---
  Tranche Principal Owed Interest Owed Total 
 

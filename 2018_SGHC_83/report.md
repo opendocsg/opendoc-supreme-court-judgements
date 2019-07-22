@@ -17,7 +17,7 @@ tags:
   - Promissory estoppel
   - Credit and security
   - Guarantees and indemnities
-layout: single
+
 ---
 # Gulf Petrochem Pte Ltd v Petrotec Pte Ltd and others 
 

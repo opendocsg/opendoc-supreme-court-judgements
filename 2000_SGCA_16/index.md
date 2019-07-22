@@ -31,6 +31,6 @@ tags:
   - Need for sufficient particulars of facts
   - Whether necessary to identify one or more of grounds in s 216
   - 's 216 Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

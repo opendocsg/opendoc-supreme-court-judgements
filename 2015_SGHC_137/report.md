@@ -12,7 +12,7 @@ tags:
   - Administrative Law
   - Remedies
   - Declaration
-layout: single
+
 ---
 # The Attorney-General v The Aljunied-Hougang-Punggol East Town Council 
 

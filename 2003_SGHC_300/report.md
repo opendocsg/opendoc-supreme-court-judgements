@@ -12,7 +12,7 @@ tags:
   - A partnership entered into a contract with the defendants
   - The plaintiffs were incorporated and took over the assets of the partnership
   - Whether the plaintiffs had the locus standi to sue the defendants.
-layout: single
+
 ---
 # Nop Wen Xuan Cultural Artifacts Pte Ltd v Leong Hwa Chan Si Temple and Another 
 

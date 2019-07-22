@@ -10,6 +10,6 @@ tags:
   - Civil procedure
   - Stay of proceedings
   - Abuse of process
-layout: single
+
 ---
 

@@ -4,6 +4,6 @@ subtitle: "[2012] SGHC 151 / 25\_July\_2012"
 tags:
   - Family law
   - Maintenance
-layout: single
+
 ---
 

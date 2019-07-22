@@ -23,6 +23,6 @@ tags:
   - Negligence
   - Indemnity
   - Whether management corporation entitled to indemnity from developers.
-layout: single
+
 ---
 

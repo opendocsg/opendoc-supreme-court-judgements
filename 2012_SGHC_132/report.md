@@ -6,7 +6,7 @@ tags:
   - Division of matrimonial assets
   - Family law
   - Maintenance
-layout: single
+
 ---
 # GAK v GAL 
 

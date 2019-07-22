@@ -20,6 +20,6 @@ tags:
   - Remedies
   - Account
   - Common account
-layout: single
+
 ---
 

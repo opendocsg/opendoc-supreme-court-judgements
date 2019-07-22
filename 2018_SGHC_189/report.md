@@ -6,7 +6,7 @@ tags:
   - Appeal
   - Plea of guilty
   - Retraction of plea
-layout: single
+
 ---
 # Sukla Lalatendu v Public Prosecutor and another matter 
 

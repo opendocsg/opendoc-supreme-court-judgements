@@ -10,6 +10,6 @@ tags:
   - Election
   - Statutory Interpretation
   - Constitutional Provisions
-layout: single
+
 ---
 

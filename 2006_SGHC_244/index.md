@@ -11,6 +11,6 @@ tags:
     Whether sufficient evidence of explanation for defendant\'s nonattendance
     existing
   - Whether such evidence providing sufficient explanation for absence if true
-layout: single
+
 ---
 

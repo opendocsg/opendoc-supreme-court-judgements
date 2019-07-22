@@ -7,6 +7,6 @@ tags:
   - Murder
   - Criminal Procedure and Sentencing
   - Voir Dire
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - Pleadings
   - Striking out
-layout: single
+
 ---
 # Tan Gek Suan Constance and another v Lau Kean Wah 
 

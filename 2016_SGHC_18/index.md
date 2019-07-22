@@ -7,6 +7,6 @@ tags:
   - Criminal Proc edure and Sentenc ing
   - Sentenc ing
   - Benc hmark Sentenc es
-layout: single
+
 ---
 

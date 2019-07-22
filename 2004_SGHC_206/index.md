@@ -17,6 +17,6 @@ tags:
     admitted
   - Whether application for summary judgment appropriate
   - 'Order 14 r 12 Rules of Court (Cap 332, R5, 1997 Rev Ed).'
-layout: single
+
 ---
 

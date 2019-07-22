@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Acquittal
-layout: single
+
 ---
 # Harven a/l Segar v Public Prosecutor 
 

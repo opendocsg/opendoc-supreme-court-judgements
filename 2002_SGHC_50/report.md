@@ -14,7 +14,7 @@ tags:
   - Burden and standard of proof for rebuttal of presumption
   - Whether presumption rebutted
   - 's 15(d) Wills Act (Cap 352, 1996 Ed)'
-layout: single
+
 ---
 # Lim Boon Ming v Tiang Choo Yang 
 

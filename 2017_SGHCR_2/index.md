@@ -8,6 +8,6 @@ tags:
   - Arbitration
   - Enforcement
   - Singapore award
-layout: single
+
 ---
 

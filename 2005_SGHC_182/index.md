@@ -14,6 +14,6 @@ tags:
     to prevent her from pursuing matter
   - Whether good reasons furnished to justify why appeal should be allowed
   - 'Section 64 Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 

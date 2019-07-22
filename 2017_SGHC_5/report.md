@@ -7,7 +7,7 @@ tags:
   - Murder
   - Criminal Procedure and Sentencing
   - Voir Dire
-layout: single
+
 ---
 # Public Prosecutor v Chia Kee Chen 
 

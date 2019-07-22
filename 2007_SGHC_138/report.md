@@ -17,7 +17,7 @@ tags:
     compensation claim irrational or unreasonable
   - Employment Law
   - Definition of \"reasonable cause\" for late submission of compensation claim
-layout: single
+
 ---
 # Pang Chen Suan v Commissioner for Labour 
 

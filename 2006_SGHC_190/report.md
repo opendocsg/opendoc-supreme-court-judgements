@@ -14,7 +14,7 @@ tags:
     Whether petition functioning as means for minority shareholder to exit
     company at will
   - 'Section 254(1)(i) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 # Summit Co (S) Pte Ltd v Pacific Biosciences Pte Ltd 
 

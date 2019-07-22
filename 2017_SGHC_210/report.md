@@ -11,7 +11,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Amendment
-layout: single
+
 ---
 # Gulf Hibiscus Ltd v Rex International Holding Ltd and another 
 

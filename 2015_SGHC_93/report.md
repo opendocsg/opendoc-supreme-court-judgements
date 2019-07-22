@@ -8,7 +8,7 @@ tags:
   - Contextual approach to contractual interpretation
   - Equity
   - Estoppel by convention
-layout: single
+
 ---
 # HSBC Trustee (Singapore) Ltd v Lucky Realty Co Pte Ltd 
 

@@ -26,6 +26,6 @@ tags:
     Whether claim on dishonoured cheques enforceable if underlying gambling
     contract unenforceable
   - 's 5(2)Civil Law Act (Cap 43, 1999 Ed)'
-layout: single
+
 ---
 

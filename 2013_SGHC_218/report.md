@@ -6,7 +6,7 @@ tags:
   - Construction of Statute
   - Statutory Interpretation
   - Definitions
-layout: single
+
 ---
 # Kee Yau Chong v S H Interdeco Pte Ltd 
 

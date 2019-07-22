@@ -8,7 +8,7 @@ tags:
   - Tort
   - Negligence
   - Duty of care
-layout: single
+
 ---
 # Union Concept Manufacturers Pte Ltd and another v Rhythme Technology Pte Ltd 
 

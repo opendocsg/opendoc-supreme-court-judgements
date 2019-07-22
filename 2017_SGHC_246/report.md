@@ -8,7 +8,7 @@ tags:
   - Damages
   - Building and Construction Law
   - Scope of works
-layout: single
+
 ---
 # Smile Inc Dental Surgeons Pte Ltd v OP3 International Pte Ltd 
 

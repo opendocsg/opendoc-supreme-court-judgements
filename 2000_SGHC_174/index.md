@@ -15,6 +15,6 @@ tags:
   - Guarantees and indemnities
   - Guarantee
   - Variation from usual practice
-layout: single
+
 ---
 

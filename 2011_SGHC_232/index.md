@@ -5,6 +5,6 @@ tags:
   - INNS AND INNKEEPERS
   - innkeepers
   - liabilities
-layout: single
+
 ---
 

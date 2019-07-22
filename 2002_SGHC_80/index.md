@@ -13,6 +13,6 @@ tags:
     continue to act
   - Role of court
   - Whether application should be allowed
-layout: single
+
 ---
 

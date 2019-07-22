@@ -6,6 +6,6 @@ tags:
   - Aggravating and mitigating factors
   - Restitution
   - Totality principle
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Striking Out
   - Civil Procedure
   - Costs
-layout: single
+
 ---
 

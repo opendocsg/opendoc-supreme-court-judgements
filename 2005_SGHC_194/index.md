@@ -20,6 +20,6 @@ tags:
     property
   - Whether implied easement of way existing
   - 'Sections 99(1), 99(1A) Land Titles Act (Cap 157, 2004 Rev Ed)'
-layout: single
+
 ---
 

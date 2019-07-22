@@ -23,6 +23,6 @@ tags:
   - Express trusts
   - Constitution
   - Future property
-layout: single
+
 ---
 

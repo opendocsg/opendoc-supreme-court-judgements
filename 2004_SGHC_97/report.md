@@ -18,7 +18,7 @@ tags:
     Whether leave to appeal should be granted where determination of questions
     of law could substantially affect rights of one or more parties to
     arbitration agreement
-layout: single
+
 ---
 # Liew Ter Kwang v Hurry General Contractor Pte Ltd 
 

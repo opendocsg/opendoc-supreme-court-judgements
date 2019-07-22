@@ -7,6 +7,6 @@ tags:
   - Assessment
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 

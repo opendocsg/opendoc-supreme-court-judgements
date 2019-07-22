@@ -7,6 +7,6 @@ tags:
   - Enforcement
   - Civil Procedure
   - Foreign Judgments
-layout: single
+
 ---
 

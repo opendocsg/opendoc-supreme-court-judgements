@@ -17,6 +17,6 @@ tags:
     Whether sentence taking into account specific facts and circumstances of
     offence and offender
   - Whether sentence imposed manifestly excessive
-layout: single
+
 ---
 

@@ -14,7 +14,7 @@ tags:
   - >-
     Whether lack of definite figures as to value of premier club and value of
     non-premier club as at date of breach barring claim for diminution in value
-layout: single
+
 ---
 # Raffles Town Club Pte Ltd v Tan Chin Seng and Others 
 

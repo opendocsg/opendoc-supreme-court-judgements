@@ -14,7 +14,7 @@ tags:
   - Patents and Inventions
   - Validity
   - Whether combination of prior art amounting to inventive step
-layout: single
+
 ---
 # FE Global Electronics Pte Ltd and Others v Trek Technology (Singapore) Pte Ltd and Another 
 

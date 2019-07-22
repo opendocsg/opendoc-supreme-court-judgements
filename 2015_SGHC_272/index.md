@@ -10,6 +10,6 @@ tags:
   - lost years claim
   - Damages
   - provisional damages
-layout: single
+
 ---
 

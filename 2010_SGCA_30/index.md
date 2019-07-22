@@ -4,6 +4,6 @@ title: >-
   Corporation
 subtitle: "[2010] SGCA 30 / 26\_August\_2010"
 tags: null
-layout: single
+
 ---
 

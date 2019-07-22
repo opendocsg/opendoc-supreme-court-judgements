@@ -10,6 +10,6 @@ tags:
   - Insolvency Law
   - Winding Up
   - Winding Up Order
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - 'Section 376B(1) Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Wang Minjiang 
 

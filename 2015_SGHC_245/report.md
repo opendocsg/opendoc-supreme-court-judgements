@@ -5,7 +5,7 @@ tags:
   - Conflict of Laws
   - Restraint of Foreign Proceedings
   - Vexatious and Oppressive Conduct
-layout: single
+
 ---
 # PT Sandipala Arthaputra v STMicroelectronics Asia Pacific Pte Ltd and others 
 

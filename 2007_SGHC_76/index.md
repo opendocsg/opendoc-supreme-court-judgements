@@ -8,6 +8,6 @@ tags:
   - Foreign judgments
   - Reciprocal enforcement
   - Judgment obtained in Malaysia
-layout: single
+
 ---
 

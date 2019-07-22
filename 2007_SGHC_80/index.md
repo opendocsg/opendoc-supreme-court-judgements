@@ -31,6 +31,6 @@ tags:
   - Licences
   - Termination
   - Parties entering into licence agreement for food stall premises
-layout: single
+
 ---
 

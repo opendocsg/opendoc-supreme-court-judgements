@@ -11,7 +11,7 @@ tags:
   - Promissory estoppel
   - Statutory interpretation
   - Interpretation Act
-layout: single
+
 ---
 # Audi Construction Pte Ltd v Kian Hiap Construction Pte Ltd 
 

@@ -5,7 +5,7 @@ tags:
   - Damages
   - Assessment
   - Personal Injuries
-layout: single
+
 ---
 # Rahman Lutfar v Scanpile Constructors Pte Ltd and another 
 

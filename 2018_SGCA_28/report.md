@@ -7,7 +7,7 @@ tags:
   - Contract
   - Remedies
   - Damages
-layout: single
+
 ---
 # Biofuel Industries Pte Ltd v V8 Environmental Pte Ltd and another appeal 
 

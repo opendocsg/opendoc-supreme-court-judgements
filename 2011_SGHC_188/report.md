@@ -5,7 +5,7 @@ tags:
   - Land
   - Sale of Land
   - Conditions of Sale
-layout: single
+
 ---
 # Ma Ong Kee and another v Kaiyo Reptile Products Pte Ltd 
 

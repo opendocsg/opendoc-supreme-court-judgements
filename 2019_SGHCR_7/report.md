@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Statutory demand
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Marina Bay Sands Pte Ltd _v_ Osuki Yohei  

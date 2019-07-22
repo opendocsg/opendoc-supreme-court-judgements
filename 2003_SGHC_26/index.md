@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Whether trial judge erred in assessment of evidence
-layout: single
+
 ---
 

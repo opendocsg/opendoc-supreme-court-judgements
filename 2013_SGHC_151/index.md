@@ -10,6 +10,6 @@ tags:
   - Tort
   - business opportunity
   - actual loss of profit or loss of chance to profit
-layout: single
+
 ---
 

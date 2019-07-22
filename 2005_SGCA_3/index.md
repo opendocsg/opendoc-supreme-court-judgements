@@ -40,6 +40,6 @@ tags:
   - Ad hoc
   - Application to admit Queen\'s Counsel
   - Party seeking admission of Queen\'s Counsel substantive applicant.
-layout: single
+
 ---
 

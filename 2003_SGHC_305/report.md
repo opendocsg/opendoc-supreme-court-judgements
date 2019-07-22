@@ -16,7 +16,7 @@ tags:
     Whether bank\'s officers had made misrepresentations regarding the rate of
     interest being earned by a customer in his leveraged deposit
   - Whether customer suffered loss as a result of the misrepresentation.
-layout: single
+
 ---
 # Wee Soon Kim Anthony v UBS AG 
 

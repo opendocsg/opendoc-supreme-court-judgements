@@ -10,7 +10,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Rule against double counting
-layout: single
+
 ---
 # Muhammad Sutarno bin Nasir v Public Prosecutor 
 

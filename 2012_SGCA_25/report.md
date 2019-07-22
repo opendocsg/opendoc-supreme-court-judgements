@@ -12,7 +12,7 @@ tags:
   - Equality before the law
   - Constitutional Law
   - Judicial Power
-layout: single
+
 ---
 # Quek Hock Lye v Public Prosecutor 
 

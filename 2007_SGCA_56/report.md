@@ -15,7 +15,7 @@ tags:
   - Legal Profession
   - Professional conduct
   - Solicitor\'s exorbitant actions resulting in escalating costs
-layout: single
+
 ---
 # Lock Han Chng Jonathan (Jonathan Luo Hancheng) v Goh Jessiline 
 

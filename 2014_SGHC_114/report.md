@@ -6,7 +6,7 @@ tags:
   - conditions attached
   - Succession and Wills
   - conditions
-layout: single
+
 ---
 # Lau Tyng Tyng v Lau Boon Wee 
 

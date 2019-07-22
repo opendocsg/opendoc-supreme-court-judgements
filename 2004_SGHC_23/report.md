@@ -10,7 +10,7 @@ tags:
   - Whether plaintiff insolvent
   - Whether there was transaction between parties
   - 'Section 98 Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 # Velstra Pte Ltd (in liquidation) v Dexia Bank NV (formerly known as Artesia Banking Corp NV) 
 

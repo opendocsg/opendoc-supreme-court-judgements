@@ -15,6 +15,6 @@ tags:
     Lawyer pleaded guilty to charges for grossly improper conduct in discharge
     of her professional duty brought against her by Law Society of Singapore
   - Appropriate punishment in light of certain mitigating circumstances
-layout: single
+
 ---
 

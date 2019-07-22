@@ -19,6 +19,6 @@ tags:
     Whether process not new or novel due to prior use, prior disclosure to other
     parties and prior art
   - 'Sections 13(1), 14(1), 14(2) Patents Act (Cap 221, 2005 Rev Ed)'
-layout: single
+
 ---
 

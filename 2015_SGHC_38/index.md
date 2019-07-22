@@ -17,6 +17,6 @@ tags:
   - Passing off
   - COPYRIGHT
   - Licenses
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
     Whether arbitration agreement providing for arbitration to be administered
     by one arbitration institution under the procedural rules of another
     arbitration institution valid and enforceable
-layout: single
+
 ---
 # Insigma Technology Co Ltd v Alstom Technology Ltd 
 

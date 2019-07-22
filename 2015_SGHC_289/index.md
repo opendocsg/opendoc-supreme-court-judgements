@@ -14,6 +14,6 @@ tags:
   - Negligence
   - Tort
   - Vicarious liability
-layout: single
+
 ---
 

@@ -15,6 +15,6 @@ tags:
   - Resulting trusts
   - Amount of contribution towards purchase price of property
   - Presumed intentions of parties
-layout: single
+
 ---
 

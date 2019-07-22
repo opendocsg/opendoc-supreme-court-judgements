@@ -5,7 +5,7 @@ tags:
   - Legal Profession
   - Show cause action
   - Grossly improper conduct in discharge of professional duties
-layout: single
+
 ---
 # The Law Society of Singapore v Singham Dennis Mahendran 
 

@@ -4,6 +4,6 @@ title: >-
   another appeal
 subtitle: "[2010] SGCA 36 / 18\_October\_2010"
 tags: null
-layout: single
+
 ---
 

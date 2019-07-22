@@ -13,7 +13,7 @@ tags:
   - >-
     Whether defendants discharged burden of showing that Indonesia clearly or
     distinctly more appropriate forum for trying dispute
-layout: single
+
 ---
 # Herbst Ehud v Sampoerna Putera and Another 
 

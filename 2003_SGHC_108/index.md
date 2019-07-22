@@ -13,6 +13,6 @@ tags:
   - >-
     Appropriate sentence under s 304 (a) of the Penal Code where the accused
     suffers from an impairment to the mind.
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - Defendant\'s car hit the rear of plaintiff\'s car
   - Plaintiff resident in Singapore
   - Whether Singapore or Malaysia the more appropriate forum
-layout: single
+
 ---
 

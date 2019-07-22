@@ -47,7 +47,7 @@ tags:
   - 'Purposive interpretation of Evidence Act (Cap 97, 1997 Rev Ed)'
   - When does an interpretation give effect to legislative intent
   - 'Section 23 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 # Law Society of Singapore v Tan Guat Neo Phyllis 
 

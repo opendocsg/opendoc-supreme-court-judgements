@@ -15,6 +15,6 @@ tags:
   - >-
     Whether Registrar has jurisdiction to extend time and to set aside default
     judgment obtained pursuant to \"unless order\"
-layout: single
+
 ---
 

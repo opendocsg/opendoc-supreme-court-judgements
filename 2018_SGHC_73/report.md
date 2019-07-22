@@ -10,7 +10,7 @@ tags:
   - Contract
   - contractual terms
   - parol evidence rule
-layout: single
+
 ---
 # MatthewsDaniel International Pte Ltd v Kith Marine & Engineering Sdn Bhd 
 

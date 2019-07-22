@@ -19,6 +19,6 @@ tags:
   - >-
     Cross-claim secured by Escrow Sum held in Claims Escrow Account to meet
     claims of debtor under sales transaction
-layout: single
+
 ---
 

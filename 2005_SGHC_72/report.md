@@ -31,7 +31,7 @@ tags:
   - Meaning of \"written permission\" under s 36 of Act
   - Whether appropriate to charge petitioner under s 36 of Act
   - 'Section 36 Immigration Act (Cap 133, 1997 Rev Ed)'
-layout: single
+
 ---
 # Sun Hongyu v Public Prosecutor 
 

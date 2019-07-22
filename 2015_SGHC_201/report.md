@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory Offences
   - Misuse of Drugs Act
-layout: single
+
 ---
 # Veeramani Manikam v Public Prosecutor 
 

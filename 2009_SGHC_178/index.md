@@ -18,6 +18,6 @@ tags:
   - >-
     Whether such clause allowed party to voluntarily cancel its own licence and
     then terminate contract
-layout: single
+
 ---
 

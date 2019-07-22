@@ -45,6 +45,6 @@ tags:
   - >-
     regs 2, 4 & 5 Companies (Application of Bankruptcy Act Provisions)
     Regulations (Cap 50, Rg 3, 1996 Ed)
-layout: single
+
 ---
 

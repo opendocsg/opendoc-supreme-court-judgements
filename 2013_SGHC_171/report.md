@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Costs
   - Principles
-layout: single
+
 ---
 # Ong Derrick v Sim Chong Nam 
 

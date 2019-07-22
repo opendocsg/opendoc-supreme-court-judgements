@@ -6,6 +6,6 @@ tags:
   - offences
   - property
   - cheating
-layout: single
+
 ---
 

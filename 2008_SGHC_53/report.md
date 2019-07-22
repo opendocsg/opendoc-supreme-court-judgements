@@ -19,7 +19,7 @@ tags:
   - Damages
   - Letter of credit transaction
   - Quantum of damages arising from deceit of beneficiary
-layout: single
+
 ---
 # DBS Bank Ltd v Carrier Singapore (Pte) Ltd 
 

@@ -8,7 +8,7 @@ tags:
   - >-
     Whether there should be parity in sentencing between cases of broadly
     similar facts
-layout: single
+
 ---
 # Public Prosecutor v Norezam bin Mohsin and Others 
 

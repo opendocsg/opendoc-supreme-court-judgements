@@ -65,7 +65,7 @@ tags:
   - >-
     Whether deterrent sentence should be imposed where police officer commits
     offence outside scope of his official duties
-layout: single
+
 ---
 # Annis bin Abdullah v Public Prosecutor 
 

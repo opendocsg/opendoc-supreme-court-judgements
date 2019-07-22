@@ -16,6 +16,6 @@ tags:
     Whether dealer needs to gain benefit out of unauthorised trade for there to
     be deception
   - 'Securities Industry Act (Cap 289, 1985 Ed) s 102(b)'
-layout: single
+
 ---
 

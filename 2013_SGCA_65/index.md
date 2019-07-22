@@ -8,6 +8,6 @@ tags:
   - Trade Names
   - Trade Marks
   - Passing off
-layout: single
+
 ---
 

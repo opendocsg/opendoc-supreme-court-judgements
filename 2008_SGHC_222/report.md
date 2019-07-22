@@ -13,7 +13,7 @@ tags:
   - Whether binding contract in existence
   - Whether agent authorised to deposit cheque into seller\'s bank account
   - Whether seller bound upon accepting deposit to grant option to purchase
-layout: single
+
 ---
 # Singh Chiranjeev and Another v Joseph Mathew and Others 
 

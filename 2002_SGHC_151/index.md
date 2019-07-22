@@ -12,6 +12,6 @@ tags:
     Application by plaintiffs for injunction against first defendants from
     receiving payment on bond
   - Onus of proof on plaintiffs to establish fraud or unconscionable conduct
-layout: single
+
 ---
 

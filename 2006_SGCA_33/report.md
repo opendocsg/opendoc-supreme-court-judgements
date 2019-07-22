@@ -25,7 +25,7 @@ tags:
     Whether affairs of company being conducted or directors\' powers being
     exercised in manner oppressive to minority shareholders or in disregard of
     their interests
-layout: single
+
 ---
 # Lim Swee Khiang and Another v Borden Co (Pte) Ltd and Others 
 

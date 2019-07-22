@@ -11,7 +11,7 @@ tags:
   - >-
     Applicant previously convicted on charges of corruption and criminal breach
     of trust
-layout: single
+
 ---
 # Re Nirmal Singh s/o Fauja Singh 
 

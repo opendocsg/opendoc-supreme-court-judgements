@@ -22,6 +22,6 @@ tags:
   - Estoppel
   - When estoppel applicable
   - When silence amounts to representation
-layout: single
+
 ---
 

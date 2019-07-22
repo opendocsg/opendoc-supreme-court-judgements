@@ -6,6 +6,6 @@ tags:
   - Jurisdic tion
   - Conflic t of laws
   - Natural forum
-layout: single
+
 ---
 

@@ -19,6 +19,6 @@ tags:
   - Internal and external consistency of evidence
   - Evidence of disinterested witness
   - Evidence of interested witnesses
-layout: single
+
 ---
 

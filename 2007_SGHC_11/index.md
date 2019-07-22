@@ -9,6 +9,6 @@ tags:
     Plaintiff applying to amend amount claimed and contracts in support thereof
     in statement of claim
   - Whether application should be dismissed for lack of bona fides
-layout: single
+
 ---
 

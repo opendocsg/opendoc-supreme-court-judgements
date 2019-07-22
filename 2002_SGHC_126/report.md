@@ -16,7 +16,7 @@ tags:
   - Parties arriving at compromise agreement
   - Scheduling of terms of agreement to a Tomlin Order
   - Application by plaintiff to enforce compromise agreement
-layout: single
+
 ---
 # Ong Leong Chuan v Ong Heng Chuan and Others 
 

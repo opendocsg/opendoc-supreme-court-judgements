@@ -13,7 +13,7 @@ tags:
   - Setting aside
   - Whether grounds for setting aside award established
   - 's 24(b), Sch 1 Art 34 International Arbitration Act (Cap 143A, 1995 Ed)'
-layout: single
+
 ---
 # John Holland Pty Ltd (fka John Holland Construction & Engineering Pty Ltd) v Toyo 
 

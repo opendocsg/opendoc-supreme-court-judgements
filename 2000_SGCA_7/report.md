@@ -12,7 +12,7 @@ tags:
   - 's7 Arbitration Act (Cap 10, 1985 Rev Ed)'
   - Words and Phrases
   - \"Matters arising under or out of or in connection with\"
-layout: single
+
 ---
 # SA Shee & Co (Pte) Ltd v Kaki Bukit Industrial Park Pte Ltd 
 

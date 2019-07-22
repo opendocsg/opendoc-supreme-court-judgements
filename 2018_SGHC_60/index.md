@@ -9,6 +9,6 @@ tags:
   - Distribution of assets
   - Shortfall in funds held on trust for creditors
   - Appropriate method of distributing funds
-layout: single
+
 ---
 

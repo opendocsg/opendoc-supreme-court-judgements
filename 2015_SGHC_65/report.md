@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # Coal & Oil Co LLC v GHCL Ltd 
 

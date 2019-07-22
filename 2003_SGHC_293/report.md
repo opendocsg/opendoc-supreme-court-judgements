@@ -13,7 +13,7 @@ tags:
   - Admissibility of evidence
   - Opinion and belief
   - Building surveyor not quantity surveyor
-layout: single
+
 ---
 # Lim Guan Cheng v JSD Construction Pte Ltd and Another 
 

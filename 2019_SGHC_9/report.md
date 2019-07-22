@@ -6,7 +6,7 @@ tags:
   - Striking out
   - Approbation and Reprobation
   - Abuse of Process
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BMI Tax Services Pte Ltd _v_ Heng Keok Meng and others  

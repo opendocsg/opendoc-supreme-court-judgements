@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Amendment
-layout: single
+
 ---
 # Geocon Piling & Engineering Pte Ltd (in compulsory liquidation) v Multistar Holdings Ltd 
 

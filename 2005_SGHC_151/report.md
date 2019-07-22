@@ -8,7 +8,7 @@ tags:
   - >-
     Whether judicial management order should be granted where receiver and
     manager already appointed by secured creditor
-layout: single
+
 ---
 # Re Bintan Lagoon Resort Ltd 
 

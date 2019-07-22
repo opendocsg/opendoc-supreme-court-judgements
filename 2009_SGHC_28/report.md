@@ -13,7 +13,7 @@ tags:
   - Duties of agent
   - Agency relationship between housing agent and principal
   - Breach
-layout: single
+
 ---
 # Yuen Chow Hin and Another v ERA Realty Network Pte Ltd 
 

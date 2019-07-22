@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Voluntary scheme of arrangement
-layout: single
+
 ---
 # Re Aathar Ah Kong Andrew 
 

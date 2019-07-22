@@ -10,6 +10,6 @@ tags:
   - Misrepresentation
   - Tort
   - Negligence
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Recognition
   - Conflict of Laws
   - Property
-layout: single
+
 ---
 

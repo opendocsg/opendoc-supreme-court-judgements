@@ -6,6 +6,6 @@ tags:
   - Judgments and Orders
   - Civil Procedure
   - Jurisdiction
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Statutory demand
-layout: single
+
 ---
 # Mohd Nizam B Ismail v Comptroller of Income Tax 
 

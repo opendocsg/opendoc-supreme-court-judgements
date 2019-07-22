@@ -13,6 +13,6 @@ tags:
   - Matrimonial proceedings
   - Procedure
   - Cross-examination
-layout: single
+
 ---
 

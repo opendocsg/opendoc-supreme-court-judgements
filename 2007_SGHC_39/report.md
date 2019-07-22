@@ -15,7 +15,7 @@ tags:
     Security for financial assistance given by way of letter of indemnity and
     deed of indemnity executed under seal
   - Difference between indemnity and guarantee
-layout: single
+
 ---
 # S Y Technology Inc v Pacific Recreation Pte Ltd 
 

@@ -8,6 +8,6 @@ tags:
   - Rules of court
   - Companies
   - Winding up
-layout: single
+
 ---
 

@@ -24,7 +24,7 @@ tags:
   - Words and Phrases
   - Meaning of \"use\" and \"other document\"
   - 'Section 6(c) Prevention of Corruption Act (Cap 241, 1993 Rev Ed)'
-layout: single
+
 ---
 # Ong Beng Leong v Public Prosecutor 
 

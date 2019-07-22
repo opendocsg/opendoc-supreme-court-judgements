@@ -23,7 +23,7 @@ tags:
   - Bank alleging payment made under mistake of fact
   - Presenter of documents innocent of fraud
   - Whether moneys bank can claim restitution of moneys paid
-layout: single
+
 ---
 # MeesPierson NV v Bay Pacific (S) Pte Ltd and Others 
 

@@ -27,6 +27,6 @@ tags:
   - Contract
   - Waiver
   - Whether defendant waived or elected not to exercise its right to terminate
-layout: single
+
 ---
 

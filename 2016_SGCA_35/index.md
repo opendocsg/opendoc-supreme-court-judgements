@@ -10,6 +10,6 @@ tags:
   - Wife
   - Family Law
   - Duty of non-parent to child of marriage
-layout: single
+
 ---
 

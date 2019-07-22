@@ -7,7 +7,7 @@ tags:
   - Plaintiff and defendants shareholders in company
   - Defendants passing resolution to cease company\'s business
   - Plaintiff shareholder in prison when resolution passed
-layout: single
+
 ---
 # Luk Yue Hong Yvonne v Lim Seng Leong and Another 
 

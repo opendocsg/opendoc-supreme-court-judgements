@@ -6,6 +6,6 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Discretion of court not to impose sentence of death in certain circumstances
-layout: single
+
 ---
 

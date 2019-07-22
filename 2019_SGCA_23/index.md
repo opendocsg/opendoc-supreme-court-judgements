@@ -11,6 +11,6 @@ tags:
   - Land
   - Adverse possession
   - Compulsory acquisitions
-layout: single
+
 ---
 

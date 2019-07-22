@@ -8,6 +8,6 @@ tags:
   - Breach
   - Land
   - Conveyance
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
     date of negotiation
   - Whether credit negotiable or deferred
   - Whether issues can be disposed off summarily
-layout: single
+
 ---
 # Banque Nationale de Paris v Credit Agricole Indosuez 
 

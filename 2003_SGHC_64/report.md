@@ -7,7 +7,7 @@ tags:
   - Application for removal of arbitrator
   - Whether grounds for such removal made out
   - 'Arbitration Act (Cap 10, 1985 Rev Ed) ss 17 and 18'
-layout: single
+
 ---
 # Anwar Siraj and Another v Ting Kang Chung and Another 
 

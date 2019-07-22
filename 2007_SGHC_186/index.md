@@ -10,6 +10,6 @@ tags:
   - Maintenance of wife
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 

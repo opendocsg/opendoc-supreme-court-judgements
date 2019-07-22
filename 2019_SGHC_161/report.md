@@ -7,7 +7,7 @@ tags:
   - Statements
   - Evidence
   - Expert Evidence
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Hamidah Binte Awang and another  

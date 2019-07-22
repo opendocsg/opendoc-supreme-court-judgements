@@ -23,6 +23,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Wife abetting young lover to kill her husband
-layout: single
+
 ---
 

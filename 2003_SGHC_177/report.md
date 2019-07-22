@@ -20,7 +20,7 @@ tags:
   - Admission
   - Ad hoc
   - Queen\'s Counsel to act as defence counsel in criminal case
-layout: single
+
 ---
 # Re Seed Nigel John QC 
 

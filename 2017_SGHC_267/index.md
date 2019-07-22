@@ -4,6 +4,6 @@ subtitle: "[2017] SGHC 267 / 30\_October\_2017"
 tags:
   - Courts and jurisdiction
   - Vexatious litigant
-layout: single
+
 ---
 

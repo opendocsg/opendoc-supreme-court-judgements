@@ -4,7 +4,7 @@ subtitle: "[2019] SGHC 73 / Decision Date: 15\_March\_2019"
 tags:
   - Civil Procedure
   - Costs
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Yeo Boong Hua and others _v_ Turf Club Auto Emporium Pte Ltd and others  

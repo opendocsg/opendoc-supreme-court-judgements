@@ -12,7 +12,7 @@ tags:
   - Land
   - Strata titles
   - Strata Titles Board
-layout: single
+
 ---
 # Wu Chiu Lin v Management Corporation Strata Title Plan No 2874 
 

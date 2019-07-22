@@ -12,7 +12,7 @@ tags:
   - Possession of controlled drugs for purposes of trafficking
   - Element of possession
   - Requisite knowledge of contents of packages
-layout: single
+
 ---
 # Zulfikar bin Mustaffah v Public Prosecutor 
 

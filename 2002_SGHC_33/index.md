@@ -22,6 +22,6 @@ tags:
     Presumption that injury arising in course of employment also arose out of
     that employment
   - 'ss 3(6) & 17(1)Workmen\''s Compensation Act (Cap 354, 1998 Ed)'
-layout: single
+
 ---
 

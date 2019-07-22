@@ -8,7 +8,7 @@ tags:
   - Civil Procedure
   - Appeals
   - Notice
-layout: single
+
 ---
 # L Capital Jones Ltd and another v Maniach Pte Ltd 
 

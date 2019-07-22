@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Preventive Detention
-layout: single
+
 ---
 

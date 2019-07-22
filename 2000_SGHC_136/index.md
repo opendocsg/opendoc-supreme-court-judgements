@@ -12,6 +12,6 @@ tags:
   - >-
     Whether damages to be assessed at time of election, time of breach, or other
     time
-layout: single
+
 ---
 

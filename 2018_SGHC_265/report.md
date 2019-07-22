@@ -6,7 +6,7 @@ tags:
   - Disciplinary procedures
   - Direct application to Court of Three Judges
   - 'Section 94A(1) Legal Profession Act (Cap 161, 2009 Rev Ed)'
-layout: single
+
 ---
 # Law Society of Singapore v Kangatharan s/o Ramoo Kandavellu 
 

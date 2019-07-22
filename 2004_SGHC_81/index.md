@@ -5,6 +5,6 @@ tags:
   - Trade Marks and Trade Names
   - Registration
   - Opposition to registration of trade marks
-layout: single
+
 ---
 

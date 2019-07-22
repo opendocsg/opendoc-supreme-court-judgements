@@ -8,7 +8,7 @@ tags:
   - Contractors’ duties
   - Building and Construction Law
   - Construction torts
-layout: single
+
 ---
 # Millenia Pte Ltd (formerly known as Pontiac Marina Pte Ltd) v Dragages Singapore Pte Ltd 
 

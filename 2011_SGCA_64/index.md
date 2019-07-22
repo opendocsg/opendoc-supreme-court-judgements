@@ -7,6 +7,6 @@ tags:
   - Specific Performance
   - Land
   - Sale of Land
-layout: single
+
 ---
 

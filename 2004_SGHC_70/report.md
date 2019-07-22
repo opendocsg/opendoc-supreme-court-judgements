@@ -8,7 +8,7 @@ tags:
     Whether Assistant Registrar\'s Order covered the consequential orders and
     all elements of dispute
   - Whether Assistant Registrar\'s order should be varied.
-layout: single
+
 ---
 # Subramaniam s/o Gurusamy and Others v Sagadevan s/o Gurusamy and Others 
 

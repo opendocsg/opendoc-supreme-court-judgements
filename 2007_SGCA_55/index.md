@@ -15,6 +15,6 @@ tags:
   - Companies
   - Shares
   - 'Parties having standing to invoke s 76 Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

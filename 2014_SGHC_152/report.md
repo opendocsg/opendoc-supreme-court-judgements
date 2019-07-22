@@ -9,7 +9,7 @@ tags:
   - Equity
   - Remedies
   - Rectification
-layout: single
+
 ---
 # Xia Zhengyan v Geng Changqing 
 

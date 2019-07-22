@@ -12,6 +12,6 @@ tags:
   - Words and Phrases
   - \'Action\'
   - 'ss 216A(2), 366(2)(a) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

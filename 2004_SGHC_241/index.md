@@ -19,6 +19,6 @@ tags:
   - >-
     Assessment of damages payable to contractor for wrongful repudiation of
     contract.
-layout: single
+
 ---
 

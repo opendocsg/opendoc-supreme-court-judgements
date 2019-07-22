@@ -5,6 +5,6 @@ tags:
   - Insolvency law
   - Winding up
   - Debtor applying for injunction to restrain filing of winding-up petition
-layout: single
+
 ---
 

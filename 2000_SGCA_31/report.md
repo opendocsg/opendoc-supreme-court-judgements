@@ -25,7 +25,7 @@ tags:
   - Misrepresentation
   - Fraud and deceit
   - Whether basis of claim goes beyond ownership
-layout: single
+
 ---
 # Kea Holdings Pte Ltd and Another v Gan Boon Hock 
 

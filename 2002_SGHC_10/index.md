@@ -9,6 +9,6 @@ tags:
   - Likelihood of deception or confusion
   - Distinction between the two marks
   - 'ss 15 & 23 Trade Marks Act (Cap 332, 1992 Ed)'
-layout: single
+
 ---
 

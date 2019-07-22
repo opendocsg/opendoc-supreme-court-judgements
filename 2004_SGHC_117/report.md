@@ -27,7 +27,7 @@ tags:
   - >-
     Whether entitled to be subrogated to rights of creditors under Facility
     Agreement upon paying plaintiff in first originating summons
-layout: single
+
 ---
 # Salim Anthony v Sumitomo Corp Capital Asia Pte Ltd and Others and Another Application 
 

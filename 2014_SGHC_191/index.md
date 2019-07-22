@@ -11,6 +11,6 @@ tags:
   - Tort
   - defamation
   - fair comment
-layout: single
+
 ---
 

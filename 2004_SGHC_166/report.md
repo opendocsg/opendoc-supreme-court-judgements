@@ -11,7 +11,7 @@ tags:
   - Certainties
   - Certainty of intention
   - Certainty of subject matter
-layout: single
+
 ---
 # Joshua Steven v Joshua Deborah Steven and Others 
 

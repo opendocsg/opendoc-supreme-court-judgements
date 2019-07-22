@@ -6,6 +6,6 @@ tags:
   - Foreign judgments
   - Enforcement
   - Registration
-layout: single
+
 ---
 

@@ -15,6 +15,6 @@ tags:
   - Land
   - Registration of title
   - Land Titles Act
-layout: single
+
 ---
 

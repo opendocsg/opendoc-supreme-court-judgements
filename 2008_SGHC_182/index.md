@@ -18,6 +18,6 @@ tags:
     between assignor and assignee
   - Whether guarantor privy of assignee
   - Whether guarantor estopped from raising issues
-layout: single
+
 ---
 

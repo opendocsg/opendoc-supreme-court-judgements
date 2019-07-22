@@ -9,7 +9,7 @@ tags:
   - Conflict of laws
   - Choice of law
   - Forum mandatory statute
-layout: single
+
 ---
 # Goldilocks Investment Co Ltd v Noble Group Ltd 
 

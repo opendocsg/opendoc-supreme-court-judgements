@@ -17,7 +17,7 @@ tags:
   - >-
     Whether there was intention to create legally binding arrangement with no
     covert arrangement intended
-layout: single
+
 ---
 # Pender Development Pte Ltd and Another v Chesney Real Estate Group LLP and Another and 
 

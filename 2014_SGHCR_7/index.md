@@ -8,6 +8,6 @@ tags:
   - Contract
   - electronic commerce
   - payment gateway services
-layout: single
+
 ---
 

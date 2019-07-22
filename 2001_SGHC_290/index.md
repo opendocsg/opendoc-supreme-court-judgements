@@ -14,6 +14,6 @@ tags:
     Whether such order precludes plaintiff from commencing fresh action on same
     matter
   - O 21 r 3 Rules of Court
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - CRIMINAL PROCEDURE AND SENTENCING
   - Sentenc ing
   - Princ iples
-layout: single
+
 ---
 # JS Metal Pte Ltd v Public Prosecutor 
 

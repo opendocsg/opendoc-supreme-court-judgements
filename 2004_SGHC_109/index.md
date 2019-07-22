@@ -15,6 +15,6 @@ tags:
   - \"Arising out of\"
   - \"In connection with\"
   - Whether \"arising out of\" has narrower ambit than \"in connection with\"
-layout: single
+
 ---
 

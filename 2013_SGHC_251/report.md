@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Murder re-sentencing
-layout: single
+
 ---
 # Public Prosecutor v Kho Jabing 
 

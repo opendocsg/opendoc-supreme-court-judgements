@@ -22,7 +22,7 @@ tags:
   - Plaintiff alleging that letters defamatory
   - Whether defendant justified in sending letters
   - Whether preservation of own interest valid defence to claim in defamation
-layout: single
+
 ---
 # Merchant Ventures Pte Ltd v Chin Bay Ching 
 

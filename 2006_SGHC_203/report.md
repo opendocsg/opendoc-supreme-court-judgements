@@ -22,7 +22,7 @@ tags:
     Whether renovation expenses incurred long after purchase of flat should be
     factored into determining equities of parties in flat
   - 'Section 51(6) Housing and Development Act (Cap 129, 2004 Rev Ed)'
-layout: single
+
 ---
 # Tan Chui Lian v Neo Liew Eng 
 

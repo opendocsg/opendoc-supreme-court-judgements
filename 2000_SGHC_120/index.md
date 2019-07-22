@@ -23,6 +23,6 @@ tags:
   - Defendant requesting reduction in security required
   - Defendant requesting extension of time to furnish security
   - Whether defendant discharge burden of showing why security should be reduced
-layout: single
+
 ---
 

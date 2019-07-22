@@ -7,6 +7,6 @@ tags:
   - Muslim Law
   - Majlis Ugama Islam Singapura
   - Powers
-layout: single
+
 ---
 

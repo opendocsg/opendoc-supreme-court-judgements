@@ -8,7 +8,7 @@ tags:
   - Sentencing
   - Aggravating factors
   - Relevance of uncharged offences
-layout: single
+
 ---
 # Cheang Geok Lin v Public Prosecutor 
 

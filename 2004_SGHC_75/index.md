@@ -13,6 +13,6 @@ tags:
   - Conduct unbefitting an advocate and solicitor
   - Appropriate penalty
   - 'Sections 83(1), 83(2)(h) Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 

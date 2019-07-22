@@ -8,6 +8,6 @@ tags:
   - >-
     Appellant\'s application for extension of time to file record of appeal
     dismissed by single judge Court of Appeal
-layout: single
+
 ---
 

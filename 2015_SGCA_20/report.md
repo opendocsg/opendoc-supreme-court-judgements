@@ -7,7 +7,7 @@ tags:
   - Insolvency law
   - Winding up
   - Liquidator
-layout: single
+
 ---
 # PricewaterhouseCoopers LLP and others v Celestial Nutrifoods Ltd (in compulsory liquidation) 
 

@@ -21,6 +21,6 @@ tags:
   - >-
     Whether trial judge was entitled to find that the prosecution witness was
     credible
-layout: single
+
 ---
 

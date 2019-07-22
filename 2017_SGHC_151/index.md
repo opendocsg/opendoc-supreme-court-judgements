@@ -8,6 +8,6 @@ tags:
   - Employment Law
   - Wrongful Dismissal
   - Due inquiry
-layout: single
+
 ---
 

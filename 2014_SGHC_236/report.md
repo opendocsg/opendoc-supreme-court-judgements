@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Representation of companies
   - Order 1 rule 9
-layout: single
+
 ---
 # Bulk Trading SA v Pevensey Pte Ltd and another 
 

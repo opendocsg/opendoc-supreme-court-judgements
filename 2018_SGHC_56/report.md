@@ -11,7 +11,7 @@ tags:
   - Arbitration
   - Award
   - Recourse against award
-layout: single
+
 ---
 # Hilton International Manage (Maldives) Pvt Ltd v Sun Travels & Tours Pvt Ltd 
 

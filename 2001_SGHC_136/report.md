@@ -26,7 +26,7 @@ tags:
   - Previous inconsistent statement
   - Weight to be accorded
   - s 147(6) Evidence Act (Cap 97)
-layout: single
+
 ---
 # Pandiyan Thanaraju Rogers v Public Prosecutor 
 

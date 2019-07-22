@@ -25,6 +25,6 @@ tags:
   - >-
     Whether recipient receiving funds knowing they were transferred in breach of
     trust
-layout: single
+
 ---
 

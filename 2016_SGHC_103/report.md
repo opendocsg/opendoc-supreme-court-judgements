@@ -18,7 +18,7 @@ tags:
   - Plea of guilty
   - Criminal Procedure and Sentencing
   - Mitigation
-layout: single
+
 ---
 # Public Prosecutor v Andrew Koh Weiwen 
 

@@ -24,7 +24,7 @@ tags:
   - Words and Phrases
   - \'Permission in writing\'
   - 's 36 Immigration Act (Cap 133, 1997 Ed)'
-layout: single
+
 ---
 # Ma Teresa Bebango Bedico v Public Prosecutor 
 

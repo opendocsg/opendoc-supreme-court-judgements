@@ -8,6 +8,6 @@ tags:
     Several accused charged with rape, abetment, procurement and living on the
     earnings of prostitution
   - Proper sentence to be imposed in such circumstances.
-layout: single
+
 ---
 

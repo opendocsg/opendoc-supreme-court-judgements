@@ -14,7 +14,7 @@ tags:
   - Family law
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 # AOB v AOC 
 

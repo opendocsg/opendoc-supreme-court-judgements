@@ -26,7 +26,7 @@ tags:
   - Presumptions
   - Accused remaining silent
   - Adverse inferences to be drawn
-layout: single
+
 ---
 # B Subramaniam a/l Banget Raman v Public Prosecutor 
 

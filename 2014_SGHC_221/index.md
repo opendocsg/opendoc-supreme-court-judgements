@@ -22,6 +22,6 @@ tags:
   - Knowing receipt
   - Tort
   - Conversion
-layout: single
+
 ---
 

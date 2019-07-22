@@ -40,7 +40,7 @@ tags:
   - Ad hoc
   - Application to admit Queen\'s Counsel
   - Party seeking admission of Queen\'s Counsel substantive applicant.
-layout: single
+
 ---
 # Wee Soon Kim Anthony v UBS AG and Others 
 

@@ -16,6 +16,6 @@ tags:
   - >-
     Whether use of mark on promotional materials amounting to genuine use of
     mark
-layout: single
+
 ---
 

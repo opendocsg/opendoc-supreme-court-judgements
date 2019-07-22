@@ -5,7 +5,7 @@ tags:
   - Partnership
   - Breach of fiduciary duty
   - Accounting
-layout: single
+
 ---
 # Heament Kurian v Lian Foo Kuan David 
 

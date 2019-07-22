@@ -15,6 +15,6 @@ tags:
   - Children
   - Quantum of maintenance
   - Whether maintenance granted fair
-layout: single
+
 ---
 

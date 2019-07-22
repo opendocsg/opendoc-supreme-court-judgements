@@ -11,7 +11,7 @@ tags:
   - Family Law
   - Matrimonial Assets
   - Division
-layout: single
+
 ---
 # BUN and another v BUP 
 

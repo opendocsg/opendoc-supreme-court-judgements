@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - Property Tax
   - Annual Value
-layout: single
+
 ---
 # Chief Assessor v HSBC Institutional Trust Services (Singapore) Ltd 
 

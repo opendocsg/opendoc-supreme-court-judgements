@@ -28,6 +28,6 @@ tags:
   - >-
     Whether there was proximity between contractor and certifier given no direct
     contractual relationship between contractor and certifier
-layout: single
+
 ---
 

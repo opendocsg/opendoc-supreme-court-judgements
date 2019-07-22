@@ -12,7 +12,7 @@ tags:
   - Civil procedure
   - offer to settle
   - late offer
-layout: single
+
 ---
 # Poh Fu Tek and others v Lee Shung Guan and others 
 

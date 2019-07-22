@@ -9,6 +9,6 @@ tags:
   - Waiver
   - Personal Property
   - Ownership
-layout: single
+
 ---
 

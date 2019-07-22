@@ -6,7 +6,7 @@ tags:
   - Work Injury Compensation Act
   - section 3(6)
   - section 29(2A)
-layout: single
+
 ---
 # Allianz Insurance Co (Singapore) Pte Ltd and others v Ma Shoudong and another 
 

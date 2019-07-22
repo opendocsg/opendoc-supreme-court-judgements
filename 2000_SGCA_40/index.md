@@ -32,6 +32,6 @@ tags:
   - Half-secret
   - Creation of trust
   - Whether trust expressly or tacitly accepted by beneficiary or trustees
-layout: single
+
 ---
 

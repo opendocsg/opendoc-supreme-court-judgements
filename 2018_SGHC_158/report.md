@@ -12,7 +12,7 @@ tags:
   - Contract
   - Breach
   - Obligation to award academic degree
-layout: single
+
 ---
  Committee of Inquiry COI 
 

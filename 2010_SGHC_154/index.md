@@ -8,6 +8,6 @@ tags:
   - Negligence
   - Tort
   - Nuisance
-layout: single
+
 ---
 

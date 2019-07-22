@@ -6,6 +6,6 @@ tags:
   - Offer to settle
   - Contrac t
   - Formation
-layout: single
+
 ---
 

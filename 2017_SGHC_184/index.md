@@ -5,6 +5,6 @@ tags:
   - Contract
   - Termination
   - Repudiation of contract
-layout: single
+
 ---
 

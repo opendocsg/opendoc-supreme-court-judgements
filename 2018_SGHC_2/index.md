@@ -10,6 +10,6 @@ tags:
   - Construction of statute
   - Statutory Interpretation
   - Definitions
-layout: single
+
 ---
 

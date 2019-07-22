@@ -15,6 +15,6 @@ tags:
   - Issue estoppel
   - Res Judicata
   - Exceptions to res judicata
-layout: single
+
 ---
 

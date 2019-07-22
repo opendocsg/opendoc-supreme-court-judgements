@@ -5,6 +5,6 @@ tags:
   - Contract
   - breach
   - damages
-layout: single
+
 ---
 

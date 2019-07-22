@@ -4,6 +4,6 @@ subtitle: "[2010] SGHC 188 / 02\_July\_2010"
 tags:
   - Tort
   - Deceit
-layout: single
+
 ---
 

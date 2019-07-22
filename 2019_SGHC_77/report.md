@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Interim Order
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # _Re_ Andrla, Dominic and another matter  

@@ -15,7 +15,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Adducing fresh evidence
-layout: single
+
 ---
 # Chua Siew Peng v Public Prosecutor and another appeal 
 

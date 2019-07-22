@@ -17,6 +17,6 @@ tags:
   - Appeals
   - Discretion exercised by judge
   - Whether an appellate court should interfere
-layout: single
+
 ---
 

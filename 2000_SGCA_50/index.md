@@ -23,6 +23,6 @@ tags:
   - Partners inter se
   - Whether partnership existed between company and exhibition organizer
   - Whether exhibition organiser owes fiduciary duty to company
-layout: single
+
 ---
 

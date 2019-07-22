@@ -8,6 +8,6 @@ tags:
   - Negligence
   - Breach of duty
   - Doctors
-layout: single
+
 ---
 

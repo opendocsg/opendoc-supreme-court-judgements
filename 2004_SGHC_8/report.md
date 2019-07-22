@@ -21,7 +21,7 @@ tags:
   - >-
     Whether plaintiffs failed to persuade court that there was any fraud on
     valuer.
-layout: single
+
 ---
 # Soh Lup Chee and Others v Seow Boon Cheng and Another 
 

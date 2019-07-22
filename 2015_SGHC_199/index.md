@@ -12,6 +12,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Statements
   - Admissibility
-layout: single
+
 ---
 

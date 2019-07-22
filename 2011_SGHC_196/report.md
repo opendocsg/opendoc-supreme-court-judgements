@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Further and better particulars
-layout: single
+
 ---
 # Sharikat Logistics Pte Ltd v Ong Boon Chuan and others 
 

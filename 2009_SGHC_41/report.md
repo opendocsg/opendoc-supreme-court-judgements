@@ -11,7 +11,7 @@ tags:
     First respondent posting or acquiescing in online posting of photograph of
     respondents wearing the T-shirts
   - First respondent relying on defence of fair criticism
-layout: single
+
 ---
 # Attorney-General v Tan Liang Joo John and Others 
 

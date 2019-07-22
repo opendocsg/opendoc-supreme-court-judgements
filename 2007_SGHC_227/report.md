@@ -13,7 +13,7 @@ tags:
     Whether Chief Assessor entitled to apply policy of discouraging land
     hoarding
   - 'Section 2(3) Property Tax Act (Cap 254, 2005 Rev Ed)'
-layout: single
+
 ---
 # City Developments Ltd v Chief Assessor 
 

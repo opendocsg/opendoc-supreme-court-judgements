@@ -13,7 +13,7 @@ tags:
   - Building and Construction Law
   - Construction torts
   - Contractor
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lim Seng Chye _v_ Pex International Pte Ltd and another  

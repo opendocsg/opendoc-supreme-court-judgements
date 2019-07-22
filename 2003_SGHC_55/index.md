@@ -27,6 +27,6 @@ tags:
     Whether circumstances justified exercise of judicial discretion in
     applicant\'s favour
   - 'Legal Profession Act (Cap 161, 2001 Rev Ed) s 21'
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Principles
   - Respondents force feeding child resulting in death
   - Convictions for causing death by rash act not amounting to culpable homicide
-layout: single
+
 ---
 

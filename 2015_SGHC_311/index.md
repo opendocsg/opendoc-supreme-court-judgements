@@ -8,6 +8,6 @@ tags:
   - Interlocutory order or direction
   - Court’s power
   - Evidence of property preservation
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Substantial question of law
   - Employer’s liability for compensation
   - Accident arising out of employment
-layout: single
+
 ---
 

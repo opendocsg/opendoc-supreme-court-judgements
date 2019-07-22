@@ -8,7 +8,7 @@ tags:
   - >-
     Examination of terms of letter of credit according to applicable UCP rules
     and where ambiguity exists
-layout: single
+
 ---
 # Credit Agricole Indosuez v Banque Nationale de Paris 
 

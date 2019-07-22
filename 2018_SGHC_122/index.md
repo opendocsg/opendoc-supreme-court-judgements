@@ -4,6 +4,6 @@ subtitle: "[2018] SGHC 122 / 21\_May\_2018"
 tags:
   - Companies
   - winding up
-layout: single
+
 ---
 

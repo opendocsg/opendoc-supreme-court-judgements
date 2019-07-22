@@ -15,7 +15,7 @@ tags:
     Criminal Procedure Code (Cap 68, 1985 Rev Ed) allowing for this only
     \"before judgment has been delivered\"
   - Whether \"judgment\" included pronouncement of sentence
-layout: single
+
 ---
 # Public Prosecutor v Ng Guan Hup 
 

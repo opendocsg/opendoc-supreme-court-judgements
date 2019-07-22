@@ -24,7 +24,7 @@ tags:
   - Words and Phrases
   - \"Or otherwise\"
   - O 69 r 4 Rules of Court
-layout: single
+
 ---
 # Lum Chang Building Contractors Pte Ltd v Anderson Land Pte Ltd 
 

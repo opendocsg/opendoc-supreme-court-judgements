@@ -9,6 +9,6 @@ tags:
   - Tort
   - Tort
   - Conspiracy
-layout: single
+
 ---
 

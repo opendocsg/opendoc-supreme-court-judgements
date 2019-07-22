@@ -11,7 +11,7 @@ tags:
   - cargo operations
   - cargo claims
   - damage to cargo and vessel
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Wilmar Trading Pte Ltd _v_ Heroic Warrior Inc.  

@@ -15,7 +15,7 @@ tags:
   - Disparity with sentences imposed in previous similar cases
   - Whether consistency in sentencing overriding consideration
   - Applicable principles.
-layout: single
+
 ---
 # Rahman Pachan Pillai Prasana v Public Prosecutor 
 

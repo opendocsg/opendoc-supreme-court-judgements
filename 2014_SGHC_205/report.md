@@ -9,7 +9,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Griffin Travel Pte Ltd v Nagender Rao Chilkuri and others 
 

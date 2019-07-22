@@ -15,7 +15,7 @@ tags:
   - Family Law
   - Matrimonial home
   - Matrimonial home purchased jointly by husband and wife
-layout: single
+
 ---
 # Ong Boon Huat Samuel v Chan Mei Lan Kristine 
 

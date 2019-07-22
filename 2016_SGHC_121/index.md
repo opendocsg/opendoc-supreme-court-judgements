@@ -4,6 +4,6 @@ subtitle: "[2016] SGHC 121 / 30\_June\_2016"
 tags:
   - Legal Profession
   - Remuneration
-layout: single
+
 ---
 

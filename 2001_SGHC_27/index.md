@@ -11,6 +11,6 @@ tags:
   - Construction of statute
   - Penal statute
   - Whether provision ambiguous
-layout: single
+
 ---
 

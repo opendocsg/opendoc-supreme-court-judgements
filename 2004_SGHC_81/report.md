@@ -5,7 +5,7 @@ tags:
   - Trade Marks and Trade Names
   - Registration
   - Opposition to registration of trade marks
-layout: single
+
 ---
 # McDonald's Corp v Future Enterprises Pte Ltd 
 

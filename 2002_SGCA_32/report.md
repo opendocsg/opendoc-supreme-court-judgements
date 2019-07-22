@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Regenthill Properties Pte Ltd v Management Corporation Strata Title Plan No 2192 
 

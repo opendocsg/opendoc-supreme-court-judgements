@@ -5,6 +5,6 @@ tags:
   - Damages
   - Compensation and Damages
   - Dependency
-layout: single
+
 ---
 

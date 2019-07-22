@@ -17,7 +17,7 @@ tags:
   - Tort
   - Negligence
   - Contributory negligence
-layout: single
+
 ---
 # Md Shohel Md Khobir Uddin v Chen Yongbiao and another 
 

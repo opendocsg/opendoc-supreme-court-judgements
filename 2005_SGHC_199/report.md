@@ -11,7 +11,7 @@ tags:
   - >-
     Whether to grant interim mandatory injunction reinstating plaintiff as
     managing director
-layout: single
+
 ---
 # Govindasamy Supramaniam v Bailey Foreign Holdings Corp and Others 
 

@@ -17,7 +17,7 @@ tags:
   - Words and Phrases
   - \"Any action proposed or contemplated\"
   - 's 30(1) Charities Act (Cap 37, 1995 Ed)'
-layout: single
+
 ---
 # Chileon Pte Ltd v Choong Wai Phwee and Others (Trustees of Cheng Liam Um Vegetarian 
 

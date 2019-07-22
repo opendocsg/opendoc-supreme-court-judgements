@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Plaintiff obtaining extension of time to file reply to defence
-layout: single
+
 ---
 

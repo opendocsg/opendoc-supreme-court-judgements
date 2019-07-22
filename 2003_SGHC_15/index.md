@@ -12,6 +12,6 @@ tags:
   - Employees’ duties
   - Employee set up competing business whilst in employ of employer
   - Whether employee in breach of fiduciary duty to employer
-layout: single
+
 ---
 

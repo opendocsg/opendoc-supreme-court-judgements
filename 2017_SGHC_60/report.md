@@ -6,7 +6,7 @@ tags:
   - Striking out
   - Res judicata
   - Extended doctrine
-layout: single
+
 ---
 # Antariksa Logistics Pte Ltd and others v Nurdian Cuaca and others 
 

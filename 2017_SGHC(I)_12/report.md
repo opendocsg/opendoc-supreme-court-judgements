@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - Pleadings
   - Amendment
-layout: single
+
 ---
 # Macquarie Bank Ltd v Graceland Industry Pte Ltd 
 

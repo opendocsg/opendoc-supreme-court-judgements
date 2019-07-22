@@ -6,6 +6,6 @@ tags:
   - Winding up
   - Company unable to pay debts
   - Whether appropriate case for winding up
-layout: single
+
 ---
 

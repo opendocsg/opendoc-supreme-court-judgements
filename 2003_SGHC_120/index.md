@@ -12,6 +12,6 @@ tags:
   - >-
     Whether sufficient that plaintiff requires High Court judgment for
     enforcement in Malaysia under reciprocal enforcement legislation
-layout: single
+
 ---
 

@@ -24,6 +24,6 @@ tags:
     care
   - Whether defendants had breached duty of care
   - Whether plaintiff had suffered damage arising from such breach
-layout: single
+
 ---
 

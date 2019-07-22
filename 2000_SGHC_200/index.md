@@ -14,6 +14,6 @@ tags:
   - Matrimonial assets
   - Division
   - Apportionment in percentage terms by court
-layout: single
+
 ---
 

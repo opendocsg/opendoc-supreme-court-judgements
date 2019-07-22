@@ -21,7 +21,7 @@ tags:
   - >-
     Whether necessary to imply term requiring forwarding of signed Deed to other
     party
-layout: single
+
 ---
 # Romar Positioning Equipment Pte Ltd v Merriwa Nominees Pty Ltd 
 

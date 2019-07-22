@@ -12,6 +12,6 @@ tags:
   - Discharge
   - Contract
   - Contractual Terms
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Guarantees and Indemnities
   - Evidence
   - Adverse inferences
-layout: single
+
 ---
 # ECICS Ltd v Capstone Construction Pte Ltd and others 
 

@@ -7,7 +7,7 @@ tags:
   - Sudden fight
   - Whether the trial judge erred in his findings of fact
   - 'Section 300 Exception 4 Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 # Vijayakumar s/o Veeriah v Public Prosecutor 
 

@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Benchmark sentences
   - Benchmark sentences
-layout: single
+
 ---
 

@@ -21,6 +21,6 @@ tags:
   - >-
     Whether facts of two cases sufficiently similar for there to be parity in
     sentencing
-layout: single
+
 ---
 

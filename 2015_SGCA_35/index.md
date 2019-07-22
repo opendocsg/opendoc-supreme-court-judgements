@@ -7,6 +7,6 @@ tags:
   - Contract
   - Discharge
   - Anticipatory Breach
-layout: single
+
 ---
 

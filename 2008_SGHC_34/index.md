@@ -8,6 +8,6 @@ tags:
   - Application made 13 years and two months after striking off
   - Lawyer struck off after conviction for offence implying defect of character
   - Whether lawyer fit to be restored on roll
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Conclusive Evidence Clauses
   - Civil Procedure
   - Summary Judgment
-layout: single
+
 ---
 # AmFraser Securities Pte Ltd v Goh Chengyu 
 

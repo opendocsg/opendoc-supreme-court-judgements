@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - Offences
   - Sexual assault by penetration
-layout: single
+
 ---
 # Public Prosecutor v Tan Meng Soon Bernard 
 

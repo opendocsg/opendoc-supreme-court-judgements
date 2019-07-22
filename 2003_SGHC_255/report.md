@@ -10,7 +10,7 @@ tags:
   - >-
     Whether court has power under para 14 of the First Schedule, Supreme Court
     of Judicature Act (Cap 322, 1999 Rev Ed) to order remedy of public apology
-layout: single
+
 ---
 # Excel Golf Pte Ltd v Allied Domecq Spirits & Wine (Singapore) Ltd 
 

@@ -13,6 +13,6 @@ tags:
   - Statements
   - Voluntariness
   - Whether threat or inducement
-layout: single
+
 ---
 

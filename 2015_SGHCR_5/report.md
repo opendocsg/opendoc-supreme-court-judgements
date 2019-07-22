@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Striking Out Agency
   - Rights of Agent
-layout: single
+
 ---
 # Fact 2006 Pte Ltd v First Alverstone Capital Ltd and another 
 

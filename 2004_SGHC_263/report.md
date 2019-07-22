@@ -18,7 +18,7 @@ tags:
     Defendant bringing in Taiwanese party as third party in action in Singapore
     courts
   - Defendant also suing Taiwanese party in Taiwan
-layout: single
+
 ---
 # Ang Ming Chuang v Singapore Airlines Ltd (Civil Aeronautics Administration, Third Party) 
 

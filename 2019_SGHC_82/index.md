@@ -7,6 +7,6 @@ tags:
   - Duty of Care
   - Banking
   - Credit and Security
-layout: single
+
 ---
 

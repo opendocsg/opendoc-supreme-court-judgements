@@ -28,6 +28,6 @@ tags:
   - Plaintiff seeking specific performance of agreement
   - Words and Phrases
   - \'Subject to the tenancy agreement\'
-layout: single
+
 ---
 

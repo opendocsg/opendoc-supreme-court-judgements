@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Stay of proceedings
   - Limited stay pending outcome of foreign proceedings
-layout: single
+
 ---
 

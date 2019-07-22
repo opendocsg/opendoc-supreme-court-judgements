@@ -19,6 +19,6 @@ tags:
   - Statements
   - Voluntariness of statement
   - Admissibility
-layout: single
+
 ---
 

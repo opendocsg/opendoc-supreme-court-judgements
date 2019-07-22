@@ -13,6 +13,6 @@ tags:
   - Whether expenses capital or revenue in nature
   - Applicable tests for determining nature of expenses
   - 'Section 14(1) Income Tax Act (Cap 134, 2004 Rev Ed)'
-layout: single
+
 ---
 

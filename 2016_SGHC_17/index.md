@@ -13,6 +13,6 @@ tags:
   - Banking
   - Derivatives
   - Accumulators
-layout: single
+
 ---
 

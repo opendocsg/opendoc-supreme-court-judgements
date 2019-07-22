@@ -9,6 +9,6 @@ tags:
   - Contract
   - Civil Procedure
   - Costs
-layout: single
+
 ---
 

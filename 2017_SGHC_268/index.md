@@ -8,6 +8,6 @@ tags:
   - Financial and Securities Markets
   - Civil Penalties
   - Quantum
-layout: single
+
 ---
 

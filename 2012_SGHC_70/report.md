@@ -8,7 +8,7 @@ tags:
   - Breach
   - Contract
   - Termination
-layout: single
+
 ---
 # Cherie Hearts Group International Pte Ltd and others v G8 Education Ltd 
 

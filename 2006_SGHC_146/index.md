@@ -17,6 +17,6 @@ tags:
   - Financial assistance given by subsidiary of holding company
   - Whether such financial assistance prohibited by s 76 Companies Act
   - 'Sections 76(1)(a)(i)(A), 76(1)(a)(i)(B) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

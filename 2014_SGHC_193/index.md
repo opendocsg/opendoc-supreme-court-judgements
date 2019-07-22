@@ -11,6 +11,6 @@ tags:
   - Criminal law
   - General Exceptions
   - Mistake of fact
-layout: single
+
 ---
 

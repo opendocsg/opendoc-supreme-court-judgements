@@ -44,7 +44,7 @@ tags:
   - Performance bond
   - Whether call on bond fraudulent and/or unconscionable
   - Whether first defendants can retain sum received under bond
-layout: single
+
 ---
 # New Civilbuild Pte Ltd v Guobena Sdn Bhd and Another 
 

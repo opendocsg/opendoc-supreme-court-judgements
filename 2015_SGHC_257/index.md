@@ -8,6 +8,6 @@ tags:
   - Criminal Law
   - Offences
   - Unnatural offences
-layout: single
+
 ---
 

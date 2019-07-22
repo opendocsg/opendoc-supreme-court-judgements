@@ -19,6 +19,6 @@ tags:
     Whether Court of Appeal having no jurisdiction to hear motions as court
     functus officio after hearing appeal
   - 'Section 44(3) Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed)'
-layout: single
+
 ---
 

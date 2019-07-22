@@ -22,6 +22,6 @@ tags:
   - Principles
   - Whether relevance of foreign case law limited to clarifying principles only
   - Whether quantum of sentencing in other jurisdictions relevant
-layout: single
+
 ---
 

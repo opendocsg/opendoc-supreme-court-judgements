@@ -13,6 +13,6 @@ tags:
   - Elections
   - voting
   - right to vote
-layout: single
+
 ---
 

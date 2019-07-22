@@ -9,6 +9,6 @@ tags:
   - Tort
   - Negligence
   - Professional Negligence
-layout: single
+
 ---
 

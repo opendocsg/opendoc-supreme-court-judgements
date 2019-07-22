@@ -14,6 +14,6 @@ tags:
   - >-
     Whether multiplier for costs of future medical expenses should be related to
     life expectancy or retirement age
-layout: single
+
 ---
 

@@ -16,6 +16,6 @@ tags:
   - Defences
   - Equitable set-off
   - Whether right to equitable set-off excluded by contract
-layout: single
+
 ---
 

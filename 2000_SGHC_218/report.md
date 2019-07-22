@@ -9,7 +9,7 @@ tags:
   - Whether distinctive or having a reputation attached
   - Whether expression had secondary meaning with goodwill attached to it
   - Whether expression caused confusion
-layout: single
+
 ---
 # Nippon Paint (Singapore) Co Pte Ltd v ICI Paint (Singapore) Pte Ltd 
 

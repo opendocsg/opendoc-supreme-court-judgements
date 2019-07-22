@@ -12,7 +12,7 @@ tags:
   - >-
     Order 89 r 4 Rules of Court (Cap 322, R 5, 2004 Rev Ed), ss 53, 69
     Subordinate Courts Act (Cap 321, 1999 Rev Ed)
-layout: single
+
 ---
 # Skading Anne v Yeo Kian Seng 
 

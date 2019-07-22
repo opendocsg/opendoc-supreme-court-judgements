@@ -5,7 +5,7 @@ tags:
   - Trade Marks and Trade Names
   - Registration
   - Respondent registered owner of \"McCAFE\" mark
-layout: single
+
 ---
 # Future Enterprises Pte Ltd v McDonald's Corp 
 

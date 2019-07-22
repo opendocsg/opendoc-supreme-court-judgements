@@ -18,7 +18,7 @@ tags:
     between assignor and assignee
   - Whether guarantor privy of assignee
   - Whether guarantor estopped from raising issues
-layout: single
+
 ---
 # International Coal Pte Ltd v Kristle Trading Ltd and Another and Another Suit 
 

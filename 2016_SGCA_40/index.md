@@ -10,6 +10,6 @@ tags:
   - Building and Construction Law
   - 'Architects, Engineers and Surveyors'
   - Statutory Obligations
-layout: single
+
 ---
 

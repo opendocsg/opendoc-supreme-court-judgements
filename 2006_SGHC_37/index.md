@@ -7,6 +7,6 @@ tags:
   - Contract providing for payment by letter of credit
   - Parties agreeing on alternative modes of payment
   - Whether contract terminated or repudiated or simply varied
-layout: single
+
 ---
 

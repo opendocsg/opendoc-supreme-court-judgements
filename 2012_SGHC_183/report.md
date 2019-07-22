@@ -5,7 +5,7 @@ tags:
   - Revenue Law
   - Property tax
   - Annual value
-layout: single
+
 ---
 # Glengary Pte Ltd v Chief Assessor 
 

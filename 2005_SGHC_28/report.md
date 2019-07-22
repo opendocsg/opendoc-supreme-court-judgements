@@ -44,7 +44,7 @@ tags:
     Whether trial judge exercising discretion correctly in refusing to allow
     Prosecution to call rebuttal witness
   - 'Sections 180(l), 399 Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 # Sarjit Singh Rapati v Public Prosecutor 
 

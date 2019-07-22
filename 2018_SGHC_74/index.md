@@ -10,6 +10,6 @@ tags:
   - Equity
   - Estoppel
   - Proprietary estoppel
-layout: single
+
 ---
 

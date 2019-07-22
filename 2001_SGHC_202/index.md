@@ -5,6 +5,6 @@ tags:
   - Contract
   - Illegality and public policy
   - Use of company\'s properties as collateral for bank loan
-layout: single
+
 ---
 

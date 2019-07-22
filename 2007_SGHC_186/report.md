@@ -10,7 +10,7 @@ tags:
   - Maintenance of wife
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 # VB v VC 
 

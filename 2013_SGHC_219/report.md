@@ -10,7 +10,7 @@ tags:
   - Implied Terms
   - Contract
   - Breach
-layout: single
+
 ---
 # Intrading Ltd v Australia and New Zealand Banking Group Ltd 
 

@@ -9,6 +9,6 @@ tags:
   - Civil Procedure
   - Rules of court
   - 'Scope of O 22A r 9(3) Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 

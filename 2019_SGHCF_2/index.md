@@ -6,6 +6,6 @@ tags:
   - Revocation
   - Later instrument
   - Testamentary capacity
-layout: single
+
 ---
 

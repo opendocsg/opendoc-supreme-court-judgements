@@ -12,6 +12,6 @@ tags:
     Whether \"without prejudice\" communications should be admitted to prove
     existence and terms of concluded compromise agreement
   - Whether terms of agreement varied by \"without prejudice\" communications
-layout: single
+
 ---
 

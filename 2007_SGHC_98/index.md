@@ -15,6 +15,6 @@ tags:
   - >-
     Whether statements of co-accused persons can be construed as confessions for
     purpose of s 30 of Evidence Act
-layout: single
+
 ---
 

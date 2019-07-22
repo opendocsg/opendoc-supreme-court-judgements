@@ -5,6 +5,6 @@ tags:
   - Admiralty and shipping
   - Bills of lading
   - Bills of lading as document of title
-layout: single
+
 ---
 

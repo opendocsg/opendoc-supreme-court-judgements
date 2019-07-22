@@ -8,6 +8,6 @@ tags:
   - Offering securities without a prospectus
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Trusts
   - Express trusts
   - Resulting Trusts
-layout: single
+
 ---
 # Kor Beng Shien and Another (administrators of the estate of Ko Kim Hock, deceased) v Lee 
 

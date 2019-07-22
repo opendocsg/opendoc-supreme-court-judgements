@@ -8,6 +8,6 @@ tags:
   - Internet sex case
   - Relevance of English authorities
   - Difference in social and moral considerations
-layout: single
+
 ---
 

@@ -14,6 +14,6 @@ tags:
   - Whether claim on gaming contract
   - Claim prohibited by statute
   - s 5(2) Civil Law Act (Cap 43)
-layout: single
+
 ---
 

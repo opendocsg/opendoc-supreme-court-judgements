@@ -31,6 +31,6 @@ tags:
   - Commercial financing arrangement
   - Provision of bank guarantee to procure overdraft facilities
   - Whether funds from overdraft facilities held on trust for guarantor
-layout: single
+
 ---
 

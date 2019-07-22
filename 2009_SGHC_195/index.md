@@ -5,6 +5,6 @@ tags:
   - Credit and Security
   - Guarantees and indemnities
   - Co-guarantors
-layout: single
+
 ---
 

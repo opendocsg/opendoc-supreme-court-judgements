@@ -14,7 +14,7 @@ tags:
   - >-
     Whether district judge erred in preferring prosecution witnesses\'
     testimonies
-layout: single
+
 ---
 # Sim Teck Meng David v Public Prosecutor 
 

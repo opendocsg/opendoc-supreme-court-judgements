@@ -6,7 +6,7 @@ tags:
   - Stay of proceedings
   - Civil Procedure
   - Summary judgment
-layout: single
+
 ---
 # The Bank of East Asia Ltd v Quah Su-Ling 
 

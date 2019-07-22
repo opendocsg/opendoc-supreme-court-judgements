@@ -9,7 +9,7 @@ tags:
   - Legal Profession
   - Remuneration
   - Stakeholding fees
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Tan & Au LLP _v_ Seo Puay Guan and others  

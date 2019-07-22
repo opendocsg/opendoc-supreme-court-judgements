@@ -30,7 +30,7 @@ tags:
     Whether trial judge under obligation to accept oral testimonies exculpating
     appellant
   - 's 157 Evidence Act (Cap 97, 1997 Ed)'
-layout: single
+
 ---
 # Gan Hock Keong Winston v Public Prosecutor 
 

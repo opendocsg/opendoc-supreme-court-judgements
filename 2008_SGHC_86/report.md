@@ -39,7 +39,7 @@ tags:
     demand
   - Test for granting injunction
   - Whether injunction should be granted
-layout: single
+
 ---
 # Jurong Shipyard Pte Ltd v BNP Paribas 
 

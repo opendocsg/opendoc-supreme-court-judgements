@@ -20,7 +20,7 @@ tags:
   - >-
     Foods Regulations (Cap 283, Rg 1, 2005 Rev Ed), Sale of Food Act (Cap 283,
     2002 Rev Ed)
-layout: single
+
 ---
 # National Foods Ltd v Pars Ram Brothers (Pte) Ltd 
 

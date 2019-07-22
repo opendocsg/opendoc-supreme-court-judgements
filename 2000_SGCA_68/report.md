@@ -14,7 +14,7 @@ tags:
   - Divorce
   - Maintenance
   - Whether lump sum maintenance order appropriate
-layout: single
+
 ---
 # Lee Yong Chuan Edwin v Tan Soan Lian 
 

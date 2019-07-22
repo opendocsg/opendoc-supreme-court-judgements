@@ -5,6 +5,6 @@ tags:
   - Insurance
   - Probate and Administration
   - Trusts
-layout: single
+
 ---
 

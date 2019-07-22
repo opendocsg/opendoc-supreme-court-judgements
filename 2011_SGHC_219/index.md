@@ -10,6 +10,6 @@ tags:
   - Contract
   - contractual terms
   - rules of construction
-layout: single
+
 ---
 

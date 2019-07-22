@@ -21,6 +21,6 @@ tags:
   - Cargo subject to charterparty and law of bailment
   - Plaintiffs issuing invoices for value of cargo converted
   - Effect of invoice on plaintiff\'s claim
-layout: single
+
 ---
 

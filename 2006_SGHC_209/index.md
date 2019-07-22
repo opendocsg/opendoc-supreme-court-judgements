@@ -26,6 +26,6 @@ tags:
   - >-
     Amount of damages suffered by first plaintiff as result of defendants\'
     breach of obligations under deeds
-layout: single
+
 ---
 

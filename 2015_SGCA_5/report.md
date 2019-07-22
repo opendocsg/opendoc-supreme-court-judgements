@@ -6,7 +6,7 @@ tags:
   - Offer to settle
   - Contrac t
   - Formation
-layout: single
+
 ---
 # Ong & Ong Pte Ltd v Fairview Developments Pte Ltd 
 

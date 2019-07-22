@@ -5,7 +5,7 @@ tags:
   - Family Law
   - Matrimonial Assets
   - Division
-layout: single
+
 ---
 # TND v TNC and another appeal 
 

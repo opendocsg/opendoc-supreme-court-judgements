@@ -13,6 +13,6 @@ tags:
   - >-
     Whether clauses were clear enough to require defendant to indemnify
     plaintiff for liability arising from negligence by plaintiff\'s own employee
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ subtitle: "[2010] SGHC 67 / 03\_March\_2010"
 tags:
   - Civil Procedure
   - summary judgment
-layout: single
+
 ---
 

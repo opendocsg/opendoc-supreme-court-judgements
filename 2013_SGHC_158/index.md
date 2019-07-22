@@ -5,6 +5,6 @@ tags:
   - Tort
   - Nuisance
   - Private nuisance
-layout: single
+
 ---
 

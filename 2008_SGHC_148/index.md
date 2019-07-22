@@ -28,6 +28,6 @@ tags:
     Whether employer breached duty to take reasonable care to provide safe
     system of work and effective supervision
   - Whether subcontractor liable for injuries suffered by worker
-layout: single
+
 ---
 

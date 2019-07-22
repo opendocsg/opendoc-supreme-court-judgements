@@ -9,6 +9,6 @@ tags:
   - Arbitration
   - Arbitral tribunal
   - Duties
-layout: single
+
 ---
 

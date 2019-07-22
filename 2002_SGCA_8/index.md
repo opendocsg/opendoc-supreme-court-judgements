@@ -13,6 +13,6 @@ tags:
   - Principle of restitutio in integrum
   - Whether fall in value claimable
   - Whether interest incurred on loan taken on equipment claimable
-layout: single
+
 ---
 

@@ -27,7 +27,7 @@ tags:
   - Negligence
   - Contributory negligence
   - Personal injury during course of employment
-layout: single
+
 ---
 # Xu Jin Long v Nian Chuan Construction Pte Ltd 
 

@@ -12,7 +12,7 @@ tags:
   - Contract
   - Discharge
   - Rescission
-layout: single
+
 ---
 # Sun Qi (formerly trading as Power King International) and another v Syscon Pte Ltd 
 

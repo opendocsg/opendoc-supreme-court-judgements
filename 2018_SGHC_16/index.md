@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Cross-border insolvency
   - Recognition of foreign insolvency proceedings
-layout: single
+
 ---
 

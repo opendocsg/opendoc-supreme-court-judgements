@@ -7,6 +7,6 @@ tags:
   - Civil procedure
   - Judgments and orders
   - Garnishee orders
-layout: single
+
 ---
 

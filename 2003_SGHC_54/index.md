@@ -17,6 +17,6 @@ tags:
     performed fellatio on victim and offences where accused received fellatio
     from victim
   - Penal Code (Cap 224) s 377
-layout: single
+
 ---
 

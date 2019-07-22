@@ -7,6 +7,6 @@ tags:
   - Voyage charterparties
   - Contract
   - Formation
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Adducing fresh evidence
-layout: single
+
 ---
 # Koh Chee Tong v Public Prosecutor 
 

@@ -8,7 +8,7 @@ tags:
   - Measure of damages
   - Tort
   - Identity of goods in issue
-layout: single
+
 ---
 # Sea-Shore Transportation Pte Ltd v Technik-Soil (Asia) Pte Ltd 
 

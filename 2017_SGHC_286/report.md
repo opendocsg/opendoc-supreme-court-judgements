@@ -16,7 +16,7 @@ tags:
   - Contract
   - Remedies
   - Penalties
-layout: single
+
 ---
 # Hon Chin Kong v Yip Fook Mun and another 
 

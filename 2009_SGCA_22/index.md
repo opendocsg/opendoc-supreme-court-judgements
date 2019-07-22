@@ -13,6 +13,6 @@ tags:
   - Remedies
   - Damages
   - Award and calculation of damages when both parties were in breach
-layout: single
+
 ---
 

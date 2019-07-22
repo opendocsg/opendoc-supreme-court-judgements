@@ -13,6 +13,6 @@ tags:
   - Voluntarily causing hurt
   - Victim suffering vertebra fracture
   - Whether three months\' imprisonment excessive
-layout: single
+
 ---
 

@@ -16,6 +16,6 @@ tags:
   - Remedies
   - Claim for restitution on constructive trust
   - 'Whether claim frivolous, vexatious or abuse of process of court'
-layout: single
+
 ---
 

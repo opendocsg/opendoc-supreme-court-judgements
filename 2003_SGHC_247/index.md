@@ -8,6 +8,6 @@ tags:
   - Land
   - Sale of land
   - Clause requiring purchaser to use best endeavours to apply for approval
-layout: single
+
 ---
 

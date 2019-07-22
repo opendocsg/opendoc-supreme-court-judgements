@@ -9,6 +9,6 @@ tags:
   - Formation
   - Contract
   - Breach
-layout: single
+
 ---
 

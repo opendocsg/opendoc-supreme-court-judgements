@@ -5,7 +5,7 @@ tags:
   - Unincorporated associations and trade unions
   - Friendly societies
   - Offences
-layout: single
+
 ---
  S/No Abbreviation Description 
 

@@ -19,6 +19,6 @@ tags:
   - Appeal
   - Findings of fact by trial judge
   - Whether trial judge\'s findings should be interfered with
-layout: single
+
 ---
 

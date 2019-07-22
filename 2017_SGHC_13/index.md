@@ -6,6 +6,6 @@ tags:
   - Bail
   - Show cause hearing
   - Principles on forfeiture
-layout: single
+
 ---
 

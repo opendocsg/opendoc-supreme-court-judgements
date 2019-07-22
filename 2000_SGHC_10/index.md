@@ -4,6 +4,6 @@ title: >-
   Heng and
 subtitle: "[2000] SGHC 10 / 18\_January\_2000"
 tags: null
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Professional conduct
   - Grossly improper conduct
   - Practice Directions para 2.
-layout: single
+
 ---
 # The Law Society of Singapore v Disciplinary Committee 
 

@@ -6,7 +6,7 @@ tags:
   - Appeals
   - Leave
   - Corporate self-representation
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ding Horng Industrial Pte Ltd _v_ Sulzer Singapore Pte Ltd  

@@ -16,7 +16,7 @@ tags:
   - >-
     Whether landlord-vendor of property had duty to consult purchaser when
     tenant purported to terminate prior to completion of sale
-layout: single
+
 ---
 # Chen Con-Ling Tony v Quay Properties Pte Ltd 
 

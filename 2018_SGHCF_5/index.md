@@ -10,6 +10,6 @@ tags:
   - Maintenance
   - Wife
   - Mortgage Instalments
-layout: single
+
 ---
 

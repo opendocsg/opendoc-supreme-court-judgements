@@ -7,7 +7,7 @@ tags:
   - >-
     Applicant seeking extension of time to apply for leave of High Court to
     refer questions of law of public interest to Court of Appeal
-layout: single
+
 ---
 # Tee Kok Boon v Public Prosecutor 
 

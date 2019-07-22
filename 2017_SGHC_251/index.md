@@ -13,6 +13,6 @@ tags:
   - Remedies
   - Damages
   - Loss of chance
-layout: single
+
 ---
 

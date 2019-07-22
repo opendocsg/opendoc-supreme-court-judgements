@@ -11,7 +11,7 @@ tags:
   - Performance bond
   - Construction of terms of bond
   - Whether performance bond default or on-demand bond
-layout: single
+
 ---
 # Econ Piling Pte Ltd v Aviva General Insurance Pte Ltd and Another 
 

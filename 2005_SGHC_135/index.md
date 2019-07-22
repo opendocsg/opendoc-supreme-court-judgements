@@ -24,6 +24,6 @@ tags:
     Whether failure of minority shareholders to accept majority shareholders\'
     buy-out offer amounting to abuse of process of court
   - Proper order to make
-layout: single
+
 ---
 

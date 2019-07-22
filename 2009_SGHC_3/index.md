@@ -10,6 +10,6 @@ tags:
     Whether facts had been exceptional to warrant departure from benchmark
     custodial sentence
   - 'Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed)'
-layout: single
+
 ---
 

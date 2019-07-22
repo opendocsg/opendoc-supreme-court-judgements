@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Amendment
-layout: single
+
 ---
 # Tan Chin Lay Evelyn v Cheng Soo May Stacy 
 

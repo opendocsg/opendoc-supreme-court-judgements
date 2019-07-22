@@ -7,6 +7,6 @@ tags:
   - Illegitimate pressure
   - Role of manifest disadvantage in determining illegitimacy of pressure
   - Other factors relevant in assessing whether pressure exerted illegitimate
-layout: single
+
 ---
 

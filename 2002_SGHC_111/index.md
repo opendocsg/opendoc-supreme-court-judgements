@@ -30,6 +30,6 @@ tags:
   - Words and Phrases
   - \'In the prescribed manner\'
   - 's 62(a)(i) Bankruptcy Act (Cap 20, 2000 Ed)'
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Tort
   - Negligence
   - Causation
-layout: single
+
 ---
 # Noor Azlin Bte Abdul Rahman v Changi General Hospital Pte Ltd and others 
 

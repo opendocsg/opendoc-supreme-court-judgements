@@ -4,7 +4,7 @@ subtitle: "[2018] SGHCF 21 / Decision Date: 21\_December\_2018"
 tags:
   - Family Law
   - Procedure
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # TWD and another _v_ UQE  

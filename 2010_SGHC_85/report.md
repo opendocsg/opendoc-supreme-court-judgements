@@ -8,7 +8,7 @@ tags:
   - Breach
   - Building and construction law
   - Contractors’ duties
-layout: single
+
 ---
 # Animal Concerns Research & Education Society v ANA Contractor Pte Ltd and another 
 

@@ -7,6 +7,6 @@ tags:
   - Criminal Law
   - Special exceptions
   - Diminished responsibility
-layout: single
+
 ---
 

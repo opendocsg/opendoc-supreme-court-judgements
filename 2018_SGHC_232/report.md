@@ -20,7 +20,7 @@ tags:
   - Restitution
   - Unjust enrichment
   - Failure of consideration
-layout: single
+
 ---
 # Royal Melbourne Institute of Technology v Stansfield College Pte Ltd and another 
 

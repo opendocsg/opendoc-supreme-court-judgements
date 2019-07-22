@@ -13,7 +13,7 @@ tags:
   - Costs
   - Sanderson order
   - Bullock order
-layout: single
+
 ---
 # DBS Vickers Securities (Singapore) Pte Ltd v Chin Pang Joo and Another 
 

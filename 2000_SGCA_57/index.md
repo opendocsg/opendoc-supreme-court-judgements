@@ -33,6 +33,6 @@ tags:
   - >-
     Whether these words in agency agreement mean agreement automatically
     terminated or merely voidable
-layout: single
+
 ---
 

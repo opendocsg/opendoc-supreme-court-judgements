@@ -8,6 +8,6 @@ tags:
   - Criminal Law
   - Offences
   - Culpable Homicide
-layout: single
+
 ---
 

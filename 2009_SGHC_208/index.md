@@ -10,6 +10,6 @@ tags:
   - Quantity of drugs in possession
   - Evidence
   - Break in chain of evidence
-layout: single
+
 ---
 

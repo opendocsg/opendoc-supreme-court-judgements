@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Judgments and orders
   - Enforcement
-layout: single
+
 ---
 # KLW Holdings Ltd v Straitsworld Advisory Ltd and another 
 

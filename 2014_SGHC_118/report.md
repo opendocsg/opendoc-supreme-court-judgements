@@ -6,7 +6,7 @@ tags:
   - Offences
   - Culpable Homicide
   - Sentencing
-layout: single
+
 ---
 # Public Prosecutor v Low Chuan Woo 
 

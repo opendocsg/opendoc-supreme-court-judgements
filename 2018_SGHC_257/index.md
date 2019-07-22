@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Third-party litigation funding
-layout: single
+
 ---
 

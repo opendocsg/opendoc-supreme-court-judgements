@@ -7,6 +7,6 @@ tags:
   - Acceptance
   - Contract
   - Misrepresentation
-layout: single
+
 ---
 

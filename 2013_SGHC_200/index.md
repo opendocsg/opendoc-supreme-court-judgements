@@ -4,6 +4,6 @@ subtitle: "[2013] SGHC 200 / 08\_Oc\_tober\_2013"
 tags:
   - Arbitration
   - Discharge of Arbitrator
-layout: single
+
 ---
 

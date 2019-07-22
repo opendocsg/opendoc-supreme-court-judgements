@@ -5,7 +5,7 @@ tags:
   - Trusts
   - Resulting trusts
   - Presumed resulting trusts
-layout: single
+
 ---
 # Tan Chan Tee v Chen Tsui Yu and Another Suit 
 

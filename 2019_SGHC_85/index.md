@@ -5,6 +5,6 @@ tags:
   - Contract
   - Mistake
   - Unilateral mistake
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Guarantees and bonds
   - Credit and Security
   - Performance bond
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BWN _v_ BWO  

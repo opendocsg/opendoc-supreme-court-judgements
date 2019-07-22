@@ -15,7 +15,7 @@ tags:
     Whether the judge\'s actions at trial gave rise to a reasonable suspicion of
     personal animosity to the extent that there was a real danger of apparent
     bias
-layout: single
+
 ---
 # Wee Soon Kim Anthony v UBS AG 
 

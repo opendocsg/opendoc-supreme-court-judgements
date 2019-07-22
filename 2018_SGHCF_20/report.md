@@ -8,7 +8,7 @@ tags:
   - Locus standi
   - Non-parents
   - Wardship
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UMF _v_ UMG and another  

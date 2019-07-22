@@ -7,6 +7,6 @@ tags:
   - Damages
   - Mitigation
   - Innocent party\'s duty to mitigate loss
-layout: single
+
 ---
 

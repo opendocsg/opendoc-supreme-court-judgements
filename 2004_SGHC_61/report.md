@@ -16,7 +16,7 @@ tags:
     sub-contracts
   - Whether delays attributable to plaintiff
   - Whether defendant successful in proving counterclaim.
-layout: single
+
 ---
 # Newtech Engineering Construction Pte Ltd v BKB Engineering Construction Pte Ltd and 
 

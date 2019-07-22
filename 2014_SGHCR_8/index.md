@@ -11,6 +11,6 @@ tags:
   - Contractual Terms
   - Rules of Construction
   - Parole Evidence Rule
-layout: single
+
 ---
 

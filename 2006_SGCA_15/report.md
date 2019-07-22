@@ -17,7 +17,7 @@ tags:
     Whether judge hearing summons in chambers proceedings in High Court having
     power to set aside order of judge hearing winding-up proceedings also in
     High Court
-layout: single
+
 ---
 # Neo Corp Pte Ltd (in liquidation) v Neocorp Innovations Pte Ltd 
 

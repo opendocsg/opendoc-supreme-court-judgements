@@ -16,7 +16,7 @@ tags:
   - >-
     Whether use of these phrases in bill of lading suffic ient to exc lude
     shipowner\'s obligation to provide seaworthy vessel at c ommon law
-layout: single
+
 ---
 # Sunlight Mercantile Pte Ltd and Another v Ever Lucky Shipping Co Ltd 
 

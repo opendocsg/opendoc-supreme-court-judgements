@@ -18,6 +18,6 @@ tags:
   - Remedies
   - Remoteness of damage
   - Plaintiffs enter into negotiations with defendants
-layout: single
+
 ---
 

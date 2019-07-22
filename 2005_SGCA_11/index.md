@@ -35,6 +35,6 @@ tags:
   - Voluntariness
   - Accused did not challenge voluntariness of statements at trial
   - Whether trial judge correct to place weight on statements
-layout: single
+
 ---
 

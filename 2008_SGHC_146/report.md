@@ -8,7 +8,7 @@ tags:
   - Appellant convicted of voluntarily causing hurt
   - Victim a public transport worker
   - Appellant intoxicated during encounter
-layout: single
+
 ---
 # Wong Hoi Len v Public Prosecutor 
 

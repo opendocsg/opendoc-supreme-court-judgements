@@ -12,7 +12,7 @@ tags:
     Benefits) Act (Cap 65A, 2000 Rev Ed)
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 # Shaikh Farid v Public Prosecutor and other appeals 
 

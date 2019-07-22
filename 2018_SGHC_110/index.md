@@ -7,6 +7,6 @@ tags:
   - Implied terms
   - Trusts
   - Constructive trusts
-layout: single
+
 ---
 

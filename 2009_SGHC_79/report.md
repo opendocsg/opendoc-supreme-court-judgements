@@ -6,7 +6,7 @@ tags:
   - Testamentary capacity
   - Mental disability
   - Schizophrenic executing a will
-layout: single
+
 ---
 # George Abraham Vadakathu v Jacob George 
 

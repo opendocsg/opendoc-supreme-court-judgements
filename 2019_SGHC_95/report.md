@@ -11,7 +11,7 @@ tags:
   - Evidence
   - Proof of evidence
   - Onus of proof
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # HSBC Institutional Trust Services (Singapore) Ltd (trustee of Capitaland Mall Trust) _v_ Chief Assessor  

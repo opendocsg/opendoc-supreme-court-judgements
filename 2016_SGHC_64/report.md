@@ -25,7 +25,7 @@ tags:
   - Tort
   - Defamation
   - Fair comment
-layout: single
+
 ---
 # The Wellness Group Pte Ltd and another v OSIM International Ltd and others and another suit 
 

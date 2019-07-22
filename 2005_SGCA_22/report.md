@@ -10,7 +10,7 @@ tags:
     Whether appellant estopped from raising issue in present action because
     issue forming subject matter of previous proceedings between identical
     parties
-layout: single
+
 ---
 # Lee Tat Development Pte Ltd v Management Corporation of Grange Heights Strata Title No 
 

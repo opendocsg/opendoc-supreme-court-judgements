@@ -6,6 +6,6 @@ tags:
   - Breach
   - Commercial Transactions
   - Sale of Goods
-layout: single
+
 ---
 

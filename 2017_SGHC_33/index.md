@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Appropriate sentencing framework
   - Whether imprisonment in lieu of caning appropriate
-layout: single
+
 ---
 

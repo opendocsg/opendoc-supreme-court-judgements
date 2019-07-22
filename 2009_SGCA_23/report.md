@@ -17,7 +17,7 @@ tags:
   - >-
     Whether breach required to be repudiatory before termination clause might be
     relied on
-layout: single
+
 ---
 # Fu Yuan Foodstuff Manufacturer Pte Ltd v Methodist Welfare Services 
 

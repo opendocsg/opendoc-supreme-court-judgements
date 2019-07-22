@@ -28,6 +28,6 @@ tags:
   - Copyright
   - Ownership
   - Plaintiff using cartographic raw materials to create digital map images
-layout: single
+
 ---
 

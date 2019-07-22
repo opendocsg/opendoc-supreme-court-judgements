@@ -8,6 +8,6 @@ tags:
     Engaging in business or trade of conveying prohibited immigrants to or out
     of Singapore
   - Whether act or transaction need to be successful or completed
-layout: single
+
 ---
 

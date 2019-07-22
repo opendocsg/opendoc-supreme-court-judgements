@@ -13,7 +13,7 @@ tags:
   - Landlord and tenant
   - termination of leases
   - forfeiture
-layout: single
+
 ---
 # Oriental Investments (SH) Pte Ltd v Catalla Investments Pte Ltd 
 

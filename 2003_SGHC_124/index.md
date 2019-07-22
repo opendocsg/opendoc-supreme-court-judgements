@@ -10,6 +10,6 @@ tags:
   - Confidentiality
   - Documents
   - Documents from arbitration proceedings used in court
-layout: single
+
 ---
 

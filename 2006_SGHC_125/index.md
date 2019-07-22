@@ -13,6 +13,6 @@ tags:
   - >-
     Whether application raised issues of law or fact of sufficient difficulty or
     complexity
-layout: single
+
 ---
 

@@ -41,7 +41,7 @@ tags:
   - >-
     Whether appellant having to prove hypothetical action on balance of
     probabilities or show \"real and measurable chance\"
-layout: single
+
 ---
 # Asia Hotel Investments Ltd v Starwood Asia Pacific Management Pte Ltd and Another 
 

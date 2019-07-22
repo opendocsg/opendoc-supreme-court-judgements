@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Bankruptcy application disputed by debtor
-layout: single
+
 ---
 

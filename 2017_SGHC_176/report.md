@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Benchmark sentences
-layout: single
+
 ---
 # Public Prosecutor v Ganesan Sivasankar 
 

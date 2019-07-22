@@ -10,6 +10,6 @@ tags:
   - Negligent Misrepresentation
   - Agency
   - Agent’s warranty of authority
-layout: single
+
 ---
 

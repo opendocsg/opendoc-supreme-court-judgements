@@ -5,7 +5,7 @@ tags:
   - Contract
   - Mistake
   - Unilateral mistake
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Wong Chong Hui and another _v_ Lim Siong Hoe Lawrence  

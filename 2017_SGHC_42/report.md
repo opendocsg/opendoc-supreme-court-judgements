@@ -9,7 +9,7 @@ tags:
   - Judicial Review
   - Administrative Law
   - Discretionary Powers
-layout: single
+
 ---
 # AXY and others v Comptroller of Income Tax (Attorney-General, intervener) 
 

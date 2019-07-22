@@ -10,7 +10,7 @@ tags:
   - Award
   - Setting aside
   - Impartiality or independence
-layout: single
+
 ---
 # PT Central Investindo v Franciscus Wongso and others and another matter 
 

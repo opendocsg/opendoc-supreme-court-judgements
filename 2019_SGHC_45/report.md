@@ -10,7 +10,7 @@ tags:
   - Legal Profession
   - Professional conduct
   - Breach
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Oversea-Chinese Banking Corp Ltd _v_ Yeo Hui Keng (Tan Peng Chin LLC, third party)  

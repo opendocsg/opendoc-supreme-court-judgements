@@ -17,6 +17,6 @@ tags:
     third party
   - Whether plaintiff clearly and unequivocally consenting to assignment
   - Whether defence of estoppel applied
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Tort
   - Defamation
   - Publication
-layout: single
+
 ---
 

@@ -32,6 +32,6 @@ tags:
   - >-
     Whether terms ought to be implied into agency agreement in favour of
     remisier
-layout: single
+
 ---
 

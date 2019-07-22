@@ -6,7 +6,7 @@ tags:
   - Dispute resolution
   - Adjudication
   - Setting aside
-layout: single
+
 ---
 # Linkforce Pte Ltd v Kajima Overseas Asia Pte Ltd 
 

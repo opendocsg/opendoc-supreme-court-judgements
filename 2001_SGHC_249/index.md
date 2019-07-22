@@ -54,6 +54,6 @@ tags:
   - Insurance
   - Policyholders
   - Extent of policy\'s coverage
-layout: single
+
 ---
 

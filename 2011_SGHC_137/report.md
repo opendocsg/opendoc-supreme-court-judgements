@@ -5,7 +5,7 @@ tags:
   - criminal law
   - offences
   - culpable homicide
-layout: single
+
 ---
 # Public Prosecutor v Tan Teck Soon 
 

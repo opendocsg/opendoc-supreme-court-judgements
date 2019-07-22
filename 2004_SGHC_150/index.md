@@ -12,6 +12,6 @@ tags:
   - >-
     Whether plaintiffs successful in proving loss with regards to investigation
     expenses
-layout: single
+
 ---
 

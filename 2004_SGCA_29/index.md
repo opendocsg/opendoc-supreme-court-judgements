@@ -53,6 +53,6 @@ tags:
   - '\"Authorised, directed and/or procured\"'
   - Whether phrase limited to single positive act
   - Whether phrase includes omissions forming negligent course of conduct
-layout: single
+
 ---
 

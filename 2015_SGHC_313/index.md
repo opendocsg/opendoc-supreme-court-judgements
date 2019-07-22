@@ -9,6 +9,6 @@ tags:
   - Appeal
   - Appeal against mandatory minimum sentence
   - Summary rejection of appeal
-layout: single
+
 ---
 

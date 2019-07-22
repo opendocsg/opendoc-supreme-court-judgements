@@ -10,6 +10,6 @@ tags:
   - Breach of trust
   - Equity
   - Fraud
-layout: single
+
 ---
 

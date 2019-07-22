@@ -6,7 +6,7 @@ tags:
   - Admiralty Jurisdiction and Arrest
   - Civil Procedure
   - Service
-layout: single
+
 ---
 # The “URSUS” and other matters 
 

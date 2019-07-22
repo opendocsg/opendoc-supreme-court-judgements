@@ -6,6 +6,6 @@ subtitle: "[2014] SGHC 232 / 04\_November\_2014"
 tags:
   - Civil Procedure
   - Summary Judgment
-layout: single
+
 ---
 

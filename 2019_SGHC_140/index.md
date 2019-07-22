@@ -7,6 +7,6 @@ tags:
   - Criminal Law
   - Offences
   - Hurt
-layout: single
+
 ---
 

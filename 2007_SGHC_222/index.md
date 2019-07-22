@@ -8,6 +8,6 @@ tags:
   - Insurance
   - Interpretation of clauses in life policy
   - Whether broad or strict interpretation should apply
-layout: single
+
 ---
 

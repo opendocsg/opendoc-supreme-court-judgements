@@ -8,7 +8,7 @@ tags:
   - Transactions with client -Prohibited borrowing transaction
   - Nature of solicitor and client relationship
   - Absence of independent legal advice
-layout: single
+
 ---
 # The Law Society of Singapore v Devadas Naidu 
 

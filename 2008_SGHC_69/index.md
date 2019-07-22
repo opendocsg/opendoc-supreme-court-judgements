@@ -21,6 +21,6 @@ tags:
   - Land
   - Compulsory acquisitions
   - 'Section 5 Land Acquisition Act (Cap 152, 1985 Rev Ed)'
-layout: single
+
 ---
 

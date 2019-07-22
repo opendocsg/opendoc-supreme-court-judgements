@@ -5,7 +5,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Teo Seng Hoe (alias Tew Seng Hoe) v IDV Concepts Pte Ltd and others 
 

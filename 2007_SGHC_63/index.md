@@ -17,6 +17,6 @@ tags:
     Sections 2(1), 2(9)(a), 29(1) Building Maintenance and Strata Management Act
     2004 (No 47 of 2004), ss 3, 48(1)(b) Land Titles (Strata) Act (Cap 158, 1999
     Rev Ed)
-layout: single
+
 ---
 

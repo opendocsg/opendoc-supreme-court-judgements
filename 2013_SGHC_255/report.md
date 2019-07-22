@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Employment of Foreign Manpower Act (Cap 91A. 2009 Rev Ed)
-layout: single
+
 ---
 # Wu Guo Hao Max v Public Prosecutor 
 

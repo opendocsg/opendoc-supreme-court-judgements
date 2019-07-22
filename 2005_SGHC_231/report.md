@@ -17,7 +17,7 @@ tags:
   - >-
     Sections 83(1), 83(2)(b), 83(2)(h)Legal Profession Act (Cap 161, 2001 Rev
     Ed)
-layout: single
+
 ---
 # Law Society of Singapore v Tham Kok Leong Thomas 
 

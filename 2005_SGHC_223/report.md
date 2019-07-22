@@ -28,7 +28,7 @@ tags:
     care as occupier
   - Whether employee\'s injuries sustained in manner alleged
   - Whether third party breaching duty to provide safe system of work
-layout: single
+
 ---
 # Sim Cheng Soon v BT Engineering Pte Ltd and Another 
 

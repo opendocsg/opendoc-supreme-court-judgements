@@ -7,7 +7,7 @@ tags:
   - Guarantees and bonds
   - Credit and security
   - Performance bond
-layout: single
+
 ---
 # Milan International Pte Ltd v Cluny Development Pte Ltd and another 
 

@@ -8,6 +8,6 @@ tags:
   - Trusts
   - Constructive Trusts
   - Common Intention Constructive Trusts
-layout: single
+
 ---
 

@@ -11,7 +11,7 @@ tags:
   - Criminal conspiracy
   - Criminal procedure and sentencing
   - Sentencing
-layout: single
+
 ---
 # Goldring, Timothy Nicholas v Public Prosecutor and other appeals 
 

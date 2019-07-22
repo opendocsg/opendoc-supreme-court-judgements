@@ -5,7 +5,7 @@ tags:
   - Land
   - interest in land
   - tenancy in common
-layout: single
+
 ---
 # Emmanuel Priya Ethel Anne v Su Emmanuel and Another 
 

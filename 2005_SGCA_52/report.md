@@ -23,7 +23,7 @@ tags:
     Whether appropriate to rely on foreign tax legislation and foreign decisions
     interpreting such legislation as aids to interpretation of local tax
     legislation
-layout: single
+
 ---
 # JD Ltd v Comptroller of Income Tax 
 

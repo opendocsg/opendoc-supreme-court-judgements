@@ -7,6 +7,6 @@ tags:
   - Arbitration
   - Arbitral Tribunal
   - Jurisdiction
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Waiver
   - Res judicata
   - Issue estoppel
-layout: single
+
 ---
 

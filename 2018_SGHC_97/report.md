@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Appropriate sentencing framework
-layout: single
+
 ---
 # Public Prosecutor v Nimalan Ananda Jothi and another 
 

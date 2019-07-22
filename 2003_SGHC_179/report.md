@@ -8,7 +8,7 @@ tags:
   - >-
     Whether inordinate delay in seeking declaration may deprive claimant of
     declaratory judgment.
-layout: single
+
 ---
 # Gan Lai Hock v Singapore School Transport Association and Others 
 

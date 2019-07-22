@@ -7,6 +7,6 @@ tags:
   - Contributory negligence
   - Damages
   - Apportionment
-layout: single
+
 ---
 

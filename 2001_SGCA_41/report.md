@@ -15,7 +15,7 @@ tags:
   - >-
     Whether breach of obligations under indemnity gives rise to action for
     damages at law
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 1933 v Liang Huat Aluminium Ltd 
 

@@ -8,6 +8,6 @@ tags:
   - Trafficking in controlled drugs
   - Defence of lack of knowledge of quantity of drugs in bag
   - Whether defence believable
-layout: single
+
 ---
 

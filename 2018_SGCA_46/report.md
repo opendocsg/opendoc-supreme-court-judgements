@@ -14,7 +14,7 @@ tags:
   - Companies
   - Oppression
   - Separate legal personality
-layout: single
+
 ---
 # Thio Syn Kym Wendy and others v Thio Syn Pyn and others and other appeals 
 

@@ -14,6 +14,6 @@ tags:
   - Purposes for grant
   - Protection of contractual rights
   - Whether adequacy of damages sole consideration
-layout: single
+
 ---
 

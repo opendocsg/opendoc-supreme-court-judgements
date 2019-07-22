@@ -7,7 +7,7 @@ tags:
   - Arbitration
   - Recourse against award
   - Award under Arbitration Act
-layout: single
+
 ---
 # Front Row Investment Holdings (Singapore) Pte Ltd v Daimler South East Asia Pte Ltd 
 

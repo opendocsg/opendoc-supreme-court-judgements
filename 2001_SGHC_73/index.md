@@ -25,6 +25,6 @@ tags:
     Whether failure of prosecution to call material witness in present case
     warranted drawing of adverse inference
   - 's 116 illustration (g) Evidence Act (Cap 97, 1997 Ed)'
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Credit and Security
   - Performance bond
   - Whether call on performance bond was unconscionable
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Ryobi Tactics Pte Ltd _v_ UES Holdings Pte Ltd and another and another matter  

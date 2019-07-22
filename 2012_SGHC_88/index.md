@@ -11,6 +11,6 @@ tags:
   - Land
   - caveats
   - wrongful lodgment
-layout: single
+
 ---
 

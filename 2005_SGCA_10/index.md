@@ -12,6 +12,6 @@ tags:
   - Whether set-off notices reasonably accurate
   - Whether such issues amounting to disputes to be referred to arbitration
   - 'Section 6 Arbitration Act (Cap 10, 2002 Rev Ed)'
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - >-
     Section 13(3)(a) Building and Construction Industry Security of Payment Act
     (Cap 30B, 2006 Rev Ed)
-layout: single
+
 ---
 

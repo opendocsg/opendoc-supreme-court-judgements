@@ -26,7 +26,7 @@ tags:
   - >-
     Considerations of court when weighing mitigating factors for purposes of
     sentencing
-layout: single
+
 ---
 # Public Prosecutor v Siew Boon Loong 
 

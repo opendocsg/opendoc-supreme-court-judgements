@@ -10,6 +10,6 @@ tags:
   - Service
   - Substituted service
   - Instant messaging
-layout: single
+
 ---
 

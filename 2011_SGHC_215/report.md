@@ -6,7 +6,7 @@ tags:
   - breach
   - Building and Construction law
   - Building and Construction Contracts
-layout: single
+
 ---
 # SKK (S) Pte Ltd v Management Corporation Strata Title Plan No 1166 
 

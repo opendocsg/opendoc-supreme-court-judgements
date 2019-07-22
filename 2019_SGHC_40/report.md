@@ -6,7 +6,7 @@ tags:
   - Guarantees and indemnity
   - Contracts of indemnity
   - Discharge
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Liberty Sky Investments Ltd _v_ Goh Seng Heng and another  

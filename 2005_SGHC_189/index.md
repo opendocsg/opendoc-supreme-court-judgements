@@ -5,6 +5,6 @@ tags:
   - Damages
   - Assessment
   - Difference between \"loss of earnings\" and \"loss of earning capacity\"
-layout: single
+
 ---
 

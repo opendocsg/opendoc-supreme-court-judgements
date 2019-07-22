@@ -27,6 +27,6 @@ tags:
   - Unlawful Means Conspiracy
   - Trusts
   - Resulting Trusts
-layout: single
+
 ---
 

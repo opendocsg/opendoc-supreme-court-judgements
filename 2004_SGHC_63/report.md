@@ -19,7 +19,7 @@ tags:
   - Contract
   - Variation
   - Effect of addenda on MOU.
-layout: single
+
 ---
 # Mohamed Bassatne and Others v Rifaat El Gohary and Others 
 

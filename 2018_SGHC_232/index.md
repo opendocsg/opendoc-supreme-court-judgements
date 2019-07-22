@@ -20,6 +20,6 @@ tags:
   - Restitution
   - Unjust enrichment
   - Failure of consideration
-layout: single
+
 ---
 

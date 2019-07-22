@@ -9,6 +9,6 @@ tags:
     and purchase of shares
   - Whether implied term was condition
   - Remedies
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Assessment
   - Measure of damages
   - Personal injuries cases
-layout: single
+
 ---
 

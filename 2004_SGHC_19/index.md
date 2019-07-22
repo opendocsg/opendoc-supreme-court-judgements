@@ -22,6 +22,6 @@ tags:
   - Negligence
   - Res ipsa loquitur
   - When principle should be applied
-layout: single
+
 ---
 

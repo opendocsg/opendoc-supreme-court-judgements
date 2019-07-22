@@ -5,7 +5,7 @@ tags:
   - Contract
   - Illegality and public policy
   - Restraint of trade
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # World Fuel Services (Singapore) Pte Ltd _v_ Xie Sheng Guo  

@@ -39,7 +39,7 @@ tags:
   - Trade Marks and Trade Names
   - Revocation
   - Genuine use for five years following registration
-layout: single
+
 ---
 # Wing Joo Loong Ginseng Hong (Singapore) Co Pte Ltd v Qinghai Xinyuan Foreign Trade Co 
 

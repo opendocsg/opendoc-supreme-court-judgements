@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Extension of time
   - Application for extension of time for further arguments
-layout: single
+
 ---
 # Kunal Gobind Lalchandani and Another v Konduri Prakash Murthy 
 

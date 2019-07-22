@@ -34,6 +34,6 @@ tags:
   - >-
     Whether plaintiffs\' costs in respect of Coroner\'s Inquiry into death of
     deceased claimable as special damages
-layout: single
+
 ---
 

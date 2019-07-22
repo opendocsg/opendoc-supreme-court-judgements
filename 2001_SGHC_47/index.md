@@ -9,6 +9,6 @@ tags:
   - >-
     Whether case of sufficient difficulty and complexity that local counsel
     unable to adequately and ably handle
-layout: single
+
 ---
 

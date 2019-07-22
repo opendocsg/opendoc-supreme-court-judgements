@@ -20,6 +20,6 @@ tags:
     Principles for awarding damages for wrongful refusal to withdraw caveat
     against registered land
   - 'Section 129(1) Land Titles Act (Cap 157, 2004 Rev Ed)'
-layout: single
+
 ---
 

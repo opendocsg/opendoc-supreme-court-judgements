@@ -14,6 +14,6 @@ tags:
   - >-
     Whether clauses in memorandum were condition precedents or mere statements
     of intention.
-layout: single
+
 ---
 

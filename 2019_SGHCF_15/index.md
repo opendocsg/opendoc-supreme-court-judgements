@@ -5,6 +5,6 @@ tags:
   - Mental Disorders and Treatment
   - Legal capacity
   - Mental Capacity Act
-layout: single
+
 ---
 

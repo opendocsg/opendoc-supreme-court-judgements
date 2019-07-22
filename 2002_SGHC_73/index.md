@@ -28,6 +28,6 @@ tags:
     \'warehousing\'
   - Words and Phrases
   - \'Change of the use\'
-layout: single
+
 ---
 

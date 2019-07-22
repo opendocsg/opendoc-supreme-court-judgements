@@ -16,7 +16,7 @@ tags:
   - Fitness for purpose warranty
   - Scope of works
   - Variation
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Global Switch (Property) Singapore Pte Ltd _v_ Arup Singapore Pte Ltd  

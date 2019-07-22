@@ -16,7 +16,7 @@ tags:
   - Contractual terms
   - Implied terms
   - Implied duty to cooperate
-layout: single
+
 ---
 # Tan Chin Hoon and others v Tan Choo Suan (in her personal capacity and as executrix of the 
 

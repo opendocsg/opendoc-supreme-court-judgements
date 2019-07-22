@@ -4,6 +4,6 @@ title: >-
   Corporation and
 subtitle: "[2008] SGHC 73 / 15\_May\_2008"
 tags: null
-layout: single
+
 ---
 

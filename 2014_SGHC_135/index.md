@@ -6,6 +6,6 @@ tags:
   - Offences
   - Property
   - Receiving stolen property
-layout: single
+
 ---
 

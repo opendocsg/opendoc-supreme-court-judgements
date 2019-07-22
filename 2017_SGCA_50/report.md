@@ -10,7 +10,7 @@ tags:
   - Election
   - Statutory Interpretation
   - Constitutional Provisions
-layout: single
+
 ---
 # Tan Cheng Bock v Attorney-General 
 

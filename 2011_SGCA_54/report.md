@@ -9,7 +9,7 @@ tags:
   - breach of contract
   - effect of breach
   - section 13 Sale of Goods Act
-layout: single
+
 ---
 # Chai Cher Watt (trading as Chuang Aik Engineering Works) v SDL Technologies Pte Ltd and 
 

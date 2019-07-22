@@ -12,7 +12,7 @@ tags:
   - >-
     Whether evidence establishing that accused had committed an offence under
     Section 140(1)(i) Women\'s Charter [Cap.353, 1997 Rev Ed]
-layout: single
+
 ---
 # Public Prosecutor v XT 
 

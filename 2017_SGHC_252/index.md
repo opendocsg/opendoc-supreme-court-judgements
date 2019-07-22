@@ -7,6 +7,6 @@ tags:
   - Criminal Law
   - Statutory offences
   - 'Work Injury Compensation Act (Cap 354, 2009 Rev Ed)'
-layout: single
+
 ---
 

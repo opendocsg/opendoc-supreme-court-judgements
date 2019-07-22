@@ -11,6 +11,6 @@ tags:
   - Economic
   - Illegality and public policy
   - Statutory illegality
-layout: single
+
 ---
 

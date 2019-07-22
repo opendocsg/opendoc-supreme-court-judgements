@@ -15,6 +15,6 @@ tags:
   - Legal Profession
   - Professional conduct
   - Solicitor\'s exorbitant actions resulting in escalating costs
-layout: single
+
 ---
 

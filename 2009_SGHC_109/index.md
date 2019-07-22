@@ -25,6 +25,6 @@ tags:
   - Duty of care
   - Who was an occupier
   - Whether there was control
-layout: single
+
 ---
 

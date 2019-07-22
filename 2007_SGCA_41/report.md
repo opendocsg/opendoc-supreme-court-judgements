@@ -26,7 +26,7 @@ tags:
   - Duty of care
   - Auditors
   - Whether auditor owing duty to detect fraud
-layout: single
+
 ---
 # PlanAssure PAC (formerly known as Patrick Lee PAC) v Gaelic Inns Pte Ltd 
 

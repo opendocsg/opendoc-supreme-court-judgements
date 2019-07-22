@@ -17,7 +17,7 @@ tags:
   - >-
     Whether resolution passed unanimously by remaining directors valid -Sections
     392(1), 392(2) Companies Act (Cap 50, 1994 Rev Ed)
-layout: single
+
 ---
 # Golden Village Multiplex Pte Ltd v Golden Harvest Films Distribution (Pte) Ltd and Another 
 

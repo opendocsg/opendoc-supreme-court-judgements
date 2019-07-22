@@ -17,6 +17,6 @@ tags:
   - Previous inconsistent statements
   - Whether reliance on portions out of context
   - 'Evidence Act (Cap 97, 1997 Rev Ed) s 147(3)'
-layout: single
+
 ---
 

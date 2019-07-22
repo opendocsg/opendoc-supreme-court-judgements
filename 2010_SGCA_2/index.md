@@ -12,6 +12,6 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Bankruptcy effects
-layout: single
+
 ---
 

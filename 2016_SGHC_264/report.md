@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Avoidance of transactions
   - Dispositions of property after commencement of insolvency proceedings
-layout: single
+
 ---
 # Centaurea International Pte Ltd (in liquidation) v Citus Trading Pte Ltd 
 

@@ -17,7 +17,7 @@ tags:
   - Family Law
   - Matrimonial assets
   - Division
-layout: single
+
 ---
 # UJP v UJQ 
 

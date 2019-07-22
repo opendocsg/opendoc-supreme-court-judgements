@@ -8,7 +8,7 @@ tags:
   - Criminal Law
   - Complicity
   - Common Intention
-layout: single
+
 ---
 # Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters 
 

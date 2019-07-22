@@ -8,6 +8,6 @@ tags:
   - Executors
   - Principles for awarding commission
   - Whether professional assistance should affect quantum of commission
-layout: single
+
 ---
 

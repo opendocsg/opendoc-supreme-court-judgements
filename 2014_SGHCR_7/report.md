@@ -8,7 +8,7 @@ tags:
   - Contract
   - electronic commerce
   - payment gateway services
-layout: single
+
 ---
 # Bogart Malls Pte Ltd v Enets Pte Ltd and another suit 
 

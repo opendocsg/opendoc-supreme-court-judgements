@@ -12,7 +12,7 @@ tags:
     transaction on ground of unfair preference or undervalue continues to reside
     in liquidator once company wound up
   - 'Sections 227T, 329 Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 # Neo Corp Pte Ltd (under judicial management) v Neocorp Innovations Pte Ltd and Another 
 

@@ -12,6 +12,6 @@ tags:
   - Unlawful Means conspiracy
   - Res judicata
   - Issue estoppel
-layout: single
+
 ---
 

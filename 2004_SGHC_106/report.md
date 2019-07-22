@@ -6,7 +6,7 @@ tags:
   - Bankruptcy
   - Discharge
   - Whether bankruptcy order ought to be discharged
-layout: single
+
 ---
 # Re Jeyaretnam Joshua Benjamin, ex parte Indra Krishnan (No 2) 
 

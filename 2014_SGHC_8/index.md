@@ -10,6 +10,6 @@ tags:
   - Misrepresentation
   - Fraud and deceit
   - Inducement
-layout: single
+
 ---
 

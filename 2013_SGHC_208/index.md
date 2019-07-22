@@ -8,6 +8,6 @@ tags:
   - Contract
   - Contractual Terms
   - Express Terms
-layout: single
+
 ---
 

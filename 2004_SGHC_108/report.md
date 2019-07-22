@@ -19,7 +19,7 @@ tags:
     Whether liquidator should place reasons for application on record and on
     oath
   - 'Rule 49 Companies (Winding Up) Rules (Cap 50, R 1, 1990 Rev Ed)'
-layout: single
+
 ---
 # Liquidator of W&P Piling Pte Ltd v Chew Yin What and Others 
 

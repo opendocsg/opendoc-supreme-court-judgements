@@ -6,7 +6,7 @@ tags:
   - Offences
   - Property
   - Theft
-layout: single
+
 ---
 # Geyabalan s/o K Ramiah and another v Public Prosecutor 
 

@@ -19,7 +19,7 @@ tags:
   - Contract
   - Formalities
   - Whether loan agreement binding on defendant company
-layout: single
+
 ---
 # Kwee Seng Chio Peter v Biogenics Sdn Bhd 
 

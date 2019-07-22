@@ -6,7 +6,7 @@ tags:
   - Appeal
   - Carnal intercourse against order of nature
   - Fellatio
-layout: single
+
 ---
 # Adam bin Darsin v Public Prosecutor 
 

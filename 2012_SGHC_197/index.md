@@ -14,6 +14,6 @@ tags:
   - unjust enrichment
   - Trusts
   - Constructive trusts
-layout: single
+
 ---
 

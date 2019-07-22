@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory offences
   - Income Tax Act
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Allswell Marketing Pte Ltd _v_ Public Prosecutor  

@@ -23,7 +23,7 @@ tags:
   - Negligence
   - Res ipsa loquitur maxim
   - Whether applicable
-layout: single
+
 ---
 # F v Chan Tanny 
 

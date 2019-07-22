@@ -20,6 +20,6 @@ tags:
   - Weight of evidence
   - Accuracy and authenticity of computer output
   - 'Operation of s 36(4) Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

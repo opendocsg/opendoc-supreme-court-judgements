@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Avoidance of transactions
   - Unfair preferences
-layout: single
+
 ---
 

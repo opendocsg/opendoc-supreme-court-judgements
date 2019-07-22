@@ -25,6 +25,6 @@ tags:
   - Respondent\'s pre-trial loss of earnings
   - Burden of proof
   - Whether burden discharged by appellants
-layout: single
+
 ---
 

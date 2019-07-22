@@ -8,7 +8,7 @@ tags:
   - Civil Procedure
   - Stay of Proceedings
   - Stay of Execution
-layout: single
+
 ---
 # Naseer Ahmad Akhtar v Suresh Agarwal and another 
 

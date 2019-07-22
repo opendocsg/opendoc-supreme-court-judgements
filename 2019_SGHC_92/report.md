@@ -7,7 +7,7 @@ tags:
   - Conflict of interest
   - Professional conduct
   - Grossly improper conduct
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Law Society of Singapore _v_ Ezekiel Peter Latimer  

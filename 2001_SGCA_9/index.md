@@ -8,6 +8,6 @@ tags:
   - Amendment
   - Whether application to amend notice of appeal should be allowed
   - O 55C Rules of Court
-layout: single
+
 ---
 

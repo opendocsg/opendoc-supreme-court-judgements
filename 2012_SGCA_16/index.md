@@ -6,6 +6,6 @@ tags:
   - Choice of Jurisdiction
   - Conflict of Laws
   - Natural Forum
-layout: single
+
 ---
 

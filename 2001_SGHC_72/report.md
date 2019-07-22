@@ -8,7 +8,7 @@ tags:
   - Whether scheme can discharge liabilities of guarantors of debtors
   - Position when one creditor objects to scheme
   - 's 210 Companies Act (Cap 50, 1994 Ed)'
-layout: single
+
 ---
 # Re CEL Tractors Pte Ltd 
 

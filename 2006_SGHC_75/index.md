@@ -14,6 +14,6 @@ tags:
     themselves directors\' fees when company insolvent
   - Whether directors acting bona fide in interest of company
   - 'Sections 99, 100, 101, 102 Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 

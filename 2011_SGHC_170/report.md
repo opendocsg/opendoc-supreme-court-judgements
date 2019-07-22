@@ -6,7 +6,7 @@ tags:
   - natural forum
   - CONFLICT OF LAWS
   - restraint of foreign proceedings
-layout: single
+
 ---
 # UBS AG v Telesto Investments Ltd and others and another matter 
 

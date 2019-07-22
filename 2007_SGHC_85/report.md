@@ -11,7 +11,7 @@ tags:
     warrant admission of Queen\'s Counsel
   - Application of the principle of equality of arms
   - 'Section 21 Legal Profession Act (Cap 161, 2001 Rev Ed)'
-layout: single
+
 ---
 # Re Millar Gavin James QC 
 

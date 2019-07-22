@@ -21,7 +21,7 @@ tags:
   - Tort
   - Negligence
   - Duty of care
-layout: single
+
 ---
 # AmFraser Securities Pte Ltd v Goh Chengyu 
 

@@ -7,7 +7,7 @@ tags:
   - Rape
   - Sexual assault by penetration
   - Abetment
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ BUT  

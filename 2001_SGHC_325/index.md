@@ -27,6 +27,6 @@ tags:
   - Negligence
   - Contributory negligence
   - Personal injury during course of employment
-layout: single
+
 ---
 

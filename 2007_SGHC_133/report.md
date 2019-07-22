@@ -15,7 +15,7 @@ tags:
     Whether court having power to order non-party to produce documents for
     inspection
   - 'Order 24 rr 6(2), 11(2) Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 # Alliance Management SA v Pendleton Lane P and Another and Another Suit 
 

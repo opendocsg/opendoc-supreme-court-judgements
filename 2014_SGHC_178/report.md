@@ -6,7 +6,7 @@ tags:
   - Sale of Goods
   - Contract
   - Contractual Terms
-layout: single
+
 ---
 # Culindo Livestock (1994) Pte Ltd v Ananda UK (China) Limited 
 

@@ -4,6 +4,6 @@ title: >-
   Francisco Lee
 subtitle: "[2001] SGHC 210 / 03\_August\_2001"
 tags: null
-layout: single
+
 ---
 

@@ -16,6 +16,6 @@ tags:
   - Words and Phrases
   - \'Void or voidable\'
   - 's 329 Companies Act (Cap 50, 1994 Ed)'
-layout: single
+
 ---
 

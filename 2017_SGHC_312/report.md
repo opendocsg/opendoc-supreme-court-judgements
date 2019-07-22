@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - Costs
   - Offer to settle
-layout: single
+
 ---
 # Long Kim Wing v LTX-Credence Singapore Pte Ltd 
 

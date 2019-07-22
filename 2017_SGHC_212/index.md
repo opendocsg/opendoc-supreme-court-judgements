@@ -12,6 +12,6 @@ tags:
   - Civil procedure
   - offer to settle
   - late offer
-layout: single
+
 ---
 

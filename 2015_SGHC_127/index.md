@@ -5,6 +5,6 @@ tags:
   - Tort
   - Negligence
   - Damages
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Offences
   - Culpable homicide
-layout: single
+
 ---
  1 st CHARGE sometime in the morning on 20 November 2014, at Block 406 Ang Mo Kio Avenue 10, #09-695, Singapore, did cause the death of one Tran Cam Ny, female/32 years old (‘the deceased’), to wit, by pressing a blanket down on her mouth and face area with your hands, with the knowledge that such an act was likely to cause the deceased’s death by suffocation, and you have thereby committed an offence of culpable homicide not amounting to murder punishable under Section 304(b) of the Penal Code, Chapter 224. 
 

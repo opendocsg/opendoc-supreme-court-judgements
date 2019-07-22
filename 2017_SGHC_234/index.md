@@ -8,6 +8,6 @@ tags:
   - Conflict of laws
   - Natural forum
   - Stay of proceedings
-layout: single
+
 ---
 

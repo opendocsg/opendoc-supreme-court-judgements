@@ -7,6 +7,6 @@ tags:
   - Criminal conspiracy
   - Statutory interpretation
   - Penal statutes
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Cross-border insolvency
   - Recognition of foreign insolvency proceedings
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # _Re_: Zetta Jet Pte Ltd and others (Asia Aviation Holdings Pte Ltd, intervener)  

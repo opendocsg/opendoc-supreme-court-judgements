@@ -5,7 +5,7 @@ tags:
   - Civil procedure
   - Appeals
   - Leave
-layout: single
+
 ---
 # Ong Wah Chuan v Seow Hwa Chuan 
 

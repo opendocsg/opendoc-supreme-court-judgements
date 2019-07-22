@@ -9,6 +9,6 @@ tags:
   - Writ of summons
   - Service out of jurisdiction
   - Substituted service
-layout: single
+
 ---
 

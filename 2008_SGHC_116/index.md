@@ -28,6 +28,6 @@ tags:
   - >-
     Sections 84A(1), 84A(9) and 84B(1)(b) Land Titles (Strata) Act (Cap 158,
     1999 Rev Ed)
-layout: single
+
 ---
 

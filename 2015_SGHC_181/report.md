@@ -8,7 +8,7 @@ tags:
   - Land
   - interest in land
   - joint tenancy
-layout: single
+
 ---
 # Ishak bin Abdul Kadir v Khoo Hui Ying 
 

@@ -24,7 +24,7 @@ tags:
   - >-
     Whether resolutions approved by simple majority of members as stated in
     rules of club
-layout: single
+
 ---
 # Petrie Christopher Harrisson v Jones Alan and Others 
 

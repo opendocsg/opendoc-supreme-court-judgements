@@ -7,7 +7,7 @@ tags:
   - Confidentiality agreement
   - Equity
   - Obligation of confidentiality
-layout: single
+
 ---
 # Adinop Co Ltd v Rovithai Ltd and another 
 

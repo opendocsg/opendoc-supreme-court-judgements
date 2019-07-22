@@ -6,6 +6,6 @@ tags:
   - Privileges
   - Legal professional privilege
   - Waiver
-layout: single
+
 ---
 

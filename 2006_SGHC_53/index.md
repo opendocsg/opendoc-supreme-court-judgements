@@ -29,6 +29,6 @@ tags:
   - >-
     Whether damages for breach of contract may include wasted pre-contract
     expenditure
-layout: single
+
 ---
 

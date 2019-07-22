@@ -49,6 +49,6 @@ tags:
     Whether exculpatory statements of co-accused could be taken into
     consideration
   - 'Section 30 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

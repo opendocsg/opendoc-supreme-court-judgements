@@ -14,6 +14,6 @@ tags:
   - Legal Profession
   - Conflict of interest
   - Former prospective client
-layout: single
+
 ---
 

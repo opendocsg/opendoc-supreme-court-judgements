@@ -18,6 +18,6 @@ tags:
   - Administrative Law
   - Disciplinary tribunals
   - Whether Disciplinary Committee directing itself to right inquiry
-layout: single
+
 ---
 

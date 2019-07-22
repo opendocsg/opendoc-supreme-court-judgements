@@ -7,6 +7,6 @@ tags:
   - Striking Out
   - Legal Profession
   - Disciplinary Procedures
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Importing of controlled drug
   - Six packets of cannabis found in appellant\'s motorcycle
   - Whether appellant knew of only one or all six packets of cannabis
-layout: single
+
 ---
 

@@ -12,6 +12,6 @@ tags:
   - Appellant misrepresenting that he would be able to stage event
   - Event not staged
   - Whether rescission by trial judge for fraudulent misrepresentation valid
-layout: single
+
 ---
 

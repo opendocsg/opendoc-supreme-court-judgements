@@ -7,7 +7,7 @@ tags:
   - Commercial Transactions
   - Sale of Goods
   - Sale of Goods Act
-layout: single
+
 ---
 # LED Linear (Asia) Pte Ltd v Krislite Pte Ltd 
 

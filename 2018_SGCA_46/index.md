@@ -14,6 +14,6 @@ tags:
   - Companies
   - Oppression
   - Separate legal personality
-layout: single
+
 ---
 

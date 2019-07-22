@@ -8,7 +8,7 @@ tags:
   - Administrative Law
   - Judicial review
   - Threshold for leave for judicial review
-layout: single
+
 ---
 # AXY and others v Comptroller of Income Tax 
 

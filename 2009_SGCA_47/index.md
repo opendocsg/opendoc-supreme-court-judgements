@@ -6,6 +6,6 @@ tags:
   - Resulting trusts
   - Evidence
   - Proof of evidence
-layout: single
+
 ---
 

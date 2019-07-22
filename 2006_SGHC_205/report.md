@@ -9,7 +9,7 @@ tags:
   - >-
     Developer allegedly promising unit in development to plaintiff contractor in
     return for plaintiff continuing work on development
-layout: single
+
 ---
 # Hong Leong Singapore Finance Ltd v United Overseas Bank Ltd 
 

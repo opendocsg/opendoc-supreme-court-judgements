@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Voluntarily causing grievous hurt
   - Road rage
-layout: single
+
 ---
 # S Gopikrishnan v Public Prosecutor 
 

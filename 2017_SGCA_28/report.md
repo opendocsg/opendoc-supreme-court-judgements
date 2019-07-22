@@ -13,7 +13,7 @@ tags:
   - Copyright
   - Subject matter
   - Compilations
-layout: single
+
 ---
 # Global Yellow Pages Ltd v Promedia Directories Pte Ltd and another matter 
 

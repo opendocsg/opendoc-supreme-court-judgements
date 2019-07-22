@@ -26,7 +26,7 @@ tags:
   - Exploitation of victim’s innocence
   - Serious psychological and emotional harm caused
   - Transmission of sexual disease
-layout: single
+
 ---
  (a) 
 

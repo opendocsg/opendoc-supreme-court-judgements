@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Avoidance of transactions
   - Unfair preferences
-layout: single
+
 ---
 # Liquidators of Progen Engineering Pte Ltd v Progen Holdings Ltd 
 

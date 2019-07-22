@@ -12,6 +12,6 @@ tags:
     general importance or \"special reasons\" existing
   - Applicable principles
   - 'Section 49(11) Arbitration Act (Cap 10, 2002 Rev Ed)'
-layout: single
+
 ---
 

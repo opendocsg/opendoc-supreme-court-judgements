@@ -7,7 +7,7 @@ tags:
   - Duty of care
   - Solicitor and client
   - Identity of client
-layout: single
+
 ---
 # Anwar Patrick Adrian and another v Ng Chong & Hue LLC and another 
 

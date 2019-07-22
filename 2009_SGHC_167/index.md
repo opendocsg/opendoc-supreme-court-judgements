@@ -6,6 +6,6 @@ tags:
   - Judgment on Admission
   - Landlord and Tenant
   - Recovery of possession
-layout: single
+
 ---
 

@@ -17,6 +17,6 @@ tags:
   - Freedom of speech
   - Interrogatories sought against journalist to expose identity of source
   - Whether \"newspaper rule\" existing in Singapore
-layout: single
+
 ---
 

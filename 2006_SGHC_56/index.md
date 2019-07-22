@@ -13,6 +13,6 @@ tags:
   - Maintenance
   - Wife
   - Applicable principles for determining appropriate amount of maintenance
-layout: single
+
 ---
 

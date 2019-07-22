@@ -17,7 +17,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Enhancement of sentence
-layout: single
+
 ---
 # Tee Teng Heng v Public Prosecutor 
 

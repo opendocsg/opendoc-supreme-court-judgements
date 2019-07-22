@@ -25,7 +25,7 @@ tags:
   - >-
     Whether recipient receiving funds knowing they were transferred in breach of
     trust
-layout: single
+
 ---
 # Comboni Vincenzo and Another v Shankar's Emporium (Pte) Ltd 
 

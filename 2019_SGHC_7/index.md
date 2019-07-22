@@ -9,6 +9,6 @@ tags:
   - Jurisdictional objection
   - Waiver
   - Patent errors
-layout: single
+
 ---
 

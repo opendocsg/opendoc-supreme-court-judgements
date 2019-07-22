@@ -26,6 +26,6 @@ tags:
   - Striking out
   - Res judicata
   - Whether doctrine applies
-layout: single
+
 ---
 

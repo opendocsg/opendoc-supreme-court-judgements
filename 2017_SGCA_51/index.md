@@ -10,6 +10,6 @@ tags:
   - Companies
   - Schemes of Arrangement
   - Assignment of debts
-layout: single
+
 ---
 

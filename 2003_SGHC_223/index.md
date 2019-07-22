@@ -6,6 +6,6 @@ tags:
   - Traffic accident
   - Whether defendant was liable
   - Whether there was contributory negligence on plaintiff\'s part.
-layout: single
+
 ---
 

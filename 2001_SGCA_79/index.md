@@ -6,6 +6,6 @@ tags:
   - Unconscionability
   - Performance guarantee
   - Call on performance guarantee
-layout: single
+
 ---
 

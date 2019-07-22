@@ -30,6 +30,6 @@ tags:
     Property Act
   - Whether wife entitled to pursue action as creditor
   - Whether conveyance made with intent to defraud creditors
-layout: single
+
 ---
 

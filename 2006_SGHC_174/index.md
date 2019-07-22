@@ -9,6 +9,6 @@ tags:
     Agreement between children of deceased Muslim man to honour deceased\'s wish
     to distribute part of his estate in equal shares between them
   - Whether agreement binding
-layout: single
+
 ---
 

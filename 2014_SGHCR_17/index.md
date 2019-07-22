@@ -6,6 +6,6 @@ tags:
   - Lis alibi Pendens
   - Doctrine of Forum Election
   - Stay
-layout: single
+
 ---
 

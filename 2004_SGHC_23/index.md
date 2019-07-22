@@ -10,6 +10,6 @@ tags:
   - Whether plaintiff insolvent
   - Whether there was transaction between parties
   - 'Section 98 Bankruptcy Act (Cap 20, 2000 Rev Ed)'
-layout: single
+
 ---
 

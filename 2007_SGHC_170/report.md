@@ -24,7 +24,7 @@ tags:
   - Caveats
   - Wrongful lodgment
   - Whether option holder may caveat interest in land
-layout: single
+
 ---
 # Reindeer Developments Inc v Mindpower Innovations Pte Ltd 
 

@@ -33,6 +33,6 @@ tags:
   - Tort
   - Misrepresentation
   - Negligent
-layout: single
+
 ---
 

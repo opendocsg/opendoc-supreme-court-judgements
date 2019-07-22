@@ -18,6 +18,6 @@ tags:
   - >-
     Sections 14(1), 15(1)(a), 15(1)(b), 81(1) and 81(2) Income Tax Act (Cap 134,
     1994 and 1999 Rev Eds)
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Damages
   - Compensation and damages
   - Workman falling at place of work and suffering injuries
-layout: single
+
 ---
 # Ng Hock Heng v Looi Kok Poh and Another 
 

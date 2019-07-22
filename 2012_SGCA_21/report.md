@@ -17,7 +17,7 @@ tags:
   - Credit and Security
   - Mortgage of personal property
   - Stocks and shares
-layout: single
+
 ---
 # Rainforest Trading Ltd and another v State Bank of India Singapore 
 

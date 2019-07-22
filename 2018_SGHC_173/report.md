@@ -13,7 +13,7 @@ tags:
   - Contract
   - Remedies
   - Rescission
-layout: single
+
 ---
 # Resorts World at Sentosa Pte Ltd v Lee Fook Kheun 
 

@@ -26,6 +26,6 @@ tags:
     completion
   - Receipt of rents by purchaser after functional completion
   - Entitlement of vendor to further sums on legal completion
-layout: single
+
 ---
 

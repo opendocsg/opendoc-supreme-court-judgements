@@ -7,6 +7,6 @@ tags:
   - Forms of punishment
   - Criminal Procedure and Sentencing
   - Mitigation
-layout: single
+
 ---
 

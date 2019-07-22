@@ -4,7 +4,7 @@ title: >-
   party)
 subtitle: "[2011] SGHC 18 / 20\_January\_2011"
 tags: null
-layout: single
+
 ---
  (a) 
 

@@ -23,7 +23,7 @@ tags:
   - >-
     Whether defendant estopped from asserting that parties entered into lump sum
     contract
-layout: single
+
 ---
 # China Construction (South Pacific) Development Co Pte Ltd v Spandeck Engineering (S) Pte 
 

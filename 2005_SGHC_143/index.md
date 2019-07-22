@@ -16,6 +16,6 @@ tags:
     Whether safe to convict third accused in absence of other cogent independent
     or corroborative evidence
   - 'Section 30 Evidence Act (Cap 97, 1997 Rev Ed)'
-layout: single
+
 ---
 

@@ -19,7 +19,7 @@ tags:
     Whether \"entire agreement\" clauses merged promises or assurances made in
     negotiations such that they had no contractual force save in so far as were
     reflected in Services Agreement
-layout: single
+
 ---
 # PT Panasonic Gobel Indonesia v Stratech Systems Ltd 
 

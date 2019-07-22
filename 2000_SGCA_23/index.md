@@ -20,6 +20,6 @@ tags:
   - Defamation
   - \"Fishing expedition\"
   - Discovery of documents and information
-layout: single
+
 ---
 

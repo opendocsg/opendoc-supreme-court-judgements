@@ -14,7 +14,7 @@ tags:
   - >-
     Whether contract for carriage made between account holder and freight
     forwarder
-layout: single
+
 ---
 # Smart Modular Technologies Sdn Bhd and Another v Federal Express (Singapore) Pte Ltd 
 

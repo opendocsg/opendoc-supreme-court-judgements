@@ -5,6 +5,6 @@ tags:
   - Legal Profession
   - Admission
   - Part-call application
-layout: single
+
 ---
 

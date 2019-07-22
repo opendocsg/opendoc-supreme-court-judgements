@@ -10,6 +10,6 @@ tags:
   - Conflict of Laws
   - Natural forum
   - Stay of proceedings
-layout: single
+
 ---
 

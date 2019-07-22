@@ -8,6 +8,6 @@ tags:
   - Cross-undertaking in damages
   - Damages
   - Measure of damages
-layout: single
+
 ---
 

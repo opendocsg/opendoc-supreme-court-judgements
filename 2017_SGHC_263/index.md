@@ -10,6 +10,6 @@ tags:
   - Adjudication
   - Adjudication review determination
   - Setting aside
-layout: single
+
 ---
 

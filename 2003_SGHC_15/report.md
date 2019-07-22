@@ -12,7 +12,7 @@ tags:
   - Employees’ duties
   - Employee set up competing business whilst in employ of employer
   - Whether employee in breach of fiduciary duty to employer
-layout: single
+
 ---
 # Abdul Latif Bin Mohamed Tahiar (trading as Canary Agencies) v Saeed Husain s/o Hakim 
 

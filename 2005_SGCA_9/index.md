@@ -15,6 +15,6 @@ tags:
   - Mitigating factors
   - Appellant young offender at time of offence and without criminal antecedents
   - Whether sufficient grounds for reduced sentence of imprisonment
-layout: single
+
 ---
 

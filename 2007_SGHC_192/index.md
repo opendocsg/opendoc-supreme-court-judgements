@@ -19,6 +19,6 @@ tags:
   - >-
     Whether non-competition clause is void for being in wrongful restraint of
     trade
-layout: single
+
 ---
 

@@ -32,6 +32,6 @@ tags:
   - >-
     Whether valuation report provided accurate indication of appropriate sale
     price in respect of two land parcels
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Wrongful lodgment
   - Whether caveat lodged against matrimonial home should be removed
   - 'Section 115 Land Titles Act (Cap 157, 1994 Rev Ed)'
-layout: single
+
 ---
 

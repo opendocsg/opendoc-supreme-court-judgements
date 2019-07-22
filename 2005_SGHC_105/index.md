@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Injunctions
   - Application for interim injunction restraining sale of shares
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Defendant accepting offer to settle after counterclaim was determined
   - Whether offer to settle remained open for acceptance
   - 'Order 22A Rules of Court (Cap 322, R 5, 2006 Rev Ed)'
-layout: single
+
 ---
 # Ong & Ong Pte Ltd v Fairview Developments Private Limited 
 

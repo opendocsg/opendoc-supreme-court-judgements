@@ -7,7 +7,7 @@ tags:
   - Tort
   - Negligence
   - Traffic accident
-layout: single
+
 ---
 # Cheung Fung (a patient) (suing by his litigation representative Goh Fun Cheng) v 
 

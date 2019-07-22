@@ -5,6 +5,6 @@ tags:
   - Building and Construction Law
   - statutes and regulations
   - building control
-layout: single
+
 ---
 

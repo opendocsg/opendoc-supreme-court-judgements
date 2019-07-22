@@ -5,7 +5,7 @@ tags:
   - Land
   - Compulsory Acquisitions
   - Compensation Payable
-layout: single
+
 ---
 # Novelty Dept Store Pte Ltd v Collector of Land Revenue 
 

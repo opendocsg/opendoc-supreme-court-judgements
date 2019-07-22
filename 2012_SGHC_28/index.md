@@ -11,6 +11,6 @@ tags:
   - statement of account
   - verification clauses
   - bank claiming that customer’s claim is barred by verification clause
-layout: single
+
 ---
 

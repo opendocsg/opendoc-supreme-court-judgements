@@ -6,6 +6,6 @@ tags:
   - winding up
   - Civil Procedure
   - stay of proceedings
-layout: single
+
 ---
 

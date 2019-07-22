@@ -6,6 +6,6 @@ tags:
   - Deeds
   - Interpretation
   - Construction of deed of settlement
-layout: single
+
 ---
 

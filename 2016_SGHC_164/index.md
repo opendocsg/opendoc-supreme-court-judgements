@@ -6,6 +6,6 @@ tags:
   - Misrepresentation
   - Sale of Goods
   - Implied Terms as to Quality
-layout: single
+
 ---
 

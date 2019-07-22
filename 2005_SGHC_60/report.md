@@ -13,7 +13,7 @@ tags:
   - >-
     Whether plaintiffs induced to inject more funds into business by
     defendant\'s misrepresentation that he had signed guarantee
-layout: single
+
 ---
 # Teo Song Kwang (alias Teo Richard) and Another v Vijayasundram Jeyabalan 
 

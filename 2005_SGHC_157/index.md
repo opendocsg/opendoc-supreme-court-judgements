@@ -20,6 +20,6 @@ tags:
   - Negligence
   - Res ipsa loquitur
   - Whether burden of proving negligence of defendant on plaintiff
-layout: single
+
 ---
 

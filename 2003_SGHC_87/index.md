@@ -15,6 +15,6 @@ tags:
   - Witness admitted spiking of drink
   - Credibility of such witness
   - Treatment of such witness
-layout: single
+
 ---
 

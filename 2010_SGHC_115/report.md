@@ -6,7 +6,7 @@ tags:
   - Breach of contract
   - Tort
   - Defamation
-layout: single
+
 ---
  (a) 
 

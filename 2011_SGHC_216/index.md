@@ -12,6 +12,6 @@ tags:
   - child
   - Family Law
   - custody
-layout: single
+
 ---
 

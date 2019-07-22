@@ -10,6 +10,6 @@ tags:
   - >-
     Whether court ought to interfere with consent order upon a proper
     construction of the order
-layout: single
+
 ---
 

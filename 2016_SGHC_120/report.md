@@ -13,7 +13,7 @@ tags:
   - Conspiracy
   - Trusts
   - Accessory liability
-layout: single
+
 ---
 # Beyonics Technology Ltd and another v Goh Chan Peng and others 
 

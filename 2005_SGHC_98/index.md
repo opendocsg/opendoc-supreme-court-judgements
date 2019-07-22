@@ -20,6 +20,6 @@ tags:
     Whether second defendant\'s actions taken in good faith and within scope of
     his office
   - Whether action should be struck out
-layout: single
+
 ---
 

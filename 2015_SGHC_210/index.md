@@ -5,6 +5,6 @@ tags:
   - Credit and security
   - remedies
   - writs of seizure and sale
-layout: single
+
 ---
 

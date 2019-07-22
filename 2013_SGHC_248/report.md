@@ -10,7 +10,7 @@ tags:
   - Arbitration
   - New York Convention
   - Grounds for refusal
-layout: single
+
 ---
 # Beijing Sinozonto Mining Investment Co Ltd v Goldenray Consortium (Singapore) Pte Ltd 
 

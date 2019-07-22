@@ -19,7 +19,7 @@ tags:
   - Appellant alleging \"low intellect\" and grave and sudden provocation
   - Failure to mention allegations
   - Charge and warning explained to appellant
-layout: single
+
 ---
 # Lau Lee Peng v Public Prosecutor 
 

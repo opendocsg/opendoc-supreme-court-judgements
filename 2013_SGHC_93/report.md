@@ -11,7 +11,7 @@ tags:
   - Contributory Negligence
   - Tort
   - Occupier’s Liability
-layout: single
+
 ---
 # Neo Siong Chew v Cheng Guan Seng and others 
 

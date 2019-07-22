@@ -28,7 +28,7 @@ tags:
   - >-
     Whether failure to mitigate affected cut-off date for award of consequential
     damages
-layout: single
+
 ---
 # Wee Poh Hueh Florence v Performance Motors Ltd 
 

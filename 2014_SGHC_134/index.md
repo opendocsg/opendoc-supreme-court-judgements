@@ -9,6 +9,6 @@ tags:
   - Estoppel
   - Restitution
   - Unjust enrichment
-layout: single
+
 ---
 

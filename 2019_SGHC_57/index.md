@@ -9,6 +9,6 @@ tags:
   - Admissibility of evidence
   - Documentary evidence
   - Proof of contents
-layout: single
+
 ---
 

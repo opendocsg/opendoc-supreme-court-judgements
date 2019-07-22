@@ -15,6 +15,6 @@ tags:
     Whether possession must be proven before presumption of trafficking can be
     relied on
   - 'ss 5(1)(a) & 17 Misuse of Drugs Act (Cap 185, 1998 Rev Ed)'
-layout: single
+
 ---
 

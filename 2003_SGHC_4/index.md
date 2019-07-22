@@ -11,6 +11,6 @@ tags:
   - >-
     Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed) s 16(1)(a)(ii), Rules
     of Court (Cap 322, R 5, 1997 Rev Ed) O 11 r 3(5), O 12 r 7
-layout: single
+
 ---
 

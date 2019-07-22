@@ -12,6 +12,6 @@ tags:
   - Fraudulent
   - Tort
   - Conspiracy
-layout: single
+
 ---
 

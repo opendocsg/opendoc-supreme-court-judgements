@@ -28,6 +28,6 @@ tags:
     justify removal of arbitrator
   - Whether substantial injustice caused to party seeking removal of arbitrator
   - 'Section 16(1)(b) Arbitration Act (Cap 10, 2002 Rev Ed)'
-layout: single
+
 ---
 

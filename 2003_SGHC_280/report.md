@@ -20,7 +20,7 @@ tags:
   - Maid abuse by de facto employer
   - Whether sentence manifestly excessive
   - 'Section 323 Penal Code (Cap 24, 1985 Rev Ed)'
-layout: single
+
 ---
 # Ho Yean Theng Jill v Public Prosecutor 
 

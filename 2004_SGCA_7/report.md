@@ -18,7 +18,7 @@ tags:
   - Proof of evidence
   - Confessions
   - Whether statements were confessions
-layout: single
+
 ---
 # Ismail bin Abdul Rahman v Public Prosecutor 
 

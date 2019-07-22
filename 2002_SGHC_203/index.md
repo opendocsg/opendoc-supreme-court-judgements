@@ -27,6 +27,6 @@ tags:
   - Whether identification of appellant wrong
   - Weight of identification evidence
   - Application of guidelines in Heng Aik Ren Thomas v PP
-layout: single
+
 ---
 

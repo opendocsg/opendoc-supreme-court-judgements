@@ -12,6 +12,6 @@ tags:
     Whether tribunal tacitly relying on information not disclosed to other party
     as required
   - Whether award made contrary to public policy
-layout: single
+
 ---
 

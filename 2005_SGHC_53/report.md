@@ -20,7 +20,7 @@ tags:
     Defendants appealing against quantum of assistant registrar\'s award of
     damages for pre-trial loss of earnings
   - Whether assistant registrar\'s award for pre-trial loss of earnings correct
-layout: single
+
 ---
 # Tan Woei Jinn v Thapjang Amorthap and Another 
 

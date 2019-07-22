@@ -6,6 +6,6 @@ tags:
   - Scheme of Arrangement
   - Partnership
   - Partners and Third Parties
-layout: single
+
 ---
 

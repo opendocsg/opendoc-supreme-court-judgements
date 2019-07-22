@@ -9,7 +9,7 @@ tags:
     ill-maintained exhaust duct commencing from and serving tenant\'s demised
     premises only in landlord\'s building
   - Landlord under contractual duty to clean and maintain \"all common areas\"
-layout: single
+
 ---
 # Clarke Quay Pte Ltd v Tan Hun Ling (trading as Sin Lok Cuisine)
 

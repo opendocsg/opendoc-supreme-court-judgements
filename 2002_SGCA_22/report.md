@@ -22,7 +22,7 @@ tags:
   - 's 94 proviso (f) Evidence Act (Cap 97, 1997 Ed)'
   - Words and Phrases
   - \'Procure\'
-layout: single
+
 ---
 # Tan Hock Keng v L and M Group Investments Ltd 
 

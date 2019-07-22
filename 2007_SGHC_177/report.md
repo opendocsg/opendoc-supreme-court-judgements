@@ -17,7 +17,7 @@ tags:
   - Benchmark sentences
   - Whether plea of guilt entitled offender to discount in sentence
   - One transaction and totality principle
-layout: single
+
 ---
 # Public Prosecutor v Mohamed Fadzli bin Abdul Rahim 
 

@@ -25,7 +25,7 @@ tags:
   - >-
     Whether trial judge erred in finding that respondent\'s confession was
     inadmissible as evidence
-layout: single
+
 ---
 # Public Prosecutor v Selvakumar Pillai s/o Suppiah Pillai 
 

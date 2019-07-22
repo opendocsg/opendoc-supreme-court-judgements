@@ -5,7 +5,7 @@ tags:
   - Damages
   - Measure of damages
   - Contract
-layout: single
+
 ---
 # Enholco Pte Ltd v Schonk, Antonius Martinus Mattheus and Another 
 

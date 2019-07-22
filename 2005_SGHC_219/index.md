@@ -23,6 +23,6 @@ tags:
   - >-
     Whether assessing such areas for tax in addition to units in shopping centre
     resulting in double taxation
-layout: single
+
 ---
 

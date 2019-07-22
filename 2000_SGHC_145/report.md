@@ -6,7 +6,7 @@ tags:
   - Registration
   - Distinctive character
   - Existing trade mark
-layout: single
+
 ---
 # Sime Darby Edible Products Ltd v Ngo Chew Hong Edible Oil Pte Ltd 
 

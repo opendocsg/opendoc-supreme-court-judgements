@@ -11,6 +11,6 @@ tags:
   - Architects
   - Building contract
   - Singapore Institute of Architects standard conditions
-layout: single
+
 ---
 

@@ -25,6 +25,6 @@ tags:
   - >-
     Whether defendants pleading common law defences of justification, qualified
     privilege and fair comment with sufficient particularity
-layout: single
+
 ---
 

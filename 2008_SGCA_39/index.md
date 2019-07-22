@@ -21,6 +21,6 @@ tags:
   - Civil Procedure
   - Duty of full and frank disclosure
   - Extent of disclosure of material facts in exparte hearings
-layout: single
+
 ---
 

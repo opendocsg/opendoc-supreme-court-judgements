@@ -8,6 +8,6 @@ tags:
   - TORT
   - occupier’s liability
   - duty of care to trespassers
-layout: single
+
 ---
 

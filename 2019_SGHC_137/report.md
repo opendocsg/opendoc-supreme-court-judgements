@@ -7,7 +7,7 @@ tags:
   - Substantial question of law
   - Employer’s liability for compensation
   - Accident arising out of employment
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Arpah bte Sabar and others _v_ Colex Environmental Pte Ltd  

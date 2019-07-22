@@ -8,6 +8,6 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Mentally disordered offenders
-layout: single
+
 ---
 

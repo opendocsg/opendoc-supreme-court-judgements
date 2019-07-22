@@ -12,6 +12,6 @@ tags:
   - Illegal moneylending
   - Guarantees and indemnities
   - Guarantor
-layout: single
+
 ---
 

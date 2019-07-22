@@ -4,6 +4,6 @@ subtitle: "[2011] SGHC 186 / 05\_August\_2011"
 tags:
   - Revenue Law
   - Contract
-layout: single
+
 ---
 

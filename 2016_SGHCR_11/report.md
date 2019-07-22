@@ -7,7 +7,7 @@ tags:
   - Judicial Precedent
   - Civil Procedure
   - Joinder of Parties
-layout: single
+
 ---
 # Actis Excalibur Ltd v KS Distribution Pte Ltd and others 
 

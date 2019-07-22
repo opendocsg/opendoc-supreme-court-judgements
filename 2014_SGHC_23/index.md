@@ -6,6 +6,6 @@ tags:
   - Offences
   - Murder
   - Re-sentencing
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Building Maintenance and Strata Management Act
   - Equity
   - Estoppel
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - CIVIL PROCEDURE
   - Interrogatories
   - application for leave
-layout: single
+
 ---
 # Dorsey James Michael v World Sport Group Pte Ltd 
 

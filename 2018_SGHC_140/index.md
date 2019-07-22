@@ -5,6 +5,6 @@ tags:
   - Companies
   - Striking off defunct companies
   - Restoration of struck off company
-layout: single
+
 ---
 

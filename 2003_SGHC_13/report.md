@@ -6,7 +6,7 @@ tags:
   - Strata titles
   - Adverse possession
   - Whether applicant had requisite exclusive possession
-layout: single
+
 ---
 # In the matter of Lot 114-69 Mukim XXII, Singapore (No 2) 
 

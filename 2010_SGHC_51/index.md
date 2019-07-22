@@ -9,6 +9,6 @@ tags:
   - Proof of Evidence
   - onus of proof
   - standard of proof
-layout: single
+
 ---
 

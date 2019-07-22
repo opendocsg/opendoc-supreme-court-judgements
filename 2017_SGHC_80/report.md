@@ -4,7 +4,7 @@ subtitle: "[2017] SGHC 80 / 11\_April\_2017"
 tags:
   - Legal Profession
   - professional conduct
-layout: single
+
 ---
 # Law Society of Singapore v Sum Chong Mun and another 
 

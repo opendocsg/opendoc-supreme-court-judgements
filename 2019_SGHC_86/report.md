@@ -17,7 +17,7 @@ tags:
   - Regulatory requirements
   - Listing and public offers
   - Catalist Rules
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Cheong Chee Hwa _v_ China Star Food Group Ltd (formerly known as Brooke Asia Ltd)  

@@ -5,7 +5,7 @@ tags:
   - Probate and Administration
   - Devolution on legal representatives
   - Complete Failure of Stirps
-layout: single
+
 ---
 # Re Estate of Lim Yew Teok, deceased 
 

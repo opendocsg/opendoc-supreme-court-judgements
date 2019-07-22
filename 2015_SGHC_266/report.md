@@ -5,7 +5,7 @@ tags:
   - Insolvency Law
   - Bankruptcy
   - Statutory Demand
-layout: single
+
 ---
 # Ramesh Mohandas Nagrani v United Overseas Bank Ltd 
 

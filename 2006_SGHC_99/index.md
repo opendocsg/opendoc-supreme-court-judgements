@@ -18,6 +18,6 @@ tags:
     Whether documents giving rise to dispute governed by exclusive jurisdiction
     clause
   - Whether sufficient grounds for granting stay shown
-layout: single
+
 ---
 

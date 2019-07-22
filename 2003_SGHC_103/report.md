@@ -13,7 +13,7 @@ tags:
   - Mitigation
   - Remorse
   - Whether evidence of genuine remorse shown
-layout: single
+
 ---
 # Chen Weixiong Jerriek v Public Prosecutor 
 

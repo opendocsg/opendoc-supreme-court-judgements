@@ -7,7 +7,7 @@ tags:
   - Access
   - Application to vary order on access
   - Relevant considerations
-layout: single
+
 ---
 # Re G (custody of an infant) 
 

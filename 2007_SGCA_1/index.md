@@ -8,6 +8,6 @@ tags:
   - >-
     Whether conditions laid down in Ladd v Marshall applicable to Registrar\'s
     Appeals vis-a-vis summary judgment proceedings
-layout: single
+
 ---
 

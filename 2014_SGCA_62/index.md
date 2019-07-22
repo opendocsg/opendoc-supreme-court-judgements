@@ -11,6 +11,6 @@ tags:
   - Contract
   - Breach
   - Repudiatory Breach
-layout: single
+
 ---
 

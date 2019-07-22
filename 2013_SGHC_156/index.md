@@ -11,6 +11,6 @@ tags:
   - Family law
   - Matrimonial assets
   - Variation
-layout: single
+
 ---
 

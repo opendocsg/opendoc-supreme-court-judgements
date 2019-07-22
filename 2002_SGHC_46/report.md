@@ -19,7 +19,7 @@ tags:
   - Proper approach to construction of penal provisions
   - Words and Phrases
   - \"waiter\"
-layout: single
+
 ---
 # Forward Food Management Pte Ltd and Another v Public Prosecutor 
 

@@ -10,7 +10,7 @@ tags:
   - Patents and Inventions
   - Infringement
   - Health Products (Therapeutic Products) Regulations 2016 (S 329/2016)
-layout: single
+
 ---
 # Millennium Pharmaceuticals, Inc v Drug Houses of Australia Pte Ltd 
 

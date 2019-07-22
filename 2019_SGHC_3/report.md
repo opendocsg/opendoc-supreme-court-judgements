@@ -5,7 +5,7 @@ tags:
   - Land
   - Strata titles
   - Collective sales
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lim Hun Joo and others _v_ Kok Yin Chong and others  

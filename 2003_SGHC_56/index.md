@@ -28,6 +28,6 @@ tags:
   - Tort
   - Misrepresentation
   - Whether there can be misrepresentation by silence
-layout: single
+
 ---
 

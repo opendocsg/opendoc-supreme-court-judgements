@@ -11,7 +11,7 @@ tags:
   - Contract
   - Remedies
   - Damages
-layout: single
+
 ---
 # CW Continental Corp v Patec Pte Ltd 
 

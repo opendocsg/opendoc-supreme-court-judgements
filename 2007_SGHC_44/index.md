@@ -8,6 +8,6 @@ tags:
   - Indirect contributions to matrimonial assets
   - Nonfinancial contributions to marriage
   - Effect on fair and equitable distribution of matrimonial assets
-layout: single
+
 ---
 

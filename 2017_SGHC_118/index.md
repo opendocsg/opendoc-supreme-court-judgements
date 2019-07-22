@@ -10,6 +10,6 @@ tags:
   - Deduction
   - Statutory Interpretation
   - Revenue statutes
-layout: single
+
 ---
 

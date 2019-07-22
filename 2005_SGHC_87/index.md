@@ -15,6 +15,6 @@ tags:
   - >-
     Whether defendants had continuous, open and exclusive physical possession
     coupled with intention to possess
-layout: single
+
 ---
 

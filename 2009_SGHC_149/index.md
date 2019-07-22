@@ -10,6 +10,6 @@ tags:
   - >-
     Strong compelling grounds needed before court exercises discretion to vacate
     chamber hearing dates
-layout: single
+
 ---
 

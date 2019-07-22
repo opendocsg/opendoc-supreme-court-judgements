@@ -9,7 +9,7 @@ tags:
   - Tort
   - Misrepresentation
   - Fraud and deceit
-layout: single
+
 ---
 # EA Apartments Pte Ltd v Tan Bek and others 
 

@@ -31,7 +31,7 @@ tags:
   - >-
     Whether wife\'s indirect contributions could constitute an improvement under
     s 112(10)(a)(ii) of the Women\'s Charter (Cap 353, 1997 Rev Ed).
-layout: single
+
 ---
 # Tan Bee Bee v Lim Kim Chin 
 

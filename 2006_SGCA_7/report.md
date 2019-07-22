@@ -10,7 +10,7 @@ tags:
     10(5) Income Tax Act
   - Whether income deriving from or accruing in Singapore
   - 'Sections 10(1), 10(5) Income Tax Act (Cap 134, 1996 Rev Ed)'
-layout: single
+
 ---
 # Comptroller of Income Tax v HY 
 

@@ -6,6 +6,6 @@ subtitle: "[2012] SGCA 9 / 31\_January\_2012"
 tags:
   - Companies
   - Schemes of arrangement
-layout: single
+
 ---
 

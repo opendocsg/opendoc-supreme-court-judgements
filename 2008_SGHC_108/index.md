@@ -26,6 +26,6 @@ tags:
     Whether defamation claim should be struck out for want of reasonable cause
     of action, being scandalous, frivolous or vexatious or abuse of process of
     court
-layout: single
+
 ---
 

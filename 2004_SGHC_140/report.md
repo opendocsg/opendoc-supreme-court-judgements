@@ -10,7 +10,7 @@ tags:
   - Civil Procedure
   - Interpleader
   - Nature of interpleader proceedings
-layout: single
+
 ---
 # Australia and New Zealand Banking Group Ltd v Ding Pei Chai and Others 
 

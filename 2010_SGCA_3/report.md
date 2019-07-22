@@ -8,7 +8,7 @@ tags:
   - Privity of Contract
   - Contract
   - Restraint of Trade
-layout: single
+
 ---
 # CLAAS Medical Centre Pte Ltd (formerly known as Aesthetics Associates Pte Ltd) v Ng Boon 
 

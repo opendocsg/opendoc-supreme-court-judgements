@@ -6,7 +6,7 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Drug trafficking
-layout: single
+
 ---
 # Public Prosecutor v Zamri Bin Mohd Tahir 
 

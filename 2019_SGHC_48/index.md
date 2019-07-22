@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Revision of proceedings
   - Section 370(1) Criminal Procedure Code
-layout: single
+
 ---
 

@@ -21,6 +21,6 @@ tags:
   - Transactions contrary to anti-deprivation principle
   - Credit and security
   - Equitable mortgage
-layout: single
+
 ---
 

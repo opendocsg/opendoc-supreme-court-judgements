@@ -13,6 +13,6 @@ tags:
   - >-
     Whether discovery of unrelated documents for purposes of comparison
     permissible
-layout: single
+
 ---
 

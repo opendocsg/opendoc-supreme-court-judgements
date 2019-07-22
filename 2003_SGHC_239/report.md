@@ -5,7 +5,7 @@ tags:
   - Contract
   - Formation
   - Whether binding contract entered into between parties.
-layout: single
+
 ---
 # Computer Interface Singapore Ltd v Compaq Computer Asia Pte Ltd 
 

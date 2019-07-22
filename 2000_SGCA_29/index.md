@@ -26,6 +26,6 @@ tags:
     Whether plaintiffs\' mark should be expunged or the term \"COFFEEMIX\"
     disclaimed
   - s 39(1) (a) Trade Marks Act
-layout: single
+
 ---
 

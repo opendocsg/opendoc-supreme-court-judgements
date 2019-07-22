@@ -11,6 +11,6 @@ tags:
   - Restitution
   - Unjust Enrichment
   - Total failure of consideration
-layout: single
+
 ---
 

@@ -33,7 +33,7 @@ tags:
   - Construction of statute
   - Purposive approach
   - 's 9A Interpretation Act (Cap 1, 1999 Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Heah Lian Khin 
 

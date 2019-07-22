@@ -6,7 +6,7 @@ tags:
   - Dispute Resolution
   - Alternative Dispute Resolution Procedures
   - Setting Aside of Adjudication Determination
-layout: single
+
 ---
 # Mataban Development Pte Ltd v Black Knight Warrior Pte Ltd 
 

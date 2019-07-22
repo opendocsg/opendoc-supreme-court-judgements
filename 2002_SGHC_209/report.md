@@ -18,7 +18,7 @@ tags:
   - Foreign worker regarding appellant as boss
   - Foreign worker receiving salary from appellant
   - Whether task of verifying immigration status delegable
-layout: single
+
 ---
 # Tan Choon Kin v Public Prosecutor 
 

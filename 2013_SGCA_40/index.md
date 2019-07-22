@@ -8,6 +8,6 @@ tags:
   - Criminal references
   - CRIMINAL PROCEDURE AND SENTENCING
   - Habeas corpus
-layout: single
+
 ---
 

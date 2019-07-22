@@ -7,6 +7,6 @@ tags:
   - Commercial Transactions
   - Sale of Goods
   - Sale of Goods Act
-layout: single
+
 ---
 

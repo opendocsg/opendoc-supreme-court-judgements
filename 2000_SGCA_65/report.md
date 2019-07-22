@@ -7,7 +7,7 @@ tags:
   - Damages
   - Mitigation
   - Innocent party\'s duty to mitigate loss
-layout: single
+
 ---
 # PT Master Mandiri v Yamazaki Construction (S) Pte Ltd 
 

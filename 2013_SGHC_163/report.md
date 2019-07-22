@@ -7,7 +7,7 @@ tags:
   - statutory illegality
   - Statutory Interpretation
   - definitions
-layout: single
+
 ---
 # Marina Bay Sands Pte Ltd v Ong Boon Lin Lester 
 

@@ -8,7 +8,7 @@ tags:
   - Civil procedure
   - Judgments and orders
   - Sealing orders
-layout: single
+
 ---
 # BBW v BBX and others 
 

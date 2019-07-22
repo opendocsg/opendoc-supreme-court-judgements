@@ -10,7 +10,7 @@ tags:
     relation to commercial property may be deducted from gross rental of such
     property in ascertaining annual value for purposes of property tax
   - 'Section 2 Property Tax Act (Cap 254, 1997 Rev Ed)'
-layout: single
+
 ---
 # BCH Retail Investment Pte Ltd v Chief Assessor 
 

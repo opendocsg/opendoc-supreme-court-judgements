@@ -13,6 +13,6 @@ tags:
   - Building and Construction Law
   - Guaranteed maximum price contract
   - Delay in completion
-layout: single
+
 ---
 

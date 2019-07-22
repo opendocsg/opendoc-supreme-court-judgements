@@ -12,6 +12,6 @@ tags:
   - >-
     Whether benefits received by respondent independent of any act of mitigation
     may be considered to reduce amount of damages payable by appellant
-layout: single
+
 ---
 

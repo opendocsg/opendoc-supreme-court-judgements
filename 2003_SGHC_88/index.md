@@ -12,6 +12,6 @@ tags:
   - Principles
   - Victim stabbed 14 times Â– Only one wound was potentially fatal
   - Relevance of this in view of the circumstances of the assault
-layout: single
+
 ---
 

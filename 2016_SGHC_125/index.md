@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Appeal
   - Summary rejection of appeal
-layout: single
+
 ---
 

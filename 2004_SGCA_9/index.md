@@ -8,6 +8,6 @@ tags:
   - Judge giving order on merits and costs on same day
   - Judge agreeing to hear further arguments on costs alone
   - Whether order on merits suspended
-layout: single
+
 ---
 

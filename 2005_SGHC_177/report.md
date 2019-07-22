@@ -33,7 +33,7 @@ tags:
   - >-
     Whether publication of defamatory statements motivated by malice and
     disproportionate response to attack
-layout: single
+
 ---
 # Tan Chor Chuan and Others v Tan Yeow Hiang Kenneth and Others 
 

@@ -13,7 +13,7 @@ tags:
   - >-
     Whether liquidator bound by estoppels against the company or an account
     stated with the company
-layout: single
+
 ---
 # Fustar Chemicals Ltd v Ong Soo Hwa (liquidator of Fustar Chemicals Pte Ltd) 
 

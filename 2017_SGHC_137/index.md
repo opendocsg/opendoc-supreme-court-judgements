@@ -7,6 +7,6 @@ tags:
   - Tort
   - Defamation
   - Malice
-layout: single
+
 ---
 

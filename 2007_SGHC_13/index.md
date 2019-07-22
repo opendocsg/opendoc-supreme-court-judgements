@@ -18,6 +18,6 @@ tags:
   - Nature and scope of auditor\'s duty of care
   - Whether auditor breaching such duty of care
   - Whether company contributorily negligent for loss suffered
-layout: single
+
 ---
 

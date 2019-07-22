@@ -12,6 +12,6 @@ tags:
   - Rules of construction
   - Companies
   - Reconstruction
-layout: single
+
 ---
 

@@ -10,6 +10,6 @@ tags:
   - Waiver
   - Contract
   - Breach
-layout: single
+
 ---
 

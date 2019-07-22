@@ -12,6 +12,6 @@ tags:
   - >-
     Whether there was breach of employer\'s duty to provide safe and secure
     workplace for employees
-layout: single
+
 ---
 

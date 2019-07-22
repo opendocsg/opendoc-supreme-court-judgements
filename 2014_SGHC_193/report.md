@@ -11,7 +11,7 @@ tags:
   - Criminal law
   - General Exceptions
   - Mistake of fact
-layout: single
+
 ---
 # Leu Xing-Long v Public Prosecutor 
 

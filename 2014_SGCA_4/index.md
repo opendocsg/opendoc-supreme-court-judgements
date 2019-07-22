@@ -5,6 +5,6 @@ tags:
   - CIVIL PROCEDURE
   - Interrogatories
   - application for leave
-layout: single
+
 ---
 

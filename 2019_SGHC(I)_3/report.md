@@ -8,7 +8,7 @@ tags:
   - Mistake of fact
   - Trusts
   - Breach of trust
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # B2C2 Ltd _v_ Quoine Pte Ltd

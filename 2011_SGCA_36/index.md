@@ -7,6 +7,6 @@ tags:
   - Financial and Securities Markets
   - Regulatory requirements
   - Market conduct
-layout: single
+
 ---
 

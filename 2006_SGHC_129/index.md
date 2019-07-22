@@ -34,6 +34,6 @@ tags:
     statement at trial
   - Accomplice sole witness testifying in support of Prosecution\'s case
   - Appropriate approach for court to take when considering such testimony
-layout: single
+
 ---
 

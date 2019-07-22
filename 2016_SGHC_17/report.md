@@ -13,7 +13,7 @@ tags:
   - Banking
   - Derivatives
   - Accumulators
-layout: single
+
 ---
 # Tan Poh Leng Stanley v UBS AG 
 

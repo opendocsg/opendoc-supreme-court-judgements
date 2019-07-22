@@ -24,7 +24,7 @@ tags:
   - Copyright
   - Infringement
   - Defendants importing and selling cinematograph films in video format
-layout: single
+
 ---
 # New Line Productions, Inc and Another v Aglow Video Pte Ltd and Others and Other Suits 
 

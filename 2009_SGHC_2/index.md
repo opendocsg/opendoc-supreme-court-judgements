@@ -9,6 +9,6 @@ tags:
   - >-
     Whether company director could be liable in conspiracy with company of which
     he was moving spirit and controlling mind
-layout: single
+
 ---
 

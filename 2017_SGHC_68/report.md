@@ -8,7 +8,7 @@ tags:
   - Civil contempt
   - Contempt of court
   - Sentencing
-layout: single
+
 ---
 # Technigroup Far East Pte Ltd and another v Jaswinderpal Singh s/o Bachint Singh and others 
 

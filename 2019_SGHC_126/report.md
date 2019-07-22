@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Inherent powers
   - Garnishee orders
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # United Integrated Services Pte Ltd _v_ Harmonious Coretrades Pte Ltd  

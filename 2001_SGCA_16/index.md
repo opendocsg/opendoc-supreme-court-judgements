@@ -16,6 +16,6 @@ tags:
     Whether former partner of dissolved partnership placed in receivership can
     seek order for account
   - Sufficient reasons
-layout: single
+
 ---
 

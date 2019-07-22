@@ -15,6 +15,6 @@ tags:
     judgment final order
   - Whether judge making initial order precluded from hearing further arguments
   - Whether order setting aside default judgment unconditionally
-layout: single
+
 ---
 

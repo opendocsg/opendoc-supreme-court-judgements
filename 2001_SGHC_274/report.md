@@ -10,7 +10,7 @@ tags:
   - Mistake
   - Unilateral mistake
   - Lease of metal-forms for constructing buildings
-layout: single
+
 ---
 # Ho Seng Lee Construction Pte Ltd v Nian Chuan Construction Pte Ltd 
 

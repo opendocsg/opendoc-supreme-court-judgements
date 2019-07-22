@@ -5,7 +5,7 @@ tags:
   - Arbitration
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # AKM v AKN and another and other matters 
 

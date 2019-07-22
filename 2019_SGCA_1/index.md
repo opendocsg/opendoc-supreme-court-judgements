@@ -5,6 +5,6 @@ tags:
   - Trade Marks and Trade Names
   - Infringement
   - Border enforcement measures
-layout: single
+
 ---
 

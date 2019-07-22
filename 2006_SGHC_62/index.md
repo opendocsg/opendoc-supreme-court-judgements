@@ -17,6 +17,6 @@ tags:
   - >-
     Whether defendant solicitors negligent in failing to advise plaintiffs of
     unlikelihood of developer paying off mortgage
-layout: single
+
 ---
 

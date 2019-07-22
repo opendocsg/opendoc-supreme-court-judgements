@@ -12,7 +12,7 @@ tags:
   - Fraudulent
   - Tort
   - Conspiracy
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # HE & SF Properties LP _v_ Rising Dragon Singapore Pte Ltd and another  

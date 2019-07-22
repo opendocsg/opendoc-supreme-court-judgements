@@ -11,7 +11,7 @@ tags:
   - International Law
   - extradition
   - speciality
-layout: single
+
 ---
 # Public Prosecutor v Tan Cheng Yew and another appeal 
 

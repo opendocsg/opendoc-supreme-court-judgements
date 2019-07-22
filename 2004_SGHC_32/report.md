@@ -8,7 +8,7 @@ tags:
   - Cargo owners commenced action against shipowners
   - Whether shipowners were proper parties to be sued
   - Whether the vessels were demise chartered to third parties
-layout: single
+
 ---
 # Pan United Shipping Pte Ltd v Cendrawasih Shipping Pte Ltd 
 

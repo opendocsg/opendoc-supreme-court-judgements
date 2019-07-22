@@ -14,6 +14,6 @@ tags:
   - Novelty
   - Patents and inventions
   - Validity
-layout: single
+
 ---
 

@@ -4,7 +4,7 @@ subtitle: "[2017] SGHC 113 / 15\_June\_2017"
 tags:
   - Contract
   - Warranty of Authority
-layout: single
+
 ---
 # Asia-American Investments Group Inc v UBS AG (Singapore Branch) and another 
 

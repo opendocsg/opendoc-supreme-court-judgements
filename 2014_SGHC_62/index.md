@@ -8,6 +8,6 @@ tags:
   - Estoppel against a tenant
   - Landlord and Tenant
   - Estoppel against a tenant
-layout: single
+
 ---
 

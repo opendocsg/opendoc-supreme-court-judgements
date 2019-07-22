@@ -7,6 +7,6 @@ tags:
   - Administrative Law
   - Judicial review
   - costs
-layout: single
+
 ---
 

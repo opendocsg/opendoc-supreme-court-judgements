@@ -12,6 +12,6 @@ tags:
   - >-
     Whether accused at time of killing suffered from major depressive episode
     which substantially impaired his mental responsibility for his acts
-layout: single
+
 ---
 

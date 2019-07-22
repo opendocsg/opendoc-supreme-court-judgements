@@ -19,6 +19,6 @@ tags:
   - >-
     Whether solicitor properly advising plaintiff on import and consequences of
     \"all moneys clause\" in mortgage documents
-layout: single
+
 ---
 

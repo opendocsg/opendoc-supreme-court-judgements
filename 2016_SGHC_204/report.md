@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Striking out
-layout: single
+
 ---
 # Jaya Sudhir a/l Jayaram v Tong Seak Kan and another 
 

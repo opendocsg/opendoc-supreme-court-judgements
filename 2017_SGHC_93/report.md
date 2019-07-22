@@ -10,7 +10,7 @@ tags:
   - Misrepresentation
   - Tort
   - Negligence
-layout: single
+
 ---
 # Tradewaves Ltd and others v Standard Chartered Bank and another suit 
 

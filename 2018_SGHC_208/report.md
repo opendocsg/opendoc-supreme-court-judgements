@@ -13,7 +13,7 @@ tags:
   - Contract
   - Mistake
   - Non est factum
-layout: single
+
 ---
 # Chan Gek Yong v Violet Netto (practising as L F Violet Netto) and another and another matter 
 

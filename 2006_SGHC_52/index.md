@@ -14,6 +14,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Mitigation
   - Whether accused\'s circumstances taken into consideration in sentencing
-layout: single
+
 ---
 

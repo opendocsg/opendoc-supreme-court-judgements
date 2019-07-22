@@ -14,6 +14,6 @@ tags:
   - Proprietary estoppel
   - Whether defendants had beneficial interest in property on basis of estoppel
   - Whether plea of estoppel justified based on evidence already adduced
-layout: single
+
 ---
 

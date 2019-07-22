@@ -5,7 +5,7 @@ tags:
   - Landlord and Tenant
   - Rent and Service Charges
   - Obligation to pay for rental and for reimbursement works
-layout: single
+
 ---
 # Panpac Education Pte Ltd v Applied Movers & Trading Pte Ltd 
 

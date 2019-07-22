@@ -7,7 +7,7 @@ tags:
   - Contract
   - Discharge
   - Anticipatory Breach
-layout: single
+
 ---
 # The “STX Mumbai” and another matter 
 

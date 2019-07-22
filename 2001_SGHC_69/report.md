@@ -13,7 +13,7 @@ tags:
   - Words and Phrases
   - \"Without authority\"
   - 's 2(5) Computer Misuse Act (cap 50A, 1998Ed)'
-layout: single
+
 ---
 # Lim Siong Khee v Public Prosecutor 
 

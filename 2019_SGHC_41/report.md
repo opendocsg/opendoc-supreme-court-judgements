@@ -7,7 +7,7 @@ tags:
   - In-house legal counsel
   - Waiver
   - Injunctive relief
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Asplenium Land Pte Ltd _v_ Lam Chye Shing and others  

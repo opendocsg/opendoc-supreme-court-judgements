@@ -8,7 +8,7 @@ tags:
   - Conflict of Laws
   - Foreign Judgments
   - Enforcement
-layout: single
+
 ---
 # Shi Wen Yue v Shi Minjiu and another 
 

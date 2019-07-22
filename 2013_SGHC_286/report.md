@@ -19,7 +19,7 @@ tags:
   - Contract
   - contractual terms
   - implied terms
-layout: single
+
 ---
 # BNJ (suing by her lawful father and litigation representative, B) v SMRT Trains Ltd and 
 

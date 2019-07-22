@@ -9,6 +9,6 @@ tags:
   - Remedies
   - Powers
   - Exercise
-layout: single
+
 ---
 

@@ -19,6 +19,6 @@ tags:
   - Sentencing
   - Forms of punishment
   - Corrective training
-layout: single
+
 ---
 

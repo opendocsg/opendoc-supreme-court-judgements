@@ -23,6 +23,6 @@ tags:
   - Words and Phrases
   - \"Materiality\"
   - \"Material fac ts\"
-layout: single
+
 ---
 

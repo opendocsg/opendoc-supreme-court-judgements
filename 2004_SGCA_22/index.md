@@ -11,6 +11,6 @@ tags:
   - Respondent lost on appeal
   - Whether appellant entitled to indemnity costs from date of offer
   - 'Order 22A r 9(3) Rules of Court (Cap 322, R 5, 1997 Rev Ed)'
-layout: single
+
 ---
 

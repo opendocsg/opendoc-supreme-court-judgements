@@ -11,6 +11,6 @@ tags:
   - >-
     Whether to grant interim mandatory injunction reinstating plaintiff as
     managing director
-layout: single
+
 ---
 

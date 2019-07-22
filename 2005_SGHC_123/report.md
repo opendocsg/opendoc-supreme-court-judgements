@@ -27,7 +27,7 @@ tags:
   - >-
     Whether significance of documentary evidence tendered by prosecution and
     defence wrongly assessed
-layout: single
+
 ---
 # Wong Teck Long v Public Prosecutor 
 

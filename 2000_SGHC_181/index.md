@@ -41,6 +41,6 @@ tags:
   - Confessions retracted
   - Whether trial judge right in according weight to second statement
   - Whether retracted confessions can be relied upon
-layout: single
+
 ---
 

@@ -12,6 +12,6 @@ tags:
     Whether detention unlawful because Minister\'s exercise of discretion
     challengeable on grounds of illegality, procedural impropriety or
     irrationality
-layout: single
+
 ---
 

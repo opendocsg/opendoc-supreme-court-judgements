@@ -18,6 +18,6 @@ tags:
   - \'Costs and expenses\'
   - Whether the ordinary dic tionary meaning of words was helpful
   - Whether words had to be c onstrued in their c ontext.
-layout: single
+
 ---
 

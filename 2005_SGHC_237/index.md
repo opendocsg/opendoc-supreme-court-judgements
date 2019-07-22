@@ -19,6 +19,6 @@ tags:
   - >-
     Whether plaintiff\'s alleged failure to carry out chemical cleaning services
     in accordance with contract caused damage to defendant\'s boiler
-layout: single
+
 ---
 

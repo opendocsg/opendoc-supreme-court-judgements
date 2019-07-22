@@ -10,7 +10,7 @@ tags:
   - assessment
   - Equity
   - satisfaction
-layout: single
+
 ---
 # Lim Chin San Contractors Pte Ltd v Shiok Kim Seng (trading as IKO Precision Toolings) and 
 

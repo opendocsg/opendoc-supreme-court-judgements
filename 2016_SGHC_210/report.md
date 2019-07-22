@@ -8,7 +8,7 @@ tags:
   - Sc hemes of Arrangement
   - Insolvenc y Law
   - Cross-border Insolvenc y
-layout: single
+
 ---
 # Pacific Andes Resources Development Ltd and other matters 
 

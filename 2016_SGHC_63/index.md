@@ -8,6 +8,6 @@ tags:
   - Originating processes
   - Mental disorders and treatment
   - Mental Capacity Act
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Poh Lian Construction (Pte) Ltd (in liquidation) _v_ Lauw Wisanggeni and others (Chia Quee Hock and others, third parties)  

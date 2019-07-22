@@ -8,7 +8,7 @@ tags:
   - Directors’ liabilities
   - Companies
   - Directors’ duties
-layout: single
+
 ---
 # Long Say Ting Daniel v Merukh Nunik Elizabeth (personal representative of the estate of 
 

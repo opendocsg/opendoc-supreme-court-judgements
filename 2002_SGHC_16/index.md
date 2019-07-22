@@ -7,6 +7,6 @@ tags:
   - Ad hoc
   - Three-stage test
   - Applicant to possess certain qualities
-layout: single
+
 ---
 

@@ -17,6 +17,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Revision of proceedings
   - Exercise of revisionary powers
-layout: single
+
 ---
 

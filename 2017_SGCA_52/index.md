@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Criminal Motion
   - Question of Law of Public Interest
-layout: single
+
 ---
 

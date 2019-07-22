@@ -15,6 +15,6 @@ tags:
     Whether custodial benchmark sentences set out in Payagala\'s case applicable
     to all credit card cheating offences
   - When non-custodial sentence for credit card cheating offence warranted
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Contract
   - Contractual terms
   - Rules of construction
-layout: single
+
 ---
 # Hewlett-Packard Singapore (Sales) Pte Ltd v Chin Shu Hwa Corinna 
 

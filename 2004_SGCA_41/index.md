@@ -10,6 +10,6 @@ tags:
   - Appellants applying for stay of proceedings in favour of contractual forum
   - Whether court should refuse to grant stay of proceedings
   - Factors to be considered
-layout: single
+
 ---
 

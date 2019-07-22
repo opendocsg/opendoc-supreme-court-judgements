@@ -10,6 +10,6 @@ tags:
   - Trusts
   - Resulting trusts
   - Whether sufficient evidence of intention to create resulting trust
-layout: single
+
 ---
 

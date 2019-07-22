@@ -14,7 +14,7 @@ tags:
   - Companies
   - oppression
   - reflective loss principle
-layout: single
+
 ---
 # Leong Chee Kin (on behalf of himself and as a minority shareholder of Ideal Design Studio 
 

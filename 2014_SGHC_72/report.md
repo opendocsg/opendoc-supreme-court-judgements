@@ -6,7 +6,7 @@ tags:
   - Building and construction contracts
   - Lump sum contract
   - Terms
-layout: single
+
 ---
 # Rotol Projects Pte Ltd v CCM Industrial Pte Ltd 
 

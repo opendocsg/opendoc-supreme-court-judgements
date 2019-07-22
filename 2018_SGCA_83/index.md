@@ -16,6 +16,6 @@ tags:
   - Equity
   - Undue influence
   - Presumed
-layout: single
+
 ---
 

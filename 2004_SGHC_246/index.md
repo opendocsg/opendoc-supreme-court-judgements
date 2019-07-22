@@ -30,6 +30,6 @@ tags:
   - Witnesses
   - Attendance
   - Prosecution failing to call witnesses resident abroad
-layout: single
+
 ---
 

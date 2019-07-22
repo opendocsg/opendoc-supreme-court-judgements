@@ -27,6 +27,6 @@ tags:
   - Words and Phrases
   - \"Sufficient reason\"
   - 'Section 54B Subordinate Courts Act (Cap 321, 2007 Rev Ed)'
-layout: single
+
 ---
 

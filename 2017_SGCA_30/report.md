@@ -5,7 +5,7 @@ tags:
   - Trade Marks and Trade Names
   - Registration criteria
   - Conflicts with earlier marks
-layout: single
+
 ---
 # Ceramiche Caesar SpA v Caesarstone Sdot-Yam Ltd 
 

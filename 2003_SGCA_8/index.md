@@ -8,6 +8,6 @@ tags:
   - >-
     Counterclaim arising out of separate transaction from that which forms
     subject matter of action
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - Payments of debts presently due
   - Restitution
   - Money had and received
-layout: single
+
 ---
 

@@ -15,7 +15,7 @@ tags:
     landlord\'s gross negligence
   - Whether landlord entitled to rely on exclusion clause
   - Whether landlord\'s conduct amounting to gross negligence
-layout: single
+
 ---
 # Sie Choon Poh (trading as Image Galaxy) v Amara Hotel Properties Pte Ltd (No 2) 
 

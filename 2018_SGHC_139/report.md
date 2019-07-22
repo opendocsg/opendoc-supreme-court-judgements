@@ -18,7 +18,7 @@ tags:
   - Tort
   - Defamation
   - Defamatory statements
-layout: single
+
 ---
 # Solomon Alliance Management Pte Ltd v Pang Chee Kuan 
 

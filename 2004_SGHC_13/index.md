@@ -15,6 +15,6 @@ tags:
   - Offence of sodomy
   - Negligible penetration and superficial tears at the anal verge
   - Whether this amounted to a mitigating factor.
-layout: single
+
 ---
 

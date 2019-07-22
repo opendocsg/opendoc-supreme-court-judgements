@@ -12,7 +12,7 @@ tags:
   - Statutory demand
   - Setting aside
   - Whether debt stated in the statutory demand properly accounted for
-layout: single
+
 ---
 # C & K Credit Pte Ltd v Lee Chin Kwee Kalvin 
 

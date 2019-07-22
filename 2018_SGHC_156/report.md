@@ -16,7 +16,7 @@ tags:
   - Account
   - Limitation of actions
   - Equity and limitation of actions
-layout: single
+
 ---
 # Lim Ah Leh v Heng Fock Lin 
 

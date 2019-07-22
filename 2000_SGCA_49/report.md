@@ -12,7 +12,7 @@ tags:
     legal costs incurred in defending action, when causing damage to third party
     while repairing ship
   - Whether indemnity for legal costs subject to specified deductible sum
-layout: single
+
 ---
 # Pan-United Shipyard Pte Ltd v India International Insurance Pte Ltd 
 

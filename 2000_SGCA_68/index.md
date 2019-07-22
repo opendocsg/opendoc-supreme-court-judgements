@@ -14,6 +14,6 @@ tags:
   - Divorce
   - Maintenance
   - Whether lump sum maintenance order appropriate
-layout: single
+
 ---
 

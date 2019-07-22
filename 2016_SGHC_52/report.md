@@ -8,7 +8,7 @@ tags:
   - Agency by estoppel
   - Implied authority of agent Damages
   - Measure of damages
-layout: single
+
 ---
 # JES International Holdings Ltd v Yang Shushan 
 

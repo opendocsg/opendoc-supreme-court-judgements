@@ -5,7 +5,7 @@ tags:
   - Building and Construction Law
   - Damages
   - Liquidated Damages
-layout: single
+
 ---
 # Chua Tian Chu and another v Chin Bay Ching and another 
 

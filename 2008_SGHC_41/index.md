@@ -9,6 +9,6 @@ tags:
   - >-
     Purchasers of lots not signing collective sale agreement within permitted
     time
-layout: single
+
 ---
 

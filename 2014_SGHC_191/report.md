@@ -11,7 +11,7 @@ tags:
   - Tort
   - defamation
   - fair comment
-layout: single
+
 ---
 # Loh Siew Hock and others v Lang Chin Ngau 
 

@@ -12,6 +12,6 @@ tags:
   - >-
     Whether other company\'s failure to fulfil conditions precedent under
     agreement with first company amounting to total failure of consideration
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Negligence
   - Personal Injury
   - Assessment of Damages
-layout: single
+
 ---
  (A) Pain, suffering and loss of amenities $87,000. 
 

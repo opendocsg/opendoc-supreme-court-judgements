@@ -10,7 +10,7 @@ tags:
   - Dispute Resolution
   - Adjudication
   - Stay of enforcement of adjudication determination
-layout: single
+
 ---
 # W Y Steel Construction Pte Ltd v Osko Pte Ltd 
 

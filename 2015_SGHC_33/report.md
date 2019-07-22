@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Principles
-layout: single
+
 ---
 # Public Prosecutor v V Shanmugam a/l Veloo and another 
 

@@ -60,7 +60,7 @@ tags:
   - Corroboration
   - Lies
   - Appellant\'s lies as corroboration
-layout: single
+
 ---
 # Er Joo Nguang and Another v Public Prosecutor 
 

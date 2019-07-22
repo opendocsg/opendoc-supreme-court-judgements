@@ -7,6 +7,6 @@ tags:
   - Courts and Jurisdiction
   - Judges
   - Recusal
-layout: single
+
 ---
 

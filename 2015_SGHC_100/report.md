@@ -13,7 +13,7 @@ tags:
   - Conversion
   - Tort
   - Inducement of breach of contract
-layout: single
+
 ---
 # Tempcool Engineering (S) Pte Ltd v Chong Vincent and others 
 

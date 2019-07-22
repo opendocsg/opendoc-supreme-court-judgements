@@ -24,6 +24,6 @@ tags:
   - Lack of corroboration in sexual offence case
   - Whether corroborative evidence required to justify conviction
   - Whether evidence unusually compelling or convincing
-layout: single
+
 ---
 

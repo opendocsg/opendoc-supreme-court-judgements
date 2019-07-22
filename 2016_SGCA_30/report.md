@@ -13,7 +13,7 @@ tags:
   - Trusts
   - Constructive Trusts
   - Common intention constructive trusts
-layout: single
+
 ---
 # Su Emmanuel v Emmanuel Priya Ethel Anne and another 
 

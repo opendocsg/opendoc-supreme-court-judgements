@@ -20,7 +20,7 @@ tags:
   - >-
     Whether failure to comply with contractual specifications amounted to
     \"defective work\".
-layout: single
+
 ---
 # Schindler Lifts (Singapore) Pte Ltd v Paya Ubi Industrial Park Pte Ltd and Another 
 

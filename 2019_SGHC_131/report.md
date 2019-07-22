@@ -12,7 +12,7 @@ tags:
   - Remedies
   - Damages
   - Claim for wasted expenditure
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Patsystems Pte Ltd _v_ PT Bursa Komoditi Dan Derivatif Indonesia  

@@ -8,7 +8,7 @@ tags:
   - Setting aside adjudication determination
   - Repeat claim
   - Insufficient particulars
-layout: single
+
 ---
 # Associate Dynamic Builder Pte Ltd v Tactic Foundation Pte Ltd 
 

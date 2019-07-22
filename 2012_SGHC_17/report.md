@@ -13,7 +13,7 @@ tags:
   - Equity
   - Remedies
   - Equitable Compensation
-layout: single
+
 ---
 # Then Khek Khoon and another v Arjun Permanand Samtani and another 
 

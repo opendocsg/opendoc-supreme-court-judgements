@@ -5,6 +5,6 @@ tags:
   - Copyright
   - Remedies
   - Blocking orders
-layout: single
+
 ---
 

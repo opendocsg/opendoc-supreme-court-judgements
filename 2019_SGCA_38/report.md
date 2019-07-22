@@ -8,7 +8,7 @@ tags:
   - Statutory offences
   - Misuse of Drugs Act
   - Illegal importation of controlled drugs
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Adili Chibuike Ejike _v_ Public Prosecutor  

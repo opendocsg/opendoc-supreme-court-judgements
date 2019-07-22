@@ -12,7 +12,7 @@ tags:
     Whether scheme of arrangement could be rejected without meeting being
     convened for litigant-members to vote on proposed scheme
   - 'Section 210 Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 # Re Raffles Town Club Pte Ltd 
 

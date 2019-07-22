@@ -19,6 +19,6 @@ tags:
   - >-
     Whether two weeks\' imprisonment adequate considering aggravated nature of
     assault
-layout: single
+
 ---
 

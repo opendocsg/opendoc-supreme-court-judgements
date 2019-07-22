@@ -6,7 +6,7 @@ tags:
   - Revocation
   - Later instrument
   - Testamentary capacity
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # ULV _v_ ULW  

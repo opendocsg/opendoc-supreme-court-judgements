@@ -18,7 +18,7 @@ tags:
   - Equity
   - Estoppel
   - Promissory estoppel
-layout: single
+
 ---
 # Nanyang Medical Investments Pte Ltd v Kuek Bak Kim Leslie and others 
 

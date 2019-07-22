@@ -15,7 +15,7 @@ tags:
   - Restitution
   - Money had and received
   - Recovery of money paid in course of negotiations
-layout: single
+
 ---
 # United Artists Singapore Theatres Pte Ltd & Another v Parkway Properties Pte Ltd & Another 
 

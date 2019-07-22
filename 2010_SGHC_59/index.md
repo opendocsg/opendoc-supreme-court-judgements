@@ -6,6 +6,6 @@ subtitle: "[2010] SGHC 59 / 01\_March\_2010"
 tags:
   - LAND
   - sale of land
-layout: single
+
 ---
 

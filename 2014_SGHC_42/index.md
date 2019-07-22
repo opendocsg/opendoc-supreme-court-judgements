@@ -5,6 +5,6 @@ tags:
   - Employment Law
   - Benefits
   - Bonus payments
-layout: single
+
 ---
 

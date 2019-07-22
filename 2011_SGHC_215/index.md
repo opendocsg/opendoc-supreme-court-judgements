@@ -6,6 +6,6 @@ tags:
   - breach
   - Building and Construction law
   - Building and Construction Contracts
-layout: single
+
 ---
 

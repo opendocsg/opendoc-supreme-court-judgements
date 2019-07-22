@@ -10,6 +10,6 @@ tags:
   - Whether plaintiff entitled to bring actions under contracts of carriage
   - Whether plaintiff lawful holder of bills of lading
   - 'Section 5(2) Bills of Lading Act (Cap 384, 1994 Rev Ed)'
-layout: single
+
 ---
 

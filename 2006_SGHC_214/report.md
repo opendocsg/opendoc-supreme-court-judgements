@@ -32,7 +32,7 @@ tags:
   - >-
     Section 96 Legal Profession Act (Cap 161, 2001 Rev Ed), rr 33, 34(c) Legal
     Profession (Professional Conduct) Rules (Cap 161, R 1, 2000 Rev Ed)
-layout: single
+
 ---
 # Wee Soon Kim Anthony v Law Society of Singapore 
 

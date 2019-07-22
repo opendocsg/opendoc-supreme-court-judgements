@@ -21,6 +21,6 @@ tags:
   - Presumed
   - Elements to be proven to raise presumption of undue influence
   - Personal guarantee given as directors of company to secure company\'s debts
-layout: single
+
 ---
 

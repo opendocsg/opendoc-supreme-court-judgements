@@ -5,6 +5,6 @@ tags:
   - Criminal Law
   - Offences
   - Causing death by rash or negligent act
-layout: single
+
 ---
 

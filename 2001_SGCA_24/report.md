@@ -29,7 +29,7 @@ tags:
   - >-
     Rate of premuim based on all parties having been aware of all risks involved
     in shipping cargo on declared vessel
-layout: single
+
 ---
 # Everbright Commercial Enterprises Pte Ltd v AXA Insurance Singapore Pte Ltd 
 

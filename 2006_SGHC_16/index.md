@@ -6,6 +6,6 @@ tags:
   - Winding up
   - Liquidator
   - Liquidators bringing action on behalf of insolvent estate
-layout: single
+
 ---
 

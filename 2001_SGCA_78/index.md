@@ -13,6 +13,6 @@ tags:
   - Costs
   - Principles governing award of costs
   - Costs following the event
-layout: single
+
 ---
 

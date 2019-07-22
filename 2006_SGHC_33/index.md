@@ -31,6 +31,6 @@ tags:
   - >-
     Whether defendants liable in conversion for failing to remit to plaintiff
     proceeds of sale collected
-layout: single
+
 ---
 

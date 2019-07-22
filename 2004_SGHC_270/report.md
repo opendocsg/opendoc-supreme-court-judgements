@@ -13,7 +13,7 @@ tags:
   - Schemes of arrangement
   - Court\'s power to sanction proposed scheme of arrangement
   - Whether sufficient information provided to creditors at creditors\' meeting
-layout: single
+
 ---
 # Re Horizon Knowledge Solutions Pte Ltd 
 

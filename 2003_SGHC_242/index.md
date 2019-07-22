@@ -23,6 +23,6 @@ tags:
   - >-
     Whether specific acts of negligence or cause of negligence pleaded defeated
     any reliance on res ipsa loquitur.
-layout: single
+
 ---
 

@@ -13,6 +13,6 @@ tags:
   - Issue Estoppel
   - Land
   - Housing Development Act
-layout: single
+
 ---
 

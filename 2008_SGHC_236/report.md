@@ -19,7 +19,7 @@ tags:
   - >-
     Whether terms of reference appointing independent adjudicator was for
     process of expert determination
-layout: single
+
 ---
 # The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd 
 

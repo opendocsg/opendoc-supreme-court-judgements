@@ -5,7 +5,7 @@ tags:
   - Contract
   - Illegality and Public Policy
   - Restraint of Trade
-layout: single
+
 ---
 # Mano Vikrant Singh v Cargill TSF Asia Pte Ltd 
 

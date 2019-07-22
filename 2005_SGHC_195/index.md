@@ -29,6 +29,6 @@ tags:
   - Conviction on amended charge
   - No prejudice to appellant
   - 's 256(b)(ii) Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 

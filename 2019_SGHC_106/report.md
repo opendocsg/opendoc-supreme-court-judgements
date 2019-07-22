@@ -8,7 +8,7 @@ tags:
   - Delivery of cargo against presentation of bills of lading
   - Civil Procedure
   - Summary judgment
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # The “Yue You 902” and another matter  

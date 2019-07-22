@@ -17,7 +17,7 @@ tags:
     Whether principle of equal culpability between giver and receiver in
     corruption offence breached
   - Whether corruption in commercial context warranted custodial sentence
-layout: single
+
 ---
 # Lim Teck Chye v Public Prosecutor 
 

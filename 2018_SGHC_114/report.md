@@ -8,7 +8,7 @@ tags:
   - Domestic maid abuse
   - Criminal Procedure and Sentencing
   - Compensation and costs
-layout: single
+
 ---
 # Tay Wee Kiat and another v Public Prosecutor and another appeal 
 

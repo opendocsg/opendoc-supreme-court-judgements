@@ -8,7 +8,7 @@ tags:
   - Evidence
   - Proof of Evidence
   - Presumptions
-layout: single
+
 ---
 # Tan Chin Hock v Public Prosecutor 
 

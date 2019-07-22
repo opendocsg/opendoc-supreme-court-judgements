@@ -5,6 +5,6 @@ tags:
   - Civil procedure
   - Discovery of documents
   - Pre-action discovery
-layout: single
+
 ---
 

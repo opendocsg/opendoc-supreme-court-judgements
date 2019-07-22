@@ -12,7 +12,7 @@ tags:
   - Relief
   - Against forfeiture
   - When courts would exercise jurisdiction to grant relief
-layout: single
+
 ---
 # Sembawang Capital Pte Ltd v Ng Hock Kon 
 

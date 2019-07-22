@@ -8,6 +8,6 @@ tags:
   - Arbitration
   - Award
   - Setting aside
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Res judicata
   - Issue estoppel
   - Consent judgment
-layout: single
+
 ---
 

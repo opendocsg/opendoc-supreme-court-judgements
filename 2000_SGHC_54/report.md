@@ -12,7 +12,7 @@ tags:
   - >-
     Whether public interest involved in National Service justifies deterrent
     sentence
-layout: single
+
 ---
 # Lim Sin Han Andy v Public Prosecutor 
 

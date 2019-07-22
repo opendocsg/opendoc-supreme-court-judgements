@@ -7,6 +7,6 @@ tags:
   - statutory illegality
   - Statutory Interpretation
   - definitions
-layout: single
+
 ---
 

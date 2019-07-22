@@ -16,7 +16,7 @@ tags:
   - Sentencing
   - Appeals
   - Whether manifestly excessive
-layout: single
+
 ---
 # Public Prosecutor v Mohamed Noor bin Abdul Majeed 
 

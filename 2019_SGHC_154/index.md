@@ -7,6 +7,6 @@ tags:
   - Directors acting in own interests
   - Just and equitable winding up
   - Stay of execution pending appeal
-layout: single
+
 ---
 

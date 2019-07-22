@@ -17,7 +17,7 @@ tags:
     Scheme incorporating term releasing third party guarantor from liability for
     loans of debtor company
   - Whether scheme can incorporate such term
-layout: single
+
 ---
 # Daewoo Singapore Pte Ltd v CEL Tractors Pte Ltd 
 

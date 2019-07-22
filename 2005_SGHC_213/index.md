@@ -30,6 +30,6 @@ tags:
   - >-
     Whether factors considered by trial judge justify derogation from benchmark
     sentence
-layout: single
+
 ---
 

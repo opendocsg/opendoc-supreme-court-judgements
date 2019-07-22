@@ -5,6 +5,6 @@ tags:
   - Banking
   - Banker’s set-off
   - Plaintiff depositing money with bank under fixed deposit contract
-layout: single
+
 ---
 

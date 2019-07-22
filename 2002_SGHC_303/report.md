@@ -18,7 +18,7 @@ tags:
   - >-
     Use of proviso to s 11(3) of Criminal Procedure Code (Cap 68, 1985 Rev Ed)
     to enhance sentence
-layout: single
+
 ---
 # Louis Pius Gilbert v Public Prosecutor 
 

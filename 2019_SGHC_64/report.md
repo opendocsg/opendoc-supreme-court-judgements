@@ -8,7 +8,7 @@ tags:
   - Aggravating factors
   - Prevention of Human Trafficking Act
   - Outrage of modesty of a person under 14 years of age
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ BSR  

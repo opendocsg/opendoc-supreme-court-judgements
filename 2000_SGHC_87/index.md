@@ -17,6 +17,6 @@ tags:
   - 'Statutory minimum debt of $10,000'
   - Time for applying requirement
   - 's 61(1)(a) Bankruptcy Act (Cap 20, 1996 Ed)'
-layout: single
+
 ---
 

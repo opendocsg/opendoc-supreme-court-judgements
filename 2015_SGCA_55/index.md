@@ -8,6 +8,6 @@ tags:
   - Contractual terms
   - Express terms
   - Interpretation of term
-layout: single
+
 ---
 

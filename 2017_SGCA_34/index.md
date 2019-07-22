@@ -5,6 +5,6 @@ tags:
   - Family Law
   - Matrimonial Assets
   - Division
-layout: single
+
 ---
 

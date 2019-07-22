@@ -12,7 +12,7 @@ tags:
   - >-
     Whether petitioner satisfied the three conditions when seeking to adduce
     fresh evidence
-layout: single
+
 ---
 # Selvarajoo s/o Malayappan Krishsamy v Public Prosecutor 
 

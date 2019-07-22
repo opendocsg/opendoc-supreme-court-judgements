@@ -8,7 +8,7 @@ tags:
   - Civil procedure
   - Rules of court
   - O 14 r 12
-layout: single
+
 ---
 # Aries Telecoms (M) Bhd v ViewQwest Pte Ltd 
 

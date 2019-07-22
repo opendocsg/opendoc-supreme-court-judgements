@@ -18,6 +18,6 @@ tags:
     Doctrine of subrogation invoked by lender against third party and not
     borrower
   - Whether denial of subrogation resulting in unjust enrichment of third party
-layout: single
+
 ---
 

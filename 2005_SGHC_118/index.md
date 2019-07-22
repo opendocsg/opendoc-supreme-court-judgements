@@ -24,6 +24,6 @@ tags:
   - Copyright
   - Infringement
   - Defendants importing and selling cinematograph films in video format
-layout: single
+
 ---
 

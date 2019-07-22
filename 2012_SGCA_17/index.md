@@ -9,6 +9,6 @@ tags:
   - TORT
   - Negligence
   - Duty of Care
-layout: single
+
 ---
 

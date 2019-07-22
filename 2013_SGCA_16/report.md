@@ -8,7 +8,7 @@ tags:
   - Injunctions
   - Courts and Jurisdiction
   - Jurisdiction
-layout: single
+
 ---
 # Maldives Airports Co Ltd and another v GMR Malé International Airport Pte Ltd 
 

@@ -16,6 +16,6 @@ tags:
   - Whether delay in authorising issuance of replacement cheques oppressive
   - Whether employees behaved in partisan manner
   - 'Section 216 Companies Act (Cap 50, 2006 Rev Ed)'
-layout: single
+
 ---
 

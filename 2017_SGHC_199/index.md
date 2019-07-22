@@ -7,6 +7,6 @@ tags:
   - Arbitration
   - Enforcement
   - Foreign award
-layout: single
+
 ---
 

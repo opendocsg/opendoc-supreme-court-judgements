@@ -23,6 +23,6 @@ tags:
   - Agent paying money out for other purposes
   - Whether money subject to trust
   - Whether payment out in breach of trust
-layout: single
+
 ---
 

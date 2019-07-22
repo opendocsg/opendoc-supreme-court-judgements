@@ -18,7 +18,7 @@ tags:
   - Expert appointed to value defendant company\'s shares
   - Valuation unfavourable to plaintiffs
   - Whether grounds for court to enhance valuation of such shares existing
-layout: single
+
 ---
 # Hoban Steven Maurice Dixon and Another v Scanlon Graeme John and Others 
 

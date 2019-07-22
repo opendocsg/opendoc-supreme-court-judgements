@@ -5,7 +5,7 @@ tags:
   - INNS AND INNKEEPERS
   - innkeepers
   - liabilities
-layout: single
+
 ---
 # Bass Anne Hendricks v Shangri-la Hotel Ltd 
 

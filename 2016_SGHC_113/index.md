@@ -12,6 +12,6 @@ tags:
   - Presumed resulting trusts
   - Succession and wills
   - Testamentary capacity
-layout: single
+
 ---
 

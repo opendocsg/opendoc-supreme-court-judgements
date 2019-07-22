@@ -10,7 +10,7 @@ tags:
   - Exclusion Clause
   - Contract
   - Unfair Contracts Terms Act
-layout: single
+
 ---
 # Kay Lim Construction & Trading Pte Ltd v Soon Douglas (Pte) Ltd and another 
 

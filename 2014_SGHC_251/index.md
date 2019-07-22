@@ -4,6 +4,6 @@ subtitle: "[2014] SGHC 251 / 28\_November\_2014"
 tags:
   - Contract
   - Formation
-layout: single
+
 ---
 

@@ -18,6 +18,6 @@ tags:
   - Implied terms
   - Formation
   - Certainty of terms
-layout: single
+
 ---
 

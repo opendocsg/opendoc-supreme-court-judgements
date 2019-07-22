@@ -8,7 +8,7 @@ tags:
   - Principles and procedure
   - Action for damages for wrongful execution of writ of distress
   - 'Whether writ illegal, irregular and excessive'
-layout: single
+
 ---
 # Heng Chyu Kee v Far East Square Pte Ltd 
 

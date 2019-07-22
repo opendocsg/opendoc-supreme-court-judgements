@@ -15,6 +15,6 @@ tags:
   - Equity
   - Defences
   - Laches
-layout: single
+
 ---
 

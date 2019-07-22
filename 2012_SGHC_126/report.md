@@ -5,7 +5,7 @@ tags:
   - Contract
   - Breach of employment contract
   - Director’s duties
-layout: single
+
 ---
 # VVF Singapore Pte Ltd v Sovakar Nayak 
 

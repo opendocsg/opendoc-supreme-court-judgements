@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Costs
   - Principles
-layout: single
+
 ---
  Issue Plaintiff’s argument Defendant’s argument Court’s finding 
 

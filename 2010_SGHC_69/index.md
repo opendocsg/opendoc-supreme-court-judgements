@@ -7,6 +7,6 @@ tags:
   - >-
     Misconduct unbefitting of an advocate and solicitor as an officer of the
     Supreme Court or as a member of an honourable profession
-layout: single
+
 ---
 

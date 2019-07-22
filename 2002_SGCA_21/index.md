@@ -31,6 +31,6 @@ tags:
   - Words and Phrases
   - \'At the trial\'
   - 's 34(2)(a) Supreme Court of Judicature Act (Cap 322, 1999 Ed)'
-layout: single
+
 ---
 

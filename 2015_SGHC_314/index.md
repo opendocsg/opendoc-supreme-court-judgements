@@ -7,6 +7,6 @@ tags:
   - Presumed resulting trust
   - Land
   - Interest in land
-layout: single
+
 ---
 

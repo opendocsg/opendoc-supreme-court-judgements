@@ -25,7 +25,7 @@ tags:
   - Whether and when proof of voluntariness of statements necessary
   - s 122 Criminal Procedure Code (Cap 68) (5)
   - 's 248, 147(6) Evidence Act (Cap 97, 1997 Ed)'
-layout: single
+
 ---
 # Thiruselvam s/o Nagaratnam v Public Prosecutor 
 

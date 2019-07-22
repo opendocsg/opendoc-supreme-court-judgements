@@ -10,7 +10,7 @@ tags:
   - Civil Procedure
   - Striking out
   - Whether the plaintiff\'s claim is hopeless or unarguable.
-layout: single
+
 ---
 # Sutanto Henny v Suriani Tani also known as Li Yu and Another 
 

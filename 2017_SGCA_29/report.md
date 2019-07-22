@@ -7,7 +7,7 @@ tags:
   - Damages
   - Measure of damages
   - Personal injuries cases
-layout: single
+
 ---
 # Quek Yen Fei Kenneth (by his litigation representative Pang Choy Chun) v Yeo Chye Huat 
 

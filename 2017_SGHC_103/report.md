@@ -5,7 +5,7 @@ tags:
   - Building and construction law
   - Building and construction related contracts
   - Guarantees and bonds
-layout: single
+
 ---
 # Tactic Engineering Pte Ltd (in liquidation) v Sato Kogyo (S) Pte Ltd 
 

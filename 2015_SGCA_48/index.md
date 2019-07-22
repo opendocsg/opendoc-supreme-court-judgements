@@ -14,6 +14,6 @@ tags:
   - Probate and Administration
   - Distribution of assets
   - Assents
-layout: single
+
 ---
 

@@ -31,6 +31,6 @@ tags:
   - Persistent offenders
   - Whether sentence of preventive detention ought to be imposed on accused
   - 'Criminal Procedure Code (Cap 68, 1985 Rev Ed) s 12(2).'
-layout: single
+
 ---
 

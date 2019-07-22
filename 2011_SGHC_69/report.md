@@ -18,7 +18,7 @@ tags:
   - >-
     An erroneous insistence on rights based on an opinion or inference
     reasonably drawn does not amount to actual fraud
-layout: single
+
 ---
 # Ching Chew Weng Paul, deceased, and others v Ching Pui Sim and others 
 

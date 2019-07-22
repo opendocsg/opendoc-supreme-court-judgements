@@ -9,7 +9,7 @@ tags:
   - Admiralty and Shipping
   - practice and procedure of action in rem
   - release
-layout: single
+
 ---
 # The “Long Bright” 
 

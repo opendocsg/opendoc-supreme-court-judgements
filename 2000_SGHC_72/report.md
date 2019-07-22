@@ -9,7 +9,7 @@ tags:
   - Contracts of carriage
   - Nondelivery of part of goods carried
   - Whether liability of carrier limited under Warsaw Convention
-layout: single
+
 ---
 # Fujitsu Microelectronics (Malaysia) Sdn Bhd and Others v Singapore Airlines Ltd and Others 
 

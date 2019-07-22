@@ -6,6 +6,6 @@ tags:
   - Jurisdiction
   - Family Law
   - Women’s Charter
-layout: single
+
 ---
 

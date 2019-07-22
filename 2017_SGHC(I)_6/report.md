@@ -7,7 +7,7 @@ tags:
   - Contract
   - Remedies
   - Damages
-layout: single
+
 ---
 # BCBC Singapore Pte Ltd and another v PT Bayan Resources TBK and another 
 

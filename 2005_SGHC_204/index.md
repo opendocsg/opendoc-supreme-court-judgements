@@ -12,6 +12,6 @@ tags:
     Whether creditor entitled to be paid before moneys remitted to foreign
     liquidation estate
   - 'Section 377(3)(c) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

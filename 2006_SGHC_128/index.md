@@ -20,6 +20,6 @@ tags:
   - >-
     Factors to consider when deciding whether appellant should be sentenced to
     probation rather than imprisonment
-layout: single
+
 ---
 

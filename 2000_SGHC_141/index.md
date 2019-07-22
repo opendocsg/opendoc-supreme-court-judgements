@@ -14,6 +14,6 @@ tags:
   - >-
     Whether time of civil action begins running only when plaintiff informed of
     Commissioner of Labour\'s decision
-layout: single
+
 ---
 

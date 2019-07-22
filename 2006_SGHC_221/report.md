@@ -11,7 +11,7 @@ tags:
   - >-
     Whether email exchange between the parties reflected an intention to enter
     into legal relationship
-layout: single
+
 ---
 # Chua Kim Leng (Cai Jinling) v Phillip Securities Pte Ltd 
 

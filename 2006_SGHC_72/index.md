@@ -48,6 +48,6 @@ tags:
   - \"Lot\"
   - Whether strata lot must be separately assessed
   - 'Section 2(7) Property Tax Act (Cap 254, 2005 Rev Ed)'
-layout: single
+
 ---
 

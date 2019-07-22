@@ -25,6 +25,6 @@ tags:
   - Words and Phrases
   - \'Within the scope of his employment\'
   - art 25 Warsaw Convention
-layout: single
+
 ---
 

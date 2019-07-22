@@ -9,6 +9,6 @@ tags:
   - Strata titles
   - Strata titles board
   - Board approval for en-bloc sale of condominium
-layout: single
+
 ---
 

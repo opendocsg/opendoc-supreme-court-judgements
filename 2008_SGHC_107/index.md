@@ -21,6 +21,6 @@ tags:
     Need for reasoned grounds explaining judge\'s differing conclusions
     vis-a-vis different complainants
   - Whether complainants unusually convincing
-layout: single
+
 ---
 

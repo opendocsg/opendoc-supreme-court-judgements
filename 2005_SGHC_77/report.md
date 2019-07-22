@@ -16,7 +16,7 @@ tags:
   - Bill of costs
   - Contentious business agreement
   - Traffic accident case
-layout: single
+
 ---
 # Wong Foong Chai v Lin Kuo Hao 
 

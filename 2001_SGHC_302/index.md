@@ -5,6 +5,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Imprisonment in default of payment of fines
-layout: single
+
 ---
 

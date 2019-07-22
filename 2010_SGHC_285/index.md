@@ -4,6 +4,6 @@ title: >-
   another matter
 subtitle: "[2010] SGHC 285 / 24\_September\_2010"
 tags: null
-layout: single
+
 ---
 

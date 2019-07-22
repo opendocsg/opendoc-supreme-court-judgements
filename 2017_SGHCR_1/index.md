@@ -6,6 +6,6 @@ tags:
   - Discovery of documents
   - Legal profession
   - Professional privileges
-layout: single
+
 ---
 

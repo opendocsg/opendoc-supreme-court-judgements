@@ -14,7 +14,7 @@ tags:
   - Plaintiff obtaining judgment in default of defence
   - Whether judgment regularly obtained
   - Whether judgment should be set aside
-layout: single
+
 ---
 # Australian Timber Products Pte Ltd v Koh Brothers Building & Civil Engineering Contractor 
 

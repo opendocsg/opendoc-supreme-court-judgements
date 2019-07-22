@@ -7,6 +7,6 @@ tags:
   - Renovation contracts and contracts for minor works
   - Building and construction law
   - Dispute resolution
-layout: single
+
 ---
 

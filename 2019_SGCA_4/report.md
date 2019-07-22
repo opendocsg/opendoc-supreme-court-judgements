@@ -9,7 +9,7 @@ tags:
   - Patents and Inventions
   - Revocation
   - Validity
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sunseap Group Pte Ltd & 2 Ors _v_ Sun Electric Pte Ltd  

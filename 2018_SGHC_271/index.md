@@ -8,6 +8,6 @@ tags:
   - Fiduciary Duties
   - Tort of Deceit
   - Trust
-layout: single
+
 ---
 

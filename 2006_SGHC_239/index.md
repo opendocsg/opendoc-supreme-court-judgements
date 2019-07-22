@@ -16,6 +16,6 @@ tags:
   - >-
     Holders of \"Jeffery-West\" trade mark opposing registration of \"JWest\"
     trade mark by appellant-applicant
-layout: single
+
 ---
 

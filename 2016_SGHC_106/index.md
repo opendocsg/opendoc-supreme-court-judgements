@@ -6,6 +6,6 @@ tags:
   - Industrial application
   - Patents and Inventions
   - Novelty
-layout: single
+
 ---
 

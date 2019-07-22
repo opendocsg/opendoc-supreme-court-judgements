@@ -34,7 +34,7 @@ tags:
   - Witnesses
   - Weight given to evidence
   - Treatment of evidence from accomplice with caution
-layout: single
+
 ---
 # Amir Hamzah Bin Berang Kuty v Public Prosecutor 
 

@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Corruption
   - Prevent of Corruption Act
-layout: single
+
 ---
 # Leng Kah Poh v Public Prosecutor 
 

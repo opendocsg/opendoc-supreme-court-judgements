@@ -33,6 +33,6 @@ tags:
   - >-
     Whether court\'s decision on parties\' liabilities binds plaintiff on the
     amount of his claim
-layout: single
+
 ---
 

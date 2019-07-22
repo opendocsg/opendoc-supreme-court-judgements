@@ -6,7 +6,7 @@ tags:
   - Termination of leases
   - Landlord terminating lease of tenant for renovation purposes
   - Whether termination valid
-layout: single
+
 ---
 # Corwin Holdings Pte Ltd v Bhamah Ramdas (trading as Lady Fair Beauty Centre) 
 

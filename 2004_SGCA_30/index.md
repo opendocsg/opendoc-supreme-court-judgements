@@ -15,6 +15,6 @@ tags:
   - >-
     Whether Arbitration Rules of SIAC or SIAC Domestic Arbitration Rules
     applicable
-layout: single
+
 ---
 

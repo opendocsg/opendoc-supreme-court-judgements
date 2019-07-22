@@ -17,7 +17,7 @@ tags:
   - >-
     Whether court should take into consideration accused\'s degree of
     culpability for earlier offence
-layout: single
+
 ---
 # Chong Pit Khai v Public Prosecutor 
 

@@ -47,6 +47,6 @@ tags:
     period for making further arguments
   - 'Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed) s 34(1)(c)'
   - 'Whether Rules of Court (Cap 322, R5, 2006 Rev Ed) O 3 r 2(5) applied'
-layout: single
+
 ---
 

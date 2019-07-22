@@ -8,6 +8,6 @@ tags:
   - Natural justice
   - Allegation of excessive judicial interference
   - Debt and recovery
-layout: single
+
 ---
 

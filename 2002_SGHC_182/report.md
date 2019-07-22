@@ -19,7 +19,7 @@ tags:
   - Words and Phrases
   - \'Consent\'
   - O 59 r 28(4) Rules of Court
-layout: single
+
 ---
 # Bajumi Wahab and Others v Afro-Asia Shipping Co (Pte) Ltd and other applications and 
 

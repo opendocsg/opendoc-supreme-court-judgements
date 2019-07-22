@@ -21,6 +21,6 @@ tags:
     Whether sentence of life imprisonment unreasonable where evidence of
     familial support to address appellant\'s need for longterm medical treatment
     unconvincing
-layout: single
+
 ---
 

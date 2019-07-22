@@ -5,6 +5,6 @@ tags:
   - Insolvency Law
   - Winding up
   - Liquidators unsuccessfully bringing action in company\'s name
-layout: single
+
 ---
 

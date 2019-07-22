@@ -17,7 +17,7 @@ tags:
   - Fire
   - Whether reasonable care taken to prevent cause of fire
   - Whether reasonable care taken to prevent spread of fire
-layout: single
+
 ---
 # Seah Ting Soon trading as Sing Meng Co Wooden Cases Factory v Indonesian Tractors Co 
 

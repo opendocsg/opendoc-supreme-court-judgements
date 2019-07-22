@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Discovery of documents
   - Electronic discovery
-layout: single
+
 ---
 # Mondial Assistance (Asia) Pte Ltd v Eric Jean Raymond Morazin 
 

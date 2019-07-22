@@ -16,6 +16,6 @@ tags:
   - Contract
   - Remedies
   - Penalties
-layout: single
+
 ---
 

@@ -9,7 +9,7 @@ tags:
   - Striking Out
   - Tort
   - Inducement of Breach of Contract
-layout: single
+
 ---
 # Park Regis Hospitality Management Sdn Bhd v British Malayan Trustees Limited & Ors 
 

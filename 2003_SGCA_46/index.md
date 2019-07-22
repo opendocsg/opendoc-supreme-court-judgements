@@ -7,6 +7,6 @@ tags:
   - Leave
   - Whether leave to appeal to Court of Appeal required
   - 'Section 34(2)(a) Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed)'
-layout: single
+
 ---
 

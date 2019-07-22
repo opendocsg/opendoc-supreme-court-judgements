@@ -11,7 +11,7 @@ tags:
   - Retirement
   - Effect
   - Whether retired partners retained any stake in partnership property
-layout: single
+
 ---
 # Sim Yak Song and Others v Lim Chang and Another 
 

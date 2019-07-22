@@ -21,6 +21,6 @@ tags:
   - Child
   - Wife
   - Matrimonial assets
-layout: single
+
 ---
 

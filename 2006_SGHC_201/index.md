@@ -15,6 +15,6 @@ tags:
     even though trial not concluded
   - Whether application premature
   - When witness may remain in court before testimony given
-layout: single
+
 ---
 

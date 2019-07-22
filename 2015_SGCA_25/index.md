@@ -7,6 +7,6 @@ tags:
   - Misuse of Drugs
   - Criminal Procedure and Sentencing
   - Appeal
-layout: single
+
 ---
 

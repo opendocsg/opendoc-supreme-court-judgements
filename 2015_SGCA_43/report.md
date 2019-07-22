@@ -8,7 +8,7 @@ tags:
   - Confidence
   - Evidence
   - Admissibility of evidence
-layout: single
+
 ---
 # ANB v ANC and another and another matter 
 

@@ -6,7 +6,7 @@ tags:
   - Award
   - Recourse against award
   - Setting aside
-layout: single
+
 ---
 # Quarella SpA v Scelta Marble Australia Pty Ltd 
 

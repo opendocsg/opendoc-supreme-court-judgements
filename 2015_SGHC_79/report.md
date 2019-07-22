@@ -5,7 +5,7 @@ tags:
   - Criminal law
   - Statutory offences
   - Prevention of Corruption Act
-layout: single
+
 ---
 # Tjong Mark Edward v Public Prosecutor and another appeal 
 

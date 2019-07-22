@@ -9,6 +9,6 @@ tags:
   - Defendant alleging plaintiff mishandling nation\'s funds
   - Principles of assessment
   - Quantification of damages
-layout: single
+
 ---
 

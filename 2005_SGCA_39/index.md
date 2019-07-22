@@ -30,6 +30,6 @@ tags:
   - >-
     Whether tenant having right to remove tenant\'s fixtures upon termination of
     third tenancy
-layout: single
+
 ---
 

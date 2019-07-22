@@ -38,6 +38,6 @@ tags:
   - Whether trade mark partnership or personal property
   - 's 20(1) Partnership Act (Cap 391, 1994 Ed)'
   - 'ss 12(11) & 12(12) Trade Marks Act (Cap 332, 1992 Ed)'
-layout: single
+
 ---
 

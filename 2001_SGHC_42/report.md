@@ -9,7 +9,7 @@ tags:
   - Effect of petitioners\' plea of guilty
   - Effect of petitioners\' failure to engage legal representation
   - Effect of three-month delay in filing petition
-layout: single
+
 ---
 # Ng Kim Han and Others v Public Prosecutor 
 

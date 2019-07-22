@@ -18,6 +18,6 @@ tags:
   - Contractual terms
   - Arbitration clause
   - Whether arbitration clause incorporated into contract
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - Inspection of Property
   - Patents and Inventions
   - Infringement
-layout: single
+
 ---
 

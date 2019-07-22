@@ -6,7 +6,7 @@ tags:
   - Matrimonial assets
   - Division
   - Long Dual-Income marriages
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UYP _v_ UYQ  

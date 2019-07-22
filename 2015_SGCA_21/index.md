@@ -7,6 +7,6 @@ tags:
   - Contract
   - Contractual terms
   - Implied terms
-layout: single
+
 ---
 

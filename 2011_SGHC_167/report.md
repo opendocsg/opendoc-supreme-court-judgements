@@ -4,7 +4,7 @@ subtitle: "[2011] SGHC 167 / 11\_July\_2011"
 tags:
   - Damages
   - Assessment
-layout: single
+
 ---
  (a) Professional fees of TecBiz Frisman Pte Ltd S$62,710. 
 

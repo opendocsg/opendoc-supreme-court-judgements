@@ -26,6 +26,6 @@ tags:
   - >-
     No easement of way registered against certificate of title of adjoining
     property
-layout: single
+
 ---
 

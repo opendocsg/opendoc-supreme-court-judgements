@@ -9,6 +9,6 @@ tags:
   - Quantum
   - Whether quantum of damages inflated
   - Whether selected multiplier and multiplicand inaccurate
-layout: single
+
 ---
 

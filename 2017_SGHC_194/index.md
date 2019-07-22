@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Trusts
   - Business Trust
-layout: single
+
 ---
 

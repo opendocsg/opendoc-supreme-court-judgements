@@ -13,7 +13,7 @@ tags:
   - Bankruptcy
   - Bankruptcy order
   - Effect of setting aside bankruptcy order
-layout: single
+
 ---
 # TYC Investment Pte Ltd v Chan Siew Lee Jannie and another 
 

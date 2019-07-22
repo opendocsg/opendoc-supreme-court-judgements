@@ -6,6 +6,6 @@ tags:
   - Oppression
   - Minority Shareholders
   - Share valuation
-layout: single
+
 ---
 

@@ -6,6 +6,6 @@ tags:
   - conditions attached
   - Succession and Wills
   - conditions
-layout: single
+
 ---
 

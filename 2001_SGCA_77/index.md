@@ -13,6 +13,6 @@ tags:
     registrar\'s decision
   - Whether judge\'s discretion fettered in reviewing registrar\'s decision
   - Rules of Court O 59 r 36
-layout: single
+
 ---
 

@@ -20,7 +20,7 @@ tags:
   - >-
     Whether publication of article was actuated by malice such that defendant
     was precluded from this defence
-layout: single
+
 ---
 # ABZ v Singapore Press Holdings Ltd 
 

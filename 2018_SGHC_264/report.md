@@ -12,7 +12,7 @@ tags:
   - Companies
   - Incorporation of companies
   - Lifting corporate veil
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sun Electric Pte Ltd and another _v_ Menrva Solutions Pte Ltd and another  

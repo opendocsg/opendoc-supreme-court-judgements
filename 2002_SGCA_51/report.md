@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 # Anwar Siraj & Another v Teo Hee Lai Building Construction Pte Ltd 
 

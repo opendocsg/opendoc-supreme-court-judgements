@@ -10,7 +10,7 @@ tags:
   - Building Maintenance and Strata Management Act
   - Equity
   - Estoppel
-layout: single
+
 ---
 # Management Corporation Strata Title Plan No 940 v Lim Florence Marjorie 
 

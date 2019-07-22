@@ -5,7 +5,7 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Culpable homicide
-layout: single
+
 ---
 # Dewi Sukowati v Public Prosecutor 
 

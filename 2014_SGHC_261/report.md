@@ -11,7 +11,7 @@ tags:
   - Evidence
   - Admissibility of evidence
   - Hearsay
-layout: single
+
 ---
 # Goi Wang Firn (Ni Wanfen) and others v Chee Kow Ngee Sing (Pte) Ltd 
 

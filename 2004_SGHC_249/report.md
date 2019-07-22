@@ -8,7 +8,7 @@ tags:
     Accused pleaded guilty to culpable homicide not amounting to murder and
     offence of causing mischief
   - Appropriate sentence.
-layout: single
+
 ---
 # Public Prosecutor v Low Ah Soy 
 

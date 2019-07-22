@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Foreign Judgments
   - Reciprocal Enforcement of Commonwealth Judgments Act
-layout: single
+
 ---
 

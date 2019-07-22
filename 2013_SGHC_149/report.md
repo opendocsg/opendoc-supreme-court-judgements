@@ -11,7 +11,7 @@ tags:
   - Family law
   - matrimonial assets
   - division
-layout: single
+
 ---
 # BJZ v BKA 
 

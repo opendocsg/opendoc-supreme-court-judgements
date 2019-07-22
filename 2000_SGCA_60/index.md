@@ -35,6 +35,6 @@ tags:
   - Acquiescence
   - Whether party stood by as to induce another to commit the act
   - Whether there was change of position in reliance on acquiescence
-layout: single
+
 ---
 

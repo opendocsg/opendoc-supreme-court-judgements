@@ -24,7 +24,7 @@ tags:
     Whether letter of intent sufficient acknowledgment and acceptance of
     existence of tenancy
   - Whether property being occupied purely on periodic basis
-layout: single
+
 ---
 # Khng Thian Huat and Another v Riduan bin Yusof and Another 
 

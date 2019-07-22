@@ -18,7 +18,7 @@ tags:
     Whether principal liable for accident happening to workmen while travelling
     on transport provided by principal
   - 'Sections 3, 17 Workmen\''s Compensation Act (Cap 354, 1998 Rev Ed)'
-layout: single
+
 ---
 # Magaforce Construction v Khamso Wirat and Others 
 

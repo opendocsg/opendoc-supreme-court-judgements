@@ -11,7 +11,7 @@ tags:
   - Forbearance
   - Civil Procedure
   - Summary Judgment
-layout: single
+
 ---
 # Max Sources Pte Ltd v Agrocon (S) Pte Ltd and another 
 

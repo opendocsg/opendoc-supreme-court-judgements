@@ -9,7 +9,7 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Importation of controlled drugs
-layout: single
+
 ---
 # Public Prosecutor v Pham Duyen Quyen 
 

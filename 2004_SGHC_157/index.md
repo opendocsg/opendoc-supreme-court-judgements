@@ -21,6 +21,6 @@ tags:
   - Civil Procedure
   - Limitation
   - Plaintiff having two separate causes of action against defendants
-layout: single
+
 ---
 

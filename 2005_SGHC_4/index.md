@@ -39,6 +39,6 @@ tags:
     Whether multiplicand and multiplier for calculation of quantum of loss of
     support fair
   - Whether deduction for interest earned on capital applicable to quantum
-layout: single
+
 ---
 

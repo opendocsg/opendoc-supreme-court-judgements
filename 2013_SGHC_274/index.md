@@ -11,6 +11,6 @@ tags:
   - Tort
   - Negligenc e
   - Breac h of duty
-layout: single
+
 ---
 

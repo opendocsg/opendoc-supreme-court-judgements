@@ -32,7 +32,7 @@ tags:
     disciplinary committee to punish medical practitioner with costs if
     practitioner acquitted of charge
   - 'Section 45 Medical Registration Act (Cap 174, 2004 Rev Ed)'
-layout: single
+
 ---
 # Lim Teng Ee Joyce v Singapore Medical Council 
 

@@ -6,6 +6,6 @@ tags:
   - Guarantees and indemnity
   - Contracts of indemnity
   - Discharge
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - >-
     Whether India more appropriate forum than Singapore for resolution of
     dispute
-layout: single
+
 ---
 

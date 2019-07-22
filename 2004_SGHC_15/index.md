@@ -15,6 +15,6 @@ tags:
   - >-
     Whether defendant can rely on indemnity clause in action against the third
     parties.
-layout: single
+
 ---
 

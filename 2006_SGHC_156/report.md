@@ -9,7 +9,7 @@ tags:
   - >-
     Whether assets in question were validly gifted before death of the deceased
     or formed part of the estate available for distribution
-layout: single
+
 ---
 # Teng Yeow Fatt (as executor of the estate of Teng Mong Fong, deceased) v Teng Siew Kee 
 

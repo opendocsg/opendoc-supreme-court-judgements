@@ -20,6 +20,6 @@ tags:
   - Onus of proof
   - Assessment of damages
   - Onus of proof of loss wholly on plaintiff
-layout: single
+
 ---
 

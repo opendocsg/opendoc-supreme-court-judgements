@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Appeals
   - Leave
-layout: single
+
 ---
 # Teo Kim Hui and Another v Kwok Wai Hon 
 

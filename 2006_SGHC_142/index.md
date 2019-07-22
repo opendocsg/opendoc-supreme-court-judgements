@@ -58,6 +58,6 @@ tags:
     Whether court having inherent jurisdiction to order non-parties to action to
     provide documents and handwriting samples to defendant for inspection prior
     to trial
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Banking
   - Garnishee orders
   - Assignment and attachment of money held by bank
-layout: single
+
 ---
 

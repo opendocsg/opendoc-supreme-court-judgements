@@ -8,7 +8,7 @@ tags:
   - Contract
   - Formation
   - Relevance of conduct of parties.
-layout: single
+
 ---
 # Karuppannrgounder Paramasivam t/a Sri Maharaja Industries v Kearns Pte Ltd 
 

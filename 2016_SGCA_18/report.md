@@ -5,7 +5,7 @@ tags:
   - Contract
   - Remedies
   - Damages
-layout: single
+
 ---
 # Alvin Nicholas Nathan v Raffles Assets (Singapore) Pte Ltd 
 

@@ -7,7 +7,7 @@ tags:
   - Decree absolute and decree nisi
   - Conflict of laws
   - Recognition of foreign divorce judgment
-layout: single
+
 ---
 # Yap Chai Ling and another v Hou Wa Yi 
 

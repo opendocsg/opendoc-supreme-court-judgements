@@ -8,7 +8,7 @@ tags:
   - Setting aside
   - Enforcement
   - Foreign award
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # BAZ _v_ BBA and others and other matters  

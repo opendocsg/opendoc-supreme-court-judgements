@@ -12,6 +12,6 @@ tags:
   - Restitution
   - Unjust enrichment
   - Illegality and public policy
-layout: single
+
 ---
 

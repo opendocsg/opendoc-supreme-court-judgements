@@ -19,6 +19,6 @@ tags:
   - Relevancy of documents
   - \'Fishing expedition\'
   - Whether to allow discovery
-layout: single
+
 ---
 

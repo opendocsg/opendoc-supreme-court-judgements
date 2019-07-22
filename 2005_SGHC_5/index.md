@@ -23,6 +23,6 @@ tags:
   - Loss of substratum of company
   - Whether just and equitable to wind up company
   - 'Section 254(1)(i) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

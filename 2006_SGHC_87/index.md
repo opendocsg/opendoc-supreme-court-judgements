@@ -11,6 +11,6 @@ tags:
     judgment creditor\'s writ of seizure and sale against mortgaged property
     registered
   - 'Sections 73, 135 Land Titles Act (Cap 157, 2004 Rev Ed)'
-layout: single
+
 ---
 

@@ -7,6 +7,6 @@ tags:
   - Appeal
   - Civil Procedure
   - Offer to settle
-layout: single
+
 ---
 

@@ -20,6 +20,6 @@ tags:
   - Duties
   - Cessation of directorship
   - Scope of duty still owed to company
-layout: single
+
 ---
 

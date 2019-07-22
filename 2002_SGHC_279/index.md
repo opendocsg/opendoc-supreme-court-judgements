@@ -15,6 +15,6 @@ tags:
   - Construction of statute
   - Purposive approach
   - 'Interpretation Act (Cap 1, 1997 Rev Ed) s 9A(1)'
-layout: single
+
 ---
 

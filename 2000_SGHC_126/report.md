@@ -10,7 +10,7 @@ tags:
   - Illegality and public policy
   - Staututory illegality
   - Contract for brokerage commission
-layout: single
+
 ---
 # Hemlata Pathela (trading as Coco Properties) v Suresh Partabrai and Another 
 

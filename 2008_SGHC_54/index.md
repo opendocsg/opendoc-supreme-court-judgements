@@ -6,6 +6,6 @@ tags:
   - Discovery of documents
   - Application
   - Repeated applications for discovery
-layout: single
+
 ---
 

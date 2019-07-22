@@ -9,6 +9,6 @@ tags:
   - >-
     Whether murder could be reduced to culpable homicide not amounting to
     murder.
-layout: single
+
 ---
 

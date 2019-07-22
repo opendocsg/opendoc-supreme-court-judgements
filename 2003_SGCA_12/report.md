@@ -14,7 +14,7 @@ tags:
   - Defence of sudden fight
   - Whether use of knife against unarmed deceased constituted undue advantage
   - 'Penal Code (Cap 224) s 300 & 300(c), exception 4'
-layout: single
+
 ---
 # Arun Prakash Vaithilingam v Public Prosecutor 
 

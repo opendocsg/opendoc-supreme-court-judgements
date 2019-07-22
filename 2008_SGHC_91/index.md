@@ -6,6 +6,6 @@ tags:
   - Costs
   - Security
   - Whether condition to grant security for costs satisfied
-layout: single
+
 ---
 

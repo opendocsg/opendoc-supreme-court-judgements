@@ -9,7 +9,7 @@ tags:
   - Appellant signing notices of exercise of options in Singapore
   - Appellant delivering notices to company in London
   - Whether constituting exercise of stock options
-layout: single
+
 ---
 # HY v Comptroller of Income Tax 
 

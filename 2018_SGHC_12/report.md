@@ -8,7 +8,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Benchmark sentences
-layout: single
+
 ---
 # Logachev Vladislav v Public Prosecutor 
 

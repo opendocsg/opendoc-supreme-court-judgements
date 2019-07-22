@@ -12,6 +12,6 @@ tags:
   - Proprietary estoppel
   - Trusts
   - Resulting Trusts
-layout: single
+
 ---
 

@@ -8,6 +8,6 @@ tags:
   - Criminal procedure and sentencing
   - Sentencing
   - Conviction
-layout: single
+
 ---
 

@@ -9,6 +9,6 @@ tags:
   - Laches
   - Evidence
   - Admissibility of Evidence
-layout: single
+
 ---
 

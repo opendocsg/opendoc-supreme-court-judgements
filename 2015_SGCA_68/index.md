@@ -6,6 +6,6 @@ tags:
   - Contractual terms
   - Express terms
   - Interpretation
-layout: single
+
 ---
 

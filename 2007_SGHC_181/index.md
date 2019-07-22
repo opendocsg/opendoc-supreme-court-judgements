@@ -12,6 +12,6 @@ tags:
   - Leave
   - Leave to appeal to the Court of Appeal
   - Finality in matters to prevent excessive litigation
-layout: single
+
 ---
 

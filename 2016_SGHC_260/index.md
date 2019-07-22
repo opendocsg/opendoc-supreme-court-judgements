@@ -13,6 +13,6 @@ tags:
   - Civil procedure
   - Costs
   - Indemnity costs
-layout: single
+
 ---
 

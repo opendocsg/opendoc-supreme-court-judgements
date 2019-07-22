@@ -17,7 +17,7 @@ tags:
   - Distress for rent
   - Writ of distress
   - Whether execution therof terminated tenancy
-layout: single
+
 ---
 # Somerset Investments Pte Ltd (formerly known as Liang Court Pte Ltd) v Far East Technology 
 

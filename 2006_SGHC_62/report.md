@@ -17,7 +17,7 @@ tags:
   - >-
     Whether defendant solicitors negligent in failing to advise plaintiffs of
     unlikelihood of developer paying off mortgage
-layout: single
+
 ---
 # Yongnam Engineering & Constructions (Pte) Ltd and Another v Yeo Wee Kiong and Others 
 

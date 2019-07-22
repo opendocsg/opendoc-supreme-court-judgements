@@ -7,7 +7,7 @@ tags:
   - Damages
   - Measure of damages
   - Tort
-layout: single
+
 ---
 # Ng Siok Poh (administratrix of the estate of Lim Lian Chiat, deceased) and another v Sim 
 

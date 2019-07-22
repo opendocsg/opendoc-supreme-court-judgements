@@ -10,6 +10,6 @@ tags:
   - Unincorporated Associations and Trade Unions
   - Friendly societies
   - Management
-layout: single
+
 ---
 

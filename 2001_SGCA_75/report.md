@@ -35,7 +35,7 @@ tags:
   - Words and Phrases
   - \'persons who are not experts in relation to objects of that kind\'
   - 's 69 Copyright Act (Cap 63, 1988 Ed)'
-layout: single
+
 ---
 # Flamelite (S) Pte Ltd and Others v Lam Heng Chung and Others 
 

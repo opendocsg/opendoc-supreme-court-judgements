@@ -9,7 +9,7 @@ tags:
   - Contract
   - Breach
   - Causation of Loss
-layout: single
+
 ---
 # Qilin World Capital Ltd v CPIT Investments Ltd and another appeal 
 

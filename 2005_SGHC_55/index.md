@@ -13,6 +13,6 @@ tags:
   - Daughter signing agreement providing for loan to father
   - Whether agreement manifestly disadvantageous to daughter
   - Whether presumed undue influence exercised by father over daughter
-layout: single
+
 ---
 

@@ -17,7 +17,7 @@ tags:
   - >-
     Availability of contemporaneous documents reduced need to rely on testimony
     of witnesses on stand
-layout: single
+
 ---
 # Ng Chee Chuan v Ng Ai Tee (administratrix of the estate of Yap Yoon Moi, deceased) 
 

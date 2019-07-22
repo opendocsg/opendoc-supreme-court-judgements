@@ -7,6 +7,6 @@ tags:
   - Civil Procedure
   - Privileges
   - Marital communications
-layout: single
+
 ---
 

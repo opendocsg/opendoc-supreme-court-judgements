@@ -8,6 +8,6 @@ tags:
   - >-
     Discretion of court not to impose sentence of death when offender was
     suffering from an abnormality of mind
-layout: single
+
 ---
 

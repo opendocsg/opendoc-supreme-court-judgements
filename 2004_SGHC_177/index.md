@@ -15,6 +15,6 @@ tags:
   - >-
     Whether court should not have made order reversing priority between Central
     Provident Fund and bank because consent of both parties required.
-layout: single
+
 ---
 

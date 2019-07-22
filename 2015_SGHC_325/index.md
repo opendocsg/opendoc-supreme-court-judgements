@@ -8,6 +8,6 @@ tags:
   - Discovery of documents
   - Legal Profession
   - Professional privileges
-layout: single
+
 ---
 

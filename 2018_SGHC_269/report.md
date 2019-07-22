@@ -6,7 +6,7 @@ tags:
   - Sentencing
   - Appeals
   - Benchmark Sentences
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Huang Ying-Chun _v_ Public Prosecutor  

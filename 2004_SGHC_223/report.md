@@ -21,7 +21,7 @@ tags:
   - >-
     Whether general damages claimable in addition to or in place of liquidated
     damages
-layout: single
+
 ---
 # Sintal Enterprise Pte Ltd v Multiplex Constructions Pty Ltd 
 

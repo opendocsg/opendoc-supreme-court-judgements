@@ -5,7 +5,7 @@ tags:
   - Admiralty and shipping
   - Collision
   - Regulations
-layout: single
+
 ---
 # The “Dream Star” 
 

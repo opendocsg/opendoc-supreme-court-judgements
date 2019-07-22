@@ -9,7 +9,7 @@ tags:
   - Arbitration
   - Arbitral tribunal
   - Jurisdiction
-layout: single
+
 ---
 # Sanum Investments Ltd v Government of the Lao People’s Democratic Republic 
 

@@ -18,6 +18,6 @@ tags:
     Conviction of immigration offence involving making of false statement to
     obtain employment pass
   - Appropriate sentence to be imposed
-layout: single
+
 ---
 

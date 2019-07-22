@@ -8,7 +8,7 @@ tags:
     Whether order by referee in Small Claims Tribunal can be set aside on
     application to High Court
   - 'Section 38 Small Claims Tribunals Act (Cap 308, 1998 Rev Ed)'
-layout: single
+
 ---
 # OK Property Pte Ltd v Heng Siew Ang 
 

@@ -9,6 +9,6 @@ tags:
   - >-
     Whether father\'s idea of discipline and instilling core values relevant
     factors in determining child\'s best interest
-layout: single
+
 ---
 

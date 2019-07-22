@@ -16,6 +16,6 @@ tags:
   - Sentencing
   - Principles
   - Voluntarily causing hurt
-layout: single
+
 ---
 

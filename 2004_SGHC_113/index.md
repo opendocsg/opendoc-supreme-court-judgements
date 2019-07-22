@@ -9,6 +9,6 @@ tags:
   - Criminal Procedure and Sentencing
   - Mitigation
   - Culpable homicide not amounting to murder
-layout: single
+
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Members
   - Rights
   - Derivative Actions
-layout: single
+
 ---
 # Chong Chin Fook v Solomon Alliance Management Pte Ltd and others 
 

@@ -7,7 +7,7 @@ tags:
   - Muslim Law
   - Majlis Ugama Islam Singapura
   - Powers
-layout: single
+
 ---
 # Mohamed Shariff Valibhoy and others v Arif Valibhoy 
 

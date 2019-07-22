@@ -11,7 +11,7 @@ tags:
   - Architects
   - Building contract
   - Singapore Institute of Architects standard conditions
-layout: single
+
 ---
 # Hiap Hong & Co Pte Ltd v Hong Huat Development Co (Pte) Ltd 
 

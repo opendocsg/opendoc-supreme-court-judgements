@@ -21,7 +21,7 @@ tags:
   - Purchasers signing letter of consent
   - Delivery of unit with revised layout by contracted date
   - Purchasers complaining layout not in accordance with approved plan
-layout: single
+
 ---
 # Winjoy Investment Pte Ltd v Goh Boon Huat and Another 
 

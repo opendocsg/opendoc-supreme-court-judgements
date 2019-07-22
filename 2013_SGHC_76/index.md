@@ -7,6 +7,6 @@ tags:
   - Collective Sales
   - Equity
   - Fiduciary relationships
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Contract
   - Illegality and public policy
   - Illegality under international and foreign law
-layout: single
+
 ---
 

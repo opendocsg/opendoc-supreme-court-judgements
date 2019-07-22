@@ -8,7 +8,7 @@ tags:
   - Offshore case
   - Civil procedure
   - Summary judgment
-layout: single
+
 ---
 # Teras Offshore Pte Ltd v Teras Cargo Transport (America) LLC 
 

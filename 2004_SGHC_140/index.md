@@ -10,6 +10,6 @@ tags:
   - Civil Procedure
   - Interpleader
   - Nature of interpleader proceedings
-layout: single
+
 ---
 

@@ -17,6 +17,6 @@ tags:
   - Future interests
   - Adverse possession
   - Encroachment of fence onto respondents\' property
-layout: single
+
 ---
 

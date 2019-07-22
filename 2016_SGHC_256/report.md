@@ -6,7 +6,7 @@ tags:
   - Stay of Proceedings
   - Conflict of Laws
   - Natural Forum
-layout: single
+
 ---
 # Trung Nguyen Group Corp v Trung Nguyen International Pte Ltd and others 
 

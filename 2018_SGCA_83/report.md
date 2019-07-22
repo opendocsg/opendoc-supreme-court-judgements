@@ -16,7 +16,7 @@ tags:
   - Equity
   - Undue influence
   - Presumed
-layout: single
+
 ---
 # BOM v BOK and another appeal 
 

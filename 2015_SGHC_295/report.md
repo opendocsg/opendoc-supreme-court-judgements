@@ -8,7 +8,7 @@ tags:
   - Conflict of laws
   - Choice of jurisdiction
   - Exclusive
-layout: single
+
 ---
 # PT Selecta Bestama v Sin Huat Huat Marine Transportation Pte Ltd 
 

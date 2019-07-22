@@ -5,7 +5,7 @@ tags:
   - Legal Profession
   - Professional Conduct
   - Disciplinary Procedures
-layout: single
+
 ---
 # Win-Win Aluminium Systems Pte Ltd v Law Society of Singapore 
 

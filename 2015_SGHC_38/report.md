@@ -17,7 +17,7 @@ tags:
   - Passing off
   - COPYRIGHT
   - Licenses
-layout: single
+
 ---
 # Golden Season Pte Ltd and others v Kairos Singapore Holdings Pte Ltd and another 
 

@@ -5,7 +5,7 @@ tags:
   - Companies
   - Winding up
   - Payments made by company to defendant two years before winding up
-layout: single
+
 ---
 # Amrae Benchuan Trading Pte Ltd (in liquidation) v Tan Te Teck Gregory 
 

@@ -41,7 +41,7 @@ tags:
   - Disclosure of documents
   - Duty on parties to effect proper discovery
   - Possible consequences of failure to comply with obligation
-layout: single
+
 ---
 # Susilawati v American Express Bank Ltd 
 

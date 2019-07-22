@@ -8,6 +8,6 @@ tags:
   - Contract
   - Remedies
   - Specific performance
-layout: single
+
 ---
 

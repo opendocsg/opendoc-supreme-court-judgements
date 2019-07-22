@@ -10,6 +10,6 @@ tags:
   - Breach of duty
   - Tort
   - Non-delegable duties
-layout: single
+
 ---
 

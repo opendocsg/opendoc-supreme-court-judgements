@@ -5,7 +5,7 @@ tags:
   - Legal Profession
   - Admission
   - ad hoc
-layout: single
+
 ---
 # Re Joseph David QC 
 

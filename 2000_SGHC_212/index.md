@@ -14,6 +14,6 @@ tags:
   - Disciplinary procedures
   - Inquiry Committee
   - Inquiry into complaints
-layout: single
+
 ---
 

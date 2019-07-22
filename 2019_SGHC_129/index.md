@@ -8,6 +8,6 @@ tags:
   - Unlawful stalking
   - Criminal Procedure and Sentencing
   - Sentencing
-layout: single
+
 ---
 

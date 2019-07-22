@@ -8,6 +8,6 @@ tags:
   - Relevant sentencing considerations
   - Prosecution appealing against sentence
   - Whether sentence was appropriate
-layout: single
+
 ---
 

@@ -4,6 +4,6 @@ subtitle: "[2019] SGHC(I) 9 / Decision Date: 29\_May\_2019"
 tags:
   - Civil Procedure
   - Stay of proceedings
-layout: single
+
 ---
 

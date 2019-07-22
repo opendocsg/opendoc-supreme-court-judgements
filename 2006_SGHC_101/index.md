@@ -25,6 +25,6 @@ tags:
   - >-
     Whether insured or insurer to decide whether circumstances such that notice
     should be given
-layout: single
+
 ---
 

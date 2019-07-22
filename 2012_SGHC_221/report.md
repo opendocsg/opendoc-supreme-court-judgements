@@ -7,7 +7,7 @@ tags:
   - Administrative Law
   - Judicial review
   - costs
-layout: single
+
 ---
 # Vellama d/o Marie Muthu v Attorney-General 
 

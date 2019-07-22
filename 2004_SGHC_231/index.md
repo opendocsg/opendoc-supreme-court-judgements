@@ -24,6 +24,6 @@ tags:
   - >-
     Whether duty of care existing given defendant\'s car remaining in workshop
     against plaintiff\'s wishes
-layout: single
+
 ---
 

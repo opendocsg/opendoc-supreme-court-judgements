@@ -7,7 +7,7 @@ tags:
   - Prosecutorial discretion
   - Constitutional Law
   - Equality before the law
-layout: single
+
 ---
 # Yong Vui Kong v Public Prosecutor 
 

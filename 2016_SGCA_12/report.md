@@ -9,7 +9,7 @@ tags:
   - Tort
   - Negligence
   - Professional Negligence
-layout: single
+
 ---
 # Nava Bharat (Singapore) Pte Ltd v Straits Law Practice LLC and another and another appeal 
 

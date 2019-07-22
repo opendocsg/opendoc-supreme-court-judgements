@@ -6,7 +6,7 @@ tags:
   - Interpretation
   - Contract
   - Penalty
-layout: single
+
 ---
 # Edwards Jason Glenn v Australia and New Zealand Banking Group Ltd 
 

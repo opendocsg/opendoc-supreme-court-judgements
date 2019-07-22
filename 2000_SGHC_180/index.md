@@ -11,6 +11,6 @@ tags:
   - Whether stress a mitigating factor
   - Whether length of standing a mitigating factor
   - 'ss 83(1), 83(2)(a), 94A & 98(1) Legal Profession Act (Cap 161, 1997 Rev Ed)'
-layout: single
+
 ---
 

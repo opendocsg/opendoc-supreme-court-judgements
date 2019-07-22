@@ -10,7 +10,7 @@ tags:
   - Striking out
   - Civil Procedure
   - Third party proceedings
-layout: single
+
 ---
 # Sunbreeze Group Investments Ltd and others v Sim Chye Hock Ron 
 

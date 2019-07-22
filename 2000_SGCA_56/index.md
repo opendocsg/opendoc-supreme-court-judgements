@@ -29,6 +29,6 @@ tags:
   - Common property
   - Tenants-in-common
   - Proportionately abated damages
-layout: single
+
 ---
 

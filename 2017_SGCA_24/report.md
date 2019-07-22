@@ -7,7 +7,7 @@ tags:
   - Conflict of laws
   - Natural forum
   - Stay of proceedings
-layout: single
+
 ---
 # Rotary Engineering Ltd and others v Kioumji & Eslim Law Firm and another and another 
 

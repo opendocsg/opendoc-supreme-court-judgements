@@ -11,6 +11,6 @@ tags:
   - Release of vessel in exchange for security
   - Amount of security payable
   - Form of security
-layout: single
+
 ---
 

@@ -5,6 +5,6 @@ tags:
   - Injunction
   - Purposes for grant
   - Protection of contractual rights
-layout: single
+
 ---
 

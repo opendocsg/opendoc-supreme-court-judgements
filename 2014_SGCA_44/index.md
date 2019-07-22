@@ -8,6 +8,6 @@ tags:
   - Jurisdiction
   - CONFLICT OF LAWS
   - Natural Forum
-layout: single
+
 ---
 

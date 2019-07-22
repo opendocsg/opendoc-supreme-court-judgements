@@ -12,7 +12,7 @@ tags:
   - Civil Procedure
   - Striking out
   - Whether action against defendants should be struck out
-layout: single
+
 ---
 # Elan Impex (Singapore) Pte Ltd and Another v Daewoo Corporation and Others 
 

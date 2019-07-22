@@ -11,7 +11,7 @@ tags:
   - Confessions
   - Retraction
   - Whether retracted confession can be relied upon to convict accused.
-layout: single
+
 ---
 # Public Prosecutor v Mohd Raffiq Bin Mohd Aslam 
 

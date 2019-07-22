@@ -9,7 +9,7 @@ tags:
   - Laches
   - Evidence
   - Admissibility of Evidence
-layout: single
+
 ---
 # Zulaikha Bee Binte Mohideen Abdul Kadir v Quek Chek Khiang and others 
 

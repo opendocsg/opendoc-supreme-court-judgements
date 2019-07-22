@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Extension of Validity of Writ
   - Settlement Negotiations
-layout: single
+
 ---
 # The “Nur Allya” 
 

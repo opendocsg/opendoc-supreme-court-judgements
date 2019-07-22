@@ -6,7 +6,7 @@ tags:
   - Contractual terms
   - Evidence
   - Proof of Evidence
-layout: single
+
 ---
 # Lim Andy v Tea Yeok Kian Terence 
 

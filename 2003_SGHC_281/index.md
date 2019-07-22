@@ -10,6 +10,6 @@ tags:
     Consecutive sentences by operation of s 18 of the Criminal Procedure Code
     (Cap 68)
   - Section 230 of the Criminal Procedure Code (Cap 68).
-layout: single
+
 ---
 

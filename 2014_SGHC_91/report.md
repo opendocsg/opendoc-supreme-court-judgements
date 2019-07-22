@@ -8,7 +8,7 @@ tags:
   - Family Law
   - Maintenance
   - Wife
-layout: single
+
 ---
 # Goh Cheok Yean v Lum Sai Gek 
 

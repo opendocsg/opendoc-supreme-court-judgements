@@ -13,6 +13,6 @@ tags:
   - Expert evidence
   - Evidence
   - Admissibility of evidence
-layout: single
+
 ---
 

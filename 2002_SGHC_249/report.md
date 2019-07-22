@@ -10,7 +10,7 @@ tags:
   - Mitigation
   - Alleged provocation
   - Accused\'s previous convictions not related
-layout: single
+
 ---
 # Public Prosecutor v Aw Teck Hock 
 

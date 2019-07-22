@@ -9,7 +9,7 @@ tags:
   - Civil Procedure
   - Judgments and orders
   - Liberty to apply
-layout: single
+
 ---
 # Sigrid Else Roger Marthe Wauters v Lieven Corneel Leo Raymond van den Brande 
 

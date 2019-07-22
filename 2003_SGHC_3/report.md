@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Appeals
   - Whether leave to appeal to the Court of Appeal should be granted.
-layout: single
+
 ---
 # Vadivel Ramesh and Another v Aegis Equipment Pte Ltd and Another 
 

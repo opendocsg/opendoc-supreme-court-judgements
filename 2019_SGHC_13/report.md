@@ -10,7 +10,7 @@ tags:
   - Unincorporated Associations and Trade Unions
   - Friendly societies
   - Management
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Singapore Rifle Association _v_ Singapore Shooting Association and others  

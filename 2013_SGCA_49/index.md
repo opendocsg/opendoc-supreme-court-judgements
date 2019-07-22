@@ -6,6 +6,6 @@ tags:
   - Duty of Care
   - Tort
   - Misrepresentation
-layout: single
+
 ---
 

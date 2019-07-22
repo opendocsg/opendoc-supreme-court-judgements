@@ -4,7 +4,7 @@ subtitle: "[2009] SGHC 203 / 11\_September\_2009"
 tags:
   - Contract
   - Building and Construction Law
-layout: single
+
 ---
  1.1 Preliminaries $ 1,960,000. 
 

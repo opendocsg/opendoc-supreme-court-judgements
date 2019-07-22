@@ -12,7 +12,7 @@ tags:
   - minority shareholders
   - Trusts
   - constructive trusts
-layout: single
+
 ---
 # Ong Bee Dee (executor of the estate of Ong Tuan Seng, deceased) v Ong Bee Chew and 
 

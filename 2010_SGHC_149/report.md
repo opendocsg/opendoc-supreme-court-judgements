@@ -5,7 +5,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Tan Hup Thye v Refco (Singapore) Pte Ltd (in members’ voluntary liquidation) 
 

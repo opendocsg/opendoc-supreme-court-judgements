@@ -30,6 +30,6 @@ tags:
     disregard of the law
   - Whether duty imposed on bankrupt delegable
   - 's 131(1)(b) Bankruptcy Act (Cap 20, 2000 Ed)'
-layout: single
+
 ---
 

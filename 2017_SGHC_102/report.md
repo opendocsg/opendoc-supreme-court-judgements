@@ -16,7 +16,7 @@ tags:
   - Tort
   - Negligence
   - Duty of Care
-layout: single
+
 ---
 # PT Sandipala Arthaputra v STMicroelectronics Asia Pacific Pte Ltd and others 
 

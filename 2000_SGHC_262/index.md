@@ -18,6 +18,6 @@ tags:
     Criminal breach of trust -Whether sub-pledging of vehicle documents amount
     to misappropriation
   - s 409 Penal Code
-layout: single
+
 ---
 

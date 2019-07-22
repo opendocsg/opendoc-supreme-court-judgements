@@ -8,6 +8,6 @@ tags:
   - Judicial review
   - Employment Law
   - Work Injury Compensation Act
-layout: single
+
 ---
 

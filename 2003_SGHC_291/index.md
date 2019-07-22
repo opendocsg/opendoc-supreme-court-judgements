@@ -18,6 +18,6 @@ tags:
   - >-
     Whether defendants owed duty of c are to plaintiffs in disc harging c
     ontaminated nitric ac id into their vessel
-layout: single
+
 ---
 

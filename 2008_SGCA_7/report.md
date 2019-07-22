@@ -37,7 +37,7 @@ tags:
   - >-
     Purposive interpretation of s 84A(1) read with s 84A(3) Land Titles (Strata)
     Act (Cap 158, 1999 Rev Ed)
-layout: single
+
 ---
 # Ng Swee Lang and Another v Sassoon Samuel Bernard and Others 
 

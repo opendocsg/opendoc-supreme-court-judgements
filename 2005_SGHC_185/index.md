@@ -14,6 +14,6 @@ tags:
     Whether negligence of master of vessel and lack of due diligence by assured
     proximate cause of loss
   - Whether assured taking reasonable measures to avert or minimise loss
-layout: single
+
 ---
 

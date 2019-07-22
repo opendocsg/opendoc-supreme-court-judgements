@@ -15,6 +15,6 @@ tags:
   - Contributory negligence
   - Head injuries from road traffic accident
   - Whether driver had taken sufficient precautionary measures
-layout: single
+
 ---
 

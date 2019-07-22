@@ -26,7 +26,7 @@ tags:
   - Whether compensation order should be granted by High Court
   - Factors to consider
   - 'Section 401(1)(b) Criminal Procedure Code (Cap 68, 1985 Rev Ed)'
-layout: single
+
 ---
 # Public Prosecutor v Donohue Enilia 
 

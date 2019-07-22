@@ -8,7 +8,7 @@ tags:
   - CRIMINAL LAW
   - Elements of crime
   - Mens rea
-layout: single
+
 ---
 # Koh Jing Kwang v Public Prosecutor 
 

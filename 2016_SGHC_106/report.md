@@ -6,7 +6,7 @@ tags:
   - Industrial application
   - Patents and Inventions
   - Novelty
-layout: single
+
 ---
 # Warner-Lambert Company LLC v Novartis (Singapore) Pte Ltd 
 

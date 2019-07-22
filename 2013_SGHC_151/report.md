@@ -10,7 +10,7 @@ tags:
   - Tort
   - business opportunity
   - actual loss of profit or loss of chance to profit
-layout: single
+
 ---
 # Swiss Butchery Pte Ltd v Huber Ernst and others and another suit 
 

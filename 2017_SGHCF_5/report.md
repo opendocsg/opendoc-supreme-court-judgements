@@ -23,7 +23,7 @@ tags:
   - Family law
   - Custody
   - Access
-layout: single
+
 ---
 # BNS v BNT 
 

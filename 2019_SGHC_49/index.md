@@ -10,6 +10,6 @@ tags:
   - Admissibility
   - Sentencing
   - Sexual offences
-layout: single
+
 ---
 

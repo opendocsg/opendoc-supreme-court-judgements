@@ -16,7 +16,7 @@ tags:
   - Forum non conveniens
   - Respondent commencing action in Germany based on employment agreement
   - Appellants commencing claim in tort in Singapore
-layout: single
+
 ---
 # Rickshaw Investments Ltd and Another v Nicolai Baron von Uexkull 
 

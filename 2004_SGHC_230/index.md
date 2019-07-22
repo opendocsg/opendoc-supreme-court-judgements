@@ -22,6 +22,6 @@ tags:
   - Plaintiffs suing defendant for damages for driving vehicle negligently
   - Whether defendant negligent in his driving
   - Whether defence of inevitable accident established
-layout: single
+
 ---
 

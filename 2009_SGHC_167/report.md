@@ -6,7 +6,7 @@ tags:
   - Judgment on Admission
   - Landlord and Tenant
   - Recovery of possession
-layout: single
+
 ---
 # Cove Development Pte Ltd v Ideal Accommodation (Singapore) Pte Ltd 
 

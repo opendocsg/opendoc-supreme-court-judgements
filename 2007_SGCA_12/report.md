@@ -20,7 +20,7 @@ tags:
   - >-
     Valuation of shares unfavourable to parties seeking to sell shares to exit
     company
-layout: single
+
 ---
 # Hoban Steven Maurice Dixon and Another v Scanlon Graeme John and Others 
 

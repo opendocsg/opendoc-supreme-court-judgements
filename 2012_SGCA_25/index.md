@@ -12,6 +12,6 @@ tags:
   - Equality before the law
   - Constitutional Law
   - Judicial Power
-layout: single
+
 ---
 

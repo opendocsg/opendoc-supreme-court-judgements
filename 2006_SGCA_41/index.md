@@ -20,6 +20,6 @@ tags:
     Whether negative ruling on jurisdiction to hear matter by arbitral tribunal
     amounting to award
   - 'Section 2(1) International Arbitration Act (Cap 143A, 2002 Rev Ed)'
-layout: single
+
 ---
 

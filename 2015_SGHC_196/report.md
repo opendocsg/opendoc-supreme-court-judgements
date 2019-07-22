@@ -7,7 +7,7 @@ tags:
   - Tort
   - Negligence
   - Contributory negligence
-layout: single
+
 ---
 # Soh Lay Lian Cherlyn v Kok Mui Eng 
 

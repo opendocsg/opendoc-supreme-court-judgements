@@ -21,6 +21,6 @@ tags:
   - >-
     Section 83(2)(h) Legal Profession Act (Cap 161, 2001 Rev Ed), r 55(a) Legal
     Profession (Professional Conduct) Rules (Cap 161, R 1, 2000 Rev Ed)
-layout: single
+
 ---
 

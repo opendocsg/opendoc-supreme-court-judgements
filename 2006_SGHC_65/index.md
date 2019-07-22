@@ -31,6 +31,6 @@ tags:
     Whether plaintiff breaching express warranty under policy as to vessel being
     classed and class maintained and therefore precluded from making claim under
     policy
-layout: single
+
 ---
 

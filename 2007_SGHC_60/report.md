@@ -33,7 +33,7 @@ tags:
   - Words and Phrases
   - \"Serious injury\"
   - 'Sections 47D, 84(8) Road Traffic Act (Cap 276, 2004 Rev Ed)'
-layout: single
+
 ---
 # Fernandez Joseph Ferdinent v Public Prosecutor 
 

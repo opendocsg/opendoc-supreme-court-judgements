@@ -10,7 +10,7 @@ tags:
   - Infringement
   - Copyright
   - Groundless threat
-layout: single
+
 ---
 # PropertyGuru Pte Ltd v 99 Pte Ltd 
 

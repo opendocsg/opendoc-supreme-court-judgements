@@ -14,7 +14,7 @@ tags:
   - Contract
   - Discharge
   - Rescission
-layout: single
+
 ---
 # Ong Hong Kiat v RIQ Pte Ltd 
 

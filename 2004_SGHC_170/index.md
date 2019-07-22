@@ -12,6 +12,6 @@ tags:
     Whether plaintiff should be granted leave to appeal against judgment on
     costs
   - 'Section 34(2)(b) Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed)'
-layout: single
+
 ---
 

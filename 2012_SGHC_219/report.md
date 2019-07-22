@@ -5,7 +5,7 @@ tags:
   - Contract
   - frustration
   - leases
-layout: single
+
 ---
 # ORG Powell Packaging Pte Ltd v Liten Logistics Services Pte Ltd 
 

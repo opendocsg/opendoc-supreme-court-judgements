@@ -7,6 +7,6 @@ tags:
   - Remoteness of Damage
   - Damages
   - Assessment
-layout: single
+
 ---
 

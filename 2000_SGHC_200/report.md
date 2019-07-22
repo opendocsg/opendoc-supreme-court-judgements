@@ -14,7 +14,7 @@ tags:
   - Matrimonial assets
   - Division
   - Apportionment in percentage terms by court
-layout: single
+
 ---
 # Jaspal Singh v Melville Marie-Anne 
 

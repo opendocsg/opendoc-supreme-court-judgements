@@ -5,6 +5,6 @@ tags:
   - Civil procedure
   - setting aside default judgment
   - stay of proceedings
-layout: single
+
 ---
 

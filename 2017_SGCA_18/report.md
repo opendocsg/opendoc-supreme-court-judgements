@@ -5,7 +5,7 @@ tags:
   - Administrative Law
   - Judicial review
   - Disciplinary proceedings
-layout: single
+
 ---
 # Deepak Sharma v Law Society of Singapore 
 

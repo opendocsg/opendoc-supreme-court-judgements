@@ -6,7 +6,7 @@ tags:
   - Discharge
   - Frustration
   - Debtor and guarantor claiming frustration of contract
-layout: single
+
 ---
 # Oversea-Chinese Banking Corp Ltd v Daewoo Singapore Pte Ltd and Another 
 

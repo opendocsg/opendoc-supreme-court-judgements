@@ -26,6 +26,6 @@ tags:
   - >-
     Whether pari passu principle applicable to schemes of arrangement outside
     liquidation
-layout: single
+
 ---
 

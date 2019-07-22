@@ -12,6 +12,6 @@ tags:
   - Advancement
   - Presumption
   - Parent and child jointly holding bank accounts
-layout: single
+
 ---
 

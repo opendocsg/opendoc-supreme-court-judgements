@@ -9,7 +9,7 @@ tags:
   - >-
     Whether dividend yield method or net asset value method of valuation of
     estate\'s shares in private companies appropriate
-layout: single
+
 ---
 # Chong Barbara v Commissioner of Estate Duties 
 

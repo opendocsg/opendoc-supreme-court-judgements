@@ -27,6 +27,6 @@ tags:
   - >-
     Whether defendant in breach of any duty of care owed to plaintiff by
     calculating savings as such
-layout: single
+
 ---
 

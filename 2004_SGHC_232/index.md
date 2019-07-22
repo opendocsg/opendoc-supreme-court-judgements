@@ -11,6 +11,6 @@ tags:
   - >-
     Whether shareholder of company suffered loss as a result of liquidator\'s
     negligence
-layout: single
+
 ---
 

@@ -13,6 +13,6 @@ tags:
   - Land
   - Res judicata
   - Issue estoppel
-layout: single
+
 ---
 

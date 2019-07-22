@@ -8,6 +8,6 @@ tags:
   - Building and construction law
   - Building and construction contracts
   - Measurement contracts
-layout: single
+
 ---
 

@@ -11,6 +11,6 @@ tags:
   - Security
   - Whether plaintiff company \"ordinarily resident out of jurisdiction\"
   - 'O 23 r 1(1)(a) Rules of Court (Cap 322, R 5, 1997 Rev Ed)'
-layout: single
+
 ---
 

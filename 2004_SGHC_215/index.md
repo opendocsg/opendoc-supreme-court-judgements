@@ -19,6 +19,6 @@ tags:
   - >-
     Whether third defendant conspiring with first and second defendants in
     alleged wrongdoings
-layout: single
+
 ---
 

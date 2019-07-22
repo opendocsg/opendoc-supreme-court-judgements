@@ -8,6 +8,6 @@ tags:
   - >-
     Whether inordinate delay in seeking declaration may deprive claimant of
     declaratory judgment.
-layout: single
+
 ---
 

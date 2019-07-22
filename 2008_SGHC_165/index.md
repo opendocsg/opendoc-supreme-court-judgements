@@ -14,6 +14,6 @@ tags:
     Plaintiffs alleging conspiracy by unlawful means to deprive them of shares
     in company listed in Singapore but managed from Hong Kong
   - Whether Singapore or Hong Kong natural forum
-layout: single
+
 ---
 

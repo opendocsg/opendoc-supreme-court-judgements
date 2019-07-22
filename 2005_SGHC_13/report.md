@@ -12,7 +12,7 @@ tags:
   - Offences
   - Murder
   - Accused charged with culpable homicide amounting to murder
-layout: single
+
 ---
 # Public Prosecutor v Lim Poh Lye and Another 
 

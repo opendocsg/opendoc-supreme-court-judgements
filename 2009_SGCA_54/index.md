@@ -7,6 +7,6 @@ tags:
   - Contract
   - Illegality and public policy
   - Restraint of trade
-layout: single
+
 ---
 

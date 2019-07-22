@@ -4,6 +4,6 @@ title: >-
   another suit
 subtitle: "[2015] SGHC 146 / 28\_May\_2015"
 tags: null
-layout: single
+
 ---
 

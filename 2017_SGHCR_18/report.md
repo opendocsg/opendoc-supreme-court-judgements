@@ -8,7 +8,7 @@ tags:
   - Judgment and Orders
   - Ex Parte Order Set Aside
   - Stare Decisis
-layout: single
+
 ---
 # Peter Low LLC v Higgins, Danial Patrick 
 

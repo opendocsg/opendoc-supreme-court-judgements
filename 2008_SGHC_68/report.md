@@ -9,7 +9,7 @@ tags:
     Whether transferor or contributor having no intention to retain any
     beneficial interest in property
   - Whether money advanced by way of loan
-layout: single
+
 ---
 # Yong Ching See v Lee Kah Choo Karen 
 

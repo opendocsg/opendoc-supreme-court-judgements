@@ -34,7 +34,7 @@ tags:
   - Evidence
   - Computer Output
   - When to consider issues under section 35 of the Evidence Act
-layout: single
+
 ---
 # Fermin Aldabe v Standard Chartered Bank 
 

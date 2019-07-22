@@ -11,6 +11,6 @@ tags:
     Whether court has jurisdiction to grant relief under s 391 from prosecution
     for an offence
   - 'ss 163(1) & 391(2) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

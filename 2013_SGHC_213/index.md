@@ -9,6 +9,6 @@ tags:
   - Equitable Compensation
   - Damages
   - Recovery of Legal Costs
-layout: single
+
 ---
 

@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Pleadings
   - Striking Out
-layout: single
+
 ---
 # AstraZeneca AB (SE) v Sanofi-Aventis Singapore Pte Ltd 
 

@@ -10,6 +10,6 @@ tags:
   - Statutory Interpretation
   - Construction of statute
   - Purposive approach
-layout: single
+
 ---
 

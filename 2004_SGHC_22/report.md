@@ -12,7 +12,7 @@ tags:
   - Damages
   - Rule against double recovery
   - Whether award of damages offended rule
-layout: single
+
 ---
 # Lo Lee Len v Grand Interior Renovation Works Pte Ltd and Others 
 

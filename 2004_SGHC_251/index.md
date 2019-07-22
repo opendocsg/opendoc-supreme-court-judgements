@@ -25,6 +25,6 @@ tags:
   - Whether unfair preference given at \"relevant time\"
   - 'Sections 99, 100(1)(b), (c) Bankruptcy Act (Cap 20, 2000 Rev Ed)'
   - 'Section 329(2)(a)(i) Companies Act (Cap 50, 1994 Rev Ed)'
-layout: single
+
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Courts and Jurisdiction
   - Magistrate’s Court
   - Power to transfer proceedings from Magistrate’s Court to High Court
-layout: single
+
 ---
 # Ng Djoni v Miranda Joseph Jude 
 

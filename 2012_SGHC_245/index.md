@@ -13,6 +13,6 @@ tags:
   - Landlord and tenant
   - termination of leases
   - forfeiture
-layout: single
+
 ---
 

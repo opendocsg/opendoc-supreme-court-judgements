@@ -19,6 +19,6 @@ tags:
     exonerate oneself
   - Imprisonment term to be enhanced
   - s 256 Criminal Procedure Code (Cap 68)
-layout: single
+
 ---
 

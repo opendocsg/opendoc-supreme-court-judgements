@@ -7,7 +7,7 @@ tags:
   - Misuse of Drugs Act Constitutional Law
   - AttorneyGeneral
   - Prosecutorial Discretion
-layout: single
+
 ---
 # Dinesh Pillai a/l K Raja Retnam v Public Prosecutor 
 

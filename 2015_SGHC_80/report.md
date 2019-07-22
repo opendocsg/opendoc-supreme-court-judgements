@@ -8,7 +8,7 @@ tags:
   - Injunctions
   - Civil Procedure
   - Striking Out
-layout: single
+
 ---
 # Ramindo Sukses Perkasa Pte Ltd v Sim Kwang Oo 
 

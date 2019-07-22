@@ -11,7 +11,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - 'Computer Misuse Act (Cap 50A, 1998 Rev Ed)'
-layout: single
+
 ---
 # Tan Chye Guan Charles v Public Prosecutor 
 

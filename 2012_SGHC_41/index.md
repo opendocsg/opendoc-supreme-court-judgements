@@ -11,6 +11,6 @@ tags:
   - Civil Procedure
   - Electronic Discovery
   - Discovery by direct exchange of soft copies on finalised optical discs
-layout: single
+
 ---
 

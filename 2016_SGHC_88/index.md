@@ -6,6 +6,6 @@ tags:
   - Contractual terms
   - Contract
   - Consideration
-layout: single
+
 ---
 

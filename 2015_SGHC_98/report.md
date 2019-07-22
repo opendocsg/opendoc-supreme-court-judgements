@@ -8,7 +8,7 @@ tags:
   - Probate and Administration
   - executors
   - acts before grant
-layout: single
+
 ---
 # Chiang Shirley v Chiang Dong Pheng 
 

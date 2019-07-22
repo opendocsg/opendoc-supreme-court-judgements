@@ -4,7 +4,7 @@ subtitle: "[2019] SGHC 36 / Decision Date: 21\_February\_2019"
 tags:
   - Civil Procedure
   - Striking out
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Qroi Ltd _v_ Pascoe, Ian and another  

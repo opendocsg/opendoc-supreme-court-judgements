@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Service
   - Service out of jurisdiction
-layout: single
+
 ---
 

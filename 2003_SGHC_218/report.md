@@ -6,7 +6,7 @@ tags:
   - Inter vivos
   - Intention to give
   - Whether there was an intention to make gift of moneys in bank accounts
-layout: single
+
 ---
 # Yeoh Poh San and Another v Won Siok Wan 
 

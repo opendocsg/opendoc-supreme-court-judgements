@@ -12,7 +12,7 @@ tags:
   - Equity
   - Estoppel
   - Promissory estoppel
-layout: single
+
 ---
 # Tien Choon Kuan v Tien Chwan Hoa 
 

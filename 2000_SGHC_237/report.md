@@ -9,7 +9,7 @@ tags:
   - Strata titles
   - Strata titles board
   - Board approval for en-bloc sale of condominium
-layout: single
+
 ---
 # Ong Khim Heng Daniel v Leonie Court Pte Ltd 
 

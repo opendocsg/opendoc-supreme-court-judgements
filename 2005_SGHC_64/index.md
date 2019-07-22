@@ -13,6 +13,6 @@ tags:
     Whether accused should be sentenced to ten years\' imprisonment or
     imprisonment for life
   - 'Section 304(a) Penal Code (Cap 224, 1985 Rev Ed)'
-layout: single
+
 ---
 

@@ -43,7 +43,7 @@ tags:
   - Whether nature of underlying transaction relevant
   - Whether contractual obligations constituted purpose of advance
   - Whether statutory function affected purpose of advance
-layout: single
+
 ---
 # Singapore Tourism Board v Children's Media Ltd and Others 
 

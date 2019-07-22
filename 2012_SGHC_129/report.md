@@ -5,7 +5,7 @@ tags:
   - Criminal Procedure and Sentencing
   - Sentencing
   - Preventive Detention
-layout: single
+
 ---
  10 th charge This was a charge of cheating with common intention under s 420 read with s 34 of the Penal Code (Cap 224, 1985 Rev Ed) (“Penal Code”). The victim was Sunarti. The maximum imprisonment term was ten years. 
 

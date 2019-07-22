@@ -27,6 +27,6 @@ tags:
   - >-
     Whether requirement that plaintiff must have locus standi to ask for
     declaration satisfied
-layout: single
+
 ---
 

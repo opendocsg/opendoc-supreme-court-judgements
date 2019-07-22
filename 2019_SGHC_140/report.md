@@ -7,7 +7,7 @@ tags:
   - Criminal Law
   - Offences
   - Hurt
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Low Song Chye _v_ Public Prosecutor and another appeal  

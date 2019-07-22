@@ -24,6 +24,6 @@ tags:
   - Caveats
   - Wrongful lodgment
   - Whether option holder may caveat interest in land
-layout: single
+
 ---
 

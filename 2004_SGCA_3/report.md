@@ -20,7 +20,7 @@ tags:
   - >-
     Approach of courts where answers from Ministry of Foreign Affairs unclear or
     Ministry of Foreign Affairs fails to give an answer
-layout: single
+
 ---
 # Civil Aeronautics Administration v Singapore Airlines Ltd 
 

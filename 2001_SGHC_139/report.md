@@ -15,7 +15,7 @@ tags:
   - >-
     Whether plaintiff\'s declaration amounts to legitimate notice of its
     inability to perform or an illegitimate threat
-layout: single
+
 ---
 # Sharon Global Solutions Pte Ltd v LG International (Singapore) Pte Ltd 
 

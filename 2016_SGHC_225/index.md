@@ -11,6 +11,6 @@ tags:
   - Equity
   - Remedies
   - Equitable accounting
-layout: single
+
 ---
 

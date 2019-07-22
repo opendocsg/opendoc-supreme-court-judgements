@@ -19,6 +19,6 @@ tags:
   - Words and Phrases
   - \"moneylending\" and \"loan of money\"
   - 'Section 2 Moneylenders Act (Cap 188, 1985 Rev Ed)'
-layout: single
+
 ---
 

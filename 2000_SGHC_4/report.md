@@ -20,7 +20,7 @@ tags:
   - Appeals
   - Power of appellate court to interfere with sentence
   - Circumstances when appellate court will interfere
-layout: single
+
 ---
 # Tan Sai Tiang v Public Prosecutor 
 

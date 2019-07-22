@@ -14,7 +14,7 @@ tags:
   - Applicable test
   - Whether plaintiff entitled to transfer as of right
   - 'Whether s 53 of the Subordinate Courts Act (Cap 321, 1999 Rev Ed) applied'
-layout: single
+
 ---
 # Rightrac Trading v Ong Soon Heng t/a Everbright Engineering & Trading and Another (Seow 
 

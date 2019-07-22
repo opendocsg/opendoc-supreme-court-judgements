@@ -8,7 +8,7 @@ tags:
   - Disclosure
   - Financial and Securities Markets
   - Insider Trading
-layout: single
+
 ---
 # Soh Guan Cheow Anthony v Public Prosecutor and another appeal 
 

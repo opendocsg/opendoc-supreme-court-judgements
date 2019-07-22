@@ -5,7 +5,7 @@ tags:
   - Civil Procedure
   - Judgment and Orders
   - Enforcement
-layout: single
+
 ---
 # Ong Han Ling v Low Ai Ming Sally (Tito Isaac & Co LLP, garnishee) 
 

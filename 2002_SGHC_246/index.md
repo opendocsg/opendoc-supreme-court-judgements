@@ -16,6 +16,6 @@ tags:
   - Tort
   - Passing off
   - Whether parallel imports amount to passing off
-layout: single
+
 ---
 

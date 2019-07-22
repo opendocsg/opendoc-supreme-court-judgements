@@ -5,6 +5,6 @@ tags:
   - Gifts
   - presumptions against
   - resulting trust
-layout: single
+
 ---
 

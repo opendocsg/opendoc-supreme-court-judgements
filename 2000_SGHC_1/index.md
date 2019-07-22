@@ -17,6 +17,6 @@ tags:
   - Appeal
   - Appellate court overturning findings of fact by trial court
   - Applicable principles
-layout: single
+
 ---
 

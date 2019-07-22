@@ -47,6 +47,6 @@ tags:
   - >-
     Whether \"privy\" to offence requires prior knowledge of and consent to
     offence
-layout: single
+
 ---
 

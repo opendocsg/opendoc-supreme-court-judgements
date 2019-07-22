@@ -5,7 +5,7 @@ tags:
   - Administrative Law
   - Judicial review
   - Fettering of discretion and abrogation of responsibility
-layout: single
+
 ---
 # Komoco Motors Pte Ltd v Registrar of Vehicles and another 
 

@@ -7,7 +7,7 @@ tags:
   - Negligent misrepresentation
   - Negligence
   - Breach of duty
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Haw Wan Sin David and another _v_ Sim Tee Meng and another  

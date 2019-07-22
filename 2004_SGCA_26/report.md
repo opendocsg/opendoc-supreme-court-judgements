@@ -11,7 +11,7 @@ tags:
   - Civil Procedure
   - Offer to settle
   - Whether Calderbank letter amounts to statutory offer to settle
-layout: single
+
 ---
 # SBS Transit Ltd (formerly known as Singapore Bus Services Limited) v Koh Swee Ann 
 

@@ -7,6 +7,6 @@ tags:
   - Land
   - Sale of land
   - Conditions of sale
-layout: single
+
 ---
 

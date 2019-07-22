@@ -6,6 +6,6 @@ tags:
   - Breach
   - Damages
   - Measure of damages
-layout: single
+
 ---
 

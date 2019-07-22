@@ -12,6 +12,6 @@ tags:
   - Relief
   - Against forfeiture
   - When courts would exercise jurisdiction to grant relief
-layout: single
+
 ---
 

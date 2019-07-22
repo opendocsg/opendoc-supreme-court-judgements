@@ -6,7 +6,7 @@ tags:
   - Discovery
   - Patents and Inventions
   - Infringement
-layout: single
+
 ---
 # Towa Corp v ASM Technology Singapore Pte Ltd and another 
 

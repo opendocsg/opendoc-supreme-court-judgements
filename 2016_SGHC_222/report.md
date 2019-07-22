@@ -5,7 +5,7 @@ tags:
   - Building and construction law
   - Dispute resolution
   - Alternative dispute resolution procedures
-layout: single
+
 ---
 # Hauslab Design & Build Pte Ltd v Vinod Kumar Ramgopal Didwania 
 

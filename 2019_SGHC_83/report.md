@@ -8,7 +8,7 @@ tags:
   - Criminal force and assault
   - Outrage of modesty
   - Causing hurt by means of poison
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ BVZ  

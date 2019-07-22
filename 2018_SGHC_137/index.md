@@ -8,6 +8,6 @@ tags:
   - Criminal Procedure and Sentencing
   - sentencing
   - appeals
-layout: single
+
 ---
 

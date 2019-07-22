@@ -5,6 +5,6 @@ tags:
   - Land
   - Compulsory Acquisitions
   - Compensation Payable
-layout: single
+
 ---
 

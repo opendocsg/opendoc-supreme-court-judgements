@@ -17,7 +17,7 @@ tags:
   - >-
     Whether the emails in the possession of the email service provider are in
     the power of the email user
-layout: single
+
 ---
 # Dirak Asia Pte Ltd and another v Chew Hua Kok and another 
 

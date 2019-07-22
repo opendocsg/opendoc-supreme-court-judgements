@@ -16,7 +16,7 @@ tags:
   - Sentence of seven years\' imprisonment and 18 strokes of cane
   - Bulk of sentence taken up by one conviction
   - Whether sentence manifestly excessive
-layout: single
+
 ---
 # Public Prosecutor v Henry John William and another appeal 
 

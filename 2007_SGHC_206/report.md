@@ -11,7 +11,7 @@ tags:
     approved scheme
   - Whether court having jurisdiction to extend time
   - 'Section 210 Companies Act (Cap 50, 2006 Rev Ed)'
-layout: single
+
 ---
 # Re Reliance National Asia Re Pte Ltd 
 

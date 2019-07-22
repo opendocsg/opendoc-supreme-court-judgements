@@ -5,7 +5,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Sum Yue Holdings Pte Ltd v Foo Sek Soon (alias Justin Foo) and others 
 

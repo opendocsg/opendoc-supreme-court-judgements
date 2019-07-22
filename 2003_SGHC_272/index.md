@@ -14,6 +14,6 @@ tags:
   - Garnishee orders
   - Material non-disclosure of facts in application for order
   - Whether order should be set aside
-layout: single
+
 ---
 

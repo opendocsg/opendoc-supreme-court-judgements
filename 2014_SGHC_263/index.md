@@ -9,6 +9,6 @@ tags:
   - Customary Marriage
   - Evidence
   - Admissibility of Evidence
-layout: single
+
 ---
 

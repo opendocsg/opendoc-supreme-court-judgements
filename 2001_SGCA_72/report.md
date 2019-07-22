@@ -18,7 +18,7 @@ tags:
   - >-
     Whether doctor\'s negligence and/or breach of duty caused or materially
     contributed to patient\'s loss of vision on balance of probabilities
-layout: single
+
 ---
 # Yeo Peng Hock Henry v Pai Lily 
 

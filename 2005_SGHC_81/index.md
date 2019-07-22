@@ -21,6 +21,6 @@ tags:
     Whether court having discretion to retrospectively dispense with personal
     service for mandatory orders as opposed to prohibitory orders
   - Whether court having discretion to dispense with penal notice
-layout: single
+
 ---
 

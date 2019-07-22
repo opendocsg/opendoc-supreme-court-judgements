@@ -13,6 +13,6 @@ tags:
   - Judicial review
   - Ambit
   - Court\'s role only to examine correctness of decision-making process
-layout: single
+
 ---
 

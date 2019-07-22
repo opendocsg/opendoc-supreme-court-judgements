@@ -9,7 +9,7 @@ tags:
   - TORT
   - Negligence
   - Duty of Care
-layout: single
+
 ---
 # Tan Juay Pah v Kimly Construction Pte Ltd and others 
 

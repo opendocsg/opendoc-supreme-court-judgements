@@ -8,7 +8,7 @@ tags:
   - cheques
   - forged
   - mandate
-layout: single
+
 ---
 # Cheng William (administrator of the estate of Cheng Louise, deceased) v DBS Bank Ltd 
 

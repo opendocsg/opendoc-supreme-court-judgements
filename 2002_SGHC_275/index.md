@@ -7,6 +7,6 @@ tags:
   - Standard of proof
   - Rape and attempted rape
   - Outrage of modesty -Proving case against accused beyond reasonable doubt
-layout: single
+
 ---
 

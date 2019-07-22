@@ -5,6 +5,6 @@ tags:
   - Land
   - Sale of land
   - Remedies under uncompleted contract
-layout: single
+
 ---
 

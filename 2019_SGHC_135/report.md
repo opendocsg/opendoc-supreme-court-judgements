@@ -11,7 +11,7 @@ tags:
     Garnishee issued cheque to judgment debtor to discharge debt before
     garnishee order served
   - Whether garnishee under obligation to stop payment on cheque
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Sunny Metal & Engineering Pte Ltd _v_ Lee Xin Ben Jimmy (Serangoon Gardens Country Club, garnishee)  

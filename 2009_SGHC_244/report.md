@@ -6,7 +6,7 @@ tags:
   - Women’s charter
   - divorce
   - unreasonable behaviour
-layout: single
+
 ---
 # Teo Hoon Ping v Tan Lay Ying Angeline 
 

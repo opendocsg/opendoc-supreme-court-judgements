@@ -25,6 +25,6 @@ tags:
   - Damages
   - Pure economic loss
   - Applicable test for liability in negligence for pure economic loss
-layout: single
+
 ---
 

@@ -8,7 +8,7 @@ tags:
   - Family law
   - Maintenance
   - Wife
-layout: single
+
 ---
 # ATE v ATD and another appeal 
 

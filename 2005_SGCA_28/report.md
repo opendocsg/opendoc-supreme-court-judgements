@@ -11,7 +11,7 @@ tags:
   - >-
     Additional charge of fabricating false evidence taken into consideration for
     sentencing purposes
-layout: single
+
 ---
 # Public Prosecutor v Teo Chee Seng 
 

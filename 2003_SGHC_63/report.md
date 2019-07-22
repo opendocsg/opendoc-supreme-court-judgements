@@ -7,7 +7,7 @@ tags:
   - >-
     Whether outstanding charges could be taken into account for purpose of
     sentencing.
-layout: single
+
 ---
 # Public Prosecutor v G 
 

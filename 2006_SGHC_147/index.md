@@ -5,6 +5,6 @@ tags:
   - Civil Procedure
   - Summary judgment
   - Defendant seeking leave to defend claim by plaintiff
-layout: single
+
 ---
 

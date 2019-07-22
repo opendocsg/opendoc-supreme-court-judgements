@@ -5,7 +5,7 @@ tags:
   - Criminal Law
   - Statutory Offences
   - Betting Act
-layout: single
+
 ---
 # Peh Hai Yam v Public Prosecutor 
 

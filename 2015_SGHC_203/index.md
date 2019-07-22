@@ -6,6 +6,6 @@ tags:
   - Breach
   - Agency
   - Construction of Agent’s Authority
-layout: single
+
 ---
 

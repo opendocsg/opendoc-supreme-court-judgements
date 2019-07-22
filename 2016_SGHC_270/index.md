@@ -12,6 +12,6 @@ tags:
   - minority shareholders
   - Trusts
   - constructive trusts
-layout: single
+
 ---
 

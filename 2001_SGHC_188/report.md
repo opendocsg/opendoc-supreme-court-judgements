@@ -20,7 +20,7 @@ tags:
   - Revisionary powers of High Court to substitute conviction
   - Whether causing any prejudice to appellant
   - s 256(b) (ii)Criminal Procedure Code (Cap 68)
-layout: single
+
 ---
 # Loo Weng Fatt v Public Prosecutor 
 

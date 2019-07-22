@@ -2,7 +2,7 @@
 title: The "Asia Star"
 subtitle: "[2009] SGHC 91 / 17\_April\_2009"
 tags: null
-layout: single
+
 ---
  (a) Losses incurred on account of cancellation of sale contracts for the cargo by the plaintiff’s supplier PT Pacific Indomas(“Indomas”) 
 

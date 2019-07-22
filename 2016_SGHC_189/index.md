@@ -6,6 +6,6 @@ tags:
   - Sentencing
   - Appeals
   - Harassment on behalf of unlicensed moneylender
-layout: single
+
 ---
 

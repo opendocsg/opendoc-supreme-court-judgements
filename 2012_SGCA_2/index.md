@@ -10,6 +10,6 @@ tags:
   - Courts and Jurisdiction
   - Jurisdiction
   - Appellate
-layout: single
+
 ---
 

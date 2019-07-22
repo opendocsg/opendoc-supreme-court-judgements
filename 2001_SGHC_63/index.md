@@ -10,6 +10,6 @@ tags:
   - >-
     Whether judge not to interfere with taxing officer\'s decision on mere
     question of quantum except in exceptional circumstances
-layout: single
+
 ---
 

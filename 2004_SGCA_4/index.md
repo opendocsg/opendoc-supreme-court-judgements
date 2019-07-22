@@ -20,6 +20,6 @@ tags:
   - >-
     Whether former partner in partnership entitled to appropriate share in
     partnership assets
-layout: single
+
 ---
 

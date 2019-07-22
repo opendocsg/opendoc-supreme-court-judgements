@@ -29,7 +29,7 @@ tags:
   - Standard of proof
   - Whether Prosecution proving case beyond reasonable doubt
   - Meaning of \"beyond reasonable doubt\"
-layout: single
+
 ---
 # Sakthivel Punithavathi v Public Prosecutor 
 

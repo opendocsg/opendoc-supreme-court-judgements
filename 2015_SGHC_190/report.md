@@ -9,7 +9,7 @@ tags:
   - evidence of agency
   - Agency
   - agency by estoppel
-layout: single
+
 ---
 # The “Bunga Melati 5” 
 

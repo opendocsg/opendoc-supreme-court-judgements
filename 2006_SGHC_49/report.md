@@ -14,7 +14,7 @@ tags:
   - >-
     Whether failure to draw information to c ourt\'s attention amounting to
     non-disc losure
-layout: single
+
 ---
 # CHS CPO GmbH and Another v Vikas Goel and Others 
 

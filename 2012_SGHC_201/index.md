@@ -6,6 +6,6 @@ tags:
   - Pleadings
   - Further and better particulars
   - Striking Out
-layout: single
+
 ---
 

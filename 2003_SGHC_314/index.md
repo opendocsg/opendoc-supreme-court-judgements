@@ -35,6 +35,6 @@ tags:
   - Defamation
   - Qualified privilege
   - Whether defeated by malice
-layout: single
+
 ---
 

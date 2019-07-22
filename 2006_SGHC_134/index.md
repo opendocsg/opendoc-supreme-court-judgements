@@ -6,6 +6,6 @@ tags:
   - Measure of damages
   - Contract
   - Breach of sub-contract to carry out piling works
-layout: single
+
 ---
 

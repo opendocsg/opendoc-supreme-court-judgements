@@ -7,7 +7,7 @@ tags:
   - Principles
   - Accused having numerous previous criminal convictions
   - No extenuating circumstances to show that accused had changed his ways
-layout: single
+
 ---
 # Public Prosecutor v Toh Lam Seng 
 

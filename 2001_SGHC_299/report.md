@@ -9,7 +9,7 @@ tags:
   - Construction
   - Will
   - Will drafted in casual fashion with no residuary clause
-layout: single
+
 ---
 # Re Will of Samuel Emily, deceased 
 

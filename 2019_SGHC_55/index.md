@@ -6,6 +6,6 @@ tags:
   - Statutes and regulations
   - Building and Construction Industry Security of Payment Act
   - Valuation of materials
-layout: single
+
 ---
 

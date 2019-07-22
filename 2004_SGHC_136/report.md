@@ -27,7 +27,7 @@ tags:
   - >-
     Whether trial judge entitled to reject reasoning of expert witness on issue
     of mens rea
-layout: single
+
 ---
 # Public Prosecutor v Boon Yu Kai John 
 

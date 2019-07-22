@@ -7,7 +7,7 @@ tags:
   - Courts and Jurisdiction
   - Judges
   - Recusal
-layout: single
+
 ---
 # Werner Samuel Vuillemin v Overseas-Chinese Banking Corp Ltd and another matter 
 

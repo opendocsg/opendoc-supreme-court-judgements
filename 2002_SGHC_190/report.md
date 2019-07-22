@@ -17,7 +17,7 @@ tags:
   - Witnesses
   - Inconsistencies in testimony
   - Whether court can accept part of testimony and reject others
-layout: single
+
 ---
 # Hon Chi Wan Colman v Public Prosecutor 
 

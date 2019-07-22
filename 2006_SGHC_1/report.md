@@ -16,7 +16,7 @@ tags:
   - Covenants
   - Renewal
   - Tenant purporting to exercise option to renew lease
-layout: single
+
 ---
 # Leivest International Pte Ltd v Top Ten Entertainment Pte Ltd 
 

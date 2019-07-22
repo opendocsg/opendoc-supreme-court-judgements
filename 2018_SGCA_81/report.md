@@ -12,7 +12,7 @@ tags:
   - International Law
   - International investment law
   - Investor-State arbitration
-layout: single
+
 ---
 # Swissbourgh Diamond Mines (Pty) Ltd and others v Kingdom of Lesotho 
 

@@ -24,7 +24,7 @@ tags:
   - >-
     Negligent advice Â– Whether racehorse trainer\'s assessment of racehorse\'s
     suitability for racing constituted negligent advice.
-layout: single
+
 ---
 # Bernard Desker Gary and Others v Thwaites Racing Pte Ltd and Another 
 

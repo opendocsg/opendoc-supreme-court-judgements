@@ -7,7 +7,7 @@ tags:
   - Civil Procedure
   - Costs
   - Security
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # StreetSine Singapore Pte Ltd _v_ Singapore Institute of Surveyors and Valuers and others  

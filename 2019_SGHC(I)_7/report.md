@@ -11,7 +11,7 @@ tags:
   - Conspiracy by unlawful means
   - Defamation
   - Publication
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Bachmeer Capital Limited _v_ Ong Chih Ching and others  

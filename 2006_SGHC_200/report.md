@@ -21,7 +21,7 @@ tags:
   - >-
     Whether agreement including bill estimate such that defendant not liable to
     pay excess costs
-layout: single
+
 ---
 # Parkway Hospitals Singapore Pte Ltd (trading as Mount Elizabeth Hospital) and Another v 
 

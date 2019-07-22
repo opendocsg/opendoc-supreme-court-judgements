@@ -35,6 +35,6 @@ tags:
   - Whether amendment should be allowed
   - 'ss 6(1)(a) & 6(7) of the Limitation Act (Cap 163, 1996 Rev Ed)'
   - 'O 20 r 5 Rules of Court (Cap 322, R5, 2004 Rev Ed).'
-layout: single
+
 ---
 

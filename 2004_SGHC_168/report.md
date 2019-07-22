@@ -12,7 +12,7 @@ tags:
   - >-
     Whether third defendant guilty of inducing first and second defendant to
     join company in breach of their civil obligations to plaintiff.
-layout: single
+
 ---
 # Stratech Systems Ltd v Nyam Chiu Shin (Yan Qiuxin) and Others 
 

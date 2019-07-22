@@ -9,6 +9,6 @@ tags:
   - Arbitration
   - Arbitral tribunal
   - Powers
-layout: single
+
 ---
 

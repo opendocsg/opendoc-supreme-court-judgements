@@ -18,6 +18,6 @@ tags:
   - Duty of care
   - Breach of duty
   - Bank suing company for fraud of employee
-layout: single
+
 ---
 

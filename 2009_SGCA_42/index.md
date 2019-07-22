@@ -34,6 +34,6 @@ tags:
   - >-
     Whether act of redelivering machine to purported owner amounted to
     conversion of machine
-layout: single
+
 ---
 

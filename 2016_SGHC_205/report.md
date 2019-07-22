@@ -9,7 +9,7 @@ tags:
   - Companies
   - Directors
   - Duties
-layout: single
+
 ---
 # Higgins, Danial Patrick v Mulacek, Philippe Emanuel and others and another suit 
 

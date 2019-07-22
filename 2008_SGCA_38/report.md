@@ -19,7 +19,7 @@ tags:
   - Civil Procedure
   - Judgments and orders
   - Relevance of delay in application to set aside default judgment
-layout: single
+
 ---
 # Mercurine Pte Ltd v Canberra Development Pte Ltd 
 

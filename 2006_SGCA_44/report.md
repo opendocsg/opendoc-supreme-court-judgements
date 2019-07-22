@@ -23,7 +23,7 @@ tags:
     Whether clause in shareholders\' agreement implemented in practice but not
     incorporated in company\'s articles of association may be used to supplement
     such articles of association
-layout: single
+
 ---
 # Golden Harvest Films Distribution (Pte) Ltd v Golden Village Multiplex Pte Ltd 
 

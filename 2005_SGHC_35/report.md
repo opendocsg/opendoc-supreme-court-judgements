@@ -13,7 +13,7 @@ tags:
     criminal reference
   - Whether substantive merits of anticipated application relevant consideration
   - 'Section 60(1) Supreme Court of Judicature Act (Cap 322, 1999 Rev Ed)'
-layout: single
+
 ---
 # Ong Beng Leong v Public Prosecutor (No 2) 
 

@@ -22,6 +22,6 @@ tags:
   - 's 94 proviso (f) Evidence Act (Cap 97, 1997 Ed)'
   - Words and Phrases
   - \'Procure\'
-layout: single
+
 ---
 

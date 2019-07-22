@@ -4,6 +4,6 @@ title: >-
   Estate Investment
 subtitle: "[2010] SGHC 13 / 12\_January\_2010"
 tags: null
-layout: single
+
 ---
 

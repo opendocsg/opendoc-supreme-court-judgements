@@ -8,7 +8,7 @@ tags:
   - Oppression
   - Minority shareholders
   - Statutory derivative action
-layout: single
+
 ---
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # Jian Li Investments Holding Pte Ltd and others _v_ Healthstats International Pte Ltd and others  

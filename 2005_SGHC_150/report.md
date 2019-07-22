@@ -14,7 +14,7 @@ tags:
   - Purposes for grant
   - Protection of contractual rights
   - Whether adequacy of damages sole consideration
-layout: single
+
 ---
 # Tullett Prebon (Singapore) Ltd and Another v Chua Leong Chuan Simon and Others and 
 
