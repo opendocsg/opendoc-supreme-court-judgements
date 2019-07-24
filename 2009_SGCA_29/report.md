@@ -24,7 +24,6 @@ layout: single
 # Metalform Asia Pte Ltd v Holland Leedon Pte Ltd 
 
 
-
 **Case Number** :CA 48/2006, SUM 1498/ 
 
 **Decision Date** :01 July 2009 
