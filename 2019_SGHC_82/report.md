@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Koh Kim Teck and another _v_ Credit Suisse AG, Singapore Branch  
+# Koh Kim Teck and another _v_ Credit Suisse AG, Singapore Branch [2019] SGHC 82   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit Nos 942 of 2013 and 1123 of 2014</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Aedit Abdullah J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Choh Thian Chee Irving, Kor Wan Wen Melissa and Lim Bee Li (Optimus Chambers LLC) for the plaintiffs; Alvin Yeo Khirn Hai SC, Daniel Chan, Lim Wei Lee, Noel Chua Yi How, Sanjay S Kumar, Vithiya d/o Rajendra (Wongpartnership LLP) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Koh Kim Teck — Smiling Sun Limited — Credit Suisse AG, Singapore Branch</td></tr></tbody></table>
 
@@ -93,7 +93,7 @@ Banking – Credit and Security
 
 25     I found that the Bank did not owe any obligation to advise or manage the account, and thus owed no duty of care, whether in contract or tort. Even if the Bank did owe Mr Koh such responsibilities, the Bank would not have been in breach of them.
 
-26     Whether the Bank owed Mr Koh a duty of care depends on the responsibilities it assumed in its dealings with Mr Koh. The starting point of this inquiry would be the contractual relationship between the parties. If the conclusion in respect of the contractual claim was that the Bank undertook no obligation to advise and manage the account, Mr Koh would face an uphill battle in respect of his claim in tort. Further, unless it could be shown that the Bank had acted in a manner which deviated from its contractually defined role, there would be little basis to find that there was a duty of care owed by the Bank to Mr Koh at common law (see _Deustche Bank AG v Chang Tse Wen and another appeal_ (“_Chang Tse Wen_”) at \[51\]). Hence, the contractual claim will be considered first and then that in tort. It is essential to distinguish between claims in contract and tort even when these overlap on the facts, as rules relating to various aspects such as remoteness and the measure of damages will differ.
+26     Whether the Bank owed Mr Koh a duty of care depends on the responsibilities it assumed in its dealings with Mr Koh. The starting point of this inquiry would be the contractual relationship between the parties. If the conclusion in respect of the contractual claim was that the Bank undertook no obligation to advise and manage the account, Mr Koh would face an uphill battle in respect of his claim in tort. Further, unless it could be shown that the Bank had acted in a manner which deviated from its contractually defined role, there would be little basis to find that there was a duty of care owed by the Bank to Mr Koh at common law (see _Deustche Bank AG v Chang Tse Wen and another appeal_  [2013] 4 SLR 886 (“_Chang Tse Wen_”) at \[51\]). Hence, the contractual claim will be considered first and then that in tort. It is essential to distinguish between claims in contract and tort even when these overlap on the facts, as rules relating to various aspects such as remoteness and the measure of damages will differ.
 
 27     Mr Koh, in his submissions, divided the duty of care into several sub-duties:
 
@@ -105,7 +105,7 @@ Banking – Credit and Security
 
 (d)     a duty to provide a reasonable period for the provision of additional collateral top-up.
 
-For clarity, some of these “sub-duties” merely described the responsibilities the Bank was said to have undertaken and do not give rise to distinct “duties” of care. The ultimate inquiry is whether the Bank owed a duty of care to Mr Koh. These responsibilities go towards the scope of such duty or the question of breach (see also _Go Dante Yap v Bank Austria Creditanstalt AG_ (“_Go Dante Yap_”) at \[18\]–\[19\]).
+For clarity, some of these “sub-duties” merely described the responsibilities the Bank was said to have undertaken and do not give rise to distinct “duties” of care. The ultimate inquiry is whether the Bank owed a duty of care to Mr Koh. These responsibilities go towards the scope of such duty or the question of breach (see also _Go Dante Yap v Bank Austria Creditanstalt AG_ [2011] 4 SLR 559  (“_Go Dante Yap_”) at \[18\]–\[19\]).
 
 28     There were many allegations made in the course of the proceedings and Mr Koh’s case did evolve to some extent. I have not found it necessary to address all of the allegations made. My decision was based on what was necessary to resolve the dispute between the parties and hence these grounds of decision will not discuss matters which were tangential. Furthermore, many of the contentions overlapped. The arguments are addressed holistically (in groups) rather than separately. In the end, many of the plaintiffs’ allegations, when weighed against objective documentary evidence, fell away.
 
@@ -145,7 +145,7 @@ A:Correct.
 
 36     Mr Koh submitted that there should be an implied term in the contractual arrangement of the parties stipulating that a reasonable period for the provision of additional collateral be given in the event of a shortfall. In my judgment, there was no basis for such a term to be implied in the contractual relationship of the parties.
 
-37     The court’s approach towards the implication of terms in fact follows a three-step process outlined in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd_ (“_Sembcorp_”) at \[101\]:
+37     The court’s approach towards the implication of terms in fact follows a three-step process outlined in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd_  [2013] 4 SLR 193 (“_Sembcorp_”) at \[101\]:
 
 (a)     The first step is to ascertain whether there is a gap in the contract and if so, how it arose. Implication will be considered only if the court discerns that the gap arose because the parties did not contemplate the gap.
 
@@ -167,7 +167,7 @@ Clause 9 of the form goes on to state that the Bank had the right to close out t
 
 ## Tortious duty of care
 
-40     The controlling authority on duty of care in tort is _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ which laid down that in determining whether a duty of care exists, the court first assesses if there is factual foreseeability; then whether there is legal proximity between the claimant and the defendant; and finally if there are any policy considerations that negate such a duty. The Court of Appeal subsequently elaborated in _Animal Concerns Research & Education Society v Tan Boon Kwee_ at \[77\] that the court is not prohibited from having due regard to the presence of policy considerations militating in favour of the imposition of a duty of care.
+40     The controlling authority on duty of care in tort is _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_  [2007] 4 SLR(R) 100 which laid down that in determining whether a duty of care exists, the court first assesses if there is factual foreseeability; then whether there is legal proximity between the claimant and the defendant; and finally if there are any policy considerations that negate such a duty. The Court of Appeal subsequently elaborated in _Animal Concerns Research & Education Society v Tan Boon Kwee_ [2011] 2 SLR 146  at \[77\] that the court is not prohibited from having due regard to the presence of policy considerations militating in favour of the imposition of a duty of care.
 
 41     In _Chang Tse Wen_, the leading authority on duty of care in respect of investment advisory or wealth management, the Court of Appeal emphasised the need to consider the closeness and directness of the relationship between the parties when examining the element of legal proximity. Additionally, the twin criteria of voluntary assumption of responsibility and reliance may also be used to demonstrate proximity. The contractual matrix is, of course, a factor to be considered (at \[36\]–\[37\]).
 
@@ -379,7 +379,7 @@ As can be seen from the evidence above, the Bank had taken steps to review the a
 
 ### Expert evidence
 
-101    Both sides adduced expert opinions on various points. For Mr Koh, a certain Mr Elan Cohen was called to provide his views on banking and investment matters. Mr Robert Charles John Foote for the bank and Mr Paul Barrington Dennis QC for Mr Koh were called to give evidence on BVI law relating to the rule against reflective loss.[^75] I, however, did not find it necessary to rely on the evidence of the experts. Save for the explanation as to how KODAs and DCIs operated, the case did not turn on the evidence of the experts. This case was decided on issues of either fact or law, which are matters within the province of the court (see also _Cheong Soh Chin and others v Eng Chiet Shoong and others_ at \[37\]).
+101    Both sides adduced expert opinions on various points. For Mr Koh, a certain Mr Elan Cohen was called to provide his views on banking and investment matters. Mr Robert Charles John Foote for the bank and Mr Paul Barrington Dennis QC for Mr Koh were called to give evidence on BVI law relating to the rule against reflective loss.[^75] I, however, did not find it necessary to rely on the evidence of the experts. Save for the explanation as to how KODAs and DCIs operated, the case did not turn on the evidence of the experts. This case was decided on issues of either fact or law, which are matters within the province of the court (see also _Cheong Soh Chin and others v Eng Chiet Shoong and others_  [2018] SGHC 131  at \[37\]).
 
 ### Time bar
 

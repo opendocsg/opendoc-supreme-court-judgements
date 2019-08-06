@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# United Integrated Services Pte Ltd _v_ Civil Tech Pte Ltd and another  
+# United Integrated Services Pte Ltd _v_ Civil Tech Pte Ltd and another [2019] SGHC 32   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 1433 of 2018 (Summons No 5522 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Mei Yong, Debbie (ECYT Law LLC) for the applicant; Ashok Kumar Rai (Eversheds Harry Elias LLP) for the first respondent; Lu Huiru, Grace (Holborn Law LLC) for the second respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">United Integrated Services Pte Ltd — Civil Tech Pte Ltd — Harmonious Coretrades Pte Ltd</td></tr></tbody></table>
 
@@ -35,7 +35,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 10     Before me, the parties agreed that SOPA was silent on this point and that no authorities have directly determined the matter.[^12]
 
-11     Nonetheless, in resisting the stay application, the Sub Contractor relied on the Court of Appeal’s pronouncement on the temporary finality of ADs[^13] in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ (“_W Y Steel_”) at \[71\]:
+11     Nonetheless, in resisting the stay application, the Sub Contractor relied on the Court of Appeal’s pronouncement on the temporary finality of ADs[^13] in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ (“_W Y [2013] 3 SLR 380  Steel_”) at \[71\]:
 
 An adjudication determination is provisional in the sense that it may ultimately be reversed if it is challenged in a court or tribunal or some other dispute resolution body. However, as far as the rights of the parties to the adjudication are concerned, _to the extent that the adjudication determination remains intact pending any such challenge, it has the effect of_ **_absolutely and conclusively determining the parties’ rights_** _until and unless it is eventually reversed_ in accordance with the provisions of the Act … \[emphasis added in italics and bold italics\]
 
@@ -63,7 +63,7 @@ An adjudication determination is provisional in the sense that it may ultimately
 
 ### Contrary to legislative intention
 
-21     The Sub Contractor contended that the temporary windfall which a subcontractor may enjoy ought not to usurp the SOPA’s overriding intention of ensuring a consistent stream of progress payments for subcontractors.[^17] As observed when the Bill that culminated in the SOPA was debated (_Singapore Parliamentary Debates, Official Report_ (16 November 2004) vol 78 at cols 1112 – 1113 (Cedric Foo Chee Keng, Minister of State for National Development) (“the Debates”)):
+21     The Sub Contractor contended that the temporary windfall which a subcontractor may enjoy ought not to usurp the SOPA’s overriding intention of ensuring a consistent stream of progress payments for subcontractors.[^17] As observed when the Bill that culminated in the SOPA was debated (_Singapore Parliamentary Debates, Official Report_ [2019] SGHC 32   (16 November 2004) vol 78 at cols 1112 – 1113 (Cedric Foo Chee Keng, Minister of State for National Development) (“the Debates”)):
 
 The financial problems affecting some construction firms have in turn affected subcontractors and suppliers further downstream along the construction value chain. They face delays or non-payments for work done or materials supplied …
 

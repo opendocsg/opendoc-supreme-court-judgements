@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Tangaraju s/o Suppiah  
+# Public Prosecutor _v_ Tangaraju s/o Suppiah [2018] SGHC 279   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Case No 19 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 December 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hoo Sheau Peng J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Anandan s/o Bala and Kee Yongwen Kenneth (Attorney-General's Chambers) for the Public Prosecutor; Ram Goswami (Ram Goswami) and Cheng Kim Kuan (KK Cheng &amp; Co) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tangaraju s/o Suppiah</td></tr></tbody></table>
 
@@ -200,7 +200,7 @@ Further, s 107(_b_) of the Penal Code (Cap 224, 2008 Rev Ed) provides the elemen
 
 (b)     An act was committed in pursuance of the aforementioned conspiracy.
 
-50     In addition, the Court of Appeal has affirmed that where the accused person is himself the intended recipient of the offending drugs (as was the case here), an additional _mens rea_ element must be proved – _viz_, that the accused, as abettor, himself intended to traffic in the offending drugs (_Ali bin Mohamad Bahashwan v Public Prosecutor and other appeals_ at \[75\]–\[78\]). Thus, the Prosecution also had to prove that the accused, as the intended recipient of the offending drugs, intended to traffic in those drugs.
+50     In addition, the Court of Appeal has affirmed that where the accused person is himself the intended recipient of the offending drugs (as was the case here), an additional _mens rea_ element must be proved – _viz_, that the accused, as abettor, himself intended to traffic in the offending drugs (_Ali bin Mohamad Bahashwan v Public Prosecutor and other appeals_ [2018] 1 SLR 610   at \[75\]–\[78\]). Thus, the Prosecution also had to prove that the accused, as the intended recipient of the offending drugs, intended to traffic in those drugs.
 
 ### Conspiracy to traffic in cannabis
 

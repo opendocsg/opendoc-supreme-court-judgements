@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Teo Lay Gek and another _v_ Hoang Trong Binh and others  
+# Teo Lay Gek and another _v_ Hoang Trong Binh and others [2019] SGHC 84   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 935 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Siong Thye J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Ee Yang and Wong En Hui, Charis (Covenant Chambers LLC) for the plaintiffs; Hing Shan Shan Blossom, Tan Yi Yin, Amy and Chin Tian Hui, Joshua (Drew &amp; Napier LLC) for the defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Teo Lay Gek — Lok Kexin Melissa — Hoang Trong Binh — Truong Quang Con — IPMM (Singapore) Pte. Ltd.</td></tr></tbody></table>
 
@@ -115,7 +115,7 @@ Professions – Valuer – Judicial review of valuation
 
 #### EY did not exceed the scope of its contractual mandate
 
-24     The plaintiffs submitted that EY would only have exceeded the scope of its contractual mandate if it had made “fundamental mistakes”.[^44] The plaintiffs relied on _Jones v Sherwood Computer Services plc_ at 287 for examples of such “fundamental mistakes”. These included the situation where a valuer of shares valued the wrong number of shares, or valued shares in the wrong company. On the facts, EY had valued the plaintiffs’ shares in the Company fully in accordance with their terms of engagement.[^45] Accordingly, EY could not have been said to have exceeded the scope of its contractual mandate.
+24     The plaintiffs submitted that EY would only have exceeded the scope of its contractual mandate if it had made “fundamental mistakes”.[^44] The plaintiffs relied on _Jones v Sherwood Computer Services plc_ at 287 [1992] 1 WLR 277  for examples of such “fundamental mistakes”. These included the situation where a valuer of shares valued the wrong number of shares, or valued shares in the wrong company. On the facts, EY had valued the plaintiffs’ shares in the Company fully in accordance with their terms of engagement.[^45] Accordingly, EY could not have been said to have exceeded the scope of its contractual mandate.
 
 ## My decision
 
@@ -131,7 +131,7 @@ Professions – Valuer – Judicial review of valuation
 
 ### The law
 
-26     The general rule is that the only grounds to challenge a determination of an expert whom the parties agreed are as follows (see _Poh Cheng Chew v K P Koh & Partners Pte Ltd and another_ (“_Poh Cheng Chew_”) at \[36\]):
+26     The general rule is that the only grounds to challenge a determination of an expert whom the parties agreed are as follows (see _Poh Cheng Chew v K P Koh & Partners Pte Ltd and another_  [2014] 2 SLR 573 (“_Poh Cheng Chew_”) at \[36\]):
 
 (a)     material departure from instructions;
 
@@ -139,13 +139,13 @@ Professions – Valuer – Judicial review of valuation
 
 (c)     fraud, collusion, partiality and the like.
 
-27     Thus, the grounds to challenge an expert’s determination are very narrow. This is the correct approach as the fundamental contract between the parties is that they had agreed to be bound by the opinion and views of their chosen expert. The courts will not allow a dissatisfied party a second bite at the cherry on the merits so as to preserve the sanctity of the joint agreement made by the parties. In doing so, the court is doing no more than to uphold the parties’ contractual bargain, since they have contracted for the expert’s determination to be final and binding on the merits. As stated by V K Rajah J (as he then was) in _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd_ at \[29\]:
+27     Thus, the grounds to challenge an expert’s determination are very narrow. This is the correct approach as the fundamental contract between the parties is that they had agreed to be bound by the opinion and views of their chosen expert. The courts will not allow a dissatisfied party a second bite at the cherry on the merits so as to preserve the sanctity of the joint agreement made by the parties. In doing so, the court is doing no more than to uphold the parties’ contractual bargain, since they have contracted for the expert’s determination to be final and binding on the merits. As stated by V K Rajah J (as he then was) in _Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd_ [2006] 1 SLR(R) 634  at \[29\]:
 
 … It is quite inappropriate for a court to substitute its own view on the merits when the parties have already agreed to rely on the expertise of an expert for a final and irrevocable determination.
 
 28     In this case, the defendants did not allege that there was fraud, collusion, partiality and the like on the part of EY. Therefore, these grounds would not be relevant for the purpose of setting aside the EY Report. However, the defendants argued that there were manifest errors in the EY Report and that there was material departure from instructions by EY. Hence, my decision will deal only with the allegations raised by the defendants.
 
-29     For manifest errors, the dissatisfied party, in this case the defendants, had to show a “manifest error” in the expert’s determination, as opposed to a mere error. As stated by Lord Denning MR in _Campbell v Edwards_ at 407:
+29     For manifest errors, the dissatisfied party, in this case the defendants, had to show a “manifest error” in the expert’s determination, as opposed to a mere error. As stated by Lord Denning MR in _Campbell v Edwards_ [1976] 1 WLR 403  at 407:
 
 … It is simply the law of contract. If two persons agree that the price of property should be fixed by a valuer on whom they agree, and he gives that valuation honestly and in good faith, they are bound by it. _Even if he has made a mistake they are still bound by it. The reason is because they have agreed to be bound by it_. … \[emphasis added\]
 
@@ -155,11 +155,11 @@ Professions – Valuer – Judicial review of valuation
 
 31     The principles enunciated above are particularly pertinent in this case, where parties were embroiled in litigation but decided to submit to expert determination as part of the Settlement Agreement. The defendants have themselves stated that their motivation for entering into the Settlement Agreement was to avoid protracted litigation.[^46] The parties did not dispute that only a manifest error and not a mere error would suffice to set aside the EY Report.
 
-32     There is some debate over the approach the court should adopt with respect to manifest errors. In _Geowin Construction Pte Ltd (in liquidation) v Management Corporation Strata Title Plan No 1256_ (“_Geowin_”) at \[16\], Rajah J preferred a narrow approach, and explained that the term “manifest error” is “no more than a convenient shorthand reference to a patent error _on the ‘face’ of the award or decision_” \[emphasis added\]. This approach was similarly adopted in _Quek Kwee Kee Victoria (in her personal capacity and as executor of the estate of Quek Kiat Song, deceased) and another v Quek Khuay Chuah_ at \[33\]. The rationale for the narrow approach was stated succinctly by Rajah J in _Geowin_ at \[19\]:
+32     There is some debate over the approach the court should adopt with respect to manifest errors. In _Geowin Construction Pte Ltd (in liquidation) v Management Corporation Strata Title Plan No 1256_  [2007] 1 SLR(R) 1004 (“_Geowin_”) at \[16\], Rajah J preferred a narrow approach, and explained that the term “manifest error” is “no more than a convenient shorthand reference to a patent error _on the ‘face’ of the award or decision_” \[emphasis added\]. This approach was similarly adopted in _Quek Kwee Kee Victoria (in her personal capacity and as executor of the estate of Quek Kiat Song, deceased) and another v Quek Khuay Chuah_  [2014] 4 SLR 1 at \[33\]. The rationale for the narrow approach was stated succinctly by Rajah J in _Geowin_ at \[19\]:
 
 … the court should not stray beyond the actual report or award in considering how or why the decision was reached. The underlying evidence ought not to be re-examined or referred to as this would be tantamount to an appellate hearing and to that extent contrary to what the parties had solemnly agreed to. _The right of review should be confined to correcting apparent mistakes that appear on the face of the report or award (eg apparent mathematical miscalculations) and to determining whether the expert has complied with his terms of appointment_. \[emphasis added\]
 
-33     However, in _The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ (“_The Oriental Insurance_”) at \[89\], Chan Seng Onn J adopted a less strict approach, and opined that there was no absolute rule precluding reference to matters beyond the face of the award or decision to establish a manifest error.
+33     However, in _The Oriental Insurance Co Ltd v Reliance National Asia Re Pte Ltd_ [2009] 2 SLR 385  (“_The Oriental Insurance_”) at \[89\], Chan Seng Onn J adopted a less strict approach, and opined that there was no absolute rule precluding reference to matters beyond the face of the award or decision to establish a manifest error.
 
 34     In my view, I would respectfully prefer Rajah J’s approach in _Geowin_ for the following reasons.
 
@@ -169,7 +169,7 @@ Professions – Valuer – Judicial review of valuation
 
 37     Thirdly, the narrow approach recognises that “courts have no greater expertise than expert valuers; and that where parties have chosen voluntarily to commit the determination of valuation to an expert, judicial restraint is an appropriate response” (_Holt v Cox_ (1997) 23 ACSR 590 at 597, cited in _Geowin_ at \[18\]).
 
-38     In any event, I note that even on Chan J’s approach in _The Oriental Insurance_, the definition of a manifest error still remains narrow. As observed by Vinodh Coomaraswamy J in _Jayanti Nadarajoo v Bronwyn Helen Matthews and another_ at \[73\]:
+38     In any event, I note that even on Chan J’s approach in _The Oriental Insurance_, the definition of a manifest error still remains narrow. As observed by Vinodh Coomaraswamy J in _Jayanti Nadarajoo v Bronwyn Helen Matthews and another_ at [2015] SGHC 222   \[73\]:
 
 Even on Chan J’s approach, it is clear that not all error is manifest error. Only error which is capable of affecting the outcome of the determination and _admits no difference of opinion_ amounts to manifest error. The example provided is a clear arithmetical error. In that case, Chan J found manifest error in the determination of the period of interest because of a technical arithmetical error in the expert’s discount calculations. \[emphasis in original\]
 

@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Mohamed Shalleh bin Abdul Latiff  
+# Public Prosecutor _v_ Mohamed Shalleh bin Abdul Latiff [2019] SGHC 93   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Case No 74 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hoo Sheau Peng J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Anandan Bala, Wong Woon Kwong and Theong Li Han (Attorney-General's Chambers) for the Prosecution; Ram Goswami (Ram Goswami) and Dhanaraj James Selvaraj (James Selvaraj LLC) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mohamed Shalleh bin Abdul Latiff</td></tr></tbody></table>
 
@@ -133,7 +133,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 (2)    For the purposes of this Act, a person commits the offence of trafficking in a controlled drug if he has in his possession that drug for the purpose of trafficking.
 
-17     The Court of Appeal held in _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ (at \[59\]) that the elements of a charge of trafficking under s 5(1)(_a_) read with s 5(2) of the MDA are (a) possession of a controlled drug, which may be proved or presumed under s 18(1) of the MDA; (b) knowledge of the nature of the drug, which may be proved or presumed under s 18(2) of the MDA; and (c) proof that possession of the drug was for the purpose of trafficking which was not authorised. There was no dispute between the parties as to the law.
+17     The Court of Appeal held in _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_  [2014] 3 SLR 721 (at \[59\]) that the elements of a charge of trafficking under s 5(1)(_a_) read with s 5(2) of the MDA are (a) possession of a controlled drug, which may be proved or presumed under s 18(1) of the MDA; (b) knowledge of the nature of the drug, which may be proved or presumed under s 18(2) of the MDA; and (c) proof that possession of the drug was for the purpose of trafficking which was not authorised. There was no dispute between the parties as to the law.
 
 18     As for the knowledge of the nature of the drug, s 18(2) of the MDA provides:
 
@@ -143,11 +143,11 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 (2)    Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug.
 
-19     If the Prosecution is able to invoke the presumption of knowledge, the accused must prove, on a balance of probabilities, that he did not have knowledge of the nature of the drug: _Obeng Comfort v Public Prosecutor_ at \[37\]. The court elaborated:
+19     If the Prosecution is able to invoke the presumption of knowledge, the accused must prove, on a balance of probabilities, that he did not have knowledge of the nature of the drug: _Obeng Comfort v Public Prosecutor_  [2017] 1 SLR 633 at \[37\]. The court elaborated:
 
 … The court assesses the accused’s evidence as to his subjective knowledge by comparing it with what an ordinary, reasonable person would have known or done if placed in the same situation that the accused was in. If such an ordinary, reasonable person would surely have known or taken steps to establish the nature of the drug in question, the accused would have to adduce evidence to persuade the court that nevertheless he, _for reasons special to himself or to his situation, did not have such knowledge or did not take such steps_. It would then be for the court to assess the credibility of the accused’s account on a balance of probabilities. … \[emphasis added\]
 
-20     On the specific situation where the accused relies on his belief in information given by the drugs supplier in an attempt to rebut the presumption of knowledge under s 18(2) of the MDA, I noted the Court of Appeal’s guidance in _Public Prosecutor v Gobi a/l Avedian_ at \[39\]:
+20     On the specific situation where the accused relies on his belief in information given by the drugs supplier in an attempt to rebut the presumption of knowledge under s 18(2) of the MDA, I noted the Court of Appeal’s guidance in _Public Prosecutor v Gobi a/l Avedian_  [2019] 1 SLR 113  at \[39\]:
 
 In determining whether an accused person believed subjectively the information given by the drugs supplier about the drugs, the court will consider the knowledge of and the efforts made by the accused person to find out about the drugs that he was going to traffic in. In our view, _unique circumstances_ justifying a _very high level of trust_ must be shown by the accused person before the court is persuaded that the accused person is entitled to rely _solely or mainly on the information given by the drugs supplier_. … \[emphasis added\]
 

@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Lim Koon Eng Jeremiah  
+# Public Prosecutor _v_ Lim Koon Eng Jeremiah [2019] SGHC 71   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Case No 71 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hoo Sheau Peng J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tan Wee Hao and Tan Yanying (Attorney-General's Chambers) for the Prosecution; Lam Wai Seng (Lam W.S. &amp; Co) and Balakrishnan Chitra (M/s Regency Legal LLP) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lim Koon Eng Jeremiah</td></tr></tbody></table>
 
@@ -161,7 +161,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 (2)    For the purposes of this Act, a person commits the offence of trafficking in a controlled drug if he has in his possession that drug for the purpose of trafficking.
 
-31     The Court of Appeal held in _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ (at \[59\]) that the elements of a charge of trafficking under s 5(1)(_a_) read with s 5(2) of the MDA are (a) possession of a controlled drug; (b) knowledge of the nature of the drug; and (c) proof that possession of the drug was for the purpose of trafficking which was not authorised. There was no dispute between the parties as to the law.
+31     The Court of Appeal held in _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_  [2014] 3 SLR 721  (at \[59\]) that the elements of a charge of trafficking under s 5(1)(_a_) read with s 5(2) of the MDA are (a) possession of a controlled drug; (b) knowledge of the nature of the drug; and (c) proof that possession of the drug was for the purpose of trafficking which was not authorised. There was no dispute between the parties as to the law.
 
 ## Decision on conviction
 

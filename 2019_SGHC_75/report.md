@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Ranjit Singh Gill Menjeet Singh _v_ Public Prosecutor  
+# Ranjit Singh Gill Menjeet Singh _v_ Public Prosecutor [2019] SGHC 75   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Appeal No 19 of 2016 (Criminal Motion No 5 of 2017)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">19 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hoo Sheau Peng J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Terence Chua and Jason Chua (Attorney-General's Chambers) for the Public Prosecutor; Bachoo Mohan Singh and Too Xing Ji (BMS Law LLC) for the First Accused; Thangavelu (Thangavelu LLC) and Syazana Binte Yahya (Eugene Thuraisingam LLP) for the Second Accused; Edmund Nathan (M/s Tan &amp; Pillai) for Singa Retnam; Dhanaraj James Selvaraj in person; Gino Hardial Singh in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Ranjit Singh Gill Menjeet Singh — Public Prosecutor</td></tr></tbody></table>
 
@@ -15,7 +15,7 @@ Criminal Procedure and Sentencing – Taking additional evidence
 
 ## Background
 
-2       The accused was convicted of a charge of trafficking in not less than 35.21 grams of diamorphine, an offence under s 5(1)(_a_) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”). He was sentenced to life imprisonment and 15 strokes of the cane. My grounds of decision are contained in _Public Prosecutor v Ranjit Singh Gill Menjeet Singh and another_ (“GD”).
+2       The accused was convicted of a charge of trafficking in not less than 35.21 grams of diamorphine, an offence under s 5(1)(_a_) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”). He was sentenced to life imprisonment and 15 strokes of the cane. My grounds of decision are contained in _Public Prosecutor v Ranjit Singh Gill Menjeet Singh and another_ [2016] SGHC 217   (“GD”).
 
 3       The case turned on the accused’s knowledge that a plastic bag which he handed to the co-accused contained the drugs. The plastic bag was in the bus which the accused drove from Malaysia to Singapore. The accused’s defence was that he did not know that the plastic bag contained anything illegal or specifically, the drugs. As explained in \[37\]–\[50\] of the GD, based on the facts and circumstances, I found that he had failed to rebut the presumption of knowledge of the nature of the drugs contained in s 18(2) of the MDA.
 

@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Ho Man Yuk _v_ Public Prosecutor  
+# Ho Man Yuk _v_ Public Prosecutor [2019] SGCA 2   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Reference No 2 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Court of Appeal</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Sundaresh Menon CJ; Judith Prakash JA; Tay Yong Kwang JA</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ragbir Singh Bajwa (instructed) (Bajwa &amp; Co), Kertar Singh s/o Guljar Singh and Lee Wei Liang (Kertar &amp; Sandhu LLC) for the applicant; and Leong Wing Tuck, Jiang Ke-Yue, Kelvin Chong, Ang Siok Chen and Jocelyn Teo (Attorney-General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Ho Man Yuk — Public Prosecutor</td></tr></tbody></table>
 
@@ -72,7 +72,7 @@ We will refer to this question as the “innocent possession question” or the 
 
 ### The trial
 
-18     The Offenders were jointly tried, convicted, and sentenced in the State Courts by the learned District Judge, whose decision was reported in _Public Prosecutor v Ho Mun Yuk and others_ (“SC GD”). In regard to the DM Charges, the District Judge relied on _Wong Seng Kwan v Public Prosecutor_ (“_Wong Seng Kwan_”) at \[19\] for the proposition that the three elements of a dishonest misappropriation charge under s 403 of the Code are:
+18     The Offenders were jointly tried, convicted, and sentenced in the State Courts by the learned District Judge, whose decision was reported in _Public Prosecutor v Ho Mun Yuk and others_  [2017] SGDC 23 (“SC GD”). In regard to the DM Charges, the District Judge relied on _Wong Seng Kwan v Public Prosecutor_ [2012] 3 SLR 12  (“_Wong Seng Kwan_”) at \[19\] for the proposition that the three elements of a dishonest misappropriation charge under s 403 of the Code are:
 
 (a)     the movable property must belong to some person other than the accused person;
 
@@ -86,7 +86,7 @@ We will refer to this question as the “innocent possession question” or the 
 
 ### The Magistrate’s Appeal
 
-21     Each of the Offenders appealed against both conviction and sentence in respect of all the charges. The matter was heard by the learned High Court judge (“the Judge”). On 29 September 2017, the Judge dismissed the appeals in their entirety. His judgment is published as _Shaikh Farid v Public Prosecutor and other appeals_ (“HC GD”).
+21     Each of the Offenders appealed against both conviction and sentence in respect of all the charges. The matter was heard by the learned High Court judge (“the Judge”). On 29 September 2017, the Judge dismissed the appeals in their entirety. His judgment is published as _Shaikh Farid v Public Prosecutor and other appeals_  [2017] 5 SLR 1081 (“HC GD”).
 
 22     In relation to the DM Charge, the Defence raised several arguments, one of which was that innocent possession is a requirement for a conviction under s 403 of the Code. The Defence argued that even if the District Judge’s findings of fact were accepted, the DM Charge could not be made out because the Monies did not come into the Offenders’ possession innocently or in a neutral manner – the Applicant had swiped her membership card at the redemption kiosks at MBS _with the knowledge_ that there was a system error.
 
@@ -106,7 +106,7 @@ This is our decision. Insofar as the main question before us is concerned, we an
 
 ### The proper interpretive approach
 
-26     We were faced with the question of the proper interpretation of s 403 of the Code. Before we go into the discussion it might be helpful if we set out how we approached this issue. We followed the principles laid down in the minority judgment in _Attorney-General v Ting Choon Meng and another appeal_ at \[59\] and affirmed by a 5-judge coram of this Court in _Tan Cheng Bock v Attorney-General_ (“_Tan Cheng Bock_”) at \[37\] which guide the court in its task of giving a purposive interpretation to legislation as required by s 9A(1) of the Interpretation Act (Cap 1, 2002 Rev Ed) (“IA”). These principles direct the court to:
+26     We were faced with the question of the proper interpretation of s 403 of the Code. Before we go into the discussion it might be helpful if we set out how we approached this issue. We followed the principles laid down in the minority judgment in _Attorney-General v Ting Choon Meng and another appeal_  [2017] 1 SLR 373 at \[59\] and affirmed by a 5-judge coram of this Court in _Tan Cheng Bock v Attorney-General_ (“_Tan [2017] 2 SLR 850  Cheng Bock_”) at \[37\] which guide the court in its task of giving a purposive interpretation to legislation as required by s 9A(1) of the Interpretation Act (Cap 1, 2002 Rev Ed) (“IA”). These principles direct the court to:
 
 (a)     First, ascertain the possible interpretations of the provision, having regard not just to the text of the provision but also to the context of that provision within the written law as a whole.
 
@@ -363,7 +363,7 @@ _Z_ dies in possession of furniture and money. His servant _A_, before the money
 
 78     What follows is a brief legislative history of s 403 of the Code:
 
-(a)     At the beginning of the nineteenth century, the English common law required that to constitute larceny or theft at common law there should be a felonious “taking,” which was understood to mean a “taking out of the possession of some person entitled to \[the property\]”. Thus, misappropriation of property was not a crime so long as the taker had not taken the property out of its owner’s possession dishonestly but had originally acquired it honestly (Sir James Fitzjames Stephen, _A History of the Criminal Law of England_ vol III (Macmillan and Co, 1883) at pp 150–151 and 158). This remained the law in England until the mid-twentieth century, and appears to have been unaffected by the passage of the Embezzlement Act in 1812 and the Larceny Act 1827 which statutorily enshrined exceptions relating to embezzlements by agents (see _Public Prosecutor v Lam Leng Hung and others_ at \[178\]–\[181\]).
+(a)     At the beginning of the nineteenth century, the English common law required that to constitute larceny or theft at common law there should be a felonious “taking,” which was understood to mean a “taking out of the possession of some person entitled to \[the property\]”. Thus, misappropriation of property was not a crime so long as the taker had not taken the property out of its owner’s possession dishonestly but had originally acquired it honestly (Sir James Fitzjames Stephen, _A History of the Criminal Law of England_ vol III (Macmillan and Co, 1883) at pp 150–151 and 158). This remained the law in England until the mid-twentieth century, and appears to have been unaffected by the passage of the Embezzlement Act in 1812 and the Larceny Act 1827 which statutorily enshrined exceptions relating to embezzlements by agents (see _Public Prosecutor v Lam Leng Hung and others_  [2018] 1 SLR 659 at \[178\]–\[181\]).
 
 (b)     In India, the first draft of the Indian Penal Code was submitted by the Law Commission of India under the chairmanship of Lord Thomas Macaulay (“the ILC”) to the Governor-General of India in 1837. This first draft contained provisions criminalising dishonest misappropriation, and aggravated dishonest misappropriation (of property taken from deceased persons, as per s 404 of the Code) (“the Draft IPC”). The relevant provisions read as follows:
 
@@ -591,7 +591,7 @@ The question whether the act is theft or misappropriation depends upon when the 
 
 ##### (1)   Rectifying construction
 
-113    Rectifying construction “involves the addition or substitution of words to give effect to Parliament’s manifest intentions” (_Nam Hong Construction & Engineering Pte Ltd v Kori Construction (S) Pte Ltd_ (“_Nam Hong_”) at \[54\]). It is possible to invoke this method in the Applicant’s favour so as to circumvent the absence of an express reference to innocent possession on the face of s 403 of the Code. If so invoked, the words which may be added to s 403 of the Code are as set out in **bold** in the following re-wording of the section:
+113    Rectifying construction “involves the addition or substitution of words to give effect to Parliament’s manifest intentions” (_Nam Hong Construction & Engineering Pte Ltd v Kori Construction (S) Pte Ltd_ (“_Nam [2016] 4 SLR 604  Hong_”) at \[54\]). It is possible to invoke this method in the Applicant’s favour so as to circumvent the absence of an express reference to innocent possession on the face of s 403 of the Code. If so invoked, the words which may be added to s 403 of the Code are as set out in **bold** in the following re-wording of the section:
 
 403.  Whoever, **having obtained possession of any movable property without a dishonest intention**, **thereafter** dishonestly misappropriates or converts to his own use movable property, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
@@ -603,7 +603,7 @@ The question whether the act is theft or misappropriation depends upon when the 
 
 ##### (2)   Strict construction rule
 
-116    The other potentially relevant canon of construction is the “strict construction rule”, also known as the “principle against doubtful penalisation”. According to VK Rajah JA in _Public Prosecutor v Low Kok Heng_ at \[30\]–\[38\], this is a “tool of last resort” to which recourse may be had only if there is genuine ambiguity in the meaning of the provision even after the courts have attempted to interpret the statute purposively. If the meaning of the provision is sufficiently clear after the ordinary rules of construction have been applied, then there is no room for the application of this rule (see also _Nam Hong_ at \[28\]).
+116    The other potentially relevant canon of construction is the “strict construction rule”, also known as the “principle against doubtful penalisation”. According to VK Rajah JA in _Public Prosecutor v Low Kok Heng_ [2007] 4 SLR(R) 183   at \[30\]–\[38\], this is a “tool of last resort” to which recourse may be had only if there is genuine ambiguity in the meaning of the provision even after the courts have attempted to interpret the statute purposively. If the meaning of the provision is sufficiently clear after the ordinary rules of construction have been applied, then there is no room for the application of this rule (see also _Nam Hong_ at \[28\]).
 
 117    In our judgment, even though the plain text, history, and purpose of the provision are not entirely helpful, the context of s 403 of the Code sufficiently demonstrates that innocent possession could not have been an intended element of dishonest misappropriation. In those circumstances, there is no room for the strict construction rule to apply.
 

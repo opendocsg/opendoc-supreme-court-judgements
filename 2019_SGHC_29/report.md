@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Leow Ban Leong and another and another appeal  
+# Public Prosecutor _v_ Leow Ban Leong and another and another appeal [2019] SGHC 29   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal 9066 and 9067 of 2018/01, Magistrate's Appeal 9066 and 9067 of 2018/02</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Gordon Oh, Jiang Ke-Yue and Magdalene Huang (Attorney-General's Chambers) for the appellant in MA 9066 and 9067 of 2018/01 and the respondent in MA 9066 and 9067 of 2018/02; Cavinder Bull, S.C. and Vikram Rajaram (Drew &amp; Napier LLC) (instructed counsel)/Edwin Lee Peng Khoon and Pramnath Vijayakumar (Eldan Law LLC) (instructing counsel)/Kang Kok Boon Favian (Peter Low &amp; Choo LLC) (instructing counsel) for the respondents in MA 9066 and 9067 of 2018/01 and the appellants in MA 9066 and 9067 of 2018/02.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Leow Ban Leong — Foo Fang Liong</td></tr></tbody></table>
 
@@ -49,7 +49,7 @@ Criminal Procedure and Sentencing – Sentencing – Principles – Falsif
 
 * * *
 
-[^1]: _Public Prosecutor v Leow Ban Leong and another_ (“GD”), \[1\].
+[^1]: _Public Prosecutor v Leow Ban Leong and another_ [2018] SGDC 157   (“GD”), \[1\].
 
 [^2]: Transcript, 19 September 2017, p 3, lines 5 – 12 (ROP, p 1077).
 
