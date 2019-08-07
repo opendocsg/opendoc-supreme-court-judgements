@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# CHL Construction Pte Ltd _v_ Yangguang Group Pte Ltd  
+# CHL Construction Pte Ltd _v_ Yangguang Group Pte Ltd [2019] SGHC 62   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 1465 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ong Li Min Magdalene and Quek Li Ting (WongPartnership LLP) for the plaintiff; Lim Kim Hong (Kim &amp; Co) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">CHL Construction Pte Ltd — Yangguang Group Pte Ltd</td></tr></tbody></table>
 
@@ -39,7 +39,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 11     The dispute centred around PC10, and whether it was served in contravention of s 10(2)(_a_) SOPA.
 
-12     If s 10(2)(_a_) SOPA had indeed been breached, given that it is “a mandatory provision, breach of which would render an adjudication determination invalid” (_Grouteam Pte Ltd v UES Holdings Pte Ltd_ at \[53\]), the AD which was given in respect of PC10 would be rendered invalid, and the Main Contractor’s setting-aside application must be allowed.
+12     If s 10(2)(_a_) SOPA had indeed been breached, given that it is “a mandatory provision, breach of which would render an adjudication determination invalid” (_Grouteam Pte Ltd v UES Holdings Pte Ltd_ at [2016] 5 SLR 1011  \[53\]), the AD which was given in respect of PC10 would be rendered invalid, and the Main Contractor’s setting-aside application must be allowed.
 
 13     Section 10(2) SOPA states that a payment claim must be served in accordance with the timelines in the contract between the parties unless the contract does not contain a provision to such effect:
 
@@ -59,7 +59,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 ### Dual-track regime for construction claims
 
-17     Before determining the effect of the contractual termination on clause 37, it is important to distinguish the two distinct modes of claims for contractors. As Lee Seiu Kin J explained in _Tienrui Design & Construction Pte Ltd v G & Y Trading and Manufacturing Pte Ltd_ at \[30\]:
+17     Before determining the effect of the contractual termination on clause 37, it is important to distinguish the two distinct modes of claims for contractors. As Lee Seiu Kin J explained in _Tienrui Design & Construction Pte Ltd v G & Y Trading and Manufacturing Pte Ltd_  [2015] 5 SLR 852 at \[30\]:
 
 … Under the SOP Act, a party who carries out any construction work or supplies any goods or services under a construction contract is entitled to progress payments (s 5). While that **_statutory entitlement to payment_** _is founded on the underlying contract, it is_ **_separate and distinct_** _from a party’s_ **_contractual entitlement to be paid_**. The result is a “dual railroad track system” consisting of the statutory regime under the \[SOPA\] which operates concurrently with, but is quite distinct from, the contractual regime. … \[emphasis added\]
 
@@ -83,7 +83,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 21     Therefore, contrary to the Adjudicator’s determination, termination of the contract subsequent to the point of time the statutory entitlement to payment had arisen and accrued does not alter the timeline for service of a SOPA payment claim that applies to that contractor’s accrued _statutory_ entitlement to payment. Instead, the timeline for service is determined at the point the statutory entitlement to payment arises; if the contract stipulates such a timeline, the contractual timeline applies pursuant to s 10(2)(_a_) SOPA. Like the contractor’s statutory entitlement to payment, this timeline remains unchanged even if the contract is subsequently terminated.
 
-22     This interpretation is consistent with prior decisions, which have held that contractual provisions relating to timelines survive termination for the purposes of claims under SOPA: _AET Pte Ltd v AEU Pte Ltd_ (_“AET_”) at \[37\]–\[43\]; _Taisei Corp v Doo Ree Engineering & Trading Pte Ltd_ (“_Taisei_”).
+22     This interpretation is consistent with prior decisions, which have held that contractual provisions relating to timelines survive termination for the purposes of claims under SOPA: _AET Pte Ltd v AEU Pte Ltd_  [2010] SCAdjR 771 (_“AET_”) at \[37\]–\[43\]; _Taisei Corp v Doo Ree Engineering & Trading Pte Ltd_ [2009] SGHC 156  (“_Taisei_”).
 
 23     In _Taisei_, the main contractor, Taisei, had terminated the appointment of the subcontractor, Doo Ree. After the termination, on 29 November 2008, Doo Ree submitted Payment Claim 25 (“PC25”). Less than 21 days after, on 19 December 2008, Doo Ree lodged an adjudication application. A day later, on 20 December 2008, Taisei lodged its payment response.
 
@@ -119,7 +119,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 … The Act seeks to strike some balance between competing considerations. On the one hand, there is the _protection of the entitlement of those who perform construction work_, or supply related goods or services, to receive progress payments. On the other, there is the _freedom of parties to contract_ as they wish. … \[I\]n interpreting the “avoidance provisions”, it is necessary to pay due regard to the objects of and policy underlying the Act. But, that having been said, I do not think that anything in the Act generally … requires the Court to strain to find that a provision of a contract offends the Act. \[emphasis added\]
 
-33     In _John Holland Pty Ltd v Coastal Dredging & Construction Pty Limited & Ors_ (“_John Holland_”),[^16] the main contractor applied to set aside an adjudicator’s decision. One issue that arose was whether clauses 12.6(h) and 12.6(i) of the contract were void.
+33     In _John Holland Pty Ltd v Coastal Dredging & Construction Pty Limited & Ors_ [2012] QCA 150  (“_John Holland_”),[^16] the main contractor applied to set aside an adjudicator’s decision. One issue that arose was whether clauses 12.6(h) and 12.6(i) of the contract were void.
 
 34     Clauses 12.6(h) provided that a payment claim submitted by the sub-contractor would be void if it did not comply with certain conditions, such as ensuring that the payment claim was submitted to the main contractor’s project manager. If the payment claim was so void by virtue of clause 12.6(h), clause 12.6(i) then provided that the sub-contractor’s payment claim would be deferred to the same day of the following month (_John Holland_ at \[6\] and \[8\]).
 
@@ -127,7 +127,7 @@ Building and Construction Law – Statutes and regulations – Building and 
 
 36     Therefore, the Sub-Contractor submitted that, by deferring its penultimate payment claim by at least three months after the receipt of the CSC, clause 37 offended s 36(2) SOPA.
 
-37     On one hand, the deferment of the Sub-Contractor’s right to submit its penultimate payment claim by virtue of clause 37 appears to offend the object of SOPA, which entitles a contractor to payment upon completion of works (s 5 SOPA). This is to facilitate cash flow for parties in the construction industry (_Singapore Parliamentary Debates, Official Report_ (16 November 2004) vol 78 at col 1112 (Cedric Foo Chee Keng, Minister of State for National Development)).
+37     On one hand, the deferment of the Sub-Contractor’s right to submit its penultimate payment claim by virtue of clause 37 appears to offend the object of SOPA, which entitles a contractor to payment upon completion of works (s 5 SOPA). This is to facilitate cash flow for parties in the construction industry (_Singapore Parliamentary [2019] SGHC 62   Debates, Official Report_ (16 November 2004) vol 78 at col 1112 (Cedric Foo Chee Keng, Minister of State for National Development)).
 
 38     On the other hand, SOPA accords primacy to the parties’ agreement with respect to payment claim timelines (see s 10(2) SOPA at \[13\] above). In accordance with this, the parties agreed, via clause 37, that the penultimate payment claim was to be submitted at least three months after the receipt of the CSC. This was so as to give the Main Contractor sufficient time to assess the total value of the Sub-Contractor’s works upon completion. Being a re-measurement contract, a final measurement of the work done and certified was necessary for valuing all the works completed by the Sub-Contractor.[^17]
 

@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Quantum Automation Pte Ltd _v_ Saravanan Apparsamy  
+# Quantum Automation Pte Ltd _v_ Saravanan Apparsamy [2019] SGHC 27   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 1204 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Woo Bih Li J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ho Tze Herng Eugene (Eugene Ho &amp; Partners) for the plaintiff; The defendant in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Quantum Automation Pte Ltd — Saravanan Apparsamy</td></tr></tbody></table>
 
@@ -133,7 +133,7 @@ In exchange, Quantum ceased its claim in the 1st Suit.
 
 ### The elements required to establish the tort of defamation
 
-44     In _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ , the Court of Appeal mentioned three elements to establish liability in the tort of defamation at \[24\]:
+44     In _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ [1997] 3 SLR(R) 649  , the Court of Appeal mentioned three elements to establish liability in the tort of defamation at \[24\]:
 
 (a)     the allegation must be defamatory;
 
@@ -141,7 +141,7 @@ In exchange, Quantum ceased its claim in the 1st Suit.
 
 (c)     there must be publication of the statement to a person other than the person of whom it is written.
 
-45     These three elements were reiterated by the High Court in _Golden Season Pte Ltd and others v Kairos Singapore Holdings Pte Ltd and another_ (“_Golden Season_”) at \[35\].
+45     These three elements were reiterated by the High Court in _Golden Season Pte Ltd and others v Kairos Singapore Holdings Pte Ltd and another_  [2015] 2 SLR 751 (“_Golden Season_”) at \[35\].
 
 46     It was clear that the disputed emails referred to Quantum.
 
@@ -159,7 +159,7 @@ In exchange, Quantum ceased its claim in the 1st Suit.
 
 See Gary Chan Kok Yew & Lee Pey Woan, _The Law of Torts in Singapore_ (Academy Publishing, 2011) … at para 12.014.
 
-37    Whether a statement is defamatory is generally determined based on the construction of the natural and ordinary meaning of the words used. As summarised by the Court of Appeal in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ … at \[18\], the following guiding principles apply:
+37    Whether a statement is defamatory is generally determined based on the construction of the natural and ordinary meaning of the words used. As summarised by the Court of Appeal in _Chan Cheng Wah Bernard and others v Koh Sin Chong Freddie and another appeal_ [2012] 1 SLR 506  … at \[18\], the following guiding principles apply:
 
 (a)    the natural and ordinary meaning of a word is that which is conveyed to an ordinary reasonable person;
 
@@ -225,7 +225,7 @@ See Gary Chan Kok Yew & Lee Pey Woan, _The Law of Torts in Singapore_ (Academy P
 
 62     Quite clearly, the meanings I have found in respect of the disputed words which Quantum complained of from the disputed emails would lower Quantum in the estimation of right-thinking members of society generally and were defamatory of Quantum.
 
-63     As each disputed email is in written form, each constitutes a libel. Under the law of libel, damage is presumed. There is no need for the plaintiff to prove special damage to establish the tort of libel even though the plaintiff is a corporate body and not an individual (see the UK House of Lords’ majority decision in _Jameel (Mohammed) and another v Wall Street Journal Europe Sprl_ at 372–374).
+63     As each disputed email is in written form, each constitutes a libel. Under the law of libel, damage is presumed. There is no need for the plaintiff to prove special damage to establish the tort of libel even though the plaintiff is a corporate body and not an individual (see the UK House of Lords’ majority decision in _Jameel (Mohammed) and another v Wall Street Journal Europe Sprl_  [2007] 1 AC 359 at 372–374).
 
 ### Whether SA acted maliciously
 
@@ -253,7 +253,7 @@ See Gary Chan Kok Yew & Lee Pey Woan, _The Law of Torts in Singapore_ (Academy P
 
 74     The next question is whether the court should order an injunction against SA.
 
-75     Quantum relied on _Lee Hsien Loong v Roy Ngerng Yi Ling_ (“_Roy Ngerng_”) at \[55\] to submit that an injunction should be granted against SA because there was reason to believe SA may further publish defamatory words of Quantum. Quantum submitted that after the 2nd Suit was commenced, SA sent three more emails to Equinix and three emails to employees of Duke-NUS, a tertiary institution. These emails were said to be also defamatory of Quantum.[^13]
+75     Quantum relied on _Lee Hsien Loong v Roy Ngerng Yi Ling_ [2014] SGHC 230   (“_Roy Ngerng_”) at \[55\] to submit that an injunction should be granted against SA because there was reason to believe SA may further publish defamatory words of Quantum. Quantum submitted that after the 2nd Suit was commenced, SA sent three more emails to Equinix and three emails to employees of Duke-NUS, a tertiary institution. These emails were said to be also defamatory of Quantum.[^13]
 
 76     On the other hand, as mentioned, SA said he had stopped sending emails about Quantum’s BMS. The High Court in _Roy Ngerng_ gave little weight to this factor, given that the defendant in that case had previously taken deliberate steps to conceal his actions and to leave his defamatory statements on the Internet (see _Roy Ngerng_ at \[58\]). Here, however, SA did not conceal his emails to others. Indeed, he even copied Quantum on the disputed emails.
 

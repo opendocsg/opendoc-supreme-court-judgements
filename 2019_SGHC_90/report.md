@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Mohd Taufik bin Abu Bakar and another appeal  
+# Public Prosecutor _v_ Mohd Taufik bin Abu Bakar and another appeal [2019] SGHC 90   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Appeal Nos 9199 of 2018/01 and 9199 of 2018/02</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mahmood Gaznavi s/o Bashir Muhammad and Khadijah Yasin (Mahmood Gaznavi &amp; Partners) for the appellant; Nicholas Lai Yi Shin (Attorney-General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mohd Taufik bin Abu Bakar</td></tr></tbody></table>
 
@@ -142,7 +142,7 @@ Criminal Law – Penal Code – Outrage of modesty – Sentencing
 
 44     Viewing the appellant’s acts in light of this superior-subordinate relationship, the trial judge found that the lack of express consent by the PWs to the appellant’s actions, which amounted to intrusions of varying degrees to the PWs’ intimate regions, was sufficient to imbue in the appellant knowledge that his acts would likely outrage the PWs’ modesty.[^34]
 
-45     For example, in finding that the appellant knew that his acts of applying hair removal cream on PW1’s pubic region and his anus would likely outrage PW1’s modesty, the trial judge observed (_Public Prosecutor v Mohd Taufik Bin Abu Bakar_ (“GD”) at \[101\]–\[102\]):
+45     For example, in finding that the appellant knew that his acts of applying hair removal cream on PW1’s pubic region and his anus would likely outrage PW1’s modesty, the trial judge observed (_Public Prosecutor v Mohd Taufik Bin Abu Bakar_ (“GD”) [2018] SGMC 73  at \[101\]–\[102\]):
 
 101    To establish the charge, both the mindset of PW1 and the accused must be considered. In this regard, the relationship between PW1 and the accused is critical. PW1 was then performing his national service in the \[Singapore Police Force\]. He was 19 years old. The accused was an Inspector, his superior and more than 30 years older. The accused was in a position of authority in relation to PW1.
 
@@ -199,7 +199,7 @@ Hence, to the trial judge, the absence of verbal consent by PW1, viewed in light
   
   
 
-62     I pause at this juncture to emphasise that I am in no way critical of PW1’s failure to express his objections to the appellant. As See Kee Oon J observed in _GBR v Public Prosecutor and another appeal_ (_GBR v PP_) at \[20\], “victims of sexual crimes cannot be straightjacketed in the expectation that they must act or react in a certain manner.” I also accepted without hesitation the trial judge’s finding that PW1 was a “soft-spoken” and “shy” person,[^55] given that the trial judge had made her findings based on her direct observations on the demeanour and credibility of PW1. As a result, it was understandable that PW1 failed to sound out his objection to the appellant’s acts. Most importantly, I am in no way condoning the interpretation that mere silence invariably amounts to consent where the acts involve intrusions to a person’s bodily integrity.
+62     I pause at this juncture to emphasise that I am in no way critical of PW1’s failure to express his objections to the appellant. As See Kee Oon J observed in _GBR v Public Prosecutor and another appeal_  [2018] 3 SLR 1048 (_GBR v PP_) at \[20\], “victims of sexual crimes cannot be straightjacketed in the expectation that they must act or react in a certain manner.” I also accepted without hesitation the trial judge’s finding that PW1 was a “soft-spoken” and “shy” person,[^55] given that the trial judge had made her findings based on her direct observations on the demeanour and credibility of PW1. As a result, it was understandable that PW1 failed to sound out his objection to the appellant’s acts. Most importantly, I am in no way condoning the interpretation that mere silence invariably amounts to consent where the acts involve intrusions to a person’s bodily integrity.
 
 63     Nonetheless, the objective circumstances disclose the following:
 
@@ -302,7 +302,7 @@ Hence, to the trial judge, the absence of verbal consent by PW1, viewed in light
 
 93     The Prosecution appealed against the appellant’s sentence for being manifestly inadequate.
 
-94     In _Kunasekaran s/o Kalimuthu Somasundara v Public Prosecutor_ (“_Kunasekaran_”), the two-step sentencing bands approach was adopted for OM cases under s 354(1) of the Penal Code.
+94     In _Kunasekaran s/o Kalimuthu Somasundara v Public Prosecutor_ [2018] 4 SLR 580   (“_Kunasekaran_”), the two-step sentencing bands approach was adopted for OM cases under s 354(1) of the Penal Code.
 
 95     Under the _Kunasekaran_ framework (_Kunasekaran_ at \[45\], citing _GBR v PP_),
 

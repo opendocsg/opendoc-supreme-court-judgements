@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# BLV _v_ Public Prosecutor  
+# BLV _v_ Public Prosecutor [2019] SGCA 6   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Appeal No 10 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Aedit Abdullah J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ramesh Chandr Tiwary (Ramesh Tiwary) for the appellant; Mohamed Faizal Bin Abdul Kadir, April Phang Suet Fern and James Chew Shi Jun (Attorney-General's Chambers) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">BLV — Public Prosecutor</td></tr></tbody></table>
 
@@ -17,7 +17,7 @@ Criminal procedure and sentencing – Adducing fresh evidence – Abuse of p
 
 ### Procedural history
 
-2       The Accused was convicted by me on 10 charges of various forms of sexual assault on his daughter (“the Victim”), and sentenced to 23 years and 6 months’ imprisonment, with 24 strokes of the cane: _PP v BLV_ . Much of the case turned on the form and shape of the Accused’s penis, which went towards whether the Accused was in fact capable of committing some of the alleged acts of sexual assault, such as penile penetration, as well as the credibility of the Victim and that of the Accused’s wife, whose evidence was used to support that of the Victim.
+2       The Accused was convicted by me on 10 charges of various forms of sexual assault on his daughter (“the Victim”), and sentenced to 23 years and 6 months’ imprisonment, with 24 strokes of the cane: _PP v BLV_ [2017] SGHC 154   . Much of the case turned on the form and shape of the Accused’s penis, which went towards whether the Accused was in fact capable of committing some of the alleged acts of sexual assault, such as penile penetration, as well as the credibility of the Victim and that of the Accused’s wife, whose evidence was used to support that of the Victim.
 
 3       At the appeal hearing in January 2018, the Accused by way of criminal motion sought to adduce fresh evidence from one Mohamad Bin Alwan, who could testify as to the shape and appearance of the Accused’s penis after seeing the same while at a public toilet. Directions were given for the filing of the criminal motion; as it was, when the criminal motion was filed, the Accused instead sought to adduce the evidence of another person, Muhammad Ridzwan Bin Idris (“the Witness”), who also saw the Accused’s penis in a public toilet.
 

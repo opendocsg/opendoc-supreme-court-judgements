@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# UNE _v_ UNF  
+# UNE _v_ UNF [2019] SGHCF 9   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce (Transferred) No 1855 of 2016 (Summons No 391 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">17 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court (Family Division)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Debbie Ong J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Foo Soon Yien and Seah Kiat Hong (BR Law Corporation) for the plaintiff; See Chern Yang (Premier Law LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UNE — UNF</td></tr></tbody></table>
 
@@ -19,7 +19,7 @@ The Defendant shall return the Plaintiff her personal photographs and photograph
 
 ## Legal Principles
 
-3       In _PT Sandipala Arthaputra v STMicroelectronics Asia Pacific Pte Ltd_ , the High Court observed that:
+3       In _PT Sandipala Arthaputra v STMicroelectronics Asia Pacific Pte Ltd_ [2018] 4 SLR 828  , the High Court observed that:
 
 41    The law on contempt of court is now found in the Administration of Justice (Protection) Act 2016 (Act 19 of 2016) (“the AJPA”). Section 4(1) of the AJPA provides that any person who “intentionally disobeys or breaches any judgment, decree, direction, order, writ or other process of a court” commits a contempt of court. …
 
@@ -35,7 +35,7 @@ The Defendant shall return the Plaintiff her personal photographs and photograph
 
 (b)    Second, the court will determine whether the requirements of the order of court have been fulfilled … To establish that there has been a contempt of court, the complainant will need to show that in committing the act complained of or omitting to comply with an order of court, the alleged contemnor had the necessary _mens rea_.
 
-4       In _Mok Kah Hong v Zheng Zhuan Yao_ (“_Mok Kah Hong_”), the Court of Appeal held that:
+4       In _Mok Kah Hong v Zheng Zhuan Yao_ [2016] 3 SLR 1  (“_Mok Kah Hong_”), the Court of Appeal held that:
 
 85    First, it is well-established that the applicable standard of proof to _both_ criminal and civil contempt is that of the _criminal_ standard of proof beyond reasonable doubt …
 
@@ -55,7 +55,7 @@ The Defendant shall return the Plaintiff her personal photographs and photograph
 
 7       There is no time period specified in the Order to return the Items.
 
-8       The Husband’s main submission is that, relying on _QU v QV_ , there is a general principle that an order must state in unambiguous terms what the defendant is to do for committal proceedings to lie against that defendant. He submits that as there is no date stated for compliance in the Order, SUM 391/2018 must be dismissed.
+8       The Husband’s main submission is that, relying on _QU v QV_ [2008] 2 SLR(R) 702   , there is a general principle that an order must state in unambiguous terms what the defendant is to do for committal proceedings to lie against that defendant. He submits that as there is no date stated for compliance in the Order, SUM 391/2018 must be dismissed.
 
 9       An important rationale for the decision in _QU v QV_ is that the power to punish a person for contempt of court is quasi-criminal in nature and it would be contrary to all notions of justice that a person should be punished for omitting to do an act when he does not know or is not certain when such omission constitutes a breach of the order. Chan Sek Keong CJ (as he then was) said that “to commit a person to gaol or to a fine for breaching an order of court that lacks certainty is contrary to established notions of justice” (_QU v QV_ at \[21\]).
 

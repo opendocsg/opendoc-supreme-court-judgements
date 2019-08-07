@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Oro Negro Drilling Pte Ltd and others _v_ Integradora de Servicios Petroleros Oro Negro, SAPI de CV and others  
+# Oro Negro Drilling Pte Ltd and others _v_ Integradora de Servicios Petroleros Oro Negro, SAPI de CV and others [2019] SGHC 35   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 126 of 2018 (Summons Nos 2473, 2960 and 4396 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lai Siu Chiu SJ</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ajaib Haridass, Mohammad Haireez Bin Mohameed Jufferie and Ragini d/o Parasuram (Haridass Ho &amp; Partners), Calvin Liang (instructed counsel for the Leave Application) (Essex Court Chambers Duxton (Singapore Group Practice)) for the plaintiffs/appellants; Cavinder Bull SC, Rajaram Vikram Raja and Lua Jie Ying, Kelly (Drew &amp; Napier LLC) for the defendants/respondents; Thio Shen Yi SC and Md Noor E Adnaan (TSMP Law Corporation) for the non-party/respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Oro Negro Drilling Pte. Ltd. — Oro Negro Decus Pte. Ltd. — Oro Negro Fortius Pte. Ltd. — Oro Negro Impetus Pte. Ltd. — Oro Negro Laurus Pte. Ltd. — Oro Negro Primus Pte. Ltd. — Integradora De Servicios Petroleros Oro Negro, S.A.P.I. De C.V. — Alonso Del Val Echeverria — Gonzalo Gil White — Jesús Ángel Guerra Méndez</td></tr></tbody></table>
 
@@ -353,7 +353,7 @@ I should add that the rig owners have either the same or similar articles in the
 
 107    However, the plaintiffs’ reliance on the above articles would not apply to or prevent, the first defendant as a _shareholder_ of Oro Negro and in turn the rig owners, from applying to the Mexican courts for a _concurso_ petition.
 
-108    The plaintiffs had argued that Singapore is the more appropriate forum compared to Mexico for this dispute, citing the following determining factors as spelled out by the Court of Appeal in _Rappo Tania v Accent Delight_ at \[71\]:
+108    The plaintiffs had argued that Singapore is the more appropriate forum compared to Mexico for this dispute, citing the following determining factors as spelled out by the Court of Appeal in _Rappo Tania v Accent Delight_ at [2017] 2 SLR 265  \[71\]:
 
 (a)     personal connections of the parties and their witnesses;
 
@@ -503,9 +503,9 @@ With respect, the court does not share that view.
 
 (a)     Whether a Singapore-incorporated company, pending final determination of any action, continues to be subjected to foreign or even local insolvency proceedings notwithstanding that its constitution prohibits the carrying into effect of insolvency proceedings unless certain conditions precedent are satisfied;[^120]
 
-(b)     What is the scope and application of injunctions granted pursuant to s 409A of the Companies Act on which there is only a High Court authority, _Tang Yoke Kheng v Lek Benedict_ (“_Lek Benedict_”), but no Court of Appeal authority;[^121]
+(b)     What is the scope and application of injunctions granted pursuant to s 409A of the Companies Act on which there is only a High Court authority, _Tang Yoke Kheng v Lek Benedict_ [2004] 3 SLR(R) 12  (“_Lek Benedict_”), but no Court of Appeal authority;[^121]
 
-(c)     What is the interaction between the applicable legal tests for injunctions which contain elements of an anti-suit injunction, an injunction to prevent the breach of negative covenants, as in _RGA Holdings v Loh Choon Ping and Anor_ (“_RGA Holdings_”) and an injunction pursuant to s 409A of the Companies Act; and
+(c)     What is the interaction between the applicable legal tests for injunctions which contain elements of an anti-suit injunction, an injunction to prevent the breach of negative covenants, as in _RGA Holdings v Loh Choon Ping and Anor_ [2017] 2 SLR 997  (“_RGA Holdings_”) and an injunction pursuant to s 409A of the Companies Act; and
 
 (d)     Whether an applicant must demonstrate that the balance of convenience lies in his favour regardless of which type of injunction is applied for.[^122]
 
@@ -519,7 +519,7 @@ With respect, the court does not share that view.
 
 147    The second defendant pointed out that what Article 115A in Oro Negro’s constitution and the equivalent provisions in the constitutions of the rig owners prohibit are _directors_ of the plaintiffs from carrying into effect a petition for the commencement of _concurso_ proceedings. Neither the second nor the third defendants breached Article 115A in this regard as they have no privity of contract with the plaintiffs.[^128] As stated above at \[112\], the second and third defendants are not _members_ of the plaintiffs and are not bound by their constitutions. It follows therefrom that the second and third defendants could not have breached any negative covenant of the sort found in _RGA Holdings_.
 
-148    Counsel for the defendants submitted that leave to appeal on questions of principle and public importance relate to issues that have a broader impact than just one case. He argued that the plaintiffs did not come close to satisfying the legal requirements for leave to appeal as spelt out in _Lee Kuan Yew v Tang Liang Hong_ at \[16\]. These consist of the following three disjunctive limbs:
+148    Counsel for the defendants submitted that leave to appeal on questions of principle and public importance relate to issues that have a broader impact than just one case. He argued that the plaintiffs did not come close to satisfying the legal requirements for leave to appeal as spelt out in _Lee Kuan Yew v Tang Liang Hong_  [1997] 2 SLR(R) 862 at \[16\]. These consist of the following three disjunctive limbs:
 
 (a)     a _prima facie_ case of error of law;
 
@@ -533,7 +533,7 @@ With respect, the court does not share that view.
 
 151    The plaintiffs submitted that the scope and application of injunctions granted pursuant to s 409A of the Companies Act was a question of general principle and public importance. In _Lek Benedict_, the plaintiffs had applied for statutory injunctions under s 409A of the Companies Act against the defendants to enjoin the latter from disposing or otherwise dealing with the goods and other assets of the company. The court granted the injunctions on an interim basis. The injunctions were subsequently discharged on the defendants’ application on the basis that the plaintiffs had not made full and frank disclosure of material facts in obtaining them (_Lek Benedict_ at \[14\]). There was nothing in that case to suggest that a court in determining whether a statutory injunction under s 409A should be granted would have regard to factors/considerations different from those applicable in ordinary injunctions.
 
-152    The plaintiffs had also cited _The Xin Chang Shu_ , a shipping case where the High Court had to decide whether a wrongful arrest order was an “interlocutory order” for the purpose of para (_e_) of the Fifth Schedule of the SCJA for which leave to appeal was required. I do not see the relevance of this case nor of other cases cited by the plaintiffs.
+152    The plaintiffs had also cited _The Xin Chang Shu_ [2016] 3 SLR 1195   , a shipping case where the High Court had to decide whether a wrongful arrest order was an “interlocutory order” for the purpose of para (_e_) of the Fifth Schedule of the SCJA for which leave to appeal was required. I do not see the relevance of this case nor of other cases cited by the plaintiffs.
 
 153    The court was therefore of the view that there were no grounds for leave to appeal to be granted. While the plaintiffs also relied on logic and sensible case management considerations,[^129] these are not grounds for granting leave to appeal for interlocutory applications. Neither could I see how denying leave to appeal to the plaintiffs would have the undesirable effect of tying the hands of the Court of Appeal.[^130]
 

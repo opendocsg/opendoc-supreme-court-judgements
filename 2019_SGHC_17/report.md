@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Muhammad Faizal Bin Mohd Shariff  
+# Public Prosecutor _v_ Muhammad Faizal Bin Mohd Shariff [2019] SGHC 17   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Case No 65 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 January 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Terence Chua, Dwayne Lum and Sia Jiazheng (Attorney-General's Chambers) for the Public Prosecutor; Eugene Thuraisingam and Chooi Jing Yen (Eugene Thuraisingam LLP) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Faizal Bin Mohd Shariff</td></tr></tbody></table>
 
@@ -62,7 +62,7 @@ On or before 14 February 2016, at 95 Pasir Ris Grove, #06-41, NV Residences, Sin
 
 ## The law
 
-16     The Court of Appeal in _Masoud Rahimi bin Mehrzad v Public Prosecutor and another appeal_ at \[28\] listed three elements that have to be fulfilled for the Prosecution to establish a charge under s 5(1)(_a_) read with s 5(2) of the MDA:
+16     The Court of Appeal in _Masoud Rahimi bin Mehrzad v Public Prosecutor and another appeal_ at [2017] 1 SLR 257  \[28\] listed three elements that have to be fulfilled for the Prosecution to establish a charge under s 5(1)(_a_) read with s 5(2) of the MDA:
 
 (a)     Possession of a controlled drug (which may be proved or presumed);
 
@@ -174,7 +174,7 @@ Therefore, I do not accept Faizal’s evidence that the blue foil used for wrapp
 
 28    The 4 storybooks actually belong to me, Serena, Leo and Arab. They are actually for us all to sell. …
 
-49     In _Chan Kin Choi v Public Prosecutor_ , the Court of Appeal observed that in relation to mixed statements which contain both incriminating and exculpatory facts, the incriminating parts are likely to be true – otherwise there would be no incentive to state them. However, the excuses or exculpatory portions need not carry the same weight. Indeed, an accused person would be incentivised to pepper an otherwise incriminating statement with portions of exculpatory evidence in an attempt to reduce his criminal liability. Therefore, it would indeed be sound practice for the court to approach such evidence with caution.
+49     In _Chan Kin Choi v Public Prosecutor_ , [1991] 1 SLR(R) 111   the Court of Appeal observed that in relation to mixed statements which contain both incriminating and exculpatory facts, the incriminating parts are likely to be true – otherwise there would be no incentive to state them. However, the excuses or exculpatory portions need not carry the same weight. Indeed, an accused person would be incentivised to pepper an otherwise incriminating statement with portions of exculpatory evidence in an attempt to reduce his criminal liability. Therefore, it would indeed be sound practice for the court to approach such evidence with caution.
 
 50     The part of the 21 February Statement which I have reproduced above is incriminating in so far as it states that the storybooks were for sale, and exculpatory in so far as it suggests that the other storybooks belonged to the three other occupants of the Unit. Therefore, I am inclined to placing greater weight on the fact that Faizal had admitted that all the four storybooks were for sale, and less weight on what was stated in relation to the storybooks being jointly owned by Serena, Arab and Leo. This is especially so given my finding at \[19\] above that Serena, Arab and Leo did not have knowledge or possession of the six blocks of cannabis.
 

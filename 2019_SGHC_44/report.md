@@ -1,5 +1,5 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Andi Ashwar bin Salihin and others  
+# Public Prosecutor _v_ Andi Ashwar bin Salihin and others [2019] SGHC 44   
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Criminal Case No 28 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">High Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chan Seng Onn J</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Wong Woon Kwong, Michelle Lu, and Desmond Chong (Attorney-General's Chambers) for the Public Prosecutor; Ramesh Chandr Tiwary (Ramesh Tiwary) and Satwant Singh s/o Sarban Singh (Satwant &amp; Associates) for the first accused; Lee Yoon Tet Luke (Luke Lee &amp; Co) and Prasad s/o Karunakarn (K Prasad &amp; Co) for the second accused; Suresh s/o Damodara (Damodara Hazra LLP), Rajan Sanjiv Kumar (Allen &amp; Gledhill LLP) and Josephine Iezu Costan (David Nayar and Vadan) for the third accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Andi Ashwar Bin Salihin — Mohd Akebal s/o Ghulam Jilani — Mohammed Rusli Bin Abdul Rahman</td></tr></tbody></table>
 
@@ -83,7 +83,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 ### Elements of the offence
 
-22     The required elements for a charge of trafficking under s 5(1)(_a_) of the MDA are as follows (see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ at \[59\]):
+22     The required elements for a charge of trafficking under s 5(1)(_a_) of the MDA are as follows (see _Muhammad Ridzuan bin Md Ali v Public Prosecutor and other matters_ [2014] 3 SLR 721  at \[59\]):
 
 (a)     possession of a controlled drug (which may be proved or presumed pursuant to s 18(1) of the MDA, or deemed pursuant to s 18(4) of the MDA);
 
@@ -95,7 +95,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 ### Possession of diamorphine
 
-24     To prove that Andi was in possession of the drugs, the Prosecution must prove that the accused (a) had physical control over the drugs and that he (b) knew “of the existence of the thing itself” (_Fun Seong Cheng v Public Prosecutor_ (“_Fun Seong Cheng_”) at \[53\]–\[56\]).
+24     To prove that Andi was in possession of the drugs, the Prosecution must prove that the accused (a) had physical control over the drugs and that he (b) knew “of the existence of the thing itself” (_Fun Seong Cheng v Public Prosecutor_ (“_Fun [1997] 2 SLR(R) 796  Seong Cheng_”) at \[53\]–\[56\]).
 
 25     Hence, proving that Andi had physical control over the orange plastic bag containing the drugs was insufficient; the Prosecution had to further prove that he knew of the existence of _both_ bundles of drugs which contained the diamorphine.
 
@@ -127,7 +127,7 @@ Criminal Law – Statutory offences – Misuse of Drugs Act
 
 ### Principles in dealing with identification evidence
 
-37     The principles in dealing with identification evidence were distilled by the Court of Appeal in a three-step test in _Heng Aik Ren Thomas v Public Prosecutor_ (“_Thomas Heng_”) at \[33\]–\[36\]:
+37     The principles in dealing with identification evidence were distilled by the Court of Appeal in a three-step test in _Heng Aik Ren Thomas v Public Prosecutor_  [1998] 3 SLR(R) 142 (“_Thomas Heng_”) at \[33\]–\[36\]:
 
 (a)     First, does the case against the accused depend wholly or substantially on the correctness of the identification evidence which is alleged by the Defence to be mistaken?
 
@@ -243,7 +243,7 @@ A:Yes, correct.
 
 (c)     Andi testified that the male Indian was wearing a _light-coloured_ short sleeved _shirt_.[^73]
 
-62     As a starting point, I do not think that Akebal’s actual attire on the day of the drug transaction is crucial to the quality of the identification evidence. Herein, SSI Ng’s and Andi’s identification evidence were based on Akebal’s _face_, not his attire. While I note the varying accounts of the male Indian’s alleged attire on the day of the drug transaction, the Prosecution’s witnesses had given their testimony in 2017 or 2018, some three to four years after the drug transaction had taken place. As noted in _Ng Kwee Leong v Public Prosecutor_ at \[17\], allowance must be given for human fallibility in recollection. Hence, I did not think the discrepancies were material, especially since I find that Akebal’s claim as regards his attire was _uncorroborated_.
+62     As a starting point, I do not think that Akebal’s actual attire on the day of the drug transaction is crucial to the quality of the identification evidence. Herein, SSI Ng’s and Andi’s identification evidence were based on Akebal’s _face_, not his attire. While I note the varying accounts of the male Indian’s alleged attire on the day of the drug transaction, the Prosecution’s witnesses had given their testimony in 2017 or 2018, some three to four years after the drug transaction had taken place. As noted in _Ng Kwee Leong v Public Prosecutor_  [1998] 3 SLR(R) 281 at \[17\], allowance must be given for human fallibility in recollection. Hence, I did not think the discrepancies were material, especially since I find that Akebal’s claim as regards his attire was _uncorroborated_.
 
 63     First, Akebal only reported for his urine test at 12.22pm on 22 August 2014,[^74] almost 2 hours after SSI Ng and SSgt Sunny Chien had observed the drug transaction between the male Indian whom they identified to be Akebal and Andi. Given the significant break in time, it was not implausible for Akebal to have been wearing a short-sleeved top during the transaction and changed prior to reporting for his urine test. That he had allegedly reported for his urine test on 22 August 2014 in a long sleeved T-shirt was therefore not corroborative.
 
@@ -294,21 +294,21 @@ A:Yes, correct.
 
 80     To prove the charge of abetment by instigation against Rusli, the Prosecution has to prove:
 
-(a)     The _actus reus_ of the instigation, being “active suggestion, support, stimulation or encouragement” of Andi’s trafficking offence (_Chan Heng Kong and another v Public Prosecutor_ at \[34\]),
+(a)     The _actus reus_ of the instigation, being “active suggestion, support, stimulation or encouragement” of Andi’s trafficking offence (_Chan Heng Kong and another v Public Prosecutor_ at [2012] SGCA 18  \[34\]),
 
-(b)     The _mens rea_ of the instigation, being “knowledge of all essential matters constituting the primary offence” (_Public Prosecutor v Koh Peng Kiat_ (“_Koh Peng Kiat_”) at \[26\] – \[27\]), and
+(b)     The _mens rea_ of the instigation, being “knowledge of all essential matters constituting the primary offence” (_Public Prosecutor v Koh Peng Kiat_ [2016] 1 SLR 753  (“_Koh Peng Kiat_”) at \[26\] – \[27\]), and
 
-(c)     That Rusli, being the intended recipient of the drugs, _intended_ to traffic in the drugs (as opposed to consuming it) (_Ali bin Mohamad Bahashwan v Public Prosecutor and other appeals_ (“_Ali bin Mohamad_”) at \[75\] – \[78\]).
+(c)     That Rusli, being the intended recipient of the drugs, _intended_ to traffic in the drugs (as opposed to consuming it) (_Ali bin Mohamad Bahashwan v Public Prosecutor and other appeals_ [2018] 1 SLR 610  (“_Ali bin Mohamad_”) at \[75\] – \[78\]).
 
 81     Only element (b) relating to Rusli’s knowledge is substantially disputed. Relating to the _actus reus_, Rusli admitted in his statement[^88] and at trial[^89] that Andi had collected the drugs on his instructions, and this was corroborated by Andi.[^90] Further, Rusli did not contend that the drugs were for his personal consumption, and hence element (c) does not arise for consideration.
 
 ### Knowledge of both bundles of drugs
 
-82     Therefore, to prove the charge against Rusli, the Prosecution must establish the _mens rea_ of Rusli’s instigation, being “knowledge of all essential matters constituting the primary offence” (_Koh Peng Kiat_ at \[26\] – \[27\], see also _Public Prosecutor v Mohamad Yazid Bin Md Yusof and others_ at \[33\]).
+82     Therefore, to prove the charge against Rusli, the Prosecution must establish the _mens rea_ of Rusli’s instigation, being “knowledge of all essential matters constituting the primary offence” (_Koh Peng Kiat_ at \[26\] – \[27\], see also _Public Prosecutor v Mohamad Yazid Bin Md Yusof and others_ [2016] SGHC 102  at \[33\]).
 
 83     For the primary offence of trafficking drugs, two components of knowledge are readily apparent.
 
-84     First, it must be shown that the abettor had knowledge of the _nature_ of the drugs in question (_Public Prosecutor v Zulkarnain bin Kemat_ at \[61\]). This aspect was undisputed, as Rusli admitted that he knew that the black bundles which Andi had collected on his behalf contained _obat_.[^91] This relates to knowledge under the second element of the charge of trafficking (see \[22(b)\] above).
+84     First, it must be shown that the abettor had knowledge of the _nature_ of the drugs in question (_Public Prosecutor v Zulkarnain bin Kemat_ at [2018] SGHC 161  \[61\]). This aspect was undisputed, as Rusli admitted that he knew that the black bundles which Andi had collected on his behalf contained _obat_.[^91] This relates to knowledge under the second element of the charge of trafficking (see \[22(b)\] above).
 
 85     Secondly, it must be shown that the abettor had knowledge “of the existence of the thing itself” (_Fun Seong Cheng_ at \[53\] – \[56\]), this being an “essential matter constituting the primary offence” (_Koh Peng Kiat_ at \[26\] – \[27\]) of trafficking. This relates to knowledge under the first element of the charge of trafficking, under the limb of possession (see \[22(a)\] and \[24\] – \[25\] above).
 
@@ -318,7 +318,7 @@ A:Yes, correct.
 
 87     The Prosecution submitted that Rusli knew, by virtue of him being wilfully blind, that Andi would collect two bundles of _obat_.[^92]
 
-88     The Court of Appeal observed in _Tan Kiam Peng v Public Prosecutor_ (“_Tan Kiam Peng_”) at \[123\] that wilful blindness was treated as the legal equivalent of actual knowledge.
+88     The Court of Appeal observed in _Tan Kiam Peng v Public Prosecutor_ [2008] 1 SLR(R) 1  (“_Tan Kiam Peng_”) at \[123\] that wilful blindness was treated as the legal equivalent of actual knowledge.
 
 89     To establish wilful blindness, there has to be an _appropriate level_ of suspicion that led to a refusal to investigate further (_Tan Kiam Peng_ at \[125\]). As further explained in _Tan Kiam Peng_ at \[127\]:
 
@@ -390,7 +390,7 @@ There is a vast distinction between a state of mind which consists of _deliberat
 
 112    Preliminarily, I find that the evidence is plainly insufficient to prove that Rusli had acted under Azman’s instructions.
 
-113    In _Mohamed Affandi bin Rosli v Public Prosecutor and another appeal_ (“_Affandi_”), there were 4 calls exchanged between the accused persons, Affandi and Fadzli, on the morning of 12 July 2013, being the day that Affandi was arrested with eight bundles of drugs. The trial judge found that the “high level of communication” between the pair prior to their arrest “showed that something was going on between them which required them to stay up in the early hours of the morning and communicate with one another” (_Affandi_ at \[94\]). On appeal, the majority (consisting of Sundaresh Menon CJ and Chao Hick Tin SJ) disagreed, and held that given the lack of objective evidence of what was said during the calls, it was unsafe to conclude that they had any relation with the eight bundles of drugs that were subsequently found in Affandi’s car (_Affandi_ at \[96\] – \[97\]).
+113    In _Mohamed Affandi bin Rosli v Public Prosecutor and another appeal_ [2018] SGCA 87  (“_Affandi_”), there were 4 calls exchanged between the accused persons, Affandi and Fadzli, on the morning of 12 July 2013, being the day that Affandi was arrested with eight bundles of drugs. The trial judge found that the “high level of communication” between the pair prior to their arrest “showed that something was going on between them which required them to stay up in the early hours of the morning and communicate with one another” (_Affandi_ at \[94\]). On appeal, the majority (consisting of Sundaresh Menon CJ and Chao Hick Tin SJ) disagreed, and held that given the lack of objective evidence of what was said during the calls, it was unsafe to conclude that they had any relation with the eight bundles of drugs that were subsequently found in Affandi’s car (_Affandi_ at \[96\] – \[97\]).
 
 114    Similarly, even if Rusli had agreed to help Andi, and thereafter obtained AK-HP’s number from Azman,[^126] this only confirms that Azman had communicated AK-HP’s number to Rusli. Without objective evidence of what transpired during the phone calls, the phone records are plainly insufficient to show that Rusli was acting under Azman’s instructions. This was especially as both Rusli and Andi gave evidence that Andi had been acting under Rusli’s instructions only[^127] and that Rusli had his own set of customers to sell the _obat_ to.[^128]
 
@@ -448,7 +448,7 @@ A:Agree.
 
 126    However, I do not find that Rusli therefore had knowledge of both bundles of _obat_. This is because an alternate explanation for Andi having received two bundles on Rusli’s behalf could be because Akebal was attempting to offload more _obat_ to Rusli. This is consistent with the deferred payment arrangement that the parties had, whereby Rusli did not have to pay for the drugs until he had finished selling them.[^140] As a result, there was no exchange of moneys observed when Akebal delivered the orange plastic bag to Andi.[^141] Hence, there was a commercial incentive for Akebal to deliver more drugs to Rusli since he would receive more payment _if_ the drugs were repacked and completely sold, as was often the case until their arrest.[^142]
 
-127    It is beyond the remit of this court to decide which of the two explanations ought to be preferred. As V K Rajah JA (as he then was) observed in _Sakthivel Punithavathi v Public Prosecutor_ at \[81\]:
+127    It is beyond the remit of this court to decide which of the two explanations ought to be preferred. As V K Rajah JA (as he then was) observed in _Sakthivel Punithavathi v Public Prosecutor_  [2007] 2 SLR(R) 983  at \[81\]:
 
 … \[I\]t is a matter of considerable significance, in a case such as this, to emphasise and ensure that the criterion of proof of guilt beyond reasonable doubt _prohibits the trial judge from filling in the gaps in the Prosecution’s case_ on her own initiative and through conjecture or supposition … \[emphasis added\]
 
