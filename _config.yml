@@ -13,6 +13,9 @@ styling_options:
   logo_path: /assets/ic-logo.png
   opendoc_logo_path: /assets/images/logo-full.png
 document_order:
+  - 2019_SGHC_251
+  - 2019_SGCA_57
+  - 2019_SGHC_253
   - 2019_SGHC_252
   - 2019_SGCA_56
   - 2019_SGHC_250
