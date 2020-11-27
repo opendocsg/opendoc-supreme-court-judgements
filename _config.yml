@@ -13,6 +13,9 @@ styling_options:
   logo_path: /assets/ic-logo.png
   opendoc_logo_path: /assets/images/logo-full.png
 document_order:
+  - 2020_SGHCF_21
+  - 2020_SGHC(I)_24
+  - 2020_SGHC_258
   - 2020_SGHC_259
   - 2020_SGHCF_20
   - 2020_SGCA_115
